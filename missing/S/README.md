@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Grindea | 8436 | [8436-secrets-of-grindea.json](./8436-secrets-of-grindea.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
+| Secrets of Me | 31974 | [31974-secrets-of-me.json](./31974-secrets-of-me.json) |
 | Secrets of Orion: Sword of Destiny. | 236935 | [236935-secrets-of-orion-sword-of-destiny.json](./236935-secrets-of-orion-sword-of-destiny.json) |
 | Secrets of Salem: Shadow of the Witch - Collector's Edition | 341022 | [341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json](./341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
@@ -4218,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinwalkers Valley | 379339 | [379339-skinwalkers-valley.json](./379339-skinwalkers-valley.json) |
 | Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
+| Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
 | Skipper & Skeeto: The Shadow of Mr. Shade | 22353 | [22353-skipper-and-skeeto-the-shadow-of-mr-shade.json](./22353-skipper-and-skeeto-the-shadow-of-mr-shade.json) |
 | Skipper 2 | 395724 | [395724-skipper-2.json](./395724-skipper-2.json) |
@@ -4343,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Tower | 34625 | [34625-sky-tower.json](./34625-sky-tower.json) |
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
 | Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
+| Sky Valley | 31947 | [31947-sky-valley.json](./31947-sky-valley.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
 | Skybase | 294267 | [294267-skybase.json](./294267-skybase.json) |
 | Skybase: Space Station Simulator | 208952 | [208952-skybase-space-station-simulator.json](./208952-skybase-space-station-simulator.json) |
@@ -9620,6 +9623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Stratego | 72027 | [72027-stratego.json](./72027-stratego.json) |
 | Stratego Online | 20172 | [20172-stratego-online.json](./20172-stratego-online.json) |
+| Strategy & Tactics: Dark Ages | 31923 | [31923-strategy-and-tactics-dark-ages.json](./31923-strategy-and-tactics-dark-ages.json) |
 | Strategy & Tactics: Sandbox World War II TBS | 99992 | [99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json](./99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
@@ -11626,6 +11630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Volley Blast | 105274 | [105274-super-volley-blast.json](./105274-super-volley-blast.json) |
 | Super Volte-Face | 310414 | [310414-super-volte-face.json](./310414-super-volte-face.json) |
 | Super Voxel World | 176443 | [176443-super-voxel-world.json](./176443-super-voxel-world.json) |
+| Super VR Trainer | 31907 | [31907-super-vr-trainer.json](./31907-super-vr-trainer.json) |
 | Super Wagyan Land | 42539 | [42539-super-wagyan-land.json](./42539-super-wagyan-land.json) |
 | Super Wakana Land | 275567 | [275567-super-wakana-land.json](./275567-super-wakana-land.json) |
 | Super Walrus Entertainment System | 156630 | [156630-super-walrus-entertainment-system.json](./156630-super-walrus-entertainment-system.json) |
@@ -12263,6 +12268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch It | 152896 | [152896-switch-it.json](./152896-switch-it.json) |
 | Switch Race | 306517 | [306517-switch-race.json](./306517-switch-race.json) |
 | Switch Shapes | 406772 | [406772-switch-shapes.json](./406772-switch-shapes.json) |
+| Switch: Or Die Trying | 31968 | [31968-switch-or-die-trying.json](./31968-switch-or-die-trying.json) |
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
 | Switchblade II | 126452 | [126452-switchblade-ii.json](./126452-switchblade-ii.json) |
