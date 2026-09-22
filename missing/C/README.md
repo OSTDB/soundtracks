@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterpillar King | 384085 | [384085-caterpillar-king.json](./384085-caterpillar-king.json) |
 | Caterpillar Royale | 115466 | [115466-caterpillar-royale.json](./115466-caterpillar-royale.json) |
 | Caterra | 224079 | [224079-caterra.json](./224079-caterra.json) |
+| Caterva: Outsider Dreams | 412535 | [412535-caterva-outsider-dreams.json](./412535-caterva-outsider-dreams.json) |
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
 | Catfishing Cuties | 181854 | [181854-catfishing-cuties.json](./181854-catfishing-cuties.json) |
@@ -3478,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
+| Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
 | Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
@@ -4796,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copa City | 305177 | [305177-copa-city.json](./305177-copa-city.json) |
 | Copa Petrobras de Marcas | 90609 | [90609-copa-petrobras-de-marcas.json](./90609-copa-petrobras-de-marcas.json) |
 | Cope Island: Adrift | 113755 | [113755-cope-island-adrift.json](./113755-cope-island-adrift.json) |
+| Copero | 412505 | [412505-copero.json](./412505-copero.json) |
 | Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
@@ -5333,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CragEx-5 | 346125 | [346125-cragex-5.json](./346125-cragex-5.json) |
 | Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
 | Craggfall | 415157 | [415157-craggfall.json](./415157-craggfall.json) |
+| Craig's Cave | 412549 | [412549-craigs-cave.json](./412549-craigs-cave.json) |
 | CraMagear | 226833 | [226833-cramagear.json](./226833-cramagear.json) |
 | Cramble | 105760 | [105760-cramble.json](./105760-cramble.json) |
 | Cramgene | 92857 | [92857-cramgene.json](./92857-cramgene.json) |
