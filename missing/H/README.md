@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Forever | 149425 | [149425-hentai-forever.json](./149425-hentai-forever.json) |
 | Hentai Fox | 310938 | [310938-hentai-fox.json](./310938-hentai-fox.json) |
 | Hentai Furry Bunny | 347768 | [347768-hentai-furry-bunny.json](./347768-hentai-furry-bunny.json) |
+| Hentai Furry Goat | 411126 | [411126-hentai-furry-goat.json](./411126-hentai-furry-goat.json) |
 | Hentai Furry Pig | 399712 | [399712-hentai-furry-pig.json](./399712-hentai-furry-pig.json) |
 | Hentai Furry Unicorny | 347771 | [347771-hentai-furry-unicorny.json](./347771-hentai-furry-unicorny.json) |
 | Hentai Gallery: Hot Fantasy | 378805 | [378805-hentai-gallery-hot-fantasy.json](./378805-hentai-gallery-hot-fantasy.json) |
@@ -2906,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HK Project | 57890 | [57890-hk-project.json](./57890-hk-project.json) |
 | Hlina | 244996 | [244996-hlina.json](./244996-hlina.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
+| Ho Ho Ho Sokoban | 411131 | [411131-ho-ho-ho-sokoban.json](./411131-ho-ho-ho-sokoban.json) |
 | Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
 | Ho-Ho-Maze! | 340476 | [340476-ho-ho-maze.json](./340476-ho-ho-maze.json) |
 | Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
@@ -3962,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
+| Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
 | Huckleberry Hound in Hollywood Capers | 73530 | [73530-huckleberry-hound-in-hollywood-capers.json](./73530-huckleberry-hound-in-hollywood-capers.json) |
 | Huddam 2 Berzah | 307770 | [307770-huddam-2-berzah.json](./307770-huddam-2-berzah.json) |
 | Hudson 3D Golf | 97679 | [97679-hudson-3d-golf.json](./97679-hudson-3d-golf.json) |
@@ -4142,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - When Shadows Dance | 265773 | [265773-hunt-showdown-1896-when-shadows-dance.json](./265773-hunt-showdown-1896-when-shadows-dance.json) |
 | Huntdown | 19728 | [19728-huntdown.json](./19728-huntdown.json) |
 | Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
+| Hunted | 411137 | [411137-hunted.json](./411137-hunted.json) |
 | Hunted By Monsters: Haunting In The Castle Dungeon | 240875 | [240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json](./240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json) |
 | Hunted: One Step Too Far | 25874 | [25874-hunted-one-step-too-far.json](./25874-hunted-one-step-too-far.json) |
 | Hunted: Survive the Night | 211787 | [211787-hunted-survive-the-night.json](./211787-hunted-survive-the-night.json) |
