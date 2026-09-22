@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taishou Mebiusline Vitable | 141896 | [141896-taishou-mebiusline-vitable.json](./141896-taishou-mebiusline-vitable.json) |
 | Taito Arcade 3 | 393613 | [393613-taito-arcade-3.json](./393613-taito-arcade-3.json) |
 | Taito Chase H.Q. | 48629 | [48629-taito-chase-h-q.json](./48629-taito-chase-h-q.json) |
+| Taito Legends 2 | 267186 | [267186-taito-legends-2.json](./267186-taito-legends-2.json) |
 | Taito Memories II Gekan | 94711 | [94711-taito-memories-ii-gekan.json](./94711-taito-memories-ii-gekan.json) |
 | Taito Memories Pocket | 71784 | [71784-taito-memories-pocket.json](./71784-taito-memories-pocket.json) |
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
@@ -424,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Argento: Spirit of the Goddess | 379433 | [379433-tales-of-argento-spirit-of-the-goddess.json](./379433-tales-of-argento-spirit-of-the-goddess.json) |
 | Tales of Arise: Beyond the Dawn | 266719 | [266719-tales-of-arise-beyond-the-dawn.json](./266719-tales-of-arise-beyond-the-dawn.json) |
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
+| Tales of Arise: Beyond the Dawn Edition | 267775 | [267775-tales-of-arise-beyond-the-dawn-edition.json](./267775-tales-of-arise-beyond-the-dawn-edition.json) |
 | Tales of Arise: Classic Characters Costume & Arranged BGM Pack | 275691 | [275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json](./275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json) |
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
@@ -638,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi no Narikiri Channel | 77624 | [77624-tamagotchi-no-narikiri-channel.json](./77624-tamagotchi-no-narikiri-channel.json) |
 | Tamagotchi no Pichi Pichi Omisecchi | 77622 | [77622-tamagotchi-no-pichi-pichi-omisecchi.json](./77622-tamagotchi-no-pichi-pichi-omisecchi.json) |
 | Tamagotchi no Pika Pika Daitouryou! | 20652 | [20652-tamagotchi-no-pika-pika-daitouryou.json](./20652-tamagotchi-no-pika-pika-daitouryou.json) |
+| Tamagotchi Plaza: Nintendo Switch 2 Edition | 338111 | [338111-tamagotchi-plaza-nintendo-switch-2-edition.json](./338111-tamagotchi-plaza-nintendo-switch-2-edition.json) |
 | Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
 | Tamagotchi: Party On! | 5211 | [5211-tamagotchi-party-on.json](./5211-tamagotchi-party-on.json) |
 | Tamagotchi! Seishun no Dream School | 77621 | [77621-tamagotchi-seishun-no-dream-school.json](./77621-tamagotchi-seishun-no-dream-school.json) |
@@ -3930,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
+| The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
 | The Jackbox Party Pack 3 | 19082 | [19082-the-jackbox-party-pack-3.json](./19082-the-jackbox-party-pack-3.json) |
 | The Jackbox Party Pack 6 | 125021 | [125021-the-jackbox-party-pack-6.json](./125021-the-jackbox-party-pack-6.json) |
 | The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
@@ -4345,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
 | The Legend of Korra: A New Era Begins | 7996 | [7996-the-legend-of-korra-a-new-era-begins.json](./7996-the-legend-of-korra-a-new-era-begins.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
+| The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
 | The Legend of Lumina | 302360 | [302360-the-legend-of-lumina.json](./302360-the-legend-of-lumina.json) |
 | The Legend of Maya | 78324 | [78324-the-legend-of-maya.json](./78324-the-legend-of-maya.json) |
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
@@ -4525,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonely Architect | 333663 | [333663-the-lonely-architect.json](./333663-the-lonely-architect.json) |
 | The Lonely Gorilla | 94769 | [94769-the-lonely-gorilla.json](./94769-the-lonely-gorilla.json) |
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
+| The Lonesome Guild | 333042 | [333042-the-lonesome-guild.json](./333042-the-lonesome-guild.json) |
 | The Long Dark: Quiet Apocalypse Edition | 401672 | [401672-the-long-dark-quiet-apocalypse-edition.json](./401672-the-long-dark-quiet-apocalypse-edition.json) |
 | The Long Desert Drive | 360047 | [360047-the-long-desert-drive.json](./360047-the-long-desert-drive.json) |
 | The Long Drift | 392303 | [392303-the-long-drift.json](./392303-the-long-drift.json) |
@@ -9626,6 +9632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrailRail | 366850 | [366850-trailrail.json](./366850-trailrail.json) |
 | Trails | 342158 | [342158-trails.json](./342158-trails.json) |
 | Trails in the Sky 1st Chapter: Steelbook Edition | 351131 | [351131-trails-in-the-sky-1st-chapter-steelbook-edition.json](./351131-trails-in-the-sky-1st-chapter-steelbook-edition.json) |
+| Trails in the Sky 2nd Chapter | 377314 | [377314-trails-in-the-sky-2nd-chapter.json](./377314-trails-in-the-sky-2nd-chapter.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
 | Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
