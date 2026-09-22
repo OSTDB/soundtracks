@@ -3895,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: Frog Fighter | 25666 | [25666-hugo-frog-fighter.json](./25666-hugo-frog-fighter.json) |
 | Hugo: Magic in the Trollwoods | 48023 | [48023-hugo-magic-in-the-trollwoods.json](./48023-hugo-magic-in-the-trollwoods.json) |
 | Hugo: På Nye Eventyr | 11760 | [11760-hugo-pa-nye-eventyr.json](./11760-hugo-pa-nye-eventyr.json) |
+| Hugo: The Evil Mirror | 6438 | [6438-hugo-the-evil-mirror.json](./6438-hugo-the-evil-mirror.json) |
 | Hugo: The Forces of Nature | 15538 | [15538-hugo-the-forces-of-nature.json](./15538-hugo-the-forces-of-nature.json) |
 | Hugo: The Quest for the Sunstones | 44743 | [44743-hugo-the-quest-for-the-sunstones.json](./44743-hugo-the-quest-for-the-sunstones.json) |
 | Hugungui Beopchik | 212858 | [212858-hugungui-beopchik.json](./212858-hugungui-beopchik.json) |
