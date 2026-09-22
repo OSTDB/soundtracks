@@ -4822,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futa University | 209487 | [209487-futa-university.json](./209487-futa-university.json) |
 | Futa Zone: Lewd Control | 399731 | [399731-futa-zone-lewd-control.json](./399731-futa-zone-lewd-control.json) |
 | Futagoza No Paradox | 143521 | [143521-futagoza-no-paradox.json](./143521-futagoza-no-paradox.json) |
+| Futanari & Ladyboy Hotel | 393837 | [393837-futanari-and-ladyboy-hotel.json](./393837-futanari-and-ladyboy-hotel.json) |
 | Futanari Fantasy XX | 97840 | [97840-futanari-fantasy-xx.json](./97840-futanari-fantasy-xx.json) |
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
 | Futanari Sex: The Gym | 203539 | [203539-futanari-sex-the-gym.json](./203539-futanari-sex-the-gym.json) |
