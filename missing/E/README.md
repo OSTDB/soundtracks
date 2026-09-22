@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthKart | 269029 | [269029-earthkart.json](./269029-earthkart.json) |
 | Earthless | 252866 | [252866-earthless.json](./252866-earthless.json) |
 | Earthling Priorities | 229154 | [229154-earthling-priorities.json](./229154-earthling-priorities.json) |
+| EarthNight | 27742 | [27742-earthnight.json](./27742-earthnight.json) |
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthrise | 73274 | [73274-earthrise.json](./73274-earthrise.json) |
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
@@ -2562,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
+| Exodemon | 27740 | [27740-exodemon.json](./27740-exodemon.json) |
 | Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
 | Exodos | 297069 | [297069-exodos.json](./297069-exodos.json) |
 | Exodus | 212237 | [212237-exodus.json](./212237-exodus.json) |
