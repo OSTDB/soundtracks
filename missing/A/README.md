@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
+| A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
 | A Knight's Life | 197750 | [197750-a-knights-life.json](./197750-a-knights-life.json) |
 | A Knight's Move | 89689 | [89689-a-knights-move.json](./89689-a-knights-move.json) |
 | A Knight's Pursuit | 311662 | [311662-a-knights-pursuit.json](./311662-a-knights-pursuit.json) |
@@ -412,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
+| Abandoned: Chestnut Lodge Asylum | 34552 | [34552-abandoned-chestnut-lodge-asylum.json](./34552-abandoned-chestnut-lodge-asylum.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
@@ -1164,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
 | AIR Battlefront | 117477 | [117477-air-battlefront.json](./117477-air-battlefront.json) |
+| Air Brawl | 35081 | [35081-air-brawl.json](./35081-air-brawl.json) |
 | Air Bucks | 14230 | [14230-air-bucks.json](./14230-air-bucks.json) |
 | Air Cavalry: Flight Simulator | 246427 | [246427-air-cavalry-flight-simulator.json](./246427-air-cavalry-flight-simulator.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
@@ -4258,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Art Master 2 | 227374 | [227374-art-master-2.json](./227374-art-master-2.json) |
+| Art of Balance Touch! | 47654 | [47654-art-of-balance-touch.json](./47654-art-of-balance-touch.json) |
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
@@ -4503,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt: Urban GT | 243184 | [243184-asphalt-urban-gt.json](./243184-asphalt-urban-gt.json) |
 | Asphalt: Urban GT | 6260 | [6260-asphalt-urban-gt.json](./6260-asphalt-urban-gt.json) |
 | Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
+| Asphyxia | 34827 | [34827-asphyxia.json](./34827-asphyxia.json) |
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
 | Assassin Blue | 124628 | [124628-assassin-blue.json](./124628-assassin-blue.json) |
