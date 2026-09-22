@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
 | I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
+| I Can't Beat The Beautiful Ones | 393117 | [393117-i-cant-beat-the-beautiful-ones.json](./393117-i-cant-beat-the-beautiful-ones.json) |
 | I Can't Believe It's Not Gambling: GOTY Edition | 74929 | [74929-i-cant-believe-its-not-gambling-goty-edition.json](./74929-i-cant-believe-its-not-gambling-goty-edition.json) |
 | I Can't Escape: Darkness | 35861 | [35861-i-cant-escape-darkness.json](./35861-i-cant-escape-darkness.json) |
 | I Can't Hear Your Words, So I Want To Listen To Your Heart | 367519 | [367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json](./367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json) |
@@ -1616,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Gear | 10437 | [10437-inside-the-gear.json](./10437-inside-the-gear.json) |
 | Inside the Memories | 152862 | [152862-inside-the-memories.json](./152862-inside-the-memories.json) |
 | Inside The Mind Of Irene Moroz | 409701 | [409701-inside-the-mind-of-irene-moroz.json](./409701-inside-the-mind-of-irene-moroz.json) |
+| Inside The Park VR | 393106 | [393106-inside-the-park-vr.json](./393106-inside-the-park-vr.json) |
 | Inside the Void | 167706 | [167706-inside-the-void.json](./167706-inside-the-void.json) |
 | Inside Trader: The Authentic Stock Trading Game | 94246 | [94246-inside-trader-the-authentic-stock-trading-game.json](./94246-inside-trader-the-authentic-stock-trading-game.json) |
 | Inside Us | 236846 | [236846-inside-us.json](./236846-inside-us.json) |
