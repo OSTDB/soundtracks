@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Octahedron | 104483 | [104483-mad-octahedron.json](./104483-mad-octahedron.json) |
 | Mad Quad | 80906 | [80906-mad-quad.json](./80906-mad-quad.json) |
 | Mad Rat | 279741 | [279741-mad-rat.json](./279741-mad-rat.json) |
+| Mad Rat Dead | 135301 | [135301-mad-rat-dead.json](./135301-mad-rat-dead.json) |
 | Mad Rider | 145025 | [145025-mad-rider.json](./145025-mad-rider.json) |
 | Mad Road: Apocalyptic Shooter Survival Killer | 251597 | [251597-mad-road-apocalyptic-shooter-survival-killer.json](./251597-mad-road-apocalyptic-shooter-survival-killer.json) |
 | Mad Rocket: Fog of War | 111758 | [111758-mad-rocket-fog-of-war.json](./111758-mad-rocket-fog-of-war.json) |
@@ -4565,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MixiM | 202360 | [202360-mixim.json](./202360-mixim.json) |
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
+| Mixolumia | 136536 | [136536-mixolumia.json](./136536-mixolumia.json) |
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixups by POWGI | 118158 | [118158-mixups-by-powgi.json](./118158-mixups-by-powgi.json) |
 | Mixx Island: Remix Plus - Amazing Edition | 290431 | [290431-mixx-island-remix-plus-amazing-edition.json](./290431-mixx-island-remix-plus-amazing-edition.json) |
@@ -5267,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
 | Monster Prom: Hotseat Edition | 144089 | [144089-monster-prom-hotseat-edition.json](./144089-monster-prom-hotseat-edition.json) |
 | Monster Prom: Second Term | 155070 | [155070-monster-prom-second-term.json](./155070-monster-prom-second-term.json) |
+| Monster Prom: XXL | 132997 | [132997-monster-prom-xxl.json](./132997-monster-prom-xxl.json) |
 | Monster Pub | 100561 | [100561-monster-pub.json](./100561-monster-pub.json) |
 | Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
