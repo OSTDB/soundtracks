@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Pachinko Cotton | 43285 | [43285-magical-pachinko-cotton.json](./43285-magical-pachinko-cotton.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
+| Magical Psalter II: Féngmó zhī Tú | 394500 | [394500-magical-psalter-ii-fengmo-zhi-tu.json](./394500-magical-psalter-ii-fengmo-zhi-tu.json) |
 | Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
 | Magical Sound Car | 159359 | [159359-magical-sound-car.json](./159359-magical-sound-car.json) |
 | Magical Sports: 2001 Pro Yakyuu | 58511 | [58511-magical-sports-2001-pro-yakyuu.json](./58511-magical-sports-2001-pro-yakyuu.json) |
