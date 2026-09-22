@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 10 | 3133 | [3133-fifa-soccer-10.json](./3133-fifa-soccer-10.json) |
 | FIFA Soccer 11 | 503 | [503-fifa-soccer-11.json](./503-fifa-soccer-11.json) |
 | FIFA Soccer 13 | 2153 | [2153-fifa-soccer-13.json](./2153-fifa-soccer-13.json) |
+| FIFA Soccer 13 | 240414 | [240414-fifa-soccer-13.json](./240414-fifa-soccer-13.json) |
 | FIFA Soccer 2002 | 49326 | [49326-fifa-soccer-2002.json](./49326-fifa-soccer-2002.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
@@ -4171,8 +4172,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FromTheEarth VR | 122172 | [122172-fromtheearth-vr.json](./122172-fromtheearth-vr.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
+| Front Mission 1st: Remake | 191400 | [191400-front-mission-1st-remake.json](./191400-front-mission-1st-remake.json) |
 | Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
 | Front Mission 3 | 1502 | [1502-front-mission-3.json](./1502-front-mission-3.json) |
+| Front Mission 3: Remake | 217552 | [217552-front-mission-3-remake.json](./217552-front-mission-3-remake.json) |
 | Front Mission: Gun Hazard | 1499 | [1499-front-mission-gun-hazard.json](./1499-front-mission-gun-hazard.json) |
 | Front Office Card Games: Up and Down the River | 67995 | [67995-front-office-card-games-up-and-down-the-river.json](./67995-front-office-card-games-up-and-down-the-river.json) |
 | Front Office Football 2 | 68051 | [68051-front-office-football-2.json](./68051-front-office-football-2.json) |
