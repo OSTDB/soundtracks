@@ -3140,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Patroller | 325240 | [325240-anomaly-patroller.json](./325240-anomaly-patroller.json) |
 | Anomaly President | 320975 | [320975-anomaly-president.json](./320975-anomaly-president.json) |
 | Anomaly Report | 257424 | [257424-anomaly-report.json](./257424-anomaly-report.json) |
+| Anomaly Road | 405709 | [405709-anomaly-road.json](./405709-anomaly-road.json) |
 | Anomaly Tunnel | 413595 | [413595-anomaly-tunnel.json](./413595-anomaly-tunnel.json) |
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
 | Anomalytics: From the Files of the Arcane Statistics Authority | 293094 | [293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json](./293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json) |
