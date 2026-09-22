@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abuse | 383503 | [383503-abuse.json](./383503-abuse.json) |
 | Abuzittin'in Maceraları II: İz Peşinde | 330333 | [330333-abuzittinin-maceralar-ii-iz-pesinde.json](./330333-abuzittinin-maceralar-ii-iz-pesinde.json) |
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
+| Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
@@ -642,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Witch | 334780 | [334780-achievement-hunter-witch.json](./334780-achievement-hunter-witch.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achievement Lurker: Easiest Cosmetic Numbers | 90120 | [90120-achievement-lurker-easiest-cosmetic-numbers.json](./90120-achievement-lurker-easiest-cosmetic-numbers.json) |
+| Achievement Lurker: We Give Up! | 81624 | [81624-achievement-lurker-we-give-up.json](./81624-achievement-lurker-we-give-up.json) |
 | Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
@@ -1180,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
 | Aim Sex | 297058 | [297058-aim-sex.json](./297058-aim-sex.json) |
 | Aim To Capture | 373618 | [373618-aim-to-capture.json](./373618-aim-to-capture.json) |
+| Aim Trainer Pro | 81623 | [81623-aim-trainer-pro.json](./81623-aim-trainer-pro.json) |
 | Aim Zen | 283887 | [283887-aim-zen.json](./283887-aim-zen.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
 | Aima | 60507 | [60507-aima.json](./60507-aima.json) |
@@ -1427,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AKB1/153: Renai Sousenkyo - Ultra Luxury Limited Box | 89867 | [89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json](./89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json) |
 | AKB1/48: Idol to Koishitara | 66373 | [66373-akb1-48-idol-to-koishitara.json](./66373-akb1-48-idol-to-koishitara.json) |
 | Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
+| Akda | 81676 | [81676-akda.json](./81676-akda.json) |
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
 | Akeno's Veil | 343874 | [343874-akenos-veil.json](./343874-akenos-veil.json) |
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
@@ -3578,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
 | Araignees | 184529 | [184529-araignees.json](./184529-araignees.json) |
 | Araka: JK Exorcist Horror RPG | 235870 | [235870-araka-jk-exorcist-horror-rpg.json](./235870-araka-jk-exorcist-horror-rpg.json) |
+| Arakion: Book One | 81235 | [81235-arakion-book-one.json](./81235-arakion-book-one.json) |
 | Arali | 203881 | [203881-arali.json](./203881-arali.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
 | Aranock Online | 62986 | [62986-aranock-online.json](./62986-aranock-online.json) |
@@ -4229,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: Master of Arena | 19424 | [19424-armored-core-master-of-arena.json](./19424-armored-core-master-of-arena.json) |
 | Armored Core: Nexus | 19412 | [19412-armored-core-nexus.json](./19412-armored-core-nexus.json) |
 | Armored Core: Silent Line Portable | 21757 | [21757-armored-core-silent-line-portable.json](./21757-armored-core-silent-line-portable.json) |
+| Armored Evolution | 81638 | [81638-armored-evolution.json](./81638-armored-evolution.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
 | Armored Hunter Gunhound EX | 36391 | [36391-armored-hunter-gunhound-ex.json](./36391-armored-hunter-gunhound-ex.json) |
 | Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
