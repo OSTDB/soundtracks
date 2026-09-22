@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Cubed | 159169 | [159169-b-cubed.json](./159169-b-cubed.json) |
 | B-e-e-t-l-e | 178507 | [178507-b-e-e-t-l-e.json](./178507-b-e-e-t-l-e.json) |
 | B-e-e-t-l-e: Be right back! | 366937 | [366937-b-e-e-t-l-e-be-right-back.json](./366937-b-e-e-t-l-e-be-right-back.json) |
+| B-Prison Unchain | 410418 | [410418-b-prison-unchain.json](./410418-b-prison-unchain.json) |
 | B-Rabbit | 117482 | [117482-b-rabbit.json](./117482-b-rabbit.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
@@ -4735,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunters | 188507 | [188507-bounty-hunters.json](./188507-bounty-hunters.json) |
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
 | Bounty of One: Panic in the Mines | 321957 | [321957-bounty-of-one-panic-in-the-mines.json](./321957-bounty-of-one-panic-in-the-mines.json) |
+| Bounty Pro Pulling | 410451 | [410451-bounty-pro-pulling.json](./410451-bounty-pro-pulling.json) |
 | Bounty Star | 210624 | [210624-bounty-star.json](./210624-bounty-star.json) |
 | Bounty Sword | 38351 | [38351-bounty-sword.json](./38351-bounty-sword.json) |
 | Bounty Sword First | 57059 | [57059-bounty-sword-first.json](./57059-bounty-sword-first.json) |
@@ -6022,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnit Quest | 195178 | [195178-burnit-quest.json](./195178-burnit-quest.json) |
 | Burnogue | 377090 | [377090-burnogue.json](./377090-burnogue.json) |
 | Burnout | 14355 | [14355-burnout.json](./14355-burnout.json) |
+| Burnout | 410457 | [410457-burnout.json](./410457-burnout.json) |
 | Burnout 3: Takedown | 5761 | [5761-burnout-3-takedown.json](./5761-burnout-3-takedown.json) |
 | Burnout Dominator | 6203 | [6203-burnout-dominator.json](./6203-burnout-dominator.json) |
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
