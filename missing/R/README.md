@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
 | Rack and Run | 338805 | [338805-rack-and-run.json](./338805-rack-and-run.json) |
 | Rack Attack! | 342613 | [342613-rack-attack.json](./342613-rack-attack.json) |
+| Rack N Ruin | 12216 | [12216-rack-n-ruin.json](./12216-rack-n-ruin.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Racquet Sports | 51060 | [51060-racquet-sports.json](./51060-racquet-sports.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returning Nightmares | 202363 | [202363-returning-nightmares.json](./202363-returning-nightmares.json) |
 | Returning the favor of the dog | 169358 | [169358-returning-the-favor-of-the-dog.json](./169358-returning-the-favor-of-the-dog.json) |
 | Returning to Mia | 226726 | [226726-returning-to-mia.json](./226726-returning-to-mia.json) |
+| Reunion | 12471 | [12471-reunion.json](./12471-reunion.json) |
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
 | Reunion | 281565 | [281565-reunion.json](./281565-reunion.json) |
 | Reunion | 388703 | [388703-reunion.json](./388703-reunion.json) |
