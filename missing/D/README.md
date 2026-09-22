@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
 | Dawn Car | 371258 | [371258-dawn-car.json](./371258-dawn-car.json) |
 | Dawn City | 81775 | [81775-dawn-city.json](./81775-dawn-city.json) |
+| Dawn in Bloody Darkness | 407525 | [407525-dawn-in-bloody-darkness.json](./407525-dawn-in-bloody-darkness.json) |
 | Dawn in the Air | 234065 | [234065-dawn-in-the-air.json](./234065-dawn-in-the-air.json) |
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
 | Dawn of Andromeda: Subterfuge | 172120 | [172120-dawn-of-andromeda-subterfuge.json](./172120-dawn-of-andromeda-subterfuge.json) |
@@ -1543,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Star | 12949 | [12949-death-star.json](./12949-death-star.json) |
 | Death Star Interceptor | 45334 | [45334-death-star-interceptor.json](./45334-death-star-interceptor.json) |
 | Death Star Prison Break | 178618 | [178618-death-star-prison-break.json](./178618-death-star-prison-break.json) |
+| Death Stranding: Director's Cut - Digital Deluxe Edition | 407589 | [407589-death-stranding-directors-cut-digital-deluxe-edition.json](./407589-death-stranding-directors-cut-digital-deluxe-edition.json) |
 | Death Stranding: Higgs Variant | 386264 | [386264-death-stranding-higgs-variant.json](./386264-death-stranding-higgs-variant.json) |
 | Death Strike | 182918 | [182918-death-strike.json](./182918-death-strike.json) |
 | Death Swap: End As One | 231350 | [231350-death-swap-end-as-one.json](./231350-death-swap-end-as-one.json) |
@@ -4506,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorfs: Hammers for Hire | 203936 | [203936-dorfs-hammers-for-hire.json](./203936-dorfs-hammers-for-hire.json) |
 | Doriath | 15855 | [15855-doriath.json](./15855-doriath.json) |
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
+| Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
@@ -5647,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop: Save the Forest | 373087 | [373087-drop-save-the-forest.json](./373087-drop-save-the-forest.json) |
 | Drop: System Breach | 202862 | [202862-drop-system-breach.json](./202862-drop-system-breach.json) |
 | DropCast | 21458 | [21458-dropcast.json](./21458-dropcast.json) |
+| Dropfinity | 407526 | [407526-dropfinity.json](./407526-dropfinity.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Droplet Shuffle | 61057 | [61057-droplet-shuffle.json](./61057-droplet-shuffle.json) |
@@ -6181,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online | 5629 | [5629-dungeons-and-dragons-online.json](./5629-dungeons-and-dragons-online.json) |
 | Dungeons & Dragons Online: Attack on Stormreach | 342065 | [342065-dungeons-and-dragons-online-attack-on-stormreach.json](./342065-dungeons-and-dragons-online-attack-on-stormreach.json) |
 | Dungeons & Dragons Online: Forsaken Lands | 209174 | [209174-dungeons-and-dragons-online-forsaken-lands.json](./209174-dungeons-and-dragons-online-forsaken-lands.json) |
+| Dungeons & Dragons Online: Terror of Demogorgon | 407578 | [407578-dungeons-and-dragons-online-terror-of-demogorgon.json](./407578-dungeons-and-dragons-online-terror-of-demogorgon.json) |
 | Dungeons & Dragons Online: The Dreaming Dark | 349339 | [349339-dungeons-and-dragons-online-the-dreaming-dark.json](./349339-dungeons-and-dragons-online-the-dreaming-dark.json) |
 | Dungeons & Dragons Online: The Necropolis, Part 4 | 349338 | [349338-dungeons-and-dragons-online-the-necropolis-part-4.json](./349338-dungeons-and-dragons-online-the-necropolis-part-4.json) |
 | Dungeons & Dragons Online: The Red Fens | 349334 | [349334-dungeons-and-dragons-online-the-red-fens.json](./349334-dungeons-and-dragons-online-the-red-fens.json) |
