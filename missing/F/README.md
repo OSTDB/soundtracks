@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
 | Fish Tanks | 144795 | [144795-fish-tanks.json](./144795-fish-tanks.json) |
 | Fish the Detective! | 219675 | [219675-fish-the-detective.json](./219675-fish-the-detective.json) |
+| Fish Tycoon | 29117 | [29117-fish-tycoon.json](./29117-fish-tycoon.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
 | Fish War | 247024 | [247024-fish-war.json](./247024-fish-war.json) |
 | Fish! | 12101 | [12101-fish.json](./12101-fish.json) |
@@ -3404,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
 | Forlorn Memories | 214761 | [214761-forlorn-memories.json](./214761-forlorn-memories.json) |
 | Forlorn Outcast | 260226 | [260226-forlorn-outcast.json](./260226-forlorn-outcast.json) |
+| Form | 28446 | [28446-form.json](./28446-form.json) |
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
