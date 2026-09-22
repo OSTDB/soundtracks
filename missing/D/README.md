@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
 | Dave Goes Nutz! | 11389 | [11389-dave-goes-nutz.json](./11389-dave-goes-nutz.json) |
+| Dave Mirra Freestyle BMX 2 | 3871 | [3871-dave-mirra-freestyle-bmx-2.json](./3871-dave-mirra-freestyle-bmx-2.json) |
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
 | Dave the Bird | 244367 | [244367-dave-the-bird.json](./244367-dave-the-bird.json) |
 | Dave the Diver | 203722 | [203722-dave-the-diver.json](./203722-dave-the-diver.json) |
@@ -4964,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair: Daring Edition | 100722 | [100722-dragons-lair-daring-edition.json](./100722-dragons-lair-daring-edition.json) |
 | Dragon's Lair: The Legend | 117950 | [117950-dragons-lair-the-legend.json](./117950-dragons-lair-the-legend.json) |
 | Dragon's Playground | 178010 | [178010-dragons-playground.json](./178010-dragons-playground.json) |
+| Dragon's Prophet | 3264 | [3264-dragons-prophet.json](./3264-dragons-prophet.json) |
 | Dragon's Revenge | 46219 | [46219-dragons-revenge.json](./46219-dragons-revenge.json) |
 | Dragon's Valkyrie: Wings of Fire | 337667 | [337667-dragons-valkyrie-wings-of-fire.json](./337667-dragons-valkyrie-wings-of-fire.json) |
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
@@ -5439,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droids | 84276 | [84276-droids.json](./84276-droids.json) |
 | Droids & Wizards | 124769 | [124769-droids-and-wizards.json](./124769-droids-and-wizards.json) |
 | Drol | 6098 | [6098-drol.json](./6098-drol.json) |
+| Drome Racers | 3901 | [3901-drome-racers.json](./3901-drome-racers.json) |
 | Dromedary | 80244 | [80244-dromedary.json](./80244-dromedary.json) |
 | Drömjobbet i Rosemond Valley | 196700 | [196700-dromjobbet-i-rosemond-valley.json](./196700-dromjobbet-i-rosemond-valley.json) |
 | Drömmar | 314631 | [314631-drommar.json](./314631-drommar.json) |
