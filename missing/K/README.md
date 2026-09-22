@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
 | Kids Dinosaur Rex Jigsaw Puzzles | 96749 | [96749-kids-dinosaur-rex-jigsaw-puzzles.json](./96749-kids-dinosaur-rex-jigsaw-puzzles.json) |
 | Kids doctor : veterinarian | 99388 | [99388-kids-doctor-veterinarian.json](./99388-kids-doctor-veterinarian.json) |
+| Kids Doodle - Movie Kids Color & Draw | 86988 | [86988-kids-doodle-movie-kids-color-and-draw.json](./86988-kids-doodle-movie-kids-color-and-draw.json) |
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
 | Kids Fun Favorites | 89698 | [89698-kids-fun-favorites.json](./89698-kids-fun-favorites.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
