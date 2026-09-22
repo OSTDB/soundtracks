@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki SSL: Sweet School Life for Nintendo Switch | 243921 | [243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json](./243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json) |
 | Hakuoki Yuugiroku Taishitachi no Daienkai | 124016 | [124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json](./124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json) |
 | Hakuoki: Demon of the Fleeting Blossom | 17272 | [17272-hakuoki-demon-of-the-fleeting-blossom.json](./17272-hakuoki-demon-of-the-fleeting-blossom.json) |
+| Hakuoki: Edo Blossoms | 74563 | [74563-hakuoki-edo-blossoms.json](./74563-hakuoki-edo-blossoms.json) |
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
 | Hakuoki: Kyoto Winds - Winds Treasure Box | 168905 | [168905-hakuoki-kyoto-winds-winds-treasure-box.json](./168905-hakuoki-kyoto-winds-winds-treasure-box.json) |
 | Hakuoki: Stories of the Shinsengumi | 44565 | [44565-hakuoki-stories-of-the-shinsengumi.json](./44565-hakuoki-stories-of-the-shinsengumi.json) |
@@ -330,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hammer | 247029 | [247029-hammer.json](./247029-hammer.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
+| Hammer 2 | 74595 | [74595-hammer-2.json](./74595-hammer-2.json) |
 | Hammer Away | 40181 | [40181-hammer-away.json](./40181-hammer-away.json) |
 | Hammer Bros | 264666 | [264666-hammer-bros.json](./264666-hammer-bros.json) |
 | Hammer climber - Hard Get Over | 105944 | [105944-hammer-climber-hard-get-over.json](./105944-hammer-climber-hard-get-over.json) |
@@ -1119,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Dragon | 74048 | [74048-heart-of-the-dragon.json](./74048-heart-of-the-dragon.json) |
 | Heart of the Emberstone: Coliseum | 81767 | [81767-heart-of-the-emberstone-coliseum.json](./81767-heart-of-the-emberstone-coliseum.json) |
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
+| Heart of the House | 75203 | [75203-heart-of-the-house.json](./75203-heart-of-the-house.json) |
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
 | Heart on Your Sleeve | 178533 | [178533-heart-on-your-sleeve.json](./178533-heart-on-your-sleeve.json) |
 | Heart Piano Tiles | 96697 | [96697-heart-piano-tiles.json](./96697-heart-piano-tiles.json) |
@@ -1305,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
 | Hēi'àn Liàolǐ | 111705 | [111705-heian-liaoli.json](./111705-heian-liaoli.json) |
 | Heiankyo Alien | 118758 | [118758-heiankyo-alien.json](./118758-heiankyo-alien.json) |
+| Heiankyo Alien | 75136 | [75136-heiankyo-alien.json](./75136-heiankyo-alien.json) |
 | Heiankyo Parameters | 247530 | [247530-heiankyo-parameters.json](./247530-heiankyo-parameters.json) |
 | Heidelberg 1693 | 135841 | [135841-heidelberg-1693.json](./135841-heidelberg-1693.json) |
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
@@ -2219,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexLogic - Quilts | 106381 | [106381-hexlogic-quilts.json](./106381-hexlogic-quilts.json) |
 | HexoCity | 291590 | [291590-hexocity.json](./291590-hexocity.json) |
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
+| Hexopods | 75339 | [75339-hexopods.json](./75339-hexopods.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
 | Hexoscope: Collector's Edition | 53214 | [53214-hexoscope-collectors-edition.json](./53214-hexoscope-collectors-edition.json) |
 | Hexpand | 410909 | [410909-hexpand.json](./410909-hexpand.json) |
@@ -2480,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
+| Hide or Die | 74910 | [74910-hide-or-die.json](./74910-hide-or-die.json) |
 | Hide The Corpse | 306936 | [306936-hide-the-corpse.json](./306936-hide-the-corpse.json) |
 | Hide The Corpse: Gusimir Mansion | 380564 | [380564-hide-the-corpse-gusimir-mansion.json](./380564-hide-the-corpse-gusimir-mansion.json) |
 | Hide Time: Chapter 2 | 248911 | [248911-hide-time-chapter-2.json](./248911-hide-time-chapter-2.json) |
@@ -2517,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Noon | 76974 | [76974-high-noon.json](./76974-high-noon.json) |
 | High Noon Drifter | 141868 | [141868-high-noon-drifter.json](./141868-high-noon-drifter.json) |
 | High Noon In Akhetaten | 308387 | [308387-high-noon-in-akhetaten.json](./308387-high-noon-in-akhetaten.json) |
+| High Noon VR | 75256 | [75256-high-noon-vr.json](./75256-high-noon-vr.json) |
 | High on Life: High on Knife | 253091 | [253091-high-on-life-high-on-knife.json](./253091-high-on-life-high-on-knife.json) |
 | High Pines | 377676 | [377676-high-pines.json](./377676-high-pines.json) |
 | High Rise | 229051 | [229051-high-rise.json](./229051-high-rise.json) |
@@ -3397,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hormones of the Dead | 405601 | [405601-hormones-of-the-dead.json](./405601-hormones-of-the-dead.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
+| Horns of Fear | 74436 | [74436-horns-of-fear.json](./74436-horns-of-fear.json) |
 | Horns of Justice | 211290 | [211290-horns-of-justice.json](./211290-horns-of-justice.json) |
 | Horny Alice: Gothic Run | 148341 | [148341-horny-alice-gothic-run.json](./148341-horny-alice-gothic-run.json) |
 | Horny Clinic | 226188 | [226188-horny-clinic.json](./226188-horny-clinic.json) |
