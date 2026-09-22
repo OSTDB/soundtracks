@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YARG | 144814 | [144814-yarg.json](./144814-yarg.json) |
 | YARG | 245335 | [245335-yarg.json](./245335-yarg.json) |
 | Yarn | 166614 | [166614-yarn.json](./166614-yarn.json) |
+| Yars: Recharged | 211321 | [211321-yars-recharged.json](./211321-yars-recharged.json) |
 | Yarudora Series Vol. 1: Double Cast | 79353 | [79353-yarudora-series-vol-1-double-cast.json](./79353-yarudora-series-vol-1-double-cast.json) |
 | Yarudora Series Vol. 3: Sampaguita | 79349 | [79349-yarudora-series-vol-3-sampaguita.json](./79349-yarudora-series-vol-3-sampaguita.json) |
 | Yarudora Series Vol. 4: Yukiwari no Hana | 79348 | [79348-yarudora-series-vol-4-yukiwari-no-hana.json](./79348-yarudora-series-vol-4-yukiwari-no-hana.json) |
