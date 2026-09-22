@@ -2783,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman Absolution: Elite Edition | 53210 | [53210-hitman-absolution-elite-edition.json](./53210-hitman-absolution-elite-edition.json) |
 | Hitman Go: Definitive Edition | 21580 | [21580-hitman-go-definitive-edition.json](./21580-hitman-go-definitive-edition.json) |
+| Hitman HD Enhanced Collection | 113533 | [113533-hitman-hd-enhanced-collection.json](./113533-hitman-hd-enhanced-collection.json) |
 | Hitman Reborn! | 174722 | [174722-hitman-reborn.json](./174722-hitman-reborn.json) |
 | Hitman Sniper: The Shadows | 144772 | [144772-hitman-sniper-the-shadows.json](./144772-hitman-sniper-the-shadows.json) |
 | Hitman World of Assassination | 233571 | [233571-hitman-world-of-assassination.json](./233571-hitman-world-of-assassination.json) |
@@ -3792,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How To Build Your Igloo | 253931 | [253931-how-to-build-your-igloo.json](./253931-how-to-build-your-igloo.json) |
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
 | How to create a witch | 380544 | [380544-how-to-create-a-witch.json](./380544-how-to-create-a-witch.json) |
+| How to Date a Magical Girl! | 107882 | [107882-how-to-date-a-magical-girl.json](./107882-how-to-date-a-magical-girl.json) |
 | How to Date a Non-Terrian Person | 184081 | [184081-how-to-date-a-non-terrian-person.json](./184081-how-to-date-a-non-terrian-person.json) |
 | How to Destroy a City | 408080 | [408080-how-to-destroy-a-city.json](./408080-how-to-destroy-a-city.json) |
 | How to Die. | 218131 | [218131-how-to-die.json](./218131-how-to-die.json) |
