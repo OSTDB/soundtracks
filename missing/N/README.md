@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Blade | 145643 | [145643-northern-blade.json](./145643-northern-blade.json) |
 | Northern Blades | 148472 | [148472-northern-blades.json](./148472-northern-blades.json) |
 | Northern Guilds | 193338 | [193338-northern-guilds.json](./193338-northern-guilds.json) |
+| Northern Regime | 31875 | [31875-northern-regime.json](./31875-northern-regime.json) |
 | Northern Shadow | 9944 | [9944-northern-shadow.json](./9944-northern-shadow.json) |
 | Northern Song Dynasty | 304007 | [304007-northern-song-dynasty.json](./304007-northern-song-dynasty.json) |
 | Northern Tale 2 | 76647 | [76647-northern-tale-2.json](./76647-northern-tale-2.json) |
