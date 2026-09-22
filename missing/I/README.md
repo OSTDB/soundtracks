@@ -2214,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isonzo: Third Wave | 296938 | [296938-isonzo-third-wave.json](./296938-isonzo-third-wave.json) |
 | Isophoria | 375316 | [375316-isophoria.json](./375316-isophoria.json) |
 | Isorropia | 133451 | [133451-isorropia.json](./133451-isorropia.json) |
+| Isotiles | 43510 | [43510-isotiles.json](./43510-isotiles.json) |
 | Isotiles 2 | 118983 | [118983-isotiles-2.json](./118983-isotiles-2.json) |
 | IsoWords | 254170 | [254170-isowords.json](./254170-isowords.json) |
 | iSpot Japan | 85197 | [85197-ispot-japan.json](./85197-ispot-japan.json) |
