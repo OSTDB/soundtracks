@@ -2545,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Noon | 76974 | [76974-high-noon.json](./76974-high-noon.json) |
 | High Noon Drifter | 141868 | [141868-high-noon-drifter.json](./141868-high-noon-drifter.json) |
 | High Noon In Akhetaten | 308387 | [308387-high-noon-in-akhetaten.json](./308387-high-noon-in-akhetaten.json) |
+| High Noon Revolver | 27197 | [27197-high-noon-revolver.json](./27197-high-noon-revolver.json) |
 | High Noon VR | 75256 | [75256-high-noon-vr.json](./75256-high-noon-vr.json) |
 | High Octane Drift | 33174 | [33174-high-octane-drift.json](./33174-high-octane-drift.json) |
 | High on Life: High on Knife | 253091 | [253091-high-on-life-high-on-knife.json](./253091-high-on-life-high-on-knife.json) |
@@ -3779,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of the Soul | 234198 | [234198-house-of-the-soul.json](./234198-house-of-the-soul.json) |
 | House of Usher | 14560 | [14560-house-of-usher.json](./14560-house-of-usher.json) |
 | House of Usher | 25721 | [25721-house-of-usher.json](./25721-house-of-usher.json) |
+| House of Velez | 27087 | [27087-house-of-velez.json](./27087-house-of-velez.json) |
 | House of Velez: Part 2 | 171505 | [171505-house-of-velez-part-2.json](./171505-house-of-velez-part-2.json) |
 | House of Wonders: Kitty Kat Wedding | 53195 | [53195-house-of-wonders-kitty-kat-wedding.json](./53195-house-of-wonders-kitty-kat-wedding.json) |
 | House on [Redacted] Street | 352197 | [352197-house-on-redacted-street.json](./352197-house-on-redacted-street.json) |
@@ -3916,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Official Book of Games: Volume 1 | 57604 | [57604-hoyle-official-book-of-games-volume-1.json](./57604-hoyle-official-book-of-games-volume-1.json) |
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
+| Hoyle Puzzle & Board Games | 25013 | [25013-hoyle-puzzle-and-board-games.json](./25013-hoyle-puzzle-and-board-games.json) |
 | Hoyle Puzzle & Board Games 2005 | 97127 | [97127-hoyle-puzzle-and-board-games-2005.json](./97127-hoyle-puzzle-and-board-games-2005.json) |
 | Hoyle Puzzle & Board Games 2007 | 97129 | [97129-hoyle-puzzle-and-board-games-2007.json](./97129-hoyle-puzzle-and-board-games-2007.json) |
 | Hoyle Puzzle & Board Games 2008 | 97128 | [97128-hoyle-puzzle-and-board-games-2008.json](./97128-hoyle-puzzle-and-board-games-2008.json) |
