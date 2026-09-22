@@ -3129,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Panther | 38589 | [38589-black-panther.json](./38589-black-panther.json) |
 | Black Paradox | 104866 | [104866-black-paradox.json](./104866-black-paradox.json) |
 | Black Paradox Reloaded | 349393 | [349393-black-paradox-reloaded.json](./349393-black-paradox-reloaded.json) |
+| Black Parallax | 395206 | [395206-black-parallax.json](./395206-black-parallax.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
 | Black Prophecy | 280361 | [280361-black-prophecy.json](./280361-black-prophecy.json) |
@@ -3330,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blank Frame | 181888 | [181888-blank-frame.json](./181888-blank-frame.json) |
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
 | Blank Relish | 292016 | [292016-blank-relish.json](./292016-blank-relish.json) |
+| Blanket Cat | 395179 | [395179-blanket-cat.json](./395179-blanket-cat.json) |
 | Blanket Fort | 355539 | [355539-blanket-fort.json](./355539-blanket-fort.json) |
 | Blanket of Snow | 394362 | [394362-blanket-of-snow.json](./394362-blanket-of-snow.json) |
 | Blankos Block Party | 134573 | [134573-blankos-block-party.json](./134573-blankos-block-party.json) |
@@ -5934,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumpy's Arcade Fantasy | 11724 | [11724-bumpys-arcade-fantasy.json](./11724-bumpys-arcade-fantasy.json) |
 | Bun | 172123 | [172123-bun.json](./172123-bun.json) |
 | Bun 'N' Gun | 265671 | [265671-bun-n-gun.json](./265671-bun-n-gun.json) |
+| Bun Buns | 395220 | [395220-bun-buns.json](./395220-bun-buns.json) |
 | Bun Buns: Complete Edition | 399813 | [399813-bun-buns-complete-edition.json](./399813-bun-buns-complete-edition.json) |
 | Bun Buns: Cozy DLC | 395688 | [395688-bun-buns-cozy-dlc.json](./395688-bun-buns-cozy-dlc.json) |
 | Bun Buns: Cute DLC | 395689 | [395689-bun-buns-cute-dlc.json](./395689-bun-buns-cute-dlc.json) |
