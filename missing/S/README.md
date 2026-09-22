@@ -2228,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Basketball | 145576 | [145576-shadow-basketball.json](./145576-shadow-basketball.json) |
 | Shadow Blade | 20932 | [20932-shadow-blade.json](./20932-shadow-blade.json) |
 | Shadow Blade Zero | 174864 | [174864-shadow-blade-zero.json](./174864-shadow-blade-zero.json) |
+| Shadow Blade: Reload | 16953 | [16953-shadow-blade-reload.json](./16953-shadow-blade-reload.json) |
 | Shadow Block | 28813 | [28813-shadow-block.json](./28813-shadow-block.json) |
 | Shadow Blood VR | 105076 | [105076-shadow-blood-vr.json](./105076-shadow-blood-vr.json) |
 | Shadow Boxing | 364578 | [364578-shadow-boxing.json](./364578-shadow-boxing.json) |
@@ -3431,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidereal Defense | 54357 | [54357-sidereal-defense.json](./54357-sidereal-defense.json) |
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
+| Sideway New York | 16273 | [16273-sideway-new-york.json](./16273-sideway-new-york.json) |
 | Sidewinder | 159249 | [159249-sidewinder.json](./159249-sidewinder.json) |
 | SideWinder | 12850 | [12850-sidewinder.json](./12850-sidewinder.json) |
 | Sidewinder 2 | 66656 | [66656-sidewinder-2.json](./66656-sidewinder-2.json) |
@@ -8398,6 +8400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Clone Wars | 78357 | [78357-star-wars-the-clone-wars.json](./78357-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars - Path of the Jedi | 343373 | [343373-star-wars-the-clone-wars-path-of-the-jedi.json](./343373-star-wars-the-clone-wars-path-of-the-jedi.json) |
 | Star Wars: The Clone Wars - Republic Heroes | 210 | [210-star-wars-the-clone-wars-republic-heroes.json](./210-star-wars-the-clone-wars-republic-heroes.json) |
+| Star Wars: The Empire Strikes Back | 12594 | [12594-star-wars-the-empire-strikes-back.json](./12594-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 12732 | [12732-star-wars-the-empire-strikes-back.json](./12732-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
