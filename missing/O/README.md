@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omen of Sorrow | 27070 | [27070-omen-of-sorrow.json](./27070-omen-of-sorrow.json) |
 | Omensight: Definitive Edition | 112879 | [112879-omensight-definitive-edition.json](./112879-omensight-definitive-edition.json) |
+| Omerta | 413190 | [413190-omerta.json](./413190-omerta.json) |
 | Omerta Chinmoku no Okite: The Legacy | 287637 | [287637-omerta-chinmoku-no-okite-the-legacy.json](./287637-omerta-chinmoku-no-okite-the-legacy.json) |
 | Omerta: City of Gangsters - The Japanese Incentive | 9217 | [9217-omerta-city-of-gangsters-the-japanese-incentive.json](./9217-omerta-city-of-gangsters-the-japanese-incentive.json) |
 | Omertà: Mafia Novel | 373539 | [373539-omerta-mafia-novel.json](./373539-omerta-mafia-novel.json) |
