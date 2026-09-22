@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oharion | 413071 | [413071-oharion.json](./413071-oharion.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
 | OhMyWitch! | 266876 | [266876-ohmywitch.json](./266876-ohmywitch.json) |
+| Ohno Odyssey | 23519 | [23519-ohno-odyssey.json](./23519-ohno-odyssey.json) |
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
 | Oi, Innkeep! | 96121 | [96121-oi-innkeep.json](./96121-oi-innkeep.json) |
 | Oib.io | 86079 | [86079-oib-io.json](./86079-oib-io.json) |
@@ -1695,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 21 | 130326 | [130326-out-of-the-park-baseball-21.json](./130326-out-of-the-park-baseball-21.json) |
 | Out of the Park Baseball 22 | 142888 | [142888-out-of-the-park-baseball-22.json](./142888-out-of-the-park-baseball-22.json) |
 | Out of the Park Baseball 25 | 287086 | [287086-out-of-the-park-baseball-25.json](./287086-out-of-the-park-baseball-25.json) |
+| Out of the Park Baseball 4 | 23458 | [23458-out-of-the-park-baseball-4.json](./23458-out-of-the-park-baseball-4.json) |
 | Out of the Park Baseball 9 | 21340 | [21340-out-of-the-park-baseball-9.json](./21340-out-of-the-park-baseball-9.json) |
 | Out of the Shelter | 156701 | [156701-out-of-the-shelter.json](./156701-out-of-the-shelter.json) |
 | Out of the Sun | 64916 | [64916-out-of-the-sun.json](./64916-out-of-the-sun.json) |
