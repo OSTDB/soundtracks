@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Eternity | 221385 | [221385-shiba-eternity.json](./221385-shiba-eternity.json) |
 | Shiba Inu Rescue | 147381 | [147381-shiba-inu-rescue.json](./147381-shiba-inu-rescue.json) |
 | Shiba Mekuri | 158726 | [158726-shiba-mekuri.json](./158726-shiba-mekuri.json) |
+| Shiba Wars | 397913 | [397913-shiba-wars.json](./397913-shiba-wars.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
 | Shibuya Grandmaster | 133825 | [133825-shibuya-grandmaster.json](./133825-shibuya-grandmaster.json) |
@@ -3344,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shounen Ashibe: Go! Go! Goma-chan - Cute na Goma-chi Ippai Puzzle | 222404 | [222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json](./222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json) |
 | Shounen Ashibe: Goma-chan no Yuuenchi Daibouken | 42542 | [42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json](./42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
+| Shounen to Tenkiame | 397943 | [397943-shounen-to-tenkiame.json](./397943-shounen-to-tenkiame.json) |
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
 | Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
 | Shovel Knight Dig | 122097 | [122097-shovel-knight-dig.json](./122097-shovel-knight-dig.json) |
@@ -4004,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Die Toten Hosen | 84215 | [84215-singstar-die-toten-hosen.json](./84215-singstar-die-toten-hosen.json) |
 | SingStar: Frozen | 86080 | [86080-singstar-frozen.json](./86080-singstar-frozen.json) |
 | Singstar: La Edad de Oro del Pop Español | 135680 | [135680-singstar-la-edad-de-oro-del-pop-espanol.json](./135680-singstar-la-edad-de-oro-del-pop-espanol.json) |
+| SingStar: Morangos com Açúcar | 397942 | [397942-singstar-morangos-com-acucar.json](./397942-singstar-morangos-com-acucar.json) |
 | Singstar: Operación Triunfo | 135679 | [135679-singstar-operacion-triunfo.json](./135679-singstar-operacion-triunfo.json) |
 | SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
@@ -5143,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
+| Snack World: Reloaded | 397927 | [397927-snack-world-reloaded.json](./397927-snack-world-reloaded.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
 | Snägäri Pinball | 388765 | [388765-snagari-pinball.json](./388765-snagari-pinball.json) |
@@ -6473,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry Survivor | 343865 | [343865-sorry-survivor.json](./343865-sorry-survivor.json) |
 | Sorry to Bother You | 177399 | [177399-sorry-to-bother-you.json](./177399-sorry-to-bother-you.json) |
 | Sorry We're Closed | 190964 | [190964-sorry-were-closed.json](./190964-sorry-were-closed.json) |
+| Sorry, My King | 397936 | [397936-sorry-my-king.json](./397936-sorry-my-king.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
@@ -8183,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
 | Squids Odyssey | 19877 | [19877-squids-odyssey.json](./19877-squids-odyssey.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
+| Squingle Arcade | 397933 | [397933-squingle-arcade.json](./397933-squingle-arcade.json) |
 | Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
 | Squire of Time | 271224 | [271224-squire-of-time.json](./271224-squire-of-time.json) |
 | Squirgle | 104033 | [104033-squirgle.json](./104033-squirgle.json) |
@@ -10543,6 +10549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
 | Summer Sisters | 402291 | [402291-summer-sisters.json](./402291-summer-sisters.json) |
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
+| Summer Snow. | 397949 | [397949-summer-snow.json](./397949-summer-snow.json) |
 | Summer Sports Games: 4K Edition | 173168 | [173168-summer-sports-games-4k-edition.json](./173168-summer-sports-games-4k-edition.json) |
 | Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
 | Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
