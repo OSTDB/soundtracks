@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
+| Achilles: Survivor | 319802 | [319802-achilles-survivor.json](./319802-achilles-survivor.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
@@ -3262,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment No 129 | 294293 | [294293-apartment-no-129.json](./294293-apartment-no-129.json) |
+| Apartment Story | 314709 | [314709-apartment-story.json](./314709-apartment-story.json) |
 | Apartment Story: A Moving Simulator | 205792 | [205792-apartment-story-a-moving-simulator.json](./205792-apartment-story-a-moving-simulator.json) |
 | Apartus | 276710 | [276710-apartus.json](./276710-apartus.json) |
 | Apassionata: A Passionate Horse-Show - My Show | 269644 | [269644-apassionata-a-passionate-horse-show-my-show.json](./269644-apassionata-a-passionate-horse-show-my-show.json) |
@@ -4039,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aristoi | 180233 | [180233-aristoi.json](./180233-aristoi.json) |
 | Arizona Rose and the Pharaohs' Riddles | 29870 | [29870-arizona-rose-and-the-pharaohs-riddles.json](./29870-arizona-rose-and-the-pharaohs-riddles.json) |
 | Arizona Sunshine II | 250628 | [250628-arizona-sunshine-ii.json](./250628-arizona-sunshine-ii.json) |
+| Arizona Sunshine VR Remake | 313768 | [313768-arizona-sunshine-vr-remake.json](./313768-arizona-sunshine-vr-remake.json) |
 | Ark and Ade | 157022 | [157022-ark-and-ade.json](./157022-ark-and-ade.json) |
 | Ark Bubble | 242562 | [242562-ark-bubble.json](./242562-ark-bubble.json) |
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
@@ -4917,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atama wo Kitaete Asobu Taisen Yajirushi Puzzle: Puppy Inu Vector One | 122991 | [122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json](./122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json) |
 | Ataque Marino | 113459 | [113459-ataque-marino.json](./113459-ataque-marino.json) |
 | Atari 50: The Namco Legendary Pack | 356570 | [356570-atari-50-the-namco-legendary-pack.json](./356570-atari-50-the-namco-legendary-pack.json) |
+| Atari 50: The Wider World of Atari | 317814 | [317814-atari-50-the-wider-world-of-atari.json](./317814-atari-50-the-wider-world-of-atari.json) |
 | Atari Anniversary Edition Redux | 43923 | [43923-atari-anniversary-edition-redux.json](./43923-atari-anniversary-edition-redux.json) |
 | Atari Classics: Evolved | 46023 | [46023-atari-classics-evolved.json](./46023-atari-classics-evolved.json) |
 | Atari Climber | 40769 | [40769-atari-climber.json](./40769-atari-climber.json) |
@@ -4966,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Marie: Puzzle Workshop | 329391 | [329391-atelier-marie-puzzle-workshop.json](./329391-atelier-marie-puzzle-workshop.json) |
 | Atelier Meruru: The Apprentice of Arland | 7277 | [7277-atelier-meruru-the-apprentice-of-arland.json](./7277-atelier-meruru-the-apprentice-of-arland.json) |
 | Atelier Questboard | 130323 | [130323-atelier-questboard.json](./130323-atelier-questboard.json) |
+| Atelier Resleriana: The Red Alchemist & The White Guardian | 318001 | [318001-atelier-resleriana-the-red-alchemist-and-the-white-guardian.json](./318001-atelier-resleriana-the-red-alchemist-and-the-white-guardian.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Additional Characters: Resna and Valeria | 375157 | [375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json](./375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Beginning of Summer Days Costume Set | 375158 | [375158-atelier-resleriana-the-red-alchemist-and-the-white-guardian-beginning-of-summer-days-costume-set.json](./375158-atelier-resleriana-the-red-alchemist-and-the-white-guardian-beginning-of-summer-days-costume-set.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - High-Difficulty Dungeon "Backwards-Ticking Clock Workshop" | 375159 | [375159-atelier-resleriana-the-red-alchemist-and-the-white-guardian-high-difficulty-dungeon-backwards-ticking-clock-workshop.json](./375159-atelier-resleriana-the-red-alchemist-and-the-white-guardian-high-difficulty-dungeon-backwards-ticking-clock-workshop.json) |
