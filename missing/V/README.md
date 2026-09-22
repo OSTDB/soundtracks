@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Silence | 94014 | [94014-virtual-silence.json](./94014-virtual-silence.json) |
 | Virtual Skydiving | 116866 | [116866-virtual-skydiving.json](./116866-virtual-skydiving.json) |
 | Virtual Soccer | 46005 | [46005-virtual-soccer.json](./46005-virtual-soccer.json) |
+| Virtual Sports | 29569 | [29569-virtual-sports.json](./29569-virtual-sports.json) |
 | Virtual Succubus | 194447 | [194447-virtual-succubus.json](./194447-virtual-succubus.json) |
 | Virtual Surgeon: Open Heart | 69239 | [69239-virtual-surgeon-open-heart.json](./69239-virtual-surgeon-open-heart.json) |
 | Virtual Table Tennis Ping Pong | 104622 | [104622-virtual-table-tennis-ping-pong.json](./104622-virtual-table-tennis-ping-pong.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Funhouse: Christmas Edition | 216848 | [216848-vr-funhouse-christmas-edition.json](./216848-vr-funhouse-christmas-edition.json) |
 | VR Furballs: Demolition | 81062 | [81062-vr-furballs-demolition.json](./81062-vr-furballs-demolition.json) |
 | VR Giants | 107183 | [107183-vr-giants.json](./107183-vr-giants.json) |
+| VR GirlFriend | 30291 | [30291-vr-girlfriend.json](./30291-vr-girlfriend.json) |
 | VR Ground: Crazy Farm | 105311 | [105311-vr-ground-crazy-farm.json](./105311-vr-ground-crazy-farm.json) |
 | VR Harem Life | 338563 | [338563-vr-harem-life.json](./338563-vr-harem-life.json) |
 | VR Harem Sex | 295359 | [295359-vr-harem-sex.json](./295359-vr-harem-sex.json) |
@@ -1426,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vritra: Complete Edition | 107917 | [107917-vritra-complete-edition.json](./107917-vritra-complete-edition.json) |
 | Vrkshop | 137621 | [137621-vrkshop.json](./137621-vrkshop.json) |
 | VRLab Academy: Anatomy VR | 115011 | [115011-vrlab-academy-anatomy-vr.json](./115011-vrlab-academy-anatomy-vr.json) |
+| VRobot: VR Giant Robot Destruction Simulator | 29572 | [29572-vrobot-vr-giant-robot-destruction-simulator.json](./29572-vrobot-vr-giant-robot-destruction-simulator.json) |
 | VRock | 187439 | [187439-vrock.json](./187439-vrock.json) |
 | Vroom | 12813 | [12813-vroom.json](./12813-vroom.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
