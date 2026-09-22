@@ -2390,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
 | The Blood Eclipse | 110826 | [110826-the-blood-eclipse.json](./110826-the-blood-eclipse.json) |
+| The Blood of Dawnwalker: Day 1 Edition | 416088 | [416088-the-blood-of-dawnwalker-day-1-edition.json](./416088-the-blood-of-dawnwalker-day-1-edition.json) |
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
 | The Bloody Cross | 342648 | [342648-the-bloody-cross.json](./342648-the-bloody-cross.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
@@ -3170,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ember Guardian | 342161 | [342161-the-ember-guardian.json](./342161-the-ember-guardian.json) |
 | The Emerald Maiden: Symphony of Dreams | 20363 | [20363-the-emerald-maiden-symphony-of-dreams.json](./20363-the-emerald-maiden-symphony-of-dreams.json) |
 | The Eminence in Shadow: Master of Garden | 227490 | [227490-the-eminence-in-shadow-master-of-garden.json](./227490-the-eminence-in-shadow-master-of-garden.json) |
+| The Eminence in Shadow: Phantom Echoes | 416122 | [416122-the-eminence-in-shadow-phantom-echoes.json](./416122-the-eminence-in-shadow-phantom-echoes.json) |
 | The Empanada Protocol | 207359 | [207359-the-empanada-protocol.json](./207359-the-empanada-protocol.json) |
 | The Empathy Algorithm | 387999 | [387999-the-empathy-algorithm.json](./387999-the-empathy-algorithm.json) |
 | The Emperor and State | 278977 | [278977-the-emperor-and-state.json](./278977-the-emperor-and-state.json) |
@@ -4896,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing Locksmith | 135049 | [135049-the-missing-locksmith.json](./135049-the-missing-locksmith.json) |
 | The Missing Part | 349880 | [349880-the-missing-part.json](./349880-the-missing-part.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
+| The Missing Tail | 416085 | [416085-the-missing-tail.json](./416085-the-missing-tail.json) |
 | The Mission | 78027 | [78027-the-mission.json](./78027-the-mission.json) |
 | The Mission Unpossible | 59061 | [59061-the-mission-unpossible.json](./59061-the-mission-unpossible.json) |
 | The Mist City | 284333 | [284333-the-mist-city.json](./284333-the-mist-city.json) |
@@ -5711,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow of Zorro | 27627 | [27627-the-shadow-of-zorro.json](./27627-the-shadow-of-zorro.json) |
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
+| The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
 | The Shadows That Run Alongside Our Car | 77595 | [77595-the-shadows-that-run-alongside-our-car.json](./77595-the-shadows-that-run-alongside-our-car.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
 | The Shaft | 232555 | [232555-the-shaft.json](./232555-the-shaft.json) |
@@ -7094,6 +7098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Company of Mine | 309355 | [309355-this-company-of-mine.json](./309355-this-company-of-mine.json) |
 | This Discord Has Ghosts in it | 134647 | [134647-this-discord-has-ghosts-in-it.json](./134647-this-discord-has-ghosts-in-it.json) |
 | This Game | 357815 | [357815-this-game.json](./357815-this-game.json) |
+| This Game is Simple | 416121 | [416121-this-game-is-simple.json](./416121-this-game-is-simple.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
 | This House Looks Familiar | 176969 | [176969-this-house-looks-familiar.json](./176969-this-house-looks-familiar.json) |
 | This is a game | 198488 | [198488-this-is-a-game.json](./198488-this-is-a-game.json) |
