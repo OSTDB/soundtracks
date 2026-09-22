@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Bus | 294257 | [294257-night-bus.json](./294257-night-bus.json) |
 | Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
+| Night Cart: The Immortal Plague | 413880 | [413880-night-cart-the-immortal-plague.json](./413880-night-cart-the-immortal-plague.json) |
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
 | Night City | 293654 | [293654-night-city.json](./293654-night-city.json) |
 | Night City Tokyo Drift: Clumsy Ninja Chasing Cars | 102752 | [102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json](./102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json) |
