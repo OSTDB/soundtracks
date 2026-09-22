@@ -2928,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole | 310931 | [310931-hole.json](./310931-hole.json) |
 | Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
+| Hole in the Wall | 20119 | [20119-hole-in-the-wall.json](./20119-hole-in-the-wall.json) |
 | Hole io | 263553 | [263553-hole-io.json](./263553-hole-io.json) |
 | Hole io & Helix Jump | 315836 | [315836-hole-io-and-helix-jump.json](./315836-hole-io-and-helix-jump.json) |
 | Hole io: Ancient DLC | 309081 | [309081-hole-io-ancient-dlc.json](./309081-hole-io-ancient-dlc.json) |
@@ -3178,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Trap Amnesia | 371915 | [371915-honey-trap-amnesia.json](./371915-honey-trap-amnesia.json) |
 | Honey, I Joined a Cult | 99634 | [99634-honey-i-joined-a-cult.json](./99634-honey-i-joined-a-cult.json) |
 | Honeyblaster | 95436 | [95436-honeyblaster.json](./95436-honeyblaster.json) |
+| Honeycomb Beat | 20685 | [20685-honeycomb-beat.json](./20685-honeycomb-beat.json) |
 | Honeycomb Hotel | 366228 | [366228-honeycomb-hotel.json](./366228-honeycomb-hotel.json) |
 | Honeycomb Hotel ZEN | 96056 | [96056-honeycomb-hotel-zen.json](./96056-honeycomb-hotel-zen.json) |
 | Honeypot | 215785 | [215785-honeypot.json](./215785-honeypot.json) |
