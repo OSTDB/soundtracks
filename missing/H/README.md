@@ -3131,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home: Mother | 305762 | [305762-home-mother.json](./305762-home-mother.json) |
 | Home's Embrace | 177403 | [177403-homes-embrace.json](./177403-homes-embrace.json) |
 | Homebound | 178519 | [178519-homebound.json](./178519-homebound.json) |
+| Homebound | 27682 | [27682-homebound.json](./27682-homebound.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homecoming | 271314 | [271314-homecoming.json](./271314-homecoming.json) |
 | Homecoming: Kitaku | 323708 | [323708-homecoming-kitaku.json](./323708-homecoming-kitaku.json) |
@@ -4129,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Season | 210056 | [210056-hunting-season.json](./210056-hunting-season.json) |
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
 | Hunting Simulator | 239044 | [239044-hunting-simulator.json](./239044-hunting-simulator.json) |
+| Hunting Simulator | 27697 | [27697-hunting-simulator.json](./27697-hunting-simulator.json) |
 | Hunting Simulator 2 | 130000 | [130000-hunting-simulator-2.json](./130000-hunting-simulator-2.json) |
 | Hunting Simulator 2: Bear Hunter Pack | 224221 | [224221-hunting-simulator-2-bear-hunter-pack.json](./224221-hunting-simulator-2-bear-hunter-pack.json) |
 | Hunting Simulator 2: Beretta Weapon Pack | 224220 | [224220-hunting-simulator-2-beretta-weapon-pack.json](./224220-hunting-simulator-2-beretta-weapon-pack.json) |
