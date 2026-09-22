@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven Origins | 289434 | [289434-inazuma-eleven-origins.json](./289434-inazuma-eleven-origins.json) |
 | Inazuma Eleven Re | 317592 | [317592-inazuma-eleven-re.json](./317592-inazuma-eleven-re.json) |
 | Inazuma Eleven SD | 125201 | [125201-inazuma-eleven-sd.json](./125201-inazuma-eleven-sd.json) |
+| Inazuma Eleven: Cross | 397928 | [397928-inazuma-eleven-cross.json](./397928-inazuma-eleven-cross.json) |
 | Inazuma Eleven: Victory Road | 72812 | [72812-inazuma-eleven-victory-road.json](./72812-inazuma-eleven-victory-road.json) |
 | Inbetween a Land of Grass | 181387 | [181387-inbetween-a-land-of-grass.json](./181387-inbetween-a-land-of-grass.json) |
 | Inbetween Land | 35850 | [35850-inbetween-land.json](./35850-inbetween-land.json) |
@@ -1683,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Integrity | 387500 | [387500-integrity.json](./387500-integrity.json) |
 | Intelektronica | 400468 | [400468-intelektronica.json](./400468-intelektronica.json) |
 | Intellectual Decathlon | 401790 | [401790-intellectual-decathlon.json](./401790-intellectual-decathlon.json) |
+| Intelligence | 397924 | [397924-intelligence.json](./397924-intelligence.json) |
 | Intelligence Trader | 104325 | [104325-intelligence-trader.json](./104325-intelligence-trader.json) |
 | Intelligence: 314th Clash | 58809 | [58809-intelligence-314th-clash.json](./58809-intelligence-314th-clash.json) |
 | Intelligence: Anime Girls | 101638 | [101638-intelligence-anime-girls.json](./101638-intelligence-anime-girls.json) |
@@ -1755,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Cricket Captain 2012 | 63330 | [63330-international-cricket-captain-2012.json](./63330-international-cricket-captain-2012.json) |
 | International Cricket Captain 2013 | 63329 | [63329-international-cricket-captain-2013.json](./63329-international-cricket-captain-2013.json) |
 | International Cricket Captain III | 63325 | [63325-international-cricket-captain-iii.json](./63325-international-cricket-captain-iii.json) |
+| International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
 | International Pool Championship | 92472 | [92472-international-pool-championship.json](./92472-international-pool-championship.json) |
 | International Rally | 49908 | [49908-international-rally.json](./49908-international-rally.json) |
 | International Rally Championship | 50210 | [50210-international-rally-championship.json](./50210-international-rally-championship.json) |
