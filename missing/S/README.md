@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saci: The Cursed Hunt | 330329 | [330329-saci-the-cursed-hunt.json](./330329-saci-the-cursed-hunt.json) |
 | Sack of Bots | 119040 | [119040-sack-of-bots.json](./119040-sack-of-bots.json) |
 | Sackboy: A Big Adventure - Astro Bot Costume | 290918 | [290918-sackboy-a-big-adventure-astro-bot-costume.json](./290918-sackboy-a-big-adventure-astro-bot-costume.json) |
+| Sackboy: A Big Adventure - Digital Deluxe Edition | 407590 | [407590-sackboy-a-big-adventure-digital-deluxe-edition.json](./407590-sackboy-a-big-adventure-digital-deluxe-edition.json) |
 | Sackgasse: The Last Resort | 149527 | [149527-sackgasse-the-last-resort.json](./149527-sackgasse-the-last-resort.json) |
 | Sackman se-X | 82125 | [82125-sackman-se-x.json](./82125-sackman-se-x.json) |
 | Sacra Terra: Angelic Night - Collector's Edition | 25475 | [25475-sacra-terra-angelic-night-collectors-edition.json](./25475-sacra-terra-angelic-night-collectors-edition.json) |
