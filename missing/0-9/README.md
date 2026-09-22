@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
 | 30,000 Games | 97119 | [97119-30-000-games.json](./97119-30-000-games.json) |
+| 300 Dwarves | 52354 | [52354-300-dwarves.json](./52354-300-dwarves.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 300 Miles to Pigsland | 286646 | [286646-300-miles-to-pigsland.json](./286646-300-miles-to-pigsland.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
