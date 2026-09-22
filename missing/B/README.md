@@ -5240,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Planet | 153368 | [153368-breakout-planet.json](./153368-breakout-planet.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
+| BreakThrough | 391866 | [391866-breakthrough.json](./391866-breakthrough.json) |
 | Breakthrough in the Ardennes | 25618 | [25618-breakthrough-in-the-ardennes.json](./25618-breakthrough-in-the-ardennes.json) |
 | BreakThru | 13437 | [13437-breakthru.json](./13437-breakthru.json) |
 | BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
@@ -5759,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BuGarden | 392302 | [392302-bugarden.json](./392302-bugarden.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugged | 195115 | [195115-bugged.json](./195115-bugged.json) |
+| Bugged Out | 391880 | [391880-bugged-out.json](./391880-bugged-out.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
 | Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
