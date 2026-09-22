@@ -2466,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exer Gale | 297068 | [297068-exer-gale.json](./297068-exer-gale.json) |
 | Exercise Book Epic | 90659 | [90659-exercise-book-epic.json](./90659-exercise-book-epic.json) |
 | ExerciseSimulator Vol.1 | 309666 | [309666-exercisesimulator-vol-1.json](./309666-exercisesimulator-vol-1.json) |
+| Exerion | 6104 | [6104-exerion.json](./6104-exerion.json) |
 | Exerion II: Zorni | 37189 | [37189-exerion-ii-zorni.json](./37189-exerion-ii-zorni.json) |
 | Exertainment Mountain Bike Rally / Speed Racer | 60204 | [60204-exertainment-mountain-bike-rally-speed-racer.json](./60204-exertainment-mountain-bike-rally-speed-racer.json) |
 | Exes Assault!! | 187397 | [187397-exes-assault.json](./187397-exes-assault.json) |
