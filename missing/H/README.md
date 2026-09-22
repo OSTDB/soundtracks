@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Racing | 252160 | [252160-hard-racing.json](./252160-hard-racing.json) |
 | Hard Racing: Stunt Car Driving | 283264 | [283264-hard-racing-stunt-car-driving.json](./283264-hard-racing-stunt-car-driving.json) |
 | Hard Relay Mario | 219117 | [219117-hard-relay-mario.json](./219117-hard-relay-mario.json) |
+| Hard Rock Casino | 21386 | [21386-hard-rock-casino.json](./21386-hard-rock-casino.json) |
 | Hard Rock Pinball | 133434 | [133434-hard-rock-pinball.json](./133434-hard-rock-pinball.json) |
 | Hard Rock Racing | 103878 | [103878-hard-rock-racing.json](./103878-hard-rock-racing.json) |
 | Hard Survivor | 232973 | [232973-hard-survivor.json](./232973-hard-survivor.json) |
