@@ -1808,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Floor | 394178 | [394178-phantom-floor.json](./394178-phantom-floor.json) |
 | Phantom Fury | 218009 | [218009-phantom-fury.json](./218009-phantom-fury.json) |
 | Phantom Grid | 367974 | [367974-phantom-grid.json](./367974-phantom-grid.json) |
+| Phantom Halls | 27199 | [27199-phantom-halls.json](./27199-phantom-halls.json) |
 | Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
 | Phantom Hunter | 243157 | [243157-phantom-hunter.json](./243157-phantom-hunter.json) |
 | Phantom II | 40404 | [40404-phantom-ii.json](./40404-phantom-ii.json) |
@@ -2719,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pirates | 53460 | [53460-pixel-pirates.json](./53460-pixel-pirates.json) |
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
+| Pixel Privateers | 27405 | [27405-pixel-privateers.json](./27405-pixel-privateers.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
@@ -4679,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker 2 Regeneration | 261795 | [261795-princess-maker-2-regeneration.json](./261795-princess-maker-2-regeneration.json) |
 | Princess Maker 3: Fairy Tales Come True | 43184 | [43184-princess-maker-3-fairy-tales-come-true.json](./43184-princess-maker-3-fairy-tales-come-true.json) |
 | Princess Maker 4 Portable | 205640 | [205640-princess-maker-4-portable.json](./205640-princess-maker-4-portable.json) |
+| Princess Maker Refine | 27317 | [27317-princess-maker-refine.json](./27317-princess-maker-refine.json) |
 | Princess Maker: Children of Revelation | 316082 | [316082-princess-maker-children-of-revelation.json](./316082-princess-maker-children-of-revelation.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
