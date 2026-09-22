@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
 | Cal Ripken Jr. Baseball | 46230 | [46230-cal-ripken-jr-baseball.json](./46230-cal-ripken-jr-baseball.json) |
+| Calamity Angels: Special Delivery - Digital Deluxe Edition | 391861 | [391861-calamity-angels-special-delivery-digital-deluxe-edition.json](./391861-calamity-angels-special-delivery-digital-deluxe-edition.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
 | Calavera: Day of the Dead - Collector's Edition | 28877 | [28877-calavera-day-of-the-dead-collectors-edition.json](./28877-calavera-day-of-the-dead-collectors-edition.json) |
 | Calcium Chaos | 199353 | [199353-calcium-chaos.json](./199353-calcium-chaos.json) |
@@ -749,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Trainer | 400869 | [400869-card-trainer.json](./400869-card-trainer.json) |
 | Card Wizard | 381123 | [381123-card-wizard.json](./381123-card-wizard.json) |
 | Card-en-Ciel | 292835 | [292835-card-en-ciel.json](./292835-card-en-ciel.json) |
+| Card-en-Ciel: The World of the "Blaster Master Zero Series" | 391867 | [391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json](./391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json) |
 | Card&Casino | 399617 | [399617-card-and-casino.json](./399617-card-and-casino.json) |
 | Cardangels | 135161 | [135161-cardangels.json](./135161-cardangels.json) |
 | CardBoard | 395558 | [395558-cardboard.json](./395558-cardboard.json) |
@@ -2021,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie II: Expansion Pack | 169327 | [169327-charlie-ii-expansion-pack.json](./169327-charlie-ii-expansion-pack.json) |
 | Charlie Murder | 19914 | [19914-charlie-murder.json](./19914-charlie-murder.json) |
 | Charlie Ninja | 39832 | [39832-charlie-ninja.json](./39832-charlie-ninja.json) |
+| Charlie Spotlight | 391897 | [391897-charlie-spotlight.json](./391897-charlie-spotlight.json) |
 | Charlie the Steak | 310574 | [310574-charlie-the-steak.json](./310574-charlie-the-steak.json) |
 | Charlie: The Legend | 172022 | [172022-charlie-the-legend.json](./172022-charlie-the-legend.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
@@ -2136,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef | 128575 | [128575-chef.json](./128575-chef.json) |
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
+| Chef of Sherwood | 391845 | [391845-chef-of-sherwood.json](./391845-chef-of-sherwood.json) |
 | Chef Ramsay | 248130 | [248130-chef-ramsay.json](./248130-chef-ramsay.json) |
 | Chef RPG | 191154 | [191154-chef-rpg.json](./191154-chef-rpg.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
@@ -3481,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
 | Clock Tower: Rewind | 256465 | [256465-clock-tower-rewind.json](./256465-clock-tower-rewind.json) |
 | Clock World | 398579 | [398579-clock-world.json](./398579-clock-world.json) |
+| Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
 | Clockwind | 185029 | [185029-clockwind.json](./185029-clockwind.json) |
@@ -3867,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Harvest | 191195 | [191195-cold-harvest.json](./191195-cold-harvest.json) |
 | Cold House | 190092 | [190092-cold-house.json](./190092-cold-house.json) |
 | Cold Meat | 166716 | [166716-cold-meat.json](./166716-cold-meat.json) |
+| Cold Pines | 391877 | [391877-cold-pines.json](./391877-cold-pines.json) |
 | Cold Scream | 172027 | [172027-cold-scream.json](./172027-cold-scream.json) |
 | Cold Snap | 401621 | [401621-cold-snap.json](./401621-cold-snap.json) |
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
@@ -4643,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construct: Escape the System | 27904 | [27904-construct-escape-the-system.json](./27904-construct-escape-the-system.json) |
 | Construct.AI | 172128 | [172128-construct-ai.json](./172128-construct-ai.json) |
 | Construct&Conquer: The Levant in the 12th Century | 291056 | [291056-construct-and-conquer-the-levant-in-the-12th-century.json](./291056-construct-and-conquer-the-levant-in-the-12th-century.json) |
+| Construction Crew | 391899 | [391899-construction-crew.json](./391899-construction-crew.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
 | Construction Machines Sim | 201141 | [201141-construction-machines-sim.json](./201141-construction-machines-sim.json) |
 | Construction Playground | 164903 | [164903-construction-playground.json](./164903-construction-playground.json) |
