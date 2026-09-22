@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes From Ciudadela | 387335 | [387335-echoes-from-ciudadela.json](./387335-echoes-from-ciudadela.json) |
 | Echoes from the Abyss | 309135 | [309135-echoes-from-the-abyss.json](./309135-echoes-from-the-abyss.json) |
 | Echoes Ⅱ | 303505 | [303505-echoes-ii.json](./303505-echoes-ii.json) |
+| Echoes In Static | 395879 | [395879-echoes-in-static.json](./395879-echoes-in-static.json) |
 | Echoes of a Turnabout: Franziska von Karma | 318768 | [318768-echoes-of-a-turnabout-franziska-von-karma.json](./318768-echoes-of-a-turnabout-franziska-von-karma.json) |
 | Echoes of Agony | 387354 | [387354-echoes-of-agony.json](./387354-echoes-of-agony.json) |
 | Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
@@ -2319,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II: The Fallen Dynasty | 20533 | [20533-everquest-ii-the-fallen-dynasty.json](./20533-everquest-ii-the-fallen-dynasty.json) |
 | EverQuest II: The Shadow Odyssey | 78366 | [78366-everquest-ii-the-shadow-odyssey.json](./78366-everquest-ii-the-shadow-odyssey.json) |
 | EverQuest II: The Splitpaw Saga | 111025 | [111025-everquest-ii-the-splitpaw-saga.json](./111025-everquest-ii-the-splitpaw-saga.json) |
+| EverQuest Legends | 395827 | [395827-everquest-legends.json](./395827-everquest-legends.json) |
 | EverQuest Next | 18341 | [18341-everquest-next.json](./18341-everquest-next.json) |
 | EverQuest Online Adventures | 23742 | [23742-everquest-online-adventures.json](./23742-everquest-online-adventures.json) |
 | EverQuest: Night of Shadows | 239190 | [239190-everquest-night-of-shadows.json](./239190-everquest-night-of-shadows.json) |
