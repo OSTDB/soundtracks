@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulation | 23062 | [23062-flight-simulation.json](./23062-flight-simulation.json) |
 | Flight Simulator | 69838 | [69838-flight-simulator.json](./69838-flight-simulator.json) |
 | Flight Simulator 2025 VR | 335088 | [335088-flight-simulator-2025-vr.json](./335088-flight-simulator-2025-vr.json) |
+| Flight Simulator 2026 | 401128 | [401128-flight-simulator-2026.json](./401128-flight-simulator-2026.json) |
 | Flight Simulator Airplane Game | 261914 | [261914-flight-simulator-airplane-game.json](./261914-flight-simulator-airplane-game.json) |
 | Flight Simulator Xtreme | 88109 | [88109-flight-simulator-xtreme.json](./88109-flight-simulator-xtreme.json) |
 | Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
