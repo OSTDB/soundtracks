@@ -5372,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autoball | 394887 | [394887-autoball.json](./394887-autoball.json) |
 | AutoCompete | 233099 | [233099-autocompete.json](./233099-autocompete.json) |
 | Autocracy | 84243 | [84243-autocracy.json](./84243-autocracy.json) |
+| Autocraft | 17178 | [17178-autocraft.json](./17178-autocraft.json) |
 | Autocross Madness | 96274 | [96274-autocross-madness.json](./96274-autocross-madness.json) |
 | Autocrusher: Bumper Cars | 213608 | [213608-autocrusher-bumper-cars.json](./213608-autocrusher-bumper-cars.json) |
 | AutoDemo Levels in SADX | 198544 | [198544-autodemo-levels-in-sadx.json](./198544-autodemo-levels-in-sadx.json) |
@@ -5538,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
 | Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
+| Avoid: Sensory Overload | 17169 | [17169-avoid-sensory-overload.json](./17169-avoid-sensory-overload.json) |
 | Avoider | 57056 | [57056-avoider.json](./57056-avoider.json) |
 | Avoidon | 126435 | [126435-avoidon.json](./126435-avoidon.json) |
 | Avoidvania | 159802 | [159802-avoidvania.json](./159802-avoidvania.json) |
