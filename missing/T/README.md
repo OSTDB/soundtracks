@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamayoshi +Vance | 323359 | [323359-tamayoshi-vance.json](./323359-tamayoshi-vance.json) |
 | Tamayura Mirai | 240818 | [240818-tamayura-mirai.json](./240818-tamayura-mirai.json) |
 | Tambo: The Last Night | 389578 | [389578-tambo-the-last-night.json](./389578-tambo-the-last-night.json) |
+| Tambourine | 399193 | [399193-tambourine.json](./399193-tambourine.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
 | Tamerlane | 233633 | [233633-tamerlane.json](./233633-tamerlane.json) |
@@ -4248,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Larper | 402988 | [402988-the-larper.json](./402988-the-larper.json) |
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
+| The Last (Hotdog) Stand | 399185 | [399185-the-last-hotdog-stand.json](./399185-the-last-hotdog-stand.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
 | The Last Ball | 410474 | [410474-the-last-ball.json](./410474-the-last-ball.json) |
 | The last Baron's stunt | 89652 | [89652-the-last-barons-stunt.json](./89652-the-last-barons-stunt.json) |
@@ -8734,6 +8736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Cooking: Ultimate Edition | 328804 | [328804-tokyo-cooking-ultimate-edition.json](./328804-tokyo-cooking-ultimate-edition.json) |
 | Tokyo Cop | 148506 | [148506-tokyo-cop.json](./148506-tokyo-cop.json) |
 | Tokyo Crash Mobs | 20171 | [20171-tokyo-crash-mobs.json](./20171-tokyo-crash-mobs.json) |
+| Tokyo Day | 399166 | [399166-tokyo-day.json](./399166-tokyo-day.json) |
 | Tokyo Dungeon | 108824 | [108824-tokyo-dungeon.json](./108824-tokyo-dungeon.json) |
 | Tokyo Friend Park II Ketteiban: Minna de Chousen! Taikan Attraction | 139255 | [139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json](./139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json) |
 | Tokyo Ghoul: Break the Chains | 275897 | [275897-tokyo-ghoul-break-the-chains.json](./275897-tokyo-ghoul-break-the-chains.json) |
@@ -9159,6 +9162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
 | Torch 2081 | 86047 | [86047-torch-2081.json](./86047-torch-2081.json) |
 | Torch Cave 3 | 43542 | [43542-torch-cave-3.json](./43542-torch-cave-3.json) |
+| Torch Keeper | 399177 | [399177-torch-keeper.json](./399177-torch-keeper.json) |
 | Torch of Shadows | 374074 | [374074-torch-of-shadows.json](./374074-torch-of-shadows.json) |
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Torched | 370799 | [370799-torched.json](./370799-torched.json) |
