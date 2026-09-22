@@ -3359,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliax Codec | 404970 | [404970-cliax-codec.json](./404970-cliax-codec.json) |
 | Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
+| Click Build Repeat | 404419 | [404419-click-build-repeat.json](./404419-click-build-repeat.json) |
 | Click Click Click | 369641 | [369641-click-click-click.json](./369641-click-click-click.json) |
 | Click Cluck | 381145 | [381145-click-cluck.json](./381145-click-cluck.json) |
 | Click Defense | 119722 | [119722-click-defense.json](./119722-click-defense.json) |
@@ -3900,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Lacrosse 2011 | 61039 | [61039-college-lacrosse-2011.json](./61039-college-lacrosse-2011.json) |
 | College Lacrosse 2012 | 61036 | [61036-college-lacrosse-2012.json](./61036-college-lacrosse-2012.json) |
 | College Lacrosse 2014 | 87888 | [87888-college-lacrosse-2014.json](./87888-college-lacrosse-2014.json) |
+| College Quest | 404401 | [404401-college-quest.json](./404401-college-quest.json) |
 | College Sex Fest 2024 | 297095 | [297095-college-sex-fest-2024.json](./297095-college-sex-fest-2024.json) |
 | College Sex Party | 265776 | [265776-college-sex-party.json](./265776-college-sex-party.json) |
 | College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
@@ -5877,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critters for Sale: Snake | 158055 | [158055-critters-for-sale-snake.json](./158055-critters-for-sale-snake.json) |
 | Critters: Cute Cubs in a Cruel World | 75037 | [75037-critters-cute-cubs-in-a-cruel-world.json](./75037-critters-cute-cubs-in-a-cruel-world.json) |
 | Crnvrs | 186275 | [186275-crnvrs.json](./186275-crnvrs.json) |
+| Croak and Solve | 404433 | [404433-croak-and-solve.json](./404433-croak-and-solve.json) |
 | Croak Cafe: From Pond to Plate | 311487 | [311487-croak-cafe-from-pond-to-plate.json](./311487-croak-cafe-from-pond-to-plate.json) |
 | Croaka-Crawla | 319576 | [319576-croaka-crawla.json](./319576-croaka-crawla.json) |
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
