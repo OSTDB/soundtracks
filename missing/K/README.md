@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
 | Kaze no Tayori 2 | 403039 | [403039-kaze-no-tayori-2.json](./403039-kaze-no-tayori-2.json) |
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
+| Kazfall | 413875 | [413875-kazfall.json](./413875-kazfall.json) |
 | Kazoku Keikaku | 56773 | [56773-kazoku-keikaku.json](./56773-kazoku-keikaku.json) |
 | Kazoku Keikaku Soshite Mata Kazoku Keikaku o | 237408 | [237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json](./237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
@@ -2152,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
 | Kyurinaga's Revenge | 25308 | [25308-kyurinagas-revenge.json](./25308-kyurinagas-revenge.json) |
 | Kyuuketsu Hime Yui: Senyashou | 393601 | [393601-kyuuketsu-hime-yui-senyashou.json](./393601-kyuuketsu-hime-yui-senyashou.json) |
+| Kyuuketsu Kitan Moonties | 413932 | [413932-kyuuketsu-kitan-moonties.json](./413932-kyuuketsu-kitan-moonties.json) |
 | Kyuukyoku Harikiri Stadium | 48309 | [48309-kyuukyoku-harikiri-stadium.json](./48309-kyuukyoku-harikiri-stadium.json) |
 | Kyuukyoku Harikiri Stadium '88 Senshuu Shin Data | 48311 | [48311-kyuukyoku-harikiri-stadium-88-senshuu-shin-data.json](./48311-kyuukyoku-harikiri-stadium-88-senshuu-shin-data.json) |
 | Kyuukyoku Harikiri Stadium III | 48310 | [48310-kyuukyoku-harikiri-stadium-iii.json](./48310-kyuukyoku-harikiri-stadium-iii.json) |
