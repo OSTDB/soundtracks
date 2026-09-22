@@ -3919,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
 | Mind Echoes: Remnants of the Past | 416705 | [416705-mind-echoes-remnants-of-the-past.json](./416705-mind-echoes-remnants-of-the-past.json) |
 | Mind Echoes: The Lost Mysteries - Collector's Edition | 338696 | [338696-mind-echoes-the-lost-mysteries-collectors-edition.json](./338696-mind-echoes-the-lost-mysteries-collectors-edition.json) |
+| Mind Games | 33393 | [33393-mind-games.json](./33393-mind-games.json) |
 | Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind In Despair | 231917 | [231917-mind-in-despair.json](./231917-mind-in-despair.json) |
@@ -3946,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind: Path to Thalamus | 8876 | [8876-mind-path-to-thalamus.json](./8876-mind-path-to-thalamus.json) |
 | Mind's Eye Macrogolf | 361239 | [361239-minds-eye-macrogolf.json](./361239-minds-eye-macrogolf.json) |
 | Mindaro | 355123 | [355123-mindaro.json](./355123-mindaro.json) |
+| Mindball Play | 33455 | [33455-mindball-play.json](./33455-mindball-play.json) |
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
 | Mindcell | 166159 | [166159-mindcell.json](./166159-mindcell.json) |
@@ -6142,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Mosquito | 246473 | [246473-mr-mosquito.json](./246473-mr-mosquito.json) |
 | Mr. Mower | 236380 | [236380-mr-mower.json](./236380-mr-mower.json) |
 | Mr. Mueller's Grand Experiment | 284894 | [284894-mr-muellers-grand-experiment.json](./284894-mr-muellers-grand-experiment.json) |
+| Mr. Nibbles Forever | 33372 | [33372-mr-nibbles-forever.json](./33372-mr-nibbles-forever.json) |
 | Mr. Nutz: Hoppin' Mad | 39030 | [39030-mr-nutz-hoppin-mad.json](./39030-mr-nutz-hoppin-mad.json) |
 | Mr. Parkour | 141034 | [141034-mr-parkour.json](./141034-mr-parkour.json) |
 | Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
@@ -7240,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Valley Battleground | 272564 | [272564-mystic-valley-battleground.json](./272564-mystic-valley-battleground.json) |
 | Mystic VR | 51940 | [51940-mystic-vr.json](./51940-mystic-vr.json) |
 | Mystica | 230921 | [230921-mystica.json](./230921-mystica.json) |
+| Mystica: The Ninth Society | 33377 | [33377-mystica-the-ninth-society.json](./33377-mystica-the-ninth-society.json) |
 | Mystical | 34821 | [34821-mystical.json](./34821-mystical.json) |
 | Mystical Chain | 202950 | [202950-mystical-chain.json](./202950-mystical-chain.json) |
 | Mystical Crash in Magical Middle Ages: Adventure of Valkyrie | 313273 | [313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json](./313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json) |
