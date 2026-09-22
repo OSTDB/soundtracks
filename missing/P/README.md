@@ -5387,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
+| Promethean Thirst | 405695 | [405695-promethean-thirst.json](./405695-promethean-thirst.json) |
 | Prometheus Unbound | 290019 | [290019-prometheus-unbound.json](./290019-prometheus-unbound.json) |
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
 | Promise Me, You'll Live | 280803 | [280803-promise-me-youll-live.json](./280803-promise-me-youll-live.json) |
