@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium: Powered Gear - Strategic Variant Armor Equipment | 234309 | [234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json](./234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json) |
 | Capcom Arcade Stadium: Tatakai no Banka | 150655 | [150655-capcom-arcade-stadium-tatakai-no-banka.json](./150655-capcom-arcade-stadium-tatakai-no-banka.json) |
 | Capcom Classics Collection Remixed | 23005 | [23005-capcom-classics-collection-remixed.json](./23005-capcom-classics-collection-remixed.json) |
+| Capcom Classics Collection Vol. 2 | 20605 | [20605-capcom-classics-collection-vol-2.json](./20605-capcom-classics-collection-vol-2.json) |
 | Capcom Coin-Op Collection Volume 1 | 206704 | [206704-capcom-coin-op-collection-volume-1.json](./206704-capcom-coin-op-collection-volume-1.json) |
 | Capcom Fighting Bundle | 207898 | [207898-capcom-fighting-bundle.json](./207898-capcom-fighting-bundle.json) |
 | Capcom Generations | 43897 | [43897-capcom-generations.json](./43897-capcom-generations.json) |
@@ -6004,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
 | Crustacean Frustration | 395021 | [395021-crustacean-frustration.json](./395021-crustacean-frustration.json) |
 | Crustacean Nations | 211254 | [211254-crustacean-nations.json](./211254-crustacean-nations.json) |
+| Crusty Demons | 20537 | [20537-crusty-demons.json](./20537-crusty-demons.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
 | Cruxade | 212246 | [212246-cruxade.json](./212246-cruxade.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
