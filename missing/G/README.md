@@ -1783,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Hell Go: Tsukiotoshiteko | 268002 | [268002-go-hell-go-tsukiotoshiteko.json](./268002-go-hell-go-tsukiotoshiteko.json) |
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
 | Go Home 1986 | 392928 | [392928-go-home-1986.json](./392928-go-home-1986.json) |
+| Go Home Dinosaurs! | 16396 | [16396-go-home-dinosaurs.json](./16396-go-home-dinosaurs.json) |
 | Go Kart Challenge | 140986 | [140986-go-kart-challenge.json](./140986-go-kart-challenge.json) |
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
@@ -3487,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun King | 230936 | [230936-gun-king.json](./230936-gun-king.json) |
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
 | Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
+| Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
 | Gun on the Chickahominy | 148473 | [148473-gun-on-the-chickahominy.json](./148473-gun-on-the-chickahominy.json) |
 | Gun Paradise | 348260 | [348260-gun-paradise.json](./348260-gun-paradise.json) |
 | Gun Party | 158227 | [158227-gun-party.json](./158227-gun-party.json) |
