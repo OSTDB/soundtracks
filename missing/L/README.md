@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserpitium | 249307 | [249307-laserpitium.json](./249307-laserpitium.json) |
 | LaserReimu | 324302 | [324302-laserreimu.json](./324302-laserreimu.json) |
 | LaserShotz | 159890 | [159890-lasershotz.json](./159890-lasershotz.json) |
+| Lasertag | 397898 | [397898-lasertag.json](./397898-lasertag.json) |
 | Laservasion | 121454 | [121454-laservasion.json](./121454-laservasion.json) |
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
 | Lasso | 346094 | [346094-lasso.json](./346094-lasso.json) |
@@ -3466,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurking in the Shadows | 58244 | [58244-lurking-in-the-shadows.json](./58244-lurking-in-the-shadows.json) |
 | Lurks Within Walls | 319221 | [319221-lurks-within-walls.json](./319221-lurks-within-walls.json) |
 | Lurn 2 Shell | 308391 | [308391-lurn-2-shell.json](./308391-lurn-2-shell.json) |
+| Lurruna: The Island of Towering Automatons | 397952 | [397952-lurruna-the-island-of-towering-automatons.json](./397952-lurruna-the-island-of-towering-automatons.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lusófona Games Collection 2025 | 406292 | [406292-lusofona-games-collection-2025.json](./406292-lusofona-games-collection-2025.json) |
 | Lust Academy: Season 1 | 195223 | [195223-lust-academy-season-1.json](./195223-lust-academy-season-1.json) |
