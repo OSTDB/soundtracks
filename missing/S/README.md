@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Empires of the Ancient World | 84857 | [84857-secret-empires-of-the-ancient-world.json](./84857-secret-empires-of-the-ancient-world.json) |
 | Secret Files 2: Puritas Cordis | 5146 | [5146-secret-files-2-puritas-cordis.json](./5146-secret-files-2-puritas-cordis.json) |
 | Secret Files: Tunguska | 5145 | [5145-secret-files-tunguska.json](./5145-secret-files-tunguska.json) |
+| Secret Files: Tunguska - Remastered | 399165 | [399165-secret-files-tunguska-remastered.json](./399165-secret-files-tunguska-remastered.json) |
 | Secret Forest | 295277 | [295277-secret-forest.json](./295277-secret-forest.json) |
 | Secret Government | 110178 | [110178-secret-government.json](./110178-secret-government.json) |
 | Secret Habitat | 56176 | [56176-secret-habitat.json](./56176-secret-habitat.json) |
@@ -1826,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishoku ni Watashi wo | 321620 | [321620-seishoku-ni-watashi-wo.json](./321620-seishoku-ni-watashi-wo.json) |
 | Seishoujo Kantai Virgin Fleet | 290423 | [290423-seishoujo-kantai-virgin-fleet.json](./290423-seishoujo-kantai-virgin-fleet.json) |
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
+| Seito Kaichou de Amaenbou na Onee-chan ha Suki Desu ka? | 399191 | [399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json](./399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json) |
 | Seiun Kamen Machineman: Dengeki Convert | 385750 | [385750-seiun-kamen-machineman-dengeki-convert.json](./385750-seiun-kamen-machineman-dengeki-convert.json) |
 | Seiya Online | 144251 | [144251-seiya-online.json](./144251-seiya-online.json) |
 | Seize the Cheese | 386875 | [386875-seize-the-cheese.json](./386875-seize-the-cheese.json) |
@@ -2477,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows in the Silence | 374081 | [374081-shadows-in-the-silence.json](./374081-shadows-in-the-silence.json) |
 | Shadows Labyrinth | 272926 | [272926-shadows-labyrinth.json](./272926-shadows-labyrinth.json) |
 | Shadows Light | 110783 | [110783-shadows-light.json](./110783-shadows-light.json) |
+| Shadows Must Fall | 399200 | [399200-shadows-must-fall.json](./399200-shadows-must-fall.json) |
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
 | Shadows of Adam | 27445 | [27445-shadows-of-adam.json](./27445-shadows-of-adam.json) |
 | Shadows of Chronos | 260784 | [260784-shadows-of-chronos.json](./260784-shadows-of-chronos.json) |
@@ -8676,6 +8679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Empire Strikes Back | 12732 | [12732-star-wars-the-empire-strikes-back.json](./12732-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
+| Star Wars: The Force Unleashed | 399219 | [399219-star-wars-the-force-unleashed.json](./399219-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed - Tatooine Mission Pack | 17475 | [17475-star-wars-the-force-unleashed-tatooine-mission-pack.json](./17475-star-wars-the-force-unleashed-tatooine-mission-pack.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
 | Star Wars: The Old Republic - Knights of the Fallen Empire | 11178 | [11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json](./11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json) |
@@ -9565,6 +9569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
 | Stop | 135700 | [135700-stop.json](./135700-stop.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
+| Stop and Smell the Flowers | 399164 | [399164-stop-and-smell-the-flowers.json](./399164-stop-and-smell-the-flowers.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
 | Stop the Blight | 338748 | [338748-stop-the-blight.json](./338748-stop-the-blight.json) |
@@ -10922,6 +10927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fire Pro Wrestling Special | 38286 | [38286-super-fire-pro-wrestling-special.json](./38286-super-fire-pro-wrestling-special.json) |
 | Super Fire Pro Wrestling X | 38287 | [38287-super-fire-pro-wrestling-x.json](./38287-super-fire-pro-wrestling-x.json) |
 | Super Fire Pro Wrestling: Queen's Special | 38282 | [38282-super-fire-pro-wrestling-queens-special.json](./38282-super-fire-pro-wrestling-queens-special.json) |
+| Super Fish Bets | 399178 | [399178-super-fish-bets.json](./399178-super-fish-bets.json) |
 | Super Flail | 105387 | [105387-super-flail.json](./105387-super-flail.json) |
 | Super Flipper | 110838 | [110838-super-flipper.json](./110838-super-flipper.json) |
 | Super Flipside | 47993 | [47993-super-flipside.json](./47993-super-flipside.json) |
@@ -12173,6 +12179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Striker: The Way of Sushido | 37179 | [37179-sushi-striker-the-way-of-sushido.json](./37179-sushi-striker-the-way-of-sushido.json) |
 | Sushi Time!: Premium Edition | 241402 | [241402-sushi-time-premium-edition.json](./241402-sushi-time-premium-edition.json) |
 | Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
+| Sushi Yummy | 399183 | [399183-sushi-yummy.json](./399183-sushi-yummy.json) |
 | Sushiamo | 400462 | [400462-sushiamo.json](./400462-sushiamo.json) |
 | SushiCat: Bento | 363948 | [363948-sushicat-bento.json](./363948-sushicat-bento.json) |
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
@@ -12708,6 +12715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
 | Syphon Filter: The Omega Strain | 20185 | [20185-syphon-filter-the-omega-strain.json](./20185-syphon-filter-the-omega-strain.json) |
+| Syr and the Stars' Revival | 399187 | [399187-syr-and-the-stars-revival.json](./399187-syr-and-the-stars-revival.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
