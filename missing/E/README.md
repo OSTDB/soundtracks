@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eFootball 2023 | 214925 | [214925-efootball-2023.json](./214925-efootball-2023.json) |
 | eFootball 2024 | 266157 | [266157-efootball-2024.json](./266157-efootball-2024.json) |
 | eFootball 2024: Leo Messi Edition | 265241 | [265241-efootball-2024-leo-messi-edition.json](./265241-efootball-2024-leo-messi-edition.json) |
+| EFootball 2026 by Felix Pro | 395200 | [395200-efootball-2026-by-felix-pro.json](./395200-efootball-2026-by-felix-pro.json) |
 | eFootball PES 2020: Legend Edition | 119573 | [119573-efootball-pes-2020-legend-edition.json](./119573-efootball-pes-2020-legend-edition.json) |
 | eFootball: Mourinho Edition 2026 | 361243 | [361243-efootball-mourinho-edition-2026.json](./361243-efootball-mourinho-edition-2026.json) |
 | EFourGames | 362884 | [362884-efourgames.json](./362884-efourgames.json) |
@@ -1743,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Darkmoor Manor | 36105 | [36105-escape-from-darkmoor-manor.json](./36105-escape-from-darkmoor-manor.json) |
 | Escape from Death | 270110 | [270110-escape-from-death.json](./270110-escape-from-death.json) |
 | Escape from Deathmark Dungeon | 195695 | [195695-escape-from-deathmark-dungeon.json](./195695-escape-from-deathmark-dungeon.json) |
+| Escape From Duckness | 395218 | [395218-escape-from-duckness.json](./395218-escape-from-duckness.json) |
 | Escape From Earth | 121458 | [121458-escape-from-earth.json](./121458-escape-from-earth.json) |
 | Escape from Ever After | 211624 | [211624-escape-from-ever-after.json](./211624-escape-from-ever-after.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
@@ -1819,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
+| Escape game R00m11 | 395217 | [395217-escape-game-r00m11.json](./395217-escape-game-r00m11.json) |
 | Escape game R00m12 | 399635 | [399635-escape-game-r00m12.json](./399635-escape-game-r00m12.json) |
 | Escape Game Sleepless | 335698 | [335698-escape-game-sleepless.json](./335698-escape-game-sleepless.json) |
 | Escape Game The Dr. Mouse's Lab | 298585 | [298585-escape-game-the-dr-mouses-lab.json](./298585-escape-game-the-dr-mouses-lab.json) |
