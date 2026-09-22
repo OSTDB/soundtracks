@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Sin: Deluxe Edition | 143486 | [143486-empire-of-sin-deluxe-edition.json](./143486-empire-of-sin-deluxe-edition.json) |
 | Empire of Sin: Make It Count | 193431 | [193431-empire-of-sin-make-it-count.json](./193431-empire-of-sin-make-it-count.json) |
 | Empire of Sin: Premium Edition | 143487 | [143487-empire-of-sin-premium-edition.json](./143487-empire-of-sin-premium-edition.json) |
+| Empire of the Ants | 237276 | [237276-empire-of-the-ants.json](./237276-empire-of-the-ants.json) |
 | Empire of the Ants: Digital Deluxe Edition | 320754 | [320754-empire-of-the-ants-digital-deluxe-edition.json](./320754-empire-of-the-ants-digital-deluxe-edition.json) |
 | Empire of the Fallen Steel | 37388 | [37388-empire-of-the-fallen-steel.json](./37388-empire-of-the-fallen-steel.json) |
 | Empire of Vice: Chicago | 388258 | [388258-empire-of-vice-chicago.json](./388258-empire-of-vice-chicago.json) |
@@ -2179,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventide Night | 28940 | [28940-eventide-night.json](./28940-eventide-night.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
 | Ever After Again: A Stories Adventure | 414459 | [414459-ever-after-again-a-stories-adventure.json](./414459-ever-after-again-a-stories-adventure.json) |
+| Ever Forward | 132328 | [132328-ever-forward.json](./132328-ever-forward.json) |
 | Ever Lasting Joy | 51527 | [51527-ever-lasting-joy.json](./51527-ever-lasting-joy.json) |
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
