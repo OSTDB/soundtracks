@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mane | 158171 | [158171-mane.json](./158171-mane.json) |
 | Mane Box | 237396 | [237396-mane-box.json](./237396-mane-box.json) |
 | Maneater | 46800 | [46800-maneater.json](./46800-maneater.json) |
+| Maneater 2 | 416101 | [416101-maneater-2.json](./416101-maneater-2.json) |
 | Maneater: Truth Quest | 162622 | [162622-maneater-truth-quest.json](./162622-maneater-truth-quest.json) |
 | Maneki's Curse | 33384 | [33384-manekis-curse.json](./33384-manekis-curse.json) |
 | Manes | 70083 | [70083-manes.json](./70083-manes.json) |
@@ -2571,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X Dive Offline | 252996 | [252996-mega-man-x-dive-offline.json](./252996-mega-man-x-dive-offline.json) |
 | Mega Man X in Sonic the Hedgehog 2 | 136417 | [136417-mega-man-x-in-sonic-the-hedgehog-2.json](./136417-mega-man-x-in-sonic-the-hedgehog-2.json) |
 | Mega Man X: Command Mission | 1751 | [1751-mega-man-x-command-mission.json](./1751-mega-man-x-command-mission.json) |
+| Mega Man X: Command Mission | 416112 | [416112-mega-man-x-command-mission.json](./416112-mega-man-x-command-mission.json) |
 | Mega Man X: Legacy Collection | 96252 | [96252-mega-man-x-legacy-collection.json](./96252-mega-man-x-legacy-collection.json) |
 | Mega Man X: Legacy Collection 1+2 | 96248 | [96248-mega-man-x-legacy-collection-1-2.json](./96248-mega-man-x-legacy-collection-1-2.json) |
 | Mega Man X: Project Zero | 376479 | [376479-mega-man-x-project-zero.json](./376479-mega-man-x-project-zero.json) |
@@ -2787,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon Dusk | 196238 | [196238-melon-dusk.json](./196238-melon-dusk.json) |
 | Melon Journey Pocket | 244794 | [244794-melon-journey-pocket.json](./244794-melon-journey-pocket.json) |
 | Melon Madness | 288765 | [288765-melon-madness.json](./288765-melon-madness.json) |
+| Melon on a Mission | 416071 | [416071-melon-on-a-mission.json](./416071-melon-on-a-mission.json) |
 | Melon Parker: We are Whatever Club! | 378816 | [378816-melon-parker-we-are-whatever-club.json](./378816-melon-parker-we-are-whatever-club.json) |
 | Melon Sandbox | 231934 | [231934-melon-sandbox.json](./231934-melon-sandbox.json) |
 | Melon Truck 2.0 | 256347 | [256347-melon-truck-2-0.json](./256347-melon-truck-2-0.json) |
