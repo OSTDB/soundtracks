@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
 | D-100 | 250968 | [250968-d-100.json](./250968-d-100.json) |
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
+| D-Day | 27252 | [27252-d-day.json](./27252-d-day.json) |
 | D-Day VR Museum | 295790 | [295790-d-day-vr-museum.json](./295790-d-day-vr-museum.json) |
 | D-Day: Normandy | 180210 | [180210-d-day-normandy.json](./180210-d-day-normandy.json) |
 | D-Day: The Beginning of the End | 12417 | [12417-d-day-the-beginning-of-the-end.json](./12417-d-day-the-beginning-of-the-end.json) |
@@ -539,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Laws | 279134 | [279134-dark-laws.json](./279134-dark-laws.json) |
 | Dark Legacy | 314034 | [314034-dark-legacy.json](./314034-dark-legacy.json) |
 | Dark Legend | 45525 | [45525-dark-legend.json](./45525-dark-legend.json) |
+| Dark Legion | 27574 | [27574-dark-legion.json](./27574-dark-legion.json) |
 | Dark Lessons | 285002 | [285002-dark-lessons.json](./285002-dark-lessons.json) |
 | Dark Lord | 227272 | [227272-dark-lord.json](./227272-dark-lord.json) |
 | Dark Lord | 85882 | [85882-dark-lord.json](./85882-dark-lord.json) |
@@ -592,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Prison 7th | 349379 | [349379-dark-prison-7th.json](./349379-dark-prison-7th.json) |
 | Dark Prospect | 128994 | [128994-dark-prospect.json](./128994-dark-prospect.json) |
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
+| Dark Quest | 27488 | [27488-dark-quest.json](./27488-dark-quest.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
@@ -2651,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devinica | 253979 | [253979-devinica.json](./253979-devinica.json) |
 | Devious Path | 317405 | [317405-devious-path.json](./317405-devious-path.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
+| Devoid of Shadows | 27370 | [27370-devoid-of-shadows.json](./27370-devoid-of-shadows.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
 | Devolver Bootleg | 119315 | [119315-devolver-bootleg.json](./119315-devolver-bootleg.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
@@ -5186,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
 | Dream Cat Paradise | 374175 | [374175-dream-cat-paradise.json](./374175-dream-cat-paradise.json) |
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
+| Dream Chamber | 27332 | [27332-dream-chamber.json](./27332-dream-chamber.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
 | Dream Chronicles 2: The Eternal Maze | 50502 | [50502-dream-chronicles-2-the-eternal-maze.json](./50502-dream-chronicles-2-the-eternal-maze.json) |
 | Dream Chronicles: The Book of Air | 50501 | [50501-dream-chronicles-the-book-of-air.json](./50501-dream-chronicles-the-book-of-air.json) |
@@ -6340,5 +6345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysto-wanderer | 319016 | [319016-dysto-wanderer.json](./319016-dysto-wanderer.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
+| Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | Dziedzic: A Book of Unanswered Questions | 299735 | [299735-dziedzic-a-book-of-unanswered-questions.json](./299735-dziedzic-a-book-of-unanswered-questions.json) |
