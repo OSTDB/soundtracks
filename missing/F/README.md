@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Cat | 233516 | [233516-feed-the-cat.json](./233516-feed-the-cat.json) |
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
+| Feed the Giants | 403207 | [403207-feed-the-giants.json](./403207-feed-the-giants.json) |
 | Feed the Pets | 109717 | [109717-feed-the-pets.json](./109717-feed-the-pets.json) |
 | Feed the Pets: Fall Animals | 192373 | [192373-feed-the-pets-fall-animals.json](./192373-feed-the-pets-fall-animals.json) |
 | Feed the Pig | 75522 | [75522-feed-the-pig.json](./75522-feed-the-pig.json) |
