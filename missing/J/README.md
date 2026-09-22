@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpfox: Always Running | 278547 | [278547-jumpfox-always-running.json](./278547-jumpfox-always-running.json) |
 | Jumpgate Evolution | 94708 | [94708-jumpgate-evolution.json](./94708-jumpgate-evolution.json) |
 | Jumpgate: The Reconstruction Initiative | 765 | [765-jumpgate-the-reconstruction-initiative.json](./765-jumpgate-the-reconstruction-initiative.json) |
+| Jumpgrid | 111420 | [111420-jumpgrid.json](./111420-jumpgrid.json) |
 | JumpHead: Battle4Fun! | 108291 | [108291-jumphead-battle4fun.json](./108291-jumphead-battle4fun.json) |
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
 | Jumphobia XL | 57047 | [57047-jumphobia-xl.json](./57047-jumphobia-xl.json) |
