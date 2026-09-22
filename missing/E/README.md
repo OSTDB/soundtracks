@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
 | Eggomania | 22765 | [22765-eggomania.json](./22765-eggomania.json) |
+| Eggoria | 118367 | [118367-eggoria.json](./118367-eggoria.json) |
 | Eggplant | 338180 | [338180-eggplant.json](./338180-eggplant.json) |
 | Eggrolls Shoot | 379881 | [379881-eggrolls-shoot.json](./379881-eggrolls-shoot.json) |
 | Eggs of Steel: Charlie's Eggcellent Adventure | 68023 | [68023-eggs-of-steel-charlies-eggcellent-adventure.json](./68023-eggs-of-steel-charlies-eggcellent-adventure.json) |
@@ -792,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator...to the Moon!: Turbo Champion's Edition | 115468 | [115468-elevator-to-the-moon-turbo-champions-edition.json](./115468-elevator-to-the-moon-turbo-champions-edition.json) |
 | Elevatrix | 316408 | [316408-elevatrix.json](./316408-elevatrix.json) |
 | Eleven Beat World Tournament | 299780 | [299780-eleven-beat-world-tournament.json](./299780-eleven-beat-world-tournament.json) |
+| Eleven Eleven | 118433 | [118433-eleven-eleven.json](./118433-eleven-eleven.json) |
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
 | Eleventh: Unsacred | 255165 | [255165-eleventh-unsacred.json](./255165-eleventh-unsacred.json) |
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
@@ -1789,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Island | 290915 | [290915-escape-island.json](./290915-escape-island.json) |
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Kids | 39867 | [39867-escape-kids.json](./39867-escape-kids.json) |
+| Escape Lala 2 | 118370 | [118370-escape-lala-2.json](./118370-escape-lala-2.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
 | Escape Memoirs: Mini Stories - Bunker Scenario | 235840 | [235840-escape-memoirs-mini-stories-bunker-scenario.json](./235840-escape-memoirs-mini-stories-bunker-scenario.json) |
 | Escape Memoirs: Questionable Side Stories | 247615 | [247615-escape-memoirs-questionable-side-stories.json](./247615-escape-memoirs-questionable-side-stories.json) |
@@ -1935,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
 | ESport Manager | 81150 | [81150-esport-manager.json](./81150-esport-manager.json) |
 | Esports Heroes | 259639 | [259639-esports-heroes.json](./259639-esports-heroes.json) |
+| Esports Life Tycoon | 118522 | [118522-esports-life-tycoon.json](./118522-esports-life-tycoon.json) |
 | Esports Saga | 95836 | [95836-esports-saga.json](./95836-esports-saga.json) |
 | ESports Simulator | 309522 | [309522-esports-simulator.json](./309522-esports-simulator.json) |
 | Esports Team Manager | 356710 | [356710-esports-team-manager.json](./356710-esports-team-manager.json) |
