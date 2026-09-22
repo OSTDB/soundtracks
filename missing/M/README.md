@@ -3345,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mewseum: Film Festival | 391165 | [391165-mewseum-film-festival.json](./391165-mewseum-film-festival.json) |
 | Mewts | 388949 | [388949-mewts.json](./388949-mewts.json) |
 | Mexiball | 208009 | [208009-mexiball.json](./208009-mexiball.json) |
+| Mexican Ninja | 347240 | [347240-mexican-ninja.json](./347240-mexican-ninja.json) |
 | Mexico 1921: A Deep Slumber | 211921 | [211921-mexico-1921-a-deep-slumber.json](./211921-mexico-1921-a-deep-slumber.json) |
 | Meyni | 299128 | [299128-meyni.json](./299128-meyni.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
@@ -4608,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
 | MLB The Show 21 | 143260 | [143260-mlb-the-show-21.json](./143260-mlb-the-show-21.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
+| MLB The Show 25 | 329844 | [329844-mlb-the-show-25.json](./329844-mlb-the-show-25.json) |
 | MLB The Show 26: Digital Deluxe Edition | 390533 | [390533-mlb-the-show-26-digital-deluxe-edition.json](./390533-mlb-the-show-26-digital-deluxe-edition.json) |
 | MLB.com Franchise MVP | 61355 | [61355-mlb-com-franchise-mvp.json](./61355-mlb-com-franchise-mvp.json) |
 | MLB.com Home Run Derby 14 | 61357 | [61357-mlb-com-home-run-derby-14.json](./61357-mlb-com-home-run-derby-14.json) |
@@ -5083,6 +5085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Dunk | 130333 | [130333-monster-dunk.json](./130333-monster-dunk.json) |
 | Monster Eggs | 69197 | [69197-monster-eggs.json](./69197-monster-eggs.json) |
 | Monster Elevator | 319188 | [319188-monster-elevator.json](./319188-monster-elevator.json) |
+| Monster Energy Supercross 25: The Official Video Game | 336380 | [336380-monster-energy-supercross-25-the-official-video-game.json](./336380-monster-energy-supercross-25-the-official-video-game.json) |
 | Monster Energy Supercross 5: The Official Videogame - Legends Pack Vol. 2 | 199575 | [199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json](./199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json) |
 | Monster Energy Supercross: The Official Videogame - Compound | 170941 | [170941-monster-energy-supercross-the-official-videogame-compound.json](./170941-monster-energy-supercross-the-official-videogame-compound.json) |
 | Monster Energy Supercross: The Official Videogame - Monster Energy Cup | 170946 | [170946-monster-energy-supercross-the-official-videogame-monster-energy-cup.json](./170946-monster-energy-supercross-the-official-videogame-monster-energy-cup.json) |
@@ -6189,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
 | Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
 | Mukti | 106382 | [106382-mukti.json](./106382-mukti.json) |
+| Mulan 2125 | 372883 | [372883-mulan-2125.json](./372883-mulan-2125.json) |
 | MULE Returns | 91151 | [91151-mule-returns.json](./91151-mule-returns.json) |
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
 | Mullet Madjack | 252445 | [252445-mullet-madjack.json](./252445-mullet-madjack.json) |
