@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wavecrashers | 391751 | [391751-wavecrashers.json](./391751-wavecrashers.json) |
 | Waven: Drhell's Bells Pack | 289458 | [289458-waven-drhells-bells-pack.json](./289458-waven-drhells-bells-pack.json) |
 | WavePlayer | 190161 | [190161-waveplayer.json](./190161-waveplayer.json) |
+| Waves | 13547 | [13547-waves.json](./13547-waves.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
 | Waves of Chess | 383496 | [383496-waves-of-chess.json](./383496-waves-of-chess.json) |
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
@@ -1367,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Fuck is Richard? | 62777 | [62777-where-the-fuck-is-richard.json](./62777-where-the-fuck-is-richard.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
 | Where They Wait | 342081 | [342081-where-they-wait.json](./342081-where-they-wait.json) |
+| Where Time Stood Still | 12489 | [12489-where-time-stood-still.json](./12489-where-time-stood-still.json) |
 | Where To? | 177937 | [177937-where-to.json](./177937-where-to.json) |
 | Where's an Egg? | 135870 | [135870-wheres-an-egg.json](./135870-wheres-an-egg.json) |
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
@@ -2179,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Perfect Pack | 136846 | [136846-wizardry-perfect-pack.json](./136846-wizardry-perfect-pack.json) |
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
 | Wizardry Twin Pack | 125955 | [125955-wizardry-twin-pack.json](./125955-wizardry-twin-pack.json) |
+| Wizardry V: Heart of the Maelstrom | 10495 | [10495-wizardry-v-heart-of-the-maelstrom.json](./10495-wizardry-v-heart-of-the-maelstrom.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
