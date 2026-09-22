@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
 | MakerKing | 153379 | [153379-makerking.json](./153379-makerking.json) |
 | Makeruna! Makendou Z | 64091 | [64091-makeruna-makendou-z.json](./64091-makeruna-makendou-z.json) |
+| MakeThatMoney | 90473 | [90473-makethatmoney.json](./90473-makethatmoney.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
 | Makibishi Comic | 237501 | [237501-makibishi-comic.json](./237501-makibishi-comic.json) |
 | Makin Biscuits | 178516 | [178516-makin-biscuits.json](./178516-makin-biscuits.json) |
