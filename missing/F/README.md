@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
 | Falrika the Alchemist | 299292 | [299292-falrika-the-alchemist.json](./299292-falrika-the-alchemist.json) |
 | False Calamity | 211826 | [211826-false-calamity.json](./211826-false-calamity.json) |
+| False Flag | 401805 | [401805-false-flag.json](./401805-false-flag.json) |
 | False Front | 97920 | [97920-false-front.json](./97920-false-front.json) |
 | False Hero | 275734 | [275734-false-hero.json](./275734-false-hero.json) |
 | False Love: Ghost or Not? | 414444 | [414444-false-love-ghost-or-not.json](./414444-false-love-ghost-or-not.json) |
@@ -1651,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Fille Fatale Compassion | 388211 | [388211-fille-fatale-compassion.json](./388211-fille-fatale-compassion.json) |
 | FillGood | 415266 | [415266-fillgood.json](./415266-fillgood.json) |
+| Filluminate | 401768 | [401768-filluminate.json](./401768-filluminate.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
 | Film Fatale: Lights, Camera, Madness! | 125383 | [125383-film-fatale-lights-camera-madness.json](./125383-film-fatale-lights-camera-madness.json) |
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
@@ -3668,6 +3670,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: VIP | 387371 | [387371-forza-horizon-5-vip.json](./387371-forza-horizon-5-vip.json) |
 | Forza Horizon 5: Welcome Pack | 387369 | [387369-forza-horizon-5-welcome-pack.json](./387369-forza-horizon-5-welcome-pack.json) |
 | Forza Horizon 6 1998 Nissan Skyline Gt-r 40th Anniversary | 409011 | [409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json](./409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json) |
+| Forza Horizon 6: Time Attack Car Pack | 401832 | [401832-forza-horizon-6-time-attack-car-pack.json](./401832-forza-horizon-6-time-attack-car-pack.json) |
+| Forza Horizon 6: Treasure Map | 401830 | [401830-forza-horizon-6-treasure-map.json](./401830-forza-horizon-6-treasure-map.json) |
+| Forza Horizon 6: VIP Membership | 401831 | [401831-forza-horizon-6-vip-membership.json](./401831-forza-horizon-6-vip-membership.json) |
+| Forza Horizon 6: Welcome Pack | 401829 | [401829-forza-horizon-6-welcome-pack.json](./401829-forza-horizon-6-welcome-pack.json) |
 | Forza Horizon: Limited Collector's Edition | 41594 | [41594-forza-horizon-limited-collectors-edition.json](./41594-forza-horizon-limited-collectors-edition.json) |
 | Forza Motorsport | 3073 | [3073-forza-motorsport.json](./3073-forza-motorsport.json) |
 | Forza Motorsport 2018 Mercedes-AMG GT3 | 278521 | [278521-forza-motorsport-2018-mercedes-amg-gt3.json](./278521-forza-motorsport-2018-mercedes-amg-gt3.json) |
