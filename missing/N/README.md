@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
 | Need for Speed: ProStreet | 248125 | [248125-need-for-speed-prostreet.json](./248125-need-for-speed-prostreet.json) |
+| Need for Speed: ProStreet | 248126 | [248126-need-for-speed-prostreet.json](./248126-need-for-speed-prostreet.json) |
 | Need for Speed: Shift | 102 | [102-need-for-speed-shift.json](./102-need-for-speed-shift.json) |
 | Need for Speed: Shift | 248136 | [248136-need-for-speed-shift.json](./248136-need-for-speed-shift.json) |
 | Need for Speed: Shift 2 Unleashed | 248135 | [248135-need-for-speed-shift-2-unleashed.json](./248135-need-for-speed-shift-2-unleashed.json) |
@@ -1471,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Dreams | 147299 | [147299-night-dreams.json](./147299-night-dreams.json) |
 | Night Dreams | 207374 | [207374-night-dreams.json](./207374-night-dreams.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
+| Night Driver | 260733 | [260733-night-driver.json](./260733-night-driver.json) |
 | Night Driver | 311116 | [311116-night-driver.json](./311116-night-driver.json) |
 | Night Drone | 373654 | [373654-night-drone.json](./373654-night-drone.json) |
 | Night Escaper | 201266 | [201266-night-escaper.json](./201266-night-escaper.json) |
