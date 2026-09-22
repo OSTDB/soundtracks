@@ -1808,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konductra | 20619 | [20619-konductra.json](./20619-konductra.json) |
 | Koneko Club | 385748 | [385748-koneko-club.json](./385748-koneko-club.json) |
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
+| Kong Horror | 395848 | [395848-kong-horror.json](./395848-kong-horror.json) |
 | Kong Studios | 368009 | [368009-kong-studios.json](./368009-kong-studios.json) |
 | Kong: King of Atlantis | 49334 | [49334-kong-king-of-atlantis.json](./49334-kong-king-of-atlantis.json) |
 | Kong: Survivor Instinct | 314136 | [314136-kong-survivor-instinct.json](./314136-kong-survivor-instinct.json) |
