@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oakwood Academy of Spells and Sorcery | 90196 | [90196-oakwood-academy-of-spells-and-sorcery.json](./90196-oakwood-academy-of-spells-and-sorcery.json) |
 | OASE: Other Age Second Encounter | 34478 | [34478-oase-other-age-second-encounter.json](./34478-oase-other-age-second-encounter.json) |
 | Oasis | 334662 | [334662-oasis.json](./334662-oasis.json) |
+| Oasis | 821 | [821-oasis.json](./821-oasis.json) |
 | Oasis Games VR Fun Pack | 108862 | [108862-oasis-games-vr-fun-pack.json](./108862-oasis-games-vr-fun-pack.json) |
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
@@ -1939,6 +1940,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlight | 62971 | [62971-overlight.json](./62971-overlight.json) |
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
+| Overlord: Dark Legend | 47 | [47-overlord-dark-legend.json](./47-overlord-dark-legend.json) |
+| Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
 | Overlord's Odyssey | 223979 | [223979-overlords-odyssey.json](./223979-overlords-odyssey.json) |
 | Overlords of Oblivion | 112153 | [112153-overlords-of-oblivion.json](./112153-overlords-of-oblivion.json) |
 | Overly Qualified Ms. Mary | 219061 | [219061-overly-qualified-ms-mary.json](./219061-overly-qualified-ms-mary.json) |
