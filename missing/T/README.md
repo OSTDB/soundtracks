@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
 | Tales of Spark | 225103 | [225103-tales-of-spark.json](./225103-tales-of-spark.json) |
 | Tales of Survival Horror | 379431 | [379431-tales-of-survival-horror.json](./379431-tales-of-survival-horror.json) |
+| Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of Terror: House on the Hill - Collector's Edition | 74351 | [74351-tales-of-terror-house-on-the-hill-collectors-edition.json](./74351-tales-of-terror-house-on-the-hill-collectors-edition.json) |
@@ -1955,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Hori | 392285 | [392285-the-adventures-of-hori.json](./392285-the-adventures-of-hori.json) |
 | The Adventures of Hyperman | 71556 | [71556-the-adventures-of-hyperman.json](./71556-the-adventures-of-hyperman.json) |
 | The Adventures of Jerry Mouse: The Rescue of Nibbles | 233613 | [233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json](./233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json) |
+| The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies | 3779 | [3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json](./3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json) |
 | The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
 | The Adventures of Kusoge | 83529 | [83529-the-adventures-of-kusoge.json](./83529-the-adventures-of-kusoge.json) |
 | The Adventures of Liam | 264605 | [264605-the-adventures-of-liam.json](./264605-the-adventures-of-liam.json) |
@@ -2827,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkened Halls | 275701 | [275701-the-darkened-halls.json](./275701-the-darkened-halls.json) |
 | The Darkening: Episode 1 | 262433 | [262433-the-darkening-episode-1.json](./262433-the-darkening-episode-1.json) |
 | The Darkening: Episode 2 | 262434 | [262434-the-darkening-episode-2.json](./262434-the-darkening-episode-2.json) |
+| The Darkest Files | 214233 | [214233-the-darkest-files.json](./214233-the-darkest-files.json) |
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
 | The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
@@ -8152,6 +8155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Slayer | 193956 | [193956-titan-slayer.json](./193956-titan-slayer.json) |
 | Titan Slayer II | 111078 | [111078-titan-slayer-ii.json](./111078-titan-slayer-ii.json) |
 | Titan Souls: Digital Special Edition | 53807 | [53807-titan-souls-digital-special-edition.json](./53807-titan-souls-digital-special-edition.json) |
+| Titan Station | 217319 | [217319-titan-station.json](./217319-titan-station.json) |
 | Titan Survival | 267676 | [267676-titan-survival.json](./267676-titan-survival.json) |
 | Titan Tank Rumble | 85442 | [85442-titan-tank-rumble.json](./85442-titan-tank-rumble.json) |
 | Titan-3D | 53806 | [53806-titan-3d.json](./53806-titan-3d.json) |
@@ -9609,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2020: Amtrak SW1000R Loco | 162255 | [162255-train-sim-world-2020-amtrak-sw1000r-loco.json](./162255-train-sim-world-2020-amtrak-sw1000r-loco.json) |
 | Train Sim World 2020: Caltrain MP15DC Diesel Switcher Loco | 161736 | [161736-train-sim-world-2020-caltrain-mp15dc-diesel-switcher-loco.json](./161736-train-sim-world-2020-caltrain-mp15dc-diesel-switcher-loco.json) |
 | Train Sim World 2020: Caltrain MP36PH-3C ‘Baby Bullet’ Loco | 161733 | [161733-train-sim-world-2020-caltrain-mp36ph-3c-baby-bullet-loco.json](./161733-train-sim-world-2020-caltrain-mp36ph-3c-baby-bullet-loco.json) |
+| Train Sim World 3 | 213113 | [213113-train-sim-world-3.json](./213113-train-sim-world-3.json) |
 | Train Sim World 3: Amtrak's Acela | 237944 | [237944-train-sim-world-3-amtraks-acela.json](./237944-train-sim-world-3-amtraks-acela.json) |
 | Train Sim World 3: Birmingham Standard Edition | 231364 | [231364-train-sim-world-3-birmingham-standard-edition.json](./231364-train-sim-world-3-birmingham-standard-edition.json) |
 | Train Sim World 3: Dispolok BR 182 Add-On | 220712 | [220712-train-sim-world-3-dispolok-br-182-add-on.json](./220712-train-sim-world-3-dispolok-br-182-add-on.json) |
