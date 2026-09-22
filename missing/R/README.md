@@ -1766,8 +1766,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Racers | 84830 | [84830-remote-racers.json](./84830-remote-racers.json) |
 | Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
 | Remothered: Broken Porcelain | 117309 | [117309-remothered-broken-porcelain.json](./117309-remothered-broken-porcelain.json) |
+| Remothered: Broken Porcelain Remastered | 409008 | [409008-remothered-broken-porcelain-remastered.json](./409008-remothered-broken-porcelain-remastered.json) |
 | Remothered: Tormented Fathers | 28548 | [28548-remothered-tormented-fathers.json](./28548-remothered-tormented-fathers.json) |
 | Remothered: Tormented Fathers & Broken Porcelain - Double Pack | 139977 | [139977-remothered-tormented-fathers-and-broken-porcelain-double-pack.json](./139977-remothered-tormented-fathers-and-broken-porcelain-double-pack.json) |
+| Remothered: Tormented Fathers Remastered | 409009 | [409009-remothered-tormented-fathers-remastered.json](./409009-remothered-tormented-fathers-remastered.json) |
 | ReMove | 287773 | [287773-remove.json](./287773-remove.json) |
 | Removed | 128631 | [128631-removed.json](./128631-removed.json) |
 | Remute: Electronic Deathstyle | 321794 | [321794-remute-electronic-deathstyle.json](./321794-remute-electronic-deathstyle.json) |
@@ -3061,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robits | 183968 | [183968-robits.json](./183968-robits.json) |
 | Roblox 64 | 245382 | [245382-roblox-64.json](./245382-roblox-64.json) |
+| Roblox: Mae Plunderjack | 409070 | [409070-roblox-mae-plunderjack.json](./409070-roblox-mae-plunderjack.json) |
 | Robman | 178614 | [178614-robman.json](./178614-robman.json) |
 | Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
@@ -3222,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band 4: Who Am I? (What's My Name?) | 371863 | [371863-rock-band-4-who-am-i-whats-my-name.json](./371863-rock-band-4-who-am-i-whats-my-name.json) |
 | Rock Band Blitz | 2696 | [2696-rock-band-blitz.json](./2696-rock-band-blitz.json) |
 | Rock Band Sessions | 250663 | [250663-rock-band-sessions.json](./250663-rock-band-sessions.json) |
+| Rock Band Simulator | 409076 | [409076-rock-band-simulator.json](./409076-rock-band-simulator.json) |
 | Rock Band Unplugged | 2721 | [2721-rock-band-unplugged.json](./2721-rock-band-unplugged.json) |
 | Rock Band VR | 26988 | [26988-rock-band-vr.json](./26988-rock-band-vr.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
