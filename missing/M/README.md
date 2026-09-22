@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maji de Watashi ni Koishinasai! A-4 | 112294 | [112294-maji-de-watashi-ni-koishinasai-a-4.json](./112294-maji-de-watashi-ni-koishinasai-a-4.json) |
 | Maji de Watashi ni Koishinasai! A-5 | 112297 | [112297-maji-de-watashi-ni-koishinasai-a-5.json](./112297-maji-de-watashi-ni-koishinasai-a-5.json) |
 | MaJiang | 160250 | [160250-majiang.json](./160250-majiang.json) |
+| Majikoi! Love Me Seriously! | 65611 | [65611-majikoi-love-me-seriously.json](./65611-majikoi-love-me-seriously.json) |
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
 | Majin Tensei: Blind Thinker II | 129140 | [129140-majin-tensei-blind-thinker-ii.json](./129140-majin-tensei-blind-thinker-ii.json) |
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
@@ -787,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
 | Majou Densetsu II: Daimashikyou Galious | 48866 | [48866-majou-densetsu-ii-daimashikyou-galious.json](./48866-majou-densetsu-ii-daimashikyou-galious.json) |
 | Majulah | 367965 | [367965-majulah.json](./367965-majulah.json) |
+| Majuu-ou: King of Demons | 38112 | [38112-majuu-ou-king-of-demons.json](./38112-majuu-ou-king-of-demons.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
@@ -2037,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
 | Mayday | 38577 | [38577-mayday.json](./38577-mayday.json) |
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
+| Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
 | Mayhem | 7066 | [7066-mayhem.json](./7066-mayhem.json) |
@@ -2131,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
+| Mazin Saga: Mutant Fighter | 36947 | [36947-mazin-saga-mutant-fighter.json](./36947-mazin-saga-mutant-fighter.json) |
 | Mazinger Z | 153841 | [153841-mazinger-z.json](./153841-mazinger-z.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
@@ -3451,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Children's Miracle Network Games Bundle | 7069 | [7069-microsoft-childrens-miracle-network-games-bundle.json](./7069-microsoft-childrens-miracle-network-games-bundle.json) |
 | Microsoft Combat Flight Simulator 3: Battle for Europe | 23768 | [23768-microsoft-combat-flight-simulator-3-battle-for-europe.json](./23768-microsoft-combat-flight-simulator-3-battle-for-europe.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
+| Microsoft Combat Flight Simulator: WWII Europe Series | 36536 | [36536-microsoft-combat-flight-simulator-wwii-europe-series.json](./36536-microsoft-combat-flight-simulator-wwii-europe-series.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series - Behind Enemy Lines | 36537 | [36537-microsoft-combat-flight-simulator-wwii-europe-series-behind-enemy-lines.json](./36537-microsoft-combat-flight-simulator-wwii-europe-series-behind-enemy-lines.json) |
 | Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
 | Microsoft Flight Simulator | 119295 | [119295-microsoft-flight-simulator.json](./119295-microsoft-flight-simulator.json) |
@@ -4922,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
+| Money Puzzle Exchanger | 37280 | [37280-money-puzzle-exchanger.json](./37280-money-puzzle-exchanger.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
@@ -6386,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
+| Musya: The Classic Japanese Tale of Horror | 36740 | [36740-musya-the-classic-japanese-tale-of-horror.json](./36740-musya-the-classic-japanese-tale-of-horror.json) |
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
 | Mutagenic | 210690 | [210690-mutagenic.json](./210690-mutagenic.json) |
 | Mutant | 79916 | [79916-mutant.json](./79916-mutant.json) |
