@@ -2706,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Him | 258482 | [258482-him.json](./258482-him.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
 | Him & I | 123545 | [123545-him-and-i.json](./123545-him-and-i.json) |
+| HimaNatsu: Of Churches, Sunflowers, and Long Summers | 410423 | [410423-himanatsu-of-churches-sunflowers-and-long-summers.json](./410423-himanatsu-of-churches-sunflowers-and-long-summers.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
 | Himawari to Koi no Kioku | 194574 | [194574-himawari-to-koi-no-kioku.json](./194574-himawari-to-koi-no-kioku.json) |
