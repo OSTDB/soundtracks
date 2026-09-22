@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perypetie Boba | 232023 | [232023-perypetie-boba.json](./232023-perypetie-boba.json) |
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
 | Pesadelo: O Início | 187383 | [187383-pesadelo-o-inicio.json](./187383-pesadelo-o-inicio.json) |
+| Pesadelo: Regressão | 90611 | [90611-pesadelo-regressao.json](./90611-pesadelo-regressao.json) |
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
@@ -1769,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
+| Phantasma | 90642 | [90642-phantasma.json](./90642-phantasma.json) |
 | Phantasma Hotel | 407340 | [407340-phantasma-hotel.json](./407340-phantasma-hotel.json) |
 | Phantasma Magic: Deluxe | 28832 | [28832-phantasma-magic-deluxe.json](./28832-phantasma-magic-deluxe.json) |
 | Phantasmagoria | 221 | [221-phantasmagoria.json](./221-phantasmagoria.json) |
@@ -2452,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink World | 388950 | [388950-pink-world.json](./388950-pink-world.json) |
 | Pink World 2 | 388952 | [388952-pink-world-2.json](./388952-pink-world-2.json) |
 | Pink World 3 | 388953 | [388953-pink-world-3.json](./388953-pink-world-3.json) |
+| Pinkalicious Party | 89767 | [89767-pinkalicious-party.json](./89767-pinkalicious-party.json) |
 | Pinky and the Brain: The Master Plan | 49360 | [49360-pinky-and-the-brain-the-master-plan.json](./49360-pinky-and-the-brain-the-master-plan.json) |
 | Pinky Promise Manifesto | 176440 | [176440-pinky-promise-manifesto.json](./176440-pinky-promise-manifesto.json) |
 | Pinky Xmas | 340207 | [340207-pinky-xmas.json](./340207-pinky-xmas.json) |
