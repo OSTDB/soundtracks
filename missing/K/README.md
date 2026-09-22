@@ -1636,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Valour | 83926 | [83926-knights-of-valour.json](./83926-knights-of-valour.json) |
 | Knights of Valour 3 | 112150 | [112150-knights-of-valour-3.json](./112150-knights-of-valour-3.json) |
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
+| Knights Together | 393812 | [393812-knights-together.json](./393812-knights-together.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
 | Knights: Spiral Islands | 66098 | [66098-knights-spiral-islands.json](./66098-knights-spiral-islands.json) |
