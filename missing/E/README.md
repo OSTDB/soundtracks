@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Warrior | 13634 | [13634-elven-warrior.json](./13634-elven-warrior.json) |
 | ElvenEscape | 203945 | [203945-elvenescape.json](./203945-elvenescape.json) |
 | Elves | 295940 | [295940-elves.json](./295940-elves.json) |
+| Elves Adventure | 31972 | [31972-elves-adventure.json](./31972-elves-adventure.json) |
 | Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
 | Elves vs. Goblins Mahjongg World | 275737 | [275737-elves-vs-goblins-mahjongg-world.json](./275737-elves-vs-goblins-mahjongg-world.json) |
