@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inherit the Earth: Quest for the Orb | 16726 | [16726-inherit-the-earth-quest-for-the-orb.json](./16726-inherit-the-earth-quest-for-the-orb.json) |
 | Inheritance | 365746 | [365746-inheritance.json](./365746-inheritance.json) |
 | Inheritance of Ash | 322793 | [322793-inheritance-of-ash.json](./322793-inheritance-of-ash.json) |
+| Inherited Shadows | 403838 | [403838-inherited-shadows.json](./403838-inherited-shadows.json) |
 | Inhibit | 264688 | [264688-inhibit.json](./264688-inhibit.json) |
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
 | Inindo: Way of the Ninja | 47498 | [47498-inindo-way-of-the-ninja.json](./47498-inindo-way-of-the-ninja.json) |
@@ -1826,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Gloom | 10441 | [10441-into-the-gloom.json](./10441-into-the-gloom.json) |
 | Into the Gorian's Den | 275014 | [275014-into-the-gorians-den.json](./275014-into-the-gorians-den.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
+| Into The Haunted Land | 403833 | [403833-into-the-haunted-land.json](./403833-into-the-haunted-land.json) |
 | Into the Loop | 153843 | [153843-into-the-loop.json](./153843-into-the-loop.json) |
 | Into the M.A.W. | 309857 | [309857-into-the-m-a-w.json](./309857-into-the-m-a-w.json) |
 | Into the Midnight | 159740 | [159740-into-the-midnight.json](./159740-into-the-midnight.json) |
