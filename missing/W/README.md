@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
 | WalkBot | 212915 | [212915-walkbot.json](./212915-walkbot.json) |
 | Walker | 12818 | [12818-walker.json](./12818-walker.json) |
+| Walkerman | 34830 | [34830-walkerman.json](./34830-walkerman.json) |
 | Walking Heavy | 61597 | [61597-walking-heavy.json](./61597-walking-heavy.json) |
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
@@ -488,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War II - Retribution: The Last Stand Tau Commander | 163388 | [163388-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-tau-commander.json](./163388-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-tau-commander.json) |
 | Warhammer 40,000: Dawn of War III - Collector's Edition | 27768 | [27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json](./27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json) |
 | Warhammer 40,000: Dawn of War III - Limited Edition | 27769 | [27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json](./27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json) |
+| Warhammer 40,000: Deathwatch - Enhanced Edition | 34636 | [34636-warhammer-40-000-deathwatch-enhanced-edition.json](./34636-warhammer-40-000-deathwatch-enhanced-edition.json) |
 | Warhammer 40,000: Eternal Crusade - Belial War Pack | 225868 | [225868-warhammer-40-000-eternal-crusade-belial-war-pack.json](./225868-warhammer-40-000-eternal-crusade-belial-war-pack.json) |
 | Warhammer 40,000: Fire Warrior | 9550 | [9550-warhammer-40-000-fire-warrior.json](./9550-warhammer-40-000-fire-warrior.json) |
 | Warhammer 40,000: Freeblade | 34420 | [34420-warhammer-40-000-freeblade.json](./34420-warhammer-40-000-freeblade.json) |
@@ -827,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
 | Wave Machine | 179602 | [179602-wave-machine.json](./179602-wave-machine.json) |
 | Wave Magic VR | 31723 | [31723-wave-magic-vr.json](./31723-wave-magic-vr.json) |
+| Wave Mechanics | 34871 | [34871-wave-mechanics.json](./34871-wave-mechanics.json) |
 | Wave Race 64 | 3629 | [3629-wave-race-64.json](./3629-wave-race-64.json) |
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
@@ -1844,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Angel Challenge | 195253 | [195253-wind-angel-challenge.json](./195253-wind-angel-challenge.json) |
 | Wind Angel III | 195186 | [195186-wind-angel-iii.json](./195186-wind-angel-iii.json) |
 | Wind Breaker: Furyou-tachi no Eiyuutan | 326789 | [326789-wind-breaker-furyou-tachi-no-eiyuutan.json](./326789-wind-breaker-furyou-tachi-no-eiyuutan.json) |
+| Wind Child | 34632 | [34632-wind-child.json](./34632-wind-child.json) |
 | Wind Fantasy Double Cross | 408793 | [408793-wind-fantasy-double-cross.json](./408793-wind-fantasy-double-cross.json) |
 | Wind Fantasy II: Alive | 350516 | [350516-wind-fantasy-ii-alive.json](./350516-wind-fantasy-ii-alive.json) |
 | Wind Force | 116984 | [116984-wind-force.json](./116984-wind-force.json) |
