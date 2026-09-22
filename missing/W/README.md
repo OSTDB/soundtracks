@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
 | Warcraft II: Beyond the Dark Portal | 131 | [131-warcraft-ii-beyond-the-dark-portal.json](./131-warcraft-ii-beyond-the-dark-portal.json) |
+| Warcraft III: Reforged - Forsaken Kingdom | 417648 | [417648-warcraft-iii-reforged-forsaken-kingdom.json](./417648-warcraft-iii-reforged-forsaken-kingdom.json) |
 | Warcraft III: Reforged - Spoils of War Edition | 111652 | [111652-warcraft-iii-reforged-spoils-of-war-edition.json](./111652-warcraft-iii-reforged-spoils-of-war-edition.json) |
 | Warcube | 31973 | [31973-warcube.json](./31973-warcube.json) |
 | Ward 13 | 399722 | [399722-ward-13.json](./399722-ward-13.json) |
@@ -2788,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Battle for Azeroth | 75380 | [75380-world-of-warcraft-battle-for-azeroth.json](./75380-world-of-warcraft-battle-for-azeroth.json) |
 | World of Warcraft: Cataclysm - Collector's Edition | 136266 | [136266-world-of-warcraft-cataclysm-collectors-edition.json](./136266-world-of-warcraft-cataclysm-collectors-edition.json) |
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
+| World of Warcraft: Forever | 417650 | [417650-world-of-warcraft-forever.json](./417650-world-of-warcraft-forever.json) |
 | World of Warcraft: Midnight - Curse of Ula'tek | 411703 | [411703-world-of-warcraft-midnight-curse-of-ulatek.json](./411703-world-of-warcraft-midnight-curse-of-ulatek.json) |
 | World of Warcraft: Mists of Pandaria | 1332 | [1332-world-of-warcraft-mists-of-pandaria.json](./1332-world-of-warcraft-mists-of-pandaria.json) |
 | World of Warcraft: Shadowlands - Chains of Domination | 363919 | [363919-world-of-warcraft-shadowlands-chains-of-domination.json](./363919-world-of-warcraft-shadowlands-chains-of-domination.json) |
