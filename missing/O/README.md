@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Deck Galaxy | 257458 | [257458-one-deck-galaxy.json](./257458-one-deck-galaxy.json) |
 | One Dimension | 89984 | [89984-one-dimension.json](./89984-one-dimension.json) |
 | One Direction | 263602 | [263602-one-direction.json](./263602-one-direction.json) |
+| One Dog Story | 28327 | [28327-one-dog-story.json](./28327-one-dog-story.json) |
 | One Dog's Stay | 326272 | [326272-one-dogs-stay.json](./326272-one-dogs-stay.json) |
 | One Dollar Empire | 402252 | [402252-one-dollar-empire.json](./402252-one-dollar-empire.json) |
 | One Dreamy Night | 312587 | [312587-one-dreamy-night.json](./312587-one-dreamy-night.json) |
