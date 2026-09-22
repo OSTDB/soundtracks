@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Houston Character Pack | 357269 | [357269-payday-3-houston-character-pack.json](./357269-payday-3-houston-character-pack.json) |
 | Payday 3: Jacket Character Pack | 367398 | [367398-payday-3-jacket-character-pack.json](./367398-payday-3-jacket-character-pack.json) |
 | Payday 3: Silver Edition | 266897 | [266897-payday-3-silver-edition.json](./266897-payday-3-silver-edition.json) |
+| Payday: Aces High | 395847 | [395847-payday-aces-high.json](./395847-payday-aces-high.json) |
 | Payday: Crime War | 98080 | [98080-payday-crime-war.json](./98080-payday-crime-war.json) |
 | Payday: Don't Be a Hero | 329145 | [329145-payday-dont-be-a-hero.json](./329145-payday-dont-be-a-hero.json) |
 | Payday: The Heist - No Mercy | 240910 | [240910-payday-the-heist-no-mercy.json](./240910-payday-the-heist-no-mercy.json) |
