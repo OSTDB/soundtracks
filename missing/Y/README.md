@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! GX Tag Force 2 | 21945 | [21945-yu-gi-oh-gx-tag-force-2.json](./21945-yu-gi-oh-gx-tag-force-2.json) |
 | Yu-Gi-Oh! Master Duel | 159298 | [159298-yu-gi-oh-master-duel.json](./159298-yu-gi-oh-master-duel.json) |
 | Yu-Gi-Oh! Online | 51279 | [51279-yu-gi-oh-online.json](./51279-yu-gi-oh-online.json) |
+| Yu-Gi-Oh! Online: Duel Evolution | 78165 | [78165-yu-gi-oh-online-duel-evolution.json](./78165-yu-gi-oh-online-duel-evolution.json) |
 | Yu-Gi-Oh! Power of Chaos: Joey the Passion | 50833 | [50833-yu-gi-oh-power-of-chaos-joey-the-passion.json](./50833-yu-gi-oh-power-of-chaos-joey-the-passion.json) |
 | Yu-Gi-Oh! Power of Chaos: Yugi the Destiny | 50834 | [50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json](./50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale | 159242 | [159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json](./159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json) |
