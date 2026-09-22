@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp: Camping Cook-Off! | 402936 | [402936-laid-back-camp-camping-cook-off.json](./402936-laid-back-camp-camping-cook-off.json) |
 | Laid-Back Camp: Have a nice day! | 146334 | [146334-laid-back-camp-have-a-nice-day.json](./146334-laid-back-camp-have-a-nice-day.json) |
 | Laid-Back Camp: Have a nice day! - Limited Edition | 146335 | [146335-laid-back-camp-have-a-nice-day-limited-edition.json](./146335-laid-back-camp-have-a-nice-day-limited-edition.json) |
+| Laid-Back Camp: Puzzle Camp | 392453 | [392453-laid-back-camp-puzzle-camp.json](./392453-laid-back-camp-puzzle-camp.json) |
 | Laid-Back Camp: Virtual - Fumoto Campsite | 147813 | [147813-laid-back-camp-virtual-fumoto-campsite.json](./147813-laid-back-camp-virtual-fumoto-campsite.json) |
 | Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
 | Laika 2.0 | 57037 | [57037-laika-2-0.json](./57037-laika-2-0.json) |
@@ -699,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
+| Le Mirage Mystique | 392423 | [392423-le-mirage-mystique.json](./392423-le-mirage-mystique.json) |
 | Le Miroir d'Ozivior | 413609 | [413609-le-miroir-dozivior.json](./413609-le-miroir-dozivior.json) |
 | Le Mystère de Kikekankoi | 93005 | [93005-le-mystere-de-kikekankoi.json](./93005-le-mystere-de-kikekankoi.json) |
 | Le Mystère de la fleur de verre | 413039 | [413039-le-mystere-de-la-fleur-de-verre.json](./413039-le-mystere-de-la-fleur-de-verre.json) |
@@ -2453,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
 | Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
 | Logic Missile | 33382 | [33382-logic-missile.json](./33382-logic-missile.json) |
+| Logic Path | 392451 | [392451-logic-path.json](./392451-logic-path.json) |
 | Logic Pic | 212273 | [212273-logic-pic.json](./212273-logic-pic.json) |
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
@@ -2641,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
+| Loot Survivor | 392485 | [392485-loot-survivor.json](./392485-loot-survivor.json) |
 | Loot Survivors | 413098 | [413098-loot-survivors.json](./413098-loot-survivors.json) |
 | Loot Train | 166154 | [166154-loot-train.json](./166154-loot-train.json) |
 | Loot Tycoon | 379479 | [379479-loot-tycoon.json](./379479-loot-tycoon.json) |
