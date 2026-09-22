@@ -4514,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contorted | 274578 | [274578-contorted.json](./274578-contorted.json) |
 | Contra | 186226 | [186226-contra.json](./186226-contra.json) |
 | Contra 4 | 9545 | [9545-contra-4.json](./9545-contra-4.json) |
+| Contra Advance: The Alien Wars EX | 49158 | [49158-contra-advance-the-alien-wars-ex.json](./49158-contra-advance-the-alien-wars-ex.json) |
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
 | Contra Run & Gun Bundle | 317236 | [317236-contra-run-and-gun-bundle.json](./317236-contra-run-and-gun-bundle.json) |
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
@@ -5217,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrapShoot | 319239 | [319239-crapshoot.json](./319239-crapshoot.json) |
 | Crash 'n Burn | 95438 | [95438-crash-n-burn.json](./95438-crash-n-burn.json) |
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
+| Crash 'n' the Boys: Street Challenge | 48291 | [48291-crash-n-the-boys-street-challenge.json](./48291-crash-n-the-boys-street-challenge.json) |
 | Crash & Bump | 212807 | [212807-crash-and-bump.json](./212807-crash-and-bump.json) |
 | Crash & Spyro Super Pack Volume 3 | 68345 | [68345-crash-and-spyro-super-pack-volume-3.json](./68345-crash-and-spyro-super-pack-volume-3.json) |
 | Crash & Spyro Superpack I Crash Bandicoot: The Huge Adventure / Spyro: Season of Ice | 210236 | [210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json](./210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json) |
@@ -6612,6 +6614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Tiger | 3431 | [3431-cyber-tiger.json](./3431-cyber-tiger.json) |
 | Cyber Tile | 297082 | [297082-cyber-tile.json](./297082-cyber-tile.json) |
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
+| Cyber Troopers Virtual-On | 46775 | [46775-cyber-troopers-virtual-on.json](./46775-cyber-troopers-virtual-on.json) |
 | Cyber Troopers Virtual-On Marz | 19252 | [19252-cyber-troopers-virtual-on-marz.json](./19252-cyber-troopers-virtual-on-marz.json) |
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
