@@ -4405,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo Merc | 31821 | [31821-congo-merc.json](./31821-congo-merc.json) |
 | Congo The Movie: The Lost City of Zinj | 45516 | [45516-congo-the-movie-the-lost-city-of-zinj.json](./45516-congo-the-movie-the-lost-city-of-zinj.json) |
 | Congo the Movie: The Secret of Zinj | 38289 | [38289-congo-the-movie-the-secret-of-zinj.json](./38289-congo-the-movie-the-secret-of-zinj.json) |
+| Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
 | Conker's High Rule Tail | 42207 | [42207-conkers-high-rule-tail.json](./42207-conkers-high-rule-tail.json) |
 | Conker's Other Bad Fur Day | 77970 | [77970-conkers-other-bad-fur-day.json](./77970-conkers-other-bad-fur-day.json) |
@@ -5078,6 +5079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covenanted | 157155 | [157155-covenanted.json](./157155-covenanted.json) |
 | Cover Fire | 38954 | [38954-cover-fire.json](./38954-cover-fire.json) |
 | Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
+| Cover Orange | 90090 | [90090-cover-orange.json](./90090-cover-orange.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert | 112736 | [112736-covert.json](./112736-covert.json) |
@@ -5411,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Critters: Combat Cats | 122198 | [122198-crazy-critters-combat-cats.json](./122198-crazy-critters-combat-cats.json) |
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
+| Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
 | Crazy Eights | 70353 | [70353-crazy-eights.json](./70353-crazy-eights.json) |
 | Crazy Estate | 200042 | [200042-crazy-estate.json](./200042-crazy-estate.json) |
