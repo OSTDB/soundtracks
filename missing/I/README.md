@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
 | Idle Universe Creator | 351606 | [351606-idle-universe-creator.json](./351606-idle-universe-creator.json) |
 | Idle Universe: Planet Miner | 231925 | [231925-idle-universe-planet-miner.json](./231925-idle-universe-planet-miner.json) |
+| Idle Warrior | 129679 | [129679-idle-warrior.json](./129679-idle-warrior.json) |
 | Idle Wasteland: Pet Slot Bundle | 157546 | [157546-idle-wasteland-pet-slot-bundle.json](./157546-idle-wasteland-pet-slot-bundle.json) |
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
@@ -962,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Cold Blood | 9680 | [9680-in-cold-blood.json](./9680-in-cold-blood.json) |
 | In Corporeal | 287220 | [287220-in-corporeal.json](./287220-in-corporeal.json) |
 | In Darkness | 83570 | [83570-in-darkness.json](./83570-in-darkness.json) |
+| In Death Unchained | 135118 | [135118-in-death-unchained.json](./135118-in-death-unchained.json) |
 | In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
 | In Drmzzz | 225288 | [225288-in-drmzzz.json](./225288-in-drmzzz.json) |
 | In Essence: Nil - MaidxMan / Chapel | 340750 | [340750-in-essence-nil-maidxman-chapel.json](./340750-in-essence-nil-maidxman-chapel.json) |
@@ -1806,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intravenous 2: Mercenarism | 274547 | [274547-intravenous-2-mercenarism.json](./274547-intravenous-2-mercenarism.json) |
 | Intrepid | 112999 | [112999-intrepid.json](./112999-intrepid.json) |
 | Intrepid | 297485 | [297485-intrepid.json](./297485-intrepid.json) |
+| Intrepid Izzy | 135822 | [135822-intrepid-izzy.json](./135822-intrepid-izzy.json) |
 | Intrepid Lepid | 179041 | [179041-intrepid-lepid.json](./179041-intrepid-lepid.json) |
 | Intrigue At Oakhaven Plantation | 66352 | [66352-intrigue-at-oakhaven-plantation.json](./66352-intrigue-at-oakhaven-plantation.json) |
 | Intro Fighters | 186161 | [186161-intro-fighters.json](./186161-intro-fighters.json) |
@@ -2179,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Lament | 375990 | [375990-isle-of-lament.json](./375990-isle-of-lament.json) |
 | Isle of Rein | 207397 | [207397-isle-of-rein.json](./207397-isle-of-rein.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
+| Isles of Sea and Sky | 133013 | [133013-isles-of-sea-and-sky.json](./133013-isles-of-sea-and-sky.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
 | Isly | 185010 | [185010-isly.json](./185010-isly.json) |
