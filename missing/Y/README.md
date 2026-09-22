@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your City in 3D | 158662 | [158662-your-city-in-3d.json](./158662-your-city-in-3d.json) |
 | Your Computer Might Be at Risk | 200034 | [200034-your-computer-might-be-at-risk.json](./200034-your-computer-might-be-at-risk.json) |
 | Your courier is on their way! | 192845 | [192845-your-courier-is-on-their-way.json](./192845-your-courier-is-on-their-way.json) |
+| Your Cozy Unboxing | 414538 | [414538-your-cozy-unboxing.json](./414538-your-cozy-unboxing.json) |
 | Your Dead Majesty | 149021 | [149021-your-dead-majesty.json](./149021-your-dead-majesty.json) |
 | Your Digital Cookbook | 365738 | [365738-your-digital-cookbook.json](./365738-your-digital-cookbook.json) |
 | Your Doodles Are Bugged! | 50875 | [50875-your-doodles-are-bugged.json](./50875-your-doodles-are-bugged.json) |
