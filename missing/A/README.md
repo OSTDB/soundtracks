@@ -3422,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Heroines: Deluxe Edition | 315876 | [315876-apex-heroines-deluxe-edition.json](./315876-apex-heroines-deluxe-edition.json) |
 | Apex Legends Mobile: Cold Snap | 211298 | [211298-apex-legends-mobile-cold-snap.json](./211298-apex-legends-mobile-cold-snap.json) |
 | Apex Legends Mobile: Prime Time | 211297 | [211297-apex-legends-mobile-prime-time.json](./211297-apex-legends-mobile-prime-time.json) |
+| Apex Legends Showdown | 396542 | [396542-apex-legends-showdown.json](./396542-apex-legends-showdown.json) |
 | Apex Legends: Arsenal | 249282 | [249282-apex-legends-arsenal.json](./249282-apex-legends-arsenal.json) |
 | Apex Legends: Defiance | 188649 | [188649-apex-legends-defiance.json](./188649-apex-legends-defiance.json) |
 | Apex Legends: Eclipse | 223471 | [223471-apex-legends-eclipse.json](./223471-apex-legends-eclipse.json) |
@@ -3957,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archaid | 133211 | [133211-archaid.json](./133211-archaid.json) |
 | Archangel | 26504 | [26504-archangel.json](./26504-archangel.json) |
 | Archangel | 74276 | [74276-archangel.json](./74276-archangel.json) |
+| Archangel Demon Rush | 396574 | [396574-archangel-demon-rush.json](./396574-archangel-demon-rush.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
 | Archeland | 206221 | [206221-archeland.json](./206221-archeland.json) |
@@ -5244,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
 | Atomic Heart: Blood on Crystal | 395854 | [395854-atomic-heart-blood-on-crystal.json](./395854-atomic-heart-blood-on-crystal.json) |
 | Atomic Heart: Enchantment Under the Sea | 325107 | [325107-atomic-heart-enchantment-under-the-sea.json](./325107-atomic-heart-enchantment-under-the-sea.json) |
+| Atomic Heart: Ultimate Edition | 396565 | [396565-atomic-heart-ultimate-edition.json](./396565-atomic-heart-ultimate-edition.json) |
 | Atomic Heist | 90091 | [90091-atomic-heist.json](./90091-atomic-heist.json) |
 | Atomic Owl | 283949 | [283949-atomic-owl.json](./283949-atomic-owl.json) |
 | Atomic Point | 39619 | [39619-atomic-point.json](./39619-atomic-point.json) |
