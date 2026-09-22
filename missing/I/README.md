@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
 | I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
+| I Can't Believe It's Not Gambling: GOTY Edition | 74929 | [74929-i-cant-believe-its-not-gambling-goty-edition.json](./74929-i-cant-believe-its-not-gambling-goty-edition.json) |
 | I Can't Escape: Darkness | 35861 | [35861-i-cant-escape-darkness.json](./35861-i-cant-escape-darkness.json) |
 | I Can't Hear Your Words, So I Want To Listen To Your Heart | 367519 | [367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json](./367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json) |
 | I Can't Reid | 386100 | [386100-i-cant-reid.json](./386100-i-cant-reid.json) |
@@ -2316,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itsudemo! Nyan to Wonderful | 228564 | [228564-itsudemo-nyan-to-wonderful.json](./228564-itsudemo-nyan-to-wonderful.json) |
 | Itsuka, Todoku, Ano Sora ni.: You no Michi to Hi no Tasogare to | 372571 | [372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json](./372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json) |
 | Ittle Dew 2 | 11598 | [11598-ittle-dew-2.json](./11598-ittle-dew-2.json) |
+| Ittle Dew 2+ | 75286 | [75286-ittle-dew-2.json](./75286-ittle-dew-2.json) |
 | Ittle Dew no Densetsu: Ushinawareta Reta Shima to Nazo no Shiro | 222317 | [222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json](./222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json) |
 | Iubes:2 | 76559 | [76559-iubes-2.json](./76559-iubes-2.json) |
 | Ivan | 365151 | [365151-ivan.json](./365151-ivan.json) |
