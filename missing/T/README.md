@@ -5262,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Putrid Pumps | 271203 | [271203-the-putrid-pumps.json](./271203-the-putrid-pumps.json) |
 | The Puzzle Maker: Cebba's Odyssey | 275112 | [275112-the-puzzle-maker-cebbas-odyssey.json](./275112-the-puzzle-maker-cebbas-odyssey.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
+| The Puzzle Story | 113491 | [113491-the-puzzle-story.json](./113491-the-puzzle-story.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
 | The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
 | The Pyramids of Egypt | 62671 | [62671-the-pyramids-of-egypt.json](./62671-the-pyramids-of-egypt.json) |
@@ -5586,6 +5587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
 | The Settlers: Kingdoms of Anteria | 7440 | [7440-the-settlers-kingdoms-of-anteria.json](./7440-the-settlers-kingdoms-of-anteria.json) |
 | The Settlers: New Allies - Deluxe Edition | 216233 | [216233-the-settlers-new-allies-deluxe-edition.json](./216233-the-settlers-new-allies-deluxe-edition.json) |
+| The Settlers: Rise of an Empire - History Edition | 114448 | [114448-the-settlers-rise-of-an-empire-history-edition.json](./114448-the-settlers-rise-of-an-empire-history-edition.json) |
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
 | The Seven Cities of Gold | 8994 | [8994-the-seven-cities-of-gold.json](./8994-the-seven-cities-of-gold.json) |
@@ -8225,6 +8227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
 | Titan A.E. | 198944 | [198944-titan-a-e.json](./198944-titan-a-e.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
+| Titan Outpost | 113507 | [113507-titan-outpost.json](./113507-titan-outpost.json) |
 | Titan Quest Gold | 177057 | [177057-titan-quest-gold.json](./177057-titan-quest-gold.json) |
 | Titan Quest II | 261146 | [261146-titan-quest-ii.json](./261146-titan-quest-ii.json) |
 | Titan Quest: Gold Edition | 51386 | [51386-titan-quest-gold-edition.json](./51386-titan-quest-gold-edition.json) |
