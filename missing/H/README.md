@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatch | 314491 | [314491-hatch.json](./314491-hatch.json) |
 | Hatch Catch | 40175 | [40175-hatch-catch.json](./40175-hatch-catch.json) |
 | Hatch Tales: A Heroic Hookshot Adventure | 319936 | [319936-hatch-tales-a-heroic-hookshot-adventure.json](./319936-hatch-tales-a-heroic-hookshot-adventure.json) |
+| Hatchick | 96860 | [96860-hatchick.json](./96860-hatchick.json) |
 | Hatchling | 182511 | [182511-hatchling.json](./182511-hatchling.json) |
 | Hatchling's Adventure | 180785 | [180785-hatchlings-adventure.json](./180785-hatchlings-adventure.json) |
 | Hatchpunk | 143729 | [143729-hatchpunk.json](./143729-hatchpunk.json) |
@@ -3867,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howling Village: Echoes | 175810 | [175810-howling-village-echoes.json](./175810-howling-village-echoes.json) |
 | HowLongToBeat: The Game | 362903 | [362903-howlongtobeat-the-game.json](./362903-howlongtobeat-the-game.json) |
 | Howlville | 54104 | [54104-howlville.json](./54104-howlville.json) |
+| Howlville: The Dark Past | 99084 | [99084-howlville-the-dark-past.json](./99084-howlville-the-dark-past.json) |
 | Howrse | 152750 | [152750-howrse.json](./152750-howrse.json) |
 | Hoyle Backgammon | 54105 | [54105-hoyle-backgammon.json](./54105-hoyle-backgammon.json) |
 | Hoyle Board Games 2003 | 97126 | [97126-hoyle-board-games-2003.json](./97126-hoyle-board-games-2003.json) |
