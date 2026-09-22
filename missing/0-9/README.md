@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 360 Breakout | 57321 | [57321-360-breakout.json](./57321-360-breakout.json) |
 | 360 Mega App Pack HD | 78352 | [78352-360-mega-app-pack-hd.json](./78352-360-mega-app-pack-hd.json) |
 | 360 Mega Pack HD Remix | 98814 | [98814-360-mega-pack-hd-remix.json](./98814-360-mega-pack-hd-remix.json) |
+| 360 No Scope Arena | 104905 | [104905-360-no-scope-arena.json](./104905-360-no-scope-arena.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
 | 372756 | 397771 | [397771-372756.json](./397771-372756.json) |
