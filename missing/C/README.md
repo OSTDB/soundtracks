@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitals Quizzer: Landmarks Mode | 257462 | [257462-capitals-quizzer-landmarks-mode.json](./257462-capitals-quizzer-landmarks-mode.json) |
 | Capitals Quizzer: People Mode | 296526 | [296526-capitals-quizzer-people-mode.json](./296526-capitals-quizzer-people-mode.json) |
 | Capitals Quizzer: Regions Mode | 257463 | [257463-capitals-quizzer-regions-mode.json](./257463-capitals-quizzer-regions-mode.json) |
+| Capitol Diktatoria | 413908 | [413908-capitol-diktatoria.json](./413908-capitol-diktatoria.json) |
 | Capoeira Fighter 3 | 93988 | [93988-capoeira-fighter-3.json](./93988-capoeira-fighter-3.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
 | Capoo Pals for MAC Expansion Set | 289464 | [289464-capoo-pals-for-mac-expansion-set.json](./289464-capoo-pals-for-mac-expansion-set.json) |
@@ -619,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
 | Captured | 312193 | [312193-captured.json](./312193-captured.json) |
+| Captured | 413918 | [413918-captured.json](./413918-captured.json) |
 | Captured Nao: Final | 97835 | [97835-captured-nao-final.json](./97835-captured-nao-final.json) |
 | Captured Nao: Sexual Violation | 97842 | [97842-captured-nao-sexual-violation.json](./97842-captured-nao-sexual-violation.json) |
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
@@ -3463,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
 | Close Shell | 246437 | [246437-close-shell.json](./246437-close-shell.json) |
+| Close the Sky | 413907 | [413907-close-the-sky.json](./413907-close-the-sky.json) |
 | Close to the Sun | 55027 | [55027-close-to-the-sun.json](./55027-close-to-the-sun.json) |
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
 | CloseCall | 155991 | [155991-closecall.json](./155991-closecall.json) |
@@ -4879,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party: Blood Drive | 11000 | [11000-corpse-party-blood-drive.json](./11000-corpse-party-blood-drive.json) |
 | Corpse Party: Book of Shadows | 11318 | [11318-corpse-party-book-of-shadows.json](./11318-corpse-party-book-of-shadows.json) |
 | Corpse Party: Cross Fear | 135889 | [135889-corpse-party-cross-fear.json](./135889-corpse-party-cross-fear.json) |
+| Corpse-Party: if | 413925 | [413925-corpse-party-if.json](./413925-corpse-party-if.json) |
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
 | Corpus Machina | 375975 | [375975-corpus-machina.json](./375975-corpus-machina.json) |
@@ -5067,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count Logica | 110135 | [110135-count-logica.json](./110135-count-logica.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
+| Count your Clones | 413889 | [413889-count-your-clones.json](./413889-count-your-clones.json) |
 | Countdown | 319236 | [319236-countdown.json](./319236-countdown.json) |
 | Countdown | 95417 | [95417-countdown.json](./95417-countdown.json) |
 | CountDown | 336629 | [336629-countdown.json](./336629-countdown.json) |
