@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Jin Yong | 210689 | [210689-heroes-of-jin-yong.json](./210689-heroes-of-jin-yong.json) |
 | Heroes of Kalevala | 54095 | [54095-heroes-of-kalevala.json](./54095-heroes-of-kalevala.json) |
 | Heroes of Karn | 13876 | [13876-heroes-of-karn.json](./13876-heroes-of-karn.json) |
+| Heroes of Legionwood | 17078 | [17078-heroes-of-legionwood.json](./17078-heroes-of-legionwood.json) |
 | Heroes of Legionwood: Episode 2 | 171561 | [171561-heroes-of-legionwood-episode-2.json](./171561-heroes-of-legionwood-episode-2.json) |
 | Heroes of Legionwood: Episode 3 | 171562 | [171562-heroes-of-legionwood-episode-3.json](./171562-heroes-of-legionwood-episode-3.json) |
 | Heroes of Loot | 13624 | [13624-heroes-of-loot.json](./13624-heroes-of-loot.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexle | 271821 | [271821-hexle.json](./271821-hexle.json) |
 | HexLogic - Quilts | 106381 | [106381-hexlogic-quilts.json](./106381-hexlogic-quilts.json) |
 | HexoCity | 291590 | [291590-hexocity.json](./291590-hexocity.json) |
+| Hexodius | 16517 | [16517-hexodius.json](./16517-hexodius.json) |
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
 | Hexopods | 75339 | [75339-hexopods.json](./75339-hexopods.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
@@ -3939,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
 | HTR High Tech Racing | 85174 | [85174-htr-high-tech-racing.json](./85174-htr-high-tech-racing.json) |
+| HTR+ Slot Car Simulation | 17197 | [17197-htr-slot-car-simulation.json](./17197-htr-slot-car-simulation.json) |
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
