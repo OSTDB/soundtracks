@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Lands | 133420 | [133420-fabled-lands.json](./133420-fabled-lands.json) |
 | Fabled Lands: Lords of the Rising Sun | 237354 | [237354-fabled-lands-lords-of-the-rising-sun.json](./237354-fabled-lands-lords-of-the-rising-sun.json) |
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
+| Fablery | 408253 | [408253-fablery.json](./408253-fablery.json) |
 | Fables of Talumos | 119007 | [119007-fables-of-talumos.json](./119007-fables-of-talumos.json) |
 | Fabulous Angela: New York to LA | 124171 | [124171-fabulous-angela-new-york-to-la.json](./124171-fabulous-angela-new-york-to-la.json) |
 | Fabulous Finds | 67652 | [67652-fabulous-finds.json](./67652-fabulous-finds.json) |
@@ -1675,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
 | Final Fantasy | 271227 | [271227-final-fantasy.json](./271227-final-fantasy.json) |
 | Final Fantasy | 286674 | [286674-final-fantasy.json](./286674-final-fantasy.json) |
+| Final Fantasy | 408304 | [408304-final-fantasy.json](./408304-final-fantasy.json) |
 | Final Fantasy 25th Anniversary Ultimate Box | 282727 | [282727-final-fantasy-25th-anniversary-ultimate-box.json](./282727-final-fantasy-25th-anniversary-ultimate-box.json) |
 | Final Fantasy Agito | 7400 | [7400-final-fantasy-agito.json](./7400-final-fantasy-agito.json) |
 | Final Fantasy Anthology | 423 | [423-final-fantasy-anthology.json](./423-final-fantasy-anthology.json) |
@@ -2895,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowerworks | 67252 | [67252-flowerworks.json](./67252-flowerworks.json) |
 | Flowery Vale | 177048 | [177048-flowery-vale.json](./177048-flowery-vale.json) |
 | Flown | 261524 | [261524-flown.json](./261524-flown.json) |
+| Floworks | 408289 | [408289-floworks.json](./408289-floworks.json) |
 | Flowpaper | 68922 | [68922-flowpaper.json](./68922-flowpaper.json) |
 | Flowstone Saga | 152329 | [152329-flowstone-saga.json](./152329-flowstone-saga.json) |
 | Floyd of the Jungle | 24987 | [24987-floyd-of-the-jungle.json](./24987-floyd-of-the-jungle.json) |
@@ -3745,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Sports Soccer '99 | 139246 | [139246-fox-sports-soccer-99.json](./139246-fox-sports-soccer-99.json) |
 | Fox Sports Tennis '99 | 81276 | [81276-fox-sports-tennis-99.json](./81276-fox-sports-tennis-99.json) |
 | Fox Stories | 154566 | [154566-fox-stories.json](./154566-fox-stories.json) |
+| Fox Two Protocol | 408310 | [408310-fox-two-protocol.json](./408310-fox-two-protocol.json) |
 | Fox-Trot Over Run | 130970 | [130970-fox-trot-over-run.json](./130970-fox-trot-over-run.json) |
 | Fox's Peter Pan & The Pirates: The Revenge of Captain Hook | 72710 | [72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json](./72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json) |
 | Foxblade | 244872 | [244872-foxblade.json](./244872-foxblade.json) |
@@ -4265,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fromage | 326059 | [326059-fromage.json](./326059-fromage.json) |
 | FromTheEarth VR | 122172 | [122172-fromtheearth-vr.json](./122172-fromtheearth-vr.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
+| Front Line | 408293 | [408293-front-line.json](./408293-front-line.json) |
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
 | Front Mission 1st: Remake | 191400 | [191400-front-mission-1st-remake.json](./191400-front-mission-1st-remake.json) |
 | Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
