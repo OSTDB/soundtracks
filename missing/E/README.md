@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entombed | 22820 | [22820-entombed.json](./22820-entombed.json) |
 | Entomophobia | 195153 | [195153-entomophobia.json](./195153-entomophobia.json) |
 | Entomorph: Plague of the Darkfall | 3138 | [3138-entomorph-plague-of-the-darkfall.json](./3138-entomorph-plague-of-the-darkfall.json) |
+| Entrance 8 Iriguchi | 391864 | [391864-entrance-8-iriguchi.json](./391864-entrance-8-iriguchi.json) |
 | Entre Laços e Amassos | 215790 | [215790-entre-lacos-e-amassos.json](./215790-entre-lacos-e-amassos.json) |
 | Entropic Fracture | 369035 | [369035-entropic-fracture.json](./369035-entropic-fracture.json) |
 | Entropic Shop VR | 82036 | [82036-entropic-shop-vr.json](./82036-entropic-shop-vr.json) |
