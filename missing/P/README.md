@@ -4707,6 +4707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
 | Princess in Love | 67663 | [67663-princess-in-love.json](./67663-princess-in-love.json) |
 | Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
+| Princess Kaguya | 34914 | [34914-princess-kaguya.json](./34914-princess-kaguya.json) |
 | Princess Knight's Mission: Anna's Marvelous Adventures | 272946 | [272946-princess-knights-mission-annas-marvelous-adventures.json](./272946-princess-knights-mission-annas-marvelous-adventures.json) |
 | Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
 | Princess Lover! | 387346 | [387346-princess-lover.json](./387346-princess-lover.json) |
@@ -5230,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Stratarch | 259260 | [259260-project-stratarch.json](./259260-project-stratarch.json) |
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
+| Project Tarvotan | 34809 | [34809-project-tarvotan.json](./34809-project-tarvotan.json) |
 | Project Three | 343857 | [343857-project-three.json](./343857-project-three.json) |
 | Project Threshold | 404201 | [404201-project-threshold.json](./404201-project-threshold.json) |
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
@@ -5384,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proteus | 2163 | [2163-proteus.json](./2163-proteus.json) |
 | Proteus Zone | 355111 | [355111-proteus-zone.json](./355111-proteus-zone.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
+| Proto Raider | 34889 | [34889-proto-raider.json](./34889-proto-raider.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
 | ProtoBound | 333099 | [333099-protobound.json](./333099-protobound.json) |
 | Protocell | 50152 | [50152-protocell.json](./50152-protocell.json) |
@@ -5490,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
 | Psycho Santa | 66394 | [66394-psycho-santa.json](./66394-psycho-santa.json) |
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
+| Psycho Starship Rampage | 34856 | [34856-psycho-starship-rampage.json](./34856-psycho-starship-rampage.json) |
 | Psycho Strafe | 358969 | [358969-psycho-strafe.json](./358969-psycho-strafe.json) |
 | Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
