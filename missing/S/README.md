@@ -3655,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity Graphics Set 1: Ancient Cities | 84170 | [84170-simcity-graphics-set-1-ancient-cities.json](./84170-simcity-graphics-set-1-ancient-cities.json) |
 | SimCity Graphics Set 2: Future Cities | 77969 | [77969-simcity-graphics-set-2-future-cities.json](./77969-simcity-graphics-set-2-future-cities.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
+| SimCity: Cities of Tomorrow | 20106 | [20106-simcity-cities-of-tomorrow.json](./20106-simcity-cities-of-tomorrow.json) |
 | SimCity: Enhanced CD-Rom | 208991 | [208991-simcity-enhanced-cd-rom.json](./208991-simcity-enhanced-cd-rom.json) |
 | SimCity: Limited Edition | 50870 | [50870-simcity-limited-edition.json](./50870-simcity-limited-edition.json) |
 | SimCity: Terrain Editor | 69584 | [69584-simcity-terrain-editor.json](./69584-simcity-terrain-editor.json) |
@@ -4220,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Fury | 274469 | [274469-sky-fury.json](./274469-sky-fury.json) |
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
 | Sky Gamblers Races | 106362 | [106362-sky-gamblers-races.json](./106362-sky-gamblers-races.json) |
+| Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
 | Sky Harrier: Alpha Code | 189044 | [189044-sky-harrier-alpha-code.json](./189044-sky-harrier-alpha-code.json) |
@@ -4841,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Cat Heroes | 84882 | [84882-smash-cat-heroes.json](./84882-smash-cat-heroes.json) |
 | Smash Cops | 22929 | [22929-smash-cops.json](./22929-smash-cops.json) |
 | Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
+| Smash Court Tennis Pro Tournament 2 | 20184 | [20184-smash-court-tennis-pro-tournament-2.json](./20184-smash-court-tennis-pro-tournament-2.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
 | Smash Drums: Pop Rock Legends | 306954 | [306954-smash-drums-pop-rock-legends.json](./306954-smash-drums-pop-rock-legends.json) |
 | Smash Frenzy | 54373 | [54373-smash-frenzy.json](./54373-smash-frenzy.json) |
@@ -7511,6 +7514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
 | Spirits of Mystery: The Moon Crystal | 187959 | [187959-spirits-of-mystery-the-moon-crystal.json](./187959-spirits-of-mystery-the-moon-crystal.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
+| Spirits of Xanadu | 17601 | [17601-spirits-of-xanadu.json](./17601-spirits-of-xanadu.json) |
 | Spirits of Yendor | 216879 | [216879-spirits-of-yendor.json](./216879-spirits-of-yendor.json) |
 | Spirits: Ciel Bleu | 44214 | [44214-spirits-ciel-bleu.json](./44214-spirits-ciel-bleu.json) |
 | Spirits' Forest | 383366 | [383366-spirits-forest.json](./383366-spirits-forest.json) |
@@ -8420,6 +8424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Empire Strikes Back | 12732 | [12732-star-wars-the-empire-strikes-back.json](./12732-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
+| Star Wars: The Force Unleashed - Tatooine Mission Pack | 17475 | [17475-star-wars-the-force-unleashed-tatooine-mission-pack.json](./17475-star-wars-the-force-unleashed-tatooine-mission-pack.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
 | Star Wars: The Old Republic - Knights of the Fallen Empire | 11178 | [11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json](./11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json) |
 | Star Wars: The Old Republic - Legacy of the Sith | 202780 | [202780-star-wars-the-old-republic-legacy-of-the-sith.json](./202780-star-wars-the-old-republic-legacy-of-the-sith.json) |
@@ -9526,6 +9531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreamerVille | 285996 | [285996-streamerville.json](./285996-streamerville.json) |
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
 | Streamline | 177552 | [177552-streamline.json](./177552-streamline.json) |
+| Streamline | 20178 | [20178-streamline.json](./20178-streamline.json) |
 | Streamline | 81180 | [81180-streamline.json](./81180-streamline.json) |
 | StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
 | Strect | 413725 | [413725-strect.json](./413725-strect.json) |
@@ -11659,6 +11665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surge Breaker | 185693 | [185693-surge-breaker.json](./185693-surge-breaker.json) |
 | Surge Concerto DX Agent Pack Code: Gold/. | 139996 | [139996-surge-concerto-dx-agent-pack-code-gold.json](./139996-surge-concerto-dx-agent-pack-code-gold.json) |
 | Surge Concerto DX Agent Pack Code: Silver/. | 140004 | [140004-surge-concerto-dx-agent-pack-code-silver.json](./140004-surge-concerto-dx-agent-pack-code-silver.json) |
+| Surge Deluxe | 20062 | [20062-surge-deluxe.json](./20062-surge-deluxe.json) |
 | Surge Generations | 334687 | [334687-surge-generations.json](./334687-surge-generations.json) |
 | Surge Radio | 124172 | [124172-surge-radio.json](./124172-surge-radio.json) |
 | Surgeon Simulator 2 | 127355 | [127355-surgeon-simulator-2.json](./127355-surgeon-simulator-2.json) |
@@ -12356,6 +12363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter 3 | 4117 | [4117-syphon-filter-3.json](./4117-syphon-filter-3.json) |
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
+| Syphon Filter: The Omega Strain | 20185 | [20185-syphon-filter-the-omega-strain.json](./20185-syphon-filter-the-omega-strain.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
