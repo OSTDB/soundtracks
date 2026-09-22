@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Run | 42118 | [42118-victory-run.json](./42118-victory-run.json) |
 | Victory Zone: Real Pachinko Simulator | 255086 | [255086-victory-zone-real-pachinko-simulator.json](./255086-victory-zone-real-pachinko-simulator.json) |
 | Victory: The Age of Racing | 16850 | [16850-victory-the-age-of-racing.json](./16850-victory-the-age-of-racing.json) |
+| Vida Loka Simulator | 397246 | [397246-vida-loka-simulator.json](./397246-vida-loka-simulator.json) |
 | Vidar | 27191 | [27191-vidar.json](./27191-vidar.json) |
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
 | Video Checkers | 18003 | [18003-video-checkers.json](./18003-video-checkers.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visual DOS 2024 | 364528 | [364528-visual-dos-2024.json](./364528-visual-dos-2024.json) |
 | Visual DOS: Integer Overflow | 364520 | [364520-visual-dos-integer-overflow.json](./364520-visual-dos-integer-overflow.json) |
 | Visual Novel Sisters | 167169 | [167169-visual-novel-sisters.json](./167169-visual-novel-sisters.json) |
+| Visual Novel: Call of Toilet | 397247 | [397247-visual-novel-call-of-toilet.json](./397247-visual-novel-call-of-toilet.json) |
 | Visual Quiz Kore Naanda? | 260698 | [260698-visual-quiz-kore-naanda.json](./260698-visual-quiz-kore-naanda.json) |
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vita: The Ember Oracle | 356112 | [356112-vita-the-ember-oracle.json](./356112-vita-the-ember-oracle.json) |
