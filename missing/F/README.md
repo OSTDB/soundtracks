@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
 | Fallen Kingdom | 75023 | [75023-fallen-kingdom.json](./75023-fallen-kingdom.json) |
 | Fallen Knight: Rise of the Fallen | 367514 | [367514-fallen-knight-rise-of-the-fallen.json](./367514-fallen-knight-rise-of-the-fallen.json) |
+| Fallen Legion Revenants | 135342 | [135342-fallen-legion-revenants.json](./135342-fallen-legion-revenants.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
 | Fallen London: A Crown of Thorns | 191792 | [191792-fallen-london-a-crown-of-thorns.json](./191792-fallen-london-a-crown-of-thorns.json) |
@@ -3260,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Forecast Death | 382758 | [382758-forecast-death.json](./382758-forecast-death.json) |
+| Foreclosed | 134579 | [134579-foreclosed.json](./134579-foreclosed.json) |
 | Foregone | 116484 | [116484-foregone.json](./116484-foregone.json) |
 | Forehead Chip | 257939 | [257939-forehead-chip.json](./257939-forehead-chip.json) |
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
