@@ -2939,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Heroes | 67937 | [67937-bit-heroes.json](./67937-bit-heroes.json) |
 | Bit Heroes Runner | 263569 | [263569-bit-heroes-runner.json](./263569-bit-heroes-runner.json) |
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
+| Bit Maze | 406319 | [406319-bit-maze.json](./406319-bit-maze.json) |
 | Bit Orchard: Animal Valley - Complete Edition | 232997 | [232997-bit-orchard-animal-valley-complete-edition.json](./232997-bit-orchard-animal-valley-complete-edition.json) |
 | Bit Orchard: Animal Valley - Extended Edition | 212355 | [212355-bit-orchard-animal-valley-extended-edition.json](./212355-bit-orchard-animal-valley-extended-edition.json) |
 | Bit Orchard: Animal Valley - Halloween Edition | 223567 | [223567-bit-orchard-animal-valley-halloween-edition.json](./223567-bit-orchard-animal-valley-halloween-edition.json) |
@@ -3389,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
+| Blazeo | 406326 | [406326-blazeo.json](./406326-blazeo.json) |
 | BlazePunk | 415092 | [415092-blazepunk.json](./415092-blazepunk.json) |
 | Blazer | 46842 | [46842-blazer.json](./46842-blazer.json) |
 | BlazeRush | 14567 | [14567-blazerush.json](./14567-blazerush.json) |
@@ -3802,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Under the Bridge | 202263 | [202263-blood-under-the-bridge.json](./202263-blood-under-the-bridge.json) |
 | Blood Void Mass | 146237 | [146237-blood-void-mass.json](./146237-blood-void-mass.json) |
 | Blood Warrior | 39559 | [39559-blood-warrior.json](./39559-blood-warrior.json) |
+| Blood Welkin | 406298 | [406298-blood-welkin.json](./406298-blood-welkin.json) |
 | Blood X Thirsty | 338258 | [338258-blood-x-thirsty.json](./338258-blood-x-thirsty.json) |
 | Blood-over- | 93069 | [93069-blood-over.json](./93069-blood-over.json) |
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
