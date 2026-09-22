@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olaguna Chronicles | 128372 | [128372-olaguna-chronicles.json](./128372-olaguna-chronicles.json) |
 | Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
+| Old Coin Pusher Gaiden | 411143 | [411143-old-coin-pusher-gaiden.json](./411143-old-coin-pusher-gaiden.json) |
 | Old Edge I | 117706 | [117706-old-edge-i.json](./117706-old-edge-i.json) |
 | Old Friend | 30092 | [30092-old-friend.json](./30092-old-friend.json) |
 | Old Friends Dog Game | 159311 | [159311-old-friends-dog-game.json](./159311-old-friends-dog-game.json) |
@@ -537,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
 | Olympia: Festival of the Gods | 341504 | [341504-olympia-festival-of-the-gods.json](./341504-olympia-festival-of-the-gods.json) |
+| Olympians: Darius | 411128 | [411128-olympians-darius.json](./411128-olympians-darius.json) |
 | Olympic Basketball | 147463 | [147463-olympic-basketball.json](./147463-olympic-basketball.json) |
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
 | Olympic Decathlon | 78618 | [78618-olympic-decathlon.json](./78618-olympic-decathlon.json) |
@@ -988,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Eyed Likho | 250955 | [250955-one-eyed-likho.json](./250955-one-eyed-likho.json) |
 | One-Hit Slayer! Swordog | 367963 | [367963-one-hit-slayer-swordog.json](./367963-one-hit-slayer-swordog.json) |
 | One-inch Tactics | 301574 | [301574-one-inch-tactics.json](./301574-one-inch-tactics.json) |
+| One-Move Checkmate: Chess Brain Trainer | 411144 | [411144-one-move-checkmate-chess-brain-trainer.json](./411144-one-move-checkmate-chess-brain-trainer.json) |
 | One-Off | 300872 | [300872-one-off.json](./300872-one-off.json) |
 | One-Off R | 300876 | [300876-one-off-r.json](./300876-one-off-r.json) |
 | One-Thousand Cuts | 250001 | [250001-one-thousand-cuts.json](./250001-one-thousand-cuts.json) |
