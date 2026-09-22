@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backwoods Town | 275097 | [275097-backwoods-town.json](./275097-backwoods-town.json) |
 | Backworlds | 107176 | [107176-backworlds.json](./107176-backworlds.json) |
 | Backyard | 142423 | [142423-backyard.json](./142423-backyard.json) |
+| Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
 | Backyard Basketball | 69242 | [69242-backyard-basketball.json](./69242-backyard-basketball.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
 | Backyard Digger | 346673 | [346673-backyard-digger.json](./346673-backyard-digger.json) |
@@ -701,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bannerman | 70395 | [70395-bannerman.json](./70395-bannerman.json) |
 | Banners of Ruin: Collection | 324501 | [324501-banners-of-ruin-collection.json](./324501-banners-of-ruin-collection.json) |
 | Banners of Ruin: Moonstone | 230817 | [230817-banners-of-ruin-moonstone.json](./230817-banners-of-ruin-moonstone.json) |
+| Banquet for Fools | 318079 | [318079-banquet-for-fools.json](./318079-banquet-for-fools.json) |
 | Banquet of Nausea | 402887 | [402887-banquet-of-nausea.json](./402887-banquet-of-nausea.json) |
 | Banshee | 11939 | [11939-banshee.json](./11939-banshee.json) |
 | Banshee (Fazbear's Pizzeria Tycoon!) | 336023 | [336023-banshee-fazbears-pizzeria-tycoon.json](./336023-banshee-fazbears-pizzeria-tycoon.json) |
@@ -4558,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash | 12942 | [12942-boulder-dash.json](./12942-boulder-dash.json) |
 | Boulder Dash | 283712 | [283712-boulder-dash.json](./283712-boulder-dash.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
+| Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
 | Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
