@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandume Monsters Parfait | 228572 | [228572-kandume-monsters-parfait.json](./228572-kandume-monsters-parfait.json) |
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
+| Kang | 396587 | [396587-kang.json](./396587-kang.json) |
 | Kang Fu | 37109 | [37109-kang-fu.json](./37109-kang-fu.json) |
 | Kangaroo | 12310 | [12310-kangaroo.json](./12310-kangaroo.json) |
 | Kangaroo Court | 330172 | [330172-kangaroo-court.json](./330172-kangaroo-court.json) |
@@ -265,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
 | Kantai Collection | 12737 | [12737-kantai-collection.json](./12737-kantai-collection.json) |
 | Kanuchi: Futatsu No Tsubasa | 56765 | [56765-kanuchi-futatsu-no-tsubasa.json](./56765-kanuchi-futatsu-no-tsubasa.json) |
+| Kanun 1919 | 396567 | [396567-kanun-1919.json](./396567-kanun-1919.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
 | Kanyu: Sword Tomb | 224033 | [224033-kanyu-sword-tomb.json](./224033-kanyu-sword-tomb.json) |
 | Kanzen Chuukei Pro Yakyuu Greatest Nine | 272901 | [272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json](./272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json) |
@@ -961,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi no Tonari de Koishiteru! | 194548 | [194548-kimi-no-tonari-de-koishiteru.json](./194548-kimi-no-tonari-de-koishiteru.json) |
 | Kimi no Tonari de Koishiteru!: The Respective Happiness | 194549 | [194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json](./194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json) |
 | Kimi no Yusha | 59401 | [59401-kimi-no-yusha.json](./59401-kimi-no-yusha.json) |
+| Kimi Omou Yoru ni Kengeki wo | 396572 | [396572-kimi-omou-yoru-ni-kengeki-wo.json](./396572-kimi-omou-yoru-ni-kengeki-wo.json) |
 | Kimi sae Ireba: Episode Sutelz | 311494 | [311494-kimi-sae-ireba-episode-sutelz.json](./311494-kimi-sae-ireba-episode-sutelz.json) |
 | Kimi to Boku to no Kishi no Hibi: Rakuen no Chevalier | 194583 | [194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json](./194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
