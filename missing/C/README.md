@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesars Palace: Black Jack | 218438 | [218438-caesars-palace-black-jack.json](./218438-caesars-palace-black-jack.json) |
 | Café 0: The Sleeping Beast - Remastered | 226278 | [226278-cafe-0-the-sleeping-beast-remastered.json](./226278-cafe-0-the-sleeping-beast-remastered.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
+| Cafe Cafe: Idle Bird Collector | 393813 | [393813-cafe-cafe-idle-bird-collector.json](./393813-cafe-cafe-idle-bird-collector.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Cafe Dreamland | 333109 | [333109-cafe-dreamland.json](./333109-cafe-dreamland.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
@@ -405,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Box 2 | 62779 | [62779-candy-box-2.json](./62779-candy-box-2.json) |
 | Candy Box U | 402983 | [402983-candy-box-u.json](./402983-candy-box-u.json) |
 | Candy Boy | 217021 | [217021-candy-boy.json](./217021-candy-boy.json) |
+| Candy Brain | 393796 | [393796-candy-brain.json](./393796-candy-brain.json) |
 | Candy Country: Sweet Wonder | 338003 | [338003-candy-country-sweet-wonder.json](./338003-candy-country-sweet-wonder.json) |
 | Candy Coven | 177943 | [177943-candy-coven.json](./177943-candy-coven.json) |
 | Candy Crisis | 265261 | [265261-candy-crisis.json](./265261-candy-crisis.json) |
@@ -1453,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
+| Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
 | Catmageddon | 152882 | [152882-catmageddon.json](./152882-catmageddon.json) |
 | Catman: Gimmick Action Game | 161368 | [161368-catman-gimmick-action-game.json](./161368-catman-gimmick-action-game.json) |
@@ -2294,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
 | ChibiTama | 211224 | [211224-chibitama.json](./211224-chibitama.json) |
+| Chiby.io | 393815 | [393815-chiby-io.json](./393815-chiby-io.json) |
 | Chic Baby | 97342 | [97342-chic-baby.json](./97342-chic-baby.json) |
 | Chica Simulator | 369663 | [369663-chica-simulator.json](./369663-chica-simulator.json) |
 | Chicago 2020 | 235999 | [235999-chicago-2020.json](./235999-chicago-2020.json) |
@@ -4880,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corallo | 202243 | [202243-corallo.json](./202243-corallo.json) |
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
+| Cordel Lands | 393823 | [393823-cordel-lands.json](./393823-cordel-lands.json) |
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
@@ -4920,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
+| CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
 | Cornhole Hero | 418742 | [418742-cornhole-hero.json](./418742-cornhole-hero.json) |
 | Cornsweeper | 285039 | [285039-cornsweeper.json](./285039-cornsweeper.json) |
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
@@ -5374,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft & Deliver | 406889 | [406889-craft-and-deliver.json](./406889-craft-and-deliver.json) |
 | Craft Battle Simulator | 90640 | [90640-craft-battle-simulator.json](./90640-craft-battle-simulator.json) |
 | Craft City Gangs | 86711 | [86711-craft-city-gangs.json](./86711-craft-city-gangs.json) |
+| Craft Connections | 393777 | [393777-craft-connections.json](./393777-craft-connections.json) |
 | Craft Control | 88795 | [88795-craft-control.json](./88795-craft-control.json) |
 | Craft Control HD | 107223 | [107223-craft-control-hd.json](./107223-craft-control-hd.json) |
 | Craft Elements | 126577 | [126577-craft-elements.json](./126577-craft-elements.json) |
@@ -6089,6 +6096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
+| Crossy Word | 393779 | [393779-crossy-word.json](./393779-crossy-word.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
 | Crouching Pony Hidden Dragon | 17173 | [17173-crouching-pony-hidden-dragon.json](./17173-crouching-pony-hidden-dragon.json) |
 | Crow | 17848 | [17848-crow.json](./17848-crow.json) |
