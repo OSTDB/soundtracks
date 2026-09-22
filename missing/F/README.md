@@ -945,8 +945,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Sweeper | 191201 | [191201-farming-sweeper.json](./191201-farming-sweeper.json) |
 | Farming Tractor Simulator 2023: Drive Combine & Trucks | 263497 | [263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json](./263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
+| Farmington Tales | 44093 | [44093-farmington-tales.json](./44093-farmington-tales.json) |
 | Farmnana Defence | 404863 | [404863-farmnana-defence.json](./404863-farmnana-defence.json) |
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
+| FarmVille 2: Country Escape | 38889 | [38889-farmville-2-country-escape.json](./38889-farmville-2-country-escape.json) |
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
 | Farmwand | 260239 | [260239-farmwand.json](./260239-farmwand.json) |
@@ -2085,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firewerx | 195185 | [195185-firewerx.json](./195185-firewerx.json) |
 | Firewheels Shop Simulator | 330316 | [330316-firewheels-shop-simulator.json](./330316-firewheels-shop-simulator.json) |
 | Firewind | 73322 | [73322-firewind.json](./73322-firewind.json) |
+| Firewood | 44574 | [44574-firewood.json](./44574-firewood.json) |
 | Firework | 112854 | [112854-firework.json](./112854-firework.json) |
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
@@ -2441,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaghead | 400219 | [400219-flaghead.json](./400219-flaghead.json) |
 | Flagman | 76972 | [76972-flagman.json](./76972-flagman.json) |
 | Flagship | 61563 | [61563-flagship.json](./61563-flagship.json) |
+| Flagsplosion | 38763 | [38763-flagsplosion.json](./38763-flagsplosion.json) |
 | Flail | 402415 | [402415-flail.json](./402415-flail.json) |
 | Flail Faster | 211823 | [211823-flail-faster.json](./211823-flail-faster.json) |
 | Flailing Limbs Bundle | 107266 | [107266-flailing-limbs-bundle.json](./107266-flailing-limbs-bundle.json) |
