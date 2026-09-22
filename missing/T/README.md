@@ -5009,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
 | The Murder of Ava Monroe | 377685 | [377685-the-murder-of-ava-monroe.json](./377685-the-murder-of-ava-monroe.json) |
 | The Murder of Sonic the Hedgehog | 243385 | [243385-the-murder-of-sonic-the-hedgehog.json](./243385-the-murder-of-sonic-the-hedgehog.json) |
+| The Murder of Yesterday | 405714 | [405714-the-murder-of-yesterday.json](./405714-the-murder-of-yesterday.json) |
 | The Murderer | 69801 | [69801-the-murderer.json](./69801-the-murderer.json) |
 | The Muse | 319556 | [319556-the-muse.json](./319556-the-muse.json) |
 | The Museum Sentinel | 355100 | [355100-the-museum-sentinel.json](./355100-the-museum-sentinel.json) |
@@ -5512,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Resident | 366283 | [366283-the-resident.json](./366283-the-resident.json) |
 | The Residents: Freak Show | 74045 | [74045-the-residents-freak-show.json](./74045-the-residents-freak-show.json) |
 | The Resistance | 75764 | [75764-the-resistance.json](./75764-the-resistance.json) |
+| The Resonance Initiative | 405691 | [405691-the-resonance-initiative.json](./405691-the-resonance-initiative.json) |
 | The Resonant | 289971 | [289971-the-resonant.json](./289971-the-resonant.json) |
 | The Rest is Silence | 271770 | [271770-the-rest-is-silence.json](./271770-the-rest-is-silence.json) |
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
@@ -5916,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
 | The Simulacrum | 230858 | [230858-the-simulacrum.json](./230858-the-simulacrum.json) |
 | The Simuloid Affair: Infinite Possibilities | 300692 | [300692-the-simuloid-affair-infinite-possibilities.json](./300692-the-simuloid-affair-infinite-possibilities.json) |
+| The Sin of Fabien | 405705 | [405705-the-sin-of-fabien.json](./405705-the-sin-of-fabien.json) |
 | The Sinister Fairground: Horror Adventure Gamebook | 175303 | [175303-the-sinister-fairground-horror-adventure-gamebook.json](./175303-the-sinister-fairground-horror-adventure-gamebook.json) |
 | The Sink Gods | 175884 | [175884-the-sink-gods.json](./175884-the-sink-gods.json) |
 | The Sinking City 2 | 289696 | [289696-the-sinking-city-2.json](./289696-the-sinking-city-2.json) |
@@ -11505,6 +11508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins of the Pasture | 43130 | [43130-twins-of-the-pasture.json](./43130-twins-of-the-pasture.json) |
 | Twinsen's Little Big Adventure Remastered 2 | 241953 | [241953-twinsens-little-big-adventure-remastered-2.json](./241953-twinsens-little-big-adventure-remastered-2.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
+| Twirly Treats | 405721 | [405721-twirly-treats.json](./405721-twirly-treats.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
 | Twist 02: Baruklinting | 214627 | [214627-twist-02-baruklinting.json](./214627-twist-02-baruklinting.json) |
 | Twist It | 342730 | [342730-twist-it.json](./342730-twist-it.json) |
