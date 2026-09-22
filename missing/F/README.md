@@ -513,6 +513,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Calamity | 211826 | [211826-false-calamity.json](./211826-false-calamity.json) |
 | False Flag | 401805 | [401805-false-flag.json](./401805-false-flag.json) |
 | False Front | 97920 | [97920-false-front.json](./97920-false-front.json) |
+| False Fruit | 399201 | [399201-false-fruit.json](./399201-false-fruit.json) |
+| False God | 399172 | [399172-false-god.json](./399172-false-god.json) |
 | False Hero | 275734 | [275734-false-hero.json](./275734-false-hero.json) |
 | False Love: Ghost or Not? | 414444 | [414444-false-love-ghost-or-not.json](./414444-false-love-ghost-or-not.json) |
 | False Positive Paradox | 401006 | [401006-false-positive-paradox.json](./401006-false-positive-paradox.json) |
@@ -1082,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
 | Fatal Fury: City of the Wolves - Deluxe Edition | 329713 | [329713-fatal-fury-city-of-the-wolves-deluxe-edition.json](./329713-fatal-fury-city-of-the-wolves-deluxe-edition.json) |
 | Fatal Fury: City of the Wolves - Ken | 317831 | [317831-fatal-fury-city-of-the-wolves-ken.json](./317831-fatal-fury-city-of-the-wolves-ken.json) |
+| Fatal Fury: City of the Wolves - Legend Edition | 399203 | [399203-fatal-fury-city-of-the-wolves-legend-edition.json](./399203-fatal-fury-city-of-the-wolves-legend-edition.json) |
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
 | Fatal Fury: Wild Ambition | 346147 | [346147-fatal-fury-wild-ambition.json](./346147-fatal-fury-wild-ambition.json) |
 | Fatal Gaming | 417494 | [417494-fatal-gaming.json](./417494-fatal-gaming.json) |
