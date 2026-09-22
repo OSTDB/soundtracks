@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
 | Never Sort By Color | 411710 | [411710-never-sort-by-color.json](./411710-never-sort-by-color.json) |
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
+| Never7: The End of Infinity | 18018 | [18018-never7-the-end-of-infinity.json](./18018-never7-the-end-of-infinity.json) |
 | NeverAwake Flashback | 369062 | [369062-neverawake-flashback.json](./369062-neverawake-flashback.json) |
 | Neverball | 51247 | [51247-neverball.json](./51247-neverball.json) |
 | NeverBound | 90248 | [90248-neverbound.json](./90248-neverbound.json) |
@@ -1727,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningen Tower Battle | 346018 | [346018-ningen-tower-battle.json](./346018-ningen-tower-battle.json) |
 | Ningyou no Kizuato | 255112 | [255112-ningyou-no-kizuato.json](./255112-ningyou-no-kizuato.json) |
 | Ningyou Tsukai | 41407 | [41407-ningyou-tsukai.json](./41407-ningyou-tsukai.json) |
+| Ninja | 12837 | [12837-ninja.json](./12837-ninja.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
 | Ninja Ball | 100192 | [100192-ninja-ball.json](./100192-ninja-ball.json) |
 | Ninja Battle | 204488 | [204488-ninja-battle.json](./204488-ninja-battle.json) |
