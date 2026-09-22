@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratatouille: Food Frenzy | 18296 | [18296-ratatouille-food-frenzy.json](./18296-ratatouille-food-frenzy.json) |
 | Ratatouille: Remy's New Recipes | 70688 | [70688-ratatouille-remys-new-recipes.json](./70688-ratatouille-remys-new-recipes.json) |
 | Ratchet & Clank | 253141 | [253141-ratchet-and-clank.json](./253141-ratchet-and-clank.json) |
+| Ratchet & Clank | 416114 | [416114-ratchet-and-clank.json](./416114-ratchet-and-clank.json) |
 | Ratchet & Clank Collection | 19994 | [19994-ratchet-and-clank-collection.json](./19994-ratchet-and-clank-collection.json) |
 | Ratchet & Clank: A Crack in Time - Collector's Edition | 45276 | [45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json](./45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json) |
 | Ratchet & Clank: Clone Home | 225652 | [225652-ratchet-and-clank-clone-home.json](./225652-ratchet-and-clank-clone-home.json) |
@@ -2358,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rgby | 199473 | [199473-rgby.json](./199473-rgby.json) |
 | RGT Cycling | 138571 | [138571-rgt-cycling.json](./138571-rgt-cycling.json) |
 | RGX Showdown | 109588 | [109588-rgx-showdown.json](./109588-rgx-showdown.json) |
+| Rhapsody in Scarlet | 416111 | [416111-rhapsody-in-scarlet.json](./416111-rhapsody-in-scarlet.json) |
 | Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
 | Rhapsody: Marl Kingdom Chronicles | 234121 | [234121-rhapsody-marl-kingdom-chronicles.json](./234121-rhapsody-marl-kingdom-chronicles.json) |
 | Rhem | 22758 | [22758-rhem.json](./22758-rhem.json) |
