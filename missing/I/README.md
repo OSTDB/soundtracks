@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Fish V | 237654 | [237654-i-am-fish-v.json](./237654-i-am-fish-v.json) |
 | I Am Fly | 166714 | [166714-i-am-fly.json](./166714-i-am-fly.json) |
 | I am Future | 204508 | [204508-i-am-future.json](./204508-i-am-future.json) |
+| I Am Hamster: Simulator | 407583 | [407583-i-am-hamster-simulator.json](./407583-i-am-hamster-simulator.json) |
 | I Am Here, I Won't Disappear. I Am Here, I Won't... | 329547 | [329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json](./329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json) |
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IBM: Cityone, A Smarter Planet Game | 66626 | [66626-ibm-cityone-a-smarter-planet-game.json](./66626-ibm-cityone-a-smarter-planet-game.json) |
 | IBowl | 93983 | [93983-ibowl.json](./93983-ibowl.json) |
 | Ibreak! | 103895 | [103895-ibreak.json](./103895-ibreak.json) |
+| Ibuki Suika Game | 407592 | [407592-ibuki-suika-game.json](./407592-ibuki-suika-game.json) |
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
 | Icarace | 125825 | [125825-icarace.json](./125825-icarace.json) |
