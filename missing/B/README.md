@@ -3796,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Roar 3 | 3824 | [3824-bloody-roar-3.json](./3824-bloody-roar-3.json) |
 | Bloody Steel | 256913 | [256913-bloody-steel.json](./256913-bloody-steel.json) |
 | Bloody Streets | 36069 | [36069-bloody-streets.json](./36069-bloody-streets.json) |
+| Bloody Trapland 2: Curiosity | 28003 | [28003-bloody-trapland-2-curiosity.json](./28003-bloody-trapland-2-curiosity.json) |
 | Bloody Walls: Hardcore | 166222 | [166222-bloody-walls-hardcore.json](./166222-bloody-walls-hardcore.json) |
 | Bloody Walls: Hardcore x2 | 166223 | [166223-bloody-walls-hardcore-x2.json](./166223-bloody-walls-hardcore-x2.json) |
 | Bloody Walls: The Darkness | 166221 | [166221-bloody-walls-the-darkness.json](./166221-bloody-walls-the-darkness.json) |
@@ -4093,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bok-Bok: A Chicken Dating Sim | 148930 | [148930-bok-bok-a-chicken-dating-sim.json](./148930-bok-bok-a-chicken-dating-sim.json) |
 | BoKe Travelog | 292128 | [292128-boke-travelog.json](./292128-boke-travelog.json) |
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
+| Bokida: Heartfelt Reunion | 28189 | [28189-bokida-heartfelt-reunion.json](./28189-bokida-heartfelt-reunion.json) |
 | Boktai 2: Solar Boy Django | 6329 | [6329-boktai-2-solar-boy-django.json](./6329-boktai-2-solar-boy-django.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Tomodachi ga Sukunai Portable | 56491 | [56491-boku-ha-tomodachi-ga-sukunai-portable.json](./56491-boku-ha-tomodachi-ga-sukunai-portable.json) |
