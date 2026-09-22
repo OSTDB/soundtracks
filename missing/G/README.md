@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Augured Homecoming | 398426 | [398426-genshin-impact-augured-homecoming.json](./398426-genshin-impact-augured-homecoming.json) |
 | Genshin Impact: Incandescent Ode of Resurrection | 326604 | [326604-genshin-impact-incandescent-ode-of-resurrection.json](./326604-genshin-impact-incandescent-ode-of-resurrection.json) |
 | Genshin Impact: King Deshret and the Three Magi | 257451 | [257451-genshin-impact-king-deshret-and-the-three-magi.json](./257451-genshin-impact-king-deshret-and-the-three-magi.json) |
+| Genshin Impact: Moonlight Amidst Dreams | 328924 | [328924-genshin-impact-moonlight-amidst-dreams.json](./328924-genshin-impact-moonlight-amidst-dreams.json) |
 | Genshin Impact: Tapestry of Spirit and Flame | 321597 | [321597-genshin-impact-tapestry-of-spirit-and-flame.json](./321597-genshin-impact-tapestry-of-spirit-and-flame.json) |
 | Genshin Impact: The Morn a Thousand Roses Brings | 257449 | [257449-genshin-impact-the-morn-a-thousand-roses-brings.json](./257449-genshin-impact-the-morn-a-thousand-roses-brings.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
@@ -3730,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyakuten Hanafuda | 256331 | [256331-gyakuten-hanafuda.json](./256331-gyakuten-hanafuda.json) |
 | Gyakuten Othellonia | 220312 | [220312-gyakuten-othellonia.json](./220312-gyakuten-othellonia.json) |
 | Gyakuten Puzzle Irekaeru Gyakuten | 256345 | [256345-gyakuten-puzzle-irekaeru-gyakuten.json](./256345-gyakuten-puzzle-irekaeru-gyakuten.json) |
+| Gyakuten Saiban | 221280 | [221280-gyakuten-saiban.json](./221280-gyakuten-saiban.json) |
 | Gyakuten Saiban | 221283 | [221283-gyakuten-saiban.json](./221283-gyakuten-saiban.json) |
 | Gyakuten Saiban 2 | 221289 | [221289-gyakuten-saiban-2.json](./221289-gyakuten-saiban-2.json) |
 | Gyakuten Saiban 3 | 221290 | [221290-gyakuten-saiban-3.json](./221290-gyakuten-saiban-3.json) |
