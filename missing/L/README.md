@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light In Blood | 277003 | [277003-light-in-blood.json](./277003-light-in-blood.json) |
 | Light in the Woods | 343849 | [343849-light-in-the-woods.json](./343849-light-in-the-woods.json) |
 | Light Instinct | 357818 | [357818-light-instinct.json](./357818-light-instinct.json) |
+| Light Leak | 395170 | [395170-light-leak.json](./395170-light-leak.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
 | Light of Gallery | 115596 | [115596-light-of-gallery.json](./115596-light-of-gallery.json) |
