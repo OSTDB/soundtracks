@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christa & Tonyo | 352857 | [352857-christa-and-tonyo.json](./352857-christa-and-tonyo.json) |
 | Christian Matchups | 95423 | [95423-christian-matchups.json](./95423-christian-matchups.json) |
 | Christmas Across America | 417584 | [417584-christmas-across-america.json](./417584-christmas-across-america.json) |
+| Christmas Adventure: Candy Storm | 33159 | [33159-christmas-adventure-candy-storm.json](./33159-christmas-adventure-candy-storm.json) |
 | Christmas Adventures: A Winter Night's Dream | 163921 | [163921-christmas-adventures-a-winter-nights-dream.json](./163921-christmas-adventures-a-winter-nights-dream.json) |
 | Christmas at Marisol Bay | 184047 | [184047-christmas-at-marisol-bay.json](./184047-christmas-at-marisol-bay.json) |
 | Christmas Bazaar: Manager Simulator | 325265 | [325265-christmas-bazaar-manager-simulator.json](./325265-christmas-bazaar-manager-simulator.json) |
@@ -4272,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos: Behind Enemy Lines | 879 | [879-commandos-behind-enemy-lines.json](./879-commandos-behind-enemy-lines.json) |
 | Commandos: Origins | 255936 | [255936-commandos-origins.json](./255936-commandos-origins.json) |
 | Commandos: Origins - Shadows over Crete | 377670 | [377670-commandos-origins-shadows-over-crete.json](./377670-commandos-origins-shadows-over-crete.json) |
+| Commands & Colors: The Great War | 33342 | [33342-commands-and-colors-the-great-war.json](./33342-commands-and-colors-the-great-war.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
 | Common Hanzi Quiz: Simplified Chinese | 101360 | [101360-common-hanzi-quiz-simplified-chinese.json](./101360-common-hanzi-quiz-simplified-chinese.json) |
@@ -5548,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
 | CrazyBus | 9077 | [9077-crazybus.json](./9077-crazybus.json) |
 | CrazyCar | 93612 | [93612-crazycar.json](./93612-crazycar.json) |
+| CrazyCars3D | 33431 | [33431-crazycars3d.json](./33431-crazycars3d.json) |
 | CrazyCubes - Mobile Low Poly Game | 117483 | [117483-crazycubes-mobile-low-poly-game.json](./117483-crazycubes-mobile-low-poly-game.json) |
 | CrazyDoc | 148503 | [148503-crazydoc.json](./148503-crazydoc.json) |
 | CrazyDriving | 107853 | [107853-crazydriving.json](./107853-crazydriving.json) |
