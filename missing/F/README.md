@@ -3957,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freight Hopper | 212880 | [212880-freight-hopper.json](./212880-freight-hopper.json) |
 | Freight Manager | 365742 | [365742-freight-manager.json](./365742-freight-manager.json) |
 | Freight Tycoon | 176891 | [176891-freight-tycoon.json](./176891-freight-tycoon.json) |
+| Freight Tycoon Inc. | 10335 | [10335-freight-tycoon-inc.json](./10335-freight-tycoon-inc.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
 | FrenVania | 143047 | [143047-frenvania.json](./143047-frenvania.json) |
@@ -4217,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Office Football 2004 | 68048 | [68048-front-office-football-2004.json](./68048-front-office-football-2004.json) |
 | Front Office Football: The College Years | 68046 | [68046-front-office-football-the-college-years.json](./68046-front-office-football-the-college-years.json) |
 | Front Office Football: The Fourth Edition | 68050 | [68050-front-office-football-the-fourth-edition.json](./68050-front-office-football-the-fourth-edition.json) |
+| Front Page Sports Football | 10337 | [10337-front-page-sports-football.json](./10337-front-page-sports-football.json) |
 | Front Page Sports: Baseball '94 | 68960 | [68960-front-page-sports-baseball-94.json](./68960-front-page-sports-baseball-94.json) |
 | Front Page Sports: Baseball Pro '98 | 100133 | [100133-front-page-sports-baseball-pro-98.json](./100133-front-page-sports-baseball-pro-98.json) |
 | Front Page Sports: Trophy Bass 2 - Northern Lakes | 68963 | [68963-front-page-sports-trophy-bass-2-northern-lakes.json](./68963-front-page-sports-trophy-bass-2-northern-lakes.json) |
