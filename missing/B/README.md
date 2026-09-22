@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
+| Battlegun | 52276 | [52276-battlegun.json](./52276-battlegun.json) |
 | BattleHeights | 327220 | [327220-battleheights.json](./327220-battleheights.json) |
 | Battlejack | 55074 | [55074-battlejack.json](./55074-battlejack.json) |
 | Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
@@ -2280,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Romance Game Ever | 183996 | [183996-best-romance-game-ever.json](./183996-best-romance-game-ever.json) |
 | Best Solitaire Greatest Hits | 86698 | [86698-best-solitaire-greatest-hits.json](./86698-best-solitaire-greatest-hits.json) |
 | Best Spider Solitaire | 104604 | [104604-best-spider-solitaire.json](./104604-best-spider-solitaire.json) |
+| Best Time Kill | 51476 | [51476-best-time-kill.json](./51476-best-time-kill.json) |
 | Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
 | Bestial Warrior | 47553 | [47553-bestial-warrior.json](./47553-bestial-warrior.json) |
 | Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
@@ -2924,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitBug | 181315 | [181315-bitbug.json](./181315-bitbug.json) |
 | Bitch Hell | 197891 | [197891-bitch-hell.json](./197891-bitch-hell.json) |
 | Bitcoin | 90174 | [90174-bitcoin.json](./90174-bitcoin.json) |
+| Bitcoin Collector | 53209 | [53209-bitcoin-collector.json](./53209-bitcoin-collector.json) |
 | Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
 | Bitcoin highway | 83587 | [83587-bitcoin-highway.json](./83587-bitcoin-highway.json) |
 | Bitcoin Man Clicker | 251654 | [251654-bitcoin-man-clicker.json](./251654-bitcoin-man-clicker.json) |
@@ -4796,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Star | 105868 | [105868-boxing-star.json](./105868-boxing-star.json) |
 | Boxing Surgery Simulator 2000 | 183515 | [183515-boxing-surgery-simulator-2000.json](./183515-boxing-surgery-simulator-2000.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
+| BoxMaker | 52078 | [52078-boxmaker.json](./52078-boxmaker.json) |
 | Boxman Adventures | 203896 | [203896-boxman-adventures.json](./203896-boxman-adventures.json) |
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
 | Boxpast Lov3you | 392301 | [392301-boxpast-lov3you.json](./392301-boxpast-lov3you.json) |
@@ -5397,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
+| Brunhilda and the Dark Crystal | 52490 | [52490-brunhilda-and-the-dark-crystal.json](./52490-brunhilda-and-the-dark-crystal.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brunswick Pro Bowling | 4731 | [4731-brunswick-pro-bowling.json](./4731-brunswick-pro-bowling.json) |
 | Brunswick World: Tournament of Champions | 42596 | [42596-brunswick-world-tournament-of-champions.json](./42596-brunswick-world-tournament-of-champions.json) |
@@ -6033,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Ryoku Kentei DS | 70410 | [70410-business-ryoku-kentei-ds.json](./70410-business-ryoku-kentei-ds.json) |
 | Business Superstar Idle Tycoon | 262346 | [262346-business-superstar-idle-tycoon.json](./262346-business-superstar-idle-tycoon.json) |
 | Business Tycoon | 12409 | [12409-business-tycoon.json](./12409-business-tycoon.json) |
+| BusinessMan | 52066 | [52066-businessman.json](./52066-businessman.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
 | Businessman Simulator 3 | 402973 | [402973-businessman-simulator-3.json](./402973-businessman-simulator-3.json) |
 | Businessmen | 301398 | [301398-businessmen.json](./301398-businessmen.json) |
