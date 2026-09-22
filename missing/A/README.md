@@ -2969,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Bubble Pop | 75812 | [75812-anime-bubble-pop.json](./75812-anime-bubble-pop.json) |
 | Anime Catgirl Runner | 224759 | [224759-anime-catgirl-runner.json](./224759-anime-catgirl-runner.json) |
 | Anime Christmas Uni | 380395 | [380395-anime-christmas-uni.json](./380395-anime-christmas-uni.json) |
+| Anime Codex: Triple Pleasure | 412566 | [412566-anime-codex-triple-pleasure.json](./412566-anime-codex-triple-pleasure.json) |
 | Anime Dance-Off: Ghost Party | 319781 | [319781-anime-dance-off-ghost-party.json](./319781-anime-dance-off-ghost-party.json) |
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
