@@ -3672,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Billy | 295397 | [295397-silly-billy.json](./295397-silly-billy.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
+| Silly Sausage Buffet | 411842 | [411842-silly-sausage-buffet.json](./411842-silly-sausage-buffet.json) |
 | Silly Scribbles | 285965 | [285965-silly-scribbles.json](./285965-silly-scribbles.json) |
 | Silly Skateboarding | 180698 | [180698-silly-skateboarding.json](./180698-silly-skateboarding.json) |
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
@@ -5760,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Ultimate | 89162 | [89162-solitaire-ultimate.json](./89162-solitaire-ultimate.json) |
 | Solitaire Ultra | 55520 | [55520-solitaire-ultra.json](./55520-solitaire-ultra.json) |
 | Solitaire Valentine's Day 2 | 89237 | [89237-solitaire-valentines-day-2.json](./89237-solitaire-valentines-day-2.json) |
+| Solitaire World: Anime Waifus | 411822 | [411822-solitaire-world-anime-waifus.json](./411822-solitaire-world-anime-waifus.json) |
 | Solitaire XXX | 93375 | [93375-solitaire-xxx.json](./93375-solitaire-xxx.json) |
 | Solitaire: Beautiful Garden Season | 199579 | [199579-solitaire-beautiful-garden-season.json](./199579-solitaire-beautiful-garden-season.json) |
 | Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
@@ -9750,6 +9752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Artist Simulator | 211270 | [211270-street-artist-simulator.json](./211270-street-artist-simulator.json) |
 | Street Basket Challenge | 236833 | [236833-street-basket-challenge.json](./236833-street-basket-challenge.json) |
 | Street Basketball Superstars | 227371 | [227371-street-basketball-superstars.json](./227371-street-basketball-superstars.json) |
+| Street Basketball: Premium Edition | 411839 | [411839-street-basketball-premium-edition.json](./411839-street-basketball-premium-edition.json) |
 | Street Beat | 69836 | [69836-street-beat.json](./69836-street-beat.json) |
 | Street Bike: Full Blast HD | 20742 | [20742-street-bike-full-blast-hd.json](./20742-street-bike-full-blast-hd.json) |
 | Street Boss | 370180 | [370180-street-boss.json](./370180-street-boss.json) |
