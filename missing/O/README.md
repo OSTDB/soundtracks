@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oncoming Death Steam Edition | 36377 | [36377-oncoming-death-steam-edition.json](./36377-oncoming-death-steam-edition.json) |
 | OncPangTzu Man | 116341 | [116341-oncpangtzu-man.json](./116341-oncpangtzu-man.json) |
 | Ondal | 345022 | [345022-ondal.json](./345022-ondal.json) |
+| One | 78060 | [78060-one.json](./78060-one.json) |
 | One Bear Army | 272275 | [272275-one-bear-army.json](./272275-one-bear-army.json) |
 | One Bit | 48007 | [48007-one-bit.json](./48007-one-bit.json) |
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
@@ -794,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Giant Leap | 31735 | [31735-one-giant-leap.json](./31735-one-giant-leap.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Goal Spirit | 80493 | [80493-one-goal-spirit.json](./80493-one-goal-spirit.json) |
+| One Hand Clapping | 103408 | [103408-one-hand-clapping.json](./103408-one-hand-clapping.json) |
 | One Hell of a Ride | 218562 | [218562-one-hell-of-a-ride.json](./218562-one-hell-of-a-ride.json) |
 | One Hell of a Trip | 151553 | [151553-one-hell-of-a-trip.json](./151553-one-hell-of-a-trip.json) |
 | One Hell of a Turnabout | 310419 | [310419-one-hell-of-a-turnabout.json](./310419-one-hell-of-a-turnabout.json) |
@@ -1675,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 12 | 65480 | [65480-out-of-the-park-baseball-12.json](./65480-out-of-the-park-baseball-12.json) |
 | Out of the Park Baseball 13 | 64368 | [64368-out-of-the-park-baseball-13.json](./64368-out-of-the-park-baseball-13.json) |
 | Out of the Park Baseball 14 | 24278 | [24278-out-of-the-park-baseball-14.json](./24278-out-of-the-park-baseball-14.json) |
+| Out of the Park Baseball 20 | 115688 | [115688-out-of-the-park-baseball-20.json](./115688-out-of-the-park-baseball-20.json) |
 | Out of the Park Baseball 21 | 130326 | [130326-out-of-the-park-baseball-21.json](./130326-out-of-the-park-baseball-21.json) |
 | Out of the Park Baseball 22 | 142888 | [142888-out-of-the-park-baseball-22.json](./142888-out-of-the-park-baseball-22.json) |
 | Out of the Park Baseball 25 | 287086 | [287086-out-of-the-park-baseball-25.json](./287086-out-of-the-park-baseball-25.json) |
