@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alkali | 154412 | [154412-alkali.json](./154412-alkali.json) |
 | Alkey the Brave | 226214 | [226214-alkey-the-brave.json](./226214-alkey-the-brave.json) |
 | Alkimya: House of Wisdom | 415155 | [415155-alkimya-house-of-wisdom.json](./415155-alkimya-house-of-wisdom.json) |
+| All 9 Lives | 408271 | [408271-all-9-lives.json](./408271-all-9-lives.json) |
 | All Aboard! The Train Defense Express | 337454 | [337454-all-aboard-the-train-defense-express.json](./337454-all-aboard-the-train-defense-express.json) |
 | All About America | 14245 | [14245-all-about-america.json](./14245-all-about-america.json) |
 | All About Maze | 326237 | [326237-all-about-maze.json](./326237-all-about-maze.json) |
@@ -2613,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
 | Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
+| Anchored Alone | 408269 | [408269-anchored-alone.json](./408269-anchored-alone.json) |
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
 | Ancient | 371889 | [371889-ancient.json](./371889-ancient.json) |
 | Ancient Adventure | 406222 | [406222-ancient-adventure.json](./406222-ancient-adventure.json) |
@@ -4023,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardent Azur | 211442 | [211442-ardent-azur.json](./211442-ardent-azur.json) |
 | Ardent Fever | 316980 | [316980-ardent-fever.json](./316980-ardent-fever.json) |
 | Ardent Seas | 146258 | [146258-ardent-seas.json](./146258-ardent-seas.json) |
+| Ardent: Rise | 408274 | [408274-ardent-rise.json](./408274-ardent-rise.json) |
 | Ardilous | 183523 | [183523-ardilous.json](./183523-ardilous.json) |
 | Ardor 2 | 365175 | [365175-ardor-2.json](./365175-ardor-2.json) |
 | Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
@@ -4505,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
 | As Long As We're Together: Magical Girls Sweet & Pure | 135055 | [135055-as-long-as-were-together-magical-girls-sweet-and-pure.json](./135055-as-long-as-were-together-magical-girls-sweet-and-pure.json) |
 | As Per My Last Email | 314868 | [314868-as-per-my-last-email.json](./314868-as-per-my-last-email.json) |
+| AS Rabbie Aizouban | 408265 | [408265-as-rabbie-aizouban.json](./408265-as-rabbie-aizouban.json) |
 | As simple as it could get | 211411 | [211411-as-simple-as-it-could-get.json](./211411-as-simple-as-it-could-get.json) |
 | As Sweetberry Falls | 379882 | [379882-as-sweetberry-falls.json](./379882-as-sweetberry-falls.json) |
 | As We Know It | 99094 | [99094-as-we-know-it.json](./99094-as-we-know-it.json) |
@@ -4548,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asdivine Dios | 38981 | [38981-asdivine-dios.json](./38981-asdivine-dios.json) |
 | Asdivine Hearts I & II | 196276 | [196276-asdivine-hearts-i-and-ii.json](./196276-asdivine-hearts-i-and-ii.json) |
 | Asdivine Menace | 38980 | [38980-asdivine-menace.json](./38980-asdivine-menace.json) |
+| ASDVD: Umareta Bakari no Love Song | 408250 | [408250-asdvd-umareta-bakari-no-love-song.json](./408250-asdvd-umareta-bakari-no-love-song.json) |
 | Ase Online | 379349 | [379349-ase-online.json](./379349-ase-online.json) |
 | Aselia the Eternal: The Spirit of Eternity Sword | 33476 | [33476-aselia-the-eternal-the-spirit-of-eternity-sword.json](./33476-aselia-the-eternal-the-spirit-of-eternity-sword.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
