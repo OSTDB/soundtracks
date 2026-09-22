@@ -2913,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animation Hangman | 117024 | [117024-animation-hangman.json](./117024-animation-hangman.json) |
 | Animators Hell | 159134 | [159134-animators-hell.json](./159134-animators-hell.json) |
 | Animdle | 337097 | [337097-animdle.json](./337097-animdle.json) |
+| Anime and Your Life | 111778 | [111778-anime-and-your-life.json](./111778-anime-and-your-life.json) |
 | Anime Artist | 280177 | [280177-anime-artist.json](./280177-anime-artist.json) |
 | Anime Artist 3: Harem | 158160 | [158160-anime-artist-3-harem.json](./158160-anime-artist-3-harem.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
@@ -3475,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua TV | 80908 | [80908-aqua-tv.json](./80908-aqua-tv.json) |
 | Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
 | AquaBlitz: Alien Racer | 298689 | [298689-aquablitz-alien-racer.json](./298689-aquablitz-alien-racer.json) |
+| Aquaculture Land: Fish Farming Simulation | 111859 | [111859-aquaculture-land-fish-farming-simulation.json](./111859-aquaculture-land-fish-farming-simulation.json) |
 | Aquaculture Simulator | 413032 | [413032-aquaculture-simulator.json](./413032-aquaculture-simulator.json) |
 | Aquadelic GT | 17807 | [17807-aquadelic-gt.json](./17807-aquadelic-gt.json) |
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
@@ -4777,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astoria Legends: Red Moon | 159145 | [159145-astoria-legends-red-moon.json](./159145-astoria-legends-red-moon.json) |
 | Astoria VR | 201250 | [201250-astoria-vr.json](./201250-astoria-vr.json) |
 | Astra Etherium | 61027 | [61027-astra-etherium.json](./61027-astra-etherium.json) |
+| Astra Exodus | 111693 | [111693-astra-exodus.json](./111693-astra-exodus.json) |
 | Astra GalaxyX | 399615 | [399615-astra-galaxyx.json](./399615-astra-galaxyx.json) |
 | Astra Intra | 258001 | [258001-astra-intra.json](./258001-astra-intra.json) |
 | Astra Itinera | 175262 | [175262-astra-itinera.json](./175262-astra-itinera.json) |
@@ -4789,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
 | Astraeus | 101636 | [101636-astraeus.json](./101636-astraeus.json) |
 | Astragali | 330861 | [330861-astragali.json](./330861-astragali.json) |
+| Astral | 111566 | [111566-astral.json](./111566-astral.json) |
 | Astral | 14273 | [14273-astral.json](./14273-astral.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
