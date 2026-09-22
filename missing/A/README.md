@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
+| AH-64D Longbow | 592 | [592-ah-64d-longbow.json](./592-ah-64d-longbow.json) |
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
@@ -3283,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
 | Aotu World | 241502 | [241502-aotu-world.json](./241502-aotu-world.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
+| Apache | 600 | [600-apache.json](./600-apache.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
 | Apano Sin | 14259 | [14259-apano-sin.json](./14259-apano-sin.json) |
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
