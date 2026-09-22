@@ -2765,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
 | Lost Lands: Stories About the Sorceress, the Prince and the Minotaur - Collector's Edition | 416618 | [416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json](./416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json) |
 | Lost Lands: Stories of the First Brotherhood | 290430 | [290430-lost-lands-stories-of-the-first-brotherhood.json](./290430-lost-lands-stories-of-the-first-brotherhood.json) |
+| Lost Lands: The Four Horsemen | 35164 | [35164-lost-lands-the-four-horsemen.json](./35164-lost-lands-the-four-horsemen.json) |
 | Lost Legions | 304719 | [304719-lost-legions.json](./304719-lost-legions.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
@@ -3290,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Legend | 13907 | [13907-lunar-legend.json](./13907-lunar-legend.json) |
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
+| Lunar Rescue | 40007 | [40007-lunar-rescue.json](./40007-lunar-rescue.json) |
 | Lunar Rescue Mission | 197755 | [197755-lunar-rescue-mission.json](./197755-lunar-rescue-mission.json) |
 | Lunar Resilience | 302918 | [302918-lunar-resilience.json](./302918-lunar-resilience.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
