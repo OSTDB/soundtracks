@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Villy | 101389 | [101389-save-the-villy.json](./101389-save-the-villy.json) |
 | Save the Whales | 22762 | [22762-save-the-whales.json](./22762-save-the-whales.json) |
 | Save Them | 106536 | [106536-save-them.json](./106536-save-them.json) |
+| Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | Saviner | 383524 | [383524-saviner.json](./383524-saviner.json) |
