@@ -2938,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm | 366923 | [366923-worm.json](./366923-worm.json) |
 | Worm 2000 | 74069 | [74069-worm-2000.json](./74069-worm-2000.json) |
 | Worm AR | 234597 | [234597-worm-ar.json](./234597-worm-ar.json) |
+| Worm Capitalist | 413872 | [413872-worm-capitalist.json](./413872-worm-capitalist.json) |
 | Worm Dungeon | 135878 | [135878-worm-dungeon.json](./135878-worm-dungeon.json) |
 | Worm Game | 231396 | [231396-worm-game.json](./231396-worm-game.json) |
 | Worm Goes to Hell | 216820 | [216820-worm-goes-to-hell.json](./216820-worm-goes-to-hell.json) |
@@ -3115,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
 | Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
+| Wunkfall | 413887 | [413887-wunkfall.json](./413887-wunkfall.json) |
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
