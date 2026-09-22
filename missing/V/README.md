@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Hills | 12080 | [12080-valhalla-hills.json](./12080-valhalla-hills.json) |
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla Knights | 20073 | [20073-valhalla-knights.json](./20073-valhalla-knights.json) |
+| Valhalla Knights 2 | 20071 | [20071-valhalla-knights-2.json](./20071-valhalla-knights-2.json) |
 | Valhalla Knights 3 | 20072 | [20072-valhalla-knights-3.json](./20072-valhalla-knights-3.json) |
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
