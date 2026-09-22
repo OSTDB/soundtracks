@@ -2972,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Christmas Uni | 380395 | [380395-anime-christmas-uni.json](./380395-anime-christmas-uni.json) |
 | Anime Codex: Shy Girls | 411808 | [411808-anime-codex-shy-girls.json](./411808-anime-codex-shy-girls.json) |
 | Anime Codex: Triple Pleasure | 412566 | [412566-anime-codex-triple-pleasure.json](./412566-anime-codex-triple-pleasure.json) |
+| Anime Codex: Whispered Lips | 411150 | [411150-anime-codex-whispered-lips.json](./411150-anime-codex-whispered-lips.json) |
 | Anime Dance-Off: Ghost Party | 319781 | [319781-anime-dance-off-ghost-party.json](./319781-anime-dance-off-ghost-party.json) |
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
@@ -3653,9 +3654,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Apocalypse Bundle | 99559 | [99559-arcade-apocalypse-bundle.json](./99559-arcade-apocalypse-bundle.json) |
 | Arcade Archives 2: Adventure Canoe | 392764 | [392764-arcade-archives-2-adventure-canoe.json](./392764-arcade-archives-2-adventure-canoe.json) |
 | Arcade Archives 2: Aqua Jet | 361238 | [361238-arcade-archives-2-aqua-jet.json](./361238-arcade-archives-2-aqua-jet.json) |
+| Arcade Archives 2: Armadillo Racing | 411154 | [411154-arcade-archives-2-armadillo-racing.json](./411154-arcade-archives-2-armadillo-racing.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
 | Arcade Archives 2: Moon Shuttle | 408159 | [408159-arcade-archives-2-moon-shuttle.json](./408159-arcade-archives-2-moon-shuttle.json) |
+| Arcade Archives 2: Mouser | 411153 | [411153-arcade-archives-2-mouser.json](./411153-arcade-archives-2-mouser.json) |
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
 | Arcade Archives 2: Pinball Action | 413936 | [413936-arcade-archives-2-pinball-action.json](./413936-arcade-archives-2-pinball-action.json) |
 | Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
@@ -3668,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Alpha Mission | 111459 | [111459-arcade-archives-alpha-mission.json](./111459-arcade-archives-alpha-mission.json) |
 | Arcade Archives: Aqua Jet | 361237 | [361237-arcade-archives-aqua-jet.json](./361237-arcade-archives-aqua-jet.json) |
 | Arcade Archives: Ark Area | 121425 | [121425-arcade-archives-ark-area.json](./121425-arcade-archives-ark-area.json) |
+| Arcade Archives: Armadillo Racing | 411152 | [411152-arcade-archives-armadillo-racing.json](./411152-arcade-archives-armadillo-racing.json) |
 | Arcade Archives: Armed F | 99546 | [99546-arcade-archives-armed-f.json](./99546-arcade-archives-armed-f.json) |
 | Arcade Archives: Atomic Robo-Kid | 121428 | [121428-arcade-archives-atomic-robo-kid.json](./121428-arcade-archives-atomic-robo-kid.json) |
 | Arcade Archives: Bells & Whistles | 129192 | [129192-arcade-archives-bells-and-whistles.json](./129192-arcade-archives-bells-and-whistles.json) |
