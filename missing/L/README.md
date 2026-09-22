@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
 | Lands of Rage | 211821 | [211821-lands-of-rage.json](./211821-lands-of-rage.json) |
 | Lands of Yocta | 181212 | [181212-lands-of-yocta.json](./181212-lands-of-yocta.json) |
+| LandScape | 396571 | [396571-landscape.json](./396571-landscape.json) |
 | Landscaper Simulator | 406691 | [406691-landscaper-simulator.json](./406691-landscaper-simulator.json) |
 | Landscapes | 90390 | [90390-landscapes.json](./90390-landscapes.json) |
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
@@ -2732,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
+| Los Reinos de Aethermoor | 396577 | [396577-los-reinos-de-aethermoor.json](./396577-los-reinos-de-aethermoor.json) |
 | Lose Control | 178632 | [178632-lose-control.json](./178632-lose-control.json) |
 | Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
 | Lose Your Marbles | 362334 | [362334-lose-your-marbles.json](./362334-lose-your-marbles.json) |
