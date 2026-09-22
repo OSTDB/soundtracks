@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries 3: The Lantern of Souls | 87664 | [87664-new-york-mysteries-3-the-lantern-of-souls.json](./87664-new-york-mysteries-3-the-lantern-of-souls.json) |
 | New York Mysteries: High Voltage | 34697 | [34697-new-york-mysteries-high-voltage.json](./34697-new-york-mysteries-high-voltage.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
+| New York Mysteries: Secrets of the Mafia | 35163 | [35163-new-york-mysteries-secrets-of-the-mafia.json](./35163-new-york-mysteries-secrets-of-the-mafia.json) |
 | New York Nights 2: Friends For Life | 264134 | [264134-new-york-nights-2-friends-for-life.json](./264134-new-york-nights-2-friends-for-life.json) |
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
 | New York Taxi Simulator | 33444 | [33444-new-york-taxi-simulator.json](./33444-new-york-taxi-simulator.json) |
@@ -1270,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Stop 3 | 115593 | [115593-next-stop-3.json](./115593-next-stop-3.json) |
 | Next Stop Mobile | 197855 | [197855-next-stop-mobile.json](./197855-next-stop-mobile.json) |
 | Next Stop Zombie | 72364 | [72364-next-stop-zombie.json](./72364-next-stop-zombie.json) |
+| Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
 | Nextbots In The Backrooms | 265729 | [265729-nextbots-in-the-backrooms.json](./265729-nextbots-in-the-backrooms.json) |
 | NextRev: Eibunpou Tettei Tokkun | 64944 | [64944-nextrev-eibunpou-tettei-tokkun.json](./64944-nextrev-eibunpou-tettei-tokkun.json) |
 | NextRev: FP Ginoukentei Shiken 2-Kyuu | 64941 | [64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json](./64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json) |
@@ -1296,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
 | NFL Blitz 2000 | 4366 | [4366-nfl-blitz-2000.json](./4366-nfl-blitz-2000.json) |
 | NFL Blitz 2000: Gold Edition | 39598 | [39598-nfl-blitz-2000-gold-edition.json](./39598-nfl-blitz-2000-gold-edition.json) |
+| NFL Blitz 2003 | 47365 | [47365-nfl-blitz-2003.json](./47365-nfl-blitz-2003.json) |
 | NFL Blitz 99 | 39599 | [39599-nfl-blitz-99.json](./39599-nfl-blitz-99.json) |
 | NFL Blitz Pro | 47337 | [47337-nfl-blitz-pro.json](./47337-nfl-blitz-pro.json) |
 | NFL Coaches Club Football | 82801 | [82801-nfl-coaches-club-football.json](./82801-nfl-coaches-club-football.json) |
@@ -2060,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Time Left | 385729 | [385729-no-time-left.json](./385729-no-time-left.json) |
 | No Time to Build | 337484 | [337484-no-time-to-build.json](./337484-no-time-to-build.json) |
 | No Time to Explain | 9560 | [9560-no-time-to-explain.json](./9560-no-time-to-explain.json) |
+| No Time to Live | 34550 | [34550-no-time-to-live.json](./34550-no-time-to-live.json) |
 | No Time to Relax | 111370 | [111370-no-time-to-relax.json](./111370-no-time-to-relax.json) |
 | No toilet paper!! | 151682 | [151682-no-toilet-paper.json](./151682-no-toilet-paper.json) |
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
