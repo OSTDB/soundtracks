@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Escape: Nine Hours, Nine Persons, Nine Doors | 319754 | [319754-zero-escape-nine-hours-nine-persons-nine-doors.json](./319754-zero-escape-nine-hours-nine-persons-nine-doors.json) |
 | Zero Escape: Zero Time Dilemma - Limited Watch Bonus Edition | 89890 | [89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json](./89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json) |
 | Zero Fighter | 385714 | [385714-zero-fighter.json](./385714-zero-fighter.json) |
+| Zero Fill | 418733 | [418733-zero-fill.json](./418733-zero-fill.json) |
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
 | Zero Gravity | 229795 | [229795-zero-gravity.json](./229795-zero-gravity.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
@@ -275,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Team USA | 40207 | [40207-zero-team-usa.json](./40207-zero-team-usa.json) |
 | Zero the Kamikaze Squirrel | 38405 | [38405-zero-the-kamikaze-squirrel.json](./38405-zero-the-kamikaze-squirrel.json) |
 | Zero to Hero | 235325 | [235325-zero-to-hero.json](./235325-zero-to-hero.json) |
+| Zero to South | 418664 | [418664-zero-to-south.json](./418664-zero-to-south.json) |
 | Zero Velocity | 176984 | [176984-zero-velocity.json](./176984-zero-velocity.json) |
 | Zero Volt X | 176960 | [176960-zero-volt-x.json](./176960-zero-volt-x.json) |
 | Zero World | 211216 | [211216-zero-world.json](./211216-zero-world.json) |
@@ -337,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhūtiān Jì | 157534 | [157534-zhutian-ji.json](./157534-zhutian-ji.json) |
 | ZI Survival | 220735 | [220735-zi-survival.json](./220735-zi-survival.json) |
 | Zì Xī Cú Dōng | 163846 | [163846-zi-xi-cu-dong.json](./163846-zi-xi-cu-dong.json) |
+| Zi´s Mansion | 418744 | [418744-zi-s-mansion.json](./418744-zi-s-mansion.json) |
 | Ziba | 22360 | [22360-ziba.json](./22360-ziba.json) |
 | Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
