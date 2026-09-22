@@ -2742,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nylos | 335362 | [335362-nylos.json](./335362-nylos.json) |
 | Nympho's Path | 208450 | [208450-nymphos-path.json](./208450-nymphos-path.json) |
 | Nymphomania Paradox | 82784 | [82784-nymphomania-paradox.json](./82784-nymphomania-paradox.json) |
+| Nyorols | 399180 | [399180-nyorols.json](./399180-nyorols.json) |
 | Nyra: The Fall of Light | 390097 | [390097-nyra-the-fall-of-light.json](./390097-nyra-the-fall-of-light.json) |
 | NYT Crossplay: Play and Spell | 387535 | [387535-nyt-crossplay-play-and-spell.json](./387535-nyt-crossplay-play-and-spell.json) |
 | NYT Games | 280218 | [280218-nyt-games.json](./280218-nyt-games.json) |
