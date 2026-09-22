@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
+| Lights Out | 393161 | [393161-lights-out.json](./393161-lights-out.json) |
 | Lights, Camera, Party! | 52543 | [52543-lights-camera-party.json](./52543-lights-camera-party.json) |
 | Lightslayer | 127784 | [127784-lightslayer.json](./127784-lightslayer.json) |
 | Lightspeed | 77325 | [77325-lightspeed.json](./77325-lightspeed.json) |
@@ -3284,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LuckyWheel | 326276 | [326276-luckywheel.json](./326276-luckywheel.json) |
 | Luctus | 263781 | [263781-luctus.json](./263781-luctus.json) |
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
+| Lucy Gorbalm Is Missing | 393163 | [393163-lucy-gorbalm-is-missing.json](./393163-lucy-gorbalm-is-missing.json) |
 | Lucy Half Lucid | 408169 | [408169-lucy-half-lucid.json](./408169-lucy-half-lucid.json) |
 | Lucy's Journey | 258735 | [258735-lucys-journey.json](./258735-lucys-journey.json) |
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
