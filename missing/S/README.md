@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.R.V.E. | 410263 | [410263-s-t-a-r-v-e.json](./410263-s-t-a-r-v-e.json) |
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
 | S.T.R.E.T.C.H. | 100566 | [100566-s-t-r-e-t-c-h.json](./100566-s-t-r-e-t-c-h.json) |
+| S.T.U.N. Runner | 12368 | [12368-s-t-u-n-runner.json](./12368-s-t-u-n-runner.json) |
 | S.U.M. Slay Uncool Monsters: Archer | 168247 | [168247-s-u-m-slay-uncool-monsters-archer.json](./168247-s-u-m-slay-uncool-monsters-archer.json) |
 | S.U.M. Slay Uncool Monsters: Assassin | 168248 | [168248-s-u-m-slay-uncool-monsters-assassin.json](./168248-s-u-m-slay-uncool-monsters-assassin.json) |
 | S.U.M. Slay Uncool Monsters: Paladin | 168250 | [168250-s-u-m-slay-uncool-monsters-paladin.json](./168250-s-u-m-slay-uncool-monsters-paladin.json) |
@@ -6822,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shrooms RollPlay | 219588 | [219588-space-shrooms-rollplay.json](./219588-space-shrooms-rollplay.json) |
 | Space Shuttle | 346100 | [346100-space-shuttle.json](./346100-space-shuttle.json) |
 | Space Shuttle Mission 2007 | 65180 | [65180-space-shuttle-mission-2007.json](./65180-space-shuttle-mission-2007.json) |
+| Space Shuttle: A Journey Into Space | 12318 | [12318-space-shuttle-a-journey-into-space.json](./12318-space-shuttle-a-journey-into-space.json) |
 | Space Simulation Toolkit | 345585 | [345585-space-simulation-toolkit.json](./345585-space-simulation-toolkit.json) |
 | Space Slingshot VR | 95198 | [95198-space-slingshot-vr.json](./95198-space-slingshot-vr.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
@@ -8483,6 +8485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardew Valley: Collector's Edition | 42895 | [42895-stardew-valley-collectors-edition.json](./42895-stardew-valley-collectors-edition.json) |
 | Stardoll Dress Up Blog Stars | 357220 | [357220-stardoll-dress-up-blog-stars.json](./357220-stardoll-dress-up-blog-stars.json) |
 | Stardom 2000 | 380431 | [380431-stardom-2000.json](./380431-stardom-2000.json) |
+| StarDrive 2 | 13660 | [13660-stardrive-2.json](./13660-stardrive-2.json) |
 | StarDrone Extreme | 20815 | [20815-stardrone-extreme.json](./20815-stardrone-extreme.json) |
 | StarDroneVR | 105983 | [105983-stardronevr.json](./105983-stardronevr.json) |
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
