@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Taste | 271817 | [271817-deaths-taste.json](./271817-deaths-taste.json) |
 | Deathball | 182452 | [182452-deathball.json](./182452-deathball.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
+| Deathbound | 135796 | [135796-deathbound.json](./135796-deathbound.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
 | Deathbulge: Battle of the Bands | 114778 | [114778-deathbulge-battle-of-the-bands.json](./114778-deathbulge-battle-of-the-bands.json) |
 | Deathchase 2002 | 71775 | [71775-deathchase-2002.json](./71775-deathchase-2002.json) |
@@ -4257,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 313161 | [313161-doom.json](./313161-doom.json) |
 | Doom & Destiny | 13168 | [13168-doom-and-destiny.json](./13168-doom-and-destiny.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
+| Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
@@ -6075,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Zombies | 125215 | [125215-dungeons-and-zombies.json](./125215-dungeons-and-zombies.json) |
 | Dungeons 2: A Clash of Pumpkins | 138050 | [138050-dungeons-2-a-clash-of-pumpkins.json](./138050-dungeons-2-a-clash-of-pumpkins.json) |
 | Dungeons 3: An Unexpected DLC | 115420 | [115420-dungeons-3-an-unexpected-dlc.json](./115420-dungeons-3-an-unexpected-dlc.json) |
+| Dungeons 3: Complete Collection | 136320 | [136320-dungeons-3-complete-collection.json](./136320-dungeons-3-complete-collection.json) |
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
