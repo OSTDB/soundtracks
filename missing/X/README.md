@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Mutation | 290924 | [290924-x-mutation.json](./290924-x-mutation.json) |
 | X Operations | 67954 | [67954-x-operations.json](./67954-x-operations.json) |
 | X Rebirth | 3347 | [3347-x-rebirth.json](./3347-x-rebirth.json) |
+| X Rebirth: VR Edition | 52251 | [52251-x-rebirth-vr-edition.json](./52251-x-rebirth-vr-edition.json) |
 | X Rock | 95380 | [95380-x-rock.json](./95380-x-rock.json) |
 | X S.E.E.D. | 62716 | [62716-x-s-e-e-d.json](./62716-x-s-e-e-d.json) |
 | X Simulator Drone | 312171 | [312171-x-simulator-drone.json](./312171-x-simulator-drone.json) |
@@ -184,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xena: Warrior Princess - Death in Chains | 205822 | [205822-xena-warrior-princess-death-in-chains.json](./205822-xena-warrior-princess-death-in-chains.json) |
 | Xena: Warrior Princess - Girls Just Wanna Have Fun | 205823 | [205823-xena-warrior-princess-girls-just-wanna-have-fun.json](./205823-xena-warrior-princess-girls-just-wanna-have-fun.json) |
 | Xena: Warrior Princess - The Talisman of Fate | 3647 | [3647-xena-warrior-princess-the-talisman-of-fate.json](./3647-xena-warrior-princess-the-talisman-of-fate.json) |
+| Xenia | 53098 | [53098-xenia.json](./53098-xenia.json) |
 | Xenia is Online | 403680 | [403680-xenia-is-online.json](./403680-xenia-is-online.json) |
 | Xenic | 74059 | [74059-xenic.json](./74059-xenic.json) |
 | Xenimus | 66968 | [66968-xenimus.json](./66968-xenimus.json) |
