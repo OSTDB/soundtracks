@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes: Operation Stranglehold | 334666 | [334666-echoes-operation-stranglehold.json](./334666-echoes-operation-stranglehold.json) |
 | Echoes: Season 1 - Greenhearth | 366902 | [366902-echoes-season-1-greenhearth.json](./366902-echoes-season-1-greenhearth.json) |
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
+| Echoplex | 25237 | [25237-echoplex.json](./25237-echoplex.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
 | Echostasis | 155512 | [155512-echostasis.json](./155512-echostasis.json) |
 | Echoveil: The Last Guest | 351708 | [351708-echoveil-the-last-guest.json](./351708-echoveil-the-last-guest.json) |
@@ -1803,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Kids | 39867 | [39867-escape-kids.json](./39867-escape-kids.json) |
 | Escape Lala 2 | 118370 | [118370-escape-lala-2.json](./118370-escape-lala-2.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
+| Escape Machines | 26823 | [26823-escape-machines.json](./26823-escape-machines.json) |
 | Escape Memoirs: Mini Stories - Bunker Scenario | 235840 | [235840-escape-memoirs-mini-stories-bunker-scenario.json](./235840-escape-memoirs-mini-stories-bunker-scenario.json) |
 | Escape Memoirs: Questionable Side Stories | 247615 | [247615-escape-memoirs-questionable-side-stories.json](./247615-escape-memoirs-questionable-side-stories.json) |
 | Escape Mystery-The Dark Fence | 237368 | [237368-escape-mystery-the-dark-fence.json](./237368-escape-mystery-the-dark-fence.json) |
