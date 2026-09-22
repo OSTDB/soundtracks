@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena Toshinden 2 | 1414 | [1414-battle-arena-toshinden-2.json](./1414-battle-arena-toshinden-2.json) |
 | Battle Arena Toshinden 2 Plus | 225276 | [225276-battle-arena-toshinden-2-plus.json](./225276-battle-arena-toshinden-2-plus.json) |
 | Battle Arena Toshinden 3 | 1415 | [1415-battle-arena-toshinden-3.json](./1415-battle-arena-toshinden-3.json) |
+| Battle Arena Toshinden URA: Ultimate Revenge Attack | 77987 | [77987-battle-arena-toshinden-ura-ultimate-revenge-attack.json](./77987-battle-arena-toshinden-ura-ultimate-revenge-attack.json) |
 | Battle Arena: Robot Apocalypse | 148886 | [148886-battle-arena-robot-apocalypse.json](./148886-battle-arena-robot-apocalypse.json) |
 | Battle Army | 81212 | [81212-battle-army.json](./81212-battle-army.json) |
 | Battle Axe & Final Vendetta Bundle | 311110 | [311110-battle-axe-and-final-vendetta-bundle.json](./311110-battle-axe-and-final-vendetta-bundle.json) |
@@ -1518,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlejack | 55074 | [55074-battlejack.json](./55074-battlejack.json) |
 | Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
 | BattleLand: Warrior vs. Monster | 263574 | [263574-battleland-warrior-vs-monster.json](./263574-battleland-warrior-vs-monster.json) |
+| Battlelands Royale | 104311 | [104311-battlelands-royale.json](./104311-battlelands-royale.json) |
 | Battlemals | 26695 | [26695-battlemals.json](./26695-battlemals.json) |
 | Battlemaster | 11947 | [11947-battlemaster.json](./11947-battlemaster.json) |
 | BattleMaster | 172045 | [172045-battlemaster.json](./172045-battlemaster.json) |
@@ -5843,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Angels | 266889 | [266889-burning-angels.json](./266889-burning-angels.json) |
 | Burning Angels | 37719 | [37719-burning-angels.json](./37719-burning-angels.json) |
 | Burning Calories | 255148 | [255148-burning-calories.json](./255148-burning-calories.json) |
+| Burning Daylight | 116695 | [116695-burning-daylight.json](./116695-burning-daylight.json) |
 | Burning Dead | 226777 | [226777-burning-dead.json](./226777-burning-dead.json) |
 | Burning Dragon | 61555 | [61555-burning-dragon.json](./61555-burning-dragon.json) |
 | Burning Empires | 356165 | [356165-burning-empires.json](./356165-burning-empires.json) |
