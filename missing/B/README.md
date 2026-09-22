@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benchmark Your Skills | 326252 | [326252-benchmark-your-skills.json](./326252-benchmark-your-skills.json) |
 | Bendy and the Dark Revival | 120163 | [120163-bendy-and-the-dark-revival.json](./120163-bendy-and-the-dark-revival.json) |
 | Bendy and the Ink Machine | 28311 | [28311-bendy-and-the-ink-machine.json](./28311-bendy-and-the-ink-machine.json) |
+| Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
@@ -3578,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block! Hexa Puzzle | 88914 | [88914-block-hexa-puzzle.json](./88914-block-hexa-puzzle.json) |
 | Block! Triangle Puzzle: Tangram | 106633 | [106633-block-triangle-puzzle-tangram.json](./106633-block-triangle-puzzle-tangram.json) |
 | Block'D | 273978 | [273978-blockd.json](./273978-blockd.json) |
+| Block'hood VR | 98989 | [98989-blockhood-vr.json](./98989-blockhood-vr.json) |
 | Blockade | 116295 | [116295-blockade.json](./116295-blockade.json) |
 | Blockade Runner | 23864 | [23864-blockade-runner.json](./23864-blockade-runner.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
@@ -3816,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Aria | 322000 | [322000-bloody-aria.json](./322000-bloody-aria.json) |
 | Bloody Bunny: First Blood | 175386 | [175386-bloody-bunny-first-blood.json](./175386-bloody-bunny-first-blood.json) |
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
+| Bloody Chronicles Act 1: New Cycle of Death | 98789 | [98789-bloody-chronicles-act-1-new-cycle-of-death.json](./98789-bloody-chronicles-act-1-new-cycle-of-death.json) |
 | Bloody Cleanup | 326785 | [326785-bloody-cleanup.json](./326785-bloody-cleanup.json) |
 | Bloody Doctor | 249866 | [249866-bloody-doctor.json](./249866-bloody-doctor.json) |
 | Bloody Downsizing | 224665 | [224665-bloody-downsizing.json](./224665-bloody-downsizing.json) |
@@ -6088,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button Game: 10 Minutes War | 368484 | [368484-button-game-10-minutes-war.json](./368484-button-game-10-minutes-war.json) |
 | Button Man | 295280 | [295280-button-man.json](./295280-button-man.json) |
 | Button Men Online | 56173 | [56173-button-men-online.json](./56173-button-men-online.json) |
+| Button Music | 98996 | [98996-button-music.json](./98996-button-music.json) |
 | Button Pressing Simulator | 156526 | [156526-button-pressing-simulator.json](./156526-button-pressing-simulator.json) |
 | Button Sorter | 358934 | [358934-button-sorter.json](./358934-button-sorter.json) |
 | Button Tales: Way Home | 156188 | [156188-button-tales-way-home.json](./156188-button-tales-way-home.json) |
