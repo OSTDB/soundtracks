@@ -3356,6 +3356,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
+| RocketBoy 2 | 400455 | [400455-rocketboy-2.json](./400455-rocketboy-2.json) |
+| RocketBoy 3 | 400456 | [400456-rocketboy-3.json](./400456-rocketboy-3.json) |
+| RocketBoy! | 400454 | [400454-rocketboy.json](./400454-rocketboy.json) |
 | Rocketeer | 211953 | [211953-rocketeer.json](./211953-rocketeer.json) |
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
@@ -3447,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
+| Rogue 'n' Roll: Dice of Fate | 400466 | [400466-rogue-n-roll-dice-of-fate.json](./400466-rogue-n-roll-dice-of-fate.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
 | Rogue Agent | 99655 | [99655-rogue-agent.json](./99655-rogue-agent.json) |
 | Rogue Alliance | 78968 | [78968-rogue-alliance.json](./78968-rogue-alliance.json) |
