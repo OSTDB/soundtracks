@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y2Kthulhu | 185072 | [185072-y2kthulhu.json](./185072-y2kthulhu.json) |
 | Ya Gotta, Piñata! | 58513 | [58513-ya-gotta-pinata.json](./58513-ya-gotta-pinata.json) |
 | Yaad | 289879 | [289879-yaad.json](./289879-yaad.json) |
+| Yabai Girls: Fairy Love | 395213 | [395213-yabai-girls-fairy-love.json](./395213-yabai-girls-fairy-love.json) |
 | Yabai Girls: Heavenly Homemaker | 385065 | [385065-yabai-girls-heavenly-homemaker.json](./385065-yabai-girls-heavenly-homemaker.json) |
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
 | Yacht Haven Tycoon: Marina Port Parking Simulator | 300828 | [300828-yacht-haven-tycoon-marina-port-parking-simulator.json](./300828-yacht-haven-tycoon-marina-port-parking-simulator.json) |
