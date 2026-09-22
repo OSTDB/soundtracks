@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paco | 149422 | [149422-paco.json](./149422-paco.json) |
 | Paco and the Tumbling Seed Box | 138051 | [138051-paco-and-the-tumbling-seed-box.json](./138051-paco-and-the-tumbling-seed-box.json) |
 | Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
+| Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
 | Paddington Run | 83249 | [83249-paddington-run.json](./83249-paddington-run.json) |
@@ -3683,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pinball | 4068 | [4068-pokemon-pinball.json](./4068-pokemon-pinball.json) |
 | Pokémon Pinball Mini | 66030 | [66030-pokemon-pinball-mini.json](./66030-pokemon-pinball-mini.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
+| Pokémon Plastic Pyrite | 409024 | [409024-pokemon-plastic-pyrite.json](./409024-pokemon-plastic-pyrite.json) |
 | Pokémon Play It! | 80213 | [80213-pokemon-play-it.json](./80213-pokemon-play-it.json) |
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
 | Pokémon Polished Crystal | 220866 | [220866-pokemon-polished-crystal.json](./220866-pokemon-polished-crystal.json) |
