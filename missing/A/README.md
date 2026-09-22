@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A Line in the Sand | 12440 | [12440-a-line-in-the-sand.json](./12440-a-line-in-the-sand.json) |
+| A Little Golf Journey | 132300 | [132300-a-little-golf-journey.json](./132300-a-little-golf-journey.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
 | A Little Piece of Healing | 308423 | [308423-a-little-piece-of-healing.json](./308423-a-little-piece-of-healing.json) |
 | A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
@@ -1407,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiya | 284926 | [284926-akiya.json](./284926-akiya.json) |
 | Akıllı Çay Bardağı | 304736 | [304736-ak-ll-cay-bardag.json](./304736-ak-ll-cay-bardag.json) |
 | Akka Arrh | 225592 | [225592-akka-arrh.json](./225592-akka-arrh.json) |
+| Akka Arrh | 237527 | [237527-akka-arrh.json](./237527-akka-arrh.json) |
 | Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
 | Akron | 306990 | [306990-akron.json](./306990-akron.json) |
 | Aksun | 330327 | [330327-aksun.json](./330327-aksun.json) |
@@ -4015,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aristocratic Potato | 343913 | [343913-aristocratic-potato.json](./343913-aristocratic-potato.json) |
 | Aristoi | 180233 | [180233-aristoi.json](./180233-aristoi.json) |
 | Arizona Rose and the Pharaohs' Riddles | 29870 | [29870-arizona-rose-and-the-pharaohs-riddles.json](./29870-arizona-rose-and-the-pharaohs-riddles.json) |
+| Arizona Sunshine II | 250628 | [250628-arizona-sunshine-ii.json](./250628-arizona-sunshine-ii.json) |
 | Ark and Ade | 157022 | [157022-ark-and-ade.json](./157022-ark-and-ade.json) |
 | Ark Bubble | 242562 | [242562-ark-bubble.json](./242562-ark-bubble.json) |
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
