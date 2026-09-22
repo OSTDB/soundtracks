@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
 | End of War 1945 | 127377 | [127377-end-of-war-1945.json](./127377-end-of-war-1945.json) |
 | End Party | 192370 | [192370-end-party.json](./192370-end-party.json) |
+| End Space | 69415 | [69415-end-space.json](./69415-end-space.json) |
 | End State | 77337 | [77337-end-state.json](./77337-end-state.json) |
 | End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
@@ -1450,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Battle Dude | 62724 | [62724-epic-battle-dude.json](./62724-epic-battle-dude.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
+| Epic Battle Simulator 2 | 75046 | [75046-epic-battle-simulator-2.json](./75046-epic-battle-simulator-2.json) |
 | Epic Blood Quest | 180185 | [180185-epic-blood-quest.json](./180185-epic-blood-quest.json) |
 | Epic Car Factory | 97568 | [97568-epic-car-factory.json](./97568-epic-car-factory.json) |
 | Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
@@ -2585,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
 | Exorcist Simulator | 259005 | [259005-exorcist-simulator.json](./259005-exorcist-simulator.json) |
 | Exorcizamuste | 258537 | [258537-exorcizamuste.json](./258537-exorcizamuste.json) |
+| Exorder | 69440 | [69440-exorder.json](./69440-exorder.json) |
 | ExorSYS | 335245 | [335245-exorsys.json](./335245-exorsys.json) |
 | Exorzine | 194651 | [194651-exorzine.json](./194651-exorzine.json) |
 | ExoSoul | 257974 | [257974-exosoul.json](./257974-exosoul.json) |
