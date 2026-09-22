@@ -2454,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChivalBee and the Mycelium Menace | 388228 | [388228-chivalbee-and-the-mycelium-menace.json](./388228-chivalbee-and-the-mycelium-menace.json) |
 | Chivalry 2: Day One Edition | 146126 | [146126-chivalry-2-day-one-edition.json](./146126-chivalry-2-day-one-edition.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
+| Chivalry: Deadliest Warrior | 10083 | [10083-chivalry-deadliest-warrior.json](./10083-chivalry-deadliest-warrior.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
 | Chloe Puzzle Game | 162247 | [162247-chloe-puzzle-game.json](./162247-chloe-puzzle-game.json) |
@@ -3444,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
 | Clou: Roll & Heist | 195644 | [195644-clou-roll-and-heist.json](./195644-clou-roll-and-heist.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
+| Cloud Chamber | 10096 | [10096-cloud-chamber.json](./10096-cloud-chamber.json) |
 | Cloud Chasers | 23657 | [23657-cloud-chasers.json](./23657-cloud-chasers.json) |
 | Cloud Climber | 142314 | [142314-cloud-climber.json](./142314-cloud-climber.json) |
 | Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
@@ -3549,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Fly | 226305 | [226305-cluster-fly.json](./226305-cluster-fly.json) |
 | Cluster Six | 58756 | [58756-cluster-six.json](./58756-cluster-six.json) |
 | Cluster Tumble | 118156 | [118156-cluster-tumble.json](./118156-cluster-tumble.json) |
+| Clusterball | 10349 | [10349-clusterball.json](./10349-clusterball.json) |
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
@@ -3584,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coated | 35628 | [35628-coated.json](./35628-coated.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
 | Cobi Treasure | 9798 | [9798-cobi-treasure.json](./9798-cobi-treasure.json) |
+| Cobi Treasure Deluxe | 10097 | [10097-cobi-treasure-deluxe.json](./10097-cobi-treasure-deluxe.json) |
 | CoBots | 62707 | [62707-cobots.json](./62707-cobots.json) |
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra | 74748 | [74748-cobra.json](./74748-cobra.json) |
@@ -3630,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Name: MA | 174835 | [174835-code-name-ma.json](./174835-code-name-ma.json) |
 | Code Name: Viper | 48069 | [48069-code-name-viper.json](./48069-code-name-viper.json) |
 | Code of Ethics | 123042 | [123042-code-of-ethics.json](./123042-code-of-ethics.json) |
+| Code of Honor: The French Foreign Legion | 10099 | [10099-code-of-honor-the-french-foreign-legion.json](./10099-code-of-honor-the-french-foreign-legion.json) |
 | Code of Princess EX | 90104 | [90104-code-of-princess-ex.json](./90104-code-of-princess-ex.json) |
 | Code Of Superheroes | 301809 | [301809-code-of-superheroes.json](./301809-code-of-superheroes.json) |
 | Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
@@ -4055,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colosseum Coach | 395694 | [395694-colosseum-coach.json](./395694-colosseum-coach.json) |
 | Colossorama | 176985 | [176985-colossorama.json](./176985-colossorama.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
+| Colour Bind | 10101 | [10101-colour-bind.json](./10101-colour-bind.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
 | Colour My Fate | 384053 | [384053-colour-my-fate.json](./384053-colour-my-fate.json) |
 | Colourblind | 235830 | [235830-colourblind.json](./235830-colourblind.json) |
