@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abraca | 267482 | [267482-abraca.json](./267482-abraca.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abrakajumpa | 305944 | [305944-abrakajumpa.json](./305944-abrakajumpa.json) |
+| Abrams Tank | 31567 | [31567-abrams-tank.json](./31567-abrams-tank.json) |
 | Abraxas | 293244 | [293244-abraxas.json](./293244-abraxas.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Abriss: Build to Destroy | 163860 | [163860-abriss-build-to-destroy.json](./163860-abriss-build-to-destroy.json) |
