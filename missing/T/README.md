@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Super Bowl II: Special Edition | 46598 | [46598-tecmo-super-bowl-ii-special-edition.json](./46598-tecmo-super-bowl-ii-special-edition.json) |
 | Tecmo Super Bowl NCAA 2017 | 48894 | [48894-tecmo-super-bowl-ncaa-2017.json](./48894-tecmo-super-bowl-ncaa-2017.json) |
 | Tecmo Super Hockey | 46597 | [46597-tecmo-super-hockey.json](./46597-tecmo-super-hockey.json) |
+| Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
 | Tecnology War | 248747 | [248747-tecnology-war.json](./248747-tecnology-war.json) |
 | Tectus | 106375 | [106375-tectus.json](./106375-tectus.json) |
@@ -1443,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 131530 | [131530-tennis.json](./131530-tennis.json) |
 | Tennis | 131536 | [131536-tennis.json](./131536-tennis.json) |
 | Tennis | 217967 | [217967-tennis.json](./217967-tennis.json) |
+| Tennis 2K2 | 45843 | [45843-tennis-2k2.json](./45843-tennis-2k2.json) |
 | Tennis Addict | 206215 | [206215-tennis-addict.json](./206215-tennis-addict.json) |
 | Tennis Antics | 54426 | [54426-tennis-antics.json](./54426-tennis-antics.json) |
 | Tennis Arcade VR | 81001 | [81001-tennis-arcade-vr.json](./81001-tennis-arcade-vr.json) |
@@ -8550,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division: Survival | 19551 | [19551-tom-clancys-the-division-survival.json](./19551-tom-clancys-the-division-survival.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tom Landry Strategy Football: Deluxe Edition | 400255 | [400255-tom-landry-strategy-football-deluxe-edition.json](./400255-tom-landry-strategy-football-deluxe-edition.json) |
+| Tom Mason's Dinosaurs for Hire | 46252 | [46252-tom-masons-dinosaurs-for-hire.json](./46252-tom-masons-dinosaurs-for-hire.json) |
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
 | Tom Thumb | 206766 | [206766-tom-thumb.json](./206766-tom-thumb.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
@@ -9375,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townopolis Romopolis Megapolis Collection | 53836 | [53836-townopolis-romopolis-megapolis-collection.json](./53836-townopolis-romopolis-megapolis-collection.json) |
 | Towns and Towers | 341866 | [341866-towns-and-towers.json](./341866-towns-and-towers.json) |
 | Townscaper VR | 223141 | [223141-townscaper-vr.json](./223141-townscaper-vr.json) |
+| Township | 19526 | [19526-township.json](./19526-township.json) |
 | Townsmen | 32428 | [32428-townsmen.json](./32428-townsmen.json) |
 | Townsmen Racing | 198367 | [198367-townsmen-racing.json](./198367-townsmen-racing.json) |
 | Townsmen: A Kingdom Rebuilt - The Seaside Empire | 155067 | [155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json](./155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json) |
@@ -10877,6 +10881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
 | Tubular Rift | 75175 | [75175-tubular-rift.json](./75175-tubular-rift.json) |
 | Tuby Bird | 40736 | [40736-tuby-bird.json](./40736-tuby-bird.json) |
+| Tuff E Nuff | 46006 | [46006-tuff-e-nuff.json](./46006-tuff-e-nuff.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
@@ -11017,6 +11022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turning Manor | 363953 | [363953-turning-manor.json](./363953-turning-manor.json) |
 | Turnip Boy Robs a Bank | 217645 | [217645-turnip-boy-robs-a-bank.json](./217645-turnip-boy-robs-a-bank.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
+| TurnOn | 19606 | [19606-turnon.json](./19606-turnon.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
 | Turok 2 | 146729 | [146729-turok-2.json](./146729-turok-2.json) |
 | Turok 2: Seeds of Evil | 146696 | [146696-turok-2-seeds-of-evil.json](./146696-turok-2-seeds-of-evil.json) |
