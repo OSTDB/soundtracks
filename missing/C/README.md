@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canfield | 83476 | [83476-canfield.json](./83476-canfield.json) |
 | Cānghóng Lèi: Nì Tiān Shénhuà | 394183 | [394183-canghong-lei-ni-tian-shenhua.json](./394183-canghong-lei-ni-tian-shenhua.json) |
 | Canidae | 336517 | [336517-canidae.json](./336517-canidae.json) |
+| Canine Derby Manager | 402491 | [402491-canine-derby-manager.json](./402491-canine-derby-manager.json) |
 | Cannery Vale | 216339 | [216339-cannery-vale.json](./216339-cannery-vale.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
 | Cannibal Crossing | 140364 | [140364-cannibal-crossing.json](./140364-cannibal-crossing.json) |
@@ -949,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Crawlers | 184637 | [184637-cart-crawlers.json](./184637-cart-crawlers.json) |
 | Cart Fury | 43275 | [43275-cart-fury.json](./43275-cart-fury.json) |
 | Cart Fury: Championship Racing | 78637 | [78637-cart-fury-championship-racing.json](./78637-cart-fury-championship-racing.json) |
+| Cart Panic! OS: E-Commerce Tycoon | 402494 | [402494-cart-panic-os-e-commerce-tycoon.json](./402494-cart-panic-os-e-commerce-tycoon.json) |
 | Cart Precision Racing | 627 | [627-cart-precision-racing.json](./627-cart-precision-racing.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
@@ -6754,6 +6756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Cats Slide | 277932 | [277932-cute-cats-slide.json](./277932-cute-cats-slide.json) |
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
 | Cute Demon Crashers! | 58801 | [58801-cute-demon-crashers.json](./58801-cute-demon-crashers.json) |
+| Cute Diana | 402493 | [402493-cute-diana.json](./402493-cute-diana.json) |
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
 | Cute Fighter | 201168 | [201168-cute-fighter.json](./201168-cute-fighter.json) |
 | Cute Finders | 381700 | [381700-cute-finders.json](./381700-cute-finders.json) |
