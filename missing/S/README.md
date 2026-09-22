@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salamander | 261906 | [261906-salamander.json](./261906-salamander.json) |
 | Salamander | 261907 | [261907-salamander.json](./261907-salamander.json) |
 | Salamander Portable | 42869 | [42869-salamander-portable.json](./42869-salamander-portable.json) |
+| Salary Man Escape | 104678 | [104678-salary-man-escape.json](./104678-salary-man-escape.json) |
 | Sales Birdman | 345604 | [345604-sales-birdman.json](./345604-sales-birdman.json) |
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
@@ -3315,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred BackCountry | 174268 | [174268-shred-backcountry.json](./174268-shred-backcountry.json) |
 | Shred Off | 331955 | [331955-shred-off.json](./331955-shred-off.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
+| Shred! 2 - ft Sam Pilgrim | 104447 | [104447-shred-2-ft-sam-pilgrim.json](./104447-shred-2-ft-sam-pilgrim.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
 | Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
 | Shredsauce | 131358 | [131358-shredsauce.json](./131358-shredsauce.json) |
@@ -8359,6 +8361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sentinel Tactics | 67329 | [67329-star-sentinel-tactics.json](./67329-star-sentinel-tactics.json) |
 | Star Sentry | 292129 | [292129-star-sentry.json](./292129-star-sentry.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
+| Star Singularity | 104857 | [104857-star-singularity.json](./104857-star-singularity.json) |
 | Star Sky | 18015 | [18015-star-sky.json](./18015-star-sky.json) |
 | Star Sky 2 | 18462 | [18462-star-sky-2.json](./18462-star-sky-2.json) |
 | Star Sky 2 | 33512 | [33512-star-sky-2.json](./33512-star-sky-2.json) |
