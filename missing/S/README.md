@@ -3272,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty Skies Overdrive | 137654 | [137654-shooty-skies-overdrive.json](./137654-shooty-skies-overdrive.json) |
 | Shooty Space Adventure | 58768 | [58768-shooty-space-adventure.json](./58768-shooty-space-adventure.json) |
 | Shop Crush | 310059 | [310059-shop-crush.json](./310059-shop-crush.json) |
+| Shop Farm Tycoon | 395216 | [395216-shop-farm-tycoon.json](./395216-shop-farm-tycoon.json) |
 | Shop Heroes Legends: Idle RPG | 233118 | [233118-shop-heroes-legends-idle-rpg.json](./233118-shop-heroes-legends-idle-rpg.json) |
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
@@ -5797,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Collection HD | 90371 | [90371-solitaire-collection-hd.json](./90371-solitaire-collection-hd.json) |
 | Solitaire Crime Stories | 386141 | [386141-solitaire-crime-stories.json](./386141-solitaire-crime-stories.json) |
 | Solitaire Crime Stories Chapter 3 | 390506 | [390506-solitaire-crime-stories-chapter-3.json](./390506-solitaire-crime-stories-chapter-3.json) |
+| Solitaire Crime Stories Chapter 6 | 395209 | [395209-solitaire-crime-stories-chapter-6.json](./395209-solitaire-crime-stories-chapter-6.json) |
 | Solitaire Dash | 255169 | [255169-solitaire-dash.json](./255169-solitaire-dash.json) |
 | Solitaire Dash TriPeaks Islands | 95846 | [95846-solitaire-dash-tripeaks-islands.json](./95846-solitaire-dash-tripeaks-islands.json) |
 | Solitaire de Kenshou | 220325 | [220325-solitaire-de-kenshou.json](./220325-solitaire-de-kenshou.json) |
@@ -8066,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sprucerio | 257408 | [257408-sprucerio.json](./257408-sprucerio.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
+| Sprunki Hell Towers | 395210 | [395210-sprunki-hell-towers.json](./395210-sprunki-hell-towers.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
 | Spud! | 35649 | [35649-spud.json](./35649-spud.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
@@ -8085,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
 | Spy Girls: Undercover Agent | 206200 | [206200-spy-girls-undercover-agent.json](./206200-spy-girls-undercover-agent.json) |
 | Spy Guy American Dream | 375162 | [375162-spy-guy-american-dream.json](./375162-spy-guy-american-dream.json) |
+| Spy Guy Europe | 395211 | [395211-spy-guy-europe.json](./395211-spy-guy-europe.json) |
 | Spy Guy Hidden Objects Poland | 400194 | [400194-spy-guy-hidden-objects-poland.json](./400194-spy-guy-hidden-objects-poland.json) |
 | Spy Guy Memory | 300837 | [300837-spy-guy-memory.json](./300837-spy-guy-memory.json) |
 | Spy Guy Memory Abstraction Bundle | 400204 | [400204-spy-guy-memory-abstraction-bundle.json](./400204-spy-guy-memory-abstraction-bundle.json) |
@@ -8807,6 +8811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
 | Starfield: Rev-8 | 314267 | [314267-starfield-rev-8.json](./314267-starfield-rev-8.json) |
 | Starfield: Shattered Space | 263480 | [263480-starfield-shattered-space.json](./263480-starfield-shattered-space.json) |
+| Starfield: Terran Armada | 395172 | [395172-starfield-terran-armada.json](./395172-starfield-terran-armada.json) |
 | StarFight VI - Gatekeepers | 132040 | [132040-starfight-vi-gatekeepers.json](./132040-starfight-vi-gatekeepers.json) |
 | Starfighter | 138158 | [138158-starfighter.json](./138158-starfighter.json) |
 | Starfighter | 55881 | [55881-starfighter.json](./55881-starfighter.json) |
@@ -9254,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Shell | 192809 | [192809-steel-shell.json](./192809-steel-shell.json) |
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
 | Steel Soul | 294133 | [294133-steel-soul.json](./294133-steel-soul.json) |
+| Steel Soul Shaper | 395208 | [395208-steel-soul-shaper.json](./395208-steel-soul-shaper.json) |
 | Steel Storm: Burning Retribution | 16243 | [16243-steel-storm-burning-retribution.json](./16243-steel-storm-burning-retribution.json) |
 | Steel Storm: Forgotten Prison | 169961 | [169961-steel-storm-forgotten-prison.json](./169961-steel-storm-forgotten-prison.json) |
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
@@ -12603,6 +12609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | SyLestia | 125957 | [125957-sylestia.json](./125957-sylestia.json) |
+| Sylph | 395193 | [395193-sylph.json](./395193-sylph.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
 | Sylvan Idyll | 97284 | [97284-sylvan-idyll.json](./97284-sylvan-idyll.json) |
 | Sylvan Tale | 19691 | [19691-sylvan-tale.json](./19691-sylvan-tale.json) |
