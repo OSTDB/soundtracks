@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
 | Rain of Reflections | 58544 | [58544-rain-of-reflections.json](./58544-rain-of-reflections.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
+| Rain Station Z | 410414 | [410414-rain-station-z.json](./410414-rain-station-z.json) |
 | Rain World: Deluxe Edition | 290437 | [290437-rain-world-deluxe-edition.json](./290437-rain-world-deluxe-edition.json) |
 | Rain World: Slugcat's Lifecycle Edition | 370699 | [370699-rain-world-slugcats-lifecycle-edition.json](./370699-rain-world-slugcats-lifecycle-edition.json) |
 | Rain, House, Eternity | 143082 | [143082-rain-house-eternity.json](./143082-rain-house-eternity.json) |
@@ -1908,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Attack of the Atom - Collector's Edition | 337626 | [337626-rescue-team-attack-of-the-atom-collectors-edition.json](./337626-rescue-team-attack-of-the-atom-collectors-edition.json) |
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
+| Rescue Team: Legion of Destruction | 410458 | [410458-rescue-team-legion-of-destruction.json](./410458-rescue-team-legion-of-destruction.json) |
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
@@ -3497,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
 | Rogue Trooper: Quartz Zone Massacre | 21262 | [21262-rogue-trooper-quartz-zone-massacre.json](./21262-rogue-trooper-quartz-zone-massacre.json) |
 | Rogue Valley | 236910 | [236910-rogue-valley.json](./236910-rogue-valley.json) |
+| Rogue Vector | 410431 | [410431-rogue-vector.json](./410431-rogue-vector.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
 | Rogue with the Dead | 248144 | [248144-rogue-with-the-dead.json](./248144-rogue-with-the-dead.json) |
@@ -4056,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
 | RPS Duel | 366932 | [366932-rps-duel.json](./366932-rps-duel.json) |
 | RPS Saga | 38994 | [38994-rps-saga.json](./38994-rps-saga.json) |
+| RPS: The Escape | 410467 | [410467-rps-the-escape.json](./410467-rps-the-escape.json) |
 | RpVoid | 354505 | [354505-rpvoid.json](./354505-rpvoid.json) |
 | Rrggbb | 178004 | [178004-rrggbb.json](./178004-rrggbb.json) |
 | rRootage | 25169 | [25169-rrootage.json](./25169-rrootage.json) |
