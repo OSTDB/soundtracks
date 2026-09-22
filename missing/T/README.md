@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dividing Line | 308546 | [308546-the-dividing-line.json](./308546-the-dividing-line.json) |
 | The Divine Paradox | 32258 | [32258-the-divine-paradox.json](./32258-the-divine-paradox.json) |
 | The Divine Speaker: The Sun and the Moon | 199563 | [199563-the-divine-speaker-the-sun-and-the-moon.json](./199563-the-divine-speaker-the-sun-and-the-moon.json) |
+| The Diving Bell | 391881 | [391881-the-diving-bell.json](./391881-the-diving-bell.json) |
 | The Dog Quiz | 223149 | [223149-the-dog-quiz.json](./223149-the-dog-quiz.json) |
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
 | The Doll | 249816 | [249816-the-doll.json](./249816-the-doll.json) |
@@ -3749,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
 | The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
 | The Guestlist | 244381 | [244381-the-guestlist.json](./244381-the-guestlist.json) |
+| The Guiding Spirit | 391890 | [391890-the-guiding-spirit.json](./391890-the-guiding-spirit.json) |
 | The Guild 2: Renaissance | 11620 | [11620-the-guild-2-renaissance.json](./11620-the-guild-2-renaissance.json) |
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
 | The Guilt and the Shadow | 36145 | [36145-the-guilt-and-the-shadow.json](./36145-the-guilt-and-the-shadow.json) |
@@ -5349,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Player RPG | 102121 | [102121-the-player-rpg.json](./102121-the-player-rpg.json) |
 | The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
+| The Plight of the Cracked | 391849 | [391849-the-plight-of-the-cracked.json](./391849-the-plight-of-the-cracked.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
 | The Plumber Thing | 223000 | [223000-the-plumber-thing.json](./223000-the-plumber-thing.json) |
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
@@ -6316,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing | 264857 | [264857-the-thing.json](./264857-the-thing.json) |
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
 | The Thing at the Window | 221750 | [221750-the-thing-at-the-window.json](./221750-the-thing-at-the-window.json) |
+| The Thing in the Lake | 391889 | [391889-the-thing-in-the-lake.json](./391889-the-thing-in-the-lake.json) |
 | The Thing That Happened | 294284 | [294284-the-thing-that-happened.json](./294284-the-thing-that-happened.json) |
 | The Thing With Mistletoes | 29589 | [29589-the-thing-with-mistletoes.json](./29589-the-thing-with-mistletoes.json) |
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
@@ -6489,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Toxicity | 270704 | [270704-the-toxicity.json](./270704-the-toxicity.json) |
+| The Toy Shop | 391894 | [391894-the-toy-shop.json](./391894-the-toy-shop.json) |
 | The Toymaker's Apprentice | 114980 | [114980-the-toymakers-apprentice.json](./114980-the-toymakers-apprentice.json) |
 | The Toys Room | 66927 | [66927-the-toys-room.json](./66927-the-toys-room.json) |
 | The Track Star | 241995 | [241995-the-track-star.json](./241995-the-track-star.json) |
@@ -7060,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Game: Jam Edition 2015 | 132522 | [132522-there-is-no-game-jam-edition-2015.json](./132522-there-is-no-game-jam-edition-2015.json) |
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
 | There Is No Light 616 | 180203 | [180203-there-is-no-light-616.json](./180203-there-is-no-light-616.json) |
+| There Is No Next Stop | 391879 | [391879-there-is-no-next-stop.json](./391879-there-is-no-next-stop.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There the Light | 117846 | [117846-there-the-light.json](./117846-there-the-light.json) |
@@ -7347,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thronebreaker: The Witcher Tales | 107300 | [107300-thronebreaker-the-witcher-tales.json](./107300-thronebreaker-the-witcher-tales.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through Abandoned: The Underground City | 34780 | [34780-through-abandoned-the-underground-city.json](./34780-through-abandoned-the-underground-city.json) |
+| Through Death's Door | 391852 | [391852-through-deaths-door.json](./391852-through-deaths-door.json) |
 | Through Hell and Back | 372541 | [372541-through-hell-and-back.json](./372541-through-hell-and-back.json) |
 | Through Space | 414297 | [414297-through-space.json](./414297-through-space.json) |
 | Through the Abyss | 217314 | [217314-through-the-abyss.json](./217314-through-the-abyss.json) |
@@ -8635,6 +8642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
 | Toad Strikes Back | 134068 | [134068-toad-strikes-back.json](./134068-toad-strikes-back.json) |
 | Toad Tales | 272578 | [272578-toad-tales.json](./272578-toad-tales.json) |
+| Toad Turf | 391898 | [391898-toad-turf.json](./391898-toad-turf.json) |
 | Toad's Adventure | 48318 | [48318-toads-adventure.json](./48318-toads-adventure.json) |
 | Toad's Soul Hopper | 301024 | [301024-toads-soul-hopper.json](./301024-toads-soul-hopper.json) |
 | Toad's Trees | 346132 | [346132-toads-trees.json](./346132-toads-trees.json) |
@@ -11391,6 +11399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Sprint | 229785 | [229785-turbo-sprint.json](./229785-turbo-sprint.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
+| Turbo Titans | 391883 | [391883-turbo-titans.json](./391883-turbo-titans.json) |
 | Turbo Trax | 12802 | [12802-turbo-trax.json](./12802-turbo-trax.json) |
 | Turbo Trot | 261354 | [261354-turbo-trot.json](./261354-turbo-trot.json) |
 | Turbo Truck Islands | 351719 | [351719-turbo-truck-islands.json](./351719-turbo-truck-islands.json) |
