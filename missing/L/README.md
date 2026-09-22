@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
 | Leap up no Justu: Double | 278410 | [278410-leap-up-no-justu-double.json](./278410-leap-up-no-justu-double.json) |
 | Leap: A Dragon's Adventure | 392788 | [392788-leap-a-dragons-adventure.json](./392788-leap-a-dragons-adventure.json) |
+| Leapbound | 413883 | [413883-leapbound.json](./413883-leapbound.json) |
 | Leaper | 376574 | [376574-leaper.json](./376574-leaper.json) |
 | LeapFrog: Text & Learn | 327425 | [327425-leapfrog-text-and-learn.json](./327425-leapfrog-text-and-learn.json) |
 | LeapLand Adventures | 230275 | [230275-leapland-adventures.json](./230275-leapland-adventures.json) |
@@ -1757,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilia | 362325 | [362325-lilia.json](./362325-lilia.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
+| Lilith | 413898 | [413898-lilith.json](./413898-lilith.json) |
 | Lilith Hall | 266877 | [266877-lilith-hall.json](./266877-lilith-hall.json) |
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
 | Lilith Was Dead | 163839 | [163839-lilith-was-dead.json](./163839-lilith-was-dead.json) |
@@ -2359,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
 | Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
+| Locksmith | 413897 | [413897-locksmith.json](./413897-locksmith.json) |
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | Loco Motive | 141805 | [141805-loco-motive.json](./141805-loco-motive.json) |
