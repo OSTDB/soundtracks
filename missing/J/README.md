@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jezzball Classic Deluxe Edition | 371891 | [371891-jezzball-classic-deluxe-edition.json](./371891-jezzball-classic-deluxe-edition.json) |
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
 | JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
+| JFK Reloaded | 71814 | [71814-jfk-reloaded.json](./71814-jfk-reloaded.json) |
 | Ji Tan Nohua | 121648 | [121648-ji-tan-nohua.json](./121648-ji-tan-nohua.json) |
 | Jian Po | 119700 | [119700-jian-po.json](./119700-jian-po.json) |
 | Jian Wang 3: Heavy Plate | 76953 | [76953-jian-wang-3-heavy-plate.json](./76953-jian-wang-3-heavy-plate.json) |
