@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oco | 125845 | [125845-oco.json](./125845-oco.json) |
 | Ocopoco | 175397 | [175397-ocopoco.json](./175397-ocopoco.json) |
 | Oct 14 | 341498 | [341498-oct-14.json](./341498-oct-14.json) |
+| Octagon - A Minimal Arcade Game with Maximum Challenge | 91180 | [91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json](./91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json) |
 | Octagon - A Minimal Game with Maximum Challenge | 88290 | [88290-octagon-a-minimal-game-with-maximum-challenge.json](./88290-octagon-a-minimal-game-with-maximum-challenge.json) |
 | Octagon 2: Extreme Evolution | 175418 | [175418-octagon-2-extreme-evolution.json](./175418-octagon-2-extreme-evolution.json) |
 | Octagon Squad | 30211 | [30211-octagon-squad.json](./30211-octagon-squad.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
 | Ostalgie: Disorder in Yugoslavia | 196151 | [196151-ostalgie-disorder-in-yugoslavia.json](./196151-ostalgie-disorder-in-yugoslavia.json) |
+| Ostalgie: The Berlin Wall | 90250 | [90250-ostalgie-the-berlin-wall.json](./90250-ostalgie-the-berlin-wall.json) |
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
 | Ostallian Core | 294298 | [294298-ostallian-core.json](./294298-ostallian-core.json) |
 | Ostekrigen på Mælkevejen | 91455 | [91455-ostekrigen-pa-m-lkevejen.json](./91455-ostekrigen-pa-m-lkevejen.json) |
@@ -1747,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: The Full Monty Collection | 331417 | [331417-outbreak-the-full-monty-collection.json](./331417-outbreak-the-full-monty-collection.json) |
 | Outbreak: The New Nightmare - Definitive Collection | 234305 | [234305-outbreak-the-new-nightmare-definitive-collection.json](./234305-outbreak-the-new-nightmare-definitive-collection.json) |
 | Outbreak: The New Nightmare - Revisited | 261358 | [261358-outbreak-the-new-nightmare-revisited.json](./261358-outbreak-the-new-nightmare-revisited.json) |
+| Outbreak: The Nightmare Chronicles | 90135 | [90135-outbreak-the-nightmare-chronicles.json](./90135-outbreak-the-nightmare-chronicles.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 2 | 168843 | [168843-outbreak-the-nightmare-chronicles-chapter-2.json](./168843-outbreak-the-nightmare-chronicles-chapter-2.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 4 | 168853 | [168853-outbreak-the-nightmare-chronicles-chapter-4.json](./168853-outbreak-the-nightmare-chronicles-chapter-4.json) |
 | Outbreak: The Nightmare Chronicles - Reinvestigated | 261362 | [261362-outbreak-the-nightmare-chronicles-reinvestigated.json](./261362-outbreak-the-nightmare-chronicles-reinvestigated.json) |
