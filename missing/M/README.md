@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Horizon | 101183 | [101183-mars-horizon.json](./101183-mars-horizon.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
+| Mars Power Industries Deluxe | 122168 | [122168-mars-power-industries-deluxe.json](./122168-mars-power-industries-deluxe.json) |
 | Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Survivor: Gold Edition | 385204 | [385204-mars-survivor-gold-edition.json](./385204-mars-survivor-gold-edition.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Blade | 279646 | [279646-marvels-blade.json](./279646-marvels-blade.json) |
 | Marvel's Guardians of the Galaxy & Marvel's Avenger's: Deluxe Bundle | 218480 | [218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json](./218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json) |
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
+| Marvel's Guardians of the Galaxy: The Telltale Series - Episode 4: Who Needs You | 127042 | [127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json](./127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json) |
 | Marvel's Iron Man VR | 116585 | [116585-marvels-iron-man-vr.json](./116585-marvels-iron-man-vr.json) |
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
 | Marvel's Midnight Suns: Redemption | 239379 | [239379-marvels-midnight-suns-redemption.json](./239379-marvels-midnight-suns-redemption.json) |
@@ -2308,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal Masters | 110299 | [110299-medal-masters.json](./110299-medal-masters.json) |
 | Medal of Honor | 1307 | [1307-medal-of-honor.json](./1307-medal-of-honor.json) |
 | Medal of Honor: 10th Anniversary Edition | 45980 | [45980-medal-of-honor-10th-anniversary-edition.json](./45980-medal-of-honor-10th-anniversary-edition.json) |
+| Medal of Honor: Above and Beyond | 122592 | [122592-medal-of-honor-above-and-beyond.json](./122592-medal-of-honor-above-and-beyond.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
 | Medal of Honor: Allied Assault - Breakthrough | 9229 | [9229-medal-of-honor-allied-assault-breakthrough.json](./9229-medal-of-honor-allied-assault-breakthrough.json) |
 | Medal of Honor: European Assault | 1311 | [1311-medal-of-honor-european-assault.json](./1311-medal-of-honor-european-assault.json) |
@@ -3699,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
 | Mighty Rodent | 73777 | [73777-mighty-rodent.json](./73777-mighty-rodent.json) |
+| Mighty Switch Force! Collection | 120200 | [120200-mighty-switch-force-collection.json](./120200-mighty-switch-force-collection.json) |
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
 | Mighty Warriors | 40388 | [40388-mighty-warriors.json](./40388-mighty-warriors.json) |
@@ -4841,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molecule - a chemistry challenge | 98265 | [98265-molecule-a-chemistry-challenge.json](./98265-molecule-a-chemistry-challenge.json) |
 | Molecule Make Lab | 201133 | [201133-molecule-make-lab.json](./201133-molecule-make-lab.json) |
 | Molecule: A Chemical Challenge | 86584 | [86584-molecule-a-chemical-challenge.json](./86584-molecule-a-chemical-challenge.json) |
+| Molek-Syntez | 125208 | [125208-molek-syntez.json](./125208-molek-syntez.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Moley Christmas | 59679 | [59679-moley-christmas.json](./59679-moley-christmas.json) |
 | Mollie | 180688 | [180688-mollie.json](./180688-mollie.json) |
