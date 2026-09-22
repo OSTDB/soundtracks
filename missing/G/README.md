@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galazer Deluxe | 358965 | [358965-galazer-deluxe.json](./358965-galazer-deluxe.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
+| Galdromeda | 394517 | [394517-galdromeda.json](./394517-galdromeda.json) |
 | Galdur | 103461 | [103461-galdur.json](./103461-galdur.json) |
 | Gale Gunner | 74781 | [74781-gale-gunner.json](./74781-gale-gunner.json) |
 | Gale of Windoria | 208021 | [208021-gale-of-windoria.json](./208021-gale-of-windoria.json) |
@@ -1925,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
 | Gob! | 257447 | [257447-gob.json](./257447-gob.json) |
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
+| Gobble | 394530 | [394530-gobble.json](./394530-gobble.json) |
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
 | Gobbo Goes Adventures | 251834 | [251834-gobbo-goes-adventures.json](./251834-gobbo-goes-adventures.json) |
 | Gobbo's Gambit | 253952 | [253952-gobbos-gambit.json](./253952-gobbos-gambit.json) |
@@ -2690,6 +2692,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto IV: Complete Edition | 27912 | [27912-grand-theft-auto-iv-complete-edition.json](./27912-grand-theft-auto-iv-complete-edition.json) |
 | Grand Theft Auto Online | 134710 | [134710-grand-theft-auto-online.json](./134710-grand-theft-auto-online.json) |
 | Grand Theft Auto Online: A Safehouse in the Hills | 380532 | [380532-grand-theft-auto-online-a-safehouse-in-the-hills.json](./380532-grand-theft-auto-online-a-safehouse-in-the-hills.json) |
+| Grand Theft Auto Online: Agents of Sabotage | 394521 | [394521-grand-theft-auto-online-agents-of-sabotage.json](./394521-grand-theft-auto-online-agents-of-sabotage.json) |
+| Grand Theft Auto Online: Bottom Dollar Bounties | 394526 | [394526-grand-theft-auto-online-bottom-dollar-bounties.json](./394526-grand-theft-auto-online-bottom-dollar-bounties.json) |
 | Grand Theft Auto Online: Criminal Enterprise Starter Pack | 334770 | [334770-grand-theft-auto-online-criminal-enterprise-starter-pack.json](./334770-grand-theft-auto-online-criminal-enterprise-starter-pack.json) |
 | Grand Theft Auto Online: Los Santos Drug Wars | 239053 | [239053-grand-theft-auto-online-los-santos-drug-wars.json](./239053-grand-theft-auto-online-los-santos-drug-wars.json) |
 | Grand Theft Auto Online: Los Santos Tuners | 239051 | [239051-grand-theft-auto-online-los-santos-tuners.json](./239051-grand-theft-auto-online-los-santos-tuners.json) |
