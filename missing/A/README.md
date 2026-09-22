@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nightmare on Elm Street | 40935 | [40935-a-nightmare-on-elm-street.json](./40935-a-nightmare-on-elm-street.json) |
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
+| A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
 | A Park Full of Cats | 276198 | [276198-a-park-full-of-cats.json](./276198-a-park-full-of-cats.json) |
 | A Passive Boy at the Huntress Clinic | 232425 | [232425-a-passive-boy-at-the-huntress-clinic.json](./232425-a-passive-boy-at-the-huntress-clinic.json) |
@@ -1143,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony | 201153 | [201153-agony.json](./201153-agony.json) |
+| Agony Increment | 393803 | [393803-agony-increment.json](./393803-agony-increment.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
@@ -5241,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom-X | 111755 | [111755-atom-x.json](./111755-atom-x.json) |
 | Atomaders | 94264 | [94264-atomaders.json](./94264-atomaders.json) |
 | Atomfall | 305159 | [305159-atomfall.json](./305159-atomfall.json) |
+| Atomfall: Complete Edition | 393802 | [393802-atomfall-complete-edition.json](./393802-atomfall-complete-edition.json) |
 | Atomfall: Wicked Isle | 344476 | [344476-atomfall-wicked-isle.json](./344476-atomfall-wicked-isle.json) |
 | AtomHex | 67943 | [67943-atomhex.json](./67943-atomhex.json) |
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
