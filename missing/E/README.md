@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
 | EA Sports College Football 25 | 172021 | [172021-ea-sports-college-football-25.json](./172021-ea-sports-college-football-25.json) |
 | EA Sports College Football 26 | 329146 | [329146-ea-sports-college-football-26.json](./329146-ea-sports-college-football-26.json) |
+| EA Sports College Football 27: Deluxe Edition | 409040 | [409040-ea-sports-college-football-27-deluxe-edition.json](./409040-ea-sports-college-football-27-deluxe-edition.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
 | EA Sports FC 27 | 408819 | [408819-ea-sports-fc-27.json](./408819-ea-sports-fc-27.json) |
 | EA Sports FC 27: Ultimate Edition | 410902 | [410902-ea-sports-fc-27-ultimate-edition.json](./410902-ea-sports-fc-27-ultimate-edition.json) |
@@ -2621,6 +2622,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
 | Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
 | Exoprimal: Deadeye QB-W Set | 256547 | [256547-exoprimal-deadeye-qb-w-set.json](./256547-exoprimal-deadeye-qb-w-set.json) |
+| Exoprimal: Egret (Skywave) | 409072 | [409072-exoprimal-egret-skywave.json](./409072-exoprimal-egret-skywave.json) |
+| Exoprimal: Famitsu Decal | 409073 | [409073-exoprimal-famitsu-decal.json](./409073-exoprimal-famitsu-decal.json) |
 | Exoprimal: Krieger Alpha Tin Machine Set | 298328 | [298328-exoprimal-krieger-alpha-tin-machine-set.json](./298328-exoprimal-krieger-alpha-tin-machine-set.json) |
 | Exoprimal: Krieger Mega Man Set | 298332 | [298332-exoprimal-krieger-mega-man-set.json](./298332-exoprimal-krieger-mega-man-set.json) |
 | Exoprimal: Murasame Alpha Gladiator Set | 298331 | [298331-exoprimal-murasame-alpha-gladiator-set.json](./298331-exoprimal-murasame-alpha-gladiator-set.json) |
