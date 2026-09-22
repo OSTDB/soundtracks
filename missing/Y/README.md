@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yearning: A Gay Story | 127785 | [127785-yearning-a-gay-story.json](./127785-yearning-a-gay-story.json) |
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
+| Yeeps | 304187 | [304187-yeeps.json](./304187-yeeps.json) |
 | Yeerk Pool | 257435 | [257435-yeerk-pool.json](./257435-yeerk-pool.json) |
 | Yelaxot | 59065 | [59065-yelaxot.json](./59065-yelaxot.json) |
 | Yelling At Cats: The Game | 395727 | [395727-yelling-at-cats-the-game.json](./395727-yelling-at-cats-the-game.json) |
