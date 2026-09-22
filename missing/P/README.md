@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain is the Best Medicine | 292007 | [292007-pain-is-the-best-medicine.json](./292007-pain-is-the-best-medicine.json) |
 | Pain Loop | 255767 | [255767-pain-loop.json](./255767-pain-loop.json) |
 | Pain Train | 29911 | [29911-pain-train.json](./29911-pain-train.json) |
+| Pain Train PainPocalypse | 52776 | [52776-pain-train-painpocalypse.json](./52776-pain-train-painpocalypse.json) |
 | Painajainen | 84220 | [84220-painajainen.json](./84220-painajainen.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
@@ -1429,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Rocketeer | 351610 | [351610-penguin-rocketeer.json](./351610-penguin-rocketeer.json) |
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
 | Penguin Wars | 392168 | [392168-penguin-wars.json](./392168-penguin-wars.json) |
+| Penguin Wars | 52022 | [52022-penguin-wars.json](./52022-penguin-wars.json) |
 | Penguin with a Pumpgun | 235869 | [235869-penguin-with-a-pumpgun.json](./235869-penguin-with-a-pumpgun.json) |
 | Penguins Arena: Sedna's World | 15779 | [15779-penguins-arena-sednas-world.json](./15779-penguins-arena-sednas-world.json) |
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
