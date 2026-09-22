@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper's Isle | 255968 | [255968-reapers-isle.json](./255968-reapers-isle.json) |
 | Reaper's Odyssey | 319809 | [319809-reapers-odyssey.json](./319809-reapers-odyssey.json) |
 | Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
+| Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
 | Reasonable Claustrophobia | 182922 | [182922-reasonable-claustrophobia.json](./182922-reasonable-claustrophobia.json) |
@@ -4535,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rutabaga Desert Storm | 275704 | [275704-rutabaga-desert-storm.json](./275704-rutabaga-desert-storm.json) |
 | Ruthless Safari | 52777 | [52777-ruthless-safari.json](./52777-ruthless-safari.json) |
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
+| Rutrum | 406896 | [406896-rutrum.json](./406896-rutrum.json) |
 | Rutterkin | 416685 | [416685-rutterkin.json](./416685-rutterkin.json) |
 | Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
