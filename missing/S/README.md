@@ -3677,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon's Cat in Purrfect Pitch | 233208 | [233208-simons-cat-in-purrfect-pitch.json](./233208-simons-cat-in-purrfect-pitch.json) |
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
 | Simp Attack | 157117 | [157117-simp-attack.json](./157117-simp-attack.json) |
+| SimPark | 16613 | [16613-simpark.json](./16613-simpark.json) |
 | Simple 1500 Series Hello Kitty Vol. 01: Hello Kitty Bowling | 64656 | [64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json](./64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json) |
 | Simple 1500 Series Hello Kitty Vol. 02: Hello Kitty Illust Puzzle | 64658 | [64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json](./64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json) |
 | Simple 1500 Series Hello Kitty Vol. 03: Hello Kitty Block Kuzushi | 64652 | [64652-simple-1500-series-hello-kitty-vol-03-hello-kitty-block-kuzushi.json](./64652-simple-1500-series-hello-kitty-vol-03-hello-kitty-block-kuzushi.json) |
@@ -6978,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
 | Sparkle 2 | 20069 | [20069-sparkle-2.json](./20069-sparkle-2.json) |
+| Sparkle 2 Evo | 16697 | [16697-sparkle-2-evo.json](./16697-sparkle-2-evo.json) |
 | Sparkle 4 Tales | 116326 | [116326-sparkle-4-tales.json](./116326-sparkle-4-tales.json) |
 | Sparkle HD | 103894 | [103894-sparkle-hd.json](./103894-sparkle-hd.json) |
 | Sparkle Milla: Eight Genetic Abnormalities and a Blood Ghost | 230371 | [230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json](./230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json) |
@@ -10112,6 +10114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suitcase Stories | 391198 | [391198-suitcase-stories.json](./391198-suitcase-stories.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
 | Suite Room no Nemurihime Celebteki Zeitaku Ren'ai | 229029 | [229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json](./229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json) |
+| Suits: A Business RPG | 16135 | [16135-suits-a-business-rpg.json](./16135-suits-a-business-rpg.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
 | Sukashika Shipanman DS | 69212 | [69212-sukashika-shipanman-ds.json](./69212-sukashika-shipanman-ds.json) |
 | Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
@@ -11365,6 +11368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Toy Cars Offroad | 173959 | [173959-super-toy-cars-offroad.json](./173959-super-toy-cars-offroad.json) |
+| Super Trench Attack! | 17592 | [17592-super-trench-attack.json](./17592-super-trench-attack.json) |
 | Super Trolley | 68348 | [68348-super-trolley.json](./68348-super-trolley.json) |
 | Super Trucks Racing | 43352 | [43352-super-trucks-racing.json](./43352-super-trucks-racing.json) |
 | Super Trump Collection | 42221 | [42221-super-trump-collection.json](./42221-super-trump-collection.json) |
