@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enough with the Witch | 298677 | [298677-enough-with-the-witch.json](./298677-enough-with-the-witch.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
+| Ensemble Girls!!: Memories | 397257 | [397257-ensemble-girls-memories.json](./397257-ensemble-girls-memories.json) |
 | Ensemble Stars | 102567 | [102567-ensemble-stars.json](./102567-ensemble-stars.json) |
 | Ensemble Stars! 2 | 197334 | [197334-ensemble-stars-2.json](./197334-ensemble-stars-2.json) |
 | Enshrouded | 248643 | [248643-enshrouded.json](./248643-enshrouded.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
 | EpicMafia | 57075 | [57075-epicmafia.json](./57075-epicmafia.json) |
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
+| Epicurean | 397261 | [397261-epicurean.json](./397261-epicurean.json) |
 | Epidemic Escape: A Race for the Cure | 250989 | [250989-epidemic-escape-a-race-for-the-cure.json](./250989-epidemic-escape-a-race-for-the-cure.json) |
 | Epido | 127947 | [127947-epido.json](./127947-epido.json) |
 | Epido: Second Move | 127946 | [127946-epido-second-move.json](./127946-epido-second-move.json) |
