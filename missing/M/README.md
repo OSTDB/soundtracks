@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi: Kola Kingdom Quest | 132856 | [132856-mario-and-luigi-kola-kingdom-quest.json](./132856-mario-and-luigi-kola-kingdom-quest.json) |
 | Mario & Luigi: Partners in Time | 3364 | [3364-mario-and-luigi-partners-in-time.json](./3364-mario-and-luigi-partners-in-time.json) |
 | Mario & Luigi: Power Blast | 313327 | [313327-mario-and-luigi-power-blast.json](./313327-mario-and-luigi-power-blast.json) |
+| Mario & Luigi: Star Emblem | 418730 | [418730-mario-and-luigi-star-emblem.json](./418730-mario-and-luigi-star-emblem.json) |
 | Mario & Luigi: Superstar Saga | 3351 | [3351-mario-and-luigi-superstar-saga.json](./3351-mario-and-luigi-superstar-saga.json) |
 | Mario & Luigi's Coin Chaos | 318039 | [318039-mario-and-luigis-coin-chaos.json](./318039-mario-and-luigis-coin-chaos.json) |
 | Mario & Luigi's Delightful Adventure | 307725 | [307725-mario-and-luigis-delightful-adventure.json](./307725-mario-and-luigis-delightful-adventure.json) |
@@ -3887,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
 | Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
 | Mimic | 80902 | [80902-mimic.json](./80902-mimic.json) |
+| Mimic Busters | 418674 | [418674-mimic-busters.json](./418674-mimic-busters.json) |
 | Mimic Hunters | 239761 | [239761-mimic-hunters.json](./239761-mimic-hunters.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
@@ -6415,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderous Pursuits | 85526 | [85526-murderous-pursuits.json](./85526-murderous-pursuits.json) |
+| Murders & Mistresses | 418705 | [418705-murders-and-mistresses.json](./418705-murders-and-mistresses.json) |
 | Murders on Budapest | 174285 | [174285-murders-on-budapest.json](./174285-murders-on-budapest.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
@@ -7046,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Woods | 335652 | [335652-my-woods.json](./335652-my-woods.json) |
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
+| My Zombies Are Hungry | 418792 | [418792-my-zombies-are-hungry.json](./418792-my-zombies-are-hungry.json) |
 | Mycelium: The Silent Contract | 343357 | [343357-mycelium-the-silent-contract.json](./343357-mycelium-the-silent-contract.json) |
 | Mychess | 73301 | [73301-mychess.json](./73301-mychess.json) |
 | Mycofall | 391726 | [391726-mycofall.json](./391726-mycofall.json) |
