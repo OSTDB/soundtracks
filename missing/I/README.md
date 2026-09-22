@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iGrow Game | 21986 | [21986-igrow-game.json](./21986-igrow-game.json) |
 | IGS Classic Arcade Collection | 245916 | [245916-igs-classic-arcade-collection.json](./245916-igs-classic-arcade-collection.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
+| IHF Handball Challenge 12 | 10433 | [10433-ihf-handball-challenge-12.json](./10433-ihf-handball-challenge-12.json) |
 | Ihin | 325070 | [325070-ihin.json](./325070-ihin.json) |
 | iHooy! | 79857 | [79857-ihooy.json](./79857-ihooy.json) |
 | IHRA Drag Racing 2 | 210078 | [210078-ihra-drag-racing-2.json](./210078-ihra-drag-racing-2.json) |
@@ -1565,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Pete Premium | 245323 | [245323-inside-pete-premium.json](./245323-inside-pete-premium.json) |
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
 | Inside the Crow's Nest | 353383 | [353383-inside-the-crows-nest.json](./353383-inside-the-crows-nest.json) |
+| Inside the Gear | 10437 | [10437-inside-the-gear.json](./10437-inside-the-gear.json) |
 | Inside the Memories | 152862 | [152862-inside-the-memories.json](./152862-inside-the-memories.json) |
 | Inside The Mind Of Irene Moroz | 409701 | [409701-inside-the-mind-of-irene-moroz.json](./409701-inside-the-mind-of-irene-moroz.json) |
 | Inside the Void | 167706 | [167706-inside-the-void.json](./167706-inside-the-void.json) |
@@ -1785,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Flames: Retro Fire Gear 1 | 256560 | [256560-into-the-flames-retro-fire-gear-1.json](./256560-into-the-flames-retro-fire-gear-1.json) |
 | Into The Flames: Retro Truck Pack 1 | 255162 | [255162-into-the-flames-retro-truck-pack-1.json](./255162-into-the-flames-retro-truck-pack-1.json) |
 | Into The Flames: Spooky Pack | 285606 | [285606-into-the-flames-spooky-pack.json](./285606-into-the-flames-spooky-pack.json) |
+| Into the Gloom | 10441 | [10441-into-the-gloom.json](./10441-into-the-gloom.json) |
 | Into the Gorian's Den | 275014 | [275014-into-the-gorians-den.json](./275014-into-the-gorians-den.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
 | Into the Loop | 153843 | [153843-into-the-loop.json](./153843-into-the-loop.json) |
@@ -1930,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
 | Ion.A | 290541 | [290541-ion-a.json](./290541-ion-a.json) |
 | IonAxxia | 61882 | [61882-ionaxxia.json](./61882-ionaxxia.json) |
+| IonBall 2: Ionstorm | 10443 | [10443-ionball-2-ionstorm.json](./10443-ionball-2-ionstorm.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
 | Ionscape | 240199 | [240199-ionscape.json](./240199-ionscape.json) |
 | Ioo | 267456 | [267456-ioo.json](./267456-ioo.json) |
@@ -2021,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
 | Iron Soldier | 22460 | [22460-iron-soldier.json](./22460-iron-soldier.json) |
 | Iron Soldier 3 | 51182 | [51182-iron-soldier-3.json](./51182-iron-soldier-3.json) |
+| Iron Soul | 10460 | [10460-iron-soul.json](./10460-iron-soul.json) |
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
 | Iron Works | 383350 | [383350-iron-works.json](./383350-iron-works.json) |
