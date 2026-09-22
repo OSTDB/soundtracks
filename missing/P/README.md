@@ -5342,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
 | Promise Me, You'll Live | 280803 | [280803-promise-me-youll-live.json](./280803-promise-me-youll-live.json) |
 | Promise of Lingyun | 255120 | [255120-promise-of-lingyun.json](./255120-promise-of-lingyun.json) |
+| Promised Harvest | 418712 | [418712-promised-harvest.json](./418712-promised-harvest.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Promo Pack 2x1 | 212786 | [212786-promo-pack-2x1.json](./212786-promo-pack-2x1.json) |
 | Promotion | 377610 | [377610-promotion.json](./377610-promotion.json) |
