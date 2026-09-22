@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE SmackDown: Shock Value | 260800 | [260800-wwe-smackdown-shock-value.json](./260800-wwe-smackdown-shock-value.json) |
 | WWE SmackDown! Shut Your Mouth | 6461 | [6461-wwe-smackdown-shut-your-mouth.json](./6461-wwe-smackdown-shut-your-mouth.json) |
 | WWE SuperCard | 79072 | [79072-wwe-supercard.json](./79072-wwe-supercard.json) |
+| WWE Tap Mania | 69501 | [69501-wwe-tap-mania.json](./69501-wwe-tap-mania.json) |
 | WWE WrestleFest | 95393 | [95393-wwe-wrestlefest.json](./95393-wwe-wrestlefest.json) |
 | WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
