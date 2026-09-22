@@ -4219,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runewaker | 186803 | [186803-runewaker.json](./186803-runewaker.json) |
 | Runewatch: Age of Arcanum | 208464 | [208464-runewatch-age-of-arcanum.json](./208464-runewatch-age-of-arcanum.json) |
 | Runeyana | 32935 | [32935-runeyana.json](./32935-runeyana.json) |
+| Rungore | 220488 | [220488-rungore.json](./220488-rungore.json) |
 | Runi's Math Castle | 306337 | [306337-runis-math-castle.json](./306337-runis-math-castle.json) |
 | Runic Curse | 207851 | [207851-runic-curse.json](./207851-runic-curse.json) |
 | Runic Relay: The Trials | 159121 | [159121-runic-relay-the-trials.json](./159121-runic-relay-the-trials.json) |
