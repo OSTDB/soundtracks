@@ -8319,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pixel Wars | 185618 | [185618-tiny-pixel-wars.json](./185618-tiny-pixel-wars.json) |
 | Tiny Poker | 150603 | [150603-tiny-poker.json](./150603-tiny-poker.json) |
 | Tiny Racing | 101963 | [101963-tiny-racing.json](./101963-tiny-racing.json) |
+| Tiny Ramen Shop | 411843 | [411843-tiny-ramen-shop.json](./411843-tiny-ramen-shop.json) |
 | Tiny Ring | 257364 | [257364-tiny-ring.json](./257364-tiny-ring.json) |
 | Tiny Robots Recharged | 167830 | [167830-tiny-robots-recharged.json](./167830-tiny-robots-recharged.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
@@ -9448,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Gensokyo Survivors | 248043 | [248043-touhou-gensokyo-survivors.json](./248043-touhou-gensokyo-survivors.json) |
 | Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
 | Touhou: Hotline Sanzu | 317239 | [317239-touhou-hotline-sanzu.json](./317239-touhou-hotline-sanzu.json) |
+| Touhou: Kira's Fangame Collection | 411790 | [411790-touhou-kiras-fangame-collection.json](./411790-touhou-kiras-fangame-collection.json) |
 | Touhou: Red Empress Devil | 225180 | [225180-touhou-red-empress-devil.json](./225180-touhou-red-empress-devil.json) |
 | Touhou: Tales of the Scarlet | 379443 | [379443-touhou-tales-of-the-scarlet.json](./379443-touhou-tales-of-the-scarlet.json) |
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
