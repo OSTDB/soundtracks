@@ -2143,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Ace | 195759 | [195759-return-ace.json](./195759-return-ace.json) |
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
 | Return of Double Dragon | 248131 | [248131-return-of-double-dragon.json](./248131-return-of-double-dragon.json) |
+| Return of Red Riding Hood: Enhanced Edition | 81243 | [81243-return-of-red-riding-hood-enhanced-edition.json](./81243-return-of-red-riding-hood-enhanced-edition.json) |
 | Return of Saiyan | 95840 | [95840-return-of-saiyan.json](./95840-return-of-saiyan.json) |
 | Return of the Mutant Camels | 40961 | [40961-return-of-the-mutant-camels.json](./40961-return-of-the-mutant-camels.json) |
 | Return of the Phantom | 69869 | [69869-return-of-the-phantom.json](./69869-return-of-the-phantom.json) |
@@ -4411,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Psychiatric Pastoral | 248910 | [248910-russian-psychiatric-pastoral.json](./248910-russian-psychiatric-pastoral.json) |
 | Russian Random Speedmap Pack 3 | 311463 | [311463-russian-random-speedmap-pack-3.json](./311463-russian-random-speedmap-pack-3.json) |
 | Russian Reality | 111381 | [111381-russian-reality.json](./111381-russian-reality.json) |
+| Russian Roads | 81228 | [81228-russian-roads.json](./81228-russian-roads.json) |
 | Russian Roulette | 265941 | [265941-russian-roulette.json](./265941-russian-roulette.json) |
 | Russian Roulette II: The Next Worlds | 265942 | [265942-russian-roulette-ii-the-next-worlds.json](./265942-russian-roulette-ii-the-next-worlds.json) |
 | Russian Roulette: One Life | 194564 | [194564-russian-roulette-one-life.json](./194564-russian-roulette-one-life.json) |
