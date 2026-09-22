@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For God's Sake, Help Him! | 373647 | [373647-for-gods-sake-help-him.json](./373647-for-gods-sake-help-him.json) |
 | For Hell's Sake | 310027 | [310027-for-hells-sake.json](./310027-for-hells-sake.json) |
 | For Honor: Assassin's Creed Shadows Hero Skin Bundle | 408889 | [408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json](./408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json) |
+| For Honor: Assassin's Creed Ultimate Hero Skin Bundle | 409029 | [409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json](./409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json) |
 | For Honor: Eivor Wolf-Kissed – Berserker Hero Skin | 408890 | [408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json](./408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json) |
 | For Honor: Ezio Auditore – Peacekeeper Hero Skin | 305765 | [305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json](./305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json) |
 | For Honor: Gold Heroes Pack | 305766 | [305766-for-honor-gold-heroes-pack.json](./305766-for-honor-gold-heroes-pack.json) |
@@ -3647,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: Expansions Bundle | 200693 | [200693-forza-horizon-5-expansions-bundle.json](./200693-forza-horizon-5-expansions-bundle.json) |
 | Forza Horizon 5: VIP | 387371 | [387371-forza-horizon-5-vip.json](./387371-forza-horizon-5-vip.json) |
 | Forza Horizon 5: Welcome Pack | 387369 | [387369-forza-horizon-5-welcome-pack.json](./387369-forza-horizon-5-welcome-pack.json) |
+| Forza Horizon 6 1998 Nissan Skyline Gt-r 40th Anniversary | 409011 | [409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json](./409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json) |
 | Forza Horizon: Limited Collector's Edition | 41594 | [41594-forza-horizon-limited-collectors-edition.json](./41594-forza-horizon-limited-collectors-edition.json) |
 | Forza Motorsport | 3073 | [3073-forza-motorsport.json](./3073-forza-motorsport.json) |
 | Forza Motorsport 2018 Mercedes-AMG GT3 | 278521 | [278521-forza-motorsport-2018-mercedes-amg-gt3.json](./278521-forza-motorsport-2018-mercedes-amg-gt3.json) |
