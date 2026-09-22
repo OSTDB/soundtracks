@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imitating Zombies | 189191 | [189191-imitating-zombies.json](./189191-imitating-zombies.json) |
 | Imitation City | 64680 | [64680-imitation-city.json](./64680-imitation-city.json) |
 | Imitation Girl | 382343 | [382343-imitation-girl.json](./382343-imitation-girl.json) |
+| Imitators | 418754 | [418754-imitators.json](./418754-imitators.json) |
 | IMM Defense | 86769 | [86769-imm-defense.json](./86769-imm-defense.json) |
 | Immay | 253922 | [253922-immay.json](./253922-immay.json) |
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Epic Hero | 158043 | [158043-incremental-epic-hero.json](./158043-incremental-epic-hero.json) |
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
+| Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
@@ -2066,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IronStorm - World War Zero | 44641 | [44641-ironstorm-world-war-zero.json](./44641-ironstorm-world-war-zero.json) |
 | Ironsword: Wizards & Warriors II | 48053 | [48053-ironsword-wizards-and-warriors-ii.json](./48053-ironsword-wizards-and-warriors-ii.json) |
 | IronTusk's Diablo3D | 202847 | [202847-irontusks-diablo3d.json](./202847-irontusks-diablo3d.json) |
+| Ironwake | 418751 | [418751-ironwake.json](./418751-ironwake.json) |
 | IronWood | 394370 | [394370-ironwood.json](./394370-ironwood.json) |
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
 | Irori | 184067 | [184067-irori.json](./184067-irori.json) |
