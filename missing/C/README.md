@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Caves | 113680 | [113680-chaos-caves.json](./113680-chaos-caves.json) |
 | Chaos Chronicle | 57893 | [57893-chaos-chronicle.json](./57893-chaos-chronicle.json) |
 | Chaos Code: Exact Xeno Attack | 348232 | [348232-chaos-code-exact-xeno-attack.json](./348232-chaos-code-exact-xeno-attack.json) |
+| Chaos Code: New Sign of Catastrophe | 27718 | [27718-chaos-code-new-sign-of-catastrophe.json](./27718-chaos-code-new-sign-of-catastrophe.json) |
 | Chaos Coin | 363951 | [363951-chaos-coin.json](./363951-chaos-coin.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
@@ -2295,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
 | Chicken Shoot 2 | 248634 | [248634-chicken-shoot-2.json](./248634-chicken-shoot-2.json) |
 | Chicken Shoot 2 | 49307 | [49307-chicken-shoot-2.json](./49307-chicken-shoot-2.json) |
+| Chicken Shoot Gold | 27706 | [27706-chicken-shoot-gold.json](./27706-chicken-shoot-gold.json) |
 | Chicken Tale | 288792 | [288792-chicken-tale.json](./288792-chicken-tale.json) |
 | Chicken Tricks | 249849 | [249849-chicken-tricks.json](./249849-chicken-tricks.json) |
 | Chicken vs. Eggs | 276297 | [276297-chicken-vs-eggs.json](./276297-chicken-vs-eggs.json) |
@@ -3608,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Magic Circus 2 | 61861 | [61861-cocoto-magic-circus-2.json](./61861-cocoto-magic-circus-2.json) |
 | Coda | 252211 | [252211-coda.json](./252211-coda.json) |
 | Coda | 358349 | [358349-coda.json](./358349-coda.json) |
+| Code 7 | 27175 | [27175-code-7.json](./27175-code-7.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code Adventures | 108271 | [108271-code-adventures.json](./108271-code-adventures.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
