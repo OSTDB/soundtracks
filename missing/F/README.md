@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable II: Pub Games | 21328 | [21328-fable-ii-pub-games.json](./21328-fable-ii-pub-games.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
 | Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
+| Fable Rush | 52283 | [52283-fable-rush.json](./52283-fable-rush.json) |
 | Fable: 20th Anniversary Demake | 342668 | [342668-fable-20th-anniversary-demake.json](./342668-fable-20th-anniversary-demake.json) |
 | Fable: The Lost Chapters | 694 | [694-fable-the-lost-chapters.json](./694-fable-the-lost-chapters.json) |
 | Fabled Frontier | 257988 | [257988-fabled-frontier.json](./257988-fabled-frontier.json) |
@@ -838,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy 2: Pizza Party HD | 88536 | [88536-farm-frenzy-2-pizza-party-hd.json](./88536-farm-frenzy-2-pizza-party-hd.json) |
 | Farm Frenzy 3 | 16093 | [16093-farm-frenzy-3.json](./16093-farm-frenzy-3.json) |
 | Farm Frenzy 3 HD | 88808 | [88808-farm-frenzy-3-hd.json](./88808-farm-frenzy-3-hd.json) |
+| Farm Frenzy 3: Russian Village | 53034 | [53034-farm-frenzy-3-russian-village.json](./53034-farm-frenzy-3-russian-village.json) |
 | Farm Frenzy 4 | 17317 | [17317-farm-frenzy-4.json](./17317-farm-frenzy-4.json) |
 | Farm Frenzy Collection | 34762 | [34762-farm-frenzy-collection.json](./34762-farm-frenzy-collection.json) |
 | Farm Frenzy Prostokvashino | 320397 | [320397-farm-frenzy-prostokvashino.json](./320397-farm-frenzy-prostokvashino.json) |
@@ -3269,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Planet | 81414 | [81414-forbidden-planet.json](./81414-forbidden-planet.json) |
 | Forbidden Proton | 174289 | [174289-forbidden-proton.json](./174289-forbidden-proton.json) |
 | Forbidden Quake OST Liner Notes | 262422 | [262422-forbidden-quake-ost-liner-notes.json](./262422-forbidden-quake-ost-liner-notes.json) |
+| Forbidden Secrets: Alien Town - Collector's Edition | 53035 | [53035-forbidden-secrets-alien-town-collectors-edition.json](./53035-forbidden-secrets-alien-town-collectors-edition.json) |
 | Forbidden Siren 2 | 14411 | [14411-forbidden-siren-2.json](./14411-forbidden-siren-2.json) |
 | Forbidden Solitaire | 330176 | [330176-forbidden-solitaire.json](./330176-forbidden-solitaire.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
@@ -3406,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill Mementoes | 87980 | [87980-forgotten-hill-mementoes.json](./87980-forgotten-hill-mementoes.json) |
 | Forgotten Hill: Fall | 317638 | [317638-forgotten-hill-fall.json](./317638-forgotten-hill-fall.json) |
 | Forgotten Hill: The Wardrobe | 340235 | [340235-forgotten-hill-the-wardrobe.json](./340235-forgotten-hill-the-wardrobe.json) |
+| Forgotten Land | 53096 | [53096-forgotten-land.json](./53096-forgotten-land.json) |
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
 | Forgotten Lore | 34723 | [34723-forgotten-lore.json](./34723-forgotten-lore.json) |
 | Forgotten Magic Tower | 293381 | [293381-forgotten-magic-tower.json](./293381-forgotten-magic-tower.json) |
@@ -3724,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxcrate | 383928 | [383928-foxcrate.json](./383928-foxcrate.json) |
 | Foxes and Cows | 178608 | [178608-foxes-and-cows.json](./178608-foxes-and-cows.json) |
 | Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
+| Foxfolk | 52050 | [52050-foxfolk.json](./52050-foxfolk.json) |
 | FoxHaunt | 386279 | [386279-foxhaunt.json](./386279-foxhaunt.json) |
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | Foxingdale: The Magical Stones of Kentaroo | 273492 | [273492-foxingdale-the-magical-stones-of-kentaroo.json](./273492-foxingdale-the-magical-stones-of-kentaroo.json) |
