@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing Extreme | 99398 | [99398-car-racing-extreme.json](./99398-car-racing-extreme.json) |
 | Car Racing Ice: Classic | 288372 | [288372-car-racing-ice-classic.json](./288372-car-racing-ice-classic.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
+| Car Sales Simulator 2026 | 401111 | [401111-car-sales-simulator-2026.json](./401111-car-sales-simulator-2026.json) |
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
@@ -2306,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
 | Chicken Chicken | 390635 | [390635-chicken-chicken.json](./390635-chicken-chicken.json) |
+| Chicken Climber | 401112 | [401112-chicken-climber.json](./401112-chicken-climber.json) |
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
 | Chicken Defender | 166616 | [166616-chicken-defender.json](./166616-chicken-defender.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
