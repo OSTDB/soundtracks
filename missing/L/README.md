@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Caza del Espía | 323175 | [323175-la-caza-del-espia.json](./323175-la-caza-del-espia.json) |
 | La Colmena | 86085 | [86085-la-colmena.json](./86085-la-colmena.json) |
+| LA Cops | 17080 | [17080-la-cops.json](./17080-la-cops.json) |
 | La Corona Encantada | 141850 | [141850-la-corona-encantada.json](./141850-la-corona-encantada.json) |
 | La Cosa Nostra | 389976 | [389976-la-cosa-nostra.json](./389976-la-cosa-nostra.json) |
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
@@ -2610,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loree 3D | 412950 | [412950-loree-3d.json](./412950-loree-3d.json) |
 | Lorelei and the Laser Eyes | 206806 | [206806-lorelei-and-the-laser-eyes.json](./206806-lorelei-and-the-laser-eyes.json) |
 | Lorem Gioco | 381681 | [381681-lorem-gioco.json](./381681-lorem-gioco.json) |
+| Loren the Amazon Princess | 16480 | [16480-loren-the-amazon-princess.json](./16480-loren-the-amazon-princess.json) |
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
 | Lorenzo the Runner | 274040 | [274040-lorenzo-the-runner.json](./274040-lorenzo-the-runner.json) |
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
