@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslamp Cases 6: Haunted Waters | 294732 | [294732-gaslamp-cases-6-haunted-waters.json](./294732-gaslamp-cases-6-haunted-waters.json) |
 | Gaslamp Cases 7: The Faith of Rasputin | 294735 | [294735-gaslamp-cases-7-the-faith-of-rasputin.json](./294735-gaslamp-cases-7-the-faith-of-rasputin.json) |
 | Gaslift: A Chair Horror | 414311 | [414311-gaslift-a-chair-horror.json](./414311-gaslift-a-chair-horror.json) |
+| Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
 | GastroEx | 215245 | [215245-gastroex.json](./215245-gastroex.json) |
