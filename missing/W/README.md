@@ -2850,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
 | WorldGuessr | 315679 | [315679-worldguessr.json](./315679-worldguessr.json) |
+| Worldless | 214709 | [214709-worldless.json](./214709-worldless.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | WorldNeverland: Elnea Kingdom - Ancestral Garb Set: Berry | 316264 | [316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json](./316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json) |
 | WorldNeverland: Elnea Kingdom - Fluffy Brown-Rabbit Suit | 324496 | [324496-worldneverland-elnea-kingdom-fluffy-brown-rabbit-suit.json](./324496-worldneverland-elnea-kingdom-fluffy-brown-rabbit-suit.json) |
