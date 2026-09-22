@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
 | Hand of Seasons | 298687 | [298687-hand-of-seasons.json](./298687-hand-of-seasons.json) |
 | Hand of the Goddess | 273919 | [273919-hand-of-the-goddess.json](./273919-hand-of-the-goddess.json) |
+| Hand of the Gods: Core Set Bundle | 90575 | [90575-hand-of-the-gods-core-set-bundle.json](./90575-hand-of-the-gods-core-set-bundle.json) |
 | Hand Simulator | 44143 | [44143-hand-simulator.json](./44143-hand-simulator.json) |
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
 | Hand to Hand Combat | 118004 | [118004-hand-to-hand-combat.json](./118004-hand-to-hand-combat.json) |
@@ -2375,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
+| Hidden Object - 12 in 1 bundle | 90581 | [90581-hidden-object-12-in-1-bundle.json](./90581-hidden-object-12-in-1-bundle.json) |
 | Hidden Object - Unwrap the Secrets of the Lost Candy World! Seek & Find Hunt Game | 71207 | [71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json](./71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json) |
 | Hidden Object 6-in-1 bundle | 90590 | [90590-hidden-object-6-in-1-bundle.json](./90590-hidden-object-6-in-1-bundle.json) |
 | Hidden Object Adventures: Sunken Treasures | 101940 | [101940-hidden-object-adventures-sunken-treasures.json](./101940-hidden-object-adventures-sunken-treasures.json) |
@@ -3104,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
+| Home Design Makeover! | 90416 | [90416-home-design-makeover.json](./90416-home-design-makeover.json) |
 | Home Designer Makeover Blast: Jason's Industrial Loft | 255068 | [255068-home-designer-makeover-blast-jasons-industrial-loft.json](./255068-home-designer-makeover-blast-jasons-industrial-loft.json) |
 | Home Designer Makeover Blast: Liam & Beth's Studio Apartment | 255069 | [255069-home-designer-makeover-blast-liam-and-beths-studio-apartment.json](./255069-home-designer-makeover-blast-liam-and-beths-studio-apartment.json) |
 | Home Designer Makeover Blast: Mark & Mary's Master Bedroom | 255070 | [255070-home-designer-makeover-blast-mark-and-marys-master-bedroom.json](./255070-home-designer-makeover-blast-mark-and-marys-master-bedroom.json) |
