@@ -3604,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost and The Phoenix | 224585 | [224585-the-ghost-and-the-phoenix.json](./224585-the-ghost-and-the-phoenix.json) |
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
+| The Ghost Of Solaris | 396588 | [396588-the-ghost-of-solaris.json](./396588-the-ghost-of-solaris.json) |
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
 | The Ghost Ship | 111662 | [111662-the-ghost-ship.json](./111662-the-ghost-ship.json) |
 | The Ghost Town Adventure | 108284 | [108284-the-ghost-town-adventure.json](./108284-the-ghost-town-adventure.json) |
@@ -3810,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heist of the Argonaut Limited | 305347 | [305347-the-heist-of-the-argonaut-limited.json](./305347-the-heist-of-the-argonaut-limited.json) |
 | The Hell in I | 301830 | [301830-the-hell-in-i.json](./301830-the-hell-in-i.json) |
 | The Hell Inside | 286082 | [286082-the-hell-inside.json](./286082-the-hell-inside.json) |
+| The Hell Provided | 396560 | [396560-the-hell-provided.json](./396560-the-hell-provided.json) |
 | The Hell That's Coming | 271849 | [271849-the-hell-thats-coming.json](./271849-the-hell-thats-coming.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
 | The Hellchemist | 240800 | [240800-the-hellchemist.json](./240800-the-hellchemist.json) |
@@ -5688,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
 | The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
 | The Sea Lion | 386845 | [386845-the-sea-lion.json](./386845-the-sea-lion.json) |
+| The Sea of Glomp | 396568 | [396568-the-sea-of-glomp.json](./396568-the-sea-of-glomp.json) |
 | The Seal Hunter | 345555 | [345555-the-seal-hunter.json](./345555-the-seal-hunter.json) |
 | The Seal of Hades | 47536 | [47536-the-seal-of-hades.json](./47536-the-seal-of-hades.json) |
 | The Séance of Blake Manor | 335833 | [335833-the-seance-of-blake-manor.json](./335833-the-seance-of-blake-manor.json) |
@@ -8896,6 +8899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Thumb | 206766 | [206766-tom-thumb.json](./206766-tom-thumb.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
 | Tomarc the Barbarian | 23840 | [23840-tomarc-the-barbarian.json](./23840-tomarc-the-barbarian.json) |
+| Tomato Dealer | 396579 | [396579-tomato-dealer.json](./396579-tomato-dealer.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
@@ -9410,6 +9414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touge Challenge | 161344 | [161344-touge-challenge.json](./161344-touge-challenge.json) |
 | Touge King: The Spirits 2 | 66100 | [66100-touge-king-the-spirits-2.json](./66100-touge-king-the-spirits-2.json) |
 | Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
+| Tougen Anki: Crimson Inferno | 396591 | [396591-tougen-anki-crimson-inferno.json](./396591-tougen-anki-crimson-inferno.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
 | Tough Turf | 40259 | [40259-tough-turf.json](./40259-tough-turf.json) |
 | Touhai Densetsu Akagi: Yami ni Maiorita Tensai | 74767 | [74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json](./74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json) |
@@ -9570,6 +9575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament Blackjack | 70101 | [70101-tournament-blackjack.json](./70101-tournament-blackjack.json) |
 | Tournament of Armistice: Preliminaries | 163853 | [163853-tournament-of-armistice-preliminaries.json](./163853-tournament-of-armistice-preliminaries.json) |
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
+| Tournament Pool | 396580 | [396580-tournament-pool.json](./396580-tournament-pool.json) |
 | Tournament Pool | 51162 | [51162-tournament-pool.json](./51162-tournament-pool.json) |
 | Tournament Tower | 273412 | [273412-tournament-tower.json](./273412-tournament-tower.json) |
 | Tournament: Blood & Steel | 119051 | [119051-tournament-blood-and-steel.json](./119051-tournament-blood-and-steel.json) |
