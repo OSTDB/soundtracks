@@ -5382,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aussie Rules Footy | 9107 | [9107-aussie-rules-footy.json](./9107-aussie-rules-footy.json) |
 | Aussie Sports VR | 31920 | [31920-aussie-sports-vr.json](./31920-aussie-sports-vr.json) |
 | Austen Translation | 68768 | [68768-austen-translation.json](./68768-austen-translation.json) |
+| Austerity X | 407587 | [407587-austerity-x.json](./407587-austerity-x.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
 | Austin Powers: Oh, Behave! | 49890 | [49890-austin-powers-oh-behave.json](./49890-austin-powers-oh-behave.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
