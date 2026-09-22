@@ -1918,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Jump Rally | 260225 | [260225-over-jump-rally.json](./260225-over-jump-rally.json) |
 | Over Many Waters | 270964 | [270964-over-many-waters.json](./270964-over-many-waters.json) |
 | Over OBJ | 255107 | [255107-over-obj.json](./255107-over-obj.json) |
+| Over Sand | 402485 | [402485-over-sand.json](./402485-over-sand.json) |
 | Over Shooter | 339284 | [339284-over-shooter.json](./339284-over-shooter.json) |
 | Over Speed | 247021 | [247021-over-speed.json](./247021-over-speed.json) |
 | Over the Alps: King of the Mountain | 135802 | [135802-over-the-alps-king-of-the-mountain.json](./135802-over-the-alps-king-of-the-mountain.json) |
