@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Rush | 52283 | [52283-fable-rush.json](./52283-fable-rush.json) |
 | Fable: 20th Anniversary Demake | 342668 | [342668-fable-20th-anniversary-demake.json](./342668-fable-20th-anniversary-demake.json) |
 | Fable: The Lost Chapters | 694 | [694-fable-the-lost-chapters.json](./694-fable-the-lost-chapters.json) |
+| FableBrawl | 411113 | [411113-fablebrawl.json](./411113-fablebrawl.json) |
 | Fabled Frontier | 257988 | [257988-fabled-frontier.json](./257988-fabled-frontier.json) |
 | Fabled Lands | 133420 | [133420-fabled-lands.json](./133420-fabled-lands.json) |
 | Fabled Lands: Lords of the Rising Sun | 237354 | [237354-fabled-lands-lords-of-the-rising-sun.json](./237354-fabled-lands-lords-of-the-rising-sun.json) |
@@ -2896,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floyd of the Jungle | 24987 | [24987-floyd-of-the-jungle.json](./24987-floyd-of-the-jungle.json) |
 | FLS | 127755 | [127755-fls.json](./127755-fls.json) |
 | Flub Fighter | 31218 | [31218-flub-fighter.json](./31218-flub-fighter.json) |
+| Fluendora: The Realm of Scribes | 411127 | [411127-fluendora-the-realm-of-scribes.json](./411127-fluendora-the-realm-of-scribes.json) |
 | Fluff | 221749 | [221749-fluff.json](./221749-fluff.json) |
 | Fluff Up | 405579 | [405579-fluff-up.json](./405579-fluff-up.json) |
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
