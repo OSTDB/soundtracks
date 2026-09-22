@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
 | Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
 | Sakura Dimensions | 292694 | [292694-sakura-dimensions.json](./292694-sakura-dimensions.json) |
+| Sakura Drift | 401772 | [401772-sakura-drift.json](./401772-sakura-drift.json) |
 | Sakura Gamer 2 | 127212 | [127212-sakura-gamer-2.json](./127212-sakura-gamer-2.json) |
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
 | Sakura High School Love Story | 299884 | [299884-sakura-high-school-love-story.json](./299884-sakura-high-school-love-story.json) |
@@ -3652,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Nights | 240787 | [240787-silent-nights.json](./240787-silent-nights.json) |
 | Silent Numbers | 390104 | [390104-silent-numbers.json](./390104-silent-numbers.json) |
 | Silent Ops | 332433 | [332433-silent-ops.json](./332433-silent-ops.json) |
+| Silent Paradise | 401796 | [401796-silent-paradise.json](./401796-silent-paradise.json) |
 | Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
 | Silent Ruins | 183520 | [183520-silent-ruins.json](./183520-silent-ruins.json) |
@@ -8037,6 +8039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
 | Spy Bot Chronicles | 78344 | [78344-spy-bot-chronicles.json](./78344-spy-bot-chronicles.json) |
+| Spy Car | 401797 | [401797-spy-car.json](./401797-spy-car.json) |
 | Spy Carnival | 406936 | [406936-spy-carnival.json](./406936-spy-carnival.json) |
 | Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
 | Spy DNA | 126417 | [126417-spy-dna.json](./126417-spy-dna.json) |
@@ -8107,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
 | Square Deal: The Game of Two Dimensional Poker | 7815 | [7815-square-deal-the-game-of-two-dimensional-poker.json](./7815-square-deal-the-game-of-two-dimensional-poker.json) |
 | Square Enix Masterpieces: Tomb Raider Bundle | 286664 | [286664-square-enix-masterpieces-tomb-raider-bundle.json](./286664-square-enix-masterpieces-tomb-raider-bundle.json) |
+| Square Fall | 401811 | [401811-square-fall.json](./401811-square-fall.json) |
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
 | Square Flood | 58259 | [58259-square-flood.json](./58259-square-flood.json) |
 | Square Garden | 234748 | [234748-square-garden.json](./234748-square-garden.json) |
