@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
 | Ageod's American Civil War: The Blue and the Gray | 21451 | [21451-ageods-american-civil-war-the-blue-and-the-gray.json](./21451-ageods-american-civil-war-the-blue-and-the-gray.json) |
+| Ages of Mages: The Last Keeper | 98755 | [98755-ages-of-mages-the-last-keeper.json](./98755-ages-of-mages-the-last-keeper.json) |
 | Aggressive Inline | 3783 | [3783-aggressive-inline.json](./3783-aggressive-inline.json) |
 | Aggressor | 13241 | [13241-aggressor.json](./13241-aggressor.json) |
 | Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
@@ -2230,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu | 194578 | [194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json](./194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json) |
 | Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
 | Amaze 3D | 43172 | [43172-amaze-3d.json](./43172-amaze-3d.json) |
+| Amaze Classic | 98686 | [98686-amaze-classic.json](./98686-amaze-classic.json) |
 | Amaze Classic: Inverted | 104079 | [104079-amaze-classic-inverted.json](./104079-amaze-classic-inverted.json) |
 | Amaze Gears | 88087 | [88087-amaze-gears.json](./88087-amaze-gears.json) |
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
@@ -2336,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Most Eligible: Book 2 | 313692 | [313692-americas-most-eligible-book-2.json](./313692-americas-most-eligible-book-2.json) |
 | America's Most Eligible: Book 3 | 313693 | [313693-americas-most-eligible-book-3.json](./313693-americas-most-eligible-book-3.json) |
 | America's Next Top Pornstar | 304675 | [304675-americas-next-top-pornstar.json](./304675-americas-next-top-pornstar.json) |
+| America's Retribution | 98763 | [98763-americas-retribution.json](./98763-americas-retribution.json) |
 | America's Test Kitchen: Let's Get Cooking | 24343 | [24343-americas-test-kitchen-lets-get-cooking.json](./24343-americas-test-kitchen-lets-get-cooking.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
@@ -2371,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Pickers: The Road Less Traveled | 65204 | [65204-american-pickers-the-road-less-traveled.json](./65204-american-pickers-the-road-less-traveled.json) |
 | American Poker | 14252 | [14252-american-poker.json](./14252-american-poker.json) |
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
+| American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
 | American Truck Simulator | 9667 | [9667-american-truck-simulator.json](./9667-american-truck-simulator.json) |
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
@@ -4432,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Per My Last Email | 314868 | [314868-as-per-my-last-email.json](./314868-as-per-my-last-email.json) |
 | As simple as it could get | 211411 | [211411-as-simple-as-it-could-get.json](./211411-as-simple-as-it-could-get.json) |
 | As Sweetberry Falls | 379882 | [379882-as-sweetberry-falls.json](./379882-as-sweetberry-falls.json) |
+| As We Know It | 99094 | [99094-as-we-know-it.json](./99094-as-we-know-it.json) |
 | As We Unite | 365081 | [365081-as-we-unite.json](./365081-as-we-unite.json) |
 | As You Wish | 301961 | [301961-as-you-wish.json](./301961-as-you-wish.json) |
 | Asa-Chan Wants to Go Home! | 272283 | [272283-asa-chan-wants-to-go-home.json](./272283-asa-chan-wants-to-go-home.json) |
@@ -4938,6 +4943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura's Wrath: Lost Episode 2 | 182448 | [182448-asuras-wrath-lost-episode-2.json](./182448-asuras-wrath-lost-episode-2.json) |
 | Asuria Awakens | 175390 | [175390-asuria-awakens.json](./175390-asuria-awakens.json) |
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
+| Asylamba : Influence | 99154 | [99154-asylamba-influence.json](./99154-asylamba-influence.json) |
 | Asylum | 86391 | [86391-asylum.json](./86391-asylum.json) |
 | Asylum | 95384 | [95384-asylum.json](./95384-asylum.json) |
 | Asylum 45 | 384666 | [384666-asylum-45.json](./384666-asylum-45.json) |
@@ -5421,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
+| Avariavs | 98405 | [98405-avariavs.json](./98405-avariavs.json) |
 | Avarice | 125408 | [125408-avarice.json](./125408-avarice.json) |
 | Avarice | 217859 | [217859-avarice.json](./217859-avarice.json) |
 | Avast: Scourge of Sea | 315094 | [315094-avast-scourge-of-sea.json](./315094-avast-scourge-of-sea.json) |
@@ -5673,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
 | Azurael's Circle: Chapter 3 | 112368 | [112368-azuraels-circle-chapter-3.json](./112368-azuraels-circle-chapter-3.json) |
 | Azurael's Circle: Chapter 5 | 168836 | [168836-azuraels-circle-chapter-5.json](./168836-azuraels-circle-chapter-5.json) |
+| Azuran Tales: Trials | 99165 | [99165-azuran-tales-trials.json](./99165-azuran-tales-trials.json) |
 | Azure | 150658 | [150658-azure.json](./150658-azure.json) |
 | Azure Be Gone | 322396 | [322396-azure-be-gone.json](./322396-azure-be-gone.json) |
 | Azure Dreams | 6545 | [6545-azure-dreams.json](./6545-azure-dreams.json) |
