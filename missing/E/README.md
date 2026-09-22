@@ -2267,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
+| Everhold | 413879 | [413879-everhold.json](./413879-everhold.json) |
 | Everhood | 132083 | [132083-everhood.json](./132083-everhood.json) |
 | Evering | 182386 | [182386-evering.json](./182386-evering.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
