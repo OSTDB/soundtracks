@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
 | Railroad Tycoon Collection | 53490 | [53490-railroad-tycoon-collection.json](./53490-railroad-tycoon-collection.json) |
 | Railroad Tycoon II: The Second Century | 71480 | [71480-railroad-tycoon-ii-the-second-century.json](./71480-railroad-tycoon-ii-the-second-century.json) |
+| Railroad X | 16663 | [16663-railroad-x.json](./16663-railroad-x.json) |
 | Railroad X: Trans Europ Express VT 11.5 | 171026 | [171026-railroad-x-trans-europ-express-vt-11-5.json](./171026-railroad-x-trans-europ-express-vt-11-5.json) |
 | Railroads Online: Explorer DLC | 332801 | [332801-railroads-online-explorer-dlc.json](./332801-railroads-online-explorer-dlc.json) |
 | Railroads Online: Extended Edition | 331852 | [331852-railroads-online-extended-edition.json](./331852-railroads-online-extended-edition.json) |
@@ -1257,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recreational Dreaming | 83574 | [83574-recreational-dreaming.json](./83574-recreational-dreaming.json) |
 | Recreational Warfare | 251182 | [251182-recreational-warfare.json](./251182-recreational-warfare.json) |
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
+| Recruits | 16626 | [16626-recruits.json](./16626-recruits.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
 | Rectitude | 173224 | [173224-rectitude.json](./173224-rectitude.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
@@ -1478,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedMoonWorld | 411616 | [411616-redmoonworld.json](./411616-redmoonworld.json) |
 | Redneck Ed: Astro Monsters Show | 132230 | [132230-redneck-ed-astro-monsters-show.json](./132230-redneck-ed-astro-monsters-show.json) |
 | Redneck Party | 151026 | [151026-redneck-party.json](./151026-redneck-party.json) |
+| Redneck Racers | 17199 | [17199-redneck-racers.json](./17199-redneck-racers.json) |
 | Redneck Rampage | 9002 | [9002-redneck-rampage.json](./9002-redneck-rampage.json) |
 | Redneck Rift | 207914 | [207914-redneck-rift.json](./207914-redneck-rift.json) |
 | Redo! | 114085 | [114085-redo.json](./114085-redo.json) |
@@ -1609,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
 | Reignbreaker | 314640 | [314640-reignbreaker.json](./314640-reignbreaker.json) |
 | Reigning | 153849 | [153849-reigning.json](./153849-reigning.json) |
+| ReignMaker | 17162 | [17162-reignmaker.json](./17162-reignmaker.json) |
 | Reignman | 99033 | [99033-reignman.json](./99033-reignman.json) |
 | Reigns: Complete Set | 300835 | [300835-reigns-complete-set.json](./300835-reigns-complete-set.json) |
 | Reigns: Game of Thrones | 107237 | [107237-reigns-game-of-thrones.json](./107237-reigns-game-of-thrones.json) |
@@ -2552,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding Rhodri | 51164 | [51164-riding-rhodri.json](./51164-riding-rhodri.json) |
 | Riding Spirits | 23761 | [23761-riding-spirits.json](./23761-riding-spirits.json) |
 | Riding Stables 3D | 84840 | [84840-riding-stables-3d.json](./84840-riding-stables-3d.json) |
+| Riding Star | 17047 | [17047-riding-star.json](./17047-riding-star.json) |
 | Riding Star | 71780 | [71780-riding-star.json](./71780-riding-star.json) |
 | Riding Star 3D: Champion in Sattle | 84839 | [84839-riding-star-3d-champion-in-sattle.json](./84839-riding-star-3d-champion-in-sattle.json) |
 | Riding the Wave | 318387 | [318387-riding-the-wave.json](./318387-riding-the-wave.json) |
@@ -2729,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Of Dune | 327212 | [327212-rise-of-dune.json](./327212-rise-of-dune.json) |
 | Rise of Elements | 334724 | [334724-rise-of-elements.json](./334724-rise-of-elements.json) |
 | Rise of Empire: King's Landing | 100853 | [100853-rise-of-empire-kings-landing.json](./100853-rise-of-empire-kings-landing.json) |
+| Rise of Flight United | 16573 | [16573-rise-of-flight-united.json](./16573-rise-of-flight-united.json) |
 | Rise of Flight United: Battle of Saint-Mihiel | 162751 | [162751-rise-of-flight-united-battle-of-saint-mihiel.json](./162751-rise-of-flight-united-battle-of-saint-mihiel.json) |
 | Rise of Flight United: ILYA Muromets | 162752 | [162752-rise-of-flight-united-ilya-muromets.json](./162752-rise-of-flight-united-ilya-muromets.json) |
 | Rise of Flight United: Legendary Bombers | 162753 | [162753-rise-of-flight-united-legendary-bombers.json](./162753-rise-of-flight-united-legendary-bombers.json) |
