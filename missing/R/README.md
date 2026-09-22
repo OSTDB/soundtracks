@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Jump | 141019 | [141019-rage-jump.json](./141019-rage-jump.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage of Mages | 13154 | [13154-rage-of-mages.json](./13154-rage-of-mages.json) |
+| Rage of the Dragons NEO | 296483 | [296483-rage-of-the-dragons-neo.json](./296483-rage-of-the-dragons-neo.json) |
 | Rage of the Wasteland | 157137 | [157137-rage-of-the-wasteland.json](./157137-rage-of-the-wasteland.json) |
 | Rage of Tiger 2: Blood, Money and Tears | 64350 | [64350-rage-of-tiger-2-blood-money-and-tears.json](./64350-rage-of-tiger-2-blood-money-and-tears.json) |
 | Rage Parking Simulator 2016 | 26955 | [26955-rage-parking-simulator-2016.json](./26955-rage-parking-simulator-2016.json) |
@@ -1710,6 +1711,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
 | Remnant Generation: Prologue | 392293 | [392293-remnant-generation-prologue.json](./392293-remnant-generation-prologue.json) |
+| Remnant II: The Dark Horizon | 317619 | [317619-remnant-ii-the-dark-horizon.json](./317619-remnant-ii-the-dark-horizon.json) |
+| Remnant II: The Forgotten Kingdom | 297261 | [297261-remnant-ii-the-forgotten-kingdom.json](./297261-remnant-ii-the-forgotten-kingdom.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
 | Remnant: From the Ashes - Swamps of Corsus | 132138 | [132138-remnant-from-the-ashes-swamps-of-corsus.json](./132138-remnant-from-the-ashes-swamps-of-corsus.json) |
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
@@ -2100,6 +2103,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroQuest | 45332 | [45332-retroquest.json](./45332-retroquest.json) |
 | RetroRaider II: Lara's Quest Continues | 55914 | [55914-retroraider-ii-laras-quest-continues.json](./55914-retroraider-ii-laras-quest-continues.json) |
 | RetroRaider: Three Crystals | 55915 | [55915-retroraider-three-crystals.json](./55915-retroraider-three-crystals.json) |
+| RetroRealms Arcade | 317276 | [317276-retrorealms-arcade.json](./317276-retrorealms-arcade.json) |
+| RetroRealms Double Feature: Halloween + Ash vs. Evil Dead | 320204 | [320204-retrorealms-double-feature-halloween-ash-vs-evil-dead.json](./320204-retrorealms-double-feature-halloween-ash-vs-evil-dead.json) |
 | RetroRealms Double Feature: Halloween and Ash vs. Evil Dead - Day One Edition | 331841 | [331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json](./331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json) |
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
 | RetroRealms: Halloween | 313489 | [313489-retrorealms-halloween.json](./313489-retrorealms-halloween.json) |
@@ -3045,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robolucion: The Sandwich Conspiracy | 390681 | [390681-robolucion-the-sandwich-conspiracy.json](./390681-robolucion-the-sandwich-conspiracy.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
+| Roboquest VR | 313774 | [313774-roboquest-vr.json](./313774-roboquest-vr.json) |
 | Roborobi | 357808 | [357808-roborobi.json](./357808-roborobi.json) |
 | RoBoRumble | 26485 | [26485-roborumble.json](./26485-roborumble.json) |
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
@@ -3385,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue of the Seven Seas | 180761 | [180761-rogue-of-the-seven-seas.json](./180761-rogue-of-the-seven-seas.json) |
 | Rogue Operatives | 34712 | [34712-rogue-operatives.json](./34712-rogue-operatives.json) |
 | Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
+| Rogue Piñatas: VRmageddon | 319683 | [319683-rogue-pinatas-vrmageddon.json](./319683-rogue-pinatas-vrmageddon.json) |
 | Rogue Planet | 197343 | [197343-rogue-planet.json](./197343-rogue-planet.json) |
 | Rogue Planet | 91355 | [91355-rogue-planet.json](./91355-rogue-planet.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
