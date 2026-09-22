@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
 | Re:leap-future City and Futureless | 346572 | [346572-re-leap-future-city-and-futureless.json](./346572-re-leap-future-city-and-futureless.json) |
 | Re:Legend | 51535 | [51535-re-legend.json](./51535-re-legend.json) |
+| Re:Metamorphosis Candina | 409768 | [409768-re-metamorphosis-candina.json](./409768-re-metamorphosis-candina.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
 | Re:Ozma | 118162 | [118162-re-ozma.json](./118162-re-ozma.json) |
 | Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
@@ -3880,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | rOt 3D | 119783 | [119783-rot-3d.json](./119783-rot-3d.json) |
 | Rot Forever | 371260 | [371260-rot-forever.json](./371260-rot-forever.json) |
 | Rot Gut | 34656 | [34656-rot-gut.json](./34656-rot-gut.json) |
+| Rot Splatation | 409809 | [409809-rot-splatation.json](./409809-rot-splatation.json) |
 | Rota's Nautical Chronicles of Trade: Aname Momo - Collaboration Commemorative Residentization DLC | 329009 | [329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json](./329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json) |
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
 | Rotate It! | 68934 | [68934-rotate-it.json](./68934-rotate-it.json) |
