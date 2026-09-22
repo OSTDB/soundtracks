@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
 | Let's Go | 246466 | [246466-lets-go.json](./246466-lets-go.json) |
 | Let's Go Bassfishing! | 282681 | [282681-lets-go-bassfishing.json](./282681-lets-go-bassfishing.json) |
+| Let's Go By Train! | 21398 | [21398-lets-go-by-train.json](./21398-lets-go-by-train.json) |
 | Let's Go Camping | 220143 | [220143-lets-go-camping.json](./220143-lets-go-camping.json) |
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
 | Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
@@ -1822,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
 | Lineage Eternal: Twilight Resistance | 72981 | [72981-lineage-eternal-twilight-resistance.json](./72981-lineage-eternal-twilight-resistance.json) |
 | Lineage II Classic | 109600 | [109600-lineage-ii-classic.json](./109600-lineage-ii-classic.json) |
+| Lineage II: The Chaotic Throne - The 1st Throne: The Kamael | 21497 | [21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json](./21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json) |
 | Lineal Distancing | 299769 | [299769-lineal-distancing.json](./299769-lineal-distancing.json) |
 | Linear S | 349331 | [349331-linear-s.json](./349331-linear-s.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
@@ -2711,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Egg 3: The Final | 229966 | [229966-lost-egg-3-the-final.json](./229966-lost-egg-3-the-final.json) |
 | Lost Egg: The Hard Boiled | 330317 | [330317-lost-egg-the-hard-boiled.json](./330317-lost-egg-the-hard-boiled.json) |
 | Lost Eidolons: Digital Deluxe | 227358 | [227358-lost-eidolons-digital-deluxe.json](./227358-lost-eidolons-digital-deluxe.json) |
+| Lost Empire: Immortals | 21470 | [21470-lost-empire-immortals.json](./21470-lost-empire-immortals.json) |
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
 | Lost Ethereal | 177930 | [177930-lost-ethereal.json](./177930-lost-ethereal.json) |
 | Lost Everything: Chapter 1 | 299161 | [299161-lost-everything-chapter-1.json](./299161-lost-everything-chapter-1.json) |
