@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacArthur's War: Battles for Korea | 62152 | [62152-macarthurs-war-battles-for-korea.json](./62152-macarthurs-war-battles-for-korea.json) |
 | Macbeth | 25915 | [25915-macbeth.json](./25915-macbeth.json) |
 | MacBlaster | 93358 | [93358-macblaster.json](./93358-macblaster.json) |
+| Mace and Grace | 117465 | [117465-mace-and-grace.json](./117465-mace-and-grace.json) |
 | Mace Griffin: Bounty Hunter | 5904 | [5904-mace-griffin-bounty-hunter.json](./5904-mace-griffin-bounty-hunter.json) |
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
 | Mace: The Dark Age | 3535 | [3535-mace-the-dark-age.json](./3535-mace-the-dark-age.json) |
@@ -4657,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Federation | 116394 | [116394-mma-federation.json](./116394-mma-federation.json) |
 | MMA Manager | 175306 | [175306-mma-manager.json](./175306-mma-manager.json) |
 | MMA Manager 2: Ultimate Fight | 174811 | [174811-mma-manager-2-ultimate-fight.json](./174811-mma-manager-2-ultimate-fight.json) |
+| MMA Team Manager | 111518 | [111518-mma-team-manager.json](./111518-mma-team-manager.json) |
 | MMM | 343815 | [343815-mmm.json](./343815-mmm.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
@@ -6551,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP: The Official Motocross Videogame Compact | 36113 | [36113-mxgp-the-official-motocross-videogame-compact.json](./36113-mxgp-the-official-motocross-videogame-compact.json) |
 | MXGP2: The Official Motocross Videogame | 20391 | [20391-mxgp2-the-official-motocross-videogame.json](./20391-mxgp2-the-official-motocross-videogame.json) |
 | Mxsimulator | 137035 | [137035-mxsimulator.json](./137035-mxsimulator.json) |
+| My 1/6 Lover | 111404 | [111404-my-1-6-lover.json](./111404-my-1-6-lover.json) |
 | My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
 | My Agent is a Futanari | 220676 | [220676-my-agent-is-a-futanari.json](./220676-my-agent-is-a-futanari.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
