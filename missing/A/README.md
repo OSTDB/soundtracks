@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A (W)hole lot of Colors | 177479 | [177479-a-w-hole-lot-of-colors.json](./177479-a-w-hole-lot-of-colors.json) |
 | A 2ª Jornada | 299470 | [299470-a-2a-jornada.json](./299470-a-2a-jornada.json) |
 | A Army Base | 277571 | [277571-a-army-base.json](./277571-a-army-base.json) |
+| A Baby CEO?! | 391884 | [391884-a-baby-ceo.json](./391884-a-baby-ceo.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
@@ -981,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Way | 113506 | [113506-aether-way.json](./113506-aether-way.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
+| Aetherica: Echoes of Exodus | 391868 | [391868-aetherica-echoes-of-exodus.json](./391868-aetherica-echoes-of-exodus.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
 | Aethus | 270142 | [270142-aethus.json](./270142-aethus.json) |
 | Aetolia | 122895 | [122895-aetolia.json](./122895-aetolia.json) |
@@ -1621,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alea Jacta Est: Parthian Wars | 169293 | [169293-alea-jacta-est-parthian-wars.json](./169293-alea-jacta-est-parthian-wars.json) |
 | Alea Jacta Est: Spartacus 73BC | 169290 | [169290-alea-jacta-est-spartacus-73bc.json](./169290-alea-jacta-est-spartacus-73bc.json) |
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
+| Alegraz | 391895 | [391895-alegraz.json](./391895-alegraz.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
 | Alekhine's Gun | 15691 | [15691-alekhines-gun.json](./15691-alekhines-gun.json) |
 | Aleon's Nightmare | 211408 | [211408-aleons-nightmare.json](./211408-aleons-nightmare.json) |
@@ -1826,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
 | Alien Slayer | 275099 | [275099-alien-slayer.json](./275099-alien-slayer.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
+| Alien Soda Online | 391851 | [391851-alien-soda-online.json](./391851-alien-soda-online.json) |
 | Alien Soldier | 4490 | [4490-alien-soldier.json](./4490-alien-soldier.json) |
 | Alien Space Bastards | 188688 | [188688-alien-space-bastards.json](./188688-alien-space-bastards.json) |
 | Alien SpaceCraft | 96773 | [96773-alien-spacecraft.json](./96773-alien-spacecraft.json) |
@@ -3208,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Head | 323759 | [323759-another-head.json](./323759-another-head.json) |
 | Another Heaven | 382277 | [382277-another-heaven.json](./382277-another-heaven.json) |
 | Another Hour Another Planet | 293093 | [293093-another-hour-another-planet.json](./293093-another-hour-another-planet.json) |
+| Another Late Night | 391875 | [391875-another-late-night.json](./391875-another-late-night.json) |
 | Another Moon Whistle: Kuzureteku Nyuudougumo | 166143 | [166143-another-moon-whistle-kuzureteku-nyuudougumo.json](./166143-another-moon-whistle-kuzureteku-nyuudougumo.json) |
 | Another Museum | 217855 | [217855-another-museum.json](./217855-another-museum.json) |
 | Another Mythical Journey | 185091 | [185091-another-mythical-journey.json](./185091-another-mythical-journey.json) |
@@ -3894,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadian Rift | 162245 | [162245-arcadian-rift.json](./162245-arcadian-rift.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
+| Arcadletra | 391876 | [391876-arcadletra.json](./391876-arcadletra.json) |
 | Arcaduis | 164984 | [164984-arcaduis.json](./164984-arcaduis.json) |
 | Arcaea | 147946 | [147946-arcaea.json](./147946-arcaea.json) |
 | Arcaea | 27997 | [27997-arcaea.json](./27997-arcaea.json) |
@@ -3988,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer: Sheshou | 246990 | [246990-archer-sheshou.json](./246990-archer-sheshou.json) |
 | Archer's Adventure | 165706 | [165706-archers-adventure.json](./165706-archers-adventure.json) |
 | ArcherCat | 200020 | [200020-archercat.json](./200020-archercat.json) |
+| Archerio | 391860 | [391860-archerio.json](./391860-archerio.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
 | Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
