@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakshasa Street: Wargod | 193894 | [193894-rakshasa-street-wargod.json](./193894-rakshasa-street-wargod.json) |
 | Raku Jongg | 37356 | [37356-raku-jongg.json](./37356-raku-jongg.json) |
 | Rakuen | 28544 | [28544-rakuen.json](./28544-rakuen.json) |
+| Rakuen no Rukia | 399192 | [399192-rakuen-no-rukia.json](./399192-rakuen-no-rukia.json) |
 | Rakuen Yuki | 205645 | [205645-rakuen-yuki.json](./205645-rakuen-yuki.json) |
 | Rakuga Fantasy | 183436 | [183436-rakuga-fantasy.json](./183436-rakuga-fantasy.json) |
 | Rakugaki Kingdom | 221245 | [221245-rakugaki-kingdom.json](./221245-rakugaki-kingdom.json) |
@@ -2324,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revhead | 26728 | [26728-revhead.json](./26728-revhead.json) |
 | Revhead: Turbo | 170958 | [170958-revhead-turbo.json](./170958-revhead-turbo.json) |
 | Review: Jashin Fukkatsu | 97233 | [97233-review-jashin-fukkatsu.json](./97233-review-jashin-fukkatsu.json) |
+| Revival | 399205 | [399205-revival.json](./399205-revival.json) |
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
 | Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
