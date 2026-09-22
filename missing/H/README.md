@@ -756,12 +756,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Land | 101485 | [101485-harvest-land.json](./101485-harvest-land.json) |
 | Harvest Life + Castaway Paradise | 247494 | [247494-harvest-life-castaway-paradise.json](./247494-harvest-life-castaway-paradise.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
+| Harvest Moon 3 GBC | 3381 | [3381-harvest-moon-3-gbc.json](./3381-harvest-moon-3-gbc.json) |
 | Harvest Moon 64 | 3378 | [3378-harvest-moon-64.json](./3378-harvest-moon-64.json) |
 | Harvest Moon DS Cute | 47699 | [47699-harvest-moon-ds-cute.json](./47699-harvest-moon-ds-cute.json) |
 | Harvest Moon DS: Island of Happiness | 3387 | [3387-harvest-moon-ds-island-of-happiness.json](./3387-harvest-moon-ds-island-of-happiness.json) |
+| Harvest Moon GB | 3377 | [3377-harvest-moon-gb.json](./3377-harvest-moon-gb.json) |
 | Harvest Moon GBC | 220737 | [220737-harvest-moon-gbc.json](./220737-harvest-moon-gbc.json) |
 | Harvest Moon: A Wonderful Life | 3384 | [3384-harvest-moon-a-wonderful-life.json](./3384-harvest-moon-a-wonderful-life.json) |
 | Harvest Moon: A Wonderful Life Special Edition | 20482 | [20482-harvest-moon-a-wonderful-life-special-edition.json](./20482-harvest-moon-a-wonderful-life-special-edition.json) |
+| Harvest Moon: Animal Parade | 3390 | [3390-harvest-moon-animal-parade.json](./3390-harvest-moon-animal-parade.json) |
 | Harvest Moon: Back to Nature | 239201 | [239201-harvest-moon-back-to-nature.json](./239201-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Back to Nature | 3380 | [3380-harvest-moon-back-to-nature.json](./3380-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Echoes of Teradea | 400976 | [400976-harvest-moon-echoes-of-teradea.json](./400976-harvest-moon-echoes-of-teradea.json) |
@@ -772,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: One World - Collector's Edition | 200691 | [200691-harvest-moon-one-world-collectors-edition.json](./200691-harvest-moon-one-world-collectors-edition.json) |
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
+| Harvest Moon: The Tale of Two Towns | 3392 | [3392-harvest-moon-the-tale-of-two-towns.json](./3392-harvest-moon-the-tale-of-two-towns.json) |
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai | 207917 | [207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json](./207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json) |
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai: Limited Edition | 207916 | [207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json](./207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json) |
 | Harvest Reaper | 394903 | [394903-harvest-reaper.json](./394903-harvest-reaper.json) |
@@ -3772,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Die. | 218131 | [218131-how-to-die.json](./218131-how-to-die.json) |
 | How to Disappear Completely | 268728 | [268728-how-to-disappear-completely.json](./268728-how-to-disappear-completely.json) |
 | How to Escape a Kidnapper | 367450 | [367450-how-to-escape-a-kidnapper.json](./367450-how-to-escape-a-kidnapper.json) |
+| How to Fish | 378170 | [378170-how-to-fish.json](./378170-how-to-fish.json) |
 | How to Fly a Cannon | 405537 | [405537-how-to-fly-a-cannon.json](./405537-how-to-fly-a-cannon.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
 | How to Make a Floating City | 116114 | [116114-how-to-make-a-floating-city.json](./116114-how-to-make-a-floating-city.json) |
