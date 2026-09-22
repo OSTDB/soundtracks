@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accurate Tag | 379461 | [379461-accurate-tag.json](./379461-accurate-tag.json) |
 | Accursed | 203864 | [203864-accursed.json](./203864-accursed.json) |
 | Ace | 249277 | [249277-ace.json](./249277-ace.json) |
+| ACE | 13282 | [13282-ace.json](./13282-ace.json) |
 | ACE | 329181 | [329181-ace.json](./329181-ace.json) |
 | ACE | 329185 | [329185-ace.json](./329185-ace.json) |
 | ACE | 329188 | [329188-ace.json](./329188-ace.json) |
@@ -1326,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
 | Airwave: I Fought the Law and the Law One | 169988 | [169988-airwave-i-fought-the-law-and-the-law-one.json](./169988-airwave-i-fought-the-law-and-the-law-one.json) |
 | AirwayEx | 215243 | [215243-airwayex.json](./215243-airwayex.json) |
+| Airwolf | 13296 | [13296-airwolf.json](./13296-airwolf.json) |
 | AisleRiot Solitaire | 63236 | [63236-aisleriot-solitaire.json](./63236-aisleriot-solitaire.json) |
 | Aislin's Story: The Bloodbath Trials | 177534 | [177534-aislins-story-the-bloodbath-trials.json](./177534-aislins-story-the-bloodbath-trials.json) |
 | Aisling and the Tavern of Elves | 169855 | [169855-aisling-and-the-tavern-of-elves.json](./169855-aisling-and-the-tavern-of-elves.json) |
@@ -1916,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-in-One Mahjong 2 | 89225 | [89225-all-in-one-mahjong-2.json](./89225-all-in-one-mahjong-2.json) |
 | All-Mountain Hucker | 283908 | [283908-all-mountain-hucker.json](./283908-all-mountain-hucker.json) |
 | All-Pro Football 2K8 | 5481 | [5481-all-pro-football-2k8.json](./5481-all-pro-football-2k8.json) |
+| All-Star Baseball '99 | 10663 | [10663-all-star-baseball-99.json](./10663-all-star-baseball-99.json) |
 | All-Star Baseball '99 | 248745 | [248745-all-star-baseball-99.json](./248745-all-star-baseball-99.json) |
 | All-Star Baseball 2001 | 69229 | [69229-all-star-baseball-2001.json](./69229-all-star-baseball-2001.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
@@ -4755,6 +4758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Boy Flight! | 58276 | [58276-astro-boy-flight.json](./58276-astro-boy-flight.json) |
 | Astro Boy: Omega Factor | 6310 | [6310-astro-boy-omega-factor.json](./6310-astro-boy-omega-factor.json) |
 | Astro Boy: The Video Game | 4682 | [4682-astro-boy-the-video-game.json](./4682-astro-boy-the-video-game.json) |
+| Astro Chase | 12304 | [12304-astro-chase.json](./12304-astro-chase.json) |
 | Astro Chase 3D | 107639 | [107639-astro-chase-3d.json](./107639-astro-chase-3d.json) |
 | Astro Combat | 337648 | [337648-astro-combat.json](./337648-astro-combat.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
