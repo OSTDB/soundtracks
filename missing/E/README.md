@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellie's Travel Diary | 149949 | [149949-ellies-travel-diary.json](./149949-ellies-travel-diary.json) |
 | Ellingby House | 351026 | [351026-ellingby-house.json](./351026-ellingby-house.json) |
 | Elliot and the Musical Journey | 133415 | [133415-elliot-and-the-musical-journey.json](./133415-elliot-and-the-musical-journey.json) |
+| Elliot Quest | 8596 | [8596-elliot-quest.json](./8596-elliot-quest.json) |
 | Ellipsis | 19862 | [19862-ellipsis.json](./19862-ellipsis.json) |
 | EllrLand | 229801 | [229801-ellrland.json](./229801-ellrland.json) |
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
@@ -2019,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etherena Beta | 262495 | [262495-etherena-beta.json](./262495-etherena-beta.json) |
 | Etherion Online | 239650 | [239650-etherion-online.json](./239650-etherion-online.json) |
 | Etherium | 401481 | [401481-etherium.json](./401481-etherium.json) |
+| Etherium | 8923 | [8923-etherium.json](./8923-etherium.json) |
 | Etherjump | 219071 | [219071-etherjump.json](./219071-etherjump.json) |
 | Ethernal War | 152855 | [152855-ethernal-war.json](./152855-ethernal-war.json) |
 | Ethernia | 371979 | [371979-ethernia.json](./371979-ethernia.json) |
