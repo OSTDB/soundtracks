@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Nerd | 360090 | [360090-bad-nerd.json](./360090-bad-nerd.json) |
 | Bad News Baseball | 9167 | [9167-bad-news-baseball.json](./9167-bad-news-baseball.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
+| Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
@@ -2266,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Call Saul | 221831 | [221831-better-call-saul.json](./221831-better-call-saul.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
 | Better Late Than Dead | 16291 | [16291-better-late-than-dead.json](./16291-better-late-than-dead.json) |
+| Better Mart Simulator | 332148 | [332148-better-mart-simulator.json](./332148-better-mart-simulator.json) |
 | Better Me Tree | 238764 | [238764-better-me-tree.json](./238764-better-me-tree.json) |
 | Better Off Tread | 55521 | [55521-better-off-tread.json](./55521-better-off-tread.json) |
 | Better Save Souls | 235731 | [235731-better-save-souls.json](./235731-better-save-souls.json) |
@@ -3131,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
 | Blade | 8719 | [8719-blade.json](./8719-blade.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
+| Blade & Soul Neo | 333270 | [333270-blade-and-soul-neo.json](./333270-blade-and-soul-neo.json) |
 | Blade and Wings: Future Fantasy 3D Anime MMORPG Game | 110819 | [110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json](./110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json) |
 | Blade Arcus from Shining | 121039 | [121039-blade-arcus-from-shining.json](./121039-blade-arcus-from-shining.json) |
 | Blade Assault | 207392 | [207392-blade-assault.json](./207392-blade-assault.json) |
@@ -3796,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons 2 | 63569 | [63569-bloons-2.json](./63569-bloons-2.json) |
 | Bloons 2 Christmas Expansion | 326782 | [326782-bloons-2-christmas-expansion.json](./326782-bloons-2-christmas-expansion.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
+| Bloons Card Storm | 314325 | [314325-bloons-card-storm.json](./314325-bloons-card-storm.json) |
 | Bloons Insanity | 63568 | [63568-bloons-insanity.json](./63568-bloons-insanity.json) |
 | Bloons TD | 144754 | [144754-bloons-td.json](./144754-bloons-td.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
@@ -5005,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakforcist | 27678 | [27678-breakforcist.json](./27678-breakforcist.json) |
 | BreakFree Escape From the Mine | 101968 | [101968-breakfree-escape-from-the-mine.json](./101968-breakfree-escape-from-the-mine.json) |
 | Breaking Box: Walk | 264147 | [264147-breaking-box-walk.json](./264147-breaking-box-walk.json) |
+| Breaking Bricks | 333680 | [333680-breaking-bricks.json](./333680-breaking-bricks.json) |
 | Breaking Clouds and Blooming Light | 227962 | [227962-breaking-clouds-and-blooming-light.json](./227962-breaking-clouds-and-blooming-light.json) |
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
@@ -5806,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurgerTime Deluxe | 48958 | [48958-burgertime-deluxe.json](./48958-burgertime-deluxe.json) |
 | Burgerwise the Clown | 101618 | [101618-burgerwise-the-clown.json](./101618-burgerwise-the-clown.json) |
 | Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
+| Burgie's Cozy Kitchen | 322086 | [322086-burgies-cozy-kitchen.json](./322086-burgies-cozy-kitchen.json) |
 | Burglar Inc | 290923 | [290923-burglar-inc.json](./290923-burglar-inc.json) |
 | Burglar X | 40982 | [40982-burglar-x.json](./40982-burglar-x.json) |
 | BuriBoard | 173256 | [173256-buriboard.json](./173256-buriboard.json) |
