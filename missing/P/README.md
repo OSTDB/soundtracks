@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patou | 253376 | [253376-patou.json](./253376-patou.json) |
 | Patrician III | 287 | [287-patrician-iii.json](./287-patrician-iii.json) |
 | Patrician IV | 7506 | [7506-patrician-iv.json](./7506-patrician-iv.json) |
+| Patrician IV: Steam Special Edition | 90478 | [90478-patrician-iv-steam-special-edition.json](./90478-patrician-iv-steam-special-edition.json) |
 | Patricide | 366246 | [366246-patricide.json](./366246-patricide.json) |
 | Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
@@ -4021,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Up Computer | 285034 | [285034-pop-up-computer.json](./285034-pop-up-computer.json) |
 | Pop-a-Chick | 232043 | [232043-pop-a-chick.json](./232043-pop-a-chick.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
+| Pop-Up Pilgrims | 90094 | [90094-pop-up-pilgrims.json](./90094-pop-up-pilgrims.json) |
 | Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
 | Pop'n Music 2 | 78975 | [78975-popn-music-2.json](./78975-popn-music-2.json) |
