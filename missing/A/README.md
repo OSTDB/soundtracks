@@ -3413,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apico | 135929 | [135929-apico.json](./135929-apico.json) |
 | Apico 4.0: Hive of Industry | 330561 | [330561-apico-4-0-hive-of-industry.json](./330561-apico-4-0-hive-of-industry.json) |
 | Apidya | 11906 | [11906-apidya.json](./11906-apidya.json) |
+| Apidya' Special | 409792 | [409792-apidya-special.json](./409792-apidya-special.json) |
 | APlaceDominatedByHoles | 260418 | [260418-aplacedominatedbyholes.json](./260418-aplacedominatedbyholes.json) |
 | Aplestia: Retold | 189175 | [189175-aplestia-retold.json](./189175-aplestia-retold.json) |
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
@@ -4249,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armello: Deluxe Bundle | 173787 | [173787-armello-deluxe-bundle.json](./173787-armello-deluxe-bundle.json) |
 | Armello: Special Edition | 166228 | [166228-armello-special-edition.json](./166228-armello-special-edition.json) |
 | Armen Noir | 56525 | [56525-armen-noir.json](./56525-armen-noir.json) |
+| Armeria In Bloom | 409801 | [409801-armeria-in-bloom.json](./409801-armeria-in-bloom.json) |
 | Armies of Exigo | 18855 | [18855-armies-of-exigo.json](./18855-armies-of-exigo.json) |
 | Armies of Ganivar | 130322 | [130322-armies-of-ganivar.json](./130322-armies-of-ganivar.json) |
 | Armies of Riddle E.X. (Extreme) | 126440 | [126440-armies-of-riddle-e-x-extreme.json](./126440-armies-of-riddle-e-x-extreme.json) |
@@ -5431,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automania | 30216 | [30216-automania.json](./30216-automania.json) |
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
+| Automatic Flips | 409754 | [409754-automatic-flips.json](./409754-automatic-flips.json) |
 | Automatica | 217013 | [217013-automatica.json](./217013-automatica.json) |
 | Automation | 165512 | [165512-automation.json](./165512-automation.json) |
 | Automaton | 266852 | [266852-automaton.json](./266852-automaton.json) |
