@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
 | Little Dragons Café | 88887 | [88887-little-dragons-cafe.json](./88887-little-dragons-cafe.json) |
 | Little Duck Adventure | 303102 | [303102-little-duck-adventure.json](./303102-little-duck-adventure.json) |
+| Little Dungeon Stories | 118128 | [118128-little-dungeon-stories.json](./118128-little-dungeon-stories.json) |
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
 | Little Eden | 260208 | [260208-little-eden.json](./260208-little-eden.json) |
 | Little Einsteins | 231500 | [231500-little-einsteins.json](./231500-little-einsteins.json) |
@@ -2578,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootbag Tactics | 409527 | [409527-lootbag-tactics.json](./409527-lootbag-tactics.json) |
 | Lootbane | 370125 | [370125-lootbane.json](./370125-lootbane.json) |
 | Lootbox Gungeon | 179162 | [179162-lootbox-gungeon.json](./179162-lootbox-gungeon.json) |
+| Lootbox Lyfe | 118586 | [118586-lootbox-lyfe.json](./118586-lootbox-lyfe.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | Lootcraft | 126418 | [126418-lootcraft.json](./126418-lootcraft.json) |
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
