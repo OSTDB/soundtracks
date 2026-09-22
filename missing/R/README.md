@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
 | Raccoon Laundering | 307129 | [307129-raccoon-laundering.json](./307129-raccoon-laundering.json) |
 | Raccoon Out | 300017 | [300017-raccoon-out.json](./300017-raccoon-out.json) |
+| Raccoon Packer | 403184 | [403184-raccoon-packer.json](./403184-raccoon-packer.json) |
 | Raccoon Party | 401696 | [401696-raccoon-party.json](./401696-raccoon-party.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
 | Raccoon Squad | 261860 | [261860-raccoon-squad.json](./261860-raccoon-squad.json) |
@@ -1731,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | REM-9: The Yume Nikki Randomizer | 229704 | [229704-rem-9-the-yume-nikki-randomizer.json](./229704-rem-9-the-yume-nikki-randomizer.json) |
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
+| Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
 | Rematch | 60008 | [60008-rematch.json](./60008-rematch.json) |
 | ReMaz! | 116859 | [116859-remaz.json](./116859-remaz.json) |
