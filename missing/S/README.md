@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura X Clash: Last Millennial Spring | 213603 | [213603-sakura-x-clash-last-millennial-spring.json](./213603-sakura-x-clash-last-millennial-spring.json) |
 | Sakura-iro Tetra Prism | 325451 | [325451-sakura-iro-tetra-prism.json](./325451-sakura-iro-tetra-prism.json) |
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
+| Sakuraba Ema's Intertwining Threshold | 418771 | [418771-sakuraba-emas-intertwining-threshold.json](./418771-sakuraba-emas-intertwining-threshold.json) |
 | Sal. | 266231 | [266231-sal.json](./266231-sal.json) |
 | Salaam | 127341 | [127341-salaam.json](./127341-salaam.json) |
 | Salacot Jack: Deluxe | 316400 | [316400-salacot-jack-deluxe.json](./316400-salacot-jack-deluxe.json) |
@@ -1990,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
 | Serenity | 313862 | [313862-serenity.json](./313862-serenity.json) |
 | Serenity | 392294 | [392294-serenity.json](./392294-serenity.json) |
+| Serenity | 418862 | [418862-serenity.json](./418862-serenity.json) |
 | Serenity at Dusk | 179056 | [179056-serenity-at-dusk.json](./179056-serenity-at-dusk.json) |
 | Seres | 207382 | [207382-seres.json](./207382-seres.json) |
 | Serflings | 210632 | [210632-serflings.json](./210632-serflings.json) |
@@ -2106,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
+| Seven Suns of Orion | 418732 | [418732-seven-suns-of-orion.json](./418732-seven-suns-of-orion.json) |
 | Seven Wonders of St. Clementine | 120944 | [120944-seven-wonders-of-st-clementine.json](./120944-seven-wonders-of-st-clementine.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
 | Seven: Reboot | 82056 | [82056-seven-reboot.json](./82056-seven-reboot.json) |
@@ -4911,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
 | SmartBoy | 86556 | [86556-smartboy.json](./86556-smartboy.json) |
 | SmartGo Player | 88188 | [88188-smartgo-player.json](./88188-smartgo-player.json) |
+| Smartphone | 418818 | [418818-smartphone.json](./418818-smartphone.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smarty Labs | 410999 | [410999-smarty-labs.json](./410999-smarty-labs.json) |
 | Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
@@ -9149,6 +9153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stelarace | 245851 | [245851-stelarace.json](./245851-stelarace.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
 | Stella Arcana | 142257 | [142257-stella-arcana.json](./142257-stella-arcana.json) |
+| Stella Astrum | 418729 | [418729-stella-astrum.json](./418729-stella-astrum.json) |
 | Stella Deus: The Gate of Eternity | 13094 | [13094-stella-deus-the-gate-of-eternity.json](./13094-stella-deus-the-gate-of-eternity.json) |
 | Stella Gladio | 326075 | [326075-stella-gladio.json](./326075-stella-gladio.json) |
 | Stella Glow | 11459 | [11459-stella-glow.json](./11459-stella-glow.json) |
@@ -10810,6 +10815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Freaks 1 Remastered | 266873 | [266873-super-freaks-1-remastered.json](./266873-super-freaks-1-remastered.json) |
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
 | Super Frog's Quest | 108410 | [108410-super-frogs-quest.json](./108410-super-frogs-quest.json) |
+| Super Froppings | 418700 | [418700-super-froppings.json](./418700-super-froppings.json) |
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
 | Super Galaxy Squadron EX | 17991 | [17991-super-galaxy-squadron-ex.json](./17991-super-galaxy-squadron-ex.json) |
@@ -11006,6 +11012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Lumberjack | 371341 | [371341-super-lumberjack.json](./371341-super-lumberjack.json) |
 | Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
+| Super Macklemore 64 | 418798 | [418798-super-macklemore-64.json](./418798-super-macklemore-64.json) |
 | Super Magbot | 132921 | [132921-super-magbot.json](./132921-super-magbot.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
 | Super Magro World | 152315 | [152315-super-magro-world.json](./152315-super-magro-world.json) |
