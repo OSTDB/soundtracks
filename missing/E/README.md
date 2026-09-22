@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eexy Life: East End X Yuri | 252198 | [252198-eexy-life-east-end-x-yuri.json](./252198-eexy-life-east-end-x-yuri.json) |
 | EF-12: Fighting Game Maker | 57074 | [57074-ef-12-fighting-game-maker.json](./57074-ef-12-fighting-game-maker.json) |
 | EF2000 TACTCOM | 77647 | [77647-ef2000-tactcom.json](./77647-ef2000-tactcom.json) |
+| EF2000 v2.0 | 677 | [677-ef2000-v2-0.json](./677-ef2000-v2-0.json) |
 | Efemeris | 234204 | [234204-efemeris.json](./234204-efemeris.json) |
 | Effacer: Hangman from the 25th Century | 45932 | [45932-effacer-hangman-from-the-25th-century.json](./45932-effacer-hangman-from-the-25th-century.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
@@ -629,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elastrix | 36087 | [36087-elastrix.json](./36087-elastrix.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
+| Elden Ring Nightreign - The Forsaken Hollows | 377238 | [377238-elden-ring-nightreign-the-forsaken-hollows.json](./377238-elden-ring-nightreign-the-forsaken-hollows.json) |
 | Elden Ring Seamless Co-op | 381683 | [381683-elden-ring-seamless-co-op.json](./381683-elden-ring-seamless-co-op.json) |
 | Elden Ring: Collector's Edition | 180258 | [180258-elden-ring-collectors-edition.json](./180258-elden-ring-collectors-edition.json) |
 | Elden Ring: Dark Moon | 309346 | [309346-elden-ring-dark-moon.json](./309346-elden-ring-dark-moon.json) |
@@ -2273,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Seeds of Destruction | 69284 | [69284-everquest-seeds-of-destruction.json](./69284-everquest-seeds-of-destruction.json) |
 | EverQuest: The Broken Mirror | 13184 | [13184-everquest-the-broken-mirror.json](./13184-everquest-the-broken-mirror.json) |
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
+| EverQuest: The Ruins of Kunark | 686 | [686-everquest-the-ruins-of-kunark.json](./686-everquest-the-ruins-of-kunark.json) |
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
