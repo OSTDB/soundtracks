@@ -4600,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
 | Assault Dragon: The Day 5 | 65735 | [65735-assault-dragon-the-day-5.json](./65735-assault-dragon-the-day-5.json) |
 | Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
+| Assault Heroes | 20634 | [20634-assault-heroes.json](./20634-assault-heroes.json) |
 | Assault Mayhem | 351607 | [351607-assault-mayhem.json](./351607-assault-mayhem.json) |
 | Assault on Arnhem | 33307 | [33307-assault-on-arnhem.json](./33307-assault-on-arnhem.json) |
 | Assault on Everest | 356700 | [356700-assault-on-everest.json](./356700-assault-on-everest.json) |
@@ -5230,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
 | Auto Afterlife | 133251 | [133251-auto-afterlife.json](./133251-auto-afterlife.json) |
+| Auto Assault | 20625 | [20625-auto-assault.json](./20625-auto-assault.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
 | Auto Battle | 19338 | [19338-auto-battle.json](./19338-auto-battle.json) |
 | Auto Chess Souls | 392249 | [392249-auto-chess-souls.json](./392249-auto-chess-souls.json) |
