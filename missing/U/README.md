@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Frontier QQYYZZ | 387526 | [387526-ultra-frontier-qqyyzz.json](./387526-ultra-frontier-qqyyzz.json) |
 | Ultra Hell | 83272 | [83272-ultra-hell.json](./83272-ultra-hell.json) |
 | Ultra Hyperball | 51950 | [51950-ultra-hyperball.json](./51950-ultra-hyperball.json) |
+| Ultra Keibitai: Monster Attack | 413184 | [413184-ultra-keibitai-monster-attack.json](./413184-ultra-keibitai-monster-attack.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Mega Xtra Party Challenge | 201784 | [201784-ultra-mega-xtra-party-challenge.json](./201784-ultra-mega-xtra-party-challenge.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
@@ -482,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend | 256848 | [256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json](./256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json) |
 | Unbridled Horror | 181896 | [181896-unbridled-horror.json](./181896-unbridled-horror.json) |
 | Unbroken | 298600 | [298600-unbroken.json](./298600-unbroken.json) |
+| Unbroken Valor | 413164 | [413164-unbroken-valor.json](./413164-unbroken-valor.json) |
 | Unbuild | 150063 | [150063-unbuild.json](./150063-unbuild.json) |
 | Uncanny | 206717 | [206717-uncanny.json](./206717-uncanny.json) |
 | Uncanny Cat Golf | 323318 | [323318-uncanny-cat-golf.json](./323318-uncanny-cat-golf.json) |
