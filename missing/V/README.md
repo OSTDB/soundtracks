@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo | 42850 | [42850-vertigo.json](./42850-vertigo.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
 | Vertigrowl | 338571 | [338571-vertigrowl.json](./338571-vertigrowl.json) |
+| Verto | 406318 | [406318-verto.json](./406318-verto.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
 | Very Human Doctor | 416822 | [416822-very-human-doctor.json](./416822-very-human-doctor.json) |
 | Very Iconic Pixels - 80s Quiz | 233738 | [233738-very-iconic-pixels-80s-quiz.json](./233738-very-iconic-pixels-80s-quiz.json) |
