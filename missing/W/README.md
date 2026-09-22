@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
 | Warshmallows | 132613 | [132613-warshmallows.json](./132613-warshmallows.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
+| Warsim: The Realm of Aslona | 43148 | [43148-warsim-the-realm-of-aslona.json](./43148-warsim-the-realm-of-aslona.json) |
 | Warsino | 232539 | [232539-warsino.json](./232539-warsino.json) |
 | Warsong | 3196 | [3196-warsong.json](./3196-warsong.json) |
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
