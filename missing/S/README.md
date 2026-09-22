@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
+| Shared RC | 415307 | [415307-shared-rc.json](./415307-shared-rc.json) |
 | Sharf | 77649 | [77649-sharf.json](./77649-sharf.json) |
 | Sharin no Kuni, Yuukyuu no Shounenshoujo | 79858 | [79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json](./79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json) |
 | Sharin no Kuni: The Girl Among the Sunflowers | 112146 | [112146-sharin-no-kuni-the-girl-among-the-sunflowers.json](./112146-sharin-no-kuni-the-girl-among-the-sunflowers.json) |
@@ -2944,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
+| Shinban Arishia no Panse | 415278 | [415278-shinban-arishia-no-panse.json](./415278-shinban-arishia-no-panse.json) |
 | Shine of Fullmoon | 264148 | [264148-shine-of-fullmoon.json](./264148-shine-of-fullmoon.json) |
 | Shine On, My Little Sun | 320147 | [320147-shine-on-my-little-sun.json](./320147-shine-on-my-little-sun.json) |
 | Shine Post: Be Your Idol! | 217964 | [217964-shine-post-be-your-idol.json](./217964-shine-post-be-your-idol.json) |
@@ -4038,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Slave: Faithful Girl's Slave Training | 83230 | [83230-sister-slave-faithful-girls-slave-training.json](./83230-sister-slave-faithful-girls-slave-training.json) |
 | Sister Travel | 111718 | [111718-sister-travel.json](./111718-sister-travel.json) |
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
+| Sisterly Bliss: Don't Let Mom Find Out | 415277 | [415277-sisterly-bliss-dont-let-mom-find-out.json](./415277-sisterly-bliss-dont-let-mom-find-out.json) |
 | Sisters of Silent Liberty | 154410 | [154410-sisters-of-silent-liberty.json](./154410-sisters-of-silent-liberty.json) |
 | Sisters of Sweetwater | 225091 | [225091-sisters-of-sweetwater.json](./225091-sisters-of-sweetwater.json) |
 | Sisters Possession 1 | 195120 | [195120-sisters-possession-1.json](./195120-sisters-possession-1.json) |
@@ -4097,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skald: Against the Black Priory | 125250 | [125250-skald-against-the-black-priory.json](./125250-skald-against-the-black-priory.json) |
 | Skald: Against the Black Priory - Reinforcement Pack | 311994 | [311994-skald-against-the-black-priory-reinforcement-pack.json](./311994-skald-against-the-black-priory-reinforcement-pack.json) |
 | Skaphander: Der Auftrag | 98972 | [98972-skaphander-der-auftrag.json](./98972-skaphander-der-auftrag.json) |
+| Skapheim | 415290 | [415290-skapheim.json](./415290-skapheim.json) |
 | Skapon Tanken-tai: The Enchanted Hunters | 66127 | [66127-skapon-tanken-tai-the-enchanted-hunters.json](./66127-skapon-tanken-tai-the-enchanted-hunters.json) |
 | Skapp | 140596 | [140596-skapp.json](./140596-skapp.json) |
 | Skara | 10833 | [10833-skara.json](./10833-skara.json) |
@@ -5539,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
 | Soft cookie | 114438 | [114438-soft-cookie.json](./114438-soft-cookie.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
+| Soft Ruin | 415324 | [415324-soft-ruin.json](./415324-soft-ruin.json) |
 | Soft Serve | 252811 | [252811-soft-serve.json](./252811-soft-serve.json) |
 | Soft(A)ware | 370123 | [370123-soft-a-ware.json](./370123-soft-a-ware.json) |
 | Softball Tengoku | 48907 | [48907-softball-tengoku.json](./48907-softball-tengoku.json) |
@@ -6812,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
+| Space Industry | 415263 | [415263-space-industry.json](./415263-space-industry.json) |
 | Space Instegators | 40753 | [40753-space-instegators.json](./40753-space-instegators.json) |
 | Space Interceptor | 262369 | [262369-space-interceptor.json](./262369-space-interceptor.json) |
 | Space Intern | 221187 | [221187-space-intern.json](./221187-space-intern.json) |
@@ -10290,6 +10296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
+| Sugar Lies | 415258 | [415258-sugar-lies.json](./415258-sugar-lies.json) |
 | Sugar Madness | 406178 | [406178-sugar-madness.json](./406178-sugar-madness.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
 | Sugar Overdrive | 332985 | [332985-sugar-overdrive.json](./332985-sugar-overdrive.json) |
@@ -10633,6 +10640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
+| Super Beat 'em up World | 415317 | [415317-super-beat-em-up-world.json](./415317-super-beat-em-up-world.json) |
 | Super Bee | 41554 | [41554-super-bee.json](./41554-super-bee.json) |
 | Super Beta Tester | 335987 | [335987-super-beta-tester.json](./335987-super-beta-tester.json) |
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
