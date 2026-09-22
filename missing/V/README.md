@@ -249,6 +249,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors: 1.5 | 252864 | [252864-vampire-survivors-1-5.json](./252864-vampire-survivors-1-5.json) |
 | Vampire Survivors: Emerald Diorama | 339620 | [339620-vampire-survivors-emerald-diorama.json](./339620-vampire-survivors-emerald-diorama.json) |
 | Vampire Survivors: Legacy of the Moonspell | 228721 | [228721-vampire-survivors-legacy-of-the-moonspell.json](./228721-vampire-survivors-legacy-of-the-moonspell.json) |
+| Vampire Survivors: Ode to Castlevania | 320770 | [320770-vampire-survivors-ode-to-castlevania.json](./320770-vampire-survivors-ode-to-castlevania.json) |
+| Vampire Survivors: Operation Guns | 296834 | [296834-vampire-survivors-operation-guns.json](./296834-vampire-survivors-operation-guns.json) |
 | Vampire Survivors: Space 54 | 316618 | [316618-vampire-survivors-space-54.json](./316618-vampire-survivors-space-54.json) |
 | Vampire Survivors: The Coop | 339631 | [339631-vampire-survivors-the-coop.json](./339631-vampire-survivors-the-coop.json) |
 | Vampire Survivors: The Darkasso | 316619 | [316619-vampire-survivors-the-darkasso.json](./316619-vampire-survivors-the-darkasso.json) |
