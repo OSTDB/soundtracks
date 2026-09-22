@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dream: Series | 179624 | [179624-bad-dream-series.json](./179624-bad-dream-series.json) |
 | Bad Dreams | 69571 | [69571-bad-dreams.json](./69571-bad-dreams.json) |
 | Bad Drummer Simulator | 178598 | [178598-bad-drummer-simulator.json](./178598-bad-drummer-simulator.json) |
+| Bad Dudes | 215085 | [215085-bad-dudes.json](./215085-bad-dudes.json) |
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
 | Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
 | Bad Girl Confidential: The Pleasure Den | 286530 | [286530-bad-girl-confidential-the-pleasure-den.json](./286530-bad-girl-confidential-the-pleasure-den.json) |
@@ -2483,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Mac: The Mad Maintenance Man | 47221 | [47221-big-mac-the-mad-maintenance-man.json](./47221-big-mac-the-mad-maintenance-man.json) |
 | Big Mess | 176354 | [176354-big-mess.json](./176354-big-mess.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
+| Big Mutha Truckers | 3809 | [3809-big-mutha-truckers.json](./3809-big-mutha-truckers.json) |
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
 | Big Ol' Bass 2 | 43921 | [43921-big-ol-bass-2.json](./43921-big-ol-bass-2.json) |
@@ -3900,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Simulator | 11973 | [11973-bmx-simulator.json](./11973-bmx-simulator.json) |
 | BMX Simulator II: Dirt Biking | 47220 | [47220-bmx-simulator-ii-dirt-biking.json](./47220-bmx-simulator-ii-dirt-biking.json) |
 | BMX Trick Racer | 49313 | [49313-bmx-trick-racer.json](./49313-bmx-trick-racer.json) |
+| BMX XXX | 3826 | [3826-bmx-xxx.json](./3826-bmx-xxx.json) |
 | BMX: The Game | 138610 | [138610-bmx-the-game.json](./138610-bmx-the-game.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
@@ -5486,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
 | Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
+| Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
@@ -5913,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust a Block | 319973 | [319973-bust-a-block.json](./319973-bust-a-block.json) |
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
 | Bust A Groove | 4138 | [4138-bust-a-groove.json](./4138-bust-a-groove.json) |
+| Bust A Groove 2 | 4139 | [4139-bust-a-groove-2.json](./4139-bust-a-groove-2.json) |
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
 | Bust-A-Bloc | 43509 | [43509-bust-a-bloc.json](./43509-bust-a-bloc.json) |
 | Bust-A-Move | 246391 | [246391-bust-a-move.json](./246391-bust-a-move.json) |
