@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame: Red Dragon - Second Korean War | 170455 | [170455-wargame-red-dragon-second-korean-war.json](./170455-wargame-red-dragon-second-korean-war.json) |
 | Wargame: Red Dragon - The Millionth Mile | 170457 | [170457-wargame-red-dragon-the-millionth-mile.json](./170457-wargame-red-dragon-the-millionth-mile.json) |
 | Wargroove | 27441 | [27441-wargroove.json](./27441-wargroove.json) |
+| Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
 | WarGround | 114441 | [114441-warground.json](./114441-warground.json) |
 | Warhalla | 100589 | [100589-warhalla.json](./100589-warhalla.json) |
 | Warhammer 40,000: Armageddon - Angels of Death | 53889 | [53889-warhammer-40-000-armageddon-angels-of-death.json](./53889-warhammer-40-000-armageddon-angels-of-death.json) |
@@ -1789,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy Crash | 225626 | [225626-willy-crash.json](./225626-willy-crash.json) |
 | Willy Crash Mini | 225627 | [225627-willy-crash-mini.json](./225627-willy-crash-mini.json) |
 | Willy Jetman: Astromonkey's Revenge - Sweeper's Edition | 139831 | [139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json](./139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json) |
+| Willy Morgan and the Curse of Bone Town | 133429 | [133429-willy-morgan-and-the-curse-of-bone-town.json](./133429-willy-morgan-and-the-curse-of-bone-town.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
 | Wiloo | 50533 | [50533-wiloo.json](./50533-wiloo.json) |
 | Wilson's Heart | 19597 | [19597-wilsons-heart.json](./19597-wilsons-heart.json) |
@@ -2295,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy | 212865 | [212865-wonder-boy.json](./212865-wonder-boy.json) |
 | Wonder Boy | 212885 | [212885-wonder-boy.json](./212885-wonder-boy.json) |
 | Wonder Boy | 5560 | [5560-wonder-boy.json](./5560-wonder-boy.json) |
+| Wonder Boy Collection | 191754 | [191754-wonder-boy-collection.json](./191754-wonder-boy-collection.json) |
 | Wonder Boy III: Monster Lair | 4481 | [4481-wonder-boy-iii-monster-lair.json](./4481-wonder-boy-iii-monster-lair.json) |
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
 | Wonder Boy in Monster World | 9540 | [9540-wonder-boy-in-monster-world.json](./9540-wonder-boy-in-monster-world.json) |
