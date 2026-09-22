@@ -2490,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Pleasure: Faster and Faster | 403714 | [403714-hidden-pleasure-faster-and-faster.json](./403714-hidden-pleasure-faster-and-faster.json) |
 | Hidden Pleasure: More and More | 409662 | [409662-hidden-pleasure-more-and-more.json](./409662-hidden-pleasure-more-and-more.json) |
 | Hidden Pointsman | 107124 | [107124-hidden-pointsman.json](./107124-hidden-pointsman.json) |
+| Hidden Portals: Chronicles of the Sunbound - Collector's Edition | 396600 | [396600-hidden-portals-chronicles-of-the-sunbound-collectors-edition.json](./396600-hidden-portals-chronicles-of-the-sunbound-collectors-edition.json) |
 | Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
 | Hidden Rabbit 2 | 412386 | [412386-hidden-rabbit-2.json](./412386-hidden-rabbit-2.json) |
 | Hidden Raccoons in Asia | 403185 | [403185-hidden-raccoons-in-asia.json](./403185-hidden-raccoons-in-asia.json) |
