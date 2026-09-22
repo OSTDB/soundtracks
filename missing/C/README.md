@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Axiens | 60221 | [60221-classic-axiens.json](./60221-classic-axiens.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
+| Classic Card Games 3D | 111762 | [111762-classic-card-games-3d.json](./111762-classic-card-games-3d.json) |
 | Classic Collection | 52848 | [52848-classic-collection.json](./52848-classic-collection.json) |
 | Classic Cribbage | 169982 | [169982-classic-cribbage.json](./169982-classic-cribbage.json) |
 | Classic Dungeon Sengoku | 137013 | [137013-classic-dungeon-sengoku.json](./137013-classic-dungeon-sengoku.json) |
