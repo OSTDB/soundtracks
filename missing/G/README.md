@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Madness | 192330 | [192330-garden-madness.json](./192330-garden-madness.json) |
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
+| Garden of Mooj | 118061 | [118061-garden-of-mooj.json](./118061-garden-of-mooj.json) |
 | Garden of Pets | 233004 | [233004-garden-of-pets.json](./233004-garden-of-pets.json) |
 | Garden of Seif: Chronicles of an Assassin | 195081 | [195081-garden-of-seif-chronicles-of-an-assassin.json](./195081-garden-of-seif-chronicles-of-an-assassin.json) |
 | Garden of Seif: Curse of Gravehollow Peaks | 209456 | [209456-garden-of-seif-curse-of-gravehollow-peaks.json](./209456-garden-of-seif-curse-of-gravehollow-peaks.json) |
@@ -946,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generality | 205068 | [205068-generality.json](./205068-generality.json) |
 | GeneRally | 19280 | [19280-generally.json](./19280-generally.json) |
 | Generals | 141672 | [141672-generals.json](./141672-generals.json) |
+| Generals & Rulers | 118117 | [118117-generals-and-rulers.json](./118117-generals-and-rulers.json) |
 | Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
@@ -1747,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
 | Gnomael's Vampire | 184662 | [184662-gnomaels-vampire.json](./184662-gnomaels-vampire.json) |
 | Gnomageddon: Forge of Infinity | 408033 | [408033-gnomageddon-forge-of-infinity.json](./408033-gnomageddon-forge-of-infinity.json) |
+| Gnomancer | 118426 | [118426-gnomancer.json](./118426-gnomancer.json) |
 | Gnomber | 288199 | [288199-gnomber.json](./288199-gnomber.json) |
 | Gnome Enchanted Jigsaw Puzzles | 257388 | [257388-gnome-enchanted-jigsaw-puzzles.json](./257388-gnome-enchanted-jigsaw-puzzles.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 1 | 257390 | [257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json](./257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json) |
@@ -2092,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Digger: The Simulator | 315835 | [315835-gold-digger-the-simulator.json](./315835-gold-digger-the-simulator.json) |
 | Gold Drill | 215688 | [215688-gold-drill.json](./215688-gold-drill.json) |
 | Gold Drop Mania | 329919 | [329919-gold-drop-mania.json](./329919-gold-drop-mania.json) |
+| Gold Express | 118598 | [118598-gold-express.json](./118598-gold-express.json) |
 | Gold Fever | 22731 | [22731-gold-fever.json](./22731-gold-fever.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
