@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unto the Aurora | 344999 | [344999-unto-the-aurora.json](./344999-unto-the-aurora.json) |
 | Untold Legends: Brotherhood of the Blade | 22508 | [22508-untold-legends-brotherhood-of-the-blade.json](./22508-untold-legends-brotherhood-of-the-blade.json) |
 | Untold Legends: The Warrior's Code | 23006 | [23006-untold-legends-the-warriors-code.json](./23006-untold-legends-the-warriors-code.json) |
+| Untold Mystery: Angel’s Cry | 17061 | [17061-untold-mystery-angel-s-cry.json](./17061-untold-mystery-angel-s-cry.json) |
 | Untold Riches | 59673 | [59673-untold-riches.json](./59673-untold-riches.json) |
 | Untold Stories 01: Goliath | 406718 | [406718-untold-stories-01-goliath.json](./406718-untold-stories-01-goliath.json) |
 | Untold Stories 3: Myriad Caves | 355115 | [355115-untold-stories-3-myriad-caves.json](./355115-untold-stories-3-myriad-caves.json) |
