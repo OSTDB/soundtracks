@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geminiii | 250457 | [250457-geminiii.json](./250457-geminiii.json) |
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
 | Gemistry | 68957 | [68957-gemistry.json](./68957-gemistry.json) |
+| Gemmy Gems: A Cozy Shop Sim | 413170 | [413170-gemmy-gems-a-cozy-shop-sim.json](./413170-gemmy-gems-a-cozy-shop-sim.json) |
 | Gemmy's Adventure | 333112 | [333112-gemmys-adventure.json](./333112-gemmys-adventure.json) |
 | Gemology | 85167 | [85167-gemology.json](./85167-gemology.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
@@ -2935,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Utopia | 129016 | [129016-great-utopia.json](./129016-great-utopia.json) |
 | Great Wall March | 265212 | [265212-great-wall-march.json](./265212-great-wall-march.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
+| Greatlandia Election Simulator | 413195 | [413195-greatlandia-election-simulator.json](./413195-greatlandia-election-simulator.json) |
 | Grederys | 201226 | [201226-grederys.json](./201226-grederys.json) |
 | Greeblings | 351110 | [351110-greeblings.json](./351110-greeblings.json) |
 | Greebly Gambit | 407336 | [407336-greebly-gambit.json](./407336-greebly-gambit.json) |
