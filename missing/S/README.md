@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Wife Chapter 2 | 303092 | [303092-scary-wife-chapter-2.json](./303092-scary-wife-chapter-2.json) |
 | Scaryfish III | 71786 | [71786-scaryfish-iii.json](./71786-scaryfish-iii.json) |
 | Scatch 2: The Painter Cat | 278983 | [278983-scatch-2-the-painter-cat.json](./278983-scatch-2-the-painter-cat.json) |
+| Scattered Wings | 398578 | [398578-scattered-wings.json](./398578-scattered-wings.json) |
 | Scatterhoard | 185097 | [185097-scatterhoard.json](./185097-scatterhoard.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger | 241503 | [241503-scavenger.json](./241503-scavenger.json) |
@@ -3371,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showgunners | 210947 | [210947-showgunners.json](./210947-showgunners.json) |
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
+| Showrunners | 398542 | [398542-showrunners.json](./398542-showrunners.json) |
 | Showtime: Vampire Diaries | 241370 | [241370-showtime-vampire-diaries.json](./241370-showtime-vampire-diaries.json) |
 | Showtime! | 9405 | [9405-showtime.json](./9405-showtime.json) |
 | Showy Homes | 380521 | [380521-showy-homes.json](./380521-showy-homes.json) |
@@ -4278,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
 | Skinator | 400360 | [400360-skinator.json](./400360-skinator.json) |
 | Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
+| Skingdom | 398555 | [398555-skingdom.json](./398555-skingdom.json) |
 | Skinner & The Superintendent | 245930 | [245930-skinner-and-the-superintendent.json](./245930-skinner-and-the-superintendent.json) |
 | Skinny | 111768 | [111768-skinny.json](./111768-skinny.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
@@ -5579,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
+| Social Space | 398537 | [398537-social-space.json](./398537-social-space.json) |
 | Social Status: Life Simulator | 279103 | [279103-social-status-life-simulator.json](./279103-social-status-life-simulator.json) |
 | Socialize | 189037 | [189037-socialize.json](./189037-socialize.json) |
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
@@ -6662,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundsphere | 176885 | [176885-soundsphere.json](./176885-soundsphere.json) |
 | SoundTown | 276820 | [276820-soundtown.json](./276820-soundtown.json) |
 | Soundtrack Attack | 74791 | [74791-soundtrack-attack.json](./74791-soundtrack-attack.json) |
+| Soundwave | 398556 | [398556-soundwave.json](./398556-soundwave.json) |
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
@@ -9153,6 +9158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam'd Roller | 269102 | [269102-steamd-roller.json](./269102-steamd-roller.json) |
 | Steambirds Alliance | 36530 | [36530-steambirds-alliance.json](./36530-steambirds-alliance.json) |
 | Steamboat Billy: The Curse of the Leviathan | 102090 | [102090-steamboat-billy-the-curse-of-the-leviathan.json](./102090-steamboat-billy-the-curse-of-the-leviathan.json) |
+| Steamboat Willie Rescue Mission | 398597 | [398597-steamboat-willie-rescue-mission.json](./398597-steamboat-willie-rescue-mission.json) |
 | Steambot Chronicles: Battle Tournament | 42891 | [42891-steambot-chronicles-battle-tournament.json](./42891-steambot-chronicles-battle-tournament.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | SteamDolls | 33028 | [33028-steamdolls.json](./33028-steamdolls.json) |
@@ -10415,6 +10421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugarlawn | 209610 | [209610-sugarlawn.json](./209610-sugarlawn.json) |
 | Sugary Delight | 234619 | [234619-sugary-delight.json](./234619-sugary-delight.json) |
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
+| Sugee Yasashii Yandere no Ichiniji no Ruutin | 398546 | [398546-sugee-yasashii-yandere-no-ichiniji-no-ruutin.json](./398546-sugee-yasashii-yandere-no-ichiniji-no-ruutin.json) |
 | Suggoi! Arcana Heart 2 | 243414 | [243414-suggoi-arcana-heart-2.json](./243414-suggoi-arcana-heart-2.json) |
 | Suggoi! Arcana Heart 2 | 243419 | [243419-suggoi-arcana-heart-2.json](./243419-suggoi-arcana-heart-2.json) |
 | Sugi Chan Adventure | 297637 | [297637-sugi-chan-adventure.json](./297637-sugi-chan-adventure.json) |
@@ -12370,6 +12377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
 | Sweets Inc | 290531 | [290531-sweets-inc.json](./290531-sweets-inc.json) |
 | Sweets Swap Classic | 175821 | [175821-sweets-swap-classic.json](./175821-sweets-swap-classic.json) |
+| Sweets' Devil | 398596 | [398596-sweets-devil.json](./398596-sweets-devil.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
 | Sweety Sweets | 259024 | [259024-sweety-sweets.json](./259024-sweety-sweets.json) |
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
