@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Bit | 48007 | [48007-one-bit.json](./48007-one-bit.json) |
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
 | One Button Dungeon | 386734 | [386734-one-button-dungeon.json](./386734-one-button-dungeon.json) |
+| One Button Games 5-in-1 Vol. 7 | 409803 | [409803-one-button-games-5-in-1-vol-7.json](./409803-one-button-games-5-in-1-vol-7.json) |
 | One by One | 184631 | [184631-one-by-one.json](./184631-one-by-one.json) |
 | One By One | 195714 | [195714-one-by-one.json](./195714-one-by-one.json) |
 | One Card One Shot: Mafia | 244359 | [244359-one-card-one-shot-mafia.json](./244359-one-card-one-shot-mafia.json) |
