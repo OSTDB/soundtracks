@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Jump: Endless Ascent | 339365 | [339365-dark-jump-endless-ascent.json](./339365-dark-jump-endless-ascent.json) |
 | Dark Law: Meaning of Death | 15898 | [15898-dark-law-meaning-of-death.json](./15898-dark-law-meaning-of-death.json) |
 | Dark Laws | 279134 | [279134-dark-laws.json](./279134-dark-laws.json) |
+| Dark Leaches | 403792 | [403792-dark-leaches.json](./403792-dark-leaches.json) |
 | Dark Legacy | 314034 | [314034-dark-legacy.json](./314034-dark-legacy.json) |
 | Dark Legend | 45525 | [45525-dark-legend.json](./45525-dark-legend.json) |
 | Dark Legion | 27574 | [27574-dark-legion.json](./27574-dark-legion.json) |
@@ -1416,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadweight | 34839 | [34839-deadweight.json](./34839-deadweight.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Deadwood: The Forgotten Curse | 22738 | [22738-deadwood-the-forgotten-curse.json](./22738-deadwood-the-forgotten-curse.json) |
+| Deadzone Rogue 2 | 403822 | [403822-deadzone-rogue-2.json](./403822-deadzone-rogue-2.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
 | Deal or No Deal: Secret Vault Games | 209006 | [209006-deal-or-no-deal-secret-vault-games.json](./209006-deal-or-no-deal-secret-vault-games.json) |
@@ -2259,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Loop | 317854 | [317854-depth-loop.json](./317854-depth-loop.json) |
 | Depth Siege Atlantis | 96521 | [96521-depth-siege-atlantis.json](./96521-depth-siege-atlantis.json) |
 | Depth: Digital Deluxe Edition | 52889 | [52889-depth-digital-deluxe-edition.json](./52889-depth-digital-deluxe-edition.json) |
+| Depthbound Descent | 403793 | [403793-depthbound-descent.json](./403793-depthbound-descent.json) |
 | DepthMera | 55511 | [55511-depthmera.json](./55511-depthmera.json) |
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
 | Depths of Betrayal | 175800 | [175800-depths-of-betrayal.json](./175800-depths-of-betrayal.json) |
@@ -3234,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Builder: Medieval Castle | 298321 | [298321-diorama-builder-medieval-castle.json](./298321-diorama-builder-medieval-castle.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
+| Dioxide | 403807 | [403807-dioxide.json](./403807-dioxide.json) |
 | Diplomacy is Not an Option | 132334 | [132334-diplomacy-is-not-an-option.json](./132334-diplomacy-is-not-an-option.json) |
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
 | Dipod: The Foot Legacy | 146831 | [146831-dipod-the-foot-legacy.json](./146831-dipod-the-foot-legacy.json) |
@@ -6080,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Lords: Collector's Edition | 138039 | [138039-dungeon-lords-collectors-edition.json](./138039-dungeon-lords-collectors-edition.json) |
 | Dungeon Lords: Steam Edition | 90564 | [90564-dungeon-lords-steam-edition.json](./90564-dungeon-lords-steam-edition.json) |
 | Dungeon Lords: The Orb and the Oracle | 72614 | [72614-dungeon-lords-the-orb-and-the-oracle.json](./72614-dungeon-lords-the-orb-and-the-oracle.json) |
+| Dungeon Lurker | 403803 | [403803-dungeon-lurker.json](./403803-dungeon-lurker.json) |
 | Dungeon Man | 277272 | [277272-dungeon-man.json](./277272-dungeon-man.json) |
 | Dungeon Manager ZV: Resurrection | 55446 | [55446-dungeon-manager-zv-resurrection.json](./55446-dungeon-manager-zv-resurrection.json) |
 | Dungeon Mania | 252153 | [252153-dungeon-mania.json](./252153-dungeon-mania.json) |
