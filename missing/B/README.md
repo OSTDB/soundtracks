@@ -4515,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boot Camp Endless Runner | 223497 | [223497-boot-camp-endless-runner.json](./223497-boot-camp-endless-runner.json) |
 | Boot Hill Blaster | 74740 | [74740-boot-hill-blaster.json](./74740-boot-hill-blaster.json) |
 | Boot Hill Heroes 2 | 60561 | [60561-boot-hill-heroes-2.json](./60561-boot-hill-heroes-2.json) |
+| Booth Butcher | 406922 | [406922-booth-butcher.json](./406922-booth-butcher.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
 | Booty Barrage | 292530 | [292530-booty-barrage.json](./292530-booty-barrage.json) |
