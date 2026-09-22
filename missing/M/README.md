@@ -4525,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Easter | 246470 | [246470-mister-easter.json](./246470-mister-easter.json) |
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
+| Mister Slime | 21377 | [21377-mister-slime.json](./21377-mister-slime.json) |
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
 | Mister Versatile: A Gay Superhero Visual Novel | 180251 | [180251-mister-versatile-a-gay-superhero-visual-novel.json](./180251-mister-versatile-a-gay-superhero-visual-novel.json) |
 | Misterious Thief | 321996 | [321996-misterious-thief.json](./321996-misterious-thief.json) |
@@ -5321,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
 | Monster Truck Ramp Stunt | 246431 | [246431-monster-truck-ramp-stunt.json](./246431-monster-truck-ramp-stunt.json) |
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
+| Monster Trux: Offroad | 21500 | [21500-monster-trux-offroad.json](./21500-monster-trux-offroad.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
 | Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
