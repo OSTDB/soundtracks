@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
 | Olympic Decathlon | 78618 | [78618-olympic-decathlon.json](./78618-olympic-decathlon.json) |
 | Olympic Games Tokyo 2020: The Official Video Game | 116797 | [116797-olympic-games-tokyo-2020-the-official-video-game.json](./116797-olympic-games-tokyo-2020-the-official-video-game.json) |
+| Olympic Gold: Barcelona '92 | 46266 | [46266-olympic-gold-barcelona-92.json](./46266-olympic-gold-barcelona-92.json) |
 | Olympique de Marseille Club Football 2005 | 267907 | [267907-olympique-de-marseille-club-football-2005.json](./267907-olympique-de-marseille-club-football-2005.json) |
 | Olympus 2207 | 219118 | [219118-olympus-2207.json](./219118-olympus-2207.json) |
 | Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
@@ -1876,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overboss | 214604 | [214604-overboss.json](./214604-overboss.json) |
 | Overcast and Light Rain | 185011 | [185011-overcast-and-light-rain.json](./185011-overcast-and-light-rain.json) |
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
+| Overcooked! 2: Surf 'n' Turf | 110575 | [110575-overcooked-2-surf-n-turf.json](./110575-overcooked-2-surf-n-turf.json) |
 | Overcrowded | 185147 | [185147-overcrowded.json](./185147-overcrowded.json) |
 | Overcrowded: Tycoon | 200743 | [200743-overcrowded-tycoon.json](./200743-overcrowded-tycoon.json) |
 | Overcursed | 176494 | [176494-overcursed.json](./176494-overcursed.json) |
