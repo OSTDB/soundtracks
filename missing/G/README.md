@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
+| Galactic Driver | 88209 | [88209-galactic-driver.json](./88209-galactic-driver.json) |
 | Galactic Empire | 240484 | [240484-galactic-empire.json](./240484-galactic-empire.json) |
 | Galactic Empires | 176370 | [176370-galactic-empires.json](./176370-galactic-empires.json) |
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
@@ -1481,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Blonde | 74178 | [74178-girl-blonde.json](./74178-girl-blonde.json) |
 | Girl Cafe Gun | 139383 | [139383-girl-cafe-gun.json](./139383-girl-cafe-gun.json) |
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
+| Girl Dress Up Makeover | 88327 | [88327-girl-dress-up-makeover.json](./88327-girl-dress-up-makeover.json) |
 | Girl Gunner | 277317 | [277317-girl-gunner.json](./277317-girl-gunner.json) |
 | Girl in Darkness | 394126 | [394126-girl-in-darkness.json](./394126-girl-in-darkness.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
@@ -1583,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
 | Glass Cannons | 181772 | [181772-glass-cannons.json](./181772-glass-cannons.json) |
+| Glass Fort: Smash It | 88313 | [88313-glass-fort-smash-it.json](./88313-glass-fort-smash-it.json) |
 | Glass Heart | 234199 | [234199-glass-heart.json](./234199-glass-heart.json) |
 | Glass Hearts | 221191 | [221191-glass-hearts.json](./221191-glass-hearts.json) |
 | Glass Hime to Kagami no Juusha | 172587 | [172587-glass-hime-to-kagami-no-juusha.json](./172587-glass-hime-to-kagami-no-juusha.json) |
@@ -2263,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomiboru | 333017 | [333017-gomiboru.json](./333017-gomiboru.json) |
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
+| Gomoku: Online Game Hall | 88204 | [88204-gomoku-online-game-hall.json](./88204-gomoku-online-game-hall.json) |
 | Gon | 97118 | [97118-gon.json](./97118-gon.json) |
 | Gon' E-Choo! | 19023 | [19023-gon-e-choo.json](./19023-gon-e-choo.json) |
 | Gone Exploring | 412409 | [412409-gone-exploring.json](./412409-gone-exploring.json) |
@@ -3315,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guacamojo | 201693 | [201693-guacamojo.json](./201693-guacamojo.json) |
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
+| Guard of Wonderland VR | 88126 | [88126-guard-of-wonderland-vr.json](./88126-guard-of-wonderland-vr.json) |
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
 | Guardian | 55133 | [55133-guardian.json](./55133-guardian.json) |
