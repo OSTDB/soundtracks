@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy | 188667 | [188667-entropy.json](./188667-entropy.json) |
 | Entropy | 285026 | [285026-entropy.json](./285026-entropy.json) |
 | Entropy | 363898 | [363898-entropy.json](./363898-entropy.json) |
+| Entropy | 402532 | [402532-entropy.json](./402532-entropy.json) |
 | Entropy 2120 | 87971 | [87971-entropy-2120.json](./87971-entropy-2120.json) |
 | Entropy graze | 378919 | [378919-entropy-graze.json](./378919-entropy-graze.json) |
 | Entropy: Zero | 127887 | [127887-entropy-zero.json](./127887-entropy-zero.json) |
