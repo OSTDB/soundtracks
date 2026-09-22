@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
 | Death Rpg | 116313 | [116313-death-rpg.json](./116313-death-rpg.json) |
 | Death Shooter 4 : Mission Impossible | 104614 | [104614-death-shooter-4-mission-impossible.json](./104614-death-shooter-4-mission-impossible.json) |
+| Death Sketchbook | 393134 | [393134-death-sketchbook.json](./393134-death-sketchbook.json) |
 | Death Skid Marks | 17897 | [17897-death-skid-marks.json](./17897-death-skid-marks.json) |
 | Death Slave | 209698 | [209698-death-slave.json](./209698-death-slave.json) |
 | Death Spiral | 408297 | [408297-death-spiral.json](./408297-death-spiral.json) |
