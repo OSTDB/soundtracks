@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint-a'-Way | 271825 | [271825-paint-a-way.json](./271825-paint-a-way.json) |
 | Paint-guin | 310060 | [310060-paint-guin.json](./310060-paint-guin.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
+| Paintball Arena Challenge | 86998 | [86998-paintball-arena-challenge.json](./86998-paintball-arena-challenge.json) |
 | Paintball Champs | 237386 | [237386-paintball-champs.json](./237386-paintball-champs.json) |
 | Paintball eXtreme | 34793 | [34793-paintball-extreme.json](./34793-paintball-extreme.json) |
 | Paintball NET | 125951 | [125951-paintball-net.json](./125951-paintball-net.json) |
@@ -466,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Panther Family Sim | 101550 | [101550-panther-family-sim.json](./101550-panther-family-sim.json) |
 | Panther Simulator | 104625 | [104625-panther-simulator.json](./104625-panther-simulator.json) |
+| Panther Superhero City Battle | 86802 | [86802-panther-superhero-city-battle.json](./86802-panther-superhero-city-battle.json) |
 | Panties of Rage | 109604 | [109604-panties-of-rage.json](./109604-panties-of-rage.json) |
 | Pantomime | 341597 | [341597-pantomime.json](./341597-pantomime.json) |
 | Pants | 179678 | [179678-pants.json](./179678-pants.json) |
@@ -838,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Car | 156694 | [156694-parking-car.json](./156694-parking-car.json) |
 | Parking Dash | 66608 | [66608-parking-dash.json](./66608-parking-dash.json) |
 | Parking Driver | 290921 | [290921-parking-driver.json](./290921-parking-driver.json) |
+| Parking Escape | 86947 | [86947-parking-escape.json](./86947-parking-escape.json) |
 | Parking Expert! | 307762 | [307762-parking-expert.json](./307762-parking-expert.json) |
 | Parking Frenzy | 343786 | [343786-parking-frenzy.json](./343786-parking-frenzy.json) |
 | Parking Garage Rally Circuit DX | 381673 | [381673-parking-garage-rally-circuit-dx.json](./381673-parking-garage-rally-circuit-dx.json) |
@@ -1298,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearl Harbor: Zero Hour | 72057 | [72057-pearl-harbor-zero-hour.json](./72057-pearl-harbor-zero-hour.json) |
 | Pearl Jam Live: Rock Band | 68299 | [68299-pearl-jam-live-rock-band.json](./68299-pearl-jam-live-rock-band.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
+| Pearl's Peril | 86803 | [86803-pearls-peril.json](./86803-pearls-peril.json) |
 | Pearlessential | 337732 | [337732-pearlessential.json](./337732-pearlessential.json) |
 | Pearls | 246501 | [246501-pearls.json](./246501-pearls.json) |
 | Pearls of the Oceans | 164974 | [164974-pearls-of-the-oceans.json](./164974-pearls-of-the-oceans.json) |
@@ -2639,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
+| Pixel Blitz - Impossible Runner | 86913 | [86913-pixel-blitz-impossible-runner.json](./86913-pixel-blitz-impossible-runner.json) |
 | Pixel Blocked! | 92491 | [92491-pixel-blocked.json](./92491-pixel-blocked.json) |
 | Pixel Boat Rush | 91110 | [91110-pixel-boat-rush.json](./91110-pixel-boat-rush.json) |
 | Pixel Bomb! Bomb!! | 30171 | [30171-pixel-bomb-bomb.json](./30171-pixel-bomb-bomb.json) |
@@ -5695,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Electric Love "Look at my eyes!" Moe Yamauchi | 105977 | [105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json](./105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json) |
 | Pure Electric Love "What do you want?" Eri Kitami | 105978 | [105978-pure-electric-love-what-do-you-want-eri-kitami.json](./105978-pure-electric-love-what-do-you-want-eri-kitami.json) |
 | Pure Evil: 2-pack | 145048 | [145048-pure-evil-2-pack.json](./145048-pure-evil-2-pack.json) |
+| Pure Hearts | 86912 | [86912-pure-hearts.json](./86912-pure-hearts.json) |
 | Pure Hentai: Gallery | 385082 | [385082-pure-hentai-gallery.json](./385082-pure-hentai-gallery.json) |
 | Pure Hentai: Moments | 385081 | [385081-pure-hentai-moments.json](./385081-pure-hentai-moments.json) |
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
