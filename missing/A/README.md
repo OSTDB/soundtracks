@@ -1888,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alight: Lunar Survival | 215780 | [215780-alight-lunar-survival.json](./215780-alight-lunar-survival.json) |
 | Align 12 | 242662 | [242662-align-12.json](./242662-align-12.json) |
 | Aligned | 205115 | [205115-aligned.json](./205115-aligned.json) |
+| Alignment Zero | 397269 | [397269-alignment-zero.json](./397269-alignment-zero.json) |
 | Alik: Gry i zabawy | 188569 | [188569-alik-gry-i-zabawy.json](./188569-alik-gry-i-zabawy.json) |
 | Alik: Juz Ide Do Szkoly | 188561 | [188561-alik-juz-ide-do-szkoly.json](./188561-alik-juz-ide-do-szkoly.json) |
 | Alilia | 116862 | [116862-alilia.json](./116862-alilia.json) |
