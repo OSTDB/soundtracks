@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Quimera | 333606 | [333606-la-quimera.json](./333606-la-quimera.json) |
 | La Statuette maudite de l'oncle Ernest | 282689 | [282689-la-statuette-maudite-de-loncle-ernest.json](./282689-la-statuette-maudite-de-loncle-ernest.json) |
 | La storia della Arcana Famiglia: Rinato | 339376 | [339376-la-storia-della-arcana-famiglia-rinato.json](./339376-la-storia-della-arcana-famiglia-rinato.json) |
+| LA Street Racing | 27553 | [27553-la-street-racing.json](./27553-la-street-racing.json) |
 | La Tailor Girl | 198353 | [198353-la-tailor-girl.json](./198353-la-tailor-girl.json) |
 | La torre de Mario | 374170 | [374170-la-torre-de-mario.json](./374170-la-torre-de-mario.json) |
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Moon | 207830 | [207830-legend-of-the-moon.json](./207830-legend-of-the-moon.json) |
 | Legend of the Moon: Those Who Crossed | 351640 | [351640-legend-of-the-moon-those-who-crossed.json](./351640-legend-of-the-moon-those-who-crossed.json) |
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
+| Legend of the Skyfish | 27604 | [27604-legend-of-the-skyfish.json](./27604-legend-of-the-skyfish.json) |
 | Legend of the Storm | 340911 | [340911-legend-of-the-storm.json](./340911-legend-of-the-storm.json) |
 | Legend of the Sword Saint | 340912 | [340912-legend-of-the-sword-saint.json](./340912-legend-of-the-sword-saint.json) |
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
@@ -1496,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
 | Lies of Astaroth | 57975 | [57975-lies-of-astaroth.json](./57975-lies-of-astaroth.json) |
 | Liese in the City of Trials | 358928 | [358928-liese-in-the-city-of-trials.json](./358928-liese-in-the-city-of-trials.json) |
+| Lieve Oma | 27648 | [27648-lieve-oma.json](./27648-lieve-oma.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
@@ -1568,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeline: Silent Night | 39254 | [39254-lifeline-silent-night.json](./39254-lifeline-silent-night.json) |
 | Lifeline: Whiteout | 57911 | [57911-lifeline-whiteout.json](./57911-lifeline-whiteout.json) |
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
+| Lifespeed | 27386 | [27386-lifespeed.json](./27386-lifespeed.json) |
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lifetime | 236400 | [236400-lifetime.json](./236400-lifetime.json) |
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
