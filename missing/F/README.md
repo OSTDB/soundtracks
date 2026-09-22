@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles: The Great War | 357879 | [357879-fantasy-jigsaw-puzzles-the-great-war.json](./357879-fantasy-jigsaw-puzzles-the-great-war.json) |
 | Fantasy Jigsaw Puzzles: The Orient | 357880 | [357880-fantasy-jigsaw-puzzles-the-orient.json](./357880-fantasy-jigsaw-puzzles-the-orient.json) |
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
+| Fantasy Life | 214147 | [214147-fantasy-life.json](./214147-fantasy-life.json) |
 | Fantasy Life | 6770 | [6770-fantasy-life.json](./6770-fantasy-life.json) |
 | Fantasy Life i: The Girl Who Steals Time - Digital Deluxe Edition | 336364 | [336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json](./336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json) |
 | Fantasy Life i: The Girl Who Steals Time - The Sinister Broker Bazario's Schemes | 370134 | [370134-fantasy-life-i-the-girl-who-steals-time-the-sinister-broker-bazarios-schemes.json](./370134-fantasy-life-i-the-girl-who-steals-time-the-sinister-broker-bazarios-schemes.json) |
@@ -3864,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeing Quency | 179192 | [179192-freeing-quency.json](./179192-freeing-quency.json) |
 | FreeJack | 51276 | [51276-freejack.json](./51276-freejack.json) |
 | Freekscape: Escape From Hell | 52231 | [52231-freekscape-escape-from-hell.json](./52231-freekscape-escape-from-hell.json) |
+| Freekstyle | 3919 | [3919-freekstyle.json](./3919-freekstyle.json) |
 | Freelance Dead | 390663 | [390663-freelance-dead.json](./390663-freelance-dead.json) |
 | Freelance Simulator: Game Developer Edition | 100874 | [100874-freelance-simulator-game-developer-edition.json](./100874-freelance-simulator-game-developer-edition.json) |
 | Freelance Trucker: Insurance Fraud Edition | 150644 | [150644-freelance-trucker-insurance-fraud-edition.json](./150644-freelance-trucker-insurance-fraud-edition.json) |
