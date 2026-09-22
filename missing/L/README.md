@@ -3403,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
+| Lynked: Banner of the Spark | 314256 | [314256-lynked-banner-of-the-spark.json](./314256-lynked-banner-of-the-spark.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
 | LyokoVR | 169337 | [169337-lyokovr.json](./169337-lyokovr.json) |
 | Lyratha: Labyrinth - Survival Escape | 115682 | [115682-lyratha-labyrinth-survival-escape.json](./115682-lyratha-labyrinth-survival-escape.json) |
