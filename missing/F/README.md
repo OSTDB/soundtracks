@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finkles World | 66947 | [66947-finkles-world.json](./66947-finkles-world.json) |
 | Finn Dorset's Institute For Livestock Replication | 321144 | [321144-finn-dorsets-institute-for-livestock-replication.json](./321144-finn-dorsets-institute-for-livestock-replication.json) |
 | Finneon Accidentally Causes the End of the World | 339251 | [339251-finneon-accidentally-causes-the-end-of-the-world.json](./339251-finneon-accidentally-causes-the-end-of-the-world.json) |
+| Finnie's Bimbo Fishing | 395207 | [395207-finnies-bimbo-fishing.json](./395207-finnies-bimbo-fishing.json) |
 | Finnish Cabin Mayhem: Mökkimähinä | 321737 | [321737-finnish-cabin-mayhem-mokkimahina.json](./321737-finnish-cabin-mayhem-mokkimahina.json) |
 | Finnish Cottage 8 | 334484 | [334484-finnish-cottage-8.json](./334484-finnish-cottage-8.json) |
 | Finnish Cottage Simulator | 319559 | [319559-finnish-cottage-simulator.json](./319559-finnish-cottage-simulator.json) |
@@ -3125,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fomalhaut Flowers | 159714 | [159714-fomalhaut-flowers.json](./159714-fomalhaut-flowers.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
+| Food Adventures | 395173 | [395173-food-adventures.json](./395173-food-adventures.json) |
 | Food and Girls | 148363 | [148363-food-and-girls.json](./148363-food-and-girls.json) |
 | Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food | 399634 | [399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json](./399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json) |
 | Food Chain | 209464 | [209464-food-chain.json](./209464-food-chain.json) |
