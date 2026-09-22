@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocobo Collection | 71219 | [71219-chocobo-collection.json](./71219-chocobo-collection.json) |
 | Chocobo Land: A Game of Dice | 49559 | [49559-chocobo-land-a-game-of-dice.json](./49559-chocobo-land-a-game-of-dice.json) |
 | Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
+| Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
@@ -2930,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel Siege 2 | 365168 | [365168-citadel-siege-2.json](./365168-citadel-siege-2.json) |
 | Citadel Stormer 2 | 235855 | [235855-citadel-stormer-2.json](./235855-citadel-stormer-2.json) |
 | Citadel Warrior | 308255 | [308255-citadel-warrior.json](./308255-citadel-warrior.json) |
+| Citadel: Forged With Fire | 47823 | [47823-citadel-forged-with-fire.json](./47823-citadel-forged-with-fire.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
 | Cities Domination | 319764 | [319764-cities-domination.json](./319764-cities-domination.json) |
@@ -4289,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
 | Conan Exiles: Riders of Hyboria | 127253 | [127253-conan-exiles-riders-of-hyboria.json](./127253-conan-exiles-riders-of-hyboria.json) |
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
+| Conan Unconquered | 113208 | [113208-conan-unconquered.json](./113208-conan-unconquered.json) |
 | Conarium | 24856 | [24856-conarium.json](./24856-conarium.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
@@ -5824,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
 | Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
 | Crossroads Farming Co. | 377056 | [377056-crossroads-farming-co.json](./377056-crossroads-farming-co.json) |
+| Crossroads Inn | 107255 | [107255-crossroads-inn.json](./107255-crossroads-inn.json) |
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossroads of Fate | 185601 | [185601-crossroads-of-fate.json](./185601-crossroads-of-fate.json) |
 | Crossroads: Lucky Edition | 113241 | [113241-crossroads-lucky-edition.json](./113241-crossroads-lucky-edition.json) |
