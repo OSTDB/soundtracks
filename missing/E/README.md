@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
 | Escape Darkness | 290550 | [290550-escape-darkness.json](./290550-escape-darkness.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
+| Escape Doom | 399182 | [399182-escape-doom.json](./399182-escape-doom.json) |
 | Escape Down | 195102 | [195102-escape-down.json](./195102-escape-down.json) |
 | Escape Dream | 236384 | [236384-escape-dream.json](./236384-escape-dream.json) |
 | Escape DuckZ! | 329019 | [329019-escape-duckz.json](./329019-escape-duckz.json) |
