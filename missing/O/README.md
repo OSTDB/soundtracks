@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
 | Ok/Normal | 101635 | [101635-ok-normal.json](./101635-ok-normal.json) |
 | Okada Toshio no Itsumade mo Debu to Omounayo | 70633 | [70633-okada-toshio-no-itsumade-mo-debu-to-omounayo.json](./70633-okada-toshio-no-itsumade-mo-debu-to-omounayo.json) |
+| Okaeri | 122005 | [122005-okaeri.json](./122005-okaeri.json) |
 | Okaeri! Chibi-Robo! Happy Richie Oosouji | 47773 | [47773-okaeri-chibi-robo-happy-richie-oosouji.json](./47773-okaeri-chibi-robo-happy-richie-oosouji.json) |
 | Okage: Shadow King | 43614 | [43614-okage-shadow-king.json](./43614-okage-shadow-king.json) |
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
@@ -1933,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpowered 2: Crux of Fate | 393627 | [393627-overpowered-2-crux-of-fate.json](./393627-overpowered-2-crux-of-fate.json) |
 | OverRapid | 75133 | [75133-overrapid.json](./75133-overrapid.json) |
 | Override 2: Super Mech League | 137296 | [137296-override-2-super-mech-league.json](./137296-override-2-super-mech-league.json) |
+| Override: Mech City Brawl | 105028 | [105028-override-mech-city-brawl.json](./105028-override-mech-city-brawl.json) |
 | Overrider | 236375 | [236375-overrider.json](./236375-overrider.json) |
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
 | Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
