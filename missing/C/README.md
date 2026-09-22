@@ -3575,6 +3575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co-Jump, Fly | 127090 | [127090-co-jump-fly.json](./127090-co-jump-fly.json) |
 | Co-op Frenzy: Spirit of the Island + Biped Bundle | 214053 | [214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json](./214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json) |
 | Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
+| Co-op SNEK Online | 81722 | [81722-co-op-snek-online.json](./81722-co-op-snek-online.json) |
 | Co-Open | 146704 | [146704-co-open.json](./146704-co-open.json) |
 | Coach Bus Driving Simulator | 308809 | [308809-coach-bus-driving-simulator.json](./308809-coach-bus-driving-simulator.json) |
 | Coach K College Basketball | 46226 | [46226-coach-k-college-basketball.json](./46226-coach-k-college-basketball.json) |
@@ -6794,6 +6795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk 2077: Day One Edition | 284480 | [284480-cyberpunk-2077-day-one-edition.json](./284480-cyberpunk-2077-day-one-edition.json) |
 | Cyberpunk 2077: Ultimate Edition | 277807 | [277807-cyberpunk-2077-ultimate-edition.json](./277807-cyberpunk-2077-ultimate-edition.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
+| Cyberpunk Arena | 81736 | [81736-cyberpunk-arena.json](./81736-cyberpunk-arena.json) |
 | Cyberpunk Detective | 164975 | [164975-cyberpunk-detective.json](./164975-cyberpunk-detective.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
 | Cyberpunk Men for Cyberpunk Sex | 288882 | [288882-cyberpunk-men-for-cyberpunk-sex.json](./288882-cyberpunk-men-for-cyberpunk-sex.json) |
