@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombiflux: Sleepless War | 260177 | [260177-zombiflux-sleepless-war.json](./260177-zombiflux-sleepless-war.json) |
 | Zombify Me Run | 221267 | [221267-zombify-me-run.json](./221267-zombify-me-run.json) |
 | Zombillie | 33167 | [33167-zombillie.json](./33167-zombillie.json) |
+| Zombitatos the end of the Pc master race | 31916 | [31916-zombitatos-the-end-of-the-pc-master-race.json](./31916-zombitatos-the-end-of-the-pc-master-race.json) |
 | Zombitsu | 23484 | [23484-zombitsu.json](./23484-zombitsu.json) |
 | ZombiU | 1591 | [1591-zombiu.json](./1591-zombiu.json) |
 | ZombLabs | 31891 | [31891-zomblabs.json](./31891-zomblabs.json) |
