@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkstalkers Chronicle: The Chaos Tower | 20011 | [20011-darkstalkers-chronicle-the-chaos-tower.json](./20011-darkstalkers-chronicle-the-chaos-tower.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
 | Darkstar: The Interactive Movie | 9118 | [9118-darkstar-the-interactive-movie.json](./9118-darkstar-the-interactive-movie.json) |
+| Darkstone Restoration | 397902 | [397902-darkstone-restoration.json](./397902-darkstone-restoration.json) |
 | DarkStory Online | 122155 | [122155-darkstory-online.json](./122155-darkstory-online.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
 | Darkwind: War on Wheels | 17305 | [17305-darkwind-war-on-wheels.json](./17305-darkwind-war-on-wheels.json) |
@@ -1491,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death End Re;Quest 2: Complete Deluxe Edition | 186871 | [186871-death-end-re-quest-2-complete-deluxe-edition.json](./186871-death-end-re-quest-2-complete-deluxe-edition.json) |
 | Death End Re;Quest 2: Limited Edition | 166236 | [166236-death-end-re-quest-2-limited-edition.json](./166236-death-end-re-quest-2-limited-edition.json) |
 | Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
+| Death Everywhere, So Save Paranoiacally 2 | 397934 | [397934-death-everywhere-so-save-paranoiacally-2.json](./397934-death-everywhere-so-save-paranoiacally-2.json) |
 | Death Field: The Battle Royale of Disaster | 96234 | [96234-death-field-the-battle-royale-of-disaster.json](./96234-death-field-the-battle-royale-of-disaster.json) |
 | Death Fighter | 285007 | [285007-death-fighter.json](./285007-death-fighter.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
@@ -3609,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | DitherDream | 285020 | [285020-ditherdream.json](./285020-ditherdream.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
+| Dithered | 397910 | [397910-dithered.json](./397910-dithered.json) |
 | Dito G1 | 266880 | [266880-dito-g1.json](./266880-dito-g1.json) |
 | Ditto Leapfrog | 94206 | [94206-ditto-leapfrog.json](./94206-ditto-leapfrog.json) |
 | Diva Starz: Mall Mania | 49893 | [49893-diva-starz-mall-mania.json](./49893-diva-starz-mall-mania.json) |
@@ -3756,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
 | Do I Have a Right? | 207871 | [207871-do-i-have-a-right.json](./207871-do-i-have-a-right.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
+| Do I Really Like Chocolate? | 397944 | [397944-do-i-really-like-chocolate.json](./397944-do-i-really-like-chocolate.json) |
 | Do It for Me | 122997 | [122997-do-it-for-me.json](./122997-do-it-for-me.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
@@ -5276,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadBound | 382895 | [382895-dreadbound.json](./382895-dreadbound.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
 | DreadFall | 260241 | [260241-dreadfall.json](./260241-dreadfall.json) |
+| Dreadfold | 397901 | [397901-dreadfold.json](./397901-dreadfold.json) |
 | Dreadful Aurora | 297047 | [297047-dreadful-aurora.json](./297047-dreadful-aurora.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
 | Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
@@ -5700,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropzone | 369618 | [369618-dropzone.json](./369618-dropzone.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
+| Drown Rabbit | 397937 | [397937-drown-rabbit.json](./397937-drown-rabbit.json) |
 | Drowned Caves | 402501 | [402501-drowned-caves.json](./402501-drowned-caves.json) |
 | Drowned God: Conspiracy of the Ages | 12421 | [12421-drowned-god-conspiracy-of-the-ages.json](./12421-drowned-god-conspiracy-of-the-ages.json) |
 | Drowned Helicopter | 166695 | [166695-drowned-helicopter.json](./166695-drowned-helicopter.json) |
