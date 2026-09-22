@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma: Operation Barbossa | 67232 | [67232-karma-operation-barbossa.json](./67232-karma-operation-barbossa.json) |
 | Karma: The Dark World - Deluxe Edition | 403590 | [403590-karma-the-dark-world-deluxe-edition.json](./403590-karma-the-dark-world-deluxe-edition.json) |
 | Karmaflow: The Rock Opera Videogame | 8439 | [8439-karmaflow-the-rock-opera-videogame.json](./8439-karmaflow-the-rock-opera-videogame.json) |
+| Karmasutra | 51474 | [51474-karmasutra.json](./51474-karmasutra.json) |
 | Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
 | Karnn Age | 67969 | [67969-karnn-age.json](./67969-karnn-age.json) |
 | Karnov | 288188 | [288188-karnov.json](./288188-karnov.json) |
