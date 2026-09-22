@@ -3053,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Rampage 3D | 106627 | [106627-dino-rampage-3d.json](./106627-dino-rampage-3d.json) |
 | Dino Rex | 183466 | [183466-dino-rex.json](./183466-dino-rex.json) |
 | Dino Rex | 39630 | [39630-dino-rex.json](./39630-dino-rex.json) |
+| Dino Run DX | 16636 | [16636-dino-run-dx.json](./16636-dino-run-dx.json) |
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
 | Dino Safari: Evolution-U | 100927 | [100927-dino-safari-evolution-u.json](./100927-dino-safari-evolution-u.json) |
@@ -3458,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Worlds 2 | 138722 | [138722-distant-worlds-2.json](./138722-distant-worlds-2.json) |
 | Distant Worlds 2: Factions - Ikkuro and Dhayut | 242048 | [242048-distant-worlds-2-factions-ikkuro-and-dhayut.json](./242048-distant-worlds-2-factions-ikkuro-and-dhayut.json) |
 | Distant Worlds 2: Return of the Shakturi | 324930 | [324930-distant-worlds-2-return-of-the-shakturi.json](./324930-distant-worlds-2-return-of-the-shakturi.json) |
+| Distant Worlds: Universe | 16806 | [16806-distant-worlds-universe.json](./16806-distant-worlds-universe.json) |
 | Distantia | 408029 | [408029-distantia.json](./408029-distantia.json) |
 | Distill, My Beating Heart! | 292019 | [292019-distill-my-beating-heart.json](./292019-distill-my-beating-heart.json) |
 | Distorted Echos | 217323 | [217323-distorted-echos.json](./217323-distorted-echos.json) |
@@ -3503,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
 | Divi-Dead | 12420 | [12420-divi-dead.json](./12420-divi-dead.json) |
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
+| Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
 | Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
@@ -6265,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
+| Dys4ia | 15850 | [15850-dys4ia.json](./15850-dys4ia.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
 | Dyscourse | 16504 | [16504-dyscourse.json](./16504-dyscourse.json) |
