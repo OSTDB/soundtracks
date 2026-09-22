@@ -3448,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Love | 63334 | [63334-pocket-love.json](./63334-pocket-love.json) |
 | Pocket Love: If | 43973 | [43973-pocket-love-if.json](./43973-pocket-love-if.json) |
+| Pocket Ludo | 401098 | [401098-pocket-ludo.json](./401098-pocket-ludo.json) |
 | Pocket Luna | 193878 | [193878-pocket-luna.json](./193878-pocket-luna.json) |
 | Pocket Mario | 318031 | [318031-pocket-mario.json](./318031-pocket-mario.json) |
 | Pocket Mine | 38909 | [38909-pocket-mine.json](./38909-pocket-mine.json) |
