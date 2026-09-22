@@ -529,6 +529,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
 | Idle Devils | 235851 | [235851-idle-devils.json](./235851-idle-devils.json) |
+| Idle Devils: New Character - Lucifer | 399806 | [399806-idle-devils-new-character-lucifer.json](./399806-idle-devils-new-character-lucifer.json) |
+| Idle Devils: New Character - Samael | 399807 | [399807-idle-devils-new-character-samael.json](./399807-idle-devils-new-character-samael.json) |
+| Idle Devils: Ultimate Edition | 399809 | [399809-idle-devils-ultimate-edition.json](./399809-idle-devils-ultimate-edition.json) |
 | Idle Dig Gold: Craft Adventure | 248105 | [248105-idle-dig-gold-craft-adventure.json](./248105-idle-dig-gold-craft-adventure.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
