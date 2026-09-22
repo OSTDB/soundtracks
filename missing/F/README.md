@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireChess | 275108 | [275108-firechess.json](./275108-firechess.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
+| Firefighters 2014 | 17208 | [17208-firefighters-2014.json](./17208-firefighters-2014.json) |
 | Firefighters Code Red | 410889 | [410889-firefighters-code-red.json](./410889-firefighters-code-red.json) |
 | Firefighters Simulator 2026 | 393626 | [393626-firefighters-simulator-2026.json](./393626-firefighters-simulator-2026.json) |
 | Firefighters: The Simulation | 32042 | [32042-firefighters-the-simulation.json](./32042-firefighters-the-simulation.json) |
@@ -3129,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Foonda | 196172 | [196172-foonda.json](./196172-foonda.json) |
+| Foosball - Street Edition | 17113 | [17113-foosball-street-edition.json](./17113-foosball-street-edition.json) |
 | Foosball 2012 | 52219 | [52219-foosball-2012.json](./52219-foosball-2012.json) |
 | Foosball Cup World | 237957 | [237957-foosball-cup-world.json](./237957-foosball-cup-world.json) |
 | Foosball For Two | 68627 | [68627-foosball-for-two.json](./68627-foosball-for-two.json) |
@@ -3374,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
 | Forge of Neon 3D | 90350 | [90350-forge-of-neon-3d.json](./90350-forge-of-neon-3d.json) |
+| Forge Quest | 16652 | [16652-forge-quest.json](./16652-forge-quest.json) |
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
 | Forged Alliance Forever | 142868 | [142868-forged-alliance-forever.json](./142868-forged-alliance-forever.json) |
@@ -4110,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz & Chesster's Chess for Winners | 84182 | [84182-fritz-and-chessters-chess-for-winners.json](./84182-fritz-and-chessters-chess-for-winners.json) |
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
+| Fritz Chess 14 | 17050 | [17050-fritz-chess-14.json](./17050-fritz-chess-14.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Frizzle | 319194 | [319194-frizzle.json](./319194-frizzle.json) |
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
