@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake of Shadows | 165548 | [165548-lake-of-shadows.json](./165548-lake-of-shadows.json) |
 | Lake Ridden | 27943 | [27943-lake-ridden.json](./27943-lake-ridden.json) |
 | Lake Road | 173242 | [173242-lake-road.json](./173242-lake-road.json) |
+| Lake: Season's Greetings | 252357 | [252357-lake-seasons-greetings.json](./252357-lake-seasons-greetings.json) |
 | Lakeburg Legacies: Supporter's Pack | 257460 | [257460-lakeburg-legacies-supporters-pack.json](./257460-lakeburg-legacies-supporters-pack.json) |
 | Lakefront Restaurant | 272303 | [272303-lakefront-restaurant.json](./272303-lakefront-restaurant.json) |
 | Lakehouse | 191189 | [191189-lakehouse.json](./191189-lakehouse.json) |
@@ -1069,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
 | LEGO Star Wars II | 286107 | [286107-lego-star-wars-ii.json](./286107-lego-star-wars-ii.json) |
 | LEGO Star Wars II: The Original Trilogy | 190 | [190-lego-star-wars-ii-the-original-trilogy.json](./190-lego-star-wars-ii-the-original-trilogy.json) |
+| LEGO Star Wars III: The Clone Wars | 250156 | [250156-lego-star-wars-iii-the-clone-wars.json](./250156-lego-star-wars-iii-the-clone-wars.json) |
 | Lego Star Wars the Force Awakens - First Order Siege of Takodana Level Pack | 355113 | [355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json](./355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json) |
 | Lego Star Wars the Force Awakens - Star Wars Rebels Character Pack | 355112 | [355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json](./355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json) |
 | Lego Star Wars the Force Awakens - The Freemaker Adventures Character Pack | 355114 | [355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json](./355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json) |
