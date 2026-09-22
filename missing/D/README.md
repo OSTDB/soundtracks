@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonSteele | 134443 | [134443-demonsteele.json](./134443-demonsteele.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
 | Demonworld: Dark Armies | 73841 | [73841-demonworld-dark-armies.json](./73841-demonworld-dark-armies.json) |
+| Demonworld: Hell Boss Fight | 416839 | [416839-demonworld-hell-boss-fight.json](./416839-demonworld-hell-boss-fight.json) |
 | Demos for Toby Fox | 141629 | [141629-demos-for-toby-fox.json](./141629-demos-for-toby-fox.json) |
 | Dempsey and Makepeace | 13588 | [13588-dempsey-and-makepeace.json](./13588-dempsey-and-makepeace.json) |
 | Demra: Rifts of War | 385700 | [385700-demra-rifts-of-war.json](./385700-demra-rifts-of-war.json) |
@@ -3747,11 +3748,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dockside Dreams: Fish & Cook Simulator | 373015 | [373015-dockside-dreams-fish-and-cook-simulator.json](./373015-dockside-dreams-fish-and-cook-simulator.json) |
 | Docomodake Boing! | 72973 | [72973-docomodake-boing.json](./72973-docomodake-boing.json) |
 | Doctor Fizzwizzle's Animal Rescue | 50634 | [50634-doctor-fizzwizzles-animal-rescue.json](./50634-doctor-fizzwizzles-animal-rescue.json) |
+| Doctor Galaxy | 416826 | [416826-doctor-galaxy.json](./416826-doctor-galaxy.json) |
+| Doctor Kairokos | 416828 | [416828-doctor-kairokos.json](./416828-doctor-kairokos.json) |
 | Doctor Ku: The Alien Room | 315120 | [315120-doctor-ku-the-alien-room.json](./315120-doctor-ku-the-alien-room.json) |
 | Doctor Ku: The Cellar | 315097 | [315097-doctor-ku-the-cellar.json](./315097-doctor-ku-the-cellar.json) |
 | Doctor Ku: The Kitchen | 315099 | [315099-doctor-ku-the-kitchen.json](./315099-doctor-ku-the-kitchen.json) |
 | Doctor Nanobot | 207530 | [207530-doctor-nanobot.json](./207530-doctor-nanobot.json) |
 | Doctor Pigeon Simulator | 407360 | [407360-doctor-pigeon-simulator.json](./407360-doctor-pigeon-simulator.json) |
+| Doctor Plague | 416823 | [416823-doctor-plague.json](./416823-doctor-plague.json) |
 | Doctor Root | 318980 | [318980-doctor-root.json](./318980-doctor-root.json) |
 | Doctor Surgeon: Hospital games | 95850 | [95850-doctor-surgeon-hospital-games.json](./95850-doctor-surgeon-hospital-games.json) |
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
