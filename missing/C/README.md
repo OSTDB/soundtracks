@@ -4550,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
 | Contingency Plan | 336632 | [336632-contingency-plan.json](./336632-contingency-plan.json) |
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
+| Continue?9876543210 | 8725 | [8725-continue-9876543210.json](./8725-continue-9876543210.json) |
 | Continuum | 243255 | [243255-continuum.json](./243255-continuum.json) |
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | ContiTireRace 2: The Continental Racing Game | 261351 | [261351-contitirerace-2-the-continental-racing-game.json](./261351-contitirerace-2-the-continental-racing-game.json) |
@@ -6278,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
 | Cubic Light | 229164 | [229164-cubic-light.json](./229164-cubic-light.json) |
+| Cubic Ninja | 6754 | [6754-cubic-ninja.json](./6754-cubic-ninja.json) |
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
 | Cubic Tetris | 302342 | [302342-cubic-tetris.json](./302342-cubic-tetris.json) |
