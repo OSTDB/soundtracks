@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyman | 40203 | [40203-joyman.json](./40203-joyman.json) |
 | Joyo Kanji Quiz | 99646 | [99646-joyo-kanji-quiz.json](./99646-joyo-kanji-quiz.json) |
 | Joyquarium | 337072 | [337072-joyquarium.json](./337072-joyquarium.json) |
+| Joyride: live trivia shows | 88175 | [88175-joyride-live-trivia-shows.json](./88175-joyride-live-trivia-shows.json) |
 | Joyride: Lowpoly World | 259010 | [259010-joyride-lowpoly-world.json](./259010-joyride-lowpoly-world.json) |
 | Joyrider | 270412 | [270412-joyrider.json](./270412-joyrider.json) |
 | Joyshot | 181914 | [181914-joyshot.json](./181914-joyshot.json) |
