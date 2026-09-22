@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F40 Pursuit Simulator | 47217 | [47217-f40-pursuit-simulator.json](./47217-f40-pursuit-simulator.json) |
 | FA Manager | 44818 | [44818-fa-manager.json](./44818-fa-manager.json) |
 | FA Tetris | 250372 | [250372-fa-tetris.json](./250372-fa-tetris.json) |
+| Faaast Penguin | 314424 | [314424-faaast-penguin.json](./314424-faaast-penguin.json) |
 | Fab 5 Soccer | 124633 | [124633-fab-5-soccer.json](./124633-fab-5-soccer.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fable Anniversary | 7658 | [7658-fable-anniversary.json](./7658-fable-anniversary.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceball 2000 DX | 279728 | [279728-faceball-2000-dx.json](./279728-faceball-2000-dx.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
 | Facemaker | 326621 | [326621-facemaker.json](./326621-facemaker.json) |
+| Faceminer | 257986 | [257986-faceminer.json](./257986-faceminer.json) |
 | FaceRig | 11305 | [11305-facerig.json](./11305-facerig.json) |
 | Faces...tris III | 79320 | [79320-faces-tris-iii.json](./79320-faces-tris-iii.json) |
 | Facewound | 243111 | [243111-facewound.json](./243111-facewound.json) |
@@ -1693,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
 | Final Fantasy X-2 International + Last Mission | 146852 | [146852-final-fantasy-x-2-international-last-mission.json](./146852-final-fantasy-x-2-international-last-mission.json) |
 | Final Fantasy X-2: International | 247548 | [247548-final-fantasy-x-2-international.json](./247548-final-fantasy-x-2-international.json) |
+| Final Fantasy X-2: Last Mission | 247245 | [247245-final-fantasy-x-2-last-mission.json](./247245-final-fantasy-x-2-last-mission.json) |
 | Final Fantasy X: Fantasy War | 266285 | [266285-final-fantasy-x-fantasy-war.json](./266285-final-fantasy-x-fantasy-war.json) |
 | Final Fantasy X/X-2 Ultimate Box | 301388 | [301388-final-fantasy-x-x-2-ultimate-box.json](./301388-final-fantasy-x-x-2-ultimate-box.json) |
 | Final Fantasy XI Online | 411 | [411-final-fantasy-xi-online.json](./411-final-fantasy-xi-online.json) |
@@ -4080,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 218566 | [218566-frogger.json](./218566-frogger.json) |
 | Frogger | 218567 | [218567-frogger.json](./218567-frogger.json) |
 | Frogger | 218568 | [218568-frogger.json](./218568-frogger.json) |
+| Frogger | 218570 | [218570-frogger.json](./218570-frogger.json) |
 | Frogger | 218571 | [218571-frogger.json](./218571-frogger.json) |
 | Frogger | 218572 | [218572-frogger.json](./218572-frogger.json) |
 | Frogger | 218573 | [218573-frogger.json](./218573-frogger.json) |
