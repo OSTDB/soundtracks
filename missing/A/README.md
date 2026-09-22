@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sloth For Both Seasons | 165504 | [165504-a-sloth-for-both-seasons.json](./165504-a-sloth-for-both-seasons.json) |
 | A Slower Speed of Light | 18122 | [18122-a-slower-speed-of-light.json](./18122-a-slower-speed-of-light.json) |
 | A Slug's Dream | 238589 | [238589-a-slugs-dream.json](./238589-a-slugs-dream.json) |
+| A Smithing Game | 405058 | [405058-a-smithing-game.json](./405058-a-smithing-game.json) |
 | A Smoker's Story | 312731 | [312731-a-smokers-story.json](./312731-a-smokers-story.json) |
 | A Snake's Tale | 43140 | [43140-a-snakes-tale.json](./43140-a-snakes-tale.json) |
 | A Sold House | 133785 | [133785-a-sold-house.json](./133785-a-sold-house.json) |
@@ -1018,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After-H : Zombies | 141798 | [141798-after-h-zombies.json](./141798-after-h-zombies.json) |
 | After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
+| After... Prologue | 405063 | [405063-after-prologue.json](./405063-after-prologue.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
 | Afterbright | 357794 | [357794-afterbright.json](./357794-afterbright.json) |
 | Afterburn | 112424 | [112424-afterburn.json](./112424-afterburn.json) |
@@ -1083,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: Definitive Edition | 55057 | [55057-age-of-empires-iii-definitive-edition.json](./55057-age-of-empires-iii-definitive-edition.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
+| Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
@@ -5402,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Chess Souls | 392249 | [392249-auto-chess-souls.json](./392249-auto-chess-souls.json) |
 | Auto Club Revolution | 80491 | [80491-auto-club-revolution.json](./80491-auto-club-revolution.json) |
 | Auto Dealership Tycoon | 34713 | [34713-auto-dealership-tycoon.json](./34713-auto-dealership-tycoon.json) |
+| Auto Empire Tycoon | 405097 | [405097-auto-empire-tycoon.json](./405097-auto-empire-tycoon.json) |
 | Auto Fire | 122211 | [122211-auto-fire.json](./122211-auto-fire.json) |
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
 | Auto Island | 159798 | [159798-auto-island.json](./159798-auto-island.json) |
