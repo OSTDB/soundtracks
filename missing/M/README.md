@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonald's Treasure Land Adventure | 36923 | [36923-mcdonalds-treasure-land-adventure.json](./36923-mcdonalds-treasure-land-adventure.json) |
 | McDonaldland | 285031 | [285031-mcdonaldland.json](./285031-mcdonaldland.json) |
 | McDroid | 16689 | [16689-mcdroid.json](./16689-mcdroid.json) |
+| McFarlane's Evil Prophecy | 43633 | [43633-mcfarlanes-evil-prophecy.json](./43633-mcfarlanes-evil-prophecy.json) |
 | McGroovz Dance Craze | 209535 | [209535-mcgroovz-dance-craze.json](./209535-mcgroovz-dance-craze.json) |
 | McOsu | 29160 | [29160-mcosu.json](./29160-mcosu.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
@@ -2584,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Mario World 2: Awakened Power | 229347 | [229347-mega-mario-world-2-awakened-power.json](./229347-mega-mario-world-2-awakened-power.json) |
 | Mega Match | 209530 | [209530-mega-match.json](./209530-mega-match.json) |
 | Mega Math | 19670 | [19670-mega-math.json](./19670-mega-math.json) |
+| Mega Maze | 44287 | [44287-mega-maze.json](./44287-mega-maze.json) |
 | Mega Meteor Madness | 122420 | [122420-mega-meteor-madness.json](./122420-mega-meteor-madness.json) |
 | Mega Minis: Volume 1 | 45998 | [45998-mega-minis-volume-1.json](./45998-mega-minis-volume-1.json) |
 | Mega Minis: Volume 2 | 45997 | [45997-mega-minis-volume-2.json](./45997-mega-minis-volume-2.json) |
@@ -6212,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muggo! | 237510 | [237510-muggo.json](./237510-muggo.json) |
 | Mughaan | 238522 | [238522-mughaan.json](./238522-mughaan.json) |
 | Mugogy Jump | 298300 | [298300-mugogy-jump.json](./298300-mugogy-jump.json) |
+| Muhammad Ali Heavyweight Boxing | 46269 | [46269-muhammad-ali-heavyweight-boxing.json](./46269-muhammad-ali-heavyweight-boxing.json) |
 | Muhammad Ali: Puzzle King | 57914 | [57914-muhammad-ali-puzzle-king.json](./57914-muhammad-ali-puzzle-king.json) |
 | Mühle-Online | 84275 | [84275-muhle-online.json](./84275-muhle-online.json) |
 | Mujina | 259060 | [259060-mujina.json](./259060-mujina.json) |
