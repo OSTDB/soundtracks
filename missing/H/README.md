@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
 | Half Away | 322756 | [322756-half-away.json](./322756-half-away.json) |
+| Half Blood | 402500 | [402500-half-blood.json](./402500-half-blood.json) |
 | Half Built: Casino | 211721 | [211721-half-built-casino.json](./211721-half-built-casino.json) |
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
