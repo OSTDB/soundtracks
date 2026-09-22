@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether Quest | 97283 | [97283-ether-quest.json](./97283-ether-quest.json) |
 | Ether Saga Online | 51195 | [51195-ether-saga-online.json](./51195-ether-saga-online.json) |
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
+| Ethereal Storm | 405045 | [405045-ethereal-storm.json](./405045-ethereal-storm.json) |
 | Ethereal: Clash of Souls | 127325 | [127325-ethereal-clash-of-souls.json](./127325-ethereal-clash-of-souls.json) |
 | Ethereal: New Moon | 244779 | [244779-ethereal-new-moon.json](./244779-ethereal-new-moon.json) |
 | EthereaVR | 103202 | [103202-ethereavr.json](./103202-ethereavr.json) |
