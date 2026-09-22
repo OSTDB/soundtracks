@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kriegspiel | 84274 | [84274-kriegspiel.json](./84274-kriegspiel.json) |
 | Kriegsspiel: 7 Years' War | 388760 | [388760-kriegsspiel-7-years-war.json](./388760-kriegsspiel-7-years-war.json) |
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
+| Krimson Patrol | 409032 | [409032-krimson-patrol.json](./409032-krimson-patrol.json) |
 | Kriophobia | 50164 | [50164-kriophobia.json](./50164-kriophobia.json) |
 | Krispain Hero VR: Roguelite Dungeon Shooter Simulator | 282144 | [282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json](./282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
