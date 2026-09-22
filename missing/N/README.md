@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: Shadow at the Water's Edge | 10583 | [10583-nancy-drew-shadow-at-the-waters-edge.json](./10583-nancy-drew-shadow-at-the-waters-edge.json) |
 | Nancy Drew: Stay Tuned for Danger | 7622 | [7622-nancy-drew-stay-tuned-for-danger.json](./7622-nancy-drew-stay-tuned-for-danger.json) |
 | Nancy Drew: The Final Scene | 7624 | [7624-nancy-drew-the-final-scene.json](./7624-nancy-drew-the-final-scene.json) |
+| Nancy Drew: The Ghost of Thornton Hall | 16451 | [16451-nancy-drew-the-ghost-of-thornton-hall.json](./16451-nancy-drew-the-ghost-of-thornton-hall.json) |
 | Nancy Drew: The Haunted Carousel | 10586 | [10586-nancy-drew-the-haunted-carousel.json](./10586-nancy-drew-the-haunted-carousel.json) |
 | Nancy Drew: The Model Mysteries | 206784 | [206784-nancy-drew-the-model-mysteries.json](./206784-nancy-drew-the-model-mysteries.json) |
 | Nancy Drew: Tomb of the Lost Queen | 10587 | [10587-nancy-drew-tomb-of-the-lost-queen.json](./10587-nancy-drew-tomb-of-the-lost-queen.json) |
@@ -2380,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not So Middle Ages | 98775 | [98775-not-so-middle-ages.json](./98775-not-so-middle-ages.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
 | Not the North Pole | 247612 | [247612-not-the-north-pole.json](./247612-not-the-north-pole.json) |
+| Not the Robots | 16723 | [16723-not-the-robots.json](./16723-not-the-robots.json) |
 | Not those monsters again... | 233011 | [233011-not-those-monsters-again.json](./233011-not-those-monsters-again.json) |
 | Not Tonight | 96088 | [96088-not-tonight.json](./96088-not-tonight.json) |
 | Not Tonight: One Love | 154560 | [154560-not-tonight-one-love.json](./154560-not-tonight-one-love.json) |
