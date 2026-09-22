@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narco Terror | 16446 | [16446-narco-terror.json](./16446-narco-terror.json) |
 | NarcoGuerra | 50217 | [50217-narcoguerra.json](./50217-narcoguerra.json) |
 | Narcolepsy | 91415 | [91415-narcolepsy.json](./91415-narcolepsy.json) |
+| Narcos: Rise of the Cartels | 112409 | [112409-narcos-rise-of-the-cartels.json](./112409-narcos-rise-of-the-cartels.json) |
 | Narcosis | 19168 | [19168-narcosis.json](./19168-narcosis.json) |
 | Narcotics Ninja | 198554 | [198554-narcotics-ninja.json](./198554-narcotics-ninja.json) |
 | Narcotics Police: Black and White | 90625 | [90625-narcotics-police-black-and-white.json](./90625-narcotics-police-black-and-white.json) |
@@ -1482,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Gunner: Final Mission | 55843 | [55843-night-gunner-final-mission.json](./55843-night-gunner-final-mission.json) |
 | Night Hazard | 329110 | [329110-night-hazard.json](./329110-night-hazard.json) |
 | Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
+| Night in the Woods: Longest Night | 55865 | [55865-night-in-the-woods-longest-night.json](./55865-night-in-the-woods-longest-night.json) |
 | Night Intruders | 184089 | [184089-night-intruders.json](./184089-night-intruders.json) |
 | Night is Coming: Wrath of the Woods | 336551 | [336551-night-is-coming-wrath-of-the-woods.json](./336551-night-is-coming-wrath-of-the-woods.json) |
 | Night Island | 120793 | [120793-night-island.json](./120793-night-island.json) |
@@ -2509,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Rancher | 110914 | [110914-nuclear-rancher.json](./110914-nuclear-rancher.json) |
 | Nuclear Reaction | 184502 | [184502-nuclear-reaction.json](./184502-nuclear-reaction.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
+| Nuclear Titbit | 113375 | [113375-nuclear-titbit.json](./113375-nuclear-titbit.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
 | Nuclear War | 12189 | [12189-nuclear-war.json](./12189-nuclear-war.json) |
 | NuclearDanger | 180806 | [180806-nucleardanger.json](./180806-nucleardanger.json) |
