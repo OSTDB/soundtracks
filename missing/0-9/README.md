@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Days to Die | 5574 | [5574-7-days-to-die.json](./5574-7-days-to-die.json) |
 | 7 Days to Die: The Desert Armor Set | 353298 | [353298-7-days-to-die-the-desert-armor-set.json](./353298-7-days-to-die-the-desert-armor-set.json) |
 | 7 Days to Die: The Marauder Armor Set | 353299 | [353299-7-days-to-die-the-marauder-armor-set.json](./353299-7-days-to-die-the-marauder-armor-set.json) |
+| 7 Days to End with You | 189888 | [189888-7-days-to-end-with-you.json](./189888-7-days-to-end-with-you.json) |
 | 7 Girls War | 160238 | [160238-7-girls-war.json](./160238-7-girls-war.json) |
 | 7 Grand Steps: What Ancients Begat | 16537 | [16537-7-grand-steps-what-ancients-begat.json](./16537-7-grand-steps-what-ancients-begat.json) |
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
