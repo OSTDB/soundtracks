@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koala Sling | 268020 | [268020-koala-sling.json](./268020-koala-sling.json) |
 | Kobayakawa-san is a Souls-like | 413066 | [413066-kobayakawa-san-is-a-souls-like.json](./413066-kobayakawa-san-is-a-souls-like.json) |
 | Kobayashi Hitomi no Hold Up | 41348 | [41348-kobayashi-hitomi-no-hold-up.json](./41348-kobayashi-hitomi-no-hold-up.json) |
+| Kobito Game Taizen | 416095 | [416095-kobito-game-taizen.json](./416095-kobito-game-taizen.json) |
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
 | Kobold Siege | 285993 | [285993-kobold-siege.json](./285993-kobold-siege.json) |
 | Kobold Slayer | 111690 | [111690-kobold-slayer.json](./111690-kobold-slayer.json) |
