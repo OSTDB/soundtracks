@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red's Revenge | 273980 | [273980-reds-revenge.json](./273980-reds-revenge.json) |
 | Redacted by the Sadistic Princess from Another World?! | 402250 | [402250-redacted-by-the-sadistic-princess-from-another-world.json](./402250-redacted-by-the-sadistic-princess-from-another-world.json) |
 | Redacted: Genome | 287196 | [287196-redacted-genome.json](./287196-redacted-genome.json) |
+| Redactem | 27470 | [27470-redactem.json](./27470-redactem.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
 | RedBull Car Park Drift | 120349 | [120349-redbull-car-park-drift.json](./120349-redbull-car-park-drift.json) |
 | RedCard 2003 | 46027 | [46027-redcard-2003.json](./46027-redcard-2003.json) |
@@ -3178,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
+| Rock God Tycoon | 27336 | [27336-rock-god-tycoon.json](./27336-rock-god-tycoon.json) |
 | Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
 | Rock Hoppers | 210119 | [210119-rock-hoppers.json](./210119-rock-hoppers.json) |
 | Rock Life: The Rock Simulator - Rock Pack #2 | 286527 | [286527-rock-life-the-rock-simulator-rock-pack-2.json](./286527-rock-life-the-rock-simulator-rock-pack-2.json) |
