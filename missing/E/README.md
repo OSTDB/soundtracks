@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
 | Error #53 | 63010 | [63010-error-53.json](./63010-error-53.json) |
 | Error 0: New World Found | 178685 | [178685-error-0-new-world-found.json](./178685-error-0-new-world-found.json) |
+| Error 2351 | 399833 | [399833-error-2351.json](./399833-error-2351.json) |
 | Error Codes | 325654 | [325654-error-codes.json](./325654-error-codes.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
 | Error: Girlfriend Not Found | 406289 | [406289-error-girlfriend-not-found.json](./406289-error-girlfriend-not-found.json) |
