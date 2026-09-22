@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umi no Oh! Yah! | 384496 | [384496-umi-no-oh-yah.json](./384496-umi-no-oh-yah.json) |
 | Umi Tsuri Mejin: Suzuki-hen | 37773 | [37773-umi-tsuri-mejin-suzuki-hen.json](./37773-umi-tsuri-mejin-suzuki-hen.json) |
 | Umichan Sorani | 201147 | [201147-umichan-sorani.json](./201147-umichan-sorani.json) |
+| Umigari | 372200 | [372200-umigari.json](./372200-umigari.json) |
 | Umihara Kawase BaZooKa! | 122352 | [122352-umihara-kawase-bazooka.json](./122352-umihara-kawase-bazooka.json) |
 | Umihara Kawase Fresh! | 108155 | [108155-umihara-kawase-fresh.json](./108155-umihara-kawase-fresh.json) |
 | Umihara Kawase Portable | 42847 | [42847-umihara-kawase-portable.json](./42847-umihara-kawase-portable.json) |
@@ -1206,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utawarerumono: Past and Present Rediscovered | 387541 | [387541-utawarerumono-past-and-present-rediscovered.json](./387541-utawarerumono-past-and-present-rediscovered.json) |
 | Utherous | 60488 | [60488-utherous.json](./60488-utherous.json) |
 | Utility for the Soul | 312571 | [312571-utility-for-the-soul.json](./312571-utility-for-the-soul.json) |
+| Utopia | 5702 | [5702-utopia.json](./5702-utopia.json) |
 | Utopia 9: A Volatile Vacation | 20360 | [20360-utopia-9-a-volatile-vacation.json](./20360-utopia-9-a-volatile-vacation.json) |
 | Utopia no Soubou | 378191 | [378191-utopia-no-soubou.json](./378191-utopia-no-soubou.json) |
 | Utopia Process | 153390 | [153390-utopia-process.json](./153390-utopia-process.json) |
