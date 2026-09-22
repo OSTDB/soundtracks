@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
 | Kill Me If You Can: Multiplayer Edition | 378317 | [378317-kill-me-if-you-can-multiplayer-edition.json](./378317-kill-me-if-you-can-multiplayer-edition.json) |
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
+| Kill the Bad Guy | 10481 | [10481-kill-the-bad-guy.json](./10481-kill-the-bad-guy.json) |
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
 | Kill the Brickman | 362260 | [362260-kill-the-brickman.json](./362260-kill-the-brickman.json) |
 | Kill The Business | 363937 | [363937-kill-the-business.json](./363937-kill-the-business.json) |
@@ -988,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur | 3967 | [3967-king-arthur.json](./3967-king-arthur.json) |
 | King Arthur II: Dead Legions | 53239 | [53239-king-arthur-ii-dead-legions.json](./53239-king-arthur-ii-dead-legions.json) |
 | King Arthur II: The Role-Playing Wargame | 7586 | [7586-king-arthur-ii-the-role-playing-wargame.json](./7586-king-arthur-ii-the-role-playing-wargame.json) |
+| King Arthur: Fallen Champions | 10484 | [10484-king-arthur-fallen-champions.json](./10484-king-arthur-fallen-champions.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
