@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Traps | 144135 | [144135-magic-traps.json](./144135-magic-traps.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
+| Magic Wand | 27326 | [27326-magic-wand.json](./27326-magic-wand.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
 | Magic Weapon | 358310 | [358310-magic-weapon.json](./358310-magic-weapon.json) |
@@ -3088,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Go Round | 287636 | [287636-merry-go-round.json](./287636-merry-go-round.json) |
 | Merry Go Wrong | 181323 | [181323-merry-go-wrong.json](./181323-merry-go-wrong.json) |
 | Meru Purana | 125421 | [125421-meru-purana.json](./125421-meru-purana.json) |
+| Mervils: A VR Adventure | 27385 | [27385-mervils-a-vr-adventure.json](./27385-mervils-a-vr-adventure.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
 | Meseugaki Yeong-ae-nim! | 232426 | [232426-meseugaki-yeong-ae-nim.json](./232426-meseugaki-yeong-ae-nim.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
@@ -5599,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
 | Morpheus | 40966 | [40966-morpheus.json](./40966-morpheus.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
+| Morphite | 27314 | [27314-morphite.json](./27314-morphite.json) |
 | Morphology | 185075 | [185075-morphology.json](./185075-morphology.json) |
 | Morphscape: The Stylized Prop Pursuit | 301833 | [301833-morphscape-the-stylized-prop-pursuit.json](./301833-morphscape-the-stylized-prop-pursuit.json) |
 | Morra | 246472 | [246472-morra.json](./246472-morra.json) |
@@ -6323,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mansion | 181845 | [181845-murder-mansion.json](./181845-murder-mansion.json) |
 | Murder Miners | 17035 | [17035-murder-miners.json](./17035-murder-miners.json) |
 | Murder Miners X | 265159 | [265159-murder-miners-x.json](./265159-murder-miners-x.json) |
+| Murder Mystery Adventure | 27302 | [27302-murder-mystery-adventure.json](./27302-murder-mystery-adventure.json) |
 | Murder Mystery Castle | 399746 | [399746-murder-mystery-castle.json](./399746-murder-mystery-castle.json) |
 | Murder Mystery J: Jinrou Judgment - Maru Icon | 325460 | [325460-murder-mystery-j-jinrou-judgment-maru-icon.json](./325460-murder-mystery-j-jinrou-judgment-maru-icon.json) |
 | Murder Mystery J: Jinrou Judgment - SP1 Icon | 325457 | [325457-murder-mystery-j-jinrou-judgment-sp1-icon.json](./325457-murder-mystery-j-jinrou-judgment-sp1-icon.json) |
@@ -6399,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mush Dash | 412392 | [412392-mush-dash.json](./412392-mush-dash.json) |
 | Mush Rush: Stock Market Tycoon | 250389 | [250389-mush-rush-stock-market-tycoon.json](./250389-mush-rush-stock-market-tycoon.json) |
 | Mushi Battle Arena | 328616 | [328616-mushi-battle-arena.json](./328616-mushi-battle-arena.json) |
+| Mushihime-sama Futari | 27626 | [27626-mushihime-sama-futari.json](./27626-mushihime-sama-futari.json) |
 | Mushihimesama | 152398 | [152398-mushihimesama.json](./152398-mushihimesama.json) |
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
