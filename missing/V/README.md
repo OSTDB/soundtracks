@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verse Roll | 263564 | [263564-verse-roll.json](./263564-verse-roll.json) |
 | Verse Surf | 141800 | [141800-verse-surf.json](./141800-verse-surf.json) |
 | Verses | 359524 | [359524-verses.json](./359524-verses.json) |
+| Verses of Enchantment | 211982 | [211982-verses-of-enchantment.json](./211982-verses-of-enchantment.json) |
 | Version Fille | 125947 | [125947-version-fille.json](./125947-version-fille.json) |
 | Version Three: Invisible Raid | 258035 | [258035-version-three-invisible-raid.json](./258035-version-three-invisible-raid.json) |
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Salvage | 388936 | [388936-void-salvage.json](./388936-void-salvage.json) |
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
 | Void Scout | 320727 | [320727-void-scout.json](./320727-void-scout.json) |
+| Void Scrappers | 211688 | [211688-void-scrappers.json](./211688-void-scrappers.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
 | Void War | 291212 | [291212-void-war.json](./291212-void-war.json) |
