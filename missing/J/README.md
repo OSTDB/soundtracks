@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Survival Island: Evolve | 194026 | [194026-jurassic-survival-island-evolve.json](./194026-jurassic-survival-island-evolve.json) |
 | Jurassic Tower Defense | 301403 | [301403-jurassic-tower-defense.json](./301403-jurassic-tower-defense.json) |
 | Jurassic Warfare: Dinosaur Combat Arena | 90695 | [90695-jurassic-warfare-dinosaur-combat-arena.json](./90695-jurassic-warfare-dinosaur-combat-arena.json) |
+| Jurassic World Aftermath Collection | 223741 | [223741-jurassic-world-aftermath-collection.json](./223741-jurassic-world-aftermath-collection.json) |
 | Jurassic World Alive | 90084 | [90084-jurassic-world-alive.json](./90084-jurassic-world-alive.json) |
 | Jurassic World Camp Cretaceous: Hidden Adventure | 256846 | [256846-jurassic-world-camp-cretaceous-hidden-adventure.json](./256846-jurassic-world-camp-cretaceous-hidden-adventure.json) |
 | Jurassic World Evolution 2 | 152064 | [152064-jurassic-world-evolution-2.json](./152064-jurassic-world-evolution-2.json) |
