@@ -5359,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
 | Crash Team Racing: Retro-Fueled | 262407 | [262407-crash-team-racing-retro-fueled.json](./262407-crash-team-racing-retro-fueled.json) |
 | Crash Team Rumble | 228540 | [228540-crash-team-rumble.json](./228540-crash-team-rumble.json) |
+| Crash Test Billy | 51473 | [51473-crash-test-billy.json](./51473-crash-test-billy.json) |
 | Crash Test Idiot | 193419 | [193419-crash-test-idiot.json](./193419-crash-test-idiot.json) |
 | Crash Test Idiots 2: Multiplayer | 278692 | [278692-crash-test-idiots-2-multiplayer.json](./278692-crash-test-idiots-2-multiplayer.json) |
 | Crash the Comet | 102595 | [102595-crash-the-comet.json](./102595-crash-the-comet.json) |
