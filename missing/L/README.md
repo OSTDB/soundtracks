@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Runes | 175801 | [175801-land-of-runes.json](./175801-land-of-runes.json) |
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
+| Land of the Vikings | 211376 | [211376-land-of-the-vikings.json](./211376-land-of-the-vikings.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
 | Land of Warriors - Epic War | 100612 | [100612-land-of-warriors-epic-war.json](./100612-land-of-warriors-epic-war.json) |
@@ -2863,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Simulator: München Tram | 167755 | [167755-lotus-simulator-munchen-tram.json](./167755-lotus-simulator-munchen-tram.json) |
 | Lotus Turbo Challenge 2 | 7659 | [7659-lotus-turbo-challenge-2.json](./7659-lotus-turbo-challenge-2.json) |
 | Lotus: Lost Memories | 346655 | [346655-lotus-lost-memories.json](./346655-lotus-lost-memories.json) |
+| Lou's Lagoon | 214706 | [214706-lous-lagoon.json](./214706-lous-lagoon.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
