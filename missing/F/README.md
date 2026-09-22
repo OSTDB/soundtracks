@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Contraptions Workshop | 19532 | [19532-fallout-4-contraptions-workshop.json](./19532-fallout-4-contraptions-workshop.json) |
 | Fallout 4: Far Harbor | 18031 | [18031-fallout-4-far-harbor.json](./18031-fallout-4-far-harbor.json) |
 | Fallout 4: Game of the Year Pip-Boy Edition | 72379 | [72379-fallout-4-game-of-the-year-pip-boy-edition.json](./72379-fallout-4-game-of-the-year-pip-boy-edition.json) |
+| Fallout 5 | 410450 | [410450-fallout-5.json](./410450-fallout-5.json) |
 | Fallout 76: Atlantic City | 252834 | [252834-fallout-76-atlantic-city.json](./252834-fallout-76-atlantic-city.json) |
 | Fallout 76: Camp Pets | 317825 | [317825-fallout-76-camp-pets.json](./317825-fallout-76-camp-pets.json) |
 | Fallout 76: Ghoul Within | 341476 | [341476-fallout-76-ghoul-within.json](./341476-fallout-76-ghoul-within.json) |
@@ -498,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
 | Fallout: New Vegas - Ultimate Edition | 25532 | [25532-fallout-new-vegas-ultimate-edition.json](./25532-fallout-new-vegas-ultimate-edition.json) |
+| Fallout: New Vegas Remaster | 410463 | [410463-fallout-new-vegas-remaster.json](./410463-fallout-new-vegas-remaster.json) |
 | Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
 | Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
 | Fallsaga | 355127 | [355127-fallsaga.json](./355127-fallsaga.json) |
@@ -1389,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fhtagn! - Tales of the Creeping Madness | 87947 | [87947-fhtagn-tales-of-the-creeping-madness.json](./87947-fhtagn-tales-of-the-creeping-madness.json) |
 | Fi-Knight Kingdom | 262450 | [262450-fi-knight-kingdom.json](./262450-fi-knight-kingdom.json) |
 | FIA European Truck Racing Championship | 117855 | [117855-fia-european-truck-racing-championship.json](./117855-fia-european-truck-racing-championship.json) |
+| Fianna | 410425 | [410425-fianna.json](./410425-fianna.json) |
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fibble: Flick 'n' Roll | 65220 | [65220-fibble-flick-n-roll.json](./65220-fibble-flick-n-roll.json) |
@@ -3587,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress | 319195 | [319195-fortress.json](./319195-fortress.json) |
 | Fortress 1024 | 261282 | [261282-fortress-1024.json](./261282-fortress-1024.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
+| Fortress Connected | 410476 | [410476-fortress-connected.json](./410476-fortress-connected.json) |
 | Fortress Europe | 61897 | [61897-fortress-europe.json](./61897-fortress-europe.json) |
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
 | Fortress of the Undead | 248075 | [248075-fortress-of-the-undead.json](./248075-fortress-of-the-undead.json) |
