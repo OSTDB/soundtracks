@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 em 1 | 94700 | [94700-20-em-1.json](./94700-20-em-1.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
+| 20 Trials to Heaven | 416104 | [416104-20-trials-to-heaven.json](./416104-20-trials-to-heaven.json) |
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 20 Words // 20 Seconds | 280751 | [280751-20-words-20-seconds.json](./280751-20-words-20-seconds.json) |
 | 20,000 Leagues Under the Sea: Extended Edition | 382906 | [382906-20-000-leagues-under-the-sea-extended-edition.json](./382906-20-000-leagues-under-the-sea-extended-edition.json) |
@@ -717,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
 | 404 Knight | 277397 | [277397-404-knight.json](./277397-404-knight.json) |
 | 404: Game Not Found | 379456 | [379456-404-game-not-found.json](./379456-404-game-not-found.json) |
+| 404: The Absent God | 416093 | [416093-404-the-absent-god.json](./416093-404-the-absent-god.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 41 Days: Minimalist Pandemic Simulator | 183451 | [183451-41-days-minimalist-pandemic-simulator.json](./183451-41-days-minimalist-pandemic-simulator.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
