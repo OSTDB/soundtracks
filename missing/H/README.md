@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of a Broken Land | 17663 | [17663-heroes-of-a-broken-land.json](./17663-heroes-of-a-broken-land.json) |
 | Heroes of Abyss | 191160 | [191160-heroes-of-abyss.json](./191160-heroes-of-abyss.json) |
 | Heroes of Annihilated Empires | 14824 | [14824-heroes-of-annihilated-empires.json](./14824-heroes-of-annihilated-empires.json) |
+| Heroes of Arca | 29575 | [29575-heroes-of-arca.json](./29575-heroes-of-arca.json) |
 | Heroes of Arcana | 211759 | [211759-heroes-of-arcana.json](./211759-heroes-of-arcana.json) |
 | Heroes of Book & Paper | 199506 | [199506-heroes-of-book-and-paper.json](./199506-heroes-of-book-and-paper.json) |
 | Heroes of Camelot | 7449 | [7449-heroes-of-camelot.json](./7449-heroes-of-camelot.json) |
@@ -2784,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Historia Battles WW2 CFEL | 134007 | [134007-historia-battles-ww2-cfel.json](./134007-historia-battles-ww2-cfel.json) |
 | Historic Fighters | 161370 | [161370-historic-fighters.json](./161370-historic-fighters.json) |
 | Historical Trilogy | 218494 | [218494-historical-trilogy.json](./218494-historical-trilogy.json) |
+| Historium VR - Relive the history of Bruges | 30290 | [30290-historium-vr-relive-the-history-of-bruges.json](./30290-historium-vr-relive-the-history-of-bruges.json) |
 | History Lesson | 139388 | [139388-history-lesson.json](./139388-history-lesson.json) |
 | History Mosaics: Ancient Greece | 415879 | [415879-history-mosaics-ancient-greece.json](./415879-history-mosaics-ancient-greece.json) |
 | History Table: Lore & Quiz | 173254 | [173254-history-table-lore-and-quiz.json](./173254-history-table-lore-and-quiz.json) |
@@ -3597,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot MILF VR | 344432 | [344432-hot-milf-vr.json](./344432-hot-milf-vr.json) |
 | Hot Office: Sex Story | 296910 | [296910-hot-office-sex-story.json](./296910-hot-office-sex-story.json) |
 | Hot Pinball | 398447 | [398447-hot-pinball.json](./398447-hot-pinball.json) |
+| Hot Plates | 30366 | [30366-hot-plates.json](./30366-hot-plates.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
 | Hot Pot For One | 139811 | [139811-hot-pot-for-one.json](./139811-hot-pot-for-one.json) |
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
@@ -3714,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houma Hunter Lime Dai 02 Wa | 117028 | [117028-houma-hunter-lime-dai-02-wa.json](./117028-houma-hunter-lime-dai-02-wa.json) |
 | Houma Hunter Lime Dai 03 Wa | 117029 | [117029-houma-hunter-lime-dai-03-wa.json](./117029-houma-hunter-lime-dai-03-wa.json) |
 | Houma Hunter Lime: Special Collection Vol. 1 | 117026 | [117026-houma-hunter-lime-special-collection-vol-1.json](./117026-houma-hunter-lime-special-collection-vol-1.json) |
+| Hound | 30316 | [30316-hound.json](./30316-hound.json) |
 | Hound: Automaton | 320145 | [320145-hound-automaton.json](./320145-hound-automaton.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
@@ -4062,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Corgi | 255728 | [255728-hungry-corgi.json](./255728-hungry-corgi.json) |
 | Hungry Dino | 171494 | [171494-hungry-dino.json](./171494-hungry-dino.json) |
 | Hungry Dinosaurs | 42587 | [42587-hungry-dinosaurs.json](./42587-hungry-dinosaurs.json) |
+| Hungry Flame | 29579 | [29579-hungry-flame.json](./29579-hungry-flame.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
 | Hungry Hearts Diner 2: Moonlit Memories | 172603 | [172603-hungry-hearts-diner-2-moonlit-memories.json](./172603-hungry-hearts-diner-2-moonlit-memories.json) |
