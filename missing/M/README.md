@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
 | Marble Abduction! Patti Hattu | 299945 | [299945-marble-abduction-patti-hattu.json](./299945-marble-abduction-patti-hattu.json) |
+| Marble Age | 35838 | [35838-marble-age.json](./35838-marble-age.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
 | Marble Blast Platinum | 239883 | [239883-marble-blast-platinum.json](./239883-marble-blast-platinum.json) |
 | Marble Blaster | 210043 | [210043-marble-blaster.json](./210043-marble-blaster.json) |
@@ -1405,6 +1406,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Cement Factory | 67940 | [67940-marios-cement-factory.json](./67940-marios-cement-factory.json) |
 | Mario's Deadly Flight | 323183 | [323183-marios-deadly-flight.json](./323183-marios-deadly-flight.json) |
 | Mario's Deadly Flight 2 | 323184 | [323184-marios-deadly-flight-2.json](./323184-marios-deadly-flight-2.json) |
+| Mario's Early Years! Fun with Letters | 42502 | [42502-marios-early-years-fun-with-letters.json](./42502-marios-early-years-fun-with-letters.json) |
+| Mario's Early Years! Preschool Fun | 42500 | [42500-marios-early-years-preschool-fun.json](./42500-marios-early-years-preschool-fun.json) |
 | Mario's Face | 175970 | [175970-marios-face.json](./175970-marios-face.json) |
 | Mario's Holiday | 270378 | [270378-marios-holiday.json](./270378-marios-holiday.json) |
 | Mario's House of STHU | 323747 | [323747-marios-house-of-sthu.json](./323747-marios-house-of-sthu.json) |
@@ -3149,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Knights | 237344 | [237344-metal-knights.json](./237344-metal-knights.json) |
 | Metal Man Reloaded | 125273 | [125273-metal-man-reloaded.json](./125273-metal-man-reloaded.json) |
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
+| Metal Marines | 42497 | [42497-metal-marines.json](./42497-metal-marines.json) |
 | Metal Max 2 | 37929 | [37929-metal-max-2.json](./37929-metal-max-2.json) |
 | Metal Max 3 | 66922 | [66922-metal-max-3.json](./66922-metal-max-3.json) |
 | Metal Max Returns | 38373 | [38373-metal-max-returns.json](./38373-metal-max-returns.json) |
@@ -4009,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecranker | 259636 | [259636-minecranker.json](./259636-minecranker.json) |
 | Mined | 183983 | [183983-mined.json](./183983-mined.json) |
 | MineDrill Redux | 41945 | [41945-minedrill-redux.json](./41945-minedrill-redux.json) |
+| Minefield | 39724 | [39724-minefield.json](./39724-minefield.json) |
 | MineFinitum | 186276 | [186276-minefinitum.json](./186276-minefinitum.json) |
 | MineGeon: Space Mining Dungeon | 227369 | [227369-minegeon-space-mining-dungeon.json](./227369-minegeon-space-mining-dungeon.json) |
 | Mineirinho Director's Cut | 127099 | [127099-mineirinho-directors-cut.json](./127099-mineirinho-directors-cut.json) |
@@ -5030,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mons | 178008 | [178008-mons.json](./178008-mons.json) |
 | Monsta Bounce | 240923 | [240923-monsta-bounce.json](./240923-monsta-bounce.json) |
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
+| Monstania | 42486 | [42486-monstania.json](./42486-monstania.json) |
 | MonStar | 193971 | [193971-monstar.json](./193971-monstar.json) |
 | Monster & Me | 182466 | [182466-monster-and-me.json](./182466-monster-and-me.json) |
 | Monster 2 | 266314 | [266314-monster-2.json](./266314-monster-2.json) |
