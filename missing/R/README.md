@@ -2558,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift | 368036 | [368036-rift.json](./368036-rift.json) |
 | Rift Adventure | 153958 | [153958-rift-adventure.json](./153958-rift-adventure.json) |
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
+| Rift Coaster HD Remastered VR | 52259 | [52259-rift-coaster-hd-remastered-vr.json](./52259-rift-coaster-hd-remastered-vr.json) |
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
 | Rift Frigate | 132007 | [132007-rift-frigate.json](./132007-rift-frigate.json) |
 | Rift Investigations | 402992 | [402992-rift-investigations.json](./402992-rift-investigations.json) |
@@ -4469,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty's Retirement: Supporter Pack | 305770 | [305770-rustys-retirement-supporter-pack.json](./305770-rustys-retirement-supporter-pack.json) |
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Rutabaga Desert Storm | 275704 | [275704-rutabaga-desert-storm.json](./275704-rutabaga-desert-storm.json) |
+| Ruthless Safari | 52777 | [52777-ruthless-safari.json](./52777-ruthless-safari.json) |
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
 | Rutterkin | 416685 | [416685-rutterkin.json](./416685-rutterkin.json) |
 | Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
