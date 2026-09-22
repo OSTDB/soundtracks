@@ -3622,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Vs. Balloon Fight | 68332 | [68332-arcade-archives-vs-balloon-fight.json](./68332-arcade-archives-vs-balloon-fight.json) |
 | Arcade Archives: vs. Battle City | 317219 | [317219-arcade-archives-vs-battle-city.json](./317219-arcade-archives-vs-battle-city.json) |
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
+| Arcade Archives: Vs. Super Mario Bros. | 67198 | [67198-arcade-archives-vs-super-mario-bros.json](./67198-arcade-archives-vs-super-mario-bros.json) |
 | Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
@@ -4527,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: The Siege of Paris | 140175 | [140175-assassins-creed-valhalla-the-siege-of-paris.json](./140175-assassins-creed-valhalla-the-siege-of-paris.json) |
 | Assassin's Creed: Bloodsail | 26917 | [26917-assassins-creed-bloodsail.json](./26917-assassins-creed-bloodsail.json) |
 | Assassin's Creed: Brotherhood - Animus Project Update 2.0 | 405514 | [405514-assassins-creed-brotherhood-animus-project-update-2-0.json](./405514-assassins-creed-brotherhood-animus-project-update-2-0.json) |
+| Assassin's Creed: Brotherhood Mobile | 68528 | [68528-assassins-creed-brotherhood-mobile.json](./68528-assassins-creed-brotherhood-mobile.json) |
 | Assassin's Creed: Codename Hexe | 216321 | [216321-assassins-creed-codename-hexe.json](./216321-assassins-creed-codename-hexe.json) |
 | Assassin's Creed: Codename Invictus | 288321 | [288321-assassins-creed-codename-invictus.json](./288321-assassins-creed-codename-invictus.json) |
 | Assassin's Creed: Ezio Trilogy | 22754 | [22754-assassins-creed-ezio-trilogy.json](./22754-assassins-creed-ezio-trilogy.json) |
