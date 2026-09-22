@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate FPS Challenge | 299175 | [299175-ultimate-fps-challenge.json](./299175-ultimate-fps-challenge.json) |
 | Ultimate Front | 255142 | [255142-ultimate-front.json](./255142-ultimate-front.json) |
 | Ultimate Gem | 259537 | [259537-ultimate-gem.json](./259537-ultimate-gem.json) |
+| Ultimate General: Gettysburg | 8424 | [8424-ultimate-general-gettysburg.json](./8424-ultimate-general-gettysburg.json) |
 | Ultimate Guess Game | 408797 | [408797-ultimate-guess-game.json](./408797-ultimate-guess-game.json) |
 | Ultimate Hangman HD | 68949 | [68949-ultimate-hangman-hd.json](./68949-ultimate-hangman-hd.json) |
 | Ultimate Hero | 333530 | [333530-ultimate-hero.json](./333530-ultimate-hero.json) |
@@ -1156,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urotsukidouji | 123014 | [123014-urotsukidouji.json](./123014-urotsukidouji.json) |
 | Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
 | Urtuk: The Desolation | 98073 | [98073-urtuk-the-desolation.json](./98073-urtuk-the-desolation.json) |
+| URU: Complete Chronicles | 16202 | [16202-uru-complete-chronicles.json](./16202-uru-complete-chronicles.json) |
 | Ururun Quest: Koiyuuki | 203392 | [203392-ururun-quest-koiyuuki.json](./203392-ururun-quest-koiyuuki.json) |
 | Urusei Yatsura: Endless Summer | 72697 | [72697-urusei-yatsura-endless-summer.json](./72697-urusei-yatsura-endless-summer.json) |
 | Uruz: Return of the Er Kishi | 122162 | [122162-uruz-return-of-the-er-kishi.json](./122162-uruz-return-of-the-er-kishi.json) |
