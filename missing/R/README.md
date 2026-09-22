@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RainyDay | 265243 | [265243-rainyday.json](./265243-rainyday.json) |
 | Raiohgar: Asuka and the King of Steel | 126816 | [126816-raiohgar-asuka-and-the-king-of-steel.json](./126816-raiohgar-asuka-and-the-king-of-steel.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
+| Raise the Colours | 393816 | [393816-raise-the-colours.json](./393816-raise-the-colours.json) |
 | Raise-a-Wish | 404255 | [404255-raise-a-wish.json](./404255-raise-a-wish.json) |
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | Raisin Wordsearch | 394211 | [394211-raisin-wordsearch.json](./394211-raisin-wordsearch.json) |
@@ -896,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
 | RC Death Race: Multiplayer | 392941 | [392941-rc-death-race-multiplayer.json](./392941-rc-death-race-multiplayer.json) |
 | RC Fun City | 80975 | [80975-rc-fun-city.json](./80975-rc-fun-city.json) |
+| RC Overdrive | 393799 | [393799-rc-overdrive.json](./393799-rc-overdrive.json) |
 | Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
 | RC Plane 3: Canyon Scenario | 167718 | [167718-rc-plane-3-canyon-scenario.json](./167718-rc-plane-3-canyon-scenario.json) |
 | RC Racing Off Road 2.0 | 32233 | [32233-rc-racing-off-road-2-0.json](./32233-rc-racing-off-road-2-0.json) |
@@ -950,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:leap-future City and Futureless | 346572 | [346572-re-leap-future-city-and-futureless.json](./346572-re-leap-future-city-and-futureless.json) |
 | Re:Legend | 51535 | [51535-re-legend.json](./51535-re-legend.json) |
 | Re:Metamorphosis Candina | 409768 | [409768-re-metamorphosis-candina.json](./409768-re-metamorphosis-candina.json) |
+| Re:Mobilize Jam 3: Re:Frigerated | 393783 | [393783-re-mobilize-jam-3-re-frigerated.json](./393783-re-mobilize-jam-3-re-frigerated.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
 | Re:Ozma | 118162 | [118162-re-ozma.json](./118162-re-ozma.json) |
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
