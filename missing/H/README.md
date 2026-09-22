@@ -2395,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Harbor Top-Down 3D | 195247 | [195247-hidden-harbor-top-down-3d.json](./195247-hidden-harbor-top-down-3d.json) |
 | Hidden Horror Photo Exhibition | 399643 | [399643-hidden-horror-photo-exhibition.json](./399643-hidden-horror-photo-exhibition.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
+| Hidden in my Paradise + Hidden around the World Bundle | 399810 | [399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json](./399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json) |
 | Hidden in the Dark | 210884 | [210884-hidden-in-the-dark.json](./210884-hidden-in-the-dark.json) |
 | Hidden in Time: Looking-glass Lane | 65187 | [65187-hidden-in-time-looking-glass-lane.json](./65187-hidden-in-time-looking-glass-lane.json) |
 | Hidden Investigation 2: Homicide | 177055 | [177055-hidden-investigation-2-homicide.json](./177055-hidden-investigation-2-homicide.json) |
