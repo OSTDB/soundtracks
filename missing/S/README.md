@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | Saviner | 383524 | [383524-saviner.json](./383524-saviner.json) |
+| Saving Bumblebrook | 410461 | [410461-saving-bumblebrook.json](./410461-saving-bumblebrook.json) |
 | Saving Clicklandia | 295017 | [295017-saving-clicklandia.json](./295017-saving-clicklandia.json) |
 | Saving Diary | 316655 | [316655-saving-diary.json](./316655-saving-diary.json) |
 | Saving Ghost | 159710 | [159710-saving-ghost.json](./159710-saving-ghost.json) |
@@ -1827,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekure Fuumin no Omocha Hako | 254500 | [254500-sekure-fuumin-no-omocha-hako.json](./254500-sekure-fuumin-no-omocha-hako.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
 | Selatria: Advent of the Dakk'rian Empire | 29774 | [29774-selatria-advent-of-the-dakkrian-empire.json](./29774-selatria-advent-of-the-dakkrian-empire.json) |
+| Select Eleven | 410427 | [410427-select-eleven.json](./410427-select-eleven.json) |
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
 | Select Quiz | 386283 | [386283-select-quiz.json](./386283-select-quiz.json) |
 | Selena's Charm 2: Enchanted Garden | 417511 | [417511-selenas-charm-2-enchanted-garden.json](./417511-selenas-charm-2-enchanted-garden.json) |
@@ -2738,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shed | 91728 | [91728-shed.json](./91728-shed.json) |
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
 | Sheep | 229705 | [229705-sheep.json](./229705-sheep.json) |
+| Sheep Dog | 410445 | [410445-sheep-dog.json](./410445-sheep-dog.json) |
 | Sheep Game | 99636 | [99636-sheep-game.json](./99636-sheep-game.json) |
 | Sheep Goes Left | 61908 | [61908-sheep-goes-left.json](./61908-sheep-goes-left.json) |
 | Sheep Goes Right | 61907 | [61907-sheep-goes-right.json](./61907-sheep-goes-right.json) |
@@ -7586,8 +7589,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
 | Spiky | 144281 | [144281-spiky.json](./144281-spiky.json) |
 | Spill the Beans | 276818 | [276818-spill-the-beans.json](./276818-spill-the-beans.json) |
+| Spin 2 Win | 410420 | [410420-spin-2-win.json](./410420-spin-2-win.json) |
 | Spin Blade Shop Simulator | 391728 | [391728-spin-blade-shop-simulator.json](./391728-spin-blade-shop-simulator.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
+| Spin Dasher | 410469 | [410469-spin-dasher.json](./410469-spin-dasher.json) |
 | Spin Doctor | 175389 | [175389-spin-doctor.json](./175389-spin-doctor.json) |
 | Spin Evolution | 116288 | [116288-spin-evolution.json](./116288-spin-evolution.json) |
 | Spin Jam | 24129 | [24129-spin-jam.json](./24129-spin-jam.json) |
