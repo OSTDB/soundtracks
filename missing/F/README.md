@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Racing Championship 2 | 137653 | [137653-f1-racing-championship-2.json](./137653-f1-racing-championship-2.json) |
 | F1 Racing Simulation | 691 | [691-f1-racing-simulation.json](./691-f1-racing-simulation.json) |
 | F1 ROC II: Race of Champions | 42572 | [42572-f1-roc-ii-race-of-champions.json](./42572-f1-roc-ii-race-of-champions.json) |
+| F1 Simulator | 407555 | [407555-f1-simulator.json](./407555-f1-simulator.json) |
 | F1 Super Lap | 109442 | [109442-f1-super-lap.json](./109442-f1-super-lap.json) |
 | F1 Team Simulation: Project F | 128359 | [128359-f1-team-simulation-project-f.json](./128359-f1-team-simulation-project-f.json) |
 | F1 Tornado | 300877 | [300877-f1-tornado.json](./300877-f1-tornado.json) |
@@ -2584,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatspace II | 72979 | [72979-flatspace-ii.json](./72979-flatspace-ii.json) |
 | FlatWarriors | 144915 | [144915-flatwarriors.json](./144915-flatwarriors.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
+| Flavors of Spain | 407542 | [407542-flavors-of-spain.json](./407542-flavors-of-spain.json) |
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
 | Flawless Darkness | 260238 | [260238-flawless-darkness.json](./260238-flawless-darkness.json) |
 | Flea the Cat | 242058 | [242058-flea-the-cat.json](./242058-flea-the-cat.json) |
