@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizTreff | 397785 | [397785-quiztreff.json](./397785-quiztreff.json) |
 | QuizWitz | 57119 | [57119-quizwitz.json](./57119-quizwitz.json) |
 | Quizz | 277976 | [277976-quizz.json](./277976-quizz.json) |
+| Quizzitive | 90287 | [90287-quizzitive.json](./90287-quizzitive.json) |
 | Qullusrent3 | 307758 | [307758-qullusrent3.json](./307758-qullusrent3.json) |
 | Quo | 206237 | [206237-quo.json](./206237-quo.json) |
 | Quod Init Exit IIo | 403558 | [403558-quod-init-exit-iio.json](./403558-quod-init-exit-iio.json) |
