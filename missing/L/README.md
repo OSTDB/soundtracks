@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethe | 175283 | [175283-lethe.json](./175283-lethe.json) |
 | Letherfall | 373540 | [373540-letherfall.json](./373540-letherfall.json) |
 | Leticia Land | 183464 | [183464-leticia-land.json](./183464-leticia-land.json) |
+| LetMeSee | 406295 | [406295-letmesee.json](./406295-letmesee.json) |
 | Letris 4 | 233103 | [233103-letris-4.json](./233103-letris-4.json) |
 | Letris Power: Word puzzle game | 89239 | [89239-letris-power-word-puzzle-game.json](./89239-letris-power-word-puzzle-game.json) |
 | Lets Get Loot | 331988 | [331988-lets-get-loot.json](./331988-lets-get-loot.json) |
@@ -2277,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Crash | 25759 | [25759-lizard-crash.json](./25759-lizard-crash.json) |
 | Lizard Lady vs the Cats | 152856 | [152856-lizard-lady-vs-the-cats.json](./152856-lizard-lady-vs-the-cats.json) |
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
+| Lizard Simulator | 406306 | [406306-lizard-simulator.json](./406306-lizard-simulator.json) |
 | Lizard Slayer | 405618 | [405618-lizard-slayer.json](./405618-lizard-slayer.json) |
 | Lizard Tower: The Abyss | 283751 | [283751-lizard-tower-the-abyss.json](./283751-lizard-tower-the-abyss.json) |
 | Lizardquest-Alien waters | 115035 | [115035-lizardquest-alien-waters.json](./115035-lizardquest-alien-waters.json) |
@@ -2619,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootale Slash | 398330 | [398330-lootale-slash.json](./398330-lootale-slash.json) |
 | Lootbag Tactics | 409527 | [409527-lootbag-tactics.json](./409527-lootbag-tactics.json) |
 | Lootbane | 370125 | [370125-lootbane.json](./370125-lootbane.json) |
+| Lootborne | 406315 | [406315-lootborne.json](./406315-lootborne.json) |
 | Lootbox Gungeon | 179162 | [179162-lootbox-gungeon.json](./179162-lootbox-gungeon.json) |
 | Lootbox Lyfe | 118586 | [118586-lootbox-lyfe.json](./118586-lootbox-lyfe.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
@@ -3443,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurks Within Walls | 319221 | [319221-lurks-within-walls.json](./319221-lurks-within-walls.json) |
 | Lurn 2 Shell | 308391 | [308391-lurn-2-shell.json](./308391-lurn-2-shell.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
+| Lusófona Games Collection 2025 | 406292 | [406292-lusofona-games-collection-2025.json](./406292-lusofona-games-collection-2025.json) |
 | Lust Academy: Season 1 | 195223 | [195223-lust-academy-season-1.json](./195223-lust-academy-season-1.json) |
 | Lust Academy: Season 3 | 289462 | [289462-lust-academy-season-3.json](./289462-lust-academy-season-3.json) |
 | Lust Bunker | 274753 | [274753-lust-bunker.json](./274753-lust-bunker.json) |
