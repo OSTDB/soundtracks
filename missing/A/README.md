@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Girl: Kit's Mystery Challenge | 18246 | [18246-american-girl-kits-mystery-challenge.json](./18246-american-girl-kits-mystery-challenge.json) |
 | American Girl: Mia Goes For Great | 18245 | [18245-american-girl-mia-goes-for-great.json](./18245-american-girl-mia-goes-for-great.json) |
 | American Gladiators | 4377 | [4377-american-gladiators.json](./4377-american-gladiators.json) |
+| American Gold Rush | 417689 | [417689-american-gold-rush.json](./417689-american-gold-rush.json) |
 | American Idol | 248734 | [248734-american-idol.json](./248734-american-idol.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
@@ -2463,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amillusion | 202238 | [202238-amillusion.json](./202238-amillusion.json) |
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
 | Amira | 169857 | [169857-amira.json](./169857-amira.json) |
+| Amit the Paperman | 417681 | [417681-amit-the-paperman.json](./417681-amit-the-paperman.json) |
 | AmiWordle | 304190 | [304190-amiwordle.json](./304190-amiwordle.json) |
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
 | Ammo Pigs: Armed and Delicious | 107889 | [107889-ammo-pigs-armed-and-delicious.json](./107889-ammo-pigs-armed-and-delicious.json) |
@@ -5312,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
 | Auralux: Constellations | 33527 | [33527-auralux-constellations.json](./33527-auralux-constellations.json) |
 | Aurascope | 177951 | [177951-aurascope.json](./177951-aurascope.json) |
+| AuraTitan | 417677 | [417677-auratitan.json](./417677-auratitan.json) |
 | Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
 | Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
