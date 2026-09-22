@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
 | Dark Age of Camelot: Catacombs | 20202 | [20202-dark-age-of-camelot-catacombs.json](./20202-dark-age-of-camelot-catacombs.json) |
+| Dark Age of Camelot: Labyrinth of the Minotaur | 21415 | [21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json](./21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json) |
 | Dark Ages | 72251 | [72251-dark-ages.json](./72251-dark-ages.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
 | Dark Alley Escape | 315671 | [315671-dark-alley-escape.json](./315671-dark-alley-escape.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan: Kiganshima Hihou Densetsu | 209495 | [209495-detective-conan-kiganshima-hihou-densetsu.json](./209495-detective-conan-kiganshima-hihou-densetsu.json) |
 | Detective Conan: Kigantou Hihou Densetsu | 50561 | [50561-detective-conan-kigantou-hihou-densetsu.json](./50561-detective-conan-kigantou-hihou-densetsu.json) |
 | Detective Conan: Trick Trick Vol. 1 | 84172 | [84172-detective-conan-trick-trick-vol-1.json](./84172-detective-conan-trick-trick-vol-1.json) |
+| Detective Conan: Tsuioku no Gensou | 21428 | [21428-detective-conan-tsuioku-no-gensou.json](./21428-detective-conan-tsuioku-no-gensou.json) |
 | Detective Conan: Yuugure no Ouju | 37362 | [37362-detective-conan-yuugure-no-ouju.json](./37362-detective-conan-yuugure-no-ouju.json) |
 | Detective Corgi and the Mysterious Mansion | 179753 | [179753-detective-corgi-and-the-mysterious-mansion.json](./179753-detective-corgi-and-the-mysterious-mansion.json) |
 | Detective Dave | 277290 | [277290-detective-dave.json](./277290-detective-dave.json) |
@@ -2541,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detention | 320745 | [320745-detention.json](./320745-detention.json) |
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
 | Detention: Deluxe Edition | 52885 | [52885-detention-deluxe-edition.json](./52885-detention-deluxe-edition.json) |
+| Determinance | 21416 | [21416-determinance.json](./21416-determinance.json) |
 | Dethcube | 148487 | [148487-dethcube.json](./148487-dethcube.json) |
 | DethKarz | 51252 | [51252-dethkarz.json](./51252-dethkarz.json) |
 | Dethrone | 182977 | [182977-dethrone.json](./182977-dethrone.json) |
@@ -3209,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
 | Dirtbag Mahjong | 324907 | [324907-dirtbag-mahjong.json](./324907-dirtbag-mahjong.json) |
 | Dirty | 412361 | [412361-dirty.json](./412361-dirty.json) |
+| Dirty Dancing | 21491 | [21491-dirty-dancing.json](./21491-dirty-dancing.json) |
 | Dirty Harry | 3142 | [3142-dirty-harry.json](./3142-dirty-harry.json) |
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Dirty Kids | 100160 | [100160-dirty-kids.json](./100160-dirty-kids.json) |
@@ -3900,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Simp Club | 245885 | [245885-doki-simp-club.json](./245885-doki-simp-club.json) |
 | Doki x Doki Sasete!! | 202815 | [202815-doki-x-doki-sasete.json](./202815-doki-x-doki-sasete.json) |
 | Doki-doki Cooking Series 2: Gourmet Kitchen - Suteki na Obentou | 138030 | [138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json](./138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json) |
+| Doki-doki Majo Shinpan 2 Duo | 21456 | [21456-doki-doki-majo-shinpan-2-duo.json](./21456-doki-doki-majo-shinpan-2-duo.json) |
 | Doki-doki Penguin Land | 6096 | [6096-doki-doki-penguin-land.json](./6096-doki-doki-penguin-land.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
 | Doki-Doki Universe | 8684 | [8684-doki-doki-universe.json](./8684-doki-doki-universe.json) |
@@ -4251,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God: Genesis Secrets | 99617 | [99617-doodle-god-genesis-secrets.json](./99617-doodle-god-genesis-secrets.json) |
 | Doodle God: Merge Evolution | 334699 | [334699-doodle-god-merge-evolution.json](./334699-doodle-god-merge-evolution.json) |
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
+| Doodle Hex | 21475 | [21475-doodle-hex.json](./21475-doodle-hex.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
 | Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
@@ -5319,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreamlight | 151025 | [151025-dreamlight.json](./151025-dreamlight.json) |
+| Dreamlords: The Reawakening | 21460 | [21460-dreamlords-the-reawakening.json](./21460-dreamlords-the-reawakening.json) |
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | DreamPark Tycoon | 63012 | [63012-dreampark-tycoon.json](./63012-dreampark-tycoon.json) |
 | Dreampath: Curse of the Swamps HD | 99378 | [99378-dreampath-curse-of-the-swamps-hd.json](./99378-dreampath-curse-of-the-swamps-hd.json) |
@@ -5561,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Zone 4 | 109590 | [109590-drop-zone-4.json](./109590-drop-zone-4.json) |
 | Drop: Save the Forest | 373087 | [373087-drop-save-the-forest.json](./373087-drop-save-the-forest.json) |
 | Drop: System Breach | 202862 | [202862-drop-system-breach.json](./202862-drop-system-breach.json) |
+| DropCast | 21458 | [21458-dropcast.json](./21458-dropcast.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Droplet Shuffle | 61057 | [61057-droplet-shuffle.json](./61057-droplet-shuffle.json) |
