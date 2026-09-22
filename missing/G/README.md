@@ -3482,8 +3482,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
 | Guilty Gear X | 9141 | [9141-guilty-gear-x.json](./9141-guilty-gear-x.json) |
 | Guilty Gear X2 | 9142 | [9142-guilty-gear-x2.json](./9142-guilty-gear-x2.json) |
+| Guilty Gear Xrd Rev 2: Additional Character Color Eclipse (for Answer & Baiken) | 409066 | [409066-guilty-gear-xrd-rev-2-additional-character-color-eclipse-for-answer-and-baiken.json](./409066-guilty-gear-xrd-rev-2-additional-character-color-eclipse-for-answer-and-baiken.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors Zato-One | 344378 | [344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json](./344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json) |
 | Guilty Gear Xrd: Revelator | 13620 | [13620-guilty-gear-xrd-revelator.json](./13620-guilty-gear-xrd-revelator.json) |
+| Guilty Gear Xrd: Revelator - Additional Playable Character Kum Haehyun | 409067 | [409067-guilty-gear-xrd-revelator-additional-playable-character-kum-haehyun.json](./409067-guilty-gear-xrd-revelator-additional-playable-character-kum-haehyun.json) |
+| Guilty Gear Xrd: Revelator - Character Colors Pack | 409068 | [409068-guilty-gear-xrd-revelator-character-colors-pack.json](./409068-guilty-gear-xrd-revelator-character-colors-pack.json) |
 | Guilty Gear Xrd: Revelator - Deluxe Edition | 82089 | [82089-guilty-gear-xrd-revelator-deluxe-edition.json](./82089-guilty-gear-xrd-revelator-deluxe-edition.json) |
 | Guilty Gear Xrd: Revelator - Let's Rock! Edition | 89928 | [89928-guilty-gear-xrd-revelator-lets-rock-edition.json](./89928-guilty-gear-xrd-revelator-lets-rock-edition.json) |
 | Guilty Gear Xrd: Sign - Character Colors Christmas Set | 315513 | [315513-guilty-gear-xrd-sign-character-colors-christmas-set.json](./315513-guilty-gear-xrd-sign-character-colors-christmas-set.json) |
