@@ -2534,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaskoman | 153852 | [153852-flaskoman.json](./153852-flaskoman.json) |
 | Flat & Fluffy | 297075 | [297075-flat-and-fluffy.json](./297075-flat-and-fluffy.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
+| Flat Kingdom | 18795 | [18795-flat-kingdom.json](./18795-flat-kingdom.json) |
 | Flat Path | 31734 | [31734-flat-path.json](./31734-flat-path.json) |
 | Flat Worlds | 75055 | [75055-flat-worlds.json](./75055-flat-worlds.json) |
 | Flat Zombies: Cleanup & Defense | 174890 | [174890-flat-zombies-cleanup-and-defense.json](./174890-flat-zombies-cleanup-and-defense.json) |
