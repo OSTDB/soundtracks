@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Ascent | 271851 | [271851-infernal-ascent.json](./271851-infernal-ascent.json) |
 | Infernal Battles | 402938 | [402938-infernal-battles.json](./402938-infernal-battles.json) |
 | Infernal Chess | 333398 | [333398-infernal-chess.json](./333398-infernal-chess.json) |
+| Infernal Cleaner | 411806 | [411806-infernal-cleaner.json](./411806-infernal-cleaner.json) |
 | Infernal Dream Collection | 53230 | [53230-infernal-dream-collection.json](./53230-infernal-dream-collection.json) |
 | Infernal Eclipse of Ragnarok | 379350 | [379350-infernal-eclipse-of-ragnarok.json](./379350-infernal-eclipse-of-ragnarok.json) |
 | Infernal Racket | 72355 | [72355-infernal-racket.json](./72355-infernal-racket.json) |
@@ -1478,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
 | Ink Paper Minesweeper: Traditional Japanese Paintings Pack | 336345 | [336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json](./336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json) |
 | Ink Shapes: Book One | 161392 | [161392-ink-shapes-book-one.json](./161392-ink-shapes-book-one.json) |
+| Ink Splash | 411815 | [411815-ink-splash.json](./411815-ink-splash.json) |
 | Ink Wars | 57359 | [57359-ink-wars.json](./57359-ink-wars.json) |
 | Ink World | 202758 | [202758-ink-world.json](./202758-ink-world.json) |
 | Ink. | 169442 | [169442-ink.json](./169442-ink.json) |
