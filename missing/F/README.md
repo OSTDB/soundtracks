@@ -3948,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred Versus | 200044 | [200044-fred-versus.json](./200044-fred-versus.json) |
 | Fred's Cereal Company | 253950 | [253950-freds-cereal-company.json](./253950-freds-cereal-company.json) |
 | Fred3ric | 139225 | [139225-fred3ric.json](./139225-fred3ric.json) |
+| Fredbear Game Number 998433 | 397951 | [397951-fredbear-game-number-998433.json](./397951-fredbear-game-number-998433.json) |
 | Fredbear's Fright | 225631 | [225631-fredbears-fright.json](./225631-fredbears-fright.json) |
 | Freddi Fish 2: The Case of the Haunted Schoolhouse | 3744 | [3744-freddi-fish-2-the-case-of-the-haunted-schoolhouse.json](./3744-freddi-fish-2-the-case-of-the-haunted-schoolhouse.json) |
 | Freddi Fish 3: The Case of the Stolen Conch Shell | 3745 | [3745-freddi-fish-3-the-case-of-the-stolen-conch-shell.json](./3745-freddi-fish-3-the-case-of-the-stolen-conch-shell.json) |
