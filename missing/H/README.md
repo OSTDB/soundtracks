@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
 | Habbo | 27522 | [27522-habbo.json](./27522-habbo.json) |
 | Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
+| Habitat | 10387 | [10387-habitat.json](./10387-habitat.json) |
 | Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
@@ -1185,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
 | Hearts of Iron II: Complete | 28993 | [28993-hearts-of-iron-ii-complete.json](./28993-hearts-of-iron-ii-complete.json) |
 | Hearts of Iron III Collection | 53177 | [53177-hearts-of-iron-iii-collection.json](./53177-hearts-of-iron-iii-collection.json) |
+| Hearts of Iron III: For the Motherland | 10400 | [10400-hearts-of-iron-iii-for-the-motherland.json](./10400-hearts-of-iron-iii-for-the-motherland.json) |
 | Hearts of Iron IV | 15894 | [15894-hearts-of-iron-iv.json](./15894-hearts-of-iron-iv.json) |
 | Hearts of Iron IV: Allied Armor Pack | 165012 | [165012-hearts-of-iron-iv-allied-armor-pack.json](./165012-hearts-of-iron-iv-allied-armor-pack.json) |
 | Hearts of Iron IV: Arms Against Tyranny | 253959 | [253959-hearts-of-iron-iv-arms-against-tyranny.json](./253959-hearts-of-iron-iv-arms-against-tyranny.json) |
@@ -3054,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloVista | 139237 | [139237-holovista.json](./139237-holovista.json) |
 | Holstin | 229035 | [229035-holstin.json](./229035-holstin.json) |
 | Holt | 158596 | [158596-holt.json](./158596-holt.json) |
+| Holy Avatar Vs Maidens of the Dead | 10413 | [10413-holy-avatar-vs-maidens-of-the-dead.json](./10413-holy-avatar-vs-maidens-of-the-dead.json) |
 | Holy Avenger | 30916 | [30916-holy-avenger.json](./30916-holy-avenger.json) |
 | Holy Beast Online | 338213 | [338213-holy-beast-online.json](./338213-holy-beast-online.json) |
 | Holy Book | 400289 | [400289-holy-book.json](./400289-holy-book.json) |
@@ -3616,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
 | Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
+| Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
@@ -4148,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
 | Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
+| Huntsman: The Orphanage | 10422 | [10422-huntsman-the-orphanage.json](./10422-huntsman-the-orphanage.json) |
 | Hupsi | 177436 | [177436-hupsi.json](./177436-hupsi.json) |
 | Huracan Drift Simulator | 95875 | [95875-huracan-drift-simulator.json](./95875-huracan-drift-simulator.json) |
 | Hurdle Turtle 2 | 58264 | [58264-hurdle-turtle-2.json](./58264-hurdle-turtle-2.json) |
