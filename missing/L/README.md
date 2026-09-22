@@ -2534,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
+| Loomchild | 418773 | [418773-loomchild.json](./418773-loomchild.json) |
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes World of Mayhem | 97314 | [97314-looney-tunes-world-of-mayhem.json](./97314-looney-tunes-world-of-mayhem.json) |
 | Looney Tunes: Acme Antics | 137000 | [137000-looney-tunes-acme-antics.json](./137000-looney-tunes-acme-antics.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
 | LooperLands | 291984 | [291984-looperlands.json](./291984-looperlands.json) |
 | Loopers | 140632 | [140632-loopers.json](./140632-loopers.json) |
+| Loopfang | 418663 | [418663-loopfang.json](./418663-loopfang.json) |
 | Loophole | 350443 | [350443-loophole.json](./350443-loophole.json) |
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
