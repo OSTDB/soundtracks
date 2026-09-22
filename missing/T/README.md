@@ -8997,6 +8997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
 | Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
+| Tortuga: A Pirate's Tale | 214399 | [214399-tortuga-a-pirates-tale.json](./214399-tortuga-a-pirates-tale.json) |
 | Torture | 268464 | [268464-torture.json](./268464-torture.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
 | Tortured Souls | 293224 | [293224-tortured-souls.json](./293224-tortured-souls.json) |
