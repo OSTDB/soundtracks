@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyad and Hala | 186182 | [186182-eyad-and-hala.json](./186182-eyad-and-hala.json) |
 | Eye Can See You | 208475 | [208475-eye-can-see-you.json](./208475-eye-can-see-you.json) |
 | Eye For Blood | 217327 | [217327-eye-for-blood.json](./217327-eye-for-blood.json) |
+| Eye Juice | 403205 | [403205-eye-juice.json](./403205-eye-juice.json) |
 | Eye of Horus | 12069 | [12069-eye-of-horus.json](./12069-eye-of-horus.json) |
 | Eye of Nollyn | 276193 | [276193-eye-of-nollyn.json](./276193-eye-of-nollyn.json) |
 | Eye of Ra | 133992 | [133992-eye-of-ra.json](./133992-eye-of-ra.json) |
