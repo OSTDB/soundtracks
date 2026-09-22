@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ImpliCations | 257401 | [257401-implications.json](./257401-implications.json) |
 | Import Tuner Challenge | 7017 | [7017-import-tuner-challenge.json](./7017-import-tuner-challenge.json) |
 | Impossamole | 12611 | [12611-impossamole.json](./12611-impossamole.json) |
+| Impossiball | 26641 | [26641-impossiball.json](./26641-impossiball.json) |
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
 | Impossible Commando Shooting FPS Fury | 101983 | [101983-impossible-commando-shooting-fps-fury.json](./101983-impossible-commando-shooting-fps-fury.json) |
 | Impossible Draw | 128565 | [128565-impossible-draw.json](./128565-impossible-draw.json) |
@@ -2182,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
 | Island Survival: Escape from Paradise | 413088 | [413088-island-survival-escape-from-paradise.json](./413088-island-survival-escape-from-paradise.json) |
 | Island Town Zombie Paradise | 117478 | [117478-island-town-zombie-paradise.json](./117478-island-town-zombie-paradise.json) |
+| Island Tribe 3 | 25001 | [25001-island-tribe-3.json](./25001-island-tribe-3.json) |
 | Island Tribe 4 | 76635 | [76635-island-tribe-4.json](./76635-island-tribe-4.json) |
 | Island Tribe 4 | 76646 | [76646-island-tribe-4.json](./76646-island-tribe-4.json) |
 | Island Tribe 5 | 82437 | [82437-island-tribe-5.json](./82437-island-tribe-5.json) |
