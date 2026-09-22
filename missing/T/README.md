@@ -3866,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
 | The House | 240315 | [240315-the-house.json](./240315-the-house.json) |
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
+| The House Always Wins | 400471 | [400471-the-house-always-wins.json](./400471-the-house-always-wins.json) |
 | The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
 | The House in Fata Morgana: A Requiem for Innocence | 56006 | [56006-the-house-in-fata-morgana-a-requiem-for-innocence.json](./56006-the-house-in-fata-morgana-a-requiem-for-innocence.json) |
 | The House in Fata Morgana: Dreams of the Revenants Edition | 119577 | [119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json](./119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json) |
@@ -6705,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wand of Gamelon Remastered | 206135 | [206135-the-wand-of-gamelon-remastered.json](./206135-the-wand-of-gamelon-remastered.json) |
 | The Wand Wizard | 255150 | [255150-the-wand-wizard.json](./255150-the-wand-wizard.json) |
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
+| The Wandering Her | 400498 | [400498-the-wandering-her.json](./400498-the-wandering-her.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The War Enders: First Strike | 219657 | [219657-the-war-enders-first-strike.json](./219657-the-war-enders-first-strike.json) |
@@ -10770,6 +10772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
 | Tribal Wars | 148522 | [148522-tribal-wars.json](./148522-tribal-wars.json) |
+| TriBalls | 400452 | [400452-triballs.json](./400452-triballs.json) |
 | Tribals.io | 228783 | [228783-tribals-io.json](./228783-tribals-io.json) |
 | Tribe Explorer | 213413 | [213413-tribe-explorer.json](./213413-tribe-explorer.json) |
 | Tribe Nine | 130317 | [130317-tribe-nine.json](./130317-tribe-nine.json) |
@@ -11362,6 +11365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turf | 61590 | [61590-turf.json](./61590-turf.json) |
 | Turf Hero | 37776 | [37776-turf-hero.json](./37776-turf-hero.json) |
 | Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
+| Turing Sandbox | 400448 | [400448-turing-sandbox.json](./400448-turing-sandbox.json) |
 | Turing Trial | 183987 | [183987-turing-trial.json](./183987-turing-trial.json) |
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
