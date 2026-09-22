@@ -2608,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimFolk | 335323 | [335323-rimfolk.json](./335323-rimfolk.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
 | RimWorld: Anomaly | 291070 | [291070-rimworld-anomaly.json](./291070-rimworld-anomaly.json) |
+| RimWorld: Console Edition | 210525 | [210525-rimworld-console-edition.json](./210525-rimworld-console-edition.json) |
 | RimWorld: Console Edition - Digital Deluxe | 211246 | [211246-rimworld-console-edition-digital-deluxe.json](./211246-rimworld-console-edition-digital-deluxe.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
 | Ring | 11308 | [11308-ring.json](./11308-ring.json) |
@@ -2733,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Teenage Mutant Ninja Turtles: Power Up! | 146285 | [146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json](./146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Road Riot | 146291 | [146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json](./146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json) |
 | Rise of the Tomb Raider: Deluxe Edition | 122190 | [122190-rise-of-the-tomb-raider-deluxe-edition.json](./122190-rise-of-the-tomb-raider-deluxe-edition.json) |
+| Rise of the Tomb Raider: Endurance Mode | 214844 | [214844-rise-of-the-tomb-raider-endurance-mode.json](./214844-rise-of-the-tomb-raider-endurance-mode.json) |
 | Rise of the Triad | 2381 | [2381-rise-of-the-triad.json](./2381-rise-of-the-triad.json) |
 | Rise of the Triad: Dark War | 2380 | [2380-rise-of-the-triad-dark-war.json](./2380-rise-of-the-triad-dark-war.json) |
 | Rise of the Village Hero | 296484 | [296484-rise-of-the-village-hero.json](./296484-rise-of-the-village-hero.json) |
