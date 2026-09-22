@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Effy: One of Unreasonable "If" | 236822 | [236822-effy-one-of-unreasonable-if.json](./236822-effy-one-of-unreasonable-if.json) |
 | Efi | 176508 | [176508-efi.json](./176508-efi.json) |
 | EFO: Escape From Outerworld | 165674 | [165674-efo-escape-from-outerworld.json](./165674-efo-escape-from-outerworld.json) |
+| eFootball 2023 | 214925 | [214925-efootball-2023.json](./214925-efootball-2023.json) |
 | eFootball 2024 | 266157 | [266157-efootball-2024.json](./266157-efootball-2024.json) |
 | eFootball 2024: Leo Messi Edition | 265241 | [265241-efootball-2024-leo-messi-edition.json](./265241-efootball-2024-leo-messi-edition.json) |
 | eFootball PES 2020: Legend Edition | 119573 | [119573-efootball-pes-2020-legend-edition.json](./119573-efootball-pes-2020-legend-edition.json) |
