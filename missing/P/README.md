@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parsec | 18563 | [18563-parsec.json](./18563-parsec.json) |
 | Parsec | 341593 | [341593-parsec.json](./341593-parsec.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
+| Parseword | 394540 | [394540-parseword.json](./394540-parseword.json) |
 | Parsnip | 96108 | [96108-parsnip.json](./96108-parsnip.json) |
 | Part of the Flock | 325700 | [325700-part-of-the-flock.json](./325700-part-of-the-flock.json) |
 | Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
@@ -3555,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point'n'Click Lovers: Daedalic Adventure Bundle | 283723 | [283723-pointnclick-lovers-daedalic-adventure-bundle.json](./283723-pointnclick-lovers-daedalic-adventure-bundle.json) |
 | Pointy Ends | 149520 | [149520-pointy-ends.json](./149520-pointy-ends.json) |
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
+| Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
 | Poke Mission 97 | 322761 | [322761-poke-mission-97.json](./322761-poke-mission-97.json) |
@@ -4018,6 +4020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poncik's Little Tragedy | 415069 | [415069-ponciks-little-tragedy.json](./415069-ponciks-little-tragedy.json) |
 | Poncotsu Roman Daikatsugeki Bumpy Trot 2 | 91754 | [91754-poncotsu-roman-daikatsugeki-bumpy-trot-2.json](./91754-poncotsu-roman-daikatsugeki-bumpy-trot-2.json) |
 | Pond | 373662 | [373662-pond.json](./373662-pond.json) |
+| Ponder Club | 394542 | [394542-ponder-club.json](./394542-ponder-club.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
@@ -4648,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
 | Press X to Not Die | 13619 | [13619-press-x-to-not-die.json](./13619-press-x-to-not-die.json) |
 | Press X to Not Die: Special Edition | 53472 | [53472-press-x-to-not-die-special-edition.json](./53472-press-x-to-not-die-special-edition.json) |
+| Press Your Luck | 394523 | [394523-press-your-luck.json](./394523-press-your-luck.json) |
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
 | Press-Switch | 217993 | [217993-press-switch.json](./217993-press-switch.json) |
 | Pressing Under Pressure | 393618 | [393618-pressing-under-pressure.json](./393618-pressing-under-pressure.json) |
@@ -4809,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Pajama | 316803 | [316803-princess-pajama.json](./316803-princess-pajama.json) |
 | Princess Paladin | 258034 | [258034-princess-paladin.json](./258034-princess-paladin.json) |
 | Princess Paloma's Rescue | 360109 | [360109-princess-palomas-rescue.json](./360109-princess-palomas-rescue.json) |
+| Princess Party | 394498 | [394498-princess-party.json](./394498-princess-party.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
 | Princess Piano | 174230 | [174230-princess-piano.json](./174230-princess-piano.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
@@ -4825,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PrincessGuardiansParodyH | 118343 | [118343-princessguardiansparodyh.json](./118343-princessguardiansparodyh.json) |
 | Pringles | 45559 | [45559-pringles.json](./45559-pringles.json) |
 | Prinny 1 & 2: Exploded and Reloaded | 133809 | [133809-prinny-1-and-2-exploded-and-reloaded.json](./133809-prinny-1-and-2-exploded-and-reloaded.json) |
+| Prinny Party: Going Overboard! | 394548 | [394548-prinny-party-going-overboard.json](./394548-prinny-party-going-overboard.json) |
 | Prinny Presents NIS Classics Volumes 1-3 Bundle | 234638 | [234638-prinny-presents-nis-classics-volumes-1-3-bundle.json](./234638-prinny-presents-nis-classics-volumes-1-3-bundle.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Vol 3 | 194961 | [194961-prinny-presents-nis-classics-vol-3.json](./194961-prinny-presents-nis-classics-vol-3.json) |
