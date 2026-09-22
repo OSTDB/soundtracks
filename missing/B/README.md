@@ -4221,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
+| Bomb Farm | 413917 | [413917-bomb-farm.json](./413917-bomb-farm.json) |
 | Bomb Hunter MT | 95185 | [95185-bomb-hunter-mt.json](./95185-bomb-hunter-mt.json) |
 | Bomb It | 191087 | [191087-bomb-it.json](./191087-bomb-it.json) |
 | Bomb It 2 | 191097 | [191097-bomb-it-2.json](./191097-bomb-it-2.json) |
@@ -6192,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
 | By Sword & Road | 394371 | [394371-by-sword-and-road.json](./394371-by-sword-and-road.json) |
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
+| By the Numbers | 413892 | [413892-by-the-numbers.json](./413892-by-the-numbers.json) |
 | Byakko: Shijin Butai Enrenki | 342755 | [342755-byakko-shijin-butai-enrenki.json](./342755-byakko-shijin-butai-enrenki.json) |
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
 | Bye Bye Bonnie | 415153 | [415153-bye-bye-bonnie.json](./415153-bye-bye-bonnie.json) |
