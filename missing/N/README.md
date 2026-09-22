@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night at the Office | 327806 | [327806-night-at-the-office.json](./327806-night-at-the-office.json) |
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
 | Night Blade | 146122 | [146122-night-blade.json](./146122-night-blade.json) |
+| Night Blights | 33457 | [33457-night-blights.json](./33457-night-blights.json) |
 | Night Bus | 294257 | [294257-night-bus.json](./294257-night-bus.json) |
 | Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
