@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | onEscapee | 93044 | [93044-onescapee.json](./93044-onescapee.json) |
 | OneScreen Solar Sails | 37399 | [37399-onescreen-solar-sails.json](./37399-onescreen-solar-sails.json) |
 | OneScreen Wagons | 74475 | [74475-onescreen-wagons.json](./74475-onescreen-wagons.json) |
+| OneShot Challenge | 392416 | [392416-oneshot-challenge.json](./392416-oneshot-challenge.json) |
 | OneShot: Fading Memory | 166079 | [166079-oneshot-fading-memory.json](./166079-oneshot-fading-memory.json) |
 | Onesimus: A Quest for Freedom | 68971 | [68971-onesimus-a-quest-for-freedom.json](./68971-onesimus-a-quest-for-freedom.json) |
 | Onet 3D | 231921 | [231921-onet-3d.json](./231921-onet-3d.json) |
@@ -1234,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation DogFight | 95396 | [95396-operation-dogfight.json](./95396-operation-dogfight.json) |
 | Operation Eco-Nightmare | 210686 | [210686-operation-eco-nightmare.json](./210686-operation-eco-nightmare.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
+| Operation Eventide | 392457 | [392457-operation-eventide.json](./392457-operation-eventide.json) |
 | Operation F.A.T.E. | 152865 | [152865-operation-f-a-t-e.json](./152865-operation-f-a-t-e.json) |
 | Operation Fireball | 293744 | [293744-operation-fireball.json](./293744-operation-fireball.json) |
 | Operation Flashpoint: Cold War Crisis | 288 | [288-operation-flashpoint-cold-war-crisis.json](./288-operation-flashpoint-cold-war-crisis.json) |
@@ -1350,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit.Industries | 194457 | [194457-orbit-industries.json](./194457-orbit-industries.json) |
 | Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
 | Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
+| Orbital Crash | 392462 | [392462-orbital-crash.json](./392462-orbital-crash.json) |
 | Orbital Dance | 319961 | [319961-orbital-dance.json](./319961-orbital-dance.json) |
 | Orbital Decay | 60774 | [60774-orbital-decay.json](./60774-orbital-decay.json) |
 | Orbital Defender | 178635 | [178635-orbital-defender.json](./178635-orbital-defender.json) |
@@ -1917,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outworld | 287102 | [287102-outworld.json](./287102-outworld.json) |
 | Outworld Battlegrounds | 111037 | [111037-outworld-battlegrounds.json](./111037-outworld-battlegrounds.json) |
 | Ova Magica | 138211 | [138211-ova-magica.json](./138211-ova-magica.json) |
+| Ovation | 392461 | [392461-ovation.json](./392461-ovation.json) |
 | Oven Dodgers | 281395 | [281395-oven-dodgers.json](./281395-oven-dodgers.json) |
 | Over Circle | 161223 | [161223-over-circle.json](./161223-over-circle.json) |
 | Over Engineered | 406076 | [406076-over-engineered.json](./406076-over-engineered.json) |
