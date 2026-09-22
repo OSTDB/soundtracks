@@ -2061,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
 | Check it Out! | 196918 | [196918-check-it-out.json](./196918-check-it-out.json) |
 | Check Man | 39609 | [39609-check-man.json](./39609-check-man.json) |
+| Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
 | Checkers Challenge | 88173 | [88173-checkers-challenge.json](./88173-checkers-challenge.json) |
@@ -3006,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel Siege 2 | 365168 | [365168-citadel-siege-2.json](./365168-citadel-siege-2.json) |
 | Citadel Stormer 2 | 235855 | [235855-citadel-stormer-2.json](./235855-citadel-stormer-2.json) |
 | Citadel Warrior | 308255 | [308255-citadel-warrior.json](./308255-citadel-warrior.json) |
+| Citadel Zero | 410470 | [410470-citadel-zero.json](./410470-citadel-zero.json) |
 | Citadel: Forged With Fire | 47823 | [47823-citadel-forged-with-fire.json](./47823-citadel-forged-with-fire.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
