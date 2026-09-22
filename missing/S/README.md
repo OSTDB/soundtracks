@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samantha Swift and the Mystery From Atlantis | 62460 | [62460-samantha-swift-and-the-mystery-from-atlantis.json](./62460-samantha-swift-and-the-mystery-from-atlantis.json) |
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
 | Samara | 291084 | [291084-samara.json](./291084-samara.json) |
+| Samba de Amigo | 70087 | [70087-samba-de-amigo.json](./70087-samba-de-amigo.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
@@ -2176,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Girls Puzzle | 109706 | [109706-sexy-girls-puzzle.json](./109706-sexy-girls-puzzle.json) |
 | Sexy Glasses | 349866 | [349866-sexy-glasses.json](./349866-sexy-glasses.json) |
 | Sexy Hentai Puzzle | 214189 | [214189-sexy-hentai-puzzle.json](./214189-sexy-hentai-puzzle.json) |
+| Sexy Hiking | 63138 | [63138-sexy-hiking.json](./63138-sexy-hiking.json) |
 | Sexy Invaders | 41355 | [41355-sexy-invaders.json](./41355-sexy-invaders.json) |
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
 | Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
@@ -5378,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Squad | 291486 | [291486-soccer-squad.json](./291486-soccer-squad.json) |
 | Soccer Star 23 Top Leagues | 239037 | [239037-soccer-star-23-top-leagues.json](./239037-soccer-star-23-top-leagues.json) |
 | Soccer Star Manager | 108467 | [108467-soccer-star-manager.json](./108467-soccer-star-manager.json) |
+| Soccer Stars | 38059 | [38059-soccer-stars.json](./38059-soccer-stars.json) |
 | Soccer Story | 213264 | [213264-soccer-story.json](./213264-soccer-story.json) |
 | Soccer Sumos | 200143 | [200143-soccer-sumos.json](./200143-soccer-sumos.json) |
 | Soccer Superstar | 358393 | [358393-soccer-superstar.json](./358393-soccer-superstar.json) |
@@ -5929,6 +5932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Inflation 2: Battle | 140539 | [140539-sonic-inflation-2-battle.json](./140539-sonic-inflation-2-battle.json) |
 | Sonic Inflation Adventure | 140538 | [140538-sonic-inflation-adventure.json](./140538-sonic-inflation-adventure.json) |
 | Sonic Jam | 133930 | [133930-sonic-jam.json](./133930-sonic-jam.json) |
+| Sonic Jam | 72129 | [72129-sonic-jam.json](./72129-sonic-jam.json) |
 | Sonic Journey | 317609 | [317609-sonic-journey.json](./317609-sonic-journey.json) |
 | Sonic Jump | 133940 | [133940-sonic-jump.json](./133940-sonic-jump.json) |
 | Sonic Jump 2 | 133941 | [133941-sonic-jump-2.json](./133941-sonic-jump-2.json) |
@@ -7270,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelp | 232711 | [232711-spelp.json](./232711-spelp.json) |
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
+| Spelunker Party | 68534 | [68534-spelunker-party.json](./68534-spelunker-party.json) |
 | Spelunker: Collection | 45280 | [45280-spelunker-collection.json](./45280-spelunker-collection.json) |
 | Spelunkery | 374726 | [374726-spelunkery.json](./374726-spelunkery.json) |
 | Spelunky 2 | 75239 | [75239-spelunky-2.json](./75239-spelunky-2.json) |
@@ -8312,6 +8317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars | 12858 | [12858-star-wars.json](./12858-star-wars.json) |
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars | 245394 | [245394-star-wars.json](./245394-star-wars.json) |
+| Star Wars | 72396 | [72396-star-wars.json](./72396-star-wars.json) |
 | Star Wars Arcade | 39822 | [39822-star-wars-arcade.json](./39822-star-wars-arcade.json) |
 | Star Wars Battlefront II: Celebration Edition | 128334 | [128334-star-wars-battlefront-ii-celebration-edition.json](./128334-star-wars-battlefront-ii-celebration-edition.json) |
 | Star Wars Battlefront: Battle of Jakku | 23293 | [23293-star-wars-battlefront-battle-of-jakku.json](./23293-star-wars-battlefront-battle-of-jakku.json) |
@@ -8375,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Pit Droids | 13483 | [13483-star-wars-pit-droids.json](./13483-star-wars-pit-droids.json) |
 | Star Wars: Project Stardust | 137006 | [137006-star-wars-project-stardust.json](./137006-star-wars-project-stardust.json) |
 | Star Wars: Puzzle Droids | 97355 | [97355-star-wars-puzzle-droids.json](./97355-star-wars-puzzle-droids.json) |
+| Star Wars: Racer Arcade | 67944 | [67944-star-wars-racer-arcade.json](./67944-star-wars-racer-arcade.json) |
 | Star Wars: Rebel Assault | 161 | [161-star-wars-rebel-assault.json](./161-star-wars-rebel-assault.json) |
 | Star Wars: Rebel Assault I + II | 33161 | [33161-star-wars-rebel-assault-i-ii.json](./33161-star-wars-rebel-assault-i-ii.json) |
 | Star Wars: Rebel Assault II - The Hidden Empire | 300715 | [300715-star-wars-rebel-assault-ii-the-hidden-empire.json](./300715-star-wars-rebel-assault-ii-the-hidden-empire.json) |
@@ -8948,6 +8955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steins;Gate: Divergencies Assort | 113475 | [113475-steins-gate-divergencies-assort.json](./113475-steins-gate-divergencies-assort.json) |
 | Steins;Gate: El Psy Kongroo Edition | 89914 | [89914-steins-gate-el-psy-kongroo-edition.json](./89914-steins-gate-el-psy-kongroo-edition.json) |
 | Steins;Gate: Limited Edition | 42680 | [42680-steins-gate-limited-edition.json](./42680-steins-gate-limited-edition.json) |
+| Steins;Gate: Linear Bounded Phenogram | 65504 | [65504-steins-gate-linear-bounded-phenogram.json](./65504-steins-gate-linear-bounded-phenogram.json) |
 | Steins;Gate: Octet of Shifting Space | 65764 | [65764-steins-gate-octet-of-shifting-space.json](./65764-steins-gate-octet-of-shifting-space.json) |
 | Stelarace | 245851 | [245851-stelarace.json](./245851-stelarace.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
