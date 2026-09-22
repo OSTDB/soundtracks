@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-087 | 336366 | [336366-scp-087.json](./336366-scp-087.json) |
 | SCP-087-B | 20204 | [20204-scp-087-b.json](./20204-scp-087-b.json) |
 | SCP-087-B UE Remake | 277856 | [277856-scp-087-b-ue-remake.json](./277856-scp-087-b-ue-remake.json) |
+| SCP-087: Recovered document | 81711 | [81711-scp-087-recovered-document.json](./81711-scp-087-recovered-document.json) |
 | SCP-087: The Stairwell Horror | 324126 | [324126-scp-087-the-stairwell-horror.json](./324126-scp-087-the-stairwell-horror.json) |
 | SCP-167 nn5n. Horror labyrinth | 88805 | [88805-scp-167-nn5n-horror-labyrinth.json](./88805-scp-167-nn5n-horror-labyrinth.json) |
 | SCP-3008: Infinite Store | 395022 | [395022-scp-3008-infinite-store.json](./395022-scp-3008-infinite-store.json) |
@@ -2068,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
 | Settle | 397075 | [397075-settle.json](./397075-settle.json) |
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
+| Settlements | 81671 | [81671-settlements.json](./81671-settlements.json) |
 | Settlements Rising | 245838 | [245838-settlements-rising.json](./245838-settlements-rising.json) |
 | Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
 | Settlers of Catan | 320966 | [320966-settlers-of-catan.json](./320966-settlers-of-catan.json) |
@@ -2236,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaberu! DS Cooking Navi | 345570 | [345570-shaberu-ds-cooking-navi.json](./345570-shaberu-ds-cooking-navi.json) |
 | Shachou Eiyuuden: The Eagle Shooting Heroes | 78343 | [78343-shachou-eiyuuden-the-eagle-shooting-heroes.json](./78343-shachou-eiyuuden-the-eagle-shooting-heroes.json) |
 | Shackled | 148354 | [148354-shackled.json](./148354-shackled.json) |
+| Shad'O | 80331 | [80331-shado.json](./80331-shado.json) |
 | Shada Kalo | 216306 | [216306-shada-kalo.json](./216306-shada-kalo.json) |
 | Shade | 171056 | [171056-shade.json](./171056-shade.json) |
 | Shade | 79903 | [79903-shade.json](./79903-shade.json) |
@@ -5064,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Simulator | 272721 | [272721-snail-simulator.json](./272721-snail-simulator.json) |
 | Snail Story: Love Edition | 193500 | [193500-snail-story-love-edition.json](./193500-snail-story-love-edition.json) |
 | Snail Trainer | 282541 | [282541-snail-trainer.json](./282541-snail-trainer.json) |
+| Snail Trek: Chapter 3 - Lettuce Be | 81675 | [81675-snail-trek-chapter-3-lettuce-be.json](./81675-snail-trek-chapter-3-lettuce-be.json) |
 | Snail Trek: Chapter 4 - The Final Fondue | 89664 | [89664-snail-trek-chapter-4-the-final-fondue.json](./89664-snail-trek-chapter-4-the-final-fondue.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
 | Snailboy: Rise of Hermitron | 120353 | [120353-snailboy-rise-of-hermitron.json](./120353-snailboy-rise-of-hermitron.json) |
@@ -5080,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 307608 | [307608-snake.json](./307608-snake.json) |
 | Snake | 377165 | [377165-snake.json](./377165-snake.json) |
 | Snake & Snake | 56756 | [56756-snake-and-snake.json](./56756-snake-and-snake.json) |
+| Snake 2 | 81508 | [81508-snake-2.json](./81508-snake-2.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake Battle | 111657 | [111657-snake-battle.json](./111657-snake-battle.json) |
 | Snake Blocks | 36025 | [36025-snake-blocks.json](./36025-snake-blocks.json) |
@@ -6896,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Robinson | 111807 | [111807-space-robinson.json](./111807-space-robinson.json) |
 | Space Robot | 46895 | [46895-space-robot.json](./46895-space-robot.json) |
+| Space Rocket | 81601 | [81601-space-rocket.json](./81601-space-rocket.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
@@ -10222,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
 | Sugamenia | 296502 | [296502-sugamenia.json](./296502-sugamenia.json) |
 | Sugar Bear | 255121 | [255121-sugar-bear.json](./255121-sugar-bear.json) |
+| Sugar Box | 81227 | [81227-sugar-box.json](./81227-sugar-box.json) |
 | Sugar Bunnies DS: Yume no Sweets Koubou | 68038 | [68038-sugar-bunnies-ds-yume-no-sweets-koubou.json](./68038-sugar-bunnies-ds-yume-no-sweets-koubou.json) |
 | Sugar Cookie | 396209 | [396209-sugar-cookie.json](./396209-sugar-cookie.json) |
 | Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
