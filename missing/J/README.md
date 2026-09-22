@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Moto 3 | 45040 | [45040-jet-moto-3.json](./45040-jet-moto-3.json) |
 | Jet Pack | 84273 | [84273-jet-pack.json](./84273-jet-pack.json) |
 | Jet Pilot | 330740 | [330740-jet-pilot.json](./330740-jet-pilot.json) |
+| Jet Racing Extreme | 34903 | [34903-jet-racing-extreme.json](./34903-jet-racing-extreme.json) |
 | Jet Run: City Defender | 58172 | [58172-jet-run-city-defender.json](./58172-jet-run-city-defender.json) |
 | Jet Rush | 236304 | [236304-jet-rush.json](./236304-jet-rush.json) |
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
@@ -747,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Job Hunter 202X | 375822 | [375822-job-hunter-202x.json](./375822-job-hunter-202x.json) |
 | Job Joust | 293226 | [293226-job-joust.json](./293226-job-joust.json) |
 | Job Simulator: The 2050 Archives | 12596 | [12596-job-simulator-the-2050-archives.json](./12596-job-simulator-the-2050-archives.json) |
+| Job the Leprechaun | 34849 | [34849-job-the-leprechaun.json](./34849-job-the-leprechaun.json) |
 | Jobifai | 340774 | [340774-jobifai.json](./340774-jobifai.json) |
 | Jobmania: Eternal Dungeon | 176883 | [176883-jobmania-eternal-dungeon.json](./176883-jobmania-eternal-dungeon.json) |
 | Jobsworth Weekly | 290526 | [290526-jobsworth-weekly.json](./290526-jobsworth-weekly.json) |
