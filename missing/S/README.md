@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
 | Sentimental Journey | 268036 | [268036-sentimental-journey.json](./268036-sentimental-journey.json) |
 | Sentinel | 153840 | [153840-sentinel.json](./153840-sentinel.json) |
+| Sentinel 4: Dark Star | 34835 | [34835-sentinel-4-dark-star.json](./34835-sentinel-4-dark-star.json) |
 | Sentinel Heroes | 23641 | [23641-sentinel-heroes.json](./23641-sentinel-heroes.json) |
 | Sentinel of Innocence | 301827 | [301827-sentinel-of-innocence.json](./301827-sentinel-of-innocence.json) |
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
@@ -4337,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Taxi 4: Top Secret | 54371 | [54371-sky-taxi-4-top-secret.json](./54371-sky-taxi-4-top-secret.json) |
 | Sky Taxi: GMO Armageddon | 54370 | [54370-sky-taxi-gmo-armageddon.json](./54370-sky-taxi-gmo-armageddon.json) |
 | Sky the Scraper | 256338 | [256338-sky-the-scraper.json](./256338-sky-the-scraper.json) |
+| Sky Tower | 34625 | [34625-sky-tower.json](./34625-sky-tower.json) |
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
 | Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
@@ -6620,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaaace! | 179052 | [179052-spaaace.json](./179052-spaaace.json) |
 | Spac Cop, Sereth | 97843 | [97843-spac-cop-sereth.json](./97843-spac-cop-sereth.json) |
 | Space | 213452 | [213452-space.json](./213452-space.json) |
+| Space - The Return Of The Pixxelfrazzer | 34883 | [34883-space-the-return-of-the-pixxelfrazzer.json](./34883-space-the-return-of-the-pixxelfrazzer.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
 | Space Ace | 100161 | [100161-space-ace.json](./100161-space-ace.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
@@ -9082,6 +9085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Ocean | 34752 | [34752-steel-ocean.json](./34752-steel-ocean.json) |
 | Steel Panthers II: Modern Battles - Campaign Disk | 77314 | [77314-steel-panthers-ii-modern-battles-campaign-disk.json](./77314-steel-panthers-ii-modern-battles-campaign-disk.json) |
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
+| Steel Rain | 34833 | [34833-steel-rain.json](./34833-steel-rain.json) |
 | Steel Rampart | 245951 | [245951-steel-rampart.json](./245951-steel-rampart.json) |
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
 | Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
@@ -9374,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch. | 225655 | [225655-stitch.json](./225655-stitch.json) |
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
+| STLD Redux: Episode 02 | 34895 | [34895-stld-redux-episode-02.json](./34895-stld-redux-episode-02.json) |
 | Stlthscpe | 284320 | [284320-stlthscpe.json](./284320-stlthscpe.json) |
 | Stock Car Crash | 43523 | [43523-stock-car-crash.json](./43523-stock-car-crash.json) |
 | Stock Car Extreme | 16966 | [16966-stock-car-extreme.json](./16966-stock-car-extreme.json) |
@@ -11584,6 +11589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Toy Cars Offroad | 173959 | [173959-super-toy-cars-offroad.json](./173959-super-toy-cars-offroad.json) |
+| Super Trench Attack 2 | 34840 | [34840-super-trench-attack-2.json](./34840-super-trench-attack-2.json) |
 | Super Trench Attack! | 17592 | [17592-super-trench-attack.json](./17592-super-trench-attack.json) |
 | Super Trolley | 68348 | [68348-super-trolley.json](./68348-super-trolley.json) |
 | Super Trucks Racing | 43352 | [43352-super-trucks-racing.json](./43352-super-trucks-racing.json) |
