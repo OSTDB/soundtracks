@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
 | WarGround | 114441 | [114441-warground.json](./114441-warground.json) |
 | Warhalla | 100589 | [100589-warhalla.json](./100589-warhalla.json) |
+| Warhammer 40,000: Armageddon | 17609 | [17609-warhammer-40-000-armageddon.json](./17609-warhammer-40-000-armageddon.json) |
 | Warhammer 40,000: Armageddon - Angels of Death | 53889 | [53889-warhammer-40-000-armageddon-angels-of-death.json](./53889-warhammer-40-000-armageddon-angels-of-death.json) |
 | Warhammer 40,000: Armageddon - Da Orks | 33186 | [33186-warhammer-40-000-armageddon-da-orks.json](./33186-warhammer-40-000-armageddon-da-orks.json) |
 | Warhammer 40,000: Armageddon - Glory of Macragge | 53890 | [53890-warhammer-40-000-armageddon-glory-of-macragge.json](./53890-warhammer-40-000-armageddon-glory-of-macragge.json) |
@@ -644,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Chef | 270179 | [270179-warrior-chef.json](./270179-warrior-chef.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
+| Warrior Kings | 17343 | [17343-warrior-kings.json](./17343-warrior-kings.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
 | Warrior Maiden Lecia and the Lost Fortress | 373646 | [373646-warrior-maiden-lecia-and-the-lost-fortress.json](./373646-warrior-maiden-lecia-and-the-lost-fortress.json) |
 | Warrior of Ras: Volume I - Dunzhin | 94578 | [94578-warrior-of-ras-volume-i-dunzhin.json](./94578-warrior-of-ras-volume-i-dunzhin.json) |
@@ -1736,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Camp | 36063 | [36063-wildlife-camp.json](./36063-wildlife-camp.json) |
 | Wildlife Hunter: Survival | 250437 | [250437-wildlife-hunter-survival.json](./250437-wildlife-hunter-survival.json) |
 | Wildlife Park | 17591 | [17591-wildlife-park.json](./17591-wildlife-park.json) |
+| Wildlife Park 2 | 17491 | [17491-wildlife-park-2.json](./17491-wildlife-park-2.json) |
 | Wildlife Park 2: Kitz (fawn) | 163274 | [163274-wildlife-park-2-kitz-fawn.json](./163274-wildlife-park-2-kitz-fawn.json) |
 | Wildlife Park 3 | 17177 | [17177-wildlife-park-3.json](./17177-wildlife-park-3.json) |
 | Wildlife Park 3: Alaska | 156153 | [156153-wildlife-park-3-alaska.json](./156153-wildlife-park-3-alaska.json) |
@@ -1992,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout | 109445 | [109445-wipeout.json](./109445-wipeout.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wipeout | 351100 | [351100-wipeout.json](./351100-wipeout.json) |
+| Wipeout 2 | 20243 | [20243-wipeout-2.json](./20243-wipeout-2.json) |
 | Wipeout 2048 | 1545 | [1545-wipeout-2048.json](./1545-wipeout-2048.json) |
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
 | Wipeout 3 Special Edition | 44855 | [44855-wipeout-3-special-edition.json](./44855-wipeout-3-special-edition.json) |
