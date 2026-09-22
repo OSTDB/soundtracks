@@ -3817,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
 | Pole Position II | 293758 | [293758-pole-position-ii.json](./293758-pole-position-ii.json) |
 | Pole Riders | 342166 | [342166-pole-riders.json](./342166-pole-riders.json) |
+| Poled Apart | 415319 | [415319-poled-apart.json](./415319-poled-apart.json) |
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
 | Police & Gang | 385740 | [385740-police-and-gang.json](./385740-police-and-gang.json) |
@@ -5621,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
 | Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
 | Pulse Cage Episode 1 | 25629 | [25629-pulse-cage-episode-1.json](./25629-pulse-cage-episode-1.json) |
+| Pulse Drive | 415322 | [415322-pulse-drive.json](./415322-pulse-drive.json) |
 | Pulse Jumper | 149442 | [149442-pulse-jumper.json](./149442-pulse-jumper.json) |
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
 | Pulse Online | 288333 | [288333-pulse-online.json](./288333-pulse-online.json) |
