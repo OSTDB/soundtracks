@@ -3656,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bond: Into the Shroud | 105276 | [105276-blood-bond-into-the-shroud.json](./105276-blood-bond-into-the-shroud.json) |
 | Blood Bowl 2: Chaos Dwarfs | 341551 | [341551-blood-bowl-2-chaos-dwarfs.json](./341551-blood-bowl-2-chaos-dwarfs.json) |
 | Blood Bowl 2: Khemri | 150608 | [150608-blood-bowl-2-khemri.json](./150608-blood-bowl-2-khemri.json) |
+| Blood Bowl 2: Legendary Edition | 27696 | [27696-blood-bowl-2-legendary-edition.json](./27696-blood-bowl-2-legendary-edition.json) |
 | Blood Bowl 2: Lizardmen | 52649 | [52649-blood-bowl-2-lizardmen.json](./52649-blood-bowl-2-lizardmen.json) |
 | Blood Bowl 2: Norse | 341549 | [341549-blood-bowl-2-norse.json](./341549-blood-bowl-2-norse.json) |
 | Blood Bowl 2: Nurgle | 341550 | [341550-blood-bowl-2-nurgle.json](./341550-blood-bowl-2-nurgle.json) |
