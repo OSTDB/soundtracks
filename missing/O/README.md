@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oib.io | 86079 | [86079-oib-io.json](./86079-oib-io.json) |
 | Oiche Mhaith | 142248 | [142248-oiche-mhaith.json](./142248-oiche-mhaith.json) |
 | Oide Rascal | 125422 | [125422-oide-rascal.json](./125422-oide-rascal.json) |
+| Oik 4 | 104564 | [104564-oik-4.json](./104564-oik-4.json) |
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
 | Oik Memory | 81155 | [81155-oik-memory.json](./81155-oik-memory.json) |
 | Oik Memory 3 | 114976 | [114976-oik-memory-3.json](./114976-oik-memory-3.json) |
