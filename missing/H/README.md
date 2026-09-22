@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallowanderband | 312762 | [312762-hallowanderband.json](./312762-hallowanderband.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
 | Hallowed Legends: Templar - Collector's Edition | 376584 | [376584-hallowed-legends-templar-collectors-edition.json](./376584-hallowed-legends-templar-collectors-edition.json) |
+| Halloween | 40790 | [40790-halloween.json](./40790-halloween.json) |
 | Halloween | 80499 | [80499-halloween.json](./80499-halloween.json) |
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
 | Halloween Candy Break Head to Head | 210084 | [210084-halloween-candy-break-head-to-head.json](./210084-halloween-candy-break-head-to-head.json) |
@@ -4177,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Dimensional Basement Crawler | 177944 | [177944-hyper-dimensional-basement-crawler.json](./177944-hyper-dimensional-basement-crawler.json) |
 | Hyper Drive: The Insane Gravity Race | 51598 | [51598-hyper-drive-the-insane-gravity-race.json](./51598-hyper-drive-the-insane-gravity-race.json) |
 | Hyper Drone X | 195731 | [195731-hyper-drone-x.json](./195731-hyper-drone-x.json) |
+| Hyper Dyne: Side Arms | 42033 | [42033-hyper-dyne-side-arms.json](./42033-hyper-dyne-side-arms.json) |
 | Hyper Echelon | 148923 | [148923-hyper-echelon.json](./148923-hyper-echelon.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
 | Hyper Flight | 117486 | [117486-hyper-flight.json](./117486-hyper-flight.json) |
