@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Respects | 290717 | [290717-last-respects.json](./290717-last-respects.json) |
 | Last Ride | 296368 | [296368-last-ride.json](./296368-last-ride.json) |
 | Last Ride | 377575 | [377575-last-ride.json](./377575-last-ride.json) |
+| Last Ride | 413171 | [413171-last-ride.json](./413171-last-ride.json) |
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
 | Last Second Save | 382898 | [382898-last-second-save.json](./382898-last-second-save.json) |
@@ -2262,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liwertown: Rebirth | 267453 | [267453-liwertown-rebirth.json](./267453-liwertown-rebirth.json) |
 | Lix | 97896 | [97896-lix.json](./97896-lix.json) |
 | Liyf | 275349 | [275349-liyf.json](./275349-liyf.json) |
+| Liz Art Gallery | 413168 | [413168-liz-art-gallery.json](./413168-liz-art-gallery.json) |
 | Liza: The Ungrateful | 221841 | [221841-liza-the-ungrateful.json](./221841-liza-the-ungrateful.json) |
 | Lizard | 19574 | [19574-lizard.json](./19574-lizard.json) |
 | Lizard | 89223 | [89223-lizard.json](./89223-lizard.json) |
@@ -2507,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
 | Long | 292006 | [292006-long.json](./292006-long.json) |
 | Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
+| Long Dives | 413166 | [413166-long-dives.json](./413166-long-dives.json) |
 | Long Drive North | 320382 | [320382-long-drive-north.json](./320382-long-drive-north.json) |
 | Long Gone Days | 31820 | [31820-long-gone-days.json](./31820-long-gone-days.json) |
 | Long Hun Shi Ke | 90619 | [90619-long-hun-shi-ke.json](./90619-long-hun-shi-ke.json) |
