@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
+| Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next 4 | 102440 | [102440-next-4.json](./102440-next-4.json) |
 | Next Day: Survival | 51495 | [51495-next-day-survival.json](./51495-next-day-survival.json) |
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
