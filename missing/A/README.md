@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airsoft Range | 312192 | [312192-airsoft-range.json](./312192-airsoft-range.json) |
 | Airstrife: Assault of the Aviators | 143691 | [143691-airstrife-assault-of-the-aviators.json](./143691-airstrife-assault-of-the-aviators.json) |
 | AirStrike 3D: Operation W.A.T. | 70123 | [70123-airstrike-3d-operation-w-a-t.json](./70123-airstrike-3d-operation-w-a-t.json) |
+| AirStrike Command: Tactical Assault Operation & Helicopter Battle Arena Simulator | 395885 | [395885-airstrike-command-tactical-assault-operation-and-helicopter-battle-arena-simulator.json](./395885-airstrike-command-tactical-assault-operation-and-helicopter-battle-arena-simulator.json) |
 | Airstrike II | 68967 | [68967-airstrike-ii.json](./68967-airstrike-ii.json) |
 | Airstrike II: Gulf Thunder | 593 | [593-airstrike-ii-gulf-thunder.json](./593-airstrike-ii-gulf-thunder.json) |
 | Airstrike One | 65781 | [65781-airstrike-one.json](./65781-airstrike-one.json) |
@@ -2226,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
 | Alum | 26873 | [26873-alum.json](./26873-alum.json) |
+| Aluminium City | 395819 | [395819-aluminium-city.json](./395819-aluminium-city.json) |
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
 | Alvin's Chipmunk Nut Goody Bars | 320993 | [320993-alvins-chipmunk-nut-goody-bars.json](./320993-alvins-chipmunk-nut-goody-bars.json) |
@@ -4897,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
 | Asteros | 304681 | [304681-asteros.json](./304681-asteros.json) |
 | Asthenia | 381637 | [381637-asthenia.json](./381637-asthenia.json) |
+| Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
 | Astoaria | 226227 | [226227-astoaria.json](./226227-astoaria.json) |
 | Astonia 3 | 57661 | [57661-astonia-3.json](./57661-astonia-3.json) |
 | Astonishia VS | 61577 | [61577-astonishia-vs.json](./61577-astonishia-vs.json) |
