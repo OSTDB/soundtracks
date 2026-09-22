@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Vereinsamt | 340223 | [340223-reverse-1999-vereinsamt.json](./340223-reverse-1999-vereinsamt.json) |
 | Reverse Basket | 87667 | [87667-reverse-basket.json](./87667-reverse-basket.json) |
 | Reverse Collapse: F | 400301 | [400301-reverse-collapse-f.json](./400301-reverse-collapse-f.json) |
+| Reverse Crawl | 28182 | [28182-reverse-crawl.json](./28182-reverse-crawl.json) |
 | Reverse Defenders | 150174 | [150174-reverse-defenders.json](./150174-reverse-defenders.json) |
 | Reverse Dream | 202327 | [202327-reverse-dream.json](./202327-reverse-dream.json) |
 | Reverse Dyson Ball: Portal Tower | 311997 | [311997-reverse-dyson-ball-portal-tower.json](./311997-reverse-dyson-ball-portal-tower.json) |
@@ -3527,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
 | Rolling Star: Tomomi Another Story | 396379 | [396379-rolling-star-tomomi-another-story.json](./396379-rolling-star-tomomi-another-story.json) |
+| Rolling Sun | 26719 | [26719-rolling-sun.json](./26719-rolling-sun.json) |
 | Rolling Thunder | 12846 | [12846-rolling-thunder.json](./12846-rolling-thunder.json) |
 | Rolling Thunder 3 | 46243 | [46243-rolling-thunder-3.json](./46243-rolling-thunder-3.json) |
 | Rolling Toolman | 248683 | [248683-rolling-toolman.json](./248683-rolling-toolman.json) |
