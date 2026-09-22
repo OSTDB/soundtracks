@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repton 3 | 37074 | [37074-repton-3.json](./37074-repton-3.json) |
 | Repton Mania | 94257 | [94257-repton-mania.json](./94257-repton-mania.json) |
 | Republic at War | 377612 | [377612-republic-at-war.json](./377612-republic-at-war.json) |
+| Republic: The Revolution | 10236 | [10236-republic-the-revolution.json](./10236-republic-the-revolution.json) |
 | République VR | 159154 | [159154-republique-vr.json](./159154-republique-vr.json) |
 | Republique: Anniversary Edition | 152324 | [152324-republique-anniversary-edition.json](./152324-republique-anniversary-edition.json) |
 | République: Episode 1- Exordium | 127126 | [127126-republique-episode-1-exordium.json](./127126-republique-episode-1-exordium.json) |
