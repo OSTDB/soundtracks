@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Case: The Scarlet Hyacinth - DLC | 256274 | [256274-unsolved-case-the-scarlet-hyacinth-dlc.json](./256274-unsolved-case-the-scarlet-hyacinth-dlc.json) |
 | Unsolved Mystery Club: Amelia Earhart | 120819 | [120819-unsolved-mystery-club-amelia-earhart.json](./120819-unsolved-mystery-club-amelia-earhart.json) |
 | Unsolved Stories | 86535 | [86535-unsolved-stories.json](./86535-unsolved-stories.json) |
+| Unsorted Horror | 258669 | [258669-unsorted-horror.json](./258669-unsorted-horror.json) |
 | Unsought | 303073 | [303073-unsought.json](./303073-unsought.json) |
 | Unsouled | 124772 | [124772-unsouled.json](./124772-unsouled.json) |
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
@@ -1129,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Jungle: Brother's Wedding Story | 401001 | [401001-urban-jungle-brothers-wedding-story.json](./401001-urban-jungle-brothers-wedding-story.json) |
 | Urban Kick Academy | 78353 | [78353-urban-kick-academy.json](./78353-urban-kick-academy.json) |
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
+| Urban Myth Dissolution Center | 216784 | [216784-urban-myth-dissolution-center.json](./216784-urban-myth-dissolution-center.json) |
 | Urban Myth.exe | 387551 | [387551-urban-myth-exe.json](./387551-urban-myth-exe.json) |
 | Urban Project | 348877 | [348877-urban-project.json](./348877-urban-project.json) |
 | Urban Shadows Racing Tokyo | 371905 | [371905-urban-shadows-racing-tokyo.json](./371905-urban-shadows-racing-tokyo.json) |
