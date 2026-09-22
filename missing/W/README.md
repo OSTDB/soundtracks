@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of One | 39012 | [39012-world-of-one.json](./39012-world-of-one.json) |
 | World of Outlaws: Dirt Racing 2023 - Ultimate Edition | 261877 | [261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json](./261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json) |
 | World of Outlaws: Dirt Racing 24 Gold Edition | 330341 | [330341-world-of-outlaws-dirt-racing-24-gold-edition.json](./330341-world-of-outlaws-dirt-racing-24-gold-edition.json) |
+| World of Outlaws: Sprint Cars 2002 | 23474 | [23474-world-of-outlaws-sprint-cars-2002.json](./23474-world-of-outlaws-sprint-cars-2002.json) |
 | World of Padman | 51251 | [51251-world-of-padman.json](./51251-world-of-padman.json) |
 | World of Paranoia | 167292 | [167292-world-of-paranoia.json](./167292-world-of-paranoia.json) |
 | World of Pool | 45995 | [45995-world-of-pool.json](./45995-world-of-pool.json) |
@@ -2804,6 +2805,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World to the West | 27518 | [27518-world-to-the-west.json](./27518-world-to-the-west.json) |
 | World Tour Fishing | 5805 | [5805-world-tour-fishing.json](./5805-world-tour-fishing.json) |
 | World Tour Golf | 37172 | [37172-world-tour-golf.json](./37172-world-tour-golf.json) |
+| World Tour Soccer 2002 | 23444 | [23444-world-tour-soccer-2002.json](./23444-world-tour-soccer-2002.json) |
+| World Tour Soccer 2005 | 23546 | [23546-world-tour-soccer-2005.json](./23546-world-tour-soccer-2005.json) |
 | World Tour Soccer 2006 | 72725 | [72725-world-tour-soccer-2006.json](./72725-world-tour-soccer-2006.json) |
 | World Tour Tennis | 29140 | [29140-world-tour-tennis.json](./29140-world-tour-tennis.json) |
 | World Travel Solitaire | 415964 | [415964-world-travel-solitaire.json](./415964-world-travel-solitaire.json) |
