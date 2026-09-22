@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma Goblins | 59664 | [59664-gamma-goblins.json](./59664-gamma-goblins.json) |
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
+| Ganbare Goemon 2: Kiteretsu Shogun McGuiness | 42413 | [42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json](./42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json) |
 | Ganbare Goemon Gaiden 2: Tenka no Zaihou | 48612 | [48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json](./48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json) |
 | Ganbare Goemon Gaiden: Kieta Ougon Kiseru | 48613 | [48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json](./48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json) |
 | Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou! | 129173 | [129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json](./129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost in the Shell | 8336 | [8336-ghost-in-the-shell.json](./8336-ghost-in-the-shell.json) |
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
+| Ghost in the Shell: Stand Alone Complex - First Assault Online | 35255 | [35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json](./35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
@@ -3522,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbird | 39352 | [39352-gunbird.json](./39352-gunbird.json) |
 | Gunbird 2 | 40150 | [40150-gunbird-2.json](./40150-gunbird-2.json) |
 | Gunbird: Special Edition | 44643 | [44643-gunbird-special-edition.json](./44643-gunbird-special-edition.json) |
+| Gunblade NY | 39799 | [39799-gunblade-ny.json](./39799-gunblade-ny.json) |
 | Gunblade Ranger | 374589 | [374589-gunblade-ranger.json](./374589-gunblade-ranger.json) |
 | GunBlocks | 168315 | [168315-gunblocks.json](./168315-gunblocks.json) |
 | Gunboat God | 305189 | [305189-gunboat-god.json](./305189-gunboat-god.json) |
