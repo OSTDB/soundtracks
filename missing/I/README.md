@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Lisunov Li-2 Collector Plane | 267662 | [267662-il-2-sturmovik-lisunov-li-2-collector-plane.json](./267662-il-2-sturmovik-lisunov-li-2-collector-plane.json) |
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
 | Il-2 Sturmovik: Ultimate Edition | 146130 | [146130-il-2-sturmovik-ultimate-edition.json](./146130-il-2-sturmovik-ultimate-edition.json) |
+| Ilamentia | 36133 | [36133-ilamentia.json](./36133-ilamentia.json) |
 | Iles | 211949 | [211949-iles.json](./211949-iles.json) |
 | ILive | 110115 | [110115-ilive.json](./110115-ilive.json) |
 | Iljimae-jeon: Manman Papa Sikjeok-pyeon | 145615 | [145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json](./145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json) |
