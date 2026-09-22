@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox Metal | 264142 | [264142-paradox-metal.json](./264142-paradox-metal.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
 | Paradox Soul | 83933 | [83933-paradox-soul.json](./83933-paradox-soul.json) |
+| Paradox Tower | 403143 | [403143-paradox-tower.json](./403143-paradox-tower.json) |
 | Paradox Vector | 116943 | [116943-paradox-vector.json](./116943-paradox-vector.json) |
 | Paradox Wrench | 80959 | [80959-paradox-wrench.json](./80959-paradox-wrench.json) |
 | Paradox: The Novel | 197783 | [197783-paradox-the-novel.json](./197783-paradox-the-novel.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
 | Period. The Game | 140546 | [140546-period-the-game.json](./140546-period-the-game.json) |
 | Periodic Deliveries | 127266 | [127266-periodic-deliveries.json](./127266-periodic-deliveries.json) |
+| Periodic Lottery | 403192 | [403192-periodic-lottery.json](./403192-periodic-lottery.json) |
 | Periodic Table: Game | 356690 | [356690-periodic-table-game.json](./356690-periodic-table-game.json) |
 | Periodicity: Hats and Scars | 341583 | [341583-periodicity-hats-and-scars.json](./341583-periodicity-hats-and-scars.json) |
 | Periphery | 377180 | [377180-periphery.json](./377180-periphery.json) |
@@ -2506,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
 | Pintern | 353377 | [353377-pintern.json](./353377-pintern.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
+| Pinup | 403142 | [403142-pinup.json](./403142-pinup.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
 | Pioneer | 337737 | [337737-pioneer.json](./337737-pioneer.json) |
@@ -2966,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
+| Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
 | Pizza Tower: Final Round | 345569 | [345569-pizza-tower-final-round.json](./345569-pizza-tower-final-round.json) |
 | Pizza Turtle 4evr | 232038 | [232038-pizza-turtle-4evr.json](./232038-pizza-turtle-4evr.json) |
 | Pizza Tycoon 2 | 51885 | [51885-pizza-tycoon-2.json](./51885-pizza-tycoon-2.json) |
