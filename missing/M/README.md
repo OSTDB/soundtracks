@@ -2498,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 6: Patch Card - Wily's Ambition | 352730 | [352730-mega-man-battle-network-6-patch-card-wilys-ambition.json](./352730-mega-man-battle-network-6-patch-card-wilys-ambition.json) |
 | Mega Man Battle Network Chrono X | 137585 | [137585-mega-man-battle-network-chrono-x.json](./137585-mega-man-battle-network-chrono-x.json) |
 | Mega Man Battle Network Legacy Collection | 206810 | [206810-mega-man-battle-network-legacy-collection.json](./206810-mega-man-battle-network-legacy-collection.json) |
+| Mega Man Battle Network Legacy Collection Vol. 1 | 206844 | [206844-mega-man-battle-network-legacy-collection-vol-1.json](./206844-mega-man-battle-network-legacy-collection-vol-1.json) |
 | Mega Man CD: Rock Version | 323330 | [323330-mega-man-cd-rock-version.json](./323330-mega-man-cd-rock-version.json) |
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man DOS Remake | 357337 | [357337-mega-man-dos-remake.json](./357337-mega-man-dos-remake.json) |
@@ -3611,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Renegade | 158554 | [158554-midnight-renegade.json](./158554-midnight-renegade.json) |
 | Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
+| Midnight Scenes: A Safe Place | 257261 | [257261-midnight-scenes-a-safe-place.json](./257261-midnight-scenes-a-safe-place.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
 | Midnight Snack | 324920 | [324920-midnight-snack.json](./324920-midnight-snack.json) |
 | Midnight Souls | 365083 | [365083-midnight-souls.json](./365083-midnight-souls.json) |
@@ -5100,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Generations Ultimate | 25623 | [25623-monster-hunter-generations-ultimate.json](./25623-monster-hunter-generations-ultimate.json) |
 | Monster Hunter Ltd: Part I | 256821 | [256821-monster-hunter-ltd-part-i.json](./256821-monster-hunter-ltd-part-i.json) |
 | Monster Hunter Ltd: Part II | 256822 | [256822-monster-hunter-ltd-part-ii.json](./256822-monster-hunter-ltd-part-ii.json) |
+| Monster Hunter Now | 247545 | [247545-monster-hunter-now.json](./247545-monster-hunter-now.json) |
 | Monster Hunter Now: Season 3 | 317847 | [317847-monster-hunter-now-season-3.json](./317847-monster-hunter-now-season-3.json) |
 | Monster Hunter Online | 26901 | [26901-monster-hunter-online.json](./26901-monster-hunter-online.json) |
 | Monster Hunter Portable 3rd HD Ver. | 78633 | [78633-monster-hunter-portable-3rd-hd-ver.json](./78633-monster-hunter-portable-3rd-hd-ver.json) |
@@ -5652,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
 | Mos Speedrun | 92279 | [92279-mos-speedrun.json](./92279-mos-speedrun.json) |
+| Mosa Lina | 258680 | [258680-mosa-lina.json](./258680-mosa-lina.json) |
 | Mosaic | 18929 | [18929-mosaic.json](./18929-mosaic.json) |
 | Mosaic Chronicles | 162850 | [162850-mosaic-chronicles.json](./162850-mosaic-chronicles.json) |
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
@@ -6927,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
+| MySims Kingdom | 201341 | [201341-mysims-kingdom.json](./201341-mysims-kingdom.json) |
 | MySims Kingdom | 336028 | [336028-mysims-kingdom.json](./336028-mysims-kingdom.json) |
 | MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
 | MySims SkyHeroes | 7093 | [7093-mysims-skyheroes.json](./7093-mysims-skyheroes.json) |
