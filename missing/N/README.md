@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerts!: Online | 142226 | [142226-nerts-online.json](./142226-nerts-online.json) |
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
 | Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
+| NES Classic Edition | 213361 | [213361-nes-classic-edition.json](./213361-nes-classic-edition.json) |
 | NES Remix 2 | 6402 | [6402-nes-remix-2.json](./6402-nes-remix-2.json) |
 | Nessa no Hoshi | 123585 | [123585-nessa-no-hoshi.json](./123585-nessa-no-hoshi.json) |
 | Nessie | 64442 | [64442-nessie.json](./64442-nessie.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Hope | 304058 | [304058-new-hope.json](./304058-new-hope.json) |
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
 | New Ice York | 104435 | [104435-new-ice-york.json](./104435-new-ice-york.json) |
+| New Joe & Mac: Caveman Ninja | 215620 | [215620-new-joe-and-mac-caveman-ninja.json](./215620-new-joe-and-mac-caveman-ninja.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
 | New Lands 1 | 252390 | [252390-new-lands-1.json](./252390-new-lands-1.json) |
 | New Lands: Legends of Tenkai - Collector's Edition | 369014 | [369014-new-lands-legends-of-tenkai-collectors-edition.json](./369014-new-lands-legends-of-tenkai-collectors-edition.json) |
@@ -1924,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs: Best Friends | 47727 | [47727-nintendogs-best-friends.json](./47727-nintendogs-best-friends.json) |
 | Nintendogs: Chihuahua & Friends | 47707 | [47707-nintendogs-chihuahua-and-friends.json](./47707-nintendogs-chihuahua-and-friends.json) |
 | Nintendogs: Labrador & Friends | 47944 | [47944-nintendogs-labrador-and-friends.json](./47944-nintendogs-labrador-and-friends.json) |
+| Ninza | 209419 | [209419-ninza.json](./209419-ninza.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
@@ -2106,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble's Life: Kingdom Reborn | 173301 | [173301-nobles-life-kingdom-reborn.json](./173301-nobles-life-kingdom-reborn.json) |
 | NobleEscape | 149953 | [149953-nobleescape.json](./149953-nobleescape.json) |
 | Nobodies: After Death | 190162 | [190162-nobodies-after-death.json](./190162-nobodies-after-death.json) |
+| Nobody Saves the World: Frozen Hearth | 214735 | [214735-nobody-saves-the-world-frozen-hearth.json](./214735-nobody-saves-the-world-frozen-hearth.json) |
 | Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
 | Nobody's Left | 250949 | [250949-nobodys-left.json](./250949-nobodys-left.json) |
 | Nobu Jump | 383934 | [383934-nobu-jump.json](./383934-nobu-jump.json) |
