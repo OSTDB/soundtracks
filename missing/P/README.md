@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Rose | 117605 | [117605-phantom-rose.json](./117605-phantom-rose.json) |
 | Phantom Rose Scarlet | 144106 | [144106-phantom-rose-scarlet.json](./144106-phantom-rose-scarlet.json) |
 | Phantom Shift | 307598 | [307598-phantom-shift.json](./307598-phantom-shift.json) |
+| Phantom Signal | 81703 | [81703-phantom-signal.json](./81703-phantom-signal.json) |
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
 | Phantom Tank | 321993 | [321993-phantom-tank.json](./321993-phantom-tank.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
@@ -4655,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
+| Primordian | 81241 | [81241-primordian.json](./81241-primordian.json) |
 | Primordio | 400906 | [400906-primordio.json](./400906-primordio.json) |
 | Primrose | 229792 | [229792-primrose.json](./229792-primrose.json) |
 | Primrose | 84809 | [84809-primrose.json](./84809-primrose.json) |
@@ -5969,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Wall | 110800 | [110800-puzzle-wall.json](./110800-puzzle-wall.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle Wishes | 29910 | [29910-puzzle-wishes.json](./29910-puzzle-wishes.json) |
+| Puzzle With Your Friends | 81215 | [81215-puzzle-with-your-friends.json](./81215-puzzle-with-your-friends.json) |
 | Puzzle Wiz | 58174 | [58174-puzzle-wiz.json](./58174-puzzle-wiz.json) |
 | Puzzle Wizards | 243266 | [243266-puzzle-wizards.json](./243266-puzzle-wizards.json) |
 | Puzzle Words | 304170 | [304170-puzzle-words.json](./304170-puzzle-words.json) |
