@@ -2795,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dick Tracy | 316843 | [316843-dick-tracy.json](./316843-dick-tracy.json) |
 | Dick Tracy | 316845 | [316845-dick-tracy.json](./316845-dick-tracy.json) |
 | Dick Tracy | 83907 | [83907-dick-tracy.json](./83907-dick-tracy.json) |
+| Dick Wilde 2 | 114006 | [114006-dick-wilde-2.json](./114006-dick-wilde-2.json) |
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
 | Dickland: Horror Quest | 253980 | [253980-dickland-horror-quest.json](./253980-dickland-horror-quest.json) |
 | Dickland: Racing | 259064 | [259064-dickland-racing.json](./259064-dickland-racing.json) |
@@ -5133,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
 | Drawn: Dark Flight - Collector's Edition | 33294 | [33294-drawn-dark-flight-collectors-edition.json](./33294-drawn-dark-flight-collectors-edition.json) |
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
+| Drawngeon: Dungeons of Ink and Paper | 113810 | [113810-drawngeon-dungeons-of-ink-and-paper.json](./113810-drawngeon-dungeons-of-ink-and-paper.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
@@ -5443,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive 4 Survival | 139390 | [139390-drive-4-survival.json](./139390-drive-4-survival.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
+| Drive Buy | 113404 | [113404-drive-buy.json](./113404-drive-buy.json) |
 | Drive Cars: Avoid Traffic | 255175 | [255175-drive-cars-avoid-traffic.json](./255175-drive-cars-avoid-traffic.json) |
 | Drive Dangerously! | 411661 | [411661-drive-dangerously.json](./411661-drive-dangerously.json) |
 | Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
@@ -6297,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 5: Xtreme Legends | 19618 | [19618-dynasty-warriors-5-xtreme-legends.json](./19618-dynasty-warriors-5-xtreme-legends.json) |
 | Dynasty Warriors 6: Empires | 19636 | [19636-dynasty-warriors-6-empires.json](./19636-dynasty-warriors-6-empires.json) |
 | Dynasty Warriors 7 | 6832 | [6832-dynasty-warriors-7.json](./6832-dynasty-warriors-7.json) |
+| Dynasty Warriors 7: Xtreme Legends - Definitive Edition | 113386 | [113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json](./113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
 | Dynasty Warriors 8: Xtreme Legends Definitive Edition | 111063 | [111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json](./111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
