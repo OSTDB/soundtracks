@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Silent Night | 404330 | [404330-endless-silent-night.json](./404330-endless-silent-night.json) |
+| Endless Snake | 401789 | [401789-endless-snake.json](./401789-endless-snake.json) |
 | Endless Soul Light Solitaire | 169867 | [169867-endless-soul-light-solitaire.json](./169867-endless-soul-light-solitaire.json) |
 | Endless Space 2: Deluxe Edition | 187986 | [187986-endless-space-2-deluxe-edition.json](./187986-endless-space-2-deluxe-edition.json) |
 | Endless Space 2: Vaulters | 82431 | [82431-endless-space-2-vaulters.json](./82431-endless-space-2-vaulters.json) |
@@ -1511,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Loot | 110310 | [110310-epic-loot.json](./110310-epic-loot.json) |
 | Epic Manager - Create Your Own Adventuring Agency | 26553 | [26553-epic-manager-create-your-own-adventuring-agency.json](./26553-epic-manager-create-your-own-adventuring-agency.json) |
 | Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
+| Epic O'Clock | 401765 | [401765-epic-oclock.json](./401765-epic-oclock.json) |
 | Epic of Tarot | 285963 | [285963-epic-of-tarot.json](./285963-epic-of-tarot.json) |
 | Epic Palace: Knossos | 147370 | [147370-epic-palace-knossos.json](./147370-epic-palace-knossos.json) |
 | Epic Pandemonium | 253961 | [253961-epic-pandemonium.json](./253961-epic-pandemonium.json) |
@@ -2800,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extremely Powerful Capybaras | 211746 | [211746-extremely-powerful-capybaras.json](./211746-extremely-powerful-capybaras.json) |
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | ExtremeTK | 136861 | [136861-extremetk.json](./136861-extremetk.json) |
+| Exuvia | 401845 | [401845-exuvia.json](./401845-exuvia.json) |
 | Exvelten | 153857 | [153857-exvelten.json](./153857-exvelten.json) |
 | Exzeal | 32926 | [32926-exzeal.json](./32926-exzeal.json) |
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
