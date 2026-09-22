@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindled Cavern | 29816 | [29816-kindled-cavern.json](./29816-kindled-cavern.json) |
 | Kindred | 295896 | [295896-kindred.json](./295896-kindred.json) |
 | Kindred | 313888 | [313888-kindred.json](./313888-kindred.json) |
+| Kindred [SnowBound] | 402522 | [402522-kindred-snowbound.json](./402522-kindred-snowbound.json) |
 | Kindred Fates | 129154 | [129154-kindred-fates.json](./129154-kindred-fates.json) |
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
