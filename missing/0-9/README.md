@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
+| 1 Screen Platformer | 97902 | [97902-1-screen-platformer.json](./97902-1-screen-platformer.json) |
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
 | 1 Thousand Deaths | 411656 | [411656-1-thousand-deaths.json](./411656-1-thousand-deaths.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules XVIII: Ghost Sheep | 355039 | [355039-12-labours-of-hercules-xviii-ghost-sheep.json](./355039-12-labours-of-hercules-xviii-ghost-sheep.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
 | 12 MiniBattles | 139356 | [139356-12-minibattles.json](./139356-12-minibattles.json) |
+| 12 Orbits | 90578 | [90578-12-orbits.json](./90578-12-orbits.json) |
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 1213: Episode 1 | 69821 | [69821-1213-episode-1.json](./69821-1213-episode-1.json) |
