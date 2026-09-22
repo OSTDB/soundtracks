@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
 | The Abbey: Director's cut | 115606 | [115606-the-abbey-directors-cut.json](./115606-the-abbey-directors-cut.json) |
 | The Abduction of Bacon at Dawn | 120356 | [120356-the-abduction-of-bacon-at-dawn.json](./120356-the-abduction-of-bacon-at-dawn.json) |
+| The Abominable Shitpit | 418772 | [418772-the-abominable-shitpit.json](./418772-the-abominable-shitpit.json) |
 | The Abominable Snowmen | 15586 | [15586-the-abominable-snowmen.json](./15586-the-abominable-snowmen.json) |
 | The Absence of Is | 136429 | [136429-the-absence-of-is.json](./136429-the-absence-of-is.json) |
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
@@ -8861,6 +8862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomorrow for Mar | 199608 | [199608-tomorrow-for-mar.json](./199608-tomorrow-for-mar.json) |
 | Tomorrow Won't Come For Those Without | 135658 | [135658-tomorrow-wont-come-for-those-without.json](./135658-tomorrow-wont-come-for-those-without.json) |
 | Tomorrowness | 377682 | [377682-tomorrowness.json](./377682-tomorrowness.json) |
+| TomoTomo | 418735 | [418735-tomotomo.json](./418735-tomotomo.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
 | Tomoyasu Hotei: Stolen Song | 44823 | [44823-tomoyasu-hotei-stolen-song.json](./44823-tomoyasu-hotei-stolen-song.json) |
 | Tomoyo After: It's a Wonderful Life | 7218 | [7218-tomoyo-after-its-a-wonderful-life.json](./7218-tomoyo-after-its-a-wonderful-life.json) |
@@ -10784,6 +10786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Header Sports | 220127 | [220127-triple-header-sports.json](./220127-triple-header-sports.json) |
 | Triple Jump | 247050 | [247050-triple-jump.json](./247050-triple-jump.json) |
 | Triple Jumping Sports | 85453 | [85453-triple-jumping-sports.json](./85453-triple-jumping-sports.json) |
+| Triple Pairing Mini Fandisc | 418770 | [418770-triple-pairing-mini-fandisc.json](./418770-triple-pairing-mini-fandisc.json) |
 | Triple Play 96 | 46245 | [46245-triple-play-96.json](./46245-triple-play-96.json) |
 | Triple Play 97 | 20649 | [20649-triple-play-97.json](./20649-triple-play-97.json) |
 | Triple Play 98 | 20813 | [20813-triple-play-98.json](./20813-triple-play-98.json) |
