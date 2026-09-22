@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball4 | 59450 | [59450-baseball4.json](./59450-baseball4.json) |
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
 | Basement | 68654 | [68654-basement.json](./68654-basement.json) |
+| Basement Breakout | 399857 | [399857-basement-breakout.json](./399857-basement-breakout.json) |
 | Basement Crawl | 19916 | [19916-basement-crawl.json](./19916-basement-crawl.json) |
 | Basement Dweller | 158158 | [158158-basement-dweller.json](./158158-basement-dweller.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
@@ -4809,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling at the Lake | 30190 | [30190-bowling-at-the-lake.json](./30190-bowling-at-the-lake.json) |
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
+| Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
 | Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
@@ -5767,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build a Bridge! | 114190 | [114190-build-a-bridge.json](./114190-build-a-bridge.json) |
 | Build a Flexible Brain! Shape Search | 401110 | [401110-build-a-flexible-brain-shape-search.json](./401110-build-a-flexible-brain-shape-search.json) |
 | Build a Game Universe | 34814 | [34814-build-a-game-universe.json](./34814-build-a-game-universe.json) |
+| Build A Queen: Pirate Edition | 399812 | [399812-build-a-queen-pirate-edition.json](./399812-build-a-queen-pirate-edition.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
 | Build Bridges | 87992 | [87992-build-bridges.json](./87992-build-bridges.json) |
@@ -5915,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumpy's Arcade Fantasy | 11724 | [11724-bumpys-arcade-fantasy.json](./11724-bumpys-arcade-fantasy.json) |
 | Bun | 172123 | [172123-bun.json](./172123-bun.json) |
 | Bun 'N' Gun | 265671 | [265671-bun-n-gun.json](./265671-bun-n-gun.json) |
+| Bun Buns: Complete Edition | 399813 | [399813-bun-buns-complete-edition.json](./399813-bun-buns-complete-edition.json) |
 | Bun Buns: Cozy DLC | 395688 | [395688-bun-buns-cozy-dlc.json](./395688-bun-buns-cozy-dlc.json) |
 | Bun Buns: Cute DLC | 395689 | [395689-bun-buns-cute-dlc.json](./395689-bun-buns-cute-dlc.json) |
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
