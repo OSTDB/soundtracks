@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Senpai: Waifu Warfare | 192379 | [192379-call-of-senpai-waifu-warfare.json](./192379-call-of-senpai-waifu-warfare.json) |
 | Call of Sentinels | 264152 | [264152-call-of-sentinels.json](./264152-call-of-sentinels.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
+| Call of the Elder Gods | 347882 | [347882-call-of-the-elder-gods.json](./347882-call-of-the-elder-gods.json) |
 | Call of the Ninja! | 35730 | [35730-call-of-the-ninja.json](./35730-call-of-the-ninja.json) |
 | Call of the Sea: Deluxe Edition | 154508 | [154508-call-of-the-sea-deluxe-edition.json](./154508-call-of-the-sea-deluxe-edition.json) |
 | Call of the Sea: Norah's Diary Edition | 170032 | [170032-call-of-the-sea-norahs-diary-edition.json](./170032-call-of-the-sea-norahs-diary-edition.json) |
@@ -1098,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
 | Castle Secrets: Between Day and Night | 87998 | [87998-castle-secrets-between-day-and-night.json](./87998-castle-secrets-between-day-and-night.json) |
 | Castle Shikigami 2 | 4149 | [4149-castle-shikigami-2.json](./4149-castle-shikigami-2.json) |
+| Castle Story | 3238 | [3238-castle-story.json](./3238-castle-story.json) |
 | Castle survival | 158047 | [158047-castle-survival.json](./158047-castle-survival.json) |
 | Castle Terroretra | 217868 | [217868-castle-terroretra.json](./217868-castle-terroretra.json) |
 | Castle Terroretra In Space | 217870 | [217870-castle-terroretra-in-space.json](./217870-castle-terroretra-in-space.json) |
@@ -2937,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities of the World Jigsaw Puzzles: Sao Paulo | 249298 | [249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json](./249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json) |
 | Cities of the World Jigsaw Puzzles: Venice | 249297 | [249297-cities-of-the-world-jigsaw-puzzles-venice.json](./249297-cities-of-the-world-jigsaw-puzzles-venice.json) |
 | Cities Skylines Mobile Edition | 237630 | [237630-cities-skylines-mobile-edition.json](./237630-cities-skylines-mobile-edition.json) |
+| Cities XL | 4212 | [4212-cities-xl.json](./4212-cities-xl.json) |
 | Cities XL 2012 | 4213 | [4213-cities-xl-2012.json](./4213-cities-xl-2012.json) |
 | Cities XL: Limited Edition | 29202 | [29202-cities-xl-limited-edition.json](./29202-cities-xl-limited-edition.json) |
 | Cities XXL | 10094 | [10094-cities-xxl.json](./10094-cities-xxl.json) |
@@ -5030,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covert Front: Episode 2 - Station on the Horizon | 69823 | [69823-covert-front-episode-2-station-on-the-horizon.json](./69823-covert-front-episode-2-station-on-the-horizon.json) |
 | Covert Front: Episode 3 - Night in Zurich | 129559 | [129559-covert-front-episode-3-night-in-zurich.json](./129559-covert-front-episode-3-night-in-zurich.json) |
 | Covert Front: Episode 4 - the Spark of Life | 129560 | [129560-covert-front-episode-4-the-spark-of-life.json](./129560-covert-front-episode-4-the-spark-of-life.json) |
+| Covert Ops: Nuclear Dawn | 4137 | [4137-covert-ops-nuclear-dawn.json](./4137-covert-ops-nuclear-dawn.json) |
 | Covetous | 138188 | [138188-covetous.json](./138188-covetous.json) |
 | Covid '99 | 140514 | [140514-covid-99.json](./140514-covid-99.json) |
 | Covid 2069 | 167758 | [167758-covid-2069.json](./167758-covid-2069.json) |
@@ -5633,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cringegolf | 296386 | [296386-cringegolf.json](./296386-cringegolf.json) |
 | Crisis Action | 86093 | [86093-crisis-action.json](./86093-crisis-action.json) |
 | Crisis Action VR | 51500 | [51500-crisis-action-vr.json](./51500-crisis-action-vr.json) |
+| Crisis Beat | 4136 | [4136-crisis-beat.json](./4136-crisis-beat.json) |
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
 | Crisis Core: Final Fantasy VII | 2407 | [2407-crisis-core-final-fantasy-vii.json](./2407-crisis-core-final-fantasy-vii.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
