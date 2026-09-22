@@ -2368,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
 | Goodnight | 299122 | [299122-goodnight.json](./299122-goodnight.json) |
 | GoodNight | 193404 | [193404-goodnight.json](./193404-goodnight.json) |
+| Goodnight, B | 411801 | [411801-goodnight-b.json](./411801-goodnight-b.json) |
 | Goodwad | 262439 | [262439-goodwad.json](./262439-goodwad.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
 | Goof Ball | 78033 | [78033-goof-ball.json](./78033-goof-ball.json) |
