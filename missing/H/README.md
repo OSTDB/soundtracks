@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Life + Castaway Paradise | 247494 | [247494-harvest-life-castaway-paradise.json](./247494-harvest-life-castaway-paradise.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Harvest Moon 64 | 3378 | [3378-harvest-moon-64.json](./3378-harvest-moon-64.json) |
+| Harvest Moon DS Cute | 47699 | [47699-harvest-moon-ds-cute.json](./47699-harvest-moon-ds-cute.json) |
 | Harvest Moon DS: Island of Happiness | 3387 | [3387-harvest-moon-ds-island-of-happiness.json](./3387-harvest-moon-ds-island-of-happiness.json) |
 | Harvest Moon GBC | 220737 | [220737-harvest-moon-gbc.json](./220737-harvest-moon-gbc.json) |
 | Harvest Moon: A Wonderful Life | 3384 | [3384-harvest-moon-a-wonderful-life.json](./3384-harvest-moon-a-wonderful-life.json) |
