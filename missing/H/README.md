@@ -4180,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid Blood | 347161 | [347161-hybrid-blood.json](./347161-hybrid-blood.json) |
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
+| Hybrids Arena | 33379 | [33379-hybrids-arena.json](./33379-hybrids-arena.json) |
 | Hybris | 12150 | [12150-hybris.json](./12150-hybris.json) |
 | Hybris: Pulse of Ruin | 103599 | [103599-hybris-pulse-of-ruin.json](./103599-hybris-pulse-of-ruin.json) |
 | Hyde | 192967 | [192967-hyde.json](./192967-hyde.json) |
