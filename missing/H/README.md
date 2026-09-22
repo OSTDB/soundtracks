@@ -2487,6 +2487,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Pointsman | 107124 | [107124-hidden-pointsman.json](./107124-hidden-pointsman.json) |
 | Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
 | Hidden Rabbit 2 | 412386 | [412386-hidden-rabbit-2.json](./412386-hidden-rabbit-2.json) |
+| Hidden Raccoons in Asia | 403185 | [403185-hidden-raccoons-in-asia.json](./403185-hidden-raccoons-in-asia.json) |
+| Hidden Raccoons in Summer | 403186 | [403186-hidden-raccoons-in-summer.json](./403186-hidden-raccoons-in-summer.json) |
 | Hidden Robo Cats | 287074 | [287074-hidden-robo-cats.json](./287074-hidden-robo-cats.json) |
 | Hidden Robo Cats: Bonus Level | 289453 | [289453-hidden-robo-cats-bonus-level.json](./289453-hidden-robo-cats-bonus-level.json) |
 | Hidden Runaway | 54091 | [54091-hidden-runaway.json](./54091-hidden-runaway.json) |
@@ -4049,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
 | Human Evolution Clicker Game: Rise of Mankind | 100889 | [100889-human-evolution-clicker-game-rise-of-mankind.json](./100889-human-evolution-clicker-game-rise-of-mankind.json) |
 | Human Farm | 375935 | [375935-human-farm.json](./375935-human-farm.json) |
+| Human Host | 403164 | [403164-human-host.json](./403164-human-host.json) |
 | Human Milk Seller | 291467 | [291467-human-milk-seller.json](./291467-human-milk-seller.json) |
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
 | Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
