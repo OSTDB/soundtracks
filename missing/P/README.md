@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Cats | 411573 | [411573-paddle-cats.json](./411573-paddle-cats.json) |
 | Paddle Combat | 164441 | [164441-paddle-combat.json](./164441-paddle-combat.json) |
 | Paddle Fall | 115454 | [115454-paddle-fall.json](./115454-paddle-fall.json) |
+| Paddle Momentum | 413904 | [413904-paddle-momentum.json](./413904-paddle-momentum.json) |
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
@@ -1734,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petka 4: Den' Nezavisimosti | 52758 | [52758-petka-4-den-nezavisimosti.json](./52758-petka-4-den-nezavisimosti.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
 | Petrichor | 60540 | [60540-petrichor.json](./60540-petrichor.json) |
+| Petricor | 413905 | [413905-petricor.json](./413905-petricor.json) |
 | Petrifaction | 97825 | [97825-petrifaction.json](./97825-petrifaction.json) |
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
