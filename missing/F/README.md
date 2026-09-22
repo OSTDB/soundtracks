@@ -4189,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggie: A Retro Platformer | 211968 | [211968-froggie-a-retro-platformer.json](./211968-froggie-a-retro-platformer.json) |
 | Froggin' Around | 265777 | [265777-froggin-around.json](./265777-froggin-around.json) |
 | Froggo | 115678 | [115678-froggo.json](./115678-froggo.json) |
+| Froggo's Quest | 418715 | [418715-froggos-quest.json](./418715-froggos-quest.json) |
 | Froggy | 227828 | [227828-froggy.json](./227828-froggy.json) |
 | Froggy Castle | 243405 | [243405-froggy-castle.json](./243405-froggy-castle.json) |
 | Froggy Castle 2 | 243407 | [243407-froggy-castle-2.json](./243407-froggy-castle-2.json) |
@@ -4197,6 +4198,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Drink Bar! | 329965 | [329965-froggy-drink-bar.json](./329965-froggy-drink-bar.json) |
 | Froggy Family Fort | 175963 | [175963-froggy-family-fort.json](./175963-froggy-family-fort.json) |
 | Froggy Jump | 52185 | [52185-froggy-jump.json](./52185-froggy-jump.json) |
+| Froggy Revenge | 418731 | [418731-froggy-revenge.json](./418731-froggy-revenge.json) |
+| Froggy! | 418659 | [418659-froggy.json](./418659-froggy.json) |
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | FrogLake | 267464 | [267464-froglake.json](./267464-froglake.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
