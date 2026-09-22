@@ -1938,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraken | 74458 | [74458-kraken.json](./74458-kraken.json) |
 | Kraken Attack | 318228 | [318228-kraken-attack.json](./318228-kraken-attack.json) |
 | Kraken City | 325652 | [325652-kraken-city.json](./325652-kraken-city.json) |
+| Kraken Cleaning | 401776 | [401776-kraken-cleaning.json](./401776-kraken-cleaning.json) |
 | Kraken Invasion: RPG Idle | 233504 | [233504-kraken-invasion-rpg-idle.json](./233504-kraken-invasion-rpg-idle.json) |
 | Krakout | 37171 | [37171-krakout.json](./37171-krakout.json) |
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
@@ -2003,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
 | Kubika | 390136 | [390136-kubika.json](./390136-kubika.json) |
 | Kubikon 3D: Arctic DLC | 372539 | [372539-kubikon-3d-arctic-dlc.json](./372539-kubikon-3d-arctic-dlc.json) |
+| Kubikon 3D: Complete Edition | 401780 | [401780-kubikon-3d-complete-edition.json](./401780-kubikon-3d-complete-edition.json) |
 | Kubikon 3D: Cyberpunk DLC | 372551 | [372551-kubikon-3d-cyberpunk-dlc.json](./372551-kubikon-3d-cyberpunk-dlc.json) |
 | Kubikon 3D: Pirates DLC | 372550 | [372550-kubikon-3d-pirates-dlc.json](./372550-kubikon-3d-pirates-dlc.json) |
 | Kubikon 3D: Warehouse DLC | 372552 | [372552-kubikon-3d-warehouse-dlc.json](./372552-kubikon-3d-warehouse-dlc.json) |
