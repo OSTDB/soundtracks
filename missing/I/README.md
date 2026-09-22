@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Summoners: Heroes VIP | 100756 | [100756-idle-summoners-heroes-vip.json](./100756-idle-summoners-heroes-vip.json) |
 | Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
 | Idle Tick | 274043 | [274043-idle-tick.json](./274043-idle-tick.json) |
+| Idle Tides | 409814 | [409814-idle-tides.json](./409814-idle-tides.json) |
 | Idle Tiers | 369577 | [369577-idle-tiers.json](./369577-idle-tiers.json) |
 | Idle Tower Tycoon | 101522 | [101522-idle-tower-tycoon.json](./101522-idle-tower-tycoon.json) |
 | Idle Towers | 357844 | [357844-idle-towers.json](./357844-idle-towers.json) |
@@ -2062,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironborne | 391038 | [391038-ironborne.json](./391038-ironborne.json) |
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | Ironclads Anthology | 50855 | [50855-ironclads-anthology.json](./50855-ironclads-anthology.json) |
+| Irondrive | 409778 | [409778-irondrive.json](./409778-irondrive.json) |
 | IronFall: Invasion | 8610 | [8610-ironfall-invasion.json](./8610-ironfall-invasion.json) |
 | Irongate Arena | 189034 | [189034-irongate-arena.json](./189034-irongate-arena.json) |
 | Ironguard | 32973 | [32973-ironguard.json](./32973-ironguard.json) |
