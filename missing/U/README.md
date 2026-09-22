@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncolor for iPad | 108460 | [108460-uncolor-for-ipad.json](./108460-uncolor-for-ipad.json) |
 | Uncommon Valor: Campaign for the South Pacific | 69881 | [69881-uncommon-valor-campaign-for-the-south-pacific.json](./69881-uncommon-valor-campaign-for-the-south-pacific.json) |
 | Uncompromising Mode | 294684 | [294684-uncompromising-mode.json](./294684-uncompromising-mode.json) |
+| Uncompromising Trash | 29570 | [29570-uncompromising-trash.json](./29570-uncompromising-trash.json) |
 | Unconditional Fate's Season 1 Wrap Up! | 300001 | [300001-unconditional-fates-season-1-wrap-up.json](./300001-unconditional-fates-season-1-wrap-up.json) |
 | Unconquered Castle | 109632 | [109632-unconquered-castle.json](./109632-unconquered-castle.json) |
 | Unconventional Ragdoll Game | 151525 | [151525-unconventional-ragdoll-game.json](./151525-unconventional-ragdoll-game.json) |
