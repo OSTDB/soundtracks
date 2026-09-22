@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Attack | 78984 | [78984-ball-attack.json](./78984-ball-attack.json) |
 | Ball Blast: Platinum Edition | 395674 | [395674-ball-blast-platinum-edition.json](./395674-ball-blast-platinum-edition.json) |
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
+| Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
 | Ball Drop | 243703 | [243703-ball-drop.json](./243703-ball-drop.json) |
 | Ball Drop | 338188 | [338188-ball-drop.json](./338188-ball-drop.json) |
@@ -3953,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Jay Joyride | 195628 | [195628-blue-jay-joyride.json](./195628-blue-jay-joyride.json) |
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
 | Blue Lemon | 126656 | [126656-blue-lemon.json](./126656-blue-lemon.json) |
+| Blue Man Adventure | 412516 | [412516-blue-man-adventure.json](./412516-blue-man-adventure.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
 | Blue Moon | 221990 | [221990-blue-moon.json](./221990-blue-moon.json) |
 | Blue Mushrooms | 277036 | [277036-blue-mushrooms.json](./277036-blue-mushrooms.json) |
@@ -4184,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku to Joi no Shinsatsu Nisshi: Premium Edition | 146113 | [146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json](./146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json) |
 | Boku to Kare no Kiken na Doukyo Seikatsu | 203875 | [203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json](./203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json) |
 | Boku to Nurse no Kenshuu Nisshi: Premium Edition | 146119 | [146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json](./146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json) |
+| Boku to Tsuri Nikki | 412519 | [412519-boku-to-tsuri-nikki.json](./412519-boku-to-tsuri-nikki.json) |
 | Boku to Wanko | 58819 | [58819-boku-to-wanko.json](./58819-boku-to-wanko.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D - Kankuu All Stars | 222426 | [222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json](./222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D Haneda with JAL | 78708 | [78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json](./78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json) |
