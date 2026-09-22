@@ -6262,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
+| Sorcery Jokers | 59780 | [59780-sorcery-jokers.json](./59780-sorcery-jokers.json) |
 | Sorcery Saga: Curse of the Great Curry God | 19915 | [19915-sorcery-saga-curse-of-the-great-curry-god.json](./19915-sorcery-saga-curse-of-the-great-curry-god.json) |
 | Sorcery Tempest | 83261 | [83261-sorcery-tempest.json](./83261-sorcery-tempest.json) |
 | Sorcery! | 88541 | [88541-sorcery.json](./88541-sorcery.json) |
@@ -7092,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Special Transport Simulator 2013 | 54384 | [54384-special-transport-simulator-2013.json](./54384-special-transport-simulator-2013.json) |
+| Species: Artificial Life, Real Evolution | 57787 | [57787-species-artificial-life-real-evolution.json](./57787-species-artificial-life-real-evolution.json) |
 | Specimen #08 | 262963 | [262963-specimen-08.json](./262963-specimen-08.json) |
 | Specimen #14 | 263006 | [263006-specimen-14.json](./263006-specimen-14.json) |
 | Specimen 15 | 263009 | [263009-specimen-15.json](./263009-specimen-15.json) |
@@ -8183,6 +8185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
 | Star Gagnant | 247587 | [247587-star-gagnant.json](./247587-star-gagnant.json) |
 | Star General | 74087 | [74087-star-general.json](./74087-star-general.json) |
+| Star Ghost | 58873 | [58873-star-ghost.json](./58873-star-ghost.json) |
 | Star Gladiator Episode I: Final Crusade | 14680 | [14680-star-gladiator-episode-i-final-crusade.json](./14680-star-gladiator-episode-i-final-crusade.json) |
 | Star Gods | 125417 | [125417-star-gods.json](./125417-star-gods.json) |
 | Star Goose! | 13083 | [13083-star-goose.json](./13083-star-goose.json) |
@@ -8937,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel | 74310 | [74310-steel.json](./74310-steel.json) |
 | Steel and Flesh | 174850 | [174850-steel-and-flesh.json](./174850-steel-and-flesh.json) |
 | Steel Artery: Train City Builder | 371311 | [371311-steel-artery-train-city-builder.json](./371311-steel-artery-train-city-builder.json) |
+| Steel Assault | 56668 | [56668-steel-assault.json](./56668-steel-assault.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
 | Steel Civilizations | 176373 | [176373-steel-civilizations.json](./176373-steel-civilizations.json) |
 | Steel Commanders | 323191 | [323191-steel-commanders.json](./323191-steel-commanders.json) |
@@ -9090,6 +9094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
+| Steppy Pants | 57944 | [57944-steppy-pants.json](./57944-steppy-pants.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
 | Steredenn | 14146 | [14146-steredenn.json](./14146-steredenn.json) |
