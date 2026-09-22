@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhole | 100229 | [100229-manhole.json](./100229-manhole.json) |
 | Manhole-e: Classic Version | 92847 | [92847-manhole-e-classic-version.json](./92847-manhole-e-classic-version.json) |
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
+| Manhunter | 17415 | [17415-manhunter.json](./17415-manhunter.json) |
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
 | Mani Yugi Tokoyo | 96106 | [96106-mani-yugi-tokoyo.json](./96106-mani-yugi-tokoyo.json) |
 | Mania | 91736 | [91736-mania.json](./91736-mania.json) |
@@ -3113,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
 | Metal Combat | 209523 | [209523-metal-combat.json](./209523-metal-combat.json) |
 | Metal Crisis | 368579 | [368579-metal-crisis.json](./368579-metal-crisis.json) |
+| Metal Dead | 17433 | [17433-metal-dead.json](./17433-metal-dead.json) |
 | Metal Detecting Simulator | 235768 | [235768-metal-detecting-simulator.json](./235768-metal-detecting-simulator.json) |
 | Metal Dogs | 144769 | [144769-metal-dogs.json](./144769-metal-dogs.json) |
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
@@ -4275,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
 | Minute Marriage | 304760 | [304760-minute-marriage.json](./304760-minute-marriage.json) |
+| Minute to Win It | 20162 | [20162-minute-to-win-it.json](./20162-minute-to-win-it.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
@@ -5772,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
 | Motion Wulin | 373515 | [373515-motion-wulin.json](./373515-motion-wulin.json) |
 | Motioning Monument | 314679 | [314679-motioning-monument.json](./314679-motioning-monument.json) |
+| MotionSports: Adrenaline | 20215 | [20215-motionsports-adrenaline.json](./20215-motionsports-adrenaline.json) |
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
 | Moto Extreme | 70342 | [70342-moto-extreme.json](./70342-moto-extreme.json) |
 | Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
@@ -5862,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motoscafo | 376546 | [376546-motoscafo.json](./376546-motoscafo.json) |
 | MotoX | 224638 | [224638-motox.json](./224638-motox.json) |
 | Mots Croisés | 93557 | [93557-mots-croises.json](./93557-mots-croises.json) |
+| Motte Island | 20064 | [20064-motte-island.json](./20064-motte-island.json) |
 | Motteke Tamago | 42015 | [42015-motteke-tamago.json](./42015-motteke-tamago.json) |
 | Motteke Tamago Ganbare Kamonohashi | 62206 | [62206-motteke-tamago-ganbare-kamonohashi.json](./62206-motteke-tamago-ganbare-kamonohashi.json) |
 | Mottia: The Gem Hunters | 215914 | [215914-mottia-the-gem-hunters.json](./215914-mottia-the-gem-hunters.json) |
@@ -6441,6 +6446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant League Football | 46254 | [46254-mutant-league-football.json](./46254-mutant-league-football.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
 | Mutant Mudds Collection + Xeodrifter | 248705 | [248705-mutant-mudds-collection-xeodrifter.json](./248705-mutant-mudds-collection-xeodrifter.json) |
+| Mutant Mudds Super Challenge | 20100 | [20100-mutant-mudds-super-challenge.json](./20100-mutant-mudds-super-challenge.json) |
 | Mutant Night | 38562 | [38562-mutant-night.json](./38562-mutant-night.json) |
 | Mutant Rampage: Bodyslam | 45912 | [45912-mutant-rampage-bodyslam.json](./45912-mutant-rampage-bodyslam.json) |
 | Mutant Roadkill | 233532 | [233532-mutant-roadkill.json](./233532-mutant-roadkill.json) |
@@ -7021,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Incident at Pendle Tower | 187973 | [187973-mystery-case-files-incident-at-pendle-tower.json](./187973-mystery-case-files-incident-at-pendle-tower.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition | 118336 | [118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json](./118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
+| Mystery Case Files: MillionHeir | 20276 | [20276-mystery-case-files-millionheir.json](./20276-mystery-case-files-millionheir.json) |
 | Mystery Case Files: Prime Suspects | 5510 | [5510-mystery-case-files-prime-suspects.json](./5510-mystery-case-files-prime-suspects.json) |
 | Mystery Case Files: The Black Veil | 56172 | [56172-mystery-case-files-the-black-veil.json](./56172-mystery-case-files-the-black-veil.json) |
 | Mystery Case Files: The Dalimar Legacy - Collector's Edition | 243787 | [243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json](./243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json) |
