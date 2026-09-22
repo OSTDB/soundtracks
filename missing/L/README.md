@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
 | Life is Strange Collection | 361759 | [361759-life-is-strange-collection.json](./361759-life-is-strange-collection.json) |
+| Life Is Strange: Arcadia Bay Collection | 213355 | [213355-life-is-strange-arcadia-bay-collection.json](./213355-life-is-strange-arcadia-bay-collection.json) |
 | Life is Strange: Before the Storm - Bonus Episode: Farewell | 91247 | [91247-life-is-strange-before-the-storm-bonus-episode-farewell.json](./91247-life-is-strange-before-the-storm-bonus-episode-farewell.json) |
 | Life is Strange: Before the Storm - Deluxe Edition | 53273 | [53273-life-is-strange-before-the-storm-deluxe-edition.json](./53273-life-is-strange-before-the-storm-deluxe-edition.json) |
 | Life is Strange: Before the Storm - Vinyl Edition | 82388 | [82388-life-is-strange-before-the-storm-vinyl-edition.json](./82388-life-is-strange-before-the-storm-vinyl-edition.json) |
@@ -2963,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Undying: A Kiss Before Dawn | 302953 | [302953-love-undying-a-kiss-before-dawn.json](./302953-love-undying-a-kiss-before-dawn.json) |
 | Love Verne | 183585 | [183585-love-verne.json](./183585-love-verne.json) |
 | Love Vibe: Aria | 103464 | [103464-love-vibe-aria.json](./103464-love-vibe-aria.json) |
+| Love wish | 129344 | [129344-love-wish.json](./129344-love-wish.json) |
 | Love with Kadyrov | 383525 | [383525-love-with-kadyrov.json](./383525-love-with-kadyrov.json) |
 | Love x Fantasy: Horny Elf | 385057 | [385057-love-x-fantasy-horny-elf.json](./385057-love-x-fantasy-horny-elf.json) |
 | Love x Time | 235743 | [235743-love-x-time.json](./235743-love-x-time.json) |
