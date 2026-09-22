@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat | 10387 | [10387-habitat.json](./10387-habitat.json) |
 | Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
+| Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
 | Hachiemon | 49595 | [49595-hachiemon.json](./49595-hachiemon.json) |
@@ -3775,9 +3776,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
+| House Cleaning Simulator | 401126 | [401126-house-cleaning-simulator.json](./401126-house-cleaning-simulator.json) |
 | House Designer | 171625 | [171625-house-designer.json](./171625-house-designer.json) |
 | House Designer 2 | 274026 | [274026-house-designer-2.json](./274026-house-designer-2.json) |
 | House Designer: Fix & Flip | 107134 | [107134-house-designer-fix-and-flip.json](./107134-house-designer-fix-and-flip.json) |
+| House Fixer Simulator | 401125 | [401125-house-fixer-simulator.json](./401125-house-fixer-simulator.json) |
 | House Flipper 2 | 191797 | [191797-house-flipper-2.json](./191797-house-flipper-2.json) |
 | House Flipper 2: Co-op DLC | 402395 | [402395-house-flipper-2-co-op-dlc.json](./402395-house-flipper-2-co-op-dlc.json) |
 | House Flipper 2: Pets | 370700 | [370700-house-flipper-2-pets.json](./370700-house-flipper-2-pets.json) |
