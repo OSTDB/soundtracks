@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus.1 | 25947 | [25947-icarus-1.json](./25947-icarus-1.json) |
 | ICBM: Escalation - Endless October | 372533 | [372533-icbm-escalation-endless-october.json](./372533-icbm-escalation-endless-october.json) |
 | Ice | 342173 | [342173-ice.json](./342173-ice.json) |
+| Ice Age | 400477 | [400477-ice-age.json](./400477-ice-age.json) |
 | Ice Age Adventures | 39202 | [39202-ice-age-adventures.json](./39202-ice-age-adventures.json) |
 | Ice Age Hunter: Evolution-U | 100963 | [100963-ice-age-hunter-evolution-u.json](./100963-ice-age-hunter-evolution-u.json) |
 | Ice Age Race | 105986 | [105986-ice-age-race.json](./105986-ice-age-race.json) |
@@ -1674,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Integer | 178030 | [178030-integer.json](./178030-integer.json) |
 | Integrifix | 335845 | [335845-integrifix.json](./335845-integrifix.json) |
 | Integrity | 387500 | [387500-integrity.json](./387500-integrity.json) |
+| Intelektronica | 400468 | [400468-intelektronica.json](./400468-intelektronica.json) |
 | Intellectual Decathlon | 401790 | [401790-intellectual-decathlon.json](./401790-intellectual-decathlon.json) |
 | Intelligence Trader | 104325 | [104325-intelligence-trader.json](./104325-intelligence-trader.json) |
 | Intelligence: 314th Clash | 58809 | [58809-intelligence-314th-clash.json](./58809-intelligence-314th-clash.json) |
