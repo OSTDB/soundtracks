@@ -3577,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter III : Who Is The Void? | 318199 | [318199-clutter-iii-who-is-the-void.json](./318199-clutter-iii-who-is-the-void.json) |
 | Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
 | Clutter Puzzle Magazine: Vol. 16 No. 2 - Collector's Edition | 298695 | [298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json](./298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json) |
+| Cmoar VR Cinema | 31318 | [31318-cmoar-vr-cinema.json](./31318-cmoar-vr-cinema.json) |
 | CMYP | 234603 | [234603-cmyp.json](./234603-cmyp.json) |
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
 | Co-Jump, Fly | 127090 | [127090-co-jump-fly.json](./127090-co-jump-fly.json) |
@@ -5319,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craps | 386682 | [386682-craps.json](./386682-craps.json) |
 | Craps HD | 89674 | [89674-craps-hd.json](./89674-craps-hd.json) |
 | CrapShoot | 319239 | [319239-crapshoot.json](./319239-crapshoot.json) |
+| CrapsVR | 31932 | [31932-crapsvr.json](./31932-crapsvr.json) |
 | Crash 'n Burn | 95438 | [95438-crash-n-burn.json](./95438-crash-n-burn.json) |
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
 | Crash 'n' the Boys: Street Challenge | 48291 | [48291-crash-n-the-boys-street-challenge.json](./48291-crash-n-the-boys-street-challenge.json) |
