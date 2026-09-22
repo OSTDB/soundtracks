@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack A Rat VR | 147427 | [147427-whack-a-rat-vr.json](./147427-whack-a-rat-vr.json) |
 | Whack a Vote: Hammering the Polls | 30785 | [30785-whack-a-vote-hammering-the-polls.json](./30785-whack-a-vote-hammering-the-polls.json) |
 | Whack First!: Fight the Moles | 212268 | [212268-whack-first-fight-the-moles.json](./212268-whack-first-fight-the-moles.json) |
+| Whack the Serial Killer | 90514 | [90514-whack-the-serial-killer.json](./90514-whack-the-serial-killer.json) |
 | Whack Your Computer | 356717 | [356717-whack-your-computer.json](./356717-whack-your-computer.json) |
 | Whack Your Ex | 193853 | [193853-whack-your-ex.json](./193853-whack-your-ex.json) |
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
