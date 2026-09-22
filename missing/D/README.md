@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
 | Data Trader | 399058 | [399058-data-trader.json](./399058-data-trader.json) |
 | Data.Expand | 260146 | [260146-data-expand.json](./260146-data-expand.json) |
+| Database Detective: Minor Crimes Division | 399848 | [399848-database-detective-minor-crimes-division.json](./399848-database-detective-minor-crimes-division.json) |
 | Dataclysm | 327855 | [327855-dataclysm.json](./327855-dataclysm.json) |
 | DataFall | 393464 | [393464-datafall.json](./393464-datafall.json) |
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disoriented | 76212 | [76212-disoriented.json](./76212-disoriented.json) |
 | Dispersio | 26489 | [26489-dispersio.json](./26489-dispersio.json) |
 | Dispersio 2 | 143652 | [143652-dispersio-2.json](./143652-dispersio-2.json) |
+| Dispersion Storm | 399835 | [399835-dispersion-storm.json](./399835-dispersion-storm.json) |
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
 | Displaced Defense | 253974 | [253974-displaced-defense.json](./253974-displaced-defense.json) |
 | Disposable Heroes | 14037 | [14037-disposable-heroes.json](./14037-disposable-heroes.json) |
