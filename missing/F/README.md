@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous Angela: New York to LA | 124171 | [124171-fabulous-angela-new-york-to-la.json](./124171-fabulous-angela-new-york-to-la.json) |
 | Fabulous Finds | 67652 | [67652-fabulous-finds.json](./67652-fabulous-finds.json) |
 | Fabulous Samurai Star | 256325 | [256325-fabulous-samurai-star.json](./256325-fabulous-samurai-star.json) |
+| Fabulous: Angela's Sweet Revenge | 88336 | [88336-fabulous-angelas-sweet-revenge.json](./88336-fabulous-angelas-sweet-revenge.json) |
 | Fabulous: Angela's Wedding Disaster | 99076 | [99076-fabulous-angelas-wedding-disaster.json](./99076-fabulous-angelas-wedding-disaster.json) |
 | Facada | 395036 | [395036-facada.json](./395036-facada.json) |
 | Façade | 11740 | [11740-facade.json](./11740-facade.json) |
@@ -903,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Adventure Double Pack: Orange Season + Garden Witch Life | 381716 | [381716-farming-adventure-double-pack-orange-season-garden-witch-life.json](./381716-farming-adventure-double-pack-orange-season-garden-witch-life.json) |
 | Farming Homestead | 411570 | [411570-farming-homestead.json](./411570-farming-homestead.json) |
 | Farming Life Simulator | 373655 | [373655-farming-life-simulator.json](./373655-farming-life-simulator.json) |
+| Farming PRO 2015 | 88257 | [88257-farming-pro-2015.json](./88257-farming-pro-2015.json) |
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
 | Farming Sim 25: Drive Tractors, Combine, Trucks | 329568 | [329568-farming-sim-25-drive-tractors-combine-trucks.json](./329568-farming-sim-25-drive-tractors-combine-trucks.json) |
 | Farming Simulator | 81357 | [81357-farming-simulator.json](./81357-farming-simulator.json) |
@@ -2653,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulator | 69838 | [69838-flight-simulator.json](./69838-flight-simulator.json) |
 | Flight Simulator 2025 VR | 335088 | [335088-flight-simulator-2025-vr.json](./335088-flight-simulator-2025-vr.json) |
 | Flight Simulator Airplane Game | 261914 | [261914-flight-simulator-airplane-game.json](./261914-flight-simulator-airplane-game.json) |
+| Flight Simulator Xtreme | 88109 | [88109-flight-simulator-xtreme.json](./88109-flight-simulator-xtreme.json) |
 | Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
 | Flight Time | 347681 | [347681-flight-time.json](./347681-flight-time.json) |
 | Flight Unlimited 2K17 | 87550 | [87550-flight-unlimited-2k17.json](./87550-flight-unlimited-2k17.json) |
