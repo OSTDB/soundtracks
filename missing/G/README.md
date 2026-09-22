@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Fever | 22731 | [22731-gold-fever.json](./22731-gold-fever.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
+| Gold Miner | 194800 | [194800-gold-miner.json](./194800-gold-miner.json) |
 | Gold Miner 8bit HD | 91124 | [91124-gold-miner-8bit-hd.json](./91124-gold-miner-8bit-hd.json) |
 | Gold Miner Challenger | 215360 | [215360-gold-miner-challenger.json](./215360-gold-miner-challenger.json) |
 | Gold Miner Joe | 94580 | [94580-gold-miner-joe.json](./94580-gold-miner-joe.json) |
@@ -2468,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius | 262394 | [262394-gradius.json](./262394-gradius.json) |
 | Gradius | 262395 | [262395-gradius.json](./262395-gradius.json) |
 | Gradius Galaxies | 77990 | [77990-gradius-galaxies.json](./77990-gradius-galaxies.json) |
+| Gradius II | 213190 | [213190-gradius-ii.json](./213190-gradius-ii.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
