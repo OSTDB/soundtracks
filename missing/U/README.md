@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercraft | 331345 | [331345-undercraft.json](./331345-undercraft.json) |
 | Undercreator | 329717 | [329717-undercreator.json](./329717-undercreator.json) |
 | Undercrewed | 89325 | [89325-undercrewed.json](./89325-undercrewed.json) |
+| Undercurrent | 399199 | [399199-undercurrent.json](./399199-undercurrent.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underdone | 47999 | [47999-underdone.json](./47999-underdone.json) |
 | UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
@@ -789,6 +790,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
 | Union of Koi Musubi | 53879 | [53879-union-of-koi-musubi.json](./53879-union-of-koi-musubi.json) |
 | UniOne | 47994 | [47994-unione.json](./47994-unione.json) |
+| Unionism Quartet | 399196 | [399196-unionism-quartet.json](./399196-unionism-quartet.json) |
+| Unionism Quartet A3-Days | 399197 | [399197-unionism-quartet-a3-days.json](./399197-unionism-quartet-a3-days.json) |
+| Unionism Quartet B2-Style | 399198 | [399198-unionism-quartet-b2-style.json](./399198-unionism-quartet-b2-style.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
 | Uniracers | 16743 | [16743-uniracers.json](./16743-uniracers.json) |
 | Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
@@ -988,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unroaded | 115440 | [115440-unroaded.json](./115440-unroaded.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
 | Unsafe Express | 173282 | [173282-unsafe-express.json](./173282-unsafe-express.json) |
+| Unseasonable Flowering | 399221 | [399221-unseasonable-flowering.json](./399221-unseasonable-flowering.json) |
 | Unshaded | 167783 | [167783-unshaded.json](./167783-unshaded.json) |
 | Unshaken | 217405 | [217405-unshaken.json](./217405-unshaken.json) |
 | Unsighted | 111815 | [111815-unsighted.json](./111815-unsighted.json) |
