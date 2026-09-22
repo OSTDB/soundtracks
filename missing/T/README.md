@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Commonwealth | 356619 | [356619-tales-from-the-commonwealth.json](./356619-tales-from-the-commonwealth.json) |
 | Tales from the Crossing: The Captain's Chair | 195126 | [195126-tales-from-the-crossing-the-captains-chair.json](./195126-tales-from-the-crossing-the-captains-chair.json) |
 | Tales From the Dark Manor | 414324 | [414324-tales-from-the-dark-manor.json](./414324-tales-from-the-dark-manor.json) |
+| Tales From The Dragon Mountain: The Strix | 17060 | [17060-tales-from-the-dragon-mountain-the-strix.json](./17060-tales-from-the-dragon-mountain-the-strix.json) |
 | Tales From the Herd | 277296 | [277296-tales-from-the-herd.json](./277296-tales-from-the-herd.json) |
 | Tales from the Recycle Bin | 184035 | [184035-tales-from-the-recycle-bin.json](./184035-tales-from-the-recycle-bin.json) |
 | Tales from the Road | 135054 | [135054-tales-from-the-road.json](./135054-tales-from-the-road.json) |
@@ -1160,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
 | Tech Corp. | 107992 | [107992-tech-corp.json](./107992-tech-corp.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
+| Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
 | Tech Warriors Giga Fighters | 218015 | [218015-tech-warriors-giga-fighters.json](./218015-tech-warriors-giga-fighters.json) |
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
@@ -5885,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sky May Be | 252213 | [252213-the-sky-may-be.json](./252213-the-sky-may-be.json) |
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
 | The Slater | 104815 | [104815-the-slater.json](./104815-the-slater.json) |
+| The Slaughter: Act One | 16995 | [16995-the-slaughter-act-one.json](./16995-the-slaughter-act-one.json) |
 | The Slaughtering Grounds | 13374 | [13374-the-slaughtering-grounds.json](./13374-the-slaughtering-grounds.json) |
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
 | The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
