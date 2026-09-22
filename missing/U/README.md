@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground | 77009 | [77009-underground.json](./77009-underground.json) |
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
 | Underground Blossom | 246917 | [246917-underground-blossom.json](./246917-underground-blossom.json) |
+| Underground Business | 406924 | [406924-underground-business.json](./406924-underground-business.json) |
 | Underground Defense Force: Sword and Sorcery and Swarm of Insects | 270108 | [270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json](./270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json) |
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
@@ -817,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Combat | 70975 | [70975-universal-combat.json](./70975-universal-combat.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Flight Simulator | 207890 | [207890-universal-flight-simulator.json](./207890-universal-flight-simulator.json) |
+| Universal Harvest: Incremental | 406890 | [406890-universal-harvest-incremental.json](./406890-universal-harvest-incremental.json) |
 | Universal Hero | 30209 | [30209-universal-hero.json](./30209-universal-hero.json) |
 | Universal History of Light | 60784 | [60784-universal-history-of-light.json](./60784-universal-history-of-light.json) |
 | Universal Hologram | 359525 | [359525-universal-hologram.json](./359525-universal-hologram.json) |
