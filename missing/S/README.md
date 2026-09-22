@@ -5306,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneezeman | 189099 | [189099-sneezeman.json](./189099-sneezeman.json) |
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
+| Snekoban | 393124 | [393124-snekoban.json](./393124-snekoban.json) |
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
 | Snik | 34795 | [34795-snik.json](./34795-snik.json) |
@@ -5965,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
 | Son of the Mask | 265638 | [265638-son-of-the-mask.json](./265638-son-of-the-mask.json) |
+| Sonafleki | 393153 | [393153-sonafleki.json](./393153-sonafleki.json) |
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
@@ -6304,6 +6306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 2 | 202256 | [202256-sonic-the-hedgehog-2.json](./202256-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 239069 | [239069-sonic-the-hedgehog-2.json](./239069-sonic-the-hedgehog-2.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
+| Sonic the Hedgehog 2: Frenzy | 393093 | [393093-sonic-the-hedgehog-2-frenzy.json](./393093-sonic-the-hedgehog-2-frenzy.json) |
 | Sonic the Hedgehog 2: Gear Shift | 321394 | [321394-sonic-the-hedgehog-2-gear-shift.json](./321394-sonic-the-hedgehog-2-gear-shift.json) |
 | Sonic the Hedgehog 2: Hold Right to Win Edition | 270222 | [270222-sonic-the-hedgehog-2-hold-right-to-win-edition.json](./270222-sonic-the-hedgehog-2-hold-right-to-win-edition.json) |
 | Sonic the Hedgehog 2: Pink Edition | 43319 | [43319-sonic-the-hedgehog-2-pink-edition.json](./43319-sonic-the-hedgehog-2-pink-edition.json) |
@@ -9120,6 +9123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
 | Static | 333637 | [333637-static.json](./333637-static.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
+| Static Condition | 393102 | [393102-static-condition.json](./393102-static-condition.json) |
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
 | Static-End | 178028 | [178028-static-end.json](./178028-static-end.json) |
@@ -10668,6 +10672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday vs. Magazine: Shuuketsu! Choujou Daikessen | 42841 | [42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json](./42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json) |
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
 | SunderBound | 374708 | [374708-sunderbound.json](./374708-sunderbound.json) |
+| Sundered Soul: Chains of the Undying | 393122 | [393122-sundered-soul-chains-of-the-undying.json](./393122-sundered-soul-chains-of-the-undying.json) |
 | Sunderfolk | 319359 | [319359-sunderfolk.json](./319359-sunderfolk.json) |
 | Sundog: Frozen Legacy | 15380 | [15380-sundog-frozen-legacy.json](./15380-sundog-frozen-legacy.json) |
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
@@ -11932,6 +11937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Duck Dash | 221160 | [221160-supermarket-duck-dash.json](./221160-supermarket-duck-dash.json) |
 | Supermarket Electronic | 416069 | [416069-supermarket-electronic.json](./416069-supermarket-electronic.json) |
 | Supermarket Grocery Simulator | 319774 | [319774-supermarket-grocery-simulator.json](./319774-supermarket-grocery-simulator.json) |
+| Supermarket Guard Simulator | 393113 | [393113-supermarket-guard-simulator.json](./393113-supermarket-guard-simulator.json) |
 | Supermarket Management | 88156 | [88156-supermarket-management.json](./88156-supermarket-management.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Manager Empire 2024 | 316240 | [316240-supermarket-manager-empire-2024.json](./316240-supermarket-manager-empire-2024.json) |
