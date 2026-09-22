@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unkilled | 28821 | [28821-unkilled.json](./28821-unkilled.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
 | Unknown at This Address | 415922 | [415922-unknown-at-this-address.json](./415922-unknown-at-this-address.json) |
+| Unknown Battle | 33524 | [33524-unknown-battle.json](./33524-unknown-battle.json) |
 | Unknown Castle | 119702 | [119702-unknown-castle.json](./119702-unknown-castle.json) |
 | Unknown Exist | 202339 | [202339-unknown-exist.json](./202339-unknown-exist.json) |
 | Unknown Fluffy Object | 380450 | [380450-unknown-fluffy-object.json](./380450-unknown-fluffy-object.json) |
