@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitol Diktatoria | 413908 | [413908-capitol-diktatoria.json](./413908-capitol-diktatoria.json) |
 | Capoeira Fighter 3 | 93988 | [93988-capoeira-fighter-3.json](./93988-capoeira-fighter-3.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
+| Capoo Pals | 393112 | [393112-capoo-pals.json](./393112-capoo-pals.json) |
 | Capoo Pals for MAC Expansion Set | 289464 | [289464-capoo-pals-for-mac-expansion-set.json](./289464-capoo-pals-for-mac-expansion-set.json) |
 | Cappadocia Puzzle | 303065 | [303065-cappadocia-puzzle.json](./303065-cappadocia-puzzle.json) |
 | Capper | 384667 | [384667-capper.json](./384667-capper.json) |
@@ -2351,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Range | 84572 | [84572-chicken-range.json](./84572-chicken-range.json) |
 | Chicken Range Bundle | 139947 | [139947-chicken-range-bundle.json](./139947-chicken-range-bundle.json) |
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
+| Chicken Rescue | 393128 | [393128-chicken-rescue.json](./393128-chicken-rescue.json) |
 | Chicken Royale | 399747 | [399747-chicken-royale.json](./399747-chicken-royale.json) |
 | Chicken Run: Special Edition - Escape from the Pot-Pie Machine | 325109 | [325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json](./325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json) |
 | Chicken Run: Special Edition - Whack-A-Tweedy | 325108 | [325108-chicken-run-special-edition-whack-a-tweedy.json](./325108-chicken-run-special-edition-whack-a-tweedy.json) |
@@ -5164,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown to Doom | 13706 | [13706-countdown-to-doom.json](./13706-countdown-to-doom.json) |
 | Countdown to Extinction | 313858 | [313858-countdown-to-extinction.json](./313858-countdown-to-extinction.json) |
 | Countdown to Meltdown | 12947 | [12947-countdown-to-meltdown.json](./12947-countdown-to-meltdown.json) |
+| Countdown: The Game | 393141 | [393141-countdown-the-game.json](./393141-countdown-the-game.json) |
 | Counter Attack | 152291 | [152291-counter-attack.json](./152291-counter-attack.json) |
 | Counter Attack | 279009 | [279009-counter-attack.json](./279009-counter-attack.json) |
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
