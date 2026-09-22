@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train 9 V3.0: Railway Simulator | 52560 | [52560-a-train-9-v3-0-railway-simulator.json](./52560-a-train-9-v3-0-railway-simulator.json) |
 | A-Train 9 Version 2.0: Professional Edition | 10003 | [10003-a-train-9-version-2-0-professional-edition.json](./10003-a-train-9-version-2-0-professional-edition.json) |
 | A-Train HX | 21467 | [21467-a-train-hx.json](./21467-a-train-hx.json) |
+| A-Train PC Classic | 90551 | [90551-a-train-pc-classic.json](./90551-a-train-pc-classic.json) |
 | A-Train: City Simulator | 85874 | [85874-a-train-city-simulator.json](./85874-a-train-city-simulator.json) |
 | A-Train: Trains, Power, Money | 98269 | [98269-a-train-trains-power-money.json](./98269-a-train-trains-power-money.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
@@ -543,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
+| ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
 | ACA Neo Geo: The Super Spy | 105122 | [105122-aca-neo-geo-the-super-spy.json](./105122-aca-neo-geo-the-super-spy.json) |
 | ACA Neo Geo: Twinkle Star Sprites | 113209 | [113209-aca-neo-geo-twinkle-star-sprites.json](./113209-aca-neo-geo-twinkle-star-sprites.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
@@ -569,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
 | Accurate Shot | 288743 | [288743-accurate-shot.json](./288743-accurate-shot.json) |
 | Accurate Tag | 379461 | [379461-accurate-tag.json](./379461-accurate-tag.json) |
+| AccuRC 2 | 90621 | [90621-accurc-2.json](./90621-accurc-2.json) |
 | Accursed | 203864 | [203864-accursed.json](./203864-accursed.json) |
 | Ace | 249277 | [249277-ace.json](./249277-ace.json) |
 | ACE | 13282 | [13282-ace.json](./13282-ace.json) |
@@ -1121,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
+| AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
 | AI Solitaire: Handsome Heroes | 304005 | [304005-ai-solitaire-handsome-heroes.json](./304005-ai-solitaire-handsome-heroes.json) |
 | AI Solitaire: Lovely Ladies | 304006 | [304006-ai-solitaire-lovely-ladies.json](./304006-ai-solitaire-lovely-ladies.json) |
@@ -4175,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Forces of Ukraine | 294138 | [294138-armed-forces-of-ukraine.json](./294138-armed-forces-of-ukraine.json) |
 | Armed Police Batrider | 13687 | [13687-armed-police-batrider.json](./13687-armed-police-batrider.json) |
 | Armed Resistance | 98229 | [98229-armed-resistance.json](./98229-armed-resistance.json) |
+| Armed to the Gears | 90407 | [90407-armed-to-the-gears.json](./90407-armed-to-the-gears.json) |
 | Armed Warrior VR | 74435 | [74435-armed-warrior-vr.json](./74435-armed-warrior-vr.json) |
 | Armed With Wings | 148494 | [148494-armed-with-wings.json](./148494-armed-with-wings.json) |
 | Armed With Wings 2 | 227333 | [227333-armed-with-wings-2.json](./227333-armed-with-wings-2.json) |
