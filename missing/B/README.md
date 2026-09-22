@@ -3541,8 +3541,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Cat Space Golf | 104029 | [104029-block-cat-space-golf.json](./104029-block-cat-space-golf.json) |
 | Block Champ | 229936 | [229936-block-champ.json](./229936-block-champ.json) |
 | Block City Wars | 95849 | [95849-block-city-wars.json](./95849-block-city-wars.json) |
+| Block City Wars: Mafia Town | 86930 | [86930-block-city-wars-mafia-town.json](./86930-block-city-wars-mafia-town.json) |
 | Block Competition | 100564 | [100564-block-competition.json](./100564-block-competition.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
+| Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
@@ -4852,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Memory: Director's Cut | 261365 | [261365-brain-memory-directors-cut.json](./261365-brain-memory-directors-cut.json) |
 | Brain Memory: Premium Edition | 241394 | [241394-brain-memory-premium-edition.json](./241394-brain-memory-premium-edition.json) |
 | Brain Off | 172101 | [172101-brain-off.json](./172101-brain-off.json) |
+| Brain on Physics Boxs Puzzles | 86990 | [86990-brain-on-physics-boxs-puzzles.json](./86990-brain-on-physics-boxs-puzzles.json) |
 | Brain On: Can You Pass It? | 224089 | [224089-brain-on-can-you-pass-it.json](./224089-brain-on-can-you-pass-it.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
@@ -5396,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
 | BrushHammer Miniature Painter | 406170 | [406170-brushhammer-miniature-painter.json](./406170-brushhammer-miniature-painter.json) |
 | Brut@l | 14759 | [14759-brut-l.json](./14759-brut-l.json) |
+| Brutal Age: Horde Invasion | 86935 | [86935-brutal-age-horde-invasion.json](./86935-brutal-age-horde-invasion.json) |
 | Brutal Doom | 126295 | [126295-brutal-doom.json](./126295-brutal-doom.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
