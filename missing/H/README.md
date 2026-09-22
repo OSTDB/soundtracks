@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Tales | 233482 | [233482-hidden-tales.json](./233482-hidden-tales.json) |
 | Hidden Target | 54090 | [54090-hidden-target.json](./54090-hidden-target.json) |
 | Hidden Temple Adventure | 248650 | [248650-hidden-temple-adventure.json](./248650-hidden-temple-adventure.json) |
+| Hidden Things Beach Elves | 397210 | [397210-hidden-things-beach-elves.json](./397210-hidden-things-beach-elves.json) |
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
 | Hidden Through Time 2: Discovery | 291422 | [291422-hidden-through-time-2-discovery.json](./291422-hidden-through-time-2-discovery.json) |
 | Hidden Through Time: Legends of Japan | 154514 | [154514-hidden-through-time-legends-of-japan.json](./154514-hidden-through-time-legends-of-japan.json) |
@@ -2793,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
 | Hirogami | 317871 | [317871-hirogami.json](./317871-hirogami.json) |
 | Hiromechia | 363935 | [363935-hiromechia.json](./363935-hiromechia.json) |
+| Hiryu no Ken Collection | 397224 | [397224-hiryu-no-ken-collection.json](./397224-hiryu-no-ken-collection.json) |
 | Hiryuu no Ken II: Dragon no Tsubasa | 64447 | [64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json](./64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json) |
 | His Majesty's Ship Impetuous | 55838 | [55838-his-majestys-ship-impetuous.json](./55838-his-majestys-ship-impetuous.json) |
 | HIS: Heroes in the Sky | 35933 | [35933-his-heroes-in-the-sky.json](./35933-his-heroes-in-the-sky.json) |
