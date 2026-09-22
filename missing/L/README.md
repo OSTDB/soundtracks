@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Caverns 2 | 57079 | [57079-lazy-caverns-2.json](./57079-lazy-caverns-2.json) |
 | Lazy Caverns Attack!! | 57078 | [57078-lazy-caverns-attack.json](./57078-lazy-caverns-attack.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
+| Lazy Kickers | 407559 | [407559-lazy-kickers.json](./407559-lazy-kickers.json) |
 | Lazy Paper | 415884 | [415884-lazy-paper.json](./415884-lazy-paper.json) |
 | Lazy Pirates | 180752 | [180752-lazy-pirates.json](./180752-lazy-pirates.json) |
 | Lazy Sonic | 331975 | [331975-lazy-sonic.json](./331975-lazy-sonic.json) |
@@ -2156,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Survivors | 273469 | [273469-little-survivors.json](./273469-little-survivors.json) |
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
 | Little Tank | 339942 | [339942-little-tank.json](./339942-little-tank.json) |
+| Little Thief | 407575 | [407575-little-thief.json](./407575-little-thief.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
 | Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
