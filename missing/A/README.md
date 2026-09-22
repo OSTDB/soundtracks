@@ -4682,7 +4682,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Jade | 216319 | [216319-assassins-creed-jade.json](./216319-assassins-creed-jade.json) |
 | Assassin's Creed Mirage & Assassin's Creed Valhalla Bundle | 271474 | [271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json](./271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json) |
 | Assassin's Creed Mirage Master Assassin Upgrade Bundle 2 | 360574 | [360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json](./360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json) |
+| Assassin’s Creed Mirage: Celestial Pack | 409030 | [409030-assassin-s-creed-mirage-celestial-pack.json](./409030-assassin-s-creed-mirage-celestial-pack.json) |
 | Assassin's Creed Mirage: Deluxe Pack | 271290 | [271290-assassins-creed-mirage-deluxe-pack.json](./271290-assassins-creed-mirage-deluxe-pack.json) |
+| Assassin's Creed Mirage: Desert Scorpion Pack | 409031 | [409031-assassins-creed-mirage-desert-scorpion-pack.json](./409031-assassins-creed-mirage-desert-scorpion-pack.json) |
 | Assassin's Creed Mirage: Fire Demon Pack | 271291 | [271291-assassins-creed-mirage-fire-demon-pack.json](./271291-assassins-creed-mirage-fire-demon-pack.json) |
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
 | Assassin's Creed Mirage: Master Assassin Upgrade Bundle 1 | 360572 | [360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json](./360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json) |
