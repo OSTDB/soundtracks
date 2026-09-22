@@ -1548,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfectdom | 403661 | [403661-perfectdom.json](./403661-perfectdom.json) |
 | Perfection | 239906 | [239906-perfection.json](./239906-perfection.json) |
 | Perfection of Wisdom | 35605 | [35605-perfection-of-wisdom.json](./35605-perfection-of-wisdom.json) |
+| Perfection. | 16621 | [16621-perfection.json](./16621-perfection.json) |
 | PerfectLover | 128000 | [128000-perfectlover.json](./128000-perfectlover.json) |
 | Performan | 40405 | [40405-performan.json](./40405-performan.json) |
 | Performous | 63242 | [63242-performous.json](./63242-performous.json) |
