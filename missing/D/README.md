@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
+| Diddy Kong Racing: Recompiled | 413189 | [413189-diddy-kong-racing-recompiled.json](./413189-diddy-kong-racing-recompiled.json) |
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
 | Didnapper | 295249 | [295249-didnapper.json](./295249-didnapper.json) |
 | Die 3 | 269641 | [269641-die-3.json](./269641-die-3.json) |
