@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2015 | 34798 | [34798-baseball-mogul-2015.json](./34798-baseball-mogul-2015.json) |
 | Baseball Mogul 2018 | 99042 | [99042-baseball-mogul-2018.json](./99042-baseball-mogul-2018.json) |
 | Baseball Mogul 2021 | 144946 | [144946-baseball-mogul-2021.json](./144946-baseball-mogul-2021.json) |
+| Baseball Mogul Diamond | 31952 | [31952-baseball-mogul-diamond.json](./31952-baseball-mogul-diamond.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
 | Baseball Stars II | 48296 | [48296-baseball-stars-ii.json](./48296-baseball-stars-ii.json) |
 | Baseball Stars Professional | 39595 | [39595-baseball-stars-professional.json](./39595-baseball-stars-professional.json) |
@@ -1601,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTanx: Global Assault | 47685 | [47685-battletanx-global-assault.json](./47685-battletanx-global-assault.json) |
 | BattleTech: Flashpoint | 107258 | [107258-battletech-flashpoint.json](./107258-battletech-flashpoint.json) |
 | BattleTech: Heavy Metal | 155087 | [155087-battletech-heavy-metal.json](./155087-battletech-heavy-metal.json) |
+| BattleTime | 31886 | [31886-battletime.json](./31886-battletime.json) |
 | Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
@@ -2463,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
 | Bicycle Rider Simulator | 195612 | [195612-bicycle-rider-simulator.json](./195612-bicycle-rider-simulator.json) |
 | Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
+| Bicyclism EP | 31950 | [31950-bicyclism-ep.json](./31950-bicyclism-ep.json) |
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
 | Bifrost: Heroes of Midgard | 197340 | [197340-bifrost-heroes-of-midgard.json](./197340-bifrost-heroes-of-midgard.json) |
@@ -3085,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
+| Black Sand Drift | 31911 | [31911-black-sand-drift.json](./31911-black-sand-drift.json) |
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
 | Black Screen | 377179 | [377179-black-screen.json](./377179-black-screen.json) |
 | Black Sea: Treasure Hunters | 311671 | [311671-black-sea-treasure-hunters.json](./311671-black-sea-treasure-hunters.json) |
@@ -3172,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackShot | 33760 | [33760-blackshot.json](./33760-blackshot.json) |
 | Blacksmith Bay | 150604 | [150604-blacksmith-bay.json](./150604-blacksmith-bay.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
+| BlackSmith HIT | 31917 | [31917-blacksmith-hit.json](./31917-blacksmith-hit.json) |
 | Blacksmith Legends | 159348 | [159348-blacksmith-legends.json](./159348-blacksmith-legends.json) |
 | Blacksmith Simulator | 353951 | [353951-blacksmith-simulator.json](./353951-blacksmith-simulator.json) |
 | Blacksmith Village | 156109 | [156109-blacksmith-village.json](./156109-blacksmith-village.json) |
@@ -5328,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
 | Broke in Isekai | 310925 | [310925-broke-in-isekai.json](./310925-broke-in-isekai.json) |
+| Broken Armor | 31900 | [31900-broken-armor.json](./31900-broken-armor.json) |
 | Broken Banners | 192839 | [192839-broken-banners.json](./192839-broken-banners.json) |
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
 | Broken Cavalier | 214052 | [214052-broken-cavalier.json](./214052-broken-cavalier.json) |
@@ -5533,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
 | Bubble Jungle | 31209 | [31209-bubble-jungle.json](./31209-bubble-jungle.json) |
+| Bubble Labs VR | 31324 | [31324-bubble-labs-vr.json](./31324-bubble-labs-vr.json) |
 | Bubble Mags | 90388 | [90388-bubble-mags.json](./90388-bubble-mags.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
