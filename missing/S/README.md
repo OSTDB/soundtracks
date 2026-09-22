@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Person: Secret Laboratory | 158657 | [158657-second-person-secret-laboratory.json](./158657-second-person-secret-laboratory.json) |
 | Second Puberty | 176923 | [176923-second-puberty.json](./176923-second-puberty.json) |
 | Second Saga | 392251 | [392251-second-saga.json](./392251-second-saga.json) |
+| Second Second | 110776 | [110776-second-second.json](./110776-second-second.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
 | Second Stone | 216314 | [216314-second-stone.json](./216314-second-stone.json) |
 | Second Story | 59688 | [59688-second-story.json](./59688-second-story.json) |
@@ -3493,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
 | Sierra Championship Boxing | 73238 | [73238-sierra-championship-boxing.json](./73238-sierra-championship-boxing.json) |
+| Sierra Madre | 111879 | [111879-sierra-madre.json](./111879-sierra-madre.json) |
 | Sierra Ops | 128392 | [128392-sierra-ops.json](./128392-sierra-ops.json) |
 | Sierra Ops: Episode 2 - Dissonance and Resonance | 128393 | [128393-sierra-ops-episode-2-dissonance-and-resonance.json](./128393-sierra-ops-episode-2-dissonance-and-resonance.json) |
 | Sierra Ops: Episode 3 - Unending Dusk | 128394 | [128394-sierra-ops-episode-3-unending-dusk.json](./128394-sierra-ops-episode-3-unending-dusk.json) |
@@ -3941,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
 | Sinister City | 17898 | [17898-sinister-city.json](./17898-sinister-city.json) |
 | Sinister Fate | 38992 | [38992-sinister-fate.json](./38992-sinister-fate.json) |
+| Sinister Halloween | 110762 | [110762-sinister-halloween.json](./110762-sinister-halloween.json) |
 | Sinister Hospital | 296384 | [296384-sinister-hospital.json](./296384-sinister-hospital.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinister Night | 200670 | [200670-sinister-night.json](./200670-sinister-night.json) |
@@ -4007,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
 | Sister Slave: Faithful Girl's Slave Training | 83230 | [83230-sister-slave-faithful-girls-slave-training.json](./83230-sister-slave-faithful-girls-slave-training.json) |
+| Sister Travel | 111718 | [111718-sister-travel.json](./111718-sister-travel.json) |
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
 | Sisters of Silent Liberty | 154410 | [154410-sisters-of-silent-liberty.json](./154410-sisters-of-silent-liberty.json) |
 | Sisters of Sweetwater | 225091 | [225091-sisters-of-sweetwater.json](./225091-sisters-of-sweetwater.json) |
@@ -6873,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
+| Space Robinson | 111807 | [111807-space-robinson.json](./111807-space-robinson.json) |
 | Space Robot | 46895 | [46895-space-robot.json](./46895-space-robot.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
