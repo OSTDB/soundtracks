@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
 | Haulin' Oats | 192829 | [192829-haulin-oats.json](./192829-haulin-oats.json) |
+| Haunt | 20245 | [20245-haunt.json](./20245-haunt.json) |
 | Haunt | 383487 | [383487-haunt.json](./383487-haunt.json) |
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
 | Haunted | 16799 | [16799-haunted.json](./16799-haunted.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloBase | 410316 | [410316-holobase.json](./410316-holobase.json) |
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
+| Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
 | Hololive Gorogoro Mountain | 348243 | [348243-hololive-gorogoro-mountain.json](./348243-hololive-gorogoro-mountain.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
@@ -3807,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive 2: Kovac's Ultimate Edition | 53194 | [53194-how-to-survive-2-kovacs-ultimate-edition.json](./53194-how-to-survive-2-kovacs-ultimate-edition.json) |
 | How to Survive: Barricade! | 170434 | [170434-how-to-survive-barricade.json](./170434-how-to-survive-barricade.json) |
 | How to Survive: Kovac's Way | 164516 | [164516-how-to-survive-kovacs-way.json](./164516-how-to-survive-kovacs-way.json) |
+| How to Survive: Storm Warning Edition | 20311 | [20311-how-to-survive-storm-warning-edition.json](./20311-how-to-survive-storm-warning-edition.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How to Train Your Human | 180692 | [180692-how-to-train-your-human.json](./180692-how-to-train-your-human.json) |
 | How to Volley Ball | 170933 | [170933-how-to-volley-ball.json](./170933-how-to-volley-ball.json) |
