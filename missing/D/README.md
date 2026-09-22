@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
+| Dark Mystery | 44252 | [44252-dark-mystery.json](./44252-dark-mystery.json) |
 | Dark Mystery: Remastered | 233611 | [233611-dark-mystery-remastered.json](./233611-dark-mystery-remastered.json) |
 | Dark Nebula: Episode One | 67242 | [67242-dark-nebula-episode-one.json](./67242-dark-nebula-episode-one.json) |
 | Dark Neighbors | 351612 | [351612-dark-neighbors.json](./351612-dark-neighbors.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Mulan Training Game | 246946 | [246946-disneys-mulan-training-game.json](./246946-disneys-mulan-training-game.json) |
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
+| Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
 | Disney's Stitch: Experiment 626 | 25911 | [25911-disneys-stitch-experiment-626.json](./25911-disneys-stitch-experiment-626.json) |
 | Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
 | Disney's Tarzan Activity Center | 57923 | [57923-disneys-tarzan-activity-center.json](./57923-disneys-tarzan-activity-center.json) |
@@ -5457,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
 | Drive for Your Life | 116722 | [116722-drive-for-your-life.json](./116722-drive-for-your-life.json) |
 | Drive Forward | 130163 | [130163-drive-forward.json](./130163-drive-forward.json) |
+| Drive Isle | 44178 | [44178-drive-isle.json](./44178-drive-isle.json) |
 | Drive Mad | 371327 | [371327-drive-mad.json](./371327-drive-mad.json) |
 | Drive Me Broke | 373107 | [373107-drive-me-broke.json](./373107-drive-me-broke.json) |
 | Drive Me to Hell | 253969 | [253969-drive-me-to-hell.json](./253969-drive-me-to-hell.json) |
