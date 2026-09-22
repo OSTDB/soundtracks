@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtue's Heaven | 204432 | [204432-virtues-heaven.json](./204432-virtues-heaven.json) |
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
 | Virtuoso GP Race: On | 373077 | [373077-virtuoso-gp-race-on.json](./373077-virtuoso-gp-race-on.json) |
+| Virtuoso Skins Game | 391886 | [391886-virtuoso-skins-game.json](./391886-virtuoso-skins-game.json) |
 | Virus | 12812 | [12812-virus.json](./12812-virus.json) |
 | Virus 91 | 279092 | [279092-virus-91.json](./279092-virus-91.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
