@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad Broke the Moon! | 181327 | [181327-dad-broke-the-moon.json](./181327-dad-broke-the-moon.json) |
 | Dad by the Sword | 218687 | [218687-dad-by-the-sword.json](./218687-dad-by-the-sword.json) |
 | Dad Discovers The Internet | 297084 | [297084-dad-discovers-the-internet.json](./297084-dad-discovers-the-internet.json) |
+| Dad's co-worker | 81605 | [81605-dads-co-worker.json](./81605-dads-co-worker.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Was A Thief | 103150 | [103150-daddy-was-a-thief.json](./103150-daddy-was-a-thief.json) |
 | Dadi Kingdom | 416622 | [416622-dadi-kingdom.json](./416622-dadi-kingdom.json) |
@@ -1688,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue Sushi | 414377 | [414377-deep-blue-sushi.json](./414377-deep-blue-sushi.json) |
 | Deep Chalk Dive | 123613 | [123613-deep-chalk-dive.json](./123613-deep-chalk-dive.json) |
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
+| Deep Dark Fight | 81702 | [81702-deep-dark-fight.json](./81702-deep-dark-fight.json) |
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
 | Deep Dark Space | 282012 | [282012-deep-dark-space.json](./282012-deep-dark-space.json) |
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
