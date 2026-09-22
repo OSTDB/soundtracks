@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Racing | 64690 | [64690-vector-racing.json](./64690-vector-racing.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
+| Vector Thrust | 16557 | [16557-vector-thrust.json](./16557-vector-thrust.json) |
 | Vector Vaders | 41983 | [41983-vector-vaders.json](./41983-vector-vaders.json) |
 | Vector Velocity | 75771 | [75771-vector-velocity.json](./75771-vector-velocity.json) |
 | Vector Vendetta | 57100 | [57100-vector-vendetta.json](./57100-vector-vendetta.json) |
@@ -1242,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voodoo Dolls | 319806 | [319806-voodoo-dolls.json](./319806-voodoo-dolls.json) |
 | Voodoo Nights | 77329 | [77329-voodoo-nights.json](./77329-voodoo-nights.json) |
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
+| Voodoo Whisperer Curse of a Legend | 17202 | [17202-voodoo-whisperer-curse-of-a-legend.json](./17202-voodoo-whisperer-curse-of-a-legend.json) |
 | Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
 | Vorago | 312560 | [312560-vorago.json](./312560-vorago.json) |
 | Voraxis | 387350 | [387350-voraxis.json](./387350-voraxis.json) |
