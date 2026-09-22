@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infection Outbreak | 130174 | [130174-infection-outbreak.json](./130174-infection-outbreak.json) |
 | Infection X | 260417 | [260417-infection-x.json](./260417-infection-x.json) |
 | Infection: Board Game | 147906 | [147906-infection-board-game.json](./147906-infection-board-game.json) |
+| Infection: Humanity's Last Gasp | 34907 | [34907-infection-humanitys-last-gasp.json](./34907-infection-humanitys-last-gasp.json) |
 | Infecto | 89934 | [89934-infecto.json](./89934-infecto.json) |
 | Infectonator | 200728 | [200728-infectonator.json](./200728-infectonator.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno | 121614 | [121614-inferno.json](./121614-inferno.json) |
 | Inferno | 274190 | [274190-inferno.json](./274190-inferno.json) |
 | Inferno | 346092 | [346092-inferno.json](./346092-inferno.json) |
+| Inferno 2 | 34822 | [34822-inferno-2.json](./34822-inferno-2.json) |
 | Inferno Climber: Reborn | 95833 | [95833-inferno-climber-reborn.json](./95833-inferno-climber-reborn.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
 | Inferno Meltdown | 266867 | [266867-inferno-meltdown.json](./266867-inferno-meltdown.json) |
