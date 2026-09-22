@@ -3784,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
 | The Homestead | 119567 | [119567-the-homestead.json](./119567-the-homestead.json) |
+| The Homestead Invasion | 81667 | [81667-the-homestead-invasion.json](./81667-the-homestead-invasion.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
@@ -4795,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mask: Mayhem | 255333 | [255333-the-mask-mayhem.json](./255333-the-mask-mayhem.json) |
 | The Masked Prisoner | 217000 | [217000-the-masked-prisoner.json](./217000-the-masked-prisoner.json) |
 | The Master | 70106 | [70106-the-master.json](./70106-the-master.json) |
+| The Master | 81625 | [81625-the-master.json](./81625-the-master.json) |
 | The Master of the Land | 362278 | [362278-the-master-of-the-land.json](./362278-the-master-of-the-land.json) |
 | The Master's Pupil | 211813 | [211813-the-masters-pupil.json](./211813-the-masters-pupil.json) |
 | The Masters: Survival | 188571 | [188571-the-masters-survival.json](./188571-the-masters-survival.json) |
@@ -7984,6 +7986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tileshire | 413042 | [413042-tileshire.json](./413042-tileshire.json) |
 | Tilesweeper | 104139 | [104139-tilesweeper.json](./104139-tilesweeper.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
+| Till the dawn, waiting | 81679 | [81679-till-the-dawn-waiting.json](./81679-till-the-dawn-waiting.json) |
 | Tilligence | 185022 | [185022-tilligence.json](./185022-tilligence.json) |
 | Tilt | 286132 | [286132-tilt.json](./286132-tilt.json) |
 | Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
@@ -10841,6 +10844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropia | 76245 | [76245-tropia.json](./76245-tropia.json) |
 | Tropic Isle | 130866 | [130866-tropic-isle.json](./130866-tropic-isle.json) |
 | Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
+| Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
 | Tropical Princess - Makeup and Dressup Salon Game | 86855 | [86855-tropical-princess-makeup-and-dressup-salon-game.json](./86855-tropical-princess-makeup-and-dressup-salon-game.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
