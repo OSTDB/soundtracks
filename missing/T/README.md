@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
+| Teenage Mutant Ninja Puppets | 404440 | [404440-teenage-mutant-ninja-puppets.json](./404440-teenage-mutant-ninja-puppets.json) |
 | Teenage Mutant Ninja Turtles | 76209 | [76209-teenage-mutant-ninja-turtles.json](./76209-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles Double Pack | 78938 | [78938-teenage-mutant-ninja-turtles-double-pack.json](./78938-teenage-mutant-ninja-turtles-double-pack.json) |
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
@@ -1443,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempus Chronicle | 63536 | [63536-tempus-chronicle.json](./63536-tempus-chronicle.json) |
 | Tempus Denique | 177998 | [177998-tempus-denique.json](./177998-tempus-denique.json) |
 | Tempus is the Ignis | 271319 | [271319-tempus-is-the-ignis.json](./271319-tempus-is-the-ignis.json) |
+| Tempus Vitae | 404455 | [404455-tempus-vitae.json](./404455-tempus-vitae.json) |
 | Temtem: Deluxe Edition | 212338 | [212338-temtem-deluxe-edition.json](./212338-temtem-deluxe-edition.json) |
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
 | Ten | 202770 | [202770-ten.json](./202770-ten.json) |
@@ -2363,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bird Museum | 182545 | [182545-the-bird-museum.json](./182545-the-bird-museum.json) |
 | The Bird's Realm 3 | 201805 | [201805-the-birds-realm-3.json](./201805-the-birds-realm-3.json) |
 | The Birdcage 2 | 117499 | [117499-the-birdcage-2.json](./117499-the-birdcage-2.json) |
+| The Birdsong Tree | 404435 | [404435-the-birdsong-tree.json](./404435-the-birdsong-tree.json) |
 | The Bit.Trip | 20152 | [20152-the-bit-trip.json](./20152-the-bit-trip.json) |
 | The Bit's Escape | 287756 | [287756-the-bits-escape.json](./287756-the-bits-escape.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
@@ -4420,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Cesar | 160236 | [160236-the-legend-of-cesar.json](./160236-the-legend-of-cesar.json) |
 | The Legend of Chalkvania | 395570 | [395570-the-legend-of-chalkvania.json](./395570-the-legend-of-chalkvania.json) |
 | The Legend of Chosen Blood | 285608 | [285608-the-legend-of-chosen-blood.json](./285608-the-legend-of-chosen-blood.json) |
+| The Legend Of Chupacabra And The Sentient Log | 404451 | [404451-the-legend-of-chupacabra-and-the-sentient-log.json](./404451-the-legend-of-chupacabra-and-the-sentient-log.json) |
 | The Legend of Cube | 227858 | [227858-the-legend-of-cube.json](./227858-the-legend-of-cube.json) |
 | The Legend of Dragoon | 239182 | [239182-the-legend-of-dragoon.json](./239182-the-legend-of-dragoon.json) |
 | The Legend of Edgar | 124032 | [124032-the-legend-of-edgar.json](./124032-the-legend-of-edgar.json) |
@@ -7066,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
+| They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
 | They Walk Beyond | 386303 | [386303-they-walk-beyond.json](./386303-they-walk-beyond.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
@@ -11340,6 +11345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
 | Turkey Hunter Deluxe | 57331 | [57331-turkey-hunter-deluxe.json](./57331-turkey-hunter-deluxe.json) |
+| Turkey Runner | 404422 | [404422-turkey-runner.json](./404422-turkey-runner.json) |
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
 | Turlock Holmes | 286086 | [286086-turlock-holmes.json](./286086-turlock-holmes.json) |
