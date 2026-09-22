@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
 | Ball | 231388 | [231388-ball.json](./231388-ball.json) |
+| Ball & Gun | 403805 | [403805-ball-and-gun.json](./403805-ball-and-gun.json) |
 | Ball 28 In Space | 334086 | [334086-ball-28-in-space.json](./334086-ball-28-in-space.json) |
 | Ball and Trap | 100739 | [100739-ball-and-trap.json](./100739-ball-and-trap.json) |
 | Ball at Work: The Ultimate Speedrun Platformer! | 171570 | [171570-ball-at-work-the-ultimate-speedrun-platformer.json](./171570-ball-at-work-the-ultimate-speedrun-platformer.json) |
@@ -2414,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
 | Beyond the Chiron Gate | 205085 | [205085-beyond-the-chiron-gate.json](./205085-beyond-the-chiron-gate.json) |
 | Beyond the Curtain | 392280 | [392280-beyond-the-curtain.json](./392280-beyond-the-curtain.json) |
+| Beyond the Dark Nightwatch | 403828 | [403828-beyond-the-dark-nightwatch.json](./403828-beyond-the-dark-nightwatch.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
 | Beyond the Diorama: Caribou World | 163810 | [163810-beyond-the-diorama-caribou-world.json](./163810-beyond-the-diorama-caribou-world.json) |
 | Beyond the Doors | 380009 | [380009-beyond-the-doors.json](./380009-beyond-the-doors.json) |
@@ -4036,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluevolution | 149419 | [149419-bluevolution.json](./149419-bluevolution.json) |
 | Bluewater: Private Military Operations VR | 190066 | [190066-bluewater-private-military-operations-vr.json](./190066-bluewater-private-military-operations-vr.json) |
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
+| Bluey x Crossy Road Castle | 403839 | [403839-bluey-x-crossy-road-castle.json](./403839-bluey-x-crossy-road-castle.json) |
 | Bluey: The Videogame | 257332 | [257332-bluey-the-videogame.json](./257332-bluey-the-videogame.json) |
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
@@ -4905,6 +4908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BQM: BlockQuest Maker - Remastered | 235208 | [235208-bqm-blockquest-maker-remastered.json](./235208-bqm-blockquest-maker-remastered.json) |
 | Br Br Patapim | 351091 | [351091-br-br-patapim.json](./351091-br-br-patapim.json) |
 | BR1: Infinite | 194433 | [194433-br1-infinite.json](./194433-br1-infinite.json) |
+| Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
 | Bracket City | 341031 | [341031-bracket-city.json](./341031-bracket-city.json) |
 | Brad Has A Pain | 194424 | [194424-brad-has-a-pain.json](./194424-brad-has-a-pain.json) |
@@ -6047,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Sand 3 | 146742 | [146742-burning-sand-3.json](./146742-burning-sand-3.json) |
 | Burning Secrets: A Bara Visual Novel | 236398 | [236398-burning-secrets-a-bara-visual-novel.json](./236398-burning-secrets-a-bara-visual-novel.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
+| Burning Tail Banquet | 403789 | [403789-burning-tail-banquet.json](./403789-burning-tail-banquet.json) |
 | Burning Vengeance | 241520 | [241520-burning-vengeance.json](./241520-burning-vengeance.json) |
 | Burnit Quest | 195178 | [195178-burnit-quest.json](./195178-burnit-quest.json) |
 | Burnogue | 377090 | [377090-burnogue.json](./377090-burnogue.json) |
