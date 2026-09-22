@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.A.I.L. Together | 409644 | [409644-r-a-i-l-together.json](./409644-r-a-i-l-together.json) |
 | R.A.T.: Human Error – Episode One | 350507 | [350507-r-a-t-human-error-episode-one.json](./350507-r-a-t-human-error-episode-one.json) |
 | R.A.Z.I.O.N | 75512 | [75512-r-a-z-i-o-n.json](./75512-r-a-z-i-o-n.json) |
+| R.B.I. Baseball | 18022 | [18022-r-b-i-baseball.json](./18022-r-b-i-baseball.json) |
 | R.B.I. Baseball '93 | 46203 | [46203-r-b-i-baseball-93.json](./46203-r-b-i-baseball-93.json) |
 | R.B.I. Baseball 15 | 17962 | [17962-r-b-i-baseball-15.json](./17962-r-b-i-baseball-15.json) |
 | R.B.I. Baseball 16 | 23379 | [23379-r-b-i-baseball-16.json](./23379-r-b-i-baseball-16.json) |
@@ -2224,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReversiBot | 266477 | [266477-reversibot.json](./266477-reversibot.json) |
 | Reversilly | 197861 | [197861-reversilly.json](./197861-reversilly.json) |
 | Reversing Caste: Omegaverse | 269303 | [269303-reversing-caste-omegaverse.json](./269303-reversing-caste-omegaverse.json) |
+| Reversion: The Escape -1st Chapter | 16940 | [16940-reversion-the-escape-1st-chapter.json](./16940-reversion-the-escape-1st-chapter.json) |
 | Reversion: The Meeting | 36412 | [36412-reversion-the-meeting.json](./36412-reversion-the-meeting.json) |
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
 | Revery Rebirth | 121619 | [121619-revery-rebirth.json](./121619-revery-rebirth.json) |
@@ -3087,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots, Death & Venice | 172127 | [172127-robots-death-and-venice.json](./172127-robots-death-and-venice.json) |
 | RobotWar | 25129 | [25129-robotwar.json](./25129-robotwar.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
+| RoboWarrior | 8473 | [8473-robowarrior.json](./8473-robowarrior.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
 | Robox | 147916 | [147916-robox.json](./147916-robox.json) |
 | Robozarro 2: Operation Atlantic | 187386 | [187386-robozarro-2-operation-atlantic.json](./187386-robozarro-2-operation-atlantic.json) |
