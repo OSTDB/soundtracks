@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bang Pull Pull | 329020 | [329020-bang-bang-pull-pull.json](./329020-bang-bang-pull-pull.json) |
 | Bang Bang Racing | 15286 | [15286-bang-bang-racing.json](./15286-bang-bang-racing.json) |
 | Bang Bang Simulations | 266288 | [266288-bang-bang-simulations.json](./266288-bang-bang-simulations.json) |
+| Bang Bead | 40235 | [40235-bang-bead.json](./40235-bang-bead.json) |
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
@@ -1473,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 1942: The Complete Collection | 284924 | [284924-battlefield-1942-the-complete-collection.json](./284924-battlefield-1942-the-complete-collection.json) |
 | Battlefield 1942: World War II Anthology | 136467 | [136467-battlefield-1942-world-war-ii-anthology.json](./136467-battlefield-1942-world-war-ii-anthology.json) |
 | Battlefield 2: Armored Fury | 3814 | [3814-battlefield-2-armored-fury.json](./3814-battlefield-2-armored-fury.json) |
+| Battlefield 2: Complete Collection | 41885 | [41885-battlefield-2-complete-collection.json](./41885-battlefield-2-complete-collection.json) |
 | Battlefield 2: Special Forces | 347 | [347-battlefield-2-special-forces.json](./347-battlefield-2-special-forces.json) |
 | Battlefield 2042: Year 1 Pass | 293915 | [293915-battlefield-2042-year-1-pass.json](./293915-battlefield-2042-year-1-pass.json) |
 | Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
@@ -1977,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer! | 57091 | [57091-beer.json](./57091-beer.json) |
 | Beerjeweled | 138036 | [138036-beerjeweled.json](./138036-beerjeweled.json) |
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
+| Beeswing | 35357 | [35357-beeswing.json](./35357-beeswing.json) |
 | Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
 | Beethoven: The Ultimate Canine Caper! | 259654 | [259654-beethoven-the-ultimate-canine-caper.json](./259654-beethoven-the-ultimate-canine-caper.json) |
 | Beethoven's 2nd: The Quest for Pups | 259653 | [259653-beethovens-2nd-the-quest-for-pups.json](./259653-beethovens-2nd-the-quest-for-pups.json) |
@@ -5003,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaker's World | 199131 | [199131-breakers-world.json](./199131-breakers-world.json) |
 | Breakers | 315054 | [315054-breakers.json](./315054-breakers.json) |
 | Breakers | 72533 | [72533-breakers.json](./72533-breakers.json) |
+| Breakers Revenge | 39558 | [39558-breakers-revenge.json](./39558-breakers-revenge.json) |
 | Breakfall: Nuclear Winter | 342616 | [342616-breakfall-nuclear-winter.json](./342616-breakfall-nuclear-winter.json) |
 | Breakfast at Twilight | 271771 | [271771-breakfast-at-twilight.json](./271771-breakfast-at-twilight.json) |
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
