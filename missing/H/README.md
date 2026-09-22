@@ -1404,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
 | Hell Dungeons: The Lost Soul | 236362 | [236362-hell-dungeons-the-lost-soul.json](./236362-hell-dungeons-the-lost-soul.json) |
 | Hell Fire: Seed of Calamity | 418727 | [418727-hell-fire-seed-of-calamity.json](./418727-hell-fire-seed-of-calamity.json) |
+| Hell Forest | 411794 | [411794-hell-forest.json](./411794-hell-forest.json) |
 | Hell Forged | 141139 | [141139-hell-forged.json](./141139-hell-forged.json) |
 | Hell Froze Over | 342151 | [342151-hell-froze-over.json](./342151-hell-froze-over.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
@@ -2173,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
 | Hex of Steel | 147277 | [147277-hex-of-steel.json](./147277-hex-of-steel.json) |
 | Hex of the Lich | 164889 | [164889-hex-of-the-lich.json](./164889-hex-of-the-lich.json) |
+| Hex Park: Master DLC | 411828 | [411828-hex-park-master-dlc.json](./411828-hex-park-master-dlc.json) |
 | Hex Pipe | 403665 | [403665-hex-pipe.json](./403665-hex-pipe.json) |
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
 | Hex Racer | 259061 | [259061-hex-racer.json](./259061-hex-racer.json) |
@@ -3636,6 +3638,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Vacation | 173835 | [173835-hot-vacation.json](./173835-hot-vacation.json) |
 | Hot Wave | 40780 | [40780-hot-wave.json](./40780-hot-wave.json) |
 | Hot Wax | 304749 | [304749-hot-wax.json](./304749-hot-wax.json) |
+| Hot Wheels Infinite Rush: Bone Shaker Skeletor Edition | 411833 | [411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json](./411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json) |
+| Hot Wheels Infinite Rush: Boost'n'Slide Pack | 411829 | [411829-hot-wheels-infinite-rush-boostnslide-pack.json](./411829-hot-wheels-infinite-rush-boostnslide-pack.json) |
+| Hot Wheels Infinite Rush: Feel the Heat Pack | 411831 | [411831-hot-wheels-infinite-rush-feel-the-heat-pack.json](./411831-hot-wheels-infinite-rush-feel-the-heat-pack.json) |
+| Hot Wheels Infinite Rush: Power & Pace Pack | 411830 | [411830-hot-wheels-infinite-rush-power-and-pace-pack.json](./411830-hot-wheels-infinite-rush-power-and-pace-pack.json) |
 | Hot Wheels Monster Trucks: Stunt Mayhem | 313494 | [313494-hot-wheels-monster-trucks-stunt-mayhem.json](./313494-hot-wheels-monster-trucks-stunt-mayhem.json) |
 | Hot Wheels Slot Car Racing | 100125 | [100125-hot-wheels-slot-car-racing.json](./100125-hot-wheels-slot-car-racing.json) |
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
