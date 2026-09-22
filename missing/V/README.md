@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Checkers | 18003 | [18003-video-checkers.json](./18003-video-checkers.json) |
 | Video Cube: Space | 130754 | [130754-video-cube-space.json](./130754-video-cube-space.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
+| Video Game Menu: The Game | 399846 | [399846-video-game-menu-the-game.json](./399846-video-game-menu-the-game.json) |
 | Video Hustler | 38557 | [38557-video-hustler.json](./38557-video-hustler.json) |
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
