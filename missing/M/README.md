@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Escape: Ancient China | 135673 | [135673-mahjong-escape-ancient-china.json](./135673-mahjong-escape-ancient-china.json) |
 | Mahjong Gakkou | 415967 | [415967-mahjong-gakkou.json](./415967-mahjong-gakkou.json) |
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
+| Mahjong Gold | 52578 | [52578-mahjong-gold.json](./52578-mahjong-gold.json) |
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
 | Mahjong Hanjouki | 37938 | [37938-mahjong-hanjouki.json](./37938-mahjong-hanjouki.json) |
 | Mahjong Hishou-den: Shin Naki no Ryuu | 37937 | [37937-mahjong-hishou-den-shin-naki-no-ryuu.json](./37937-mahjong-hishou-den-shin-naki-no-ryuu.json) |
@@ -3021,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
 | Mercury Prime | 157675 | [157675-mercury-prime.json](./157675-mercury-prime.json) |
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
+| Mercury: Cascade into Madness | 52257 | [52257-mercury-cascade-into-madness.json](./52257-mercury-cascade-into-madness.json) |
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
 | Merely a Regret | 176922 | [176922-merely-a-regret.json](./176922-merely-a-regret.json) |
 | Merendam 2: Diary of Two Shaman Sisters | 70409 | [70409-merendam-2-diary-of-two-shaman-sisters.json](./70409-merendam-2-diary-of-two-shaman-sisters.json) |
