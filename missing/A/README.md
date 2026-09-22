@@ -3101,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
 | Anthem of Roses | 55067 | [55067-anthem-of-roses.json](./55067-anthem-of-roses.json) |
+| Anthem: Legion of Dawn Edition | 103276 | [103276-anthem-legion-of-dawn-edition.json](./103276-anthem-legion-of-dawn-edition.json) |
 | Anthem#9 | 276853 | [276853-anthem-9.json](./276853-anthem-9.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
 | Antholojam 1: Golden Era of Sci-Fi | 141781 | [141781-antholojam-1-golden-era-of-sci-fi.json](./141781-antholojam-1-golden-era-of-sci-fi.json) |
@@ -4144,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men World War: Team Assault | 43947 | [43947-army-men-world-war-team-assault.json](./43947-army-men-world-war-team-assault.json) |
 | Army Men: Air Attack | 3417 | [3417-army-men-air-attack.json](./3417-army-men-air-attack.json) |
 | Army Men: Air Attack 2 | 43949 | [43949-army-men-air-attack-2.json](./43949-army-men-air-attack-2.json) |
+| Army Men: Air Combat | 47694 | [47694-army-men-air-combat.json](./47694-army-men-air-combat.json) |
 | Army Men: Air Combat - The Elite Missions | 50582 | [50582-army-men-air-combat-the-elite-missions.json](./50582-army-men-air-combat-the-elite-missions.json) |
 | Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
 | Army Men: Mobile Ops | 280921 | [280921-army-men-mobile-ops.json](./280921-army-men-mobile-ops.json) |
@@ -4538,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
 | Assau!t | 168221 | [168221-assau-t.json](./168221-assau-t.json) |
+| Assault Android Cactus+ | 115456 | [115456-assault-android-cactus.json](./115456-assault-android-cactus.json) |
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
@@ -4606,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix & Obelix Take on Caesar | 62150 | [62150-asterix-and-obelix-take-on-caesar.json](./62150-asterix-and-obelix-take-on-caesar.json) |
 | Astérix & Obélix XXL | 210711 | [210711-asterix-and-obelix-xxl.json](./210711-asterix-and-obelix-xxl.json) |
 | Astérix & Obélix XXL 2: Mission: Las Vegum | 81480 | [81480-asterix-and-obelix-xxl-2-mission-las-vegum.json](./81480-asterix-and-obelix-xxl-2-mission-las-vegum.json) |
+| Asterix & Obelix XXL 3: The Crystal Menhir | 105002 | [105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json](./105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Asterix & Obelix: Kick Buttix | 3789 | [3789-asterix-and-obelix-kick-buttix.json](./3789-asterix-and-obelix-kick-buttix.json) |
