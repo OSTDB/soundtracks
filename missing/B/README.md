@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Romance Game Ever | 183996 | [183996-best-romance-game-ever.json](./183996-best-romance-game-ever.json) |
 | Best Solitaire Greatest Hits | 86698 | [86698-best-solitaire-greatest-hits.json](./86698-best-solitaire-greatest-hits.json) |
 | Best Spider Solitaire | 104604 | [104604-best-spider-solitaire.json](./104604-best-spider-solitaire.json) |
+| Best Streamer | 401785 | [401785-best-streamer.json](./401785-best-streamer.json) |
 | Best Time Kill | 51476 | [51476-best-time-kill.json](./51476-best-time-kill.json) |
 | Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
 | Bestial Warrior | 47553 | [47553-bestial-warrior.json](./47553-bestial-warrior.json) |
@@ -5784,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Block Simulator | 297636 | [297636-building-block-simulator.json](./297636-building-block-simulator.json) |
 | Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
+| Building Manager | 401833 | [401833-building-manager.json](./401833-building-manager.json) |
 | Building our Futature | 223500 | [223500-building-our-futature.json](./223500-building-our-futature.json) |
 | Building Relationships | 152275 | [152275-building-relationships.json](./152275-building-relationships.json) |
 | Building the Great Wall of China | 91125 | [91125-building-the-great-wall-of-china.json](./91125-building-the-great-wall-of-china.json) |
