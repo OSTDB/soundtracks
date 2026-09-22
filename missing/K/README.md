@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana | 358917 | [358917-katana.json](./358917-katana.json) |
 | Katana Action | 57132 | [57132-katana-action.json](./57132-katana-action.json) |
 | Katana Dragon | 326631 | [326631-katana-dragon.json](./326631-katana-dragon.json) |
+| Katana Kami: A Way of the Samurai Story | 125296 | [125296-katana-kami-a-way-of-the-samurai-story.json](./125296-katana-kami-a-way-of-the-samurai-story.json) |
 | Katana Of Rin | 297223 | [297223-katana-of-rin.json](./297223-katana-of-rin.json) |
 | Katana Robo: RTA | 278546 | [278546-katana-robo-rta.json](./278546-katana-robo-rta.json) |
 | Katana Soul | 115074 | [115074-katana-soul.json](./115074-katana-soul.json) |
