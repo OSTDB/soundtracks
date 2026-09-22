@@ -2531,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat Games | 27977 | [27977-the-cat-games.json](./27977-the-cat-games.json) |
 | The Cat in the Hat: Rainy Day Mayhem | 403720 | [403720-the-cat-in-the-hat-rainy-day-mayhem.json](./403720-the-cat-in-the-hat-rainy-day-mayhem.json) |
 | The Cat in the Hijab | 55930 | [55930-the-cat-in-the-hijab.json](./55930-the-cat-in-the-hijab.json) |
+| The Cat Machine | 34837 | [34837-the-cat-machine.json](./34837-the-cat-machine.json) |
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
 | The Cat Scheduled Oil Sampling Game | 281379 | [281379-the-cat-scheduled-oil-sampling-game.json](./281379-the-cat-scheduled-oil-sampling-game.json) |
 | The Cat That Got the Milk | 283742 | [283742-the-cat-that-got-the-milk.json](./283742-the-cat-that-got-the-milk.json) |
@@ -4180,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Before Time: Into the Mysterious Beyond | 49332 | [49332-the-land-before-time-into-the-mysterious-beyond.json](./49332-the-land-before-time-into-the-mysterious-beyond.json) |
 | The Land Forgotten | 381730 | [381730-the-land-forgotten.json](./381730-the-land-forgotten.json) |
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
+| The Land of Lamia | 34838 | [34838-the-land-of-lamia.json](./34838-the-land-of-lamia.json) |
 | The Land of Morning Calm | 358888 | [358888-the-land-of-morning-calm.json](./358888-the-land-of-morning-calm.json) |
 | The Land of Rest 1 | 346608 | [346608-the-land-of-rest-1.json](./346608-the-land-of-rest-1.json) |
 | The Land of Seidr | 275724 | [275724-the-land-of-seidr.json](./275724-the-land-of-seidr.json) |
@@ -4334,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Vampire Hunter | 301279 | [301279-the-last-vampire-hunter.json](./301279-the-last-vampire-hunter.json) |
 | The Last Visit: 98th | 344345 | [344345-the-last-visit-98th.json](./344345-the-last-visit-98th.json) |
 | The Last War | 173257 | [173257-the-last-war.json](./173257-the-last-war.json) |
+| The Last Warlock | 34881 | [34881-the-last-warlock.json](./34881-the-last-warlock.json) |
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
@@ -6532,6 +6535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The very long walk | 77655 | [77655-the-very-long-walk.json](./77655-the-very-long-walk.json) |
 | The VHS Paradise | 281553 | [281553-the-vhs-paradise.json](./281553-the-vhs-paradise.json) |
 | The Vice Squad | 47252 | [47252-the-vice-squad.json](./47252-the-vice-squad.json) |
+| The Viceroy | 34825 | [34825-the-viceroy.json](./34825-the-viceroy.json) |
 | The Victor Initiative | 320732 | [320732-the-victor-initiative.json](./320732-the-victor-initiative.json) |
 | The Video Game Machine | 123066 | [123066-the-video-game-machine.json](./123066-the-video-game-machine.json) |
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
