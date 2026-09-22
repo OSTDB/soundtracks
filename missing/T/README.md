@@ -2144,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The ​Aquarium Does Not Dance | 243398 | [243398-the-aquarium-does-not-dance.json](./243398-the-aquarium-does-not-dance.json) |
 | The Aquarium of Luck | 85434 | [85434-the-aquarium-of-luck.json](./85434-the-aquarium-of-luck.json) |
 | The Aquatic Adventure of the Last Human | 12598 | [12598-the-aquatic-adventure-of-the-last-human.json](./12598-the-aquatic-adventure-of-the-last-human.json) |
+| The Arab League of Misfits | 412531 | [412531-the-arab-league-of-misfits.json](./412531-the-arab-league-of-misfits.json) |
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
 | The Archer | 287646 | [287646-the-archer.json](./287646-the-archer.json) |
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
@@ -2540,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle Disaster | 95192 | [95192-the-castle-disaster.json](./95192-the-castle-disaster.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
 | The Castle Doctrine | 16651 | [16651-the-castle-doctrine.json](./16651-the-castle-doctrine.json) |
+| The Castle of the West | 412533 | [412533-the-castle-of-the-west.json](./412533-the-castle-of-the-west.json) |
 | The Cat | 289315 | [289315-the-cat.json](./289315-the-cat.json) |
 | The Cat and the Coup | 16241 | [16241-the-cat-and-the-coup.json](./16241-the-cat-and-the-coup.json) |
 | The Cat Games | 27977 | [27977-the-cat-games.json](./27977-the-cat-games.json) |
@@ -2598,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
+| The Choices Of Priori | 412546 | [412546-the-choices-of-priori.json](./412546-the-choices-of-priori.json) |
 | The Choreographist | 140564 | [140564-the-choreographist.json](./140564-the-choreographist.json) |
 | The Chosen RPG | 146264 | [146264-the-chosen-rpg.json](./146264-the-chosen-rpg.json) |
 | The Chosen Warriors | 81229 | [81229-the-chosen-warriors.json](./81229-the-chosen-warriors.json) |
@@ -6821,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
 | The World's Hardest Game | 141086 | [141086-the-worlds-hardest-game.json](./141086-the-worlds-hardest-game.json) |
+| The World's Hardest Game 3D Nostalgia | 412509 | [412509-the-worlds-hardest-game-3d-nostalgia.json](./412509-the-worlds-hardest-game-3d-nostalgia.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The Worlds Best Board Games | 51208 | [51208-the-worlds-best-board-games.json](./51208-the-worlds-best-board-games.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
@@ -8732,7 +8736,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Island Thunder | 1296 | [1296-tom-clancys-ghost-recon-island-thunder.json](./1296-tom-clancys-ghost-recon-island-thunder.json) |
 | Tom Clancy's Ghost Recon: Island Thunder | 307301 | [307301-tom-clancys-ghost-recon-island-thunder.json](./307301-tom-clancys-ghost-recon-island-thunder.json) |
 | Tom Clancy's Ghost Recon: Jungle Storm | 175928 | [175928-tom-clancys-ghost-recon-jungle-storm.json](./175928-tom-clancys-ghost-recon-jungle-storm.json) |
+| Tom Clancy's Ghost Recon: Wildlands - Definitive Edition | 412552 | [412552-tom-clancys-ghost-recon-wildlands-definitive-edition.json](./412552-tom-clancys-ghost-recon-wildlands-definitive-edition.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Gold Edition | 82078 | [82078-tom-clancys-ghost-recon-wildlands-gold-edition.json](./82078-tom-clancys-ghost-recon-wildlands-gold-edition.json) |
+| Tom Clancy's Ghost Recon: Wildlands - Last Rites | 412553 | [412553-tom-clancys-ghost-recon-wildlands-last-rites.json](./412553-tom-clancys-ghost-recon-wildlands-last-rites.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Narco Road | 28173 | [28173-tom-clancys-ghost-recon-wildlands-narco-road.json](./28173-tom-clancys-ghost-recon-wildlands-narco-road.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Ultimate Edition | 119071 | [119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json](./119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
@@ -9835,6 +9841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Miner | 344443 | [344443-train-miner.json](./344443-train-miner.json) |
 | Train No. 7 | 163960 | [163960-train-no-7.json](./163960-train-no-7.json) |
 | Train of Afterlife | 35939 | [35939-train-of-afterlife.json](./35939-train-of-afterlife.json) |
+| Train Plus Japan: Drive Western Japan Trains! - Rapid Service Edition | 412568 | [412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json](./412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json) |
 | Train Sim World | 105877 | [105877-train-sim-world.json](./105877-train-sim-world.json) |
 | Train Sim World 2 | 136868 | [136868-train-sim-world-2.json](./136868-train-sim-world-2.json) |
 | Train Sim World 2: Arosalinie: Chur - Arosa Route Add-On | 156500 | [156500-train-sim-world-2-arosalinie-chur-arosa-route-add-on.json](./156500-train-sim-world-2-arosalinie-chur-arosa-route-add-on.json) |
