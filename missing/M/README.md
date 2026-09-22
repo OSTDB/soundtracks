@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Horizon | 101183 | [101183-mars-horizon.json](./101183-mars-horizon.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
+| Mars or Die! | 104047 | [104047-mars-or-die.json](./104047-mars-or-die.json) |
 | Mars Power Industries Deluxe | 122168 | [122168-mars-power-industries-deluxe.json](./122168-mars-power-industries-deluxe.json) |
 | Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
@@ -2992,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
 | Mercenaries Saga Chronicles: Physical Edition | 109435 | [109435-mercenaries-saga-chronicles-physical-edition.json](./109435-mercenaries-saga-chronicles-physical-edition.json) |
 | Mercenaries Series Bundle | 175818 | [175818-mercenaries-series-bundle.json](./175818-mercenaries-series-bundle.json) |
+| Mercenaries Wings: The False Phoenix | 104789 | [104789-mercenaries-wings-the-false-phoenix.json](./104789-mercenaries-wings-the-false-phoenix.json) |
 | Mercenaries: Playground of Destruction | 2683 | [2683-mercenaries-playground-of-destruction.json](./2683-mercenaries-playground-of-destruction.json) |
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
