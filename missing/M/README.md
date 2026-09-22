@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mappy-Land | 48179 | [48179-mappy-land.json](./48179-mappy-land.json) |
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
+| MapTap.gg | 400496 | [400496-maptap-gg.json](./400496-maptap-gg.json) |
 | Mapventure Story | 238587 | [238587-mapventure-story.json](./238587-mapventure-story.json) |
 | Maqiupai | 92993 | [92993-maqiupai.json](./92993-maqiupai.json) |
 | Mär Heaven: Arm Fight Dream | 59398 | [59398-mar-heaven-arm-fight-dream.json](./59398-mar-heaven-arm-fight-dream.json) |
