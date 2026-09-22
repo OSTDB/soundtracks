@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculator360 | 81236 | [81236-calculator360.json](./81236-calculator360.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
+| California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
 | Californication | 192403 | [192403-californication.json](./192403-californication.json) |
 | Californium | 18351 | [18351-californium.json](./18351-californium.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast Dice Away | 324901 | [324901-cast-dice-away.json](./324901-cast-dice-away.json) |
 | Cast VR | 132206 | [132206-cast-vr.json](./132206-cast-vr.json) |
 | Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
+| Castaway | 295314 | [295314-castaway.json](./295314-castaway.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
 | Castaway Diary: Portal to the Unknown Isles | 398422 | [398422-castaway-diary-portal-to-the-unknown-isles.json](./398422-castaway-diary-portal-to-the-unknown-isles.json) |
 | Castaway on a Weird Island | 174198 | [174198-castaway-on-a-weird-island.json](./174198-castaway-on-a-weird-island.json) |
@@ -1411,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
 | Cats & Soup | 174818 | [174818-cats-and-soup.json](./174818-cats-and-soup.json) |
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
+| Cats and Seek: Kyoto | 291419 | [291419-cats-and-seek-kyoto.json](./291419-cats-and-seek-kyoto.json) |
 | Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
@@ -4781,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corsair | 80501 | [80501-corsair.json](./80501-corsair.json) |
+| Corsair Cove | 398638 | [398638-corsair-cove.json](./398638-corsair-cove.json) |
 | Corsairs: Conquest at Sea | 10107 | [10107-corsairs-conquest-at-sea.json](./10107-corsairs-conquest-at-sea.json) |
 | Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
