@@ -533,6 +533,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football 2002 | 44644 | [44644-ncaa-football-2002.json](./44644-ncaa-football-2002.json) |
 | NCAA Football 2003 | 5955 | [5955-ncaa-football-2003.json](./5955-ncaa-football-2003.json) |
 | NCAA Football 2004 | 175918 | [175918-ncaa-football-2004.json](./175918-ncaa-football-2004.json) |
+| NCAA Football 2004 | 5956 | [5956-ncaa-football-2004.json](./5956-ncaa-football-2004.json) |
+| NCAA Football 2005 | 5957 | [5957-ncaa-football-2005.json](./5957-ncaa-football-2005.json) |
 | NCAA March Madness 06 | 5958 | [5958-ncaa-march-madness-06.json](./5958-ncaa-march-madness-06.json) |
 | NCAA March Madness 07 | 21392 | [21392-ncaa-march-madness-07.json](./21392-ncaa-march-madness-07.json) |
 | NCAA March Madness 2003 | 43271 | [43271-ncaa-march-madness-2003.json](./43271-ncaa-march-madness-2003.json) |
@@ -970,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerts!: Online | 142226 | [142226-nerts-online.json](./142226-nerts-online.json) |
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
 | Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
+| NES Remix 2 | 6402 | [6402-nes-remix-2.json](./6402-nes-remix-2.json) |
 | Nessa no Hoshi | 123585 | [123585-nessa-no-hoshi.json](./123585-nessa-no-hoshi.json) |
 | Nessie | 64442 | [64442-nessie.json](./64442-nessie.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
