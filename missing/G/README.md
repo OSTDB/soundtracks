@@ -3205,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grounded 2: Beat the Heat | 398431 | [398431-grounded-2-beat-the-heat.json](./398431-grounded-2-beat-the-heat.json) |
 | Grounded 2: Into the Abyss | 413063 | [413063-grounded-2-into-the-abyss.json](./413063-grounded-2-into-the-abyss.json) |
 | Grounded: Fully Yoked Edition | 297696 | [297696-grounded-fully-yoked-edition.json](./297696-grounded-fully-yoked-edition.json) |
+| Groundhog Day: Like Father Like Son | 114782 | [114782-groundhog-day-like-father-like-son.json](./114782-groundhog-day-like-father-like-son.json) |
 | Groupel | 374057 | [374057-groupel.json](./374057-groupel.json) |
 | Groups of Seven | 335861 | [335861-groups-of-seven.json](./335861-groups-of-seven.json) |
 | Grove Island | 219162 | [219162-grove-island.json](./219162-grove-island.json) |
