@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
 | Unknown Soldier: Mokuba no Houkou | 267396 | [267396-unknown-soldier-mokuba-no-houkou.json](./267396-unknown-soldier-mokuba-no-houkou.json) |
 | Unknown Space | 400860 | [400860-unknown-space.json](./400860-unknown-space.json) |
+| Unknown Terminal | 393826 | [393826-unknown-terminal.json](./393826-unknown-terminal.json) |
 | Unko Technica | 309509 | [309509-unko-technica.json](./309509-unko-technica.json) |
 | Unko Typing | 189128 | [189128-unko-typing.json](./189128-unko-typing.json) |
 | Unkore | 151750 | [151750-unkore.json](./151750-unkore.json) |
@@ -1110,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up to Gods | 275351 | [275351-up-to-gods.json](./275351-up-to-gods.json) |
 | Up Until the End | 133472 | [133472-up-until-the-end.json](./133472-up-until-the-end.json) |
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
+| Up Up Up | 393836 | [393836-up-up-up.json](./393836-up-up-up.json) |
 | Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
 | Upbeat | 390130 | [390130-upbeat.json](./390130-upbeat.json) |
 | Upbeat Melody Project | 386257 | [386257-upbeat-melody-project.json](./386257-upbeat-melody-project.json) |
