@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Death | 32211 | [32211-second-death.json](./32211-second-death.json) |
 | Second Death | 377178 | [377178-second-death.json](./377178-second-death.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
+| Second Humanity | 391869 | [391869-second-humanity.json](./391869-second-humanity.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Person: Secret Laboratory | 158657 | [158657-second-person-secret-laboratory.json](./158657-second-person-secret-laboratory.json) |
 | Second Puberty | 176923 | [176923-second-puberty.json](./176923-second-puberty.json) |
@@ -4114,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
 | Sisterly Bliss: Don't Let Mom Find Out | 415277 | [415277-sisterly-bliss-dont-let-mom-find-out.json](./415277-sisterly-bliss-dont-let-mom-find-out.json) |
 | Sisters of Silent Liberty | 154410 | [154410-sisters-of-silent-liberty.json](./154410-sisters-of-silent-liberty.json) |
+| Sisters of Solitude | 391847 | [391847-sisters-of-solitude.json](./391847-sisters-of-solitude.json) |
 | Sisters of Sweetwater | 225091 | [225091-sisters-of-sweetwater.json](./225091-sisters-of-sweetwater.json) |
 | Sisters Possession 1 | 195120 | [195120-sisters-possession-1.json](./195120-sisters-possession-1.json) |
 | Sisters Royale: Five Stars Under Fire - Ode | 161756 | [161756-sisters-royale-five-stars-under-fire-ode.json](./161756-sisters-royale-five-stars-under-fire-ode.json) |
@@ -5782,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solid Void Art Nonograms | 378770 | [378770-solid-void-art-nonograms.json](./378770-solid-void-art-nonograms.json) |
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
 | Solidus | 100745 | [100745-solidus.json](./100745-solidus.json) |
+| Solipsis | 391885 | [391885-solipsis.json](./391885-solipsis.json) |
 | Solipsism Reigns | 183434 | [183434-solipsism-reigns.json](./183434-solipsism-reigns.json) |
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solir | 332529 | [332529-solir.json](./332529-solir.json) |
@@ -9697,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
 | Story Maker | 66615 | [66615-story-maker.json](./66615-story-maker.json) |
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
+| Story of a Line | 391850 | [391850-story-of-a-line.json](./391850-story-of-a-line.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
 | Story of Love & Food | 392466 | [392466-story-of-love-and-food.json](./392466-story-of-love-and-food.json) |
