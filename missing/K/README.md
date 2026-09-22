@@ -1390,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Lost Her Box | 235490 | [235490-kitten-lost-her-box.json](./235490-kitten-lost-her-box.json) |
 | Kitten Super Adventure | 35807 | [35807-kitten-super-adventure.json](./35807-kitten-super-adventure.json) |
 | Kitten Tales | 262483 | [262483-kitten-tales.json](./262483-kitten-tales.json) |
+| Kitten'd | 104860 | [104860-kittend.json](./104860-kittend.json) |
 | Kitten's Head Football: Complete Edition | 268565 | [268565-kittens-head-football-complete-edition.json](./268565-kittens-head-football-complete-edition.json) |
 | Kitten's Head Football: Halloween | 223560 | [223560-kittens-head-football-halloween.json](./223560-kittens-head-football-halloween.json) |
 | Kitten's Head Football: Spooky Edition | 221970 | [221970-kittens-head-football-spooky-edition.json](./221970-kittens-head-football-spooky-edition.json) |
