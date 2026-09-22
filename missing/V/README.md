@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
 | Vínculo | 355077 | [355077-vinculo.json](./355077-vinculo.json) |
+| Vinculum | 417644 | [417644-vinculum.json](./417644-vinculum.json) |
 | Vind | 115721 | [115721-vind.json](./115721-vind.json) |
 | Vindefiant | 296366 | [296366-vindefiant.json](./296366-vindefiant.json) |
 | Vindicators | 12871 | [12871-vindicators.json](./12871-vindicators.json) |
