@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
 | El lacasito de Gandalf | 320990 | [320990-el-lacasito-de-gandalf.json](./320990-el-lacasito-de-gandalf.json) |
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
+| El Llamero Solitario | 404453 | [404453-el-llamero-solitario.json](./404453-el-llamero-solitario.json) |
 | El Ministerio del Tiempo VR: El tiempo en tus manos | 72345 | [72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json](./72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json) |
 | El Misterio del Nilo | 104590 | [104590-el-misterio-del-nilo.json](./104590-el-misterio-del-nilo.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
