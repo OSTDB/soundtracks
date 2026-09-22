@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Revelations 2 | 7725 | [7725-resident-evil-revelations-2.json](./7725-resident-evil-revelations-2.json) |
 | Resident Evil: Revelations 2 - Deluxe Edition | 53506 | [53506-resident-evil-revelations-2-deluxe-edition.json](./53506-resident-evil-revelations-2-deluxe-edition.json) |
 | Resident Evil: Revelations 2 - Episode 4: Metamorphosis | 116027 | [116027-resident-evil-revelations-2-episode-4-metamorphosis.json](./116027-resident-evil-revelations-2-episode-4-metamorphosis.json) |
+| Resident Evil: Revelations 2 - Extra Episode 2: Little Miss | 116029 | [116029-resident-evil-revelations-2-extra-episode-2-little-miss.json](./116029-resident-evil-revelations-2-extra-episode-2-little-miss.json) |
 | Resident Evil: Survival Unit | 352832 | [352832-resident-evil-survival-unit.json](./352832-resident-evil-survival-unit.json) |
 | Resident Evil: Survivor Redux | 313129 | [313129-resident-evil-survivor-redux.json](./313129-resident-evil-survivor-redux.json) |
 | Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
@@ -2330,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Storm | 239180 | [239180-rhythm-storm.json](./239180-rhythm-storm.json) |
 | Rhythm Tengoku | 210730 | [210730-rhythm-tengoku.json](./210730-rhythm-tengoku.json) |
 | Rhythm Tengoku: Tempo Up! | 280761 | [280761-rhythm-tengoku-tempo-up.json](./280761-rhythm-tengoku-tempo-up.json) |
+| Rhythm Thief & the Emperor's Treasure | 47603 | [47603-rhythm-thief-and-the-emperors-treasure.json](./47603-rhythm-thief-and-the-emperors-treasure.json) |
 | Rhythm Town: Music Visualizer | 335251 | [335251-rhythm-town-music-visualizer.json](./335251-rhythm-town-music-visualizer.json) |
 | Rhythm Typer | 382798 | [382798-rhythm-typer.json](./382798-rhythm-typer.json) |
 | Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
@@ -2958,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robits | 183968 | [183968-robits.json](./183968-robits.json) |
 | Roblox 64 | 245382 | [245382-roblox-64.json](./245382-roblox-64.json) |
 | Robman | 178614 | [178614-robman.json](./178614-robman.json) |
+| Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
 | Robo Oh | 158159 | [158159-robo-oh.json](./158159-robo-oh.json) |
