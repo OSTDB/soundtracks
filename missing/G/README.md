@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Overlord | 352259 | [352259-galactic-overlord.json](./352259-galactic-overlord.json) |
 | Galactic Pinball | 20381 | [20381-galactic-pinball.json](./20381-galactic-pinball.json) |
 | Galactic Pioneer | 208049 | [208049-galactic-pioneer.json](./208049-galactic-pioneer.json) |
+| Galactic Pit Stop Simulator | 407554 | [407554-galactic-pit-stop-simulator.json](./407554-galactic-pit-stop-simulator.json) |
 | Galactic Pixel Wars: The Farce Awakens | 351041 | [351041-galactic-pixel-wars-the-farce-awakens.json](./351041-galactic-pixel-wars-the-farce-awakens.json) |
 | Galactic Rivalry | 25761 | [25761-galactic-rivalry.json](./25761-galactic-rivalry.json) |
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
@@ -254,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: The Void - Deluxe Edition | 115666 | [115666-galak-z-the-void-deluxe-edition.json](./115666-galak-z-the-void-deluxe-edition.json) |
 | Galak-Z: The Void / Skulls of the Shogun: Bone-A-Fide Edition - Platinum Pack | 173777 | [173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json](./173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json) |
 | Galak-Z: The Void & Skulls of the Shogun: Bonafide Edition - Platinum Pack | 138264 | [138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json](./138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json) |
+| Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | Galax Attax | 92967 | [92967-galax-attax.json](./92967-galax-attax.json) |
