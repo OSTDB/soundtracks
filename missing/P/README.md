@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikari Walk | 230503 | [230503-pikari-walk.json](./230503-pikari-walk.json) |
 | Pikes.io | 306978 | [306978-pikes-io.json](./306978-pikes-io.json) |
 | Pikki Rikki | 255164 | [255164-pikki-rikki.json](./255164-pikki-rikki.json) |
+| Pikku Adventure | 395181 | [395181-pikku-adventure.json](./395181-pikku-adventure.json) |
 | Pikmin | 2239 | [2239-pikmin.json](./2239-pikmin.json) |
 | Pikmin 2 | 2240 | [2240-pikmin-2.json](./2240-pikmin-2.json) |
 | Pikmin 2 | 254335 | [254335-pikmin-2.json](./254335-pikmin-2.json) |
@@ -4307,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
 | Post Apocalyptic Mayhem | 16229 | [16229-post-apocalyptic-mayhem.json](./16229-post-apocalyptic-mayhem.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
+| Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
 | Post-Future Vagabond | 139809 | [139809-post-future-vagabond.json](./139809-post-future-vagabond.json) |
@@ -5000,6 +5002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Wrestling Tycoon | 413165 | [413165-pro-wrestling-tycoon.json](./413165-pro-wrestling-tycoon.json) |
 | Pro Yakyuu Dream Nine Superstars | 220313 | [220313-pro-yakyuu-dream-nine-superstars.json](./220313-pro-yakyuu-dream-nine-superstars.json) |
 | Pro Yakyuu Family Stadium '88: Nendo-ban | 48304 | [48304-pro-yakyuu-family-stadium-88-nendo-ban.json](./48304-pro-yakyuu-family-stadium-88-nendo-ban.json) |
+| Pro Yakyuu Fanstars League | 395234 | [395234-pro-yakyuu-fanstars-league.json](./395234-pro-yakyuu-fanstars-league.json) |
 | Pro Yakyuu ga Suki Da! 2017 | 194032 | [194032-pro-yakyuu-ga-suki-da-2017.json](./194032-pro-yakyuu-ga-suki-da-2017.json) |
 | Pro Yakyuu GG League | 141191 | [141191-pro-yakyuu-gg-league.json](./141191-pro-yakyuu-gg-league.json) |
 | Pro Yakyuu Greatest Nine 97 | 231611 | [231611-pro-yakyuu-greatest-nine-97.json](./231611-pro-yakyuu-greatest-nine-97.json) |
