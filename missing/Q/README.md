@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
 | Quester | 197387 | [197387-quester.json](./197387-quester.json) |
 | Quester | 46852 | [46852-quester.json](./46852-quester.json) |
+| Questerium: Sinister Trinity HD - Collector's Edition | 36234 | [36234-questerium-sinister-trinity-hd-collectors-edition.json](./36234-questerium-sinister-trinity-hd-collectors-edition.json) |
 | Questinarium | 393467 | [393467-questinarium.json](./393467-questinarium.json) |
 | Question Mark | 388254 | [388254-question-mark.json](./388254-question-mark.json) |
 | QuestionBank | 341316 | [341316-questionbank.json](./341316-questionbank.json) |
