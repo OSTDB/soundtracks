@@ -1888,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
 | Heresis | 340465 | [340465-heresis.json](./340465-heresis.json) |
 | Heresy | 34240 | [34240-heresy.json](./34240-heresy.json) |
+| Heretic + Hexen | 360141 | [360141-heretic-hexen.json](./360141-heretic-hexen.json) |
 | Heretic Amplified | 268775 | [268775-heretic-amplified.json](./268775-heretic-amplified.json) |
 | Heretic II | 20752 | [20752-heretic-ii.json](./20752-heretic-ii.json) |
 | Heretic Invades Doom | 316984 | [316984-heretic-invades-doom.json](./316984-heretic-invades-doom.json) |
