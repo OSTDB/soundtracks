@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
+| Scarlet Idol | 408245 | [408245-scarlet-idol.json](./408245-scarlet-idol.json) |
 | Scarlet Manor: The Heir | 272937 | [272937-scarlet-manor-the-heir.json](./272937-scarlet-manor-the-heir.json) |
 | Scarlet Nexus: Ultimate Edition | 188044 | [188044-scarlet-nexus-ultimate-edition.json](./188044-scarlet-nexus-ultimate-edition.json) |
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
@@ -1156,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scotty Goes to Centrelink | 202350 | [202350-scotty-goes-to-centrelink.json](./202350-scotty-goes-to-centrelink.json) |
 | Scoundrel | 101605 | [101605-scoundrel.json](./101605-scoundrel.json) |
 | Scoundrel's Dungeon | 399600 | [399600-scoundrels-dungeon.json](./399600-scoundrels-dungeon.json) |
+| Scourge | 408288 | [408288-scourge.json](./408288-scourge.json) |
 | Scourge of Scavengers | 348274 | [348274-scourge-of-scavengers.json](./348274-scourge-of-scavengers.json) |
 | Scourge of the Village | 277947 | [277947-scourge-of-the-village.json](./277947-scourge-of-the-village.json) |
 | Scourge of War: Gettysburg | 77312 | [77312-scourge-of-war-gettysburg.json](./77312-scourge-of-war-gettysburg.json) |
@@ -3100,6 +3102,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiro Project: Re Castle Defense | 133386 | [133386-shiro-project-re-castle-defense.json](./133386-shiro-project-re-castle-defense.json) |
 | Shiro to Kuro no Alice: Twilight Line | 136471 | [136471-shiro-to-kuro-no-alice-twilight-line.json](./136471-shiro-to-kuro-no-alice-twilight-line.json) |
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
+| Shirogane no Cal to Soukuu no Joou | 408266 | [408266-shirogane-no-cal-to-soukuu-no-joou.json](./408266-shirogane-no-cal-to-soukuu-no-joou.json) |
+| Shirogane no Cal to Soukuu no Joou Genteiban | 408268 | [408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json](./408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json) |
 | Shirogane x Spirits | 216352 | [216352-shirogane-x-spirits.json](./216352-shirogane-x-spirits.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
 | Shiryou Sensen: War of the Dead | 42041 | [42041-shiryou-sensen-war-of-the-dead.json](./42041-shiryou-sensen-war-of-the-dead.json) |
@@ -9407,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickMUD | 228427 | [228427-stickmud.json](./228427-stickmud.json) |
 | Sticks | 68800 | [68800-sticks.json](./68800-sticks.json) |
 | Sticks Aim Trainer | 294818 | [294818-sticks-aim-trainer.json](./294818-sticks-aim-trainer.json) |
+| Sticks and Stones | 408291 | [408291-sticks-and-stones.json](./408291-sticks-and-stones.json) |
 | Sticks Collection | 207888 | [207888-sticks-collection.json](./207888-sticks-collection.json) |
 | Sticks Together: The Wishing Well | 311137 | [311137-sticks-together-the-wishing-well.json](./311137-sticks-together-the-wishing-well.json) |
 | StickSpinner | 264062 | [264062-stickspinner.json](./264062-stickspinner.json) |
