@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inayah: Life after Gods | 317838 | [317838-inayah-life-after-gods.json](./317838-inayah-life-after-gods.json) |
 | Inazuma Eleven 1, 2, 3!! Endou Mamoru Densetsu | 86106 | [86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json](./86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json) |
 | Inazuma Eleven GO: Chrono Stones - Wildfire | 9693 | [9693-inazuma-eleven-go-chrono-stones-wildfire.json](./9693-inazuma-eleven-go-chrono-stones-wildfire.json) |
+| Inazuma Eleven Go: Light | 47673 | [47673-inazuma-eleven-go-light.json](./47673-inazuma-eleven-go-light.json) |
 | Inazuma Eleven GO: Shadow | 9685 | [9685-inazuma-eleven-go-shadow.json](./9685-inazuma-eleven-go-shadow.json) |
 | Inazuma Eleven Origins | 289434 | [289434-inazuma-eleven-origins.json](./289434-inazuma-eleven-origins.json) |
 | Inazuma Eleven Re | 317592 | [317592-inazuma-eleven-re.json](./317592-inazuma-eleven-re.json) |
@@ -1855,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Inversed | 310575 | [310575-inversed.json](./310575-inversed.json) |
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
+| Inversus | 19608 | [19608-inversus.json](./19608-inversus.json) |
 | Invert | 383504 | [383504-invert.json](./383504-invert.json) |
 | Invert by SlushyRh | 265144 | [265144-invert-by-slushyrh.json](./265144-invert-by-slushyrh.json) |
 | Invert: Tile Flipping Puzzles | 82953 | [82953-invert-tile-flipping-puzzles.json](./82953-invert-tile-flipping-puzzles.json) |
