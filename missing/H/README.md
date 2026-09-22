@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvested | 118393 | [118393-harvested.json](./118393-harvested.json) |
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
+| Harvester vs. Zombies | 409751 | [409751-harvester-vs-zombies.json](./409751-harvester-vs-zombies.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
 | Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
 | Hasbro Family Game Night 3 | 47434 | [47434-hasbro-family-game-night-3.json](./47434-hasbro-family-game-night-3.json) |
