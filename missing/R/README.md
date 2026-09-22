@@ -2029,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restore | 397658 | [397658-restore.json](./397658-restore.json) |
+| Restore the Luminous | 413935 | [413935-restore-the-luminous.json](./413935-restore-the-luminous.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Restoring the Past: The Beauty of Porcelain 3 | 382885 | [382885-restoring-the-past-the-beauty-of-porcelain-3.json](./382885-restoring-the-past-the-beauty-of-porcelain-3.json) |
 | ReStreamed | 179608 | [179608-restreamed.json](./179608-restreamed.json) |
@@ -4108,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rucoy 2: Mirror World MMORPG | 231916 | [231916-rucoy-2-mirror-world-mmorpg.json](./231916-rucoy-2-mirror-world-mmorpg.json) |
 | Rucoy Online | 76572 | [76572-rucoy-online.json](./76572-rucoy-online.json) |
 | Ruction: The Golden Tablet | 32207 | [32207-ruction-the-golden-tablet.json](./32207-ruction-the-golden-tablet.json) |
+| Rudimentary Unfinished Shooter Entry | 413891 | [413891-rudimentary-unfinished-shooter-entry.json](./413891-rudimentary-unfinished-shooter-entry.json) |
 | Rudo Resurrection | 66646 | [66646-rudo-resurrection.json](./66646-rudo-resurrection.json) |
 | Rudolph the Red-Nosed Reindeer | 358391 | [358391-rudolph-the-red-nosed-reindeer.json](./358391-rudolph-the-red-nosed-reindeer.json) |
 | Rudra no Hihou | 15838 | [15838-rudra-no-hihou.json](./15838-rudra-no-hihou.json) |
