@@ -2733,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cube Factory | 147365 | [147365-the-cube-factory.json](./147365-the-cube-factory.json) |
 | The Cubedex of Boxes and Lines | 158659 | [158659-the-cubedex-of-boxes-and-lines.json](./158659-the-cubedex-of-boxes-and-lines.json) |
 | The Cubicle. | 33273 | [33273-the-cubicle.json](./33273-the-cubicle.json) |
+| The Culling | 17252 | [17252-the-culling.json](./17252-the-culling.json) |
 | The Culling II | 103367 | [103367-the-culling-ii.json](./103367-the-culling-ii.json) |
 | The Culling of the Cows | 9399 | [9399-the-culling-of-the-cows.json](./9399-the-culling-of-the-cows.json) |
 | The Cult of Chanseville | 211820 | [211820-the-cult-of-chanseville.json](./211820-the-cult-of-chanseville.json) |
@@ -3333,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
 | The Flintstones: Dino - Lost in Bedrock | 71541 | [71541-the-flintstones-dino-lost-in-bedrock.json](./71541-the-flintstones-dino-lost-in-bedrock.json) |
 | The Flintstones: The Movie | 146331 | [146331-the-flintstones-the-movie.json](./146331-the-flintstones-the-movie.json) |
+| The Flintstones: The Treasure of Sierra Madrock | 8450 | [8450-the-flintstones-the-treasure-of-sierra-madrock.json](./8450-the-flintstones-the-treasure-of-sierra-madrock.json) |
 | The Floor is [Blank] | 157140 | [157140-the-floor-is-blank.json](./157140-the-floor-is-blank.json) |
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
@@ -3389,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forlorn | 415163 | [415163-the-forlorn.json](./415163-the-forlorn.json) |
 | The Fortune Teller Game | 342178 | [342178-the-fortune-teller-game.json](./342178-the-fortune-teller-game.json) |
 | The Founders of Daytona Beach Also Founded Dayton, Ohio | 360606 | [360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json](./360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json) |
+| The Four Kings Casino and Slots | 16797 | [16797-the-four-kings-casino-and-slots.json](./16797-the-four-kings-casino-and-slots.json) |
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
 | The Fox Awaits Me Hana | 265642 | [265642-the-fox-awaits-me-hana.json](./265642-the-fox-awaits-me-hana.json) |
@@ -4800,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Hell | 224652 | [224652-the-moon-hell.json](./224652-the-moon-hell.json) |
 | The Moon Night | 51962 | [51962-the-moon-night.json](./51962-the-moon-night.json) |
 | The Moon Relax | 165021 | [165021-the-moon-relax.json](./165021-the-moon-relax.json) |
+| The Moon Sliver | 17965 | [17965-the-moon-sliver.json](./17965-the-moon-sliver.json) |
 | The Moonlighters | 62993 | [62993-the-moonlighters.json](./62993-the-moonlighters.json) |
 | The Moonlit Tower | 216324 | [216324-the-moonlit-tower.json](./216324-the-moonlit-tower.json) |
 | The Mooseman | 27358 | [27358-the-mooseman.json](./27358-the-mooseman.json) |
