@@ -1175,6 +1175,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Aria of Sorrow - Persephone | 268722 | [268722-castlevania-aria-of-sorrow-persephone.json](./268722-castlevania-aria-of-sorrow-persephone.json) |
 | Castlevania: Aria of Sorrow - Reprise | 231091 | [231091-castlevania-aria-of-sorrow-reprise.json](./231091-castlevania-aria-of-sorrow-reprise.json) |
 | Castlevania: Belmont's Curse | 389434 | [389434-castlevania-belmonts-curse.json](./389434-castlevania-belmonts-curse.json) |
+| Castlevania: Belmont's Curse - Bonus Contents Pack | 411827 | [411827-castlevania-belmonts-curse-bonus-contents-pack.json](./411827-castlevania-belmonts-curse-bonus-contents-pack.json) |
+| Castlevania: Belmont's Curse - Midnight Edition | 411834 | [411834-castlevania-belmonts-curse-midnight-edition.json](./411834-castlevania-belmonts-curse-midnight-edition.json) |
 | Castlevania: Chorus of Mysteries | 48299 | [48299-castlevania-chorus-of-mysteries.json](./48299-castlevania-chorus-of-mysteries.json) |
 | Castlevania: Circle of the Moon | 1132 | [1132-castlevania-circle-of-the-moon.json](./1132-castlevania-circle-of-the-moon.json) |
 | Castlevania: Circle of the Moon | 222410 | [222410-castlevania-circle-of-the-moon.json](./222410-castlevania-circle-of-the-moon.json) |
@@ -1820,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
 | Chameleon | 21452 | [21452-chameleon.json](./21452-chameleon.json) |
 | Chameleon | 37077 | [37077-chameleon.json](./37077-chameleon.json) |
+| Chameleon Dummy Hunt | 411812 | [411812-chameleon-dummy-hunt.json](./411812-chameleon-dummy-hunt.json) |
 | Chameleon Gems | 92483 | [92483-chameleon-gems.json](./92483-chameleon-gems.json) |
 | Chameleon Run+ | 174202 | [174202-chameleon-run.json](./174202-chameleon-run.json) |
 | Chameleon Twist | 3427 | [3427-chameleon-twist.json](./3427-chameleon-twist.json) |
@@ -4085,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloris | 335115 | [335115-coloris.json](./335115-coloris.json) |
 | Coloristic | 134426 | [134426-coloristic.json](./134426-coloristic.json) |
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
+| Colorizing: Pleasure | 411811 | [411811-colorizing-pleasure.json](./411811-colorizing-pleasure.json) |
 | Colorless Life | 50525 | [50525-colorless-life.json](./50525-colorless-life.json) |
 | Colorless Life | 50528 | [50528-colorless-life.json](./50528-colorless-life.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
@@ -4441,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condemned: Criminal Origins | 6942 | [6942-condemned-criminal-origins.json](./6942-condemned-criminal-origins.json) |
 | Condo | 349936 | [349936-condo.json](./349936-condo.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
+| Condominium: No Exit | 411793 | [411793-condominium-no-exit.json](./411793-condominium-no-exit.json) |
 | Condor | 47268 | [47268-condor.json](./47268-condor.json) |
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
 | Conductor & Abode | 52831 | [52831-conductor-and-abode.json](./52831-conductor-and-abode.json) |
@@ -5043,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Crisis: Succubus Invasion | 309861 | [309861-cosplay-crisis-succubus-invasion.json](./309861-cosplay-crisis-succubus-invasion.json) |
 | Cosplay Relaxation | 275137 | [275137-cosplay-relaxation.json](./275137-cosplay-relaxation.json) |
 | Cosplay Relaxation | 276323 | [276323-cosplay-relaxation.json](./276323-cosplay-relaxation.json) |
+| Cosplaying in Costalia: The Tororo Sisters! | 411787 | [411787-cosplaying-in-costalia-the-tororo-sisters.json](./411787-cosplaying-in-costalia-the-tororo-sisters.json) |
 | Cossacks 3: The Golden Age | 144963 | [144963-cossacks-3-the-golden-age.json](./144963-cossacks-3-the-golden-age.json) |
 | Cossacks: Campaign Expansion | 144964 | [144964-cossacks-campaign-expansion.json](./144964-cossacks-campaign-expansion.json) |
 | Cossacks: European Wars | 242 | [242-cossacks-european-wars.json](./242-cossacks-european-wars.json) |
@@ -5456,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola: Make a Masterpiece | 133804 | [133804-crayola-make-a-masterpiece.json](./133804-crayola-make-a-masterpiece.json) |
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
 | Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
+| Crayon Mandala | 411814 | [411814-crayon-mandala.json](./411814-crayon-mandala.json) |
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
 | Crayon Physics | 70935 | [70935-crayon-physics.json](./70935-crayon-physics.json) |
 | Crayon Run | 106365 | [106365-crayon-run.json](./106365-crayon-run.json) |
@@ -6200,6 +6207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptoforce | 247500 | [247500-cryptoforce.json](./247500-cryptoforce.json) |
 | Cryptogram | 355105 | [355105-cryptogram.json](./355105-cryptogram.json) |
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
+| CryptoGrid | 411789 | [411789-cryptogrid.json](./411789-cryptogrid.json) |
 | Cryptonaut | 190132 | [190132-cryptonaut.json](./190132-cryptonaut.json) |
 | CryptoQuiz | 108443 | [108443-cryptoquiz.json](./108443-cryptoquiz.json) |
 | CryptoQuote | 96031 | [96031-cryptoquote.json](./96031-cryptoquote.json) |
