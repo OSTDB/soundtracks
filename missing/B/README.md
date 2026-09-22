@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BAClash | 58271 | [58271-baclash.json](./58271-baclash.json) |
 | Bacon Blitz | 181761 | [181761-bacon-blitz.json](./181761-bacon-blitz.json) |
 | Bacon in Zane | 399719 | [399719-bacon-in-zane.json](./399719-bacon-in-zane.json) |
+| Bacon Man: An Adventure | 36218 | [36218-bacon-man-an-adventure.json](./36218-bacon-man-an-adventure.json) |
 | Bacon Roll | 88005 | [88005-bacon-roll.json](./88005-bacon-roll.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
 | Bacon: The Game | 199079 | [199079-bacon-the-game.json](./199079-bacon-the-game.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
 | Battle Fleet | 48586 | [48586-battle-fleet.json](./48586-battle-fleet.json) |
 | Battle Fleet | 91333 | [91333-battle-fleet.json](./91333-battle-fleet.json) |
+| Battle Fleet 2 | 36182 | [36182-battle-fleet-2.json](./36182-battle-fleet-2.json) |
 | Battle Flip Shot | 39667 | [39667-battle-flip-shot.json](./39667-battle-flip-shot.json) |
 | Battle For Dream Island Again 5b | 138011 | [138011-battle-for-dream-island-again-5b.json](./138011-battle-for-dream-island-again-5b.json) |
 | Battle for Graxia | 50814 | [50814-battle-for-graxia.json](./50814-battle-for-graxia.json) |
@@ -1669,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
 | Beach Bass | 334210 | [334210-beach-bass.json](./334210-beach-bass.json) |
 | Beach Bike Water: Challenge Ra | 107671 | [107671-beach-bike-water-challenge-ra.json](./107671-beach-bike-water-challenge-ra.json) |
+| Beach Bounce | 35698 | [35698-beach-bounce.json](./35698-beach-bounce.json) |
 | Beach Bounce Remastered | 22216 | [22216-beach-bounce-remastered.json](./22216-beach-bounce-remastered.json) |
 | Beach Bowling 3D | 66120 | [66120-beach-bowling-3d.json](./66120-beach-bowling-3d.json) |
 | Beach Boys 2: Zodiac Date | 283726 | [283726-beach-boys-2-zodiac-date.json](./283726-beach-boys-2-zodiac-date.json) |
@@ -1689,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Life | 11822 | [11822-beach-life.json](./11822-beach-life.json) |
 | Beach Life Simulator | 371247 | [371247-beach-life-simulator.json](./371247-beach-life-simulator.json) |
 | Beach Pong | 109736 | [109736-beach-pong.json](./109736-beach-pong.json) |
+| Beach Resort Simulator | 36189 | [36189-beach-resort-simulator.json](./36189-beach-resort-simulator.json) |
 | Beach Restaurant | 80924 | [80924-beach-restaurant.json](./80924-beach-restaurant.json) |
 | Beach Rules | 81784 | [81784-beach-rules.json](./81784-beach-rules.json) |
 | Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
@@ -4180,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt | 222926 | [222926-bolt.json](./222926-bolt.json) |
 | Bolt | 4723 | [4723-bolt.json](./4723-bolt.json) |
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
+| Bolt Riley, A Reggae Adventure: Chapter 1 | 36168 | [36168-bolt-riley-a-reggae-adventure-chapter-1.json](./36168-bolt-riley-a-reggae-adventure-chapter-1.json) |
 | Bolt: Be-Awesome Edition | 269667 | [269667-bolt-be-awesome-edition.json](./269667-bolt-be-awesome-edition.json) |
 | BoltBreak 2 | 276281 | [276281-boltbreak-2.json](./276281-boltbreak-2.json) |
 | Boltcraft | 203914 | [203914-boltcraft.json](./203914-boltcraft.json) |
