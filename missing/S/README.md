@@ -5034,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmugForce | 229132 | [229132-smugforce.json](./229132-smugforce.json) |
 | Smuggler's Cove | 294730 | [294730-smugglers-cove.json](./294730-smugglers-cove.json) |
 | Smuggler's Run | 4154 | [4154-smugglers-run.json](./4154-smugglers-run.json) |
+| Smugglers 5: Invasion | 36209 | [36209-smugglers-5-invasion.json](./36209-smugglers-5-invasion.json) |
 | Smugglers IV: Doomsday | 54377 | [54377-smugglers-iv-doomsday.json](./54377-smugglers-iv-doomsday.json) |
 | Smugglers V | 51903 | [51903-smugglers-v.json](./51903-smugglers-v.json) |
 | Smugglers V: Invasion - Warrior Within | 51902 | [51902-smugglers-v-invasion-warrior-within.json](./51902-smugglers-v-invasion-warrior-within.json) |
@@ -8067,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
 | Squirrels Gone Nuts | 290551 | [290551-squirrels-gone-nuts.json](./290551-squirrels-gone-nuts.json) |
+| Squirreltopia | 36132 | [36132-squirreltopia.json](./36132-squirreltopia.json) |
 | Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
 | Squish and the Corrupted Crystal | 47996 | [47996-squish-and-the-corrupted-crystal.json](./47996-squish-and-the-corrupted-crystal.json) |
 | Squish Machine | 113635 | [113635-squish-machine.json](./113635-squish-machine.json) |
@@ -9005,6 +9007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
 | Stealthy Guy | 102573 | [102573-stealthy-guy.json](./102573-stealthy-guy.json) |
 | Steam | 95441 | [95441-steam.json](./95441-steam.json) |
+| Steam and Metal | 36139 | [36139-steam-and-metal.json](./36139-steam-and-metal.json) |
 | Steam Marines 2 | 57889 | [57889-steam-marines-2.json](./57889-steam-marines-2.json) |
 | Steam Punks | 61085 | [61085-steam-punks.json](./61085-steam-punks.json) |
 | Steam Puppet: Tower Defense | 151670 | [151670-steam-puppet-tower-defense.json](./151670-steam-puppet-tower-defense.json) |
@@ -9474,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
 | Storm Strikers | 124746 | [124746-storm-strikers.json](./124746-storm-strikers.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
+| Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
 | Stormbinders | 336520 | [336520-stormbinders.json](./336520-stormbinders.json) |
@@ -11965,6 +11969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Dieland | 160257 | [160257-survivor-dieland.json](./160257-survivor-dieland.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
+| Survivor Squad: Gauntlets | 36186 | [36186-survivor-squad-gauntlets.json](./36186-survivor-squad-gauntlets.json) |
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
 | Survivor Warrior-Vampire.io | 245342 | [245342-survivor-warrior-vampire-io.json](./245342-survivor-warrior-vampire-io.json) |
 | Survivor: Day One | 62737 | [62737-survivor-day-one.json](./62737-survivor-day-one.json) |
