@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable's Grimoire: A Dragon's Treasure | 129724 | [129724-sables-grimoire-a-dragons-treasure.json](./129724-sables-grimoire-a-dragons-treasure.json) |
 | Sable's Grimoire: Man and Elf | 129725 | [129725-sables-grimoire-man-and-elf.json](./129725-sables-grimoire-man-and-elf.json) |
 | Saborus | 273995 | [273995-saborus.json](./273995-saborus.json) |
+| Sabotage City | 393820 | [393820-sabotage-city.json](./393820-sabotage-city.json) |
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
 | Saboten Bombers | 40417 | [40417-saboten-bombers.json](./40417-saboten-bombers.json) |
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
@@ -924,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
 | Scaffold | 400460 | [400460-scaffold.json](./400460-scaffold.json) |
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
+| Scale Mail | 393781 | [393781-scale-mail.json](./393781-scale-mail.json) |
 | Scale Star | 97686 | [97686-scale-star.json](./97686-scale-star.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scalebound | 7345 | [7345-scalebound.json](./7345-scalebound.json) |
@@ -1927,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
+| Senko no Ronde SP | 393832 | [393832-senko-no-ronde-sp.json](./393832-senko-no-ronde-sp.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
@@ -3628,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
+| Silberheim Evolving Card Game | 393787 | [393787-silberheim-evolving-card-game.json](./393787-silberheim-evolving-card-game.json) |
 | Silence | 115840 | [115840-silence.json](./115840-silence.json) |
 | Silence Channel 2 | 218471 | [218471-silence-channel-2.json](./218471-silence-channel-2.json) |
 | Silence Coffee Shop | 222285 | [222285-silence-coffee-shop.json](./222285-silence-coffee-shop.json) |
@@ -4891,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sludgineers | 389622 | [389622-sludgineers.json](./389622-sludgineers.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
 | Slug Gear | 257996 | [257996-slug-gear.json](./257996-slug-gear.json) |
+| Slug Survival | 393817 | [393817-slug-survival.json](./393817-slug-survival.json) |
 | Slugger 2 | 326802 | [326802-slugger-2.json](./326802-slugger-2.json) |
 | Sluggerpunk | 298141 | [298141-sluggerpunk.json](./298141-sluggerpunk.json) |
 | Sluggish Morss: Days of the Purple Sun | 30831 | [30831-sluggish-morss-days-of-the-purple-sun.json](./30831-sluggish-morss-days-of-the-purple-sun.json) |
@@ -7356,6 +7361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
+| Spectro: Phantom Tower | 393791 | [393791-spectro-phantom-tower.json](./393791-spectro-phantom-tower.json) |
 | Spectrolite | 176361 | [176361-spectrolite.json](./176361-spectrolite.json) |
 | Spectromancer: Gathering of Power | 164383 | [164383-spectromancer-gathering-of-power.json](./164383-spectromancer-gathering-of-power.json) |
 | Spectrubes | 33415 | [33415-spectrubes.json](./33415-spectrubes.json) |
@@ -8060,6 +8066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprite's Honor! | 291491 | [291491-sprites-honor.json](./291491-sprites-honor.json) |
 | Spriters, Hopes Blooming Dawn | 248042 | [248042-spriters-hopes-blooming-dawn.json](./248042-spriters-hopes-blooming-dawn.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
+| Sprkls.exe | 393780 | [393780-sprkls-exe.json](./393780-sprkls-exe.json) |
 | Sprnkls | 97938 | [97938-sprnkls.json](./97938-sprnkls.json) |
 | Sprocket Junkie | 65213 | [65213-sprocket-junkie.json](./65213-sprocket-junkie.json) |
 | Sprocket Rocket Rumble | 123028 | [123028-sprocket-rocket-rumble.json](./123028-sprocket-rocket-rumble.json) |
