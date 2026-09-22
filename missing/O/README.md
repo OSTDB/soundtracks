@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okaeri! Chibi-Robo! Happy Richie Oosouji | 47773 | [47773-okaeri-chibi-robo-happy-richie-oosouji.json](./47773-okaeri-chibi-robo-happy-richie-oosouji.json) |
 | Okage: Shadow King | 43614 | [43614-okage-shadow-king.json](./43614-okage-shadow-king.json) |
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
+| Okayu Nyumu! R | 395849 | [395849-okayu-nyumu-r.json](./395849-okayu-nyumu-r.json) |
 | Okhlos: Sigma | 200038 | [200038-okhlos-sigma.json](./200038-okhlos-sigma.json) |
 | Okhotsk ni Kiyu: Hokkaido Rensa Satsujin | 206132 | [206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json](./206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json) |
 | Okie Dokie | 40776 | [40776-okie-dokie.json](./40776-okie-dokie.json) |
