@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Kamen Rider: Rider Revolution | 81413 | [81413-all-kamen-rider-rider-revolution.json](./81413-all-kamen-rider-rider-revolution.json) |
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
+| All Motors Racing Simulator | 395221 | [395221-all-motors-racing-simulator.json](./395221-all-motors-racing-simulator.json) |
 | All New Origins | 283907 | [283907-all-new-origins.json](./283907-all-new-origins.json) |
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
 | All Night Nippon Super Mario Bros. | 41272 | [41272-all-night-nippon-super-mario-bros.json](./41272-all-night-nippon-super-mario-bros.json) |
