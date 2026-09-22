@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's an Egg? | 135870 | [135870-wheres-an-egg.json](./135870-wheres-an-egg.json) |
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
 | Where's Fido? | 278995 | [278995-wheres-fido.json](./278995-wheres-fido.json) |
+| Where's My Bara Deck? Hardcastle | 393834 | [393834-wheres-my-bara-deck-hardcastle.json](./393834-wheres-my-bara-deck-hardcastle.json) |
 | Where's my geek? | 197230 | [197230-wheres-my-geek.json](./197230-wheres-my-geek.json) |
 | Where's My Hentai Deck? Castle Hunt | 389621 | [389621-wheres-my-hentai-deck-castle-hunt.json](./389621-wheres-my-hentai-deck-castle-hunt.json) |
 | Where's My Mickey? | 63275 | [63275-wheres-my-mickey.json](./63275-wheres-my-mickey.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordZap | 117962 | [117962-wordzap.json](./117962-wordzap.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
+| Work Inc. | 393821 | [393821-work-inc.json](./393821-work-inc.json) |
 | Work Life Balance | 372470 | [372470-work-life-balance.json](./372470-work-life-balance.json) |
 | Work Till Die | 391060 | [391060-work-till-die.json](./391060-work-till-die.json) |
 | Work Work Work | 385568 | [385568-work-work-work.json](./385568-work-work-work.json) |
