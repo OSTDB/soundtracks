@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Santa | 128350 | [128350-kill-the-santa.json](./128350-kill-the-santa.json) |
 | Kill The Shadow | 276201 | [276201-kill-the-shadow.json](./276201-kill-the-shadow.json) |
 | Kill Them With Cuteness | 152863 | [152863-kill-them-with-cuteness.json](./152863-kill-them-with-cuteness.json) |
+| Kill to Collect | 18722 | [18722-kill-to-collect.json](./18722-kill-to-collect.json) |
 | Kill to Live | 187405 | [187405-kill-to-live.json](./187405-kill-to-live.json) |
 | Kill your Darlings | 352718 | [352718-kill-your-darlings.json](./352718-kill-your-darlings.json) |
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
@@ -1002,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King James Bible DX | 358319 | [358319-king-james-bible-dx.json](./358319-king-james-bible-dx.json) |
 | King James Bible for Use on Game Boy | 79876 | [79876-king-james-bible-for-use-on-game-boy.json](./79876-king-james-bible-for-use-on-game-boy.json) |
 | King Kaiju | 25924 | [25924-king-kaiju.json](./25924-king-kaiju.json) |
+| King Kong | 18763 | [18763-king-kong.json](./18763-king-kong.json) |
 | King Kong 2: Ikari no Megaton Punch | 48690 | [48690-king-kong-2-ikari-no-megaton-punch.json](./48690-king-kong-2-ikari-no-megaton-punch.json) |
 | King Kong City Destroyer | 291478 | [291478-king-kong-city-destroyer.json](./291478-king-kong-city-destroyer.json) |
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
@@ -1303,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishin Hishou Demonbane | 72666 | [72666-kishin-hishou-demonbane.json](./72666-kishin-hishou-demonbane.json) |
 | Kishin Kourinden Oni | 37957 | [37957-kishin-kourinden-oni.json](./37957-kishin-kourinden-oni.json) |
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
+| Kismet | 19042 | [19042-kismet.json](./19042-kismet.json) |
 | Kisou Ryouhei Gunhound EX | 42872 | [42872-kisou-ryouhei-gunhound-ex.json](./42872-kisou-ryouhei-gunhound-ex.json) |
 | Kisoubanashi Kureha | 108865 | [108865-kisoubanashi-kureha.json](./108865-kisoubanashi-kureha.json) |
 | Kiss & Crisis | 194570 | [194570-kiss-and-crisis.json](./194570-kiss-and-crisis.json) |
