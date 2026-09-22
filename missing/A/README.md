@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Neoplasma | 247527 | [247527-aliens-neoplasma.json](./247527-aliens-neoplasma.json) |
 | Aliens: Redacted | 299755 | [299755-aliens-redacted.json](./299755-aliens-redacted.json) |
 | Aliens: Thanatos Encounter | 49863 | [49863-aliens-thanatos-encounter.json](./49863-aliens-thanatos-encounter.json) |
+| Aliens&Asteroids | 52767 | [52767-aliens-and-asteroids.json](./52767-aliens-and-asteroids.json) |
 | Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Alienz | 116399 | [116399-alienz.json](./116399-alienz.json) |
@@ -2219,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanaha hockey | 329164 | [329164-amanaha-hockey.json](./329164-amanaha-hockey.json) |
 | Amanatsu Location | 413057 | [413057-amanatsu-location.json](./413057-amanatsu-location.json) |
 | Amanatsu: Perfect Edition | 297063 | [297063-amanatsu-perfect-edition.json](./297063-amanatsu-perfect-edition.json) |
+| Amanda Rose: The Game of Time | 52399 | [52399-amanda-rose-the-game-of-time.json](./52399-amanda-rose-the-game-of-time.json) |
 | Amanda Stories | 262405 | [262405-amanda-stories.json](./262405-amanda-stories.json) |
 | Amanda the Adventurer 2 | 272840 | [272840-amanda-the-adventurer-2.json](./272840-amanda-the-adventurer-2.json) |
 | Amanda's Magic Book | 214019 | [214019-amandas-magic-book.json](./214019-amandas-magic-book.json) |
@@ -2848,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: New Leaf - Premium Edition | 89900 | [89900-animal-crossing-new-leaf-premium-edition.json](./89900-animal-crossing-new-leaf-premium-edition.json) |
 | Animal Crossing: New Murder | 251058 | [251058-animal-crossing-new-murder.json](./251058-animal-crossing-new-murder.json) |
 | Animal Crossing: Pocket Camp | 58630 | [58630-animal-crossing-pocket-camp.json](./58630-animal-crossing-pocket-camp.json) |
+| Animal Crush | 52770 | [52770-animal-crush.json](./52770-animal-crush.json) |
 | Animal Diner | 217391 | [217391-animal-diner.json](./217391-animal-diner.json) |
 | Animal Drifters | 219296 | [219296-animal-drifters.json](./219296-animal-drifters.json) |
 | Animal Express | 152883 | [152883-animal-express.json](./152883-animal-express.json) |
@@ -3483,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
 | Aqua Aqua | 43549 | [43549-aqua-aqua.json](./43549-aqua-aqua.json) |
 | Aqua Bubble 2 | 70927 | [70927-aqua-bubble-2.json](./70927-aqua-bubble-2.json) |
+| Aqua Fish | 52411 | [52411-aqua-fish.json](./52411-aqua-fish.json) |
 | Aqua Forest | 72989 | [72989-aqua-forest.json](./72989-aqua-forest.json) |
 | Aqua Fry | 288331 | [288331-aqua-fry.json](./288331-aqua-fry.json) |
 | Aqua GT | 3714 | [3714-aqua-gt.json](./3714-aqua-gt.json) |
@@ -4562,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashland Dossier | 126569 | [126569-ashland-dossier.json](./126569-ashland-dossier.json) |
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
 | Ashlands | 333597 | [333597-ashlands.json](./333597-ashlands.json) |
+| Ashley Clark: Secret of the Ruby | 52422 | [52422-ashley-clark-secret-of-the-ruby.json](./52422-ashley-clark-secret-of-the-ruby.json) |
 | Ashley: The One-Spell Mage | 318622 | [318622-ashley-the-one-spell-mage.json](./318622-ashley-the-one-spell-mage.json) |
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
 | Ashton's Family Resort | 52604 | [52604-ashtons-family-resort.json](./52604-ashtons-family-resort.json) |
