@@ -7227,6 +7227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedball 2: Brutal Deluxe | 10152 | [10152-speedball-2-brutal-deluxe.json](./10152-speedball-2-brutal-deluxe.json) |
 | Speedball 2: Brutal Deluxe | 147273 | [147273-speedball-2-brutal-deluxe.json](./147273-speedball-2-brutal-deluxe.json) |
 | Speedball 2: Evolution | 42844 | [42844-speedball-2-evolution.json](./42844-speedball-2-evolution.json) |
+| Speedball 2100 | 10153 | [10153-speedball-2100.json](./10153-speedball-2100.json) |
 | SpeedBall! | 105788 | [105788-speedball.json](./105788-speedball.json) |
 | Speedboat Alchemy | 180828 | [180828-speedboat-alchemy.json](./180828-speedboat-alchemy.json) |
 | Speedboat Assassins | 13080 | [13080-speedboat-assassins.json](./13080-speedboat-assassins.json) |
@@ -8164,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Child | 37090 | [37090-star-child.json](./37090-star-child.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
 | Star Climber | 317455 | [317455-star-climber.json](./317455-star-climber.json) |
+| Star Command | 10258 | [10258-star-command.json](./10258-star-command.json) |
 | Star Command | 75091 | [75091-star-command.json](./75091-star-command.json) |
 | Star Command: Revolution | 50874 | [50874-star-command-revolution.json](./50874-star-command-revolution.json) |
 | Star Conflict: Bark-2 | 310391 | [310391-star-conflict-bark-2.json](./310391-star-conflict-bark-2.json) |
