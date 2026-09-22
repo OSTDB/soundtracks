@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
 | Magic Bubble | 246455 | [246455-magic-bubble.json](./246455-magic-bubble.json) |
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
+| Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
 | Magic Castle | 317812 | [317812-magic-castle.json](./317812-magic-castle.json) |
 | Magic Cats Pots | 319779 | [319779-magic-cats-pots.json](./319779-magic-cats-pots.json) |
@@ -3002,6 +3003,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Wars: Card Battle | 108302 | [108302-meow-wars-card-battle.json](./108302-meow-wars-card-battle.json) |
 | Meow Weight Loss Diary | 352227 | [352227-meow-weight-loss-diary.json](./352227-meow-weight-loss-diary.json) |
 | Meow'n'Dash | 172008 | [172008-meowndash.json](./172008-meowndash.json) |
+| Meowdoku | 409810 | [409810-meowdoku.json](./409810-meowdoku.json) |
+| Meowdoku | 409811 | [409811-meowdoku.json](./409811-meowdoku.json) |
 | Meower's Quest: Jasper's Tale | 104025 | [104025-meowers-quest-jaspers-tale.json](./104025-meowers-quest-jaspers-tale.json) |
 | MeowFactory | 403691 | [403691-meowfactory.json](./403691-meowfactory.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
@@ -3177,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Crisis | 368579 | [368579-metal-crisis.json](./368579-metal-crisis.json) |
 | Metal Dead | 17433 | [17433-metal-dead.json](./17433-metal-dead.json) |
 | Metal Detecting Simulator | 235768 | [235768-metal-detecting-simulator.json](./235768-metal-detecting-simulator.json) |
+| Metal Detector Island | 409807 | [409807-metal-detector-island.json](./409807-metal-detector-island.json) |
 | Metal Dogs | 144769 | [144769-metal-dogs.json](./144769-metal-dogs.json) |
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
@@ -3703,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Scenes: A Safe Place | 257261 | [257261-midnight-scenes-a-safe-place.json](./257261-midnight-scenes-a-safe-place.json) |
+| Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
 | Midnight Snack | 324920 | [324920-midnight-snack.json](./324920-midnight-snack.json) |
 | Midnight Souls | 365083 | [365083-midnight-souls.json](./365083-midnight-souls.json) |
@@ -6110,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Bean: Flying Teddy | 112139 | [112139-mr-bean-flying-teddy.json](./112139-mr-bean-flying-teddy.json) |
 | Mr Blaster | 41942 | [41942-mr-blaster.json](./41942-mr-blaster.json) |
 | Mr Burt | 102824 | [102824-mr-burt.json](./102824-mr-burt.json) |
+| Mr Chin | 409760 | [409760-mr-chin.json](./409760-mr-chin.json) |
 | Mr Crab | 57146 | [57146-mr-crab.json](./57146-mr-crab.json) |
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
 | Mr Giggle | 138201 | [138201-mr-giggle.json](./138201-mr-giggle.json) |
