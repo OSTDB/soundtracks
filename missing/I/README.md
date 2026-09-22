@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Tran Sit | 184612 | [184612-in-tran-sit.json](./184612-in-tran-sit.json) |
 | In Vein | 181320 | [181320-in-vein.json](./181320-in-vein.json) |
 | In Verbis Virtus | 16560 | [16560-in-verbis-virtus.json](./16560-in-verbis-virtus.json) |
+| In Vitra | 30310 | [30310-in-vitra.json](./30310-in-vitra.json) |
 | In Your Flesh | 364596 | [364596-in-your-flesh.json](./364596-in-your-flesh.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | In Your Youth | 250453 | [250453-in-your-youth.json](./250453-in-your-youth.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interkosmos 2000 | 215398 | [215398-interkosmos-2000.json](./215398-interkosmos-2000.json) |
 | Interlocked | 83578 | [83578-interlocked.json](./83578-interlocked.json) |
 | Interlocked: Puzzle Islands | 406183 | [406183-interlocked-puzzle-islands.json](./406183-interlocked-puzzle-islands.json) |
+| InterLogic | 30311 | [30311-interlogic.json](./30311-interlogic.json) |
 | Interloper | 247525 | [247525-interloper.json](./247525-interloper.json) |
 | Interlopers | 249858 | [249858-interlopers.json](./249858-interlopers.json) |
 | Interlude | 139421 | [139421-interlude.json](./139421-interlude.json) |
@@ -1835,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intro Fighters | 186161 | [186161-intro-fighters.json](./186161-intro-fighters.json) |
 | Introspection | 176376 | [176376-introspection.json](./176376-introspection.json) |
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
+| Introvert Quest | 30327 | [30327-introvert-quest.json](./30327-introvert-quest.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
 | Intruder | 378208 | [378208-intruder.json](./378208-intruder.json) |
 | Intruder -Sakura Yashiki no Tansaku- | 138224 | [138224-intruder-sakura-yashiki-no-tansaku.json](./138224-intruder-sakura-yashiki-no-tansaku.json) |
