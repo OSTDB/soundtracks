@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairground Online | 347225 | [347225-fairground-online.json](./347225-fairground-online.json) |
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairlight: A Prelude | 40962 | [40962-fairlight-a-prelude.json](./40962-fairlight-a-prelude.json) |
+| Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
 | Fairvalley VR | 116401 | [116401-fairvalley-vr.json](./116401-fairvalley-vr.json) |
 | Fairway to Hell | 310032 | [310032-fairway-to-hell.json](./310032-fairway-to-hell.json) |
@@ -2769,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor is Lava | 207520 | [207520-floor-is-lava.json](./207520-floor-is-lava.json) |
 | Floor is Water | 193402 | [193402-floor-is-water.json](./193402-floor-is-water.json) |
 | Floor is...What!? | 189135 | [189135-floor-is-what.json](./189135-floor-is-what.json) |
+| Floor Plan: Hands-On Edition | 55801 | [55801-floor-plan-hands-on-edition.json](./55801-floor-plan-hands-on-edition.json) |
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
 | Floors | 309374 | [309374-floors.json](./309374-floors.json) |
 | FLOP | 342168 | [342168-flop.json](./342168-flop.json) |
@@ -3421,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 2D: Steer To Persevere | 212833 | [212833-formula-2d-steer-to-persevere.json](./212833-formula-2d-steer-to-persevere.json) |
 | Formula 500 | 230861 | [230861-formula-500.json](./230861-formula-500.json) |
 | Formula Car Racing Simulator | 99409 | [99409-formula-car-racing-simulator.json](./99409-formula-car-racing-simulator.json) |
+| Formula Cartoon All Stars | 59924 | [59924-formula-cartoon-all-stars.json](./59924-formula-cartoon-all-stars.json) |
 | Formula Circus | 302347 | [302347-formula-circus.json](./302347-formula-circus.json) |
 | Formula Drag Manager | 221708 | [221708-formula-drag-manager.json](./221708-formula-drag-manager.json) |
 | Formula Legends: Early 2010’s Season Pack | 403569 | [403569-formula-legends-early-2010-s-season-pack.json](./403569-formula-legends-early-2010-s-season-pack.json) |
