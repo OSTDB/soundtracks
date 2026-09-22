@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
 | Ravensburger Labyrinth | 200049 | [200049-ravensburger-labyrinth.json](./200049-ravensburger-labyrinth.json) |
 | Ravensburger Puzzle | 25495 | [25495-ravensburger-puzzle.json](./25495-ravensburger-puzzle.json) |
+| Ravenshade Asylum | 411825 | [411825-ravenshade-asylum.json](./411825-ravenshade-asylum.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
 | Ravenwood Academy: A Wizard101 Story | 298165 | [298165-ravenwood-academy-a-wizard101-story.json](./298165-ravenwood-academy-a-wizard101-story.json) |
@@ -1000,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Bout Garou Densetsu Special: Dominated Mind | 43874 | [43874-real-bout-garou-densetsu-special-dominated-mind.json](./43874-real-bout-garou-densetsu-special-dominated-mind.json) |
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Boxing 2: Remastered - DeathShroud Edition | 400203 | [400203-real-boxing-2-remastered-deathshroud-edition.json](./400203-real-boxing-2-remastered-deathshroud-edition.json) |
+| Real Boxing 2: Remastered - Gold Edition | 411837 | [411837-real-boxing-2-remastered-gold-edition.json](./411837-real-boxing-2-remastered-gold-edition.json) |
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
 | Real Bus Mechanic Simulator | 102611 | [102611-real-bus-mechanic-simulator.json](./102611-real-bus-mechanic-simulator.json) |
 | Real Cake Maker: Cool Kidz | 316245 | [316245-real-cake-maker-cool-kidz.json](./316245-real-cake-maker-cool-kidz.json) |
@@ -2546,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Riders World: I Want to Jump | 200653 | [200653-riders-world-i-want-to-jump.json](./200653-riders-world-i-want-to-jump.json) |
 | Riders World: I Want to Race | 200654 | [200654-riders-world-i-want-to-race.json](./200654-riders-world-i-want-to-race.json) |
+| Rideshare "Stimulator" | 411819 | [411819-rideshare-stimulator.json](./411819-rideshare-stimulator.json) |
 | Ridge Hold | 414325 | [414325-ridge-hold.json](./414325-ridge-hold.json) |
 | Ridge Racer | 225743 | [225743-ridge-racer.json](./225743-ridge-racer.json) |
 | Ridge Racer 7 | 7441 | [7441-ridge-racer-7.json](./7441-ridge-racer-7.json) |
@@ -4264,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Run Iguana! | 403669 | [403669-run-run-iguana.json](./403669-run-run-iguana.json) |
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
 | Run Sausage Run: Complete Edition | 248060 | [248060-run-sausage-run-complete-edition.json](./248060-run-sausage-run-complete-edition.json) |
+| Run Sausage Run!: Emerald Edition | 411838 | [411838-run-sausage-run-emerald-edition.json](./411838-run-sausage-run-emerald-edition.json) |
 | Run Sausage Run!: Poison Edition | 396928 | [396928-run-sausage-run-poison-edition.json](./396928-run-sausage-run-poison-edition.json) |
 | Run Show Quest | 280359 | [280359-run-show-quest.json](./280359-run-show-quest.json) |
 | Run TavernQuest | 132835 | [132835-run-tavernquest.json](./132835-run-tavernquest.json) |
