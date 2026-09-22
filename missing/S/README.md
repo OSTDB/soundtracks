@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saboten Bombers | 40417 | [40417-saboten-bombers.json](./40417-saboten-bombers.json) |
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
+| Sabres of Infinity | 33439 | [33439-sabres-of-infinity.json](./33439-sabres-of-infinity.json) |
 | Sabrina the Animated Series: Spooked! | 49944 | [49944-sabrina-the-animated-series-spooked.json](./49944-sabrina-the-animated-series-spooked.json) |
 | Sabrina the Animated Series: Zapped! | 49943 | [49943-sabrina-the-animated-series-zapped.json](./49943-sabrina-the-animated-series-zapped.json) |
 | Sacabambaspis' Friendly Adventure | 319012 | [319012-sacabambaspis-friendly-adventure.json](./319012-sacabambaspis-friendly-adventure.json) |
@@ -438,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
 | Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
 | Samochodowy Wojownik | 150529 | [150529-samochodowy-wojownik.json](./150529-samochodowy-wojownik.json) |
+| Samoliotik | 33317 | [33317-samoliotik.json](./33317-samoliotik.json) |
 | Samorost 1 | 148352 | [148352-samorost-1.json](./148352-samorost-1.json) |
 | Samorost 3 | 15537 | [15537-samorost-3.json](./15537-samorost-3.json) |
 | Samosbor | 130179 | [130179-samosbor.json](./130179-samosbor.json) |
@@ -2072,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
+| Seven Kingdoms: Ancient Adversaries | 33303 | [33303-seven-kingdoms-ancient-adversaries.json](./33303-seven-kingdoms-ancient-adversaries.json) |
 | Seven Kingdoms: Conquest | 8942 | [8942-seven-kingdoms-conquest.json](./8942-seven-kingdoms-conquest.json) |
 | Seven Kingdoms: The Princess Problem | 336036 | [336036-seven-kingdoms-the-princess-problem.json](./336036-seven-kingdoms-the-princess-problem.json) |
 | Seven Knights Idle Adventure | 265746 | [265746-seven-knights-idle-adventure.json](./265746-seven-knights-idle-adventure.json) |
@@ -11807,6 +11810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Space: Unlimited Shooting | 83571 | [83571-survival-space-unlimited-shooting.json](./83571-survival-space-unlimited-shooting.json) |
 | Survival Sprint | 243117 | [243117-survival-sprint.json](./243117-survival-sprint.json) |
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
+| Survival Zombies: The Inverted Evolution | 33575 | [33575-survival-zombies-the-inverted-evolution.json](./33575-survival-zombies-the-inverted-evolution.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
@@ -12160,6 +12164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
 | Switchblade II | 126452 | [126452-switchblade-ii.json](./126452-switchblade-ii.json) |
 | Switchboard | 234052 | [234052-switchboard.json](./234052-switchboard.json) |
+| Switchcars | 33541 | [33541-switchcars.json](./33541-switchcars.json) |
 | Switchcraft | 191802 | [191802-switchcraft.json](./191802-switchcraft.json) |
 | Switchcraft: Magical Match 3 | 219829 | [219829-switchcraft-magical-match-3.json](./219829-switchcraft-magical-match-3.json) |
 | Switcheroo | 340397 | [340397-switcheroo.json](./340397-switcheroo.json) |
