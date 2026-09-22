@@ -6087,6 +6087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: The Dark Lord | 8850 | [8850-dungeons-the-dark-lord.json](./8850-dungeons-the-dark-lord.json) |
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
+| DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
 | Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
 | Dungman: The Dungeon Crawler | 214016 | [214016-dungman-the-dungeon-crawler.json](./214016-dungman-the-dungeon-crawler.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
