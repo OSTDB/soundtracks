@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
 | Jets A Blazin' | 249865 | [249865-jets-a-blazin.json](./249865-jets-a-blazin.json) |
 | Jets Killer | 291472 | [291472-jets-killer.json](./291472-jets-killer.json) |
+| Jets'n'Guns 2 | 112638 | [112638-jetsnguns-2.json](./112638-jetsnguns-2.json) |
 | Jets'n'Guns Gold | 30372 | [30372-jetsnguns-gold.json](./30372-jetsnguns-gold.json) |
 | Jets'n'Guns: Complete Collection | 284484 | [284484-jetsnguns-complete-collection.json](./284484-jetsnguns-complete-collection.json) |
 | Jetscout: Mystery of Valunians | 174211 | [174211-jetscout-mystery-of-valunians.json](./174211-jetscout-mystery-of-valunians.json) |
