@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-Bot The Robot 2 | 266225 | [266225-o-bot-the-robot-2.json](./266225-o-bot-the-robot-2.json) |
 | O-Void | 257470 | [257470-o-void.json](./257470-o-void.json) |
 | O! Holy Knight | 285588 | [285588-o-holy-knight.json](./285588-o-holy-knight.json) |
+| O! My Genesis VR | 27182 | [27182-o-my-genesis-vr.json](./27182-o-my-genesis-vr.json) |
 | O.B.O.L | 402359 | [402359-o-b-o-l.json](./402359-o-b-o-l.json) |
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
 | O.M.G. 26: Our Mini Games | 110320 | [110320-o-m-g-26-our-mini-games.json](./110320-o-m-g-26-our-mini-games.json) |
@@ -1159,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
 | Open Season | 4055 | [4055-open-season.json](./4055-open-season.json) |
+| Open Sorcery | 27444 | [27444-open-sorcery.json](./27444-open-sorcery.json) |
 | Open Source Objects: The Game | 361751 | [361751-open-source-objects-the-game.json](./361751-open-source-objects-the-game.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
@@ -1277,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
 | Opus: Rocket of Whispers | 77569 | [77569-opus-rocket-of-whispers.json](./77569-opus-rocket-of-whispers.json) |
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
+| Oracle | 27457 | [27457-oracle.json](./27457-oracle.json) |
 | Oracle Chain | 181241 | [181241-oracle-chain.json](./181241-oracle-chain.json) |
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
 | Oracle Trials | 157011 | [157011-oracle-trials.json](./157011-oracle-trials.json) |
