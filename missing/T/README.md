@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Neon Sea: Collector's Edition | 228733 | [228733-tales-of-the-neon-sea-collectors-edition.json](./228733-tales-of-the-neon-sea-collectors-edition.json) |
 | Tales of The Nightmares: Episode One | 352834 | [352834-tales-of-the-nightmares-episode-one.json](./352834-tales-of-the-nightmares-episode-one.json) |
 | Tales of the Odd: Brain Hotel | 60510 | [60510-tales-of-the-odd-brain-hotel.json](./60510-tales-of-the-odd-brain-hotel.json) |
+| Tales of the Orient: The Rising Sun | 27247 | [27247-tales-of-the-orient-the-rising-sun.json](./27247-tales-of-the-orient-the-rising-sun.json) |
 | Tales of the Rays | 26906 | [26906-tales-of-the-rays.json](./26906-tales-of-the-rays.json) |
 | Tales of the Rays: Last Cradle | 242627 | [242627-tales-of-the-rays-last-cradle.json](./242627-tales-of-the-rays-last-cradle.json) |
 | Tales of the Rays: Recollection | 242630 | [242630-tales-of-the-rays-recollection.json](./242630-tales-of-the-rays-recollection.json) |
@@ -539,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Deussi | 167859 | [167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json](./167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Dummy | 167858 | [167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json](./167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json) |
 | TalesWeaver | 57117 | [57117-talesweaver.json](./57117-talesweaver.json) |
+| Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman: Digital Edition - Apprentice Mage | 149053 | [149053-talisman-digital-edition-apprentice-mage.json](./149053-talisman-digital-edition-apprentice-mage.json) |
 | Talisman: Digital Edition - Black Witch | 149069 | [149069-talisman-digital-edition-black-witch.json](./149069-talisman-digital-edition-black-witch.json) |
@@ -5956,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul of Cosmos | 348769 | [348769-the-soul-of-cosmos.json](./348769-the-soul-of-cosmos.json) |
 | The Soul of Dracula | 242797 | [242797-the-soul-of-dracula.json](./242797-the-soul-of-dracula.json) |
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
+| The SoulKeeper VR | 27193 | [27193-the-soulkeeper-vr.json](./27193-the-soulkeeper-vr.json) |
 | The Soulwalkers | 252796 | [252796-the-soulwalkers.json](./252796-the-soulwalkers.json) |
 | The source of evil | 29790 | [29790-the-source-of-evil.json](./29790-the-source-of-evil.json) |
 | The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
@@ -10970,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
+| Trucker | 25425 | [25425-trucker.json](./25425-trucker.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
 | Trucks & Trailers | 10290 | [10290-trucks-and-trailers.json](./10290-trucks-and-trailers.json) |
