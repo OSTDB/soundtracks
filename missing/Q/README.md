@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadremor | 235977 | [235977-quadremor.json](./235977-quadremor.json) |
 | Quadrilateral Battle | 174846 | [174846-quadrilateral-battle.json](./174846-quadrilateral-battle.json) |
 | Quadrilateral Cowboy: Deluxe Edition | 53486 | [53486-quadrilateral-cowboy-deluxe-edition.json](./53486-quadrilateral-cowboy-deluxe-edition.json) |
+| Quadrillion Carrots | 415288 | [415288-quadrillion-carrots.json](./415288-quadrillion-carrots.json) |
 | Quadrium | 244865 | [244865-quadrium.json](./244865-quadrium.json) |
 | Quadrium 3 | 287228 | [287228-quadrium-3.json](./287228-quadrium-3.json) |
 | Quadrivium: Paths of History | 341317 | [341317-quadrivium-paths-of-history.json](./341317-quadrivium-paths-of-history.json) |
@@ -418,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizMania | 320156 | [320156-quizmania.json](./320156-quizmania.json) |
 | QuizMi | 318989 | [318989-quizmi.json](./318989-quizmi.json) |
 | QuizTreff | 397785 | [397785-quiztreff.json](./397785-quiztreff.json) |
+| Quizumba | 415282 | [415282-quizumba.json](./415282-quizumba.json) |
 | QuizWitz | 57119 | [57119-quizwitz.json](./57119-quizwitz.json) |
 | Quizz | 277976 | [277976-quizz.json](./277976-quizz.json) |
 | Quizzitive | 90287 | [90287-quizzitive.json](./90287-quizzitive.json) |
