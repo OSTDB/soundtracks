@@ -3428,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game 15 | 56163 | [56163-the-game-15.json](./56163-the-game-15.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
 | The Game Of Death | 276156 | [276156-the-game-of-death.json](./276156-the-game-of-death.json) |
+| The Game of Life | 106271 | [106271-the-game-of-life.json](./106271-the-game-of-life.json) |
 | The Game of Life / Yahtzee / Payday | 137695 | [137695-the-game-of-life-yahtzee-payday.json](./137695-the-game-of-life-yahtzee-payday.json) |
 | The Game of Life 2: Age of Giants World | 171591 | [171591-the-game-of-life-2-age-of-giants-world.json](./171591-the-game-of-life-2-age-of-giants-world.json) |
 | The Game of Life 2: Complete Collection | 238044 | [238044-the-game-of-life-2-complete-collection.json](./238044-the-game-of-life-2-complete-collection.json) |
@@ -6943,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
 | This War of Mine: Stories - Season Pass | 75872 | [75872-this-war-of-mine-stories-season-pass.json](./75872-this-war-of-mine-stories-season-pass.json) |
+| This War of Mine: Stories - The Last Broadcast | 111646 | [111646-this-war-of-mine-stories-the-last-broadcast.json](./111646-this-war-of-mine-stories-the-last-broadcast.json) |
 | This War of Mine: War Child Charity | 76239 | [76239-this-war-of-mine-war-child-charity.json](./76239-this-war-of-mine-war-child-charity.json) |
 | This was Once a Place of Honour | 239199 | [239199-this-was-once-a-place-of-honour.json](./239199-this-was-once-a-place-of-honour.json) |
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
@@ -9149,6 +9151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Pocket Wars | 128382 | [128382-touhou-pocket-wars.json](./128382-touhou-pocket-wars.json) |
 | Touhou Pocket Wars Evolution | 128383 | [128383-touhou-pocket-wars-evolution.json](./128383-touhou-pocket-wars-evolution.json) |
 | Touhou Pocket Wars Evolution Plus | 128384 | [128384-touhou-pocket-wars-evolution-plus.json](./128384-touhou-pocket-wars-evolution-plus.json) |
+| Touhou Puppet Dance Performance | 46722 | [46722-touhou-puppet-dance-performance.json](./46722-touhou-puppet-dance-performance.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
 | Touhou Rock Maiden 2: Houraisan Kaguya no Nazo | 202934 | [202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json](./202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json) |
 | Touhou Rock Maiden FC | 202936 | [202936-touhou-rock-maiden-fc.json](./202936-touhou-rock-maiden-fc.json) |
