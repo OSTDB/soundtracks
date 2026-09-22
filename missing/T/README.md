@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Legends 2 | 267186 | [267186-taito-legends-2.json](./267186-taito-legends-2.json) |
 | Taito Memories II Gekan | 94711 | [94711-taito-memories-ii-gekan.json](./94711-taito-memories-ii-gekan.json) |
 | Taito Memories Pocket | 71784 | [71784-taito-memories-pocket.json](./71784-taito-memories-pocket.json) |
+| Taival | 398552 | [398552-taival.json](./398552-taival.json) |
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
 | Taiwan Coolfox | 351603 | [351603-taiwan-coolfox.json](./351603-taiwan-coolfox.json) |
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
@@ -1155,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tear Ring Saga | 43872 | [43872-tear-ring-saga.json](./43872-tear-ring-saga.json) |
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
+| Tearoom of Terror | 398590 | [398590-tearoom-of-terror.json](./398590-tearoom-of-terror.json) |
 | Tears Fall Low | 245919 | [245919-tears-fall-low.json](./245919-tears-fall-low.json) |
 | Tears of a Dragon | 29798 | [29798-tears-of-a-dragon.json](./29798-tears-of-a-dragon.json) |
 | Tears of a Prophet | 174203 | [174203-tears-of-a-prophet.json](./174203-tears-of-a-prophet.json) |
@@ -5052,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Blackthorn Castle | 89766 | [89766-the-mystery-of-blackthorn-castle.json](./89766-the-mystery-of-blackthorn-castle.json) |
 | The Mystery of Blackthorn Castle 2 | 289974 | [289974-the-mystery-of-blackthorn-castle-2.json](./289974-the-mystery-of-blackthorn-castle-2.json) |
 | The Mystery of Devils House | 95236 | [95236-the-mystery-of-devils-house.json](./95236-the-mystery-of-devils-house.json) |
+| The Mystery of Doomsday Valley | 398557 | [398557-the-mystery-of-doomsday-valley.json](./398557-the-mystery-of-doomsday-valley.json) |
 | The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
 | The Mystery of Nile | 59644 | [59644-the-mystery-of-nile.json](./59644-the-mystery-of-nile.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
@@ -5540,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rest is Silence | 271770 | [271770-the-rest-is-silence.json](./271770-the-rest-is-silence.json) |
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
+| The Restricted Index | 398539 | [398539-the-restricted-index.json](./398539-the-restricted-index.json) |
 | The Resurrected | 366314 | [366314-the-resurrected.json](./366314-the-resurrected.json) |
 | The Return of Bantara | 334748 | [334748-the-return-of-bantara.json](./334748-the-return-of-bantara.json) |
 | The Return of Medusa | 14508 | [14508-the-return-of-medusa.json](./14508-the-return-of-medusa.json) |
@@ -8628,6 +8632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOBAFCASS | 12887 | [12887-tobafcass.json](./12887-tobafcass.json) |
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
 | Tobari 2: Dream Ocean | 135815 | [135815-tobari-2-dream-ocean.json](./135815-tobari-2-dream-ocean.json) |
+| Tobari and the Vampire Alchemist | 398568 | [398568-tobari-and-the-vampire-alchemist.json](./398568-tobari-and-the-vampire-alchemist.json) |
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
@@ -8964,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachi Life | 6403 | [6403-tomodachi-life.json](./6403-tomodachi-life.json) |
+| Tomodachi-kun | 398580 | [398580-tomodachi-kun.json](./398580-tomodachi-kun.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
 | Tomorrow | 34383 | [34383-tomorrow.json](./34383-tomorrow.json) |
@@ -11446,6 +11452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtles | 23686 | [23686-turtles.json](./23686-turtles.json) |
 | Turtles | 346135 | [346135-turtles.json](./346135-turtles.json) |
 | Turtles! | 194455 | [194455-turtles.json](./194455-turtles.json) |
+| TurtleSkate | 398572 | [398572-turtleskate.json](./398572-turtleskate.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
