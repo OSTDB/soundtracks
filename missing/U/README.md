@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umihara Kawase BaZooKa! | 122352 | [122352-umihara-kawase-bazooka.json](./122352-umihara-kawase-bazooka.json) |
 | Umihara Kawase Fresh! | 108155 | [108155-umihara-kawase-fresh.json](./108155-umihara-kawase-fresh.json) |
 | Umihara Kawase Portable | 42847 | [42847-umihara-kawase-portable.json](./42847-umihara-kawase-portable.json) |
+| Umihara Kawase Shun: Steam Edition | 90547 | [90547-umihara-kawase-shun-steam-edition.json](./90547-umihara-kawase-shun-steam-edition.json) |
 | Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
 | Umihara Kawase: Christmas Community Challenge | 215201 | [215201-umihara-kawase-christmas-community-challenge.json](./215201-umihara-kawase-christmas-community-challenge.json) |
 | Umihara Kawase: Shun - Second Edition | 78719 | [78719-umihara-kawase-shun-second-edition.json](./78719-umihara-kawase-shun-second-edition.json) |
@@ -428,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko When They Cry: Episode 8 - Twilight of the Golden Witch | 272318 | [272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json](./272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json) |
 | Umineko When They Cry: Question Arcs | 124948 | [124948-umineko-when-they-cry-question-arcs.json](./124948-umineko-when-they-cry-question-arcs.json) |
 | Umineko: Ougon Musou Kyoku - Cross | 79850 | [79850-umineko-ougon-musou-kyoku-cross.json](./79850-umineko-ougon-musou-kyoku-cross.json) |
+| Umiro | 90720 | [90720-umiro.json](./90720-umiro.json) |
 | Umisho | 62407 | [62407-umisho.json](./62407-umisho.json) |
 | Umokay 64DS | 215203 | [215203-umokay-64ds.json](./215203-umokay-64ds.json) |
 | Umokay 64DS 2 | 215205 | [215205-umokay-64ds-2.json](./215205-umokay-64ds-2.json) |
@@ -1099,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uprooted - a carrot simulator! | 97712 | [97712-uprooted-a-carrot-simulator.json](./97712-uprooted-a-carrot-simulator.json) |
 | Uprush | 266239 | [266239-uprush.json](./266239-uprush.json) |
 | Upscale Studio: Logic Bundle: 5 in 1 | 379360 | [379360-upscale-studio-logic-bundle-5-in-1.json](./379360-upscale-studio-logic-bundle-5-in-1.json) |
+| Upside Down | 90487 | [90487-upside-down.json](./90487-upside-down.json) |
 | Upside the Backrooms | 258740 | [258740-upside-the-backrooms.json](./258740-upside-the-backrooms.json) |
 | Upside-Down Dimensions | 52009 | [52009-upside-down-dimensions.json](./52009-upside-down-dimensions.json) |
 | Upsidedownsky | 368508 | [368508-upsidedownsky.json](./368508-upsidedownsky.json) |
