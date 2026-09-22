@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway | 210643 | [210643-railway.json](./210643-railway.json) |
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Railway Company Owner | 239658 | [239658-railway-company-owner.json](./239658-railway-company-owner.json) |
+| Railway Empire 2 | 215138 | [215138-railway-empire-2.json](./215138-railway-empire-2.json) |
 | Railway Empire 2: Digital Deluxe Edition | 251012 | [251012-railway-empire-2-digital-deluxe-edition.json](./251012-railway-empire-2-digital-deluxe-edition.json) |
 | Railway Empire 2: India | 317818 | [317818-railway-empire-2-india.json](./317818-railway-empire-2-india.json) |
 | Railway Empire: Complete Collection | 139950 | [139950-railway-empire-complete-collection.json](./139950-railway-empire-complete-collection.json) |
@@ -3586,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing SaGa | 11311 | [11311-romancing-saga.json](./11311-romancing-saga.json) |
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
 | Romancing SaGa Re;UniverSe | 109593 | [109593-romancing-saga-re-universe.json](./109593-romancing-saga-re-universe.json) |
+| Romancing SaGa: Minstrel Song Remastered | 203315 | [203315-romancing-saga-minstrel-song-remastered.json](./203315-romancing-saga-minstrel-song-remastered.json) |
 | Romancing the Kingdom | 224775 | [224775-romancing-the-kingdom.json](./224775-romancing-the-kingdom.json) |
 | Romania Prop Hunt | 324291 | [324291-romania-prop-hunt.json](./324291-romania-prop-hunt.json) |
 | Romanizer | 304569 | [304569-romanizer.json](./304569-romanizer.json) |
@@ -3844,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rover Mechanic Challenge: ERC Competition | 168754 | [168754-rover-mechanic-challenge-erc-competition.json](./168754-rover-mechanic-challenge-erc-competition.json) |
 | Rover Mechanic Simulator: Perseverance Rover | 170991 | [170991-rover-mechanic-simulator-perseverance-rover.json](./170991-rover-mechanic-simulator-perseverance-rover.json) |
 | Rover Wars | 177039 | [177039-rover-wars.json](./177039-rover-wars.json) |
+| Rover Wars: Battle For Mars | 132380 | [132380-rover-wars-battle-for-mars.json](./132380-rover-wars-battle-for-mars.json) |
 | Rover’s Radventure: The New Millennium | 411733 | [411733-rover-s-radventure-the-new-millennium.json](./411733-rover-s-radventure-the-new-millennium.json) |
 | Rovercraft 2 | 220195 | [220195-rovercraft-2.json](./220195-rovercraft-2.json) |
 | Roving in the Dark | 106602 | [106602-roving-in-the-dark.json](./106602-roving-in-the-dark.json) |
