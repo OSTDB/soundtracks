@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint-a'-Way | 271825 | [271825-paint-a-way.json](./271825-paint-a-way.json) |
 | Paint-guin | 310060 | [310060-paint-guin.json](./310060-paint-guin.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
+| Paintball 707 | 30321 | [30321-paintball-707.json](./30321-paintball-707.json) |
 | Paintball Arena Challenge | 86998 | [86998-paintball-arena-challenge.json](./86998-paintball-arena-challenge.json) |
 | Paintball Champs | 237386 | [237386-paintball-champs.json](./237386-paintball-champs.json) |
 | Paintball eXtreme | 34793 | [34793-paintball-extreme.json](./34793-paintball-extreme.json) |
@@ -4260,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postman Pat 2 | 68691 | [68691-postman-pat-2.json](./68691-postman-pat-2.json) |
 | Postman Pat 3: To the Rescue | 64095 | [64095-postman-pat-3-to-the-rescue.json](./64095-postman-pat-3-to-the-rescue.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
+| Postmortem: One Must Die (Extended Cut) | 30257 | [30257-postmortem-one-must-die-extended-cut.json](./30257-postmortem-one-must-die-extended-cut.json) |
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
 | Pot Breaker | 223444 | [223444-pot-breaker.json](./223444-pot-breaker.json) |
 | Pot Farm - Grass Roots | 39215 | [39215-pot-farm-grass-roots.json](./39215-pot-farm-grass-roots.json) |
