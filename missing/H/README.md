@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack | 2875 | [2875-hack.json](./2875-hack.json) |
 | Hack & Turn | 180114 | [180114-hack-and-turn.json](./180114-hack-and-turn.json) |
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
+| Hack 42: Typing Incremental | 407601 | [407601-hack-42-typing-incremental.json](./407601-hack-42-typing-incremental.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
 | Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
 | Hack And Slash Fury: Cat Fire Armor | 334513 | [334513-hack-and-slash-fury-cat-fire-armor.json](./334513-hack-and-slash-fury-cat-fire-armor.json) |
@@ -4201,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
 | Hunting fields of Jackals | 114966 | [114966-hunting-fields-of-jackals.json](./114966-hunting-fields-of-jackals.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
+| Hunting Pro Simulator | 407553 | [407553-hunting-pro-simulator.json](./407553-hunting-pro-simulator.json) |
 | Hunting Seas | 312169 | [312169-hunting-seas.json](./312169-hunting-seas.json) |
 | Hunting Season | 210056 | [210056-hunting-season.json](./210056-hunting-season.json) |
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
@@ -4267,6 +4269,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyde and Zeke | 166782 | [166782-hyde-and-zeke.json](./166782-hyde-and-zeke.json) |
 | Hydefos | 292848 | [292848-hydefos.json](./292848-hydefos.json) |
 | Hydlide | 320934 | [320934-hydlide.json](./320934-hydlide.json) |
+| Hydlide | 407550 | [407550-hydlide.json](./407550-hydlide.json) |
+| Hydlide Ev | 407599 | [407599-hydlide-ev.json](./407599-hydlide-ev.json) |
 | Hydra | 126444 | [126444-hydra.json](./126444-hydra.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
 | Hydra: Poseidon's Сonspiracy | 342645 | [342645-hydra-poseidons-onspiracy.json](./342645-hydra-poseidons-onspiracy.json) |
