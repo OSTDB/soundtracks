@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakurei Frontier | 225725 | [225725-hakurei-frontier.json](./225725-hakurei-frontier.json) |
 | Hakurei Frontier Spell Strive | 225728 | [225728-hakurei-frontier-spell-strive.json](./225728-hakurei-frontier-spell-strive.json) |
 | Hal 21 | 25956 | [25956-hal-21.json](./25956-hal-21.json) |
+| Hal Wrestling | 48993 | [48993-hal-wrestling.json](./48993-hal-wrestling.json) |
 | HAL's Hole in One Golf | 3653 | [3653-hals-hole-in-one-golf.json](./3653-hals-hole-in-one-golf.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
@@ -341,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerin' Harry 2: Dan the Red Strikes Back - Collector's Edition | 306987 | [306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json](./306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json) |
 | Hammerin' Harry: Collector's Edition | 306986 | [306986-hammerin-harry-collectors-edition.json](./306986-hammerin-harry-collectors-edition.json) |
 | Hammerin' Harry: Concrete Collection | 306988 | [306988-hammerin-harry-concrete-collection.json](./306988-hammerin-harry-concrete-collection.json) |
+| Hammerin' Harry: Ghost Building Company | 49048 | [49048-hammerin-harry-ghost-building-company.json](./49048-hammerin-harry-ghost-building-company.json) |
 | Hammerin' Hero | 42842 | [42842-hammerin-hero.json](./42842-hammerin-hero.json) |
 | Hammerlock Wrestling | 42589 | [42589-hammerlock-wrestling.json](./42589-hammerlock-wrestling.json) |
 | Hammerwatch | 7891 | [7891-hammerwatch.json](./7891-hammerwatch.json) |
@@ -4203,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Hentai Elf Attendant | 245927 | [245927-hyper-hentai-elf-attendant.json](./245927-hyper-hentai-elf-attendant.json) |
 | Hyper Hostess | 240888 | [240888-hyper-hostess.json](./240888-hyper-hostess.json) |
+| Hyper Lode Runner | 48980 | [48980-hyper-lode-runner.json](./48980-hyper-lode-runner.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
 | Hyper Olympic '84 Vol. 1 | 98245 | [98245-hyper-olympic-84-vol-1.json](./98245-hyper-olympic-84-vol-1.json) |
