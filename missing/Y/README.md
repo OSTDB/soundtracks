@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
 | Yoshi Touch & Go | 231475 | [231475-yoshi-touch-and-go.json](./231475-yoshi-touch-and-go.json) |
 | Yoshi vs. Windows Platinum | 142404 | [142404-yoshi-vs-windows-platinum.json](./142404-yoshi-vs-windows-platinum.json) |
+| Yoshi's Adventure 128: Attack of the Factory | 397262 | [397262-yoshis-adventure-128-attack-of-the-factory.json](./397262-yoshis-adventure-128-attack-of-the-factory.json) |
 | Yoshi's Dreamer | 323351 | [323351-yoshis-dreamer.json](./323351-yoshis-dreamer.json) |
 | Yoshi's Isle: Sonic Style | 323909 | [323909-yoshis-isle-sonic-style.json](./323909-yoshis-isle-sonic-style.json) |
 | Yoshi's Mix-Up | 231652 | [231652-yoshis-mix-up.json](./231652-yoshis-mix-up.json) |
