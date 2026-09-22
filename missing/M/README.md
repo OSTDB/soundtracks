@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Mash | 100606 | [100606-mash.json](./100606-mash.json) |
+| Mash Motion: Sprint Rush | 397950 | [397950-mash-motion-sprint-rush.json](./397950-mash-motion-sprint-rush.json) |
 | Masha and Medved | 216457 | [216457-masha-and-medved.json](./216457-masha-and-medved.json) |
 | Masha and the Bear Child Games: Cooking Adventure | 95847 | [95847-masha-and-the-bear-child-games-cooking-adventure.json](./95847-masha-and-the-bear-child-games-cooking-adventure.json) |
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
@@ -4012,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
 | Mindframe: The Secret Design - Collector's Edition | 132778 | [132778-mindframe-the-secret-design-collectors-edition.json](./132778-mindframe-the-secret-design-collectors-edition.json) |
+| Mindfunk in 13 Days | 397938 | [397938-mindfunk-in-13-days.json](./397938-mindfunk-in-13-days.json) |
 | MindGym | 172145 | [172145-mindgym.json](./172145-mindgym.json) |
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
