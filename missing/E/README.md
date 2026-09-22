@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Darts | 98956 | [98956-elite-darts.json](./98956-elite-darts.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elite Forces: Navy SEALs | 84183 | [84183-elite-forces-navy-seals.json](./84183-elite-forces-navy-seals.json) |
+| Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Elite Sports Gaming Football | 358359 | [358359-elite-sports-gaming-football.json](./358359-elite-sports-gaming-football.json) |
 | Elite Star Fighter | 117506 | [117506-elite-star-fighter.json](./117506-elite-star-fighter.json) |
@@ -1433,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
 | Enyo Arcade | 17802 | [17802-enyo-arcade.json](./17802-enyo-arcade.json) |
 | Enypnion Redreamed | 249812 | [249812-enypnion-redreamed.json](./249812-enypnion-redreamed.json) |
+| EOE: Eve of Extinction | 23454 | [23454-eoe-eve-of-extinction.json](./23454-eoe-eve-of-extinction.json) |
 | EOEOnline | 303515 | [303515-eoeonline.json](./303515-eoeonline.json) |
 | Eol-ui Moheom | 363981 | [363981-eol-ui-moheom.json](./363981-eol-ui-moheom.json) |
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
@@ -1532,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
 | Epoch | 24889 | [24889-epoch.json](./24889-epoch.json) |
 | Epoch | 369120 | [369120-epoch.json](./369120-epoch.json) |
+| Epoch 2 | 23485 | [23485-epoch-2.json](./23485-epoch-2.json) |
 | Epoch Cycle | 374134 | [374134-epoch-cycle.json](./374134-epoch-cycle.json) |
 | Epoch of Love | 211778 | [211778-epoch-of-love.json](./211778-epoch-of-love.json) |
 | Epoch Reset | 380414 | [380414-epoch-reset.json](./380414-epoch-reset.json) |
@@ -1920,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN National Hockey Night | 5381 | [5381-espn-national-hockey-night.json](./5381-espn-national-hockey-night.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
 | ESPN NFL 2K5 | 7881 | [7881-espn-nfl-2k5.json](./7881-espn-nfl-2k5.json) |
+| ESPN NFL PrimeTime 2002 | 23447 | [23447-espn-nfl-primetime-2002.json](./23447-espn-nfl-primetime-2002.json) |
 | ESPN NHL 2K5 | 5826 | [5826-espn-nhl-2k5.json](./5826-espn-nhl-2k5.json) |
 | ESPN Speed World | 46217 | [46217-espn-speed-world.json](./46217-espn-speed-world.json) |
 | ESPN Sunday Night NFL | 5382 | [5382-espn-sunday-night-nfl.json](./5382-espn-sunday-night-nfl.json) |
@@ -2184,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
 | EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
+| Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Even in Arcadia | 135022 | [135022-even-in-arcadia.json](./135022-even-in-arcadia.json) |
 | Even in Arcadia, There I Am | 136421 | [136421-even-in-arcadia-there-i-am.json](./136421-even-in-arcadia-there-i-am.json) |
 | Even Lovers Drown | 408772 | [408772-even-lovers-drown.json](./408772-even-lovers-drown.json) |
