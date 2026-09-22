@@ -3431,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
 | Pogn | 205103 | [205103-pogn.json](./205103-pogn.json) |
+| Pogo | 45363 | [45363-pogo.json](./45363-pogo.json) |
 | Pogo Chick | 240876 | [240876-pogo-chick.json](./240876-pogo-chick.json) |
 | Pogo Epoch: Impossible 99% | 329177 | [329177-pogo-epoch-impossible-99.json](./329177-pogo-epoch-impossible-99.json) |
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
