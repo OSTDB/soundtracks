@@ -1780,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2: Sonic Collaboration Edition | 132156 | [132156-phantasy-star-online-2-sonic-collaboration-edition.json](./132156-phantasy-star-online-2-sonic-collaboration-edition.json) |
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
 | Phantasy Star Online Episode I & II | 9890 | [9890-phantasy-star-online-episode-i-and-ii.json](./9890-phantasy-star-online-episode-i-and-ii.json) |
+| Phantasy Star Universe: Ambition of the Illuminus | 21501 | [21501-phantasy-star-universe-ambition-of-the-illuminus.json](./21501-phantasy-star-universe-ambition-of-the-illuminus.json) |
 | Phantasy Star: Fukkoku-ban | 45529 | [45529-phantasy-star-fukkoku-ban.json](./45529-phantasy-star-fukkoku-ban.json) |
 | PhantazmA | 125429 | [125429-phantazma.json](./125429-phantazma.json) |
 | Phantom | 258994 | [258994-phantom.json](./258994-phantom.json) |
@@ -3438,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo | 45363 | [45363-pogo.json](./45363-pogo.json) |
 | Pogo Chick | 240876 | [240876-pogo-chick.json](./240876-pogo-chick.json) |
 | Pogo Epoch: Impossible 99% | 329177 | [329177-pogo-epoch-impossible-99.json](./329177-pogo-epoch-impossible-99.json) |
+| Pogo Island | 21401 | [21401-pogo-island.json](./21401-pogo-island.json) |
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
 | Pogo Party | 224587 | [224587-pogo-party.json](./224587-pogo-party.json) |
 | Pogo Postman | 183463 | [183463-pogo-postman.json](./183463-pogo-postman.json) |
