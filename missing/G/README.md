@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo | 31785 | [31785-geo.json](./31785-geo.json) |
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
 | Geo Gods | 257471 | [257471-geo-gods.json](./257471-geo-gods.json) |
+| GEO Master | 33353 | [33353-geo-master.json](./33353-geo-master.json) |
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
 | Geo-Duck | 165078 | [165078-geo-duck.json](./165078-geo-duck.json) |
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
@@ -2617,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Mountain Adventure | 112144 | [112144-grand-mountain-adventure.json](./112144-grand-mountain-adventure.json) |
 | Grand Mountain Adventure 2 | 324130 | [324130-grand-mountain-adventure-2.json](./324130-grand-mountain-adventure-2.json) |
 | Grand Piano Keys | 200552 | [200552-grand-piano-keys.json](./200552-grand-piano-keys.json) |
+| Grand Pigeon's Duty | 33346 | [33346-grand-pigeons-duty.json](./33346-grand-pigeons-duty.json) |
 | Grand Poo World | 138218 | [138218-grand-poo-world.json](./138218-grand-poo-world.json) |
 | Grand Poo World II | 138219 | [138219-grand-poo-world-ii.json](./138219-grand-poo-world-ii.json) |
 | Grand Prix | 18103 | [18103-grand-prix.json](./18103-grand-prix.json) |
