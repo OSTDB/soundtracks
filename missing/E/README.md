@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
 | Escape from Fools | 112968 | [112968-escape-from-fools.json](./112968-escape-from-fools.json) |
 | Escape from Frankenstein's Castle | 213598 | [213598-escape-from-frankensteins-castle.json](./213598-escape-from-frankensteins-castle.json) |
+| Escape from Grimazel's Cottage | 410453 | [410453-escape-from-grimazels-cottage.json](./410453-escape-from-grimazels-cottage.json) |
 | Escape From Hata | 285466 | [285466-escape-from-hata.json](./285466-escape-from-hata.json) |
 | Escape from here | 68659 | [68659-escape-from-here.json](./68659-escape-from-here.json) |
 | Escape from here | 68666 | [68666-escape-from-here.json](./68666-escape-from-here.json) |
