@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picolarium | 178605 | [178605-picolarium.json](./178605-picolarium.json) |
 | Picoman Go | 284321 | [284321-picoman-go.json](./284321-picoman-go.json) |
 | PicoMix By NuSan | 328259 | [328259-picomix-by-nusan.json](./328259-picomix-by-nusan.json) |
+| Picopicotron | 402505 | [402505-picopicotron.json](./402505-picopicotron.json) |
 | PicoPlex | 178619 | [178619-picoplex.json](./178619-picoplex.json) |
 | PicoQuest: Darkness Rising | 183448 | [183448-picoquest-darkness-rising.json](./183448-picoquest-darkness-rising.json) |
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
