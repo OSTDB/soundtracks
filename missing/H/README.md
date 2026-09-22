@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacknet | 11707 | [11707-hacknet.json](./11707-hacknet.json) |
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
+| Hadalyth Zero | 414616 | [414616-hadalyth-zero.json](./414616-hadalyth-zero.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
 | Hadean Lands | 18654 | [18654-hadean-lands.json](./18654-hadean-lands.json) |
 | Hadephobia | 260957 | [260957-hadephobia.json](./260957-hadephobia.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Custom Edition | 243116 | [243116-halo-custom-edition.json](./243116-halo-custom-edition.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
 | Halo: Operation - Solar Flare | 351087 | [351087-halo-operation-solar-flare.json](./351087-halo-operation-solar-flare.json) |
+| Halo: Project Chozo | 414595 | [414595-halo-project-chozo.json](./414595-halo-project-chozo.json) |
 | Halo: Reach - Anniversary Map Pack | 176904 | [176904-halo-reach-anniversary-map-pack.json](./176904-halo-reach-anniversary-map-pack.json) |
 | Halo: Reach - Defiant Map Pack | 176905 | [176905-halo-reach-defiant-map-pack.json](./176905-halo-reach-defiant-map-pack.json) |
 | Halo: Reach - Legendary Edition | 43954 | [43954-halo-reach-legendary-edition.json](./43954-halo-reach-legendary-edition.json) |
