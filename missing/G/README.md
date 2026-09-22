@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gals Panic 3 | 210715 | [210715-gals-panic-3.json](./210715-gals-panic-3.json) |
 | Gals Panic 4 | 46848 | [46848-gals-panic-4.json](./46848-gals-panic-4.json) |
 | Gals Panic II | 210714 | [210714-gals-panic-ii.json](./210714-gals-panic-ii.json) |
+| Galumb | 414573 | [414573-galumb.json](./414573-galumb.json) |
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Galves Adventure | 230310 | [230310-galves-adventure.json](./230310-galves-adventure.json) |
 | Galxagar | 207320 | [207320-galxagar.json](./207320-galxagar.json) |
