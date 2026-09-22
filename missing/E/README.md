@@ -2254,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Second Counts | 13648 | [13648-every-second-counts.json](./13648-every-second-counts.json) |
 | Every Wednesday | 387366 | [387366-every-wednesday.json](./387366-every-wednesday.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
+| Everybody 1-2-Switch | 251588 | [251588-everybody-1-2-switch.json](./251588-everybody-1-2-switch.json) |
 | Everybody Herds | 350425 | [350425-everybody-herds.json](./350425-everybody-herds.json) |
 | Everybody Loves Skeletons | 121453 | [121453-everybody-loves-skeletons.json](./121453-everybody-loves-skeletons.json) |
 | Everybody's Golf | 28187 | [28187-everybodys-golf.json](./28187-everybodys-golf.json) |
