@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombified: The Text Adventure Game of the Zombie Plague Apocalypse! | 87259 | [87259-zombified-the-text-adventure-game-of-the-zombie-plague-apocalypse.json](./87259-zombified-the-text-adventure-game-of-the-zombie-plague-apocalypse.json) |
 | Zombiflux: Sleepless War | 260177 | [260177-zombiflux-sleepless-war.json](./260177-zombiflux-sleepless-war.json) |
 | Zombify Me Run | 221267 | [221267-zombify-me-run.json](./221267-zombify-me-run.json) |
+| Zombitsu | 23484 | [23484-zombitsu.json](./23484-zombitsu.json) |
 | ZombiU | 1591 | [1591-zombiu.json](./1591-zombiu.json) |
 | ZombLabs | 31891 | [31891-zomblabs.json](./31891-zomblabs.json) |
 | ZombMe | 343795 | [343795-zombme.json](./343795-zombme.json) |
