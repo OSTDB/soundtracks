@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma: Immortal Wrath | 145619 | [145619-karma-immortal-wrath.json](./145619-karma-immortal-wrath.json) |
 | Karma: Operation Barbossa | 67232 | [67232-karma-operation-barbossa.json](./67232-karma-operation-barbossa.json) |
 | Karma: The Dark World - Deluxe Edition | 403590 | [403590-karma-the-dark-world-deluxe-edition.json](./403590-karma-the-dark-world-deluxe-edition.json) |
+| Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
 | Karnn Age | 67969 | [67969-karnn-age.json](./67969-karnn-age.json) |
 | Karnov | 288188 | [288188-karnov.json](./288188-karnov.json) |
 | Karnov's Revenge | 39546 | [39546-karnovs-revenge.json](./39546-karnovs-revenge.json) |
@@ -1074,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
 | King's Quest V: Absence Makes the Heart Go Yonder! | 2238 | [2238-kings-quest-v-absence-makes-the-heart-go-yonder.json](./2238-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
+| King's Quest: Chapter 5 - The Good Knight | 28065 | [28065-kings-quest-chapter-5-the-good-knight.json](./28065-kings-quest-chapter-5-the-good-knight.json) |
 | King's Son | 255694 | [255694-kings-son.json](./255694-kings-son.json) |
 | King's Table: Hnefatafl | 379892 | [379892-kings-table-hnefatafl.json](./379892-kings-table-hnefatafl.json) |
 | King's Throne: Royal Delights | 208592 | [208592-kings-throne-royal-delights.json](./208592-kings-throne-royal-delights.json) |
