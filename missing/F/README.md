@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon 3.0: Hornet - Naval Strike Fighter | 78024 | [78024-falcon-3-0-hornet-naval-strike-fighter.json](./78024-falcon-3-0-hornet-naval-strike-fighter.json) |
 | Falcon 4.0 | 33853 | [33853-falcon-4-0.json](./33853-falcon-4-0.json) |
 | Falcon 4.0: Allied Force | 695 | [695-falcon-4-0-allied-force.json](./695-falcon-4-0-allied-force.json) |
+| Falcon Age | 107212 | [107212-falcon-age.json](./107212-falcon-age.json) |
 | Falcon Beertender 2 | 286123 | [286123-falcon-beertender-2.json](./286123-falcon-beertender-2.json) |
 | Falcon BMS | 77298 | [77298-falcon-bms.json](./77298-falcon-bms.json) |
 | Falcon Simulator | 86859 | [86859-falcon-simulator.json](./86859-falcon-simulator.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
+| Fates of Ort | 112857 | [112857-fates-of-ort.json](./112857-fates-of-ort.json) |
 | Fateweaver: Smash or Pass | 238598 | [238598-fateweaver-smash-or-pass.json](./238598-fateweaver-smash-or-pass.json) |
 | Fateweaver: The Alchemist's Quandary | 236930 | [236930-fateweaver-the-alchemists-quandary.json](./236930-fateweaver-the-alchemists-quandary.json) |
 | Father and Son | 97361 | [97361-father-and-son.json](./97361-father-and-son.json) |
@@ -2008,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
 | Fireblaster | 69256 | [69256-fireblaster.json](./69256-fireblaster.json) |
 | Fireboy & Watergirl 2: The Forest Temple | 246976 | [246976-fireboy-and-watergirl-2-the-forest-temple.json](./246976-fireboy-and-watergirl-2-the-forest-temple.json) |
+| Fireboy & Watergirl: Elements | 113679 | [113679-fireboy-and-watergirl-elements.json](./113679-fireboy-and-watergirl-elements.json) |
 | Fireboy and Watergirl: Online | 88769 | [88769-fireboy-and-watergirl-online.json](./88769-fireboy-and-watergirl-online.json) |
 | Firebug | 13714 | [13714-firebug.json](./13714-firebug.json) |
 | Firebug | 24888 | [24888-firebug.json](./24888-firebug.json) |
