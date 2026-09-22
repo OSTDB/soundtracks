@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GetBackers Dakkanya: Metropolis Dakkan Sakusen! | 49600 | [49600-getbackers-dakkanya-metropolis-dakkan-sakusen.json](./49600-getbackers-dakkanya-metropolis-dakkan-sakusen.json) |
 | GetClose | 61658 | [61658-getclose.json](./61658-getclose.json) |
 | Geten no Hana with Yume Akari Aizouban | 135857 | [135857-geten-no-hana-with-yume-akari-aizouban.json](./135857-geten-no-hana-with-yume-akari-aizouban.json) |
+| GetHigh.exe | 393798 | [393798-gethigh-exe.json](./393798-gethigh-exe.json) |
 | GetRektBambi | 59656 | [59656-getrektbambi.json](./59656-getrektbambi.json) |
 | Getsuei Gakuen -kou- | 34263 | [34263-getsuei-gakuen-kou.json](./34263-getsuei-gakuen-kou.json) |
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
@@ -1754,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glory to the Heroes | 363972 | [363972-glory-to-the-heroes.json](./363972-glory-to-the-heroes.json) |
+| Glory Wall! | 393838 | [393838-glory-wall.json](./393838-glory-wall.json) |
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
 | Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
 | Glove Pilot | 380537 | [380537-glove-pilot.json](./380537-glove-pilot.json) |
@@ -2478,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
 | Gorillas | 308395 | [308395-gorillas.json](./308395-gorillas.json) |
 | Gorillaz - Escape to Plastic Beach | 66158 | [66158-gorillaz-escape-to-plastic-beach.json](./66158-gorillaz-escape-to-plastic-beach.json) |
+| Goritaire | 393809 | [393809-goritaire.json](./393809-goritaire.json) |
 | Gorky 17 | 7833 | [7833-gorky-17.json](./7833-gorky-17.json) |
 | Gorky Zero: Beyond Honor | 26557 | [26557-gorky-zero-beyond-honor.json](./26557-gorky-zero-beyond-honor.json) |
 | Gormiti: The Lords of Nature! | 188105 | [188105-gormiti-the-lords-of-nature.json](./188105-gormiti-the-lords-of-nature.json) |
@@ -3015,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
 | Green Lantern: Rise of the Manhunters | 4896 | [4896-green-lantern-rise-of-the-manhunters.json](./4896-green-lantern-rise-of-the-manhunters.json) |
 | Green Lava Studios Volume 2 | 195092 | [195092-green-lava-studios-volume-2.json](./195092-green-lava-studios-volume-2.json) |
+| Green Light | 393827 | [393827-green-light.json](./393827-green-light.json) |
 | Green Light District | 416837 | [416837-green-light-district.json](./416837-green-light-district.json) |
 | Green Ninja: Year of the Frog | 280914 | [280914-green-ninja-year-of-the-frog.json](./280914-green-ninja-year-of-the-frog.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
