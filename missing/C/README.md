@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
 | ChessVR | 207362 | [207362-chessvr.json](./207362-chessvr.json) |
+| ChessWorlds | 409781 | [409781-chessworlds.json](./409781-chessworlds.json) |
 | Chest | 301274 | [301274-chest.json](./301274-chest.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
 | Chester | 193414 | [193414-chester.json](./193414-chester.json) |
