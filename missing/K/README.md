@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 292148 | [292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
 | Keith Courage in Alpha Zones | 42122 | [42122-keith-courage-in-alpha-zones.json](./42122-keith-courage-in-alpha-zones.json) |
 | Keith Van Eron's Pro Soccer | 15264 | [15264-keith-van-erons-pro-soccer.json](./15264-keith-van-erons-pro-soccer.json) |
+| Keiyaku Kanojo: Shinmai Kanojo to Hajimeru, Tottemo H de Pure na Renai Lesson | 409799 | [409799-keiyaku-kanojo-shinmai-kanojo-to-hajimeru-tottemo-h-de-pure-na-renai-lesson.json](./409799-keiyaku-kanojo-shinmai-kanojo-to-hajimeru-tottemo-h-de-pure-na-renai-lesson.json) |
 | Keizudo | 169395 | [169395-keizudo.json](./169395-keizudo.json) |
 | Keke in the Caves of Peril | 230262 | [230262-keke-in-the-caves-of-peril.json](./230262-keke-in-the-caves-of-peril.json) |
 | Kelime Oyunu | 356692 | [356692-kelime-oyunu.json](./356692-kelime-oyunu.json) |
@@ -840,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill it with Fire 2 | 252847 | [252847-kill-it-with-fire-2.json](./252847-kill-it-with-fire-2.json) |
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
 | Kill Kill Kill Kill | 312579 | [312579-kill-kill-kill-kill.json](./312579-kill-kill-kill-kill.json) |
+| Kill Loop | 409824 | [409824-kill-loop.json](./409824-kill-loop.json) |
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
 | Kill Me If You Can: Multiplayer Edition | 378317 | [378317-kill-me-if-you-can-multiplayer-edition.json](./378317-kill-me-if-you-can-multiplayer-edition.json) |
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
