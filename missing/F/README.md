@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
 | Fiete Match | 175273 | [175273-fiete-match.json](./175273-fiete-match.json) |
 | Fiets-Together | 395014 | [395014-fiets-together.json](./395014-fiets-together.json) |
+| FIFA 06: Road to FIFA World Cup | 22342 | [22342-fifa-06-road-to-fifa-world-cup.json](./22342-fifa-06-road-to-fifa-world-cup.json) |
 | FIFA 09 | 240317 | [240317-fifa-09.json](./240317-fifa-09.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
 | FIFA 15: Ultimate Team Edition | 42898 | [42898-fifa-15-ultimate-team-edition.json](./42898-fifa-15-ultimate-team-edition.json) |
@@ -1562,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting in Aden Gulf: 10 Degrees Turn | 54722 | [54722-fighting-in-aden-gulf-10-degrees-turn.json](./54722-fighting-in-aden-gulf-10-degrees-turn.json) |
 | Fighting Layer | 39552 | [39552-fighting-layer.json](./39552-fighting-layer.json) |
 | Fighting Mad Lads | 187396 | [187396-fighting-mad-lads.json](./187396-fighting-mad-lads.json) |
+| Fighting Masters | 46215 | [46215-fighting-masters.json](./46215-fighting-masters.json) |
 | Fighting Moore | 127015 | [127015-fighting-moore.json](./127015-fighting-moore.json) |
 | Fighting Network Rings | 44825 | [44825-fighting-network-rings.json](./44825-fighting-network-rings.json) |
 | Fighting of School | 306953 | [306953-fighting-of-school.json](./306953-fighting-of-school.json) |
@@ -3409,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One 2003 | 8301 | [8301-formula-one-2003.json](./8301-formula-one-2003.json) |
 | Formula One World Championship: Beyond the Limit | 5388 | [5388-formula-one-world-championship-beyond-the-limit.json](./5388-formula-one-world-championship-beyond-the-limit.json) |
 | Formula One: Built to Win | 48297 | [48297-formula-one-built-to-win.json](./48297-formula-one-built-to-win.json) |
+| Formula One: Championship Edition | 21397 | [21397-formula-one-championship-edition.json](./21397-formula-one-championship-edition.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
@@ -3633,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
+| Fox n Forests | 21961 | [21961-fox-n-forests.json](./21961-fox-n-forests.json) |
 | Fox Runner Adventures | 237370 | [237370-fox-runner-adventures.json](./237370-fox-runner-adventures.json) |
 | Fox Soldier | 120955 | [120955-fox-soldier.json](./120955-fox-soldier.json) |
 | Fox Spirit: A Two-Tailed Adventure | 158039 | [158039-fox-spirit-a-two-tailed-adventure.json](./158039-fox-spirit-a-two-tailed-adventure.json) |
