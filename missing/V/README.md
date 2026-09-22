@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Families American Dad: Police Family Games | 99419 | [99419-virtual-families-american-dad-police-family-games.json](./99419-virtual-families-american-dad-police-family-games.json) |
 | Virtual Families Cook Off: Chapter 2 - Farm Life | 248660 | [248660-virtual-families-cook-off-chapter-2-farm-life.json](./248660-virtual-families-cook-off-chapter-2-farm-life.json) |
 | Virtual Families: Cook Off | 219278 | [219278-virtual-families-cook-off.json](./219278-virtual-families-cook-off.json) |
+| Virtual Fighting Championship | 103360 | [103360-virtual-fighting-championship.json](./103360-virtual-fighting-championship.json) |
 | Virtual Fishing | 50597 | [50597-virtual-fishing.json](./50597-virtual-fishing.json) |
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
 | Virtual Goaltender | 86861 | [86861-virtual-goaltender.json](./86861-virtual-goaltender.json) |
@@ -1005,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
 | Visitations | 156610 | [156610-visitations.json](./156610-visitations.json) |
 | Visiting a Celebrity | 160220 | [160220-visiting-a-celebrity.json](./160220-visiting-a-celebrity.json) |
+| Visitor | 104903 | [104903-visitor.json](./104903-visitor.json) |
 | Visitor | 177557 | [177557-visitor.json](./177557-visitor.json) |
 | Visitor 2 | 117696 | [117696-visitor-2.json](./117696-visitor-2.json) |
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
