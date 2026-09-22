@@ -2565,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
 | Gran Turismo 5 Spec 2.0 | 136852 | [136852-gran-turismo-5-spec-2-0.json](./136852-gran-turismo-5-spec-2-0.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
+| Gran Turismo 7: Spec IV | 416116 | [416116-gran-turismo-7-spec-iv.json](./416116-gran-turismo-7-spec-iv.json) |
 | Gran Turismo Concept: 2002 Tokyo-Geneva | 22061 | [22061-gran-turismo-concept-2002-tokyo-geneva.json](./22061-gran-turismo-concept-2002-tokyo-geneva.json) |
 | Gran Turismo Sport | 14363 | [14363-gran-turismo-sport.json](./14363-gran-turismo-sport.json) |
 | Gran Turismo Sport: Collector's Edition | 138775 | [138775-gran-turismo-sport-collectors-edition.json](./138775-gran-turismo-sport-collectors-edition.json) |
@@ -3068,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridfall | 373119 | [373119-gridfall.json](./373119-gridfall.json) |
 | Gridfire | 84226 | [84226-gridfire.json](./84226-gridfire.json) |
 | Gridiron Champions | 130407 | [130407-gridiron-champions.json](./130407-gridiron-champions.json) |
+| Gridiron Football League | 416118 | [416118-gridiron-football-league.json](./416118-gridiron-football-league.json) |
 | Gridiron Masters '98 | 401535 | [401535-gridiron-masters-98.json](./401535-gridiron-masters-98.json) |
 | Gridiron Solitaire | 16885 | [16885-gridiron-solitaire.json](./16885-gridiron-solitaire.json) |
 | Gridiron Thunder | 51171 | [51171-gridiron-thunder.json](./51171-gridiron-thunder.json) |
