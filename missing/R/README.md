@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raster Blaster | 24879 | [24879-raster-blaster.json](./24879-raster-blaster.json) |
 | Raster Fahndung | 92992 | [92992-raster-fahndung.json](./92992-raster-fahndung.json) |
 | Raster Prime: Remix | 162415 | [162415-raster-prime-remix.json](./162415-raster-prime-remix.json) |
+| RasterFire | 412570 | [412570-rasterfire.json](./412570-rasterfire.json) |
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
 | Rat Farm | 414418 | [414418-rat-farm.json](./414418-rat-farm.json) |
@@ -3235,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock of the Dead | 7163 | [7163-rock-of-the-dead.json](./7163-rock-of-the-dead.json) |
 | Rock Paper Clicker | 191856 | [191856-rock-paper-clicker.json](./191856-rock-paper-clicker.json) |
 | Rock Paper Everything | 312010 | [312010-rock-paper-everything.json](./312010-rock-paper-everything.json) |
+| Rock Paper Kill | 412545 | [412545-rock-paper-kill.json](./412545-rock-paper-kill.json) |
 | Rock Paper Scissors 2! | 178621 | [178621-rock-paper-scissors-2.json](./178621-rock-paper-scissors-2.json) |
 | Rock Paper Scissors Party | 391732 | [391732-rock-paper-scissors-party.json](./391732-rock-paper-scissors-party.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
@@ -4112,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruction: The Golden Tablet | 32207 | [32207-ruction-the-golden-tablet.json](./32207-ruction-the-golden-tablet.json) |
 | Rudimentary Unfinished Shooter Entry | 413891 | [413891-rudimentary-unfinished-shooter-entry.json](./413891-rudimentary-unfinished-shooter-entry.json) |
 | Rudo Resurrection | 66646 | [66646-rudo-resurrection.json](./66646-rudo-resurrection.json) |
+| Rudolf's Very Good, No Bad Day-o | 412543 | [412543-rudolfs-very-good-no-bad-day-o.json](./412543-rudolfs-very-good-no-bad-day-o.json) |
 | Rudolph the Red-Nosed Reindeer | 358391 | [358391-rudolph-the-red-nosed-reindeer.json](./358391-rudolph-the-red-nosed-reindeer.json) |
 | Rudra no Hihou | 15838 | [15838-rudra-no-hihou.json](./15838-rudra-no-hihou.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
