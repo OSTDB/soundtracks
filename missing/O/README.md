@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
 | Onimusha 2: Samurai's Destiny | 11757 | [11757-onimusha-2-samurais-destiny.json](./11757-onimusha-2-samurais-destiny.json) |
 | Onimusha 2: Samurai's Destiny | 330283 | [330283-onimusha-2-samurais-destiny.json](./330283-onimusha-2-samurais-destiny.json) |
+| Onimusha Tactics | 6526 | [6526-onimusha-tactics.json](./6526-onimusha-tactics.json) |
 | Onimusha: Dawn of Dreams | 11759 | [11759-onimusha-dawn-of-dreams.json](./11759-onimusha-dawn-of-dreams.json) |
 | Onimusha: Warlords | 107292 | [107292-onimusha-warlords.json](./107292-onimusha-warlords.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
@@ -1534,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends | 136996 | [136996-otherworld-legends.json](./136996-otherworld-legends.json) |
 | Otherworld Legends: Hannah | 199589 | [199589-otherworld-legends-hannah.json](./199589-otherworld-legends-hannah.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
+| Otogi: Myth of Demons | 5975 | [5975-otogi-myth-of-demons.json](./5975-otogi-myth-of-demons.json) |
 | Otogi: Spirit Agents | 28122 | [28122-otogi-spirit-agents.json](./28122-otogi-spirit-agents.json) |
 | Otokiyome | 241380 | [241380-otokiyome.json](./241380-otokiyome.json) |
 | Otoko Cross: Naked Remix | 247186 | [247186-otoko-cross-naked-remix.json](./247186-otoko-cross-naked-remix.json) |
