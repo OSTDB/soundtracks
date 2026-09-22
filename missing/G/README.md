@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: The Video Game | 77275 | [77275-ghostbusters-the-video-game.json](./77275-ghostbusters-the-video-game.json) |
 | GhostCatcher | 257961 | [257961-ghostcatcher.json](./257961-ghostcatcher.json) |
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
+| Ghosted | 418760 | [418760-ghosted.json](./418760-ghosted.json) |
 | Ghosth | 179747 | [179747-ghosth.json](./179747-ghosth.json) |
 | GhostHunt With Triggered Insaan | 289316 | [289316-ghosthunt-with-triggered-insaan.json](./289316-ghosthunt-with-triggered-insaan.json) |
 | Ghosthunter | 22279 | [22279-ghosthunter.json](./22279-ghosthunter.json) |
