@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathoBlasta VS | 276188 | [276188-pathoblasta-vs.json](./276188-pathoblasta-vs.json) |
 | Pathogen | 213588 | [213588-pathogen.json](./213588-pathogen.json) |
 | Pathogen-X | 143064 | [143064-pathogen-x.json](./143064-pathogen-x.json) |
+| Pathogen: Code Omega | 400467 | [400467-pathogen-code-omega.json](./400467-pathogen-code-omega.json) |
 | Pathogenesis: Overcome | 122387 | [122387-pathogenesis-overcome.json](./122387-pathogenesis-overcome.json) |
 | Pathologic 3 | 319087 | [319087-pathologic-3.json](./319087-pathologic-3.json) |
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
@@ -1392,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
 | Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
+| Pemkie Island | 400478 | [400478-pemkie-island.json](./400478-pemkie-island.json) |
 | Pen and Paper Games Bundle | 147799 | [147799-pen-and-paper-games-bundle.json](./147799-pen-and-paper-games-bundle.json) |
 | Pen Fight | 233760 | [233760-pen-fight.json](./233760-pen-fight.json) |
 | Pen Guns | 210098 | [210098-pen-guns.json](./210098-pen-guns.json) |
@@ -4624,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President card game | 99377 | [99377-president-card-game.json](./99377-president-card-game.json) |
 | President of Steel | 382882 | [382882-president-of-steel.json](./382882-president-of-steel.json) |
 | President Pig | 100726 | [100726-president-pig.json](./100726-president-pig.json) |
+| President Simulator | 400440 | [400440-president-simulator.json](./400440-president-simulator.json) |
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
