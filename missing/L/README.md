@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
 | Liminal | 105106 | [105106-liminal.json](./105106-liminal.json) |
+| Liminal Aero | 399213 | [399213-liminal-aero.json](./399213-liminal-aero.json) |
 | Liminal Border Part III | 315044 | [315044-liminal-border-part-iii.json](./315044-liminal-border-part-iii.json) |
 | Liminal City: Axiom of Maria - Chapter One | 401804 | [401804-liminal-city-axiom-of-maria-chapter-one.json](./401804-liminal-city-axiom-of-maria-chapter-one.json) |
 | Liminal Death | 340921 | [340921-liminal-death.json](./340921-liminal-death.json) |
