@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 01's Blackhole | 200635 | [200635-01s-blackhole.json](./200635-01s-blackhole.json) |
 | 0101: Classic Bonus Levels 3 | 325453 | [325453-0101-classic-bonus-levels-3.json](./325453-0101-classic-bonus-levels-3.json) |
 | 0101: Pusher Bonus Levels 3 | 325455 | [325455-0101-pusher-bonus-levels-3.json](./325455-0101-pusher-bonus-levels-3.json) |
+| 03.04 | 113188 | [113188-03-04.json](./113188-03-04.json) |
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
 | 0Hz Zero Hertz | 216771 | [216771-0hz-zero-hertz.json](./216771-0hz-zero-hertz.json) |
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
