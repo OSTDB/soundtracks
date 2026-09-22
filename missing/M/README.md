@@ -7120,6 +7120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mýrdalssandur, Iceland | 130176 | [130176-myrdalssandur-iceland.json](./130176-myrdalssandur-iceland.json) |
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
+| Myriad Realms | 406296 | [406296-myriad-realms.json](./406296-myriad-realms.json) |
 | Myrm Emblem | 279784 | [279784-myrm-emblem.json](./279784-myrm-emblem.json) |
 | MyrnEscapes | 200033 | [200033-myrnescapes.json](./200033-myrnescapes.json) |
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
