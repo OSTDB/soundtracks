@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaede Doori: Brand New Days Innocent | 413053 | [413053-kaede-doori-brand-new-days-innocent.json](./413053-kaede-doori-brand-new-days-innocent.json) |
 | Kaeru Batake DE Tsukamaete Portable | 218505 | [218505-kaeru-batake-de-tsukamaete-portable.json](./218505-kaeru-batake-de-tsukamaete-portable.json) |
 | Kaeru Batake DE Tsukamaete: Natsu Chigira Sansen! | 60248 | [60248-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json](./60248-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json) |
+| Kaeru no Tame ni Kane wa Naru | 49078 | [49078-kaeru-no-tame-ni-kane-wa-naru.json](./49078-kaeru-no-tame-ni-kane-wa-naru.json) |
 | Kaeru nyo Panyo~n | 146266 | [146266-kaeru-nyo-panyo-n.json](./146266-kaeru-nyo-panyo-n.json) |
 | Kaetram | 301401 | [301401-kaetram.json](./301401-kaetram.json) |
 | Kaf Village | 340784 | [340784-kaf-village.json](./340784-kaf-village.json) |
