@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sargon I | 83263 | [83263-sargon-i.json](./83263-sargon-i.json) |
 | Sargon II | 47209 | [47209-sargon-ii.json](./47209-sargon-ii.json) |
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
+| Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
 | SAS: Zombie Assault 4 | 39197 | [39197-sas-zombie-assault-4.json](./39197-sas-zombie-assault-4.json) |
 | Sasa | 48602 | [48602-sasa.json](./48602-sasa.json) |
@@ -841,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save The Babies | 335260 | [335260-save-the-babies.json](./335260-save-the-babies.json) |
 | Save the City | 359440 | [359440-save-the-city.json](./359440-save-the-city.json) |
 | Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
+| Save the Eggs | 416110 | [416110-save-the-eggs.json](./416110-save-the-eggs.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
 | Save the Furries | 10813 | [10813-save-the-furries.json](./10813-save-the-furries.json) |
@@ -5301,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy's Silly Sports Spectacular! | 48077 | [48077-snoopys-silly-sports-spectacular.json](./48077-snoopys-silly-sports-spectacular.json) |
 | Snoot Booper | 392282 | [392282-snoot-booper.json](./392282-snoot-booper.json) |
 | Snoot Game | 225989 | [225989-snoot-game.json](./225989-snoot-game.json) |
+| Snooze Control | 416094 | [416094-snooze-control.json](./416094-snooze-control.json) |
 | Snooze or Lose | 276718 | [276718-snooze-or-lose.json](./276718-snooze-or-lose.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
 | Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
@@ -9729,6 +9732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
 | Street Cleaner 3 | 305382 | [305382-street-cleaner-3.json](./305382-street-cleaner-3.json) |
+| Street Corner Heartbeat Snaps | 416070 | [416070-street-corner-heartbeat-snaps.json](./416070-street-corner-heartbeat-snaps.json) |
 | Street Cred Football | 71471 | [71471-street-cred-football.json](./71471-street-cred-football.json) |
 | Street Defenders | 357270 | [357270-street-defenders.json](./357270-street-defenders.json) |
 | Street Drag Racing Car Driving Simulator 2022 Games | 231066 | [231066-street-drag-racing-car-driving-simulator-2022-games.json](./231066-street-drag-racing-car-driving-simulator-2022-games.json) |
@@ -10112,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
 | Submersible | 272372 | [272372-submersible.json](./272372-submersible.json) |
 | Submersible Simulator: Discover the Titanic into Ocean | 271274 | [271274-submersible-simulator-discover-the-titanic-into-ocean.json](./271274-submersible-simulator-discover-the-titanic-into-ocean.json) |
+| Submind | 416091 | [416091-submind.json](./416091-submind.json) |
 | Subnautic Adventures | 87875 | [87875-subnautic-adventures.json](./87875-subnautic-adventures.json) |
 | Subnautica + Subnautica Below Zero Double Pack | 143025 | [143025-subnautica-subnautica-below-zero-double-pack.json](./143025-subnautica-subnautica-below-zero-double-pack.json) |
 | Subnautica 2 | 320140 | [320140-subnautica-2.json](./320140-subnautica-2.json) |
@@ -11611,6 +11616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Swunsh World 2 | 328044 | [328044-super-swunsh-world-2.json](./328044-super-swunsh-world-2.json) |
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
 | Super Tact | 60225 | [60225-super-tact.json](./60225-super-tact.json) |
+| Super Takoyaki Battle | 416068 | [416068-super-takoyaki-battle.json](./416068-super-takoyaki-battle.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tank Battle | 175369 | [175369-super-tank-battle.json](./175369-super-tank-battle.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
@@ -11759,6 +11765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Cola Dash Classic | 374666 | [374666-supermarket-cola-dash-classic.json](./374666-supermarket-cola-dash-classic.json) |
 | Supermarket Cola Dash Deluxe! | 374667 | [374667-supermarket-cola-dash-deluxe.json](./374667-supermarket-cola-dash-deluxe.json) |
 | Supermarket Duck Dash | 221160 | [221160-supermarket-duck-dash.json](./221160-supermarket-duck-dash.json) |
+| Supermarket Electronic | 416069 | [416069-supermarket-electronic.json](./416069-supermarket-electronic.json) |
 | Supermarket Grocery Simulator | 319774 | [319774-supermarket-grocery-simulator.json](./319774-supermarket-grocery-simulator.json) |
 | Supermarket Management | 88156 | [88156-supermarket-management.json](./88156-supermarket-management.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
