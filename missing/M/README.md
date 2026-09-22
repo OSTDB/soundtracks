@@ -5935,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rider Go: Highway Traffic | 104640 | [104640-moto-rider-go-highway-traffic.json](./104640-moto-rider-go-highway-traffic.json) |
 | Moto Roader II | 37708 | [37708-moto-roader-ii.json](./37708-moto-roader-ii.json) |
 | Moto Rush GT: Advanced Edition | 315871 | [315871-moto-rush-gt-advanced-edition.json](./315871-moto-rush-gt-advanced-edition.json) |
+| Moto Rush GT: Comprehensive Edition | 399823 | [399823-moto-rush-gt-comprehensive-edition.json](./399823-moto-rush-gt-comprehensive-edition.json) |
 | Moto Rush GT: Core Edition | 396922 | [396922-moto-rush-gt-core-edition.json](./396922-moto-rush-gt-core-edition.json) |
 | Moto Rush GT: Definitive Edition | 283139 | [283139-moto-rush-gt-definitive-edition.json](./283139-moto-rush-gt-definitive-edition.json) |
 | Moto Rush GT: Extended Edition | 261346 | [261346-moto-rush-gt-extended-edition.json](./261346-moto-rush-gt-extended-edition.json) |
@@ -5992,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
 | Motorbike Racing | 217965 | [217965-motorbike-racing.json](./217965-motorbike-racing.json) |
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
+| Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
 | Motorcycle Extreme Driver: Moto Racing Simulator | 294836 | [294836-motorcycle-extreme-driver-moto-racing-simulator.json](./294836-motorcycle-extreme-driver-moto-racing-simulator.json) |
 | Motorcycle Girl | 402984 | [402984-motorcycle-girl.json](./402984-motorcycle-girl.json) |
@@ -6450,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
 | Murder Mall Escape | 311652 | [311652-murder-mall-escape.json](./311652-murder-mall-escape.json) |
 | Murder Mansion | 181845 | [181845-murder-mansion.json](./181845-murder-mansion.json) |
+| Murder Meet Cute | 399858 | [399858-murder-meet-cute.json](./399858-murder-meet-cute.json) |
 | Murder Miners | 17035 | [17035-murder-miners.json](./17035-murder-miners.json) |
 | Murder Miners X | 265159 | [265159-murder-miners-x.json](./265159-murder-miners-x.json) |
 | Murder Mystery Adventure | 27302 | [27302-murder-mystery-adventure.json](./27302-murder-mystery-adventure.json) |
@@ -6556,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Box: Hip Hop | 316271 | [316271-music-box-hip-hop.json](./316271-music-box-hip-hop.json) |
 | Music Box: Hip Hop vol.2 | 316272 | [316272-music-box-hip-hop-vol-2.json](./316272-music-box-hip-hop-vol-2.json) |
 | Music Catch 2 | 216325 | [216325-music-catch-2.json](./216325-music-catch-2.json) |
+| Music Chase 1: The Music In Me | 399836 | [399836-music-chase-1-the-music-in-me.json](./399836-music-chase-1-the-music-in-me.json) |
 | Music Club Manager | 126616 | [126616-music-club-manager.json](./126616-music-club-manager.json) |
 | Music Drive | 273994 | [273994-music-drive.json](./273994-music-drive.json) |
 | Music Drive: Chase the Beat | 351004 | [351004-music-drive-chase-the-beat.json](./351004-music-drive-chase-the-beat.json) |
@@ -6825,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
 | My Heart Grows Fonder | 117653 | [117653-my-heart-grows-fonder.json](./117653-my-heart-grows-fonder.json) |
 | My Heaven's Dale | 343267 | [343267-my-heavens-dale.json](./343267-my-heavens-dale.json) |
+| My Helpers | 399841 | [399841-my-helpers.json](./399841-my-helpers.json) |
 | My Hero Academia: All's Justice - DLC Character 4 | 414446 | [414446-my-hero-academia-alls-justice-dlc-character-4.json](./414446-my-hero-academia-alls-justice-dlc-character-4.json) |
 | My Hero Academia: All's Justice - DLC Character 5 | 414447 | [414447-my-hero-academia-alls-justice-dlc-character-5.json](./414447-my-hero-academia-alls-justice-dlc-character-5.json) |
 | My Hero Academia: All's Justice - Playable Character Izuku Midoriya Overlay Full Style | 414448 | [414448-my-hero-academia-alls-justice-playable-character-izuku-midoriya-overlay-full-style.json](./414448-my-hero-academia-alls-justice-playable-character-izuku-midoriya-overlay-full-style.json) |
