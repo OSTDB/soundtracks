@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
 | A G-G-Ghost! | 311656 | [311656-a-g-g-ghost.json](./311656-a-g-g-ghost.json) |
 | A Game About Bouncing DVD | 406321 | [406321-a-game-about-bouncing-dvd.json](./406321-a-game-about-bouncing-dvd.json) |
+| A Game About Chopping Trees | 403786 | [403786-a-game-about-chopping-trees.json](./403786-a-game-about-chopping-trees.json) |
 | A Game About Fishing | 412382 | [412382-a-game-about-fishing.json](./412382-a-game-about-fishing.json) |
 | A Game About Getting Bigger | 405583 | [405583-a-game-about-getting-bigger.json](./405583-a-game-about-getting-bigger.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
@@ -2205,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altitudes | 141173 | [141173-altitudes.json](./141173-altitudes.json) |
 | Altiverse | 266809 | [266809-altiverse.json](./266809-altiverse.json) |
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
+| Alto | 403811 | [403811-alto.json](./403811-alto.json) |
 | Alto Trek | 232414 | [232414-alto-trek.json](./232414-alto-trek.json) |
 | Alto's Adventure | 18130 | [18130-altos-adventure.json](./18130-altos-adventure.json) |
 | Alto's Odyssey | 26428 | [26428-altos-odyssey.json](./26428-altos-odyssey.json) |
@@ -5380,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
 | Aurora: Hidden Colors | 126411 | [126411-aurora-hidden-colors.json](./126411-aurora-hidden-colors.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
+| Aurora's Awakening | 403798 | [403798-auroras-awakening.json](./403798-auroras-awakening.json) |
 | AuroraBound | 263585 | [263585-aurorabound.json](./263585-aurorabound.json) |
 | AuroraBound Deluxe | 74370 | [74370-aurorabound-deluxe.json](./74370-aurorabound-deluxe.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
