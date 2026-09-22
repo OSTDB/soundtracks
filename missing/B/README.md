@@ -2704,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billund | 241499 | [241499-billund.json](./241499-billund.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Billy Bob's Huntin'-n-Fishin' | 49913 | [49913-billy-bobs-huntin-n-fishin.json](./49913-billy-bobs-huntin-n-fishin.json) |
+| Billy Boots' Treasure | 396548 | [396548-billy-boots-treasure.json](./396548-billy-boots-treasure.json) |
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
 | Billy Boy's Important Wine Lottery | 317404 | [317404-billy-boys-important-wine-lottery.json](./317404-billy-boys-important-wine-lottery.json) |
 | Billy Masters Was Right | 139402 | [139402-billy-masters-was-right.json](./139402-billy-masters-was-right.json) |
@@ -6084,6 +6085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
 | Burning Tail Banquet | 403789 | [403789-burning-tail-banquet.json](./403789-burning-tail-banquet.json) |
 | Burning Vengeance | 241520 | [241520-burning-vengeance.json](./241520-burning-vengeance.json) |
+| Burning, Crackling | 396540 | [396540-burning-crackling.json](./396540-burning-crackling.json) |
 | Burnit Quest | 195178 | [195178-burnit-quest.json](./195178-burnit-quest.json) |
 | Burnogue | 377090 | [377090-burnogue.json](./377090-burnogue.json) |
 | Burnout | 14355 | [14355-burnout.json](./14355-burnout.json) |
