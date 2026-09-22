@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculator and Monsters | 167258 | [167258-calculator-and-monsters.json](./167258-calculator-and-monsters.json) |
 | Calculator: The Game | 129167 | [129167-calculator-the-game.json](./129167-calculator-the-game.json) |
 | Calculator360 | 81236 | [81236-calculator360.json](./81236-calculator360.json) |
+| Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
@@ -3203,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clappy Cheeks: Lust and Magic | 379351 | [379351-clappy-cheeks-lust-and-magic.json](./379351-clappy-cheeks-lust-and-magic.json) |
 | Clara Rockmore’s 105th Birthday | 375819 | [375819-clara-rockmore-s-105th-birthday.json](./375819-clara-rockmore-s-105th-birthday.json) |
 | Clara Stirzaker and the Crypt of Time | 185524 | [185524-clara-stirzaker-and-the-crypt-of-time.json](./185524-clara-stirzaker-and-the-crypt-of-time.json) |
+| Clara Wraiths 2 | 409042 | [409042-clara-wraiths-2.json](./409042-clara-wraiths-2.json) |
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarence Goes to the F%ing Store | 166700 | [166700-clarence-goes-to-the-f-ing-store.json](./166700-clarence-goes-to-the-f-ing-store.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
@@ -4982,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Kites | 38814 | [38814-cosmic-kites.json](./38814-cosmic-kites.json) |
 | Cosmic League | 57108 | [57108-cosmic-league.json](./57108-cosmic-league.json) |
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
+| Cosmic Mart | 409021 | [409021-cosmic-mart.json](./409021-cosmic-mart.json) |
 | Cosmic Math | 91745 | [91745-cosmic-math.json](./91745-cosmic-math.json) |
 | Cosmic Mirage | 297100 | [297100-cosmic-mirage.json](./297100-cosmic-mirage.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
