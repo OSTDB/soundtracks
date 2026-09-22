@@ -3007,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging Hours | 342749 | [342749-digging-hours.json](./342749-digging-hours.json) |
 | Diggles: The Myth of Fenris | 9521 | [9521-diggles-the-myth-of-fenris.json](./9521-diggles-the-myth-of-fenris.json) |
 | Diggy: Gold Rush | 248098 | [248098-diggy-gold-rush.json](./248098-diggy-gold-rush.json) |
+| Digi Fighters | 392428 | [392428-digi-fighters.json](./392428-digi-fighters.json) |
 | Digi Pool | 70341 | [70341-digi-pool.json](./70341-digi-pool.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
 | Digimon All-Star Rumble | 9286 | [9286-digimon-all-star-rumble.json](./9286-digimon-all-star-rumble.json) |
@@ -3171,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Panic | 351680 | [351680-dino-panic.json](./351680-dino-panic.json) |
 | Dino Pet Walker | 394535 | [394535-dino-pet-walker.json](./394535-dino-pet-walker.json) |
 | Dino Precision Platformer | 303476 | [303476-dino-precision-platformer.json](./303476-dino-precision-platformer.json) |
+| Dino Quest | 392472 | [392472-dino-quest.json](./392472-dino-quest.json) |
 | Dino R-r-age Defense | 88103 | [88103-dino-r-r-age-defense.json](./88103-dino-r-r-age-defense.json) |
 | Dino Race: Dinosaur Ride Ranch | 284487 | [284487-dino-race-dinosaur-ride-ranch.json](./284487-dino-race-dinosaur-ride-ranch.json) |
 | Dino Rampage 3D | 106627 | [106627-dino-rampage-3d.json](./106627-dino-rampage-3d.json) |
@@ -3318,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
 | Disaster: Day of Crisis | 4805 | [4805-disaster-day-of-crisis.json](./4805-disaster-day-of-crisis.json) |
+| DisasterPR+ | 392484 | [392484-disasterpr.json](./392484-disasterpr.json) |
 | Disastles Online | 398593 | [398593-disastles-online.json](./398593-disastles-online.json) |
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
@@ -4163,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Drown | 342084 | [342084-dont-drown.json](./342084-dont-drown.json) |
 | Don't Eat My Mind You Stupid Monsters! | 176422 | [176422-dont-eat-my-mind-you-stupid-monsters.json](./176422-dont-eat-my-mind-you-stupid-monsters.json) |
+| Don’t Eat the Cashier! | 392432 | [392432-don-t-eat-the-cashier.json](./392432-don-t-eat-the-cashier.json) |
 | Don't Escape | 223670 | [223670-dont-escape.json](./223670-dont-escape.json) |
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
 | Don't Fall | 140024 | [140024-dont-fall.json](./140024-dont-fall.json) |
