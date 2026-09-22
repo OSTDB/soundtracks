@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaze At Maze | 101620 | [101620-gaze-at-maze.json](./101620-gaze-at-maze.json) |
 | Gaze of the Eyeless | 191089 | [191089-gaze-of-the-eyeless.json](./191089-gaze-of-the-eyeless.json) |
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
+| Gazillionaire | 69550 | [69550-gazillionaire.json](./69550-gazillionaire.json) |
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
 | Gazza II | 41000 | [41000-gazza-ii.json](./41000-gazza-ii.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
@@ -1940,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gochi-Show! | 31730 | [31730-gochi-show.json](./31730-gochi-show.json) |
 | God bless, or Goddess | 358972 | [358972-god-bless-or-goddess.json](./358972-god-bless-or-goddess.json) |
 | God Busters: Who watches the Watchers? | 232460 | [232460-god-busters-who-watches-the-watchers.json](./232460-god-busters-who-watches-the-watchers.json) |
+| God Came to the Cave | 70298 | [70298-god-came-to-the-cave.json](./70298-god-came-to-the-cave.json) |
 | God Eater | 11844 | [11844-god-eater.json](./11844-god-eater.json) |
 | God Eater 2 | 11853 | [11853-god-eater-2.json](./11853-god-eater-2.json) |
 | God Eater 2: Famitsu DX Pack | 89864 | [89864-god-eater-2-famitsu-dx-pack.json](./89864-god-eater-2-famitsu-dx-pack.json) |
