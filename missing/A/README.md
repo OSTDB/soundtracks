@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
 | A Very Scandalous Proposal | 313852 | [313852-a-very-scandalous-proposal.json](./313852-a-very-scandalous-proposal.json) |
 | A Very Splendid Otome Game | 321555 | [321555-a-very-splendid-otome-game.json](./321555-a-very-splendid-otome-game.json) |
+| A Vessel of Frustration | 398569 | [398569-a-vessel-of-frustration.json](./398569-a-vessel-of-frustration.json) |
 | A Virus Named Tom | 3040 | [3040-a-virus-named-tom.json](./3040-a-virus-named-tom.json) |
 | A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
 | A Visit to Sesame Street: Numbers | 46558 | [46558-a-visit-to-sesame-street-numbers.json](./46558-a-visit-to-sesame-street-numbers.json) |
@@ -483,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
 | Abraca | 267482 | [267482-abraca.json](./267482-abraca.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
+| Abraham Link Coln on Dessert Island | 398541 | [398541-abraham-link-coln-on-dessert-island.json](./398541-abraham-link-coln-on-dessert-island.json) |
 | Abrakajumpa | 305944 | [305944-abrakajumpa.json](./305944-abrakajumpa.json) |
 | Abrams Tank | 31567 | [31567-abrams-tank.json](./31567-abrams-tank.json) |
 | Abraxas | 293244 | [293244-abraxas.json](./293244-abraxas.json) |
@@ -1163,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
+| AI Slop Simulator | 398536 | [398536-ai-slop-simulator.json](./398536-ai-slop-simulator.json) |
 | AI Solitaire: Handsome Heroes | 304005 | [304005-ai-solitaire-handsome-heroes.json](./304005-ai-solitaire-handsome-heroes.json) |
 | AI Solitaire: Lovely Ladies | 304006 | [304006-ai-solitaire-lovely-ladies.json](./304006-ai-solitaire-lovely-ladies.json) |
 | Ai Suru Tsuma, Mariko no Furin Houkoku: Otto Kounin no Gachi Furin Sex | 159164 | [159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json](./159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json) |
@@ -2761,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Tears | 169444 | [169444-angel-tears.json](./169444-angel-tears.json) |
 | Angel Valley | 297065 | [297065-angel-valley.json](./297065-angel-valley.json) |
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
+| Angel Zero | 398592 | [398592-angel-zero.json](./398592-angel-zero.json) |
 | Angel, Devil, Elf and Me! | 111089 | [111089-angel-devil-elf-and-me.json](./111089-angel-devil-elf-and-me.json) |
 | Angel! | 177914 | [177914-angel.json](./177914-angel.json) |
 | Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
@@ -3169,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous ME | 68670 | [68670-anonymous-me.json](./68670-anonymous-me.json) |
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
 | Anonymous;Code | 11776 | [11776-anonymous-code.json](./11776-anonymous-code.json) |
+| Anosognosia | 398584 | [398584-anosognosia.json](./398584-anosognosia.json) |
 | Another Attack 2: Weissensee | 270686 | [270686-another-attack-2-weissensee.json](./270686-another-attack-2-weissensee.json) |
 | Another Attack: Woudrichem War | 270685 | [270685-another-attack-woudrichem-war.json](./270685-another-attack-woudrichem-war.json) |
 | Another Big Base Attacked | 270694 | [270694-another-big-base-attacked.json](./270694-another-big-base-attacked.json) |
@@ -4215,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
 | Arkhangel: The House of the Seven Stars | 104175 | [104175-arkhangel-the-house-of-the-seven-stars.json](./104175-arkhangel-the-house-of-the-seven-stars.json) |
 | Arkheim: Realms at War | 195110 | [195110-arkheim-realms-at-war.json](./195110-arkheim-realms-at-war.json) |
+| Arknights: Endfield - Update 1.2: At the Wake of Spring | 398565 | [398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json](./398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
@@ -5071,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Daggers Drawn | 338178 | [338178-at-daggers-drawn.json](./338178-at-daggers-drawn.json) |
 | At Dawn's Break | 303271 | [303271-at-dawns-break.json](./303271-at-dawns-break.json) |
 | At Dead of Night | 141235 | [141235-at-dead-of-night.json](./141235-at-dead-of-night.json) |
+| At Eternity's Hatch | 398548 | [398548-at-eternitys-hatch.json](./398548-at-eternitys-hatch.json) |
 | At Home Alone | 111237 | [111237-at-home-alone.json](./111237-at-home-alone.json) |
 | At Home Alone Final | 186721 | [186721-at-home-alone-final.json](./186721-at-home-alone-final.json) |
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
@@ -5365,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aufschwung Ost | 12395 | [12395-aufschwung-ost.json](./12395-aufschwung-ost.json) |
 | Augie Doggie and Doggie Daddy | 67274 | [67274-augie-doggie-and-doggie-daddy.json](./67274-augie-doggie-and-doggie-daddy.json) |
 | Augment Anthem | 365733 | [365733-augment-anthem.json](./365733-augment-anthem.json) |
+| Augmental Puzzles | 398544 | [398544-augmental-puzzles.json](./398544-augmental-puzzles.json) |
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
 | Augurium Mortis | 304685 | [304685-augurium-mortis.json](./304685-augurium-mortis.json) |
