@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
 | What Goes Up | 144786 | [144786-what-goes-up.json](./144786-what-goes-up.json) |
+| What Goes Up | 415305 | [415305-what-goes-up.json](./415305-what-goes-up.json) |
 | What Happened | 133080 | [133080-what-happened.json](./133080-what-happened.json) |
 | What happened to Survey Team 4? | 135028 | [135028-what-happened-to-survey-team-4.json](./135028-what-happened-to-survey-team-4.json) |
 | What Happened: Through Worlds | 314856 | [314856-what-happened-through-worlds.json](./314856-what-happened-through-worlds.json) |
