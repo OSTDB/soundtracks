@@ -2755,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherd's Crossing | 43270 | [43270-shepherds-crossing.json](./43270-shepherds-crossing.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
+| Shephy | 41893 | [41893-shephy.json](./41893-shephy.json) |
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
 | Sheriff Looper | 383344 | [383344-sheriff-looper.json](./383344-sheriff-looper.json) |
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
@@ -4074,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeletal Avenger | 136435 | [136435-skeletal-avenger.json](./136435-skeletal-avenger.json) |
 | Skeletal Skism | 186315 | [186315-skeletal-skism.json](./186315-skeletal-skism.json) |
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
+| Skeleton Boomerang | 44177 | [44177-skeleton-boomerang.json](./44177-skeleton-boomerang.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
 | Skeleton Troubles | 166707 | [166707-skeleton-troubles.json](./166707-skeleton-troubles.json) |
 | Skeleton vs zombies | 127363 | [127363-skeleton-vs-zombies.json](./127363-skeleton-vs-zombies.json) |
@@ -6348,6 +6350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of a Robot | 74054 | [74054-soul-of-a-robot.json](./74054-soul-of-a-robot.json) |
 | Soul of Butterflies | 284888 | [284888-soul-of-butterflies.json](./284888-soul-of-butterflies.json) |
 | Soul of Butterflies: The Lobby | 284889 | [284889-soul-of-butterflies-the-lobby.json](./284889-soul-of-butterflies-the-lobby.json) |
+| Soul of Darkness | 47798 | [47798-soul-of-darkness.json](./47798-soul-of-darkness.json) |
 | Soul of Deva | 38955 | [38955-soul-of-deva.json](./38955-soul-of-deva.json) |
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul of Hometown | 216782 | [216782-soul-of-hometown.json](./216782-soul-of-hometown.json) |
@@ -6738,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space man adventure dash | 99662 | [99662-space-man-adventure-dash.json](./99662-space-man-adventure-dash.json) |
 | Space Mantlet | 365148 | [365148-space-mantlet.json](./365148-space-mantlet.json) |
 | Space Marauder | 49968 | [49968-space-marauder.json](./49968-space-marauder.json) |
+| Space Marshals | 46747 | [46747-space-marshals.json](./46747-space-marshals.json) |
 | Space Marshals 2 | 38944 | [38944-space-marshals-2.json](./38944-space-marshals-2.json) |
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
 | Space Marshals Collection | 327207 | [327207-space-marshals-collection.json](./327207-space-marshals-collection.json) |
@@ -7978,6 +7982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stabjack | 353295 | [353295-stabjack.json](./353295-stabjack.json) |
 | Stable Masters | 206975 | [206975-stable-masters.json](./206975-stable-masters.json) |
 | Stablemasters | 415897 | [415897-stablemasters.json](./415897-stablemasters.json) |
+| Stack | 34669 | [34669-stack.json](./34669-stack.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
 | Stack Machines | 232434 | [232434-stack-machines.json](./232434-stack-machines.json) |
 | Stack Order | 388009 | [388009-stack-order.json](./388009-stack-order.json) |
@@ -8423,6 +8428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: TIE Fighter - Special Edition | 35968 | [35968-star-wars-tie-fighter-special-edition.json](./35968-star-wars-tie-fighter-special-edition.json) |
 | Star Wars: Tiny Death Star | 39245 | [39245-star-wars-tiny-death-star.json](./39245-star-wars-tiny-death-star.json) |
 | Star Wars: Trench Run | 21743 | [21743-star-wars-trench-run.json](./21743-star-wars-trench-run.json) |
+| Star Wars: Trials on Tatooine | 34982 | [34982-star-wars-trials-on-tatooine.json](./34982-star-wars-trials-on-tatooine.json) |
 | Star Wars: X-Wing | 168 | [168-star-wars-x-wing.json](./168-star-wars-x-wing.json) |
 | Star Wars: X-Wing Tour of Duty - B-Wing | 171 | [171-star-wars-x-wing-tour-of-duty-b-wing.json](./171-star-wars-x-wing-tour-of-duty-b-wing.json) |
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
@@ -8545,6 +8551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Explorers | 179204 | [179204-starlight-explorers.json](./179204-starlight-explorers.json) |
 | Starlight Idol: Colorful Top Stage! | 194586 | [194586-starlight-idol-colorful-top-stage.json](./194586-starlight-idol-colorful-top-stage.json) |
 | Starlight Mining Company | 372998 | [372998-starlight-mining-company.json](./372998-starlight-mining-company.json) |
+| Starlight Vega | 35041 | [35041-starlight-vega.json](./35041-starlight-vega.json) |
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
@@ -11370,6 +11377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Basketball 2 | 64097 | [64097-super-street-basketball-2.json](./64097-super-street-basketball-2.json) |
 | Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
 | Super Street Fighter II Turbo Pinball FX | 55062 | [55062-super-street-fighter-ii-turbo-pinball-fx.json](./55062-super-street-fighter-ii-turbo-pinball-fx.json) |
+| Super Street Fighter II Turbo: Revival | 45195 | [45195-super-street-fighter-ii-turbo-revival.json](./45195-super-street-fighter-ii-turbo-revival.json) |
 | Super Street Fighter II: The New Challengers | 198933 | [198933-super-street-fighter-ii-the-new-challengers.json](./198933-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers | 322210 | [322210-super-street-fighter-ii-the-new-challengers.json](./322210-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers - Tiger Barcodzz | 198934 | [198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json](./198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json) |
