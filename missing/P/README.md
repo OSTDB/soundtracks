@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painajainen | 84220 | [84220-painajainen.json](./84220-painajainen.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
+| Painkiller: Hell Wars | 20755 | [20755-painkiller-hell-wars.json](./20755-painkiller-hell-wars.json) |
 | Painkiller: Night Watch Pack | 374737 | [374737-painkiller-night-watch-pack.json](./374737-painkiller-night-watch-pack.json) |
 | Painkiller: Purgatory HD | 77308 | [77308-painkiller-purgatory-hd.json](./77308-painkiller-purgatory-hd.json) |
 | Painkiller: Recurring Evil | 1839 | [1839-painkiller-recurring-evil.json](./1839-painkiller-recurring-evil.json) |
@@ -1833,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantoms of the Asteroid | 40959 | [40959-phantoms-of-the-asteroid.json](./40959-phantoms-of-the-asteroid.json) |
 | Phar Lap: Horse Racing Challenge | 116374 | [116374-phar-lap-horse-racing-challenge.json](./116374-phar-lap-horse-racing-challenge.json) |
 | Pharaoh | 7510 | [7510-pharaoh.json](./7510-pharaoh.json) |
+| Pharaoh Rebirth+ | 20102 | [20102-pharaoh-rebirth.json](./20102-pharaoh-rebirth.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
 | Pharaoh's Tomb | 262092 | [262092-pharaohs-tomb.json](./262092-pharaohs-tomb.json) |
