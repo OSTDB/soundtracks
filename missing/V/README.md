@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vae Victis | 250988 | [250988-vae-victis.json](./250988-vae-victis.json) |
 | Vae Victis: Khan | 267671 | [267671-vae-victis-khan.json](./267671-vae-victis-khan.json) |
 | Vae Victus 2 | 256862 | [256862-vae-victus-2.json](./256862-vae-victus-2.json) |
+| Vaewolf | 415294 | [415294-vaewolf.json](./415294-vaewolf.json) |
 | Vagabond Inn | 284346 | [284346-vagabond-inn.json](./284346-vagabond-inn.json) |
 | Vagabond's Quest | 312379 | [312379-vagabonds-quest.json](./312379-vagabonds-quest.json) |
 | Vagabond's Quest 2 | 312380 | [312380-vagabonds-quest-2.json](./312380-vagabonds-quest-2.json) |
