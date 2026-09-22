@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidland Mystery Goodnight | 215225 | [215225-voidland-mystery-goodnight.json](./215225-voidland-mystery-goodnight.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
+| Voidrel | 408996 | [408996-voidrel.json](./408996-voidrel.json) |
 | Voidrun | 232011 | [232011-voidrun.json](./232011-voidrun.json) |
 | Voids Adrift | 144103 | [144103-voids-adrift.json](./144103-voids-adrift.json) |
 | Voids Vigil | 282024 | [282024-voids-vigil.json](./282024-voids-vigil.json) |
