@@ -1514,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
 | Alchemist's Apprentice 2: Strength of Stones | 341901 | [341901-alchemists-apprentice-2-strength-of-stones.json](./341901-alchemists-apprentice-2-strength-of-stones.json) |
+| Alchemist's Castle | 74449 | [74449-alchemists-castle.json](./74449-alchemists-castle.json) |
 | Alchemist's Mountain | 173292 | [173292-alchemists-mountain.json](./173292-alchemists-mountain.json) |
 | Alchemist's Secret | 297059 | [297059-alchemists-secret.json](./297059-alchemists-secret.json) |
 | Alchemy Classic | 111035 | [111035-alchemy-classic.json](./111035-alchemy-classic.json) |
@@ -5245,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora: Hidden Colors | 126411 | [126411-aurora-hidden-colors.json](./126411-aurora-hidden-colors.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
 | AuroraBound | 263585 | [263585-aurorabound.json](./263585-aurorabound.json) |
+| AuroraBound Deluxe | 74370 | [74370-aurorabound-deluxe.json](./74370-aurorabound-deluxe.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
