@@ -3098,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
+| HoloExpo20XX | 401775 | [401775-holoexpo20xx.json](./401775-holoexpo20xx.json) |
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
 | Hololive Gorogoro Mountain | 348243 | [348243-hololive-gorogoro-mountain.json](./348243-hololive-gorogoro-mountain.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
@@ -3545,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrors Anonymous | 179603 | [179603-horrors-anonymous.json](./179603-horrors-anonymous.json) |
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
 | HorrorVale | 120814 | [120814-horrorvale.json](./120814-horrorvale.json) |
+| Horse & Horse | 401802 | [401802-horse-and-horse.json](./401802-horse-and-horse.json) |
 | Horse Divorce | 178032 | [178032-horse-divorce.json](./178032-horse-divorce.json) |
 | Horse Evolutions | 357853 | [357853-horse-evolutions.json](./357853-horse-evolutions.json) |
 | Horse Farm | 105275 | [105275-horse-farm.json](./105275-horse-farm.json) |
