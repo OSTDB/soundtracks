@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi-Ribi | 28545 | [28545-rabi-ribi.json](./28545-rabi-ribi.json) |
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
+| Rabiez: Epidemic | 33347 | [33347-rabiez-epidemic.json](./33347-rabiez-epidemic.json) |
 | Rabio | 219169 | [219169-rabio.json](./219169-rabio.json) |
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
 | Rabit | 340935 | [340935-rabit.json](./340935-rabit.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Bike | 39568 | [39568-rally-bike.json](./39568-rally-bike.json) |
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
 | Rally Chase | 75514 | [75514-rally-chase.json](./75514-rally-chase.json) |
+| Rally Copters | 33424 | [33424-rally-copters.json](./33424-rally-copters.json) |
 | Rally Cross Challenge | 93365 | [93365-rally-cross-challenge.json](./93365-rally-cross-challenge.json) |
 | Rally de Africa | 138176 | [138176-rally-de-africa.json](./138176-rally-de-africa.json) |
 | Rally Drift Cars | 123558 | [123558-rally-drift-cars.json](./123558-rally-drift-cars.json) |
@@ -3194,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rock Tris | 229064 | [229064-rock-tris.json](./229064-rock-tris.json) |
+| Rock-n-Rogue A Boo Bunny Plague Adventure | 33605 | [33605-rock-n-rogue-a-boo-bunny-plague-adventure.json](./33605-rock-n-rogue-a-boo-bunny-plague-adventure.json) |
 | Rock, Ken, Bo | 28807 | [28807-rock-ken-bo.json](./28807-rock-ken-bo.json) |
 | Rock, Paper, Scissors Simulator | 127238 | [127238-rock-paper-scissors-simulator.json](./127238-rock-paper-scissors-simulator.json) |
 | Rock, Paper, Scissors, Shoot! | 408804 | [408804-rock-paper-scissors-shoot.json](./408804-rock-paper-scissors-shoot.json) |
