@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
 | 4Tacos | 276274 | [276274-4tacos.json](./276274-4tacos.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
+| 4th Generation Warfare | 128944 | [128944-4th-generation-warfare.json](./128944-4th-generation-warfare.json) |
 | 4th Time's the Charm | 362913 | [362913-4th-times-the-charm.json](./362913-4th-times-the-charm.json) |
 | 4WD Wild Rally | 300005 | [300005-4wd-wild-rally.json](./300005-4wd-wild-rally.json) |
 | 4x4 Adventure Rocky Pathways | 320371 | [320371-4x4-adventure-rocky-pathways.json](./320371-4x4-adventure-rocky-pathways.json) |
