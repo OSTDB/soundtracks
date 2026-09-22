@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
 | Pick & Place | 402298 | [402298-pick-and-place.json](./402298-pick-and-place.json) |
 | Pick a Boo | 406116 | [406116-pick-a-boo.json](./406116-pick-a-boo.json) |
+| Pick Ball | 404428 | [404428-pick-ball.json](./404428-pick-ball.json) |
 | Pick Me Pick Me | 321125 | [321125-pick-me-pick-me.json](./321125-pick-me-pick-me.json) |
 | Pick me up! Rescue Rangers | 147822 | [147822-pick-me-up-rescue-rangers.json](./147822-pick-me-up-rescue-rangers.json) |
 | Pick me! Visual Novel | 349293 | [349293-pick-me-visual-novel.json](./349293-pick-me-visual-novel.json) |
@@ -3847,6 +3848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pole Riders | 342166 | [342166-pole-riders.json](./342166-pole-riders.json) |
 | Poled Apart | 415319 | [415319-poled-apart.json](./415319-poled-apart.json) |
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
+| Polemista | 404403 | [404403-polemista.json](./404403-polemista.json) |
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
 | Police & Gang | 385740 | [385740-police-and-gang.json](./385740-police-and-gang.json) |
 | Police 911 | 77016 | [77016-police-911.json](./77016-police-911.json) |
@@ -5536,7 +5538,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
 | Psst... I Have a Secret | 179043 | [179043-psst-i-have-a-secret.json](./179043-psst-i-have-a-secret.json) |
+| PSXFunkin: Lullaby Mod | 404438 | [404438-psxfunkin-lullaby-mod.json](./404438-psxfunkin-lullaby-mod.json) |
+| PSXFunkin: Mind Games | 404437 | [404437-psxfunkin-mind-games.json](./404437-psxfunkin-mind-games.json) |
 | PSXFunkin' | 279587 | [279587-psxfunkin.json](./279587-psxfunkin.json) |
+| PSXGarcello | 404439 | [404439-psxgarcello.json](./404439-psxgarcello.json) |
 | Psy High 2: High Summer | 121702 | [121702-psy-high-2-high-summer.json](./121702-psy-high-2-high-summer.json) |
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
 | Psy-O-Blade | 327404 | [327404-psy-o-blade.json](./327404-psy-o-blade.json) |
@@ -5929,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
 | Puzzle Art: Horses | 191207 | [191207-puzzle-art-horses.json](./191207-puzzle-art-horses.json) |
 | Puzzle Art: Rodents | 191208 | [191208-puzzle-art-rodents.json](./191208-puzzle-art-rodents.json) |
+| Puzzle Atlas | 404402 | [404402-puzzle-atlas.json](./404402-puzzle-atlas.json) |
 | Puzzle Ball Z | 384509 | [384509-puzzle-ball-z.json](./384509-puzzle-ball-z.json) |
 | Puzzle Balls | 268478 | [268478-puzzle-balls.json](./268478-puzzle-balls.json) |
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
