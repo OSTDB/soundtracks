@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Dactylographe | 183533 | [183533-dactylographe.json](./183533-dactylographe.json) |
+| Dad Beat Dads | 34847 | [34847-dad-beat-dads.json](./34847-dad-beat-dads.json) |
 | Dad Broke the Moon! | 181327 | [181327-dad-broke-the-moon.json](./181327-dad-broke-the-moon.json) |
 | Dad by the Sword | 218687 | [218687-dad-by-the-sword.json](./218687-dad-by-the-sword.json) |
 | Dad Discovers The Internet | 297084 | [297084-dad-discovers-the-internet.json](./297084-dad-discovers-the-internet.json) |
@@ -641,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
+| Dark Storm VR Missions | 34649 | [34649-dark-storm-vr-missions.json](./34649-dark-storm-vr-missions.json) |
 | Dark Strokes: Sins of the Fathers | 52839 | [52839-dark-strokes-sins-of-the-fathers.json](./52839-dark-strokes-sins-of-the-fathers.json) |
 | Dark Strokes: Sins of the Fathers - Collector's Edition | 52838 | [52838-dark-strokes-sins-of-the-fathers-collectors-edition.json](./52838-dark-strokes-sins-of-the-fathers-collectors-edition.json) |
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
@@ -1321,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadhikers | 385565 | [385565-deadhikers.json](./385565-deadhikers.json) |
 | Deadhunt | 33709 | [33709-deadhunt.json](./33709-deadhunt.json) |
 | Deadland 4000 | 194427 | [194427-deadland-4000.json](./194427-deadland-4000.json) |
+| Deadlands Noir: That Old Time Religion | 34911 | [34911-deadlands-noir-that-old-time-religion.json](./34911-deadlands-noir-that-old-time-religion.json) |
 | DeadlandVR | 102590 | [102590-deadlandvr.json](./102590-deadlandvr.json) |
 | Deadliest Catch: Alaskan Storm | 6962 | [6962-deadliest-catch-alaskan-storm.json](./6962-deadliest-catch-alaskan-storm.json) |
 | Deadliest Catch: Sea of Chaos | 20448 | [20448-deadliest-catch-sea-of-chaos.json](./20448-deadliest-catch-sea-of-chaos.json) |
@@ -1404,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadstone | 17916 | [17916-deadstone.json](./17916-deadstone.json) |
 | Deadwar: Old Lies | 94730 | [94730-deadwar-old-lies.json](./94730-deadwar-old-lies.json) |
 | Deadwater Saloon | 190136 | [190136-deadwater-saloon.json](./190136-deadwater-saloon.json) |
+| Deadweight | 34839 | [34839-deadweight.json](./34839-deadweight.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Deadwood: The Forgotten Curse | 22738 | [22738-deadwood-the-forgotten-curse.json](./22738-deadwood-the-forgotten-curse.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
