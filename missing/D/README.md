@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Place 3 | 272028 | [272028-dark-place-3.json](./272028-dark-place-3.json) |
 | Dark Place 4 | 272029 | [272029-dark-place-4.json](./272029-dark-place-4.json) |
 | Dark Place 5 | 272030 | [272030-dark-place-5.json](./272030-dark-place-5.json) |
+| Dark Planet: Battle for Natrolis | 23457 | [23457-dark-planet-battle-for-natrolis.json](./23457-dark-planet-battle-for-natrolis.json) |
 | Dark Presence | 67962 | [67962-dark-presence.json](./67962-dark-presence.json) |
 | Dark Prisms | 243972 | [243972-dark-prisms.json](./243972-dark-prisms.json) |
 | Dark Prison 7th | 349379 | [349379-dark-prison-7th.json](./349379-dark-prison-7th.json) |
@@ -748,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
 | DarkSpace | 209027 | [209027-darkspace.json](./209027-darkspace.json) |
+| DarkSpace | 23448 | [23448-darkspace.json](./23448-darkspace.json) |
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
 | Darkspore | 18638 | [18638-darkspore.json](./18638-darkspore.json) |
 | Darkstalkers Chronicle: The Chaos Tower | 20011 | [20011-darkstalkers-chronicle-the-chaos-tower.json](./20011-darkstalkers-chronicle-the-chaos-tower.json) |
@@ -2464,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
 | Destroyer | 175824 | [175824-destroyer.json](./175824-destroyer.json) |
 | Destroyer 7800 | 304197 | [304197-destroyer-7800.json](./304197-destroyer-7800.json) |
+| Destroyer Command | 23456 | [23456-destroyer-command.json](./23456-destroyer-command.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
 | Destruction | 112124 | [112124-destruction.json](./112124-destruction.json) |
 | Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
@@ -5644,6 +5647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunkle Ted's Wet and Wreckless | 226819 | [226819-drunkle-teds-wet-and-wreckless.json](./226819-drunkle-teds-wet-and-wreckless.json) |
 | Drunkonauts | 375201 | [375201-drunkonauts.json](./375201-drunkonauts.json) |
 | Druonio | 177013 | [177013-druonio.json](./177013-druonio.json) |
+| Druuna: Morbus Gravis | 23445 | [23445-druuna-morbus-gravis.json](./23445-druuna-morbus-gravis.json) |
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
 | Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
@@ -5800,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Forever 2013 | 153446 | [153446-duke-nukem-forever-2013.json](./153446-duke-nukem-forever-2013.json) |
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
+| Duke Nukem Mobile | 23557 | [23557-duke-nukem-mobile.json](./23557-duke-nukem-mobile.json) |
 | Duke Nukem Trilogy: Proving Grounds | 69263 | [69263-duke-nukem-trilogy-proving-grounds.json](./69263-duke-nukem-trilogy-proving-grounds.json) |
 | Duke Nukem Xmas 2014 | 291979 | [291979-duke-nukem-xmas-2014.json](./291979-duke-nukem-xmas-2014.json) |
 | Duke Nukem: Land of the Babes | 8504 | [8504-duke-nukem-land-of-the-babes.json](./8504-duke-nukem-land-of-the-babes.json) |
