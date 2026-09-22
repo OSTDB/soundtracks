@@ -2363,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goose.io | 130858 | [130858-goose-io.json](./130858-goose-io.json) |
 | Goosebumps HorrorTown | 100554 | [100554-goosebumps-horrortown.json](./100554-goosebumps-horrortown.json) |
 | Goosebumps: Attack of the Mutant | 19667 | [19667-goosebumps-attack-of-the-mutant.json](./19667-goosebumps-attack-of-the-mutant.json) |
+| Goosebumps: Dead of Night | 134371 | [134371-goosebumps-dead-of-night.json](./134371-goosebumps-dead-of-night.json) |
 | Goosebumps: Escape from Horrorland | 79276 | [79276-goosebumps-escape-from-horrorland.json](./79276-goosebumps-escape-from-horrorland.json) |
 | Goosebumps: HorrorLand | 43301 | [43301-goosebumps-horrorland.json](./43301-goosebumps-horrorland.json) |
 | GooseGogs | 92290 | [92290-goosegogs.json](./92290-goosegogs.json) |
@@ -2391,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorgon Shield | 259018 | [259018-gorgon-shield.json](./259018-gorgon-shield.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
 | Gorgons' Gaze | 216255 | [216255-gorgons-gaze.json](./216255-gorgons-gaze.json) |
+| Gori: Cuddly Carnage | 133341 | [133341-gori-cuddly-carnage.json](./133341-gori-cuddly-carnage.json) |
 | Gori: Cuddly Carnage - Special Edition | 315867 | [315867-gori-cuddly-carnage-special-edition.json](./315867-gori-cuddly-carnage-special-edition.json) |
 | Gori: Cuddly Carnage: Catbox Skin Pack | 357268 | [357268-gori-cuddly-carnage-catbox-skin-pack.json](./357268-gori-cuddly-carnage-catbox-skin-pack.json) |
 | Gori: Cuddly Carnage: PlayTime Skin Pack | 357267 | [357267-gori-cuddly-carnage-playtime-skin-pack.json](./357267-gori-cuddly-carnage-playtime-skin-pack.json) |
