@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
 | Neo 21 | 75491 | [75491-neo-21.json](./75491-neo-21.json) |
 | Neo Angelique | 72681 | [72681-neo-angelique.json](./72681-neo-angelique.json) |
+| Neo Artifacts | 393819 | [393819-neo-artifacts.json](./393819-neo-artifacts.json) |
 | Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
 | Neo Cherry Master | 75492 | [75492-neo-cherry-master.json](./75492-neo-cherry-master.json) |
@@ -935,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Race 2 | 286645 | [286645-neon-race-2.json](./286645-neon-race-2.json) |
 | Neon Racer | 192464 | [192464-neon-racer.json](./192464-neon-racer.json) |
 | Neon Rider | 104618 | [104618-neon-rider.json](./104618-neon-rider.json) |
+| Neon Rider | 393778 | [393778-neon-rider.json](./393778-neon-rider.json) |
 | Neon River | 277814 | [277814-neon-river.json](./277814-neon-river.json) |
 | Neon Rumble | 292829 | [292829-neon-rumble.json](./292829-neon-rumble.json) |
 | Neon Runner - Gravity Dash | 55166 | [55166-neon-runner-gravity-dash.json](./55166-neon-runner-gravity-dash.json) |
@@ -1206,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Star Soccer 3 | 7680 | [7680-new-star-soccer-3.json](./7680-new-star-soccer-3.json) |
 | New Star Soccer 4 | 7679 | [7679-new-star-soccer-4.json](./7679-new-star-soccer-4.json) |
 | New Star Soccer Manager | 109583 | [109583-new-star-soccer-manager.json](./109583-new-star-soccer-manager.json) |
+| New Stars | 393822 | [393822-new-stars.json](./393822-new-stars.json) |
 | New Story of Seasons | 117535 | [117535-new-story-of-seasons.json](./117535-new-story-of-seasons.json) |
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
 | New Super Luigi U Remastered Edition | 322777 | [322777-new-super-luigi-u-remastered-edition.json](./322777-new-super-luigi-u-remastered-edition.json) |
