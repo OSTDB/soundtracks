@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parquet | 166063 | [166063-parquet.json](./166063-parquet.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
 | Parry King | 263044 | [263044-parry-king.json](./263044-parry-king.json) |
+| Parry Nightmare | 214214 | [214214-parry-nightmare.json](./214214-parry-nightmare.json) |
 | Parse Ally | 114442 | [114442-parse-ally.json](./114442-parse-ally.json) |
 | Parse-O-Rhythm | 305940 | [305940-parse-o-rhythm.json](./305940-parse-o-rhythm.json) |
 | Parsec | 18563 | [18563-parsec.json](./18563-parsec.json) |
@@ -1281,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak’s Edge | 365118 | [365118-peak-s-edge.json](./365118-peak-s-edge.json) |
 | Peaks of Yore | 238690 | [238690-peaks-of-yore.json](./238690-peaks-of-yore.json) |
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
+| Peaky Blinders: The King's Ransom | 211902 | [211902-peaky-blinders-the-kings-ransom.json](./211902-peaky-blinders-the-kings-ransom.json) |
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
 | Peanut Butter Panic | 73277 | [73277-peanut-butter-panic.json](./73277-peanut-butter-panic.json) |
 | Peanuts: It's the Big Game, Charlie Brown! | 71226 | [71226-peanuts-its-the-big-game-charlie-brown.json](./71226-peanuts-its-the-big-game-charlie-brown.json) |
@@ -5801,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
 | Puzzle Blocks | 83937 | [83937-puzzle-blocks.json](./83937-puzzle-blocks.json) |
+| Puzzle Bobble Everybubble! | 215033 | [215033-puzzle-bobble-everybubble.json](./215033-puzzle-bobble-everybubble.json) |
 | Puzzle Bobble VS | 47567 | [47567-puzzle-bobble-vs.json](./47567-puzzle-bobble-vs.json) |
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
 | Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
