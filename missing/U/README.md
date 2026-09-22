@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unholy Adventure: Mystery | 381711 | [381711-unholy-adventure-mystery.json](./381711-unholy-adventure-mystery.json) |
 | Unholy Arts | 135882 | [135882-unholy-arts.json](./135882-unholy-arts.json) |
 | Unholy Eyeballs | 177945 | [177945-unholy-eyeballs.json](./177945-unholy-eyeballs.json) |
+| Unholy Heights | 16648 | [16648-unholy-heights.json](./16648-unholy-heights.json) |
 | Unholy Legacy | 306361 | [306361-unholy-legacy.json](./306361-unholy-legacy.json) |
 | Unholy Night: The Darkness Hunter | 26502 | [26502-unholy-night-the-darkness-hunter.json](./26502-unholy-night-the-darkness-hunter.json) |
 | Unholy Realms | 140993 | [140993-unholy-realms.json](./140993-unholy-realms.json) |
