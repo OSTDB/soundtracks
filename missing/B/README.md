@@ -1493,6 +1493,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleBeasts | 99615 | [99615-battlebeasts.json](./99615-battlebeasts.json) |
 | BattleBlock Theater | 2605 | [2605-battleblock-theater.json](./2605-battleblock-theater.json) |
 | Battleborn: Attikus and the Thrall Rebellion | 25040 | [25040-battleborn-attikus-and-the-thrall-rebellion.json](./25040-battleborn-attikus-and-the-thrall-rebellion.json) |
+| Battleborn: Montana and the Demon Bear | 403140 | [403140-battleborn-montana-and-the-demon-bear.json](./403140-battleborn-montana-and-the-demon-bear.json) |
+| Battleborn: Oscar Mike vs. The Battle School | 403138 | [403138-battleborn-oscar-mike-vs-the-battle-school.json](./403138-battleborn-oscar-mike-vs-the-battle-school.json) |
+| Battleborn: Phoebe and the Heart of Ekkunar | 403141 | [403141-battleborn-phoebe-and-the-heart-of-ekkunar.json](./403141-battleborn-phoebe-and-the-heart-of-ekkunar.json) |
+| Battleborn: Toby's Friendship Raid | 403135 | [403135-battleborn-tobys-friendship-raid.json](./403135-battleborn-tobys-friendship-raid.json) |
 | Battlebots | 200686 | [200686-battlebots.json](./200686-battlebots.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
 | Battlecaster | 188670 | [188670-battlecaster.json](./188670-battlecaster.json) |
