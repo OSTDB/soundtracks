@@ -3102,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Super Hero 3D: Flying Legend Warriors Deluxe Simulator | 212276 | [212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json](./212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
+| City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
 | City Transport Simulator: Ultimate Public Bus 2020 | 197327 | [197327-city-transport-simulator-ultimate-public-bus-2020.json](./197327-city-transport-simulator-ultimate-public-bus-2020.json) |
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
@@ -6263,6 +6264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Crisis | 156094 | [156094-cube-crisis.json](./156094-cube-crisis.json) |
 | Cube Crusaders | 265676 | [265676-cube-crusaders.json](./265676-cube-crusaders.json) |
 | Cube Crush | 96570 | [96570-cube-crush.json](./96570-cube-crush.json) |
+| Cube Cube - Mobile eSports | 86955 | [86955-cube-cube-mobile-esports.json](./86955-cube-cube-mobile-esports.json) |
 | Cube Cube 2 | 365146 | [365146-cube-cube-2.json](./365146-cube-cube-2.json) |
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
 | Cube Decider | 203966 | [203966-cube-decider.json](./203966-cube-decider.json) |
