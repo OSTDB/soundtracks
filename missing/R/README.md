@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Mod | 209539 | [209539-reality-mod.json](./209539-reality-mod.json) |
 | Reality Raiders | 44216 | [44216-reality-raiders.json](./44216-reality-raiders.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
+| Reality Stability Office | 401086 | [401086-reality-stability-office.json](./401086-reality-stability-office.json) |
 | Reality's Reverse Side | 156523 | [156523-realitys-reverse-side.json](./156523-realitys-reverse-side.json) |
 | RealityMinds | 165651 | [165651-realityminds.json](./165651-realityminds.json) |
 | Realize | 131410 | [131410-realize.json](./131410-realize.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Ribbits | 384081 | [384081-ribbits.json](./384081-ribbits.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
+| Rica Mode | 401121 | [401121-rica-mode.json](./401121-rica-mode.json) |
 | Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
 | Ricerca VR | 32884 | [32884-ricerca-vr.json](./32884-ricerca-vr.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
