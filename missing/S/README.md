@@ -5115,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
 | Snake Deluxe | 154407 | [154407-snake-deluxe.json](./154407-snake-deluxe.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
+| Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
 | Snake Flow | 37061 | [37061-snake-flow.json](./37061-snake-flow.json) |
 | Snake Force | 182382 | [182382-snake-force.json](./182382-snake-force.json) |
 | Snake Game | 95375 | [95375-snake-game.json](./95375-snake-game.json) |
@@ -5939,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure: SRB2 | 330336 | [330336-sonic-adventure-srb2.json](./330336-sonic-adventure-srb2.json) |
 | Sonic and Mario | 330722 | [330722-sonic-and-mario.json](./330722-sonic-and-mario.json) |
 | Sonic and Meister | 331442 | [331442-sonic-and-meister.json](./331442-sonic-and-meister.json) |
+| Sonic and the Bayan Isles | 417657 | [417657-sonic-and-the-bayan-isles.json](./417657-sonic-and-the-bayan-isles.json) |
 | Sonic and the Black Knight HD | 336365 | [336365-sonic-and-the-black-knight-hd.json](./336365-sonic-and-the-black-knight-hd.json) |
 | Sonic and the Dragon's Path | 334684 | [334684-sonic-and-the-dragons-path.json](./334684-sonic-and-the-dragons-path.json) |
 | Sonic and the World Rings | 331982 | [331982-sonic-and-the-world-rings.json](./331982-sonic-and-the-world-rings.json) |
@@ -5978,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Charge | 331436 | [331436-sonic-charge.json](./331436-sonic-charge.json) |
 | Sonic Classic | 175974 | [175974-sonic-classic.json](./175974-sonic-classic.json) |
 | Sonic Classic 2 | 175975 | [175975-sonic-classic-2.json](./175975-sonic-classic-2.json) |
+| Sonic Clockwork | 417679 | [417679-sonic-clockwork.json](./417679-sonic-clockwork.json) |
 | Sonic Coconut Hunter | 330532 | [330532-sonic-coconut-hunter.json](./330532-sonic-coconut-hunter.json) |
 | Sonic Color Contrast | 129145 | [129145-sonic-color-contrast.json](./129145-sonic-color-contrast.json) |
 | Sonic Color Cursed | 337168 | [337168-sonic-color-cursed.json](./337168-sonic-color-cursed.json) |
@@ -6049,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Incursion | 326998 | [326998-sonic-incursion.json](./326998-sonic-incursion.json) |
 | Sonic Inflation 2: Battle | 140539 | [140539-sonic-inflation-2-battle.json](./140539-sonic-inflation-2-battle.json) |
 | Sonic Inflation Adventure | 140538 | [140538-sonic-inflation-adventure.json](./140538-sonic-inflation-adventure.json) |
+| Sonic into the Black Sea | 417671 | [417671-sonic-into-the-black-sea.json](./417671-sonic-into-the-black-sea.json) |
 | Sonic Jam | 133930 | [133930-sonic-jam.json](./133930-sonic-jam.json) |
 | Sonic Jam | 72129 | [72129-sonic-jam.json](./72129-sonic-jam.json) |
 | Sonic Journey | 317609 | [317609-sonic-journey.json](./317609-sonic-journey.json) |
@@ -6162,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Speed | 336356 | [336356-sonic-speed.json](./336356-sonic-speed.json) |
 | Sonic Speed Blast | 330708 | [330708-sonic-speed-blast.json](./330708-sonic-speed-blast.json) |
 | Sonic Speed DX | 261281 | [261281-sonic-speed-dx.json](./261281-sonic-speed-dx.json) |
+| Sonic SpeedStars | 417667 | [417667-sonic-speedstars.json](./417667-sonic-speedstars.json) |
 | Sonic Spinball: Life Savers | 274722 | [274722-sonic-spinball-life-savers.json](./274722-sonic-spinball-life-savers.json) |
 | Sonic Stars | 331865 | [331865-sonic-stars.json](./331865-sonic-stars.json) |
 | Sonic Streak 2 | 330867 | [330867-sonic-streak-2.json](./330867-sonic-streak-2.json) |
@@ -8641,6 +8646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
 | Starch | 91942 | [91942-starch.json](./91942-starch.json) |
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
+| Starcraft | 417642 | [417642-starcraft.json](./417642-starcraft.json) |
 | StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
 | StarCraft: Evolution Complete | 305329 | [305329-starcraft-evolution-complete.json](./305329-starcraft-evolution-complete.json) |
 | Starcraft: Ghost | 11355 | [11355-starcraft-ghost.json](./11355-starcraft-ghost.json) |
@@ -11878,6 +11884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surge Deluxe | 20062 | [20062-surge-deluxe.json](./20062-surge-deluxe.json) |
 | Surge Generations | 334687 | [334687-surge-generations.json](./334687-surge-generations.json) |
 | Surge Radio | 124172 | [124172-surge-radio.json](./124172-surge-radio.json) |
+| Surge Unlimited | 417669 | [417669-surge-unlimited.json](./417669-surge-unlimited.json) |
 | Surgeon Simulator 2 | 127355 | [127355-surgeon-simulator-2.json](./127355-surgeon-simulator-2.json) |
 | Surgeon Simulator 2 Launch Bundle | 166689 | [166689-surgeon-simulator-2-launch-bundle.json](./166689-surgeon-simulator-2-launch-bundle.json) |
 | Surgeon Simulator 2: Deluxe Edition | 227355 | [227355-surgeon-simulator-2-deluxe-edition.json](./227355-surgeon-simulator-2-deluxe-edition.json) |
