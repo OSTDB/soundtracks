@@ -175,6 +175,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit Adventures | 320995 | [320995-wallace-and-gromit-adventures.json](./320995-wallace-and-gromit-adventures.json) |
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
 | Wallace & Gromit's Grand Adventures: Episode 1 - Fright of the Bumblebees | 115575 | [115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json](./115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json) |
+| Wallace & Gromit's Grand Adventures: Episode 3 - Muzzled! | 69168 | [69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json](./69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json) |
+| Wallace & Gromit's Grand Adventures: Episode 4 - The Bogey Man | 69160 | [69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json](./69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json) |
 | Wallachia: Reign of Dracula | 100524 | [100524-wallachia-reign-of-dracula.json](./100524-wallachia-reign-of-dracula.json) |
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
 | Walled Haven | 382195 | [382195-walled-haven.json](./382195-walled-haven.json) |
@@ -1744,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Will | 333636 | [333636-will.json](./333636-will.json) |
 | Will Die Alone | 177398 | [177398-will-die-alone.json](./177398-will-die-alone.json) |
+| Will Glow the Wisp | 36978 | [36978-will-glow-the-wisp.json](./36978-will-glow-the-wisp.json) |
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
 | Will it Crush? | 90034 | [90034-will-it-crush.json](./90034-will-it-crush.json) |
