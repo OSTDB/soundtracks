@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petite Adventure | 215698 | [215698-petite-adventure.json](./215698-petite-adventure.json) |
 | Petite Wife Devotes Herself to You | 98438 | [98438-petite-wife-devotes-herself-to-you.json](./98438-petite-wife-devotes-herself-to-you.json) |
 | Petite Zombies | 110981 | [110981-petite-zombies.json](./110981-petite-zombies.json) |
+| Petka 4: Den' Nezavisimosti | 52758 | [52758-petka-4-den-nezavisimosti.json](./52758-petka-4-den-nezavisimosti.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
 | Petrichor | 60540 | [60540-petrichor.json](./60540-petrichor.json) |
 | Petrifaction | 97825 | [97825-petrifaction.json](./97825-petrifaction.json) |
@@ -5541,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Bomb | 31852 | [31852-punch-bomb.json](./31852-punch-bomb.json) |
 | Punch Boy | 83212 | [83212-punch-boy.json](./83212-punch-boy.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
+| Punch Club 2: Fast Forward | 55916 | [55916-punch-club-2-fast-forward.json](./55916-punch-club-2-fast-forward.json) |
 | Punch Club: Deluxe Edition | 51882 | [51882-punch-club-deluxe-edition.json](./51882-punch-club-deluxe-edition.json) |
 | Punch Club: Fights | 174764 | [174764-punch-club-fights.json](./174764-punch-club-fights.json) |
 | Punch Club: The Dark Fist | 18097 | [18097-punch-club-the-dark-fist.json](./18097-punch-club-the-dark-fist.json) |
