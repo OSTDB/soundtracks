@@ -3723,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rolling Thunder 2 | 251000 | [251000-arcade-archives-rolling-thunder-2.json](./251000-arcade-archives-rolling-thunder-2.json) |
 | Arcade Archives: Rygar | 109499 | [109499-arcade-archives-rygar.json](./109499-arcade-archives-rygar.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
+| Arcade Archives: Satan of Saturn | 416064 | [416064-arcade-archives-satan-of-saturn.json](./416064-arcade-archives-satan-of-saturn.json) |
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
 | Arcade Archives: Sky Kid DX | 240220 | [240220-arcade-archives-sky-kid-dx.json](./240220-arcade-archives-sky-kid-dx.json) |
@@ -4038,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena 2000 | 14265 | [14265-arena-2000.json](./14265-arena-2000.json) |
 | Arena an Age of Barbarians story | 30077 | [30077-arena-an-age-of-barbarians-story.json](./30077-arena-an-age-of-barbarians-story.json) |
 | Arena Battle | 230960 | [230960-arena-battle.json](./230960-arena-battle.json) |
+| Arena Blues: Requiem for 35 | 416113 | [416113-arena-blues-requiem-for-35.json](./416113-arena-blues-requiem-for-35.json) |
 | Arena Breakout | 174684 | [174684-arena-breakout.json](./174684-arena-breakout.json) |
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
 | Arena Breakout: Season 1 | 318412 | [318412-arena-breakout-season-1.json](./318412-arena-breakout-season-1.json) |
@@ -5659,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
+| Axis Football 2027 | 416119 | [416119-axis-football-2027.json](./416119-axis-football-2027.json) |
 | Axis Forward | 100930 | [100930-axis-forward.json](./100930-axis-forward.json) |
 | Axis Mundi | 26942 | [26942-axis-mundi.json](./26942-axis-mundi.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
