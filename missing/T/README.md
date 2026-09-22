@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
 | Teenage Mutant Ninja Turtles: Battle of the City | 146105 | [146105-teenage-mutant-ninja-turtles-battle-of-the-city.json](./146105-teenage-mutant-ninja-turtles-battle-of-the-city.json) |
 | Teenage Mutant Ninja Turtles: Brothers Unite | 61238 | [61238-teenage-mutant-ninja-turtles-brothers-unite.json](./61238-teenage-mutant-ninja-turtles-brothers-unite.json) |
+| Teenage Mutant Ninja Turtles: Danger of the Ooze | 19092 | [19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json](./19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json) |
 | Teenage Mutant Ninja Turtles: Dimension X Assault | 198938 | [198938-teenage-mutant-ninja-turtles-dimension-x-assault.json](./198938-teenage-mutant-ninja-turtles-dimension-x-assault.json) |
 | Teenage Mutant Ninja Turtles: Empire City | 345542 | [345542-teenage-mutant-ninja-turtles-empire-city.json](./345542-teenage-mutant-ninja-turtles-empire-city.json) |
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | 48928 | [48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json](./48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json) |
@@ -6483,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
 | The Vanished Soul | 318063 | [318063-the-vanished-soul.json](./318063-the-vanished-soul.json) |
 | The Vanishing of Ethan Carter Redux | 102123 | [102123-the-vanishing-of-ethan-carter-redux.json](./102123-the-vanishing-of-ethan-carter-redux.json) |
+| The Vanishing of Ethan Carter VR | 19065 | [19065-the-vanishing-of-ethan-carter-vr.json](./19065-the-vanishing-of-ethan-carter-vr.json) |
 | THE Variety Game Daishugo: Kingyo Sukui, Card, Suji Puzzle, Nikakudori | 136833 | [136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json](./136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
@@ -6825,6 +6827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrics | 260678 | [260678-theatrics.json](./260678-theatrics.json) |
 | Thebes | 312201 | [312201-thebes.json](./312201-thebes.json) |
 | TheBestiary | 196894 | [196894-thebestiary.json](./196894-thebestiary.json) |
+| theBlu | 19067 | [19067-theblu.json](./19067-theblu.json) |
 | TheBoll | 345033 | [345033-theboll.json](./345033-theboll.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
 | TheC64 Mini: Black Edition | 360591 | [360591-thec64-mini-black-edition.json](./360591-thec64-mini-black-edition.json) |
@@ -7240,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Striker | 187478 | [187478-thunder-striker.json](./187478-thunder-striker.json) |
 | Thunder Tiger | 334128 | [334128-thunder-tiger.json](./334128-thunder-tiger.json) |
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
+| Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 83247 | [83247-thunderbirds.json](./83247-thunderbirds.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | Thunderbolt | 88236 | [88236-thunderbolt.json](./88236-thunderbolt.json) |
@@ -7926,6 +7930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Towers | 79912 | [79912-tiki-towers.json](./79912-tiki-towers.json) |
 | Tiki: The Masked Journey | 163850 | [163850-tiki-the-masked-journey.json](./163850-tiki-the-masked-journey.json) |
 | Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
+| Til Morning's Light | 18996 | [18996-til-mornings-light.json](./18996-til-mornings-light.json) |
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
 | Tile & Error | 103896 | [103896-tile-and-error.json](./103896-tile-and-error.json) |
 | Tile Cities 2 | 325630 | [325630-tile-cities-2.json](./325630-tile-cities-2.json) |
@@ -8741,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Angel of Darkness | 1159 | [1159-tomb-raider-the-angel-of-darkness.json](./1159-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness | 319751 | [319751-tomb-raider-the-angel-of-darkness.json](./319751-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
+| Tomb Raider: The Prophecy | 18809 | [18809-tomb-raider-the-prophecy.json](./18809-tomb-raider-the-prophecy.json) |
 | Tomb Raider: Underworld | 146720 | [146720-tomb-raider-underworld.json](./146720-tomb-raider-underworld.json) |
 | Tomb Raider: Underworld | 371964 | [371964-tomb-raider-underworld.json](./371964-tomb-raider-underworld.json) |
 | Tomb Raider: Underworld | 371966 | [371966-tomb-raider-underworld.json](./371966-tomb-raider-underworld.json) |
@@ -11447,6 +11453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type: Jump | 242076 | [242076-type-jump.json](./242076-type-jump.json) |
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
+| Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
 | TypeSpell Journey | 294290 | [294290-typespell-journey.json](./294290-typespell-journey.json) |
 | Typewriter Simulator | 177529 | [177529-typewriter-simulator.json](./177529-typewriter-simulator.json) |
