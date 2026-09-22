@@ -1755,6 +1755,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PewPew 2 | 140606 | [140606-pewpew-2.json](./140606-pewpew-2.json) |
 | Pewt 'em Up! | 203561 | [203561-pewt-em-up.json](./203561-pewt-em-up.json) |
 | Pferd & Pony - Mein Pferdehof | 125959 | [125959-pferd-and-pony-mein-pferdehof.json](./125959-pferd-and-pony-mein-pferdehof.json) |
+| PGA Championship Golf 1999 Edition | 830 | [830-pga-championship-golf-1999-edition.json](./830-pga-championship-golf-1999-edition.json) |
+| PGA Championship Golf 2000 | 831 | [831-pga-championship-golf-2000.json](./831-pga-championship-golf-2000.json) |
 | PGA Championship Golf 2000: Titanium Edition | 70960 | [70960-pga-championship-golf-2000-titanium-edition.json](./70960-pga-championship-golf-2000-titanium-edition.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
 | PGA Tour 2K25 | 328079 | [328079-pga-tour-2k25.json](./328079-pga-tour-2k25.json) |
@@ -3038,8 +3040,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zeta | 166783 | [166783-planet-zeta.json](./166783-planet-zeta.json) |
 | Planet Zoldath | 318409 | [318409-planet-zoldath.json](./318409-planet-zoldath.json) |
 | Planet Zoo 2 | 402959 | [402959-planet-zoo-2.json](./402959-planet-zoo-2.json) |
+| Planet Zoo: Aquatic Pack | 226995 | [226995-planet-zoo-aquatic-pack.json](./226995-planet-zoo-aquatic-pack.json) |
 | Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
+| Planet Zoo: Tropical Pack | 243535 | [243535-planet-zoo-tropical-pack.json](./243535-planet-zoo-tropical-pack.json) |
 | Planet Zoo: Zookeepers Animal Pack | 336614 | [336614-planet-zoo-zookeepers-animal-pack.json](./336614-planet-zoo-zookeepers-animal-pack.json) |
 | Planet's Core | 112302 | [112302-planets-core.json](./112302-planets-core.json) |
 | Planeta | 158054 | [158054-planeta.json](./158054-planeta.json) |
@@ -3418,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocketman Teal | 181232 | [181232-pocketman-teal.json](./181232-pocketman-teal.json) |
 | PocketSports Football HD | 64684 | [64684-pocketsports-football-hd.json](./64684-pocketsports-football-hd.json) |
 | PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
+| Pocky & Rocky with Becky | 1537 | [1537-pocky-and-rocky-with-becky.json](./1537-pocky-and-rocky-with-becky.json) |
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
 | Pocoman: Green Machine Level Pack | 262944 | [262944-pocoman-green-machine-level-pack.json](./262944-pocoman-green-machine-level-pack.json) |
