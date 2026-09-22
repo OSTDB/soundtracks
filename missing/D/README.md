@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
+| Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
 | Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
@@ -1968,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delirium: Echoes of the Domino | 360654 | [360654-delirium-echoes-of-the-domino.json](./360654-delirium-echoes-of-the-domino.json) |
 | DeliSpace | 291441 | [291441-delispace.json](./291441-delispace.json) |
 | Deliver This! | 365152 | [365152-deliver-this.json](./365152-deliver-this.json) |
+| Deliver Together | 406324 | [406324-deliver-together.json](./406324-deliver-together.json) |
 | Deliver Us From Evil: Cadenza | 192284 | [192284-deliver-us-from-evil-cadenza.json](./192284-deliver-us-from-evil-cadenza.json) |
 | Deliver Us Home | 303467 | [303467-deliver-us-home.json](./303467-deliver-us-home.json) |
 | Deliver Us Mars: Deluxe Edition | 204468 | [204468-deliver-us-mars-deluxe-edition.json](./204468-deliver-us-mars-deluxe-edition.json) |
@@ -6387,6 +6389,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
 | Dying Light: Platinum Edition | 152030 | [152030-dying-light-platinum-edition.json](./152030-dying-light-platinum-edition.json) |
 | Dying Light: Shu Warrior Bundle | 224127 | [224127-dying-light-shu-warrior-bundle.json](./224127-dying-light-shu-warrior-bundle.json) |
+| Dying Light: The Beast - Action Hero Essentials | 406279 | [406279-dying-light-the-beast-action-hero-essentials.json](./406279-dying-light-the-beast-action-hero-essentials.json) |
+| Dying Light: The Beast - Castor Woods Prepper Bundle | 406277 | [406277-dying-light-the-beast-castor-woods-prepper-bundle.json](./406277-dying-light-the-beast-castor-woods-prepper-bundle.json) |
+| Dying Light: The Beast - Discharge Weapon Pack | 406280 | [406280-dying-light-the-beast-discharge-weapon-pack.json](./406280-dying-light-the-beast-discharge-weapon-pack.json) |
+| Dying Light: The Beast - Fire Lotus Weapon Pack | 406281 | [406281-dying-light-the-beast-fire-lotus-weapon-pack.json](./406281-dying-light-the-beast-fire-lotus-weapon-pack.json) |
+| Dying Light: The Beast - Hero of Harran Bundle | 406276 | [406276-dying-light-the-beast-hero-of-harran-bundle.json](./406276-dying-light-the-beast-hero-of-harran-bundle.json) |
+| Dying Light: The Beast - Hunter Essentials | 406278 | [406278-dying-light-the-beast-hunter-essentials.json](./406278-dying-light-the-beast-hunter-essentials.json) |
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
