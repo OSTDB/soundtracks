@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
+| 13 Masca | 405725 | [405725-13-masca.json](./405725-13-masca.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 13 Seconds | 283868 | [283868-13-seconds.json](./283868-13-seconds.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
