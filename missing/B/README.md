@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
 | Bare Butt Boxing | 197269 | [197269-bare-butt-boxing.json](./197269-bare-butt-boxing.json) |
+| Bare Knuckle III | 151541 | [151541-bare-knuckle-iii.json](./151541-bare-knuckle-iii.json) |
 | Barely Afloat | 123579 | [123579-barely-afloat.json](./123579-barely-afloat.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
@@ -1567,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTanx: Global Assault | 47685 | [47685-battletanx-global-assault.json](./47685-battletanx-global-assault.json) |
 | BattleTech: Flashpoint | 107258 | [107258-battletech-flashpoint.json](./107258-battletech-flashpoint.json) |
 | BattleTech: Heavy Metal | 155087 | [155087-battletech-heavy-metal.json](./155087-battletech-heavy-metal.json) |
+| Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
@@ -5205,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broccoli Quest | 176873 | [176873-broccoli-quest.json](./176873-broccoli-quest.json) |
 | Broccoli Quest II: The Dark Sacrament | 176874 | [176874-broccoli-quest-ii-the-dark-sacrament.json](./176874-broccoli-quest-ii-the-dark-sacrament.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
+| Broforce: Forever | 260721 | [260721-broforce-forever.json](./260721-broforce-forever.json) |
 | Brok: Natal Tail, A New Christmas | 325648 | [325648-brok-natal-tail-a-new-christmas.json](./325648-brok-natal-tail-a-new-christmas.json) |
 | Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
@@ -5255,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronkie the Bronchiasaurus | 42624 | [42624-bronkie-the-bronchiasaurus.json](./42624-bronkie-the-bronchiasaurus.json) |
 | Bronze Dragon: Conquest of Infinity | 122987 | [122987-bronze-dragon-conquest-of-infinity.json](./122987-bronze-dragon-conquest-of-infinity.json) |
 | Bronze Hoof | 127083 | [127083-bronze-hoof.json](./127083-bronze-hoof.json) |
+| Bronzebeard's Tavern | 258955 | [258955-bronzebeards-tavern.json](./258955-bronzebeards-tavern.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
