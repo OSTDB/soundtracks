@@ -1607,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Pretty Boys Mahjong Solitaire | 199569 | [199569-otoko-cross-pretty-boys-mahjong-solitaire.json](./199569-otoko-cross-pretty-boys-mahjong-solitaire.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
+| Otome Daoshi Fighting For Love | 391856 | [391856-otome-daoshi-fighting-for-love.json](./391856-otome-daoshi-fighting-for-love.json) |
 | Otome ga Musubu Tsukiyo no Kirameki | 194593 | [194593-otome-ga-musubu-tsukiyo-no-kirameki.json](./194593-otome-ga-musubu-tsukiyo-no-kirameki.json) |
 | Otome Games: Is It Love? Ryan | 105778 | [105778-otome-games-is-it-love-ryan.json](./105778-otome-games-is-it-love-ryan.json) |
 | Otome Kishi: Ima Sugu Watashi wo Dakishimete | 415321 | [415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json](./415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json) |
@@ -1906,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside the Blocks | 245868 | [245868-outside-the-blocks.json](./245868-outside-the-blocks.json) |
 | Outsider | 201773 | [201773-outsider.json](./201773-outsider.json) |
 | OutSider | 297462 | [297462-outsider.json](./297462-outsider.json) |
+| Outsiders | 391871 | [391871-outsiders.json](./391871-outsiders.json) |
 | Outsp4ce | 172176 | [172176-outsp4ce.json](./172176-outsp4ce.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
