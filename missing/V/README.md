@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verho: Curse of Faces | 410369 | [410369-verho-curse-of-faces.json](./410369-verho-curse-of-faces.json) |
 | Veridus: The Walking Nightmare | 416672 | [416672-veridus-the-walking-nightmare.json](./416672-veridus-the-walking-nightmare.json) |
 | Verisim Skies | 244899 | [244899-verisim-skies.json](./244899-verisim-skies.json) |
+| Veritas | 111443 | [111443-veritas.json](./111443-veritas.json) |
 | Veriventure | 400851 | [400851-veriventure.json](./400851-veriventure.json) |
 | Verliebt in Berlin | 92839 | [92839-verliebt-in-berlin.json](./92839-verliebt-in-berlin.json) |
 | Verlies | 94195 | [94195-verlies.json](./94195-verlies.json) |
@@ -770,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings: War of Clans | 44118 | [44118-vikings-war-of-clans.json](./44118-vikings-war-of-clans.json) |
 | VikingStory | 149418 | [149418-vikingstory.json](./149418-vikingstory.json) |
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
+| Vile | 111386 | [111386-vile.json](./111386-vile.json) |
 | Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
 | Village | 266295 | [266295-village.json](./266295-village.json) |
 | Village businessman | 159820 | [159820-village-businessman.json](./159820-village-businessman.json) |
@@ -1349,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Rescue of Girls | 160253 | [160253-vr-rescue-of-girls.json](./160253-vr-rescue-of-girls.json) |
 | VR Retro Snake on Girls | 163292 | [163292-vr-retro-snake-on-girls.json](./163292-vr-retro-snake-on-girls.json) |
 | VR Roller Coaster at Global Wonders | 166195 | [166195-vr-roller-coaster-at-global-wonders.json](./166195-vr-roller-coaster-at-global-wonders.json) |
+| VR Rome | 111385 | [111385-vr-rome.json](./111385-vr-rome.json) |
 | VR Run | 224546 | [224546-vr-run.json](./224546-vr-run.json) |
 | VR Sailing | 338561 | [338561-vr-sailing.json](./338561-vr-sailing.json) |
 | VR Secretary: Ailey Edition | 338560 | [338560-vr-secretary-ailey-edition.json](./338560-vr-secretary-ailey-edition.json) |
