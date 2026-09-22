@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elestrals Clash! | 356622 | [356622-elestrals-clash.json](./356622-elestrals-clash.json) |
 | Eletar Hero | 188673 | [188673-eletar-hero.json](./188673-eletar-hero.json) |
 | Elette Fragments | 126657 | [126657-elette-fragments.json](./126657-elette-fragments.json) |
+| Eleusis | 16666 | [16666-eleusis.json](./16666-eleusis.json) |
 | Elevator Action | 276516 | [276516-elevator-action.json](./276516-elevator-action.json) |
 | Elevator Action | 51241 | [51241-elevator-action.json](./51241-elevator-action.json) |
 | Elevator Action 3D | 286679 | [286679-elevator-action-3d.json](./286679-elevator-action-3d.json) |
