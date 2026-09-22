@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad But Ded | 185527 | [185527-sad-but-ded.json](./185527-sad-but-ded.json) |
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
 | Sad RPG | 124135 | [124135-sad-rpg.json](./124135-sad-rpg.json) |
+| Sad Virus Asia | 403181 | [403181-sad-virus-asia.json](./403181-sad-virus-asia.json) |
 | Sad Virus Darkland | 412510 | [412510-sad-virus-darkland.json](./412510-sad-virus-darkland.json) |
 | Sad Virus Foodland | 367389 | [367389-sad-virus-foodland.json](./367389-sad-virus-foodland.json) |
 | Sad Virus Land | 366318 | [366318-sad-virus-land.json](./366318-sad-virus-land.json) |
@@ -5623,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobear: Spring | 219592 | [219592-sokobear-spring.json](./219592-sokobear-spring.json) |
 | Sokobond Express | 164896 | [164896-sokobond-express.json](./164896-sokobond-express.json) |
 | Sokobot | 189150 | [189150-sokobot.json](./189150-sokobot.json) |
+| Sokobum | 403153 | [403153-sokobum.json](./403153-sokobum.json) |
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
 | Sokocat: Castaway | 399689 | [399689-sokocat-castaway.json](./399689-sokocat-castaway.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
