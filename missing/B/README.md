@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang | 38547 | [38547-bang.json](./38547-bang.json) |
 | Bang 2 Busters | 40189 | [40189-bang-2-busters.json](./40189-bang-2-busters.json) |
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
+| Bang Bang Fruit 2 | 74373 | [74373-bang-bang-fruit-2.json](./74373-bang-bang-fruit-2.json) |
 | Bang Bang Land | 241519 | [241519-bang-bang-land.json](./241519-bang-bang-land.json) |
 | Bang Bang Pull Pull | 329020 | [329020-bang-bang-pull-pull.json](./329020-bang-bang-pull-pull.json) |
 | Bang Bang Racing | 15286 | [15286-bang-bang-racing.json](./15286-bang-bang-racing.json) |
@@ -972,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry Mcguigan Championship Boxing | 45336 | [45336-barry-mcguigan-championship-boxing.json](./45336-barry-mcguigan-championship-boxing.json) |
 | Barry McGuigan World Championship Boxing | 13862 | [13862-barry-mcguigan-world-championship-boxing.json](./13862-barry-mcguigan-world-championship-boxing.json) |
 | Barry the Bunny | 151187 | [151187-barry-the-bunny.json](./151187-barry-the-bunny.json) |
+| Bars and Balance | 74672 | [74672-bars-and-balance.json](./74672-bars-and-balance.json) |
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
 | Bart Bird | 26935 | [26935-bart-bird.json](./26935-bart-bird.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
@@ -3912,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
+| Blue Whale | 75320 | [75320-blue-whale.json](./75320-blue-whale.json) |
 | Blue Wish Resurrection Plus | 122850 | [122850-blue-wish-resurrection-plus.json](./122850-blue-wish-resurrection-plus.json) |
 | Blue Wyrm | 331956 | [331956-blue-wyrm.json](./331956-blue-wyrm.json) |
 | Blue-Sky-Blue(s): Sora o Mau Tsubasa | 318594 | [318594-blue-sky-blue-s-sora-o-mau-tsubasa.json](./318594-blue-sky-blue-s-sora-o-mau-tsubasa.json) |
@@ -4552,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Flip! | 97099 | [97099-bottle-flip.json](./97099-bottle-flip.json) |
 | Bottle It!: Beverage Simulator | 389971 | [389971-bottle-it-beverage-simulator.json](./389971-bottle-it-beverage-simulator.json) |
 | Bottle of Sickness | 386216 | [386216-bottle-of-sickness.json](./386216-bottle-of-sickness.json) |
+| Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
 | Bottomless | 183596 | [183596-bottomless.json](./183596-bottomless.json) |
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
@@ -4986,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Summer Championship 2018 Pack | 342627 | [342627-brawlhalla-summer-championship-2018-pack.json](./342627-brawlhalla-summer-championship-2018-pack.json) |
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
+| Brayan Odleys Numbers | 74377 | [74377-brayan-odleys-numbers.json](./74377-brayan-odleys-numbers.json) |
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
 | Braziball | 138587 | [138587-braziball.json](./138587-braziball.json) |
 | Brazil Fencing Club VR | 275100 | [275100-brazil-fencing-club-vr.json](./275100-brazil-fencing-club-vr.json) |
@@ -5026,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Balloons: Ghost Town | 252151 | [252151-break-the-balloons-ghost-town.json](./252151-break-the-balloons-ghost-town.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
 | Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
+| Break the Game | 74983 | [74983-break-the-game.json](./74983-break-the-game.json) |
 | Break The Line | 296500 | [296500-break-the-line.json](./296500-break-the-line.json) |
 | Break The Night | 417529 | [417529-break-the-night.json](./417529-break-the-night.json) |
 | Break the Tower | 394878 | [394878-break-the-tower.json](./394878-break-the-tower.json) |
@@ -5941,6 +5947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Bound | 348339 | [348339-bus-bound.json](./348339-bus-bound.json) |
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
 | Bus Driver Simulator | 141689 | [141689-bus-driver-simulator.json](./141689-bus-driver-simulator.json) |
+| Bus Driver Simulator 2019 | 75103 | [75103-bus-driver-simulator-2019.json](./75103-bus-driver-simulator-2019.json) |
 | Bus Driving Sim 22 | 203890 | [203890-bus-driving-sim-22.json](./203890-bus-driving-sim-22.json) |
 | Bus Driving Simulator 24 City Roads & Farmer Simulator Bundle | 390509 | [390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json](./390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json) |
 | Bus Fix 2019 | 120179 | [120179-bus-fix-2019.json](./120179-bus-fix-2019.json) |
