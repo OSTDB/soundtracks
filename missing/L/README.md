@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes 2: Classic Guardians of the Galaxy Character Pack | 168781 | [168781-lego-marvel-super-heroes-2-classic-guardians-of-the-galaxy-character-pack.json](./168781-lego-marvel-super-heroes-2-classic-guardians-of-the-galaxy-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Ant-Man and the Wasp Level and Character Pack | 168783 | [168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json](./168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json) |
 | LEGO Marvel Super Heroes: Iron Patriot Minifigure - Limited Edition | 89899 | [89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json](./89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json) |
+| LEGO Marvel Super Heroes: Universe in Peril | 47966 | [47966-lego-marvel-super-heroes-universe-in-peril.json](./47966-lego-marvel-super-heroes-universe-in-peril.json) |
 | LEGO Marvel's Avengers: Classic Captain Marvel Pack | 137663 | [137663-lego-marvels-avengers-classic-captain-marvel-pack.json](./137663-lego-marvels-avengers-classic-captain-marvel-pack.json) |
 | LEGO Marvel's Avengers: Deluxe Edition | 53270 | [53270-lego-marvels-avengers-deluxe-edition.json](./53270-lego-marvels-avengers-deluxe-edition.json) |
 | LEGO Marvel's Avengers: Marvel's Agents of S.H.I.E.L.D. Pack | 137633 | [137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json](./137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json) |
@@ -2075,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
 | Little Red Ball | 176384 | [176384-little-red-ball.json](./176384-little-red-ball.json) |
 | Little Red in the Woods | 364493 | [364493-little-red-in-the-woods.json](./364493-little-red-in-the-woods.json) |
+| Little Red Lie | 44280 | [44280-little-red-lie.json](./44280-little-red-lie.json) |
 | Little Red Riding Hood A | 225313 | [225313-little-red-riding-hood-a.json](./225313-little-red-riding-hood-a.json) |
 | Little Red Riding Hood B | 225312 | [225312-little-red-riding-hood-b.json](./225312-little-red-riding-hood-b.json) |
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
@@ -2246,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loader Larry | 73809 | [73809-loader-larry.json](./73809-loader-larry.json) |
 | Loaders | 355569 | [355569-loaders.json](./355569-loaders.json) |
 | Loaders, Inc. | 392148 | [392148-loaders-inc.json](./392148-loaders-inc.json) |
+| Loading Human: Chapter 1 | 42897 | [42897-loading-human-chapter-1.json](./42897-loading-human-chapter-1.json) |
 | Loading Screen Simulator | 43136 | [43136-loading-screen-simulator.json](./43136-loading-screen-simulator.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
 | Loading... | 365761 | [365761-loading.json](./365761-loading.json) |
@@ -2290,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
 | Lock the door | 184588 | [184588-lock-the-door.json](./184588-lock-the-door.json) |
 | Lock-On | 95392 | [95392-lock-on.json](./95392-lock-on.json) |
+| Lock's Quest | 46557 | [46557-locks-quest.json](./46557-locks-quest.json) |
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
 | Lockdown VR: Circus of the Dead | 195261 | [195261-lockdown-vr-circus-of-the-dead.json](./195261-lockdown-vr-circus-of-the-dead.json) |
