@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Driver 2006 | 93991 | [93991-race-driver-2006.json](./93991-race-driver-2006.json) |
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
 | Race For Nuts | 359481 | [359481-race-for-nuts.json](./359481-race-for-nuts.json) |
+| Race for the Galaxy | 44528 | [44528-race-for-the-galaxy.json](./44528-race-for-the-galaxy.json) |
 | Race for the Galaxy: Brink of War | 171486 | [171486-race-for-the-galaxy-brink-of-war.json](./171486-race-for-the-galaxy-brink-of-war.json) |
 | Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
 | Race for The White House | 234170 | [234170-race-for-the-white-house.json](./234170-race-for-the-white-house.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Recontact London: Cyber Puzzle | 160244 | [160244-recontact-london-cyber-puzzle.json](./160244-recontact-london-cyber-puzzle.json) |
 | Record of Agarest War 2: Limited Edition | 44564 | [44564-record-of-agarest-war-2-limited-edition.json](./44564-record-of-agarest-war-2-limited-edition.json) |
+| Record of Agarest War Mariage | 46015 | [46015-record-of-agarest-war-mariage.json](./46015-record-of-agarest-war-mariage.json) |
 | Record of Agarest War Zero: Limited Edition | 43959 | [43959-record-of-agarest-war-zero-limited-edition.json](./43959-record-of-agarest-war-zero-limited-edition.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
@@ -1413,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redacted: Genome | 287196 | [287196-redacted-genome.json](./287196-redacted-genome.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
 | RedBull Car Park Drift | 120349 | [120349-redbull-car-park-drift.json](./120349-redbull-car-park-drift.json) |
+| RedCard 2003 | 46027 | [46027-redcard-2003.json](./46027-redcard-2003.json) |
 | RedCat 2: De Ontvoering van Prinses Dana | 242634 | [242634-redcat-2-de-ontvoering-van-prinses-dana.json](./242634-redcat-2-de-ontvoering-van-prinses-dana.json) |
 | RedCat Megapack | 242638 | [242638-redcat-megapack.json](./242638-redcat-megapack.json) |
 | RedCat Megapack 2 | 242639 | [242639-redcat-megapack-2.json](./242639-redcat-megapack-2.json) |
@@ -2379,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmy | 116315 | [116315-rhythmy.json](./116315-rhythmy.json) |
 | Ri Ri Ye Ye | 150515 | [150515-ri-ri-ye-ye.json](./150515-ri-ri-ye-ye.json) |
 | Ria's Hook | 95213 | [95213-rias-hook.json](./95213-rias-hook.json) |
+| Riaaf the Spider | 44114 | [44114-riaaf-the-spider.json](./44114-riaaf-the-spider.json) |
 | Riana Rouge | 3713 | [3713-riana-rouge.json](./3713-riana-rouge.json) |
 | Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
