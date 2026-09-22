@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Marbles: Autumn | 337628 | [337628-season-marbles-autumn.json](./337628-season-marbles-autumn.json) |
 | Season Marbles: Summer | 337629 | [337629-season-marbles-summer.json](./337629-season-marbles-summer.json) |
 | Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
+| Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
@@ -1807,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
+| Self-Defense Training Camp | 8545 | [8545-self-defense-training-camp.json](./8545-self-defense-training-camp.json) |
 | Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
 | Selfie Games: A TV Party Game | 112149 | [112149-selfie-games-a-tv-party-game.json](./112149-selfie-games-a-tv-party-game.json) |
@@ -2064,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
+| Seven Kingdoms: Conquest | 8942 | [8942-seven-kingdoms-conquest.json](./8942-seven-kingdoms-conquest.json) |
 | Seven Kingdoms: The Princess Problem | 336036 | [336036-seven-kingdoms-the-princess-problem.json](./336036-seven-kingdoms-the-princess-problem.json) |
 | Seven Knights Idle Adventure | 265746 | [265746-seven-knights-idle-adventure.json](./265746-seven-knights-idle-adventure.json) |
 | Seven Knights: Time Wanderer - Cosplay Costume Set | 237932 | [237932-seven-knights-time-wanderer-cosplay-costume-set.json](./237932-seven-knights-time-wanderer-cosplay-costume-set.json) |
@@ -3282,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Showtime: Vampire Diaries | 241370 | [241370-showtime-vampire-diaries.json](./241370-showtime-vampire-diaries.json) |
+| Showtime! | 9405 | [9405-showtime.json](./9405-showtime.json) |
 | Showy Homes | 380521 | [380521-showy-homes.json](./380521-showy-homes.json) |
 | Shox: Rally Reinvented | 8265 | [8265-shox-rally-reinvented.json](./8265-shox-rally-reinvented.json) |
 | SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
@@ -4467,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | Sled Bandit | 255731 | [255731-sled-bandit.json](./255731-sled-bandit.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
+| Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
 | Sleep Aid | 414413 | [414413-sleep-aid.json](./414413-sleep-aid.json) |
 | Sleep Clock: Record and Analyse Your Sleep Patterns | 84883 | [84883-sleep-clock-record-and-analyse-your-sleep-patterns.json](./84883-sleep-clock-record-and-analyse-your-sleep-patterns.json) |
