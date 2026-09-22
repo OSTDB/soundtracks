@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untold Stories 01: Goliath | 406718 | [406718-untold-stories-01-goliath.json](./406718-untold-stories-01-goliath.json) |
 | Untold Stories 3: Myriad Caves | 355115 | [355115-untold-stories-3-myriad-caves.json](./355115-untold-stories-3-myriad-caves.json) |
 | Untold Story | 311636 | [311636-untold-story.json](./311636-untold-story.json) |
+| Untold Tales Adventure & Story-Rich Bundle | 401783 | [401783-untold-tales-adventure-and-story-rich-bundle.json](./401783-untold-tales-adventure-and-story-rich-bundle.json) |
 | Untold Tales: A Scarlet Way | 312567 | [312567-untold-tales-a-scarlet-way.json](./312567-untold-tales-a-scarlet-way.json) |
 | Untouchable | 101594 | [101594-untouchable.json](./101594-untouchable.json) |
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
