@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sequoia | 185595 | [185595-sequoia.json](./185595-sequoia.json) |
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
+| Serafina's Crown | 33338 | [33338-serafinas-crown.json](./33338-serafinas-crown.json) |
 | Serania: Path of the Scion | 258008 | [258008-serania-path-of-the-scion.json](./258008-serania-path-of-the-scion.json) |
 | Seraph of the End: The Origin of Fate | 13638 | [13638-seraph-of-the-end-the-origin-of-fate.json](./13638-seraph-of-the-end-the-origin-of-fate.json) |
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
@@ -3663,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
 | Silver Blue | 152734 | [152734-silver-blue.json](./152734-silver-blue.json) |
 | Silver Box Classics | 241957 | [241957-silver-box-classics.json](./241957-silver-box-classics.json) |
+| Silver Bullet: Prometheus | 33437 | [33437-silver-bullet-prometheus.json](./33437-silver-bullet-prometheus.json) |
 | Silver Cats | 150495 | [150495-silver-cats.json](./150495-silver-cats.json) |
 | Silver Creek Falls: Chapter 1 | 34685 | [34685-silver-creek-falls-chapter-1.json](./34685-silver-creek-falls-chapter-1.json) |
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
@@ -4580,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
+| SLG Remix | 33428 | [33428-slg-remix.json](./33428-slg-remix.json) |
 | Slice | 98705 | [98705-slice.json](./98705-slice.json) |
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
@@ -7684,6 +7687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split | 111484 | [111484-split.json](./111484-split.json) |
 | Split Apart | 324313 | [324313-split-apart.json](./324313-split-apart.json) |
 | Split Brain Samsara | 401487 | [401487-split-brain-samsara.json](./401487-split-brain-samsara.json) |
+| Split Bullet | 33341 | [33341-split-bullet.json](./33341-split-bullet.json) |
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
 | Split Happens | 400899 | [400899-split-happens.json](./400899-split-happens.json) |
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
@@ -8893,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsiege: Deadzone | 251581 | [251581-starsiege-deadzone.json](./251581-starsiege-deadzone.json) |
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
 | Starsky & Hutch | 243809 | [243809-starsky-and-hutch.json](./243809-starsky-and-hutch.json) |
+| StarsOne | 33171 | [33171-starsone.json](./33171-starsone.json) |
 | Starspawn: A Miskatonic Mystery | 347785 | [347785-starspawn-a-miskatonic-mystery.json](./347785-starspawn-a-miskatonic-mystery.json) |
 | Starsphere | 34321 | [34321-starsphere.json](./34321-starsphere.json) |
 | StarStorm | 258032 | [258032-starstorm.json](./258032-starstorm.json) |
@@ -9483,6 +9488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Strikers | 124746 | [124746-storm-strikers.json](./124746-storm-strikers.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
 | Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
+| Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
 | Stormbinders | 336520 | [336520-stormbinders.json](./336520-stormbinders.json) |
