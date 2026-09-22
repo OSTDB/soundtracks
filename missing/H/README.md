@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Rescue 3 | 233511 | [233511-hero-rescue-3.json](./233511-hero-rescue-3.json) |
 | Hero Rescue Agency | 409661 | [409661-hero-rescue-agency.json](./409661-hero-rescue-agency.json) |
 | Hero Ring | 195602 | [195602-hero-ring.json](./195602-hero-ring.json) |
+| Hero Rush: Mad King | 72417 | [72417-hero-rush-mad-king.json](./72417-hero-rush-mad-king.json) |
 | Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
 | Hero Siege | 11708 | [11708-hero-siege.json](./11708-hero-siege.json) |
 | Hero Siege Complete | 53188 | [53188-hero-siege-complete.json](./53188-hero-siege-complete.json) |
@@ -2157,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
 | Hex and Chill | 335365 | [335365-hex-and-chill.json](./335365-hex-and-chill.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
+| Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
 | Hex of Steel | 147277 | [147277-hex-of-steel.json](./147277-hex-of-steel.json) |
 | Hex of the Lich | 164889 | [164889-hex-of-the-lich.json](./164889-hex-of-the-lich.json) |
@@ -2379,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
 | Hidden Object - 12 in 1 bundle | 90581 | [90581-hidden-object-12-in-1-bundle.json](./90581-hidden-object-12-in-1-bundle.json) |
+| Hidden Object - Sweet Home | 72403 | [72403-hidden-object-sweet-home.json](./72403-hidden-object-sweet-home.json) |
 | Hidden Object - Unwrap the Secrets of the Lost Candy World! Seek & Find Hunt Game | 71207 | [71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json](./71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json) |
 | Hidden Object 6-in-1 bundle | 90590 | [90590-hidden-object-6-in-1-bundle.json](./90590-hidden-object-6-in-1-bundle.json) |
 | Hidden Object Adventures: Sunken Treasures | 101940 | [101940-hidden-object-adventures-sunken-treasures.json](./101940-hidden-object-adventures-sunken-treasures.json) |
@@ -2578,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
 | Highlander | 28851 | [28851-highlander.json](./28851-highlander.json) |
 | Highlander: The Gathering | 67240 | [67240-highlander-the-gathering.json](./67240-highlander-the-gathering.json) |
+| Highlands, Deep Waters | 72513 | [72513-highlands-deep-waters.json](./72513-highlands-deep-waters.json) |
 | Highnoon | 11304 | [11304-highnoon.json](./11304-highnoon.json) |
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
 | Highreach | 348331 | [348331-highreach.json](./348331-highreach.json) |
@@ -3850,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Escape a Kidnapper | 367450 | [367450-how-to-escape-a-kidnapper.json](./367450-how-to-escape-a-kidnapper.json) |
 | How to Fish | 378170 | [378170-how-to-fish.json](./378170-how-to-fish.json) |
 | How to Fly a Cannon | 405537 | [405537-how-to-fly-a-cannon.json](./405537-how-to-fly-a-cannon.json) |
+| How to Fool a Liar King | 72344 | [72344-how-to-fool-a-liar-king.json](./72344-how-to-fool-a-liar-king.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
 | How to Make a Floating City | 116114 | [116114-how-to-make-a-floating-city.json](./116114-how-to-make-a-floating-city.json) |
 | How to Make an Atomic Bomb in Your Garden | 391727 | [391727-how-to-make-an-atomic-bomb-in-your-garden.json](./391727-how-to-make-an-atomic-bomb-in-your-garden.json) |
