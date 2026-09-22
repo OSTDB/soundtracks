@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Dream | 330306 | [330306-shadow-dream.json](./330306-shadow-dream.json) |
 | Shadow Dwellers: Deliverance | 391729 | [391729-shadow-dwellers-deliverance.json](./391729-shadow-dwellers-deliverance.json) |
 | Shadow Eclipse | 166766 | [166766-shadow-eclipse.json](./166766-shadow-eclipse.json) |
+| Shadow Empire | 125692 | [125692-shadow-empire.json](./125692-shadow-empire.json) |
 | Shadow Empire: Oceania | 225088 | [225088-shadow-empire-oceania.json](./225088-shadow-empire-oceania.json) |
 | Shadow Escaper | 63805 | [63805-shadow-escaper.json](./63805-shadow-escaper.json) |
 | Shadow Falls | 311258 | [311258-shadow-falls.json](./311258-shadow-falls.json) |
@@ -11426,6 +11427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Valis IV | 38411 | [38411-super-valis-iv.json](./38411-super-valis-iv.json) |
 | Super Vanilla World | 223029 | [223029-super-vanilla-world.json](./223029-super-vanilla-world.json) |
 | Super Visual Soccer | 125980 | [125980-super-visual-soccer.json](./125980-super-visual-soccer.json) |
+| Super Volley Blast | 105274 | [105274-super-volley-blast.json](./105274-super-volley-blast.json) |
 | Super Volte-Face | 310414 | [310414-super-volte-face.json](./310414-super-volte-face.json) |
 | Super Voxel World | 176443 | [176443-super-voxel-world.json](./176443-super-voxel-world.json) |
 | Super Wagyan Land | 42539 | [42539-super-wagyan-land.json](./42539-super-wagyan-land.json) |
@@ -11644,6 +11646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surge Concerto DX Agent Pack Code: Silver/. | 140004 | [140004-surge-concerto-dx-agent-pack-code-silver.json](./140004-surge-concerto-dx-agent-pack-code-silver.json) |
 | Surge Generations | 334687 | [334687-surge-generations.json](./334687-surge-generations.json) |
 | Surge Radio | 124172 | [124172-surge-radio.json](./124172-surge-radio.json) |
+| Surgeon Simulator 2 | 127355 | [127355-surgeon-simulator-2.json](./127355-surgeon-simulator-2.json) |
 | Surgeon Simulator 2 Launch Bundle | 166689 | [166689-surgeon-simulator-2-launch-bundle.json](./166689-surgeon-simulator-2-launch-bundle.json) |
 | Surgeon Simulator 2: Deluxe Edition | 227355 | [227355-surgeon-simulator-2-deluxe-edition.json](./227355-surgeon-simulator-2-deluxe-edition.json) |
 | Surgeon Simulator VR: Meet the Medic | 33128 | [33128-surgeon-simulator-vr-meet-the-medic.json](./33128-surgeon-simulator-vr-meet-the-medic.json) |
@@ -11667,6 +11670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
 | Survial | 274577 | [274577-survial.json](./274577-survial.json) |
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
+| Survisland | 105015 | [105015-survisland.json](./105015-survisland.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
 | Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
