@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl and Goblin | 103810 | [103810-girl-and-goblin.json](./103810-girl-and-goblin.json) |
 | Girl Blonde | 74178 | [74178-girl-blonde.json](./74178-girl-blonde.json) |
 | Girl Cafe Gun | 139383 | [139383-girl-cafe-gun.json](./139383-girl-cafe-gun.json) |
+| Girl Design | 415316 | [415316-girl-design.json](./415316-girl-design.json) |
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
 | Girl Dress Up Makeover | 88327 | [88327-girl-dress-up-makeover.json](./88327-girl-dress-up-makeover.json) |
 | Girl Gunner | 277317 | [277317-girl-gunner.json](./277317-girl-gunner.json) |
@@ -2554,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grain Sling | 273916 | [273916-grain-sling.json](./273916-grain-sling.json) |
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
+| Grampage: Life at 67 | 415315 | [415315-grampage-life-at-67.json](./415315-grampage-life-at-67.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
