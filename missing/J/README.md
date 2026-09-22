@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack and the Beanstalk Jigsaw Puzzle | 163406 | [163406-jack-and-the-beanstalk-jigsaw-puzzle.json](./163406-jack-and-the-beanstalk-jigsaw-puzzle.json) |
 | Jack and the Beanstalk: A Hidden Story | 368037 | [368037-jack-and-the-beanstalk-a-hidden-story.json](./368037-jack-and-the-beanstalk-a-hidden-story.json) |
 | Jack Attack 2 | 210045 | [210045-jack-attack-2.json](./210045-jack-attack-2.json) |
+| Jack Axe | 113414 | [113414-jack-axe.json](./113414-jack-axe.json) |
 | Jack Axe: The Trial | 165622 | [165622-jack-axe-the-trial.json](./165622-jack-axe-the-trial.json) |
 | Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
 | Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
