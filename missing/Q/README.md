@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuestMania | 79305 | [79305-questmania.json](./79305-questmania.json) |
 | Questor's Quest | 59693 | [59693-questors-quest.json](./59693-questors-quest.json) |
 | Questprobe featuring The Hulk | 12934 | [12934-questprobe-featuring-the-hulk.json](./12934-questprobe-featuring-the-hulk.json) |
+| Questris | 413871 | [413871-questris.json](./413871-questris.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Quetzal | 299302 | [299302-quetzal.json](./299302-quetzal.json) |
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
