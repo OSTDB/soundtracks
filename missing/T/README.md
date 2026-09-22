@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress Classic | 6359 | [6359-team-fortress-classic.json](./6359-team-fortress-classic.json) |
 | Team Fortress Kart | 371244 | [371244-team-fortress-kart.json](./371244-team-fortress-kart.json) |
 | Team Four Star RPG | 75043 | [75043-team-four-star-rpg.json](./75043-team-four-star-rpg.json) |
+| Team Hero Coder | 416829 | [416829-team-hero-coder.json](./416829-team-hero-coder.json) |
 | Team Hogus: GHAMEMFAIFTH OTHIYLTIM | 185659 | [185659-team-hogus-ghamemfaifth-othiyltim.json](./185659-team-hogus-ghamemfaifth-othiyltim.json) |
 | Team Innocent: The Point of No Return | 65738 | [65738-team-innocent-the-point-of-no-return.json](./65738-team-innocent-the-point-of-no-return.json) |
 | Team Kart Fortress | 371246 | [371246-team-kart-fortress.json](./371246-team-kart-fortress.json) |
@@ -2662,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coldest Winter | 293617 | [293617-the-coldest-winter.json](./293617-the-coldest-winter.json) |
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
 | The Collection | 296390 | [296390-the-collection.json](./296390-the-collection.json) |
+| The Collective | 416835 | [416835-the-collective.json](./416835-the-collective.json) |
 | The Collector | 238210 | [238210-the-collector.json](./238210-the-collector.json) |
 | The College Brickout | 306485 | [306485-the-college-brickout.json](./306485-the-college-brickout.json) |
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
@@ -3370,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Station | 16136 | [16136-the-final-station.json](./16136-the-final-station.json) |
 | The Final Station: The Only Traitor | 124810 | [124810-the-final-station-the-only-traitor.json](./124810-the-final-station-the-only-traitor.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
+| The Final Witness | 416815 | [416815-the-final-witness.json](./416815-the-final-witness.json) |
 | The Finally | 201798 | [201798-the-finally.json](./201798-the-finally.json) |
 | The Finals: Season 11 - Galaxy Masters! | 409700 | [409700-the-finals-season-11-galaxy-masters.json](./409700-the-finals-season-11-galaxy-masters.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
@@ -4840,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze Runner | 138159 | [138159-the-maze-runner.json](./138159-the-maze-runner.json) |
 | The Meaning | 203303 | [203303-the-meaning.json](./203303-the-meaning.json) |
 | The Meaning of Auri | 349310 | [349310-the-meaning-of-auri.json](./349310-the-meaning-of-auri.json) |
+| The Medieval Doctor | 416825 | [416825-the-medieval-doctor.json](./416825-the-medieval-doctor.json) |
 | The Medium + Observer: System Redux + Darq: Complete Edition Bundle | 166687 | [166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json](./166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json) |
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
@@ -9640,6 +9644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Bot Diaries 2 | 79909 | [79909-toy-bot-diaries-2.json](./79909-toy-bot-diaries-2.json) |
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
+| Toy Chute: Sort Chute Organizer! | 416853 | [416853-toy-chute-sort-chute-organizer.json](./416853-toy-chute-sort-chute-organizer.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
 | Toy Drop Balance Challenge | 342152 | [342152-toy-drop-balance-challenge.json](./342152-toy-drop-balance-challenge.json) |
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
