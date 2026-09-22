@@ -4546,6 +4546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Killers | 132218 | [132218-contract-killers.json](./132218-contract-killers.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Contract Revoked: The Lost Chapters | 271237 | [271237-contract-revoked-the-lost-chapters.json](./271237-contract-revoked-the-lost-chapters.json) |
+| Contract Wars | 77472 | [77472-contract-wars.json](./77472-contract-wars.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
 | Contractors VR | 111625 | [111625-contractors-vr.json](./111625-contractors-vr.json) |
@@ -5918,6 +5919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
+| Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
 | Crumble Party! | 339341 | [339341-crumble-party.json](./339341-crumble-party.json) |
 | Crumble's Crisis | 159269 | [159269-crumbles-crisis.json](./159269-crumbles-crisis.json) |
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
