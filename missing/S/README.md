@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
+| Sango Guardian Chaos Generation Steamedition | 52064 | [52064-sango-guardian-chaos-generation-steamedition.json](./52064-sango-guardian-chaos-generation-steamedition.json) |
 | Sangoku Heroes | 69253 | [69253-sangoku-heroes.json](./69253-sangoku-heroes.json) |
 | Sangoku Hime 2 | 63301 | [63301-sangoku-hime-2.json](./63301-sangoku-hime-2.json) |
 | Sangoku Hime: Ransei, Tenka Sanbun no Kei | 62130 | [62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json](./62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json) |
@@ -7548,6 +7549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinning My Wheel | 348866 | [348866-spinning-my-wheel.json](./348866-spinning-my-wheel.json) |
 | Spinning Scarecrow | 360096 | [360096-spinning-scarecrow.json](./360096-spinning-scarecrow.json) |
 | Spinning Top | 163840 | [163840-spinning-top.json](./163840-spinning-top.json) |
+| Spinnortality | 51471 | [51471-spinnortality.json](./51471-spinnortality.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
 | Spinout Drifter | 219649 | [219649-spinout-drifter.json](./219649-spinout-drifter.json) |
@@ -9999,6 +10001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Spaceships | 390622 | [390622-stupid-spaceships.json](./390622-stupid-spaceships.json) |
 | SturmFront - The Mutant War | 15394 | [15394-sturmfront-the-mutant-war.json](./15394-sturmfront-the-mutant-war.json) |
 | SturmFront: The Mutant War - Farewell Edition | 215362 | [215362-sturmfront-the-mutant-war-farewell-edition.json](./215362-sturmfront-the-mutant-war-farewell-edition.json) |
+| SturmFront: The Mutant War - Übel Edition | 52764 | [52764-sturmfront-the-mutant-war-ubel-edition.json](./52764-sturmfront-the-mutant-war-ubel-edition.json) |
 | Sturmwind | 9126 | [9126-sturmwind.json](./9126-sturmwind.json) |
 | Stygia | 139412 | [139412-stygia.json](./139412-stygia.json) |
 | Stygia II: The Sisters of Stygia | 139413 | [139413-stygia-ii-the-sisters-of-stygia.json](./139413-stygia-ii-the-sisters-of-stygia.json) |
@@ -11902,6 +11905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivaluck | 287758 | [287758-survivaluck.json](./287758-survivaluck.json) |
 | SurvivalZ Battlegrounds | 103009 | [103009-survivalz-battlegrounds.json](./103009-survivalz-battlegrounds.json) |
 | Survive | 193436 | [193436-survive.json](./193436-survive.json) |
+| Survive | 52256 | [52256-survive.json](./52256-survive.json) |
 | Survive - Wilderness Survival | 58795 | [58795-survive-wilderness-survival.json](./58795-survive-wilderness-survival.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
 | Survive and Revenge | 236285 | [236285-survive-and-revenge.json](./236285-survive-and-revenge.json) |
