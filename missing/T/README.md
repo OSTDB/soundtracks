@@ -3986,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infernal Return | 195156 | [195156-the-infernal-return.json](./195156-the-infernal-return.json) |
 | The Infernalist | 371355 | [371355-the-infernalist.json](./371355-the-infernalist.json) |
 | The Inferno | 358963 | [358963-the-inferno.json](./358963-the-inferno.json) |
+| The Infinite Grimoire | 401825 | [401825-the-infinite-grimoire.json](./401825-the-infinite-grimoire.json) |
 | The Infinity String | 74043 | [74043-the-infinity-string.json](./74043-the-infinity-string.json) |
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
@@ -5120,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The North Pole | 127227 | [127227-the-north-pole.json](./127227-the-north-pole.json) |
 | The Northern Gate: Special Agent | 191118 | [191118-the-northern-gate-special-agent.json](./191118-the-northern-gate-special-agent.json) |
 | The Northern Passage | 301414 | [301414-the-northern-passage.json](./301414-the-northern-passage.json) |
+| The Northsong Rift | 401840 | [401840-the-northsong-rift.json](./401840-the-northsong-rift.json) |
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
 | The Nothing | 44211 | [44211-the-nothing.json](./44211-the-nothing.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
