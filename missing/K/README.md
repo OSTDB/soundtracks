@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kashiri Kyoufu no Shashin | 261374 | [261374-kashiri-kyoufu-no-shashin.json](./261374-kashiri-kyoufu-no-shashin.json) |
 | Kashiwagi Shigetaka no Top Water Bassing | 37967 | [37967-kashiwagi-shigetaka-no-top-water-bassing.json](./37967-kashiwagi-shigetaka-no-top-water-bassing.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
+| Kasumi Ninja | 40798 | [40798-kasumi-ninja.json](./40798-kasumi-ninja.json) |
 | Kat's Run: Zen-Nippon K-Car Senshuken | 38267 | [38267-kats-run-zen-nippon-k-car-senshuken.json](./38267-kats-run-zen-nippon-k-car-senshuken.json) |
 | Kata | 57094 | [57094-kata.json](./57094-kata.json) |
 | Katachi Shin Hakken! Rittai Picross 2 | 222535 | [222535-katachi-shin-hakken-rittai-picross-2.json](./222535-katachi-shin-hakken-rittai-picross-2.json) |
@@ -536,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keio Flying Squadron | 12912 | [12912-keio-flying-squadron.json](./12912-keio-flying-squadron.json) |
 | Keio Flying Squadron 2 | 19417 | [19417-keio-flying-squadron-2.json](./19417-keio-flying-squadron-2.json) |
 | Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 292148 | [292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
+| Keith Courage in Alpha Zones | 42122 | [42122-keith-courage-in-alpha-zones.json](./42122-keith-courage-in-alpha-zones.json) |
 | Keith Van Eron's Pro Soccer | 15264 | [15264-keith-van-erons-pro-soccer.json](./15264-keith-van-erons-pro-soccer.json) |
 | Keizudo | 169395 | [169395-keizudo.json](./169395-keizudo.json) |
 | Keke in the Caves of Peril | 230262 | [230262-keke-in-the-caves-of-peril.json](./230262-keke-in-the-caves-of-peril.json) |
