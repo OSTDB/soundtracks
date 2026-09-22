@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid's Literacy Games | 88212 | [88212-kids-literacy-games.json](./88212-kids-literacy-games.json) |
 | Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
 | Kid's Sudoku, 100 puzzles | 98777 | [98777-kids-sudoku-100-puzzles.json](./98777-kids-sudoku-100-puzzles.json) |
+| Kidbash: Super Legend | 275736 | [275736-kidbash-super-legend.json](./275736-kidbash-super-legend.json) |
 | Kiddie Coaster | 66045 | [66045-kiddie-coaster.json](./66045-kiddie-coaster.json) |
 | Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
 | Kiddy Memory | 221264 | [221264-kiddy-memory.json](./221264-kiddy-memory.json) |
@@ -1095,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance - From the Ashes | 104985 | [104985-kingdom-come-deliverance-from-the-ashes.json](./104985-kingdom-come-deliverance-from-the-ashes.json) |
 | Kingdom Come: Deliverance - Limited Edition | 166176 | [166176-kingdom-come-deliverance-limited-edition.json](./166176-kingdom-come-deliverance-limited-edition.json) |
 | Kingdom Come: Deliverance - Royal DLC Package | 155078 | [155078-kingdom-come-deliverance-royal-dlc-package.json](./155078-kingdom-come-deliverance-royal-dlc-package.json) |
+| Kingdom Come: Deliverance II - Brushes with Death | 343669 | [343669-kingdom-come-deliverance-ii-brushes-with-death.json](./343669-kingdom-come-deliverance-ii-brushes-with-death.json) |
 | Kingdom Come: Deliverance II - Collectors' Edition | 326774 | [326774-kingdom-come-deliverance-ii-collectors-edition.json](./326774-kingdom-come-deliverance-ii-collectors-edition.json) |
 | Kingdom Come: Deliverance II - Day One Edition | 326773 | [326773-kingdom-come-deliverance-ii-day-one-edition.json](./326773-kingdom-come-deliverance-ii-day-one-edition.json) |
 | Kingdom Come: Deliverance II - Gold Edition | 317636 | [317636-kingdom-come-deliverance-ii-gold-edition.json](./317636-kingdom-come-deliverance-ii-gold-edition.json) |
