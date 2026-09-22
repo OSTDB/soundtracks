@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Bigger! Mola | 120321 | [120321-get-bigger-mola.json](./120321-get-bigger-mola.json) |
 | Get Carnage!!! | 29222 | [29222-get-carnage.json](./29222-get-carnage.json) |
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
+| Get Fit: Beach Workout | 411142 | [411142-get-fit-beach-workout.json](./411142-get-fit-beach-workout.json) |
 | Get Fit: Power Workout | 399639 | [399639-get-fit-power-workout.json](./399639-get-fit-power-workout.json) |
 | Get Fit: Women’s Fitness | 394999 | [394999-get-fit-women-s-fitness.json](./394999-get-fit-women-s-fitness.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
@@ -1489,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girauden Strike Force | 156535 | [156535-girauden-strike-force.json](./156535-girauden-strike-force.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girder & Hearts: Reel Romance | 364500 | [364500-girder-and-hearts-reel-romance.json](./364500-girder-and-hearts-reel-romance.json) |
+| Giri-Jump Star Rush | 411134 | [411134-giri-jump-star-rush.json](./411134-giri-jump-star-rush.json) |
 | Girl & Scarecrow | 404331 | [404331-girl-and-scarecrow.json](./404331-girl-and-scarecrow.json) |
 | Girl Abducted | 334654 | [334654-girl-abducted.json](./334654-girl-abducted.json) |
 | Girl and Demon 1 | 212829 | [212829-girl-and-demon-1.json](./212829-girl-and-demon-1.json) |
