@@ -5078,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake-a-roni | 230937 | [230937-snake-a-roni.json](./230937-snake-a-roni.json) |
 | Snake-O-Tron | 288239 | [288239-snake-o-tron.json](./288239-snake-o-tron.json) |
 | Snake, snake, snake! | 100586 | [100586-snake-snake-snake.json](./100586-snake-snake-snake.json) |
+| Snake: Road to apple | 74909 | [74909-snake-road-to-apple.json](./74909-snake-road-to-apple.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
 | Snakebird | 13104 | [13104-snakebird.json](./13104-snakebird.json) |
@@ -8446,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Imperial Assault | 198919 | [198919-star-wars-imperial-assault.json](./198919-star-wars-imperial-assault.json) |
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
 | Star Wars: Jedi Adventure | 62669 | [62669-star-wars-jedi-adventure.json](./62669-star-wars-jedi-adventure.json) |
+| Star Wars: Jedi Challenges | 75089 | [75089-star-wars-jedi-challenges.json](./75089-star-wars-jedi-challenges.json) |
 | Star Wars: Jedi Knight Collection | 54401 | [54401-star-wars-jedi-knight-collection.json](./54401-star-wars-jedi-knight-collection.json) |
 | Star Wars: Jedi Reading | 91751 | [91751-star-wars-jedi-reading.json](./91751-star-wars-jedi-reading.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
@@ -10036,6 +10038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
 | Succubus Imprisoned | 83258 | [83258-succubus-imprisoned.json](./83258-succubus-imprisoned.json) |
+| Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
@@ -11495,6 +11498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Trux | 74431 | [74431-super-trux.json](./74431-super-trux.json) |
 | Super Tsume Shogi 1000 | 42219 | [42219-super-tsume-shogi-1000.json](./42219-super-tsume-shogi-1000.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
+| Super Turbo Demon Busters! | 74860 | [74860-super-turbo-demon-busters.json](./74860-super-turbo-demon-busters.json) |
 | Super Turbo Sudoku | 110960 | [110960-super-turbo-sudoku.json](./110960-super-turbo-sudoku.json) |
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
 | Super Tutor: Spelling | 59376 | [59376-super-tutor-spelling.json](./59376-super-tutor-spelling.json) |
