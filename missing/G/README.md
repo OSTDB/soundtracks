@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost College: Hotel Fright - Chapter 1 | 193427 | [193427-ghost-college-hotel-fright-chapter-1.json](./193427-ghost-college-hotel-fright-chapter-1.json) |
 | Ghost Eater | 278997 | [278997-ghost-eater.json](./278997-ghost-eater.json) |
 | Ghost Encounters | 59453 | [59453-ghost-encounters.json](./59453-ghost-encounters.json) |
+| Ghost Files: The Face of Guilt | 28781 | [28781-ghost-files-the-face-of-guilt.json](./28781-ghost-files-the-face-of-guilt.json) |
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost Grab 3000 | 116547 | [116547-ghost-grab-3000.json](./116547-ghost-grab-3000.json) |
 | Ghost Guns | 122175 | [122175-ghost-guns.json](./122175-ghost-guns.json) |
@@ -2378,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
 | Goremon | 249224 | [249224-goremon.json](./249224-goremon.json) |
+| Gorescript | 28889 | [28889-gorescript.json](./28889-gorescript.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Gorf the Ghost Saves Halloween | 277415 | [277415-gorf-the-ghost-saves-halloween.json](./277415-gorf-the-ghost-saves-halloween.json) |
 | Gorgeous Princess Dressup | 104605 | [104605-gorgeous-princess-dressup.json](./104605-gorgeous-princess-dressup.json) |
@@ -3311,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians Frontline | 144110 | [144110-guardians-frontline.json](./144110-guardians-frontline.json) |
 | Guardians of Altarris: The Sinless Blade | 322213 | [322213-guardians-of-altarris-the-sinless-blade.json](./322213-guardians-of-altarris-the-sinless-blade.json) |
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
+| Guardians of Ember | 26692 | [26692-guardians-of-ember.json](./26692-guardians-of-ember.json) |
 | Guardians Of Gaia: Guardians 8 | 266321 | [266321-guardians-of-gaia-guardians-8.json](./266321-guardians-of-gaia-guardians-8.json) |
 | Guardians of Greyrock | 151034 | [151034-guardians-of-greyrock.json](./151034-guardians-of-greyrock.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
