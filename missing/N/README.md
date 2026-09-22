@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer Delivery Service | 406309 | [406309-necromancer-delivery-service.json](./406309-necromancer-delivery-service.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
 | Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
+| Necromancer's Army | 405706 | [405706-necromancers-army.json](./405706-necromancers-army.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
 | Necromania: Trap of Darkness | 68965 | [68965-necromania-trap-of-darkness.json](./68965-necromania-trap-of-darkness.json) |
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
@@ -1572,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
 | Night Raid | 80867 | [80867-night-raid.json](./80867-night-raid.json) |
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
+| Night Record: Thin Walls | 405696 | [405696-night-record-thin-walls.json](./405696-night-record-thin-walls.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night Run | 295905 | [295905-night-run.json](./295905-night-run.json) |
 | Night School | 406088 | [406088-night-school.json](./406088-night-school.json) |
@@ -1641,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Drive | 179679 | [179679-nightmare-drive.json](./179679-nightmare-drive.json) |
 | Nightmare Files: Stoned | 347222 | [347222-nightmare-files-stoned.json](./347222-nightmare-files-stoned.json) |
 | Nightmare Game | 120416 | [120416-nightmare-game.json](./120416-nightmare-game.json) |
+| Nightmare Hospital | 405728 | [405728-nightmare-hospital.json](./405728-nightmare-hospital.json) |
 | Nightmare House: The Original Mod | 321582 | [321582-nightmare-house-the-original-mod.json](./321582-nightmare-house-the-original-mod.json) |
 | Nightmare Hunter | 207344 | [207344-nightmare-hunter.json](./207344-nightmare-hunter.json) |
 | Nightmare Hunter | 211259 | [211259-nightmare-hunter.json](./211259-nightmare-hunter.json) |
@@ -2087,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Prey, No Pay | 176458 | [176458-no-prey-no-pay.json](./176458-no-prey-no-pay.json) |
 | No Reality | 130307 | [130307-no-reality.json](./130307-no-reality.json) |
 | No Recollection: Swimsuit DLC! | 315486 | [315486-no-recollection-swimsuit-dlc.json](./315486-no-recollection-swimsuit-dlc.json) |
+| No Register | 405713 | [405713-no-register.json](./405713-no-register.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Rest for the Weary | 334198 | [334198-no-rest-for-the-weary.json](./334198-no-rest-for-the-weary.json) |
 | No Retreat! the Russian Front | 348867 | [348867-no-retreat-the-russian-front.json](./348867-no-retreat-the-russian-front.json) |
@@ -2439,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Meow Purroblem | 247539 | [247539-not-meow-purroblem.json](./247539-not-meow-purroblem.json) |
 | Not My Hand | 391744 | [391744-not-my-hand.json](./391744-not-my-hand.json) |
+| Not My Son | 405693 | [405693-not-my-son.json](./405693-not-my-son.json) |
 | Not My War | 377669 | [377669-not-my-war.json](./377669-not-my-war.json) |
 | Not Only Nine | 243672 | [243672-not-only-nine.json](./243672-not-only-nine.json) |
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
@@ -2612,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
 | Null Breach | 239151 | [239151-null-breach.json](./239151-null-breach.json) |
 | Null Event | 215788 | [215788-null-event.json](./215788-null-event.json) |
+| Null Kitchen Exception | 405734 | [405734-null-kitchen-exception.json](./405734-null-kitchen-exception.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
