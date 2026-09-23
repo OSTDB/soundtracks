@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Order | 73544 | [73544-out-of-order.json](./73544-out-of-order.json) |
 | Out of Order Zero | 377068 | [377068-out-of-order-zero.json](./377068-out-of-order-zero.json) |
 | Out of Ore: Mine Decoration Supporter Pack | 284881 | [284881-out-of-ore-mine-decoration-supporter-pack.json](./284881-out-of-ore-mine-decoration-supporter-pack.json) |
+| Out of Place: Origin | 376136 | [376136-out-of-place-origin.json](./376136-out-of-place-origin.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
 | Out of Range | 403204 | [403204-out-of-range.json](./403204-out-of-range.json) |
 | Out of Reach | 181805 | [181805-out-of-reach.json](./181805-out-of-reach.json) |
@@ -2107,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oyabu Clinic Deathcare Corporation | 244264 | [244264-oyabu-clinic-deathcare-corporation.json](./244264-oyabu-clinic-deathcare-corporation.json) |
 | Oyako de Manabu SDGs | 256269 | [256269-oyako-de-manabu-sdgs.json](./256269-oyako-de-manabu-sdgs.json) |
 | Oystron | 40734 | [40734-oystron.json](./40734-oystron.json) |
+| Oz | 376127 | [376127-oz.json](./376127-oz.json) |
 | Oz World | 186747 | [186747-oz-world.json](./186747-oz-world.json) |
 | Ozark | 151045 | [151045-ozark.json](./151045-ozark.json) |
 | Ozmafia!! 0 Reflexion | 254574 | [254574-ozmafia-0-reflexion.json](./254574-ozmafia-0-reflexion.json) |
