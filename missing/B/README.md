@@ -2748,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billgard | 329169 | [329169-billgard.json](./329169-billgard.json) |
 | Billiard Japonais | 92291 | [92291-billiard-japonais.json](./92291-billiard-japonais.json) |
 | Billiard: VR | 30197 | [30197-billiard-vr.json](./30197-billiard-vr.json) |
+| Billiards | 362425 | [362425-billiards.json](./362425-billiards.json) |
 | Billiards Champ 3D | 146731 | [146731-billiards-champ-3d.json](./146731-billiards-champ-3d.json) |
 | Billiards Dungeon | 149079 | [149079-billiards-dungeon.json](./149079-billiards-dungeon.json) |
 | Billiards II Simulator | 14305 | [14305-billiards-ii-simulator.json](./14305-billiards-ii-simulator.json) |
@@ -2811,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Beavers: Kitchen | 298035 | [298035-bingo-beavers-kitchen.json](./298035-bingo-beavers-kitchen.json) |
 | Bingo Betty | 377081 | [377081-bingo-betty.json](./377081-bingo-betty.json) |
 | Bingo Blitz️ | 181306 | [181306-bingo-blitz.json](./181306-bingo-blitz.json) |
+| Bingo Bugglebee Presents: Home Alone | 362426 | [362426-bingo-bugglebee-presents-home-alone.json](./362426-bingo-bugglebee-presents-home-alone.json) |
 | Bingo Caller Machine | 88150 | [88150-bingo-caller-machine.json](./88150-bingo-caller-machine.json) |
 | Bingo Christmas: Holiday Bingo | 88213 | [88213-bingo-christmas-holiday-bingo.json](./88213-bingo-christmas-holiday-bingo.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
@@ -3753,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block'hood VR | 98989 | [98989-blockhood-vr.json](./98989-blockhood-vr.json) |
 | Block+Hole | 366424 | [366424-block-hole.json](./366424-block-hole.json) |
 | Blockade | 116295 | [116295-blockade.json](./116295-blockade.json) |
+| Blockade | 362428 | [362428-blockade.json](./362428-blockade.json) |
 | Blockade Runner | 23864 | [23864-blockade-runner.json](./23864-blockade-runner.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
 | Blockade Runner | 397236 | [397236-blockade-runner.json](./397236-blockade-runner.json) |
@@ -4116,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Oath | 411791 | [411791-blue-oath.json](./411791-blue-oath.json) |
 | Blue Omen Operation | 76237 | [76237-blue-omen-operation.json](./76237-blue-omen-operation.json) |
 | Blue Portals | 219156 | [219156-blue-portals.json](./219156-blue-portals.json) |
+| Blue Powder Grey Smoke | 362429 | [362429-blue-powder-grey-smoke.json](./362429-blue-powder-grey-smoke.json) |
 | Blue rabbit a world of shapes and lost colors | 195263 | [195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json](./195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json) |
 | Blue Reflection | 396236 | [396236-blue-reflection.json](./396236-blue-reflection.json) |
 | Blue Reflection Quartet | 396199 | [396199-blue-reflection-quartet.json](./396199-blue-reflection-quartet.json) |
@@ -4388,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoltHalt | 120785 | [120785-bolthalt.json](./120785-bolthalt.json) |
 | Bolty | 184579 | [184579-bolty.json](./184579-bolty.json) |
 | Boltzmann Brain | 95211 | [95211-boltzmann-brain.json](./95211-boltzmann-brain.json) |
+| Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
@@ -4444,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
+| Bomber Run | 362432 | [362432-bomber-run.json](./362432-bomber-run.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
 | Bomber's Run | 184989 | [184989-bombers-run.json](./184989-bombers-run.json) |
 | Bomberball | 392144 | [392144-bomberball.json](./392144-bomberball.json) |
@@ -4803,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots n' Bugs | 183979 | [183979-bots-n-bugs.json](./183979-bots-n-bugs.json) |
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
 | Bots!! | 175926 | [175926-bots.json](./175926-bots.json) |
+| Botticelli | 362434 | [362434-botticelli.json](./362434-botticelli.json) |
 | Bottle | 36488 | [36488-bottle.json](./36488-bottle.json) |
 | Bottle Can Float | 272826 | [272826-bottle-can-float.json](./272826-bottle-can-float.json) |
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
@@ -5232,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravo Romeo Delta | 14344 | [14344-bravo-romeo-delta.json](./14344-bravo-romeo-delta.json) |
 | Bravo Team | 37143 | [37143-bravo-team.json](./37143-bravo-team.json) |
 | Bravo, Gaspar! | 399163 | [399163-bravo-gaspar.json](./399163-bravo-gaspar.json) |
+| Bravo! | 362438 | [362438-bravo.json](./362438-bravo.json) |
 | Bravoman: Binja Bash! | 63290 | [63290-bravoman-binja-bash.json](./63290-bravoman-binja-bash.json) |
 | Brawl Arena Shooter | 414385 | [414385-brawl-arena-shooter.json](./414385-brawl-arena-shooter.json) |
 | Brawl Boys | 234354 | [234354-brawl-boys.json](./234354-brawl-boys.json) |
@@ -5470,6 +5478,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge | 55105 | [55105-bridge.json](./55105-bridge.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
 | Bridge 2000 | 12408 | [12408-bridge-2000.json](./12408-bridge-2000.json) |
+| Bridge 4.0 | 362440 | [362440-bridge-4-0.json](./362440-bridge-4-0.json) |
+| Bridge 5.0 | 362441 | [362441-bridge-5-0.json](./362441-bridge-5-0.json) |
 | Bridge Builder | 50121 | [50121-bridge-builder.json](./50121-bridge-builder.json) |
 | Bridge Champion with Omar Sharif | 148390 | [148390-bridge-champion-with-omar-sharif.json](./148390-bridge-champion-with-omar-sharif.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
@@ -5486,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
 | Bridge Hunter | 260167 | [260167-bridge-hunter.json](./260167-bridge-hunter.json) |
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
+| Bridge Master with Terence Reese | 362444 | [362444-bridge-master-with-terence-reese.json](./362444-bridge-master-with-terence-reese.json) |
 | Bridge Strike | 124035 | [124035-bridge-strike.json](./124035-bridge-strike.json) |
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Escape From Oz Collector's Edition | 104108 | [104108-bridge-to-another-world-escape-from-oz-collectors-edition.json](./104108-bridge-to-another-world-escape-from-oz-collectors-edition.json) |
@@ -5769,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
 | Bubble Bunny | 294840 | [294840-bubble-bunny.json](./294840-bubble-bunny.json) |
+| Bubble Burst | 362446 | [362446-bubble-burst.json](./362446-bubble-burst.json) |
 | Bubble Bust Extreme | 239341 | [239341-bubble-bust-extreme.json](./239341-bubble-bust-extreme.json) |
 | Bubble Cadence | 398360 | [398360-bubble-cadence.json](./398360-bubble-cadence.json) |
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
