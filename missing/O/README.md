@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
 | Ogora | 323936 | [323936-ogora.json](./323936-ogora.json) |
 | Ogre Battle Gaiden | 66085 | [66085-ogre-battle-gaiden.json](./66085-ogre-battle-gaiden.json) |
+| Ogre Chambers 2222 | 369740 | [369740-ogre-chambers-2222.json](./369740-ogre-chambers-2222.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
 | Ogu and the Secret Forest | 200923 | [200923-ogu-and-the-secret-forest.json](./200923-ogu-and-the-secret-forest.json) |
 | Ogu and the Secret Forest: Winter Festival Blast | 376697 | [376697-ogu-and-the-secret-forest-winter-festival-blast.json](./376697-ogu-and-the-secret-forest-winter-festival-blast.json) |
