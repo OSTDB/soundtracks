@@ -4300,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
 | Don't Fall | 140024 | [140024-dont-fall.json](./140024-dont-fall.json) |
 | Don't Fall | 266312 | [266312-dont-fall.json](./266312-dont-fall.json) |
+| Don't Fall | 348942 | [348942-dont-fall.json](./348942-dont-fall.json) |
 | Don't Fear the Sweeper | 68638 | [68638-dont-fear-the-sweeper.json](./68638-dont-fear-the-sweeper.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
@@ -5257,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Sisters | 43265 | [43265-dragon-sisters.json](./43265-dragon-sisters.json) |
 | Dragon Slayer | 293747 | [293747-dragon-slayer.json](./293747-dragon-slayer.json) |
 | Dragon Slayer | 80519 | [80519-dragon-slayer.json](./80519-dragon-slayer.json) |
+| Dragon Slayer and The Leaf Town | 348966 | [348966-dragon-slayer-and-the-leaf-town.json](./348966-dragon-slayer-and-the-leaf-town.json) |
 | Dragon Slayer Chronicle | 112155 | [112155-dragon-slayer-chronicle.json](./112155-dragon-slayer-chronicle.json) |
 | Dragon Slayer I | 344961 | [344961-dragon-slayer-i.json](./344961-dragon-slayer-i.json) |
 | Dragon Slayers | 123012 | [123012-dragon-slayers.json](./123012-dragon-slayers.json) |
@@ -5393,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
+| Draw & Guess Multiplayer | 348948 | [348948-draw-and-guess-multiplayer.json](./348948-draw-and-guess-multiplayer.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
@@ -5753,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
 | Drill Rift | 355128 | [355128-drill-rift.json](./355128-drill-rift.json) |
 | Drill Space | 341037 | [341037-drill-space.json](./341037-drill-space.json) |
+| Drill Up | 348945 | [348945-drill-up.json](./348945-drill-up.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
 | Drillmin | 186198 | [186198-drillmin.json](./186198-drillmin.json) |
 | Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
