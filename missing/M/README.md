@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
 | Mermaidio 3 | 229077 | [229077-mermaidio-3.json](./229077-mermaidio-3.json) |
+| Mermeows - Chill Cat Mermaids | 371459 | [371459-mermeows-chill-cat-mermaids.json](./371459-mermeows-chill-cat-mermaids.json) |
 | Merriam-Webster Spell Jam | 69287 | [69287-merriam-webster-spell-jam.json](./69287-merriam-webster-spell-jam.json) |
 | Merrily Perilly | 104028 | [104028-merrily-perilly.json](./104028-merrily-perilly.json) |
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
@@ -4458,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
 | Minoes | 133250 | [133250-minoes.json](./133250-minoes.json) |
+| Minor Deity | 371478 | [371478-minor-deity.json](./371478-minor-deity.json) |
 | Minor Miner: Mining Action | 232035 | [232035-minor-miner-mining-action.json](./232035-minor-miner-mining-action.json) |
 | Minoria | 110121 | [110121-minoria.json](./110121-minoria.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
@@ -5817,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphology | 185075 | [185075-morphology.json](./185075-morphology.json) |
 | Morphscape: The Stylized Prop Pursuit | 301833 | [301833-morphscape-the-stylized-prop-pursuit.json](./301833-morphscape-the-stylized-prop-pursuit.json) |
 | Morra | 246472 | [246472-morra.json](./246472-morra.json) |
+| Morra 3D | 371474 | [371474-morra-3d.json](./371474-morra-3d.json) |
 | Morrigan's Isle | 324876 | [324876-morrigans-isle.json](./324876-morrigans-isle.json) |
 | Morris Cave | 213448 | [213448-morris-cave.json](./213448-morris-cave.json) |
 | Morrok | 250974 | [250974-morrok.json](./250974-morrok.json) |
