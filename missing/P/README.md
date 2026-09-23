@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
 | Pirate Flight | 100601 | [100601-pirate-flight.json](./100601-pirate-flight.json) |
 | Pirate Ghost Ship | 390793 | [390793-pirate-ghost-ship.json](./390793-pirate-ghost-ship.json) |
+| Pirate Go: Bravo | 348445 | [348445-pirate-go-bravo.json](./348445-pirate-go-bravo.json) |
 | Pirate Gold | 92460 | [92460-pirate-gold.json](./92460-pirate-gold.json) |
 | Pirate Guy | 363429 | [363429-pirate-guy.json](./363429-pirate-guy.json) |
 | Pirate Hunter | 62695 | [62695-pirate-hunter.json](./62695-pirate-hunter.json) |
@@ -3678,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo3D | 259015 | [259015-pogo3d.json](./259015-pogo3d.json) |
 | Pogoduck | 243965 | [243965-pogoduck.json](./243965-pogoduck.json) |
 | Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
+| Pogs: Power of Golden Slammer | 348430 | [348430-pogs-power-of-golden-slammer.json](./348430-pogs-power-of-golden-slammer.json) |
 | Pogui | 379056 | [379056-pogui.json](./379056-pogui.json) |
 | Pohinki Simulator | 333623 | [333623-pohinki-simulator.json](./333623-pohinki-simulator.json) |
 | Pohmielisko | 372114 | [372114-pohmielisko.json](./372114-pohmielisko.json) |
@@ -6321,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
 | Puzzle Collection: Complete Edition | 225760 | [225760-puzzle-collection-complete-edition.json](./225760-puzzle-collection-complete-edition.json) |
 | Puzzle Collection: New Pieces | 226317 | [226317-puzzle-collection-new-pieces.json](./226317-puzzle-collection-new-pieces.json) |
+| Puzzle Company | 348441 | [348441-puzzle-company.json](./348441-puzzle-company.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
 | Puzzle Cube | 275146 | [275146-puzzle-cube.json](./275146-puzzle-cube.json) |
