@@ -1277,12 +1277,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GGX: Great Grandma Escape | 200124 | [200124-ggx-great-grandma-escape.json](./200124-ggx-great-grandma-escape.json) |
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
+| Ghastly Mask Shop | 391332 | [391332-ghastly-mask-shop.json](./391332-ghastly-mask-shop.json) |
 | Ghen War | 45526 | [45526-ghen-war.json](./45526-ghen-war.json) |
 | Ghetto Blaster | 47254 | [47254-ghetto-blaster.json](./47254-ghetto-blaster.json) |
 | Ghetto Conspiracy | 127366 | [127366-ghetto-conspiracy.json](./127366-ghetto-conspiracy.json) |
 | Ghetto Zombies: Graffiti Squad | 255711 | [255711-ghetto-zombies-graffiti-squad.json](./255711-ghetto-zombies-graffiti-squad.json) |
 | Ghost Battle | 78319 | [78319-ghost-battle.json](./78319-ghost-battle.json) |
 | Ghost Blade | 23442 | [23442-ghost-blade.json](./23442-ghost-blade.json) |
+| Ghost Blood | 391320 | [391320-ghost-blood.json](./391320-ghost-blood.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
 | Ghost Castle | 192821 | [192821-ghost-castle.json](./192821-ghost-castle.json) |
 | Ghost Catchers | 272294 | [272294-ghost-catchers.json](./272294-ghost-catchers.json) |
@@ -2896,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Angels Part 3: Payback | 229360 | [229360-gravity-angels-part-3-payback.json](./229360-gravity-angels-part-3-payback.json) |
 | Gravity Angels Part 4: Death Force | 229361 | [229361-gravity-angels-part-4-death-force.json](./229361-gravity-angels-part-4-death-force.json) |
 | Gravity Backpack | 278134 | [278134-gravity-backpack.json](./278134-gravity-backpack.json) |
+| Gravity Biker | 391325 | [391325-gravity-biker.json](./391325-gravity-biker.json) |
 | Gravity Blast | 231946 | [231946-gravity-blast.json](./231946-gravity-blast.json) |
 | Gravity Block | 164511 | [164511-gravity-block.json](./164511-gravity-block.json) |
 | Gravity Bone | 7962 | [7962-gravity-bone.json](./7962-gravity-bone.json) |
