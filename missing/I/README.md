@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
 | Inkub | 85192 | [85192-inkub.json](./85192-inkub.json) |
 | Inkubus Sukkubus: She of a Thousand Names | 244342 | [244342-inkubus-sukkubus-she-of-a-thousand-names.json](./244342-inkubus-sukkubus-she-of-a-thousand-names.json) |
+| Inkventure | 347326 | [347326-inkventure.json](./347326-inkventure.json) |
 | Inkwell | 376731 | [376731-inkwell.json](./376731-inkwell.json) |
 | Inkwellers | 333555 | [333555-inkwellers.json](./333555-inkwellers.json) |
 | Inky Caps Clash | 175428 | [175428-inky-caps-clash.json](./175428-inky-caps-clash.json) |
@@ -1686,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnia | 238747 | [238747-insomnia.json](./238747-insomnia.json) |
 | Insomnia | 278403 | [278403-insomnia.json](./278403-insomnia.json) |
 | Insomnia | 333572 | [333572-insomnia.json](./333572-insomnia.json) |
+| Insomnia | 346257 | [346257-insomnia.json](./346257-insomnia.json) |
 | Insomnia: Chapter One | 374258 | [374258-insomnia-chapter-one.json](./374258-insomnia-chapter-one.json) |
 | Insomnia: Theater in the Head | 216657 | [216657-insomnia-theater-in-the-head.json](./216657-insomnia-theater-in-the-head.json) |
 | Insomnis: Enhanced Edition | 198395 | [198395-insomnis-enhanced-edition.json](./198395-insomnis-enhanced-edition.json) |
