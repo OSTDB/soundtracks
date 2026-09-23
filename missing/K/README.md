@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred Fates | 129154 | [129154-kindred-fates.json](./129154-kindred-fates.json) |
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
+| Kindred: High Tide | 373210 | [373210-kindred-high-tide.json](./373210-kindred-high-tide.json) |
 | Kinduo 2: Frostbite | 263043 | [263043-kinduo-2-frostbite.json](./263043-kinduo-2-frostbite.json) |
 | Kinect Fun Labs | 22939 | [22939-kinect-fun-labs.json](./22939-kinect-fun-labs.json) |
 | Kinect Fun Labs: Air Band | 329731 | [329731-kinect-fun-labs-air-band.json](./329731-kinect-fun-labs-air-band.json) |
