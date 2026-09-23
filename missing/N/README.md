@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Worlds Part I | 308973 | [308973-no-mans-sky-worlds-part-i.json](./308973-no-mans-sky-worlds-part-i.json) |
 | No Man's Sky: Worlds Part II | 329714 | [329714-no-mans-sky-worlds-part-ii.json](./329714-no-mans-sky-worlds-part-ii.json) |
 | No Man's Sky: Xeno Arena | 397678 | [397678-no-mans-sky-xeno-arena.json](./397678-no-mans-sky-xeno-arena.json) |
+| No Mana, Just Dice | 389122 | [389122-no-mana-just-dice.json](./389122-no-mana-just-dice.json) |
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
 | No More Heroes III | 119387 | [119387-no-more-heroes-iii.json](./119387-no-more-heroes-iii.json) |
