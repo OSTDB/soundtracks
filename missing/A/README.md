@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Peace of Mind 4 | 377272 | [377272-aery-peace-of-mind-4.json](./377272-aery-peace-of-mind-4.json) |
 | Aery: Stone Age | 283895 | [283895-aery-stone-age.json](./283895-aery-stone-age.json) |
 | Aery: Surreal World | 411807 | [411807-aery-surreal-world.json](./411807-aery-surreal-world.json) |
+| Aery: Viking Saga | 364086 | [364086-aery-viking-saga.json](./364086-aery-viking-saga.json) |
 | Aeschylus: Death | 379564 | [379564-aeschylus-death.json](./379564-aeschylus-death.json) |
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
@@ -3109,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
 | Anime Freak FX Vol. 3 | 79354 | [79354-anime-freak-fx-vol-3.json](./79354-anime-freak-fx-vol-3.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
+| Anime Girl Kawaii High School Dress Up | 364073 | [364073-anime-girl-kawaii-high-school-dress-up.json](./364073-anime-girl-kawaii-high-school-dress-up.json) |
 | Anime Girl or Boy? | 108419 | [108419-anime-girl-or-boy.json](./108419-anime-girl-or-boy.json) |
 | Anime Girl Puzzles | 290910 | [290910-anime-girl-puzzles.json](./290910-anime-girl-puzzles.json) |
 | Anime Girl Puzzles: Akari | 297770 | [297770-anime-girl-puzzles-akari.json](./297770-anime-girl-puzzles-akari.json) |
@@ -3540,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aphelion | 348192 | [348192-aphelion.json](./348192-aphelion.json) |
 | Aphelion Episode One: Graves of Earth | 66398 | [66398-aphelion-episode-one-graves-of-earth.json](./66398-aphelion-episode-one-graves-of-earth.json) |
 | Aphrodite Evolve Weapons Survivor: Greek Gods Versus Heaven | 404261 | [404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json](./404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json) |
+| Aphrodite's Bathhouse | 364091 | [364091-aphrodites-bathhouse.json](./364091-aphrodites-bathhouse.json) |
 | Apico | 135929 | [135929-apico.json](./135929-apico.json) |
 | Apico 4.0: Hive of Industry | 330561 | [330561-apico-4-0-hive-of-industry.json](./330561-apico-4-0-hive-of-industry.json) |
 | Apidya | 11906 | [11906-apidya.json](./11906-apidya.json) |
@@ -3689,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
 | Aquapark io: Movie Stars DLC | 263526 | [263526-aquapark-io-movie-stars-dlc.json](./263526-aquapark-io-movie-stars-dlc.json) |
 | Aquapark io: Sweet and Spooky DLC | 263525 | [263525-aquapark-io-sweet-and-spooky-dlc.json](./263525-aquapark-io-sweet-and-spooky-dlc.json) |
+| Aquapark io: Sweet Edition | 364098 | [364098-aquapark-io-sweet-edition.json](./364098-aquapark-io-sweet-edition.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Aquaphobia | 46655 | [46655-aquaphobia.json](./46655-aquaphobia.json) |
 | Aquaplane | 94575 | [94575-aquaplane.json](./94575-aquaplane.json) |
@@ -3798,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Mouser | 411153 | [411153-arcade-archives-2-mouser.json](./411153-arcade-archives-2-mouser.json) |
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
 | Arcade Archives 2: Pinball Action | 413936 | [413936-arcade-archives-2-pinball-action.json](./413936-arcade-archives-2-pinball-action.json) |
+| Arcade Archives 2: Scrambled Egg | 364071 | [364071-arcade-archives-2-scrambled-egg.json](./364071-arcade-archives-2-scrambled-egg.json) |
 | Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
 | Arcade Archives 2: Touchdown Fever | 384203 | [384203-arcade-archives-2-touchdown-fever.json](./384203-arcade-archives-2-touchdown-fever.json) |
@@ -3880,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rygar | 109499 | [109499-arcade-archives-rygar.json](./109499-arcade-archives-rygar.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
 | Arcade Archives: Satan of Saturn | 416064 | [416064-arcade-archives-satan-of-saturn.json](./416064-arcade-archives-satan-of-saturn.json) |
+| Arcade Archives: Scrambled Egg | 364072 | [364072-arcade-archives-scrambled-egg.json](./364072-arcade-archives-scrambled-egg.json) |
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
 | Arcade Archives: Sky Kid DX | 240220 | [240220-arcade-archives-sky-kid-dx.json](./240220-arcade-archives-sky-kid-dx.json) |
@@ -5124,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
 | Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
+| Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
 | Astro Tripper | 16265 | [16265-astro-tripper.json](./16265-astro-tripper.json) |
 | Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
