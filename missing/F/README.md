@@ -27,6 +27,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-out | 291616 | [291616-f-out.json](./291616-f-out.json) |
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
 | F-Stop Museum | 362288 | [362288-f-stop-museum.json](./362288-f-stop-museum.json) |
+| F-Stop: Backstory | 362479 | [362479-f-stop-backstory.json](./362479-f-stop-backstory.json) |
+| F-Stop: Reissue | 362475 | [362475-f-stop-reissue.json](./362475-f-stop-reissue.json) |
 | F-Team | 211803 | [211803-f-team.json](./211803-f-team.json) |
 | F-Zero | 3490 | [3490-f-zero.json](./3490-f-zero.json) |
 | F-Zero Climax | 6400 | [6400-f-zero-climax.json](./6400-f-zero-climax.json) |
