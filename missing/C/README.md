@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Age HD | 109065 | [109065-castle-age-hd.json](./109065-castle-age-hd.json) |
 | Castle Battles | 29997 | [29997-castle-battles.json](./29997-castle-battles.json) |
 | Castle Bloodstone | 353905 | [353905-castle-bloodstone.json](./353905-castle-bloodstone.json) |
+| Castle Cairn | 376098 | [376098-castle-cairn.json](./376098-castle-cairn.json) |
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
@@ -1124,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Grimholt | 142252 | [142252-castle-grimholt.json](./142252-castle-grimholt.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle Hero | 327420 | [327420-castle-hero.json](./327420-castle-hero.json) |
+| Castle Idler | 376112 | [376112-castle-idler.json](./376112-castle-idler.json) |
 | Castle in the Darkness II | 127028 | [127028-castle-in-the-darkness-ii.json](./127028-castle-in-the-darkness-ii.json) |
 | Castle in the Sands | 404818 | [404818-castle-in-the-sands.json](./404818-castle-in-the-sands.json) |
 | Castle Infinity | 63576 | [63576-castle-infinity.json](./63576-castle-infinity.json) |
@@ -6761,6 +6763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cura | 287792 | [287792-cura.json](./287792-cura.json) |
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
+| Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
 | Curiosaurios Club: Un Viaje Espacial | 147375 | [147375-curiosaurios-club-un-viaje-espacial.json](./147375-curiosaurios-club-un-viaje-espacial.json) |
 | Curiosity | 108949 | [108949-curiosity.json](./108949-curiosity.json) |
 | Curiosity | 318392 | [318392-curiosity.json](./318392-curiosity.json) |
