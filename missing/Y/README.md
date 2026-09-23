@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Have One Shot | 390120 | [390120-you-have-one-shot.json](./390120-you-have-one-shot.json) |
 | You Have to Go to Work | 176421 | [176421-you-have-to-go-to-work.json](./176421-you-have-to-go-to-work.json) |
 | You Know The Drill | 322212 | [322212-you-know-the-drill.json](./322212-you-know-the-drill.json) |
+| You Make the Game | 342878 | [342878-you-make-the-game.json](./342878-you-make-the-game.json) |
 | You Make The Game | 377138 | [377138-you-make-the-game.json](./377138-you-make-the-game.json) |
 | You May | 229709 | [229709-you-may.json](./229709-you-may.json) |
 | Yóu Mèng Zhèng: Dreamfarer | 394196 | [394196-you-meng-zheng-dreamfarer.json](./394196-you-meng-zheng-dreamfarer.json) |
