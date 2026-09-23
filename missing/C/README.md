@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain's Call | 403130 | [403130-captains-call.json](./403130-captains-call.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
 | Captive Love Melty Holic | 416078 | [416078-captive-love-melty-holic.json](./416078-captive-love-melty-holic.json) |
+| CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture | 72369 | [72369-capture.json](./72369-capture.json) |
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
@@ -4270,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Home: Premium Edition | 238762 | [238762-come-home-premium-edition.json](./238762-come-home-premium-edition.json) |
 | Come Home. | 203971 | [203971-come-home.json](./203971-come-home.json) |
 | Come Inside My Inner World | 156615 | [156615-come-inside-my-inner-world.json](./156615-come-inside-my-inner-world.json) |
+| Come on in! Succubus-san: I'll Have Your Semen Tonight, too Hungry Mere Squeezes Out Your Semen | 385838 | [385838-come-on-in-succubus-san-ill-have-your-semen-tonight-too-hungry-mere-squeezes-out-your-semen.json](./385838-come-on-in-succubus-san-ill-have-your-semen-tonight-too-hungry-mere-squeezes-out-your-semen.json) |
 | Come on Kitty | 214521 | [214521-come-on-kitty.json](./214521-come-on-kitty.json) |
 | Come on Picot | 47559 | [47559-come-on-picot.json](./47559-come-on-picot.json) |
 | Come Out, Cat | 363947 | [363947-come-out-cat.json](./363947-come-out-cat.json) |
@@ -5389,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabling | 244904 | [244904-crabling.json](./244904-crabling.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
 | Crabs | 362816 | [362816-crabs.json](./362816-crabs.json) |
+| Crabs Dive In Crossway | 385830 | [385830-crabs-dive-in-crossway.json](./385830-crabs-dive-in-crossway.json) |
 | Crabs Must Die! | 373019 | [373019-crabs-must-die.json](./373019-crabs-must-die.json) |
 | Crabs! | 179118 | [179118-crabs.json](./179118-crabs.json) |
 | Crack a Bottle | 87220 | [87220-crack-a-bottle.json](./87220-crack-a-bottle.json) |
@@ -7046,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberside Picnic | 252249 | [252249-cyberside-picnic.json](./252249-cyberside-picnic.json) |
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
 | Cybersonic Strike | 258538 | [258538-cybersonic-strike.json](./258538-cybersonic-strike.json) |
+| Cybersoul: Cosmic Resonance | 385864 | [385864-cybersoul-cosmic-resonance.json](./385864-cybersoul-cosmic-resonance.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
 | Cyberstrike | 22809 | [22809-cyberstrike.json](./22809-cyberstrike.json) |
