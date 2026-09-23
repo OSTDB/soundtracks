@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanba Warriors: Character Pack 1 | 170992 | [170992-wanba-warriors-character-pack-1.json](./170992-wanba-warriors-character-pack-1.json) |
 | Wanba Warriors: Character Pack 2 | 170994 | [170994-wanba-warriors-character-pack-2.json](./170994-wanba-warriors-character-pack-2.json) |
 | Wanba Warriors: Character Pack 3 | 170993 | [170993-wanba-warriors-character-pack-3.json](./170993-wanba-warriors-character-pack-3.json) |
+| Wand Mart | 371451 | [371451-wand-mart.json](./371451-wand-mart.json) |
 | Wand of Fortune 2 FD: Kimi ni Sasageru Epilogue | 219130 | [219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json](./219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json) |
 | Wand of Fortune 2: Jikuu ni Shizumu Mokushiroku | 219129 | [219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json](./219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json) |
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
@@ -1240,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WetBread | 222934 | [222934-wetbread.json](./222934-wetbread.json) |
 | Wetpants | 121471 | [121471-wetpants.json](./121471-wetpants.json) |
 | Wetrix | 3637 | [3637-wetrix.json](./3637-wetrix.json) |
+| Wetter | 371477 | [371477-wetter.json](./371477-wetter.json) |
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
 | Wetware | 142259 | [142259-wetware.json](./142259-wetware.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
@@ -3160,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckfest: Vehicle Bundle 1 | 208051 | [208051-wreckfest-vehicle-bundle-1.json](./208051-wreckfest-vehicle-bundle-1.json) |
 | Wreckfest: Vehicle Bundle 2 | 208052 | [208052-wreckfest-vehicle-bundle-2.json](./208052-wreckfest-vehicle-bundle-2.json) |
 | Wreckin Ball Adventure | 112364 | [112364-wreckin-ball-adventure.json](./112364-wreckin-ball-adventure.json) |
+| Wreckin' Raccoon | 371475 | [371475-wreckin-raccoon.json](./371475-wreckin-raccoon.json) |
 | Wrecking Ball | 73514 | [73514-wrecking-ball.json](./73514-wrecking-ball.json) |
 | Wrecking Crew | 41420 | [41420-wrecking-crew.json](./41420-wrecking-crew.json) |
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
