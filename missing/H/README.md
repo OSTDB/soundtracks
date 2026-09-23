@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
 | Helwyr | 148551 | [148551-helwyr.json](./148551-helwyr.json) |
+| Hemomancer | 357413 | [357413-hemomancer.json](./357413-hemomancer.json) |
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
 | Hen, Chicks and Cats | 204428 | [204428-hen-chicks-and-cats.json](./204428-hen-chicks-and-cats.json) |
 | Henbou no Bansan | 98439 | [98439-henbou-no-bansan.json](./98439-henbou-no-bansan.json) |
@@ -2037,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
 | Hero Hunters: Jurassic Shooting Sniper | 104069 | [104069-hero-hunters-jurassic-shooting-sniper.json](./104069-hero-hunters-jurassic-shooting-sniper.json) |
+| Hero in an All-forgiving Fantasy World RPG | 357423 | [357423-hero-in-an-all-forgiving-fantasy-world-rpg.json](./357423-hero-in-an-all-forgiving-fantasy-world-rpg.json) |
 | Hero in the Castle of Doom | 40173 | [40173-hero-in-the-castle-of-doom.json](./40173-hero-in-the-castle-of-doom.json) |
 | Hero Like | 396188 | [396188-hero-like.json](./396188-hero-like.json) |
 | Hero Lodge | 186815 | [186815-hero-lodge.json](./186815-hero-lodge.json) |
