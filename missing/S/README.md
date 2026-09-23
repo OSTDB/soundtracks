@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Defender: Ninja Warfare | 104127 | [104127-samurai-defender-ninja-warfare.json](./104127-samurai-defender-ninja-warfare.json) |
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
 | Samurai Forge | 51972 | [51972-samurai-forge.json](./51972-samurai-forge.json) |
+| Samurai Frog | 359058 | [359058-samurai-frog.json](./359058-samurai-frog.json) |
 | Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
 | Samurai Heroes | 373189 | [373189-samurai-heroes.json](./373189-samurai-heroes.json) |
 | Samurai Jack: Battle Through Time | 131687 | [131687-samurai-jack-battle-through-time.json](./131687-samurai-jack-battle-through-time.json) |
@@ -3502,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek the Third: Arthur's School Day Adventure | 72995 | [72995-shrek-the-third-arthurs-school-day-adventure.json](./72995-shrek-the-third-arthurs-school-day-adventure.json) |
 | Shrek: Fairy Tale Freakdown | 18576 | [18576-shrek-fairy-tale-freakdown.json](./18576-shrek-fairy-tale-freakdown.json) |
 | Shrek: Fire Donkey | 229066 | [229066-shrek-fire-donkey.json](./229066-shrek-fire-donkey.json) |
+| Shrek: The Forbidden Onion | 359043 | [359043-shrek-the-forbidden-onion.json](./359043-shrek-the-forbidden-onion.json) |
 | Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
 | Shriddle | 143006 | [143006-shriddle.json](./143006-shriddle.json) |
 | Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
@@ -7015,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Core | 103869 | [103869-space-core.json](./103869-space-core.json) |
 | Space Court | 137684 | [137684-space-court.json](./137684-space-court.json) |
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
+| Space Cowboy Radio | 359049 | [359049-space-cowboy-radio.json](./359049-space-cowboy-radio.json) |
 | Space Crafter | 291585 | [291585-space-crafter.json](./291585-space-crafter.json) |
 | Space Crawl | 55465 | [55465-space-crawl.json](./55465-space-crawl.json) |
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
@@ -9664,6 +9667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
 | Steven Universe: Tap Together | 106958 | [106958-steven-universe-tap-together.json](./106958-steven-universe-tap-together.json) |
 | Steven: The Jumpmaker | 57318 | [57318-steven-the-jumpmaker.json](./57318-steven-the-jumpmaker.json) |
+| Steventon Street: Deluxe Edition | 359069 | [359069-steventon-street-deluxe-edition.json](./359069-steventon-street-deluxe-edition.json) |
 | Stevo Life | 341016 | [341016-stevo-life.json](./341016-stevo-life.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
 | Sthell | 152768 | [152768-sthell.json](./152768-sthell.json) |
@@ -12231,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket 3D Tycoon Buisness Simulator | 316241 | [316241-supermarket-3d-tycoon-buisness-simulator.json](./316241-supermarket-3d-tycoon-buisness-simulator.json) |
 | Supermarket 3D Tycoon Business Simulator | 317231 | [317231-supermarket-3d-tycoon-business-simulator.json](./317231-supermarket-3d-tycoon-business-simulator.json) |
 | Supermarket Bash | 296507 | [296507-supermarket-bash.json](./296507-supermarket-bash.json) |
+| Supermarket Billionaire | 359083 | [359083-supermarket-billionaire.json](./359083-supermarket-billionaire.json) |
 | Supermarket CEO Simulator | 335949 | [335949-supermarket-ceo-simulator.json](./335949-supermarket-ceo-simulator.json) |
 | Supermarket CEO Simulator VR | 335950 | [335950-supermarket-ceo-simulator-vr.json](./335950-supermarket-ceo-simulator-vr.json) |
 | Supermarket Cola Dash Classic | 374666 | [374666-supermarket-cola-dash-classic.json](./374666-supermarket-cola-dash-classic.json) |
