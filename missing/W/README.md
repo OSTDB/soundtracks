@@ -2230,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Heart: Bonus Stage | 252721 | [252721-witchs-heart-bonus-stage.json](./252721-witchs-heart-bonus-stage.json) |
 | Witch’s Lewd Curse | 367053 | [367053-witch-s-lewd-curse.json](./367053-witch-s-lewd-curse.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
+| Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
 | Witchaven I & II Bundle | 159696 | [159696-witchaven-i-and-ii-bundle.json](./159696-witchaven-i-and-ii-bundle.json) |
 | Witchball | 81788 | [81788-witchball.json](./81788-witchball.json) |
