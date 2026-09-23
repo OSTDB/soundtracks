@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
 | Game Tycoon 1.5 | 16964 | [16964-game-tycoon-1-5.json](./16964-game-tycoon-1-5.json) |
 | Game Type DX | 208040 | [208040-game-type-dx.json](./208040-game-type-dx.json) |
+| Game With Balls | 356839 | [356839-game-with-balls.json](./356839-game-with-balls.json) |
 | Game with Car | 192895 | [192895-game-with-car.json](./192895-game-with-car.json) |
 | Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
 | Game-Pac | 319582 | [319582-game-pac.json](./319582-game-pac.json) |
@@ -2412,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Bear | 219803 | [219803-good-bear.json](./219803-good-bear.json) |
 | Good Boy | 229329 | [229329-good-boy.json](./229329-good-boy.json) |
 | Good Boy 2 | 229330 | [229330-good-boy-2.json](./229330-good-boy-2.json) |
+| Good Boy The Long Night | 356888 | [356888-good-boy-the-long-night.json](./356888-good-boy-the-long-night.json) |
 | Good Boy! | 99629 | [99629-good-boy.json](./99629-good-boy.json) |
 | Good Bye Rebeca | 151573 | [151573-good-bye-rebeca.json](./151573-good-bye-rebeca.json) |
 | Good Children Say Grace | 404251 | [404251-good-children-say-grace.json](./404251-good-children-say-grace.json) |
