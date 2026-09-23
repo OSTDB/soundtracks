@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Flames | 107933 | [107933-whispering-flames.json](./107933-whispering-flames.json) |
 | Whispering Green | 416838 | [416838-whispering-green.json](./416838-whispering-green.json) |
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
+| Whispering Stacks | 348429 | [348429-whispering-stacks.json](./348429-whispering-stacks.json) |
 | Whispering Willows | 9369 | [9369-whispering-willows.json](./9369-whispering-willows.json) |
 | Whispers | 25335 | [25335-whispers.json](./25335-whispers.json) |
 | Whispers | 299154 | [299154-whispers.json](./299154-whispers.json) |
