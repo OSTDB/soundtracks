@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Fleet 2 | 36182 | [36182-battle-fleet-2.json](./36182-battle-fleet-2.json) |
 | Battle Flip Shot | 39667 | [39667-battle-flip-shot.json](./39667-battle-flip-shot.json) |
 | Battle for Atlantis | 341135 | [341135-battle-for-atlantis.json](./341135-battle-for-atlantis.json) |
+| Battle for Cloud 9 | 337285 | [337285-battle-for-cloud-9.json](./337285-battle-for-cloud-9.json) |
 | Battle For Dream Island Again 5b | 138011 | [138011-battle-for-dream-island-again-5b.json](./138011-battle-for-dream-island-again-5b.json) |
 | Battle for Graxia | 50814 | [50814-battle-for-graxia.json](./50814-battle-for-graxia.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
@@ -4111,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom for Me | 358327 | [358327-bloom-for-me.json](./358327-bloom-for-me.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
 | Bloom: Memories | 61558 | [61558-bloom-memories.json](./61558-bloom-memories.json) |
+| Bloom! Valentine's Edition | 337261 | [337261-bloom-valentines-edition.json](./337261-bloom-valentines-edition.json) |
 | Bloomblebee | 175989 | [175989-bloomblebee.json](./175989-bloomblebee.json) |
 | Bloomed Ghoul | 391154 | [391154-bloomed-ghoul.json](./391154-bloomed-ghoul.json) |
 | Bloomee | 164894 | [164894-bloomee.json](./164894-bloomee.json) |
@@ -5082,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Heap | 233523 | [233523-box-heap.json](./233523-box-heap.json) |
 | Box Hustle | 369747 | [369747-box-hustle.json](./369747-box-hustle.json) |
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
+| Box King | 337297 | [337297-box-king.json](./337297-box-king.json) |
 | Box Maze | 31758 | [31758-box-maze.json](./31758-box-maze.json) |
 | Box Maze Extreme | 95197 | [95197-box-maze-extreme.json](./95197-box-maze-extreme.json) |
 | Box of Limes | 182996 | [182996-box-of-limes.json](./182996-box-of-limes.json) |
