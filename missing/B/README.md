@@ -3884,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Island | 227916 | [227916-blood-island.json](./227916-blood-island.json) |
 | Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
+| Blood Lily: Killers Can't Sink a Yuri Ship | 360199 | [360199-blood-lily-killers-cant-sink-a-yuri-ship.json](./360199-blood-lily-killers-cant-sink-a-yuri-ship.json) |
 | Blood Mall: Part II | 380553 | [380553-blood-mall-part-ii.json](./380553-blood-mall-part-ii.json) |
 | Blood Maniac | 125265 | [125265-blood-maniac.json](./125265-blood-maniac.json) |
 | Blood Memery | 114948 | [114948-blood-memery.json](./114948-blood-memery.json) |
