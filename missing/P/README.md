@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller: Recurring Evil | 1839 | [1839-painkiller-recurring-evil.json](./1839-painkiller-recurring-evil.json) |
 | Painkiller: Redemption | 1838 | [1838-painkiller-redemption.json](./1838-painkiller-redemption.json) |
 | Painkiller: Special Edition | 317426 | [317426-painkiller-special-edition.json](./317426-painkiller-special-edition.json) |
+| Painkiller++ | 362469 | [362469-painkiller.json](./362469-painkiller.json) |
 | PainStation | 175901 | [175901-painstation.json](./175901-painstation.json) |
 | Paint | 260171 | [260171-paint.json](./260171-paint.json) |
 | Paint Ball | 397656 | [397656-paint-ball.json](./397656-paint-ball.json) |
@@ -4988,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Ball: Full Blown - Toxik Karess | 167222 | [167222-prison-ball-full-blown-toxik-karess.json](./167222-prison-ball-full-blown-toxik-karess.json) |
 | Prison Ball: Full Blown - Vast Shadows | 167217 | [167217-prison-ball-full-blown-vast-shadows.json](./167217-prison-ball-full-blown-vast-shadows.json) |
 | Prison Boss VR | 55474 | [55474-prison-boss-vr.json](./55474-prison-boss-vr.json) |
+| Prison Boss: Prohibition - Plucked Pack | 362488 | [362488-prison-boss-prohibition-plucked-pack.json](./362488-prison-boss-prohibition-plucked-pack.json) |
 | Prison Break | 110781 | [110781-prison-break.json](./110781-prison-break.json) |
 | Prison Break | 353368 | [353368-prison-break.json](./353368-prison-break.json) |
 | Prison Chainball Massacre | 75170 | [75170-prison-chainball-massacre.json](./75170-prison-chainball-massacre.json) |
@@ -5289,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
+| Project Capture: Legacy | 362486 | [362486-project-capture-legacy.json](./362486-project-capture-legacy.json) |
 | Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
 | Project CARS 2: Deluxe Edition | 53479 | [53479-project-cars-2-deluxe-edition.json](./53479-project-cars-2-deluxe-edition.json) |
 | Project CARS: Aston Martin Track Expansion | 120193 | [120193-project-cars-aston-martin-track-expansion.json](./120193-project-cars-aston-martin-track-expansion.json) |
