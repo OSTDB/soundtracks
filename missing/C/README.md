@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadenza: Music, Betrayal and Death - Collector's Edition | 36465 | [36465-cadenza-music-betrayal-and-death-collectors-edition.json](./36465-cadenza-music-betrayal-and-death-collectors-edition.json) |
 | Cadenza: The Kiss of Death | 88811 | [88811-cadenza-the-kiss-of-death.json](./88811-cadenza-the-kiss-of-death.json) |
 | Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
+| Cadmium Red | 364694 | [364694-cadmium-red.json](./364694-cadmium-red.json) |
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
 | Caduca | 412969 | [412969-caduca.json](./412969-caduca.json) |
 | Caduceus | 186190 | [186190-caduceus.json](./186190-caduceus.json) |
@@ -2201,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
 | Chemical Cubes | 62698 | [62698-chemical-cubes.json](./62698-chemical-cubes.json) |
 | Chemical Existence | 222305 | [222305-chemical-existence.json](./222305-chemical-existence.json) |
+| Chemical Plant Worker Simulator | 364712 | [364712-chemical-plant-worker-simulator.json](./364712-chemical-plant-worker-simulator.json) |
 | Chemist Tycoon | 66959 | [66959-chemist-tycoon.json](./66959-chemist-tycoon.json) |
 | Chemistry World | 207333 | [207333-chemistry-world.json](./207333-chemistry-world.json) |
 | Cheney Wood the Ultimate Revenge | 111499 | [111499-cheney-wood-the-ultimate-revenge.json](./111499-cheney-wood-the-ultimate-revenge.json) |
@@ -4333,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Babies | 167811 | [167811-combo-babies.json](./167811-combo-babies.json) |
 | Combo Fishing | 340206 | [340206-combo-fishing.json](./340206-combo-fishing.json) |
 | Combo Haven | 287212 | [287212-combo-haven.json](./287212-combo-haven.json) |
+| Combo Master | 364711 | [364711-combo-master.json](./364711-combo-master.json) |
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
 | Combotronica | 373093 | [373093-combotronica.json](./373093-combotronica.json) |
 | Come Back: Chapter 1 | 120426 | [120426-come-back-chapter-1.json](./120426-come-back-chapter-1.json) |
@@ -6873,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
 | Cursed Blocks | 146708 | [146708-cursed-blocks.json](./146708-cursed-blocks.json) |
 | Cursed Bloodline | 338253 | [338253-cursed-bloodline.json](./338253-cursed-bloodline.json) |
+| Cursed by Feedback | 364666 | [364666-cursed-by-feedback.json](./364666-cursed-by-feedback.json) |
 | Cursed Cargo | 394329 | [394329-cursed-cargo.json](./394329-cursed-cargo.json) |
 | Cursed Castilla | 288182 | [288182-cursed-castilla.json](./288182-cursed-castilla.json) |
 | Cursed Castle DX | 365765 | [365765-cursed-castle-dx.json](./365765-cursed-castle-dx.json) |
