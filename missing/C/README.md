@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
 | Captured | 312193 | [312193-captured.json](./312193-captured.json) |
 | Captured | 413918 | [413918-captured.json](./413918-captured.json) |
+| Captured 2 | 340031 | [340031-captured-2.json](./340031-captured-2.json) |
 | Captured Nao: Final | 97835 | [97835-captured-nao-final.json](./97835-captured-nao-final.json) |
 | Captured Nao: Sexual Violation | 97842 | [97842-captured-nao-sexual-violation.json](./97842-captured-nao-sexual-violation.json) |
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine: Full Body - Dynamite Full Body Box | 136282 | [136282-catherine-full-body-dynamite-full-body-box.json](./136282-catherine-full-body-dynamite-full-body-box.json) |
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
 | Cathode Ray Tube Amusement Device | 11321 | [11321-cathode-ray-tube-amusement-device.json](./11321-cathode-ray-tube-amusement-device.json) |
+| Cathode-ray Tube Amusement Device Simulator | 340018 | [340018-cathode-ray-tube-amusement-device-simulator.json](./340018-cathode-ray-tube-amusement-device-simulator.json) |
 | Cathode's Journey | 232029 | [232029-cathodes-journey.json](./232029-cathodes-journey.json) |
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
@@ -5287,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Fantasy 4: Ginga Shounen Densetsu - Totsunyuuhen: Densetsu he no Prelude | 92990 | [92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json](./92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json) |
 | Cosmic Fantasy Collection | 269306 | [269306-cosmic-fantasy-collection.json](./269306-cosmic-fantasy-collection.json) |
 | Cosmic Fantasy: Bouken Shounen Yuu | 42005 | [42005-cosmic-fantasy-bouken-shounen-yuu.json](./42005-cosmic-fantasy-bouken-shounen-yuu.json) |
+| Cosmic Fear | 340029 | [340029-cosmic-fear.json](./340029-cosmic-fear.json) |
 | Cosmic Gunslinger: Alien Outlaws | 274572 | [274572-cosmic-gunslinger-alien-outlaws.json](./274572-cosmic-gunslinger-alien-outlaws.json) |
 | Cosmic High Schooler | 358510 | [358510-cosmic-high-schooler.json](./358510-cosmic-high-schooler.json) |
 | Cosmic Highway | 63834 | [63834-cosmic-highway.json](./63834-cosmic-highway.json) |
@@ -7365,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberVerse | 280898 | [280898-cyberverse.json](./280898-cyberverse.json) |
 | CyberVerse | 345103 | [345103-cyberverse.json](./345103-cyberverse.json) |
 | CyberVirus | 153842 | [153842-cybervirus.json](./153842-cybervirus.json) |
+| Cybervoid | 339999 | [339999-cybervoid.json](./339999-cybervoid.json) |
 | Cyberwave | 310571 | [310571-cyberwave.json](./310571-cyberwave.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
