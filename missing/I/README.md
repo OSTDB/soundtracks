@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Scream 6 Friends: Charlie | 273947 | [273947-ice-scream-6-friends-charlie.json](./273947-ice-scream-6-friends-charlie.json) |
 | Ice Scream 7 Friends: Lis | 275009 | [275009-ice-scream-7-friends-lis.json](./275009-ice-scream-7-friends-lis.json) |
 | Ice Scream United | 243705 | [243705-ice-scream-united.json](./243705-ice-scream-united.json) |
+| Ice Slider | 355232 | [355232-ice-slider.json](./355232-ice-slider.json) |
 | Ice Star | 150630 | [150630-ice-star.json](./150630-ice-star.json) |
 | Ice Star: Chapter 2 | 168842 | [168842-ice-star-chapter-2.json](./168842-ice-star-chapter-2.json) |
 | Ice Sugar | 189119 | [189119-ice-sugar.json](./189119-ice-sugar.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal: Unchained | 55038 | [55038-immortal-unchained.json](./55038-immortal-unchained.json) |
 | Immortal: Unchained - Storm Breaker | 118202 | [118202-immortal-unchained-storm-breaker.json](./118202-immortal-unchained-storm-breaker.json) |
 | Immortality | 152288 | [152288-immortality.json](./152288-immortality.json) |
+| Immortality | 355212 | [355212-immortality.json](./355212-immortality.json) |
 | Immortality Paradox | 267999 | [267999-immortality-paradox.json](./267999-immortality-paradox.json) |
 | Immortals | 103462 | [103462-immortals.json](./103462-immortals.json) |
 | Immortals Fenyx Rising: A New God | 142848 | [142848-immortals-fenyx-rising-a-new-god.json](./142848-immortals-fenyx-rising-a-new-god.json) |
@@ -2493,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iwai Keitai Kaitsuu! Tamagotchi Plus Akai | 229951 | [229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json](./229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json) |
 | Iwaihime | 15930 | [15930-iwaihime.json](./15930-iwaihime.json) |
 | Iwaihime: Extra Chapter - Musubihime | 168844 | [168844-iwaihime-extra-chapter-musubihime.json](./168844-iwaihime-extra-chapter-musubihime.json) |
+| Iwakutsugi | 356266 | [356266-iwakutsugi.json](./356266-iwakutsugi.json) |
 | Iwatobi Penguin Rocky x Hopper | 185677 | [185677-iwatobi-penguin-rocky-x-hopper.json](./185677-iwatobi-penguin-rocky-x-hopper.json) |
 | Iwatobi Penguin Rocky x Hopper 2: Tantei Monogatari | 185678 | [185678-iwatobi-penguin-rocky-x-hopper-2-tantei-monogatari.json](./185678-iwatobi-penguin-rocky-x-hopper-2-tantei-monogatari.json) |
 | IWL: Interstellar Wrestling League | 363912 | [363912-iwl-interstellar-wrestling-league.json](./363912-iwl-interstellar-wrestling-league.json) |
