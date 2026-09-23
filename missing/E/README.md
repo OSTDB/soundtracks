@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Crayon: Fun on the Farm | 73265 | [73265-electric-crayon-fun-on-the-farm.json](./73265-electric-crayon-fun-on-the-farm.json) |
 | Electric Crayon: This Land Is Your Land | 70335 | [70335-electric-crayon-this-land-is-your-land.json](./70335-electric-crayon-this-land-is-your-land.json) |
 | Electric Dreams | 313124 | [313124-electric-dreams.json](./313124-electric-dreams.json) |
+| Electric Road | 366422 | [366422-electric-road.json](./366422-electric-road.json) |
 | Electric Sheep | 406705 | [406705-electric-sheep.json](./406705-electric-sheep.json) |
 | Electric Tortoise | 128613 | [128613-electric-tortoise.json](./128613-electric-tortoise.json) |
 | ElectricScribe | 44222 | [44222-electricscribe.json](./44222-electricscribe.json) |
