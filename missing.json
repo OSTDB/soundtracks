@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T14:18:21.294Z",
-  "total_missing": 111627,
+  "generated_at": "2026-09-23T14:33:23.996Z",
+  "total_missing": 111677,
   "games": [
     {
       "igdb_id": 176875,
@@ -1638,6 +1638,11 @@
       "file": "missing/0-9/89166-123-kids-fun-puzzle-red.json"
     },
     {
+      "igdb_id": 357975,
+      "game_name": "1234 Connect Puzzle",
+      "file": "missing/0-9/357975-1234-connect-puzzle.json"
+    },
+    {
       "igdb_id": 89724,
       "game_name": "123Babycount",
       "file": "missing/0-9/89724-123babycount.json"
@@ -1801,6 +1806,11 @@
       "igdb_id": 85823,
       "game_name": "16 Shot! Shooting Watch",
       "file": "missing/0-9/85823-16-shot-shooting-watch.json"
+    },
+    {
+      "igdb_id": 357974,
+      "game_name": "16: The Ultimate 15 Puzzle",
+      "file": "missing/0-9/357974-16-the-ultimate-15-puzzle.json"
     },
     {
       "igdb_id": 97891,
@@ -2538,6 +2548,11 @@
       "file": "missing/0-9/342678-204863.json"
     },
     {
+      "igdb_id": 357973,
+      "game_name": "2048Puzzle",
+      "file": "missing/0-9/357973-2048puzzle.json"
+    },
+    {
       "igdb_id": 98267,
       "game_name": "2069 AD",
       "file": "missing/0-9/98267-2069-ad.json"
@@ -2631,6 +2646,11 @@
       "igdb_id": 382296,
       "game_name": "24 Lustful Hours",
       "file": "missing/0-9/382296-24-lustful-hours.json"
+    },
+    {
+      "igdb_id": 357972,
+      "game_name": "24 Puzzle",
+      "file": "missing/0-9/357972-24-puzzle.json"
     },
     {
       "igdb_id": 158663,
@@ -3336,6 +3356,11 @@
       "igdb_id": 15577,
       "game_name": "3D Munchy",
       "file": "missing/0-9/15577-3d-munchy.json"
+    },
+    {
+      "igdb_id": 357971,
+      "game_name": "3D Next Puzzle",
+      "file": "missing/0-9/357971-3d-next-puzzle.json"
     },
     {
       "igdb_id": 97104,
@@ -8761,6 +8786,11 @@
       "igdb_id": 45371,
       "game_name": "Ad Astra",
       "file": "missing/A/45371-ad-astra.json"
+    },
+    {
+      "igdb_id": 357970,
+      "game_name": "AD Blocker: An Action Puzzle Game",
+      "file": "missing/A/357970-ad-blocker-an-action-puzzle-game.json"
     },
     {
       "igdb_id": 33466,
@@ -53608,6 +53638,11 @@
       "file": "missing/B/295557-block-man-adventures.json"
     },
     {
+      "igdb_id": 357976,
+      "game_name": "Block Master 3D Puzzle",
+      "file": "missing/B/357976-block-master-3d-puzzle.json"
+    },
+    {
       "igdb_id": 193328,
       "game_name": "Block Mesa 64",
       "file": "missing/B/193328-block-mesa-64.json"
@@ -60658,6 +60693,11 @@
       "file": "missing/B/83580-brain-wars.json"
     },
     {
+      "igdb_id": 357977,
+      "game_name": "Brain Workout: 15 Puzzles for Memory, Math & Logic",
+      "file": "missing/B/357977-brain-workout-15-puzzles-for-memory-math-and-logic.json"
+    },
+    {
       "igdb_id": 364099,
       "game_name": "Brain Workout! Jellyfish Puzzle",
       "file": "missing/B/364099-brain-workout-jellyfish-puzzle.json"
@@ -66386,6 +66426,11 @@
       "igdb_id": 317602,
       "game_name": "BurntOut Capital",
       "file": "missing/B/317602-burntout-capital.json"
+    },
+    {
+      "igdb_id": 357978,
+      "game_name": "Burr Puzzle",
+      "file": "missing/B/357978-burr-puzzle.json"
     },
     {
       "igdb_id": 284172,
@@ -74198,6 +74243,11 @@
       "file": "missing/C/224080-cat-spa.json"
     },
     {
+      "igdb_id": 357979,
+      "game_name": "Cat Summoner: Block Puzzle",
+      "file": "missing/C/357979-cat-summoner-block-puzzle.json"
+    },
+    {
       "igdb_id": 241396,
       "game_name": "Cat Tales: Premium Edition",
       "file": "missing/C/241396-cat-tales-premium-edition.json"
@@ -80421,6 +80471,11 @@
       "igdb_id": 158591,
       "game_name": "Choco Pixel 7",
       "file": "missing/C/158591-choco-pixel-7.json"
+    },
+    {
+      "igdb_id": 357980,
+      "game_name": "Choco Puzzle",
+      "file": "missing/C/357980-choco-puzzle.json"
     },
     {
       "igdb_id": 222517,
@@ -104261,6 +104316,26 @@
       "igdb_id": 289862,
       "game_name": "DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns",
       "file": "missing/D/289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json"
+    },
+    {
+      "igdb_id": 357981,
+      "game_name": "DACHstudio Puzzle Box: Falkis Potpourri",
+      "file": "missing/D/357981-dachstudio-puzzle-box-falkis-potpourri.json"
+    },
+    {
+      "igdb_id": 357984,
+      "game_name": "DACHstudio Puzzle Box: Melextis' Unicorns",
+      "file": "missing/D/357984-dachstudio-puzzle-box-melextis-unicorns.json"
+    },
+    {
+      "igdb_id": 357983,
+      "game_name": "DACHstudio Puzzle Box: Nebbi's Animal Photos",
+      "file": "missing/D/357983-dachstudio-puzzle-box-nebbis-animal-photos.json"
+    },
+    {
+      "igdb_id": 357982,
+      "game_name": "DACHstudio Puzzle Box: Sanguinik's hidden object tour in Görlitz/Zgorzelec",
+      "file": "missing/D/357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json"
     },
     {
       "igdb_id": 296683,
@@ -279498,6 +279573,31 @@
       "file": "missing/M/169972-master-of-orion-gnolam-league.json"
     },
     {
+      "igdb_id": 357939,
+      "game_name": "Master of Pieces Jigsaw Puzzle: Shades of Nostalgia",
+      "file": "missing/M/357939-master-of-pieces-jigsaw-puzzle-shades-of-nostalgia.json"
+    },
+    {
+      "igdb_id": 357938,
+      "game_name": "Master of Pieces Jigsaw Puzzle: Still Life 2",
+      "file": "missing/M/357938-master-of-pieces-jigsaw-puzzle-still-life-2.json"
+    },
+    {
+      "igdb_id": 357937,
+      "game_name": "Master of Pieces Jigsaw Puzzle: The Bold Accent",
+      "file": "missing/M/357937-master-of-pieces-jigsaw-puzzle-the-bold-accent.json"
+    },
+    {
+      "igdb_id": 357936,
+      "game_name": "Master of Pieces Jigsaw Puzzle: Winter Wonders",
+      "file": "missing/M/357936-master-of-pieces-jigsaw-puzzle-winter-wonders.json"
+    },
+    {
+      "igdb_id": 357935,
+      "game_name": "Master of Pieces Jigsaw Puzzle: Women's Day",
+      "file": "missing/M/357935-master-of-pieces-jigsaw-puzzle-womens-day.json"
+    },
+    {
       "igdb_id": 288914,
       "game_name": "Master of Pieces: Jigsaw Puzzle - Beautiful Nonsense",
       "file": "missing/M/288914-master-of-pieces-jigsaw-puzzle-beautiful-nonsense.json"
@@ -338843,6 +338943,26 @@
       "file": "missing/P/215690-pavor.json"
     },
     {
+      "igdb_id": 357941,
+      "game_name": "Paw & Hop Jigsaw Quest",
+      "file": "missing/P/357941-paw-and-hop-jigsaw-quest.json"
+    },
+    {
+      "igdb_id": 357942,
+      "game_name": "Paw & Hop Jigsaw Quest: Expansion Pack 1",
+      "file": "missing/P/357942-paw-and-hop-jigsaw-quest-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 357943,
+      "game_name": "Paw & Hop Jigsaw Quest: Expansion Pack 2",
+      "file": "missing/P/357943-paw-and-hop-jigsaw-quest-expansion-pack-2.json"
+    },
+    {
+      "igdb_id": 357944,
+      "game_name": "Paw & Hop Jigsaw Quest: Expansion Pack 3",
+      "file": "missing/P/357944-paw-and-hop-jigsaw-quest-expansion-pack-3.json"
+    },
+    {
       "igdb_id": 401515,
       "game_name": "Paw Alliance",
       "file": "missing/P/401515-paw-alliance.json"
@@ -347378,6 +347498,16 @@
       "file": "missing/P/163411-pixel-puzzles-4k-japan.json"
     },
     {
+      "igdb_id": 357945,
+      "game_name": "Pixel Puzzles Aardman Jigsaws: Morph",
+      "file": "missing/P/357945-pixel-puzzles-aardman-jigsaws-morph.json"
+    },
+    {
+      "igdb_id": 357946,
+      "game_name": "Pixel Puzzles Aardman Jigsaws: Variety Pack 2",
+      "file": "missing/P/357946-pixel-puzzles-aardman-jigsaws-variety-pack-2.json"
+    },
+    {
       "igdb_id": 389397,
       "game_name": "Pixel Puzzles Christmas Jigsaws",
       "file": "missing/P/389397-pixel-puzzles-christmas-jigsaws.json"
@@ -347408,9 +347538,44 @@
       "file": "missing/P/260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json"
     },
     {
+      "igdb_id": 357951,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Cats 2",
+      "file": "missing/P/357951-pixel-puzzles-traditional-jigsaws-cats-2.json"
+    },
+    {
+      "igdb_id": 357952,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Dogs 2",
+      "file": "missing/P/357952-pixel-puzzles-traditional-jigsaws-dogs-2.json"
+    },
+    {
+      "igdb_id": 357950,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Extreme Sports",
+      "file": "missing/P/357950-pixel-puzzles-traditional-jigsaws-extreme-sports.json"
+    },
+    {
       "igdb_id": 384082,
       "game_name": "Pixel Puzzles Traditional Jigsaws: Forests",
       "file": "missing/P/384082-pixel-puzzles-traditional-jigsaws-forests.json"
+    },
+    {
+      "igdb_id": 357957,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Frogs",
+      "file": "missing/P/357957-pixel-puzzles-traditional-jigsaws-frogs.json"
+    },
+    {
+      "igdb_id": 357956,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Geodes",
+      "file": "missing/P/357956-pixel-puzzles-traditional-jigsaws-geodes.json"
+    },
+    {
+      "igdb_id": 357955,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Locomotive",
+      "file": "missing/P/357955-pixel-puzzles-traditional-jigsaws-locomotive.json"
+    },
+    {
+      "igdb_id": 357954,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Motorbikes",
+      "file": "missing/P/357954-pixel-puzzles-traditional-jigsaws-motorbikes.json"
     },
     {
       "igdb_id": 267407,
@@ -347421,6 +347586,11 @@
       "igdb_id": 241508,
       "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 6",
       "file": "missing/P/241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json"
+    },
+    {
+      "igdb_id": 357953,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Variety Pack XXS",
+      "file": "missing/P/357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json"
     },
     {
       "igdb_id": 35743,
@@ -347568,6 +347738,11 @@
       "file": "missing/P/163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json"
     },
     {
+      "igdb_id": 357947,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Geishas",
+      "file": "missing/P/357947-pixel-puzzles-illustrations-and-anime-jigsaw-pack-geishas.json"
+    },
+    {
       "igdb_id": 162934,
       "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Gun Girls",
       "file": "missing/P/162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json"
@@ -347588,6 +347763,11 @@
       "file": "missing/P/163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json"
     },
     {
+      "igdb_id": 357948,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Microorganisms",
+      "file": "missing/P/357948-pixel-puzzles-illustrations-and-anime-jigsaw-pack-microorganisms.json"
+    },
+    {
       "igdb_id": 163408,
       "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Ninja Girls",
       "file": "missing/P/163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json"
@@ -347606,6 +347786,11 @@
       "igdb_id": 162942,
       "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Space",
       "file": "missing/P/162942-pixel-puzzles-illustrations-and-anime-jigsaw-pack-space.json"
+    },
+    {
+      "igdb_id": 357949,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Thai Paintings",
+      "file": "missing/P/357949-pixel-puzzles-illustrations-and-anime-jigsaw-pack-thai-paintings.json"
     },
     {
       "igdb_id": 162938,
@@ -411858,6 +412043,11 @@
       "file": "missing/S/91884-singstar-suomihitit.json"
     },
     {
+      "igdb_id": 357940,
+      "game_name": "SingStar: SuomiSuosikit",
+      "file": "missing/S/357940-singstar-suomisuosikit.json"
+    },
+    {
       "igdb_id": 45302,
       "game_name": "SingStar: Vasco",
       "file": "missing/S/45302-singstar-vasco.json"
@@ -448086,6 +448276,11 @@
       "igdb_id": 155595,
       "game_name": "Super Jigsaw Puzzle: Generations - Castles Puzzles",
       "file": "missing/S/155595-super-jigsaw-puzzle-generations-castles-puzzles.json"
+    },
+    {
+      "igdb_id": 357958,
+      "game_name": "Super Jigsaw Puzzle: Generations - Cats 3",
+      "file": "missing/S/357958-super-jigsaw-puzzle-generations-cats-3.json"
     },
     {
       "igdb_id": 155587,
@@ -523013,6 +523208,26 @@
       "file": "missing/U/338580-usa-natures-trails-jigsaw-edition.json"
     },
     {
+      "igdb_id": 357959,
+      "game_name": "USA Nature's Trails Jigsaw Edition: Expansion Pack 1",
+      "file": "missing/U/357959-usa-natures-trails-jigsaw-edition-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 357960,
+      "game_name": "USA Nature's Trails Jigsaw Edition: Expansion Pack 2",
+      "file": "missing/U/357960-usa-natures-trails-jigsaw-edition-expansion-pack-2.json"
+    },
+    {
+      "igdb_id": 357961,
+      "game_name": "USA Nature's Trails Jigsaw Edition: Expansion Pack 3",
+      "file": "missing/U/357961-usa-natures-trails-jigsaw-edition-expansion-pack-3.json"
+    },
+    {
+      "igdb_id": 357962,
+      "game_name": "USA Nature's Trails Jigsaw Edition: Expansion Pack 4",
+      "file": "missing/U/357962-usa-natures-trails-jigsaw-edition-expansion-pack-4.json"
+    },
+    {
       "igdb_id": 62146,
       "game_name": "USA Racer",
       "file": "missing/U/62146-usa-racer.json"
@@ -539203,6 +539418,26 @@
       "file": "missing/W/237045-whispers-of-west-grove.json"
     },
     {
+      "igdb_id": 357963,
+      "game_name": "Whispers of Wings Jigsaw Puzzles: Expansion Pack 1",
+      "file": "missing/W/357963-whispers-of-wings-jigsaw-puzzles-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 357964,
+      "game_name": "Whispers of Wings Jigsaw Puzzles: Expansion Pack 2",
+      "file": "missing/W/357964-whispers-of-wings-jigsaw-puzzles-expansion-pack-2.json"
+    },
+    {
+      "igdb_id": 357965,
+      "game_name": "Whispers of Wings Jigsaw Puzzles: Expansion Pack 3",
+      "file": "missing/W/357965-whispers-of-wings-jigsaw-puzzles-expansion-pack-3.json"
+    },
+    {
+      "igdb_id": 357966,
+      "game_name": "Whispers of Wings Jigsaw Puzzles: Expansion Pack 4",
+      "file": "missing/W/357966-whispers-of-wings-jigsaw-puzzles-expansion-pack-4.json"
+    },
+    {
       "igdb_id": 29720,
       "game_name": "Whispers: Last Hope",
       "file": "missing/W/29720-whispers-last-hope.json"
@@ -540251,6 +540486,21 @@
       "igdb_id": 127894,
       "game_name": "Wild Life",
       "file": "missing/W/127894-wild-life.json"
+    },
+    {
+      "igdb_id": 357967,
+      "game_name": "Wild Lynx Jigsaw",
+      "file": "missing/W/357967-wild-lynx-jigsaw.json"
+    },
+    {
+      "igdb_id": 357968,
+      "game_name": "Wild Lynx Jigsaw: Expansion Pack 1",
+      "file": "missing/W/357968-wild-lynx-jigsaw-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 357969,
+      "game_name": "Wild Lynx Jigsaw: Expansion Pack 2",
+      "file": "missing/W/357969-wild-lynx-jigsaw-expansion-pack-2.json"
     },
     {
       "igdb_id": 181351,
