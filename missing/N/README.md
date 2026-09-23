@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natti | 236911 | [236911-natti.json](./236911-natti.json) |
 | Natural | 189065 | [189065-natural.json](./189065-natural.json) |
 | Natural Born Soldier | 82123 | [82123-natural-born-soldier.json](./82123-natural-born-soldier.json) |
+| Natural Corde | 351267 | [351267-natural-corde.json](./351267-natural-corde.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Natural Disasters | 211716 | [211716-natural-disasters.json](./211716-natural-disasters.json) |
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Dead: White Collar Civilian Pack | 293405 | [293405-night-of-the-dead-white-collar-civilian-pack.json](./293405-night-of-the-dead-white-collar-civilian-pack.json) |
 | Night of the Dead: Wood Carving Doll Pack | 293406 | [293406-night-of-the-dead-wood-carving-doll-pack.json](./293406-night-of-the-dead-wood-carving-doll-pack.json) |
 | Night of the Duat | 373722 | [373722-night-of-the-duat.json](./373722-night-of-the-duat.json) |
+| Night of the Extinct | 351274 | [351274-night-of-the-extinct.json](./351274-night-of-the-extinct.json) |
 | Night of the Living Bubble | 391169 | [391169-night-of-the-living-bubble.json](./391169-night-of-the-living-bubble.json) |
 | Night of the Living Skurre | 367973 | [367973-night-of-the-living-skurre.json](./367973-night-of-the-living-skurre.json) |
 | Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
