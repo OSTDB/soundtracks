@@ -2714,6 +2714,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 3: Dante's Awakening - Special Edition | 218390 | [218390-devil-may-cry-3-dantes-awakening-special-edition.json](./218390-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 4: Collector's Edition | 41601 | [41601-devil-may-cry-4-collectors-edition.json](./41601-devil-may-cry-4-collectors-edition.json) |
 | Devil May Cry 5: Deluxe Edition | 111750 | [111750-devil-may-cry-5-deluxe-edition.json](./111750-devil-may-cry-5-deluxe-edition.json) |
+| Devil May Cry 5: Mega Buster | 370873 | [370873-devil-may-cry-5-mega-buster.json](./370873-devil-may-cry-5-mega-buster.json) |
+| Devil May Cry 5: Monkey Business | 370875 | [370875-devil-may-cry-5-monkey-business.json](./370875-devil-may-cry-5-monkey-business.json) |
 | Devil May Cry 5: Playable Character - Vergil | 169336 | [169336-devil-may-cry-5-playable-character-vergil.json](./169336-devil-may-cry-5-playable-character-vergil.json) |
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
@@ -5967,6 +5969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunter Pro 3D | 101553 | [101553-duck-hunter-pro-3d.json](./101553-duck-hunter-pro-3d.json) |
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
 | Duck Life 4 | 210660 | [210660-duck-life-4.json](./210660-duck-life-4.json) |
+| Duck Life 4 Classic | 370917 | [370917-duck-life-4-classic.json](./370917-duck-life-4-classic.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
 | Duck Paradox | 208209 | [208209-duck-paradox.json](./208209-duck-paradox.json) |
