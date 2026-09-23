@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
 | eRacer | 92816 | [92816-eracer.json](./92816-eracer.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
+| Eradicator Genesis | 384187 | [384187-eradicator-genesis.json](./384187-eradicator-genesis.json) |
 | Erannorth Reborn | 116711 | [116711-erannorth-reborn.json](./116711-erannorth-reborn.json) |
 | Erannorth Reborn: Blood Coven Rise | 168914 | [168914-erannorth-reborn-blood-coven-rise.json](./168914-erannorth-reborn-blood-coven-rise.json) |
 | Erannorth Reborn: Canticum Noctem | 168913 | [168913-erannorth-reborn-canticum-noctem.json](./168913-erannorth-reborn-canticum-noctem.json) |
@@ -2692,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
 | Exotica: Petshop Simulator | 215795 | [215795-exotica-petshop-simulator.json](./215795-exotica-petshop-simulator.json) |
 | ExoTrain | 391157 | [391157-exotrain.json](./391157-exotrain.json) |
+| Exovore | 384221 | [384221-exovore.json](./384221-exovore.json) |
 | Exp!A | 151692 | [151692-exp-a.json](./151692-exp-a.json) |
 | Exp10sion | 277946 | [277946-exp10sion.json](./277946-exp10sion.json) |
 | Expand | 18474 | [18474-expand.json](./18474-expand.json) |
