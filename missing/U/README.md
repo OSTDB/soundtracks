@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Fire | 46876 | [46876-under-fire.json](./46876-under-fire.json) |
 | Under Fire! | 25971 | [25971-under-fire.json](./25971-under-fire.json) |
 | Under His Eyes | 378428 | [378428-under-his-eyes.json](./378428-under-his-eyes.json) |
+| Under Kingdom: Scam Centre Simulator | 346251 | [346251-under-kingdom-scam-centre-simulator.json](./346251-under-kingdom-scam-centre-simulator.json) |
 | Under Lock | 142265 | [142265-under-lock.json](./142265-under-lock.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
 | Under Night In-Bright II Sys:Celes - Deluxe Edition | 277303 | [277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json](./277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json) |
