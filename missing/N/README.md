@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekoroid | 152144 | [152144-nekoroid.json](./152144-nekoroid.json) |
 | Nekowater | 274034 | [274034-nekowater.json](./274034-nekowater.json) |
 | Nekra Psaria 4 | 385188 | [385188-nekra-psaria-4.json](./385188-nekra-psaria-4.json) |
+| Nekro3 | 356836 | [356836-nekro3.json](./356836-nekro3.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
 | Nekurogahara: Psycho Ronins | 359067 | [359067-nekurogahara-psycho-ronins.json](./359067-nekurogahara-psycho-ronins.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
@@ -2351,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
 | Noms the Fish | 112367 | [112367-noms-the-fish.json](./112367-noms-the-fish.json) |
+| Non Euclidean Room | 356877 | [356877-non-euclidean-room.json](./356877-non-euclidean-room.json) |
 | Non Stop Driver | 305200 | [305200-non-stop-driver.json](./305200-non-stop-driver.json) |
 | Non-Compliant | 126575 | [126575-non-compliant.json](./126575-non-compliant.json) |
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
