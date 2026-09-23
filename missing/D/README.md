@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.H.M. | 224649 | [224649-d-h-m.json](./224649-d-h-m.json) |
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
 | D.H.Zombie Zone | 117693 | [117693-d-h-zombie-zone.json](./117693-d-h-zombie-zone.json) |
+| D.I.M. | 372105 | [372105-d-i-m.json](./372105-d-i-m.json) |
 | D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
 | D.N.A.: Dark Native Apostle | 56134 | [56134-d-n-a-dark-native-apostle.json](./56134-d-n-a-dark-native-apostle.json) |
 | D.O.A.S.: Department of Applied Science | 184601 | [184601-d-o-a-s-department-of-applied-science.json](./184601-d-o-a-s-department-of-applied-science.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deemo II | 127797 | [127797-deemo-ii.json](./127797-deemo-ii.json) |
 | Deemo: The Last Recital | 26996 | [26996-deemo-the-last-recital.json](./26996-deemo-the-last-recital.json) |
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
+| Deep | 372091 | [372091-deep.json](./372091-deep.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Among the Swarm | 285013 | [285013-deep-among-the-swarm.json](./285013-deep-among-the-swarm.json) |
 | Deep Black: Reloaded | 52863 | [52863-deep-black-reloaded.json](./52863-deep-black-reloaded.json) |
@@ -3026,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig!t | 232042 | [232042-dig-t.json](./232042-dig-t.json) |
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
 | Digan no Maseki | 107632 | [107632-digan-no-maseki.json](./107632-digan-no-maseki.json) |
+| Digaway | 372115 | [372115-digaway.json](./372115-digaway.json) |
 | Digby's Donuts | 122893 | [122893-digbys-donuts.json](./122893-digbys-donuts.json) |
 | Digdig | 316611 | [316611-digdig.json](./316611-digdig.json) |
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
@@ -3644,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Worlds: Universe | 16806 | [16806-distant-worlds-universe.json](./16806-distant-worlds-universe.json) |
 | Distantia | 408029 | [408029-distantia.json](./408029-distantia.json) |
 | Distill, My Beating Heart! | 292019 | [292019-distill-my-beating-heart.json](./292019-distill-my-beating-heart.json) |
+| Distorted | 372143 | [372143-distorted.json](./372143-distorted.json) |
 | Distorted Echos | 217323 | [217323-distorted-echos.json](./217323-distorted-echos.json) |
 | Distorted Minds | 414409 | [414409-distorted-minds.json](./414409-distorted-minds.json) |
 | Distorted Signal | 413667 | [413667-distorted-signal.json](./413667-distorted-signal.json) |
@@ -3845,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | Dobo's Heroes | 147420 | [147420-dobos-heroes.json](./147420-dobos-heroes.json) |
+| Dobro Goranku | 372136 | [372136-dobro-goranku.json](./372136-dobro-goranku.json) |
 | Doc Cosmos | 133986 | [133986-doc-cosmos.json](./133986-doc-cosmos.json) |
 | Doc Louis's Punch-Out!! | 9153 | [9153-doc-louiss-punch-out.json](./9153-doc-louiss-punch-out.json) |
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
