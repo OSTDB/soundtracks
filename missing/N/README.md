@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Cortarás a tu Hermana con el Filo de Esta Espada | 135690 | [135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json](./135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
 | No Deck? No Dice? | 184471 | [184471-no-deck-no-dice.json](./184471-no-deck-no-dice.json) |
+| No Door Can Not be Opened with a Non-black Key | 355192 | [355192-no-door-can-not-be-opened-with-a-non-black-key.json](./355192-no-door-can-not-be-opened-with-a-non-black-key.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Fate! Only the Power of Will | 7123 | [7123-no-fate-only-the-power-of-will.json](./7123-no-fate-only-the-power-of-will.json) |
@@ -2424,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NormalTanks | 66658 | [66658-normaltanks.json](./66658-normaltanks.json) |
 | Norman | 60590 | [60590-norman.json](./60590-norman.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
+| Noroi Kago: The Grduged Domain - The Birth of Kitaro: The Mystery of GeGeGe Costume - Kitaro's father and Mizuki | 355202 | [355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json](./355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json) |
 | Noroware Cycle | 223481 | [223481-noroware-cycle.json](./223481-noroware-cycle.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
 | Norr part I: Ace Shot | 120828 | [120828-norr-part-i-ace-shot.json](./120828-norr-part-i-ace-shot.json) |
