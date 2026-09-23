@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zankoi's Chronicles | 255959 | [255959-zankois-chronicles.json](./255959-zankois-chronicles.json) |
 | Zany Kong | 98231 | [98231-zany-kong.json](./98231-zany-kong.json) |
 | Zany Kong Junior | 98232 | [98232-zany-kong-junior.json](./98232-zany-kong-junior.json) |
+| Zany's Hospital | 367623 | [367623-zanys-hospital.json](./367623-zanys-hospital.json) |
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
 | Zap 21 | 78067 | [78067-zap-21.json](./78067-zap-21.json) |
 | Zap Dem Rats | 195194 | [195194-zap-dem-rats.json](./195194-zap-dem-rats.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
 | Zavix Tower | 25104 | [25104-zavix-tower.json](./25104-zavix-tower.json) |
+| Zavod | 367584 | [367584-zavod.json](./367584-zavod.json) |
 | Zaxterion: Space Frenzy! | 203877 | [203877-zaxterion-space-frenzy.json](./203877-zaxterion-space-frenzy.json) |
 | Zaxxon | 309341 | [309341-zaxxon.json](./309341-zaxxon.json) |
 | Zayed the Leader | 100140 | [100140-zayed-the-leader.json](./100140-zayed-the-leader.json) |
