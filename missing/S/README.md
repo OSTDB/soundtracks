@@ -5831,6 +5831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Core | 68683 | [68683-solar-core.json](./68683-solar-core.json) |
 | Solar Cram School | 122393 | [122393-solar-cram-school.json](./122393-solar-cram-school.json) |
 | Solar Crusade | 45908 | [45908-solar-crusade.json](./45908-solar-crusade.json) |
+| Solar Dreamer Nikko | 369203 | [369203-solar-dreamer-nikko.json](./369203-solar-dreamer-nikko.json) |
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
 | Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
@@ -6050,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something in the Woods | 261263 | [261263-something-in-the-woods.json](./261263-something-in-the-woods.json) |
 | Something is Wrong | 132000 | [132000-something-is-wrong.json](./132000-something-is-wrong.json) |
 | Something Is Wrong With My World Map | 315488 | [315488-something-is-wrong-with-my-world-map.json](./315488-something-is-wrong-with-my-world-map.json) |
+| Something Left | 369224 | [369224-something-left.json](./369224-something-left.json) |
 | Something Meaningful | 381613 | [381613-something-meaningful.json](./381613-something-meaningful.json) |
 | Something Strange in the Woods | 149531 | [149531-something-strange-in-the-woods.json](./149531-something-strange-in-the-woods.json) |
 | Something That Shouldn't Be There Is Visible. | 410371 | [410371-something-that-shouldnt-be-there-is-visible.json](./410371-something-that-shouldnt-be-there-is-visible.json) |
@@ -8070,6 +8072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Mall | 54393 | [54393-spooky-mall.json](./54393-spooky-mall.json) |
 | Spooky Manor | 62422 | [62422-spooky-manor.json](./62422-spooky-manor.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
+| Spooky Murder House | 369242 | [369242-spooky-murder-house.json](./369242-spooky-murder-house.json) |
 | Spooky Season | 361696 | [361696-spooky-season.json](./361696-spooky-season.json) |
 | Spooky Shelter | 242228 | [242228-spooky-shelter.json](./242228-spooky-shelter.json) |
 | Spooky Shooter 3D | 186802 | [186802-spooky-shooter-3d.json](./186802-spooky-shooter-3d.json) |
@@ -11777,6 +11780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Portal 64 | 159277 | [159277-super-portal-64.json](./159277-super-portal-64.json) |
 | Super POTUS Trump | 51591 | [51591-super-potus-trump.json](./51591-super-potus-trump.json) |
 | Super Power: Rising of A.I. | 157016 | [157016-super-power-rising-of-a-i.json](./157016-super-power-rising-of-a-i.json) |
+| Super Pump | 369215 | [369215-super-pump.json](./369215-super-pump.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Punch-Out!! | 9152 | [9152-super-punch-out.json](./9152-super-punch-out.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
