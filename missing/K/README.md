@@ -2046,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KSame | 64431 | [64431-ksame.json](./64431-ksame.json) |
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
 | Ku: Shroud of the Morrigan | 16936 | [16936-ku-shroud-of-the-morrigan.json](./16936-ku-shroud-of-the-morrigan.json) |
+| Kuafu Chases the Sun | 367611 | [367611-kuafu-chases-the-sun.json](./367611-kuafu-chases-the-sun.json) |
 | Kuàilè Xiǎojī | 130953 | [130953-kuaile-xiaoji.json](./130953-kuaile-xiaoji.json) |
 | Kub | 146694 | [146694-kub.json](./146694-kub.json) |
 | Kubble Star | 129218 | [129218-kubble-star.json](./129218-kubble-star.json) |
