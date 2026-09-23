@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yattsu no Hiseki 2X | 386156 | [386156-yattsu-no-hiseki-2x.json](./386156-yattsu-no-hiseki-2x.json) |
 | Yatzy Addict+ | 252137 | [252137-yatzy-addict.json](./252137-yatzy-addict.json) |
 | Yatzy Ultimate | 175304 | [175304-yatzy-ultimate.json](./175304-yatzy-ultimate.json) |
+| Yavalanche | 389739 | [389739-yavalanche.json](./389739-yavalanche.json) |
 | Yawara!: Yawara no Seishun | 353407 | [353407-yawara-yawara-no-seishun.json](./353407-yawara-yawara-no-seishun.json) |
 | YBit | 65790 | [65790-ybit.json](./65790-ybit.json) |
 | Ye Fenny: Revenge of the Evil Good Shepherd | 81783 | [81783-ye-fenny-revenge-of-the-evil-good-shepherd.json](./81783-ye-fenny-revenge-of-the-evil-good-shepherd.json) |
