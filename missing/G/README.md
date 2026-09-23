@@ -2805,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grande Fratello: Il Gioco | 300371 | [300371-grande-fratello-il-gioco.json](./300371-grande-fratello-il-gioco.json) |
 | Grander Musashi RV | 228555 | [228555-grander-musashi-rv.json](./228555-grander-musashi-rv.json) |
 | Grandfather | 417497 | [417497-grandfather.json](./417497-grandfather.json) |
+| Grandia | 361321 | [361321-grandia.json](./361321-grandia.json) |
 | Grandia HD Collection | 107214 | [107214-grandia-hd-collection.json](./107214-grandia-hd-collection.json) |
 | Grandia HD Remaster | 107213 | [107213-grandia-hd-remaster.json](./107213-grandia-hd-remaster.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
