@@ -2153,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Turf | 134564 | [134564-demon-turf.json](./134564-demon-turf.json) |
 | Demon Turf: Neon Splash | 197868 | [197868-demon-turf-neon-splash.json](./197868-demon-turf-neon-splash.json) |
 | Demon Waltz | 398594 | [398594-demon-waltz.json](./398594-demon-waltz.json) |
+| Demon With a Candy Crisis | 391329 | [391329-demon-with-a-candy-crisis.json](./391329-demon-with-a-candy-crisis.json) |
 | Demon Wolf Simulator | 102779 | [102779-demon-wolf-simulator.json](./102779-demon-wolf-simulator.json) |
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
 | Demon's Crystals | 20402 | [20402-demons-crystals.json](./20402-demons-crystals.json) |
