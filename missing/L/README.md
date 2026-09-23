@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
 | Le Mirage Mystique | 392423 | [392423-le-mirage-mystique.json](./392423-le-mirage-mystique.json) |
 | Le Miroir d'Ozivior | 413609 | [413609-le-miroir-dozivior.json](./413609-le-miroir-dozivior.json) |
+| Le Morte D'Arthur | 338944 | [338944-le-morte-darthur.json](./338944-le-morte-darthur.json) |
 | Le Mystère de Kikekankoi | 93005 | [93005-le-mystere-de-kikekankoi.json](./93005-le-mystere-de-kikekankoi.json) |
 | Le Mystère de la fleur de verre | 413039 | [413039-le-mystere-de-la-fleur-de-verre.json](./413039-le-mystere-de-la-fleur-de-verre.json) |
 | Le Pacte | 304056 | [304056-le-pacte.json](./304056-le-pacte.json) |
@@ -2605,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
 | Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
+| LOLCat Escape | 338932 | [338932-lolcat-escape.json](./338932-lolcat-escape.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lolita Expedition | 370885 | [370885-lolita-expedition.json](./370885-lolita-expedition.json) |
