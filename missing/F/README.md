@@ -1900,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finch & Archie | 306095 | [306095-finch-and-archie.json](./306095-finch-and-archie.json) |
 | Finck | 79571 | [79571-finck.json](./79571-finck.json) |
 | FinCrementalOS | 400314 | [400314-fincrementalos.json](./400314-fincrementalos.json) |
+| Find 100 Cats! | 363018 | [363018-find-100-cats.json](./363018-find-100-cats.json) |
 | Find 100 Ducks and Blast Them...in Space!!! | 391317 | [391317-find-100-ducks-and-blast-them-in-space.json](./391317-find-100-ducks-and-blast-them-in-space.json) |
 | Find a way out: Abode of darkness. | 192799 | [192799-find-a-way-out-abode-of-darkness.json](./192799-find-a-way-out-abode-of-darkness.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
@@ -4063,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FRC 25 | 377792 | [377792-frc-25.json](./377792-frc-25.json) |
 | Freak Control | 137490 | [137490-freak-control.json](./137490-freak-control.json) |
 | Freak Factory | 265664 | [265664-freak-factory.json](./265664-freak-factory.json) |
+| Freak Fortress 2 | 363055 | [363055-freak-fortress-2.json](./363055-freak-fortress-2.json) |
 | Freaked Fleapit | 204437 | [204437-freaked-fleapit.json](./204437-freaked-fleapit.json) |
 | Freakfield 2042 | 195268 | [195268-freakfield-2042.json](./195268-freakfield-2042.json) |
 | FreaKick | 68626 | [68626-freakick.json](./68626-freakick.json) |
