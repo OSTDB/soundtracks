@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
+| AD Blocker: An Action Puzzle Game | 357970 | [357970-ad-blocker-an-action-puzzle-game.json](./357970-ad-blocker-an-action-puzzle-game.json) |
 | Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
 | Ad Infinitum | 77338 | [77338-ad-infinitum.json](./77338-ad-infinitum.json) |
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
