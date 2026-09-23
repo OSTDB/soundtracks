@@ -1496,8 +1496,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Super Sluggers | 3987 | [3987-mario-super-sluggers.json](./3987-mario-super-sluggers.json) |
 | Mario Super Sluggers Cards | 339844 | [339844-mario-super-sluggers-cards.json](./339844-mario-super-sluggers-cards.json) |
 | Mario Superstar | 275325 | [275325-mario-superstar.json](./275325-mario-superstar.json) |
+| Mario Superstar Baseball Fantasy League | 342262 | [342262-mario-superstar-baseball-fantasy-league.json](./342262-mario-superstar-baseball-fantasy-league.json) |
 | Mario Takes America | 175956 | [175956-mario-takes-america.json](./175956-mario-takes-america.json) |
 | Mario Tennis | 344924 | [344924-mario-tennis.json](./344924-mario-tennis.json) |
+| Mario Tennis: Power Tour | 342260 | [342260-mario-tennis-power-tour.json](./342260-mario-tennis-power-tour.json) |
 | Mario Tennis: Power Tour | 6504 | [6504-mario-tennis-power-tour.json](./6504-mario-tennis-power-tour.json) |
 | Mario Tennis: Power Tour - Bicep Pump | 231624 | [231624-mario-tennis-power-tour-bicep-pump.json](./231624-mario-tennis-power-tour-bicep-pump.json) |
 | Mario Tennis: Ultra Smash | 11220 | [11220-mario-tennis-ultra-smash.json](./11220-mario-tennis-ultra-smash.json) |
@@ -3256,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Cat Village | 314471 | [314471-meow-cat-village.json](./314471-meow-cat-village.json) |
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
+| Meow Moments: Celebrating Geeks & Athletes | 342234 | [342234-meow-moments-celebrating-geeks-and-athletes.json](./342234-meow-moments-celebrating-geeks-and-athletes.json) |
 | Meow Moments: Valentine's Day | 289844 | [289844-meow-moments-valentines-day.json](./289844-meow-moments-valentines-day.json) |
 | Meow Music | 103912 | [103912-meow-music.json](./103912-meow-music.json) |
 | Meow Nights | 183540 | [183540-meow-nights.json](./183540-meow-nights.json) |
@@ -3522,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Revolution | 114398 | [114398-metal-revolution.json](./114398-metal-revolution.json) |
 | Metal Saga | 20521 | [20521-metal-saga.json](./20521-metal-saga.json) |
 | Metal Saga: The Ark of Wastes | 75851 | [75851-metal-saga-the-ark-of-wastes.json](./75851-metal-saga-the-ark-of-wastes.json) |
+| Metal Savior | 342272 | [342272-metal-savior.json](./342272-metal-savior.json) |
 | Metal Shock Game | 211206 | [211206-metal-shock-game.json](./211206-metal-shock-game.json) |
 | Metal Slader Glory 2 | 297474 | [297474-metal-slader-glory-2.json](./297474-metal-slader-glory-2.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
@@ -4000,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
 | Midnight Snack | 324920 | [324920-midnight-snack.json](./324920-midnight-snack.json) |
+| Midnight Snack | 342248 | [342248-midnight-snack.json](./342248-midnight-snack.json) |
 | Midnight Souls | 365083 | [365083-midnight-souls.json](./365083-midnight-souls.json) |
 | Midnight Special | 319815 | [319815-midnight-special.json](./319815-midnight-special.json) |
 | Midnight Spooks: The Thing in the Basement | 311482 | [311482-midnight-spooks-the-thing-in-the-basement.json](./311482-midnight-spooks-the-thing-in-the-basement.json) |
