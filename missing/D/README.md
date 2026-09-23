@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DaiPyooon | 252155 | [252155-daipyooon.json](./252155-daipyooon.json) |
 | Dairantou Kanoair Smash 2002 | 196867 | [196867-dairantou-kanoair-smash-2002.json](./196867-dairantou-kanoair-smash-2002.json) |
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
+| Daisenryaku 1941: Gyakuten no Taiheiyou | 342253 | [342253-daisenryaku-1941-gyakuten-no-taiheiyou.json](./342253-daisenryaku-1941-gyakuten-no-taiheiyou.json) |
 | Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
 | Daisenryaku Map Collection | 381851 | [381851-daisenryaku-map-collection.json](./381851-daisenryaku-map-collection.json) |
 | Daisenryaku VII | 361318 | [361318-daisenryaku-vii.json](./361318-daisenryaku-vii.json) |
@@ -1426,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Premonition: Director's Cut | 9245 | [9245-deadly-premonition-directors-cut.json](./9245-deadly-premonition-directors-cut.json) |
 | Deadly Premonition: The Director's Cut - Classified Edition | 51538 | [51538-deadly-premonition-the-directors-cut-classified-edition.json](./51538-deadly-premonition-the-directors-cut-classified-edition.json) |
 | Deadly Premonition: The Director's Cut Ultimate Edition | 26925 | [26925-deadly-premonition-the-directors-cut-ultimate-edition.json](./26925-deadly-premonition-the-directors-cut-ultimate-edition.json) |
+| Deadly Quiet | 342268 | [342268-deadly-quiet.json](./342268-deadly-quiet.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Rooms of Death | 50147 | [50147-deadly-rooms-of-death.json](./50147-deadly-rooms-of-death.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
@@ -1945,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Cardom | 257959 | [257959-defenders-of-cardom.json](./257959-defenders-of-cardom.json) |
 | Defenders of Dynatron City | 48066 | [48066-defenders-of-dynatron-city.json](./48066-defenders-of-dynatron-city.json) |
 | Defenders of Ekron: Definitive Edition | 106624 | [106624-defenders-of-ekron-definitive-edition.json](./106624-defenders-of-ekron-definitive-edition.json) |
+| Defenders of Etheria | 342258 | [342258-defenders-of-etheria.json](./342258-defenders-of-etheria.json) |
 | Defenders of Kingdom | 197243 | [197243-defenders-of-kingdom.json](./197243-defenders-of-kingdom.json) |
 | Defenders of Kronos | 257972 | [257972-defenders-of-kronos.json](./257972-defenders-of-kronos.json) |
 | Defenders of Law Inc: Crime in Willburg | 72975 | [72975-defenders-of-law-inc-crime-in-willburg.json](./72975-defenders-of-law-inc-crime-in-willburg.json) |
