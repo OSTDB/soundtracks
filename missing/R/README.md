@@ -597,6 +597,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Ramify | 31153 | [31153-ramify.json](./31153-ramify.json) |
 | Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
+| Ramona | 370326 | [370326-ramona.json](./370326-ramona.json) |
+| Ramona: Play With Me | 370327 | [370327-ramona-play-with-me.json](./370327-ramona-play-with-me.json) |
 | Ramone: Teh Gaem | 59669 | [59669-ramone-teh-gaem.json](./59669-ramone-teh-gaem.json) |
 | Ramos Ruy no World Wide Soccer | 259652 | [259652-ramos-ruy-no-world-wide-soccer.json](./259652-ramos-ruy-no-world-wide-soccer.json) |
 | Ramp Bike Jumping | 215117 | [215117-ramp-bike-jumping.json](./215117-ramp-bike-jumping.json) |
@@ -804,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Rawbots | 62969 | [62969-rawbots.json](./62969-rawbots.json) |
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
+| Rawmen: Sakura Gusoku Cosmetic Set | 370316 | [370316-rawmen-sakura-gusoku-cosmetic-set.json](./370316-rawmen-sakura-gusoku-cosmetic-set.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
 | Rax Runner! | 338288 | [338288-rax-runner.json](./338288-rax-runner.json) |
 | Ray And Cooper | 310584 | [310584-ray-and-cooper.json](./310584-ray-and-cooper.json) |
@@ -2743,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimWorld: Console Edition | 210525 | [210525-rimworld-console-edition.json](./210525-rimworld-console-edition.json) |
 | RimWorld: Console Edition - Digital Deluxe | 211246 | [211246-rimworld-console-edition-digital-deluxe.json](./211246-rimworld-console-edition-digital-deluxe.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
+| RimWorld: P-Music | 370333 | [370333-rimworld-p-music.json](./370333-rimworld-p-music.json) |
 | Ring | 11308 | [11308-ring.json](./11308-ring.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
@@ -2793,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
 | RIP 3: The Last Hero | 28923 | [28923-rip-3-the-last-hero.json](./28923-rip-3-the-last-hero.json) |
+| Rip Current | 370308 | [370308-rip-current.json](./370308-rip-current.json) |
 | Rip N Ship Simulator | 415279 | [415279-rip-n-ship-simulator.json](./415279-rip-n-ship-simulator.json) |
 | RIP Party | 375806 | [375806-rip-party.json](./375806-rip-party.json) |
 | Rip them Off | 136851 | [136851-rip-them-off.json](./136851-rip-them-off.json) |
