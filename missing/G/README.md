@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluttony | 353979 | [353979-gluttony.json](./353979-gluttony.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
 | Glyph | 388223 | [388223-glyph.json](./388223-glyph.json) |
+| Glyph Chess | 384226 | [384226-glyph-chess.json](./384226-glyph-chess.json) |
 | Glyph VR | 151534 | [151534-glyph-vr.json](./151534-glyph-vr.json) |
 | Glypha III | 70919 | [70919-glypha-iii.json](./70919-glypha-iii.json) |
 | Glyphica: Typing Survival | 291596 | [291596-glyphica-typing-survival.json](./291596-glyphica-typing-survival.json) |
