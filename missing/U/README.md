@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uuu so Smislom | 116096 | [116096-uuu-so-smislom.json](./116096-uuu-so-smislom.json) |
 | uVolley | 149921 | [149921-uvolley.json](./149921-uvolley.json) |
 | UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
+| Uwaiteru | 341650 | [341650-uwaiteru.json](./341650-uwaiteru.json) |
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
 | Uwis Shooting Gallery | 94196 | [94196-uwis-shooting-gallery.json](./94196-uwis-shooting-gallery.json) |
 | Uwol 2 | 299168 | [299168-uwol-2.json](./299168-uwol-2.json) |
