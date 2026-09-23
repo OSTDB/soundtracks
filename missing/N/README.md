@@ -2105,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Fox Season | 372690 | [372690-no-fox-season.json](./372690-no-fox-season.json) |
 | No Friends | 244337 | [244337-no-friends.json](./244337-no-friends.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
+| No Gods of Men | 346764 | [346764-no-gods-of-men.json](./346764-no-gods-of-men.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
 | No Heroes Allowed! | 234732 | [234732-no-heroes-allowed.json](./234732-no-heroes-allowed.json) |
@@ -2194,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Walls in Heaven | 369657 | [369657-no-walls-in-heaven.json](./369657-no-walls-in-heaven.json) |
 | No Wave | 128583 | [128583-no-wave.json](./128583-no-wave.json) |
 | No Way Home | 117007 | [117007-no-way-home.json](./117007-no-way-home.json) |
+| No Way Home: Blammo! | 346798 | [346798-no-way-home-blammo.json](./346798-no-way-home-blammo.json) |
 | No Way Out | 239677 | [239677-no-way-out.json](./239677-no-way-out.json) |
 | No Way Out | 30104 | [30104-no-way-out.json](./30104-no-way-out.json) |
 | No Wings Required | 394322 | [394322-no-wings-required.json](./394322-no-wings-required.json) |
