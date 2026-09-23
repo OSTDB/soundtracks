@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
 | Dead Feed | 379566 | [379566-dead-feed.json](./379566-dead-feed.json) |
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
+| Dead Frequency | 373214 | [373214-dead-frequency.json](./373214-dead-frequency.json) |
 | Dead Fun Pack: Penguins and Aliens Strike Again | 102588 | [102588-dead-fun-pack-penguins-and-aliens-strike-again.json](./102588-dead-fun-pack-penguins-and-aliens-strike-again.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
 | Dead Gears: Space of War | 401118 | [401118-dead-gears-space-of-war.json](./401118-dead-gears-space-of-war.json) |
@@ -5182,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
 | Dragon Story | 38899 | [38899-dragon-story.json](./38899-dragon-story.json) |
+| Dragon Survival | 373180 | [373180-dragon-survival.json](./373180-dragon-survival.json) |
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
 | Dragon Tale 5: The Queen's Destiny - Collector's Edition | 417525 | [417525-dragon-tale-5-the-queens-destiny-collectors-edition.json](./417525-dragon-tale-5-the-queens-destiny-collectors-edition.json) |
 | Dragon Tales: Dragon Adventures | 248751 | [248751-dragon-tales-dragon-adventures.json](./248751-dragon-tales-dragon-adventures.json) |
@@ -5923,6 +5925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duality Paradox | 385566 | [385566-duality-paradox.json](./385566-duality-paradox.json) |
 | Duality Shift | 373109 | [373109-duality-shift.json](./373109-duality-shift.json) |
 | DualPenSports | 25179 | [25179-dualpensports.json](./25179-dualpensports.json) |
+| DualVerse86 | 373175 | [373175-dualverse86.json](./373175-dualverse86.json) |
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
@@ -6193,6 +6196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Explorer: Warriors of Ancient Arts | 42865 | [42865-dungeon-explorer-warriors-of-ancient-arts.json](./42865-dungeon-explorer-warriors-of-ancient-arts.json) |
 | Dungeon Explorer: Warriors of the Ancient Arts | 20274 | [20274-dungeon-explorer-warriors-of-the-ancient-arts.json](./20274-dungeon-explorer-warriors-of-the-ancient-arts.json) |
 | Dungeon Explorers | 385857 | [385857-dungeon-explorers.json](./385857-dungeon-explorers.json) |
+| Dungeon Forge | 373181 | [373181-dungeon-forge.json](./373181-dungeon-forge.json) |
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
 | Dungeon Gambit Boy | 89666 | [89666-dungeon-gambit-boy.json](./89666-dungeon-gambit-boy.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
