@@ -5288,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ocean | 143678 | [143678-the-ocean.json](./143678-the-ocean.json) |
 | The Odarian Accounts | 218705 | [218705-the-odarian-accounts.json](./218705-the-odarian-accounts.json) |
 | The Odd Neon Void | 132246 | [132246-the-odd-neon-void.json](./132246-the-odd-neon-void.json) |
+| The Odyssey of Commander Cookie | 350034 | [350034-the-odyssey-of-commander-cookie.json](./350034-the-odyssey-of-commander-cookie.json) |
 | The Odyssey of the Mammoth | 191831 | [191831-the-odyssey-of-the-mammoth.json](./191831-the-odyssey-of-the-mammoth.json) |
 | The Odyssey: Winds of Athena | 69579 | [69579-the-odyssey-winds-of-athena.json](./69579-the-odyssey-winds-of-athena.json) |
 | The Offering | 238754 | [238754-the-offering.json](./238754-the-offering.json) |
@@ -7383,6 +7384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Discord Has Ghosts in it | 134647 | [134647-this-discord-has-ghosts-in-it.json](./134647-this-discord-has-ghosts-in-it.json) |
 | This Game | 357815 | [357815-this-game.json](./357815-this-game.json) |
 | This Game is Crap | 370888 | [370888-this-game-is-crap.json](./370888-this-game-is-crap.json) |
+| This Game is Ground Breaking | 350039 | [350039-this-game-is-ground-breaking.json](./350039-this-game-is-ground-breaking.json) |
 | This Game is Simple | 416121 | [416121-this-game-is-simple.json](./416121-this-game-is-simple.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
 | This House Looks Familiar | 176969 | [176969-this-house-looks-familiar.json](./176969-this-house-looks-familiar.json) |
@@ -10901,6 +10903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
 | Travis Strikes Again: No More Heroes - Black Dandelion | 115482 | [115482-travis-strikes-again-no-more-heroes-black-dandelion.json](./115482-travis-strikes-again-no-more-heroes-black-dandelion.json) |
 | Travis Strikes Again: No More Heroes - Bubblegum Fatale | 117496 | [117496-travis-strikes-again-no-more-heroes-bubblegum-fatale.json](./117496-travis-strikes-again-no-more-heroes-bubblegum-fatale.json) |
+| Travis, the Frog | 350038 | [350038-travis-the-frog.json](./350038-travis-the-frog.json) |
 | Travis' Coward Combustion | 265721 | [265721-travis-coward-combustion.json](./265721-travis-coward-combustion.json) |
 | TraVRsal | 177409 | [177409-travrsal.json](./177409-travrsal.json) |
 | Trawl | 33420 | [33420-trawl.json](./33420-trawl.json) |
@@ -11598,6 +11601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Tundra | 259279 | [259279-tumble-tundra.json](./259279-tumble-tundra.json) |
 | Tumble Wrestling | 262349 | [262349-tumble-wrestling.json](./262349-tumble-wrestling.json) |
 | Tumblebugs 2 | 53858 | [53858-tumblebugs-2.json](./53858-tumblebugs-2.json) |
+| Tumbles | 350056 | [350056-tumbles.json](./350056-tumbles.json) |
 | TumbleSeed | 27051 | [27051-tumbleseed.json](./27051-tumbleseed.json) |
 | Tumbleweed Destiny | 195073 | [195073-tumbleweed-destiny.json](./195073-tumbleweed-destiny.json) |
 | Tumbobots | 382224 | [382224-tumbobots.json](./382224-tumbobots.json) |
