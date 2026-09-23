@@ -1898,9 +1898,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminality Online | 176476 | [176476-liminality-online.json](./176476-liminality-online.json) |
 | Liminalphobia | 149555 | [149555-liminalphobia.json](./149555-liminalphobia.json) |
 | Liminoid | 413643 | [413643-liminoid.json](./413643-liminoid.json) |
+| Limit Break | 359075 | [359075-limit-break.json](./359075-limit-break.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
 | Limit Zero Breakers | 361763 | [361763-limit-zero-breakers.json](./361763-limit-zero-breakers.json) |
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
+| Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
 | Limits | 379052 | [379052-limits.json](./379052-limits.json) |
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
 | Limp Mode | 414575 | [414575-limp-mode.json](./414575-limp-mode.json) |
