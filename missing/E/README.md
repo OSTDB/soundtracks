@@ -2786,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Express Courier Pro: Urban Bike Delivery Simulator 2024! | 300862 | [300862-express-courier-pro-urban-bike-delivery-simulator-2024.json](./300862-express-courier-pro-urban-bike-delivery-simulator-2024.json) |
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
 | Exquisite Fishing | 235874 | [235874-exquisite-fishing.json](./235874-exquisite-fishing.json) |
+| Exquisite Girls | 372121 | [372121-exquisite-girls.json](./372121-exquisite-girls.json) |
 | EXS1 EthnologySister: Cultural functionalism | 166171 | [166171-exs1-ethnologysister-cultural-functionalism.json](./166171-exs1-ethnologysister-cultural-functionalism.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
