@@ -5380,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
 | The Outer Frame | 399859 | [399859-the-outer-frame.json](./399859-the-outer-frame.json) |
+| The Outer Reaches | 345703 | [345703-the-outer-reaches.json](./345703-the-outer-reaches.json) |
 | The Outer Rim: Survivor | 97344 | [97344-the-outer-rim-survivor.json](./97344-the-outer-rim-survivor.json) |
 | The Outer Space Bugs | 224751 | [224751-the-outer-space-bugs.json](./224751-the-outer-space-bugs.json) |
 | The Outer Worlds 2: Premium Edition | 348309 | [348309-the-outer-worlds-2-premium-edition.json](./348309-the-outer-worlds-2-premium-edition.json) |
