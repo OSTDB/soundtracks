@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babaliba | 45339 | [45339-babaliba.json](./45339-babaliba.json) |
 | Babava's Playspace | 278974 | [278974-babavas-playspace.json](./278974-babavas-playspace.json) |
 | Babbdi | 229631 | [229631-babbdi.json](./229631-babbdi.json) |
+| Babbling Brook | 351277 | [351277-babbling-brook.json](./351277-babbling-brook.json) |
 | Babe and Friends | 245571 | [245571-babe-and-friends.json](./245571-babe-and-friends.json) |
 | Babe and Friends | 49915 | [49915-babe-and-friends.json](./49915-babe-and-friends.json) |
 | Babe or Grave | 212288 | [212288-babe-or-grave.json](./212288-babe-or-grave.json) |
@@ -3077,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
 | Bitcoin VR | 28932 | [28932-bitcoin-vr.json](./28932-bitcoin-vr.json) |
 | Bitcoin VS Brain | 89961 | [89961-bitcoin-vs-brain.json](./89961-bitcoin-vs-brain.json) |
+| BitColony | 351263 | [351263-bitcolony.json](./351263-bitcolony.json) |
 | BitColor | 184116 | [184116-bitcolor.json](./184116-bitcolor.json) |
 | Bite at the Museum | 146727 | [146727-bite-at-the-museum.json](./146727-bite-at-the-museum.json) |
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
@@ -3600,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind People Simulator | 57612 | [57612-blind-people-simulator.json](./57612-blind-people-simulator.json) |
 | Blind Quest: The Frost Demon | 167264 | [167264-blind-quest-the-frost-demon.json](./167264-blind-quest-the-frost-demon.json) |
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
+| Blind Simulator | 351262 | [351262-blind-simulator.json](./351262-blind-simulator.json) |
 | Blind Spot | 377586 | [377586-blind-spot.json](./377586-blind-spot.json) |
 | Blind Wars | 69795 | [69795-blind-wars.json](./69795-blind-wars.json) |
 | Blind Wizard's Assistant | 195124 | [195124-blind-wizards-assistant.json](./195124-blind-wizards-assistant.json) |
@@ -5147,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain vs Zombies | 128993 | [128993-brain-vs-zombies.json](./128993-brain-vs-zombies.json) |
 | Brain Wars | 83580 | [83580-brain-wars.json](./83580-brain-wars.json) |
 | Brain Workout: 15 Puzzles for Memory, Math & Logic | 357977 | [357977-brain-workout-15-puzzles-for-memory-math-and-logic.json](./357977-brain-workout-15-puzzles-for-memory-math-and-logic.json) |
+| Brain Workout! Find the Difference in Classic Art | 351224 | [351224-brain-workout-find-the-difference-in-classic-art.json](./351224-brain-workout-find-the-difference-in-classic-art.json) |
 | Brain Workout! Jellyfish Puzzle | 364099 | [364099-brain-workout-jellyfish-puzzle.json](./364099-brain-workout-jellyfish-puzzle.json) |
 | Brain You Later | 135677 | [135677-brain-you-later.json](./135677-brain-you-later.json) |
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
@@ -5324,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
+| Breadbulls | 351264 | [351264-breadbulls.json](./351264-breadbulls.json) |
 | Breadieval | 361683 | [361683-breadieval.json](./361683-breadieval.json) |
 | BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
