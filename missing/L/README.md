@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lennus II: Fuuin no Shito | 38376 | [38376-lennus-ii-fuuin-no-shito.json](./38376-lennus-ii-fuuin-no-shito.json) |
 | Lenny Loosejocks Goes Walkabout | 170548 | [170548-lenny-loosejocks-goes-walkabout.json](./170548-lenny-loosejocks-goes-walkabout.json) |
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
+| Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
 | Lent: The Easter Bunny - Lent's Adventure: Story One | 215123 | [215123-lent-the-easter-bunny-lents-adventure-story-one.json](./215123-lent-the-easter-bunny-lents-adventure-story-one.json) |
 | Léo | 386726 | [386726-leo.json](./386726-leo.json) |
 | Leo & Leah | 130884 | [130884-leo-and-leah.json](./130884-leo-and-leah.json) |
@@ -1882,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
 | Line Runner 2 | 90401 | [90401-line-runner-2.json](./90401-line-runner-2.json) |
 | Line Up: Dots! | 243098 | [243098-line-up-dots.json](./243098-line-up-dots.json) |
+| Line Up! | 380661 | [380661-line-up.json](./380661-line-up.json) |
 | Line Wobbler | 219119 | [219119-line-wobbler.json](./219119-line-wobbler.json) |
 | Lineage | 388008 | [388008-lineage.json](./388008-lineage.json) |
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
