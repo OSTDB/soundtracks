@@ -564,6 +564,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Fusion: Race of Champions | 5998 | [5998-rally-fusion-race-of-champions.json](./5998-rally-fusion-race-of-champions.json) |
 | Rally King | 408922 | [408922-rally-king.json](./408922-rally-king.json) |
 | Rally Master Pro | 91897 | [91897-rally-master-pro.json](./91897-rally-master-pro.json) |
+| Rally Mechanic Simulator: Chaya Alexis | 359576 | [359576-rally-mechanic-simulator-chaya-alexis.json](./359576-rally-mechanic-simulator-chaya-alexis.json) |
+| Rally Mechanic Simulator: Chaya Falcon Mk1 | 359577 | [359577-rally-mechanic-simulator-chaya-falcon-mk1.json](./359577-rally-mechanic-simulator-chaya-falcon-mk1.json) |
+| Rally Mechanic Simulator: Chaya Falcon Mk2 | 359578 | [359578-rally-mechanic-simulator-chaya-falcon-mk2.json](./359578-rally-mechanic-simulator-chaya-falcon-mk2.json) |
+| Rally Mechanic Simulator: Chaya Gepard | 359579 | [359579-rally-mechanic-simulator-chaya-gepard.json](./359579-rally-mechanic-simulator-chaya-gepard.json) |
+| Rally Mechanic Simulator: Chaya Rescort | 359580 | [359580-rally-mechanic-simulator-chaya-rescort.json](./359580-rally-mechanic-simulator-chaya-rescort.json) |
+| Rally Mechanic Simulator: Hromaz G3 | 359581 | [359581-rally-mechanic-simulator-hromaz-g3.json](./359581-rally-mechanic-simulator-hromaz-g3.json) |
+| Rally Mechanic Simulator: Hromaz G4 | 359582 | [359582-rally-mechanic-simulator-hromaz-g4.json](./359582-rally-mechanic-simulator-hromaz-g4.json) |
+| Rally Mechanic Simulator: Hromaz GS3 | 359583 | [359583-rally-mechanic-simulator-hromaz-gs3.json](./359583-rally-mechanic-simulator-hromaz-gs3.json) |
+| Rally Mechanic Simulator: Hromaz Mara | 359584 | [359584-rally-mechanic-simulator-hromaz-mara.json](./359584-rally-mechanic-simulator-hromaz-mara.json) |
+| Rally Mechanic Simulator: Hromaz Regane | 359585 | [359585-rally-mechanic-simulator-hromaz-regane.json](./359585-rally-mechanic-simulator-hromaz-regane.json) |
+| Rally Mechanic Simulator: Hromaz S1600 | 359586 | [359586-rally-mechanic-simulator-hromaz-s1600.json](./359586-rally-mechanic-simulator-hromaz-s1600.json) |
+| Rally Mechanic Simulator: Inquiry S20H | 359587 | [359587-rally-mechanic-simulator-inquiry-s20h.json](./359587-rally-mechanic-simulator-inquiry-s20h.json) |
+| Rally Mechanic Simulator: Inquiry S30R | 359588 | [359588-rally-mechanic-simulator-inquiry-s30r.json](./359588-rally-mechanic-simulator-inquiry-s30r.json) |
+| Rally Mechanic Simulator: Mizuduki Revloution | 359589 | [359589-rally-mechanic-simulator-mizuduki-revloution.json](./359589-rally-mechanic-simulator-mizuduki-revloution.json) |
+| Rally Mechanic Simulator: Mizuduki SF 8 Turbo | 359590 | [359590-rally-mechanic-simulator-mizuduki-sf-8-turbo.json](./359590-rally-mechanic-simulator-mizuduki-sf-8-turbo.json) |
+| Rally Mechanic Simulator: Purdo 370 | 359591 | [359591-rally-mechanic-simulator-purdo-370.json](./359591-rally-mechanic-simulator-purdo-370.json) |
+| Rally Mechanic Simulator: Saze F1000 | 359592 | [359592-rally-mechanic-simulator-saze-f1000.json](./359592-rally-mechanic-simulator-saze-f1000.json) |
+| Rally Mechanic Simulator: Saze Faze 5 | 359593 | [359593-rally-mechanic-simulator-saze-faze-5.json](./359593-rally-mechanic-simulator-saze-faze-5.json) |
+| Rally Mechanic Simulator: Saze Longerino | 359594 | [359594-rally-mechanic-simulator-saze-longerino.json](./359594-rally-mechanic-simulator-saze-longerino.json) |
+| Rally Mechanic Simulator: Sortes G20S | 359595 | [359595-rally-mechanic-simulator-sortes-g20s.json](./359595-rally-mechanic-simulator-sortes-g20s.json) |
+| Rally Mechanic Simulator: Sortes G20TS | 359596 | [359596-rally-mechanic-simulator-sortes-g20ts.json](./359596-rally-mechanic-simulator-sortes-g20ts.json) |
+| Rally Mechanic Simulator: Tamashimi Road Sprinter | 359597 | [359597-rally-mechanic-simulator-tamashimi-road-sprinter.json](./359597-rally-mechanic-simulator-tamashimi-road-sprinter.json) |
+| Rally Mechanic Simulator: Tamashimi Roadster | 359598 | [359598-rally-mechanic-simulator-tamashimi-roadster.json](./359598-rally-mechanic-simulator-tamashimi-roadster.json) |
+| Rally Mechanic Simulator: Tamashimi Torol | 359599 | [359599-rally-mechanic-simulator-tamashimi-torol.json](./359599-rally-mechanic-simulator-tamashimi-torol.json) |
+| Rally Mechanic Simulator: Wictuz Lopo | 359600 | [359600-rally-mechanic-simulator-wictuz-lopo.json](./359600-rally-mechanic-simulator-wictuz-lopo.json) |
 | Rally of Rockets | 112330 | [112330-rally-of-rockets.json](./112330-rally-of-rockets.json) |
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
 | Rally Poland | 62454 | [62454-rally-poland.json](./62454-rally-poland.json) |
