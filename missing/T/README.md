@@ -3256,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
 | The Earth Dies Screaming | 22759 | [22759-the-earth-dies-screaming.json](./22759-the-earth-dies-screaming.json) |
 | The Earth Is Flat | 298144 | [298144-the-earth-is-flat.json](./298144-the-earth-is-flat.json) |
+| The Earth Sucks | 337278 | [337278-the-earth-sucks.json](./337278-the-earth-sucks.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
 | The Echo | 353970 | [353970-the-echo.json](./353970-the-echo.json) |
@@ -11184,6 +11185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick or Beat | 404236 | [404236-trick-or-beat.json](./404236-trick-or-beat.json) |
 | Trick or Treat | 197386 | [197386-trick-or-treat.json](./197386-trick-or-treat.json) |
 | Trick or Treat Halloween Solitaire | 386125 | [386125-trick-or-treat-halloween-solitaire.json](./386125-trick-or-treat-halloween-solitaire.json) |
+| Trick Solitaire | 337265 | [337265-trick-solitaire.json](./337265-trick-solitaire.json) |
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
 | Trick Trap | 46874 | [46874-trick-trap.json](./46874-trick-trap.json) |
 | Trick x Trick | 386689 | [386689-trick-x-trick.json](./386689-trick-x-trick.json) |
