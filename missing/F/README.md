@@ -3180,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
+| Food Truck Together | 385309 | [385309-food-truck-together.json](./385309-food-truck-together.json) |
 | Food Truck Tycoon + Flowlines VS | 243793 | [243793-food-truck-tycoon-flowlines-vs.json](./243793-food-truck-tycoon-flowlines-vs.json) |
 | Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
 | Food Truck Tycoon: Asian Cuisine - Complete Edition | 238046 | [238046-food-truck-tycoon-asian-cuisine-complete-edition.json](./238046-food-truck-tycoon-asian-cuisine-complete-edition.json) |
