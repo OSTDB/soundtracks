@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valakas: Immortal | 154393 | [154393-valakas-immortal.json](./154393-valakas-immortal.json) |
 | Valbrace | 318603 | [318603-valbrace.json](./318603-valbrace.json) |
 | Valcarta: Rise of the Demon | 32887 | [32887-valcarta-rise-of-the-demon.json](./32887-valcarta-rise-of-the-demon.json) |
+| Valdis | 377296 | [377296-valdis.json](./377296-valdis.json) |
 | Valdis Story: Abyssal City | 6134 | [6134-valdis-story-abyssal-city.json](./6134-valdis-story-abyssal-city.json) |
 | Vale | 263012 | [263012-vale.json](./263012-vale.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
@@ -199,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valla | 394379 | [394379-valla.json](./394379-valla.json) |
 | Vallen | 241955 | [241955-vallen.json](./241955-vallen.json) |
 | Valletine against Darkne | 159811 | [159811-valletine-against-darkne.json](./159811-valletine-against-darkne.json) |
+| Valley | 377295 | [377295-valley.json](./377295-valley.json) |
 | Valley Dash | 194649 | [194649-valley-dash.json](./194649-valley-dash.json) |
 | Valley of Decay | 119677 | [119677-valley-of-decay.json](./119677-valley-of-decay.json) |
 | Valley of No Roads | 152163 | [152163-valley-of-no-roads.json](./152163-valley-of-no-roads.json) |
@@ -303,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
+| Vanguard Princess | 377294 | [377294-vanguard-princess.json](./377294-vanguard-princess.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
 | Vanguard Princess: Hilda Rize | 170929 | [170929-vanguard-princess-hilda-rize.json](./170929-vanguard-princess-hilda-rize.json) |
 | Vanguard Run | 57345 | [57345-vanguard-run.json](./57345-vanguard-run.json) |
@@ -452,9 +455,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
 | Veilfall: True Strength | 333066 | [333066-veilfall-true-strength.json](./333066-veilfall-true-strength.json) |
 | Veilwalkers | 349308 | [349308-veilwalkers.json](./349308-veilwalkers.json) |
+| Veilwalkers | 377293 | [377293-veilwalkers.json](./377293-veilwalkers.json) |
 | Vein Hotel | 102180 | [102180-vein-hotel.json](./102180-vein-hotel.json) |
 | Vein-X | 355021 | [355021-vein-x.json](./355021-vein-x.json) |
 | Veinless Property | 144362 | [144362-veinless-property.json](./144362-veinless-property.json) |
+| Veinrider | 377275 | [377275-veinrider.json](./377275-veinrider.json) |
 | Veins | 213467 | [213467-veins.json](./213467-veins.json) |
 | Vekquence | 26694 | [26694-vekquence.json](./26694-vekquence.json) |
 | Vektar | 382791 | [382791-vektar.json](./382791-vektar.json) |
@@ -473,11 +478,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
 | Velocity | 9184 | [9184-velocity.json](./9184-velocity.json) |
+| VeloCity | 377292 | [377292-velocity.json](./377292-velocity.json) |
 | Velocity 2X: Critical Urgency DLC Pack | 250375 | [250375-velocity-2x-critical-urgency-dlc-pack.json](./250375-velocity-2x-critical-urgency-dlc-pack.json) |
 | Velocity 2X: Daily Sprint | 250380 | [250380-velocity-2x-daily-sprint.json](./250380-velocity-2x-daily-sprint.json) |
 | Velocity 2X: Dual Core DLC Pack | 250377 | [250377-velocity-2x-dual-core-dlc-pack.json](./250377-velocity-2x-dual-core-dlc-pack.json) |
 | Velocity Classics: Volume 1 | 84252 | [84252-velocity-classics-volume-1.json](./84252-velocity-classics-volume-1.json) |
 | Velocity Redux | 413229 | [413229-velocity-redux.json](./413229-velocity-redux.json) |
+| Velocity Rift | 377299 | [377299-velocity-rift.json](./377299-velocity-rift.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
 | Velocity Supernova | 108298 | [108298-velocity-supernova.json](./108298-velocity-supernova.json) |
 | Velocity Uncapped | 411614 | [411614-velocity-uncapped.json](./411614-velocity-uncapped.json) |
@@ -614,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
 | Vesper | 137046 | [137046-vesper.json](./137046-vesper.json) |
+| Vesper | 377291 | [377291-vesper.json](./377291-vesper.json) |
 | Vesper Hotel | 391067 | [391067-vesper-hotel.json](./391067-vesper-hotel.json) |
 | Vesper: Ether Saga | 158673 | [158673-vesper-ether-saga.json](./158673-vesper-ether-saga.json) |
 | Vesper.5 | 139808 | [139808-vesper-5.json](./139808-vesper-5.json) |
@@ -658,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
 | VHS World '89 | 410912 | [410912-vhs-world-89.json](./410912-vhs-world-89.json) |
 | VHSMan | 386417 | [386417-vhsman.json](./386417-vhsman.json) |
+| VIA | 377289 | [377289-via.json](./377289-via.json) |
 | Viaje al centro de la Tierra | 138807 | [138807-viaje-al-centro-de-la-tierra.json](./138807-viaje-al-centro-de-la-tierra.json) |
 | Vianiato PopOut | 334757 | [334757-vianiato-popout.json](./334757-vianiato-popout.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
@@ -1127,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vladik Brutal | 159796 | [159796-vladik-brutal.json](./159796-vladik-brutal.json) |
 | Vladimere's Lhore | 216497 | [216497-vladimeres-lhore.json](./216497-vladimeres-lhore.json) |
 | Vladimir 2021 | 156542 | [156542-vladimir-2021.json](./156542-vladimir-2021.json) |
+| Vlak | 377281 | [377281-vlak.json](./377281-vlak.json) |
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
 | VMod | 129164 | [129164-vmod.json](./129164-vmod.json) |
 | VMX | 334205 | [334205-vmx.json](./334205-vmx.json) |
@@ -1191,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Operators | 413874 | [413874-void-operators.json](./413874-void-operators.json) |
 | Void Pachinko | 384212 | [384212-void-pachinko.json](./384212-void-pachinko.json) |
 | Void Phantom | 388256 | [388256-void-phantom.json](./388256-void-phantom.json) |
+| Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
 | Void Salvage | 388936 | [388936-void-salvage.json](./388936-void-salvage.json) |
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
@@ -1222,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
 | Voidrel | 408996 | [408996-voidrel.json](./408996-voidrel.json) |
 | Voidrun | 232011 | [232011-voidrun.json](./232011-voidrun.json) |
+| Voidrunner | 377287 | [377287-voidrunner.json](./377287-voidrunner.json) |
 | Voids Adrift | 144103 | [144103-voids-adrift.json](./144103-voids-adrift.json) |
 | Voids Vigil | 282024 | [282024-voids-vigil.json](./282024-voids-vigil.json) |
 | Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
