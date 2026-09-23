@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost Kaloki X | 20508 | [20508-outpost-kaloki-x.json](./20508-outpost-kaloki-x.json) |
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
 | Outpost Luna | 174363 | [174363-outpost-luna.json](./174363-outpost-luna.json) |
+| Outpour | 366406 | [366406-outpour.json](./366406-outpour.json) |
 | Outracer | 51575 | [51575-outracer.json](./51575-outracer.json) |
 | Outrage | 33144 | [33144-outrage.json](./33144-outrage.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
