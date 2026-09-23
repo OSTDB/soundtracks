@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | Neptune Island | 319796 | [319796-neptune-island.json](./319796-neptune-island.json) |
+| Neptune Spear | 371424 | [371424-neptune-spear.json](./371424-neptune-spear.json) |
 | Neptune's Daughters | 40958 | [40958-neptunes-daughters.json](./40958-neptunes-daughters.json) |
 | Neptune's Pride | 65746 | [65746-neptunes-pride.json](./65746-neptunes-pride.json) |
 | Neptune's Pride II: Triton | 62443 | [62443-neptunes-pride-ii-triton.json](./62443-neptunes-pride-ii-triton.json) |
@@ -2367,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram: Master's Legacy - The Greatest Pack | 161739 | [161739-nonogram-masters-legacy-the-greatest-pack.json](./161739-nonogram-masters-legacy-the-greatest-pack.json) |
 | Nonogram: Master's Legacy - The Speed Pack | 349415 | [349415-nonogram-masters-legacy-the-speed-pack.json](./349415-nonogram-masters-legacy-the-speed-pack.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
+| Nonomatic | 371453 | [371453-nonomatic.json](./371453-nonomatic.json) |
 | Nonstop Balls | 87731 | [87731-nonstop-balls.json](./87731-nonstop-balls.json) |
 | Nonstop Game | 208966 | [208966-nonstop-game.json](./208966-nonstop-game.json) |
 | Nonstop Knight | 57367 | [57367-nonstop-knight.json](./57367-nonstop-knight.json) |
