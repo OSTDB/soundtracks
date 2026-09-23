@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi to Yumemishi | 194582 | [194582-kimi-to-yumemishi.json](./194582-kimi-to-yumemishi.json) |
 | Kimi wa Hero ~ Taiketsu! | 74766 | [74766-kimi-wa-hero-taiketsu.json](./74766-kimi-wa-hero-taiketsu.json) |
 | Kimmie Jong on Nukes the World | 110989 | [110989-kimmie-jong-on-nukes-the-world.json](./110989-kimmie-jong-on-nukes-the-world.json) |
+| Kimochii Classroom | 360209 | [360209-kimochii-classroom.json](./360209-kimochii-classroom.json) |
 | Kimokawaiii | 304184 | [304184-kimokawaiii.json](./304184-kimokawaiii.json) |
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kin | 84169 | [84169-kin.json](./84169-kin.json) |
