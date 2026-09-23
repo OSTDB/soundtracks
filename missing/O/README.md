@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni Asobi | 151529 | [151529-oni-asobi.json](./151529-oni-asobi.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
+| Onigiri Shop Simulator | 361911 | [361911-onigiri-shop-simulator.json](./361911-onigiri-shop-simulator.json) |
 | Onigo Hunter | 133618 | [133618-onigo-hunter.json](./133618-onigo-hunter.json) |
 | Onii-Chan | 89968 | [89968-onii-chan.json](./89968-onii-chan.json) |
 | Onii-chan Asobo | 111087 | [111087-onii-chan-asobo.json](./111087-onii-chan-asobo.json) |
@@ -1639,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
 | Otherworld Legends | 136996 | [136996-otherworld-legends.json](./136996-otherworld-legends.json) |
 | Otherworld Legends: Hannah | 199589 | [199589-otherworld-legends-hannah.json](./199589-otherworld-legends-hannah.json) |
+| Otherworld Legends: Skin - The Unreturning | 361892 | [361892-otherworld-legends-skin-the-unreturning.json](./361892-otherworld-legends-skin-the-unreturning.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otisdub Tag Plus | 417651 | [417651-otisdub-tag-plus.json](./417651-otisdub-tag-plus.json) |
 | Otogi: Myth of Demons | 5975 | [5975-otogi-myth-of-demons.json](./5975-otogi-myth-of-demons.json) |
