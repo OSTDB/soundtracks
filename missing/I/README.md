@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I*Chu: Chibi Edition | 292142 | [292142-i-chu-chibi-edition.json](./292142-i-chu-chibi-edition.json) |
 | I/O | 64950 | [64950-i-o.json](./64950-i-o.json) |
 | I`m Isekai Hero | 296935 | [296935-i-m-isekai-hero.json](./296935-i-m-isekai-hero.json) |
+| I3ergsteiger | 379034 | [379034-i3ergsteiger.json](./379034-i3ergsteiger.json) |
 | i3Peaks - Tri Peaks Solitaire | 87084 | [87084-i3peaks-tri-peaks-solitaire.json](./87084-i3peaks-tri-peaks-solitaire.json) |
 | IAH: Internet War | 371911 | [371911-iah-internet-war.json](./371911-iah-internet-war.json) |
 | Iai | 196885 | [196885-iai.json](./196885-iai.json) |
@@ -629,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
 | IdleCraft | 289438 | [289438-idlecraft.json](./289438-idlecraft.json) |
+| IdleDragon | 379011 | [379011-idledragon.json](./379011-idledragon.json) |
 | Idlemon | 390637 | [390637-idlemon.json](./390637-idlemon.json) |
 | IdleOn | 143440 | [143440-idleon.json](./143440-idleon.json) |
 | Idleplex | 261270 | [261270-idleplex.json](./261270-idleplex.json) |
