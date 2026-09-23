@@ -2488,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful Handhelds | 405078 | [405078-wonderful-handhelds.json](./405078-wonderful-handhelds.json) |
 | Wonderful mini golf | 175301 | [175301-wonderful-mini-golf.json](./175301-wonderful-mini-golf.json) |
 | Wonderful Neoran Valley | 393100 | [393100-wonderful-neoran-valley.json](./393100-wonderful-neoran-valley.json) |
+| Wonderful Purgatory | 369228 | [369228-wonderful-purgatory.json](./369228-wonderful-purgatory.json) |
 | Wonderful Waking World | 203873 | [203873-wonderful-waking-world.json](./203873-wonderful-waking-world.json) |
 | Wonderful Wizard Reverie | 415892 | [415892-wonderful-wizard-reverie.json](./415892-wonderful-wizard-reverie.json) |
 | Wonderglade | 123424 | [123424-wonderglade.json](./123424-wonderglade.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderLang French | 312549 | [312549-wonderlang-french.json](./312549-wonderlang-french.json) |
 | Wonderlang Korean | 345031 | [345031-wonderlang-korean.json](./345031-wonderlang-korean.json) |
 | WonderLang Spanish | 381733 | [381733-wonderlang-spanish.json](./381733-wonderlang-spanish.json) |
+| Wonders of the Deep | 369214 | [369214-wonders-of-the-deep.json](./369214-wonders-of-the-deep.json) |
 | Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
 | Wondersnake | 245383 | [245383-wondersnake.json](./245383-wondersnake.json) |
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
