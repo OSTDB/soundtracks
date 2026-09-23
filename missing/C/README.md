@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
+| Capy's Hot Springs Haven | 389706 | [389706-capys-hot-springs-haven.json](./389706-capys-hot-springs-haven.json) |
 | Capybara | 229820 | [229820-capybara.json](./229820-capybara.json) |
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrotting Brain | 34418 | [34418-carrotting-brain.json](./34418-carrotting-brain.json) |
 | Carry Onward | 249787 | [249787-carry-onward.json](./249787-carry-onward.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
+| Carry the Pack Rack | 389711 | [389711-carry-the-pack-rack.json](./389711-carry-the-pack-rack.json) |
 | Cars 2 | 210274 | [210274-cars-2.json](./210274-cars-2.json) |
 | Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
@@ -1714,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellar: Rags and Knife | 171025 | [171025-cellar-rags-and-knife.json](./171025-cellar-rags-and-knife.json) |
 | CellBreach | 176378 | [176378-cellbreach.json](./176378-cellbreach.json) |
 | Cellbreak | 383956 | [383956-cellbreak.json](./383956-cellbreak.json) |
+| Cellchemist | 389731 | [389731-cellchemist.json](./389731-cellchemist.json) |
 | Celldom Classic | 404823 | [404823-celldom-classic.json](./404823-celldom-classic.json) |
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
 | Cellitaire | 338713 | [338713-cellitaire.json](./338713-cellitaire.json) |
@@ -2304,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Escape | 301285 | [301285-chibi-escape.json](./301285-chibi-escape.json) |
 | Chibi Fighters 2.0 | 130375 | [130375-chibi-fighters-2-0.json](./130375-chibi-fighters-2-0.json) |
 | Chibi Knight | 386258 | [386258-chibi-knight.json](./386258-chibi-knight.json) |
+| Chibi Knight Classic | 389703 | [389703-chibi-knight-classic.json](./389703-chibi-knight-classic.json) |
 | Chibi Maruko-chan Deluxe Quiz | 47574 | [47574-chibi-maruko-chan-deluxe-quiz.json](./47574-chibi-maruko-chan-deluxe-quiz.json) |
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
@@ -3621,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clubhouse Games | 18597 | [18597-clubhouse-games.json](./18597-clubhouse-games.json) |
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
 | Cluck | 195184 | [195184-cluck.json](./195184-cluck.json) |
+| Cluck and Tag | 389702 | [389702-cluck-and-tag.json](./389702-cluck-and-tag.json) |
 | Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
@@ -4518,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
 | Conductor & Abode | 52831 | [52831-conductor-and-abode.json](./52831-conductor-and-abode.json) |
 | Conductor Cat | 335364 | [335364-conductor-cat.json](./335364-conductor-cat.json) |
+| Cone Flyers Castaways | 389723 | [389723-cone-flyers-castaways.json](./389723-cone-flyers-castaways.json) |
 | Cone Wars | 57918 | [57918-cone-wars.json](./57918-cone-wars.json) |
 | Coneru: Dimension Girl | 267466 | [267466-coneru-dimension-girl.json](./267466-coneru-dimension-girl.json) |
 | Cones in Space | 254771 | [254771-cones-in-space.json](./254771-cones-in-space.json) |
@@ -6625,6 +6631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultivation Story: Reincarnation | 211228 | [211228-cultivation-story-reincarnation.json](./211228-cultivation-story-reincarnation.json) |
 | Culto a los dioses | 228428 | [228428-culto-a-los-dioses.json](./228428-culto-a-los-dioses.json) |
 | Cults and Daggers | 36160 | [36160-cults-and-daggers.json](./36160-cults-and-daggers.json) |
+| Cults of the Endtimes | 389742 | [389742-cults-of-the-endtimes.json](./389742-cults-of-the-endtimes.json) |
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Culture Warz: Time's Up Karen! | 272864 | [272864-culture-warz-times-up-karen.json](./272864-culture-warz-times-up-karen.json) |
 | Cultures Online Heroes | 11382 | [11382-cultures-online-heroes.json](./11382-cultures-online-heroes.json) |
@@ -7048,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg: Rise | 311492 | [311492-cyborg-rise.json](./311492-cyborg-rise.json) |
 | Cybotron | 13835 | [13835-cybotron.json](./13835-cybotron.json) |
 | Cybrid | 154359 | [154359-cybrid.json](./154359-cybrid.json) |
+| Cybro | 389732 | [389732-cybro.json](./389732-cybro.json) |
 | Cyclanoid | 57679 | [57679-cyclanoid.json](./57679-cyclanoid.json) |
 | Cycle | 202381 | [202381-cycle.json](./202381-cycle.json) |
 | Cycle | 47997 | [47997-cycle.json](./47997-cycle.json) |
