@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opps! They Love Me Way Too Much! | 292163 | [292163-opps-they-love-me-way-too-much.json](./292163-opps-they-love-me-way-too-much.json) |
 | Oprost | 380109 | [380109-oprost.json](./380109-oprost.json) |
 | Opscam | 337156 | [337156-opscam.json](./337156-opscam.json) |
+| OpsCam: Body Cam Shooter | 345675 | [345675-opscam-body-cam-shooter.json](./345675-opscam-body-cam-shooter.json) |
 | Optasia: The Last Visit | 391034 | [391034-optasia-the-last-visit.json](./391034-optasia-the-last-visit.json) |
 | Optica | 107226 | [107226-optica.json](./107226-optica.json) |
 | Optical Illusions | 282729 | [282729-optical-illusions.json](./282729-optical-illusions.json) |
