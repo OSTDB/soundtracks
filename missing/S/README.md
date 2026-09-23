@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvador Dali painting match | 103529 | [103529-salvador-dali-painting-match.json](./103529-salvador-dali-painting-match.json) |
 | Salvage | 181242 | [181242-salvage.json](./181242-salvage.json) |
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
+| Salvage Unlimited | 391302 | [391302-salvage-unlimited.json](./391302-salvage-unlimited.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Salvation | 79851 | [79851-salvation.json](./79851-salvation.json) |
 | Salvation Denied | 395837 | [395837-salvation-denied.json](./395837-salvation-denied.json) |
@@ -2797,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepherds! | 334710 | [334710-sheepherds.json](./334710-sheepherds.json) |
 | Sheepland | 175269 | [175269-sheepland.json](./175269-sheepland.json) |
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
+| Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
 | Sheer Poison | 142884 | [142884-sheer-poison.json](./142884-sheer-poison.json) |
 | Sheesh Adventures | 58492 | [58492-sheesh-adventures.json](./58492-sheesh-adventures.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
@@ -5582,8 +5584,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2016 | 34335 | [34335-soccer-manager-2016.json](./34335-soccer-manager-2016.json) |
 | Soccer Manager 2017 | 31824 | [31824-soccer-manager-2017.json](./31824-soccer-manager-2017.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
+| Soccer Penalty Kick | 391354 | [391354-soccer-penalty-kick.json](./391354-soccer-penalty-kick.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
+| Soccer Puzzle | 391351 | [391351-soccer-puzzle.json](./391351-soccer-puzzle.json) |
 | Soccer Rally | 175287 | [175287-soccer-rally.json](./175287-soccer-rally.json) |
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
@@ -9990,6 +9994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Rider | 210637 | [210637-street-rider.json](./210637-street-rider.json) |
 | Street Riders | 46017 | [46017-street-riders.json](./46017-street-riders.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
+| Street Soccer Simulator | 391342 | [391342-street-soccer-simulator.json](./391342-street-soccer-simulator.json) |
 | Street Sports Baseball | 52201 | [52201-street-sports-baseball.json](./52201-street-sports-baseball.json) |
 | Street Sports Basketball | 37163 | [37163-street-sports-basketball.json](./37163-street-sports-basketball.json) |
 | Street Sports Football | 55153 | [55153-street-sports-football.json](./55153-street-sports-football.json) |
@@ -10345,6 +10350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succulent Studio | 400224 | [400224-succulent-studio.json](./400224-succulent-studio.json) |
 | Such Ninja | 254154 | [254154-such-ninja.json](./254154-such-ninja.json) |
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
+| Suck It Up | 391318 | [391318-suck-it-up.json](./391318-suck-it-up.json) |
 | Suck It! | 266236 | [266236-suck-it.json](./266236-suck-it.json) |
 | Suck Up! | 280431 | [280431-suck-up.json](./280431-suck-up.json) |
 | Sucker head: Bodycam | 338215 | [338215-sucker-head-bodycam.json](./338215-sucker-head-bodycam.json) |
@@ -10733,6 +10739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset of Ate | 264611 | [264611-sunset-of-ate.json](./264611-sunset-of-ate.json) |
 | Sunset Overdrive | 3247 | [3247-sunset-overdrive.json](./3247-sunset-overdrive.json) |
 | Sunset Racer | 284485 | [284485-sunset-racer.json](./284485-sunset-racer.json) |
+| Sunset Racing | 391305 | [391305-sunset-racing.json](./391305-sunset-racing.json) |
 | Sunset Riders | 276081 | [276081-sunset-riders.json](./276081-sunset-riders.json) |
 | Sunset Riders | 321396 | [321396-sunset-riders.json](./321396-sunset-riders.json) |
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
