@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baron Wittard: Nemesis of Ragnarok | 10022 | [10022-baron-wittard-nemesis-of-ragnarok.json](./10022-baron-wittard-nemesis-of-ragnarok.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
+| Baroque-Ya | 368639 | [368639-baroque-ya.json](./368639-baroque-ya.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
 | Barrack | 83919 | [83919-barrack.json](./83919-barrack.json) |
 | Barrage | 146228 | [146228-barrage.json](./146228-barrage.json) |
@@ -1180,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basted | 67666 | [67666-basted.json](./67666-basted.json) |
 | Basterd Blitz | 276703 | [276703-basterd-blitz.json](./276703-basterd-blitz.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
+| Bastionforge | 368651 | [368651-bastionforge.json](./368651-bastionforge.json) |
 | Bastyrion: Endless Tide | 398573 | [398573-bastyrion-endless-tide.json](./398573-bastyrion-endless-tide.json) |
 | Bat | 152136 | [152136-bat.json](./152136-bat.json) |
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
@@ -4725,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bosorka | 223445 | [223445-bosorka.json](./223445-bosorka.json) |
 | Boss Barrage | 110986 | [110986-boss-barrage.json](./110986-boss-barrage.json) |
 | Boss Hunter | 233485 | [233485-boss-hunter.json](./233485-boss-hunter.json) |
+| Boss Hunter | 368679 | [368679-boss-hunter.json](./368679-boss-hunter.json) |
 | Boss Life 3D | 224090 | [224090-boss-life-3d.json](./224090-boss-life-3d.json) |
 | Boss Pit | 394823 | [394823-boss-pit.json](./394823-boss-pit.json) |
 | Boss Simulator | 293109 | [293109-boss-simulator.json](./293109-boss-simulator.json) |
