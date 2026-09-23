@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vietnam '65 | 36116 | [36116-vietnam-65.json](./36116-vietnam-65.json) |
 | Vietnam 2: Special Assignment | 73247 | [73247-vietnam-2-special-assignment.json](./73247-vietnam-2-special-assignment.json) |
 | Vietnam War Platoon | 214746 | [214746-vietnam-war-platoon.json](./214746-vietnam-war-platoon.json) |
+| Vietnam Warrior: Against the US Invasion | 380126 | [380126-vietnam-warrior-against-the-us-invasion.json](./380126-vietnam-warrior-against-the-us-invasion.json) |
 | Vietnam: Black Ops | 78703 | [78703-vietnam-black-ops.json](./78703-vietnam-black-ops.json) |
 | Viewergames Racing | 139242 | [139242-viewergames-racing.json](./139242-viewergames-racing.json) |
 | Viewpoint | 20707 | [20707-viewpoint.json](./20707-viewpoint.json) |
