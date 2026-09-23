@@ -5389,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Digger: Tropical Island | 300858 | [300858-crab-digger-tropical-island.json](./300858-crab-digger-tropical-island.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
 | Crab God | 244884 | [244884-crab-god.json](./244884-crab-god.json) |
+| Crab God: Supporter Pack | 382435 | [382435-crab-god-supporter-pack.json](./382435-crab-god-supporter-pack.json) |
 | Crab Island | 226775 | [226775-crab-island.json](./226775-crab-island.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
@@ -5618,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
+| Crazy Captain Cannon: Mission - Billionaire Buster | 382437 | [382437-crazy-captain-cannon-mission-billionaire-buster.json](./382437-crazy-captain-cannon-mission-billionaire-buster.json) |
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Cars | 12550 | [12550-crazy-cars.json](./12550-crazy-cars.json) |
 | Crazy Cars: Hit the Road | 62976 | [62976-crazy-cars-hit-the-road.json](./62976-crazy-cars-hit-the-road.json) |
@@ -7072,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberstrike 2 | 22810 | [22810-cyberstrike-2.json](./22810-cyberstrike-2.json) |
 | CyberTaxi | 140602 | [140602-cybertaxi.json](./140602-cybertaxi.json) |
 | CyberTaxi: Lunatic Nights | 296388 | [296388-cybertaxi-lunatic-nights.json](./296388-cybertaxi-lunatic-nights.json) |
+| CyberTD: Cartridge Card Style | 382439 | [382439-cybertd-cartridge-card-style.json](./382439-cybertd-cartridge-card-style.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
 | CyberVerse | 280898 | [280898-cyberverse.json](./280898-cyberverse.json) |
 | CyberVirus | 153842 | [153842-cybervirus.json](./153842-cybervirus.json) |
