@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T16:04:30.161Z",
-  "total_missing": 111977,
+  "generated_at": "2026-09-23T16:18:31.546Z",
+  "total_missing": 112027,
   "games": [
     {
       "igdb_id": 176875,
@@ -96673,6 +96673,11 @@
       "file": "missing/C/231622-crazy-counting.json"
     },
     {
+      "igdb_id": 354088,
+      "game_name": "Crazy Crab 2",
+      "file": "missing/C/354088-crazy-crab-2.json"
+    },
+    {
       "igdb_id": 122198,
       "game_name": "Crazy Critters: Combat Cats",
       "file": "missing/C/122198-crazy-critters-combat-cats.json"
@@ -167713,6 +167718,11 @@
       "file": "missing/F/82918-flower-of-ice-blossoming-under-the-moon.json"
     },
     {
+      "igdb_id": 354058,
+      "game_name": "Flower Power",
+      "file": "missing/F/354058-flower-power.json"
+    },
+    {
       "igdb_id": 299174,
       "game_name": "Flower Shop of Broken Wonders",
       "file": "missing/F/299174-flower-shop-of-broken-wonders.json"
@@ -206446,6 +206456,11 @@
       "igdb_id": 392767,
       "game_name": "Hello World",
       "file": "missing/H/392767-hello-world.json"
+    },
+    {
+      "igdb_id": 354089,
+      "game_name": "Hello World: a developer story",
+      "file": "missing/H/354089-hello-world-a-developer-story.json"
     },
     {
       "igdb_id": 219827,
@@ -556526,6 +556541,241 @@
       "igdb_id": 6008,
       "game_name": "Zen Pinball 2",
       "file": "missing/Z/6008-zen-pinball-2.json"
+    },
+    {
+      "igdb_id": 354059,
+      "game_name": "Zen Pinball World: A Charlie Brown Christmas Pinball",
+      "file": "missing/Z/354059-zen-pinball-world-a-charlie-brown-christmas-pinball.json"
+    },
+    {
+      "igdb_id": 354060,
+      "game_name": "Zen Pinball World: A Samurai's Vengeance",
+      "file": "missing/Z/354060-zen-pinball-world-a-samurais-vengeance.json"
+    },
+    {
+      "igdb_id": 354084,
+      "game_name": "Zen Pinball World: Attack from Mars",
+      "file": "missing/Z/354084-zen-pinball-world-attack-from-mars.json"
+    },
+    {
+      "igdb_id": 354061,
+      "game_name": "Zen Pinball World: Banzai Run",
+      "file": "missing/Z/354061-zen-pinball-world-banzai-run.json"
+    },
+    {
+      "igdb_id": 354062,
+      "game_name": "Zen Pinball World: Battlestar Galactica Pinball",
+      "file": "missing/Z/354062-zen-pinball-world-battlestar-galactica-pinball.json"
+    },
+    {
+      "igdb_id": 354063,
+      "game_name": "Zen Pinball World: Black Knight 2000",
+      "file": "missing/Z/354063-zen-pinball-world-black-knight-2000.json"
+    },
+    {
+      "igdb_id": 354085,
+      "game_name": "Zen Pinball World: Black Rose",
+      "file": "missing/Z/354085-zen-pinball-world-black-rose.json"
+    },
+    {
+      "igdb_id": 354064,
+      "game_name": "Zen Pinball World: Borderlands - Vault Hunter Pinball",
+      "file": "missing/Z/354064-zen-pinball-world-borderlands-vault-hunter-pinball.json"
+    },
+    {
+      "igdb_id": 354065,
+      "game_name": "Zen Pinball World: Brothers in Arms - Win the War Pinball",
+      "file": "missing/Z/354065-zen-pinball-world-brothers-in-arms-win-the-war-pinball.json"
+    },
+    {
+      "igdb_id": 354066,
+      "game_name": "Zen Pinball World: Camp Bloodbrook",
+      "file": "missing/Z/354066-zen-pinball-world-camp-bloodbrook.json"
+    },
+    {
+      "igdb_id": 354096,
+      "game_name": "Zen Pinball World: Cirqus Voltaire",
+      "file": "missing/Z/354096-zen-pinball-world-cirqus-voltaire.json"
+    },
+    {
+      "igdb_id": 354067,
+      "game_name": "Zen Pinball World: Crypt of the Necrodancer Pinball",
+      "file": "missing/Z/354067-zen-pinball-world-crypt-of-the-necrodancer-pinball.json"
+    },
+    {
+      "igdb_id": 354097,
+      "game_name": "Zen Pinball World: Dr. Dude and his Excellent Ray",
+      "file": "missing/Z/354097-zen-pinball-world-dr-dude-and-his-excellent-ray.json"
+    },
+    {
+      "igdb_id": 354068,
+      "game_name": "Zen Pinball World: Earthshaker!",
+      "file": "missing/Z/354068-zen-pinball-world-earthshaker.json"
+    },
+    {
+      "igdb_id": 354069,
+      "game_name": "Zen Pinball World: Exploding Kittens - A Pinball Cat-astrophe",
+      "file": "missing/Z/354069-zen-pinball-world-exploding-kittens-a-pinball-cat-astrophe.json"
+    },
+    {
+      "igdb_id": 354098,
+      "game_name": "Zen Pinball World: FunHouse",
+      "file": "missing/Z/354098-zen-pinball-world-funhouse.json"
+    },
+    {
+      "igdb_id": 354070,
+      "game_name": "Zen Pinball World: Gloomhaven Pinball",
+      "file": "missing/Z/354070-zen-pinball-world-gloomhaven-pinball.json"
+    },
+    {
+      "igdb_id": 354071,
+      "game_name": "Zen Pinball World: Goat Simulator Pinball",
+      "file": "missing/Z/354071-zen-pinball-world-goat-simulator-pinball.json"
+    },
+    {
+      "igdb_id": 354099,
+      "game_name": "Zen Pinball World: Godzilla Pinball",
+      "file": "missing/Z/354099-zen-pinball-world-godzilla-pinball.json"
+    },
+    {
+      "igdb_id": 354100,
+      "game_name": "Zen Pinball World: Godzilla vs. Kong Pinball",
+      "file": "missing/Z/354100-zen-pinball-world-godzilla-vs-kong-pinball.json"
+    },
+    {
+      "igdb_id": 354072,
+      "game_name": "Zen Pinball World: Homeworld - Journey to Hiigara Pinball",
+      "file": "missing/Z/354072-zen-pinball-world-homeworld-journey-to-hiigara-pinball.json"
+    },
+    {
+      "igdb_id": 354101,
+      "game_name": "Zen Pinball World: Hurricane",
+      "file": "missing/Z/354101-zen-pinball-world-hurricane.json"
+    },
+    {
+      "igdb_id": 354086,
+      "game_name": "Zen Pinball World: Junk Yard",
+      "file": "missing/Z/354086-zen-pinball-world-junk-yard.json"
+    },
+    {
+      "igdb_id": 354073,
+      "game_name": "Zen Pinball World: Knight Rider Pinball",
+      "file": "missing/Z/354073-zen-pinball-world-knight-rider-pinball.json"
+    },
+    {
+      "igdb_id": 354102,
+      "game_name": "Zen Pinball World: Kong Pinball",
+      "file": "missing/Z/354102-zen-pinball-world-kong-pinball.json"
+    },
+    {
+      "igdb_id": 354087,
+      "game_name": "Zen Pinball World: Medieval Madness",
+      "file": "missing/Z/354087-zen-pinball-world-medieval-madness.json"
+    },
+    {
+      "igdb_id": 354090,
+      "game_name": "Zen Pinball World: Monster Bash",
+      "file": "missing/Z/354090-zen-pinball-world-monster-bash.json"
+    },
+    {
+      "igdb_id": 354103,
+      "game_name": "Zen Pinball World: No Good Gofers",
+      "file": "missing/Z/354103-zen-pinball-world-no-good-gofers.json"
+    },
+    {
+      "igdb_id": 354104,
+      "game_name": "Zen Pinball World: Pacific Rim Pinball",
+      "file": "missing/Z/354104-zen-pinball-world-pacific-rim-pinball.json"
+    },
+    {
+      "igdb_id": 354105,
+      "game_name": "Zen Pinball World: Red and Ted's Road Show",
+      "file": "missing/Z/354105-zen-pinball-world-red-and-teds-road-show.json"
+    },
+    {
+      "igdb_id": 354091,
+      "game_name": "Zen Pinball World: Safe Cracker",
+      "file": "missing/Z/354091-zen-pinball-world-safe-cracker.json"
+    },
+    {
+      "igdb_id": 354074,
+      "game_name": "Zen Pinball World: Sky Pirates - Treasures of the Clouds",
+      "file": "missing/Z/354074-zen-pinball-world-sky-pirates-treasures-of-the-clouds.json"
+    },
+    {
+      "igdb_id": 354075,
+      "game_name": "Zen Pinball World: South Park - Butters' Very Own Pinball Game",
+      "file": "missing/Z/354075-zen-pinball-world-south-park-butters-very-own-pinball-game.json"
+    },
+    {
+      "igdb_id": 354076,
+      "game_name": "Zen Pinball World: South Park - Super Sweet Pinball",
+      "file": "missing/Z/354076-zen-pinball-world-south-park-super-sweet-pinball.json"
+    },
+    {
+      "igdb_id": 354106,
+      "game_name": "Zen Pinball World: Space Station",
+      "file": "missing/Z/354106-zen-pinball-world-space-station.json"
+    },
+    {
+      "igdb_id": 354107,
+      "game_name": "Zen Pinball World: Swords of Fury",
+      "file": "missing/Z/354107-zen-pinball-world-swords-of-fury.json"
+    },
+    {
+      "igdb_id": 354077,
+      "game_name": "Zen Pinball World: Terraforming Mars Pinball",
+      "file": "missing/Z/354077-zen-pinball-world-terraforming-mars-pinball.json"
+    },
+    {
+      "igdb_id": 354078,
+      "game_name": "Zen Pinball World: The Addams Family",
+      "file": "missing/Z/354078-zen-pinball-world-the-addams-family.json"
+    },
+    {
+      "igdb_id": 354092,
+      "game_name": "Zen Pinball World: The Champion Pub",
+      "file": "missing/Z/354092-zen-pinball-world-the-champion-pub.json"
+    },
+    {
+      "igdb_id": 354093,
+      "game_name": "Zen Pinball World: The Creature From the Black Lagoon",
+      "file": "missing/Z/354093-zen-pinball-world-the-creature-from-the-black-lagoon.json"
+    },
+    {
+      "igdb_id": 354094,
+      "game_name": "Zen Pinball World: The Getaway - High Speed II",
+      "file": "missing/Z/354094-zen-pinball-world-the-getaway-high-speed-ii.json"
+    },
+    {
+      "igdb_id": 354079,
+      "game_name": "Zen Pinball World: The Princess Bride Pinball",
+      "file": "missing/Z/354079-zen-pinball-world-the-princess-bride-pinball.json"
+    },
+    {
+      "igdb_id": 354095,
+      "game_name": "Zen Pinball World: Theatre of Magic",
+      "file": "missing/Z/354095-zen-pinball-world-theatre-of-magic.json"
+    },
+    {
+      "igdb_id": 354080,
+      "game_name": "Zen Pinball World: Twilight Zone",
+      "file": "missing/Z/354080-zen-pinball-world-twilight-zone.json"
+    },
+    {
+      "igdb_id": 354081,
+      "game_name": "Zen Pinball World: Verne's Mysterious Island",
+      "file": "missing/Z/354081-zen-pinball-world-vernes-mysterious-island.json"
+    },
+    {
+      "igdb_id": 354082,
+      "game_name": "Zen Pinball World: World Cup Soccer",
+      "file": "missing/Z/354082-zen-pinball-world-world-cup-soccer.json"
+    },
+    {
+      "igdb_id": 354083,
+      "game_name": "Zen Pinball World: Xena - Warrior Princess Pinball",
+      "file": "missing/Z/354083-zen-pinball-world-xena-warrior-princess-pinball.json"
     },
     {
       "igdb_id": 319223,
