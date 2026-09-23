@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Darkness | 130730 | [130730-realms-of-darkness.json](./130730-realms-of-darkness.json) |
 | Realms of Despair | 127951 | [127951-realms-of-despair.json](./127951-realms-of-despair.json) |
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
+| Realms of Exether | 356269 | [356269-realms-of-exether.json](./356269-realms-of-exether.json) |
 | Realms of Flow | 253591 | [253591-realms-of-flow.json](./253591-realms-of-flow.json) |
 | Realms of Pixel | 333553 | [333553-realms-of-pixel.json](./333553-realms-of-pixel.json) |
 | Realms of Reverie | 358855 | [358855-realms-of-reverie.json](./358855-realms-of-reverie.json) |
@@ -3285,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
 | Robot Auto Racing Simulator | 127950 | [127950-robot-auto-racing-simulator.json](./127950-robot-auto-racing-simulator.json) |
 | Robot Battle V | 400337 | [400337-robot-battle-v.json](./400337-robot-battle-v.json) |
+| Robot Beekeeper | 356304 | [356304-robot-beekeeper.json](./356304-robot-beekeeper.json) |
 | Robot Bros | 89240 | [89240-robot-bros.json](./89240-robot-bros.json) |
 | Robot Car War: Transform Battle Machines | 187472 | [187472-robot-car-war-transform-battle-machines.json](./187472-robot-car-war-transform-battle-machines.json) |
 | Robot Carnage | 122852 | [122852-robot-carnage.json](./122852-robot-carnage.json) |
