@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
 | Desktop Blocks | 368549 | [368549-desktop-blocks.json](./368549-desktop-blocks.json) |
 | Desktop Clicker | 350513 | [350513-desktop-clicker.json](./350513-desktop-clicker.json) |
+| Desktop Cube-Man | 368673 | [368673-desktop-cube-man.json](./368673-desktop-cube-man.json) |
 | Desktop Defender | 371976 | [371976-desktop-defender.json](./371976-desktop-defender.json) |
 | Desktop Dodgeball 2 | 317224 | [317224-desktop-dodgeball-2.json](./317224-desktop-dodgeball-2.json) |
 | Desktop Driller | 410454 | [410454-desktop-driller.json](./410454-desktop-driller.json) |
@@ -3016,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig a Road | 310048 | [310048-dig-a-road.json](./310048-dig-a-road.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
+| Dig Down | 368689 | [368689-dig-down.json](./368689-dig-down.json) |
 | Dig Dug | 218861 | [218861-dig-dug.json](./218861-dig-dug.json) |
 | Dig Dug | 2636 | [2636-dig-dug.json](./2636-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
