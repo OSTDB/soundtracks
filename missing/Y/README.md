@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yum Yummy Superlicious | 96736 | [96736-yum-yummy-superlicious.json](./96736-yum-yummy-superlicious.json) |
 | Yum! Finger | 243710 | [243710-yum-finger.json](./243710-yum-finger.json) |
 | Yum's Farm | 375857 | [375857-yums-farm.json](./375857-yums-farm.json) |
+| Yumahorome: Toki wo Tometa Yakata de Asu wo Sagasu Maigo-tachi | 368643 | [368643-yumahorome-toki-wo-tometa-yakata-de-asu-wo-sagasu-maigo-tachi.json](./368643-yumahorome-toki-wo-tometa-yakata-de-asu-wo-sagasu-maigo-tachi.json) |
 | YuMayhem | 292861 | [292861-yumayhem.json](./292861-yumayhem.json) |
 | Yume | 142269 | [142269-yume.json](./142269-yume.json) |
 | Yume 2: Sleepless Night | 154362 | [154362-yume-2-sleepless-night.json](./154362-yume-2-sleepless-night.json) |
