@@ -3289,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Steel: World War II, Europe 1939-45 | 71783 | [71783-clash-of-steel-world-war-ii-europe-1939-45.json](./71783-clash-of-steel-world-war-ii-europe-1939-45.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
+| Clash of the Olympians | 384233 | [384233-clash-of-the-olympians.json](./384233-clash-of-the-olympians.json) |
 | Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
 | Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
@@ -6705,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Cases | 116470 | [116470-curious-cases.json](./116470-curious-cases.json) |
 | Curious Expedition | 19319 | [19319-curious-expedition.json](./19319-curious-expedition.json) |
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
+| Curious George Early Learning Adventure | 384220 | [384220-curious-george-early-learning-adventure.json](./384220-curious-george-early-learning-adventure.json) |
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
 | Curling Super Championship | 63566 | [63566-curling-super-championship.json](./63566-curling-super-championship.json) |
