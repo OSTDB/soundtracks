@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Xtreme: Fast Rally Driver 3D | 192909 | [192909-racing-xtreme-fast-rally-driver-3d.json](./192909-racing-xtreme-fast-rally-driver-3d.json) |
 | Racing: 4 Games on One Game Pak | 84175 | [84175-racing-4-games-on-one-game-pak.json](./84175-racing-4-games-on-one-game-pak.json) |
 | Racing: Breakthrough Gaming Arcade | 145668 | [145668-racing-breakthrough-gaming-arcade.json](./145668-racing-breakthrough-gaming-arcade.json) |
+| Racing: Storm Chase | 369232 | [369232-racing-storm-chase.json](./369232-racing-storm-chase.json) |
 | Rack | 140574 | [140574-rack.json](./140574-rack.json) |
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
 | Rack and Run | 338805 | [338805-rack-and-run.json](./338805-rack-and-run.json) |
@@ -513,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Butcher | 211937 | [211937-rainy-butcher.json](./211937-rainy-butcher.json) |
 | Rainy Day | 179673 | [179673-rainy-day.json](./179673-rainy-day.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
+| Rainy Day | 369229 | [369229-rainy-day.json](./369229-rainy-day.json) |
 | Rainy Day Racer | 104049 | [104049-rainy-day-racer.json](./104049-rainy-day-racer.json) |
 | Rainy Day Roommate | 158168 | [158168-rainy-day-roommate.json](./158168-rainy-day-roommate.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
@@ -802,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
 | Raw | 119581 | [119581-raw.json](./119581-raw.json) |
+| Raw Concrete | 369223 | [369223-raw-concrete.json](./369223-raw-concrete.json) |
 | Raw Data/Sprint Vector | 139965 | [139965-raw-data-sprint-vector.json](./139965-raw-data-sprint-vector.json) |
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
@@ -827,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray'z Arcade Chronology | 207918 | [207918-rayz-arcade-chronology.json](./207918-rayz-arcade-chronology.json) |
 | Ray'z Arcade Chronology: Special Limited Edition | 212331 | [212331-rayz-arcade-chronology-special-limited-edition.json](./212331-rayz-arcade-chronology-special-limited-edition.json) |
 | Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
+| Raybeem | 369204 | [369204-raybeem.json](./369204-raybeem.json) |
 | Raybound | 145683 | [145683-raybound.json](./145683-raybound.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
