@@ -2536,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bhop PRO | 144294 | [144294-bhop-pro.json](./144294-bhop-pro.json) |
 | Bi-Color | 176381 | [176381-bi-color.json](./176381-bi-color.json) |
 | Bi! Bi! | 40742 | [40742-bi-bi.json](./40742-bi-bi.json) |
+| Bianka Lovesick | 363025 | [363025-bianka-lovesick.json](./363025-bianka-lovesick.json) |
 | Biathlon 2008 | 70651 | [70651-biathlon-2008.json](./70651-biathlon-2008.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
@@ -4838,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Cat | 352747 | [352747-bounce-cat.json](./352747-bounce-cat.json) |
 | Bounce House | 262487 | [262487-bounce-house.json](./262487-bounce-house.json) |
+| Bounce It | 363033 | [363033-bounce-it.json](./363033-bounce-it.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
 | Bounce Mania | 146849 | [146849-bounce-mania.json](./146849-bounce-mania.json) |
 | Bounce Original | 344928 | [344928-bounce-original.json](./344928-bounce-original.json) |
