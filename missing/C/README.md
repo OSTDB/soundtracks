@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Venia | 108423 | [108423-castle-of-venia.json](./108423-castle-of-venia.json) |
 | Castle of Void | 264713 | [264713-castle-of-void.json](./264713-castle-of-void.json) |
 | Castle of White Night | 197853 | [197853-castle-of-white-night.json](./197853-castle-of-white-night.json) |
+| Castle on Crimson Rock | 348967 | [348967-castle-on-crimson-rock.json](./348967-castle-on-crimson-rock.json) |
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
 | Castle Puzzlefort | 271814 | [271814-castle-puzzlefort.json](./271814-castle-puzzlefort.json) |
 | Castle Quest | 307104 | [307104-castle-quest.json](./307104-castle-quest.json) |
@@ -4946,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
 | Controlled Climate Chaos | 282130 | [282130-controlled-climate-chaos.json](./282130-controlled-climate-chaos.json) |
 | Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
+| Conundrum | 348975 | [348975-conundrum.json](./348975-conundrum.json) |
 | Conundrum | 380087 | [380087-conundrum.json](./380087-conundrum.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
 | Convenience Stories | 197791 | [197791-convenience-stories.json](./197791-convenience-stories.json) |
@@ -6524,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryoloop | 141809 | [141809-cryoloop.json](./141809-cryoloop.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
 | Crypt Architect | 236269 | [236269-crypt-architect.json](./236269-crypt-architect.json) |
+| Crypt Capers | 348938 | [348938-crypt-capers.json](./348938-crypt-capers.json) |
 | Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
 | Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
 | Crypt of Dracula | 102808 | [102808-crypt-of-dracula.json](./102808-crypt-of-dracula.json) |
@@ -6786,6 +6789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
 | Cubians VR | 29919 | [29919-cubians-vr.json](./29919-cubians-vr.json) |
+| Cubic Blitz | 348984 | [348984-cubic-blitz.json](./348984-cubic-blitz.json) |
 | Cubic Castles | 17727 | [17727-cubic-castles.json](./17727-cubic-castles.json) |
 | Cubic Color Confusion | 416087 | [416087-cubic-color-confusion.json](./416087-cubic-color-confusion.json) |
 | Cubic Cosmos | 348835 | [348835-cubic-cosmos.json](./348835-cubic-cosmos.json) |
