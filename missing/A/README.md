@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AHTS Ship Simulator | 44207 | [44207-ahts-ship-simulator.json](./44207-ahts-ship-simulator.json) |
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
+| Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
@@ -2018,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All I want for Christmas are Subgames: Collector's Edition | 416871 | [416871-all-i-want-for-christmas-are-subgames-collectors-edition.json](./416871-all-i-want-for-christmas-are-subgames-collectors-edition.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All In Everyday | 326091 | [326091-all-in-everyday.json](./326091-all-in-everyday.json) |
+| All in One Adventure VR | 368663 | [368663-all-in-one-adventure-vr.json](./368663-all-in-one-adventure-vr.json) |
 | All in Vain | 392139 | [392139-all-in-vain.json](./392139-all-in-vain.json) |
 | All is Fair in Dust and Air | 142266 | [142266-all-is-fair-in-dust-and-air.json](./142266-all-is-fair-in-dust-and-air.json) |
 | All is Fair in Love and Vore: The Tavorion Collection | 250600 | [250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json](./250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json) |
@@ -2751,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Rituals: Stonehenge | 216467 | [216467-ancient-rituals-stonehenge.json](./216467-ancient-rituals-stonehenge.json) |
 | Ancient Roman: Power of Dark Side | 193330 | [193330-ancient-roman-power-of-dark-side.json](./193330-ancient-roman-power-of-dark-side.json) |
 | Ancient Rome 2 | 25504 | [25504-ancient-rome-2.json](./25504-ancient-rome-2.json) |
+| Ancient Ruins | 368662 | [368662-ancient-ruins.json](./368662-ancient-ruins.json) |
 | Ancient Rus | 30355 | [30355-ancient-rus.json](./30355-ancient-rus.json) |
 | Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
@@ -4160,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardent Azur | 211442 | [211442-ardent-azur.json](./211442-ardent-azur.json) |
 | Ardent Fever | 316980 | [316980-ardent-fever.json](./316980-ardent-fever.json) |
 | Ardent Seas | 146258 | [146258-ardent-seas.json](./146258-ardent-seas.json) |
+| Ardent Wilds | 368644 | [368644-ardent-wilds.json](./368644-ardent-wilds.json) |
 | Ardent: Rise | 408274 | [408274-ardent-rise.json](./408274-ardent-rise.json) |
 | Ardilous | 183523 | [183523-ardilous.json](./183523-ardilous.json) |
 | Ardor 2 | 365175 | [365175-ardor-2.json](./365175-ardor-2.json) |
