@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MatchUp Friends: Find Pairs | 104438 | [104438-matchup-friends-find-pairs.json](./104438-matchup-friends-find-pairs.json) |
 | MatchVentures | 251818 | [251818-matchventures.json](./251818-matchventures.json) |
 | Matchy Star | 83498 | [83498-matchy-star.json](./83498-matchy-star.json) |
+| Matchy Way Tales | 365884 | [365884-matchy-way-tales.json](./365884-matchy-way-tales.json) |
 | MatchyGotchy Z | 109661 | [109661-matchygotchy-z.json](./109661-matchygotchy-z.json) |
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
@@ -2183,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem ZX | 74755 | [74755-mayhem-zx.json](./74755-mayhem-zx.json) |
 | Mayo Mayo | 321605 | [321605-mayo-mayo.json](./321605-mayo-mayo.json) |
 | Mayohiga | 151530 | [151530-mayohiga.json](./151530-mayohiga.json) |
+| Mayoi Shopping Street | 365861 | [365861-mayoi-shopping-street.json](./365861-mayoi-shopping-street.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
 | Mayor May Knott | 249857 | [249857-mayor-may-knott.json](./249857-mayor-may-knott.json) |
 | Mayor Moon | 121434 | [121434-mayor-moon.json](./121434-mayor-moon.json) |
@@ -3041,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Quickie | 310754 | [310754-memory-quickie.json](./310754-memory-quickie.json) |
 | Memory Recoil | 338793 | [338793-memory-recoil.json](./338793-memory-recoil.json) |
 | Memory Shake | 341465 | [341465-memory-shake.json](./341465-memory-shake.json) |
+| Memory Showdown | 365883 | [365883-memory-showdown.json](./365883-memory-showdown.json) |
 | Memory Stamps | 174223 | [174223-memory-stamps.json](./174223-memory-stamps.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
 | Memory Wonderland: Bond | 259083 | [259083-memory-wonderland-bond.json](./259083-memory-wonderland-bond.json) |
