@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
 | Last Epoch | 95118 | [95118-last-epoch.json](./95118-last-epoch.json) |
+| Last Epoch: Beneath Ancient Skies | 362439 | [362439-last-epoch-beneath-ancient-skies.json](./362439-last-epoch-beneath-ancient-skies.json) |
 | Last Epoch: Shattered Omens | 408917 | [408917-last-epoch-shattered-omens.json](./408917-last-epoch-shattered-omens.json) |
 | Last Epoch: Tombs of the Erased | 341008 | [341008-last-epoch-tombs-of-the-erased.json](./341008-last-epoch-tombs-of-the-erased.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
