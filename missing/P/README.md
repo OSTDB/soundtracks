@@ -3658,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Skate | 214020 | [214020-pocket-skate.json](./214020-pocket-skate.json) |
 | Pocket Slimes | 192949 | [192949-pocket-slimes.json](./192949-pocket-slimes.json) |
 | Pocket Squid Fishing | 248282 | [248282-pocket-squid-fishing.json](./248282-pocket-squid-fishing.json) |
+| Pocket Stadium | 337256 | [337256-pocket-stadium.json](./337256-pocket-stadium.json) |
 | Pocket Starships | 57124 | [57124-pocket-starships.json](./57124-pocket-starships.json) |
 | Pocket Starships: Star Trek Borg Invasion | 54680 | [54680-pocket-starships-star-trek-borg-invasion.json](./54680-pocket-starships-star-trek-borg-invasion.json) |
 | Pocket Tactics | 177000 | [177000-pocket-tactics.json](./177000-pocket-tactics.json) |
