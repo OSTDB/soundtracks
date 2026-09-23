@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New English Training: Learning with Tempo - Advanced Edition | 260942 | [260942-new-english-training-learning-with-tempo-advanced-edition.json](./260942-new-english-training-learning-with-tempo-advanced-edition.json) |
 | New English Training: Learning with Tempo - Beginners Edition | 260944 | [260944-new-english-training-learning-with-tempo-beginners-edition.json](./260944-new-english-training-learning-with-tempo-beginners-edition.json) |
 | New Era | 135862 | [135862-new-era.json](./135862-new-era.json) |
+| New Eyes Cycle | 374273 | [374273-new-eyes-cycle.json](./374273-new-eyes-cycle.json) |
 | New Fortress | 130875 | [130875-new-fortress.json](./130875-new-fortress.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
