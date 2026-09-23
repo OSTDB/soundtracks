@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Truck Parking | 220191 | [220191-cargo-truck-parking.json](./220191-cargo-truck-parking.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Cargo, Please! | 395719 | [395719-cargo-please.json](./395719-cargo-please.json) |
+| Cargogo | 351260 | [351260-cargogo.json](./351260-cargogo.json) |
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
@@ -4285,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorize | 380079 | [380079-colorize.json](./380079-colorize.json) |
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
 | Colorizing: Pleasure | 411811 | [411811-colorizing-pleasure.json](./411811-colorizing-pleasure.json) |
+| Colorizing: Satisfaction | 351225 | [351225-colorizing-satisfaction.json](./351225-colorizing-satisfaction.json) |
 | Colorless | 380078 | [380078-colorless.json](./380078-colorless.json) |
 | Colorless Life | 50525 | [50525-colorless-life.json](./50525-colorless-life.json) |
 | Colorless Life | 50528 | [50528-colorless-life.json](./50528-colorless-life.json) |
@@ -6357,6 +6359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
 | Crouching Pony Hidden Dragon | 17173 | [17173-crouching-pony-hidden-dragon.json](./17173-crouching-pony-hidden-dragon.json) |
 | Crow | 17848 | [17848-crow.json](./17848-crow.json) |
+| Crow Boss | 351271 | [351271-crow-boss.json](./351271-crow-boss.json) |
 | Crow Country | 273522 | [273522-crow-country.json](./273522-crow-country.json) |
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
 | Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
@@ -6499,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
 | Crying Aseimei Sendou | 45540 | [45540-crying-aseimei-sendou.json](./45540-crying-aseimei-sendou.json) |
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
+| Cryken Part4 | 351226 | [351226-cryken-part4.json](./351226-cryken-part4.json) |
 | Crymachina | 240141 | [240141-crymachina.json](./240141-crymachina.json) |
 | Cryo | 374688 | [374688-cryo.json](./374688-cryo.json) |
 | Cryogenesis | 217413 | [217413-cryogenesis.json](./217413-cryogenesis.json) |
