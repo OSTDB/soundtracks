@@ -2647,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
 | Gradius ReBirth | 1489 | [1489-gradius-rebirth.json](./1489-gradius-rebirth.json) |
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
+| Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
 | Graffiti Kingdom | 11358 | [11358-graffiti-kingdom.json](./11358-graffiti-kingdom.json) |
@@ -3481,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
 | GTR 2: FIA GT Racing Game | 737 | [737-gtr-2-fia-gt-racing-game.json](./737-gtr-2-fia-gt-racing-game.json) |
 | GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
+| Gu Zhen Ren: Reverend Insanity | 358472 | [358472-gu-zhen-ren-reverend-insanity.json](./358472-gu-zhen-ren-reverend-insanity.json) |
 | Gu-gu Ganmo: Run-run Odekake Date Da ze ii | 349414 | [349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json](./349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json) |
 | Guac' a Mole | 85170 | [85170-guac-a-mole.json](./85170-guac-a-mole.json) |
 | Guacamelee! 2 Complete | 119074 | [119074-guacamelee-2-complete.json](./119074-guacamelee-2-complete.json) |
