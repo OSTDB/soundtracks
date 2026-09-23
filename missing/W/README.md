@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.A.R.D. | 379375 | [379375-w-a-r-d.json](./379375-w-a-r-d.json) |
 | W.H.A.L.E. | 130855 | [130855-w-h-a-l-e.json](./130855-w-h-a-l-e.json) |
 | W.I.M.S. | 374736 | [374736-w-i-m-s.json](./374736-w-i-m-s.json) |
+| W.I.T.C.H. | 374260 | [374260-w-i-t-c-h.json](./374260-w-i-t-c-h.json) |
 | W.O.L.F | 256333 | [256333-w-o-l-f.json](./256333-w-o-l-f.json) |
 | W.O.T.E: Waking On The Endtimes | 309875 | [309875-w-o-t-e-waking-on-the-endtimes.json](./309875-w-o-t-e-waking-on-the-endtimes.json) |
 | W.T. | 151689 | [151689-w-t.json](./151689-w-t.json) |
@@ -1098,6 +1099,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weinende Rose | 140584 | [140584-weinende-rose.json](./140584-weinende-rose.json) |
 | Weird Al's Great Adventure | 55933 | [55933-weird-als-great-adventure.json](./55933-weird-als-great-adventure.json) |
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
+| Weird Comic Art | 374278 | [374278-weird-comic-art.json](./374278-weird-comic-art.json) |
+| Weird Comic Art: The Athletic & Museum | 374280 | [374280-weird-comic-art-the-athletic-and-museum.json](./374280-weird-comic-art-the-athletic-and-museum.json) |
 | Weird creatures | 30779 | [30779-weird-creatures.json](./30779-weird-creatures.json) |
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
 | Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
