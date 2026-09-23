@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epochs of Fire | 333009 | [333009-epochs-of-fire.json](./333009-epochs-of-fire.json) |
 | Epolevne | 176355 | [176355-epolevne.json](./176355-epolevne.json) |
 | Epos 11 | 355525 | [355525-epos-11.json](./355525-epos-11.json) |
+| Epos Survivors | 372688 | [372688-epos-survivors.json](./372688-epos-survivors.json) |
 | EPS Series Vol. 1: Because I Love You - Yukiko Morikawa | 286507 | [286507-eps-series-vol-1-because-i-love-you-yukiko-morikawa.json](./286507-eps-series-vol-1-because-i-love-you-yukiko-morikawa.json) |
 | EPS Series Vol. 2: Moonlight to Daybreak - Yukie Nakama | 286510 | [286510-eps-series-vol-2-moonlight-to-daybreak-yukie-nakama.json](./286510-eps-series-vol-2-moonlight-to-daybreak-yukie-nakama.json) |
 | Epsilon | 17391 | [17391-epsilon.json](./17391-epsilon.json) |
