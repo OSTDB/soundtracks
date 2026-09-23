@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
 | A Trans Man's Grindr DMs | 282106 | [282106-a-trans-mans-grindr-dms.json](./282106-a-trans-mans-grindr-dms.json) |
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
+| A Trip to the Mall at Night | 359054 | [359054-a-trip-to-the-mall-at-night.json](./359054-a-trip-to-the-mall-at-night.json) |
 | A Trip to Yugoslavia | 68932 | [68932-a-trip-to-yugoslavia.json](./68932-a-trip-to-yugoslavia.json) |
 | A True Story | 258043 | [258043-a-true-story.json](./258043-a-true-story.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
@@ -4242,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Circus | 179619 | [179619-arena-circus.json](./179619-arena-circus.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
 | Arena Football | 5731 | [5731-arena-football.json](./5731-arena-football.json) |
+| Arena II | 359082 | [359082-arena-ii.json](./359082-arena-ii.json) |
 | Arena Kingdoms | 265690 | [265690-arena-kingdoms.json](./265690-arena-kingdoms.json) |
 | Arena Master | 30802 | [30802-arena-master.json](./30802-arena-master.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
@@ -5949,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Aye Leon | 387342 | [387342-aye-leon.json](./387342-aye-leon.json) |
+| Aylin: The Story of Tom | 359072 | [359072-aylin-the-story-of-tom.json](./359072-aylin-the-story-of-tom.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
 | Ayo the Clown | 26755 | [26755-ayo-the-clown.json](./26755-ayo-the-clown.json) |
 | Ayoub: Episode 2 | 166173 | [166173-ayoub-episode-2.json](./166173-ayoub-episode-2.json) |
