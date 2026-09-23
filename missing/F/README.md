@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearless Wheels | 103889 | [103889-fearless-wheels.json](./103889-fearless-wheels.json) |
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
+| Fearwoods | 388421 | [388421-fearwoods.json](./388421-fearwoods.json) |
 | Feast of the Beast: Unleashed | 381697 | [381697-feast-of-the-beast-unleashed.json](./381697-feast-of-the-beast-unleashed.json) |
 | Feast Your Eyes | 138580 | [138580-feast-your-eyes.json](./138580-feast-your-eyes.json) |
 | Feast: Book One - Family Ties | 137036 | [137036-feast-book-one-family-ties.json](./137036-feast-book-one-family-ties.json) |
@@ -1603,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
 | Fighters' Glory | 129700 | [129700-fighters-glory.json](./129700-fighters-glory.json) |
 | Fighters' Impact | 44826 | [44826-fighters-impact.json](./44826-fighters-impact.json) |
+| Fightfinity | 388361 | [388361-fightfinity.json](./388361-fightfinity.json) |
 | FightGirl | 310025 | [310025-fightgirl.json](./310025-fightgirl.json) |
 | Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fightin' Words | 297074 | [297074-fightin-words.json](./297074-fightin-words.json) |
@@ -3679,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Rewritten: Costume Pack 1 | 277939 | [277939-fortune-rewritten-costume-pack-1.json](./277939-fortune-rewritten-costume-pack-1.json) |
 | Fortune Street | 19930 | [19930-fortune-street.json](./19930-fortune-street.json) |
 | Fortune Street Smart | 64398 | [64398-fortune-street-smart.json](./64398-fortune-street-smart.json) |
+| Fortune Teller Simulator | 388385 | [388385-fortune-teller-simulator.json](./388385-fortune-teller-simulator.json) |
 | Fortune Telling | 121042 | [121042-fortune-telling.json](./121042-fortune-telling.json) |
 | Fortune: Hoshi no Furi Sosogu Oka | 344480 | [344480-fortune-hoshi-no-furi-sosogu-oka.json](./344480-fortune-hoshi-no-furi-sosogu-oka.json) |
 | Fortune's Run | 165071 | [165071-fortunes-run.json](./165071-fortunes-run.json) |
