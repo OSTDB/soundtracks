@@ -4124,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infernalist | 371355 | [371355-the-infernalist.json](./371355-the-infernalist.json) |
 | The Inferno | 358963 | [358963-the-inferno.json](./358963-the-inferno.json) |
 | The Infinite Grimoire | 401825 | [401825-the-infinite-grimoire.json](./401825-the-infinite-grimoire.json) |
+| The Infinity Road | 341160 | [341160-the-infinity-road.json](./341160-the-infinity-road.json) |
 | The Infinity String | 74043 | [74043-the-infinity-string.json](./74043-the-infinity-string.json) |
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
