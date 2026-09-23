@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Game | 235339 | [235339-immortal-game.json](./235339-immortal-game.json) |
 | Immortal Girl | 128005 | [128005-immortal-girl.json](./128005-immortal-girl.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
+| Immortal Immanuel | 360196 | [360196-immortal-immanuel.json](./360196-immortal-immanuel.json) |
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
 | Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
 | Immortal Love: Bitter Awakening | 187951 | [187951-immortal-love-bitter-awakening.json](./187951-immortal-love-bitter-awakening.json) |
