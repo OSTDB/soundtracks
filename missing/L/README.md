@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lambdarune | 351685 | [351685-lambdarune.json](./351685-lambdarune.json) |
 | Lambo Jump | 234711 | [234711-lambo-jump.json](./234711-lambo-jump.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
+| Laments of a Platinum Rose | 384199 | [384199-laments-of-a-platinum-rose.json](./384199-laments-of-a-platinum-rose.json) |
 | Lamia 1999 | 123022 | [123022-lamia-1999.json](./123022-lamia-1999.json) |
 | Lamia's Bambina | 240783 | [240783-lamias-bambina.json](./240783-lamias-bambina.json) |
 | Lamo | 121465 | [121465-lamo.json](./121465-lamo.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stand: Reborn | 113490 | [113490-last-stand-reborn.json](./113490-last-stand-reborn.json) |
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
 | Last Star | 316097 | [316097-last-star.json](./316097-last-star.json) |
+| Last State | 384198 | [384198-last-state.json](./384198-last-state.json) |
 | Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
 | Last Stretch | 389095 | [389095-last-stretch.json](./389095-last-stretch.json) |
 | Last Striker | 40270 | [40270-last-striker.json](./40270-last-striker.json) |
@@ -1199,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemonade Tycoon 2: New York Edition | 68041 | [68041-lemonade-tycoon-2-new-york-edition.json](./68041-lemonade-tycoon-2-new-york-edition.json) |
 | Lemonade. | 184051 | [184051-lemonade.json](./184051-lemonade.json) |
 | Lemonhunter | 185124 | [185124-lemonhunter.json](./185124-lemonhunter.json) |
+| Lemonia The Last Castle | 384217 | [384217-lemonia-the-last-castle.json](./384217-lemonia-the-last-castle.json) |
 | Lemons Must Die | 70408 | [70408-lemons-must-die.json](./70408-lemons-must-die.json) |
 | Lempo | 214175 | [214175-lempo.json](./214175-lempo.json) |
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
