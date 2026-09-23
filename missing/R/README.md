@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidfield 2 | 160242 | [160242-raidfield-2.json](./160242-raidfield-2.json) |
 | Raidlands | 125826 | [125826-raidlands.json](./125826-raidlands.json) |
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
+| Raidou Remastered: Kuzunoha Village Trainings | 347332 | [347332-raidou-remastered-kuzunoha-village-trainings.json](./347332-raidou-remastered-kuzunoha-village-trainings.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
 | Raik | 135688 | [135688-raik.json](./135688-raik.json) |
 | Rail Cargo Simulator | 33446 | [33446-rail-cargo-simulator.json](./33446-rail-cargo-simulator.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Virtuals | 116823 | [116823-realm-of-virtuals.json](./116823-realm-of-virtuals.json) |
 | Realm Royale Shadowfall Bundle | 115647 | [115647-realm-royale-shadowfall-bundle.json](./115647-realm-royale-shadowfall-bundle.json) |
 | Realm Survivors | 337163 | [337163-realm-survivors.json](./337163-realm-survivors.json) |
+| Realm Watch | 347371 | [347371-realm-watch.json](./347371-realm-watch.json) |
 | RealmCraft | 86509 | [86509-realmcraft.json](./86509-realmcraft.json) |
 | Realmguard | 404341 | [404341-realmguard.json](./404341-realmguard.json) |
 | Realms Edge | 368568 | [368568-realms-edge.json](./368568-realms-edge.json) |
@@ -3361,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotragedy 2: Countdown to Doomsday | 171548 | [171548-robotragedy-2-countdown-to-doomsday.json](./171548-robotragedy-2-countdown-to-doomsday.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
+| Robots and Planets | 347361 | [347361-robots-and-planets.json](./347361-robots-and-planets.json) |
 | Robots at Midnight | 276180 | [276180-robots-at-midnight.json](./276180-robots-at-midnight.json) |
 | Robots Coop | 174736 | [174736-robots-coop.json](./174736-robots-coop.json) |
 | Robots Love Ice Cream | 62997 | [62997-robots-love-ice-cream.json](./62997-robots-love-ice-cream.json) |
@@ -4731,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RustNaut | 348308 | [348308-rustnaut.json](./348308-rustnaut.json) |
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
+| Rusty Foodies | 347351 | [347351-rusty-foodies.json](./347351-rusty-foodies.json) |
 | Rusty Lake Paradise | 54678 | [54678-rusty-lake-paradise.json](./54678-rusty-lake-paradise.json) |
 | Rusty Lake: Roots | 25222 | [25222-rusty-lake-roots.json](./25222-rusty-lake-roots.json) |
 | Rusty Punk | 177923 | [177923-rusty-punk.json](./177923-rusty-punk.json) |
