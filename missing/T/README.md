@@ -4447,12 +4447,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Safe Place | 290000 | [290000-the-last-safe-place.json](./290000-the-last-safe-place.json) |
 | The Last Saviour: Search of Truth | 236367 | [236367-the-last-saviour-search-of-truth.json](./236367-the-last-saviour-search-of-truth.json) |
 | The Last Scaler | 314466 | [314466-the-last-scaler.json](./314466-the-last-scaler.json) |
+| The Last Screening | 367061 | [367061-the-last-screening.json](./367061-the-last-screening.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
 | The Last Show of Mr. Chardish: Act I | 170386 | [170386-the-last-show-of-mr-chardish-act-i.json](./170386-the-last-show-of-mr-chardish-act-i.json) |
 | The Last Sigil | 88325 | [88325-the-last-sigil.json](./88325-the-last-sigil.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
+| The Last Son of Vorona | 367012 | [367012-the-last-son-of-vorona.json](./367012-the-last-son-of-vorona.json) |
 | The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
 | The Last Sphinx ARG | 111473 | [111473-the-last-sphinx-arg.json](./111473-the-last-sphinx-arg.json) |
@@ -10783,6 +10785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel to Canada | 315043 | [315043-travel-to-canada.json](./315043-travel-to-canada.json) |
 | Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
+| Traveler Lost | 367031 | [367031-traveler-lost.json](./367031-traveler-lost.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traveler's Bastion: Spirit Guardians Expansion | 241506 | [241506-travelers-bastion-spirit-guardians-expansion.json](./241506-travelers-bastion-spirit-guardians-expansion.json) |
 | Traveler's Refrain | 287784 | [287784-travelers-refrain.json](./287784-travelers-refrain.json) |
@@ -11151,6 +11154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit: The CD32 Edition | 39040 | [39040-trivial-pursuit-the-cd32-edition.json](./39040-trivial-pursuit-the-cd32-edition.json) |
 | Trivial PurTwitch | 396241 | [396241-trivial-purtwitch.json](./396241-trivial-purtwitch.json) |
 | Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
+| Trix and the Horny Tower | 367016 | [367016-trix-and-the-horny-tower.json](./367016-trix-and-the-horny-tower.json) |
 | Trixology | 381231 | [381231-trixology.json](./381231-trixology.json) |
 | Trizeal | 93063 | [93063-trizeal.json](./93063-trizeal.json) |
 | Trizeal Remix | 32927 | [32927-trizeal-remix.json](./32927-trizeal-remix.json) |
