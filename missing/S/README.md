@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.M.A.C.K. | 225097 | [225097-s-m-a-c-k.json](./225097-s-m-a-c-k.json) |
 | S.M.A.R.T. Adventures: Mission Math - Sabotage at the Space Station | 86092 | [86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
 | S.M.A.S.H.E.D. | 55108 | [55108-s-m-a-s-h-e-d.json](./55108-s-m-a-s-h-e-d.json) |
+| S.N.I.P.E.R: Hunter Scope - Hero's Edition | 387680 | [387680-s-n-i-p-e-r-hunter-scope-heros-edition.json](./387680-s-n-i-p-e-r-hunter-scope-heros-edition.json) |
 | S.N.I.P.E.R. Hunter Scope Silent Assassin | 385175 | [385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json](./385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json) |
 | S.N.I.P.E.R. Hunter Scope Urban Warfare | 385174 | [385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json](./385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json) |
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
@@ -4193,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skarbnik | 92968 | [92968-skarbnik.json](./92968-skarbnik.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
 | Skate Attack | 43524 | [43524-skate-attack.json](./43524-skate-attack.json) |
+| Skate Bums | 387667 | [387667-skate-bums.json](./387667-skate-bums.json) |
 | Skate City | 26944 | [26944-skate-city.json](./26944-skate-city.json) |
 | Skate City: New York | 324872 | [324872-skate-city-new-york.json](./324872-skate-city-new-york.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
@@ -5420,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Blocks 2 | 272929 | [272929-snow-blocks-2.json](./272929-snow-blocks-2.json) |
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
 | Snow Bros. 2: With New Elves | 39842 | [39842-snow-bros-2-with-new-elves.json](./39842-snow-bros-2-with-new-elves.json) |
+| Snow Bros. Classic Collection | 387669 | [387669-snow-bros-classic-collection.json](./387669-snow-bros-classic-collection.json) |
 | Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
 | Snow Bros.: Nick & Tom Special | 198126 | [198126-snow-bros-nick-and-tom-special.json](./198126-snow-bros-nick-and-tom-special.json) |
 | Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
@@ -8124,6 +8127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
 | Spy Girls: Undercover Agent | 206200 | [206200-spy-girls-undercover-agent.json](./206200-spy-girls-undercover-agent.json) |
 | Spy Guy American Dream | 375162 | [375162-spy-guy-american-dream.json](./375162-spy-guy-american-dream.json) |
+| Spy Guy Animals Junior: Untypical Animals | 387685 | [387685-spy-guy-animals-junior-untypical-animals.json](./387685-spy-guy-animals-junior-untypical-animals.json) |
 | Spy Guy Europe | 395211 | [395211-spy-guy-europe.json](./395211-spy-guy-europe.json) |
 | Spy Guy Hidden Objects Poland | 400194 | [400194-spy-guy-hidden-objects-poland.json](./400194-spy-guy-hidden-objects-poland.json) |
 | Spy Guy Memory | 300837 | [300837-spy-guy-memory.json](./300837-spy-guy-memory.json) |
@@ -9695,6 +9699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
 | Storm Strikers | 124746 | [124746-storm-strikers.json](./124746-storm-strikers.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
+| Storm Tale 2 & Ancient Relics: Adventure Bundle | 387681 | [387681-storm-tale-2-and-ancient-relics-adventure-bundle.json](./387681-storm-tale-2-and-ancient-relics-adventure-bundle.json) |
 | Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
@@ -10473,6 +10478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Box | 81227 | [81227-sugar-box.json](./81227-sugar-box.json) |
 | Sugar Bunnies DS: Yume no Sweets Koubou | 68038 | [68038-sugar-bunnies-ds-yume-no-sweets-koubou.json](./68038-sugar-bunnies-ds-yume-no-sweets-koubou.json) |
 | Sugar Cookie | 396209 | [396209-sugar-cookie.json](./396209-sugar-cookie.json) |
+| Sugar Daddy Crush: Hidden Hotel Love Story | 387674 | [387674-sugar-daddy-crush-hidden-hotel-love-story.json](./387674-sugar-daddy-crush-hidden-hotel-love-story.json) |
 | Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
