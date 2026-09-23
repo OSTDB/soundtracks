@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
 | Occultist Girl Magatsuhi | 270188 | [270188-occultist-girl-magatsuhi.json](./270188-occultist-girl-magatsuhi.json) |
 | Occulto | 192948 | [192948-occulto.json](./192948-occulto.json) |
+| Occupied | 383029 | [383029-occupied.json](./383029-occupied.json) |
 | Occupy Mars: The Game | 80936 | [80936-occupy-mars-the-game.json](./80936-occupy-mars-the-game.json) |
 | Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
 | Ocean Cargo Manager | 415169 | [415169-ocean-cargo-manager.json](./415169-ocean-cargo-manager.json) |
