@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden City | 151118 | [151118-garden-city.json](./151118-garden-city.json) |
 | Garden City Bundle | 295257 | [295257-garden-city-bundle.json](./295257-garden-city-bundle.json) |
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
+| Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
 | Garden In! | 198625 | [198625-garden-in.json](./198625-garden-in.json) |
 | Garden Island Plant Village: Grow & Harvest Fruits & Vegetables on your country farm! | 89825 | [89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json](./89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json) |
