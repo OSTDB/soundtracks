@@ -3587,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutdown. | 370772 | [370772-shutdown.json](./370772-shutdown.json) |
 | Shuten | 330164 | [330164-shuten.json](./330164-shuten.json) |
 | Shuten Order | 344468 | [344468-shuten-order.json](./344468-shuten-order.json) |
+| Shuten Order: Digital Deluxe Edition | 345702 | [345702-shuten-order-digital-deluxe-edition.json](./345702-shuten-order-digital-deluxe-edition.json) |
 | Shutokou Battle Gaiden: Super Technic Challenge | 208469 | [208469-shutokou-battle-gaiden-super-technic-challenge.json](./208469-shutokou-battle-gaiden-super-technic-challenge.json) |
 | Shutter | 244861 | [244861-shutter.json](./244861-shutter.json) |
 | Shutter 2 | 158547 | [158547-shutter-2.json](./158547-shutter-2.json) |
@@ -6875,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
+| Souls End | 345667 | [345667-souls-end.json](./345667-souls-end.json) |
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | Souls Survivors | 272930 | [272930-souls-survivors.json](./272930-souls-survivors.json) |
@@ -10567,6 +10569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
 | Su-27 Flanker Mission Disk | 74051 | [74051-su-27-flanker-mission-disk.json](./74051-su-27-flanker-mission-disk.json) |
+| SU42: Hired Gun | 345669 | [345669-su42-hired-gun.json](./345669-su42-hired-gun.json) |
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub Chase Online | 211200 | [211200-sub-chase-online.json](./211200-sub-chase-online.json) |
@@ -10833,6 +10836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
 | Sugoi Girls: Madame Fantasy | 376764 | [376764-sugoi-girls-madame-fantasy.json](./376764-sugoi-girls-madame-fantasy.json) |
 | Sugoi Girls: Mighty Mecha | 317230 | [317230-sugoi-girls-mighty-mecha.json](./317230-sugoi-girls-mighty-mecha.json) |
+| Sugoi Girls: Raunchy Rabbit | 345704 | [345704-sugoi-girls-raunchy-rabbit.json](./345704-sugoi-girls-raunchy-rabbit.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
 | Sugoro Quest: Dice no Senshi-tachi | 48621 | [48621-sugoro-quest-dice-no-senshi-tachi.json](./48621-sugoro-quest-dice-no-senshi-tachi.json) |
 | Sugoro Quest++ Dicenics | 37807 | [37807-sugoro-quest-dicenics.json](./37807-sugoro-quest-dicenics.json) |
