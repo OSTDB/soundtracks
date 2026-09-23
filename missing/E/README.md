@@ -2775,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
 | Exterminium | 349878 | [349878-exterminium.json](./349878-exterminium.json) |
 | ExTime: Primal Menace | 245922 | [245922-extime-primal-menace.json](./245922-extime-primal-menace.json) |
+| Extinct Forest | 379047 | [379047-extinct-forest.json](./379047-extinct-forest.json) |
 | eXtinction | 221978 | [221978-extinction.json](./221978-extinction.json) |
 | Extinction 1306 | 337164 | [337164-extinction-1306.json](./337164-extinction-1306.json) |
 | Extinction Eclipse | 201687 | [201687-extinction-eclipse.json](./201687-extinction-eclipse.json) |
