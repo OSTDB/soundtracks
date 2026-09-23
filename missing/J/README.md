@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe & Mac | 213880 | [213880-joe-and-mac.json](./213880-joe-and-mac.json) |
 | Joe & Mac | 48134 | [48134-joe-and-mac.json](./48134-joe-and-mac.json) |
 | Joe & Mac: Caveman Ninja HD Remake | 83906 | [83906-joe-and-mac-caveman-ninja-hd-remake.json](./83906-joe-and-mac-caveman-ninja-hd-remake.json) |
+| Joe & Mac: Retro Collection | 347892 | [347892-joe-and-mac-retro-collection.json](./347892-joe-and-mac-retro-collection.json) |
 | Joe Biden For The PS2 2: Re-elected | 268202 | [268202-joe-biden-for-the-ps2-2-re-elected.json](./268202-joe-biden-for-the-ps2-2-re-elected.json) |
 | Joe Biden: Escape From MAGA | 263790 | [263790-joe-biden-escape-from-maga.json](./263790-joe-biden-escape-from-maga.json) |
 | Joe Danger: Special Edition | 24235 | [24235-joe-danger-special-edition.json](./24235-joe-danger-special-edition.json) |
