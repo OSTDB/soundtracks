@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
+| Luonnonvoimat | 390771 | [390771-luonnonvoimat.json](./390771-luonnonvoimat.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
 | Lupin III: Pandora no Isan | 76995 | [76995-lupin-iii-pandora-no-isan.json](./76995-lupin-iii-pandora-no-isan.json) |
 | Lupin the 3rd: The Shooting | 39594 | [39594-lupin-the-3rd-the-shooting.json](./39594-lupin-the-3rd-the-shooting.json) |
