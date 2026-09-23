@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Dash | 224013 | [224013-mars-dash.json](./224013-mars-dash.json) |
 | Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
+| Mars Hopper | 341652 | [341652-mars-hopper.json](./341652-mars-hopper.json) |
 | Mars Horizon | 101183 | [101183-mars-horizon.json](./101183-mars-horizon.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
@@ -1623,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Survivor: Gold Edition | 385204 | [385204-mars-survivor-gold-edition.json](./385204-mars-survivor-gold-edition.json) |
 | Mars Taken | 90147 | [90147-mars-taken.json](./90147-mars-taken.json) |
+| Mars Taxi | 341707 | [341707-mars-taxi.json](./341707-mars-taxi.json) |
 | Mars Taxi | 70356 | [70356-mars-taxi.json](./70356-mars-taxi.json) |
 | Mars Training Camp VR | 264115 | [264115-mars-training-camp-vr.json](./264115-mars-training-camp-vr.json) |
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
@@ -4048,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
 | Might of the Meek | 413877 | [413877-might-of-the-meek.json](./413877-might-of-the-meek.json) |
+| Mightier | 341696 | [341696-mightier.json](./341696-mightier.json) |
 | Mightier | 50136 | [50136-mightier.json](./50136-mightier.json) |
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
@@ -6973,6 +6976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant | 79916 | [79916-mutant.json](./79916-mutant.json) |
 | Mutant Alien Moles of the Dead: Whack Whack or Die | 55941 | [55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json](./55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json) |
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
+| Mutant DNA | 341689 | [341689-mutant-dna.json](./341689-mutant-dna.json) |
 | Mutant Fighting Cup | 234193 | [234193-mutant-fighting-cup.json](./234193-mutant-fighting-cup.json) |
 | Mutant Football League 2 | 296351 | [296351-mutant-football-league-2.json](./296351-mutant-football-league-2.json) |
 | Mutant Football League: Brawltimore Razors | 154931 | [154931-mutant-football-league-brawltimore-razors.json](./154931-mutant-football-league-brawltimore-razors.json) |
