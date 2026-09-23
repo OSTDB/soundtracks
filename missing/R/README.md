@@ -3594,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | Roguebreaker | 103413 | [103413-roguebreaker.json](./103413-roguebreaker.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
+| RogueDiceR | 383664 | [383664-roguedicer.json](./383664-roguedicer.json) |
 | Roguefort | 396405 | [396405-roguefort.json](./396405-roguefort.json) |
 | Roguegg: Hardboiled Survivors | 390798 | [390798-roguegg-hardboiled-survivors.json](./390798-roguegg-hardboiled-survivors.json) |
 | RogueJack: Roguelike Blackjack | 133370 | [133370-roguejack-roguelike-blackjack.json](./133370-roguejack-roguelike-blackjack.json) |
@@ -4441,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | RuneTech | 101341 | [101341-runetech.json](./101341-runetech.json) |
 | Runeth | 385723 | [385723-runeth.json](./385723-runeth.json) |
+| Runeveil | 383632 | [383632-runeveil.json](./383632-runeveil.json) |
 | Runeverse | 137597 | [137597-runeverse.json](./137597-runeverse.json) |
 | Runewaker | 186803 | [186803-runewaker.json](./186803-runewaker.json) |
 | Runewatch: Age of Arcanum | 208464 | [208464-runewatch-age-of-arcanum.json](./208464-runewatch-age-of-arcanum.json) |
