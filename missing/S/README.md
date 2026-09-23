@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
+| Scam Line | 379595 | [379595-scam-line.json](./379595-scam-line.json) |
 | Scamster Kombat | 366931 | [366931-scamster-kombat.json](./366931-scamster-kombat.json) |
 | Scan Hunter: Sen-nen Kaigyo wo Oe! | 56528 | [56528-scan-hunter-sen-nen-kaigyo-wo-oe.json](./56528-scan-hunter-sen-nen-kaigyo-wo-oe.json) |
 | Scandinavian Cottage Survival Simulator | 360000 | [360000-scandinavian-cottage-survival-simulator.json](./360000-scandinavian-cottage-survival-simulator.json) |
@@ -2283,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Hentai Puzzle | 214189 | [214189-sexy-hentai-puzzle.json](./214189-sexy-hentai-puzzle.json) |
 | Sexy Hiking | 63138 | [63138-sexy-hiking.json](./63138-sexy-hiking.json) |
 | Sexy Invaders | 41355 | [41355-sexy-invaders.json](./41355-sexy-invaders.json) |
+| Sexy Katana | 379546 | [379546-sexy-katana.json](./379546-sexy-katana.json) |
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
 | Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
 | Sexy Memory Puzzle: Pool Massage | 319238 | [319238-sexy-memory-puzzle-pool-massage.json](./319238-sexy-memory-puzzle-pool-massage.json) |
@@ -2405,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Colossus | 139896 | [139896-shadow-of-the-colossus.json](./139896-shadow-of-the-colossus.json) |
 | Shadow of the Colossus: Special Edition | 52192 | [52192-shadow-of-the-colossus-special-edition.json](./52192-shadow-of-the-colossus-special-edition.json) |
 | Shadow of the Devil | 291048 | [291048-shadow-of-the-devil.json](./291048-shadow-of-the-devil.json) |
+| Shadow of The Forerunner | 379567 | [379567-shadow-of-the-forerunner.json](./379567-shadow-of-the-forerunner.json) |
 | Shadow of The Forgotten | 336006 | [336006-shadow-of-the-forgotten.json](./336006-shadow-of-the-forgotten.json) |
 | Shadow of the Game | 54355 | [54355-shadow-of-the-game.json](./54355-shadow-of-the-game.json) |
 | Shadow of the Moonlight | 384232 | [384232-shadow-of-the-moonlight.json](./384232-shadow-of-the-moonlight.json) |
@@ -10554,6 +10557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Overdrive | 332985 | [332985-sugar-overdrive.json](./332985-sugar-overdrive.json) |
 | Sugar Ray Leonard: Talking Boxing | 198930 | [198930-sugar-ray-leonard-talking-boxing.json](./198930-sugar-ray-leonard-talking-boxing.json) |
 | Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
+| Sugar Service | 379590 | [379590-sugar-service.json](./379590-sugar-service.json) |
 | Sugar Siege | 338270 | [338270-sugar-siege.json](./338270-sugar-siege.json) |
 | Sugar Story | 190091 | [190091-sugar-story.json](./190091-sugar-story.json) |
 | Sugar Style | 141795 | [141795-sugar-style.json](./141795-sugar-style.json) |
@@ -12113,6 +12117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supipara | 23471 | [23471-supipara.json](./23471-supipara.json) |
 | Supipara: Chapter 1 | 32232 | [32232-supipara-chapter-1.json](./32232-supipara-chapter-1.json) |
 | Supipara: Chapter 2 | 90149 | [90149-supipara-chapter-2.json](./90149-supipara-chapter-2.json) |
+| Supotto Spot | 379574 | [379574-supotto-spot.json](./379574-supotto-spot.json) |
 | Supplice | 165070 | [165070-supplice.json](./165070-supplice.json) |
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
