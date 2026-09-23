@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Planet | 301811 | [301811-ocean-planet.json](./301811-ocean-planet.json) |
 | Ocean Playground | 341496 | [341496-ocean-playground.json](./341496-ocean-playground.json) |
 | Ocean Protector | 264104 | [264104-ocean-protector.json](./264104-ocean-protector.json) |
+| Ocean Raft Simulator & Survival | 380706 | [380706-ocean-raft-simulator-and-survival.json](./380706-ocean-raft-simulator-and-survival.json) |
 | Ocean Riders | 201682 | [201682-ocean-riders.json](./201682-ocean-riders.json) |
 | Ocean Runner | 58776 | [58776-ocean-runner.json](./58776-ocean-runner.json) |
 | Ocean Scramble: Age of Exploration | 261863 | [261863-ocean-scramble-age-of-exploration.json](./261863-ocean-scramble-age-of-exploration.json) |
@@ -270,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Hibnernry Boneyard Ler Ardus | 397097 | [397097-of-hibnernry-boneyard-ler-ardus.json](./397097-of-hibnernry-boneyard-ler-ardus.json) |
 | Of Ice & Snow | 229783 | [229783-of-ice-and-snow.json](./229783-of-ice-and-snow.json) |
 | Of Life and Land | 188614 | [188614-of-life-and-land.json](./188614-of-life-and-land.json) |
+| Of Me and My Mirror | 380680 | [380680-of-me-and-my-mirror.json](./380680-of-me-and-my-mirror.json) |
 | Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
 | Of Piers & Bays | 397903 | [397903-of-piers-and-bays.json](./397903-of-piers-and-bays.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
