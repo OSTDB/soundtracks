@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of the Things | 45349 | [45349-halls-of-the-things.json](./45349-halls-of-the-things.json) |
 | Halls of Things | 23047 | [23047-halls-of-things.json](./23047-halls-of-things.json) |
 | Hallucinations | 358287 | [358287-hallucinations.json](./358287-hallucinations.json) |
+| Hallway Gunners | 363057 | [363057-hallway-gunners.json](./363057-hallway-gunners.json) |
 | Hallway of Horrors | 319804 | [319804-hallway-of-horrors.json](./319804-hallway-of-horrors.json) |
 | Halmaverse | 340409 | [340409-halmaverse.json](./340409-halmaverse.json) |
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
@@ -971,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Property | 335697 | [335697-haunted-property.json](./335697-haunted-property.json) |
 | Haunted PS1 Demo Disc 2021 | 145030 | [145030-haunted-ps1-demo-disc-2021.json](./145030-haunted-ps1-demo-disc-2021.json) |
 | Haunted Record | 304608 | [304608-haunted-record.json](./304608-haunted-record.json) |
+| Haunted ROM: The Lost Cartridge | 363042 | [363042-haunted-rom-the-lost-cartridge.json](./363042-haunted-rom-the-lost-cartridge.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
 | Haunted Train: Frozen in Time | 140032 | [140032-haunted-train-frozen-in-time.json](./140032-haunted-train-frozen-in-time.json) |
 | Haunted Train: Spirits of Charon | 140033 | [140033-haunted-train-spirits-of-charon.json](./140033-haunted-train-spirits-of-charon.json) |
@@ -1397,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
 | Heka | 190098 | [190098-heka.json](./190098-heka.json) |
+| Hekaba | 363011 | [363011-hekaba.json](./363011-hekaba.json) |
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Helbreath | 307147 | [307147-helbreath.json](./307147-helbreath.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
@@ -4170,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Host | 403164 | [403164-human-host.json](./403164-human-host.json) |
 | Human Milk Seller | 291467 | [291467-human-milk-seller.json](./291467-human-milk-seller.json) |
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
+| Human Parking Simulator | 363063 | [363063-human-parking-simulator.json](./363063-human-parking-simulator.json) |
 | Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
 | Human Rocket Person | 111700 | [111700-human-rocket-person.json](./111700-human-rocket-person.json) |
 | Human vs Monster | 150693 | [150693-human-vs-monster.json](./150693-human-vs-monster.json) |
