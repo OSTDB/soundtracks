@@ -6015,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
+| The Sims 2: OMGWTFBBQ | 349499 | [349499-the-sims-2-omgwtfbbq.json](./349499-the-sims-2-omgwtfbbq.json) |
 | The Sims 2: Pets | 225 | [225-the-sims-2-pets.json](./225-the-sims-2-pets.json) |
 | The Sims 2: Pets | 286683 | [286683-the-sims-2-pets.json](./286683-the-sims-2-pets.json) |
 | The Sims 25th Birthday Bundle | 362302 | [362302-the-sims-25th-birthday-bundle.json](./362302-the-sims-25th-birthday-bundle.json) |
@@ -9069,6 +9070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Extraction | 119262 | [119262-tom-clancys-rainbow-six-extraction.json](./119262-tom-clancys-rainbow-six-extraction.json) |
 | Tom Clancy's Rainbow Six Extraction: Deluxe Edition | 152335 | [152335-tom-clancys-rainbow-six-extraction-deluxe-edition.json](./152335-tom-clancys-rainbow-six-extraction-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six Extraction: Limited Edition | 152336 | [152336-tom-clancys-rainbow-six-extraction-limited-edition.json](./152336-tom-clancys-rainbow-six-extraction-limited-edition.json) |
+| Tom Clancy's Rainbow Six Siege X | 349484 | [349484-tom-clancys-rainbow-six-siege-x.json](./349484-tom-clancys-rainbow-six-siege-x.json) |
 | Tom Clancy's Rainbow Six Siege: Complete Edition | 53820 | [53820-tom-clancys-rainbow-six-siege-complete-edition.json](./53820-tom-clancys-rainbow-six-siege-complete-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
