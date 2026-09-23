@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden: Hurricane Pack I | 215249 | [215249-ninja-gaiden-hurricane-pack-i.json](./215249-ninja-gaiden-hurricane-pack-i.json) |
 | Ninja Gaiden: Master Collection | 143619 | [143619-ninja-gaiden-master-collection.json](./143619-ninja-gaiden-master-collection.json) |
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
+| Ninja Games | 360175 | [360175-ninja-games.json](./360175-ninja-games.json) |
 | Ninja Gardening Simulator | 281531 | [281531-ninja-gardening-simulator.json](./281531-ninja-gardening-simulator.json) |
 | Ninja Gear | 322583 | [322583-ninja-gear.json](./322583-ninja-gear.json) |
 | Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~ | 119562 | [119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json](./119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json) |
@@ -2768,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nusrat | 19495 | [19495-nusrat.json](./19495-nusrat.json) |
 | Nutjitsu | 19966 | [19966-nutjitsu.json](./19966-nutjitsu.json) |
 | Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
+| Nutmeg! | 360208 | [360208-nutmeg.json](./360208-nutmeg.json) |
 | NutritionZ | 374725 | [374725-nutritionz.json](./374725-nutritionz.json) |
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
