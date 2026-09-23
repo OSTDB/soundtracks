@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Battle Royale | 66485 | [66485-pac-man-battle-royale.json](./66485-pac-man-battle-royale.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
+| Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
@@ -1312,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
 | Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
+| Peach Territory | 378438 | [378438-peach-territory.json](./378438-peach-territory.json) |
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
 | Peachboy Legend | 78941 | [78941-peachboy-legend.json](./78941-peachboy-legend.json) |
@@ -2164,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
 | Picross 2 | 49080 | [49080-picross-2.json](./49080-picross-2.json) |
 | Picross Beach Season | 89191 | [89191-picross-beach-season.json](./89191-picross-beach-season.json) |
+| Picross Date! | 378431 | [378431-picross-date.json](./378431-picross-date.json) |
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
@@ -4095,6 +4098,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Friends: Mini Breeds Edition | 68937 | [68937-pony-friends-mini-breeds-edition.json](./68937-pony-friends-mini-breeds-edition.json) |
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
 | Pony Luv | 72968 | [72968-pony-luv.json](./72968-pony-luv.json) |
+| Pony Ride with Obstacles | 378409 | [378409-pony-ride-with-obstacles.json](./378409-pony-ride-with-obstacles.json) |
+| Pony Run: Magic Trails | 378408 | [378408-pony-run-magic-trails.json](./378408-pony-run-magic-trails.json) |
 | Pony Sisters Baby Horse Care | 108261 | [108261-pony-sisters-baby-horse-care.json](./108261-pony-sisters-baby-horse-care.json) |
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Pony Snow Run | 96704 | [96704-pony-snow-run.json](./96704-pony-snow-run.json) |
@@ -6268,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Adventures | 46569 | [46569-pyramid-adventures.json](./46569-pyramid-adventures.json) |
 | Pyramid Adventures: Episode 1 - Treasures of the Lost Pyramid | 66351 | [66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json](./66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
+| Pyramid Exit | 378422 | [378422-pyramid-exit.json](./378422-pyramid-exit.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
 | Pyramid of Ra | 338816 | [338816-pyramid-of-ra.json](./338816-pyramid-of-ra.json) |
 | Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
