@@ -4686,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator: Hunting Grounds - Valkyrie Predator DLC Pack | 168763 | [168763-predator-hunting-grounds-valkyrie-predator-dlc-pack.json](./168763-predator-hunting-grounds-valkyrie-predator-dlc-pack.json) |
 | Predator: Hunting Grounds - Viking Predator | 168761 | [168761-predator-hunting-grounds-viking-predator.json](./168761-predator-hunting-grounds-viking-predator.json) |
 | Predator: Hunting Grounds - Yautja Edition | 320763 | [320763-predator-hunting-grounds-yautja-edition.json](./320763-predator-hunting-grounds-yautja-edition.json) |
+| Predator: Hunting Grounds: Oni Predator | 361905 | [361905-predator-hunting-grounds-oni-predator.json](./361905-predator-hunting-grounds-oni-predator.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
 | Predecessor | 115078 | [115078-predecessor.json](./115078-predecessor.json) |
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
@@ -4732,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool Games Kids Learning | 107650 | [107650-preschool-games-kids-learning.json](./107650-preschool-games-kids-learning.json) |
 | Preschool Numbers - Play & Learn | 89700 | [89700-preschool-numbers-play-and-learn.json](./89700-preschool-numbers-play-and-learn.json) |
 | Prescience | 217373 | [217373-prescience.json](./217373-prescience.json) |
+| Prescribe and Pray | 361879 | [361879-prescribe-and-pray.json](./361879-prescribe-and-pray.json) |
 | Prescription: Madness | 389100 | [389100-prescription-madness.json](./389100-prescription-madness.json) |
 | Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Presence | 170989 | [170989-presence.json](./170989-presence.json) |
@@ -5476,6 +5478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Slippi | 319004 | [319004-project-slippi.json](./319004-project-slippi.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
+| Project Spectrum | 361889 | [361889-project-spectrum.json](./361889-project-spectrum.json) |
 | Project Speed 2 | 188681 | [188681-project-speed-2.json](./188681-project-speed-2.json) |
 | Project Spikepig | 326997 | [326997-project-spikepig.json](./326997-project-spikepig.json) |
 | Project Stack | 311786 | [311786-project-stack.json](./311786-project-stack.json) |
@@ -5918,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
+| Pumuckl and the Crown of the Pirate King | 361866 | [361866-pumuckl-and-the-crown-of-the-pirate-king.json](./361866-pumuckl-and-the-crown-of-the-pirate-king.json) |
 | Punch Ball Mario Bros. | 91994 | [91994-punch-ball-mario-bros.json](./91994-punch-ball-mario-bros.json) |
 | Punch Bomb | 31852 | [31852-punch-bomb.json](./31852-punch-bomb.json) |
 | Punch Boy | 83212 | [83212-punch-boy.json](./83212-punch-boy.json) |
