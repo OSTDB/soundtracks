@@ -3355,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen Angels | 39581 | [39581-the-fallen-angels.json](./39581-the-fallen-angels.json) |
 | The Fallen Crypt of the Judgement Concrete | 328031 | [328031-the-fallen-crypt-of-the-judgement-concrete.json](./328031-the-fallen-crypt-of-the-judgement-concrete.json) |
 | The Fallen Kingdom | 324298 | [324298-the-fallen-kingdom.json](./324298-the-fallen-kingdom.json) |
+| The Fallen Will | 386447 | [386447-the-fallen-will.json](./386447-the-fallen-will.json) |
 | The Falling Nights | 36481 | [36481-the-falling-nights.json](./36481-the-falling-nights.json) |
 | The Falling Star | 344441 | [344441-the-falling-star.json](./344441-the-falling-star.json) |
 | The Falling Sun | 36167 | [36167-the-falling-sun.json](./36167-the-falling-sun.json) |
@@ -3530,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten: It Begins | 73526 | [73526-the-forgotten-it-begins.json](./73526-the-forgotten-it-begins.json) |
 | The Forlorn | 415163 | [415163-the-forlorn.json](./415163-the-forlorn.json) |
 | The Fortune Teller Game | 342178 | [342178-the-fortune-teller-game.json](./342178-the-fortune-teller-game.json) |
+| The Found Magic | 386426 | [386426-the-found-magic.json](./386426-the-found-magic.json) |
 | The Founders of Daytona Beach Also Founded Dayton, Ohio | 360606 | [360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json](./360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json) |
 | The Four Kings Casino and Slots | 16797 | [16797-the-four-kings-casino-and-slots.json](./16797-the-four-kings-casino-and-slots.json) |
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
@@ -4605,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The LEGO Movie Videogame | 4845 | [4845-the-lego-movie-videogame.json](./4845-the-lego-movie-videogame.json) |
 | The Lemonade | 258517 | [258517-the-lemonade.json](./258517-the-lemonade.json) |
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
+| The Letter That Came Over Time | 386396 | [386396-the-letter-that-came-over-time.json](./386396-the-letter-that-came-over-time.json) |
 | The Leviathan's Fantasy: DLC | 289327 | [289327-the-leviathans-fantasy-dlc.json](./289327-the-leviathans-fantasy-dlc.json) |
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
 | The Leviathan's Fantasy: Samurai and Onmyoji | 298175 | [298175-the-leviathans-fantasy-samurai-and-onmyoji.json](./298175-the-leviathans-fantasy-samurai-and-onmyoji.json) |
@@ -8215,6 +8218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Avarice | 295267 | [295267-time-avarice.json](./295267-time-avarice.json) |
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
+| Time Breaking: Dino Breach | 386427 | [386427-time-breaking-dino-breach.json](./386427-time-breaking-dino-breach.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
 | Time Crisis 3 | 13894 | [13894-time-crisis-3.json](./13894-time-crisis-3.json) |
@@ -8716,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
 | Todo List | 366329 | [366329-todo-list.json](./366329-todo-list.json) |
+| Todo Ryunosuke Tantei Nikki: Ogon no Rashinban | 386389 | [386389-todo-ryunosuke-tantei-nikki-ogon-no-rashinban.json](./386389-todo-ryunosuke-tantei-nikki-ogon-no-rashinban.json) |
 | Todos Contra Tcheco | 321780 | [321780-todos-contra-tcheco.json](./321780-todos-contra-tcheco.json) |
 | Toe to Toe: Party Games | 196237 | [196237-toe-to-toe-party-games.json](./196237-toe-to-toe-party-games.json) |
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
@@ -10747,6 +10752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Aegean: Collector's Edition | 170031 | [170031-treasures-of-the-aegean-collectors-edition.json](./170031-treasures-of-the-aegean-collectors-edition.json) |
 | Treasures of the Ancients: Egypt | 102184 | [102184-treasures-of-the-ancients-egypt.json](./102184-treasures-of-the-ancients-egypt.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
+| TreasureTails | 386422 | [386422-treasuretails.json](./386422-treasuretails.json) |
 | Treble Cat | 89690 | [89690-treble-cat.json](./89690-treble-cat.json) |
 | Trebuchet | 36086 | [36086-trebuchet.json](./36086-trebuchet.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
