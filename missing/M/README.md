@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mare | 177407 | [177407-mare.json](./177407-mare.json) |
 | Mare | 25933 | [25933-mare.json](./25933-mare.json) |
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
+| Margery | 388408 | [388408-margery.json](./388408-margery.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
 | Margo: The Bean Adventure | 174305 | [174305-margo-the-bean-adventure.json](./174305-margo-the-bean-adventure.json) |
 | Margonem | 58835 | [58835-margonem.json](./58835-margonem.json) |
@@ -3091,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Prime | 157675 | [157675-mercury-prime.json](./157675-mercury-prime.json) |
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
 | Mercury: Cascade into Madness | 52257 | [52257-mercury-cascade-into-madness.json](./52257-mercury-cascade-into-madness.json) |
+| Mercy Incore | 388387 | [388387-mercy-incore.json](./388387-mercy-incore.json) |
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
 | Merely a Regret | 176922 | [176922-merely-a-regret.json](./176922-merely-a-regret.json) |
 | Merendam 2: Diary of Two Shaman Sisters | 70409 | [70409-merendam-2-diary-of-two-shaman-sisters.json](./70409-merendam-2-diary-of-two-shaman-sisters.json) |
@@ -5440,6 +5442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tavern | 382776 | [382776-monster-tavern.json](./382776-monster-tavern.json) |
 | Monster TD | 405047 | [405047-monster-td.json](./405047-monster-td.json) |
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
+| Monster Tower | 388363 | [388363-monster-tower.json](./388363-monster-tower.json) |
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
 | Monster Truck Championship | 132220 | [132220-monster-truck-championship.json](./132220-monster-truck-championship.json) |
