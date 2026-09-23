@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactu-sama 2 | 204542 | [204542-cactu-sama-2.json](./204542-cactu-sama-2.json) |
 | Cactus Arcade | 141791 | [141791-cactus-arcade.json](./141791-cactus-arcade.json) |
 | Cactus Arcade II | 141792 | [141792-cactus-arcade-ii.json](./141792-cactus-arcade-ii.json) |
+| Cactus Clicker | 380667 | [380667-cactus-clicker.json](./380667-cactus-clicker.json) |
 | Cactus Cowboy 3: Fully Loaded | 152901 | [152901-cactus-cowboy-3-fully-loaded.json](./152901-cactus-cowboy-3-fully-loaded.json) |
 | Cactus Cowboy: Desert Warfare | 263233 | [263233-cactus-cowboy-desert-warfare.json](./263233-cactus-cowboy-desert-warfare.json) |
 | Cactus Cowboy: Plants at War | 199490 | [199490-cactus-cowboy-plants-at-war.json](./199490-cactus-cowboy-plants-at-war.json) |
@@ -306,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calypso | 140021 | [140021-calypso.json](./140021-calypso.json) |
 | Calypso's Calamity | 319243 | [319243-calypsos-calamity.json](./319243-calypsos-calamity.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
+| Cam Quest | 380689 | [380689-cam-quest.json](./380689-cam-quest.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
 | Cambo: Webbed Fist | 307126 | [307126-cambo-webbed-fist.json](./307126-cambo-webbed-fist.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
@@ -5587,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Paint 'n Play Pony | 313287 | [313287-crayola-paint-n-play-pony.json](./313287-crayola-paint-n-play-pony.json) |
 | Crayola Treasure Adventures | 21363 | [21363-crayola-treasure-adventures.json](./21363-crayola-treasure-adventures.json) |
 | Crayola: Make a Masterpiece | 133804 | [133804-crayola-make-a-masterpiece.json](./133804-crayola-make-a-masterpiece.json) |
+| Crayon Christmas | 380704 | [380704-crayon-christmas.json](./380704-crayon-christmas.json) |
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
 | Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
 | Crayon Mandala | 411814 | [411814-crayon-mandala.json](./411814-crayon-mandala.json) |
