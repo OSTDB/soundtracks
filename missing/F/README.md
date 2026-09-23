@@ -2595,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
 | Flappy Golf | 107648 | [107648-flappy-golf.json](./107648-flappy-golf.json) |
 | Flappy Golf 2 | 88291 | [88291-flappy-golf-2.json](./88291-flappy-golf-2.json) |
+| Flappy Golf Party | 372089 | [372089-flappy-golf-party.json](./372089-flappy-golf-party.json) |
 | Flappy Helix | 265757 | [265757-flappy-helix.json](./265757-flappy-helix.json) |
 | Flappy Horse | 309373 | [309373-flappy-horse.json](./309373-flappy-horse.json) |
 | Flappy Limited '85 | 47528 | [47528-flappy-limited-85.json](./47528-flappy-limited-85.json) |
@@ -3621,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Ones | 288353 | [288353-forsaken-ones.json](./288353-forsaken-ones.json) |
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
+| Forsaken Struggle | 372139 | [372139-forsaken-struggle.json](./372139-forsaken-struggle.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
 | Forsaken Valley | 348860 | [348860-forsaken-valley.json](./348860-forsaken-valley.json) |
 | Forsaken World Mobile | 27046 | [27046-forsaken-world-mobile.json](./27046-forsaken-world-mobile.json) |
@@ -3646,12 +3648,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Beyond the Flame | 377256 | [377256-fortnite-festival-beyond-the-flame.json](./377256-fortnite-festival-beyond-the-flame.json) |
 | Fortnite Festival: Born This Way | 372008 | [372008-fortnite-festival-born-this-way.json](./372008-fortnite-festival-born-this-way.json) |
 | Fortnite Festival: Radioactive | 372009 | [372009-fortnite-festival-radioactive.json](./372009-fortnite-festival-radioactive.json) |
+| Fortnite Festival: Sandstorm | 372126 | [372126-fortnite-festival-sandstorm.json](./372126-fortnite-festival-sandstorm.json) |
 | Fortnite Festival: Season 1 | 383943 | [383943-fortnite-festival-season-1.json](./383943-fortnite-festival-season-1.json) |
 | Fortnite Festival: Season 11 | 384110 | [384110-fortnite-festival-season-11.json](./384110-fortnite-festival-season-11.json) |
 | Fortnite Festival: Season 12 | 384111 | [384111-fortnite-festival-season-12.json](./384111-fortnite-festival-season-12.json) |
 | Fortnite Festival: Season 14 | 403035 | [403035-fortnite-festival-season-14.json](./403035-fortnite-festival-season-14.json) |
 | Fortnite Festival: Season 15 | 411844 | [411844-fortnite-festival-season-15.json](./411844-fortnite-festival-season-15.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
+| Fortnite Festival: Sunflower - Spider-Man: Into the Spider-Verse | 372127 | [372127-fortnite-festival-sunflower-spider-man-into-the-spider-verse.json](./372127-fortnite-festival-sunflower-spider-man-into-the-spider-verse.json) |
 | Fortnite Festival: Uptown Funk | 372010 | [372010-fortnite-festival-uptown-funk.json](./372010-fortnite-festival-uptown-funk.json) |
 | Fortnite OG | 324915 | [324915-fortnite-og.json](./324915-fortnite-og.json) |
 | Fortnite OG: Chapter 1 Season 2 | 330838 | [330838-fortnite-og-chapter-1-season-2.json](./330838-fortnite-og-chapter-1-season-2.json) |
@@ -3962,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frame of Mind | 142281 | [142281-frame-of-mind.json](./142281-frame-of-mind.json) |
 | Frame of Reference | 119594 | [119594-frame-of-reference.json](./119594-frame-of-reference.json) |
 | Frame of Suffering | 403555 | [403555-frame-of-suffering.json](./403555-frame-of-suffering.json) |
+| Frame Zero | 372090 | [372090-frame-zero.json](./372090-frame-zero.json) |
 | Frame: Portals on Steroids | 203311 | [203311-frame-portals-on-steroids.json](./203311-frame-portals-on-steroids.json) |
 | Framed | 131508 | [131508-framed.json](./131508-framed.json) |
 | Framed | 229778 | [229778-framed.json](./229778-framed.json) |
