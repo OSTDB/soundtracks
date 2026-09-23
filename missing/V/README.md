@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Quest: The Hawaiian Islands | 61674 | [61674-vacation-quest-the-hawaiian-islands.json](./61674-vacation-quest-the-hawaiian-islands.json) |
 | Vacation Tycoon | 265651 | [265651-vacation-tycoon.json](./265651-vacation-tycoon.json) |
 | Vacation: DayOff | 160258 | [160258-vacation-dayoff.json](./160258-vacation-dayoff.json) |
+| VacBot Simulator | 389716 | [389716-vacbot-simulator.json](./389716-vacbot-simulator.json) |
 | Vaccine Case | 237959 | [237959-vaccine-case.json](./237959-vaccine-case.json) |
 | Vaccine Delivery Simulator | 164883 | [164883-vaccine-delivery-simulator.json](./164883-vaccine-delivery-simulator.json) |
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
