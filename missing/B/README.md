@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BananaGuy | 247604 | [247604-bananaguy.json](./247604-bananaguy.json) |
 | Bananamana | 314257 | [314257-bananamana.json](./314257-bananamana.json) |
 | Bananametr | 304691 | [304691-bananametr.json](./304691-bananametr.json) |
+| Bananarchy | 340576 | [340576-bananarchy.json](./340576-bananarchy.json) |
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
 | Bananas de Pijamas | 42200 | [42200-bananas-de-pijamas.json](./42200-bananas-de-pijamas.json) |
 | Bananas in Pajamas: It's Fun Time | 221980 | [221980-bananas-in-pajamas-its-fun-time.json](./221980-bananas-in-pajamas-its-fun-time.json) |
@@ -1319,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle B-Daman: Fire Spirits! | 49364 | [49364-battle-b-daman-fire-spirits.json](./49364-battle-b-daman-fire-spirits.json) |
 | Battle Babes: Blood, Sun & Moon | 296528 | [296528-battle-babes-blood-sun-and-moon.json](./296528-battle-babes-blood-sun-and-moon.json) |
 | Battle Babes: Lightning | 309649 | [309649-battle-babes-lightning.json](./309649-battle-babes-lightning.json) |
+| Battle Babes: Lust, Space & Shadow | 340554 | [340554-battle-babes-lust-space-and-shadow.json](./340554-battle-babes-lust-space-and-shadow.json) |
 | Battle Bakraid | 38541 | [38541-battle-bakraid.json](./38541-battle-bakraid.json) |
 | Battle Balls | 166160 | [166160-battle-balls.json](./166160-battle-balls.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
@@ -4670,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book Organizer | 405095 | [405095-book-organizer.json](./405095-book-organizer.json) |
 | Book Travelers II: A Royal Story - Collector's Edition | 362845 | [362845-book-travelers-ii-a-royal-story-collectors-edition.json](./362845-book-travelers-ii-a-royal-story-collectors-edition.json) |
 | Book Travelers III: A Gothic Story - Collector's Edition | 364516 | [364516-book-travelers-iii-a-gothic-story-collectors-edition.json](./364516-book-travelers-iii-a-gothic-story-collectors-edition.json) |
+| Bookbinding | 340592 | [340592-bookbinding.json](./340592-bookbinding.json) |
 | Bookbound | 370103 | [370103-bookbound.json](./370103-bookbound.json) |
 | Bookbound Brigade | 121218 | [121218-bookbound-brigade.json](./121218-bookbound-brigade.json) |
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
@@ -5728,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotato: Primal Dread | 397816 | [397816-brotato-primal-dread.json](./397816-brotato-primal-dread.json) |
 | Brothel Secrets | 280329 | [280329-brothel-secrets.json](./280329-brothel-secrets.json) |
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
+| Brother | 340545 | [340545-brother.json](./340545-brother.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
 | Brotherhood | 275114 | [275114-brotherhood.json](./275114-brotherhood.json) |
 | Brotherhood of Pain | 388937 | [388937-brotherhood-of-pain.json](./388937-brotherhood-of-pain.json) |
@@ -6043,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build It: Miami Beach Resort | 341017 | [341017-build-it-miami-beach-resort.json](./341017-build-it-miami-beach-resort.json) |
 | Build Lands | 201239 | [201239-build-lands.json](./201239-build-lands.json) |
 | Build Royale | 112275 | [112275-build-royale.json](./112275-build-royale.json) |
+| Build Scrap | 340548 | [340548-build-scrap.json](./340548-build-scrap.json) |
 | Build the Bridge | 286638 | [286638-build-the-bridge.json](./286638-build-the-bridge.json) |
 | Build The Sun | 328584 | [328584-build-the-sun.json](./328584-build-the-sun.json) |
 | Build Wars | 96664 | [96664-build-wars.json](./96664-build-wars.json) |
