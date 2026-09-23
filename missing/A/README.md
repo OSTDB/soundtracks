@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afternoon in the House of Secrets | 221820 | [221820-afternoon-in-the-house-of-secrets.json](./221820-afternoon-in-the-house-of-secrets.json) |
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
+| Afterschool : Reel Danger | 361913 | [361913-afterschool-reel-danger.json](./361913-afterschool-reel-danger.json) |
 | AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: Definitive Edition | 55057 | [55057-age-of-empires-iii-definitive-edition.json](./55057-age-of-empires-iii-definitive-edition.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
+| Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
@@ -1277,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
 | Aim Sex | 297058 | [297058-aim-sex.json](./297058-aim-sex.json) |
 | Aim To Capture | 373618 | [373618-aim-to-capture.json](./373618-aim-to-capture.json) |
+| Aim Trainer Asylum | 361917 | [361917-aim-trainer-asylum.json](./361917-aim-trainer-asylum.json) |
 | Aim Trainer Pro | 81623 | [81623-aim-trainer-pro.json](./81623-aim-trainer-pro.json) |
 | Aim Zen | 283887 | [283887-aim-zen.json](./283887-aim-zen.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
@@ -2557,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
 | Amerzone: The Explorer's Legacy | 11091 | [11091-amerzone-the-explorers-legacy.json](./11091-amerzone-the-explorers-legacy.json) |
 | Amerzone: The Explorer's Legacy - Limited Edition | 292145 | [292145-amerzone-the-explorers-legacy-limited-edition.json](./292145-amerzone-the-explorers-legacy-limited-edition.json) |
+| Ameshidama | 361918 | [361918-ameshidama.json](./361918-ameshidama.json) |
 | Amethlion | 105771 | [105771-amethlion.json](./105771-amethlion.json) |
 | Amethyst Hearth | 194410 | [194410-amethyst-hearth.json](./194410-amethyst-hearth.json) |
 | Ametrine Dreams | 382192 | [382192-ametrine-dreams.json](./382192-ametrine-dreams.json) |
@@ -4763,6 +4767,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Arcanum: Cleric Pack | 313676 | [313676-ashes-of-arcanum-cleric-pack.json](./313676-ashes-of-arcanum-cleric-pack.json) |
 | Ashes of Arcanum: Defective Pack | 313678 | [313678-ashes-of-arcanum-defective-pack.json](./313678-ashes-of-arcanum-defective-pack.json) |
 | Ashes of Arcanum: Desecrator Pack | 313673 | [313673-ashes-of-arcanum-desecrator-pack.json](./313673-ashes-of-arcanum-desecrator-pack.json) |
+| Ashes of Arcanum: The Chaosweaver Pack | 361891 | [361891-ashes-of-arcanum-the-chaosweaver-pack.json](./361891-ashes-of-arcanum-the-chaosweaver-pack.json) |
+| Ashes of Arcanum: The Extremist Pack | 361899 | [361899-ashes-of-arcanum-the-extremist-pack.json](./361899-ashes-of-arcanum-the-extremist-pack.json) |
+| Ashes of Arcanum: The Hunter Pack | 361896 | [361896-ashes-of-arcanum-the-hunter-pack.json](./361896-ashes-of-arcanum-the-hunter-pack.json) |
+| Ashes of Arcanum: The Necromancer Pack | 361898 | [361898-ashes-of-arcanum-the-necromancer-pack.json](./361898-ashes-of-arcanum-the-necromancer-pack.json) |
+| Ashes of Arcanum: The Pirate Pack | 361897 | [361897-ashes-of-arcanum-the-pirate-pack.json](./361897-ashes-of-arcanum-the-pirate-pack.json) |
+| Ashes of Arcanum: The Witch Pack | 361895 | [361895-ashes-of-arcanum-the-witch-pack.json](./361895-ashes-of-arcanum-the-witch-pack.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
 | Ashes of Kardoria | 386145 | [386145-ashes-of-kardoria.json](./386145-ashes-of-kardoria.json) |
