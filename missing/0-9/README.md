@@ -982,11 +982,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
 | 9 Elements | 257474 | [257474-9-elements.json](./257474-9-elements.json) |
 | 9 Empires | 27735 | [27735-9-empires.json](./27735-9-empires.json) |
+| 9 Games, 2 Buttons | 337784 | [337784-9-games-2-buttons.json](./337784-9-games-2-buttons.json) |
 | 9 in 1 Puzzles | 212336 | [212336-9-in-1-puzzles.json](./212336-9-in-1-puzzles.json) |
 | 9 Lives | 251003 | [251003-9-lives.json](./251003-9-lives.json) |
 | 9 Maker | 240352 | [240352-9-maker.json](./240352-9-maker.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
 | 9 Till Void | 133230 | [133230-9-till-void.json](./133230-9-till-void.json) |
+| 9 Ways: Hentai Harem | 337785 | [337785-9-ways-hentai-harem.json](./337785-9-ways-hentai-harem.json) |
+| 9 Years of Dreaming | 337786 | [337786-9-years-of-dreaming.json](./337786-9-years-of-dreaming.json) |
 | 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
 | 9: The Dark Side of Notre Dame - Collector's Edition | 416852 | [416852-9-the-dark-side-of-notre-dame-collectors-edition.json](./416852-9-the-dark-side-of-notre-dame-collectors-edition.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
@@ -1019,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Àishén Cānguǎn Max | 86058 | [86058-aishen-canguan-max.json](./86058-aishen-canguan-max.json) |
 | Ājīn | 116291 | [116291-ajin.json](./116291-ajin.json) |
 | Álom | 229689 | [229689-alom.json](./229689-alom.json) |
+| Ämäränth: The Last Day of My Adolescence | 337821 | [337821-amaranth-the-last-day-of-my-adolescence.json](./337821-amaranth-the-last-day-of-my-adolescence.json) |
 | Ānquán Jiàoyù | 102177 | [102177-anquan-jiaoyu.json](./102177-anquan-jiaoyu.json) |
 | Ànyán no Shénzú Ove: Fēng zhī Zhāng | 394202 | [394202-anyan-no-shenzu-ove-feng-zhi-zhang.json](./394202-anyan-no-shenzu-ove-feng-zhi-zhang.json) |
 | Ảo Mộng Tru Tiên | 380388 | [380388-ao-mong-tru-tien.json](./380388-ao-mong-tru-tien.json) |
