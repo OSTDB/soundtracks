@@ -857,6 +857,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
 | Advanced Pasta Cooking Simulator | 215766 | [215766-advanced-pasta-cooking-simulator.json](./215766-advanced-pasta-cooking-simulator.json) |
+| Advanced PET: Battle Chip - Counter 2 | 352964 | [352964-advanced-pet-battle-chip-counter-2.json](./352964-advanced-pet-battle-chip-counter-2.json) |
+| Advanced PET: Battle Chip - Panel Return | 352967 | [352967-advanced-pet-battle-chip-panel-return.json](./352967-advanced-pet-battle-chip-panel-return.json) |
+| Advanced PET: Battle Chip - Roll Arrow 1 | 352968 | [352968-advanced-pet-battle-chip-roll-arrow-1.json](./352968-advanced-pet-battle-chip-roll-arrow-1.json) |
 | Advanced Power Dolls 2 | 56170 | [56170-advanced-power-dolls-2.json](./56170-advanced-power-dolls-2.json) |
 | Advanced Shells | 308381 | [308381-advanced-shells.json](./308381-advanced-shells.json) |
 | Advanced Shells II | 308380 | [308380-advanced-shells-ii.json](./308380-advanced-shells-ii.json) |
