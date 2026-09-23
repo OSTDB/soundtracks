@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi! Seishun no Dream School | 77621 | [77621-tamagotchi-seishun-no-dream-school.json](./77621-tamagotchi-seishun-no-dream-school.json) |
 | Tamak. | 263593 | [263593-tamak.json](./263593-tamak.json) |
 | Tamako | 366315 | [366315-tamako.json](./366315-tamako.json) |
+| Tamamon | 380687 | [380687-tamamon.json](./380687-tamamon.json) |
 | Tamara In The Forsaken Dungeon | 276284 | [276284-tamara-in-the-forsaken-dungeon.json](./276284-tamara-in-the-forsaken-dungeon.json) |
 | Tamarak Trail | 240982 | [240982-tamarak-trail.json](./240982-tamarak-trail.json) |
 | Tamas: Shadowveil | 410963 | [410963-tamas-shadowveil.json](./410963-tamas-shadowveil.json) |
@@ -7238,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinking Games 2 | 72064 | [72064-thinking-games-2.json](./72064-thinking-games-2.json) |
 | Thinkrolls Space | 119571 | [119571-thinkrolls-space.json](./119571-thinkrolls-space.json) |
 | ThinkTanks | 84240 | [84240-thinktanks.json](./84240-thinktanks.json) |
+| Thinky Dailies | 380657 | [380657-thinky-dailies.json](./380657-thinky-dailies.json) |
 | Thinky Dailies: Season 1 | 388215 | [388215-thinky-dailies-season-1.json](./388215-thinky-dailies-season-1.json) |
 | Thinky Dailies: Season 2 | 393808 | [393808-thinky-dailies-season-2.json](./393808-thinky-dailies-season-2.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
