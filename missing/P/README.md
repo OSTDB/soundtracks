@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Airplane Flying Game | 414452 | [414452-paper-airplane-flying-game.json](./414452-paper-airplane-flying-game.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
 | Paper Animal Adventure | 204515 | [204515-paper-animal-adventure.json](./204515-paper-animal-adventure.json) |
+| Paper Bleed | 350019 | [350019-paper-bleed.json](./350019-paper-bleed.json) |
 | Paper Bride | 190178 | [190178-paper-bride.json](./190178-paper-bride.json) |
 | Paper Bride 2: Zangling Village | 200630 | [200630-paper-bride-2-zangling-village.json](./200630-paper-bride-2-zangling-village.json) |
 | Paper Bride 4: Bound Love | 236258 | [236258-paper-bride-4-bound-love.json](./236258-paper-bride-4-bound-love.json) |
@@ -3578,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Family GB2 | 180202 | [180202-pocket-family-gb2.json](./180202-pocket-family-gb2.json) |
 | Pocket Farm | 232176 | [232176-pocket-farm.json](./232176-pocket-farm.json) |
 | Pocket Farm | 245346 | [245346-pocket-farm.json](./245346-pocket-farm.json) |
+| Pocket Farmer | 350073 | [350073-pocket-farmer.json](./350073-pocket-farmer.json) |
 | Pocket Farmery: Idle Pop Farm | 256356 | [256356-pocket-farmery-idle-pop-farm.json](./256356-pocket-farmery-idle-pop-farm.json) |
 | Pocket Fish | 67942 | [67942-pocket-fish.json](./67942-pocket-fish.json) |
 | Pocket Garden | 367505 | [367505-pocket-garden.json](./367505-pocket-garden.json) |
@@ -6058,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
 | Punch! | 321956 | [321956-punch.json](./321956-punch.json) |
 | Punch'Em Up | 307605 | [307605-punchem-up.json](./307605-punchem-up.json) |
+| Punchball | 350054 | [350054-punchball.json](./350054-punchball.json) |
 | Punchhead | 96074 | [96074-punchhead.json](./96074-punchhead.json) |
 | Punching a Concrete Wall | 399013 | [399013-punching-a-concrete-wall.json](./399013-punching-a-concrete-wall.json) |
 | Punching Storm | 358332 | [358332-punching-storm.json](./358332-punching-storm.json) |
