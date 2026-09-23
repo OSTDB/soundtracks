@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Sushi | 361792 | [361792-goblin-sushi.json](./361792-goblin-sushi.json) |
 | Goblin Takes No Argument[s] | 172163 | [172163-goblin-takes-no-argument-s.json](./172163-goblin-takes-no-argument-s.json) |
 | Goblin Times | 127378 | [127378-goblin-times.json](./127378-goblin-times.json) |
+| Goblin Traders | 344014 | [344014-goblin-traders.json](./344014-goblin-traders.json) |
 | Goblin treasure | 129716 | [129716-goblin-treasure.json](./129716-goblin-treasure.json) |
 | Goblin: Mutation | 366331 | [366331-goblin-mutation.json](./366331-goblin-mutation.json) |
 | Goblin.Life | 172190 | [172190-goblin-life.json](./172190-goblin-life.json) |
@@ -2275,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Gate | 81335 | [81335-golden-gate.json](./81335-golden-gate.json) |
 | Golden Gloves VR | 235191 | [235191-golden-gloves-vr.json](./235191-golden-gloves-vr.json) |
 | Golden Goal: Soccer Squad | 297251 | [297251-golden-goal-soccer-squad.json](./297251-golden-goal-soccer-squad.json) |
+| Golden Idol Investigations: The Lemurian Phoenix | 342844 | [342844-golden-idol-investigations-the-lemurian-phoenix.json](./342844-golden-idol-investigations-the-lemurian-phoenix.json) |
 | Golden Idol Investigations: The Sins of New Wells | 333390 | [333390-golden-idol-investigations-the-sins-of-new-wells.json](./333390-golden-idol-investigations-the-sins-of-new-wells.json) |
 | Golden Idol Mysteries: DLC Bundle | 268569 | [268569-golden-idol-mysteries-dlc-bundle.json](./268569-golden-idol-mysteries-dlc-bundle.json) |
 | Golden Idol Mysteries: The Lemurian Vampire | 264300 | [264300-golden-idol-mysteries-the-lemurian-vampire.json](./264300-golden-idol-mysteries-the-lemurian-vampire.json) |
@@ -3645,6 +3647,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
 | Guilty Gear X | 9141 | [9141-guilty-gear-x.json](./9141-guilty-gear-x.json) |
 | Guilty Gear X2 | 9142 | [9142-guilty-gear-x2.json](./9142-guilty-gear-x2.json) |
+| Guilty Gear Xrd 2: Character Colors Kum Haehyun | 342873 | [342873-guilty-gear-xrd-2-character-colors-kum-haehyun.json](./342873-guilty-gear-xrd-2-character-colors-kum-haehyun.json) |
+| Guilty Gear Xrd 2: Character Colors Ky Kiske | 342874 | [342874-guilty-gear-xrd-2-character-colors-ky-kiske.json](./342874-guilty-gear-xrd-2-character-colors-ky-kiske.json) |
+| Guilty Gear Xrd 2: Character Colors Leo Whitefang | 342875 | [342875-guilty-gear-xrd-2-character-colors-leo-whitefang.json](./342875-guilty-gear-xrd-2-character-colors-leo-whitefang.json) |
 | Guilty Gear Xrd Rev 2: Additional Character Color Eclipse (for Answer & Baiken) | 409066 | [409066-guilty-gear-xrd-rev-2-additional-character-color-eclipse-for-answer-and-baiken.json](./409066-guilty-gear-xrd-rev-2-additional-character-color-eclipse-for-answer-and-baiken.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors Zato-One | 344378 | [344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json](./344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json) |
 | Guilty Gear Xrd: Revelator | 13620 | [13620-guilty-gear-xrd-revelator.json](./13620-guilty-gear-xrd-revelator.json) |
@@ -3992,6 +3997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
 | Gutter: The Perished | 296902 | [296902-gutter-the-perished.json](./296902-gutter-the-perished.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
+| Gutterball 2 | 344018 | [344018-gutterball-2.json](./344018-gutterball-2.json) |
 | Gutwhale | 132599 | [132599-gutwhale.json](./132599-gutwhale.json) |
 | Gutz | 13863 | [13863-gutz.json](./13863-gutz.json) |
 | Guucho de Park: Theme Park Monogatari | 410438 | [410438-guucho-de-park-theme-park-monogatari.json](./410438-guucho-de-park-theme-park-monogatari.json) |
