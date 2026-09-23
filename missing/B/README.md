@@ -5348,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
 | Brick | 92294 | [92294-brick.json](./92294-brick.json) |
 | Brick Battalion | 32208 | [32208-brick-battalion.json](./32208-brick-battalion.json) |
+| Brick Blast | 376107 | [376107-brick-blast.json](./376107-brick-blast.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
