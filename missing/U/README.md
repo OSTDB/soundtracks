@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upload Complete | 335341 | [335341-upload-complete.json](./335341-upload-complete.json) |
 | Upload Simulator | 215676 | [215676-upload-simulator.json](./215676-upload-simulator.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
+| Upon A Darkening Flood | 367593 | [367593-upon-a-darkening-flood.json](./367593-upon-a-darkening-flood.json) |
 | Upper Ball | 239091 | [239091-upper-ball.json](./239091-upper-ball.json) |
 | Uppercute | 336613 | [336613-uppercute.json](./336613-uppercute.json) |
 | Upperz | 102794 | [102794-upperz.json](./102794-upperz.json) |
