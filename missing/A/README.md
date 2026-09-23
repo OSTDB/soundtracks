@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmiWordle | 304190 | [304190-amiwordle.json](./304190-amiwordle.json) |
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
 | Ammo Pigs: Armed and Delicious | 107889 | [107889-ammo-pigs-armed-and-delicious.json](./107889-ammo-pigs-armed-and-delicious.json) |
+| Ammo Station Simulator | 390274 | [390274-ammo-station-simulator.json](./390274-ammo-station-simulator.json) |
 | Ammossum | 275884 | [275884-ammossum.json](./275884-ammossum.json) |
 | Ammotrack | 93993 | [93993-ammotrack.json](./93993-ammotrack.json) |
 | Amnea 28: Dve Vechnosti | 272822 | [272822-amnea-28-dve-vechnosti.json](./272822-amnea-28-dve-vechnosti.json) |
