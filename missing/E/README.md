@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Solitaire 2 | 386123 | [386123-enchanted-solitaire-2.json](./386123-enchanted-solitaire-2.json) |
 | Enchanted Stories: Mystic Woods - Collector's Edition | 356763 | [356763-enchanted-stories-mystic-woods-collectors-edition.json](./356763-enchanted-stories-mystic-woods-collectors-edition.json) |
 | Enchanted Trees Escape | 315669 | [315669-enchanted-trees-escape.json](./315669-enchanted-trees-escape.json) |
+| Enchanted Valley: Fantasy Slide Puzzle | 365900 | [365900-enchanted-valley-fantasy-slide-puzzle.json](./365900-enchanted-valley-fantasy-slide-puzzle.json) |
 | EnchantedGirl | 368676 | [368676-enchantedgirl.json](./368676-enchantedgirl.json) |
 | Enchanter Trilogy | 73789 | [73789-enchanter-trilogy.json](./73789-enchanter-trilogy.json) |
 | Enchantment Siege | 253966 | [253966-enchantment-siege.json](./253966-enchantment-siege.json) |
@@ -2684,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo Exit | 18542 | [18542-exo-exit.json](./18542-exo-exit.json) |
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo Rally Championship | 252862 | [252862-exo-rally-championship.json](./252862-exo-rally-championship.json) |
+| Exo-Card Collector | 365869 | [365869-exo-card-collector.json](./365869-exo-card-collector.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
