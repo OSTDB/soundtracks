@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tricks | 176962 | [176962-tap-tricks.json](./176962-tap-tricks.json) |
 | Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
 | Tap Wars: Earth Defense Force 4.1 - The Shadow of New Despair | 220219 | [220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json](./220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
+| Tap Zoo | 343458 | [343458-tap-zoo.json](./343458-tap-zoo.json) |
 | Tap-A-Zombie | 149448 | [149448-tap-a-zombie.json](./149448-tap-a-zombie.json) |
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
 | Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
@@ -10184,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Department 2192 | 23728 | [23728-traffic-department-2192.json](./23728-traffic-department-2192.json) |
 | Traffic Giant | 57660 | [57660-traffic-giant.json](./57660-traffic-giant.json) |
 | Traffic Jammy | 179581 | [179581-traffic-jammy.json](./179581-traffic-jammy.json) |
+| Traffic Panic | 343480 | [343480-traffic-panic.json](./343480-traffic-panic.json) |
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
 | Traffic Racer Highway Online | 250350 | [250350-traffic-racer-highway-online.json](./250350-traffic-racer-highway-online.json) |
 | Traffic Rivals: 1v1 Duels | 348456 | [348456-traffic-rivals-1v1-duels.json](./348456-traffic-rivals-1v1-duels.json) |
