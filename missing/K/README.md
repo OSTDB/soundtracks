@@ -1510,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
 | Klondike Solitaire Gold | 146914 | [146914-klondike-solitaire-gold.json](./146914-klondike-solitaire-gold.json) |
+| Klondike Solitaire Pro | 391349 | [391349-klondike-solitaire-pro.json](./391349-klondike-solitaire-pro.json) |
 | Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
 | Klonoa 2: Lunatea's Veil | 9709 | [9709-klonoa-2-lunateas-veil.json](./9709-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
@@ -2129,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurohyou: Ryuu ga Gotoku Shinshou | 66611 | [66611-kurohyou-ryuu-ga-gotoku-shinshou.json](./66611-kurohyou-ryuu-ga-gotoku-shinshou.json) |
 | Kuroinu 2 Redux | 262080 | [262080-kuroinu-2-redux.json](./262080-kuroinu-2-redux.json) |
 | Kuroko no Basket: Mirai he no Kizuna | 60492 | [60492-kuroko-no-basket-mirai-he-no-kizuna.json](./60492-kuroko-no-basket-mirai-he-no-kizuna.json) |
+| Kuromaku | 391323 | [391323-kuromaku.json](./391323-kuromaku.json) |
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
 | Kuros | 16059 | [16059-kuros.json](./16059-kuros.json) |
 | Kursk | 22793 | [22793-kursk.json](./22793-kursk.json) |
