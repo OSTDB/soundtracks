@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landmark | 9629 | [9629-landmark.json](./9629-landmark.json) |
 | Landmaster | 400859 | [400859-landmaster.json](./400859-landmaster.json) |
 | Landmine Larry | 31174 | [31174-landmine-larry.json](./31174-landmine-larry.json) |
+| Landmine Princess | 342881 | [342881-landmine-princess.json](./342881-landmine-princess.json) |
 | Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
@@ -3601,6 +3602,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunicus | 79597 | [79597-lunicus.json](./79597-lunicus.json) |
 | Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
+| Lunorbit | 342850 | [342850-lunorbit.json](./342850-lunorbit.json) |
+| Lunorbit Deluxe | 342852 | [342852-lunorbit-deluxe.json](./342852-lunorbit-deluxe.json) |
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Luonnonvoimat | 390771 | [390771-luonnonvoimat.json](./390771-luonnonvoimat.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
