@@ -5466,6 +5466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broforce: Forever | 260721 | [260721-broforce-forever.json](./260721-broforce-forever.json) |
 | Brok Complete Bundle | 384200 | [384200-brok-complete-bundle.json](./384200-brok-complete-bundle.json) |
 | Brok: Natal Tail, A New Christmas | 325648 | [325648-brok-natal-tail-a-new-christmas.json](./325648-brok-natal-tail-a-new-christmas.json) |
+| Brok: Natal Tail, A New Christmas - Special | 380711 | [380711-brok-natal-tail-a-new-christmas-special.json](./380711-brok-natal-tail-a-new-christmas-special.json) |
 | Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
 | Broke in Isekai | 310925 | [310925-broke-in-isekai.json](./310925-broke-in-isekai.json) |
