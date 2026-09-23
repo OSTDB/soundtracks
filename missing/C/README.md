@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
+| Car For Sale Simulator 2023: PickUp & SUV | 359608 | [359608-car-for-sale-simulator-2023-pickup-and-suv.json](./359608-car-for-sale-simulator-2023-pickup-and-suv.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
 | Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
@@ -3251,6 +3252,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | City Takeover: Wild Edition | 364096 | [364096-city-takeover-wild-edition.json](./364096-city-takeover-wild-edition.json) |
 | City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
+| City Transport Simulator: Bus | 359609 | [359609-city-transport-simulator-bus.json](./359609-city-transport-simulator-bus.json) |
+| City Transport Simulator: Bus DLC - Gräf/Steyr NG235 | 359611 | [359611-city-transport-simulator-bus-dlc-graf-steyr-ng235.json](./359611-city-transport-simulator-bus-dlc-graf-steyr-ng235.json) |
+| City Transport Simulator: Bus DLC - MAN Lion's City A23 | 359612 | [359612-city-transport-simulator-bus-dlc-man-lions-city-a23.json](./359612-city-transport-simulator-bus-dlc-man-lions-city-a23.json) |
+| City Transport Simulator: E1 Vienna Add-On | 359610 | [359610-city-transport-simulator-e1-vienna-add-on.json](./359610-city-transport-simulator-e1-vienna-add-on.json) |
+| City Transport Simulator: GT8N Mannheim​ Add-On | 359613 | [359613-city-transport-simulator-gt8n-mannheim-add-on.json](./359613-city-transport-simulator-gt8n-mannheim-add-on.json) |
+| City Transport Simulator: StadtRegioTram Add-On | 359614 | [359614-city-transport-simulator-stadtregiotram-add-on.json](./359614-city-transport-simulator-stadtregiotram-add-on.json) |
+| City Transport Simulator: Tram Depot + Southern-Route Add-On | 359616 | [359616-city-transport-simulator-tram-depot-southern-route-add-on.json](./359616-city-transport-simulator-tram-depot-southern-route-add-on.json) |
+| City Transport Simulator: Type D Vienna Add-On | 359615 | [359615-city-transport-simulator-type-d-vienna-add-on.json](./359615-city-transport-simulator-type-d-vienna-add-on.json) |
 | City Transport Simulator: Ultimate Public Bus 2020 | 197327 | [197327-city-transport-simulator-ultimate-public-bus-2020.json](./197327-city-transport-simulator-ultimate-public-bus-2020.json) |
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
 | City Worker Simulator | 405735 | [405735-city-worker-simulator.json](./405735-city-worker-simulator.json) |
@@ -6837,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
+| Cuppy Coffee Sim | 359620 | [359620-cuppy-coffee-sim.json](./359620-cuppy-coffee-sim.json) |
 | Cuprum2929 | 311131 | [311131-cuprum2929.json](./311131-cuprum2929.json) |
 | Cura | 287792 | [287792-cura.json](./287792-cura.json) |
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
