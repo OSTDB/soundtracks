@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odessa | 333649 | [333649-odessa.json](./333649-odessa.json) |
 | Odezie | 129753 | [129753-odezie.json](./129753-odezie.json) |
 | ODIA | 135709 | [135709-odia.json](./135709-odia.json) |
+| Odile: Black Duckling Tale | 381221 | [381221-odile-black-duckling-tale.json](./381221-odile-black-duckling-tale.json) |
 | Odin Sphere | 9110 | [9110-odin-sphere.json](./9110-odin-sphere.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
@@ -1375,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
 | Orbital Strike VR | 136464 | [136464-orbital-strike-vr.json](./136464-orbital-strike-vr.json) |
 | Orbital X | 31797 | [31797-orbital-x.json](./31797-orbital-x.json) |
+| Orbitals | 381237 | [381237-orbitals.json](./381237-orbitals.json) |
 | Orbiter 2016 | 139258 | [139258-orbiter-2016.json](./139258-orbiter-2016.json) |
 | Orbiterrion | 153359 | [153359-orbiterrion.json](./153359-orbiterrion.json) |
 | Orbitor | 36074 | [36074-orbitor.json](./36074-orbitor.json) |
@@ -1428,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Battle: World War II - Order of Battle: Allies Victorious | 219793 | [219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json](./219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json) |
 | Order of Renewal | 337647 | [337647-order-of-renewal.json](./337647-order-of-renewal.json) |
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
+| Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
 | Order Road | 162849 | [162849-order-road.json](./162849-order-road.json) |
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
