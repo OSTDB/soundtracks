@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball M: Duke Nukem's Big Shot Pinball | 276743 | [276743-pinball-m-duke-nukems-big-shot-pinball.json](./276743-pinball-m-duke-nukems-big-shot-pinball.json) |
 | Pinball M: The Thing Pinball | 278535 | [278535-pinball-m-the-thing-pinball.json](./278535-pinball-m-the-thing-pinball.json) |
 | Pinball Madness 2 | 71225 | [71225-pinball-madness-2.json](./71225-pinball-madness-2.json) |
+| Pinball Paladins | 364703 | [364703-pinball-paladins.json](./364703-pinball-paladins.json) |
 | Pinball Parlor | 31684 | [31684-pinball-parlor.json](./31684-pinball-parlor.json) |
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
 | Pinball Pulse: The Ancients Beckon | 67355 | [67355-pinball-pulse-the-ancients-beckon.json](./67355-pinball-pulse-the-ancients-beckon.json) |
@@ -4107,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poncik's Little Tragedy | 415069 | [415069-ponciks-little-tragedy.json](./415069-ponciks-little-tragedy.json) |
 | Poncotsu Roman Daikatsugeki Bumpy Trot 2 | 91754 | [91754-poncotsu-roman-daikatsugeki-bumpy-trot-2.json](./91754-poncotsu-roman-daikatsugeki-bumpy-trot-2.json) |
 | Pond | 373662 | [373662-pond.json](./373662-pond.json) |
+| Pond Party | 364687 | [364687-pond-party.json](./364687-pond-party.json) |
 | Ponder Club | 394542 | [394542-ponder-club.json](./394542-ponder-club.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
@@ -4446,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potato Thriller | 97100 | [97100-potato-thriller.json](./97100-potato-thriller.json) |
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
+| PotDuckRun | 364677 | [364677-potduckrun.json](./364677-potduckrun.json) |
 | Potential Man | 411102 | [411102-potential-man.json](./411102-potential-man.json) |
 | Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
@@ -5916,6 +5919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Kick Club | 338283 | [338283-punch-kick-club.json](./338283-punch-kick-club.json) |
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
 | Punch Line: Cheermancy Edition | 105109 | [105109-punch-line-cheermancy-edition.json](./105109-punch-line-cheermancy-edition.json) |
+| Punch Lunch: Foodtruck Fighter | 364698 | [364698-punch-lunch-foodtruck-fighter.json](./364698-punch-lunch-foodtruck-fighter.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punch Upon a Time | 399204 | [399204-punch-upon-a-time.json](./399204-punch-upon-a-time.json) |
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
