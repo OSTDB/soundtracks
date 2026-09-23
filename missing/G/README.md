@@ -3829,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship Assault | 188006 | [188006-gunship-assault.json](./188006-gunship-assault.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
 | Gunship Battle: Total Warfare | 109500 | [109500-gunship-battle-total-warfare.json](./109500-gunship-battle-total-warfare.json) |
+| Gunship Global Operations | 380115 | [380115-gunship-global-operations.json](./380115-gunship-global-operations.json) |
 | Gunship II | 88754 | [88754-gunship-ii.json](./88754-gunship-ii.json) |
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
