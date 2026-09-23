@@ -1548,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers: Last Hope | 29720 | [29720-whispers-last-hope.json](./29720-whispers-last-hope.json) |
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
 | Whistle Pig | 350451 | [350451-whistle-pig.json](./350451-whistle-pig.json) |
+| Whistle! Dai 37-kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai | 386986 | [386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json](./386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json) |
 | Whistle1 | 402524 | [402524-whistle1.json](./402524-whistle1.json) |
 | WhiTaers | 113663 | [113663-whitaers.json](./113663-whitaers.json) |
 | White | 54695 | [54695-white.json](./54695-white.json) |
