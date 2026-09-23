@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night and Day | 133406 | [133406-night-and-day.json](./133406-night-and-day.json) |
 | Night and Day | 70378 | [70378-night-and-day.json](./70378-night-and-day.json) |
 | Night at Grandma's | 331330 | [331330-night-at-grandmas.json](./331330-night-at-grandmas.json) |
+| Night at the Harbor | 377848 | [377848-night-at-the-harbor.json](./377848-night-at-the-harbor.json) |
 | Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
 | Night at the Lake: Silent Watcher | 355036 | [355036-night-at-the-lake-silent-watcher.json](./355036-night-at-the-lake-silent-watcher.json) |
 | Night At The Motel | 376485 | [376485-night-at-the-motel.json](./376485-night-at-the-motel.json) |
@@ -1623,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Vigil | 31848 | [31848-night-vigil.json](./31848-night-vigil.json) |
 | Night Watch | 20540 | [20540-night-watch.json](./20540-night-watch.json) |
 | Night Witch: 588 | 127245 | [127245-night-witch-588.json](./127245-night-witch-588.json) |
+| Night with Timber | 377795 | [377795-night-with-timber.json](./377795-night-with-timber.json) |
 | Night World | 178057 | [178057-night-world.json](./178057-night-world.json) |
 | Night-Runners Prologue | 281485 | [281485-night-runners-prologue.json](./281485-night-runners-prologue.json) |
 | Night&Scape | 237052 | [237052-night-and-scape.json](./237052-night-and-scape.json) |
