@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Theory | 244486 | [244486-shape-theory.json](./244486-shape-theory.json) |
 | Shape Together | 402374 | [402374-shape-together.json](./402374-shape-together.json) |
 | Shape Wars | 414440 | [414440-shape-wars.json](./414440-shape-wars.json) |
+| Shape Warzone | 345098 | [345098-shape-warzone.json](./345098-shape-warzone.json) |
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
 | ShapeGrid | 189048 | [189048-shapegrid.json](./189048-shapegrid.json) |
@@ -3550,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
 | Shroud of the Avatar - The Path of Virtue | 95995 | [95995-shroud-of-the-avatar-the-path-of-virtue.json](./95995-shroud-of-the-avatar-the-path-of-virtue.json) |
 | Shroud of the Woods | 389729 | [389729-shroud-of-the-woods.json](./389729-shroud-of-the-woods.json) |
+| Shrouded Aspect | 345146 | [345146-shrouded-aspect.json](./345146-shrouded-aspect.json) |
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
@@ -4348,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateboarding | 358842 | [358842-skateboarding.json](./358842-skateboarding.json) |
 | Skatebound | 400494 | [400494-skatebound.json](./400494-skatebound.json) |
 | Skategirl Destroys the Universe | 147275 | [147275-skategirl-destroys-the-universe.json](./147275-skategirl-destroys-the-universe.json) |
+| Skatelander | 345149 | [345149-skatelander.json](./345149-skatelander.json) |
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
 | Skater Girl Ice Skating | 103866 | [103866-skater-girl-ice-skating.json](./103866-skater-girl-ice-skating.json) |
@@ -5543,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Squad Mission | 99659 | [99659-sniper-squad-mission.json](./99659-sniper-squad-mission.json) |
 | Sniper Strike 3D | 237365 | [237365-sniper-strike-3d.json](./237365-sniper-strike-3d.json) |
 | Sniper Strike: Special Ops | 89492 | [89492-sniper-strike-special-ops.json](./89492-sniper-strike-special-ops.json) |
+| Sniper Warrior Elite | 345119 | [345119-sniper-warrior-elite.json](./345119-sniper-warrior-elite.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
 | Sniper: Ghost Warrior 3 | 10964 | [10964-sniper-ghost-warrior-3.json](./10964-sniper-ghost-warrior-3.json) |
@@ -5594,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Blocks 2 | 272929 | [272929-snow-blocks-2.json](./272929-snow-blocks-2.json) |
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
 | Snow Bros. 2: With New Elves | 39842 | [39842-snow-bros-2-with-new-elves.json](./39842-snow-bros-2-with-new-elves.json) |
+| Snow Bros. Classic | 345107 | [345107-snow-bros-classic.json](./345107-snow-bros-classic.json) |
 | Snow Bros. Classic Collection | 387669 | [387669-snow-bros-classic-collection.json](./387669-snow-bros-classic-collection.json) |
 | Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
 | Snow Bros.: Nick & Tom Special | 198126 | [198126-snow-bros-nick-and-tom-special.json](./198126-snow-bros-nick-and-tom-special.json) |
@@ -7137,6 +7142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
 | Space Griffon | 20661 | [20661-space-griffon.json](./20661-space-griffon.json) |
 | Space Grunts 2 | 121004 | [121004-space-grunts-2.json](./121004-space-grunts-2.json) |
+| Space Grunts: Chrono Shard | 345099 | [345099-space-grunts-chrono-shard.json](./345099-space-grunts-chrono-shard.json) |
 | Space Guard | 78613 | [78613-space-guard.json](./78613-space-guard.json) |
 | Space Gun | 12856 | [12856-space-gun.json](./12856-space-gun.json) |
 | Space Gun | 272928 | [272928-space-gun.json](./272928-space-gun.json) |
@@ -9785,6 +9791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticker Business | 356738 | [356738-sticker-business.json](./356738-sticker-business.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
+| Stickility | 345101 | [345101-stickility.json](./345101-stickility.json) |
 | Sticklings | 197747 | [197747-sticklings.json](./197747-sticklings.json) |
 | Stickman 3D Tennis: Deluxe | 404210 | [404210-stickman-3d-tennis-deluxe.json](./404210-stickman-3d-tennis-deluxe.json) |
 | Stickman 3D Wingsuit: Deluxe | 406699 | [406699-stickman-3d-wingsuit-deluxe.json](./406699-stickman-3d-wingsuit-deluxe.json) |
@@ -9952,6 +9959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StopTime Drive | 44226 | [44226-stoptime-drive.json](./44226-stoptime-drive.json) |
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
 | Storage Guys | 318046 | [318046-storage-guys.json](./318046-storage-guys.json) |
+| Storage Hunter: Bid War Simulator | 345118 | [345118-storage-hunter-bid-war-simulator.json](./345118-storage-hunter-bid-war-simulator.json) |
 | Storage Looter | 298154 | [298154-storage-looter.json](./298154-storage-looter.json) |
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
 | Storage Warfare | 303220 | [303220-storage-warfare.json](./303220-storage-warfare.json) |
@@ -10005,6 +10013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormtrooper | 15379 | [15379-stormtrooper.json](./15379-stormtrooper.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
+| Story 210 | 345094 | [345094-story-210.json](./345094-story-210.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
 | Story City | 228518 | [228518-story-city.json](./228518-story-city.json) |
 | Story Hour: Fairy Tales | 9756 | [9756-story-hour-fairy-tales.json](./9756-story-hour-fairy-tales.json) |
@@ -10682,6 +10691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Puttel | 385845 | [385845-succubus-puttel.json](./385845-succubus-puttel.json) |
 | Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
+| Succubus Sexy Devils | 345111 | [345111-succubus-sexy-devils.json](./345111-succubus-sexy-devils.json) |
 | Succubus Successor: Delilah's Juicy Journey | 406898 | [406898-succubus-successor-delilahs-juicy-journey.json](./406898-succubus-successor-delilahs-juicy-journey.json) |
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
@@ -12330,6 +12340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket & Clothing Store Simulator | 404258 | [404258-supermarket-and-clothing-store-simulator.json](./404258-supermarket-and-clothing-store-simulator.json) |
 | Supermarket 3D Tycoon Buisness Simulator | 316241 | [316241-supermarket-3d-tycoon-buisness-simulator.json](./316241-supermarket-3d-tycoon-buisness-simulator.json) |
 | Supermarket 3D Tycoon Business Simulator | 317231 | [317231-supermarket-3d-tycoon-business-simulator.json](./317231-supermarket-3d-tycoon-business-simulator.json) |
+| Supermarket Anime Collector's Simulator | 345117 | [345117-supermarket-anime-collectors-simulator.json](./345117-supermarket-anime-collectors-simulator.json) |
 | Supermarket Bash | 296507 | [296507-supermarket-bash.json](./296507-supermarket-bash.json) |
 | Supermarket Billionaire | 359083 | [359083-supermarket-billionaire.json](./359083-supermarket-billionaire.json) |
 | Supermarket CEO Simulator | 335949 | [335949-supermarket-ceo-simulator.json](./335949-supermarket-ceo-simulator.json) |
@@ -13185,6 +13196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthesia | 50109 | [50109-synthesia.json](./50109-synthesia.json) |
 | Synthetic Dreams | 51977 | [51977-synthetic-dreams.json](./51977-synthetic-dreams.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
+| Synthetic Hopes | 345112 | [345112-synthetic-hopes.json](./345112-synthetic-hopes.json) |
 | Synthetic Soul | 276159 | [276159-synthetic-soul.json](./276159-synthetic-soul.json) |
 | Synthetic Soul 2 | 292676 | [292676-synthetic-soul-2.json](./292676-synthetic-soul-2.json) |
 | Synthetic Soul 3 | 310736 | [310736-synthetic-soul-3.json](./310736-synthetic-soul-3.json) |
