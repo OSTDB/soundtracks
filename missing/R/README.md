@@ -2186,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrojam I | 314285 | [314285-retrojam-i.json](./314285-retrojam-i.json) |
 | RetroMania Wrestling | 131604 | [131604-retromania-wrestling.json](./131604-retromania-wrestling.json) |
 | RetroMaze | 99060 | [99060-retromaze.json](./99060-retromaze.json) |
+| Retromine | 382447 | [382447-retromine.json](./382447-retromine.json) |
 | RetroMMO | 140518 | [140518-retrommo.json](./140518-retrommo.json) |
 | Retroplay Controller | 287666 | [287666-retroplay-controller.json](./287666-retroplay-controller.json) |
 | RetroQuest | 45332 | [45332-retroquest.json](./45332-retroquest.json) |
@@ -2900,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Rain Returns | 229794 | [229794-risk-of-rain-returns.json](./229794-risk-of-rain-returns.json) |
 | Risk of Rain: Meridian | 316994 | [316994-risk-of-rain-meridian.json](./316994-risk-of-rain-meridian.json) |
 | Risk of Rain: Starstorm | 262102 | [262102-risk-of-rain-starstorm.json](./262102-risk-of-rain-starstorm.json) |
+| Risk Of Waifus | 382482 | [382482-risk-of-waifus.json](./382482-risk-of-waifus.json) |
 | Risk One's Neck | 109454 | [109454-risk-ones-neck.json](./109454-risk-ones-neck.json) |
 | Risk System | 117781 | [117781-risk-system.json](./117781-risk-system.json) |
 | Risk your life to get your dinner back Nyanzou action game | 231070 | [231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json](./231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json) |
