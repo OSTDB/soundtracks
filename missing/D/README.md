@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Nite | 336598 | [336598-date-nite.json](./336598-date-nite.json) |
 | Date or Destiny: Kiss or Miss | 348880 | [348880-date-or-destiny-kiss-or-miss.json](./348880-date-or-destiny-kiss-or-miss.json) |
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
+| Date Plus | 358498 | [358498-date-plus.json](./358498-date-plus.json) |
 | Date the Difference | 392299 | [392299-date-the-difference.json](./392299-date-the-difference.json) |
 | Date Us, You Won't | 215229 | [215229-date-us-you-wont.json](./215229-date-us-you-wont.json) |
 | Date Warp | 17400 | [17400-date-warp.json](./17400-date-warp.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
 | Death Motel | 283281 | [283281-death-motel.json](./283281-death-motel.json) |
 | Death Moto 3 | 237964 | [237964-death-moto-3.json](./237964-death-moto-3.json) |
+| Death Mountain | 358491 | [358491-death-mountain.json](./358491-death-mountain.json) |
 | Death Must Die | 244243 | [244243-death-must-die.json](./244243-death-must-die.json) |
 | Death Nomad | 236001 | [236001-death-nomad.json](./236001-death-nomad.json) |
 | Death Noodle Delivery | 207330 | [207330-death-noodle-delivery.json](./207330-death-noodle-delivery.json) |
