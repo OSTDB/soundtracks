@@ -2328,6 +2328,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
 | Pikmin Maps in Minecraft | 313469 | [313469-pikmin-maps-in-minecraft.json](./313469-pikmin-maps-in-minecraft.json) |
 | Pikmin Puzzle Card e+ | 220852 | [220852-pikmin-puzzle-card-e.json](./220852-pikmin-puzzle-card-e.json) |
+| Pikmin Puzzle Card e+: Hikkonuki Pikmin - Olimar | 353505 | [353505-pikmin-puzzle-card-e-hikkonuki-pikmin-olimar.json](./353505-pikmin-puzzle-card-e-hikkonuki-pikmin-olimar.json) |
+| Pikmin Puzzle Card e+: No.00 - Hikkonuki Pikmin: Aka Pikmin | 353509 | [353509-pikmin-puzzle-card-e-no-00-hikkonuki-pikmin-aka-pikmin.json](./353509-pikmin-puzzle-card-e-no-00-hikkonuki-pikmin-aka-pikmin.json) |
+| Pikmin Puzzle Card e+: No.00 - Teku-teku Pikmin: Ki Pikmin | 353510 | [353510-pikmin-puzzle-card-e-no-00-teku-teku-pikmin-ki-pikmin.json](./353510-pikmin-puzzle-card-e-no-00-teku-teku-pikmin-ki-pikmin.json) |
+| Pikmin Puzzle Card e+: No.00 - Tsunagete Pikmin: Ao Pikmin | 353511 | [353511-pikmin-puzzle-card-e-no-00-tsunagete-pikmin-ao-pikmin.json](./353511-pikmin-puzzle-card-e-no-00-tsunagete-pikmin-ao-pikmin.json) |
+| Pikmin Puzzle Card e+: No.01 - Hikkonuki Pikmin: Aka Chappy | 353512 | [353512-pikmin-puzzle-card-e-no-01-hikkonuki-pikmin-aka-chappy.json](./353512-pikmin-puzzle-card-e-no-01-hikkonuki-pikmin-aka-chappy.json) |
+| Pikmin Puzzle Card e+: No.02 - Teku-teku Pikmin: Ke Chappy | 353513 | [353513-pikmin-puzzle-card-e-no-02-teku-teku-pikmin-ke-chappy.json](./353513-pikmin-puzzle-card-e-no-02-teku-teku-pikmin-ke-chappy.json) |
+| Pikmin Puzzle Card e+: No.03 Tsunagete Pikmin - Ten-ten Chappy | 353514 | [353514-pikmin-puzzle-card-e-no-03-tsunagete-pikmin-ten-ten-chappy.json](./353514-pikmin-puzzle-card-e-no-03-tsunagete-pikmin-ten-ten-chappy.json) |
+| Pikmin Puzzle Card e+: No.04 - Hikkonuki Pikmin: Aka Ko Chappy | 353515 | [353515-pikmin-puzzle-card-e-no-04-hikkonuki-pikmin-aka-ko-chappy.json](./353515-pikmin-puzzle-card-e-no-04-hikkonuki-pikmin-aka-ko-chappy.json) |
+| Pikmin Puzzle Card e+: No.05 - Teku-teku Pikmin: Yuki Chappy | 353516 | [353516-pikmin-puzzle-card-e-no-05-teku-teku-pikmin-yuki-chappy.json](./353516-pikmin-puzzle-card-e-no-05-teku-teku-pikmin-yuki-chappy.json) |
+| Pikmin Puzzle Card e+: No.06 - Tsunagete Pikmin: Ten Ko Chappy | 353517 | [353517-pikmin-puzzle-card-e-no-06-tsunagete-pikmin-ten-ko-chappy.json](./353517-pikmin-puzzle-card-e-no-06-tsunagete-pikmin-ten-ko-chappy.json) |
+| Pikmin Puzzle Card e+: No.07 - Hikkonuki Pikmin: Kuma Chappy | 353518 | [353518-pikmin-puzzle-card-e-no-07-hikkonuki-pikmin-kuma-chappy.json](./353518-pikmin-puzzle-card-e-no-07-hikkonuki-pikmin-kuma-chappy.json) |
+| Pikmin Puzzle Card e+: No.08 - Hikkonuki Pikmin: Chibi Kuma | 353519 | [353519-pikmin-puzzle-card-e-no-08-hikkonuki-pikmin-chibi-kuma.json](./353519-pikmin-puzzle-card-e-no-08-hikkonuki-pikmin-chibi-kuma.json) |
+| Pikmin Puzzle Card e+: No.09 - Teku-teku Pikmin: Baby Chappy | 353520 | [353520-pikmin-puzzle-card-e-no-09-teku-teku-pikmin-baby-chappy.json](./353520-pikmin-puzzle-card-e-no-09-teku-teku-pikmin-baby-chappy.json) |
+| Pikmin Puzzle Card e+: No.10 - Hikkonuki Pikmin: Yaki Chappy | 353521 | [353521-pikmin-puzzle-card-e-no-10-hikkonuki-pikmin-yaki-chappy.json](./353521-pikmin-puzzle-card-e-no-10-hikkonuki-pikmin-yaki-chappy.json) |
+| Pikmin Puzzle Card e+: No.11 - Tsunagete Pikmin: Dango Namazu | 353522 | [353522-pikmin-puzzle-card-e-no-11-tsunagete-pikmin-dango-namazu.json](./353522-pikmin-puzzle-card-e-no-11-tsunagete-pikmin-dango-namazu.json) |
+| Pikmin Puzzle Card e+: No.12 - Hikkonuki Pikmin: Ha Chappy/Koppa Chappy | 353524 | [353524-pikmin-puzzle-card-e-no-12-hikkonuki-pikmin-ha-chappy-koppa-chappy.json](./353524-pikmin-puzzle-card-e-no-12-hikkonuki-pikmin-ha-chappy-koppa-chappy.json) |
+| Pikmin Puzzle Card e+: No.13 - Teku-teku Pikmin: Daiou Deme Madara | 353525 | [353525-pikmin-puzzle-card-e-no-13-teku-teku-pikmin-daiou-deme-madara.json](./353525-pikmin-puzzle-card-e-no-13-teku-teku-pikmin-daiou-deme-madara.json) |
+| Pikmin Puzzle Card e+: Teku-teku Pikmin - President | 353506 | [353506-pikmin-puzzle-card-e-teku-teku-pikmin-president.json](./353506-pikmin-puzzle-card-e-teku-teku-pikmin-president.json) |
+| Pikmin Puzzle Card e+: Tsunagete Pikmin - Louie | 353508 | [353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json](./353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json) |
 | Pikmin Stellar | 313356 | [313356-pikmin-stellar.json](./313356-pikmin-stellar.json) |
 | Pikmin: Return to PNF-404 | 313353 | [313353-pikmin-return-to-pnf-404.json](./313353-pikmin-return-to-pnf-404.json) |
 | Piko Fox! | 336610 | [336610-piko-fox.json](./336610-piko-fox.json) |
@@ -6423,11 +6442,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzletronics Digital Infinite | 157039 | [157039-puzzletronics-digital-infinite.json](./157039-puzzletronics-digital-infinite.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
+| Puzzling Places: A Sunny Stroll in Barcelos | 353486 | [353486-puzzling-places-a-sunny-stroll-in-barcelos.json](./353486-puzzling-places-a-sunny-stroll-in-barcelos.json) |
 | Puzzling Places: All Puzzles of 2024 Bundle | 353878 | [353878-puzzling-places-all-puzzles-of-2024-bundle.json](./353878-puzzling-places-all-puzzles-of-2024-bundle.json) |
 | Puzzling Places: Cityscapes Bundle | 353888 | [353888-puzzling-places-cityscapes-bundle.json](./353888-puzzling-places-cityscapes-bundle.json) |
 | Puzzling Places: Cozy Rooms Bundle | 353889 | [353889-puzzling-places-cozy-rooms-bundle.json](./353889-puzzling-places-cozy-rooms-bundle.json) |
 | Puzzling Places: EuroTrip Bundle | 353885 | [353885-puzzling-places-eurotrip-bundle.json](./353885-puzzling-places-eurotrip-bundle.json) |
+| Puzzling Places: Monthly Pack #20 - Tamerlane | 353471 | [353471-puzzling-places-monthly-pack-20-tamerlane.json](./353471-puzzling-places-monthly-pack-20-tamerlane.json) |
+| Puzzling Places: Monthly Pack #21 - Estonia | 353472 | [353472-puzzling-places-monthly-pack-21-estonia.json](./353472-puzzling-places-monthly-pack-21-estonia.json) |
+| Puzzling Places: Monthly Pack #22 - Streets of San Francisco | 353473 | [353473-puzzling-places-monthly-pack-22-streets-of-san-francisco.json](./353473-puzzling-places-monthly-pack-22-streets-of-san-francisco.json) |
+| Puzzling Places: Monthly Pack #23 | 353474 | [353474-puzzling-places-monthly-pack-23.json](./353474-puzzling-places-monthly-pack-23.json) |
+| Puzzling Places: Monthly Pack #24 - Berlin | 353477 | [353477-puzzling-places-monthly-pack-24-berlin.json](./353477-puzzling-places-monthly-pack-24-berlin.json) |
+| Puzzling Places: Monthly Pack #25 - Great Britain | 353478 | [353478-puzzling-places-monthly-pack-25-great-britain.json](./353478-puzzling-places-monthly-pack-25-great-britain.json) |
+| Puzzling Places: Monthly Pack #26 - Inside & Out | 353481 | [353481-puzzling-places-monthly-pack-26-inside-and-out.json](./353481-puzzling-places-monthly-pack-26-inside-and-out.json) |
+| Puzzling Places: Monthly Pack #27 | 353482 | [353482-puzzling-places-monthly-pack-27.json](./353482-puzzling-places-monthly-pack-27.json) |
+| Puzzling Places: Monthly Pack #28 - China | 353483 | [353483-puzzling-places-monthly-pack-28-china.json](./353483-puzzling-places-monthly-pack-28-china.json) |
+| Puzzling Places: Monthly Pack #29 - Full of Color | 353484 | [353484-puzzling-places-monthly-pack-29-full-of-color.json](./353484-puzzling-places-monthly-pack-29-full-of-color.json) |
+| Puzzling Places: Monthly Pack #30 | 353488 | [353488-puzzling-places-monthly-pack-30.json](./353488-puzzling-places-monthly-pack-30.json) |
+| Puzzling Places: Monthly Pack #31 | 353489 | [353489-puzzling-places-monthly-pack-31.json](./353489-puzzling-places-monthly-pack-31.json) |
+| Puzzling Places: Monthly Pack #32 - Along the Coast | 353490 | [353490-puzzling-places-monthly-pack-32-along-the-coast.json](./353490-puzzling-places-monthly-pack-32-along-the-coast.json) |
+| Puzzling Places: Monthly Pack #33 | 353491 | [353491-puzzling-places-monthly-pack-33.json](./353491-puzzling-places-monthly-pack-33.json) |
+| Puzzling Places: Monthly Pack #34 | 353492 | [353492-puzzling-places-monthly-pack-34.json](./353492-puzzling-places-monthly-pack-34.json) |
+| Puzzling Places: Monthly Pack #35 - Inside and Out 2 | 353498 | [353498-puzzling-places-monthly-pack-35-inside-and-out-2.json](./353498-puzzling-places-monthly-pack-35-inside-and-out-2.json) |
+| Puzzling Places: Monthly Pack #36 - South Korea Pack | 353499 | [353499-puzzling-places-monthly-pack-36-south-korea-pack.json](./353499-puzzling-places-monthly-pack-36-south-korea-pack.json) |
+| Puzzling Places: New York City | 353487 | [353487-puzzling-places-new-york-city.json](./353487-puzzling-places-new-york-city.json) |
 | Puzzling Places: Premium Puzzles Bundle | 353887 | [353887-puzzling-places-premium-puzzles-bundle.json](./353887-puzzling-places-premium-puzzles-bundle.json) |
+| Puzzling Places: Summer Dive | 353475 | [353475-puzzling-places-summer-dive.json](./353475-puzzling-places-summer-dive.json) |
+| Puzzling Places: World Heritage Tour | 353485 | [353485-puzzling-places-world-heritage-tour.json](./353485-puzzling-places-world-heritage-tour.json) |
 | Puzzling Rooms VR | 31837 | [31837-puzzling-rooms-vr.json](./31837-puzzling-rooms-vr.json) |
 | Puzzly Game Collection | 105938 | [105938-puzzly-game-collection.json](./105938-puzzly-game-collection.json) |
 | Puzznic | 12199 | [12199-puzznic.json](./12199-puzznic.json) |
