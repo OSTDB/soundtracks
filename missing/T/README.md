@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
 | The Death and Return of Superman | 453 | [453-the-death-and-return-of-superman.json](./453-the-death-and-return-of-superman.json) |
 | The Death and the Vampire | 409818 | [409818-the-death-and-the-vampire.json](./409818-the-death-and-the-vampire.json) |
+| The Death Forest | 348446 | [348446-the-death-forest.json](./348446-the-death-forest.json) |
 | The Death Into Trouble | 151125 | [151125-the-death-into-trouble.json](./151125-the-death-into-trouble.json) |
 | The Death of Erin Myers | 111289 | [111289-the-death-of-erin-myers.json](./111289-the-death-of-erin-myers.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
@@ -4282,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
 | The King of Fighters Extreme | 47572 | [47572-the-king-of-fighters-extreme.json](./47572-the-king-of-fighters-extreme.json) |
 | The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
+| The King of Fighters XIII Climax | 348461 | [348461-the-king-of-fighters-xiii-climax.json](./348461-the-king-of-fighters-xiii-climax.json) |
 | The King of Fighters XIII: Galaxy Edition | 126461 | [126461-the-king-of-fighters-xiii-galaxy-edition.json](./126461-the-king-of-fighters-xiii-galaxy-edition.json) |
 | The King of Fighters XIII: Iori with the Power of Flames | 404927 | [404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json](./404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json) |
 | The King of Fighters XIII: Mr. Karate | 404942 | [404942-the-king-of-fighters-xiii-mr-karate.json](./404942-the-king-of-fighters-xiii-mr-karate.json) |
@@ -4726,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lighthouse | 378395 | [378395-the-lighthouse.json](./378395-the-lighthouse.json) |
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
 | The Lighthouse of São Bento do Oeste | 192894 | [192894-the-lighthouse-of-sao-bento-do-oeste.json](./192894-the-lighthouse-of-sao-bento-do-oeste.json) |
+| The Lighthouse Secrets | 348428 | [348428-the-lighthouse-secrets.json](./348428-the-lighthouse-secrets.json) |
 | The Lightless World | 289989 | [289989-the-lightless-world.json](./289989-the-lightless-world.json) |
 | The Lightning Over Pear Acre Road | 138186 | [138186-the-lightning-over-pear-acre-road.json](./138186-the-lightning-over-pear-acre-road.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
@@ -6714,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
 | The Tudors | 10986 | [10986-the-tudors.json](./10986-the-tudors.json) |
 | The Tuesday Collection | 331403 | [331403-the-tuesday-collection.json](./331403-the-tuesday-collection.json) |
+| The Tumor | 348448 | [348448-the-tumor.json](./348448-the-tumor.json) |
 | The Tunnels | 326279 | [326279-the-tunnels.json](./326279-the-tunnels.json) |
 | The Turdler | 108301 | [108301-the-turdler.json](./108301-the-turdler.json) |
 | The Turgenev Study | 222885 | [222885-the-turgenev-study.json](./222885-the-turgenev-study.json) |
@@ -10152,6 +10156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Jammy | 179581 | [179581-traffic-jammy.json](./179581-traffic-jammy.json) |
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
 | Traffic Racer Highway Online | 250350 | [250350-traffic-racer-highway-online.json](./250350-traffic-racer-highway-online.json) |
+| Traffic Rivals: 1v1 Duels | 348456 | [348456-traffic-rivals-1v1-duels.json](./348456-traffic-rivals-1v1-duels.json) |
 | Traffic Road | 353949 | [353949-traffic-road.json](./353949-traffic-road.json) |
 | Traffic Rush | 87886 | [87886-traffic-rush.json](./87886-traffic-rush.json) |
 | Traffic Rush: Ultimate Drive | 413090 | [413090-traffic-rush-ultimate-drive.json](./413090-traffic-rush-ultimate-drive.json) |
