@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banshees: The Game | 241944 | [241944-banshees-the-game.json](./241944-banshees-the-game.json) |
 | Banshiryuu | 123606 | [123606-banshiryuu.json](./123606-banshiryuu.json) |
 | Bansoko | 179193 | [179193-bansoko.json](./179193-bansoko.json) |
+| Banter | 342242 | [342242-banter.json](./342242-banter.json) |
 | Banui Moheom: Idle RPG | 219781 | [219781-banui-moheom-idle-rpg.json](./219781-banui-moheom-idle-rpg.json) |
 | Banyu: Reclaiming Hope | 347888 | [347888-banyu-reclaiming-hope.json](./347888-banyu-reclaiming-hope.json) |
 | Banzai Escape 2: Subterranean - KTactical | 297781 | [297781-banzai-escape-2-subterranean-ktactical.json](./297781-banzai-escape-2-subterranean-ktactical.json) |
@@ -1076,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Boy! | 87059 | [87059-baseball-boy.json](./87059-baseball-boy.json) |
 | Baseball Champion League 2019 | 220204 | [220204-baseball-champion-league-2019.json](./220204-baseball-champion-league-2019.json) |
 | Baseball Fighter | 48615 | [48615-baseball-fighter.json](./48615-baseball-fighter.json) |
+| Baseball Heroes | 342287 | [342287-baseball-heroes.json](./342287-baseball-heroes.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
 | Baseball Mogul | 605 | [605-baseball-mogul.json](./605-baseball-mogul.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
@@ -2694,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Scale Racing | 69842 | [69842-big-scale-racing.json](./69842-big-scale-racing.json) |
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
 | Big Sea | 14301 | [14301-big-sea.json](./14301-big-sea.json) |
+| Big Sea Fishing | 342263 | [342263-big-sea-fishing.json](./342263-big-sea-fishing.json) |
 | Big Sea: The Better One Will Win | 69215 | [69215-big-sea-the-better-one-will-win.json](./69215-big-sea-the-better-one-will-win.json) |
 | Big Shot Basketball | 116160 | [116160-big-shot-basketball.json](./116160-big-shot-basketball.json) |
 | Big Shot Swish | 120804 | [120804-big-shot-swish.json](./120804-big-shot-swish.json) |
@@ -5214,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainstorm: The Game Show | 71485 | [71485-brainstorm-the-game-show.json](./71485-brainstorm-the-game-show.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
+| Brainzzz | 342247 | [342247-brainzzz.json](./342247-brainzzz.json) |
 | Braise | 332996 | [332996-braise.json](./332996-braise.json) |
 | Brake Away | 178561 | [178561-brake-away.json](./178561-brake-away.json) |
 | Bram Stoker's Dracula | 14341 | [14341-bram-stokers-dracula.json](./14341-bram-stokers-dracula.json) |
@@ -5889,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
 | Bubble Surge | 343858 | [343858-bubble-surge.json](./343858-bubble-surge.json) |
 | Bubble Tanks | 210285 | [210285-bubble-tanks.json](./210285-bubble-tanks.json) |
+| Bubble Tanks TD 2 | 342251 | [342251-bubble-tanks-td-2.json](./342251-bubble-tanks-td-2.json) |
 | Bubble Tea: Game for Thinking and Imagination | 151024 | [151024-bubble-tea-game-for-thinking-and-imagination.json](./151024-bubble-tea-game-for-thinking-and-imagination.json) |
 | Bubble Tea: Game for Thinking and Imagination - Escape | 168246 | [168246-bubble-tea-game-for-thinking-and-imagination-escape.json](./168246-bubble-tea-game-for-thinking-and-imagination-escape.json) |
 | Bubble Tower 3D | 314478 | [314478-bubble-tower-3d.json](./314478-bubble-tower-3d.json) |
@@ -6040,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buildanauts | 34638 | [34638-buildanauts.json](./34638-buildanauts.json) |
 | BuildCraft | 232655 | [232655-buildcraft.json](./232655-buildcraft.json) |
 | Builder Flipper Bundle | 276307 | [276307-builder-flipper-bundle.json](./276307-builder-flipper-bundle.json) |
+| Builder Liquidator Bundle | 342238 | [342238-builder-liquidator-bundle.json](./342238-builder-liquidator-bundle.json) |
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Builder: Don't Let me Fall | 137643 | [137643-builder-dont-let-me-fall.json](./137643-builder-dont-let-me-fall.json) |
 | Builders of Greece | 217337 | [217337-builders-of-greece.json](./217337-builders-of-greece.json) |
