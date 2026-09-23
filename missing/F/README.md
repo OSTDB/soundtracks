@@ -2078,11 +2078,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Host of the Dark | 296106 | [296106-fire-emblem-host-of-the-dark.json](./296106-fire-emblem-host-of-the-dark.json) |
 | Fire Emblem: Illuminated | 341470 | [341470-fire-emblem-illuminated.json](./341470-fire-emblem-illuminated.json) |
 | Fire Emblem: Immortal Sword | 322378 | [322378-fire-emblem-immortal-sword.json](./322378-fire-emblem-immortal-sword.json) |
+| Fire Emblem: In the Name of Bern | 345125 | [345125-fire-emblem-in-the-name-of-bern.json](./345125-fire-emblem-in-the-name-of-bern.json) |
 | Fire Emblem: Justice & Pride | 214536 | [214536-fire-emblem-justice-and-pride.json](./214536-fire-emblem-justice-and-pride.json) |
 | Fire Emblem: Legends of Avenir | 261267 | [261267-fire-emblem-legends-of-avenir.json](./261267-fire-emblem-legends-of-avenir.json) |
 | Fire Emblem: Monshou no Nazo | 1435 | [1435-fire-emblem-monshou-no-nazo.json](./1435-fire-emblem-monshou-no-nazo.json) |
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
 | Fire Emblem: Radiant Dawn | 1442 | [1442-fire-emblem-radiant-dawn.json](./1442-fire-emblem-radiant-dawn.json) |
+| Fire Emblem: Sacred Stones Reforged | 344571 | [344571-fire-emblem-sacred-stones-reforged.json](./344571-fire-emblem-sacred-stones-reforged.json) |
 | Fire Emblem: Seisen no Keifu | 1436 | [1436-fire-emblem-seisen-no-keifu.json](./1436-fire-emblem-seisen-no-keifu.json) |
 | Fire Emblem: Shadow Dragon | 1444 | [1444-fire-emblem-shadow-dragon.json](./1444-fire-emblem-shadow-dragon.json) |
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
@@ -2322,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tanks | 144795 | [144795-fish-tanks.json](./144795-fish-tanks.json) |
 | Fish the Detective! | 219675 | [219675-fish-the-detective.json](./219675-fish-the-detective.json) |
 | Fish Time | 355223 | [355223-fish-time.json](./355223-fish-time.json) |
+| Fish to Dish: Idle Sushi | 344540 | [344540-fish-to-dish-idle-sushi.json](./344540-fish-to-dish-idle-sushi.json) |
 | Fish Tycoon | 29117 | [29117-fish-tycoon.json](./29117-fish-tycoon.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
 | Fish War | 247024 | [247024-fish-war.json](./247024-fish-war.json) |
@@ -2395,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Talon Fishery | 170475 | [170475-fishing-sim-world-pro-tour-talon-fishery.json](./170475-fishing-sim-world-pro-tour-talon-fishery.json) |
 | Fishing Sim World: Pro Tour - Tournament Bass Pack | 156156 | [156156-fishing-sim-world-pro-tour-tournament-bass-pack.json](./156156-fishing-sim-world-pro-tour-tournament-bass-pack.json) |
 | Fishing Sim World: Pro Tour - Trophy Hunter's Equipment Pack | 170483 | [170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json](./170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json) |
+| Fishing Simulator 2025 | 345120 | [345120-fishing-simulator-2025.json](./345120-fishing-simulator-2025.json) |
 | Fishing Star | 85837 | [85837-fishing-star.json](./85837-fishing-star.json) |
 | Fishing Superstars | 233640 | [233640-fishing-superstars.json](./233640-fishing-superstars.json) |
 | Fishing the Abyss | 333091 | [333091-fishing-the-abyss.json](./333091-fishing-the-abyss.json) |
