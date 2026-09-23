@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Epic Breakers: Automation Pack | 171032 | [171032-incremental-epic-breakers-automation-pack.json](./171032-incremental-epic-breakers-automation-pack.json) |
 | Incremental Epic Hero | 158043 | [158043-incremental-epic-hero.json](./158043-incremental-epic-hero.json) |
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
+| Incremental Infinity | 390249 | [390249-incremental-infinity.json](./390249-incremental-infinity.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
 | Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
