@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
 | Wakusei | 301428 | [301428-wakusei.json](./301428-wakusei.json) |
 | Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
+| Waldo: In the Heart of the City | 381285 | [381285-waldo-in-the-heart-of-the-city.json](./381285-waldo-in-the-heart-of-the-city.json) |
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
 | Walfie's Nonograms | 389599 | [389599-walfies-nonograms.json](./389599-walfies-nonograms.json) |
 | Waligie 3: On Mars | 318032 | [318032-waligie-3-on-mars.json](./318032-waligie-3-on-mars.json) |
@@ -1454,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Time Stood Still | 12489 | [12489-where-time-stood-still.json](./12489-where-time-stood-still.json) |
 | Where To? | 177937 | [177937-where-to.json](./177937-where-to.json) |
 | Where Winds Meet: Hidden Mountain | 405087 | [405087-where-winds-meet-hidden-mountain.json](./405087-where-winds-meet-hidden-mountain.json) |
+| Where Winds Meet: The Imperial Palace | 381243 | [381243-where-winds-meet-the-imperial-palace.json](./381243-where-winds-meet-the-imperial-palace.json) |
 | Where's an Egg? | 135870 | [135870-wheres-an-egg.json](./135870-wheres-an-egg.json) |
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
 | Where's Fido? | 278995 | [278995-wheres-fido.json](./278995-wheres-fido.json) |
@@ -3208,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: Dawn Breaks on Dark Tides | 372570 | [372570-wuthering-waves-dawn-breaks-on-dark-tides.json](./372570-wuthering-waves-dawn-breaks-on-dark-tides.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuthering Waves: Thaw of Eons | 311653 | [311653-wuthering-waves-thaw-of-eons.json](./311653-wuthering-waves-thaw-of-eons.json) |
+| Wuthering Waves: We Who See the Stars | 381238 | [381238-wuthering-waves-we-who-see-the-stars.json](./381238-wuthering-waves-we-who-see-the-stars.json) |
 | Wuthering Waves: When the Night Knocks | 321376 | [321376-wuthering-waves-when-the-night-knocks.json](./321376-wuthering-waves-when-the-night-knocks.json) |
 | Wuxia Master | 109703 | [109703-wuxia-master.json](./109703-wuxia-master.json) |
 | Wuxia: Founding Schools | 292165 | [292165-wuxia-founding-schools.json](./292165-wuxia-founding-schools.json) |
