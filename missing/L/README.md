@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawless Lands: Second Soul | 167713 | [167713-lawless-lands-second-soul.json](./167713-lawless-lands-second-soul.json) |
 | Lawless Lands: Smoking Sands | 167711 | [167711-lawless-lands-smoking-sands.json](./167711-lawless-lands-smoking-sands.json) |
 | Lawless Lands: Unrest | 167712 | [167712-lawless-lands-unrest.json](./167712-lawless-lands-unrest.json) |
+| Lawless: Blood and Dust | 360207 | [360207-lawless-blood-and-dust.json](./360207-lawless-blood-and-dust.json) |
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
 | Lawn Care ASMR Cleaning | 409758 | [409758-lawn-care-asmr-cleaning.json](./409758-lawn-care-asmr-cleaning.json) |
@@ -1638,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Simulator | 10959 | [10959-life-simulator.json](./10959-life-simulator.json) |
 | Life Simulator | 169945 | [169945-life-simulator.json](./169945-life-simulator.json) |
 | Life Simulator | 231930 | [231930-life-simulator.json](./231930-life-simulator.json) |
+| Life Simulator | 360186 | [360186-life-simulator.json](./360186-life-simulator.json) |
 | Life source | 117093 | [117093-life-source.json](./117093-life-source.json) |
 | Life Stage, Virtual House | 37122 | [37122-life-stage-virtual-house.json](./37122-life-stage-virtual-house.json) |
 | Life with Mary | 150513 | [150513-life-with-mary.json](./150513-life-with-mary.json) |
