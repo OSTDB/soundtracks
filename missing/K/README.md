@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaisho | 276270 | [276270-kaisho.json](./276270-kaisho.json) |
+| Kaitasume: Zero | 388406 | [388406-kaitasume-zero.json](./388406-kaitasume-zero.json) |
 | Kaite Oboeru Doragana | 66034 | [66034-kaite-oboeru-doragana.json](./66034-kaite-oboeru-doragana.json) |
 | Kaite Shabette Hajimeyou! Monster Farm DS | 98248 | [98248-kaite-shabette-hajimeyou-monster-farm-ds.json](./98248-kaite-shabette-hajimeyou-monster-farm-ds.json) |
 | Kaitei Daisensou | 40215 | [40215-kaitei-daisensou.json](./40215-kaitei-daisensou.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kov | 272373 | [272373-kov.json](./272373-kov.json) |
 | Kova | 27883 | [27883-kova.json](./27883-kova.json) |
 | KovaaK 2.0: Tracking Trainer | 171035 | [171035-kovaak-2-0-tracking-trainer.json](./171035-kovaak-2-0-tracking-trainer.json) |
+| Kowalski | 388367 | [388367-kowalski.json](./388367-kowalski.json) |
 | Kowi Ishto: Battle of Akonoli | 125476 | [125476-kowi-ishto-battle-of-akonoli.json](./125476-kowi-ishto-battle-of-akonoli.json) |
 | Kowloon Story 2 | 291741 | [291741-kowloon-story-2.json](./291741-kowloon-story-2.json) |
 | Kowloon Youma Gakuen Ki: Origin of Adventure - Yomigaeru Hihouban | 136880 | [136880-kowloon-youma-gakuen-ki-origin-of-adventure-yomigaeru-hihouban.json](./136880-kowloon-youma-gakuen-ki-origin-of-adventure-yomigaeru-hihouban.json) |
