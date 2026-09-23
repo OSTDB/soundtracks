@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passing Pineview Forest | 17988 | [17988-passing-pineview-forest.json](./17988-passing-pineview-forest.json) |
 | Passing Shot | 12839 | [12839-passing-shot.json](./12839-passing-shot.json) |
 | Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
+| Passion Rift | 369776 | [369776-passion-rift.json](./369776-passion-rift.json) |
 | Passport to Amsterdam | 55850 | [55850-passport-to-amsterdam.json](./55850-passport-to-amsterdam.json) |
 | Passport to Barcelona | 55873 | [55873-passport-to-barcelona.json](./55873-passport-to-barcelona.json) |
 | Passport to London | 55851 | [55851-passport-to-london.json](./55851-passport-to-london.json) |
@@ -4042,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polybot-7 | 97849 | [97849-polybot-7.json](./97849-polybot-7.json) |
 | Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
 | Polycity | 404978 | [404978-polycity.json](./404978-polycity.json) |
+| Polycore | 369742 | [369742-polycore.json](./369742-polycore.json) |
 | PolyCube | 88232 | [88232-polycube.json](./88232-polycube.json) |
 | Polydangerous | 392468 | [392468-polydangerous.json](./392468-polydangerous.json) |
 | PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
@@ -5153,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Probotector | 186202 | [186202-probotector.json](./186202-probotector.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
 | Procedural Soccer | 173228 | [173228-procedural-soccer.json](./173228-procedural-soccer.json) |
+| Procemon: You Must Catch Them | 369727 | [369727-procemon-you-must-catch-them.json](./369727-procemon-you-must-catch-them.json) |
 | Process | 60528 | [60528-process.json](./60528-process.json) |
 | Procession Engine | 413079 | [413079-procession-engine.json](./413079-procession-engine.json) |
 | Procrastinaut | 270951 | [270951-procrastinaut.json](./270951-procrastinaut.json) |
