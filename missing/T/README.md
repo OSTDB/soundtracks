@@ -2588,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat Games | 27977 | [27977-the-cat-games.json](./27977-the-cat-games.json) |
 | The Cat in the Hat: Rainy Day Mayhem | 403720 | [403720-the-cat-in-the-hat-rainy-day-mayhem.json](./403720-the-cat-in-the-hat-rainy-day-mayhem.json) |
 | The Cat in the Hijab | 55930 | [55930-the-cat-in-the-hijab.json](./55930-the-cat-in-the-hijab.json) |
+| The Cat is Dying | 383075 | [383075-the-cat-is-dying.json](./383075-the-cat-is-dying.json) |
 | The Cat Machine | 34837 | [34837-the-cat-machine.json](./34837-the-cat-machine.json) |
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
 | The Cat Scheduled Oil Sampling Game | 281379 | [281379-the-cat-scheduled-oil-sampling-game.json](./281379-the-cat-scheduled-oil-sampling-game.json) |
@@ -3877,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
 | The Homestead | 119567 | [119567-the-homestead.json](./119567-the-homestead.json) |
 | The Homestead Invasion | 81667 | [81667-the-homestead-invasion.json](./81667-the-homestead-invasion.json) |
+| The Honest Little Fisher | 383066 | [383066-the-honest-little-fisher.json](./383066-the-honest-little-fisher.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
@@ -4476,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Chosen Blood | 285608 | [285608-the-legend-of-chosen-blood.json](./285608-the-legend-of-chosen-blood.json) |
 | The Legend Of Chupacabra And The Sentient Log | 404451 | [404451-the-legend-of-chupacabra-and-the-sentient-log.json](./404451-the-legend-of-chupacabra-and-the-sentient-log.json) |
 | The Legend of Cube | 227858 | [227858-the-legend-of-cube.json](./227858-the-legend-of-cube.json) |
+| The Legend of Dad: Quest for Milk | 383026 | [383026-the-legend-of-dad-quest-for-milk.json](./383026-the-legend-of-dad-quest-for-milk.json) |
 | The Legend of Dragoon | 239182 | [239182-the-legend-of-dragoon.json](./239182-the-legend-of-dragoon.json) |
 | The Legend of Edgar | 124032 | [124032-the-legend-of-edgar.json](./124032-the-legend-of-edgar.json) |
 | The Legend of Eight Dragons | 145653 | [145653-the-legend-of-eight-dragons.json](./145653-the-legend-of-eight-dragons.json) |
@@ -6384,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Throne of Bernicia | 191173 | [191173-the-throne-of-bernicia.json](./191173-the-throne-of-bernicia.json) |
 | The Tick | 46594 | [46594-the-tick.json](./46594-the-tick.json) |
 | The Tick of Guilt | 180703 | [180703-the-tick-of-guilt.json](./180703-the-tick-of-guilt.json) |
+| The Tickle People | 383047 | [383047-the-tickle-people.json](./383047-the-tickle-people.json) |
 | The Tide | 132786 | [132786-the-tide.json](./132786-the-tide.json) |
 | The Tides of Time | 141790 | [141790-the-tides-of-time.json](./141790-the-tides-of-time.json) |
 | The Tideshell Keeper | 211805 | [211805-the-tideshell-keeper.json](./211805-the-tideshell-keeper.json) |
@@ -9893,6 +9897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toybox | 271305 | [271305-toybox.json](./271305-toybox.json) |
 | Toybox Aviation | 194421 | [194421-toybox-aviation.json](./194421-toybox-aviation.json) |
 | ToyBox Puzzle | 236407 | [236407-toybox-puzzle.json](./236407-toybox-puzzle.json) |
+| Toybox Tussle | 383076 | [383076-toybox-tussle.json](./383076-toybox-tussle.json) |
 | ToyBoxers! | 403180 | [403180-toyboxers.json](./403180-toyboxers.json) |
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
 | Toyland Racing | 73764 | [73764-toyland-racing.json](./73764-toyland-racing.json) |
