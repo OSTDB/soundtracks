@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xion Leak | 216815 | [216815-xion-leak.json](./216815-xion-leak.json) |
 | Xióng Chuǎng Tiānxià | 325062 | [325062-xiong-chuang-tianxia.json](./325062-xiong-chuang-tianxia.json) |
 | Xiuzhen Idle | 237480 | [237480-xiuzhen-idle.json](./237480-xiuzhen-idle.json) |
+| XiuZhen Metaverse | 368650 | [368650-xiuzhen-metaverse.json](./368650-xiuzhen-metaverse.json) |
 | XIX | 282701 | [282701-xix.json](./282701-xix.json) |
 | Xixit | 94532 | [94532-xixit.json](./94532-xixit.json) |
 | Xjump | 291602 | [291602-xjump.json](./291602-xjump.json) |
