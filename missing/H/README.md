@@ -3873,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Force | 5675 | [5675-hover-force.json](./5675-hover-force.json) |
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
 | Hover Junkers | 18903 | [18903-hover-junkers.json](./18903-hover-junkers.json) |
+| Hover Point | 390802 | [390802-hover-point.json](./390802-hover-point.json) |
 | Hover Racer | 207904 | [207904-hover-racer.json](./207904-hover-racer.json) |
 | Hover Rev Hispeed Burst | 340488 | [340488-hover-rev-hispeed-burst.json](./340488-hover-rev-hispeed-burst.json) |
 | Hover Rider | 244796 | [244796-hover-rider.json](./244796-hover-rider.json) |
