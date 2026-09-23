@@ -5453,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broccoli Quest II: The Dark Sacrament | 176874 | [176874-broccoli-quest-ii-the-dark-sacrament.json](./176874-broccoli-quest-ii-the-dark-sacrament.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
 | Broforce: Forever | 260721 | [260721-broforce-forever.json](./260721-broforce-forever.json) |
+| Brok Complete Bundle | 384200 | [384200-brok-complete-bundle.json](./384200-brok-complete-bundle.json) |
 | Brok: Natal Tail, A New Christmas | 325648 | [325648-brok-natal-tail-a-new-christmas.json](./325648-brok-natal-tail-a-new-christmas.json) |
 | Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
