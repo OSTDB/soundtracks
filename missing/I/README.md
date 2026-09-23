@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Witness | 298139 | [298139-i-witness.json](./298139-i-witness.json) |
 | I Woke up in an RPG | 415871 | [415871-i-woke-up-in-an-rpg.json](./415871-i-woke-up-in-an-rpg.json) |
 | I woke up in the house of a fat man: he's over 30 years old and loves beer and games | 376469 | [376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json](./376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json) |
+| I Won’t Let You Level up in My Goblin Town | 378424 | [378424-i-won-t-let-you-level-up-in-my-goblin-town.json](./378424-i-won-t-let-you-level-up-in-my-goblin-town.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
 | I-Chu | 220879 | [220879-i-chu.json](./220879-i-chu.json) |
 | I-Fluid | 18515 | [18515-i-fluid.json](./18515-i-fluid.json) |
@@ -1256,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inevitable Light | 287219 | [287219-inevitable-light.json](./287219-inevitable-light.json) |
 | Inexistence | 18957 | [18957-inexistence.json](./18957-inexistence.json) |
 | Inexplicable Geeks: RestoreTheMillerCut | 253924 | [253924-inexplicable-geeks-restorethemillercut.json](./253924-inexplicable-geeks-restorethemillercut.json) |
+| Infamous 18 | 378396 | [378396-infamous-18.json](./378396-infamous-18.json) |
 | Infamous Keepers | 398591 | [398591-infamous-keepers.json](./398591-infamous-keepers.json) |
 | Infamous Second Son - Special Edition | 89873 | [89873-infamous-second-son-special-edition.json](./89873-infamous-second-son-special-edition.json) |
 | Infamous: Festival of Blood | 7850 | [7850-infamous-festival-of-blood.json](./7850-infamous-festival-of-blood.json) |
