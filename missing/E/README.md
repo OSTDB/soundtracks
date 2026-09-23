@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
 | Eleanor 3 | 286502 | [286502-eleanor-3.json](./286502-eleanor-3.json) |
+| Eleanor in Miami | 369772 | [369772-eleanor-in-miami.json](./369772-eleanor-in-miami.json) |
 | Eleanor's Handmaid | 253967 | [253967-eleanors-handmaid.json](./253967-eleanors-handmaid.json) |
 | Elearning Development Intern | 116115 | [116115-elearning-development-intern.json](./116115-elearning-development-intern.json) |
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
@@ -932,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvandia Story | 43276 | [43276-elvandia-story.json](./43276-elvandia-story.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
 | Elven Dreams | 277835 | [277835-elven-dreams.json](./277835-elven-dreams.json) |
+| Elven Forest | 369767 | [369767-elven-forest.json](./369767-elven-forest.json) |
 | Elven Magic: The Witch, The Elf & The Fairy | 107798 | [107798-elven-magic-the-witch-the-elf-and-the-fairy.json](./107798-elven-magic-the-witch-the-elf-and-the-fairy.json) |
 | Elven Rivers II: New Horizons - Collector's Edition | 250355 | [250355-elven-rivers-ii-new-horizons-collectors-edition.json](./250355-elven-rivers-ii-new-horizons-collectors-edition.json) |
 | Elven Rivers VI: Guardians of Hope - Collector's Edition | 358406 | [358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json](./358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json) |
@@ -1874,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape of The Hammer Princess | 312767 | [312767-escape-of-the-hammer-princess.json](./312767-escape-of-the-hammer-princess.json) |
 | Escape or Imprison | 227253 | [227253-escape-or-imprison.json](./227253-escape-or-imprison.json) |
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
+| Escape Protocol: Hospital | 369754 | [369754-escape-protocol-hospital.json](./369754-escape-protocol-hospital.json) |
 | Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
 | Escape Room Mystery Adventure: Enchanting Tales | 152389 | [152389-escape-room-mystery-adventure-enchanting-tales.json](./152389-escape-room-mystery-adventure-enchanting-tales.json) |
@@ -2083,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Night Town | 339802 | [339802-eternal-night-town.json](./339802-eternal-night-town.json) |
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal One | 369096 | [369096-eternal-one.json](./369096-eternal-one.json) |
+| Eternal One: Memories of Kumo Island | 369760 | [369760-eternal-one-memories-of-kumo-island.json](./369760-eternal-one-memories-of-kumo-island.json) |
 | Eternal Poison | 21334 | [21334-eternal-poison.json](./21334-eternal-poison.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
 | Eternal Return | 135842 | [135842-eternal-return.json](./135842-eternal-return.json) |
@@ -2689,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
+| Exophobia: Fire & Ice Expedition | 369779 | [369779-exophobia-fire-and-ice-expedition.json](./369779-exophobia-fire-and-ice-expedition.json) |
 | Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
 | Exoprimal: Deadeye QB-W Set | 256547 | [256547-exoprimal-deadeye-qb-w-set.json](./256547-exoprimal-deadeye-qb-w-set.json) |
 | Exoprimal: Egret (Skywave) | 409072 | [409072-exoprimal-egret-skywave.json](./409072-exoprimal-egret-skywave.json) |
