@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T16:48:02.085Z",
-  "total_missing": 112127,
+  "generated_at": "2026-09-23T17:05:43.624Z",
+  "total_missing": 112177,
   "games": [
     {
       "igdb_id": 176875,
@@ -5703,6 +5703,11 @@
       "file": "missing/A/198561-a-housewifes-healing-touch.json"
     },
     {
+      "igdb_id": 352367,
+      "game_name": "A Ilha Perdida da Babitonga",
+      "file": "missing/A/352367-a-ilha-perdida-da-babitonga.json"
+    },
+    {
       "igdb_id": 165677,
       "game_name": "A Journey Through Valhalla",
       "file": "missing/A/165677-a-journey-through-valhalla.json"
@@ -5846,6 +5851,11 @@
       "igdb_id": 384655,
       "game_name": "A Lost Land",
       "file": "missing/A/384655-a-lost-land.json"
+    },
+    {
+      "igdb_id": 352388,
+      "game_name": "A Lounge Somewhere",
+      "file": "missing/A/352388-a-lounge-somewhere.json"
     },
     {
       "igdb_id": 410440,
@@ -6826,6 +6836,11 @@
       "igdb_id": 260754,
       "game_name": "A World of Wishes",
       "file": "missing/A/260754-a-world-of-wishes.json"
+    },
+    {
+      "igdb_id": 352373,
+      "game_name": "A World Without... Videogames",
+      "file": "missing/A/352373-a-world-without-videogames.json"
     },
     {
       "igdb_id": 45575,
@@ -9256,6 +9271,11 @@
       "igdb_id": 304168,
       "game_name": "Advent of God: Legends",
       "file": "missing/A/304168-advent-of-god-legends.json"
+    },
+    {
+      "igdb_id": 352363,
+      "game_name": "Advent/Archive",
+      "file": "missing/A/352363-advent-archive.json"
     },
     {
       "igdb_id": 355216,
@@ -57713,6 +57733,11 @@
       "file": "missing/B/362329-bomcat.json"
     },
     {
+      "igdb_id": 352379,
+      "game_name": "Bon Appecheese",
+      "file": "missing/B/352379-bon-appecheese.json"
+    },
+    {
       "igdb_id": 109481,
       "game_name": "Bon Bon Paradise",
       "file": "missing/B/109481-bon-bon-paradise.json"
@@ -72751,6 +72776,11 @@
       "igdb_id": 128645,
       "game_name": "Cascade",
       "file": "missing/C/128645-cascade.json"
+    },
+    {
+      "igdb_id": 352412,
+      "game_name": "Cascade",
+      "file": "missing/C/352412-cascade.json"
     },
     {
       "igdb_id": 303269,
@@ -93348,6 +93378,11 @@
       "file": "missing/C/170023-corpse-party-d2-depths-of-despair.json"
     },
     {
+      "igdb_id": 352377,
+      "game_name": "Corpse Party Tetralogy Pack",
+      "file": "missing/C/352377-corpse-party-tetralogy-pack.json"
+    },
+    {
       "igdb_id": 89891,
       "game_name": "Corpse Party: Back to School Edition - Limited Edition",
       "file": "missing/C/89891-corpse-party-back-to-school-edition-limited-edition.json"
@@ -112576,6 +112611,11 @@
       "igdb_id": 119923,
       "game_name": "Deathgarden: Bloodharvest",
       "file": "missing/D/119923-deathgarden-bloodharvest.json"
+    },
+    {
+      "igdb_id": 352381,
+      "game_name": "Deathgasm",
+      "file": "missing/D/352381-deathgasm.json"
     },
     {
       "igdb_id": 312728,
@@ -134911,6 +134951,11 @@
       "igdb_id": 318636,
       "game_name": "Duelyst Origins",
       "file": "missing/D/318636-duelyst-origins.json"
+    },
+    {
+      "igdb_id": 352370,
+      "game_name": "Duelyst: Blitz",
+      "file": "missing/D/352370-duelyst-blitz.json"
     },
     {
       "igdb_id": 22812,
@@ -169938,6 +169983,11 @@
       "file": "missing/F/402364-forbidden-a-firsts-obsession.json"
     },
     {
+      "igdb_id": 352382,
+      "game_name": "ForbiddenEgg",
+      "file": "missing/F/352382-forbiddenegg.json"
+    },
+    {
       "igdb_id": 242675,
       "game_name": "ForbiddenWord",
       "file": "missing/F/242675-forbiddenword.json"
@@ -175371,6 +175421,11 @@
       "igdb_id": 234935,
       "game_name": "Frontline Defense 2",
       "file": "missing/F/234935-frontline-defense-2.json"
+    },
+    {
+      "igdb_id": 352361,
+      "game_name": "Frontline Protocol",
+      "file": "missing/F/352361-frontline-protocol.json"
     },
     {
       "igdb_id": 363921,
@@ -182881,6 +182936,11 @@
       "igdb_id": 144940,
       "game_name": "Geminose: Animal Popstars",
       "file": "missing/G/144940-geminose-animal-popstars.json"
+    },
+    {
+      "igdb_id": 352391,
+      "game_name": "Geminum",
+      "file": "missing/G/352391-geminum.json"
     },
     {
       "igdb_id": 68957,
@@ -201186,6 +201246,11 @@
       "igdb_id": 373116,
       "game_name": "Happy Pinball",
       "file": "missing/H/373116-happy-pinball.json"
+    },
+    {
+      "igdb_id": 352380,
+      "game_name": "Happy Pong",
+      "file": "missing/H/352380-happy-pong.json"
     },
     {
       "igdb_id": 90580,
@@ -278378,6 +278443,51 @@
       "file": "missing/M/220855-mario-vs-donkey-kong-card-e.json"
     },
     {
+      "igdb_id": 352408,
+      "game_name": "Mario vs. Donkey Kong Card e+: Hitasura Kawase!",
+      "file": "missing/M/352408-mario-vs-donkey-kong-card-e-hitasura-kawase.json"
+    },
+    {
+      "igdb_id": 352410,
+      "game_name": "Mario vs. Donkey Kong Card e+: Osarete Susume!",
+      "file": "missing/M/352410-mario-vs-donkey-kong-card-e-osarete-susume.json"
+    },
+    {
+      "igdb_id": 352405,
+      "game_name": "Mario vs. Donkey Kong-e: A Tricky Candle",
+      "file": "missing/M/352405-mario-vs-donkey-kong-e-a-tricky-candle.json"
+    },
+    {
+      "igdb_id": 352406,
+      "game_name": "Mario vs. Donkey Kong-e: Boo in a Box",
+      "file": "missing/M/352406-mario-vs-donkey-kong-e-boo-in-a-box.json"
+    },
+    {
+      "igdb_id": 352402,
+      "game_name": "Mario vs. Donkey Kong-e: Egg Attack",
+      "file": "missing/M/352402-mario-vs-donkey-kong-e-egg-attack.json"
+    },
+    {
+      "igdb_id": 352404,
+      "game_name": "Mario vs. Donkey Kong-e: Hot Feet",
+      "file": "missing/M/352404-mario-vs-donkey-kong-e-hot-feet.json"
+    },
+    {
+      "igdb_id": 352407,
+      "game_name": "Mario vs. Donkey Kong-e: Key to the Key",
+      "file": "missing/M/352407-mario-vs-donkey-kong-e-key-to-the-key.json"
+    },
+    {
+      "igdb_id": 352403,
+      "game_name": "Mario vs. Donkey Kong-e: Later Gator",
+      "file": "missing/M/352403-mario-vs-donkey-kong-e-later-gator.json"
+    },
+    {
+      "igdb_id": 352401,
+      "game_name": "Mario vs. Donkey Kong-e: Revenge",
+      "file": "missing/M/352401-mario-vs-donkey-kong-e-revenge.json"
+    },
+    {
       "igdb_id": 8594,
       "game_name": "Mario vs. Donkey Kong: Tipping Stars",
       "file": "missing/M/8594-mario-vs-donkey-kong-tipping-stars.json"
@@ -284213,14 +284323,29 @@
       "file": "missing/M/352714-mega-man-battle-network-6-patch-card-als-boarding-ticket.json"
     },
     {
+      "igdb_id": 352414,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Ammonicule",
+      "file": "missing/M/352414-mega-man-battle-network-6-patch-card-ammonicule.json"
+    },
+    {
       "igdb_id": 352724,
       "game_name": "Mega Man Battle Network 6: Patch Card - Baryl's Faith",
       "file": "missing/M/352724-mega-man-battle-network-6-patch-card-baryls-faith.json"
     },
     {
+      "igdb_id": 352413,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Canodumb",
+      "file": "missing/M/352413-mega-man-battle-network-6-patch-card-canodumb.json"
+    },
+    {
       "igdb_id": 352723,
       "game_name": "Mega Man Battle Network 6: Patch Card - Chaud's Mission",
       "file": "missing/M/352723-mega-man-battle-network-6-patch-card-chauds-mission.json"
+    },
+    {
+      "igdb_id": 352415,
+      "game_name": "Mega Man Battle Network 6: Patch Card - ColdBear",
+      "file": "missing/M/352415-mega-man-battle-network-6-patch-card-coldbear.json"
     },
     {
       "igdb_id": 352721,
@@ -284253,6 +284378,11 @@
       "file": "missing/M/352732-mega-man-battle-network-6-patch-card-gregar.json"
     },
     {
+      "igdb_id": 352417,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Heady",
+      "file": "missing/M/352417-mega-man-battle-network-6-patch-card-heady.json"
+    },
+    {
       "igdb_id": 352725,
       "game_name": "Mega Man Battle Network 6: Patch Card - Iris's Kindness",
       "file": "missing/M/352725-mega-man-battle-network-6-patch-card-iriss-kindness.json"
@@ -284266,6 +284396,16 @@
       "igdb_id": 352717,
       "game_name": "Mega Man Battle Network 6: Patch Card - Master Feng-Tian's Instruction",
       "file": "missing/M/352717-mega-man-battle-network-6-patch-card-master-feng-tians-instruction.json"
+    },
+    {
+      "igdb_id": 352418,
+      "game_name": "Mega Man Battle Network 6: Patch Card - MetFire",
+      "file": "missing/M/352418-mega-man-battle-network-6-patch-card-metfire.json"
+    },
+    {
+      "igdb_id": 352416,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Miney",
+      "file": "missing/M/352416-mega-man-battle-network-6-patch-card-miney.json"
     },
     {
       "igdb_id": 352719,
@@ -285251,6 +285391,11 @@
       "igdb_id": 94722,
       "game_name": "Megaplex",
       "file": "missing/M/94722-megaplex.json"
+    },
+    {
+      "igdb_id": 352383,
+      "game_name": "Megaplex Madness 2: Summer Blockbuster",
+      "file": "missing/M/352383-megaplex-madness-2-summer-blockbuster.json"
     },
     {
       "igdb_id": 102116,
@@ -294123,6 +294268,11 @@
       "file": "missing/M/339823-mire.json"
     },
     {
+      "igdb_id": 352390,
+      "game_name": "Mirealle",
+      "file": "missing/M/352390-mirealle.json"
+    },
+    {
       "igdb_id": 188512,
       "game_name": "Mireille and Amrita, the Forest of Illusions",
       "file": "missing/M/188512-mireille-and-amrita-the-forest-of-illusions.json"
@@ -301466,6 +301616,11 @@
       "igdb_id": 135800,
       "game_name": "Motel Snooze",
       "file": "missing/M/135800-motel-snooze.json"
+    },
+    {
+      "igdb_id": 352389,
+      "game_name": "Motel Snooze: Suite Dreams",
+      "file": "missing/M/352389-motel-snooze-suite-dreams.json"
     },
     {
       "igdb_id": 338704,
@@ -365203,6 +365358,11 @@
       "file": "missing/P/262076-push-the-squares.json"
     },
     {
+      "igdb_id": 352394,
+      "game_name": "Push to Win",
+      "file": "missing/P/352394-push-to-win.json"
+    },
+    {
       "igdb_id": 243709,
       "game_name": "Push-Up T-Rex",
       "file": "missing/P/243709-push-up-t-rex.json"
@@ -365361,6 +365521,11 @@
       "igdb_id": 404947,
       "game_name": "Putrid/Sharp",
       "file": "missing/P/404947-putrid-sharp.json"
+    },
+    {
+      "igdb_id": 352368,
+      "game_name": "Putrika 2nd.Cut: For the Exquisite Attire",
+      "file": "missing/P/352368-putrika-2nd-cut-for-the-exquisite-attire.json"
     },
     {
       "igdb_id": 59458,
@@ -369838,6 +370003,11 @@
       "file": "missing/R/154385-race-me-now.json"
     },
     {
+      "igdb_id": 352411,
+      "game_name": "Race of the Nine Worlds",
+      "file": "missing/R/352411-race-of-the-nine-worlds.json"
+    },
+    {
       "igdb_id": 341314,
       "game_name": "Race or Crash: Secret Racer League",
       "file": "missing/R/341314-race-or-crash-secret-racer-league.json"
@@ -371031,6 +371201,11 @@
       "igdb_id": 82424,
       "game_name": "Raiders of the Broken Planet - Founders Pack",
       "file": "missing/R/82424-raiders-of-the-broken-planet-founders-pack.json"
+    },
+    {
+      "igdb_id": 352365,
+      "game_name": "Raiders Rise",
+      "file": "missing/R/352365-raiders-rise.json"
     },
     {
       "igdb_id": 125440,
@@ -383041,6 +383216,11 @@
       "igdb_id": 294855,
       "game_name": "Right and Down Double Bundle",
       "file": "missing/R/294855-right-and-down-double-bundle.json"
+    },
+    {
+      "igdb_id": 352362,
+      "game_name": "Right Click To Activate Translator",
+      "file": "missing/R/352362-right-click-to-activate-translator.json"
     },
     {
       "igdb_id": 200735,
@@ -458333,6 +458513,11 @@
       "file": "missing/S/288233-synth-riders-balduin-wolfgang-lohr-magic-man.json"
     },
     {
+      "igdb_id": 352397,
+      "game_name": "Synth Riders: Blur - \"Song 2\"",
+      "file": "missing/S/352397-synth-riders-blur-song-2.json"
+    },
+    {
       "igdb_id": 356079,
       "game_name": "Synth Riders: Bruno Mars - \"Runaway Baby\"",
       "file": "missing/S/356079-synth-riders-bruno-mars-runaway-baby.json"
@@ -458351,6 +458536,11 @@
       "igdb_id": 341049,
       "game_name": "Synth Riders: Challenges+ Update",
       "file": "missing/S/341049-synth-riders-challenges-update.json"
+    },
+    {
+      "igdb_id": 352399,
+      "game_name": "Synth Riders: Charli xcx - \"Apple\"",
+      "file": "missing/S/352399-synth-riders-charli-xcx-apple.json"
     },
     {
       "igdb_id": 288234,
@@ -458448,9 +458638,24 @@
       "file": "missing/S/298702-synth-riders-phil-collins-sussudio.json"
     },
     {
+      "igdb_id": 352400,
+      "game_name": "Synth Riders: Queen - \"Don't Stop Me Now\"",
+      "file": "missing/S/352400-synth-riders-queen-dont-stop-me-now.json"
+    },
+    {
+      "igdb_id": 352396,
+      "game_name": "Synth Riders: Rick Astley - \"Never Gonna Give You Up\"",
+      "file": "missing/S/352396-synth-riders-rick-astley-never-gonna-give-you-up.json"
+    },
+    {
       "igdb_id": 356116,
       "game_name": "Synth Riders: Silk Sonic - \"Skate\"",
       "file": "missing/S/356116-synth-riders-silk-sonic-skate.json"
+    },
+    {
+      "igdb_id": 352398,
+      "game_name": "Synth Riders: Soundgarden - \"Black Hole Sun\"",
+      "file": "missing/S/352398-synth-riders-soundgarden-black-hole-sun.json"
     },
     {
       "igdb_id": 356172,
@@ -458521,6 +458726,11 @@
       "igdb_id": 356171,
       "game_name": "Synth Riders: Tokyo Machine - \"Turbo\"",
       "file": "missing/S/356171-synth-riders-tokyo-machine-turbo.json"
+    },
+    {
+      "igdb_id": 352395,
+      "game_name": "Synth Riders: Toto - \"Africa\"",
+      "file": "missing/S/352395-synth-riders-toto-africa.json"
     },
     {
       "igdb_id": 151188,
@@ -467401,6 +467611,11 @@
       "igdb_id": 215391,
       "game_name": "Terrible Clicking Game",
       "file": "missing/T/215391-terrible-clicking-game.json"
+    },
+    {
+      "igdb_id": 352386,
+      "game_name": "Terrible Life Expectancy",
+      "file": "missing/T/352386-terrible-life-expectancy.json"
     },
     {
       "igdb_id": 167156,
@@ -486138,6 +486353,11 @@
       "file": "missing/T/327198-the-pixel-has-you.json"
     },
     {
+      "igdb_id": 352392,
+      "game_name": "The Pixotron 49",
+      "file": "missing/T/352392-the-pixotron-49.json"
+    },
+    {
       "igdb_id": 100595,
       "game_name": "The Pizza Delivery Boy Who Saved the World",
       "file": "missing/T/100595-the-pizza-delivery-boy-who-saved-the-world.json"
@@ -486346,6 +486566,11 @@
       "igdb_id": 345004,
       "game_name": "The Presidential Assassins",
       "file": "missing/T/345004-the-presidential-assassins.json"
+    },
+    {
+      "igdb_id": 352376,
+      "game_name": "The Pressure of Ambition",
+      "file": "missing/T/352376-the-pressure-of-ambition.json"
     },
     {
       "igdb_id": 78446,
@@ -509073,6 +509298,11 @@
       "file": "missing/T/73764-toyland-racing.json"
     },
     {
+      "igdb_id": 352375,
+      "game_name": "Toyland Tussle",
+      "file": "missing/T/352375-toyland-tussle.json"
+    },
+    {
       "igdb_id": 10941,
       "game_name": "Toymaker",
       "file": "missing/T/10941-toymaker.json"
@@ -512216,6 +512446,11 @@
       "igdb_id": 367977,
       "game_name": "Tralalero Tralala: Escape Backrooms",
       "file": "missing/T/367977-tralalero-tralala-escape-backrooms.json"
+    },
+    {
+      "igdb_id": 352385,
+      "game_name": "Tralalero Tralala: Survive the Night",
+      "file": "missing/T/352385-tralalero-tralala-survive-the-night.json"
     },
     {
       "igdb_id": 55845,
@@ -542128,6 +542363,11 @@
       "file": "missing/W/272267-wicked-brawler.json"
     },
     {
+      "igdb_id": 352393,
+      "game_name": "Wicked Cabins",
+      "file": "missing/W/352393-wicked-cabins.json"
+    },
+    {
       "igdb_id": 404822,
       "game_name": "Wicked Delights",
       "file": "missing/W/404822-wicked-delights.json"
@@ -544566,6 +544806,11 @@
       "igdb_id": 55464,
       "game_name": "Witch Thief",
       "file": "missing/W/55464-witch-thief.json"
+    },
+    {
+      "igdb_id": 352384,
+      "game_name": "Witch War 1",
+      "file": "missing/W/352384-witch-war-1.json"
     },
     {
       "igdb_id": 318407,
@@ -551316,6 +551561,11 @@
       "igdb_id": 55021,
       "game_name": "Xecutor",
       "file": "missing/X/55021-xecutor.json"
+    },
+    {
+      "igdb_id": 352364,
+      "game_name": "XeGrader",
+      "file": "missing/X/352364-xegrader.json"
     },
     {
       "igdb_id": 388057,
