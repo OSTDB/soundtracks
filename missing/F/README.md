@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FMV Horror Bundle | 236812 | [236812-fmv-horror-bundle.json](./236812-fmv-horror-bundle.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
+| FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
 | FNF Weekly | 314498 | [314498-fnf-weekly.json](./314498-fnf-weekly.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
 | FNF: Executable Mania | 314507 | [314507-fnf-executable-mania.json](./314507-fnf-executable-mania.json) |
@@ -3148,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow the Leader | 264035 | [264035-follow-the-leader.json](./264035-follow-the-leader.json) |
 | Follow the Rules | 273952 | [273952-follow-the-rules.json](./273952-follow-the-rules.json) |
 | Follow the White Rabbit VR | 122178 | [122178-follow-the-white-rabbit-vr.json](./122178-follow-the-white-rabbit-vr.json) |
+| Follow Us | 383027 | [383027-follow-us.json](./383027-follow-us.json) |
 | Follow You | 218129 | [218129-follow-you.json](./218129-follow-you.json) |
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
 | Follower A | 178510 | [178510-follower-a.json](./178510-follower-a.json) |
