@@ -196,6 +196,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Antia | 200141 | [200141-call-of-antia.json](./200141-call-of-antia.json) |
 | Call of Atlantis | 26961 | [26961-call-of-atlantis.json](./26961-call-of-atlantis.json) |
 | Call of Atlantis: Treasures of Poseidon - Collector's Edition | 355541 | [355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json](./355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json) |
+| Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
+| Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
 | Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
 | Call of Dookie | 274544 | [274544-call-of-dookie.json](./274544-call-of-dookie.json) |
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
@@ -1328,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat got Lost | 260670 | [260670-cat-got-lost.json](./260670-cat-got-lost.json) |
 | Cat Got Your Tongue | 360674 | [360674-cat-got-your-tongue.json](./360674-cat-got-your-tongue.json) |
 | Cat Guardian | 319201 | [319201-cat-guardian.json](./319201-cat-guardian.json) |
+| Cat Gunner | 356273 | [356273-cat-gunner.json](./356273-cat-gunner.json) |
 | Cat Hits the Deck | 406209 | [406209-cat-hits-the-deck.json](./406209-cat-hits-the-deck.json) |
 | Cat Hostel | 359070 | [359070-cat-hostel.json](./359070-cat-hostel.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
@@ -1782,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede | 282564 | [282564-centipede.json](./282564-centipede.json) |
 | Centipede & Battlezone | 64399 | [64399-centipede-and-battlezone.json](./64399-centipede-and-battlezone.json) |
 | Centipede & Millipede | 74408 | [74408-centipede-and-millipede.json](./74408-centipede-and-millipede.json) |
+| Centipede X | 356282 | [356282-centipede-x.json](./356282-centipede-x.json) |
 | Cento | 281985 | [281985-cento.json](./281985-cento.json) |
 | Central Limit Theorem | 133979 | [133979-central-limit-theorem.json](./133979-central-limit-theorem.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
@@ -1955,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champoo Club | 172200 | [172200-champoo-club.json](./172200-champoo-club.json) |
 | Champs TD | 210862 | [210862-champs-td.json](./210862-champs-td.json) |
 | Champs: Battlegrounds | 20117 | [20117-champs-battlegrounds.json](./20117-champs-battlegrounds.json) |
+| Chanbara Fighter | 356283 | [356283-chanbara-fighter.json](./356283-chanbara-fighter.json) |
 | Chance | 387323 | [387323-chance.json](./387323-chance.json) |
 | Chance at Life | 203530 | [203530-chance-at-life.json](./203530-chance-at-life.json) |
 | Chance of the Dead | 166691 | [166691-chance-of-the-dead.json](./166691-chance-of-the-dead.json) |
@@ -2104,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chart1647 | 242654 | [242654-chart1647.json](./242654-chart1647.json) |
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
 | Chase | 253998 | [253998-chase.json](./253998-chase.json) |
+| Chase & Escape | 355215 | [355215-chase-and-escape.json](./355215-chase-and-escape.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
 | Chase H.Q. 3D | 286677 | [286677-chase-h-q-3d.json](./286677-chase-h-q-3d.json) |
@@ -2417,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders 5: Christmas Edition | 108464 | [108464-chicken-invaders-5-christmas-edition.json](./108464-chicken-invaders-5-christmas-edition.json) |
 | Chicken Journey | 204513 | [204513-chicken-journey.json](./204513-chicken-journey.json) |
 | Chicken Jump | 108521 | [108521-chicken-jump.json](./108521-chicken-jump.json) |
+| Chicken Jump, Puppy Jump | 355197 | [355197-chicken-jump-puppy-jump.json](./355197-chicken-jump-puppy-jump.json) |
 | Chicken Nuggets | 180224 | [180224-chicken-nuggets.json](./180224-chicken-nuggets.json) |
 | Chicken of the Farm | 124612 | [124612-chicken-of-the-farm.json](./124612-chicken-of-the-farm.json) |
 | Chicken Party: Animal Farm | 314873 | [314873-chicken-party-animal-farm.json](./314873-chicken-party-animal-farm.json) |
@@ -3325,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan of Champions | 16341 | [16341-clan-of-champions.json](./16341-clan-of-champions.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
+| Clan Wars | 356284 | [356284-clan-wars.json](./356284-clan-wars.json) |
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
 | Clannad | 262473 | [262473-clannad.json](./262473-clannad.json) |
 | Clannad | 262492 | [262492-clannad.json](./262492-clannad.json) |
@@ -3685,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudsong | 377684 | [377684-cloudsong.json](./377684-cloudsong.json) |
 | CloudStudy | 296358 | [296358-cloudstudy.json](./296358-cloudstudy.json) |
 | Cloudtop Chaos | 348858 | [348858-cloudtop-chaos.json](./348858-cloudtop-chaos.json) |
+| Cloudwalkers | 356280 | [356280-cloudwalkers.json](./356280-cloudwalkers.json) |
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Cloudy Days | 236949 | [236949-cloudy-days.json](./236949-cloudy-days.json) |
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
@@ -4000,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Verdict 3 | 371862 | [371862-cold-verdict-3.json](./371862-cold-verdict-3.json) |
 | Cold VR | 296392 | [296392-cold-vr.json](./296392-cold-vr.json) |
 | Cold War Commander | 67982 | [67982-cold-war-commander.json](./67982-cold-war-commander.json) |
+| Cold War Era | 356265 | [356265-cold-war-era.json](./356265-cold-war-era.json) |
 | Cold War Warfare | 73805 | [73805-cold-war-warfare.json](./73805-cold-war-warfare.json) |
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
 | Cold Wind | 151128 | [151128-cold-wind.json](./151128-cold-wind.json) |
