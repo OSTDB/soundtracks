@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
 | 25,000 Sudoku Puzzles | 125838 | [125838-25-000-sudoku-puzzles.json](./125838-25-000-sudoku-puzzles.json) |
+| 250-man-nin no Kanken Premium: Zenkyuu Zen-Kanji Kanzen Seiha | 342835 | [342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json](./342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json) |
 | 256 cosas en común entre una cama, un libro y una cerveza | 331972 | [331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json](./331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json) |
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
