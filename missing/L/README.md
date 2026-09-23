@@ -2267,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleWarGame | 9625 | [9625-littlewargame.json](./9625-littlewargame.json) |
 | Littlewitch Romanesque: Editio Regia | 35757 | [35757-littlewitch-romanesque-editio-regia.json](./35757-littlewitch-romanesque-editio-regia.json) |
 | Littlewood | 115421 | [115421-littlewood.json](./115421-littlewood.json) |
+| Liú Yǐn | 375417 | [375417-liu-yin.json](./375417-liu-yin.json) |
 | Liùmángzhū Chuánshuō | 394185 | [394185-liumangzhu-chuanshuo.json](./394185-liumangzhu-chuanshuo.json) |
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Live A Live | 15835 | [15835-live-a-live.json](./15835-live-a-live.json) |
@@ -3259,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucent VR | 400936 | [400936-lucent-vr.json](./400936-lucent-vr.json) |
 | Lucera | 356678 | [356678-lucera.json](./356678-lucera.json) |
 | Lucerna Tenebris | 180767 | [180767-lucerna-tenebris.json](./180767-lucerna-tenebris.json) |
+| Lucha Align | 375420 | [375420-lucha-align.json](./375420-lucha-align.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucian Bee's Evil Violet | 219140 | [219140-lucian-bees-evil-violet.json](./219140-lucian-bees-evil-violet.json) |
