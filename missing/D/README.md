@@ -6057,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DummyDoodle | 303494 | [303494-dummydoodle.json](./303494-dummydoodle.json) |
 | Dummynation | 196265 | [196265-dummynation.json](./196265-dummynation.json) |
 | Dump Truck Offroad Driver 3D | 104638 | [104638-dump-truck-offroad-driver-3d.json](./104638-dump-truck-offroad-driver-3d.json) |
+| Dumpling | 377844 | [377844-dumpling.json](./377844-dumpling.json) |
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
 | Dumpster Baby | 350493 | [350493-dumpster-baby.json](./350493-dumpster-baby.json) |
 | Dumpster Dive Live | 396595 | [396595-dumpster-dive-live.json](./396595-dumpster-dive-live.json) |
@@ -6074,6 +6075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunderbeck | 303497 | [303497-dunderbeck.json](./303497-dunderbeck.json) |
 | Dune | 282716 | [282716-dune.json](./282716-dune.json) |
 | Dune 2000 | 87 | [87-dune-2000.json](./87-dune-2000.json) |
+| Dune Raider | 377839 | [377839-dune-raider.json](./377839-dune-raider.json) |
 | Dune Rider | 13710 | [13710-dune-rider.json](./13710-dune-rider.json) |
 | Dune Sea | 120414 | [120414-dune-sea.json](./120414-dune-sea.json) |
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
@@ -6129,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
 | Dungeon Cleaning Express | 114974 | [114974-dungeon-cleaning-express.json](./114974-dungeon-cleaning-express.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
+| Dungeon Concierge | 377812 | [377812-dungeon-concierge.json](./377812-dungeon-concierge.json) |
 | Dungeon Conqueror | 166172 | [166172-dungeon-conqueror.json](./166172-dungeon-conqueror.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
 | Dungeon Coup | 161350 | [161350-dungeon-coup.json](./161350-dungeon-coup.json) |
