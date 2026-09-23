@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
 | Dahna: Megami Tanjou | 46185 | [46185-dahna-megami-tanjou.json](./46185-dahna-megami-tanjou.json) |
+| Dāi Dāi Dàmàoxiǎn | 368138 | [368138-dai-dai-damaoxian.json](./368138-dai-dai-damaoxian.json) |
 | Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
 | Dai-2-ji Super Robot Taisen | 240912 | [240912-dai-2-ji-super-robot-taisen.json](./240912-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen | 48636 | [48636-dai-2-ji-super-robot-taisen.json](./48636-dai-2-ji-super-robot-taisen.json) |
@@ -4689,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dealers | 403675 | [403675-double-dealers.json](./403675-double-dealers.json) |
 | Double Death | 33426 | [33426-double-death.json](./33426-double-death.json) |
 | Double Dodgers | 133820 | [133820-double-dodgers.json](./133820-double-dodgers.json) |
+| Double Down | 368149 | [368149-double-down.json](./368149-double-down.json) |
 | Double Dragon | 175799 | [175799-double-dragon.json](./175799-double-dragon.json) |
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
 | Double Dragon | 201319 | [201319-double-dragon.json](./201319-double-dragon.json) |
@@ -4946,14 +4948,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age II: All-Class Item Pack | 367423 | [367423-dragon-age-ii-all-class-item-pack.json](./367423-dragon-age-ii-all-class-item-pack.json) |
 | Dragon Age II: All-Class Item Pack II | 367424 | [367424-dragon-age-ii-all-class-item-pack-ii.json](./367424-dragon-age-ii-all-class-item-pack-ii.json) |
 | Dragon Age II: Bioware Signature Edition | 141834 | [141834-dragon-age-ii-bioware-signature-edition.json](./141834-dragon-age-ii-bioware-signature-edition.json) |
+| Dragon Age II: Mage Item Pack | 368135 | [368135-dragon-age-ii-mage-item-pack.json](./368135-dragon-age-ii-mage-item-pack.json) |
+| Dragon Age II: Mage Item Pack II | 368142 | [368142-dragon-age-ii-mage-item-pack-ii.json](./368142-dragon-age-ii-mage-item-pack-ii.json) |
+| Dragon Age II: Rogue Item Pack | 368134 | [368134-dragon-age-ii-rogue-item-pack.json](./368134-dragon-age-ii-rogue-item-pack.json) |
+| Dragon Age II: Rogue Item Pack II | 368141 | [368141-dragon-age-ii-rogue-item-pack-ii.json](./368141-dragon-age-ii-rogue-item-pack-ii.json) |
 | Dragon Age II: The Black Emporium | 367421 | [367421-dragon-age-ii-the-black-emporium.json](./367421-dragon-age-ii-the-black-emporium.json) |
 | Dragon Age II: Ultimate Edition | 306726 | [306726-dragon-age-ii-ultimate-edition.json](./306726-dragon-age-ii-ultimate-edition.json) |
+| Dragon Age II: Warrior Item Pack | 368133 | [368133-dragon-age-ii-warrior-item-pack.json](./368133-dragon-age-ii-warrior-item-pack.json) |
+| Dragon Age II: Warrior Item Pack II | 368140 | [368140-dragon-age-ii-warrior-item-pack-ii.json](./368140-dragon-age-ii-warrior-item-pack-ii.json) |
 | Dragon Age: Inquisition - Game of the Year Edition | 44545 | [44545-dragon-age-inquisition-game-of-the-year-edition.json](./44545-dragon-age-inquisition-game-of-the-year-edition.json) |
 | Dragon Age: Inquisition - Spoils of the Avvar | 367437 | [367437-dragon-age-inquisition-spoils-of-the-avvar.json](./367437-dragon-age-inquisition-spoils-of-the-avvar.json) |
 | Dragon Age: Inquisition - Spoils of the Qunari | 367438 | [367438-dragon-age-inquisition-spoils-of-the-qunari.json](./367438-dragon-age-inquisition-spoils-of-the-qunari.json) |
 | Dragon Age: Inquisition - The Black Emporium | 367431 | [367431-dragon-age-inquisition-the-black-emporium.json](./367431-dragon-age-inquisition-the-black-emporium.json) |
 | Dragon Age: Inquisition - The Descent | 20188 | [20188-dragon-age-inquisition-the-descent.json](./20188-dragon-age-inquisition-the-descent.json) |
 | Dragon Age: Origins - Feastday Gifts | 367441 | [367441-dragon-age-origins-feastday-gifts.json](./367441-dragon-age-origins-feastday-gifts.json) |
+| Dragon Age: Origins - Feastday Gifts and Pranks | 368144 | [368144-dragon-age-origins-feastday-gifts-and-pranks.json](./368144-dragon-age-origins-feastday-gifts-and-pranks.json) |
 | Dragon Age: Origins - Feastday Pranks | 367442 | [367442-dragon-age-origins-feastday-pranks.json](./367442-dragon-age-origins-feastday-pranks.json) |
 | Dragon Age: Origins - Leliana's Song | 17465 | [17465-dragon-age-origins-lelianas-song.json](./17465-dragon-age-origins-lelianas-song.json) |
 | Dragon Age: Origins - The Stone Prisoner | 17462 | [17462-dragon-age-origins-the-stone-prisoner.json](./17462-dragon-age-origins-the-stone-prisoner.json) |
