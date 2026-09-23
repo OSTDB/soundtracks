@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Ghost Chapter | 187936 | [187936-paranormal-files-ghost-chapter.json](./187936-paranormal-files-ghost-chapter.json) |
 | Paranormal Files: Ghost Chapter - Collector's Edition | 168857 | [168857-paranormal-files-ghost-chapter-collectors-edition.json](./168857-paranormal-files-ghost-chapter-collectors-edition.json) |
 | Paranormal Files: Sacrifice to Shadows - Collector's Edition | 339788 | [339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json](./339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json) |
+| Paranormal Files: The Trap of Truth - Collector's Edition | 370900 | [370900-paranormal-files-the-trap-of-truth-collectors-edition.json](./370900-paranormal-files-the-trap-of-truth-collectors-edition.json) |
 | Paranormal Files: Trials of Worth - Collector's Edition | 272950 | [272950-paranormal-files-trials-of-worth-collectors-edition.json](./272950-paranormal-files-trials-of-worth-collectors-edition.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
 | Paranormal Night Shift | 328009 | [328009-paranormal-night-shift.json](./328009-paranormal-night-shift.json) |
@@ -3837,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
+| Pokémon Trading Card Game Pocket: Deluxe pack ex | 370869 | [370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json](./370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
 | Pokémon Trading Card Game Pocket: Paldean Wonders | 393103 | [393103-pokemon-trading-card-game-pocket-paldean-wonders.json](./393103-pokemon-trading-card-game-pocket-paldean-wonders.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
