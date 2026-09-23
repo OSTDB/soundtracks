@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Guy Adventure | 151136 | [151136-bad-guy-adventure.json](./151136-bad-guy-adventure.json) |
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
 | Bad Guys at School | 128352 | [128352-bad-guys-at-school.json](./128352-bad-guys-at-school.json) |
+| Bad Heroes | 373206 | [373206-bad-heroes.json](./373206-bad-heroes.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Luck Cat | 183024 | [183024-bad-luck-cat.json](./183024-bad-luck-cat.json) |
@@ -588,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls! | 99982 | [99982-balls.json](./99982-balls.json) |
 | Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
+| Ballshit | 373219 | [373219-ballshit.json](./373219-ballshit.json) |
 | Bally Fears: The Introduction Game | 317403 | [317403-bally-fears-the-introduction-game.json](./317403-bally-fears-the-introduction-game.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
 | Bally Pin | 130870 | [130870-bally-pin.json](./130870-bally-pin.json) |
@@ -2558,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bass World Championship | 20135 | [20135-big-bass-world-championship.json](./20135-big-bass-world-championship.json) |
 | Big Beach Sports 2 | 50639 | [50639-big-beach-sports-2.json](./50639-big-beach-sports-2.json) |
 | Big Bears Bad Advice: A Non-Biased Daily Fortune Teller | 126623 | [126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json](./126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json) |
+| Big Beautiful Women: Giantess Dating Action | 373174 | [373174-big-beautiful-women-giantess-dating-action.json](./373174-big-beautiful-women-giantess-dating-action.json) |
 | Big Bible Town | 326992 | [326992-big-bible-town.json](./326992-big-bible-town.json) |
 | Big Blue | 272857 | [272857-big-blue.json](./272857-big-blue.json) |
 | Big Blue World Domination | 165518 | [165518-big-blue-world-domination.json](./165518-big-blue-world-domination.json) |
@@ -6324,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Butterfly Sky | 233519 | [233519-butterfly-sky.json](./233519-butterfly-sky.json) |
 | Butterfly Soup 2 | 165549 | [165549-butterfly-soup-2.json](./165549-butterfly-soup-2.json) |
+| Butterfly X | 373209 | [373209-butterfly-x.json](./373209-butterfly-x.json) |
 | Butterfly: Inchworm Animation II | 57375 | [57375-butterfly-inchworm-animation-ii.json](./57375-butterfly-inchworm-animation-ii.json) |
 | Butterfly: Rin | 119728 | [119728-butterfly-rin.json](./119728-butterfly-rin.json) |
 | Butterfly's Poison: Blood Chains - Fantasy Night Stories | 226207 | [226207-butterflys-poison-blood-chains-fantasy-night-stories.json](./226207-butterflys-poison-blood-chains-fantasy-night-stories.json) |
