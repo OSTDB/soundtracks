@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 404: The Absent God | 416093 | [416093-404-the-absent-god.json](./416093-404-the-absent-god.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 41 Days: Minimalist Pandemic Simulator | 183451 | [183451-41-days-minimalist-pandemic-simulator.json](./183451-41-days-minimalist-pandemic-simulator.json) |
+| 419 | 389733 | [389733-419.json](./389733-419.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
 | 44 The Jail | 283306 | [283306-44-the-jail.json](./283306-44-the-jail.json) |
 | 450 XP Games | 98817 | [98817-450-xp-games.json](./98817-450-xp-games.json) |
