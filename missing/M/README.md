@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: The Gathering - Duels of the Planeswalkers 2015 | 18218 | [18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json](./18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json) |
 | Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
+| Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
 | Magical Battle Arena | 145447 | [145447-magical-battle-arena.json](./145447-magical-battle-arena.json) |
 | Magical Battle Arena: Complete Form | 61320 | [61320-magical-battle-arena-complete-form.json](./61320-magical-battle-arena-complete-form.json) |
 | Magical Beat | 52549 | [52549-magical-beat.json](./52549-magical-beat.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Escape: Ancient China | 135673 | [135673-mahjong-escape-ancient-china.json](./135673-mahjong-escape-ancient-china.json) |
 | Mahjong Gakkou | 415967 | [415967-mahjong-gakkou.json](./415967-mahjong-gakkou.json) |
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
+| Mahjong Garden | 366439 | [366439-mahjong-garden.json](./366439-mahjong-garden.json) |
 | Mahjong Girl Kshity-Gurpa | 379045 | [379045-mahjong-girl-kshity-gurpa.json](./379045-mahjong-girl-kshity-gurpa.json) |
 | Mahjong Gold | 52578 | [52578-mahjong-gold.json](./52578-mahjong-gold.json) |
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
@@ -692,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
 | Mahjong Roadshow | 29205 | [29205-mahjong-roadshow.json](./29205-mahjong-roadshow.json) |
+| Mahjong Safari | 366440 | [366440-mahjong-safari.json](./366440-mahjong-safari.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
 | Mahjong Solitaire | 80453 | [80453-mahjong-solitaire.json](./80453-mahjong-solitaire.json) |
 | Mahjong Solitaire Refresh | 114173 | [114173-mahjong-solitaire-refresh.json](./114173-mahjong-solitaire-refresh.json) |
@@ -4324,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
 | Mini Golf King | 125936 | [125936-mini-golf-king.json](./125936-mini-golf-king.json) |
 | Mini Golf King - Multiplayer | 87011 | [87011-mini-golf-king-multiplayer.json](./87011-mini-golf-king-multiplayer.json) |
+| Mini Golf Madness | 366442 | [366442-mini-golf-madness.json](./366442-mini-golf-madness.json) |
 | Mini Golf Mania | 146893 | [146893-mini-golf-mania.json](./146893-mini-golf-mania.json) |
 | Mini Golf Master | 67656 | [67656-mini-golf-master.json](./67656-mini-golf-master.json) |
 | Mini Golf Master 2 | 67650 | [67650-mini-golf-master-2.json](./67650-mini-golf-master-2.json) |
@@ -5224,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Fright | 257405 | [257405-monkey-fright.json](./257405-monkey-fright.json) |
 | Monkey Fruit Fight! | 366302 | [366302-monkey-fruit-fight.json](./366302-monkey-fruit-fight.json) |
 | Monkey Gang | 351007 | [351007-monkey-gang.json](./351007-monkey-gang.json) |
+| Monkey Gems | 366443 | [366443-monkey-gems.json](./366443-monkey-gems.json) |
 | Monkey GO Happy | 97313 | [97313-monkey-go-happy.json](./97313-monkey-go-happy.json) |
 | Monkey in the Zoo | 391855 | [391855-monkey-in-the-zoo.json](./391855-monkey-in-the-zoo.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
@@ -5799,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
 | More or Less | 261256 | [261256-more-or-less.json](./261256-more-or-less.json) |
 | More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
+| More Sushi! | 366433 | [366433-more-sushi.json](./366433-more-sushi.json) |
 | More Than Human | 278531 | [278531-more-than-human.json](./278531-more-than-human.json) |
 | More Than Words | 361720 | [361720-more-than-words.json](./361720-more-than-words.json) |
 | More Zombies | 234905 | [234905-more-zombies.json](./234905-more-zombies.json) |
