@@ -1144,6 +1144,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Darkness 2.2 :D | 101984 | [101984-geometry-darkness-2-2-d.json](./101984-geometry-darkness-2-2-d.json) |
 | Geometry Dash Meltdown | 38693 | [38693-geometry-dash-meltdown.json](./38693-geometry-dash-meltdown.json) |
 | Geometry Dash SubZero | 87023 | [87023-geometry-dash-subzero.json](./87023-geometry-dash-subzero.json) |
+| Geometry Dash: 1.9 Update | 374299 | [374299-geometry-dash-1-9-update.json](./374299-geometry-dash-1-9-update.json) |
+| Geometry Dash: 2.0 Update | 374301 | [374301-geometry-dash-2-0-update.json](./374301-geometry-dash-2-0-update.json) |
+| Geometry Dash: 2.1 Update | 374302 | [374302-geometry-dash-2-1-update.json](./374302-geometry-dash-2-1-update.json) |
+| Geometry Dash: 2.2 Update | 374303 | [374303-geometry-dash-2-2-update.json](./374303-geometry-dash-2-2-update.json) |
 | Geometry Dodge Pro | 86908 | [86908-geometry-dodge-pro.json](./86908-geometry-dodge-pro.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
 | Geometry Rocket | 150534 | [150534-geometry-rocket.json](./150534-geometry-rocket.json) |
