@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Soccer: Field no Hasha | 42567 | [42567-battle-soccer-field-no-hasha.json](./42567-battle-soccer-field-no-hasha.json) |
 | Battle Space | 92278 | [92278-battle-space.json](./92278-battle-space.json) |
 | Battle Species | 110339 | [110339-battle-species.json](./110339-battle-species.json) |
+| Battle Spirit CrossOver: [BSC41] Greatest Record 2023 Rare Card Set | 359602 | [359602-battle-spirit-crossover-bsc41-greatest-record-2023-rare-card-set.json](./359602-battle-spirit-crossover-bsc41-greatest-record-2023-rare-card-set.json) |
 | Battle Spirits CrossOver | 321743 | [321743-battle-spirits-crossover.json](./321743-battle-spirits-crossover.json) |
 | Battle Spirits Digital Starter | 137587 | [137587-battle-spirits-digital-starter.json](./137587-battle-spirits-digital-starter.json) |
 | Battle Spirits: Connected Battlers | 146910 | [146910-battle-spirits-connected-battlers.json](./146910-battle-spirits-connected-battlers.json) |
