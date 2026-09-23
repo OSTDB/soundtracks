@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabboz Simulator | 191239 | [191239-tabboz-simulator.json](./191239-tabboz-simulator.json) |
 | Tabby Cat's Great Catventure | 177423 | [177423-tabby-cats-great-catventure.json](./177423-tabby-cats-great-catventure.json) |
 | Tabé-O-Ja | 150071 | [150071-tabe-o-ja.json](./150071-tabe-o-ja.json) |
+| Tabi no Yubisashi Kaiwachou DS: DS Series 1 - Thai | 383646 | [383646-tabi-no-yubisashi-kaiwachou-ds-ds-series-1-thai.json](./383646-tabi-no-yubisashi-kaiwachou-ds-ds-series-1-thai.json) |
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
 | Table Ball: Emotions Skin Pack | 293398 | [293398-table-ball-emotions-skin-pack.json](./293398-table-ball-emotions-skin-pack.json) |
 | Table Football | 131398 | [131398-table-football.json](./131398-table-football.json) |
@@ -2143,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
 | The Andromeda Strain | 24167 | [24167-the-andromeda-strain.json](./24167-the-andromeda-strain.json) |
+| The Angel's Tears | 383663 | [383663-the-angels-tears.json](./383663-the-angels-tears.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Angry Viking | 59068 | [59068-the-angry-viking.json](./59068-the-angry-viking.json) |
@@ -4046,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interview | 35786 | [35786-the-interview.json](./35786-the-interview.json) |
 | The Invasion 2 | 268038 | [268038-the-invasion-2.json](./268038-the-invasion-2.json) |
 | The Invasion of Area 51 | 130871 | [130871-the-invasion-of-area-51.json](./130871-the-invasion-of-area-51.json) |
+| The Invention of "Q" | 383660 | [383660-the-invention-of-q.json](./383660-the-invention-of-q.json) |
 | The Inverted Spire | 176914 | [176914-the-inverted-spire.json](./176914-the-inverted-spire.json) |
 | The Investigation Files of Assistant Arimura | 133387 | [133387-the-investigation-files-of-assistant-arimura.json](./133387-the-investigation-files-of-assistant-arimura.json) |
 | The Invincible | 138906 | [138906-the-invincible.json](./138906-the-invincible.json) |
@@ -7432,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrust Issues | 382329 | [382329-thrust-issues.json](./382329-thrust-issues.json) |
 | Thrust Legend | 158151 | [158151-thrust-legend.json](./158151-thrust-legend.json) |
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
+| Thrust Me Bro | 383654 | [383654-thrust-me-bro.json](./383654-thrust-me-bro.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | ThrustWorks | 156010 | [156010-thrustworks.json](./156010-thrustworks.json) |
 | Thrusty Ship | 113660 | [113660-thrusty-ship.json](./113660-thrusty-ship.json) |
@@ -8466,6 +8470,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Man's Revenge | 258463 | [258463-tiny-mans-revenge.json](./258463-tiny-mans-revenge.json) |
 | Tiny Metal: Full Metal Rumble - Caeser's Rescue | 172126 | [172126-tiny-metal-full-metal-rumble-caesers-rescue.json](./172126-tiny-metal-full-metal-rumble-caesers-rescue.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
+| Tiny Pasture: Baabaa and Moomoo | 383623 | [383623-tiny-pasture-baabaa-and-moomoo.json](./383623-tiny-pasture-baabaa-and-moomoo.json) |
+| Tiny Pasture: Ribbitribbit and Quackquack | 383625 | [383625-tiny-pasture-ribbitribbit-and-quackquack.json](./383625-tiny-pasture-ribbitribbit-and-quackquack.json) |
 | Tiny Pixel Farm: Go Farm Life | 248674 | [248674-tiny-pixel-farm-go-farm-life.json](./248674-tiny-pixel-farm-go-farm-life.json) |
 | Tiny Pixel Wars | 185618 | [185618-tiny-pixel-wars.json](./185618-tiny-pixel-wars.json) |
 | Tiny Poker | 150603 | [150603-tiny-poker.json](./150603-tiny-poker.json) |
@@ -10687,6 +10693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Riddles: Trip to France | 41937 | [41937-travel-riddles-trip-to-france.json](./41937-travel-riddles-trip-to-france.json) |
 | Travel Riddles: Trip to India | 29230 | [29230-travel-riddles-trip-to-india.json](./29230-travel-riddles-trip-to-india.json) |
 | Travel Riddles: Trip to Italy | 41938 | [41938-travel-riddles-trip-to-italy.json](./41938-travel-riddles-trip-to-italy.json) |
+| Travel Sickness | 383628 | [383628-travel-sickness.json](./383628-travel-sickness.json) |
 | Travel the Countries | 154358 | [154358-travel-the-countries.json](./154358-travel-the-countries.json) |
 | Travel to Canada | 315043 | [315043-travel-to-canada.json](./315043-travel-to-canada.json) |
 | Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
@@ -11236,6 +11243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trulon | 197766 | [197766-trulon.json](./197766-trulon.json) |
 | Trulon: The Shadow Engine | 20344 | [20344-trulon-the-shadow-engine.json](./20344-trulon-the-shadow-engine.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
+| Trump Cards | 383616 | [383616-trump-cards.json](./383616-trump-cards.json) |
 | Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
 | Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
