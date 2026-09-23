@@ -6823,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Bikes | 37424 | [37424-mx-bikes.json](./37424-mx-bikes.json) |
 | MX Dirt Bike: Unlimited Bike Experience | 317442 | [317442-mx-dirt-bike-unlimited-bike-experience.json](./317442-mx-dirt-bike-unlimited-bike-experience.json) |
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
+| MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
 | MX vs. ATV All Out: 2020 Pro Nationals Edition | 206779 | [206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json](./206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - 2024 Monster Energy Supercross Championship | 295398 | [295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json](./295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json) |
