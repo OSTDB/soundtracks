@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sceptorn | 391211 | [391211-sceptorn.json](./391211-sceptorn.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
 | SchattenJagd | 98954 | [98954-schattenjagd.json](./98954-schattenjagd.json) |
+| Schattenjäger | 380128 | [380128-schattenjager.json](./380128-schattenjager.json) |
 | Schattenspiel | 103873 | [103873-schattenspiel.json](./103873-schattenspiel.json) |
 | Schedule I | 328373 | [328373-schedule-i.json](./328373-schedule-i.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
@@ -2919,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield Arena | 412958 | [412958-shield-arena.json](./412958-shield-arena.json) |
 | Shield Cat | 143478 | [143478-shield-cat.json](./143478-shield-cat.json) |
 | Shield Hero | 351630 | [351630-shield-hero.json](./351630-shield-hero.json) |
+| Shield of Breaker | 380118 | [380118-shield-of-breaker.json](./380118-shield-of-breaker.json) |
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
@@ -9414,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Insurgency | 239760 | [239760-stellar-insurgency.json](./239760-stellar-insurgency.json) |
 | Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
+| Stellar Mess: Operation Kush | 380122 | [380122-stellar-mess-operation-kush.json](./380122-stellar-mess-operation-kush.json) |
 | Stellar Monarch: The Age of Technology | 171028 | [171028-stellar-monarch-the-age-of-technology.json](./171028-stellar-monarch-the-age-of-technology.json) |
 | Stellar Nursery | 413597 | [413597-stellar-nursery.json](./413597-stellar-nursery.json) |
 | Stellar Odyssey | 413089 | [413089-stellar-odyssey.json](./413089-stellar-odyssey.json) |
