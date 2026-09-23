@@ -1588,6 +1588,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of the Tallgrass | 398959 | [398959-whispers-of-the-tallgrass.json](./398959-whispers-of-the-tallgrass.json) |
 | Whispers of the Void | 358378 | [358378-whispers-of-the-void.json](./358378-whispers-of-the-void.json) |
 | Whispers of West Grove | 237045 | [237045-whispers-of-west-grove.json](./237045-whispers-of-west-grove.json) |
+| Whispers of Wings Jigsaw Puzzles: Expansion Pack 1 | 357963 | [357963-whispers-of-wings-jigsaw-puzzles-expansion-pack-1.json](./357963-whispers-of-wings-jigsaw-puzzles-expansion-pack-1.json) |
+| Whispers of Wings Jigsaw Puzzles: Expansion Pack 2 | 357964 | [357964-whispers-of-wings-jigsaw-puzzles-expansion-pack-2.json](./357964-whispers-of-wings-jigsaw-puzzles-expansion-pack-2.json) |
+| Whispers of Wings Jigsaw Puzzles: Expansion Pack 3 | 357965 | [357965-whispers-of-wings-jigsaw-puzzles-expansion-pack-3.json](./357965-whispers-of-wings-jigsaw-puzzles-expansion-pack-3.json) |
+| Whispers of Wings Jigsaw Puzzles: Expansion Pack 4 | 357966 | [357966-whispers-of-wings-jigsaw-puzzles-expansion-pack-4.json](./357966-whispers-of-wings-jigsaw-puzzles-expansion-pack-4.json) |
 | Whispers: Last Hope | 29720 | [29720-whispers-last-hope.json](./29720-whispers-last-hope.json) |
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
 | Whistle Pig | 350451 | [350451-whistle-pig.json](./350451-whistle-pig.json) |
@@ -1798,6 +1802,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Legion | 243150 | [243150-wild-legion.json](./243150-wild-legion.json) |
 | Wild Leopard Safari | 255167 | [255167-wild-leopard-safari.json](./255167-wild-leopard-safari.json) |
 | Wild Life | 127894 | [127894-wild-life.json](./127894-wild-life.json) |
+| Wild Lynx Jigsaw | 357967 | [357967-wild-lynx-jigsaw.json](./357967-wild-lynx-jigsaw.json) |
+| Wild Lynx Jigsaw: Expansion Pack 1 | 357968 | [357968-wild-lynx-jigsaw-expansion-pack-1.json](./357968-wild-lynx-jigsaw-expansion-pack-1.json) |
+| Wild Lynx Jigsaw: Expansion Pack 2 | 357969 | [357969-wild-lynx-jigsaw-expansion-pack-2.json](./357969-wild-lynx-jigsaw-expansion-pack-2.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
 | Wild Pinball Bundle | 166684 | [166684-wild-pinball-bundle.json](./166684-wild-pinball-bundle.json) |
