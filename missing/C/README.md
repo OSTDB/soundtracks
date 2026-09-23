@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
 | Camp Grizzly | 104449 | [104449-camp-grizzly.json](./104449-camp-grizzly.json) |
+| Camp Keepalive: Endless Summer | 348426 | [348426-camp-keepalive-endless-summer.json](./348426-camp-keepalive-endless-summer.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
 | Camp Rock | 221995 | [221995-camp-rock.json](./221995-camp-rock.json) |
@@ -1052,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case 2: Animatronics Survival | 99300 | [99300-case-2-animatronics-survival.json](./99300-case-2-animatronics-survival.json) |
 | Case Blind: Stolen Route | 358283 | [358283-case-blind-stolen-route.json](./358283-case-blind-stolen-route.json) |
 | Case Clicker | 194565 | [194565-case-clicker.json](./194565-case-clicker.json) |
+| Case Closed | 348436 | [348436-case-closed.json](./348436-case-closed.json) |
 | Case Closed | 95435 | [95435-case-closed.json](./95435-case-closed.json) |
 | Case Files: Behind Closed Doors | 273651 | [273651-case-files-behind-closed-doors.json](./273651-case-files-behind-closed-doors.json) |
 | Case Files: The Death of Paulette Williams | 213024 | [213024-case-files-the-death-of-paulette-williams.json](./213024-case-files-the-death-of-paulette-williams.json) |
@@ -3320,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | Civitas | 187380 | [187380-civitas.json](./187380-civitas.json) |
+| CivRise | 348459 | [348459-civrise.json](./348459-civrise.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | Clad in Iron Chincha Islands 1866 | 226304 | [226304-clad-in-iron-chincha-islands-1866.json](./226304-clad-in-iron-chincha-islands-1866.json) |
 | Clad in Iron: Philippines 1898 - Manila Bay 1898 | 170949 | [170949-clad-in-iron-philippines-1898-manila-bay-1898.json](./170949-clad-in-iron-philippines-1898-manila-bay-1898.json) |
@@ -7035,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
 | Curses 'N Chaos | 16470 | [16470-curses-n-chaos.json](./16470-curses-n-chaos.json) |
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
+| Cursor Blast | 348439 | [348439-cursor-blast.json](./348439-cursor-blast.json) |
 | Cursor Car | 182928 | [182928-cursor-car.json](./182928-cursor-car.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
 | Cursor Story | 237355 | [237355-cursor-story.json](./237355-cursor-story.json) |
