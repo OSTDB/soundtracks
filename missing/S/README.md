@@ -5597,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Plow Truck | 101488 | [101488-snow-plow-truck.json](./101488-snow-plow-truck.json) |
 | Snow Problem | 342060 | [342060-snow-problem.json](./342060-snow-problem.json) |
 | Snow Rider | 43336 | [43336-snow-rider.json](./43336-snow-rider.json) |
+| Snow Rider 3D | 353507 | [353507-snow-rider-3d.json](./353507-snow-rider-3d.json) |
 | Snow Steam Trail | 372132 | [372132-snow-steam-trail.json](./372132-snow-steam-trail.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
@@ -9528,6 +9529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Rain | 34833 | [34833-steel-rain.json](./34833-steel-rain.json) |
 | Steel Rampart | 245951 | [245951-steel-rampart.json](./245951-steel-rampart.json) |
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
+| Steel Revolt | 353476 | [353476-steel-revolt.json](./353476-steel-revolt.json) |
 | Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
 | Steel Sand Mars Chronicles: Survival Simulator | 294834 | [294834-steel-sand-mars-chronicles-survival-simulator.json](./294834-steel-sand-mars-chronicles-survival-simulator.json) |
 | Steel Shell | 192809 | [192809-steel-shell.json](./192809-steel-shell.json) |
@@ -10561,6 +10563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submersible | 272372 | [272372-submersible.json](./272372-submersible.json) |
 | Submersible Simulator: Discover the Titanic into Ocean | 271274 | [271274-submersible-simulator-discover-the-titanic-into-ocean.json](./271274-submersible-simulator-discover-the-titanic-into-ocean.json) |
 | Submind | 416091 | [416091-submind.json](./416091-submind.json) |
+| Submission | 353496 | [353496-submission.json](./353496-submission.json) |
 | Subnautic Adventures | 87875 | [87875-subnautic-adventures.json](./87875-subnautic-adventures.json) |
 | Subnautica + Subnautica Below Zero Double Pack | 143025 | [143025-subnautica-subnautica-below-zero-double-pack.json](./143025-subnautica-subnautica-below-zero-double-pack.json) |
 | Subnautica 2 | 320140 | [320140-subnautica-2.json](./320140-subnautica-2.json) |
@@ -11466,6 +11469,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Vegetables 2 | 396204 | [396204-super-jigsaw-puzzle-generations-vegetables-2.json](./396204-super-jigsaw-puzzle-generations-vegetables-2.json) |
 | Super Jigsaw Puzzle: Generations - Waterfalls 2 | 285471 | [285471-super-jigsaw-puzzle-generations-waterfalls-2.json](./285471-super-jigsaw-puzzle-generations-waterfalls-2.json) |
 | Super Jigsaw Puzzle: Generations - Waterfalls Puzzles | 155600 | [155600-super-jigsaw-puzzle-generations-waterfalls-puzzles.json](./155600-super-jigsaw-puzzle-generations-waterfalls-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Waves | 353479 | [353479-super-jigsaw-puzzle-generations-waves.json](./353479-super-jigsaw-puzzle-generations-waves.json) |
+| Super Jigsaw Puzzle: Generations - Winter 2021 | 353480 | [353480-super-jigsaw-puzzle-generations-winter-2021.json](./353480-super-jigsaw-puzzle-generations-winter-2021.json) |
 | Super Jigsaw Puzzle: Generations - Winter 2023 | 273631 | [273631-super-jigsaw-puzzle-generations-winter-2023.json](./273631-super-jigsaw-puzzle-generations-winter-2023.json) |
 | Super Jigsaw Puzzle: Generations - Winter Puzzles | 155611 | [155611-super-jigsaw-puzzle-generations-winter-puzzles.json](./155611-super-jigsaw-puzzle-generations-winter-puzzles.json) |
 | Super Jigsaw Puzzle: Monuments | 103792 | [103792-super-jigsaw-puzzle-monuments.json](./103792-super-jigsaw-puzzle-monuments.json) |
