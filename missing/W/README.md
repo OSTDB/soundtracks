@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Western Deep | 310069 | [310069-war-of-the-western-deep.json](./310069-war-of-the-western-deep.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
 | War of the Zombie | 90516 | [90516-war-of-the-zombie.json](./90516-war-of-the-zombie.json) |
+| War of Warship | 338398 | [338398-war-of-warship.json](./338398-war-of-warship.json) |
 | War of Wizards | 215666 | [215666-war-of-wizards.json](./215666-war-of-wizards.json) |
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
@@ -381,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Saber | 137689 | [137689-war-saber.json](./137689-war-saber.json) |
 | War Selection | 116499 | [116499-war-selection.json](./116499-war-selection.json) |
 | War Smith | 132203 | [132203-war-smith.json](./132203-war-smith.json) |
+| War Sniper | 338395 | [338395-war-sniper.json](./338395-war-sniper.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
@@ -651,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarMen Tactics | 85496 | [85496-warmen-tactics.json](./85496-warmen-tactics.json) |
 | Warmerise | 363053 | [363053-warmerise.json](./363053-warmerise.json) |
 | Warmonger: Sins of the Naga | 199605 | [199605-warmonger-sins-of-the-naga.json](./199605-warmonger-sins-of-the-naga.json) |
+| Warmonger:45 | 338399 | [338399-warmonger-45.json](./338399-warmonger-45.json) |
 | Warmongers | 273392 | [273392-warmongers.json](./273392-warmongers.json) |
 | Warmongers | 377154 | [377154-warmongers.json](./377154-warmongers.json) |
 | Warmord | 116299 | [116299-warmord.json](./116299-warmord.json) |
@@ -698,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpsquad | 216844 | [216844-warpsquad.json](./216844-warpsquad.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
 | Warpzone Drifter | 111853 | [111853-warpzone-drifter.json](./111853-warpzone-drifter.json) |
+| Warranty Man | 338397 | [338397-warranty-man.json](./338397-warranty-man.json) |
 | Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
 | Warrens Of Random | 389614 | [389614-warrens-of-random.json](./389614-warrens-of-random.json) |
 | Warring States Tactics | 60516 | [60516-warring-states-tactics.json](./60516-warring-states-tactics.json) |
@@ -744,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across The World: Tryphon 104 | 350610 | [350610-wars-across-the-world-tryphon-104.json](./350610-wars-across-the-world-tryphon-104.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
 | Warsaw Rising: City of Heroes | 115659 | [115659-warsaw-rising-city-of-heroes.json](./115659-warsaw-rising-city-of-heroes.json) |
+| WarShape | 338396 | [338396-warshape.json](./338396-warshape.json) |
 | Warshift | 14075 | [14075-warshift.json](./14075-warshift.json) |
 | Warshift 2 | 388957 | [388957-warshift-2.json](./388957-warshift-2.json) |
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
@@ -778,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons | 259617 | [259617-wash-simulator-clean-garage-house-cars-business-tycoons.json](./259617-wash-simulator-clean-garage-house-cars-business-tycoons.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
+| Wash the Cars | 338394 | [338394-wash-the-cars.json](./338394-wash-the-cars.json) |
 | Washed Up! | 104040 | [104040-washed-up.json](./104040-washed-up.json) |
 | Washeteria | 353965 | [353965-washeteria.json](./353965-washeteria.json) |
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
@@ -786,11 +792,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waste Cleaner | 61614 | [61614-waste-cleaner.json](./61614-waste-cleaner.json) |
 | Waste in Space | 248651 | [248651-waste-in-space.json](./248651-waste-in-space.json) |
 | Waste The Fallen | 413735 | [413735-waste-the-fallen.json](./413735-waste-the-fallen.json) |
+| Waste Time Lotto | 338391 | [338391-waste-time-lotto.json](./338391-waste-time-lotto.json) |
 | Waste Water | 395175 | [395175-waste-water.json](./395175-waste-water.json) |
 | Waste Your Wedding | 366413 | [366413-waste-your-wedding.json](./366413-waste-your-wedding.json) |
 | Wastebraver | 205101 | [205101-wastebraver.json](./205101-wastebraver.json) |
 | Wastebraver: A Tiny Survival Tale | 207348 | [207348-wastebraver-a-tiny-survival-tale.json](./207348-wastebraver-a-tiny-survival-tale.json) |
 | Wasted | 17925 | [17925-wasted.json](./17925-wasted.json) |
+| Wasted | 338393 | [338393-wasted.json](./338393-wasted.json) |
 | Wasted Bloodline | 338254 | [338254-wasted-bloodline.json](./338254-wasted-bloodline.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wasteland Alone | 373640 | [373640-wasteland-alone.json](./373640-wasteland-alone.json) |
@@ -800,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WasteLand Express | 368025 | [368025-wasteland-express.json](./368025-wasteland-express.json) |
 | Wasteland Horror Radio: Episode 1 - The Radio | 360641 | [360641-wasteland-horror-radio-episode-1-the-radio.json](./360641-wasteland-horror-radio-episode-1-the-radio.json) |
 | Wasteland Orchard | 387646 | [387646-wasteland-orchard.json](./387646-wasteland-orchard.json) |
+| Wasteland Rangers | 338392 | [338392-wasteland-rangers.json](./338392-wasteland-rangers.json) |
 | Wasteland Travelers | 356730 | [356730-wasteland-travelers.json](./356730-wasteland-travelers.json) |
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
@@ -872,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterloo | 12821 | [12821-waterloo.json](./12821-waterloo.json) |
 | Waterloo | 328018 | [328018-waterloo.json](./328018-waterloo.json) |
 | WaterMeasure | 344542 | [344542-watermeasure.json](./344542-watermeasure.json) |
+| Watermelon | 338390 | [338390-watermelon.json](./338390-watermelon.json) |
 | Watermelon Challenge | 275693 | [275693-watermelon-challenge.json](./275693-watermelon-challenge.json) |
 | Watermelon Game: Fruits Puzzle | 293904 | [293904-watermelon-game-fruits-puzzle.json](./293904-watermelon-game-fruits-puzzle.json) |
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
@@ -980,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
 | WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
 | We Are All but Bones and Dust | 165049 | [165049-we-are-all-but-bones-and-dust.json](./165049-we-are-all-but-bones-and-dust.json) |
+| We are Blob | 338388 | [338388-we-are-blob.json](./338388-we-are-blob.json) |
 | We are Broken | 146090 | [146090-we-are-broken.json](./146090-we-are-broken.json) |
 | We Are Counting | 386108 | [386108-we-are-counting.json](./386108-we-are-counting.json) |
 | We Are Football: Bundesliga Edition | 152342 | [152342-we-are-football-bundesliga-edition.json](./152342-we-are-football-bundesliga-edition.json) |
@@ -1053,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
 | Weapon Hacker | 133377 | [133377-weapon-hacker.json](./133377-weapon-hacker.json) |
 | Weapon Party | 277977 | [277977-weapon-party.json](./277977-weapon-party.json) |
+| Weapon Rearing | 338389 | [338389-weapon-rearing.json](./338389-weapon-rearing.json) |
 | WeaponGo | 104095 | [104095-weapongo.json](./104095-weapongo.json) |
 | WeaponizedChess | 34481 | [34481-weaponizedchess.json](./34481-weaponizedchess.json) |
 | Weaponmancer | 277285 | [277285-weaponmancer.json](./277285-weaponmancer.json) |
@@ -1081,7 +1093,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
 | WebbVR: The James Webb Space Telescope Virtual Experience | 111631 | [111631-webbvr-the-james-webb-space-telescope-virtual-experience.json](./111631-webbvr-the-james-webb-space-telescope-virtual-experience.json) |
+| Webcam Love | 338387 | [338387-webcam-love.json](./338387-webcam-love.json) |
 | WebCum Empire Tycoon | 243151 | [243151-webcum-empire-tycoon.json](./243151-webcum-empire-tycoon.json) |
+| WebCum Secrets | 338386 | [338386-webcum-secrets.json](./338386-webcum-secrets.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
 | Websy and the Time Rogues | 361304 | [361304-websy-and-the-time-rogues.json](./361304-websy-and-the-time-rogues.json) |
@@ -1155,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Kokuri-san | 241976 | [241976-welcome-kokuri-san.json](./241976-welcome-kokuri-san.json) |
 | Welcome Teacher | 266798 | [266798-welcome-teacher.json](./266798-welcome-teacher.json) |
 | Welcome to a Sexy, Open World! | 194551 | [194551-welcome-to-a-sexy-open-world.json](./194551-welcome-to-a-sexy-open-world.json) |
+| Welcome to Bunny Farm | 338385 | [338385-welcome-to-bunny-farm.json](./338385-welcome-to-bunny-farm.json) |
 | Welcome To Chichester OVN 3: The Mysterious Affair at the Violet Hotel | 132264 | [132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome to Chornobayivka VR | 211275 | [211275-welcome-to-chornobayivka-vr.json](./211275-welcome-to-chornobayivka-vr.json) |
 | Welcome to Elite Cafe | 403033 | [403033-welcome-to-elite-cafe.json](./403033-welcome-to-elite-cafe.json) |
@@ -1234,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
+| West Journey | 338384 | [338384-west-journey.json](./338384-west-journey.json) |
 | West Mafia Redemption | 95882 | [95882-west-mafia-redemption.json](./95882-west-mafia-redemption.json) |
 | West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
 | West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
@@ -1262,7 +1278,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Candy | 408263 | [408263-wet-candy.json](./408263-wet-candy.json) |
 | Wet Dreams | 229797 | [229797-wet-dreams.json](./229797-wet-dreams.json) |
 | Wet Girl | 114232 | [114232-wet-girl.json](./114232-wet-girl.json) |
+| Wet Girls | 338383 | [338383-wet-girls.json](./338383-wet-girls.json) |
 | Wet Nightmares | 158560 | [158560-wet-nightmares.json](./158560-wet-nightmares.json) |
+| Wet Passion | 338382 | [338382-wet-passion.json](./338382-wet-passion.json) |
 | Wet Steps | 158072 | [158072-wet-steps.json](./158072-wet-steps.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
@@ -1278,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
 | WGT Baseball | 64370 | [64370-wgt-baseball.json](./64370-wgt-baseball.json) |
 | WGT Golf | 64369 | [64369-wgt-golf.json](./64369-wgt-golf.json) |
+| WGV: Dreamcatcher | 338380 | [338380-wgv-dreamcatcher.json](./338380-wgv-dreamcatcher.json) |
 | Whac-A-Mole | 49347 | [49347-whac-a-mole.json](./49347-whac-a-mole.json) |
 | Whack 'em All! | 91750 | [91750-whack-em-all.json](./91750-whack-em-all.json) |
 | Whack A Rat VR | 147427 | [147427-whack-a-rat-vr.json](./147427-whack-a-rat-vr.json) |
@@ -1340,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Remains of Us | 256288 | [256288-what-remains-of-us.json](./256288-what-remains-of-us.json) |
 | What the Car? | 248580 | [248580-what-the-car.json](./248580-what-the-car.json) |
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
+| What the Chuck? | 338379 | [338379-what-the-chuck.json](./338379-what-the-chuck.json) |
 | What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
 | What the Golf? A Hole New World | 264343 | [264343-what-the-golf-a-hole-new-world.json](./264343-what-the-golf-a-hole-new-world.json) |
 | What the Golf? It's Snowtime | 264344 | [264344-what-the-golf-its-snowtime.json](./264344-what-the-golf-its-snowtime.json) |
@@ -1379,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheat and Wrath | 400319 | [400319-wheat-and-wrath.json](./400319-wheat-and-wrath.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
+| Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
 | Wheel of Fortune | 119255 | [119255-wheel-of-fortune.json](./119255-wheel-of-fortune.json) |
 | Wheel of Fortune | 194569 | [194569-wheel-of-fortune.json](./194569-wheel-of-fortune.json) |
 | Wheel of Fortune | 198964 | [198964-wheel-of-fortune.json](./198964-wheel-of-fortune.json) |
@@ -1400,7 +1421,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie | 23069 | [23069-wheelie.json](./23069-wheelie.json) |
 | Wheelie 1 | 331401 | [331401-wheelie-1.json](./331401-wheelie-1.json) |
 | Wheelie 2 | 239892 | [239892-wheelie-2.json](./239892-wheelie-2.json) |
+| Wheelie City | 338378 | [338378-wheelie-city.json](./338378-wheelie-city.json) |
 | Wheelie King 3D | 104656 | [104656-wheelie-king-3d.json](./104656-wheelie-king-3d.json) |
+| Wheelie King 7 | 338377 | [338377-wheelie-king-7.json](./338377-wheelie-king-7.json) |
 | Wheelie Life Simulator | 396226 | [396226-wheelie-life-simulator.json](./396226-wheelie-life-simulator.json) |
 | Wheelies | 365104 | [365104-wheelies.json](./365104-wheelies.json) |
 | WheelMates | 387496 | [387496-wheelmates.json](./387496-wheelmates.json) |
@@ -1516,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Drink...? | 365863 | [365863-wheres-my-drink.json](./365863-wheres-my-drink.json) |
 | Where's my geek? | 197230 | [197230-wheres-my-geek.json](./197230-wheres-my-geek.json) |
 | Where's My Hentai Deck? Castle Hunt | 389621 | [389621-wheres-my-hentai-deck-castle-hunt.json](./389621-wheres-my-hentai-deck-castle-hunt.json) |
+| Where's My Kitty | 338374 | [338374-wheres-my-kitty.json](./338374-wheres-my-kitty.json) |
 | Where's My Mickey? | 63275 | [63275-wheres-my-mickey.json](./63275-wheres-my-mickey.json) |
 | Where's My Perry? | 65064 | [65064-wheres-my-perry.json](./65064-wheres-my-perry.json) |
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
@@ -1577,8 +1601,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskey Bravo | 189174 | [189174-whiskey-bravo.json](./189174-whiskey-bravo.json) |
 | Whiskey Island | 148467 | [148467-whiskey-island.json](./148467-whiskey-island.json) |
 | Whiskey Mafia: Leo's Family | 133141 | [133141-whiskey-mafia-leos-family.json](./133141-whiskey-mafia-leos-family.json) |
+| Whiskey-Four | 338373 | [338373-whiskey-four.json](./338373-whiskey-four.json) |
 | Whisper Forest | 304611 | [304611-whisper-forest.json](./304611-whisper-forest.json) |
 | Whisper of the House | 312555 | [312555-whisper-of-the-house.json](./312555-whisper-of-the-house.json) |
+| Whisper of the Shade: Gray | 338372 | [338372-whisper-of-the-shade-gray.json](./338372-whisper-of-the-shade-gray.json) |
 | Whisper Trip | 154008 | [154008-whisper-trip.json](./154008-whisper-trip.json) |
 | Whispered Flight | 274738 | [274738-whispered-flight.json](./274738-whispered-flight.json) |
 | Whispered Secrets: Cruise of Misfortune - Collector's Edition | 338697 | [338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json](./338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json) |
@@ -1604,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
 | Whispers In The Woods | 410452 | [410452-whispers-in-the-woods.json](./410452-whispers-in-the-woods.json) |
 | Whispers of Elenrod | 378401 | [378401-whispers-of-elenrod.json](./378401-whispers-of-elenrod.json) |
+| Whispers of Fear | 338370 | [338370-whispers-of-fear.json](./338370-whispers-of-fear.json) |
 | Whispers of Silence | 296517 | [296517-whispers-of-silence.json](./296517-whispers-of-silence.json) |
 | Whispers of The Abyss | 301269 | [301269-whispers-of-the-abyss.json](./301269-whispers-of-the-abyss.json) |
 | Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
@@ -1692,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Is This Man | 113570 | [113570-who-is-this-man.json](./113570-who-is-this-man.json) |
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
+| Who Made This | 338369 | [338369-who-made-this.json](./338369-who-made-this.json) |
 | Who Made this Art? Human or AI | 286652 | [286652-who-made-this-art-human-or-ai.json](./286652-who-made-this-art-human-or-ai.json) |
 | Who Must Die | 33112 | [33112-who-must-die.json](./33112-who-must-die.json) |
 | Who owns the kangaroo? | 71215 | [71215-who-owns-the-kangaroo.json](./71215-who-owns-the-kangaroo.json) |
@@ -1724,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
+| Whoopi | 338368 | [338368-whoopi.json](./338368-whoopi.json) |
 | Whooshy Dragon | 349932 | [349932-whooshy-dragon.json](./349932-whooshy-dragon.json) |
 | Whoowasit? | 381712 | [381712-whoowasit.json](./381712-whoowasit.json) |
 | Whoowasit? - Children's game of the year 2008 | 100727 | [100727-whoowasit-childrens-game-of-the-year-2008.json](./100727-whoowasit-childrens-game-of-the-year-2008.json) |
@@ -1832,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Lynx Jigsaw: Expansion Pack 2 | 357969 | [357969-wild-lynx-jigsaw-expansion-pack-2.json](./357969-wild-lynx-jigsaw-expansion-pack-2.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
+| Wild Ones Battle Stadium | 338365 | [338365-wild-ones-battle-stadium.json](./338365-wild-ones-battle-stadium.json) |
 | Wild Pinball Bundle | 166684 | [166684-wild-pinball-bundle.json](./166684-wild-pinball-bundle.json) |
 | Wild Planet | 137049 | [137049-wild-planet.json](./137049-wild-planet.json) |
 | Wild Radio Flux | 236943 | [236943-wild-radio-flux.json](./236943-wild-radio-flux.json) |
@@ -1885,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildaria | 322197 | [322197-wildaria.json](./322197-wildaria.json) |
 | WildBorn | 398589 | [398589-wildborn.json](./398589-wildborn.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
+| Wildcat Snack Attack | 338366 | [338366-wildcat-snack-attack.json](./338366-wildcat-snack-attack.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
 | Wildemist Isle | 129008 | [129008-wildemist-isle.json](./129008-wildemist-isle.json) |
@@ -2069,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
+| Wings of the Kite in Sky | 338364 | [338364-wings-of-the-kite-in-sky.json](./338364-wings-of-the-kite-in-sky.json) |
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
 | Wings of Wor | 105255 | [105255-wings-of-wor.json](./105255-wings-of-wor.json) |
 | Wings Over China: Air Battles of the Flying Tigers | 69563 | [69563-wings-over-china-air-battles-of-the-flying-tigers.json](./69563-wings-over-china-air-battles-of-the-flying-tigers.json) |
@@ -2089,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winkeltje: The Little Shop | 114493 | [114493-winkeltje-the-little-shop.json](./114493-winkeltje-the-little-shop.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
 | Winner | 130946 | [130946-winner.json](./130946-winner.json) |
+| Winner In Life | 338363 | [338363-winner-in-life.json](./338363-winner-in-life.json) |
 | Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
 | Winner's Circle | 269662 | [269662-winners-circle.json](./269662-winners-circle.json) |
 | Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
