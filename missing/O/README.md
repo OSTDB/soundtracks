@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oak Adventure the Maze | 235473 | [235473-oak-adventure-the-maze.json](./235473-oak-adventure-the-maze.json) |
 | Oak Defenders | 183514 | [183514-oak-defenders.json](./183514-oak-defenders.json) |
 | Oak Hill | 219043 | [219043-oak-hill.json](./219043-oak-hill.json) |
+| Oaken Tower | 345143 | [345143-oaken-tower.json](./345143-oaken-tower.json) |
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
 | Oakwood | 112433 | [112433-oakwood.json](./112433-oakwood.json) |
 | Oakwood Academy of Spells and Sorcery | 90196 | [90196-oakwood-academy-of-spells-and-sorcery.json](./90196-oakwood-academy-of-spells-and-sorcery.json) |
@@ -839,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One by One | 184631 | [184631-one-by-one.json](./184631-one-by-one.json) |
 | One By One | 195714 | [195714-one-by-one.json](./195714-one-by-one.json) |
 | One Card One Shot: Mafia | 244359 | [244359-one-card-one-shot-mafia.json](./244359-one-card-one-shot-mafia.json) |
+| One Click | 345122 | [345122-one-click.json](./345122-one-click.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
 | One Day for Revenge | 104020 | [104020-one-day-for-revenge.json](./104020-one-day-for-revenge.json) |
 | One Day in London | 32931 | [32931-one-day-in-london.json](./32931-one-day-in-london.json) |
