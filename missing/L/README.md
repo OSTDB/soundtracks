@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Inua | 10494 | [10494-last-inua.json](./10494-last-inua.json) |
 | Last Island | 134628 | [134628-last-island.json](./134628-last-island.json) |
 | Last Joy | 126591 | [126591-last-joy.json](./126591-last-joy.json) |
+| Last Kingdom | 361305 | [361305-last-kingdom.json](./361305-last-kingdom.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
 | Last Labyrinth | 109245 | [109245-last-labyrinth.json](./109245-last-labyrinth.json) |
 | Last Labyrinth: Collector's Edition | 139973 | [139973-last-labyrinth-collectors-edition.json](./139973-last-labyrinth-collectors-edition.json) |
