@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Creations! | 41569 | [41569-keyboard-creations.json](./41569-keyboard-creations.json) |
 | Keyboard Crush | 320983 | [320983-keyboard-crush.json](./320983-keyboard-crush.json) |
 | Keyboard Kommander | 125418 | [125418-keyboard-kommander.json](./125418-keyboard-kommander.json) |
+| Keyboard Party | 363036 | [363036-keyboard-party.json](./363036-keyboard-party.json) |
 | Keyboard Simulator | 360575 | [360575-keyboard-simulator.json](./360575-keyboard-simulator.json) |
 | Keyboard Soldier | 340788 | [340788-keyboard-soldier.json](./340788-keyboard-soldier.json) |
 | Keyboard Warrior Simulator | 351711 | [351711-keyboard-warrior-simulator.json](./351711-keyboard-warrior-simulator.json) |
