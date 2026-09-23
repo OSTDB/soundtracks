@@ -358,9 +358,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman 2: Shutsugeki Katoku Tai | 41323 | [41323-ultraman-2-shutsugeki-katoku-tai.json](./41323-ultraman-2-shutsugeki-katoku-tai.json) |
 | Ultraman All-Star Chronicle | 59362 | [59362-ultraman-all-star-chronicle.json](./59362-ultraman-all-star-chronicle.json) |
 | Ultraman Ball | 76600 | [76600-ultraman-ball.json](./76600-ultraman-ball.json) |
+| Ultraman Club: Ultra Schwatch | 385840 | [385840-ultraman-club-ultra-schwatch.json](./385840-ultraman-club-ultra-schwatch.json) |
 | Ultraman Fighting Evolution | 78940 | [78940-ultraman-fighting-evolution.json](./78940-ultraman-fighting-evolution.json) |
 | Ultraman Fighting Evolution 2 | 72608 | [72608-ultraman-fighting-evolution-2.json](./72608-ultraman-fighting-evolution-2.json) |
 | Ultraman Nexus | 66390 | [66390-ultraman-nexus.json](./66390-ultraman-nexus.json) |
+| Ultraman: Kaijuu Daikessen | 385839 | [385839-ultraman-kaijuu-daikessen.json](./385839-ultraman-kaijuu-daikessen.json) |
 | Ultraman: Kaijuu Teikoku no Gyakushuu | 41333 | [41333-ultraman-kaijuu-teikoku-no-gyakushuu.json](./41333-ultraman-kaijuu-teikoku-no-gyakushuu.json) |
 | Ultramarine: The Retro Game | 400450 | [400450-ultramarine-the-retro-game.json](./400450-ultramarine-the-retro-game.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
