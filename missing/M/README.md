@@ -1654,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marty's Funducational Tour! | 348845 | [348845-martys-funducational-tour.json](./348845-martys-funducational-tour.json) |
 | Martyrdom | 290520 | [290520-martyrdom.json](./290520-martyrdom.json) |
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
+| Maru Expedition: We Can Fly | 357427 | [357427-maru-expedition-we-can-fly.json](./357427-maru-expedition-we-can-fly.json) |
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
 | Maruja Mallo | 226732 | [226732-maruja-mallo.json](./226732-maruja-mallo.json) |
 | Marvel 1943: Rise of Hydra | 216315 | [216315-marvel-1943-rise-of-hydra.json](./216315-marvel-1943-rise-of-hydra.json) |
@@ -2441,12 +2442,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior Online: Desperada Legendary Mech Pack | 357338 | [357338-mechwarrior-online-desperada-legendary-mech-pack.json](./357338-mechwarrior-online-desperada-legendary-mech-pack.json) |
 | MechWarrior Online: Gauntlet Mech Pack | 357320 | [357320-mechwarrior-online-gauntlet-mech-pack.json](./357320-mechwarrior-online-gauntlet-mech-pack.json) |
 | MechWarrior Online: Gausszilla Legendary Mech Pack | 357341 | [357341-mechwarrior-online-gausszilla-legendary-mech-pack.json](./357341-mechwarrior-online-gausszilla-legendary-mech-pack.json) |
+| MechWarrior Online: Gorewing Legendary Mech Pack | 357410 | [357410-mechwarrior-online-gorewing-legendary-mech-pack.json](./357410-mechwarrior-online-gorewing-legendary-mech-pack.json) |
 | MechWarrior Online: Hashké and Abaddon Legendary Mech Pack | 357330 | [357330-mechwarrior-online-hashke-and-abaddon-legendary-mech-pack.json](./357330-mechwarrior-online-hashke-and-abaddon-legendary-mech-pack.json) |
 | MechWarrior Online: Moonwalker Legendary Mech Pack | 357331 | [357331-mechwarrior-online-moonwalker-legendary-mech-pack.json](./357331-mechwarrior-online-moonwalker-legendary-mech-pack.json) |
 | MechWarrior Online: Naomi Legendary Mech Pack | 357325 | [357325-mechwarrior-online-naomi-legendary-mech-pack.json](./357325-mechwarrior-online-naomi-legendary-mech-pack.json) |
 | MechWarrior Online: Noble Legendary Mech Pack | 357321 | [357321-mechwarrior-online-noble-legendary-mech-pack.json](./357321-mechwarrior-online-noble-legendary-mech-pack.json) |
 | MechWarrior Online: Red Reaper II Legendary Mech Pack | 357328 | [357328-mechwarrior-online-red-reaper-ii-legendary-mech-pack.json](./357328-mechwarrior-online-red-reaper-ii-legendary-mech-pack.json) |
+| MechWarrior Online: Seraph Legendary Mech Pack | 357409 | [357409-mechwarrior-online-seraph-legendary-mech-pack.json](./357409-mechwarrior-online-seraph-legendary-mech-pack.json) |
 | MechWarrior Online: Sigma Legendary Mech Pack | 357322 | [357322-mechwarrior-online-sigma-legendary-mech-pack.json](./357322-mechwarrior-online-sigma-legendary-mech-pack.json) |
+| MechWarrior Online: Sovereign Legendary Mech Pack | 357411 | [357411-mechwarrior-online-sovereign-legendary-mech-pack.json](./357411-mechwarrior-online-sovereign-legendary-mech-pack.json) |
 | MechWarrior Online: Spectre Legendary Mech Pack | 357324 | [357324-mechwarrior-online-spectre-legendary-mech-pack.json](./357324-mechwarrior-online-spectre-legendary-mech-pack.json) |
 | MechWarrior Online: Spitfire Legendary Mech Pack | 357343 | [357343-mechwarrior-online-spitfire-legendary-mech-pack.json](./357343-mechwarrior-online-spitfire-legendary-mech-pack.json) |
 | MechWarrior Online: Starshot Legendary Mech Pack | 357323 | [357323-mechwarrior-online-starshot-legendary-mech-pack.json](./357323-mechwarrior-online-starshot-legendary-mech-pack.json) |
@@ -5372,6 +5376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Chef | 91086 | [91086-monster-chef.json](./91086-monster-chef.json) |
 | Monster Chronicle | 56473 | [56473-monster-chronicle.json](./56473-monster-chronicle.json) |
 | Monster Clash 2 | 205591 | [205591-monster-clash-2.json](./205591-monster-clash-2.json) |
+| Monster Claws 5 | 357408 | [357408-monster-claws-5.json](./357408-monster-claws-5.json) |
 | Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
 | Monster Collector | 143647 | [143647-monster-collector.json](./143647-monster-collector.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
@@ -5593,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Ramp Stunt | 246431 | [246431-monster-truck-ramp-stunt.json](./246431-monster-truck-ramp-stunt.json) |
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
 | Monster Trux: Offroad | 21500 | [21500-monster-trux-offroad.json](./21500-monster-trux-offroad.json) |
+| Monster Tutor | 357455 | [357455-monster-tutor.json](./357455-monster-tutor.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
 | Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
