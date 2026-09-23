@@ -3288,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm of the Dome | 245908 | [245908-grimm-of-the-dome.json](./245908-grimm-of-the-dome.json) |
 | Grimm Shuffle | 158670 | [158670-grimm-shuffle.json](./158670-grimm-shuffle.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
+| Grimm: Quest for the Gatherer's Key | 363039 | [363039-grimm-quest-for-the-gatherers-key.json](./363039-grimm-quest-for-the-gatherers-key.json) |
 | Grimm's Hatchery | 73510 | [73510-grimms-hatchery.json](./73510-grimms-hatchery.json) |
 | Grimm's Hollow | 125110 | [125110-grimms-hollow.json](./125110-grimms-hollow.json) |
 | Grimms Notes | 193846 | [193846-grimms-notes.json](./193846-grimms-notes.json) |
