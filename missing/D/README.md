@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fantasy: Epic Jigsaw Puzzle | 137441 | [137441-dark-fantasy-epic-jigsaw-puzzle.json](./137441-dark-fantasy-epic-jigsaw-puzzle.json) |
 | Dark Fantasy: Jigsaw Puzzle | 111774 | [111774-dark-fantasy-jigsaw-puzzle.json](./111774-dark-fantasy-jigsaw-puzzle.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
+| Dark Farts: Parody Smell Edition | 383045 | [383045-dark-farts-parody-smell-edition.json](./383045-dark-farts-parody-smell-edition.json) |
 | Dark Fear | 20143 | [20143-dark-fear.json](./20143-dark-fear.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
@@ -3744,6 +3745,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Groove Coaster Pack | 225059 | [225059-djmax-respect-v-groove-coaster-pack.json](./225059-djmax-respect-v-groove-coaster-pack.json) |
 | DJMax Respect V: MapleStory Pack | 265635 | [265635-djmax-respect-v-maplestory-pack.json](./265635-djmax-respect-v-maplestory-pack.json) |
 | DJMax Respect V: Technika Pack | 225058 | [225058-djmax-respect-v-technika-pack.json](./225058-djmax-respect-v-technika-pack.json) |
+| DJMax Respect: Chunithm Pack | 383046 | [383046-djmax-respect-chunithm-pack.json](./383046-djmax-respect-chunithm-pack.json) |
+| DJMax Respect: Technika3 Pack | 383056 | [383056-djmax-respect-technika3-pack.json](./383056-djmax-respect-technika3-pack.json) |
+| DJMax Respect: V Liberty 2 Pack | 383050 | [383050-djmax-respect-v-liberty-2-pack.json](./383050-djmax-respect-v-liberty-2-pack.json) |
+| DJMax Respect: V Liberty 3 Pack | 383051 | [383051-djmax-respect-v-liberty-3-pack.json](./383051-djmax-respect-v-liberty-3-pack.json) |
+| DJMax Respect: V Liberty Pack | 383049 | [383049-djmax-respect-v-liberty-pack.json](./383049-djmax-respect-v-liberty-pack.json) |
 | DJMax Technika | 79271 | [79271-djmax-technika.json](./79271-djmax-technika.json) |
 | DJMax Technika 2 | 66923 | [66923-djmax-technika-2.json](./66923-djmax-technika-2.json) |
 | DJMax Technika 3 | 80198 | [80198-djmax-technika-3.json](./80198-djmax-technika-3.json) |
@@ -5946,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duckstazy Classic | 265755 | [265755-duckstazy-classic.json](./265755-duckstazy-classic.json) |
 | DuckStruck | 371326 | [371326-duckstruck.json](./371326-duckstruck.json) |
 | DuckTales: Scrooge's Loot | 78640 | [78640-ducktales-scrooges-loot.json](./78640-ducktales-scrooges-loot.json) |
+| DuckTape Inc. | 383071 | [383071-ducktape-inc.json](./383071-ducktape-inc.json) |
 | Ducktopia | 169388 | [169388-ducktopia.json](./169388-ducktopia.json) |
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
