@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Majesty's Arrival | 339132 | [339132-your-majestys-arrival.json](./339132-your-majestys-arrival.json) |
 | Your Mom | 195615 | [195615-your-mom.json](./195615-your-mom.json) |
 | Your Mom | 385608 | [385608-your-mom.json](./385608-your-mom.json) |
+| Your Painting, Sir | 383657 | [383657-your-painting-sir.json](./383657-your-painting-sir.json) |
 | Your Principal | 126596 | [126596-your-principal.json](./126596-your-principal.json) |
 | Your Riding School | 149004 | [149004-your-riding-school.json](./149004-your-riding-school.json) |
 | Your Shots Count | 277815 | [277815-your-shots-count.json](./277815-your-shots-count.json) |
@@ -665,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume: Special Edition | 195776 | [195776-yume-special-edition.json](./195776-yume-special-edition.json) |
 | Yumemi Melancholy | 222994 | [222994-yumemi-melancholy.json](./222994-yumemi-melancholy.json) |
 | Yumemidori Nostalgia | 147272 | [147272-yumemidori-nostalgia.json](./147272-yumemidori-nostalgia.json) |
+| Yumemiru Sepia | 383609 | [383609-yumemiru-sepia.json](./383609-yumemiru-sepia.json) |
 | YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
 | Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
 | Yummy Drink Factory | 295930 | [295930-yummy-drink-factory.json](./295930-yummy-drink-factory.json) |
