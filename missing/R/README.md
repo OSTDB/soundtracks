@@ -2900,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Triad: Dark War | 2380 | [2380-rise-of-the-triad-dark-war.json](./2380-rise-of-the-triad-dark-war.json) |
 | Rise of the Village Hero | 296484 | [296484-rise-of-the-village-hero.json](./296484-rise-of-the-village-hero.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
+| Rise of Transport | 365882 | [365882-rise-of-transport.json](./365882-rise-of-transport.json) |
 | Rise of Venice: Gold Edition | 53510 | [53510-rise-of-venice-gold-edition.json](./53510-rise-of-venice-gold-edition.json) |
 | Rise of Warlords | 155475 | [155475-rise-of-warlords.json](./155475-rise-of-warlords.json) |
 | Rise Out | 373027 | [373027-rise-out.json](./373027-rise-out.json) |
