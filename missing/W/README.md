@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakfu: Kelba Island | 23650 | [23650-wakfu-kelba-island.json](./23650-wakfu-kelba-island.json) |
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
+| Waking Dreams | 360733 | [360733-waking-dreams.json](./360733-waking-dreams.json) |
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
 | Waking Nightmares | 375287 | [375287-waking-nightmares.json](./375287-waking-nightmares.json) |
 | Waking the Glares - Chapter I and II | 56430 | [56430-waking-the-glares-chapter-i-and-ii.json](./56430-waking-the-glares-chapter-i-and-ii.json) |
@@ -1394,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whelm | 296363 | [296363-whelm.json](./296363-whelm.json) |
 | When Day Breaks | 216346 | [216346-when-day-breaks.json](./216346-when-day-breaks.json) |
 | When Dreams Wake | 398342 | [398342-when-dreams-wake.json](./398342-when-dreams-wake.json) |
+| When Eyes Close | 360745 | [360745-when-eyes-close.json](./360745-when-eyes-close.json) |
 | When Hell Freezes Over | 407416 | [407416-when-hell-freezes-over.json](./407416-when-hell-freezes-over.json) |
 | When I Reincarnate, I'm a Cube!? | 153970 | [153970-when-i-reincarnate-im-a-cube.json](./153970-when-i-reincarnate-im-a-cube.json) |
 | When I Said "It's Ok To Be Cringe" I Didn't Mean Like That | 300677 | [300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json](./300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json) |
@@ -2539,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
 | Wonky Works! | 189051 | [189051-wonky-works.json](./189051-wonky-works.json) |
 | Woo Woo | 388919 | [388919-woo-woo.json](./388919-woo-woo.json) |
+| Woochi the Wayfarer | 360752 | [360752-woochi-the-wayfarer.json](./360752-woochi-the-wayfarer.json) |
 | Wood & Flesh Chapter 2 | 372696 | [372696-wood-and-flesh-chapter-2.json](./372696-wood-and-flesh-chapter-2.json) |
 | Wood & Weather | 212817 | [212817-wood-and-weather.json](./212817-wood-and-weather.json) |
 | Wood and Water and Rock | 136422 | [136422-wood-and-water-and-rock.json](./136422-wood-and-water-and-rock.json) |
@@ -3348,3 +3351,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyvern Studios Solitaire: 30th Aniversary Edition | 289861 | [289861-wyvern-studios-solitaire-30th-aniversary-edition.json](./289861-wyvern-studios-solitaire-30th-aniversary-edition.json) |
 | Wyvern Wings | 109439 | [109439-wyvern-wings.json](./109439-wyvern-wings.json) |
 | WYzards | 275017 | [275017-wyzards.json](./275017-wyzards.json) |
+| Wzrds | 360754 | [360754-wzrds.json](./360754-wzrds.json) |
