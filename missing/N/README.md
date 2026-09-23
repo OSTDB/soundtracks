@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick News with Linda Ellerbee Word Search | 325083 | [325083-nick-news-with-linda-ellerbee-word-search.json](./325083-nick-news-with-linda-ellerbee-word-search.json) |
 | Nick Sports | 87199 | [87199-nick-sports.json](./87199-nick-sports.json) |
 | Nick's Night Out | 123052 | [123052-nicks-night-out.json](./123052-nicks-night-out.json) |
+| Nick's Text Adventure | 386987 | [386987-nicks-text-adventure.json](./386987-nicks-text-adventure.json) |
 | Nickelback Revenge | 66043 | [66043-nickelback-revenge.json](./66043-nickelback-revenge.json) |
 | Nickelodeon 3D Movie Maker | 62966 | [62966-nickelodeon-3d-movie-maker.json](./62966-nickelodeon-3d-movie-maker.json) |
 | Nickelodeon All-Star Brawl 2 | 259206 | [259206-nickelodeon-all-star-brawl-2.json](./259206-nickelodeon-all-star-brawl-2.json) |
