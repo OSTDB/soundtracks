@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Ming Fly Guy | 339904 | [339904-late-ming-fly-guy.json](./339904-late-ming-fly-guy.json) |
 | Late Night 1320 | 115654 | [115654-late-night-1320.json](./115654-late-night-1320.json) |
 | Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
+| Late Night Sexy TV Show | 386395 | [386395-late-night-sexy-tv-show.json](./386395-late-night-sexy-tv-show.json) |
 | Late Night Shift | 334692 | [334692-late-night-shift.json](./334692-late-night-shift.json) |
 | Late Night Talks | 225267 | [225267-late-night-talks.json](./225267-late-night-talks.json) |
 | Late Night Wanderer | 98476 | [98476-late-night-wanderer.json](./98476-late-night-wanderer.json) |
