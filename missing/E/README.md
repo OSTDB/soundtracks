@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Adventure of Randar MSX2 | 399637 | [399637-eggconsole-adventure-of-randar-msx2.json](./399637-eggconsole-adventure-of-randar-msx2.json) |
 | Eggconsole Aramo MSX | 370806 | [370806-eggconsole-aramo-msx.json](./370806-eggconsole-aramo-msx.json) |
 | Eggconsole Crystal Chaser: Overlord's Orb of the Sky - Refined PC-9801 | 378794 | [378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json](./378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json) |
+| Eggconsole Fray PC-9801 | 351228 | [351228-eggconsole-fray-pc-9801.json](./351228-eggconsole-fray-pc-9801.json) |
 | Eggconsole Guardic MSX | 323704 | [323704-eggconsole-guardic-msx.json](./323704-eggconsole-guardic-msx.json) |
 | Eggconsole Hydlide MSX | 315833 | [315833-eggconsole-hydlide-msx.json](./315833-eggconsole-hydlide-msx.json) |
 | Eggconsole Kiss of Murder PC-8801 | 375407 | [375407-eggconsole-kiss-of-murder-pc-8801.json](./375407-eggconsole-kiss-of-murder-pc-8801.json) |
@@ -1878,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game The Dr. Mouse's Lab | 298585 | [298585-escape-game-the-dr-mouses-lab.json](./298585-escape-game-the-dr-mouses-lab.json) |
 | Escape Game: Aloha | 102623 | [102623-escape-game-aloha.json](./102623-escape-game-aloha.json) |
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
+| Escape Game:The Kitty The Vacant Lot | 351229 | [351229-escape-game-the-kitty-the-vacant-lot.json](./351229-escape-game-the-kitty-the-vacant-lot.json) |
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
 | Escape If You Can | 377280 | [377280-escape-if-you-can.json](./377280-escape-if-you-can.json) |
 | Escape if you can - Buried | 101499 | [101499-escape-if-you-can-buried.json](./101499-escape-if-you-can-buried.json) |
@@ -2931,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyePet: Move Edition | 52214 | [52214-eyepet-move-edition.json](./52214-eyepet-move-edition.json) |
 | Eyepuppet Company | 358514 | [358514-eyepuppet-company.json](./358514-eyepuppet-company.json) |
 | Eyes | 299142 | [299142-eyes.json](./299142-eyes.json) |
+| Eyes Behind | 351257 | [351257-eyes-behind.json](./351257-eyes-behind.json) |
 | Eyes First: Double Up | 210742 | [210742-eyes-first-double-up.json](./210742-eyes-first-double-up.json) |
 | Eyes First: Match Two | 210741 | [210741-eyes-first-match-two.json](./210741-eyes-first-match-two.json) |
 | Eyes First: Tile Slide | 210743 | [210743-eyes-first-tile-slide.json](./210743-eyes-first-tile-slide.json) |
