@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculator360 | 81236 | [81236-calculator360.json](./81236-calculator360.json) |
 | Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
+| Calico | 366427 | [366427-calico.json](./366427-calico.json) |
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
@@ -3089,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirno's Perfect Punchout!! | 219035 | [219035-cirnos-perfect-punchout.json](./219035-cirnos-perfect-punchout.json) |
 | Cirnozardry | 292858 | [292858-cirnozardry.json](./292858-cirnozardry.json) |
 | Cirque des Animaux | 383080 | [383080-cirque-des-animaux.json](./383080-cirque-des-animaux.json) |
+| Cirque du Flea | 366412 | [366412-cirque-du-flea.json](./366412-cirque-du-flea.json) |
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
 | Citadale Resurrection: Darkness my Curse | 261867 | [261867-citadale-resurrection-darkness-my-curse.json](./261867-citadale-resurrection-darkness-my-curse.json) |
 | Citadale Resurrection: Prelude to War | 250358 | [250358-citadale-resurrection-prelude-to-war.json](./250358-citadale-resurrection-prelude-to-war.json) |
@@ -3690,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
 | Clue Kaguya-sama: Love is War | 262363 | [262363-clue-kaguya-sama-love-is-war.json](./262363-clue-kaguya-sama-love-is-war.json) |
 | Clue: Classic Mystery Game | 88928 | [88928-clue-classic-mystery-game.json](./88928-clue-classic-mystery-game.json) |
+| Clue: Secrets & Spies | 366414 | [366414-clue-secrets-and-spies.json](./366414-clue-secrets-and-spies.json) |
 | Clue/Cluedo | 262646 | [262646-clue-cluedo.json](./262646-clue-cluedo.json) |
 | Clue/Cluedo: Black Adder Resort Bundle | 262647 | [262647-clue-cluedo-black-adder-resort-bundle.json](./262647-clue-cluedo-black-adder-resort-bundle.json) |
 | Clue/Cluedo: Halloween Records | 328997 | [328997-clue-cluedo-halloween-records.json](./328997-clue-cluedo-halloween-records.json) |
@@ -5703,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
+| Crazy Cakes | 366415 | [366415-crazy-cakes.json](./366415-crazy-cakes.json) |
 | Crazy Captain Cannon: Mission - Billionaire Buster | 382437 | [382437-crazy-captain-cannon-mission-billionaire-buster.json](./382437-crazy-captain-cannon-mission-billionaire-buster.json) |
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Cars | 12550 | [12550-crazy-cars.json](./12550-crazy-cars.json) |
@@ -6236,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
+| Crossword Cove | 366416 | [366416-crossword-cove.json](./366416-crossword-cove.json) |
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
 | Crossword Explorer | 406089 | [406089-crossword-explorer.json](./406089-crossword-explorer.json) |
 | Crossword Go | 303106 | [303106-crossword-go.json](./303106-crossword-go.json) |
