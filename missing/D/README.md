@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
 | Date with Falco | 339267 | [339267-date-with-falco.json](./339267-date-with-falco.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
+| Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
 | Dating Sim | 329168 | [329168-dating-sim.json](./329168-dating-sim.json) |
@@ -6517,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunzhin | 2866 | [2866-dunzhin.json](./2866-dunzhin.json) |
 | Duō Bǎo Xiūxiān | 188524 | [188524-duo-bao-xiuxian.json](./188524-duo-bao-xiuxian.json) |
 | Duo Defenders | 172157 | [172157-duo-defenders.json](./172157-duo-defenders.json) |
+| Duo Games | 351227 | [351227-duo-games.json](./351227-duo-games.json) |
 | Duo Quest | 335274 | [335274-duo-quest.json](./335274-duo-quest.json) |
 | Duo Runner 3D | 262464 | [262464-duo-runner-3d.json](./262464-duo-runner-3d.json) |
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
