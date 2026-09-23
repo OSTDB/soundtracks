@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
 | Find Brains | 304704 | [304704-find-brains.json](./304704-find-brains.json) |
 | Find Cats | 289895 | [289895-find-cats.json](./289895-find-cats.json) |
+| Find Cats 5 | 348425 | [348425-find-cats-5.json](./348425-find-cats-5.json) |
 | Find Cats in the Casino | 400481 | [400481-find-cats-in-the-casino.json](./400481-find-cats-in-the-casino.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
@@ -2890,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipshot | 253941 | [253941-flipshot.json](./253941-flipshot.json) |
 | Flipster | 209455 | [209455-flipster.json](./209455-flipster.json) |
 | Flipstown | 192843 | [192843-flipstown.json](./192843-flipstown.json) |
+| Flipto | 348458 | [348458-flipto.json](./348458-flipto.json) |
 | Flipull | 172779 | [172779-flipull.json](./172779-flipull.json) |
 | Flipz | 249455 | [249455-flipz.json](./249455-flipz.json) |
 | Flirt | 130362 | [130362-flirt.json](./130362-flirt.json) |
@@ -4458,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogz | 329159 | [329159-frogz.json](./329159-frogz.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
+| From By | 348422 | [348422-from-by.json](./348422-from-by.json) |
 | From Cheese | 370807 | [370807-from-cheese.json](./370807-from-cheese.json) |
 | From Dust | 3160 | [3160-from-dust.json](./3160-from-dust.json) |
 | From Earth | 127928 | [127928-from-earth.json](./127928-from-earth.json) |
