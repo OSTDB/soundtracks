@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
 | Re: Danganronpa Refresh Retreat | 304349 | [304349-re-danganronpa-refresh-retreat.json](./304349-re-danganronpa-refresh-retreat.json) |
 | Re: LieF ~Shin'ainaru Anata e~ | 144956 | [144956-re-lief-shinainaru-anata-e.json](./144956-re-lief-shinainaru-anata-e.json) |
+| Re: My Dear Sister | 368648 | [368648-re-my-dear-sister.json](./368648-re-my-dear-sister.json) |
 | Re: Pian | 368035 | [368035-re-pian.json](./368035-re-pian.json) |
 | RE: Prince of Nigeria | 126001 | [126001-re-prince-of-nigeria.json](./126001-re-prince-of-nigeria.json) |
 | Re: Rem Plus | 108843 | [108843-re-rem-plus.json](./108843-re-rem-plus.json) |
@@ -1210,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebellion Anthology | 53492 | [53492-rebellion-anthology.json](./53492-rebellion-anthology.json) |
 | Rebellion Princess | 391330 | [391330-rebellion-princess.json](./391330-rebellion-princess.json) |
 | Rebellion: A Rogue Souls Like | 153393 | [153393-rebellion-a-rogue-souls-like.json](./153393-rebellion-a-rogue-souls-like.json) |
+| Rebeloid | 368668 | [368668-rebeloid.json](./368668-rebeloid.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
 | Rebels: Under the Spell of Magic - Chapter 5 | 384218 | [384218-rebels-under-the-spell-of-magic-chapter-5.json](./384218-rebels-under-the-spell-of-magic-chapter-5.json) |
@@ -1741,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Rain Sounds: Amayadori | 151669 | [151669-relaxing-rain-sounds-amayadori.json](./151669-relaxing-rain-sounds-amayadori.json) |
 | Relaxing Time: Paradise Resort - Collector's Edition | 304591 | [304591-relaxing-time-paradise-resort-collectors-edition.json](./304591-relaxing-time-paradise-resort-collectors-edition.json) |
 | Relaxing VR Games: Mahjong | 31166 | [31166-relaxing-vr-games-mahjong.json](./31166-relaxing-vr-games-mahjong.json) |
+| Relaxjong | 368677 | [368677-relaxjong.json](./368677-relaxjong.json) |
 | RelayCars | 113521 | [113521-relaycars.json](./113521-relaycars.json) |
 | Relayer | 113594 | [113594-relayer.json](./113594-relayer.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
@@ -1780,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reload Map Jam | 271844 | [271844-reload-map-jam.json](./271844-reload-map-jam.json) |
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | REM-9: The Yume Nikki Randomizer | 229704 | [229704-rem-9-the-yume-nikki-randomizer.json](./229704-rem-9-the-yume-nikki-randomizer.json) |
+| Rem: The Dreamer | 368653 | [368653-rem-the-dreamer.json](./368653-rem-the-dreamer.json) |
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
 | Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
