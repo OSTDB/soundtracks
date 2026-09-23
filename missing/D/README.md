@@ -5800,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Showcase | 186287 | [186287-drone-showcase.json](./186287-drone-showcase.json) |
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
 | Drone Simulator: Smash Zombies | 401116 | [401116-drone-simulator-smash-zombies.json](./401116-drone-simulator-smash-zombies.json) |
+| Drone Smuggler | 363575 | [363575-drone-smuggler.json](./363575-drone-smuggler.json) |
 | Drone Tactics | 21487 | [21487-drone-tactics.json](./21487-drone-tactics.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
