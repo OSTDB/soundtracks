@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catmouth Island | 36077 | [36077-catmouth-island.json](./36077-catmouth-island.json) |
 | CatMxn: Chapter 1 | 196788 | [196788-catmxn-chapter-1.json](./196788-catmxn-chapter-1.json) |
 | Catnight | 188582 | [188582-catnight.json](./188582-catnight.json) |
+| Catnigma | 376755 | [376755-catnigma.json](./376755-catnigma.json) |
 | Catnip & Coffee | 350529 | [350529-catnip-and-coffee.json](./350529-catnip-and-coffee.json) |
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
@@ -3063,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus | 206349 | [206349-circus.json](./206349-circus.json) |
 | Circus Atari | 78374 | [78374-circus-atari.json](./78374-circus-atari.json) |
 | Circus Caper | 48099 | [48099-circus-caper.json](./48099-circus-caper.json) |
+| Circus Convoy | 376721 | [376721-circus-convoy.json](./376721-circus-convoy.json) |
 | Circus Empire | 21490 | [21490-circus-empire.json](./21490-circus-empire.json) |
 | Circus Lido | 37724 | [37724-circus-lido.json](./37724-circus-lido.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
@@ -4460,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 3 | 156150 | [156150-company-of-heroes-3.json](./156150-company-of-heroes-3.json) |
 | Company of Heroes 3: Console Edition | 228537 | [228537-company-of-heroes-3-console-edition.json](./228537-company-of-heroes-3-console-edition.json) |
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
+| Company of Heroes 3: Endure & Defy | 376703 | [376703-company-of-heroes-3-endure-and-defy.json](./376703-company-of-heroes-3-endure-and-defy.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
 | Company of Heroes Online | 77294 | [77294-company-of-heroes-online.json](./77294-company-of-heroes-online.json) |
 | Company of Heroes: Battle of Crete | 127909 | [127909-company-of-heroes-battle-of-crete.json](./127909-company-of-heroes-battle-of-crete.json) |
@@ -6996,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dreamscape Battle-Deckers 2199 | 395830 | [395830-cyber-dreamscape-battle-deckers-2199.json](./395830-cyber-dreamscape-battle-deckers-2199.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
+| Cyber Girls | 376754 | [376754-cyber-girls.json](./376754-cyber-girls.json) |
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
 | Cyber Hentai | 149430 | [149430-cyber-hentai.json](./149430-cyber-hentai.json) |
 | Cyber​​ Honey | 193882 | [193882-cyber-honey.json](./193882-cyber-honey.json) |
