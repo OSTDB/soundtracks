@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Taflheim | 415313 | [415313-taflheim.json](./415313-taflheim.json) |
 | Tag | 91126 | [91126-tag.json](./91126-tag.json) |
+| Tag Game | 353502 | [353502-tag-game.json](./353502-tag-game.json) |
 | Tag Hop | 153413 | [153413-tag-hop.json](./153413-tag-hop.json) |
 | Tag League | 366328 | [366328-tag-league.json](./366328-tag-league.json) |
 | Tag of Driving | 384651 | [384651-tag-of-driving.json](./384651-tag-of-driving.json) |
@@ -827,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
 | Tanks vs. Aliens | 36500 | [36500-tanks-vs-aliens.json](./36500-tanks-vs-aliens.json) |
 | Tanks: The Crusades | 154405 | [154405-tanks-the-crusades.json](./154405-tanks-the-crusades.json) |
+| Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
 | TankTrouble - Mobile Mayhem | 88514 | [88514-tanktrouble-mobile-mayhem.json](./88514-tanktrouble-mobile-mayhem.json) |
 | Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
@@ -3349,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists: Escape Team | 51926 | [51926-the-escapists-escape-team.json](./51926-the-escapists-escape-team.json) |
 | The Escapists: Fhurst Peak Correctional Facility | 51925 | [51925-the-escapists-fhurst-peak-correctional-facility.json](./51925-the-escapists-fhurst-peak-correctional-facility.json) |
 | The Escapists: The Walking Dead | 11744 | [11744-the-escapists-the-walking-dead.json](./11744-the-escapists-the-walking-dead.json) |
+| The Esoteric Archive | 353501 | [353501-the-esoteric-archive.json](./353501-the-esoteric-archive.json) |
 | The Essence of Luna | 323509 | [323509-the-essence-of-luna.json](./323509-the-essence-of-luna.json) |
 | The Essential Selection: Sport | 73538 | [73538-the-essential-selection-sport.json](./73538-the-essential-selection-sport.json) |
 | The Eternal Castle: Remastered | 112074 | [112074-the-eternal-castle-remastered.json](./112074-the-eternal-castle-remastered.json) |
