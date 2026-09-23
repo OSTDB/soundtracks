@@ -4253,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Comic Pack | 393615 | [393615-coloring-pixels-comic-pack.json](./393615-coloring-pixels-comic-pack.json) |
 | Coloring Pixels: Fantasy Maps Pack | 351622 | [351622-coloring-pixels-fantasy-maps-pack.json](./351622-coloring-pixels-fantasy-maps-pack.json) |
 | Coloring Pixels: Fun and Games Pack | 277968 | [277968-coloring-pixels-fun-and-games-pack.json](./277968-coloring-pixels-fun-and-games-pack.json) |
+| Coloring Pixels: Gothic Pack | 354617 | [354617-coloring-pixels-gothic-pack.json](./354617-coloring-pixels-gothic-pack.json) |
 | Coloring Pixels: Halloween 6 Pack | 351620 | [351620-coloring-pixels-halloween-6-pack.json](./351620-coloring-pixels-halloween-6-pack.json) |
 | Coloring Pixels: Isometric 3 Pack | 351618 | [351618-coloring-pixels-isometric-3-pack.json](./351618-coloring-pixels-isometric-3-pack.json) |
 | Coloring Pixels: Magic Pack | 259861 | [259861-coloring-pixels-magic-pack.json](./259861-coloring-pixels-magic-pack.json) |
@@ -4819,16 +4820,51 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Site Driver 2 | 223568 | [223568-construction-site-driver-2.json](./223568-construction-site-driver-2.json) |
 | Construction: Action - Map: Ampharos | 354492 | [354492-construction-action-map-ampharos.json](./354492-construction-action-map-ampharos.json) |
 | Construction: Action - Map: Arcanine | 354493 | [354493-construction-action-map-arcanine.json](./354493-construction-action-map-arcanine.json) |
+| Construction: Action - Map: Beedrill | 354610 | [354610-construction-action-map-beedrill.json](./354610-construction-action-map-beedrill.json) |
+| Construction: Action - Map: Delibird | 354623 | [354623-construction-action-map-delibird.json](./354623-construction-action-map-delibird.json) |
+| Construction: Action - Map: E-12-# - Slugma | 354637 | [354637-construction-action-map-e-12-slugma.json](./354637-construction-action-map-e-12-slugma.json) |
 | Construction: Action - Map: Elekid | 354494 | [354494-construction-action-map-elekid.json](./354494-construction-action-map-elekid.json) |
 | Construction: Action - Map: Entei | 354499 | [354499-construction-action-map-entei.json](./354499-construction-action-map-entei.json) |
 | Construction: Action - Map: Exeggutor | 354500 | [354500-construction-action-map-exeggutor.json](./354500-construction-action-map-exeggutor.json) |
+| Construction: Action - Map: F-12-# - Slugma | 354636 | [354636-construction-action-map-f-12-slugma.json](./354636-construction-action-map-f-12-slugma.json) |
+| Construction: Action - Map: Fast Ball | 354634 | [354634-construction-action-map-fast-ball.json](./354634-construction-action-map-fast-ball.json) |
+| Construction: Action - Map: Friend Ball | 354635 | [354635-construction-action-map-friend-ball.json](./354635-construction-action-map-friend-ball.json) |
+| Construction: Action - Map: Gastly | 354624 | [354624-construction-action-map-gastly.json](./354624-construction-action-map-gastly.json) |
+| Construction: Action - Map: Gengar | 354611 | [354611-construction-action-map-gengar.json](./354611-construction-action-map-gengar.json) |
 | Construction: Action - Map: Houndoom | 354501 | [354501-construction-action-map-houndoom.json](./354501-construction-action-map-houndoom.json) |
+| Construction: Action - Map: Houndoom (Skyridge) | 354612 | [354612-construction-action-map-houndoom-skyridge.json](./354612-construction-action-map-houndoom-skyridge.json) |
 | Construction: Action - Map: Jumpluff | 354502 | [354502-construction-action-map-jumpluff.json](./354502-construction-action-map-jumpluff.json) |
+| Construction: Action - Map: Ledyba | 354625 | [354625-construction-action-map-ledyba.json](./354625-construction-action-map-ledyba.json) |
 | Construction: Action - Map: Lure Ball | 354514 | [354514-construction-action-map-lure-ball.json](./354514-construction-action-map-lure-ball.json) |
+| Construction: Action - Map: Machamp | 354613 | [354613-construction-action-map-machamp.json](./354613-construction-action-map-machamp.json) |
+| Construction: Action - Map: Machoke | 354619 | [354619-construction-action-map-machoke.json](./354619-construction-action-map-machoke.json) |
+| Construction: Action - Map: Magikarp | 354626 | [354626-construction-action-map-magikarp.json](./354626-construction-action-map-magikarp.json) |
+| Construction: Action - Map: Mareep | 354604 | [354604-construction-action-map-mareep.json](./354604-construction-action-map-mareep.json) |
+| Construction: Action - Map: Misdreavus | 354620 | [354620-construction-action-map-misdreavus.json](./354620-construction-action-map-misdreavus.json) |
 | Construction: Action - Map: Muk | 354504 | [354504-construction-action-map-muk.json](./354504-construction-action-map-muk.json) |
+| Construction: Action - Map: Nidorina | 354627 | [354627-construction-action-map-nidorina.json](./354627-construction-action-map-nidorina.json) |
+| Construction: Action - Map: Noctowl | 354621 | [354621-construction-action-map-noctowl.json](./354621-construction-action-map-noctowl.json) |
 | Construction: Action - Map: Oddish | 351676 | [351676-construction-action-map-oddish.json](./351676-construction-action-map-oddish.json) |
 | Construction: Action - Map: Parasect | 354506 | [354506-construction-action-map-parasect.json](./354506-construction-action-map-parasect.json) |
+| Construction: Action - Map: Piloswine | 354614 | [354614-construction-action-map-piloswine.json](./354614-construction-action-map-piloswine.json) |
+| Construction: Action - Map: Politoed | 354615 | [354615-construction-action-map-politoed.json](./354615-construction-action-map-politoed.json) |
+| Construction: Action - Map: Poliwag | 354628 | [354628-construction-action-map-poliwag.json](./354628-construction-action-map-poliwag.json) |
+| Construction: Action - Map: Porygon | 354605 | [354605-construction-action-map-porygon.json](./354605-construction-action-map-porygon.json) |
 | Construction: Action - Map: Primeape | 354508 | [354508-construction-action-map-primeape.json](./354508-construction-action-map-primeape.json) |
+| Construction: Action - Map: Raikou | 354616 | [354616-construction-action-map-raikou.json](./354616-construction-action-map-raikou.json) |
+| Construction: Action - Map: Raticate | 354629 | [354629-construction-action-map-raticate.json](./354629-construction-action-map-raticate.json) |
+| Construction: Action - Map: Remoraid | 354606 | [354606-construction-action-map-remoraid.json](./354606-construction-action-map-remoraid.json) |
+| Construction: Action - Map: Rhydon | 354618 | [354618-construction-action-map-rhydon.json](./354618-construction-action-map-rhydon.json) |
+| Construction: Action - Map: Sandshrew | 354630 | [354630-construction-action-map-sandshrew.json](./354630-construction-action-map-sandshrew.json) |
+| Construction: Action - Map: Seel | 354631 | [354631-construction-action-map-seel.json](./354631-construction-action-map-seel.json) |
+| Construction: Action - Map: Sentret | 354607 | [354607-construction-action-map-sentret.json](./354607-construction-action-map-sentret.json) |
+| Construction: Action - Map: Skarmory | 354632 | [354632-construction-action-map-skarmory.json](./354632-construction-action-map-skarmory.json) |
+| Construction: Action - Map: Slowpoke | 354608 | [354608-construction-action-map-slowpoke.json](./354608-construction-action-map-slowpoke.json) |
+| Construction: Action - Map: Stantler | 354633 | [354633-construction-action-map-stantler.json](./354633-construction-action-map-stantler.json) |
+| Construction: Action - Map: Starmie | 354622 | [354622-construction-action-map-starmie.json](./354622-construction-action-map-starmie.json) |
+| Construction: Action - Map: Vulpix | 354609 | [354609-construction-action-map-vulpix.json](./354609-construction-action-map-vulpix.json) |
+| Construction: Action - Player: C-46-# - Pokémon Fan Club | 354640 | [354640-construction-action-player-c-46-pokemon-fan-club.json](./354640-construction-action-player-c-46-pokemon-fan-club.json) |
+| Construction: Action - Player: D-46-# - Juggler | 354638 | [354638-construction-action-player-d-46-juggler.json](./354638-construction-action-player-d-46-juggler.json) |
 | Construction: Action - Player: E-46-# - Desert Shaman | 354489 | [354489-construction-action-player-e-46-desert-shaman.json](./354489-construction-action-player-e-46-desert-shaman.json) |
 | Construction: Action - Player: E-48-# - Underground Expedition | 354491 | [354491-construction-action-player-e-48-underground-expedition.json](./354491-construction-action-player-e-48-underground-expedition.json) |
 | Construction: Action - Player: F-47-# - Fisherman | 354490 | [354490-construction-action-player-f-47-fisherman.json](./354490-construction-action-player-f-47-fisherman.json) |
@@ -5797,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
 | Crazy Eights | 70353 | [70353-crazy-eights.json](./70353-crazy-eights.json) |
+| Crazy Er-Bert | 354650 | [354650-crazy-er-bert.json](./354650-crazy-er-bert.json) |
 | Crazy Estate | 200042 | [200042-crazy-estate.json](./200042-crazy-estate.json) |
 | Crazy Factory | 24070 | [24070-crazy-factory.json](./24070-crazy-factory.json) |
 | Crazy Fairies | 63267 | [63267-crazy-fairies.json](./63267-crazy-fairies.json) |
