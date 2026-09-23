@@ -156,6 +156,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Berlin | 283866 | [283866-100-cats-berlin.json](./283866-100-cats-berlin.json) |
 | 100 Cats Istanbul | 334173 | [334173-100-cats-istanbul.json](./334173-100-cats-istanbul.json) |
 | 100 Cats London: Extra Content | 308930 | [308930-100-cats-london-extra-content.json](./308930-100-cats-london-extra-content.json) |
+| 100 Cats Lost in Birthday Bash | 359031 | [359031-100-cats-lost-in-birthday-bash.json](./359031-100-cats-lost-in-birthday-bash.json) |
+| 100 Cats Lost in Canada 2 | 359033 | [359033-100-cats-lost-in-canada-2.json](./359033-100-cats-lost-in-canada-2.json) |
+| 100 Cats Lost in Circus Escape | 359030 | [359030-100-cats-lost-in-circus-escape.json](./359030-100-cats-lost-in-circus-escape.json) |
+| 100 Cats Lost in Da Vinci’s Workshop | 359052 | [359052-100-cats-lost-in-da-vinci-s-workshop.json](./359052-100-cats-lost-in-da-vinci-s-workshop.json) |
+| 100 Cats Lost in Halloween Havoc | 359035 | [359035-100-cats-lost-in-halloween-havoc.json](./359035-100-cats-lost-in-halloween-havoc.json) |
+| 100 Cats Lost in Modern Art Mayhem | 359029 | [359029-100-cats-lost-in-modern-art-mayhem.json](./359029-100-cats-lost-in-modern-art-mayhem.json) |
+| 100 Cats Lost in Surreal Dreamscape | 359032 | [359032-100-cats-lost-in-surreal-dreamscape.json](./359032-100-cats-lost-in-surreal-dreamscape.json) |
+| 100 Cats Lost in the 19th Century Find & Color | 359050 | [359050-100-cats-lost-in-the-19th-century-find-and-color.json](./359050-100-cats-lost-in-the-19th-century-find-and-color.json) |
+| 100 Cats Lost in the Future Find & Color | 359034 | [359034-100-cats-lost-in-the-future-find-and-color.json](./359034-100-cats-lost-in-the-future-find-and-color.json) |
+| 100 Cats Lost in the Stone Age Find & Color | 359053 | [359053-100-cats-lost-in-the-stone-age-find-and-color.json](./359053-100-cats-lost-in-the-stone-age-find-and-color.json) |
 | 100 Cats Pakistan | 283867 | [283867-100-cats-pakistan.json](./283867-100-cats-pakistan.json) |
 | 100 Chernobyl Cats | 375450 | [375450-100-chernobyl-cats.json](./375450-100-chernobyl-cats.json) |
 | 100 Chests | 101332 | [101332-100-chests.json](./101332-100-chests.json) |
