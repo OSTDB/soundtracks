@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetr.io: Season 2 | 363973 | [363973-tetr-io-season-2.json](./363973-tetr-io-season-2.json) |
 | Tetra Dungeon | 403790 | [403790-tetra-dungeon.json](./403790-tetra-dungeon.json) |
 | Tetra for Nintendo Switch: International Edition | 187462 | [187462-tetra-for-nintendo-switch-international-edition.json](./187462-tetra-for-nintendo-switch-international-edition.json) |
+| Tetra Form | 382454 | [382454-tetra-form.json](./382454-tetra-form.json) |
 | Tetra Master | 206212 | [206212-tetra-master.json](./206212-tetra-master.json) |
 | Tetra Offline | 235313 | [235313-tetra-offline.json](./235313-tetra-offline.json) |
 | Tetra Online | 140377 | [140377-tetra-online.json](./140377-tetra-online.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Earth 2 | 126651 | [126651-the-final-earth-2.json](./126651-the-final-earth-2.json) |
 | The Final Exam | 318637 | [318637-the-final-exam.json](./318637-the-final-exam.json) |
 | The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
+| The Final Front | 382440 | [382440-the-final-front.json](./382440-the-final-front.json) |
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
 | The Final Hour | 190061 | [190061-the-final-hour.json](./190061-the-final-hour.json) |
 | The Final Hours of Mass Effect 3 | 202354 | [202354-the-final-hours-of-mass-effect-3.json](./202354-the-final-hours-of-mass-effect-3.json) |
