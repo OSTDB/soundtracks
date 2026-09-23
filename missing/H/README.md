@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Challenger Yamada | 313312 | [313312-happy-challenger-yamada.json](./313312-happy-challenger-yamada.json) |
 | Happy Color Links | 277834 | [277834-happy-color-links.json](./277834-happy-color-links.json) |
 | Happy Cook | 200118 | [200118-happy-cook.json](./200118-happy-cook.json) |
+| Happy Cookies | 365261 | [365261-happy-cookies.json](./365261-happy-cookies.json) |
 | Happy Critters | 33419 | [33419-happy-critters.json](./33419-happy-critters.json) |
 | Happy Day | 158165 | [158165-happy-day.json](./158165-happy-day.json) |
 | Happy Day | 388974 | [388974-happy-day.json](./388974-happy-day.json) |
@@ -2412,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats on Christmas | 380707 | [380707-hidden-cats-on-christmas.json](./380707-hidden-cats-on-christmas.json) |
 | Hidden Cats: Castle | 412261 | [412261-hidden-cats-castle.json](./412261-hidden-cats-castle.json) |
 | Hidden Cats: Magic Forest | 277297 | [277297-hidden-cats-magic-forest.json](./277297-hidden-cats-magic-forest.json) |
+| Hidden Cats: Zombie Hunter | 365284 | [365284-hidden-cats-zombie-hunter.json](./365284-hidden-cats-zombie-hunter.json) |
 | Hidden City Top-Down 3D | 267460 | [267460-hidden-city-top-down-3d.json](./267460-hidden-city-top-down-3d.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
@@ -3125,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Crew | 416806 | [416806-hollow-crew.json](./416806-hollow-crew.json) |
 | Hollow Cries | 125198 | [125198-hollow-cries.json](./125198-hollow-cries.json) |
 | Hollow Ghost | 144779 | [144779-hollow-ghost.json](./144779-hollow-ghost.json) |
+| Hollow Ground | 365295 | [365295-hollow-ground.json](./365295-hollow-ground.json) |
 | Hollow Halls | 29905 | [29905-hollow-halls.json](./29905-hollow-halls.json) |
 | Hollow Hide | 414422 | [414422-hollow-hide.json](./414422-hollow-hide.json) |
 | Hollow Hills National Park | 402287 | [402287-hollow-hills-national-park.json](./402287-hollow-hills-national-park.json) |
@@ -3595,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror House | 112161 | [112161-horror-house.json](./112161-horror-house.json) |
 | Horror House Part II | 112160 | [112160-horror-house-part-ii.json](./112160-horror-house-part-ii.json) |
 | Horror Hunt | 121600 | [121600-horror-hunt.json](./121600-horror-hunt.json) |
+| Horror in the Forest | 365258 | [365258-horror-in-the-forest.json](./365258-horror-in-the-forest.json) |
 | Horror In Valkeala | 192951 | [192951-horror-in-valkeala.json](./192951-horror-in-valkeala.json) |
 | Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
 | Horror Legends | 111603 | [111603-horror-legends.json](./111603-horror-legends.json) |
