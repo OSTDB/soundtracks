@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egnima | 349320 | [349320-egnima.json](./349320-egnima.json) |
 | Ego Effect | 174842 | [174842-ego-effect.json](./174842-ego-effect.json) |
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
+| Ego League | 373768 | [373768-ego-league.json](./373768-ego-league.json) |
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
 | Egregore | 139230 | [139230-egregore.json](./139230-egregore.json) |
 | Egregore | 310046 | [310046-egregore.json](./310046-egregore.json) |
@@ -2575,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eXceed 3rd: Jade Penetrate Black Package | 10967 | [10967-exceed-3rd-jade-penetrate-black-package.json](./10967-exceed-3rd-jade-penetrate-black-package.json) |
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
 | eXceed Gun Bullet Children | 9290 | [9290-exceed-gun-bullet-children.json](./9290-exceed-gun-bullet-children.json) |
+| Excellent | 373738 | [373738-excellent.json](./373738-excellent.json) |
 | Excellent Game | 374274 | [374274-excellent-game.json](./374274-excellent-game.json) |
 | Excelsior | 39852 | [39852-excelsior.json](./39852-excelsior.json) |
 | Exception; | 129166 | [129166-exception.json](./129166-exception.json) |
