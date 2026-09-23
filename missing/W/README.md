@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Golf? A Hole New World | 264343 | [264343-what-the-golf-a-hole-new-world.json](./264343-what-the-golf-a-hole-new-world.json) |
 | What the Golf? It's Snowtime | 264344 | [264344-what-the-golf-its-snowtime.json](./264344-what-the-golf-its-snowtime.json) |
 | What the Golf? Sporty Sports! | 135804 | [135804-what-the-golf-sporty-sports.json](./135804-what-the-golf-sporty-sports.json) |
+| What The Hack! | 351278 | [351278-what-the-hack.json](./351278-what-the-hack.json) |
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
 | What Trash? | 158684 | [158684-what-trash.json](./158684-what-trash.json) |
