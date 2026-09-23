@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Games | 48100 | [48100-caveman-games.json](./48100-caveman-games.json) |
 | Caveman HD | 102744 | [102744-caveman-hd.json](./102744-caveman-hd.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
+| Caveman Jump Jump | 345681 | [345681-caveman-jump-jump.json](./345681-caveman-jump-jump.json) |
 | Caveman Ninja | 12834 | [12834-caveman-ninja.json](./12834-caveman-ninja.json) |
 | Caveman Ransom | 245952 | [245952-caveman-ransom.json](./245952-caveman-ransom.json) |
 | CaveMan Rock | 43504 | [43504-caveman-rock.json](./43504-caveman-rock.json) |
@@ -4605,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Componut | 174195 | [174195-componut.json](./174195-componut.json) |
 | Compound | 28927 | [28927-compound.json](./28927-compound.json) |
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
+| Compression | 345664 | [345664-compression.json](./345664-compression.json) |
 | Compromised | 79596 | [79596-compromised.json](./79596-compromised.json) |
 | Compu-Tron x3000 | 338291 | [338291-compu-tron-x3000.json](./338291-compu-tron-x3000.json) |
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
@@ -5112,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corala: Deity's Loom | 388388 | [388388-corala-deitys-loom.json](./388388-corala-deitys-loom.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Corallo | 202243 | [202243-corallo.json](./202243-corallo.json) |
+| CorAstral | 345685 | [345685-corastral.json](./345685-corastral.json) |
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | Cordel Lands | 393823 | [393823-cordel-lands.json](./393823-cordel-lands.json) |
