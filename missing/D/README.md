@@ -4955,6 +4955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Panda's Restaurant | 87345 | [87345-dr-pandas-restaurant.json](./87345-dr-pandas-restaurant.json) |
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
 | Dr. Parking 4 | 345600 | [345600-dr-parking-4.json](./345600-dr-parking-4.json) |
+| Dr. Plague | 338915 | [338915-dr-plague.json](./338915-dr-plague.json) |
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
 | Dr. Psycho: Hospital Escape | 401115 | [401115-dr-psycho-hospital-escape.json](./401115-dr-psycho-hospital-escape.json) |
 | Dr. Rabbit's Toothpaste Tower | 320989 | [320989-dr-rabbits-toothpaste-tower.json](./320989-dr-rabbits-toothpaste-tower.json) |
