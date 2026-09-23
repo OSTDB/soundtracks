@@ -3093,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deep: Ushinawareta Shinkai | 410223 | [410223-the-deep-ushinawareta-shinkai.json](./410223-the-deep-ushinawareta-shinkai.json) |
 | The Deepening: Eco-Offensive | 155992 | [155992-the-deepening-eco-offensive.json](./155992-the-deepening-eco-offensive.json) |
 | The Deepest Castle | 400872 | [400872-the-deepest-castle.json](./400872-the-deepest-castle.json) |
+| The Deepwatch | 341649 | [341649-the-deepwatch.json](./341649-the-deepwatch.json) |
 | The Deer | 117688 | [117688-the-deer.json](./117688-the-deer.json) |
 | The Defenders: The Second Wave | 35708 | [35708-the-defenders-the-second-wave.json](./35708-the-defenders-the-second-wave.json) |
 | The Defiant | 375948 | [375948-the-defiant.json](./375948-the-defiant.json) |
@@ -8620,6 +8621,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Bunny | 131653 | [131653-tiny-bunny.json](./131653-tiny-bunny.json) |
 | Tiny Candy Guardian | 264034 | [264034-tiny-candy-guardian.json](./264034-tiny-candy-guardian.json) |
 | Tiny Card Battle | 181249 | [181249-tiny-card-battle.json](./181249-tiny-card-battle.json) |
+| Tiny Chao Garden | 341691 | [341691-tiny-chao-garden.json](./341691-tiny-chao-garden.json) |
+| Tiny Chao Garden | 341693 | [341693-tiny-chao-garden.json](./341693-tiny-chao-garden.json) |
+| Tiny Chao Garden | 341694 | [341694-tiny-chao-garden.json](./341694-tiny-chao-garden.json) |
 | Tiny Chills: Not From Ear | 395024 | [395024-tiny-chills-not-from-ear.json](./395024-tiny-chills-not-from-ear.json) |
 | Tiny Clusters | 177477 | [177477-tiny-clusters.json](./177477-tiny-clusters.json) |
 | Tiny Combat Arena | 154015 | [154015-tiny-combat-arena.json](./154015-tiny-combat-arena.json) |
