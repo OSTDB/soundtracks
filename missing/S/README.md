@@ -3364,6 +3364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
 | Shopkins: Top Trumps | 82140 | [82140-shopkins-top-trumps.json](./82140-shopkins-top-trumps.json) |
 | Shopkins: Who's Next? | 98791 | [98791-shopkins-whos-next.json](./98791-shopkins-whos-next.json) |
+| Shopocalypse: Pro-Shopping Simulator | 366395 | [366395-shopocalypse-pro-shopping-simulator.json](./366395-shopocalypse-pro-shopping-simulator.json) |
 | Shoppe Keep 2 | 68842 | [68842-shoppe-keep-2.json](./68842-shoppe-keep-2.json) |
 | Shopper's Paradise | 70404 | [70404-shoppers-paradise.json](./70404-shoppers-paradise.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
