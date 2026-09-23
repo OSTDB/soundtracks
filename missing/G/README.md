@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl with a Heart of | 64906 | [64906-girl-with-a-heart-of.json](./64906-girl-with-a-heart-of.json) |
 | Girl Zone | 66945 | [66945-girl-zone.json](./66945-girl-zone.json) |
 | Girl!Panic!!! | 415108 | [415108-girl-panic.json](./415108-girl-panic.json) |
+| Girl.exe.exe | 345680 | [345680-girl-exe-exe.json](./345680-girl-exe-exe.json) |
 | Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
 | Girl's Garden | 6106 | [6106-girls-garden.json](./6106-girls-garden.json) |
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
@@ -1779,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globulation 2 | 124609 | [124609-globulation-2.json](./124609-globulation-2.json) |
 | Globulos Mania | 62447 | [62447-globulos-mania.json](./62447-globulos-mania.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
+| Gloctopus | 345682 | [345682-gloctopus.json](./345682-gloctopus.json) |
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
 | Gloom | 3030 | [3030-gloom.json](./3030-gloom.json) |
