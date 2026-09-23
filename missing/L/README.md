@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Fetiche Maya | 10848 | [10848-le-fetiche-maya.json](./10848-le-fetiche-maya.json) |
 | Le Frenchie | 151036 | [151036-le-frenchie.json](./151036-le-frenchie.json) |
 | Le Fruit Défendu | 142233 | [142233-le-fruit-defendu.json](./142233-le-fruit-defendu.json) |
+| Le Gardien du Savoir | 340553 | [340553-le-gardien-du-savoir.json](./340553-le-gardien-du-savoir.json) |
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters to Heaven | 274463 | [274463-letters-to-heaven.json](./274463-letters-to-heaven.json) |
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
 | LettersFall 110% | 392794 | [392794-lettersfall-110.json](./392794-lettersfall-110.json) |
+| Lettters | 340564 | [340564-lettters.json](./340564-lettters.json) |
 | Lettuce Fish | 404977 | [404977-lettuce-fish.json](./404977-lettuce-fish.json) |
 | Letux Game | 199469 | [199469-letux-game.json](./199469-letux-game.json) |
 | Levania | 367018 | [367018-levania.json](./367018-levania.json) |
@@ -2380,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
 | Living Legends: Frozen Beauty Collector's Edition | 355542 | [355542-living-legends-frozen-beauty-collectors-edition.json](./355542-living-legends-frozen-beauty-collectors-edition.json) |
 | Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
+| Living Legends: The Red Trace - Collector's Edition | 340557 | [340557-living-legends-the-red-trace-collectors-edition.json](./340557-living-legends-the-red-trace-collectors-edition.json) |
 | Living Legends: Voice of the Sea | 187963 | [187963-living-legends-voice-of-the-sea.json](./187963-living-legends-voice-of-the-sea.json) |
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
 | Living Metal | 295406 | [295406-living-metal.json](./295406-living-metal.json) |
