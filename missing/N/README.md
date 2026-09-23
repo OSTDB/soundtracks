@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Before Blackgate | 399096 | [399096-nightmare-before-blackgate.json](./399096-nightmare-before-blackgate.json) |
 | Nightmare Before Disney: Halloween Edition | 270751 | [270751-nightmare-before-disney-halloween-edition.json](./270751-nightmare-before-disney-halloween-edition.json) |
 | Nightmare Below Disney | 270671 | [270671-nightmare-below-disney.json](./270671-nightmare-below-disney.json) |
+| Nightmare Break | 340550 | [340550-nightmare-break.json](./340550-nightmare-break.json) |
 | Nightmare Breaker | 230312 | [230312-nightmare-breaker.json](./230312-nightmare-breaker.json) |
 | Nightmare Burger Hell | 181885 | [181885-nightmare-burger-hell.json](./181885-nightmare-burger-hell.json) |
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
 | Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
+| Nomad Drive | 340570 | [340570-nomad-drive.json](./340570-nomad-drive.json) |
 | Nomad Fleet | 18955 | [18955-nomad-fleet.json](./18955-nomad-fleet.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
@@ -2369,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
 | Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
+| NomNomNom | 340580 | [340580-nomnomnom.json](./340580-nomnomnom.json) |
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
 | Noms the Fish | 112367 | [112367-noms-the-fish.json](./112367-noms-the-fish.json) |
 | Non Euclidean Room | 356877 | [356877-non-euclidean-room.json](./356877-non-euclidean-room.json) |
