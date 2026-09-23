@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mare | 177407 | [177407-mare.json](./177407-mare.json) |
 | Mare | 25933 | [25933-mare.json](./25933-mare.json) |
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
+| MareDare | 348962 | [348962-maredare.json](./348962-maredare.json) |
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
 | Margo: The Bean Adventure | 174305 | [174305-margo-the-bean-adventure.json](./174305-margo-the-bean-adventure.json) |
@@ -7251,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life As An Alchemist | 289430 | [289430-my-life-as-an-alchemist.json](./289430-my-life-as-an-alchemist.json) |
 | My Life Changed | 165708 | [165708-my-life-changed.json](./165708-my-life-changed.json) |
 | My Life in a Monster Girl Paradise | 403025 | [403025-my-life-in-a-monster-girl-paradise.json](./403025-my-life-in-a-monster-girl-paradise.json) |
+| My Life with You | 348969 | [348969-my-life-with-you.json](./348969-my-life-with-you.json) |
 | My Life: Farm Vet | 282143 | [282143-my-life-farm-vet.json](./282143-my-life-farm-vet.json) |
 | My Life: Pet Vet | 220875 | [220875-my-life-pet-vet.json](./220875-my-life-pet-vet.json) |
 | My Lil Afterlife | 347757 | [347757-my-lil-afterlife.json](./347757-my-lil-afterlife.json) |
