@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Breaking Out | 358347 | [358347-its-breaking-out.json](./358347-its-breaking-out.json) |
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
 | It's Dungeon Time! | 172748 | [172748-its-dungeon-time.json](./172748-its-dungeon-time.json) |
+| It's Fine | 382473 | [382473-its-fine.json](./382473-its-fine.json) |
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
 | It's good to be a pirate | 110780 | [110780-its-good-to-be-a-pirate.json](./110780-its-good-to-be-a-pirate.json) |
 | It's Happening Again. | 241482 | [241482-its-happening-again.json](./241482-its-happening-again.json) |
