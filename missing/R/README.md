@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reply All | 350055 | [350055-reply-all.json](./350055-reply-all.json) |
 | Report One | 322808 | [322808-report-one.json](./322808-report-one.json) |
 | Report One: Operation Alive | 322809 | [322809-report-one-operation-alive.json](./322809-report-one-operation-alive.json) |
+| Report: Horror Haul | 345705 | [345705-report-horror-haul.json](./345705-report-horror-haul.json) |
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
 | Repose | 272831 | [272831-repose.json](./272831-repose.json) |
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
@@ -3843,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollScape | 295403 | [295403-rollscape.json](./295403-rollscape.json) |
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
+| Rolly Rails | 345701 | [345701-rolly-rails.json](./345701-rolly-rails.json) |
 | Rolly's Adventure | 119560 | [119560-rollys-adventure.json](./119560-rollys-adventure.json) |
 | Rolo to the Rescue | 46200 | [46200-rolo-to-the-rescue.json](./46200-rolo-to-the-rescue.json) |
 | Roly Poly Putt | 251663 | [251663-roly-poly-putt.json](./251663-roly-poly-putt.json) |
