@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Ball | 60588 | [60588-odd-ball.json](./60588-odd-ball.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
+| Odd One Out | 380129 | [380129-odd-one-out.json](./380129-odd-one-out.json) |
 | Odd Sequence | 296396 | [296396-odd-sequence.json](./296396-odd-sequence.json) |
 | Odd Town | 278965 | [278965-odd-town.json](./278965-odd-town.json) |
 | Odd-mensional | 184117 | [184117-odd-mensional.json](./184117-odd-mensional.json) |
@@ -1307,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opposites | 202775 | [202775-opposites.json](./202775-opposites.json) |
 | Opposyte | 258459 | [258459-opposyte.json](./258459-opposyte.json) |
 | Opps! They Love Me Way Too Much! | 292163 | [292163-opps-they-love-me-way-too-much.json](./292163-opps-they-love-me-way-too-much.json) |
+| Oprost | 380109 | [380109-oprost.json](./380109-oprost.json) |
 | Opscam | 337156 | [337156-opscam.json](./337156-opscam.json) |
 | Optasia: The Last Visit | 391034 | [391034-optasia-the-last-visit.json](./391034-optasia-the-last-visit.json) |
 | Optica | 107226 | [107226-optica.json](./107226-optica.json) |
@@ -2056,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Season 13 - Spellbinder | 319357 | [319357-overwatch-2-season-13-spellbinder.json](./319357-overwatch-2-season-13-spellbinder.json) |
 | Overwatch 2: Season 16 - Stadium | 341007 | [341007-overwatch-2-season-16-stadium.json](./341007-overwatch-2-season-16-stadium.json) |
 | Overwatch 2: Season 18 - Stadium Quickplay | 362281 | [362281-overwatch-2-season-18-stadium-quickplay.json](./362281-overwatch-2-season-18-stadium-quickplay.json) |
+| Overwatch 2: Season 20 - Vendetta | 380108 | [380108-overwatch-2-season-20-vendetta.json](./380108-overwatch-2-season-20-vendetta.json) |
 | Overwatch 2: Season 4 - Space Opera | 243933 | [243933-overwatch-2-season-4-space-opera.json](./243933-overwatch-2-season-4-space-opera.json) |
 | Overwatch 2: Season 6 - Invasion | 252842 | [252842-overwatch-2-season-6-invasion.json](./252842-overwatch-2-season-6-invasion.json) |
 | Overwatch: Legendary Edition | 118848 | [118848-overwatch-legendary-edition.json](./118848-overwatch-legendary-edition.json) |
