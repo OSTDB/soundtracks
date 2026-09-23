@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
 | Magic Weapon | 358310 | [358310-magic-weapon.json](./358310-magic-weapon.json) |
+| Magic Weapon | 377301 | [377301-magic-weapon.json](./377301-magic-weapon.json) |
 | Magic Wizard | 130862 | [130862-magic-wizard.json](./130862-magic-wizard.json) |
 | Magic: ManaStrike | 125270 | [125270-magic-manastrike.json](./125270-magic-manastrike.json) |
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
@@ -2289,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meanwhile | 22329 | [22329-meanwhile.json](./22329-meanwhile.json) |
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
+| Meat | 377302 | [377302-meat.json](./377302-meat.json) |
 | Meat | 383500 | [383500-meat.json](./383500-meat.json) |
 | Meat & Greed | 203546 | [203546-meat-and-greed.json](./203546-meat-and-greed.json) |
 | Meat Beating: No More Horny | 156640 | [156640-meat-beating-no-more-horny.json](./156640-meat-beating-no-more-horny.json) |
@@ -2343,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechaBlight | 390625 | [390625-mechablight.json](./390625-mechablight.json) |
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechafare | 393125 | [393125-mechafare.json](./393125-mechafare.json) |
+| Mechamice | 377276 | [377276-mechamice.json](./377276-mechamice.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
