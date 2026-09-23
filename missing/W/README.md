@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Legion - Resistance Edition | 142847 | [142847-watch-dogs-legion-resistance-edition.json](./142847-watch-dogs-legion-resistance-edition.json) |
 | Watch Dogs: Legion - Season Pass | 142845 | [142845-watch-dogs-legion-season-pass.json](./142845-watch-dogs-legion-season-pass.json) |
 | Watch Dogs: Legion - Ultimate Edition | 119574 | [119574-watch-dogs-legion-ultimate-edition.json](./119574-watch-dogs-legion-ultimate-edition.json) |
+| Watch Grass Grow Simulator | 384224 | [384224-watch-grass-grow-simulator.json](./384224-watch-grass-grow-simulator.json) |
 | Watch Out! | 100220 | [100220-watch-out.json](./100220-watch-out.json) |
 | Watch out!!! | 304191 | [304191-watch-out.json](./304191-watch-out.json) |
 | Watch This! | 33129 | [33129-watch-this.json](./33129-watch-this.json) |
@@ -2514,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodle Tree Bundle | 173795 | [173795-woodle-tree-bundle.json](./173795-woodle-tree-bundle.json) |
 | Woodroid HD+ | 233742 | [233742-woodroid-hd.json](./233742-woodroid-hd.json) |
 | Woods of War | 329153 | [329153-woods-of-war.json](./329153-woods-of-war.json) |
+| Woodswalker | 384195 | [384195-woodswalker.json](./384195-woodswalker.json) |
 | Woodsy | 101602 | [101602-woodsy.json](./101602-woodsy.json) |
 | Woodturning 3D | 287664 | [287664-woodturning-3d.json](./287664-woodturning-3d.json) |
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
