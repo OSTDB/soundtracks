@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy As Stone | 322601 | [322601-heavy-as-stone.json](./322601-heavy-as-stone.json) |
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
+| Heavy Duty Inc. | 389088 | [389088-heavy-duty-inc.json](./389088-heavy-duty-inc.json) |
 | Heavy Fire: Afghanistan | 982 | [982-heavy-fire-afghanistan.json](./982-heavy-fire-afghanistan.json) |
 | Heavy Fire: Black Arms | 65497 | [65497-heavy-fire-black-arms.json](./65497-heavy-fire-black-arms.json) |
 | Heavy Gear Assault | 26704 | [26704-heavy-gear-assault.json](./26704-heavy-gear-assault.json) |
@@ -3460,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
 | Hopping Girl Kohane EX | 234734 | [234734-hopping-girl-kohane-ex.json](./234734-hopping-girl-kohane-ex.json) |
 | Hopping girl Kohane Jumping Kingdom: Princess of the Black Rabbit | 124022 | [124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json](./124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json) |
+| Hopping Ninja-san | 389112 | [389112-hopping-ninja-san.json](./389112-hopping-ninja-san.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hoppy Bobby | 58494 | [58494-hoppy-bobby.json](./58494-hoppy-bobby.json) |
 | Hopscotch | 262430 | [262430-hopscotch.json](./262430-hopscotch.json) |
