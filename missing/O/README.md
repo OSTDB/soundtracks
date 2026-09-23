@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oden Cart: A Heartwarming Tale | 159288 | [159288-oden-cart-a-heartwarming-tale.json](./159288-oden-cart-a-heartwarming-tale.json) |
 | Oden-kun Tamagotchi | 229963 | [229963-oden-kun-tamagotchi.json](./229963-oden-kun-tamagotchi.json) |
 | Oden-kun: Oden-mura no Tanoshii Nakama-tachi | 327599 | [327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json](./327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json) |
+| Oden-ya Ninjou Monogatari 3: Seiya ni Kiseki ga Yattekuru | 356260 | [356260-oden-ya-ninjou-monogatari-3-seiya-ni-kiseki-ga-yattekuru.json](./356260-oden-ya-ninjou-monogatari-3-seiya-ni-kiseki-ga-yattekuru.json) |
 | Odens öga | 304035 | [304035-odens-oga.json](./304035-odens-oga.json) |
 | Odessa | 333649 | [333649-odessa.json](./333649-odessa.json) |
 | Odezie | 129753 | [129753-odezie.json](./129753-odezie.json) |
@@ -438,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh! Edo Towns | 65526 | [65526-oh-edo-towns.json](./65526-oh-edo-towns.json) |
 | OH! My Office | 223992 | [223992-oh-my-office.json](./223992-oh-my-office.json) |
 | Oh! My Sister's Slit Is... | 97839 | [97839-oh-my-sisters-slit-is.json](./97839-oh-my-sisters-slit-is.json) |
+| Oh! Robot: Legendary Mechanic | 356300 | [356300-oh-robot-legendary-mechanic.json](./356300-oh-robot-legendary-mechanic.json) |
 | Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
 | Oh...Sir! Prototype | 90604 | [90604-oh-sir-prototype.json](./90604-oh-sir-prototype.json) |
 | Oh...Sir! The Hollywood Roast | 29994 | [29994-oh-sir-the-hollywood-roast.json](./29994-oh-sir-the-hollywood-roast.json) |
@@ -741,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Wuppertal Buslinie 639 | 155144 | [155144-omsi-2-wuppertal-buslinie-639.json](./155144-omsi-2-wuppertal-buslinie-639.json) |
 | OMSI 2: Yorkshire Counties | 155108 | [155108-omsi-2-yorkshire-counties.json](./155108-omsi-2-yorkshire-counties.json) |
 | Omvorm | 109494 | [109494-omvorm.json](./109494-omvorm.json) |
+| On & Off Racing | 356302 | [356302-on-and-off-racing.json](./356302-on-and-off-racing.json) |
 | On a Roll 3D: Levels 7 - 9 | 197382 | [197382-on-a-roll-3d-levels-7-9.json](./197382-on-a-roll-3d-levels-7-9.json) |
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
 | On Air | 122173 | [122173-on-air.json](./122173-on-air.json) |
