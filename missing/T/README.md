@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tequila Zombies | 93552 | [93552-tequila-zombies.json](./93552-tequila-zombies.json) |
 | Tequila Zombies 2 | 93551 | [93551-tequila-zombies-2.json](./93551-tequila-zombies-2.json) |
 | Tequila Zombies 3: Things to Die For | 59063 | [59063-tequila-zombies-3-things-to-die-for.json](./59063-tequila-zombies-3-things-to-die-for.json) |
+| Tera: La Cité des Crânes | 356857 | [356857-tera-la-cite-des-cranes.json](./356857-tera-la-cite-des-cranes.json) |
 | Teraburst | 394174 | [394174-teraburst.json](./394174-teraburst.json) |
 | Teraphobia | 159250 | [159250-teraphobia.json](./159250-teraphobia.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
@@ -5866,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret World | 1064 | [1064-the-secret-world.json](./1064-the-secret-world.json) |
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
 | The Secrets of Atlantis: The Sacred Legacy | 19458 | [19458-the-secrets-of-atlantis-the-sacred-legacy.json](./19458-the-secrets-of-atlantis-the-sacred-legacy.json) |
+| The Secrets of Bharas | 356874 | [356874-the-secrets-of-bharas.json](./356874-the-secrets-of-bharas.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
 | The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
@@ -5914,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Years War (1756-1763) | 13666 | [13666-the-seven-years-war-1756-1763.json](./13666-the-seven-years-war-1756-1763.json) |
 | The Seven Years War (1756-1763): Pomeranian War | 171610 | [171610-the-seven-years-war-1756-1763-pomeranian-war.json](./171610-the-seven-years-war-1756-1763-pomeranian-war.json) |
 | The Seventh Floor | 337152 | [337152-the-seventh-floor.json](./337152-the-seventh-floor.json) |
+| The Seventh Link | 356863 | [356863-the-seventh-link.json](./356863-the-seventh-link.json) |
 | The Seventh Seal | 389595 | [389595-the-seventh-seal.json](./389595-the-seventh-seal.json) |
 | The Several Journeys of Reemus Chapter 2: The All-Knowing Parasite | 110311 | [110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json](./110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json) |
 | The Severed Gods | 370921 | [370921-the-severed-gods.json](./370921-the-severed-gods.json) |
@@ -8380,6 +8383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Heals | 385304 | [385304-time-heals.json](./385304-time-heals.json) |
 | Time Heist | 180753 | [180753-time-heist.json](./180753-time-heist.json) |
 | Time Hoppers: The Silk Road | 231374 | [231374-time-hoppers-the-silk-road.json](./231374-time-hoppers-the-silk-road.json) |
+| Time Horn: Il Corno del Tempo | 356873 | [356873-time-horn-il-corno-del-tempo.json](./356873-time-horn-il-corno-del-tempo.json) |
 | Time Hunters | 132041 | [132041-time-hunters.json](./132041-time-hunters.json) |
 | Time Is Honey | 285968 | [285968-time-is-honey.json](./285968-time-is-honey.json) |
 | Time is Life | 306345 | [306345-time-is-life.json](./306345-time-is-life.json) |
@@ -10750,6 +10754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tranz Am | 45358 | [45358-tranz-am.json](./45358-tranz-am.json) |
 | Trap | 98772 | [98772-trap.json](./98772-trap.json) |
 | Trap Adventure 2: Origins | 196322 | [196322-trap-adventure-2-origins.json](./196322-trap-adventure-2-origins.json) |
+| Trap Again | 356885 | [356885-trap-again.json](./356885-trap-again.json) |
 | Trap and Turn | 210640 | [210640-trap-and-turn.json](./210640-trap-and-turn.json) |
 | Trap Attack | 257107 | [257107-trap-attack.json](./257107-trap-attack.json) |
 | Trap Defense | 102174 | [102174-trap-defense.json](./102174-trap-defense.json) |
@@ -11887,6 +11892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
 | Two Coins | 151008 | [151008-two-coins.json](./151008-two-coins.json) |
 | Two Colours | 201712 | [201712-two-colours.json](./201712-two-colours.json) |
+| Two Days | 356898 | [356898-two-days.json](./356898-two-days.json) |
 | Two Days to the Race | 304179 | [304179-two-days-to-the-race.json](./304179-two-days-to-the-race.json) |
 | Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
 | Two Doors | 305928 | [305928-two-doors.json](./305928-two-doors.json) |
