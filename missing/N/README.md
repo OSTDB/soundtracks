@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
 | Nightmare Collection: Telephone Call | 293657 | [293657-nightmare-collection-telephone-call.json](./293657-nightmare-collection-telephone-call.json) |
 | Nightmare Cops | 51522 | [51522-nightmare-cops.json](./51522-nightmare-cops.json) |
+| Nightmare Creatures | 341699 | [341699-nightmare-creatures.json](./341699-nightmare-creatures.json) |
 | Nightmare Creatures II | 45860 | [45860-nightmare-creatures-ii.json](./45860-nightmare-creatures-ii.json) |
 | Nightmare Delivery | 411670 | [411670-nightmare-delivery.json](./411670-nightmare-delivery.json) |
 | Nightmare Diary | 229703 | [229703-nightmare-diary.json](./229703-nightmare-diary.json) |
