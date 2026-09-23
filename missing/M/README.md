@@ -3589,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
 | Metamorphosis | 319216 | [319216-metamorphosis.json](./319216-metamorphosis.json) |
 | Metamorphosis Collection | 346801 | [346801-metamorphosis-collection.json](./346801-metamorphosis-collection.json) |
+| Metaneurosis | 337286 | [337286-metaneurosis.json](./337286-metaneurosis.json) |
 | Metanoia | 101326 | [101326-metanoia.json](./101326-metanoia.json) |
 | Metanoia | 322564 | [322564-metanoia.json](./322564-metanoia.json) |
 | MetaOps | 186241 | [186241-metaops.json](./186241-metaops.json) |
@@ -7677,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
 | Mystery of Mortlake Mansion | 65188 | [65188-mystery-of-mortlake-mansion.json](./65188-mystery-of-mortlake-mansion.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
+| Mystery of Myths: Heart of Athens - Collector's Edition | 337258 | [337258-mystery-of-myths-heart-of-athens-collectors-edition.json](./337258-mystery-of-myths-heart-of-athens-collectors-edition.json) |
 | Mystery of the Ancients: Curse of the Black Water - Collector's Edition | 107837 | [107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json](./107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json) |
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
 | Mystery of the Crystal Portal | 25453 | [25453-mystery-of-the-crystal-portal.json](./25453-mystery-of-the-crystal-portal.json) |
@@ -7780,6 +7782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
 | Mystical Realms Collection | 201854 | [201854-mystical-realms-collection.json](./201854-mystical-realms-collection.json) |
 | Mystical Riddles: Ghostly Park DLC | 361775 | [361775-mystical-riddles-ghostly-park-dlc.json](./361775-mystical-riddles-ghostly-park-dlc.json) |
+| Mystical Riddles: Haunted Portraits - Collector's Edition | 337262 | [337262-mystical-riddles-haunted-portraits-collectors-edition.json](./337262-mystical-riddles-haunted-portraits-collectors-edition.json) |
 | Mystical Samurai | 136453 | [136453-mystical-samurai.json](./136453-mystical-samurai.json) |
 | Mystical Stones | 247172 | [247172-mystical-stones.json](./247172-mystical-stones.json) |
 | Mystics Ablaze | 383345 | [383345-mystics-ablaze.json](./383345-mystics-ablaze.json) |
@@ -7804,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth of Mirka | 209670 | [209670-myth-of-mirka.json](./209670-myth-of-mirka.json) |
 | Myth of Mist: Legacy | 167766 | [167766-myth-of-mist-legacy.json](./167766-myth-of-mist-legacy.json) |
 | Myth of Valderit | 386842 | [386842-myth-of-valderit.json](./386842-myth-of-valderit.json) |
+| Myth or Reality: Snowbound Secrets - Collector's Edition | 337277 | [337277-myth-or-reality-snowbound-secrets-collectors-edition.json](./337277-myth-or-reality-snowbound-secrets-collectors-edition.json) |
 | Myth Survivor | 337642 | [337642-myth-survivor.json](./337642-myth-survivor.json) |
 | Myth: Anthology | 72025 | [72025-myth-anthology.json](./72025-myth-anthology.json) |
 | Myth: History in the Making | 12187 | [12187-myth-history-in-the-making.json](./12187-myth-history-in-the-making.json) |
