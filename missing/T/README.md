@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
+| Terraria: Bigger and Boulder | 386978 | [386978-terraria-bigger-and-boulder.json](./386978-terraria-bigger-and-boulder.json) |
 | Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
 | Terraria: Lunar Veil Mod | 361816 | [361816-terraria-lunar-veil-mod.json](./361816-terraria-lunar-veil-mod.json) |
 | Terraria: Mod of Redemption | 223036 | [223036-terraria-mod-of-redemption.json](./223036-terraria-mod-of-redemption.json) |
@@ -3569,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gambit Lost to Time | 327173 | [327173-the-gambit-lost-to-time.json](./327173-the-gambit-lost-to-time.json) |
 | The Game | 187522 | [187522-the-game.json](./187522-the-game.json) |
 | The Game 15 | 56163 | [56163-the-game-15.json](./56163-the-game-15.json) |
+| The Game Has Started | 387007 | [387007-the-game-has-started.json](./387007-the-game-has-started.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
 | The Game Of Death | 276156 | [276156-the-game-of-death.json](./276156-the-game-of-death.json) |
 | The Game of Life | 106271 | [106271-the-game-of-life.json](./106271-the-game-of-life.json) |
@@ -4513,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Robin Hood | 267953 | [267953-the-legend-of-robin-hood.json](./267953-the-legend-of-robin-hood.json) |
 | The Legend of Santa | 256344 | [256344-the-legend-of-santa.json](./256344-the-legend-of-santa.json) |
 | The Legend of Sebb Linus | 289297 | [289297-the-legend-of-sebb-linus.json](./289297-the-legend-of-sebb-linus.json) |
+| The Legend of Shonan | 387002 | [387002-the-legend-of-shonan.json](./387002-the-legend-of-shonan.json) |
 | The Legend of Sky Stones | 307951 | [307951-the-legend-of-sky-stones.json](./307951-the-legend-of-sky-stones.json) |
 | The Legend of Snow Maiden | 298598 | [298598-the-legend-of-snow-maiden.json](./298598-the-legend-of-snow-maiden.json) |
 | The Legend of Spyro: A New Beginning | 300392 | [300392-the-legend-of-spyro-a-new-beginning.json](./300392-the-legend-of-spyro-a-new-beginning.json) |
@@ -9771,6 +9774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
 | Towers Saga | 391719 | [391719-towers-saga.json](./391719-towers-saga.json) |
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
+| ToWhere? | 387006 | [387006-towhere.json](./387006-towhere.json) |
 | Towing Race | 239045 | [239045-towing-race.json](./239045-towing-race.json) |
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
@@ -9982,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
 | Train Frontier Classic | 72486 | [72486-train-frontier-classic.json](./72486-train-frontier-classic.json) |
+| Train Goes Right | 386979 | [386979-train-goes-right.json](./386979-train-goes-right.json) |
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
 | Train Mechanic Simulator 2017 | 27940 | [27940-train-mechanic-simulator-2017.json](./27940-train-mechanic-simulator-2017.json) |
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
@@ -10983,6 +10988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Throwing Sports | 85459 | [85459-triple-throwing-sports.json](./85459-triple-throwing-sports.json) |
 | Triple Tiles | 178548 | [178548-triple-tiles.json](./178548-triple-tiles.json) |
 | Triple Tournament | 313098 | [313098-triple-tournament.json](./313098-triple-tournament.json) |
+| Triple Triad | 386989 | [386989-triple-triad.json](./386989-triple-triad.json) |
 | Triple X Tycoon | 31892 | [31892-triple-x-tycoon.json](./31892-triple-x-tycoon.json) |
 | Triple Yatzy for iPad | 101494 | [101494-triple-yatzy-for-ipad.json](./101494-triple-yatzy-for-ipad.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
