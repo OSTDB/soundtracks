@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taboo Trial: Deluxe Edition | 315850 | [315850-taboo-trial-deluxe-edition.json](./315850-taboo-trial-deluxe-edition.json) |
 | Taboo Trial: Skadi | 270780 | [270780-taboo-trial-skadi.json](./270780-taboo-trial-skadi.json) |
 | Taboo Trial: Skuld | 270781 | [270781-taboo-trial-skuld.json](./270781-taboo-trial-skuld.json) |
+| Taboo University Book One | 348979 | [348979-taboo-university-book-one.json](./348979-taboo-university-book-one.json) |
 | Taboo Village: Romance Card Game | 415953 | [415953-taboo-village-romance-card-game.json](./415953-taboo-village-romance-card-game.json) |
 | Taboo: Official Party Game | 376140 | [376140-taboo-official-party-game.json](./376140-taboo-official-party-game.json) |
 | Tabou Stories: Love Episodes | 311675 | [311675-tabou-stories-love-episodes.json](./311675-tabou-stories-love-episodes.json) |
@@ -665,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Music Star | 229957 | [229957-tamagotchi-music-star.json](./229957-tamagotchi-music-star.json) |
 | Tamagotchi Nano Colorful Detective Conan | 304044 | [304044-tamagotchi-nano-colorful-detective-conan.json](./304044-tamagotchi-nano-colorful-detective-conan.json) |
 | Tamagotchi Nano Colorful Hololive Fantasitchi | 320984 | [320984-tamagotchi-nano-colorful-hololive-fantasitchi.json](./320984-tamagotchi-nano-colorful-hololive-fantasitchi.json) |
+| Tamagotchi Nano Peanuts | 348959 | [348959-tamagotchi-nano-peanuts.json](./348959-tamagotchi-nano-peanuts.json) |
 | Tamagotchi no Appare! Niji-Venture | 77623 | [77623-tamagotchi-no-appare-niji-venture.json](./77623-tamagotchi-no-appare-niji-venture.json) |
 | Tamagotchi no Furi Furi Kagekidan! | 77620 | [77620-tamagotchi-no-furi-furi-kagekidan.json](./77620-tamagotchi-no-furi-furi-kagekidan.json) |
 | Tamagotchi no Kira-kira Omisecchi | 77625 | [77625-tamagotchi-no-kira-kira-omisecchi.json](./77625-tamagotchi-no-kira-kira-omisecchi.json) |
@@ -5168,6 +5170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Murder of Yesterday | 405714 | [405714-the-murder-of-yesterday.json](./405714-the-murder-of-yesterday.json) |
 | The Murderer | 69801 | [69801-the-murderer.json](./69801-the-murderer.json) |
 | The Muse | 319556 | [319556-the-muse.json](./319556-the-muse.json) |
+| The Museum | 348961 | [348961-the-museum.json](./348961-the-museum.json) |
 | The Museum Sentinel | 355100 | [355100-the-museum-sentinel.json](./355100-the-museum-sentinel.json) |
 | The Mushroom Season | 215228 | [215228-the-mushroom-season.json](./215228-the-mushroom-season.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
@@ -9653,6 +9656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouchFish | 137011 | [137011-touchfish.json](./137011-touchfish.json) |
 | Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
+| Touching Grass Simulator | 348985 | [348985-touching-grass-simulator.json](./348985-touching-grass-simulator.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
 | Touchtone | 15550 | [15550-touchtone.json](./15550-touchtone.json) |
 | Toufra | 262948 | [262948-toufra.json](./262948-toufra.json) |
@@ -11152,6 +11156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | Triggered | 87988 | [87988-triggered.json](./87988-triggered.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
+| TriggerHeart Exelica Enhanced | 348965 | [348965-triggerheart-exelica-enhanced.json](./348965-triggerheart-exelica-enhanced.json) |
 | Triggerman | 43555 | [43555-triggerman.json](./43555-triggerman.json) |
 | Triggore | 182913 | [182913-triggore.json](./182913-triggore.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
