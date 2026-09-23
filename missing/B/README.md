@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Future: The Game - Episode 3: Citizen Brown | 78250 | [78250-back-to-the-future-the-game-episode-3-citizen-brown.json](./78250-back-to-the-future-the-game-episode-3-citizen-brown.json) |
 | Back to the Future: The Game - Episode 4: Double Visions | 78252 | [78252-back-to-the-future-the-game-episode-4-double-visions.json](./78252-back-to-the-future-the-game-episode-4-double-visions.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
+| Back to the War | 355225 | [355225-back-to-the-war.json](./355225-back-to-the-war.json) |
 | Backbeat and Hexagroove: Music Strategy Bundle | 242074 | [242074-backbeat-and-hexagroove-music-strategy-bundle.json](./242074-backbeat-and-hexagroove-music-strategy-bundle.json) |
 | Backbone: Artifact Edition | 159697 | [159697-backbone-artifact-edition.json](./159697-backbone-artifact-edition.json) |
 | Backbreaker Vengeance | 22942 | [22942-backbreaker-vengeance.json](./22942-backbreaker-vengeance.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basics in Airport: Education & Learning | 107127 | [107127-basics-in-airport-education-and-learning.json](./107127-basics-in-airport-education-and-learning.json) |
 | Basil and the Isles of Spice | 334213 | [334213-basil-and-the-isles-of-spice.json](./334213-basil-and-the-isles-of-spice.json) |
 | Basil Goes O.U.T.S.I.D.E. | 202260 | [202260-basil-goes-o-u-t-s-i-d-e.json](./202260-basil-goes-o-u-t-s-i-d-e.json) |
+| Basileia Romaion 1736 | 356264 | [356264-basileia-romaion-1736.json](./356264-basileia-romaion-1736.json) |
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Bask: The Alchemist Frog | 338195 | [338195-bask-the-alchemist-frog.json](./338195-bask-the-alchemist-frog.json) |
@@ -3172,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Flower | 400966 | [400966-black-flower.json](./400966-black-flower.json) |
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
 | Black Geyser: Couriers of Darkness - Tales of the Moon Cult | 379444 | [379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json](./379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json) |
+| Black Goat | 355193 | [355193-black-goat.json](./355193-black-goat.json) |
 | Black Gold | 136436 | [136436-black-gold.json](./136436-black-gold.json) |
 | Black Gold | 14609 | [14609-black-gold.json](./14609-black-gold.json) |
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
