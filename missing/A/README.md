@@ -3201,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime: Fantasy Uni | 393625 | [393625-anime-fantasy-uni.json](./393625-anime-fantasy-uni.json) |
 | Animelee | 74774 | [74774-animelee.json](./74774-animelee.json) |
 | Animentals | 387361 | [387361-animentals.json](./387361-animentals.json) |
+| Animesports: Party Basketball! | 348431 | [348431-animesports-party-basketball.json](./348431-animesports-party-basketball.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Animosity's Duel | 133800 | [133800-animositys-duel.json](./133800-animositys-duel.json) |
@@ -3336,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Heaven | 382277 | [382277-another-heaven.json](./382277-another-heaven.json) |
 | Another Hour Another Planet | 293093 | [293093-another-hour-another-planet.json](./293093-another-hour-another-planet.json) |
 | Another Late Night | 391875 | [391875-another-late-night.json](./391875-another-late-night.json) |
+| Another Level | 348453 | [348453-another-level.json](./348453-another-level.json) |
 | Another Moon Whistle: Kuzureteku Nyuudougumo | 166143 | [166143-another-moon-whistle-kuzureteku-nyuudougumo.json](./166143-another-moon-whistle-kuzureteku-nyuudougumo.json) |
 | Another Museum | 217855 | [217855-another-museum.json](./217855-another-museum.json) |
 | Another Mythical Journey | 185091 | [185091-another-mythical-journey.json](./185091-another-mythical-journey.json) |
@@ -4032,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia Fallen: Digital Deluxe | 401669 | [401669-arcadia-fallen-digital-deluxe.json](./401669-arcadia-fallen-digital-deluxe.json) |
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
 | Arcadia: Arcade Watch Games | 254603 | [254603-arcadia-arcade-watch-games.json](./254603-arcadia-arcade-watch-games.json) |
+| Arcadia: Cloudbound | 348454 | [348454-arcadia-cloudbound.json](./348454-arcadia-cloudbound.json) |
 | Arcadian Atlas | 18868 | [18868-arcadian-atlas.json](./18868-arcadian-atlas.json) |
 | Arcadian Rift | 162245 | [162245-arcadian-rift.json](./162245-arcadian-rift.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
