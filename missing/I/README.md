@@ -1542,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Adventure | 335327 | [335327-ink-adventure.json](./335327-ink-adventure.json) |
 | Ink and Intrigue | 340753 | [340753-ink-and-intrigue.json](./340753-ink-and-intrigue.json) |
 | Ink and Paper: Wandering | 190071 | [190071-ink-and-paper-wandering.json](./190071-ink-and-paper-wandering.json) |
+| Ink Enigma: Hidden Object Challenges | 359036 | [359036-ink-enigma-hidden-object-challenges.json](./359036-ink-enigma-hidden-object-challenges.json) |
 | Ink Hero | 335331 | [335331-ink-hero.json](./335331-ink-hero.json) |
 | Ink of Fate | 278970 | [278970-ink-of-fate.json](./278970-ink-of-fate.json) |
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
