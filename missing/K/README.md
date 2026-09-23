@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalimba: The Dark Void - Solo | 170377 | [170377-kalimba-the-dark-void-solo.json](./170377-kalimba-the-dark-void-solo.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
 | Kalling Kingdom | 130731 | [130731-kalling-kingdom.json](./130731-kalling-kingdom.json) |
+| Kalma | 349470 | [349470-kalma.json](./349470-kalma.json) |
 | Kalpa | 170466 | [170466-kalpa.json](./170466-kalpa.json) |
 | Kalpa: Cosmic Symphony | 292295 | [292295-kalpa-cosmic-symphony.json](./292295-kalpa-cosmic-symphony.json) |
 | Kalpa: Cosmic Symphony - Camellia Pack | 397712 | [397712-kalpa-cosmic-symphony-camellia-pack.json](./397712-kalpa-cosmic-symphony-camellia-pack.json) |
