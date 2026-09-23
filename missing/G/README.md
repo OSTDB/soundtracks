@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Attack | 161324 | [161324-goblin-attack.json](./161324-goblin-attack.json) |
 | Goblin Attack | 408874 | [408874-goblin-attack.json](./408874-goblin-attack.json) |
 | Goblin Cleanup | 282692 | [282692-goblin-cleanup.json](./282692-goblin-cleanup.json) |
+| Goblin Clicker | 365876 | [365876-goblin-clicker.json](./365876-goblin-clicker.json) |
 | Goblin Company | 386855 | [386855-goblin-company.json](./386855-goblin-company.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin Dungeoneer | 151526 | [151526-goblin-dungeoneer.json](./151526-goblin-dungeoneer.json) |
@@ -2408,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
 | Good Dreams | 381132 | [381132-good-dreams.json](./381132-good-dreams.json) |
 | Good Folk Cafe | 394821 | [394821-good-folk-cafe.json](./394821-good-folk-cafe.json) |
+| Good for Nothing | 365865 | [365865-good-for-nothing.json](./365865-good-for-nothing.json) |
 | Good Fruit | 264110 | [264110-good-fruit.json](./264110-good-fruit.json) |
 | Good Game | 215358 | [215358-good-game.json](./215358-good-game.json) |
 | Good Girl | 107880 | [107880-good-girl.json](./107880-good-girl.json) |
@@ -3045,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Toy Showdown | 251838 | [251838-great-toy-showdown.json](./251838-great-toy-showdown.json) |
 | Great Utopia | 129016 | [129016-great-utopia.json](./129016-great-utopia.json) |
 | Great Wall March | 265212 | [265212-great-wall-march.json](./265212-great-wall-march.json) |
+| Greatest Angels | 365856 | [365856-greatest-angels.json](./365856-greatest-angels.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
 | Greatlandia Election Simulator | 413195 | [413195-greatlandia-election-simulator.json](./413195-greatlandia-election-simulator.json) |
 | Grederys | 201226 | [201226-grederys.json](./201226-grederys.json) |
@@ -3335,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grobnopolis \| Last Days | 363914 | [363914-grobnopolis-last-days.json](./363914-grobnopolis-last-days.json) |
 | Grocery Grab | 253937 | [253937-grocery-grab.json](./253937-grocery-grab.json) |
 | Grocery Quest mini | 178504 | [178504-grocery-quest-mini.json](./178504-grocery-quest-mini.json) |
+| Grocery Run | 365864 | [365864-grocery-run.json](./365864-grocery-run.json) |
 | Grocery Simulator | 306657 | [306657-grocery-simulator.json](./306657-grocery-simulator.json) |
 | Grocery Store Simulator | 326420 | [326420-grocery-store-simulator.json](./326420-grocery-store-simulator.json) |
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
