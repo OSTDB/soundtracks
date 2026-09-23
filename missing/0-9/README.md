@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Animal Second Grade Math for Kids | 58477 | [58477-123-animal-second-grade-math-for-kids.json](./58477-123-animal-second-grade-math-for-kids.json) |
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
 | 123 Kids Fun Puzzle Red | 89166 | [89166-123-kids-fun-puzzle-red.json](./89166-123-kids-fun-puzzle-red.json) |
+| 1234 Connect Puzzle | 357975 | [357975-1234-connect-puzzle.json](./357975-1234-connect-puzzle.json) |
 | 123Babycount | 89724 | [89724-123babycount.json](./89724-123babycount.json) |
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
@@ -366,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Cyber-personalities: Survivors | 348850 | [348850-16-cyber-personalities-survivors.json](./348850-16-cyber-personalities-survivors.json) |
 | 16 Personalities Simulator | 397789 | [397789-16-personalities-simulator.json](./397789-16-personalities-simulator.json) |
 | 16 Shot! Shooting Watch | 85823 | [85823-16-shot-shooting-watch.json](./85823-16-shot-shooting-watch.json) |
+| 16: The Ultimate 15 Puzzle | 357974 | [357974-16-the-ultimate-15-puzzle.json](./357974-16-the-ultimate-15-puzzle.json) |
 | 16bit-Collection Athena Vol. 01 | 97891 | [97891-16bit-collection-athena-vol-01.json](./97891-16bit-collection-athena-vol-01.json) |
 | 16bit-Collection Culture Brain Vol. 02 | 97888 | [97888-16bit-collection-culture-brain-vol-02.json](./97888-16bit-collection-culture-brain-vol-02.json) |
 | 16bit-Collection Data East Vol. 02 | 97894 | [97894-16bit-collection-data-east-vol-02.json](./97894-16bit-collection-data-east-vol-02.json) |
@@ -513,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
+| 2048Puzzle | 357973 | [357973-2048puzzle.json](./357973-2048puzzle.json) |
 | 2069 AD | 98267 | [98267-2069-ad.json](./98267-2069-ad.json) |
 | 2084 | 113154 | [113154-2084.json](./113154-2084.json) |
 | 2088: The Cryllan Mission | 57377 | [57377-2088-the-cryllan-mission.json](./57377-2088-the-cryllan-mission.json) |
@@ -532,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24 Hours 'til Rescue | 33491 | [33491-24-hours-til-rescue.json](./33491-24-hours-til-rescue.json) |
 | 24 Locks | 58470 | [58470-24-locks.json](./58470-24-locks.json) |
 | 24 Lustful Hours | 382296 | [382296-24-lustful-hours.json](./382296-24-lustful-hours.json) |
+| 24 Puzzle | 357972 | [357972-24-puzzle.json](./357972-24-puzzle.json) |
 | 24 Solar Terms | 158663 | [158663-24-solar-terms.json](./158663-24-solar-terms.json) |
 | 24: Special Ops | 91747 | [91747-24-special-ops.json](./91747-24-special-ops.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
@@ -673,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D MiniGolf | 143059 | [143059-3d-minigolf.json](./143059-3d-minigolf.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
+| 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
 | 3D Pinball Express | 97104 | [97104-3d-pinball-express.json](./97104-3d-pinball-express.json) |
 | 3D Pitfall | 92859 | [92859-3d-pitfall.json](./92859-3d-pitfall.json) |
 | 3D Pocket Pool | 92272 | [92272-3d-pocket-pool.json](./92272-3d-pocket-pool.json) |
