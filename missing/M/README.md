@@ -2613,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Cute: Finding Love | 337680 | [337680-meet-cute-finding-love.json](./337680-meet-cute-finding-love.json) |
 | Meet Cute: Muscle Rivals | 337684 | [337684-meet-cute-muscle-rivals.json](./337684-meet-cute-muscle-rivals.json) |
 | Meet Cute: Threads of Courage | 337685 | [337685-meet-cute-threads-of-courage.json](./337685-meet-cute-threads-of-courage.json) |
+| Meet Fred | 344562 | [344562-meet-fred.json](./344562-meet-fred.json) |
 | Meet Her There | 263786 | [263786-meet-her-there.json](./263786-meet-her-there.json) |
 | Meet Me at the Apple Garden | 374608 | [374608-meet-me-at-the-apple-garden.json](./374608-meet-me-at-the-apple-garden.json) |
 | Meet Media Band | 209533 | [209533-meet-media-band.json](./209533-meet-media-band.json) |
@@ -3466,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Force | 48325 | [48325-metal-force.json](./48325-metal-force.json) |
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
 | Metal Fury 3000 | 124179 | [124179-metal-fury-3000.json](./124179-metal-fury-3000.json) |
+| Metal Gear | 344546 | [344546-metal-gear.json](./344546-metal-gear.json) |
 | Metal Gear Acid | 12211 | [12211-metal-gear-acid.json](./12211-metal-gear-acid.json) |
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
@@ -7803,6 +7805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mython Island | 141840 | [141840-mython-island.json](./141840-mython-island.json) |
 | Mythos Interactive Game Collection | 341355 | [341355-mythos-interactive-game-collection.json](./341355-mythos-interactive-game-collection.json) |
 | Mythos Party | 153961 | [153961-mythos-party.json](./153961-mythos-party.json) |
+| Mythos: Book One | 344543 | [344543-mythos-book-one.json](./344543-mythos-book-one.json) |
 | Mythos: The Beginning | 36206 | [36206-mythos-the-beginning.json](./36206-mythos-the-beginning.json) |
 | Myths and Legends Bundle: Tunche & Black Book | 188026 | [188026-myths-and-legends-bundle-tunche-and-black-book.json](./188026-myths-and-legends-bundle-tunche-and-black-book.json) |
 | Myths of Moonrise | 214170 | [214170-myths-of-moonrise.json](./214170-myths-of-moonrise.json) |
