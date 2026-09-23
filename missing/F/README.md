@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Vermeer Pack | 210269 | [210269-farming-simulator-22-vermeer-pack.json](./210269-farming-simulator-22-vermeer-pack.json) |
 | Farming Simulator 23 Mobile | 250936 | [250936-farming-simulator-23-mobile.json](./250936-farming-simulator-23-mobile.json) |
 | Farming Simulator 25 | 306822 | [306822-farming-simulator-25.json](./306822-farming-simulator-25.json) |
+| Farming Simulator 25: Straw Harvest Pack | 360753 | [360753-farming-simulator-25-straw-harvest-pack.json](./360753-farming-simulator-25-straw-harvest-pack.json) |
 | Farming Simulator C64: Limited Edition | 260776 | [260776-farming-simulator-c64-limited-edition.json](./260776-farming-simulator-c64-limited-edition.json) |
 | Farming Simulator: Grow a Garden 2025 | 378801 | [378801-farming-simulator-grow-a-garden-2025.json](./378801-farming-simulator-grow-a-garden-2025.json) |
 | Farming Sweeper | 191201 | [191201-farming-sweeper.json](./191201-farming-sweeper.json) |
@@ -1071,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
 | FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
+| Fasthand | 360734 | [360734-fasthand.json](./360734-fasthand.json) |
 | Fastidious | 381013 | [381013-fastidious.json](./381013-fastidious.json) |
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
 | Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
@@ -2509,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Friedrich's | 381852 | [381852-five-nights-at-friedrichs.json](./381852-five-nights-at-friedrichs.json) |
 | Five Nights at Jaygi's: Into Dreams... | 322379 | [322379-five-nights-at-jaygis-into-dreams.json](./322379-five-nights-at-jaygis-into-dreams.json) |
 | Five Nights at Kyle's 2 | 179724 | [179724-five-nights-at-kyles-2.json](./179724-five-nights-at-kyles-2.json) |
+| Five Nights at Pikachu's | 360770 | [360770-five-nights-at-pikachus.json](./360770-five-nights-at-pikachus.json) |
 | Five Nights At Pingas | 403829 | [403829-five-nights-at-pingas.json](./403829-five-nights-at-pingas.json) |
 | Five Nights At PT's II | 412393 | [412393-five-nights-at-pts-ii.json](./412393-five-nights-at-pts-ii.json) |
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
@@ -2676,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatland: Prologue | 132035 | [132035-flatland-prologue.json](./132035-flatland-prologue.json) |
 | Flatlands | 349949 | [349949-flatlands.json](./349949-flatlands.json) |
 | FlatOut | 2667 | [2667-flatout.json](./2667-flatout.json) |
+| FlatOut 4: Total Insanity VR | 360782 | [360782-flatout-4-total-insanity-vr.json](./360782-flatout-4-total-insanity-vr.json) |
 | FlatOut 4: Total Insanity Workshop Tools | 90606 | [90606-flatout-4-total-insanity-workshop-tools.json](./90606-flatout-4-total-insanity-workshop-tools.json) |
 | Flats | 174840 | [174840-flats.json](./174840-flats.json) |
 | Flats Full of Cats | 379382 | [379382-flats-full-of-cats.json](./379382-flats-full-of-cats.json) |
@@ -3203,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folk Emerging | 244766 | [244766-folk-emerging.json](./244766-folk-emerging.json) |
 | Folk Hero | 244242 | [244242-folk-hero.json](./244242-folk-hero.json) |
 | Folk Song | 317010 | [317010-folk-song.json](./317010-folk-song.json) |
+| Folk Tales: Alageyik | 360768 | [360768-folk-tales-alageyik.json](./360768-folk-tales-alageyik.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow My Voice | 179194 | [179194-follow-my-voice.json](./179194-follow-my-voice.json) |
 | Follow Nightmare | 391589 | [391589-follow-nightmare.json](./391589-follow-nightmare.json) |
@@ -4733,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
 | Fumiko! | 27194 | [27194-fumiko.json](./27194-fumiko.json) |
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
+| Fun | 360738 | [360738-fun.json](./360738-fun.json) |
 | Fun 'N Games | 4241 | [4241-fun-n-games.json](./4241-fun-n-games.json) |
 | Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
