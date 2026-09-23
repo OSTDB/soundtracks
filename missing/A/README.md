@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alterhavoc | 283904 | [283904-alterhavoc.json](./283904-alterhavoc.json) |
 | Alteric | 32358 | [32358-alteric.json](./32358-alteric.json) |
 | AlterLife | 352860 | [352860-alterlife.json](./352860-alterlife.json) |
+| Alterna Vvelt: Blue Exorcist Another Story | 350046 | [350046-alterna-vvelt-blue-exorcist-another-story.json](./350046-alterna-vvelt-blue-exorcist-another-story.json) |
 | Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
 | Alternativa | 16031 | [16031-alternativa.json](./16031-alternativa.json) |
 | Alternative Alliance Alpha | 347713 | [347713-alternative-alliance-alpha.json](./347713-alternative-alliance-alpha.json) |
@@ -5167,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Boy Flight! | 58276 | [58276-astro-boy-flight.json](./58276-astro-boy-flight.json) |
 | Astro Boy: Omega Factor | 6310 | [6310-astro-boy-omega-factor.json](./6310-astro-boy-omega-factor.json) |
 | Astro Boy: The Video Game | 4682 | [4682-astro-boy-the-video-game.json](./4682-astro-boy-the-video-game.json) |
+| Astro Burn | 350037 | [350037-astro-burn.json](./350037-astro-burn.json) |
 | Astro Chase | 12304 | [12304-astro-chase.json](./12304-astro-chase.json) |
 | Astro Chase 3D | 107639 | [107639-astro-chase-3d.json](./107639-astro-chase-3d.json) |
 | Astro Combat | 337648 | [337648-astro-combat.json](./337648-astro-combat.json) |
