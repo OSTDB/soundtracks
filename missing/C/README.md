@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing Ice: Classic | 288372 | [288372-car-racing-ice-classic.json](./288372-car-racing-ice-classic.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
 | Car Sales Simulator 2026 | 401111 | [401111-car-sales-simulator-2026.json](./401111-car-sales-simulator-2026.json) |
+| Car Screw Escape | 377268 | [377268-car-screw-escape.json](./377268-car-screw-escape.json) |
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
@@ -2321,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chi Busters | 111738 | [111738-chi-busters.json](./111738-chi-busters.json) |
 | Chi Project | 324315 | [324315-chi-project.json](./324315-chi-project.json) |
 | Chiaroscuro | 138739 | [138739-chiaroscuro.json](./138739-chiaroscuro.json) |
+| Chiaroscuro Imago | 377300 | [377300-chiaroscuro-imago.json](./377300-chiaroscuro-imago.json) |
 | Chiaroscuro: O Jogo | 210649 | [210649-chiaroscuro-o-jogo.json](./210649-chiaroscuro-o-jogo.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
@@ -2555,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChivalBee and the Mycelium Menace | 388228 | [388228-chivalbee-and-the-mycelium-menace.json](./388228-chivalbee-and-the-mycelium-menace.json) |
 | Chivalry 2: Day One Edition | 146126 | [146126-chivalry-2-day-one-edition.json](./146126-chivalry-2-day-one-edition.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
+| Chivalry is Not Dead | 377271 | [377271-chivalry-is-not-dead.json](./377271-chivalry-is-not-dead.json) |
 | Chivalry: Deadliest Warrior | 10083 | [10083-chivalry-deadliest-warrior.json](./10083-chivalry-deadliest-warrior.json) |
 | Chivalware | 403821 | [403821-chivalware.json](./403821-chivalware.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
@@ -5378,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
 | Cozy Forest | 369084 | [369084-cozy-forest.json](./369084-cozy-forest.json) |
+| Cozy Gardener Simulator & House Renovator Simulator | 377273 | [377273-cozy-gardener-simulator-and-house-renovator-simulator.json](./377273-cozy-gardener-simulator-and-house-renovator-simulator.json) |
 | Cozy Grove | 144800 | [144800-cozy-grove.json](./144800-cozy-grove.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
 | Cozy Hamlets | 290441 | [290441-cozy-hamlets.json](./290441-cozy-hamlets.json) |
