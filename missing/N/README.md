@@ -284,6 +284,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR '15 | 44560 | [44560-nascar-15.json](./44560-nascar-15.json) |
 | Nascar 06 Mobile | 210106 | [210106-nascar-06-mobile.json](./210106-nascar-06-mobile.json) |
 | NASCAR 08 | 7103 | [7103-nascar-08.json](./7103-nascar-08.json) |
+| NASCAR 09 | 388398 | [388398-nascar-09.json](./388398-nascar-09.json) |
+| NASCAR 09 | 388399 | [388399-nascar-09.json](./388399-nascar-09.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
@@ -1691,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmist | 406906 | [406906-nightmist.json](./406906-nightmist.json) |
 | NightReaper2 | 388192 | [388192-nightreaper2.json](./388192-nightreaper2.json) |
 | Nightriderz | 159142 | [159142-nightriderz.json](./159142-nightriderz.json) |
+| Nights in Endless Dream | 388366 | [388366-nights-in-endless-dream.json](./388366-nights-in-endless-dream.json) |
 | Nights into Dreams | 199025 | [199025-nights-into-dreams.json](./199025-nights-into-dreams.json) |
 | Nights of Azure 2: Bonus Costume - Blue High School Uniform | 396394 | [396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json](./396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json) |
 | Nights of Azure: GS Saikyou Combo Set - Super Limited Edition | 212324 | [212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json](./212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json) |
@@ -2658,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Chaser | 41011 | [41011-number-chaser.json](./41011-number-chaser.json) |
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
+| Number Dungeon | 388364 | [388364-number-dungeon.json](./388364-number-dungeon.json) |
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
 | Number Islands | 139923 | [139923-number-islands.json](./139923-number-islands.json) |
 | Number Master | 223995 | [223995-number-master.json](./223995-number-master.json) |
