@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wahm | 377286 | [377286-wahm.json](./377286-wahm.json) |
 | Wai-wai Check 03/21 | 345494 | [345494-wai-wai-check-03-21.json](./345494-wai-wai-check-03-21.json) |
 | Wai-wai Check 11/15 | 345493 | [345493-wai-wai-check-11-15.json](./345493-wai-wai-check-11-15.json) |
+| Wai-wai Check 11/22 Saihousou | 341149 | [341149-wai-wai-check-11-22-saihousou.json](./341149-wai-wai-check-11-22-saihousou.json) |
 | Wai-wai Check 3-7 | 345497 | [345497-wai-wai-check-3-7.json](./345497-wai-wai-check-3-7.json) |
 | Wai-wai Check 8/26 | 345496 | [345496-wai-wai-check-8-26.json](./345496-wai-wai-check-8-26.json) |
 | Wai-wai Check! | 345492 | [345492-wai-wai-check.json](./345492-wai-wai-check.json) |
