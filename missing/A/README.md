@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | AAS Mos Apocalypse | 283871 | [283871-aas-mos-apocalypse.json](./283871-aas-mos-apocalypse.json) |
 | Aashaa | 232969 | [232969-aashaa.json](./232969-aashaa.json) |
+| AashMans Party Mix | 356897 | [356897-aashmans-party-mix.json](./356897-aashmans-party-mix.json) |
 | Aatral | 264106 | [264106-aatral.json](./264106-aatral.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
@@ -2537,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Colorado | 167679 | [167679-american-truck-simulator-colorado.json](./167679-american-truck-simulator-colorado.json) |
 | American Truck Simulator: Dragon Truck Design Pack | 263050 | [263050-american-truck-simulator-dragon-truck-design-pack.json](./263050-american-truck-simulator-dragon-truck-design-pack.json) |
 | American Truck Simulator: Farm Machinery | 278555 | [278555-american-truck-simulator-farm-machinery.json](./278555-american-truck-simulator-farm-machinery.json) |
+| American Truck Simulator: Ford Car Pack | 356896 | [356896-american-truck-simulator-ford-car-pack.json](./356896-american-truck-simulator-ford-car-pack.json) |
 | American Truck Simulator: Freightliner Cascadia (The Fifth Generation) | 353410 | [353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json](./353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json) |
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
 | American Truck Simulator: Halloween Paint Jobs Pack | 353401 | [353401-american-truck-simulator-halloween-paint-jobs-pack.json](./353401-american-truck-simulator-halloween-paint-jobs-pack.json) |
@@ -3383,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
 | Antegods | 34252 | [34252-antegods.json](./34252-antegods.json) |
+| Antepenult | 356851 | [356851-antepenult.json](./356851-antepenult.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
 | Anthem of Roses | 55067 | [55067-anthem-of-roses.json](./55067-anthem-of-roses.json) |
