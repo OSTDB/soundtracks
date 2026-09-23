@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets and Friends: Cuties Bundle | 400207 | [400207-pets-and-friends-cuties-bundle.json](./400207-pets-and-friends-cuties-bundle.json) |
 | Pets and Friends: Cuties Pack | 400208 | [400208-pets-and-friends-cuties-pack.json](./400208-pets-and-friends-cuties-pack.json) |
 | Pets and Friends: Easter Pack | 396910 | [396910-pets-and-friends-easter-pack.json](./396910-pets-and-friends-easter-pack.json) |
+| Pets and Friends: Mushrooms Pack | 371439 | [371439-pets-and-friends-mushrooms-pack.json](./371439-pets-and-friends-mushrooms-pack.json) |
 | Pets and Friends: Valentines Pack | 387686 | [387686-pets-and-friends-valentines-pack.json](./387686-pets-and-friends-valentines-pack.json) |
 | Pets at Work | 190153 | [190153-pets-at-work.json](./190153-pets-at-work.json) |
 | Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
@@ -2140,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle | 314264 | [314264-pickle.json](./314264-pickle.json) |
 | Pickle | 314284 | [314284-pickle.json](./314284-pickle.json) |
 | Pickle Frickle | 211717 | [211717-pickle-frickle.json](./211717-pickle-frickle.json) |
+| Pickle Panic | 371460 | [371460-pickle-panic.json](./371460-pickle-panic.json) |
 | Pickle Pete: Survival RPG | 245378 | [245378-pickle-pete-survival-rpg.json](./245378-pickle-pete-survival-rpg.json) |
 | Pickle Pop | 317446 | [317446-pickle-pop.json](./317446-pickle-pop.json) |
 | Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
@@ -5948,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Electric Love "Look at my eyes!" Moe Yamauchi | 105977 | [105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json](./105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json) |
 | Pure Electric Love "What do you want?" Eri Kitami | 105978 | [105978-pure-electric-love-what-do-you-want-eri-kitami.json](./105978-pure-electric-love-what-do-you-want-eri-kitami.json) |
 | Pure Evil: 2-pack | 145048 | [145048-pure-evil-2-pack.json](./145048-pure-evil-2-pack.json) |
+| Pure Heart | 371443 | [371443-pure-heart.json](./371443-pure-heart.json) |
 | Pure Hearts | 86912 | [86912-pure-hearts.json](./86912-pure-hearts.json) |
 | Pure Hentai: Gallery | 385082 | [385082-pure-hentai-gallery.json](./385082-pure-hentai-gallery.json) |
 | Pure Hentai: Moments | 385081 | [385081-pure-hentai-moments.json](./385081-pure-hentai-moments.json) |
