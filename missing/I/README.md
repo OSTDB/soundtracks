@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insect Planet TD | 111461 | [111461-insect-planet-td.json](./111461-insect-planet-td.json) |
 | Insect Planet TD | 111462 | [111462-insect-planet-td.json](./111462-insect-planet-td.json) |
 | Insect: Bombardier beetle | 158075 | [158075-insect-bombardier-beetle.json](./158075-insect-bombardier-beetle.json) |
+| Insecta Vindicta | 377278 | [377278-insecta-vindicta.json](./377278-insecta-vindicta.json) |
 | Insectarium Alternative March | 320173 | [320173-insectarium-alternative-march.json](./320173-insectarium-alternative-march.json) |
 | Insectile | 339819 | [339819-insectile.json](./339819-insectile.json) |
 | Insectipede | 119764 | [119764-insectipede.json](./119764-insectipede.json) |
