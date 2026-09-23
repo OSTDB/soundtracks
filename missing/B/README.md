@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Blood | 11335 | [11335-bad-blood.json](./11335-bad-blood.json) |
 | Bad Bots Battle Arena | 166699 | [166699-bad-bots-battle-arena.json](./166699-bad-bots-battle-arena.json) |
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
+| Bad Boy Brother | 376758 | [376758-bad-boy-brother.json](./376758-bad-boy-brother.json) |
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
 | Bad Cat | 12398 | [12398-bad-cat.json](./12398-bad-cat.json) |
 | Bad Caterpillar | 33411 | [33411-bad-caterpillar.json](./33411-bad-caterpillar.json) |
@@ -449,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldr Sky: Zero 2 | 54744 | [54744-baldr-sky-zero-2.json](./54744-baldr-sky-zero-2.json) |
 | Baldrhead: Busou Kinyuu Gaiden | 180223 | [180223-baldrhead-busou-kinyuu-gaiden.json](./180223-baldrhead-busou-kinyuu-gaiden.json) |
 | Baldric's Quest | 52619 | [52619-baldrics-quest.json](./52619-baldrics-quest.json) |
+| Baldur's Gate | 376722 | [376722-baldurs-gate.json](./376722-baldurs-gate.json) |
 | Baldur's Gate 3: Digital Deluxe Edition | 279884 | [279884-baldurs-gate-3-digital-deluxe-edition.json](./279884-baldurs-gate-3-digital-deluxe-edition.json) |
 | Baldur's Gate Compilation | 141859 | [141859-baldurs-gate-compilation.json](./141859-baldurs-gate-compilation.json) |
 | Baldur's Gate II: Enhanced Edition | 5613 | [5613-baldurs-gate-ii-enhanced-edition.json](./5613-baldurs-gate-ii-enhanced-edition.json) |
@@ -679,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang 2 Busters | 40189 | [40189-bang-2-busters.json](./40189-bang-2-busters.json) |
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
 | Bang Bang Fruit 2 | 74373 | [74373-bang-bang-fruit-2.json](./74373-bang-bang-fruit-2.json) |
+| Bang Bang Girls: Moe Panic | 376757 | [376757-bang-bang-girls-moe-panic.json](./376757-bang-bang-girls-moe-panic.json) |
 | Bang Bang Land | 241519 | [241519-bang-bang-land.json](./241519-bang-bang-land.json) |
 | Bang Bang Pull Pull | 329020 | [329020-bang-bang-pull-pull.json](./329020-bang-bang-pull-pull.json) |
 | Bang Bang Racing | 15286 | [15286-bang-bang-racing.json](./15286-bang-bang-racing.json) |
@@ -1291,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bears Gold | 62423 | [62423-battle-bears-gold.json](./62423-battle-bears-gold.json) |
 | Battle Bears Pro | 61668 | [61668-battle-bears-pro.json](./61668-battle-bears-pro.json) |
 | Battle Bears: Zombies AR | 89200 | [89200-battle-bears-zombies-ar.json](./89200-battle-bears-zombies-ar.json) |
+| Battle Beaster 2 | 376728 | [376728-battle-beaster-2.json](./376728-battle-beaster-2.json) |
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
 | Battle Bloodlines | 338197 | [338197-battle-bloodlines.json](./338197-battle-bloodlines.json) |
@@ -2688,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Girls | 169418 | [169418-bikini-girls.json](./169418-bikini-girls.json) |
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bikini Karate Babes | 51236 | [51236-bikini-karate-babes.json](./51236-bikini-karate-babes.json) |
+| Bikkuriman 2000 Kamereon Zantei no Inbou | 376733 | [376733-bikkuriman-2000-kamereon-zantei-no-inbou.json](./376733-bikkuriman-2000-kamereon-zantei-no-inbou.json) |
 | Bikkuriman 2000: Viva! Pocket Festival! | 43971 | [43971-bikkuriman-2000-viva-pocket-festival.json](./43971-bikkuriman-2000-viva-pocket-festival.json) |
 | Biko 2: Reversible Face | 22351 | [22351-biko-2-reversible-face.json](./22351-biko-2-reversible-face.json) |
 | Bilateral Table Tennis | 288355 | [288355-bilateral-table-tennis.json](./288355-bilateral-table-tennis.json) |
@@ -2879,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
 | Biped 2 | 298613 | [298613-biped-2.json](./298613-biped-2.json) |
+| Bipedal Party | 376756 | [376756-bipedal-party.json](./376756-bipedal-party.json) |
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
 | Bipolar Game | 32975 | [32975-bipolar-game.json](./32975-bipolar-game.json) |
@@ -3072,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blablaland | 286667 | [286667-blablaland.json](./286667-blablaland.json) |
 | Blablublas Battle Royale Shooter | 370787 | [370787-blablublas-battle-royale-shooter.json](./370787-blablublas-battle-royale-shooter.json) |
 | Black | 159265 | [159265-black.json](./159265-black.json) |
+| Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Baron | 118530 | [118530-black-baron.json](./118530-black-baron.json) |
 | Black Bart | 101367 | [101367-black-bart.json](./101367-black-bart.json) |
@@ -4311,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
 | Boll's Journey | 365065 | [365065-bolls-journey.json](./365065-bolls-journey.json) |
+| Bolo | 376750 | [376750-bolo.json](./376750-bolo.json) |
 | Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
 | Bolt | 222926 | [222926-bolt.json](./222926-bolt.json) |
