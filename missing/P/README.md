@@ -3902,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Payne | 216341 | [216341-polar-payne.json](./216341-polar-payne.json) |
 | Polar Penguin | 239731 | [239731-polar-penguin.json](./239731-polar-penguin.json) |
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
+| Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
 | Polarity Switch | 176342 | [176342-polarity-switch.json](./176342-polarity-switch.json) |
 | Polarize | 228582 | [228582-polarize.json](./228582-polarize.json) |
 | Polary | 163953 | [163953-polary.json](./163953-polary.json) |
