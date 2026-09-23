@@ -8148,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoils of Plunder | 163851 | [163851-spoils-of-plunder.json](./163851-spoils-of-plunder.json) |
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
+| SpongeBob and the Pit of 100 Trials | 341664 | [341664-spongebob-and-the-pit-of-100-trials.json](./341664-spongebob-and-the-pit-of-100-trials.json) |
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
 | Spongebob Boat-O-Cross | 235316 | [235316-spongebob-boat-o-cross.json](./235316-spongebob-boat-o-cross.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
@@ -9420,6 +9421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
+| Starvault | 341684 | [341684-starvault.json](./341684-starvault.json) |
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
@@ -10209,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strayed: Snowman Helmet Skin | 382428 | [382428-strayed-snowman-helmet-skin.json](./382428-strayed-snowman-helmet-skin.json) |
 | Strayed: Sundown Pack | 382430 | [382430-strayed-sundown-pack.json](./382430-strayed-sundown-pack.json) |
 | Strayed: Sweet Tooth Revolver Skin | 382422 | [382422-strayed-sweet-tooth-revolver-skin.json](./382422-strayed-sweet-tooth-revolver-skin.json) |
+| Strays of Rage | 341679 | [341679-strays-of-rage.json](./341679-strays-of-rage.json) |
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
 | Stream Bakery | 409789 | [409789-stream-bakery.json](./409789-stream-bakery.json) |
@@ -10842,6 +10845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
 | Sugar Service | 379590 | [379590-sugar-service.json](./379590-sugar-service.json) |
 | Sugar Siege | 338270 | [338270-sugar-siege.json](./338270-sugar-siege.json) |
+| Sugar Sling Showdown | 341685 | [341685-sugar-sling-showdown.json](./341685-sugar-sling-showdown.json) |
 | Sugar Story | 190091 | [190091-sugar-story.json](./190091-sugar-story.json) |
 | Sugar Style | 141795 | [141795-sugar-style.json](./141795-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
