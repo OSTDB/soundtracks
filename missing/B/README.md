@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
+| Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
 | Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
@@ -551,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
 | Balloon | 379997 | [379997-balloon.json](./379997-balloon.json) |
+| Balloon Bounce | 366401 | [366401-balloon-bounce.json](./366401-balloon-bounce.json) |
 | Balloon Bros | 381095 | [381095-balloon-bros.json](./381095-balloon-bros.json) |
 | Balloon Challenge | 57632 | [57632-balloon-challenge.json](./57632-balloon-challenge.json) |
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
@@ -1447,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
 | Battle Painters | 140542 | [140542-battle-painters.json](./140542-battle-painters.json) |
 | Battle Part | 209484 | [209484-battle-part.json](./209484-battle-part.json) |
+| Battle Phlinx | 366403 | [366403-battle-phlinx.json](./366403-battle-phlinx.json) |
 | Battle Pinball | 174187 | [174187-battle-pinball.json](./174187-battle-pinball.json) |
 | Battle Pinball | 37205 | [37205-battle-pinball.json](./37205-battle-pinball.json) |
 | Battle Pingpong | 7774 | [7774-battle-pingpong.json](./7774-battle-pingpong.json) |
@@ -1627,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleship Apollo | 143669 | [143669-battleship-apollo.json](./143669-battleship-apollo.json) |
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
+| Battleship Naval Combat | 366404 | [366404-battleship-naval-combat.json](./366404-battleship-naval-combat.json) |
 | Battleship War: Time to Sink the Fleet | 215116 | [215116-battleship-war-time-to-sink-the-fleet.json](./215116-battleship-war-time-to-sink-the-fleet.json) |
 | Battleships | 193863 | [193863-battleships.json](./193863-battleships.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
@@ -2805,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo For Kids | 102597 | [102597-bingo-for-kids.json](./102597-bingo-for-kids.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
+| Bingo Luau | 366407 | [366407-bingo-luau.json](./366407-bingo-luau.json) |
 | Bingo Master | 206140 | [206140-bingo-master.json](./206140-bingo-master.json) |
 | Bingo Pinball Gameroom | 260154 | [260154-bingo-pinball-gameroom.json](./260154-bingo-pinball-gameroom.json) |
 | Bingo Pinball Gameroom: Agogo | 265167 | [265167-bingo-pinball-gameroom-agogo.json](./265167-bingo-pinball-gameroom-agogo.json) |
@@ -2854,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard: 5th Anniversary Special Package | 145009 | [145009-biohazard-5th-anniversary-special-package.json](./145009-biohazard-5th-anniversary-special-package.json) |
 | Biohazard: Escape Room | 258461 | [258461-biohazard-escape-room.json](./258461-biohazard-escape-room.json) |
 | Biohazard: Siberia | 324324 | [324324-biohazard-siberia.json](./324324-biohazard-siberia.json) |
+| Bioleech | 366419 | [366419-bioleech.json](./366419-bioleech.json) |
 | Biolum | 149552 | [149552-biolum.json](./149552-biolum.json) |
 | Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
 | Biome Conquest | 227943 | [227943-biome-conquest.json](./227943-biome-conquest.json) |
@@ -3265,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack and Pomodoro Mystery | 319015 | [319015-blackjack-and-pomodoro-mystery.json](./319015-blackjack-and-pomodoro-mystery.json) |
 | Blackjack Avenue | 205030 | [205030-blackjack-avenue.json](./205030-blackjack-avenue.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
+| Blackjack Carnival | 366408 | [366408-blackjack-carnival.json](./366408-blackjack-carnival.json) |
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
@@ -3737,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block! Triangle Puzzle: Tangram | 106633 | [106633-block-triangle-puzzle-tangram.json](./106633-block-triangle-puzzle-tangram.json) |
 | Block'D | 273978 | [273978-blockd.json](./273978-blockd.json) |
 | Block'hood VR | 98989 | [98989-blockhood-vr.json](./98989-blockhood-vr.json) |
+| Block+Hole | 366424 | [366424-block-hole.json](./366424-block-hole.json) |
 | Blockade | 116295 | [116295-blockade.json](./116295-blockade.json) |
 | Blockade Runner | 23864 | [23864-blockade-runner.json](./23864-blockade-runner.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
@@ -4181,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardmancer | 395866 | [395866-boardmancer.json](./395866-boardmancer.json) |
 | Boardroom Alpha | 324688 | [324688-boardroom-alpha.json](./324688-boardroom-alpha.json) |
 | Boardwalk Arcade 2 | 292144 | [292144-boardwalk-arcade-2.json](./292144-boardwalk-arcade-2.json) |
+| Boardwalk Sea Ball | 366410 | [366410-boardwalk-sea-ball.json](./366410-boardwalk-sea-ball.json) |
 | Boat Adventure | 99635 | [99635-boat-adventure.json](./99635-boat-adventure.json) |
 | Boat Crew | 167803 | [167803-boat-crew.json](./167803-boat-crew.json) |
 | Boat House | 313352 | [313352-boat-house.json](./313352-boat-house.json) |
@@ -4302,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogdanoff vs. Wojak Simulator | 182358 | [182358-bogdanoff-vs-wojak-simulator.json](./182358-bogdanoff-vs-wojak-simulator.json) |
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
 | Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
+| Boggle Bash | 366411 | [366411-boggle-bash.json](./366411-boggle-bash.json) |
 | Boggle With Friends | 55087 | [55087-boggle-with-friends.json](./55087-boggle-with-friends.json) |
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
