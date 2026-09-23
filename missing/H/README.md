@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
 | Halfquake Trilogy | 127942 | [127942-halfquake-trilogy.json](./127942-halfquake-trilogy.json) |
+| Halftime Adventures | 373218 | [373218-halftime-adventures.json](./373218-halftime-adventures.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
@@ -3078,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole.io | 104100 | [104100-hole-io.json](./104100-hole-io.json) |
 | Hole* | 408173 | [408173-hole.json](./408173-hole.json) |
 | Holedown | 105120 | [105120-holedown.json](./105120-holedown.json) |
+| Holes | 373207 | [373207-holes.json](./373207-holes.json) |
 | Holey | 408181 | [408181-holey.json](./408181-holey.json) |
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
 | Holey Ship | 408186 | [408186-holey-ship.json](./408186-holey-ship.json) |
@@ -3959,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Long Can You Survive | 235350 | [235350-how-long-can-you-survive.json](./235350-how-long-can-you-survive.json) |
 | How Many Bugs in a Box | 380444 | [380444-how-many-bugs-in-a-box.json](./380444-how-many-bugs-in-a-box.json) |
 | How Many Deaths to Clear? | 250353 | [250353-how-many-deaths-to-clear.json](./250353-how-many-deaths-to-clear.json) |
+| How Many Secrets Under Ceiling | 373205 | [373205-how-many-secrets-under-ceiling.json](./373205-how-many-secrets-under-ceiling.json) |
 | How Much Items: Animals | 340489 | [340489-how-much-items-animals.json](./340489-how-much-items-animals.json) |
 | How Much Items: Fishes | 340490 | [340490-how-much-items-fishes.json](./340490-how-much-items-fishes.json) |
 | How Much Items: Food | 340491 | [340491-how-much-items-food.json](./340491-how-much-items-food.json) |
