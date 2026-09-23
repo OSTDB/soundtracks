@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekowater | 274034 | [274034-nekowater.json](./274034-nekowater.json) |
 | Nekra Psaria 4 | 385188 | [385188-nekra-psaria-4.json](./385188-nekra-psaria-4.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
+| Nekurogahara: Psycho Ronins | 359067 | [359067-nekurogahara-psycho-ronins.json](./359067-nekurogahara-psycho-ronins.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
 | Nell & the Festival of Spooks | 178569 | [178569-nell-and-the-festival-of-spooks.json](./178569-nell-and-the-festival-of-spooks.json) |
 | Nelli the Seer | 353898 | [353898-nelli-the-seer.json](./353898-nelli-the-seer.json) |
