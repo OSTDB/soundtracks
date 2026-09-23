@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
 | Łowca Głów | 98944 | [98944-owca-g-ow.json](./98944-owca-g-ow.json) |
 | Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
+| Ødeborg | 356297 | [356297-deborg.json](./356297-deborg.json) |
 | Ōkamiden | 16618 | [16618-okamiden.json](./16618-okamiden.json) |
 | ​Our Life: Beginnings & Always - Cove Wedding Story | 187442 | [187442-our-life-beginnings-and-always-cove-wedding-story.json](./187442-our-life-beginnings-and-always-cove-wedding-story.json) |
 | ​Our Life: Beginnings & Always - Step 1 Expansion | 164528 | [164528-our-life-beginnings-and-always-step-1-expansion.json](./164528-our-life-beginnings-and-always-step-1-expansion.json) |
