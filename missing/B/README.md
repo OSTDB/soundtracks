@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Genesis | 269045 | [269045-battle-of-genesis.json](./269045-battle-of-genesis.json) |
 | Battle of Giants: Dinosaurs Strike | 7907 | [7907-battle-of-giants-dinosaurs-strike.json](./7907-battle-of-giants-dinosaurs-strike.json) |
 | Battle of Goldfish Scooping | 380121 | [380121-battle-of-goldfish-scooping.json](./380121-battle-of-goldfish-scooping.json) |
+| Battle of Guang | 358489 | [358489-battle-of-guang.json](./358489-battle-of-guang.json) |
 | Battle of Heroes 3 | 196877 | [196877-battle-of-heroes-3.json](./196877-battle-of-heroes-3.json) |
 | Battle of Kingdom | 7772 | [7772-battle-of-kingdom.json](./7772-battle-of-kingdom.json) |
 | Battle of Kings | 101591 | [101591-battle-of-kings.json](./101591-battle-of-kings.json) |
@@ -1636,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleship Apollo | 143669 | [143669-battleship-apollo.json](./143669-battleship-apollo.json) |
+| Battleship Crafting | 358484 | [358484-battleship-crafting.json](./358484-battleship-crafting.json) |
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
 | Battleship Naval Combat | 366404 | [366404-battleship-naval-combat.json](./366404-battleship-naval-combat.json) |
 | Battleship War: Time to Sink the Fleet | 215116 | [215116-battleship-war-time-to-sink-the-fleet.json](./215116-battleship-war-time-to-sink-the-fleet.json) |
@@ -1856,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Master and Prince: Snow Bride | 136452 | [136452-beast-master-and-prince-snow-bride.json](./136452-beast-master-and-prince-snow-bride.json) |
 | Beast Mode: Night of the Werewolf | 43541 | [43541-beast-mode-night-of-the-werewolf.json](./43541-beast-mode-night-of-the-werewolf.json) |
 | Beast Mode: Night of the Werewolf Silver Bullet Edition | 273113 | [273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json](./273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json) |
+| Beast OL | 358509 | [358509-beast-ol.json](./358509-beast-ol.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
 | Beastfall | 381252 | [381252-beastfall.json](./381252-beastfall.json) |
 | Beastie Land | 148922 | [148922-beastie-land.json](./148922-beastie-land.json) |
@@ -3363,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Ten | 207318 | [207318-blade-of-ten.json](./207318-blade-of-ten.json) |
 | Blade of the Overlord | 362879 | [362879-blade-of-the-overlord.json](./362879-blade-of-the-overlord.json) |
 | Blade of Tsunami | 258532 | [258532-blade-of-tsunami.json](./258532-blade-of-tsunami.json) |
+| Blade of Wiz | 358492 | [358492-blade-of-wiz.json](./358492-blade-of-wiz.json) |
 | Blade Prince Academy | 244382 | [244382-blade-prince-academy.json](./244382-blade-prince-academy.json) |
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
@@ -3514,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
 | Blazing Angels: Squadrons of WWII | 3124 | [3124-blazing-angels-squadrons-of-wwii.json](./3124-blazing-angels-squadrons-of-wwii.json) |
+| Blazing Dragon Slayer · Divine Weapon Awakening | 358508 | [358508-blazing-dragon-slayer-divine-weapon-awakening.json](./358508-blazing-dragon-slayer-divine-weapon-awakening.json) |
 | Blazing Dragons | 45514 | [45514-blazing-dragons.json](./45514-blazing-dragons.json) |
 | Blazing Dynamo | 209493 | [209493-blazing-dynamo.json](./209493-blazing-dynamo.json) |
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
