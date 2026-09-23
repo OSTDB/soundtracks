@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Formosa: Agent Reborn | 325059 | [325059-echoes-of-formosa-agent-reborn.json](./325059-echoes-of-formosa-agent-reborn.json) |
 | Echoes of Karma | 259622 | [259622-echoes-of-karma.json](./259622-echoes-of-karma.json) |
 | Echoes of Kyria | 414564 | [414564-echoes-of-kyria.json](./414564-echoes-of-kyria.json) |
+| Echoes of Light: Child of the Balance | 351795 | [351795-echoes-of-light-child-of-the-balance.json](./351795-echoes-of-light-child-of-the-balance.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
 | Echoes of Nara | 348321 | [348321-echoes-of-nara.json](./348321-echoes-of-nara.json) |
 | Echoes of Nocturnal Chords | 284335 | [284335-echoes-of-nocturnal-chords.json](./284335-echoes-of-nocturnal-chords.json) |
