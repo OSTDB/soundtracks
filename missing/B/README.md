@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Basics | 256852 | [256852-back-to-basics.json](./256852-back-to-basics.json) |
 | Back to Brother | 231047 | [231047-back-to-brother.json](./231047-back-to-brother.json) |
 | Back to Dinosaur Island | 34169 | [34169-back-to-dinosaur-island.json](./34169-back-to-dinosaur-island.json) |
+| Back to Drive | 391338 | [391338-back-to-drive.json](./391338-back-to-drive.json) |
 | Back to Dust: Hold it Together | 236939 | [236939-back-to-dust-hold-it-together.json](./236939-back-to-dust-hold-it-together.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
 | Back to Home | 258558 | [258558-back-to-home.json](./258558-back-to-home.json) |
@@ -518,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballance: The Return | 127371 | [127371-ballance-the-return.json](./127371-ballance-the-return.json) |
 | Ballapalooza | 275110 | [275110-ballapalooza.json](./275110-ballapalooza.json) |
 | Ballastic | 336912 | [336912-ballastic.json](./336912-ballastic.json) |
+| Ballatory | 391308 | [391308-ballatory.json](./391308-ballatory.json) |
 | Ballblazer | 176 | [176-ballblazer.json](./176-ballblazer.json) |
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
@@ -3226,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout: The Darkest Night | 118192 | [118192-blackout-the-darkest-night.json](./118192-blackout-the-darkest-night.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
 | Blackpink: The Game | 250430 | [250430-blackpink-the-game.json](./250430-blackpink-the-game.json) |
+| BlackSands | 391334 | [391334-blacksands.json](./391334-blacksands.json) |
 | Blackscar Mountain | 72093 | [72093-blackscar-mountain.json](./72093-blackscar-mountain.json) |
 | Blacksea Odyssey: Limited Edition | 166202 | [166202-blacksea-odyssey-limited-edition.json](./166202-blacksea-odyssey-limited-edition.json) |
 | BlackShadows | 34561 | [34561-blackshadows.json](./34561-blackshadows.json) |
