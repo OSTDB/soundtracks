@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser War | 41567 | [41567-laser-war.json](./41567-laser-war.json) |
 | Laser Z | 127081 | [127081-laser-z.json](./127081-laser-z.json) |
 | Laser! | 253011 | [253011-laser.json](./253011-laser.json) |
+| Laserade: Sugar Rush | 348452 | [348452-laserade-sugar-rush.json](./348452-laserade-sugar-rush.json) |
 | Laserbirds | 217986 | [217986-laserbirds.json](./217986-laserbirds.json) |
 | Laserboy | 182357 | [182357-laserboy.json](./182357-laserboy.json) |
 | LaserCat | 32271 | [32271-lasercat.json](./32271-lasercat.json) |
@@ -924,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
+| Legend of Hiraq | 348450 | [348450-legend-of-hiraq.json](./348450-legend-of-hiraq.json) |
 | Legend of Kay | 3219 | [3219-legend-of-kay.json](./3219-legend-of-kay.json) |
 | Legend of Keepers: Feed the Troll | 188528 | [188528-legend-of-keepers-feed-the-troll.json](./188528-legend-of-keepers-feed-the-troll.json) |
 | Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
@@ -1593,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liese in the City of Trials | 358928 | [358928-liese-in-the-city-of-trials.json](./358928-liese-in-the-city-of-trials.json) |
 | Lieve Oma | 27648 | [27648-lieve-oma.json](./27648-lieve-oma.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
+| Life & Shadow: Celestial Call | 348444 | [348444-life-and-shadow-celestial-call.json](./348444-life-and-shadow-celestial-call.json) |
 | Life 2047 Escape Simulator | 376086 | [376086-life-2047-escape-simulator.json](./376086-life-2047-escape-simulator.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
