@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
 | Ganbare Natsuki-san | 270676 | [270676-ganbare-natsuki-san.json](./270676-ganbare-natsuki-san.json) |
 | Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
+| Ganbare Untenshi!! | 380675 | [380675-ganbare-untenshi.json](./380675-ganbare-untenshi.json) |
 | Ganbare! Dodge Fighters | 49610 | [49610-ganbare-dodge-fighters.json](./49610-ganbare-dodge-fighters.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang Man Shooter | 351691 | [351691-gang-man-shooter.json](./351691-gang-man-shooter.json) |
@@ -3040,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Day: Dookie - Welcome to Paradise | 319233 | [319233-green-day-dookie-welcome-to-paradise.json](./319233-green-day-dookie-welcome-to-paradise.json) |
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
 | Green Farm 2 | 385048 | [385048-green-farm-2.json](./385048-green-farm-2.json) |
+| Green Farm 3 | 380674 | [380674-green-farm-3.json](./380674-green-farm-3.json) |
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
 | Green Hell | 101461 | [101461-green-hell.json](./101461-green-hell.json) |
 | Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
