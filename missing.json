@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T12:18:01.631Z",
-  "total_missing": 111227,
+  "generated_at": "2026-09-23T12:33:07.120Z",
+  "total_missing": 111277,
   "games": [
     {
       "igdb_id": 176875,
@@ -9031,6 +9031,11 @@
       "igdb_id": 60804,
       "game_name": "Advanced Daisenryaku: Europe no Arashi - Doitsu Dengeki Sakusen",
       "file": "missing/A/60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json"
+    },
+    {
+      "igdb_id": 362470,
+      "game_name": "Advanced Dungeons & Dragons Ultimate Fantasy",
+      "file": "missing/A/362470-advanced-dungeons-and-dragons-ultimate-fantasy.json"
     },
     {
       "igdb_id": 48113,
@@ -21656,6 +21661,11 @@
       "igdb_id": 255722,
       "game_name": "Ant War: Kingdom Battles",
       "file": "missing/A/255722-ant-war-kingdom-battles.json"
+    },
+    {
+      "igdb_id": 362437,
+      "game_name": "Ant Workers Simulator",
+      "file": "missing/A/362437-ant-workers-simulator.json"
     },
     {
       "igdb_id": 239172,
@@ -48538,6 +48548,11 @@
       "file": "missing/B/30197-billiard-vr.json"
     },
     {
+      "igdb_id": 362425,
+      "game_name": "Billiards",
+      "file": "missing/B/362425-billiards.json"
+    },
+    {
       "igdb_id": 146731,
       "game_name": "Billiards Champ 3D",
       "file": "missing/B/146731-billiards-champ-3d.json"
@@ -48851,6 +48866,11 @@
       "igdb_id": 181306,
       "game_name": "Bingo Blitz️",
       "file": "missing/B/181306-bingo-blitz.json"
+    },
+    {
+      "igdb_id": 362426,
+      "game_name": "Bingo Bugglebee Presents: Home Alone",
+      "file": "missing/B/362426-bingo-bugglebee-presents-home-alone.json"
     },
     {
       "igdb_id": 88150,
@@ -53563,6 +53583,11 @@
       "file": "missing/B/116295-blockade.json"
     },
     {
+      "igdb_id": 362428,
+      "game_name": "Blockade",
+      "file": "missing/B/362428-blockade.json"
+    },
+    {
       "igdb_id": 23864,
       "game_name": "Blockade Runner",
       "file": "missing/B/23864-blockade-runner.json"
@@ -55378,6 +55403,11 @@
       "file": "missing/B/219156-blue-portals.json"
     },
     {
+      "igdb_id": 362429,
+      "game_name": "Blue Powder Grey Smoke",
+      "file": "missing/B/362429-blue-powder-grey-smoke.json"
+    },
+    {
       "igdb_id": 195263,
       "game_name": "Blue rabbit a world of shapes and lost colors",
       "file": "missing/B/195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json"
@@ -56738,6 +56768,11 @@
       "file": "missing/B/95211-boltzmann-brain.json"
     },
     {
+      "igdb_id": 362431,
+      "game_name": "Bomb Ace",
+      "file": "missing/B/362431-bomb-ace.json"
+    },
+    {
       "igdb_id": 332397,
       "game_name": "Bomb Around",
       "file": "missing/B/332397-bomb-around.json"
@@ -57016,6 +57051,11 @@
       "igdb_id": 287648,
       "game_name": "Bomber Man 2002",
       "file": "missing/B/287648-bomber-man-2002.json"
+    },
+    {
+      "igdb_id": 362432,
+      "game_name": "Bomber Run",
+      "file": "missing/B/362432-bomber-run.json"
     },
     {
       "igdb_id": 248288,
@@ -58811,6 +58851,11 @@
       "igdb_id": 175926,
       "game_name": "Bots!!",
       "file": "missing/B/175926-bots.json"
+    },
+    {
+      "igdb_id": 362434,
+      "game_name": "Botticelli",
+      "file": "missing/B/362434-botticelli.json"
     },
     {
       "igdb_id": 36488,
@@ -60958,6 +61003,11 @@
       "file": "missing/B/399163-bravo-gaspar.json"
     },
     {
+      "igdb_id": 362438,
+      "game_name": "Bravo!",
+      "file": "missing/B/362438-bravo.json"
+    },
+    {
       "igdb_id": 63290,
       "game_name": "Bravoman: Binja Bash!",
       "file": "missing/B/63290-bravoman-binja-bash.json"
@@ -62148,6 +62198,16 @@
       "file": "missing/B/12408-bridge-2000.json"
     },
     {
+      "igdb_id": 362440,
+      "game_name": "Bridge 4.0",
+      "file": "missing/B/362440-bridge-4-0.json"
+    },
+    {
+      "igdb_id": 362441,
+      "game_name": "Bridge 5.0",
+      "file": "missing/B/362441-bridge-5-0.json"
+    },
+    {
       "igdb_id": 50121,
       "game_name": "Bridge Builder",
       "file": "missing/B/50121-bridge-builder.json"
@@ -62226,6 +62286,11 @@
       "igdb_id": 94682,
       "game_name": "Bridge Master",
       "file": "missing/B/94682-bridge-master.json"
+    },
+    {
+      "igdb_id": 362444,
+      "game_name": "Bridge Master with Terence Reese",
+      "file": "missing/B/362444-bridge-master-with-terence-reese.json"
     },
     {
       "igdb_id": 124035,
@@ -63641,6 +63706,11 @@
       "igdb_id": 294840,
       "game_name": "Bubble Bunny",
       "file": "missing/B/294840-bubble-bunny.json"
+    },
+    {
+      "igdb_id": 362446,
+      "game_name": "Bubble Burst",
+      "file": "missing/B/362446-bubble-burst.json"
     },
     {
       "igdb_id": 239341,
@@ -84313,6 +84383,11 @@
       "file": "missing/C/326248-clearing-blade.json"
     },
     {
+      "igdb_id": 362435,
+      "game_name": "Cleaving Caliber EX",
+      "file": "missing/C/362435-cleaving-caliber-ex.json"
+    },
+    {
       "igdb_id": 260945,
       "game_name": "Cleimos",
       "file": "missing/C/260945-cleimos.json"
@@ -84471,6 +84546,11 @@
       "igdb_id": 142437,
       "game_name": "Click the Clown 2020",
       "file": "missing/C/142437-click-the-clown-2020.json"
+    },
+    {
+      "igdb_id": 362476,
+      "game_name": "Click the Shape",
+      "file": "missing/C/362476-click-the-shape.json"
     },
     {
       "igdb_id": 288334,
@@ -143783,6 +143863,11 @@
       "file": "missing/E/269025-engraving.json"
     },
     {
+      "igdb_id": 362474,
+      "game_name": "Enhanced Militarized Zone",
+      "file": "missing/E/362474-enhanced-militarized-zone.json"
+    },
+    {
       "igdb_id": 159880,
       "game_name": "Enherjar Synergy",
       "file": "missing/E/159880-enherjar-synergy.json"
@@ -151601,6 +151686,16 @@
       "igdb_id": 362288,
       "game_name": "F-Stop Museum",
       "file": "missing/F/362288-f-stop-museum.json"
+    },
+    {
+      "igdb_id": 362479,
+      "game_name": "F-Stop: Backstory",
+      "file": "missing/F/362479-f-stop-backstory.json"
+    },
+    {
+      "igdb_id": 362475,
+      "game_name": "F-Stop: Reissue",
+      "file": "missing/F/362475-f-stop-reissue.json"
     },
     {
       "igdb_id": 211803,
@@ -193568,6 +193663,11 @@
       "file": "missing/G/171583-groove-catcher.json"
     },
     {
+      "igdb_id": 362481,
+      "game_name": "Groove Coaster + Touhou All DLC Bundle",
+      "file": "missing/G/362481-groove-coaster-touhou-all-dlc-bundle.json"
+    },
+    {
       "igdb_id": 362273,
       "game_name": "Groove Coaster + Undertale DLC Bundle",
       "file": "missing/G/362273-groove-coaster-undertale-dlc-bundle.json"
@@ -211121,6 +211221,11 @@
       "igdb_id": 64447,
       "game_name": "Hiryuu no Ken II: Dragon no Tsubasa",
       "file": "missing/H/64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json"
+    },
+    {
+      "igdb_id": 362473,
+      "game_name": "His Dark Majesty",
+      "file": "missing/H/362473-his-dark-majesty.json"
     },
     {
       "igdb_id": 55838,
@@ -238153,6 +238258,11 @@
       "file": "missing/J/190170-jumphobia-homeward-bound.json"
     },
     {
+      "igdb_id": 362478,
+      "game_name": "Jumping Boy",
+      "file": "missing/J/362478-jumping-boy.json"
+    },
+    {
       "igdb_id": 296927,
       "game_name": "Jumping Challenge",
       "file": "missing/J/296927-jumping-challenge.json"
@@ -238481,6 +238591,11 @@
       "igdb_id": 131532,
       "game_name": "Jungle Book",
       "file": "missing/J/131532-jungle-book.json"
+    },
+    {
+      "igdb_id": 362455,
+      "game_name": "Jungle Boy",
+      "file": "missing/J/362455-jungle-boy.json"
     },
     {
       "igdb_id": 291786,
@@ -253116,6 +253231,11 @@
       "igdb_id": 95118,
       "game_name": "Last Epoch",
       "file": "missing/L/95118-last-epoch.json"
+    },
+    {
+      "igdb_id": 362439,
+      "game_name": "Last Epoch: Beneath Ancient Skies",
+      "file": "missing/L/362439-last-epoch-beneath-ancient-skies.json"
     },
     {
       "igdb_id": 408917,
@@ -270948,6 +271068,26 @@
       "file": "missing/M/219784-magic-and-sanctuary.json"
     },
     {
+      "igdb_id": 362458,
+      "game_name": "Magic 2014: Duels of the Planeswalkers - Deck Pack 1",
+      "file": "missing/M/362458-magic-2014-duels-of-the-planeswalkers-deck-pack-1.json"
+    },
+    {
+      "igdb_id": 362459,
+      "game_name": "Magic 2014: Duels of the Planeswalkers - Deck Pack 2",
+      "file": "missing/M/362459-magic-2014-duels-of-the-planeswalkers-deck-pack-2.json"
+    },
+    {
+      "igdb_id": 362460,
+      "game_name": "Magic 2014: Duels of the Planeswalkers - Deck Pack 3",
+      "file": "missing/M/362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json"
+    },
+    {
+      "igdb_id": 362457,
+      "game_name": "Magic 2014: Duels of the Planeswalkers - Expansion",
+      "file": "missing/M/362457-magic-2014-duels-of-the-planeswalkers-expansion.json"
+    },
+    {
       "igdb_id": 311117,
       "game_name": "Magic Academy",
       "file": "missing/M/311117-magic-academy.json"
@@ -271653,14 +271793,69 @@
       "file": "missing/M/5907-magic-the-gathering-battlegrounds.json"
     },
     {
+      "igdb_id": 362462,
+      "game_name": "Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 1",
+      "file": "missing/M/362462-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-1.json"
+    },
+    {
+      "igdb_id": 362463,
+      "game_name": "Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 2",
+      "file": "missing/M/362463-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-2.json"
+    },
+    {
+      "igdb_id": 362464,
+      "game_name": "Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 3",
+      "file": "missing/M/362464-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-3.json"
+    },
+    {
+      "igdb_id": 362461,
+      "game_name": "Magic: The Gathering - Duels of the Planeswalkers 2012: Expansion",
+      "file": "missing/M/362461-magic-the-gathering-duels-of-the-planeswalkers-2012-expansion.json"
+    },
+    {
       "igdb_id": 1891,
       "game_name": "Magic: The Gathering - Duels of the Planeswalkers 2013",
       "file": "missing/M/1891-magic-the-gathering-duels-of-the-planeswalkers-2013.json"
     },
     {
+      "igdb_id": 362452,
+      "game_name": "Magic: The Gathering - Duels of the Planeswalkers 2013: Deck Pack 1",
+      "file": "missing/M/362452-magic-the-gathering-duels-of-the-planeswalkers-2013-deck-pack-1.json"
+    },
+    {
+      "igdb_id": 362453,
+      "game_name": "Magic: The Gathering - Duels of the Planeswalkers 2013: Deck Pack 2",
+      "file": "missing/M/362453-magic-the-gathering-duels-of-the-planeswalkers-2013-deck-pack-2.json"
+    },
+    {
+      "igdb_id": 362454,
+      "game_name": "Magic: The Gathering - Duels of the Planeswalkers 2013: Deck Pack 3",
+      "file": "missing/M/362454-magic-the-gathering-duels-of-the-planeswalkers-2013-deck-pack-3.json"
+    },
+    {
       "igdb_id": 18218,
       "game_name": "Magic: The Gathering - Duels of the Planeswalkers 2015",
       "file": "missing/M/18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json"
+    },
+    {
+      "igdb_id": 362456,
+      "game_name": "Magic: The Gathering - Duels of the Planeswalkers 2015: Garruk's Revenge",
+      "file": "missing/M/362456-magic-the-gathering-duels-of-the-planeswalkers-2015-garruks-revenge.json"
+    },
+    {
+      "igdb_id": 362465,
+      "game_name": "Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack One",
+      "file": "missing/M/362465-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-one.json"
+    },
+    {
+      "igdb_id": 362467,
+      "game_name": "Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Three",
+      "file": "missing/M/362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json"
+    },
+    {
+      "igdb_id": 362466,
+      "game_name": "Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Two",
+      "file": "missing/M/362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json"
     },
     {
       "igdb_id": 200018,
@@ -305763,6 +305958,11 @@
       "file": "missing/M/110143-mylo-uronil.json"
     },
     {
+      "igdb_id": 362445,
+      "game_name": "Myopia",
+      "file": "missing/M/362445-myopia.json"
+    },
+    {
       "igdb_id": 362891,
       "game_name": "Myosotis",
       "file": "missing/M/362891-myosotis.json"
@@ -311421,6 +311621,11 @@
       "igdb_id": 141192,
       "game_name": "NEO: The World Ends with You",
       "file": "missing/N/141192-neo-the-world-ends-with-you.json"
+    },
+    {
+      "igdb_id": 362436,
+      "game_name": "Neo: The World Ends with You x Field Walk RPG",
+      "file": "missing/N/362436-neo-the-world-ends-with-you-x-field-walk-rpg.json"
     },
     {
       "igdb_id": 61632,
@@ -333036,6 +333241,11 @@
       "igdb_id": 317426,
       "game_name": "Painkiller: Special Edition",
       "file": "missing/P/317426-painkiller-special-edition.json"
+    },
+    {
+      "igdb_id": 362469,
+      "game_name": "Painkiller++",
+      "file": "missing/P/362469-painkiller.json"
     },
     {
       "igdb_id": 175901,
@@ -356818,6 +357028,11 @@
       "file": "missing/P/55474-prison-boss-vr.json"
     },
     {
+      "igdb_id": 362488,
+      "game_name": "Prison Boss: Prohibition - Plucked Pack",
+      "file": "missing/P/362488-prison-boss-prohibition-plucked-pack.json"
+    },
+    {
       "igdb_id": 110781,
       "game_name": "Prison Break",
       "file": "missing/P/110781-prison-break.json"
@@ -358321,6 +358536,11 @@
       "igdb_id": 144090,
       "game_name": "Project Canopy",
       "file": "missing/P/144090-project-canopy.json"
+    },
+    {
+      "igdb_id": 362486,
+      "game_name": "Project Capture: Legacy",
+      "file": "missing/P/362486-project-capture-legacy.json"
     },
     {
       "igdb_id": 335324,
@@ -364046,6 +364266,11 @@
       "igdb_id": 144094,
       "game_name": "Qpang",
       "file": "missing/Q/144094-qpang.json"
+    },
+    {
+      "igdb_id": 362487,
+      "game_name": "QPet Zoo",
+      "file": "missing/Q/362487-qpet-zoo.json"
     },
     {
       "igdb_id": 354547,
@@ -456013,6 +456238,11 @@
       "file": "missing/T/129726-tag-io.json"
     },
     {
+      "igdb_id": 362471,
+      "game_name": "Tagalon",
+      "file": "missing/T/362471-tagalon.json"
+    },
+    {
       "igdb_id": 321139,
       "game_name": "TAGAP 4",
       "file": "missing/T/321139-tagap-4.json"
@@ -467461,6 +467691,11 @@
       "igdb_id": 176502,
       "game_name": "The Body Monstrous",
       "file": "missing/T/176502-the-body-monstrous.json"
+    },
+    {
+      "igdb_id": 362430,
+      "game_name": "The Body Transparent",
+      "file": "missing/T/362430-the-body-transparent.json"
     },
     {
       "igdb_id": 176963,
@@ -484346,6 +484581,11 @@
       "igdb_id": 336562,
       "game_name": "The Secrets of the Forest",
       "file": "missing/T/336562-the-secrets-of-the-forest.json"
+    },
+    {
+      "igdb_id": 362483,
+      "game_name": "The Secrets We Grow",
+      "file": "missing/T/362483-the-secrets-we-grow.json"
     },
     {
       "igdb_id": 344438,
@@ -518618,6 +518858,11 @@
       "file": "missing/U/55456-ungrounded-ripple-unleashed-vr.json"
     },
     {
+      "igdb_id": 362485,
+      "game_name": "Unguided",
+      "file": "missing/U/362485-unguided.json"
+    },
+    {
       "igdb_id": 379032,
       "game_name": "Unguided Order",
       "file": "missing/U/379032-unguided-order.json"
@@ -540601,6 +540846,11 @@
       "igdb_id": 339826,
       "game_name": "With My Buddy",
       "file": "missing/W/339826-with-my-buddy.json"
+    },
+    {
+      "igdb_id": 362482,
+      "game_name": "With My Little Eye",
+      "file": "missing/W/362482-with-my-little-eye.json"
     },
     {
       "igdb_id": 184118,
