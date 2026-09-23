@@ -418,6 +418,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
+| Baktinet | 340028 | [340028-baktinet.json](./340028-baktinet.json) |
+| Baku Funshiki | 340033 | [340033-baku-funshiki.json](./340033-baku-funshiki.json) |
 | Baku Maru | 369039 | [369039-baku-maru.json](./369039-baku-maru.json) |
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
@@ -3125,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitesize Heroes: Forest Defender | 294303 | [294303-bitesize-heroes-forest-defender.json](./294303-bitesize-heroes-forest-defender.json) |
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
+| BitLiberator | 340036 | [340036-bitliberator.json](./340036-bitliberator.json) |
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
 | Bitmates | 228413 | [228413-bitmates.json](./228413-bitmates.json) |
 | BitRay2 | 31724 | [31724-bitray2.json](./31724-bitray2.json) |
@@ -4652,6 +4655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogerman | 242091 | [242091-boogerman.json](./242091-boogerman.json) |
 | Boogerman II: The Final Adventure | 242092 | [242092-boogerman-ii-the-final-adventure.json](./242092-boogerman-ii-the-final-adventure.json) |
 | Boogerman: A Pick and Flick Adventure | 19614 | [19614-boogerman-a-pick-and-flick-adventure.json](./19614-boogerman-a-pick-and-flick-adventure.json) |
+| Boogey's Wicked Game | 340042 | [340042-boogeys-wicked-game.json](./340042-boogeys-wicked-game.json) |
 | Boogeyman | 19015 | [19015-boogeyman.json](./19015-boogeyman.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Boogie | 85828 | [85828-boogie.json](./85828-boogie.json) |
