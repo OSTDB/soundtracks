@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
 | Tecnology War | 248747 | [248747-tecnology-war.json](./248747-tecnology-war.json) |
+| Tectron: Omorashi Baby | 385826 | [385826-tectron-omorashi-baby.json](./385826-tectron-omorashi-baby.json) |
 | Tectus | 106375 | [106375-tectus.json](./106375-tectus.json) |
 | Tedd'or | 195088 | [195088-teddor.json](./195088-teddor.json) |
 | Teddy and Bo: Search for the Dream Catcher | 98249 | [98249-teddy-and-bo-search-for-the-dream-catcher.json](./98249-teddy-and-bo-search-for-the-dream-catcher.json) |
@@ -5768,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
+| The SeethingSwarm Collection | 385848 | [385848-the-seethingswarm-collection.json](./385848-the-seethingswarm-collection.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
@@ -6377,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tiny Tale 2 | 35975 | [35975-the-tiny-tale-2.json](./35975-the-tiny-tale-2.json) |
 | The Tiny Train Driver | 179591 | [179591-the-tiny-train-driver.json](./179591-the-tiny-train-driver.json) |
 | The Titan's Grave | 141032 | [141032-the-titans-grave.json](./141032-the-titans-grave.json) |
+| The Titty-Fucking Hot Spring Ryokan Ghost | 385827 | [385827-the-titty-fucking-hot-spring-ryokan-ghost.json](./385827-the-titty-fucking-hot-spring-ryokan-ghost.json) |
 | The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
 | The Tomatoes are OK | 184993 | [184993-the-tomatoes-are-ok.json](./184993-the-tomatoes-are-ok.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
@@ -6848,6 +6851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Thornberrys' Animal Adventures | 8014 | [8014-the-wild-thornberrys-animal-adventures.json](./8014-the-wild-thornberrys-animal-adventures.json) |
 | The Will of a Single Tale | 100117 | [100117-the-will-of-a-single-tale.json](./100117-the-will-of-a-single-tale.json) |
 | The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
+| The Williams Family Sacrifice | 385860 | [385860-the-williams-family-sacrifice.json](./385860-the-williams-family-sacrifice.json) |
 | The Wind and the Wisp | 359994 | [359994-the-wind-and-the-wisp.json](./359994-the-wind-and-the-wisp.json) |
 | The Wind: A Story of Surrender | 152838 | [152838-the-wind-a-story-of-surrender.json](./152838-the-wind-a-story-of-surrender.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
@@ -9051,6 +9055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TomTom Adventures | 82851 | [82851-tomtom-adventures.json](./82851-tomtom-adventures.json) |
 | Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen | 79319 | [79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json](./79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json) |
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
+| Tonari ni Kanojo no Iru Shiawase: In First Snow With Her - Premium Edition | 385851 | [385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json](./385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest | 142444 | [142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json](./142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest - Limited Edition | 212314 | [212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json](./212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json) |
 | Tonari no Princess Rolfee! | 70402 | [70402-tonari-no-princess-rolfee.json](./70402-tonari-no-princess-rolfee.json) |
@@ -10595,6 +10600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
+| Trapped with Ivy & Piper | 385859 | [385859-trapped-with-ivy-and-piper.json](./385859-trapped-with-ivy-and-piper.json) |
 | Trapped with Jester | 215188 | [215188-trapped-with-jester.json](./215188-trapped-with-jester.json) |
 | Trapped Within | 28918 | [28918-trapped-within.json](./28918-trapped-within.json) |
 | Trapped: Family Vacation | 328011 | [328011-trapped-family-vacation.json](./328011-trapped-family-vacation.json) |
@@ -11530,6 +11536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtles! | 194455 | [194455-turtles.json](./194455-turtles.json) |
 | TurtleSkate | 398572 | [398572-turtleskate.json](./398572-turtleskate.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
+| Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
 | Tux and Fanny | 166675 | [166675-tux-and-fanny.json](./166675-tux-and-fanny.json) |
