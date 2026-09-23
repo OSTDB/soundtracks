@@ -2051,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Become Barista! | 349520 | [349520-become-barista.json](./349520-become-barista.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
+| Becoming a King | 348457 | [348457-becoming-a-king.json](./348457-becoming-a-king.json) |
 | Becoming a Legend: New Advent | 403671 | [403671-becoming-a-legend-new-advent.json](./403671-becoming-a-legend-new-advent.json) |
 | Becoming Captain | 296497 | [296497-becoming-captain.json](./296497-becoming-captain.json) |
 | Becoming None | 417527 | [417527-becoming-none.json](./417527-becoming-none.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beware | 102780 | [102780-beware.json](./102780-beware.json) |
 | Beware of Dog | 378883 | [378883-beware-of-dog.json](./378883-beware-of-dog.json) |
 | Beware of Falling Angels | 262982 | [262982-beware-of-falling-angels.json](./262982-beware-of-falling-angels.json) |
+| Beware of Space Dragons | 348423 | [348423-beware-of-space-dragons.json](./348423-beware-of-space-dragons.json) |
 | Beware of the Blob | 137652 | [137652-beware-of-the-blob.json](./137652-beware-of-the-blob.json) |
 | Beware the Ghost | 176474 | [176474-beware-the-ghost.json](./176474-beware-the-ghost.json) |
 | Beware the Shadowcatcher | 217863 | [217863-beware-the-shadowcatcher.json](./217863-beware-the-shadowcatcher.json) |
@@ -4798,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Hunter | 233485 | [233485-boss-hunter.json](./233485-boss-hunter.json) |
 | Boss Hunter | 368679 | [368679-boss-hunter.json](./368679-boss-hunter.json) |
 | Boss Life 3D | 224090 | [224090-boss-life-3d.json](./224090-boss-life-3d.json) |
+| Boss of FCs | 348418 | [348418-boss-of-fcs.json](./348418-boss-of-fcs.json) |
 | Boss Pit | 394823 | [394823-boss-pit.json](./394823-boss-pit.json) |
 | Boss Simulator | 293109 | [293109-boss-simulator.json](./293109-boss-simulator.json) |
 | Boss Up | 365056 | [365056-boss-up.json](./365056-boss-up.json) |
