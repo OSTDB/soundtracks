@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper io 2: Complete Edition | 331857 | [331857-paper-io-2-complete-edition.json](./331857-paper-io-2-complete-edition.json) |
 | Paper io 2: Gold Edition | 395681 | [395681-paper-io-2-gold-edition.json](./395681-paper-io-2-gold-edition.json) |
 | Paper Kingdom | 279110 | [279110-paper-kingdom.json](./279110-paper-kingdom.json) |
+| Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
 | Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
 | Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario Multiplayer | 159325 | [159325-paper-mario-multiplayer.json](./159325-paper-mario-multiplayer.json) |
@@ -2313,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
 | Pillow Fort | 56171 | [56171-pillow-fort.json](./56171-pillow-fort.json) |
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
+| Pilot 6174: Orbital Survival | 386445 | [386445-pilot-6174-orbital-survival.json](./386445-pilot-6174-orbital-survival.json) |
 | Pilot Attack | 281534 | [281534-pilot-attack.json](./281534-pilot-attack.json) |
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
 | Pilot Brothers 3D: The Case of the garden pests | 403598 | [403598-pilot-brothers-3d-the-case-of-the-garden-pests.json](./403598-pilot-brothers-3d-the-case-of-the-garden-pests.json) |
@@ -2536,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
 | Pintern | 353377 | [353377-pintern.json](./353377-pintern.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
+| Pintorino | 386399 | [386399-pintorino.json](./386399-pintorino.json) |
 | Pinup | 403142 | [403142-pinup.json](./403142-pinup.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
@@ -3960,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polluted Flesh | 416117 | [416117-polluted-flesh.json](./416117-polluted-flesh.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
 | Pollux | 40255 | [40255-pollux.json](./40255-pollux.json) |
+| Pollywog | 386398 | [386398-pollywog.json](./386398-pollywog.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
 | Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
@@ -4351,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal 2: CO-OP | 360077 | [360077-postal-2-co-op.json](./360077-postal-2-co-op.json) |
 | Postal F: The Thursday Expansion - A Mod for Friday Night Funkin'. | 298715 | [298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json](./298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json) |
 | Postal: Redux | 8716 | [8716-postal-redux.json](./8716-postal-redux.json) |
+| PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
 | Postbound! | 291581 | [291581-postbound.json](./291581-postbound.json) |
 | Postcard Through Time | 417581 | [417581-postcard-through-time.json](./417581-postcard-through-time.json) |
 | PostCollapse | 31888 | [31888-postcollapse.json](./31888-postcollapse.json) |
