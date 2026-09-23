@@ -2488,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
 | Medicevil | 279121 | [279121-medicevil.json](./279121-medicevil.json) |
+| Medicinal Cuisine Master | 358480 | [358480-medicinal-cuisine-master.json](./358480-medicinal-cuisine-master.json) |
 | Medicinal Herbs: Cannabis Grow Simulator | 172149 | [172149-medicinal-herbs-cannabis-grow-simulator.json](./172149-medicinal-herbs-cannabis-grow-simulator.json) |
 | Medieval 2 | 95476 | [95476-medieval-2.json](./95476-medieval-2.json) |
 | Medieval Adventure | 366264 | [366264-medieval-adventure.json](./366264-medieval-adventure.json) |
@@ -4294,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | MinerMancers | 411788 | [411788-minermancers.json](./411788-minermancers.json) |
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
+| Miners in the Mountain | 358512 | [358512-miners-in-the-mountain.json](./358512-miners-in-the-mountain.json) |
 | Miners Settlement: Idle RPG | 245343 | [245343-miners-settlement-idle-rpg.json](./245343-miners-settlement-idle-rpg.json) |
 | Miners' Union | 391065 | [391065-miners-union.json](./391065-miners-union.json) |
 | Minerva | 10129 | [10129-minerva.json](./10129-minerva.json) |
@@ -4503,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minky | 246979 | [246979-minky.json](./246979-minky.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
+| Minna de Noujiru! Warumono Nage-houdai! Ningen Medal Game | 358495 | [358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json](./358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json) |
 | Minna de Shitendo DS: Hanshichi Yuumon & Ango & Ago Juurou & Hatamoto Taikutsu Otoko | 269589 | [269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json](./269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json) |
 | Minna de Uchuu Tour: ChariSou DX2 | 222318 | [222318-minna-de-uchuu-tour-charisou-dx2.json](./222318-minna-de-uchuu-tour-charisou-dx2.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
@@ -5849,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morgue Rot: The Coroner's Quest | 217384 | [217384-morgue-rot-the-coroners-quest.json](./217384-morgue-rot-the-coroners-quest.json) |
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
+| Mori no Naka de Mayoi Ie kara no Dasshutsu | 358494 | [358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json](./358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json) |
 | Mòrì Zhàn Jī | 367585 | [367585-mori-zhan-ji.json](./367585-mori-zhan-ji.json) |
 | Mori's Nightmare: Hide and seek | 159842 | [159842-moris-nightmare-hide-and-seek.json](./159842-moris-nightmare-hide-and-seek.json) |
 | Moria | 77304 | [77304-moria.json](./77304-moria.json) |
@@ -6732,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
+| Mushroom Manor | 358476 | [358476-mushroom-manor.json](./358476-mushroom-manor.json) |
 | Mushroom Moonrise | 287780 | [287780-mushroom-moonrise.json](./287780-mushroom-moonrise.json) |
 | Mushroom Mountain | 248114 | [248114-mushroom-mountain.json](./248114-mushroom-mountain.json) |
 | Mushroom Nook | 390241 | [390241-mushroom-nook.json](./390241-mushroom-nook.json) |
