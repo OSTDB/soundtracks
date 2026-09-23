@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fadin's Vacation in the Parallel Kingdom | 299740 | [299740-fadins-vacation-in-the-parallel-kingdom.json](./299740-fadins-vacation-in-the-parallel-kingdom.json) |
 | Fading Afternoon | 166734 | [166734-fading-afternoon.json](./166734-fading-afternoon.json) |
 | Fading Earth | 260704 | [260704-fading-earth.json](./260704-fading-earth.json) |
+| Fading Echo | 347887 | [347887-fading-echo.json](./347887-fading-echo.json) |
 | Fading Echoes | 291213 | [291213-fading-echoes.json](./291213-fading-echoes.json) |
 | Fading Existence | 179029 | [179029-fading-existence.json](./179029-fading-existence.json) |
 | Fading Haven | 402260 | [402260-fading-haven.json](./402260-fading-haven.json) |
@@ -4245,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fricassee | 267995 | [267995-fricassee.json](./267995-fricassee.json) |
 | Friday | 130926 | [130926-friday.json](./130926-friday.json) |
 | Friday | 248026 | [248026-friday.json](./248026-friday.json) |
+| Friday Night | 347861 | [347861-friday-night.json](./347861-friday-night.json) |
 | Friday Night 3D Bowling | 209570 | [209570-friday-night-3d-bowling.json](./209570-friday-night-3d-bowling.json) |
 | Friday Night 3D Darts | 74061 | [74061-friday-night-3d-darts.json](./74061-friday-night-3d-darts.json) |
 | Friday Night 3D Pool | 57610 | [57610-friday-night-3d-pool.json](./57610-friday-night-3d-pool.json) |
