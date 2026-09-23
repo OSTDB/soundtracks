@@ -2395,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram: Master's Legacy - The Speed Pack | 349415 | [349415-nonogram-masters-legacy-the-speed-pack.json](./349415-nonogram-masters-legacy-the-speed-pack.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Nonomatic | 371453 | [371453-nonomatic.json](./371453-nonomatic.json) |
+| Nonsense Fall | 348937 | [348937-nonsense-fall.json](./348937-nonsense-fall.json) |
 | Nonstop Balls | 87731 | [87731-nonstop-balls.json](./87731-nonstop-balls.json) |
 | Nonstop Game | 208966 | [208966-nonstop-game.json](./208966-nonstop-game.json) |
 | Nonstop Knight | 57367 | [57367-nonstop-knight.json](./57367-nonstop-knight.json) |
