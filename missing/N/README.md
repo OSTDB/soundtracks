@@ -107,6 +107,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Vintage | 206782 | [206782-namco-vintage.json](./206782-namco-vintage.json) |
 | namCollection | 94721 | [94721-namcollection.json](./94721-namcollection.json) |
 | Name That Letter - a Phonics Game | 107661 | [107661-name-that-letter-a-phonics-game.json](./107661-name-that-letter-a-phonics-game.json) |
+| Name That NG Character | 338935 | [338935-name-that-ng-character.json](./338935-name-that-ng-character.json) |
+| Name That Pokemon | 338933 | [338933-name-that-pokemon.json](./338933-name-that-pokemon.json) |
+| Name That Pokémon: Red & Blue | 338938 | [338938-name-that-pokemon-red-and-blue.json](./338938-name-that-pokemon-red-and-blue.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Name This Game | 22838 | [22838-name-this-game.json](./22838-name-this-game.json) |
 | Nameko | 68311 | [68311-nameko.json](./68311-nameko.json) |
@@ -1895,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gear | 322583 | [322583-ninja-gear.json](./322583-ninja-gear.json) |
 | Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~ | 119562 | [119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json](./119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
+| Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
 | Ninja Hero Revenge | 102728 | [102728-ninja-hero-revenge.json](./102728-ninja-hero-revenge.json) |
 | Ninja Hunter | 64635 | [64635-ninja-hunter.json](./64635-ninja-hunter.json) |
