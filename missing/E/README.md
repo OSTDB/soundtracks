@@ -2474,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Snowmen 2 | 265140 | [265140-evil-snowmen-2.json](./265140-evil-snowmen-2.json) |
 | Evil Soul | 165709 | [165709-evil-soul.json](./165709-evil-soul.json) |
 | Evil Spirits | 55182 | [55182-evil-spirits.json](./55182-evil-spirits.json) |
+| Evil Superhero VR: Superhero Simulator | 370884 | [370884-evil-superhero-vr-superhero-simulator.json](./370884-evil-superhero-vr-superhero-simulator.json) |
 | Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
 | Evil Twin: Cyprien's Chronicles | 18332 | [18332-evil-twin-cypriens-chronicles.json](./18332-evil-twin-cypriens-chronicles.json) |
 | Evil Unleashed | 269118 | [269118-evil-unleashed.json](./269118-evil-unleashed.json) |
