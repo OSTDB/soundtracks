@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Planet: Prelude | 298599 | [298599-wandering-planet-prelude.json](./298599-wandering-planet-prelude.json) |
 | Wandering Sword | 377264 | [377264-wandering-sword.json](./377264-wandering-sword.json) |
 | Wandering Sword: Mount Pack - Majestic Steeds | 377263 | [377263-wandering-sword-mount-pack-majestic-steeds.json](./377263-wandering-sword-mount-pack-majestic-steeds.json) |
+| Wandering Sword: Secrets of the Eastern Sea | 341672 | [341672-wandering-sword-secrets-of-the-eastern-sea.json](./341672-wandering-sword-secrets-of-the-eastern-sea.json) |
 | Wandering Trails: A Hiking Game | 152742 | [152742-wandering-trails-a-hiking-game.json](./152742-wandering-trails-a-hiking-game.json) |
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
@@ -828,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watchlist | 44169 | [44169-watchlist.json](./44169-watchlist.json) |
 | Watchmaker's World Solitaire | 386135 | [386135-watchmakers-world-solitaire.json](./386135-watchmakers-world-solitaire.json) |
 | Watchman Golf Digipro | 215252 | [215252-watchman-golf-digipro.json](./215252-watchman-golf-digipro.json) |
+| Watchmen | 341701 | [341701-watchmen.json](./341701-watchmen.json) |
 | Watchmen: The End Is Nigh | 7246 | [7246-watchmen-the-end-is-nigh.json](./7246-watchmen-the-end-is-nigh.json) |
 | Watchmen: The End Is Nigh Complete Experience | 44619 | [44619-watchmen-the-end-is-nigh-complete-experience.json](./44619-watchmen-the-end-is-nigh-complete-experience.json) |
 | Watchtower | 15568 | [15568-watchtower.json](./15568-watchtower.json) |
@@ -1452,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Giants Fall | 403137 | [403137-where-giants-fall.json](./403137-where-giants-fall.json) |
 | Where in America's Past Is Carmen Sandiego? | 50495 | [50495-where-in-americas-past-is-carmen-sandiego.json](./50495-where-in-americas-past-is-carmen-sandiego.json) |
 | Where in Europe is Carmen Sandiego? | 12824 | [12824-where-in-europe-is-carmen-sandiego.json](./12824-where-in-europe-is-carmen-sandiego.json) |
+| Where in Hell is Carmen Santiago? | 341700 | [341700-where-in-hell-is-carmen-santiago.json](./341700-where-in-hell-is-carmen-santiago.json) |
 | Where in Space Is Carmen Sandiego? | 50496 | [50496-where-in-space-is-carmen-sandiego.json](./50496-where-in-space-is-carmen-sandiego.json) |
 | Where in Space is Carmen Sandiego?: Deluxe Edition | 73309 | [73309-where-in-space-is-carmen-sandiego-deluxe-edition.json](./73309-where-in-space-is-carmen-sandiego-deluxe-edition.json) |
 | Where in the U.S.A. is Carmen Sandiego? | 12823 | [12823-where-in-the-u-s-a-is-carmen-sandiego.json](./12823-where-in-the-u-s-a-is-carmen-sandiego.json) |
