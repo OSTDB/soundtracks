@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwhelm | 103324 | [103324-overwhelm.json](./103324-overwhelm.json) |
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
 | Overwritten: Defeat the Net | 224630 | [224630-overwritten-defeat-the-net.json](./224630-overwritten-defeat-the-net.json) |
+| Oviraptor Hazard | 361343 | [361343-oviraptor-hazard.json](./361343-oviraptor-hazard.json) |
 | Ovis Loop | 236916 | [236916-ovis-loop.json](./236916-ovis-loop.json) |
 | OvO | 144109 | [144109-ovo.json](./144109-ovo.json) |
 | OVO Smash! | 69238 | [69238-ovo-smash.json](./69238-ovo-smash.json) |
