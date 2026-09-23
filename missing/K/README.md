@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakeochi | 415133 | [415133-kakeochi.json](./415133-kakeochi.json) |
 | Kakinoki Shogi | 37968 | [37968-kakinoki-shogi.json](./37968-kakinoki-shogi.json) |
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
+| Kakuchou Shoujo-kei Trinary | 346771 | [346771-kakuchou-shoujo-kei-trinary.json](./346771-kakuchou-shoujo-kei-trinary.json) |
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakuro | 120959 | [120959-kakuro.json](./120959-kakuro.json) |
