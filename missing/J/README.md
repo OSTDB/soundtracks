@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessie 'Boom' James | 148344 | [148344-jessie-boom-james.json](./148344-jessie-boom-james.json) |
 | Jessie Jaeger in Cleopatra's Curse | 142392 | [142392-jessie-jaeger-in-cleopatras-curse.json](./142392-jessie-jaeger-in-cleopatras-curse.json) |
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
+| Jester's Helper | 363047 | [363047-jesters-helper.json](./363047-jesters-helper.json) |
 | Jester's Quest | 221163 | [221163-jesters-quest.json](./221163-jesters-quest.json) |
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
 | Jesus Christ RPG Trilogy | 33371 | [33371-jesus-christ-rpg-trilogy.json](./33371-jesus-christ-rpg-trilogy.json) |
@@ -1050,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
 | Jump | 152140 | [152140-jump.json](./152140-jump.json) |
 | Jump | 272304 | [272304-jump.json](./272304-jump.json) |
+| Jump | 363034 | [363034-jump.json](./363034-jump.json) |
 | Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
 | Jump Among Stars | 211828 | [211828-jump-among-stars.json](./211828-jump-among-stars.json) |
 | Jump and Roll | 243102 | [243102-jump-and-roll.json](./243102-jump-and-roll.json) |
