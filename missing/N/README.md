@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
 | Neo: The Rainbow Sorcerer | 357308 | [357308-neo-the-rainbow-sorcerer.json](./357308-neo-the-rainbow-sorcerer.json) |
 | NEO: The World Ends with You | 141192 | [141192-neo-the-world-ends-with-you.json](./141192-neo-the-world-ends-with-you.json) |
+| Neo: The World Ends with You x Field Walk RPG | 362436 | [362436-neo-the-world-ends-with-you-x-field-walk-rpg.json](./362436-neo-the-world-ends-with-you-x-field-walk-rpg.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
