@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Pool Champion 2018 Table | 156105 | [156105-zaccaria-pinball-pool-champion-2018-table.json](./156105-zaccaria-pinball-pool-champion-2018-table.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
 | Zaccaria Pinball: Shooting the Rapids | 156099 | [156099-zaccaria-pinball-shooting-the-rapids.json](./156099-zaccaria-pinball-shooting-the-rapids.json) |
+| Zaccaria Pinball: Shooting the Rapids - 2016 Table | 344575 | [344575-zaccaria-pinball-shooting-the-rapids-2016-table.json](./344575-zaccaria-pinball-shooting-the-rapids-2016-table.json) |
 | Zaccaria Pinball: Shooting the Rapids Deluxe Pinball Table | 349920 | [349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json](./349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Soccer Kings Deluxe Pinball Table | 349917 | [349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json](./349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Solid-State Table Pack 3 | 411009 | [411009-zaccaria-pinball-solid-state-table-pack-3.json](./411009-zaccaria-pinball-solid-state-table-pack-3.json) |
@@ -551,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defense: Jungle Edition | 371432 | [371432-zombie-defense-jungle-edition.json](./371432-zombie-defense-jungle-edition.json) |
 | Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
 | Zombie Defense: Pew Pew Edition | 306518 | [306518-zombie-defense-pew-pew-edition.json](./306518-zombie-defense-pew-pew-edition.json) |
+| Zombie Demolition: Infinite Zombie Shooter | 344558 | [344558-zombie-demolition-infinite-zombie-shooter.json](./344558-zombie-demolition-infinite-zombie-shooter.json) |
 | Zombie Derby | 96622 | [96622-zombie-derby.json](./96622-zombie-derby.json) |
 | Zombie Derby Collection | 280230 | [280230-zombie-derby-collection.json](./280230-zombie-derby-collection.json) |
 | Zombie Derby: Pixel Survival | 169364 | [169364-zombie-derby-pixel-survival.json](./169364-zombie-derby-pixel-survival.json) |
