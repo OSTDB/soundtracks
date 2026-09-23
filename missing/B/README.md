@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
 | Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
+| Bite the Crown | 345666 | [345666-bite-the-crown.json](./345666-bite-the-crown.json) |
 | Biters | 231492 | [231492-biters.json](./231492-biters.json) |
 | Biters & Bullets | 203908 | [203908-biters-and-bullets.json](./203908-biters-and-bullets.json) |
 | Bitesize Heroes: Forest Defender | 294303 | [294303-bitesize-heroes-forest-defender.json](./294303-bitesize-heroes-forest-defender.json) |
@@ -4991,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
 | Bow Climb | 239660 | [239660-bow-climb.json](./239660-bow-climb.json) |
+| Bow Course: Archery Golf | 345668 | [345668-bow-course-archery-golf.json](./345668-bow-course-archery-golf.json) |
 | Bow Hunter 2015 | 250937 | [250937-bow-hunter-2015.json](./250937-bow-hunter-2015.json) |
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bow-wow Battle | 398481 | [398481-bow-wow-battle.json](./398481-bow-wow-battle.json) |
@@ -5185,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain You Later | 135677 | [135677-brain-you-later.json](./135677-brain-you-later.json) |
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
+| Braindead | 345660 | [345660-braindead.json](./345660-braindead.json) |
 | Braindead, Your Majesty | 108827 | [108827-braindead-your-majesty.json](./108827-braindead-your-majesty.json) |
 | Brainmelter Deluxe | 112780 | [112780-brainmelter-deluxe.json](./112780-brainmelter-deluxe.json) |
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
@@ -5695,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
 | Broom Broom | 387655 | [387655-broom-broom.json](./387655-broom-broom.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
+| BroomSweeper | 345662 | [345662-broomsweeper.json](./345662-broomsweeper.json) |
 | Bros | 198391 | [198391-bros.json](./198391-bros.json) |
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
@@ -6137,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bumble Brawlers | 330343 | [330343-bumble-brawlers.json](./330343-bumble-brawlers.json) |
 | Bumble Rumble | 346678 | [346678-bumble-rumble.json](./346678-bumble-rumble.json) |
+| Bumblebee: Storm of Friendship | 345691 | [345691-bumblebee-storm-of-friendship.json](./345691-bumblebee-storm-of-friendship.json) |
 | Bumbledore | 16348 | [16348-bumbledore.json](./16348-bumbledore.json) |
 | Bumblepig | 94735 | [94735-bumblepig.json](./94735-bumblepig.json) |
 | BumbleTales | 294740 | [294740-bumbletales.json](./294740-bumbletales.json) |
