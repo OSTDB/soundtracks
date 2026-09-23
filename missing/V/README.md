@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void of Lilly | 366284 | [366284-void-of-lilly.json](./366284-void-of-lilly.json) |
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
 | Void Operators | 413874 | [413874-void-operators.json](./413874-void-operators.json) |
+| Void Pachinko | 384212 | [384212-void-pachinko.json](./384212-void-pachinko.json) |
 | Void Phantom | 388256 | [388256-void-phantom.json](./388256-void-phantom.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
 | Void Salvage | 388936 | [388936-void-salvage.json](./388936-void-salvage.json) |
