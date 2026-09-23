@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
 | Adven'chuta | 94542 | [94542-advenchuta.json](./94542-advenchuta.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
+| Advent Arena | 370292 | [370292-advent-arena.json](./370292-advent-arena.json) |
 | Advent Calendar | 212875 | [212875-advent-calendar.json](./212875-advent-calendar.json) |
 | Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
 | Advent Crossroad | 154404 | [154404-advent-crossroad.json](./154404-advent-crossroad.json) |
@@ -5292,6 +5293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: Fantasy Academy Costume Set | 356743 | [356743-atelier-yumia-fantasy-academy-costume-set.json](./356743-atelier-yumia-fantasy-academy-costume-set.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
+| Athamuff | 370303 | [370303-athamuff.json](./370303-athamuff.json) |
 | Athar: Echoes of Time | 387657 | [387657-athar-echoes-of-time.json](./387657-athar-echoes-of-time.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena | 9052 | [9052-athena.json](./9052-athena.json) |
