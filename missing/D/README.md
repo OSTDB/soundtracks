@@ -5145,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VIII: Journey of the Cursed King | 205649 | [205649-dragon-quest-viii-journey-of-the-cursed-king.json](./205649-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest X: All In One Package - Versions 1-6 | 222408 | [222408-dragon-quest-x-all-in-one-package-versions-1-6.json](./222408-dragon-quest-x-all-in-one-package-versions-1-6.json) |
 | Dragon Quest X: Ibara no Miko to Horobi no Kami Online | 136835 | [136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json](./136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json) |
+| Dragon Quest X: Jikuu no Mayoigo-tachi Online | 374305 | [374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json](./374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json) |
 | Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online | 80597 | [80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json](./80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json) |
 | Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
 | Dragon Quest: Legacy of the Lost | 300697 | [300697-dragon-quest-legacy-of-the-lost.json](./300697-dragon-quest-legacy-of-the-lost.json) |
