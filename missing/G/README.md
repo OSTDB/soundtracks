@@ -1557,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Raid | 195172 | [195172-girl-raid.json](./195172-girl-raid.json) |
 | Girl Rugby Dash | 110139 | [110139-girl-rugby-dash.json](./110139-girl-rugby-dash.json) |
 | Girl Terminal | 410241 | [410241-girl-terminal.json](./410241-girl-terminal.json) |
+| Girl Werewolf Hamlet Saves Christmas | 376102 | [376102-girl-werewolf-hamlet-saves-christmas.json](./376102-girl-werewolf-hamlet-saves-christmas.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
 | Girl with a Big Sword | 110174 | [110174-girl-with-a-big-sword.json](./110174-girl-with-a-big-sword.json) |
 | Girl with a Heart of | 64906 | [64906-girl-with-a-heart-of.json](./64906-girl-with-a-heart-of.json) |
@@ -2167,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOKA Street | 297250 | [297250-goka-street.json](./297250-goka-street.json) |
 | Gokai Awesome Simulator + | 326416 | [326416-gokai-awesome-simulator.json](./326416-gokai-awesome-simulator.json) |
 | GoKart: New Mexico | 193449 | [193449-gokart-new-mexico.json](./193449-gokart-new-mexico.json) |
+| Gokudou Simulation Teppoudama Jingi | 376131 | [376131-gokudou-simulation-teppoudama-jingi.json](./376131-gokudou-simulation-teppoudama-jingi.json) |
 | Gokujou!! Mecha Mote Iinchou: MM My Best Friend! | 130390 | [130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json](./130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json) |
 | Gokuraku Chuka Taisen | 37711 | [37711-gokuraku-chuka-taisen.json](./37711-gokuraku-chuka-taisen.json) |
 | Gokuraku Yuugi: Game Tengoku | 41376 | [41376-gokuraku-yuugi-game-tengoku.json](./41376-gokuraku-yuugi-game-tengoku.json) |
