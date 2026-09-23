@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradroid 90 | 13253 | [13253-paradroid-90.json](./13253-paradroid-90.json) |
 | Paraedolon | 320011 | [320011-paraedolon.json](./320011-paraedolon.json) |
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
+| Paragnosia: Museum | 365305 | [365305-paragnosia-museum.json](./365305-paragnosia-museum.json) |
 | Paragon of Time | 339907 | [339907-paragon-of-time.json](./339907-paragon-of-time.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
 | Paragon Pioneers 2: Happy Southburghs | 310045 | [310045-paragon-pioneers-2-happy-southburghs.json](./310045-paragon-pioneers-2-happy-southburghs.json) |
@@ -3606,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Party | 224587 | [224587-pogo-party.json](./224587-pogo-party.json) |
 | Pogo Postman | 183463 | [183463-pogo-postman.json](./183463-pogo-postman.json) |
 | Pogo Rage: The Awakening | 220649 | [220649-pogo-rage-the-awakening.json](./220649-pogo-rage-the-awakening.json) |
+| Pogo Up! | 365289 | [365289-pogo-up.json](./365289-pogo-up.json) |
 | Pogo-Gogo | 291784 | [291784-pogo-gogo.json](./291784-pogo-gogo.json) |
 | Pogo-Rocket | 154030 | [154030-pogo-rocket.json](./154030-pogo-rocket.json) |
 | Pogo3D | 259015 | [259015-pogo3d.json](./259015-pogo3d.json) |
@@ -5527,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Gemini | 122158 | [122158-project-gemini.json](./122158-project-gemini.json) |
 | Project: Genesis | 270195 | [270195-project-genesis.json](./270195-project-genesis.json) |
 | Project: Gorgon | 26836 | [26836-project-gorgon.json](./26836-project-gorgon.json) |
+| Project: Haste | 365251 | [365251-project-haste.json](./365251-project-haste.json) |
 | Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
 | Project: Kate | 262436 | [262436-project-kate.json](./262436-project-kate.json) |
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
