@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Slashers: Remake | 290795 | [290795-night-slashers-remake.json](./290795-night-slashers-remake.json) |
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
 | Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
+| Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
 | Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
 | Night Time | 369222 | [369222-night-time.json](./369222-night-time.json) |
 | Night Trap | 2486 | [2486-night-trap.json](./2486-night-trap.json) |
@@ -2414,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noon Stone | 346590 | [346590-noon-stone.json](./346590-noon-stone.json) |
 | Noonie | 99630 | [99630-noonie.json](./99630-noonie.json) |
 | Noor Quest | 91983 | [91983-noor-quest.json](./91983-noor-quest.json) |
+| Noox | 343992 | [343992-noox.json](./343992-noox.json) |
 | Nope | 184468 | [184468-nope.json](./184468-nope.json) |
 | Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
 | Nophenia | 369651 | [369651-nophenia.json](./369651-nophenia.json) |
