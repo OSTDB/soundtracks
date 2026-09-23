@@ -3284,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
 | Dirge | 145680 | [145680-dirge.json](./145680-dirge.json) |
+| Dirge of the Scarlet Star | 387028 | [387028-dirge-of-the-scarlet-star.json](./387028-dirge-of-the-scarlet-star.json) |
 | Dirk Vander Wilt's Kasia | 159141 | [159141-dirk-vander-wilts-kasia.json](./159141-dirk-vander-wilts-kasia.json) |
 | Dirt 3 | 524 | [524-dirt-3.json](./524-dirt-3.json) |
 | Dirt 3: Colin McRae Vision Charity Pack | 234913 | [234913-dirt-3-colin-mcrae-vision-charity-pack.json](./234913-dirt-3-colin-mcrae-vision-charity-pack.json) |
@@ -3295,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 5: Wild Spirits Content Pack | 292027 | [292027-dirt-5-wild-spirits-content-pack.json](./292027-dirt-5-wild-spirits-content-pack.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
 | Dirt Bicycle Rider Simulator | 259816 | [259816-dirt-bicycle-rider-simulator.json](./259816-dirt-bicycle-rider-simulator.json) |
+| Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
 | Dirt Moto Racing | 63840 | [63840-dirt-moto-racing.json](./63840-dirt-moto-racing.json) |
 | Dirt Racing 2 Sprint Car Game | 232161 | [232161-dirt-racing-2-sprint-car-game.json](./232161-dirt-racing-2-sprint-car-game.json) |
@@ -4586,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
 | Dot | 328021 | [328021-dot.json](./328021-dot.json) |
 | Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
+| Dot Art Logic | 386990 | [386990-dot-art-logic.json](./386990-dot-art-logic.json) |
 | Dot Big Bang | 74797 | [74797-dot-big-bang.json](./74797-dot-big-bang.json) |
 | Dot by Dot+ | 19383 | [19383-dot-by-dot.json](./19383-dot-by-dot.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
@@ -4977,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Super Pass | 117656 | [117656-dragon-ball-xenoverse-2-super-pass.json](./117656-dragon-ball-xenoverse-2-super-pass.json) |
 | Dragon Ball: Xenoverse 2 - Ultra Pack 1 | 168742 | [168742-dragon-ball-xenoverse-2-ultra-pack-1.json](./168742-dragon-ball-xenoverse-2-ultra-pack-1.json) |
 | Dragon Ball: Xenoverse 2: Special Edition | 271831 | [271831-dragon-ball-xenoverse-2-special-edition.json](./271831-dragon-ball-xenoverse-2-special-edition.json) |
+| Dragon Ball: Xenoverse 3 | 387020 | [387020-dragon-ball-xenoverse-3.json](./387020-dragon-ball-xenoverse-3.json) |
 | Dragon Banner | 130162 | [130162-dragon-banner.json](./130162-dragon-banner.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
 | Dragon Beat: Legend of Pinball | 73754 | [73754-dragon-beat-legend-of-pinball.json](./73754-dragon-beat-legend-of-pinball.json) |
@@ -5522,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamworks' Shark Tale | 4148 | [4148-dreamworks-shark-tale.json](./4148-dreamworks-shark-tale.json) |
 | Dreamworks' Universe of Legends | 82114 | [82114-dreamworks-universe-of-legends.json](./82114-dreamworks-universe-of-legends.json) |
 | DreamWorld | 145026 | [145026-dreamworld.json](./145026-dreamworld.json) |
+| Dreamwrought | 387022 | [387022-dreamwrought.json](./387022-dreamwrought.json) |
 | Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
@@ -5718,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
 | Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
+| Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
 | Drop the Number | 216214 | [216214-drop-the-number.json](./216214-drop-the-number.json) |
 | Drop Zone | 46600 | [46600-drop-zone.json](./46600-drop-zone.json) |
 | Drop Zone 4 | 109590 | [109590-drop-zone-4.json](./109590-drop-zone-4.json) |
@@ -6422,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Defense | 101339 | [101339-dwarf-defense.json](./101339-dwarf-defense.json) |
 | Dwarf Eats Mountain | 390780 | [390780-dwarf-eats-mountain.json](./390780-dwarf-eats-mountain.json) |
 | Dwarf Fortress | 228456 | [228456-dwarf-fortress.json](./228456-dwarf-fortress.json) |
+| Dwarf Guild Mania | 387026 | [387026-dwarf-guild-mania.json](./387026-dwarf-guild-mania.json) |
 | Dwarf Journey | 144137 | [144137-dwarf-journey.json](./144137-dwarf-journey.json) |
 | Dwarf Land | 284905 | [284905-dwarf-land.json](./284905-dwarf-land.json) |
 | Dwarf Legacy | 338297 | [338297-dwarf-legacy.json](./338297-dwarf-legacy.json) |
