@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
 | Aenigmarch | 360655 | [360655-aenigmarch.json](./360655-aenigmarch.json) |
 | Aeon Nightmares | 282133 | [282133-aeon-nightmares.json](./282133-aeon-nightmares.json) |
+| Aeon Tempus | 365283 | [365283-aeon-tempus.json](./365283-aeon-tempus.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
@@ -5050,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
 | Astraeus | 101636 | [101636-astraeus.json](./101636-astraeus.json) |
+| Astraeus Odyssey | 365307 | [365307-astraeus-odyssey.json](./365307-astraeus-odyssey.json) |
 | Astragali | 330861 | [330861-astragali.json](./330861-astragali.json) |
 | Astral | 111566 | [111566-astral.json](./111566-astral.json) |
 | Astral | 14273 | [14273-astral.json](./14273-astral.json) |
@@ -5562,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
 | Austin Powers: Oh, Behave! | 49890 | [49890-austin-powers-oh-behave.json](./49890-austin-powers-oh-behave.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
+| Australia Did It | 365278 | [365278-australia-did-it.json](./365278-australia-did-it.json) |
 | Australian Cricket Captain | 74080 | [74080-australian-cricket-captain.json](./74080-australian-cricket-captain.json) |
 | Australian Idol Sing | 71766 | [71766-australian-idol-sing.json](./71766-australian-idol-sing.json) |
 | Australiove | 181795 | [181795-australiove.json](./181795-australiove.json) |
