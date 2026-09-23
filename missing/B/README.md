@@ -1841,6 +1841,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts & Bumpkins | 50151 | [50151-beasts-and-bumpkins.json](./50151-beasts-and-bumpkins.json) |
 | Beasts & Chests | 105294 | [105294-beasts-and-chests.json](./105294-beasts-and-chests.json) |
 | Beasts From Beyond | 238622 | [238622-beasts-from-beyond.json](./238622-beasts-from-beyond.json) |
+| Beasts of Bermuda: Kaprosuchus Supporter Warpaint | 379580 | [379580-beasts-of-bermuda-kaprosuchus-supporter-warpaint.json](./379580-beasts-of-bermuda-kaprosuchus-supporter-warpaint.json) |
+| Beasts of Bermuda: Palaeophis Supporter Warpaint | 379579 | [379579-beasts-of-bermuda-palaeophis-supporter-warpaint.json](./379579-beasts-of-bermuda-palaeophis-supporter-warpaint.json) |
+| Beasts of Bermuda: Utahraptor Supporter Warpaint | 379578 | [379578-beasts-of-bermuda-utahraptor-supporter-warpaint.json](./379578-beasts-of-bermuda-utahraptor-supporter-warpaint.json) |
+| Beasts of Bermuda: Velociraptor Supporter Warpaint | 379577 | [379577-beasts-of-bermuda-velociraptor-supporter-warpaint.json](./379577-beasts-of-bermuda-velociraptor-supporter-warpaint.json) |
 | Beasts of Fortune | 352255 | [352255-beasts-of-fortune.json](./352255-beasts-of-fortune.json) |
 | Beasts of Horror | 265940 | [265940-beasts-of-horror.json](./265940-beasts-of-horror.json) |
 | Beasts of Steel | 265411 | [265411-beasts-of-steel.json](./265411-beasts-of-steel.json) |
@@ -5019,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Teasers & Math Puzzles | 101975 | [101975-brain-teasers-and-math-puzzles.json](./101975-brain-teasers-and-math-puzzles.json) |
 | Brain Test | 166733 | [166733-brain-test.json](./166733-brain-test.json) |
 | Brain Test 2: Tricky Stories | 297626 | [297626-brain-test-2-tricky-stories.json](./297626-brain-test-2-tricky-stories.json) |
+| Brain Test All-Star: IQ Boost | 379581 | [379581-brain-test-all-star-iq-boost.json](./379581-brain-test-all-star-iq-boost.json) |
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
 | Brain Trainer: Spot the Difference | 99384 | [99384-brain-trainer-spot-the-difference.json](./99384-brain-trainer-spot-the-difference.json) |
 | Brain Urge | 278556 | [278556-brain-urge.json](./278556-brain-urge.json) |
