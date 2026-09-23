@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
 | Gauntlet: The Third Encounter | 7295 | [7295-gauntlet-the-third-encounter.json](./7295-gauntlet-the-third-encounter.json) |
 | Gay Battlegrounds | 105354 | [105354-gay-battlegrounds.json](./105354-gay-battlegrounds.json) |
+| Gay Guys | 368117 | [368117-gay-guys.json](./368117-gay-guys.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
 | Gay Sex Simulator | 405059 | [405059-gay-sex-simulator.json](./405059-gay-sex-simulator.json) |
 | Gay Zodiac | 183034 | [183034-gay-zodiac.json](./183034-gay-zodiac.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
 | Girlfriend Rescue | 10364 | [10364-girlfriend-rescue.json](./10364-girlfriend-rescue.json) |
 | Girlfriend Simulator | 379587 | [379587-girlfriend-simulator.json](./379587-girlfriend-simulator.json) |
+| GirlFriend VR | 368116 | [368116-girlfriend-vr.json](./368116-girlfriend-vr.json) |
 | Girlfriend's sister | 75784 | [75784-girlfriends-sister.json](./75784-girlfriends-sister.json) |
 | Girlfriends Forever: Magic Skate | 84511 | [84511-girlfriends-forever-magic-skate.json](./84511-girlfriends-forever-magic-skate.json) |
 | Girlish Grimoire Littlewitch Romanesque: Editio Perfecta | 50166 | [50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json](./50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json) |
@@ -2453,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight, B | 411801 | [411801-goodnight-b.json](./411801-goodnight-b.json) |
 | Goodwad | 262439 | [262439-goodwad.json](./262439-goodwad.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
+| Gooey | 368139 | [368139-gooey.json](./368139-gooey.json) |
 | Goof Ball | 78033 | [78033-goof-ball.json](./78033-goof-ball.json) |
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
