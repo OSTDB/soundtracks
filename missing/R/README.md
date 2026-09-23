@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaver | 194429 | [194429-reaver.json](./194429-reaver.json) |
 | Rebadge | 397096 | [397096-rebadge.json](./397096-rebadge.json) |
 | Reball | 68931 | [68931-reball.json](./68931-reball.json) |
+| Rebel Engine | 374272 | [374272-rebel-engine.json](./374272-rebel-engine.json) |
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
 | Rebel Inc. | 115206 | [115206-rebel-inc.json](./115206-rebel-inc.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
@@ -2319,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie: A Heroes Tale | 89951 | [89951-reverie-a-heroes-tale.json](./89951-reverie-a-heroes-tale.json) |
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
 | Reversal of Deck | 283717 | [283717-reversal-of-deck.json](./283717-reversal-of-deck.json) |
+| Reverse 1999: A Long Long Way | 374300 | [374300-reverse-1999-a-long-long-way.json](./374300-reverse-1999-a-long-long-way.json) |
 | Reverse 1999: A Nightmare at Green Lake | 279786 | [279786-reverse-1999-a-nightmare-at-green-lake.json](./279786-reverse-1999-a-nightmare-at-green-lake.json) |
 | Reverse 1999: Chronicles of Uluru: London Dawning | 343348 | [343348-reverse-1999-chronicles-of-uluru-london-dawning.json](./343348-reverse-1999-chronicles-of-uluru-london-dawning.json) |
 | Reverse 1999: E lucevan le stelle | 340218 | [340218-reverse-1999-e-lucevan-le-stelle.json](./340218-reverse-1999-e-lucevan-le-stelle.json) |
@@ -3100,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
 | Roar | 179078 | [179078-roar.json](./179078-roar.json) |
+| Roar Rampage | 374282 | [374282-roar-rampage.json](./374282-roar-rampage.json) |
 | Roaring Streets! | 181293 | [181293-roaring-streets.json](./181293-roaring-streets.json) |
 | Roaring Twenties Solitaire | 213935 | [213935-roaring-twenties-solitaire.json](./213935-roaring-twenties-solitaire.json) |
 | Roark's Attack on Titan Fan Game | 152751 | [152751-roarks-attack-on-titan-fan-game.json](./152751-roarks-attack-on-titan-fan-game.json) |
