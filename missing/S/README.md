@@ -7615,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Car Fighter | 99036 | [99036-speed-car-fighter.json](./99036-speed-car-fighter.json) |
 | Speed Car Fighter 3D 2015 | 100115 | [100115-speed-car-fighter-3d-2015.json](./100115-speed-car-fighter-3d-2015.json) |
 | Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
+| Speed Dates: Summer Edition | 348432 | [348432-speed-dates-summer-edition.json](./348432-speed-dates-summer-edition.json) |
 | Speed Dating for Ghosts | 75799 | [75799-speed-dating-for-ghosts.json](./75799-speed-dating-for-ghosts.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
@@ -10334,6 +10335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Strength & Honour 2 | 54404 | [54404-strength-and-honour-2.json](./54404-strength-and-honour-2.json) |
 | Strength & Skill: Guiness Book of Records | 283734 | [283734-strength-and-skill-guiness-book-of-records.json](./283734-strength-and-skill-guiness-book-of-records.json) |
+| Strength in Numbers | 348438 | [348438-strength-in-numbers.json](./348438-strength-in-numbers.json) |
 | Strength of the Sword 3 | 52864 | [52864-strength-of-the-sword-3.json](./52864-strength-of-the-sword-3.json) |
 | Stress Ball | 285448 | [285448-stress-ball.json](./285448-stress-ball.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
@@ -11071,6 +11073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Riders | 276081 | [276081-sunset-riders.json](./276081-sunset-riders.json) |
 | Sunset Riders | 321396 | [321396-sunset-riders.json](./321396-sunset-riders.json) |
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
+| Sunset Sprout | 348460 | [348460-sunset-sprout.json](./348460-sunset-sprout.json) |
 | Sunset Street Ninja | 375943 | [375943-sunset-street-ninja.json](./375943-sunset-street-ninja.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
 | Sunset Town | 333093 | [333093-sunset-town.json](./333093-sunset-town.json) |
