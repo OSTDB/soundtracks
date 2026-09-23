@@ -3162,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
 | Black Screen | 377179 | [377179-black-screen.json](./377179-black-screen.json) |
 | Black Sea: Treasure Hunters | 311671 | [311671-black-sea-treasure-hunters.json](./311671-black-sea-treasure-hunters.json) |
+| Black Sector | 384777 | [384777-black-sector.json](./384777-black-sector.json) |
 | Black Shadow | 14310 | [14310-black-shadow.json](./14310-black-shadow.json) |
 | Black Sheep | 172703 | [172703-black-sheep.json](./172703-black-sheep.json) |
 | Black Sheep | 202262 | [202262-black-sheep.json](./202262-black-sheep.json) |
