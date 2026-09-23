@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T23:03:15.417Z",
-  "total_missing": 113377,
+  "generated_at": "2026-09-23T23:17:42.451Z",
+  "total_missing": 113427,
   "games": [
     {
       "igdb_id": 176875,
@@ -40196,6 +40196,56 @@
       "igdb_id": 328627,
       "game_name": "Barcode Battler II: Super Mario World - Yossy",
       "file": "missing/B/328627-barcode-battler-ii-super-mario-world-yossy.json"
+    },
+    {
+      "igdb_id": 338371,
+      "game_name": "Barcode Battler: Bio-Zabrin",
+      "file": "missing/B/338371-barcode-battler-bio-zabrin.json"
+    },
+    {
+      "igdb_id": 338355,
+      "game_name": "Barcode Battler: Bon-Curry",
+      "file": "missing/B/338355-barcode-battler-bon-curry.json"
+    },
+    {
+      "igdb_id": 338356,
+      "game_name": "Barcode Battler: Cha-Han",
+      "file": "missing/B/338356-barcode-battler-cha-han.json"
+    },
+    {
+      "igdb_id": 338375,
+      "game_name": "Barcode Battler: Chu-Hi-Can",
+      "file": "missing/B/338375-barcode-battler-chu-hi-can.json"
+    },
+    {
+      "igdb_id": 338361,
+      "game_name": "Barcode Battler: Dry BL",
+      "file": "missing/B/338361-barcode-battler-dry-bl.json"
+    },
+    {
+      "igdb_id": 338360,
+      "game_name": "Barcode Battler: Iron-Cola",
+      "file": "missing/B/338360-barcode-battler-iron-cola.json"
+    },
+    {
+      "igdb_id": 338359,
+      "game_name": "Barcode Battler: J-Ebara",
+      "file": "missing/B/338359-barcode-battler-j-ebara.json"
+    },
+    {
+      "igdb_id": 338357,
+      "game_name": "Barcode Battler: Kincho-R",
+      "file": "missing/B/338357-barcode-battler-kincho-r.json"
+    },
+    {
+      "igdb_id": 338353,
+      "game_name": "Barcode Battler: Rarman",
+      "file": "missing/B/338353-barcode-battler-rarman.json"
+    },
+    {
+      "igdb_id": 338354,
+      "game_name": "Barcode Battler: U-Ronchan",
+      "file": "missing/B/338354-barcode-battler-u-ronchan.json"
     },
     {
       "igdb_id": 173808,
@@ -203003,6 +203053,21 @@
       "file": "missing/H/257067-hannah-and-henry.json"
     },
     {
+      "igdb_id": 338367,
+      "game_name": "Hannah and the Ice Caves",
+      "file": "missing/H/338367-hannah-and-the-ice-caves.json"
+    },
+    {
+      "igdb_id": 338381,
+      "game_name": "Hannah and the Kreludor Caves",
+      "file": "missing/H/338381-hannah-and-the-kreludor-caves.json"
+    },
+    {
+      "igdb_id": 338358,
+      "game_name": "Hannah and the Pirate Caves",
+      "file": "missing/H/338358-hannah-and-the-pirate-caves.json"
+    },
+    {
       "igdb_id": 228444,
       "game_name": "Hannah Montana: DVD Game",
       "file": "missing/H/228444-hannah-montana-dvd-game.json"
@@ -275663,6 +275728,11 @@
       "file": "missing/M/312199-mages-of-osmea.json"
     },
     {
+      "igdb_id": 338350,
+      "game_name": "MageTrain",
+      "file": "missing/M/338350-magetrain.json"
+    },
+    {
       "igdb_id": 50504,
       "game_name": "Maggie's Apartment",
       "file": "missing/M/50504-maggies-apartment.json"
@@ -297131,6 +297201,11 @@
       "igdb_id": 266891,
       "game_name": "Minion Quest: The Search for Bowser",
       "file": "missing/M/266891-minion-quest-the-search-for-bowser.json"
+    },
+    {
+      "igdb_id": 338349,
+      "game_name": "Minion Rumble",
+      "file": "missing/M/338349-minion-rumble.json"
     },
     {
       "igdb_id": 176423,
@@ -476008,6 +476083,11 @@
       "file": "missing/T/304047-the-bathhouse-restored-edition.json"
     },
     {
+      "igdb_id": 338352,
+      "game_name": "The Batman: The Cobblebot Caper",
+      "file": "missing/T/338352-the-batman-the-cobblebot-caper.json"
+    },
+    {
       "igdb_id": 59746,
       "game_name": "The Battle Cats",
       "file": "missing/T/59746-the-battle-cats.json"
@@ -541328,6 +541408,11 @@
       "file": "missing/W/90516-war-of-the-zombie.json"
     },
     {
+      "igdb_id": 338398,
+      "game_name": "War of Warship",
+      "file": "missing/W/338398-war-of-warship.json"
+    },
+    {
       "igdb_id": 215666,
       "game_name": "War of Wizards",
       "file": "missing/W/215666-war-of-wizards.json"
@@ -541416,6 +541501,11 @@
       "igdb_id": 132203,
       "game_name": "War Smith",
       "file": "missing/W/132203-war-smith.json"
+    },
+    {
+      "igdb_id": 338395,
+      "game_name": "War Sniper",
+      "file": "missing/W/338395-war-sniper.json"
     },
     {
       "igdb_id": 371250,
@@ -542768,6 +542858,11 @@
       "file": "missing/W/199605-warmonger-sins-of-the-naga.json"
     },
     {
+      "igdb_id": 338399,
+      "game_name": "Warmonger:45",
+      "file": "missing/W/338399-warmonger-45.json"
+    },
+    {
       "igdb_id": 273392,
       "game_name": "Warmongers",
       "file": "missing/W/273392-warmongers.json"
@@ -543003,6 +543098,11 @@
       "file": "missing/W/111853-warpzone-drifter.json"
     },
     {
+      "igdb_id": 338397,
+      "game_name": "Warranty Man",
+      "file": "missing/W/338397-warranty-man.json"
+    },
+    {
       "igdb_id": 159817,
       "game_name": "Warrecs 2",
       "file": "missing/W/159817-warrecs-2.json"
@@ -543233,6 +543333,11 @@
       "file": "missing/W/115659-warsaw-rising-city-of-heroes.json"
     },
     {
+      "igdb_id": 338396,
+      "game_name": "WarShape",
+      "file": "missing/W/338396-warshape.json"
+    },
+    {
       "igdb_id": 14075,
       "game_name": "Warshift",
       "file": "missing/W/14075-warshift.json"
@@ -543403,6 +543508,11 @@
       "file": "missing/W/328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json"
     },
     {
+      "igdb_id": 338394,
+      "game_name": "Wash the Cars",
+      "file": "missing/W/338394-wash-the-cars.json"
+    },
+    {
       "igdb_id": 104040,
       "game_name": "Washed Up!",
       "file": "missing/W/104040-washed-up.json"
@@ -543443,6 +543553,11 @@
       "file": "missing/W/413735-waste-the-fallen.json"
     },
     {
+      "igdb_id": 338391,
+      "game_name": "Waste Time Lotto",
+      "file": "missing/W/338391-waste-time-lotto.json"
+    },
+    {
       "igdb_id": 395175,
       "game_name": "Waste Water",
       "file": "missing/W/395175-waste-water.json"
@@ -543466,6 +543581,11 @@
       "igdb_id": 17925,
       "game_name": "Wasted",
       "file": "missing/W/17925-wasted.json"
+    },
+    {
+      "igdb_id": 338393,
+      "game_name": "Wasted",
+      "file": "missing/W/338393-wasted.json"
     },
     {
       "igdb_id": 338254,
@@ -543511,6 +543631,11 @@
       "igdb_id": 387646,
       "game_name": "Wasteland Orchard",
       "file": "missing/W/387646-wasteland-orchard.json"
+    },
+    {
+      "igdb_id": 338392,
+      "game_name": "Wasteland Rangers",
+      "file": "missing/W/338392-wasteland-rangers.json"
     },
     {
       "igdb_id": 356730,
@@ -543871,6 +543996,11 @@
       "igdb_id": 344542,
       "game_name": "WaterMeasure",
       "file": "missing/W/344542-watermeasure.json"
+    },
+    {
+      "igdb_id": 338390,
+      "game_name": "Watermelon",
+      "file": "missing/W/338390-watermelon.json"
     },
     {
       "igdb_id": 275693,
@@ -544413,6 +544543,11 @@
       "file": "missing/W/165049-we-are-all-but-bones-and-dust.json"
     },
     {
+      "igdb_id": 338388,
+      "game_name": "We are Blob",
+      "file": "missing/W/338388-we-are-blob.json"
+    },
+    {
       "igdb_id": 146090,
       "game_name": "We are Broken",
       "file": "missing/W/146090-we-are-broken.json"
@@ -544778,6 +544913,11 @@
       "file": "missing/W/277977-weapon-party.json"
     },
     {
+      "igdb_id": 338389,
+      "game_name": "Weapon Rearing",
+      "file": "missing/W/338389-weapon-rearing.json"
+    },
+    {
       "igdb_id": 104095,
       "game_name": "WeaponGo",
       "file": "missing/W/104095-weapongo.json"
@@ -544918,9 +545058,19 @@
       "file": "missing/W/111631-webbvr-the-james-webb-space-telescope-virtual-experience.json"
     },
     {
+      "igdb_id": 338387,
+      "game_name": "Webcam Love",
+      "file": "missing/W/338387-webcam-love.json"
+    },
+    {
       "igdb_id": 243151,
       "game_name": "WebCum Empire Tycoon",
       "file": "missing/W/243151-webcum-empire-tycoon.json"
+    },
+    {
+      "igdb_id": 338386,
+      "game_name": "WebCum Secrets",
+      "file": "missing/W/338386-webcum-secrets.json"
     },
     {
       "igdb_id": 213393,
@@ -545286,6 +545436,11 @@
       "igdb_id": 194551,
       "game_name": "Welcome to a Sexy, Open World!",
       "file": "missing/W/194551-welcome-to-a-sexy-open-world.json"
+    },
+    {
+      "igdb_id": 338385,
+      "game_name": "Welcome to Bunny Farm",
+      "file": "missing/W/338385-welcome-to-bunny-farm.json"
     },
     {
       "igdb_id": 132264,
@@ -545683,6 +545838,11 @@
       "file": "missing/W/273670-west-hunt-halloween-pack2.json"
     },
     {
+      "igdb_id": 338384,
+      "game_name": "West Journey",
+      "file": "missing/W/338384-west-journey.json"
+    },
+    {
       "igdb_id": 95882,
       "game_name": "West Mafia Redemption",
       "file": "missing/W/95882-west-mafia-redemption.json"
@@ -545823,9 +545983,19 @@
       "file": "missing/W/114232-wet-girl.json"
     },
     {
+      "igdb_id": 338383,
+      "game_name": "Wet Girls",
+      "file": "missing/W/338383-wet-girls.json"
+    },
+    {
       "igdb_id": 158560,
       "game_name": "Wet Nightmares",
       "file": "missing/W/158560-wet-nightmares.json"
+    },
+    {
+      "igdb_id": 338382,
+      "game_name": "Wet Passion",
+      "file": "missing/W/338382-wet-passion.json"
     },
     {
       "igdb_id": 158072,
@@ -545901,6 +546071,11 @@
       "igdb_id": 64369,
       "game_name": "WGT Golf",
       "file": "missing/W/64369-wgt-golf.json"
+    },
+    {
+      "igdb_id": 338380,
+      "game_name": "WGV: Dreamcatcher",
+      "file": "missing/W/338380-wgv-dreamcatcher.json"
     },
     {
       "igdb_id": 49347,
@@ -546213,6 +546388,11 @@
       "file": "missing/W/400246-what-the-car-x-goat-simulator.json"
     },
     {
+      "igdb_id": 338379,
+      "game_name": "What the Chuck?",
+      "file": "missing/W/338379-what-the-chuck.json"
+    },
+    {
       "igdb_id": 339825,
       "game_name": "What the Clash?",
       "file": "missing/W/339825-what-the-clash.json"
@@ -546408,6 +546588,11 @@
       "file": "missing/W/101951-wheel-dismount.json"
     },
     {
+      "igdb_id": 338376,
+      "game_name": "Wheel Of Fates",
+      "file": "missing/W/338376-wheel-of-fates.json"
+    },
+    {
       "igdb_id": 119255,
       "game_name": "Wheel of Fortune",
       "file": "missing/W/119255-wheel-of-fortune.json"
@@ -546513,9 +546698,19 @@
       "file": "missing/W/239892-wheelie-2.json"
     },
     {
+      "igdb_id": 338378,
+      "game_name": "Wheelie City",
+      "file": "missing/W/338378-wheelie-city.json"
+    },
+    {
       "igdb_id": 104656,
       "game_name": "Wheelie King 3D",
       "file": "missing/W/104656-wheelie-king-3d.json"
+    },
+    {
+      "igdb_id": 338377,
+      "game_name": "Wheelie King 7",
+      "file": "missing/W/338377-wheelie-king-7.json"
     },
     {
       "igdb_id": 396226,
@@ -547093,6 +547288,11 @@
       "file": "missing/W/389621-wheres-my-hentai-deck-castle-hunt.json"
     },
     {
+      "igdb_id": 338374,
+      "game_name": "Where's My Kitty",
+      "file": "missing/W/338374-wheres-my-kitty.json"
+    },
+    {
       "igdb_id": 63275,
       "game_name": "Where's My Mickey?",
       "file": "missing/W/63275-wheres-my-mickey.json"
@@ -547398,6 +547598,11 @@
       "file": "missing/W/133141-whiskey-mafia-leos-family.json"
     },
     {
+      "igdb_id": 338373,
+      "game_name": "Whiskey-Four",
+      "file": "missing/W/338373-whiskey-four.json"
+    },
+    {
       "igdb_id": 304611,
       "game_name": "Whisper Forest",
       "file": "missing/W/304611-whisper-forest.json"
@@ -547406,6 +547611,11 @@
       "igdb_id": 312555,
       "game_name": "Whisper of the House",
       "file": "missing/W/312555-whisper-of-the-house.json"
+    },
+    {
+      "igdb_id": 338372,
+      "game_name": "Whisper of the Shade: Gray",
+      "file": "missing/W/338372-whisper-of-the-shade-gray.json"
     },
     {
       "igdb_id": 154008,
@@ -547531,6 +547741,11 @@
       "igdb_id": 378401,
       "game_name": "Whispers of Elenrod",
       "file": "missing/W/378401-whispers-of-elenrod.json"
+    },
+    {
+      "igdb_id": 338370,
+      "game_name": "Whispers of Fear",
+      "file": "missing/W/338370-whispers-of-fear.json"
     },
     {
       "igdb_id": 296517,
@@ -547973,6 +548188,11 @@
       "file": "missing/W/184053-who-knows-where-theyre-going.json"
     },
     {
+      "igdb_id": 338369,
+      "game_name": "Who Made This",
+      "file": "missing/W/338369-who-made-this.json"
+    },
+    {
       "igdb_id": 286652,
       "game_name": "Who Made this Art? Human or AI",
       "file": "missing/W/286652-who-made-this-art-human-or-ai.json"
@@ -548131,6 +548351,11 @@
       "igdb_id": 143014,
       "game_name": "Wholesome Slaughter",
       "file": "missing/W/143014-wholesome-slaughter.json"
+    },
+    {
+      "igdb_id": 338368,
+      "game_name": "Whoopi",
+      "file": "missing/W/338368-whoopi.json"
     },
     {
       "igdb_id": 349932,
@@ -548673,6 +548898,11 @@
       "file": "missing/W/257927-wild-mutation.json"
     },
     {
+      "igdb_id": 338365,
+      "game_name": "Wild Ones Battle Stadium",
+      "file": "missing/W/338365-wild-ones-battle-stadium.json"
+    },
+    {
       "igdb_id": 166684,
       "game_name": "Wild Pinball Bundle",
       "file": "missing/W/166684-wild-pinball-bundle.json"
@@ -548936,6 +549166,11 @@
       "igdb_id": 347711,
       "game_name": "Wildbound",
       "file": "missing/W/347711-wildbound.json"
+    },
+    {
+      "igdb_id": 338366,
+      "game_name": "Wildcat Snack Attack",
+      "file": "missing/W/338366-wildcat-snack-attack.json"
     },
     {
       "igdb_id": 241635,
@@ -549858,6 +550093,11 @@
       "file": "missing/W/85492-wings-of-magloryx.json"
     },
     {
+      "igdb_id": 338364,
+      "game_name": "Wings of the Kite in Sky",
+      "file": "missing/W/338364-wings-of-the-kite-in-sky.json"
+    },
+    {
       "igdb_id": 112772,
       "game_name": "Wings of Virtus",
       "file": "missing/W/112772-wings-of-virtus.json"
@@ -549956,6 +550196,11 @@
       "igdb_id": 130946,
       "game_name": "Winner",
       "file": "missing/W/130946-winner.json"
+    },
+    {
+      "igdb_id": 338363,
+      "game_name": "Winner In Life",
+      "file": "missing/W/338363-winner-in-life.json"
     },
     {
       "igdb_id": 182455,
@@ -559016,6 +559261,11 @@
       "igdb_id": 129125,
       "game_name": "Yandere Escape",
       "file": "missing/Y/129125-yandere-escape.json"
+    },
+    {
+      "igdb_id": 338362,
+      "game_name": "Yandere Goth Boss: Valentine's Day",
+      "file": "missing/Y/338362-yandere-goth-boss-valentines-day.json"
     },
     {
       "igdb_id": 82076,
