@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Billiards | 161760 | [161760-family-billiards.json](./161760-family-billiards.json) |
 | Family Card Games Fun Pack | 82139 | [82139-family-card-games-fun-pack.json](./82139-family-card-games-fun-pack.json) |
 | Family Chess | 207877 | [207877-family-chess.json](./207877-family-chess.json) |
+| Family Chess | 360205 | [360205-family-chess.json](./360205-family-chess.json) |
 | Family Chess: Deluxe Edition | 208584 | [208584-family-chess-deluxe-edition.json](./208584-family-chess-deluxe-edition.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
@@ -3739,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Heartbreak Royale Pack | 275355 | [275355-fortnite-heartbreak-royale-pack.json](./275355-fortnite-heartbreak-royale-pack.json) |
 | Fortnite: Hexed and Haunted Pack | 363899 | [363899-fortnite-hexed-and-haunted-pack.json](./363899-fortnite-hexed-and-haunted-pack.json) |
 | Fortnite: Infinite Drift Pack | 276292 | [276292-fortnite-infinite-drift-pack.json](./276292-fortnite-infinite-drift-pack.json) |
+| Fortnite: Luminary Hypatia Starter Pack | 360188 | [360188-fortnite-luminary-hypatia-starter-pack.json](./360188-fortnite-luminary-hypatia-starter-pack.json) |
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
 | Fortnite: Minty Legends Pack | 221948 | [221948-fortnite-minty-legends-pack.json](./221948-fortnite-minty-legends-pack.json) |
 | Fortnite: Raptor Royale Pack | 333588 | [333588-fortnite-raptor-royale-pack.json](./333588-fortnite-raptor-royale-pack.json) |
@@ -3749,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Season 1 | 256925 | [256925-fortnite-season-1.json](./256925-fortnite-season-1.json) |
 | Fortnite: Season 4 | 129876 | [129876-fortnite-season-4.json](./129876-fortnite-season-4.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
+| Fortnite: Yellowjacket Pack | 360189 | [360189-fortnite-yellowjacket-pack.json](./360189-fortnite-yellowjacket-pack.json) |
 | FortOfTheNight | 105341 | [105341-fortofthenight.json](./105341-fortofthenight.json) |
 | Fortoresse | 149922 | [149922-fortoresse.json](./149922-fortoresse.json) |
 | Fortress | 13715 | [13715-fortress.json](./13715-fortress.json) |
