@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yesterday the D-Gate | 165497 | [165497-yesterday-the-d-gate.json](./165497-yesterday-the-d-gate.json) |
 | Yesterday, the World Ended | 184052 | [184052-yesterday-the-world-ended.json](./184052-yesterday-the-world-ended.json) |
 | Yesterday's Crossroads | 344456 | [344456-yesterdays-crossroads.json](./344456-yesterdays-crossroads.json) |
+| Yesterday's Meat | 387021 | [387021-yesterdays-meat.json](./387021-yesterdays-meat.json) |
 | Yesterday's Nightmare | 274225 | [274225-yesterdays-nightmare.json](./274225-yesterdays-nightmare.json) |
 | Yesterdreamt | 216806 | [216806-yesterdreamt.json](./216806-yesterdreamt.json) |
 | YesterMorrow | 120533 | [120533-yestermorrow.json](./120533-yestermorrow.json) |
@@ -274,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokiyo | 399855 | [399855-yokiyo.json](./399855-yokiyo.json) |
 | Yokiyo | 399856 | [399856-yokiyo.json](./399856-yokiyo.json) |
 | Yoko & Yuki: Dr. Rat's Revenge | 147271 | [147271-yoko-and-yuki-dr-rats-revenge.json](./147271-yoko-and-yuki-dr-rats-revenge.json) |
+| Yoko no Hanashi | 386997 | [386997-yoko-no-hanashi.json](./386997-yoko-no-hanashi.json) |
 | Yoko Redux: Dreams of a Blue Planet | 191240 | [191240-yoko-redux-dreams-of-a-blue-planet.json](./191240-yoko-redux-dreams-of-a-blue-planet.json) |
 | Yokoi-san Warp | 183022 | [183022-yokoi-san-warp.json](./183022-yokoi-san-warp.json) |
 | Yokoyama Mitsuteru Sangokushi Bangi: Sugoroku Eiyuuki | 37757 | [37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json](./37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json) |
