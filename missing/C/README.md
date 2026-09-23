@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
+| Canvas Street | 347904 | [347904-canvas-street.json](./347904-canvas-street.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
 | Canyon Bomber | 17017 | [17017-canyon-bomber.json](./17017-canyon-bomber.json) |
 | Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Plus | 330190 | [330190-cat-plus.json](./330190-cat-plus.json) |
 | Cat President: A More Purrfect Union | 23186 | [23186-cat-president-a-more-purrfect-union.json](./23186-cat-president-a-more-purrfect-union.json) |
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
+| Cat Quest III: Tavern Tales | 347866 | [347866-cat-quest-iii-tavern-tales.json](./347866-cat-quest-iii-tavern-tales.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
 | Cat Short Way | 296510 | [296510-cat-short-way.json](./296510-cat-short-way.json) |
 | Cat Sim Online: Play With Cats | 103863 | [103863-cat-sim-online-play-with-cats.json](./103863-cat-sim-online-play-with-cats.json) |
@@ -1536,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
+| Cats Around Us: Black Cat | 347859 | [347859-cats-around-us-black-cat.json](./347859-cats-around-us-black-cat.json) |
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
 | Cats Diner | 392948 | [392948-cats-diner.json](./392948-cats-diner.json) |
@@ -5096,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coraabia | 63300 | [63300-coraabia.json](./63300-coraabia.json) |
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | Coral Island | 143061 | [143061-coral-island.json](./143061-coral-island.json) |
+| Coral Island: Multiplayer & Romance | 347857 | [347857-coral-island-multiplayer-and-romance.json](./347857-coral-island-multiplayer-and-romance.json) |
 | Coral: A Halo Fan Game | 142245 | [142245-coral-a-halo-fan-game.json](./142245-coral-a-halo-fan-game.json) |
 | Corala: Deity's Loom | 388388 | [388388-corala-deitys-loom.json](./388388-corala-deitys-loom.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
