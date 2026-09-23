@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
 | Kick Them All | 312204 | [312204-kick-them-all.json](./312204-kick-them-all.json) |
 | Kick Them Out!!! | 103194 | [103194-kick-them-out.json](./103194-kick-them-out.json) |
+| Kick Yourself On | 351804 | [351804-kick-yourself-on.json](./351804-kick-yourself-on.json) |
 | Kick-Ass 2 | 17488 | [17488-kick-ass-2.json](./17488-kick-ass-2.json) |
 | Kick-Bell | 369192 | [369192-kick-bell.json](./369192-kick-bell.json) |
 | Kick-Flight | 130350 | [130350-kick-flight.json](./130350-kick-flight.json) |
