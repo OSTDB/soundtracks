@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
 | HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
+| Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
 | Headmaster: The Lost Lessons | 174186 | [174186-headmaster-the-lost-lessons.json](./174186-headmaster-the-lost-lessons.json) |
 | Headpat Special Taskforce | 400320 | [400320-headpat-special-taskforce.json](./400320-headpat-special-taskforce.json) |
@@ -1401,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
 | Heist Haven | 374843 | [374843-heist-haven.json](./374843-heist-haven.json) |
 | Heist Kitty: Cats Go a Stray | 231485 | [231485-heist-kitty-cats-go-a-stray.json](./231485-heist-kitty-cats-go-a-stray.json) |
+| Heist Royale | 344532 | [344532-heist-royale.json](./344532-heist-royale.json) |
 | Heist Simulator | 159135 | [159135-heist-simulator.json](./159135-heist-simulator.json) |
 | HeistGeist | 211182 | [211182-heistgeist.json](./211182-heistgeist.json) |
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
@@ -3760,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Farm Africa | 54082 | [54082-hot-farm-africa.json](./54082-hot-farm-africa.json) |
 | Hot Foot | 318408 | [318408-hot-foot.json](./318408-hot-foot.json) |
 | Hot Garbage: A Keysmash Story | 183571 | [183571-hot-garbage-a-keysmash-story.json](./183571-hot-garbage-a-keysmash-story.json) |
+| Hot Girls | 344570 | [344570-hot-girls.json](./344570-hot-girls.json) |
 | Hot Girls Delivery Club | 253932 | [253932-hot-girls-delivery-club.json](./253932-hot-girls-delivery-club.json) |
 | Hot Guns: International Missions | 213967 | [213967-hot-guns-international-missions.json](./213967-hot-guns-international-missions.json) |
 | Hot Homework Help | 269011 | [269011-hot-homework-help.json](./269011-hot-homework-help.json) |
@@ -4528,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Wars: The Mega Firestorm | 109046 | [109046-hyper-wars-the-mega-firestorm.json](./109046-hyper-wars-the-mega-firestorm.json) |
 | Hyper! Danganronpa H20: Abandon All Hope | 267987 | [267987-hyper-danganronpa-h20-abandon-all-hope.json](./267987-hyper-danganronpa-h20-abandon-all-hope.json) |
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
+| Hyperblade | 344579 | [344579-hyperblade.json](./344579-hyperblade.json) |
 | Hyperblast! | 342612 | [342612-hyperblast.json](./342612-hyperblast.json) |
 | HyperBody | 292518 | [292518-hyperbody.json](./292518-hyperbody.json) |
 | Hyperbolica | 161510 | [161510-hyperbolica.json](./161510-hyperbolica.json) |
