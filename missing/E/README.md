@@ -2587,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
+| Ewgeebeez | 348941 | [348941-ewgeebeez.json](./348941-ewgeebeez.json) |
 | Ewoks | 373198 | [373198-ewoks.json](./373198-ewoks.json) |
 | EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
 | Ex Change | 406293 | [406293-ex-change.json](./406293-ex-change.json) |
