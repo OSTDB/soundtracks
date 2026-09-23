@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfstar Adventures in the Inu System | 213405 | [213405-wolfstar-adventures-in-the-inu-system.json](./213405-wolfstar-adventures-in-the-inu-system.json) |
 | Wolfstride | 134952 | [134952-wolfstride.json](./134952-wolfstride.json) |
 | Wolfy | 131354 | [131354-wolfy.json](./131354-wolfy.json) |
+| Wolley's Dungeon Adventure | 361872 | [361872-wolleys-dungeon-adventure.json](./361872-wolleys-dungeon-adventure.json) |
 | Wolverine: Adamantium Rage | 46250 | [46250-wolverine-adamantium-rage.json](./46250-wolverine-adamantium-rage.json) |
 | Wolverine: Adamantium Redux | 219275 | [219275-wolverine-adamantium-redux.json](./219275-wolverine-adamantium-redux.json) |
 | Wolverine: Feral Instinct | 272814 | [272814-wolverine-feral-instinct.json](./272814-wolverine-feral-instinct.json) |
@@ -2890,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Subways: Volume 3 - London Underground Circle Line | 18000 | [18000-world-of-subways-volume-3-london-underground-circle-line.json](./18000-world-of-subways-volume-3-london-underground-circle-line.json) |
 | World of Talesworth: Idle MMO Simulator | 212897 | [212897-world-of-talesworth-idle-mmo-simulator.json](./212897-world-of-talesworth-idle-mmo-simulator.json) |
 | World of Tanks - Panther/M10 Pack (VII German Medium Tank) | 398326 | [398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json](./398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json) |
+| World of Tanks 2.0 | 361878 | [361878-world-of-tanks-2-0.json](./361878-world-of-tanks-2-0.json) |
 | World of Tanks Generals | 77961 | [77961-world-of-tanks-generals.json](./77961-world-of-tanks-generals.json) |
 | World of Tanks: Advanced Marksman | 293765 | [293765-world-of-tanks-advanced-marksman.json](./293765-world-of-tanks-advanced-marksman.json) |
 | World of Tanks: Blitz - Free Pack | 171010 | [171010-world-of-tanks-blitz-free-pack.json](./171010-world-of-tanks-blitz-free-pack.json) |
