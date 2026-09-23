@@ -9012,10 +9012,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Starring Lara Croft | 36878 | [36878-tomb-raider-starring-lara-croft.json](./36878-tomb-raider-starring-lara-croft.json) |
 | Tomb Raider: Anniversary | 381690 | [381690-tomb-raider-anniversary.json](./381690-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
+| Tomb Raider: Catalyst | 381234 | [381234-tomb-raider-catalyst.json](./381234-tomb-raider-catalyst.json) |
 | Tomb Raider: Definitive Edition | 19965 | [19965-tomb-raider-definitive-edition.json](./19965-tomb-raider-definitive-edition.json) |
 | Tomb Raider: Definitive Survivor Trilogy | 144771 | [144771-tomb-raider-definitive-survivor-trilogy.json](./144771-tomb-raider-definitive-survivor-trilogy.json) |
 | Tomb Raider: Game of the Year Edition | 53818 | [53818-tomb-raider-game-of-the-year-edition.json](./53818-tomb-raider-game-of-the-year-edition.json) |
 | Tomb Raider: Hashep Oasis | 328588 | [328588-tomb-raider-hashep-oasis.json](./328588-tomb-raider-hashep-oasis.json) |
+| Tomb Raider: Legacy of Atlantis | 381235 | [381235-tomb-raider-legacy-of-atlantis.json](./381235-tomb-raider-legacy-of-atlantis.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
 | Tomb Raider: Shanty Town | 172133 | [172133-tomb-raider-shanty-town.json](./172133-tomb-raider-shanty-town.json) |
 | Tomb Raider: Survival Edition | 53817 | [53817-tomb-raider-survival-edition.json](./53817-tomb-raider-survival-edition.json) |
@@ -9409,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer - Norsca | 53833 | [53833-total-war-warhammer-norsca.json](./53833-total-war-warhammer-norsca.json) |
 | Total War: Warhammer - Realm of the Wood Elves | 26423 | [26423-total-war-warhammer-realm-of-the-wood-elves.json](./26423-total-war-warhammer-realm-of-the-wood-elves.json) |
 | Total War: Warhammer - Wurrzag | 81295 | [81295-total-war-warhammer-wurrzag.json](./81295-total-war-warhammer-wurrzag.json) |
+| Total War: Warhammer 40,000 | 381245 | [381245-total-war-warhammer-40-000.json](./381245-total-war-warhammer-40-000.json) |
 | Total War: Warhammer II - Curse of the Vampire Coast | 110863 | [110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json](./110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json) |
 | Total War: Warhammer II - Limited Edition | 4131 | [4131-total-war-warhammer-ii-limited-edition.json](./4131-total-war-warhammer-ii-limited-edition.json) |
 | Total War: Warhammer II - Thorek Ironbrow | 157543 | [157543-total-war-warhammer-ii-thorek-ironbrow.json](./157543-total-war-warhammer-ii-thorek-ironbrow.json) |
@@ -11072,6 +11075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit: The CD32 Edition | 39040 | [39040-trivial-pursuit-the-cd32-edition.json](./39040-trivial-pursuit-the-cd32-edition.json) |
 | Trivial PurTwitch | 396241 | [396241-trivial-purtwitch.json](./396241-trivial-purtwitch.json) |
 | Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
+| Trixology | 381231 | [381231-trixology.json](./381231-trixology.json) |
 | Trizeal | 93063 | [93063-trizeal.json](./93063-trizeal.json) |
 | Trizeal Remix | 32927 | [32927-trizeal-remix.json](./32927-trizeal-remix.json) |
 | Trizna | 293233 | [293233-trizna.json](./293233-trizna.json) |
