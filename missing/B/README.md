@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banban Isle Rangers | 405584 | [405584-banban-isle-rangers.json](./405584-banban-isle-rangers.json) |
 | Banchou Tactics | 202786 | [202786-banchou-tactics.json](./202786-banchou-tactics.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
+| Band Mates | 386414 | [386414-band-mates.json](./386414-band-mates.json) |
 | Band of Brothers | 148924 | [148924-band-of-brothers.json](./148924-band-of-brothers.json) |
 | Band of Monsters | 38950 | [38950-band-of-monsters.json](./38950-band-of-monsters.json) |
 | Band Saga | 60563 | [60563-band-saga.json](./60563-band-saga.json) |
@@ -1961,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats of Fury | 127181 | [127181-beats-of-fury.json](./127181-beats-of-fury.json) |
 | Beats of Rage | 46623 | [46623-beats-of-rage.json](./46623-beats-of-rage.json) |
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
+| Beatworks Inc. | 386444 | [386444-beatworks-inc.json](./386444-beatworks-inc.json) |
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
 | Beauties Unveiled | 284499 | [284499-beauties-unveiled.json](./284499-beauties-unveiled.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
@@ -2368,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better to Upload | 183429 | [183429-better-to-upload.json](./183429-better-to-upload.json) |
 | Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
 | Better With A Friend | 301255 | [301255-better-with-a-friend.json](./301255-better-with-a-friend.json) |
+| BetterVR | 386425 | [386425-bettervr.json](./386425-bettervr.json) |
 | Betty & Earl | 163977 | [163977-betty-and-earl.json](./163977-betty-and-earl.json) |
 | Betty Bad | 23449 | [23449-betty-bad.json](./23449-betty-bad.json) |
 | Betty's Beer Bar | 70365 | [70365-bettys-beer-bar.json](./70365-bettys-beer-bar.json) |
@@ -6274,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button Sorter | 358934 | [358934-button-sorter.json](./358934-button-sorter.json) |
 | Button Tales: Way Home | 156188 | [156188-button-tales-way-home.json](./156188-button-tales-way-home.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
+| Buttons Up! | 386419 | [386419-buttons-up.json](./386419-buttons-up.json) |
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
