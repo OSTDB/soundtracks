@@ -3855,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docomodake Boing! | 72973 | [72973-docomodake-boing.json](./72973-docomodake-boing.json) |
 | Doctor Fizzwizzle's Animal Rescue | 50634 | [50634-doctor-fizzwizzles-animal-rescue.json](./50634-doctor-fizzwizzles-animal-rescue.json) |
 | Doctor Galaxy | 416826 | [416826-doctor-galaxy.json](./416826-doctor-galaxy.json) |
+| Doctor Gallagher's Residence | 374842 | [374842-doctor-gallaghers-residence.json](./374842-doctor-gallaghers-residence.json) |
 | Doctor Kairokos | 416828 | [416828-doctor-kairokos.json](./416828-doctor-kairokos.json) |
 | Doctor Ku: The Alien Room | 315120 | [315120-doctor-ku-the-alien-room.json](./315120-doctor-ku-the-alien-room.json) |
 | Doctor Ku: The Cellar | 315097 | [315097-doctor-ku-the-cellar.json](./315097-doctor-ku-the-cellar.json) |
@@ -4046,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
 | Doki Doki Silver & Emerald | 334693 | [334693-doki-doki-silver-and-emerald.json](./334693-doki-doki-silver-and-emerald.json) |
 | Doki Doki Takeover!: Bad Ending | 208412 | [208412-doki-doki-takeover-bad-ending.json](./208412-doki-doki-takeover-bad-ending.json) |
+| Doki Doki Theo Club | 374835 | [374835-doki-doki-theo-club.json](./374835-doki-doki-theo-club.json) |
 | Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Tutorial! | 256833 | [256833-doki-doki-tutorial.json](./256833-doki-doki-tutorial.json) |
 | Doki Doki Twin Realities | 384661 | [384661-doki-doki-twin-realities.json](./384661-doki-doki-twin-realities.json) |
