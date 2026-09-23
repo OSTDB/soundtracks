@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paww: Feline Fatale | 397899 | [397899-paww-feline-fatale.json](./397899-paww-feline-fatale.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
 | Pax Corpus | 44845 | [44845-pax-corpus.json](./44845-pax-corpus.json) |
+| Pax Hispanica | 356268 | [356268-pax-hispanica.json](./356268-pax-hispanica.json) |
 | Pax Imperia | 95439 | [95439-pax-imperia.json](./95439-pax-imperia.json) |
 | Pax Imperia: Eminent Domain | 24261 | [24261-pax-imperia-eminent-domain.json](./24261-pax-imperia-eminent-domain.json) |
 | Pax Nova | 111043 | [111043-pax-nova.json](./111043-pax-nova.json) |
@@ -1518,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 3 | 14980 | [14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json](./14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json) |
 | Penny Dell Jumbo Crosswords | 89199 | [89199-penny-dell-jumbo-crosswords.json](./89199-penny-dell-jumbo-crosswords.json) |
 | Penny Dell Jumbo Crosswords 2 | 204494 | [204494-penny-dell-jumbo-crosswords-2.json](./204494-penny-dell-jumbo-crosswords-2.json) |
+| Penny for Your Potion | 356255 | [356255-penny-for-your-potion.json](./356255-penny-for-your-potion.json) |
 | Penny For Your Thoughts | 367052 | [367052-penny-for-your-thoughts.json](./367052-penny-for-your-thoughts.json) |
 | Penny Racers | 133238 | [133238-penny-racers.json](./133238-penny-racers.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
@@ -3691,6 +3693,54 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ashen Frost | 307289 | [307289-pokemon-ashen-frost.json](./307289-pokemon-ashen-frost.json) |
 | Pokémon AshGray Version | 143756 | [143756-pokemon-ashgray-version.json](./143756-pokemon-ashgray-version.json) |
 | Pokémon Awakening | 341913 | [341913-pokemon-awakening.json](./341913-pokemon-awakening.json) |
+| Pokémon Battle Card e+ Emerald: 19-A001 - Karate-ou Kousei | 355724 | [355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json](./355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json) |
+| Pokémon Battle Card e+ Emerald: 19-A002 - Ninja Gokko Kagemasa | 355726 | [355726-pokemon-battle-card-e-emerald-19-a002-ninja-gokko-kagemasa.json](./355726-pokemon-battle-card-e-emerald-19-a002-ninja-gokko-kagemasa.json) |
+| Pokémon Battle Card e+ Emerald: 19-A003 - Daisuki Club Keizou | 355727 | [355727-pokemon-battle-card-e-emerald-19-a003-daisuki-club-keizou.json](./355727-pokemon-battle-card-e-emerald-19-a003-daisuki-club-keizou.json) |
+| Pokémon Battle Card e+ Emerald: 19-A004 - Elite Trainer Akiomi | 355728 | [355728-pokemon-battle-card-e-emerald-19-a004-elite-trainer-akiomi.json](./355728-pokemon-battle-card-e-emerald-19-a004-elite-trainer-akiomi.json) |
+| Pokémon Battle Card e+ Emerald: 19-A005 - Battle Girl Riona | 355729 | [355729-pokemon-battle-card-e-emerald-19-a005-battle-girl-riona.json](./355729-pokemon-battle-card-e-emerald-19-a005-battle-girl-riona.json) |
+| Pokémon Battle Card e+ Emerald: 19-A006 - Dragon Tsukai Inami | 355730 | [355730-pokemon-battle-card-e-emerald-19-a006-dragon-tsukai-inami.json](./355730-pokemon-battle-card-e-emerald-19-a006-dragon-tsukai-inami.json) |
+| Pokémon Battle Card e+ Emerald: 19-A007 - Kaijuu Mania Yurato | 355731 | [355731-pokemon-battle-card-e-emerald-19-a007-kaijuu-mania-yurato.json](./355731-pokemon-battle-card-e-emerald-19-a007-kaijuu-mania-yurato.json) |
+| Pokémon Battle Card e+ Emerald: 19-A008 - Triathlete Sakuya | 355732 | [355732-pokemon-battle-card-e-emerald-19-a008-triathlete-sakuya.json](./355732-pokemon-battle-card-e-emerald-19-a008-triathlete-sakuya.json) |
+| Pokémon Battle Card e+ Emerald: 19-A009 - Miniskirt Komari | 355733 | [355733-pokemon-battle-card-e-emerald-19-a009-miniskirt-komari.json](./355733-pokemon-battle-card-e-emerald-19-a009-miniskirt-komari.json) |
+| Pokémon Battle Card e+ Emerald: 19-A010 - Triathlete Ragi | 355734 | [355734-pokemon-battle-card-e-emerald-19-a010-triathlete-ragi.json](./355734-pokemon-battle-card-e-emerald-19-a010-triathlete-ragi.json) |
+| Pokémon Battle Card e+ Emerald: 19-A011 - Ninja Gokko Kennosuke | 355735 | [355735-pokemon-battle-card-e-emerald-19-a011-ninja-gokko-kennosuke.json](./355735-pokemon-battle-card-e-emerald-19-a011-ninja-gokko-kennosuke.json) |
+| Pokémon Battle Card e+ Emerald: 19-A012 - Psychicher Odunu | 355736 | [355736-pokemon-battle-card-e-emerald-19-a012-psychicher-odunu.json](./355736-pokemon-battle-card-e-emerald-19-a012-psychicher-odunu.json) |
+| Pokémon Battle Card e+ Emerald: 19-A013 - Juku Kaeri Kae | 355737 | [355737-pokemon-battle-card-e-emerald-19-a013-juku-kaeri-kae.json](./355737-pokemon-battle-card-e-emerald-19-a013-juku-kaeri-kae.json) |
+| Pokémon Battle Card e+ Emerald: 19-A014 - Juku Kaeri Sakiteru | 355738 | [355738-pokemon-battle-card-e-emerald-19-a014-juku-kaeri-sakiteru.json](./355738-pokemon-battle-card-e-emerald-19-a014-juku-kaeri-sakiteru.json) |
+| Pokémon Battle Card e+ Emerald: 19-A015 - Pokémon Breeder Nukumi | 355739 | [355739-pokemon-battle-card-e-emerald-19-a015-pokemon-breeder-nukumi.json](./355739-pokemon-battle-card-e-emerald-19-a015-pokemon-breeder-nukumi.json) |
+| Pokémon Battle Card e+ Emerald: 19-A016 - Tanpan Kozou Akitaka | 355740 | [355740-pokemon-battle-card-e-emerald-19-a016-tanpan-kozou-akitaka.json](./355740-pokemon-battle-card-e-emerald-19-a016-tanpan-kozou-akitaka.json) |
+| Pokémon Battle Card e+ Emerald: 19-A017 - Triathlete Ghent | 355741 | [355741-pokemon-battle-card-e-emerald-19-a017-triathlete-ghent.json](./355741-pokemon-battle-card-e-emerald-19-a017-triathlete-ghent.json) |
+| Pokémon Battle Card e+ Emerald: 19-A018 - Occult Mania Kie | 355742 | [355742-pokemon-battle-card-e-emerald-19-a018-occult-mania-kie.json](./355742-pokemon-battle-card-e-emerald-19-a018-occult-mania-kie.json) |
+| Pokémon Battle Card e+ Emerald: 19-A019 - Karate-ou Harumasa | 355743 | [355743-pokemon-battle-card-e-emerald-19-a019-karate-ou-harumasa.json](./355743-pokemon-battle-card-e-emerald-19-a019-karate-ou-harumasa.json) |
+| Pokémon Battle Card e+ Emerald: 19-A020 - Pokémon Breeder Eco | 355744 | [355744-pokemon-battle-card-e-emerald-19-a020-pokemon-breeder-eco.json](./355744-pokemon-battle-card-e-emerald-19-a020-pokemon-breeder-eco.json) |
+| Pokémon Battle Card e+ Emerald: 19-A021 - Pokémon Breeder Kenya | 355746 | [355746-pokemon-battle-card-e-emerald-19-a021-pokemon-breeder-kenya.json](./355746-pokemon-battle-card-e-emerald-19-a021-pokemon-breeder-kenya.json) |
+| Pokémon Battle Card e+ Emerald: 19-A022 - Pokémon Breeder Kinako | 355747 | [355747-pokemon-battle-card-e-emerald-19-a022-pokemon-breeder-kinako.json](./355747-pokemon-battle-card-e-emerald-19-a022-pokemon-breeder-kinako.json) |
+| Pokémon Battle Card e+ Emerald: 19-A023 - Psychicher Sukeaki | 355748 | [355748-pokemon-battle-card-e-emerald-19-a023-psychicher-sukeaki.json](./355748-pokemon-battle-card-e-emerald-19-a023-psychicher-sukeaki.json) |
+| Pokémon Battle Card e+ Emerald: 19-A024 - Aroma na Onee-san Kawori | 355749 | [355749-pokemon-battle-card-e-emerald-19-a024-aroma-na-onee-san-kawori.json](./355749-pokemon-battle-card-e-emerald-19-a024-aroma-na-onee-san-kawori.json) |
+| Pokémon Battle Card e+ Emerald: 19-A025 - Funanori Isonosuke | 355750 | [355750-pokemon-battle-card-e-emerald-19-a025-funanori-isonosuke.json](./355750-pokemon-battle-card-e-emerald-19-a025-funanori-isonosuke.json) |
+| Pokémon Battle Card e+ Emerald: 19-A026 - Picnic Girl Koeda | 355751 | [355751-pokemon-battle-card-e-emerald-19-a026-picnic-girl-koeda.json](./355751-pokemon-battle-card-e-emerald-19-a026-picnic-girl-koeda.json) |
+| Pokémon Battle Card e+ Emerald: 19-A027 - Tatsujin Isaji | 355752 | [355752-pokemon-battle-card-e-emerald-19-a027-tatsujin-isaji.json](./355752-pokemon-battle-card-e-emerald-19-a027-tatsujin-isaji.json) |
+| Pokémon Battle Card e+ Emerald: 19-A028 - Triathlete Ouka | 355753 | [355753-pokemon-battle-card-e-emerald-19-a028-triathlete-ouka.json](./355753-pokemon-battle-card-e-emerald-19-a028-triathlete-ouka.json) |
+| Pokémon Battle Card e+ Emerald: 19-A029 - Otona no Onee-san Maiko | 355754 | [355754-pokemon-battle-card-e-emerald-19-a029-otona-no-onee-san-maiko.json](./355754-pokemon-battle-card-e-emerald-19-a029-otona-no-onee-san-maiko.json) |
+| Pokémon Battle Card e+ Emerald: 19-A030 - Parasol Onee-san Aquino | 355755 | [355755-pokemon-battle-card-e-emerald-19-a030-parasol-onee-san-aquino.json](./355755-pokemon-battle-card-e-emerald-19-a030-parasol-onee-san-aquino.json) |
+| Pokémon Battle Card e+ Emerald: 19-A031 - Yama Otoko Okikazu | 355756 | [355756-pokemon-battle-card-e-emerald-19-a031-yama-otoko-okikazu.json](./355756-pokemon-battle-card-e-emerald-19-a031-yama-otoko-okikazu.json) |
+| Pokémon Battle Card e+ Emerald: 19-A032 - Ukiwa Girl Ricca | 355757 | [355757-pokemon-battle-card-e-emerald-19-a032-ukiwa-girl-ricca.json](./355757-pokemon-battle-card-e-emerald-19-a032-ukiwa-girl-ricca.json) |
+| Pokémon Battle Card e+ Emerald: 19-A033 - Camp Boy Kousuke | 355758 | [355758-pokemon-battle-card-e-emerald-19-a033-camp-boy-kousuke.json](./355758-pokemon-battle-card-e-emerald-19-a033-camp-boy-kousuke.json) |
+| Pokémon Battle Card e+ Emerald: 19-A034 - Guitarist Neo | 355759 | [355759-pokemon-battle-card-e-emerald-19-a034-guitarist-neo.json](./355759-pokemon-battle-card-e-emerald-19-a034-guitarist-neo.json) |
+| Pokémon Battle Card e+ Emerald: 19-A035 - Obocchama Tsugane | 355760 | [355760-pokemon-battle-card-e-emerald-19-a035-obocchama-tsugane.json](./355760-pokemon-battle-card-e-emerald-19-a035-obocchama-tsugane.json) |
+| Pokémon Battle Card e+ Emerald: 19-A036 - Occult Mania Kagaho | 355761 | [355761-pokemon-battle-card-e-emerald-19-a036-occult-mania-kagaho.json](./355761-pokemon-battle-card-e-emerald-19-a036-occult-mania-kagaho.json) |
+| Pokémon Battle Card e+ Emerald: 19-A037 - Otona no Onee-san Tsukika | 355762 | [355762-pokemon-battle-card-e-emerald-19-a037-otona-no-onee-san-tsukika.json](./355762-pokemon-battle-card-e-emerald-19-a037-otona-no-onee-san-tsukika.json) |
+| Pokémon Battle Card e+ Emerald: 19-A038 - Gentleman Ed | 355763 | [355763-pokemon-battle-card-e-emerald-19-a038-gentleman-ed.json](./355763-pokemon-battle-card-e-emerald-19-a038-gentleman-ed.json) |
+| Pokémon Battle Card e+ Emerald: 19-A039 - Pokémon Breeder Kaiji | 355764 | [355764-pokemon-battle-card-e-emerald-19-a039-pokemon-breeder-kaiji.json](./355764-pokemon-battle-card-e-emerald-19-a039-pokemon-breeder-kaiji.json) |
+| Pokémon Battle Card e+ Emerald: 19-A040 - Mushi Tori Shounen Kiichi | 355765 | [355765-pokemon-battle-card-e-emerald-19-a040-mushi-tori-shounen-kiichi.json](./355765-pokemon-battle-card-e-emerald-19-a040-mushi-tori-shounen-kiichi.json) |
+| Pokémon Battle Card e+ Emerald: 19-P001 - Camp Boy Soushi | 355722 | [355722-pokemon-battle-card-e-emerald-19-p001-camp-boy-soushi.json](./355722-pokemon-battle-card-e-emerald-19-p001-camp-boy-soushi.json) |
+| Pokémon Battle Card e+ Emerald: 19-P002 - Juku Kaeri Toshinori | 355723 | [355723-pokemon-battle-card-e-emerald-19-p002-juku-kaeri-toshinori.json](./355723-pokemon-battle-card-e-emerald-19-p002-juku-kaeri-toshinori.json) |
+| Pokémon Battle Card e+ FireRed & LeafGreen: 15-N001 - Tori Tsukai Hiroyuki | 355716 | [355716-pokemon-battle-card-e-firered-and-leafgreen-15-n001-tori-tsukai-hiroyuki.json](./355716-pokemon-battle-card-e-firered-and-leafgreen-15-n001-tori-tsukai-hiroyuki.json) |
+| Pokémon Battle Card e+ FireRed & LeafGreen: 15-N002 - Love-Love Couple Miwa to Yuu | 355717 | [355717-pokemon-battle-card-e-firered-and-leafgreen-15-n002-love-love-couple-miwa-to-yuu.json](./355717-pokemon-battle-card-e-firered-and-leafgreen-15-n002-love-love-couple-miwa-to-yuu.json) |
+| Pokémon Battle Card e+ FireRed & LeafGreen: 15-N003 - Kitoushi Miyako / Moujuu Tsukai Eita / Kaijuu Mania Takahiko | 355718 | [355718-pokemon-battle-card-e-firered-and-leafgreen-15-n003-kitoushi-miyako-moujuu-tsukai-eita-kaijuu-mania-takahiko.json](./355718-pokemon-battle-card-e-firered-and-leafgreen-15-n003-kitoushi-miyako-moujuu-tsukai-eita-kaijuu-mania-takahiko.json) |
+| Pokémon Battle Card e+ FireRed & LeafGreen: 15-N004 - Ojou-sama Marika | 355719 | [355719-pokemon-battle-card-e-firered-and-leafgreen-15-n004-ojou-sama-marika.json](./355719-pokemon-battle-card-e-firered-and-leafgreen-15-n004-ojou-sama-marika.json) |
+| Pokémon Battle Card e+ FireRed & LeafGreen: 15-P001 - Yama Otoko Ayumu / Funanori Kousuke / Aroma na Onee-san Ayano | 355715 | [355715-pokemon-battle-card-e-firered-and-leafgreen-15-p001-yama-otoko-ayumu-funanori-kousuke-aroma-na-onee-san-ayano.json](./355715-pokemon-battle-card-e-firered-and-leafgreen-15-p001-yama-otoko-ayumu-funanori-kousuke-aroma-na-onee-san-ayano.json) |
+| Pokémon Battle Card e+ FireRed & LeafGreen: 15-PT001 - Club Nintendo Tokusei Tower | 355720 | [355720-pokemon-battle-card-e-firered-and-leafgreen-15-pt001-club-nintendo-tokusei-tower.json](./355720-pokemon-battle-card-e-firered-and-leafgreen-15-pt001-club-nintendo-tokusei-tower.json) |
 | Pokémon Battle Card e+: 08-B001 - Pokémon Breeder no Mami | 355623 | [355623-pokemon-battle-card-e-08-b001-pokemon-breeder-no-mami.json](./355623-pokemon-battle-card-e-08-b001-pokemon-breeder-no-mami.json) |
 | Pokémon Battle Card e+: 08-B002 - Iseki Mania no Toshitsugu | 355624 | [355624-pokemon-battle-card-e-08-b002-iseki-mania-no-toshitsugu.json](./355624-pokemon-battle-card-e-08-b002-iseki-mania-no-toshitsugu.json) |
 | Pokémon Battle Card e+: 08-B003 - Tatsujin no Koto | 355625 | [355625-pokemon-battle-card-e-08-b003-tatsujin-no-koto.json](./355625-pokemon-battle-card-e-08-b003-tatsujin-no-koto.json) |
