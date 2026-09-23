@@ -2641,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nudist Beach Survival Simulator 2 | 171465 | [171465-nudist-beach-survival-simulator-2.json](./171465-nudist-beach-survival-simulator-2.json) |
 | Nugatory | 399690 | [399690-nugatory.json](./399690-nugatory.json) |
 | Nugget & Penny: Adventure Machine | 121604 | [121604-nugget-and-penny-adventure-machine.json](./121604-nugget-and-penny-adventure-machine.json) |
+| Nuggets Slitherio | 383620 | [383620-nuggets-slitherio.json](./383620-nuggets-slitherio.json) |
 | Nugimus | 97669 | [97669-nugimus.json](./97669-nugimus.json) |
 | NugQuest | 341488 | [341488-nugquest.json](./341488-nugquest.json) |
 | Nui Goes to Town! | 354410 | [354410-nui-goes-to-town.json](./354410-nui-goes-to-town.json) |
