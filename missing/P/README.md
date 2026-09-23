@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
+| Patagonian Pilgrimage | 360755 | [360755-patagonian-pilgrimage.json](./360755-patagonian-pilgrimage.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
 | Patapon 2 | 7813 | [7813-patapon-2.json](./7813-patapon-2.json) |
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
 | Peachy Boy | 231053 | [231053-peachy-boy.json](./231053-peachy-boy.json) |
 | Peadle X Oligator | 417661 | [417661-peadle-x-oligator.json](./417661-peadle-x-oligator.json) |
+| Peak | 360757 | [360757-peak.json](./360757-peak.json) |
 | Peak Angle: Drift Online - Japan Cars Pack | 225903 | [225903-peak-angle-drift-online-japan-cars-pack.json](./225903-peak-angle-drift-online-japan-cars-pack.json) |
 | Peak or Die | 382886 | [382886-peak-or-die.json](./382886-peak-or-die.json) |
 | Peak: The Final Ascent | 412529 | [412529-peak-the-final-ascent.json](./412529-peak-the-final-ascent.json) |
@@ -4294,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppy Kart | 13884 | [13884-poppy-kart.json](./13884-poppy-kart.json) |
 | Poppy Kart 2 | 366248 | [366248-poppy-kart-2.json](./366248-poppy-kart-2.json) |
 | Poppy Playtime Toybox Bundle 1 | 375863 | [375863-poppy-playtime-toybox-bundle-1.json](./375863-poppy-playtime-toybox-bundle-1.json) |
+| Poppy Playtime VR | 360783 | [360783-poppy-playtime-vr.json](./360783-poppy-playtime-vr.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
 | Popscene (Backstage Pass) | 91988 | [91988-popscene-backstage-pass.json](./91988-popscene-backstage-pass.json) |
 | Popsicle Stack | 223983 | [223983-popsicle-stack.json](./223983-popsicle-stack.json) |
