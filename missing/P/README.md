@@ -3402,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play for Love | 292008 | [292008-play-for-love.json](./292008-play-for-love.json) |
 | Play for Your Life | 55053 | [55053-play-for-your-life.json](./55053-play-for-your-life.json) |
+| Play Friends: Party Games | 342266 | [342266-play-friends-party-games.json](./342266-play-friends-party-games.json) |
 | Play Minigames with Reiko | 265771 | [265771-play-minigames-with-reiko.json](./265771-play-minigames-with-reiko.json) |
 | Play Nintendo: Paint-By-Number | 291049 | [291049-play-nintendo-paint-by-number.json](./291049-play-nintendo-paint-by-number.json) |
 | Play Nintendo: Puzzles | 291047 | [291047-play-nintendo-puzzles.json](./291047-play-nintendo-puzzles.json) |
@@ -3459,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation Vita Pets | 63011 | [63011-playstation-vita-pets.json](./63011-playstation-vita-pets.json) |
 | Playthings: VR Music Vacation | 32881 | [32881-playthings-vr-music-vacation.json](./32881-playthings-vr-music-vacation.json) |
 | Playtown 2 | 281396 | [281396-playtown-2.json](./281396-playtown-2.json) |
+| Playtown 3 | 342289 | [342289-playtown-3.json](./342289-playtown-3.json) |
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
 | Playtown Remake | 332807 | [332807-playtown-remake.json](./332807-playtown-remake.json) |
 | PlayTribes | 59443 | [59443-playtribes.json](./59443-playtribes.json) |
