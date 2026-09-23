@@ -3271,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
 | Wytchsun: Elleros Origins | 117544 | [117544-wytchsun-elleros-origins.json](./117544-wytchsun-elleros-origins.json) |
 | Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
+| Wyvern | 389106 | [389106-wyvern.json](./389106-wyvern.json) |
 | Wyvern Studios Solitaire: 30th Aniversary Edition | 289861 | [289861-wyvern-studios-solitaire-30th-aniversary-edition.json](./289861-wyvern-studios-solitaire-30th-aniversary-edition.json) |
 | Wyvern Wings | 109439 | [109439-wyvern-wings.json](./109439-wyvern-wings.json) |
 | WYzards | 275017 | [275017-wyzards.json](./275017-wyzards.json) |
