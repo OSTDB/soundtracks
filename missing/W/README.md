@@ -2396,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolves on the Westwind: The Vampire of Havena | 203920 | [203920-wolves-on-the-westwind-the-vampire-of-havena.json](./203920-wolves-on-the-westwind-the-vampire-of-havena.json) |
 | Wolvesville | 262964 | [262964-wolvesville.json](./262964-wolvesville.json) |
 | Womb of Worms | 394378 | [394378-womb-of-worms.json](./394378-womb-of-worms.json) |
+| WomboCombo | 390248 | [390248-wombocombo.json](./390248-wombocombo.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
 | Women's Quiz | 152880 | [152880-womens-quiz.json](./152880-womens-quiz.json) |
 | Women's School Simulator 2020 | 299898 | [299898-womens-school-simulator-2020.json](./299898-womens-school-simulator-2020.json) |
@@ -2461,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland Solitaire | 415955 | [415955-wonderland-solitaire.json](./415955-wonderland-solitaire.json) |
 | Wonderland Trails | 110179 | [110179-wonderland-trails.json](./110179-wonderland-trails.json) |
 | Wonderland Wars | 138597 | [138597-wonderland-wars.json](./138597-wonderland-wars.json) |
+| WonderLang English | 390263 | [390263-wonderlang-english.json](./390263-wonderlang-english.json) |
 | WonderLang French | 312549 | [312549-wonderlang-french.json](./312549-wonderlang-french.json) |
 | Wonderlang Korean | 345031 | [345031-wonderlang-korean.json](./345031-wonderlang-korean.json) |
 | WonderLang Spanish | 381733 | [381733-wonderlang-spanish.json](./381733-wonderlang-spanish.json) |
