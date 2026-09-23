@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
 | Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
 | Tactix | 379981 | [379981-tactix.json](./379981-tactix.json) |
+| Tactris | 384800 | [384800-tactris.json](./384800-tactris.json) |
 | Tad the Lost Explorer and the Emerald Tablet | 204124 | [204124-tad-the-lost-explorer-and-the-emerald-tablet.json](./204124-tad-the-lost-explorer-and-the-emerald-tablet.json) |
 | Tad the Lost Explorer and the Emerald Tablet: Craziest and Madness Edition | 250359 | [250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json](./250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
@@ -323,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
 | Takanaria | 113495 | [113495-takanaria.json](./113495-takanaria.json) |
 | Takara Cards | 194401 | [194401-takara-cards.json](./194401-takara-cards.json) |
+| Takatron: 2098 | 384785 | [384785-takatron-2098.json](./384785-takatron-2098.json) |
 | Take 'Em Out | 71802 | [71802-take-em-out.json](./71802-take-em-out.json) |
 | Take a Break! Crosswords | 76557 | [76557-take-a-break-crosswords.json](./76557-take-a-break-crosswords.json) |
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
@@ -4824,12 +4826,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
 | The love letter | 398435 | [398435-the-love-letter.json](./398435-the-love-letter.json) |
 | The Love Letter | 63820 | [63820-the-love-letter.json](./63820-the-love-letter.json) |
+| The Love of Cooking | 384791 | [384791-the-love-of-cooking.json](./384791-the-love-of-cooking.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
 | The Lucky Acre | 409026 | [409026-the-lucky-acre.json](./409026-the-lucky-acre.json) |
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Lunar Effect | 144746 | [144746-the-lunar-effect.json](./144746-the-lunar-effect.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
+| The Lustful Champion | 384753 | [384753-the-lustful-champion.json](./384753-the-lustful-champion.json) |
 | The Machine | 79257 | [79257-the-machine.json](./79257-the-machine.json) |
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
@@ -5241,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orphaned House | 413212 | [413212-the-orphaned-house.json](./413212-the-orphaned-house.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
 | The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
+| The Other Order | 384793 | [384793-the-other-order.json](./384793-the-other-order.json) |
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
 | The Other Side | 286264 | [286264-the-other-side.json](./286264-the-other-side.json) |
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
@@ -7185,6 +7190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief: The Dark Project | 2 | [2-thief-the-dark-project.json](./2-thief-the-dark-project.json) |
 | Thief: The Trail of the Arch-Heretic | 268465 | [268465-thief-the-trail-of-the-arch-heretic.json](./268465-thief-the-trail-of-the-arch-heretic.json) |
 | Thief's Adventure | 372490 | [372490-thiefs-adventure.json](./372490-thiefs-adventure.json) |
+| Thief's Market | 384798 | [384798-thiefs-market.json](./384798-thiefs-market.json) |
 | Thief's Roulette | 129137 | [129137-thiefs-roulette.json](./129137-thiefs-roulette.json) |
 | Thiefbot | 183990 | [183990-thiefbot.json](./183990-thiefbot.json) |
 | ThiefRl2 | 184578 | [184578-thiefrl2.json](./184578-thiefrl2.json) |
@@ -11394,6 +11400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tune My Car: Tuning Studio & Mechanic Simulator 2026 | 409562 | [409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json](./409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json) |
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
+| Tung Tung Sahur: Obby Challenge | 384784 | [384784-tung-tung-sahur-obby-challenge.json](./384784-tung-tung-sahur-obby-challenge.json) |
 | Tung Tung Together: Online Deathrun Party | 390634 | [390634-tung-tung-together-online-deathrun-party.json](./390634-tung-tung-together-online-deathrun-party.json) |
 | Tungsten Orbital Destroyer | 180700 | [180700-tungsten-orbital-destroyer.json](./180700-tungsten-orbital-destroyer.json) |
 | Tungtung's Nightmare | 375934 | [375934-tungtungs-nightmare.json](./375934-tungtungs-nightmare.json) |
