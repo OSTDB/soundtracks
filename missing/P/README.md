@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Simulator | 188094 | [188094-parking-simulator.json](./188094-parking-simulator.json) |
 | Parking Ticket Mayhem | 391221 | [391221-parking-ticket-mayhem.json](./391221-parking-ticket-mayhem.json) |
 | Parking Tycoon | 252144 | [252144-parking-tycoon.json](./252144-parking-tycoon.json) |
+| Parking Tycoon 2: Business Simulator | 373728 | [373728-parking-tycoon-2-business-simulator.json](./373728-parking-tycoon-2-business-simulator.json) |
 | Parking Tycoon: Business Simulator | 257994 | [257994-parking-tycoon-business-simulator.json](./257994-parking-tycoon-business-simulator.json) |
 | Parkitect | 18871 | [18871-parkitect.json](./18871-parkitect.json) |
 | Parkitect: Deluxe Edition | 192311 | [192311-parkitect-deluxe-edition.json](./192311-parkitect-deluxe-edition.json) |
@@ -6311,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
 | Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
+| Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
 | Pyro VR | 29602 | [29602-pyro-vr.json](./29602-pyro-vr.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
