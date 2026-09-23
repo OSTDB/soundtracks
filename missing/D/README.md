@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daughter of Shadows: An SCP Breach Event | 33300 | [33300-daughter-of-shadows-an-scp-breach-event.json](./33300-daughter-of-shadows-an-scp-breach-event.json) |
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
+| Dave a Nice Guy | 365263 | [365263-dave-a-nice-guy.json](./365263-dave-a-nice-guy.json) |
 | Dave Goes Nutz! | 11389 | [11389-dave-goes-nutz.json](./11389-dave-goes-nutz.json) |
 | Dave Mirra Freestyle BMX 2 | 3871 | [3871-dave-mirra-freestyle-bmx-2.json](./3871-dave-mirra-freestyle-bmx-2.json) |
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
@@ -2320,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Depths of Providence | 412560 | [412560-depths-of-providence.json](./412560-depths-of-providence.json) |
 | Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
+| Depths Unseen | 365271 | [365271-depths-unseen.json](./365271-depths-unseen.json) |
 | Deputy Arsh | 329192 | [329192-deputy-arsh.json](./329192-deputy-arsh.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
