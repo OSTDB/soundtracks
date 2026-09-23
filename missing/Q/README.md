@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Tales: The Beast and the Nightingale - Collector's Edition | 29189 | [29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json](./29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json) |
 | Queen's Wish: The Conqueror | 109539 | [109539-queens-wish-the-conqueror.json](./109539-queens-wish-the-conqueror.json) |
 | Queenchantment | 192801 | [192801-queenchantment.json](./192801-queenchantment.json) |
+| Queens Climax | 385303 | [385303-queens-climax.json](./385303-queens-climax.json) |
 | Queensrÿche's Promised Land | 71465 | [71465-queensryches-promised-land.json](./71465-queensryches-promised-land.json) |
 | Queeny Army | 126565 | [126565-queeny-army.json](./126565-queeny-army.json) |
 | Queer and Chill | 149965 | [149965-queer-and-chill.json](./149965-queer-and-chill.json) |
