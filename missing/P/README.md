@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Tycoon 2: Business Simulator | 373728 | [373728-parking-tycoon-2-business-simulator.json](./373728-parking-tycoon-2-business-simulator.json) |
 | Parking Tycoon: Business Simulator | 257994 | [257994-parking-tycoon-business-simulator.json](./257994-parking-tycoon-business-simulator.json) |
 | Parkitect | 18871 | [18871-parkitect.json](./18871-parkitect.json) |
+| Parkitect Dinos and Dynasties | 372662 | [372662-parkitect-dinos-and-dynasties.json](./372662-parkitect-dinos-and-dynasties.json) |
 | Parkitect: Deluxe Edition | 192311 | [192311-parkitect-deluxe-edition.json](./192311-parkitect-deluxe-edition.json) |
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Arcade | 104623 | [104623-parkour-arcade.json](./104623-parkour-arcade.json) |
@@ -5348,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Lilith | 396240 | [396240-project-lilith.json](./396240-project-lilith.json) |
 | Project Loro | 262690 | [262690-project-loro.json](./262690-project-loro.json) |
 | Project Lounge | 31895 | [31895-project-lounge.json](./31895-project-lounge.json) |
+| Project Luminext | 372653 | [372653-project-luminext.json](./372653-project-luminext.json) |
 | Project Lumoria | 136481 | [136481-project-lumoria.json](./136481-project-lumoria.json) |
 | Project Luna | 220659 | [220659-project-luna.json](./220659-project-luna.json) |
 | Project M | 127155 | [127155-project-m.json](./127155-project-m.json) |
