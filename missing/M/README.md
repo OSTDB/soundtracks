@@ -3122,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Moments: Valentine's Day | 289844 | [289844-meow-moments-valentines-day.json](./289844-meow-moments-valentines-day.json) |
 | Meow Music | 103912 | [103912-meow-music.json](./103912-meow-music.json) |
 | Meow Nights | 183540 | [183540-meow-nights.json](./183540-meow-nights.json) |
+| Meow Path 2 | 360741 | [360741-meow-path-2.json](./360741-meow-path-2.json) |
 | Meow Survivors | 389579 | [389579-meow-survivors.json](./389579-meow-survivors.json) |
 | Meow Time Machine: Munch | 335269 | [335269-meow-time-machine-munch.json](./335269-meow-time-machine-munch.json) |
 | Meow Time Machine: Newton | 339937 | [339937-meow-time-machine-newton.json](./339937-meow-time-machine-newton.json) |
