@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
 | Vision 2 | 92997 | [92997-vision-2.json](./92997-vision-2.json) |
 | Vision Ghost 2 | 311129 | [311129-vision-ghost-2.json](./311129-vision-ghost-2.json) |
+| Vision Quench | 378413 | [378413-vision-quench.json](./378413-vision-quench.json) |
 | Vision Soft Reset | 113732 | [113732-vision-soft-reset.json](./113732-vision-soft-reset.json) |
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
 | Visions | 61867 | [61867-visions.json](./61867-visions.json) |
@@ -1215,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidhunter | 216851 | [216851-voidhunter.json](./216851-voidhunter.json) |
 | Voidland Mystery Goodnight | 215225 | [215225-voidland-mystery-goodnight.json](./215225-voidland-mystery-goodnight.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
+| Voidnomaly | 378415 | [378415-voidnomaly.json](./378415-voidnomaly.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
 | Voidrel | 408996 | [408996-voidrel.json](./408996-voidrel.json) |
 | Voidrun | 232011 | [232011-voidrun.json](./232011-voidrun.json) |
