@@ -2371,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fista 3-in-1 Retro Pack | 254762 | [254762-fista-3-in-1-retro-pack.json](./254762-fista-3-in-1-retro-pack.json) |
 | Fista Retro Horror Pack | 309323 | [309323-fista-retro-horror-pack.json](./309323-fista-retro-horror-pack.json) |
 | Fistagon | 264065 | [264065-fistagon.json](./264065-fistagon.json) |
+| Fister.Fun | 386434 | [386434-fister-fun.json](./386434-fister-fun.json) |
 | Fists of Invokers | 199500 | [199500-fists-of-invokers.json](./199500-fists-of-invokers.json) |
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
 | Fit | 102731 | [102731-fit.json](./102731-fit.json) |
@@ -3832,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | Foxventures | 235763 | [235763-foxventures.json](./235763-foxventures.json) |
 | Foxx Fights Back | 13851 | [13851-foxx-fights-back.json](./13851-foxx-fights-back.json) |
+| Foxy Dumplings | 386440 | [386440-foxy-dumplings.json](./386440-foxy-dumplings.json) |
 | Foxy Furry Lady of the Forest | 82919 | [82919-foxy-furry-lady-of-the-forest.json](./82919-foxy-furry-lady-of-the-forest.json) |
 | Foxy Go Go Go! | 397232 | [397232-foxy-go-go-go.json](./397232-foxy-go-go-go.json) |
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
@@ -4221,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frocket | 63807 | [63807-frocket.json](./63807-frocket.json) |
 | Frog | 55874 | [55874-frog.json](./55874-frog.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
+| Frog Adventure | 386430 | [386430-frog-adventure.json](./386430-frog-adventure.json) |
 | Frog Affirmations | 229071 | [229071-frog-affirmations.json](./229071-frog-affirmations.json) |
 | Frog And Roll | 266810 | [266810-frog-and-roll.json](./266810-frog-and-roll.json) |
 | Frog Bath | 132665 | [132665-frog-bath.json](./132665-frog-bath.json) |
