@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
 | When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
+| When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
@@ -2845,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Vasnar | 356190 | [356190-world-of-vasnar.json](./356190-world-of-vasnar.json) |
 | World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
 | World of Warcraft: Battle for Azeroth | 75380 | [75380-world-of-warcraft-battle-for-azeroth.json](./75380-world-of-warcraft-battle-for-azeroth.json) |
+| World of Warcraft: Burning Crusade Classic - Anniversary Edition | 390778 | [390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json](./390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json) |
 | World of Warcraft: Cataclysm - Collector's Edition | 136266 | [136266-world-of-warcraft-cataclysm-collectors-edition.json](./136266-world-of-warcraft-cataclysm-collectors-edition.json) |
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
 | World of Warcraft: Forever | 417650 | [417650-world-of-warcraft-forever.json](./417650-world-of-warcraft-forever.json) |
