@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Maker: Runiya | 107638 | [107638-adventure-maker-runiya.json](./107638-adventure-maker-runiya.json) |
 | Adventure Mansion | 283899 | [283899-adventure-mansion.json](./283899-adventure-mansion.json) |
 | Adventure Master | 381130 | [381130-adventure-master.json](./381130-adventure-master.json) |
+| Adventure Match | 338910 | [338910-adventure-match.json](./338910-adventure-match.json) |
 | Adventure Math | 94016 | [94016-adventure-math.json](./94016-adventure-math.json) |
 | Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
@@ -1990,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Alienz | 116399 | [116399-alienz.json](./116399-alienz.json) |
+| Alienz! | 338921 | [338921-alienz.json](./338921-alienz.json) |
 | Aliex | 14244 | [14244-aliex.json](./14244-aliex.json) |
 | Alight: Lunar Survival | 215780 | [215780-alight-lunar-survival.json](./215780-alight-lunar-survival.json) |
 | Align 12 | 242662 | [242662-align-12.json](./242662-align-12.json) |
@@ -3146,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animation Hangman | 117024 | [117024-animation-hangman.json](./117024-animation-hangman.json) |
 | Animation Versus | 343466 | [343466-animation-versus.json](./343466-animation-versus.json) |
 | Animators Hell | 159134 | [159134-animators-hell.json](./159134-animators-hell.json) |
+| Animatronic Memories | 338945 | [338945-animatronic-memories.json](./338945-animatronic-memories.json) |
 | Animdle | 337097 | [337097-animdle.json](./337097-animdle.json) |
 | Anime and Your Life | 111778 | [111778-anime-and-your-life.json](./111778-anime-and-your-life.json) |
 | Anime Artist | 280177 | [280177-anime-artist.json](./280177-anime-artist.json) |
