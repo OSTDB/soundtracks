@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
 | Echoes of Nara | 348321 | [348321-echoes-of-nara.json](./348321-echoes-of-nara.json) |
 | Echoes of Nocturnal Chords | 284335 | [284335-echoes-of-nocturnal-chords.json](./284335-echoes-of-nocturnal-chords.json) |
+| Echoes of Nothing | 359059 | [359059-echoes-of-nothing.json](./359059-echoes-of-nothing.json) |
 | Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
 | Echoes of Somewhere: Series 1 | 240801 | [240801-echoes-of-somewhere-series-1.json](./240801-echoes-of-somewhere-series-1.json) |
 | Echoes of Steel | 277851 | [277851-echoes-of-steel.json](./277851-echoes-of-steel.json) |
