@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
 | Let's Jump | 265759 | [265759-lets-jump.json](./265759-lets-jump.json) |
+| Let's Just Farm | 374846 | [374846-lets-just-farm.json](./374846-lets-just-farm.json) |
 | Let's Kill Hitler: The Game | 253914 | [253914-lets-kill-hitler-the-game.json](./253914-lets-kill-hitler-the-game.json) |
 | Let's Kill Iggy! | 330843 | [330843-lets-kill-iggy.json](./330843-lets-kill-iggy.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
@@ -1736,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighton | 148895 | [148895-lighton.json](./148895-lighton.json) |
 | Lightopus | 22316 | [22316-lightopus.json](./22316-lightopus.json) |
 | Lightout | 175388 | [175388-lightout.json](./175388-lightout.json) |
+| LightQb | 374799 | [374799-lightqb.json](./374799-lightqb.json) |
 | LightQuest | 180123 | [180123-lightquest.json](./180123-lightquest.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
 | LightRay | 349403 | [349403-lightray.json](./349403-lightray.json) |
