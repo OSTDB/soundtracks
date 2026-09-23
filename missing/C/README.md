@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
 | CarCollector | 76252 | [76252-carcollector.json](./76252-carcollector.json) |
 | Carcosa | 140554 | [140554-carcosa.json](./140554-carcosa.json) |
+| Card & Digital | 385324 | [385324-card-and-digital.json](./385324-card-and-digital.json) |
 | Card & Puzzle Collection Ginga | 365679 | [365679-card-and-puzzle-collection-ginga.json](./365679-card-and-puzzle-collection-ginga.json) |
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
 | Card Coder | 328022 | [328022-card-coder.json](./328022-card-coder.json) |
@@ -3433,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
 | Click Tycoon | 125196 | [125196-click-tycoon.json](./125196-click-tycoon.json) |
 | Click Your Crush! | 154363 | [154363-click-your-crush.json](./154363-click-your-crush.json) |
+| Click-Her | 385310 | [385310-click-her.json](./385310-click-her.json) |
 | Click: Commute Control | 199036 | [199036-click-commute-control.json](./199036-click-commute-control.json) |
 | Click: Control Your Game | 199037 | [199037-click-control-your-game.json](./199037-click-control-your-game.json) |
 | Click! | 94731 | [94731-click.json](./94731-click.json) |
@@ -6663,6 +6665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cumma Celeritate | 322395 | [322395-cumma-celeritate.json](./322395-cumma-celeritate.json) |
 | Cumming Hotel: A Gay Furry Slice of Life | 225636 | [225636-cumming-hotel-a-gay-furry-slice-of-life.json](./225636-cumming-hotel-a-gay-furry-slice-of-life.json) |
 | Cumming of Age | 371980 | [371980-cumming-of-age.json](./371980-cumming-of-age.json) |
+| Cumrooms | 385318 | [385318-cumrooms.json](./385318-cumrooms.json) |
 | Cumulater | 241347 | [241347-cumulater.json](./241347-cumulater.json) |
 | Cumulative Pack 2 | 323709 | [323709-cumulative-pack-2.json](./323709-cumulative-pack-2.json) |
 | Cumverse | 339355 | [339355-cumverse.json](./339355-cumverse.json) |
