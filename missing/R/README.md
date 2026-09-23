@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedCat: De Toffe Tijdreis | 201299 | [201299-redcat-de-toffe-tijdreis.json](./201299-redcat-de-toffe-tijdreis.json) |
 | RedCat: De Woeste Woordenbrij | 201300 | [201300-redcat-de-woeste-woordenbrij.json](./201300-redcat-de-woeste-woordenbrij.json) |
 | Redcon | 25098 | [25098-redcon.json](./25098-redcon.json) |
+| Redcrest: 1993 | 346241 | [346241-redcrest-1993.json](./346241-redcrest-1993.json) |
 | Redd War: Turnabout | 318805 | [318805-redd-war-turnabout.json](./318805-redd-war-turnabout.json) |
 | Redden | 83576 | [83576-redden.json](./83576-redden.json) |
 | Redeemart: A Convenient Apocalypse | 226448 | [226448-redeemart-a-convenient-apocalypse.json](./226448-redeemart-a-convenient-apocalypse.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift's Cave | 36079 | [36079-rifts-cave.json](./36079-rifts-cave.json) |
 | Riftborne | 398474 | [398474-riftborne.json](./398474-riftborne.json) |
 | Riftcast | 311635 | [311635-riftcast.json](./311635-riftcast.json) |
+| Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
 | Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
