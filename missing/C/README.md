@@ -2908,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChronoClone | 301280 | [301280-chronoclone.json](./301280-chronoclone.json) |
 | ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
 | Chronodog: Earth Defender | 185067 | [185067-chronodog-earth-defender.json](./185067-chronodog-earth-defender.json) |
+| ChronoForge | 365311 | [365311-chronoforge.json](./365311-chronoforge.json) |
 | Chronology | 10087 | [10087-chronology.json](./10087-chronology.json) |
 | Chronology: Deluxe Edition | 257371 | [257371-chronology-deluxe-edition.json](./257371-chronology-deluxe-edition.json) |
 | Chronomancy: Watchmaker's Curse | 184504 | [184504-chronomancy-watchmakers-curse.json](./184504-chronomancy-watchmakers-curse.json) |
@@ -3349,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Fun Collection 5 in 1 | 90588 | [90588-classic-fun-collection-5-in-1.json](./90588-classic-fun-collection-5-in-1.json) |
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
+| Classic Hentai Logic Puzzle | 365280 | [365280-classic-hentai-logic-puzzle.json](./365280-classic-hentai-logic-puzzle.json) |
 | Classic Invaders | 270765 | [270765-classic-invaders.json](./270765-classic-invaders.json) |
 | Classic Journey: Nitro | 219175 | [219175-classic-journey-nitro.json](./219175-classic-journey-nitro.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
@@ -3669,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
 | Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
+| Club Del Fierro | 365282 | [365282-club-del-fierro.json](./365282-club-del-fierro.json) |
 | Club Drive | 40804 | [40804-club-drive.json](./40804-club-drive.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
 | Club Hentai: Girls, Love, Sex | 149426 | [149426-club-hentai-girls-love-sex.json](./149426-club-hentai-girls-love-sex.json) |
@@ -4868,6 +4871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook Baker Match | 175425 | [175425-cook-baker-match.json](./175425-cook-baker-match.json) |
 | Cook Dungeon | 127174 | [127174-cook-dungeon.json](./127174-cook-dungeon.json) |
 | Cook Fest | 236392 | [236392-cook-fest.json](./236392-cook-fest.json) |
+| Cook for Me Grandpa! | 365276 | [365276-cook-for-me-grandpa.json](./365276-cook-for-me-grandpa.json) |
 | Cook for the Giant | 52827 | [52827-cook-for-the-giant.json](./52827-cook-for-the-giant.json) |
 | Cook MIX | 390819 | [390819-cook-mix.json](./390819-cook-mix.json) |
 | Cook OL | 288908 | [288908-cook-ol.json](./288908-cook-ol.json) |
