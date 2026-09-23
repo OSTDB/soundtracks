@@ -5589,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Fortress! + | 103173 | [103173-crash-fortress.json](./103173-crash-fortress.json) |
 | Crash Forts 2 | 205273 | [205273-crash-forts-2.json](./205273-crash-forts-2.json) |
 | Crash it Smash it | 74758 | [74758-crash-it-smash-it.json](./74758-crash-it-smash-it.json) |
+| Crash Landed | 371462 | [371462-crash-landed.json](./371462-crash-landed.json) |
 | Crash Metal: Cyber Racing Punk Cars | 269858 | [269858-crash-metal-cyber-racing-punk-cars.json](./269858-crash-metal-cyber-racing-punk-cars.json) |
 | Crash Mole | 223551 | [223551-crash-mole.json](./223551-crash-mole.json) |
 | Crash N Dash | 246986 | [246986-crash-n-dash.json](./246986-crash-n-dash.json) |
@@ -6233,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
 | Crowd City | 268535 | [268535-crowd-city.json](./268535-crowd-city.json) |
+| Crowd City: Treasure Edition | 371437 | [371437-crowd-city-treasure-edition.json](./371437-crowd-city-treasure-edition.json) |
 | Crowd City: Zombie Edition | 274485 | [274485-crowd-city-zombie-edition.json](./274485-crowd-city-zombie-edition.json) |
 | Crowd Control VR | 295788 | [295788-crowd-control-vr.json](./295788-crowd-control-vr.json) |
 | Crowd King | 185106 | [185106-crowd-king.json](./185106-crowd-king.json) |
@@ -6397,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
 | Cryptic Clash | 182907 | [182907-cryptic-clash.json](./182907-cryptic-clash.json) |
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
+| Cryptic Tales: Crossroads | 371461 | [371461-cryptic-tales-crossroads.json](./371461-cryptic-tales-crossroads.json) |
 | Cryptica | 307157 | [307157-cryptica.json](./307157-cryptica.json) |
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
 | Cryptid | 327188 | [327188-cryptid.json](./327188-cryptid.json) |
@@ -7215,6 +7218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyroad | 128570 | [128570-cyroad.json](./128570-cyroad.json) |
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
+| Cyte | 371458 | [371458-cyte.json](./371458-cyte.json) |
 | Cyto | 17431 | [17431-cyto.json](./17431-cyto.json) |
 | Cytoclash | 155989 | [155989-cytoclash.json](./155989-cytoclash.json) |
 | Cytokine Storm | 408088 | [408088-cytokine-storm.json](./408088-cytokine-storm.json) |
