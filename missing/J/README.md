@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judgment: Apocalypse Survival Simulation | 33153 | [33153-judgment-apocalypse-survival-simulation.json](./33153-judgment-apocalypse-survival-simulation.json) |
 | Judie no Atelier: Gramnad no Renkinjutsushi | 26514 | [26514-judie-no-atelier-gramnad-no-renkinjutsushi.json](./26514-judie-no-atelier-gramnad-no-renkinjutsushi.json) |
 | Jug | 67670 | [67670-jug.json](./67670-jug.json) |
+| Juggernaut | 341138 | [341138-juggernaut.json](./341138-juggernaut.json) |
 | Juggle | 246463 | [246463-juggle.json](./246463-juggle.json) |
 | Juggle Struggle | 250659 | [250659-juggle-struggle.json](./250659-juggle-struggle.json) |
 | Juggle! | 91904 | [91904-juggle.json](./91904-juggle.json) |
@@ -1416,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Keep Digging | 304370 | [304370-just-keep-digging.json](./304370-just-keep-digging.json) |
 | Just Keep Looting | 352837 | [352837-just-keep-looting.json](./352837-just-keep-looting.json) |
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
+| Just Kill Me. | 341133 | [341133-just-kill-me.json](./341133-just-kill-me.json) |
 | Just Kiss Him Already! | 225310 | [225310-just-kiss-him-already.json](./225310-just-kiss-him-already.json) |
 | Just Made a MageTower | 369628 | [369628-just-made-a-magetower.json](./369628-just-made-a-magetower.json) |
 | Just Me and Only Me Against the World | 176437 | [176437-just-me-and-only-me-against-the-world.json](./176437-just-me-and-only-me-against-the-world.json) |
