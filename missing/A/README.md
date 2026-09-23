@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Workplace With No People | 146096 | [146096-a-workplace-with-no-people.json](./146096-a-workplace-with-no-people.json) |
 | A World At War Tactics | 379452 | [379452-a-world-at-war-tactics.json](./379452-a-world-at-war-tactics.json) |
 | A World of Ice and Fire | 356195 | [356195-a-world-of-ice-and-fire.json](./356195-a-world-of-ice-and-fire.json) |
+| A World of Keflings: Sugar, Spice and Not So Nice | 377854 | [377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json](./377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json) |
 | A World of Wishes | 260754 | [260754-a-world-of-wishes.json](./260754-a-world-of-wishes.json) |
 | A Year at Pooh Corner | 45575 | [45575-a-year-at-pooh-corner.json](./45575-a-year-at-pooh-corner.json) |
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
@@ -2890,12 +2891,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Dream Blast | 114424 | [114424-angry-birds-dream-blast.json](./114424-angry-birds-dream-blast.json) |
 | Angry Birds Epic | 19276 | [19276-angry-birds-epic.json](./19276-angry-birds-epic.json) |
 | Angry Birds Fight! | 60226 | [60226-angry-birds-fight.json](./60226-angry-birds-fight.json) |
+| Angry Birds Flock Party | 377797 | [377797-angry-birds-flock-party.json](./377797-angry-birds-flock-party.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
 | Angry Birds Google+ | 245001 | [245001-angry-birds-google.json](./245001-angry-birds-google.json) |
 | Angry Birds Hatchery Island | 280801 | [280801-angry-birds-hatchery-island.json](./280801-angry-birds-hatchery-island.json) |
 | Angry Birds Hot Wheels Smashup | 195093 | [195093-angry-birds-hot-wheels-smashup.json](./195093-angry-birds-hot-wheels-smashup.json) |
 | Angry Birds Kingdom | 240247 | [240247-angry-birds-kingdom.json](./240247-angry-birds-kingdom.json) |
 | Angry Birds Match | 56590 | [56590-angry-birds-match.json](./56590-angry-birds-match.json) |
+| Angry Birds Match World | 377794 | [377794-angry-birds-match-world.json](./377794-angry-birds-match-world.json) |
 | Angry Birds Opera | 237496 | [237496-angry-birds-opera.json](./237496-angry-birds-opera.json) |
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
@@ -4714,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
 | Ashes of Kardoria | 386145 | [386145-ashes-of-kardoria.json](./386145-ashes-of-kardoria.json) |
+| Ashes of Paradise | 377808 | [377808-ashes-of-paradise.json](./377808-ashes-of-paradise.json) |
 | Ashes of Paradise | 379042 | [379042-ashes-of-paradise.json](./379042-ashes-of-paradise.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
 | Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
@@ -5011,6 +5015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astragali | 330861 | [330861-astragali.json](./330861-astragali.json) |
 | Astral | 111566 | [111566-astral.json](./111566-astral.json) |
 | Astral | 14273 | [14273-astral.json](./14273-astral.json) |
+| Astral | 377836 | [377836-astral.json](./377836-astral.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
 | Astral Coconut | 235834 | [235834-astral-coconut.json](./235834-astral-coconut.json) |
@@ -5653,6 +5658,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avariavs | 98405 | [98405-avariavs.json](./98405-avariavs.json) |
 | Avarice | 125408 | [125408-avarice.json](./125408-avarice.json) |
 | Avarice | 217859 | [217859-avarice.json](./217859-avarice.json) |
+| Avaris | 377821 | [377821-avaris.json](./377821-avaris.json) |
+| Avaris 2 | 377822 | [377822-avaris-2.json](./377822-avaris-2.json) |
 | Avast: Scourge of Sea | 315094 | [315094-avast-scourge-of-sea.json](./315094-avast-scourge-of-sea.json) |
 | Avatar | 80928 | [80928-avatar.json](./80928-avatar.json) |
 | Avatar 2 Way of Watter: Porn Game | 287101 | [287101-avatar-2-way-of-watter-porn-game.json](./287101-avatar-2-way-of-watter-porn-game.json) |
