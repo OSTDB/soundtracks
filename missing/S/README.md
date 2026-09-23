@@ -3838,6 +3838,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SiliCorp Systems | 321550 | [321550-silicorp-systems.json](./321550-silicorp-systems.json) |
 | Silivri | 376097 | [376097-silivri.json](./376097-silivri.json) |
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
+| Silke, Pixelines Lillesøster: Der Bor En Bager | 349491 | [349491-silke-pixelines-lilles-ster-der-bor-en-bager.json](./349491-silke-pixelines-lilles-ster-der-bor-en-bager.json) |
+| Silke, Pixelines Lillesøster: Hønsefødder Og Gulerødder | 349490 | [349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json](./349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json) |
+| Silke, Pixelines Lillesøster: Kan Du Alfabetet? | 349493 | [349493-silke-pixelines-lilles-ster-kan-du-alfabetet.json](./349493-silke-pixelines-lilles-ster-kan-du-alfabetet.json) |
+| Silke, Pixelines Lillesøster: Kan Du Klokken? | 349494 | [349494-silke-pixelines-lilles-ster-kan-du-klokken.json](./349494-silke-pixelines-lilles-ster-kan-du-klokken.json) |
+| Silke, Pixelines Lillesøster: Mæh, Siger Det Lille Monster | 349492 | [349492-silke-pixelines-lilles-ster-m-h-siger-det-lille-monster.json](./349492-silke-pixelines-lilles-ster-m-h-siger-det-lille-monster.json) |
+| Silke, Pixelines Lillesøster: Syng, Leg Og Lær | 349489 | [349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json](./349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
 | Silky Winds | 362348 | [362348-silky-winds.json](./362348-silky-winds.json) |
@@ -4299,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skala | 217395 | [217395-skala.json](./217395-skala.json) |
 | Skald: Against the Black Priory | 125250 | [125250-skald-against-the-black-priory.json](./125250-skald-against-the-black-priory.json) |
 | Skald: Against the Black Priory - Reinforcement Pack | 311994 | [311994-skald-against-the-black-priory-reinforcement-pack.json](./311994-skald-against-the-black-priory-reinforcement-pack.json) |
+| Skaldsong | 349517 | [349517-skaldsong.json](./349517-skaldsong.json) |
 | Skaphander: Der Auftrag | 98972 | [98972-skaphander-der-auftrag.json](./98972-skaphander-der-auftrag.json) |
 | Skapheim | 415290 | [415290-skapheim.json](./415290-skapheim.json) |
 | Skapon Tanken-tai: The Enchanted Hunters | 66127 | [66127-skapon-tanken-tai-the-enchanted-hunters.json](./66127-skapon-tanken-tai-the-enchanted-hunters.json) |
