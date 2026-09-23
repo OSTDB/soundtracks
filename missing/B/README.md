@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
 | Beer Shooter | 101526 | [101526-beer-shooter.json](./101526-beer-shooter.json) |
+| Beer Strip | 367024 | [367024-beer-strip.json](./367024-beer-strip.json) |
 | Beer! | 57091 | [57091-beer.json](./57091-beer.json) |
 | Beerjeweled | 138036 | [138036-beerjeweled.json](./138036-beerjeweled.json) |
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
@@ -2188,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellus Battle | 260157 | [260157-bellus-battle.json](./260157-bellus-battle.json) |
 | Bellwright | 244040 | [244040-bellwright.json](./244040-bellwright.json) |
 | Belly Bumpers | 298168 | [298168-belly-bumpers.json](./298168-belly-bumpers.json) |
+| Belly Dance Girl | 367028 | [367028-belly-dance-girl.json](./367028-belly-dance-girl.json) |
 | Belongings | 158707 | [158707-belongings.json](./158707-belongings.json) |
 | Belote 3 in 1 | 326263 | [326263-belote-3-in-1.json](./326263-belote-3-in-1.json) |
 | Below | 377564 | [377564-below.json](./377564-below.json) |
@@ -2882,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
+| Biorage | 367035 | [367035-biorage.json](./367035-biorage.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | Biorhythm | 78373 | [78373-biorhythm.json](./78373-biorhythm.json) |
 | Bios | 26575 | [26575-bios.json](./26575-bios.json) |
