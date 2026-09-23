@@ -3002,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die CD-ROM mit der Maus 2 | 250610 | [250610-die-cd-rom-mit-der-maus-2.json](./250610-die-cd-rom-mit-der-maus-2.json) |
 | Die CD-ROM mit der Maus 3 | 250611 | [250611-die-cd-rom-mit-der-maus-3.json](./250611-die-cd-rom-mit-der-maus-3.json) |
 | Die Cook | 277024 | [277024-die-cook.json](./277024-die-cook.json) |
+| Die Die Die | 346218 | [346218-die-die-die.json](./346218-die-die-die.json) |
 | Die Die Die and Try | 195116 | [195116-die-die-die-and-try.json](./195116-die-die-die-and-try.json) |
 | Die DillyBillys | 398477 | [398477-die-dillybillys.json](./398477-die-dillybillys.json) |
 | Die drei ??? 2 - Bomben in Rocky Beach | 125284 | [125284-die-drei-2-bomben-in-rocky-beach.json](./125284-die-drei-2-bomben-in-rocky-beach.json) |
@@ -5438,6 +5439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
+| Drawn Tale | 346210 | [346210-drawn-tale.json](./346210-drawn-tale.json) |
 | Drawn to Drift | 373727 | [373727-drawn-to-drift.json](./373727-drawn-to-drift.json) |
 | Drawn to Kill | 60512 | [60512-drawn-to-kill.json](./60512-drawn-to-kill.json) |
 | Drawn to Life | 4821 | [4821-drawn-to-life.json](./4821-drawn-to-life.json) |
