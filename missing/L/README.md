@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leprechaun Shadow | 111698 | [111698-leprechaun-shadow.json](./111698-leprechaun-shadow.json) |
 | Leprechaun Twins | 307313 | [307313-leprechaun-twins.json](./307313-leprechaun-twins.json) |
 | Lepur | 81765 | [81765-lepur.json](./81765-lepur.json) |
+| Lepus | 376121 | [376121-lepus.json](./376121-lepus.json) |
 | Lern Island Letters | 322768 | [322768-lern-island-letters.json](./322768-lern-island-letters.json) |
 | Lernen Leicht Gemacht! Für Junggebliebene | 81389 | [81389-lernen-leicht-gemacht-fur-junggebliebene.json](./81389-lernen-leicht-gemacht-fur-junggebliebene.json) |
 | Lerry the Cube | 102117 | [102117-lerry-the-cube.json](./102117-lerry-the-cube.json) |
@@ -1551,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liese in the City of Trials | 358928 | [358928-liese-in-the-city-of-trials.json](./358928-liese-in-the-city-of-trials.json) |
 | Lieve Oma | 27648 | [27648-lieve-oma.json](./27648-lieve-oma.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
+| Life 2047 Escape Simulator | 376086 | [376086-life-2047-escape-simulator.json](./376086-life-2047-escape-simulator.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
@@ -2581,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Drive North | 320382 | [320382-long-drive-north.json](./320382-long-drive-north.json) |
 | Long Gone Days | 31820 | [31820-long-gone-days.json](./31820-long-gone-days.json) |
 | Long Hun Shi Ke | 90619 | [90619-long-hun-shi-ke.json](./90619-long-hun-shi-ke.json) |
+| Long in the Tooth | 376130 | [376130-long-in-the-tooth.json](./376130-long-in-the-tooth.json) |
 | Long Journey | 200571 | [200571-long-journey.json](./200571-long-journey.json) |
 | Long Jump | 247049 | [247049-long-jump.json](./247049-long-jump.json) |
 | Long Live Caesar | 166717 | [166717-long-live-caesar.json](./166717-long-live-caesar.json) |
@@ -2970,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Summoner Kitty | 80900 | [80900-lost-summoner-kitty.json](./80900-lost-summoner-kitty.json) |
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
 | Lost Sword | 353867 | [353867-lost-sword.json](./353867-lost-sword.json) |
+| Lost Tales: Karai Vosa | 376134 | [376134-lost-tales-karai-vosa.json](./376134-lost-tales-karai-vosa.json) |
 | Lost Tenet | 260213 | [260213-lost-tenet.json](./260213-lost-tenet.json) |
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
@@ -3326,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
 | Lucky VS Aliens | 95221 | [95221-lucky-vs-aliens.json](./95221-lucky-vs-aliens.json) |
+| Luckyest | 376124 | [376124-luckyest.json](./376124-luckyest.json) |
 | LuckyWheel | 326276 | [326276-luckywheel.json](./326276-luckywheel.json) |
 | Luctus | 263781 | [263781-luctus.json](./263781-luctus.json) |
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
