@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstrong Legacy | 187458 | [187458-unstrong-legacy.json](./187458-unstrong-legacy.json) |
 | Unsubscribed: The Game | 117913 | [117913-unsubscribed-the-game.json](./117913-unsubscribed-the-game.json) |
 | Unsung Empires: The Cholas | 244379 | [244379-unsung-empires-the-cholas.json](./244379-unsung-empires-the-cholas.json) |
+| Unsung Escape | 356830 | [356830-unsung-escape.json](./356830-unsung-escape.json) |
 | Unsung Heroes: The Golden Mask | 124146 | [124146-unsung-heroes-the-golden-mask.json](./124146-unsung-heroes-the-golden-mask.json) |
 | Unsung Kingdom | 137486 | [137486-unsung-kingdom.json](./137486-unsung-kingdom.json) |
 | Unsung Knight | 163811 | [163811-unsung-knight.json](./163811-unsung-knight.json) |
