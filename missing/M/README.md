@@ -4070,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
 | Mimi's Restaurant helper | 387678 | [387678-mimis-restaurant-helper.json](./387678-mimis-restaurant-helper.json) |
 | Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
+| Mimic | 359605 | [359605-mimic.json](./359605-mimic.json) |
 | Mimic | 80902 | [80902-mimic.json](./80902-mimic.json) |
 | Mimic Busters | 418674 | [418674-mimic-busters.json](./418674-mimic-busters.json) |
 | Mimic Hunters | 239761 | [239761-mimic-hunters.json](./239761-mimic-hunters.json) |
