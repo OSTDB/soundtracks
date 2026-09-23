@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous: Second Son - Collector's Edition | 147293 | [147293-infamous-second-son-collectors-edition.json](./147293-infamous-second-son-collectors-edition.json) |
 | Infantry | 85840 | [85840-infantry.json](./85840-infantry.json) |
 | Infantry Attack: Backup Edition | 308805 | [308805-infantry-attack-backup-edition.json](./308805-infantry-attack-backup-edition.json) |
+| Infantry Attack: Golden Backup Edition | 371435 | [371435-infantry-attack-golden-backup-edition.json](./371435-infantry-attack-golden-backup-edition.json) |
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
 | Infected | 44524 | [44524-infected.json](./44524-infected.json) |
@@ -1602,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inquisitive Dave | 163823 | [163823-inquisitive-dave.json](./163823-inquisitive-dave.json) |
 | Inquisitor | 287642 | [287642-inquisitor.json](./287642-inquisitor.json) |
 | Inquisitor | 9100 | [9100-inquisitor.json](./9100-inquisitor.json) |
+| Inquisitor Shepherd | 371471 | [371471-inquisitor-shepherd.json](./371471-inquisitor-shepherd.json) |
 | Inquisitor Simulator | 398365 | [398365-inquisitor-simulator.json](./398365-inquisitor-simulator.json) |
 | Inquisitor: Shade of Swords | 123604 | [123604-inquisitor-shade-of-swords.json](./123604-inquisitor-shade-of-swords.json) |
 | Inquisitor's Heart and Soul | 191205 | [191205-inquisitors-heart-and-soul.json](./191205-inquisitors-heart-and-soul.json) |
@@ -2125,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Roses | 16063 | [16063-iron-roses.json](./16063-iron-roses.json) |
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
 | Iron Sea: The West Coast | 157571 | [157571-iron-sea-the-west-coast.json](./157571-iron-sea-the-west-coast.json) |
+| Iron Shadow: Survival Protocol | 371472 | [371472-iron-shadow-survival-protocol.json](./371472-iron-shadow-survival-protocol.json) |
 | Iron Sky: A Lunar Adventure | 234337 | [234337-iron-sky-a-lunar-adventure.json](./234337-iron-sky-a-lunar-adventure.json) |
 | Iron Sky: Invasion | 7021 | [7021-iron-sky-invasion.json](./7021-iron-sky-invasion.json) |
 | Iron Sky: Invasion - Digital Deluxe Edition | 53257 | [53257-iron-sky-invasion-digital-deluxe-edition.json](./53257-iron-sky-invasion-digital-deluxe-edition.json) |
