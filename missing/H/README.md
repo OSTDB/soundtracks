@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 259633 | [259633-hangman.json](./259633-hangman.json) |
 | Hangman | 327217 | [327217-hangman.json](./327217-hangman.json) |
 | Hangman | 377831 | [377831-hangman.json](./377831-hangman.json) |
+| Hangman Hijinks | 366435 | [366435-hangman-hijinks.json](./366435-hangman-hijinks.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
 | Hangman: Fun Word Game | 89236 | [89236-hangman-fun-word-game.json](./89236-hangman-fun-word-game.json) |
 | Hangman's Revenge | 67973 | [67973-hangmans-revenge.json](./67973-hangmans-revenge.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart on Your Sleeve | 178533 | [178533-heart-on-your-sleeve.json](./178533-heart-on-your-sleeve.json) |
 | Heart Piano Tiles | 96697 | [96697-heart-piano-tiles.json](./96697-heart-piano-tiles.json) |
 | Heart Rocket | 177410 | [177410-heart-rocket.json](./177410-heart-rocket.json) |
+| Heart Snatcher | 366392 | [366392-heart-snatcher.json](./366392-heart-snatcher.json) |
 | Heart to Heart | 114832 | [114832-heart-to-heart.json](./114832-heart-to-heart.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart-Warming Deliveries | 345598 | [345598-heart-warming-deliveries.json](./345598-heart-warming-deliveries.json) |
