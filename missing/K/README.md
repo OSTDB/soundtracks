@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamaeru: A Frog Refuge | 252773 | [252773-kamaeru-a-frog-refuge.json](./252773-kamaeru-a-frog-refuge.json) |
 | Kamakazzzbee | 217330 | [217330-kamakazzzbee.json](./217330-kamakazzzbee.json) |
 | Kamasutra | 335320 | [335320-kamasutra.json](./335320-kamasutra.json) |
+| Kambayashi-ke Satsujin Jiken | 343980 | [343980-kambayashi-ke-satsujin-jiken.json](./343980-kambayashi-ke-satsujin-jiken.json) |
 | Kame no Ongaeshi: Urashima Densetsu | 215130 | [215130-kame-no-ongaeshi-urashima-densetsu.json](./215130-kame-no-ongaeshi-urashima-densetsu.json) |
 | Kame Paradise 2 | 231389 | [231389-kame-paradise-2.json](./231389-kame-paradise-2.json) |
 | Kame Paradise 3 Multiversex | 231391 | [231391-kame-paradise-3-multiversex.json](./231391-kame-paradise-3-multiversex.json) |
@@ -1138,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
 | King's Devotion | 381146 | [381146-kings-devotion.json](./381146-kings-devotion.json) |
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
+| King's Empire | 344002 | [344002-kings-empire.json](./344002-kings-empire.json) |
 | King's Field | 7422 | [7422-kings-field.json](./7422-kings-field.json) |
 | King's Field | 7423 | [7423-kings-field.json](./7423-kings-field.json) |
 | King's Field II | 9500 | [9500-kings-field-ii.json](./9500-kings-field-ii.json) |
@@ -2001,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowloon's Rhizome: A Day of the Fire - Vol. 1 | 255804 | [255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json](./255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 2 | 255806 | [255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json](./255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json) |
 | Köy | 320997 | [320997-koy.json](./320997-koy.json) |
+| Koyomin's Revenge | 343473 | [343473-koyomins-revenge.json](./343473-koyomins-revenge.json) |
 | Koziołek Matołek Wynalazca | 135255 | [135255-kozio-ek-mato-ek-wynalazca.json](./135255-kozio-ek-mato-ek-wynalazca.json) |
 | Krabat: The Secret of the Sorbian King | 186722 | [186722-krabat-the-secret-of-the-sorbian-king.json](./186722-krabat-the-secret-of-the-sorbian-king.json) |
 | KrabbitWorld Origins | 67297 | [67297-krabbitworld-origins.json](./67297-krabbitworld-origins.json) |
@@ -2165,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunlun Fight | 30180 | [30180-kunlun-fight.json](./30180-kunlun-fight.json) |
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
 | Kunoichi Torimonocho | 123577 | [123577-kunoichi-torimonocho.json](./123577-kunoichi-torimonocho.json) |
+| Kunoichi Trainer | 343453 | [343453-kunoichi-trainer.json](./343453-kunoichi-trainer.json) |
 | Kuon | 10909 | [10909-kuon.json](./10909-kuon.json) |
 | Kuon no Kizuna | 85811 | [85811-kuon-no-kizuna.json](./85811-kuon-no-kizuna.json) |
 | Kuon no Kizuna: Sairinshou | 64659 | [64659-kuon-no-kizuna-sairinshou.json](./64659-kuon-no-kizuna-sairinshou.json) |
