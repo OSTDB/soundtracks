@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
+| Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
 | Team Fortress 2: End of the Line Update | 256883 | [256883-team-fortress-2-end-of-the-line-update.json](./256883-team-fortress-2-end-of-the-line-update.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
 | Team Fortress 2: Gold Rush Update | 256372 | [256372-team-fortress-2-gold-rush-update.json](./256372-team-fortress-2-gold-rush-update.json) |
@@ -5042,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mind's Eclipse | 76579 | [76579-the-minds-eclipse.json](./76579-the-minds-eclipse.json) |
 | The Mindwarp | 206169 | [206169-the-mindwarp.json](./206169-the-mindwarp.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
+| The Mine | 360736 | [360736-the-mine.json](./360736-the-mine.json) |
 | The Miners | 31215 | [31215-the-miners.json](./31215-the-miners.json) |
 | The Mines of White Label | 289982 | [289982-the-mines-of-white-label.json](./289982-the-mines-of-white-label.json) |
 | The Minesweeper | 406322 | [406322-the-minesweeper.json](./406322-the-minesweeper.json) |
@@ -5948,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
 | The Sign | 241634 | [241634-the-sign.json](./241634-the-sign.json) |
 | The Signal From Tölva | 22039 | [22039-the-signal-from-tolva.json](./22039-the-signal-from-tolva.json) |
+| The Signal VR | 360780 | [360780-the-signal-vr.json](./360780-the-signal-vr.json) |
 | The Signifier: Deluxe Edition | 154550 | [154550-the-signifier-deluxe-edition.json](./154550-the-signifier-deluxe-edition.json) |
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
 | The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
@@ -10037,6 +10040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track Racing: The Holy Rosary | 275133 | [275133-track-racing-the-holy-rosary.json](./275133-track-racing-the-holy-rosary.json) |
 | Trackastrophe! | 333074 | [333074-trackastrophe.json](./333074-trackastrophe.json) |
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
+| Tracked: Shoot to Survive | 360773 | [360773-tracked-shoot-to-survive.json](./360773-tracked-shoot-to-survive.json) |
 | Trackline Express | 244341 | [244341-trackline-express.json](./244341-trackline-express.json) |
 | TrackMania 2: Stadium | 9448 | [9448-trackmania-2-stadium.json](./9448-trackmania-2-stadium.json) |
 | TrackMania Nations | 9909 | [9909-trackmania-nations.json](./9909-trackmania-nations.json) |
@@ -10070,6 +10074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
 | Tradewinds Legends | 59454 | [59454-tradewinds-legends.json](./59454-tradewinds-legends.json) |
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
+| Trading Card Inspector | 360751 | [360751-trading-card-inspector.json](./360751-trading-card-inspector.json) |
 | Trading Simulator | 274563 | [274563-trading-simulator.json](./274563-trading-simulator.json) |
 | Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
 | Traditional Braves with Sess-AI 2.0 | 387668 | [387668-traditional-braves-with-sess-ai-2-0.json](./387668-traditional-braves-with-sess-ai-2-0.json) |
@@ -11218,6 +11223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troma Presents Poultrygeist | 305952 | [305952-troma-presents-poultrygeist.json](./305952-troma-presents-poultrygeist.json) |
 | Trombone Champ | 149821 | [149821-trombone-champ.json](./149821-trombone-champ.json) |
 | Trombone Champ: Unflattened! | 313775 | [313775-trombone-champ-unflattened.json](./313775-trombone-champ-unflattened.json) |
+| Trombone Champ: Unflattened! - Undertale + Deltarune Song Pack | 360779 | [360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json](./360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json) |
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
 | Tron | 5247 | [5247-tron.json](./5247-tron.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
