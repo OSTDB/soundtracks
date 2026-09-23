@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner III | 365185 | [365185-after-burner-iii.json](./365185-after-burner-iii.json) |
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
+| After Exposure | 341131 | [341131-after-exposure.json](./341131-after-exposure.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Hell Freezes Over | 366912 | [366912-after-hell-freezes-over.json](./366912-after-hell-freezes-over.json) |
 | After Hours | 117511 | [117511-after-hours.json](./117511-after-hours.json) |
@@ -1513,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aisu Kuriimu Simulator | 186730 | [186730-aisu-kuriimu-simulator.json](./186730-aisu-kuriimu-simulator.json) |
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
 | Aitta: Finnish folktales | 203868 | [203868-aitta-finnish-folktales.json](./203868-aitta-finnish-folktales.json) |
+| Aivern | 341148 | [341148-aivern.json](./341148-aivern.json) |
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
 | Aiyra | 255772 | [255772-aiyra.json](./255772-aiyra.json) |
 | Ajax | 39324 | [39324-ajax.json](./39324-ajax.json) |
@@ -2628,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Amigo: Kebab Simulator | 243141 | [243141-amigo-kebab-simulator.json](./243141-amigo-kebab-simulator.json) |
 | Amihailu in Dreamland | 32219 | [32219-amihailu-in-dreamland.json](./32219-amihailu-in-dreamland.json) |
+| Amikin Village | 341128 | [341128-amikin-village.json](./341128-amikin-village.json) |
 | Amillusion | 202238 | [202238-amillusion.json](./202238-amillusion.json) |
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
 | Amira | 169857 | [169857-amira.json](./169857-amira.json) |
@@ -3113,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnimalFruitTart | 369230 | [369230-animalfruittart.json](./369230-animalfruittart.json) |
 | Animalia | 216337 | [216337-animalia.json](./216337-animalia.json) |
 | Animalia Education: Family | 104484 | [104484-animalia-education-family.json](./104484-animalia-education-family.json) |
+| Animalia Memories | 341141 | [341141-animalia-memories.json](./341141-animalia-memories.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
 | Animalia Survival: Haloween Pack | 263051 | [263051-animalia-survival-haloween-pack.json](./263051-animalia-survival-haloween-pack.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
