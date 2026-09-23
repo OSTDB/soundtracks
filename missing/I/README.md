@@ -2166,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IronTusk's Diablo3D | 202847 | [202847-irontusks-diablo3d.json](./202847-irontusks-diablo3d.json) |
 | Ironwake | 418751 | [418751-ironwake.json](./418751-ironwake.json) |
 | IronWood | 394370 | [394370-ironwood.json](./394370-ironwood.json) |
+| Ironwood Conquest | 367629 | [367629-ironwood-conquest.json](./367629-ironwood-conquest.json) |
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
 | Irori | 184067 | [184067-irori.json](./184067-irori.json) |
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
@@ -2319,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles of Sea and Sky | 133013 | [133013-isles-of-sea-and-sky.json](./133013-isles-of-sea-and-sky.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
+| Islet Hell | 367596 | [367596-islet-hell.json](./367596-islet-hell.json) |
 | Isly | 185010 | [185010-isly.json](./185010-isly.json) |
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
 | Iso | 100225 | [100225-iso.json](./100225-iso.json) |
