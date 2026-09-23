@@ -368,6 +368,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Come In? | 144235 | [144235-can-you-come-in.json](./144235-can-you-come-in.json) |
 | Can You Eat by Yourself | 76660 | [76660-can-you-eat-by-yourself.json](./76660-can-you-eat-by-yourself.json) |
 | Can You Escape | 189033 | [189033-can-you-escape.json](./189033-can-you-escape.json) |
+| Can You Escape Fate? A Zodiac Story | 377807 | [377807-can-you-escape-fate-a-zodiac-story.json](./377807-can-you-escape-fate-a-zodiac-story.json) |
+| Can You Escape Heartbreak? A Zodiac Story | 377809 | [377809-can-you-escape-heartbreak-a-zodiac-story.json](./377809-can-you-escape-heartbreak-a-zodiac-story.json) |
+| Can You Escape Love? A Zodiac Story | 377804 | [377804-can-you-escape-love-a-zodiac-story.json](./377804-can-you-escape-love-a-zodiac-story.json) |
 | Can You Escape Modern Office | 167290 | [167290-can-you-escape-modern-office.json](./167290-can-you-escape-modern-office.json) |
 | Can You Escape- Jail Break | 106550 | [106550-can-you-escape-jail-break.json](./106550-can-you-escape-jail-break.json) |
 | Can you escape: Room Escape 1 | 106954 | [106954-can-you-escape-room-escape-1.json](./106954-can-you-escape-room-escape-1.json) |
@@ -3752,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Coco Block | 391595 | [391595-coco-block.json](./391595-coco-block.json) |
 | Coco to the Rescue | 230365 | [230365-coco-to-the-rescue.json](./230365-coco-to-the-rescue.json) |
+| Cocoboy | 377811 | [377811-cocoboy.json](./377811-cocoboy.json) |
 | Cocommando | 393474 | [393474-cocommando.json](./393474-cocommando.json) |
 | Coconut | 314302 | [314302-coconut.json](./314302-coconut.json) |
 | Coconut | 314305 | [314305-coconut.json](./314305-coconut.json) |
