@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
 | Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
+| Naked Warrior | 385305 | [385305-naked-warrior.json](./385305-naked-warrior.json) |
 | Nakiti Generations | 31762 | [31762-nakiti-generations.json](./31762-nakiti-generations.json) |
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Cosmo Police | 209482 | [209482-neko-cosmo-police.json](./209482-neko-cosmo-police.json) |
 | Neko Dai Suki! | 45257 | [45257-neko-dai-suki.json](./45257-neko-dai-suki.json) |
 | Neko Daisuki! | 19668 | [19668-neko-daisuki.json](./19668-neko-daisuki.json) |
+| Neko Don Don! | 385332 | [385332-neko-don-don.json](./385332-neko-don-don.json) |
 | Neko Gacha | 228543 | [228543-neko-gacha.json](./228543-neko-gacha.json) |
 | Neko Gelato | 353995 | [353995-neko-gelato.json](./353995-neko-gelato.json) |
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
@@ -1075,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroHex: Hacking, Spying, Sabotage | 129029 | [129029-neurohex-hacking-spying-sabotage.json](./129029-neurohex-hacking-spying-sabotage.json) |
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
 | Neuromancer | 14485 | [14485-neuromancer.json](./14485-neuromancer.json) |
+| Neuron Activation | 385337 | [385337-neuron-activation.json](./385337-neuron-activation.json) |
 | NeuroNet: Mendax Proxy | 147903 | [147903-neuronet-mendax-proxy.json](./147903-neuronet-mendax-proxy.json) |
 | NeuroReal VR | 100819 | [100819-neuroreal-vr.json](./100819-neuroreal-vr.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
@@ -2766,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nylos | 335362 | [335362-nylos.json](./335362-nylos.json) |
 | Nympho's Path | 208450 | [208450-nymphos-path.json](./208450-nymphos-path.json) |
 | Nymphomania Paradox | 82784 | [82784-nymphomania-paradox.json](./82784-nymphomania-paradox.json) |
+| Nymphs of the Forest | 385297 | [385297-nymphs-of-the-forest.json](./385297-nymphs-of-the-forest.json) |
 | Nyorols | 399180 | [399180-nyorols.json](./399180-nyorols.json) |
 | Nyra: The Fall of Light | 390097 | [390097-nyra-the-fall-of-light.json](./390097-nyra-the-fall-of-light.json) |
 | NYT Crossplay: Play and Spell | 387535 | [387535-nyt-crossplay-play-and-spell.json](./387535-nyt-crossplay-play-and-spell.json) |
