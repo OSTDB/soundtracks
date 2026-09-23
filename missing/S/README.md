@@ -2743,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Slime | 160218 | [160218-shattered-slime.json](./160218-shattered-slime.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
 | Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
+| Shattered Vault | 390783 | [390783-shattered-vault.json](./390783-shattered-vault.json) |
 | Shattered Void | 340380 | [340380-shattered-void.json](./340380-shattered-void.json) |
 | Shattered World | 264632 | [264632-shattered-world.json](./264632-shattered-world.json) |
 | Shattered Worlds | 155654 | [155654-shattered-worlds.json](./155654-shattered-worlds.json) |
@@ -10709,6 +10710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
 | Sunken Seeker | 386693 | [386693-sunken-seeker.json](./386693-sunken-seeker.json) |
 | Sunkenland | 213475 | [213475-sunkenland.json](./213475-sunkenland.json) |
+| SunKong | 390768 | [390768-sunkong.json](./390768-sunkong.json) |
 | Sunland Hike | 264613 | [264613-sunland-hike.json](./264613-sunland-hike.json) |
 | Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
 | Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
