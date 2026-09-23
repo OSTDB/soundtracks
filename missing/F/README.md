@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
 | FastBall 2 F. | 259077 | [259077-fastball-2-f.json](./259077-fastball-2-f.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
+| Faster Than Death | 383629 | [383629-faster-than-death.json](./383629-faster-than-death.json) |
 | Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
 | FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
@@ -4440,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frosty Enterprise | 326409 | [326409-frosty-enterprise.json](./326409-frosty-enterprise.json) |
 | Frosty Jumper | 152825 | [152825-frosty-jumper.json](./152825-frosty-jumper.json) |
 | Frosty Kiss | 15933 | [15933-frosty-kiss.json](./15933-frosty-kiss.json) |
+| Frowning Vermin | 383656 | [383656-frowning-vermin.json](./383656-frowning-vermin.json) |
 | Frozen | 206151 | [206151-frozen.json](./206151-frozen.json) |
 | Frozen | 230377 | [230377-frozen.json](./230377-frozen.json) |
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
