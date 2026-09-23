@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Times: Purrfect Shapes | 369629 | [369629-neko-times-purrfect-shapes.json](./369629-neko-times-purrfect-shapes.json) |
 | Neko Tissue | 370105 | [370105-neko-tissue.json](./370105-neko-tissue.json) |
 | Neko to Sakana | 188601 | [188601-neko-to-sakana.json](./188601-neko-to-sakana.json) |
+| Neko Waifu | 367033 | [367033-neko-waifu.json](./367033-neko-waifu.json) |
 | Neko Zamurai | 128364 | [128364-neko-zamurai.json](./128364-neko-zamurai.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko-Nin exHeart Spin! Love+Plus | 384234 | [384234-neko-nin-exheart-spin-love-plus.json](./384234-neko-nin-exheart-spin-love-plus.json) |
@@ -1640,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
 | Nightboarder | 179031 | [179031-nightboarder.json](./179031-nightboarder.json) |
 | NightCaster II: Equinox | 5970 | [5970-nightcaster-ii-equinox.json](./5970-nightcaster-ii-equinox.json) |
+| Nightclub 69: Bunny Girls | 367032 | [367032-nightclub-69-bunny-girls.json](./367032-nightclub-69-bunny-girls.json) |
 | Nightclub Emporium | 34788 | [34788-nightclub-emporium.json](./34788-nightclub-emporium.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightclub Royale: Let's Party! | 254608 | [254608-nightclub-royale-lets-party.json](./254608-nightclub-royale-lets-party.json) |
@@ -2299,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noema | 403695 | [403695-noema.json](./403695-noema.json) |
 | Noematica: Digital Dollhouse | 409772 | [409772-noematica-digital-dollhouse.json](./409772-noematica-digital-dollhouse.json) |
 | Nofland Story | 220304 | [220304-nofland-story.json](./220304-nofland-story.json) |
+| NoFlash | 367023 | [367023-noflash.json](./367023-noflash.json) |
 | Nofrills Solitaire | 169875 | [169875-nofrills-solitaire.json](./169875-nofrills-solitaire.json) |
 | Nofsky Zombies | 235838 | [235838-nofsky-zombies.json](./235838-nofsky-zombies.json) |
 | Noga | 264703 | [264703-noga.json](./264703-noga.json) |
