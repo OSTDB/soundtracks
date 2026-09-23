@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
 | Echostasis | 155512 | [155512-echostasis.json](./155512-echostasis.json) |
 | Echoveil: The Last Guest | 351708 | [351708-echoveil-the-last-guest.json](./351708-echoveil-the-last-guest.json) |
+| Echowood | 387652 | [387652-echowood.json](./387652-echowood.json) |
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
 | Ecila | 257392 | [257392-ecila.json](./257392-ecila.json) |
 | Eckn+ | 159177 | [159177-eckn.json](./159177-eckn.json) |
@@ -517,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Puyo Puyo PC-9801 | 362367 | [362367-eggconsole-puyo-puyo-pc-9801.json](./362367-eggconsole-puyo-puyo-pc-9801.json) |
 | Eggconsole Star Cruiser PC-8801mkIISR | 317225 | [317225-eggconsole-star-cruiser-pc-8801mkiisr.json](./317225-eggconsole-star-cruiser-pc-8801mkiisr.json) |
 | Eggconsole Star Trader PC-8801mkIISR | 314867 | [314867-eggconsole-star-trader-pc-8801mkiisr.json](./314867-eggconsole-star-trader-pc-8801mkiisr.json) |
+| Eggconsole Super Tritorn MSX2 | 387663 | [387663-eggconsole-super-tritorn-msx2.json](./387663-eggconsole-super-tritorn-msx2.json) |
 | Eggconsole The Legend of Heroes Saga PC-8801 | 334093 | [334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json](./334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json) |
 | Eggconsole Topple Zip PC-8801 | 306531 | [306531-eggconsole-topple-zip-pc-8801.json](./306531-eggconsole-topple-zip-pc-8801.json) |
 | Eggconsole Wanderers From Ys PC-8801mkIISR | 300861 | [300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json](./300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json) |
