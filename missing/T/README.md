@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles: Digital Deluxe Edition | 313133 | [313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json](./313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json) |
 | That Time I Got Reincarnated as a Slime: The Saga of How the Demon Lord and Dragon Founded a Nation | 174820 | [174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json](./174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json) |
 | That Time I Got Reincarnated as a Succubus | 266307 | [266307-that-time-i-got-reincarnated-as-a-succubus.json](./266307-that-time-i-got-reincarnated-as-a-succubus.json) |
+| That Time I Got Trapped in an Office Dungeon | 346246 | [346246-that-time-i-got-trapped-in-an-office-dungeon.json](./346246-that-time-i-got-trapped-in-an-office-dungeon.json) |
 | That Time I Was Reincarnated as a Box that can Draw Various Lines that Interact with the Environment | 407564 | [407564-that-time-i-was-reincarnated-as-a-box-that-can-draw-various-lines-that-interact-with-the-environment.json](./407564-that-time-i-was-reincarnated-as-a-box-that-can-draw-various-lines-that-interact-with-the-environment.json) |
 | That Time in '88 | 181345 | [181345-that-time-in-88.json](./181345-that-time-in-88.json) |
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
@@ -10111,6 +10112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trace of Time | 284337 | [284337-trace-of-time.json](./284337-trace-of-time.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | Traces of Gods | 372097 | [372097-traces-of-gods.json](./372097-traces-of-gods.json) |
+| Tracing | 346209 | [346209-tracing.json](./346209-tracing.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
 | Track & Field II | 20903 | [20903-track-and-field-ii.json](./20903-track-and-field-ii.json) |
 | Track & Field in Barcelona | 48893 | [48893-track-and-field-in-barcelona.json](./48893-track-and-field-in-barcelona.json) |
