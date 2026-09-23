@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Blood: Survival FPS | 251234 | [251234-dead-blood-survival-fps.json](./251234-dead-blood-survival-fps.json) |
 | Dead Blue Rose | 304881 | [304881-dead-blue-rose.json](./304881-dead-blue-rose.json) |
 | Dead Body Falls | 120331 | [120331-dead-body-falls.json](./120331-dead-body-falls.json) |
+| Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
@@ -2480,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desires of a Vampire | 298892 | [298892-desires-of-a-vampire.json](./298892-desires-of-a-vampire.json) |
 | Desk Deck Heroes | 303472 | [303472-desk-deck-heroes.json](./303472-desk-deck-heroes.json) |
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
+| Deskeroes | 348424 | [348424-deskeroes.json](./348424-deskeroes.json) |
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
 | Desktop Blocks | 368549 | [368549-desktop-blocks.json](./368549-desktop-blocks.json) |
 | Desktop Clicker | 350513 | [350513-desktop-clicker.json](./350513-desktop-clicker.json) |
