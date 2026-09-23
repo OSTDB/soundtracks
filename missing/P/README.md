@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
 | Peril | 197786 | [197786-peril.json](./197786-peril.json) |
 | Peril in the Agency | 365061 | [365061-peril-in-the-agency.json](./365061-peril-in-the-agency.json) |
+| Perilous Light | 374259 | [374259-perilous-light.json](./374259-perilous-light.json) |
 | Perilous Warp | 140357 | [140357-perilous-warp.json](./140357-perilous-warp.json) |
 | Perils of Man | 17998 | [17998-perils-of-man.json](./17998-perils-of-man.json) |
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
@@ -5960,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
 | Puri-Puri | 177935 | [177935-puri-puri.json](./177935-puri-puri.json) |
+| Purified | 374255 | [374255-purified.json](./374255-purified.json) |
 | Purikura Daisakusen | 39572 | [39572-purikura-daisakusen.json](./39572-purikura-daisakusen.json) |
 | Purin-chan's Boxing Gym 2 | 83229 | [83229-purin-chans-boxing-gym-2.json](./83229-purin-chans-boxing-gym-2.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
