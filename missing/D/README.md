@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Fairy Tale | 348332 | [348332-dark-fairy-tale.json](./348332-dark-fairy-tale.json) |
 | Dark Fall | 9817 | [9817-dark-fall.json](./9817-dark-fall.json) |
+| Dark Fantasy Godhood | 385319 | [385319-dark-fantasy-godhood.json](./385319-dark-fantasy-godhood.json) |
 | Dark Fantasy: Epic Jigsaw Puzzle | 137441 | [137441-dark-fantasy-epic-jigsaw-puzzle.json](./137441-dark-fantasy-epic-jigsaw-puzzle.json) |
 | Dark Fantasy: Jigsaw Puzzle | 111774 | [111774-dark-fantasy-jigsaw-puzzle.json](./111774-dark-fantasy-jigsaw-puzzle.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadwater Saloon | 190136 | [190136-deadwater-saloon.json](./190136-deadwater-saloon.json) |
 | Deadweight | 34839 | [34839-deadweight.json](./34839-deadweight.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
+| Deadwood Drive | 385302 | [385302-deadwood-drive.json](./385302-deadwood-drive.json) |
 | Deadwood: The Forgotten Curse | 22738 | [22738-deadwood-the-forgotten-curse.json](./22738-deadwood-the-forgotten-curse.json) |
 | Deadzone Rogue 2 | 403822 | [403822-deadzone-rogue-2.json](./403822-deadzone-rogue-2.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
@@ -4608,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
 | DotAge: Trade Secrets | 394372 | [394372-dotage-trade-secrets.json](./394372-dotage-trade-secrets.json) |
+| Dotchidabe | 385328 | [385328-dotchidabe.json](./385328-dotchidabe.json) |
 | DotDot | 253971 | [253971-dotdot.json](./253971-dotdot.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
 | Dots and Boxes - Dino Fury Edition | 107117 | [107117-dots-and-boxes-dino-fury-edition.json](./107117-dots-and-boxes-dino-fury-edition.json) |
