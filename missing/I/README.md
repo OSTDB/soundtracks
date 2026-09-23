@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Extremis DX | 225759 | [225759-in-extremis-dx.json](./225759-in-extremis-dx.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
 | In Her Head | 276846 | [276846-in-her-head.json](./276846-in-her-head.json) |
+| In Hope Voiden | 350022 | [350022-in-hope-voiden.json](./350022-in-hope-voiden.json) |
 | In Light | 68278 | [68278-in-light.json](./68278-in-light.json) |
 | In Memory of Titan | 69314 | [69314-in-memory-of-titan.json](./69314-in-memory-of-titan.json) |
 | In my Father's House are Many Rooms | 388405 | [388405-in-my-fathers-house-are-many-rooms.json](./388405-in-my-fathers-house-are-many-rooms.json) |
@@ -1562,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkay's Topsy-Turvey World | 57382 | [57382-inkays-topsy-turvey-world.json](./57382-inkays-topsy-turvey-world.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
 | Inken | 394555 | [394555-inken.json](./394555-inken.json) |
+| Inkjet Apocalypse | 350036 | [350036-inkjet-apocalypse.json](./350036-inkjet-apocalypse.json) |
 | Inko Joshikosei | 97692 | [97692-inko-joshikosei.json](./97692-inko-joshikosei.json) |
 | Inkoid | 390615 | [390615-inkoid.json](./390615-inkoid.json) |
 | Inkremental | 397793 | [397793-inkremental.json](./397793-inkremental.json) |
