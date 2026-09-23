@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Advent Calendar | 276845 | [276845-jigsaw-advent-calendar.json](./276845-jigsaw-advent-calendar.json) |
 | Jigsaw Chronicles: Heroes of Legend | 317217 | [317217-jigsaw-chronicles-heroes-of-legend.json](./317217-jigsaw-chronicles-heroes-of-legend.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
+| Jigsaw Detective | 366437 | [366437-jigsaw-detective.json](./366437-jigsaw-detective.json) |
 | Jigsaw Fun 3-in-1 Collection | 197341 | [197341-jigsaw-fun-3-in-1-collection.json](./197341-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: 3-in-1 Collection | 196259 | [196259-jigsaw-fun-3-in-1-collection.json](./196259-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: Amazing Animals | 175814 | [175814-jigsaw-fun-amazing-animals.json](./175814-jigsaw-fun-amazing-animals.json) |
@@ -645,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
 | Jigsaw Tour 2 | 102736 | [102736-jigsaw-tour-2.json](./102736-jigsaw-tour-2.json) |
 | Jigsaw Tour 4 | 104688 | [104688-jigsaw-tour-4.json](./104688-jigsaw-tour-4.json) |
+| Jigsaw Treasure Hunter | 366438 | [366438-jigsaw-treasure-hunter.json](./366438-jigsaw-treasure-hunter.json) |
 | Jigsaw USA | 328059 | [328059-jigsaw-usa.json](./328059-jigsaw-usa.json) |
 | Jigsaw With Animals | 163405 | [163405-jigsaw-with-animals.json](./163405-jigsaw-with-animals.json) |
 | Jigsaw World | 308926 | [308926-jigsaw-world.json](./308926-jigsaw-world.json) |
