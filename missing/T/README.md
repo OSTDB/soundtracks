@@ -3368,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
 | The Fairy's Song | 140405 | [140405-the-fairys-song.json](./140405-the-fairys-song.json) |
 | The Fairyland Story | 205665 | [205665-the-fairyland-story.json](./205665-the-fairyland-story.json) |
+| The Faked | 373756 | [373756-the-faked.json](./373756-the-faked.json) |
 | The Falconeer: Day One Edition | 139938 | [139938-the-falconeer-day-one-edition.json](./139938-the-falconeer-day-one-edition.json) |
 | The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
@@ -7252,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thingamajigs | 397930 | [397930-thingamajigs.json](./397930-thingamajigs.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
+| Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
 | Think Logic! Sudoku: Binary - Suguru | 231081 | [231081-think-logic-sudoku-binary-suguru.json](./231081-think-logic-sudoku-binary-suguru.json) |
 | Think Quick! | 69222 | [69222-think-quick.json](./69222-think-quick.json) |
@@ -8500,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Kingdoms | 311119 | [311119-tiny-kingdoms.json](./311119-tiny-kingdoms.json) |
 | Tiny Kitchen: Sandwich Edition | 380113 | [380113-tiny-kitchen-sandwich-edition.json](./380113-tiny-kitchen-sandwich-edition.json) |
 | Tiny Knight | 33472 | [33472-tiny-knight.json](./33472-tiny-knight.json) |
+| Tiny Legends | 373725 | [373725-tiny-legends.json](./373725-tiny-legends.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
 | TIny Little Farm Plus Milk Seller | 328473 | [328473-tiny-little-farm-plus-milk-seller.json](./328473-tiny-little-farm-plus-milk-seller.json) |
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
@@ -9210,6 +9213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
 | Toon-Doku | 20700 | [20700-toon-doku.json](./20700-toon-doku.json) |
 | Tooncop | 260249 | [260249-tooncop.json](./260249-tooncop.json) |
+| Tooned Out Duo Dippin | 373760 | [373760-tooned-out-duo-dippin.json](./373760-tooned-out-duo-dippin.json) |
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
 | Toonix! | 103171 | [103171-toonix.json](./103171-toonix.json) |
 | Toonkars Racer | 202763 | [202763-toonkars-racer.json](./202763-toonkars-racer.json) |
@@ -11654,6 +11658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight of the Gods | 223436 | [223436-twilight-of-the-gods.json](./223436-twilight-of-the-gods.json) |
 | Twilight Oracle | 244873 | [244873-twilight-oracle.json](./244873-twilight-oracle.json) |
 | Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
+| Twilight Protocol | 373734 | [373734-twilight-protocol.json](./373734-twilight-protocol.json) |
 | Twilight Refrain | 63843 | [63843-twilight-refrain.json](./63843-twilight-refrain.json) |
 | Twilight Story: A Quiet House | 279095 | [279095-twilight-story-a-quiet-house.json](./279095-twilight-story-a-quiet-house.json) |
 | Twilight Struggle: Red Sea | 249852 | [249852-twilight-struggle-red-sea.json](./249852-twilight-struggle-red-sea.json) |
@@ -11700,6 +11705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twincantation | 355017 | [355017-twincantation.json](./355017-twincantation.json) |
 | TwinCop | 51594 | [51594-twincop.json](./51594-twincop.json) |
 | Twine3D | 81782 | [81782-twine3d.json](./81782-twine3d.json) |
+| TwinGrip | 373730 | [373730-twingrip.json](./373730-twingrip.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
 | Twinkle Star Sprites | 35378 | [35378-twinkle-star-sprites.json](./35378-twinkle-star-sprites.json) |
