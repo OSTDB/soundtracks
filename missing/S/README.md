@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons of War | 58746 | [58746-seasons-of-war.json](./58746-seasons-of-war.json) |
 | Seasons Pairs | 96030 | [96030-seasons-pairs.json](./96030-seasons-pairs.json) |
 | Seasons Turning | 374617 | [374617-seasons-turning.json](./374617-seasons-turning.json) |
+| Seaward | 361870 | [361870-seaward.json](./361870-seaward.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
 | Seawolf | 78987 | [78987-seawolf.json](./78987-seawolf.json) |
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
@@ -2103,12 +2104,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam HD: The First Encounter | 13180 | [13180-serious-sam-hd-the-first-encounter.json](./13180-serious-sam-hd-the-first-encounter.json) |
 | Serious Sam HD: The Second Encounter - Legend of the Beast | 170923 | [170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json](./170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json) |
 | Serious Sam II | 787 | [787-serious-sam-ii.json](./787-serious-sam-ii.json) |
+| Serious Sam: Dark Island | 361920 | [361920-serious-sam-dark-island.json](./361920-serious-sam-dark-island.json) |
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
 | Serious Sam: Siberian Mayhem | 187112 | [187112-serious-sam-siberian-mayhem.json](./187112-serious-sam-siberian-mayhem.json) |
 | Serious Sam: The Second Encounter | 858 | [858-serious-sam-the-second-encounter.json](./858-serious-sam-the-second-encounter.json) |
 | Serious Sam: Tormental | 116987 | [116987-serious-sam-tormental.json](./116987-serious-sam-tormental.json) |
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
+| Seriously Warped Deathmatch | 361921 | [361921-seriously-warped-deathmatch.json](./361921-seriously-warped-deathmatch.json) |
 | Serpent at the Vernissage | 353386 | [353386-serpent-at-the-vernissage.json](./353386-serpent-at-the-vernissage.json) |
 | Serpent in the Staglands | 23440 | [23440-serpent-in-the-staglands.json](./23440-serpent-in-the-staglands.json) |
 | Serpent of Isis: Your Journey Continues | 89291 | [89291-serpent-of-isis-your-journey-continues.json](./89291-serpent-of-isis-your-journey-continues.json) |
@@ -3472,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shox: Rally Reinvented | 8265 | [8265-shox-rally-reinvented.json](./8265-shox-rally-reinvented.json) |
 | SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
 | Shrapnel City 2096: Trapped In The Future! | 308237 | [308237-shrapnel-city-2096-trapped-in-the-future.json](./308237-shrapnel-city-2096-trapped-in-the-future.json) |
+| Shrapnel Sentinel | 361915 | [361915-shrapnel-sentinel.json](./361915-shrapnel-sentinel.json) |
 | Shred BackCountry | 174268 | [174268-shred-backcountry.json](./174268-shred-backcountry.json) |
 | Shred Off | 331955 | [331955-shred-off.json](./331955-shred-off.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
@@ -3586,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Si Kancil : The Adventurous Mouse Deer | 31207 | [31207-si-kancil-the-adventurous-mouse-deer.json](./31207-si-kancil-the-adventurous-mouse-deer.json) |
 | Siam Twinstick | 111714 | [111714-siam-twinstick.json](./111714-siam-twinstick.json) |
 | Siana Tales | 219607 | [219607-siana-tales.json](./219607-siana-tales.json) |
+| Siaty's Return | 361883 | [361883-siatys-return.json](./361883-siatys-return.json) |
 | Siberian Dawn: Winterflood | 310408 | [310408-siberian-dawn-winterflood.json](./310408-siberian-dawn-winterflood.json) |
 | Siberian Strike | 91888 | [91888-siberian-strike.json](./91888-siberian-strike.json) |
 | Sicier's Zweck | 117076 | [117076-siciers-zweck.json](./117076-siciers-zweck.json) |
@@ -5121,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smarty Labs | 410999 | [410999-smarty-labs.json](./410999-smarty-labs.json) |
 | Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
+| Smash 'N Grab | 361867 | [361867-smash-n-grab.json](./361867-smash-n-grab.json) |
 | Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
 | Smash + Grab | 23178 | [23178-smash-grab.json](./23178-smash-grab.json) |
 | Smash Arrow | 56421 | [56421-smash-arrow.json](./56421-smash-arrow.json) |
@@ -5627,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Mack Dual Pack | 397797 | [397797-snowrunner-mack-dual-pack.json](./397797-snowrunner-mack-dual-pack.json) |
 | SnowRunner: Mercedes-Benz Trucks Dual Pack 1 | 397801 | [397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json](./397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json) |
 | SnowRunner: Pathfinders Vinyl Wrap Pack | 397799 | [397799-snowrunner-pathfinders-vinyl-wrap-pack.json](./397799-snowrunner-pathfinders-vinyl-wrap-pack.json) |
+| SnowRunner: Rezvani Tank | 361882 | [361882-snowrunner-rezvani-tank.json](./361882-snowrunner-rezvani-tank.json) |
 | SnowRunner: Save the Day Vinyl Wrap Pack | 230830 | [230830-snowrunner-save-the-day-vinyl-wrap-pack.json](./230830-snowrunner-save-the-day-vinyl-wrap-pack.json) |
 | SnowRunner: Season 1 - Search & Recover | 145485 | [145485-snowrunner-season-1-search-and-recover.json](./145485-snowrunner-season-1-search-and-recover.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
@@ -7127,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
 | Space KaBAAM: Neon II | 342725 | [342725-space-kabaam-neon-ii.json](./342725-space-kabaam-neon-ii.json) |
 | Space Kabaam: Neon III | 353968 | [353968-space-kabaam-neon-iii.json](./353968-space-kabaam-neon-iii.json) |
+| Space Kabaam: Neon IV | 361906 | [361906-space-kabaam-neon-iv.json](./361906-space-kabaam-neon-iv.json) |
 | Space Kadet | 123598 | [123598-space-kadet.json](./123598-space-kadet.json) |
 | Space Kids | 69806 | [69806-space-kids.json](./69806-space-kids.json) |
 | Space King | 98247 | [98247-space-king.json](./98247-space-king.json) |
@@ -7258,6 +7266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Survival | 32932 | [32932-space-survival.json](./32932-space-survival.json) |
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
 | Space Swap 110% | 392950 | [392950-space-swap-110.json](./392950-space-swap-110.json) |
+| Space Tail | 361876 | [361876-space-tail.json](./361876-space-tail.json) |
 | Space Tail: Every Journey Leads Home | 216885 | [216885-space-tail-every-journey-leads-home.json](./216885-space-tail-every-journey-leads-home.json) |
 | Space Tail: Every Journey Leads Home - Deluxe Edition | 241400 | [241400-space-tail-every-journey-leads-home-deluxe-edition.json](./241400-space-tail-every-journey-leads-home-deluxe-edition.json) |
 | Space Tail: Homecoming | 230820 | [230820-space-tail-homecoming.json](./230820-space-tail-homecoming.json) |
@@ -8267,6 +8276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprucerio | 257408 | [257408-sprucerio.json](./257408-sprucerio.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Sprunki Hell Towers | 395210 | [395210-sprunki-hell-towers.json](./395210-sprunki-hell-towers.json) |
+| Sprunki Horror From the Loop | 361923 | [361923-sprunki-horror-from-the-loop.json](./361923-sprunki-horror-from-the-loop.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
 | Spud! | 35649 | [35649-spud.json](./35649-spud.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
