@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten of the Best Games | 134448 | [134448-ten-of-the-best-games.json](./134448-ten-of-the-best-games.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
+| Ten Trials of Babel 2: Tower and Aurora | 372682 | [372682-ten-trials-of-babel-2-tower-and-aurora.json](./372682-ten-trials-of-babel-2-tower-and-aurora.json) |
 | Ten-chan Party! | 108264 | [108264-ten-chan-party.json](./108264-ten-chan-party.json) |
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
 | Tenable | 133791 | [133791-tenable.json](./133791-tenable.json) |
@@ -2471,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bonte Room | 316828 | [316828-the-bonte-room.json](./316828-the-bonte-room.json) |
 | The Bonte Room 2 | 316829 | [316829-the-bonte-room-2.json](./316829-the-bonte-room-2.json) |
 | The Boo Croo | 381619 | [381619-the-boo-croo.json](./381619-the-boo-croo.json) |
+| The Boo-chelor | 372668 | [372668-the-boo-chelor.json](./372668-the-boo-chelor.json) |
 | The Boogie Man | 46987 | [46987-the-boogie-man.json](./46987-the-boogie-man.json) |
 | The Boohbah Zone | 299478 | [299478-the-boohbah-zone.json](./299478-the-boohbah-zone.json) |
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
@@ -2878,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Culling of the Cows | 9399 | [9399-the-culling-of-the-cows.json](./9399-the-culling-of-the-cows.json) |
 | The Cult of Chanseville | 211820 | [211820-the-cult-of-chanseville.json](./211820-the-cult-of-chanseville.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
+| The Cuniculus of Paradise | 372661 | [372661-the-cuniculus-of-paradise.json](./372661-the-cuniculus-of-paradise.json) |
 | The Cup | 114805 | [114805-the-cup.json](./114805-the-cup.json) |
 | The Cup | 410475 | [410475-the-cup.json](./410475-the-cup.json) |
 | The Curator | 137668 | [137668-the-curator.json](./137668-the-curator.json) |
@@ -4984,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Memory Thieves | 321599 | [321599-the-memory-thieves.json](./321599-the-memory-thieves.json) |
 | The Men of Yoshiwara: Ohgiya | 33398 | [33398-the-men-of-yoshiwara-ohgiya.json](./33398-the-men-of-yoshiwara-ohgiya.json) |
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
+| The Merchant's Eden | 372657 | [372657-the-merchants-eden.json](./372657-the-merchants-eden.json) |
 | The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
 | The Mermaid Mask | 279369 | [279369-the-mermaid-mask.json](./279369-the-mermaid-mask.json) |
 | The Merry Fairy | 309530 | [309530-the-merry-fairy.json](./309530-the-merry-fairy.json) |
@@ -6942,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 2: Assassins of Kings - Enhanced Edition | 20740 | [20740-the-witcher-2-assassins-of-kings-enhanced-edition.json](./20740-the-witcher-2-assassins-of-kings-enhanced-edition.json) |
 | The Witcher 3: Enhanced Edition - Redux | 283715 | [283715-the-witcher-3-enhanced-edition-redux.json](./283715-the-witcher-3-enhanced-edition-redux.json) |
 | The Witcher 3: Wild Hunt - Collector's Edition | 44549 | [44549-the-witcher-3-wild-hunt-collectors-edition.json](./44549-the-witcher-3-wild-hunt-collectors-edition.json) |
+| The Witcher 3: Wild Hunt - Complete Edition: 10th Anniversary Edition | 372654 | [372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json](./372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json) |
 | The Witcher 3: Wild Hunt - Songs of the Past | 403150 | [403150-the-witcher-3-wild-hunt-songs-of-the-past.json](./403150-the-witcher-3-wild-hunt-songs-of-the-past.json) |
 | The Witcher Franchise Bundle | 154960 | [154960-the-witcher-franchise-bundle.json](./154960-the-witcher-franchise-bundle.json) |
 | The Witches Pond | 277823 | [277823-the-witches-pond.json](./277823-the-witches-pond.json) |
@@ -9560,6 +9565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Danmaku: Infinity | 233785 | [233785-touhou-danmaku-infinity.json](./233785-touhou-danmaku-infinity.json) |
 | TouHou Dew Valley | 262654 | [262654-touhou-dew-valley.json](./262654-touhou-dew-valley.json) |
 | Touhou Doumeiju: Mystical Power Plant | 246671 | [246671-touhou-doumeiju-mystical-power-plant.json](./246671-touhou-doumeiju-mystical-power-plant.json) |
+| Touhou Drunken Rebellion | 372678 | [372678-touhou-drunken-rebellion.json](./372678-touhou-drunken-rebellion.json) |
 | Touhou Eiyashou: Imperishable Night | 27162 | [27162-touhou-eiyashou-imperishable-night.json](./27162-touhou-eiyashou-imperishable-night.json) |
 | Touhou Emblem | 315050 | [315050-touhou-emblem.json](./315050-touhou-emblem.json) |
 | Touhou Emblem 2 | 315051 | [315051-touhou-emblem-2.json](./315051-touhou-emblem-2.json) |
