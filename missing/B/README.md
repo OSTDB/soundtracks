@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chef Brigade Deluxe | 111825 | [111825-battle-chef-brigade-deluxe.json](./111825-battle-chef-brigade-deluxe.json) |
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
 | Battle Commanders | 36471 | [36471-battle-commanders.json](./36471-battle-commanders.json) |
+| Battle Copters | 348953 | [348953-battle-copters.json](./348953-battle-copters.json) |
 | Battle Craft | 257926 | [257926-battle-craft.json](./257926-battle-craft.json) |
 | Battle Cross | 40242 | [40242-battle-cross.json](./40242-battle-cross.json) |
 | Battle Cross | 95412 | [95412-battle-cross.json](./95412-battle-cross.json) |
