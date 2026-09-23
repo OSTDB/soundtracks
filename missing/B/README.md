@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
 | Bilge Rat's Bounty | 180758 | [180758-bilge-rats-bounty.json](./180758-bilge-rats-bounty.json) |
 | Bilge Su Bullet Baroness | 364509 | [364509-bilge-su-bullet-baroness.json](./364509-bilge-su-bullet-baroness.json) |
+| Bililitz | 390794 | [390794-bililitz.json](./390794-bililitz.json) |
 | Bilingual & Multilingual toddler: CognitoBaby | 96077 | [96077-bilingual-and-multilingual-toddler-cognitobaby.json](./96077-bilingual-and-multilingual-toddler-cognitobaby.json) |
 | Bilkins' Folly | 152909 | [152909-bilkins-folly.json](./152909-bilkins-folly.json) |
 | Bill & Carol | 288352 | [288352-bill-and-carol.json](./288352-bill-and-carol.json) |
@@ -3401,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
 | Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
 | Blaston Spectator | 199641 | [199641-blaston-spectator.json](./199641-blaston-spectator.json) |
+| Blastroid | 390803 | [390803-blastroid.json](./390803-blastroid.json) |
 | Blastron | 388732 | [388732-blastron.json](./388732-blastron.json) |
 | BlastZone 2 | 35756 | [35756-blastzone-2.json](./35756-blastzone-2.json) |
 | Blautopf VR: Geheimnis der Lau | 119772 | [119772-blautopf-vr-geheimnis-der-lau.json](./119772-blautopf-vr-geheimnis-der-lau.json) |
@@ -3646,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
 | Block Puzzle | 248639 | [248639-block-puzzle.json](./248639-block-puzzle.json) |
 | Block Puzzle | 318053 | [318053-block-puzzle.json](./318053-block-puzzle.json) |
+| Block Puzzle | 390773 | [390773-block-puzzle.json](./390773-block-puzzle.json) |
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
 | Block Puzzle 3D | 400451 | [400451-block-puzzle-3d.json](./400451-block-puzzle-3d.json) |
 | Block Puzzle Wood | 90538 | [90538-block-puzzle-wood.json](./90538-block-puzzle-wood.json) |
@@ -4150,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba Avoider | 413031 | [413031-boba-avoider.json](./413031-boba-avoider.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
+| Bobanook! | 390788 | [390788-bobanook.json](./390788-bobanook.json) |
 | BobasQuest | 298180 | [298180-bobasquest.json](./298180-bobasquest.json) |
 | Bobbi Adventure | 200574 | [200574-bobbi-adventure.json](./200574-bobbi-adventure.json) |
 | Bobbin's Quest | 67985 | [67985-bobbins-quest.json](./67985-bobbins-quest.json) |
@@ -5505,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Arms 3: Sons of War | 19263 | [19263-brothers-in-arms-3-sons-of-war.json](./19263-brothers-in-arms-3-sons-of-war.json) |
 | Brothers in Arms DS | 21422 | [21422-brothers-in-arms-ds.json](./21422-brothers-in-arms-ds.json) |
 | Brothers in Arms: Hell's Highway | 618 | [618-brothers-in-arms-hells-highway.json](./618-brothers-in-arms-hells-highway.json) |
+| Brothers In Duty: Space Brawl | 390775 | [390775-brothers-in-duty-space-brawl.json](./390775-brothers-in-duty-space-brawl.json) |
 | Brothers: A Tale of Two Sons Remake | 279612 | [279612-brothers-a-tale-of-two-sons-remake.json](./279612-brothers-a-tale-of-two-sons-remake.json) |
 | Brothers: Clash of Fighters | 252152 | [252152-brothers-clash-of-fighters.json](./252152-brothers-clash-of-fighters.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
