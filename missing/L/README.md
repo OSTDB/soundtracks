@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Pachinko: Nante Gindama | 134465 | [134465-lets-pachinko-nante-gindama.json](./134465-lets-pachinko-nante-gindama.json) |
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
 | Let's Play Cards Baccarat | 340915 | [340915-lets-play-cards-baccarat.json](./340915-lets-play-cards-baccarat.json) |
+| Let's Play Cards Solitaire | 367603 | [367603-lets-play-cards-solitaire.json](./367603-lets-play-cards-solitaire.json) |
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
 | Let's Play Jigsaw Puzzles: At the Zoo | 239738 | [239738-lets-play-jigsaw-puzzles-at-the-zoo.json](./239738-lets-play-jigsaw-puzzles-at-the-zoo.json) |
 | Let's Play Jigsaw Puzzles: Birds | 240775 | [240775-lets-play-jigsaw-puzzles-birds.json](./240775-lets-play-jigsaw-puzzles-birds.json) |
@@ -2688,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopy Tennis | 317228 | [317228-loopy-tennis.json](./317228-loopy-tennis.json) |
 | Loopy Treasure | 180764 | [180764-loopy-treasure.json](./180764-loopy-treasure.json) |
 | Loopy Wizard | 200138 | [200138-loopy-wizard.json](./200138-loopy-wizard.json) |
+| Loopy's Train Set | 367617 | [367617-loopys-train-set.json](./367617-loopys-train-set.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
 | Loot & Legends | 22354 | [22354-loot-and-legends.json](./22354-loot-and-legends.json) |
@@ -3078,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Engine | 29956 | [29956-love-engine.json](./29956-love-engine.json) |
 | Love Eternal | 305358 | [305358-love-eternal.json](./305358-love-eternal.json) |
 | Love Girl | 22474 | [22474-love-girl.json](./22474-love-girl.json) |
+| Love Girls | 367598 | [367598-love-girls.json](./367598-love-girls.json) |
 | Love Goes Toward Love | 212805 | [212805-love-goes-toward-love.json](./212805-love-goes-toward-love.json) |
 | Love Heaven | 315067 | [315067-love-heaven.json](./315067-love-heaven.json) |
 | Love Hell | 303635 | [303635-love-hell.json](./303635-love-hell.json) |
