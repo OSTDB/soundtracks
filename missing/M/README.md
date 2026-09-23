@@ -1463,6 +1463,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Motors | 231507 | [231507-mario-motors.json](./231507-mario-motors.json) |
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
 | Mario no Photopi | 3541 | [3541-mario-no-photopi.json](./3541-mario-no-photopi.json) |
+| Mario no Photopi: Characters Collection - Bomberman | 350660 | [350660-mario-no-photopi-characters-collection-bomberman.json](./350660-mario-no-photopi-characters-collection-bomberman.json) |
+| Mario no Photopi: Characters Collection - Sylvanian Families | 350659 | [350659-mario-no-photopi-characters-collection-sylvanian-families.json](./350659-mario-no-photopi-characters-collection-sylvanian-families.json) |
+| Mario no Photopi: Characters Collection - Yoshi's Story | 350658 | [350658-mario-no-photopi-characters-collection-yoshis-story.json](./350658-mario-no-photopi-characters-collection-yoshis-story.json) |
+| Mario no Photopi: Illustrations - Funny Accessories 1 | 350657 | [350657-mario-no-photopi-illustrations-funny-accessories-1.json](./350657-mario-no-photopi-illustrations-funny-accessories-1.json) |
+| Mario no Photopi: Illustrations - Postal Cards 1 | 350656 | [350656-mario-no-photopi-illustrations-postal-cards-1.json](./350656-mario-no-photopi-illustrations-postal-cards-1.json) |
 | Mario Noir | 323924 | [323924-mario-noir.json](./323924-mario-noir.json) |
 | Mario Paint | 8203 | [8203-mario-paint.json](./8203-mario-paint.json) |
 | Mario Paint 64 | 175957 | [175957-mario-paint-64.json](./175957-mario-paint-64.json) |
@@ -4330,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Conservation Quest | 324883 | [324883-minecraft-conservation-quest.json](./324883-minecraft-conservation-quest.json) |
 | Minecraft: Dairycraft | 366815 | [366815-minecraft-dairycraft.json](./366815-minecraft-dairycraft.json) |
+| Minecraft: Deluxe Collection for PC | 350618 | [350618-minecraft-deluxe-collection-for-pc.json](./350618-minecraft-deluxe-collection-for-pc.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Frozen | 254125 | [254125-minecraft-frozen.json](./254125-minecraft-frozen.json) |
 | Minecraft: Godzilla | 285051 | [285051-minecraft-godzilla.json](./285051-minecraft-godzilla.json) |
@@ -6975,12 +6981,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
 | MX vs. ATV All Out: 2020 Pro Nationals Edition | 206779 | [206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json](./206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json) |
+| MX vs. ATV Legends: Track Pass | 350652 | [350652-mx-vs-atv-legends-track-pass.json](./350652-mx-vs-atv-legends-track-pass.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - 2024 Monster Energy Supercross Championship | 295398 | [295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json](./295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json) |
+| MX vs. ATV: Legends - 2025 Monster Energy Supercross Championship | 350639 | [350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json](./350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json) |
+| MX vs. ATV: Legends - Customization Pack | 350651 | [350651-mx-vs-atv-legends-customization-pack.json](./350651-mx-vs-atv-legends-customization-pack.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2025 | 356699 | [356699-mx-vs-atv-legends-gasgas-pack-2025.json](./356699-mx-vs-atv-legends-gasgas-pack-2025.json) |
+| MX vs. ATV: Legends - Honda Pack 2025 | 350637 | [350637-mx-vs-atv-legends-honda-pack-2025.json](./350637-mx-vs-atv-legends-honda-pack-2025.json) |
+| MX vs. ATV: Legends - Husqvarna Pack | 350648 | [350648-mx-vs-atv-legends-husqvarna-pack.json](./350648-mx-vs-atv-legends-husqvarna-pack.json) |
 | MX vs. ATV: Legends - Husqvarna Pack 2025 | 356698 | [356698-mx-vs-atv-legends-husqvarna-pack-2025.json](./356698-mx-vs-atv-legends-husqvarna-pack-2025.json) |
+| MX vs. ATV: Legends - Kawasaki Pack | 350649 | [350649-mx-vs-atv-legends-kawasaki-pack.json](./350649-mx-vs-atv-legends-kawasaki-pack.json) |
+| MX vs. ATV: Legends - Kawasaki Pack 2025 | 350641 | [350641-mx-vs-atv-legends-kawasaki-pack-2025.json](./350641-mx-vs-atv-legends-kawasaki-pack-2025.json) |
+| MX vs. ATV: Legends - KTM Pack 2025 | 350643 | [350643-mx-vs-atv-legends-ktm-pack-2025.json](./350643-mx-vs-atv-legends-ktm-pack-2025.json) |
+| MX vs. ATV: Legends - Polaris Pack | 350650 | [350650-mx-vs-atv-legends-polaris-pack.json](./350650-mx-vs-atv-legends-polaris-pack.json) |
 | MX vs. ATV: Legends - Season One: Exclusive Box Edition | 252169 | [252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json](./252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json) |
+| MX vs. ATV: Legends - Slayground | 350645 | [350645-mx-vs-atv-legends-slayground.json](./350645-mx-vs-atv-legends-slayground.json) |
+| MX vs. ATV: Legends - Supercross World Tour | 350646 | [350646-mx-vs-atv-legends-supercross-world-tour.json](./350646-mx-vs-atv-legends-supercross-world-tour.json) |
+| MX vs. ATV: Legends - Suzuki Pack | 350647 | [350647-mx-vs-atv-legends-suzuki-pack.json](./350647-mx-vs-atv-legends-suzuki-pack.json) |
+| MX vs. ATV: Legends - Suzuki Pack 2025 | 350644 | [350644-mx-vs-atv-legends-suzuki-pack-2025.json](./350644-mx-vs-atv-legends-suzuki-pack-2025.json) |
+| MX vs. ATV: Legends - Yamaha Pack 2025 | 350642 | [350642-mx-vs-atv-legends-yamaha-pack-2025.json](./350642-mx-vs-atv-legends-yamaha-pack-2025.json) |
 | MX vs. ATV: On the Edge | 18267 | [18267-mx-vs-atv-on-the-edge.json](./18267-mx-vs-atv-on-the-edge.json) |
 | MX vs. ATV: Untamed | 249272 | [249272-mx-vs-atv-untamed.json](./249272-mx-vs-atv-untamed.json) |
 | MXGP 2020: The Official Motocross Videogame | 139939 | [139939-mxgp-2020-the-official-motocross-videogame.json](./139939-mxgp-2020-the-official-motocross-videogame.json) |
