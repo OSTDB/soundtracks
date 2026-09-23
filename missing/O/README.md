@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: PlayStation Plus Mega Bundle | 316064 | [316064-overwatch-2-playstation-plus-mega-bundle.json](./316064-overwatch-2-playstation-plus-mega-bundle.json) |
 | Overwatch 2: Season 13 - Spellbinder | 319357 | [319357-overwatch-2-season-13-spellbinder.json](./319357-overwatch-2-season-13-spellbinder.json) |
 | Overwatch 2: Season 16 - Stadium | 341007 | [341007-overwatch-2-season-16-stadium.json](./341007-overwatch-2-season-16-stadium.json) |
+| Overwatch 2: Season 17 - Powered Up! | 350615 | [350615-overwatch-2-season-17-powered-up.json](./350615-overwatch-2-season-17-powered-up.json) |
 | Overwatch 2: Season 18 - Stadium Quickplay | 362281 | [362281-overwatch-2-season-18-stadium-quickplay.json](./362281-overwatch-2-season-18-stadium-quickplay.json) |
 | Overwatch 2: Season 20 - Vendetta | 380108 | [380108-overwatch-2-season-20-vendetta.json](./380108-overwatch-2-season-20-vendetta.json) |
 | Overwatch 2: Season 4 - Space Opera | 243933 | [243933-overwatch-2-season-4-space-opera.json](./243933-overwatch-2-season-4-space-opera.json) |
@@ -2136,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
+| Oxidus Tales | 350602 | [350602-oxidus-tales.json](./350602-oxidus-tales.json) |
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
 | Oxyblack Fortress | 271317 | [271317-oxyblack-fortress.json](./271317-oxyblack-fortress.json) |
 | Oxyd Extra | 93036 | [93036-oxyd-extra.json](./93036-oxyd-extra.json) |
