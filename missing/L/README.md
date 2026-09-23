@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Friend | 91968 | [91968-last-friend.json](./91968-last-friend.json) |
 | Last Gang Standing | 159843 | [159843-last-gang-standing.json](./159843-last-gang-standing.json) |
 | Last Group Out | 189196 | [189196-last-group-out.json](./189196-last-group-out.json) |
+| Last Guest | 346778 | [346778-last-guest.json](./346778-last-guest.json) |
 | Last Half of Darkness | 312756 | [312756-last-half-of-darkness.json](./312756-last-half-of-darkness.json) |
 | Last Half of Darkness | 80604 | [80604-last-half-of-darkness.json](./80604-last-half-of-darkness.json) |
 | Last Half of Darkness 3 | 65483 | [65483-last-half-of-darkness-3.json](./65483-last-half-of-darkness-3.json) |
@@ -633,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
 | Lavalads | 402268 | [402268-lavalads.json](./402268-lavalads.json) |
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
+| Lavender Field | 347353 | [347353-lavender-field.json](./347353-lavender-field.json) |
 | Lavender Laboratories | 184050 | [184050-lavender-laboratories.json](./184050-lavender-laboratories.json) |
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
 | Lavender's Botanicals | 295913 | [295913-lavenders-botanicals.json](./295913-lavenders-botanicals.json) |
@@ -1056,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion | 18839 | [18839-legion.json](./18839-legion.json) |
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
 | Legion Draft | 395867 | [395867-legion-draft.json](./395867-legion-draft.json) |
+| Legion of Evil | 346775 | [346775-legion-of-evil.json](./346775-legion-of-evil.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
 | Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
@@ -3644,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful BlackJack: My Succubus Dealer | 384752 | [384752-lustful-blackjack-my-succubus-dealer.json](./384752-lustful-blackjack-my-succubus-dealer.json) |
 | Lustful Butler and Charming Sisters | 346685 | [346685-lustful-butler-and-charming-sisters.json](./346685-lustful-butler-and-charming-sisters.json) |
 | Lustful Ponies | 195738 | [195738-lustful-ponies.json](./195738-lustful-ponies.json) |
+| Lustra: Lachea’s Tale | 346790 | [346790-lustra-lachea-s-tale.json](./346790-lustra-lachea-s-tale.json) |
 | Lusty Bubbles: Animated Edition | 395845 | [395845-lusty-bubbles-animated-edition.json](./395845-lusty-bubbles-animated-edition.json) |
 | Lusty Chapters | 384759 | [384759-lusty-chapters.json](./384759-lusty-chapters.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
