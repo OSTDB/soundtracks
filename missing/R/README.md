@@ -1441,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
 | Red Tentacle | 53496 | [53496-red-tentacle.json](./53496-red-tentacle.json) |
+| Red the Cook | 390770 | [390770-red-the-cook.json](./390770-red-the-cook.json) |
 | Red Tide | 391177 | [391177-red-tide.json](./391177-red-tide.json) |
 | Red Tie Runner | 265720 | [265720-red-tie-runner.json](./265720-red-tie-runner.json) |
 | Red Titans | 259638 | [259638-red-titans.json](./259638-red-titans.json) |
@@ -2819,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of The Fallen | 102574 | [102574-rise-of-the-fallen.json](./102574-rise-of-the-fallen.json) |
 | Rise of The Fey | 82120 | [82120-rise-of-the-fey.json](./82120-rise-of-the-fey.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
+| Rise of the Gorecats | 390800 | [390800-rise-of-the-gorecats.json](./390800-rise-of-the-gorecats.json) |
 | Rise of the Merchants | 415289 | [415289-rise-of-the-merchants.json](./415289-rise-of-the-merchants.json) |
 | Rise of the Nindroids | 408880 | [408880-rise-of-the-nindroids.json](./408880-rise-of-the-nindroids.json) |
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
@@ -3575,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguebreaker | 103413 | [103413-roguebreaker.json](./103413-roguebreaker.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | Roguefort | 396405 | [396405-roguefort.json](./396405-roguefort.json) |
+| Roguegg: Hardboiled Survivors | 390798 | [390798-roguegg-hardboiled-survivors.json](./390798-roguegg-hardboiled-survivors.json) |
 | RogueJack: Roguelike Blackjack | 133370 | [133370-roguejack-roguelike-blackjack.json](./133370-roguejack-roguelike-blackjack.json) |
 | Roguelands | 19748 | [19748-roguelands.json](./19748-roguelands.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
