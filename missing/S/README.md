@@ -7154,6 +7154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
 | Space Memory: Dogs | 357864 | [357864-space-memory-dogs.json](./357864-space-memory-dogs.json) |
 | Space Memory: Fairies | 412387 | [412387-space-memory-fairies.json](./412387-space-memory-fairies.json) |
+| Space Memory: Mushrooms | 363565 | [363565-space-memory-mushrooms.json](./363565-space-memory-mushrooms.json) |
 | Space Memory: Predators | 358897 | [358897-space-memory-predators.json](./358897-space-memory-predators.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
