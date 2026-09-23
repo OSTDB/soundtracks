@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genie Reprise | 282145 | [282145-genie-reprise.json](./282145-genie-reprise.json) |
 | Genies & Gems | 86809 | [86809-genies-and-gems.json](./86809-genies-and-gems.json) |
 | Genies & Jewels - Puzzle Quest | 105940 | [105940-genies-and-jewels-puzzle-quest.json](./105940-genies-and-jewels-puzzle-quest.json) |
+| Genigods: Nezha | 387656 | [387656-genigods-nezha.json](./387656-genigods-nezha.json) |
 | Genimas: Life Reborn | 211201 | [211201-genimas-life-reborn.json](./211201-genimas-life-reborn.json) |
 | Gênio Fly | 241945 | [241945-genio-fly.json](./241945-genio-fly.json) |
 | Gênio Quiz | 240244 | [240244-genio-quiz.json](./240244-genio-quiz.json) |
