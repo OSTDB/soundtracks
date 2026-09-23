@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baculus | 140599 | [140599-baculus.json](./140599-baculus.json) |
 | Bad 2 Bad: Apocalypse | 239913 | [239913-bad-2-bad-apocalypse.json](./239913-bad-2-bad-apocalypse.json) |
 | Bad 2 Bad: Delta | 96000 | [96000-bad-2-bad-delta.json](./96000-bad-2-bad-delta.json) |
+| Bad 4 Business | 346221 | [346221-bad-4-business.json](./346221-bad-4-business.json) |
 | Bad Apple Wars | 12884 | [12884-bad-apple-wars.json](./12884-bad-apple-wars.json) |
 | Bad Apples | 141636 | [141636-bad-apples.json](./141636-bad-apples.json) |
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Guys at School | 128352 | [128352-bad-guys-at-school.json](./128352-bad-guys-at-school.json) |
 | Bad Heroes | 373206 | [373206-bad-heroes.json](./373206-bad-heroes.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
+| Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Luck Cat | 183024 | [183024-bad-luck-cat.json](./183024-bad-luck-cat.json) |
 | Bad Magpie | 405068 | [405068-bad-magpie.json](./405068-bad-magpie.json) |
@@ -719,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banished Monsters | 248676 | [248676-banished-monsters.json](./248676-banished-monsters.json) |
 | Banished Sir | 369632 | [369632-banished-sir.json](./369632-banished-sir.json) |
 | Banished Souls | 365309 | [365309-banished-souls.json](./365309-banished-souls.json) |
+| Banisher | 346243 | [346243-banisher.json](./346243-banisher.json) |
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
 | Banishing Racer | 7763 | [7763-banishing-racer.json](./7763-banishing-racer.json) |
 | Banja | 93537 | [93537-banja.json](./93537-banja.json) |
@@ -3119,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
 | Bitterroot | 181857 | [181857-bitterroot.json](./181857-bitterroot.json) |
 | Bittersweet | 133953 | [133953-bittersweet.json](./133953-bittersweet.json) |
+| Bittersweet Blossoms | 346214 | [346214-bittersweet-blossoms.json](./346214-bittersweet-blossoms.json) |
 | Bittersweet Dream | 229672 | [229672-bittersweet-dream.json](./229672-bittersweet-dream.json) |
 | Bittos | 91418 | [91418-bittos.json](./91418-bittos.json) |
 | Bitvest.io | 59425 | [59425-bitvest-io.json](./59425-bitvest-io.json) |
@@ -5654,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Pact | 357319 | [357319-broken-pact.json](./357319-broken-pact.json) |
 | Broken Paradox | 346689 | [346689-broken-paradox.json](./346689-broken-paradox.json) |
 | Broken Pearl | 223554 | [223554-broken-pearl.json](./223554-broken-pearl.json) |
+| Broken Prism | 346211 | [346211-broken-prism.json](./346211-broken-prism.json) |
 | Broken Puppet | 124607 | [124607-broken-puppet.json](./124607-broken-puppet.json) |
 | Broken Race | 372099 | [372099-broken-race.json](./372099-broken-race.json) |
 | Broken Ranks | 162520 | [162520-broken-ranks.json](./162520-broken-ranks.json) |
