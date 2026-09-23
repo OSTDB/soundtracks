@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolani | 22394 | [22394-isolani.json](./22394-isolani.json) |
 | Isolated | 283144 | [283144-isolated.json](./283144-isolated.json) |
 | Isolated | 86116 | [86116-isolated.json](./86116-isolated.json) |
+| Isolated Hours | 381855 | [381855-isolated-hours.json](./381855-isolated-hours.json) |
 | Isolated Life | 156119 | [156119-isolated-life.json](./156119-isolated-life.json) |
 | Isolated Room | 229024 | [229024-isolated-room.json](./229024-isolated-room.json) |
 | Isolation | 293242 | [293242-isolation.json](./293242-isolation.json) |
