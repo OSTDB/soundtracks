@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T16:18:31.546Z",
-  "total_missing": 112027,
+  "generated_at": "2026-09-23T16:48:02.085Z",
+  "total_missing": 112127,
   "games": [
     {
       "igdb_id": 176875,
@@ -9181,6 +9181,21 @@
       "igdb_id": 215766,
       "game_name": "Advanced Pasta Cooking Simulator",
       "file": "missing/A/215766-advanced-pasta-cooking-simulator.json"
+    },
+    {
+      "igdb_id": 352964,
+      "game_name": "Advanced PET: Battle Chip - Counter 2",
+      "file": "missing/A/352964-advanced-pet-battle-chip-counter-2.json"
+    },
+    {
+      "igdb_id": 352967,
+      "game_name": "Advanced PET: Battle Chip - Panel Return",
+      "file": "missing/A/352967-advanced-pet-battle-chip-panel-return.json"
+    },
+    {
+      "igdb_id": 352968,
+      "game_name": "Advanced PET: Battle Chip - Roll Arrow 1",
+      "file": "missing/A/352968-advanced-pet-battle-chip-roll-arrow-1.json"
     },
     {
       "igdb_id": 56170,
@@ -117458,6 +117473,11 @@
       "file": "missing/D/171483-destructo.json"
     },
     {
+      "igdb_id": 353495,
+      "game_name": "Destructo Truck",
+      "file": "missing/D/353495-destructo-truck.json"
+    },
+    {
       "igdb_id": 119710,
       "game_name": "DestructoPod",
       "file": "missing/D/119710-destructopod.json"
@@ -225003,6 +225023,11 @@
       "file": "missing/I/33400-ikea-vr-experience.json"
     },
     {
+      "igdb_id": 352962,
+      "game_name": "Ikebana",
+      "file": "missing/I/352962-ikebana.json"
+    },
+    {
       "igdb_id": 229030,
       "game_name": "Ikemen Oukoku Joou to Shinjitsu no Kiss",
       "file": "missing/I/229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json"
@@ -284896,6 +284921,231 @@
       "igdb_id": 352838,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - 001: Cannon",
       "file": "missing/M/352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json"
+    },
+    {
+      "igdb_id": 352957,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - AreaSteal",
+      "file": "missing/M/352957-megaman-nt-warrior-advanced-pet-battle-chip-areasteal.json"
+    },
+    {
+      "igdb_id": 352959,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Attack+10",
+      "file": "missing/M/352959-megaman-nt-warrior-advanced-pet-battle-chip-attack-10.json"
+    },
+    {
+      "igdb_id": 352958,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Barrier",
+      "file": "missing/M/352958-megaman-nt-warrior-advanced-pet-battle-chip-barrier.json"
+    },
+    {
+      "igdb_id": 352934,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CannonBall",
+      "file": "missing/M/352934-megaman-nt-warrior-advanced-pet-battle-chip-cannonball.json"
+    },
+    {
+      "igdb_id": 352927,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 1 (Bound Note 1)",
+      "file": "missing/M/352927-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-bound-note-1.json"
+    },
+    {
+      "igdb_id": 352928,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 1 (Bound Note 2)",
+      "file": "missing/M/352928-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-bound-note-2.json"
+    },
+    {
+      "igdb_id": 352924,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 1 (Mag Bolt 1)",
+      "file": "missing/M/352924-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-mag-bolt-1.json"
+    },
+    {
+      "igdb_id": 352937,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 1 (Sand Ring)",
+      "file": "missing/M/352937-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-sand-ring.json"
+    },
+    {
+      "igdb_id": 352929,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Bound Note 3)",
+      "file": "missing/M/352929-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-bound-note-3.json"
+    },
+    {
+      "igdb_id": 352930,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Bug Bomb)",
+      "file": "missing/M/352930-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-bug-bomb.json"
+    },
+    {
+      "igdb_id": 352931,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Elec Shock)",
+      "file": "missing/M/352931-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-elec-shock.json"
+    },
+    {
+      "igdb_id": 352922,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Gun del Sol 2)",
+      "file": "missing/M/352922-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-gun-del-sol-2.json"
+    },
+    {
+      "igdb_id": 352925,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Mag Bolt 2)",
+      "file": "missing/M/352925-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-mag-bolt-2.json"
+    },
+    {
+      "igdb_id": 352969,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Roll Arrow 2)",
+      "file": "missing/M/352969-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-roll-arrow-2.json"
+    },
+    {
+      "igdb_id": 352932,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Woody Powder)",
+      "file": "missing/M/352932-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-woody-powder.json"
+    },
+    {
+      "igdb_id": 352943,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Fuujin Racket)",
+      "file": "missing/M/352943-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-fuujin-racket.json"
+    },
+    {
+      "igdb_id": 352941,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Wide Blade)",
+      "file": "missing/M/352941-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-wide-blade.json"
+    },
+    {
+      "igdb_id": 352965,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (Boomerang 1)",
+      "file": "missing/M/352965-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-boomerang-1.json"
+    },
+    {
+      "igdb_id": 352942,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (Long Blade)",
+      "file": "missing/M/352942-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-long-blade.json"
+    },
+    {
+      "igdb_id": 352961,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 5 (Lightning 3)",
+      "file": "missing/M/352961-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-lightning-3.json"
+    },
+    {
+      "igdb_id": 352960,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 5 (Meteor Rain 3)",
+      "file": "missing/M/352960-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-meteor-rain-3.json"
+    },
+    {
+      "igdb_id": 352956,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 5 (Repair)",
+      "file": "missing/M/352956-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-repair.json"
+    },
+    {
+      "igdb_id": 352966,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 6 (Heavy Gauge)",
+      "file": "missing/M/352966-megaman-nt-warrior-advanced-pet-battle-chip-cp-6-heavy-gauge.json"
+    },
+    {
+      "igdb_id": 352935,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 6 (Kanketsusen)",
+      "file": "missing/M/352935-megaman-nt-warrior-advanced-pet-battle-chip-cp-6-kanketsusen.json"
+    },
+    {
+      "igdb_id": 352952,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 6 (Recovery 120)",
+      "file": "missing/M/352952-megaman-nt-warrior-advanced-pet-battle-chip-cp-6-recovery-120.json"
+    },
+    {
+      "igdb_id": 352936,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 7 (Black Bomb)",
+      "file": "missing/M/352936-megaman-nt-warrior-advanced-pet-battle-chip-cp-7-black-bomb.json"
+    },
+    {
+      "igdb_id": 352944,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CustomSword",
+      "file": "missing/M/352944-megaman-nt-warrior-advanced-pet-battle-chip-customsword.json"
+    },
+    {
+      "igdb_id": 352938,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CyberSword",
+      "file": "missing/M/352938-megaman-nt-warrior-advanced-pet-battle-chip-cybersword.json"
+    },
+    {
+      "igdb_id": 352919,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - EnergyBomb",
+      "file": "missing/M/352919-megaman-nt-warrior-advanced-pet-battle-chip-energybomb.json"
+    },
+    {
+      "igdb_id": 352921,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Gun del Sol 1",
+      "file": "missing/M/352921-megaman-nt-warrior-advanced-pet-battle-chip-gun-del-sol-1.json"
+    },
+    {
+      "igdb_id": 352923,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Gun del Sol 3",
+      "file": "missing/M/352923-megaman-nt-warrior-advanced-pet-battle-chip-gun-del-sol-3.json"
+    },
+    {
+      "igdb_id": 352940,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - LongSword",
+      "file": "missing/M/352940-megaman-nt-warrior-advanced-pet-battle-chip-longsword.json"
+    },
+    {
+      "igdb_id": 352926,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Mag Bolt 3",
+      "file": "missing/M/352926-megaman-nt-warrior-advanced-pet-battle-chip-mag-bolt-3.json"
+    },
+    {
+      "igdb_id": 352920,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - MegaEnergyBomb",
+      "file": "missing/M/352920-megaman-nt-warrior-advanced-pet-battle-chip-megaenergybomb.json"
+    },
+    {
+      "igdb_id": 352918,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - MiniBoomer",
+      "file": "missing/M/352918-megaman-nt-warrior-advanced-pet-battle-chip-miniboomer.json"
+    },
+    {
+      "igdb_id": 352948,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Recovery10",
+      "file": "missing/M/352948-megaman-nt-warrior-advanced-pet-battle-chip-recovery10.json"
+    },
+    {
+      "igdb_id": 352953,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Recovery150",
+      "file": "missing/M/352953-megaman-nt-warrior-advanced-pet-battle-chip-recovery150.json"
+    },
+    {
+      "igdb_id": 352954,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Recovery200",
+      "file": "missing/M/352954-megaman-nt-warrior-advanced-pet-battle-chip-recovery200.json"
+    },
+    {
+      "igdb_id": 352949,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Recovery30",
+      "file": "missing/M/352949-megaman-nt-warrior-advanced-pet-battle-chip-recovery30.json"
+    },
+    {
+      "igdb_id": 352955,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Recovery300",
+      "file": "missing/M/352955-megaman-nt-warrior-advanced-pet-battle-chip-recovery300.json"
+    },
+    {
+      "igdb_id": 352950,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Recovery50",
+      "file": "missing/M/352950-megaman-nt-warrior-advanced-pet-battle-chip-recovery50.json"
+    },
+    {
+      "igdb_id": 352951,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Recovery80",
+      "file": "missing/M/352951-megaman-nt-warrior-advanced-pet-battle-chip-recovery80.json"
+    },
+    {
+      "igdb_id": 352963,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - ThunderBall",
+      "file": "missing/M/352963-megaman-nt-warrior-advanced-pet-battle-chip-thunderball.json"
+    },
+    {
+      "igdb_id": 352939,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - WideSword",
+      "file": "missing/M/352939-megaman-nt-warrior-advanced-pet-battle-chip-widesword.json"
+    },
+    {
+      "igdb_id": 352947,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Wind",
+      "file": "missing/M/352947-megaman-nt-warrior-advanced-pet-battle-chip-wind.json"
     },
     {
       "igdb_id": 172595,
@@ -345638,6 +345888,101 @@
       "file": "missing/P/220852-pikmin-puzzle-card-e.json"
     },
     {
+      "igdb_id": 353505,
+      "game_name": "Pikmin Puzzle Card e+: Hikkonuki Pikmin - Olimar",
+      "file": "missing/P/353505-pikmin-puzzle-card-e-hikkonuki-pikmin-olimar.json"
+    },
+    {
+      "igdb_id": 353509,
+      "game_name": "Pikmin Puzzle Card e+: No.00 - Hikkonuki Pikmin: Aka Pikmin",
+      "file": "missing/P/353509-pikmin-puzzle-card-e-no-00-hikkonuki-pikmin-aka-pikmin.json"
+    },
+    {
+      "igdb_id": 353510,
+      "game_name": "Pikmin Puzzle Card e+: No.00 - Teku-teku Pikmin: Ki Pikmin",
+      "file": "missing/P/353510-pikmin-puzzle-card-e-no-00-teku-teku-pikmin-ki-pikmin.json"
+    },
+    {
+      "igdb_id": 353511,
+      "game_name": "Pikmin Puzzle Card e+: No.00 - Tsunagete Pikmin: Ao Pikmin",
+      "file": "missing/P/353511-pikmin-puzzle-card-e-no-00-tsunagete-pikmin-ao-pikmin.json"
+    },
+    {
+      "igdb_id": 353512,
+      "game_name": "Pikmin Puzzle Card e+: No.01 - Hikkonuki Pikmin: Aka Chappy",
+      "file": "missing/P/353512-pikmin-puzzle-card-e-no-01-hikkonuki-pikmin-aka-chappy.json"
+    },
+    {
+      "igdb_id": 353513,
+      "game_name": "Pikmin Puzzle Card e+: No.02 - Teku-teku Pikmin: Ke Chappy",
+      "file": "missing/P/353513-pikmin-puzzle-card-e-no-02-teku-teku-pikmin-ke-chappy.json"
+    },
+    {
+      "igdb_id": 353514,
+      "game_name": "Pikmin Puzzle Card e+: No.03 Tsunagete Pikmin - Ten-ten Chappy",
+      "file": "missing/P/353514-pikmin-puzzle-card-e-no-03-tsunagete-pikmin-ten-ten-chappy.json"
+    },
+    {
+      "igdb_id": 353515,
+      "game_name": "Pikmin Puzzle Card e+: No.04 - Hikkonuki Pikmin: Aka Ko Chappy",
+      "file": "missing/P/353515-pikmin-puzzle-card-e-no-04-hikkonuki-pikmin-aka-ko-chappy.json"
+    },
+    {
+      "igdb_id": 353516,
+      "game_name": "Pikmin Puzzle Card e+: No.05 - Teku-teku Pikmin: Yuki Chappy",
+      "file": "missing/P/353516-pikmin-puzzle-card-e-no-05-teku-teku-pikmin-yuki-chappy.json"
+    },
+    {
+      "igdb_id": 353517,
+      "game_name": "Pikmin Puzzle Card e+: No.06 - Tsunagete Pikmin: Ten Ko Chappy",
+      "file": "missing/P/353517-pikmin-puzzle-card-e-no-06-tsunagete-pikmin-ten-ko-chappy.json"
+    },
+    {
+      "igdb_id": 353518,
+      "game_name": "Pikmin Puzzle Card e+: No.07 - Hikkonuki Pikmin: Kuma Chappy",
+      "file": "missing/P/353518-pikmin-puzzle-card-e-no-07-hikkonuki-pikmin-kuma-chappy.json"
+    },
+    {
+      "igdb_id": 353519,
+      "game_name": "Pikmin Puzzle Card e+: No.08 - Hikkonuki Pikmin: Chibi Kuma",
+      "file": "missing/P/353519-pikmin-puzzle-card-e-no-08-hikkonuki-pikmin-chibi-kuma.json"
+    },
+    {
+      "igdb_id": 353520,
+      "game_name": "Pikmin Puzzle Card e+: No.09 - Teku-teku Pikmin: Baby Chappy",
+      "file": "missing/P/353520-pikmin-puzzle-card-e-no-09-teku-teku-pikmin-baby-chappy.json"
+    },
+    {
+      "igdb_id": 353521,
+      "game_name": "Pikmin Puzzle Card e+: No.10 - Hikkonuki Pikmin: Yaki Chappy",
+      "file": "missing/P/353521-pikmin-puzzle-card-e-no-10-hikkonuki-pikmin-yaki-chappy.json"
+    },
+    {
+      "igdb_id": 353522,
+      "game_name": "Pikmin Puzzle Card e+: No.11 - Tsunagete Pikmin: Dango Namazu",
+      "file": "missing/P/353522-pikmin-puzzle-card-e-no-11-tsunagete-pikmin-dango-namazu.json"
+    },
+    {
+      "igdb_id": 353524,
+      "game_name": "Pikmin Puzzle Card e+: No.12 - Hikkonuki Pikmin: Ha Chappy/Koppa Chappy",
+      "file": "missing/P/353524-pikmin-puzzle-card-e-no-12-hikkonuki-pikmin-ha-chappy-koppa-chappy.json"
+    },
+    {
+      "igdb_id": 353525,
+      "game_name": "Pikmin Puzzle Card e+: No.13 - Teku-teku Pikmin: Daiou Deme Madara",
+      "file": "missing/P/353525-pikmin-puzzle-card-e-no-13-teku-teku-pikmin-daiou-deme-madara.json"
+    },
+    {
+      "igdb_id": 353506,
+      "game_name": "Pikmin Puzzle Card e+: Teku-teku Pikmin - President",
+      "file": "missing/P/353506-pikmin-puzzle-card-e-teku-teku-pikmin-president.json"
+    },
+    {
+      "igdb_id": 353508,
+      "game_name": "Pikmin Puzzle Card e+: Tsunagete Pikmin - Louie",
+      "file": "missing/P/353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json"
+    },
+    {
       "igdb_id": 313356,
       "game_name": "Pikmin Stellar",
       "file": "missing/P/313356-pikmin-stellar.json"
@@ -366113,6 +366458,11 @@
       "file": "missing/P/158690-puzzling-peaks-exe.json"
     },
     {
+      "igdb_id": 353486,
+      "game_name": "Puzzling Places: A Sunny Stroll in Barcelos",
+      "file": "missing/P/353486-puzzling-places-a-sunny-stroll-in-barcelos.json"
+    },
+    {
       "igdb_id": 353878,
       "game_name": "Puzzling Places: All Puzzles of 2024 Bundle",
       "file": "missing/P/353878-puzzling-places-all-puzzles-of-2024-bundle.json"
@@ -366133,9 +366483,109 @@
       "file": "missing/P/353885-puzzling-places-eurotrip-bundle.json"
     },
     {
+      "igdb_id": 353471,
+      "game_name": "Puzzling Places: Monthly Pack #20 - Tamerlane",
+      "file": "missing/P/353471-puzzling-places-monthly-pack-20-tamerlane.json"
+    },
+    {
+      "igdb_id": 353472,
+      "game_name": "Puzzling Places: Monthly Pack #21 - Estonia",
+      "file": "missing/P/353472-puzzling-places-monthly-pack-21-estonia.json"
+    },
+    {
+      "igdb_id": 353473,
+      "game_name": "Puzzling Places: Monthly Pack #22 - Streets of San Francisco",
+      "file": "missing/P/353473-puzzling-places-monthly-pack-22-streets-of-san-francisco.json"
+    },
+    {
+      "igdb_id": 353474,
+      "game_name": "Puzzling Places: Monthly Pack #23",
+      "file": "missing/P/353474-puzzling-places-monthly-pack-23.json"
+    },
+    {
+      "igdb_id": 353477,
+      "game_name": "Puzzling Places: Monthly Pack #24 - Berlin",
+      "file": "missing/P/353477-puzzling-places-monthly-pack-24-berlin.json"
+    },
+    {
+      "igdb_id": 353478,
+      "game_name": "Puzzling Places: Monthly Pack #25 - Great Britain",
+      "file": "missing/P/353478-puzzling-places-monthly-pack-25-great-britain.json"
+    },
+    {
+      "igdb_id": 353481,
+      "game_name": "Puzzling Places: Monthly Pack #26 - Inside & Out",
+      "file": "missing/P/353481-puzzling-places-monthly-pack-26-inside-and-out.json"
+    },
+    {
+      "igdb_id": 353482,
+      "game_name": "Puzzling Places: Monthly Pack #27",
+      "file": "missing/P/353482-puzzling-places-monthly-pack-27.json"
+    },
+    {
+      "igdb_id": 353483,
+      "game_name": "Puzzling Places: Monthly Pack #28 - China",
+      "file": "missing/P/353483-puzzling-places-monthly-pack-28-china.json"
+    },
+    {
+      "igdb_id": 353484,
+      "game_name": "Puzzling Places: Monthly Pack #29 - Full of Color",
+      "file": "missing/P/353484-puzzling-places-monthly-pack-29-full-of-color.json"
+    },
+    {
+      "igdb_id": 353488,
+      "game_name": "Puzzling Places: Monthly Pack #30",
+      "file": "missing/P/353488-puzzling-places-monthly-pack-30.json"
+    },
+    {
+      "igdb_id": 353489,
+      "game_name": "Puzzling Places: Monthly Pack #31",
+      "file": "missing/P/353489-puzzling-places-monthly-pack-31.json"
+    },
+    {
+      "igdb_id": 353490,
+      "game_name": "Puzzling Places: Monthly Pack #32 - Along the Coast",
+      "file": "missing/P/353490-puzzling-places-monthly-pack-32-along-the-coast.json"
+    },
+    {
+      "igdb_id": 353491,
+      "game_name": "Puzzling Places: Monthly Pack #33",
+      "file": "missing/P/353491-puzzling-places-monthly-pack-33.json"
+    },
+    {
+      "igdb_id": 353492,
+      "game_name": "Puzzling Places: Monthly Pack #34",
+      "file": "missing/P/353492-puzzling-places-monthly-pack-34.json"
+    },
+    {
+      "igdb_id": 353498,
+      "game_name": "Puzzling Places: Monthly Pack #35 - Inside and Out 2",
+      "file": "missing/P/353498-puzzling-places-monthly-pack-35-inside-and-out-2.json"
+    },
+    {
+      "igdb_id": 353499,
+      "game_name": "Puzzling Places: Monthly Pack #36 - South Korea Pack",
+      "file": "missing/P/353499-puzzling-places-monthly-pack-36-south-korea-pack.json"
+    },
+    {
+      "igdb_id": 353487,
+      "game_name": "Puzzling Places: New York City",
+      "file": "missing/P/353487-puzzling-places-new-york-city.json"
+    },
+    {
       "igdb_id": 353887,
       "game_name": "Puzzling Places: Premium Puzzles Bundle",
       "file": "missing/P/353887-puzzling-places-premium-puzzles-bundle.json"
+    },
+    {
+      "igdb_id": 353475,
+      "game_name": "Puzzling Places: Summer Dive",
+      "file": "missing/P/353475-puzzling-places-summer-dive.json"
+    },
+    {
+      "igdb_id": 353485,
+      "game_name": "Puzzling Places: World Heritage Tour",
+      "file": "missing/P/353485-puzzling-places-world-heritage-tour.json"
     },
     {
       "igdb_id": 31837,
@@ -419753,6 +420203,11 @@
       "file": "missing/S/384076-snapshots.json"
     },
     {
+      "igdb_id": 352945,
+      "game_name": "Snapto",
+      "file": "missing/S/352945-snapto.json"
+    },
+    {
       "igdb_id": 112352,
       "game_name": "Snares of Ruin Zero",
       "file": "missing/S/112352-snares-of-ruin-zero.json"
@@ -420551,6 +421006,11 @@
       "igdb_id": 43336,
       "game_name": "Snow Rider",
       "file": "missing/S/43336-snow-rider.json"
+    },
+    {
+      "igdb_id": 353507,
+      "game_name": "Snow Rider 3D",
+      "file": "missing/S/353507-snow-rider-3d.json"
     },
     {
       "igdb_id": 372132,
@@ -440208,6 +440668,11 @@
       "file": "missing/S/179658-steel-ranger.json"
     },
     {
+      "igdb_id": 353476,
+      "game_name": "Steel Revolt",
+      "file": "missing/S/353476-steel-revolt.json"
+    },
+    {
       "igdb_id": 34766,
       "game_name": "Steel Rivals",
       "file": "missing/S/34766-steel-rivals.json"
@@ -445373,6 +445838,11 @@
       "file": "missing/S/416091-submind.json"
     },
     {
+      "igdb_id": 353496,
+      "game_name": "Submission",
+      "file": "missing/S/353496-submission.json"
+    },
+    {
       "igdb_id": 87875,
       "game_name": "Subnautic Adventures",
       "file": "missing/S/87875-subnautic-adventures.json"
@@ -449896,6 +450366,16 @@
       "igdb_id": 155600,
       "game_name": "Super Jigsaw Puzzle: Generations - Waterfalls Puzzles",
       "file": "missing/S/155600-super-jigsaw-puzzle-generations-waterfalls-puzzles.json"
+    },
+    {
+      "igdb_id": 353479,
+      "game_name": "Super Jigsaw Puzzle: Generations - Waves",
+      "file": "missing/S/353479-super-jigsaw-puzzle-generations-waves.json"
+    },
+    {
+      "igdb_id": 353480,
+      "game_name": "Super Jigsaw Puzzle: Generations - Winter 2021",
+      "file": "missing/S/353480-super-jigsaw-puzzle-generations-winter-2021.json"
     },
     {
       "igdb_id": 273631,
@@ -459193,6 +459673,11 @@
       "file": "missing/T/91126-tag.json"
     },
     {
+      "igdb_id": 353502,
+      "game_name": "Tag Game",
+      "file": "missing/T/353502-tag-game.json"
+    },
+    {
       "igdb_id": 153413,
       "game_name": "Tag Hop",
       "file": "missing/T/153413-tag-hop.json"
@@ -462451,6 +462936,11 @@
       "igdb_id": 154405,
       "game_name": "Tanks: The Crusades",
       "file": "missing/T/154405-tanks-the-crusades.json"
+    },
+    {
+      "igdb_id": 353523,
+      "game_name": "Tanks!",
+      "file": "missing/T/353523-tanks.json"
     },
     {
       "igdb_id": 88514,
@@ -475061,6 +475551,11 @@
       "igdb_id": 11744,
       "game_name": "The Escapists: The Walking Dead",
       "file": "missing/T/11744-the-escapists-the-walking-dead.json"
+    },
+    {
+      "igdb_id": 353501,
+      "game_name": "The Esoteric Archive",
+      "file": "missing/T/353501-the-esoteric-archive.json"
     },
     {
       "igdb_id": 323509,
@@ -520806,6 +521301,11 @@
       "igdb_id": 59682,
       "game_name": "Unbeknown",
       "file": "missing/U/59682-unbeknown.json"
+    },
+    {
+      "igdb_id": 353493,
+      "game_name": "Unblock Ball",
+      "file": "missing/U/353493-unblock-ball.json"
     },
     {
       "igdb_id": 104629,
