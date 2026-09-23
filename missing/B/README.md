@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balorizon | 401632 | [401632-balorizon.json](./401632-balorizon.json) |
 | Balrog | 166781 | [166781-balrog.json](./166781-balrog.json) |
 | Balrog Sampler | 24903 | [24903-balrog-sampler.json](./24903-balrog-sampler.json) |
+| Balseo: The Sea Beyond | 387642 | [387642-balseo-the-sea-beyond.json](./387642-balseo-the-sea-beyond.json) |
 | Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
 | Bam 'N Jam | 61547 | [61547-bam-n-jam.json](./61547-bam-n-jam.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
+| Bit-cremental: Fishistry Color | 387693 | [387693-bit-cremental-fishistry-color.json](./387693-bit-cremental-fishistry-color.json) |
 | Bit.Saw | 60775 | [60775-bit-saw.json](./60775-bit-saw.json) |
 | Bit.Trip Beat HD | 21741 | [21741-bit-trip-beat-hd.json](./21741-bit-trip-beat-hd.json) |
 | Bit.Trip Core | 15280 | [15280-bit-trip-core.json](./15280-bit-trip-core.json) |
@@ -5498,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronzebeard's Tavern | 258955 | [258955-bronzebeards-tavern.json](./258955-bronzebeards-tavern.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
+| Broom Broom | 387655 | [387655-broom-broom.json](./387655-broom-broom.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
 | Bros | 198391 | [198391-bros.json](./198391-bros.json) |
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
