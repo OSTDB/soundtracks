@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga English Native Phrase Quiz | 409544 | [409544-manga-english-native-phrase-quiz.json](./409544-manga-english-native-phrase-quiz.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
 | Manga-ka Debut Monogatari: Suteki na Manga wo Egakou | 222393 | [222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json](./222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json) |
+| Mangadle | 374286 | [374286-mangadle.json](./374286-mangadle.json) |
 | Mangan Shisen-sho | 206357 | [206357-mangan-shisen-sho.json](./206357-mangan-shisen-sho.json) |
 | Mangata | 184048 | [184048-mangata.json](./184048-mangata.json) |
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
