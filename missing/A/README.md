@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amagami GS | 345603 | [345603-amagami-gs.json](./345603-amagami-gs.json) |
 | Amagon | 8916 | [8916-amagon.json](./8916-amagon.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
+| Amakano | 374832 | [374832-amakano.json](./374832-amakano.json) |
 | Amakano: Second Season | 128405 | [128405-amakano-second-season.json](./128405-amakano-second-season.json) |
 | Amakano+ | 128378 | [128378-amakano.json](./128378-amakano.json) |
 | Amalgam | 396419 | [396419-amalgam.json](./396419-amalgam.json) |
@@ -5559,6 +5560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Test | 347705 | [347705-auto-test.json](./347705-auto-test.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
 | Auto Tuktuk Mafia | 411587 | [411587-auto-tuktuk-mafia.json](./411587-auto-tuktuk-mafia.json) |
+| Auto WWII Equips | 374825 | [374825-auto-wwii-equips.json](./374825-auto-wwii-equips.json) |
 | Auto-Upturn | 48692 | [48692-auto-upturn.json](./48692-auto-upturn.json) |
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
 | Autobahn Police Simulator 3 | 153975 | [153975-autobahn-police-simulator-3.json](./153975-autobahn-police-simulator-3.json) |
