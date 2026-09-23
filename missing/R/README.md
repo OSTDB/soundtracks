@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Station | 132772 | [132772-radio-station.json](./132772-radio-station.json) |
 | Radio Violence | 110987 | [110987-radio-violence.json](./110987-radio-violence.json) |
 | Radio Viscera | 153438 | [153438-radio-viscera.json](./153438-radio-viscera.json) |
+| Radio Zed | 376720 | [376720-radio-zed.json](./376720-radio-zed.json) |
 | Radio Zonde | 140999 | [140999-radio-zonde.json](./140999-radio-zonde.json) |
 | Radio.Signal | 176910 | [176910-radio-signal.json](./176910-radio-signal.json) |
 | Radioactive | 29757 | [29757-radioactive.json](./29757-radioactive.json) |
@@ -1240,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
 | Recipe for Disaster | 146273 | [146273-recipe-for-disaster.json](./146273-recipe-for-disaster.json) |
+| Recipe of Love | 376709 | [376709-recipe-of-love.json](./376709-recipe-of-love.json) |
 | Recital of the Heart | 335366 | [335366-recital-of-the-heart.json](./335366-recital-of-the-heart.json) |
 | Reckless Drive | 335266 | [335266-reckless-drive.json](./335266-reckless-drive.json) |
 | Reckless Driver | 204067 | [204067-reckless-driver.json](./204067-reckless-driver.json) |
