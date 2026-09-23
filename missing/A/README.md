@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absence: Verdict of Silence | 185002 | [185002-absence-verdict-of-silence.json](./185002-absence-verdict-of-silence.json) |
+| AbsentedAge 2: Ghostbound | 363570 | [363570-absentedage-2-ghostbound.json](./363570-absentedage-2-ghostbound.json) |
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absin | 165505 | [165505-absin.json](./165505-absin.json) |
 | Absinth | 68905 | [68905-absinth.json](./68905-absinth.json) |
