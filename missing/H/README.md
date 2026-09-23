@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
 | Hanafuda Rumble | 97838 | [97838-hanafuda-rumble.json](./97838-hanafuda-rumble.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
+| Hanafuta no Tora | 358479 | [358479-hanafuta-no-tora.json](./358479-hanafuta-no-tora.json) |
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
@@ -3153,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Knight: Collector's Edition | 116151 | [116151-hollow-knight-collectors-edition.json](./116151-hollow-knight-collectors-edition.json) |
 | Hollow Knight: Silksong - Sea of Sorrow | 381684 | [381684-hollow-knight-silksong-sea-of-sorrow.json](./381684-hollow-knight-silksong-sea-of-sorrow.json) |
 | Hollow Knight: The Glimmering Realm | 375989 | [375989-hollow-knight-the-glimmering-realm.json](./375989-hollow-knight-the-glimmering-realm.json) |
+| Hollow Life and Insincere Words | 358473 | [358473-hollow-life-and-insincere-words.json](./358473-hollow-life-and-insincere-words.json) |
 | Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
