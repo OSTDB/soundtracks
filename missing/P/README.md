@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
 | PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
+| Paloo Spiral | 369200 | [369200-paloo-spiral.json](./369200-paloo-spiral.json) |
 | Palphone-Sama: Curse Call | 189107 | [189107-palphone-sama-curse-call.json](./189107-palphone-sama-curse-call.json) |
 | Palps | 292001 | [292001-palps.json](./292001-palps.json) |
 | Pals Go Only Up! | 295774 | [295774-pals-go-only-up.json](./295774-pals-go-only-up.json) |
@@ -3097,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes: Interactive Storybook | 230399 | [230399-planes-interactive-storybook.json](./230399-planes-interactive-storybook.json) |
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
 | Planescape Torment: Enhanced Edition - Digital Deluxe | 53462 | [53462-planescape-torment-enhanced-edition-digital-deluxe.json](./53462-planescape-torment-enhanced-edition-digital-deluxe.json) |
+| Planescape: The Shaper of Dreams | 369227 | [369227-planescape-the-shaper-of-dreams.json](./369227-planescape-the-shaper-of-dreams.json) |
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
 | Planet Alpha | 28070 | [28070-planet-alpha.json](./28070-planet-alpha.json) |
@@ -3108,6 +3110,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster 2 | 308099 | [308099-planet-coaster-2.json](./308099-planet-coaster-2.json) |
 | Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
+| Planet Coaster 2: Sorcery Pack | 369234 | [369234-planet-coaster-2-sorcery-pack.json](./369234-planet-coaster-2-sorcery-pack.json) |
+| Planet Coaster 2: Vintage Funfair Ride Pack | 369235 | [369235-planet-coaster-2-vintage-funfair-ride-pack.json](./369235-planet-coaster-2-vintage-funfair-ride-pack.json) |
 | Planet Coaster: Adventure Pack | 76963 | [76963-planet-coaster-adventure-pack.json](./76963-planet-coaster-adventure-pack.json) |
 | Planet Coaster: Back to the Future Time Machine Construction Kit | 168240 | [168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json](./168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json) |
 | Planet Coaster: Classic Rides Collection | 117487 | [117487-planet-coaster-classic-rides-collection.json](./117487-planet-coaster-classic-rides-collection.json) |
@@ -4932,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
 | Prism Queen's Heroine | 83934 | [83934-prism-queens-heroine.json](./83934-prism-queens-heroine.json) |
+| Prism: Master Tape | 369236 | [369236-prism-master-tape.json](./369236-prism-master-tape.json) |
 | Prisma & the Masquerade Menace | 30907 | [30907-prisma-and-the-masquerade-menace.json](./30907-prisma-and-the-masquerade-menace.json) |
 | Prisma Light | 236849 | [236849-prisma-light.json](./236849-prisma-light.json) |
 | Prismata | 8215 | [8215-prismata.json](./8215-prismata.json) |
