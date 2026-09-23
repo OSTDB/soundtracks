@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Fishing | 350509 | [350509-relaxing-fishing.json](./350509-relaxing-fishing.json) |
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
 | Relaxing Rain Sounds: Amayadori | 151669 | [151669-relaxing-rain-sounds-amayadori.json](./151669-relaxing-rain-sounds-amayadori.json) |
+| Relaxing Sudoku and Futushiki | 359073 | [359073-relaxing-sudoku-and-futushiki.json](./359073-relaxing-sudoku-and-futushiki.json) |
 | Relaxing Time: Paradise Resort - Collector's Edition | 304591 | [304591-relaxing-time-paradise-resort-collectors-edition.json](./304591-relaxing-time-paradise-resort-collectors-edition.json) |
 | Relaxing VR Games: Mahjong | 31166 | [31166-relaxing-vr-games-mahjong.json](./31166-relaxing-vr-games-mahjong.json) |
 | Relaxjong | 368677 | [368677-relaxjong.json](./368677-relaxjong.json) |
@@ -3160,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
 | Roads of Rome 3 | 34264 | [34264-roads-of-rome-3.json](./34264-roads-of-rome-3.json) |
+| Roads Yet Traveled | 359048 | [359048-roads-yet-traveled.json](./359048-roads-yet-traveled.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
 | Roadwars | 12843 | [12843-roadwars.json](./12843-roadwars.json) |
 | Roadwars | 95398 | [95398-roadwars.json](./95398-roadwars.json) |
