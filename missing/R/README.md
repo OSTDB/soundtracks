@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re/terra | 259049 | [259049-re-terra.json](./259049-re-terra.json) |
 | Re≒Connect Exit Loop | 288224 | [288224-re-connect-exit-loop.json](./288224-re-connect-exit-loop.json) |
 | RE0: VTuber Life | 370680 | [370680-re0-vtuber-life.json](./370680-re0-vtuber-life.json) |
+| Reach | 347893 | [347893-reach.json](./347893-reach.json) |
 | Reach Charon | 269561 | [269561-reach-charon.json](./269561-reach-charon.json) |
 | Reach the Moon! | 234741 | [234741-reach-the-moon.json](./234741-reach-the-moon.json) |
 | Reach To Neighbor House | 241946 | [241946-reach-to-neighbor-house.json](./241946-reach-to-neighbor-house.json) |
@@ -1228,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper's Odyssey | 319809 | [319809-reapers-odyssey.json](./319809-reapers-odyssey.json) |
 | Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
 | Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
+| Reaprieve | 347907 | [347907-reaprieve.json](./347907-reaprieve.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
 | Reasonable Claustrophobia | 182922 | [182922-reasonable-claustrophobia.json](./182922-reasonable-claustrophobia.json) |
