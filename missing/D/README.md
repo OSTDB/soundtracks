@@ -1787,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Hunter | 95988 | [95988-deep-sea-hunter.json](./95988-deep-sea-hunter.json) |
 | Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
+| Deep Sea Puzzle | 382453 | [382453-deep-sea-puzzle.json](./382453-deep-sea-puzzle.json) |
 | Deep Sea Valentine | 143485 | [143485-deep-sea-valentine.json](./143485-deep-sea-valentine.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
 | Deep Snow Delivery | 320396 | [320396-deep-snow-delivery.json](./320396-deep-snow-delivery.json) |
@@ -5325,6 +5326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
 | Dread Nautical | 122514 | [122514-dread-nautical.json](./122514-dread-nautical.json) |
+| Dread Neighbor | 382463 | [382463-dread-neighbor.json](./382463-dread-neighbor.json) |
 | Dread Not | 349860 | [349860-dread-not.json](./349860-dread-not.json) |
 | Dread Pilots | 252854 | [252854-dread-pilots.json](./252854-dread-pilots.json) |
 | Dread Protocol | 277315 | [277315-dread-protocol.json](./277315-dread-protocol.json) |
