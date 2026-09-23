@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Birds: WW2 Air strike 1942 | 33281 | [33281-war-birds-ww2-air-strike-1942.json](./33281-war-birds-ww2-air-strike-1942.json) |
 | War Brokers | 74845 | [74845-war-brokers.json](./74845-war-brokers.json) |
 | War by Grow Games | 125982 | [125982-war-by-grow-games.json](./125982-war-by-grow-games.json) |
+| War Card Game_uvr | 365279 | [365279-war-card-game-uvr.json](./365279-war-card-game-uvr.json) |
 | War Chariots: Royal Legion | 43503 | [43503-war-chariots-royal-legion.json](./43503-war-chariots-royal-legion.json) |
 | War Church | 271805 | [271805-war-church.json](./271805-war-church.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
@@ -2009,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Over | 67674 | [67674-wing-over.json](./67674-wing-over.json) |
 | Wing Over 2 | 67667 | [67667-wing-over-2.json](./67667-wing-over-2.json) |
 | Winged Sakura: Mindy's Arc 2 | 111049 | [111049-winged-sakura-mindys-arc-2.json](./111049-winged-sakura-mindys-arc-2.json) |
+| Winged Warrior III: The Nova Knight | 365274 | [365274-winged-warrior-iii-the-nova-knight.json](./365274-winged-warrior-iii-the-nova-knight.json) |
 | Winglancer | 68966 | [68966-winglancer.json](./68966-winglancer.json) |
 | Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
 | Winglet | 299172 | [299172-winglet.json](./299172-winglet.json) |
