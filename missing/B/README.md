@@ -5662,6 +5662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken God Awakening | 216791 | [216791-broken-god-awakening.json](./216791-broken-god-awakening.json) |
 | Broken Hearts Island | 258990 | [258990-broken-hearts-island.json](./258990-broken-hearts-island.json) |
 | Broken In Time | 223499 | [223499-broken-in-time.json](./223499-broken-in-time.json) |
+| Broken Keyboard Hero | 342842 | [342842-broken-keyboard-hero.json](./342842-broken-keyboard-hero.json) |
 | Broken Leash: Night Shift | 376478 | [376478-broken-leash-night-shift.json](./376478-broken-leash-night-shift.json) |
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
 | Broken Lines | 107175 | [107175-broken-lines.json](./107175-broken-lines.json) |
@@ -5675,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Race | 372099 | [372099-broken-race.json](./372099-broken-race.json) |
 | Broken Ranks | 162520 | [162520-broken-ranks.json](./162520-broken-ranks.json) |
 | Broken Reality 2000 | 226272 | [226272-broken-reality-2000.json](./226272-broken-reality-2000.json) |
+| Broken Relic | 342896 | [342896-broken-relic.json](./342896-broken-relic.json) |
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
