@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeathCrank | 34726 | [34726-deathcrank.json](./34726-deathcrank.json) |
 | Deathdays End | 111478 | [111478-deathdays-end.json](./111478-deathdays-end.json) |
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
+| Deathgasm | 352381 | [352381-deathgasm.json](./352381-deathgasm.json) |
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
 | Deathless | 140360 | [140360-deathless.json](./140360-deathless.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
@@ -6109,6 +6110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuelVox | 155574 | [155574-duelvox.json](./155574-duelvox.json) |
 | Duelyst GG | 232452 | [232452-duelyst-gg.json](./232452-duelyst-gg.json) |
 | Duelyst Origins | 318636 | [318636-duelyst-origins.json](./318636-duelyst-origins.json) |
+| Duelyst: Blitz | 352370 | [352370-duelyst-blitz.json](./352370-duelyst-blitz.json) |
 | Duelyst: Shim'zar | 22812 | [22812-duelyst-shimzar.json](./22812-duelyst-shimzar.json) |
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
