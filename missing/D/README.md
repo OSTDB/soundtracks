@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon x Machina: Titanic Scion - Free Reclaimer Outfit | 375262 | [375262-daemon-x-machina-titanic-scion-free-reclaimer-outfit.json](./375262-daemon-x-machina-titanic-scion-free-reclaimer-outfit.json) |
 | Daemon x Machina: Titanic Scion - Into the Abyss | 375177 | [375177-daemon-x-machina-titanic-scion-into-the-abyss.json](./375177-daemon-x-machina-titanic-scion-into-the-abyss.json) |
 | Daemon x Machina: Titanic Scion - Reclaimers Outfit Set | 375261 | [375261-daemon-x-machina-titanic-scion-reclaimers-outfit-set.json](./375261-daemon-x-machina-titanic-scion-reclaimers-outfit-set.json) |
+| Daemonfall | 345115 | [345115-daemonfall.json](./345115-daemonfall.json) |
 | Daemonic Runner | 127779 | [127779-daemonic-runner.json](./127779-daemonic-runner.json) |
 | Daemonical | 96233 | [96233-daemonical.json](./96233-daemonical.json) |
 | Daemonologie | 179677 | [179677-daemonologie.json](./179677-daemonologie.json) |
@@ -2498,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Dungeons | 8998 | [8998-desktop-dungeons.json](./8998-desktop-dungeons.json) |
 | Desktop Dungeons: Rewind | 213510 | [213510-desktop-dungeons-rewind.json](./213510-desktop-dungeons-rewind.json) |
 | Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
+| Desktop Fishing | 344545 | [344545-desktop-fishing.json](./344545-desktop-fishing.json) |
 | Desktop Football | 196831 | [196831-desktop-football.json](./196831-desktop-football.json) |
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
 | Desktop Hacker | 203953 | [203953-desktop-hacker.json](./203953-desktop-hacker.json) |
@@ -2974,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Dungeons Reunion | 208403 | [208403-dicey-dungeons-reunion.json](./208403-dicey-dungeons-reunion.json) |
 | Dicey Dungeons: Halloween Special | 266909 | [266909-dicey-dungeons-halloween-special.json](./266909-dicey-dungeons-halloween-special.json) |
 | Dicey Towers | 188489 | [188489-dicey-towers.json](./188489-dicey-towers.json) |
+| Dichotomy | 344580 | [344580-dichotomy.json](./344580-dichotomy.json) |
 | Dick and Dom's Hoopla! | 304208 | [304208-dick-and-doms-hoopla.json](./304208-dick-and-doms-hoopla.json) |
 | Dick Tracy | 13058 | [13058-dick-tracy.json](./13058-dick-tracy.json) |
 | Dick Tracy | 316832 | [316832-dick-tracy.json](./316832-dick-tracy.json) |
@@ -3294,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
 | Dino Safari: Evolution-U | 100927 | [100927-dino-safari-evolution-u.json](./100927-dino-safari-evolution-u.json) |
+| Dino Space Station | 345100 | [345100-dino-space-station.json](./345100-dino-space-station.json) |
 | Dino SpeedBoat | 341024 | [341024-dino-speedboat.json](./341024-dino-speedboat.json) |
 | Dino Stalker | 22065 | [22065-dino-stalker.json](./22065-dino-stalker.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
@@ -5356,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfly Chronicles | 105133 | [105133-dragonfly-chronicles.json](./105133-dragonfly-chronicles.json) |
 | DragonHeart | 80824 | [80824-dragonheart.json](./80824-dragonheart.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
+| DragonLoop | 344528 | [344528-dragonloop.json](./344528-dragonloop.json) |
 | DragonMirrored with Hyoga & Magma | 305769 | [305769-dragonmirrored-with-hyoga-and-magma.json](./305769-dragonmirrored-with-hyoga-and-magma.json) |
 | Dragonnet Havoc | 361725 | [361725-dragonnet-havoc.json](./361725-dragonnet-havoc.json) |
 | Dragonology | 21095 | [21095-dragonology.json](./21095-dragonology.json) |
