@@ -2908,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise & Reign | 277277 | [277277-rise-and-reign.json](./277277-rise-and-reign.json) |
 | Rise & Shine | 6732 | [6732-rise-and-shine.json](./6732-rise-and-shine.json) |
 | Rise 2: Resurrection | 20256 | [20256-rise-2-resurrection.json](./20256-rise-2-resurrection.json) |
+| Rise Achlys | 337835 | [337835-rise-achlys.json](./337835-rise-achlys.json) |
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
 | Rise Eterna | 113809 | [113809-rise-eterna.json](./113809-rise-eterna.json) |
 | Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
