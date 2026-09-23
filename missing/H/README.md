@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Pet Island | 322174 | [322174-happy-pet-island.json](./322174-happy-pet-island.json) |
 | Happy Pets | 200631 | [200631-happy-pets.json](./200631-happy-pets.json) |
 | Happy Pinball | 373116 | [373116-happy-pinball.json](./373116-happy-pinball.json) |
+| Happy Pong | 352380 | [352380-happy-pong.json](./352380-happy-pong.json) |
 | Happy Pong | 90580 | [90580-happy-pong.json](./90580-happy-pong.json) |
 | Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
