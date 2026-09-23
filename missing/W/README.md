@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waste in Space | 248651 | [248651-waste-in-space.json](./248651-waste-in-space.json) |
 | Waste The Fallen | 413735 | [413735-waste-the-fallen.json](./413735-waste-the-fallen.json) |
 | Waste Water | 395175 | [395175-waste-water.json](./395175-waste-water.json) |
+| Waste Your Wedding | 366413 | [366413-waste-your-wedding.json](./366413-waste-your-wedding.json) |
 | Wastebraver | 205101 | [205101-wastebraver.json](./205101-wastebraver.json) |
 | Wastebraver: A Tiny Survival Tale | 207348 | [207348-wastebraver-a-tiny-survival-tale.json](./207348-wastebraver-a-tiny-survival-tale.json) |
 | Wasted | 17925 | [17925-wasted.json](./17925-wasted.json) |
