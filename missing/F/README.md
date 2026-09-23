@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
 | Fiber Twig 2: Restoration of Magic Garden | 58183 | [58183-fiber-twig-2-restoration-of-magic-garden.json](./58183-fiber-twig-2-restoration-of-magic-garden.json) |
 | Fibonacci's Final Sequence | 287209 | [287209-fibonaccis-final-sequence.json](./287209-fibonaccis-final-sequence.json) |
+| Fibras | 378446 | [378446-fibras.json](./378446-fibras.json) |
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
 | Fickle Allies | 417495 | [417495-fickle-allies.json](./417495-fickle-allies.json) |
 | FickleFlame | 367472 | [367472-fickleflame.json](./367472-fickleflame.json) |
