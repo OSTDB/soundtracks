@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinegar Mutter | 386237 | [386237-vinegar-mutter.json](./386237-vinegar-mutter.json) |
 | Vinni Pukh i vse, vse, vse | 325045 | [325045-vinni-pukh-i-vse-vse-vse.json](./325045-vinni-pukh-i-vse-vse-vse.json) |
 | Vinnie's Diary VR | 343333 | [343333-vinnies-diary-vr.json](./343333-vinnies-diary-vr.json) |
+| Vintergard | 354654 | [354654-vintergard.json](./354654-vintergard.json) |
 | Vinyl Goddess from Mars | 70953 | [70953-vinyl-goddess-from-mars.json](./70953-vinyl-goddess-from-mars.json) |
 | VinylMinty's Video Game Quiz | 320980 | [320980-vinylmintys-video-game-quiz.json](./320980-vinylmintys-video-game-quiz.json) |
 | Vinylove | 107246 | [107246-vinylove.json](./107246-vinylove.json) |
