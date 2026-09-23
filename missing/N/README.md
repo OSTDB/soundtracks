@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
 | No Food No Drink | 338752 | [338752-no-food-no-drink.json](./338752-no-food-no-drink.json) |
 | No Forgiveness | 365147 | [365147-no-forgiveness.json](./365147-no-forgiveness.json) |
+| No Fox Season | 372690 | [372690-no-fox-season.json](./372690-no-fox-season.json) |
 | No Friends | 244337 | [244337-no-friends.json](./244337-no-friends.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
