@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Life | 115656 | [115656-once-upon-a-life.json](./115656-once-upon-a-life.json) |
 | Once Upon A Plague | 184565 | [184565-once-upon-a-plague.json](./184565-once-upon-a-plague.json) |
 | Once Upon a Puppet | 74771 | [74771-once-upon-a-puppet.json](./74771-once-upon-a-puppet.json) |
+| Once Upon A Puppet: Backstage Edition | 342235 | [342235-once-upon-a-puppet-backstage-edition.json](./342235-once-upon-a-puppet-backstage-edition.json) |
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
 | Once Upon a Spirit | 354000 | [354000-once-upon-a-spirit.json](./354000-once-upon-a-spirit.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
@@ -1591,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar's World Tour | 65749 | [65749-oscars-world-tour.json](./65749-oscars-world-tour.json) |
 | Oscillatron: Alien Frequency | 96118 | [96118-oscillatron-alien-frequency.json](./96118-oscillatron-alien-frequency.json) |
 | Oscura: Lost Light | 17784 | [17784-oscura-lost-light.json](./17784-oscura-lost-light.json) |
+| Oscuro Blossom's Glow | 342264 | [342264-oscuro-blossoms-glow.json](./342264-oscuro-blossoms-glow.json) |
 | OSD vs RON | 70377 | [70377-osd-vs-ron.json](./70377-osd-vs-ron.json) |
 | Osekkai na Imouto | 97719 | [97719-osekkai-na-imouto.json](./97719-osekkai-na-imouto.json) |
 | Oshaberi King! Komyuryoku Shindan Game | 396441 | [396441-oshaberi-king-komyuryoku-shindan-game.json](./396441-oshaberi-king-komyuryoku-shindan-game.json) |
