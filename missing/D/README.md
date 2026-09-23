@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daescent | 408162 | [408162-daescent.json](./408162-daescent.json) |
 | DaeusProfundis | 408163 | [408163-daeusprofundis.json](./408163-daeusprofundis.json) |
 | Daffy Duck | 67271 | [67271-daffy-duck.json](./67271-daffy-duck.json) |
+| Daffy Duck in Hollywood | 369244 | [369244-daffy-duck-in-hollywood.json](./369244-daffy-duck-in-hollywood.json) |
 | Daffy Duck, P.I.: The Case of the Missing Letters | 63814 | [63814-daffy-duck-p-i-the-case-of-the-missing-letters.json](./63814-daffy-duck-p-i-the-case-of-the-missing-letters.json) |
 | Daft Disputes | 180220 | [180220-daft-disputes.json](./180220-daft-disputes.json) |
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
@@ -2051,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Online | 390011 | [390011-delta-online.json](./390011-delta-online.json) |
 | Delta Particles | 196729 | [196729-delta-particles.json](./196729-delta-particles.json) |
 | Delta Riddle | 96039 | [96039-delta-riddle.json](./96039-delta-riddle.json) |
+| Delta Squared | 369240 | [369240-delta-squared.json](./369240-delta-squared.json) |
 | Delta Strike: First Assault | 99547 | [99547-delta-strike-first-assault.json](./99547-delta-strike-first-assault.json) |
 | Delta Time | 171622 | [171622-delta-time.json](./171622-delta-time.json) |
 | Delta Warp | 43978 | [43978-delta-warp.json](./43978-delta-warp.json) |
