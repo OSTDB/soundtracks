@@ -3094,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Knight: Collector's Edition | 116151 | [116151-hollow-knight-collectors-edition.json](./116151-hollow-knight-collectors-edition.json) |
 | Hollow Knight: Silksong - Sea of Sorrow | 381684 | [381684-hollow-knight-silksong-sea-of-sorrow.json](./381684-hollow-knight-silksong-sea-of-sorrow.json) |
 | Hollow Knight: The Glimmering Realm | 375989 | [375989-hollow-knight-the-glimmering-realm.json](./375989-hollow-knight-the-glimmering-realm.json) |
+| Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow Steps | 88235 | [88235-hollow-steps.json](./88235-hollow-steps.json) |
@@ -3858,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Jigsaw: Urban Lifestyle | 273474 | [273474-house-of-jigsaw-urban-lifestyle.json](./273474-house-of-jigsaw-urban-lifestyle.json) |
 | House of Jigsaw: Vintage Revival | 273473 | [273473-house-of-jigsaw-vintage-revival.json](./273473-house-of-jigsaw-vintage-revival.json) |
 | House of Lost Souls | 333624 | [333624-house-of-lost-souls.json](./333624-house-of-lost-souls.json) |
+| House of Nowhere | 385861 | [385861-house-of-nowhere.json](./385861-house-of-nowhere.json) |
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
 | House of Portals VR | 154384 | [154384-house-of-portals-vr.json](./154384-house-of-portals-vr.json) |
 | House of Shadow | 230907 | [230907-house-of-shadow.json](./230907-house-of-shadow.json) |
