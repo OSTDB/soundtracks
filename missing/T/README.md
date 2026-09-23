@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: The Ancient Beasts | 148511 | [148511-talisman-the-ancient-beasts.json](./148511-talisman-the-ancient-beasts.json) |
 | Talisman: The Cataclysm | 149020 | [149020-talisman-the-cataclysm.json](./149020-talisman-the-cataclysm.json) |
 | Talisman: The Dragon | 149009 | [149009-talisman-the-dragon.json](./149009-talisman-the-dragon.json) |
+| Talisman: The Dungeon Expansion - Legendary Deck | 344576 | [344576-talisman-the-dungeon-expansion-legendary-deck.json](./344576-talisman-the-dungeon-expansion-legendary-deck.json) |
 | Talisman: The Firelands | 149057 | [149057-talisman-the-firelands.json](./149057-talisman-the-firelands.json) |
 | Talisman: The Harbinger | 149022 | [149022-talisman-the-harbinger.json](./149022-talisman-the-harbinger.json) |
 | Talisman: The Horus Heresy | 18086 | [18086-talisman-the-horus-heresy.json](./18086-talisman-the-horus-heresy.json) |
@@ -3209,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Drugstore: Matsumoto Kiyoshi de Okaimono! | 280792 | [280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json](./280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json) |
 | The Duchess Affair | 313886 | [313886-the-duchess-affair.json](./313886-the-duchess-affair.json) |
+| The Duck Amikaze Strikes Back | 344544 | [344544-the-duck-amikaze-strikes-back.json](./344544-the-duck-amikaze-strikes-back.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Duck Song Game | 205616 | [205616-the-duck-song-game.json](./205616-the-duck-song-game.json) |
 | The Ducksuckers | 195245 | [195245-the-ducksuckers.json](./195245-the-ducksuckers.json) |
@@ -8636,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
 | Tiny Kingdoms | 311119 | [311119-tiny-kingdoms.json](./311119-tiny-kingdoms.json) |
+| Tiny Kings | 344548 | [344548-tiny-kings.json](./344548-tiny-kings.json) |
 | Tiny Kitchen: Sandwich Edition | 380113 | [380113-tiny-kitchen-sandwich-edition.json](./380113-tiny-kitchen-sandwich-edition.json) |
 | Tiny Knight | 33472 | [33472-tiny-knight.json](./33472-tiny-knight.json) |
 | Tiny Legends | 373725 | [373725-tiny-legends.json](./373725-tiny-legends.json) |
@@ -10058,6 +10061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Chute: Sort Chute Organizer! | 416853 | [416853-toy-chute-sort-chute-organizer.json](./416853-toy-chute-sort-chute-organizer.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
 | Toy Drop Balance Challenge | 342152 | [342152-toy-drop-balance-challenge.json](./342152-toy-drop-balance-challenge.json) |
+| Toy Escape | 344530 | [344530-toy-escape.json](./344530-toy-escape.json) |
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
 | Toy Goblins | 57035 | [57035-toy-goblins.json](./57035-toy-goblins.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
