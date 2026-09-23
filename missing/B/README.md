@@ -3632,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Buster | 38585 | [38585-block-buster.json](./38585-block-buster.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
 | Block Carnival | 38588 | [38588-block-carnival.json](./38588-block-carnival.json) |
+| Block Cascade | 387008 | [387008-block-cascade.json](./387008-block-cascade.json) |
 | Block Cat Jam | 297502 | [297502-block-cat-jam.json](./297502-block-cat-jam.json) |
 | Block Cat Space Golf | 104029 | [104029-block-cat-space-golf.json](./104029-block-cat-space-golf.json) |
 | Block Champ | 229936 | [229936-block-champ.json](./229936-block-champ.json) |
@@ -3932,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Doctor | 249866 | [249866-bloody-doctor.json](./249866-bloody-doctor.json) |
 | Bloody Downsizing | 224665 | [224665-bloody-downsizing.json](./224665-bloody-downsizing.json) |
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
+| Bloody Fun Day | 386991 | [386991-bloody-fun-day.json](./386991-bloody-fun-day.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
 | Bloody Roar 2 | 4140 | [4140-bloody-roar-2.json](./4140-bloody-roar-2.json) |
