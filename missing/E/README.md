@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Cid | 13629 | [13629-el-cid.json](./13629-el-cid.json) |
 | El Coco | 353884 | [353884-el-coco.json](./353884-el-coco.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
+| El gaucho Martín Fierro | 340035 | [340035-el-gaucho-martin-fierro.json](./340035-el-gaucho-martin-fierro.json) |
 | El Hincha Rusia 2018 | 104053 | [104053-el-hincha-rusia-2018.json](./104053-el-hincha-rusia-2018.json) |
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
 | El lacasito de Gandalf | 320990 | [320990-el-lacasito-de-gandalf.json](./320990-el-lacasito-de-gandalf.json) |
@@ -2666,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
 | Exclusively Yours: An Office Affair | 234151 | [234151-exclusively-yours-an-office-affair.json](./234151-exclusively-yours-an-office-affair.json) |
 | Excommunicado | 211266 | [211266-excommunicado.json](./211266-excommunicado.json) |
+| Excommunicated | 340043 | [340043-excommunicated.json](./340043-excommunicated.json) |
 | Excubitor | 19332 | [19332-excubitor.json](./19332-excubitor.json) |
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
 | Excycle | 266864 | [266864-excycle.json](./266864-excycle.json) |
@@ -2736,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo Exit | 18542 | [18542-exo-exit.json](./18542-exo-exit.json) |
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo Rally Championship | 252862 | [252862-exo-rally-championship.json](./252862-exo-rally-championship.json) |
+| Exo Wanderers | 340044 | [340044-exo-wanderers.json](./340044-exo-wanderers.json) |
 | Exo-Card Collector | 365869 | [365869-exo-card-collector.json](./365869-exo-card-collector.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
@@ -2859,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exquisite Fishing | 235874 | [235874-exquisite-fishing.json](./235874-exquisite-fishing.json) |
 | Exquisite Girls | 372121 | [372121-exquisite-girls.json](./372121-exquisite-girls.json) |
 | EXS1 EthnologySister: Cultural functionalism | 166171 | [166171-exs1-ethnologysister-cultural-functionalism.json](./166171-exs1-ethnologysister-cultural-functionalism.json) |
+| Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
@@ -2951,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Moon | 177434 | [177434-eye-of-the-moon.json](./177434-eye-of-the-moon.json) |
 | Eye of the Storm | 299731 | [299731-eye-of-the-storm.json](./299731-eye-of-the-storm.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
+| Eye on You! | 340046 | [340046-eye-on-you.json](./340046-eye-on-you.json) |
 | Eye Transplant : ER Emergency Hospital | 100855 | [100855-eye-transplant-er-emergency-hospital.json](./100855-eye-transplant-er-emergency-hospital.json) |
 | Eye-tai: Kompeito-hen | 202764 | [202764-eye-tai-kompeito-hen.json](./202764-eye-tai-kompeito-hen.json) |
 | Eye-Witness | 271994 | [271994-eye-witness.json](./271994-eye-witness.json) |
