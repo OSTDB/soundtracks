@@ -5350,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Pursuit | 234069 | [234069-atomic-pursuit.json](./234069-atomic-pursuit.json) |
 | Atomic Robo-Kid | 11921 | [11921-atomic-robo-kid.json](./11921-atomic-robo-kid.json) |
 | Atomic Rock Paper Scissors | 180830 | [180830-atomic-rock-paper-scissors.json](./180830-atomic-rock-paper-scissors.json) |
+| Atomic Runner | 376716 | [376716-atomic-runner.json](./376716-atomic-runner.json) |
 | Atomic Runner Chelnov | 46241 | [46241-atomic-runner-chelnov.json](./46241-atomic-runner-chelnov.json) |
 | Atomic Space Command | 33475 | [33475-atomic-space-command.json](./33475-atomic-space-command.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
