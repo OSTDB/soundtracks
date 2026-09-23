@@ -4988,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse-Party: if | 413925 | [413925-corpse-party-if.json](./413925-corpse-party-if.json) |
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
+| Corpus et Spiritus | 389092 | [389092-corpus-et-spiritus.json](./389092-corpus-et-spiritus.json) |
 | Corpus Machina | 375975 | [375975-corpus-machina.json](./375975-corpus-machina.json) |
 | Corr | 245924 | [245924-corr.json](./245924-corr.json) |
 | Corral | 67525 | [67525-corral.json](./67525-corral.json) |
