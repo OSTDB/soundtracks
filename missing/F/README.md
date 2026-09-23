@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famidash | 308404 | [308404-famidash.json](./308404-famidash.json) |
 | Familia | 125470 | [125470-familia.json](./125470-familia.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
+| Familiar: Battle of the Labyrinth | 367630 | [367630-familiar-battle-of-the-labyrinth.json](./367630-familiar-battle-of-the-labyrinth.json) |
 | Family | 138192 | [138192-family.json](./138192-family.json) |
 | Family | 171603 | [171603-family.json](./171603-family.json) |
 | Family | 394827 | [394827-family.json](./394827-family.json) |
@@ -3667,6 +3668,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Better Off Alone | 372011 | [372011-fortnite-festival-better-off-alone.json](./372011-fortnite-festival-better-off-alone.json) |
 | Fortnite Festival: Beyond the Flame | 377256 | [377256-fortnite-festival-beyond-the-flame.json](./377256-fortnite-festival-beyond-the-flame.json) |
 | Fortnite Festival: Born This Way | 372008 | [372008-fortnite-festival-born-this-way.json](./372008-fortnite-festival-born-this-way.json) |
+| Fortnite Festival: Bum Bum | 367583 | [367583-fortnite-festival-bum-bum.json](./367583-fortnite-festival-bum-bum.json) |
+| Fortnite Festival: Drop It like it's hot | 367588 | [367588-fortnite-festival-drop-it-like-its-hot.json](./367588-fortnite-festival-drop-it-like-its-hot.json) |
+| Fortnite Festival: Fade to Black | 367589 | [367589-fortnite-festival-fade-to-black.json](./367589-fortnite-festival-fade-to-black.json) |
+| Fortnite Festival: Mr. Brightside | 367586 | [367586-fortnite-festival-mr-brightside.json](./367586-fortnite-festival-mr-brightside.json) |
+| Fortnite Festival: One | 367587 | [367587-fortnite-festival-one.json](./367587-fortnite-festival-one.json) |
 | Fortnite Festival: Radioactive | 372009 | [372009-fortnite-festival-radioactive.json](./372009-fortnite-festival-radioactive.json) |
 | Fortnite Festival: Sandstorm | 372126 | [372126-fortnite-festival-sandstorm.json](./372126-fortnite-festival-sandstorm.json) |
 | Fortnite Festival: Season 1 | 383943 | [383943-fortnite-festival-season-1.json](./383943-fortnite-festival-season-1.json) |
