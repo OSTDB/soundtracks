@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Wars: Burning Death | 247591 | [247591-sausage-wars-burning-death.json](./247591-sausage-wars-burning-death.json) |
 | Sausage Wars: Complete Edition | 247593 | [247593-sausage-wars-complete-edition.json](./247593-sausage-wars-complete-edition.json) |
 | Sausage Wars: Deadly Levels | 248056 | [248056-sausage-wars-deadly-levels.json](./248056-sausage-wars-deadly-levels.json) |
+| Sausage Wars: Fire Edition | 351239 | [351239-sausage-wars-fire-edition.json](./351239-sausage-wars-fire-edition.json) |
 | Sausage Wars: Gold Edition | 385208 | [385208-sausage-wars-gold-edition.json](./385208-sausage-wars-gold-edition.json) |
 | Sausage Wars: Laser Edition | 364094 | [364094-sausage-wars-laser-edition.json](./364094-sausage-wars-laser-edition.json) |
 | Sausage Wars: Laser Massacre | 248062 | [248062-sausage-wars-laser-massacre.json](./248062-sausage-wars-laser-massacre.json) |
@@ -2737,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
 | Shardbound | 27747 | [27747-shardbound.json](./27747-shardbound.json) |
+| Shardbreakers | 351254 | [351254-shardbreakers.json](./351254-shardbreakers.json) |
 | Sharded World: Backpack Adventure | 279116 | [279116-sharded-world-backpack-adventure.json](./279116-sharded-world-backpack-adventure.json) |
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
@@ -4365,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skellboy | 113101 | [113101-skellboy.json](./113101-skellboy.json) |
 | Skelli Tower Defense | 101390 | [101390-skelli-tower-defense.json](./101390-skelli-tower-defense.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
+| Skelly Screamer | 351276 | [351276-skelly-screamer.json](./351276-skelly-screamer.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
@@ -7414,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
 | Spaceship For Newbies | 152745 | [152745-spaceship-for-newbies.json](./152745-spaceship-for-newbies.json) |
 | Spaceship Hunters | 184512 | [184512-spaceship-hunters.json](./184512-spaceship-hunters.json) |
+| Spaceship Man 2 | 351258 | [351258-spaceship-man-2.json](./351258-spaceship-man-2.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
 | SpaceShooter | 413900 | [413900-spaceshooter.json](./413900-spaceshooter.json) |
@@ -7803,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Sphinx and the Cursed Mummy | 210438 | [210438-sphinx-and-the-cursed-mummy.json](./210438-sphinx-and-the-cursed-mummy.json) |
 | Sphinx Lowering | 229819 | [229819-sphinx-lowering.json](./229819-sphinx-lowering.json) |
+| Sphirit | 351266 | [351266-sphirit.json](./351266-sphirit.json) |
 | Sphongos | 345562 | [345562-sphongos.json](./345562-sphongos.json) |
 | Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
 | Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
@@ -8530,6 +8535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack! | 191216 | [191216-stack.json](./191216-stack.json) |
 | Stack'em | 206976 | [206976-stackem.json](./206976-stackem.json) |
 | Stack'em HD | 355001 | [355001-stackem-hd.json](./355001-stackem-hd.json) |
+| Stackbound | 351255 | [351255-stackbound.json](./351255-stackbound.json) |
 | Stackflow | 361687 | [361687-stackflow.json](./361687-stackflow.json) |
 | StackFortress | 88012 | [88012-stackfortress.json](./88012-stackfortress.json) |
 | Stacking | 4851 | [4851-stacking.json](./4851-stacking.json) |
@@ -10777,6 +10783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SUGOI | 304183 | [304183-sugoi.json](./304183-sugoi.json) |
 | Sugoi Adventure! DragonSlayer | 216867 | [216867-sugoi-adventure-dragonslayer.json](./216867-sugoi-adventure-dragonslayer.json) |
 | Sugoi Girls: Dental Darling | 389073 | [389073-sugoi-girls-dental-darling.json](./389073-sugoi-girls-dental-darling.json) |
+| Sugoi Girls: Dragon Love | 351232 | [351232-sugoi-girls-dragon-love.json](./351232-sugoi-girls-dragon-love.json) |
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
 | Sugoi Girls: Madame Fantasy | 376764 | [376764-sugoi-girls-madame-fantasy.json](./376764-sugoi-girls-madame-fantasy.json) |
 | Sugoi Girls: Mighty Mecha | 317230 | [317230-sugoi-girls-mighty-mecha.json](./317230-sugoi-girls-mighty-mecha.json) |
@@ -12111,7 +12118,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Strong Warriors | 64922 | [64922-super-strong-warriors.json](./64922-super-strong-warriors.json) |
 | Super Stunt Spectacular | 208350 | [208350-super-stunt-spectacular.json](./208350-super-stunt-spectacular.json) |
 | Super Stuntman | 55083 | [55083-super-stuntman.json](./55083-super-stuntman.json) |
+| Super Sucker | 351233 | [351233-super-sucker.json](./351233-super-sucker.json) |
 | Super Sucker: Clever Edition | 362371 | [362371-super-sucker-clever-edition.json](./362371-super-sucker-clever-edition.json) |
+| Super Sucker: Silly DLC | 351242 | [351242-super-sucker-silly-dlc.json](./351242-super-sucker-silly-dlc.json) |
+| Super Sucker: Smart DLC | 351241 | [351241-super-sucker-smart-dlc.json](./351241-super-sucker-smart-dlc.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
 | Super Sushi Roll | 219575 | [219575-super-sushi-roll.json](./219575-super-sushi-roll.json) |
@@ -12749,6 +12759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Story Neko | 371441 | [371441-sweet-story-neko.json](./371441-sweet-story-neko.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
+| Sweet Survivors: Funky Edition | 351240 | [351240-sweet-survivors-funky-edition.json](./351240-sweet-survivors-funky-edition.json) |
 | Sweet Survivors: Gold Edition | 385210 | [385210-sweet-survivors-gold-edition.json](./385210-sweet-survivors-gold-edition.json) |
 | Sweet Tank | 392922 | [392922-sweet-tank.json](./392922-sweet-tank.json) |
 | Sweet Thomas | 126645 | [126645-sweet-thomas.json](./126645-sweet-thomas.json) |
