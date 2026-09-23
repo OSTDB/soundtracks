@@ -9210,6 +9210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachi Life | 6403 | [6403-tomodachi-life.json](./6403-tomodachi-life.json) |
+| Tomodachi Life: The Gay Mod | 350609 | [350609-tomodachi-life-the-gay-mod.json](./350609-tomodachi-life-the-gay-mod.json) |
 | Tomodachi-kun | 398580 | [398580-tomodachi-kun.json](./398580-tomodachi-kun.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
