@@ -2513,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gori: Cuddly Carnage: Catbox Skin Pack | 357268 | [357268-gori-cuddly-carnage-catbox-skin-pack.json](./357268-gori-cuddly-carnage-catbox-skin-pack.json) |
 | Gori: Cuddly Carnage: PlayTime Skin Pack | 357267 | [357267-gori-cuddly-carnage-playtime-skin-pack.json](./357267-gori-cuddly-carnage-playtime-skin-pack.json) |
 | Gorilla Attack | 329000 | [329000-gorilla-attack.json](./329000-gorilla-attack.json) |
+| Gorilla Banana | 375451 | [375451-gorilla-banana.json](./375451-gorilla-banana.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
 | Gorillas | 308395 | [308395-gorillas.json](./308395-gorillas.json) |
 | Gorillaz - Escape to Plastic Beach | 66158 | [66158-gorillaz-escape-to-plastic-beach.json](./66158-gorillaz-escape-to-plastic-beach.json) |
