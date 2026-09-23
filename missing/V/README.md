@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vex 2 | 402308 | [402308-vex-2.json](./402308-vex-2.json) |
 | Vex 6 | 188039 | [188039-vex-6.json](./188039-vex-6.json) |
 | Vex Clock | 216857 | [216857-vex-clock.json](./216857-vex-clock.json) |
+| Vex Mage | 360778 | [360778-vex-mage.json](./360778-vex-mage.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
 | Veyora | 386298 | [386298-veyora.json](./386298-veyora.json) |
