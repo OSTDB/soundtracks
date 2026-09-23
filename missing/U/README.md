@@ -513,6 +513,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters: New Horizons | 38412 | [38412-uncharted-waters-new-horizons.json](./38412-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 45539 | [45539-uncharted-waters-new-horizons.json](./45539-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
+| Uncharted: Fight for Fortune - Among Thieves Expansion | 381859 | [381859-uncharted-fight-for-fortune-among-thieves-expansion.json](./381859-uncharted-fight-for-fortune-among-thieves-expansion.json) |
+| Uncharted: Fight for Fortune - Drake's Deception Expansion | 381860 | [381860-uncharted-fight-for-fortune-drakes-deception-expansion.json](./381860-uncharted-fight-for-fortune-drakes-deception-expansion.json) |
 | Uncharted: The Lost Legacy - Remastered | 168669 | [168669-uncharted-the-lost-legacy-remastered.json](./168669-uncharted-the-lost-legacy-remastered.json) |
 | Unclaimed World | 17130 | [17130-unclaimed-world.json](./17130-unclaimed-world.json) |
 | Uncle Albert's Fabulous Voyage | 25916 | [25916-uncle-alberts-fabulous-voyage.json](./25916-uncle-alberts-fabulous-voyage.json) |
