@@ -2892,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Danger: Ultimate Edition | 84531 | [84531-grave-danger-ultimate-edition.json](./84531-grave-danger-ultimate-edition.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
+| Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
 | Grave Yardage | 94545 | [94545-grave-yardage.json](./94545-grave-yardage.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
