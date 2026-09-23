@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day | 242631 | [242631-the-day.json](./242631-the-day.json) |
 | The Day Before | 142901 | [142901-the-day-before.json](./142901-the-day-before.json) |
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
+| The Day of the Jellyfish | 368154 | [368154-the-day-of-the-jellyfish.json](./368154-the-day-of-the-jellyfish.json) |
 | The Day That Changed My Life | 224642 | [224642-the-day-that-changed-my-life.json](./224642-the-day-that-changed-my-life.json) |
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
 | The Day the World Changed | 97713 | [97713-the-day-the-world-changed.json](./97713-the-day-the-world-changed.json) |
@@ -11691,6 +11692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Gallery | 382197 | [382197-twilight-gallery.json](./382197-twilight-gallery.json) |
 | Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
 | Twilight Host Club | 298888 | [298888-twilight-host-club.json](./298888-twilight-host-club.json) |
+| Twilight Imperium Digital | 368136 | [368136-twilight-imperium-digital.json](./368136-twilight-imperium-digital.json) |
 | Twilight Infiniforest | 408161 | [408161-twilight-infiniforest.json](./408161-twilight-infiniforest.json) |
 | Twilight Insanity | 65485 | [65485-twilight-insanity.json](./65485-twilight-insanity.json) |
 | Twilight Mahjongg | 73225 | [73225-twilight-mahjongg.json](./73225-twilight-mahjongg.json) |
