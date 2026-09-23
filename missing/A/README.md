@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Collection of Bad Moments | 68618 | [68618-a-collection-of-bad-moments.json](./68618-a-collection-of-bad-moments.json) |
 | A Coloring Break: Expansion pack 6 | 357772 | [357772-a-coloring-break-expansion-pack-6.json](./357772-a-coloring-break-expansion-pack-6.json) |
 | A Coloring Break: Expansion pack 8 | 357774 | [357774-a-coloring-break-expansion-pack-8.json](./357774-a-coloring-break-expansion-pack-8.json) |
+| A Comfy Place | 342271 | [342271-a-comfy-place.json](./342271-a-comfy-place.json) |
 | A Compendium of Ghosts | 102155 | [102155-a-compendium-of-ghosts.json](./102155-a-compendium-of-ghosts.json) |
 | A Completely Fictional Story About a City Inside a Whale | 253992 | [253992-a-completely-fictional-story-about-a-city-inside-a-whale.json](./253992-a-completely-fictional-story-about-a-city-inside-a-whale.json) |
 | A Completely Normal Dating Simulation That is Definitely Completely Sweet, Innocent and Normal | 135015 | [135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json](./135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json) |
@@ -3850,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARC: Antic Runes Combat | 294277 | [294277-arc-antic-runes-combat.json](./294277-arc-antic-runes-combat.json) |
 | ARCA Sim Racing 08' | 197936 | [197936-arca-sim-racing-08.json](./197936-arca-sim-racing-08.json) |
 | ARCA Sim Racing X | 197923 | [197923-arca-sim-racing-x.json](./197923-arca-sim-racing-x.json) |
+| ARCA-102 | 342290 | [342290-arca-102.json](./342290-arca-102.json) |
 | Arca's Path | 103053 | [103053-arcas-path.json](./103053-arcas-path.json) |
 | Arcade & Action: XP Championship | 206131 | [206131-arcade-and-action-xp-championship.json](./206131-arcade-and-action-xp-championship.json) |
 | Arcade & Puzzle Games | 79626 | [79626-arcade-and-puzzle-games.json](./79626-arcade-and-puzzle-games.json) |
@@ -5555,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Altair | 69848 | [69848-attack-on-altair.json](./69848-attack-on-altair.json) |
 | Attack on Beetle | 187467 | [187467-attack-on-beetle.json](./187467-attack-on-beetle.json) |
 | Attack on Hex Island | 239665 | [239665-attack-on-hex-island.json](./239665-attack-on-hex-island.json) |
+| Attack on Inirea | 342254 | [342254-attack-on-inirea.json](./342254-attack-on-inirea.json) |
 | Attack on King: Reloaded | 226225 | [226225-attack-on-king-reloaded.json](./226225-attack-on-king-reloaded.json) |
 | Attack on Lothal | 359445 | [359445-attack-on-lothal.json](./359445-attack-on-lothal.json) |
 | Attack on Mutation Station | 307118 | [307118-attack-on-mutation-station.json](./307118-attack-on-mutation-station.json) |
