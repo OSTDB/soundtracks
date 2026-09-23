@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not a Hero | 6045 | [6045-not-a-hero.json](./6045-not-a-hero.json) |
 | Not a Hero - Me, Myself & Bunnylord | 140548 | [140548-not-a-hero-me-myself-and-bunnylord.json](./140548-not-a-hero-me-myself-and-bunnylord.json) |
 | Not a Prank | 118977 | [118977-not-a-prank.json](./118977-not-a-prank.json) |
+| Not Again, Hero | 364684 | [364684-not-again-hero.json](./364684-not-again-hero.json) |
 | Not All There | 229781 | [229781-not-all-there.json](./229781-not-all-there.json) |
 | Not Alone | 108847 | [108847-not-alone.json](./108847-not-alone.json) |
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
