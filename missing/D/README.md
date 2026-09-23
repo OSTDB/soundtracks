@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day R | 82855 | [82855-day-r.json](./82855-day-r.json) |
 | Day Seven | 125268 | [125268-day-seven.json](./125268-day-seven.json) |
 | Day Trader Tycoon | 386890 | [386890-day-trader-tycoon.json](./386890-day-trader-tycoon.json) |
+| Day Zero | 360201 | [360201-day-zero.json](./360201-day-zero.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
@@ -1277,6 +1278,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 3: Operation Broken Eagle | 20933 | [20933-dead-rising-3-operation-broken-eagle.json](./20933-dead-rising-3-operation-broken-eagle.json) |
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising 4: Deluxe Edition | 52871 | [52871-dead-rising-4-deluxe-edition.json](./52871-dead-rising-4-deluxe-edition.json) |
+| Dead Rising Deluxe Remaster: Costume & BGM - Ashley Graham | 360166 | [360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json](./360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json) |
+| Dead Rising Deluxe Remaster: Costume & BGM - Chainsaw Villager | 360164 | [360164-dead-rising-deluxe-remaster-costume-and-bgm-chainsaw-villager.json](./360164-dead-rising-deluxe-remaster-costume-and-bgm-chainsaw-villager.json) |
+| Dead Rising Deluxe Remaster: Costume & BGM - Chris Redfield | 360161 | [360161-dead-rising-deluxe-remaster-costume-and-bgm-chris-redfield.json](./360161-dead-rising-deluxe-remaster-costume-and-bgm-chris-redfield.json) |
+| Dead Rising Deluxe Remaster: Costume & BGM - Lan Hikari | 360170 | [360170-dead-rising-deluxe-remaster-costume-and-bgm-lan-hikari.json](./360170-dead-rising-deluxe-remaster-costume-and-bgm-lan-hikari.json) |
+| Dead Rising Deluxe Remaster: Costume & BGM - Leon S. Kennedy | 360168 | [360168-dead-rising-deluxe-remaster-costume-and-bgm-leon-s-kennedy.json](./360168-dead-rising-deluxe-remaster-costume-and-bgm-leon-s-kennedy.json) |
+| Dead Rising Deluxe Remaster: Costume & BGM - Licker | 360165 | [360165-dead-rising-deluxe-remaster-costume-and-bgm-licker.json](./360165-dead-rising-deluxe-remaster-costume-and-bgm-licker.json) |
+| Dead Rising Deluxe Remaster: Costume & BGM - Nemesis | 360169 | [360169-dead-rising-deluxe-remaster-costume-and-bgm-nemesis.json](./360169-dead-rising-deluxe-remaster-costume-and-bgm-nemesis.json) |
+| Dead Rising Deluxe Remaster: Costume & BGM - Rikuo | 360167 | [360167-dead-rising-deluxe-remaster-costume-and-bgm-rikuo.json](./360167-dead-rising-deluxe-remaster-costume-and-bgm-rikuo.json) |
+| Dead Rising Deluxe Remaster: Costume & BGM - Sheriff | 360163 | [360163-dead-rising-deluxe-remaster-costume-and-bgm-sheriff.json](./360163-dead-rising-deluxe-remaster-costume-and-bgm-sheriff.json) |
+| Dead Rising Deluxe Remaster: Costume & BGM - Tron Bonne | 360162 | [360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json](./360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json) |
 | Dead Rising mobile | 81391 | [81391-dead-rising-mobile.json](./81391-dead-rising-mobile.json) |
 | Dead Rising/Gears of War | 141217 | [141217-dead-rising-gears-of-war.json](./141217-dead-rising-gears-of-war.json) |
 | Dead Room | 301998 | [301998-dead-room.json](./301998-dead-room.json) |
@@ -4076,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
 | Doki Doki Our Final Heartbeat | 333609 | [333609-doki-doki-our-final-heartbeat.json](./333609-doki-doki-our-final-heartbeat.json) |
+| Doki Doki Pokémon Club! | 360183 | [360183-doki-doki-pokemon-club.json](./360183-doki-doki-pokemon-club.json) |
 | Doki Doki Ragnarok | 143512 | [143512-doki-doki-ragnarok.json](./143512-doki-doki-ragnarok.json) |
 | Doki Doki Salvation Remake! | 342072 | [342072-doki-doki-salvation-remake.json](./342072-doki-doki-salvation-remake.json) |
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
