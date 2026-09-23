@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Don Don! | 385332 | [385332-neko-don-don.json](./385332-neko-don-don.json) |
 | Neko Gacha | 228543 | [228543-neko-gacha.json](./228543-neko-gacha.json) |
 | Neko Gelato | 353995 | [353995-neko-gelato.json](./353995-neko-gelato.json) |
+| Neko Girls | 368109 | [368109-neko-girls.json](./368109-neko-girls.json) |
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Michi | 385601 | [385601-neko-michi.json](./385601-neko-michi.json) |
 | Neko Miko Kaibyo Shioki No Emaki | 406901 | [406901-neko-miko-kaibyo-shioki-no-emaki.json](./406901-neko-miko-kaibyo-shioki-no-emaki.json) |
