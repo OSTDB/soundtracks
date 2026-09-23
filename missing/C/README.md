@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
 | CardWirth | 172774 | [172774-cardwirth.json](./172774-cardwirth.json) |
+| Cardwoven Empires | 337828 | [337828-cardwoven-empires.json](./337828-cardwoven-empires.json) |
 | Care | 325046 | [325046-care.json](./325046-care.json) |
 | Care Bears: A Lesson in Caring | 65501 | [65501-care-bears-a-lesson-in-caring.json](./65501-care-bears-a-lesson-in-caring.json) |
 | Care Bears: Care Karts | 280788 | [280788-care-bears-care-karts.json](./280788-care-bears-care-karts.json) |
