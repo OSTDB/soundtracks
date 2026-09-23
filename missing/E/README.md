@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
 | Edda Café | 144115 | [144115-edda-cafe.json](./144115-edda-cafe.json) |
+| Edda Physics 1 | 389084 | [389084-edda-physics-1.json](./389084-edda-physics-1.json) |
 | Eddie’s Last Shift | 414537 | [414537-eddie-s-last-shift.json](./414537-eddie-s-last-shift.json) |
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
 | EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
@@ -2861,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes First: Tile Slide | 210743 | [210743-eyes-first-tile-slide.json](./210743-eyes-first-tile-slide.json) |
 | Eyes of Souls | 177948 | [177948-eyes-of-souls.json](./177948-eyes-of-souls.json) |
 | Eyes of the Factory | 408185 | [408185-eyes-of-the-factory.json](./408185-eyes-of-the-factory.json) |
+| Eyes of the Forest | 389087 | [389087-eyes-of-the-forest.json](./389087-eyes-of-the-forest.json) |
 | Eyes of the Killer | 150095 | [150095-eyes-of-the-killer.json](./150095-eyes-of-the-killer.json) |
 | Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
