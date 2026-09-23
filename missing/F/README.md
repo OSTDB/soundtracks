@@ -4412,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fronte del Basket 2007/2008 | 98952 | [98952-fronte-del-basket-2007-2008.json](./98952-fronte-del-basket-2007-2008.json) |
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
 | Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
+| Frontier Brain | 376129 | [376129-frontier-brain.json](./376129-frontier-brain.json) |
 | Frontier Days: Founding Pioneers | 85165 | [85165-frontier-days-founding-pioneers.json](./85165-frontier-days-founding-pioneers.json) |
 | Frontier Force | 345611 | [345611-frontier-force.json](./345611-frontier-force.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
