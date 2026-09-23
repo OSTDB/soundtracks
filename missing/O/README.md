@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
 | Oldorf's Revenge | 24847 | [24847-oldorfs-revenge.json](./24847-oldorfs-revenge.json) |
 | Oldowan | 211222 | [211222-oldowan.json](./211222-oldowan.json) |
+| Oldschool Tennis | 367591 | [367591-oldschool-tennis.json](./367591-oldschool-tennis.json) |
 | oldTail | 98990 | [98990-oldtail.json](./98990-oldtail.json) |
 | OldTV | 80544 | [80544-oldtv.json](./80544-oldtv.json) |
 | Ole! | 93045 | [93045-ole.json](./93045-ole.json) |
@@ -1129,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only The Lost Shall See | 341508 | [341508-only-the-lost-shall-see.json](./341508-only-the-lost-shall-see.json) |
 | Only the Rich May Die | 270940 | [270940-only-the-rich-may-die.json](./270940-only-the-rich-may-die.json) |
 | Only Trump: Up To Presidents! | 341509 | [341509-only-trump-up-to-presidents.json](./341509-only-trump-up-to-presidents.json) |
+| Only Up 2025 | 367590 | [367590-only-up-2025.json](./367590-only-up-2025.json) |
 | Only Up: Skibidi | 310922 | [310922-only-up-skibidi.json](./310922-only-up-skibidi.json) |
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
 | Only Up? Climb the Tower! | 343245 | [343245-only-up-climb-the-tower.json](./343245-only-up-climb-the-tower.json) |
@@ -1604,7 +1606,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! | 222425 | [222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json](./222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json) |
 | Osyaberi! Puzzle Chigatan: Spot the Differences with Everyone | 147824 | [147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json](./147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json) |
 | Otaku Miracles | 333067 | [333067-otaku-miracles.json](./333067-otaku-miracles.json) |
+| Otaku Puzzle | 367624 | [367624-otaku-puzzle.json](./367624-otaku-puzzle.json) |
 | Otaku's Adventure: The World Just Keeps Turning | 299119 | [299119-otakus-adventure-the-world-just-keeps-turning.json](./299119-otakus-adventure-the-world-just-keeps-turning.json) |
+| Otaku's Challenge | 367628 | [367628-otakus-challenge.json](./367628-otakus-challenge.json) |
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
 | Othello | 134419 | [134419-othello.json](./134419-othello.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
