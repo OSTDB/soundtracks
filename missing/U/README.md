@@ -1255,6 +1255,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Us vs. Them | 232014 | [232014-us-vs-them.json](./232014-us-vs-them.json) |
 | Us vs. Them | 25631 | [25631-us-vs-them.json](./25631-us-vs-them.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
+| USA Nature's Trails Jigsaw Edition: Expansion Pack 1 | 357959 | [357959-usa-natures-trails-jigsaw-edition-expansion-pack-1.json](./357959-usa-natures-trails-jigsaw-edition-expansion-pack-1.json) |
+| USA Nature's Trails Jigsaw Edition: Expansion Pack 2 | 357960 | [357960-usa-natures-trails-jigsaw-edition-expansion-pack-2.json](./357960-usa-natures-trails-jigsaw-edition-expansion-pack-2.json) |
+| USA Nature's Trails Jigsaw Edition: Expansion Pack 3 | 357961 | [357961-usa-natures-trails-jigsaw-edition-expansion-pack-3.json](./357961-usa-natures-trails-jigsaw-edition-expansion-pack-3.json) |
+| USA Nature's Trails Jigsaw Edition: Expansion Pack 4 | 357962 | [357962-usa-natures-trails-jigsaw-edition-expansion-pack-4.json](./357962-usa-natures-trails-jigsaw-edition-expansion-pack-4.json) |
 | USA Racer | 62146 | [62146-usa-racer.json](./62146-usa-racer.json) |
 | USA Today: Puzzle Craze | 206213 | [206213-usa-today-puzzle-craze.json](./206213-usa-today-puzzle-craze.json) |
 | Usagi | 202342 | [202342-usagi.json](./202342-usagi.json) |
