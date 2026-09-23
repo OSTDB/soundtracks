@@ -6023,6 +6023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buramato | 214744 | [214744-buramato.json](./214744-buramato.json) |
 | Burari Sekai Untei | 295914 | [295914-burari-sekai-untei.json](./295914-burari-sekai-untei.json) |
 | Burasagatte Iru Kiji | 261809 | [261809-burasagatte-iru-kiji.json](./261809-burasagatte-iru-kiji.json) |
+| Burden RPG | 388403 | [388403-burden-rpg.json](./388403-burden-rpg.json) |
 | Burg Battle | 153391 | [153391-burg-battle.json](./153391-burg-battle.json) |
 | Burg Schreckenstein: Der Dieb von Burg Schreckenstein | 376559 | [376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json](./376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json) |
 | Burgaholic | 343793 | [343793-burgaholic.json](./343793-burgaholic.json) |
