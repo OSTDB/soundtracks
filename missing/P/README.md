@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peg Champ | 411111 | [411111-peg-champ.json](./411111-peg-champ.json) |
 | Peg Solitaire | 171493 | [171493-peg-solitaire.json](./171493-peg-solitaire.json) |
 | Peg Solitaire | 57062 | [57062-peg-solitaire.json](./57062-peg-solitaire.json) |
+| Peg Solitaire Pro | 391343 | [391343-peg-solitaire-pro.json](./391343-peg-solitaire-pro.json) |
 | Pega Game | 333614 | [333614-pega-game.json](./333614-pega-game.json) |
 | Pegafuerte el Terrible | 249479 | [249479-pegafuerte-el-terrible.json](./249479-pegafuerte-el-terrible.json) |
 | Peganomics | 371999 | [371999-peganomics.json](./371999-peganomics.json) |
@@ -3410,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plus Plum 2 | 62227 | [62227-plus-plum-2.json](./62227-plus-plum-2.json) |
 | Plus Ultra: Legado | 276828 | [276828-plus-ultra-legado.json](./276828-plus-ultra-legado.json) |
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
+| Plush Parade | 391336 | [391336-plush-parade.json](./391336-plush-parade.json) |
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
 | Plush Wars | 88753 | [88753-plush-wars.json](./88753-plush-wars.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
