@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Factory Roguelike | 379570 | [379570-a-factory-roguelike.json](./379570-a-factory-roguelike.json) |
 | A Fading Melody | 68650 | [68650-a-fading-melody.json](./68650-a-fading-melody.json) |
 | A Familiar Fairytale: Dyslexic Text Based Adventure | 124174 | [124174-a-familiar-fairytale-dyslexic-text-based-adventure.json](./124174-a-familiar-fairytale-dyslexic-text-based-adventure.json) |
+| A Familiar World | 367615 | [367615-a-familiar-world.json](./367615-a-familiar-world.json) |
 | A Fascinating Story | 297057 | [297057-a-fascinating-story.json](./297057-a-fascinating-story.json) |
 | A Fascinating Story: Wedding Night | 283880 | [283880-a-fascinating-story-wedding-night.json](./283880-a-fascinating-story-wedding-night.json) |
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
@@ -4234,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arengius | 132653 | [132653-arengius.json](./132653-arengius.json) |
 | Arenum | 324897 | [324897-arenum.json](./324897-arenum.json) |
 | Ares | 93968 | [93968-ares.json](./93968-ares.json) |
+| Ares Fighter | 367595 | [367595-ares-fighter.json](./367595-ares-fighter.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
 | Aretha II: Ariel no Fushigi na Tabi | 15896 | [15896-aretha-ii-ariel-no-fushigi-na-tabi.json](./15896-aretha-ii-ariel-no-fushigi-na-tabi.json) |
