@@ -1426,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Clock | 324256 | [324256-hell-clock.json](./324256-hell-clock.json) |
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
 | Hell Crusher | 202845 | [202845-hell-crusher.json](./202845-hell-crusher.json) |
+| Hell Dice Gambit | 388396 | [388396-hell-dice-gambit.json](./388396-hell-dice-gambit.json) |
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
 | Hell Dungeons: The Lost Soul | 236362 | [236362-hell-dungeons-the-lost-soul.json](./236362-hell-dungeons-the-lost-soul.json) |
 | Hell Fire: Seed of Calamity | 418727 | [418727-hell-fire-seed-of-calamity.json](./418727-hell-fire-seed-of-calamity.json) |
@@ -1499,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbrella | 345003 | [345003-hellbrella.json](./345003-hellbrella.json) |
 | Hellcam | 354486 | [354486-hellcam.json](./354486-hellcam.json) |
 | Hellcard | 127193 | [127193-hellcard.json](./127193-hellcard.json) |
+| Hellcard II | 388355 | [388355-hellcard-ii.json](./388355-hellcard-ii.json) |
 | Hellcats: Missions at Leyte Gulf | 337196 | [337196-hellcats-missions-at-leyte-gulf.json](./337196-hellcats-missions-at-leyte-gulf.json) |
 | Hellcrown | 412367 | [412367-hellcrown.json](./412367-hellcrown.json) |
 | Helldivers | 14523 | [14523-helldivers.json](./14523-helldivers.json) |
