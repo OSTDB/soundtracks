@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
 | Jackpot | 246954 | [246954-jackpot.json](./246954-jackpot.json) |
 | Jackpot 777 | 85201 | [85201-jackpot-777.json](./85201-jackpot-777.json) |
+| Jackpot Crash Course | 374296 | [374296-jackpot-crash-course.json](./374296-jackpot-crash-course.json) |
 | Jackpot Slots | 323151 | [323151-jackpot-slots.json](./323151-jackpot-slots.json) |
 | Jackpot Stadium | 91733 | [91733-jackpot-stadium.json](./91733-jackpot-stadium.json) |
 | Jackpot Tycoon | 210128 | [210128-jackpot-tycoon.json](./210128-jackpot-tycoon.json) |
@@ -964,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Life 4 | 336636 | [336636-joy-life-4.json](./336636-joy-life-4.json) |
 | Joy Match 3D | 255796 | [255796-joy-match-3d.json](./255796-joy-match-3d.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
+| Joymaker | 374284 | [374284-joymaker.json](./374284-joymaker.json) |
 | Joyman | 40203 | [40203-joyman.json](./40203-joyman.json) |
 | Joyo Kanji Quiz | 99646 | [99646-joyo-kanji-quiz.json](./99646-joyo-kanji-quiz.json) |
 | Joyquarium | 337072 | [337072-joyquarium.json](./337072-joyquarium.json) |
