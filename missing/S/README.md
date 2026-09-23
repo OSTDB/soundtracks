@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
 | Scarlet 7: The Mightiest Women | 70930 | [70930-scarlet-7-the-mightiest-women.json](./70930-scarlet-7-the-mightiest-women.json) |
 | Scarlet and Blank | 180674 | [180674-scarlet-and-blank.json](./180674-scarlet-and-blank.json) |
+| Scarlet City of Devils | 356880 | [356880-scarlet-city-of-devils.json](./356880-scarlet-city-of-devils.json) |
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
@@ -2794,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterbrain | 96977 | [96977-shatterbrain.json](./96977-shatterbrain.json) |
 | Shattered | 325043 | [325043-shattered.json](./325043-shattered.json) |
 | Shattered | 65791 | [65791-shattered.json](./65791-shattered.json) |
+| Shattered Dimension | 356879 | [356879-shattered-dimension.json](./356879-shattered-dimension.json) |
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
 | Shattered Earth | 315109 | [315109-shattered-earth.json](./315109-shattered-earth.json) |
 | Shattered Echoes | 278512 | [278512-shattered-echoes.json](./278512-shattered-echoes.json) |
@@ -2896,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelley Duvall's It's a Bird's Life | 79294 | [79294-shelley-duvalls-its-a-birds-life.json](./79294-shelley-duvalls-its-a-birds-life.json) |
 | Shellguard: Starbound Expansion Remastered | 357316 | [357316-shellguard-starbound-expansion-remastered.json](./357316-shellguard-starbound-expansion-remastered.json) |
 | Shellie's Secret | 378169 | [378169-shellies-secret.json](./378169-shellies-secret.json) |
+| ShellPieces | 356894 | [356894-shellpieces.json](./356894-shellpieces.json) |
 | Shells Delivery | 267918 | [267918-shells-delivery.json](./267918-shells-delivery.json) |
 | Shells Delivery Deluxe | 267917 | [267917-shells-delivery-deluxe.json](./267917-shells-delivery-deluxe.json) |
 | Shells Shooter | 340378 | [340378-shells-shooter.json](./340378-shells-shooter.json) |
@@ -3389,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 12: Halloween at the Walkers | 341872 | [341872-shopping-clutter-12-halloween-at-the-walkers.json](./341872-shopping-clutter-12-halloween-at-the-walkers.json) |
 | Shopping Clutter 14: Winter Garden | 341874 | [341874-shopping-clutter-14-winter-garden.json](./341874-shopping-clutter-14-winter-garden.json) |
 | Shopping Clutter 15: Around the Campfire | 341870 | [341870-shopping-clutter-15-around-the-campfire.json](./341870-shopping-clutter-15-around-the-campfire.json) |
+| Shopping Clutter 16: Happy Birthday | 356834 | [356834-shopping-clutter-16-happy-birthday.json](./356834-shopping-clutter-16-happy-birthday.json) |
 | Shopping Clutter 19: Black Friday | 341871 | [341871-shopping-clutter-19-black-friday.json](./341871-shopping-clutter-19-black-friday.json) |
 | Shopping Clutter 21: Coffeehouse | 342074 | [342074-shopping-clutter-21-coffeehouse.json](./342074-shopping-clutter-21-coffeehouse.json) |
 | Shopping Clutter 22: Haute Couture | 341868 | [341868-shopping-clutter-22-haute-couture.json](./341868-shopping-clutter-22-haute-couture.json) |
@@ -5270,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smooth Mover | 120956 | [120956-smooth-mover.json](./120956-smooth-mover.json) |
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
 | Smoothie Swipe | 248646 | [248646-smoothie-swipe.json](./248646-smoothie-swipe.json) |
+| Smoots Crazy Wave | 356841 | [356841-smoots-crazy-wave.json](./356841-smoots-crazy-wave.json) |
 | Smoots Pinball | 260221 | [260221-smoots-pinball.json](./260221-smoots-pinball.json) |
 | Smoots Summer Games | 120795 | [120795-smoots-summer-games.json](./120795-smoots-summer-games.json) |
 | Smoots World Cup Tennis | 24720 | [24720-smoots-world-cup-tennis.json](./24720-smoots-world-cup-tennis.json) |
@@ -6645,6 +6650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer of Fortune | 175439 | [175439-sorcerer-of-fortune.json](./175439-sorcerer-of-fortune.json) |
 | Sorcerer of Revenge | 134636 | [134636-sorcerer-of-revenge.json](./134636-sorcerer-of-revenge.json) |
 | Sorcerer Standoff | 219590 | [219590-sorcerer-standoff.json](./219590-sorcerer-standoff.json) |
+| Sorcerer's Bane | 356842 | [356842-sorcerers-bane.json](./356842-sorcerers-bane.json) |
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
 | Sorcerer's Kingdom | 46197 | [46197-sorcerers-kingdom.json](./46197-sorcerers-kingdom.json) |
 | Sorcerer's Mid-month Exam | 247613 | [247613-sorcerers-mid-month-exam.json](./247613-sorcerers-mid-month-exam.json) |
@@ -10708,6 +10714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku-Mini | 366324 | [366324-sudoku-mini.json](./366324-sudoku-mini.json) |
 | Sudoku-Pro | 366323 | [366323-sudoku-pro.json](./366323-sudoku-pro.json) |
 | Sudoku: Casual Board Game | 250393 | [250393-sudoku-casual-board-game.json](./250393-sudoku-casual-board-game.json) |
+| Sudoku: Classic Sudoku Puzzle | 356882 | [356882-sudoku-classic-sudoku-puzzle.json](./356882-sudoku-classic-sudoku-puzzle.json) |
 | Sudoku: The Clean One | 180244 | [180244-sudoku-the-clean-one.json](./180244-sudoku-the-clean-one.json) |
 | Sudoku: Unlimited Expansion | 405622 | [405622-sudoku-unlimited-expansion.json](./405622-sudoku-unlimited-expansion.json) |
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
@@ -10955,6 +10962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Wukong VS Robot | 113725 | [113725-sun-wukong-vs-robot.json](./113725-sun-wukong-vs-robot.json) |
 | Sun-Rise.exe | 264612 | [264612-sun-rise-exe.json](./264612-sun-rise-exe.json) |
 | Suna | 87948 | [87948-suna.json](./87948-suna.json) |
+| Sunberry Valley | 356846 | [356846-sunberry-valley.json](./356846-sunberry-valley.json) |
 | Sunberry Village | 384778 | [384778-sunberry-village.json](./384778-sunberry-village.json) |
 | Sunbreak War | 373759 | [373759-sunbreak-war.json](./373759-sunbreak-war.json) |
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
@@ -13038,6 +13046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Pong | 235759 | [235759-synth-pong.json](./235759-synth-pong.json) |
 | Synth Riders | 105333 | [105333-synth-riders.json](./105333-synth-riders.json) |
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
+| Synth Riders: 80s Mixtape - Side A | 356903 | [356903-synth-riders-80s-mixtape-side-a.json](./356903-synth-riders-80s-mixtape-side-a.json) |
 | Synth Riders: A-ha - "Take On Me" | 298699 | [298699-synth-riders-a-ha-take-on-me.json](./298699-synth-riders-a-ha-take-on-me.json) |
 | Synth Riders: Bad Religion - "21st Century (Digital Boy)" | 356085 | [356085-synth-riders-bad-religion-21st-century-digital-boy.json](./356085-synth-riders-bad-religion-21st-century-digital-boy.json) |
 | Synth Riders: Balduin, Wolfgang Lohr - "Magic Man" | 288233 | [288233-synth-riders-balduin-wolfgang-lohr-magic-man.json](./288233-synth-riders-balduin-wolfgang-lohr-magic-man.json) |
@@ -13048,6 +13057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Cut Capers - "Let's Start Again (Odd Chap Remix)" | 288234 | [288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json](./288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json) |
 | Synth Riders: Daryl Hall & John Oates - "Out of Touch" | 353389 | [353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json](./353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json) |
 | Synth Riders: Devo - "Whip It" | 298700 | [298700-synth-riders-devo-whip-it.json](./298700-synth-riders-devo-whip-it.json) |
+| Synth Riders: Electro Swing Essentials 2 | 356902 | [356902-synth-riders-electro-swing-essentials-2.json](./356902-synth-riders-electro-swing-essentials-2.json) |
 | Synth Riders: Groovin' Essentials | 356180 | [356180-synth-riders-groovin-essentials.json](./356180-synth-riders-groovin-essentials.json) |
 | Synth Riders: Infected Mushroom - "Black Velvet" (feat. Ninet Tayeb) | 364550 | [364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json](./364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json) |
 | Synth Riders: Infected Mushroom Music Pack | 364551 | [364551-synth-riders-infected-mushroom-music-pack.json](./364551-synth-riders-infected-mushroom-music-pack.json) |
@@ -13055,6 +13065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Jamie Berry - "Guilty Pleasure" | 288238 | [288238-synth-riders-jamie-berry-guilty-pleasure.json](./288238-synth-riders-jamie-berry-guilty-pleasure.json) |
 | Synth Riders: Lindsey Stirling - "First Light" | 356173 | [356173-synth-riders-lindsey-stirling-first-light.json](./356173-synth-riders-lindsey-stirling-first-light.json) |
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
+| Synth Riders: Monstercat Music Pack | 356831 | [356831-synth-riders-monstercat-music-pack.json](./356831-synth-riders-monstercat-music-pack.json) |
 | Synth Riders: Monstercat Music Pack | 382180 | [382180-synth-riders-monstercat-music-pack.json](./382180-synth-riders-monstercat-music-pack.json) |
 | Synth Riders: Muse - "Pressure" | 356083 | [356083-synth-riders-muse-pressure.json](./356083-synth-riders-muse-pressure.json) |
 | Synth Riders: Muse - "Reapers" | 356174 | [356174-synth-riders-muse-reapers.json](./356174-synth-riders-muse-reapers.json) |
@@ -13072,6 +13083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Synthwave Essentials 3 Music Pack | 382181 | [382181-synth-riders-synthwave-essentials-3-music-pack.json](./382181-synth-riders-synthwave-essentials-3-music-pack.json) |
 | Synth Riders: Tamela D'Amico, Wolfgang Lohr - "Boring 20s" | 288237 | [288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json](./288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json) |
 | Synth Riders: The Cure - "Just Like Heaven" | 353390 | [353390-synth-riders-the-cure-just-like-heaven.json](./353390-synth-riders-the-cure-just-like-heaven.json) |
+| Synth Riders: The Electric Swing Circus - "Empires" | 356901 | [356901-synth-riders-the-electric-swing-circus-empires.json](./356901-synth-riders-the-electric-swing-circus-empires.json) |
 | Synth Riders: The Midnight - "Days of Thunder" | 356192 | [356192-synth-riders-the-midnight-days-of-thunder.json](./356192-synth-riders-the-midnight-days-of-thunder.json) |
 | Synth Riders: The Midnight - "Sunset" | 356081 | [356081-synth-riders-the-midnight-sunset.json](./356081-synth-riders-the-midnight-sunset.json) |
 | Synth Riders: The Smile - "Zero Sum" | 364552 | [364552-synth-riders-the-smile-zero-sum.json](./364552-synth-riders-the-smile-zero-sum.json) |
