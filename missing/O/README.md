@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscura | 341492 | [341492-obscura.json](./341492-obscura.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
+| Obscure Figures | 387648 | [387648-obscure-figures.json](./387648-obscure-figures.json) |
 | Obscure Horrors | 386684 | [386684-obscure-horrors.json](./386684-obscure-horrors.json) |
 | ObsCure: The Aftermath | 5080 | [5080-obscure-the-aftermath.json](./5080-obscure-the-aftermath.json) |
 | Obscuria | 295906 | [295906-obscuria.json](./295906-obscuria.json) |
@@ -353,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Racing on Line | 172161 | [172161-offroad-racing-on-line.json](./172161-offroad-racing-on-line.json) |
 | Offroad Thunder | 3702 | [3702-offroad-thunder.json](./3702-offroad-thunder.json) |
 | Offsea | 235761 | [235761-offsea.json](./235761-offsea.json) |
+| Offshore Fishing | 387692 | [387692-offshore-fishing.json](./387692-offshore-fishing.json) |
 | Offshore Racing | 234617 | [234617-offshore-racing.json](./234617-offshore-racing.json) |
 | Offside | 127802 | [127802-offside.json](./127802-offside.json) |
 | Offworld Trading Company: Almanac | 124802 | [124802-offworld-trading-company-almanac.json](./124802-offworld-trading-company-almanac.json) |
