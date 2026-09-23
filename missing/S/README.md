@@ -3442,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shounen to Tenkiame | 397943 | [397943-shounen-to-tenkiame.json](./397943-shounen-to-tenkiame.json) |
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
 | Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
+| Shovel Game | 361337 | [361337-shovel-game.json](./361337-shovel-game.json) |
 | Shovel Knight Dig | 122097 | [122097-shovel-knight-dig.json](./122097-shovel-knight-dig.json) |
 | Shovel Knight: Dig - Fate and Fortune | 305754 | [305754-shovel-knight-dig-fate-and-fortune.json](./305754-shovel-knight-dig-fate-and-fortune.json) |
 | Shovel Knight: Dig - Wicked Wishes | 305755 | [305755-shovel-knight-dig-wicked-wishes.json](./305755-shovel-knight-dig-wicked-wishes.json) |
@@ -10785,6 +10786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukashika Shipanman DS | 69212 | [69212-sukashika-shipanman-ds.json](./69212-sukashika-shipanman-ds.json) |
 | Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
 | Sukeban Janshi Ryuuko | 372145 | [372145-sukeban-janshi-ryuuko.json](./372145-sukeban-janshi-ryuuko.json) |
+| Sukima | 361312 | [361312-sukima.json](./361312-sukima.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
 | Sulfur | 233970 | [233970-sulfur.json](./233970-sulfur.json) |
 | Sulfur | 261285 | [261285-sulfur.json](./261285-sulfur.json) |
