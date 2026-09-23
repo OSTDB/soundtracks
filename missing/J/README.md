@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest: The Sapphire Dragon | 85213 | [85213-jewel-quest-the-sapphire-dragon.json](./85213-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
 | Jewel Train | 230382 | [230382-jewel-train.json](./230382-jewel-train.json) |
+| Jewel Warehouse | 355233 | [355233-jewel-warehouse.json](./355233-jewel-warehouse.json) |
 | Jewel Wars | 146726 | [146726-jewel-wars.json](./146726-jewel-wars.json) |
 | Jewel Witch Tale | 52007 | [52007-jewel-witch-tale.json](./52007-jewel-witch-tale.json) |
 | Jeweler Simulator | 291449 | [291449-jeweler-simulator.json](./291449-jeweler-simulator.json) |
@@ -939,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Record | 265961 | [265961-journey-record.json](./265961-journey-record.json) |
 | Journey Through the Nightmare Realm II | 347683 | [347683-journey-through-the-nightmare-realm-ii.json](./347683-journey-through-the-nightmare-realm-ii.json) |
 | Journey To Bethlehem: Fig Run | 275580 | [275580-journey-to-bethlehem-fig-run.json](./275580-journey-to-bethlehem-fig-run.json) |
+| Journey to Chaos: Pilgrimage to the West | 355218 | [355218-journey-to-chaos-pilgrimage-to-the-west.json](./355218-journey-to-chaos-pilgrimage-to-the-west.json) |
 | Journey to Earth | 302921 | [302921-journey-to-earth.json](./302921-journey-to-earth.json) |
 | Journey to Kreisia | 321998 | [321998-journey-to-kreisia.json](./321998-journey-to-kreisia.json) |
 | Journey to Kreisia | 68977 | [68977-journey-to-kreisia.json](./68977-journey-to-kreisia.json) |
