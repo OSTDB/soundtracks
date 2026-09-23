@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beam Cat | 224666 | [224666-beam-cat.json](./224666-beam-cat.json) |
 | Beam Driver | 360048 | [360048-beam-driver.json](./360048-beam-driver.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
+| Beam It Up! | 390238 | [390238-beam-it-up.json](./390238-beam-it-up.json) |
 | Beam Moto Driver Playground | 368027 | [368027-beam-moto-driver-playground.json](./368027-beam-moto-driver-playground.json) |
 | Beam Time | 366287 | [366287-beam-time.json](./366287-beam-time.json) |
 | Beambender | 14293 | [14293-beambender.json](./14293-beambender.json) |
@@ -4566,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boot Hill Blaster | 74740 | [74740-boot-hill-blaster.json](./74740-boot-hill-blaster.json) |
 | Boot Hill Heroes 2 | 60561 | [60561-boot-hill-heroes-2.json](./60561-boot-hill-heroes-2.json) |
 | Booth Butcher | 406922 | [406922-booth-butcher.json](./406922-booth-butcher.json) |
+| Bootleg Alchemist | 390255 | [390255-bootleg-alchemist.json](./390255-bootleg-alchemist.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
 | Booty Barrage | 292530 | [292530-booty-barrage.json](./292530-booty-barrage.json) |
