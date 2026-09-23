@@ -4392,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bola | 92445 | [92445-bola.json](./92445-bola.json) |
 | Bold | 243680 | [243680-bold.json](./243680-bold.json) |
 | Bold: Networked Newt Action | 397821 | [397821-bold-networked-newt-action.json](./397821-bold-networked-newt-action.json) |
+| Bolek i Lolek: Język angielski dla najmłodszych | 351832 | [351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json](./351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json) |
 | BoliKa | 328072 | [328072-bolika.json](./328072-bolika.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
