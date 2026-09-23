@@ -6231,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Town | 111719 | [111719-dungeon-town.json](./111719-dungeon-town.json) |
 | Dungeon Trail | 374595 | [374595-dungeon-trail.json](./374595-dungeon-trail.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
+| Dungeon Treaders | 388401 | [388401-dungeon-treaders.json](./388401-dungeon-treaders.json) |
 | Dungeon Trick | 391723 | [391723-dungeon-trick.json](./391723-dungeon-trick.json) |
 | Dungeon Tycoon | 250859 | [250859-dungeon-tycoon.json](./250859-dungeon-tycoon.json) |
 | Dungeon Universe | 185665 | [185665-dungeon-universe.json](./185665-dungeon-universe.json) |
