@@ -2052,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Fighting | 247014 | [247014-bee-fighting.json](./247014-bee-fighting.json) |
 | Bee Holder | 184505 | [184505-bee-holder.json](./184505-bee-holder.json) |
 | Bee in the Valley | 250384 | [250384-bee-in-the-valley.json](./250384-bee-in-the-valley.json) |
+| Bee Invasion | 368157 | [368157-bee-invasion.json](./368157-bee-invasion.json) |
 | Bee Leader | 208409 | [208409-bee-leader.json](./208409-bee-leader.json) |
 | Bee Magic | 314254 | [314254-bee-magic.json](./314254-bee-magic.json) |
 | Bee Master | 366282 | [366282-bee-master.json](./366282-bee-master.json) |
