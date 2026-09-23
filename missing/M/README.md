@@ -5185,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
 | Mongol | 227967 | [227967-mongol.json](./227967-mongol.json) |
+| Mongol 2 | 370339 | [370339-mongol-2.json](./370339-mongol-2.json) |
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
@@ -5849,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat | 242239 | [242239-mortal-kombat.json](./242239-mortal-kombat.json) |
 | Mortal Kombat 1: Conan the Barbarian | 312343 | [312343-mortal-kombat-1-conan-the-barbarian.json](./312343-mortal-kombat-1-conan-the-barbarian.json) |
 | Mortal Kombat 1: Cyrax | 312332 | [312332-mortal-kombat-1-cyrax.json](./312332-mortal-kombat-1-cyrax.json) |
+| Mortal Kombat 1: Definitive Edition | 370302 | [370302-mortal-kombat-1-definitive-edition.json](./370302-mortal-kombat-1-definitive-edition.json) |
 | Mortal Kombat 1: Ermac | 266217 | [266217-mortal-kombat-1-ermac.json](./266217-mortal-kombat-1-ermac.json) |
 | Mortal Kombat 1: Ghostface | 312337 | [312337-mortal-kombat-1-ghostface.json](./312337-mortal-kombat-1-ghostface.json) |
 | Mortal Kombat 1: Homelander | 266219 | [266219-mortal-kombat-1-homelander.json](./266219-mortal-kombat-1-homelander.json) |
@@ -6853,6 +6855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Chemical Romance: Sweet Revenge!!! | 328267 | [328267-my-chemical-romance-sweet-revenge.json](./328267-my-chemical-romance-sweet-revenge.json) |
 | My Child New Beginnings | 151702 | [151702-my-child-new-beginnings.json](./151702-my-child-new-beginnings.json) |
 | My Chinese Coach | 94712 | [94712-my-chinese-coach.json](./94712-my-chinese-coach.json) |
+| My Cinema World | 370343 | [370343-my-cinema-world.json](./370343-my-cinema-world.json) |
 | My City | 206767 | [206767-my-city.json](./206767-my-city.json) |
 | My City - Entertainment Tycoon | 105926 | [105926-my-city-entertainment-tycoon.json](./105926-my-city-entertainment-tycoon.json) |
 | My City and Army | 155985 | [155985-my-city-and-army.json](./155985-my-city-and-army.json) |
