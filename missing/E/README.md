@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elona | 50403 | [50403-elona.json](./50403-elona.json) |
 | Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
 | Eloquence | 172742 | [172742-eloquence.json](./172742-eloquence.json) |
+| Elowyn: Quest of Time | 347870 | [347870-elowyn-quest-of-time.json](./347870-elowyn-quest-of-time.json) |
 | Elpis | 381140 | [381140-elpis.json](./381140-elpis.json) |
 | Elpis: Fallen Star | 362914 | [362914-elpis-fallen-star.json](./362914-elpis-fallen-star.json) |
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
@@ -1774,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Chronicles | 241384 | [241384-escape-chronicles.json](./241384-escape-chronicles.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
 | Escape Darkness | 290550 | [290550-escape-darkness.json](./290550-escape-darkness.json) |
+| Escape Dash Journey | 347876 | [347876-escape-dash-journey.json](./347876-escape-dash-journey.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
 | Escape Doom | 399182 | [399182-escape-doom.json](./399182-escape-doom.json) |
 | Escape Down | 195102 | [195102-escape-down.json](./195102-escape-down.json) |
