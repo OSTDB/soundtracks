@@ -4553,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Mercenaries Redux | 147901 | [147901-sky-mercenaries-redux.json](./147901-sky-mercenaries-redux.json) |
 | Sky Oceans: Wings for Hire | 238559 | [238559-sky-oceans-wings-for-hire.json](./238559-sky-oceans-wings-for-hire.json) |
 | Sky of Tides | 122389 | [122389-sky-of-tides.json](./122389-sky-of-tides.json) |
+| Sky Patch | 347890 | [347890-sky-patch.json](./347890-sky-patch.json) |
 | Sky Patrol | 40793 | [40793-sky-patrol.json](./40793-sky-patrol.json) |
 | Sky Plankers | 28195 | [28195-sky-plankers.json](./28195-sky-plankers.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Rally | 262469 | [262469-solar-rally.json](./262469-solar-rally.json) |
 | Solar Revival | 193892 | [193892-solar-revival.json](./193892-solar-revival.json) |
 | Solar Rogue | 133421 | [133421-solar-rogue.json](./133421-solar-rogue.json) |
+| Solar Savage | 347891 | [347891-solar-savage.json](./347891-solar-savage.json) |
 | Solar Striker | 48940 | [48940-solar-striker.json](./48940-solar-striker.json) |
 | Solar Struggle | 17984 | [17984-solar-struggle.json](./17984-solar-struggle.json) |
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
