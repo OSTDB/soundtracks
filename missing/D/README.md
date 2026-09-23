@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead End: Orchestral Manoeuvres in the Dead End | 59390 | [59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json](./59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json) |
 | Dead Event | 177035 | [177035-dead-event.json](./177035-dead-event.json) |
+| Dead Exhale | 357444 | [357444-dead-exhale.json](./357444-dead-exhale.json) |
 | Dead Eye Deputy | 316056 | [316056-dead-eye-deputy.json](./316056-dead-eye-deputy.json) |
 | Dead Eye Jim | 44639 | [44639-dead-eye-jim.json](./44639-dead-eye-jim.json) |
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
@@ -3536,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
 | Disney Dreamlight Valley | 198506 | [198506-disney-dreamlight-valley.json](./198506-disney-dreamlight-valley.json) |
+| Disney Dreamlight Valley: Arcade Edition | 357417 | [357417-disney-dreamlight-valley-arcade-edition.json](./357417-disney-dreamlight-valley-arcade-edition.json) |
 | Disney Dreamlight Valley: Cozy Edition | 270205 | [270205-disney-dreamlight-valley-cozy-edition.json](./270205-disney-dreamlight-valley-cozy-edition.json) |
 | Disney Dreamlight Valley: Emotional Rescue | 362263 | [362263-disney-dreamlight-valley-emotional-rescue.json](./362263-disney-dreamlight-valley-emotional-rescue.json) |
 | Disney Dreamlight Valley: Enchanted Adventure | 266853 | [266853-disney-dreamlight-valley-enchanted-adventure.json](./266853-disney-dreamlight-valley-enchanted-adventure.json) |
@@ -5536,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Tape LLC | 408910 | [408910-dream-tape-llc.json](./408910-dream-tape-llc.json) |
 | Dream Team Supreme | 328045 | [328045-dream-team-supreme.json](./328045-dream-team-supreme.json) |
 | Dream Time | 152928 | [152928-dream-time.json](./152928-dream-time.json) |
+| Dream Tower | 357462 | [357462-dream-tower.json](./357462-dream-tower.json) |
 | Dream Track Nation | 92482 | [92482-dream-track-nation.json](./92482-dream-track-nation.json) |
 | Dream Travel Agency! | 197244 | [197244-dream-travel-agency.json](./197244-dream-travel-agency.json) |
 | Dream TV | 93573 | [93573-dream-tv.json](./93573-dream-tv.json) |
