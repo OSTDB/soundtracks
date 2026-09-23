@@ -3170,6 +3170,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Inn | 400349 | [400349-hollow-inn.json](./400349-hollow-inn.json) |
 | Hollow Jump | 348466 | [348466-hollow-jump.json](./348466-hollow-jump.json) |
 | Hollow Knight | 365702 | [365702-hollow-knight.json](./365702-hollow-knight.json) |
+| Hollow Knight Gun Mod | 341658 | [341658-hollow-knight-gun-mod.json](./341658-hollow-knight-gun-mod.json) |
+| Hollow Knight Randomizer | 341654 | [341654-hollow-knight-randomizer.json](./341654-hollow-knight-randomizer.json) |
 | Hollow Knight Silksong | 372563 | [372563-hollow-knight-silksong.json](./372563-hollow-knight-silksong.json) |
 | Hollow Knight: Collector's Edition | 116151 | [116151-hollow-knight-collectors-edition.json](./116151-hollow-knight-collectors-edition.json) |
 | Hollow Knight: Silksong - Sea of Sorrow | 381684 | [381684-hollow-knight-silksong-sea-of-sorrow.json](./381684-hollow-knight-silksong-sea-of-sorrow.json) |
@@ -3329,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Revolution - The Voice Of Freedom | 53205 | [53205-homefront-the-revolution-the-voice-of-freedom.json](./53205-homefront-the-revolution-the-voice-of-freedom.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
+| Homekeeping | 341675 | [341675-homekeeping.json](./341675-homekeeping.json) |
 | Homeland | 3948 | [3948-homeland.json](./3948-homeland.json) |
 | Homeless | 277287 | [277287-homeless.json](./277287-homeless.json) |
 | Homeless | 312726 | [312726-homeless.json](./312726-homeless.json) |
@@ -3378,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Bee | 47211 | [47211-honey-bee.json](./47211-honey-bee.json) |
 | Honey Bunny | 265699 | [265699-honey-bunny.json](./265699-honey-bunny.json) |
 | Honey Dolls | 37338 | [37338-honey-dolls.json](./37338-honey-dolls.json) |
+| Honey Guardian | 341651 | [341651-honey-guardian.json](./341651-honey-guardian.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Magician | 277969 | [277969-honey-magician.json](./277969-honey-magician.json) |
 | Honey Milf | 367044 | [367044-honey-milf.json](./367044-honey-milf.json) |
