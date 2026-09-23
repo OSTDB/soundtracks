@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vive le Roi | 31789 | [31789-vive-le-roi.json](./31789-vive-le-roi.json) |
 | Vive le Roi 2 | 101356 | [101356-vive-le-roi-2.json](./101356-vive-le-roi-2.json) |
 | Vivecraft | 370146 | [370146-vivecraft.json](./370146-vivecraft.json) |
+| Vivere Retro | 388422 | [388422-vivere-retro.json](./388422-vivere-retro.json) |
 | Vivian and Kyuma | 282021 | [282021-vivian-and-kyuma.json](./282021-vivian-and-kyuma.json) |
 | Vivian Clark | 63544 | [63544-vivian-clark.json](./63544-vivian-clark.json) |
 | Vivian Wade: Danger Down the Aisle | 390804 | [390804-vivian-wade-danger-down-the-aisle.json](./390804-vivian-wade-danger-down-the-aisle.json) |
