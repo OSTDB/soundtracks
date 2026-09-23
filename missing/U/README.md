@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untrusted | 133237 | [133237-untrusted.json](./133237-untrusted.json) |
 | Unturned | 7878 | [7878-unturned.json](./7878-unturned.json) |
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
+| Unusual End | 348981 | [348981-unusual-end.json](./348981-unusual-end.json) |
 | Unusual Ghost | 232008 | [232008-unusual-ghost.json](./232008-unusual-ghost.json) |
 | Unusual Tales: Deep Below | 380447 | [380447-unusual-tales-deep-below.json](./380447-unusual-tales-deep-below.json) |
 | Unusual Times | 221393 | [221393-unusual-times.json](./221393-unusual-times.json) |
