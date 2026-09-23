@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
 | Galactic Simulator | 329595 | [329595-galactic-simulator.json](./329595-galactic-simulator.json) |
+| Galactic Simulator2: Stargate | 344539 | [344539-galactic-simulator2-stargate.json](./344539-galactic-simulator2-stargate.json) |
 | Galactic Starfire: Squadron | 310033 | [310033-galactic-starfire-squadron.json](./310033-galactic-starfire-squadron.json) |
 | Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
 | Galactic Striker | 329174 | [329174-galactic-striker.json](./329174-galactic-striker.json) |
@@ -2186,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
 | Gogetsuji Legends | 37341 | [37341-gogetsuji-legends.json](./37341-gogetsuji-legends.json) |
+| Gogo I-Land | 344573 | [344573-gogo-i-land.json](./344573-gogo-i-land.json) |
 | GoGo Sentai Boukenger Kazu to Katachi wo Oboeyou! | 327590 | [327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json](./327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json) |
 | Gogo the Ghost | 13859 | [13859-gogo-the-ghost.json](./13859-gogo-the-ghost.json) |
 | GoGoGo | 270934 | [270934-gogogo.json](./270934-gogogo.json) |
@@ -2900,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grauen no Torikago: Kapitel 6 - Senritsu | 315063 | [315063-grauen-no-torikago-kapitel-6-senritsu.json](./315063-grauen-no-torikago-kapitel-6-senritsu.json) |
 | Graularm | 126430 | [126430-graularm.json](./126430-graularm.json) |
 | Grav Blazer | 43082 | [43082-grav-blazer.json](./43082-grav-blazer.json) |
+| Grav My Balls | 345127 | [345127-grav-my-balls.json](./345127-grav-my-balls.json) |
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
