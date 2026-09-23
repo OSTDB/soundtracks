@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malvirta Station | 271459 | [271459-malvirta-station.json](./271459-malvirta-station.json) |
 | Malware Derby | 244896 | [244896-malware-derby.json](./244896-malware-derby.json) |
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
+| Mama Cabra | 341167 | [341167-mama-cabra.json](./341167-mama-cabra.json) |
 | Mama Reido vol. 3 Tomomi Mama Hen: Usotsuki wa Mama no Hajimari | 108961 | [108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json](./108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json) |
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
 | Mama's 2-Pack | 86075 | [86075-mamas-2-pack.json](./86075-mamas-2-pack.json) |
@@ -2503,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: 10th Anniversary Edition | 45980 | [45980-medal-of-honor-10th-anniversary-edition.json](./45980-medal-of-honor-10th-anniversary-edition.json) |
 | Medal of Honor: Above and Beyond | 122592 | [122592-medal-of-honor-above-and-beyond.json](./122592-medal-of-honor-above-and-beyond.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
+| Medal of Honor: Airborne Elite | 341117 | [341117-medal-of-honor-airborne-elite.json](./341117-medal-of-honor-airborne-elite.json) |
 | Medal of Honor: Allied Assault - Breakthrough | 9229 | [9229-medal-of-honor-allied-assault-breakthrough.json](./9229-medal-of-honor-allied-assault-breakthrough.json) |
 | Medal of Honor: European Assault | 1311 | [1311-medal-of-honor-european-assault.json](./1311-medal-of-honor-european-assault.json) |
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
@@ -3668,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Another Legend | 267399 | [267399-metroid-another-legend.json](./267399-metroid-another-legend.json) |
 | Metroid: Crocomire's Last Stand | 277040 | [277040-metroid-crocomires-last-stand.json](./277040-metroid-crocomires-last-stand.json) |
 | Metroid: Desolation | 255381 | [255381-metroid-desolation.json](./255381-metroid-desolation.json) |
+| Metroid: Galactic Marine | 341143 | [341143-metroid-galactic-marine.json](./341143-metroid-galactic-marine.json) |
 | Metroid: Genesis | 323757 | [323757-metroid-genesis.json](./323757-metroid-genesis.json) |
 | Metroid: HD | 310611 | [310611-metroid-hd.json](./310611-metroid-hd.json) |
 | Metroid: Rechoose | 318019 | [318019-metroid-rechoose.json](./318019-metroid-rechoose.json) |
@@ -4301,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindfunk in 13 Days | 397938 | [397938-mindfunk-in-13-days.json](./397938-mindfunk-in-13-days.json) |
 | MindGym | 172145 | [172145-mindgym.json](./172145-mindgym.json) |
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
+| Mindhive: Wilds | 341164 | [341164-mindhive-wilds.json](./341164-mindhive-wilds.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
@@ -4896,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: In Boxes | 150628 | [150628-mission-in-boxes.json](./150628-mission-in-boxes.json) |
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
+| Mission: Scarlet Stars | 341114 | [341114-mission-scarlet-stars.json](./341114-mission-scarlet-stars.json) |
 | Mission: Space | 264028 | [264028-mission-space.json](./264028-mission-space.json) |
 | MissionForce: CyberStorm | 792 | [792-missionforce-cyberstorm.json](./792-missionforce-cyberstorm.json) |
 | Missland 2 | 277427 | [277427-missland-2.json](./277427-missland-2.json) |
@@ -5588,6 +5593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Frontier Online | 7075 | [7075-monster-hunter-frontier-online.json](./7075-monster-hunter-frontier-online.json) |
 | Monster Hunter Frontier Z | 78360 | [78360-monster-hunter-frontier-z.json](./78360-monster-hunter-frontier-z.json) |
 | Monster Hunter Generations Ultimate | 25623 | [25623-monster-hunter-generations-ultimate.json](./25623-monster-hunter-generations-ultimate.json) |
+| Monster Hunter i | 341145 | [341145-monster-hunter-i.json](./341145-monster-hunter-i.json) |
 | Monster Hunter Ltd: Part I | 256821 | [256821-monster-hunter-ltd-part-i.json](./256821-monster-hunter-ltd-part-i.json) |
 | Monster Hunter Ltd: Part II | 256822 | [256822-monster-hunter-ltd-part-ii.json](./256822-monster-hunter-ltd-part-ii.json) |
 | Monster Hunter Now | 247545 | [247545-monster-hunter-now.json](./247545-monster-hunter-now.json) |
@@ -7315,6 +7321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony Hair Salon | 287085 | [287085-my-little-pony-hair-salon.json](./287085-my-little-pony-hair-salon.json) |
 | My Little Pony World | 221943 | [221943-my-little-pony-world.json](./221943-my-little-pony-world.json) |
 | My Little Pony: A Zephyr Heights Mystery | 290839 | [290839-my-little-pony-a-zephyr-heights-mystery.json](./290839-my-little-pony-a-zephyr-heights-mystery.json) |
+| My Little Pony: Adventures in Ponyville | 341163 | [341163-my-little-pony-adventures-in-ponyville.json](./341163-my-little-pony-adventures-in-ponyville.json) |
 | My Little Pony: Best Friends Ball | 124742 | [124742-my-little-pony-best-friends-ball.json](./124742-my-little-pony-best-friends-ball.json) |
 | My Little Pony: Dr. Discord's Conquest | 205660 | [205660-my-little-pony-dr-discords-conquest.json](./205660-my-little-pony-dr-discords-conquest.json) |
 | My Little Pony: Fighting is Magic | 137023 | [137023-my-little-pony-fighting-is-magic.json](./137023-my-little-pony-fighting-is-magic.json) |
@@ -7535,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Witch Wants Elixirs! | 385715 | [385715-my-witch-wants-elixirs.json](./385715-my-witch-wants-elixirs.json) |
 | My Wolf Girlfriend | 206199 | [206199-my-wolf-girlfriend.json](./206199-my-wolf-girlfriend.json) |
 | My Woods | 335652 | [335652-my-woods.json](./335652-my-woods.json) |
+| My Xiuxian World | 341161 | [341161-my-xiuxian-world.json](./341161-my-xiuxian-world.json) |
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
 | My Zombies Are Hungry | 418792 | [418792-my-zombies-are-hungry.json](./418792-my-zombies-are-hungry.json) |
@@ -7791,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth: History in the Making | 12187 | [12187-myth-history-in-the-making.json](./12187-myth-history-in-the-making.json) |
 | Myth: Make Your True Hero | 143702 | [143702-myth-make-your-true-hero.json](./143702-myth-make-your-true-hero.json) |
 | Myth: The Fallen Lords | 800 | [800-myth-the-fallen-lords.json](./800-myth-the-fallen-lords.json) |
+| Myth: Twice Born Edition | 341124 | [341124-myth-twice-born-edition.json](./341124-myth-twice-born-edition.json) |
 | Mythargia | 216993 | [216993-mythargia.json](./216993-mythargia.json) |
 | Mythborne | 23642 | [23642-mythborne.json](./23642-mythborne.json) |
 | MythBusters: The First Experiment | 199095 | [199095-mythbusters-the-first-experiment.json](./199095-mythbusters-the-first-experiment.json) |
