@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharmacist Jones | 325706 | [325706-pharmacist-jones.json](./325706-pharmacist-jones.json) |
 | Pharmacy 24 | 390643 | [390643-pharmacy-24.json](./390643-pharmacy-24.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
+| Pharos | 340568 | [340568-pharos.json](./340568-pharos.json) |
 | Phase | 377172 | [377172-phase.json](./377172-phase.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
 | Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
@@ -2030,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney | 221282 | [221282-phoenix-wright-ace-attorney.json](./221282-phoenix-wright-ace-attorney.json) |
 | Phoenix Wright: Ace Attorney | 221284 | [221284-phoenix-wright-ace-attorney.json](./221284-phoenix-wright-ace-attorney.json) |
 | Phoenix Wright: Ace Attorney - Dual Destinies | 253012 | [253012-phoenix-wright-ace-attorney-dual-destinies.json](./253012-phoenix-wright-ace-attorney-dual-destinies.json) |
+| Phoenix Wright: Ace Attorney - Episode 5: Rise from the Ashes | 340577 | [340577-phoenix-wright-ace-attorney-episode-5-rise-from-the-ashes.json](./340577-phoenix-wright-ace-attorney-episode-5-rise-from-the-ashes.json) |
 | Phoenix Wright: Ace Attorney - Justice for All | 1427 | [1427-phoenix-wright-ace-attorney-justice-for-all.json](./1427-phoenix-wright-ace-attorney-justice-for-all.json) |
 | Phoenix Wright: Ace Attorney - Justice For All | 221286 | [221286-phoenix-wright-ace-attorney-justice-for-all.json](./221286-phoenix-wright-ace-attorney-justice-for-all.json) |
 | Phoenix Wright: Ace Attorney - Project Justice | 310412 | [310412-phoenix-wright-ace-attorney-project-justice.json](./310412-phoenix-wright-ace-attorney-project-justice.json) |
@@ -2285,9 +2287,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of Me | 318759 | [318759-pieces-of-me.json](./318759-pieces-of-me.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Pien | 144144 | [144144-pien.json](./144144-pien.json) |
+| Pier Game | 340543 | [340543-pier-game.json](./340543-pier-game.json) |
 | Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
 | Pierre le Chef is... Out to Lunch | 39042 | [39042-pierre-le-chef-is-out-to-lunch.json](./39042-pierre-le-chef-is-out-to-lunch.json) |
+| Pierrot à la Mode | 340572 | [340572-pierrot-a-la-mode.json](./340572-pierrot-a-la-mode.json) |
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
 | Pig & Chikin | 341576 | [341576-pig-and-chikin.json](./341576-pig-and-chikin.json) |
 | Pig Bros Adventure | 214729 | [214729-pig-bros-adventure.json](./214729-pig-bros-adventure.json) |
@@ -3150,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PK Scramble | 93521 | [93521-pk-scramble.json](./93521-pk-scramble.json) |
 | PK War | 367610 | [367610-pk-war.json](./367610-pk-war.json) |
 | Pk2022 | 188505 | [188505-pk2022.json](./188505-pk2022.json) |
+| PL4no-B | 340583 | [340583-pl4no-b.json](./340583-pl4no-b.json) |
 | Placards | 84815 | [84815-placards.json](./84815-placards.json) |
 | Place & Learn 19×19 Mental Math | 409550 | [409550-place-and-learn-19-19-mental-math.json](./409550-place-and-learn-19-19-mental-math.json) |
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
@@ -4640,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pottery Maker | 89264 | [89264-pottery-maker.json](./89264-pottery-maker.json) |
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
+| Pouch | 340596 | [340596-pouch.json](./340596-pouch.json) |
 | Poultry Party | 341558 | [341558-poultry-party.json](./341558-poultry-party.json) |
 | Pounce | 80231 | [80231-pounce.json](./80231-pounce.json) |
 | Pound For Pound | 40400 | [40400-pound-for-pound.json](./40400-pound-for-pound.json) |
@@ -4783,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Back to the Future Special Pack | 276978 | [276978-powerwash-simulator-back-to-the-future-special-pack.json](./276978-powerwash-simulator-back-to-the-future-special-pack.json) |
 | PowerWash Simulator: Cruise Ship Sun Deck - Summer 2024 | 312018 | [312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json](./312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json) |
 | PowerWash Simulator: Halloween Seasonal 2024 | 320757 | [320757-powerwash-simulator-halloween-seasonal-2024.json](./320757-powerwash-simulator-halloween-seasonal-2024.json) |
+| PowerWash Simulator: Muckingham Files - Part 5 | 340590 | [340590-powerwash-simulator-muckingham-files-part-5.json](./340590-powerwash-simulator-muckingham-files-part-5.json) |
 | PowerWash Simulator: Santa's Workshop - Winter 2023 | 280540 | [280540-powerwash-simulator-santas-workshop-winter-2023.json](./280540-powerwash-simulator-santas-workshop-winter-2023.json) |
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
@@ -5979,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG: Blindspot | 321135 | [321135-pubg-blindspot.json](./321135-pubg-blindspot.json) |
 | Public Defense Corp: The Ambassador of Peace | 206952 | [206952-public-defense-corp-the-ambassador-of-peace.json](./206952-public-defense-corp-the-ambassador-of-peace.json) |
 | Public Enemy: The Dark Future | 248293 | [248293-public-enemy-the-dark-future.json](./248293-public-enemy-the-dark-future.json) |
+| Public Toilet Simulator | 340591 | [340591-public-toilet-simulator.json](./340591-public-toilet-simulator.json) |
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
 | Pucca's Restaurant | 65476 | [65476-puccas-restaurant.json](./65476-puccas-restaurant.json) |
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
