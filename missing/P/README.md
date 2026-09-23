@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom II | 40404 | [40404-phantom-ii.json](./40404-phantom-ii.json) |
 | Phantom Killer | 275343 | [275343-phantom-killer.json](./275343-phantom-killer.json) |
 | Phantom Kingdom: Portable | 262445 | [262445-phantom-kingdom-portable.json](./262445-phantom-kingdom-portable.json) |
+| Phantom Kiosk | 345708 | [345708-phantom-kiosk.json](./345708-phantom-kiosk.json) |
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
 | Phantom of the Kill | 58459 | [58459-phantom-of-the-kill.json](./58459-phantom-of-the-kill.json) |
@@ -2172,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick me! Visual Novel | 349293 | [349293-pick-me-visual-novel.json](./349293-pick-me-visual-novel.json) |
 | Pick My Heart Chapter 1 | 324132 | [324132-pick-my-heart-chapter-1.json](./324132-pick-my-heart-chapter-1.json) |
 | Pick My Heart Chapter 2 | 324131 | [324131-pick-my-heart-chapter-2.json](./324131-pick-my-heart-chapter-2.json) |
+| Pick Race 3D | 345707 | [345707-pick-race-3d.json](./345707-pick-race-3d.json) |
 | Pick Three!!! | 396238 | [396238-pick-three.json](./396238-pick-three.json) |
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
 | Pickaxe Tower | 362860 | [362860-pickaxe-tower.json](./362860-pickaxe-tower.json) |
@@ -5131,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Empire Tycoon: Idle Game | 231907 | [231907-prison-empire-tycoon-idle-game.json](./231907-prison-empire-tycoon-idle-game.json) |
 | Prison Escape io | 347147 | [347147-prison-escape-io.json](./347147-prison-escape-io.json) |
 | Prison Escape Puzzle | 100151 | [100151-prison-escape-puzzle.json](./100151-prison-escape-puzzle.json) |
+| Prison Escape Simulator | 345684 | [345684-prison-escape-simulator.json](./345684-prison-escape-simulator.json) |
 | Prison Fighters | 408286 | [408286-prison-fighters.json](./408286-prison-fighters.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
 | Prison Forever | 128016 | [128016-prison-forever.json](./128016-prison-forever.json) |
@@ -5656,6 +5659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
 | Project Z | 126431 | [126431-project-z.json](./126431-project-z.json) |
 | Project Zero | 236252 | [236252-project-zero.json](./236252-project-zero.json) |
+| Project Zombie | 345672 | [345672-project-zombie.json](./345672-project-zombie.json) |
 | Project Zomboid | 3189 | [3189-project-zomboid.json](./3189-project-zomboid.json) |
 | Project_8 | 387524 | [387524-project-8.json](./387524-project-8.json) |
 | Project_Arktik | 410881 | [410881-project-arktik.json](./410881-project-arktik.json) |
@@ -5979,7 +5983,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
 | Puff Love Story | 371903 | [371903-puff-love-story.json](./371903-puff-love-story.json) |
 | Puff Puff the Magic Pipe | 156528 | [156528-puff-puff-the-magic-pipe.json](./156528-puff-puff-the-magic-pipe.json) |
+| Puff Up | 345697 | [345697-puff-up.json](./345697-puff-up.json) |
+| Puff Up & 9 Minigames | 345698 | [345698-puff-up-and-9-minigames.json](./345698-puff-up-and-9-minigames.json) |
 | Puff Up: Classic Edition | 353983 | [353983-puff-up-classic-edition.json](./353983-puff-up-classic-edition.json) |
+| Puff Up: Minigames Pack 1 | 345699 | [345699-puff-up-minigames-pack-1.json](./345699-puff-up-minigames-pack-1.json) |
+| Puff Up: Minigames Pack 2 | 345700 | [345700-puff-up-minigames-pack-2.json](./345700-puff-up-minigames-pack-2.json) |
 | Puff Up: Playful Edition | 364095 | [364095-puff-up-playful-edition.json](./364095-puff-up-playful-edition.json) |
 | Puff. | 316817 | [316817-puff.json](./316817-puff.json) |
 | Puffer Pop | 250464 | [250464-puffer-pop.json](./250464-puffer-pop.json) |
