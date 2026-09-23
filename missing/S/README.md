@@ -2430,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Colossus | 139896 | [139896-shadow-of-the-colossus.json](./139896-shadow-of-the-colossus.json) |
 | Shadow of the Colossus: Special Edition | 52192 | [52192-shadow-of-the-colossus-special-edition.json](./52192-shadow-of-the-colossus-special-edition.json) |
 | Shadow of the Devil | 291048 | [291048-shadow-of-the-devil.json](./291048-shadow-of-the-devil.json) |
+| Shadow of the Five Moons: Code of the Ninja | 371427 | [371427-shadow-of-the-five-moons-code-of-the-ninja.json](./371427-shadow-of-the-five-moons-code-of-the-ninja.json) |
 | Shadow of The Forerunner | 379567 | [379567-shadow-of-the-forerunner.json](./379567-shadow-of-the-forerunner.json) |
 | Shadow of The Forgotten | 336006 | [336006-shadow-of-the-forgotten.json](./336006-shadow-of-the-forgotten.json) |
 | Shadow of the Game | 54355 | [54355-shadow-of-the-game.json](./54355-shadow-of-the-game.json) |
@@ -5492,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snot Pop! | 412499 | [412499-snot-pop.json](./412499-snot-pop.json) |
 | Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
 | SnOut 2 | 192827 | [192827-snout-2.json](./192827-snout-2.json) |
+| Snow Aces League | 371428 | [371428-snow-aces-league.json](./371428-snow-aces-league.json) |
 | Snow Angel | 264127 | [264127-snow-angel.json](./264127-snow-angel.json) |
 | Snow Ash | 325064 | [325064-snow-ash.json](./325064-snow-ash.json) |
 | Snow Ash Land | 112347 | [112347-snow-ash-land.json](./112347-snow-ash-land.json) |
@@ -8361,6 +8363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Jump | 122165 | [122165-squirrel-jump.json](./122165-squirrel-jump.json) |
 | Squirrel Knight | 298145 | [298145-squirrel-knight.json](./298145-squirrel-knight.json) |
 | Squirrel Launcher | 230307 | [230307-squirrel-launcher.json](./230307-squirrel-launcher.json) |
+| Squirrel Madness & Silent Mist | 371431 | [371431-squirrel-madness-and-silent-mist.json](./371431-squirrel-madness-and-silent-mist.json) |
 | Squirrel Sphere | 89999 | [89999-squirrel-sphere.json](./89999-squirrel-sphere.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
@@ -10481,6 +10484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Surfers | 251589 | [251589-subway-surfers.json](./251589-subway-surfers.json) |
 | Subway Surfers 2018 - Pet vs Police | 103450 | [103450-subway-surfers-2018-pet-vs-police.json](./103450-subway-surfers-2018-pet-vs-police.json) |
 | Subway Surfers Blast | 247170 | [247170-subway-surfers-blast.json](./247170-subway-surfers-blast.json) |
+| Subway Surfers Match | 371469 | [371469-subway-surfers-match.json](./371469-subway-surfers-match.json) |
 | Subway Train Simulator 2D | 88647 | [88647-subway-train-simulator-2d.json](./88647-subway-train-simulator-2d.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | Subwords | 173801 | [173801-subwords.json](./173801-subwords.json) |
@@ -12592,6 +12596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Sport | 368572 | [368572-sweet-sport.json](./368572-sweet-sport.json) |
 | Sweet Starlight Sisters | 378897 | [378897-sweet-starlight-sisters.json](./378897-sweet-starlight-sisters.json) |
+| Sweet Story Neko | 371441 | [371441-sweet-story-neko.json](./371441-sweet-story-neko.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
 | Sweet Survivors: Gold Edition | 385210 | [385210-sweet-survivors-gold-edition.json](./385210-sweet-survivors-gold-edition.json) |
