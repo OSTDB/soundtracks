@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamla | 266813 | [266813-kamla.json](./266813-kamla.json) |
 | Kampf dem Terror | 98977 | [98977-kampf-dem-terror.json](./98977-kampf-dem-terror.json) |
 | Kana | 303607 | [303607-kana.json](./303607-kana.json) |
+| Kana No Mado | 364728 | [364728-kana-no-mado.json](./364728-kana-no-mado.json) |
 | Kana Seito Defense | 324293 | [324293-kana-seito-defense.json](./324293-kana-seito-defense.json) |
 | Kana: Imouto | 56771 | [56771-kana-imouto.json](./56771-kana-imouto.json) |
 | Kanamono | 168215 | [168215-kanamono.json](./168215-kanamono.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Revolution: Glee | 50618 | [50618-karaoke-revolution-glee.json](./50618-karaoke-revolution-glee.json) |
 | Karaoke Revolution: J-POP Best vol.1 | 71469 | [71469-karaoke-revolution-j-pop-best-vol-1.json](./71469-karaoke-revolution-j-pop-best-vol-1.json) |
 | Karaoke Revolution: J-POP Best vol.2 | 73233 | [73233-karaoke-revolution-j-pop-best-vol-2.json](./73233-karaoke-revolution-j-pop-best-vol-2.json) |
+| Karaoke Squad | 364693 | [364693-karaoke-squad.json](./364693-karaoke-squad.json) |
 | Karaoke Studio | 79252 | [79252-karaoke-studio.json](./79252-karaoke-studio.json) |
 | Karate | 14253 | [14253-karate.json](./14253-karate.json) |
 | Karate Blazers | 39579 | [39579-karate-blazers.json](./39579-karate-blazers.json) |
@@ -516,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keda | 178509 | [178509-keda.json](./178509-keda.json) |
 | Keep Deep Sheep | 333607 | [333607-keep-deep-sheep.json](./333607-keep-deep-sheep.json) |
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
+| Keep Digging | 364702 | [364702-keep-digging.json](./364702-keep-digging.json) |
 | Keep Driving | 310904 | [310904-keep-driving.json](./310904-keep-driving.json) |
 | Keep Fe Chicken | 179133 | [179133-keep-fe-chicken.json](./179133-keep-fe-chicken.json) |
 | Keep Flip | 264594 | [264594-keep-flip.json](./264594-keep-flip.json) |
