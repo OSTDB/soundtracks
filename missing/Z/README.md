@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac Legion | 150077 | [150077-zodiac-legion.json](./150077-zodiac-legion.json) |
 | Zodiac Online | 93558 | [93558-zodiac-online.json](./93558-zodiac-online.json) |
 | Zodiac Paradigm | 353874 | [353874-zodiac-paradigm.json](./353874-zodiac-paradigm.json) |
+| Zodiac Requiem | 373741 | [373741-zodiac-requiem.json](./373741-zodiac-requiem.json) |
 | ZodiacChild | 216813 | [216813-zodiacchild.json](./216813-zodiacchild.json) |
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
