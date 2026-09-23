@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sawdust | 314039 | [314039-sawdust.json](./314039-sawdust.json) |
 | Sawmania | 355124 | [355124-sawmania.json](./355124-sawmania.json) |
 | Sawmill | 312894 | [312894-sawmill.json](./312894-sawmill.json) |
+| Sawmill Simulator | 389735 | [389735-sawmill-simulator.json](./389735-sawmill-simulator.json) |
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
@@ -3442,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
 | Shroud of the Avatar - The Path of Virtue | 95995 | [95995-shroud-of-the-avatar-the-path-of-virtue.json](./95995-shroud-of-the-avatar-the-path-of-virtue.json) |
+| Shroud of the Woods | 389729 | [389729-shroud-of-the-woods.json](./389729-shroud-of-the-woods.json) |
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
@@ -5624,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
 | Socks & Pants | 357300 | [357300-socks-and-pants.json](./357300-socks-and-pants.json) |
+| Socks! | 389699 | [389699-socks.json](./389699-socks.json) |
 | SOCOM II: U.S. Navy SEALs | 8240 | [8240-socom-ii-u-s-navy-seals.json](./8240-socom-ii-u-s-navy-seals.json) |
 | Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
@@ -6012,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
 | Songs of the Chalice | 224668 | [224668-songs-of-the-chalice.json](./224668-songs-of-the-chalice.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
+| Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
 | Sonic & Knuckles | 239072 | [239072-sonic-and-knuckles.json](./239072-sonic-and-knuckles.json) |
@@ -9268,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Flood | 275710 | [275710-steel-flood.json](./275710-steel-flood.json) |
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
 | Steel Hearts | 337703 | [337703-steel-hearts.json](./337703-steel-hearts.json) |
+| Steel Heaven | 389718 | [389718-steel-heaven.json](./389718-steel-heaven.json) |
 | Steel Horizon | 20691 | [20691-steel-horizon.json](./20691-steel-horizon.json) |
 | Steel Hornet | 328617 | [328617-steel-hornet.json](./328617-steel-hornet.json) |
 | Steel Hunters | 301568 | [301568-steel-hunters.json](./301568-steel-hunters.json) |
@@ -10573,6 +10578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
 | Summer Athletics | 5196 | [5196-summer-athletics.json](./5196-summer-athletics.json) |
 | Summer Beach Vacation Objects - Hidden Object Time | 102814 | [102814-summer-beach-vacation-objects-hidden-object-time.json](./102814-summer-beach-vacation-objects-hidden-object-time.json) |
+| Summer Before Dawn | 389745 | [389745-summer-before-dawn.json](./389745-summer-before-dawn.json) |
 | Summer Camp | 167865 | [167865-summer-camp.json](./167865-summer-camp.json) |
 | Summer Camp Showdown | 208355 | [208355-summer-camp-showdown.json](./208355-summer-camp-showdown.json) |
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
