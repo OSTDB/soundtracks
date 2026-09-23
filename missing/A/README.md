@@ -3617,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | App Empire Tycoon | 363957 | [363957-app-empire-tycoon.json](./363957-app-empire-tycoon.json) |
 | Appa | 367951 | [367951-appa.json](./367951-appa.json) |
 | Appalachian Onslaught | 399090 | [399090-appalachian-onslaught.json](./399090-appalachian-onslaught.json) |
+| Apparatus: Exanimus | 361328 | [361328-apparatus-exanimus.json](./361328-apparatus-exanimus.json) |
 | Appare-den: Fukuryuu no Shou | 243782 | [243782-appare-den-fukuryuu-no-shou.json](./243782-appare-den-fukuryuu-no-shou.json) |
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
@@ -4281,7 +4282,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
+| Argus | 361325 | [361325-argus.json](./361325-argus.json) |
 | Argus | 363051 | [363051-argus.json](./363051-argus.json) |
+| Argus DX | 361326 | [361326-argus-dx.json](./361326-argus-dx.json) |
 | Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
 | Ari In Wonderland: Episode 1 | 200646 | [200646-ari-in-wonderland-episode-1.json](./200646-ari-in-wonderland-episode-1.json) |
 | Aria | 192416 | [192416-aria.json](./192416-aria.json) |
