@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epsilon | 17391 | [17391-epsilon.json](./17391-epsilon.json) |
 | Epsilon corp. | 33082 | [33082-epsilon-corp.json](./33082-epsilon-corp.json) |
 | Epsilon Eridana | 217301 | [217301-epsilon-eridana.json](./217301-epsilon-eridana.json) |
+| Epsilon Protocol | 342277 | [342277-epsilon-protocol.json](./342277-epsilon-protocol.json) |
 | Epsilon Tahari: Reign of the Machines | 69736 | [69736-epsilon-tahari-reign-of-the-machines.json](./69736-epsilon-tahari-reign-of-the-machines.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
