@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino by eGames | 165547 | [165547-casino-by-egames.json](./165547-casino-by-egames.json) |
 | Casino Casualty | 365099 | [365099-casino-casualty.json](./365099-casino-casualty.json) |
 | Casino Challenge | 44640 | [44640-casino-challenge.json](./44640-casino-challenge.json) |
+| Casino Clicker: Vegas Style | 373221 | [373221-casino-clicker-vegas-style.json](./373221-casino-clicker-vegas-style.json) |
 | Casino Conqueror | 273376 | [273376-casino-conqueror.json](./273376-casino-conqueror.json) |
 | Casino De Pink | 41372 | [41372-casino-de-pink.json](./41372-casino-de-pink.json) |
 | Casino Inc: The Management | 70951 | [70951-casino-inc-the-management.json](./70951-casino-inc-the-management.json) |
@@ -1419,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch 'Em | 80503 | [80503-catch-em.json](./80503-catch-em.json) |
 | Catch 'Em! Goldfish Scooping | 106973 | [106973-catch-em-goldfish-scooping.json](./106973-catch-em-goldfish-scooping.json) |
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
+| Catch & Defense | 373190 | [373190-catch-and-defense.json](./373190-catch-and-defense.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
 | Catch Bus | 232033 | [232033-catch-bus.json](./232033-catch-bus.json) |
 | Catch Canvas | 33095 | [33095-catch-canvas.json](./33095-catch-canvas.json) |
@@ -4858,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Baker | 106361 | [106361-cookie-baker.json](./106361-cookie-baker.json) |
 | Cookie Clicker | 215855 | [215855-cookie-clicker.json](./215855-cookie-clicker.json) |
+| Cookie Clicker Collector | 373222 | [373222-cookie-clicker-collector.json](./373222-cookie-clicker-collector.json) |
 | Cookie Clicker PSP | 397263 | [397263-cookie-clicker-psp.json](./397263-cookie-clicker-psp.json) |
 | Cookie Game | 266299 | [266299-cookie-game.json](./266299-cookie-game.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
@@ -6985,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuttlemania! | 159270 | [159270-cuttlemania.json](./159270-cuttlemania.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
 | Cuyo | 132617 | [132617-cuyo.json](./132617-cuyo.json) |
+| Cuzuco | 373185 | [373185-cuzuco.json](./373185-cuzuco.json) |
 | CV: Casting Voice | 62450 | [62450-cv-casting-voice.json](./62450-cv-casting-voice.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
