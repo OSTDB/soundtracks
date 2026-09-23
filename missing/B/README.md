@@ -3728,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Jam: Cute Edition | 332516 | [332516-block-jam-cute-edition.json](./332516-block-jam-cute-edition.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
+| Block Master 3D Puzzle | 357976 | [357976-block-master-3d-puzzle.json](./357976-block-master-3d-puzzle.json) |
 | Block Mesa 64 | 193328 | [193328-block-mesa-64.json](./193328-block-mesa-64.json) |
 | Block N Load 2 | 204443 | [204443-block-n-load-2.json](./204443-block-n-load-2.json) |
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
@@ -5138,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Voyage | 21483 | [21483-brain-voyage.json](./21483-brain-voyage.json) |
 | Brain vs Zombies | 128993 | [128993-brain-vs-zombies.json](./128993-brain-vs-zombies.json) |
 | Brain Wars | 83580 | [83580-brain-wars.json](./83580-brain-wars.json) |
+| Brain Workout: 15 Puzzles for Memory, Math & Logic | 357977 | [357977-brain-workout-15-puzzles-for-memory-math-and-logic.json](./357977-brain-workout-15-puzzles-for-memory-math-and-logic.json) |
 | Brain Workout! Jellyfish Puzzle | 364099 | [364099-brain-workout-jellyfish-puzzle.json](./364099-brain-workout-jellyfish-puzzle.json) |
 | Brain You Later | 135677 | [135677-brain-you-later.json](./135677-brain-you-later.json) |
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
@@ -6284,6 +6286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | Burntcrust | 389089 | [389089-burntcrust.json](./389089-burntcrust.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
+| Burr Puzzle | 357978 | [357978-burr-puzzle.json](./357978-burr-puzzle.json) |
 | Burrito Bison | 284172 | [284172-burrito-bison.json](./284172-burrito-bison.json) |
 | Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
 | Burrito Galaxy 65 | 61875 | [61875-burrito-galaxy-65.json](./61875-burrito-galaxy-65.json) |
