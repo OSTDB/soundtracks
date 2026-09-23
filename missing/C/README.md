@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capiophobia | 179115 | [179115-capiophobia.json](./179115-capiophobia.json) |
 | Capital | 164431 | [164431-capital.json](./164431-capital.json) |
 | Capital | 311489 | [311489-capital.json](./311489-capital.json) |
+| Capital Cities Trivia | 365874 | [365874-capital-cities-trivia.json](./365874-capital-cities-trivia.json) |
 | Capital Fire | 284885 | [284885-capital-fire.json](./284885-capital-fire.json) |
 | Capital Kings | 342635 | [342635-capital-kings.json](./342635-capital-kings.json) |
 | Capital Simulator | 148483 | [148483-capital-simulator.json](./148483-capital-simulator.json) |
@@ -5801,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Soccer | 104631 | [104631-crazy-soccer.json](./104631-crazy-soccer.json) |
 | Crazy Sonic | 352784 | [352784-crazy-sonic.json](./352784-crazy-sonic.json) |
 | Crazy Space Goat Simulator 3D - 2 | 101960 | [101960-crazy-space-goat-simulator-3d-2.json](./101960-crazy-space-goat-simulator-3d-2.json) |
+| Crazy Squares: Milk River Run | 365889 | [365889-crazy-squares-milk-river-run.json](./365889-crazy-squares-milk-river-run.json) |
 | Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
 | Crazy Tapper + | 175343 | [175343-crazy-tapper.json](./175343-crazy-tapper.json) |
