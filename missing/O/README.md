@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octagon - A Minimal Game with Maximum Challenge | 88290 | [88290-octagon-a-minimal-game-with-maximum-challenge.json](./88290-octagon-a-minimal-game-with-maximum-challenge.json) |
 | Octagon 2: Extreme Evolution | 175418 | [175418-octagon-2-extreme-evolution.json](./175418-octagon-2-extreme-evolution.json) |
 | Octagon Squad | 30211 | [30211-octagon-squad.json](./30211-octagon-squad.json) |
+| Octane100 | 359571 | [359571-octane100.json](./359571-octane100.json) |
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
 | Octave | 180675 | [180675-octave.json](./180675-octave.json) |
 | Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
