@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
+| Pad Quad | 376144 | [376144-pad-quad.json](./376144-pad-quad.json) |
 | Paddington Run | 83249 | [83249-paddington-run.json](./83249-paddington-run.json) |
 | Paddington's Early Visit | 83251 | [83251-paddingtons-early-visit.json](./83251-paddingtons-early-visit.json) |
 | Paddington's Garden Game | 83250 | [83250-paddingtons-garden-game.json](./83250-paddingtons-garden-game.json) |
@@ -4759,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pricolage: Idolized | 260237 | [260237-pricolage-idolized.json](./260237-pricolage-idolized.json) |
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
+| Priest Simulator: Her Ghost | 376138 | [376138-priest-simulator-her-ghost.json](./376138-priest-simulator-her-ghost.json) |
 | Priest Simulator: Vampire Show | 110993 | [110993-priest-simulator-vampire-show.json](./110993-priest-simulator-vampire-show.json) |
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
@@ -5533,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promised Harvest | 418712 | [418712-promised-harvest.json](./418712-promised-harvest.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Promo Pack 2x1 | 212786 | [212786-promo-pack-2x1.json](./212786-promo-pack-2x1.json) |
+| ProMods Canada | 376091 | [376091-promods-canada.json](./376091-promods-canada.json) |
 | Promotion | 377610 | [377610-promotion.json](./377610-promotion.json) |
 | Pröng | 183003 | [183003-prong.json](./183003-prong.json) |
 | Pronty | 143125 | [143125-pronty.json](./143125-pronty.json) |
