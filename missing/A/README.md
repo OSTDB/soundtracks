@@ -4047,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arch Rivals | 4515 | [4515-arch-rivals.json](./4515-arch-rivals.json) |
 | Arch Virtual HQ | 105888 | [105888-arch-virtual-hq.json](./105888-arch-virtual-hq.json) |
 | Archaeogem | 219060 | [219060-archaeogem.json](./219060-archaeogem.json) |
+| Archaeology: Egypt | 371480 | [371480-archaeology-egypt.json](./371480-archaeology-egypt.json) |
 | Archaeology: Grass Farm | 368559 | [368559-archaeology-grass-farm.json](./368559-archaeology-grass-farm.json) |
 | Archaeology: Grass Kingdom | 368562 | [368562-archaeology-grass-kingdom.json](./368562-archaeology-grass-kingdom.json) |
 | Archaid | 133211 | [133211-archaid.json](./133211-archaid.json) |
