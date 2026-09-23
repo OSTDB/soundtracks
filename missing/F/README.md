@@ -4617,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
+| Fully Automated | 384762 | [384762-fully-automated.json](./384762-fully-automated.json) |
 | Fully Automated Luxury Gay Space Communism | 69522 | [69522-fully-automated-luxury-gay-space-communism.json](./69522-fully-automated-luxury-gay-space-communism.json) |
 | Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
 | Fully Loaded Collector's Pack - Awesomenauts Assemble! Game Bundle | 90662 | [90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json](./90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json) |
