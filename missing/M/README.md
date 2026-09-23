@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maneki's Curse | 33384 | [33384-manekis-curse.json](./33384-manekis-curse.json) |
 | Manes | 70083 | [70083-manes.json](./70083-manes.json) |
 | Maneuver Warfare | 293419 | [293419-maneuver-warfare.json](./293419-maneuver-warfare.json) |
+| Maneuver Warfare 2: BTG | 390243 | [390243-maneuver-warfare-2-btg.json](./390243-maneuver-warfare-2-btg.json) |
 | Maneuver Warfare: CSS Pack | 293423 | [293423-maneuver-warfare-css-pack.json](./293423-maneuver-warfare-css-pack.json) |
 | Maneuver Warfare: Headquarters Pack | 293424 | [293424-maneuver-warfare-headquarters-pack.json](./293424-maneuver-warfare-headquarters-pack.json) |
 | Maneuver Warfare: Mission Pack South | 293422 | [293422-maneuver-warfare-mission-pack-south.json](./293422-maneuver-warfare-mission-pack-south.json) |
@@ -1526,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
 | Mars 2055 | 208437 | [208437-mars-2055.json](./208437-mars-2055.json) |
 | Mars Assault: 3D Shooter | 294849 | [294849-mars-assault-3d-shooter.json](./294849-mars-assault-3d-shooter.json) |
+| Mars Base Alley | 390237 | [390237-mars-base-alley.json](./390237-mars-base-alley.json) |
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
 | Mars Chaos Madness | 111452 | [111452-mars-chaos-madness.json](./111452-mars-chaos-madness.json) |
 | Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
@@ -2535,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega City Void | 190105 | [190105-mega-city-void.json](./190105-mega-city-void.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
 | Mega Custom Night | 389412 | [389412-mega-custom-night.json](./389412-mega-custom-night.json) |
+| Mega Deal Card | 390276 | [390276-mega-deal-card.json](./390276-mega-deal-card.json) |
 | Mega Demon Blaster | 207379 | [207379-mega-demon-blaster.json](./207379-mega-demon-blaster.json) |
 | Mega Drive 3 | 230834 | [230834-mega-drive-3.json](./230834-mega-drive-3.json) |
 | Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
@@ -5375,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Mercs | 402979 | [402979-monster-mercs.json](./402979-monster-mercs.json) |
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
 | Monster Mind | 137004 | [137004-monster-mind.json](./137004-monster-mind.json) |
+| Monster Mine Clash | 390245 | [390245-monster-mine-clash.json](./390245-monster-mine-clash.json) |
 | Monster Mingle | 23222 | [23222-monster-mingle.json](./23222-monster-mingle.json) |
 | Monster Minis Extreme Off-Road | 108292 | [108292-monster-minis-extreme-off-road.json](./108292-monster-minis-extreme-off-road.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
@@ -6579,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
 | Mushroom Moonrise | 287780 | [287780-mushroom-moonrise.json](./287780-mushroom-moonrise.json) |
 | Mushroom Mountain | 248114 | [248114-mushroom-mountain.json](./248114-mushroom-mountain.json) |
+| Mushroom Nook | 390241 | [390241-mushroom-nook.json](./390241-mushroom-nook.json) |
 | Mushroom Pancakes | 321538 | [321538-mushroom-pancakes.json](./321538-mushroom-pancakes.json) |
 | Mushroom Picker Simulator | 149045 | [149045-mushroom-picker-simulator.json](./149045-mushroom-picker-simulator.json) |
 | Mushroom Simulator Co-op | 401841 | [401841-mushroom-simulator-co-op.json](./401841-mushroom-simulator-co-op.json) |
@@ -7116,6 +7121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Dog 2 | 269099 | [269099-my-talking-dog-2.json](./269099-my-talking-dog-2.json) |
 | My Talking Girl | 300429 | [300429-my-talking-girl.json](./300429-my-talking-girl.json) |
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
+| My Tasty Husband | 390235 | [390235-my-tasty-husband.json](./390235-my-tasty-husband.json) |
 | My Teacher is an Alien | 148515 | [148515-my-teacher-is-an-alien.json](./148515-my-teacher-is-an-alien.json) |
 | My Thai Boyfriend | 291078 | [291078-my-thai-boyfriend.json](./291078-my-thai-boyfriend.json) |
 | My Therapy | 207540 | [207540-my-therapy.json](./207540-my-therapy.json) |
