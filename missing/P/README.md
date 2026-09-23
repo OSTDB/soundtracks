@@ -3657,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon | 221996 | [221996-pokemon.json](./221996-pokemon.json) |
 | Pokémon 2000 Adventure Game | 254167 | [254167-pokemon-2000-adventure-game.json](./254167-pokemon-2000-adventure-game.json) |
 | Pokémon Advanced: Cyber Poké Ball 2 | 245422 | [245422-pokemon-advanced-cyber-poke-ball-2.json](./245422-pokemon-advanced-cyber-poke-ball-2.json) |
+| Pokémon Ageless | 360182 | [360182-pokemon-ageless.json](./360182-pokemon-ageless.json) |
 | Pokémon Alpha Sapphire | 6898 | [6898-pokemon-alpha-sapphire.json](./6898-pokemon-alpha-sapphire.json) |
 | Pokémon Altair | 129807 | [129807-pokemon-altair.json](./129807-pokemon-altair.json) |
 | Pokémon Altar | 232685 | [232685-pokemon-altar.json](./232685-pokemon-altar.json) |
@@ -3708,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle e Card: Freezing Ray | 220853 | [220853-pokemon-battle-e-card-freezing-ray.json](./220853-pokemon-battle-e-card-freezing-ray.json) |
 | Pokémon Battle Online | 323760 | [323760-pokemon-battle-online.json](./323760-pokemon-battle-online.json) |
 | Pokémon Battle Woods | 229043 | [229043-pokemon-battle-woods.json](./229043-pokemon-battle-woods.json) |
+| Pokémon Beyond DX | 360180 | [360180-pokemon-beyond-dx.json](./360180-pokemon-beyond-dx.json) |
 | Pokémon Black 2 Kaizo | 230510 | [230510-pokemon-black-2-kaizo.json](./230510-pokemon-black-2-kaizo.json) |
 | Pokémon Blaze Black 2 | 137113 | [137113-pokemon-blaze-black-2.json](./137113-pokemon-blaze-black-2.json) |
 | Pokémon Blazed Glazed | 129808 | [129808-pokemon-blazed-glazed.json](./129808-pokemon-blazed-glazed.json) |
@@ -3725,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Channel-e: Line Art Card - The Pikachu Star | 354532 | [354532-pokemon-channel-e-line-art-card-the-pikachu-star.json](./354532-pokemon-channel-e-line-art-card-the-pikachu-star.json) |
 | Pokemon Classic | 409748 | [409748-pokemon-classic.json](./409748-pokemon-classic.json) |
 | Pokémon Clover | 129810 | [129810-pokemon-clover.json](./129810-pokemon-clover.json) |
+| Pokémon Coda | 360178 | [360178-pokemon-coda.json](./360178-pokemon-coda.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-P001 - Hunter no Bit | 355521 | [355521-pokemon-colosseum-double-battle-card-e-13-p001-hunter-no-bit.json](./355521-pokemon-colosseum-double-battle-card-e-13-p001-hunter-no-bit.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-P002 - Snatch-dan no Gaku | 355523 | [355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json](./355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json) |
 | Pokémon Cross Stadium | 281394 | [281394-pokemon-cross-stadium.json](./281394-pokemon-cross-stadium.json) |
@@ -3733,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
 | Pokémon Daybreak | 241389 | [241389-pokemon-daybreak.json](./241389-pokemon-daybreak.json) |
 | Pokemon Daycare | 264130 | [264130-pokemon-daycare.json](./264130-pokemon-daycare.json) |
+| Pokémon Decay | 360192 | [360192-pokemon-decay.json](./360192-pokemon-decay.json) |
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
 | Pokémon Dreary | 213962 | [213962-pokemon-dreary.json](./213962-pokemon-dreary.json) |
 | Pokémon Duelist | 359980 | [359980-pokemon-duelist.json](./359980-pokemon-duelist.json) |
@@ -3761,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Gadir | 232692 | [232692-pokemon-gadir.json](./232692-pokemon-gadir.json) |
 | Pokémon Gaia Version | 136997 | [136997-pokemon-gaia-version.json](./136997-pokemon-gaia-version.json) |
 | Pokémon Gamma Emerald | 342762 | [342762-pokemon-gamma-emerald.json](./342762-pokemon-gamma-emerald.json) |
+| Pokémon Glacial Chronicles | 360193 | [360193-pokemon-glacial-chronicles.json](./360193-pokemon-glacial-chronicles.json) |
 | Pokémon Go: Dual Destiny | 323177 | [323177-pokemon-go-dual-destiny.json](./323177-pokemon-go-dual-destiny.json) |
 | Pokémon Go: Forever Forward | 403036 | [403036-pokemon-go-forever-forward.json](./403036-pokemon-go-forever-forward.json) |
 | Pokémon Go: Max Out | 316620 | [316620-pokemon-go-max-out.json](./316620-pokemon-go-max-out.json) |
@@ -3785,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Legends: Arceus - Daybreak | 221843 | [221843-pokemon-legends-arceus-daybreak.json](./221843-pokemon-legends-arceus-daybreak.json) |
 | Pokemon Lightning Yellow | 365745 | [365745-pokemon-lightning-yellow.json](./365745-pokemon-lightning-yellow.json) |
 | Pokémon Lost Silver | 320167 | [320167-pokemon-lost-silver.json](./320167-pokemon-lost-silver.json) |
+| Pokémon Lost World: Echoes of Eternity | 360181 | [360181-pokemon-lost-world-echoes-of-eternity.json](./360181-pokemon-lost-world-echoes-of-eternity.json) |
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Mino | 265214 | [265214-pokemon-mino.json](./265214-pokemon-mino.json) |
@@ -3834,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Royal Sapphire | 361219 | [361219-pokemon-royal-sapphire.json](./361219-pokemon-royal-sapphire.json) |
 | Pokémon Royal Version | 172758 | [172758-pokemon-royal-version.json](./172758-pokemon-royal-version.json) |
 | Pokémon Ruby Version | 355535 | [355535-pokemon-ruby-version.json](./355535-pokemon-ruby-version.json) |
+| Pokémon Ruckus | 360176 | [360176-pokemon-ruckus.json](./360176-pokemon-ruckus.json) |
 | Pokémon Rumble Blast | 4561 | [4561-pokemon-rumble-blast.json](./4561-pokemon-rumble-blast.json) |
 | Pokémon Run & Bun | 246077 | [246077-pokemon-run-and-bun.json](./246077-pokemon-run-and-bun.json) |
 | Pokémon Sacred Gold | 145626 | [145626-pokemon-sacred-gold.json](./145626-pokemon-sacred-gold.json) |
@@ -3846,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
 | Pokémon Sodateyasan Mini | 92306 | [92306-pokemon-sodateyasan-mini.json](./92306-pokemon-sodateyasan-mini.json) |
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
+| Pokémon Sors 2 | 360194 | [360194-pokemon-sors-2.json](./360194-pokemon-sors-2.json) |
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Stadium 2 | 2290 | [2290-pokemon-stadium-2.json](./2290-pokemon-stadium-2.json) |
 | Pokémon Stadium Club | 357347 | [357347-pokemon-stadium-club.json](./357347-pokemon-stadium-club.json) |
@@ -3873,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Twilight: Solar | 323904 | [323904-pokemon-twilight-solar.json](./323904-pokemon-twilight-solar.json) |
 | Pokémon Ultra Moon | 36793 | [36793-pokemon-ultra-moon.json](./36793-pokemon-ultra-moon.json) |
 | Pokémon Ultra Sun & Pokémon Ultra Moon: Veteran Trainer's Dual Pack | 136275 | [136275-pokemon-ultra-sun-and-pokemon-ultra-moon-veteran-trainers-dual-pack.json](./136275-pokemon-ultra-sun-and-pokemon-ultra-moon-veteran-trainers-dual-pack.json) |
+| Pokémon Umbra | 360195 | [360195-pokemon-umbra.json](./360195-pokemon-umbra.json) |
 | Pokemon Umbra Moon | 288202 | [288202-pokemon-umbra-moon.json](./288202-pokemon-umbra-moon.json) |
 | Pokémon Unbound | 141663 | [141663-pokemon-unbound.json](./141663-pokemon-unbound.json) |
 | Pokémon Unbreakable Ties | 271214 | [271214-pokemon-unbreakable-ties.json](./271214-pokemon-unbreakable-ties.json) |
@@ -3889,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon White Version 2 | 8353 | [8353-pokemon-white-version-2.json](./8353-pokemon-white-version-2.json) |
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
+| Pokémon: A Star in the Desert | 360191 | [360191-pokemon-a-star-in-the-desert.json](./360191-pokemon-a-star-in-the-desert.json) |
 | Pokémon: Battle Factory | 339247 | [339247-pokemon-battle-factory.json](./339247-pokemon-battle-factory.json) |
 | Pokémon: Blossom of the Soul | 143023 | [143023-pokemon-blossom-of-the-soul.json](./143023-pokemon-blossom-of-the-soul.json) |
 | Pokémon: Burning Lotus | 265218 | [265218-pokemon-burning-lotus.json](./265218-pokemon-burning-lotus.json) |
