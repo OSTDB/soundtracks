@@ -3822,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Realize ~Wintertide Miracles~ Limited Edition | 112919 | [112919-code-realize-wintertide-miracles-limited-edition.json](./112919-code-realize-wintertide-miracles-limited-edition.json) |
 | Code: To Jin Yong | 208466 | [208466-code-to-jin-yong.json](./208466-code-to-jin-yong.json) |
 | Code: X | 174798 | [174798-code-x.json](./174798-code-x.json) |
+| Code::Lux | 372092 | [372092-code-lux.json](./372092-code-lux.json) |
 | Code/The Werewolf Party | 120927 | [120927-code-the-werewolf-party.json](./120927-code-the-werewolf-party.json) |
 | Code5erpent | 281998 | [281998-code5erpent.json](./281998-code5erpent.json) |
 | Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
@@ -5399,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
 | Cozy Forest | 369084 | [369084-cozy-forest.json](./369084-cozy-forest.json) |
+| Cozy Garden | 372141 | [372141-cozy-garden.json](./372141-cozy-garden.json) |
 | Cozy Gardener Simulator & House Renovator Simulator | 377273 | [377273-cozy-gardener-simulator-and-house-renovator-simulator.json](./377273-cozy-gardener-simulator-and-house-renovator-simulator.json) |
 | Cozy Grove | 144800 | [144800-cozy-grove.json](./144800-cozy-grove.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
@@ -5623,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
+| Crashout Crew | 372144 | [372144-crashout-crew.json](./372144-crashout-crew.json) |
 | Crashy Cars! | 247178 | [247178-crashy-cars.json](./247178-crashy-cars.json) |
 | Crashy Cops! | 104642 | [104642-crashy-cops.json](./104642-crashy-cops.json) |
 | Crashy Laps | 244237 | [244237-crashy-laps.json](./244237-crashy-laps.json) |
