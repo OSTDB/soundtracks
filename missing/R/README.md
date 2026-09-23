@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raceborn | 311638 | [311638-raceborn.json](./311638-raceborn.json) |
 | Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
 | Racer | 79859 | [79859-racer.json](./79859-racer.json) |
+| Racer Overdrive | 373188 | [373188-racer-overdrive.json](./373188-racer-overdrive.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
 | RaceRoom - Audi Sport TT Cup 2015 | 53170 | [53170-raceroom-audi-sport-tt-cup-2015.json](./53170-raceroom-audi-sport-tt-cup-2015.json) |
 | RaceRoom - DTM Experience 2015 | 53168 | [53168-raceroom-dtm-experience-2015.json](./53168-raceroom-dtm-experience-2015.json) |
@@ -159,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaceTrap | 287213 | [287213-racetrap.json](./287213-racetrap.json) |
 | Raceway | 245416 | [245416-raceway.json](./245416-raceway.json) |
 | Raceway: Drag & Stock Racing | 168316 | [168316-raceway-drag-and-stock-racing.json](./168316-raceway-drag-and-stock-racing.json) |
+| RaceWorms | 373179 | [373179-raceworms.json](./373179-raceworms.json) |
 | RaceXXL Space | 367394 | [367394-racexxl-space.json](./367394-racexxl-space.json) |
 | Rachel and Ariane | 255101 | [255101-rachel-and-ariane.json](./255101-rachel-and-ariane.json) |
 | Rachel's Game Pack | 208431 | [208431-rachels-game-pack.json](./208431-rachels-game-pack.json) |
@@ -1228,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
 | Rebound Raver | 147363 | [147363-rebound-raver.json](./147363-rebound-raver.json) |
 | Rebound Rivals | 311120 | [311120-rebound-rivals.json](./311120-rebound-rivals.json) |
+| RebreatheR | 373203 | [373203-rebreather.json](./373203-rebreather.json) |
 | Rebuild / Resist | 185523 | [185523-rebuild-resist.json](./185523-rebuild-resist.json) |
 | Rebuild 2 | 342030 | [342030-rebuild-2.json](./342030-rebuild-2.json) |
 | Rebuild the Wall | 289309 | [289309-rebuild-the-wall.json](./289309-rebuild-the-wall.json) |
@@ -1287,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recore: Collector's Edition | 41624 | [41624-recore-collectors-edition.json](./41624-recore-collectors-edition.json) |
 | ReCore: Definitive Edition | 54787 | [54787-recore-definitive-edition.json](./54787-recore-definitive-edition.json) |
 | Recore: Eye of Obsidian | 139396 | [139396-recore-eye-of-obsidian.json](./139396-recore-eye-of-obsidian.json) |
+| Recoup | 373182 | [373182-recoup.json](./373182-recoup.json) |
 | Recovery Syndicate | 235868 | [235868-recovery-syndicate.json](./235868-recovery-syndicate.json) |
 | Recovery: Search & Rescue | 53493 | [53493-recovery-search-and-rescue.json](./53493-recovery-search-and-rescue.json) |
 | Recreational Dreaming | 83574 | [83574-recreational-dreaming.json](./83574-recreational-dreaming.json) |
@@ -1582,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refantasia: Charm and Conquer | 200744 | [200744-refantasia-charm-and-conquer.json](./200744-refantasia-charm-and-conquer.json) |
 | Refarm | 312178 | [312178-refarm.json](./312178-refarm.json) |
 | Refbals | 392272 | [392272-refbals.json](./392272-refbals.json) |
+| Referee Life Simulator 2026 | 373192 | [373192-referee-life-simulator-2026.json](./373192-referee-life-simulator-2026.json) |
 | Refidenptio | 258988 | [258988-refidenptio.json](./258988-refidenptio.json) |
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
@@ -2689,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift of the NecroDancer: Undertale Music Pack | 397807 | [397807-rift-of-the-necrodancer-undertale-music-pack.json](./397807-rift-of-the-necrodancer-undertale-music-pack.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Runner | 143013 | [143013-rift-runner.json](./143013-rift-runner.json) |
+| Rift Survivors | 373199 | [373199-rift-survivors.json](./373199-rift-survivors.json) |
 | Rift Walker | 256905 | [256905-rift-walker.json](./256905-rift-walker.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
