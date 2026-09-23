@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EastwoodVR | 28868 | [28868-eastwoodvr.json](./28868-eastwoodvr.json) |
 | Eastwynne | 370219 | [370219-eastwynne.json](./370219-eastwynne.json) |
 | Easy Ball Game | 316069 | [316069-easy-ball-game.json](./316069-easy-ball-game.json) |
+| Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
 | Easy Jigsaw Puzzle | 377174 | [377174-easy-jigsaw-puzzle.json](./377174-easy-jigsaw-puzzle.json) |
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
@@ -510,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Crystal Chaser: Overlord's Orb of the Sky - Refined PC-9801 | 378794 | [378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json](./378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json) |
 | Eggconsole Guardic MSX | 323704 | [323704-eggconsole-guardic-msx.json](./323704-eggconsole-guardic-msx.json) |
 | Eggconsole Hydlide MSX | 315833 | [315833-eggconsole-hydlide-msx.json](./315833-eggconsole-hydlide-msx.json) |
+| Eggconsole Kiss of Murder PC-8801 | 375407 | [375407-eggconsole-kiss-of-murder-pc-8801.json](./375407-eggconsole-kiss-of-murder-pc-8801.json) |
 | Eggconsole Kohakuiro no Yuigon PC-8801mkIISR | 393629 | [393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json](./393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json) |
 | Eggconsole Lizard PC-8801 | 379358 | [379358-eggconsole-lizard-pc-8801.json](./379358-eggconsole-lizard-pc-8801.json) |
 | Eggconsole Meurtre d'un Clown PC-8801 | 401113 | [401113-eggconsole-meurtre-dun-clown-pc-8801.json](./401113-eggconsole-meurtre-dun-clown-pc-8801.json) |
@@ -996,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embracing Darkness | 235483 | [235483-embracing-darkness.json](./235483-embracing-darkness.json) |
 | Embryogenesis | 376614 | [376614-embryogenesis.json](./376614-embryogenesis.json) |
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
+| Emerald | 375415 | [375415-emerald.json](./375415-emerald.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
 | Emerald Caravan | 279139 | [279139-emerald-caravan.json](./279139-emerald-caravan.json) |
 | Emerald Dreams: Sanity - Platformer Quest | 349372 | [349372-emerald-dreams-sanity-platformer-quest.json](./349372-emerald-dreams-sanity-platformer-quest.json) |
