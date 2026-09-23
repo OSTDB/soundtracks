@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Force Genesis | 165652 | [165652-x-force-genesis.json](./165652-x-force-genesis.json) |
 | X-Force Under Attack | 251694 | [251694-x-force-under-attack.json](./251694-x-force-under-attack.json) |
 | X-Games: Pro Boarder | 44844 | [44844-x-games-pro-boarder.json](./44844-x-games-pro-boarder.json) |
+| X-Gravity | 374265 | [374265-x-gravity.json](./374265-x-gravity.json) |
 | X-Man | 79301 | [79301-x-man.json](./79301-x-man.json) |
 | X-Mas Bubble Mania | 385066 | [385066-x-mas-bubble-mania.json](./385066-x-mas-bubble-mania.json) |
 | X-Mas Eve | 224572 | [224572-x-mas-eve.json](./224572-x-mas-eve.json) |
