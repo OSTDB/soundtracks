@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
 | Red Beard Labyrinth | 110823 | [110823-red-beard-labyrinth.json](./110823-red-beard-labyrinth.json) |
 | Red Bird Adventure: Classic Physics Puzzle | 237358 | [237358-red-bird-adventure-classic-physics-puzzle.json](./237358-red-bird-adventure-classic-physics-puzzle.json) |
+| Red Bit Escape | 343983 | [343983-red-bit-escape.json](./343983-red-bit-escape.json) |
 | Red Blue Cell | 327844 | [327844-red-blue-cell.json](./327844-red-blue-cell.json) |
 | Red Bow | 118122 | [118122-red-bow.json](./118122-red-bow.json) |
 | Red Bow: Strange Dream | 380998 | [380998-red-bow-strange-dream.json](./380998-red-bow-strange-dream.json) |
@@ -2155,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
+| Restaurant Story | 343479 | [343479-restaurant-story.json](./343479-restaurant-story.json) |
 | Restaurant Tycoon | 75908 | [75908-restaurant-tycoon.json](./75908-restaurant-tycoon.json) |
 | Restaurant Tycoon: My Cooking Empire - Complete Edition | 399826 | [399826-restaurant-tycoon-my-cooking-empire-complete-edition.json](./399826-restaurant-tycoon-my-cooking-empire-complete-edition.json) |
 | Restaurant Tycoon: My Cooking Empire - Diamond Edition | 396927 | [396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json](./396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json) |
@@ -3811,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollimals | 385828 | [385828-rollimals.json](./385828-rollimals.json) |
 | Rollin' Rascals | 68935 | [68935-rollin-rascals.json](./68935-rollin-rascals.json) |
 | Rolling | 6017 | [6017-rolling.json](./6017-rolling.json) |
+| Rolling Ball | 345116 | [345116-rolling-ball.json](./345116-rolling-ball.json) |
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
 | Rolling Bird | 113510 | [113510-rolling-bird.json](./113510-rolling-bird.json) |
