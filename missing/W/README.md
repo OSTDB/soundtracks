@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Salon - Girls Makeup, Dressup and Makeover | 89196 | [89196-wedding-salon-girls-makeup-dressup-and-makeover.json](./89196-wedding-salon-girls-makeup-dressup-and-makeover.json) |
 | Weddle | 202801 | [202801-weddle.json](./202801-weddle.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
+| Weed & Greed | 348940 | [348940-weed-and-greed.json](./348940-weed-and-greed.json) |
 | Weed Bakery | 374631 | [374631-weed-bakery.json](./374631-weed-bakery.json) |
 | Weed Farmer | 200201 | [200201-weed-farmer.json](./200201-weed-farmer.json) |
 | Weed Garden Online | 374623 | [374623-weed-garden-online.json](./374623-weed-garden-online.json) |
