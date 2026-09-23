@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Time PriPara | 285041 | [285041-idol-time-pripara.json](./285041-idol-time-pripara.json) |
 | Idol-Mahjong Final Romance 2 | 75471 | [75471-idol-mahjong-final-romance-2.json](./75471-idol-mahjong-final-romance-2.json) |
 | Idols of Ash | 397084 | [397084-idols-of-ash.json](./397084-idols-of-ash.json) |
+| Idols Of Starlight | 357436 | [357436-idols-of-starlight.json](./357436-idols-of-starlight.json) |
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
@@ -1932,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intransigent | 326275 | [326275-intransigent.json](./326275-intransigent.json) |
 | Intravenous 2: Mercenarism | 274547 | [274547-intravenous-2-mercenarism.json](./274547-intravenous-2-mercenarism.json) |
 | Intravenous 3 | 397241 | [397241-intravenous-3.json](./397241-intravenous-3.json) |
+| Intravenous Collection | 357454 | [357454-intravenous-collection.json](./357454-intravenous-collection.json) |
 | Intrepid | 112999 | [112999-intrepid.json](./112999-intrepid.json) |
 | Intrepid | 297485 | [297485-intrepid.json](./297485-intrepid.json) |
 | Intrepid Izzy | 135822 | [135822-intrepid-izzy.json](./135822-intrepid-izzy.json) |
