@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it! Oden | 328503 | [328503-make-it-oden.json](./328503-make-it-oden.json) |
 | Make it! Pancakes | 364080 | [364080-make-it-pancakes.json](./364080-make-it-pancakes.json) |
 | Make it! Shaved Ice | 409545 | [409545-make-it-shaved-ice.json](./409545-make-it-shaved-ice.json) |
+| Make it! Sushi | 347327 | [347327-make-it-sushi.json](./347327-make-it-sushi.json) |
 | Make Magic Great Again | 391031 | [391031-make-magic-great-again.json](./391031-make-magic-great-again.json) |
 | Make me Float | 236959 | [236959-make-me-float.json](./236959-make-me-float.json) |
 | Make Merits in Another World | 370193 | [370193-make-merits-in-another-world.json](./370193-make-merits-in-another-world.json) |
@@ -1986,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match 3 Madness | 209552 | [209552-match-3-madness.json](./209552-match-3-madness.json) |
 | Match 3 Revolution | 34498 | [34498-match-3-revolution.json](./34498-match-3-revolution.json) |
 | Match 3x3 Collection | 93972 | [93972-match-3x3-collection.json](./93972-match-3x3-collection.json) |
+| Match App! | 347340 | [347340-match-app.json](./347340-match-app.json) |
 | Match Day & International Match Day | 403172 | [403172-match-day-and-international-match-day.json](./403172-match-day-and-international-match-day.json) |
 | Match Gems Evolved | 101969 | [101969-match-gems-evolved.json](./101969-match-gems-evolved.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
@@ -3119,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories in Late Summer | 109688 | [109688-memories-in-late-summer.json](./109688-memories-in-late-summer.json) |
 | Memories of a Vagabond | 17534 | [17534-memories-of-a-vagabond.json](./17534-memories-of-a-vagabond.json) |
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
+| Memories of Castlemouse | 346793 | [346793-memories-of-castlemouse.json](./346793-memories-of-castlemouse.json) |
 | Memories of Home | 51568 | [51568-memories-of-home.json](./51568-memories-of-home.json) |
 | Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
 | Memories of War: Undead Decimation | 169456 | [169456-memories-of-war-undead-decimation.json](./169456-memories-of-war-undead-decimation.json) |
@@ -3564,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorphosis | 115657 | [115657-metamorphosis.json](./115657-metamorphosis.json) |
 | Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
 | Metamorphosis | 319216 | [319216-metamorphosis.json](./319216-metamorphosis.json) |
+| Metamorphosis Collection | 346801 | [346801-metamorphosis-collection.json](./346801-metamorphosis-collection.json) |
 | Metanoia | 101326 | [101326-metanoia.json](./101326-metanoia.json) |
 | Metanoia | 322564 | [322564-metanoia.json](./322564-metanoia.json) |
 | MetaOps | 186241 | [186241-metaops.json](./186241-metaops.json) |
@@ -4246,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
+| Mind Over Monarchy | 347339 | [347339-mind-over-monarchy.json](./347339-mind-over-monarchy.json) |
 | Mind Palace | 307594 | [307594-mind-palace.json](./307594-mind-palace.json) |
 | Mind Reader | 107130 | [107130-mind-reader.json](./107130-mind-reader.json) |
 | Mind Reader | 229699 | [229699-mind-reader.json](./229699-mind-reader.json) |
@@ -4318,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineClicker | 180121 | [180121-mineclicker.json](./180121-mineclicker.json) |
 | MineColony | 24095 | [24095-minecolony.json](./24095-minecolony.json) |
 | Minecraft 4k | 238607 | [238607-minecraft-4k.json](./238607-minecraft-4k.json) |
+| Minecraft Backrooms Found Footage | 346784 | [346784-minecraft-backrooms-found-footage.json](./346784-minecraft-backrooms-found-footage.json) |
 | Minecraft Blast | 377668 | [377668-minecraft-blast.json](./377668-minecraft-blast.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
 | Minecraft Earth | 118711 | [118711-minecraft-earth.json](./118711-minecraft-earth.json) |
@@ -4476,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
 | Mini Game Compil 2 | 381731 | [381731-mini-game-compil-2.json](./381731-mini-game-compil-2.json) |
 | Mini Game Compil 3 | 322796 | [322796-mini-game-compil-3.json](./322796-mini-game-compil-3.json) |
+| Mini Game Machine | 346761 | [346761-mini-game-machine.json](./346761-mini-game-machine.json) |
 | Mini Garden Cafe | 260153 | [260153-mini-garden-cafe.json](./260153-mini-garden-cafe.json) |
 | Mini Golf | 209506 | [209506-mini-golf.json](./209506-mini-golf.json) |
 | Mini Golf | 209507 | [209507-mini-golf.json](./209507-mini-golf.json) |
@@ -5703,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Squad Rush | 208968 | [208968-monster-squad-rush.json](./208968-monster-squad-rush.json) |
 | Monster Super League | 80238 | [80238-monster-super-league.json](./80238-monster-super-league.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
+| Monster Survivors: Echo Edition | 347329 | [347329-monster-survivors-echo-edition.json](./347329-monster-survivors-echo-edition.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
 | Monster Tavern | 382776 | [382776-monster-tavern.json](./382776-monster-tavern.json) |
@@ -6594,6 +6602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Welder's Pinball Defence | 278146 | [278146-mr-welders-pinball-defence.json](./278146-mr-welders-pinball-defence.json) |
 | Mr.Wise | 236844 | [236844-mr-wise.json](./236844-mr-wise.json) |
 | MRC: Multi-Racing Championship | 3544 | [3544-mrc-multi-racing-championship.json](./3544-mrc-multi-racing-championship.json) |
+| MRG: Matando Robôs Gigantes - O Jogo | 346776 | [346776-mrg-matando-robos-gigantes-o-jogo.json](./346776-mrg-matando-robos-gigantes-o-jogo.json) |
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
 | Mrs. Fantastic's Freaky Figurine Shop | 166702 | [166702-mrs-fantastics-freaky-figurine-shop.json](./166702-mrs-fantastics-freaky-figurine-shop.json) |
 | MrToilet | 401824 | [401824-mrtoilet.json](./401824-mrtoilet.json) |
