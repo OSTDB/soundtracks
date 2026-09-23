@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Mages | 33448 | [33448-7-mages.json](./33448-7-mages.json) |
 | 7 Mages Complete | 52541 | [52541-7-mages-complete.json](./52541-7-mages-complete.json) |
 | 7 Meters Away: Oscar and the Cell of the Soul | 308955 | [308955-7-meters-away-oscar-and-the-cell-of-the-soul.json](./308955-7-meters-away-oscar-and-the-cell-of-the-soul.json) |
+| 7 Nights Later | 376143 | [376143-7-nights-later.json](./376143-7-nights-later.json) |
 | 7 Pillars | 41974 | [41974-7-pillars.json](./41974-7-pillars.json) |
 | 7 Planets | 175396 | [175396-7-planets.json](./175396-7-planets.json) |
 | 7 Sexy Sins | 127921 | [127921-7-sexy-sins.json](./127921-7-sexy-sins.json) |
