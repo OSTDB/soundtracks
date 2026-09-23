@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterpark Simulator | 151019 | [151019-waterpark-simulator.json](./151019-waterpark-simulator.json) |
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
 | Waterpark Simulator 2025 | 391857 | [391857-waterpark-simulator-2025.json](./391857-waterpark-simulator-2025.json) |
+| Waterpunk | 385852 | [385852-waterpunk.json](./385852-waterpunk.json) |
 | Waters & Fields Adventure Bundle | 271829 | [271829-waters-and-fields-adventure-bundle.json](./271829-waters-and-fields-adventure-bundle.json) |
 | Waters of Ragnarok | 403653 | [403653-waters-of-ragnarok.json](./403653-waters-of-ragnarok.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
@@ -2459,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful Wizard Reverie | 415892 | [415892-wonderful-wizard-reverie.json](./415892-wonderful-wizard-reverie.json) |
 | Wonderglade | 123424 | [123424-wonderglade.json](./123424-wonderglade.json) |
 | Wonderia | 285979 | [285979-wonderia.json](./285979-wonderia.json) |
+| WonderKing | 385831 | [385831-wonderking.json](./385831-wonderking.json) |
 | Wonderland | 377143 | [377143-wonderland.json](./377143-wonderland.json) |
 | Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
 | Wonderland Mahjong | 415957 | [415957-wonderland-mahjong.json](./415957-wonderland-mahjong.json) |
@@ -2719,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Boxing | 48599 | [48599-world-boxing.json](./48599-world-boxing.json) |
 | World Boxing Challenge | 237372 | [237372-world-boxing-challenge.json](./237372-world-boxing-challenge.json) |
 | World Boxing Manager | 30292 | [30292-world-boxing-manager.json](./30292-world-boxing-manager.json) |
+| World Challenge Golf | 385844 | [385844-world-challenge-golf.json](./385844-world-challenge-golf.json) |
 | World Champ | 130863 | [130863-world-champ.json](./130863-world-champ.json) |
 | World Championship Poker | 210721 | [210721-world-championship-poker.json](./210721-world-championship-poker.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
