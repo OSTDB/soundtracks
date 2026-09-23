@@ -3979,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoggoPromenade | 398349 | [398349-doggopromenade.json](./398349-doggopromenade.json) |
 | Doggy | 262423 | [262423-doggy.json](./262423-doggy.json) |
 | Doggy | 304054 | [304054-doggy.json](./304054-doggy.json) |
+| Doggy Quest: The Dark Forest | 378410 | [378410-doggy-quest-the-dark-forest.json](./378410-doggy-quest-the-dark-forest.json) |
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
 | Dogistry | 58799 | [58799-dogistry.json](./58799-dogistry.json) |
 | Dogma | 74466 | [74466-dogma.json](./74466-dogma.json) |
@@ -5856,6 +5857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Way to Home | 266795 | [266795-drunken-way-to-home.json](./266795-drunken-way-to-home.json) |
 | Drunken Wolf | 358880 | [358880-drunken-wolf.json](./358880-drunken-wolf.json) |
 | Drunkenpants | 80934 | [80934-drunkenpants.json](./80934-drunkenpants.json) |
+| DrunKing | 378399 | [378399-drunking.json](./378399-drunking.json) |
 | Drunkknight | 195689 | [195689-drunkknight.json](./195689-drunkknight.json) |
 | Drunkle Ted's Wet and Wreckless | 226819 | [226819-drunkle-teds-wet-and-wreckless.json](./226819-drunkle-teds-wet-and-wreckless.json) |
 | Drunkonauts | 375201 | [375201-drunkonauts.json](./375201-drunkonauts.json) |
