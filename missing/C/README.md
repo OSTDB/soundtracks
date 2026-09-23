@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
 | Castle Secrets: Between Day and Night | 87998 | [87998-castle-secrets-between-day-and-night.json](./87998-castle-secrets-between-day-and-night.json) |
 | Castle Shikigami 2 | 4149 | [4149-castle-shikigami-2.json](./4149-castle-shikigami-2.json) |
+| Castle Solitaire | 370338 | [370338-castle-solitaire.json](./370338-castle-solitaire.json) |
 | Castle Story | 3238 | [3238-castle-story.json](./3238-castle-story.json) |
 | Castle survival | 158047 | [158047-castle-survival.json](./158047-castle-survival.json) |
 | Castle Terroretra | 217868 | [217868-castle-terroretra.json](./217868-castle-terroretra.json) |
@@ -3987,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collective Unconscious | 301431 | [301431-collective-unconscious.json](./301431-collective-unconscious.json) |
 | Collector | 130936 | [130936-collector.json](./130936-collector.json) |
+| Collector: 10 Lives Challenge | 370313 | [370313-collector-10-lives-challenge.json](./370313-collector-10-lives-challenge.json) |
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
 | Collector's Edition: 251 Awesome Games! | 110319 | [110319-collectors-edition-251-awesome-games.json](./110319-collectors-edition-251-awesome-games.json) |
 | College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
@@ -4323,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Out, Cat | 363947 | [363947-come-out-cat.json](./363947-come-out-cat.json) |
 | Come To Dust | 283730 | [283730-come-to-dust.json](./283730-come-to-dust.json) |
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
+| Come To Play | 370293 | [370293-come-to-play.json](./370293-come-to-play.json) |
 | Come with Me | 147401 | [147401-come-with-me.json](./147401-come-with-me.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
 | Comet | 91155 | [91155-comet.json](./91155-comet.json) |
