@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Hop | 245417 | [245417-rabbit-hop.json](./245417-rabbit-hop.json) |
 | Rabbit in Dungeon | 316411 | [316411-rabbit-in-dungeon.json](./316411-rabbit-in-dungeon.json) |
 | Rabbit in the Clouds | 316849 | [316849-rabbit-in-the-clouds.json](./316849-rabbit-in-the-clouds.json) |
+| Rabbit Jump | 348946 | [348946-rabbit-jump.json](./348946-rabbit-jump.json) |
 | Rabbit Jump | 60004 | [60004-rabbit-jump.json](./60004-rabbit-jump.json) |
 | Rabbit Jumping DX | 344478 | [344478-rabbit-jumping-dx.json](./344478-rabbit-jumping-dx.json) |
 | Rabbit Run Away | 212466 | [212466-rabbit-run-away.json](./212466-rabbit-run-away.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reed ^_^ | 91141 | [91141-reed.json](./91141-reed.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
 | Reed Collection | 221993 | [221993-reed-collection.json](./221993-reed-collection.json) |
+| Reeelz | 348952 | [348952-reeelz.json](./348952-reeelz.json) |
 | Reef Rivals | 191825 | [191825-reef-rivals.json](./191825-reef-rivals.json) |
 | Reef Shot | 63699 | [63699-reef-shot.json](./63699-reef-shot.json) |
 | Reek N' Havok | 167254 | [167254-reek-n-havok.json](./167254-reek-n-havok.json) |
@@ -2213,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Game Pack | 147902 | [147902-retro-game-pack.json](./147902-retro-game-pack.json) |
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
 | Retro Garbage | 62675 | [62675-retro-garbage.json](./62675-retro-garbage.json) |
+| Retro Geek Shop Simulator | 348968 | [348968-retro-geek-shop-simulator.json](./348968-retro-geek-shop-simulator.json) |
 | Retro Golf Mania | 408247 | [408247-retro-golf-mania.json](./408247-retro-golf-mania.json) |
 | Retro Granny's Garden | 70921 | [70921-retro-grannys-garden.json](./70921-retro-grannys-garden.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
@@ -2302,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return or No Return | 267447 | [267447-return-or-no-return.json](./267447-return-or-no-return.json) |
 | Return Tape | 142250 | [142250-return-tape.json](./142250-return-tape.json) |
 | Return the Backrooms | 224561 | [224561-return-the-backrooms.json](./224561-return-the-backrooms.json) |
+| Return to ... | 348960 | [348960-return-to.json](./348960-return-to.json) |
 | Return to Abyss | 233251 | [233251-return-to-abyss.json](./233251-return-to-abyss.json) |
 | Return to Basic Killing | 274032 | [274032-return-to-basic-killing.json](./274032-return-to-basic-killing.json) |
 | Return to Castle Wolfenstein: Tides of War | 77220 | [77220-return-to-castle-wolfenstein-tides-of-war.json](./77220-return-to-castle-wolfenstein-tides-of-war.json) |
@@ -2562,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
 | Ribbit Rampage | 305331 | [305331-ribbit-rampage.json](./305331-ribbit-rampage.json) |
+| Ribbit Up: Frog Climber | 348989 | [348989-ribbit-up-frog-climber.json](./348989-ribbit-up-frog-climber.json) |
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Ribbits | 384081 | [384081-ribbits.json](./384081-ribbits.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
@@ -2580,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
 | Richard Scarry's Busytown | 46202 | [46202-richard-scarrys-busytown.json](./46202-richard-scarrys-busytown.json) |
 | Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
+| Richdle | 348949 | [348949-richdle.json](./348949-richdle.json) |
 | Riches in the Deep | 392925 | [392925-riches-in-the-deep.json](./392925-riches-in-the-deep.json) |
 | Richie's Plank Experience | 26449 | [26449-richies-plank-experience.json](./26449-richies-plank-experience.json) |
 | RichMan 11 | 220664 | [220664-richman-11.json](./220664-richman-11.json) |
@@ -4138,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
 | Round Invaders Rush 2 | 214039 | [214039-round-invaders-rush-2.json](./214039-round-invaders-rush-2.json) |
 | Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
+| Round Spike | 348954 | [348954-round-spike.json](./348954-round-spike.json) |
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
 | Round Up 5: Super Delta Force | 407524 | [407524-round-up-5-super-delta-force.json](./407524-round-up-5-super-delta-force.json) |
