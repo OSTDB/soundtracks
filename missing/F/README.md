@@ -2850,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Cloud God Saves the Pilgrims in HD! | 84154 | [84154-floating-cloud-god-saves-the-pilgrims-in-hd.json](./84154-floating-cloud-god-saves-the-pilgrims-in-hd.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
 | Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
+| Floating Isle Days | 379015 | [379015-floating-isle-days.json](./379015-floating-isle-days.json) |
 | Floating Life 2 | 216788 | [216788-floating-life-2.json](./216788-floating-life-2.json) |
 | Floating Life in Other-World | 156531 | [156531-floating-life-in-other-world.json](./156531-floating-life-in-other-world.json) |
 | Floating Life Record | 264663 | [264663-floating-life-record.json](./264663-floating-life-record.json) |
@@ -3088,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Tobacco Eggs | 305922 | [305922-flying-tobacco-eggs.json](./305922-flying-tobacco-eggs.json) |
 | Flying Toyz | 258005 | [258005-flying-toyz.json](./258005-flying-toyz.json) |
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
+| Flying Universe | 379019 | [379019-flying-universe.json](./379019-flying-universe.json) |
 | Flying Wings HoverCraft | 248763 | [248763-flying-wings-hovercraft.json](./248763-flying-wings-hovercraft.json) |
 | Flying Wizards | 412968 | [412968-flying-wizards.json](./412968-flying-wizards.json) |
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
