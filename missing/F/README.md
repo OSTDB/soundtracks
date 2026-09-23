@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingercrafts | 216259 | [216259-fingercrafts.json](./216259-fingercrafts.json) |
 | Fingers' Dating | 232971 | [232971-fingers-dating.json](./232971-fingers-dating.json) |
 | Fingerspelling Unleashed: BANZSL Edition | 238726 | [238726-fingerspelling-unleashed-banzsl-edition.json](./238726-fingerspelling-unleashed-banzsl-edition.json) |
+| Fingerzilla | 343470 | [343470-fingerzilla.json](./343470-fingerzilla.json) |
 | Finis | 213013 | [213013-finis.json](./213013-finis.json) |
 | Finis Actus | 389730 | [389730-finis-actus.json](./389730-finis-actus.json) |
 | Finite Jest | 415925 | [415925-finite-jest.json](./415925-finite-jest.json) |
@@ -2278,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FirstPlate | 400994 | [400994-firstplate.json](./400994-firstplate.json) |
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
 | Fiscal Kombat | 167175 | [167175-fiscal-kombat.json](./167175-fiscal-kombat.json) |
+| Fischer's Fishing Journey | 343421 | [343421-fischers-fishing-journey.json](./343421-fischers-fishing-journey.json) |
 | Fischfutter | 390810 | [390810-fischfutter.json](./390810-fischfutter.json) |
 | Fisco 400 | 172600 | [172600-fisco-400.json](./172600-fisco-400.json) |
 | Fish | 152138 | [152138-fish.json](./152138-fish.json) |
@@ -3322,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
+| Football Career | 343455 | [343455-football-career.json](./343455-football-career.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
 | Football Chairman Pro 2 | 370322 | [370322-football-chairman-pro-2.json](./370322-football-chairman-pro-2.json) |
 | Football Club 2019-2023 | 282705 | [282705-football-club-2019-2023.json](./282705-football-club-2019-2023.json) |
