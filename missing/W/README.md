@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wageslave | 397239 | [397239-wageslave.json](./397239-wageslave.json) |
 | WaggaSim | 312563 | [312563-waggasim.json](./312563-waggasim.json) |
 | Wagie Run | 404965 | [404965-wagie-run.json](./404965-wagie-run.json) |
+| Wahm | 377286 | [377286-wahm.json](./377286-wahm.json) |
 | Wai-wai Check 03/21 | 345494 | [345494-wai-wai-check-03-21.json](./345494-wai-wai-check-03-21.json) |
 | Wai-wai Check 11/15 | 345493 | [345493-wai-wai-check-11-15.json](./345493-wai-wai-check-11-15.json) |
 | Wai-wai Check 3-7 | 345497 | [345497-wai-wai-check-3-7.json](./345497-wai-wai-check-3-7.json) |
@@ -149,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
 | WalkBot | 212915 | [212915-walkbot.json](./212915-walkbot.json) |
 | Walker | 12818 | [12818-walker.json](./12818-walker.json) |
+| Walker | 377284 | [377284-walker.json](./377284-walker.json) |
 | Walkerman | 34830 | [34830-walkerman.json](./34830-walkerman.json) |
 | Walking Heavy | 61597 | [61597-walking-heavy.json](./61597-walking-heavy.json) |
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
@@ -173,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Shooter | 244864 | [244864-wall-shooter.json](./244864-wall-shooter.json) |
 | Wall Simulator 2017 | 53882 | [53882-wall-simulator-2017.json](./53882-wall-simulator-2017.json) |
 | Wall Street Raider | 186757 | [186757-wall-street-raider.json](./186757-wall-street-raider.json) |
+| Wall Street Raider | 377285 | [377285-wall-street-raider.json](./377285-wall-street-raider.json) |
 | Wall Street Trader 2000 | 73831 | [73831-wall-street-trader-2000.json](./73831-wall-street-trader-2000.json) |
 | Wall Street Trader 98 | 64967 | [64967-wall-street-trader-98.json](./64967-wall-street-trader-98.json) |
 | Wall Street Wars: the Final Conflict! | 98788 | [98788-wall-street-wars-the-final-conflict.json](./98788-wall-street-wars-the-final-conflict.json) |
@@ -240,6 +243,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Gem Jockeying | 121463 | [121463-wandering-gem-jockeying.json](./121463-wandering-gem-jockeying.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
 | Wandering Planet: Prelude | 298599 | [298599-wandering-planet-prelude.json](./298599-wandering-planet-prelude.json) |
+| Wandering Sword | 377264 | [377264-wandering-sword.json](./377264-wandering-sword.json) |
+| Wandering Sword: Mount Pack - Majestic Steeds | 377263 | [377263-wandering-sword-mount-pack-majestic-steeds.json](./377263-wandering-sword-mount-pack-majestic-steeds.json) |
 | Wandering Trails: A Hiking Game | 152742 | [152742-wandering-trails-a-hiking-game.json](./152742-wandering-trails-a-hiking-game.json) |
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
