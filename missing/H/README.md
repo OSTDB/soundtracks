@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headmaster: The Lost Lessons | 174186 | [174186-headmaster-the-lost-lessons.json](./174186-headmaster-the-lost-lessons.json) |
 | Headpat Special Taskforce | 400320 | [400320-headpat-special-taskforce.json](./400320-headpat-special-taskforce.json) |
 | Headquarters: World War II - Ardennes | 324926 | [324926-headquarters-world-war-ii-ardennes.json](./324926-headquarters-world-war-ii-ardennes.json) |
+| Headroom | 364690 | [364690-headroom.json](./364690-headroom.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
 | Heads Run | 82128 | [82128-heads-run.json](./82128-heads-run.json) |
 | Heads Up Texas Hold 'Em | 92293 | [92293-heads-up-texas-hold-em.json](./92293-heads-up-texas-hold-em.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers: Dive Harder | 267938 | [267938-helldivers-dive-harder.json](./267938-helldivers-dive-harder.json) |
 | Helldivers: Support Pack | 267988 | [267988-helldivers-support-pack.json](./267988-helldivers-support-pack.json) |
 | Helldivers: Turning Up the Heat | 267989 | [267989-helldivers-turning-up-the-heat.json](./267989-helldivers-turning-up-the-heat.json) |
+| Helleidoscope | 364674 | [364674-helleidoscope.json](./364674-helleidoscope.json) |
 | Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
 | Hellenica | 26952 | [26952-hellenica.json](./26952-hellenica.json) |
 | Hellescape | 392459 | [392459-hellescape.json](./392459-hellescape.json) |
@@ -1559,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellino | 134003 | [134003-hellino.json](./134003-hellino.json) |
 | Hellion: Mystery of the Inquisition | 66397 | [66397-hellion-mystery-of-the-inquisition.json](./66397-hellion-mystery-of-the-inquisition.json) |
 | Hellish Quart | 139472 | [139472-hellish-quart.json](./139472-hellish-quart.json) |
+| Hellivery | 364676 | [364676-hellivery.json](./364676-hellivery.json) |
 | Hellkid: Hook & Jump | 184071 | [184071-hellkid-hook-and-jump.json](./184071-hellkid-hook-and-jump.json) |
 | Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
 | Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
