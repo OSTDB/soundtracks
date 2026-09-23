@@ -3451,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
 | Metaforces Bowling Center | 279122 | [279122-metaforces-bowling-center.json](./279122-metaforces-bowling-center.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
+| Metahorror Therapy Session | 338930 | [338930-metahorror-therapy-session.json](./338930-metahorror-therapy-session.json) |
 | Metal | 95217 | [95217-metal.json](./95217-metal.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
@@ -7000,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Football League: Snuffalo Thrills | 154930 | [154930-mutant-football-league-snuffalo-thrills.json](./154930-mutant-football-league-snuffalo-thrills.json) |
 | Mutant Football League: Terror Bay Mutantneers | 154932 | [154932-mutant-football-league-terror-bay-mutantneers.json](./154932-mutant-football-league-terror-bay-mutantneers.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
+| Mutant Hunter | 338909 | [338909-mutant-hunter.json](./338909-mutant-hunter.json) |
 | Mutant Karate Canary | 214156 | [214156-mutant-karate-canary.json](./214156-mutant-karate-canary.json) |
 | Mutant League Football | 46254 | [46254-mutant-league-football.json](./46254-mutant-league-football.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
