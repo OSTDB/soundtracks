@@ -2643,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Rancher | 110914 | [110914-nuclear-rancher.json](./110914-nuclear-rancher.json) |
 | Nuclear Reaction | 184502 | [184502-nuclear-reaction.json](./184502-nuclear-reaction.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
+| Nuclear Throne 3D | 375427 | [375427-nuclear-throne-3d.json](./375427-nuclear-throne-3d.json) |
 | Nuclear Titbit | 113375 | [113375-nuclear-titbit.json](./113375-nuclear-titbit.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
 | Nuclear War | 12189 | [12189-nuclear-war.json](./12189-nuclear-war.json) |
