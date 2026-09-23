@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Secret 2 | 149420 | [149420-waifu-secret-2.json](./149420-waifu-secret-2.json) |
 | Waifu Space Conquest | 250383 | [250383-waifu-space-conquest.json](./250383-waifu-space-conquest.json) |
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
+| Waifu Uncovered | 375431 | [375431-waifu-uncovered.json](./375431-waifu-uncovered.json) |
 | Waifu vs. Evil | 154372 | [154372-waifu-vs-evil.json](./154372-waifu-vs-evil.json) |
 | Waifu Wars Splash | 183560 | [183560-waifu-wars-splash.json](./183560-waifu-wars-splash.json) |
 | Waifu's Spooky Space Station | 143651 | [143651-waifus-spooky-space-station.json](./143651-waifus-spooky-space-station.json) |
@@ -1907,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy Crash Mini | 225627 | [225627-willy-crash-mini.json](./225627-willy-crash-mini.json) |
 | Willy Jetman: Astromonkey's Revenge - Sweeper's Edition | 139831 | [139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json](./139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json) |
 | Willy Morgan and the Curse of Bone Town | 133429 | [133429-willy-morgan-and-the-curse-of-bone-town.json](./133429-willy-morgan-and-the-curse-of-bone-town.json) |
+| Willy's Adventure | 375458 | [375458-willys-adventure.json](./375458-willys-adventure.json) |
 | Wilmot Works It Out | 314431 | [314431-wilmot-works-it-out.json](./314431-wilmot-works-it-out.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
 | Wiloo | 50533 | [50533-wiloo.json](./50533-wiloo.json) |
