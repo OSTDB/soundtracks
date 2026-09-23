@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
 | Pip! | 123445 | [123445-pip.json](./123445-pip.json) |
+| Pip's Tale | 382449 | [382449-pips-tale.json](./382449-pips-tale.json) |
 | Pipe by BMX Streets | 89977 | [89977-pipe-by-bmx-streets.json](./89977-pipe-by-bmx-streets.json) |
 | Pipe Connect | 290422 | [290422-pipe-connect.json](./290422-pipe-connect.json) |
 | Pipe Cube | 125964 | [125964-pipe-cube.json](./125964-pipe-cube.json) |
@@ -5888,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
 | Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
+| Purgatory Of the Golden Witch | 382438 | [382438-purgatory-of-the-golden-witch.json](./382438-purgatory-of-the-golden-witch.json) |
 | Purgatory Pitstop | 390774 | [390774-purgatory-pitstop.json](./390774-purgatory-pitstop.json) |
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
