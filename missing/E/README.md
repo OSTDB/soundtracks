@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Forces 2 Portable | 42835 | [42835-earth-defense-forces-2-portable.json](./42835-earth-defense-forces-2-portable.json) |
 | Earth Eternal | 67668 | [67668-earth-eternal.json](./67668-earth-eternal.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
+| Earth Invasion 99 | 354641 | [354641-earth-invasion-99.json](./354641-earth-invasion-99.json) |
 | Earth Liberation | 30301 | [30301-earth-liberation.json](./30301-earth-liberation.json) |
 | Earth Light: Luna Strike | 42247 | [42247-earth-light-luna-strike.json](./42247-earth-light-luna-strike.json) |
 | Earth Marines | 153862 | [153862-earth-marines.json](./153862-earth-marines.json) |
@@ -600,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eighteen Gold | 258484 | [258484-eighteen-gold.json](./258484-eighteen-gold.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
 | EightMan | 40976 | [40976-eightman.json](./40976-eightman.json) |
+| Eights | 354652 | [354652-eights.json](./354652-eights.json) |
 | Eigo wo Taberu Fushigi na Ikimono | 338715 | [338715-eigo-wo-taberu-fushigi-na-ikimono.json](./338715-eigo-wo-taberu-fushigi-na-ikimono.json) |
 | Eikoku Tantei Mysteria | 221826 | [221826-eikoku-tantei-mysteria.json](./221826-eikoku-tantei-mysteria.json) |
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
@@ -863,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
 | Eliminator | 12063 | [12063-eliminator.json](./12063-eliminator.json) |
+| Eliminator | 354648 | [354648-eliminator.json](./354648-eliminator.json) |
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
 | Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
