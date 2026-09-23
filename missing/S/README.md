@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serbia '14 | 131997 | [131997-serbia-14.json](./131997-serbia-14.json) |
 | Serega Madness Pixel Adventures | 295276 | [295276-serega-madness-pixel-adventures.json](./295276-serega-madness-pixel-adventures.json) |
 | Serena | 14528 | [14528-serena.json](./14528-serena.json) |
+| Serendipalette | 383655 | [383655-serendipalette.json](./383655-serendipalette.json) |
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
 | Serendipity Morning Mist: Dawn, Tobacco, Your Scent | 387003 | [387003-serendipity-morning-mist-dawn-tobacco-your-scent.json](./387003-serendipity-morning-mist-dawn-tobacco-your-scent.json) |
 | Serendipity: The Mafias | 254615 | [254615-serendipity-the-mafias.json](./254615-serendipity-the-mafias.json) |
@@ -9819,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Shores: Social Desktop Fishing | 344395 | [344395-strange-shores-social-desktop-fishing.json](./344395-strange-shores-social-desktop-fishing.json) |
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
 | Strange Things | 75775 | [75775-strange-things.json](./75775-strange-things.json) |
+| Strange Winds | 383637 | [383637-strange-winds.json](./383637-strange-winds.json) |
 | Strange Zoo | 415139 | [415139-strange-zoo.json](./415139-strange-zoo.json) |
 | Strangeland | 103219 | [103219-strangeland.json](./103219-strangeland.json) |
 | Strangeland: The Last Colony | 401618 | [401618-strangeland-the-last-colony.json](./401618-strangeland-the-last-colony.json) |
