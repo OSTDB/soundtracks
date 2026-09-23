@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
 | Inkub | 85192 | [85192-inkub.json](./85192-inkub.json) |
 | Inkubus Sukkubus: She of a Thousand Names | 244342 | [244342-inkubus-sukkubus-she-of-a-thousand-names.json](./244342-inkubus-sukkubus-she-of-a-thousand-names.json) |
+| Inkwell | 376731 | [376731-inkwell.json](./376731-inkwell.json) |
 | Inkwellers | 333555 | [333555-inkwellers.json](./333555-inkwellers.json) |
 | Inky Caps Clash | 175428 | [175428-inky-caps-clash.json](./175428-inky-caps-clash.json) |
 | Inline | 81070 | [81070-inline.json](./81070-inline.json) |
