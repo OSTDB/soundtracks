@@ -3804,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon TCG Pocket: Paradox Drive | 406716 | [406716-pokemon-tcg-pocket-paradox-drive.json](./406716-pokemon-tcg-pocket-paradox-drive.json) |
 | Pokémon TCG Pocket: Ruler of the Skies | 412413 | [412413-pokemon-tcg-pocket-ruler-of-the-skies.json](./412413-pokemon-tcg-pocket-ruler-of-the-skies.json) |
 | Pokémon Theta Emerald Renev | 209550 | [209550-pokemon-theta-emerald-renev.json](./209550-pokemon-theta-emerald-renev.json) |
+| Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
