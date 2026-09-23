@@ -1650,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
 | Light and Shadow: Schatten über Empyria | 295902 | [295902-light-and-shadow-schatten-uber-empyria.json](./295902-light-and-shadow-schatten-uber-empyria.json) |
 | Light and Shadows: Pocket Islands | 265751 | [265751-light-and-shadows-pocket-islands.json](./265751-light-and-shadows-pocket-islands.json) |
+| Light and Sneak | 373745 | [373745-light-and-sneak.json](./373745-light-and-sneak.json) |
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
 | Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
 | Light Bearers 2 | 303629 | [303629-light-bearers-2.json](./303629-light-bearers-2.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
 | Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
+| Lone Survivors | 373766 | [373766-lone-survivors.json](./373766-lone-survivors.json) |
 | Lone Tower Roguelite Defense | 255805 | [255805-lone-tower-roguelite-defense.json](./255805-lone-tower-roguelite-defense.json) |
 | Lone Wolf DS I: Flight From The Dark | 308379 | [308379-lone-wolf-ds-i-flight-from-the-dark.json](./308379-lone-wolf-ds-i-flight-from-the-dark.json) |
 | Lone Wolf Saga | 273956 | [273956-lone-wolf-saga.json](./273956-lone-wolf-saga.json) |
