@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real World RC | 240353 | [240353-real-world-rc.json](./240353-real-world-rc.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
 | RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
+| RealFighter | 370887 | [370887-realfighter.json](./370887-realfighter.json) |
 | RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
 | RealFlight Evolution: E-flite Beechcraft D18 1.5m | 356713 | [356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json](./356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json) |
 | RealFlight Trainer Edition | 162755 | [162755-realflight-trainer-edition.json](./162755-realflight-trainer-edition.json) |
@@ -2450,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
 | Rhodes | 229023 | [229023-rhodes.json](./229023-rhodes.json) |
 | Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
+| Rhombus | 370894 | [370894-rhombus.json](./370894-rhombus.json) |
 | Rhyme Rider Kerorican | 37355 | [37355-rhyme-rider-kerorican.json](./37355-rhyme-rider-kerorican.json) |
 | Rhyme Star | 361719 | [361719-rhyme-star.json](./361719-rhyme-star.json) |
 | Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
@@ -3532,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
 | Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
 | Rogue Blight | 212912 | [212912-rogue-blight.json](./212912-rogue-blight.json) |
+| Rogue Bricks | 370898 | [370898-rogue-bricks.json](./370898-rogue-bricks.json) |
 | Rogue Carrier | 409641 | [409641-rogue-carrier.json](./409641-rogue-carrier.json) |
 | Rogue Climber | 312746 | [312746-rogue-climber.json](./312746-rogue-climber.json) |
 | Rogue Company | 122235 | [122235-rogue-company.json](./122235-rogue-company.json) |
