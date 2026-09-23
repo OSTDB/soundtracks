@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Llamero | 404407 | [404407-llamero.json](./404407-llamero.json) |
 | LLM x Quiz | 369055 | [369055-llm-x-quiz.json](./369055-llm-x-quiz.json) |
 | Lloyd the Monkey | 266214 | [266214-lloyd-the-monkey.json](./266214-lloyd-the-monkey.json) |
+| Lloyd the Monkey 3 Expansion: The Warrior Once Called Prince | 369198 | [369198-lloyd-the-monkey-3-expansion-the-warrior-once-called-prince.json](./369198-lloyd-the-monkey-3-expansion-the-warrior-once-called-prince.json) |
 | Lloyd the Monkey 3: Judgement Day | 266221 | [266221-lloyd-the-monkey-3-judgement-day.json](./266221-lloyd-the-monkey-3-judgement-day.json) |
 | Lloyd the Monkey: Remastered | 266216 | [266216-lloyd-the-monkey-remastered.json](./266216-lloyd-the-monkey-remastered.json) |
 | LLs | 96524 | [96524-lls.json](./96524-lls.json) |
@@ -2377,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lo and Behold | 371874 | [371874-lo-and-behold.json](./371874-lo-and-behold.json) |
 | Lo-fi | 179620 | [179620-lo-fi.json](./179620-lo-fi.json) |
 | Lo-Fi Golf | 360684 | [360684-lo-fi-golf.json](./360684-lo-fi-golf.json) |
+| Lo-Friction | 369199 | [369199-lo-friction.json](./369199-lo-friction.json) |
 | Lo-Rez | 285054 | [285054-lo-rez.json](./285054-lo-rez.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
 | Loaded | 18682 | [18682-loaded.json](./18682-loaded.json) |
@@ -3467,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna | 172058 | [172058-luna.json](./172058-luna.json) |
 | Luna : The Dimemsion Watcher | 130917 | [130917-luna-the-dimemsion-watcher.json](./130917-luna-the-dimemsion-watcher.json) |
 | Luna and the Wasted City of Sin | 326791 | [326791-luna-and-the-wasted-city-of-sin.json](./326791-luna-and-the-wasted-city-of-sin.json) |
+| Luna Anomaly | 369195 | [369195-luna-anomaly.json](./369195-luna-anomaly.json) |
 | Luna Blaze | 353870 | [353870-luna-blaze.json](./353870-luna-blaze.json) |
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
 | Luna de Selene | 383349 | [383349-luna-de-selene.json](./383349-luna-de-selene.json) |
