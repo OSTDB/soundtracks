@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
 | Gnomes Garden: Halloween | 110372 | [110372-gnomes-garden-halloween.json](./110372-gnomes-garden-halloween.json) |
+| Gnomes Garden: Mask of the Rat King - Collector's Edition | 383042 | [383042-gnomes-garden-mask-of-the-rat-king-collectors-edition.json](./383042-gnomes-garden-mask-of-the-rat-king-collectors-edition.json) |
 | Gnomes Garden: Return of the Queen | 163832 | [163832-gnomes-garden-return-of-the-queen.json](./163832-gnomes-garden-return-of-the-queen.json) |
 | Gnomes Vs. Fairies | 34349 | [34349-gnomes-vs-fairies.json](./34349-gnomes-vs-fairies.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
@@ -3102,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grepolis | 62922 | [62922-grepolis.json](./62922-grepolis.json) |
 | Grepr | 185556 | [185556-grepr.json](./185556-grepr.json) |
 | Greta Sees Ghosts! | 348348 | [348348-greta-sees-ghosts.json](./348348-greta-sees-ghosts.json) |
+| Gretel & Hansel | 383030 | [383030-gretel-and-hansel.json](./383030-gretel-and-hansel.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Gretzky NHL 2005 | 24162 | [24162-gretzky-nhl-2005.json](./24162-gretzky-nhl-2005.json) |
 | Grexovka Village | 386411 | [386411-grexovka-village.json](./386411-grexovka-village.json) |
@@ -3604,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuitarFreaks 5thMix & DrumMania 4thMix | 97123 | [97123-guitarfreaks-5thmix-and-drummania-4thmix.json](./97123-guitarfreaks-5thmix-and-drummania-4thmix.json) |
 | GuitarFreaks 6thMix | 97121 | [97121-guitarfreaks-6thmix.json](./97121-guitarfreaks-6thmix.json) |
 | GuitarFreaks V & DrumMania V | 78691 | [78691-guitarfreaks-v-and-drummania-v.json](./78691-guitarfreaks-v-and-drummania-v.json) |
+| GuitarFreaks V7 & DrumMania V7 | 383024 | [383024-guitarfreaks-v7-and-drummania-v7.json](./383024-guitarfreaks-v7-and-drummania-v7.json) |
 | Guītú | 156699 | [156699-guitu.json](./156699-guitu.json) |
 | Gujian 3 | 113649 | [113649-gujian-3.json](./113649-gujian-3.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
