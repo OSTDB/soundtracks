@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu no Hi no Resonance | 201810 | [201810-natsu-no-hi-no-resonance.json](./201810-natsu-no-hi-no-resonance.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natsu-Mon: 20th Century Summer Kid | 236697 | [236697-natsu-mon-20th-century-summer-kid.json](./236697-natsu-mon-20th-century-summer-kid.json) |
+| Natsuha & Fuyumi: When Summer And Winter Meet | 383060 | [383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json](./383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json) |
 | Natsuiro Communication | 77943 | [77943-natsuiro-communication.json](./77943-natsuiro-communication.json) |
 | Natsuiro High School: Seishun Hakusho | 52602 | [52602-natsuiro-high-school-seishun-hakusho.json](./52602-natsuiro-high-school-seishun-hakusho.json) |
 | Natsuiro Ramune | 97316 | [97316-natsuiro-ramune.json](./97316-natsuiro-ramune.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Cleanup Crew | 373520 | [373520-nebula-cleanup-crew.json](./373520-nebula-cleanup-crew.json) |
 | Nebula Nuker | 75830 | [75830-nebula-nuker.json](./75830-nebula-nuker.json) |
 | Nebula Online | 120181 | [120181-nebula-online.json](./120181-nebula-online.json) |
+| Nebula Veil | 383039 | [383039-nebula-veil.json](./383039-nebula-veil.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Nebulous | 19039 | [19039-nebulous.json](./19039-nebulous.json) |
