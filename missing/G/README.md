@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girder & Hearts: Reel Romance | 364500 | [364500-girder-and-hearts-reel-romance.json](./364500-girder-and-hearts-reel-romance.json) |
 | Giri-Jump Star Rush | 411134 | [411134-giri-jump-star-rush.json](./411134-giri-jump-star-rush.json) |
+| Girl & Gem Magic | 367022 | [367022-girl-and-gem-magic.json](./367022-girl-and-gem-magic.json) |
 | Girl & Scarecrow | 404331 | [404331-girl-and-scarecrow.json](./404331-girl-and-scarecrow.json) |
 | Girl Abducted | 334654 | [334654-girl-abducted.json](./334654-girl-abducted.json) |
 | Girl and Demon 1 | 212829 | [212829-girl-and-demon-1.json](./212829-girl-and-demon-1.json) |
@@ -1971,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
 | Goat Simulator: Remastered | 314250 | [314250-goat-simulator-remastered.json](./314250-goat-simulator-remastered.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
+| Goat Survivor | 367025 | [367025-goat-survivor.json](./367025-goat-survivor.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
 | Gob! | 257447 | [257447-gob.json](./257447-gob.json) |
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
