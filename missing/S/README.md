@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrodinger's Cat Burglar | 270929 | [270929-schrodingers-cat-burglar.json](./270929-schrodingers-cat-burglar.json) |
 | Schrodinger's Code | 224757 | [224757-schrodingers-code.json](./224757-schrodingers-code.json) |
 | Schrödinger's Dungeon | 381845 | [381845-schrodingers-dungeon.json](./381845-schrodingers-dungeon.json) |
+| Schrödinger’s Maze | 358477 | [358477-schrodinger-s-maze.json](./358477-schrodinger-s-maze.json) |
 | Schrödinger's Rat | 21776 | [21776-schrodingers-rat.json](./21776-schrodingers-rat.json) |
 | Schwarzenberg | 86063 | [86063-schwarzenberg.json](./86063-schwarzenberg.json) |
 | Schwarzerblitz | 118188 | [118188-schwarzerblitz.json](./118188-schwarzerblitz.json) |
@@ -1866,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seimei Handan | 268532 | [268532-seimei-handan.json](./268532-seimei-handan.json) |
 | Seinarukana -The Spirit of Eternity Sword 2- | 24971 | [24971-seinarukana-the-spirit-of-eternity-sword-2.json](./24971-seinarukana-the-spirit-of-eternity-sword-2.json) |
 | Seinfeld: The Telltale Series | 144119 | [144119-seinfeld-the-telltale-series.json](./144119-seinfeld-the-telltale-series.json) |
+| Seirei no Mori no Bouken | 358503 | [358503-seirei-no-mori-no-bouken.json](./358503-seirei-no-mori-no-bouken.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
@@ -1973,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
 | Senko no Ronde SP | 393832 | [393832-senko-no-ronde-sp.json](./393832-senko-no-ronde-sp.json) |
+| Senkou | 358499 | [358499-senkou.json](./358499-senkou.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
@@ -3581,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
+| ShuXian Chronicles: Idle Ascension | 358471 | [358471-shuxian-chronicles-idle-ascension.json](./358471-shuxian-chronicles-idle-ascension.json) |
 | Shuyan Saga | 27692 | [27692-shuyan-saga.json](./27692-shuyan-saga.json) |
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
 | Shwip | 71778 | [71778-shwip.json](./71778-shwip.json) |
@@ -3831,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Scribbles | 285965 | [285965-silly-scribbles.json](./285965-silly-scribbles.json) |
 | Silly Skateboarding | 180698 | [180698-silly-skateboarding.json](./180698-silly-skateboarding.json) |
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
+| Silly Wisher | 358506 | [358506-silly-wisher.json](./358506-silly-wisher.json) |
 | Sillyfun Valley | 158577 | [158577-sillyfun-valley.json](./158577-sillyfun-valley.json) |
 | Silmar | 230258 | [230258-silmar.json](./230258-silmar.json) |
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
@@ -7981,6 +7986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritgrapher: The Asylum 99 | 312737 | [312737-spiritgrapher-the-asylum-99.json](./312737-spiritgrapher-the-asylum-99.json) |
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
 | Spiritlink Tactics | 191737 | [191737-spiritlink-tactics.json](./191737-spiritlink-tactics.json) |
+| Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits of Carter Mansion | 189053 | [189053-spirits-of-carter-mansion.json](./189053-spirits-of-carter-mansion.json) |
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
