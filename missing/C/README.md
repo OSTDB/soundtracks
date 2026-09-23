@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
+| Car Combine Mania | 342280 | [342280-car-combine-mania.json](./342280-car-combine-mania.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
@@ -5459,6 +5460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country of Snow | 408285 | [408285-country-of-snow.json](./408285-country-of-snow.json) |
 | Country Park | 105136 | [105136-country-park.json](./105136-country-park.json) |
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
+| Country Story | 342259 | [342259-country-story.json](./342259-country-story.json) |
 | Country Varmint Hunter | 83236 | [83236-country-varmint-hunter.json](./83236-country-varmint-hunter.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
@@ -6554,6 +6556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | Cryoloop | 141809 | [141809-cryoloop.json](./141809-cryoloop.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
+| Cryphora | 342288 | [342288-cryphora.json](./342288-cryphora.json) |
 | Crypt Architect | 236269 | [236269-crypt-architect.json](./236269-crypt-architect.json) |
 | Crypt Capers | 348938 | [348938-crypt-capers.json](./348938-crypt-capers.json) |
 | Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
