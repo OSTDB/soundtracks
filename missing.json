@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T11:47:58.970Z",
-  "total_missing": 111127,
+  "generated_at": "2026-09-23T12:03:01.528Z",
+  "total_missing": 111177,
   "games": [
     {
       "igdb_id": 176875,
@@ -7396,6 +7396,11 @@
       "igdb_id": 185002,
       "game_name": "Absence: Verdict of Silence",
       "file": "missing/A/185002-absence-verdict-of-silence.json"
+    },
+    {
+      "igdb_id": 363570,
+      "game_name": "AbsentedAge 2: Ghostbound",
+      "file": "missing/A/363570-absentedage-2-ghostbound.json"
     },
     {
       "igdb_id": 189193,
@@ -59058,6 +59063,11 @@
       "file": "missing/B/46857-bouncing-ball.json"
     },
     {
+      "igdb_id": 363566,
+      "game_name": "Bouncing Buds",
+      "file": "missing/B/363566-bouncing-buds.json"
+    },
+    {
       "igdb_id": 102727,
       "game_name": "Bouncing Church",
       "file": "missing/B/102727-bouncing-church.json"
@@ -60008,6 +60018,11 @@
       "file": "missing/B/261791-boyscout-patricks-town.json"
     },
     {
+      "igdb_id": 363562,
+      "game_name": "BoysQuest Find the Difference",
+      "file": "missing/B/363562-boysquest-find-the-difference.json"
+    },
+    {
       "igdb_id": 299725,
       "game_name": "Boyz Don't Cry",
       "file": "missing/B/299725-boyz-dont-cry.json"
@@ -60356,6 +60371,11 @@
       "igdb_id": 336518,
       "game_name": "BrainRot",
       "file": "missing/B/336518-brainrot.json"
+    },
+    {
+      "igdb_id": 363564,
+      "game_name": "Brainrot Battle",
+      "file": "missing/B/363564-brainrot-battle.json"
     },
     {
       "igdb_id": 338791,
@@ -64926,6 +64946,11 @@
       "igdb_id": 106626,
       "game_name": "Bullets in the Space",
       "file": "missing/B/106626-bullets-in-the-space.json"
+    },
+    {
+      "igdb_id": 363574,
+      "game_name": "Bullets Tracks: Son Of",
+      "file": "missing/B/363574-bullets-tracks-son-of.json"
     },
     {
       "igdb_id": 46640,
@@ -132348,6 +132373,11 @@
       "file": "missing/D/401116-drone-simulator-smash-zombies.json"
     },
     {
+      "igdb_id": 363575,
+      "game_name": "Drone Smuggler",
+      "file": "missing/D/363575-drone-smuggler.json"
+    },
+    {
       "igdb_id": 21487,
       "game_name": "Drone Tactics",
       "file": "missing/D/21487-drone-tactics.json"
@@ -178156,6 +178186,11 @@
       "igdb_id": 33051,
       "game_name": "Galaxy Cannon Rider",
       "file": "missing/G/33051-galaxy-cannon-rider.json"
+    },
+    {
+      "igdb_id": 363573,
+      "game_name": "Galaxy Cocoa",
+      "file": "missing/G/363573-galaxy-cocoa.json"
     },
     {
       "igdb_id": 372018,
@@ -235558,6 +235593,11 @@
       "file": "missing/J/164964-jiguland.json"
     },
     {
+      "igdb_id": 363576,
+      "game_name": "Jigzo",
+      "file": "missing/J/363576-jigzo.json"
+    },
+    {
       "igdb_id": 329715,
       "game_name": "Jiji...Love",
       "file": "missing/J/329715-jiji-love.json"
@@ -237641,6 +237681,11 @@
       "igdb_id": 167776,
       "game_name": "Jump Force: Character Pack 9 - Trafalgar Law",
       "file": "missing/J/167776-jump-force-character-pack-9-trafalgar-law.json"
+    },
+    {
+      "igdb_id": 363563,
+      "game_name": "Jump Greed",
+      "file": "missing/J/363563-jump-greed.json"
     },
     {
       "igdb_id": 137620,
@@ -268036,6 +268081,11 @@
       "igdb_id": 263034,
       "game_name": "LumineNight",
       "file": "missing/L/263034-luminenight.json"
+    },
+    {
+      "igdb_id": 363530,
+      "game_name": "Lumines Arise: Digital Deluxe Edition",
+      "file": "missing/L/363530-lumines-arise-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 4691,
@@ -312333,6 +312383,11 @@
       "file": "missing/N/340949-neuro-nightmare.json"
     },
     {
+      "igdb_id": 363569,
+      "game_name": "Neuroarena: Black Duel Master",
+      "file": "missing/N/363569-neuroarena-black-duel-master.json"
+    },
+    {
       "igdb_id": 391735,
       "game_name": "NeuroCorp",
       "file": "missing/N/391735-neurocorp.json"
@@ -342278,6 +342333,11 @@
       "file": "missing/P/279611-pic-man.json"
     },
     {
+      "igdb_id": 363578,
+      "game_name": "Pica",
+      "file": "missing/P/363578-pica.json"
+    },
+    {
       "igdb_id": 175330,
       "game_name": "Picaboo Star",
       "file": "missing/P/175330-picaboo-star.json"
@@ -350953,6 +351013,11 @@
       "file": "missing/P/393103-pokemon-trading-card-game-pocket-paldean-wonders.json"
     },
     {
+      "igdb_id": 363547,
+      "game_name": "Pokémon Trading Card Game Pocket: Secluded Springs",
+      "file": "missing/P/363547-pokemon-trading-card-game-pocket-secluded-springs.json"
+    },
+    {
       "igdb_id": 333937,
       "game_name": "Pokémon Trading Card Game Pocket: Triumphant Light",
       "file": "missing/P/333937-pokemon-trading-card-game-pocket-triumphant-light.json"
@@ -358676,6 +358741,11 @@
       "igdb_id": 202415,
       "game_name": "Project MSfiX'D",
       "file": "missing/P/202415-project-msfixd.json"
+    },
+    {
+      "igdb_id": 363567,
+      "game_name": "Project MT",
+      "file": "missing/P/363567-project-mt.json"
     },
     {
       "igdb_id": 278534,
@@ -425191,6 +425261,11 @@
       "igdb_id": 412387,
       "game_name": "Space Memory: Fairies",
       "file": "missing/S/412387-space-memory-fairies.json"
+    },
+    {
+      "igdb_id": 363565,
+      "game_name": "Space Memory: Mushrooms",
+      "file": "missing/S/363565-space-memory-mushrooms.json"
     },
     {
       "igdb_id": 358897,
@@ -496203,6 +496278,11 @@
       "file": "missing/T/104139-tilesweeper.json"
     },
     {
+      "igdb_id": 363577,
+      "game_name": "TileUp",
+      "file": "missing/T/363577-tileup.json"
+    },
+    {
       "igdb_id": 249811,
       "game_name": "Tiling Towers",
       "file": "missing/T/249811-tiling-towers.json"
@@ -508901,6 +508981,11 @@
       "igdb_id": 31910,
       "game_name": "Travian: Kingdoms",
       "file": "missing/T/31910-travian-kingdoms.json"
+    },
+    {
+      "igdb_id": 363543,
+      "game_name": "Travians",
+      "file": "missing/T/363543-travians.json"
     },
     {
       "igdb_id": 55195,
@@ -536403,6 +536488,11 @@
       "file": "missing/W/342081-where-they-wait.json"
     },
     {
+      "igdb_id": 363568,
+      "game_name": "Where Time Ends",
+      "file": "missing/W/363568-where-time-ends.json"
+    },
+    {
       "igdb_id": 12489,
       "game_name": "Where Time Stood Still",
       "file": "missing/W/12489-where-time-stood-still.json"
@@ -545883,6 +545973,156 @@
       "file": "missing/X/573-x-men-origins-wolverine.json"
     },
     {
+      "igdb_id": 363528,
+      "game_name": "X-Men: 073 - Attack Mod: Teleportation",
+      "file": "missing/X/363528-x-men-073-attack-mod-teleportation.json"
+    },
+    {
+      "igdb_id": 363529,
+      "game_name": "X-Men: 074 - Defense Mod: Escape Artist",
+      "file": "missing/X/363529-x-men-074-defense-mod-escape-artist.json"
+    },
+    {
+      "igdb_id": 363531,
+      "game_name": "X-Men: 075 - Attack Mod: Absorption",
+      "file": "missing/X/363531-x-men-075-attack-mod-absorption.json"
+    },
+    {
+      "igdb_id": 363532,
+      "game_name": "X-Men: 076 - Defense Mod: Escape Flight",
+      "file": "missing/X/363532-x-men-076-defense-mod-escape-flight.json"
+    },
+    {
+      "igdb_id": 363533,
+      "game_name": "X-Men: 077 - Attack Mod: Real McCoy",
+      "file": "missing/X/363533-x-men-077-attack-mod-real-mccoy.json"
+    },
+    {
+      "igdb_id": 363534,
+      "game_name": "X-Men: 078 - Defense Mod: Passive Aggression",
+      "file": "missing/X/363534-x-men-078-defense-mod-passive-aggression.json"
+    },
+    {
+      "igdb_id": 363535,
+      "game_name": "X-Men: 079 - Attack Mod: Power of Cyttorak",
+      "file": "missing/X/363535-x-men-079-attack-mod-power-of-cyttorak.json"
+    },
+    {
+      "igdb_id": 363536,
+      "game_name": "X-Men: 080 - Defense Mod: Armored Helmet",
+      "file": "missing/X/363536-x-men-080-defense-mod-armored-helmet.json"
+    },
+    {
+      "igdb_id": 363537,
+      "game_name": "X-Men: 081 - Attack Mod: Amphibian Assault",
+      "file": "missing/X/363537-x-men-081-attack-mod-amphibian-assault.json"
+    },
+    {
+      "igdb_id": 363538,
+      "game_name": "X-Men: 082 - Defense Mod: Goop Swoop",
+      "file": "missing/X/363538-x-men-082-defense-mod-goop-swoop.json"
+    },
+    {
+      "igdb_id": 363539,
+      "game_name": "X-Men: 083 - Attack Mod: Killer Instinct",
+      "file": "missing/X/363539-x-men-083-attack-mod-killer-instinct.json"
+    },
+    {
+      "igdb_id": 363540,
+      "game_name": "X-Men: 084 - Defense Mod: Rapid Recovery",
+      "file": "missing/X/363540-x-men-084-defense-mod-rapid-recovery.json"
+    },
+    {
+      "igdb_id": 363541,
+      "game_name": "X-Men: 085 - Attack Mod: Chaos Magick",
+      "file": "missing/X/363541-x-men-085-attack-mod-chaos-magick.json"
+    },
+    {
+      "igdb_id": 363542,
+      "game_name": "X-Men: 086 - Defense Mod: Scarlet Leather",
+      "file": "missing/X/363542-x-men-086-defense-mod-scarlet-leather.json"
+    },
+    {
+      "igdb_id": 363544,
+      "game_name": "X-Men: 087 - Attack Mod: Mutant Extermination",
+      "file": "missing/X/363544-x-men-087-attack-mod-mutant-extermination.json"
+    },
+    {
+      "igdb_id": 363545,
+      "game_name": "X-Men: 088 - Defense Mod: Adaptive Mode",
+      "file": "missing/X/363545-x-men-088-defense-mod-adaptive-mode.json"
+    },
+    {
+      "igdb_id": 363546,
+      "game_name": "X-Men: 089 - Finishing Move: 52 Card Slice",
+      "file": "missing/X/363546-x-men-089-finishing-move-52-card-slice.json"
+    },
+    {
+      "igdb_id": 363548,
+      "game_name": "X-Men: 090 - Finishing Move: Power Driver",
+      "file": "missing/X/363548-x-men-090-finishing-move-power-driver.json"
+    },
+    {
+      "igdb_id": 363549,
+      "game_name": "X-Men: 091 - Finishing Move: Tele-Driver Spin",
+      "file": "missing/X/363549-x-men-091-finishing-move-tele-driver-spin.json"
+    },
+    {
+      "igdb_id": 363550,
+      "game_name": "X-Men: 092 - Finishing Move: Total Drain",
+      "file": "missing/X/363550-x-men-092-finishing-move-total-drain.json"
+    },
+    {
+      "igdb_id": 363551,
+      "game_name": "X-Men: 093 - Finishing Move: Irresistible Force",
+      "file": "missing/X/363551-x-men-093-finishing-move-irresistible-force.json"
+    },
+    {
+      "igdb_id": 363552,
+      "game_name": "X-Men: 094 - Finishing Move: Head Crush",
+      "file": "missing/X/363552-x-men-094-finishing-move-head-crush.json"
+    },
+    {
+      "igdb_id": 363553,
+      "game_name": "X-Men: 095 - Finishing Move: Toxic Spew",
+      "file": "missing/X/363553-x-men-095-finishing-move-toxic-spew.json"
+    },
+    {
+      "igdb_id": 363554,
+      "game_name": "X-Men: 096 - Finishing Move: Throat-Rip",
+      "file": "missing/X/363554-x-men-096-finishing-move-throat-rip.json"
+    },
+    {
+      "igdb_id": 363555,
+      "game_name": "X-Men: 097 - Finishing Move: Thermonuclear Holocaust",
+      "file": "missing/X/363555-x-men-097-finishing-move-thermonuclear-holocaust.json"
+    },
+    {
+      "igdb_id": 363556,
+      "game_name": "X-Men: 098 - Finishing Move: Dead Man's Hands",
+      "file": "missing/X/363556-x-men-098-finishing-move-dead-mans-hands.json"
+    },
+    {
+      "igdb_id": 363557,
+      "game_name": "X-Men: 099 - Defense Mod: Super Shield",
+      "file": "missing/X/363557-x-men-099-defense-mod-super-shield.json"
+    },
+    {
+      "igdb_id": 363558,
+      "game_name": "X-Men: 100 - Defense Mod: Auto Jump",
+      "file": "missing/X/363558-x-men-100-defense-mod-auto-jump.json"
+    },
+    {
+      "igdb_id": 363559,
+      "game_name": "X-Men: 101 - Attack Mod: Reflective Mode",
+      "file": "missing/X/363559-x-men-101-attack-mod-reflective-mode.json"
+    },
+    {
+      "igdb_id": 363560,
+      "game_name": "X-Men: 102 - Attack Mod: Super Speed",
+      "file": "missing/X/363560-x-men-102-attack-mod-super-speed.json"
+    },
+    {
       "igdb_id": 62782,
       "game_name": "X-Men: Battle of the Atom",
       "file": "missing/X/62782-x-men-battle-of-the-atom.json"
@@ -549671,6 +549911,11 @@
       "igdb_id": 176515,
       "game_name": "You Should Eat Breakfast",
       "file": "missing/Y/176515-you-should-eat-breakfast.json"
+    },
+    {
+      "igdb_id": 363571,
+      "game_name": "You Suck at Football",
+      "file": "missing/Y/363571-you-suck-at-football.json"
     },
     {
       "igdb_id": 138884,
@@ -555571,6 +555816,11 @@
       "igdb_id": 120214,
       "game_name": "Zylo and the magic souls",
       "file": "missing/Z/120214-zylo-and-the-magic-souls.json"
+    },
+    {
+      "igdb_id": 363561,
+      "game_name": "Zylogon",
+      "file": "missing/Z/363561-zylogon.json"
     },
     {
       "igdb_id": 12628,
