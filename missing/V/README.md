@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Shadows of New York | 132102 | [132102-vampire-the-masquerade-shadows-of-new-york.json](./132102-vampire-the-masquerade-shadows-of-new-york.json) |
 | Vampire: The Masquerade - Swansong: Primogen Edition | 196806 | [196806-vampire-the-masquerade-swansong-primogen-edition.json](./196806-vampire-the-masquerade-swansong-primogen-edition.json) |
 | Vampire's Castle Adventure | 73314 | [73314-vampires-castle-adventure.json](./73314-vampires-castle-adventure.json) |
+| Vampire's Kiss: Time Paradox | 390260 | [390260-vampires-kiss-time-paradox.json](./390260-vampires-kiss-time-paradox.json) |
 | Vampire+Hunter | 300019 | [300019-vampire-hunter.json](./300019-vampire-hunter.json) |
 | VampireBlaze | 402935 | [402935-vampireblaze.json](./402935-vampireblaze.json) |
 | Vampirem | 136411 | [136411-vampirem.json](./136411-vampirem.json) |
