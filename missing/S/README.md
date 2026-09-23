@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Land | 366318 | [366318-sad-virus-land.json](./366318-sad-virus-land.json) |
 | Sad Virus Military | 398324 | [398324-sad-virus-military.json](./398324-sad-virus-military.json) |
 | Sad Virus Shitcoin | 387494 | [387494-sad-virus-shitcoin.json](./387494-sad-virus-shitcoin.json) |
+| Sad Virus Town | 365877 | [365877-sad-virus-town.json](./365877-sad-virus-town.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
 | Saddle Up: Time to Ride | 64114 | [64114-saddle-up-time-to-ride.json](./64114-saddle-up-time-to-ride.json) |
 | Sadhana | 364598 | [364598-sadhana.json](./364598-sadhana.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
 | Salvage Unlimited | 391302 | [391302-salvage-unlimited.json](./391302-salvage-unlimited.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
+| Salvagers | 365885 | [365885-salvagers.json](./365885-salvagers.json) |
 | Salvation | 79851 | [79851-salvation.json](./79851-salvation.json) |
 | Salvation Denied | 395837 | [395837-salvation-denied.json](./395837-salvation-denied.json) |
 | Salvation Hours | 306490 | [306490-salvation-hours.json](./306490-salvation-hours.json) |
@@ -918,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saw Counter | 347112 | [347112-saw-counter.json](./347112-saw-counter.json) |
 | Saw II: Flesh & Blood | 7177 | [7177-saw-ii-flesh-and-blood.json](./7177-saw-ii-flesh-and-blood.json) |
 | Saw Lab | 290692 | [290692-saw-lab.json](./290692-saw-lab.json) |
+| Sawblader | 365854 | [365854-sawblader.json](./365854-sawblader.json) |
 | Sawdust | 219612 | [219612-sawdust.json](./219612-sawdust.json) |
 | Sawdust | 314039 | [314039-sawdust.json](./314039-sawdust.json) |
 | Sawmania | 355124 | [355124-sawmania.json](./355124-sawmania.json) |
@@ -4082,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
+| SingFever: Your Sing Game | 365871 | [365871-singfever-your-sing-game.json](./365871-singfever-your-sing-game.json) |
 | Singing Easter Eggs | 293217 | [293217-singing-easter-eggs.json](./293217-singing-easter-eggs.json) |
 | Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
@@ -7282,6 +7286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wars: Interstellar Empires | 76586 | [76586-space-wars-interstellar-empires.json](./76586-space-wars-interstellar-empires.json) |
 | Space Wave | 181912 | [181912-space-wave.json](./181912-space-wave.json) |
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
+| Space Way: Echo of the Galaxy | 365867 | [365867-space-way-echo-of-the-galaxy.json](./365867-space-way-echo-of-the-galaxy.json) |
 | Space Whip | 61903 | [61903-space-whip.json](./61903-space-whip.json) |
 | Space World | 103886 | [103886-space-world.json](./103886-space-world.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
@@ -7593,6 +7598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedRunners: Mr. Quick's Speedy Bunch | 238041 | [238041-speedrunners-mr-quicks-speedy-bunch.json](./238041-speedrunners-mr-quicks-speedy-bunch.json) |
 | SpeedRunners: Salem's Sprint Squad | 238040 | [238040-speedrunners-salems-sprint-squad.json](./238040-speedrunners-salems-sprint-squad.json) |
 | Speedrunnerz | 257438 | [257438-speedrunnerz.json](./257438-speedrunnerz.json) |
+| Speedtickers | 365898 | [365898-speedtickers.json](./365898-speedtickers.json) |
 | Speedway Blast | 23868 | [23868-speedway-blast.json](./23868-speedway-blast.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
 | Speedway Challenge 2024 | 292550 | [292550-speedway-challenge-2024.json](./292550-speedway-challenge-2024.json) |
@@ -9299,6 +9305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of War: Warmonger | 71217 | [71217-state-of-war-warmonger.json](./71217-state-of-war-warmonger.json) |
 | State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
+| Statecraft | 365852 | [365852-statecraft.json](./365852-statecraft.json) |
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
 | Static | 333637 | [333637-static.json](./333637-static.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
@@ -9893,6 +9900,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
 | Story of Seasons: Friends of Mineral Town | 120300 | [120300-story-of-seasons-friends-of-mineral-town.json](./120300-story-of-seasons-friends-of-mineral-town.json) |
 | Story of Seasons: Pioneers of Olive Town | 140500 | [140500-story-of-seasons-pioneers-of-olive-town.json](./140500-story-of-seasons-pioneers-of-olive-town.json) |
+| Story of Seasons: Pioneers of Olive Town - Buffalo Costume | 365902 | [365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json](./365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json) |
+| Story of Seasons: Pioneers of Olive Town - Expansion Pass | 365899 | [365899-story-of-seasons-pioneers-of-olive-town-expansion-pass.json](./365899-story-of-seasons-pioneers-of-olive-town-expansion-pass.json) |
 | Story of Seasons: Pioneers of Olive Town - Panda Costume | 366267 | [366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json](./366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json) |
 | Story of Seasons: Project Experiences | 250920 | [250920-story-of-seasons-project-experiences.json](./250920-story-of-seasons-project-experiences.json) |
 | Story of Seasons: Project You can Play with Everyone | 250921 | [250921-story-of-seasons-project-you-can-play-with-everyone.json](./250921-story-of-seasons-project-you-can-play-with-everyone.json) |
@@ -9935,6 +9944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strandzha Adventures 3D | 311825 | [311825-strandzha-adventures-3d.json](./311825-strandzha-adventures-3d.json) |
 | Strange Adventure | 394833 | [394833-strange-adventure.json](./394833-strange-adventure.json) |
 | Strange Aeons | 216861 | [216861-strange-aeons.json](./216861-strange-aeons.json) |
+| Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
 | Strange Horticulture | 186597 | [186597-strange-horticulture.json](./186597-strange-horticulture.json) |
@@ -11760,6 +11770,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nudge 2000 | 72698 | [72698-super-nudge-2000.json](./72698-super-nudge-2000.json) |
 | Super Off Road | 245295 | [245295-super-off-road.json](./245295-super-off-road.json) |
 | Super Off Road | 365683 | [365683-super-off-road.json](./365683-super-off-road.json) |
+| Super Off Road | 365878 | [365878-super-off-road.json](./365878-super-off-road.json) |
+| Super Off Road | 365892 | [365892-super-off-road.json](./365892-super-off-road.json) |
+| Super Off Road | 365893 | [365893-super-off-road.json](./365893-super-off-road.json) |
+| Super Off Road | 365894 | [365894-super-off-road.json](./365894-super-off-road.json) |
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Over! | 244799 | [244799-super-over.json](./244799-super-over.json) |
 | Super Pac-Man | 239191 | [239191-super-pac-man.json](./239191-super-pac-man.json) |
