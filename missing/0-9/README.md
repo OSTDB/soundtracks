@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | -256 | 245917 | [245917-256.json](./245917-256.json) |
 | ! | 165498 | [165498-.json](./165498-.json) |
 | !BurnToDie! | 109760 | [109760-burntodie.json](./109760-burntodie.json) |
+| !Hungry Blocks! | 338924 | [338924-hungry-blocks.json](./338924-hungry-blocks.json) |
 | !Peace Phantom 2! | 89658 | [89658-peace-phantom-2.json](./89658-peace-phantom-2.json) |
 | ¡Shin Chan: Flipa en colores! | 93591 | [93591-shin-chan-flipa-en-colores.json](./93591-shin-chan-flipa-en-colores.json) |
 | ?? Movie Theater | 343834 | [343834-movie-theater.json](./343834-movie-theater.json) |
@@ -321,8 +322,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules II: The Cretan Bull | 35493 | [35493-12-labours-of-hercules-ii-the-cretan-bull.json](./35493-12-labours-of-hercules-ii-the-cretan-bull.json) |
 | 12 Labours of Hercules III: Girl Power | 35494 | [35494-12-labours-of-hercules-iii-girl-power.json](./35494-12-labours-of-hercules-iii-girl-power.json) |
 | 12 Labours of Hercules IV: Mother Nature | 26601 | [26601-12-labours-of-hercules-iv-mother-nature.json](./26601-12-labours-of-hercules-iv-mother-nature.json) |
+| 12 Labours of Hercules IV: Mother Nature - Collector's Edition | 338895 | [338895-12-labours-of-hercules-iv-mother-nature-collectors-edition.json](./338895-12-labours-of-hercules-iv-mother-nature-collectors-edition.json) |
+| 12 Labours of Hercules IX: A Hero's Moonwalk - Collector's Edition | 338900 | [338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json](./338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json) |
+| 12 Labours of Hercules V: Kids of Hellas - Collector's Edition | 338896 | [338896-12-labours-of-hercules-v-kids-of-hellas-collectors-edition.json](./338896-12-labours-of-hercules-v-kids-of-hellas-collectors-edition.json) |
+| 12 Labours of Hercules VI: Race for Olympus - Collectors Edition | 338897 | [338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json](./338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json) |
+| 12 Labours of Hercules VII: Fleecing the Fleece - Collector's Edition | 338898 | [338898-12-labours-of-hercules-vii-fleecing-the-fleece-collectors-edition.json](./338898-12-labours-of-hercules-vii-fleecing-the-fleece-collectors-edition.json) |
 | 12 Labours of Hercules VIII: How I Met Megara | 113390 | [113390-12-labours-of-hercules-viii-how-i-met-megara.json](./113390-12-labours-of-hercules-viii-how-i-met-megara.json) |
+| 12 Labours of Hercules VIII: How I Met Megara - Collector's Edition | 338899 | [338899-12-labours-of-hercules-viii-how-i-met-megara-collectors-edition.json](./338899-12-labours-of-hercules-viii-how-i-met-megara-collectors-edition.json) |
 | 12 Labours of Hercules X: Greed for Speed | 131992 | [131992-12-labours-of-hercules-x-greed-for-speed.json](./131992-12-labours-of-hercules-x-greed-for-speed.json) |
+| 12 Labours of Hercules X: Greed for Speed - Collector's Edition | 338901 | [338901-12-labours-of-hercules-x-greed-for-speed-collectors-edition.json](./338901-12-labours-of-hercules-x-greed-for-speed-collectors-edition.json) |
+| 12 Labours of Hercules XI: Painted Adventure - Collector's Edition | 338904 | [338904-12-labours-of-hercules-xi-painted-adventure-collectors-edition.json](./338904-12-labours-of-hercules-xi-painted-adventure-collectors-edition.json) |
+| 12 Labours of Hercules XII: Timeless Adventure - Collectors Edition | 338905 | [338905-12-labours-of-hercules-xii-timeless-adventure-collectors-edition.json](./338905-12-labours-of-hercules-xii-timeless-adventure-collectors-edition.json) |
+| 12 Labours of Hercules XIII: Wonder-ful Builder - Collector's Edition | 338908 | [338908-12-labours-of-hercules-xiii-wonder-ful-builder-collectors-edition.json](./338908-12-labours-of-hercules-xiii-wonder-ful-builder-collectors-edition.json) |
+| 12 Labours of Hercules XIV: Message in a Bottle - Collector's Edition | 338911 | [338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json](./338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json) |
 | 12 Labours of Hercules XVII: Feathered Fury | 318605 | [318605-12-labours-of-hercules-xvii-feathered-fury.json](./318605-12-labours-of-hercules-xvii-feathered-fury.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep | 355039 | [355039-12-labours-of-hercules-xviii-ghost-sheep.json](./355039-12-labours-of-hercules-xviii-ghost-sheep.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
@@ -679,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
+| 3D Mahjong Deluxe | 338903 | [338903-3d-mahjong-deluxe.json](./338903-3d-mahjong-deluxe.json) |
 | 3D Mine Storm | 41982 | [41982-3d-mine-storm.json](./41982-3d-mine-storm.json) |
 | 3D Minesweeper | 384102 | [384102-3d-minesweeper.json](./384102-3d-minesweeper.json) |
 | 3D MiniGolf | 143059 | [143059-3d-minigolf.json](./143059-3d-minigolf.json) |
@@ -817,6 +830,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Nights At Grek's Hotel | 229199 | [229199-5-nights-at-greks-hotel.json](./229199-5-nights-at-greks-hotel.json) |
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
 | 5 Star Fishy | 245937 | [245937-5-star-fishy.json](./245937-5-star-fishy.json) |
+| 5 Star Hawaii Resort | 338906 | [338906-5-star-hawaii-resort.json](./338906-5-star-hawaii-resort.json) |
+| 5 Star Miami Resort | 338907 | [338907-5-star-miami-resort.json](./338907-5-star-miami-resort.json) |
 | 5 Star Racing | 44820 | [44820-5-star-racing.json](./44820-5-star-racing.json) |
 | 5 Star Rio Resort | 38959 | [38959-5-star-rio-resort.json](./38959-5-star-rio-resort.json) |
 | 5-Star Taxi | 415875 | [415875-5-star-taxi.json](./415875-5-star-taxi.json) |
