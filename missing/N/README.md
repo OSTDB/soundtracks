@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Forgotten | 239639 | [239639-never-forgotten.json](./239639-never-forgotten.json) |
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
+| Never Secure | 389717 | [389717-never-secure.json](./389717-never-secure.json) |
 | Never Sort By Color | 411710 | [411710-never-sort-by-color.json](./411710-never-sort-by-color.json) |
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
 | Never7: The End of Infinity | 18018 | [18018-never7-the-end-of-infinity.json](./18018-never7-the-end-of-infinity.json) |
