@@ -2739,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo Rally Championship | 252862 | [252862-exo-rally-championship.json](./252862-exo-rally-championship.json) |
 | Exo Wanderers | 340044 | [340044-exo-wanderers.json](./340044-exo-wanderers.json) |
+| Exo-Calibre | 338927 | [338927-exo-calibre.json](./338927-exo-calibre.json) |
 | Exo-Card Collector | 365869 | [365869-exo-card-collector.json](./365869-exo-card-collector.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
