@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Delve | 65469 | [65469-dark-delve.json](./65469-dark-delve.json) |
 | Dark Designs I: Grelminar's Staff | 72104 | [72104-dark-designs-i-grelminars-staff.json](./72104-dark-designs-i-grelminars-staff.json) |
 | Dark Designs II: Closing the Gate | 73329 | [73329-dark-designs-ii-closing-the-gate.json](./73329-dark-designs-ii-closing-the-gate.json) |
+| Dark Designs III: Retribution! | 356865 | [356865-dark-designs-iii-retribution.json](./356865-dark-designs-iii-retribution.json) |
 | Dark Desire Mute 4 | 245918 | [245918-dark-desire-mute-4.json](./245918-dark-desire-mute-4.json) |
 | Dark Desire Mute 5 | 250029 | [250029-dark-desire-mute-5.json](./250029-dark-desire-mute-5.json) |
 | Dark Desire Mute 6 | 260412 | [260412-dark-desire-mute-6.json](./260412-dark-desire-mute-6.json) |
@@ -2578,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
+| Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
 | Destiny's Plan | 182355 | [182355-destinys-plan.json](./182355-destinys-plan.json) |
@@ -2991,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die drei ???: Das Gold der Inkas | 361324 | [361324-die-drei-das-gold-der-inkas.json](./361324-die-drei-das-gold-der-inkas.json) |
 | Die drei Freunde von der Reitschule | 291073 | [291073-die-drei-freunde-von-der-reitschule.json](./291073-die-drei-freunde-von-der-reitschule.json) |
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
+| Die Dunkle Dimension | 356849 | [356849-die-dunkle-dimension.json](./356849-die-dunkle-dimension.json) |
 | Die Erdnussbutter | 285978 | [285978-die-erdnussbutter.json](./285978-die-erdnussbutter.json) |
 | Die Fast | 338289 | [338289-die-fast.json](./338289-die-fast.json) |
 | Die First | 414557 | [414557-die-first.json](./414557-die-first.json) |
@@ -3017,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Legende der Wikinger | 91397 | [91397-die-legende-der-wikinger.json](./91397-die-legende-der-wikinger.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
 | Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
+| Die Quelle von Naroth | 356840 | [356840-die-quelle-von-naroth.json](./356840-die-quelle-von-naroth.json) |
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
 | Die Together | 184465 | [184465-die-together.json](./184465-die-together.json) |
@@ -6447,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
 | Dungeons of Aledorn | 60494 | [60494-dungeons-of-aledorn.json](./60494-dungeons-of-aledorn.json) |
+| Dungeons of Avalon | 356864 | [356864-dungeons-of-avalon.json](./356864-dungeons-of-avalon.json) |
 | Dungeons of Avalon II - The Island of Darkness | 19476 | [19476-dungeons-of-avalon-ii-the-island-of-darkness.json](./19476-dungeons-of-avalon-ii-the-island-of-darkness.json) |
 | Dungeons of Chaos | 68203 | [68203-dungeons-of-chaos.json](./68203-dungeons-of-chaos.json) |
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
