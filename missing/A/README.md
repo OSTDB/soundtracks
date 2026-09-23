@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Easter to Remember | 375298 | [375298-an-easter-to-remember.json](./375298-an-easter-to-remember.json) |
 | An Elder Scrolls Legend: Battlespire | 54 | [54-an-elder-scrolls-legend-battlespire.json](./54-an-elder-scrolls-legend-battlespire.json) |
 | An Elmwood Trail | 243410 | [243410-an-elmwood-trail.json](./243410-an-elmwood-trail.json) |
+| An Empty House | 360730 | [360730-an-empty-house.json](./360730-an-empty-house.json) |
 | An English Haunting | 258723 | [258723-an-english-haunting.json](./258723-an-english-haunting.json) |
 | An Eternity Gone By | 294276 | [294276-an-eternity-gone-by.json](./294276-an-eternity-gone-by.json) |
 | An Imp and an Impostor | 378174 | [378174-an-imp-and-an-impostor.json](./378174-an-imp-and-an-impostor.json) |
@@ -4214,6 +4215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 51: Site 4 | 39836 | [39836-area-51-site-4.json](./39836-area-51-site-4.json) |
 | Area 51/Maximum Force Duo | 39597 | [39597-area-51-maximum-force-duo.json](./39597-area-51-maximum-force-duo.json) |
 | Area Radar Controller | 15600 | [15600-area-radar-controller.json](./15600-area-radar-controller.json) |
+| Area Zero | 360739 | [360739-area-zero.json](./360739-area-zero.json) |
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
 | aReaker Water | 74068 | [74068-areaker-water.json](./74068-areaker-water.json) |
 | Areena 4 | 317423 | [317423-areena-4.json](./317423-areena-4.json) |
@@ -4988,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
 | Astera | 304678 | [304678-astera.json](./304678-astera.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
+| Asterfel | 360763 | [360763-asterfel.json](./360763-asterfel.json) |
 | Asterigos: Curse of the Stars - Call of the Paragons | 224114 | [224114-asterigos-curse-of-the-stars-call-of-the-paragons.json](./224114-asterigos-curse-of-the-stars-call-of-the-paragons.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
