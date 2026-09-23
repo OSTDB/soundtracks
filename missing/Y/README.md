@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys: Memories of Celceta - 25th Anniversary Edition | 89868 | [89868-ys-memories-of-celceta-25th-anniversary-edition.json](./89868-ys-memories-of-celceta-25th-anniversary-edition.json) |
 | Ys: Memories of Celceta - Silver Anniversary Edition | 42679 | [42679-ys-memories-of-celceta-silver-anniversary-edition.json](./42679-ys-memories-of-celceta-silver-anniversary-edition.json) |
 | Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
+| YTP All-Stars | 370903 | [370903-ytp-all-stars.json](./370903-ytp-all-stars.json) |
 | Yu Crossing Animals | 219037 | [219037-yu-crossing-animals.json](./219037-yu-crossing-animals.json) |
 | Yu Hayami no American Kids: Eigo de Bikkuri | 293911 | [293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json](./293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json) |
 | Yu Hayami no American Kids: Eigo de Talk | 293913 | [293913-yu-hayami-no-american-kids-eigo-de-talk.json](./293913-yu-hayami-no-american-kids-eigo-de-talk.json) |
