@@ -2672,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Forest Escape | 315692 | [315692-ancient-forest-escape.json](./315692-ancient-forest-escape.json) |
 | Ancient Frontier: Quests & Events | 170510 | [170510-ancient-frontier-quests-and-events.json](./170510-ancient-frontier-quests-and-events.json) |
 | Ancient Frontier: Steel Shadows | 103412 | [103412-ancient-frontier-steel-shadows.json](./103412-ancient-frontier-steel-shadows.json) |
+| Ancient Frontier: Tactics | 391310 | [391310-ancient-frontier-tactics.json](./391310-ancient-frontier-tactics.json) |
 | Ancient Frontier: The Crew | 170509 | [170509-ancient-frontier-the-crew.json](./170509-ancient-frontier-the-crew.json) |
 | Ancient Future | 82040 | [82040-ancient-future.json](./82040-ancient-future.json) |
 | Ancient Glory | 129129 | [129129-ancient-glory.json](./129129-ancient-glory.json) |
