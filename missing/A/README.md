@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alert X: Ostatnia Nadzieja Ziemi | 14237 | [14237-alert-x-ostatnia-nadzieja-ziemi.json](./14237-alert-x-ostatnia-nadzieja-ziemi.json) |
 | Alertes Spéciales | 363969 | [363969-alertes-speciales.json](./363969-alertes-speciales.json) |
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
+| Aletheia: Prophecy of Perseus | 345144 | [345144-aletheia-prophecy-of-perseus.json](./345144-aletheia-prophecy-of-perseus.json) |
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
 | Alex and Der Murder | 396378 | [396378-alex-and-der-murder.json](./396378-alex-and-der-murder.json) |
@@ -3939,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rolling Thunder | 196174 | [196174-arcade-archives-rolling-thunder.json](./196174-arcade-archives-rolling-thunder.json) |
 | Arcade Archives: Rolling Thunder 2 | 251000 | [251000-arcade-archives-rolling-thunder-2.json](./251000-arcade-archives-rolling-thunder-2.json) |
 | Arcade Archives: Rygar | 109499 | [109499-arcade-archives-rygar.json](./109499-arcade-archives-rygar.json) |
+| Arcade Archives: Ryukyu | 345113 | [345113-arcade-archives-ryukyu.json](./345113-arcade-archives-ryukyu.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
 | Arcade Archives: Satan of Saturn | 416064 | [416064-arcade-archives-satan-of-saturn.json](./416064-arcade-archives-satan-of-saturn.json) |
 | Arcade Archives: Scrambled Egg | 364072 | [364072-arcade-archives-scrambled-egg.json](./364072-arcade-archives-scrambled-egg.json) |
@@ -5193,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Chase | 12304 | [12304-astro-chase.json](./12304-astro-chase.json) |
 | Astro Chase 3D | 107639 | [107639-astro-chase-3d.json](./107639-astro-chase-3d.json) |
 | Astro Combat | 337648 | [337648-astro-combat.json](./337648-astro-combat.json) |
+| Astro Combat | 345097 | [345097-astro-combat.json](./345097-astro-combat.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
 | Astro Defender | 364560 | [364560-astro-defender.json](./364560-astro-defender.json) |
