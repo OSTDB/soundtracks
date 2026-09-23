@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoBots | 315713 | [315713-evobots.json](./315713-evobots.json) |
 | Evocation | 107817 | [107817-evocation.json](./107817-evocation.json) |
 | Evocation | 270116 | [270116-evocation.json](./270116-evocation.json) |
+| Evocation | 376090 | [376090-evocation.json](./376090-evocation.json) |
 | Evocation 2: The Dream | 262409 | [262409-evocation-2-the-dream.json](./262409-evocation-2-the-dream.json) |
 | Evocation: Beyond the Dream | 262408 | [262408-evocation-beyond-the-dream.json](./262408-evocation-beyond-the-dream.json) |
 | Evocation: Oltre il Sogno | 242533 | [242533-evocation-oltre-il-sogno.json](./242533-evocation-oltre-il-sogno.json) |
