@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarMage | 26542 | [26542-warmage.json](./26542-warmage.json) |
 | WarMages | 68676 | [68676-warmages.json](./68676-warmages.json) |
 | WarMen Tactics | 85496 | [85496-warmen-tactics.json](./85496-warmen-tactics.json) |
+| Warmerise | 363053 | [363053-warmerise.json](./363053-warmerise.json) |
 | Warmonger: Sins of the Naga | 199605 | [199605-warmonger-sins-of-the-naga.json](./199605-warmonger-sins-of-the-naga.json) |
 | Warmongers | 273392 | [273392-warmongers.json](./273392-warmongers.json) |
 | Warmongers | 377154 | [377154-warmongers.json](./377154-warmongers.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Cooking?: Tasty Chef | 256536 | [256536-whats-cooking-tasty-chef.json](./256536-whats-cooking-tasty-chef.json) |
 | What's Different | 153457 | [153457-whats-different.json](./153457-whats-different.json) |
 | What's Different? | 388013 | [388013-whats-different.json](./388013-whats-different.json) |
+| What's for Dinner? | 363045 | [363045-whats-for-dinner.json](./363045-whats-for-dinner.json) |
 | What's Her face | 201271 | [201271-whats-her-face.json](./201271-whats-her-face.json) |
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
 | What's Michael? | 91763 | [91763-whats-michael.json](./91763-whats-michael.json) |
