@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Command: B-Side | 376749 | [376749-last-command-b-side.json](./376749-last-command-b-side.json) |
 | Last Command: Scream Fest pack | 263039 | [263039-last-command-scream-fest-pack.json](./263039-last-command-scream-fest-pack.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
+| Last Course | 356289 | [356289-last-course.json](./356289-last-course.json) |
 | Last Dawn | 236847 | [236847-last-dawn.json](./236847-last-dawn.json) |
 | Last Day | 224026 | [224026-last-day.json](./224026-last-day.json) |
 | Last Day of June | 36543 | [36543-last-day-of-june.json](./36543-last-day-of-june.json) |
@@ -1969,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Língjiè Zhànxiàn | 127189 | [127189-lingjie-zhanxian.json](./127189-lingjie-zhanxian.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
 | Lingo Legend | 198258 | [198258-lingo-legend.json](./198258-lingo-legend.json) |
+| LingoRogue | 356296 | [356296-lingorogue.json](./356296-lingorogue.json) |
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
 | Lingua Fleur: Lily | 112700 | [112700-lingua-fleur-lily.json](./112700-lingua-fleur-lily.json) |
 | Lingua Franca | 371920 | [371920-lingua-franca.json](./371920-lingua-franca.json) |
