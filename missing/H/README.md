@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Pointsman | 107124 | [107124-hidden-pointsman.json](./107124-hidden-pointsman.json) |
 | Hidden Portals: Chronicles of the Sunbound - Collector's Edition | 396600 | [396600-hidden-portals-chronicles-of-the-sunbound-collectors-edition.json](./396600-hidden-portals-chronicles-of-the-sunbound-collectors-edition.json) |
 | Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
+| Hidden Portals: Eternal Balance - Collector's Edition | 349476 | [349476-hidden-portals-eternal-balance-collectors-edition.json](./349476-hidden-portals-eternal-balance-collectors-edition.json) |
 | Hidden Rabbit 2 | 412386 | [412386-hidden-rabbit-2.json](./412386-hidden-rabbit-2.json) |
 | Hidden Raccoons | 389738 | [389738-hidden-raccoons.json](./389738-hidden-raccoons.json) |
 | Hidden Raccoons in Asia | 403185 | [403185-hidden-raccoons-in-asia.json](./403185-hidden-raccoons-in-asia.json) |
@@ -3137,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Lemmings | 92819 | [92819-holiday-lemmings.json](./92819-holiday-lemmings.json) |
 | Holiday Maker | 74396 | [74396-holiday-maker.json](./74396-holiday-maker.json) |
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
+| Holiday Present Hunt | 349501 | [349501-holiday-present-hunt.json](./349501-holiday-present-hunt.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
 | Holiday Time | 191086 | [191086-holiday-time.json](./191086-holiday-time.json) |
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
