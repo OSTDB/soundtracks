@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schattenjäger | 380128 | [380128-schattenjager.json](./380128-schattenjager.json) |
 | Schattenspiel | 103873 | [103873-schattenspiel.json](./103873-schattenspiel.json) |
 | Schedule I | 328373 | [328373-schedule-i.json](./328373-schedule-i.json) |
+| Schedule I: Mafia Empire | 350050 | [350050-schedule-i-mafia-empire.json](./350050-schedule-i-mafia-empire.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
@@ -4797,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepwalking | 318388 | [318388-sleepwalking.json](./318388-sleepwalking.json) |
 | Sleepy Girl | 343801 | [343801-sleepy-girl.json](./343801-sleepy-girl.json) |
 | Sleepy Head | 91373 | [91373-sleepy-head.json](./91373-sleepy-head.json) |
+| Sleepy Meadow | 350053 | [350053-sleepy-meadow.json](./350053-sleepy-meadow.json) |
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
@@ -6104,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
+| Someone Knocks The Door | 350032 | [350032-someone-knocks-the-door.json](./350032-someone-knocks-the-door.json) |
 | Someone’s Ghost Photos | 399721 | [399721-someone-s-ghost-photos.json](./399721-someone-s-ghost-photos.json) |
 | Someone's Here | 410921 | [410921-someones-here.json](./410921-someones-here.json) |
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
@@ -6462,6 +6465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Shift | 330297 | [330297-sonic-shift.json](./330297-sonic-shift.json) |
 | Sonic Sky Chase Zone | 339670 | [339670-sonic-sky-chase-zone.json](./339670-sonic-sky-chase-zone.json) |
 | Sonic Skywind: Episode II | 327000 | [327000-sonic-skywind-episode-ii.json](./327000-sonic-skywind-episode-ii.json) |
+| Sonic Slash | 350060 | [350060-sonic-slash.json](./350060-sonic-slash.json) |
 | Sonic Smackdown | 134575 | [134575-sonic-smackdown.json](./134575-sonic-smackdown.json) |
 | Sonic Small World | 332453 | [332453-sonic-small-world.json](./332453-sonic-small-world.json) |
 | Sonic Souls | 314901 | [314901-sonic-souls.json](./314901-sonic-souls.json) |
@@ -8382,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro the Dragon | 280768 | [280768-spyro-the-dragon.json](./280768-spyro-the-dragon.json) |
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
 | Spyro the Dragon 8 | 253357 | [253357-spyro-the-dragon-8.json](./253357-spyro-the-dragon-8.json) |
+| Spyro the Dragon: Cavern Escape | 350059 | [350059-spyro-the-dragon-cavern-escape.json](./350059-spyro-the-dragon-cavern-escape.json) |
 | Spyro: A Hero's Tail | 1580 | [1580-spyro-a-heros-tail.json](./1580-spyro-a-heros-tail.json) |
 | Spyro: A Realm Beyond | 405090 | [405090-spyro-a-realm-beyond.json](./405090-spyro-a-realm-beyond.json) |
 | Spyro: Season of Ice | 1587 | [1587-spyro-season-of-ice.json](./1587-spyro-season-of-ice.json) |
@@ -10243,7 +10248,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Street Fighter V: Dan Hibiki | 262471 | [262471-street-fighter-v-dan-hibiki.json](./262471-street-fighter-v-dan-hibiki.json) |
 | Street Fighter V: Juri Han | 319227 | [319227-street-fighter-v-juri-han.json](./319227-street-fighter-v-juri-han.json) |
+| Street Fighter V: Laura Costumes Bundle | 350072 | [350072-street-fighter-v-laura-costumes-bundle.json](./350072-street-fighter-v-laura-costumes-bundle.json) |
 | Street Fighter V: Season 1-3 Nostalgia Costume Pack | 343900 | [343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json](./343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json) |
+| Street Fighter V: Season 4 Character Pass | 350071 | [350071-street-fighter-v-season-4-character-pass.json](./350071-street-fighter-v-season-4-character-pass.json) |
+| Street Fighter V: Season 5 Character Pass | 350070 | [350070-street-fighter-v-season-5-character-pass.json](./350070-street-fighter-v-season-5-character-pass.json) |
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
