@@ -4136,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Queen | 7456 | [7456-singstar-queen.json](./7456-singstar-queen.json) |
 | SingStar: Studio 100 | 45301 | [45301-singstar-studio-100.json](./45301-singstar-studio-100.json) |
 | Singstar: SuomiHitit | 91884 | [91884-singstar-suomihitit.json](./91884-singstar-suomihitit.json) |
+| SingStar: SuomiSuosikit | 357940 | [357940-singstar-suomisuosikit.json](./357940-singstar-suomisuosikit.json) |
 | SingStar: Vasco | 45302 | [45302-singstar-vasco.json](./45302-singstar-vasco.json) |
 | Singstar: Wakacyjna Impreza | 15441 | [15441-singstar-wakacyjna-impreza.json](./15441-singstar-wakacyjna-impreza.json) |
 | Singularity | 401639 | [401639-singularity.json](./401639-singularity.json) |
@@ -11382,6 +11383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Canada | 195279 | [195279-super-jigsaw-puzzle-generations-canada.json](./195279-super-jigsaw-puzzle-generations-canada.json) |
 | Super Jigsaw Puzzle: Generations - Cars Puzzles | 155592 | [155592-super-jigsaw-puzzle-generations-cars-puzzles.json](./155592-super-jigsaw-puzzle-generations-cars-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Castles Puzzles | 155595 | [155595-super-jigsaw-puzzle-generations-castles-puzzles.json](./155595-super-jigsaw-puzzle-generations-castles-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Cats 3 | 357958 | [357958-super-jigsaw-puzzle-generations-cats-3.json](./357958-super-jigsaw-puzzle-generations-cats-3.json) |
 | Super Jigsaw Puzzle: Generations - Cats Puzzles | 155587 | [155587-super-jigsaw-puzzle-generations-cats-puzzles.json](./155587-super-jigsaw-puzzle-generations-cats-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - China Puzzles | 155621 | [155621-super-jigsaw-puzzle-generations-china-puzzles.json](./155621-super-jigsaw-puzzle-generations-china-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Christmas Puzzles | 155585 | [155585-super-jigsaw-puzzle-generations-christmas-puzzles.json](./155585-super-jigsaw-puzzle-generations-christmas-puzzles.json) |
