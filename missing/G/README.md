@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
 | Go Go Poncho! | 89958 | [89958-go-go-poncho.json](./89958-go-go-poncho.json) |
 | Go Go UFO Smackdown | 68622 | [68622-go-go-ufo-smackdown.json](./68622-go-go-ufo-smackdown.json) |
+| Go Go Wolf | 386406 | [386406-go-go-wolf.json](./386406-go-go-wolf.json) |
 | Go Go, Groove Ghoul! | 402413 | [402413-go-go-groove-ghoul.json](./402413-go-go-groove-ghoul.json) |
 | Go Go! Flambeau! | 219799 | [219799-go-go-flambeau.json](./219799-go-go-flambeau.json) |
 | Go Guess | 89981 | [89981-go-guess.json](./89981-go-guess.json) |
@@ -3097,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greta Sees Ghosts! | 348348 | [348348-greta-sees-ghosts.json](./348348-greta-sees-ghosts.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Gretzky NHL 2005 | 24162 | [24162-gretzky-nhl-2005.json](./24162-gretzky-nhl-2005.json) |
+| Grexovka Village | 386411 | [386411-grexovka-village.json](./386411-grexovka-village.json) |
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
 | Grey Cubes | 35226 | [35226-grey-cubes.json](./35226-grey-cubes.json) |
 | Grey Galactic | 236950 | [236950-grey-galactic.json](./236950-grey-galactic.json) |
@@ -3436,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of the Demon Valley | 172685 | [172685-guardian-of-the-demon-valley.json](./172685-guardian-of-the-demon-valley.json) |
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
 | Guardian of the Grave | 340402 | [340402-guardian-of-the-grave.json](./340402-guardian-of-the-grave.json) |
+| Guardian of the Sacred Seal | 386442 | [386442-guardian-of-the-sacred-seal.json](./386442-guardian-of-the-sacred-seal.json) |
 | Guardian Realms RPG | 365188 | [365188-guardian-realms-rpg.json](./365188-guardian-realms-rpg.json) |
 | Guardian Realms TCG | 365187 | [365187-guardian-realms-tcg.json](./365187-guardian-realms-tcg.json) |
 | Guardian Recall | 123006 | [123006-guardian-recall.json](./123006-guardian-recall.json) |
@@ -3654,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Predict | 399015 | [399015-gun-predict.json](./399015-gun-predict.json) |
 | Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
+| Gun Repair Shop | 386436 | [386436-gun-repair-shop.json](./386436-gun-repair-shop.json) |
 | Gun Restoration Shop Simulator | 410317 | [410317-gun-restoration-shop-simulator.json](./410317-gun-restoration-shop-simulator.json) |
 | Gun Road | 96678 | [96678-gun-road.json](./96678-gun-road.json) |
 | Gun Rocket | 34733 | [34733-gun-rocket.json](./34733-gun-rocket.json) |
