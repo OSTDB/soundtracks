@@ -2960,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floracide | 386977 | [386977-floracide.json](./386977-floracide.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
 | Floral Flowlove: Limited Edition | 212319 | [212319-floral-flowlove-limited-edition.json](./212319-floral-flowlove-limited-edition.json) |
+| Floral Gutter | 350619 | [350619-floral-gutter.json](./350619-floral-gutter.json) |
 | Floralgraphic Memory | 265620 | [265620-floralgraphic-memory.json](./265620-floralgraphic-memory.json) |
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
 | Florani Match | 392295 | [392295-florani-match.json](./392295-florani-match.json) |
