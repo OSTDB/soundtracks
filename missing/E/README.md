@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse | 216246 | [216246-eclipse.json](./216246-eclipse.json) |
 | Eclipse | 218163 | [218163-eclipse.json](./218163-eclipse.json) |
 | Eclipse | 295243 | [295243-eclipse.json](./295243-eclipse.json) |
+| Eclipse Below | 350628 | [350628-eclipse-below.json](./350628-eclipse-below.json) |
 | Eclipse Casino | 326254 | [326254-eclipse-casino.json](./326254-eclipse-casino.json) |
 | Eclipse Horde | 151662 | [151662-eclipse-horde.json](./151662-eclipse-horde.json) |
 | Eclipse Isle | 125435 | [125435-eclipse-isle.json](./125435-eclipse-isle.json) |
