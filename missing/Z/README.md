@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zlin City: Arch Moderna | 304008 | [304008-zlin-city-arch-moderna.json](./304008-zlin-city-arch-moderna.json) |
 | ZLM Crafter | 124206 | [124206-zlm-crafter.json](./124206-zlm-crafter.json) |
 | Zlorp Adventures | 328999 | [328999-zlorp-adventures.json](./328999-zlorp-adventures.json) |
+| Zly.ii: The Hacked Station | 369755 | [369755-zly-ii-the-hacked-station.json](./369755-zly-ii-the-hacked-station.json) |
 | ZMR: Zombies Monsters Robots | 7424 | [7424-zmr-zombies-monsters-robots.json](./7424-zmr-zombies-monsters-robots.json) |
 | Zoboomafoo: Leapin' Lemurs | 45308 | [45308-zoboomafoo-leapin-lemurs.json](./45308-zoboomafoo-leapin-lemurs.json) |
 | Zobre Zombie | 275011 | [275011-zobre-zombie.json](./275011-zobre-zombie.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies Everywhere 3 | 405736 | [405736-zombies-everywhere-3.json](./405736-zombies-everywhere-3.json) |
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
+| Zombies In Valkeala | 369750 | [369750-zombies-in-valkeala.json](./369750-zombies-in-valkeala.json) |
 | Zombies Inc | 104617 | [104617-zombies-inc.json](./104617-zombies-inc.json) |
 | Zombies Overloaded | 124618 | [124618-zombies-overloaded.json](./124618-zombies-overloaded.json) |
 | Zombies TD | 213404 | [213404-zombies-td.json](./213404-zombies-td.json) |
