@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
 | Baba is You Xtreme | 209470 | [209470-baba-is-you-xtreme.json](./209470-baba-is-you-xtreme.json) |
 | Baba Is You: Jam Build | 383476 | [383476-baba-is-you-jam-build.json](./383476-baba-is-you-jam-build.json) |
+| Baba-Yaga za tridevyat' zemel'. Nachinaem uchit' nemetskiy | 365290 | [365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json](./365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json) |
 | Baba's Palace | 311985 | [311985-babas-palace.json](./311985-babas-palace.json) |
 | Babaliba | 45339 | [45339-babaliba.json](./45339-babaliba.json) |
 | Babava's Playspace | 278974 | [278974-babavas-playspace.json](./278974-babavas-playspace.json) |
@@ -391,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bajoran Mercenary Adventure! | 116807 | [116807-bajoran-mercenary-adventure.json](./116807-bajoran-mercenary-adventure.json) |
 | Baka to Test to Shoukanjuu Portable | 196714 | [196714-baka-to-test-to-shoukanjuu-portable.json](./196714-baka-to-test-to-shoukanjuu-portable.json) |
 | Bakahazard | 316633 | [316633-bakahazard.json](./316633-bakahazard.json) |
+| Bakar Game | 365275 | [365275-bakar-game.json](./365275-bakar-game.json) |
 | Bakatonosama Mahjong Manyuki | 47575 | [47575-bakatonosama-mahjong-manyuki.json](./47575-bakatonosama-mahjong-manyuki.json) |
 | Bake Care | 177931 | [177931-bake-care.json](./177931-bake-care.json) |
 | Bake it! Pizza Master | 378781 | [378781-bake-it-pizza-master.json](./378781-bake-it-pizza-master.json) |
@@ -709,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banish | 191184 | [191184-banish.json](./191184-banish.json) |
 | Banished Monsters | 248676 | [248676-banished-monsters.json](./248676-banished-monsters.json) |
 | Banished Sir | 369632 | [369632-banished-sir.json](./369632-banished-sir.json) |
+| Banished Souls | 365309 | [365309-banished-souls.json](./365309-banished-souls.json) |
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
 | Banishing Racer | 7763 | [7763-banishing-racer.json](./7763-banishing-racer.json) |
 | Banja | 93537 | [93537-banja.json](./93537-banja.json) |
@@ -1470,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Robot Damashii | 63833 | [63833-battle-robot-damashii.json](./63833-battle-robot-damashii.json) |
 | Battle Round | 127016 | [127016-battle-round.json](./127016-battle-round.json) |
+| Battle Royale Manager | 365253 | [365253-battle-royale-manager.json](./365253-battle-royale-manager.json) |
 | Battle Royale Survival | 107811 | [107811-battle-royale-survival.json](./107811-battle-royale-survival.json) |
 | Battle Royale Trainer | 80451 | [80451-battle-royale-trainer.json](./80451-battle-royale-trainer.json) |
 | Battle Royale Tycoon | 103608 | [103608-battle-royale-tycoon.json](./103608-battle-royale-tycoon.json) |
@@ -4032,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooming Ashes | 407540 | [407540-blooming-ashes.json](./407540-blooming-ashes.json) |
 | Blooming Business: Casino | 151543 | [151543-blooming-business-casino.json](./151543-blooming-business-casino.json) |
 | Blooming Cards | 377054 | [377054-blooming-cards.json](./377054-blooming-cards.json) |
+| Blooming Suspicion | 365308 | [365308-blooming-suspicion.json](./365308-blooming-suspicion.json) |
 | Blooms | 202241 | [202241-blooms.json](./202241-blooms.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Bloons | 261913 | [261913-bloons.json](./261913-bloons.json) |
@@ -4094,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
 | Blue Flow Fandisc | 408309 | [408309-blue-flow-fandisc.json](./408309-blue-flow-fandisc.json) |
 | Blue Forest Story: Kaze no Fuuin | 37204 | [37204-blue-forest-story-kaze-no-fuuin.json](./37204-blue-forest-story-kaze-no-fuuin.json) |
+| Blue Hawaii Aniki's Soft Ore Demand Debut | 365262 | [365262-blue-hawaii-anikis-soft-ore-demand-debut.json](./365262-blue-hawaii-anikis-soft-ore-demand-debut.json) |
 | Blue Hawk | 39875 | [39875-blue-hawk.json](./39875-blue-hawk.json) |
 | Blue Honey | 416862 | [416862-blue-honey.json](./416862-blue-honey.json) |
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
@@ -4708,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
 | Bored Wife | 306379 | [306379-bored-wife.json](./306379-bored-wife.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
+| Boredom Survivors | 365264 | [365264-boredom-survivors.json](./365264-boredom-survivors.json) |
 | BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
 | Borg Nukem | 291978 | [291978-borg-nukem.json](./291978-borg-nukem.json) |
 | BorielZONE | 279734 | [279734-borielzone.json](./279734-borielzone.json) |
