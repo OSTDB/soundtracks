@@ -5892,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonflower | 224580 | [224580-moonflower.json](./224580-moonflower.json) |
 | Moongrave | 370889 | [370889-moongrave.json](./370889-moongrave.json) |
 | MoonHack | 408042 | [408042-moonhack.json](./408042-moonhack.json) |
+| Mooniacs | 343469 | [343469-mooniacs.json](./343469-mooniacs.json) |
 | Moonland | 270707 | [270707-moonland.json](./270707-moonland.json) |
 | Moonleap 2600 | 413685 | [413685-moonleap-2600.json](./413685-moonleap-2600.json) |
 | Moonless | 244863 | [244863-moonless.json](./244863-moonless.json) |
@@ -6507,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Mosco Bizarre Climbing | 263770 | [263770-mr-mosco-bizarre-climbing.json](./263770-mr-mosco-bizarre-climbing.json) |
 | Mr Ninja | 208060 | [208060-mr-ninja.json](./208060-mr-ninja.json) |
 | Mr Rabbit's Alphabet Forest Adventure | 44168 | [44168-mr-rabbits-alphabet-forest-adventure.json](./44168-mr-rabbits-alphabet-forest-adventure.json) |
+| MR Racer | 343459 | [343459-mr-racer.json](./343459-mr-racer.json) |
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
