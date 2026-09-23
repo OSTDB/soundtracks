@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
 | Science Papa | 21112 | [21112-science-papa.json](./21112-science-papa.json) |
 | Science Simulator | 159320 | [159320-science-simulator.json](./159320-science-simulator.json) |
+| Science Skaters | 375423 | [375423-science-skaters.json](./375423-science-skaters.json) |
 | Science Sleuths Vol. 1: Mysteries of the Blob and the Exploding Lawnmowers | 319017 | [319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json](./319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json) |
 | Science Trivia Quiz 100 Wonders | 409659 | [409659-science-trivia-quiz-100-wonders.json](./409659-science-trivia-quiz-100-wonders.json) |
 | Scientific Shutdown | 156123 | [156123-scientific-shutdown.json](./156123-scientific-shutdown.json) |
@@ -1170,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorched Earth | 14431 | [14431-scorched-earth.json](./14431-scorched-earth.json) |
 | Scorched Lands | 401536 | [401536-scorched-lands.json](./401536-scorched-lands.json) |
 | Scorched Planet | 12906 | [12906-scorched-planet.json](./12906-scorched-planet.json) |
+| Scorched Sun | 375434 | [375434-scorched-sun.json](./375434-scorched-sun.json) |
 | Scorched Warfare | 323959 | [323959-scorched-warfare.json](./323959-scorched-warfare.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
@@ -1829,6 +1831,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seicross | 40408 | [40408-seicross.json](./40408-seicross.json) |
 | Seifuku Densetsu Pretty Fighter X | 64982 | [64982-seifuku-densetsu-pretty-fighter-x.json](./64982-seifuku-densetsu-pretty-fighter-x.json) |
 | Seifuku Kanojo 2 | 332551 | [332551-seifuku-kanojo-2.json](./332551-seifuku-kanojo-2.json) |
+| Seifuku Kanojo 2: Free DLC Act.2 - Momojiri Serika | 375436 | [375436-seifuku-kanojo-2-free-dlc-act-2-momojiri-serika.json](./375436-seifuku-kanojo-2-free-dlc-act-2-momojiri-serika.json) |
+| Seifuku Kanojo 2: Free DLC Act.3 - Tamayori Himari | 375437 | [375437-seifuku-kanojo-2-free-dlc-act-3-tamayori-himari.json](./375437-seifuku-kanojo-2-free-dlc-act-3-tamayori-himari.json) |
+| Seifuku Kanojo 2: Free DLC Act.4 - Konomi Yui | 375438 | [375438-seifuku-kanojo-2-free-dlc-act-4-konomi-yui.json](./375438-seifuku-kanojo-2-free-dlc-act-4-konomi-yui.json) |
 | Seifuku: High School Countdown | 234180 | [234180-seifuku-high-school-countdown.json](./234180-seifuku-high-school-countdown.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
 | Seigimatsu II: Special Attack Devil | 47535 | [47535-seigimatsu-ii-special-attack-devil.json](./47535-seigimatsu-ii-special-attack-devil.json) |
@@ -5342,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot | 406915 | [406915-snapshot.json](./406915-snapshot.json) |
 | Snapshot Aquarium | 216889 | [216889-snapshot-aquarium.json](./216889-snapshot-aquarium.json) |
 | Snapshot Girls 3 | 370798 | [370798-snapshot-girls-3.json](./370798-snapshot-girls-3.json) |
+| Snapshot Girls 6 | 375409 | [375409-snapshot-girls-6.json](./375409-snapshot-girls-6.json) |
 | Snapshot Oddities! Find What's Wrong | 390505 | [390505-snapshot-oddities-find-whats-wrong.json](./390505-snapshot-oddities-find-whats-wrong.json) |
 | Snapshot VR | 137443 | [137443-snapshot-vr.json](./137443-snapshot-vr.json) |
 | Snapshots | 384076 | [384076-snapshots.json](./384076-snapshots.json) |
