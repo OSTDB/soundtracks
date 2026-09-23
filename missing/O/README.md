@@ -2127,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch: Reign of Talon - Season 3: Into the Tigers Den | 406719 | [406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json](./406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json) |
 | Overwatch: Safari Ashe Bonus Pack | 409069 | [409069-overwatch-safari-ashe-bonus-pack.json](./409069-overwatch-safari-ashe-bonus-pack.json) |
 | Overwhelm | 103324 | [103324-overwhelm.json](./103324-overwhelm.json) |
+| OverWing | 337291 | [337291-overwing.json](./337291-overwing.json) |
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
 | Overwritten: Defeat the Net | 224630 | [224630-overwritten-defeat-the-net.json](./224630-overwritten-defeat-the-net.json) |
 | Oviraptor Hazard | 361343 | [361343-oviraptor-hazard.json](./361343-oviraptor-hazard.json) |
