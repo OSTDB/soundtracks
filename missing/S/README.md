@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
 | Santa's Christmas Solitaire | 30362 | [30362-santas-christmas-solitaire.json](./30362-santas-christmas-solitaire.json) |
+| Santa's Christmas Solitaire 3 | 337283 | [337283-santas-christmas-solitaire-3.json](./337283-santas-christmas-solitaire-3.json) |
 | Santa's Christmas Story 2 The Frozen Gift War | 376762 | [376762-santas-christmas-story-2-the-frozen-gift-war.json](./376762-santas-christmas-story-2-the-frozen-gift-war.json) |
 | Santa's Factory | 279588 | [279588-santas-factory.json](./279588-santas-factory.json) |
 | Santa's Gifts | 225074 | [225074-santas-gifts.json](./225074-santas-gifts.json) |
@@ -7751,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelen met Bassie & Adriaan Deel 2 | 242645 | [242645-spelen-met-bassie-and-adriaan-deel-2.json](./242645-spelen-met-bassie-and-adriaan-deel-2.json) |
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
 | Spell Breakers | 233104 | [233104-spell-breakers.json](./233104-spell-breakers.json) |
+| Spell Candle | 337299 | [337299-spell-candle.json](./337299-spell-candle.json) |
 | Spell Caster: Puzzle RPG | 233107 | [233107-spell-caster-puzzle-rpg.json](./233107-spell-caster-puzzle-rpg.json) |
 | Spell Casting: Purrfectly Portable Edition | 119541 | [119541-spell-casting-purrfectly-portable-edition.json](./119541-spell-casting-purrfectly-portable-edition.json) |
 | Spell Castle | 84181 | [84181-spell-castle.json](./84181-spell-castle.json) |
@@ -9222,6 +9224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
 | Starmourn | 122849 | [122849-starmourn.json](./122849-starmourn.json) |
 | Starona | 142386 | [142386-starona.json](./142386-starona.json) |
+| Staroot | 337290 | [337290-staroot.json](./337290-staroot.json) |
 | StarOS | 255961 | [255961-staros.json](./255961-staros.json) |
 | StarPeace | 73286 | [73286-starpeace.json](./73286-starpeace.json) |
 | StarPicker | 149607 | [149607-starpicker.json](./149607-starpicker.json) |
