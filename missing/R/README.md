@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
+| Retirement Home Tower Defense | 340569 | [340569-retirement-home-tower-defense.json](./340569-retirement-home-tower-defense.json) |
 | Retool | 32974 | [32974-retool.json](./32974-retool.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
 | Retr0Mine | 386704 | [386704-retr0mine.json](./386704-retr0mine.json) |
@@ -4575,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runebook | 413777 | [413777-runebook.json](./413777-runebook.json) |
 | Runebound | 390671 | [390671-runebound.json](./390671-runebound.json) |
 | Runefall | 27184 | [27184-runefall.json](./27184-runefall.json) |
+| Runeflame: Legacy of the Druids | 340558 | [340558-runeflame-legacy-of-the-druids.json](./340558-runeflame-legacy-of-the-druids.json) |
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
