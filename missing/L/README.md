@@ -2583,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking For Cats In a Badly Drawn Forest: Extra Content | 292678 | [292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json](./292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json) |
 | Looking For Healer | 63003 | [63003-looking-for-healer.json](./63003-looking-for-healer.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
+| Looking Up | 391322 | [391322-looking-up.json](./391322-looking-up.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Loomchild | 418773 | [418773-loomchild.json](./418773-loomchild.json) |
