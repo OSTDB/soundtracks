@@ -2777,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny's House | 182449 | [182449-grannys-house.json](./182449-grannys-house.json) |
 | Granola Jumps | 297252 | [297252-granola-jumps.json](./297252-granola-jumps.json) |
 | Grant of God | 247180 | [247180-grant-of-god.json](./247180-grant-of-god.json) |
+| Granular Moon | 383661 | [383661-granular-moon.json](./383661-granular-moon.json) |
 | Granvil's Fairytale | 203309 | [203309-granvils-fairytale.json](./203309-granvils-fairytale.json) |
 | Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
@@ -3473,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gudrun's Solitaire Duel | 340403 | [340403-gudruns-solitaire-duel.json](./340403-gudruns-solitaire-duel.json) |
 | Guerilla Bob | 94760 | [94760-guerilla-bob.json](./94760-guerilla-bob.json) |
 | Guerilla Cinema // Guerilla Theater | 394838 | [394838-guerilla-cinema-guerilla-theater.json](./394838-guerilla-cinema-guerilla-theater.json) |
+| Guerilla Cubes | 383653 | [383653-guerilla-cubes.json](./383653-guerilla-cubes.json) |
 | Guerra Sangrenta | 258694 | [258694-guerra-sangrenta.json](./258694-guerra-sangrenta.json) |
 | Guerra Tribal | 336616 | [336616-guerra-tribal.json](./336616-guerra-tribal.json) |
 | Guerrière Lyewärd | 244995 | [244995-guerriere-lyeward.json](./244995-guerriere-lyeward.json) |
