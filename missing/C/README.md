@@ -2202,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chequred Flag | 45335 | [45335-chequred-flag.json](./45335-chequred-flag.json) |
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
 | Chernaja Metka | 37048 | [37048-chernaja-metka.json](./37048-chernaja-metka.json) |
+| Chernobots | 373748 | [373748-chernobots.json](./373748-chernobots.json) |
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
 | Chernobyl 1986 | 120929 | [120929-chernobyl-1986.json](./120929-chernobyl-1986.json) |
 | Chernobyl Commando | 9796 | [9796-chernobyl-commando.json](./9796-chernobyl-commando.json) |
@@ -3479,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickenzee | 84270 | [84270-clickenzee.json](./84270-clickenzee.json) |
 | Clicker Achievements: The Impossible Challenge | 103808 | [103808-clicker-achievements-the-impossible-challenge.json](./103808-clicker-achievements-the-impossible-challenge.json) |
 | Clicker Astro Planet | 386870 | [386870-clicker-astro-planet.json](./386870-clicker-astro-planet.json) |
+| Clicker Climber: Pachinko | 373755 | [373755-clicker-climber-pachinko.json](./373755-clicker-climber-pachinko.json) |
 | Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
@@ -3841,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Rogue Fleet | 34446 | [34446-codename-rogue-fleet.json](./34446-codename-rogue-fleet.json) |
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | Codename: SYN | 137603 | [137603-codename-syn.json](./137603-codename-syn.json) |
+| Codename: Twilight | 373761 | [373761-codename-twilight.json](./373761-codename-twilight.json) |
 | Codenames | 105254 | [105254-codenames.json](./105254-codenames.json) |
 | CodeRed: Agent Sarah's Story - Day One | 76679 | [76679-codered-agent-sarahs-story-day-one.json](./76679-codered-agent-sarahs-story-day-one.json) |
 | CodeRunner | 200029 | [200029-coderunner.json](./200029-coderunner.json) |
@@ -4949,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
+| Copperfell | 373737 | [373737-copperfell.json](./373737-copperfell.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
 | Cops N Robbers: Pixel Craft Gun | 400445 | [400445-cops-n-robbers-pixel-craft-gun.json](./400445-cops-n-robbers-pixel-craft-gun.json) |
 | Cops N Robbers: Prison Games 1 | 400441 | [400441-cops-n-robbers-prison-games-1.json](./400441-cops-n-robbers-prison-games-1.json) |
