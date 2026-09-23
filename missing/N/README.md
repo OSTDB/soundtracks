@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
 | Nitro Royale -Heroines Duel- | 70685 | [70685-nitro-royale-heroines-duel.json](./70685-nitro-royale-heroines-duel.json) |
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
+| Nitrokill | 390817 | [390817-nitrokill.json](./390817-nitrokill.json) |
 | Nitroplus Blasterz: Heroines Infinite Duel - Limited Edition | 167134 | [167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json](./167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json) |
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
 | Niva | 341480 | [341480-niva.json](./341480-niva.json) |
@@ -2234,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnarya: Collector's Edition | 362846 | [362846-nocturnarya-collectors-edition.json](./362846-nocturnarya-collectors-edition.json) |
 | Nocturne | 150509 | [150509-nocturne.json](./150509-nocturne.json) |
 | Nocturne | 402375 | [402375-nocturne.json](./402375-nocturne.json) |
+| Nocturne for Cyl-Hestia | 390813 | [390813-nocturne-for-cyl-hestia.json](./390813-nocturne-for-cyl-hestia.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
