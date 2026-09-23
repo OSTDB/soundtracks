@@ -3047,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Symbol | 250965 | [250965-shining-symbol.json](./250965-shining-symbol.json) |
 | Shining the Holy Ark | 46063 | [46063-shining-the-holy-ark.json](./46063-shining-the-holy-ark.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
+| Shinjuku Anomaly | 386407 | [386407-shinjuku-anomaly.json](./386407-shinjuku-anomaly.json) |
 | Shinkan Senshi Eris no Bouken | 97379 | [97379-shinkan-senshi-eris-no-bouken.json](./97379-shinkan-senshi-eris-no-bouken.json) |
 | Shinkansen 0 | 292568 | [292568-shinkansen-0.json](./292568-shinkansen-0.json) |
 | Shinkon Gattai Godannar!! | 70905 | [70905-shinkon-gattai-godannar.json](./70905-shinkon-gattai-godannar.json) |
@@ -5184,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack World: Reloaded | 397927 | [397927-snack-world-reloaded.json](./397927-snack-world-reloaded.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
+| Snafubar | 386438 | [386438-snafubar.json](./386438-snafubar.json) |
 | Snägäri Pinball | 388765 | [388765-snagari-pinball.json](./388765-snagari-pinball.json) |
 | Snail | 331342 | [331342-snail.json](./331342-snail.json) |
 | Snail Bob | 88162 | [88162-snail-bob.json](./88162-snail-bob.json) |
@@ -7724,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
+| Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
