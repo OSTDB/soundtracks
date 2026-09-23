@@ -3052,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green the Planet | 344937 | [344937-green-the-planet.json](./344937-green-the-planet.json) |
 | Green Thumb Cards | 62157 | [62157-green-thumb-cards.json](./62157-green-thumb-cards.json) |
 | Green Valley | 224620 | [224620-green-valley.json](./224620-green-valley.json) |
+| Green Valley County | 385341 | [385341-green-valley-county.json](./385341-green-valley-county.json) |
 | Green Valley: Fun on the Farm | 54059 | [54059-green-valley-fun-on-the-farm.json](./54059-green-valley-fun-on-the-farm.json) |
 | Green vs Tan | 416834 | [416834-green-vs-tan.json](./416834-green-vs-tan.json) |
 | Green Wave | 397088 | [397088-green-wave.json](./397088-green-wave.json) |
