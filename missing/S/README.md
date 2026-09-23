@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savant: Ascent | 7879 | [7879-savant-ascent.json](./7879-savant-ascent.json) |
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
 | Savant: Ascent Remix | 261364 | [261364-savant-ascent-remix.json](./261364-savant-ascent-remix.json) |
+| Save 2B Young Man | 367009 | [367009-save-2b-young-man.json](./367009-save-2b-young-man.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
 | Save daddy trump 2: The Final Triumph | 142234 | [142234-save-daddy-trump-2-the-final-triumph.json](./142234-save-daddy-trump-2-the-final-triumph.json) |
@@ -2231,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Battle [Interacademy! NTR Gangbang Game] | 82938 | [82938-sex-battle-interacademy-ntr-gangbang-game.json](./82938-sex-battle-interacademy-ntr-gangbang-game.json) |
 | Sex Care Magical Girl | 82799 | [82799-sex-care-magical-girl.json](./82799-sex-care-magical-girl.json) |
 | Sex City: 2069 | 259087 | [259087-sex-city-2069.json](./259087-sex-city-2069.json) |
+| Sex Clicker | 367030 | [367030-sex-clicker.json](./367030-sex-clicker.json) |
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
 | Sex Diary: Double Trouble Teacher | 286532 | [286532-sex-diary-double-trouble-teacher.json](./286532-sex-diary-double-trouble-teacher.json) |
 | Sex Diary: Futanari Jail | 286533 | [286533-sex-diary-futanari-jail.json](./286533-sex-diary-futanari-jail.json) |
@@ -2277,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
 | Sex Therapy | 384223 | [384223-sex-therapy.json](./384223-sex-therapy.json) |
 | Sex Vixens From Space | 72378 | [72378-sex-vixens-from-space.json](./72378-sex-vixens-from-space.json) |
+| Sex With Friends | 367048 | [367048-sex-with-friends.json](./367048-sex-with-friends.json) |
 | Sex with Maids | 248669 | [248669-sex-with-maids.json](./248669-sex-with-maids.json) |
 | Sex with the Devil | 165543 | [165543-sex-with-the-devil.json](./165543-sex-with-the-devil.json) |
 | Sex With Toys | 267686 | [267686-sex-with-toys.json](./267686-sex-with-toys.json) |
@@ -8361,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SquareWorld Unpixeled | 110825 | [110825-squareworld-unpixeled.json](./110825-squareworld-unpixeled.json) |
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
+| Squaser 7 | 367047 | [367047-squaser-7.json](./367047-squaser-7.json) |
 | Squaser 8 | 368569 | [368569-squaser-8.json](./368569-squaser-8.json) |
 | Squaser 9 | 368537 | [368537-squaser-9.json](./368537-squaser-9.json) |
 | Squatch | 133234 | [133234-squatch.json](./133234-squatch.json) |
@@ -10529,6 +10533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Successfully Learning German: Year 3 | 85407 | [85407-successfully-learning-german-year-3.json](./85407-successfully-learning-german-year-3.json) |
 | Successfully Learning German: Year 4 | 85406 | [85406-successfully-learning-german-year-4.json](./85406-successfully-learning-german-year-4.json) |
 | Successor of the Moon | 115578 | [115578-successor-of-the-moon.json](./115578-successor-of-the-moon.json) |
+| SuccuBoss | 367057 | [367057-succuboss.json](./367057-succuboss.json) |
 | Succubus | 114156 | [114156-succubus.json](./114156-succubus.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
@@ -10939,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Coast Collection | 328481 | [328481-sunset-coast-collection.json](./328481-sunset-coast-collection.json) |
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
 | Sunset Drive 1986 | 141133 | [141133-sunset-drive-1986.json](./141133-sunset-drive-1986.json) |
+| Sunset Fighter | 367020 | [367020-sunset-fighter.json](./367020-sunset-fighter.json) |
 | Sunset Giant | 114391 | [114391-sunset-giant.json](./114391-sunset-giant.json) |
 | Sunset High | 338267 | [338267-sunset-high.json](./338267-sunset-high.json) |
 | Sunset Irreligion | 325252 | [325252-sunset-irreligion.json](./325252-sunset-irreligion.json) |
@@ -12045,6 +12051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Trump Collection | 42221 | [42221-super-trump-collection.json](./42221-super-trump-collection.json) |
 | Super Trump Collection 2 | 42220 | [42220-super-trump-collection-2.json](./42220-super-trump-collection-2.json) |
 | Super Trux | 74431 | [74431-super-trux.json](./74431-super-trux.json) |
+| Super TSA | 367015 | [367015-super-tsa.json](./367015-super-tsa.json) |
 | Super Tsume Shogi 1000 | 42219 | [42219-super-tsume-shogi-1000.json](./42219-super-tsume-shogi-1000.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
 | Super Turbo Demon Busters! | 74860 | [74860-super-turbo-demon-busters.json](./74860-super-turbo-demon-busters.json) |
