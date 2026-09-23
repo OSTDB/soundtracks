@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Last Evenings on Earth | 343349 | [343349-reverse-1999-last-evenings-on-earth.json](./343349-reverse-1999-last-evenings-on-earth.json) |
 | Reverse 1999: Notes on Shuori | 340217 | [340217-reverse-1999-notes-on-shuori.json](./340217-reverse-1999-notes-on-shuori.json) |
 | Reverse 1999: Revival! The Uluru Games | 340205 | [340205-reverse-1999-revival-the-uluru-games.json](./340205-reverse-1999-revival-the-uluru-games.json) |
+| Reverse 1999: Showdown in Chinatown | 342261 | [342261-reverse-1999-showdown-in-chinatown.json](./342261-reverse-1999-showdown-in-chinatown.json) |
 | Reverse 1999: Spring Unending | 397101 | [397101-reverse-1999-spring-unending.json](./397101-reverse-1999-spring-unending.json) |
 | Reverse 1999: The Haunted Highway | 343346 | [343346-reverse-1999-the-haunted-highway.json](./343346-reverse-1999-the-haunted-highway.json) |
 | Reverse 1999: The Theft of the Rimet Cup | 279785 | [279785-reverse-1999-the-theft-of-the-rimet-cup.json](./279785-reverse-1999-the-theft-of-the-rimet-cup.json) |
