@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAT Prep Math 2008 | 76976 | [76976-sat-prep-math-2008.json](./76976-sat-prep-math-2008.json) |
 | SatAM Online | 331950 | [331950-satam-online.json](./331950-satam-online.json) |
 | Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
+| Satan Santa | 369743 | [369743-satan-santa.json](./369743-satan-santa.json) |
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
 | Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
@@ -5304,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Deluxe | 154407 | [154407-snake-deluxe.json](./154407-snake-deluxe.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
+| Snake Eyes | 369733 | [369733-snake-eyes.json](./369733-snake-eyes.json) |
 | Snake Flow | 37061 | [37061-snake-flow.json](./37061-snake-flow.json) |
 | Snake Force | 182382 | [182382-snake-force.json](./182382-snake-force.json) |
 | Snake Game | 95375 | [95375-snake-game.json](./95375-snake-game.json) |
@@ -7814,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike a Love Story | 391207 | [391207-spike-a-love-story.json](./391207-spike-a-love-story.json) |
 | Spike City | 100558 | [100558-spike-city.json](./100558-spike-city.json) |
 | Spike Hoppin' | 41984 | [41984-spike-hoppin.json](./41984-spike-hoppin.json) |
+| Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
 | Spike Volleyball | 112846 | [112846-spike-volleyball.json](./112846-spike-volleyball.json) |
 | Spikeout: Battle Street | 6056 | [6056-spikeout-battle-street.json](./6056-spikeout-battle-street.json) |
 | Spiker | 46869 | [46869-spiker.json](./46869-spiker.json) |
@@ -12493,6 +12496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swagbucks Live | 88542 | [88542-swagbucks-live.json](./88542-swagbucks-live.json) |
 | Swagman | 20810 | [20810-swagman.json](./20810-swagman.json) |
 | Swallow | 203871 | [203871-swallow.json](./203871-swallow.json) |
+| Swallow the Blue | 369749 | [369749-swallow-the-blue.json](./369749-swallow-the-blue.json) |
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
 | Swallowtail: Ano Hi, Ao wo Koete | 402897 | [402897-swallowtail-ano-hi-ao-wo-koete.json](./402897-swallowtail-ano-hi-ao-wo-koete.json) |
 | Swam | 30179 | [30179-swam.json](./30179-swam.json) |
@@ -12993,6 +12997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
 | Syobon Action HD | 365135 | [365135-syobon-action-hd.json](./365135-syobon-action-hd.json) |
 | Syobon Action NES Edition | 198474 | [198474-syobon-action-nes-edition.json](./198474-syobon-action-nes-edition.json) |
+| Syobon No Action Special | 369764 | [369764-syobon-no-action-special.json](./369764-syobon-no-action-special.json) |
 | Syon | 296383 | [296383-syon.json](./296383-syon.json) |
 | Syphon Filter | 4115 | [4115-syphon-filter.json](./4115-syphon-filter.json) |
 | Syphon Filter 2 | 4116 | [4116-syphon-filter-2.json](./4116-syphon-filter-2.json) |
