@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Worm | 115686 | [115686-lets-worm.json](./115686-lets-worm.json) |
 | Let's! Revolution! | 242101 | [242101-lets-revolution.json](./242101-lets-revolution.json) |
 | Let's! Splat! Machigai Sagashi | 222528 | [222528-lets-splat-machigai-sagashi.json](./222528-lets-splat-machigai-sagashi.json) |
+| Lethal | 355235 | [355235-lethal.json](./355235-lethal.json) |
 | Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
 | Lethal Beach | 267109 | [267109-lethal-beach.json](./267109-lethal-beach.json) |
 | Lethal Company | 212089 | [212089-lethal-company.json](./212089-lethal-company.json) |
@@ -1487,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
+| Levi no Slime Factory | 355189 | [355189-levi-no-slime-factory.json](./355189-levi-no-slime-factory.json) |
 | Levi's Garden | 142503 | [142503-levis-garden.json](./142503-levis-garden.json) |
 | Leviaclaw | 379877 | [379877-leviaclaw.json](./379877-leviaclaw.json) |
 | Leviathan | 229696 | [229696-leviathan.json](./229696-leviathan.json) |
@@ -1546,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
 | Liberation | 249813 | [249813-liberation.json](./249813-liberation.json) |
+| Liberation | 355236 | [355236-liberation.json](./355236-liberation.json) |
 | Liberation Army | 364590 | [364590-liberation-army.json](./364590-liberation-army.json) |
 | Liberation Army Plus | 364593 | [364593-liberation-army-plus.json](./364593-liberation-army-plus.json) |
 | Liberation Circuit | 185085 | [185085-liberation-circuit.json](./185085-liberation-circuit.json) |
