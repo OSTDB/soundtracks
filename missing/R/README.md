@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Football 2017 | 116351 | [116351-real-football-2017.json](./116351-real-football-2017.json) |
 | Real Football 2018 | 116352 | [116352-real-football-2018.json](./116352-real-football-2018.json) |
 | Real Football 2019 | 116353 | [116353-real-football-2019.json](./116353-real-football-2019.json) |
+| Real Girl 3: Virtual Sex | 372120 | [372120-real-girl-3-virtual-sex.json](./372120-real-girl-3-virtual-sex.json) |
 | Real Grand Gangster Mafia war | 231914 | [231914-real-grand-gangster-mafia-war.json](./231914-real-grand-gangster-mafia-war.json) |
 | Real Hentai Situation! 2 | 194628 | [194628-real-hentai-situation-2.json](./194628-real-hentai-situation-2.json) |
 | Real Heroes Firefighter 3D | 84911 | [84911-real-heroes-firefighter-3d.json](./84911-real-heroes-firefighter-3d.json) |
