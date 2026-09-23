@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkroom 2 | 75769 | [75769-darkroom-2.json](./75769-darkroom-2.json) |
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
+| DarkShine | 356295 | [356295-darkshine.json](./356295-darkshine.json) |
 | Darkside | 60515 | [60515-darkside.json](./60515-darkside.json) |
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
@@ -1110,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: UH-1H Worlds Apart Stormfront Campaign by Low-Level-Heaven Mission Development | 325096 | [325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json](./325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json) |
 | DCS: F-15C Aggressors Air Combat Maneuvering Campaign by Maple Flag | 296518 | [296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json](./296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json) |
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
+| DD Sequencer | 356285 | [356285-dd-sequencer.json](./356285-dd-sequencer.json) |
 | DDD Pool | 92835 | [92835-ddd-pool.json](./92835-ddd-pool.json) |
 | DDD: Demons Double Down | 390779 | [390779-ddd-demons-double-down.json](./390779-ddd-demons-double-down.json) |
 | DDI Touring Car Championship | 298681 | [298681-ddi-touring-car-championship.json](./298681-ddi-touring-car-championship.json) |
@@ -1131,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Abyss | 321336 | [321336-dead-abyss.json](./321336-dead-abyss.json) |
 | Dead Age 1 + 2 Bundle | 154956 | [154956-dead-age-1-2-bundle.json](./154956-dead-age-1-2-bundle.json) |
 | Dead Age 2 | 127098 | [127098-dead-age-2.json](./127098-dead-age-2.json) |
+| Dead Ahead | 356286 | [356286-dead-ahead.json](./356286-dead-ahead.json) |
 | Dead Ahead: Zombie Warfare | 56166 | [56166-dead-ahead-zombie-warfare.json](./56166-dead-ahead-zombie-warfare.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
@@ -1401,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Edge | 52250 | [52250-deadly-edge.json](./52250-deadly-edge.json) |
 | Deadly Flare | 192879 | [192879-deadly-flare.json](./192879-deadly-flare.json) |
 | Deadly Footprints | 295791 | [295791-deadly-footprints.json](./295791-deadly-footprints.json) |
+| Deadly Honor | 356287 | [356287-deadly-honor.json](./356287-deadly-honor.json) |
 | Deadly Infestation | 190157 | [190157-deadly-infestation.json](./190157-deadly-infestation.json) |
 | Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
 | Deadly Kiss | 343351 | [343351-deadly-kiss.json](./343351-deadly-kiss.json) |
@@ -2365,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derace | 393602 | [393602-derace.json](./393602-derace.json) |
 | Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
 | Derby Champion Club | 386250 | [386250-derby-champion-club.json](./386250-derby-champion-club.json) |
+| Derby Day | 356288 | [356288-derby-day.json](./356288-derby-day.json) |
 | Derby Heroines: Run, Bet, Win! | 412502 | [412502-derby-heroines-run-bet-win.json](./412502-derby-heroines-run-bet-win.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
 | Derby Quest: Horse Manager HD | 246429 | [246429-derby-quest-horse-manager-hd.json](./246429-derby-quest-horse-manager-hd.json) |
@@ -3738,10 +3743,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
 | Diver's | 373028 | [373028-divers.json](./373028-divers.json) |
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
+| Divergences | 356267 | [356267-divergences.json](./356267-divergences.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
 | Divi-Dead | 12420 | [12420-divi-dead.json](./12420-divi-dead.json) |
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
 | Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
+| Divide et Impera | 356254 | [356254-divide-et-impera.json](./356254-divide-et-impera.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
 | Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
@@ -5327,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonnet Havoc | 361725 | [361725-dragonnet-havoc.json](./361725-dragonnet-havoc.json) |
 | Dragonology | 21095 | [21095-dragonology.json](./21095-dragonology.json) |
 | DragonRealms | 66380 | [66380-dragonrealms.json](./66380-dragonrealms.json) |
+| Dragons and Elves | 355191 | [355191-dragons-and-elves.json](./355191-dragons-and-elves.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
@@ -6297,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Journey | 253964 | [253964-dungeon-journey.json](./253964-dungeon-journey.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
+| Dungeon Killing | 355210 | [355210-dungeon-killing.json](./355210-dungeon-killing.json) |
 | Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
 | Dungeon Limbus | 142280 | [142280-dungeon-limbus.json](./142280-dungeon-limbus.json) |
