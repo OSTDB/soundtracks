@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
 | Sextris | 185629 | [185629-sextris.json](./185629-sextris.json) |
 | Sexts | 234750 | [234750-sexts.json](./234750-sexts.json) |
+| Sexual Girl | 367626 | [367626-sexual-girl.json](./367626-sexual-girl.json) |
 | Sexual Nudity | 140575 | [140575-sexual-nudity.json](./140575-sexual-nudity.json) |
 | Sexual Slave Ayaka | 82840 | [82840-sexual-slave-ayaka.json](./82840-sexual-slave-ayaka.json) |
 | Sexuality with Girlfriends: Laler & Reese | 375977 | [375977-sexuality-with-girlfriends-laler-and-reese.json](./375977-sexuality-with-girlfriends-laler-and-reese.json) |
@@ -4792,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
 | Slide Defenders | 334079 | [334079-slide-defenders.json](./334079-slide-defenders.json) |
 | Slide Faster | 319795 | [319795-slide-faster.json](./319795-slide-faster.json) |
+| Slide Furry Futanari | 367625 | [367625-slide-furry-futanari.json](./367625-slide-furry-futanari.json) |
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
 | Slide On Ice | 243714 | [243714-slide-on-ice.json](./243714-slide-on-ice.json) |
@@ -5640,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Below | 218732 | [218732-so-below.json](./218732-so-below.json) |
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
+| So I bought a little chainsaw | 367599 | [367599-so-i-bought-a-little-chainsaw.json](./367599-so-i-bought-a-little-chainsaw.json) |
 | So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
 | So Let Us Melt | 68276 | [68276-so-let-us-melt.json](./68276-so-let-us-melt.json) |
 | So Long Earth | 33376 | [33376-so-long-earth.json](./33376-so-long-earth.json) |
@@ -10920,6 +10923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunman | 48651 | [48651-sunman.json](./48651-sunman.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
+| Sunny Love | 367618 | [367618-sunny-love.json](./367618-sunny-love.json) |
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
 | Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
@@ -11947,6 +11951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Solvers: Gizmos & Gadgets! | 46647 | [46647-super-solvers-gizmos-and-gadgets.json](./46647-super-solvers-gizmos-and-gadgets.json) |
 | Super Solvers: Midnight Rescue! | 46646 | [46646-super-solvers-midnight-rescue.json](./46646-super-solvers-midnight-rescue.json) |
 | Super Solvers: Treasure Mountain! | 70340 | [70340-super-solvers-treasure-mountain.json](./70340-super-solvers-treasure-mountain.json) |
+| Super Sonday | 367601 | [367601-super-sonday.json](./367601-super-sonday.json) |
 | Super Sonic Bros. | 318026 | [318026-super-sonic-bros.json](./318026-super-sonic-bros.json) |
 | Super Sonic Cooking | 336357 | [336357-super-sonic-cooking.json](./336357-super-sonic-cooking.json) |
 | Super Sonic in Sonic 3D | 198546 | [198546-super-sonic-in-sonic-3d.json](./198546-super-sonic-in-sonic-3d.json) |
