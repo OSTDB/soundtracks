@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record Scratch Fever | 183528 | [183528-record-scratch-fever.json](./183528-record-scratch-fever.json) |
 | Record Store Nightmare | 68660 | [68660-record-store-nightmare.json](./68660-record-store-nightmare.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
+| Recordeca | 364689 | [364689-recordeca.json](./364689-recordeca.json) |
 | Recorded | 59691 | [59691-recorded.json](./59691-recorded.json) |
 | Recording the Predestined Time | 135013 | [135013-recording-the-predestined-time.json](./135013-recording-the-predestined-time.json) |
 | Records of the Flycatcher | 319803 | [319803-records-of-the-flycatcher.json](./319803-records-of-the-flycatcher.json) |
@@ -4405,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
+| Run It Back | 364672 | [364672-run-it-back.json](./364672-run-it-back.json) |
 | Run Jojo Siwa | 95848 | [95848-run-jojo-siwa.json](./95848-run-jojo-siwa.json) |
 | Run Jump Die Repeat | 47230 | [47230-run-jump-die-repeat.json](./47230-run-jump-die-repeat.json) |
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
