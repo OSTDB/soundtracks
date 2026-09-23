@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
 | Viral | 265255 | [265255-viral.json](./265255-viral.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
+| Viral Multiplayer | 340556 | [340556-viral-multiplayer.json](./340556-viral-multiplayer.json) |
 | Viral Quarantine | 116404 | [116404-viral-quarantine.json](./116404-viral-quarantine.json) |
 | Viral Survival | 85475 | [85475-viral-survival.json](./85475-viral-survival.json) |
 | Virar | 276814 | [276814-virar.json](./276814-virar.json) |
