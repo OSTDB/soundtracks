@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Zombies | 48012 | [48012-choice-of-zombies.json](./48012-choice-of-zombies.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
 | Choices, the Game | 83531 | [83531-choices-the-game.json](./83531-choices-the-game.json) |
+| Choirsaintess | 367060 | [367060-choirsaintess.json](./367060-choirsaintess.json) |
 | Choju Yokai Giga | 151684 | [151684-choju-yokai-giga.json](./151684-choju-yokai-giga.json) |
 | Chokkan Asonde Rilakkuma | 279117 | [279117-chokkan-asonde-rilakkuma.json](./279117-chokkan-asonde-rilakkuma.json) |
 | Chokkan Crash Bandicoot | 210241 | [210241-chokkan-crash-bandicoot.json](./210241-chokkan-crash-bandicoot.json) |
@@ -4093,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Island: Pixel Art | 280221 | [280221-color-island-pixel-art.json](./280221-color-island-pixel-art.json) |
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
 | Color Lines | 50119 | [50119-color-lines.json](./50119-color-lines.json) |
+| Color Madness | 367049 | [367049-color-madness.json](./367049-color-madness.json) |
 | Color Matching | 234168 | [234168-color-matching.json](./234168-color-matching.json) |
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
@@ -6986,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Ice! | 277958 | [277958-cute-ice.json](./277958-cute-ice.json) |
 | Cute Kaizo World | 208401 | [208401-cute-kaizo-world.json](./208401-cute-kaizo-world.json) |
 | Cute Mold | 374161 | [374161-cute-mold.json](./374161-cute-mold.json) |
+| Cute Nurses | 367011 | [367011-cute-nurses.json](./367011-cute-nurses.json) |
 | Cute Pet Doctor Care | 228113 | [228113-cute-pet-doctor-care.json](./228113-cute-pet-doctor-care.json) |
 | Cute Puzzle | 111015 | [111015-cute-puzzle.json](./111015-cute-puzzle.json) |
 | Cute Puzzle MAX | 111079 | [111079-cute-puzzle-max.json](./111079-cute-puzzle-max.json) |
@@ -7108,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
+| Cybercity: Sex Saga | 367013 | [367013-cybercity-sex-saga.json](./367013-cybercity-sex-saga.json) |
 | CyberClub-2077 | 72342 | [72342-cyberclub-2077.json](./72342-cyberclub-2077.json) |
 | Cybercon | 15923 | [15923-cybercon.json](./15923-cybercon.json) |
 | Cybercon II | 15922 | [15922-cybercon-ii.json](./15922-cybercon-ii.json) |
