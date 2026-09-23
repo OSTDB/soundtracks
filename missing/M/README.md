@@ -4785,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | MitchiriNeko Bubble | 228544 | [228544-mitchirineko-bubble.json](./228544-mitchirineko-bubble.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
+| Mithra Episode 1: The Calling | 359065 | [359065-mithra-episode-1-the-calling.json](./359065-mithra-episode-1-the-calling.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
 | Mitla | 373657 | [373657-mitla.json](./373657-mitla.json) |
