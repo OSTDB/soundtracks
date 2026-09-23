@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want to Go to Mars | 130363 | [130363-i-want-to-go-to-mars.json](./130363-i-want-to-go-to-mars.json) |
 | I Want To Make Something Beautiful | 391209 | [391209-i-want-to-make-something-beautiful.json](./391209-i-want-to-make-something-beautiful.json) |
 | I Want to Play the Villain! | 412542 | [412542-i-want-to-play-the-villain.json](./412542-i-want-to-play-the-villain.json) |
+| I Want to Run Away From My Goth Mommy... or Do I? | 372691 | [372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json](./372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json) |
 | I was a Cannibal for the FBI | 71526 | [71526-i-was-a-cannibal-for-the-fbi.json](./71526-i-was-a-cannibal-for-the-fbi.json) |
 | I Was Always Filled With Anger | 139266 | [139266-i-was-always-filled-with-anger.json](./139266-i-was-always-filled-with-anger.json) |
 | I Was An Atomic Mutant! | 24084 | [24084-i-was-an-atomic-mutant.json](./24084-i-was-an-atomic-mutant.json) |
@@ -292,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm on Merrymaking Watch | 237948 | [237948-im-on-merrymaking-watch.json](./237948-im-on-merrymaking-watch.json) |
 | I'm on Observation Duty 4 | 184481 | [184481-im-on-observation-duty-4.json](./184481-im-on-observation-duty-4.json) |
+| I'm on Sorority Duty | 372672 | [372672-im-on-sorority-duty.json](./372672-im-on-sorority-duty.json) |
 | I'm Only Sleeping | 71001 | [71001-im-only-sleeping.json](./71001-im-only-sleeping.json) |
 | I'm Pregnant at 16 | 336639 | [336639-im-pregnant-at-16.json](./336639-im-pregnant-at-16.json) |
 | I'm Scared of My Girlfriend | 247580 | [247580-im-scared-of-my-girlfriend.json](./247580-im-scared-of-my-girlfriend.json) |
@@ -551,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
 | Idle Elemental | 392446 | [392446-idle-elemental.json](./392446-idle-elemental.json) |
+| Idle Empires | 372697 | [372697-idle-empires.json](./372697-idle-empires.json) |
 | Idle Expanse | 138599 | [138599-idle-expanse.json](./138599-idle-expanse.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
 | Idle Fitness Gym Tycoon | 392447 | [392447-idle-fitness-gym-tycoon.json](./392447-idle-fitness-gym-tycoon.json) |
