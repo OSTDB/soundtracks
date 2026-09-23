@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.M.A.C.K. | 225097 | [225097-s-m-a-c-k.json](./225097-s-m-a-c-k.json) |
 | S.M.A.R.T. Adventures: Mission Math - Sabotage at the Space Station | 86092 | [86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
 | S.M.A.S.H.E.D. | 55108 | [55108-s-m-a-s-h-e-d.json](./55108-s-m-a-s-h-e-d.json) |
+| S.M.P.C.U.: Special Monster Pest Control Unit | 381279 | [381279-s-m-p-c-u-special-monster-pest-control-unit.json](./381279-s-m-p-c-u-special-monster-pest-control-unit.json) |
 | S.N.I.P.E.R: Hunter Scope - Hero's Edition | 387680 | [387680-s-n-i-p-e-r-hunter-scope-heros-edition.json](./387680-s-n-i-p-e-r-hunter-scope-heros-edition.json) |
 | S.N.I.P.E.R. Hunter Scope Silent Assassin | 385175 | [385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json](./385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json) |
 | S.N.I.P.E.R. Hunter Scope Urban Warfare | 385174 | [385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json](./385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json) |
@@ -2164,6 +2165,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
+| Seven Stars 3D | 381261 | [381261-seven-stars-3d.json](./381261-seven-stars-3d.json) |
+| Seven Stars 3D 2 | 381262 | [381262-seven-stars-3d-2.json](./381262-seven-stars-3d-2.json) |
 | Seven Suns of Orion | 418732 | [418732-seven-suns-of-orion.json](./418732-seven-suns-of-orion.json) |
 | Seven Wonders of St. Clementine | 120944 | [120944-seven-wonders-of-st-clementine.json](./120944-seven-wonders-of-st-clementine.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
@@ -8280,6 +8283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Survival Simulator: Sea Animal Life 3D | 104594 | [104594-squid-survival-simulator-sea-animal-life-3d.json](./104594-squid-survival-simulator-sea-animal-life-3d.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
 | Squids Odyssey | 19877 | [19877-squids-odyssey.json](./19877-squids-odyssey.json) |
+| Squidview | 381251 | [381251-squidview.json](./381251-squidview.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
 | Squingle Arcade | 397933 | [397933-squingle-arcade.json](./397933-squingle-arcade.json) |
 | Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
@@ -8747,6 +8751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
 | Star Wars: Galactic Battle | 198918 | [198918-star-wars-galactic-battle.json](./198918-star-wars-galactic-battle.json) |
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
+| Star Wars: Galactic Racer | 381248 | [381248-star-wars-galactic-racer.json](./381248-star-wars-galactic-racer.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
 | Star Wars: Heritage Pack | 247756 | [247756-star-wars-heritage-pack.json](./247756-star-wars-heritage-pack.json) |
 | Star Wars: Hunters | 143611 | [143611-star-wars-hunters.json](./143611-star-wars-hunters.json) |
@@ -12485,6 +12490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Island | 392924 | [392924-sweet-island.json](./392924-sweet-island.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
+| Sweet Math | 381276 | [381276-sweet-math.json](./381276-sweet-math.json) |
 | Sweet Model | 371356 | [371356-sweet-model.json](./371356-sweet-model.json) |
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Restaurant | 368561 | [368561-sweet-restaurant.json](./368561-sweet-restaurant.json) |
