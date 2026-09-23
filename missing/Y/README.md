@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Must Build A Ship | 185589 | [185589-you-must-build-a-ship.json](./185589-you-must-build-a-ship.json) |
 | You Must Escape | 343870 | [343870-you-must-escape.json](./343870-you-must-escape.json) |
 | You Must Escape 2 | 71197 | [71197-you-must-escape-2.json](./71197-you-must-escape-2.json) |
+| You need to Buy a Phone Charger | 361338 | [361338-you-need-to-buy-a-phone-charger.json](./361338-you-need-to-buy-a-phone-charger.json) |
 | You Only Livez Twice | 124250 | [124250-you-only-livez-twice.json](./124250-you-only-livez-twice.json) |
 | You See a Monster Smoking in the Parking Lot | 377666 | [377666-you-see-a-monster-smoking-in-the-parking-lot.json](./377666-you-see-a-monster-smoking-in-the-parking-lot.json) |
 | You Shall Not Jump: PC Master Race Edition | 41967 | [41967-you-shall-not-jump-pc-master-race-edition.json](./41967-you-shall-not-jump-pc-master-race-edition.json) |
@@ -496,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Very Last Words | 352760 | [352760-your-very-last-words.json](./352760-your-very-last-words.json) |
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
 | Your wife | 166731 | [166731-your-wife.json](./166731-your-wife.json) |
+| Yourcraft | 361322 | [361322-yourcraft.json](./361322-yourcraft.json) |
 | Yours Truly | 199134 | [199134-yours-truly.json](./199134-yours-truly.json) |
 | YourToy and Dying: Reborn Horror Game Bundle | 247581 | [247581-yourtoy-and-dying-reborn-horror-game-bundle.json](./247581-yourtoy-and-dying-reborn-horror-game-bundle.json) |
 | Yousei | 62968 | [62968-yousei.json](./62968-yousei.json) |
