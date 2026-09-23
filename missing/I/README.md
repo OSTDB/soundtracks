@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
 | Ibb & Obb | 9139 | [9139-ibb-and-obb.json](./9139-ibb-and-obb.json) |
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
+| Iblis | 344578 | [344578-iblis.json](./344578-iblis.json) |
 | Iblis3: Phenomena | 372013 | [372013-iblis3-phenomena.json](./372013-iblis3-phenomena.json) |
 | IBloxx | 359476 | [359476-ibloxx.json](./359476-ibloxx.json) |
 | IBM: Cityone, A Smarter Planet Game | 66626 | [66626-ibm-cityone-a-smarter-planet-game.json](./66626-ibm-cityone-a-smarter-planet-game.json) |
@@ -2491,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ittle Dew 2 | 11598 | [11598-ittle-dew-2.json](./11598-ittle-dew-2.json) |
 | Ittle Dew 2+ | 75286 | [75286-ittle-dew-2.json](./75286-ittle-dew-2.json) |
 | Ittle Dew no Densetsu: Ushinawareta Reta Shima to Nazo no Shiro | 222317 | [222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json](./222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json) |
+| Itty Bitty Little Kitties | 344550 | [344550-itty-bitty-little-kitties.json](./344550-itty-bitty-little-kitties.json) |
 | Iubes:2 | 76559 | [76559-iubes-2.json](./76559-iubes-2.json) |
 | Ivan | 365151 | [365151-ivan.json](./365151-ivan.json) |
 | Ivan ''Ironman'' Stewart's Super Off Road | 12735 | [12735-ivan-ironman-stewarts-super-off-road.json](./12735-ivan-ironman-stewarts-super-off-road.json) |
