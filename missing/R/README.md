@@ -3583,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogalik | 99654 | [99654-rogalik.json](./99654-rogalik.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
+| Rogolf | 358468 | [358468-rogolf.json](./358468-rogolf.json) |
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue 'n' Roll: Dice of Fate | 400466 | [400466-rogue-n-roll-dice-of-fate.json](./400466-rogue-n-roll-dice-of-fate.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
@@ -3807,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollMe | 169883 | [169883-rollme.json](./169883-rollme.json) |
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
+| Rollover Alien | 358490 | [358490-rollover-alien.json](./358490-rollover-alien.json) |
 | Rolls and Girls | 367027 | [367027-rolls-and-girls.json](./367027-rolls-and-girls.json) |
 | RollScape | 295403 | [295403-rollscape.json](./295403-rollscape.json) |
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
