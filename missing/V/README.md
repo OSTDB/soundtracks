@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verminator | 55202 | [55202-verminator.json](./55202-verminator.json) |
 | Vermintide Collection | 107265 | [107265-vermintide-collection.json](./107265-vermintide-collection.json) |
 | Vermis | 342745 | [342745-vermis.json](./342745-vermis.json) |
+| Vermis [RPGM] | 390808 | [390808-vermis-rpgm.json](./390808-vermis-rpgm.json) |
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
 | Veronica | 343792 | [343792-veronica.json](./343792-veronica.json) |
 | Veronikka's To-Do | 277948 | [277948-veronikkas-to-do.json](./277948-veronikkas-to-do.json) |
@@ -1082,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivecraft | 370146 | [370146-vivecraft.json](./370146-vivecraft.json) |
 | Vivian and Kyuma | 282021 | [282021-vivian-and-kyuma.json](./282021-vivian-and-kyuma.json) |
 | Vivian Clark | 63544 | [63544-vivian-clark.json](./63544-vivian-clark.json) |
+| Vivian Wade: Danger Down the Aisle | 390804 | [390804-vivian-wade-danger-down-the-aisle.json](./390804-vivian-wade-danger-down-the-aisle.json) |
 | Vivian's Kurse | 151037 | [151037-vivians-kurse.json](./151037-vivians-kurse.json) |
 | Vivid | 415091 | [415091-vivid.json](./415091-vivid.json) |
 | ViViD | 61070 | [61070-vivid.json](./61070-vivid.json) |
