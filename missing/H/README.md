@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Senpai: Cosmic Beauties - Premium Pack | 291057 | [291057-hentai-senpai-cosmic-beauties-premium-pack.json](./291057-hentai-senpai-cosmic-beauties-premium-pack.json) |
 | Hentai Senpai: Goth Feet | 340450 | [340450-hentai-senpai-goth-feet.json](./340450-hentai-senpai-goth-feet.json) |
 | Hentai Senpai: Konbini no Shirigaru Onna | 311134 | [311134-hentai-senpai-konbini-no-shirigaru-onna.json](./311134-hentai-senpai-konbini-no-shirigaru-onna.json) |
+| Hentai Senpai: Thicc Fairies of Forest Lake | 372118 | [372118-hentai-senpai-thicc-fairies-of-forest-lake.json](./372118-hentai-senpai-thicc-fairies-of-forest-lake.json) |
 | Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
 | Hentai Shibari | 371359 | [371359-hentai-shibari.json](./371359-hentai-shibari.json) |
 | Hentai Shiri | 368007 | [368007-hentai-shiri.json](./368007-hentai-shiri.json) |
