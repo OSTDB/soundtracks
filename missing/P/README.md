@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
 | Parquet | 166063 | [166063-parquet.json](./166063-parquet.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
+| Parry de Bougai! Dual Runner | 355190 | [355190-parry-de-bougai-dual-runner.json](./355190-parry-de-bougai-dual-runner.json) |
 | Parry King | 263044 | [263044-parry-king.json](./263044-parry-king.json) |
 | Parry Nightmare | 214214 | [214214-parry-nightmare.json](./214214-parry-nightmare.json) |
 | ParryMaster | 374810 | [374810-parrymaster.json](./374810-parrymaster.json) |
@@ -2012,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Point: Legacy of the Ancients | 149585 | [149585-phoenix-point-legacy-of-the-ancients.json](./149585-phoenix-point-legacy-of-the-ancients.json) |
 | Phoenix Springs | 223363 | [223363-phoenix-springs.json](./223363-phoenix-springs.json) |
 | Phoenix Strike | 129743 | [129743-phoenix-strike.json](./129743-phoenix-strike.json) |
+| Phoenix Sword: The Hidden Scroll | 355195 | [355195-phoenix-sword-the-hidden-scroll.json](./355195-phoenix-sword-the-hidden-scroll.json) |
 | Phoenix Wright: Ace Attorney | 221281 | [221281-phoenix-wright-ace-attorney.json](./221281-phoenix-wright-ace-attorney.json) |
 | Phoenix Wright: Ace Attorney | 221282 | [221282-phoenix-wright-ace-attorney.json](./221282-phoenix-wright-ace-attorney.json) |
 | Phoenix Wright: Ace Attorney | 221284 | [221284-phoenix-wright-ace-attorney.json](./221284-phoenix-wright-ace-attorney.json) |
