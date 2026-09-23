@@ -3238,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Edibles | 273416 | [273416-the-edibles.json](./273416-the-edibles.json) |
 | The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
 | The Eerie Inn VR | 106635 | [106635-the-eerie-inn-vr.json](./106635-the-eerie-inn-vr.json) |
+| The Egg | 354651 | [354651-the-egg.json](./354651-the-egg.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
@@ -7580,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Force V: Perfect System | 43913 | [43913-thunder-force-v-perfect-system.json](./43913-thunder-force-v-perfect-system.json) |
 | Thunder Force: Gold Pack 1 | 100138 | [100138-thunder-force-gold-pack-1.json](./100138-thunder-force-gold-pack-1.json) |
 | Thunder Fox | 39888 | [39888-thunder-fox.json](./39888-thunder-fox.json) |
+| Thunder Hawk | 354645 | [354645-thunder-hawk.json](./354645-thunder-hawk.json) |
 | Thunder Hoop | 40213 | [40213-thunder-hoop.json](./40213-thunder-hoop.json) |
 | Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
 | Thunder Jaws | 12863 | [12863-thunder-jaws.json](./12863-thunder-jaws.json) |
