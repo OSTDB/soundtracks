@@ -4655,6 +4655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam! | 94696 | [94696-slam.json](./94696-slam.json) |
 | Slamball | 94553 | [94553-slamball.json](./94553-slamball.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
+| Slampunks | 360759 | [360759-slampunks.json](./360759-slampunks.json) |
 | Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
 | Slap City | 87935 | [87935-slap-city.json](./87935-slap-city.json) |
@@ -4989,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
 | Slot! | 76551 | [76551-slot.json](./76551-slot.json) |
+| Slotpark | 360765 | [360765-slotpark.json](./360765-slotpark.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
 | Slots Ancient | 232572 | [232572-slots-ancient.json](./232572-slots-ancient.json) |
 | Slots of Poker at Aces Casino | 147974 | [147974-slots-of-poker-at-aces-casino.json](./147974-slots-of-poker-at-aces-casino.json) |
@@ -5681,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
 | Soak & Splash | 250948 | [250948-soak-and-splash.json](./250948-soak-and-splash.json) |
 | Soaked! | 52854 | [52854-soaked.json](./52854-soaked.json) |
+| Soap | 360732 | [360732-soap.json](./360732-soap.json) |
 | Soap Killer | 399075 | [399075-soap-killer.json](./399075-soap-killer.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
@@ -6943,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure: Escape from Siphilus 1b | 219587 | [219587-space-adventure-escape-from-siphilus-1b.json](./219587-space-adventure-escape-from-siphilus-1b.json) |
 | Space Age: Director's Cut | 293227 | [293227-space-age-directors-cut.json](./293227-space-age-directors-cut.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
+| Space Alien Hangar | 360731 | [360731-space-alien-hangar.json](./360731-space-alien-hangar.json) |
 | Space and Lazers | 324320 | [324320-space-and-lazers.json](./324320-space-and-lazers.json) |
 | Space Angel Boin Boin! | 97832 | [97832-space-angel-boin-boin.json](./97832-space-angel-boin-boin.json) |
 | Space Arcade | 237374 | [237374-space-arcade.json](./237374-space-arcade.json) |
@@ -7058,6 +7062,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fox Kimi | 107843 | [107843-space-fox-kimi.json](./107843-space-fox-kimi.json) |
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
 | Space Fox Kimi: The Battle of Mochi Prime | 171563 | [171563-space-fox-kimi-the-battle-of-mochi-prime.json](./171563-space-fox-kimi-the-battle-of-mochi-prime.json) |
+| Space Funeral 2: of Rubies and Gold II - From Shadows We Rise | 360744 | [360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json](./360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json) |
+| Space Funeral: Of Rubies and Gold | 360743 | [360743-space-funeral-of-rubies-and-gold.json](./360743-space-funeral-of-rubies-and-gold.json) |
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
 | Space Game | 312741 | [312741-space-game.json](./312741-space-game.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
@@ -9547,6 +9553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Blade x Nier: Automata | 317626 | [317626-stellar-blade-x-nier-automata.json](./317626-stellar-blade-x-nier-automata.json) |
 | Stellar Blade: Digital Deluxe Edition | 286672 | [286672-stellar-blade-digital-deluxe-edition.json](./286672-stellar-blade-digital-deluxe-edition.json) |
 | Stellar Breach | 401686 | [401686-stellar-breach.json](./401686-stellar-breach.json) |
+| Stellar Cafe | 360777 | [360777-stellar-cafe.json](./360777-stellar-cafe.json) |
 | Stellar Code | 326775 | [326775-stellar-code.json](./326775-stellar-code.json) |
 | Stellar Conquest 3: Hostile Takeover | 70092 | [70092-stellar-conquest-3-hostile-takeover.json](./70092-stellar-conquest-3-hostile-takeover.json) |
 | Stellar Dawn | 67338 | [67338-stellar-dawn.json](./67338-stellar-dawn.json) |
@@ -10203,6 +10210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Football | 21476 | [21476-street-football.json](./21476-street-football.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
 | Street Gang Football | 331343 | [331343-street-gang-football.json](./331343-street-gang-football.json) |
+| Street Gods | 360774 | [360774-street-gods.json](./360774-street-gods.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
