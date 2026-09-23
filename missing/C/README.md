@@ -3237,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Fighter vs Street Gang | 220188 | [220188-city-fighter-vs-street-gang.json](./220188-city-fighter-vs-street-gang.json) |
 | City Fighter: Vertical Limit | 237626 | [237626-city-fighter-vertical-limit.json](./237626-city-fighter-vertical-limit.json) |
 | City Full Of Alien Scum | 272025 | [272025-city-full-of-alien-scum.json](./272025-city-full-of-alien-scum.json) |
+| City Gangster Simulator | 339451 | [339451-city-gangster-simulator.json](./339451-city-gangster-simulator.json) |
 | City God Alice | 393599 | [393599-city-god-alice.json](./393599-city-god-alice.json) |
 | City Gridlock | 253988 | [253988-city-gridlock.json](./253988-city-gridlock.json) |
 | City Hunter | 370192 | [370192-city-hunter.json](./370192-city-hunter.json) |
@@ -4159,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Ball | 191131 | [191131-color-ball.json](./191131-color-ball.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
+| Color Block Jam | 339436 | [339436-color-block-jam.json](./339436-color-block-jam.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
 | Color Breakers | 151018 | [151018-color-breakers.json](./151018-color-breakers.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
