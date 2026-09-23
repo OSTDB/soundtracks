@@ -2263,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigs Can Fly | 265736 | [265736-pigs-can-fly.json](./265736-pigs-can-fly.json) |
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
 | Pigskin Punter! | 234336 | [234336-pigskin-punter.json](./234336-pigskin-punter.json) |
+| Pih | 375457 | [375457-pih.json](./375457-pih.json) |
 | Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
 | Pikachu Teeth Problem | 380551 | [380551-pikachu-teeth-problem.json](./380551-pikachu-teeth-problem.json) |
@@ -2352,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
 | Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
 | Pin Pong | 18155 | [18155-pin-pong.json](./18155-pin-pong.json) |
+| Pin Strike 2 | 375421 | [375421-pin-strike-2.json](./375421-pin-strike-2.json) |
 | Pin Strike 3 | 380656 | [380656-pin-strike-3.json](./380656-pin-strike-3.json) |
 | Pin To Win | 302351 | [302351-pin-to-win.json](./302351-pin-to-win.json) |
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
@@ -3180,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
 | Planetoids | 45353 | [45353-planetoids.json](./45353-planetoids.json) |
 | Planetone | 184990 | [184990-planetone.json](./184990-planetone.json) |
+| Planets 2048 | 375443 | [375443-planets-2048.json](./375443-planets-2048.json) |
 | Planets 3 | 137026 | [137026-planets-3.json](./137026-planets-3.json) |
 | Planetship | 36098 | [36098-planetship.json](./36098-planetship.json) |
 | PlanetSide 2 | 1265 | [1265-planetside-2.json](./1265-planetside-2.json) |
