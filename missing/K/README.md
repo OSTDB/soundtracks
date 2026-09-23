@@ -1913,6 +1913,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
 | Korean Drone Flying Tour Odong-do Dragon Cave | 358360 | [358360-korean-drone-flying-tour-odong-do-dragon-cave.json](./358360-korean-drone-flying-tour-odong-do-dragon-cave.json) |
 | Korean Drone Flying Tour Okgyecheon | 411818 | [411818-korean-drone-flying-tour-okgyecheon.json](./411818-korean-drone-flying-tour-okgyecheon.json) |
+| Korean Drone Flying Tour Pocheon-si | 351221 | [351221-korean-drone-flying-tour-pocheon-si.json](./351221-korean-drone-flying-tour-pocheon-si.json) |
+| Korean Drone Flying Tour Tomb of Prince Imyeong | 351222 | [351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json](./351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
 | Korean Rail Driving Tour: LRT Busan-Gimhae | 303617 | [303617-korean-rail-driving-tour-lrt-busan-gimhae.json](./303617-korean-rail-driving-tour-lrt-busan-gimhae.json) |
 | Korean Scary Folk Tales VR : The Forbidden Book | 103181 | [103181-korean-scary-folk-tales-vr-the-forbidden-book.json](./103181-korean-scary-folk-tales-vr-the-forbidden-book.json) |
