@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
 | Can Androids Survive | 167709 | [167709-can-androids-survive.json](./167709-can-androids-survive.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
+| Can I Not Fall for Idols? | 390818 | [390818-can-i-not-fall-for-idols.json](./390818-can-i-not-fall-for-idols.json) |
 | Can Knockdown 3 | 96722 | [96722-can-knockdown-3.json](./96722-can-knockdown-3.json) |
 | Can No One Hear Me? | 329591 | [329591-can-no-one-hear-me.json](./329591-can-no-one-hear-me.json) |
 | Can of Wormholes | 211936 | [211936-can-of-wormholes.json](./211936-can-of-wormholes.json) |
@@ -640,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
 | Capybara Park | 312189 | [312189-capybara-park.json](./312189-capybara-park.json) |
 | Capybara Quest | 310942 | [310942-capybara-quest.json](./310942-capybara-quest.json) |
+| Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
@@ -4775,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook Dungeon | 127174 | [127174-cook-dungeon.json](./127174-cook-dungeon.json) |
 | Cook Fest | 236392 | [236392-cook-fest.json](./236392-cook-fest.json) |
 | Cook for the Giant | 52827 | [52827-cook-for-the-giant.json](./52827-cook-for-the-giant.json) |
+| Cook MIX | 390819 | [390819-cook-mix.json](./390819-cook-mix.json) |
 | Cook OL | 288908 | [288908-cook-ol.json](./288908-cook-ol.json) |
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook with Card | 406724 | [406724-cook-with-card.json](./406724-cook-with-card.json) |
@@ -5703,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyHousePlanes | 99607 | [99607-crazyhouseplanes.json](./99607-crazyhouseplanes.json) |
 | CrazyKart | 117720 | [117720-crazykart.json](./117720-crazykart.json) |
 | Crazyracing Kartrider | 91272 | [91272-crazyracing-kartrider.json](./91272-crazyracing-kartrider.json) |
+| CrazyTaiji | 390797 | [390797-crazytaiji.json](./390797-crazytaiji.json) |
 | Crazzers | 89957 | [89957-crazzers.json](./89957-crazzers.json) |
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
 | Creaks | 110834 | [110834-creaks.json](./110834-creaks.json) |
