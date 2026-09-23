@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
 | Viridian Room | 247597 | [247597-viridian-room.json](./247597-viridian-room.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
+| Virivì e l'ombra della pioggia | 389125 | [389125-virivi-e-lombra-della-pioggia.json](./389125-virivi-e-lombra-della-pioggia.json) |
 | Viro Move | 131041 | [131041-viro-move.json](./131041-viro-move.json) |
 | Virocop | 69792 | [69792-virocop.json](./69792-virocop.json) |
 | ViroMove | 118443 | [118443-viromove.json](./118443-viromove.json) |
@@ -1264,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volvalis | 200702 | [200702-volvalis.json](./200702-volvalis.json) |
 | Volvox | 18551 | [18551-volvox.json](./18551-volvox.json) |
 | Volvy’s Adventure: Reslimed | 323369 | [323369-volvy-s-adventure-reslimed.json](./323369-volvy-s-adventure-reslimed.json) |
+| Vom Drachentöten | 389120 | [389120-vom-drachentoten.json](./389120-vom-drachentoten.json) |
 | Vomitoreum | 142271 | [142271-vomitoreum.json](./142271-vomitoreum.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodoo Dolls | 319806 | [319806-voodoo-dolls.json](./319806-voodoo-dolls.json) |
