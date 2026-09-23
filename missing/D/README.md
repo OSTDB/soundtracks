@@ -3766,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divan Chronicles: Battle for Dancig - Episode 3 | 172096 | [172096-divan-chronicles-battle-for-dancig-episode-3.json](./172096-divan-chronicles-battle-for-dancig-episode-3.json) |
 | Divarr | 282151 | [282151-divarr.json](./282151-divarr.json) |
 | Dive Expedition: Complete Edition | 385197 | [385197-dive-expedition-complete-edition.json](./385197-dive-expedition-complete-edition.json) |
+| Dive Into The Survival | 340555 | [340555-dive-into-the-survival.json](./340555-dive-into-the-survival.json) |
 | Dive On | 264069 | [264069-dive-on.json](./264069-dive-on.json) |
 | Dive or Die: Children of Rain | 391055 | [391055-dive-or-die-children-of-rain.json](./391055-dive-or-die-children-of-rain.json) |
 | Dive The Depths | 285021 | [285021-dive-the-depths.json](./285021-dive-the-depths.json) |
