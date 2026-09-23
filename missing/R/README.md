@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Mayhem Maker | 306091 | [306091-ragdoll-mayhem-maker.json](./306091-ragdoll-mayhem-maker.json) |
 | Ragdoll Party Online | 131590 | [131590-ragdoll-party-online.json](./131590-ragdoll-party-online.json) |
 | Ragdoll Playground | 231912 | [231912-ragdoll-playground.json](./231912-ragdoll-playground.json) |
+| Ragdoll Playground | 369746 | [369746-ragdoll-playground.json](./369746-ragdoll-playground.json) |
 | Ragdoll Playground Sandbox | 392261 | [392261-ragdoll-playground-sandbox.json](./392261-ragdoll-playground-sandbox.json) |
 | Ragdoll Rumble | 318990 | [318990-ragdoll-rumble.json](./318990-ragdoll-rumble.json) |
 | Ragdoll Toss | 179124 | [179124-ragdoll-toss.json](./179124-ragdoll-toss.json) |
@@ -1298,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoup | 373182 | [373182-recoup.json](./373182-recoup.json) |
 | Recovery Syndicate | 235868 | [235868-recovery-syndicate.json](./235868-recovery-syndicate.json) |
 | Recovery: Search & Rescue | 53493 | [53493-recovery-search-and-rescue.json](./53493-recovery-search-and-rescue.json) |
+| Recreation Room | 369732 | [369732-recreation-room.json](./369732-recreation-room.json) |
 | Recreational Dreaming | 83574 | [83574-recreational-dreaming.json](./83574-recreational-dreaming.json) |
 | Recreational Warfare | 251182 | [251182-recreational-warfare.json](./251182-recreational-warfare.json) |
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
