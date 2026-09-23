@@ -5437,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot Oddities! Find What's Wrong | 390505 | [390505-snapshot-oddities-find-whats-wrong.json](./390505-snapshot-oddities-find-whats-wrong.json) |
 | Snapshot VR | 137443 | [137443-snapshot-vr.json](./137443-snapshot-vr.json) |
 | Snapshots | 384076 | [384076-snapshots.json](./384076-snapshots.json) |
+| Snapto | 352945 | [352945-snapto.json](./352945-snapto.json) |
 | Snares of Ruin Zero | 112352 | [112352-snares-of-ruin-zero.json](./112352-snares-of-ruin-zero.json) |
 | Snarewaves' Shooting Challenge | 329162 | [329162-snarewaves-shooting-challenge.json](./329162-snarewaves-shooting-challenge.json) |
 | Snarf | 94686 | [94686-snarf.json](./94686-snarf.json) |
