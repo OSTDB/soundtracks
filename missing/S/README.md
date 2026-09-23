@@ -3117,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Graveyard Simulator 3 | 397763 | [397763-ship-graveyard-simulator-3.json](./397763-ship-graveyard-simulator-3.json) |
 | Ship Graveyard Simulator Collection | 331407 | [331407-ship-graveyard-simulator-collection.json](./331407-ship-graveyard-simulator-collection.json) |
 | Ship Graveyard Simulator: Submarines | 197405 | [197405-ship-graveyard-simulator-submarines.json](./197405-ship-graveyard-simulator-submarines.json) |
+| Ship Happens | 378432 | [378432-ship-happens.json](./378432-ship-happens.json) |
 | Ship It | 31747 | [31747-ship-it.json](./31747-ship-it.json) |
 | Ship Miner | 402999 | [402999-ship-miner.json](./402999-ship-miner.json) |
 | Ship of Dreams | 313892 | [313892-ship-of-dreams.json](./313892-ship-of-dreams.json) |
@@ -5013,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
 | Small Islands | 176339 | [176339-small-islands.json](./176339-small-islands.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
+| Small Mouse Big House | 378402 | [378402-small-mouse-big-house.json](./378402-small-mouse-big-house.json) |
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
 | Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
@@ -5824,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of Light | 54717 | [54717-soldier-of-light.json](./54717-soldier-of-light.json) |
 | Soldier vs Aliens | 54389 | [54389-soldier-vs-aliens.json](./54389-soldier-vs-aliens.json) |
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
+| Soldiers DesireWing | 378437 | [378437-soldiers-desirewing.json](./378437-soldiers-desirewing.json) |
 | Soldiers of the Universe | 43883 | [43883-soldiers-of-the-universe.json](./43883-soldiers-of-the-universe.json) |
 | Söldner-X 2: Final Prototype | 26937 | [26937-soldner-x-2-final-prototype.json](./26937-soldner-x-2-final-prototype.json) |
 | Söldner-X 2: The Last Chapter | 26938 | [26938-soldner-x-2-the-last-chapter.json](./26938-soldner-x-2-the-last-chapter.json) |
@@ -9566,6 +9569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Archer Fight | 86932 | [86932-stickman-archer-fight.json](./86932-stickman-archer-fight.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
+| Stickman Bike: Pro Ride | 378403 | [378403-stickman-bike-pro-ride.json](./378403-stickman-bike-pro-ride.json) |
 | Stickman Destruction | 75112 | [75112-stickman-destruction.json](./75112-stickman-destruction.json) |
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
@@ -11048,6 +11052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
 | Super Destronaut 3D | 84916 | [84916-super-destronaut-3d.json](./84916-super-destronaut-3d.json) |
 | Super Destronaut DX | 104862 | [104862-super-destronaut-dx.json](./104862-super-destronaut-dx.json) |
+| Super Destroyer | 378394 | [378394-super-destroyer.json](./378394-super-destroyer.json) |
 | Super Diagonal Mario 2: The Ultimate Meme Machine | 267944 | [267944-super-diagonal-mario-2-the-ultimate-meme-machine.json](./267944-super-diagonal-mario-2-the-ultimate-meme-machine.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
