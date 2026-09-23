@@ -3091,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
+| Wrecked | 391312 | [391312-wrecked.json](./391312-wrecked.json) |
 | Wrecked Crash Simulator | 114965 | [114965-wrecked-crash-simulator.json](./114965-wrecked-crash-simulator.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
 | Wrecked: Get Your Ship Together | 28805 | [28805-wrecked-get-your-ship-together.json](./28805-wrecked-get-your-ship-together.json) |
