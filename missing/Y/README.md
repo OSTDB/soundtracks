@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow or Red? | 174308 | [174308-yellow-or-red.json](./174308-yellow-or-red.json) |
 | Yellow Taxi Goes Vroom | 216805 | [216805-yellow-taxi-goes-vroom.json](./216805-yellow-taxi-goes-vroom.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
+| YellowPips | 384185 | [384185-yellowpips.json](./384185-yellowpips.json) |
 | Yemon | 107928 | [107928-yemon.json](./107928-yemon.json) |
 | Yenemy | 248728 | [248728-yenemy.json](./248728-yenemy.json) |
 | Yenght | 94258 | [94258-yenght.json](./94258-yenght.json) |
