@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
 | Dance Of Death | 266887 | [266887-dance-of-death.json](./266887-dance-of-death.json) |
 | Dance of the Butterflies | 412278 | [412278-dance-of-the-butterflies.json](./412278-dance-of-the-butterflies.json) |
+| Dance of the Stereomancer | 364692 | [364692-dance-of-the-stereomancer.json](./364692-dance-of-the-stereomancer.json) |
 | Dance of the Vampires | 168323 | [168323-dance-of-the-vampires.json](./168323-dance-of-the-vampires.json) |
 | Dance On | 54685 | [54685-dance-on.json](./54685-dance-on.json) |
 | Dance Praise 2: The ReMix | 209002 | [209002-dance-praise-2-the-remix.json](./209002-dance-praise-2-the-remix.json) |
@@ -3648,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
 | DistanceGuessr | 386116 | [386116-distanceguessr.json](./386116-distanceguessr.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
+| Distant Colony | 364697 | [364697-distant-colony.json](./364697-distant-colony.json) |
 | Distant Desert | 388234 | [388234-distant-desert.json](./388234-distant-desert.json) |
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
@@ -4239,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Die Roguelike | 395892 | [395892-dont-die-roguelike.json](./395892-dont-die-roguelike.json) |
 | Don't Die, Mr. Robot! | 52178 | [52178-dont-die-mr-robot.json](./52178-dont-die-mr-robot.json) |
 | Don't Die! | 343340 | [343340-dont-die.json](./343340-dont-die.json) |
+| Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Drown | 342084 | [342084-dont-drown.json](./342084-dont-drown.json) |
