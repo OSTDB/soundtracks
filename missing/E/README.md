@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endersite | 98765 | [98765-endersite.json](./98765-endersite.json) |
 | EndGame | 303514 | [303514-endgame.json](./303514-endgame.json) |
 | Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
+| Endhop | 383631 | [383631-endhop.json](./383631-endhop.json) |
 | Endica VII: The Dream King | 35924 | [35924-endica-vii-the-dream-king.json](./35924-endica-vii-the-dream-king.json) |
 | Ending It Today | 355536 | [355536-ending-it-today.json](./355536-ending-it-today.json) |
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
