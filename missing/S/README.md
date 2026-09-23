@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Emiliana | 132743 | [132743-saint-emiliana.json](./132743-saint-emiliana.json) |
 | Saint George's Tavern | 388731 | [388731-saint-georges-tavern.json](./388731-saint-georges-tavern.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
+| Saint of Chains | 374295 | [374295-saint-of-chains.json](./374295-saint-of-chains.json) |
 | Saint Seiya Awakening: Knights of the Zodiac | 129144 | [129144-saint-seiya-awakening-knights-of-the-zodiac.json](./129144-saint-seiya-awakening-knights-of-the-zodiac.json) |
 | Saint Seiya EX | 377810 | [377810-saint-seiya-ex.json](./377810-saint-seiya-ex.json) |
 | Saint Seiya Shining Soldiers | 129130 | [129130-saint-seiya-shining-soldiers.json](./129130-saint-seiya-shining-soldiers.json) |
@@ -1966,6 +1967,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Burst Re:Newal - Miyabi Character and Campaign | 248315 | [248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json](./248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json) |
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Senran Kagura Reflexions | 28129 | [28129-senran-kagura-reflexions.json](./28129-senran-kagura-reflexions.json) |
+| Senran Kagura Reflexions: Murasaki Reflexions Course & 7-Outfit Set | 374271 | [374271-senran-kagura-reflexions-murasaki-reflexions-course-and-7-outfit-set.json](./374271-senran-kagura-reflexions-murasaki-reflexions-course-and-7-outfit-set.json) |
+| Senran Kagura Reflexions: Ryouna Reflexions Course & 7-Outfit Set | 374269 | [374269-senran-kagura-reflexions-ryouna-reflexions-course-and-7-outfit-set.json](./374269-senran-kagura-reflexions-ryouna-reflexions-course-and-7-outfit-set.json) |
+| Senran Kagura Reflexions: Yomi Reflexions Course & 12-Outfit Set | 374268 | [374268-senran-kagura-reflexions-yomi-reflexions-course-and-12-outfit-set.json](./374268-senran-kagura-reflexions-yomi-reflexions-course-and-12-outfit-set.json) |
+| Senran Kagura Reflexions: Yumi Reflexions Course & 9-Outfit Set | 374267 | [374267-senran-kagura-reflexions-yumi-reflexions-course-and-9-outfit-set.json](./374267-senran-kagura-reflexions-yumi-reflexions-course-and-9-outfit-set.json) |
 | Senran Kagura: Estival Versus | 11006 | [11006-senran-kagura-estival-versus.json](./11006-senran-kagura-estival-versus.json) |
 | Senran Kagura: Estival Versus - Endless Summer Edition | 42677 | [42677-senran-kagura-estival-versus-endless-summer-edition.json](./42677-senran-kagura-estival-versus-endless-summer-edition.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
@@ -6198,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Debut | 337169 | [337169-sonic-debut.json](./337169-sonic-debut.json) |
 | Sonic Definitive | 370216 | [370216-sonic-definitive.json](./370216-sonic-definitive.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
+| Sonic Doom 2: 'Bots on Mobius | 374276 | [374276-sonic-doom-2-bots-on-mobius.json](./374276-sonic-doom-2-bots-on-mobius.json) |
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
 | Sonic Drift 16-Bit | 279759 | [279759-sonic-drift-16-bit.json](./279759-sonic-drift-16-bit.json) |
