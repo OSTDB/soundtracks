@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazed | 14251 | [14251-amazed.json](./14251-amazed.json) |
 | Amazed | 171573 | [171573-amazed.json](./171573-amazed.json) |
 | Amazeing Lemons | 75901 | [75901-amazeing-lemons.json](./75901-amazeing-lemons.json) |
+| Amazeing Racer | 372647 | [372647-amazeing-racer.json](./372647-amazeing-racer.json) |
 | Amazething | 154020 | [154020-amazething.json](./154020-amazething.json) |
 | Amazin' George 2: Digital Deluxe | 212279 | [212279-amazin-george-2-digital-deluxe.json](./212279-amazin-george-2-digital-deluxe.json) |
 | Amazin' Lumo | 207895 | [207895-amazin-lumo.json](./207895-amazin-lumo.json) |
