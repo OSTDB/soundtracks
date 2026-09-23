@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Base | 271461 | [271461-off-base.json](./271461-off-base.json) |
 | Off Day | 178501 | [178501-off-day.json](./178501-off-day.json) |
 | Off Road | 327579 | [327579-off-road.json](./327579-off-road.json) |
+| Off Road Stars | 372693 | [372693-off-road-stars.json](./372693-off-road-stars.json) |
 | Off Road Together | 411660 | [411660-off-road-together.json](./411660-off-road-together.json) |
 | Off Shore | 223164 | [223164-off-shore.json](./223164-off-shore.json) |
 | Off Target | 379893 | [379893-off-target.json](./379893-off-target.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Record: The Linden Shades | 98410 | [98410-off-the-record-the-linden-shades.json](./98410-off-the-record-the-linden-shades.json) |
 | Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
 | Off the Table | 174327 | [174327-off-the-table.json](./174327-off-the-table.json) |
+| Off the Text | 372680 | [372680-off-the-text.json](./372680-off-the-text.json) |
 | Off the Wall | 12894 | [12894-off-the-wall.json](./12894-off-the-wall.json) |
 | Off the Wall | 333931 | [333931-off-the-wall.json](./333931-off-the-wall.json) |
 | Off to Sleep | 222930 | [222930-off-to-sleep.json](./222930-off-to-sleep.json) |
