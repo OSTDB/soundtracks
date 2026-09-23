@@ -2649,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
 | Rift Frigate | 132007 | [132007-rift-frigate.json](./132007-rift-frigate.json) |
 | Rift Investigations | 402992 | [402992-rift-investigations.json](./402992-rift-investigations.json) |
+| Rift Miner | 375446 | [375446-rift-miner.json](./375446-rift-miner.json) |
 | Rift Mobile | 38902 | [38902-rift-mobile.json](./38902-rift-mobile.json) |
 | Rift of the NecroDancer | 214492 | [214492-rift-of-the-necrodancer.json](./214492-rift-of-the-necrodancer.json) |
 | Rift of the NecroDancer: Celeste - "Confronting Myself" | 352268 | [352268-rift-of-the-necrodancer-celeste-confronting-myself.json](./352268-rift-of-the-necrodancer-celeste-confronting-myself.json) |
