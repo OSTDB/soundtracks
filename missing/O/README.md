@@ -786,6 +786,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once upon a Dungeon II | 226727 | [226727-once-upon-a-dungeon-ii.json](./226727-once-upon-a-dungeon-ii.json) |
 | Once Upon a Jester | 159553 | [159553-once-upon-a-jester.json](./159553-once-upon-a-jester.json) |
 | Once Upon a Katamari | 358526 | [358526-once-upon-a-katamari.json](./358526-once-upon-a-katamari.json) |
+| Once Upon a Katamari: Katamari Damacy Series Dance Dance Remixes | 377265 | [377265-once-upon-a-katamari-katamari-damacy-series-dance-dance-remixes.json](./377265-once-upon-a-katamari-katamari-damacy-series-dance-dance-remixes.json) |
+| Once Upon a Katamari: Katamari Damacy Series Neo Remixes | 377266 | [377266-once-upon-a-katamari-katamari-damacy-series-neo-remixes.json](./377266-once-upon-a-katamari-katamari-damacy-series-neo-remixes.json) |
 | Once Upon A Katamari: Rolling Live Highlights | 410246 | [410246-once-upon-a-katamari-rolling-live-highlights.json](./410246-once-upon-a-katamari-rolling-live-highlights.json) |
 | Once Upon a Kingdom | 358401 | [358401-once-upon-a-kingdom.json](./358401-once-upon-a-kingdom.json) |
 | Once Upon A Life | 115656 | [115656-once-upon-a-life.json](./115656-once-upon-a-life.json) |
