@@ -4652,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool Games Kids Learning | 107650 | [107650-preschool-games-kids-learning.json](./107650-preschool-games-kids-learning.json) |
 | Preschool Numbers - Play & Learn | 89700 | [89700-preschool-numbers-play-and-learn.json](./89700-preschool-numbers-play-and-learn.json) |
 | Prescience | 217373 | [217373-prescience.json](./217373-prescience.json) |
+| Prescription: Madness | 389100 | [389100-prescription-madness.json](./389100-prescription-madness.json) |
 | Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Presence | 170989 | [170989-presence.json](./170989-presence.json) |
 | Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
