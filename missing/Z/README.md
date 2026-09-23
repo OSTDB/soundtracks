@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
 | Zombie Accountant | 66159 | [66159-zombie-accountant.json](./66159-zombie-accountant.json) |
 | Zombie Age | 220739 | [220739-zombie-age.json](./220739-zombie-age.json) |
+| Zombie Age 2 | 347872 | [347872-zombie-age-2.json](./347872-zombie-age-2.json) |
 | Zombie Age 3: Dead City | 312905 | [312905-zombie-age-3-dead-city.json](./312905-zombie-age-3-dead-city.json) |
 | Zombie Anarchy | 57088 | [57088-zombie-anarchy.json](./57088-zombie-anarchy.json) |
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
