@@ -6197,9 +6197,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Night | 310560 | [310560-movie-night.json](./310560-movie-night.json) |
 | Movie Quest | 206339 | [206339-movie-quest.json](./206339-movie-quest.json) |
 | Movie Studio Boss: The Sequel | 36185 | [36185-movie-studio-boss-the-sequel.json](./36185-movie-studio-boss-the-sequel.json) |
+| Movie Theater Simulator | 377798 | [377798-movie-theater-simulator.json](./377798-movie-theater-simulator.json) |
 | Movie Tycoon Simulator 2020 | 150536 | [150536-movie-tycoon-simulator-2020.json](./150536-movie-tycoon-simulator-2020.json) |
 | Moviedle | 401684 | [401684-moviedle.json](./401684-moviedle.json) |
 | Movierooms: Cinema Management | 260156 | [260156-movierooms-cinema-management.json](./260156-movierooms-cinema-management.json) |
+| Movies Tycoon: Thrills & Spectacles | 377853 | [377853-movies-tycoon-thrills-and-spectacles.json](./377853-movies-tycoon-thrills-and-spectacles.json) |
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
 | Moving Corpse | 258030 | [258030-moving-corpse.json](./258030-moving-corpse.json) |
 | Moving Day | 75793 | [75793-moving-day.json](./75793-moving-day.json) |
@@ -6485,6 +6487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MultiVersus: Season 5 | 330143 | [330143-multiversus-season-5.json](./330143-multiversus-season-5.json) |
 | Multiwinia: Survival of the Flattest | 21273 | [21273-multiwinia-survival-of-the-flattest.json](./21273-multiwinia-survival-of-the-flattest.json) |
 | MultiWords | 265750 | [265750-multiwords.json](./265750-multiwords.json) |
+| Multiworlds | 377850 | [377850-multiworlds.json](./377850-multiworlds.json) |
 | Mumba IV: Egypt Jewels | 156636 | [156636-mumba-iv-egypt-jewels.json](./156636-mumba-iv-egypt-jewels.json) |
 | Mumbo Shuffle | 398547 | [398547-mumbo-shuffle.json](./398547-mumbo-shuffle.json) |
 | Mummy Madness | 185702 | [185702-mummy-madness.json](./185702-mummy-madness.json) |
