@@ -115,6 +115,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Gnomes 7: the Solitude | 383495 | [383495-10-gnomes-7-the-solitude.json](./383495-10-gnomes-7-the-solitude.json) |
 | 10 Gnomes 8: Water Forge | 383501 | [383501-10-gnomes-8-water-forge.json](./383501-10-gnomes-8-water-forge.json) |
 | 10 Gnomes 9: Chemistry | 383511 | [383511-10-gnomes-9-chemistry.json](./383511-10-gnomes-9-chemistry.json) |
+| 10 Gnomes in Malmo | 383647 | [383647-10-gnomes-in-malmo.json](./383647-10-gnomes-in-malmo.json) |
+| 10 Gnomes in Montaigut | 383612 | [383612-10-gnomes-in-montaigut.json](./383612-10-gnomes-in-montaigut.json) |
+| 10 Gnomes in New York | 383649 | [383649-10-gnomes-in-new-york.json](./383649-10-gnomes-in-new-york.json) |
+| 10 Gnomes in Oristano | 383645 | [383645-10-gnomes-in-oristano.json](./383645-10-gnomes-in-oristano.json) |
+| 10 Gnomes in Paris | 383644 | [383644-10-gnomes-in-paris.json](./383644-10-gnomes-in-paris.json) |
+| 10 Gnomes in Pothia | 383613 | [383613-10-gnomes-in-pothia.json](./383613-10-gnomes-in-pothia.json) |
+| 10 Gnomes in Trstenik | 383643 | [383643-10-gnomes-in-trstenik.json](./383643-10-gnomes-in-trstenik.json) |
+| 10 Gnomes in Venice | 383610 | [383610-10-gnomes-in-venice.json](./383610-10-gnomes-in-venice.json) |
 | 10 Minute Barbarian | 34776 | [34776-10-minute-barbarian.json](./34776-10-minute-barbarian.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
