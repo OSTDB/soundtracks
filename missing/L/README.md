@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Labubu Games | 363968 | [363968-labubu-games.json](./363968-labubu-games.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
+| Labyren | 389086 | [389086-labyren.json](./389086-labyren.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
 | Labyrinth | 249273 | [249273-labyrinth.json](./249273-labyrinth.json) |
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
 | Last Star | 316097 | [316097-last-star.json](./316097-last-star.json) |
 | Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
+| Last Stretch | 389095 | [389095-last-stretch.json](./389095-last-stretch.json) |
 | Last Striker | 40270 | [40270-last-striker.json](./40270-last-striker.json) |
 | Last Summer at Camp Apocalypse Blood: 101 Ways to Not Capture Bigfoot | 349939 | [349939-last-summer-at-camp-apocalypse-blood-101-ways-to-not-capture-bigfoot.json](./349939-last-summer-at-camp-apocalypse-blood-101-ways-to-not-capture-bigfoot.json) |
 | Last Survivor | 74411 | [74411-last-survivor.json](./74411-last-survivor.json) |
@@ -543,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Wood | 104562 | [104562-last-wood.json](./104562-last-wood.json) |
 | Last Word | 26639 | [26639-last-word.json](./26639-last-word.json) |
 | Last Word | 342169 | [342169-last-word.json](./342169-last-word.json) |
+| Last Words. | 389127 | [389127-last-words.json](./389127-last-words.json) |
 | Last Year | 19819 | [19819-last-year.json](./19819-last-year.json) |
 | Last Z: Survival Shooter | 375192 | [375192-last-z-survival-shooter.json](./375192-last-z-survival-shooter.json) |
 | Last-Hit Defense | 224027 | [224027-last-hit-defense.json](./224027-last-hit-defense.json) |
@@ -1433,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Up 80 | 311640 | [311640-level-up-80.json](./311640-level-up-80.json) |
 | Level Up Boxing VR | 270115 | [270115-level-up-boxing-vr.json](./270115-level-up-boxing-vr.json) |
 | Level up Everything! | 333068 | [333068-level-up-everything.json](./333068-level-up-everything.json) |
+| Level Up Simulator | 389117 | [389117-level-up-simulator.json](./389117-level-up-simulator.json) |
 | Level Up Your Body | 270129 | [270129-level-up-your-body.json](./270129-level-up-your-body.json) |
 | Level Up! | 95373 | [95373-level-up.json](./95373-level-up.json) |
 | Level Up! Factory | 298153 | [298153-level-up-factory.json](./298153-level-up-factory.json) |
