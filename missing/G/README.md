@@ -118,6 +118,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaiares | 93373 | [93373-gaiares.json](./93373-gaiares.json) |
 | Gaias Lord | 92292 | [92292-gaias-lord.json](./92292-gaias-lord.json) |
 | Gaijin Troubles | 126630 | [126630-gaijin-troubles.json](./126630-gaijin-troubles.json) |
+| Gailardia 2: The One That Survived | 376696 | [376696-gailardia-2-the-one-that-survived.json](./376696-gailardia-2-the-one-that-survived.json) |
+| Gailardia 3: Eternal Peace | 376698 | [376698-gailardia-3-eternal-peace.json](./376698-gailardia-3-eternal-peace.json) |
+| Gailardia: Legend of the Demon King | 376694 | [376694-gailardia-legend-of-the-demon-king.json](./376694-gailardia-legend-of-the-demon-king.json) |
 | Gain | 33109 | [33109-gain.json](./33109-gain.json) |
 | Gain Foxes | 245888 | [245888-gain-foxes.json](./245888-gain-foxes.json) |
 | Gain Ground | 3129 | [3129-gain-ground.json](./3129-gain-ground.json) |
@@ -2319,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf-e | 170015 | [170015-golf-e.json](./170015-golf-e.json) |
 | Golf-Like | 385215 | [385215-golf-like.json](./385215-golf-like.json) |
 | Golf: Hole in One | 253579 | [253579-golf-hole-in-one.json](./253579-golf-hole-in-one.json) |
+| Golf: Minigolf | 376710 | [376710-golf-minigolf.json](./376710-golf-minigolf.json) |
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
 | Golf's Best: St. Andrews - The Home of Golf | 71773 | [71773-golfs-best-st-andrews-the-home-of-golf.json](./71773-golfs-best-st-andrews-the-home-of-golf.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
@@ -3339,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Undertale + Deltarune Pack | 283179 | [283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json](./283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 9 | 283180 | [283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json](./283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json) |
 | Groove Gunner | 112778 | [112778-groove-gunner.json](./112778-groove-gunner.json) |
+| Groove In The Grove | 376712 | [376712-groove-in-the-grove.json](./376712-groove-in-the-grove.json) |
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
 | Groove that Goob | 285972 | [285972-groove-that-goob.json](./285972-groove-that-goob.json) |
 | Groovekeeper: Sort the Record Shop | 415165 | [415165-groovekeeper-sort-the-record-shop.json](./415165-groovekeeper-sort-the-record-shop.json) |
