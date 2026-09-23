@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
 | Patient Rogue | 177482 | [177482-patient-rogue.json](./177482-patient-rogue.json) |
 | Patient Zero | 388918 | [388918-patient-zero.json](./388918-patient-zero.json) |
+| Patient Zero: Plague Idle | 388417 | [388417-patient-zero-plague-idle.json](./388417-patient-zero-plague-idle.json) |
 | PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
 | Patlabor the Case Files | 395699 | [395699-patlabor-the-case-files.json](./395699-patlabor-the-case-files.json) |
 | Patlabor: Come Back Mini-Pato | 75899 | [75899-patlabor-come-back-mini-pato.json](./75899-patlabor-come-back-mini-pato.json) |
@@ -1295,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
 | PC-Man | 25148 | [25148-pc-man.json](./25148-pc-man.json) |
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
+| PDP 10 Timesharing Basketball | 388374 | [388374-pdp-10-timesharing-basketball.json](./388374-pdp-10-timesharing-basketball.json) |
 | Pea Pod Power | 264668 | [264668-pea-pod-power.json](./264668-pea-pod-power.json) |
 | Peace Breaker | 270144 | [270144-peace-breaker.json](./270144-peace-breaker.json) |
 | Peace Maker VR | 200717 | [200717-peace-maker-vr.json](./200717-peace-maker-vr.json) |
