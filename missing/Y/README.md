@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YamYam | 37760 | [37760-yamyam.json](./37760-yamyam.json) |
 | Yanchat | 333080 | [333080-yanchat.json](./333080-yanchat.json) |
 | Yandere Escape | 129125 | [129125-yandere-escape.json](./129125-yandere-escape.json) |
+| Yandere Goth Boss: Valentine's Day | 338362 | [338362-yandere-goth-boss-valentines-day.json](./338362-yandere-goth-boss-valentines-day.json) |
 | Yandere Lover | 82076 | [82076-yandere-lover.json](./82076-yandere-lover.json) |
 | Yandere no Sutoka | 285048 | [285048-yandere-no-sutoka.json](./285048-yandere-no-sutoka.json) |
 | Yandere Onii-san ni Sokubaku Kankin Sarechau Game! | 285990 | [285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json](./285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json) |
