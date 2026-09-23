@@ -6609,6 +6609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysto-wanderer | 319016 | [319016-dysto-wanderer.json](./319016-dysto-wanderer.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
+| Dystopia RPG | 376132 | [376132-dystopia-rpg.json](./376132-dystopia-rpg.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | Dziedzic: A Book of Unanswered Questions | 299735 | [299735-dziedzic-a-book-of-unanswered-questions.json](./299735-dziedzic-a-book-of-unanswered-questions.json) |
