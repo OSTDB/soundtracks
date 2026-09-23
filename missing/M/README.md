@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
 | Math Man | 225625 | [225625-math-man.json](./225625-math-man.json) |
+| Math Maze | 387697 | [387697-math-maze.json](./387697-math-maze.json) |
 | Math Missions: The Amazing Arcade Adventure Grades 3-5 | 209545 | [209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json](./209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json) |
 | Math Missions: The Race to Spectacle City Arcade K-2 | 209544 | [209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json](./209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json) |
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
@@ -2012,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maths Challenge | 104482 | [104482-maths-challenge.json](./104482-maths-challenge.json) |
 | Maths Circus Act 6 | 76592 | [76592-maths-circus-act-6.json](./76592-maths-circus-act-6.json) |
 | Maths Planets | 105932 | [105932-maths-planets.json](./105932-maths-planets.json) |
+| Mathville | 387698 | [387698-mathville.json](./387698-mathville.json) |
 | Mato Anomalies | 212050 | [212050-mato-anomalies.json](./212050-mato-anomalies.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
 | Matolek the Goat the Inventor | 334659 | [334659-matolek-the-goat-the-inventor.json](./334659-matolek-the-goat-the-inventor.json) |
@@ -3964,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi in The Sky | 267374 | [267374-mimi-in-the-sky.json](./267374-mimi-in-the-sky.json) |
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
+| Mimi's Restaurant helper | 387678 | [387678-mimis-restaurant-helper.json](./387678-mimis-restaurant-helper.json) |
 | Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
 | Mimic | 80902 | [80902-mimic.json](./80902-mimic.json) |
 | Mimic Busters | 418674 | [418674-mimic-busters.json](./418674-mimic-busters.json) |
@@ -5024,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moloch's Priest | 144244 | [144244-molochs-priest.json](./144244-molochs-priest.json) |
 | Molten Winds: Open Editon | 288375 | [288375-molten-winds-open-editon.json](./288375-molten-winds-open-editon.json) |
 | Mom | 159247 | [159247-mom.json](./159247-mom.json) |
+| Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
 | Momento | 279123 | [279123-momento.json](./279123-momento.json) |
@@ -5977,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Comprehensive Edition | 399823 | [399823-moto-rush-gt-comprehensive-edition.json](./399823-moto-rush-gt-comprehensive-edition.json) |
 | Moto Rush GT: Core Edition | 396922 | [396922-moto-rush-gt-core-edition.json](./396922-moto-rush-gt-core-edition.json) |
 | Moto Rush GT: Definitive Edition | 283139 | [283139-moto-rush-gt-definitive-edition.json](./283139-moto-rush-gt-definitive-edition.json) |
+| Moto Rush GT: Essentials Edition | 387679 | [387679-moto-rush-gt-essentials-edition.json](./387679-moto-rush-gt-essentials-edition.json) |
 | Moto Rush GT: Extended Edition | 261346 | [261346-moto-rush-gt-extended-edition.json](./261346-moto-rush-gt-extended-edition.json) |
 | Moto Rush GT: Gold Edition | 259546 | [259546-moto-rush-gt-gold-edition.json](./259546-moto-rush-gt-gold-edition.json) |
 | Moto Rush GT: Grand Edition | 315869 | [315869-moto-rush-gt-grand-edition.json](./315869-moto-rush-gt-grand-edition.json) |
