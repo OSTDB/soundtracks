@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Game: 24 Points | 369736 | [369736-number-game-24-points.json](./369736-number-game-24-points.json) |
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
 | Number Islands | 139923 | [139923-number-islands.json](./139923-number-islands.json) |
+| Number Machine | 350604 | [350604-number-machine.json](./350604-number-machine.json) |
 | Number Master | 223995 | [223995-number-master.json](./223995-number-master.json) |
 | Number Merge Mania | 358289 | [358289-number-merge-mania.json](./358289-number-merge-mania.json) |
 | Number Munchers | 128661 | [128661-number-munchers.json](./128661-number-munchers.json) |
