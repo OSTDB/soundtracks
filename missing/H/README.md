@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Club-i | 143657 | [143657-hamster-club-i.json](./143657-hamster-club-i.json) |
 | Hamster Club: Awasete Chu | 281541 | [281541-hamster-club-awasete-chu.json](./281541-hamster-club-awasete-chu.json) |
 | Hamster Club: Oshiema Chu | 281542 | [281542-hamster-club-oshiema-chu.json](./281542-hamster-club-oshiema-chu.json) |
+| Hamster Combat: Road to Whale | 337831 | [337831-hamster-combat-road-to-whale.json](./337831-hamster-combat-road-to-whale.json) |
 | Hamster Drop | 63545 | [63545-hamster-drop.json](./63545-hamster-drop.json) |
 | Hamster Fighter | 246459 | [246459-hamster-fighter.json](./246459-hamster-fighter.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
