@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
 | Vecxis | 59058 | [59058-vecxis.json](./59058-vecxis.json) |
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
+| Ved: Journey Beyond the Cube | 346240 | [346240-ved-journey-beyond-the-cube.json](./346240-ved-journey-beyond-the-cube.json) |
 | VED: Purification | 367955 | [367955-ved-purification.json](./367955-ved-purification.json) |
 | Vedal's Secret | 386121 | [386121-vedals-secret.json](./386121-vedals-secret.json) |
 | Vedmaak | 311128 | [311128-vedmaak.json](./311128-vedmaak.json) |
@@ -703,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
 | Victor Banana | 171478 | [171478-victor-banana.json](./171478-victor-banana.json) |
 | Victor Vran | 9180 | [9180-victor-vran.json](./9180-victor-vran.json) |
+| Victor's Test Night: Reves | 346224 | [346224-victors-test-night-reves.json](./346224-victors-test-night-reves.json) |
 | Victor's Video Vault | 399194 | [399194-victors-video-vault.json](./399194-victors-video-vault.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
 | Victoria 3: Trains Bonus Pack | 289852 | [289852-victoria-3-trains-bonus-pack.json](./289852-victoria-3-trains-bonus-pack.json) |
@@ -1333,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
 | Vostok 2061 | 216849 | [216849-vostok-2061.json](./216849-vostok-2061.json) |
+| Vow | 347342 | [347342-vow.json](./347342-vow.json) |
 | Vow of Heroes | 106981 | [106981-vow-of-heroes.json](./106981-vow-of-heroes.json) |
 | Vows of Eternity | 298872 | [298872-vows-of-eternity.json](./298872-vows-of-eternity.json) |
 | Vox | 16686 | [16686-vox.json](./16686-vox.json) |
