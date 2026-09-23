@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XWing Fighter | 25158 | [25158-xwing-fighter.json](./25158-xwing-fighter.json) |
 | Xwung | 77017 | [77017-xwung.json](./77017-xwung.json) |
 | XX Game: The Evolution Merge Puzzle | 411133 | [411133-xx-game-the-evolution-merge-puzzle.json](./411133-xx-game-the-evolution-merge-puzzle.json) |
+| Xxx Talent | 385865 | [385865-xxx-talent.json](./385865-xxx-talent.json) |
 | Xxx_Cyberrat_Xxx | 216818 | [216818-xxx-cyberrat-xxx.json](./216818-xxx-cyberrat-xxx.json) |
 | XxxHolic: Watanuki no Izayoi Sowa | 194567 | [194567-xxxholic-watanuki-no-izayoi-sowa.json](./194567-xxxholic-watanuki-no-izayoi-sowa.json) |
 | XXZ: XXL | 149917 | [149917-xxz-xxl.json](./149917-xxz-xxl.json) |
