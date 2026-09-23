@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satori's Atelier 1+2 | 210664 | [210664-satoris-atelier-1-2.json](./210664-satoris-atelier-1-2.json) |
 | Satsui no Kaisou: Power Soft Satsujin Jiken | 48859 | [48859-satsui-no-kaisou-power-soft-satsujin-jiken.json](./48859-satsui-no-kaisou-power-soft-satsujin-jiken.json) |
 | Saturated Outer Space | 116836 | [116836-saturated-outer-space.json](./116836-saturated-outer-space.json) |
+| Saturday AM: Battle Manga | 382452 | [382452-saturday-am-battle-manga.json](./382452-saturday-am-battle-manga.json) |
 | Saturday Night is the Loneliest Night of the Week | 230855 | [230855-saturday-night-is-the-loneliest-night-of-the-week.json](./230855-saturday-night-is-the-loneliest-night-of-the-week.json) |
 | Saturday Night is the Loneliest Night of the Week II | 230856 | [230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json](./230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json) |
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
@@ -6729,6 +6730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Voltex II: Infinite Infection | 39859 | [39859-sound-voltex-ii-infinite-infection.json](./39859-sound-voltex-ii-infinite-infection.json) |
 | Sound Voltex III: Gravity Wars | 39883 | [39883-sound-voltex-iii-gravity-wars.json](./39883-sound-voltex-iii-gravity-wars.json) |
 | Sound Voltex IV: Heavenly Haven | 79244 | [79244-sound-voltex-iv-heavenly-haven.json](./79244-sound-voltex-iv-heavenly-haven.json) |
+| Sound Voltex Nabla | 382474 | [382474-sound-voltex-nabla.json](./382474-sound-voltex-nabla.json) |
 | Sound Voltex: Ultimate Mobile | 197332 | [197332-sound-voltex-ultimate-mobile.json](./197332-sound-voltex-ultimate-mobile.json) |
 | Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
 | Soundart | 127076 | [127076-soundart.json](./127076-soundart.json) |
@@ -9911,6 +9913,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrayDoll Conflict | 156005 | [156005-straydoll-conflict.json](./156005-straydoll-conflict.json) |
 | Strayed | 248912 | [248912-strayed.json](./248912-strayed.json) |
 | Strayed Lights: Deluxe Edition | 244793 | [244793-strayed-lights-deluxe-edition.json](./244793-strayed-lights-deluxe-edition.json) |
+| Strayed: America Skin Pack | 382426 | [382426-strayed-america-skin-pack.json](./382426-strayed-america-skin-pack.json) |
+| Strayed: Christmas Skin Pack | 382427 | [382427-strayed-christmas-skin-pack.json](./382427-strayed-christmas-skin-pack.json) |
+| Strayed: Dinkleberg Rock Skin | 382420 | [382420-strayed-dinkleberg-rock-skin.json](./382420-strayed-dinkleberg-rock-skin.json) |
+| Strayed: Gingerbread Crossbow Skin | 382423 | [382423-strayed-gingerbread-crossbow-skin.json](./382423-strayed-gingerbread-crossbow-skin.json) |
+| Strayed: Gold Damascene Skin Pack | 382424 | [382424-strayed-gold-damascene-skin-pack.json](./382424-strayed-gold-damascene-skin-pack.json) |
+| Strayed: Halloween Skin Pack | 382432 | [382432-strayed-halloween-skin-pack.json](./382432-strayed-halloween-skin-pack.json) |
+| Strayed: Hazard Tools Skin Pack | 382431 | [382431-strayed-hazard-tools-skin-pack.json](./382431-strayed-hazard-tools-skin-pack.json) |
+| Strayed: Ice Cold Skin Pack | 382425 | [382425-strayed-ice-cold-skin-pack.json](./382425-strayed-ice-cold-skin-pack.json) |
+| Strayed: Pump Shotgun Camo Skin Pack | 382421 | [382421-strayed-pump-shotgun-camo-skin-pack.json](./382421-strayed-pump-shotgun-camo-skin-pack.json) |
+| Strayed: Pumpkin Helmet | 382429 | [382429-strayed-pumpkin-helmet.json](./382429-strayed-pumpkin-helmet.json) |
+| Strayed: Pumpkin Rock & Skull Torch Pack | 382433 | [382433-strayed-pumpkin-rock-and-skull-torch-pack.json](./382433-strayed-pumpkin-rock-and-skull-torch-pack.json) |
+| Strayed: Snowman Helmet Skin | 382428 | [382428-strayed-snowman-helmet-skin.json](./382428-strayed-snowman-helmet-skin.json) |
+| Strayed: Sundown Pack | 382430 | [382430-strayed-sundown-pack.json](./382430-strayed-sundown-pack.json) |
+| Strayed: Sweet Tooth Revolver Skin | 382422 | [382422-strayed-sweet-tooth-revolver-skin.json](./382422-strayed-sweet-tooth-revolver-skin.json) |
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
 | Stream Bakery | 409789 | [409789-stream-bakery.json](./409789-stream-bakery.json) |
