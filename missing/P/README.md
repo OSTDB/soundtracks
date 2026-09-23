@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrolling Mars | 276289 | [276289-patrolling-mars.json](./276289-patrolling-mars.json) |
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
+| Pattern Survivors: Bullet Hell | 348970 | [348970-pattern-survivors-bullet-hell.json](./348970-pattern-survivors-bullet-hell.json) |
 | Pattern Thinking Puzzle Build It Before 10 | 362365 | [362365-pattern-thinking-puzzle-build-it-before-10.json](./362365-pattern-thinking-puzzle-build-it-before-10.json) |
 | Patterns | 131534 | [131534-patterns.json](./131534-patterns.json) |
 | Patterns | 8441 | [8441-patterns.json](./8441-patterns.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw & Hop Jigsaw Quest: Expansion Pack 2 | 357943 | [357943-paw-and-hop-jigsaw-quest-expansion-pack-2.json](./357943-paw-and-hop-jigsaw-quest-expansion-pack-2.json) |
 | Paw & Hop Jigsaw Quest: Expansion Pack 3 | 357944 | [357944-paw-and-hop-jigsaw-quest-expansion-pack-3.json](./357944-paw-and-hop-jigsaw-quest-expansion-pack-3.json) |
 | Paw Alliance | 401515 | [401515-paw-alliance.json](./401515-paw-alliance.json) |
+| Paw Party | 348987 | [348987-paw-party.json](./348987-paw-party.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
 | Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
 | Paw Patrol the Movie: Adventure City Calls | 152302 | [152302-paw-patrol-the-movie-adventure-city-calls.json](./152302-paw-patrol-the-movie-adventure-city-calls.json) |
@@ -2842,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
 | Pixel Dungeon | 9795 | [9795-pixel-dungeon.json](./9795-pixel-dungeon.json) |
 | Pixel Dungeon RPG | 326616 | [326616-pixel-dungeon-rpg.json](./326616-pixel-dungeon-rpg.json) |
+| Pixel Dungeon VR | 348951 | [348951-pixel-dungeon-vr.json](./348951-pixel-dungeon-vr.json) |
 | Pixel Empires | 351259 | [351259-pixel-empires.json](./351259-pixel-empires.json) |
 | Pixel Exploration: Craft Edition | 101574 | [101574-pixel-exploration-craft-edition.json](./101574-pixel-exploration-craft-edition.json) |
 | Pixel Express | 107835 | [107835-pixel-express.json](./107835-pixel-express.json) |
