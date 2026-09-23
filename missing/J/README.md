@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just one, must choose | 135050 | [135050-just-one-must-choose.json](./135050-just-one-must-choose.json) |
 | Just Passing | 176344 | [176344-just-passing.json](./176344-just-passing.json) |
 | Just Plumbers in Hallowville | 287622 | [287622-just-plumbers-in-hallowville.json](./287622-just-plumbers-in-hallowville.json) |
+| Just Pong | 383077 | [383077-just-pong.json](./383077-just-pong.json) |
 | Just Pool | 411711 | [411711-just-pool.json](./411711-just-pool.json) |
 | Just Push the Button | 224117 | [224117-just-push-the-button.json](./224117-just-push-the-button.json) |
 | Just Puzzles: Water | 417715 | [417715-just-puzzles-water.json](./417715-just-puzzles-water.json) |
