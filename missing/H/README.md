@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Revealed | 138759 | [138759-hell-revealed.json](./138759-hell-revealed.json) |
 | Hell Road VR | 143019 | [143019-hell-road-vr.json](./143019-hell-road-vr.json) |
 | Hell Runner | 229202 | [229202-hell-runner.json](./229202-hell-runner.json) |
+| Hell Shooter | 368654 | [368654-hell-shooter.json](./368654-hell-shooter.json) |
 | Hell Slayer | 232446 | [232446-hell-slayer.json](./232446-hell-slayer.json) |
 | Hell Spheres | 285455 | [285455-hell-spheres.json](./285455-hell-spheres.json) |
 | Hell Survive | 75787 | [75787-hell-survive.json](./75787-hell-survive.json) |
