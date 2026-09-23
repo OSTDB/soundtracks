@@ -2410,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Tycoon | 256251 | [256251-desert-tycoon.json](./256251-desert-tycoon.json) |
 | Desert War | 167163 | [167163-desert-war.json](./167163-desert-war.json) |
 | Desert War 1940-1942 | 129593 | [129593-desert-war-1940-1942.json](./129593-desert-war-1940-1942.json) |
+| Desert War: Military Combat Shooter | 376711 | [376711-desert-war-military-combat-shooter.json](./376711-desert-war-military-combat-shooter.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
 | Deserter | 323940 | [323940-deserter.json](./323940-deserter.json) |
 | Deserter Simulator | 34791 | [34791-deserter-simulator.json](./34791-deserter-simulator.json) |
@@ -5373,6 +5374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Addict | 303491 | [303491-dream-addict.json](./303491-dream-addict.json) |
 | Dream Adventure | 264068 | [264068-dream-adventure.json](./264068-dream-adventure.json) |
+| Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
 | Dream Boundary | 347715 | [347715-dream-boundary.json](./347715-dream-boundary.json) |
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
 | Dream Busters | 192825 | [192825-dream-busters.json](./192825-dream-busters.json) |
