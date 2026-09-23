@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edwin Earstwhile: Medical Examiner | 404924 | [404924-edwin-earstwhile-medical-examiner.json](./404924-edwin-earstwhile-medical-examiner.json) |
 | EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
+| Eerie Dossier: The Haunted Apartment | 391339 | [391339-eerie-dossier-the-haunted-apartment.json](./391339-eerie-dossier-the-haunted-apartment.json) |
 | Eerie Excavation | 301847 | [301847-eerie-excavation.json](./301847-eerie-excavation.json) |
 | Eerie Worlds | 351704 | [351704-eerie-worlds.json](./351704-eerie-worlds.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
@@ -692,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
+| Electio | 391307 | [391307-electio.json](./391307-electio.json) |
 | Election | 13630 | [13630-election.json](./13630-election.json) |
 | Election Day | 340995 | [340995-election-day.json](./340995-election-day.json) |
 | Election Day | 415126 | [415126-election-day.json](./415126-election-day.json) |
