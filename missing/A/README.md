@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
 | Advent Crossroad | 154404 | [154404-advent-crossroad.json](./154404-advent-crossroad.json) |
 | Advent of God: Legends | 304168 | [304168-advent-of-god-legends.json](./304168-advent-of-god-legends.json) |
+| Adventopia | 355216 | [355216-adventopia.json](./355216-adventopia.json) |
 | Adventure | 8253 | [8253-adventure.json](./8253-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure Academia: The Fractured Continent - New Adventure Volume 2: Danger Mountain March 1- 3 | 220752 | [220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json](./220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json) |
@@ -1588,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
 | Akupara: Action Bundle | 222409 | [222409-akupara-action-bundle.json](./222409-akupara-action-bundle.json) |
+| Akuro & Bahaku 2 | 355211 | [355211-akuro-and-bahaku-2.json](./355211-akuro-and-bahaku-2.json) |
 | Akuro & Bahaku: Jungle Adventure | 325060 | [325060-akuro-and-bahaku-jungle-adventure.json](./325060-akuro-and-bahaku-jungle-adventure.json) |
 | Akuu Senki Raijin | 41340 | [41340-akuu-senki-raijin.json](./41340-akuu-senki-raijin.json) |
 | Akuya | 30891 | [30891-akuya.json](./30891-akuya.json) |
@@ -2122,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AllBoomGame | 198489 | [198489-allboomgame.json](./198489-allboomgame.json) |
 | Allegiance | 595 | [595-allegiance.json](./595-allegiance.json) |
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
+| Allegro Molto wo Kiku Game | 355188 | [355188-allegro-molto-wo-kiku-game.json](./355188-allegro-molto-wo-kiku-game.json) |
 | Allemand avec Rayman | 193347 | [193347-allemand-avec-rayman.json](./193347-allemand-avec-rayman.json) |
 | Allergy Assassin | 180717 | [180717-allergy-assassin.json](./180717-allergy-assassin.json) |
 | Alleviate | 326274 | [326274-alleviate.json](./326274-alleviate.json) |
