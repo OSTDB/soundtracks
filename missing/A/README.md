@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
+| A Killer Chat! Christmas | 370876 | [370876-a-killer-chat-christmas.json](./370876-a-killer-chat-christmas.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
@@ -4007,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Fate | 224099 | [224099-arcane-fate.json](./224099-arcane-fate.json) |
 | Arcane Maelstrom | 29765 | [29765-arcane-maelstrom.json](./29765-arcane-maelstrom.json) |
 | Arcane Mayhem | 388424 | [388424-arcane-mayhem.json](./388424-arcane-mayhem.json) |
+| Arcane Overdrive | 370895 | [370895-arcane-overdrive.json](./370895-arcane-overdrive.json) |
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
 | Arcane Pets: Plushie Empire | 256545 | [256545-arcane-pets-plushie-empire.json](./256545-arcane-pets-plushie-empire.json) |
 | Arcane Plunder | 373538 | [373538-arcane-plunder.json](./373538-arcane-plunder.json) |
@@ -5027,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
 | Astra Space Defender | 401820 | [401820-astra-space-defender.json](./401820-astra-space-defender.json) |
 | Astra Superstars | 39603 | [39603-astra-superstars.json](./39603-astra-superstars.json) |
+| Astra Vortex | 370906 | [370906-astra-vortex.json](./370906-astra-vortex.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
