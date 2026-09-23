@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Action | 51241 | [51241-elevator-action.json](./51241-elevator-action.json) |
 | Elevator Action 3D | 286679 | [286679-elevator-action-3d.json](./286679-elevator-action-3d.json) |
 | Elevator Action 500 | 394313 | [394313-elevator-action-500.json](./394313-elevator-action-500.json) |
+| Elevator Goes Up? | 376701 | [376701-elevator-goes-up.json](./376701-elevator-goes-up.json) |
 | Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
 | Elevator... to the Moon! | 69457 | [69457-elevator-to-the-moon.json](./69457-elevator-to-the-moon.json) |
 | Elevator...to the Moon!: Turbo Champion's Edition | 115468 | [115468-elevator-to-the-moon-turbo-champions-edition.json](./115468-elevator-to-the-moon-turbo-champions-edition.json) |
