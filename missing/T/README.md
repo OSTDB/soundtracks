@@ -4948,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maw: Speeder Lane | 164364 | [164364-the-maw-speeder-lane.json](./164364-the-maw-speeder-lane.json) |
 | The Maze | 107158 | [107158-the-maze.json](./107158-the-maze.json) |
 | The Maze | 169859 | [169859-the-maze.json](./169859-the-maze.json) |
+| The Maze | 377305 | [377305-the-maze.json](./377305-the-maze.json) |
 | The Maze : Endless nightmare | 29763 | [29763-the-maze-endless-nightmare.json](./29763-the-maze-endless-nightmare.json) |
 | The Maze Contract | 276157 | [276157-the-maze-contract.json](./276157-the-maze-contract.json) |
 | The Maze Escaper | 150700 | [150700-the-maze-escaper.json](./150700-the-maze-escaper.json) |
