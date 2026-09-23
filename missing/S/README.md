@@ -10976,6 +10976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Events | 41013 | [41013-summer-events.json](./41013-summer-events.json) |
 | Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
+| Summer for You | 339481 | [339481-summer-for-you.json](./339481-summer-for-you.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
 | Summer Games 3D | 88164 | [88164-summer-games-3d.json](./88164-summer-games-3d.json) |
 | Summer Games Challenge: Jumping & Shooting | 362362 | [362362-summer-games-challenge-jumping-and-shooting.json](./362362-summer-games-challenge-jumping-and-shooting.json) |
@@ -11028,6 +11029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Night: Swordcraft Story 2 | 6616 | [6616-summon-night-swordcraft-story-2.json](./6616-summon-night-swordcraft-story-2.json) |
 | Summon of Asmodeus | 117652 | [117652-summon-of-asmodeus.json](./117652-summon-of-asmodeus.json) |
 | Summon Quest | 291980 | [291980-summon-quest.json](./291980-summon-quest.json) |
+| Summon The Dudes! | 339480 | [339480-summon-the-dudes.json](./339480-summon-the-dudes.json) |
 | Summon, then build an invincible harem | 216870 | [216870-summon-then-build-an-invincible-harem.json](./216870-summon-then-build-an-invincible-harem.json) |
 | Summoned by a Magic Goddess | 206152 | [206152-summoned-by-a-magic-goddess.json](./206152-summoned-by-a-magic-goddess.json) |
 | Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
@@ -11352,6 +11354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Destronaut DX | 104862 | [104862-super-destronaut-dx.json](./104862-super-destronaut-dx.json) |
 | Super Destroyer | 378394 | [378394-super-destroyer.json](./378394-super-destroyer.json) |
 | Super Diagonal Mario 2: The Ultimate Meme Machine | 267944 | [267944-super-diagonal-mario-2-the-ultimate-meme-machine.json](./267944-super-diagonal-mario-2-the-ultimate-meme-machine.json) |
+| Super Dig Man Deluxe | 339478 | [339478-super-dig-man-deluxe.json](./339478-super-dig-man-deluxe.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
@@ -11968,6 +11971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Off Road | 365894 | [365894-super-off-road.json](./365894-super-off-road.json) |
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
+| Super Orbital Mega Drift II | 339477 | [339477-super-orbital-mega-drift-ii.json](./339477-super-orbital-mega-drift-ii.json) |
 | Super Over! | 244799 | [244799-super-over.json](./244799-super-over.json) |
 | Super Pac-Man | 239191 | [239191-super-pac-man.json](./239191-super-pac-man.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
@@ -12263,6 +12267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Toy Cars Offroad | 173959 | [173959-super-toy-cars-offroad.json](./173959-super-toy-cars-offroad.json) |
+| Super Trailblazers | 339475 | [339475-super-trailblazers.json](./339475-super-trailblazers.json) |
 | Super Trench Attack 2 | 34840 | [34840-super-trench-attack-2.json](./34840-super-trench-attack-2.json) |
 | Super Trench Attack! | 17592 | [17592-super-trench-attack.json](./17592-super-trench-attack.json) |
 | Super Trolley | 68348 | [68348-super-trolley.json](./68348-super-trolley.json) |
@@ -12340,6 +12345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharged | 263755 | [263755-supercharged.json](./263755-supercharged.json) |
 | Supercharged Robot Vulkaiser | 20019 | [20019-supercharged-robot-vulkaiser.json](./20019-supercharged-robot-vulkaiser.json) |
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
+| SuperCowBoy | 339479 | [339479-supercowboy.json](./339479-supercowboy.json) |
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
 | Superdimensional | 181381 | [181381-superdimensional.json](./181381-superdimensional.json) |
 | SuperDog | 409683 | [409683-superdog.json](./409683-superdog.json) |
@@ -12431,6 +12437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
+| Supershot | 339476 | [339476-supershot.json](./339476-supershot.json) |
 | Supershot Golf Robot | 206714 | [206714-supershot-golf-robot.json](./206714-supershot-golf-robot.json) |
 | SuperSnake.io | 58496 | [58496-supersnake-io.json](./58496-supersnake-io.json) |
 | Supersolar | 110778 | [110778-supersolar.json](./110778-supersolar.json) |
@@ -12480,6 +12487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Commander 2 | 7201 | [7201-supreme-commander-2.json](./7201-supreme-commander-2.json) |
 | Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
 | Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
+| Supreme Kung Fu | 339474 | [339474-supreme-kung-fu.json](./339474-supreme-kung-fu.json) |
 | Supreme Ruler 1936 | 16574 | [16574-supreme-ruler-1936.json](./16574-supreme-ruler-1936.json) |
 | Supreme Ruler 2020 Gold | 25062 | [25062-supreme-ruler-2020-gold.json](./25062-supreme-ruler-2020-gold.json) |
 | Supreme Ruler 2020: Global Crisis | 26931 | [26931-supreme-ruler-2020-global-crisis.json](./26931-supreme-ruler-2020-global-crisis.json) |
@@ -12553,6 +12561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
 | Survial | 274577 | [274577-survial.json](./274577-survial.json) |
+| SurviBall | 339473 | [339473-surviball.json](./339473-surviball.json) |
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survisland | 105015 | [105015-survisland.json](./105015-survisland.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
@@ -12818,6 +12827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
 | Sweet Adventure | 392916 | [392916-sweet-adventure.json](./392916-sweet-adventure.json) |
 | Sweet and Cute | 169381 | [169381-sweet-and-cute.json](./169381-sweet-and-cute.json) |
+| Sweet Animal Girls | 339471 | [339471-sweet-animal-girls.json](./339471-sweet-animal-girls.json) |
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
 | Sweet Baby Girl Cleanup 5 | 102617 | [102617-sweet-baby-girl-cleanup-5.json](./102617-sweet-baby-girl-cleanup-5.json) |
 | Sweet Baby Girl Doll House | 104487 | [104487-sweet-baby-girl-doll-house.json](./104487-sweet-baby-girl-doll-house.json) |
@@ -12831,9 +12841,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Berry Crush | 55444 | [55444-sweet-berry-crush.json](./55444-sweet-berry-crush.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
+| Sweet Casino | 339470 | [339470-sweet-casino.json](./339470-sweet-casino.json) |
+| Sweet Cheerleaders | 339469 | [339469-sweet-cheerleaders.json](./339469-sweet-cheerleaders.json) |
 | Sweet Cheongsam | 384626 | [384626-sweet-cheongsam.json](./384626-sweet-cheongsam.json) |
+| Sweet Cinema | 339468 | [339468-sweet-cinema.json](./339468-sweet-cinema.json) |
 | Sweet Clown: Gozen San-ji no Okashi na Doukeshi | 59989 | [59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json](./59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json) |
 | Sweet Collector | 188497 | [188497-sweet-collector.json](./188497-sweet-collector.json) |
+| Sweet Cruise | 339467 | [339467-sweet-cruise.json](./339467-sweet-cruise.json) |
+| Sweet Delights: The Girl’s Cafe Quest | 339466 | [339466-sweet-delights-the-girl-s-cafe-quest.json](./339466-sweet-delights-the-girl-s-cafe-quest.json) |
 | Sweet Desire | 147380 | [147380-sweet-desire.json](./147380-sweet-desire.json) |
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
 | Sweet Dreams Alex | 157545 | [157545-sweet-dreams-alex.json](./157545-sweet-dreams-alex.json) |
@@ -12842,40 +12857,62 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
 | Sweet Ex | 392906 | [392906-sweet-ex.json](./392906-sweet-ex.json) |
 | Sweet fantasy | 29081 | [29081-sweet-fantasy.json](./29081-sweet-fantasy.json) |
+| Sweet Fantasy | 339464 | [339464-sweet-fantasy.json](./339464-sweet-fantasy.json) |
+| Sweet Fantasy World | 339463 | [339463-sweet-fantasy-world.json](./339463-sweet-fantasy-world.json) |
 | Sweet Farm | 392907 | [392907-sweet-farm.json](./392907-sweet-farm.json) |
 | Sweet Fruitcake | 118974 | [118974-sweet-fruitcake.json](./118974-sweet-fruitcake.json) |
 | Sweet Fruits from the Magical Tree | 185104 | [185104-sweet-fruits-from-the-magical-tree.json](./185104-sweet-fruits-from-the-magical-tree.json) |
 | Sweet Girl Gurumelo | 258992 | [258992-sweet-girl-gurumelo.json](./258992-sweet-girl-gurumelo.json) |
 | Sweet Girls Collection | 352294 | [352294-sweet-girls-collection.json](./352294-sweet-girls-collection.json) |
+| Sweet Glassirl | 339462 | [339462-sweet-glassirl.json](./339462-sweet-glassirl.json) |
+| Sweet Gym | 339461 | [339461-sweet-gym.json](./339461-sweet-gym.json) |
 | Sweet Hazard | 316815 | [316815-sweet-hazard.json](./316815-sweet-hazard.json) |
 | Sweet Hearts Match 3 | 86800 | [86800-sweet-hearts-match-3.json](./86800-sweet-hearts-match-3.json) |
+| Sweet Hide and Seek | 339460 | [339460-sweet-hide-and-seek.json](./339460-sweet-hide-and-seek.json) |
 | Sweet Home | 9426 | [9426-sweet-home.json](./9426-sweet-home.json) |
+| Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
 | Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
+| Sweet Honey | 339458 | [339458-sweet-honey.json](./339458-sweet-honey.json) |
+| Sweet Hot Spring | 339456 | [339456-sweet-hot-spring.json](./339456-sweet-hot-spring.json) |
+| Sweet Hotel | 339457 | [339457-sweet-hotel.json](./339457-sweet-hotel.json) |
+| Sweet Hunt | 339455 | [339455-sweet-hunt.json](./339455-sweet-hunt.json) |
+| Sweet Ice-Cream | 339454 | [339454-sweet-ice-cream.json](./339454-sweet-ice-cream.json) |
 | Sweet Idol | 371243 | [371243-sweet-idol.json](./371243-sweet-idol.json) |
 | Sweet Island | 392924 | [392924-sweet-island.json](./392924-sweet-island.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
+| Sweet Massage | 339453 | [339453-sweet-massage.json](./339453-sweet-massage.json) |
 | Sweet Math | 381276 | [381276-sweet-math.json](./381276-sweet-math.json) |
 | Sweet Model | 371356 | [371356-sweet-model.json](./371356-sweet-model.json) |
+| Sweet Monster | 339450 | [339450-sweet-monster.json](./339450-sweet-monster.json) |
+| Sweet New Year | 339448 | [339448-sweet-new-year.json](./339448-sweet-new-year.json) |
+| Sweet Night Club | 339447 | [339447-sweet-night-club.json](./339447-sweet-night-club.json) |
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
+| Sweet Racing Girl | 339445 | [339445-sweet-racing-girl.json](./339445-sweet-racing-girl.json) |
 | Sweet Restaurant | 368561 | [368561-sweet-restaurant.json](./368561-sweet-restaurant.json) |
 | Sweet Reversi | 208348 | [208348-sweet-reversi.json](./208348-sweet-reversi.json) |
+| Sweet Robot | 339444 | [339444-sweet-robot.json](./339444-sweet-robot.json) |
 | Sweet Rock Paper Scissors | 392918 | [392918-sweet-rock-paper-scissors.json](./392918-sweet-rock-paper-scissors.json) |
 | Sweet Run | 392919 | [392919-sweet-run.json](./392919-sweet-run.json) |
+| Sweet Sailor | 339443 | [339443-sweet-sailor.json](./339443-sweet-sailor.json) |
 | Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
 | Sweet Shell | 328043 | [328043-sweet-shell.json](./328043-sweet-shell.json) |
 | Sweet Shine | 159825 | [159825-sweet-shine.json](./159825-sweet-shine.json) |
 | Sweet Shop | 90376 | [90376-sweet-shop.json](./90376-sweet-shop.json) |
+| Sweet Slave | 339442 | [339442-sweet-slave.json](./339442-sweet-slave.json) |
 | Sweet Solitaire: School Witch | 133232 | [133232-sweet-solitaire-school-witch.json](./133232-sweet-solitaire-school-witch.json) |
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Sport | 368572 | [368572-sweet-sport.json](./368572-sweet-sport.json) |
+| Sweet Spring Festival | 339441 | [339441-sweet-spring-festival.json](./339441-sweet-spring-festival.json) |
 | Sweet Starlight Sisters | 378897 | [378897-sweet-starlight-sisters.json](./378897-sweet-starlight-sisters.json) |
 | Sweet Story Neko | 371441 | [371441-sweet-story-neko.json](./371441-sweet-story-neko.json) |
+| Sweet Summer | 339440 | [339440-sweet-summer.json](./339440-sweet-summer.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
 | Sweet Survivors: Funky Edition | 351240 | [351240-sweet-survivors-funky-edition.json](./351240-sweet-survivors-funky-edition.json) |
 | Sweet Survivors: Gold Edition | 385210 | [385210-sweet-survivors-gold-edition.json](./385210-sweet-survivors-gold-edition.json) |
 | Sweet Tank | 392922 | [392922-sweet-tank.json](./392922-sweet-tank.json) |
+| Sweet Tavern | 339435 | [339435-sweet-tavern.json](./339435-sweet-tavern.json) |
 | Sweet Thomas | 126645 | [126645-sweet-thomas.json](./126645-sweet-thomas.json) |
 | Sweet Time | 156611 | [156611-sweet-time.json](./156611-sweet-time.json) |
 | Sweet Time | 280236 | [280236-sweet-time.json](./280236-sweet-time.json) |
@@ -12886,7 +12923,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Treat Solitaire | 386150 | [386150-sweet-treat-solitaire.json](./386150-sweet-treat-solitaire.json) |
 | Sweet Treats | 104043 | [104043-sweet-treats.json](./104043-sweet-treats.json) |
 | Sweet Valentine Chocolatier | 401644 | [401644-sweet-valentine-chocolatier.json](./401644-sweet-valentine-chocolatier.json) |
+| Sweet VTuber Shooter | 339434 | [339434-sweet-vtuber-shooter.json](./339434-sweet-vtuber-shooter.json) |
+| Sweet Warrior | 339433 | [339433-sweet-warrior.json](./339433-sweet-warrior.json) |
 | Sweet Wave | 97710 | [97710-sweet-wave.json](./97710-sweet-wave.json) |
+| Sweet Wedding | 339432 | [339432-sweet-wedding.json](./339432-sweet-wedding.json) |
+| Sweet Winter | 339431 | [339431-sweet-winter.json](./339431-sweet-winter.json) |
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
