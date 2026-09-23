@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics of Cilldrea | 236915 | [236915-relics-of-cilldrea.json](./236915-relics-of-cilldrea.json) |
 | Relics of Deldroneye 2: Island of Debreen | 137454 | [137454-relics-of-deldroneye-2-island-of-debreen.json](./137454-relics-of-deldroneye-2-island-of-debreen.json) |
 | Relics of Gods | 11352 | [11352-relics-of-gods.json](./11352-relics-of-gods.json) |
+| Relics of Wayne: Greymoor | 379588 | [379588-relics-of-wayne-greymoor.json](./379588-relics-of-wayne-greymoor.json) |
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
@@ -3319,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
+| Rock the Rim | 379545 | [379545-rock-the-rim.json](./379545-rock-the-rim.json) |
 | Rock Tris | 229064 | [229064-rock-tris.json](./229064-rock-tris.json) |
 | Rock-n-Rogue A Boo Bunny Plague Adventure | 33605 | [33605-rock-n-rogue-a-boo-bunny-plague-adventure.json](./33605-rock-n-rogue-a-boo-bunny-plague-adventure.json) |
 | Rock, Ken, Bo | 28807 | [28807-rock-ken-bo.json](./28807-rock-ken-bo.json) |
