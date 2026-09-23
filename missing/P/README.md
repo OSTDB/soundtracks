@@ -4462,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Dungeon: Character Pack - Hamster | 291085 | [291085-portal-dungeon-character-pack-hamster.json](./291085-portal-dungeon-character-pack-hamster.json) |
 | Portal Factory | 324335 | [324335-portal-factory.json](./324335-portal-factory.json) |
 | Portal Fantasy | 257931 | [257931-portal-fantasy.json](./257931-portal-fantasy.json) |
+| Portal for TIC-80 | 349495 | [349495-portal-for-tic-80.json](./349495-portal-for-tic-80.json) |
 | Portal Guardian | 389991 | [389991-portal-guardian.json](./389991-portal-guardian.json) |
 | Portal Gun in Sonic 2 | 129175 | [129175-portal-gun-in-sonic-2.json](./129175-portal-gun-in-sonic-2.json) |
 | Portal Hunter | 373623 | [373623-portal-hunter.json](./373623-portal-hunter.json) |
@@ -5938,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG: Battlegrounds - Season 25 | 279576 | [279576-pubg-battlegrounds-season-25.json](./279576-pubg-battlegrounds-season-25.json) |
 | PUBG: Battlegrounds - Season 26 | 279578 | [279578-pubg-battlegrounds-season-26.json](./279578-pubg-battlegrounds-season-26.json) |
 | PUBG: Battlegrounds - Season 27 | 281550 | [281550-pubg-battlegrounds-season-27.json](./281550-pubg-battlegrounds-season-27.json) |
+| PUBG: Battlegrounds - Summer Ready Pack | 349518 | [349518-pubg-battlegrounds-summer-ready-pack.json](./349518-pubg-battlegrounds-summer-ready-pack.json) |
 | PUBG: Blindspot | 321135 | [321135-pubg-blindspot.json](./321135-pubg-blindspot.json) |
 | Public Defense Corp: The Ambassador of Peace | 206952 | [206952-public-defense-corp-the-ambassador-of-peace.json](./206952-public-defense-corp-the-ambassador-of-peace.json) |
 | Public Enemy: The Dark Future | 248293 | [248293-public-enemy-the-dark-future.json](./248293-public-enemy-the-dark-future.json) |
