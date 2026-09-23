@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Frenzy | 256374 | [256374-animal-frenzy.json](./256374-animal-frenzy.json) |
 | Animal Gem Puzzle | 297653 | [297653-animal-gem-puzzle.json](./297653-animal-gem-puzzle.json) |
 | Animal Genius | 397073 | [397073-animal-genius.json](./397073-animal-genius.json) |
+| Animal Hearts: A Card Quest | 373754 | [373754-animal-hearts-a-card-quest.json](./373754-animal-hearts-a-card-quest.json) |
 | Animal Inspector | 124753 | [124753-animal-inspector.json](./124753-animal-inspector.json) |
 | Animal Island: The Wolf’s Onslaught | 384804 | [384804-animal-island-the-wolf-s-onslaught.json](./384804-animal-island-the-wolf-s-onslaught.json) |
 | Animal Jam Classic | 316795 | [316795-animal-jam-classic.json](./316795-animal-jam-classic.json) |
@@ -3264,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Crusade | 135681 | [135681-another-crusade.json](./135681-another-crusade.json) |
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
+| Another Day to Die | 373752 | [373752-another-day-to-die.json](./373752-another-day-to-die.json) |
 | Another Day with You | 309519 | [309519-another-day-with-you.json](./309519-another-day-with-you.json) |
 | Another Day? | 409695 | [409695-another-day.json](./409695-another-day.json) |
 | Another Earth | 276852 | [276852-another-earth.json](./276852-another-earth.json) |
