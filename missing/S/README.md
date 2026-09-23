@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
 | Seaman 2 | 11446 | [11446-seaman-2.json](./11446-seaman-2.json) |
+| Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
 | Seaport Tycoon | 245956 | [245956-seaport-tycoon.json](./245956-seaport-tycoon.json) |
 | Seaquest DSV | 45591 | [45591-seaquest-dsv.json](./45591-seaquest-dsv.json) |
@@ -2415,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Empire: Oceania | 225088 | [225088-shadow-empire-oceania.json](./225088-shadow-empire-oceania.json) |
 | Shadow Escaper | 63805 | [63805-shadow-escaper.json](./63805-shadow-escaper.json) |
 | Shadow Falls | 311258 | [311258-shadow-falls.json](./311258-shadow-falls.json) |
+| Shadow Fang | 342273 | [342273-shadow-fang.json](./342273-shadow-fang.json) |
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
 | Shadow Fear: Chapter 0 | 168856 | [168856-shadow-fear-chapter-0.json](./168856-shadow-fear-chapter-0.json) |
 | Shadow Fight 2 | 39244 | [39244-shadow-fight-2.json](./39244-shadow-fight-2.json) |
@@ -5497,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
 | Sneezeman | 189099 | [189099-sneezeman.json](./189099-sneezeman.json) |
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
+| Snekburd | 342255 | [342255-snekburd.json](./342255-snekburd.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snekoban | 393124 | [393124-snekoban.json](./393124-snekoban.json) |
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
@@ -10043,6 +10046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
 | Story of Seasons: Friends of Mineral Town | 120300 | [120300-story-of-seasons-friends-of-mineral-town.json](./120300-story-of-seasons-friends-of-mineral-town.json) |
+| Story of Seasons: Grand Bazaar - Digital Deluxe Edition | 342241 | [342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json](./342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json) |
 | Story of Seasons: Pioneers of Olive Town | 140500 | [140500-story-of-seasons-pioneers-of-olive-town.json](./140500-story-of-seasons-pioneers-of-olive-town.json) |
 | Story of Seasons: Pioneers of Olive Town - Buffalo Costume | 365902 | [365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json](./365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json) |
 | Story of Seasons: Pioneers of Olive Town - Expansion Pass | 365899 | [365899-story-of-seasons-pioneers-of-olive-town-expansion-pass.json](./365899-story-of-seasons-pioneers-of-olive-town-expansion-pass.json) |
@@ -12743,6 +12747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swampstar | 201177 | [201177-swampstar.json](./201177-swampstar.json) |
 | Swampstar | 201178 | [201178-swampstar.json](./201178-swampstar.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
+| Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
