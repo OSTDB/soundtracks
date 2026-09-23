@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A House That Glows | 389593 | [389593-a-house-that-glows.json](./389593-a-house-that-glows.json) |
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
+| A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
@@ -190,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
 | A Loop is a Loop is | 144789 | [144789-a-loop-is-a-loop-is.json](./144789-a-loop-is-a-loop-is.json) |
 | A Lost Land | 384655 | [384655-a-lost-land.json](./384655-a-lost-land.json) |
+| A Lounge Somewhere | 352388 | [352388-a-lounge-somewhere.json](./352388-a-lounge-somewhere.json) |
 | A Love Like Broken Glass | 410440 | [410440-a-love-like-broken-glass.json](./410440-a-love-like-broken-glass.json) |
 | A Love Story: My Best Friend | 334090 | [334090-a-love-story-my-best-friend.json](./334090-a-love-story-my-best-friend.json) |
 | A Loving Family | 297061 | [297061-a-loving-family.json](./297061-a-loving-family.json) |
@@ -386,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A World of Ice and Fire | 356195 | [356195-a-world-of-ice-and-fire.json](./356195-a-world-of-ice-and-fire.json) |
 | A World of Keflings: Sugar, Spice and Not So Nice | 377854 | [377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json](./377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json) |
 | A World of Wishes | 260754 | [260754-a-world-of-wishes.json](./260754-a-world-of-wishes.json) |
+| A World Without... Videogames | 352373 | [352373-a-world-without-videogames.json](./352373-a-world-without-videogames.json) |
 | A Year at Pooh Corner | 45575 | [45575-a-year-at-pooh-corner.json](./45575-a-year-at-pooh-corner.json) |
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A-10 Tank Killer | 14200 | [14200-a-10-tank-killer.json](./14200-a-10-tank-killer.json) |
@@ -872,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
 | Advent Crossroad | 154404 | [154404-advent-crossroad.json](./154404-advent-crossroad.json) |
 | Advent of God: Legends | 304168 | [304168-advent-of-god-legends.json](./304168-advent-of-god-legends.json) |
+| Advent/Archive | 352363 | [352363-advent-archive.json](./352363-advent-archive.json) |
 | Adventopia | 355216 | [355216-adventopia.json](./355216-adventopia.json) |
 | Adventure | 8253 | [8253-adventure.json](./8253-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
