@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sloth For Both Seasons | 165504 | [165504-a-sloth-for-both-seasons.json](./165504-a-sloth-for-both-seasons.json) |
 | A Slower Speed of Light | 18122 | [18122-a-slower-speed-of-light.json](./18122-a-slower-speed-of-light.json) |
 | A Slug's Dream | 238589 | [238589-a-slugs-dream.json](./238589-a-slugs-dream.json) |
+| A Small Encounter | 350624 | [350624-a-small-encounter.json](./350624-a-small-encounter.json) |
 | A Smithing Game | 405058 | [405058-a-smithing-game.json](./405058-a-smithing-game.json) |
 | A Smoker's Story | 312731 | [312731-a-smokers-story.json](./312731-a-smokers-story.json) |
 | A Snake's Tale | 43140 | [43140-a-snakes-tale.json](./43140-a-snakes-tale.json) |
@@ -5126,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Equilibrium | 140358 | [140358-astral-equilibrium.json](./140358-astral-equilibrium.json) |
+| Astral Fantasy | 350662 | [350662-astral-fantasy.json](./350662-astral-fantasy.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
 | Astral Masters | 140983 | [140983-astral-masters.json](./140983-astral-masters.json) |
 | Astral Maze: Escape the Horror | 304677 | [304677-astral-maze-escape-the-horror.json](./304677-astral-maze-escape-the-horror.json) |
