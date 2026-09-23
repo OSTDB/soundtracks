@@ -630,9 +630,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rambo | 48210 | [48210-rambo.json](./48210-rambo.json) |
 | Rambo: First Blood Part II | 12963 | [12963-rambo-first-blood-part-ii.json](./12963-rambo-first-blood-part-ii.json) |
 | Rambo: First Blood Part II | 39127 | [39127-rambo-first-blood-part-ii.json](./39127-rambo-first-blood-part-ii.json) |
+| Ramek: Total Machine Death | 337280 | [337280-ramek-total-machine-death.json](./337280-ramek-total-machine-death.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
 | Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
 | Ramen no Megami | 283716 | [283716-ramen-no-megami.json](./283716-ramen-no-megami.json) |
+| Ramen Shop Simulator | 337287 | [337287-ramen-shop-simulator.json](./337287-ramen-shop-simulator.json) |
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Ramify | 31153 | [31153-ramify.json](./31153-ramify.json) |
@@ -4427,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
 | Ruins of Majika | 211747 | [211747-ruins-of-majika.json](./211747-ruins-of-majika.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
+| Ruins of Tearyn | 337252 | [337252-ruins-of-tearyn.json](./337252-ruins-of-tearyn.json) |
 | Ruins of the Lost | 258460 | [258460-ruins-of-the-lost.json](./258460-ruins-of-the-lost.json) |
 | Ruins of The Titan | 365069 | [365069-ruins-of-the-titan.json](./365069-ruins-of-the-titan.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
