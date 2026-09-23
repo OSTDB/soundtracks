@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
 | Odonata Augmenta: Rogue Dragonfly | 415314 | [415314-odonata-augmenta-rogue-dragonfly.json](./415314-odonata-augmenta-rogue-dragonfly.json) |
+| Odyssee Die | 356843 | [356843-odyssee-die.json](./356843-odyssee-die.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
