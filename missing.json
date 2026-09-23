@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T22:47:41.382Z",
-  "total_missing": 113327,
+  "generated_at": "2026-09-23T23:03:15.417Z",
+  "total_missing": 113377,
   "games": [
     {
       "igdb_id": 176875,
@@ -31,6 +31,11 @@
       "igdb_id": 109760,
       "game_name": "!BurnToDie!",
       "file": "missing/0-9/109760-burntodie.json"
+    },
+    {
+      "igdb_id": 338924,
+      "game_name": "!Hungry Blocks!",
+      "file": "missing/0-9/338924-hungry-blocks.json"
     },
     {
       "igdb_id": 89658,
@@ -1578,14 +1583,69 @@
       "file": "missing/0-9/26601-12-labours-of-hercules-iv-mother-nature.json"
     },
     {
+      "igdb_id": 338895,
+      "game_name": "12 Labours of Hercules IV: Mother Nature - Collector's Edition",
+      "file": "missing/0-9/338895-12-labours-of-hercules-iv-mother-nature-collectors-edition.json"
+    },
+    {
+      "igdb_id": 338900,
+      "game_name": "12 Labours of Hercules IX: A Hero's Moonwalk - Collector's Edition",
+      "file": "missing/0-9/338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json"
+    },
+    {
+      "igdb_id": 338896,
+      "game_name": "12 Labours of Hercules V: Kids of Hellas - Collector's Edition",
+      "file": "missing/0-9/338896-12-labours-of-hercules-v-kids-of-hellas-collectors-edition.json"
+    },
+    {
+      "igdb_id": 338897,
+      "game_name": "12 Labours of Hercules VI: Race for Olympus - Collectors Edition",
+      "file": "missing/0-9/338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json"
+    },
+    {
+      "igdb_id": 338898,
+      "game_name": "12 Labours of Hercules VII: Fleecing the Fleece - Collector's Edition",
+      "file": "missing/0-9/338898-12-labours-of-hercules-vii-fleecing-the-fleece-collectors-edition.json"
+    },
+    {
       "igdb_id": 113390,
       "game_name": "12 Labours of Hercules VIII: How I Met Megara",
       "file": "missing/0-9/113390-12-labours-of-hercules-viii-how-i-met-megara.json"
     },
     {
+      "igdb_id": 338899,
+      "game_name": "12 Labours of Hercules VIII: How I Met Megara - Collector's Edition",
+      "file": "missing/0-9/338899-12-labours-of-hercules-viii-how-i-met-megara-collectors-edition.json"
+    },
+    {
       "igdb_id": 131992,
       "game_name": "12 Labours of Hercules X: Greed for Speed",
       "file": "missing/0-9/131992-12-labours-of-hercules-x-greed-for-speed.json"
+    },
+    {
+      "igdb_id": 338901,
+      "game_name": "12 Labours of Hercules X: Greed for Speed - Collector's Edition",
+      "file": "missing/0-9/338901-12-labours-of-hercules-x-greed-for-speed-collectors-edition.json"
+    },
+    {
+      "igdb_id": 338904,
+      "game_name": "12 Labours of Hercules XI: Painted Adventure - Collector's Edition",
+      "file": "missing/0-9/338904-12-labours-of-hercules-xi-painted-adventure-collectors-edition.json"
+    },
+    {
+      "igdb_id": 338905,
+      "game_name": "12 Labours of Hercules XII: Timeless Adventure - Collectors Edition",
+      "file": "missing/0-9/338905-12-labours-of-hercules-xii-timeless-adventure-collectors-edition.json"
+    },
+    {
+      "igdb_id": 338908,
+      "game_name": "12 Labours of Hercules XIII: Wonder-ful Builder - Collector's Edition",
+      "file": "missing/0-9/338908-12-labours-of-hercules-xiii-wonder-ful-builder-collectors-edition.json"
+    },
+    {
+      "igdb_id": 338911,
+      "game_name": "12 Labours of Hercules XIV: Message in a Bottle - Collector's Edition",
+      "file": "missing/0-9/338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json"
     },
     {
       "igdb_id": 318605,
@@ -3368,6 +3428,11 @@
       "file": "missing/0-9/269319-3d-mahjong-janpai-tori.json"
     },
     {
+      "igdb_id": 338903,
+      "game_name": "3D Mahjong Deluxe",
+      "file": "missing/0-9/338903-3d-mahjong-deluxe.json"
+    },
+    {
       "igdb_id": 41982,
       "game_name": "3D Mine Storm",
       "file": "missing/0-9/41982-3d-mine-storm.json"
@@ -4056,6 +4121,16 @@
       "igdb_id": 245937,
       "game_name": "5 Star Fishy",
       "file": "missing/0-9/245937-5-star-fishy.json"
+    },
+    {
+      "igdb_id": 338906,
+      "game_name": "5 Star Hawaii Resort",
+      "file": "missing/0-9/338906-5-star-hawaii-resort.json"
+    },
+    {
+      "igdb_id": 338907,
+      "game_name": "5 Star Miami Resort",
+      "file": "missing/0-9/338907-5-star-miami-resort.json"
     },
     {
       "igdb_id": 44820,
@@ -9588,6 +9663,11 @@
       "file": "missing/A/381130-adventure-master.json"
     },
     {
+      "igdb_id": 338910,
+      "game_name": "Adventure Match",
+      "file": "missing/A/338910-adventure-match.json"
+    },
+    {
       "igdb_id": 94016,
       "game_name": "Adventure Math",
       "file": "missing/A/94016-adventure-math.json"
@@ -14906,6 +14986,11 @@
       "igdb_id": 116399,
       "game_name": "Alienz",
       "file": "missing/A/116399-alienz.json"
+    },
+    {
+      "igdb_id": 338921,
+      "game_name": "Alienz!",
+      "file": "missing/A/338921-alienz.json"
     },
     {
       "igdb_id": 14244,
@@ -20691,6 +20776,11 @@
       "igdb_id": 159134,
       "game_name": "Animators Hell",
       "file": "missing/A/159134-animators-hell.json"
+    },
+    {
+      "igdb_id": 338945,
+      "game_name": "Animatronic Memories",
+      "file": "missing/A/338945-animatronic-memories.json"
     },
     {
       "igdb_id": 337097,
@@ -66138,6 +66228,11 @@
       "file": "missing/B/223658-bullet-waltz.json"
     },
     {
+      "igdb_id": 338894,
+      "game_name": "Bullet Yeeters",
+      "file": "missing/B/338894-bullet-yeeters.json"
+    },
+    {
       "igdb_id": 97359,
       "game_name": "Bullet'n Surf",
       "file": "missing/B/97359-bulletn-surf.json"
@@ -79848,6 +79943,11 @@
       "file": "missing/C/361316-chess-empire.json"
     },
     {
+      "igdb_id": 338917,
+      "game_name": "Chess Force",
+      "file": "missing/C/338917-chess-force.json"
+    },
+    {
       "igdb_id": 283189,
       "game_name": "Chess Grandmaster Royal Bundle",
       "file": "missing/C/283189-chess-grandmaster-royal-bundle.json"
@@ -88273,6 +88373,11 @@
       "file": "missing/C/296647-cohabitation-life.json"
     },
     {
+      "igdb_id": 338916,
+      "game_name": "Coil's Containment",
+      "file": "missing/C/338916-coils-containment.json"
+    },
+    {
       "igdb_id": 314310,
       "game_name": "Coin",
       "file": "missing/C/314310-coin.json"
@@ -88741,6 +88846,11 @@
       "igdb_id": 61053,
       "game_name": "Collectems",
       "file": "missing/C/61053-collectems.json"
+    },
+    {
+      "igdb_id": 338929,
+      "game_name": "Collectible Cars Shop Simulator",
+      "file": "missing/C/338929-collectible-cars-shop-simulator.json"
     },
     {
       "igdb_id": 27916,
@@ -130263,6 +130373,11 @@
       "file": "missing/D/345600-dr-parking-4.json"
     },
     {
+      "igdb_id": 338915,
+      "game_name": "Dr. Plague",
+      "file": "missing/D/338915-dr-plague.json"
+    },
+    {
       "igdb_id": 295530,
       "game_name": "Dr. Planet",
       "file": "missing/D/295530-dr-planet.json"
@@ -153128,6 +153243,11 @@
       "file": "missing/E/340044-exo-wanderers.json"
     },
     {
+      "igdb_id": 338927,
+      "game_name": "Exo-Calibre",
+      "file": "missing/E/338927-exo-calibre.json"
+    },
+    {
       "igdb_id": 365869,
       "game_name": "Exo-Card Collector",
       "file": "missing/E/365869-exo-card-collector.json"
@@ -157896,6 +158016,11 @@
       "igdb_id": 197225,
       "game_name": "Fantasy Fishing Town",
       "file": "missing/F/197225-fantasy-fishing-town.json"
+    },
+    {
+      "igdb_id": 338925,
+      "game_name": "Fantasy Football Tactics",
+      "file": "missing/F/338925-fantasy-football-tactics.json"
     },
     {
       "igdb_id": 372473,
@@ -221538,6 +221663,11 @@
       "file": "missing/H/389406-humanbloodsandwich.json"
     },
     {
+      "igdb_id": 338936,
+      "game_name": "Humanelfo: Um Segredo Vai Te Libertar",
+      "file": "missing/H/338936-humanelfo-um-segredo-vai-te-libertar.json"
+    },
+    {
       "igdb_id": 85172,
       "game_name": "Humanitarian Helicopter",
       "file": "missing/H/85172-humanitarian-helicopter.json"
@@ -253273,6 +253403,11 @@
       "file": "missing/K/62983-kongo-kong.json"
     },
     {
+      "igdb_id": 338926,
+      "game_name": "Kongregate Racing",
+      "file": "missing/K/338926-kongregate-racing.json"
+    },
+    {
       "igdb_id": 267910,
       "game_name": "Konk World",
       "file": "missing/K/267910-konk-world.json"
@@ -258876,6 +259011,11 @@
       "igdb_id": 413609,
       "game_name": "Le Miroir d'Ozivior",
       "file": "missing/L/413609-le-miroir-dozivior.json"
+    },
+    {
+      "igdb_id": 338944,
+      "game_name": "Le Morte D'Arthur",
+      "file": "missing/L/338944-le-morte-darthur.json"
     },
     {
       "igdb_id": 93005,
@@ -268221,6 +268361,11 @@
       "igdb_id": 88344,
       "game_name": "Lola's ABC Party - Learn to Read",
       "file": "missing/L/88344-lolas-abc-party-learn-to-read.json"
+    },
+    {
+      "igdb_id": 338932,
+      "game_name": "LOLCat Escape",
+      "file": "missing/L/338932-lolcat-escape.json"
     },
     {
       "igdb_id": 292291,
@@ -290973,6 +291118,11 @@
       "file": "missing/M/19321-metagal.json"
     },
     {
+      "igdb_id": 338930,
+      "game_name": "Metahorror Therapy Session",
+      "file": "missing/M/338930-metahorror-therapy-session.json"
+    },
+    {
       "igdb_id": 95217,
       "game_name": "Metal",
       "file": "missing/M/95217-metal.json"
@@ -308718,6 +308868,11 @@
       "file": "missing/M/292827-mutant-herd.json"
     },
     {
+      "igdb_id": 338909,
+      "game_name": "Mutant Hunter",
+      "file": "missing/M/338909-mutant-hunter.json"
+    },
+    {
       "igdb_id": 214156,
       "game_name": "Mutant Karate Canary",
       "file": "missing/M/214156-mutant-karate-canary.json"
@@ -313476,6 +313631,21 @@
       "igdb_id": 107661,
       "game_name": "Name That Letter - a Phonics Game",
       "file": "missing/N/107661-name-that-letter-a-phonics-game.json"
+    },
+    {
+      "igdb_id": 338935,
+      "game_name": "Name That NG Character",
+      "file": "missing/N/338935-name-that-ng-character.json"
+    },
+    {
+      "igdb_id": 338933,
+      "game_name": "Name That Pokemon",
+      "file": "missing/N/338933-name-that-pokemon.json"
+    },
+    {
+      "igdb_id": 338938,
+      "game_name": "Name That Pokémon: Red & Blue",
+      "file": "missing/N/338938-name-that-pokemon-red-and-blue.json"
     },
     {
       "igdb_id": 326960,
@@ -322423,6 +322593,11 @@
       "file": "missing/N/315840-ninja-girls-kunoichi-puzzle.json"
     },
     {
+      "igdb_id": 338937,
+      "game_name": "Ninja Glove",
+      "file": "missing/N/338937-ninja-glove.json"
+    },
+    {
       "igdb_id": 346042,
       "game_name": "Ninja Hattori-kun",
       "file": "missing/N/346042-ninja-hattori-kun.json"
@@ -327198,6 +327373,11 @@
       "file": "missing/O/293914-o-conde-de-monte-cristo.json"
     },
     {
+      "igdb_id": 338939,
+      "game_name": "O Horror Amarelo",
+      "file": "missing/O/338939-o-horror-amarelo.json"
+    },
+    {
       "igdb_id": 121649,
       "game_name": "O Rei",
       "file": "missing/O/121649-o-rei.json"
@@ -329671,6 +329851,11 @@
       "igdb_id": 371886,
       "game_name": "Okiro",
       "file": "missing/O/371886-okiro.json"
+    },
+    {
+      "igdb_id": 338923,
+      "game_name": "Okko the Exiled",
+      "file": "missing/O/338923-okko-the-exiled.json"
     },
     {
       "igdb_id": 60799,
@@ -357486,6 +357671,11 @@
       "igdb_id": 288206,
       "game_name": "Pokemon FireRed and LeafGreen+",
       "file": "missing/P/288206-pokemon-firered-and-leafgreen.json"
+    },
+    {
+      "igdb_id": 338914,
+      "game_name": "Pokémon FireRed Deluxe",
+      "file": "missing/P/338914-pokemon-firered-deluxe.json"
     },
     {
       "igdb_id": 136877,
@@ -394663,6 +394853,11 @@
       "file": "missing/R/24144-rpg-maker-3.json"
     },
     {
+      "igdb_id": 338946,
+      "game_name": "RPG Maker Coloring Book",
+      "file": "missing/R/338946-rpg-maker-coloring-book.json"
+    },
+    {
       "igdb_id": 43556,
       "game_name": "RPG Maker II",
       "file": "missing/R/43556-rpg-maker-ii.json"
@@ -422363,6 +422558,11 @@
       "file": "missing/S/73807-slingo-quest-hawaii.json"
     },
     {
+      "igdb_id": 338940,
+      "game_name": "Slingoween",
+      "file": "missing/S/338940-slingoween.json"
+    },
+    {
       "igdb_id": 60577,
       "game_name": "Slingshot",
       "file": "missing/S/60577-slingshot.json"
@@ -428866,6 +429066,11 @@
       "igdb_id": 326806,
       "game_name": "Sonic Battle 2",
       "file": "missing/S/326806-sonic-battle-2.json"
+    },
+    {
+      "igdb_id": 338941,
+      "game_name": "Sonic Battle Cards",
+      "file": "missing/S/338941-sonic-battle-cards.json"
     },
     {
       "igdb_id": 266507,
@@ -438141,6 +438346,11 @@
       "igdb_id": 68603,
       "game_name": "Sponchies",
       "file": "missing/S/68603-sponchies.json"
+    },
+    {
+      "igdb_id": 338942,
+      "game_name": "Spongebob & Patrick: Dirty Bubble Busters",
+      "file": "missing/S/338942-spongebob-and-patrick-dirty-bubble-busters.json"
     },
     {
       "igdb_id": 341664,
@@ -454318,6 +454528,11 @@
       "file": "missing/S/276164-super-elastic.json"
     },
     {
+      "igdb_id": 338922,
+      "game_name": "Super Engine GT Turbo SPEC",
+      "file": "missing/S/338922-super-engine-gt-turbo-spec.json"
+    },
+    {
       "igdb_id": 295025,
       "game_name": "Super Falling Fred",
       "file": "missing/S/295025-super-falling-fred.json"
@@ -458451,6 +458666,11 @@
       "igdb_id": 58223,
       "game_name": "Super Stickman Golf 3",
       "file": "missing/S/58223-super-stickman-golf-3.json"
+    },
+    {
+      "igdb_id": 338948,
+      "game_name": "Super Stream-Bara",
+      "file": "missing/S/338948-super-stream-bara.json"
     },
     {
       "igdb_id": 64097,
@@ -496453,6 +496673,11 @@
       "file": "missing/T/156100-the-terrible-old-man-collectors-edition.json"
     },
     {
+      "igdb_id": 338912,
+      "game_name": "The Terror At Freddy's",
+      "file": "missing/T/338912-the-terror-at-freddys.json"
+    },
+    {
       "igdb_id": 232557,
       "game_name": "The Terrors of Trantoss",
       "file": "missing/T/232557-the-terrors-of-trantoss.json"
@@ -501266,6 +501491,11 @@
       "igdb_id": 277597,
       "game_name": "This Is How U Look Saying This Shit",
       "file": "missing/T/277597-this-is-how-u-look-saying-this-shit.json"
+    },
+    {
+      "igdb_id": 338943,
+      "game_name": "This is Interesting",
+      "file": "missing/T/338943-this-is-interesting.json"
     },
     {
       "igdb_id": 370673,
@@ -507431,6 +507661,11 @@
       "igdb_id": 185618,
       "game_name": "Tiny Pixel Wars",
       "file": "missing/T/185618-tiny-pixel-wars.json"
+    },
+    {
+      "igdb_id": 338928,
+      "game_name": "Tiny Pixels Vol. 2: Stormy Knights",
+      "file": "missing/T/338928-tiny-pixels-vol-2-stormy-knights.json"
     },
     {
       "igdb_id": 150603,
@@ -518263,6 +518498,11 @@
       "file": "missing/T/230298-transport-inators-of-doooom.json"
     },
     {
+      "igdb_id": 338951,
+      "game_name": "Transporter",
+      "file": "missing/T/338951-transporter.json"
+    },
+    {
       "igdb_id": 92434,
       "game_name": "Transporter the Rescue",
       "file": "missing/T/92434-transporter-the-rescue.json"
@@ -518276,6 +518516,11 @@
       "igdb_id": 109417,
       "game_name": "Transpose",
       "file": "missing/T/109417-transpose.json"
+    },
+    {
+      "igdb_id": 338950,
+      "game_name": "Transregnum",
+      "file": "missing/T/338950-transregnum.json"
     },
     {
       "igdb_id": 239879,
@@ -520576,6 +520821,11 @@
       "igdb_id": 187456,
       "game_name": "Trivia for Dummies",
       "file": "missing/T/187456-trivia-for-dummies.json"
+    },
+    {
+      "igdb_id": 338920,
+      "game_name": "Trivia Murder Party 3",
+      "file": "missing/T/338920-trivia-murder-party-3.json"
     },
     {
       "igdb_id": 41955,
