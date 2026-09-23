@@ -4958,6 +4958,41 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pristine World: Deluxe Edition | 53474 | [53474-pristine-world-deluxe-edition.json](./53474-pristine-world-deluxe-edition.json) |
 | Pristontale II: The 2nd Enigma | 72657 | [72657-pristontale-ii-the-2nd-enigma.json](./72657-pristontale-ii-the-2nd-enigma.json) |
 | Priton | 91948 | [91948-priton.json](./91948-priton.json) |
+| Pritto Prisoner: Character Stamp Collection | 381810 | [381810-pritto-prisoner-character-stamp-collection.json](./381810-pritto-prisoner-character-stamp-collection.json) |
+| Pritto Prisoner: Deco Set - Hamburger Pack | 381818 | [381818-pritto-prisoner-deco-set-hamburger-pack.json](./381818-pritto-prisoner-deco-set-hamburger-pack.json) |
+| Pritto Prisoner: Decoration - Baby Angel | 381811 | [381811-pritto-prisoner-decoration-baby-angel.json](./381811-pritto-prisoner-decoration-baby-angel.json) |
+| Pritto Prisoner: Decoration - Devil Glasses | 381812 | [381812-pritto-prisoner-decoration-devil-glasses.json](./381812-pritto-prisoner-decoration-devil-glasses.json) |
+| Pritto Prisoner: Decoration - Devil's Horns | 381813 | [381813-pritto-prisoner-decoration-devils-horns.json](./381813-pritto-prisoner-decoration-devils-horns.json) |
+| Pritto Prisoner: Decoration - Halo | 381814 | [381814-pritto-prisoner-decoration-halo.json](./381814-pritto-prisoner-decoration-halo.json) |
+| Pritto Prisoner: Decoration - Little Devil | 381815 | [381815-pritto-prisoner-decoration-little-devil.json](./381815-pritto-prisoner-decoration-little-devil.json) |
+| Pritto Prisoner: Decoration - Poopie Doll | 381816 | [381816-pritto-prisoner-decoration-poopie-doll.json](./381816-pritto-prisoner-decoration-poopie-doll.json) |
+| Pritto Prisoner: Decoration - Sparkling Eyes | 381817 | [381817-pritto-prisoner-decoration-sparkling-eyes.json](./381817-pritto-prisoner-decoration-sparkling-eyes.json) |
+| Pritto Prisoner: DLC Skin - Biped Skin: Bloody | 381819 | [381819-pritto-prisoner-dlc-skin-biped-skin-bloody.json](./381819-pritto-prisoner-dlc-skin-biped-skin-bloody.json) |
+| Pritto Prisoner: DLC Skin - Biped Skin: Camouflage | 381820 | [381820-pritto-prisoner-dlc-skin-biped-skin-camouflage.json](./381820-pritto-prisoner-dlc-skin-biped-skin-camouflage.json) |
+| Pritto Prisoner: DLC Skin - Blowgun Skin: Bloody | 381821 | [381821-pritto-prisoner-dlc-skin-blowgun-skin-bloody.json](./381821-pritto-prisoner-dlc-skin-blowgun-skin-bloody.json) |
+| Pritto Prisoner: DLC Skin - Blowgun Skin: Camouflage | 381822 | [381822-pritto-prisoner-dlc-skin-blowgun-skin-camouflage.json](./381822-pritto-prisoner-dlc-skin-blowgun-skin-camouflage.json) |
+| Pritto Prisoner: DLC Skin - Butterfly Net Skin: Bloody | 381823 | [381823-pritto-prisoner-dlc-skin-butterfly-net-skin-bloody.json](./381823-pritto-prisoner-dlc-skin-butterfly-net-skin-bloody.json) |
+| Pritto Prisoner: DLC Skin - Butterfly Net Skin: Camouflage | 381824 | [381824-pritto-prisoner-dlc-skin-butterfly-net-skin-camouflage.json](./381824-pritto-prisoner-dlc-skin-butterfly-net-skin-camouflage.json) |
+| Pritto Prisoner: DLC Skin - Cindy | 381825 | [381825-pritto-prisoner-dlc-skin-cindy.json](./381825-pritto-prisoner-dlc-skin-cindy.json) |
+| Pritto Prisoner: DLC Skin - Dear Ruth | 381826 | [381826-pritto-prisoner-dlc-skin-dear-ruth.json](./381826-pritto-prisoner-dlc-skin-dear-ruth.json) |
+| Pritto Prisoner: DLC Skin - Dr. Psycho | 381827 | [381827-pritto-prisoner-dlc-skin-dr-psycho.json](./381827-pritto-prisoner-dlc-skin-dr-psycho.json) |
+| Pritto Prisoner: DLC Skin - Kimura | 381828 | [381828-pritto-prisoner-dlc-skin-kimura.json](./381828-pritto-prisoner-dlc-skin-kimura.json) |
+| Pritto Prisoner: DLC Skin - Lasso Skin: Bloody | 381829 | [381829-pritto-prisoner-dlc-skin-lasso-skin-bloody.json](./381829-pritto-prisoner-dlc-skin-lasso-skin-bloody.json) |
+| Pritto Prisoner: DLC Skin - Lasso Skin: Camouflage | 381830 | [381830-pritto-prisoner-dlc-skin-lasso-skin-camouflage.json](./381830-pritto-prisoner-dlc-skin-lasso-skin-camouflage.json) |
+| Pritto Prisoner: DLC Skin - Master Shion | 381831 | [381831-pritto-prisoner-dlc-skin-master-shion.json](./381831-pritto-prisoner-dlc-skin-master-shion.json) |
+| Pritto Prisoner: DLC Skin - Michael | 381832 | [381832-pritto-prisoner-dlc-skin-michael.json](./381832-pritto-prisoner-dlc-skin-michael.json) |
+| Pritto Prisoner: DLC Skin - Mr. Multi | 381833 | [381833-pritto-prisoner-dlc-skin-mr-multi.json](./381833-pritto-prisoner-dlc-skin-mr-multi.json) |
+| Pritto Prisoner: DLC Skin - Multi-Leg Skin: Bloody | 381834 | [381834-pritto-prisoner-dlc-skin-multi-leg-skin-bloody.json](./381834-pritto-prisoner-dlc-skin-multi-leg-skin-bloody.json) |
+| Pritto Prisoner: DLC Skin - Multi-Leg Skin: Camouflage | 381835 | [381835-pritto-prisoner-dlc-skin-multi-leg-skin-camouflage.json](./381835-pritto-prisoner-dlc-skin-multi-leg-skin-camouflage.json) |
+| Pritto Prisoner: DLC Skin - Stun Gun Skin: Bloody | 381836 | [381836-pritto-prisoner-dlc-skin-stun-gun-skin-bloody.json](./381836-pritto-prisoner-dlc-skin-stun-gun-skin-bloody.json) |
+| Pritto Prisoner: DLC Skin - Stun Gun Skin: Camouflage | 381837 | [381837-pritto-prisoner-dlc-skin-stun-gun-skin-camouflage.json](./381837-pritto-prisoner-dlc-skin-stun-gun-skin-camouflage.json) |
+| Pritto Prisoner: DLC Skin - Tamami | 381838 | [381838-pritto-prisoner-dlc-skin-tamami.json](./381838-pritto-prisoner-dlc-skin-tamami.json) |
+| Pritto Prisoner: DLC Skin - Tank Skin: Bloody | 381839 | [381839-pritto-prisoner-dlc-skin-tank-skin-bloody.json](./381839-pritto-prisoner-dlc-skin-tank-skin-bloody.json) |
+| Pritto Prisoner: DLC Skin - Tank Skin: Camouflage | 381840 | [381840-pritto-prisoner-dlc-skin-tank-skin-camouflage.json](./381840-pritto-prisoner-dlc-skin-tank-skin-camouflage.json) |
+| Pritto Prisoner: DLC Skin - Wheels Skin: Bloody | 381841 | [381841-pritto-prisoner-dlc-skin-wheels-skin-bloody.json](./381841-pritto-prisoner-dlc-skin-wheels-skin-bloody.json) |
+| Pritto Prisoner: DLC Skin - Wheels Skin: Camouflage | 381842 | [381842-pritto-prisoner-dlc-skin-wheels-skin-camouflage.json](./381842-pritto-prisoner-dlc-skin-wheels-skin-camouflage.json) |
+| Pritto Prisoner: DLC Skin - Zoch | 381843 | [381843-pritto-prisoner-dlc-skin-zoch.json](./381843-pritto-prisoner-dlc-skin-zoch.json) |
+| Pritto Prisoner: Robot Skin - Bloody Pack | 381844 | [381844-pritto-prisoner-robot-skin-bloody-pack.json](./381844-pritto-prisoner-robot-skin-bloody-pack.json) |
 | Private Dance VR | 286534 | [286534-private-dance-vr.json](./286534-private-dance-vr.json) |
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
