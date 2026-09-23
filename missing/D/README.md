@@ -73,6 +73,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
 | Dacholer | 196168 | [196168-dacholer.json](./196168-dacholer.json) |
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
+| DACHstudio Puzzle Box: Falkis Potpourri | 357981 | [357981-dachstudio-puzzle-box-falkis-potpourri.json](./357981-dachstudio-puzzle-box-falkis-potpourri.json) |
+| DACHstudio Puzzle Box: Melextis' Unicorns | 357984 | [357984-dachstudio-puzzle-box-melextis-unicorns.json](./357984-dachstudio-puzzle-box-melextis-unicorns.json) |
+| DACHstudio Puzzle Box: Nebbi's Animal Photos | 357983 | [357983-dachstudio-puzzle-box-nebbis-animal-photos.json](./357983-dachstudio-puzzle-box-nebbis-animal-photos.json) |
+| DACHstudio Puzzle Box: Sanguinik's hidden object tour in Görlitz/Zgorzelec | 357982 | [357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json](./357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Dactylographe | 183533 | [183533-dactylographe.json](./183533-dactylographe.json) |
 | Dad Beat Dads | 34847 | [34847-dad-beat-dads.json](./34847-dad-beat-dads.json) |
