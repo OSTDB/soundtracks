@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
 | Voodoo Whisperer Curse of a Legend | 17202 | [17202-voodoo-whisperer-curse-of-a-legend.json](./17202-voodoo-whisperer-curse-of-a-legend.json) |
 | Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
+| Voody Hex | 391326 | [391326-voody-hex.json](./391326-voody-hex.json) |
 | Vorago | 312560 | [312560-vorago.json](./312560-vorago.json) |
 | Voraxis | 387350 | [387350-voraxis.json](./387350-voraxis.json) |
 | Vorble | 22208 | [22208-vorble.json](./22208-vorble.json) |
