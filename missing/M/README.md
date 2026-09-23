@@ -4960,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modest Kind | 68613 | [68613-modest-kind.json](./68613-modest-kind.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
+| Module | 372651 | [372651-module.json](./372651-module.json) |
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
 | MOE Emo Girls Multiplayer | 300373 | [300373-moe-emo-girls-multiplayer.json](./300373-moe-emo-girls-multiplayer.json) |
 | Moe Hypnotist: Share Dreams With You | 113658 | [113658-moe-hypnotist-share-dreams-with-you.json](./113658-moe-hypnotist-share-dreams-with-you.json) |
@@ -6317,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
+| Mr. Hoob! | 372695 | [372695-mr-hoob.json](./372695-mr-hoob.json) |
 | Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
 | Mr. Krasnoludek, Teach Me Your Magic Spells | 169879 | [169879-mr-krasnoludek-teach-me-your-magic-spells.json](./169879-mr-krasnoludek-teach-me-your-magic-spells.json) |
 | Mr. Krussy Requires Souls of the Damned | 177491 | [177491-mr-krussy-requires-souls-of-the-damned.json](./177491-mr-krussy-requires-souls-of-the-damned.json) |
@@ -7104,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Own Hero Party | 412980 | [412980-my-own-hero-party.json](./412980-my-own-hero-party.json) |
 | My Own Murder | 345049 | [345049-my-own-murder.json](./345049-my-own-murder.json) |
 | My Own Sweet Dionaea | 382213 | [382213-my-own-sweet-dionaea.json](./382213-my-own-sweet-dionaea.json) |
+| My Peephole: Hotel Harborview | 372670 | [372670-my-peephole-hotel-harborview.json](./372670-my-peephole-hotel-harborview.json) |
 | My Personal Hater | 388229 | [388229-my-personal-hater.json](./388229-my-personal-hater.json) |
 | My Pet Fan | 351721 | [351721-my-pet-fan.json](./351721-my-pet-fan.json) |
 | My Pet Femboy | 355617 | [355617-my-pet-femboy.json](./355617-my-pet-femboy.json) |
