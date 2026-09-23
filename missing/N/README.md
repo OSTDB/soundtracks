@@ -456,6 +456,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazoler Land Dai 3-gou | 41399 | [41399-nazoler-land-dai-3-gou.json](./41399-nazoler-land-dai-3-gou.json) |
 | Nazoler Land Soukan-gou | 41398 | [41398-nazoler-land-soukan-gou.json](./41398-nazoler-land-soukan-gou.json) |
 | Nazoler Land Special!! Quiz-Ou wo Ikuse | 41397 | [41397-nazoler-land-special-quiz-ou-wo-ikuse.json](./41397-nazoler-land-special-quiz-ou-wo-ikuse.json) |
+| Nazono-Jikenbo: Chinurareta Bungaku-sho Satsujin Jiken | 349498 | [349498-nazono-jikenbo-chinurareta-bungaku-sho-satsujin-jiken.json](./349498-nazono-jikenbo-chinurareta-bungaku-sho-satsujin-jiken.json) |
+| Nazono-Jikenbo: Konchuu Gakusha Satsujin Jiken | 349502 | [349502-nazono-jikenbo-konchuu-gakusha-satsujin-jiken.json](./349502-nazono-jikenbo-konchuu-gakusha-satsujin-jiken.json) |
+| Nazono-Jikenbo: Senjou no Shoushitsu Jiken | 349500 | [349500-nazono-jikenbo-senjou-no-shoushitsu-jiken.json](./349500-nazono-jikenbo-senjou-no-shoushitsu-jiken.json) |
+| Nazono-Jikenbo: Shinjuku Renzoku Quiz Jiken | 349506 | [349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json](./349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json) |
+| Nazono-Jikenbo: The Composer Murder Case. | 349510 | [349510-nazono-jikenbo-the-composer-murder-case.json](./349510-nazono-jikenbo-the-composer-murder-case.json) |
 | Nazotoki IQ Quiz | 261372 | [261372-nazotoki-iq-quiz.json](./261372-nazotoki-iq-quiz.json) |
 | Nazotoki no Jikan: Thrill Suspense na Nazotoki Dasshutsu Mystery Suiri Game | 222388 | [222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json](./222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json) |
 | Nazotoki Suiri! Yuuzai? Muzai? | 251606 | [251606-nazotoki-suiri-yuuzai-muzai.json](./251606-nazotoki-suiri-yuuzai-muzai.json) |
@@ -595,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebo | 182927 | [182927-nebo.json](./182927-nebo.json) |
 | Nebs | 159183 | [159183-nebs.json](./159183-nebs.json) |
 | Nebs 'n Debs | 134460 | [134460-nebs-n-debs.json](./134460-nebs-n-debs.json) |
+| Nebs' Island Adventure | 349496 | [349496-nebs-island-adventure.json](./349496-nebs-island-adventure.json) |
 | Nebuchadnezzar | 126806 | [126806-nebuchadnezzar.json](./126806-nebuchadnezzar.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
 | Nebula | 329118 | [329118-nebula.json](./329118-nebula.json) |
@@ -2086,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Cortarás a tu Hermana con el Filo de Esta Espada | 135690 | [135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json](./135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
+| No Death in Wild West | 349516 | [349516-no-death-in-wild-west.json](./349516-no-death-in-wild-west.json) |
 | No Deck? No Dice? | 184471 | [184471-no-deck-no-dice.json](./184471-no-deck-no-dice.json) |
 | No Door Can Not be Opened with a Non-black Key | 355192 | [355192-no-door-can-not-be-opened-with-a-non-black-key.json](./355192-no-door-can-not-be-opened-with-a-non-black-key.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
