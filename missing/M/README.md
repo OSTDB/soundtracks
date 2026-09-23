@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make me Float | 236959 | [236959-make-me-float.json](./236959-make-me-float.json) |
 | Make Merits in Another World | 370193 | [370193-make-merits-in-another-world.json](./370193-make-merits-in-another-world.json) |
 | Make Moku Proud | 395568 | [395568-make-moku-proud.json](./395568-make-moku-proud.json) |
+| Make My Car | 346227 | [346227-make-my-car.json](./346227-make-my-car.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
 | Make Route | 109658 | [109658-make-route.json](./109658-make-route.json) |
 | Make Sure It's Closed | 176491 | [176491-make-sure-its-closed.json](./176491-make-sure-its-closed.json) |
@@ -5263,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Game | 129721 | [129721-mole-game.json](./129721-mole-game.json) |
 | Mole Gem Mayhem | 294988 | [294988-mole-gem-mayhem.json](./294988-mole-gem-mayhem.json) |
 | Mole Maiden | 205035 | [205035-mole-maiden.json](./205035-mole-maiden.json) |
+| Mole Mayhem | 346259 | [346259-mole-mayhem.json](./346259-mole-mayhem.json) |
 | Mole Mine Rocks 0.15 | 321164 | [321164-mole-mine-rocks-0-15.json](./321164-mole-mine-rocks-0-15.json) |
 | Mole Mole | 47523 | [47523-mole-mole.json](./47523-mole-mole.json) |
 | Mole Mole 2 | 47522 | [47522-mole-mole-2.json](./47522-mole-mole-2.json) |
@@ -5843,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
 | Moon Lab Shooter | 235773 | [235773-moon-lab-shooter.json](./235773-moon-lab-shooter.json) |
 | Moon Lander | 41989 | [41989-moon-lander.json](./41989-moon-lander.json) |
+| Moon Maiden: Terror on Planet X | 346256 | [346256-moon-maiden-terror-on-planet-x.json](./346256-moon-maiden-terror-on-planet-x.json) |
 | Moon Miner | 410337 | [410337-moon-miner.json](./410337-moon-miner.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
 | Moon Mystery | 196935 | [196935-moon-mystery.json](./196935-moon-mystery.json) |
@@ -7314,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Make-Up | 93985 | [93985-my-make-up.json](./93985-my-make-up.json) |
+| My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
 | My Merry Maybe | 247509 | [247509-my-merry-maybe.json](./247509-my-merry-maybe.json) |
