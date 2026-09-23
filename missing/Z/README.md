@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Zombie Invasion | 208455 | [208455-zaccaria-pinball-zombie-invasion.json](./208455-zaccaria-pinball-zombie-invasion.json) |
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
+| Zackman | 385842 | [385842-zackman.json](./385842-zackman.json) |
 | Zad Maldan My Bloody Sacrifice | 219679 | [219679-zad-maldan-my-bloody-sacrifice.json](./219679-zad-maldan-my-bloody-sacrifice.json) |
 | Zadel Princess | 191827 | [191827-zadel-princess.json](./191827-zadel-princess.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
