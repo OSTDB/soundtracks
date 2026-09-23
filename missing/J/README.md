@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Oshaberi Parodius | 38390 | [38390-jikkyou-oshaberi-parodius.json](./38390-jikkyou-oshaberi-parodius.json) |
 | Jikkyou Pawafuru Major League | 69275 | [69275-jikkyou-pawafuru-major-league.json](./69275-jikkyou-pawafuru-major-league.json) |
 | Jikkyou Pawafuru Major League 2009 | 69266 | [69266-jikkyou-pawafuru-major-league-2009.json](./69266-jikkyou-pawafuru-major-league-2009.json) |
+| Jikkyou Pawafuru Pro Yakyuu '96 | 384770 | [384770-jikkyou-pawafuru-pro-yakyuu-96.json](./384770-jikkyou-pawafuru-pro-yakyuu-96.json) |
 | Jikkyou Pawafuru Pro Yakyuu '96: Kaimaku-ban | 42644 | [42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json](./42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json) |
 | Jikkyou Pawafuru Pro Yakyuu: Basic-ban '98 | 37207 | [37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json](./37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json) |
 | Jikkyou Pawafuru Puroyakyu '95 | 63563 | [63563-jikkyou-pawafuru-puroyakyu-95.json](./63563-jikkyou-pawafuru-puroyakyu-95.json) |
