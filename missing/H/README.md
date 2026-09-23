@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heralds of the Avirentes: Ch. 1 - Wings of Change | 244474 | [244474-heralds-of-the-avirentes-ch-1-wings-of-change.json](./244474-heralds-of-the-avirentes-ch-1-wings-of-change.json) |
 | Heralds of The Order | 108466 | [108466-heralds-of-the-order.json](./108466-heralds-of-the-order.json) |
 | Herb Garden Tycoon | 237669 | [237669-herb-garden-tycoon.json](./237669-herb-garden-tycoon.json) |
+| Herb Seek Slash | 345688 | [345688-herb-seek-slash.json](./345688-herb-seek-slash.json) |
 | Herb Tea Man | 391724 | [391724-herb-tea-man.json](./391724-herb-tea-man.json) |
 | Herbal Haven | 374797 | [374797-herbal-haven.json](./374797-herbal-haven.json) |
 | Herbal Remedies | 266203 | [266203-herbal-remedies.json](./266203-herbal-remedies.json) |
