@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paco and the Tumbling Seed Box | 138051 | [138051-paco-and-the-tumbling-seed-box.json](./138051-paco-and-the-tumbling-seed-box.json) |
 | Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
 | Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
+| Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
 | Pad Quad | 376144 | [376144-pad-quad.json](./376144-pad-quad.json) |
@@ -2248,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
 | Pictos | 175277 | [175277-pictos.json](./175277-pictos.json) |
 | Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
+| Picture Cross Color | 345132 | [345132-picture-cross-color.json](./345132-picture-cross-color.json) |
 | Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
@@ -2554,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinbot | 295908 | [295908-pinbot.json](./295908-pinbot.json) |
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
+| Pinchcliffe Grand Prix: Anniversary Edition | 345121 | [345121-pinchcliffe-grand-prix-anniversary-edition.json](./345121-pinchcliffe-grand-prix-anniversary-edition.json) |
 | Pincremental | 138720 | [138720-pincremental.json](./138720-pincremental.json) |
 | Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
