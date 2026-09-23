@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend from Hell | 278416 | [278416-girlfriend-from-hell.json](./278416-girlfriend-from-hell.json) |
 | Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
 | Girlfriend Rescue | 10364 | [10364-girlfriend-rescue.json](./10364-girlfriend-rescue.json) |
+| Girlfriend Simulator | 379587 | [379587-girlfriend-simulator.json](./379587-girlfriend-simulator.json) |
 | Girlfriend's sister | 75784 | [75784-girlfriends-sister.json](./75784-girlfriends-sister.json) |
 | Girlfriends Forever: Magic Skate | 84511 | [84511-girlfriends-forever-magic-skate.json](./84511-girlfriends-forever-magic-skate.json) |
 | Girlish Grimoire Littlewitch Romanesque: Editio Perfecta | 50166 | [50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json](./50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json) |
@@ -2775,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandmother's Tale | 153872 | [153872-grandmothers-tale.json](./153872-grandmothers-tale.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandpa's Workshop | 68925 | [68925-grandpas-workshop.json](./68925-grandpas-workshop.json) |
+| Grandslam Gamer Gold Collection | 379589 | [379589-grandslam-gamer-gold-collection.json](./379589-grandslam-gamer-gold-collection.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
 | Grandzenka | 208972 | [208972-grandzenka.json](./208972-grandzenka.json) |
 | Granny Escape | 238629 | [238629-granny-escape.json](./238629-granny-escape.json) |
