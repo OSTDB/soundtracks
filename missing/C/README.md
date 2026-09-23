@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
 | Century: Age of Ashes - Valkurian Prelude Edition | 218491 | [218491-century-age-of-ashes-valkurian-prelude-edition.json](./218491-century-age-of-ashes-valkurian-prelude-edition.json) |
+| Century: Wishbringer Pack | 340566 | [340566-century-wishbringer-pack.json](./340566-century-wishbringer-pack.json) |
 | CEO City | 316287 | [316287-ceo-city.json](./316287-ceo-city.json) |
 | Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
 | Cepheus Protocol: Project Fenrir | 281986 | [281986-cepheus-protocol-project-fenrir.json](./281986-cepheus-protocol-project-fenrir.json) |
@@ -6030,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures Like Us | 415171 | [415171-creatures-like-us.json](./415171-creatures-like-us.json) |
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
 | Creatures Playground | 11378 | [11378-creatures-playground.json](./11378-creatures-playground.json) |
+| Creaturing: Sea Wonders | 340561 | [340561-creaturing-sea-wonders.json](./340561-creaturing-sea-wonders.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
 | Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
@@ -6463,6 +6465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucial 2: The Refresh Update | 290398 | [290398-crucial-2-the-refresh-update.json](./290398-crucial-2-the-refresh-update.json) |
 | Crucible | 24653 | [24653-crucible.json](./24653-crucible.json) |
 | Crucible Falls: Together Forever | 96959 | [96959-crucible-falls-together-forever.json](./96959-crucible-falls-together-forever.json) |
+| Crucible of the Forgotten | 340585 | [340585-crucible-of-the-forgotten.json](./340585-crucible-of-the-forgotten.json) |
 | Crucible Of Time | 359041 | [359041-crucible-of-time.json](./359041-crucible-of-time.json) |
 | Crucible TD | 380098 | [380098-crucible-td.json](./380098-crucible-td.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
@@ -6819,6 +6822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
 | Cubesis | 36225 | [36225-cubesis.json](./36225-cubesis.json) |
+| Cubetory | 340574 | [340574-cubetory.json](./340574-cubetory.json) |
 | Cubettiny | 383651 | [383651-cubettiny.json](./383651-cubettiny.json) |
 | CubeWorks | 61890 | [61890-cubeworks.json](./61890-cubeworks.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
