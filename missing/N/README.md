@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nama Chuukei 68 | 98256 | [98256-nama-chuukei-68.json](./98256-nama-chuukei-68.json) |
 | Namachuukei 68 | 127787 | [127787-namachuukei-68.json](./127787-namachuukei-68.json) |
 | Namaiki Dark Elf 3 Shimai ga Boku ni Nakadashi o Motomeru. | 108976 | [108976-namaiki-dark-elf-3-shimai-ga-boku-ni-nakadashi-o-motomeru.json](./108976-namaiki-dark-elf-3-shimai-ga-boku-ni-nakadashi-o-motomeru.json) |
+| Namakorium | 363010 | [363010-namakorium.json](./363010-namakorium.json) |
 | Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
 | Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
