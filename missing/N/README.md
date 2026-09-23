@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights: Journey of Dreams | 5074 | [5074-nights-journey-of-dreams.json](./5074-nights-journey-of-dreams.json) |
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
+| Nightshade Mysteries: Eternal Moon - Collector's Edition | 345674 | [345674-nightshade-mysteries-eternal-moon-collectors-edition.json](./345674-nightshade-mysteries-eternal-moon-collectors-edition.json) |
 | Nightshift | 163295 | [163295-nightshift.json](./163295-nightshift.json) |
 | Nightshift | 271202 | [271202-nightshift.json](./271202-nightshift.json) |
 | Nightshift at the Beta Museum | 408141 | [408141-nightshift-at-the-beta-museum.json](./408141-nightshift-at-the-beta-museum.json) |
@@ -2776,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
 | Nurikabe | 105092 | [105092-nurikabe.json](./105092-nurikabe.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
+| Nurilogy 1000 | 345709 | [345709-nurilogy-1000.json](./345709-nurilogy-1000.json) |
 | Nurny Battles HD | 402380 | [402380-nurny-battles-hd.json](./402380-nurny-battles-hd.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
 | Nurse Enjoy Gyaru Pack | 186233 | [186233-nurse-enjoy-gyaru-pack.json](./186233-nurse-enjoy-gyaru-pack.json) |
