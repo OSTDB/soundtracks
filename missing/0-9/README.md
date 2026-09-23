@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 814 | 262347 | [262347-814.json](./262347-814.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
 | 82-0 | 407398 | [407398-82-0.json](./407398-82-0.json) |
+| 86'd | 387024 | [387024-86d.json](./387024-86d.json) |
 | 868-Hack | 17034 | [17034-868-hack.json](./17034-868-hack.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8AM | 288739 | [288739-8am.json](./288739-8am.json) |
