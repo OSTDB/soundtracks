@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem Girl: Nikki | 196224 | [196224-harem-girl-nikki.json](./196224-harem-girl-nikki.json) |
 | Harem in Another World | 257952 | [257952-harem-in-another-world.json](./257952-harem-in-another-world.json) |
 | Harem Little Twins | 98453 | [98453-harem-little-twins.json](./98453-harem-little-twins.json) |
+| Harem of Gods | 359046 | [359046-harem-of-gods.json](./359046-harem-of-gods.json) |
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
 | Harem Survivor | 294147 | [294147-harem-survivor.json](./294147-harem-survivor.json) |
 | HaremMate | 22482 | [22482-haremmate.json](./22482-haremmate.json) |
