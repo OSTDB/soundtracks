@@ -3584,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurks Within Walls | 319221 | [319221-lurks-within-walls.json](./319221-lurks-within-walls.json) |
 | Lurn 2 Shell | 308391 | [308391-lurn-2-shell.json](./308391-lurn-2-shell.json) |
 | Lurruna: The Island of Towering Automatons | 397952 | [397952-lurruna-the-island-of-towering-automatons.json](./397952-lurruna-the-island-of-towering-automatons.json) |
+| Lushfoil Photography Sim VR | 360776 | [360776-lushfoil-photography-sim-vr.json](./360776-lushfoil-photography-sim-vr.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lusófona Games Collection 2025 | 406292 | [406292-lusofona-games-collection-2025.json](./406292-lusofona-games-collection-2025.json) |
 | Lust Academy: Season 1 | 195223 | [195223-lust-academy-season-1.json](./195223-lust-academy-season-1.json) |
