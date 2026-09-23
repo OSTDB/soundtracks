@@ -1494,6 +1494,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Airman | 219121 | [219121-mario-vs-airman.json](./219121-mario-vs-airman.json) |
 | Mario vs. Donkey Kong 2: March of the Minis - Cannon Kaos | 231640 | [231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json](./231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json) |
 | Mario vs. Donkey Kong Card e+ | 220855 | [220855-mario-vs-donkey-kong-card-e.json](./220855-mario-vs-donkey-kong-card-e.json) |
+| Mario vs. Donkey Kong Card e+: Hitasura Kawase! | 352408 | [352408-mario-vs-donkey-kong-card-e-hitasura-kawase.json](./352408-mario-vs-donkey-kong-card-e-hitasura-kawase.json) |
+| Mario vs. Donkey Kong Card e+: Osarete Susume! | 352410 | [352410-mario-vs-donkey-kong-card-e-osarete-susume.json](./352410-mario-vs-donkey-kong-card-e-osarete-susume.json) |
+| Mario vs. Donkey Kong-e: A Tricky Candle | 352405 | [352405-mario-vs-donkey-kong-e-a-tricky-candle.json](./352405-mario-vs-donkey-kong-e-a-tricky-candle.json) |
+| Mario vs. Donkey Kong-e: Boo in a Box | 352406 | [352406-mario-vs-donkey-kong-e-boo-in-a-box.json](./352406-mario-vs-donkey-kong-e-boo-in-a-box.json) |
+| Mario vs. Donkey Kong-e: Egg Attack | 352402 | [352402-mario-vs-donkey-kong-e-egg-attack.json](./352402-mario-vs-donkey-kong-e-egg-attack.json) |
+| Mario vs. Donkey Kong-e: Hot Feet | 352404 | [352404-mario-vs-donkey-kong-e-hot-feet.json](./352404-mario-vs-donkey-kong-e-hot-feet.json) |
+| Mario vs. Donkey Kong-e: Key to the Key | 352407 | [352407-mario-vs-donkey-kong-e-key-to-the-key.json](./352407-mario-vs-donkey-kong-e-key-to-the-key.json) |
+| Mario vs. Donkey Kong-e: Later Gator | 352403 | [352403-mario-vs-donkey-kong-e-later-gator.json](./352403-mario-vs-donkey-kong-e-later-gator.json) |
+| Mario vs. Donkey Kong-e: Revenge | 352401 | [352401-mario-vs-donkey-kong-e-revenge.json](./352401-mario-vs-donkey-kong-e-revenge.json) |
 | Mario vs. Donkey Kong: Tipping Stars | 8594 | [8594-mario-vs-donkey-kong-tipping-stars.json](./8594-mario-vs-donkey-kong-tipping-stars.json) |
 | Mario vs. Obama! | 315045 | [315045-mario-vs-obama.json](./315045-mario-vs-obama.json) |
 | Mario vs. Tarzan | 315046 | [315046-mario-vs-tarzan.json](./315046-mario-vs-tarzan.json) |
@@ -2661,17 +2670,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 3 White | 352863 | [352863-mega-man-battle-network-3-white.json](./352863-mega-man-battle-network-3-white.json) |
 | Mega Man Battle Network 6: Patch Card - Admission for Yuika's Show | 352727 | [352727-mega-man-battle-network-6-patch-card-admission-for-yuikas-show.json](./352727-mega-man-battle-network-6-patch-card-admission-for-yuikas-show.json) |
 | Mega Man Battle Network 6: Patch Card - Al's Boarding Ticket | 352714 | [352714-mega-man-battle-network-6-patch-card-als-boarding-ticket.json](./352714-mega-man-battle-network-6-patch-card-als-boarding-ticket.json) |
+| Mega Man Battle Network 6: Patch Card - Ammonicule | 352414 | [352414-mega-man-battle-network-6-patch-card-ammonicule.json](./352414-mega-man-battle-network-6-patch-card-ammonicule.json) |
 | Mega Man Battle Network 6: Patch Card - Baryl's Faith | 352724 | [352724-mega-man-battle-network-6-patch-card-baryls-faith.json](./352724-mega-man-battle-network-6-patch-card-baryls-faith.json) |
+| Mega Man Battle Network 6: Patch Card - Canodumb | 352413 | [352413-mega-man-battle-network-6-patch-card-canodumb.json](./352413-mega-man-battle-network-6-patch-card-canodumb.json) |
 | Mega Man Battle Network 6: Patch Card - Chaud's Mission | 352723 | [352723-mega-man-battle-network-6-patch-card-chauds-mission.json](./352723-mega-man-battle-network-6-patch-card-chauds-mission.json) |
+| Mega Man Battle Network 6: Patch Card - ColdBear | 352415 | [352415-mega-man-battle-network-6-patch-card-coldbear.json](./352415-mega-man-battle-network-6-patch-card-coldbear.json) |
 | Mega Man Battle Network 6: Patch Card - Dad's Debug Techniques | 352721 | [352721-mega-man-battle-network-6-patch-card-dads-debug-techniques.json](./352721-mega-man-battle-network-6-patch-card-dads-debug-techniques.json) |
 | Mega Man Battle Network 6: Patch Card - Dark Scyth's Shady Business | 352713 | [352713-mega-man-battle-network-6-patch-card-dark-scyths-shady-business.json](./352713-mega-man-battle-network-6-patch-card-dark-scyths-shady-business.json) |
 | Mega Man Battle Network 6: Patch Card - Dingo's Battle Cry | 352716 | [352716-mega-man-battle-network-6-patch-card-dingos-battle-cry.json](./352716-mega-man-battle-network-6-patch-card-dingos-battle-cry.json) |
 | Mega Man Battle Network 6: Patch Card - Double Beast | 352731 | [352731-mega-man-battle-network-6-patch-card-double-beast.json](./352731-mega-man-battle-network-6-patch-card-double-beast.json) |
 | Mega Man Battle Network 6: Patch Card - Falzar | 352733 | [352733-mega-man-battle-network-6-patch-card-falzar.json](./352733-mega-man-battle-network-6-patch-card-falzar.json) |
 | Mega Man Battle Network 6: Patch Card - Gregar | 352732 | [352732-mega-man-battle-network-6-patch-card-gregar.json](./352732-mega-man-battle-network-6-patch-card-gregar.json) |
+| Mega Man Battle Network 6: Patch Card - Heady | 352417 | [352417-mega-man-battle-network-6-patch-card-heady.json](./352417-mega-man-battle-network-6-patch-card-heady.json) |
 | Mega Man Battle Network 6: Patch Card - Iris's Kindness | 352725 | [352725-mega-man-battle-network-6-patch-card-iriss-kindness.json](./352725-mega-man-battle-network-6-patch-card-iriss-kindness.json) |
 | Mega Man Battle Network 6: Patch Card - Mamoru's Card | 352722 | [352722-mega-man-battle-network-6-patch-card-mamorus-card.json](./352722-mega-man-battle-network-6-patch-card-mamorus-card.json) |
 | Mega Man Battle Network 6: Patch Card - Master Feng-Tian's Instruction | 352717 | [352717-mega-man-battle-network-6-patch-card-master-feng-tians-instruction.json](./352717-mega-man-battle-network-6-patch-card-master-feng-tians-instruction.json) |
+| Mega Man Battle Network 6: Patch Card - MetFire | 352418 | [352418-mega-man-battle-network-6-patch-card-metfire.json](./352418-mega-man-battle-network-6-patch-card-metfire.json) |
+| Mega Man Battle Network 6: Patch Card - Miney | 352416 | [352416-mega-man-battle-network-6-patch-card-miney.json](./352416-mega-man-battle-network-6-patch-card-miney.json) |
 | Mega Man Battle Network 6: Patch Card - Moliarty's Drill Soul! | 352719 | [352719-mega-man-battle-network-6-patch-card-moliartys-drill-soul.json](./352719-mega-man-battle-network-6-patch-card-moliartys-drill-soul.json) |
 | Mega Man Battle Network 6: Patch Card - Mr. Match's Lesson Plans | 352710 | [352710-mega-man-battle-network-6-patch-card-mr-matchs-lesson-plans.json](./352710-mega-man-battle-network-6-patch-card-mr-matchs-lesson-plans.json) |
 | Mega Man Battle Network 6: Patch Card - Mr. Press's Recycling | 352720 | [352720-mega-man-battle-network-6-patch-card-mr-presss-recycling.json](./352720-mega-man-battle-network-6-patch-card-mr-presss-recycling.json) |
@@ -2869,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megapain | 398461 | [398461-megapain.json](./398461-megapain.json) |
 | MegaPak 1 | 138754 | [138754-megapak-1.json](./138754-megapak-1.json) |
 | Megaplex | 94722 | [94722-megaplex.json](./94722-megaplex.json) |
+| Megaplex Madness 2: Summer Blockbuster | 352383 | [352383-megaplex-madness-2-summer-blockbuster.json](./352383-megaplex-madness-2-summer-blockbuster.json) |
 | Megaplex Manager | 102116 | [102116-megaplex-manager.json](./102116-megaplex-manager.json) |
 | Megapolis | 196320 | [196320-megapolis.json](./196320-megapolis.json) |
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
@@ -4643,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
 | Mircea | 320739 | [320739-mircea.json](./320739-mircea.json) |
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
+| Mirealle | 352390 | [352390-mirealle.json](./352390-mirealle.json) |
 | Mireille and Amrita, the Forest of Illusions | 188512 | [188512-mireille-and-amrita-the-forest-of-illusions.json](./188512-mireille-and-amrita-the-forest-of-illusions.json) |
 | Mirelaine | 360065 | [360065-mirelaine.json](./360065-mirelaine.json) |
 | Mirk | 179584 | [179584-mirk.json](./179584-mirk.json) |
@@ -6112,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel 666 | 186165 | [186165-motel-666.json](./186165-motel-666.json) |
 | Motel Bondage | 385313 | [385313-motel-bondage.json](./385313-motel-bondage.json) |
 | Motel Snooze | 135800 | [135800-motel-snooze.json](./135800-motel-snooze.json) |
+| Motel Snooze: Suite Dreams | 352389 | [352389-motel-snooze-suite-dreams.json](./352389-motel-snooze-suite-dreams.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
 | Moth Manor | 229771 | [229771-moth-manor.json](./229771-moth-manor.json) |
