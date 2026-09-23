@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
 | Terrible Beast from the East | 111602 | [111602-terrible-beast-from-the-east.json](./111602-terrible-beast-from-the-east.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
+| Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
 | Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
@@ -5468,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit | 213417 | [213417-the-pit.json](./213417-the-pit.json) |
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
+| The Pixotron 49 | 352392 | [352392-the-pixotron-49.json](./352392-the-pixotron-49.json) |
 | The Pizza Delivery Boy Who Saved the World | 100595 | [100595-the-pizza-delivery-boy-who-saved-the-world.json](./100595-the-pizza-delivery-boy-who-saved-the-world.json) |
 | The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
@@ -5510,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
 | The Presidential Assassins | 345004 | [345004-the-presidential-assassins.json](./345004-the-presidential-assassins.json) |
+| The Pressure of Ambition | 352376 | [352376-the-pressure-of-ambition.json](./352376-the-pressure-of-ambition.json) |
 | The Price is Right | 78446 | [78446-the-price-is-right.json](./78446-the-price-is-right.json) |
 | The Price Is Right | 220105 | [220105-the-price-is-right.json](./220105-the-price-is-right.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
@@ -10055,6 +10058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToyBoxers! | 403180 | [403180-toyboxers.json](./403180-toyboxers.json) |
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
 | Toyland Racing | 73764 | [73764-toyland-racing.json](./73764-toyland-racing.json) |
+| Toyland Tussle | 352375 | [352375-toyland-tussle.json](./352375-toyland-tussle.json) |
 | Toymaker | 10941 | [10941-toymaker.json](./10941-toymaker.json) |
 | Toymaker: Threads of Joy | 388917 | [388917-toymaker-threads-of-joy.json](./388917-toymaker-threads-of-joy.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
@@ -10684,6 +10688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tralalero Tralala Elephant Runner | 385069 | [385069-tralalero-tralala-elephant-runner.json](./385069-tralalero-tralala-elephant-runner.json) |
 | Tralalero Tralala Wars | 351099 | [351099-tralalero-tralala-wars.json](./351099-tralalero-tralala-wars.json) |
 | Tralalero Tralala: Escape Backrooms | 367977 | [367977-tralalero-tralala-escape-backrooms.json](./367977-tralalero-tralala-escape-backrooms.json) |
+| Tralalero Tralala: Survive the Night | 352385 | [352385-tralalero-tralala-survive-the-night.json](./352385-tralalero-tralala-survive-the-night.json) |
 | Tramp | 55845 | [55845-tramp.json](./55845-tramp.json) |
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
