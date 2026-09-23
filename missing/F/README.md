@@ -3179,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
+| FNaF: Wii U Edition | 357443 | [357443-fnaf-wii-u-edition.json](./357443-fnaf-wii-u-edition.json) |
 | FNF Weekly | 314498 | [314498-fnf-weekly.json](./314498-fnf-weekly.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
 | FNF: Executable Mania | 314507 | [314507-fnf-executable-mania.json](./314507-fnf-executable-mania.json) |
