@@ -270,6 +270,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: No Survivors | 364597 | [364597-vampire-no-survivors.json](./364597-vampire-no-survivors.json) |
 | Vampire: The Masquerade - Bloodhunt | 152087 | [152087-vampire-the-masquerade-bloodhunt.json](./152087-vampire-the-masquerade-bloodhunt.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Loose Cannon | 370209 | [370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json](./370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json) |
+| Vampire: The Masquerade - Bloodlines 2 - Santa Monica Memories | 361901 | [361901-vampire-the-masquerade-bloodlines-2-santa-monica-memories.json](./361901-vampire-the-masquerade-bloodlines-2-santa-monica-memories.json) |
+| Vampire: The Masquerade - Bloodlines 2 - Shadows & Silk | 361902 | [361902-vampire-the-masquerade-bloodlines-2-shadows-and-silk.json](./361902-vampire-the-masquerade-bloodlines-2-shadows-and-silk.json) |
 | Vampire: The Masquerade - Bloodlines 2 - The Flower & the Flame | 370208 | [370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json](./370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json) |
 | Vampire: The Masquerade - Bloodlines 2: Deluxe Edition | 370896 | [370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json](./370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Premium Edition | 370897 | [370897-vampire-the-masquerade-bloodlines-2-premium-edition.json](./370897-vampire-the-masquerade-bloodlines-2-premium-edition.json) |
@@ -332,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanquish | 220716 | [220716-vanquish.json](./220716-vanquish.json) |
 | Vanquish | 3218 | [3218-vanquish.json](./3218-vanquish.json) |
 | Vanquish Evil | 349317 | [349317-vanquish-evil.json](./349317-vanquish-evil.json) |
+| Vanran | 361912 | [361912-vanran.json](./361912-vanran.json) |
 | Vantage Master Portable | 196855 | [196855-vantage-master-portable.json](./196855-vantage-master-portable.json) |
 | vApe Escape | 115700 | [115700-vape-escape.json](./115700-vape-escape.json) |
 | Vape Store Miami | 406824 | [406824-vape-store-miami.json](./406824-vape-store-miami.json) |
