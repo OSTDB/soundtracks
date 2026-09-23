@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Brewing You Alive but You Can Leave at Any Time If You Really Want To | 135669 | [135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json](./135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json) |
 | I Am Caligula | 33208 | [33208-i-am-caligula.json](./33208-i-am-caligula.json) |
 | I Am Cat | 303244 | [303244-i-am-cat.json](./303244-i-am-cat.json) |
+| I Am Clown Fish Escape | 389107 | [389107-i-am-clown-fish-escape.json](./389107-i-am-clown-fish-escape.json) |
 | I Am Coin | 388739 | [388739-i-am-coin.json](./388739-i-am-coin.json) |
 | I am Dave | 255716 | [255716-i-am-dave.json](./255716-i-am-dave.json) |
 | I Am Dead | 131869 | [131869-i-am-dead.json](./131869-i-am-dead.json) |
@@ -294,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm the dirt-for art | 120948 | [120948-im-the-dirt-for-art.json](./120948-im-the-dirt-for-art.json) |
 | I'm the Policeman | 278704 | [278704-im-the-policeman.json](./278704-im-the-policeman.json) |
 | I'm Titanium | 51497 | [51497-im-titanium.json](./51497-im-titanium.json) |
+| I'm Tripping | 389099 | [389099-im-tripping.json](./389099-im-tripping.json) |
 | I'm Truely a Good Guy! | 337483 | [337483-im-truely-a-good-guy.json](./337483-im-truely-a-good-guy.json) |
 | I'mitation: The Eight Suicide Note | 132258 | [132258-imitation-the-eight-suicide-note.json](./132258-imitation-the-eight-suicide-note.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
