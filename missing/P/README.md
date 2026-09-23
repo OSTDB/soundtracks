@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
 | Panic Party | 134631 | [134631-panic-party.json](./134631-panic-party.json) |
+| Panic Protocol | 390769 | [390769-panic-protocol.json](./390769-panic-protocol.json) |
 | Panic Road | 268003 | [268003-panic-road.json](./268003-panic-road.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
 | Panic Space | 41371 | [41371-panic-space.json](./41371-panic-space.json) |
@@ -1154,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawar | 273953 | [273953-pawar.json](./273953-pawar.json) |
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
 | Pawfish Bay | 337181 | [337181-pawfish-bay.json](./337181-pawfish-bay.json) |
+| Pawful Dice | 390809 | [390809-pawful-dice.json](./390809-pawful-dice.json) |
 | Pawker | 359528 | [359528-pawker.json](./359528-pawker.json) |
 | PawMart Tiny Market | 406833 | [406833-pawmart-tiny-market.json](./406833-pawmart-tiny-market.json) |
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
@@ -1986,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix! | 233641 | [233641-phoenix.json](./233641-phoenix.json) |
 | Phoenotopia | 313272 | [313272-phoenotopia.json](./313272-phoenotopia.json) |
 | Phoenotopia: Awakening | 136805 | [136805-phoenotopia-awakening.json](./136805-phoenotopia-awakening.json) |
+| Phone Flipper Simulator | 390787 | [390787-phone-flipper-simulator.json](./390787-phone-flipper-simulator.json) |
 | Phone Story | 62455 | [62455-phone-story.json](./62455-phone-story.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
@@ -2584,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
 | Pirate Flight | 100601 | [100601-pirate-flight.json](./100601-pirate-flight.json) |
+| Pirate Ghost Ship | 390793 | [390793-pirate-ghost-ship.json](./390793-pirate-ghost-ship.json) |
 | Pirate Gold | 92460 | [92460-pirate-gold.json](./92460-pirate-gold.json) |
 | Pirate Guy | 363429 | [363429-pirate-guy.json](./363429-pirate-guy.json) |
 | Pirate Hunter | 62695 | [62695-pirate-hunter.json](./62695-pirate-hunter.json) |
@@ -5862,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
 | Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
+| Purgatory Pitstop | 390774 | [390774-purgatory-pitstop.json](./390774-purgatory-pitstop.json) |
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
 | Puri-Puri | 177935 | [177935-puri-puri.json](./177935-puri-puri.json) |
