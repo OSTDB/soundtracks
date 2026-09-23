@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
+| Sex Therapy | 384223 | [384223-sex-therapy.json](./384223-sex-therapy.json) |
 | Sex Vixens From Space | 72378 | [72378-sex-vixens-from-space.json](./72378-sex-vixens-from-space.json) |
 | Sex with Maids | 248669 | [248669-sex-with-maids.json](./248669-sex-with-maids.json) |
 | Sex with the Devil | 165543 | [165543-sex-with-the-devil.json](./165543-sex-with-the-devil.json) |
@@ -2396,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Devil | 291048 | [291048-shadow-of-the-devil.json](./291048-shadow-of-the-devil.json) |
 | Shadow of The Forgotten | 336006 | [336006-shadow-of-the-forgotten.json](./336006-shadow-of-the-forgotten.json) |
 | Shadow of the Game | 54355 | [54355-shadow-of-the-game.json](./54355-shadow-of-the-game.json) |
+| Shadow of the Moonlight | 384232 | [384232-shadow-of-the-moonlight.json](./384232-shadow-of-the-moonlight.json) |
 | Shadow of the Night: Monsters | 256339 | [256339-shadow-of-the-night-monsters.json](./256339-shadow-of-the-night-monsters.json) |
 | Shadow of the Ninja | 9154 | [9154-shadow-of-the-ninja.json](./9154-shadow-of-the-ninja.json) |
 | Shadow of the Ninja Reborn: Deluxe Edition | 317229 | [317229-shadow-of-the-ninja-reborn-deluxe-edition.json](./317229-shadow-of-the-ninja-reborn-deluxe-edition.json) |
@@ -3643,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signalis | 103244 | [103244-signalis.json](./103244-signalis.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
+| Significant | 384208 | [384208-significant.json](./384208-significant.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
 | Signs of the Sojourner | 118603 | [118603-signs-of-the-sojourner.json](./118603-signs-of-the-sojourner.json) |
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
@@ -3789,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverybield Foss | 138778 | [138778-silverybield-foss.json](./138778-silverybield-foss.json) |
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
+| Sim Sports Raid | 384213 | [384213-sim-sports-raid.json](./384213-sim-sports-raid.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
 | Sim: Heavyweight Boxing Champion | 397264 | [397264-sim-heavyweight-boxing-champion.json](./397264-sim-heavyweight-boxing-champion.json) |
 | SimAirport | 27686 | [27686-simairport.json](./27686-simairport.json) |
@@ -6018,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of the Firefly | 14315 | [14315-song-of-the-firefly.json](./14315-song-of-the-firefly.json) |
 | Song of the Myrne: What Lies Beneath | 26824 | [26824-song-of-the-myrne-what-lies-beneath.json](./26824-song-of-the-myrne-what-lies-beneath.json) |
 | Song of the Tides | 158172 | [158172-song-of-the-tides.json](./158172-song-of-the-tides.json) |
+| Song of Twilight | 384231 | [384231-song-of-twilight.json](./384231-song-of-twilight.json) |
 | Song of Yellow River | 130952 | [130952-song-of-yellow-river.json](./130952-song-of-yellow-river.json) |
 | Song Song | 273406 | [273406-song-song.json](./273406-song-song.json) |
 | Song Summoner: The Unsung Heroes | 23042 | [23042-song-summoner-the-unsung-heroes.json](./23042-song-summoner-the-unsung-heroes.json) |
@@ -7306,6 +7311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkster: Rocket Knight Adventures 2 | 1264 | [1264-sparkster-rocket-knight-adventures-2.json](./1264-sparkster-rocket-knight-adventures-2.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Sparrow Country | 408157 | [408157-sparrow-country.json](./408157-sparrow-country.json) |
+| Sparrow Shop | 384196 | [384196-sparrow-shop.json](./384196-sparrow-shop.json) |
 | Sparrow Solitaire | 209649 | [209649-sparrow-solitaire.json](./209649-sparrow-solitaire.json) |
 | Sparrows | 197795 | [197795-sparrows.json](./197795-sparrows.json) |
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
@@ -9233,6 +9239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
 | Stealthy Guy | 102573 | [102573-stealthy-guy.json](./102573-stealthy-guy.json) |
 | Steam | 95441 | [95441-steam.json](./95441-steam.json) |
+| Steam & Steel Railway Tycoon | 384191 | [384191-steam-and-steel-railway-tycoon.json](./384191-steam-and-steel-railway-tycoon.json) |
 | Steam and Metal | 36139 | [36139-steam-and-metal.json](./36139-steam-and-metal.json) |
 | Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
 | Steam Marines 2 | 57889 | [57889-steam-marines-2.json](./57889-steam-marines-2.json) |
