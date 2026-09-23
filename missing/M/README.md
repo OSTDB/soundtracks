@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margrave: The Blacksmith's Daughter Deluxe Edition | 140990 | [140990-margrave-the-blacksmiths-daughter-deluxe-edition.json](./140990-margrave-the-blacksmiths-daughter-deluxe-edition.json) |
 | Mari Is Home | 280180 | [280180-mari-is-home.json](./280180-mari-is-home.json) |
 | Mari's Magical Deliveries | 334204 | [334204-maris-magical-deliveries.json](./334204-maris-magical-deliveries.json) |
+| Mari0: Alesan99's Entities | 369211 | [369211-mari0-alesan99s-entities.json](./369211-mari0-alesan99s-entities.json) |
 | Maria | 308406 | [308406-maria.json](./308406-maria.json) |
 | Maria 2: Jutai Kokuchi no Nazo | 74346 | [74346-maria-2-jutai-kokuchi-no-nazo.json](./74346-maria-2-jutai-kokuchi-no-nazo.json) |
 | Maria the Witch | 33406 | [33406-maria-the-witch.json](./33406-maria-the-witch.json) |
@@ -2112,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxi Quiz du Foot Francais | 149007 | [149007-maxi-quiz-du-foot-francais.json](./149007-maxi-quiz-du-foot-francais.json) |
 | Maxi Trucks Racing | 366212 | [366212-maxi-trucks-racing.json](./366212-maxi-trucks-racing.json) |
 | MaxiGolf | 102594 | [102594-maxigolf.json](./102594-maxigolf.json) |
+| Maxim | 369217 | [369217-maxim.json](./369217-maxim.json) |
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
 | Maximum Action | 92784 | [92784-maximum-action.json](./92784-maximum-action.json) |
@@ -2531,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeple Fantasy 6 | 393098 | [393098-meeple-fantasy-6.json](./393098-meeple-fantasy-6.json) |
 | Meeple Incremental | 404252 | [404252-meeple-incremental.json](./404252-meeple-incremental.json) |
 | Meer's: Escape | 263030 | [263030-meers-escape.json](./263030-meers-escape.json) |
+| Meeri Bliss | 369213 | [369213-meeri-bliss.json](./369213-meeri-bliss.json) |
 | Meet a Married Woman at a Hot Spring | 273467 | [273467-meet-a-married-woman-at-a-hot-spring.json](./273467-meet-a-married-woman-at-a-hot-spring.json) |
 | Meet Again Bundle | 219047 | [219047-meet-again-bundle.json](./219047-meet-again-bundle.json) |
 | Meet Bub: Bub to Eigo Tanken | 327596 | [327596-meet-bub-bub-to-eigo-tanken.json](./327596-meet-bub-bub-to-eigo-tanken.json) |
@@ -2761,6 +2764,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan Super Charged | 320359 | [320359-megaman-super-charged.json](./320359-megaman-super-charged.json) |
 | Megaman Triple Threat | 326813 | [326813-megaman-triple-threat.json](./326813-megaman-triple-threat.json) |
 | Megaman X in Sonic Blasting Adventure | 265221 | [265221-megaman-x-in-sonic-blasting-adventure.json](./265221-megaman-x-in-sonic-blasting-adventure.json) |
+| Megaman X Omega Blaster - Ultimate Edition | 369208 | [369208-megaman-x-omega-blaster-ultimate-edition.json](./369208-megaman-x-omega-blaster-ultimate-edition.json) |
+| Megaman X: Omega Blaster - Definitive Edition | 369207 | [369207-megaman-x-omega-blaster-definitive-edition.json](./369207-megaman-x-omega-blaster-definitive-edition.json) |
 | Megaman ZX Genesis | 334150 | [334150-megaman-zx-genesis.json](./334150-megaman-zx-genesis.json) |
 | Megamaze | 208393 | [208393-megamaze.json](./208393-megamaze.json) |
 | MegaMek | 108982 | [108982-megamek.json](./108982-megamek.json) |
@@ -3374,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Sonic Rebooted | 129168 | [129168-metal-sonic-rebooted.json](./129168-metal-sonic-rebooted.json) |
 | Metal Storm | 48170 | [48170-metal-storm.json](./48170-metal-storm.json) |
 | Metal Suits: Counter-Attack | 217505 | [217505-metal-suits-counter-attack.json](./217505-metal-suits-counter-attack.json) |
+| Metal Surge | 369218 | [369218-metal-surge.json](./369218-metal-surge.json) |
 | Metal Swarm Infinity | 167680 | [167680-metal-swarm-infinity.json](./167680-metal-swarm-infinity.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
@@ -3526,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
 | Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
+| MHZ | 369219 | [369219-mhz.json](./369219-mhz.json) |
 | Mia | 169370 | [169370-mia.json](./169370-mia.json) |
 | Mia & Mio | 388752 | [388752-mia-and-mio.json](./388752-mia-and-mio.json) |
 | Mia and me: Freedom for Centopia | 107003 | [107003-mia-and-me-freedom-for-centopia.json](./107003-mia-and-me-freedom-for-centopia.json) |
@@ -3963,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk Me Darling | 385061 | [385061-milk-me-darling.json](./385061-milk-me-darling.json) |
 | Milk Me Darling: Busty And The Breast | 301983 | [301983-milk-me-darling-busty-and-the-breast.json](./301983-milk-me-darling-busty-and-the-breast.json) |
 | Milk Pot | 210112 | [210112-milk-pot.json](./210112-milk-pot.json) |
+| Milk Quest: Repasteurized | 369220 | [369220-milk-quest-repasteurized.json](./369220-milk-quest-repasteurized.json) |
 | Milk Race | 46660 | [46660-milk-race.json](./46660-milk-race.json) |
 | Milkblood | 241031 | [241031-milkblood.json](./241031-milkblood.json) |
 | MilkChoco | 104019 | [104019-milkchoco.json](./104019-milkchoco.json) |
