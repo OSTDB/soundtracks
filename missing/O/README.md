@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Leaving the Building | 229784 | [229784-on-leaving-the-building.json](./229784-on-leaving-the-building.json) |
 | On Love, On Monsters | 413779 | [413779-on-love-on-monsters.json](./413779-on-love-on-monsters.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
+| On My Way Out | 365896 | [365896-on-my-way-out.json](./365896-on-my-way-out.json) |
 | On Pixels: A Lights Out Game | 172175 | [172175-on-pixels-a-lights-out-game.json](./172175-on-pixels-a-lights-out-game.json) |
 | On Rusty Trails | 19479 | [19479-on-rusty-trails.json](./19479-on-rusty-trails.json) |
 | On S’en Grille Une? | 386879 | [386879-on-s-en-grille-une.json](./386879-on-s-en-grille-une.json) |
@@ -1719,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Private Homeroom | 239204 | [239204-our-private-homeroom.json](./239204-our-private-homeroom.json) |
 | Our Summer Festival 2 | 352266 | [352266-our-summer-festival-2.json](./352266-our-summer-festival-2.json) |
 | Our Summer Sports | 208461 | [208461-our-summer-sports.json](./208461-our-summer-sports.json) |
+| Our Town Hero | 365890 | [365890-our-town-hero.json](./365890-our-town-hero.json) |
 | Our Tribe Above All | 263774 | [263774-our-tribe-above-all.json](./263774-our-tribe-above-all.json) |
 | Our Two Bedroom Story | 134016 | [134016-our-two-bedroom-story.json](./134016-our-two-bedroom-story.json) |
 | Our Two Bedroom Story: After the Crisis - Minato | 238055 | [238055-our-two-bedroom-story-after-the-crisis-minato.json](./238055-our-two-bedroom-story-after-the-crisis-minato.json) |
