@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZJ the Ball: Level 5 | 214572 | [214572-zj-the-ball-level-5.json](./214572-zj-the-ball-level-5.json) |
 | ZJ the Ball: Special | 229078 | [229078-zj-the-ball-special.json](./229078-zj-the-ball-special.json) |
 | Zjawa: Bloodstained Soul | 374587 | [374587-zjawa-bloodstained-soul.json](./374587-zjawa-bloodstained-soul.json) |
+| ZK1L4 | 373213 | [373213-zk1l4.json](./373213-zk1l4.json) |
 | Zlalox | 302949 | [302949-zlalox.json](./302949-zlalox.json) |
 | Zlap.io | 57339 | [57339-zlap-io.json](./57339-zlap-io.json) |
 | Zlin City: Arch Moderna | 304008 | [304008-zlin-city-arch-moderna.json](./304008-zlin-city-arch-moderna.json) |
