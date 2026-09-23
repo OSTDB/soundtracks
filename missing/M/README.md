@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marzu | 389584 | [389584-marzu.json](./389584-marzu.json) |
 | Masagoro | 153826 | [153826-masagoro.json](./153826-masagoro.json) |
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
+| Masefeh | 378443 | [378443-masefeh.json](./378443-masefeh.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Mash | 100606 | [100606-mash.json](./100606-mash.json) |
 | Mash Motion: Sprint Rush | 397950 | [397950-mash-motion-sprint-rush.json](./397950-mash-motion-sprint-rush.json) |
@@ -2131,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya's Dice | 179207 | [179207-mayas-dice.json](./179207-mayas-dice.json) |
 | Maya's Dream | 236508 | [236508-mayas-dream.json](./236508-mayas-dream.json) |
 | Maya's Mission | 388755 | [388755-mayas-mission.json](./388755-mayas-mission.json) |
+| Mayak | 378419 | [378419-mayak.json](./378419-mayak.json) |
 | Mayan Mishap | 256820 | [256820-mayan-mishap.json](./256820-mayan-mishap.json) |
 | Mayan Prophecies: Blood Moon - Collector's Edition | 88199 | [88199-mayan-prophecies-blood-moon-collectors-edition.json](./88199-mayan-prophecies-blood-moon-collectors-edition.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
@@ -4272,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
 | Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
+| Mini Fighters: Quest & Battle | 378404 | [378404-mini-fighters-quest-and-battle.json](./378404-mini-fighters-quest-and-battle.json) |
 | Mini Football | 322563 | [322563-mini-football.json](./322563-mini-football.json) |
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
 | Mini Game Compil 2 | 381731 | [381731-mini-game-compil-2.json](./381731-mini-game-compil-2.json) |
