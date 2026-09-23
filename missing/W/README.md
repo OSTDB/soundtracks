@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
 | Where's Fido? | 278995 | [278995-wheres-fido.json](./278995-wheres-fido.json) |
 | Where's My Bara Deck? Hardcastle | 393834 | [393834-wheres-my-bara-deck-hardcastle.json](./393834-wheres-my-bara-deck-hardcastle.json) |
+| Where's My Drink...? | 365863 | [365863-wheres-my-drink.json](./365863-wheres-my-drink.json) |
 | Where's my geek? | 197230 | [197230-wheres-my-geek.json](./197230-wheres-my-geek.json) |
 | Where's My Hentai Deck? Castle Hunt | 389621 | [389621-wheres-my-hentai-deck-castle-hunt.json](./389621-wheres-my-hentai-deck-castle-hunt.json) |
 | Where's My Mickey? | 63275 | [63275-wheres-my-mickey.json](./63275-wheres-my-mickey.json) |
@@ -1623,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Witch | 346108 | [346108-white-witch.json](./346108-white-witch.json) |
 | White Wolf: Treasure Hunter 2 | 273382 | [273382-white-wolf-treasure-hunter-2.json](./273382-white-wolf-treasure-hunter-2.json) |
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
+| Whitematter | 365895 | [365895-whitematter.json](./365895-whitematter.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
 | Whiteout Survival | 240884 | [240884-whiteout-survival.json](./240884-whiteout-survival.json) |
 | Whitevale Defender | 98774 | [98774-whitevale-defender.json](./98774-whitevale-defender.json) |
@@ -2791,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup of Pool | 47963 | [47963-world-cup-of-pool.json](./47963-world-cup-of-pool.json) |
 | World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
 | World Cup USA 94 | 365669 | [365669-world-cup-usa-94.json](./365669-world-cup-usa-94.json) |
+| World Cup USA 94 | 365873 | [365873-world-cup-usa-94.json](./365873-world-cup-usa-94.json) |
 | World Cup Year 94 | 57620 | [57620-world-cup-year-94.json](./57620-world-cup-year-94.json) |
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
 | World Darts | 12873 | [12873-world-darts.json](./12873-world-darts.json) |
