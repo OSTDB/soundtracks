@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
 | Captain Disaster in: Death Has A Million Stomping Boots | 133978 | [133978-captain-disaster-in-death-has-a-million-stomping-boots.json](./133978-captain-disaster-in-death-has-a-million-stomping-boots.json) |
 | Captain Explosion | 179152 | [179152-captain-explosion.json](./179152-captain-explosion.json) |
+| Captain Firat | 360737 | [360737-captain-firat.json](./360737-captain-firat.json) |
 | Captain Flying Robot | 90666 | [90666-captain-flying-robot.json](./90666-captain-flying-robot.json) |
 | Captain Forever Remix | 17360 | [17360-captain-forever-remix.json](./17360-captain-forever-remix.json) |
 | Captain Goose | 260161 | [260161-captain-goose.json](./260161-captain-goose.json) |
@@ -2981,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunkout | 92305 | [92305-chunkout.json](./92305-chunkout.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
 | Chura-umi Monogatari | 292139 | [292139-chura-umi-monogatari.json](./292139-chura-umi-monogatari.json) |
+| Church Crew | 360740 | [360740-church-crew.json](./360740-church-crew.json) |
 | Church Era | 118391 | [118391-church-era.json](./118391-church-era.json) |
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
 | Church Simulator | 312878 | [312878-church-simulator.json](./312878-church-simulator.json) |
@@ -4149,6 +4151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Water Sort: Gold Edition | 385195 | [385195-color-water-sort-gold-edition.json](./385195-color-water-sort-gold-edition.json) |
 | Color X Memory | 368682 | [368682-color-x-memory.json](./368682-color-x-memory.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
+| Color-A-Cube x Gorn | 360771 | [360771-color-a-cube-x-gorn.json](./360771-color-a-cube-x-gorn.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
@@ -4497,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commute | 204676 | [204676-commute.json](./204676-commute.json) |
 | Commuter | 189160 | [189160-commuter.json](./189160-commuter.json) |
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
+| Compadrone: Land Wars | 360761 | [360761-compadrone-land-wars.json](./360761-compadrone-land-wars.json) |
 | Companion | 30884 | [30884-companion.json](./30884-companion.json) |
 | Companion of Darkness | 342630 | [342630-companion-of-darkness.json](./342630-companion-of-darkness.json) |
 | Companions of Xanth | 12412 | [12412-companions-of-xanth.json](./12412-companions-of-xanth.json) |
@@ -6754,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuco | 68195 | [68195-cuco.json](./68195-cuco.json) |
 | Cucu | 380100 | [380100-cucu.json](./380100-cucu.json) |
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
+| Cuddle Corner | 360729 | [360729-cuddle-corner.json](./360729-cuddle-corner.json) |
 | Cue Brick | 39638 | [39638-cue-brick.json](./39638-cue-brick.json) |
 | Cue Club 2 - Pool & Snooker | 52849 | [52849-cue-club-2-pool-and-snooker.json](./52849-cue-club-2-pool-and-snooker.json) |
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
