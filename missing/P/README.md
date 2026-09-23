@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
 | Picnic | 22817 | [22817-picnic.json](./22817-picnic.json) |
+| Picnic Girls | 376760 | [376760-picnic-girls.json](./376760-picnic-girls.json) |
 | Picnic Paranoia | 18560 | [18560-picnic-paranoia.json](./18560-picnic-paranoia.json) |
 | Picnic Syndrome | 341578 | [341578-picnic-syndrome.json](./341578-picnic-syndrome.json) |
 | Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
@@ -3138,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Puzzle League | 23093 | [23093-planet-puzzle-league.json](./23093-planet-puzzle-league.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
 | Planet R-12 | 26522 | [26522-planet-r-12.json](./26522-planet-r-12.json) |
+| Planet Romance Boys: Conquer the Zodiac Horoscope | 376761 | [376761-planet-romance-boys-conquer-the-zodiac-horoscope.json](./376761-planet-romance-boys-conquer-the-zodiac-horoscope.json) |
 | Planet Romance Girls: Conquer the Zodiac Horoscope | 378862 | [378862-planet-romance-girls-conquer-the-zodiac-horoscope.json](./378862-planet-romance-girls-conquer-the-zodiac-horoscope.json) |
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
@@ -5562,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProStroke Golf: World Tour 2007 | 20572 | [20572-prostroke-golf-world-tour-2007.json](./20572-prostroke-golf-world-tour-2007.json) |
 | Prot | 348351 | [348351-prot.json](./348351-prot.json) |
 | Protagonist Complex One | 392146 | [392146-protagonist-complex-one.json](./392146-protagonist-complex-one.json) |
+| Protean Fox | 376751 | [376751-protean-fox.json](./376751-protean-fox.json) |
 | Protect Harem City | 220654 | [220654-protect-harem-city.json](./220654-protect-harem-city.json) |
 | Protect Me Knight | 22479 | [22479-protect-me-knight.json](./22479-protect-me-knight.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
