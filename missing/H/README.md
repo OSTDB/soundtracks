@@ -3298,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
 | Home Street: Dream House Sim | 90555 | [90555-home-street-dream-house-sim.json](./90555-home-street-dream-house-sim.json) |
 | Home Sweet Home | 346116 | [346116-home-sweet-home.json](./346116-home-sweet-home.json) |
+| Home Sweet Home | 346758 | [346758-home-sweet-home.json](./346758-home-sweet-home.json) |
 | Home Sweet Home: Online | 249814 | [249814-home-sweet-home-online.json](./249814-home-sweet-home-online.json) |
 | Home Sweet Home: Survive | 144132 | [144132-home-sweet-home-survive.json](./144132-home-sweet-home-survive.json) |
 | Home Sweet Homecoming | 135306 | [135306-home-sweet-homecoming.json](./135306-home-sweet-homecoming.json) |
