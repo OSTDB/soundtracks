@@ -2176,6 +2176,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Kitten: My Favorite Cat | 200119 | [200119-little-kitten-my-favorite-cat.json](./200119-little-kitten-my-favorite-cat.json) |
 | Little Kitty Meow | 403717 | [403717-little-kitty-meow.json](./403717-little-kitty-meow.json) |
 | Little Kitty, Big City: Picture Purrfect | 360076 | [360076-little-kitty-big-city-picture-purrfect.json](./360076-little-kitty-big-city-picture-purrfect.json) |
+| Little Knight | 341169 | [341169-little-knight.json](./341169-little-knight.json) |
+| Little Knight | 341170 | [341170-little-knight.json](./341170-little-knight.json) |
+| Little Knight 2: Old Dreams | 341171 | [341171-little-knight-2-old-dreams.json](./341171-little-knight-2-old-dreams.json) |
 | Little Kong: Jungle Fun | 219285 | [219285-little-kong-jungle-fun.json](./219285-little-kong-jungle-fun.json) |
 | Little Lamb | 262429 | [262429-little-lamb.json](./262429-little-lamb.json) |
 | Little Lands | 177932 | [177932-little-lands.json](./177932-little-lands.json) |
@@ -3457,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
 | Luigi Doesn't Drink A Glass of Milk | 250050 | [250050-luigi-doesnt-drink-a-glass-of-milk.json](./250050-luigi-doesnt-drink-a-glass-of-milk.json) |
 | Luigi in Sonic the Hedgehog | 198518 | [198518-luigi-in-sonic-the-hedgehog.json](./198518-luigi-in-sonic-the-hedgehog.json) |
+| Luigi Puzzle | 341142 | [341142-luigi-puzzle.json](./341142-luigi-puzzle.json) |
 | Luigi Quest | 318025 | [318025-luigi-quest.json](./318025-luigi-quest.json) |
 | Luigi Run | 203387 | [203387-luigi-run.json](./203387-luigi-run.json) |
 | Luigi: Insanity | 335659 | [335659-luigi-insanity.json](./335659-luigi-insanity.json) |
