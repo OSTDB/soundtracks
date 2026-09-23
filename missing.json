@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T13:33:06.593Z",
-  "total_missing": 111477,
+  "generated_at": "2026-09-23T13:48:14.701Z",
+  "total_missing": 111527,
   "games": [
     {
       "igdb_id": 176875,
@@ -13383,6 +13383,11 @@
       "file": "missing/A/319226-alexs-journey-to-the-grave.json"
     },
     {
+      "igdb_id": 359618,
+      "game_name": "Alex's Sketchbook World",
+      "file": "missing/A/359618-alexs-sketchbook-world.json"
+    },
+    {
       "igdb_id": 9359,
       "game_name": "Alexander",
       "file": "missing/A/9359-alexander.json"
@@ -25191,6 +25196,11 @@
       "igdb_id": 147468,
       "game_name": "Arcanoid Breakout",
       "file": "missing/A/147468-arcanoid-breakout.json"
+    },
+    {
+      "igdb_id": 359601,
+      "game_name": "Arcanorum 231",
+      "file": "missing/A/359601-arcanorum-231.json"
     },
     {
       "igdb_id": 375981,
@@ -42341,6 +42351,11 @@
       "igdb_id": 110339,
       "game_name": "Battle Species",
       "file": "missing/B/110339-battle-species.json"
+    },
+    {
+      "igdb_id": 359602,
+      "game_name": "Battle Spirit CrossOver: [BSC41] Greatest Record 2023 Rare Card Set",
+      "file": "missing/B/359602-battle-spirit-crossover-bsc41-greatest-record-2023-rare-card-set.json"
     },
     {
       "igdb_id": 321743,
@@ -70603,6 +70618,11 @@
       "file": "missing/C/47539-car-fighter.json"
     },
     {
+      "igdb_id": 359608,
+      "game_name": "Car For Sale Simulator 2023: PickUp & SUV",
+      "file": "missing/C/359608-car-for-sale-simulator-2023-pickup-and-suv.json"
+    },
+    {
       "igdb_id": 267352,
       "game_name": "Car for Trade",
       "file": "missing/C/267352-car-for-trade.json"
@@ -83491,6 +83511,46 @@
       "igdb_id": 86958,
       "game_name": "City Traffic Car Driving Parking Career Simulator",
       "file": "missing/C/86958-city-traffic-car-driving-parking-career-simulator.json"
+    },
+    {
+      "igdb_id": 359609,
+      "game_name": "City Transport Simulator: Bus",
+      "file": "missing/C/359609-city-transport-simulator-bus.json"
+    },
+    {
+      "igdb_id": 359611,
+      "game_name": "City Transport Simulator: Bus DLC - Gräf/Steyr NG235",
+      "file": "missing/C/359611-city-transport-simulator-bus-dlc-graf-steyr-ng235.json"
+    },
+    {
+      "igdb_id": 359612,
+      "game_name": "City Transport Simulator: Bus DLC - MAN Lion's City A23",
+      "file": "missing/C/359612-city-transport-simulator-bus-dlc-man-lions-city-a23.json"
+    },
+    {
+      "igdb_id": 359610,
+      "game_name": "City Transport Simulator: E1 Vienna Add-On",
+      "file": "missing/C/359610-city-transport-simulator-e1-vienna-add-on.json"
+    },
+    {
+      "igdb_id": 359613,
+      "game_name": "City Transport Simulator: GT8N Mannheim​ Add-On",
+      "file": "missing/C/359613-city-transport-simulator-gt8n-mannheim-add-on.json"
+    },
+    {
+      "igdb_id": 359614,
+      "game_name": "City Transport Simulator: StadtRegioTram Add-On",
+      "file": "missing/C/359614-city-transport-simulator-stadtregiotram-add-on.json"
+    },
+    {
+      "igdb_id": 359616,
+      "game_name": "City Transport Simulator: Tram Depot + Southern-Route Add-On",
+      "file": "missing/C/359616-city-transport-simulator-tram-depot-southern-route-add-on.json"
+    },
+    {
+      "igdb_id": 359615,
+      "game_name": "City Transport Simulator: Type D Vienna Add-On",
+      "file": "missing/C/359615-city-transport-simulator-type-d-vienna-add-on.json"
     },
     {
       "igdb_id": 197327,
@@ -101421,6 +101481,11 @@
       "igdb_id": 252157,
       "game_name": "Cupky Jump",
       "file": "missing/C/252157-cupky-jump.json"
+    },
+    {
+      "igdb_id": 359620,
+      "game_name": "Cuppy Coffee Sim",
+      "file": "missing/C/359620-cuppy-coffee-sim.json"
     },
     {
       "igdb_id": 311131,
@@ -231143,6 +231208,11 @@
       "file": "missing/I/385591-irradiant-skies.json"
     },
     {
+      "igdb_id": 359603,
+      "game_name": "Irradiate 235",
+      "file": "missing/I/359603-irradiate-235.json"
+    },
+    {
       "igdb_id": 33518,
       "game_name": "Irrational Exuberance",
       "file": "missing/I/33518-irrational-exuberance.json"
@@ -266383,6 +266453,11 @@
       "file": "missing/L/299456-lost-memories-romance-you-choose.json"
     },
     {
+      "igdb_id": 359574,
+      "game_name": "Lost my Collection of 100 Shells",
+      "file": "missing/L/359574-lost-my-collection-of-100-shells.json"
+    },
+    {
       "igdb_id": 297630,
       "game_name": "Lost Nomad",
       "file": "missing/L/297630-lost-nomad.json"
@@ -290066,6 +290141,11 @@
       "igdb_id": 286103,
       "game_name": "Mimic",
       "file": "missing/M/286103-mimic.json"
+    },
+    {
+      "igdb_id": 359605,
+      "game_name": "Mimic",
+      "file": "missing/M/359605-mimic.json"
     },
     {
       "igdb_id": 80902,
@@ -322808,6 +322888,11 @@
       "file": "missing/O/30211-octagon-squad.json"
     },
     {
+      "igdb_id": 359571,
+      "game_name": "Octane100",
+      "file": "missing/O/359571-octane100.json"
+    },
+    {
       "igdb_id": 55030,
       "game_name": "Octapolis",
       "file": "missing/O/55030-octapolis.json"
@@ -337716,6 +337801,11 @@
       "igdb_id": 369776,
       "game_name": "Passion Rift",
       "file": "missing/P/369776-passion-rift.json"
+    },
+    {
+      "igdb_id": 359575,
+      "game_name": "Passive Hero: Save the World in 100 Days!",
+      "file": "missing/P/359575-passive-hero-save-the-world-in-100-days.json"
     },
     {
       "igdb_id": 55850,
@@ -369748,6 +369838,131 @@
       "file": "missing/R/91897-rally-master-pro.json"
     },
     {
+      "igdb_id": 359576,
+      "game_name": "Rally Mechanic Simulator: Chaya Alexis",
+      "file": "missing/R/359576-rally-mechanic-simulator-chaya-alexis.json"
+    },
+    {
+      "igdb_id": 359577,
+      "game_name": "Rally Mechanic Simulator: Chaya Falcon Mk1",
+      "file": "missing/R/359577-rally-mechanic-simulator-chaya-falcon-mk1.json"
+    },
+    {
+      "igdb_id": 359578,
+      "game_name": "Rally Mechanic Simulator: Chaya Falcon Mk2",
+      "file": "missing/R/359578-rally-mechanic-simulator-chaya-falcon-mk2.json"
+    },
+    {
+      "igdb_id": 359579,
+      "game_name": "Rally Mechanic Simulator: Chaya Gepard",
+      "file": "missing/R/359579-rally-mechanic-simulator-chaya-gepard.json"
+    },
+    {
+      "igdb_id": 359580,
+      "game_name": "Rally Mechanic Simulator: Chaya Rescort",
+      "file": "missing/R/359580-rally-mechanic-simulator-chaya-rescort.json"
+    },
+    {
+      "igdb_id": 359581,
+      "game_name": "Rally Mechanic Simulator: Hromaz G3",
+      "file": "missing/R/359581-rally-mechanic-simulator-hromaz-g3.json"
+    },
+    {
+      "igdb_id": 359582,
+      "game_name": "Rally Mechanic Simulator: Hromaz G4",
+      "file": "missing/R/359582-rally-mechanic-simulator-hromaz-g4.json"
+    },
+    {
+      "igdb_id": 359583,
+      "game_name": "Rally Mechanic Simulator: Hromaz GS3",
+      "file": "missing/R/359583-rally-mechanic-simulator-hromaz-gs3.json"
+    },
+    {
+      "igdb_id": 359584,
+      "game_name": "Rally Mechanic Simulator: Hromaz Mara",
+      "file": "missing/R/359584-rally-mechanic-simulator-hromaz-mara.json"
+    },
+    {
+      "igdb_id": 359585,
+      "game_name": "Rally Mechanic Simulator: Hromaz Regane",
+      "file": "missing/R/359585-rally-mechanic-simulator-hromaz-regane.json"
+    },
+    {
+      "igdb_id": 359586,
+      "game_name": "Rally Mechanic Simulator: Hromaz S1600",
+      "file": "missing/R/359586-rally-mechanic-simulator-hromaz-s1600.json"
+    },
+    {
+      "igdb_id": 359587,
+      "game_name": "Rally Mechanic Simulator: Inquiry S20H",
+      "file": "missing/R/359587-rally-mechanic-simulator-inquiry-s20h.json"
+    },
+    {
+      "igdb_id": 359588,
+      "game_name": "Rally Mechanic Simulator: Inquiry S30R",
+      "file": "missing/R/359588-rally-mechanic-simulator-inquiry-s30r.json"
+    },
+    {
+      "igdb_id": 359589,
+      "game_name": "Rally Mechanic Simulator: Mizuduki Revloution",
+      "file": "missing/R/359589-rally-mechanic-simulator-mizuduki-revloution.json"
+    },
+    {
+      "igdb_id": 359590,
+      "game_name": "Rally Mechanic Simulator: Mizuduki SF 8 Turbo",
+      "file": "missing/R/359590-rally-mechanic-simulator-mizuduki-sf-8-turbo.json"
+    },
+    {
+      "igdb_id": 359591,
+      "game_name": "Rally Mechanic Simulator: Purdo 370",
+      "file": "missing/R/359591-rally-mechanic-simulator-purdo-370.json"
+    },
+    {
+      "igdb_id": 359592,
+      "game_name": "Rally Mechanic Simulator: Saze F1000",
+      "file": "missing/R/359592-rally-mechanic-simulator-saze-f1000.json"
+    },
+    {
+      "igdb_id": 359593,
+      "game_name": "Rally Mechanic Simulator: Saze Faze 5",
+      "file": "missing/R/359593-rally-mechanic-simulator-saze-faze-5.json"
+    },
+    {
+      "igdb_id": 359594,
+      "game_name": "Rally Mechanic Simulator: Saze Longerino",
+      "file": "missing/R/359594-rally-mechanic-simulator-saze-longerino.json"
+    },
+    {
+      "igdb_id": 359595,
+      "game_name": "Rally Mechanic Simulator: Sortes G20S",
+      "file": "missing/R/359595-rally-mechanic-simulator-sortes-g20s.json"
+    },
+    {
+      "igdb_id": 359596,
+      "game_name": "Rally Mechanic Simulator: Sortes G20TS",
+      "file": "missing/R/359596-rally-mechanic-simulator-sortes-g20ts.json"
+    },
+    {
+      "igdb_id": 359597,
+      "game_name": "Rally Mechanic Simulator: Tamashimi Road Sprinter",
+      "file": "missing/R/359597-rally-mechanic-simulator-tamashimi-road-sprinter.json"
+    },
+    {
+      "igdb_id": 359598,
+      "game_name": "Rally Mechanic Simulator: Tamashimi Roadster",
+      "file": "missing/R/359598-rally-mechanic-simulator-tamashimi-roadster.json"
+    },
+    {
+      "igdb_id": 359599,
+      "game_name": "Rally Mechanic Simulator: Tamashimi Torol",
+      "file": "missing/R/359599-rally-mechanic-simulator-tamashimi-torol.json"
+    },
+    {
+      "igdb_id": 359600,
+      "game_name": "Rally Mechanic Simulator: Wictuz Lopo",
+      "file": "missing/R/359600-rally-mechanic-simulator-wictuz-lopo.json"
+    },
+    {
       "igdb_id": 112330,
       "game_name": "Rally of Rockets",
       "file": "missing/R/112330-rally-of-rockets.json"
@@ -399268,6 +399483,11 @@
       "file": "missing/S/403825-seed.json"
     },
     {
+      "igdb_id": 359604,
+      "game_name": "Seed 2313",
+      "file": "missing/S/359604-seed-2313.json"
+    },
+    {
       "igdb_id": 266787,
       "game_name": "Seed In",
       "file": "missing/S/266787-seed-in.json"
@@ -412363,6 +412583,11 @@
       "file": "missing/S/105886-sketch-run.json"
     },
     {
+      "igdb_id": 359617,
+      "game_name": "Sketchbook",
+      "file": "missing/S/359617-sketchbook.json"
+    },
+    {
       "igdb_id": 397778,
       "game_name": "Sketchbook Squad",
       "file": "missing/S/397778-sketchbook-squad.json"
@@ -412391,6 +412616,11 @@
       "igdb_id": 54460,
       "game_name": "Sketchy 2",
       "file": "missing/S/54460-sketchy-2.json"
+    },
+    {
+      "igdb_id": 359619,
+      "game_name": "Sketchy Arcade",
+      "file": "missing/S/359619-sketchy-arcade.json"
     },
     {
       "igdb_id": 65758,
@@ -460778,6 +461008,11 @@
       "file": "missing/T/57168-tap-titans-2.json"
     },
     {
+      "igdb_id": 359573,
+      "game_name": "Tap To 1000",
+      "file": "missing/T/359573-tap-to-1000.json"
+    },
+    {
       "igdb_id": 245337,
       "game_name": "Tap to Build",
       "file": "missing/T/245337-tap-to-build.json"
@@ -475608,6 +475843,11 @@
       "file": "missing/T/271849-the-hell-thats-coming.json"
     },
     {
+      "igdb_id": 359606,
+      "game_name": "The Hell: 1923 Kanto Earthquake",
+      "file": "missing/T/359606-the-hell-1923-kanto-earthquake.json"
+    },
+    {
       "igdb_id": 190728,
       "game_name": "The Hellbrand",
       "file": "missing/T/190728-the-hellbrand.json"
@@ -478006,6 +478246,11 @@
       "igdb_id": 34624,
       "game_name": "The Last Dream: Developer's Edition",
       "file": "missing/T/34624-the-last-dream-developers-edition.json"
+    },
+    {
+      "igdb_id": 359607,
+      "game_name": "The Last Drive: 2335",
+      "file": "missing/T/359607-the-last-drive-2335.json"
     },
     {
       "igdb_id": 343791,
@@ -525121,6 +525366,11 @@
       "igdb_id": 84252,
       "game_name": "Velocity Classics: Volume 1",
       "file": "missing/V/84252-velocity-classics-volume-1.json"
+    },
+    {
+      "igdb_id": 359572,
+      "game_name": "Velocity Racing: 1000",
+      "file": "missing/V/359572-velocity-racing-1000.json"
     },
     {
       "igdb_id": 413229,
