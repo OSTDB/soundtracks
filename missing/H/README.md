@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Decoration Sandbox | 148548 | [148548-halloween-decoration-sandbox.json](./148548-halloween-decoration-sandbox.json) |
 | Halloween Defense | 269008 | [269008-halloween-defense.json](./269008-halloween-defense.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
+| Halloween Girls | 373750 | [373750-halloween-girls.json](./373750-halloween-girls.json) |
 | Halloween Harem | 398450 | [398450-halloween-harem.json](./398450-halloween-harem.json) |
 | Halloween Harry in Zombie Wars | 93057 | [93057-halloween-harry-in-zombie-wars.json](./93057-halloween-harry-in-zombie-wars.json) |
 | Halloween Horror | 322781 | [322781-halloween-horror.json](./322781-halloween-horror.json) |
@@ -1105,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
+| HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
 | Headmaster: The Lost Lessons | 174186 | [174186-headmaster-the-lost-lessons.json](./174186-headmaster-the-lost-lessons.json) |
 | Headpat Special Taskforce | 400320 | [400320-headpat-special-taskforce.json](./400320-headpat-special-taskforce.json) |
@@ -2052,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Everyday Life | 157706 | [157706-heros-everyday-life.json](./157706-heros-everyday-life.json) |
 | Hero's Hand | 335866 | [335866-heros-hand.json](./335866-heros-hand.json) |
 | Hero's Heart | 50485 | [50485-heros-heart.json](./50485-heros-heart.json) |
+| Hero's Ignition | 373743 | [373743-heros-ignition.json](./373743-heros-ignition.json) |
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
 | Hero's Quest: Lost Memories | 251836 | [251836-heros-quest-lost-memories.json](./251836-heros-quest-lost-memories.json) |
