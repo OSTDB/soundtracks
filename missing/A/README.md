@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
 | Aether Way | 113506 | [113506-aether-way.json](./113506-aether-way.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
+| Aetherdrift | 384194 | [384194-aetherdrift.json](./384194-aetherdrift.json) |
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aetherica: Echoes of Exodus | 391868 | [391868-aetherica-echoes-of-exodus.json](./391868-aetherica-echoes-of-exodus.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
@@ -2903,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anicon: Animal Complex - Party | 249284 | [249284-anicon-animal-complex-party.json](./249284-anicon-animal-complex-party.json) |
 | Anicon: Animal Complex - Sheep's Path | 106607 | [106607-anicon-animal-complex-sheeps-path.json](./106607-anicon-animal-complex-sheeps-path.json) |
 | ANIDU: Animal Dust Puppet’s Adventure | 258549 | [258549-anidu-animal-dust-puppet-s-adventure.json](./258549-anidu-animal-dust-puppet-s-adventure.json) |
+| Anigma Byte | 384215 | [384215-anigma-byte.json](./384215-anigma-byte.json) |
 | Anima | 193433 | [193433-anima.json](./193433-anima.json) |
 | Anima Fighters | 332422 | [332422-anima-fighters.json](./332422-anima-fighters.json) |
 | Anima Flux | 249480 | [249480-anima-flux.json](./249480-anima-flux.json) |
@@ -3736,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Pinball Action | 413936 | [413936-arcade-archives-2-pinball-action.json](./413936-arcade-archives-2-pinball-action.json) |
 | Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
+| Arcade Archives 2: Touchdown Fever | 384203 | [384203-arcade-archives-2-touchdown-fever.json](./384203-arcade-archives-2-touchdown-fever.json) |
 | Arcade Archives 2: TX-1 | 411809 | [411809-arcade-archives-2-tx-1.json](./411809-arcade-archives-2-tx-1.json) |
 | Arcade Archives 2: V'Ball | 413937 | [413937-arcade-archives-2-vball.json](./413937-arcade-archives-2-vball.json) |
 | Arcade Archives: A-Jax | 99563 | [99563-arcade-archives-a-jax.json](./99563-arcade-archives-a-jax.json) |
@@ -3831,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: The Ninja Kids | 314869 | [314869-arcade-archives-the-ninja-kids.json](./314869-arcade-archives-the-ninja-kids.json) |
 | Arcade Archives: The Return of Ishtar | 218552 | [218552-arcade-archives-the-return-of-ishtar.json](./218552-arcade-archives-the-return-of-ishtar.json) |
 | Arcade Archives: Thunder Ceptor II | 242052 | [242052-arcade-archives-thunder-ceptor-ii.json](./242052-arcade-archives-thunder-ceptor-ii.json) |
+| Arcade Archives: Touchdown Fever | 384202 | [384202-arcade-archives-touchdown-fever.json](./384202-arcade-archives-touchdown-fever.json) |
 | Arcade Archives: Touki Denshou Angel Eyes | 222390 | [222390-arcade-archives-touki-denshou-angel-eyes.json](./222390-arcade-archives-touki-denshou-angel-eyes.json) |
 | Arcade Archives: Trio the Punch | 202769 | [202769-arcade-archives-trio-the-punch.json](./202769-arcade-archives-trio-the-punch.json) |
 | Arcade Archives: Tutankham | 300732 | [300732-arcade-archives-tutankham.json](./300732-arcade-archives-tutankham.json) |
@@ -4730,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Aspects of change | 121631 | [121631-aspects-of-change.json](./121631-aspects-of-change.json) |
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
+| Asphalt Champions | 384188 | [384188-asphalt-champions.json](./384188-asphalt-champions.json) |
 | Asphalt Dominion | 402305 | [402305-asphalt-dominion.json](./402305-asphalt-dominion.json) |
 | Asphalt Legends Unite: Triple Decal Pack | 402354 | [402354-asphalt-legends-unite-triple-decal-pack.json](./402354-asphalt-legends-unite-triple-decal-pack.json) |
 | Asphalt Paver | 401106 | [401106-asphalt-paver.json](./401106-asphalt-paver.json) |
