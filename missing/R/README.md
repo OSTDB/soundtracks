@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Day | 369229 | [369229-rainy-day.json](./369229-rainy-day.json) |
 | Rainy Day Racer | 104049 | [104049-rainy-day-racer.json](./104049-rainy-day-racer.json) |
 | Rainy Day Roommate | 158168 | [158168-rainy-day-roommate.json](./158168-rainy-day-roommate.json) |
+| Rainy Day Spider Solitaire | 366447 | [366447-rainy-day-spider-solitaire.json](./366447-rainy-day-spider-solitaire.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
 | Rainy single room | 205588 | [205588-rainy-single-room.json](./205588-rainy-single-room.json) |
 | RainyCloud | 224542 | [224542-rainycloud.json](./224542-rainycloud.json) |
@@ -3871,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rondo of Swords | 21481 | [21481-rondo-of-swords.json](./21481-rondo-of-swords.json) |
 | Róngshēn zhī Dìtiě | 117649 | [117649-rongshen-zhi-ditie.json](./117649-rongshen-zhi-ditie.json) |
 | Rongu | 403719 | [403719-rongu.json](./403719-rongu.json) |
+| Ronin Heart | 366393 | [366393-ronin-heart.json](./366393-ronin-heart.json) |
 | Ronin Rush | 304713 | [304713-ronin-rush.json](./304713-ronin-rush.json) |
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronister Adventure | 164898 | [164898-ronister-adventure.json](./164898-ronister-adventure.json) |
