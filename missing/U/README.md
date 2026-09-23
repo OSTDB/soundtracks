@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncursed | 331985 | [331985-uncursed.json](./331985-uncursed.json) |
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
 | Undead Arena VR | 241493 | [241493-undead-arena-vr.json](./241493-undead-arena-vr.json) |
+| Undead Awakens | 342897 | [342897-undead-awakens.json](./342897-undead-awakens.json) |
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
@@ -897,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Hero | 371449 | [371449-unknown-hero.json](./371449-unknown-hero.json) |
 | Unknown Heroes Idle | 174809 | [174809-unknown-heroes-idle.json](./174809-unknown-heroes-idle.json) |
 | Unknown Horizons | 121622 | [121622-unknown-horizons.json](./121622-unknown-horizons.json) |
+| Unknown Host | 342906 | [342906-unknown-host.json](./342906-unknown-host.json) |
 | Unknown Kadath | 271456 | [271456-unknown-kadath.json](./271456-unknown-kadath.json) |
 | Unknown Memoirs: The Rental | 249840 | [249840-unknown-memoirs-the-rental.json](./249840-unknown-memoirs-the-rental.json) |
 | Unknown Pain: Hardcore | 96694 | [96694-unknown-pain-hardcore.json](./96694-unknown-pain-hardcore.json) |
