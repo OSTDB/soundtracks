@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Adventure | 186243 | [186243-wizards-adventure.json](./186243-wizards-adventure.json) |
 | Wizard's Beard | 277606 | [277606-wizards-beard.json](./277606-wizards-beard.json) |
 | Wizard's Crown | 2877 | [2877-wizards-crown.json](./2877-wizards-crown.json) |
+| Wizard's Fortress: Tower Defense | 345706 | [345706-wizards-fortress-tower-defense.json](./345706-wizards-fortress-tower-defense.json) |
 | Wizard's Harmony | 55900 | [55900-wizards-harmony.json](./55900-wizards-harmony.json) |
 | Wizard's Harmony 2 | 55901 | [55901-wizards-harmony-2.json](./55901-wizards-harmony-2.json) |
 | Wizard's Lair | 26471 | [26471-wizards-lair.json](./26471-wizards-lair.json) |
