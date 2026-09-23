@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden III x Mikado Maniax: Deluxe Edition | 234207 | [234207-raiden-iii-x-mikado-maniax-deluxe-edition.json](./234207-raiden-iii-x-mikado-maniax-deluxe-edition.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raider | 319597 | [319597-raider.json](./319597-raider.json) |
+| Raider | 351801 | [351801-raider.json](./351801-raider.json) |
 | Raiders 1941 | 406812 | [406812-raiders-1941.json](./406812-raiders-1941.json) |
 | Raiders of Mizburgh | 185546 | [185546-raiders-of-mizburgh.json](./185546-raiders-of-mizburgh.json) |
 | Raiders of the Apocalypse | 336000 | [336000-raiders-of-the-apocalypse.json](./336000-raiders-of-the-apocalypse.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
 | Recruits | 16626 | [16626-recruits.json](./16626-recruits.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
+| Rectifier: In Bloom | 351807 | [351807-rectifier-in-bloom.json](./351807-rectifier-in-bloom.json) |
 | Rectitude | 173224 | [173224-rectitude.json](./173224-rectitude.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
@@ -3352,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots Coop | 174736 | [174736-robots-coop.json](./174736-robots-coop.json) |
 | Robots Love Ice Cream | 62997 | [62997-robots-love-ice-cream.json](./62997-robots-love-ice-cream.json) |
 | Robots under attack! | 129608 | [129608-robots-under-attack.json](./129608-robots-under-attack.json) |
+| Robots With Guns | 351808 | [351808-robots-with-guns.json](./351808-robots-with-guns.json) |
 | Robots, Death & Venice | 172127 | [172127-robots-death-and-venice.json](./172127-robots-death-and-venice.json) |
 | RobotWar | 25129 | [25129-robotwar.json](./25129-robotwar.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
