@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Build Below | 361760 | [361760-we-build-below.json](./361760-we-build-below.json) |
 | We Can Make It | 216485 | [216485-we-can-make-it.json](./216485-we-can-make-it.json) |
 | We Cheer | 5263 | [5263-we-cheer.json](./5263-we-cheer.json) |
+| We Could Just Be Annoying | 382442 | [382442-we-could-just-be-annoying.json](./382442-we-could-just-be-annoying.json) |
 | We Dance | 20580 | [20580-we-dance.json](./20580-we-dance.json) |
 | We Die | 169849 | [169849-we-die.json](./169849-we-die.json) |
 | We don't die here | 212281 | [212281-we-dont-die-here.json](./212281-we-dont-die-here.json) |
@@ -1300,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Trash? | 158684 | [158684-what-trash.json](./158684-what-trash.json) |
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
 | What Would You Do? | 31396 | [31396-what-would-you-do.json](./31396-what-would-you-do.json) |
+| What, the fox | 382456 | [382456-what-the-fox.json](./382456-what-the-fox.json) |
 | What's A Star? | 178563 | [178563-whats-a-star.json](./178563-whats-a-star.json) |
 | What's Cooking?: Tasty Chef | 256536 | [256536-whats-cooking-tasty-chef.json](./256536-whats-cooking-tasty-chef.json) |
 | What's Different | 153457 | [153457-whats-different.json](./153457-whats-different.json) |
@@ -2646,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Wow Big City | 87127 | [87127-word-wow-big-city.json](./87127-word-wow-big-city.json) |
 | Word Zapper | 46884 | [46884-word-zapper.json](./46884-word-zapper.json) |
 | Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
+| Word95 | 382459 | [382459-word95.json](./382459-word95.json) |
 | Wordament: Snap Attack | 14592 | [14592-wordament-snap-attack.json](./14592-wordament-snap-attack.json) |
 | WordApt | 109504 | [109504-wordapt.json](./109504-wordapt.json) |
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
