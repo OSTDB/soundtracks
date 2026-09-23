@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatate-chan no Joshi Ryoku Training! | 403040 | [403040-hatate-chan-no-joshi-ryoku-training.json](./403040-hatate-chan-no-joshi-ryoku-training.json) |
 | Hatch | 314491 | [314491-hatch.json](./314491-hatch.json) |
 | Hatch Catch | 40175 | [40175-hatch-catch.json](./40175-hatch-catch.json) |
+| Hatch Dragons | 381848 | [381848-hatch-dragons.json](./381848-hatch-dragons.json) |
 | Hatch Tales: A Heroic Hookshot Adventure | 319936 | [319936-hatch-tales-a-heroic-hookshot-adventure.json](./319936-hatch-tales-a-heroic-hookshot-adventure.json) |
 | Hatchick | 96860 | [96860-hatchick.json](./96860-hatchick.json) |
 | Hatchling | 182511 | [182511-hatchling.json](./182511-hatchling.json) |
