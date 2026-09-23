@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
 | Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
 | Bladed Fury | 108787 | [108787-bladed-fury.json](./108787-bladed-fury.json) |
+| Bladefall | 378429 | [378429-bladefall.json](./378429-bladefall.json) |
 | Bladelords: The fighting game | 39220 | [39220-bladelords-the-fighting-game.json](./39220-bladelords-the-fighting-game.json) |
 | Blademaker: Arms Shop | 108825 | [108825-blademaker-arms-shop.json](./108825-blademaker-arms-shop.json) |
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
@@ -4677,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borrowed Light | 402503 | [402503-borrowed-light.json](./402503-borrowed-light.json) |
 | Borrowed Time | 12259 | [12259-borrowed-time.json](./12259-borrowed-time.json) |
 | Borstal | 33241 | [33241-borstal.json](./33241-borstal.json) |
+| Bosconian in 3-D | 378436 | [378436-bosconian-in-3-d.json](./378436-bosconian-in-3-d.json) |
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
 | Boshi Techou DS with 'Akachan Massage' | 269669 | [269669-boshi-techou-ds-with-akachan-massage.json](./269669-boshi-techou-ds-with-akachan-massage.json) |
 | Boson X | 7730 | [7730-boson-x.json](./7730-boson-x.json) |
@@ -4845,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouquet | 184525 | [184525-bouquet.json](./184525-bouquet.json) |
 | Bouquet | 346085 | [346085-bouquet.json](./346085-bouquet.json) |
 | Bourbon Empire | 217320 | [217320-bourbon-empire.json](./217320-bourbon-empire.json) |
+| Bourbon Risky | 378414 | [378414-bourbon-risky.json](./378414-bourbon-risky.json) |
 | Bousou! Orient Kyuukou | 91758 | [91758-bousou-orient-kyuukou.json](./91758-bousou-orient-kyuukou.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
@@ -6047,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny's Maze | 150605 | [150605-bunnys-maze.json](./150605-bunnys-maze.json) |
 | Bunny's Pizza Tycoon | 265394 | [265394-bunnys-pizza-tycoon.json](./265394-bunnys-pizza-tycoon.json) |
 | BunnyFlow | 390514 | [390514-bunnyflow.json](./390514-bunnyflow.json) |
+| BunnyOps | 378417 | [378417-bunnyops.json](./378417-bunnyops.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
 | Bunt Girl | 178669 | [178669-bunt-girl.json](./178669-bunt-girl.json) |
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
