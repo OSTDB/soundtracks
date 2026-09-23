@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chobits: Atashi Dake no Hito | 78730 | [78730-chobits-atashi-dake-no-hito.json](./78730-chobits-atashi-dake-no-hito.json) |
 | Chobits: Chii Dake no Hito | 65457 | [65457-chobits-chii-dake-no-hito.json](./65457-chobits-chii-dake-no-hito.json) |
 | Choc N Roll | 281995 | [281995-choc-n-roll.json](./281995-choc-n-roll.json) |
+| Choco Clicker World | 344547 | [344547-choco-clicker-world.json](./344547-choco-clicker-world.json) |
 | Choco Kiosk Simulator | 363019 | [363019-choco-kiosk-simulator.json](./363019-choco-kiosk-simulator.json) |
 | Choco Pixel 6 | 158060 | [158060-choco-pixel-6.json](./158060-choco-pixel-6.json) |
 | Choco Pixel 7 | 158591 | [158591-choco-pixel-7.json](./158591-choco-pixel-7.json) |
@@ -3103,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle the Fish | 214168 | [214168-circle-the-fish.json](./214168-circle-the-fish.json) |
 | Circle the Wagons: Prima Septimana | 274506 | [274506-circle-the-wagons-prima-septimana.json](./274506-circle-the-wagons-prima-septimana.json) |
 | Circle Triangle Square | 257116 | [257116-circle-triangle-square.json](./257116-circle-triangle-square.json) |
+| Circle Up | 344567 | [344567-circle-up.json](./344567-circle-up.json) |
 | Circle's End | 27670 | [27670-circles-end.json](./27670-circles-end.json) |
 | Circlebound | 384622 | [384622-circlebound.json](./384622-circlebound.json) |
 | Circlecers | 334790 | [334790-circlecers.json](./334790-circlecers.json) |
@@ -4378,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Leader | 24914 | [24914-combat-leader.json](./24914-combat-leader.json) |
 | Combat Lynx | 12946 | [12946-combat-lynx.json](./12946-combat-lynx.json) |
 | Combat Master | 248376 | [248376-combat-master.json](./248376-combat-master.json) |
+| Combat Master: Battle to Death | 344555 | [344555-combat-master-battle-to-death.json](./344555-combat-master-battle-to-death.json) |
 | Combat Master: Season 1 | 318437 | [318437-combat-master-season-1.json](./318437-combat-master-season-1.json) |
 | Combat Mission 2 | 645 | [645-combat-mission-2.json](./645-combat-mission-2.json) |
 | Combat Mission Anthology | 78011 | [78011-combat-mission-anthology.json](./78011-combat-mission-anthology.json) |
