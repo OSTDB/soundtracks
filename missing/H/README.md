@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
+| Hardcore Leveling Warrior | 382444 | [382444-hardcore-leveling-warrior.json](./382444-hardcore-leveling-warrior.json) |
 | Hardcore Mecha: Graeme | 168211 | [168211-hardcore-mecha-graeme.json](./168211-hardcore-mecha-graeme.json) |
 | Hardcore Mecha: Shepherd Jaeger | 168212 | [168212-hardcore-mecha-shepherd-jaeger.json](./168212-hardcore-mecha-shepherd-jaeger.json) |
 | Hardcore Parkour | 119765 | [119765-hardcore-parkour.json](./119765-hardcore-parkour.json) |
@@ -1581,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no Waku-waku Quiz | 61677 | [61677-hello-kitty-no-waku-waku-quiz.json](./61677-hello-kitty-no-waku-waku-quiz.json) |
 | Hello Kitty Online | 3685 | [3685-hello-kitty-online.json](./3685-hello-kitty-online.json) |
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
+| Hello Kitty Skyland | 382441 | [382441-hello-kitty-skyland.json](./382441-hello-kitty-skyland.json) |
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
 | Hello Kitty World | 48626 | [48626-hello-kitty-world.json](./48626-hello-kitty-world.json) |
 | Hello Kitty: Big City Dreams | 3686 | [3686-hello-kitty-big-city-dreams.json](./3686-hello-kitty-big-city-dreams.json) |
