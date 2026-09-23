@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Frigates | 61595 | [61595-battle-of-frigates.json](./61595-battle-of-frigates.json) |
 | Battle of Genesis | 269045 | [269045-battle-of-genesis.json](./269045-battle-of-genesis.json) |
 | Battle of Giants: Dinosaurs Strike | 7907 | [7907-battle-of-giants-dinosaurs-strike.json](./7907-battle-of-giants-dinosaurs-strike.json) |
+| Battle of Goldfish Scooping | 380121 | [380121-battle-of-goldfish-scooping.json](./380121-battle-of-goldfish-scooping.json) |
 | Battle of Heroes 3 | 196877 | [196877-battle-of-heroes-3.json](./196877-battle-of-heroes-3.json) |
 | Battle of Kingdom | 7772 | [7772-battle-of-kingdom.json](./7772-battle-of-kingdom.json) |
 | Battle of Kings | 101591 | [101591-battle-of-kings.json](./101591-battle-of-kings.json) |
@@ -3766,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloo Kid | 58463 | [58463-bloo-kid.json](./58463-bloo-kid.json) |
 | Blood 'N Bullets | 239778 | [239778-blood-n-bullets.json](./239778-blood-n-bullets.json) |
 | Blood 'n Guts | 37070 | [37070-blood-n-guts.json](./37070-blood-n-guts.json) |
+| Blood 'n' Guts | 380107 | [380107-blood-n-guts.json](./380107-blood-n-guts.json) |
 | Blood & Bacon | 33720 | [33720-blood-and-bacon.json](./33720-blood-and-bacon.json) |
 | Blood & Bananas | 367947 | [367947-blood-and-bananas.json](./367947-blood-and-bananas.json) |
 | Blood & Blade | 60798 | [60798-blood-and-blade.json](./60798-blood-and-blade.json) |
@@ -5809,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
 | Buggy Off-Road: Power Edition | 395675 | [395675-buggy-off-road-power-edition.json](./395675-buggy-off-road-power-edition.json) |
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
+| BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs Bunny | 46887 | [46887-bugs-bunny.json](./46887-bugs-bunny.json) |
 | Bugs Bunny & Taz: Time Busters | 3045 | [3045-bugs-bunny-and-taz-time-busters.json](./3045-bugs-bunny-and-taz-time-busters.json) |
