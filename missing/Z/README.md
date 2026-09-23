@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Estate | 66378 | [66378-zombie-estate.json](./66378-zombie-estate.json) |
 | Zombie Exodus: Safe Haven - Part Four | 388743 | [388743-zombie-exodus-safe-haven-part-four.json](./388743-zombie-exodus-safe-haven-part-four.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
+| Zombie Fish Tank | 343999 | [343999-zombie-fish-tank.json](./343999-zombie-fish-tank.json) |
 | Zombie Flick | 58184 | [58184-zombie-flick.json](./58184-zombie-flick.json) |
 | Zombie Football Simulator | 283720 | [283720-zombie-football-simulator.json](./283720-zombie-football-simulator.json) |
 | Zombie Forest 3: Underground | 251231 | [251231-zombie-forest-3-underground.json](./251231-zombie-forest-3-underground.json) |
@@ -583,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Harvest | 87158 | [87158-zombie-harvest.json](./87158-zombie-harvest.json) |
 | Zombie Hazard | 166776 | [166776-zombie-hazard.json](./166776-zombie-hazard.json) |
 | Zombie Hell: Infected City | 216814 | [216814-zombie-hell-infected-city.json](./216814-zombie-hell-infected-city.json) |
+| Zombie High Dive | 344004 | [344004-zombie-high-dive.json](./344004-zombie-high-dive.json) |
 | Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
 | Zombie Hill Race | 147265 | [147265-zombie-hill-race.json](./147265-zombie-hill-race.json) |
 | Zombie Hobby VR | 41950 | [41950-zombie-hobby-vr.json](./41950-zombie-hobby-vr.json) |
@@ -602,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Infection 2 | 223015 | [223015-zombie-infection-2.json](./223015-zombie-infection-2.json) |
 | Zombie Invasion: FPS Defense | 269097 | [269097-zombie-invasion-fps-defense.json](./269097-zombie-invasion-fps-defense.json) |
 | Zombie Island | 127084 | [127084-zombie-island.json](./127084-zombie-island.json) |
+| Zombie Isle | 343474 | [343474-zombie-isle.json](./343474-zombie-isle.json) |
 | Zombie Killer | 181776 | [181776-zombie-killer.json](./181776-zombie-killer.json) |
 | Zombie Killer Squad | 213946 | [213946-zombie-killer-squad.json](./213946-zombie-killer-squad.json) |
 | Zombie Killing Simulator | 103184 | [103184-zombie-killing-simulator.json](./103184-zombie-killing-simulator.json) |
