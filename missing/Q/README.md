@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for the Golden Duck | 114111 | [114111-quest-for-the-golden-duck.json](./114111-quest-for-the-golden-duck.json) |
 | Quest for the Pinnacle | 238508 | [238508-quest-for-the-pinnacle.json](./238508-quest-for-the-pinnacle.json) |
 | Quest for the Shaven Yak Starring Ren Hoëk and Stimpy | 7986 | [7986-quest-for-the-shaven-yak-starring-ren-hoek-and-stimpy.json](./7986-quest-for-the-shaven-yak-starring-ren-hoek-and-stimpy.json) |
+| Quest for the Unicorn | 356852 | [356852-quest-for-the-unicorn.json](./356852-quest-for-the-unicorn.json) |
 | Quest For The X | 259822 | [259822-quest-for-the-x.json](./259822-quest-for-the-x.json) |
 | Quest For Wartorn Brotherhood | 118389 | [118389-quest-for-wartorn-brotherhood.json](./118389-quest-for-wartorn-brotherhood.json) |
 | Quest for Yrolg | 57098 | [57098-quest-for-yrolg.json](./57098-quest-for-yrolg.json) |
