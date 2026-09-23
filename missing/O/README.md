@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey the Voice | 386276 | [386276-obey-the-voice.json](./386276-obey-the-voice.json) |
 | OBJ VR | 309376 | [309376-obj-vr.json](./309376-obj-vr.json) |
 | Object "Cleaning" | 83568 | [83568-object-cleaning.json](./83568-object-cleaning.json) |
+| Object Factory | 371425 | [371425-object-factory.json](./371425-object-factory.json) |
 | Objects in Space | 19088 | [19088-objects-in-space.json](./19088-objects-in-space.json) |
 | Oblako | 394373 | [394373-oblako.json](./394373-oblako.json) |
 | Obliterate | 43246 | [43246-obliterate.json](./43246-obliterate.json) |
@@ -271,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Of Evil and Darkness | 129729 | [129729-of-evil-and-darkness.json](./129729-of-evil-and-darkness.json) |
 | Of Gods and Men: The Daybreak Empire | 109401 | [109401-of-gods-and-men-the-daybreak-empire.json](./109401-of-gods-and-men-the-daybreak-empire.json) |
+| Of Grit & Graves | 371465 | [371465-of-grit-and-graves.json](./371465-of-grit-and-graves.json) |
 | Of Guards and Thieves: Firefight | 167677 | [167677-of-guards-and-thieves-firefight.json](./167677-of-guards-and-thieves-firefight.json) |
 | Of Hibnernry Boneyard Ler Ardus | 397097 | [397097-of-hibnernry-boneyard-ler-ardus.json](./397097-of-hibnernry-boneyard-ler-ardus.json) |
 | Of Ice & Snow | 229783 | [229783-of-ice-and-snow.json](./229783-of-ice-and-snow.json) |
