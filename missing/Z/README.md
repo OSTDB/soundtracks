@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombreak: The Last Escape | 250970 | [250970-zombreak-the-last-escape.json](./250970-zombreak-the-last-escape.json) |
 | Zombs.io | 76570 | [76570-zombs-io.json](./76570-zombs-io.json) |
 | Zombusters | 50804 | [50804-zombusters.json](./50804-zombusters.json) |
+| Zombutcher | 379585 | [379585-zombutcher.json](./379585-zombutcher.json) |
 | ZombWave | 207402 | [207402-zombwave.json](./207402-zombwave.json) |
 | Zompiercer | 132247 | [132247-zompiercer.json](./132247-zompiercer.json) |
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
