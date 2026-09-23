@@ -4276,6 +4276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
 | RPG Maker 2003 | 53529 | [53529-rpg-maker-2003.json](./53529-rpg-maker-2003.json) |
 | RPG Maker 3 | 24144 | [24144-rpg-maker-3.json](./24144-rpg-maker-3.json) |
+| RPG Maker Coloring Book | 338946 | [338946-rpg-maker-coloring-book.json](./338946-rpg-maker-coloring-book.json) |
 | RPG Maker II | 43556 | [43556-rpg-maker-ii.json](./43556-rpg-maker-ii.json) |
 | RPG Maker With | 291538 | [291538-rpg-maker-with.json](./291538-rpg-maker-with.json) |
 | RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
