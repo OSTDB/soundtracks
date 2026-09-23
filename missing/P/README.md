@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Space | 41371 | [41371-panic-space.json](./41371-panic-space.json) |
 | Panic Station | 172113 | [172113-panic-station.json](./172113-panic-station.json) |
 | Panic Station VR | 130151 | [130151-panic-station-vr.json](./130151-panic-station-vr.json) |
+| Panic Timing | 368108 | [368108-panic-timing.json](./368108-panic-timing.json) |
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
 | Panic! at the Dog Show | 106364 | [106364-panic-at-the-dog-show.json](./106364-panic-at-the-dog-show.json) |
 | Panicore | 277278 | [277278-panicore.json](./277278-panicore.json) |
@@ -4193,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
+| Poor Piggy Pirate | 368146 | [368146-poor-piggy-pirate.json](./368146-poor-piggy-pirate.json) |
 | Poorer Art | 377160 | [377160-poorer-art.json](./377160-poorer-art.json) |
 | Poosh XL | 236361 | [236361-poosh-xl.json](./236361-poosh-xl.json) |
 | PooSky | 68615 | [68615-poosky.json](./68615-poosky.json) |
