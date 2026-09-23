@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 All-Time Favorites | 91382 | [91382-20-all-time-favorites.json](./91382-20-all-time-favorites.json) |
 | 20 Billion Wives | 56146 | [56146-20-billion-wives.json](./56146-20-billion-wives.json) |
 | 20 Challenges: Episode 2 - Witchcraft | 339249 | [339249-20-challenges-episode-2-witchcraft.json](./339249-20-challenges-episode-2-witchcraft.json) |
+| 20 Challenges: Episode 4 - Temple of the Elements | 344022 | [344022-20-challenges-episode-4-temple-of-the-elements.json](./344022-20-challenges-episode-4-temple-of-the-elements.json) |
 | 20 Days | 371267 | [371267-20-days.json](./371267-20-days.json) |
 | 20 em 1 | 94700 | [94700-20-em-1.json](./94700-20-em-1.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
+| 2048+# | 343995 | [343995-2048.json](./343995-2048.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 2048Puzzle | 357973 | [357973-2048puzzle.json](./357973-2048puzzle.json) |
 | 2069 AD | 98267 | [98267-2069-ad.json](./98267-2069-ad.json) |
