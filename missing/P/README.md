@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachansky Mathematics 2+2=8 | 393454 | [393454-pachansky-mathematics-2-2-8.json](./393454-pachansky-mathematics-2-2-8.json) |
 | Pachi Pachi: On a Roll | 143696 | [143696-pachi-pachi-on-a-roll.json](./143696-pachi-pachi-on-a-roll.json) |
 | Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
+| Pachi tto to Pachi-kake da se! Pachi-pachi tokimeki Hanabi Taikai! | 358496 | [358496-pachi-tto-to-pachi-kake-da-se-pachi-pachi-tokimeki-hanabi-taikai.json](./358496-pachi-tto-to-pachi-kake-da-se-pachi-pachi-tokimeki-hanabi-taikai.json) |
 | Pachi-Pachi Typing | 397100 | [397100-pachi-pachi-typing.json](./397100-pachi-pachi-typing.json) |
 | Pachi-Slot Aruze Oukoku | 56738 | [56738-pachi-slot-aruze-oukoku.json](./56738-pachi-slot-aruze-oukoku.json) |
 | Pachi-Slot Aruze Oukoku 2 | 56736 | [56736-pachi-slot-aruze-oukoku-2.json](./56736-pachi-slot-aruze-oukoku-2.json) |
@@ -4183,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool 3D | 86900 | [86900-pool-3d.json](./86900-pool-3d.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
+| Pool Club kara no Dasshutsu | 358493 | [358493-pool-club-kara-no-dasshutsu.json](./358493-pool-club-kara-no-dasshutsu.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
 | Pool Fever: Prime Edition | 332513 | [332513-pool-fever-prime-edition.json](./332513-pool-fever-prime-edition.json) |
 | Pool Fever: Superior Edition | 396925 | [396925-pool-fever-superior-edition.json](./396925-pool-fever-superior-edition.json) |
@@ -6043,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
 | Puri-Puri | 177935 | [177935-puri-puri.json](./177935-puri-puri.json) |
 | Purified | 374255 | [374255-purified.json](./374255-purified.json) |
+| Purifying Fox | 358507 | [358507-purifying-fox.json](./358507-purifying-fox.json) |
 | Purikura Daisakusen | 39572 | [39572-purikura-daisakusen.json](./39572-purikura-daisakusen.json) |
 | Purin-chan's Boxing Gym 2 | 83229 | [83229-purin-chans-boxing-gym-2.json](./83229-purin-chans-boxing-gym-2.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
