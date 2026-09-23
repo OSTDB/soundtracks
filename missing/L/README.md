@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
 | Laura | 210115 | [210115-laura.json](./210115-laura.json) |
+| Laura Bow and the Mechanical Codex | 351270 | [351270-laura-bow-and-the-mechanical-codex.json](./351270-laura-bow-and-the-mechanical-codex.json) |
 | Laura Lustful Secrets | 360078 | [360078-laura-lustful-secrets.json](./360078-laura-lustful-secrets.json) |
 | Laura's Happy Adventures | 66703 | [66703-lauras-happy-adventures.json](./66703-lauras-happy-adventures.json) |
 | Lauras Tierklinik | 163974 | [163974-lauras-tierklinik.json](./163974-lauras-tierklinik.json) |
