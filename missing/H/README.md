@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness! De:Lucks | 94724 | [94724-happiness-de-lucks.json](./94724-happiness-de-lucks.json) |
 | Happup | 130738 | [130738-happup.json](./130738-happup.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
+| Happy Ball Rush | 391328 | [391328-happy-ball-rush.json](./391328-happy-ball-rush.json) |
 | Happy Balloons | 57368 | [57368-happy-balloons.json](./57368-happy-balloons.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
 | Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
@@ -981,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Haut | 349382 | [349382-haut.json](./349382-haut.json) |
 | Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
+| Have It Coming | 391331 | [391331-have-it-coming.json](./391331-have-it-coming.json) |
 | Have You Heard | 299263 | [299263-have-you-heard.json](./299263-have-you-heard.json) |
 | Have You Herd? | 235970 | [235970-have-you-herd.json](./235970-have-you-herd.json) |
 | Have You Seen the Moon? | 407400 | [407400-have-you-seen-the-moon.json](./407400-have-you-seen-the-moon.json) |
@@ -2387,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
 | Hidden Folks 2 | 404849 | [404849-hidden-folks-2.json](./404849-hidden-folks-2.json) |
+| Hidden Foxes | 391340 | [391340-hidden-foxes.json](./391340-hidden-foxes.json) |
 | Hidden Futa | 236287 | [236287-hidden-futa.json](./236287-hidden-futa.json) |
 | Hidden Garden | 63885 | [63885-hidden-garden.json](./63885-hidden-garden.json) |
 | Hidden Garden Fairies | 100883 | [100883-hidden-garden-fairies.json](./100883-hidden-garden-fairies.json) |
@@ -3047,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday After Special | 310965 | [310965-holiday-after-special.json](./310965-holiday-after-special.json) |
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
+| Holiday Eye Spy 2 | 391337 | [391337-holiday-eye-spy-2.json](./391337-holiday-eye-spy-2.json) |
 | Holiday Hits | 279774 | [279774-holiday-hits.json](./279774-holiday-hits.json) |
 | Holiday Holocaust | 273139 | [273139-holiday-holocaust.json](./273139-holiday-holocaust.json) |
 | Holiday in Europe: Netherlands Dreams - Collector's Edition | 362852 | [362852-holiday-in-europe-netherlands-dreams-collectors-edition.json](./362852-holiday-in-europe-netherlands-dreams-collectors-edition.json) |
@@ -3220,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebound | 178519 | [178519-homebound.json](./178519-homebound.json) |
 | Homebound | 27682 | [27682-homebound.json](./27682-homebound.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
+| Homebound: Escape Room | 391344 | [391344-homebound-escape-room.json](./391344-homebound-escape-room.json) |
 | Homecoming | 271314 | [271314-homecoming.json](./271314-homecoming.json) |
 | Homecoming: Kitaku | 323708 | [323708-homecoming-kitaku.json](./323708-homecoming-kitaku.json) |
 | Homefront | 1885 | [1885-homefront.json](./1885-homefront.json) |
@@ -4214,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Killer | 94008 | [94008-hunter-killer.json](./94008-hunter-killer.json) |
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter Patrol | 13883 | [13883-hunter-patrol.json](./13883-hunter-patrol.json) |
+| Hunter Simulator VR: Wild Hunting | 391345 | [391345-hunter-simulator-vr-wild-hunting.json](./391345-hunter-simulator-vr-wild-hunting.json) |
 | Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 2 Phinks | 375152 | [375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json](./375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 3 Shizuku | 375153 | [375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json](./375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json) |
