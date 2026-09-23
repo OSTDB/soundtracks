@@ -2575,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eXceed 3rd: Jade Penetrate Black Package | 10967 | [10967-exceed-3rd-jade-penetrate-black-package.json](./10967-exceed-3rd-jade-penetrate-black-package.json) |
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
 | eXceed Gun Bullet Children | 9290 | [9290-exceed-gun-bullet-children.json](./9290-exceed-gun-bullet-children.json) |
+| Excellent Game | 374274 | [374274-excellent-game.json](./374274-excellent-game.json) |
 | Excelsior | 39852 | [39852-excelsior.json](./39852-excelsior.json) |
 | Exception; | 129166 | [129166-exception.json](./129166-exception.json) |
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
