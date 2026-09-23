@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day for Soft Food | 304221 | [304221-a-day-for-soft-food.json](./304221-a-day-for-soft-food.json) |
 | A Day In Space | 249257 | [249257-a-day-in-space.json](./249257-a-day-in-space.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
+| A Day in the Life Of | 387694 | [387694-a-day-in-the-life-of.json](./387694-a-day-in-the-life-of.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Demon's Game: Episode 1 | 30053 | [30053-a-demons-game-episode-1.json](./30053-a-demons-game-episode-1.json) |
@@ -5210,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: Fantasy Academy Costume Set | 356743 | [356743-atelier-yumia-fantasy-academy-costume-set.json](./356743-atelier-yumia-fantasy-academy-costume-set.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
+| Athar: Echoes of Time | 387657 | [387657-athar-echoes-of-time.json](./387657-athar-echoes-of-time.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena | 9052 | [9052-athena.json](./9052-athena.json) |
 | Athena Cykes: Ace Attorney - Dark Ace Saga | 308427 | [308427-athena-cykes-ace-attorney-dark-ace-saga.json](./308427-athena-cykes-ace-attorney-dark-ace-saga.json) |
@@ -5260,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmoids | 92833 | [92833-atmoids.json](./92833-atmoids.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
 | Atmosphir | 70682 | [70682-atmosphir.json](./70682-atmosphir.json) |
+| ATNRPG | 387687 | [387687-atnrpg.json](./387687-atnrpg.json) |
 | Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
@@ -5437,6 +5440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
 | Auro: A Monster-Bumping Adventure | 33099 | [33099-auro-a-monster-bumping-adventure.json](./33099-auro-a-monster-bumping-adventure.json) |
 | Aurora | 170459 | [170459-aurora.json](./170459-aurora.json) |
+| Aurora | 387688 | [387688-aurora.json](./387688-aurora.json) |
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
@@ -5627,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
 | Average Human Ball Game | 349368 | [349368-average-human-ball-game.json](./349368-average-human-ball-game.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
+| Average Routine | 387671 | [387671-average-routine.json](./387671-average-routine.json) |
 | Averi the Accursed | 406910 | [406910-averi-the-accursed.json](./406910-averi-the-accursed.json) |
 | Avernum | 19580 | [19580-avernum.json](./19580-avernum.json) |
 | Avernum 2 | 19581 | [19581-avernum-2.json](./19581-avernum-2.json) |
