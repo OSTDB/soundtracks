@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon Squad | 227953 | [227953-falcon-squad.json](./227953-falcon-squad.json) |
 | Falconet | 189102 | [189102-falconet.json](./189102-falconet.json) |
 | Falcons | 24884 | [24884-falcons.json](./24884-falcons.json) |
+| Falcross | 371454 | [371454-falcross.json](./371454-falcross.json) |
 | Falinere Fantasy | 215887 | [215887-falinere-fantasy.json](./215887-falinere-fantasy.json) |
 | Fall Asleep | 381010 | [381010-fall-asleep.json](./381010-fall-asleep.json) |
 | Fall Ball Fall | 141852 | [141852-fall-ball-fall.json](./141852-fall-ball-fall.json) |
@@ -473,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling for Yaoguais | 333569 | [333569-falling-for-yaoguais.json](./333569-falling-for-yaoguais.json) |
 | Falling Frontier | 132621 | [132621-falling-frontier.json](./132621-falling-frontier.json) |
 | Falling Guys | 361739 | [361739-falling-guys.json](./361739-falling-guys.json) |
+| Falling in Reverse Heardle | 371468 | [371468-falling-in-reverse-heardle.json](./371468-falling-in-reverse-heardle.json) |
 | Falling Into You | 218165 | [218165-falling-into-you.json](./218165-falling-into-you.json) |
 | Falling Kwadrats | 179203 | [179203-falling-kwadrats.json](./179203-falling-kwadrats.json) |
 | Falling Limbs | 258006 | [258006-falling-limbs.json](./258006-falling-limbs.json) |
@@ -928,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Adventure Double Pack: Orange Season + Garden Witch Life | 381716 | [381716-farming-adventure-double-pack-orange-season-garden-witch-life.json](./381716-farming-adventure-double-pack-orange-season-garden-witch-life.json) |
 | Farming Homestead | 411570 | [411570-farming-homestead.json](./411570-farming-homestead.json) |
 | Farming Life Simulator | 373655 | [373655-farming-life-simulator.json](./373655-farming-life-simulator.json) |
+| Farming Mushroom | 371483 | [371483-farming-mushroom.json](./371483-farming-mushroom.json) |
 | Farming PRO 2015 | 88257 | [88257-farming-pro-2015.json](./88257-farming-pro-2015.json) |
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
 | Farming Sim 25: Drive Tractors, Combine, Trucks | 329568 | [329568-farming-sim-25-drive-tractors-combine-trucks.json](./329568-farming-sim-25-drive-tractors-combine-trucks.json) |
