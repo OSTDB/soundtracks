@@ -2777,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She is Mermaid | 102086 | [102086-she-is-mermaid.json](./102086-she-is-mermaid.json) |
 | She is... | 413045 | [413045-she-is.json](./413045-she-is.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
+| She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
 | Sid Meier's Civilization VI: Byzantium & Gaul Pack | 139967 | [139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json](./139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json) |
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
+| Sid Meier's Civilization VII: Arcade Edition | 385294 | [385294-sid-meiers-civilization-vii-arcade-edition.json](./385294-sid-meiers-civilization-vii-arcade-edition.json) |
 | Sid Meier's Civilization VII: Deluxe Edition | 315854 | [315854-sid-meiers-civilization-vii-deluxe-edition.json](./315854-sid-meiers-civilization-vii-deluxe-edition.json) |
 | Sid Meier's Civilization VII: Founders Edition | 315853 | [315853-sid-meiers-civilization-vii-founders-edition.json](./315853-sid-meiers-civilization-vii-founders-edition.json) |
 | Sid Meier's Civilization VII: Heian Japan Pack | 411598 | [411598-sid-meiers-civilization-vii-heian-japan-pack.json](./411598-sid-meiers-civilization-vii-heian-japan-pack.json) |
@@ -7516,6 +7518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellBlast | 58837 | [58837-spellblast.json](./58837-spellblast.json) |
 | Spellbound | 179683 | [179683-spellbound.json](./179683-spellbound.json) |
 | Spellbound : The Magic Within | 155981 | [155981-spellbound-the-magic-within.json](./155981-spellbound-the-magic-within.json) |
+| Spellbound Beauties | 385320 | [385320-spellbound-beauties.json](./385320-spellbound-beauties.json) |
 | Spellbound Hearts | 286013 | [286013-spellbound-hearts.json](./286013-spellbound-hearts.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
 | Spellbound Spire | 142428 | [142428-spellbound-spire.json](./142428-spellbound-spire.json) |
@@ -9876,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Beasts | 256324 | [256324-stray-beasts.json](./256324-stray-beasts.json) |
 | Stray Blade: Valley of Strays | 276825 | [276825-stray-blade-valley-of-strays.json](./276825-stray-blade-valley-of-strays.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
+| Stray Gods: Orpheus Edition | 385325 | [385325-stray-gods-orpheus-edition.json](./385325-stray-gods-orpheus-edition.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
 | Stray of Lostcat | 385078 | [385078-stray-of-lostcat.json](./385078-stray-of-lostcat.json) |
 | Stray Shot | 290715 | [290715-stray-shot.json](./290715-stray-shot.json) |
@@ -10140,6 +10144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Poker II | 78962 | [78962-strip-poker-ii.json](./78962-strip-poker-ii.json) |
 | Striping Fruits | 147410 | [147410-striping-fruits.json](./147410-striping-fruits.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
+| Stripper Anya: Christmas Special | 385311 | [385311-stripper-anya-christmas-special.json](./385311-stripper-anya-christmas-special.json) |
 | Stripper Anya: Demon Slayer | 51511 | [51511-stripper-anya-demon-slayer.json](./51511-stripper-anya-demon-slayer.json) |
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
 | Strix STG | 228077 | [228077-strix-stg.json](./228077-strix-stg.json) |
@@ -12033,6 +12038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
 | Supersportic | 68273 | [68273-supersportic.json](./68273-supersportic.json) |
 | Supersports: The Alternative Olympics | 123008 | [123008-supersports-the-alternative-olympics.json](./123008-supersports-the-alternative-olympics.json) |
+| Superspy Steve | 385296 | [385296-superspy-steve.json](./385296-superspy-steve.json) |
 | SuperSquad.GG | 292002 | [292002-supersquad-gg.json](./292002-supersquad-gg.json) |
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
