@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T22:33:07.764Z",
-  "total_missing": 113277,
+  "generated_at": "2026-09-23T22:47:41.382Z",
+  "total_missing": 113327,
   "games": [
     {
       "igdb_id": 176875,
@@ -13621,6 +13621,11 @@
       "igdb_id": 26778,
       "game_name": "Alex Kidd in Miracle World",
       "file": "missing/A/26778-alex-kidd-in-miracle-world.json"
+    },
+    {
+      "igdb_id": 339438,
+      "game_name": "Alex Kidd in Miracle World 2",
+      "file": "missing/A/339438-alex-kidd-in-miracle-world-2.json"
     },
     {
       "igdb_id": 413221,
@@ -36453,6 +36458,11 @@
       "file": "missing/B/236363-backrooms-descent.json"
     },
     {
+      "igdb_id": 339446,
+      "game_name": "Backrooms Escape Protocol",
+      "file": "missing/B/339446-backrooms-escape-protocol.json"
+    },
+    {
       "igdb_id": 258475,
       "game_name": "Backrooms Exploration Liminal",
       "file": "missing/B/258475-backrooms-exploration-liminal.json"
@@ -36601,6 +36611,11 @@
       "igdb_id": 239762,
       "game_name": "Backrooms: The Project",
       "file": "missing/B/239762-backrooms-the-project.json"
+    },
+    {
+      "igdb_id": 339449,
+      "game_name": "Backrooms: The Silence",
+      "file": "missing/B/339449-backrooms-the-silence.json"
     },
     {
       "igdb_id": 298562,
@@ -56511,6 +56526,11 @@
       "igdb_id": 318594,
       "game_name": "Blue-Sky-Blue(s): Sora o Mau Tsubasa",
       "file": "missing/B/318594-blue-sky-blue-s-sora-o-mau-tsubasa.json"
+    },
+    {
+      "igdb_id": 339452,
+      "game_name": "Blue: Store",
+      "file": "missing/B/339452-blue-store.json"
     },
     {
       "igdb_id": 229070,
@@ -84478,6 +84498,11 @@
       "file": "missing/C/272025-city-full-of-alien-scum.json"
     },
     {
+      "igdb_id": 339451,
+      "game_name": "City Gangster Simulator",
+      "file": "missing/C/339451-city-gangster-simulator.json"
+    },
+    {
       "igdb_id": 393599,
       "game_name": "City God Alice",
       "file": "missing/C/393599-city-god-alice.json"
@@ -89086,6 +89111,11 @@
       "igdb_id": 231397,
       "game_name": "Color Blind: The Game",
       "file": "missing/C/231397-color-blind-the-game.json"
+    },
+    {
+      "igdb_id": 339436,
+      "game_name": "Color Block Jam",
+      "file": "missing/C/339436-color-block-jam.json"
     },
     {
       "igdb_id": 130854,
@@ -196826,6 +196856,11 @@
       "igdb_id": 207307,
       "game_name": "Grindshift",
       "file": "missing/G/207307-grindshift.json"
+    },
+    {
+      "igdb_id": 339472,
+      "game_name": "Gringo Hero",
+      "file": "missing/G/339472-gringo-hero.json"
     },
     {
       "igdb_id": 266901,
@@ -452203,6 +452238,11 @@
       "file": "missing/S/275120-summer-fantasy.json"
     },
     {
+      "igdb_id": 339481,
+      "game_name": "Summer for You",
+      "file": "missing/S/339481-summer-for-you.json"
+    },
+    {
       "igdb_id": 87556,
       "game_name": "Summer Funland",
       "file": "missing/S/87556-summer-funland.json"
@@ -452461,6 +452501,11 @@
       "igdb_id": 291980,
       "game_name": "Summon Quest",
       "file": "missing/S/291980-summon-quest.json"
+    },
+    {
+      "igdb_id": 339480,
+      "game_name": "Summon The Dudes!",
+      "file": "missing/S/339480-summon-the-dudes.json"
     },
     {
       "igdb_id": 216870,
@@ -454081,6 +454126,11 @@
       "igdb_id": 267944,
       "game_name": "Super Diagonal Mario 2: The Ultimate Meme Machine",
       "file": "missing/S/267944-super-diagonal-mario-2-the-ultimate-meme-machine.json"
+    },
+    {
+      "igdb_id": 339478,
+      "game_name": "Super Dig Man Deluxe",
+      "file": "missing/S/339478-super-dig-man-deluxe.json"
     },
     {
       "igdb_id": 220880,
@@ -457163,6 +457213,11 @@
       "file": "missing/S/344563-super-orbit.json"
     },
     {
+      "igdb_id": 339477,
+      "game_name": "Super Orbital Mega Drift II",
+      "file": "missing/S/339477-super-orbital-mega-drift-ii.json"
+    },
+    {
       "igdb_id": 244799,
       "game_name": "Super Over!",
       "file": "missing/S/244799-super-over.json"
@@ -458638,6 +458693,11 @@
       "file": "missing/S/173959-super-toy-cars-offroad.json"
     },
     {
+      "igdb_id": 339475,
+      "game_name": "Super Trailblazers",
+      "file": "missing/S/339475-super-trailblazers.json"
+    },
+    {
       "igdb_id": 34840,
       "game_name": "Super Trench Attack 2",
       "file": "missing/S/34840-super-trench-attack-2.json"
@@ -459021,6 +459081,11 @@
       "igdb_id": 69241,
       "game_name": "Supercharged!",
       "file": "missing/S/69241-supercharged.json"
+    },
+    {
+      "igdb_id": 339479,
+      "game_name": "SuperCowBoy",
+      "file": "missing/S/339479-supercowboy.json"
     },
     {
       "igdb_id": 151123,
@@ -459478,6 +459543,11 @@
       "file": "missing/S/342636-superquest.json"
     },
     {
+      "igdb_id": 339476,
+      "game_name": "Supershot",
+      "file": "missing/S/339476-supershot.json"
+    },
+    {
       "igdb_id": 206714,
       "game_name": "Supershot Golf Robot",
       "file": "missing/S/206714-supershot-golf-robot.json"
@@ -459721,6 +459791,11 @@
       "igdb_id": 73257,
       "game_name": "Supreme Earth Champion",
       "file": "missing/S/73257-supreme-earth-champion.json"
+    },
+    {
+      "igdb_id": 339474,
+      "game_name": "Supreme Kung Fu",
+      "file": "missing/S/339474-supreme-kung-fu.json"
     },
     {
       "igdb_id": 16574,
@@ -460086,6 +460161,11 @@
       "igdb_id": 274577,
       "game_name": "Survial",
       "file": "missing/S/274577-survial.json"
+    },
+    {
+      "igdb_id": 339473,
+      "game_name": "SurviBall",
+      "file": "missing/S/339473-surviball.json"
     },
     {
       "igdb_id": 345527,
@@ -461413,6 +461493,11 @@
       "file": "missing/S/169381-sweet-and-cute.json"
     },
     {
+      "igdb_id": 339471,
+      "game_name": "Sweet Animal Girls",
+      "file": "missing/S/339471-sweet-animal-girls.json"
+    },
+    {
       "igdb_id": 227474,
       "game_name": "Sweet Baby Girl Christmas 2",
       "file": "missing/S/227474-sweet-baby-girl-christmas-2.json"
@@ -461478,9 +461563,24 @@
       "file": "missing/S/368521-sweet-camping.json"
     },
     {
+      "igdb_id": 339470,
+      "game_name": "Sweet Casino",
+      "file": "missing/S/339470-sweet-casino.json"
+    },
+    {
+      "igdb_id": 339469,
+      "game_name": "Sweet Cheerleaders",
+      "file": "missing/S/339469-sweet-cheerleaders.json"
+    },
+    {
       "igdb_id": 384626,
       "game_name": "Sweet Cheongsam",
       "file": "missing/S/384626-sweet-cheongsam.json"
+    },
+    {
+      "igdb_id": 339468,
+      "game_name": "Sweet Cinema",
+      "file": "missing/S/339468-sweet-cinema.json"
     },
     {
       "igdb_id": 59989,
@@ -461491,6 +461591,16 @@
       "igdb_id": 188497,
       "game_name": "Sweet Collector",
       "file": "missing/S/188497-sweet-collector.json"
+    },
+    {
+      "igdb_id": 339467,
+      "game_name": "Sweet Cruise",
+      "file": "missing/S/339467-sweet-cruise.json"
+    },
+    {
+      "igdb_id": 339466,
+      "game_name": "Sweet Delights: The Girl’s Cafe Quest",
+      "file": "missing/S/339466-sweet-delights-the-girl-s-cafe-quest.json"
     },
     {
       "igdb_id": 147380,
@@ -461533,6 +461643,16 @@
       "file": "missing/S/29081-sweet-fantasy.json"
     },
     {
+      "igdb_id": 339464,
+      "game_name": "Sweet Fantasy",
+      "file": "missing/S/339464-sweet-fantasy.json"
+    },
+    {
+      "igdb_id": 339463,
+      "game_name": "Sweet Fantasy World",
+      "file": "missing/S/339463-sweet-fantasy-world.json"
+    },
+    {
       "igdb_id": 392907,
       "game_name": "Sweet Farm",
       "file": "missing/S/392907-sweet-farm.json"
@@ -461558,6 +461678,16 @@
       "file": "missing/S/352294-sweet-girls-collection.json"
     },
     {
+      "igdb_id": 339462,
+      "game_name": "Sweet Glassirl",
+      "file": "missing/S/339462-sweet-glassirl.json"
+    },
+    {
+      "igdb_id": 339461,
+      "game_name": "Sweet Gym",
+      "file": "missing/S/339461-sweet-gym.json"
+    },
+    {
       "igdb_id": 316815,
       "game_name": "Sweet Hazard",
       "file": "missing/S/316815-sweet-hazard.json"
@@ -461568,14 +461698,49 @@
       "file": "missing/S/86800-sweet-hearts-match-3.json"
     },
     {
+      "igdb_id": 339460,
+      "game_name": "Sweet Hide and Seek",
+      "file": "missing/S/339460-sweet-hide-and-seek.json"
+    },
+    {
       "igdb_id": 9426,
       "game_name": "Sweet Home",
       "file": "missing/S/9426-sweet-home.json"
     },
     {
+      "igdb_id": 339459,
+      "game_name": "Sweet Home 3: Look and Find - Collector's Edition",
+      "file": "missing/S/339459-sweet-home-3-look-and-find-collectors-edition.json"
+    },
+    {
       "igdb_id": 207810,
       "game_name": "Sweet Home: Design & Blast",
       "file": "missing/S/207810-sweet-home-design-and-blast.json"
+    },
+    {
+      "igdb_id": 339458,
+      "game_name": "Sweet Honey",
+      "file": "missing/S/339458-sweet-honey.json"
+    },
+    {
+      "igdb_id": 339456,
+      "game_name": "Sweet Hot Spring",
+      "file": "missing/S/339456-sweet-hot-spring.json"
+    },
+    {
+      "igdb_id": 339457,
+      "game_name": "Sweet Hotel",
+      "file": "missing/S/339457-sweet-hotel.json"
+    },
+    {
+      "igdb_id": 339455,
+      "game_name": "Sweet Hunt",
+      "file": "missing/S/339455-sweet-hunt.json"
+    },
+    {
+      "igdb_id": 339454,
+      "game_name": "Sweet Ice-Cream",
+      "file": "missing/S/339454-sweet-ice-cream.json"
     },
     {
       "igdb_id": 371243,
@@ -461598,6 +461763,11 @@
       "file": "missing/S/165027-sweet-love.json"
     },
     {
+      "igdb_id": 339453,
+      "game_name": "Sweet Massage",
+      "file": "missing/S/339453-sweet-massage.json"
+    },
+    {
       "igdb_id": 381276,
       "game_name": "Sweet Math",
       "file": "missing/S/381276-sweet-math.json"
@@ -461608,9 +461778,29 @@
       "file": "missing/S/371356-sweet-model.json"
     },
     {
+      "igdb_id": 339450,
+      "game_name": "Sweet Monster",
+      "file": "missing/S/339450-sweet-monster.json"
+    },
+    {
+      "igdb_id": 339448,
+      "game_name": "Sweet New Year",
+      "file": "missing/S/339448-sweet-new-year.json"
+    },
+    {
+      "igdb_id": 339447,
+      "game_name": "Sweet Night Club",
+      "file": "missing/S/339447-sweet-night-club.json"
+    },
+    {
       "igdb_id": 392913,
       "game_name": "Sweet Pet",
       "file": "missing/S/392913-sweet-pet.json"
+    },
+    {
+      "igdb_id": 339445,
+      "game_name": "Sweet Racing Girl",
+      "file": "missing/S/339445-sweet-racing-girl.json"
     },
     {
       "igdb_id": 368561,
@@ -461623,6 +461813,11 @@
       "file": "missing/S/208348-sweet-reversi.json"
     },
     {
+      "igdb_id": 339444,
+      "game_name": "Sweet Robot",
+      "file": "missing/S/339444-sweet-robot.json"
+    },
+    {
       "igdb_id": 392918,
       "game_name": "Sweet Rock Paper Scissors",
       "file": "missing/S/392918-sweet-rock-paper-scissors.json"
@@ -461631,6 +461826,11 @@
       "igdb_id": 392919,
       "game_name": "Sweet Run",
       "file": "missing/S/392919-sweet-run.json"
+    },
+    {
+      "igdb_id": 339443,
+      "game_name": "Sweet Sailor",
+      "file": "missing/S/339443-sweet-sailor.json"
     },
     {
       "igdb_id": 239656,
@@ -461653,6 +461853,11 @@
       "file": "missing/S/90376-sweet-shop.json"
     },
     {
+      "igdb_id": 339442,
+      "game_name": "Sweet Slave",
+      "file": "missing/S/339442-sweet-slave.json"
+    },
+    {
       "igdb_id": 133232,
       "game_name": "Sweet Solitaire: School Witch",
       "file": "missing/S/133232-sweet-solitaire-school-witch.json"
@@ -461668,6 +461873,11 @@
       "file": "missing/S/368572-sweet-sport.json"
     },
     {
+      "igdb_id": 339441,
+      "game_name": "Sweet Spring Festival",
+      "file": "missing/S/339441-sweet-spring-festival.json"
+    },
+    {
       "igdb_id": 378897,
       "game_name": "Sweet Starlight Sisters",
       "file": "missing/S/378897-sweet-starlight-sisters.json"
@@ -461676,6 +461886,11 @@
       "igdb_id": 371441,
       "game_name": "Sweet Story Neko",
       "file": "missing/S/371441-sweet-story-neko.json"
+    },
+    {
+      "igdb_id": 339440,
+      "game_name": "Sweet Summer",
+      "file": "missing/S/339440-sweet-summer.json"
     },
     {
       "igdb_id": 195196,
@@ -461701,6 +461916,11 @@
       "igdb_id": 392922,
       "game_name": "Sweet Tank",
       "file": "missing/S/392922-sweet-tank.json"
+    },
+    {
+      "igdb_id": 339435,
+      "game_name": "Sweet Tavern",
+      "file": "missing/S/339435-sweet-tavern.json"
     },
     {
       "igdb_id": 126645,
@@ -461753,9 +461973,29 @@
       "file": "missing/S/401644-sweet-valentine-chocolatier.json"
     },
     {
+      "igdb_id": 339434,
+      "game_name": "Sweet VTuber Shooter",
+      "file": "missing/S/339434-sweet-vtuber-shooter.json"
+    },
+    {
+      "igdb_id": 339433,
+      "game_name": "Sweet Warrior",
+      "file": "missing/S/339433-sweet-warrior.json"
+    },
+    {
       "igdb_id": 97710,
       "game_name": "Sweet Wave",
       "file": "missing/S/97710-sweet-wave.json"
+    },
+    {
+      "igdb_id": 339432,
+      "game_name": "Sweet Wedding",
+      "file": "missing/S/339432-sweet-wedding.json"
+    },
+    {
+      "igdb_id": 339431,
+      "game_name": "Sweet Winter",
+      "file": "missing/S/339431-sweet-winter.json"
     },
     {
       "igdb_id": 373551,
@@ -509008,6 +509248,11 @@
       "file": "missing/T/139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json"
     },
     {
+      "igdb_id": 339437,
+      "game_name": "Tokyo Fury",
+      "file": "missing/T/339437-tokyo-fury.json"
+    },
+    {
       "igdb_id": 275897,
       "game_name": "Tokyo Ghoul: Break the Chains",
       "file": "missing/T/275897-tokyo-ghoul-break-the-chains.json"
@@ -524111,6 +524356,11 @@
       "igdb_id": 236953,
       "game_name": "Tyler Tactics",
       "file": "missing/T/236953-tyler-tactics.json"
+    },
+    {
+      "igdb_id": 339465,
+      "game_name": "Tyler's White Lie",
+      "file": "missing/T/339465-tylers-white-lie.json"
     },
     {
       "igdb_id": 194610,
