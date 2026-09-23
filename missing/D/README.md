@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentist Hour: Escape Room | 357797 | [357797-dentist-hour-escape-room.json](./357797-dentist-hour-escape-room.json) |
 | Dentist kids Hospital Simulation Teeth Surgery | 101950 | [101950-dentist-kids-hospital-simulation-teeth-surgery.json](./101950-dentist-kids-hospital-simulation-teeth-surgery.json) |
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
+| Deodar | 360742 | [360742-deodar.json](./360742-deodar.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
 | Department of Missing Persons | 400287 | [400287-department-of-missing-persons.json](./400287-department-of-missing-persons.json) |
 | Departure | 96681 | [96681-departure.json](./96681-departure.json) |
@@ -2645,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Solitaire: Butler Story 2 | 242580 | [242580-detective-solitaire-butler-story-2.json](./242580-detective-solitaire-butler-story-2.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
+| Detective VR | 360772 | [360772-detective-vr.json](./360772-detective-vr.json) |
 | Detective Worden | 358876 | [358876-detective-worden.json](./358876-detective-worden.json) |
 | Detective_Psychic | 103182 | [103182-detective-psychic.json](./103182-detective-psychic.json) |
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
@@ -6462,6 +6464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Shot | 40977 | [40977-dunk-shot.json](./40977-dunk-shot.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
 | Dunk Trickster | 316844 | [316844-dunk-trickster.json](./316844-dunk-trickster.json) |
+| Dunkadillo | 360760 | [360760-dunkadillo.json](./360760-dunkadillo.json) |
 | Dunkeep | 203947 | [203947-dunkeep.json](./203947-dunkeep.json) |
 | Dunkehr | 141181 | [141181-dunkehr.json](./141181-dunkehr.json) |
 | Dunkle Manöver | 92851 | [92851-dunkle-manover.json](./92851-dunkle-manover.json) |
