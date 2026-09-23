@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YesterMorrow | 120533 | [120533-yestermorrow.json](./120533-yestermorrow.json) |
 | Yet Another Avoider | 412978 | [412978-yet-another-avoider.json](./412978-yet-another-avoider.json) |
 | Yet Another Fantasy Title | 209469 | [209469-yet-another-fantasy-title.json](./209469-yet-another-fantasy-title.json) |
+| Yet Another FireRed Hack | 377801 | [377801-yet-another-firered-hack.json](./377801-yet-another-firered-hack.json) |
 | Yet Another Hentai Puzzle: PTSD | 245846 | [245846-yet-another-hentai-puzzle-ptsd.json](./245846-yet-another-hentai-puzzle-ptsd.json) |
 | Yet Another Hero Legend | 118988 | [118988-yet-another-hero-legend.json](./118988-yet-another-hero-legend.json) |
 | Yet Another Incremental Game (But This Time About Coding) | 412965 | [412965-yet-another-incremental-game-but-this-time-about-coding.json](./412965-yet-another-incremental-game-but-this-time-about-coding.json) |
