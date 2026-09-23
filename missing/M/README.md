@@ -3904,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MILF | 334765 | [334765-milf.json](./334765-milf.json) |
 | Milf Hunter | 192444 | [192444-milf-hunter.json](./192444-milf-hunter.json) |
 | Milf Love: Spa Date | 385054 | [385054-milf-love-spa-date.json](./385054-milf-love-spa-date.json) |
+| Milf Puzzle | 382483 | [382483-milf-puzzle.json](./382483-milf-puzzle.json) |
 | Milf Solitaire: Lust Collector | 400316 | [400316-milf-solitaire-lust-collector.json](./400316-milf-solitaire-lust-collector.json) |
 | Milf Toys 2 | 195244 | [195244-milf-toys-2.json](./195244-milf-toys-2.json) |
 | Milf Toys 3 | 208587 | [208587-milf-toys-3.json](./208587-milf-toys-3.json) |
