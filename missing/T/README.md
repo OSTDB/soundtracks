@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Those Targets | 158568 | [158568-tap-those-targets.json](./158568-tap-those-targets.json) |
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
 | Tap Titans 2 | 57168 | [57168-tap-titans-2.json](./57168-tap-titans-2.json) |
+| Tap To 1000 | 359573 | [359573-tap-to-1000.json](./359573-tap-to-1000.json) |
 | Tap to Build | 245337 | [245337-tap-to-build.json](./245337-tap-to-build.json) |
 | Tap to Dive | 233090 | [233090-tap-to-dive.json](./233090-tap-to-dive.json) |
 | Tap Tricks | 176962 | [176962-tap-tricks.json](./176962-tap-tricks.json) |
@@ -3892,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hell Inside | 286082 | [286082-the-hell-inside.json](./286082-the-hell-inside.json) |
 | The Hell Provided | 396560 | [396560-the-hell-provided.json](./396560-the-hell-provided.json) |
 | The Hell That's Coming | 271849 | [271849-the-hell-thats-coming.json](./271849-the-hell-thats-coming.json) |
+| The Hell: 1923 Kanto Earthquake | 359606 | [359606-the-hell-1923-kanto-earthquake.json](./359606-the-hell-1923-kanto-earthquake.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
 | The Hellchemist | 240800 | [240800-the-hellchemist.json](./240800-the-hellchemist.json) |
 | The Helper | 224643 | [224643-the-helper.json](./224643-the-helper.json) |
@@ -4372,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Dinner | 113493 | [113493-the-last-dinner.json](./113493-the-last-dinner.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Dream: Developer's Edition | 34624 | [34624-the-last-dream-developers-edition.json](./34624-the-last-dream-developers-edition.json) |
+| The Last Drive: 2335 | 359607 | [359607-the-last-drive-2335.json](./359607-the-last-drive-2335.json) |
 | The Last Driver | 343791 | [343791-the-last-driver.json](./343791-the-last-driver.json) |
 | The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
 | The Last Duskreaper | 236927 | [236927-the-last-duskreaper.json](./236927-the-last-duskreaper.json) |
