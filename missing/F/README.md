@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Ducks: Spooky Chronicles | 322398 | [322398-fake-ducks-spooky-chronicles.json](./322398-fake-ducks-spooky-chronicles.json) |
 | Fake Emperors | 264060 | [264060-fake-emperors.json](./264060-fake-emperors.json) |
 | Fake Future | 249482 | [249482-fake-future.json](./249482-fake-future.json) |
+| Fake God | 369205 | [369205-fake-god.json](./369205-fake-god.json) |
 | Fake Happy End | 29922 | [29922-fake-happy-end.json](./29922-fake-happy-end.json) |
 | Fake Hostel | 166628 | [166628-fake-hostel.json](./166628-fake-hostel.json) |
 | Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
