@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeful Guardian: Moonrider | 213741 | [213741-vengeful-guardian-moonrider.json](./213741-vengeful-guardian-moonrider.json) |
 | Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
 | Venice Deluxe | 21448 | [21448-venice-deluxe.json](./21448-venice-deluxe.json) |
+| Venison County | 387672 | [387672-venison-county.json](./387672-venison-county.json) |
 | VeniVidiFutzi | 271731 | [271731-venividifutzi.json](./271731-venividifutzi.json) |
 | Venny's Vinyl Shop | 381677 | [381677-vennys-vinyl-shop.json](./381677-vennys-vinyl-shop.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
