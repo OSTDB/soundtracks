@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T13:18:08.670Z",
-  "total_missing": 111427,
+  "generated_at": "2026-09-23T13:33:06.593Z",
+  "total_missing": 111477,
   "games": [
     {
       "igdb_id": 176875,
@@ -54308,6 +54308,11 @@
       "file": "missing/B/8421-blood-knights.json"
     },
     {
+      "igdb_id": 360199,
+      "game_name": "Blood Lily: Killers Can't Sink a Yuri Ship",
+      "file": "missing/B/360199-blood-lily-killers-cant-sink-a-yuri-ship.json"
+    },
+    {
       "igdb_id": 380553,
       "game_name": "Blood Mall: Part II",
       "file": "missing/B/380553-blood-mall-part-ii.json"
@@ -83258,6 +83263,11 @@
       "file": "missing/C/34177-city-of-chains.json"
     },
     {
+      "igdb_id": 360173,
+      "game_name": "City of Chaos",
+      "file": "missing/C/360173-city-of-chaos.json"
+    },
+    {
       "igdb_id": 257970,
       "game_name": "City of Corals",
       "file": "missing/C/257970-city-of-corals.json"
@@ -95706,6 +95716,11 @@
       "igdb_id": 379010,
       "game_name": "Crayation: The First Sketch",
       "file": "missing/C/379010-crayation-the-first-sketch.json"
+    },
+    {
+      "igdb_id": 360204,
+      "game_name": "Crayola Amazing Art Adventure",
+      "file": "missing/C/360204-crayola-amazing-art-adventure.json"
     },
     {
       "igdb_id": 230360,
@@ -108708,6 +108723,11 @@
       "file": "missing/D/386890-day-trader-tycoon.json"
     },
     {
+      "igdb_id": 360201,
+      "game_name": "Day Zero",
+      "file": "missing/D/360201-day-zero.json"
+    },
+    {
       "igdb_id": 259062,
       "game_name": "Daybreakers",
       "file": "missing/D/259062-daybreakers.json"
@@ -110061,6 +110081,56 @@
       "igdb_id": 52871,
       "game_name": "Dead Rising 4: Deluxe Edition",
       "file": "missing/D/52871-dead-rising-4-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 360166,
+      "game_name": "Dead Rising Deluxe Remaster: Costume & BGM - Ashley Graham",
+      "file": "missing/D/360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json"
+    },
+    {
+      "igdb_id": 360164,
+      "game_name": "Dead Rising Deluxe Remaster: Costume & BGM - Chainsaw Villager",
+      "file": "missing/D/360164-dead-rising-deluxe-remaster-costume-and-bgm-chainsaw-villager.json"
+    },
+    {
+      "igdb_id": 360161,
+      "game_name": "Dead Rising Deluxe Remaster: Costume & BGM - Chris Redfield",
+      "file": "missing/D/360161-dead-rising-deluxe-remaster-costume-and-bgm-chris-redfield.json"
+    },
+    {
+      "igdb_id": 360170,
+      "game_name": "Dead Rising Deluxe Remaster: Costume & BGM - Lan Hikari",
+      "file": "missing/D/360170-dead-rising-deluxe-remaster-costume-and-bgm-lan-hikari.json"
+    },
+    {
+      "igdb_id": 360168,
+      "game_name": "Dead Rising Deluxe Remaster: Costume & BGM - Leon S. Kennedy",
+      "file": "missing/D/360168-dead-rising-deluxe-remaster-costume-and-bgm-leon-s-kennedy.json"
+    },
+    {
+      "igdb_id": 360165,
+      "game_name": "Dead Rising Deluxe Remaster: Costume & BGM - Licker",
+      "file": "missing/D/360165-dead-rising-deluxe-remaster-costume-and-bgm-licker.json"
+    },
+    {
+      "igdb_id": 360169,
+      "game_name": "Dead Rising Deluxe Remaster: Costume & BGM - Nemesis",
+      "file": "missing/D/360169-dead-rising-deluxe-remaster-costume-and-bgm-nemesis.json"
+    },
+    {
+      "igdb_id": 360167,
+      "game_name": "Dead Rising Deluxe Remaster: Costume & BGM - Rikuo",
+      "file": "missing/D/360167-dead-rising-deluxe-remaster-costume-and-bgm-rikuo.json"
+    },
+    {
+      "igdb_id": 360163,
+      "game_name": "Dead Rising Deluxe Remaster: Costume & BGM - Sheriff",
+      "file": "missing/D/360163-dead-rising-deluxe-remaster-costume-and-bgm-sheriff.json"
+    },
+    {
+      "igdb_id": 360162,
+      "game_name": "Dead Rising Deluxe Remaster: Costume & BGM - Tron Bonne",
+      "file": "missing/D/360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json"
     },
     {
       "igdb_id": 81391,
@@ -124056,6 +124126,11 @@
       "igdb_id": 333609,
       "game_name": "Doki Doki Our Final Heartbeat",
       "file": "missing/D/333609-doki-doki-our-final-heartbeat.json"
+    },
+    {
+      "igdb_id": 360183,
+      "game_name": "Doki Doki Pokémon Club!",
+      "file": "missing/D/360183-doki-doki-pokemon-club.json"
     },
     {
       "igdb_id": 143512,
@@ -151108,6 +151183,11 @@
       "file": "missing/E/174900-expo-2020.json"
     },
     {
+      "igdb_id": 360184,
+      "game_name": "Exposed Livestream",
+      "file": "missing/E/360184-exposed-livestream.json"
+    },
+    {
       "igdb_id": 70375,
       "game_name": "Exposed Reality",
       "file": "missing/E/70375-exposed-reality.json"
@@ -154621,6 +154701,11 @@
       "igdb_id": 207877,
       "game_name": "Family Chess",
       "file": "missing/F/207877-family-chess.json"
+    },
+    {
+      "igdb_id": 360205,
+      "game_name": "Family Chess",
+      "file": "missing/F/360205-family-chess.json"
     },
     {
       "igdb_id": 208584,
@@ -170488,6 +170573,11 @@
       "file": "missing/F/276292-fortnite-infinite-drift-pack.json"
     },
     {
+      "igdb_id": 360188,
+      "game_name": "Fortnite: Luminary Hypatia Starter Pack",
+      "file": "missing/F/360188-fortnite-luminary-hypatia-starter-pack.json"
+    },
+    {
       "igdb_id": 303239,
       "game_name": "Fortnite: May 2024 Fortnite Crew Pack",
       "file": "missing/F/303239-fortnite-may-2024-fortnite-crew-pack.json"
@@ -170536,6 +170626,11 @@
       "igdb_id": 331701,
       "game_name": "Fortnite: Storm-Wild Raven Starter Pack",
       "file": "missing/F/331701-fortnite-storm-wild-raven-starter-pack.json"
+    },
+    {
+      "igdb_id": 360189,
+      "game_name": "Fortnite: Yellowjacket Pack",
+      "file": "missing/F/360189-fortnite-yellowjacket-pack.json"
     },
     {
       "igdb_id": 105341,
@@ -224608,6 +224703,11 @@
       "file": "missing/I/158209-immortal-hero.json"
     },
     {
+      "igdb_id": 360196,
+      "game_name": "Immortal Immanuel",
+      "file": "missing/I/360196-immortal-immanuel.json"
+    },
+    {
       "igdb_id": 132851,
       "game_name": "Immortal Legacy: The Jade Cipher - Console Edition",
       "file": "missing/I/132851-immortal-legacy-the-jade-cipher-console-edition.json"
@@ -245133,6 +245233,11 @@
       "file": "missing/K/110989-kimmie-jong-on-nukes-the-world.json"
     },
     {
+      "igdb_id": 360209,
+      "game_name": "Kimochii Classroom",
+      "file": "missing/K/360209-kimochii-classroom.json"
+    },
+    {
       "igdb_id": 304184,
       "game_name": "Kimokawaiii",
       "file": "missing/K/304184-kimokawaiii.json"
@@ -254583,6 +254688,11 @@
       "file": "missing/L/167712-lawless-lands-unrest.json"
     },
     {
+      "igdb_id": 360207,
+      "game_name": "Lawless: Blood and Dust",
+      "file": "missing/L/360207-lawless-blood-and-dust.json"
+    },
+    {
       "igdb_id": 125472,
       "game_name": "Lawmage Academy",
       "file": "missing/L/125472-lawmage-academy.json"
@@ -259551,6 +259661,11 @@
       "igdb_id": 231930,
       "game_name": "Life Simulator",
       "file": "missing/L/231930-life-simulator.json"
+    },
+    {
+      "igdb_id": 360186,
+      "game_name": "Life Simulator",
+      "file": "missing/L/360186-life-simulator.json"
     },
     {
       "igdb_id": 117093,
@@ -317098,6 +317213,11 @@
       "file": "missing/N/222501-ninja-gaiden-master-collection-version-d.json"
     },
     {
+      "igdb_id": 360175,
+      "game_name": "Ninja Games",
+      "file": "missing/N/360175-ninja-games.json"
+    },
+    {
       "igdb_id": 281531,
       "game_name": "Ninja Gardening Simulator",
       "file": "missing/N/281531-ninja-gardening-simulator.json"
@@ -321571,6 +321691,11 @@
       "igdb_id": 52645,
       "game_name": "Nutjitsu: Reforged",
       "file": "missing/N/52645-nutjitsu-reforged.json"
+    },
+    {
+      "igdb_id": 360208,
+      "game_name": "Nutmeg!",
+      "file": "missing/N/360208-nutmeg.json"
     },
     {
       "igdb_id": 374725,
@@ -350798,6 +350923,11 @@
       "file": "missing/P/245422-pokemon-advanced-cyber-poke-ball-2.json"
     },
     {
+      "igdb_id": 360182,
+      "game_name": "Pokémon Ageless",
+      "file": "missing/P/360182-pokemon-ageless.json"
+    },
+    {
       "igdb_id": 6898,
       "game_name": "Pokémon Alpha Sapphire",
       "file": "missing/P/6898-pokemon-alpha-sapphire.json"
@@ -351053,6 +351183,11 @@
       "file": "missing/P/229043-pokemon-battle-woods.json"
     },
     {
+      "igdb_id": 360180,
+      "game_name": "Pokémon Beyond DX",
+      "file": "missing/P/360180-pokemon-beyond-dx.json"
+    },
+    {
       "igdb_id": 230510,
       "game_name": "Pokémon Black 2 Kaizo",
       "file": "missing/P/230510-pokemon-black-2-kaizo.json"
@@ -351138,6 +351273,11 @@
       "file": "missing/P/129810-pokemon-clover.json"
     },
     {
+      "igdb_id": 360178,
+      "game_name": "Pokémon Coda",
+      "file": "missing/P/360178-pokemon-coda.json"
+    },
+    {
       "igdb_id": 355521,
       "game_name": "Pokémon Colosseum Double Battle Card e+: 13-P001 - Hunter no Bit",
       "file": "missing/P/355521-pokemon-colosseum-double-battle-card-e-13-p001-hunter-no-bit.json"
@@ -351176,6 +351316,11 @@
       "igdb_id": 264130,
       "game_name": "Pokemon Daycare",
       "file": "missing/P/264130-pokemon-daycare.json"
+    },
+    {
+      "igdb_id": 360192,
+      "game_name": "Pokémon Decay",
+      "file": "missing/P/360192-pokemon-decay.json"
     },
     {
       "igdb_id": 172745,
@@ -351318,6 +351463,11 @@
       "file": "missing/P/342762-pokemon-gamma-emerald.json"
     },
     {
+      "igdb_id": 360193,
+      "game_name": "Pokémon Glacial Chronicles",
+      "file": "missing/P/360193-pokemon-glacial-chronicles.json"
+    },
+    {
       "igdb_id": 323177,
       "game_name": "Pokémon Go: Dual Destiny",
       "file": "missing/P/323177-pokemon-go-dual-destiny.json"
@@ -351436,6 +351586,11 @@
       "igdb_id": 320167,
       "game_name": "Pokémon Lost Silver",
       "file": "missing/P/320167-pokemon-lost-silver.json"
+    },
+    {
+      "igdb_id": 360181,
+      "game_name": "Pokémon Lost World: Echoes of Eternity",
+      "file": "missing/P/360181-pokemon-lost-world-echoes-of-eternity.json"
     },
     {
       "igdb_id": 199621,
@@ -351683,6 +351838,11 @@
       "file": "missing/P/355535-pokemon-ruby-version.json"
     },
     {
+      "igdb_id": 360176,
+      "game_name": "Pokémon Ruckus",
+      "file": "missing/P/360176-pokemon-ruckus.json"
+    },
+    {
       "igdb_id": 4561,
       "game_name": "Pokémon Rumble Blast",
       "file": "missing/P/4561-pokemon-rumble-blast.json"
@@ -351741,6 +351901,11 @@
       "igdb_id": 399594,
       "game_name": "Pokémon Solar Eclipse",
       "file": "missing/P/399594-pokemon-solar-eclipse.json"
+    },
+    {
+      "igdb_id": 360194,
+      "game_name": "Pokémon Sors 2",
+      "file": "missing/P/360194-pokemon-sors-2.json"
     },
     {
       "igdb_id": 221276,
@@ -351878,6 +352043,11 @@
       "file": "missing/P/136275-pokemon-ultra-sun-and-pokemon-ultra-moon-veteran-trainers-dual-pack.json"
     },
     {
+      "igdb_id": 360195,
+      "game_name": "Pokémon Umbra",
+      "file": "missing/P/360195-pokemon-umbra.json"
+    },
+    {
       "igdb_id": 288202,
       "game_name": "Pokemon Umbra Moon",
       "file": "missing/P/288202-pokemon-umbra-moon.json"
@@ -351956,6 +352126,11 @@
       "igdb_id": 393105,
       "game_name": "Pokémon Winds",
       "file": "missing/P/393105-pokemon-winds.json"
+    },
+    {
+      "igdb_id": 360191,
+      "game_name": "Pokémon: A Star in the Desert",
+      "file": "missing/P/360191-pokemon-a-star-in-the-desert.json"
     },
     {
       "igdb_id": 339247,
@@ -379658,6 +379833,11 @@
       "file": "missing/R/245943-riddle-of-the-jelly.json"
     },
     {
+      "igdb_id": 360172,
+      "game_name": "Riddle of the Runes: The Worlds of TSR",
+      "file": "missing/R/360172-riddle-of-the-runes-the-worlds-of-tsr.json"
+    },
+    {
       "igdb_id": 174286,
       "game_name": "Riddle of the Sphinx",
       "file": "missing/R/174286-riddle-of-the-sphinx.json"
@@ -400978,6 +401158,11 @@
       "file": "missing/S/361921-seriously-warped-deathmatch.json"
     },
     {
+      "igdb_id": 360187,
+      "game_name": "Serpent",
+      "file": "missing/S/360187-serpent.json"
+    },
+    {
       "igdb_id": 353386,
       "game_name": "Serpent at the Vernissage",
       "file": "missing/S/353386-serpent-at-the-vernissage.json"
@@ -415646,6 +415831,11 @@
       "igdb_id": 386853,
       "game_name": "SM64 Coop DX: Bananza Kong",
       "file": "missing/S/386853-sm64-coop-dx-bananza-kong.json"
+    },
+    {
+      "igdb_id": 360171,
+      "game_name": "SM64 Coop DX: Super Mario World in Super Mario 64",
+      "file": "missing/S/360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json"
     },
     {
       "igdb_id": 195080,
@@ -432176,6 +432366,11 @@
       "igdb_id": 334766,
       "game_name": "Sqr 3",
       "file": "missing/S/334766-sqr-3.json"
+    },
+    {
+      "igdb_id": 360212,
+      "game_name": "SQRZ",
+      "file": "missing/S/360212-sqrz.json"
     },
     {
       "igdb_id": 9495,
@@ -452743,6 +452938,11 @@
       "file": "missing/S/325710-survive-frost-bite.json"
     },
     {
+      "igdb_id": 360203,
+      "game_name": "Survive: The Alien Tracing",
+      "file": "missing/S/360203-survive-the-alien-tracing.json"
+    },
+    {
       "igdb_id": 100139,
       "game_name": "Survive.io Battle Ground",
       "file": "missing/S/100139-survive-io-battle-ground.json"
@@ -460816,6 +461016,11 @@
       "igdb_id": 132251,
       "game_name": "Taravana",
       "file": "missing/T/132251-taravana.json"
+    },
+    {
+      "igdb_id": 360198,
+      "game_name": "Tardiness Girl",
+      "file": "missing/T/360198-tardiness-girl.json"
     },
     {
       "igdb_id": 235322,
@@ -477343,6 +477548,11 @@
       "file": "missing/T/22368-the-king-of-the-wood.json"
     },
     {
+      "igdb_id": 360206,
+      "game_name": "The King of Tower Defense",
+      "file": "missing/T/360206-the-king-of-tower-defense.json"
+    },
+    {
       "igdb_id": 11840,
       "game_name": "The King's Bird",
       "file": "missing/T/11840-the-kings-bird.json"
@@ -493018,6 +493228,11 @@
       "file": "missing/T/394374-those-who-rule-ii.json"
     },
     {
+      "igdb_id": 360177,
+      "game_name": "Thousand Hells: The Underworld Heists",
+      "file": "missing/T/360177-thousand-hells-the-underworld-heists.json"
+    },
+    {
       "igdb_id": 206225,
       "game_name": "Thousand Island Solitaire",
       "file": "missing/T/206225-thousand-island-solitaire.json"
@@ -504428,6 +504643,11 @@
       "file": "missing/T/204669-touhou-rekkaden-rift-in-a-friendship-game.json"
     },
     {
+      "igdb_id": 360202,
+      "game_name": "Touhou Risouen: Terminus of Unreal Darkside",
+      "file": "missing/T/360202-touhou-risouen-terminus-of-unreal-darkside.json"
+    },
+    {
       "igdb_id": 202934,
       "game_name": "Touhou Rock Maiden 2: Houraisan Kaguya no Nazo",
       "file": "missing/T/202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json"
@@ -504996,6 +505216,11 @@
       "igdb_id": 192834,
       "game_name": "Tower of Ascension",
       "file": "missing/T/192834-tower-of-ascension.json"
+    },
+    {
+      "igdb_id": 360190,
+      "game_name": "Tower of Ashes",
+      "file": "missing/T/360190-tower-of-ashes.json"
     },
     {
       "igdb_id": 74349,
@@ -507013,6 +507238,11 @@
       "file": "missing/T/269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json"
     },
     {
+      "igdb_id": 360159,
+      "game_name": "Train Sim World 5: Avanti West Coast BR Class 390 Pendolino EMU Add-On",
+      "file": "missing/T/360159-train-sim-world-5-avanti-west-coast-br-class-390-pendolino-emu-add-on.json"
+    },
+    {
       "igdb_id": 359492,
       "game_name": "Train Sim World 5: Berninalinie: Tirano - Ospizio Bernina Route Add-On",
       "file": "missing/T/359492-train-sim-world-5-berninalinie-tirano-ospizio-bernina-route-add-on.json"
@@ -507113,6 +507343,16 @@
       "file": "missing/T/359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json"
     },
     {
+      "igdb_id": 360157,
+      "game_name": "Train Sim World 5: FlixTrain BR 193 Vectron Loco Add-On",
+      "file": "missing/T/360157-train-sim-world-5-flixtrain-br-193-vectron-loco-add-on.json"
+    },
+    {
+      "igdb_id": 360160,
+      "game_name": "Train Sim World 5: Frankfurt - Fulda: Kinzigtalbahn Route Add-On",
+      "file": "missing/T/360160-train-sim-world-5-frankfurt-fulda-kinzigtalbahn-route-add-on.json"
+    },
+    {
       "igdb_id": 320762,
       "game_name": "Train Sim World 5: German Regional Edition",
       "file": "missing/T/320762-train-sim-world-5-german-regional-edition.json"
@@ -507173,6 +507413,11 @@
       "file": "missing/T/359489-train-sim-world-5-s-bahn-zentralschweiz-luzern-sursee-route-add-on.json"
     },
     {
+      "igdb_id": 360156,
+      "game_name": "Train Sim World 5: San Bernardino Line: Los Angeles - San Bernardino Route Add-On",
+      "file": "missing/T/360156-train-sim-world-5-san-bernardino-line-los-angeles-san-bernardino-route-add-on.json"
+    },
+    {
       "igdb_id": 359974,
       "game_name": "Train Sim World 5: Santa Fe F7 Add-On",
       "file": "missing/T/359974-train-sim-world-5-santa-fe-f7-add-on.json"
@@ -507201,6 +507446,11 @@
       "igdb_id": 359485,
       "game_name": "Train Sim World 5: Thameslink BR Class 700/0 EMU Add-On",
       "file": "missing/T/359485-train-sim-world-5-thameslink-br-class-700-0-emu-add-on.json"
+    },
+    {
+      "igdb_id": 360158,
+      "game_name": "Train Sim World 5: West Coast Main Line: London Euston - Milton Keynes Route Add-On",
+      "file": "missing/T/360158-train-sim-world-5-west-coast-main-line-london-euston-milton-keynes-route-add-on.json"
     },
     {
       "igdb_id": 402357,
