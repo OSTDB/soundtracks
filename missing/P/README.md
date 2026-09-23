@@ -3889,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Feuergrün Edition | 205126 | [205126-pokemon-feuergrun-edition.json](./205126-pokemon-feuergrun-edition.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
+| Pokémon FireRed Deluxe | 338914 | [338914-pokemon-firered-deluxe.json](./338914-pokemon-firered-deluxe.json) |
 | Pokémon Fool's Gold | 136877 | [136877-pokemon-fools-gold.json](./136877-pokemon-fools-gold.json) |
 | Pokémon FR Advanced Challenge | 136412 | [136412-pokemon-fr-advanced-challenge.json](./136412-pokemon-fr-advanced-challenge.json) |
 | Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan | 103512 | [103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json](./103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json) |
