@@ -6150,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dullpain | 216801 | [216801-dullpain.json](./216801-dullpain.json) |
 | Duludubi Star | 273108 | [273108-duludubi-star.json](./273108-duludubi-star.json) |
 | Dum Dum Dinos | 138221 | [138221-dum-dum-dinos.json](./138221-dum-dum-dinos.json) |
+| Dumb AF | 351806 | [351806-dumb-af.json](./351806-dumb-af.json) |
 | Dumb Castle | 289304 | [289304-dumb-castle.json](./289304-dumb-castle.json) |
 | Dumb Chicken 2: One Way Out | 32895 | [32895-dumb-chicken-2-one-way-out.json](./32895-dumb-chicken-2-one-way-out.json) |
 | Dumb Little Creatures | 109683 | [109683-dumb-little-creatures.json](./109683-dumb-little-creatures.json) |
