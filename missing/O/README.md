@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O2Jam x DancingParty | 107799 | [107799-o2jam-x-dancingparty.json](./107799-o2jam-x-dancingparty.json) |
 | O2Jam: The Beginning | 390546 | [390546-o2jam-the-beginning.json](./390546-o2jam-the-beginning.json) |
 | O3: Hollow Descent | 308927 | [308927-o3-hollow-descent.json](./308927-o3-hollow-descent.json) |
+| O7 | 389116 | [389116-o7.json](./389116-o7.json) |
 | Oak Adventure the Maze | 235473 | [235473-oak-adventure-the-maze.json](./235473-oak-adventure-the-maze.json) |
 | Oak Defenders | 183514 | [183514-oak-defenders.json](./183514-oak-defenders.json) |
 | Oak Hill | 219043 | [219043-oak-hill.json](./219043-oak-hill.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ORE x TRACTOR | 401823 | [401823-ore-x-tractor.json](./401823-ore-x-tractor.json) |
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
 | Oreblaze | 338732 | [338732-oreblaze.json](./338732-oreblaze.json) |
+| OreMania | 389097 | [389097-oremania.json](./389097-oremania.json) |
 | Oreo O's Extreme Creme Control | 145671 | [145671-oreo-os-extreme-creme-control.json](./145671-oreo-os-extreme-creme-control.json) |
 | Orestorm Factory | 224780 | [224780-orestorm-factory.json](./224780-orestorm-factory.json) |
 | Oretachi ni Tsubasa wa Nai -Prelude- | 60572 | [60572-oretachi-ni-tsubasa-wa-nai-prelude.json](./60572-oretachi-ni-tsubasa-wa-nai-prelude.json) |
