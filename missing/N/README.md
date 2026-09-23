@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
 | Night of Wolves | 257968 | [257968-night-of-wolves.json](./257968-night-of-wolves.json) |
+| Night Plane | 378426 | [378426-night-plane.json](./378426-night-plane.json) |
 | Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
 | Night Raid | 80867 | [80867-night-raid.json](./80867-night-raid.json) |
