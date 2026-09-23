@@ -2642,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choplifter! | 343891 | [343891-choplifter.json](./343891-choplifter.json) |
 | Choplifter! | 343897 | [343897-choplifter.json](./343897-choplifter.json) |
 | Choppa: Rescue Rivals | 127077 | [127077-choppa-rescue-rivals.json](./127077-choppa-rescue-rivals.json) |
+| Chopped Up | 388368 | [388368-chopped-up.json](./388368-chopped-up.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
@@ -2798,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
 | Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
+| Chromatic Battles | 388354 | [388354-chromatic-battles.json](./388354-chromatic-battles.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
 | Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
 | Chromatic: Color Puzzles | 134425 | [134425-chromatic-color-puzzles.json](./134425-chromatic-color-puzzles.json) |
@@ -3386,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
 | Clear The Coast | 270692 | [270692-clear-the-coast.json](./270692-clear-the-coast.json) |
 | Clear the Lot | 224082 | [224082-clear-the-lot.json](./224082-clear-the-lot.json) |
+| Clear Vision 2 HD | 388410 | [388410-clear-vision-2-hd.json](./388410-clear-vision-2-hd.json) |
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
 | Clearing Blade | 326248 | [326248-clearing-blade.json](./326248-clearing-blade.json) |
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
@@ -3531,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
 | Close Combat: A Bridge Too Far | 639 | [639-close-combat-a-bridge-too-far.json](./639-close-combat-a-bridge-too-far.json) |
 | Close Contact | 149923 | [149923-close-contact.json](./149923-close-contact.json) |
+| Close Encounter VR | 388407 | [388407-close-encounter-vr.json](./388407-close-encounter-vr.json) |
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
 | Close Shell | 246437 | [246437-close-shell.json](./246437-close-shell.json) |
@@ -4905,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | Coral Island | 143061 | [143061-coral-island.json](./143061-coral-island.json) |
 | Coral: A Halo Fan Game | 142245 | [142245-coral-a-halo-fan-game.json](./142245-coral-a-halo-fan-game.json) |
+| Corala: Deity's Loom | 388388 | [388388-corala-deitys-loom.json](./388388-corala-deitys-loom.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Corallo | 202243 | [202243-corallo.json](./202243-corallo.json) |
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
@@ -6612,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult 2112 | 119553 | [119553-cult-2112.json](./119553-cult-2112.json) |
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
 | Cult Master: Ultraman ni Miserarete | 60529 | [60529-cult-master-ultraman-ni-miserarete.json](./60529-cult-master-ultraman-ni-miserarete.json) |
+| Cult Nation | 388360 | [388360-cult-nation.json](./388360-cult-nation.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
 | Cult of Persona | 339354 | [339354-cult-of-persona.json](./339354-cult-of-persona.json) |
 | Cult of Pin | 351132 | [351132-cult-of-pin.json](./351132-cult-of-pin.json) |
