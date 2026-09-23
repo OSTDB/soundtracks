@@ -3576,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb, Cube, Climb! | 414596 | [414596-climb-cube-climb.json](./414596-climb-cube-climb.json) |
 | Climber | 100578 | [100578-climber.json](./100578-climber.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
+| Climber Girl | 350635 | [350635-climber-girl.json](./350635-climber-girl.json) |
 | Climber: Sky is the Limit | 129701 | [129701-climber-sky-is-the-limit.json](./129701-climber-sky-is-the-limit.json) |
 | Climbing Challenge | 246434 | [246434-climbing-challenge.json](./246434-climbing-challenge.json) |
 | Climbing Simplified | 392812 | [392812-climbing-simplified.json](./392812-climbing-simplified.json) |
