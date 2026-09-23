@@ -4860,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Babies | 377828 | [377828-bouncing-babies.json](./377828-bouncing-babies.json) |
 | Bouncing Babies | 46652 | [46652-bouncing-babies.json](./46652-bouncing-babies.json) |
 | Bouncing Ball | 46857 | [46857-bouncing-ball.json](./46857-bouncing-ball.json) |
+| Bouncing Buds | 363566 | [363566-bouncing-buds.json](./363566-bouncing-buds.json) |
 | Bouncing Church | 102727 | [102727-bouncing-church.json](./102727-bouncing-church.json) |
 | Bouncing Duck Simulator | 55728 | [55728-bouncing-duck-simulator.json](./55728-bouncing-duck-simulator.json) |
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
@@ -5050,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
 | Boys Work | 186188 | [186188-boys-work.json](./186188-boys-work.json) |
 | Boyscout: Patrick's Town | 261791 | [261791-boyscout-patricks-town.json](./261791-boyscout-patricks-town.json) |
+| BoysQuest Find the Difference | 363562 | [363562-boysquest-find-the-difference.json](./363562-boysquest-find-the-difference.json) |
 | Boyz Don't Cry | 299725 | [299725-boyz-dont-cry.json](./299725-boyz-dont-cry.json) |
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
@@ -5120,6 +5122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braindead, Your Majesty | 108827 | [108827-braindead-your-majesty.json](./108827-braindead-your-majesty.json) |
 | Brainmelter Deluxe | 112780 | [112780-brainmelter-deluxe.json](./112780-brainmelter-deluxe.json) |
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
+| Brainrot Battle | 363564 | [363564-brainrot-battle.json](./363564-brainrot-battle.json) |
 | Brainrot Dash | 338791 | [338791-brainrot-dash.json](./338791-brainrot-dash.json) |
 | Brainrot Survivors | 391041 | [391041-brainrot-survivors.json](./391041-brainrot-survivors.json) |
 | Brainrot Wars | 344965 | [344965-brainrot-wars.json](./344965-brainrot-wars.json) |
@@ -6034,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullets & Brains | 261552 | [261552-bullets-and-brains.json](./261552-bullets-and-brains.json) |
 | Bullets and More VR: BAM VR | 31401 | [31401-bullets-and-more-vr-bam-vr.json](./31401-bullets-and-more-vr-bam-vr.json) |
 | Bullets in the Space | 106626 | [106626-bullets-in-the-space.json](./106626-bullets-in-the-space.json) |
+| Bullets Tracks: Son Of | 363574 | [363574-bullets-tracks-son-of.json](./363574-bullets-tracks-son-of.json) |
 | Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
 | Bulletstorm: Lite | 212310 | [212310-bulletstorm-lite.json](./212310-bulletstorm-lite.json) |
 | BulletVille | 137591 | [137591-bulletville.json](./137591-bulletville.json) |
