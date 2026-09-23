@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Married in Red | 307253 | [307253-married-in-red.json](./307253-married-in-red.json) |
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
 | Marrow | 269569 | [269569-marrow.json](./269569-marrow.json) |
+| Marrow Marrow | 369775 | [369775-marrow-marrow.json](./369775-marrow-marrow.json) |
 | Mars | 91393 | [91393-mars.json](./91393-mars.json) |
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
 | Mars 2055 | 208437 | [208437-mars-2055.json](./208437-mars-2055.json) |
@@ -2862,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
 | Melli's Retro Land | 270414 | [270414-mellis-retro-land.json](./270414-mellis-retro-land.json) |
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
+| Mellstroy Survivor | 369753 | [369753-mellstroy-survivor.json](./369753-mellstroy-survivor.json) |
 | Melo's Cat Cafe | 307568 | [307568-melos-cat-cafe.json](./307568-melos-cat-cafe.json) |
 | Melodic Riddle | 75774 | [75774-melodic-riddle.json](./75774-melodic-riddle.json) |
 | Melodie | 334214 | [334214-melodie.json](./334214-melodie.json) |
@@ -4380,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniCar Extreme: Car Driving Racing (Truck, Suv, Sedan, Cars) | 242665 | [242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json](./242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json) |
 | Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
+| Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
 | Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
@@ -4715,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistfall | 239042 | [239042-mistfall.json](./239042-mistfall.json) |
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
+| Mistress Marigold's Home Improvement | 369774 | [369774-mistress-marigolds-home-improvement.json](./369774-mistress-marigolds-home-improvement.json) |
 | Mistress of Maids | 86510 | [86510-mistress-of-maids.json](./86510-mistress-of-maids.json) |
 | Mistress of Maids: First Castle | 115627 | [115627-mistress-of-maids-first-castle.json](./115627-mistress-of-maids-first-castle.json) |
 | Mistrogue: Mist and the Living Dungeons | 217313 | [217313-mistrogue-mist-and-the-living-dungeons.json](./217313-mistrogue-mist-and-the-living-dungeons.json) |
