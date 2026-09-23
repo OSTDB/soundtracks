@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T23:32:55.121Z",
-  "total_missing": 113477,
+  "generated_at": "2026-09-23T23:47:55.348Z",
+  "total_missing": 113527,
   "games": [
     {
       "igdb_id": 176875,
@@ -14343,9 +14343,29 @@
       "file": "missing/A/145633-alices-warped-wonderland.json"
     },
     {
+      "igdb_id": 337267,
+      "game_name": "Alice's Wonderland 2: Stolen Souls - Collector's Edition",
+      "file": "missing/A/337267-alices-wonderland-2-stolen-souls-collectors-edition.json"
+    },
+    {
       "igdb_id": 416870,
       "game_name": "Alice's Wonderland 5: A Ray of Hope",
       "file": "missing/A/416870-alices-wonderland-5-a-ray-of-hope.json"
+    },
+    {
+      "igdb_id": 337268,
+      "game_name": "Alice's Wonderland 5: A Ray of Hope - Collector's Edition",
+      "file": "missing/A/337268-alices-wonderland-5-a-ray-of-hope-collectors-edition.json"
+    },
+    {
+      "igdb_id": 337269,
+      "game_name": "Alice's Wonderland 6: Fire and Ice - Collector's Edition",
+      "file": "missing/A/337269-alices-wonderland-6-fire-and-ice-collectors-edition.json"
+    },
+    {
+      "igdb_id": 337266,
+      "game_name": "Alice's Wonderland 7: Sugar Rush - Collector's Edition",
+      "file": "missing/A/337266-alices-wonderland-7-sugar-rush-collectors-edition.json"
     },
     {
       "igdb_id": 296067,
@@ -17488,6 +17508,11 @@
       "file": "missing/A/48003-amazing-thailand-vr-experience.json"
     },
     {
+      "igdb_id": 337253,
+      "game_name": "Amazing Vacation: Chicago",
+      "file": "missing/A/337253-amazing-vacation-chicago.json"
+    },
+    {
       "igdb_id": 337822,
       "game_name": "Amazing Weekend 2: Search and Relax - Collector's Edition",
       "file": "missing/A/337822-amazing-weekend-2-search-and-relax-collectors-edition.json"
@@ -20568,6 +20593,11 @@
       "file": "missing/A/99976-animal-jigsaw-puzzle.json"
     },
     {
+      "igdb_id": 337279,
+      "game_name": "Animal Kingdom 3",
+      "file": "missing/A/337279-animal-kingdom-3.json"
+    },
+    {
       "igdb_id": 249878,
       "game_name": "Animal Kostume",
       "file": "missing/A/249878-animal-kostume.json"
@@ -22786,6 +22816,11 @@
       "igdb_id": 51572,
       "game_name": "Anxiety",
       "file": "missing/A/51572-anxiety.json"
+    },
+    {
+      "igdb_id": 337298,
+      "game_name": "Any Castle",
+      "file": "missing/A/337298-any-castle.json"
     },
     {
       "igdb_id": 408133,
@@ -42668,6 +42703,11 @@
       "file": "missing/B/341135-battle-for-atlantis.json"
     },
     {
+      "igdb_id": 337285,
+      "game_name": "Battle for Cloud 9",
+      "file": "missing/B/337285-battle-for-cloud-9.json"
+    },
+    {
       "igdb_id": 138011,
       "game_name": "Battle For Dream Island Again 5b",
       "file": "missing/B/138011-battle-for-dream-island-again-5b.json"
@@ -56278,6 +56318,11 @@
       "file": "missing/B/61558-bloom-memories.json"
     },
     {
+      "igdb_id": 337261,
+      "game_name": "Bloom! Valentine's Edition",
+      "file": "missing/B/337261-bloom-valentines-edition.json"
+    },
+    {
       "igdb_id": 175989,
       "game_name": "Bloomblebee",
       "file": "missing/B/175989-bloomblebee.json"
@@ -61131,6 +61176,11 @@
       "igdb_id": 306634,
       "game_name": "Box It Up! Inc.",
       "file": "missing/B/306634-box-it-up-inc.json"
+    },
+    {
+      "igdb_id": 337297,
+      "game_name": "Box King",
+      "file": "missing/B/337297-box-king.json"
     },
     {
       "igdb_id": 31758,
@@ -75778,6 +75828,11 @@
       "file": "missing/C/416639-catal-carta.json"
     },
     {
+      "igdb_id": 337289,
+      "game_name": "Catale",
+      "file": "missing/C/337289-catale.json"
+    },
+    {
       "igdb_id": 209710,
       "game_name": "Cataline",
       "file": "missing/C/209710-cataline.json"
@@ -80348,6 +80403,11 @@
       "file": "missing/C/55247-chessaria-the-tactical-adventure.json"
     },
     {
+      "igdb_id": 337281,
+      "game_name": "ChessBlaze",
+      "file": "missing/C/337281-chessblaze.json"
+    },
+    {
       "igdb_id": 132626,
       "game_name": "Chesscake",
       "file": "missing/C/132626-chesscake.json"
@@ -82793,6 +82853,11 @@
       "file": "missing/C/382194-christmas-fables-nutcrackers-tale-collectors-edition.json"
     },
     {
+      "igdb_id": 337272,
+      "game_name": "Christmas Fables: The Wishing Store - Collector's Edition",
+      "file": "missing/C/337272-christmas-fables-the-wishing-store-collectors-edition.json"
+    },
+    {
       "igdb_id": 226312,
       "game_name": "Christmas Fun",
       "file": "missing/C/226312-christmas-fun.json"
@@ -83046,6 +83111,11 @@
       "igdb_id": 278699,
       "game_name": "Christmas Yarn 2",
       "file": "missing/C/278699-christmas-yarn-2.json"
+    },
+    {
+      "igdb_id": 337271,
+      "game_name": "Christmas Yarn 3: Collector's Edition",
+      "file": "missing/C/337271-christmas-yarn-3-collectors-edition.json"
     },
     {
       "igdb_id": 286006,
@@ -95376,6 +95446,11 @@
       "igdb_id": 295922,
       "game_name": "Cosmo Solitaire",
       "file": "missing/C/295922-cosmo-solitaire.json"
+    },
+    {
+      "igdb_id": 337254,
+      "game_name": "Cosmo Solitaire 2",
+      "file": "missing/C/337254-cosmo-solitaire-2.json"
     },
     {
       "igdb_id": 346089,
@@ -155458,6 +155533,16 @@
       "file": "missing/F/119007-fables-of-talumos.json"
     },
     {
+      "igdb_id": 337251,
+      "game_name": "Fables of the Kingdom III: Collector's Edition",
+      "file": "missing/F/337251-fables-of-the-kingdom-iii-collectors-edition.json"
+    },
+    {
+      "igdb_id": 337250,
+      "game_name": "Fables of the Kingdom V: Collector's Edition",
+      "file": "missing/F/337250-fables-of-the-kingdom-v-collectors-edition.json"
+    },
+    {
       "igdb_id": 124171,
       "game_name": "Fabulous Angela: New York to LA",
       "file": "missing/F/124171-fabulous-angela-new-york-to-la.json"
@@ -158476,6 +158561,16 @@
       "igdb_id": 296060,
       "game_name": "Fantasy Mosaics 37: Spooky Night",
       "file": "missing/F/296060-fantasy-mosaics-37-spooky-night.json"
+    },
+    {
+      "igdb_id": 337259,
+      "game_name": "Fantasy Mosaics 38: Underwater Adventure",
+      "file": "missing/F/337259-fantasy-mosaics-38-underwater-adventure.json"
+    },
+    {
+      "igdb_id": 337260,
+      "game_name": "Fantasy Mosaics 39: Behind the Mirror",
+      "file": "missing/F/337260-fantasy-mosaics-39-behind-the-mirror.json"
     },
     {
       "igdb_id": 100734,
@@ -163431,6 +163526,11 @@
       "igdb_id": 388211,
       "game_name": "Fille Fatale Compassion",
       "file": "missing/F/388211-fille-fatale-compassion.json"
+    },
+    {
+      "igdb_id": 337288,
+      "game_name": "Fillet Fury",
+      "file": "missing/F/337288-fillet-fury.json"
     },
     {
       "igdb_id": 415266,
@@ -178776,6 +178876,11 @@
       "igdb_id": 292557,
       "game_name": "Fumble Fiesta",
       "file": "missing/F/292557-fumble-fiesta.json"
+    },
+    {
+      "igdb_id": 337295,
+      "game_name": "Fumble Freaks",
+      "file": "missing/F/337295-fumble-freaks.json"
     },
     {
       "igdb_id": 27194,
@@ -196043,6 +196148,11 @@
       "file": "missing/G/204701-greedycraft.json"
     },
     {
+      "igdb_id": 337249,
+      "game_name": "Greek Kitchen Frenzy: Dionysus - Collector's Edition",
+      "file": "missing/G/337249-greek-kitchen-frenzy-dionysus-collectors-edition.json"
+    },
+    {
       "igdb_id": 99394,
       "game_name": "Greek Letters and Alphabet 2",
       "file": "missing/G/99394-greek-letters-and-alphabet-2.json"
@@ -196901,6 +197011,11 @@
       "igdb_id": 57071,
       "game_name": "Grim Tales 5: Bloody Mary",
       "file": "missing/G/57071-grim-tales-5-bloody-mary.json"
+    },
+    {
+      "igdb_id": 337263,
+      "game_name": "Grim Tales: All Shades of Black - Collector's Edition",
+      "file": "missing/G/337263-grim-tales-all-shades-of-black-collectors-edition.json"
     },
     {
       "igdb_id": 188013,
@@ -201268,6 +201383,11 @@
       "file": "missing/H/7005-hail-to-the-chimp.json"
     },
     {
+      "igdb_id": 337292,
+      "game_name": "Hailborn: UFO Stole My Egg!",
+      "file": "missing/H/337292-hailborn-ufo-stole-my-egg.json"
+    },
+    {
       "igdb_id": 109738,
       "game_name": "Hailey",
       "file": "missing/H/109738-hailey.json"
@@ -203606,6 +203726,11 @@
       "igdb_id": 340412,
       "game_name": "Happy Holes",
       "file": "missing/H/340412-happy-holes.json"
+    },
+    {
+      "igdb_id": 337270,
+      "game_name": "Happy Holidays: Christmas Miracle",
+      "file": "missing/H/337270-happy-holidays-christmas-miracle.json"
     },
     {
       "igdb_id": 413913,
@@ -239473,6 +239598,16 @@
       "file": "missing/J/165683-jewel-match-solitaire-summertime.json"
     },
     {
+      "igdb_id": 337273,
+      "game_name": "Jewel Match: Dracula - Collector's Edition",
+      "file": "missing/J/337273-jewel-match-dracula-collectors-edition.json"
+    },
+    {
+      "igdb_id": 337274,
+      "game_name": "Jewel Match: Snowscapes",
+      "file": "missing/J/337274-jewel-match-snowscapes.json"
+    },
+    {
       "igdb_id": 309503,
       "game_name": "Jewel Match: Solitaire Seasons - Collector's Edition",
       "file": "missing/J/309503-jewel-match-solitaire-seasons-collectors-edition.json"
@@ -240701,6 +240836,11 @@
       "igdb_id": 362853,
       "game_name": "Jixo 3: Hidden Horizons - Collector's Edition",
       "file": "missing/J/362853-jixo-3-hidden-horizons-collectors-edition.json"
+    },
+    {
+      "igdb_id": 337282,
+      "game_name": "Jixo: The Season of Joy - Collector's Edition",
+      "file": "missing/J/337282-jixo-the-season-of-joy-collectors-edition.json"
     },
     {
       "igdb_id": 373718,
@@ -250158,6 +250298,11 @@
       "file": "missing/K/360609-kingdom-death-simulator.json"
     },
     {
+      "igdb_id": 337293,
+      "game_name": "Kingdom Fortress",
+      "file": "missing/K/337293-kingdom-fortress.json"
+    },
+    {
       "igdb_id": 89879,
       "game_name": "Kingdom Hearts 10th Anniversary 3D+Days+Re:coded Box",
       "file": "missing/K/89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json"
@@ -252206,6 +252351,16 @@
       "igdb_id": 97079,
       "game_name": "Knight Bewitched",
       "file": "missing/K/97079-knight-bewitched.json"
+    },
+    {
+      "igdb_id": 337276,
+      "game_name": "Knight Cats: Waves on the Water - Collector's Edition",
+      "file": "missing/K/337276-knight-cats-waves-on-the-water-collectors-edition.json"
+    },
+    {
+      "igdb_id": 337275,
+      "game_name": "Knight Cats: Whisper of the Universe",
+      "file": "missing/K/337275-knight-cats-whisper-of-the-universe.json"
     },
     {
       "igdb_id": 146271,
@@ -271521,6 +271676,11 @@
       "igdb_id": 363893,
       "game_name": "Love Letters",
       "file": "missing/L/363893-love-letters.json"
+    },
+    {
+      "igdb_id": 337264,
+      "game_name": "Love Letters: First Bloom",
+      "file": "missing/L/337264-love-letters-first-bloom.json"
     },
     {
       "igdb_id": 225646,
@@ -292088,6 +292248,11 @@
       "file": "missing/M/346801-metamorphosis-collection.json"
     },
     {
+      "igdb_id": 337286,
+      "game_name": "Metaneurosis",
+      "file": "missing/M/337286-metaneurosis.json"
+    },
+    {
       "igdb_id": 101326,
       "game_name": "Metanoia",
       "file": "missing/M/101326-metanoia.json"
@@ -312528,6 +312693,11 @@
       "file": "missing/M/298865-mystery-of-munroe-manor.json"
     },
     {
+      "igdb_id": 337258,
+      "game_name": "Mystery of Myths: Heart of Athens - Collector's Edition",
+      "file": "missing/M/337258-mystery-of-myths-heart-of-athens-collectors-edition.json"
+    },
+    {
       "igdb_id": 107837,
       "game_name": "Mystery of the Ancients: Curse of the Black Water - Collector's Edition",
       "file": "missing/M/107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json"
@@ -313043,6 +313213,11 @@
       "file": "missing/M/361775-mystical-riddles-ghostly-park-dlc.json"
     },
     {
+      "igdb_id": 337262,
+      "game_name": "Mystical Riddles: Haunted Portraits - Collector's Edition",
+      "file": "missing/M/337262-mystical-riddles-haunted-portraits-collectors-edition.json"
+    },
+    {
       "igdb_id": 136453,
       "game_name": "Mystical Samurai",
       "file": "missing/M/136453-mystical-samurai.json"
@@ -313161,6 +313336,11 @@
       "igdb_id": 386842,
       "game_name": "Myth of Valderit",
       "file": "missing/M/386842-myth-of-valderit.json"
+    },
+    {
+      "igdb_id": 337277,
+      "game_name": "Myth or Reality: Snowbound Secrets - Collector's Edition",
+      "file": "missing/M/337277-myth-or-reality-snowbound-secrets-collectors-edition.json"
     },
     {
       "igdb_id": 337642,
@@ -319836,6 +320016,11 @@
       "igdb_id": 258010,
       "game_name": "New Yankee: Mary's Dark Side",
       "file": "missing/N/258010-new-yankee-marys-dark-side.json"
+    },
+    {
+      "igdb_id": 337255,
+      "game_name": "New Yankee: The Way of the Knight - Collector's Edition",
+      "file": "missing/N/337255-new-yankee-the-way-of-the-knight-collectors-edition.json"
     },
     {
       "igdb_id": 170500,
@@ -338296,6 +338481,11 @@
       "igdb_id": 103324,
       "game_name": "Overwhelm",
       "file": "missing/O/103324-overwhelm.json"
+    },
+    {
+      "igdb_id": 337291,
+      "game_name": "OverWing",
+      "file": "missing/O/337291-overwing.json"
     },
     {
       "igdb_id": 408180,
@@ -356806,6 +356996,11 @@
       "igdb_id": 248282,
       "game_name": "Pocket Squid Fishing",
       "file": "missing/P/248282-pocket-squid-fishing.json"
+    },
+    {
+      "igdb_id": 337256,
+      "game_name": "Pocket Stadium",
+      "file": "missing/P/337256-pocket-stadium.json"
     },
     {
       "igdb_id": 57124,
@@ -376928,6 +377123,11 @@
       "file": "missing/R/39127-rambo-first-blood-part-ii.json"
     },
     {
+      "igdb_id": 337280,
+      "game_name": "Ramek: Total Machine Death",
+      "file": "missing/R/337280-ramek-total-machine-death.json"
+    },
+    {
       "igdb_id": 159345,
       "game_name": "Ramen Chain",
       "file": "missing/R/159345-ramen-chain.json"
@@ -376941,6 +377141,11 @@
       "igdb_id": 283716,
       "game_name": "Ramen no Megami",
       "file": "missing/R/283716-ramen-no-megami.json"
+    },
+    {
+      "igdb_id": 337287,
+      "game_name": "Ramen Shop Simulator",
+      "file": "missing/R/337287-ramen-shop-simulator.json"
     },
     {
       "igdb_id": 92513,
@@ -395913,6 +396118,11 @@
       "file": "missing/R/186320-ruins-of-mitriom.json"
     },
     {
+      "igdb_id": 337252,
+      "game_name": "Ruins of Tearyn",
+      "file": "missing/R/337252-ruins-of-tearyn.json"
+    },
+    {
       "igdb_id": 258460,
       "game_name": "Ruins of the Lost",
       "file": "missing/R/258460-ruins-of-the-lost.json"
@@ -401441,6 +401651,11 @@
       "igdb_id": 30362,
       "game_name": "Santa's Christmas Solitaire",
       "file": "missing/S/30362-santas-christmas-solitaire.json"
+    },
+    {
+      "igdb_id": 337283,
+      "game_name": "Santa's Christmas Solitaire 3",
+      "file": "missing/S/337283-santas-christmas-solitaire-3.json"
     },
     {
       "igdb_id": 376762,
@@ -436618,6 +436833,11 @@
       "file": "missing/S/233104-spell-breakers.json"
     },
     {
+      "igdb_id": 337299,
+      "game_name": "Spell Candle",
+      "file": "missing/S/337299-spell-candle.json"
+    },
+    {
       "igdb_id": 233107,
       "game_name": "Spell Caster: Puzzle RPG",
       "file": "missing/S/233107-spell-caster-puzzle-rpg.json"
@@ -443971,6 +444191,11 @@
       "igdb_id": 142386,
       "game_name": "Starona",
       "file": "missing/S/142386-starona.json"
+    },
+    {
+      "igdb_id": 337290,
+      "game_name": "Staroot",
+      "file": "missing/S/337290-staroot.json"
     },
     {
       "igdb_id": 255961,
@@ -480841,6 +481066,11 @@
       "igdb_id": 298144,
       "game_name": "The Earth Is Flat",
       "file": "missing/T/298144-the-earth-is-flat.json"
+    },
+    {
+      "igdb_id": 337278,
+      "game_name": "The Earth Sucks",
+      "file": "missing/T/337278-the-earth-sucks.json"
     },
     {
       "igdb_id": 341897,
@@ -520483,6 +520713,11 @@
       "file": "missing/T/386125-trick-or-treat-halloween-solitaire.json"
     },
     {
+      "igdb_id": 337265,
+      "game_name": "Trick Solitaire",
+      "file": "missing/T/337265-trick-solitaire.json"
+    },
+    {
       "igdb_id": 359438,
       "game_name": "Trick the Ninjalinos",
       "file": "missing/T/359438-trick-the-ninjalinos.json"
@@ -525698,6 +525933,11 @@
       "file": "missing/U/232020-uh-oh-ufo.json"
     },
     {
+      "igdb_id": 337294,
+      "game_name": "Uhilant",
+      "file": "missing/U/337294-uhilant.json"
+    },
+    {
       "igdb_id": 125993,
       "game_name": "Uin",
       "file": "missing/U/125993-uin.json"
@@ -527156,6 +527396,11 @@
       "igdb_id": 386886,
       "game_name": "Umbra Flora",
       "file": "missing/U/386886-umbra-flora.json"
+    },
+    {
+      "igdb_id": 337284,
+      "game_name": "Umbra Lumen",
+      "file": "missing/U/337284-umbra-lumen.json"
     },
     {
       "igdb_id": 215678,
@@ -545436,6 +545681,11 @@
       "igdb_id": 416081,
       "game_name": "Weekend Solitaire: Grace in Motion",
       "file": "missing/W/416081-weekend-solitaire-grace-in-motion.json"
+    },
+    {
+      "igdb_id": 337257,
+      "game_name": "Weekend Solitaire: Meditation",
+      "file": "missing/W/337257-weekend-solitaire-meditation.json"
     },
     {
       "igdb_id": 416080,
