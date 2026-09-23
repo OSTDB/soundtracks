@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhaos | 161406 | [161406-warhaos.json](./161406-warhaos.json) |
 | Warhawk | 36532 | [36532-warhawk.json](./36532-warhawk.json) |
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
+| Warhead Circus | 383028 | [383028-warhead-circus.json](./383028-warhead-circus.json) |
 | Warhead Vanguard | 409655 | [409655-warhead-vanguard.json](./409655-warhead-vanguard.json) |
 | Warhound | 378158 | [378158-warhound.json](./378158-warhound.json) |
 | Wario and the Tower of Garlic | 399080 | [399080-wario-and-the-tower-of-garlic.json](./399080-wario-and-the-tower-of-garlic.json) |
@@ -896,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Madness | 371261 | [371261-way-of-madness.json](./371261-way-of-madness.json) |
 | Way of Redemption | 58744 | [58744-way-of-redemption.json](./58744-way-of-redemption.json) |
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
+| Way of the Hunter 2 | 383019 | [383019-way-of-the-hunter-2.json](./383019-way-of-the-hunter-2.json) |
 | Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
 | Way of the Hunter: Hunter's Pack | 325657 | [325657-way-of-the-hunter-hunters-pack.json](./325657-way-of-the-hunter-hunters-pack.json) |
 | Way of the Hunter: Outfits Pack | 311101 | [311101-way-of-the-hunter-outfits-pack.json](./311101-way-of-the-hunter-outfits-pack.json) |
