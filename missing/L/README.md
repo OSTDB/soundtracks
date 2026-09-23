@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Memories | 224779 | [224779-lost-memories.json](./224779-lost-memories.json) |
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
+| Lost my Collection of 100 Shells | 359574 | [359574-lost-my-collection-of-100-shells.json](./359574-lost-my-collection-of-100-shells.json) |
 | Lost Nomad | 297630 | [297630-lost-nomad.json](./297630-lost-nomad.json) |
 | Lost Oasis | 334099 | [334099-lost-oasis.json](./334099-lost-oasis.json) |
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
