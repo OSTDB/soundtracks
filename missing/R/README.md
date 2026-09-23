@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick Ribbit in Ark Noodle's Math Challenge | 62688 | [62688-rick-ribbit-in-ark-noodles-math-challenge.json](./62688-rick-ribbit-in-ark-noodles-math-challenge.json) |
 | Rick Ribbit: Adventures in Early Learning | 62689 | [62689-rick-ribbit-adventures-in-early-learning.json](./62689-rick-ribbit-adventures-in-early-learning.json) |
 | Rick Shaw's Radical Rickshaw | 180685 | [180685-rick-shaws-radical-rickshaw.json](./180685-rick-shaws-radical-rickshaw.json) |
+| Rick's Konbini | 387647 | [387647-ricks-konbini.json](./387647-ricks-konbini.json) |
 | Rickdle | 396406 | [396406-rickdle.json](./396406-rickdle.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
