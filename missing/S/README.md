@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See you: A brief exile | 159745 | [159745-see-you-a-brief-exile.json](./159745-see-you-a-brief-exile.json) |
 | Seeb Defender | 244777 | [244777-seeb-defender.json](./244777-seeb-defender.json) |
 | Seed | 403825 | [403825-seed.json](./403825-seed.json) |
+| Seed 2313 | 359604 | [359604-seed-2313.json](./359604-seed-2313.json) |
 | Seed In | 266787 | [266787-seed-in.json](./266787-seed-in.json) |
 | Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
 | Seed of Dragon | 400959 | [400959-seed-of-dragon.json](./400959-seed-of-dragon.json) |
@@ -4353,12 +4354,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
+| Sketchbook | 359617 | [359617-sketchbook.json](./359617-sketchbook.json) |
 | Sketchbook Squad | 397778 | [397778-sketchbook-squad.json](./397778-sketchbook-squad.json) |
 | Sketchcross | 52824 | [52824-sketchcross.json](./52824-sketchcross.json) |
 | Sketchfab VR | 32920 | [32920-sketchfab-vr.json](./32920-sketchfab-vr.json) |
 | Sketchful.io | 122975 | [122975-sketchful-io.json](./122975-sketchful-io.json) |
 | Sketchy | 54461 | [54461-sketchy.json](./54461-sketchy.json) |
 | Sketchy 2 | 54460 | [54460-sketchy-2.json](./54460-sketchy-2.json) |
+| Sketchy Arcade | 359619 | [359619-sketchy-arcade.json](./359619-sketchy-arcade.json) |
 | Sketchy Bounce | 65758 | [65758-sketchy-bounce.json](./65758-sketchy-bounce.json) |
 | Sketchy Fables | 152846 | [152846-sketchy-fables.json](./152846-sketchy-fables.json) |
 | Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
