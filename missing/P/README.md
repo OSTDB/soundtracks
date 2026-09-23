@@ -5509,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Exhibited | 132216 | [132216-project-exhibited.json](./132216-project-exhibited.json) |
 | Project Exo | 214038 | [214038-project-exo.json](./214038-project-exo.json) |
 | Project F.A.L.S.E. | 156529 | [156529-project-f-a-l-s-e.json](./156529-project-f-a-l-s-e.json) |
+| Project Faceless | 340048 | [340048-project-faceless.json](./340048-project-faceless.json) |
 | Project Fiend | 346247 | [346247-project-fiend.json](./346247-project-fiend.json) |
 | Project Fireball | 258458 | [258458-project-fireball.json](./258458-project-fireball.json) |
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
