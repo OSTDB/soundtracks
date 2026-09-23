@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Hostel | 166628 | [166628-fake-hostel.json](./166628-fake-hostel.json) |
 | Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
 | Falafel Tycoon | 152837 | [152837-falafel-tycoon.json](./152837-falafel-tycoon.json) |
+| Falaz | 374811 | [374811-falaz.json](./374811-falaz.json) |
 | Falcão & a cornopopéia brasileira | 245041 | [245041-falcao-and-a-cornopopeia-brasileira.json](./245041-falcao-and-a-cornopopeia-brasileira.json) |
 | Falcata | 125459 | [125459-falcata.json](./125459-falcata.json) |
 | Falco Tunes | 301843 | [301843-falco-tunes.json](./301843-falco-tunes.json) |
@@ -2093,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire: The First Dreamer | 333552 | [333552-fire-the-first-dreamer.json](./333552-fire-the-first-dreamer.json) |
 | Firearms Master | 335326 | [335326-firearms-master.json](./335326-firearms-master.json) |
 | Fireball | 18565 | [18565-fireball.json](./18565-fireball.json) |
+| Fireball | 374834 | [374834-fireball.json](./374834-fireball.json) |
 | Fireball Classic | 91446 | [91446-fireball-classic.json](./91446-fireball-classic.json) |
 | Fireball SE | 22313 | [22313-fireball-se.json](./22313-fireball-se.json) |
 | Fireball Spam | 243788 | [243788-fireball-spam.json](./243788-fireball-spam.json) |
@@ -4120,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
 | Freestyle Football Z | 270774 | [270774-freestyle-football-z.json](./270774-freestyle-football-z.json) |
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
+| Freetown Forest | 374839 | [374839-freetown-forest.json](./374839-freetown-forest.json) |
 | Freeway | 131544 | [131544-freeway.json](./131544-freeway.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
