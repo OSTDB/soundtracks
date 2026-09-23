@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacteria: Collector's Edition | 52620 | [52620-bacteria-collectors-edition.json](./52620-bacteria-collectors-edition.json) |
 | Bacterial Edge | 195717 | [195717-bacterial-edge.json](./195717-bacterial-edge.json) |
 | Bacterial Takeover - Idle game | 257373 | [257373-bacterial-takeover-idle-game.json](./257373-bacterial-takeover-idle-game.json) |
+| Bacterian | 347370 | [347370-bacterian.json](./347370-bacterian.json) |
 | Bacteriophage | 197948 | [197948-bacteriophage.json](./197948-bacteriophage.json) |
 | Bactory | 413612 | [413612-bactory.json](./413612-bactory.json) |
 | Bactron | 37076 | [37076-bactron.json](./37076-bactron.json) |
@@ -672,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band Together | 358417 | [358417-band-together.json](./358417-band-together.json) |
 | Band Wagon | 91435 | [91435-band-wagon.json](./91435-band-wagon.json) |
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
+| Bandeirantes: The Game. | 347348 | [347348-bandeirantes-the-game.json](./347348-bandeirantes-the-game.json) |
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
 | Bandit | 330887 | [330887-bandit.json](./330887-bandit.json) |
 | Bandit | 379999 | [379999-bandit.json](./379999-bandit.json) |
@@ -1748,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be the Ruler: Britannia | 112987 | [112987-be-the-ruler-britannia.json](./112987-be-the-ruler-britannia.json) |
 | BE Witches | 157163 | [157163-be-witches.json](./157163-be-witches.json) |
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
+| Beach Bar Simulator | 347355 | [347355-beach-bar-simulator.json](./347355-beach-bar-simulator.json) |
 | Beach Bass | 334210 | [334210-beach-bass.json](./334210-beach-bass.json) |
 | Beach Bike Water: Challenge Ra | 107671 | [107671-beach-bike-water-challenge-ra.json](./107671-beach-bike-water-challenge-ra.json) |
 | Beach Bounce | 35698 | [35698-beach-bounce.json](./35698-beach-bounce.json) |
@@ -1765,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Gas Gas | 247620 | [247620-beach-gas-gas.json](./247620-beach-gas-gas.json) |
 | Beach Girls | 75758 | [75758-beach-girls.json](./75758-beach-girls.json) |
 | Beach Head 2000 | 17451 | [17451-beach-head-2000.json](./17451-beach-head-2000.json) |
+| Beach Invasion 1915: Gallipoli | 347341 | [347341-beach-invasion-1915-gallipoli.json](./347341-beach-invasion-1915-gallipoli.json) |
 | Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
 | Beach Island Deluxe | 212810 | [212810-beach-island-deluxe.json](./212810-beach-island-deluxe.json) |
 | Beach Landing | 307933 | [307933-beach-landing.json](./307933-beach-landing.json) |
@@ -4095,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
 | Blossom | 178530 | [178530-blossom.json](./178530-blossom.json) |
 | Blossom | 388708 | [388708-blossom.json](./388708-blossom.json) |
+| Blossom Breeze | 347356 | [347356-blossom-breeze.json](./347356-blossom-breeze.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
 | Blow Up! | 47556 | [47556-blow-up.json](./47556-blow-up.json) |
