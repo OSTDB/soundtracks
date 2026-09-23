@@ -2169,6 +2169,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aquarium of Luck | 85434 | [85434-the-aquarium-of-luck.json](./85434-the-aquarium-of-luck.json) |
 | The Aquatic Adventure of the Last Human | 12598 | [12598-the-aquatic-adventure-of-the-last-human.json](./12598-the-aquatic-adventure-of-the-last-human.json) |
 | The Arab League of Misfits | 412531 | [412531-the-arab-league-of-misfits.json](./412531-the-arab-league-of-misfits.json) |
+| The Arcana: Dark Tarot & Kings of Madness | 389075 | [389075-the-arcana-dark-tarot-and-kings-of-madness.json](./389075-the-arcana-dark-tarot-and-kings-of-madness.json) |
+| The Arcana: Dark Tarot & Queens of Madness | 389077 | [389077-the-arcana-dark-tarot-and-queens-of-madness.json](./389077-the-arcana-dark-tarot-and-queens-of-madness.json) |
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
 | The Archer | 287646 | [287646-the-archer.json](./287646-the-archer.json) |
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
@@ -6293,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
 | The Test: Hypothesis Rising | 132660 | [132660-the-test-hypothesis-rising.json](./132660-the-test-hypothesis-rising.json) |
+| The Test: Reimagined | 389115 | [389115-the-test-reimagined.json](./389115-the-test-reimagined.json) |
 | The Testament of Sherlock Holmes | 6164 | [6164-the-testament-of-sherlock-holmes.json](./6164-the-testament-of-sherlock-holmes.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
 | The Texas Chain Saw Massacre: 2003 Leatherface | 351015 | [351015-the-texas-chain-saw-massacre-2003-leatherface.json](./351015-the-texas-chain-saw-massacre-2003-leatherface.json) |
@@ -8701,6 +8704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA World Touring Cars | 8002 | [8002-toca-world-touring-cars.json](./8002-toca-world-touring-cars.json) |
 | Today is my Birthday | 112266 | [112266-today-is-my-birthday.json](./112266-today-is-my-birthday.json) |
 | Today, I'll Be The Hero | 409044 | [409044-today-ill-be-the-hero.json](./409044-today-ill-be-the-hero.json) |
+| Today's Menu | 389111 | [389111-todays-menu.json](./389111-todays-menu.json) |
 | Todd's Spider Dream | 154567 | [154567-todds-spider-dream.json](./154567-todds-spider-dream.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
