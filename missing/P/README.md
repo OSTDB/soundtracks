@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggy's Farm | 274048 | [274048-peggys-farm.json](./274048-peggys-farm.json) |
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
 | Peglin | 133512 | [133512-peglin.json](./133512-peglin.json) |
+| Pegture | 389722 | [389722-pegture.json](./389722-pegture.json) |
 | Peh Pai | 91361 | [91361-peh-pai.json](./91361-peh-pai.json) |
 | Pèi'ěrluó Dàlù Jìshì: -Being | 394191 | [394191-peierluo-dalu-jishi-being.json](./394191-peierluo-dalu-jishi-being.json) |
 | Pejes vs. Zombies | 158578 | [158578-pejes-vs-zombies.json](./158578-pejes-vs-zombies.json) |
@@ -2662,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit of Ascension | 155986 | [155986-pit-of-ascension.json](./155986-pit-of-ascension.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
 | Pit of the Condemned | 59692 | [59692-pit-of-the-condemned.json](./59692-pit-of-the-condemned.json) |
+| Pit of the Lord | 389728 | [389728-pit-of-the-lord.json](./389728-pit-of-the-lord.json) |
 | Pit Panic | 401839 | [401839-pit-panic.json](./401839-pit-panic.json) |
 | Pit Pioneers | 391153 | [391153-pit-pioneers.json](./391153-pit-pioneers.json) |
 | Pit Stop Racing: Club Vs. Club | 251662 | [251662-pit-stop-racing-club-vs-club.json](./251662-pit-stop-racing-club-vs-club.json) |
