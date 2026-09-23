@@ -3498,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shriddle | 143006 | [143006-shriddle.json](./143006-shriddle.json) |
 | Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
 | Shrimp Keeping Simulator | 340371 | [340371-shrimp-keeping-simulator.json](./340371-shrimp-keeping-simulator.json) |
+| Shrimplation | 364686 | [364686-shrimplation.json](./364686-shrimplation.json) |
 | Shrine | 132241 | [132241-shrine.json](./132241-shrine.json) |
 | Shrine For the Gods of Lost Things | 141628 | [141628-shrine-for-the-gods-of-lost-things.json](./141628-shrine-for-the-gods-of-lost-things.json) |
 | Shrine Raider | 377052 | [377052-shrine-raider.json](./377052-shrine-raider.json) |
@@ -3696,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sign It | 413186 | [413186-sign-it.json](./413186-sign-it.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
+| Sign Off | 364705 | [364705-sign-off.json](./364705-sign-off.json) |
 | Sign: Broken Kether | 406269 | [406269-sign-broken-kether.json](./406269-sign-broken-kether.json) |
 | Signal | 171482 | [171482-signal.json](./171482-signal.json) |
 | Signal | 205094 | [205094-signal.json](./205094-signal.json) |
@@ -5317,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
 | Snake Deluxe | 154407 | [154407-snake-deluxe.json](./154407-snake-deluxe.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
+| Snake Dice | 364679 | [364679-snake-dice.json](./364679-snake-dice.json) |
 | Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
 | Snake Eyes | 369733 | [369733-snake-eyes.json](./369733-snake-eyes.json) |
 | Snake Flow | 37061 | [37061-snake-flow.json](./37061-snake-flow.json) |
@@ -7562,6 +7565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Race DX | 342140 | [342140-speed-race-dx.json](./342140-speed-race-dx.json) |
 | Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
 | Speed Racer Candy Tracks | 343895 | [343895-speed-racer-candy-tracks.json](./343895-speed-racer-candy-tracks.json) |
+| Speed Rally | 364721 | [364721-speed-rally.json](./364721-speed-rally.json) |
 | Speed Rider Racing | 100166 | [100166-speed-rider-racing.json](./100166-speed-rider-racing.json) |
 | Speed Run | 304594 | [304594-speed-run.json](./304594-speed-run.json) |
 | Speed Runner | 246491 | [246491-speed-runner.json](./246491-speed-runner.json) |
