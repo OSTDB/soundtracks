@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao the Kangaroo: Summer Drip | 255089 | [255089-kao-the-kangaroo-summer-drip.json](./255089-kao-the-kangaroo-summer-drip.json) |
 | Kao The Kangaroo: Top Of The Class | 290412 | [290412-kao-the-kangaroo-top-of-the-class.json](./290412-kao-the-kangaroo-top-of-the-class.json) |
 | Kao the Kangaroo: VIP | 290411 | [290411-kao-the-kangaroo-vip.json](./290411-kao-the-kangaroo-vip.json) |
+| Kaon : Fragmented Core | 379582 | [379582-kaon-fragmented-core.json](./379582-kaon-fragmented-core.json) |
 | Kaori After Story | 112770 | [112770-kaori-after-story.json](./112770-kaori-after-story.json) |
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
 | Kǎpái Màoxiǎnzhě | 148369 | [148369-kapai-maoxianzhe.json](./148369-kapai-maoxianzhe.json) |
