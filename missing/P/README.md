@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
 | Parry King | 263044 | [263044-parry-king.json](./263044-parry-king.json) |
 | Parry Nightmare | 214214 | [214214-parry-nightmare.json](./214214-parry-nightmare.json) |
+| ParryMaster | 374810 | [374810-parrymaster.json](./374810-parrymaster.json) |
 | Parse Ally | 114442 | [114442-parse-ally.json](./114442-parse-ally.json) |
 | Parse-O-Rhythm | 305940 | [305940-parse-o-rhythm.json](./305940-parse-o-rhythm.json) |
 | Parsec | 18563 | [18563-parsec.json](./18563-parsec.json) |
@@ -4722,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pressure Gauge | 40756 | [40756-pressure-gauge.json](./40756-pressure-gauge.json) |
 | Prestigious School Story | 92461 | [92461-prestigious-school-story.json](./92461-prestigious-school-story.json) |
 | Preston Sterling and the Legend of Excalibur | 55868 | [55868-preston-sterling-and-the-legend-of-excalibur.json](./55868-preston-sterling-and-the-legend-of-excalibur.json) |
+| PreStrafe | 374804 | [374804-prestrafe.json](./374804-prestrafe.json) |
 | Pretend Dead Friend | 271308 | [271308-pretend-dead-friend.json](./271308-pretend-dead-friend.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
@@ -4775,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Carnage: Genesis | 80564 | [80564-primal-carnage-genesis.json](./80564-primal-carnage-genesis.json) |
 | Primal Chronicles | 336618 | [336618-primal-chronicles.json](./336618-primal-chronicles.json) |
 | Primal Dinosaur Shooter: Dino Killer | 374672 | [374672-primal-dinosaur-shooter-dino-killer.json](./374672-primal-dinosaur-shooter-dino-killer.json) |
+| Primal Echo | 374822 | [374822-primal-echo.json](./374822-primal-echo.json) |
 | Primal Force Arena | 317842 | [317842-primal-force-arena.json](./317842-primal-force-arena.json) |
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
 | Primal Frost | 384059 | [384059-primal-frost.json](./384059-primal-frost.json) |
@@ -5565,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prospector Stanley | 183553 | [183553-prospector-stanley.json](./183553-prospector-stanley.json) |
 | Prospekt | 22149 | [22149-prospekt.json](./22149-prospekt.json) |
 | Prospero | 237524 | [237524-prospero.json](./237524-prospero.json) |
+| Prospice | 374812 | [374812-prospice.json](./374812-prospice.json) |
 | Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
 | Prostitute Simulator | 208451 | [208451-prostitute-simulator.json](./208451-prostitute-simulator.json) |
 | ProStroke Golf: World Tour 2007 | 20572 | [20572-prostroke-golf-world-tour-2007.json](./20572-prostroke-golf-world-tour-2007.json) |
