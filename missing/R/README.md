@@ -3767,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollMe | 169883 | [169883-rollme.json](./169883-rollme.json) |
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
+| Rolls and Girls | 367027 | [367027-rolls-and-girls.json](./367027-rolls-and-girls.json) |
 | RollScape | 295403 | [295403-rollscape.json](./295403-rollscape.json) |
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
