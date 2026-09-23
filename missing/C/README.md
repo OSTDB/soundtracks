@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Ultimate Edition | 268552 | [268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json](./268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json) |
 | Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
+| Captain Whiskers: Incremental Seas | 386443 | [386443-captain-whiskers-incremental-seas.json](./386443-captain-whiskers-incremental-seas.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
 | Captain's Call | 403130 | [403130-captains-call.json](./403130-captains-call.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
