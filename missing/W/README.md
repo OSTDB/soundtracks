@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcraft III: Reforged - Spoils of War Edition | 111652 | [111652-warcraft-iii-reforged-spoils-of-war-edition.json](./111652-warcraft-iii-reforged-spoils-of-war-edition.json) |
 | Warcube | 31973 | [31973-warcube.json](./31973-warcube.json) |
 | Ward 13 | 399722 | [399722-ward-13.json](./399722-ward-13.json) |
+| Ward 777 | 357460 | [357460-ward-777.json](./357460-ward-777.json) |
 | Warden | 377157 | [377157-warden.json](./377157-warden.json) |
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
 | Warden of the Isles | 129264 | [129264-warden-of-the-isles.json](./129264-warden-of-the-isles.json) |
