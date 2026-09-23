@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egglia: Legend of the Redcap Offline | 107144 | [107144-egglia-legend-of-the-redcap-offline.json](./107144-egglia-legend-of-the-redcap-offline.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
+| Eggo | 358469 | [358469-eggo.json](./358469-eggo.json) |
 | Eggomania | 22765 | [22765-eggomania.json](./22765-eggomania.json) |
 | Eggoria | 118367 | [118367-eggoria.json](./118367-eggoria.json) |
 | Eggplant | 338180 | [338180-eggplant.json](./338180-eggplant.json) |
@@ -2922,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeless Jack | 300016 | [300016-eyeless-jack.json](./300016-eyeless-jack.json) |
 | EyePet Adventures | 52215 | [52215-eyepet-adventures.json](./52215-eyepet-adventures.json) |
 | EyePet: Move Edition | 52214 | [52214-eyepet-move-edition.json](./52214-eyepet-move-edition.json) |
+| Eyepuppet Company | 358514 | [358514-eyepuppet-company.json](./358514-eyepuppet-company.json) |
 | Eyes | 299142 | [299142-eyes.json](./299142-eyes.json) |
 | Eyes First: Double Up | 210742 | [210742-eyes-first-double-up.json](./210742-eyes-first-double-up.json) |
 | Eyes First: Match Two | 210741 | [210741-eyes-first-match-two.json](./210741-eyes-first-match-two.json) |
