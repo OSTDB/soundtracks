@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Schmilblick | 118315 | [118315-le-schmilblick.json](./118315-le-schmilblick.json) |
 | Le Tour de France | 172668 | [172668-le-tour-de-france.json](./172668-le-tour-de-france.json) |
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
+| Lead & Blood | 372687 | [372687-lead-and-blood.json](./372687-lead-and-blood.json) |
 | Lead and Gold: Gangs of the Wild West | 2041 | [2041-lead-and-gold-gangs-of-the-wild-west.json](./2041-lead-and-gold-gangs-of-the-wild-west.json) |
 | Lead the Way | 196693 | [196693-lead-the-way.json](./196693-lead-the-way.json) |
 | Leaden Sky: Nightmares | 286100 | [286100-leaden-sky-nightmares.json](./286100-leaden-sky-nightmares.json) |
@@ -1523,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
 | Liberogrande International | 81231 | [81231-liberogrande-international.json](./81231-liberogrande-international.json) |
 | Liberta: Rise of Freedom | 250963 | [250963-liberta-rise-of-freedom.json](./250963-liberta-rise-of-freedom.json) |
+| Libertine | 372694 | [372694-libertine.json](./372694-libertine.json) |
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
 | Liberty City Preservation Project | 334671 | [334671-liberty-city-preservation-project.json](./334671-liberty-city-preservation-project.json) |
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
@@ -3299,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
 | Luckless Seven | 9758 | [9758-luckless-seven.json](./9758-luckless-seven.json) |
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
+| Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
 | Lucky Coins | 175264 | [175264-lucky-coins.json](./175264-lucky-coins.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
