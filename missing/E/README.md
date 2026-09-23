@@ -2658,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodos | 297069 | [297069-exodos.json](./297069-exodos.json) |
 | Exodus | 212237 | [212237-exodus.json](./212237-exodus.json) |
 | Exodus | 279621 | [279621-exodus.json](./279621-exodus.json) |
+| Exodus | 379592 | [379592-exodus.json](./379592-exodus.json) |
 | Exodus | 388931 | [388931-exodus.json](./388931-exodus.json) |
 | Exodus Core | 347750 | [347750-exodus-core.json](./347750-exodus-core.json) |
 | Exodus Flight | 297070 | [297070-exodus-flight.json](./297070-exodus-flight.json) |
