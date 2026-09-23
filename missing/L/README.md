@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Led It Rain VR | 120373 | [120373-led-it-rain-vr.json](./120373-led-it-rain-vr.json) |
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
 | Lederzwerge Deluxe XXL Version | 84279 | [84279-lederzwerge-deluxe-xxl-version.json](./84279-lederzwerge-deluxe-xxl-version.json) |
+| Ledgeman | 348947 | [348947-ledgeman.json](./348947-ledgeman.json) |
 | Ledoliel | 128629 | [128629-ledoliel.json](./128629-ledoliel.json) |
 | Lèdòng Dárén HD | 101473 | [101473-ledong-daren-hd.json](./101473-ledong-daren-hd.json) |
 | Lee Carvallo's Putting Challenge | 180781 | [180781-lee-carvallos-putting-challenge.json](./180781-lee-carvallos-putting-challenge.json) |
@@ -2017,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lion Pig: Frozen Run | 259238 | [259238-lion-pig-frozen-run.json](./259238-lion-pig-frozen-run.json) |
 | Lion Tamer | 346061 | [346061-lion-tamer.json](./346061-lion-tamer.json) |
 | Liona's Adventure | 258447 | [258447-lionas-adventure.json](./258447-lionas-adventure.json) |
+| Lionel Trains Presents: Trans-Con! | 348978 | [348978-lionel-trains-presents-trans-con.json](./348978-lionel-trains-presents-trans-con.json) |
 | Lionheart | 25687 | [25687-lionheart.json](./25687-lionheart.json) |
 | Lionhearts | 398560 | [398560-lionhearts.json](./398560-lionhearts.json) |
 | Lionkiller | 138256 | [138256-lionkiller.json](./138256-lionkiller.json) |
@@ -2044,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lirili Larila | 353955 | [353955-lirili-larila.json](./353955-lirili-larila.json) |
 | Lis: Achados & Perdidos dos Confins do Universo | 239179 | [239179-lis-achados-and-perdidos-dos-confins-do-universo.json](./239179-lis-achados-and-perdidos-dos-confins-do-universo.json) |
 | Lisa and the Grimoire | 169413 | [169413-lisa-and-the-grimoire.json](./169413-lisa-and-the-grimoire.json) |
+| Lisa Joyful in Hopeful | 348964 | [348964-lisa-joyful-in-hopeful.json](./348964-lisa-joyful-in-hopeful.json) |
 | Lisa: The First | 26652 | [26652-lisa-the-first.json](./26652-lisa-the-first.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
