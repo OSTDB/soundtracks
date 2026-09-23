@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Sarah: Her Dark Skin Clouded White With Cum | 82794 | [82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json](./82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json) |
 | Magical Girl Witch Trials: Famitsu DX Pack | 403787 | [403787-magical-girl-witch-trials-famitsu-dx-pack.json](./403787-magical-girl-witch-trials-famitsu-dx-pack.json) |
 | Magical Girl Yusya-chan and the Labyrinth of Lust | 406694 | [406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json](./406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json) |
+| Magical Girl: Final Pink Star | 389715 | [389715-magical-girl-final-pink-star.json](./389715-magical-girl-final-pink-star.json) |
 | Magical girl's labyrinth | 105332 | [105332-magical-girls-labyrinth.json](./105332-magical-girls-labyrinth.json) |
 | Magical Girls | 378775 | [378775-magical-girls.json](./378775-magical-girls.json) |
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
@@ -6577,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
 | Mushiking: King of the Beetles | 80223 | [80223-mushiking-king-of-the-beetles.json](./80223-mushiking-king-of-the-beetles.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
+| Mushroom Doom | 389747 | [389747-mushroom-doom.json](./389747-mushroom-doom.json) |
 | Mushroom Forest | 382881 | [382881-mushroom-forest.json](./382881-mushroom-forest.json) |
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
