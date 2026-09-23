@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Animals - Activity Book | 96059 | [96059-farm-animals-activity-book.json](./96059-farm-animals-activity-book.json) |
 | Farm Boy | 92507 | [92507-farm-boy.json](./92507-farm-boy.json) |
 | Farm Builder | 147255 | [147255-farm-builder.json](./147255-farm-builder.json) |
+| Farm Chicken | 349475 | [349475-farm-chicken.json](./349475-farm-chicken.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
 | Farm Day 2023 | 241393 | [241393-farm-day-2023.json](./241393-farm-day-2023.json) |
 | Farm Day Simulator 2024 | 283728 | [283728-farm-day-simulator-2024.json](./283728-farm-day-simulator-2024.json) |
@@ -1447,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FF56! | 93054 | [93054-ff56.json](./93054-ff56.json) |
 | FFA Cards | 290514 | [290514-ffa-cards.json](./290514-ffa-cards.json) |
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
+| Ffff You Machine | 349504 | [349504-ffff-you-machine.json](./349504-ffff-you-machine.json) |
 | FFS, Another Northern Duke?! | 309876 | [309876-ffs-another-northern-duke.json](./309876-ffs-another-northern-duke.json) |
 | FGTeev Goozy | 167683 | [167683-fgteev-goozy.json](./167683-fgteev-goozy.json) |
 | FhaMazein | 109723 | [109723-fhamazein.json](./109723-fhamazein.json) |
@@ -2274,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish | 309869 | [309869-fish.json](./309869-fish.json) |
 | Fish | 314298 | [314298-fish.json](./314298-fish.json) |
 | Fish | 382202 | [382202-fish.json](./382202-fish.json) |
+| Fish 'n Ships | 349472 | [349472-fish-n-ships.json](./349472-fish-n-ships.json) |
 | Fish Catcher | 105374 | [105374-fish-catcher.json](./105374-fish-catcher.json) |
 | Fish Chips and Bombs | 311637 | [311637-fish-chips-and-bombs.json](./311637-fish-chips-and-bombs.json) |
 | Fish Duel | 109686 | [109686-fish-duel.json](./109686-fish-duel.json) |
@@ -2931,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floodland | 214497 | [214497-floodland.json](./214497-floodland.json) |
 | Floodrush | 251217 | [251217-floodrush.json](./251217-floodrush.json) |
 | FloodSim | 172689 | [172689-floodsim.json](./172689-floodsim.json) |
+| FloofCorp. | 349478 | [349478-floofcorp.json](./349478-floofcorp.json) |
 | Flooftopia | 287775 | [287775-flooftopia.json](./287775-flooftopia.json) |
 | Floomy | 269022 | [269022-floomy.json](./269022-floomy.json) |
 | Floor | 26645 | [26645-floor.json](./26645-floor.json) |
@@ -4512,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Mayhem | 301288 | [301288-frontier-mayhem.json](./301288-frontier-mayhem.json) |
 | Frontier Mech: Ash Walkers | 356075 | [356075-frontier-mech-ash-walkers.json](./356075-frontier-mech-ash-walkers.json) |
 | Frontier Paladin | 292542 | [292542-frontier-paladin.json](./292542-frontier-paladin.json) |
+| Frontier Roots | 349515 | [349515-frontier-roots.json](./349515-frontier-roots.json) |
 | Frontier Tale | 416073 | [416073-frontier-tale.json](./416073-frontier-tale.json) |
 | Frontier VR | 29150 | [29150-frontier-vr.json](./29150-frontier-vr.json) |
 | Frontier Wars: Defense Heroes | 129609 | [129609-frontier-wars-defense-heroes.json](./129609-frontier-wars-defense-heroes.json) |
