@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
 | Absolutely Nothing Good | 414420 | [414420-absolutely-nothing-good.json](./414420-absolutely-nothing-good.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
+| Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
 | Absorb | 219698 | [219698-absorb.json](./219698-absorb.json) |
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazona Adventure | 279593 | [279593-amazona-adventure.json](./279593-amazona-adventure.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
+| Amber Alert Director's Cut | 345679 | [345679-amber-alert-directors-cut.json](./345679-amber-alert-directors-cut.json) |
 | Amber Battle Royale | 226219 | [226219-amber-battle-royale.json](./226219-amber-battle-royale.json) |
 | Amber Quartz | 69291 | [69291-amber-quartz.json](./69291-amber-quartz.json) |
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
@@ -3165,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls | 261367 | [261367-anime-girls.json](./261367-anime-girls.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
+| Anime Girls: Fantasy Desire | 345678 | [345678-anime-girls-fantasy-desire.json](./345678-anime-girls-fantasy-desire.json) |
 | Anime Girls: Highschool of Dead | 283291 | [283291-anime-girls-highschool-of-dead.json](./283291-anime-girls-highschool-of-dead.json) |
 | Anime Girls: Lady Liberty | 314880 | [314880-anime-girls-lady-liberty.json](./314880-anime-girls-lady-liberty.json) |
 | Anime Girls: Natty New Year | 328572 | [328572-anime-girls-natty-new-year.json](./328572-anime-girls-natty-new-year.json) |
@@ -4571,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the Block | 390791 | [390791-around-the-block.json](./390791-around-the-block.json) |
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
 | Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
+| Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
 | Around the World in 80 Days | 88496 | [88496-around-the-world-in-80-days.json](./88496-around-the-world-in-80-days.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
