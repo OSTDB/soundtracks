@@ -930,6 +930,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Super Mario World - Togezo | 328633 | [328633-barcode-battler-ii-super-mario-world-togezo.json](./328633-barcode-battler-ii-super-mario-world-togezo.json) |
 | Barcode Battler II: Super Mario World - Unbaba | 328641 | [328641-barcode-battler-ii-super-mario-world-unbaba.json](./328641-barcode-battler-ii-super-mario-world-unbaba.json) |
 | Barcode Battler II: Super Mario World - Yossy | 328627 | [328627-barcode-battler-ii-super-mario-world-yossy.json](./328627-barcode-battler-ii-super-mario-world-yossy.json) |
+| Barcode Battler: Bio-Zabrin | 338371 | [338371-barcode-battler-bio-zabrin.json](./338371-barcode-battler-bio-zabrin.json) |
+| Barcode Battler: Bon-Curry | 338355 | [338355-barcode-battler-bon-curry.json](./338355-barcode-battler-bon-curry.json) |
+| Barcode Battler: Cha-Han | 338356 | [338356-barcode-battler-cha-han.json](./338356-barcode-battler-cha-han.json) |
+| Barcode Battler: Chu-Hi-Can | 338375 | [338375-barcode-battler-chu-hi-can.json](./338375-barcode-battler-chu-hi-can.json) |
+| Barcode Battler: Dry BL | 338361 | [338361-barcode-battler-dry-bl.json](./338361-barcode-battler-dry-bl.json) |
+| Barcode Battler: Iron-Cola | 338360 | [338360-barcode-battler-iron-cola.json](./338360-barcode-battler-iron-cola.json) |
+| Barcode Battler: J-Ebara | 338359 | [338359-barcode-battler-j-ebara.json](./338359-barcode-battler-j-ebara.json) |
+| Barcode Battler: Kincho-R | 338357 | [338357-barcode-battler-kincho-r.json](./338357-barcode-battler-kincho-r.json) |
+| Barcode Battler: Rarman | 338353 | [338353-barcode-battler-rarman.json](./338353-barcode-battler-rarman.json) |
+| Barcode Battler: U-Ronchan | 338354 | [338354-barcode-battler-u-ronchan.json](./338354-barcode-battler-u-ronchan.json) |
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
 | Barcode warriors | 140557 | [140557-barcode-warriors.json](./140557-barcode-warriors.json) |
 | Barcode World Senyou Card: Barrier Rod | 329746 | [329746-barcode-world-senyou-card-barrier-rod.json](./329746-barcode-world-senyou-card-barrier-rod.json) |
