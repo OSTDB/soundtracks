@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
 | Fallen's Challenge | 285467 | [285467-fallens-challenge.json](./285467-fallens-challenge.json) |
 | FallenCore | 75101 | [75101-fallencore.json](./75101-fallencore.json) |
+| Fallenstar | 370904 | [370904-fallenstar.json](./370904-fallenstar.json) |
 | Fallfate: Impulsive Plinko | 385189 | [385189-fallfate-impulsive-plinko.json](./385189-fallfate-impulsive-plinko.json) |
 | Falling Apart | 402261 | [402261-falling-apart.json](./402261-falling-apart.json) |
 | Falling As Lightning | 167168 | [167168-falling-as-lightning.json](./167168-falling-as-lightning.json) |
@@ -3416,6 +3417,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
 | Foreign Galaxies | 196232 | [196232-foreign-galaxies.json](./196232-foreign-galaxies.json) |
 | Foreign Sun | 289984 | [289984-foreign-sun.json](./289984-foreign-sun.json) |
+| Foreman for Real | 370892 | [370892-foreman-for-real.json](./370892-foreman-for-real.json) |
+| Foreman for Real | 370893 | [370893-foreman-for-real.json](./370893-foreman-for-real.json) |
 | Foreman Frenzy! | 343284 | [343284-foreman-frenzy.json](./343284-foreman-frenzy.json) |
 | Forensic Science Mystery | 399633 | [399633-forensic-science-mystery.json](./399633-forensic-science-mystery.json) |
 | Forensic: M.E. Protocol | 398451 | [398451-forensic-m-e-protocol.json](./398451-forensic-m-e-protocol.json) |
