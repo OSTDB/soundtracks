@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
 | iDate Reborn | 384190 | [384190-idate-reborn.json](./384190-idate-reborn.json) |
 | Idea | 204951 | [204951-idea.json](./204951-idea.json) |
+| Ideabookroom | 348443 | [348443-ideabookroom.json](./348443-ideabookroom.json) |
 | Ideabox | 125953 | [125953-ideabox.json](./125953-ideabox.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Identikit | 210062 | [210062-identikit.json](./210062-identikit.json) |
@@ -2304,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Raft Survival 2021: Ocean Escape | 163915 | [163915-island-raft-survival-2021-ocean-escape.json](./163915-island-raft-survival-2021-ocean-escape.json) |
 | Island Saver: Dinosaur Island | 238039 | [238039-island-saver-dinosaur-island.json](./238039-island-saver-dinosaur-island.json) |
 | Island Simulator 2016 | 31914 | [31914-island-simulator-2016.json](./31914-island-simulator-2016.json) |
+| Island Supermarket Simulator | 348465 | [348465-island-supermarket-simulator.json](./348465-island-supermarket-simulator.json) |
 | Island Survival | 110172 | [110172-island-survival.json](./110172-island-survival.json) |
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
 | Island Survival: Escape from Paradise | 413088 | [413088-island-survival-escape-from-paradise.json](./413088-island-survival-escape-from-paradise.json) |
