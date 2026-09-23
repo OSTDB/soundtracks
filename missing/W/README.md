@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarFriends: PvP Army Shooter | 87479 | [87479-warfriends-pvp-army-shooter.json](./87479-warfriends-pvp-army-shooter.json) |
 | Warfront 2020 | 216845 | [216845-warfront-2020.json](./216845-warfront-2020.json) |
 | Warfront Defenders: Westerplatte | 54723 | [54723-warfront-defenders-westerplatte.json](./54723-warfront-defenders-westerplatte.json) |
+| Warfront Nations | 361299 | [361299-warfront-nations.json](./361299-warfront-nations.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
 | Wargame: European Escalation | 8383 | [8383-wargame-european-escalation.json](./8383-wargame-european-escalation.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Gotta Go | 375823 | [375823-we-gotta-go.json](./375823-we-gotta-go.json) |
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
+| We Have Doom at Home | 361303 | [361303-we-have-doom-at-home.json](./361303-we-have-doom-at-home.json) |
 | We Have Evangelion at Home | 363911 | [363911-we-have-evangelion-at-home.json](./363911-we-have-evangelion-at-home.json) |
 | We Heist Too | 304885 | [304885-we-heist-too.json](./304885-we-heist-too.json) |
 | We Hunt Them in the Dark | 356693 | [356693-we-hunt-them-in-the-dark.json](./356693-we-hunt-them-in-the-dark.json) |
@@ -1068,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WebCum Empire Tycoon | 243151 | [243151-webcum-empire-tycoon.json](./243151-webcum-empire-tycoon.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
+| Websy and the Time Rogues | 361304 | [361304-websy-and-the-time-rogues.json](./361304-websy-and-the-time-rogues.json) |
 | WEC Le Mans 24 | 55088 | [55088-wec-le-mans-24.json](./55088-wec-le-mans-24.json) |
 | Wedding | 170911 | [170911-wedding.json](./170911-wedding.json) |
 | Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
@@ -3255,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wushu Chronicles 2 | 171024 | [171024-wushu-chronicles-2.json](./171024-wushu-chronicles-2.json) |
 | Wuthering Waves: All Silent Souls Can Sing | 326608 | [326608-wuthering-waves-all-silent-souls-can-sing.json](./326608-wuthering-waves-all-silent-souls-can-sing.json) |
 | Wuthering Waves: Blade of Past Resounds, Lingering Dream Hymns | 409689 | [409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json](./409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json) |
+| Wuthering Waves: By Sun's Scourge, By Moon's Revelation | 361302 | [361302-wuthering-waves-by-suns-scourge-by-moons-revelation.json](./361302-wuthering-waves-by-suns-scourge-by-moons-revelation.json) |
 | Wuthering Waves: Dawn Breaks on Dark Tides | 372570 | [372570-wuthering-waves-dawn-breaks-on-dark-tides.json](./372570-wuthering-waves-dawn-breaks-on-dark-tides.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuthering Waves: Thaw of Eons | 311653 | [311653-wuthering-waves-thaw-of-eons.json](./311653-wuthering-waves-thaw-of-eons.json) |
