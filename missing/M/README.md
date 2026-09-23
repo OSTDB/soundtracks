@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
 | Math Man | 225625 | [225625-math-man.json](./225625-math-man.json) |
+| Math Match Three | 348433 | [348433-math-match-three.json](./348433-math-match-three.json) |
 | Math Maze | 387697 | [387697-math-maze.json](./387697-math-maze.json) |
 | Math Missions: The Amazing Arcade Adventure Grades 3-5 | 209545 | [209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json](./209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json) |
 | Math Missions: The Race to Spectacle City Arcade K-2 | 209544 | [209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json](./209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json) |
@@ -4222,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minar | 174291 | [174291-minar.json](./174291-minar.json) |
 | Minarai Majo to Mokomoko Friends | 222497 | [222497-minarai-majo-to-mokomoko-friends.json](./222497-minarai-majo-to-mokomoko-friends.json) |
 | Minarchy: Active Shooter | 196690 | [196690-minarchy-active-shooter.json](./196690-minarchy-active-shooter.json) |
+| Mination | 348419 | [348419-mination.json](./348419-mination.json) |
 | Minato | 415080 | [415080-minato.json](./415080-minato.json) |
 | Minaurs | 103392 | [103392-minaurs.json](./103392-minaurs.json) |
 | Minazuki-tan: InfiltraTitty Lewd Beast Academy | 82848 | [82848-minazuki-tan-infiltratitty-lewd-beast-academy.json](./82848-minazuki-tan-infiltratitty-lewd-beast-academy.json) |
@@ -5150,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modest Kind | 68613 | [68613-modest-kind.json](./68613-modest-kind.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
+| Modular | 348442 | [348442-modular.json](./348442-modular.json) |
 | Module | 372651 | [372651-module.json](./372651-module.json) |
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
 | MOE Emo Girls Multiplayer | 300373 | [300373-moe-emo-girls-multiplayer.json](./300373-moe-emo-girls-multiplayer.json) |
@@ -7370,6 +7373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sexy Neighbor | 291061 | [291061-my-sexy-neighbor.json](./291061-my-sexy-neighbor.json) |
 | My Shadow | 289432 | [289432-my-shadow.json](./289432-my-shadow.json) |
 | My Shelf | 87882 | [87882-my-shelf.json](./87882-my-shelf.json) |
+| My Shelter | 348449 | [348449-my-shelter.json](./348449-my-shelter.json) |
 | My Silly Life | 158222 | [158222-my-silly-life.json](./158222-my-silly-life.json) |
 | My Silly Science Summer in the Past | 348758 | [348758-my-silly-science-summer-in-the-past.json](./348758-my-silly-science-summer-in-the-past.json) |
 | My Singing Monsters Karaoke | 412306 | [412306-my-singing-monsters-karaoke.json](./412306-my-singing-monsters-karaoke.json) |
@@ -7454,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time Traveling Girlfriend | 208368 | [208368-my-time-traveling-girlfriend.json](./208368-my-time-traveling-girlfriend.json) |
 | My Time With Dee Dee volume 0 | 347135 | [347135-my-time-with-dee-dee-volume-0.json](./347135-my-time-with-dee-dee-volume-0.json) |
 | My Tiny Island | 362340 | [362340-my-tiny-island.json](./362340-my-tiny-island.json) |
+| My Tiny Room | 348451 | [348451-my-tiny-room.json](./348451-my-tiny-room.json) |
 | My Town : Hotel | 104615 | [104615-my-town-hotel.json](./104615-my-town-hotel.json) |
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Town : Street Fun | 104474 | [104474-my-town-street-fun.json](./104474-my-town-street-fun.json) |
@@ -7616,6 +7621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
 | Mystery of the Crystal Portal | 25453 | [25453-mystery-of-the-crystal-portal.json](./25453-mystery-of-the-crystal-portal.json) |
 | Mystery of the Lost Temples | 61103 | [61103-mystery-of-the-lost-temples.json](./61103-mystery-of-the-lost-temples.json) |
+| Mystery of the Malign | 348463 | [348463-mystery-of-the-malign.json](./348463-mystery-of-the-malign.json) |
 | Mystery of the Missing Brigantine | 188519 | [188519-mystery-of-the-missing-brigantine.json](./188519-mystery-of-the-missing-brigantine.json) |
 | Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
 | Mystery of Time and Space | 78675 | [78675-mystery-of-time-and-space.json](./78675-mystery-of-time-and-space.json) |
