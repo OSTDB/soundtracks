@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: The Red Act In Lockdown | 389604 | [389604-hentai-tales-the-red-act-in-lockdown.json](./389604-hentai-tales-the-red-act-in-lockdown.json) |
 | Hentai Tales: The World Only Maid | 295401 | [295401-hentai-tales-the-world-only-maid.json](./295401-hentai-tales-the-world-only-maid.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
+| Hentai Tights | 377283 | [377283-hentai-tights.json](./377283-hentai-tights.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
 | Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
 | Hentai USSR | 340459 | [340459-hentai-ussr.json](./340459-hentai-ussr.json) |
@@ -3640,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi no Natchan | 285452 | [285452-hoshi-no-natchan.json](./285452-hoshi-no-natchan.json) |
 | Hoshi no Ouji-sama | 368555 | [368555-hoshi-no-ouji-sama.json](./368555-hoshi-no-ouji-sama.json) |
 | Hoshi Ori Yume Mirai: Rikka to Anata no 1-Shuunen Kinen, Icha Love Birthday | 408145 | [408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json](./408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json) |
+| Hoshi Saga 5: Ringoame | 377262 | [377262-hoshi-saga-5-ringoame.json](./377262-hoshi-saga-5-ringoame.json) |
 | Hoshi Saga 6: Ringoen | 377712 | [377712-hoshi-saga-6-ringoen.json](./377712-hoshi-saga-6-ringoen.json) |
 | Hoshi Saga 8: Dokuringo | 377800 | [377800-hoshi-saga-8-dokuringo.json](./377800-hoshi-saga-8-dokuringo.json) |
 | Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
