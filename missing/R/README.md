@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Mahogany and Human Leather-Bound Books | 271749 | [271749-rich-mahogany-and-human-leather-bound-books.json](./271749-rich-mahogany-and-human-leather-bound-books.json) |
 | Rich Man | 175826 | [175826-rich-man.json](./175826-rich-man.json) |
 | Rich River | 391203 | [391203-rich-river.json](./391203-rich-river.json) |
+| Rich Uncle: A Gay Adventure | 385307 | [385307-rich-uncle-a-gay-adventure.json](./385307-rich-uncle-a-gay-adventure.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
 | Richard Scarry's Busytown | 46202 | [46202-richard-scarrys-busytown.json](./46202-richard-scarrys-busytown.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
 | Robot King Part I: Rebooted and Ready | 72383 | [72383-robot-king-part-i-rebooted-and-ready.json](./72383-robot-king-part-i-rebooted-and-ready.json) |
 | Robot Labs: Remake | 171568 | [171568-robot-labs-remake.json](./171568-robot-labs-remake.json) |
+| Robot Maker | 385335 | [385335-robot-maker.json](./385335-robot-maker.json) |
 | Robot Mil | 387341 | [387341-robot-mil.json](./387341-robot-mil.json) |
 | Robot Odyssey | 73313 | [73313-robot-odyssey.json](./73313-robot-odyssey.json) |
 | Robot Paradise VR | 133453 | [133453-robot-paradise-vr.json](./133453-robot-paradise-vr.json) |
