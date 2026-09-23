@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unakiri Action!: Kiritan-hou no Nazo | 204707 | [204707-unakiri-action-kiritan-hou-no-nazo.json](./204707-unakiri-action-kiritan-hou-no-nazo.json) |
 | Unaligned | 177480 | [177480-unaligned.json](./177480-unaligned.json) |
 | Unalive | 29969 | [29969-unalive.json](./29969-unalive.json) |
+| Unanchored Spaceshooting | 390226 | [390226-unanchored-spaceshooting.json](./390226-unanchored-spaceshooting.json) |
 | Unanimy | 211756 | [211756-unanimy.json](./211756-unanimy.json) |
 | Unanswered | 401529 | [401529-unanswered.json](./401529-unanswered.json) |
 | Unawake | 173247 | [173247-unawake.json](./173247-unawake.json) |
@@ -700,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
 | Undress! | 369653 | [369653-undress.json](./369653-undress.json) |
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
+| Undying One | 390250 | [390250-undying-one.json](./390250-undying-one.json) |
 | Undying: Kowloon in Red | 406313 | [406313-undying-kowloon-in-red.json](./406313-undying-kowloon-in-red.json) |
 | Une affaire en or | 93012 | [93012-une-affaire-en-or.json](./93012-une-affaire-en-or.json) |
 | Unearth | 255974 | [255974-unearth.json](./255974-unearth.json) |
@@ -944,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno 2 Go | 229062 | [229062-uno-2-go.json](./229062-uno-2-go.json) |
 | Uno 52 | 47706 | [47706-uno-52.json](./47706-uno-52.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
+| Uno God | 390230 | [390230-uno-god.json](./390230-uno-god.json) |
 | Uno: Assassin's Creed Valhalla Theme Cards | 196679 | [196679-uno-assassins-creed-valhalla-theme-cards.json](./196679-uno-assassins-creed-valhalla-theme-cards.json) |
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Unofficial Pokemon Trading Card Game | 363944 | [363944-unofficial-pokemon-trading-card-game.json](./363944-unofficial-pokemon-trading-card-game.json) |
@@ -1165,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uranium Mario 64 | 338828 | [338828-uranium-mario-64.json](./338828-uranium-mario-64.json) |
 | Urawaza Mahjong: Korette Tenwatte Yatsukai | 363966 | [363966-urawaza-mahjong-korette-tenwatte-yatsukai.json](./363966-urawaza-mahjong-korette-tenwatte-yatsukai.json) |
 | Urban | 312570 | [312570-urban.json](./312570-urban.json) |
+| Urban Ascend | 390262 | [390262-urban-ascend.json](./390262-urban-ascend.json) |
 | Urban Assault | 50131 | [50131-urban-assault.json](./50131-urban-assault.json) |
 | Urban Champion-e | 170014 | [170014-urban-champion-e.json](./170014-urban-champion-e.json) |
 | Urban Dead | 69281 | [69281-urban-dead.json](./69281-urban-dead.json) |
