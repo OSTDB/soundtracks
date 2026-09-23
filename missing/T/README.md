@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarah | 397090 | [397090-tarah.json](./397090-tarah.json) |
 | Tarareba | 194555 | [194555-tarareba.json](./194555-tarareba.json) |
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
+| Tardiness Girl | 360198 | [360198-tardiness-girl.json](./360198-tardiness-girl.json) |
 | Tardis Tennis | 235322 | [235322-tardis-tennis.json](./235322-tardis-tennis.json) |
 | Tardy | 90143 | [90143-tardy.json](./90143-tardy.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
@@ -4279,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Figthers 99 | 43912 | [43912-the-king-of-figthers-99.json](./43912-the-king-of-figthers-99.json) |
 | The King of Golf | 228553 | [228553-the-king-of-golf.json](./228553-the-king-of-golf.json) |
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
+| The King of Tower Defense | 360206 | [360206-the-king-of-tower-defense.json](./360206-the-king-of-tower-defense.json) |
 | The King's Bird | 11840 | [11840-the-kings-bird.json](./11840-the-kings-bird.json) |
 | The King's Campaign | 243770 | [243770-the-kings-campaign.json](./243770-the-kings-campaign.json) |
 | The King's Carriage | 184470 | [184470-the-kings-carriage.json](./184470-the-kings-carriage.json) |
@@ -7414,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
+| Thousand Hells: The Underworld Heists | 360177 | [360177-thousand-hells-the-underworld-heists.json](./360177-thousand-hells-the-underworld-heists.json) |
 | Thousand Island Solitaire | 206225 | [206225-thousand-island-solitaire.json](./206225-thousand-island-solitaire.json) |
 | Thousand Island Solitaire HD | 355004 | [355004-thousand-island-solitaire-hd.json](./355004-thousand-island-solitaire-hd.json) |
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
@@ -9696,6 +9699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Pocket Wars Evolution Plus | 128384 | [128384-touhou-pocket-wars-evolution-plus.json](./128384-touhou-pocket-wars-evolution-plus.json) |
 | Touhou Puppet Dance Performance | 46722 | [46722-touhou-puppet-dance-performance.json](./46722-touhou-puppet-dance-performance.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
+| Touhou Risouen: Terminus of Unreal Darkside | 360202 | [360202-touhou-risouen-terminus-of-unreal-darkside.json](./360202-touhou-risouen-terminus-of-unreal-darkside.json) |
 | Touhou Rock Maiden 2: Houraisan Kaguya no Nazo | 202934 | [202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json](./202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json) |
 | Touhou Rock Maiden FC | 202936 | [202936-touhou-rock-maiden-fc.json](./202936-touhou-rock-maiden-fc.json) |
 | Touhou Rock Maiden FC 3: Little Native Goddess's Revival | 386119 | [386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json](./386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json) |
@@ -9810,6 +9814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
 | Tower of Ascension | 192834 | [192834-tower-of-ascension.json](./192834-tower-of-ascension.json) |
+| Tower of Ashes | 360190 | [360190-tower-of-ashes.json](./360190-tower-of-ashes.json) |
 | Tower of Babel | 74349 | [74349-tower-of-babel.json](./74349-tower-of-babel.json) |
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
@@ -10213,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: Nahverkehr Dresden - Riesa Route Add-On | 307970 | [307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json](./307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json) |
 | Train Sim World 4: RhB Arosa Aggregates Pack | 277587 | [277587-train-sim-world-4-rhb-arosa-aggregates-pack.json](./277587-train-sim-world-4-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
+| Train Sim World 5: Avanti West Coast BR Class 390 Pendolino EMU Add-On | 360159 | [360159-train-sim-world-5-avanti-west-coast-br-class-390-pendolino-emu-add-on.json](./360159-train-sim-world-5-avanti-west-coast-br-class-390-pendolino-emu-add-on.json) |
 | Train Sim World 5: Berninalinie: Tirano - Ospizio Bernina Route Add-On | 359492 | [359492-train-sim-world-5-berninalinie-tirano-ospizio-bernina-route-add-on.json](./359492-train-sim-world-5-berninalinie-tirano-ospizio-bernina-route-add-on.json) |
 | Train Sim World 5: Birmingham Cross-City Line: Lichfield - Bromsgrove & Redditch Route Add-On | 359508 | [359508-train-sim-world-5-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json](./359508-train-sim-world-5-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json) |
 | Train Sim World 5: BNSF SD70ACe | 359505 | [359505-train-sim-world-5-bnsf-sd70ace.json](./359505-train-sim-world-5-bnsf-sd70ace.json) |
@@ -10233,6 +10239,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
 | Train Sim World 5: East Coastway: Brighton - Eastbourne & Seaford Route Add-On | 359497 | [359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json](./359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json) |
 | Train Sim World 5: Expert DB BR 101 & IC Steuerwagen Loco Add-On | 359978 | [359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json](./359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json) |
+| Train Sim World 5: FlixTrain BR 193 Vectron Loco Add-On | 360157 | [360157-train-sim-world-5-flixtrain-br-193-vectron-loco-add-on.json](./360157-train-sim-world-5-flixtrain-br-193-vectron-loco-add-on.json) |
+| Train Sim World 5: Frankfurt - Fulda: Kinzigtalbahn Route Add-On | 360160 | [360160-train-sim-world-5-frankfurt-fulda-kinzigtalbahn-route-add-on.json](./360160-train-sim-world-5-frankfurt-fulda-kinzigtalbahn-route-add-on.json) |
 | Train Sim World 5: German Regional Edition | 320762 | [320762-train-sim-world-5-german-regional-edition.json](./320762-train-sim-world-5-german-regional-edition.json) |
 | Train Sim World 5: Glossop Line: Manchester - Hadfield & Glossop Route Add-On | 359495 | [359495-train-sim-world-5-glossop-line-manchester-hadfield-and-glossop-route-add-on.json](./359495-train-sim-world-5-glossop-line-manchester-hadfield-and-glossop-route-add-on.json) |
 | Train Sim World 5: Harlem Line: Grand Central Terminal - North White Plains Route Add-On | 359501 | [359501-train-sim-world-5-harlem-line-grand-central-terminal-north-white-plains-route-add-on.json](./359501-train-sim-world-5-harlem-line-grand-central-terminal-north-white-plains-route-add-on.json) |
@@ -10245,12 +10253,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: RhB Arosa Aggregates Pack | 359512 | [359512-train-sim-world-5-rhb-arosa-aggregates-pack.json](./359512-train-sim-world-5-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 5: Rhein-Ruhr Osten: Wuppertal - Hagen Route Add-On | 359491 | [359491-train-sim-world-5-rhein-ruhr-osten-wuppertal-hagen-route-add-on.json](./359491-train-sim-world-5-rhein-ruhr-osten-wuppertal-hagen-route-add-on.json) |
 | Train Sim World 5: S-Bahn Zentralschweiz: Luzern - Sursee Route Add-On | 359489 | [359489-train-sim-world-5-s-bahn-zentralschweiz-luzern-sursee-route-add-on.json](./359489-train-sim-world-5-s-bahn-zentralschweiz-luzern-sursee-route-add-on.json) |
+| Train Sim World 5: San Bernardino Line: Los Angeles - San Bernardino Route Add-On | 360156 | [360156-train-sim-world-5-san-bernardino-line-los-angeles-san-bernardino-route-add-on.json](./360156-train-sim-world-5-san-bernardino-line-los-angeles-san-bernardino-route-add-on.json) |
 | Train Sim World 5: Santa Fe F7 Add-On | 359974 | [359974-train-sim-world-5-santa-fe-f7-add-on.json](./359974-train-sim-world-5-santa-fe-f7-add-on.json) |
 | Train Sim World 5: Schnellfahrstrecke Koln-Aachen Route Add-On | 359513 | [359513-train-sim-world-5-schnellfahrstrecke-koln-aachen-route-add-on.json](./359513-train-sim-world-5-schnellfahrstrecke-koln-aachen-route-add-on.json) |
 | Train Sim World 5: ScotRail BR Class 158 Sprinter DMU Add-On | 359487 | [359487-train-sim-world-5-scotrail-br-class-158-sprinter-dmu-add-on.json](./359487-train-sim-world-5-scotrail-br-class-158-sprinter-dmu-add-on.json) |
 | Train Sim World 5: ScotRail Express: Edinburgh - Glasgow Route Add-On | 359488 | [359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json](./359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json) |
 | Train Sim World 5: Southern BR Class 313 EMU | 359484 | [359484-train-sim-world-5-southern-br-class-313-emu.json](./359484-train-sim-world-5-southern-br-class-313-emu.json) |
 | Train Sim World 5: Thameslink BR Class 700/0 EMU Add-On | 359485 | [359485-train-sim-world-5-thameslink-br-class-700-0-emu-add-on.json](./359485-train-sim-world-5-thameslink-br-class-700-0-emu-add-on.json) |
+| Train Sim World 5: West Coast Main Line: London Euston - Milton Keynes Route Add-On | 360158 | [360158-train-sim-world-5-west-coast-main-line-london-euston-milton-keynes-route-add-on.json](./360158-train-sim-world-5-west-coast-main-line-london-euston-milton-keynes-route-add-on.json) |
 | Train Sim World 5: West Coast Main Line: Preston - Carlisle | 402357 | [402357-train-sim-world-5-west-coast-main-line-preston-carlisle.json](./402357-train-sim-world-5-west-coast-main-line-preston-carlisle.json) |
 | Train Sim World 5: West Cornwall Local: Penzance - St Austell & St Ives Route | 359494 | [359494-train-sim-world-5-west-cornwall-local-penzance-st-austell-and-st-ives-route.json](./359494-train-sim-world-5-west-cornwall-local-penzance-st-austell-and-st-ives-route.json) |
 | Train Sim World 5: West Cornwall Steam Railtour Add-On | 359504 | [359504-train-sim-world-5-west-cornwall-steam-railtour-add-on.json](./359504-train-sim-world-5-west-cornwall-steam-railtour-add-on.json) |
