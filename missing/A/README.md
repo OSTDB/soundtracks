@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss of Light | 283876 | [283876-abyss-of-light.json](./283876-abyss-of-light.json) |
 | Abyss Of Pleasure | 379549 | [379549-abyss-of-pleasure.json](./379549-abyss-of-pleasure.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
+| Abyss Rebel | 357415 | [357415-abyss-rebel.json](./357415-abyss-rebel.json) |
 | Abyss Saga | 369111 | [369111-abyss-saga.json](./369111-abyss-saga.json) |
 | Abyss Soul Lotus | 216799 | [216799-abyss-soul-lotus.json](./216799-abyss-soul-lotus.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
@@ -2521,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American McGee Presents: Scrapland | 20289 | [20289-american-mcgee-presents-scrapland.json](./20289-american-mcgee-presents-scrapland.json) |
 | American McGee's Oz | 93984 | [93984-american-mcgees-oz.json](./93984-american-mcgees-oz.json) |
 | American Motorcycle Simulator | 133223 | [133223-american-motorcycle-simulator.json](./133223-american-motorcycle-simulator.json) |
+| American Museum of Natural History's T. Rex: Skeleton Crew | 357428 | [357428-american-museum-of-natural-historys-t-rex-skeleton-crew.json](./357428-american-museum-of-natural-historys-t-rex-skeleton-crew.json) |
 | American Navy Seals | 410967 | [410967-american-navy-seals.json](./410967-american-navy-seals.json) |
 | American Ninja Warrior: Challenge | 118196 | [118196-american-ninja-warrior-challenge.json](./118196-american-ninja-warrior-challenge.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
@@ -2687,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Ode to Todd the Toad: Frogcare! | 185628 | [185628-an-ode-to-todd-the-toad-frogcare.json](./185628-an-ode-to-todd-the-toad-frogcare.json) |
 | An Ordinary Sonic ROM Hack | 129178 | [129178-an-ordinary-sonic-rom-hack.json](./129178-an-ordinary-sonic-rom-hack.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
+| Ana'Adventure | 357430 | [357430-anaadventure.json](./357430-anaadventure.json) |
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
 | Anacreon: Reconstruction 4021 | 74083 | [74083-anacreon-reconstruction-4021.json](./74083-anacreon-reconstruction-4021.json) |
@@ -3000,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal City | 130756 | [130756-animal-city.json](./130756-animal-city.json) |
 | Animal Cove: Match 3 Adventure | 108854 | [108854-animal-cove-match-3-adventure.json](./108854-animal-cove-match-3-adventure.json) |
 | Animal Crackers | 177567 | [177567-animal-crackers.json](./177567-animal-crackers.json) |
+| Animal Crossing Deluxe | 357452 | [357452-animal-crossing-deluxe.json](./357452-animal-crossing-deluxe.json) |
 | Animal Crossing Neighborhood | 323890 | [323890-animal-crossing-neighborhood.json](./323890-animal-crossing-neighborhood.json) |
 | Animal Crossing-e: Animal Crossing | 354415 | [354415-animal-crossing-e-animal-crossing.json](./354415-animal-crossing-e-animal-crossing.json) |
 | Animal Crossing-e: PR - Design Card: NES Link | 354416 | [354416-animal-crossing-e-pr-design-card-nes-link.json](./354416-animal-crossing-e-pr-design-card-nes-link.json) |
@@ -4283,7 +4287,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
 | Argonauts Agency: Chair of Hephaestus - Collector's Edition | 357335 | [357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json](./357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json) |
 | Argonauts Agency: Glove of Midas - Collector's Edition | 357336 | [357336-argonauts-agency-glove-of-midas-collectors-edition.json](./357336-argonauts-agency-glove-of-midas-collectors-edition.json) |
+| Argonauts Agency: Missing Daughter - Collector's Edition | 357419 | [357419-argonauts-agency-missing-daughter-collectors-edition.json](./357419-argonauts-agency-missing-daughter-collectors-edition.json) |
 | Argonauts Agency: Pandora's Box | 117094 | [117094-argonauts-agency-pandoras-box.json](./117094-argonauts-agency-pandoras-box.json) |
+| Argonauts Agency: Pandora's Box - Collector's Edition | 357420 | [357420-argonauts-agency-pandoras-box-collectors-edition.json](./357420-argonauts-agency-pandoras-box-collectors-edition.json) |
 | Argonauts Agency: When Spring Withered | 412260 | [412260-argonauts-agency-when-spring-withered.json](./412260-argonauts-agency-when-spring-withered.json) |
 | Argonauts Path | 309492 | [309492-argonauts-path.json](./309492-argonauts-path.json) |
 | Argonisos | 224625 | [224625-argonisos.json](./224625-argonisos.json) |
@@ -4529,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aron's Gift | 96100 | [96100-arons-gift.json](./96100-arons-gift.json) |
 | Around the Block | 390791 | [390791-around-the-block.json](./390791-around-the-block.json) |
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
+| Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
 | Around the World in 80 Days | 88496 | [88496-around-the-world-in-80-days.json](./88496-around-the-world-in-80-days.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
