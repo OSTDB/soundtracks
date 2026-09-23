@@ -1368,6 +1368,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2024 with International Hits: Gold Edition | 271838 | [271838-lets-sing-2024-with-international-hits-gold-edition.json](./271838-lets-sing-2024-with-international-hits-gold-edition.json) |
 | Let's Sing 2024 with International Hits: Platinum Edition | 271836 | [271836-lets-sing-2024-with-international-hits-platinum-edition.json](./271836-lets-sing-2024-with-international-hits-platinum-edition.json) |
 | Let's Sing 2026 | 371252 | [371252-lets-sing-2026.json](./371252-lets-sing-2026.json) |
+| Let's Sing 2026 with International Hits | 371423 | [371423-lets-sing-2026-with-international-hits.json](./371423-lets-sing-2026-with-international-hits.json) |
+| Let's Sing 2026 with International Hits: Gold Edition | 371434 | [371434-lets-sing-2026-with-international-hits-gold-edition.json](./371434-lets-sing-2026-with-international-hits-gold-edition.json) |
+| Let's Sing 2026 with International Hits: Platinum Edition | 371433 | [371433-lets-sing-2026-with-international-hits-platinum-edition.json](./371433-lets-sing-2026-with-international-hits-platinum-edition.json) |
 | Let's Sing 2026: International Hits | 375184 | [375184-lets-sing-2026-international-hits.json](./375184-lets-sing-2026-international-hits.json) |
 | Let's Sing 5: Version Espanola | 268196 | [268196-lets-sing-5-version-espanola.json](./268196-lets-sing-5-version-espanola.json) |
 | Let's Sing 6: Version Espanola | 268197 | [268197-lets-sing-6-version-espanola.json](./268197-lets-sing-6-version-espanola.json) |
@@ -1808,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lili | 63277 | [63277-lili.json](./63277-lili.json) |
 | Lili:Miesta | 77682 | [77682-lili-miesta.json](./77682-lili-miesta.json) |
 | Lilia | 362325 | [362325-lilia.json](./362325-lilia.json) |
+| Lilialette's Hustle: Getting My Hands Dirty to Save My Guild | 371445 | [371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json](./371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
 | Lilith | 413898 | [413898-lilith.json](./413898-lilith.json) |
