@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Coloring Book Game | 106566 | [106566-pixel-coloring-book-game.json](./106566-pixel-coloring-book-game.json) |
 | Pixel Coloring Paint | 283262 | [283262-pixel-coloring-paint.json](./283262-pixel-coloring-paint.json) |
 | Pixel Combat | 149088 | [149088-pixel-combat.json](./149088-pixel-combat.json) |
+| Pixel Combat: Zombie Shooter | 377270 | [377270-pixel-combat-zombie-shooter.json](./377270-pixel-combat-zombie-shooter.json) |
 | Pixel Cross Stitch Color by Number: Miniatures | 409552 | [409552-pixel-cross-stitch-color-by-number-miniatures.json](./409552-pixel-cross-stitch-color-by-number-miniatures.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Miniatures Pack | 377602 | [377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json](./377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Pack 3 | 377606 | [377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json](./377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json) |
@@ -3453,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
 | Plutonia: Revisited Community Project | 138167 | [138167-plutonia-revisited-community-project.json](./138167-plutonia-revisited-community-project.json) |
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
+| PMC: Net Zero | 377277 | [377277-pmc-net-zero.json](./377277-pmc-net-zero.json) |
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
 | Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
@@ -6288,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Solitaire Saga | 89248 | [89248-pyramid-solitaire-saga.json](./89248-pyramid-solitaire-saga.json) |
 | Pyramid: Challenge of the Pharaoh's Dream | 266201 | [266201-pyramid-challenge-of-the-pharaohs-dream.json](./266201-pyramid-challenge-of-the-pharaohs-dream.json) |
 | Pyramida | 136491 | [136491-pyramida.json](./136491-pyramida.json) |
+| Pyramidion | 377261 | [377261-pyramidion.json](./377261-pyramidion.json) |
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
 | PyramidValley: Reborn | 353395 | [353395-pyramidvalley-reborn.json](./353395-pyramidvalley-reborn.json) |
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
