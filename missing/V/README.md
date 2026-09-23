@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Mini Bowling | 81115 | [81115-vr-mini-bowling.json](./81115-vr-mini-bowling.json) |
 | VR Mini Golf | 138609 | [138609-vr-mini-golf.json](./138609-vr-mini-golf.json) |
 | VR Monster Awakens | 30176 | [30176-vr-monster-awakens.json](./30176-vr-monster-awakens.json) |
+| VR New York Story | 369756 | [369756-vr-new-york-story.json](./369756-vr-new-york-story.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
 | VR Pianist | 152878 | [152878-vr-pianist.json](./152878-vr-pianist.json) |
 | VR PingPong Sweetie | 384518 | [384518-vr-pingpong-sweetie.json](./384518-vr-pingpong-sweetie.json) |
