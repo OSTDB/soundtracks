@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B. C. Story | 39879 | [39879-b-c-story.json](./39879-b-c-story.json) |
 | B.A.D. | 362277 | [362277-b-a-d.json](./362277-b-a-d.json) |
 | B.A.L.L.O | 338753 | [338753-b-a-l-l-o.json](./338753-b-a-l-l-o.json) |
+| B.A.N.K. | 346766 | [346766-b-a-n-k.json](./346766-b-a-n-k.json) |
 | B.A.S.E. Jumping | 137095 | [137095-b-a-s-e-jumping.json](./137095-b-a-s-e-jumping.json) |
 | B.A.S.E. Jumping Game | 60786 | [60786-b-a-s-e-jumping-game.json](./60786-b-a-s-e-jumping-game.json) |
 | B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
@@ -3575,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleaklight Falls | 362270 | [362270-bleaklight-falls.json](./362270-bleaklight-falls.json) |
 | Bleakmoor House | 371965 | [371965-bleakmoor-house.json](./371965-bleakmoor-house.json) |
 | Bleakwood | 304574 | [304574-bleakwood.json](./304574-bleakwood.json) |
+| Bleb | 346792 | [346792-bleb.json](./346792-bleb.json) |
 | Bleed | 9706 | [9706-bleed.json](./9706-bleed.json) |
 | Bleed Complete Bundle | 118854 | [118854-bleed-complete-bundle.json](./118854-bleed-complete-bundle.json) |
 | Bleed: Deluxe Edition | 118954 | [118954-bleed-deluxe-edition.json](./118954-bleed-deluxe-edition.json) |
@@ -3619,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
 | Blind Simulator | 351262 | [351262-blind-simulator.json](./351262-blind-simulator.json) |
 | Blind Spot | 377586 | [377586-blind-spot.json](./377586-blind-spot.json) |
+| Blind Touch | 346760 | [346760-blind-touch.json](./346760-blind-touch.json) |
 | Blind Wars | 69795 | [69795-blind-wars.json](./69795-blind-wars.json) |
 | Blind Wizard's Assistant | 195124 | [195124-blind-wizards-assistant.json](./195124-blind-wizards-assistant.json) |
 | Blind zum Bus | 383973 | [383973-blind-zum-bus.json](./383973-blind-zum-bus.json) |
@@ -3709,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobl.io | 316086 | [316086-blobl-io.json](./316086-blobl-io.json) |
 | Bloble.io | 126022 | [126022-bloble-io.json](./126022-bloble-io.json) |
 | Blobster | 93580 | [93580-blobster.json](./93580-blobster.json) |
+| Blobtown | 346759 | [346759-blobtown.json](./346759-blobtown.json) |
 | Blobufo | 219299 | [219299-blobufo.json](./219299-blobufo.json) |
 | Blobun | 316089 | [316089-blobun.json](./316089-blobun.json) |
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
