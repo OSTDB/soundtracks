@@ -2914,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter from the Storm | 340377 | [340377-shelter-from-the-storm.json](./340377-shelter-from-the-storm.json) |
 | Shelter Manager | 133219 | [133219-shelter-manager.json](./133219-shelter-manager.json) |
 | Shelter of Exiles | 276821 | [276821-shelter-of-exiles.json](./276821-shelter-of-exiles.json) |
+| Shelter of Sursur 2 | 350606 | [350606-shelter-of-sursur-2.json](./350606-shelter-of-sursur-2.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
