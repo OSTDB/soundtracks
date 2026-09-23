@@ -3998,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
+| Pokémon Trading Card Game Pocket: Celestial Guardians | 341686 | [341686-pokemon-trading-card-game-pocket-celestial-guardians.json](./341686-pokemon-trading-card-game-pocket-celestial-guardians.json) |
 | Pokémon Trading Card Game Pocket: Deluxe pack ex | 370869 | [370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json](./370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
 | Pokémon Trading Card Game Pocket: Paldean Wonders | 393103 | [393103-pokemon-trading-card-game-pocket-paldean-wonders.json](./393103-pokemon-trading-card-game-pocket-paldean-wonders.json) |
