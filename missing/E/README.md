@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellipsis | 19862 | [19862-ellipsis.json](./19862-ellipsis.json) |
 | EllrLand | 229801 | [229801-ellrland.json](./229801-ellrland.json) |
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
+| Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
@@ -1644,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eremidia: Archivist's Curse | 208588 | [208588-eremidia-archivists-curse.json](./208588-eremidia-archivists-curse.json) |
 | Erepublik | 63258 | [63258-erepublik.json](./63258-erepublik.json) |
 | Eret Link | 229385 | [229385-eret-link.json](./229385-eret-link.json) |
+| Ergenekon | 378430 | [378430-ergenekon.json](./378430-ergenekon.json) |
 | Eri | 116282 | [116282-eri.json](./116282-eri.json) |
 | Eric and the Floaters | 45324 | [45324-eric-and-the-floaters.json](./45324-eric-and-the-floaters.json) |
 | Eric the Unready | 12426 | [12426-eric-the-unready.json](./12426-eric-the-unready.json) |
