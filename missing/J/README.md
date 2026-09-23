@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Escape Games: The Room with Sturdy Door | 232465 | [232465-japanese-escape-games-the-room-with-sturdy-door.json](./232465-japanese-escape-games-the-room-with-sturdy-door.json) |
 | Japanese Escape Games: The Room Without Doors | 227847 | [227847-japanese-escape-games-the-room-without-doors.json](./227847-japanese-escape-games-the-room-without-doors.json) |
 | Japanese Goblins | 220871 | [220871-japanese-goblins.json](./220871-japanese-goblins.json) |
+| Japanese Hiragana & Katakana Review DS | 342834 | [342834-japanese-hiragana-and-katakana-review-ds.json](./342834-japanese-hiragana-and-katakana-review-ds.json) |
 | Japanese Love | 349864 | [349864-japanese-love.json](./349864-japanese-love.json) |
 | Japanese Neko-sama Escape: The Local Train | 207889 | [207889-japanese-neko-sama-escape-the-local-train.json](./207889-japanese-neko-sama-escape-the-local-train.json) |
 | Japanese Nekosama Escape: The Old Inn | 197921 | [197921-japanese-nekosama-escape-the-old-inn.json](./197921-japanese-nekosama-escape-the-old-inn.json) |
