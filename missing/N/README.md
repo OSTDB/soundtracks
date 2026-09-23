@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
 | Neuro Hunter | 71491 | [71491-neuro-hunter.json](./71491-neuro-hunter.json) |
 | Neuro Nightmare | 340949 | [340949-neuro-nightmare.json](./340949-neuro-nightmare.json) |
+| Neuroarena: Black Duel Master | 363569 | [363569-neuroarena-black-duel-master.json](./363569-neuroarena-black-duel-master.json) |
 | NeuroCorp | 391735 | [391735-neurocorp.json](./391735-neurocorp.json) |
 | Neurocracy | 172662 | [172662-neurocracy.json](./172662-neurocracy.json) |
 | Neurocracy 2.049 | 257097 | [257097-neurocracy-2-049.json](./257097-neurocracy-2-049.json) |
