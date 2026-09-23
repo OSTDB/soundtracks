@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
 | Infinite Chump | 287750 | [287750-infinite-chump.json](./287750-infinite-chump.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
+| Infinite Crosswords | 385317 | [385317-infinite-crosswords.json](./385317-infinite-crosswords.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Einstein Tiles | 352291 | [352291-infinite-einstein-tiles.json](./352291-infinite-einstein-tiles.json) |
