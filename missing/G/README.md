@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
 | Globesweeper | 109203 | [109203-globesweeper.json](./109203-globesweeper.json) |
 | Globetrotter | 137033 | [137033-globetrotter.json](./137033-globetrotter.json) |
+| GlobeTrotter | 354649 | [354649-globetrotter.json](./354649-globetrotter.json) |
 | Globetrotter Bundle | 107193 | [107193-globetrotter-bundle.json](./107193-globetrotter-bundle.json) |
 | Globetrotter XL | 237500 | [237500-globetrotter-xl.json](./237500-globetrotter-xl.json) |
 | GlobeXplore | 284883 | [284883-globexplore.json](./284883-globexplore.json) |
