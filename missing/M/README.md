@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
 | Mado Marks | 414617 | [414617-mado-marks.json](./414617-mado-marks.json) |
+| Mado Monogatari: Fia and the Wondrous Academy - Deluxe Edition | 351236 | [351236-mado-monogatari-fia-and-the-wondrous-academy-deluxe-edition.json](./351236-mado-monogatari-fia-and-the-wondrous-academy-deluxe-edition.json) |
 | Mado no Naka no Saki ni Aru Mono | 152115 | [152115-mado-no-naka-no-saki-ni-aru-mono.json](./152115-mado-no-naka-no-saki-ni-aru-mono.json) |
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
@@ -4738,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
 | Miscrits: World of Creatures | 98466 | [98466-miscrits-world-of-creatures.json](./98466-miscrits-world-of-creatures.json) |
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
+| Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
 | Misfortune | 323937 | [323937-misfortune.json](./323937-misfortune.json) |
@@ -5826,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Patrol | 280784 | [280784-moon-patrol.json](./280784-moon-patrol.json) |
 | Moon Patrol | 287080 | [287080-moon-patrol.json](./287080-moon-patrol.json) |
 | Moon Patrol: The Milky Way Chronicles | 138567 | [138567-moon-patrol-the-milky-way-chronicles.json](./138567-moon-patrol-the-milky-way-chronicles.json) |
+| Moon Princess | 351268 | [351268-moon-princess.json](./351268-moon-princess.json) |
 | Moon Rat | 330829 | [330829-moon-rat.json](./330829-moon-rat.json) |
 | Moon Rider | 295026 | [295026-moon-rider.json](./295026-moon-rider.json) |
 | Moon River | 298303 | [298303-moon-river.json](./298303-moon-river.json) |
