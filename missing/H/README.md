@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawkquest | 77373 | [77373-hawkquest.json](./77373-hawkquest.json) |
 | Hawks of Bruyland | 329961 | [329961-hawks-of-bruyland.json](./329961-hawks-of-bruyland.json) |
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
+| Haxrail | 347367 | [347367-haxrail.json](./347367-haxrail.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Hay Day Pop | 165527 | [165527-hay-day-pop.json](./165527-hay-day-pop.json) |
 | Hay Ewe | 22736 | [22736-hay-ewe.json](./22736-hay-ewe.json) |
@@ -3515,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopa: Mini test Quest | 183999 | [183999-hopa-mini-test-quest.json](./183999-hopa-mini-test-quest.json) |
 | HopDodge | 200149 | [200149-hopdodge.json](./200149-hopdodge.json) |
 | Hope | 312738 | [312738-hope.json](./312738-hope.json) |
+| Hope & Elpis | 347368 | [347368-hope-and-elpis.json](./347368-hope-and-elpis.json) |
 | Hope 01 | 398473 | [398473-hope-01.json](./398473-hope-01.json) |
 | Hope Deferred | 337992 | [337992-hope-deferred.json](./337992-hope-deferred.json) |
 | Hope for City | 122163 | [122163-hope-for-city.json](./122163-hope-for-city.json) |
@@ -4123,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HPRZ: The Syndrome | 149551 | [149551-hprz-the-syndrome.json](./149551-hprz-the-syndrome.json) |
 | HQ Trivia | 214770 | [214770-hq-trivia.json](./214770-hq-trivia.json) |
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
+| HR: Human Remains | 347337 | [347337-hr-human-remains.json](./347337-hr-human-remains.json) |
 | HR2 | 178540 | [178540-hr2.json](./178540-hr2.json) |
 | Hrdina | 119543 | [119543-hrdina.json](./119543-hrdina.json) |
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
