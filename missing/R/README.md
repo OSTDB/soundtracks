@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonance: The Lost Score | 150064 | [150064-resonance-the-lost-score.json](./150064-resonance-the-lost-score.json) |
 | Resonant Tale | 266481 | [266481-resonant-tale.json](./266481-resonant-tale.json) |
 | Resonark X | 141900 | [141900-resonark-x.json](./141900-resonark-x.json) |
+| Resonating Cords | 357412 | [357412-resonating-cords.json](./357412-resonating-cords.json) |
 | Resonating Worlds | 305930 | [305930-resonating-worlds.json](./305930-resonating-worlds.json) |
 | Resonite | 269473 | [269473-resonite.json](./269473-resonite.json) |
 | Résop Paz Yandere True | 320149 | [320149-resop-paz-yandere-true.json](./320149-resop-paz-yandere-true.json) |
