@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Story | 116544 | [116544-alchemy-story.json](./116544-alchemy-story.json) |
 | Alchemy Unbound | 293084 | [293084-alchemy-unbound.json](./293084-alchemy-unbound.json) |
 | Alchemyland | 51562 | [51562-alchemyland.json](./51562-alchemyland.json) |
+| Alchemystic | 386439 | [386439-alchemystic.json](./386439-alchemystic.json) |
 | AlchePot | 283884 | [283884-alchepot.json](./283884-alchepot.json) |
 | Alchera | 189141 | [189141-alchera.json](./189141-alchera.json) |
 | Alchimist: Secret of the Worlds | 379447 | [379447-alchimist-secret-of-the-worlds.json](./379447-alchimist-secret-of-the-worlds.json) |
@@ -2929,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Diner | 217391 | [217391-animal-diner.json](./217391-animal-diner.json) |
 | Animal Drifters | 219296 | [219296-animal-drifters.json](./219296-animal-drifters.json) |
 | Animal Express | 152883 | [152883-animal-express.json](./152883-animal-express.json) |
+| Animal Express | 386404 | [386404-animal-express.json](./386404-animal-express.json) |
 | Animal Falling | 293089 | [293089-animal-falling.json](./293089-animal-falling.json) |
 | Animal Farm Jigsaw Games for Toddlers, Babys and Kids | 295265 | [295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json](./295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json) |
 | Animal Farm Parking: Extended Edition | 283156 | [283156-animal-farm-parking-extended-edition.json](./283156-animal-farm-parking-extended-edition.json) |
