@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glint's Trial | 356156 | [356156-glints-trial.json](./356156-glints-trial.json) |
 | Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
+| Glitch | 365268 | [365268-glitch.json](./365268-glitch.json) |
 | Glitch | 92479 | [92479-glitch.json](./92479-glitch.json) |
 | Glitch Assassin | 156023 | [156023-glitch-assassin.json](./156023-glitch-assassin.json) |
 | Glitch Boy | 25757 | [25757-glitch-boy.json](./25757-glitch-boy.json) |
@@ -2905,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Shift | 31801 | [31801-graveyard-shift.json](./31801-graveyard-shift.json) |
 | Graveyard Smash | 90583 | [90583-graveyard-smash.json](./90583-graveyard-smash.json) |
 | Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
+| Graveyard404 | 365260 | [365260-graveyard404.json](./365260-graveyard404.json) |
 | GraveyardGambit | 308969 | [308969-graveyardgambit.json](./308969-graveyardgambit.json) |
 | Gravi Dot | 91909 | [91909-gravi-dot.json](./91909-gravi-dot.json) |
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
