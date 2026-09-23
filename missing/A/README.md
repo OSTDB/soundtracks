@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hail the Cook-o-tron | 139464 | [139464-all-hail-the-cook-o-tron.json](./139464-all-hail-the-cook-o-tron.json) |
 | All Hail the Heat Death! | 396357 | [396357-all-hail-the-heat-death.json](./396357-all-hail-the-heat-death.json) |
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
+| All Hell Unleashed | 340581 | [340581-all-hell-unleashed.json](./340581-all-hell-unleashed.json) |
 | All Humans Must Die! | 183557 | [183557-all-humans-must-die.json](./183557-all-humans-must-die.json) |
 | All I want for Christmas are Subgames: Collector's Edition | 416871 | [416871-all-i-want-for-christmas-are-subgames-collectors-edition.json](./416871-all-i-want-for-christmas-are-subgames-collectors-edition.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
@@ -5025,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assemble | 266778 | [266778-assemble.json](./266778-assemble.json) |
 | Assemble the Car | 233488 | [233488-assemble-the-car.json](./233488-assemble-the-car.json) |
 | Assemble! | 304679 | [304679-assemble.json](./304679-assemble.json) |
+| Assemble!: Classic and Future Vehicles | 340559 | [340559-assemble-classic-and-future-vehicles.json](./340559-assemble-classic-and-future-vehicles.json) |
 | Assembloids | 41018 | [41018-assembloids.json](./41018-assembloids.json) |
 | Assembloids 2600 | 321557 | [321557-assembloids-2600.json](./321557-assembloids-2600.json) |
 | Assembly Line | 65756 | [65756-assembly-line.json](./65756-assembly-line.json) |
