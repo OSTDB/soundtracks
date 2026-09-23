@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai Saikyou Ginsei Shogi | 56158 | [56158-sekai-saikyou-ginsei-shogi.json](./56158-sekai-saikyou-ginsei-shogi.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
+| Sekiro: Shadows Die Twice - Game of the Year Edition | 365281 | [365281-sekiro-shadows-die-twice-game-of-the-year-edition.json](./365281-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
 | Sekure Fuumin no Omocha Hako | 254500 | [254500-sekure-fuumin-no-omocha-hako.json](./254500-sekure-fuumin-no-omocha-hako.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
 | Selatria: Advent of the Dakk'rian Empire | 29774 | [29774-selatria-advent-of-the-dakkrian-empire.json](./29774-selatria-advent-of-the-dakkrian-empire.json) |
@@ -4725,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
 | Sleep Aid | 414413 | [414413-sleep-aid.json](./414413-sleep-aid.json) |
+| Sleep and Girls | 365272 | [365272-sleep-and-girls.json](./365272-sleep-and-girls.json) |
 | Sleep Clock: Record and Analyse Your Sleep Patterns | 84883 | [84883-sleep-clock-record-and-analyse-your-sleep-patterns.json](./84883-sleep-clock-record-and-analyse-your-sleep-patterns.json) |
 | Sleep Is Death | 20664 | [20664-sleep-is-death.json](./20664-sleep-is-death.json) |
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
@@ -11636,6 +11638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World Widescreen | 165069 | [165069-super-mario-world-widescreen.json](./165069-super-mario-world-widescreen.json) |
+| Super Mario World: 2025 | 365286 | [365286-super-mario-world-2025.json](./365286-super-mario-world-2025.json) |
 | Super Mario World: A Haunted Christmas | 223023 | [223023-super-mario-world-a-haunted-christmas.json](./223023-super-mario-world-a-haunted-christmas.json) |
 | Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
 | Super Mario World: Return to Dinosaur Land | 42525 | [42525-super-mario-world-return-to-dinosaur-land.json](./42525-super-mario-world-return-to-dinosaur-land.json) |
