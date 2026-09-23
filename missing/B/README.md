@@ -6136,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Trap | 68640 | [68640-bullet-trap.json](./68640-bullet-trap.json) |
 | Bullet Vendetta | 414588 | [414588-bullet-vendetta.json](./414588-bullet-vendetta.json) |
 | Bullet Waltz | 223658 | [223658-bullet-waltz.json](./223658-bullet-waltz.json) |
+| Bullet Yeeters | 338894 | [338894-bullet-yeeters.json](./338894-bullet-yeeters.json) |
 | Bullet'n Surf | 97359 | [97359-bulletn-surf.json](./97359-bulletn-surf.json) |
 | Bullet'n Tunes | 97358 | [97358-bulletn-tunes.json](./97358-bulletn-tunes.json) |
 | Bullet'n Wall | 97360 | [97360-bulletn-wall.json](./97360-bulletn-wall.json) |
