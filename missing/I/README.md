@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
+| Idutshane | 356838 | [356838-idutshane.json](./356838-idutshane.json) |
 | Idyllic | 253042 | [253042-idyllic.json](./253042-idyllic.json) |
 | Idylls of the Lunar Maria | 302923 | [302923-idylls-of-the-lunar-maria.json](./302923-idylls-of-the-lunar-maria.json) |
 | Ie Naki Ko - Suzu no Sentaku | 92276 | [92276-ie-naki-ko-suzu-no-sentaku.json](./92276-ie-naki-ko-suzu-no-sentaku.json) |
@@ -1697,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspired You | 413037 | [413037-inspired-you.json](./413037-inspired-you.json) |
 | Instability | 156522 | [156522-instability.json](./156522-instability.json) |
 | Install Fee Tycoon | 269006 | [269006-install-fee-tycoon.json](./269006-install-fee-tycoon.json) |
+| Instant Anastasia | 356833 | [356833-instant-anastasia.json](./356833-instant-anastasia.json) |
 | Instant Family Fun Bundle | 406801 | [406801-instant-family-fun-bundle.json](./406801-instant-family-fun-bundle.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instant Sports Summer Games | 139969 | [139969-instant-sports-summer-games.json](./139969-instant-sports-summer-games.json) |
