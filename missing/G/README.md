@@ -3353,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
 | Grindhouse Games Volume I | 142851 | [142851-grindhouse-games-volume-i.json](./142851-grindhouse-games-volume-i.json) |
 | Grindshift | 207307 | [207307-grindshift.json](./207307-grindshift.json) |
+| Gringo Hero | 339472 | [339472-gringo-hero.json](./339472-gringo-hero.json) |
 | Grinlox is here | 266901 | [266901-grinlox-is-here.json](./266901-grinlox-is-here.json) |
 | Grinnel | 389586 | [389586-grinnel.json](./389586-grinnel.json) |
 | Grip Games Anthology | 99557 | [99557-grip-games-anthology.json](./99557-grip-games-anthology.json) |
