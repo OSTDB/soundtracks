@@ -3523,17 +3523,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust from Beyond | 115903 | [115903-lust-from-beyond.json](./115903-lust-from-beyond.json) |
 | Lust From Beyond: M Edition | 152313 | [152313-lust-from-beyond-m-edition.json](./152313-lust-from-beyond-m-edition.json) |
 | Lust Girl | 241514 | [241514-lust-girl.json](./241514-lust-girl.json) |
+| Lust Harem 1001 Pleasures | 384757 | [384757-lust-harem-1001-pleasures.json](./384757-lust-harem-1001-pleasures.json) |
+| Lust Island | 384761 | [384761-lust-island.json](./384761-lust-island.json) |
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
 | Lust Theory | 216187 | [216187-lust-theory.json](./216187-lust-theory.json) |
 | Lust Theory 2 | 240879 | [240879-lust-theory-2.json](./240879-lust-theory-2.json) |
+| Lust Theory 3 | 384754 | [384754-lust-theory-3.json](./384754-lust-theory-3.json) |
 | Lust Trip | 213477 | [213477-lust-trip.json](./213477-lust-trip.json) |
 | Luster Beasts | 276826 | [276826-luster-beasts.json](./276826-luster-beasts.json) |
 | Lusternia: Age of Ascension | 122848 | [122848-lusternia-age-of-ascension.json](./122848-lusternia-age-of-ascension.json) |
 | Lustful Apartment | 296687 | [296687-lustful-apartment.json](./296687-lustful-apartment.json) |
 | Lustful Assistant | 223176 | [223176-lustful-assistant.json](./223176-lustful-assistant.json) |
+| Lustful BlackJack: My Succubus Dealer | 384752 | [384752-lustful-blackjack-my-succubus-dealer.json](./384752-lustful-blackjack-my-succubus-dealer.json) |
 | Lustful Butler and Charming Sisters | 346685 | [346685-lustful-butler-and-charming-sisters.json](./346685-lustful-butler-and-charming-sisters.json) |
 | Lustful Ponies | 195738 | [195738-lustful-ponies.json](./195738-lustful-ponies.json) |
 | Lusty Bubbles: Animated Edition | 395845 | [395845-lusty-bubbles-animated-edition.json](./395845-lusty-bubbles-animated-edition.json) |
+| Lusty Chapters | 384759 | [384759-lusty-chapters.json](./384759-lusty-chapters.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
 | Lutarus | 293621 | [293621-lutarus.json](./293621-lutarus.json) |
 | Lutra's Monologue | 186274 | [186274-lutras-monologue.json](./186274-lutras-monologue.json) |
@@ -3570,3 +3575,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyssa: Goddess of Rage | 273929 | [273929-lyssa-goddess-of-rage.json](./273929-lyssa-goddess-of-rage.json) |
 | Lyssophobia | 179181 | [179181-lyssophobia.json](./179181-lyssophobia.json) |
 | Lythe The Forgetful Witch: A Visual Novel | 325057 | [325057-lythe-the-forgetful-witch-a-visual-novel.json](./325057-lythe-the-forgetful-witch-a-visual-novel.json) |
+| Lythia: Sigil of Lust | 384755 | [384755-lythia-sigil-of-lust.json](./384755-lythia-sigil-of-lust.json) |
