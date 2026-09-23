@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nectaris: Military Madness | 356101 | [356101-nectaris-military-madness.json](./356101-nectaris-military-madness.json) |
 | Ned | 67288 | [67288-ned.json](./67288-ned.json) |
 | Ned Kelly: Armored Outlaw | 204101 | [204101-ned-kelly-armored-outlaw.json](./204101-ned-kelly-armored-outlaw.json) |
+| Ned's Garden | 380105 | [380105-neds-garden.json](./380105-neds-garden.json) |
 | Neden | 182373 | [182373-neden.json](./182373-neden.json) |
 | Nedetskie Skazki | 252821 | [252821-nedetskie-skazki.json](./252821-nedetskie-skazki.json) |
 | Nedra | 324297 | [324297-nedra.json](./324297-nedra.json) |
