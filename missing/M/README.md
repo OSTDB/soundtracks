@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandragora: Whispers of the Witch Tree - Digital Deluxe Edition | 362373 | [362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json](./362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
 | Mandrake Girls: Garden of Secret | 202399 | [202399-mandrake-girls-garden-of-secret.json](./202399-mandrake-girls-garden-of-secret.json) |
+| Mandy's Room 2: Naughty By Nature | 367014 | [367014-mandys-room-2-naughty-by-nature.json](./367014-mandys-room-2-naughty-by-nature.json) |
 | Mane | 158171 | [158171-mane.json](./158171-mane.json) |
 | Mane Box | 237396 | [237396-mane-box.json](./237396-mane-box.json) |
 | Maneater | 46800 | [46800-maneater.json](./46800-maneater.json) |
@@ -3978,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk Race | 46660 | [46660-milk-race.json](./46660-milk-race.json) |
 | Milkblood | 241031 | [241031-milkblood.json](./241031-milkblood.json) |
 | MilkChoco | 104019 | [104019-milkchoco.json](./104019-milkchoco.json) |
+| Milker Clicker | 367062 | [367062-milker-clicker.json](./367062-milker-clicker.json) |
 | Milki Delivery | 385308 | [385308-milki-delivery.json](./385308-milki-delivery.json) |
 | Milkman Karlson | 135213 | [135213-milkman-karlson.json](./135213-milkman-karlson.json) |
 | Milkraid | 382749 | [382749-milkraid.json](./382749-milkraid.json) |
@@ -4418,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Fear | 184600 | [184600-minimal-fear.json](./184600-minimal-fear.json) |
 | Minimal Maze | 197772 | [197772-minimal-maze.json](./197772-minimal-maze.json) |
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
+| Minimalist Box | 367010 | [367010-minimalist-box.json](./367010-minimalist-box.json) |
 | Minimalist Tower Defense | 270778 | [270778-minimalist-tower-defense.json](./270778-minimalist-tower-defense.json) |
 | Minimally Invasive | 244270 | [244270-minimally-invasive.json](./244270-minimally-invasive.json) |
 | MiniMania | 210088 | [210088-minimania.json](./210088-minimania.json) |
