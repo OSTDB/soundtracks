@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
 | The Final Hour | 190061 | [190061-the-final-hour.json](./190061-the-final-hour.json) |
 | The Final Hours of Mass Effect 3 | 202354 | [202354-the-final-hours-of-mass-effect-3.json](./202354-the-final-hours-of-mass-effect-3.json) |
+| The Final Payphone | 351235 | [351235-the-final-payphone.json](./351235-the-final-payphone.json) |
 | The Final Print | 347777 | [347777-the-final-print.json](./347777-the-final-print.json) |
 | The Final Round | 139245 | [139245-the-final-round.json](./139245-the-final-round.json) |
 | The Final Specimen: Arrival | 30037 | [30037-the-final-specimen-arrival.json](./30037-the-final-specimen-arrival.json) |
@@ -5629,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
+| The Ratline | 351273 | [351273-the-ratline.json](./351273-the-ratline.json) |
 | The Rats | 9558 | [9558-the-rats.json](./9558-the-rats.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
 | The Raven and the Light | 406782 | [406782-the-raven-and-the-light.json](./406782-the-raven-and-the-light.json) |
@@ -5752,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rookery | 312744 | [312744-the-rookery.json](./312744-the-rookery.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
 | The Room 4: Old Sins | 27725 | [27725-the-room-4-old-sins.json](./27725-the-room-4-old-sins.json) |
+| The Room Collection | 351251 | [351251-the-room-collection.json](./351251-the-room-collection.json) |
 | The Room in a Glass Box | 339934 | [339934-the-room-in-a-glass-box.json](./339934-the-room-in-a-glass-box.json) |
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
@@ -9661,6 +9664,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
 | Touhou Chouseisho: Sapphire Panlogism | 181892 | [181892-touhou-chouseisho-sapphire-panlogism.json](./181892-touhou-chouseisho-sapphire-panlogism.json) |
 | Touhou Danmaku Kagura: Phantasia Lost | 222995 | [222995-touhou-danmaku-kagura-phantasia-lost.json](./222995-touhou-danmaku-kagura-phantasia-lost.json) |
+| Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 10 | 351245 | [351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json](./351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json) |
+| Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 11 | 351244 | [351244-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-11.json](./351244-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-11.json) |
+| Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 12 | 351243 | [351243-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-12.json](./351243-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-12.json) |
 | Touhou Danmaku Maze | 304050 | [304050-touhou-danmaku-maze.json](./304050-touhou-danmaku-maze.json) |
 | Touhou Danmaku Shunsatsu Gekijou: Shoken Koroshi ni Inochi wo Kakete | 339125 | [339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json](./339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json) |
 | Touhou Danmaku: Infinity | 233785 | [233785-touhou-danmaku-infinity.json](./233785-touhou-danmaku-infinity.json) |
