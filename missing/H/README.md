@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Blood | 402500 | [402500-half-blood.json](./402500-half-blood.json) |
 | Half Built: Casino | 211721 | [211721-half-built-casino.json](./211721-half-built-casino.json) |
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
+| Half Light | 374840 | [374840-half-light.json](./374840-half-light.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
 | Half-Cat | 163958 | [163958-half-cat.json](./163958-half-cat.json) |
 | Half-Doomed | 252366 | [252366-half-doomed.json](./252366-half-doomed.json) |
@@ -1377,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist | 111050 | [111050-heist.json](./111050-heist.json) |
 | Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
+| Heist Haven | 374843 | [374843-heist-haven.json](./374843-heist-haven.json) |
 | Heist Kitty: Cats Go a Stray | 231485 | [231485-heist-kitty-cats-go-a-stray.json](./231485-heist-kitty-cats-go-a-stray.json) |
 | Heist Simulator | 159135 | [159135-heist-simulator.json](./159135-heist-simulator.json) |
 | HeistGeist | 211182 | [211182-heistgeist.json](./211182-heistgeist.json) |
@@ -1954,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heralds of The Order | 108466 | [108466-heralds-of-the-order.json](./108466-heralds-of-the-order.json) |
 | Herb Garden Tycoon | 237669 | [237669-herb-garden-tycoon.json](./237669-herb-garden-tycoon.json) |
 | Herb Tea Man | 391724 | [391724-herb-tea-man.json](./391724-herb-tea-man.json) |
+| Herbal Haven | 374797 | [374797-herbal-haven.json](./374797-herbal-haven.json) |
 | Herbal Remedies | 266203 | [266203-herbal-remedies.json](./266203-herbal-remedies.json) |
 | Herbert's Dummy Run | 30217 | [30217-herberts-dummy-run.json](./30217-herberts-dummy-run.json) |
 | Herbheim's Mine | 188689 | [188689-herbheims-mine.json](./188689-herbheims-mine.json) |
