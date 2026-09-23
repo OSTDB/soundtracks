@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Allstars | 64134 | [64134-jelly-allstars.json](./64134-jelly-allstars.json) |
 | Jelly Boy | 365693 | [365693-jelly-boy.json](./365693-jelly-boy.json) |
 | Jelly Boy 2 | 38364 | [38364-jelly-boy-2.json](./38364-jelly-boy-2.json) |
+| Jelly Bubble | 359055 | [359055-jelly-bubble.json](./359055-jelly-bubble.json) |
 | Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
 | Jelly Escape | 286641 | [286641-jelly-escape.json](./286641-jelly-escape.json) |
 | Jelly Express | 199592 | [199592-jelly-express.json](./199592-jelly-express.json) |
@@ -598,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Pets | 283274 | [283274-jigsaw-pets.json](./283274-jigsaw-pets.json) |
 | JigSaw Preschool Puzzles | 97145 | [97145-jigsaw-preschool-puzzles.json](./97145-jigsaw-preschool-puzzles.json) |
 | Jigsaw Puzzle | 357883 | [357883-jigsaw-puzzle.json](./357883-jigsaw-puzzle.json) |
+| Jigsaw Puzzle | 359084 | [359084-jigsaw-puzzle.json](./359084-jigsaw-puzzle.json) |
 | Jigsaw Puzzle Cats Kitten | 202765 | [202765-jigsaw-puzzle-cats-kitten.json](./202765-jigsaw-puzzle-cats-kitten.json) |
 | Jigsaw Puzzle Dreams: Idyllic Pack | 226855 | [226855-jigsaw-puzzle-dreams-idyllic-pack.json](./226855-jigsaw-puzzle-dreams-idyllic-pack.json) |
 | Jigsaw Puzzle Dreams: Radiant Pack | 226856 | [226856-jigsaw-puzzle-dreams-radiant-pack.json](./226856-jigsaw-puzzle-dreams-radiant-pack.json) |
