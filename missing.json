@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T17:34:40.714Z",
-  "total_missing": 112277,
+  "generated_at": "2026-09-23T17:48:48.197Z",
+  "total_missing": 112327,
   "games": [
     {
       "igdb_id": 176875,
@@ -2581,6 +2581,11 @@
       "igdb_id": 320399,
       "game_name": "20Q: The Simpsons",
       "file": "missing/0-9/320399-20q-the-simpsons.json"
+    },
+    {
+      "igdb_id": 350636,
+      "game_name": "20th Century Beauties",
+      "file": "missing/0-9/350636-20th-century-beauties.json"
     },
     {
       "igdb_id": 175786,
@@ -6396,6 +6401,11 @@
       "igdb_id": 238589,
       "game_name": "A Slug's Dream",
       "file": "missing/A/238589-a-slugs-dream.json"
+    },
+    {
+      "igdb_id": 350624,
+      "game_name": "A Small Encounter",
+      "file": "missing/A/350624-a-small-encounter.json"
     },
     {
       "igdb_id": 405058,
@@ -30583,6 +30593,11 @@
       "file": "missing/A/140358-astral-equilibrium.json"
     },
     {
+      "igdb_id": 350662,
+      "game_name": "Astral Fantasy",
+      "file": "missing/A/350662-astral-fantasy.json"
+    },
+    {
       "igdb_id": 184079,
       "game_name": "Astral Green",
       "file": "missing/A/184079-astral-green.json"
@@ -44706,6 +44721,11 @@
       "igdb_id": 209689,
       "game_name": "Beat Refle",
       "file": "missing/B/209689-beat-refle.json"
+    },
+    {
+      "igdb_id": 350608,
+      "game_name": "Beat Rhythm Fever",
+      "file": "missing/B/350608-beat-rhythm-fever.json"
     },
     {
       "igdb_id": 166213,
@@ -63216,6 +63236,11 @@
       "igdb_id": 282699,
       "game_name": "Broken Covenant",
       "file": "missing/B/282699-broken-covenant.json"
+    },
+    {
+      "igdb_id": 350640,
+      "game_name": "Broken Dimensions",
+      "file": "missing/B/350640-broken-dimensions.json"
     },
     {
       "igdb_id": 280748,
@@ -85506,6 +85531,11 @@
       "igdb_id": 269843,
       "game_name": "Climber",
       "file": "missing/C/269843-climber.json"
+    },
+    {
+      "igdb_id": 350635,
+      "game_name": "Climber Girl",
+      "file": "missing/C/350635-climber-girl.json"
     },
     {
       "igdb_id": 129701,
@@ -115683,6 +115713,11 @@
       "file": "missing/D/302122-demonkey.json"
     },
     {
+      "igdb_id": 350653,
+      "game_name": "Demonology: Incubus: Chapter 7",
+      "file": "missing/D/350653-demonology-incubus-chapter-7.json"
+    },
+    {
       "igdb_id": 195267,
       "game_name": "Demonophobia",
       "file": "missing/D/195267-demonophobia.json"
@@ -121698,6 +121733,11 @@
       "file": "missing/D/266489-disc-station-msx-11.json"
     },
     {
+      "igdb_id": 350614,
+      "game_name": "Discard All Hope",
+      "file": "missing/D/350614-discard-all-hope.json"
+    },
+    {
       "igdb_id": 265628,
       "game_name": "Discarnate",
       "file": "missing/D/265628-discarnate.json"
@@ -124733,6 +124773,11 @@
       "file": "missing/D/178565-doggo-walko.json"
     },
     {
+      "igdb_id": 350626,
+      "game_name": "DoggoGuessr",
+      "file": "missing/D/350626-doggoguessr.json"
+    },
+    {
       "igdb_id": 398349,
       "game_name": "DoggoPromenade",
       "file": "missing/D/398349-doggopromenade.json"
@@ -126101,6 +126146,11 @@
       "igdb_id": 372019,
       "game_name": "Don't Look!",
       "file": "missing/D/372019-dont-look.json"
+    },
+    {
+      "igdb_id": 350603,
+      "game_name": "Don't Mess With Bober",
+      "file": "missing/D/350603-dont-mess-with-bober.json"
     },
     {
       "igdb_id": 414309,
@@ -139911,6 +139961,11 @@
       "igdb_id": 295243,
       "game_name": "Eclipse",
       "file": "missing/E/295243-eclipse.json"
+    },
+    {
+      "igdb_id": 350628,
+      "game_name": "Eclipse Below",
+      "file": "missing/E/350628-eclipse-below.json"
     },
     {
       "igdb_id": 326254,
@@ -167678,6 +167733,11 @@
       "file": "missing/F/212319-floral-flowlove-limited-edition.json"
     },
     {
+      "igdb_id": 350619,
+      "game_name": "Floral Gutter",
+      "file": "missing/F/350619-floral-gutter.json"
+    },
+    {
       "igdb_id": 265620,
       "game_name": "Floralgraphic Memory",
       "file": "missing/F/265620-floralgraphic-memory.json"
@@ -191331,6 +191391,11 @@
       "igdb_id": 19661,
       "game_name": "Götzendiener",
       "file": "missing/G/19661-gotzendiener.json"
+    },
+    {
+      "igdb_id": 350616,
+      "game_name": "Goudall",
+      "file": "missing/G/350616-goudall.json"
     },
     {
       "igdb_id": 333077,
@@ -249543,6 +249608,11 @@
       "file": "missing/K/285585-knight-of-valour-3-hd.json"
     },
     {
+      "igdb_id": 350621,
+      "game_name": "Knight On The Moon",
+      "file": "missing/K/350621-knight-on-the-moon.json"
+    },
+    {
       "igdb_id": 253438,
       "game_name": "Knight Overloaded",
       "file": "missing/K/253438-knight-overloaded.json"
@@ -261688,6 +261758,11 @@
       "file": "missing/L/175388-lightout.json"
     },
     {
+      "igdb_id": 350601,
+      "game_name": "LightPoint",
+      "file": "missing/L/350601-lightpoint.json"
+    },
+    {
       "igdb_id": 374799,
       "game_name": "LightQb",
       "file": "missing/L/374799-lightqb.json"
@@ -270838,6 +270913,11 @@
       "file": "missing/L/289462-lust-academy-season-3.json"
     },
     {
+      "igdb_id": 350625,
+      "game_name": "Lust Arcanum",
+      "file": "missing/L/350625-lust-arcanum.json"
+    },
+    {
       "igdb_id": 274753,
       "game_name": "Lust Bunker",
       "file": "missing/L/274753-lust-bunker.json"
@@ -278441,6 +278521,31 @@
       "igdb_id": 3541,
       "game_name": "Mario no Photopi",
       "file": "missing/M/3541-mario-no-photopi.json"
+    },
+    {
+      "igdb_id": 350660,
+      "game_name": "Mario no Photopi: Characters Collection - Bomberman",
+      "file": "missing/M/350660-mario-no-photopi-characters-collection-bomberman.json"
+    },
+    {
+      "igdb_id": 350659,
+      "game_name": "Mario no Photopi: Characters Collection - Sylvanian Families",
+      "file": "missing/M/350659-mario-no-photopi-characters-collection-sylvanian-families.json"
+    },
+    {
+      "igdb_id": 350658,
+      "game_name": "Mario no Photopi: Characters Collection - Yoshi's Story",
+      "file": "missing/M/350658-mario-no-photopi-characters-collection-yoshis-story.json"
+    },
+    {
+      "igdb_id": 350657,
+      "game_name": "Mario no Photopi: Illustrations - Funny Accessories 1",
+      "file": "missing/M/350657-mario-no-photopi-illustrations-funny-accessories-1.json"
+    },
+    {
+      "igdb_id": 350656,
+      "game_name": "Mario no Photopi: Illustrations - Postal Cards 1",
+      "file": "missing/M/350656-mario-no-photopi-illustrations-postal-cards-1.json"
     },
     {
       "igdb_id": 323924,
@@ -292778,6 +292883,11 @@
       "file": "missing/M/366815-minecraft-dairycraft.json"
     },
     {
+      "igdb_id": 350618,
+      "game_name": "Minecraft: Deluxe Collection for PC",
+      "file": "missing/M/350618-minecraft-deluxe-collection-for-pc.json"
+    },
+    {
       "igdb_id": 343904,
       "game_name": "Minecraft: Echo Crystal",
       "file": "missing/M/343904-minecraft-echo-crystal.json"
@@ -306003,6 +306113,11 @@
       "file": "missing/M/206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json"
     },
     {
+      "igdb_id": 350652,
+      "game_name": "MX vs. ATV Legends: Track Pass",
+      "file": "missing/M/350652-mx-vs-atv-legends-track-pass.json"
+    },
+    {
       "igdb_id": 287113,
       "game_name": "MX vs. ATV: Legends - 2023 Track Pass",
       "file": "missing/M/287113-mx-vs-atv-legends-2023-track-pass.json"
@@ -306011,6 +306126,16 @@
       "igdb_id": 295398,
       "game_name": "MX vs. ATV: Legends - 2024 Monster Energy Supercross Championship",
       "file": "missing/M/295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json"
+    },
+    {
+      "igdb_id": 350639,
+      "game_name": "MX vs. ATV: Legends - 2025 Monster Energy Supercross Championship",
+      "file": "missing/M/350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json"
+    },
+    {
+      "igdb_id": 350651,
+      "game_name": "MX vs. ATV: Legends - Customization Pack",
+      "file": "missing/M/350651-mx-vs-atv-legends-customization-pack.json"
     },
     {
       "igdb_id": 274741,
@@ -306023,14 +306148,69 @@
       "file": "missing/M/356699-mx-vs-atv-legends-gasgas-pack-2025.json"
     },
     {
+      "igdb_id": 350637,
+      "game_name": "MX vs. ATV: Legends - Honda Pack 2025",
+      "file": "missing/M/350637-mx-vs-atv-legends-honda-pack-2025.json"
+    },
+    {
+      "igdb_id": 350648,
+      "game_name": "MX vs. ATV: Legends - Husqvarna Pack",
+      "file": "missing/M/350648-mx-vs-atv-legends-husqvarna-pack.json"
+    },
+    {
       "igdb_id": 356698,
       "game_name": "MX vs. ATV: Legends - Husqvarna Pack 2025",
       "file": "missing/M/356698-mx-vs-atv-legends-husqvarna-pack-2025.json"
     },
     {
+      "igdb_id": 350649,
+      "game_name": "MX vs. ATV: Legends - Kawasaki Pack",
+      "file": "missing/M/350649-mx-vs-atv-legends-kawasaki-pack.json"
+    },
+    {
+      "igdb_id": 350641,
+      "game_name": "MX vs. ATV: Legends - Kawasaki Pack 2025",
+      "file": "missing/M/350641-mx-vs-atv-legends-kawasaki-pack-2025.json"
+    },
+    {
+      "igdb_id": 350643,
+      "game_name": "MX vs. ATV: Legends - KTM Pack 2025",
+      "file": "missing/M/350643-mx-vs-atv-legends-ktm-pack-2025.json"
+    },
+    {
+      "igdb_id": 350650,
+      "game_name": "MX vs. ATV: Legends - Polaris Pack",
+      "file": "missing/M/350650-mx-vs-atv-legends-polaris-pack.json"
+    },
+    {
       "igdb_id": 252169,
       "game_name": "MX vs. ATV: Legends - Season One: Exclusive Box Edition",
       "file": "missing/M/252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json"
+    },
+    {
+      "igdb_id": 350645,
+      "game_name": "MX vs. ATV: Legends - Slayground",
+      "file": "missing/M/350645-mx-vs-atv-legends-slayground.json"
+    },
+    {
+      "igdb_id": 350646,
+      "game_name": "MX vs. ATV: Legends - Supercross World Tour",
+      "file": "missing/M/350646-mx-vs-atv-legends-supercross-world-tour.json"
+    },
+    {
+      "igdb_id": 350647,
+      "game_name": "MX vs. ATV: Legends - Suzuki Pack",
+      "file": "missing/M/350647-mx-vs-atv-legends-suzuki-pack.json"
+    },
+    {
+      "igdb_id": 350644,
+      "game_name": "MX vs. ATV: Legends - Suzuki Pack 2025",
+      "file": "missing/M/350644-mx-vs-atv-legends-suzuki-pack-2025.json"
+    },
+    {
+      "igdb_id": 350642,
+      "game_name": "MX vs. ATV: Legends - Yamaha Pack 2025",
+      "file": "missing/M/350642-mx-vs-atv-legends-yamaha-pack-2025.json"
     },
     {
       "igdb_id": 18267,
@@ -323498,6 +323678,11 @@
       "file": "missing/N/139923-number-islands.json"
     },
     {
+      "igdb_id": 350604,
+      "game_name": "Number Machine",
+      "file": "missing/N/350604-number-machine.json"
+    },
+    {
       "igdb_id": 223995,
       "game_name": "Number Master",
       "file": "missing/N/223995-number-master.json"
@@ -334523,6 +334708,11 @@
       "file": "missing/O/341007-overwatch-2-season-16-stadium.json"
     },
     {
+      "igdb_id": 350615,
+      "game_name": "Overwatch 2: Season 17 - Powered Up!",
+      "file": "missing/O/350615-overwatch-2-season-17-powered-up.json"
+    },
+    {
       "igdb_id": 362281,
       "game_name": "Overwatch 2: Season 18 - Stadium Quickplay",
       "file": "missing/O/362281-overwatch-2-season-18-stadium-quickplay.json"
@@ -334721,6 +334911,11 @@
       "igdb_id": 51536,
       "game_name": "Oxenfree: Collector's Edition",
       "file": "missing/O/51536-oxenfree-collectors-edition.json"
+    },
+    {
+      "igdb_id": 350602,
+      "game_name": "Oxidus Tales",
+      "file": "missing/O/350602-oxidus-tales.json"
     },
     {
       "igdb_id": 74424,
@@ -388988,6 +389183,11 @@
       "file": "missing/R/371351-romance-of-the-three-kingdoms-hadou.json"
     },
     {
+      "igdb_id": 350627,
+      "game_name": "Romance of the Three Kingdoms II",
+      "file": "missing/R/350627-romance-of-the-three-kingdoms-ii.json"
+    },
+    {
       "igdb_id": 91114,
       "game_name": "Romance of the Three Kingdoms IV with Power Up Kit",
       "file": "missing/R/91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json"
@@ -388998,14 +389198,34 @@
       "file": "missing/R/7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json"
     },
     {
+      "igdb_id": 350632,
+      "game_name": "Romance of the Three Kingdoms IX: Power Up Kit",
+      "file": "missing/R/350632-romance-of-the-three-kingdoms-ix-power-up-kit.json"
+    },
+    {
       "igdb_id": 91115,
       "game_name": "Romance of the Three Kingdoms V with Power Up Kit",
       "file": "missing/R/91115-romance-of-the-three-kingdoms-v-with-power-up-kit.json"
     },
     {
+      "igdb_id": 350630,
+      "game_name": "Romance of the Three Kingdoms VI: Power Up Kit",
+      "file": "missing/R/350630-romance-of-the-three-kingdoms-vi-power-up-kit.json"
+    },
+    {
       "igdb_id": 7254,
       "game_name": "Romance of the Three Kingdoms VII",
       "file": "missing/R/7254-romance-of-the-three-kingdoms-vii.json"
+    },
+    {
+      "igdb_id": 350629,
+      "game_name": "Romance of the Three Kingdoms VII: Power Up Kit",
+      "file": "missing/R/350629-romance-of-the-three-kingdoms-vii-power-up-kit.json"
+    },
+    {
+      "igdb_id": 350631,
+      "game_name": "Romance of the Three Kingdoms X: Power Up Kit",
+      "file": "missing/R/350631-romance-of-the-three-kingdoms-x-power-up-kit.json"
     },
     {
       "igdb_id": 82407,
@@ -389016,6 +389236,11 @@
       "igdb_id": 219028,
       "game_name": "Romance of the Three Kingdoms XII: Competition Edition",
       "file": "missing/R/219028-romance-of-the-three-kingdoms-xii-competition-edition.json"
+    },
+    {
+      "igdb_id": 350634,
+      "game_name": "Romance of the Three Kingdoms XII: Power Up Kit",
+      "file": "missing/R/350634-romance-of-the-three-kingdoms-xii-power-up-kit.json"
     },
     {
       "igdb_id": 164485,
@@ -389116,6 +389341,11 @@
       "igdb_id": 164502,
       "game_name": "Romance of the Three Kingdoms XIII: Zhuge Liang's Northern Campaign Event Set",
       "file": "missing/R/164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json"
+    },
+    {
+      "igdb_id": 350638,
+      "game_name": "Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack",
+      "file": "missing/R/350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json"
     },
     {
       "igdb_id": 147803,
@@ -408171,6 +408401,11 @@
       "igdb_id": 276821,
       "game_name": "Shelter of Exiles",
       "file": "missing/S/276821-shelter-of-exiles.json"
+    },
+    {
+      "igdb_id": 350606,
+      "game_name": "Shelter of Sursur 2",
+      "file": "missing/S/350606-shelter-of-sursur-2.json"
     },
     {
       "igdb_id": 152285,
@@ -505518,6 +505753,11 @@
       "file": "missing/T/6403-tomodachi-life.json"
     },
     {
+      "igdb_id": 350609,
+      "game_name": "Tomodachi Life: The Gay Mod",
+      "file": "missing/T/350609-tomodachi-life-the-gay-mod.json"
+    },
+    {
       "igdb_id": 398580,
       "game_name": "Tomodachi-kun",
       "file": "missing/T/398580-tomodachi-kun.json"
@@ -537838,6 +538078,11 @@
       "file": "missing/W/35987-wars-across-the-world.json"
     },
     {
+      "igdb_id": 350611,
+      "game_name": "Wars Across the World: Bulgaria 1913",
+      "file": "missing/W/350611-wars-across-the-world-bulgaria-1913.json"
+    },
+    {
       "igdb_id": 150510,
       "game_name": "Wars across the World: Bulge 1944",
       "file": "missing/W/150510-wars-across-the-world-bulge-1944.json"
@@ -537851,6 +538096,11 @@
       "igdb_id": 203922,
       "game_name": "Wars Across the World: Curupayti 1866",
       "file": "missing/W/203922-wars-across-the-world-curupayti-1866.json"
+    },
+    {
+      "igdb_id": 350610,
+      "game_name": "Wars Across The World: Tryphon 104",
+      "file": "missing/W/350610-wars-across-the-world-tryphon-104.json"
     },
     {
       "igdb_id": 33092,
