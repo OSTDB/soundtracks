@@ -8277,6 +8277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Fall | 401811 | [401811-square-fall.json](./401811-square-fall.json) |
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
 | Square Flood | 58259 | [58259-square-flood.json](./58259-square-flood.json) |
+| Square Game | 373742 | [373742-square-game.json](./373742-square-game.json) |
 | Square Garden | 234748 | [234748-square-garden.json](./234748-square-garden.json) |
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
@@ -10821,6 +10822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun-Rise.exe | 264612 | [264612-sun-rise-exe.json](./264612-sun-rise-exe.json) |
 | Suna | 87948 | [87948-suna.json](./87948-suna.json) |
 | Sunberry Village | 384778 | [384778-sunberry-village.json](./384778-sunberry-village.json) |
+| Sunbreak War | 373759 | [373759-sunbreak-war.json](./373759-sunbreak-war.json) |
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Suncore Chronicles: The Tower - Level 1 | 157559 | [157559-suncore-chronicles-the-tower-level-1.json](./157559-suncore-chronicles-the-tower-level-1.json) |
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
@@ -12170,6 +12172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supipara: Chapter 2 | 90149 | [90149-supipara-chapter-2.json](./90149-supipara-chapter-2.json) |
 | Supotto Spot | 379574 | [379574-supotto-spot.json](./379574-supotto-spot.json) |
 | Supplice | 165070 | [165070-supplice.json](./165070-supplice.json) |
+| Supply Chain Expansion | 373746 | [373746-supply-chain-expansion.json](./373746-supply-chain-expansion.json) |
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
