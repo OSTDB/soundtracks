@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Excavation | 249880 | [249880-illegal-excavation.json](./249880-illegal-excavation.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
 | Illum | 247605 | [247605-illum.json](./247605-illum.json) |
+| Illumina Defender | 369737 | [369737-illumina-defender.json](./369737-illumina-defender.json) |
 | Illumina Girls | 222937 | [222937-illumina-girls.json](./222937-illumina-girls.json) |
 | Illuminaria | 180285 | [180285-illuminaria.json](./180285-illuminaria.json) |
 | Illuminate Frame | 267457 | [267457-illuminate-frame.json](./267457-illuminate-frame.json) |
@@ -2425,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
 | It's Too Late to Apologize | 401642 | [401642-its-too-late-to-apologize.json](./401642-its-too-late-to-apologize.json) |
 | It'sRoachTime! | 192873 | [192873-itsroachtime.json](./192873-itsroachtime.json) |
+| Itachi: Haunted Abodes - Wandering Through 2000s Tokyo Culture | 369761 | [369761-itachi-haunted-abodes-wandering-through-2000s-tokyo-culture.json](./369761-itachi-haunted-abodes-wandering-through-2000s-tokyo-culture.json) |
 | Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
 | Itadaki Street DS | 71885 | [71885-itadaki-street-ds.json](./71885-itadaki-street-ds.json) |
 | Itadaki Street Special | 72987 | [72987-itadaki-street-special.json](./72987-itadaki-street-special.json) |
