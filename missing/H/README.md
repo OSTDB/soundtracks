@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
 | Hero Siege: Pocket Edition | 108288 | [108288-hero-siege-pocket-edition.json](./108288-hero-siege-pocket-edition.json) |
 | Hero Siege: Wrath of Mevius | 168769 | [168769-hero-siege-wrath-of-mevius.json](./168769-hero-siege-wrath-of-mevius.json) |
+| Hero Slayers | 348427 | [348427-hero-slayers.json](./348427-hero-slayers.json) |
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
@@ -2894,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiscores! Gold | 118999 | [118999-hiscores-gold.json](./118999-hiscores-gold.json) |
 | Hisou Kihei Kai Serd | 42034 | [42034-hisou-kihei-kai-serd.json](./42034-hisou-kihei-kai-serd.json) |
 | Hispania 1200 | 356167 | [356167-hispania-1200.json](./356167-hispania-1200.json) |
+| Hiss & Hunt | 348434 | [348434-hiss-and-hunt.json](./348434-hiss-and-hunt.json) |
 | Hissatsu Buraiken | 40195 | [40195-hissatsu-buraiken.json](./40195-hissatsu-buraiken.json) |
 | Hissatsu Pachinko Boy CR Monster House | 281567 | [281567-hissatsu-pachinko-boy-cr-monster-house.json](./281567-hissatsu-pachinko-boy-cr-monster-house.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
@@ -3158,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Home | 265621 | [265621-hollow-home.json](./265621-hollow-home.json) |
 | Hollow Hometown | 339812 | [339812-hollow-hometown.json](./339812-hollow-hometown.json) |
 | Hollow Inn | 400349 | [400349-hollow-inn.json](./400349-hollow-inn.json) |
+| Hollow Jump | 348466 | [348466-hollow-jump.json](./348466-hollow-jump.json) |
 | Hollow Knight | 365702 | [365702-hollow-knight.json](./365702-hollow-knight.json) |
 | Hollow Knight Silksong | 372563 | [372563-hollow-knight-silksong.json](./372563-hollow-knight-silksong.json) |
 | Hollow Knight: Collector's Edition | 116151 | [116151-hollow-knight-collectors-edition.json](./116151-hollow-knight-collectors-edition.json) |
@@ -4003,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How 2 Escape Collection | 351230 | [351230-how-2-escape-collection.json](./351230-how-2-escape-collection.json) |
 | How a Retired Strategist Saved the Country | 221199 | [221199-how-a-retired-strategist-saved-the-country.json](./221199-how-a-retired-strategist-saved-the-country.json) |
 | How About Spikes | 103417 | [103417-how-about-spikes.json](./103417-how-about-spikes.json) |
+| How Am I Still Waiting for the Bus? | 348468 | [348468-how-am-i-still-waiting-for-the-bus.json](./348468-how-am-i-still-waiting-for-the-bus.json) |
 | How Are You Doing? | 177496 | [177496-how-are-you-doing.json](./177496-how-are-you-doing.json) |
 | How Asian Parents went to School | 399104 | [399104-how-asian-parents-went-to-school.json](./399104-how-asian-parents-went-to-school.json) |
 | How did I get here? | 203399 | [203399-how-did-i-get-here.json](./203399-how-did-i-get-here.json) |
