@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karl Marx and the Ring of Communism | 217367 | [217367-karl-marx-and-the-ring-of-communism.json](./217367-karl-marx-and-the-ring-of-communism.json) |
 | Karl's Tiny Adventure | 58505 | [58505-karls-tiny-adventure.json](./58505-karls-tiny-adventure.json) |
 | Karless | 400867 | [400867-karless.json](./400867-karless.json) |
+| Karls Kavern | 348944 | [348944-karls-kavern.json](./348944-karls-kavern.json) |
 | Karlson | 129033 | [129033-karlson.json](./129033-karlson.json) |
 | Karlson64 | 175900 | [175900-karlson64.json](./175900-karlson64.json) |
 | Karm: Early Access Archives | 303605 | [303605-karm-early-access-archives.json](./303605-karm-early-access-archives.json) |
