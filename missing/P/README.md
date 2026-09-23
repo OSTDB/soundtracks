@@ -6191,6 +6191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push the Sheep | 193463 | [193463-push-the-sheep.json](./193463-push-the-sheep.json) |
 | Push the square | 375846 | [375846-push-the-square.json](./375846-push-the-square.json) |
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
+| Push to Win | 352394 | [352394-push-to-win.json](./352394-push-to-win.json) |
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
 | Push:Block | 118951 | [118951-push-block.json](./118951-push-block.json) |
 | Push'n Pull | 361740 | [361740-pushn-pull.json](./361740-pushn-pull.json) |
@@ -6223,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
 | Putrefier | 256824 | [256824-putrefier.json](./256824-putrefier.json) |
 | Putrid/Sharp | 404947 | [404947-putrid-sharp.json](./404947-putrid-sharp.json) |
+| Putrika 2nd.Cut: For the Exquisite Attire | 352368 | [352368-putrika-2nd-cut-for-the-exquisite-attire.json](./352368-putrika-2nd-cut-for-the-exquisite-attire.json) |
 | Putt Nutz | 59458 | [59458-putt-nutz.json](./59458-putt-nutz.json) |
 | Putt Putt Golf | 41311 | [41311-putt-putt-golf.json](./41311-putt-putt-golf.json) |
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
