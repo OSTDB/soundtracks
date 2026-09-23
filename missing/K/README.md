@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kong: The Animated Series | 49333 | [49333-kong-the-animated-series.json](./49333-kong-the-animated-series.json) |
 | Kongfu | 246465 | [246465-kongfu.json](./246465-kongfu.json) |
 | Kongo Kong | 62983 | [62983-kongo-kong.json](./62983-kongo-kong.json) |
+| Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
 | Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
 | KonMari Spark Joy! | 174292 | [174292-konmari-spark-joy.json](./174292-konmari-spark-joy.json) |
