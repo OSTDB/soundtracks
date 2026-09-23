@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
 | Vile | 111386 | [111386-vile.json](./111386-vile.json) |
 | Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
+| Villa Nocturne | 377796 | [377796-villa-nocturne.json](./377796-villa-nocturne.json) |
 | Village | 266295 | [266295-village.json](./266295-village.json) |
 | Village businessman | 159820 | [159820-village-businessman.json](./159820-village-businessman.json) |
 | Village City Island Sim Build | 104606 | [104606-village-city-island-sim-build.json](./104606-village-city-island-sim-build.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violence Fight | 39608 | [39608-violence-fight.json](./39608-violence-fight.json) |
 | Violent Agent | 189206 | [189206-violent-agent.json](./189206-violent-agent.json) |
 | Violent Cheese Crusader | 183531 | [183531-violent-cheese-crusader.json](./183531-violent-cheese-crusader.json) |
+| Violent Horror Stories 2 | 377849 | [377849-violent-horror-stories-2.json](./377849-violent-horror-stories-2.json) |
 | Violent Rush | 388216 | [388216-violent-rush.json](./388216-violent-rush.json) |
 | Violent Vectors | 68872 | [68872-violent-vectors.json](./68872-violent-vectors.json) |
 | Violent Vengeance: The Universe Hero | 365667 | [365667-violent-vengeance-the-universe-hero.json](./365667-violent-vengeance-the-universe-hero.json) |
