@@ -40,6 +40,36 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men Cartoon Maker | 130739 | [130739-x-men-cartoon-maker.json](./130739-x-men-cartoon-maker.json) |
 | X-Men Legends II: Rise of Apocalypse | 245310 | [245310-x-men-legends-ii-rise-of-apocalypse.json](./245310-x-men-legends-ii-rise-of-apocalypse.json) |
 | X-Men Origins: Wolverine | 573 | [573-x-men-origins-wolverine.json](./573-x-men-origins-wolverine.json) |
+| X-Men: 073 - Attack Mod: Teleportation | 363528 | [363528-x-men-073-attack-mod-teleportation.json](./363528-x-men-073-attack-mod-teleportation.json) |
+| X-Men: 074 - Defense Mod: Escape Artist | 363529 | [363529-x-men-074-defense-mod-escape-artist.json](./363529-x-men-074-defense-mod-escape-artist.json) |
+| X-Men: 075 - Attack Mod: Absorption | 363531 | [363531-x-men-075-attack-mod-absorption.json](./363531-x-men-075-attack-mod-absorption.json) |
+| X-Men: 076 - Defense Mod: Escape Flight | 363532 | [363532-x-men-076-defense-mod-escape-flight.json](./363532-x-men-076-defense-mod-escape-flight.json) |
+| X-Men: 077 - Attack Mod: Real McCoy | 363533 | [363533-x-men-077-attack-mod-real-mccoy.json](./363533-x-men-077-attack-mod-real-mccoy.json) |
+| X-Men: 078 - Defense Mod: Passive Aggression | 363534 | [363534-x-men-078-defense-mod-passive-aggression.json](./363534-x-men-078-defense-mod-passive-aggression.json) |
+| X-Men: 079 - Attack Mod: Power of Cyttorak | 363535 | [363535-x-men-079-attack-mod-power-of-cyttorak.json](./363535-x-men-079-attack-mod-power-of-cyttorak.json) |
+| X-Men: 080 - Defense Mod: Armored Helmet | 363536 | [363536-x-men-080-defense-mod-armored-helmet.json](./363536-x-men-080-defense-mod-armored-helmet.json) |
+| X-Men: 081 - Attack Mod: Amphibian Assault | 363537 | [363537-x-men-081-attack-mod-amphibian-assault.json](./363537-x-men-081-attack-mod-amphibian-assault.json) |
+| X-Men: 082 - Defense Mod: Goop Swoop | 363538 | [363538-x-men-082-defense-mod-goop-swoop.json](./363538-x-men-082-defense-mod-goop-swoop.json) |
+| X-Men: 083 - Attack Mod: Killer Instinct | 363539 | [363539-x-men-083-attack-mod-killer-instinct.json](./363539-x-men-083-attack-mod-killer-instinct.json) |
+| X-Men: 084 - Defense Mod: Rapid Recovery | 363540 | [363540-x-men-084-defense-mod-rapid-recovery.json](./363540-x-men-084-defense-mod-rapid-recovery.json) |
+| X-Men: 085 - Attack Mod: Chaos Magick | 363541 | [363541-x-men-085-attack-mod-chaos-magick.json](./363541-x-men-085-attack-mod-chaos-magick.json) |
+| X-Men: 086 - Defense Mod: Scarlet Leather | 363542 | [363542-x-men-086-defense-mod-scarlet-leather.json](./363542-x-men-086-defense-mod-scarlet-leather.json) |
+| X-Men: 087 - Attack Mod: Mutant Extermination | 363544 | [363544-x-men-087-attack-mod-mutant-extermination.json](./363544-x-men-087-attack-mod-mutant-extermination.json) |
+| X-Men: 088 - Defense Mod: Adaptive Mode | 363545 | [363545-x-men-088-defense-mod-adaptive-mode.json](./363545-x-men-088-defense-mod-adaptive-mode.json) |
+| X-Men: 089 - Finishing Move: 52 Card Slice | 363546 | [363546-x-men-089-finishing-move-52-card-slice.json](./363546-x-men-089-finishing-move-52-card-slice.json) |
+| X-Men: 090 - Finishing Move: Power Driver | 363548 | [363548-x-men-090-finishing-move-power-driver.json](./363548-x-men-090-finishing-move-power-driver.json) |
+| X-Men: 091 - Finishing Move: Tele-Driver Spin | 363549 | [363549-x-men-091-finishing-move-tele-driver-spin.json](./363549-x-men-091-finishing-move-tele-driver-spin.json) |
+| X-Men: 092 - Finishing Move: Total Drain | 363550 | [363550-x-men-092-finishing-move-total-drain.json](./363550-x-men-092-finishing-move-total-drain.json) |
+| X-Men: 093 - Finishing Move: Irresistible Force | 363551 | [363551-x-men-093-finishing-move-irresistible-force.json](./363551-x-men-093-finishing-move-irresistible-force.json) |
+| X-Men: 094 - Finishing Move: Head Crush | 363552 | [363552-x-men-094-finishing-move-head-crush.json](./363552-x-men-094-finishing-move-head-crush.json) |
+| X-Men: 095 - Finishing Move: Toxic Spew | 363553 | [363553-x-men-095-finishing-move-toxic-spew.json](./363553-x-men-095-finishing-move-toxic-spew.json) |
+| X-Men: 096 - Finishing Move: Throat-Rip | 363554 | [363554-x-men-096-finishing-move-throat-rip.json](./363554-x-men-096-finishing-move-throat-rip.json) |
+| X-Men: 097 - Finishing Move: Thermonuclear Holocaust | 363555 | [363555-x-men-097-finishing-move-thermonuclear-holocaust.json](./363555-x-men-097-finishing-move-thermonuclear-holocaust.json) |
+| X-Men: 098 - Finishing Move: Dead Man's Hands | 363556 | [363556-x-men-098-finishing-move-dead-mans-hands.json](./363556-x-men-098-finishing-move-dead-mans-hands.json) |
+| X-Men: 099 - Defense Mod: Super Shield | 363557 | [363557-x-men-099-defense-mod-super-shield.json](./363557-x-men-099-defense-mod-super-shield.json) |
+| X-Men: 100 - Defense Mod: Auto Jump | 363558 | [363558-x-men-100-defense-mod-auto-jump.json](./363558-x-men-100-defense-mod-auto-jump.json) |
+| X-Men: 101 - Attack Mod: Reflective Mode | 363559 | [363559-x-men-101-attack-mod-reflective-mode.json](./363559-x-men-101-attack-mod-reflective-mode.json) |
+| X-Men: 102 - Attack Mod: Super Speed | 363560 | [363560-x-men-102-attack-mod-super-speed.json](./363560-x-men-102-attack-mod-super-speed.json) |
 | X-Men: Battle of the Atom | 62782 | [62782-x-men-battle-of-the-atom.json](./62782-x-men-battle-of-the-atom.json) |
 | X-Men: Mind Games | 268483 | [268483-x-men-mind-games.json](./268483-x-men-mind-games.json) |
 | X-Men: Mutant Academy | 259648 | [259648-x-men-mutant-academy.json](./259648-x-men-mutant-academy.json) |
