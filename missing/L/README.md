@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life in the Machine | 189208 | [189208-life-in-the-machine.json](./189208-life-in-the-machine.json) |
 | Life in the Twilight | 239758 | [239758-life-in-the-twilight.json](./239758-life-in-the-twilight.json) |
 | Life In Yima | 144930 | [144930-life-in-yima.json](./144930-life-in-yima.json) |
+| Life Inc. | 389727 | [389727-life-inc.json](./389727-life-inc.json) |
 | Life Inside | 335357 | [335357-life-inside.json](./335357-life-inside.json) |
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
@@ -2353,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loca-Love: My Pure Priestess | 146302 | [146302-loca-love-my-pure-priestess.json](./146302-loca-love-my-pure-priestess.json) |
 | Local Network | 178019 | [178019-local-network.json](./178019-local-network.json) |
 | Local Paper Small Town | 195181 | [195181-local-paper-small-town.json](./195181-local-paper-small-town.json) |
+| Local Zombies | 389712 | [389712-local-zombies.json](./389712-local-zombies.json) |
 | Locator: The Search for Abigail Lidari | 257990 | [257990-locator-the-search-for-abigail-lidari.json](./257990-locator-the-search-for-abigail-lidari.json) |
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
 | Lock | 68655 | [68655-lock.json](./68655-lock.json) |
