@@ -1122,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
 | WeJam | 119678 | [119678-wejam.json](./119678-wejam.json) |
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
+| Welcome | 368669 | [368669-welcome.json](./368669-welcome.json) |
 | Welcome | 92277 | [92277-welcome.json](./92277-welcome.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weldon | 175888 | [175888-weldon.json](./175888-weldon.json) |
 | Welkin Road | 18684 | [18684-welkin-road.json](./18684-welkin-road.json) |
 | Well Dweller | 360075 | [360075-well-dweller.json](./360075-well-dweller.json) |
+| Well Keeper | 368649 | [368649-well-keeper.json](./368649-well-keeper.json) |
 | Well to Hell | 319214 | [319214-well-to-hell.json](./319214-well-to-hell.json) |
 | Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
 | Wells | 31298 | [31298-wells.json](./31298-wells.json) |
