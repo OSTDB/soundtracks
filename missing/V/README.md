@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuoso Skins Game | 391886 | [391886-virtuoso-skins-game.json](./391886-virtuoso-skins-game.json) |
 | Virus | 12812 | [12812-virus.json](./12812-virus.json) |
 | Virus 91 | 279092 | [279092-virus-91.json](./279092-virus-91.json) |
+| Virus Brain | 374294 | [374294-virus-brain.json](./374294-virus-brain.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
 | Virus ON | 160251 | [160251-virus-on.json](./160251-virus-on.json) |
