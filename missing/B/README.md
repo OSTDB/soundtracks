@@ -2873,7 +2873,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biorhythm | 78373 | [78373-biorhythm.json](./78373-biorhythm.json) |
 | Bios | 26575 | [26575-bios.json](./26575-bios.json) |
 | Bioshock & Borderlands: The Shooter Collection | 150642 | [150642-bioshock-and-borderlands-the-shooter-collection.json](./150642-bioshock-and-borderlands-the-shooter-collection.json) |
+| BioShock 2: Kill 'em Kindly | 374311 | [374311-bioshock-2-kill-em-kindly.json](./374311-bioshock-2-kill-em-kindly.json) |
 | Bioshock 2: Rapture Edition | 44571 | [44571-bioshock-2-rapture-edition.json](./44571-bioshock-2-rapture-edition.json) |
+| BioShock 2: Rapture Metro Pack | 374312 | [374312-bioshock-2-rapture-metro-pack.json](./374312-bioshock-2-rapture-metro-pack.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioShock Infinite: Ultimate Songbird Edition | 41598 | [41598-bioshock-infinite-ultimate-songbird-edition.json](./41598-bioshock-infinite-ultimate-songbird-edition.json) |
 | BioShock: Limited Edition | 142228 | [142228-bioshock-limited-edition.json](./142228-bioshock-limited-edition.json) |
@@ -3475,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Dragons | 45514 | [45514-blazing-dragons.json](./45514-blazing-dragons.json) |
 | Blazing Dynamo | 209493 | [209493-blazing-dynamo.json](./209493-blazing-dynamo.json) |
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
+| Blazing Maidens | 374309 | [374309-blazing-maidens.json](./374309-blazing-maidens.json) |
 | Blazing Sails | 114776 | [114776-blazing-sails.json](./114776-blazing-sails.json) |
 | Blazing Snake | 257372 | [257372-blazing-snake.json](./257372-blazing-snake.json) |
 | Blazing Snow | 142418 | [142418-blazing-snow.json](./142418-blazing-snow.json) |
@@ -5477,6 +5480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink | 502 | [502-brink.json](./502-brink.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
 | Brink: Agents of Change | 164366 | [164366-brink-agents-of-change.json](./164366-brink-agents-of-change.json) |
+| Brio World: Railway | 374257 | [374257-brio-world-railway.json](./374257-brio-world-railway.json) |
 | Briquette Sprite | 87105 | [87105-briquette-sprite.json](./87105-briquette-sprite.json) |
 | Briscola | 100011 | [100011-briscola.json](./100011-briscola.json) |
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
@@ -5808,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buff Knight Advanced | 34864 | [34864-buff-knight-advanced.json](./34864-buff-knight-advanced.json) |
 | Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
+| Bufo Merge | 374283 | [374283-bufo-merge.json](./374283-bufo-merge.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
