@@ -3588,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Places: Regained Castle | 81630 | [81630-forgotten-places-regained-castle.json](./81630-forgotten-places-regained-castle.json) |
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
 | Forgotten Possessions | 392775 | [392775-forgotten-possessions.json](./392775-forgotten-possessions.json) |
+| Forgotten Realms: Demon Stone | 356895 | [356895-forgotten-realms-demon-stone.json](./356895-forgotten-realms-demon-stone.json) |
 | Forgotten Realms: Hillsfar | 195752 | [195752-forgotten-realms-hillsfar.json](./195752-forgotten-realms-hillsfar.json) |
 | Forgotten Riddles: The Mayan Princess | 209562 | [209562-forgotten-riddles-the-mayan-princess.json](./209562-forgotten-riddles-the-mayan-princess.json) |
 | Forgotten Roads | 262940 | [262940-forgotten-roads.json](./262940-forgotten-roads.json) |
