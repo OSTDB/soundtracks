@@ -4190,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob and the Alien Fire Flies | 304224 | [304224-bob-and-the-alien-fire-flies.json](./304224-bob-and-the-alien-fire-flies.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
+| Bob Don't Sleep! | 369201 | [369201-bob-dont-sleep.json](./369201-bob-dont-sleep.json) |
 | Bob et Bobette: Les Dompteurs du Temps | 93967 | [93967-bob-et-bobette-les-dompteurs-du-temps.json](./93967-bob-et-bobette-les-dompteurs-du-temps.json) |
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
 | Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
@@ -5024,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BQM: BlockQuest Maker - 2nd DLC: Cyber Century | 237969 | [237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json](./237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json) |
 | BQM: BlockQuest Maker - Remastered | 235208 | [235208-bqm-blockquest-maker-remastered.json](./235208-bqm-blockquest-maker-remastered.json) |
 | Br Br Patapim | 351091 | [351091-br-br-patapim.json](./351091-br-br-patapim.json) |
+| BR Logic Pack | 369233 | [369233-br-logic-pack.json](./369233-br-logic-pack.json) |
 | BR1: Infinite | 194433 | [194433-br1-infinite.json](./194433-br1-infinite.json) |
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
@@ -6390,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BVOVB: Bruising Vengeance of the Vintage Boxer | 55125 | [55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json](./55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json) |
 | Bvrger Van | 105138 | [105138-bvrger-van.json](./105138-bvrger-van.json) |
 | BVS Solitaire Collection | 93360 | [93360-bvs-solitaire-collection.json](./93360-bvs-solitaire-collection.json) |
+| By Bait or By Bullet | 369238 | [369238-by-bait-or-by-bullet.json](./369238-by-bait-or-by-bullet.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
 | By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
 | By Sword & Road | 394371 | [394371-by-sword-and-road.json](./394371-by-sword-and-road.json) |
