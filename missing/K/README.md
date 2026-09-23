@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Warrior Simulator | 351711 | [351711-keyboard-warrior-simulator.json](./351711-keyboard-warrior-simulator.json) |
 | Keyboard Warrior Stickman: Typing Beat Em Up | 413773 | [413773-keyboard-warrior-stickman-typing-beat-em-up.json](./413773-keyboard-warrior-stickman-typing-beat-em-up.json) |
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
+| Keybort | 389700 | [389700-keybort.json](./389700-keybort.json) |
 | Keyfall | 217375 | [217375-keyfall.json](./217375-keyfall.json) |
 | KeyFortress | 406294 | [406294-keyfortress.json](./406294-keyfortress.json) |
 | Keyg | 108385 | [108385-keyg.json](./108385-keyg.json) |
@@ -1158,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Re:Chain of Memories | 214986 | [214986-kingdom-hearts-re-chain-of-memories.json](./214986-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
+| Kingdom Heroes | 389713 | [389713-kingdom-heroes.json](./389713-kingdom-heroes.json) |
 | Kingdom Heroes 8 | 143523 | [143523-kingdom-heroes-8.json](./143523-kingdom-heroes-8.json) |
 | Kingdom Idle Heart | 272872 | [272872-kingdom-idle-heart.json](./272872-kingdom-idle-heart.json) |
 | Kingdom II: Shadoan | 45920 | [45920-kingdom-ii-shadoan.json](./45920-kingdom-ii-shadoan.json) |
