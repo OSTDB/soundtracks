@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Visit | 103446 | [103446-dark-visit.json](./103446-dark-visit.json) |
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
 | Dark War | 30813 | [30813-dark-war.json](./30813-dark-war.json) |
+| Dark Watching: Chapter 1 | 383633 | [383633-dark-watching-chapter-1.json](./383633-dark-watching-chapter-1.json) |
 | Dark Wave | 104480 | [104480-dark-wave.json](./104480-dark-wave.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Witch Music Episode: Rudymical | 28520 | [28520-dark-witch-music-episode-rudymical.json](./28520-dark-witch-music-episode-rudymical.json) |
@@ -1310,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Trash: Operation - Yellow Snow | 380557 | [380557-dead-trash-operation-yellow-snow.json](./380557-dead-trash-operation-yellow-snow.json) |
 | Dead Trigger | 36747 | [36747-dead-trigger.json](./36747-dead-trigger.json) |
 | Dead Trigger 2 | 36748 | [36748-dead-trigger-2.json](./36748-dead-trigger-2.json) |
+| Dead Trust | 383614 | [383614-dead-trust.json](./383614-dead-trust.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
 | Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
@@ -2256,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha Unten Shirei! Tokyo-wan-hen | 221738 | [221738-densha-unten-shirei-tokyo-wan-hen.json](./221738-densha-unten-shirei-tokyo-wan-hen.json) |
 | Denshi Life 2 | 331876 | [331876-denshi-life-2.json](./331876-denshi-life-2.json) |
 | Denshi Maid Techou: Koi no Iroha | 59403 | [59403-denshi-maid-techou-koi-no-iroha.json](./59403-denshi-maid-techou-koi-no-iroha.json) |
+| Densou Tenshi Valforce | 383622 | [383622-densou-tenshi-valforce.json](./383622-densou-tenshi-valforce.json) |
 | Dental Madness: Cavity Mania | 166758 | [166758-dental-madness-cavity-mania.json](./166758-dental-madness-cavity-mania.json) |
 | Dental Strike | 290699 | [290699-dental-strike.json](./290699-dental-strike.json) |
 | Dentist Bling: Complete Edition | 294832 | [294832-dentist-bling-complete-edition.json](./294832-dentist-bling-complete-edition.json) |
@@ -4125,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
 | Domino Draw | 271270 | [271270-domino-draw.json](./271270-domino-draw.json) |
 | Domino Effect | 81766 | [81766-domino-effect.json](./81766-domino-effect.json) |
+| Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
 | Domino Merged Puzzle | 252154 | [252154-domino-merged-puzzle.json](./252154-domino-merged-puzzle.json) |
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
@@ -4459,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: The Golden Souls Remastered | 198349 | [198349-doom-the-golden-souls-remastered.json](./198349-doom-the-golden-souls-remastered.json) |
 | Doom: Unto the Evil | 22431 | [22431-doom-unto-the-evil.json](./22431-doom-unto-the-evil.json) |
 | Doomblade | 114004 | [114004-doomblade.json](./114004-doomblade.json) |
+| DoomBus | 383650 | [383650-doombus.json](./383650-doombus.json) |
 | Doomclock | 346677 | [346677-doomclock.json](./346677-doomclock.json) |
 | Doomdark's Revenge | 12992 | [12992-doomdarks-revenge.json](./12992-doomdarks-revenge.json) |
 | Doomdark's Revenge | 197761 | [197761-doomdarks-revenge.json](./197761-doomdarks-revenge.json) |
@@ -4494,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomworld Roulette: Session 1 | 312908 | [312908-doomworld-roulette-session-1.json](./312908-doomworld-roulette-session-1.json) |
 | Doomworld Roulette: Session 2 | 312909 | [312909-doomworld-roulette-session-2.json](./312909-doomworld-roulette-session-2.json) |
 | Doon Snake | 87218 | [87218-doon-snake.json](./87218-doon-snake.json) |
+| Dooors 3 | 383640 | [383640-dooors-3.json](./383640-dooors-3.json) |
 | Dooors VR | 29947 | [29947-dooors-vr.json](./29947-dooors-vr.json) |
 | Door | 103457 | [103457-door.json](./103457-door.json) |
 | Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
