@@ -372,6 +372,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic & Empire | 97380 | [97380-magic-and-empire.json](./97380-magic-and-empire.json) |
 | Magic & Mayhem: The Art of Magic | 70956 | [70956-magic-and-mayhem-the-art-of-magic.json](./70956-magic-and-mayhem-the-art-of-magic.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
+| Magic 2014: Duels of the Planeswalkers - Deck Pack 1 | 362458 | [362458-magic-2014-duels-of-the-planeswalkers-deck-pack-1.json](./362458-magic-2014-duels-of-the-planeswalkers-deck-pack-1.json) |
+| Magic 2014: Duels of the Planeswalkers - Deck Pack 2 | 362459 | [362459-magic-2014-duels-of-the-planeswalkers-deck-pack-2.json](./362459-magic-2014-duels-of-the-planeswalkers-deck-pack-2.json) |
+| Magic 2014: Duels of the Planeswalkers - Deck Pack 3 | 362460 | [362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json](./362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json) |
+| Magic 2014: Duels of the Planeswalkers - Expansion | 362457 | [362457-magic-2014-duels-of-the-planeswalkers-expansion.json](./362457-magic-2014-duels-of-the-planeswalkers-expansion.json) |
 | Magic Academy | 311117 | [311117-magic-academy.json](./311117-magic-academy.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
@@ -513,8 +517,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: ManaStrike | 125270 | [125270-magic-manastrike.json](./125270-magic-manastrike.json) |
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
+| Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 1 | 362462 | [362462-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-1.json](./362462-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-1.json) |
+| Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 2 | 362463 | [362463-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-2.json](./362463-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-2.json) |
+| Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 3 | 362464 | [362464-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-3.json](./362464-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-3.json) |
+| Magic: The Gathering - Duels of the Planeswalkers 2012: Expansion | 362461 | [362461-magic-the-gathering-duels-of-the-planeswalkers-2012-expansion.json](./362461-magic-the-gathering-duels-of-the-planeswalkers-2012-expansion.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2013 | 1891 | [1891-magic-the-gathering-duels-of-the-planeswalkers-2013.json](./1891-magic-the-gathering-duels-of-the-planeswalkers-2013.json) |
+| Magic: The Gathering - Duels of the Planeswalkers 2013: Deck Pack 1 | 362452 | [362452-magic-the-gathering-duels-of-the-planeswalkers-2013-deck-pack-1.json](./362452-magic-the-gathering-duels-of-the-planeswalkers-2013-deck-pack-1.json) |
+| Magic: The Gathering - Duels of the Planeswalkers 2013: Deck Pack 2 | 362453 | [362453-magic-the-gathering-duels-of-the-planeswalkers-2013-deck-pack-2.json](./362453-magic-the-gathering-duels-of-the-planeswalkers-2013-deck-pack-2.json) |
+| Magic: The Gathering - Duels of the Planeswalkers 2013: Deck Pack 3 | 362454 | [362454-magic-the-gathering-duels-of-the-planeswalkers-2013-deck-pack-3.json](./362454-magic-the-gathering-duels-of-the-planeswalkers-2013-deck-pack-3.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2015 | 18218 | [18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json](./18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json) |
+| Magic: The Gathering - Duels of the Planeswalkers 2015: Garruk's Revenge | 362456 | [362456-magic-the-gathering-duels-of-the-planeswalkers-2015-garruks-revenge.json](./362456-magic-the-gathering-duels-of-the-planeswalkers-2015-garruks-revenge.json) |
+| Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack One | 362465 | [362465-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-one.json](./362465-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-one.json) |
+| Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Three | 362467 | [362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json](./362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json) |
+| Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Two | 362466 | [362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json](./362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json) |
 | Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
@@ -7335,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
 | Mylk | 146830 | [146830-mylk.json](./146830-mylk.json) |
 | Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
+| Myopia | 362445 | [362445-myopia.json](./362445-myopia.json) |
 | Myosotis | 362891 | [362891-myosotis.json](./362891-myosotis.json) |
 | MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
 | Mýrdalssandur, Iceland | 130176 | [130176-myrdalssandur-iceland.json](./130176-myrdalssandur-iceland.json) |
