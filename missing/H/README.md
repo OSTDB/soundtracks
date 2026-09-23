@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
 | Hangman | 259633 | [259633-hangman.json](./259633-hangman.json) |
 | Hangman | 327217 | [327217-hangman.json](./327217-hangman.json) |
+| Hangman | 377831 | [377831-hangman.json](./377831-hangman.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
 | Hangman: Fun Word Game | 89236 | [89236-hangman-fun-word-game.json](./89236-hangman-fun-word-game.json) |
 | Hangman's Revenge | 67973 | [67973-hangmans-revenge.json](./67973-hangmans-revenge.json) |
@@ -3640,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi no Ouji-sama | 368555 | [368555-hoshi-no-ouji-sama.json](./368555-hoshi-no-ouji-sama.json) |
 | Hoshi Ori Yume Mirai: Rikka to Anata no 1-Shuunen Kinen, Icha Love Birthday | 408145 | [408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json](./408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json) |
 | Hoshi Saga 6: Ringoen | 377712 | [377712-hoshi-saga-6-ringoen.json](./377712-hoshi-saga-6-ringoen.json) |
+| Hoshi Saga 8: Dokuringo | 377800 | [377800-hoshi-saga-8-dokuringo.json](./377800-hoshi-saga-8-dokuringo.json) |
 | Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
 | Hoshizora no Comic Garden | 70660 | [70660-hoshizora-no-comic-garden.json](./70660-hoshizora-no-comic-garden.json) |
@@ -4115,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Baseball | 38342 | [38342-human-baseball.json](./38342-human-baseball.json) |
 | Human Bowling | 283270 | [283270-human-bowling.json](./283270-human-bowling.json) |
 | Human Cargo | 194449 | [194449-human-cargo.json](./194449-human-cargo.json) |
+| Human Construction Site | 377803 | [377803-human-construction-site.json](./377803-human-construction-site.json) |
 | Human Defense | 22274 | [22274-human-defense.json](./22274-human-defense.json) |
 | Human Diaspora | 142253 | [142253-human-diaspora.json](./142253-human-diaspora.json) |
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
