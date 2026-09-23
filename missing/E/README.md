@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
 | Eclipse: Fall - Kami no Danzai | 379353 | [379353-eclipse-fall-kami-no-danzai.json](./379353-eclipse-fall-kami-no-danzai.json) |
 | Eclipse: Special Forces | 345002 | [345002-eclipse-special-forces.json](./345002-eclipse-special-forces.json) |
+| Eclipsic | 341111 | [341111-eclipsic.json](./341111-eclipsic.json) |
 | Ecliptic | 337151 | [337151-ecliptic.json](./337151-ecliptic.json) |
 | Eco City | 397760 | [397760-eco-city.json](./397760-eco-city.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
@@ -460,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edna & Harvey: The Breakout - 10th Anniversary Edition | 107173 | [107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json](./107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json) |
 | Edna: Out of Sight, Out of Control | 210676 | [210676-edna-out-of-sight-out-of-control.json](./210676-edna-out-of-sight-out-of-control.json) |
 | Ednaldo Pereira: Mescladasso | 143501 | [143501-ednaldo-pereira-mescladasso.json](./143501-ednaldo-pereira-mescladasso.json) |
+| Ednoka | 341120 | [341120-ednoka.json](./341120-ednoka.json) |
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
@@ -850,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevatrix | 316408 | [316408-elevatrix.json](./316408-elevatrix.json) |
 | Eleven Beat World Tournament | 299780 | [299780-eleven-beat-world-tournament.json](./299780-eleven-beat-world-tournament.json) |
 | Eleven Eleven | 118433 | [118433-eleven-eleven.json](./118433-eleven-eleven.json) |
+| Eleven Pickleball | 341121 | [341121-eleven-pickleball.json](./341121-eleven-pickleball.json) |
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
 | Eleventh: Unsacred | 255165 | [255165-eleventh-unsacred.json](./255165-eleventh-unsacred.json) |
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
