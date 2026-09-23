@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
 | Zugya | 264070 | [264070-zugya.json](./264070-zugya.json) |
 | Zuìhòu de Xiūxiānzhě | 375416 | [375416-zuihou-de-xiuxianzhe.json](./375416-zuihou-de-xiuxianzhe.json) |
+| Zulu | 365287 | [365287-zulu.json](./365287-zulu.json) |
 | Zulup | 129021 | [129021-zulup.json](./129021-zulup.json) |
 | Zuma Girls | 369564 | [369564-zuma-girls.json](./369564-zuma-girls.json) |
 | Zumania: Magic Casual Puzzle | 175813 | [175813-zumania-magic-casual-puzzle.json](./175813-zumania-magic-casual-puzzle.json) |
