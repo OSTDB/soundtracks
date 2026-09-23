@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of a Dead Earth | 25221 | [25221-children-of-a-dead-earth.json](./25221-children-of-a-dead-earth.json) |
 | Children of Apollo | 55526 | [55526-children-of-apollo.json](./55526-children-of-apollo.json) |
 | Children of Birch | 391213 | [391213-children-of-birch.json](./391213-children-of-birch.json) |
+| Children of Mare | 347344 | [347344-children-of-mare.json](./347344-children-of-mare.json) |
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
 | Children of Silentown | 121016 | [121016-children-of-silentown.json](./121016-children-of-silentown.json) |
@@ -2954,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronology: Deluxe Edition | 257371 | [257371-chronology-deluxe-edition.json](./257371-chronology-deluxe-edition.json) |
 | Chronomancy: Watchmaker's Curse | 184504 | [184504-chronomancy-watchmakers-curse.json](./184504-chronomancy-watchmakers-curse.json) |
 | Chronomina | 185620 | [185620-chronomina.json](./185620-chronomina.json) |
+| Chronominion Idler | 347358 | [347358-chronominion-idler.json](./347358-chronominion-idler.json) |
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
 | Chronophobia | 122341 | [122341-chronophobia.json](./122341-chronophobia.json) |
 | Chronophoto | 237530 | [237530-chronophoto.json](./237530-chronophoto.json) |
@@ -3721,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
 | Clown House | 90599 | [90599-clown-house.json](./90599-clown-house.json) |
 | Clown House: Lunacy | 381610 | [381610-clown-house-lunacy.json](./381610-clown-house-lunacy.json) |
+| Clown Is Hungry | 346783 | [346783-clown-is-hungry.json](./346783-clown-is-hungry.json) |
 | Clown Nightmare, Satan's Joke | 130175 | [130175-clown-nightmare-satans-joke.json](./130175-clown-nightmare-satans-joke.json) |
 | Clown2Beat | 30828 | [30828-clown2beat.json](./30828-clown2beat.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
@@ -3975,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin & Cauldron | 391618 | [391618-coin-and-cauldron.json](./391618-coin-and-cauldron.json) |
 | Coin Collection Challenge | 379904 | [379904-coin-collection-challenge.json](./379904-coin-collection-challenge.json) |
 | Coin Commander | 128349 | [128349-coin-commander.json](./128349-coin-commander.json) |
+| Coin Counter | 346794 | [346794-coin-counter.json](./346794-coin-counter.json) |
 | Coin Crypt | 14570 | [14570-coin-crypt.json](./14570-coin-crypt.json) |
 | Coin Dash | 149414 | [149414-coin-dash.json](./149414-coin-dash.json) |
 | Coin Drop | 58196 | [58196-coin-drop.json](./58196-coin-drop.json) |
@@ -6751,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Link | 51966 | [51966-cube-link.json](./51966-cube-link.json) |
 | Cube Master | 13708 | [13708-cube-master.json](./13708-cube-master.json) |
 | Cube Matching King | 108495 | [108495-cube-matching-king.json](./108495-cube-matching-king.json) |
+| Cube Mind | 346750 | [346750-cube-mind.json](./346750-cube-mind.json) |
 | Cube Mission | 113723 | [113723-cube-mission.json](./113723-cube-mission.json) |
 | Cube Monster | 74389 | [74389-cube-monster.json](./74389-cube-monster.json) |
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
