@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launch The Baby | 246413 | [246413-launch-the-baby.json](./246413-launch-the-baby.json) |
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
 | Launcher Heroes | 236817 | [236817-launcher-heroes.json](./236817-launcher-heroes.json) |
+| Launderley | 374304 | [374304-launderley.json](./374304-launderley.json) |
 | Laundro-Mess | 185551 | [185551-laundro-mess.json](./185551-laundro-mess.json) |
 | Laundromat 8 | 414615 | [414615-laundromat-8.json](./414615-laundromat-8.json) |
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Yashiyu 4 | 173774 | [173774-legend-of-yashiyu-4.json](./173774-legend-of-yashiyu-4.json) |
 | Legend of You | 163843 | [163843-legend-of-you.json](./163843-legend-of-you.json) |
 | Legend of Zelda: The Dual Mage | 323891 | [323891-legend-of-zelda-the-dual-mage.json](./323891-legend-of-zelda-the-dual-mage.json) |
+| Legend Sang 1 | 374264 | [374264-legend-sang-1.json](./374264-legend-sang-1.json) |
 | Legend's Duty: The Rifted World | 397265 | [397265-legends-duty-the-rifted-world.json](./397265-legends-duty-the-rifted-world.json) |
 | Legendary | 7049 | [7049-legendary.json](./7049-legendary.json) |
 | Legendary Arcane 2 Universe | 129750 | [129750-legendary-arcane-2-universe.json](./129750-legendary-arcane-2-universe.json) |
@@ -1226,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
 | Leonardo | 133430 | [133430-leonardo.json](./133430-leonardo.json) |
 | Leonardo's Cat | 175398 | [175398-leonardos-cat.json](./175398-leonardos-cat.json) |
+| Leonidov | 374277 | [374277-leonidov.json](./374277-leonidov.json) |
 | Leopoldo Manquiseil | 110789 | [110789-leopoldo-manquiseil.json](./110789-leopoldo-manquiseil.json) |
 | Leowald | 116106 | [116106-leowald.json](./116106-leowald.json) |
 | Lep's World | 59915 | [59915-leps-world.json](./59915-leps-world.json) |
@@ -3593,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyric Sonata | 107248 | [107248-lyric-sonata.json](./107248-lyric-sonata.json) |
 | Lyrica & Lyrica 2 Stars Align | 152914 | [152914-lyrica-and-lyrica-2-stars-align.json](./152914-lyrica-and-lyrica-2-stars-align.json) |
 | Lyrica 2 Stars Align | 152913 | [152913-lyrica-2-stars-align.json](./152913-lyrica-2-stars-align.json) |
+| Lyrvane Park | 374291 | [374291-lyrvane-park.json](./374291-lyrvane-park.json) |
 | Lys and Ruka's Magical Bag | 206202 | [206202-lys-and-rukas-magical-bag.json](./206202-lys-and-rukas-magical-bag.json) |
 | Lysium: Stardiver | 314505 | [314505-lysium-stardiver.json](./314505-lysium-stardiver.json) |
 | Lyssa | 260122 | [260122-lyssa.json](./260122-lyssa.json) |
