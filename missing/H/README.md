@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting Starring Polterguy | 8100 | [8100-haunting-starring-polterguy.json](./8100-haunting-starring-polterguy.json) |
 | Haunting: The Rosefield Manor | 318994 | [318994-haunting-the-rosefield-manor.json](./318994-haunting-the-rosefield-manor.json) |
 | Hauntrick | 334176 | [334176-hauntrick.json](./334176-hauntrick.json) |
+| Hauntsgiving | 341129 | [341129-hauntsgiving.json](./341129-hauntsgiving.json) |
 | Hauntworks | 410264 | [410264-hauntworks.json](./410264-hauntworks.json) |
 | Haus | 377074 | [377074-haus.json](./377074-haus.json) |
 | Hausmeister | 207313 | [207313-hausmeister.json](./207313-hausmeister.json) |
