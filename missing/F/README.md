@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Land: Gold Edition | 385198 | [385198-farm-land-gold-edition.json](./385198-farm-land-gold-edition.json) |
 | Farm Life | 381011 | [381011-farm-life.json](./381011-farm-life.json) |
 | Farm Life: Natures Adventure | 31804 | [31804-farm-life-natures-adventure.json](./31804-farm-life-natures-adventure.json) |
+| Farm Love Legend: Transform your Animals into Anime Girls | 380709 | [380709-farm-love-legend-transform-your-animals-into-anime-girls.json](./380709-farm-love-legend-transform-your-animals-into-anime-girls.json) |
 | Farm Manager 2018 | 55308 | [55308-farm-manager-2018.json](./55308-farm-manager-2018.json) |
 | Farm Manager 2021 | 139459 | [139459-farm-manager-2021.json](./139459-farm-manager-2021.json) |
 | Farm Manager 2021: Agrotourism | 187436 | [187436-farm-manager-2021-agrotourism.json](./187436-farm-manager-2021-agrotourism.json) |
@@ -1561,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Crab | 90231 | [90231-fight-crab.json](./90231-fight-crab.json) |
 | Fight Crab 2 | 265211 | [265211-fight-crab-2.json](./265211-fight-crab-2.json) |
 | Fight Fever | 39553 | [39553-fight-fever.json](./39553-fight-fever.json) |
+| Fight For America | 380698 | [380698-fight-for-america.json](./380698-fight-for-america.json) |
 | Fight For America: Complete Edition | 385199 | [385199-fight-for-america-complete-edition.json](./385199-fight-for-america-complete-edition.json) |
 | Fight For America: Country War | 245344 | [245344-fight-for-america-country-war.json](./245344-fight-for-america-country-war.json) |
 | Fight For America: Hot Edition | 395678 | [395678-fight-for-america-hot-edition.json](./395678-fight-for-america-hot-edition.json) |
@@ -3269,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 26 | 365487 | [365487-football-manager-26.json](./365487-football-manager-26.json) |
 | Football Manager Handheld 2010 | 52218 | [52218-football-manager-handheld-2010.json](./52218-football-manager-handheld-2010.json) |
 | Football Manager Handheld 2013 | 42867 | [42867-football-manager-handheld-2013.json](./42867-football-manager-handheld-2013.json) |
+| Football Manager Handheld 2015 | 380663 | [380663-football-manager-handheld-2015.json](./380663-football-manager-handheld-2015.json) |
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Manager: World Cup Edition | 41003 | [41003-football-manager-world-cup-edition.json](./41003-football-manager-world-cup-edition.json) |
@@ -3541,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Simulator 2023 | 255158 | [255158-forklift-simulator-2023.json](./255158-forklift-simulator-2023.json) |
 | Forklift Simulator 2024 | 283729 | [283729-forklift-simulator-2024.json](./283729-forklift-simulator-2024.json) |
 | Forklore | 196803 | [196803-forklore.json](./196803-forklore.json) |
+| Forks & Daggers | 380676 | [380676-forks-and-daggers.json](./380676-forks-and-daggers.json) |
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
 | Forlorn Memories | 214761 | [214761-forlorn-memories.json](./214761-forlorn-memories.json) |
 | Forlorn Outcast | 260226 | [260226-forlorn-outcast.json](./260226-forlorn-outcast.json) |
@@ -3740,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 6: Welcome Pack | 401829 | [401829-forza-horizon-6-welcome-pack.json](./401829-forza-horizon-6-welcome-pack.json) |
 | Forza Horizon: Limited Collector's Edition | 41594 | [41594-forza-horizon-limited-collectors-edition.json](./41594-forza-horizon-limited-collectors-edition.json) |
 | Forza Motorsport | 3073 | [3073-forza-motorsport.json](./3073-forza-motorsport.json) |
+| Forza Motorsport 2: The Complete Collection | 380672 | [380672-forza-motorsport-2-the-complete-collection.json](./380672-forza-motorsport-2-the-complete-collection.json) |
 | Forza Motorsport 2018 Mercedes-AMG GT3 | 278521 | [278521-forza-motorsport-2018-mercedes-amg-gt3.json](./278521-forza-motorsport-2018-mercedes-amg-gt3.json) |
 | Forza Motorsport 4 | 3068 | [3068-forza-motorsport-4.json](./3068-forza-motorsport-4.json) |
 | Forza Motorsport 4: Limited Collector's Edition | 41600 | [41600-forza-motorsport-4-limited-collectors-edition.json](./41600-forza-motorsport-4-limited-collectors-edition.json) |
@@ -3815,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourfit | 92983 | [92983-fourfit.json](./92983-fourfit.json) |
 | FourFourTwo Touchline Passion | 68711 | [68711-fourfourtwo-touchline-passion.json](./68711-fourfourtwo-touchline-passion.json) |
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
+| Fourteen Years of Flames | 380664 | [380664-fourteen-years-of-flames.json](./380664-fourteen-years-of-flames.json) |
 | Fourth Space | 119564 | [119564-fourth-space.json](./119564-fourth-space.json) |
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
@@ -4445,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frosted Love | 327402 | [327402-frosted-love.json](./327402-frosted-love.json) |
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
 | Frostliner | 358967 | [358967-frostliner.json](./358967-frostliner.json) |
+| Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
 | Frostpoint VR: Proving Grounds | 139228 | [139228-frostpoint-vr-proving-grounds.json](./139228-frostpoint-vr-proving-grounds.json) |
 | Frostpunk: Console Edition | 117420 | [117420-frostpunk-console-edition.json](./117420-frostpunk-console-edition.json) |
 | Frostpunk: The Fall of Winterhome | 109637 | [109637-frostpunk-the-fall-of-winterhome.json](./109637-frostpunk-the-fall-of-winterhome.json) |
@@ -4961,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Eleven | 62221 | [62221-fx-eleven.json](./62221-fx-eleven.json) |
 | FX Fighter Turbo | 68982 | [68982-fx-fighter-turbo.json](./68982-fx-fighter-turbo.json) |
 | FX Football | 9788 | [9788-fx-football.json](./9788-fx-football.json) |
+| FX Racer | 380682 | [380682-fx-racer.json](./380682-fx-racer.json) |
 | Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
 | Fyrardien | 384525 | [384525-fyrardien.json](./384525-fyrardien.json) |
 | FZDDR | 406700 | [406700-fzddr.json](./406700-fzddr.json) |
