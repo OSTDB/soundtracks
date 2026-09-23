@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate of Mobius | 200751 | [200751-gate-of-mobius.json](./200751-gate-of-mobius.json) |
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
 | Gate to Die | 412500 | [412500-gate-to-die.json](./412500-gate-to-die.json) |
+| Gate Warfare | 367602 | [367602-gate-warfare.json](./367602-gate-warfare.json) |
 | Gate World | 46649 | [46649-gate-world.json](./46649-gate-world.json) |
 | Gate2up | 377089 | [377089-gate2up.json](./377089-gate2up.json) |
 | Gatecrasher | 207840 | [207840-gatecrasher.json](./207840-gatecrasher.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire: Heralds of the Winged Exemplar | 43487 | [43487-grimoire-heralds-of-the-winged-exemplar.json](./43487-grimoire-heralds-of-the-winged-exemplar.json) |
 | Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
 | Grimorium | 392292 | [392292-grimorium.json](./392292-grimorium.json) |
+| GrimRail | 367612 | [367612-grimrail.json](./367612-grimrail.json) |
 | Grimshade | 102199 | [102199-grimshade.json](./102199-grimshade.json) |
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
 | Grimsonland | 112765 | [112765-grimsonland.json](./112765-grimsonland.json) |
