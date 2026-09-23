@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka: The Watchtower | 50815 | [50815-magicka-the-watchtower.json](./50815-magicka-the-watchtower.json) |
 | Magicka: Wizard's Survival Kit | 50820 | [50820-magicka-wizards-survival-kit.json](./50820-magicka-wizards-survival-kit.json) |
 | Magicland Dizzy | 12182 | [12182-magicland-dizzy.json](./12182-magicland-dizzy.json) |
+| Magiclean | 391321 | [391321-magiclean.json](./391321-magiclean.json) |
 | Magicliment | 261260 | [261260-magicliment.json](./261260-magicliment.json) |
 | Magicmaker | 8865 | [8865-magicmaker.json](./8865-magicmaker.json) |
 | Magicolor TD | 280173 | [280173-magicolor-td.json](./280173-magicolor-td.json) |
