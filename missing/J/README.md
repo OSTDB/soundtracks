@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Virtual Stadium '95 | 37200 | [37200-j-league-virtual-stadium-95.json](./37200-j-league-virtual-stadium-95.json) |
 | J.R.R. Tolkien's The Lord of the Rings, Vol. I | 137042 | [137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json](./137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json) |
 | J'ai Trouvé! Le Manoir Hanté | 140600 | [140600-jai-trouve-le-manoir-hante.json](./140600-jai-trouve-le-manoir-hante.json) |
+| J's Racin' | 381863 | [381863-js-racin.json](./381863-js-racin.json) |
 | J3ss1c4 | 265666 | [265666-j3ss1c4.json](./265666-j3ss1c4.json) |
 | J8 Hero | 370761 | [370761-j8-hero.json](./370761-j8-hero.json) |
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
