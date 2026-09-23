@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive | 2200 | [2200-test-drive.json](./2200-test-drive.json) |
 | Test Drive 2001 | 49876 | [49876-test-drive-2001.json](./49876-test-drive-2001.json) |
 | Test Drive 4 | 78297 | [78297-test-drive-4.json](./78297-test-drive-4.json) |
+| Test Drive 6 | 370310 | [370310-test-drive-6.json](./370310-test-drive-6.json) |
 | Test Drive Cycles | 49906 | [49906-test-drive-cycles.json](./49906-test-drive-cycles.json) |
 | Test Drive II: The Collection | 140039 | [140039-test-drive-ii-the-collection.json](./140039-test-drive-ii-the-collection.json) |
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
@@ -2329,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia | 57153 | [57153-the-battle-of-polytopia.json](./57153-the-battle-of-polytopia.json) |
 | The Battle of Polytopia: Anzala | 366863 | [366863-the-battle-of-polytopia-anzala.json](./366863-the-battle-of-polytopia-anzala.json) |
 | The Battle of Polytopia: Baergøff | 366861 | [366861-the-battle-of-polytopia-baerg-ff.json](./366861-the-battle-of-polytopia-baerg-ff.json) |
+| The Battle of Polytopia: Forgotten | 370329 | [370329-the-battle-of-polytopia-forgotten.json](./370329-the-battle-of-polytopia-forgotten.json) |
 | The Battle of Polytopia: Hoodrick | 366857 | [366857-the-battle-of-polytopia-hoodrick.json](./366857-the-battle-of-polytopia-hoodrick.json) |
 | The Battle of Polytopia: Kickoo | 366858 | [366858-the-battle-of-polytopia-kickoo.json](./366858-the-battle-of-polytopia-kickoo.json) |
 | The Battle of Polytopia: Lirepacci | 366860 | [366860-the-battle-of-polytopia-lirepacci.json](./366860-the-battle-of-polytopia-lirepacci.json) |
@@ -2336,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: New Dawn Skin | 381100 | [381100-the-battle-of-polytopia-new-dawn-skin.json](./381100-the-battle-of-polytopia-new-dawn-skin.json) |
 | The Battle of Polytopia: Ragoo | 366856 | [366856-the-battle-of-polytopia-ragoo.json](./366856-the-battle-of-polytopia-ragoo.json) |
 | The Battle of Polytopia: Sha-po | 366862 | [366862-the-battle-of-polytopia-sha-po.json](./366862-the-battle-of-polytopia-sha-po.json) |
+| The Battle of Polytopia: Solaris | 370330 | [370330-the-battle-of-polytopia-solaris.json](./370330-the-battle-of-polytopia-solaris.json) |
 | The Battle of Polytopia: Yorthwober | 366859 | [366859-the-battle-of-polytopia-yorthwober.json](./366859-the-battle-of-polytopia-yorthwober.json) |
 | The Battle Road | 39617 | [39617-the-battle-road.json](./39617-the-battle-road.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
@@ -3328,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eternal Fool | 217496 | [217496-the-eternal-fool.json](./217496-the-eternal-fool.json) |
 | The Eternal Mines | 379379 | [379379-the-eternal-mines.json](./379379-the-eternal-mines.json) |
 | The Eternal Woods | 414427 | [414427-the-eternal-woods.json](./414427-the-eternal-woods.json) |
+| The Evelyn Game | 370315 | [370315-the-evelyn-game.json](./370315-the-evelyn-game.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Within Bundle | 154961 | [154961-the-evil-within-bundle.json](./154961-the-evil-within-bundle.json) |
@@ -7223,6 +7227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
 | They Walk Beyond | 386303 | [386303-they-walk-beyond.json](./386303-they-walk-beyond.json) |
+| They Watch | 370298 | [370298-they-watch.json](./370298-they-watch.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
 | They Whisper Softly to Me | 28211 | [28211-they-whisper-softly-to-me.json](./28211-they-whisper-softly-to-me.json) |
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
@@ -9887,6 +9892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Machine | 145049 | [145049-town-of-machine.json](./145049-town-of-machine.json) |
 | Town of Salem | 9658 | [9658-town-of-salem.json](./9658-town-of-salem.json) |
 | Town of Salem 2 | 247531 | [247531-town-of-salem-2.json](./247531-town-of-salem-2.json) |
+| Town of Salem 2: Mafia Pack | 370314 | [370314-town-of-salem-2-mafia-pack.json](./370314-town-of-salem-2-mafia-pack.json) |
 | Town of Sin | 175994 | [175994-town-of-sin.json](./175994-town-of-sin.json) |
 | Town of Tides | 198540 | [198540-town-of-tides.json](./198540-town-of-tides.json) |
 | Town of Tinysville | 413049 | [413049-town-of-tinysville.json](./413049-town-of-tinysville.json) |
@@ -11696,6 +11702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Syndrome Tansaku-hen | 65452 | [65452-twilight-syndrome-tansaku-hen.json](./65452-twilight-syndrome-tansaku-hen.json) |
 | Twilight Syndrome: Kinjirareta Toshi Densetsu | 128360 | [128360-twilight-syndrome-kinjirareta-toshi-densetsu.json](./128360-twilight-syndrome-kinjirareta-toshi-densetsu.json) |
 | Twilight Tales: Hollow's Store | 337195 | [337195-twilight-tales-hollows-store.json](./337195-twilight-tales-hollows-store.json) |
+| Twilight Towers | 370336 | [370336-twilight-towers.json](./370336-twilight-towers.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
