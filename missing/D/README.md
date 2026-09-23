@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad Broke the Moon! | 181327 | [181327-dad-broke-the-moon.json](./181327-dad-broke-the-moon.json) |
 | Dad by the Sword | 218687 | [218687-dad-by-the-sword.json](./218687-dad-by-the-sword.json) |
 | Dad Discovers The Internet | 297084 | [297084-dad-discovers-the-internet.json](./297084-dad-discovers-the-internet.json) |
+| Dad Hungry! | 341146 | [341146-dad-hungry.json](./341146-dad-hungry.json) |
 | Dad's co-worker | 81605 | [81605-dads-co-worker.json](./81605-dads-co-worker.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Was A Thief | 103150 | [103150-daddy-was-a-thief.json](./103150-daddy-was-a-thief.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Checkmate | 254595 | [254595-danganronpa-checkmate.json](./254595-danganronpa-checkmate.json) |
 | Danganronpa: Eternal Endings | 304347 | [304347-danganronpa-eternal-endings.json](./304347-danganronpa-eternal-endings.json) |
 | Danganronpa: Fandom's Calling | 338724 | [338724-danganronpa-fandoms-calling.json](./338724-danganronpa-fandoms-calling.json) |
+| Danganronpa: Gods at Gunpoint | 341110 | [341110-danganronpa-gods-at-gunpoint.json](./341110-danganronpa-gods-at-gunpoint.json) |
 | Danganronpa: Lapse | 243221 | [243221-danganronpa-lapse.json](./243221-danganronpa-lapse.json) |
 | Danganronpa: Live or Die | 270679 | [270679-danganronpa-live-or-die.json](./270679-danganronpa-live-or-die.json) |
 | Danganronpa: Salvation's Fears | 338840 | [338840-danganronpa-salvations-fears.json](./338840-danganronpa-salvations-fears.json) |
@@ -4500,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donuts | 263019 | [263019-donuts.json](./263019-donuts.json) |
 | Donuts 'N' Justice | 25932 | [25932-donuts-n-justice.json](./25932-donuts-n-justice.json) |
 | Donuts Runner | 251839 | [251839-donuts-runner.json](./251839-donuts-runner.json) |
+| Doobie | 341112 | [341112-doobie.json](./341112-doobie.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Dood's Big Adventure | 18255 | [18255-doods-big-adventure.json](./18255-doods-big-adventure.json) |
 | Doodle Adventures | 56770 | [56770-doodle-adventures.json](./56770-doodle-adventures.json) |
@@ -4844,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doug's Nightmare | 236397 | [236397-dougs-nightmare.json](./236397-dougs-nightmare.json) |
 | Douga de Kiku Ano Kyoku no Rhythm Game | 301980 | [301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json](./301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json) |
 | Dough Boy | 40956 | [40956-dough-boy.json](./40956-dough-boy.json) |
+| Dough Slapping: A Touch to Desire | 341165 | [341165-dough-slapping-a-touch-to-desire.json](./341165-dough-slapping-a-touch-to-desire.json) |
 | Doughball Descent | 226817 | [226817-doughball-descent.json](./226817-doughball-descent.json) |
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
 | Doughby | 350029 | [350029-doughby.json](./350029-doughby.json) |
@@ -6041,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
 | DT Racer Refueled | 68306 | [68306-dt-racer-refueled.json](./68306-dt-racer-refueled.json) |
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
+| DTET | 341123 | [341123-dtet.json](./341123-dtet.json) |
 | DTXMania | 123018 | [123018-dtxmania.json](./123018-dtxmania.json) |
 | DTXMania AL | 123015 | [123015-dtxmania-al.json](./123015-dtxmania-al.json) |
 | DTXMania GR | 123016 | [123016-dtxmania-gr.json](./123016-dtxmania-gr.json) |
@@ -6444,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
 | Dungeon Solitaire | 178000 | [178000-dungeon-solitaire.json](./178000-dungeon-solitaire.json) |
+| Dungeon Solitaire | 341127 | [341127-dungeon-solitaire.json](./341127-dungeon-solitaire.json) |
 | Dungeon Squad | 225764 | [225764-dungeon-squad.json](./225764-dungeon-squad.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
 | Dungeon Striker | 63256 | [63256-dungeon-striker.json](./63256-dungeon-striker.json) |
