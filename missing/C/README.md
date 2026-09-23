@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Slide Tiles | 152774 | [152774-cat-slide-tiles.json](./152774-cat-slide-tiles.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
 | Cat Spa | 224080 | [224080-cat-spa.json](./224080-cat-spa.json) |
+| Cat Summoner: Block Puzzle | 357979 | [357979-cat-summoner-block-puzzle.json](./357979-cat-summoner-block-puzzle.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
 | Cat Train | 177493 | [177493-cat-train.json](./177493-cat-train.json) |
 | Cat Tree | 326792 | [326792-cat-tree.json](./326792-cat-tree.json) |
@@ -2612,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco Kiosk Simulator | 363019 | [363019-choco-kiosk-simulator.json](./363019-choco-kiosk-simulator.json) |
 | Choco Pixel 6 | 158060 | [158060-choco-pixel-6.json](./158060-choco-pixel-6.json) |
 | Choco Pixel 7 | 158591 | [158591-choco-pixel-7.json](./158591-choco-pixel-7.json) |
+| Choco Puzzle | 357980 | [357980-choco-puzzle.json](./357980-choco-puzzle.json) |
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
 | Choco-Ken no Dekitate Sweets Wagon | 287630 | [287630-choco-ken-no-dekitate-sweets-wagon.json](./287630-choco-ken-no-dekitate-sweets-wagon.json) |
 | Choco-Ken no Omise: Patisserie & Sweets Shop Game | 287628 | [287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json](./287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json) |
