@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essential Mayhem | 159739 | [159739-essential-mayhem.json](./159739-essential-mayhem.json) |
 | Essential Power | 369038 | [369038-essential-power.json](./369038-essential-power.json) |
 | Essentures | 115455 | [115455-essentures.json](./115455-essentures.json) |
+| Essomenic | 388369 | [388369-essomenic.json](./388369-essomenic.json) |
 | Estadi.ooo | 194414 | [194414-estadi-ooo.json](./194414-estadi-ooo.json) |
 | Estancia Protocol Zero | 405609 | [405609-estancia-protocol-zero.json](./405609-estancia-protocol-zero.json) |
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
