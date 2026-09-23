@@ -137,6 +137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
 | Fablery | 408253 | [408253-fablery.json](./408253-fablery.json) |
 | Fables of Talumos | 119007 | [119007-fables-of-talumos.json](./119007-fables-of-talumos.json) |
+| Fables of the Kingdom III: Collector's Edition | 337251 | [337251-fables-of-the-kingdom-iii-collectors-edition.json](./337251-fables-of-the-kingdom-iii-collectors-edition.json) |
+| Fables of the Kingdom V: Collector's Edition | 337250 | [337250-fables-of-the-kingdom-v-collectors-edition.json](./337250-fables-of-the-kingdom-v-collectors-edition.json) |
 | Fabulous Angela: New York to LA | 124171 | [124171-fabulous-angela-new-york-to-la.json](./124171-fabulous-angela-new-york-to-la.json) |
 | Fabulous Finds | 67652 | [67652-fabulous-finds.json](./67652-fabulous-finds.json) |
 | Fabulous Samurai Star | 256325 | [256325-fabulous-samurai-star.json](./256325-fabulous-samurai-star.json) |
@@ -741,6 +743,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 3: Distant Worlds | 100735 | [100735-fantasy-mosaics-3-distant-worlds.json](./100735-fantasy-mosaics-3-distant-worlds.json) |
 | Fantasy Mosaics 35: Day at the Museum | 188525 | [188525-fantasy-mosaics-35-day-at-the-museum.json](./188525-fantasy-mosaics-35-day-at-the-museum.json) |
 | Fantasy Mosaics 37: Spooky Night | 296060 | [296060-fantasy-mosaics-37-spooky-night.json](./296060-fantasy-mosaics-37-spooky-night.json) |
+| Fantasy Mosaics 38: Underwater Adventure | 337259 | [337259-fantasy-mosaics-38-underwater-adventure.json](./337259-fantasy-mosaics-38-underwater-adventure.json) |
+| Fantasy Mosaics 39: Behind the Mirror | 337260 | [337260-fantasy-mosaics-39-behind-the-mirror.json](./337260-fantasy-mosaics-39-behind-the-mirror.json) |
 | Fantasy Mosaics 4: Art of Color | 100734 | [100734-fantasy-mosaics-4-art-of-color.json](./100734-fantasy-mosaics-4-art-of-color.json) |
 | Fantasy Mosaics 41: Wizard's Realm | 296062 | [296062-fantasy-mosaics-41-wizards-realm.json](./296062-fantasy-mosaics-41-wizards-realm.json) |
 | Fantasy Mosaics 44: Winter Holiday | 296063 | [296063-fantasy-mosaics-44-winter-holiday.json](./296063-fantasy-mosaics-44-winter-holiday.json) |
@@ -1732,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Fill Up the Hole | 346799 | [346799-fill-up-the-hole.json](./346799-fill-up-the-hole.json) |
 | Fille Fatale Compassion | 388211 | [388211-fille-fatale-compassion.json](./388211-fille-fatale-compassion.json) |
+| Fillet Fury | 337288 | [337288-fillet-fury.json](./337288-fillet-fury.json) |
 | FillGood | 415266 | [415266-fillgood.json](./415266-fillgood.json) |
 | Filluminate | 401768 | [401768-filluminate.json](./401768-filluminate.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
@@ -4801,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
 | Fuman Ghoul | 399007 | [399007-fuman-ghoul.json](./399007-fuman-ghoul.json) |
 | Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
+| Fumble Freaks | 337295 | [337295-fumble-freaks.json](./337295-fumble-freaks.json) |
 | Fumiko! | 27194 | [27194-fumiko.json](./27194-fumiko.json) |
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
 | Fun | 360738 | [360738-fun.json](./360738-fun.json) |
