@@ -4521,3 +4521,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyrule Warriors: Legends | 11193 | [11193-hyrule-warriors-legends.json](./11193-hyrule-warriors-legends.json) |
 | Hyrule Warriors: Master Quest Pack | 23825 | [23825-hyrule-warriors-master-quest-pack.json](./23825-hyrule-warriors-master-quest-pack.json) |
 | Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
+| Hysteric Mama | 385329 | [385329-hysteric-mama.json](./385329-hysteric-mama.json) |
