@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T15:03:58.163Z",
-  "total_missing": 111777,
+  "generated_at": "2026-09-23T15:33:34.387Z",
+  "total_missing": 111877,
   "games": [
     {
       "igdb_id": 176875,
@@ -8768,6 +8768,11 @@
       "file": "missing/A/34501-actua-golf-3.json"
     },
     {
+      "igdb_id": 356274,
+      "game_name": "Actua Golf 4",
+      "file": "missing/A/356274-actua-golf-4.json"
+    },
+    {
       "igdb_id": 68964,
       "game_name": "Actua Ice Hockey",
       "file": "missing/A/68964-actua-ice-hockey.json"
@@ -8881,6 +8886,11 @@
       "igdb_id": 400472,
       "game_name": "Add Flyers To Dreams",
       "file": "missing/A/400472-add-flyers-to-dreams.json"
+    },
+    {
+      "igdb_id": 356275,
+      "game_name": "Addams Family Pinball",
+      "file": "missing/A/356275-addams-family-pinball.json"
     },
     {
       "igdb_id": 61881,
@@ -9511,6 +9521,11 @@
       "igdb_id": 77012,
       "game_name": "Adventure Quiz: Capcom World - Hatena no Daibouken",
       "file": "missing/A/77012-adventure-quiz-capcom-world-hatena-no-daibouken.json"
+    },
+    {
+      "igdb_id": 356278,
+      "game_name": "Adventure Racing 2",
+      "file": "missing/A/356278-adventure-racing-2.json"
     },
     {
       "igdb_id": 357782,
@@ -18211,6 +18226,11 @@
       "igdb_id": 331108,
       "game_name": "Amy Adventure",
       "file": "missing/A/331108-amy-adventure.json"
+    },
+    {
+      "igdb_id": 356303,
+      "game_name": "Amy Hates Robots",
+      "file": "missing/A/356303-amy-hates-robots.json"
     },
     {
       "igdb_id": 129176,
@@ -31158,6 +31178,11 @@
       "file": "missing/A/99154-asylamba-influence.json"
     },
     {
+      "igdb_id": 356277,
+      "game_name": "Asylum",
+      "file": "missing/A/356277-asylum.json"
+    },
+    {
       "igdb_id": 86391,
       "game_name": "Asylum",
       "file": "missing/A/86391-asylum.json"
@@ -32541,6 +32566,11 @@
       "igdb_id": 171077,
       "game_name": "Attack: Helicopter Simulator 2020",
       "file": "missing/A/171077-attack-helicopter-simulator-2020.json"
+    },
+    {
+      "igdb_id": 356281,
+      "game_name": "Attack!",
+      "file": "missing/A/356281-attack.json"
     },
     {
       "igdb_id": 157148,
@@ -40611,6 +40641,11 @@
       "igdb_id": 202260,
       "game_name": "Basil Goes O.U.T.S.I.D.E.",
       "file": "missing/B/202260-basil-goes-o-u-t-s-i-d-e.json"
+    },
+    {
+      "igdb_id": 356264,
+      "game_name": "Basileia Romaion 1736",
+      "file": "missing/B/356264-basileia-romaion-1736.json"
     },
     {
       "igdb_id": 243390,
@@ -74113,6 +74148,11 @@
       "file": "missing/C/319201-cat-guardian.json"
     },
     {
+      "igdb_id": 356273,
+      "game_name": "Cat Gunner",
+      "file": "missing/C/356273-cat-gunner.json"
+    },
+    {
       "igdb_id": 406209,
       "game_name": "Cat Hits the Deck",
       "file": "missing/C/406209-cat-hits-the-deck.json"
@@ -76383,6 +76423,11 @@
       "file": "missing/C/74408-centipede-and-millipede.json"
     },
     {
+      "igdb_id": 356282,
+      "game_name": "Centipede X",
+      "file": "missing/C/356282-centipede-x.json"
+    },
+    {
       "igdb_id": 281985,
       "game_name": "Cento",
       "file": "missing/C/281985-cento.json"
@@ -77246,6 +77291,11 @@
       "igdb_id": 20117,
       "game_name": "Champs: Battlegrounds",
       "file": "missing/C/20117-champs-battlegrounds.json"
+    },
+    {
+      "igdb_id": 356283,
+      "game_name": "Chanbara Fighter",
+      "file": "missing/C/356283-chanbara-fighter.json"
     },
     {
       "igdb_id": 387323,
@@ -84098,6 +84148,11 @@
       "file": "missing/C/188089-clan-wars.json"
     },
     {
+      "igdb_id": 356284,
+      "game_name": "Clan Wars",
+      "file": "missing/C/356284-clan-wars.json"
+    },
+    {
       "igdb_id": 14465,
       "game_name": "Clandestine",
       "file": "missing/C/14465-clandestine.json"
@@ -85898,6 +85953,11 @@
       "file": "missing/C/348858-cloudtop-chaos.json"
     },
     {
+      "igdb_id": 356280,
+      "game_name": "Cloudwalkers",
+      "file": "missing/C/356280-cloudwalkers.json"
+    },
+    {
       "igdb_id": 333911,
       "game_name": "Cloudy & Stormy: Pawtastic Adventure",
       "file": "missing/C/333911-cloudy-and-stormy-pawtastic-adventure.json"
@@ -87471,6 +87531,11 @@
       "igdb_id": 67982,
       "game_name": "Cold War Commander",
       "file": "missing/C/67982-cold-war-commander.json"
+    },
+    {
+      "igdb_id": 356265,
+      "game_name": "Cold War Era",
+      "file": "missing/C/356265-cold-war-era.json"
     },
     {
       "igdb_id": 73805,
@@ -107918,6 +107983,11 @@
       "file": "missing/D/203568-darkself-other-mind.json"
     },
     {
+      "igdb_id": 356295,
+      "game_name": "DarkShine",
+      "file": "missing/D/356295-darkshine.json"
+    },
+    {
       "igdb_id": 60515,
       "game_name": "Darkside",
       "file": "missing/D/60515-darkside.json"
@@ -109598,6 +109668,11 @@
       "file": "missing/D/27782-dcs-normandy-1944.json"
     },
     {
+      "igdb_id": 356285,
+      "game_name": "DD Sequencer",
+      "file": "missing/D/356285-dd-sequencer.json"
+    },
+    {
       "igdb_id": 92835,
       "game_name": "DDD Pool",
       "file": "missing/D/92835-ddd-pool.json"
@@ -109701,6 +109776,11 @@
       "igdb_id": 127098,
       "game_name": "Dead Age 2",
       "file": "missing/D/127098-dead-age-2.json"
+    },
+    {
+      "igdb_id": 356286,
+      "game_name": "Dead Ahead",
+      "file": "missing/D/356286-dead-ahead.json"
     },
     {
       "igdb_id": 56166,
@@ -111051,6 +111131,11 @@
       "igdb_id": 295791,
       "game_name": "Deadly Footprints",
       "file": "missing/D/295791-deadly-footprints.json"
+    },
+    {
+      "igdb_id": 356287,
+      "game_name": "Deadly Honor",
+      "file": "missing/D/356287-deadly-honor.json"
     },
     {
       "igdb_id": 190157,
@@ -115871,6 +115956,11 @@
       "igdb_id": 386250,
       "game_name": "Derby Champion Club",
       "file": "missing/D/386250-derby-champion-club.json"
+    },
+    {
+      "igdb_id": 356288,
+      "game_name": "Derby Day",
+      "file": "missing/D/356288-derby-day.json"
     },
     {
       "igdb_id": 412502,
@@ -122738,6 +122828,11 @@
       "file": "missing/D/180281-divers-dream.json"
     },
     {
+      "igdb_id": 356267,
+      "game_name": "Divergences",
+      "file": "missing/D/356267-divergences.json"
+    },
+    {
       "igdb_id": 180294,
       "game_name": "Diversant",
       "file": "missing/D/180294-diversant.json"
@@ -122756,6 +122851,11 @@
       "igdb_id": 15924,
       "game_name": "Divide By Sheep",
       "file": "missing/D/15924-divide-by-sheep.json"
+    },
+    {
+      "igdb_id": 356254,
+      "game_name": "Divide et Impera",
+      "file": "missing/D/356254-divide-et-impera.json"
     },
     {
       "igdb_id": 94762,
@@ -163563,6 +163663,11 @@
       "file": "missing/F/241516-first-responder-vr.json"
     },
     {
+      "igdb_id": 356291,
+      "game_name": "First Samurai 64",
+      "file": "missing/F/356291-first-samurai-64.json"
+    },
+    {
       "igdb_id": 235760,
       "game_name": "First Sexy Night 2: Second Date",
       "file": "missing/F/235760-first-sexy-night-2-second-date.json"
@@ -189141,6 +189246,11 @@
       "igdb_id": 329144,
       "game_name": "Golden Sails",
       "file": "missing/G/329144-golden-sails.json"
+    },
+    {
+      "igdb_id": 356272,
+      "game_name": "Golden Sun",
+      "file": "missing/G/356272-golden-sun.json"
     },
     {
       "igdb_id": 31195,
@@ -219083,6 +219193,11 @@
       "file": "missing/H/172603-hungry-hearts-diner-2-moonlit-memories.json"
     },
     {
+      "igdb_id": 356276,
+      "game_name": "Hungry Hearts Restaurant",
+      "file": "missing/H/356276-hungry-hearts-restaurant.json"
+    },
+    {
       "igdb_id": 12954,
       "game_name": "Hungry Horace",
       "file": "missing/H/12954-hungry-horace.json"
@@ -233266,6 +233381,11 @@
       "igdb_id": 168844,
       "game_name": "Iwaihime: Extra Chapter - Musubihime",
       "file": "missing/I/168844-iwaihime-extra-chapter-musubihime.json"
+    },
+    {
+      "igdb_id": 356266,
+      "game_name": "Iwakutsugi",
+      "file": "missing/I/356266-iwakutsugi.json"
     },
     {
       "igdb_id": 185677,
@@ -254243,6 +254363,11 @@
       "file": "missing/L/152902-last-contingency.json"
     },
     {
+      "igdb_id": 356289,
+      "game_name": "Last Course",
+      "file": "missing/L/356289-last-course.json"
+    },
+    {
       "igdb_id": 236847,
       "game_name": "Last Dawn",
       "file": "missing/L/236847-last-dawn.json"
@@ -261936,6 +262061,11 @@
       "igdb_id": 198258,
       "game_name": "Lingo Legend",
       "file": "missing/L/198258-lingo-legend.json"
+    },
+    {
+      "igdb_id": 356296,
+      "game_name": "LingoRogue",
+      "file": "missing/L/356296-lingorogue.json"
     },
     {
       "igdb_id": 102359,
@@ -307203,6 +307333,11 @@
       "file": "missing/M/152858-mycro.json"
     },
     {
+      "igdb_id": 356294,
+      "game_name": "Mycubium",
+      "file": "missing/M/356294-mycubium.json"
+    },
+    {
       "igdb_id": 391745,
       "game_name": "MyDearest.exe",
       "file": "missing/M/391745-mydearest-exe.json"
@@ -323918,6 +324053,11 @@
       "file": "missing/O/176461-ode-to-my-hometowns-craft-fair.json"
     },
     {
+      "igdb_id": 356297,
+      "game_name": "Ødeborg",
+      "file": "missing/0-9/356297-deborg.json"
+    },
+    {
       "igdb_id": 222527,
       "game_name": "Odekake Takorin: Choigae",
       "file": "missing/O/222527-odekake-takorin-choigae.json"
@@ -323941,6 +324081,11 @@
       "igdb_id": 327599,
       "game_name": "Oden-kun: Oden-mura no Tanoshii Nakama-tachi",
       "file": "missing/O/327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json"
+    },
+    {
+      "igdb_id": 356260,
+      "game_name": "Oden-ya Ninjou Monogatari 3: Seiya ni Kiseki ga Yattekuru",
+      "file": "missing/O/356260-oden-ya-ninjou-monogatari-3-seiya-ni-kiseki-ga-yattekuru.json"
     },
     {
       "igdb_id": 304035,
@@ -324881,6 +325026,11 @@
       "igdb_id": 97839,
       "game_name": "Oh! My Sister's Slit Is...",
       "file": "missing/O/97839-oh-my-sisters-slit-is.json"
+    },
+    {
+      "igdb_id": 356300,
+      "game_name": "Oh! Robot: Legendary Mechanic",
+      "file": "missing/O/356300-oh-robot-legendary-mechanic.json"
     },
     {
       "igdb_id": 233733,
@@ -326401,6 +326551,11 @@
       "igdb_id": 109494,
       "game_name": "Omvorm",
       "file": "missing/O/109494-omvorm.json"
+    },
+    {
+      "igdb_id": 356302,
+      "game_name": "On & Off Racing",
+      "file": "missing/O/356302-on-and-off-racing.json"
     },
     {
       "igdb_id": 197382,
@@ -339523,6 +339678,11 @@
       "file": "missing/P/44845-pax-corpus.json"
     },
     {
+      "igdb_id": 356268,
+      "game_name": "Pax Hispanica",
+      "file": "missing/P/356268-pax-hispanica.json"
+    },
+    {
       "igdb_id": 95439,
       "game_name": "Pax Imperia",
       "file": "missing/P/95439-pax-imperia.json"
@@ -341021,6 +341181,11 @@
       "igdb_id": 204494,
       "game_name": "Penny Dell Jumbo Crosswords 2",
       "file": "missing/P/204494-penny-dell-jumbo-crosswords-2.json"
+    },
+    {
+      "igdb_id": 356255,
+      "game_name": "Penny for Your Potion",
+      "file": "missing/P/356255-penny-for-your-potion.json"
     },
     {
       "igdb_id": 367052,
@@ -351886,6 +352051,246 @@
       "igdb_id": 341913,
       "game_name": "Pokémon Awakening",
       "file": "missing/P/341913-pokemon-awakening.json"
+    },
+    {
+      "igdb_id": 355724,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A001 - Karate-ou Kousei",
+      "file": "missing/P/355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json"
+    },
+    {
+      "igdb_id": 355726,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A002 - Ninja Gokko Kagemasa",
+      "file": "missing/P/355726-pokemon-battle-card-e-emerald-19-a002-ninja-gokko-kagemasa.json"
+    },
+    {
+      "igdb_id": 355727,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A003 - Daisuki Club Keizou",
+      "file": "missing/P/355727-pokemon-battle-card-e-emerald-19-a003-daisuki-club-keizou.json"
+    },
+    {
+      "igdb_id": 355728,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A004 - Elite Trainer Akiomi",
+      "file": "missing/P/355728-pokemon-battle-card-e-emerald-19-a004-elite-trainer-akiomi.json"
+    },
+    {
+      "igdb_id": 355729,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A005 - Battle Girl Riona",
+      "file": "missing/P/355729-pokemon-battle-card-e-emerald-19-a005-battle-girl-riona.json"
+    },
+    {
+      "igdb_id": 355730,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A006 - Dragon Tsukai Inami",
+      "file": "missing/P/355730-pokemon-battle-card-e-emerald-19-a006-dragon-tsukai-inami.json"
+    },
+    {
+      "igdb_id": 355731,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A007 - Kaijuu Mania Yurato",
+      "file": "missing/P/355731-pokemon-battle-card-e-emerald-19-a007-kaijuu-mania-yurato.json"
+    },
+    {
+      "igdb_id": 355732,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A008 - Triathlete Sakuya",
+      "file": "missing/P/355732-pokemon-battle-card-e-emerald-19-a008-triathlete-sakuya.json"
+    },
+    {
+      "igdb_id": 355733,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A009 - Miniskirt Komari",
+      "file": "missing/P/355733-pokemon-battle-card-e-emerald-19-a009-miniskirt-komari.json"
+    },
+    {
+      "igdb_id": 355734,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A010 - Triathlete Ragi",
+      "file": "missing/P/355734-pokemon-battle-card-e-emerald-19-a010-triathlete-ragi.json"
+    },
+    {
+      "igdb_id": 355735,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A011 - Ninja Gokko Kennosuke",
+      "file": "missing/P/355735-pokemon-battle-card-e-emerald-19-a011-ninja-gokko-kennosuke.json"
+    },
+    {
+      "igdb_id": 355736,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A012 - Psychicher Odunu",
+      "file": "missing/P/355736-pokemon-battle-card-e-emerald-19-a012-psychicher-odunu.json"
+    },
+    {
+      "igdb_id": 355737,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A013 - Juku Kaeri Kae",
+      "file": "missing/P/355737-pokemon-battle-card-e-emerald-19-a013-juku-kaeri-kae.json"
+    },
+    {
+      "igdb_id": 355738,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A014 - Juku Kaeri Sakiteru",
+      "file": "missing/P/355738-pokemon-battle-card-e-emerald-19-a014-juku-kaeri-sakiteru.json"
+    },
+    {
+      "igdb_id": 355739,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A015 - Pokémon Breeder Nukumi",
+      "file": "missing/P/355739-pokemon-battle-card-e-emerald-19-a015-pokemon-breeder-nukumi.json"
+    },
+    {
+      "igdb_id": 355740,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A016 - Tanpan Kozou Akitaka",
+      "file": "missing/P/355740-pokemon-battle-card-e-emerald-19-a016-tanpan-kozou-akitaka.json"
+    },
+    {
+      "igdb_id": 355741,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A017 - Triathlete Ghent",
+      "file": "missing/P/355741-pokemon-battle-card-e-emerald-19-a017-triathlete-ghent.json"
+    },
+    {
+      "igdb_id": 355742,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A018 - Occult Mania Kie",
+      "file": "missing/P/355742-pokemon-battle-card-e-emerald-19-a018-occult-mania-kie.json"
+    },
+    {
+      "igdb_id": 355743,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A019 - Karate-ou Harumasa",
+      "file": "missing/P/355743-pokemon-battle-card-e-emerald-19-a019-karate-ou-harumasa.json"
+    },
+    {
+      "igdb_id": 355744,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A020 - Pokémon Breeder Eco",
+      "file": "missing/P/355744-pokemon-battle-card-e-emerald-19-a020-pokemon-breeder-eco.json"
+    },
+    {
+      "igdb_id": 355746,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A021 - Pokémon Breeder Kenya",
+      "file": "missing/P/355746-pokemon-battle-card-e-emerald-19-a021-pokemon-breeder-kenya.json"
+    },
+    {
+      "igdb_id": 355747,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A022 - Pokémon Breeder Kinako",
+      "file": "missing/P/355747-pokemon-battle-card-e-emerald-19-a022-pokemon-breeder-kinako.json"
+    },
+    {
+      "igdb_id": 355748,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A023 - Psychicher Sukeaki",
+      "file": "missing/P/355748-pokemon-battle-card-e-emerald-19-a023-psychicher-sukeaki.json"
+    },
+    {
+      "igdb_id": 355749,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A024 - Aroma na Onee-san Kawori",
+      "file": "missing/P/355749-pokemon-battle-card-e-emerald-19-a024-aroma-na-onee-san-kawori.json"
+    },
+    {
+      "igdb_id": 355750,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A025 - Funanori Isonosuke",
+      "file": "missing/P/355750-pokemon-battle-card-e-emerald-19-a025-funanori-isonosuke.json"
+    },
+    {
+      "igdb_id": 355751,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A026 - Picnic Girl Koeda",
+      "file": "missing/P/355751-pokemon-battle-card-e-emerald-19-a026-picnic-girl-koeda.json"
+    },
+    {
+      "igdb_id": 355752,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A027 - Tatsujin Isaji",
+      "file": "missing/P/355752-pokemon-battle-card-e-emerald-19-a027-tatsujin-isaji.json"
+    },
+    {
+      "igdb_id": 355753,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A028 - Triathlete Ouka",
+      "file": "missing/P/355753-pokemon-battle-card-e-emerald-19-a028-triathlete-ouka.json"
+    },
+    {
+      "igdb_id": 355754,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A029 - Otona no Onee-san Maiko",
+      "file": "missing/P/355754-pokemon-battle-card-e-emerald-19-a029-otona-no-onee-san-maiko.json"
+    },
+    {
+      "igdb_id": 355755,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A030 - Parasol Onee-san Aquino",
+      "file": "missing/P/355755-pokemon-battle-card-e-emerald-19-a030-parasol-onee-san-aquino.json"
+    },
+    {
+      "igdb_id": 355756,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A031 - Yama Otoko Okikazu",
+      "file": "missing/P/355756-pokemon-battle-card-e-emerald-19-a031-yama-otoko-okikazu.json"
+    },
+    {
+      "igdb_id": 355757,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A032 - Ukiwa Girl Ricca",
+      "file": "missing/P/355757-pokemon-battle-card-e-emerald-19-a032-ukiwa-girl-ricca.json"
+    },
+    {
+      "igdb_id": 355758,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A033 - Camp Boy Kousuke",
+      "file": "missing/P/355758-pokemon-battle-card-e-emerald-19-a033-camp-boy-kousuke.json"
+    },
+    {
+      "igdb_id": 355759,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A034 - Guitarist Neo",
+      "file": "missing/P/355759-pokemon-battle-card-e-emerald-19-a034-guitarist-neo.json"
+    },
+    {
+      "igdb_id": 355760,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A035 - Obocchama Tsugane",
+      "file": "missing/P/355760-pokemon-battle-card-e-emerald-19-a035-obocchama-tsugane.json"
+    },
+    {
+      "igdb_id": 355761,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A036 - Occult Mania Kagaho",
+      "file": "missing/P/355761-pokemon-battle-card-e-emerald-19-a036-occult-mania-kagaho.json"
+    },
+    {
+      "igdb_id": 355762,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A037 - Otona no Onee-san Tsukika",
+      "file": "missing/P/355762-pokemon-battle-card-e-emerald-19-a037-otona-no-onee-san-tsukika.json"
+    },
+    {
+      "igdb_id": 355763,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A038 - Gentleman Ed",
+      "file": "missing/P/355763-pokemon-battle-card-e-emerald-19-a038-gentleman-ed.json"
+    },
+    {
+      "igdb_id": 355764,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A039 - Pokémon Breeder Kaiji",
+      "file": "missing/P/355764-pokemon-battle-card-e-emerald-19-a039-pokemon-breeder-kaiji.json"
+    },
+    {
+      "igdb_id": 355765,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-A040 - Mushi Tori Shounen Kiichi",
+      "file": "missing/P/355765-pokemon-battle-card-e-emerald-19-a040-mushi-tori-shounen-kiichi.json"
+    },
+    {
+      "igdb_id": 355722,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-P001 - Camp Boy Soushi",
+      "file": "missing/P/355722-pokemon-battle-card-e-emerald-19-p001-camp-boy-soushi.json"
+    },
+    {
+      "igdb_id": 355723,
+      "game_name": "Pokémon Battle Card e+ Emerald: 19-P002 - Juku Kaeri Toshinori",
+      "file": "missing/P/355723-pokemon-battle-card-e-emerald-19-p002-juku-kaeri-toshinori.json"
+    },
+    {
+      "igdb_id": 355716,
+      "game_name": "Pokémon Battle Card e+ FireRed & LeafGreen: 15-N001 - Tori Tsukai Hiroyuki",
+      "file": "missing/P/355716-pokemon-battle-card-e-firered-and-leafgreen-15-n001-tori-tsukai-hiroyuki.json"
+    },
+    {
+      "igdb_id": 355717,
+      "game_name": "Pokémon Battle Card e+ FireRed & LeafGreen: 15-N002 - Love-Love Couple Miwa to Yuu",
+      "file": "missing/P/355717-pokemon-battle-card-e-firered-and-leafgreen-15-n002-love-love-couple-miwa-to-yuu.json"
+    },
+    {
+      "igdb_id": 355718,
+      "game_name": "Pokémon Battle Card e+ FireRed & LeafGreen: 15-N003 - Kitoushi Miyako / Moujuu Tsukai Eita / Kaijuu Mania Takahiko",
+      "file": "missing/P/355718-pokemon-battle-card-e-firered-and-leafgreen-15-n003-kitoushi-miyako-moujuu-tsukai-eita-kaijuu-mania-takahiko.json"
+    },
+    {
+      "igdb_id": 355719,
+      "game_name": "Pokémon Battle Card e+ FireRed & LeafGreen: 15-N004 - Ojou-sama Marika",
+      "file": "missing/P/355719-pokemon-battle-card-e-firered-and-leafgreen-15-n004-ojou-sama-marika.json"
+    },
+    {
+      "igdb_id": 355715,
+      "game_name": "Pokémon Battle Card e+ FireRed & LeafGreen: 15-P001 - Yama Otoko Ayumu / Funanori Kousuke / Aroma na Onee-san Ayano",
+      "file": "missing/P/355715-pokemon-battle-card-e-firered-and-leafgreen-15-p001-yama-otoko-ayumu-funanori-kousuke-aroma-na-onee-san-ayano.json"
+    },
+    {
+      "igdb_id": 355720,
+      "game_name": "Pokémon Battle Card e+ FireRed & LeafGreen: 15-PT001 - Club Nintendo Tokusei Tower",
+      "file": "missing/P/355720-pokemon-battle-card-e-firered-and-leafgreen-15-pt001-club-nintendo-tokusei-tower.json"
     },
     {
       "igdb_id": 355623,
@@ -373818,6 +374223,11 @@
       "file": "missing/R/268758-realms-of-dr-chaos.json"
     },
     {
+      "igdb_id": 356269,
+      "game_name": "Realms of Exether",
+      "file": "missing/R/356269-realms-of-exether.json"
+    },
+    {
       "igdb_id": 253591,
       "game_name": "Realms of Flow",
       "file": "missing/R/253591-realms-of-flow.json"
@@ -384296,6 +384706,11 @@
       "igdb_id": 400337,
       "game_name": "Robot Battle V",
       "file": "missing/R/400337-robot-battle-v.json"
+    },
+    {
+      "igdb_id": 356304,
+      "game_name": "Robot Beekeeper",
+      "file": "missing/R/356304-robot-beekeeper.json"
     },
     {
       "igdb_id": 89240,
@@ -396206,6 +396621,11 @@
       "igdb_id": 313463,
       "game_name": "Save: Teaser - Before the Dawn",
       "file": "missing/S/313463-save-teaser-before-the-dawn.json"
+    },
+    {
+      "igdb_id": 356279,
+      "game_name": "Saveseeker",
+      "file": "missing/S/356279-saveseeker.json"
     },
     {
       "igdb_id": 383524,
@@ -426268,6 +426688,11 @@
       "file": "missing/S/144780-south-park-cartmans-authoritah.json"
     },
     {
+      "igdb_id": 356263,
+      "game_name": "South Park: Quest for the Holy Thong",
+      "file": "missing/S/356263-south-park-quest-for-the-holy-thong.json"
+    },
+    {
       "igdb_id": 57934,
       "game_name": "South Park: Save Kenny",
       "file": "missing/S/57934-south-park-save-kenny.json"
@@ -433216,6 +433641,11 @@
       "igdb_id": 358932,
       "game_name": "Sprouting Depths",
       "file": "missing/S/358932-sprouting-depths.json"
+    },
+    {
+      "igdb_id": 356298,
+      "game_name": "Sproutmart: Farm & Grocery Sim",
+      "file": "missing/S/356298-sproutmart-farm-and-grocery-sim.json"
     },
     {
       "igdb_id": 257408,
@@ -449648,6 +450078,11 @@
       "file": "missing/S/135178-super-mario-and-the-marvel-adventure.json"
     },
     {
+      "igdb_id": 356293,
+      "game_name": "Super Mario and the Space Base",
+      "file": "missing/S/356293-super-mario-and-the-space-base.json"
+    },
+    {
       "igdb_id": 369660,
       "game_name": "Super Mario Bomber",
       "file": "missing/S/369660-super-mario-bomber.json"
@@ -458493,6 +458928,11 @@
       "file": "missing/T/191409-taiko-no-tatsujin-rhythm-festival.json"
     },
     {
+      "igdb_id": 356257,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - 2000s Pops Pack",
+      "file": "missing/T/356257-taiko-no-tatsujin-rhythm-festival-2000s-pops-pack.json"
+    },
+    {
       "igdb_id": 416680,
       "game_name": "Taiko no Tatsujin: Rhythm Festival - 90s Pops Pack",
       "file": "missing/T/416680-taiko-no-tatsujin-rhythm-festival-90s-pops-pack.json"
@@ -458531,6 +458971,11 @@
       "igdb_id": 207396,
       "game_name": "Taiko no Tatsujin: Rhythm Festival - Collector's Edition",
       "file": "missing/T/207396-taiko-no-tatsujin-rhythm-festival-collectors-edition.json"
+    },
+    {
+      "igdb_id": 356256,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack",
+      "file": "missing/T/356256-taiko-no-tatsujin-rhythm-festival-crayon-shin-chan-theme-songs-pack.json"
     },
     {
       "igdb_id": 356187,
@@ -475413,6 +475858,11 @@
       "file": "missing/T/136442-the-four-old-gods.json"
     },
     {
+      "igdb_id": 356261,
+      "game_name": "The Fourth Age: Total War",
+      "file": "missing/T/356261-the-fourth-age-total-war.json"
+    },
+    {
       "igdb_id": 72693,
       "game_name": "The Fourth Generation",
       "file": "missing/T/72693-the-fourth-generation.json"
@@ -476606,6 +477056,11 @@
       "igdb_id": 264608,
       "game_name": "The Hallway: Escape Room",
       "file": "missing/T/264608-the-hallway-escape-room.json"
+    },
+    {
+      "igdb_id": 356292,
+      "game_name": "The Hamburger Isles",
+      "file": "missing/T/356292-the-hamburger-isles.json"
     },
     {
       "igdb_id": 297612,
@@ -481523,6 +481978,11 @@
       "file": "missing/T/135708-the-lord-of-the-rings-the-return-of-the-king.json"
     },
     {
+      "igdb_id": 356262,
+      "game_name": "The Lord of the Rings: Total War",
+      "file": "missing/T/356262-the-lord-of-the-rings-total-war.json"
+    },
+    {
       "igdb_id": 9256,
       "game_name": "The Lord of the Rings: War of the Ring",
       "file": "missing/T/9256-the-lord-of-the-rings-war-of-the-ring.json"
@@ -483481,6 +483941,11 @@
       "igdb_id": 157540,
       "game_name": "The New Earth",
       "file": "missing/T/157540-the-new-earth.json"
+    },
+    {
+      "igdb_id": 356270,
+      "game_name": "The New Order Victoria 3",
+      "file": "missing/T/356270-the-new-order-victoria-3.json"
     },
     {
       "igdb_id": 194463,
@@ -499573,6 +500038,11 @@
       "file": "missing/T/257932-time-to-wake-up.json"
     },
     {
+      "igdb_id": 356259,
+      "game_name": "Time To Wake Up",
+      "file": "missing/T/356259-time-to-wake-up.json"
+    },
+    {
       "igdb_id": 287108,
       "game_name": "Time Trap: Hidden Objects",
       "file": "missing/T/287108-time-trap-hidden-objects.json"
@@ -504951,6 +505421,11 @@
       "igdb_id": 121439,
       "game_name": "Total War: Elysium",
       "file": "missing/T/121439-total-war-elysium.json"
+    },
+    {
+      "igdb_id": 356258,
+      "game_name": "Total War: New World",
+      "file": "missing/T/356258-total-war-new-world.json"
     },
     {
       "igdb_id": 53824,
@@ -518901,6 +519376,11 @@
       "igdb_id": 45904,
       "game_name": "Ultra CDi Soccer",
       "file": "missing/U/45904-ultra-cdi-soccer.json"
+    },
+    {
+      "igdb_id": 356271,
+      "game_name": "Ultra Combat 64",
+      "file": "missing/U/356271-ultra-combat-64.json"
     },
     {
       "igdb_id": 231473,
@@ -536563,6 +537043,11 @@
       "file": "missing/W/197339-way-of-retribution-legend-of-abyss.json"
     },
     {
+      "igdb_id": 356301,
+      "game_name": "Way of Robot",
+      "file": "missing/W/356301-way-of-robot.json"
+    },
+    {
       "igdb_id": 383019,
       "game_name": "Way of the Hunter 2",
       "file": "missing/W/383019-way-of-the-hunter-2.json"
@@ -537716,6 +538201,11 @@
       "igdb_id": 175969,
       "game_name": "Welcome to GameCube World!!",
       "file": "missing/W/175969-welcome-to-gamecube-world.json"
+    },
+    {
+      "igdb_id": 355721,
+      "game_name": "Welcome to Greedcorp",
+      "file": "missing/W/355721-welcome-to-greedcorp.json"
     },
     {
       "igdb_id": 29076,
@@ -548348,6 +548838,11 @@
       "file": "missing/W/311653-wuthering-waves-thaw-of-eons.json"
     },
     {
+      "igdb_id": 355745,
+      "game_name": "Wuthering Waves: Unfading Melody of Life",
+      "file": "missing/W/355745-wuthering-waves-unfading-melody-of-life.json"
+    },
+    {
       "igdb_id": 381238,
       "game_name": "Wuthering Waves: We Who See the Stars",
       "file": "missing/W/381238-wuthering-waves-we-who-see-the-stars.json"
@@ -551356,6 +551851,11 @@
       "igdb_id": 75781,
       "game_name": "Yanone: Letter Splatter",
       "file": "missing/Y/75781-yanone-letter-splatter.json"
+    },
+    {
+      "igdb_id": 356299,
+      "game_name": "Yaoyoro Zoo",
+      "file": "missing/Y/356299-yaoyoro-zoo.json"
     },
     {
       "igdb_id": 367502,
