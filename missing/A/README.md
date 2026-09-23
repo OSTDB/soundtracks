@@ -4633,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
 | As Long As We're Together: Magical Girls Sweet & Pure | 135055 | [135055-as-long-as-were-together-magical-girls-sweet-and-pure.json](./135055-as-long-as-were-together-magical-girls-sweet-and-pure.json) |
+| As Long As You're Here | 374293 | [374293-as-long-as-youre-here.json](./374293-as-long-as-youre-here.json) |
 | As Per My Last Email | 314868 | [314868-as-per-my-last-email.json](./314868-as-per-my-last-email.json) |
 | AS Rabbie Aizouban | 408265 | [408265-as-rabbie-aizouban.json](./408265-as-rabbie-aizouban.json) |
 | As simple as it could get | 211411 | [211411-as-simple-as-it-could-get.json](./211411-as-simple-as-it-could-get.json) |
@@ -4647,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asbury Pines | 258480 | [258480-asbury-pines.json](./258480-asbury-pines.json) |
 | Ascape | 229046 | [229046-ascape.json](./229046-ascape.json) |
 | Ascend | 120794 | [120794-ascend.json](./120794-ascend.json) |
+| Ascend From Nine Mountains | 374310 | [374310-ascend-from-nine-mountains.json](./374310-ascend-from-nine-mountains.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascendance | 117530 | [117530-ascendance.json](./117530-ascendance.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
