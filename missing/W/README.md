@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weedcraft Inc & Moonshine Inc: Risky Business Bundle | 261334 | [261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json](./261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
 | Weekend Solitaire: Grace in Motion | 416081 | [416081-weekend-solitaire-grace-in-motion.json](./416081-weekend-solitaire-grace-in-motion.json) |
+| Weekend Solitaire: Meditation | 337257 | [337257-weekend-solitaire-meditation.json](./337257-weekend-solitaire-meditation.json) |
 | Weekend Solitaire: Ocean Kings | 416080 | [416080-weekend-solitaire-ocean-kings.json](./416080-weekend-solitaire-ocean-kings.json) |
 | Weekend Solitaire: Railway | 386124 | [386124-weekend-solitaire-railway.json](./386124-weekend-solitaire-railway.json) |
 | Weekend Solitaire: Voyage | 386140 | [386140-weekend-solitaire-voyage.json](./386140-weekend-solitaire-voyage.json) |
