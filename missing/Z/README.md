@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Deathrace Feeding Frenzy | 114185 | [114185-zombie-deathrace-feeding-frenzy.json](./114185-zombie-deathrace-feeding-frenzy.json) |
 | Zombie Defense Shelter | 130195 | [130195-zombie-defense-shelter.json](./130195-zombie-defense-shelter.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
+| Zombie Defense: Jungle Edition | 371432 | [371432-zombie-defense-jungle-edition.json](./371432-zombie-defense-jungle-edition.json) |
 | Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
 | Zombie Defense: Pew Pew Edition | 306518 | [306518-zombie-defense-pew-pew-edition.json](./306518-zombie-defense-pew-pew-edition.json) |
 | Zombie Derby | 96622 | [96622-zombie-derby.json](./96622-zombie-derby.json) |
