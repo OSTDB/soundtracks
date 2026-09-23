@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexalot | 53215 | [53215-hexalot.json](./53215-hexalot.json) |
 | Hexaluga: Weapon and Shield | 96475 | [96475-hexaluga-weapon-and-shield.json](./96475-hexaluga-weapon-and-shield.json) |
 | Hexamania | 145441 | [145441-hexamania.json](./145441-hexamania.json) |
+| HexaMerge 2048 | 384210 | [384210-hexamerge-2048.json](./384210-hexamerge-2048.json) |
 | Hexameron: Phase One | 271773 | [271773-hexameron-phase-one.json](./271773-hexameron-phase-one.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
 | Hexarchia | 175932 | [175932-hexarchia.json](./175932-hexarchia.json) |
@@ -3133,7 +3134,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloExpo20XX | 401775 | [401775-holoexpo20xx.json](./401775-holoexpo20xx.json) |
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
+| Hololive Dreams | 384205 | [384205-hololive-dreams.json](./384205-hololive-dreams.json) |
 | Hololive Gorogoro Mountain | 348243 | [348243-hololive-gorogoro-mountain.json](./348243-hololive-gorogoro-mountain.json) |
+| Hololive GoroGoro Mountain DX | 384189 | [384189-hololive-gorogoro-mountain-dx.json](./384189-hololive-gorogoro-mountain-dx.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Hololore: Amethyst | 266868 | [266868-hololore-amethyst.json](./266868-hololore-amethyst.json) |
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
