@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limacina Open Season | 398564 | [398564-limacina-open-season.json](./398564-limacina-open-season.json) |
 | Limb Lobber | 395707 | [395707-limb-lobber.json](./395707-limb-lobber.json) |
 | Limb: Origins | 337086 | [337086-limb-origins.json](./337086-limb-origins.json) |
+| Limb.Inc | 381275 | [381275-limb-inc.json](./381275-limb-inc.json) |
 | Limbo 64 | 109488 | [109488-limbo-64.json](./109488-limbo-64.json) |
 | Limbo Line | 215223 | [215223-limbo-line.json](./215223-limbo-line.json) |
 | Limbot | 380436 | [380436-limbot.json](./380436-limbot.json) |
