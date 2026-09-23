@@ -865,6 +865,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
 | NeoGeo Heroes Ultimate Shooting | 44507 | [44507-neogeo-heroes-ultimate-shooting.json](./44507-neogeo-heroes-ultimate-shooting.json) |
+| NeoGeo Online Collection Complete Box: Gekkan | 381232 | [381232-neogeo-online-collection-complete-box-gekkan.json](./381232-neogeo-online-collection-complete-box-gekkan.json) |
+| NeoGeo Online Collection Complete Box: Joukan | 381224 | [381224-neogeo-online-collection-complete-box-joukan.json](./381224-neogeo-online-collection-complete-box-joukan.json) |
 | Neogeo Pocket Color Selection Vol. 2: Steelbook Bundle | 284482 | [284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json](./284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json) |
 | Neogeo Pocket Color Selection Vol.2 | 225497 | [225497-neogeo-pocket-color-selection-vol-2.json](./225497-neogeo-pocket-color-selection-vol-2.json) |
 | Neokaiju | 153996 | [153996-neokaiju.json](./153996-neokaiju.json) |
@@ -1821,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
 | Ninja Chowdown: Glaze of Glory | 290513 | [290513-ninja-chowdown-glaze-of-glory.json](./290513-ninja-chowdown-glaze-of-glory.json) |
 | Ninja Clan | 311498 | [311498-ninja-clan.json](./311498-ninja-clan.json) |
+| Ninja Climb | 381229 | [381229-ninja-climb.json](./381229-ninja-climb.json) |
 | Ninja Clowns | 40993 | [40993-ninja-clowns.json](./40993-ninja-clowns.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
 | Ninja Cop Saizou | 215137 | [215137-ninja-cop-saizou.json](./215137-ninja-cop-saizou.json) |
