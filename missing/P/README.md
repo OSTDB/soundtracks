@@ -5831,6 +5831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puff Love Story | 371903 | [371903-puff-love-story.json](./371903-puff-love-story.json) |
 | Puff Puff the Magic Pipe | 156528 | [156528-puff-puff-the-magic-pipe.json](./156528-puff-puff-the-magic-pipe.json) |
 | Puff Up: Classic Edition | 353983 | [353983-puff-up-classic-edition.json](./353983-puff-up-classic-edition.json) |
+| Puff Up: Playful Edition | 364095 | [364095-puff-up-playful-edition.json](./364095-puff-up-playful-edition.json) |
 | Puff. | 316817 | [316817-puff.json](./316817-puff.json) |
 | Puffer Pop | 250464 | [250464-puffer-pop.json](./250464-puffer-pop.json) |
 | Puffin Parcel Post | 346106 | [346106-puffin-parcel-post.json](./346106-puffin-parcel-post.json) |
