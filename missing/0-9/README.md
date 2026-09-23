@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2088: The Cryllan Mission - The Second Scenario | 57374 | [57374-2088-the-cryllan-mission-the-second-scenario.json](./57374-2088-the-cryllan-mission-the-second-scenario.json) |
 | 20Q | 320398 | [320398-20q.json](./320398-20q.json) |
 | 20Q: The Simpsons | 320399 | [320399-20q-the-simpsons.json](./320399-20q-the-simpsons.json) |
+| 20th Century Beauties | 350636 | [350636-20th-century-beauties.json](./350636-20th-century-beauties.json) |
 | 20x20x20 | 175786 | [175786-20x20x20.json](./175786-20x20x20.json) |
 | 21 Blitz | 125939 | [125939-21-blitz.json](./125939-21-blitz.json) |
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
