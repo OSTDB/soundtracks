@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser | 322581 | [322581-laser.json](./322581-laser.json) |
 | Laser Arena | 9060 | [9060-laser-arena.json](./9060-laser-arena.json) |
 | Laser Attraction | 144762 | [144762-laser-attraction.json](./144762-laser-attraction.json) |
+| Laser Battle Cats: Travel & Destroy! | 364058 | [364058-laser-battle-cats-travel-and-destroy.json](./364058-laser-battle-cats-travel-and-destroy.json) |
 | Laser Blaster | 58252 | [58252-laser-blaster.json](./58252-laser-blaster.json) |
 | Laser Brain Puzzle: Classic Logic Arcade | 251045 | [251045-laser-brain-puzzle-classic-logic-arcade.json](./251045-laser-brain-puzzle-classic-logic-arcade.json) |
 | Laser Cannon 3 | 207814 | [207814-laser-cannon-3.json](./207814-laser-cannon-3.json) |
@@ -459,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Half of Darkness II | 65484 | [65484-last-half-of-darkness-ii.json](./65484-last-half-of-darkness-ii.json) |
 | Last Half of Darkness: Beyond the Spirit's Eye | 59957 | [59957-last-half-of-darkness-beyond-the-spirits-eye.json](./59957-last-half-of-darkness-beyond-the-spirits-eye.json) |
 | Last Half of Darkness: Shadows of the Servants | 59956 | [59956-last-half-of-darkness-shadows-of-the-servants.json](./59956-last-half-of-darkness-shadows-of-the-servants.json) |
+| Last Hammashan: Awakening of a Hero | 364051 | [364051-last-hammashan-awakening-of-a-hero.json](./364051-last-hammashan-awakening-of-a-hero.json) |
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Helion | 317863 | [317863-last-helion.json](./317863-last-helion.json) |
 | Last Heroes 4 | 29167 | [29167-last-heroes-4.json](./29167-last-heroes-4.json) |
