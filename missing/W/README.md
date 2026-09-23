@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
 | Who Do You Want to Date? Professional Girls Collection | 288902 | [288902-who-do-you-want-to-date-professional-girls-collection.json](./288902-who-do-you-want-to-date-professional-girls-collection.json) |
+| Who I Am | 386415 | [386415-who-i-am.json](./386415-who-i-am.json) |
 | Who I See | 236810 | [236810-who-i-see.json](./236810-who-i-see.json) |
 | Who is Awesome | 128355 | [128355-who-is-awesome.json](./128355-who-is-awesome.json) |
 | Who Is It? | 261512 | [261512-who-is-it.json](./261512-who-is-it.json) |
@@ -1771,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Tactics | 304746 | [304746-wild-tactics.json](./304746-wild-tactics.json) |
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
 | Wild Terra 2: New Lands - Cultist Pack | 378307 | [378307-wild-terra-2-new-lands-cultist-pack.json](./378307-wild-terra-2-new-lands-cultist-pack.json) |
+| Wild Terrain | 386423 | [386423-wild-terrain.json](./386423-wild-terrain.json) |
 | Wild Things: Animal Adventures | 109496 | [109496-wild-things-animal-adventures.json](./109496-wild-things-animal-adventures.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
