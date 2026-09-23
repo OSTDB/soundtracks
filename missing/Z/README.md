@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zybex | 47206 | [47206-zybex.json](./47206-zybex.json) |
 | Zyconix | 84210 | [84210-zyconix.json](./84210-zyconix.json) |
 | Zylo and the magic souls | 120214 | [120214-zylo-and-the-magic-souls.json](./120214-zylo-and-the-magic-souls.json) |
+| Zylogon | 363561 | [363561-zylogon.json](./363561-zylogon.json) |
 | Zynaps | 12628 | [12628-zynaps.json](./12628-zynaps.json) |
 | Zyndeck VX: Card Battler | 402400 | [402400-zyndeck-vx-card-battler.json](./402400-zyndeck-vx-card-battler.json) |
 | Zyr | 131994 | [131994-zyr.json](./131994-zyr.json) |
