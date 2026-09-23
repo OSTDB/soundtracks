@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate (Carnivale Card Game) | 132012 | [132012-fate-carnivale-card-game.json](./132012-fate-carnivale-card-game.json) |
 | Fate / Hollow Ataraxia: Limited Edition | 89862 | [89862-fate-hollow-ataraxia-limited-edition.json](./89862-fate-hollow-ataraxia-limited-edition.json) |
 | Fate & Inflation | 391721 | [391721-fate-and-inflation.json](./391721-fate-and-inflation.json) |
+| Fate Architect | 381864 | [381864-fate-architect.json](./381864-fate-architect.json) |
 | Fate Collectors | 253957 | [253957-fate-collectors.json](./253957-fate-collectors.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate Dealer | 378160 | [378160-fate-dealer.json](./378160-fate-dealer.json) |
@@ -2459,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Frickbear's | 395008 | [395008-five-nights-at-frickbears.json](./395008-five-nights-at-frickbears.json) |
 | Five Nights at Frickbear's 3 | 341540 | [341540-five-nights-at-frickbears-3.json](./341540-five-nights-at-frickbears-3.json) |
 | Five Nights at Frickbears 2 | 395010 | [395010-five-nights-at-frickbears-2.json](./395010-five-nights-at-frickbears-2.json) |
+| Five Nights at Friedrich's | 381852 | [381852-five-nights-at-friedrichs.json](./381852-five-nights-at-friedrichs.json) |
 | Five Nights at Jaygi's: Into Dreams... | 322379 | [322379-five-nights-at-jaygis-into-dreams.json](./322379-five-nights-at-jaygis-into-dreams.json) |
 | Five Nights at Kyle's 2 | 179724 | [179724-five-nights-at-kyles-2.json](./179724-five-nights-at-kyles-2.json) |
 | Five Nights At Pingas | 403829 | [403829-five-nights-at-pingas.json](./403829-five-nights-at-pingas.json) |
