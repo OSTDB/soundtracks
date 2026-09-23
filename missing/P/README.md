@@ -3573,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo3D | 259015 | [259015-pogo3d.json](./259015-pogo3d.json) |
 | Pogoduck | 243965 | [243965-pogoduck.json](./243965-pogoduck.json) |
 | Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
+| Pogui | 379056 | [379056-pogui.json](./379056-pogui.json) |
 | Pohinki Simulator | 333623 | [333623-pohinki-simulator.json](./333623-pohinki-simulator.json) |
 | Poi | 19278 | [19278-poi.json](./19278-poi.json) |
 | Poi: Deluxe Edition | 53464 | [53464-poi-deluxe-edition.json](./53464-poi-deluxe-edition.json) |
@@ -5899,6 +5900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
+| Puppy Link: Tile Connect | 379023 | [379023-puppy-link-tile-connect.json](./379023-puppy-link-tile-connect.json) |
 | Puppy Palace | 122204 | [122204-puppy-palace.json](./122204-puppy-palace.json) |
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
