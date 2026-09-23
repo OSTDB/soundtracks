@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fascinating Story: Wedding Night | 283880 | [283880-a-fascinating-story-wedding-night.json](./283880-a-fascinating-story-wedding-night.json) |
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
 | A Favor | 161748 | [161748-a-favor.json](./161748-a-favor.json) |
+| A Favor For The Alchemist | 385343 | [385343-a-favor-for-the-alchemist.json](./385343-a-favor-for-the-alchemist.json) |
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
 | A Few Days With: Olivia | 392955 | [392955-a-few-days-with-olivia.json](./392955-a-few-days-with-olivia.json) |
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
@@ -2355,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Penguin | 7753 | [7753-amazing-penguin.json](./7753-amazing-penguin.json) |
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
 | Amazing Pets Bundle | 212788 | [212788-amazing-pets-bundle.json](./212788-amazing-pets-bundle.json) |
+| Amazing Pyramids | 385293 | [385293-amazing-pyramids.json](./385293-amazing-pyramids.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
 | AMazing TD | 130181 | [130181-amazing-td.json](./130181-amazing-td.json) |
@@ -3933,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Angler | 400238 | [400238-arcane-angler.json](./400238-arcane-angler.json) |
 | Arcane Array Arena | 296524 | [296524-arcane-array-arena.json](./296524-arcane-array-arena.json) |
 | Arcane Arts Academy 2 | 217989 | [217989-arcane-arts-academy-2.json](./217989-arcane-arts-academy-2.json) |
+| Arcane Arts: Sorcerer's Quest | 385316 | [385316-arcane-arts-sorcerers-quest.json](./385316-arcane-arts-sorcerers-quest.json) |
 | Arcane Assembly | 244492 | [244492-arcane-assembly.json](./244492-arcane-assembly.json) |
 | Arcane Audit | 248888 | [248888-arcane-audit.json](./248888-arcane-audit.json) |
 | Arcane Blood: The Shattered Star | 277274 | [277274-arcane-blood-the-shattered-star.json](./277274-arcane-blood-the-shattered-star.json) |
