@@ -13063,10 +13063,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: A-ha - "Take On Me" | 298699 | [298699-synth-riders-a-ha-take-on-me.json](./298699-synth-riders-a-ha-take-on-me.json) |
 | Synth Riders: Bad Religion - "21st Century (Digital Boy)" | 356085 | [356085-synth-riders-bad-religion-21st-century-digital-boy.json](./356085-synth-riders-bad-religion-21st-century-digital-boy.json) |
 | Synth Riders: Balduin, Wolfgang Lohr - "Magic Man" | 288233 | [288233-synth-riders-balduin-wolfgang-lohr-magic-man.json](./288233-synth-riders-balduin-wolfgang-lohr-magic-man.json) |
+| Synth Riders: Blur - "Song 2" | 352397 | [352397-synth-riders-blur-song-2.json](./352397-synth-riders-blur-song-2.json) |
 | Synth Riders: Bruno Mars - "Runaway Baby" | 356079 | [356079-synth-riders-bruno-mars-runaway-baby.json](./356079-synth-riders-bruno-mars-runaway-baby.json) |
 | Synth Riders: Caravan Palace - "Lone Digger" | 356191 | [356191-synth-riders-caravan-palace-lone-digger.json](./356191-synth-riders-caravan-palace-lone-digger.json) |
 | Synth Riders: Caravan Palace - "Tattoos" | 356183 | [356183-synth-riders-caravan-palace-tattoos.json](./356183-synth-riders-caravan-palace-tattoos.json) |
 | Synth Riders: Challenges+ Update | 341049 | [341049-synth-riders-challenges-update.json](./341049-synth-riders-challenges-update.json) |
+| Synth Riders: Charli xcx - "Apple" | 352399 | [352399-synth-riders-charli-xcx-apple.json](./352399-synth-riders-charli-xcx-apple.json) |
 | Synth Riders: Cut Capers - "Let's Start Again (Odd Chap Remix)" | 288234 | [288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json](./288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json) |
 | Synth Riders: Daryl Hall & John Oates - "Out of Touch" | 353389 | [353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json](./353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json) |
 | Synth Riders: Devo - "Whip It" | 298700 | [298700-synth-riders-devo-whip-it.json](./298700-synth-riders-devo-whip-it.json) |
@@ -13086,7 +13088,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Muse Music Pack & Experience | 356175 | [356175-synth-riders-muse-music-pack-and-experience.json](./356175-synth-riders-muse-music-pack-and-experience.json) |
 | Synth Riders: Nitro Fun - "New Game" | 356184 | [356184-synth-riders-nitro-fun-new-game.json](./356184-synth-riders-nitro-fun-new-game.json) |
 | Synth Riders: Phil Collins - "Sussudio" | 298702 | [298702-synth-riders-phil-collins-sussudio.json](./298702-synth-riders-phil-collins-sussudio.json) |
+| Synth Riders: Queen - "Don't Stop Me Now" | 352400 | [352400-synth-riders-queen-dont-stop-me-now.json](./352400-synth-riders-queen-dont-stop-me-now.json) |
+| Synth Riders: Rick Astley - "Never Gonna Give You Up" | 352396 | [352396-synth-riders-rick-astley-never-gonna-give-you-up.json](./352396-synth-riders-rick-astley-never-gonna-give-you-up.json) |
 | Synth Riders: Silk Sonic - "Skate" | 356116 | [356116-synth-riders-silk-sonic-skate.json](./356116-synth-riders-silk-sonic-skate.json) |
+| Synth Riders: Soundgarden - "Black Hole Sun" | 352398 | [352398-synth-riders-soundgarden-black-hole-sun.json](./352398-synth-riders-soundgarden-black-hole-sun.json) |
 | Synth Riders: Starcadian - "Manuals" | 356172 | [356172-synth-riders-starcadian-manuals.json](./356172-synth-riders-starcadian-manuals.json) |
 | Synth Riders: Starcadian - "New Cydonia" | 356080 | [356080-synth-riders-starcadian-new-cydonia.json](./356080-synth-riders-starcadian-new-cydonia.json) |
 | Synth Riders: Starcadian - "Supersymmetry" | 356179 | [356179-synth-riders-starcadian-supersymmetry.json](./356179-synth-riders-starcadian-supersymmetry.json) |
@@ -13101,6 +13106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: The Midnight - "Sunset" | 356081 | [356081-synth-riders-the-midnight-sunset.json](./356081-synth-riders-the-midnight-sunset.json) |
 | Synth Riders: The Smile - "Zero Sum" | 364552 | [364552-synth-riders-the-smile-zero-sum.json](./364552-synth-riders-the-smile-zero-sum.json) |
 | Synth Riders: Tokyo Machine - "Turbo" | 356171 | [356171-synth-riders-tokyo-machine-turbo.json](./356171-synth-riders-tokyo-machine-turbo.json) |
+| Synth Riders: Toto - "Africa" | 352395 | [352395-synth-riders-toto-africa.json](./352395-synth-riders-toto-africa.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
 | Synthalgia: Retro Arcade Racing | 155513 | [155513-synthalgia-retro-arcade-racing.json](./155513-synthalgia-retro-arcade-racing.json) |
