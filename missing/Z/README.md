@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombusters | 50804 | [50804-zombusters.json](./50804-zombusters.json) |
 | Zombutcher | 379585 | [379585-zombutcher.json](./379585-zombutcher.json) |
 | ZombWave | 207402 | [207402-zombwave.json](./207402-zombwave.json) |
+| Zompell | 357439 | [357439-zompell.json](./357439-zompell.json) |
 | Zompiercer | 132247 | [132247-zompiercer.json](./132247-zompiercer.json) |
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
 | Zoms & Guns | 190201 | [190201-zoms-and-guns.json](./190201-zoms-and-guns.json) |
