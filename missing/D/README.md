@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS: F-15C Aggressors Air Combat Maneuvering Campaign by Maple Flag | 296518 | [296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json](./296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json) |
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
 | DDD Pool | 92835 | [92835-ddd-pool.json](./92835-ddd-pool.json) |
+| DDD: Demons Double Down | 390779 | [390779-ddd-demons-double-down.json](./390779-ddd-demons-double-down.json) |
 | DDI Touring Car Championship | 298681 | [298681-ddi-touring-car-championship.json](./298681-ddi-touring-car-championship.json) |
 | DDM Soccer '96 | 93390 | [93390-ddm-soccer-96.json](./93390-ddm-soccer-96.json) |
 | DDraceNetwork | 136770 | [136770-ddracenetwork.json](./136770-ddracenetwork.json) |
@@ -1923,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degen Royale | 223430 | [223430-degen-royale.json](./223430-degen-royale.json) |
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
+| Degeons Project | 390796 | [390796-degeons-project.json](./390796-degeons-project.json) |
 | Degradation: Kyomu's Fury | 265780 | [265780-degradation-kyomus-fury.json](./265780-degradation-kyomus-fury.json) |
 | Degraman: Act I - Vincent | 196165 | [196165-degraman-act-i-vincent.json](./196165-degraman-act-i-vincent.json) |
 | Degrees of Separation | 110503 | [110503-degrees-of-separation.json](./110503-degrees-of-separation.json) |
@@ -2261,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
 | Deported: Drain the Swamp | 111422 | [111422-deported-drain-the-swamp.json](./111422-deported-drain-the-swamp.json) |
 | DepowerBall | 126607 | [126607-depowerball.json](./126607-depowerball.json) |
+| DepraviA | 390812 | [390812-depravia.json](./390812-depravia.json) |
 | Depression Level 50 | 362878 | [362878-depression-level-50.json](./362878-depression-level-50.json) |
 | Depression the Game | 103456 | [103456-depression-the-game.json](./103456-depression-the-game.json) |
 | Deprision | 325707 | [325707-deprision.json](./325707-deprision.json) |
@@ -2552,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detained: Too Good for School | 152148 | [152148-detained-too-good-for-school.json](./152148-detained-too-good-for-school.json) |
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
+| Detective 26 | 390789 | [390789-detective-26.json](./390789-detective-26.json) |
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
@@ -3785,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
 | Do you know de way | 89966 | [89966-do-you-know-de-way.json](./89966-do-you-know-de-way.json) |
 | Do You Like Horny Bunnies? Complete Collection | 201172 | [201172-do-you-like-horny-bunnies-complete-collection.json](./201172-do-you-like-horny-bunnies-complete-collection.json) |
+| Do You Really Know? | 390777 | [390777-do-you-really-know.json](./390777-do-you-really-know.json) |
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
 | Do You Want More!? | 203938 | [203938-do-you-want-more.json](./203938-do-you-want-more.json) |
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
@@ -5305,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
 | Dreadnought Tartarus | 383481 | [383481-dreadnought-tartarus.json](./383481-dreadnought-tartarus.json) |
+| Dreadnut | 390805 | [390805-dreadnut.json](./390805-dreadnut.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
@@ -5385,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream of Tomorrow | 161354 | [161354-dream-of-tomorrow.json](./161354-dream-of-tomorrow.json) |
 | Dream Park Story | 175874 | [175874-dream-park-story.json](./175874-dream-park-story.json) |
+| Dream Peak | 390781 | [390781-dream-peak.json](./390781-dream-peak.json) |
 | Dream Piano Tiles 2018 | 107665 | [107665-dream-piano-tiles-2018.json](./107665-dream-piano-tiles-2018.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
@@ -6013,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
 | Dunebound Tactics | 320131 | [320131-dunebound-tactics.json](./320131-dunebound-tactics.json) |
 | Dunes of Valor | 303498 | [303498-dunes-of-valor.json](./303498-dunes-of-valor.json) |
+| Dung Battles | 390799 | [390799-dung-battles.json](./390799-dung-battles.json) |
 | Dung Beetle | 75116 | [75116-dung-beetle.json](./75116-dung-beetle.json) |
 | Dung Slinger | 410342 | [410342-dung-slinger.json](./410342-dung-slinger.json) |
 | Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
@@ -6399,6 +6407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
 | Dwarf Defense | 101339 | [101339-dwarf-defense.json](./101339-dwarf-defense.json) |
+| Dwarf Eats Mountain | 390780 | [390780-dwarf-eats-mountain.json](./390780-dwarf-eats-mountain.json) |
 | Dwarf Fortress | 228456 | [228456-dwarf-fortress.json](./228456-dwarf-fortress.json) |
 | Dwarf Journey | 144137 | [144137-dwarf-journey.json](./144137-dwarf-journey.json) |
 | Dwarf Land | 284905 | [284905-dwarf-land.json](./284905-dwarf-land.json) |
