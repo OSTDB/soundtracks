@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien's Return | 79315 | [79315-aliens-return.json](./79315-aliens-return.json) |
 | AlienAfterlife | 114220 | [114220-alienafterlife.json](./114220-alienafterlife.json) |
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
+| Aliencity | 383636 | [383636-aliencity.json](./383636-aliencity.json) |
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
 | Aliens | 13680 | [13680-aliens.json](./13680-aliens.json) |
 | Aliens | 186868 | [186868-aliens.json](./186868-aliens.json) |
