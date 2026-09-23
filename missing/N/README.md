@@ -2414,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Ratatoskr, Clan of the Squirrel | 159702 | [159702-northgard-ratatoskr-clan-of-the-squirrel.json](./159702-northgard-ratatoskr-clan-of-the-squirrel.json) |
 | Northmark: Hour of the Wolf | 17532 | [17532-northmark-hour-of-the-wolf.json](./17532-northmark-hour-of-the-wolf.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
+| Northwest Fur Trader | 387691 | [387691-northwest-fur-trader.json](./387691-northwest-fur-trader.json) |
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | Nose | 152145 | [152145-nose.json](./152145-nose.json) |
