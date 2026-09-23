@@ -3235,9 +3235,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotic Worlds | 146692 | [146692-robotic-worlds.json](./146692-robotic-worlds.json) |
 | Robotica | 211292 | [211292-robotica.json](./211292-robotica.json) |
+| Robotica | 384783 | [384783-robotica.json](./384783-robotica.json) |
 | Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
 | Robotics;Notes Double Pack | 132650 | [132650-robotics-notes-double-pack.json](./132650-robotics-notes-double-pack.json) |
 | Roboto | 232573 | [232573-roboto.json](./232573-roboto.json) |
+| Roboto | 384788 | [384788-roboto.json](./384788-roboto.json) |
 | Robotragedy | 171546 | [171546-robotragedy.json](./171546-robotragedy.json) |
 | Robotragedy 2: Countdown to Doomsday | 171548 | [171548-robotragedy-2-countdown-to-doomsday.json](./171548-robotragedy-2-countdown-to-doomsday.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
