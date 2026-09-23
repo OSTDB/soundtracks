@@ -3052,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Shinobi no Dokutsu | 181773 | [181773-shinobi-no-dokutsu.json](./181773-shinobi-no-dokutsu.json) |
 | Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
+| Shinobi Origins | 389108 | [389108-shinobi-origins.json](./389108-shinobi-origins.json) |
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
 | Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
 | Shinobi, Koi Utsutsu | 61665 | [61665-shinobi-koi-utsutsu.json](./61665-shinobi-koi-utsutsu.json) |
@@ -5818,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Collection | 208949 | [208949-solitaire-collection.json](./208949-solitaire-collection.json) |
 | Solitaire Collection HD | 90371 | [90371-solitaire-collection-hd.json](./90371-solitaire-collection-hd.json) |
 | Solitaire Crime Stories | 386141 | [386141-solitaire-crime-stories.json](./386141-solitaire-crime-stories.json) |
+| Solitaire Crime Stories Chapter 2 | 389072 | [389072-solitaire-crime-stories-chapter-2.json](./389072-solitaire-crime-stories-chapter-2.json) |
 | Solitaire Crime Stories Chapter 3 | 390506 | [390506-solitaire-crime-stories-chapter-3.json](./390506-solitaire-crime-stories-chapter-3.json) |
 | Solitaire Crime Stories Chapter 5 | 394560 | [394560-solitaire-crime-stories-chapter-5.json](./394560-solitaire-crime-stories-chapter-5.json) |
 | Solitaire Crime Stories Chapter 6 | 395209 | [395209-solitaire-crime-stories-chapter-6.json](./395209-solitaire-crime-stories-chapter-6.json) |
@@ -7990,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
 | Sports Car GT | 22822 | [22822-sports-car-gt.json](./22822-sports-car-gt.json) |
 | Sports Car Track Racers - Real Sports Car Driving Racing With Amazing Tracks | 87529 | [87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json](./87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json) |
+| Sports Card Shop Simulator | 389101 | [389101-sports-card-shop-simulator.json](./389101-sports-card-shop-simulator.json) |
 | Sports Challenge: 65 Games Edition | 381708 | [381708-sports-challenge-65-games-edition.json](./381708-sports-challenge-65-games-edition.json) |
 | Sports Champions | 18237 | [18237-sports-champions.json](./18237-sports-champions.json) |
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
@@ -8307,6 +8310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacking | 4851 | [4851-stacking.json](./4851-stacking.json) |
 | Stacklands 2000 | 298028 | [298028-stacklands-2000.json](./298028-stacklands-2000.json) |
 | Stacklands: Cursed Worlds | 257949 | [257949-stacklands-cursed-worlds.json](./257949-stacklands-cursed-worlds.json) |
+| Stackmon | 389118 | [389118-stackmon.json](./389118-stackmon.json) |
 | Stacks: Jungle! | 274552 | [274552-stacks-jungle.json](./274552-stacks-jungle.json) |
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
 | Stacky Hero | 227866 | [227866-stacky-hero.json](./227866-stacky-hero.json) |
@@ -10494,6 +10498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugobencha: Dragon Master Silk Gaiden | 321539 | [321539-sugobencha-dragon-master-silk-gaiden.json](./321539-sugobencha-dragon-master-silk-gaiden.json) |
 | SUGOI | 304183 | [304183-sugoi.json](./304183-sugoi.json) |
 | Sugoi Adventure! DragonSlayer | 216867 | [216867-sugoi-adventure-dragonslayer.json](./216867-sugoi-adventure-dragonslayer.json) |
+| Sugoi Girls: Dental Darling | 389073 | [389073-sugoi-girls-dental-darling.json](./389073-sugoi-girls-dental-darling.json) |
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
 | Sugoi Girls: Mighty Mecha | 317230 | [317230-sugoi-girls-mighty-mecha.json](./317230-sugoi-girls-mighty-mecha.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
@@ -11642,6 +11647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars Y: DLC 1 - Contract from the Darkness | 375171 | [375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json](./375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json) |
 | Super Robot Wars Y: DLC 2 - Awakening of a Soul | 375172 | [375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json](./375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json) |
 | Super Rock Blasters! | 31959 | [31959-super-rock-blasters.json](./31959-super-rock-blasters.json) |
+| Super Rocket Monkey | 389130 | [389130-super-rocket-monkey.json](./389130-super-rocket-monkey.json) |
 | Super Rocket Pets | 320155 | [320155-super-rocket-pets.json](./320155-super-rocket-pets.json) |
 | Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
 | Super Rugby League 2 | 23009 | [23009-super-rugby-league-2.json](./23009-super-rugby-league-2.json) |
@@ -11784,6 +11790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Stardust Delta | 42694 | [42694-super-stardust-delta.json](./42694-super-stardust-delta.json) |
+| Super Sticker Studio: Creative Sticker Book Game for Kids | 389074 | [389074-super-sticker-studio-creative-sticker-book-game-for-kids.json](./389074-super-sticker-studio-creative-sticker-book-game-for-kids.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
 | Super Street Basketball 2 | 64097 | [64097-super-street-basketball-2.json](./64097-super-street-basketball-2.json) |
