@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaelic Games: Football | 98973 | [98973-gaelic-games-football.json](./98973-gaelic-games-football.json) |
 | Gaelic Games: Football 2 | 57605 | [57605-gaelic-games-football-2.json](./57605-gaelic-games-football-2.json) |
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
+| GagImpact | 390267 | [390267-gagimpact.json](./390267-gagimpact.json) |
 | Gahkthun of the Golden Lightning: Steam Edition | 33106 | [33106-gahkthun-of-the-golden-lightning-steam-edition.json](./33106-gahkthun-of-the-golden-lightning-steam-edition.json) |
 | GAI Stops Auto: Right Version Simulator | 157125 | [157125-gai-stops-auto-right-version-simulator.json](./157125-gai-stops-auto-right-version-simulator.json) |
 | Gaia 2200 | 50530 | [50530-gaia-2200.json](./50530-gaia-2200.json) |
@@ -1451,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
 | Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
 | Gift | 95440 | [95440-gift.json](./95440-gift.json) |
+| Gift Drop Machine: Life Simulator | 390242 | [390242-gift-drop-machine-life-simulator.json](./390242-gift-drop-machine-life-simulator.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
 | Gift of Life: Key of Solomon | 88228 | [88228-gift-of-life-key-of-solomon.json](./88228-gift-of-life-key-of-solomon.json) |
 | Gift Shop Factory | 159360 | [159360-gift-shop-factory.json](./159360-gift-shop-factory.json) |
@@ -2340,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
 | Goo Saga | 57709 | [57709-goo-saga.json](./57709-goo-saga.json) |
 | Goo Saga: HD Edition | 31941 | [31941-goo-saga-hd-edition.json](./31941-goo-saga-hd-edition.json) |
+| Goob Wants an Android Girlfriend | 390244 | [390244-goob-wants-an-android-girlfriend.json](./390244-goob-wants-an-android-girlfriend.json) |
 | Gooba Ball | 300696 | [300696-gooba-ball.json](./300696-gooba-ball.json) |
 | Goober Arena | 320378 | [320378-goober-arena.json](./320378-goober-arena.json) |
 | Gooch Grundy's X-Decathlon | 73797 | [73797-gooch-grundys-x-decathlon.json](./73797-gooch-grundys-x-decathlon.json) |
@@ -2597,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grail Tale | 231945 | [231945-grail-tale.json](./231945-grail-tale.json) |
 | Grailquest | 92846 | [92846-grailquest.json](./92846-grailquest.json) |
 | Grain Sling | 273916 | [273916-grain-sling.json](./273916-grain-sling.json) |
+| Grainhold | 390256 | [390256-grainhold.json](./390256-grainhold.json) |
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
 | Grampage: Life at 67 | 415315 | [415315-grampage-life-at-67.json](./415315-grampage-life-at-67.json) |
