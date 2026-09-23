@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Grumps: The Video Game | 283768 | [283768-game-grumps-the-video-game.json](./283768-game-grumps-the-video-game.json) |
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
+| Game Machine 2 | 346762 | [346762-game-machine-2.json](./346762-game-machine-2.json) |
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
 | Game no Kanzume Vol. 1 | 398458 | [398458-game-no-kanzume-vol-1.json](./398458-game-no-kanzume-vol-1.json) |
 | Game no Tatsujin: Money Wars | 41314 | [41314-game-no-tatsujin-money-wars.json](./41314-game-no-tatsujin-money-wars.json) |
@@ -1874,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
 | Gnomes And Co: The Art of the Build | 137460 | [137460-gnomes-and-co-the-art-of-the-build.json](./137460-gnomes-and-co-the-art-of-the-build.json) |
 | Gnomes and Knights | 317434 | [317434-gnomes-and-knights.json](./317434-gnomes-and-knights.json) |
+| Gnomes and Knights: Path of Success | 347324 | [347324-gnomes-and-knights-path-of-success.json](./347324-gnomes-and-knights-path-of-success.json) |
 | Gnomes Garden 2 | 33329 | [33329-gnomes-garden-2.json](./33329-gnomes-garden-2.json) |
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
@@ -2095,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Simulator | 31883 | [31883-god-simulator.json](./31883-god-simulator.json) |
 | God Starfighter | 76956 | [76956-god-starfighter.json](./76956-god-starfighter.json) |
 | God Trials | 348421 | [348421-god-trials.json](./348421-god-trials.json) |
+| God Wars | 347325 | [347325-god-wars.json](./347325-god-wars.json) |
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
 | God's Forest | 265133 | [265133-gods-forest.json](./265133-gods-forest.json) |
