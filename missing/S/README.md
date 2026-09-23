@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
 | School Girl/Zombie Hunter | 41827 | [41827-school-girl-zombie-hunter.json](./41827-school-girl-zombie-hunter.json) |
 | School Grounds | 112738 | [112738-school-grounds.json](./112738-school-grounds.json) |
+| School Guard | 385866 | [385866-school-guard.json](./385866-school-guard.json) |
 | School Hero | 279113 | [279113-school-hero.json](./279113-school-hero.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
@@ -3333,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
 | Short Short Fictions | 369103 | [369103-short-short-fictions.json](./369103-short-short-fictions.json) |
 | Short Snow | 309867 | [309867-short-snow.json](./309867-short-snow.json) |
+| Short Stax | 385853 | [385853-short-stax.json](./385853-short-stax.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Shortest Trip to Earth | 108656 | [108656-shortest-trip-to-earth.json](./108656-shortest-trip-to-earth.json) |
 | Shortline Railroad | 223008 | [223008-shortline-railroad.json](./223008-shortline-railroad.json) |
@@ -3566,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Swipers | 280783 | [280783-side-swipers.json](./280783-side-swipers.json) |
 | Side to Side | 128569 | [128569-side-to-side.json](./128569-side-to-side.json) |
 | Side Whoop | 390656 | [390656-side-whoop.json](./390656-side-whoop.json) |
+| Sidecar Evolution 2025 | 385834 | [385834-sidecar-evolution-2025.json](./385834-sidecar-evolution-2025.json) |
 | Sidekick High | 185070 | [185070-sidekick-high.json](./185070-sidekick-high.json) |
 | SideLine | 243796 | [243796-sideline.json](./243796-sideline.json) |
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
@@ -4123,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirius: Age of the Free Agents | 115075 | [115075-sirius-age-of-the-free-agents.json](./115075-sirius-age-of-the-free-agents.json) |
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
+| Sister Red | 385867 | [385867-sister-red.json](./385867-sister-red.json) |
 | Sister Slave: Faithful Girl's Slave Training | 83230 | [83230-sister-slave-faithful-girls-slave-training.json](./83230-sister-slave-faithful-girls-slave-training.json) |
 | Sister Travel | 111718 | [111718-sister-travel.json](./111718-sister-travel.json) |
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
@@ -6523,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorrow Asylum | 259621 | [259621-sorrow-asylum.json](./259621-sorrow-asylum.json) |
 | Sorrow Asylum 2 | 264627 | [264627-sorrow-asylum-2.json](./264627-sorrow-asylum-2.json) |
 | Sorrow Asylum 3 | 309515 | [309515-sorrow-asylum-3.json](./309515-sorrow-asylum-3.json) |
+| Sorrow's Serenade | 385870 | [385870-sorrows-serenade.json](./385870-sorrows-serenade.json) |
 | Sorrowself | 143731 | [143731-sorrowself.json](./143731-sorrowself.json) |
 | Sorry About The Mess | 414322 | [414322-sorry-about-the-mess.json](./414322-sorry-about-the-mess.json) |
 | Sorry Sir, I'm out of controls | 184581 | [184581-sorry-sir-im-out-of-controls.json](./184581-sorry-sir-im-out-of-controls.json) |
@@ -10124,6 +10129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strinova Mobile | 350533 | [350533-strinova-mobile.json](./350533-strinova-mobile.json) |
 | Strip 4: Classmate Study | 130057 | [130057-strip-4-classmate-study.json](./130057-strip-4-classmate-study.json) |
 | Strip Black Jack: Hot Gym | 169297 | [169297-strip-black-jack-hot-gym.json](./169297-strip-black-jack-hot-gym.json) |
+| Strip Black Jack: Santa Babe | 385856 | [385856-strip-black-jack-santa-babe.json](./385856-strip-black-jack-santa-babe.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Dice / Strip Concentration | 71248 | [71248-strip-dice-strip-concentration.json](./71248-strip-dice-strip-concentration.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
@@ -10368,6 +10374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
 | Succubus Imprisoned | 83258 | [83258-succubus-imprisoned.json](./83258-succubus-imprisoned.json) |
+| Succubus Puttel | 385845 | [385845-succubus-puttel.json](./385845-succubus-puttel.json) |
 | Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
 | Succubus Successor: Delilah's Juicy Journey | 406898 | [406898-succubus-successor-delilahs-juicy-journey.json](./406898-succubus-successor-delilahs-juicy-journey.json) |
