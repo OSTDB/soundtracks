@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Abyss: New Tokyo Legacy - Limited Edition | 89916 | [89916-operation-abyss-new-tokyo-legacy-limited-edition.json](./89916-operation-abyss-new-tokyo-legacy-limited-edition.json) |
 | Operation Babel: New Tokyo Legacy | 25593 | [25593-operation-babel-new-tokyo-legacy.json](./25593-operation-babel-new-tokyo-legacy.json) |
 | Operation Blackout | 341514 | [341514-operation-blackout.json](./341514-operation-blackout.json) |
+| Operation Blindside: Annihilation | 343440 | [343440-operation-blindside-annihilation.json](./343440-operation-blindside-annihilation.json) |
 | Operation Bodycam | 316848 | [316848-operation-bodycam.json](./316848-operation-bodycam.json) |
 | Operation Breakout | 30839 | [30839-operation-breakout.json](./30839-operation-breakout.json) |
 | Operation Covid-19 | 149027 | [149027-operation-covid-19.json](./149027-operation-covid-19.json) |
@@ -1812,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 9 | 21340 | [21340-out-of-the-park-baseball-9.json](./21340-out-of-the-park-baseball-9.json) |
 | Out of the Shelter | 156701 | [156701-out-of-the-shelter.json](./156701-out-of-the-shelter.json) |
 | Out of the Sun | 64916 | [64916-out-of-the-sun.json](./64916-out-of-the-sun.json) |
+| Out of This World | 343451 | [343451-out-of-this-world.json](./343451-out-of-this-world.json) |
 | Out of Time | 356712 | [356712-out-of-time.json](./356712-out-of-time.json) |
 | Out of Time | 388932 | [388932-out-of-time.json](./388932-out-of-time.json) |
 | Out Racing: Arcade Memory | 294835 | [294835-out-racing-arcade-memory.json](./294835-out-racing-arcade-memory.json) |
