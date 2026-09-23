@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
 | Jigten: Mandala of Shadows | 376449 | [376449-jigten-mandala-of-shadows.json](./376449-jigten-mandala-of-shadows.json) |
 | Jiguland | 164964 | [164964-jiguland.json](./164964-jiguland.json) |
+| Jigzo | 363576 | [363576-jigzo.json](./363576-jigzo.json) |
 | Jiji...Love | 329715 | [329715-jiji-love.json](./329715-jiji-love.json) |
 | Jikai Shounen Mettomag | 41321 | [41321-jikai-shounen-mettomag.json](./41321-jikai-shounen-mettomag.json) |
 | Jikkyou GI Stable | 3524 | [3524-jikkyou-gi-stable.json](./3524-jikkyou-gi-stable.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Force: Character Pack 7 - Madara Uchiha | 167779 | [167779-jump-force-character-pack-7-madara-uchiha.json](./167779-jump-force-character-pack-7-madara-uchiha.json) |
 | Jump Force: Character Pack 8 - Grimmjow Jaegerjaquez | 167778 | [167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json](./167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json) |
 | Jump Force: Character Pack 9 - Trafalgar Law | 167776 | [167776-jump-force-character-pack-9-trafalgar-law.json](./167776-jump-force-character-pack-9-trafalgar-law.json) |
+| Jump Greed | 363563 | [363563-jump-greed.json](./363563-jump-greed.json) |
 | Jump Hero II: Jinsei wa Jabuun | 137620 | [137620-jump-hero-ii-jinsei-wa-jabuun.json](./137620-jump-hero-ii-jinsei-wa-jabuun.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
 | Jump Jack | 85863 | [85863-jump-jack.json](./85863-jump-jack.json) |
