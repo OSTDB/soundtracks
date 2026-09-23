@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aashaa | 232969 | [232969-aashaa.json](./232969-aashaa.json) |
 | AashMans Party Mix | 356897 | [356897-aashmans-party-mix.json](./356897-aashmans-party-mix.json) |
 | Aatral | 264106 | [264106-aatral.json](./264106-aatral.json) |
+| Aatral Origins | 346238 | [346238-aatral-origins.json](./346238-aatral-origins.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
 | Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
 | American Car Parking Simulator 2025 | 380705 | [380705-american-car-parking-simulator-2025.json](./380705-american-car-parking-simulator-2025.json) |
+| American Cars 'n Guns | 346222 | [346222-american-cars-n-guns.json](./346222-american-cars-n-guns.json) |
 | American Catur | 187971 | [187971-american-catur.json](./187971-american-catur.json) |
 | American Civil War | 52582 | [52582-american-civil-war.json](./52582-american-civil-war.json) |
 | American Civil War Mod: Revived | 356166 | [356166-american-civil-war-mod-revived.json](./356166-american-civil-war-mod-revived.json) |
@@ -5541,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Lothal | 359445 | [359445-attack-on-lothal.json](./359445-attack-on-lothal.json) |
 | Attack on Mutation Station | 307118 | [307118-attack-on-mutation-station.json](./307118-attack-on-mutation-station.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
+| Attack on Steel | 346228 | [346228-attack-on-steel.json](./346228-attack-on-steel.json) |
 | Attack on Time | 193848 | [193848-attack-on-time.json](./193848-attack-on-time.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
 | Attack on Titan 2: Treasure Box - Limited Edition | 212312 | [212312-attack-on-titan-2-treasure-box-limited-edition.json](./212312-attack-on-titan-2-treasure-box-limited-edition.json) |
