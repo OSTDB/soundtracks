@@ -3181,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory of Camping | 224120 | [224120-memory-of-camping.json](./224120-memory-of-camping.json) |
 | Memory of Lust | 384760 | [384760-memory-of-lust.json](./384760-memory-of-lust.json) |
 | Memory of Memorie: A Chill Story | 409654 | [409654-memory-of-memorie-a-chill-story.json](./409654-memory-of-memorie-a-chill-story.json) |
+| Memory Of Psycho | 349505 | [349505-memory-of-psycho.json](./349505-memory-of-psycho.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Puzzle: Neko Girls | 286496 | [286496-memory-puzzle-neko-girls.json](./286496-memory-puzzle-neko-girls.json) |
 | Memory Quickie | 310754 | [310754-memory-quickie.json](./310754-memory-quickie.json) |
@@ -5473,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
 | Monster Academy: An Interactive Story | 415063 | [415063-monster-academy-an-interactive-story.json](./415063-monster-academy-an-interactive-story.json) |
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
+| Monster and Snakes 1.1 | 349497 | [349497-monster-and-snakes-1-1.json](./349497-monster-and-snakes-1-1.json) |
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
 | Monster Band | 293221 | [293221-monster-band.json](./293221-monster-band.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
