@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Armor Custom Gasaraki | 43904 | [43904-tactical-armor-custom-gasaraki.json](./43904-tactical-armor-custom-gasaraki.json) |
 | Tactical Assassin | 234160 | [234160-tactical-assassin.json](./234160-tactical-assassin.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
+| Tactical Battles | 342846 | [342846-tactical-battles.json](./342846-tactical-battles.json) |
 | Tactical Breach Wizards: Special Edition | 396407 | [396407-tactical-breach-wizards-special-edition.json](./396407-tactical-breach-wizards-special-edition.json) |
 | Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
 | Tactical Manager | 182375 | [182375-tactical-manager.json](./182375-tactical-manager.json) |
@@ -671,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Nano Peanuts | 348959 | [348959-tamagotchi-nano-peanuts.json](./348959-tamagotchi-nano-peanuts.json) |
 | Tamagotchi no Appare! Niji-Venture | 77623 | [77623-tamagotchi-no-appare-niji-venture.json](./77623-tamagotchi-no-appare-niji-venture.json) |
 | Tamagotchi no Furi Furi Kagekidan! | 77620 | [77620-tamagotchi-no-furi-furi-kagekidan.json](./77620-tamagotchi-no-furi-furi-kagekidan.json) |
+| Tamagotchi no Kira-kira Omisecchi | 342891 | [342891-tamagotchi-no-kira-kira-omisecchi.json](./342891-tamagotchi-no-kira-kira-omisecchi.json) |
 | Tamagotchi no Kira-kira Omisecchi | 77625 | [77625-tamagotchi-no-kira-kira-omisecchi.json](./77625-tamagotchi-no-kira-kira-omisecchi.json) |
 | Tamagotchi no Narikiri Challenge | 77626 | [77626-tamagotchi-no-narikiri-challenge.json](./77626-tamagotchi-no-narikiri-challenge.json) |
 | Tamagotchi no Narikiri Channel | 77624 | [77624-tamagotchi-no-narikiri-channel.json](./77624-tamagotchi-no-narikiri-channel.json) |
@@ -786,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
 | Tank Odyssey | 414550 | [414550-tank-odyssey.json](./414550-tank-odyssey.json) |
 | Tank Onslaught | 147811 | [147811-tank-onslaught.json](./147811-tank-onslaught.json) |
+| Tank Operations: Diary of the War | 342845 | [342845-tank-operations-diary-of-the-war.json](./342845-tank-operations-diary-of-the-war.json) |
 | Tank POV | 402526 | [402526-tank-pov.json](./402526-tank-pov.json) |
 | Tank Riders | 61065 | [61065-tank-riders.json](./61065-tank-riders.json) |
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
@@ -2580,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Button Be: Fields | 217542 | [217542-the-button-be-fields.json](./217542-the-button-be-fields.json) |
 | The Button Be: Unexpected | 217543 | [217543-the-button-be-unexpected.json](./217543-the-button-be-unexpected.json) |
 | The Button by Elendow | 238612 | [238612-the-button-by-elendow.json](./238612-the-button-by-elendow.json) |
+| The Button Effect | 342839 | [342839-the-button-effect.json](./342839-the-button-effect.json) |
 | The C64 Collection 1 | 214533 | [214533-the-c64-collection-1.json](./214533-the-c64-collection-1.json) |
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
@@ -4309,12 +4313,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIII: Nests Style Kyo | 404922 | [404922-the-king-of-fighters-xiii-nests-style-kyo.json](./404922-the-king-of-fighters-xiii-nests-style-kyo.json) |
 | The King of Fighters XIV | 18814 | [18814-the-king-of-fighters-xiv.json](./18814-the-king-of-fighters-xiv.json) |
 | The King of Fighters XIV Steam Edition | 36636 | [36636-the-king-of-fighters-xiv-steam-edition.json](./36636-the-king-of-fighters-xiv-steam-edition.json) |
+| The King of Fighters XIV: Athena KOF ‘98 Costume | 342871 | [342871-the-king-of-fighters-xiv-athena-kof-98-costume.json](./342871-the-king-of-fighters-xiv-athena-kof-98-costume.json) |
 | The King of Fighters XIV: Blue Mary | 321571 | [321571-the-king-of-fighters-xiv-blue-mary.json](./321571-the-king-of-fighters-xiv-blue-mary.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
 | The King of Fighters XIV: Heidern | 321570 | [321570-the-king-of-fighters-xiv-heidern.json](./321570-the-king-of-fighters-xiv-heidern.json) |
+| The King of Fighters XIV: Kyo Classic Costume | 342872 | [342872-the-king-of-fighters-xiv-kyo-classic-costume.json](./342872-the-king-of-fighters-xiv-kyo-classic-costume.json) |
 | The King of Fighters XIV: Najd | 321572 | [321572-the-king-of-fighters-xiv-najd.json](./321572-the-king-of-fighters-xiv-najd.json) |
+| The King Of Fighters XIV: Nakoruru School Costume | 342869 | [342869-the-king-of-fighters-xiv-nakoruru-school-costume.json](./342869-the-king-of-fighters-xiv-nakoruru-school-costume.json) |
 | The King Of FIghters XIV: Nightmare Geese Costume | 338177 | [338177-the-king-of-fighters-xiv-nightmare-geese-costume.json](./338177-the-king-of-fighters-xiv-nightmare-geese-costume.json) |
 | The King of Fighters XIV: Oswald | 321569 | [321569-the-king-of-fighters-xiv-oswald.json](./321569-the-king-of-fighters-xiv-oswald.json) |
+| The King of Fighters XIV: Shun'ei Kung-Fu Costume | 342867 | [342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json](./342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json) |
+| The King Of Fighters XIV: Sylvie Little Red Riding Hood Costume | 342870 | [342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json](./342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
@@ -6328,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of Red Cloud | 361223 | [361223-the-story-of-red-cloud.json](./361223-the-story-of-red-cloud.json) |
 | The Story of the Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned How to Escape | 144241 | [144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json](./144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json) |
 | The Storyteller | 302369 | [302369-the-storyteller.json](./302369-the-storyteller.json) |
+| The Storyteller | 342841 | [342841-the-storyteller.json](./342841-the-storyteller.json) |
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
 | The Strange Story of Brian Fisher: Chapter 2 | 168841 | [168841-the-strange-story-of-brian-fisher-chapter-2.json](./168841-the-strange-story-of-brian-fisher-chapter-2.json) |
 | The Stranger | 57143 | [57143-the-stranger.json](./57143-the-stranger.json) |
@@ -7000,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
 | The Whispering Bones | 389400 | [389400-the-whispering-bones.json](./389400-the-whispering-bones.json) |
 | The Whispering Woods | 335361 | [335361-the-whispering-woods.json](./335361-the-whispering-woods.json) |
+| The Whistle | 342837 | [342837-the-whistle.json](./342837-the-whistle.json) |
 | The White Day | 305343 | [305343-the-white-day.json](./305343-the-white-day.json) |
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
 | The White Hell | 390545 | [390545-the-white-hell.json](./390545-the-white-hell.json) |
@@ -8965,6 +8976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
+| Tokachi Detective: The Balloon Case | 342889 | [342889-tokachi-detective-the-balloon-case.json](./342889-tokachi-detective-the-balloon-case.json) |
 | Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
 | Tokeru Fuuka to Shirousagi | 411105 | [411105-tokeru-fuuka-to-shirousagi.json](./411105-tokeru-fuuka-to-shirousagi.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
@@ -9222,6 +9234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
 | Tomb Towers | 99610 | [99610-tomb-towers.json](./99610-tomb-towers.json) |
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
+| Tomba! Special Edition: Whoopee Edition | 342885 | [342885-tomba-special-edition-whoopee-edition.json](./342885-tomba-special-edition-whoopee-edition.json) |
 | Tombeaux | 111426 | [111426-tombeaux.json](./111426-tombeaux.json) |
 | Tombed | 242820 | [242820-tombed.json](./242820-tombed.json) |
 | Tombers | 346656 | [346656-tombers.json](./346656-tombers.json) |
