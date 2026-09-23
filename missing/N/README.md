@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Mana, Just Dice | 389122 | [389122-no-mana-just-dice.json](./389122-no-mana-just-dice.json) |
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
+| No More Heroes 1-3 Bundle | 384792 | [384792-no-more-heroes-1-3-bundle.json](./384792-no-more-heroes-1-3-bundle.json) |
 | No More Heroes III | 119387 | [119387-no-more-heroes-iii.json](./119387-no-more-heroes-iii.json) |
 | No More Heroes III: Day 1 Edition | 198394 | [198394-no-more-heroes-iii-day-1-edition.json](./198394-no-more-heroes-iii-day-1-edition.json) |
 | No More Heroes: Naomi Hook | 355548 | [355548-no-more-heroes-naomi-hook.json](./355548-no-more-heroes-naomi-hook.json) |
@@ -2703,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numina: Part 2 | 241510 | [241510-numina-part-2.json](./241510-numina-part-2.json) |
 | Numinous | 61044 | [61044-numinous.json](./61044-numinous.json) |
 | Numito | 329119 | [329119-numito.json](./329119-numito.json) |
+| Numjump | 384787 | [384787-numjump.json](./384787-numjump.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
 | Nump Jump | 213587 | [213587-nump-jump.json](./213587-nump-jump.json) |
 | NumWorlds | 335846 | [335846-numworlds.json](./335846-numworlds.json) |
