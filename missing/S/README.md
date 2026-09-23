@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Cats | 131363 | [131363-samurai-cats.json](./131363-samurai-cats.json) |
 | Samurai Champloo: Sidetracked | 19625 | [19625-samurai-champloo-sidetracked.json](./19625-samurai-champloo-sidetracked.json) |
 | Samurai Chess | 149571 | [149571-samurai-chess.json](./149571-samurai-chess.json) |
+| Samurai Conqueror | 374830 | [374830-samurai-conqueror.json](./374830-samurai-conqueror.json) |
 | Samurai Cooking | 155665 | [155665-samurai-cooking.json](./155665-samurai-cooking.json) |
 | Samurai Daisuke | 233502 | [233502-samurai-daisuke.json](./233502-samurai-daisuke.json) |
 | Samurai Defender | 84903 | [84903-samurai-defender.json](./84903-samurai-defender.json) |
@@ -2192,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sever the Wicked! | 363470 | [363470-sever-the-wicked.json](./363470-sever-the-wicked.json) |
 | Severance | 196235 | [196235-severance.json](./196235-severance.json) |
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
+| Severance | 374827 | [374827-severance.json](./374827-severance.json) |
 | Severed | 6066 | [6066-severed.json](./6066-severed.json) |
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
@@ -2608,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shameless Afterparty | 340382 | [340382-shameless-afterparty.json](./340382-shameless-afterparty.json) |
 | Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
 | Shan Gui II: Sweet Osmanthus II | 110467 | [110467-shan-gui-ii-sweet-osmanthus-ii.json](./110467-shan-gui-ii-sweet-osmanthus-ii.json) |
+| Shan Hai: Mythic Origins | 374845 | [374845-shan-hai-mythic-origins.json](./374845-shan-hai-mythic-origins.json) |
 | Shane Warne's Cricket Test Interactive DVD Game | 352193 | [352193-shane-warnes-cricket-test-interactive-dvd-game.json](./352193-shane-warnes-cricket-test-interactive-dvd-game.json) |
 | Shane's Trains | 400325 | [400325-shanes-trains.json](./400325-shanes-trains.json) |
 | Shanghai Double Pack | 128644 | [128644-shanghai-double-pack.json](./128644-shanghai-double-pack.json) |
@@ -4711,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
 | Sleepover | 401631 | [401631-sleepover.json](./401631-sleepover.json) |
+| Sleepover: Rewake | 374808 | [374808-sleepover-rewake.json](./374808-sleepover-rewake.json) |
 | Sleepthrough | 230264 | [230264-sleepthrough.json](./230264-sleepthrough.json) |
 | Sleepwalker | 13079 | [13079-sleepwalker.json](./13079-sleepwalker.json) |
 | Sleepwalker | 96686 | [96686-sleepwalker.json](./96686-sleepwalker.json) |
@@ -8282,6 +8286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square's Route | 33390 | [33390-squares-route.json](./33390-squares-route.json) |
 | Square's Tom Sawyer | 73518 | [73518-squares-tom-sawyer.json](./73518-squares-tom-sawyer.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
+| Squared Straight | 374819 | [374819-squared-straight.json](./374819-squared-straight.json) |
 | Squared: Adjacent Stones | 241996 | [241996-squared-adjacent-stones.json](./241996-squared-adjacent-stones.json) |
 | Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
 | Squarelets | 297054 | [297054-squarelets.json](./297054-squarelets.json) |
@@ -8450,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
 | Standby | 26715 | [26715-standby.json](./26715-standby.json) |
 | Standby Say You! | 108836 | [108836-standby-say-you.json](./108836-standby-say-you.json) |
+| Standing Together | 374807 | [374807-standing-together.json](./374807-standing-together.json) |
 | StandOff | 348831 | [348831-standoff.json](./348831-standoff.json) |
 | Standoff Multiplayer | 138172 | [138172-standoff-multiplayer.json](./138172-standoff-multiplayer.json) |
 | Stanga | 133210 | [133210-stanga.json](./133210-stanga.json) |
