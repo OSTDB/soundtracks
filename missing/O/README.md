@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore no Imouto Maker EX: Imouto to Koi Shiyo? Portable | 197947 | [197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json](./197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json) |
 | Ore no Ryouri | 44880 | [44880-ore-no-ryouri.json](./44880-ore-no-ryouri.json) |
 | Ore no Shita de Agake | 205643 | [205643-ore-no-shita-de-agake.json](./205643-ore-no-shita-de-agake.json) |
+| Ore no Yacht: Ganbare Nippon Challenge | 378439 | [378439-ore-no-yacht-ganbare-nippon-challenge.json](./378439-ore-no-yacht-ganbare-nippon-challenge.json) |
 | Ore no Yome VR | 304892 | [304892-ore-no-yome-vr.json](./304892-ore-no-yome-vr.json) |
 | Ore to Omae ga Ai ni Tsuite Kataru dake | 337727 | [337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json](./337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json) |
 | ORE x TRACTOR | 401823 | [401823-ore-x-tractor.json](./401823-ore-x-tractor.json) |
