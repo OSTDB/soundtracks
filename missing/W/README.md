@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartune | 23652 | [23652-wartune.json](./23652-wartune.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
+| WarZone | 370920 | [370920-warzone.json](./370920-warzone.json) |
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
 | WarZone Flashpoint | 112996 | [112996-warzone-flashpoint.json](./112996-warzone-flashpoint.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
