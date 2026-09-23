@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasynth | 54726 | [54726-fantasynth.json](./54726-fantasynth.json) |
 | Fantasynth One | 157548 | [157548-fantasynth-one.json](./157548-fantasynth-one.json) |
 | Fantaventura | 129717 | [129717-fantaventura.json](./129717-fantaventura.json) |
+| FantaVision | 376693 | [376693-fantavision.json](./376693-fantavision.json) |
 | Fantavision 202X | 229133 | [229133-fantavision-202x.json](./229133-fantavision-202x.json) |
 | Fantom Feast | 112928 | [112928-fantom-feast.json](./112928-fantom-feast.json) |
 | FantômeRapport: Intermezzo | 406101 | [406101-fantomerapport-intermezzo.json](./406101-fantomerapport-intermezzo.json) |
@@ -4226,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends Play Pool | 267465 | [267465-friends-play-pool.json](./267465-friends-play-pool.json) |
 | Friends Racing Duo | 212456 | [212456-friends-racing-duo.json](./212456-friends-racing-duo.json) |
 | Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
+| Friends vs. Friends: El Pelicano | 376700 | [376700-friends-vs-friends-el-pelicano.json](./376700-friends-vs-friends-el-pelicano.json) |
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
 | Friendship vs The World | 402942 | [402942-friendship-vs-the-world.json](./402942-friendship-vs-the-world.json) |
@@ -4962,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuraiki | 64665 | [64665-fuuraiki.json](./64665-fuuraiki.json) |
 | Fuuraiki 4 | 142398 | [142398-fuuraiki-4.json](./142398-fuuraiki-4.json) |
 | Fuuun Gokuu Ninjin | 43865 | [43865-fuuun-gokuu-ninjin.json](./43865-fuuun-gokuu-ninjin.json) |
+| Fuuun Shaolin Ken | 376690 | [376690-fuuun-shaolin-ken.json](./376690-fuuun-shaolin-ken.json) |
 | Fuuun Shourin Ken | 375325 | [375325-fuuun-shourin-ken.json](./375325-fuuun-shourin-ken.json) |
 | Fuuun Takeshi-jou | 300010 | [300010-fuuun-takeshi-jou.json](./300010-fuuun-takeshi-jou.json) |
 | Fuwa! Fuwa! Omurice Simulator Roguelite | 415083 | [415083-fuwa-fuwa-omurice-simulator-roguelite.json](./415083-fuwa-fuwa-omurice-simulator-roguelite.json) |
