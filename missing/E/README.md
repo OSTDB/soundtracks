@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Scream | 97716 | [97716-emoji-scream.json](./97716-emoji-scream.json) |
 | Emoji Sport | 274539 | [274539-emoji-sport.json](./274539-emoji-sport.json) |
 | Emoji Survival | 294264 | [294264-emoji-survival.json](./294264-emoji-survival.json) |
+| Emoji TD | 368671 | [368671-emoji-td.json](./368671-emoji-td.json) |
 | Emoji Wars | 397649 | [397649-emoji-wars.json](./397649-emoji-wars.json) |
 | Emoji-Connect | 291989 | [291989-emoji-connect.json](./291989-emoji-connect.json) |
 | Emorrior | 197876 | [197876-emorrior.json](./197876-emorrior.json) |
@@ -1180,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Solitaire 2 | 386123 | [386123-enchanted-solitaire-2.json](./386123-enchanted-solitaire-2.json) |
 | Enchanted Stories: Mystic Woods - Collector's Edition | 356763 | [356763-enchanted-stories-mystic-woods-collectors-edition.json](./356763-enchanted-stories-mystic-woods-collectors-edition.json) |
 | Enchanted Trees Escape | 315669 | [315669-enchanted-trees-escape.json](./315669-enchanted-trees-escape.json) |
+| EnchantedGirl | 368676 | [368676-enchantedgirl.json](./368676-enchantedgirl.json) |
 | Enchanter Trilogy | 73789 | [73789-enchanter-trilogy.json](./73789-enchanter-trilogy.json) |
 | Enchantment Siege | 253966 | [253966-enchantment-siege.json](./253966-enchantment-siege.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
@@ -1224,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
+| Ender Ocean | 368670 | [368670-ender-ocean.json](./368670-ender-ocean.json) |
 | Ender of Fire | 60797 | [60797-ender-of-fire.json](./60797-ender-of-fire.json) |
 | Ender Story: Chapter 1 | 80903 | [80903-ender-story-chapter-1.json](./80903-ender-story-chapter-1.json) |
 | Ender Theater | 333381 | [333381-ender-theater.json](./333381-ender-theater.json) |
@@ -1767,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Bunker | 308264 | [308264-escape-from-bunker.json](./308264-escape-from-bunker.json) |
 | Escape from Castle Chezcrea | 256851 | [256851-escape-from-castle-chezcrea.json](./256851-escape-from-castle-chezcrea.json) |
 | Escape From Cluckov | 378314 | [378314-escape-from-cluckov.json](./378314-escape-from-cluckov.json) |
+| Escape From Covid | 368684 | [368684-escape-from-covid.json](./368684-escape-from-covid.json) |
 | Escape From Cozy Island | 98776 | [98776-escape-from-cozy-island.json](./98776-escape-from-cozy-island.json) |
 | Escape from Cyber City | 45931 | [45931-escape-from-cyber-city.json](./45931-escape-from-cyber-city.json) |
 | Escape From Darkmoor Manor | 36105 | [36105-escape-from-darkmoor-manor.json](./36105-escape-from-darkmoor-manor.json) |
@@ -1804,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Rio de Janeiro | 104456 | [104456-escape-from-rio-de-janeiro.json](./104456-escape-from-rio-de-janeiro.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
 | Escape From Ruby Castle | 149034 | [149034-escape-from-ruby-castle.json](./149034-escape-from-ruby-castle.json) |
+| Escape From Russia | 368672 | [368672-escape-from-russia.json](./368672-escape-from-russia.json) |
 | Escape From School | 167681 | [167681-escape-from-school.json](./167681-escape-from-school.json) |
 | Escape From School: F.E.L.I.K | 235472 | [235472-escape-from-school-f-e-l-i-k.json](./235472-escape-from-school-f-e-l-i-k.json) |
 | Escape from Scientology Land | 237493 | [237493-escape-from-scientology-land.json](./237493-escape-from-scientology-land.json) |
