@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of the Past | 208392 | [208392-legends-of-the-past.json](./208392-legends-of-the-past.json) |
 | Legends of the Round Table | 287791 | [287791-legends-of-the-round-table.json](./287791-legends-of-the-round-table.json) |
 | Legends of the Shadows | 208391 | [208391-legends-of-the-shadows.json](./208391-legends-of-the-shadows.json) |
+| Legends of the Wild | 358481 | [358481-legends-of-the-wild.json](./358481-legends-of-the-wild.json) |
 | Legends of Time | 31673 | [31673-legends-of-time.json](./31673-legends-of-time.json) |
 | Legends of Valour | 12903 | [12903-legends-of-valour.json](./12903-legends-of-valour.json) |
 | Legends of War | 20014 | [20014-legends-of-war.json](./20014-legends-of-war.json) |
@@ -2830,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
 | Los Reinos de Aethermoor | 396577 | [396577-los-reinos-de-aethermoor.json](./396577-los-reinos-de-aethermoor.json) |
 | Lose Control | 178632 | [178632-lose-control.json](./178632-lose-control.json) |
+| Lose Grace Tale | 358478 | [358478-lose-grace-tale.json](./358478-lose-grace-tale.json) |
 | Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
 | Lose Your Marbles | 362334 | [362334-lose-your-marbles.json](./362334-lose-your-marbles.json) |
 | Lose Your Marbles | 70330 | [70330-lose-your-marbles.json](./70330-lose-your-marbles.json) |
