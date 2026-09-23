@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
+| Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
 | Paper 2: Origami Refolded | 333641 | [333641-paper-2-origami-refolded.json](./333641-paper-2-origami-refolded.json) |
 | Paper Airplane Flying Game | 414452 | [414452-paper-airplane-flying-game.json](./414452-paper-airplane-flying-game.json) |
@@ -688,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Cleaning: Days with Marie, My Love | 370754 | [370754-paradise-cleaning-days-with-marie-my-love.json](./370754-paradise-cleaning-days-with-marie-my-love.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
+| Paradise Delight | 379547 | [379547-paradise-delight.json](./379547-paradise-delight.json) |
 | Paradise Falls | 392417 | [392417-paradise-falls.json](./392417-paradise-falls.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
 | Paradise Island Driver | 201257 | [201257-paradise-island-driver.json](./201257-paradise-island-driver.json) |
