@@ -3869,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Train | 138255 | [138255-midnight-train.json](./138255-midnight-train.json) |
 | Midnight Train: Going Anywhere | 176489 | [176489-midnight-train-going-anywhere.json](./176489-midnight-train-going-anywhere.json) |
 | Midnight Transmission | 331334 | [331334-midnight-transmission.json](./331334-midnight-transmission.json) |
+| Midnight Wanderers: Quest for the Chariot | 361330 | [361330-midnight-wanderers-quest-for-the-chariot.json](./361330-midnight-wanderers-quest-for-the-chariot.json) |
 | Midnight Watcher: Village | 403685 | [403685-midnight-watcher-village.json](./403685-midnight-watcher-village.json) |
 | Midnight Wave | 109669 | [109669-midnight-wave.json](./109669-midnight-wave.json) |
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
