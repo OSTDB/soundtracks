@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpack Dungeon | 407407 | [407407-backpack-dungeon.json](./407407-backpack-dungeon.json) |
 | Backpack Heroes | 174760 | [174760-backpack-heroes.json](./174760-backpack-heroes.json) |
 | Backpack Jianghu | 391202 | [391202-backpack-jianghu.json](./391202-backpack-jianghu.json) |
+| Backpack Raiders | 383055 | [383055-backpack-raiders.json](./383055-backpack-raiders.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
 | Backpackers Guide to the Universe | 309344 | [309344-backpackers-guide-to-the-universe.json](./309344-backpackers-guide-to-the-universe.json) |
@@ -3803,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
 | Blood Fighter Round Battle | 417707 | [417707-blood-fighter-round-battle.json](./417707-blood-fighter-round-battle.json) |
 | Blood for Poppies | 165531 | [165531-blood-for-poppies.json](./165531-blood-for-poppies.json) |
+| Blood for the Queen | 383070 | [383070-blood-for-the-queen.json](./383070-blood-for-the-queen.json) |
 | Blood for the Throne | 370202 | [370202-blood-for-the-throne.json](./370202-blood-for-the-throne.json) |
 | Blood Gazm | 248672 | [248672-blood-gazm.json](./248672-blood-gazm.json) |
 | Blood Gear | 42020 | [42020-blood-gear.json](./42020-blood-gear.json) |
@@ -6081,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Buck$ | 76595 | [76595-buried-buck.json](./76595-buried-buck.json) |
 | Buried Chambers | 129704 | [129704-buried-chambers.json](./129704-buried-chambers.json) |
 | Buried Memories | 317448 | [317448-buried-memories.json](./317448-buried-memories.json) |
+| Buried Spirits | 383038 | [383038-buried-spirits.json](./383038-buried-spirits.json) |
 | Buriki One | 28139 | [28139-buriki-one.json](./28139-buriki-one.json) |
 | Burlesque | 292650 | [292650-burlesque.json](./292650-burlesque.json) |
 | Burn | 311118 | [311118-burn.json](./311118-burn.json) |
@@ -6329,6 +6332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bylina: Lure of the Sorceress | 298720 | [298720-bylina-lure-of-the-sorceress.json](./298720-bylina-lure-of-the-sorceress.json) |
 | ByLo | 234721 | [234721-bylo.json](./234721-bylo.json) |
 | Byouin Sodom | 59070 | [59070-byouin-sodom.json](./59070-byouin-sodom.json) |
+| Byouki na Generation: Crane Catcher no Bourei | 383043 | [383043-byouki-na-generation-crane-catcher-no-bourei.json](./383043-byouki-na-generation-crane-catcher-no-bourei.json) |
 | Byoutai Seiri DS: Image Dekiru! Shikkan, Shoujou to Care | 269672 | [269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json](./269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json) |
 | Bypass | 382884 | [382884-bypass.json](./382884-bypass.json) |
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
