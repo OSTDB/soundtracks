@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogre Battle Gaiden | 66085 | [66085-ogre-battle-gaiden.json](./66085-ogre-battle-gaiden.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
 | Ogu and the Secret Forest | 200923 | [200923-ogu-and-the-secret-forest.json](./200923-ogu-and-the-secret-forest.json) |
+| Ogu and the Secret Forest: Winter Festival Blast | 376697 | [376697-ogu-and-the-secret-forest-winter-festival-blast.json](./376697-ogu-and-the-secret-forest-winter-festival-blast.json) |
 | Oh Baby! Kart | 278139 | [278139-oh-baby-kart.json](./278139-oh-baby-kart.json) |
 | Oh Balls 2 | 103527 | [103527-oh-balls-2.json](./103527-oh-balls-2.json) |
 | Oh Boy Cheese | 106617 | [106617-oh-boy-cheese.json](./106617-oh-boy-cheese.json) |
