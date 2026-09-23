@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga of the Moon Priestess | 274507 | [274507-saga-of-the-moon-priestess.json](./274507-saga-of-the-moon-priestess.json) |
 | Saga of the Nine Worlds: The Gathering | 74311 | [74311-saga-of-the-nine-worlds-the-gathering.json](./74311-saga-of-the-nine-worlds-the-gathering.json) |
 | Saga of the Shattered Swords | 249267 | [249267-saga-of-the-shattered-swords.json](./249267-saga-of-the-shattered-swords.json) |
+| Saga of Yurina | 373196 | [373196-saga-of-yurina.json](./373196-saga-of-yurina.json) |
 | Saga Star | 413203 | [413203-saga-star.json](./413203-saga-star.json) |
 | SaGa: Emerald Beyond | 266681 | [266681-saga-emerald-beyond.json](./266681-saga-emerald-beyond.json) |
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
 | Samurai Forge | 51972 | [51972-samurai-forge.json](./51972-samurai-forge.json) |
 | Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
+| Samurai Heroes | 373189 | [373189-samurai-heroes.json](./373189-samurai-heroes.json) |
 | Samurai Jack: Battle Through Time | 131687 | [131687-samurai-jack-battle-through-time.json](./131687-samurai-jack-battle-through-time.json) |
 | Samurai Jack: Cavern Raid | 338745 | [338745-samurai-jack-cavern-raid.json](./338745-samurai-jack-cavern-raid.json) |
 | Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
@@ -4023,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulation World | 157573 | [157573-simulation-world.json](./157573-simulation-world.json) |
 | Simulator Mega Pack: Fishing, Soldier, Bear, Shark & Truck Mechanic | 401134 | [401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json](./401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json) |
 | Simulator of НЗllo Neighbor | 193852 | [193852-simulator-of-llo-neighbor.json](./193852-simulator-of-llo-neighbor.json) |
+| Simulator RKM | 373215 | [373215-simulator-rkm.json](./373215-simulator-rkm.json) |
 | Simulator Simulator | 128586 | [128586-simulator-simulator.json](./128586-simulator-simulator.json) |
 | Simulator Z | 277838 | [277838-simulator-z.json](./277838-simulator-z.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
@@ -4895,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Explorer: The Twelve Towers | 110142 | [110142-slingshot-explorer-the-twelve-towers.json](./110142-slingshot-explorer-the-twelve-towers.json) |
 | Slingshot Fun Collection | 386213 | [386213-slingshot-fun-collection.json](./386213-slingshot-fun-collection.json) |
 | Slingshot Hero VR | 50546 | [50546-slingshot-hero-vr.json](./50546-slingshot-hero-vr.json) |
+| Slingshot Pilot | 373208 | [373208-slingshot-pilot.json](./373208-slingshot-pilot.json) |
 | Slingshot Quest | 391715 | [391715-slingshot-quest.json](./391715-slingshot-quest.json) |
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
 | Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
@@ -6615,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS | 72334 | [72334-sos.json](./72334-sos.json) |
 | SOS Defense | 108455 | [108455-sos-defense.json](./108455-sos-defense.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
+| SOS: Save Our Ship | 373184 | [373184-sos-save-our-ship.json](./373184-sos-save-our-ship.json) |
 | Soshite Bokura ha... And He Said | 145449 | [145449-soshite-bokura-ha-and-he-said.json](./145449-soshite-bokura-ha-and-he-said.json) |
 | Soshite Kono Sora ni Kirameku Kimi no Uta | 221827 | [221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json](./221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json) |
 | Soshite Kono Sora ni Kirameku Kimi no Uta XXX | 221828 | [221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json](./221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json) |
@@ -9165,6 +9170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Coaster | 278507 | [278507-starship-coaster.json](./278507-starship-coaster.json) |
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
 | Starship Defender | 268022 | [268022-starship-defender.json](./268022-starship-defender.json) |
+| Starship Dice | 373195 | [373195-starship-dice.json](./373195-starship-dice.json) |
 | Starship Eleven Deluxe | 360605 | [360605-starship-eleven-deluxe.json](./360605-starship-eleven-deluxe.json) |
 | Starship Enterprise | 71224 | [71224-starship-enterprise.json](./71224-starship-enterprise.json) |
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
@@ -10465,6 +10471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Train Simulator 2D | 88647 | [88647-subway-train-simulator-2d.json](./88647-subway-train-simulator-2d.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | Subwords | 173801 | [173801-subwords.json](./173801-subwords.json) |
+| SubZero | 373212 | [373212-subzero.json](./373212-subzero.json) |
 | Subzero Tides | 275712 | [275712-subzero-tides.json](./275712-subzero-tides.json) |
 | Success in Progress | 346679 | [346679-success-in-progress.json](./346679-success-in-progress.json) |
 | Successfully Learning German: Year 3 | 85407 | [85407-successfully-learning-german-year-3.json](./85407-successfully-learning-german-year-3.json) |
@@ -12025,6 +12032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
 | Super Zugan: Hakotenjou kara no Shoutai | 60498 | [60498-super-zugan-hakotenjou-kara-no-shoutai.json](./60498-super-zugan-hakotenjou-kara-no-shoutai.json) |
 | Super ZZT | 46656 | [46656-super-zzt.json](./46656-super-zzt.json) |
+| Super-B | 373220 | [373220-super-b.json](./373220-super-b.json) |
 | Super-Bikes: Riding Challenge | 43310 | [43310-super-bikes-riding-challenge.json](./43310-super-bikes-riding-challenge.json) |
 | Super-VGA Harrier | 70114 | [70114-super-vga-harrier.json](./70114-super-vga-harrier.json) |
 | Super-X | 46861 | [46861-super-x.json](./46861-super-x.json) |
@@ -12871,12 +12879,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
+| Synergy Strike | 373204 | [373204-synergy-strike.json](./373204-synergy-strike.json) |
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
 | Synesthetic | 175334 | [175334-synesthetic.json](./175334-synesthetic.json) |
 | Synonym Match | 105759 | [105759-synonym-match.json](./105759-synonym-match.json) |
 | Synonymy | 35925 | [35925-synonymy.json](./35925-synonymy.json) |
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
+| Synth Laser | 373201 | [373201-synth-laser.json](./373201-synth-laser.json) |
 | Synth Pong | 235759 | [235759-synth-pong.json](./235759-synth-pong.json) |
 | Synth Riders | 105333 | [105333-synth-riders.json](./105333-synth-riders.json) |
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
