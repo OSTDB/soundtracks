@@ -6145,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunnies & Ballgames! | 376462 | [376462-bunnies-and-ballgames.json](./376462-bunnies-and-ballgames.json) |
 | Bunnies vs Zombies | 197862 | [197862-bunnies-vs-zombies.json](./197862-bunnies-vs-zombies.json) |
 | Bunninjutsu | 378179 | [378179-bunninjutsu.json](./378179-bunninjutsu.json) |
+| Bunny | 354653 | [354653-bunny.json](./354653-bunny.json) |
 | Bunny Adventure | 147918 | [147918-bunny-adventure.json](./147918-bunny-adventure.json) |
 | Bunny Black | 115727 | [115727-bunny-black.json](./115727-bunny-black.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
