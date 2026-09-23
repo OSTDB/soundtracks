@@ -5626,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avenger | 280325 | [280325-avenger.json](./280325-avenger.json) |
 | Avenger | 91358 | [91358-avenger.json](./91358-avenger.json) |
 | AvengeXX | 118836 | [118836-avengexx.json](./118836-avengexx.json) |
+| Avenging Angel Hikari Akeldama | 386973 | [386973-avenging-angel-hikari-akeldama.json](./386973-avenging-angel-hikari-akeldama.json) |
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
