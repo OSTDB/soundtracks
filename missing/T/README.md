@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tested With Robots! | 85433 | [85433-tested-with-robots.json](./85433-tested-with-robots.json) |
 | Tester | 397704 | [397704-tester.json](./397704-tester.json) |
 | Tester Phase One | 98809 | [98809-tester-phase-one.json](./98809-tester-phase-one.json) |
+| Testimonies | 370878 | [370878-testimonies.json](./370878-testimonies.json) |
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
 | Testing Pool | 262424 | [262424-testing-pool.json](./262424-testing-pool.json) |
@@ -2447,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blind Griffin | 57899 | [57899-the-blind-griffin.json](./57899-the-blind-griffin.json) |
 | The Blobjob | 261797 | [261797-the-blobjob.json](./261797-the-blobjob.json) |
 | The Block | 204712 | [204712-the-block.json](./204712-the-block.json) |
+| The Blockade | 370877 | [370877-the-blockade.json](./370877-the-blockade.json) |
 | The Blockheads | 39213 | [39213-the-blockheads.json](./39213-the-blockheads.json) |
 | The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
@@ -2699,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The City of the Damned | 141239 | [141239-the-city-of-the-damned.json](./141239-the-city-of-the-damned.json) |
 | The City of the Damned: Apocalypse | 141240 | [141240-the-city-of-the-damned-apocalypse.json](./141240-the-city-of-the-damned-apocalypse.json) |
 | The City of Time | 134415 | [134415-the-city-of-time.json](./134415-the-city-of-time.json) |
+| The City: Superhero Flying Experience | 370881 | [370881-the-city-superhero-flying-experience.json](./370881-the-city-superhero-flying-experience.json) |
 | The Civil War A Nation Divided | 43548 | [43548-the-civil-war-a-nation-divided.json](./43548-the-civil-war-a-nation-divided.json) |
 | The Clans - Saga of the Twins | 35943 | [35943-the-clans-saga-of-the-twins.json](./35943-the-clans-saga-of-the-twins.json) |
 | The Class President is Home From School Today! | 97700 | [97700-the-class-president-is-home-from-school-today.json](./97700-the-class-president-is-home-from-school-today.json) |
@@ -3876,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
+| The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
 | The Hero Project: Redemption Season | 33089 | [33089-the-hero-project-redemption-season.json](./33089-the-hero-project-redemption-season.json) |
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
@@ -5869,6 +5873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seventh Floor | 337152 | [337152-the-seventh-floor.json](./337152-the-seventh-floor.json) |
 | The Seventh Seal | 389595 | [389595-the-seventh-seal.json](./389595-the-seventh-seal.json) |
 | The Several Journeys of Reemus Chapter 2: The All-Knowing Parasite | 110311 | [110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json](./110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json) |
+| The Severed Gods | 370921 | [370921-the-severed-gods.json](./370921-the-severed-gods.json) |
 | The Sewer Goblet: The Wu-Tang Clan and the Wu-Tang Baby | 93504 | [93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json](./93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json) |
 | The Sewers of D'Sparil | 268467 | [268467-the-sewers-of-dsparil.json](./268467-the-sewers-of-dsparil.json) |
 | The Sexorcist | 211723 | [211723-the-sexorcist.json](./211723-the-sexorcist.json) |
@@ -7204,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came From a Communist Planet | 125294 | [125294-they-came-from-a-communist-planet.json](./125294-they-came-from-a-communist-planet.json) |
 | They Came From Dimension X | 213978 | [213978-they-came-from-dimension-x.json](./213978-they-came-from-dimension-x.json) |
 | They Came from the Ground | 328620 | [328620-they-came-from-the-ground.json](./328620-they-came-from-the-ground.json) |
+| They Come in Fives | 370915 | [370915-they-come-in-fives.json](./370915-they-come-in-fives.json) |
 | They Die Tomorrow | 188567 | [188567-they-die-tomorrow.json](./188567-they-die-tomorrow.json) |
 | They Dug Too Deep | 258974 | [258974-they-dug-too-deep.json](./258974-they-dug-too-deep.json) |
 | They Fear The Mist | 292536 | [292536-they-fear-the-mist.json](./292536-they-fear-the-mist.json) |
@@ -7306,6 +7312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Company of Mine | 309355 | [309355-this-company-of-mine.json](./309355-this-company-of-mine.json) |
 | This Discord Has Ghosts in it | 134647 | [134647-this-discord-has-ghosts-in-it.json](./134647-this-discord-has-ghosts-in-it.json) |
 | This Game | 357815 | [357815-this-game.json](./357815-this-game.json) |
+| This Game is Crap | 370888 | [370888-this-game-is-crap.json](./370888-this-game-is-crap.json) |
 | This Game is Simple | 416121 | [416121-this-game-is-simple.json](./416121-this-game-is-simple.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
 | This House Looks Familiar | 176969 | [176969-this-house-looks-familiar.json](./176969-this-house-looks-familiar.json) |
@@ -8432,6 +8439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
 | Timmy's Adventures | 224648 | [224648-timmys-adventures.json](./224648-timmys-adventures.json) |
 | Timmy's adventures : VerbMon | 123550 | [123550-timmys-adventures-verbmon.json](./123550-timmys-adventures-verbmon.json) |
+| Timo the Game | 370911 | [370911-timo-the-game.json](./370911-timo-the-game.json) |
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timore | 159172 | [159172-timore.json](./159172-timore.json) |
 | Timore 6 | 111636 | [111636-timore-6.json](./111636-timore-6.json) |
@@ -9743,6 +9751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Bloxx | 9452 | [9452-tower-bloxx.json](./9452-tower-bloxx.json) |
 | Tower Bloxx Deluxe | 9453 | [9453-tower-bloxx-deluxe.json](./9453-tower-bloxx-deluxe.json) |
 | Tower climber | 90193 | [90193-tower-climber.json](./90193-tower-climber.json) |
+| Tower Command | 370908 | [370908-tower-command.json](./370908-tower-command.json) |
 | Tower Defence | 80216 | [80216-tower-defence.json](./80216-tower-defence.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
