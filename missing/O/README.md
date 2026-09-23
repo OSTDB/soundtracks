@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime | 136483 | [136483-overtime.json](./136483-overtime.json) |
 | Overtime | 180137 | [180137-overtime.json](./180137-overtime.json) |
 | Overtime | 272006 | [272006-overtime.json](./272006-overtime.json) |
+| Overtime | 382478 | [382478-overtime.json](./382478-overtime.json) |
 | OverTime | 136410 | [136410-overtime.json](./136410-overtime.json) |
 | Overtime Anomaly | 330533 | [330533-overtime-anomaly.json](./330533-overtime-anomaly.json) |
 | Overtime at Freddy's | 280919 | [280919-overtime-at-freddys.json](./280919-overtime-at-freddys.json) |
