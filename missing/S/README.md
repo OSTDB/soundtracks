@@ -4380,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
 | Skinator | 400360 | [400360-skinator.json](./400360-skinator.json) |
 | Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
+| Skinfreak | 370337 | [370337-skinfreak.json](./370337-skinfreak.json) |
 | Skingdom | 398555 | [398555-skingdom.json](./398555-skingdom.json) |
 | Skinner & The Superintendent | 245930 | [245930-skinner-and-the-superintendent.json](./245930-skinner-and-the-superintendent.json) |
 | Skinny | 111768 | [111768-skinny.json](./111768-skinny.json) |
@@ -4423,11 +4424,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Jones | 259664 | [259664-skull-jones.json](./259664-skull-jones.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
+| Skullbreaker | 370341 | [370341-skullbreaker.json](./370341-skullbreaker.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
 | Skulldash Expanded Edition | 142416 | [142416-skulldash-expanded-edition.json](./142416-skulldash-expanded-edition.json) |
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullgirls: 2nd Encore | 11179 | [11179-skullgirls-2nd-encore.json](./11179-skullgirls-2nd-encore.json) |
+| Skullgirls: Season 1 Pass | 370325 | [370325-skullgirls-season-1-pass.json](./370325-skullgirls-season-1-pass.json) |
 | Skullhammer | 181862 | [181862-skullhammer.json](./181862-skullhammer.json) |
 | Skullivan's | 329158 | [329158-skullivans.json](./329158-skullivans.json) |
 | Skullmonkeys | 10917 | [10917-skullmonkeys.json](./10917-skullmonkeys.json) |
@@ -5325,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake-O-Tron | 288239 | [288239-snake-o-tron.json](./288239-snake-o-tron.json) |
 | Snake, snake, snake! | 100586 | [100586-snake-snake-snake.json](./100586-snake-snake-snake.json) |
 | Snake: Road to apple | 74909 | [74909-snake-road-to-apple.json](./74909-snake-road-to-apple.json) |
+| Snake: Secret Treasure | 370311 | [370311-snake-secret-treasure.json](./370311-snake-secret-treasure.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
 | Snakebird | 13104 | [13104-snakebird.json](./13104-snakebird.json) |
@@ -5448,8 +5452,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ghost Warrior Contracts 2 | 138980 | [138980-sniper-ghost-warrior-contracts-2.json](./138980-sniper-ghost-warrior-contracts-2.json) |
 | Sniper Ghost Warrior Contracts 2: Butcher's Banquet | 159362 | [159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json](./159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json) |
 | Sniper Ghost Warrior Contracts 2: Complete Edition | 197352 | [197352-sniper-ghost-warrior-contracts-2-complete-edition.json](./197352-sniper-ghost-warrior-contracts-2-complete-edition.json) |
+| Sniper Ghost Warrior Contracts: Arsenal Pack | 370318 | [370318-sniper-ghost-warrior-contracts-arsenal-pack.json](./370318-sniper-ghost-warrior-contracts-arsenal-pack.json) |
 | Sniper Ghost Warrior Contracts: Complete Edition | 141649 | [141649-sniper-ghost-warrior-contracts-complete-edition.json](./141649-sniper-ghost-warrior-contracts-complete-edition.json) |
 | Sniper Ghost Warrior Contracts: Full Arsenal Edition | 199639 | [199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json](./199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json) |
+| Sniper Ghost Warrior Contracts: Merciless Marksman | 370317 | [370317-sniper-ghost-warrior-contracts-merciless-marksman.json](./370317-sniper-ghost-warrior-contracts-merciless-marksman.json) |
+| Sniper Ghost Warrior Contracts: Skins Pack | 370320 | [370320-sniper-ghost-warrior-contracts-skins-pack.json](./370320-sniper-ghost-warrior-contracts-skins-pack.json) |
+| Sniper Ghost Warrior Contracts: Steam Mist Weapon Skin | 370321 | [370321-sniper-ghost-warrior-contracts-steam-mist-weapon-skin.json](./370321-sniper-ghost-warrior-contracts-steam-mist-weapon-skin.json) |
+| Sniper Ghost Warrior Contracts: World Flags Skin Pack | 370319 | [370319-sniper-ghost-warrior-contracts-world-flags-skin-pack.json](./370319-sniper-ghost-warrior-contracts-world-flags-skin-pack.json) |
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
 | Sniper Ops 3D | 88297 | [88297-sniper-ops-3d.json](./88297-sniper-ops-3d.json) |
 | Sniper Shooter 3D: SWAT Missions Pro | 86719 | [86719-sniper-shooter-3d-swat-missions-pro.json](./86719-sniper-shooter-3d-swat-missions-pro.json) |
@@ -5846,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solargene | 149928 | [149928-solargene.json](./149928-solargene.json) |
 | Solarian II | 229811 | [229811-solarian-ii.json](./229811-solarian-ii.json) |
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
+| Solaris | 370332 | [370332-solaris.json](./370332-solaris.json) |
 | Solaris 1.0.4. | 93000 | [93000-solaris-1-0-4.json](./93000-solaris-1-0-4.json) |
 | Solaris Assault Tech | 93536 | [93536-solaris-assault-tech.json](./93536-solaris-assault-tech.json) |
 | Solaris Rift | 191198 | [191198-solaris-rift.json](./191198-solaris-rift.json) |
@@ -6162,6 +6172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure: Neo | 330154 | [330154-sonic-adventure-neo.json](./330154-sonic-adventure-neo.json) |
 | Sonic Adventure: Renegade | 331302 | [331302-sonic-adventure-renegade.json](./331302-sonic-adventure-renegade.json) |
 | Sonic Adventure: SRB2 | 330336 | [330336-sonic-adventure-srb2.json](./330336-sonic-adventure-srb2.json) |
+| Sonic After the Sequel DX | 370295 | [370295-sonic-after-the-sequel-dx.json](./370295-sonic-after-the-sequel-dx.json) |
 | Sonic and Mario | 330722 | [330722-sonic-and-mario.json](./330722-sonic-and-mario.json) |
 | Sonic and Meister | 331442 | [331442-sonic-and-meister.json](./331442-sonic-and-meister.json) |
 | Sonic and the Bayan Isles | 417657 | [417657-sonic-and-the-bayan-isles.json](./417657-sonic-and-the-bayan-isles.json) |
@@ -6381,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Rush Adventure Flash | 272921 | [272921-sonic-rush-adventure-flash.json](./272921-sonic-rush-adventure-flash.json) |
 | Sonic Rush Rerun | 365772 | [365772-sonic-rush-rerun.json](./365772-sonic-rush-rerun.json) |
 | Sonic Scramble | 334685 | [334685-sonic-scramble.json](./334685-sonic-scramble.json) |
+| Sonic Seasons | 370301 | [370301-sonic-seasons.json](./370301-sonic-seasons.json) |
 | Sonic Shift | 330297 | [330297-sonic-shift.json](./330297-sonic-shift.json) |
 | Sonic Sky Chase Zone | 339670 | [339670-sonic-sky-chase-zone.json](./339670-sonic-sky-chase-zone.json) |
 | Sonic Skywind: Episode II | 327000 | [327000-sonic-skywind-episode-ii.json](./327000-sonic-skywind-episode-ii.json) |
@@ -11514,6 +11526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Bros.: The Cookie of Destiny | 323353 | [323353-super-mario-bros-the-cookie-of-destiny.json](./323353-super-mario-bros-the-cookie-of-destiny.json) |
+| Super Mario Buys Bread | 370294 | [370294-super-mario-buys-bread.json](./370294-super-mario-buys-bread.json) |
 | Super Mario Classic: Return | 324086 | [324086-super-mario-classic-return.json](./324086-super-mario-classic-return.json) |
 | Super Mario Cloudy Cliffs | 394341 | [394341-super-mario-cloudy-cliffs.json](./394341-super-mario-cloudy-cliffs.json) |
 | Super Mario Construct | 250039 | [250039-super-mario-construct.json](./250039-super-mario-construct.json) |
@@ -11575,6 +11588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
 | Super Mario Star Scramble 3 | 215250 | [215250-super-mario-star-scramble-3.json](./215250-super-mario-star-scramble-3.json) |
+| Super Mario Star Scramble Jam | 370297 | [370297-super-mario-star-scramble-jam.json](./370297-super-mario-star-scramble-jam.json) |
 | Super Mario Star World | 185685 | [185685-super-mario-star-world.json](./185685-super-mario-star-world.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Story | 313110 | [313110-super-mario-story.json](./313110-super-mario-story.json) |
