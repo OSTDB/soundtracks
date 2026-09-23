@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red | 75084 | [75084-red.json](./75084-red.json) |
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
 | Red Alert | 40391 | [40391-red-alert.json](./40391-red-alert.json) |
+| Red Alert 2: Apocalypse Rising | 376096 | [376096-red-alert-2-apocalypse-rising.json](./376096-red-alert-2-apocalypse-rising.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
 | Red and Blue Balls | 99395 | [99395-red-and-blue-balls.json](./99395-red-and-blue-balls.json) |
 | Red and Blue: Alien War | 56143 | [56143-red-and-blue-alien-war.json](./56143-red-and-blue-alien-war.json) |
@@ -1419,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
+| Red Riddles | 376135 | [376135-red-riddles.json](./376135-red-riddles.json) |
 | Red Riding Hood | 179695 | [179695-red-riding-hood.json](./179695-red-riding-hood.json) |
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
 | Red Riding Hood: Star Crossed Lovers | 96880 | [96880-red-riding-hood-star-crossed-lovers.json](./96880-red-riding-hood-star-crossed-lovers.json) |
@@ -1701,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekt!: Double Flip | 238063 | [238063-rekt-double-flip.json](./238063-rekt-double-flip.json) |
 | Reky | 122329 | [122329-reky.json](./122329-reky.json) |
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
+| Relapse | 376100 | [376100-relapse.json](./376100-relapse.json) |
 | Related | 133380 | [133380-related.json](./133380-related.json) |
 | Relation Killer | 224645 | [224645-relation-killer.json](./224645-relation-killer.json) |
 | Relative Frame | 382932 | [382932-relative-frame.json](./382932-relative-frame.json) |
