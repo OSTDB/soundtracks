@@ -1478,10 +1478,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan: The Cargo | 34262 | [34262-leviathan-the-cargo.json](./34262-leviathan-the-cargo.json) |
 | Leviathan: Warships | 10512 | [10512-leviathan-warships.json](./10512-leviathan-warships.json) |
 | Leviathan's Sword | 199478 | [199478-leviathans-sword.json](./199478-leviathans-sword.json) |
+| Lewd & Nude: Anime Collector | 368112 | [368112-lewd-and-nude-anime-collector.json](./368112-lewd-and-nude-anime-collector.json) |
 | Lewd Anime Racing | 235725 | [235725-lewd-anime-racing.json](./235725-lewd-anime-racing.json) |
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
 | Lewd Island | 385875 | [385875-lewd-island.json](./385875-lewd-island.json) |
+| Lewd Puzzle | 368111 | [368111-lewd-puzzle.json](./368111-lewd-puzzle.json) |
 | Lewdle | 197867 | [197867-lewdle.json](./197867-lewdle.json) |
 | LewdQuest | 149433 | [149433-lewdquest.json](./149433-lewdquest.json) |
 | Lewis & Clark Expedition | 211781 | [211781-lewis-and-clark-expedition.json](./211781-lewis-and-clark-expedition.json) |
@@ -3577,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Theory 2 | 240879 | [240879-lust-theory-2.json](./240879-lust-theory-2.json) |
 | Lust Theory 3 | 384754 | [384754-lust-theory-3.json](./384754-lust-theory-3.json) |
 | Lust Trip | 213477 | [213477-lust-trip.json](./213477-lust-trip.json) |
+| Luster | 368107 | [368107-luster.json](./368107-luster.json) |
 | Luster Beasts | 276826 | [276826-luster-beasts.json](./276826-luster-beasts.json) |
 | Lusternia: Age of Ascension | 122848 | [122848-lusternia-age-of-ascension.json](./122848-lusternia-age-of-ascension.json) |
 | Lustful Apartment | 296687 | [296687-lustful-apartment.json](./296687-lustful-apartment.json) |
