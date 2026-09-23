@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crisis | 265261 | [265261-candy-crisis.json](./265261-candy-crisis.json) |
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
+| Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
 | Candy land | 154401 | [154401-candy-land.json](./154401-candy-land.json) |
@@ -858,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: Catch A Star! | 65505 | [65505-care-bears-catch-a-star.json](./65505-care-bears-catch-a-star.json) |
 | Care Bears: The Care Quests | 49368 | [49368-care-bears-the-care-quests.json](./49368-care-bears-the-care-quests.json) |
 | Care for your Horse | 357850 | [357850-care-for-your-horse.json](./357850-care-for-your-horse.json) |
+| Care of Gongon | 350048 | [350048-care-of-gongon.json](./350048-care-of-gongon.json) |
 | Carebotz | 159730 | [159730-carebotz.json](./159730-carebotz.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
 | Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
@@ -1870,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Sun | 382293 | [382293-chained-sun.json](./382293-chained-sun.json) |
 | Chained Survive Together | 320375 | [320375-chained-survive-together.json](./320375-chained-survive-together.json) |
 | Chained Together | 265111 | [265111-chained-together.json](./265111-chained-together.json) |
+| Chainer | 350062 | [350062-chainer.json](./350062-chainer.json) |
 | Chainmap Chaos | 271232 | [271232-chainmap-chaos.json](./271232-chainmap-chaos.json) |
 | ChainMonsters | 124148 | [124148-chainmonsters.json](./124148-chainmonsters.json) |
 | Chainphoria | 200059 | [200059-chainphoria.json](./200059-chainphoria.json) |
@@ -4705,6 +4708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conlutus | 351717 | [351717-conlutus.json](./351717-conlutus.json) |
 | Connect | 166640 | [166640-connect.json](./166640-connect.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
+| Connect | 350064 | [350064-connect.json](./350064-connect.json) |
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
 | Connect 4 Deluxe | 205623 | [205623-connect-4-deluxe.json](./205623-connect-4-deluxe.json) |
 | Connect Bricks | 153827 | [153827-connect-bricks.json](./153827-connect-bricks.json) |
@@ -5523,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
 | Cozy Forest | 369084 | [369084-cozy-forest.json](./369084-cozy-forest.json) |
 | Cozy Garden | 372141 | [372141-cozy-garden.json](./372141-cozy-garden.json) |
+| Cozy Gardener Simulator | 350051 | [350051-cozy-gardener-simulator.json](./350051-cozy-gardener-simulator.json) |
 | Cozy Gardener Simulator & House Renovator Simulator | 377273 | [377273-cozy-gardener-simulator-and-house-renovator-simulator.json](./377273-cozy-gardener-simulator-and-house-renovator-simulator.json) |
 | Cozy Grove | 144800 | [144800-cozy-grove.json](./144800-cozy-grove.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
@@ -5572,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Island | 226775 | [226775-crab-island.json](./226775-crab-island.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
+| Craball | 350043 | [350043-craball.json](./350043-craball.json) |
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
 | Crabby Adventure | 66953 | [66953-crabby-adventure.json](./66953-crabby-adventure.json) |
 | Crabby Beach | 191830 | [191830-crabby-beach.json](./191830-crabby-beach.json) |
