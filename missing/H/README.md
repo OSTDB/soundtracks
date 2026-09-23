@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hailey | 109738 | [109738-hailey.json](./109738-hailey.json) |
 | Hailstorm | 363955 | [363955-hailstorm.json](./363955-hailstorm.json) |
 | Hailstorm | 68171 | [68171-hailstorm.json](./68171-hailstorm.json) |
+| Hain | 386980 | [386980-hain.json](./386980-hain.json) |
 | Hair Bows | 156125 | [156125-hair-bows.json](./156125-hair-bows.json) |
 | Hair Dash | 123038 | [123038-hair-dash.json](./123038-hair-dash.json) |
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
@@ -3810,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
 | House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
+| House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
 | House Cleaning Simulator | 401126 | [401126-house-cleaning-simulator.json](./401126-house-cleaning-simulator.json) |
 | House Designer | 171625 | [171625-house-designer.json](./171625-house-designer.json) |
