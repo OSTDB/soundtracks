@@ -2241,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Libido | 262427 | [262427-demonic-libido.json](./262427-demonic-libido.json) |
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
+| Demonology: Incubus: Chapter 7 | 350653 | [350653-demonology-incubus-chapter-7.json](./350653-demonology-incubus-chapter-7.json) |
 | Demonophobia | 195267 | [195267-demonophobia.json](./195267-demonophobia.json) |
 | Demonpact: Clarice | 139927 | [139927-demonpact-clarice.json](./139927-demonpact-clarice.json) |
 | DemonPandemicVR | 146703 | [146703-demonpandemicvr.json](./146703-demonpandemicvr.json) |
@@ -3444,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station 98 #2 | 336602 | [336602-disc-station-98-2.json](./336602-disc-station-98-2.json) |
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
 | Disc Station MSX #11 | 266489 | [266489-disc-station-msx-11.json](./266489-disc-station-msx-11.json) |
+| Discard All Hope | 350614 | [350614-discard-all-hope.json](./350614-discard-all-hope.json) |
 | Discarnate | 265628 | [265628-discarnate.json](./265628-discarnate.json) |
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
 | Dischord | 119001 | [119001-dischord.json](./119001-dischord.json) |
@@ -4051,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
 | Doggo Quest | 151047 | [151047-doggo-quest.json](./151047-doggo-quest.json) |
 | Doggo Walko | 178565 | [178565-doggo-walko.json](./178565-doggo-walko.json) |
+| DoggoGuessr | 350626 | [350626-doggoguessr.json](./350626-doggoguessr.json) |
 | DoggoPromenade | 398349 | [398349-doggopromenade.json](./398349-doggopromenade.json) |
 | Doggy | 262423 | [262423-doggy.json](./262423-doggy.json) |
 | Doggy | 304054 | [304054-doggy.json](./304054-doggy.json) |
@@ -4325,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Down | 186244 | [186244-dont-look-down.json](./186244-dont-look-down.json) |
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
 | Don't Look! | 372019 | [372019-dont-look.json](./372019-dont-look.json) |
+| Don't Mess With Bober | 350603 | [350603-dont-mess-with-bober.json](./350603-dont-mess-with-bober.json) |
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
 | Don't Notice Me | 105196 | [105196-dont-notice-me.json](./105196-dont-notice-me.json) |
 | Don’t Open | 398421 | [398421-don-t-open.json](./398421-don-t-open.json) |
