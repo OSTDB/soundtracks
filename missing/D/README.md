@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
 | Devwill Too ZX | 333924 | [333924-devwill-too-zx.json](./333924-devwill-too-zx.json) |
 | Devyat' princev Ambera | 305174 | [305174-devyat-princev-ambera.json](./305174-devyat-princev-ambera.json) |
+| Dewdrop | 365857 | [365857-dewdrop.json](./365857-dewdrop.json) |
 | Dewdrop | 379048 | [379048-dewdrop.json](./379048-dewdrop.json) |
 | Dewdrop Dynasty | 144260 | [144260-dewdrop-dynasty.json](./144260-dewdrop-dynasty.json) |
 | Dewy's Adventure | 248737 | [248737-dewys-adventure.json](./248737-dewys-adventure.json) |
@@ -2847,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
 | Diamond love | 111496 | [111496-diamond-love.json](./111496-diamond-love.json) |
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
+| Diamond Painting | 365872 | [365872-diamond-painting.json](./365872-diamond-painting.json) |
 | Diamond Painting ASMR: Cool & Festive | 309075 | [309075-diamond-painting-asmr-cool-and-festive.json](./309075-diamond-painting-asmr-cool-and-festive.json) |
 | Diamond Painting ASMR: Cute Edition | 317260 | [317260-diamond-painting-asmr-cute-edition.json](./317260-diamond-painting-asmr-cute-edition.json) |
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
@@ -5503,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Undercity | 248065 | [248065-dream-undercity.json](./248065-dream-undercity.json) |
 | Dream Univrse | 30784 | [30784-dream-univrse.json](./30784-dream-univrse.json) |
 | Dream Village | 390229 | [390229-dream-village.json](./390229-dream-village.json) |
+| Dream Walker | 365851 | [365851-dream-walker.json](./365851-dream-walker.json) |
 | Dream Warrior | 13612 | [13612-dream-warrior.json](./13612-dream-warrior.json) |
 | Dream Warrior | 307899 | [307899-dream-warrior.json](./307899-dream-warrior.json) |
 | Dream Wave'84 | 379870 | [379870-dream-wave84.json](./379870-dream-wave84.json) |
@@ -5643,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Empire | 390257 | [390257-drift-empire.json](./390257-drift-empire.json) |
 | Drift Gang | 372449 | [372449-drift-gang.json](./372449-drift-gang.json) |
 | Drift Girls | 58786 | [58786-drift-girls.json](./58786-drift-girls.json) |
+| Drift Highway: Retro Console Edition | 365855 | [365855-drift-highway-retro-console-edition.json](./365855-drift-highway-retro-console-edition.json) |
 | Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
 | Drift Legends | 89647 | [89647-drift-legends.json](./89647-drift-legends.json) |
@@ -5719,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Me to Hell | 253969 | [253969-drive-me-to-hell.json](./253969-drive-me-to-hell.json) |
 | Drive Megapolis | 31659 | [31659-drive-megapolis.json](./31659-drive-megapolis.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
+| Drive Thru | 365860 | [365860-drive-thru.json](./365860-drive-thru.json) |
 | Drive to The Top | 411690 | [411690-drive-to-the-top.json](./411690-drive-to-the-top.json) |
 | Drive Together | 384799 | [384799-drive-together.json](./384799-drive-together.json) |
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
@@ -6297,6 +6302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
 | Dungeon Quest | 2880 | [2880-dungeon-quest.json](./2880-dungeon-quest.json) |
 | Dungeon Raid | 22459 | [22459-dungeon-raid.json](./22459-dungeon-raid.json) |
+| Dungeon Raid: Zero Floor | 365888 | [365888-dungeon-raid-zero-floor.json](./365888-dungeon-raid-zero-floor.json) |
 | Dungeon Rankers | 105086 | [105086-dungeon-rankers.json](./105086-dungeon-rankers.json) |
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
 | Dungeon Re-Delve | 278422 | [278422-dungeon-re-delve.json](./278422-dungeon-re-delve.json) |
