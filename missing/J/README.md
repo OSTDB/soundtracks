@@ -524,6 +524,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Solitaire Winterscapes 3: Collector's Edition | 362851 | [362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json](./362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json) |
 | Jewel Match Solitaire X: Collector's Edition | 201697 | [201697-jewel-match-solitaire-x-collectors-edition.json](./201697-jewel-match-solitaire-x-collectors-edition.json) |
 | Jewel Match Solitaire: Summertime | 165683 | [165683-jewel-match-solitaire-summertime.json](./165683-jewel-match-solitaire-summertime.json) |
+| Jewel Match: Dracula - Collector's Edition | 337273 | [337273-jewel-match-dracula-collectors-edition.json](./337273-jewel-match-dracula-collectors-edition.json) |
+| Jewel Match: Snowscapes | 337274 | [337274-jewel-match-snowscapes.json](./337274-jewel-match-snowscapes.json) |
 | Jewel Match: Solitaire Seasons - Collector's Edition | 309503 | [309503-jewel-match-solitaire-seasons-collectors-edition.json](./309503-jewel-match-solitaire-seasons-collectors-edition.json) |
 | Jewel of Clementia | 248668 | [248668-jewel-of-clementia.json](./248668-jewel-of-clementia.json) |
 | Jewel of Kuru | 158087 | [158087-jewel-of-kuru.json](./158087-jewel-of-kuru.json) |
@@ -770,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jīxiè Xīnghé | 119592 | [119592-jixie-xinghe.json](./119592-jixie-xinghe.json) |
 | Jixo 2: Summer Dreams - Collector's Edition | 362854 | [362854-jixo-2-summer-dreams-collectors-edition.json](./362854-jixo-2-summer-dreams-collectors-edition.json) |
 | Jixo 3: Hidden Horizons - Collector's Edition | 362853 | [362853-jixo-3-hidden-horizons-collectors-edition.json](./362853-jixo-3-hidden-horizons-collectors-edition.json) |
+| Jixo: The Season of Joy - Collector's Edition | 337282 | [337282-jixo-the-season-of-joy-collectors-edition.json](./337282-jixo-the-season-of-joy-collectors-edition.json) |
 | Jìyì de Zhǔrén | 373718 | [373718-jiyi-de-zhuren.json](./373718-jiyi-de-zhuren.json) |
 | JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
