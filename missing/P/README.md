@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
 | Pixel Dungeon | 9795 | [9795-pixel-dungeon.json](./9795-pixel-dungeon.json) |
 | Pixel Dungeon RPG | 326616 | [326616-pixel-dungeon-rpg.json](./326616-pixel-dungeon-rpg.json) |
+| Pixel Empires | 351259 | [351259-pixel-empires.json](./351259-pixel-empires.json) |
 | Pixel Exploration: Craft Edition | 101574 | [101574-pixel-exploration-craft-edition.json](./101574-pixel-exploration-craft-edition.json) |
 | Pixel Express | 107835 | [107835-pixel-express.json](./107835-pixel-express.json) |
 | Pixel Family Fun | 231067 | [231067-pixel-family-fun.json](./231067-pixel-family-fun.json) |
