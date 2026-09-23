@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malon & The Legend of Zelda: Master of Time | 400991 | [400991-malon-and-the-legend-of-zelda-master-of-time.json](./400991-malon-and-the-legend-of-zelda-master-of-time.json) |
 | Malone In Nightmares | 159737 | [159737-malone-in-nightmares.json](./159737-malone-in-nightmares.json) |
 | Maloomify the Ocean | 401770 | [401770-maloomify-the-ocean.json](./401770-maloomify-the-ocean.json) |
+| Malpraxis | 389124 | [389124-malpraxis.json](./389124-malpraxis.json) |
 | Malstrum's Mansion | 254509 | [254509-malstrums-mansion.json](./254509-malstrums-mansion.json) |
 | Malta Storm | 72083 | [72083-malta-storm.json](./72083-malta-storm.json) |
 | Maltese Cross | 134418 | [134418-maltese-cross.json](./134418-maltese-cross.json) |
@@ -3122,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Meadow! | 108483 | [108483-merge-meadow.json](./108483-merge-meadow.json) |
 | Merge Military | 208970 | [208970-merge-military.json](./208970-merge-military.json) |
 | Merge Miners | 229372 | [229372-merge-miners.json](./229372-merge-miners.json) |
+| Merge Monastery | 389110 | [389110-merge-monastery.json](./389110-merge-monastery.json) |
 | Merge Numbers | 329197 | [329197-merge-numbers.json](./329197-merge-numbers.json) |
 | Merge Pineapple | 339286 | [339286-merge-pineapple.json](./339286-merge-pineapple.json) |
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
