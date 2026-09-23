@@ -2581,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle Joker | 97388 | [97388-riddle-joker.json](./97388-riddle-joker.json) |
 | Riddle of Pythagoras | 40424 | [40424-riddle-of-pythagoras.json](./40424-riddle-of-pythagoras.json) |
 | Riddle of the Jelly | 245943 | [245943-riddle-of-the-jelly.json](./245943-riddle-of-the-jelly.json) |
+| Riddle of the Runes: The Worlds of TSR | 360172 | [360172-riddle-of-the-runes-the-worlds-of-tsr.json](./360172-riddle-of-the-runes-the-worlds-of-tsr.json) |
 | Riddle of the Sphinx | 174286 | [174286-riddle-of-the-sphinx.json](./174286-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
 | Riddle School | 56438 | [56438-riddle-school.json](./56438-riddle-school.json) |
