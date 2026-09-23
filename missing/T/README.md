@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Lost Tape | 197312 | [197312-the-backrooms-lost-tape.json](./197312-the-backrooms-lost-tape.json) |
 | The Backrooms: Lost to the Dark | 370141 | [370141-the-backrooms-lost-to-the-dark.json](./370141-the-backrooms-lost-to-the-dark.json) |
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
+| The Backrooms: Rescue Expedition | 374828 | [374828-the-backrooms-rescue-expedition.json](./374828-the-backrooms-rescue-expedition.json) |
 | The Backrooms: Reset | 365740 | [365740-the-backrooms-reset.json](./365740-the-backrooms-reset.json) |
 | The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
 | The Backrooms: You've Been Here Before | 276161 | [276161-the-backrooms-youve-been-here-before.json](./276161-the-backrooms-youve-been-here-before.json) |
