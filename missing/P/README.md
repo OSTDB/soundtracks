@@ -2912,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
 | Pixel Pileup Party | 130201 | [130201-pixel-pileup-party.json](./130201-pixel-pileup-party.json) |
+| Pixel Pirate | 342859 | [342859-pixel-pirate.json](./342859-pixel-pirate.json) |
 | Pixel Pirates | 53460 | [53460-pixel-pirates.json](./53460-pixel-pirates.json) |
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
@@ -5893,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSXFunkin: Lullaby Mod | 404438 | [404438-psxfunkin-lullaby-mod.json](./404438-psxfunkin-lullaby-mod.json) |
 | PSXFunkin: Mind Games | 404437 | [404437-psxfunkin-mind-games.json](./404437-psxfunkin-mind-games.json) |
 | PSXFunkin' | 279587 | [279587-psxfunkin.json](./279587-psxfunkin.json) |
+| PSXFunkin' with Parappa | 342833 | [342833-psxfunkin-with-parappa.json](./342833-psxfunkin-with-parappa.json) |
 | PSXGarcello | 404439 | [404439-psxgarcello.json](./404439-psxgarcello.json) |
 | Psy High 2: High Summer | 121702 | [121702-psy-high-2-high-summer.json](./121702-psy-high-2-high-summer.json) |
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
