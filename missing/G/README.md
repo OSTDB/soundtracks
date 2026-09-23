@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gin Champion | 46581 | [46581-gin-champion.json](./46581-gin-champion.json) |
 | Gin no Eclipse | 204556 | [204556-gin-no-eclipse.json](./204556-gin-no-eclipse.json) |
 | Gin Rummy | 179597 | [179597-gin-rummy.json](./179597-gin-rummy.json) |
+| Gin Rummy | 377838 | [377838-gin-rummy.json](./377838-gin-rummy.json) |
 | Gin: The Silver Wind | 275729 | [275729-gin-the-silver-wind.json](./275729-gin-the-silver-wind.json) |
 | Gin's Gunstore | 355546 | [355546-gins-gunstore.json](./355546-gins-gunstore.json) |
 | Gindama Oyakata no Jissen Pachinko Hisshouhou | 65199 | [65199-gindama-oyakata-no-jissen-pachinko-hisshouhou.json](./65199-gindama-oyakata-no-jissen-pachinko-hisshouhou.json) |
