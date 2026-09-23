@@ -4763,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Tales 64 | 135264 | [135264-bounce-tales-64.json](./135264-bounce-tales-64.json) |
 | Bounce Time! | 233240 | [233240-bounce-time.json](./233240-bounce-time.json) |
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
+| Bounce95 | 382460 | [382460-bounce95.json](./382460-bounce95.json) |
 | Bounceables | 217548 | [217548-bounceables.json](./217548-bounceables.json) |
 | BounceBash | 248059 | [248059-bouncebash.json](./248059-bouncebash.json) |
 | BounceCrazy | 68645 | [68645-bouncecrazy.json](./68645-bouncecrazy.json) |
@@ -4786,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Kingdoms | 397768 | [397768-bouncy-kingdoms.json](./397768-bouncy-kingdoms.json) |
 | Bouncy Smash | 89184 | [89184-bouncy-smash.json](./89184-bouncy-smash.json) |
 | Bouncy! Trampoline | 233520 | [233520-bouncy-trampoline.json](./233520-bouncy-trampoline.json) |
+| Bouncy's Abyssal Excursion | 382455 | [382455-bouncys-abyssal-excursion.json](./382455-bouncys-abyssal-excursion.json) |
 | Bound | 14790 | [14790-bound.json](./14790-bound.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
 | Bound Between Desks | 347765 | [347765-bound-between-desks.json](./347765-bound-between-desks.json) |
