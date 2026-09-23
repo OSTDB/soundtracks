@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean's Crabellum | 74372 | [74372-oceans-crabellum.json](./74372-oceans-crabellum.json) |
 | Oceanhorn: Monster of Uncharted Seas | 18975 | [18975-oceanhorn-monster-of-uncharted-seas.json](./18975-oceanhorn-monster-of-uncharted-seas.json) |
 | Oceanic Discoveries Duo | 271830 | [271830-oceanic-discoveries-duo.json](./271830-oceanic-discoveries-duo.json) |
+| Oceanides of the World's End: Legend of the Big-breasted Swimsuit Beauty Guardian | 344556 | [344556-oceanides-of-the-worlds-end-legend-of-the-big-breasted-swimsuit-beauty-guardian.json](./344556-oceanides-of-the-worlds-end-legend-of-the-big-breasted-swimsuit-beauty-guardian.json) |
 | Oceanopolis 2000 | 398361 | [398361-oceanopolis-2000.json](./398361-oceanopolis-2000.json) |
 | Oceans | 224563 | [224563-oceans.json](./224563-oceans.json) |
 | Oceans Below | 37124 | [37124-oceans-below.json](./37124-oceans-below.json) |
@@ -1500,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organ Failure | 383385 | [383385-organ-failure.json](./383385-organ-failure.json) |
 | Organ Quarter Pre-Alpha Demo | 30909 | [30909-organ-quarter-pre-alpha-demo.json](./30909-organ-quarter-pre-alpha-demo.json) |
 | Organ Trail: Director's Cut | 6859 | [6859-organ-trail-directors-cut.json](./6859-organ-trail-directors-cut.json) |
+| Organic Burger Simulator | 344554 | [344554-organic-burger-simulator.json](./344554-organic-burger-simulator.json) |
 | Organic Dissociation | 271298 | [271298-organic-dissociation.json](./271298-organic-dissociation.json) |
 | Organic Engine | 212794 | [212794-organic-engine.json](./212794-organic-engine.json) |
 | Organic Engine Escape | 315675 | [315675-organic-engine-escape.json](./315675-organic-engine-escape.json) |
