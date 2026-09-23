@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Prospect | 128994 | [128994-dark-prospect.json](./128994-dark-prospect.json) |
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
 | Dark Quest | 27488 | [27488-dark-quest.json](./27488-dark-quest.json) |
+| Dark Quest: Remastered | 389079 | [389079-dark-quest-remastered.json](./389079-dark-quest-remastered.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
@@ -670,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tides | 158696 | [158696-dark-tides.json](./158696-dark-tides.json) |
 | Dark Tower | 26475 | [26475-dark-tower.json](./26475-dark-tower.json) |
 | Dark Tower | 29182 | [29182-dark-tower.json](./29182-dark-tower.json) |
+| Dark Town Secrets: Lost Lulu - Collector's Edition | 389078 | [389078-dark-town-secrets-lost-lulu-collectors-edition.json](./389078-dark-town-secrets-lost-lulu-collectors-edition.json) |
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
 | Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
 | Dark Umbra | 295793 | [295793-dark-umbra.json](./295793-dark-umbra.json) |
@@ -5292,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
 | Drawngeon: Dungeons of Ink and Paper | 113810 | [113810-drawngeon-dungeons-of-ink-and-paper.json](./113810-drawngeon-dungeons-of-ink-and-paper.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
+| drawwars.io | 389104 | [389104-drawwars-io.json](./389104-drawwars-io.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
