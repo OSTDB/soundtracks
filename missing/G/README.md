@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
+| Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
