@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Invaders | 92826 | [92826-cash-invaders.json](./92826-cash-invaders.json) |
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
+| CashGrab | 368686 | [368686-cashgrab.json](./368686-cashgrab.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
 | Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
@@ -1436,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Me If You Can | 351088 | [351088-catch-me-if-you-can.json](./351088-catch-me-if-you-can.json) |
 | Catch My Color | 295275 | [295275-catch-my-color.json](./295275-catch-my-color.json) |
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
+| Catch Royale | 368667 | [368667-catch-royale.json](./368667-catch-royale.json) |
 | Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
 | Catch The Fox | 247499 | [247499-catch-the-fox.json](./247499-catch-the-fox.json) |
 | Catch the Moths | 359429 | [359429-catch-the-moths.json](./359429-catch-the-moths.json) |
@@ -4119,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Vision Deficiency Test | 318641 | [318641-color-vision-deficiency-test.json](./318641-color-vision-deficiency-test.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
 | Color Water Sort: Gold Edition | 385195 | [385195-color-water-sort-gold-edition.json](./385195-color-water-sort-gold-edition.json) |
+| Color X Memory | 368682 | [368682-color-x-memory.json](./368682-color-x-memory.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
@@ -7058,6 +7061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Rats | 336523 | [336523-cyber-rats.json](./336523-cyber-rats.json) |
 | Cyber Revolution | 339357 | [339357-cyber-revolution.json](./339357-cyber-revolution.json) |
 | Cyber Rider | 155671 | [155671-cyber-rider.json](./155671-cyber-rider.json) |
+| Cyber Runner | 368674 | [368674-cyber-runner.json](./368674-cyber-runner.json) |
 | Cyber Runner 2048 | 192393 | [192393-cyber-runner-2048.json](./192393-cyber-runner-2048.json) |
 | Cyber Rush | 296522 | [296522-cyber-rush.json](./296522-cyber-rush.json) |
 | Cyber Russia | 300693 | [300693-cyber-russia.json](./300693-cyber-russia.json) |
