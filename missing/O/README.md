@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
 | Outhouse | 342063 | [342063-outhouse.json](./342063-outhouse.json) |
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
+| Outland Peak | 383662 | [383662-outland-peak.json](./383662-outland-peak.json) |
 | Outland Rapture | 169475 | [169475-outland-rapture.json](./169475-outland-rapture.json) |
 | Outlander | 195742 | [195742-outlander.json](./195742-outlander.json) |
 | Outlander: Fantastic Princess | 261798 | [261798-outlander-fantastic-princess.json](./261798-outlander-fantastic-princess.json) |
@@ -1931,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outworks | 408290 | [408290-outworks.json](./408290-outworks.json) |
 | Outworld | 287102 | [287102-outworld.json](./287102-outworld.json) |
 | Outworld Battlegrounds | 111037 | [111037-outworld-battlegrounds.json](./111037-outworld-battlegrounds.json) |
+| Outworld Defence | 383652 | [383652-outworld-defence.json](./383652-outworld-defence.json) |
 | Ova Magica | 138211 | [138211-ova-magica.json](./138211-ova-magica.json) |
 | Ovation | 392461 | [392461-ovation.json](./392461-ovation.json) |
 | Oven Dodgers | 281395 | [281395-oven-dodgers.json](./281395-oven-dodgers.json) |
