@@ -2569,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Mack Pinnacle | 353408 | [353408-american-truck-simulator-mack-pinnacle.json](./353408-american-truck-simulator-mack-pinnacle.json) |
 | American Truck Simulator: Pink Ribbon Charity Pack | 353398 | [353398-american-truck-simulator-pink-ribbon-charity-pack.json](./353398-american-truck-simulator-pink-ribbon-charity-pack.json) |
 | American Truck Simulator: Retrowave Paint Jobs Pack | 353405 | [353405-american-truck-simulator-retrowave-paint-jobs-pack.json](./353405-american-truck-simulator-retrowave-paint-jobs-pack.json) |
+| American Truck Simulator: South Dakota | 347862 | [347862-american-truck-simulator-south-dakota.json](./347862-american-truck-simulator-south-dakota.json) |
 | American Truck Simulator: Space Paint Jobs Pack | 353400 | [353400-american-truck-simulator-space-paint-jobs-pack.json](./353400-american-truck-simulator-space-paint-jobs-pack.json) |
 | American Truck Simulator: Special Transport | 268771 | [268771-american-truck-simulator-special-transport.json](./268771-american-truck-simulator-special-transport.json) |
 | American Truck Simulator: Sports Paint Jobs Pack | 311103 | [311103-american-truck-simulator-sports-paint-jobs-pack.json](./311103-american-truck-simulator-sports-paint-jobs-pack.json) |
@@ -4627,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Not Getting Found | 180670 | [180670-art-of-not-getting-found.json](./180670-art-of-not-getting-found.json) |
 | Art of Rally: Australia | 275115 | [275115-art-of-rally-australia.json](./275115-art-of-rally-australia.json) |
 | Art of Rally: Deluxe Edition | 155074 | [155074-art-of-rally-deluxe-edition.json](./155074-art-of-rally-deluxe-edition.json) |
+| Art of Solitaire | 347884 | [347884-art-of-solitaire.json](./347884-art-of-solitaire.json) |
 | Art of Stunt | 286095 | [286095-art-of-stunt.json](./286095-art-of-stunt.json) |
 | Art of the Rail | 153400 | [153400-art-of-the-rail.json](./153400-art-of-the-rail.json) |
 | Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
@@ -5038,7 +5040,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
 | Astérix | 19486 | [19486-asterix.json](./19486-asterix.json) |
+| Asterix & Cleopatra | 347915 | [347915-asterix-and-cleopatra.json](./347915-asterix-and-cleopatra.json) |
 | Astérix & Obélix | 228475 | [228475-asterix-and-obelix.json](./228475-asterix-and-obelix.json) |
+| Astérix & Obélix | 347901 | [347901-asterix-and-obelix.json](./347901-asterix-and-obelix.json) |
 | Astérix & Obelix Take on Caesar | 62150 | [62150-asterix-and-obelix-take-on-caesar.json](./62150-asterix-and-obelix-take-on-caesar.json) |
 | Astérix & Obélix XXL | 210711 | [210711-asterix-and-obelix-xxl.json](./210711-asterix-and-obelix-xxl.json) |
 | Astérix & Obélix XXL 2: Mission: Las Vegum | 81480 | [81480-asterix-and-obelix-xxl-2-mission-las-vegum.json](./81480-asterix-and-obelix-xxl-2-mission-las-vegum.json) |
@@ -5055,6 +5059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix et la Potion Magique | 342056 | [342056-asterix-et-la-potion-magique.json](./342056-asterix-et-la-potion-magique.json) |
 | Asterix Maxi Collection | 331410 | [331410-asterix-maxi-collection.json](./331410-asterix-maxi-collection.json) |
 | Astérix: Caesar's Challenge | 45944 | [45944-asterix-caesars-challenge.json](./45944-asterix-caesars-challenge.json) |
+| Astérix: Hunt for the Boars | 347903 | [347903-asterix-hunt-for-the-boars.json](./347903-asterix-hunt-for-the-boars.json) |
 | Astérix: These Romans Are Crazy! | 269567 | [269567-asterix-these-romans-are-crazy.json](./269567-asterix-these-romans-are-crazy.json) |
 | AsterMaster | 418795 | [418795-astermaster.json](./418795-astermaster.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
