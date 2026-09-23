@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Extend | 94573 | [94573-every-extend.json](./94573-every-extend.json) |
 | Every Farm | 227950 | [227950-every-farm.json](./227950-every-farm.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
+| Every Morning My Alarm Clock Kills Me | 387001 | [387001-every-morning-my-alarm-clock-kills-me.json](./387001-every-morning-my-alarm-clock-kills-me.json) |
 | Every Second Counts | 13648 | [13648-every-second-counts.json](./13648-every-second-counts.json) |
 | Every Wednesday | 387366 | [387366-every-wednesday.json](./387366-every-wednesday.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
