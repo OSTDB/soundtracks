@@ -3673,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollers | 127223 | [127223-rollers.json](./127223-rollers.json) |
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
+| Rollimals | 385828 | [385828-rollimals.json](./385828-rollimals.json) |
 | Rollin' Rascals | 68935 | [68935-rollin-rascals.json](./68935-rollin-rascals.json) |
 | Rolling | 6017 | [6017-rolling.json](./6017-rolling.json) |
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
@@ -3725,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman the Worm | 105336 | [105336-roman-the-worm.json](./105336-roman-the-worm.json) |
 | Roman Trahtenberg: V poiskah ideal'nogo anekdota | 403581 | [403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json](./403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json) |
 | Romance - Hidden Object Games | 86918 | [86918-romance-hidden-object-games.json](./86918-romance-hidden-object-games.json) |
+| Romance after dark | 385873 | [385873-romance-after-dark.json](./385873-romance-after-dark.json) |
 | Romance Choice | 301949 | [301949-romance-choice.json](./301949-romance-choice.json) |
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
