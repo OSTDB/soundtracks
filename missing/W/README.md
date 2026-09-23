@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Live | 157034 | [157034-we-are-live.json](./157034-we-are-live.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
 | We Are Sisters | 418704 | [418704-we-are-sisters.json](./418704-we-are-sisters.json) |
+| We Are So Cooked | 388377 | [388377-we-are-so-cooked.json](./388377-we-are-so-cooked.json) |
 | We Are So Cooked | 388939 | [388939-we-are-so-cooked.json](./388939-we-are-so-cooked.json) |
 | We Are Stardust | 299162 | [299162-we-are-stardust.json](./299162-we-are-stardust.json) |
 | We Are the Dwarves | 15485 | [15485-we-are-the-dwarves.json](./15485-we-are-the-dwarves.json) |
@@ -2033,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Falling: Battle Tactics | 173251 | [173251-winter-falling-battle-tactics.json](./173251-winter-falling-battle-tactics.json) |
 | Winter Falling: Price of Life | 176352 | [176352-winter-falling-price-of-life.json](./176352-winter-falling-price-of-life.json) |
 | Winter Fragments | 285045 | [285045-winter-fragments.json](./285045-winter-fragments.json) |
+| Winter Games | 388392 | [388392-winter-games.json](./388392-winter-games.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
 | Winter Magic | 182929 | [182929-winter-magic.json](./182929-winter-magic.json) |
