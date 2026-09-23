@@ -646,10 +646,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
 | Capy's Hot Springs Haven | 389706 | [389706-capys-hot-springs-haven.json](./389706-capys-hot-springs-haven.json) |
 | Capybara | 229820 | [229820-capybara.json](./229820-capybara.json) |
+| Capybara Achievement Clicker | 369237 | [369237-capybara-achievement-clicker.json](./369237-capybara-achievement-clicker.json) |
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
 | Capybara Park | 312189 | [312189-capybara-park.json](./312189-capybara-park.json) |
 | Capybara Quest | 310942 | [310942-capybara-quest.json](./310942-capybara-quest.json) |
+| Capybara Village | 369231 | [369231-capybara-village.json](./369231-capybara-village.json) |
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
@@ -2531,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Juggler | 13830 | [13830-chinese-juggler.json](./13830-chinese-juggler.json) |
 | Chinese Karate | 15885 | [15885-chinese-karate.json](./15885-chinese-karate.json) |
 | Chinese mother in law | 158166 | [158166-chinese-mother-in-law.json](./158166-chinese-mother-in-law.json) |
+| Chinese Mythology: Journey to the West | 369216 | [369216-chinese-mythology-journey-to-the-west.json](./369216-chinese-mythology-journey-to-the-west.json) |
 | Chinese New Year 2013 | 233779 | [233779-chinese-new-year-2013.json](./233779-chinese-new-year-2013.json) |
 | Chinese Paladin 5 Prequel | 68175 | [68175-chinese-paladin-5-prequel.json](./68175-chinese-paladin-5-prequel.json) |
 | Chinese Parents | 86430 | [86430-chinese-parents.json](./86430-chinese-parents.json) |
@@ -3534,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
 | Cloaks and Capes | 148471 | [148471-cloaks-and-capes.json](./148471-cloaks-and-capes.json) |
+| Clock Game | 369210 | [369210-clock-game.json](./369210-clock-game.json) |
 | Clock Mayhem | 414580 | [414580-clock-mayhem.json](./414580-clock-mayhem.json) |
 | Clock of Atonement | 240491 | [240491-clock-of-atonement.json](./240491-clock-of-atonement.json) |
 | Clock Out | 312922 | [312922-clock-out.json](./312922-clock-out.json) |
@@ -3716,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
+| Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutter 18: Joe's Ultimate Challenge - Collector's Edition | 369562 | [369562-clutter-18-joes-ultimate-challenge-collectors-edition.json](./369562-clutter-18-joes-ultimate-challenge-collectors-edition.json) |
 | Clutter III : Who Is The Void? | 318199 | [318199-clutter-iii-who-is-the-void.json](./318199-clutter-iii-who-is-the-void.json) |
 | Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
@@ -7120,6 +7125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberlinxx | 236952 | [236952-cyberlinxx.json](./236952-cyberlinxx.json) |
 | Cyberlords Arcology | 374290 | [374290-cyberlords-arcology.json](./374290-cyberlords-arcology.json) |
 | Cybermage: Darklight Awakening | 18998 | [18998-cybermage-darklight-awakening.json](./18998-cybermage-darklight-awakening.json) |
+| Cyberman | 369239 | [369239-cyberman.json](./369239-cyberman.json) |
 | CyberMedic Simulator | 118365 | [118365-cybermedic-simulator.json](./118365-cybermedic-simulator.json) |
 | Cybermercs: The Soldiers of the 22nd Century | 70386 | [70386-cybermercs-the-soldiers-of-the-22nd-century.json](./70386-cybermercs-the-soldiers-of-the-22nd-century.json) |
 | Cybermorph | 40803 | [40803-cybermorph.json](./40803-cybermorph.json) |
