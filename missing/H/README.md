@@ -505,6 +505,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanna Barbera's Cartoon Carnival | 45939 | [45939-hanna-barberas-cartoon-carnival.json](./45939-hanna-barberas-cartoon-carnival.json) |
 | Hanna Barbera's Turbo Toons | 42619 | [42619-hanna-barberas-turbo-toons.json](./42619-hanna-barberas-turbo-toons.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
+| Hannah and the Ice Caves | 338367 | [338367-hannah-and-the-ice-caves.json](./338367-hannah-and-the-ice-caves.json) |
+| Hannah and the Kreludor Caves | 338381 | [338381-hannah-and-the-kreludor-caves.json](./338381-hannah-and-the-kreludor-caves.json) |
+| Hannah and the Pirate Caves | 338358 | [338358-hannah-and-the-pirate-caves.json](./338358-hannah-and-the-pirate-caves.json) |
 | Hannah Montana: DVD Game | 228444 | [228444-hannah-montana-dvd-game.json](./228444-hannah-montana-dvd-game.json) |
 | Hannah Montana: One in a Million | 220093 | [220093-hannah-montana-one-in-a-million.json](./220093-hannah-montana-one-in-a-million.json) |
 | Hannah Montana: Pop Star Exclusive | 79855 | [79855-hannah-montana-pop-star-exclusive.json](./79855-hannah-montana-pop-star-exclusive.json) |
