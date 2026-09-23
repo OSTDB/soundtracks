@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
 | Jules | 187368 | [187368-jules.json](./187368-jules.json) |
 | Julia: Back to the Sweet 60's | 378411 | [378411-julia-back-to-the-sweet-60s.json](./378411-julia-back-to-the-sweet-60s.json) |
+| July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
 | July the Lost Child | 109699 | [109699-july-the-lost-child.json](./109699-july-the-lost-child.json) |
 | Jumala | 23829 | [23829-jumala.json](./23829-jumala.json) |
 | Jumanji: Reverse the Curse | 246639 | [246639-jumanji-reverse-the-curse.json](./246639-jumanji-reverse-the-curse.json) |
