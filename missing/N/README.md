@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon On!: Complete Edition | 294829 | [294829-neon-on-complete-edition.json](./294829-neon-on-complete-edition.json) |
 | Neon Orbit | 382772 | [382772-neon-orbit.json](./382772-neon-orbit.json) |
 | Neon Outlast | 195787 | [195787-neon-outlast.json](./195787-neon-outlast.json) |
+| Neon Paddles: Revenge of the Ball | 372140 | [372140-neon-paddles-revenge-of-the-ball.json](./372140-neon-paddles-revenge-of-the-ball.json) |
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
 | Neon Race | 182946 | [182946-neon-race.json](./182946-neon-race.json) |
 | Neon Race | 286644 | [286644-neon-race.json](./286644-neon-race.json) |
@@ -2323,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NokNok Invasion! | 183505 | [183505-noknok-invasion.json](./183505-noknok-invasion.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
 | NoLimits 2: Roller Coaster Simulation - Professional License | 315485 | [315485-nolimits-2-roller-coaster-simulation-professional-license.json](./315485-nolimits-2-roller-coaster-simulation-professional-license.json) |
+| Noloinstale | 372087 | [372087-noloinstale.json](./372087-noloinstale.json) |
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
 | Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
