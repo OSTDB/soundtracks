@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine II - Collector's Edition | 230829 | [230829-warhammer-40-000-space-marine-ii-collectors-edition.json](./230829-warhammer-40-000-space-marine-ii-collectors-edition.json) |
 | Warhammer 40,000: Space Marine II - Purgation Update | 402513 | [402513-warhammer-40-000-space-marine-ii-purgation-update.json](./402513-warhammer-40-000-space-marine-ii-purgation-update.json) |
 | Warhammer 40,000: Space Marine II - Space Wolves Chapter Pack | 370094 | [370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json](./370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json) |
+| Warhammer 40,000: Space Marine II - Trygon Update | 340584 | [340584-warhammer-40-000-space-marine-ii-trygon-update.json](./340584-warhammer-40-000-space-marine-ii-trygon-update.json) |
 | Warhammer 40,000: Space Marine VR - Defenders of Avarax | 402514 | [402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json](./402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json) |
 | Warhammer 40,000: Space Wolf - Drenn Redblade | 163385 | [163385-warhammer-40-000-space-wolf-drenn-redblade.json](./163385-warhammer-40-000-space-wolf-drenn-redblade.json) |
 | Warhammer 40,000: Space Wolf - Fall of Kanak | 163386 | [163386-warhammer-40-000-space-wolf-fall-of-kanak.json](./163386-warhammer-40-000-space-wolf-fall-of-kanak.json) |
