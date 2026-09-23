@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phucker in the Gulag | 117474 | [117474-phucker-in-the-gulag.json](./117474-phucker-in-the-gulag.json) |
 | Phy Lab | 410210 | [410210-phy-lab.json](./410210-phy-lab.json) |
 | Phyakh | 221168 | [221168-phyakh.json](./221168-phyakh.json) |
+| Phyllosoma | 384763 | [384763-phyllosoma.json](./384763-phyllosoma.json) |
 | Phylomortis: Avant-Garde | 356636 | [356636-phylomortis-avant-garde.json](./356636-phylomortis-avant-garde.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
 | Physical Contact: Picture Place | 74348 | [74348-physical-contact-picture-place.json](./74348-physical-contact-picture-place.json) |
@@ -5161,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
 | Project Arms | 138043 | [138043-project-arms.json](./138043-project-arms.json) |
 | Project Atlas | 142385 | [142385-project-atlas.json](./142385-project-atlas.json) |
+| Project Atlas | 384808 | [384808-project-atlas.json](./384808-project-atlas.json) |
 | Project Atlas | 387321 | [387321-project-atlas.json](./387321-project-atlas.json) |
 | Project Atno | 272947 | [272947-project-atno.json](./272947-project-atno.json) |
 | Project Aura | 17519 | [17519-project-aura.json](./17519-project-aura.json) |
@@ -5859,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
+| Purarger Collector!! | 384805 | [384805-purarger-collector.json](./384805-purarger-collector.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
 | Pure Blood | 310933 | [310933-pure-blood.json](./310933-pure-blood.json) |
 | Pure Chaotix | 326817 | [326817-pure-chaotix.json](./326817-pure-chaotix.json) |
