@@ -1781,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets and Friends: Cuties Bundle | 400207 | [400207-pets-and-friends-cuties-bundle.json](./400207-pets-and-friends-cuties-bundle.json) |
 | Pets and Friends: Cuties Pack | 400208 | [400208-pets-and-friends-cuties-pack.json](./400208-pets-and-friends-cuties-pack.json) |
 | Pets and Friends: Easter Pack | 396910 | [396910-pets-and-friends-easter-pack.json](./396910-pets-and-friends-easter-pack.json) |
+| Pets and Friends: Valentines Pack | 387686 | [387686-pets-and-friends-valentines-pack.json](./387686-pets-and-friends-valentines-pack.json) |
 | Pets at Work | 190153 | [190153-pets-at-work.json](./190153-pets-at-work.json) |
 | Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
@@ -1878,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom II | 40404 | [40404-phantom-ii.json](./40404-phantom-ii.json) |
 | Phantom Killer | 275343 | [275343-phantom-killer.json](./275343-phantom-killer.json) |
 | Phantom Kingdom: Portable | 262445 | [262445-phantom-kingdom-portable.json](./262445-phantom-kingdom-portable.json) |
+| Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
 | Phantom of the Kill | 58459 | [58459-phantom-of-the-kill.json](./58459-phantom-of-the-kill.json) |
 | Phantom Ops | 370703 | [370703-phantom-ops.json](./370703-phantom-ops.json) |
@@ -3480,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Knights 2 | 54715 | [54715-pocket-knights-2.json](./54715-pocket-knights-2.json) |
 | Pocket Lands | 183473 | [183473-pocket-lands.json](./183473-pocket-lands.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
+| Pocket Lint Zero | 387645 | [387645-pocket-lint-zero.json](./387645-pocket-lint-zero.json) |
 | Pocket Love | 63334 | [63334-pocket-love.json](./63334-pocket-love.json) |
 | Pocket Love: If | 43973 | [43973-pocket-love-if.json](./43973-pocket-love-if.json) |
 | Pocket Ludo | 401098 | [401098-pocket-ludo.json](./401098-pocket-ludo.json) |
@@ -4603,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator: Hunting Grounds - Dutch '87 | 168762 | [168762-predator-hunting-grounds-dutch-87.json](./168762-predator-hunting-grounds-dutch-87.json) |
 | Predator: Hunting Grounds - Dutch 2025 DLC Pack | 168759 | [168759-predator-hunting-grounds-dutch-2025-dlc-pack.json](./168759-predator-hunting-grounds-dutch-2025-dlc-pack.json) |
 | Predator: Hunting Grounds - Isabelle Fireteam DLC Pack | 168760 | [168760-predator-hunting-grounds-isabelle-fireteam-dlc-pack.json](./168760-predator-hunting-grounds-isabelle-fireteam-dlc-pack.json) |
+| Predator: Hunting Grounds - Jotun Predator | 387641 | [387641-predator-hunting-grounds-jotun-predator.json](./387641-predator-hunting-grounds-jotun-predator.json) |
 | Predator: Hunting Grounds - Jungle Edition | 331853 | [331853-predator-hunting-grounds-jungle-edition.json](./331853-predator-hunting-grounds-jungle-edition.json) |
 | Predator: Hunting Grounds - Samurai Predator | 168757 | [168757-predator-hunting-grounds-samurai-predator.json](./168757-predator-hunting-grounds-samurai-predator.json) |
 | Predator: Hunting Grounds - Valkyrie Predator DLC Pack | 168763 | [168763-predator-hunting-grounds-valkyrie-predator-dlc-pack.json](./168763-predator-hunting-grounds-valkyrie-predator-dlc-pack.json) |
@@ -4772,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priministar | 294860 | [294860-priministar.json](./294860-priministar.json) |
 | Primit Shooter 2 | 270950 | [270950-primit-shooter-2.json](./270950-primit-shooter-2.json) |
 | Primitier | 140519 | [140519-primitier.json](./140519-primitier.json) |
+| Primitive Fear | 387651 | [387651-primitive-fear.json](./387651-primitive-fear.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
 | Primland Tale | 345608 | [345608-primland-tale.json](./345608-primland-tale.json) |
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
