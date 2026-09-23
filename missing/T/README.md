@@ -8278,6 +8278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilescapes | 350518 | [350518-tilescapes.json](./350518-tilescapes.json) |
 | Tileshire | 413042 | [413042-tileshire.json](./413042-tileshire.json) |
 | Tilesweeper | 104139 | [104139-tilesweeper.json](./104139-tilesweeper.json) |
+| TileUp | 363577 | [363577-tileup.json](./363577-tileup.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
 | Till the dawn, waiting | 81679 | [81679-till-the-dawn-waiting.json](./81679-till-the-dawn-waiting.json) |
 | Till The Light | 406933 | [406933-till-the-light.json](./406933-till-the-light.json) |
@@ -10818,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
+| Travians | 363543 | [363543-travians.json](./363543-travians.json) |
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
 | Travis Strikes Again: No More Heroes - Black Dandelion | 115482 | [115482-travis-strikes-again-no-more-heroes-black-dandelion.json](./115482-travis-strikes-again-no-more-heroes-black-dandelion.json) |
 | Travis Strikes Again: No More Heroes - Bubblegum Fatale | 117496 | [117496-travis-strikes-again-no-more-heroes-bubblegum-fatale.json](./117496-travis-strikes-again-no-more-heroes-bubblegum-fatale.json) |
