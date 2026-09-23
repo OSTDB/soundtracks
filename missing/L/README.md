@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
 | Limit Zero Breakers | 361763 | [361763-limit-zero-breakers.json](./361763-limit-zero-breakers.json) |
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
+| Limits | 379052 | [379052-limits.json](./379052-limits.json) |
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
 | Limp Mode | 414575 | [414575-limp-mode.json](./414575-limp-mode.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
