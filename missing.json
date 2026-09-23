@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T09:48:03.899Z",
-  "total_missing": 110727,
+  "generated_at": "2026-09-23T10:03:04.083Z",
+  "total_missing": 110777,
   "games": [
     {
       "igdb_id": 176875,
@@ -8226,6 +8226,11 @@
       "igdb_id": 334781,
       "game_name": "Achievement Hunter: Knight",
       "file": "missing/A/334781-achievement-hunter-knight.json"
+    },
+    {
+      "igdb_id": 368155,
+      "game_name": "Achievement Hunter: Overdose",
+      "file": "missing/A/368155-achievement-hunter-overdose.json"
     },
     {
       "igdb_id": 334772,
@@ -28948,6 +28953,11 @@
       "file": "missing/A/34827-asphyxia.json"
     },
     {
+      "igdb_id": 368153,
+      "game_name": "Asphyxiation",
+      "file": "missing/A/368153-asphyxiation.json"
+    },
+    {
       "igdb_id": 41327,
       "game_name": "Aspic: Majaou no Noroi",
       "file": "missing/A/41327-aspic-majaou-no-noroi.json"
@@ -44926,6 +44936,11 @@
       "igdb_id": 250384,
       "game_name": "Bee in the Valley",
       "file": "missing/B/250384-bee-in-the-valley.json"
+    },
+    {
+      "igdb_id": 368157,
+      "game_name": "Bee Invasion",
+      "file": "missing/B/368157-bee-invasion.json"
     },
     {
       "igdb_id": 208409,
@@ -103628,6 +103643,11 @@
       "file": "missing/D/46185-dahna-megami-tanjou.json"
     },
     {
+      "igdb_id": 368138,
+      "game_name": "Dāi Dāi Dàmàoxiǎn",
+      "file": "missing/D/368138-dai-dai-damaoxian.json"
+    },
+    {
       "igdb_id": 353376,
       "game_name": "Dai Datsugoku! Hell chama Prison no Yabou",
       "file": "missing/D/353376-dai-datsugoku-hell-chama-prison-no-yabou.json"
@@ -126413,6 +126433,11 @@
       "file": "missing/D/133820-double-dodgers.json"
     },
     {
+      "igdb_id": 368149,
+      "game_name": "Double Down",
+      "file": "missing/D/368149-double-down.json"
+    },
+    {
       "igdb_id": 175799,
       "game_name": "Double Dragon",
       "file": "missing/D/175799-double-dragon.json"
@@ -127698,6 +127723,26 @@
       "file": "missing/D/141834-dragon-age-ii-bioware-signature-edition.json"
     },
     {
+      "igdb_id": 368135,
+      "game_name": "Dragon Age II: Mage Item Pack",
+      "file": "missing/D/368135-dragon-age-ii-mage-item-pack.json"
+    },
+    {
+      "igdb_id": 368142,
+      "game_name": "Dragon Age II: Mage Item Pack II",
+      "file": "missing/D/368142-dragon-age-ii-mage-item-pack-ii.json"
+    },
+    {
+      "igdb_id": 368134,
+      "game_name": "Dragon Age II: Rogue Item Pack",
+      "file": "missing/D/368134-dragon-age-ii-rogue-item-pack.json"
+    },
+    {
+      "igdb_id": 368141,
+      "game_name": "Dragon Age II: Rogue Item Pack II",
+      "file": "missing/D/368141-dragon-age-ii-rogue-item-pack-ii.json"
+    },
+    {
       "igdb_id": 367421,
       "game_name": "Dragon Age II: The Black Emporium",
       "file": "missing/D/367421-dragon-age-ii-the-black-emporium.json"
@@ -127706,6 +127751,16 @@
       "igdb_id": 306726,
       "game_name": "Dragon Age II: Ultimate Edition",
       "file": "missing/D/306726-dragon-age-ii-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 368133,
+      "game_name": "Dragon Age II: Warrior Item Pack",
+      "file": "missing/D/368133-dragon-age-ii-warrior-item-pack.json"
+    },
+    {
+      "igdb_id": 368140,
+      "game_name": "Dragon Age II: Warrior Item Pack II",
+      "file": "missing/D/368140-dragon-age-ii-warrior-item-pack-ii.json"
     },
     {
       "igdb_id": 44545,
@@ -127736,6 +127791,11 @@
       "igdb_id": 367441,
       "game_name": "Dragon Age: Origins - Feastday Gifts",
       "file": "missing/D/367441-dragon-age-origins-feastday-gifts.json"
+    },
+    {
+      "igdb_id": 368144,
+      "game_name": "Dragon Age: Origins - Feastday Gifts and Pranks",
+      "file": "missing/D/368144-dragon-age-origins-feastday-gifts-and-pranks.json"
     },
     {
       "igdb_id": 367442,
@@ -150448,6 +150508,11 @@
       "file": "missing/E/278523-extreme-rally-raid.json"
     },
     {
+      "igdb_id": 368148,
+      "game_name": "Extreme Reaction",
+      "file": "missing/E/368148-extreme-reaction.json"
+    },
+    {
       "igdb_id": 278155,
       "game_name": "Extreme Riding 2",
       "file": "missing/E/278155-extreme-riding-2.json"
@@ -154273,6 +154338,11 @@
       "file": "missing/F/136423-fantasy-girl.json"
     },
     {
+      "igdb_id": 368132,
+      "game_name": "Fantasy Girl Puzzle",
+      "file": "missing/F/368132-fantasy-girl-puzzle.json"
+    },
+    {
       "igdb_id": 310732,
       "game_name": "Fantasy Girls",
       "file": "missing/F/310732-fantasy-girls.json"
@@ -154671,6 +154741,11 @@
       "igdb_id": 406101,
       "game_name": "FantômeRapport: Intermezzo",
       "file": "missing/F/406101-fantomerapport-intermezzo.json"
+    },
+    {
+      "igdb_id": 368131,
+      "game_name": "Fap & Cum: Simulator",
+      "file": "missing/F/368131-fap-and-cum-simulator.json"
     },
     {
       "igdb_id": 110145,
@@ -157523,9 +157598,19 @@
       "file": "missing/F/382480-femdom-hero.json"
     },
     {
+      "igdb_id": 368130,
+      "game_name": "Femdom Lines",
+      "file": "missing/F/368130-femdom-lines.json"
+    },
+    {
       "igdb_id": 400901,
       "game_name": "Femdom Overtime",
       "file": "missing/F/400901-femdom-overtime.json"
+    },
+    {
+      "igdb_id": 368129,
+      "game_name": "Femdom Stories: Findom Simulator Sex Game",
+      "file": "missing/F/368129-femdom-stories-findom-simulator-sex-game.json"
     },
     {
       "igdb_id": 368641,
@@ -168653,6 +168738,11 @@
       "file": "missing/F/251016-forklift-2024-the-simulation.json"
     },
     {
+      "igdb_id": 368147,
+      "game_name": "Forklift 2025 Simulator",
+      "file": "missing/F/368147-forklift-2025-simulator.json"
+    },
+    {
       "igdb_id": 207892,
       "game_name": "Forklift Extreme",
       "file": "missing/F/207892-forklift-extreme.json"
@@ -175118,6 +175208,11 @@
       "file": "missing/F/349865-furry-tits.json"
     },
     {
+      "igdb_id": 368128,
+      "game_name": "Furry UwU",
+      "file": "missing/F/368128-furry-uwu.json"
+    },
+    {
       "igdb_id": 116361,
       "game_name": "FurryFury: Smash & Roll",
       "file": "missing/F/116361-furryfury-smash-and-roll.json"
@@ -175126,6 +175221,11 @@
       "igdb_id": 149049,
       "game_name": "Furs of Fury",
       "file": "missing/F/149049-furs-of-fury.json"
+    },
+    {
+      "igdb_id": 368127,
+      "game_name": "FurstDate: A Furry Dating Simulator",
+      "file": "missing/F/368127-furstdate-a-furry-dating-simulator.json"
     },
     {
       "igdb_id": 291743,
@@ -175428,6 +175528,11 @@
       "file": "missing/F/196143-futa-battle-td.json"
     },
     {
+      "igdb_id": 368126,
+      "game_name": "Futa Jigsaw Dating",
+      "file": "missing/F/368126-futa-jigsaw-dating.json"
+    },
+    {
       "igdb_id": 362274,
       "game_name": "Futa Nights: Bloody Sluts",
       "file": "missing/F/362274-futa-nights-bloody-sluts.json"
@@ -175468,9 +175573,29 @@
       "file": "missing/F/97840-futanari-fantasy-xx.json"
     },
     {
+      "igdb_id": 368125,
+      "game_name": "Futanari Girls 3D",
+      "file": "missing/F/368125-futanari-girls-3d.json"
+    },
+    {
       "igdb_id": 99592,
       "game_name": "Futanari Quest",
       "file": "missing/F/99592-futanari-quest.json"
+    },
+    {
+      "igdb_id": 368124,
+      "game_name": "Futanari Sex: Naughty Visit",
+      "file": "missing/F/368124-futanari-sex-naughty-visit.json"
+    },
+    {
+      "igdb_id": 368123,
+      "game_name": "Futanari Sex: Office Whores",
+      "file": "missing/F/368123-futanari-sex-office-whores.json"
+    },
+    {
+      "igdb_id": 368122,
+      "game_name": "Futanari Sex: The Fertility Doctor",
+      "file": "missing/F/368122-futanari-sex-the-fertility-doctor.json"
     },
     {
       "igdb_id": 203539,
@@ -175578,6 +175703,11 @@
       "file": "missing/F/246989-futurcity-taxi.json"
     },
     {
+      "igdb_id": 368121,
+      "game_name": "Future & Girls",
+      "file": "missing/F/368121-future-and-girls.json"
+    },
+    {
       "igdb_id": 307583,
       "game_name": "Future Avoid",
       "file": "missing/F/307583-future-avoid.json"
@@ -175616,6 +175746,11 @@
       "igdb_id": 13853,
       "game_name": "Future Knight",
       "file": "missing/F/13853-future-knight.json"
+    },
+    {
+      "igdb_id": 368120,
+      "game_name": "Future Love Space Machine: Glimmer Deck",
+      "file": "missing/F/368120-future-love-space-machine-glimmer-deck.json"
     },
     {
       "igdb_id": 174370,
@@ -175826,6 +175961,11 @@
       "igdb_id": 36525,
       "game_name": "Fuzecat",
       "file": "missing/F/36525-fuzecat.json"
+    },
+    {
+      "igdb_id": 368118,
+      "game_name": "Fuzoku Frame",
+      "file": "missing/F/368118-fuzoku-frame.json"
     },
     {
       "igdb_id": 69573,
@@ -179933,6 +180073,11 @@
       "file": "missing/G/105354-gay-battlegrounds.json"
     },
     {
+      "igdb_id": 368117,
+      "game_name": "Gay Guys",
+      "file": "missing/G/368117-gay-guys.json"
+    },
+    {
       "igdb_id": 304857,
       "game_name": "Gay Sex Adventures: Episode 8",
       "file": "missing/G/304857-gay-sex-adventures-episode-8.json"
@@ -183771,6 +183916,11 @@
       "igdb_id": 379587,
       "game_name": "Girlfriend Simulator",
       "file": "missing/G/379587-girlfriend-simulator.json"
+    },
+    {
+      "igdb_id": 368116,
+      "game_name": "GirlFriend VR",
+      "file": "missing/G/368116-girlfriend-vr.json"
     },
     {
       "igdb_id": 75784,
@@ -188126,6 +188276,11 @@
       "igdb_id": 338012,
       "game_name": "Goodwill Scrolls",
       "file": "missing/G/338012-goodwill-scrolls.json"
+    },
+    {
+      "igdb_id": 368139,
+      "game_name": "Gooey",
+      "file": "missing/G/368139-gooey.json"
     },
     {
       "igdb_id": 78033,
@@ -214413,6 +214568,11 @@
       "file": "missing/H/68656-hot-runback-vr-runner.json"
     },
     {
+      "igdb_id": 368110,
+      "game_name": "Hot Sauna",
+      "file": "missing/H/368110-hot-sauna.json"
+    },
+    {
       "igdb_id": 317877,
       "game_name": "Hot Shot",
       "file": "missing/H/317877-hot-shot.json"
@@ -233333,6 +233493,11 @@
       "file": "missing/J/66375-jessicas-cupcake-cafe.json"
     },
     {
+      "igdb_id": 368115,
+      "game_name": "Jessica's Life: The Beginning",
+      "file": "missing/J/368115-jessicas-life-the-beginning.json"
+    },
+    {
       "igdb_id": 148344,
       "game_name": "Jessie 'Boom' James",
       "file": "missing/J/148344-jessie-boom-james.json"
@@ -234001,6 +234166,11 @@
       "igdb_id": 121648,
       "game_name": "Ji Tan Nohua",
       "file": "missing/J/121648-ji-tan-nohua.json"
+    },
+    {
+      "igdb_id": 368143,
+      "game_name": "Jí Xiàn Zhēn Tàn",
+      "file": "missing/J/368143-ji-xian-zhen-tan.json"
     },
     {
       "igdb_id": 119700,
@@ -236386,6 +236556,11 @@
       "igdb_id": 346158,
       "game_name": "Juicy Blast",
       "file": "missing/J/346158-juicy-blast.json"
+    },
+    {
+      "igdb_id": 368114,
+      "game_name": "Juicy Hentai",
+      "file": "missing/J/368114-juicy-hentai.json"
     },
     {
       "igdb_id": 133437,
@@ -239821,6 +239996,11 @@
       "igdb_id": 194609,
       "game_name": "Kanojo to Ore to Koibito to.",
       "file": "missing/K/194609-kanojo-to-ore-to-koibito-to.json"
+    },
+    {
+      "igdb_id": 368113,
+      "game_name": "Kanojo x Switch",
+      "file": "missing/K/368113-kanojo-x-switch.json"
     },
     {
       "igdb_id": 156614,
@@ -257018,6 +257198,11 @@
       "file": "missing/L/199478-leviathans-sword.json"
     },
     {
+      "igdb_id": 368112,
+      "game_name": "Lewd & Nude: Anime Collector",
+      "file": "missing/L/368112-lewd-and-nude-anime-collector.json"
+    },
+    {
       "igdb_id": 235725,
       "game_name": "Lewd Anime Racing",
       "file": "missing/L/235725-lewd-anime-racing.json"
@@ -257036,6 +257221,11 @@
       "igdb_id": 385875,
       "game_name": "Lewd Island",
       "file": "missing/L/385875-lewd-island.json"
+    },
+    {
+      "igdb_id": 368111,
+      "game_name": "Lewd Puzzle",
+      "file": "missing/L/368111-lewd-puzzle.json"
     },
     {
       "igdb_id": 197867,
@@ -267516,6 +267706,11 @@
       "igdb_id": 213477,
       "game_name": "Lust Trip",
       "file": "missing/L/213477-lust-trip.json"
+    },
+    {
+      "igdb_id": 368107,
+      "game_name": "Luster",
+      "file": "missing/L/368107-luster.json"
     },
     {
       "igdb_id": 276826,
@@ -284716,6 +284911,11 @@
       "igdb_id": 345519,
       "game_name": "Metamorph",
       "file": "missing/M/345519-metamorph.json"
+    },
+    {
+      "igdb_id": 368137,
+      "game_name": "Metamorph",
+      "file": "missing/M/368137-metamorph.json"
     },
     {
       "igdb_id": 223165,
@@ -309393,6 +309593,11 @@
       "file": "missing/N/353995-neko-gelato.json"
     },
     {
+      "igdb_id": 368109,
+      "game_name": "Neko Girls",
+      "file": "missing/N/368109-neko-girls.json"
+    },
+    {
       "igdb_id": 223126,
       "game_name": "Neko Golf: Anime Golf",
       "file": "missing/N/223126-neko-golf-anime-golf.json"
@@ -320156,6 +320361,11 @@
       "igdb_id": 276184,
       "game_name": "Obscurum",
       "file": "missing/O/276184-obscurum.json"
+    },
+    {
+      "igdb_id": 368151,
+      "game_name": "Observance of Homeland",
+      "file": "missing/O/368151-observance-of-homeland.json"
     },
     {
       "igdb_id": 318639,
@@ -332636,6 +332846,11 @@
       "igdb_id": 130151,
       "game_name": "Panic Station VR",
       "file": "missing/P/130151-panic-station-vr.json"
+    },
+    {
+      "igdb_id": 368108,
+      "game_name": "Panic Timing",
+      "file": "missing/P/368108-panic-timing.json"
     },
     {
       "igdb_id": 209623,
@@ -351251,6 +351466,11 @@
       "igdb_id": 190206,
       "game_name": "Poor Lucas and the Evil Duke",
       "file": "missing/P/190206-poor-lucas-and-the-evil-duke.json"
+    },
+    {
+      "igdb_id": 368146,
+      "game_name": "Poor Piggy Pirate",
+      "file": "missing/P/368146-poor-piggy-pirate.json"
     },
     {
       "igdb_id": 377160,
@@ -426043,6 +426263,11 @@
       "file": "missing/S/142428-spellbound-spire.json"
     },
     {
+      "igdb_id": 368150,
+      "game_name": "Spellbound: Malachite Coven",
+      "file": "missing/S/368150-spellbound-malachite-coven.json"
+    },
+    {
       "igdb_id": 318020,
       "game_name": "Spellbound!",
       "file": "missing/S/318020-spellbound.json"
@@ -429046,6 +429271,11 @@
       "igdb_id": 316247,
       "game_name": "Sprout Valley: Nico's Skins",
       "file": "missing/S/316247-sprout-valley-nicos-skins.json"
+    },
+    {
+      "igdb_id": 368152,
+      "game_name": "SproutBound",
+      "file": "missing/S/368152-sproutbound.json"
     },
     {
       "igdb_id": 358932,
@@ -445906,6 +446136,11 @@
       "igdb_id": 324094,
       "game_name": "Super Mario Surf",
       "file": "missing/S/324094-super-mario-surf.json"
+    },
+    {
+      "igdb_id": 368158,
+      "game_name": "Super Mario Treasure World",
+      "file": "missing/S/368158-super-mario-treasure-world.json"
     },
     {
       "igdb_id": 305742,
@@ -468121,6 +468356,11 @@
       "igdb_id": 70379,
       "game_name": "The Day Nothing Happened",
       "file": "missing/T/70379-the-day-nothing-happened.json"
+    },
+    {
+      "igdb_id": 368154,
+      "game_name": "The Day of the Jellyfish",
+      "file": "missing/T/368154-the-day-of-the-jellyfish.json"
     },
     {
       "igdb_id": 224642,
@@ -511518,6 +511758,11 @@
       "file": "missing/T/298888-twilight-host-club.json"
     },
     {
+      "igdb_id": 368136,
+      "game_name": "Twilight Imperium Digital",
+      "file": "missing/T/368136-twilight-imperium-digital.json"
+    },
+    {
       "igdb_id": 408161,
       "game_name": "Twilight Infiniforest",
       "file": "missing/T/408161-twilight-infiniforest.json"
@@ -513126,6 +513371,11 @@
       "igdb_id": 65459,
       "game_name": "UFO2 Extraterrestrials: Shadows over Earth",
       "file": "missing/U/65459-ufo2-extraterrestrials-shadows-over-earth.json"
+    },
+    {
+      "igdb_id": 368145,
+      "game_name": "Ufophilia",
+      "file": "missing/U/368145-ufophilia.json"
     },
     {
       "igdb_id": 60513,
