@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Dawn of Sorrow | 336029 | [336029-castlevania-dawn-of-sorrow.json](./336029-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
 | Castlevania: Dracula X | 222418 | [222418-castlevania-dracula-x.json](./222418-castlevania-dracula-x.json) |
+| Castlevania: Eternity of Sorrow | 383624 | [383624-castlevania-eternity-of-sorrow.json](./383624-castlevania-eternity-of-sorrow.json) |
 | Castlevania: Grimoire of Souls | 96485 | [96485-castlevania-grimoire-of-souls.json](./96485-castlevania-grimoire-of-souls.json) |
 | Castlevania: Harmony of Dissonance | 1133 | [1133-castlevania-harmony-of-dissonance.json](./1133-castlevania-harmony-of-dissonance.json) |
 | Castlevania: Harmony of Dissonance | 222411 | [222411-castlevania-harmony-of-dissonance.json](./222411-castlevania-harmony-of-dissonance.json) |
@@ -2095,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Château Royale Jigsaw: Expansion Pack 3 | 357878 | [357878-chateau-royale-jigsaw-expansion-pack-3.json](./357878-chateau-royale-jigsaw-expansion-pack-3.json) |
 | ChatGladiators | 411104 | [411104-chatgladiators.json](./411104-chatgladiators.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
+| Chaturanga | 383617 | [383617-chaturanga.json](./383617-chaturanga.json) |
 | CHE: Guerrilla In Bolivia | 15874 | [15874-che-guerrilla-in-bolivia.json](./15874-che-guerrilla-in-bolivia.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
@@ -3280,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
 | Clash of Clans | 5589 | [5589-clash-of-clans.json](./5589-clash-of-clans.json) |
 | Clash of Coins | 135029 | [135029-clash-of-coins.json](./135029-clash-of-coins.json) |
+| Clash of Critters | 383642 | [383642-clash-of-critters.json](./383642-clash-of-critters.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
@@ -5172,6 +5175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costly Adventure | 247735 | [247735-costly-adventure.json](./247735-costly-adventure.json) |
 | Costrutto | 191266 | [191266-costrutto.json](./191266-costrutto.json) |
 | Costume Quest | 5637 | [5637-costume-quest.json](./5637-costume-quest.json) |
+| Cosy Cafe | 383648 | [383648-cosy-cafe.json](./383648-cosy-cafe.json) |
 | Cosy Company Puzzle | 346686 | [346686-cosy-company-puzzle.json](./346686-cosy-company-puzzle.json) |
 | Cotorro en Mano | 334712 | [334712-cotorro-en-mano.json](./334712-cotorro-en-mano.json) |
 | Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
@@ -6051,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Set Infinity | 74497 | [74497-cross-set-infinity.json](./74497-cross-set-infinity.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
 | Cross The Boundaries | 334182 | [334182-cross-the-boundaries.json](./334182-cross-the-boundaries.json) |
+| Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
 | Crossbars | 353963 | [353963-crossbars.json](./353963-crossbars.json) |
 | crossbeats REV. | 126033 | [126033-crossbeats-rev.json](./126033-crossbeats-rev.json) |
@@ -6551,6 +6556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
 | Cubesis | 36225 | [36225-cubesis.json](./36225-cubesis.json) |
+| Cubettiny | 383651 | [383651-cubettiny.json](./383651-cubettiny.json) |
 | CubeWorks | 61890 | [61890-cubeworks.json](./61890-cubeworks.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
