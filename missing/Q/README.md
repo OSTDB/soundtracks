@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum of Hope | 352846 | [352846-quantum-of-hope.json](./352846-quantum-of-hope.json) |
 | Quantum Phantom Basketball | 252766 | [252766-quantum-phantom-basketball.json](./252766-quantum-phantom-basketball.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
+| Quantum Quartz | 378423 | [378423-quantum-quartz.json](./378423-quantum-quartz.json) |
 | Quantum Runners | 151006 | [151006-quantum-runners.json](./151006-quantum-runners.json) |
 | Quantum Rush Champions | 17726 | [17726-quantum-rush-champions.json](./17726-quantum-rush-champions.json) |
 | Quantum Rush Champions: Jump Start Tournament | 172121 | [172121-quantum-rush-champions-jump-start-tournament.json](./172121-quantum-rush-champions-jump-start-tournament.json) |
