@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the City | 170910 | [170910-escape-the-city.json](./170910-escape-the-city.json) |
 | Escape the Dark Tower | 260233 | [260233-escape-the-dark-tower.json](./260233-escape-the-dark-tower.json) |
 | Escape the Darkness | 95166 | [95166-escape-the-darkness.json](./95166-escape-the-darkness.json) |
+| Escape the Dynasty | 389719 | [389719-escape-the-dynasty.json](./389719-escape-the-dynasty.json) |
 | Escape The Escape Rooms | 237066 | [237066-escape-the-escape-rooms.json](./237066-escape-the-escape-rooms.json) |
 | Escape The Evil | 297093 | [297093-escape-the-evil.json](./297093-escape-the-evil.json) |
 | Escape the Farm | 274486 | [274486-escape-the-farm.json](./274486-escape-the-farm.json) |
