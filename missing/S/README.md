@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safecracker | 24002 | [24002-safecracker.json](./24002-safecracker.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
 | Safecracker: The Ultimate Puzzle Adventure | 5135 | [5135-safecracker-the-ultimate-puzzle-adventure.json](./5135-safecracker-the-ultimate-puzzle-adventure.json) |
+| Safeguard | 383034 | [383034-safeguard.json](./383034-safeguard.json) |
 | Safelight | 302926 | [302926-safelight.json](./302926-safelight.json) |
 | Safety Driving - The Motorbike Simulation | 54351 | [54351-safety-driving-the-motorbike-simulation.json](./54351-safety-driving-the-motorbike-simulation.json) |
 | Safety Driving Simulator: Car | 33311 | [33311-safety-driving-simulator-car.json](./33311-safety-driving-simulator-car.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satellina | 128557 | [128557-satellina.json](./128557-satellina.json) |
 | Satellite Attack | 41571 | [41571-satellite-attack.json](./41571-satellite-attack.json) |
 | Satellite Command | 31778 | [31778-satellite-command.json](./31778-satellite-command.json) |
+| Satellite Odyssey: Jupiter | 383033 | [383033-satellite-odyssey-jupiter.json](./383033-satellite-odyssey-jupiter.json) |
 | Satellite Repairman | 30015 | [30015-satellite-repairman.json](./30015-satellite-repairman.json) |
 | Satellites | 78342 | [78342-satellites.json](./78342-satellites.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
@@ -1565,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Puberty | 176923 | [176923-second-puberty.json](./176923-second-puberty.json) |
 | Second Saga | 392251 | [392251-second-saga.json](./392251-second-saga.json) |
 | Second Second | 110776 | [110776-second-second.json](./110776-second-second.json) |
+| Second Sight Dilemma | 383073 | [383073-second-sight-dilemma.json](./383073-second-sight-dilemma.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
 | Second Stone | 216314 | [216314-second-stone.json](./216314-second-stone.json) |
 | Second Story | 59688 | [59688-second-story.json](./59688-second-story.json) |
@@ -3188,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
 | Shockwave Assault | 18705 | [18705-shockwave-assault.json](./18705-shockwave-assault.json) |
+| Shockwave Tetris | 383036 | [383036-shockwave-tetris.json](./383036-shockwave-tetris.json) |
 | Shockway Rider | 28824 | [28824-shockway-rider.json](./28824-shockway-rider.json) |
 | Shodan Morita Shogi | 38372 | [38372-shodan-morita-shogi.json](./38372-shodan-morita-shogi.json) |
 | Shodankurai Nintei: Shodan Pro Mahjong | 38368 | [38368-shodankurai-nintei-shodan-pro-mahjong.json](./38368-shodankurai-nintei-shodan-pro-mahjong.json) |
@@ -4609,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashy Hero | 31357 | [31357-slashy-hero.json](./31357-slashy-hero.json) |
 | Slashy Knight | 105925 | [105925-slashy-knight.json](./105925-slashy-knight.json) |
 | Slashy Souls | 18107 | [18107-slashy-souls.json](./18107-slashy-souls.json) |
+| Slaughter | 383031 | [383031-slaughter.json](./383031-slaughter.json) |
 | Slaughter Bots | 216887 | [216887-slaughter-bots.json](./216887-slaughter-bots.json) |
 | Slaughter Cannon 2 | 200566 | [200566-slaughter-cannon-2.json](./200566-slaughter-cannon-2.json) |
 | Slaughter Cats | 235354 | [235354-slaughter-cats.json](./235354-slaughter-cats.json) |
@@ -6037,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Conquest | 119346 | [119346-songs-of-conquest.json](./119346-songs-of-conquest.json) |
 | Songs of Conquest: Rise Eternal | 302920 | [302920-songs-of-conquest-rise-eternal.json](./302920-songs-of-conquest-rise-eternal.json) |
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
+| Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
 | Songs of the Chalice | 224668 | [224668-songs-of-the-chalice.json](./224668-songs-of-the-chalice.json) |
@@ -7354,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearfishing | 51191 | [51191-spearfishing.json](./51191-spearfishing.json) |
 | SpearHeads | 248722 | [248722-spearheads.json](./248722-spearheads.json) |
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
+| Spearrowblade | 383057 | [383057-spearrowblade.json](./383057-spearrowblade.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Spec | 304575 | [304575-spec.json](./304575-spec.json) |
 | Spec Ops II: Operation Bravo | 80887 | [80887-spec-ops-ii-operation-bravo.json](./80887-spec-ops-ii-operation-bravo.json) |
@@ -7584,6 +7591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellsword | 259262 | [259262-spellsword.json](./259262-spellsword.json) |
 | Spellsword Cards: Origins | 118104 | [118104-spellsword-cards-origins.json](./118104-spellsword-cards-origins.json) |
 | Spellsworn | 26573 | [26573-spellsworn.json](./26573-spellsworn.json) |
+| Spelltooth | 383063 | [383063-spelltooth.json](./383063-spelltooth.json) |
 | SpellTower+ | 136455 | [136455-spelltower.json](./136455-spelltower.json) |
 | SpellUp | 233102 | [233102-spellup.json](./233102-spellup.json) |
 | Spellweaver | 18010 | [18010-spellweaver.json](./18010-spellweaver.json) |
