@@ -1394,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostly Matter | 89650 | [89650-ghostly-matter.json](./89650-ghostly-matter.json) |
 | Ghostly Moans | 211252 | [211252-ghostly-moans.json](./211252-ghostly-moans.json) |
 | Ghostly Simulator: Your Neighboring Ghost Story Collection | 407411 | [407411-ghostly-simulator-your-neighboring-ghost-story-collection.json](./407411-ghostly-simulator-your-neighboring-ghost-story-collection.json) |
+| Ghostmuncher Uniwars | 384779 | [384779-ghostmuncher-uniwars.json](./384779-ghostmuncher-uniwars.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | Ghostrunner II | 250617 | [250617-ghostrunner-ii.json](./250617-ghostrunner-ii.json) |
 | Ghostrunner II: Anniversary Pack | 371319 | [371319-ghostrunner-ii-anniversary-pack.json](./371319-ghostrunner-ii-anniversary-pack.json) |
@@ -2505,10 +2506,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorogoa | 9136 | [9136-gorogoa.json](./9136-gorogoa.json) |
 | Goronyan Puzzle: Nyanpi | 243267 | [243267-goronyan-puzzle-nyanpi.json](./243267-goronyan-puzzle-nyanpi.json) |
 | Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
+| Goryuujin Electro | 384780 | [384780-goryuujin-electro.json](./384780-goryuujin-electro.json) |
 | Gosen-sou | 221413 | [221413-gosen-sou.json](./221413-gosen-sou.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
 | Gospel of Eve | 225268 | [225268-gospel-of-eve.json](./225268-gospel-of-eve.json) |
 | Gossamer Matrix | 211722 | [211722-gossamer-matrix.json](./211722-gossamer-matrix.json) |
+| Gossip | 384758 | [384758-gossip.json](./384758-gossip.json) |
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
