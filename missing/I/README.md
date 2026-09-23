@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice! | 370207 | [370207-ice.json](./370207-ice.json) |
 | Iceblox | 94254 | [94254-iceblox.json](./94254-iceblox.json) |
 | Icebound | 298181 | [298181-icebound.json](./298181-icebound.json) |
+| Icebound Secrets: Soul Hunter | 385876 | [385876-icebound-secrets-soul-hunter.json](./385876-icebound-secrets-soul-hunter.json) |
 | Icebound Secrets: The Frostwood Bane | 378812 | [378812-icebound-secrets-the-frostwood-bane.json](./378812-icebound-secrets-the-frostwood-bane.json) |
 | Icebox | 22355 | [22355-icebox.json](./22355-icebox.json) |
 | Icebreaker 2 | 37121 | [37121-icebreaker-2.json](./37121-icebreaker-2.json) |
@@ -901,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
 | Immune Attack | 366828 | [366828-immune-attack.json](./366828-immune-attack.json) |
 | Immune Simulator | 264057 | [264057-immune-simulator.json](./264057-immune-simulator.json) |
+| Immunica | 385872 | [385872-immunica.json](./385872-immunica.json) |
 | Immunity Protocol | 401625 | [401625-immunity-protocol.json](./401625-immunity-protocol.json) |
 | Immure | 107517 | [107517-immure.json](./107517-immure.json) |
 | Immure: Part Two | 167302 | [167302-immure-part-two.json](./167302-immure-part-two.json) |
@@ -2291,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISO/2004 | 402492 | [402492-iso-2004.json](./402492-iso-2004.json) |
 | Isoball | 243779 | [243779-isoball.json](./243779-isoball.json) |
 | IsoBoom | 55504 | [55504-isoboom.json](./55504-isoboom.json) |
+| Isoge! Doraemon | 385850 | [385850-isoge-doraemon.json](./385850-isoge-doraemon.json) |
 | Isoland | 57337 | [57337-isoland.json](./57337-isoland.json) |
 | Isoland: Pumpkin Town | 319215 | [319215-isoland-pumpkin-town.json](./319215-isoland-pumpkin-town.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
