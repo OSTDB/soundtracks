@@ -2307,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Empire | 361316 | [361316-chess-empire.json](./361316-chess-empire.json) |
+| Chess Force | 338917 | [338917-chess-force.json](./338917-chess-force.json) |
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
 | Chess Knights: Viking Lands | 135662 | [135662-chess-knights-viking-lands.json](./135662-chess-knights-viking-lands.json) |
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
@@ -3992,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CogVR | 29827 | [29827-cogvr.json](./29827-cogvr.json) |
 | Cohabitation | 217877 | [217877-cohabitation.json](./217877-cohabitation.json) |
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
+| Coil's Containment | 338916 | [338916-coils-containment.json](./338916-coils-containment.json) |
 | Coin | 314310 | [314310-coin.json](./314310-coin.json) |
 | Coin & Cauldron | 391618 | [391618-coin-and-cauldron.json](./391618-coin-and-cauldron.json) |
 | Coin Collection Challenge | 379904 | [379904-coin-collection-challenge.json](./379904-coin-collection-challenge.json) |
@@ -4086,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collect Call | 288764 | [288764-collect-call.json](./288764-collect-call.json) |
 | Collectamon | 262949 | [262949-collectamon.json](./262949-collectamon.json) |
 | Collectems | 61053 | [61053-collectems.json](./61053-collectems.json) |
+| Collectible Cars Shop Simulator | 338929 | [338929-collectible-cars-shop-simulator.json](./338929-collectible-cars-shop-simulator.json) |
 | Collection of Mana | 27916 | [27916-collection-of-mana.json](./27916-collection-of-mana.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collective Unconscious | 301431 | [301431-collective-unconscious.json](./301431-collective-unconscious.json) |
