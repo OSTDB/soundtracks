@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Stranded Spark | 304676 | [304676-a-stranded-spark.json](./304676-a-stranded-spark.json) |
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
+| A Super Mario Bros X. Level Collection | 346780 | [346780-a-super-mario-bros-x-level-collection.json](./346780-a-super-mario-bros-x-level-collection.json) |
 | A Tale About Flowers | 188501 | [188501-a-tale-about-flowers.json](./188501-a-tale-about-flowers.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
 | A Tale for Anna | 151043 | [151043-a-tale-for-anna.json](./151043-a-tale-for-anna.json) |
@@ -1357,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Jet Fighter Combat: Europe Fly Plane Attack | 234624 | [234624-air-jet-fighter-combat-europe-fly-plane-attack.json](./234624-air-jet-fighter-combat-europe-fly-plane-attack.json) |
 | Air Land Sea | 79610 | [79610-air-land-sea.json](./79610-air-land-sea.json) |
 | Air Legends | 77273 | [77273-air-legends.json](./77273-air-legends.json) |
+| Air Master Hanemaru | 346747 | [346747-air-master-hanemaru.json](./346747-air-master-hanemaru.json) |
 | Air Offense Command | 258449 | [258449-air-offense-command.json](./258449-air-offense-command.json) |
 | Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
 | Air Port Panic | 300008 | [300008-air-port-panic.json](./300008-air-port-panic.json) |
@@ -3481,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anty | 47546 | [47546-anty.json](./47546-anty.json) |
 | Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
+| Anura | 347364 | [347364-anura.json](./347364-anura.json) |
 | Anuto TD | 207846 | [207846-anuto-td.json](./207846-anuto-td.json) |
 | Anvil | 226234 | [226234-anvil.json](./226234-anvil.json) |
 | Anvil Empires | 243273 | [243273-anvil-empires.json](./243273-anvil-empires.json) |
