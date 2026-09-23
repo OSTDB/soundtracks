@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur | 3967 | [3967-king-arthur.json](./3967-king-arthur.json) |
 | King Arthur II: Dead Legions | 53239 | [53239-king-arthur-ii-dead-legions.json](./53239-king-arthur-ii-dead-legions.json) |
 | King Arthur II: The Role-Playing Wargame | 7586 | [7586-king-arthur-ii-the-role-playing-wargame.json](./7586-king-arthur-ii-the-role-playing-wargame.json) |
+| King Arthur Is Dead | 385299 | [385299-king-arthur-is-dead.json](./385299-king-arthur-is-dead.json) |
 | King Arthur: Fallen Champions | 10484 | [10484-king-arthur-fallen-champions.json](./10484-king-arthur-fallen-champions.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
@@ -1187,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Of Peace | 295775 | [295775-kingdom-of-peace.json](./295775-kingdom-of-peace.json) |
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
 | Kingdom of the Untitled Magic | 154033 | [154033-kingdom-of-the-untitled-magic.json](./154033-kingdom-of-the-untitled-magic.json) |
+| Kingdom of Velvet Сhains | 385315 | [385315-kingdom-of-velvet-hains.json](./385315-kingdom-of-velvet-hains.json) |
 | Kingdom Rules | 412390 | [412390-kingdom-rules.json](./412390-kingdom-rules.json) |
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
 | Kingdom Rush | 6005 | [6005-kingdom-rush.json](./6005-kingdom-rush.json) |
