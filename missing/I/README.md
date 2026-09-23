@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Fetch Rocks | 153351 | [153351-i-fetch-rocks.json](./153351-i-fetch-rocks.json) |
 | I Fought the Lawn | 223478 | [223478-i-fought-the-lawn.json](./223478-i-fought-the-lawn.json) |
 | I Found a Cat in the Rain | 383659 | [383659-i-found-a-cat-in-the-rain.json](./383659-i-found-a-cat-in-the-rain.json) |
+| I Found Myself in a Strange House and I'm Scared | 368640 | [368640-i-found-myself-in-a-strange-house-and-im-scared.json](./368640-i-found-myself-in-a-strange-house-and-im-scared.json) |
 | I got a cat maid | 128013 | [128013-i-got-a-cat-maid.json](./128013-i-got-a-cat-maid.json) |
 | I Got a Millenary Cat | 197401 | [197401-i-got-a-millenary-cat.json](./197401-i-got-a-millenary-cat.json) |
 | I H8 Ur Face | 197910 | [197910-i-h8-ur-face.json](./197910-i-h8-ur-face.json) |
@@ -608,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle RPG: The Game is Bugged! | 292135 | [292135-idle-rpg-the-game-is-bugged.json](./292135-idle-rpg-the-game-is-bugged.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idle School Simulator | 299903 | [299903-idle-school-simulator.json](./299903-idle-school-simulator.json) |
+| Idle ShowOff | 368683 | [368683-idle-showoff.json](./368683-idle-showoff.json) |
 | Idle Siege: Army Tycoon Game | 246982 | [246982-idle-siege-army-tycoon-game.json](./246982-idle-siege-army-tycoon-game.json) |
 | Idle Skilling | 144767 | [144767-idle-skilling.json](./144767-idle-skilling.json) |
 | Idle Slayer | 139040 | [139040-idle-slayer.json](./139040-idle-slayer.json) |
