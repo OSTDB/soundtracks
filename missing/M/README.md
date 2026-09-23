@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapleStory Mayple Island | 299749 | [299749-maplestory-mayple-island.json](./299749-maplestory-mayple-island.json) |
 | MapleStory N | 343326 | [343326-maplestory-n.json](./343326-maplestory-n.json) |
 | Maplestory Odyssey | 226758 | [226758-maplestory-odyssey.json](./226758-maplestory-odyssey.json) |
+| MapleStory: Idle RPG | 376742 | [376742-maplestory-idle-rpg.json](./376742-maplestory-idle-rpg.json) |
 | MapleStory: Unmei no Shoujo | 130368 | [130368-maplestory-unmei-no-shoujo.json](./130368-maplestory-unmei-no-shoujo.json) |
 | Maplewood Junior High 2 | 310956 | [310956-maplewood-junior-high-2.json](./310956-maplewood-junior-high-2.json) |
 | Maplewood Junior High: Multimedia Rocks | 310953 | [310953-maplewood-junior-high-multimedia-rocks.json](./310953-maplewood-junior-high-multimedia-rocks.json) |
@@ -2533,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Her There | 263786 | [263786-meet-her-there.json](./263786-meet-her-there.json) |
 | Meet Me at the Apple Garden | 374608 | [374608-meet-me-at-the-apple-garden.json](./374608-meet-me-at-the-apple-garden.json) |
 | Meet Media Band | 209533 | [209533-meet-media-band.json](./209533-meet-media-band.json) |
+| Meet My Stepmoms | 376748 | [376748-meet-my-stepmoms.json](./376748-meet-my-stepmoms.json) |
 | Meet My Teacher | 289873 | [289873-meet-my-teacher.json](./289873-meet-my-teacher.json) |
 | Meet Santa | 175300 | [175300-meet-santa.json](./175300-meet-santa.json) |
 | Meet Santa | 326969 | [326969-meet-santa.json](./326969-meet-santa.json) |
@@ -5334,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
 | Monster Hospital - Kids Game | 90368 | [90368-monster-hospital-kids-game.json](./90368-monster-hospital-kids-game.json) |
 | Monster House | 112156 | [112156-monster-house.json](./112156-monster-house.json) |
+| Monster House Racing | 376708 | [376708-monster-house-racing.json](./376708-monster-house-racing.json) |
 | Monster Hunt | 79235 | [79235-monster-hunt.json](./79235-monster-hunt.json) |
 | Monster Hunter 2 | 43668 | [43668-monster-hunter-2.json](./43668-monster-hunter-2.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
