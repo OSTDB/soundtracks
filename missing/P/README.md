@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitfalls 64 | 411707 | [411707-pitfalls-64.json](./411707-pitfalls-64.json) |
 | Pithorox Gear | 145022 | [145022-pithorox-gear.json](./145022-pithorox-gear.json) |
 | PitterPot | 110811 | [110811-pitterpot.json](./110811-pitterpot.json) |
+| Pitty Meaty | 368657 | [368657-pitty-meaty.json](./368657-pitty-meaty.json) |
 | Pity Pit | 132769 | [132769-pity-pit.json](./132769-pity-pit.json) |
 | Pity This Busy Monster | 345587 | [345587-pity-this-busy-monster.json](./345587-pity-this-busy-monster.json) |
 | Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
@@ -4487,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powder VR | 116864 | [116864-powder-vr.json](./116864-powder-vr.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
 | Power | 164447 | [164447-power.json](./164447-power.json) |
+| Power | 368681 | [368681-power.json](./368681-power.json) |
 | Power (of) Metal | 199599 | [199599-power-of-metal.json](./199599-power-of-metal.json) |
 | Power & Revolution: 2021 Edition | 162429 | [162429-power-and-revolution-2021-edition.json](./162429-power-and-revolution-2021-edition.json) |
 | Power & Revolution: Geo-Political Simulator 4 | 53469 | [53469-power-and-revolution-geo-political-simulator-4.json](./53469-power-and-revolution-geo-political-simulator-4.json) |
