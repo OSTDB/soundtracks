@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khottabych | 251019 | [251019-khottabych.json](./251019-khottabych.json) |
 | Khufu-ou no Himitsu | 181781 | [181781-khufu-ou-no-himitsu.json](./181781-khufu-ou-no-himitsu.json) |
 | Khuga Bash! | 276196 | [276196-khuga-bash.json](./276196-khuga-bash.json) |
+| Khuga Rumble Arena | 340562 | [340562-khuga-rumble-arena.json](./340562-khuga-rumble-arena.json) |
 | Khumba: The Game | 61116 | [61116-khumba-the-game.json](./61116-khumba-the-game.json) |
 | Ki_swpr | 184586 | [184586-ki-swpr.json](./184586-ki-swpr.json) |
 | Ki(n)ds | 27902 | [27902-ki-n-ds.json](./27902-ki-n-ds.json) |
@@ -1778,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
 | Kofoin: Swarm Defense | 374821 | [374821-kofoin-swarm-defense.json](./374821-kofoin-swarm-defense.json) |
+| Koh-Lanta: Survie Dans La Jungle! | 340586 | [340586-koh-lanta-survie-dans-la-jungle.json](./340586-koh-lanta-survie-dans-la-jungle.json) |
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Kohshien 4 | 37951 | [37951-kohshien-4.json](./37951-kohshien-4.json) |
