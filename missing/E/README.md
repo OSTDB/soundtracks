@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Power Soccer | 247043 | [247043-extreme-power-soccer.json](./247043-extreme-power-soccer.json) |
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
 | Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
+| Extreme Reaction | 368148 | [368148-extreme-reaction.json](./368148-extreme-reaction.json) |
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
 | Extreme Riverboat Racing | 146733 | [146733-extreme-riverboat-racing.json](./146733-extreme-riverboat-racing.json) |
 | Extreme Roads USA | 16962 | [16962-extreme-roads-usa.json](./16962-extreme-roads-usa.json) |
