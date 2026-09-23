@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oda-hen | 292161 | [292161-oda-hen.json](./292161-oda-hen.json) |
 | Odd Adventure of Chub, Color, 23 and You | 169973 | [169973-odd-adventure-of-chub-color-23-and-you.json](./169973-odd-adventure-of-chub-color-23-and-you.json) |
 | Odd Ball | 60588 | [60588-odd-ball.json](./60588-odd-ball.json) |
+| Odd Dorable | 341674 | [341674-odd-dorable.json](./341674-odd-dorable.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
 | Odd One Out | 380129 | [380129-odd-one-out.json](./380129-odd-one-out.json) |
@@ -1338,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
 | Oppai Muse | 203383 | [203383-oppai-muse.json](./203383-oppai-muse.json) |
+| Oppai Oppai Orbs | 341683 | [341683-oppai-oppai-orbs.json](./341683-oppai-oppai-orbs.json) |
 | Oppai Puzzle L | 209481 | [209481-oppai-puzzle-l.json](./209481-oppai-puzzle-l.json) |
 | Oppaidius Desert Island! | 149435 | [149435-oppaidius-desert-island.json](./149435-oppaidius-desert-island.json) |
 | Oppaidius Summer Trouble! | 75040 | [75040-oppaidius-summer-trouble.json](./75040-oppaidius-summer-trouble.json) |
