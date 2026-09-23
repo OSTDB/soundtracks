@@ -3636,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnight: Elite Commando Action 2 | 103396 | [103396-fortnight-elite-commando-action-2.json](./103396-fortnight-elite-commando-action-2.json) |
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
 | Fortnite Festival: Better Off Alone | 372011 | [372011-fortnite-festival-better-off-alone.json](./372011-fortnite-festival-better-off-alone.json) |
+| Fortnite Festival: Beyond the Flame | 377256 | [377256-fortnite-festival-beyond-the-flame.json](./377256-fortnite-festival-beyond-the-flame.json) |
 | Fortnite Festival: Born This Way | 372008 | [372008-fortnite-festival-born-this-way.json](./372008-fortnite-festival-born-this-way.json) |
 | Fortnite Festival: Radioactive | 372009 | [372009-fortnite-festival-radioactive.json](./372009-fortnite-festival-radioactive.json) |
 | Fortnite Festival: Season 1 | 383943 | [383943-fortnite-festival-season-1.json](./383943-fortnite-festival-season-1.json) |
