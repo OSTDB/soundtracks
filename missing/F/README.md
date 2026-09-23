@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Week: Junior Stylist | 79893 | [79893-fashion-week-junior-stylist.json](./79893-fashion-week-junior-stylist.json) |
 | Fashion World: Premium Edition | 308804 | [308804-fashion-world-premium-edition.json](./308804-fashion-world-premium-edition.json) |
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
+| Fast & Blast | 368687 | [368687-fast-and-blast.json](./368687-fast-and-blast.json) |
 | Fast & Fractured | 390642 | [390642-fast-and-fractured.json](./390642-fast-and-fractured.json) |
 | Fast & Furious: Legacy | 383491 | [383491-fast-and-furious-legacy.json](./383491-fast-and-furious-legacy.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
@@ -1344,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom First Timers | 392445 | [392445-femdom-first-timers.json](./392445-femdom-first-timers.json) |
 | Femdom Hero | 382480 | [382480-femdom-hero.json](./382480-femdom-hero.json) |
 | Femdom Overtime | 400901 | [400901-femdom-overtime.json](./400901-femdom-overtime.json) |
+| Femdom Waifu VR | 368641 | [368641-femdom-waifu-vr.json](./368641-femdom-waifu-vr.json) |
 | FemDomination 2 | 286504 | [286504-femdomination-2.json](./286504-femdomination-2.json) |
 | Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
 | Femme Fatality | 406911 | [406911-femme-fatality.json](./406911-femme-fatality.json) |
@@ -1987,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Punch | 378802 | [378802-finger-punch.json](./378802-finger-punch.json) |
 | Finger Slayer | 341914 | [341914-finger-slayer.json](./341914-finger-slayer.json) |
 | Finger Tied Jr. | 197749 | [197749-finger-tied-jr.json](./197749-finger-tied-jr.json) |
+| Finger Trees | 368665 | [368665-finger-trees.json](./368665-finger-trees.json) |
 | Fingerball: Dodge The Balls | 416840 | [416840-fingerball-dodge-the-balls.json](./416840-fingerball-dodge-the-balls.json) |
 | Fingerbones | 13142 | [13142-fingerbones.json](./13142-fingerbones.json) |
 | Fingerbox | 401628 | [401628-fingerbox.json](./401628-fingerbox.json) |
@@ -2214,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
 | First Person Lover | 238606 | [238606-first-person-lover.json](./238606-first-person-lover.json) |
+| First Person Shooter | 368688 | [368688-first-person-shooter.json](./368688-first-person-shooter.json) |
 | First Person Shouter | 332978 | [332978-first-person-shouter.json](./332978-first-person-shouter.json) |
 | First Person Tennis - The Real Tennis Simulator | 33434 | [33434-first-person-tennis-the-real-tennis-simulator.json](./33434-first-person-tennis-the-real-tennis-simulator.json) |
 | First Queen | 302697 | [302697-first-queen.json](./302697-first-queen.json) |
@@ -3114,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
 | FlyKnight | 310121 | [310121-flyknight.json](./310121-flyknight.json) |
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
+| FlyManMissile | 368666 | [368666-flymanmissile.json](./368666-flymanmissile.json) |
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
 | Flyon RC | 406173 | [406173-flyon-rc.json](./406173-flyon-rc.json) |
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
