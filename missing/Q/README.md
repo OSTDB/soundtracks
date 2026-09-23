@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake 4 | 356 | [356-quake-4.json](./356-quake-4.json) |
 | Quake Arena Arcade | 20441 | [20441-quake-arena-arcade.json](./20441-quake-arena-arcade.json) |
 | Quake Brutalist Jam | 271195 | [271195-quake-brutalist-jam.json](./271195-quake-brutalist-jam.json) |
+| Quake Brutalist Jam III | 383621 | [383621-quake-brutalist-jam-iii.json](./383621-quake-brutalist-jam-iii.json) |
 | Quake Champions | 19530 | [19530-quake-champions.json](./19530-quake-champions.json) |
 | Quake Champions: Classic | 366933 | [366933-quake-champions-classic.json](./366933-quake-champions-classic.json) |
 | Quake II | 261085 | [261085-quake-ii.json](./261085-quake-ii.json) |
