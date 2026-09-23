@@ -1504,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaBash: Final Ascension DLC | 404835 | [404835-gigabash-final-ascension-dlc.json](./404835-gigabash-final-ascension-dlc.json) |
 | GigaBash: GAMERA -Rebirth- DLC | 404834 | [404834-gigabash-gamera-rebirth-dlc.json](./404834-gigabash-gamera-rebirth-dlc.json) |
 | GigaBash: Godzilla - Nemesis DLC | 301437 | [301437-gigabash-godzilla-nemesis-dlc.json](./301437-gigabash-godzilla-nemesis-dlc.json) |
+| GigaBash: MechaJuras | 347860 | [347860-gigabash-mechajuras.json](./347860-gigabash-mechajuras.json) |
 | GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
 | GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
 | Gigablast | 66603 | [66603-gigablast.json](./66603-gigablast.json) |
@@ -3548,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Middle-earth | 7892 | [7892-guardians-of-middle-earth.json](./7892-guardians-of-middle-earth.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
+| Guardians of the Wild Sky | 347896 | [347896-guardians-of-the-wild-sky.json](./347896-guardians-of-the-wild-sky.json) |
 | Guardians of Victoria | 34882 | [34882-guardians-of-victoria.json](./34882-guardians-of-victoria.json) |
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
