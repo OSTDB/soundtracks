@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LastStanding | 413750 | [413750-laststanding.json](./413750-laststanding.json) |
 | Lataman | 188495 | [188495-lataman.json](./188495-lataman.json) |
 | Late Bird | 187406 | [187406-late-bird.json](./187406-late-bird.json) |
+| Late Emergency | 365269 | [365269-late-emergency.json](./365269-late-emergency.json) |
 | Late Fee Girls | 366241 | [366241-late-fee-girls.json](./366241-late-fee-girls.json) |
 | Late For Class: Variety King | 191252 | [191252-late-for-class-variety-king.json](./191252-late-for-class-variety-king.json) |
 | Late for Love | 176517 | [176517-late-for-love.json](./176517-late-for-love.json) |
