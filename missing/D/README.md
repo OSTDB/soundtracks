@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5: Last Round - Character: Naotora Ii | 246409 | [246409-dead-or-alive-5-last-round-character-naotora-ii.json](./246409-dead-or-alive-5-last-round-character-naotora-ii.json) |
 | Dead or Alive 5: Last Round - Core Fighters Character: Honoka | 275144 | [275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json](./275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json) |
 | Dead or Alive 6: Energy Up! Training Wear Set | 225904 | [225904-dead-or-alive-6-energy-up-training-wear-set.json](./225904-dead-or-alive-6-energy-up-training-wear-set.json) |
+| Dead or Alive 6: Nyotengu | 341667 | [341667-dead-or-alive-6-nyotengu.json](./341667-dead-or-alive-6-nyotengu.json) |
 | Dead or Alive New Project | 389426 | [389426-dead-or-alive-new-project.json](./389426-dead-or-alive-new-project.json) |
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
 | Dead or Alive Xtreme 3: Fortune - VR Paradise | 26930 | [26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json](./26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json) |
@@ -2177,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
 | Demon Crisis | 415900 | [415900-demon-crisis.json](./415900-demon-crisis.json) |
 | Demon Crush | 303469 | [303469-demon-crush.json](./303469-demon-crush.json) |
+| Demon Demon | 341678 | [341678-demon-demon.json](./341678-demon-demon.json) |
 | Demon Driver | 47283 | [47283-demon-driver.json](./47283-demon-driver.json) |
 | Demon Dust | 327819 | [327819-demon-dust.json](./327819-demon-dust.json) |
 | Demon Eclipse | 141138 | [141138-demon-eclipse.json](./141138-demon-eclipse.json) |
@@ -4549,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 259942 | [259942-doom.json](./259942-doom.json) |
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom | 313161 | [313161-doom.json](./313161-doom.json) |
+| Doom | 341698 | [341698-doom.json](./341698-doom.json) |
 | Doom & Destiny | 13168 | [13168-doom-and-destiny.json](./13168-doom-and-destiny.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
 | Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
@@ -4756,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DotAge: Trade Secrets | 394372 | [394372-dotage-trade-secrets.json](./394372-dotage-trade-secrets.json) |
 | Dotchidabe | 385328 | [385328-dotchidabe.json](./385328-dotchidabe.json) |
 | DotDot | 253971 | [253971-dotdot.json](./253971-dotdot.json) |
+| Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
 | Dots and Boxes - Dino Fury Edition | 107117 | [107117-dots-and-boxes-dino-fury-edition.json](./107117-dots-and-boxes-dino-fury-edition.json) |
 | Dots and Dashes | 188674 | [188674-dots-and-dashes.json](./188674-dots-and-dashes.json) |
@@ -6305,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dealer | 179064 | [179064-dungeon-dealer.json](./179064-dungeon-dealer.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
 | Dungeon Defenders II: Heartwarming Bundle | 90701 | [90701-dungeon-defenders-ii-heartwarming-bundle.json](./90701-dungeon-defenders-ii-heartwarming-bundle.json) |
+| Dungeon Defenders Ultimate Collection | 341661 | [341661-dungeon-defenders-ultimate-collection.json](./341661-dungeon-defenders-ultimate-collection.json) |
 | Dungeon Defenders: Anniversary Pack | 164356 | [164356-dungeon-defenders-anniversary-pack.json](./164356-dungeon-defenders-anniversary-pack.json) |
 | Dungeon Defenders: Assault Mission Pack | 164351 | [164351-dungeon-defenders-assault-mission-pack.json](./164351-dungeon-defenders-assault-mission-pack.json) |
 | Dungeon Defenders: Barbarian Hero DLC | 164362 | [164362-dungeon-defenders-barbarian-hero-dlc.json](./164362-dungeon-defenders-barbarian-hero-dlc.json) |
