@@ -1927,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matching App de Shiriatta Otoko wo Shinyou shite ha Ikemasen. | 341026 | [341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json](./341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json) |
 | Matching Blocks | 288362 | [288362-matching-blocks.json](./288362-matching-blocks.json) |
 | Matching With Friends | 64889 | [64889-matching-with-friends.json](./64889-matching-with-friends.json) |
+| Matchmaker Simulator | 390790 | [390790-matchmaker-simulator.json](./390790-matchmaker-simulator.json) |
 | Matchmaker: Dungeon Heart | 263783 | [263783-matchmaker-dungeon-heart.json](./263783-matchmaker-dungeon-heart.json) |
 | Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
 | Matchmension: House of Mist | 197915 | [197915-matchmension-house-of-mist.json](./197915-matchmension-house-of-mist.json) |
@@ -2936,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Color! | 252145 | [252145-memory-color.json](./252145-memory-color.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Days | 196255 | [196255-memory-days.json](./196255-memory-days.json) |
+| Memory Draw | 390814 | [390814-memory-draw.json](./390814-memory-draw.json) |
 | Memory Eater | 123595 | [123595-memory-eater.json](./123595-memory-eater.json) |
 | Memory Fragment | 263501 | [263501-memory-fragment.json](./263501-memory-fragment.json) |
 | Memory games for kids 4+ | 88831 | [88831-memory-games-for-kids-4.json](./88831-memory-games-for-kids-4.json) |
