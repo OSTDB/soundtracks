@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Hazel Easter Fun | 89710 | [89710-baby-hazel-easter-fun.json](./89710-baby-hazel-easter-fun.json) |
 | Baby Kaizo World | 145478 | [145478-baby-kaizo-world.json](./145478-baby-kaizo-world.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
+| Baby Kings | 373753 | [373753-baby-kings.json](./373753-baby-kings.json) |
 | Baby Life | 91752 | [91752-baby-life.json](./91752-baby-life.json) |
 | Baby Lite A Line | 100171 | [100171-baby-lite-a-line.json](./100171-baby-lite-a-line.json) |
 | Baby Mario's A-Maze-ing Game | 341043 | [341043-baby-marios-a-maze-ing-game.json](./341043-baby-marios-a-maze-ing-game.json) |
@@ -3930,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodmoon Church | 144129 | [144129-bloodmoon-church.json](./144129-bloodmoon-church.json) |
 | BloodPact | 60218 | [60218-bloodpact.json](./60218-bloodpact.json) |
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
+| Bloodplague Lockdown | 373721 | [373721-bloodplague-lockdown.json](./373721-bloodplague-lockdown.json) |
 | BloodRayne 2 | 1016 | [1016-bloodrayne-2.json](./1016-bloodrayne-2.json) |
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
 | BloodRayne: Terminal Cut | 140689 | [140689-bloodrayne-terminal-cut.json](./140689-bloodrayne-terminal-cut.json) |
@@ -3951,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodstroke | 62226 | [62226-bloodstroke.json](./62226-bloodstroke.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
 | Bloodthirsty Kingdom: Vampire War | 181308 | [181308-bloodthirsty-kingdom-vampire-war.json](./181308-bloodthirsty-kingdom-vampire-war.json) |
+| Bloodthirsty Sword | 373723 | [373723-bloodthirsty-sword.json](./373723-bloodthirsty-sword.json) |
 | BloodTrail | 113465 | [113465-bloodtrail.json](./113465-bloodtrail.json) |
 | BloodWarrior | 47982 | [47982-bloodwarrior.json](./47982-bloodwarrior.json) |
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
@@ -4180,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Morane: Jungle 1 | 55095 | [55095-bob-morane-jungle-1.json](./55095-bob-morane-jungle-1.json) |
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
 | Bob Ross: The Joy of Painting | 205647 | [205647-bob-ross-the-joy-of-painting.json](./205647-bob-ross-the-joy-of-painting.json) |
+| Bob Saves the Princess | 373726 | [373726-bob-saves-the-princess.json](./373726-bob-saves-the-princess.json) |
 | Bob the Block: Rebooted | 296499 | [296499-bob-the-block-rebooted.json](./296499-bob-the-block-rebooted.json) |
 | Bob the Builder | 83246 | [83246-bob-the-builder.json](./83246-bob-the-builder.json) |
 | Bob the Builder: Bob Builds A Park | 72055 | [72055-bob-the-builder-bob-builds-a-park.json](./72055-bob-the-builder-bob-builds-a-park.json) |
@@ -5816,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
+| Bug Bunny: Discontroll | 373729 | [373729-bug-bunny-discontroll.json](./373729-bug-bunny-discontroll.json) |
 | Bug Catcher | 287651 | [287651-bug-catcher.json](./287651-bug-catcher.json) |
 | Bug Cleaners | 336030 | [336030-bug-cleaners.json](./336030-bug-cleaners.json) |
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
