@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Force | 6139 | [6139-mega-force.json](./6139-mega-force.json) |
 | Mega Game Room 2 | 209531 | [209531-mega-game-room-2.json](./209531-mega-game-room-2.json) |
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
+| Mega Knockdown: Supporter Colors | 340560 | [340560-mega-knockdown-supporter-colors.json](./340560-mega-knockdown-supporter-colors.json) |
 | Mega Mall Story 2 | 146725 | [146725-mega-mall-story-2.json](./146725-mega-mall-story-2.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
@@ -4629,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Copper | 224545 | [224545-mining-copper.json](./224545-mining-copper.json) |
 | Mining Factory | 226197 | [226197-mining-factory.json](./226197-mining-factory.json) |
 | Mining Industry | 36239 | [36239-mining-industry.json](./36239-mining-industry.json) |
+| Mining Mechs: Camel Chaos | 340578 | [340578-mining-mechs-camel-chaos.json](./340578-mining-mechs-camel-chaos.json) |
 | Mining Mechs: Magnetic Mystery | 278988 | [278988-mining-mechs-magnetic-mystery.json](./278988-mining-mechs-magnetic-mystery.json) |
 | Mining Merchant | 364518 | [364518-mining-merchant.json](./364518-mining-merchant.json) |
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
