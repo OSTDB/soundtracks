@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Soup of Mind | 382278 | [382278-a-soup-of-mind.json](./382278-a-soup-of-mind.json) |
 | A Space for the Unbound | 110039 | [110039-a-space-for-the-unbound.json](./110039-a-space-for-the-unbound.json) |
 | A Spider to A Fly | 280336 | [280336-a-spider-to-a-fly.json](./280336-a-spider-to-a-fly.json) |
+| A Spooky Item Game | 363043 | [363043-a-spooky-item-game.json](./363043-a-spooky-item-game.json) |
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
 | A Steamboat Willie | 282679 | [282679-a-steamboat-willie.json](./282679-a-steamboat-willie.json) |
 | A Step From Insanity | 260220 | [260220-a-step-from-insanity.json](./260220-a-step-from-insanity.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Frontier | 283875 | [283875-abyssal-frontier.json](./283875-abyssal-frontier.json) |
 | Abyssal Maw | 372125 | [372125-abyssal-maw.json](./372125-abyssal-maw.json) |
 | Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
+| Abyssdia | 363049 | [363049-abyssdia.json](./363049-abyssdia.json) |
 | Abyssfall: Seekers Within | 337706 | [337706-abyssfall-seekers-within.json](./337706-abyssfall-seekers-within.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
@@ -2769,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
 | Ancient Swarm | 410345 | [410345-ancient-swarm.json](./410345-ancient-swarm.json) |
+| Ancient TD | 363062 | [363062-ancient-td.json](./363062-ancient-td.json) |
 | Ancient Tribe | 84886 | [84886-ancient-tribe.json](./84886-ancient-tribe.json) |
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
 | Ancient Warlords: Aequilibrium | 102219 | [102219-ancient-warlords-aequilibrium.json](./102219-ancient-warlords-aequilibrium.json) |
@@ -4272,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
+| Argus | 363051 | [363051-argus.json](./363051-argus.json) |
 | Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
 | Ari In Wonderland: Episode 1 | 200646 | [200646-ari-in-wonderland-episode-1.json](./200646-ari-in-wonderland-episode-1.json) |
 | Aria | 192416 | [192416-aria.json](./192416-aria.json) |
@@ -4819,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
 | Asphalt Champions | 384188 | [384188-asphalt-champions.json](./384188-asphalt-champions.json) |
 | Asphalt Dominion | 402305 | [402305-asphalt-dominion.json](./402305-asphalt-dominion.json) |
+| Asphalt Legends Unite: Supercharged Edition | 363017 | [363017-asphalt-legends-unite-supercharged-edition.json](./363017-asphalt-legends-unite-supercharged-edition.json) |
 | Asphalt Legends Unite: Triple Decal Pack | 402354 | [402354-asphalt-legends-unite-triple-decal-pack.json](./402354-asphalt-legends-unite-triple-decal-pack.json) |
 | Asphalt Paver | 401106 | [401106-asphalt-paver.json](./401106-asphalt-paver.json) |
 | Asphalt Racing Bundle Speedway & Grand Prix | 389080 | [389080-asphalt-racing-bundle-speedway-and-grand-prix.json](./389080-asphalt-racing-bundle-speedway-and-grand-prix.json) |
@@ -5316,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Totori: The Adventurer of Arland | 7276 | [7276-atelier-totori-the-adventurer-of-arland.json](./7276-atelier-totori-the-adventurer-of-arland.json) |
 | Atelier Totori: The Adventurer of Arland DX | 105030 | [105030-atelier-totori-the-adventurer-of-arland-dx.json](./105030-atelier-totori-the-adventurer-of-arland-dx.json) |
 | Atelier Yumia: Fantasy Academy Costume Set | 356743 | [356743-atelier-yumia-fantasy-academy-costume-set.json](./356743-atelier-yumia-fantasy-academy-costume-set.json) |
+| Atelier Yumia: Idus Training Grounds | 363021 | [363021-atelier-yumia-idus-training-grounds.json](./363021-atelier-yumia-idus-training-grounds.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
 | Athamuff | 370303 | [370303-athamuff.json](./370303-athamuff.json) |
@@ -5340,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
+| Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
 | Atlantic Edge | 107935 | [107935-atlantic-edge.json](./107935-atlantic-edge.json) |
 | Atlantic Journey: The Lost Brother | 175797 | [175797-atlantic-journey-the-lost-brother.json](./175797-atlantic-journey-the-lost-brother.json) |
