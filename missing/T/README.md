@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag Royale | 166600 | [166600-tag-royale.json](./166600-tag-royale.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
 | Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
+| Tagalon | 362471 | [362471-tagalon.json](./362471-tagalon.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
 | Tagger Mascot | 244862 | [244862-tagger-mascot.json](./244862-tagger-mascot.json) |
 | Taghairm | 59685 | [59685-taghairm.json](./59685-taghairm.json) |
@@ -2471,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
 | The Body Cam Project | 320376 | [320376-the-body-cam-project.json](./320376-the-body-cam-project.json) |
 | The Body Monstrous | 176502 | [176502-the-body-monstrous.json](./176502-the-body-monstrous.json) |
+| The Body Transparent | 362430 | [362430-the-body-transparent.json](./362430-the-body-transparent.json) |
 | The Bog's Heart | 176963 | [176963-the-bogs-heart.json](./176963-the-bogs-heart.json) |
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Bogtavern | 236259 | [236259-the-bogtavern.json](./236259-the-bogtavern.json) |
@@ -5848,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
 | The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
+| The Secrets We Grow | 362483 | [362483-the-secrets-we-grow.json](./362483-the-secrets-we-grow.json) |
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
 | The SeethingSwarm Collection | 385848 | [385848-the-seethingswarm-collection.json](./385848-the-seethingswarm-collection.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
