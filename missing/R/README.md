@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
 | RailKing's Model Railroad Simulator | 80190 | [80190-railkings-model-railroad-simulator.json](./80190-railkings-model-railroad-simulator.json) |
 | Railroad Corporation | 112362 | [112362-railroad-corporation.json](./112362-railroad-corporation.json) |
+| Railroad Crossing Play | 389093 | [389093-railroad-crossing-play.json](./389093-railroad-crossing-play.json) |
 | Railroad Empire | 27693 | [27693-railroad-empire.json](./27693-railroad-empire.json) |
 | Railroad Empire | 394822 | [394822-railroad-empire.json](./394822-railroad-empire.json) |
 | Railroad Ink Challenge | 156127 | [156127-railroad-ink-challenge.json](./156127-railroad-ink-challenge.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
 | Revolution: Virtual Playspace | 34829 | [34829-revolution-virtual-playspace.json](./34829-revolution-virtual-playspace.json) |
+| Revolution's Eternal Debt | 389085 | [389085-revolutions-eternal-debt.json](./389085-revolutions-eternal-debt.json) |
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolver and Co | 152759 | [152759-revolver-and-co.json](./152759-revolver-and-co.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
@@ -3590,6 +3592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | Roguestorm Beats | 416651 | [416651-roguestorm-beats.json](./416651-roguestorm-beats.json) |
+| Roguesweeper | 389126 | [389126-roguesweeper.json](./389126-roguesweeper.json) |
 | Roguie | 382303 | [382303-roguie.json](./382303-roguie.json) |
 | Rogum: A Cat Match Puzzle | 386691 | [386691-rogum-a-cat-match-puzzle.json](./386691-rogum-a-cat-match-puzzle.json) |
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
