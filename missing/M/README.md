@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
 | Magic Griddlers 2 | 101555 | [101555-magic-griddlers-2.json](./101555-magic-griddlers-2.json) |
 | Magic Heart | 114996 | [114996-magic-heart.json](./114996-magic-heart.json) |
+| Magic Hero Incremental | 386446 | [386446-magic-hero-incremental.json](./386446-magic-hero-incremental.json) |
 | Magic Island Escape | 315472 | [315472-magic-island-escape.json](./315472-magic-island-escape.json) |
 | Magic Island Escape 2 | 315473 | [315473-magic-island-escape-2.json](./315473-magic-island-escape-2.json) |
 | Magic Island Escape 3 | 315474 | [315474-magic-island-escape-3.json](./315474-magic-island-escape-3.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion of Hidden Souls | 5402 | [5402-mansion-of-hidden-souls.json](./5402-mansion-of-hidden-souls.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
+| Mantle Crater | 386429 | [386429-mantle-crater.json](./386429-mantle-crater.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
 | Mantras 3D | 100114 | [100114-mantras-3d.json](./100114-mantras-3d.json) |
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
@@ -1181,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
 | Marblize | 31142 | [31142-marblize.json](./31142-marblize.json) |
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
+| Marc Ecko's Getting Up | 386410 | [386410-marc-eckos-getting-up.json](./386410-marc-eckos-getting-up.json) |
 | Marce | 383531 | [383531-marce.json](./383531-marce.json) |
 | Marcella Moon: Curse of the Black Cat | 149413 | [149413-marcella-moon-curse-of-the-black-cat.json](./149413-marcella-moon-curse-of-the-black-cat.json) |
 | Marcella Moon: Killer at the Cove | 264024 | [264024-marcella-moon-killer-at-the-cove.json](./264024-marcella-moon-killer-at-the-cove.json) |
@@ -6606,6 +6609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Picker Simulator | 149045 | [149045-mushroom-picker-simulator.json](./149045-mushroom-picker-simulator.json) |
 | Mushroom Simulator Co-op | 401841 | [401841-mushroom-simulator-co-op.json](./401841-mushroom-simulator-co-op.json) |
 | Mushroom Towers | 179690 | [179690-mushroom-towers.json](./179690-mushroom-towers.json) |
+| Mushroom Town | 386441 | [386441-mushroom-town.json](./386441-mushroom-town.json) |
 | Mushroom Wars 2: Episode 3 - Red & Furious | 172155 | [172155-mushroom-wars-2-episode-3-red-and-furious.json](./172155-mushroom-wars-2-episode-3-red-and-furious.json) |
 | Mushroom: The Ruckus | 98994 | [98994-mushroom-the-ruckus.json](./98994-mushroom-the-ruckus.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
