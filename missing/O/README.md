@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-Road: Redneck Racing - Off-Road | 289319 | [289319-off-road-redneck-racing-off-road.json](./289319-off-road-redneck-racing-off-road.json) |
 | Off-Score: A Game of Songs | 334159 | [334159-off-score-a-game-of-songs.json](./334159-off-score-a-game-of-songs.json) |
 | Off-the-Ground Survival | 364081 | [364081-off-the-ground-survival.json](./364081-off-the-ground-survival.json) |
+| Off-world Prospecting | 347365 | [347365-off-world-prospecting.json](./347365-off-world-prospecting.json) |
 | Off-World Relocation | 253361 | [253361-off-world-relocation.json](./253361-off-world-relocation.json) |
 | Offensive Dimensions | 75782 | [75782-offensive-dimensions.json](./75782-offensive-dimensions.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
@@ -1970,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outsp4ce | 172176 | [172176-outsp4ce.json](./172176-outsp4ce.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
+| Outta Hell | 346797 | [346797-outta-hell.json](./346797-outta-hell.json) |
 | Outter Carrier | 327382 | [327382-outter-carrier.json](./327382-outter-carrier.json) |
 | Outtrigger | 39605 | [39605-outtrigger.json](./39605-outtrigger.json) |
 | Outward 2 | 291446 | [291446-outward-2.json](./291446-outward-2.json) |
