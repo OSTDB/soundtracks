@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
 | Dead Feed | 379566 | [379566-dead-feed.json](./379566-dead-feed.json) |
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
+| Dead Freight | 345683 | [345683-dead-freight.json](./345683-dead-freight.json) |
 | Dead Frequency | 373214 | [373214-dead-frequency.json](./373214-dead-frequency.json) |
 | Dead Fun Pack: Penguins and Aliens Strike Again | 102588 | [102588-dead-fun-pack-penguins-and-aliens-strike-again.json](./102588-dead-fun-pack-penguins-and-aliens-strike-again.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
@@ -2211,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Siege | 406905 | [406905-demon-siege.json](./406905-demon-siege.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2 | 337907 | [337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json](./337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2: Deluxe Edition | 345692 | [345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json](./345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Nezuko Advanced Demon Form | 213410 | [213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json](./213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json) |
 | Demon Stalkers | 54711 | [54711-demon-stalkers.json](./54711-demon-stalkers.json) |
 | Demon Still Alive | 306344 | [306344-demon-still-alive.json](./306344-demon-still-alive.json) |
@@ -3984,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
 | Dodgebrawl | 403171 | [403171-dodgebrawl.json](./403171-dodgebrawl.json) |
 | DodgeCraft | 325101 | [325101-dodgecraft.json](./325101-dodgecraft.json) |
+| Dodgekill | 345687 | [345687-dodgekill.json](./345687-dodgekill.json) |
 | DodgeKing | 213989 | [213989-dodgeking.json](./213989-dodgeking.json) |
 | DodgerBall | 59415 | [59415-dodgerball.json](./59415-dodgerball.json) |
 | Dodgerman | 113645 | [113645-dodgerman.json](./113645-dodgerman.json) |
@@ -5006,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
 | Dragged Deep | 358364 | [358364-dragged-deep.json](./358364-dragged-deep.json) |
+| Draggin' | 345663 | [345663-draggin.json](./345663-draggin.json) |
 | Dragimon Dungeons | 342128 | [342128-dragimon-dungeons.json](./342128-dragimon-dungeons.json) |
 | Draginsanity | 157036 | [157036-draginsanity.json](./157036-draginsanity.json) |
 | DragKnockFight | 218124 | [218124-dragknockfight.json](./218124-dragknockfight.json) |
@@ -5473,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
 | DreadHaven: The Last Colony | 336597 | [336597-dreadhaven-the-last-colony.json](./336597-dreadhaven-the-last-colony.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
+| Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
 | Dreadnought Tartarus | 383481 | [383481-dreadnought-tartarus.json](./383481-dreadnought-tartarus.json) |
@@ -5686,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWorld | 145026 | [145026-dreamworld.json](./145026-dreamworld.json) |
 | Dreamwrought | 387022 | [387022-dreamwrought.json](./387022-dreamwrought.json) |
 | Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
+| Dreamy Hill | 345694 | [345694-dreamy-hill.json](./345694-dreamy-hill.json) |
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
 | Dredge | 164867 | [164867-dredge.json](./164867-dredge.json) |
