@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salamander | 261906 | [261906-salamander.json](./261906-salamander.json) |
 | Salamander | 261907 | [261907-salamander.json](./261907-salamander.json) |
 | Salamander Portable | 42869 | [42869-salamander-portable.json](./42869-salamander-portable.json) |
+| Salann | 379033 | [379033-salann.json](./379033-salann.json) |
 | Salary Man Escape | 104678 | [104678-salary-man-escape.json](./104678-salary-man-escape.json) |
 | Salene | 405062 | [405062-salene.json](./405062-salene.json) |
 | Sales Birdman | 345604 | [345604-sales-birdman.json](./345604-sales-birdman.json) |
@@ -2715,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark! Hunting the Great White | 71770 | [71770-shark-hunting-the-great-white.json](./71770-shark-hunting-the-great-white.json) |
 | Shark! Shark! | 5695 | [5695-shark-shark.json](./5695-shark-shark.json) |
 | Shark's Treasures Adventure | 339901 | [339901-sharks-treasures-adventure.json](./339901-sharks-treasures-adventure.json) |
+| Sharkbaked | 379009 | [379009-sharkbaked.json](./379009-sharkbaked.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
 | Sharkey's Shootout | 91401 | [91401-sharkeys-shootout.json](./91401-sharkeys-shootout.json) |
 | Sharknado VR: Arcade Edition | 197404 | [197404-sharknado-vr-arcade-edition.json](./197404-sharknado-vr-arcade-edition.json) |
@@ -4121,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sio and Mysterious Forest | 122214 | [122214-sio-and-mysterious-forest.json](./122214-sio-and-mysterious-forest.json) |
 | Sionan | 230260 | [230260-sionan.json](./230260-sionan.json) |
 | Sionic Love | 399711 | [399711-sionic-love.json](./399711-sionic-love.json) |
+| Sip Or Die | 379057 | [379057-sip-or-die.json](./379057-sip-or-die.json) |
 | Sipho | 90850 | [90850-sipho.json](./90850-sipho.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Sippin Hot Blickety Block N Bop Those Bad Battle Boys Down to Size Supreme | 213455 | [213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json](./213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json) |
@@ -5343,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak Ops | 106995 | [106995-sneak-ops.json](./106995-sneak-ops.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
+| Sneaky All-Nighter 2 | 379035 | [379035-sneaky-all-nighter-2.json](./379035-sneaky-all-nighter-2.json) |
 | Sneaky Bears | 69320 | [69320-sneaky-bears.json](./69320-sneaky-bears.json) |
 | Sneaky Bears VR | 68272 | [68272-sneaky-bears-vr.json](./68272-sneaky-bears-vr.json) |
 | Sneaky Bimbuls | 406134 | [406134-sneaky-bimbuls.json](./406134-sneaky-bimbuls.json) |
@@ -5491,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowBall Champions | 239632 | [239632-snowball-champions.json](./239632-snowball-champions.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
 | Snowball Fight | 397795 | [397795-snowball-fight.json](./397795-snowball-fight.json) |
+| Snowball Fight 2025 | 379038 | [379038-snowball-fight-2025.json](./379038-snowball-fight-2025.json) |
 | Snowball Fight At Christmas | 165020 | [165020-snowball-fight-at-christmas.json](./165020-snowball-fight-at-christmas.json) |
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowbird Solitaire | 354998 | [354998-snowbird-solitaire.json](./354998-snowbird-solitaire.json) |
@@ -5734,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokos | 33053 | [33053-sokos.json](./33053-sokos.json) |
 | Sokosignal | 219596 | [219596-sokosignal.json](./219596-sokosignal.json) |
 | Sokotale | 141851 | [141851-sokotale.json](./141851-sokotale.json) |
+| SokoTerm | 379050 | [379050-sokoterm.json](./379050-sokoterm.json) |
 | Sokowand | 335261 | [335261-sokowand.json](./335261-sokowand.json) |
 | SokoWinter | 187401 | [187401-sokowinter.json](./187401-sokowinter.json) |
 | Sol | 258519 | [258519-sol.json](./258519-sol.json) |
@@ -7287,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
 | Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
 | Spam | 315689 | [315689-spam.json](./315689-spam.json) |
+| Spam Runner 2 | 379012 | [379012-spam-runner-2.json](./379012-spam-runner-2.json) |
 | Spam Text | 214196 | [214196-spam-text.json](./214196-spam-text.json) |
 | Spammerina | 309879 | [309879-spammerina.json](./309879-spammerina.json) |
 | Span of Dream | 400328 | [400328-span-of-dream.json](./400328-span-of-dream.json) |
@@ -10487,6 +10494,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
 | Sudoku Deluxe | 86733 | [86733-sudoku-deluxe.json](./86733-sudoku-deluxe.json) |
 | Sudoku Dreams | 149919 | [149919-sudoku-dreams.json](./149919-sudoku-dreams.json) |
+| Sudoku Dreams | 379021 | [379021-sudoku-dreams.json](./379021-sudoku-dreams.json) |
+| Sudoku Dreams: Hints Pack | 379020 | [379020-sudoku-dreams-hints-pack.json](./379020-sudoku-dreams-hints-pack.json) |
 | Sudoku for Kids | 268481 | [268481-sudoku-for-kids.json](./268481-sudoku-for-kids.json) |
 | Sudoku for Kids | 67237 | [67237-sudoku-for-kids.json](./67237-sudoku-for-kids.json) |
 | Sudoku G1 | 266910 | [266910-sudoku-g1.json](./266910-sudoku-g1.json) |
@@ -12538,6 +12547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Blackberry | 412383 | [412383-sweetie-candy-maze-blackberry.json](./412383-sweetie-candy-maze-blackberry.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
 | Sweetie Candy Maze: Lime | 399728 | [399728-sweetie-candy-maze-lime.json](./399728-sweetie-candy-maze-lime.json) |
+| Sweetie Candy Maze: Purple Grape | 379041 | [379041-sweetie-candy-maze-purple-grape.json](./379041-sweetie-candy-maze-purple-grape.json) |
 | Sweetie Candy Maze: Red Cherry | 359517 | [359517-sweetie-candy-maze-red-cherry.json](./359517-sweetie-candy-maze-red-cherry.json) |
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
