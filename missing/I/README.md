@@ -48,9 +48,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Night | 352165 | [352165-i-am-night.json](./352165-i-am-night.json) |
 | I Am Not What Remains | 176498 | [176498-i-am-not-what-remains.json](./176498-i-am-not-what-remains.json) |
 | I Am Ripper | 342772 | [342772-i-am-ripper.json](./342772-i-am-ripper.json) |
+| I am Rock | 389725 | [389725-i-am-rock.json](./389725-i-am-rock.json) |
 | I am Sakuya VR: Touhou FPS Game | 244477 | [244477-i-am-sakuya-vr-touhou-fps-game.json](./244477-i-am-sakuya-vr-touhou-fps-game.json) |
 | I am Sakuya: Touhou FPS Game | 199475 | [199475-i-am-sakuya-touhou-fps-game.json](./199475-i-am-sakuya-touhou-fps-game.json) |
 | I am Setsuna: Collector's Edition | 53216 | [53216-i-am-setsuna-collectors-edition.json](./53216-i-am-setsuna-collectors-edition.json) |
+| I am Slime | 389720 | [389720-i-am-slime.json](./389720-i-am-slime.json) |
 | I am Sorry | 312197 | [312197-i-am-sorry.json](./312197-i-am-sorry.json) |
 | I am Still Here. | 143104 | [143104-i-am-still-here.json](./143104-i-am-still-here.json) |
 | I am Tasi | 133396 | [133396-i-am-tasi.json](./133396-i-am-tasi.json) |
@@ -572,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Monkeylogy | 165637 | [165637-idle-monkeylogy.json](./165637-idle-monkeylogy.json) |
 | Idle Monster: Tower Defense | 138787 | [138787-idle-monster-tower-defense.json](./138787-idle-monster-tower-defense.json) |
 | Idle Moon Rabbit: AFK RPG | 204487 | [204487-idle-moon-rabbit-afk-rpg.json](./204487-idle-moon-rabbit-afk-rpg.json) |
+| Idle Muscle Up | 389714 | [389714-idle-muscle-up.json](./389714-idle-muscle-up.json) |
 | Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
 | Idle of the Dead | 413772 | [413772-idle-of-the-dead.json](./413772-idle-of-the-dead.json) |
