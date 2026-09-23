@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Sex: Episode 3 | 295382 | [295382-bdsm-sex-episode-3.json](./295382-bdsm-sex-episode-3.json) |
 | BDSM Sex: Episode 4 | 295383 | [295383-bdsm-sex-episode-4.json](./295383-bdsm-sex-episode-4.json) |
 | Be | 207329 | [207329-be.json](./207329-be.json) |
+| Be (Not) Afraid | 356832 | [356832-be-not-afraid.json](./356832-be-not-afraid.json) |
 | Be A Bee | 351090 | [351090-be-a-bee.json](./351090-be-a-bee.json) |
 | Be a King | 80245 | [80245-be-a-king.json](./80245-be-a-king.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
