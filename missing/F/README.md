@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Out: Selene | 258028 | [258028-far-out-selene.json](./258028-far-out-selene.json) |
 | Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
 | Far Side of the Mirror | 368511 | [368511-far-side-of-the-mirror.json](./368511-far-side-of-the-mirror.json) |
+| Far Starlight | 355219 | [355219-far-starlight.json](./355219-far-starlight.json) |
 | Far Til Fire: Gi'r Aldrig Op | 129779 | [129779-far-til-fire-gir-aldrig-op.json](./129779-far-til-fire-gir-aldrig-op.json) |
 | Far-Out | 34792 | [34792-far-out.json](./34792-far-out.json) |
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
@@ -2247,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
 | First Queen IV: Varcia Senki | 152384 | [152384-first-queen-iv-varcia-senki.json](./152384-first-queen-iv-varcia-senki.json) |
 | First Responder VR | 241516 | [241516-first-responder-vr.json](./241516-first-responder-vr.json) |
+| First Samurai 64 | 356291 | [356291-first-samurai-64.json](./356291-first-samurai-64.json) |
 | First Sexy Night 2: Second Date | 235760 | [235760-first-sexy-night-2-second-date.json](./235760-first-sexy-night-2-second-date.json) |
 | First Snow | 132765 | [132765-first-snow.json](./132765-first-snow.json) |
 | First South Beer Pong | 59653 | [59653-first-south-beer-pong.json](./59653-first-south-beer-pong.json) |
@@ -2309,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
 | Fish Tanks | 144795 | [144795-fish-tanks.json](./144795-fish-tanks.json) |
 | Fish the Detective! | 219675 | [219675-fish-the-detective.json](./219675-fish-the-detective.json) |
+| Fish Time | 355223 | [355223-fish-time.json](./355223-fish-time.json) |
 | Fish Tycoon | 29117 | [29117-fish-tycoon.json](./29117-fish-tycoon.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
 | Fish War | 247024 | [247024-fish-war.json](./247024-fish-war.json) |
