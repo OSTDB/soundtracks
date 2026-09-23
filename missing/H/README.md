@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
 | Hacknet | 11707 | [11707-hacknet.json](./11707-hacknet.json) |
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
+| HackSlash | 361894 | [361894-hackslash.json](./361894-hackslash.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
 | Hadalyth Zero | 414616 | [414616-hadalyth-zero.json](./414616-hadalyth-zero.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
