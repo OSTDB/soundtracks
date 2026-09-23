@@ -192,6 +192,53 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Mosaics | 415860 | [415860-zen-mosaics.json](./415860-zen-mosaics.json) |
 | Zen Pinball 2 | 6008 | [6008-zen-pinball-2.json](./6008-zen-pinball-2.json) |
+| Zen Pinball World: A Charlie Brown Christmas Pinball | 354059 | [354059-zen-pinball-world-a-charlie-brown-christmas-pinball.json](./354059-zen-pinball-world-a-charlie-brown-christmas-pinball.json) |
+| Zen Pinball World: A Samurai's Vengeance | 354060 | [354060-zen-pinball-world-a-samurais-vengeance.json](./354060-zen-pinball-world-a-samurais-vengeance.json) |
+| Zen Pinball World: Attack from Mars | 354084 | [354084-zen-pinball-world-attack-from-mars.json](./354084-zen-pinball-world-attack-from-mars.json) |
+| Zen Pinball World: Banzai Run | 354061 | [354061-zen-pinball-world-banzai-run.json](./354061-zen-pinball-world-banzai-run.json) |
+| Zen Pinball World: Battlestar Galactica Pinball | 354062 | [354062-zen-pinball-world-battlestar-galactica-pinball.json](./354062-zen-pinball-world-battlestar-galactica-pinball.json) |
+| Zen Pinball World: Black Knight 2000 | 354063 | [354063-zen-pinball-world-black-knight-2000.json](./354063-zen-pinball-world-black-knight-2000.json) |
+| Zen Pinball World: Black Rose | 354085 | [354085-zen-pinball-world-black-rose.json](./354085-zen-pinball-world-black-rose.json) |
+| Zen Pinball World: Borderlands - Vault Hunter Pinball | 354064 | [354064-zen-pinball-world-borderlands-vault-hunter-pinball.json](./354064-zen-pinball-world-borderlands-vault-hunter-pinball.json) |
+| Zen Pinball World: Brothers in Arms - Win the War Pinball | 354065 | [354065-zen-pinball-world-brothers-in-arms-win-the-war-pinball.json](./354065-zen-pinball-world-brothers-in-arms-win-the-war-pinball.json) |
+| Zen Pinball World: Camp Bloodbrook | 354066 | [354066-zen-pinball-world-camp-bloodbrook.json](./354066-zen-pinball-world-camp-bloodbrook.json) |
+| Zen Pinball World: Cirqus Voltaire | 354096 | [354096-zen-pinball-world-cirqus-voltaire.json](./354096-zen-pinball-world-cirqus-voltaire.json) |
+| Zen Pinball World: Crypt of the Necrodancer Pinball | 354067 | [354067-zen-pinball-world-crypt-of-the-necrodancer-pinball.json](./354067-zen-pinball-world-crypt-of-the-necrodancer-pinball.json) |
+| Zen Pinball World: Dr. Dude and his Excellent Ray | 354097 | [354097-zen-pinball-world-dr-dude-and-his-excellent-ray.json](./354097-zen-pinball-world-dr-dude-and-his-excellent-ray.json) |
+| Zen Pinball World: Earthshaker! | 354068 | [354068-zen-pinball-world-earthshaker.json](./354068-zen-pinball-world-earthshaker.json) |
+| Zen Pinball World: Exploding Kittens - A Pinball Cat-astrophe | 354069 | [354069-zen-pinball-world-exploding-kittens-a-pinball-cat-astrophe.json](./354069-zen-pinball-world-exploding-kittens-a-pinball-cat-astrophe.json) |
+| Zen Pinball World: FunHouse | 354098 | [354098-zen-pinball-world-funhouse.json](./354098-zen-pinball-world-funhouse.json) |
+| Zen Pinball World: Gloomhaven Pinball | 354070 | [354070-zen-pinball-world-gloomhaven-pinball.json](./354070-zen-pinball-world-gloomhaven-pinball.json) |
+| Zen Pinball World: Goat Simulator Pinball | 354071 | [354071-zen-pinball-world-goat-simulator-pinball.json](./354071-zen-pinball-world-goat-simulator-pinball.json) |
+| Zen Pinball World: Godzilla Pinball | 354099 | [354099-zen-pinball-world-godzilla-pinball.json](./354099-zen-pinball-world-godzilla-pinball.json) |
+| Zen Pinball World: Godzilla vs. Kong Pinball | 354100 | [354100-zen-pinball-world-godzilla-vs-kong-pinball.json](./354100-zen-pinball-world-godzilla-vs-kong-pinball.json) |
+| Zen Pinball World: Homeworld - Journey to Hiigara Pinball | 354072 | [354072-zen-pinball-world-homeworld-journey-to-hiigara-pinball.json](./354072-zen-pinball-world-homeworld-journey-to-hiigara-pinball.json) |
+| Zen Pinball World: Hurricane | 354101 | [354101-zen-pinball-world-hurricane.json](./354101-zen-pinball-world-hurricane.json) |
+| Zen Pinball World: Junk Yard | 354086 | [354086-zen-pinball-world-junk-yard.json](./354086-zen-pinball-world-junk-yard.json) |
+| Zen Pinball World: Knight Rider Pinball | 354073 | [354073-zen-pinball-world-knight-rider-pinball.json](./354073-zen-pinball-world-knight-rider-pinball.json) |
+| Zen Pinball World: Kong Pinball | 354102 | [354102-zen-pinball-world-kong-pinball.json](./354102-zen-pinball-world-kong-pinball.json) |
+| Zen Pinball World: Medieval Madness | 354087 | [354087-zen-pinball-world-medieval-madness.json](./354087-zen-pinball-world-medieval-madness.json) |
+| Zen Pinball World: Monster Bash | 354090 | [354090-zen-pinball-world-monster-bash.json](./354090-zen-pinball-world-monster-bash.json) |
+| Zen Pinball World: No Good Gofers | 354103 | [354103-zen-pinball-world-no-good-gofers.json](./354103-zen-pinball-world-no-good-gofers.json) |
+| Zen Pinball World: Pacific Rim Pinball | 354104 | [354104-zen-pinball-world-pacific-rim-pinball.json](./354104-zen-pinball-world-pacific-rim-pinball.json) |
+| Zen Pinball World: Red and Ted's Road Show | 354105 | [354105-zen-pinball-world-red-and-teds-road-show.json](./354105-zen-pinball-world-red-and-teds-road-show.json) |
+| Zen Pinball World: Safe Cracker | 354091 | [354091-zen-pinball-world-safe-cracker.json](./354091-zen-pinball-world-safe-cracker.json) |
+| Zen Pinball World: Sky Pirates - Treasures of the Clouds | 354074 | [354074-zen-pinball-world-sky-pirates-treasures-of-the-clouds.json](./354074-zen-pinball-world-sky-pirates-treasures-of-the-clouds.json) |
+| Zen Pinball World: South Park - Butters' Very Own Pinball Game | 354075 | [354075-zen-pinball-world-south-park-butters-very-own-pinball-game.json](./354075-zen-pinball-world-south-park-butters-very-own-pinball-game.json) |
+| Zen Pinball World: South Park - Super Sweet Pinball | 354076 | [354076-zen-pinball-world-south-park-super-sweet-pinball.json](./354076-zen-pinball-world-south-park-super-sweet-pinball.json) |
+| Zen Pinball World: Space Station | 354106 | [354106-zen-pinball-world-space-station.json](./354106-zen-pinball-world-space-station.json) |
+| Zen Pinball World: Swords of Fury | 354107 | [354107-zen-pinball-world-swords-of-fury.json](./354107-zen-pinball-world-swords-of-fury.json) |
+| Zen Pinball World: Terraforming Mars Pinball | 354077 | [354077-zen-pinball-world-terraforming-mars-pinball.json](./354077-zen-pinball-world-terraforming-mars-pinball.json) |
+| Zen Pinball World: The Addams Family | 354078 | [354078-zen-pinball-world-the-addams-family.json](./354078-zen-pinball-world-the-addams-family.json) |
+| Zen Pinball World: The Champion Pub | 354092 | [354092-zen-pinball-world-the-champion-pub.json](./354092-zen-pinball-world-the-champion-pub.json) |
+| Zen Pinball World: The Creature From the Black Lagoon | 354093 | [354093-zen-pinball-world-the-creature-from-the-black-lagoon.json](./354093-zen-pinball-world-the-creature-from-the-black-lagoon.json) |
+| Zen Pinball World: The Getaway - High Speed II | 354094 | [354094-zen-pinball-world-the-getaway-high-speed-ii.json](./354094-zen-pinball-world-the-getaway-high-speed-ii.json) |
+| Zen Pinball World: The Princess Bride Pinball | 354079 | [354079-zen-pinball-world-the-princess-bride-pinball.json](./354079-zen-pinball-world-the-princess-bride-pinball.json) |
+| Zen Pinball World: Theatre of Magic | 354095 | [354095-zen-pinball-world-theatre-of-magic.json](./354095-zen-pinball-world-theatre-of-magic.json) |
+| Zen Pinball World: Twilight Zone | 354080 | [354080-zen-pinball-world-twilight-zone.json](./354080-zen-pinball-world-twilight-zone.json) |
+| Zen Pinball World: Verne's Mysterious Island | 354081 | [354081-zen-pinball-world-vernes-mysterious-island.json](./354081-zen-pinball-world-vernes-mysterious-island.json) |
+| Zen Pinball World: World Cup Soccer | 354082 | [354082-zen-pinball-world-world-cup-soccer.json](./354082-zen-pinball-world-world-cup-soccer.json) |
+| Zen Pinball World: Xena - Warrior Princess Pinball | 354083 | [354083-zen-pinball-world-xena-warrior-princess-pinball.json](./354083-zen-pinball-world-xena-warrior-princess-pinball.json) |
 | Zen Rage | 319223 | [319223-zen-rage.json](./319223-zen-rage.json) |
 | Zen Studios VR Collection | 107642 | [107642-zen-studios-vr-collection.json](./107642-zen-studios-vr-collection.json) |
 | Zen Training | 316067 | [316067-zen-training.json](./316067-zen-training.json) |
