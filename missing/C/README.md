@@ -1927,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Channel 7 | 240313 | [240313-channel-7.json](./240313-channel-7.json) |
 | Channel Surfing | 356111 | [356111-channel-surfing.json](./356111-channel-surfing.json) |
 | Chant | 125948 | [125948-chant.json](./125948-chant.json) |
+| Chant Wizard | 391309 | [391309-chant-wizard.json](./391309-chant-wizard.json) |
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
 | Chao Adventure | 225623 | [225623-chao-adventure.json](./225623-chao-adventure.json) |
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
@@ -2086,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
 | CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
+| Cheater's Table | 391316 | [391316-cheaters-table.json](./391316-cheaters-table.json) |
 | Cheating Death | 177392 | [177392-cheating-death.json](./177392-cheating-death.json) |
 | Check in the Back | 183010 | [183010-check-in-the-back.json](./183010-check-in-the-back.json) |
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
@@ -2387,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
 | ChicScape | 152777 | [152777-chicscape.json](./152777-chicscape.json) |
 | Chief Bubble Officer | 413163 | [413163-chief-bubble-officer.json](./413163-chief-bubble-officer.json) |
+| Chief Cenab: Şahmaran | 391347 | [391347-chief-cenab-sahmaran.json](./391347-chief-cenab-sahmaran.json) |
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
 | Chigau!!!+ | 186231 | [186231-chigau.json](./186231-chigau.json) |
 | Chigau!!!+: Premium Edition | 186232 | [186232-chigau-premium-edition.json](./186232-chigau-premium-edition.json) |
@@ -3441,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickomania! | 64437 | [64437-clickomania.json](./64437-clickomania.json) |
 | ClickRaid | 50512 | [50512-clickraid.json](./50512-clickraid.json) |
 | ClickShot | 381739 | [381739-clickshot.json](./381739-clickshot.json) |
+| ClickTown | 391315 | [391315-clicktown.json](./391315-clicktown.json) |
 | Clicky & Yo | 389962 | [389962-clicky-and-yo.json](./389962-clicky-and-yo.json) |
 | Clicky Islands | 388729 | [388729-clicky-islands.json](./388729-clicky-islands.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
