@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
+| Parasensor | 347911 | [347911-parasensor.json](./347911-parasensor.json) |
 | Parashotical Arktivibeatings | 235189 | [235189-parashotical-arktivibeatings.json](./235189-parashotical-arktivibeatings.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
 | Parasite | 195754 | [195754-parasite.json](./195754-parasite.json) |
@@ -2244,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
 | Pictos | 175277 | [175277-pictos.json](./175277-pictos.json) |
 | Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
+| Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
@@ -4533,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possum Boy!: The Ballad of Joey Virginia | 361241 | [361241-possum-boy-the-ballad-of-joey-virginia.json](./361241-possum-boy-the-ballad-of-joey-virginia.json) |
 | Possum Dating Simulator | 179042 | [179042-possum-dating-simulator.json](./179042-possum-dating-simulator.json) |
 | Post | 274208 | [274208-post.json](./274208-post.json) |
+| Post Apo Tycoon | 347883 | [347883-post-apo-tycoon.json](./347883-post-apo-tycoon.json) |
 | Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
 | Post Apocalyptic Mayhem | 16229 | [16229-post-apocalyptic-mayhem.json](./16229-post-apocalyptic-mayhem.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
@@ -6277,6 +6280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
 | Puzzle & Monarch | 345589 | [345589-puzzle-and-monarch.json](./345589-puzzle-and-monarch.json) |
 | Puzzle 3D | 88180 | [88180-puzzle-3d.json](./88180-puzzle-3d.json) |
+| Puzzle Adventure | 347877 | [347877-puzzle-adventure.json](./347877-puzzle-adventure.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
