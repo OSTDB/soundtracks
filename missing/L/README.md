@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landscaper Simulator | 406691 | [406691-landscaper-simulator.json](./406691-landscaper-simulator.json) |
 | Landscapes | 90390 | [90390-landscapes.json](./90390-landscapes.json) |
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
+| Lane Drifter | 365901 | [365901-lane-drifter.json](./365901-lane-drifter.json) |
 | Lane of the Eternal Night | 406207 | [406207-lane-of-the-eternal-night.json](./406207-lane-of-the-eternal-night.json) |
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
@@ -3153,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Spell: The Starlight Update | 254503 | [254503-love-spell-the-starlight-update.json](./254503-love-spell-the-starlight-update.json) |
 | Love Spell: Written in the Stars | 130172 | [130172-love-spell-written-in-the-stars.json](./130172-love-spell-written-in-the-stars.json) |
 | Love Spell: Written in the Stars - Aslan's Story | 222992 | [222992-love-spell-written-in-the-stars-aslans-story.json](./222992-love-spell-written-in-the-stars-aslans-story.json) |
+| Love Starts Again | 365879 | [365879-love-starts-again.json](./365879-love-starts-again.json) |
 | Love Stitch | 412297 | [412297-love-stitch.json](./412297-love-stitch.json) |
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
 | Love Story: Choices Girl Games | 107010 | [107010-love-story-choices-girl-games.json](./107010-love-story-choices-girl-games.json) |
