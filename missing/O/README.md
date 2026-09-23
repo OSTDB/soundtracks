@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
 | Oldentide | 57892 | [57892-oldentide.json](./57892-oldentide.json) |
+| Oldest Golden Treasure | 381847 | [381847-oldest-golden-treasure.json](./381847-oldest-golden-treasure.json) |
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
 | Oldorf's Revenge | 24847 | [24847-oldorfs-revenge.json](./24847-oldorfs-revenge.json) |
 | Oldowan | 211222 | [211222-oldowan.json](./211222-oldowan.json) |
