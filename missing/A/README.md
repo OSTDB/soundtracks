@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ActRaiser 2 | 7704 | [7704-actraiser-2.json](./7704-actraiser-2.json) |
 | Actua Golf | 45497 | [45497-actua-golf.json](./45497-actua-golf.json) |
 | Actua Golf 3 | 34501 | [34501-actua-golf-3.json](./34501-actua-golf-3.json) |
+| Actua Golf 4 | 356274 | [356274-actua-golf-4.json](./356274-actua-golf-4.json) |
 | Actua Ice Hockey | 68964 | [68964-actua-ice-hockey.json](./68964-actua-ice-hockey.json) |
 | Actua Ice Hockey 2 | 71553 | [71553-actua-ice-hockey-2.json](./71553-actua-ice-hockey-2.json) |
 | Actually Additions | 232420 | [232420-actually-additions.json](./232420-actually-additions.json) |
@@ -797,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Adarna: Alamat ni Maria Blanca | 120168 | [120168-adarna-alamat-ni-maria-blanca.json](./120168-adarna-alamat-ni-maria-blanca.json) |
 | Add Flyers To Dreams | 400472 | [400472-add-flyers-to-dreams.json](./400472-add-flyers-to-dreams.json) |
+| Addams Family Pinball | 356275 | [356275-addams-family-pinball.json](./356275-addams-family-pinball.json) |
 | AddForce | 61881 | [61881-addforce.json](./61881-addforce.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
@@ -923,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Ponies 2: Wait! There's More?! | 146121 | [146121-adventure-ponies-2-wait-theres-more.json](./146121-adventure-ponies-2-wait-theres-more.json) |
 | Adventure Quiz 2: Hatena? No Dai-Bouken | 65206 | [65206-adventure-quiz-2-hatena-no-dai-bouken.json](./65206-adventure-quiz-2-hatena-no-dai-bouken.json) |
 | Adventure Quiz: Capcom World - Hatena no Daibouken | 77012 | [77012-adventure-quiz-capcom-world-hatena-no-daibouken.json](./77012-adventure-quiz-capcom-world-hatena-no-daibouken.json) |
+| Adventure Racing 2 | 356278 | [356278-adventure-racing-2.json](./356278-adventure-racing-2.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
@@ -2660,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
+| Amy Hates Robots | 356303 | [356303-amy-hates-robots.json](./356303-amy-hates-robots.json) |
 | Amy Rose in Sonic the Hedgehog | 129176 | [129176-amy-rose-in-sonic-the-hedgehog.json](./129176-amy-rose-in-sonic-the-hedgehog.json) |
 | Amy Rose in Sonic the Hedgehog 2 | 129177 | [129177-amy-rose-in-sonic-the-hedgehog-2.json](./129177-amy-rose-in-sonic-the-hedgehog-2.json) |
 | Amy's American Page One | 261277 | [261277-amys-american-page-one.json](./261277-amys-american-page-one.json) |
@@ -5242,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuria Awakens | 175390 | [175390-asuria-awakens.json](./175390-asuria-awakens.json) |
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
 | Asylamba : Influence | 99154 | [99154-asylamba-influence.json](./99154-asylamba-influence.json) |
+| Asylum | 356277 | [356277-asylum.json](./356277-asylum.json) |
 | Asylum | 86391 | [86391-asylum.json](./86391-asylum.json) |
 | Asylum | 95384 | [95384-asylum.json](./95384-asylum.json) |
 | Asylum 45 | 384666 | [384666-asylum-45.json](./384666-asylum-45.json) |
@@ -5519,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack Tactic | 226224 | [226224-attack-tactic.json](./226224-attack-tactic.json) |
 | Attack the Light! | 22555 | [22555-attack-the-light.json](./22555-attack-the-light.json) |
 | Attack: Helicopter Simulator 2020 | 171077 | [171077-attack-helicopter-simulator-2020.json](./171077-attack-helicopter-simulator-2020.json) |
+| Attack! | 356281 | [356281-attack.json](./356281-attack.json) |
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
 | Attic Antiquities | 413162 | [413162-attic-antiquities.json](./413162-attic-antiquities.json) |
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
