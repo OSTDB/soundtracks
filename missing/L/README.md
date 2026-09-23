@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
 | Lonely | 229677 | [229677-lonely.json](./229677-lonely.json) |
 | Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
+| Lonely House | 342286 | [342286-lonely-house.json](./342286-lonely-house.json) |
 | Lonely in the Winter | 86338 | [86338-lonely-in-the-winter.json](./86338-lonely-in-the-winter.json) |
 | Lonely Journey | 292168 | [292168-lonely-journey.json](./292168-lonely-journey.json) |
 | Lonely Kids Around the Cul-De-Sac | 362910 | [362910-lonely-kids-around-the-cul-de-sac.json](./362910-lonely-kids-around-the-cul-de-sac.json) |
