@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T03:47:48.664Z",
-  "total_missing": 109527,
+  "generated_at": "2026-09-23T04:02:51.260Z",
+  "total_missing": 109577,
   "games": [
     {
       "igdb_id": 176875,
@@ -10606,6 +10606,11 @@
       "igdb_id": 264107,
       "game_name": "Agriculture Tractor Sim",
       "file": "missing/A/264107-agriculture-tractor-sim.json"
+    },
+    {
+      "igdb_id": 381849,
+      "game_name": "Agromatic",
+      "file": "missing/A/381849-agromatic.json"
     },
     {
       "igdb_id": 592,
@@ -102503,6 +102508,11 @@
       "file": "missing/D/123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json"
     },
     {
+      "igdb_id": 381851,
+      "game_name": "Daisenryaku Map Collection",
+      "file": "missing/D/381851-daisenryaku-map-collection.json"
+    },
+    {
       "igdb_id": 74739,
       "game_name": "Daisia",
       "file": "missing/D/74739-daisia.json"
@@ -154558,6 +154568,11 @@
       "file": "missing/F/391721-fate-and-inflation.json"
     },
     {
+      "igdb_id": 381864,
+      "game_name": "Fate Architect",
+      "file": "missing/F/381864-fate-architect.json"
+    },
+    {
       "igdb_id": 253957,
       "game_name": "Fate Collectors",
       "file": "missing/F/253957-fate-collectors.json"
@@ -161311,6 +161326,11 @@
       "igdb_id": 395010,
       "game_name": "Five Nights at Frickbears 2",
       "file": "missing/F/395010-five-nights-at-frickbears-2.json"
+    },
+    {
+      "igdb_id": 381852,
+      "game_name": "Five Nights at Friedrich's",
+      "file": "missing/F/381852-five-nights-at-friedrichs.json"
     },
     {
       "igdb_id": 322379,
@@ -197758,6 +197778,11 @@
       "file": "missing/H/40175-hatch-catch.json"
     },
     {
+      "igdb_id": 381848,
+      "game_name": "Hatch Dragons",
+      "file": "missing/H/381848-hatch-dragons.json"
+    },
+    {
       "igdb_id": 319936,
       "game_name": "Hatch Tales: A Heroic Hookshot Adventure",
       "file": "missing/H/319936-hatch-tales-a-heroic-hookshot-adventure.json"
@@ -227633,6 +227658,11 @@
       "file": "missing/I/86116-isolated.json"
     },
     {
+      "igdb_id": 381855,
+      "game_name": "Isolated Hours",
+      "file": "missing/I/381855-isolated-hours.json"
+    },
+    {
       "igdb_id": 156119,
       "game_name": "Isolated Life",
       "file": "missing/I/156119-isolated-life.json"
@@ -228851,6 +228881,11 @@
       "igdb_id": 140600,
       "game_name": "J'ai Trouvé! Le Manoir Hanté",
       "file": "missing/J/140600-jai-trouve-le-manoir-hante.json"
+    },
+    {
+      "igdb_id": 381863,
+      "game_name": "J's Racin'",
+      "file": "missing/J/381863-js-racin.json"
     },
     {
       "igdb_id": 265666,
@@ -272163,6 +272198,11 @@
       "file": "missing/M/323748-marios-rules-variety-on-3.json"
     },
     {
+      "igdb_id": 381850,
+      "game_name": "Mario's Slightly Unusual Boss Rush: v2.0 Release",
+      "file": "missing/M/381850-marios-slightly-unusual-boss-rush-v2-0-release.json"
+    },
+    {
       "igdb_id": 80174,
       "game_name": "Mario's Super Picross",
       "file": "missing/M/80174-marios-super-picross.json"
@@ -278916,6 +278956,11 @@
       "igdb_id": 334189,
       "game_name": "Melbourne: Route 96",
       "file": "missing/M/334189-melbourne-route-96.json"
+    },
+    {
+      "igdb_id": 381846,
+      "game_name": "Meli",
+      "file": "missing/M/381846-meli.json"
     },
     {
       "igdb_id": 36235,
@@ -318778,6 +318823,11 @@
       "file": "missing/O/57892-oldentide.json"
     },
     {
+      "igdb_id": 381847,
+      "game_name": "Oldest Golden Treasure",
+      "file": "missing/O/381847-oldest-golden-treasure.json"
+    },
+    {
       "igdb_id": 255375,
       "game_name": "Oldfartenstein 3D",
       "file": "missing/O/255375-oldfartenstein-3d.json"
@@ -351481,6 +351531,181 @@
       "igdb_id": 91948,
       "game_name": "Priton",
       "file": "missing/P/91948-priton.json"
+    },
+    {
+      "igdb_id": 381810,
+      "game_name": "Pritto Prisoner: Character Stamp Collection",
+      "file": "missing/P/381810-pritto-prisoner-character-stamp-collection.json"
+    },
+    {
+      "igdb_id": 381818,
+      "game_name": "Pritto Prisoner: Deco Set - Hamburger Pack",
+      "file": "missing/P/381818-pritto-prisoner-deco-set-hamburger-pack.json"
+    },
+    {
+      "igdb_id": 381811,
+      "game_name": "Pritto Prisoner: Decoration - Baby Angel",
+      "file": "missing/P/381811-pritto-prisoner-decoration-baby-angel.json"
+    },
+    {
+      "igdb_id": 381812,
+      "game_name": "Pritto Prisoner: Decoration - Devil Glasses",
+      "file": "missing/P/381812-pritto-prisoner-decoration-devil-glasses.json"
+    },
+    {
+      "igdb_id": 381813,
+      "game_name": "Pritto Prisoner: Decoration - Devil's Horns",
+      "file": "missing/P/381813-pritto-prisoner-decoration-devils-horns.json"
+    },
+    {
+      "igdb_id": 381814,
+      "game_name": "Pritto Prisoner: Decoration - Halo",
+      "file": "missing/P/381814-pritto-prisoner-decoration-halo.json"
+    },
+    {
+      "igdb_id": 381815,
+      "game_name": "Pritto Prisoner: Decoration - Little Devil",
+      "file": "missing/P/381815-pritto-prisoner-decoration-little-devil.json"
+    },
+    {
+      "igdb_id": 381816,
+      "game_name": "Pritto Prisoner: Decoration - Poopie Doll",
+      "file": "missing/P/381816-pritto-prisoner-decoration-poopie-doll.json"
+    },
+    {
+      "igdb_id": 381817,
+      "game_name": "Pritto Prisoner: Decoration - Sparkling Eyes",
+      "file": "missing/P/381817-pritto-prisoner-decoration-sparkling-eyes.json"
+    },
+    {
+      "igdb_id": 381819,
+      "game_name": "Pritto Prisoner: DLC Skin - Biped Skin: Bloody",
+      "file": "missing/P/381819-pritto-prisoner-dlc-skin-biped-skin-bloody.json"
+    },
+    {
+      "igdb_id": 381820,
+      "game_name": "Pritto Prisoner: DLC Skin - Biped Skin: Camouflage",
+      "file": "missing/P/381820-pritto-prisoner-dlc-skin-biped-skin-camouflage.json"
+    },
+    {
+      "igdb_id": 381821,
+      "game_name": "Pritto Prisoner: DLC Skin - Blowgun Skin: Bloody",
+      "file": "missing/P/381821-pritto-prisoner-dlc-skin-blowgun-skin-bloody.json"
+    },
+    {
+      "igdb_id": 381822,
+      "game_name": "Pritto Prisoner: DLC Skin - Blowgun Skin: Camouflage",
+      "file": "missing/P/381822-pritto-prisoner-dlc-skin-blowgun-skin-camouflage.json"
+    },
+    {
+      "igdb_id": 381823,
+      "game_name": "Pritto Prisoner: DLC Skin - Butterfly Net Skin: Bloody",
+      "file": "missing/P/381823-pritto-prisoner-dlc-skin-butterfly-net-skin-bloody.json"
+    },
+    {
+      "igdb_id": 381824,
+      "game_name": "Pritto Prisoner: DLC Skin - Butterfly Net Skin: Camouflage",
+      "file": "missing/P/381824-pritto-prisoner-dlc-skin-butterfly-net-skin-camouflage.json"
+    },
+    {
+      "igdb_id": 381825,
+      "game_name": "Pritto Prisoner: DLC Skin - Cindy",
+      "file": "missing/P/381825-pritto-prisoner-dlc-skin-cindy.json"
+    },
+    {
+      "igdb_id": 381826,
+      "game_name": "Pritto Prisoner: DLC Skin - Dear Ruth",
+      "file": "missing/P/381826-pritto-prisoner-dlc-skin-dear-ruth.json"
+    },
+    {
+      "igdb_id": 381827,
+      "game_name": "Pritto Prisoner: DLC Skin - Dr. Psycho",
+      "file": "missing/P/381827-pritto-prisoner-dlc-skin-dr-psycho.json"
+    },
+    {
+      "igdb_id": 381828,
+      "game_name": "Pritto Prisoner: DLC Skin - Kimura",
+      "file": "missing/P/381828-pritto-prisoner-dlc-skin-kimura.json"
+    },
+    {
+      "igdb_id": 381829,
+      "game_name": "Pritto Prisoner: DLC Skin - Lasso Skin: Bloody",
+      "file": "missing/P/381829-pritto-prisoner-dlc-skin-lasso-skin-bloody.json"
+    },
+    {
+      "igdb_id": 381830,
+      "game_name": "Pritto Prisoner: DLC Skin - Lasso Skin: Camouflage",
+      "file": "missing/P/381830-pritto-prisoner-dlc-skin-lasso-skin-camouflage.json"
+    },
+    {
+      "igdb_id": 381831,
+      "game_name": "Pritto Prisoner: DLC Skin - Master Shion",
+      "file": "missing/P/381831-pritto-prisoner-dlc-skin-master-shion.json"
+    },
+    {
+      "igdb_id": 381832,
+      "game_name": "Pritto Prisoner: DLC Skin - Michael",
+      "file": "missing/P/381832-pritto-prisoner-dlc-skin-michael.json"
+    },
+    {
+      "igdb_id": 381833,
+      "game_name": "Pritto Prisoner: DLC Skin - Mr. Multi",
+      "file": "missing/P/381833-pritto-prisoner-dlc-skin-mr-multi.json"
+    },
+    {
+      "igdb_id": 381834,
+      "game_name": "Pritto Prisoner: DLC Skin - Multi-Leg Skin: Bloody",
+      "file": "missing/P/381834-pritto-prisoner-dlc-skin-multi-leg-skin-bloody.json"
+    },
+    {
+      "igdb_id": 381835,
+      "game_name": "Pritto Prisoner: DLC Skin - Multi-Leg Skin: Camouflage",
+      "file": "missing/P/381835-pritto-prisoner-dlc-skin-multi-leg-skin-camouflage.json"
+    },
+    {
+      "igdb_id": 381836,
+      "game_name": "Pritto Prisoner: DLC Skin - Stun Gun Skin: Bloody",
+      "file": "missing/P/381836-pritto-prisoner-dlc-skin-stun-gun-skin-bloody.json"
+    },
+    {
+      "igdb_id": 381837,
+      "game_name": "Pritto Prisoner: DLC Skin - Stun Gun Skin: Camouflage",
+      "file": "missing/P/381837-pritto-prisoner-dlc-skin-stun-gun-skin-camouflage.json"
+    },
+    {
+      "igdb_id": 381838,
+      "game_name": "Pritto Prisoner: DLC Skin - Tamami",
+      "file": "missing/P/381838-pritto-prisoner-dlc-skin-tamami.json"
+    },
+    {
+      "igdb_id": 381839,
+      "game_name": "Pritto Prisoner: DLC Skin - Tank Skin: Bloody",
+      "file": "missing/P/381839-pritto-prisoner-dlc-skin-tank-skin-bloody.json"
+    },
+    {
+      "igdb_id": 381840,
+      "game_name": "Pritto Prisoner: DLC Skin - Tank Skin: Camouflage",
+      "file": "missing/P/381840-pritto-prisoner-dlc-skin-tank-skin-camouflage.json"
+    },
+    {
+      "igdb_id": 381841,
+      "game_name": "Pritto Prisoner: DLC Skin - Wheels Skin: Bloody",
+      "file": "missing/P/381841-pritto-prisoner-dlc-skin-wheels-skin-bloody.json"
+    },
+    {
+      "igdb_id": 381842,
+      "game_name": "Pritto Prisoner: DLC Skin - Wheels Skin: Camouflage",
+      "file": "missing/P/381842-pritto-prisoner-dlc-skin-wheels-skin-camouflage.json"
+    },
+    {
+      "igdb_id": 381843,
+      "game_name": "Pritto Prisoner: DLC Skin - Zoch",
+      "file": "missing/P/381843-pritto-prisoner-dlc-skin-zoch.json"
+    },
+    {
+      "igdb_id": 381844,
+      "game_name": "Pritto Prisoner: Robot Skin - Bloody Pack",
+      "file": "missing/P/381844-pritto-prisoner-robot-skin-bloody-pack.json"
     },
     {
       "igdb_id": 286534,
@@ -389016,6 +389241,11 @@
       "igdb_id": 224757,
       "game_name": "Schrodinger's Code",
       "file": "missing/S/224757-schrodingers-code.json"
+    },
+    {
+      "igdb_id": 381845,
+      "game_name": "Schrödinger's Dungeon",
+      "file": "missing/S/381845-schrodingers-dungeon.json"
     },
     {
       "igdb_id": 21776,
@@ -438551,6 +438781,11 @@
       "igdb_id": 40428,
       "game_name": "Super Cup Finals",
       "file": "missing/S/40428-super-cup-finals.json"
+    },
+    {
+      "igdb_id": 381856,
+      "game_name": "Super Daisenryaku: Map Collection",
+      "file": "missing/S/381856-super-daisenryaku-map-collection.json"
     },
     {
       "igdb_id": 42658,
@@ -509698,6 +509933,16 @@
       "file": "missing/U/310188-uncharted-world.json"
     },
     {
+      "igdb_id": 381859,
+      "game_name": "Uncharted: Fight for Fortune - Among Thieves Expansion",
+      "file": "missing/U/381859-uncharted-fight-for-fortune-among-thieves-expansion.json"
+    },
+    {
+      "igdb_id": 381860,
+      "game_name": "Uncharted: Fight for Fortune - Drake's Deception Expansion",
+      "file": "missing/U/381860-uncharted-fight-for-fortune-drakes-deception-expansion.json"
+    },
+    {
       "igdb_id": 168669,
       "game_name": "Uncharted: The Lost Legacy - Remastered",
       "file": "missing/U/168669-uncharted-the-lost-legacy-remastered.json"
@@ -530081,6 +530326,11 @@
       "igdb_id": 330725,
       "game_name": "Wild Cheetah Sim 3D",
       "file": "missing/W/330725-wild-cheetah-sim-3d.json"
+    },
+    {
+      "igdb_id": 381862,
+      "game_name": "Wild Cosmos",
+      "file": "missing/W/381862-wild-cosmos.json"
     },
     {
       "igdb_id": 151014,
