@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Party | 258556 | [258556-zombie-party.json](./258556-zombie-party.json) |
 | Zombie Pinball | 33114 | [33114-zombie-pinball.json](./33114-zombie-pinball.json) |
 | Zombie Pirate Robot Attack | 175261 | [175261-zombie-pirate-robot-attack.json](./175261-zombie-pirate-robot-attack.json) |
+| Zombie Protocol | 374254 | [374254-zombie-protocol.json](./374254-zombie-protocol.json) |
 | Zombie Quarantine | 43543 | [43543-zombie-quarantine.json](./43543-zombie-quarantine.json) |
 | Zombie Quarantine: Blackout Survival | 334106 | [334106-zombie-quarantine-blackout-survival.json](./334106-zombie-quarantine-blackout-survival.json) |
 | Zombie Quest | 377129 | [377129-zombie-quest.json](./377129-zombie-quest.json) |
