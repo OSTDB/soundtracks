@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse Casino | 326254 | [326254-eclipse-casino.json](./326254-eclipse-casino.json) |
 | Eclipse Horde | 151662 | [151662-eclipse-horde.json](./151662-eclipse-horde.json) |
 | Eclipse Isle | 125435 | [125435-eclipse-isle.json](./125435-eclipse-isle.json) |
+| Eclipse of Eldergaard | 386418 | [386418-eclipse-of-eldergaard.json](./386418-eclipse-of-eldergaard.json) |
 | Eclipse of Elysium | 295815 | [295815-eclipse-of-elysium.json](./295815-eclipse-of-elysium.json) |
 | Eclipse of Illusion | 68983 | [68983-eclipse-of-illusion.json](./68983-eclipse-of-illusion.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
