@@ -4891,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Align | 86312 | [86312-box-align.json](./86312-box-align.json) |
 | Box and Ball | 153851 | [153851-box-and-ball.json](./153851-box-and-ball.json) |
 | Box Bop | 314485 | [314485-box-bop.json](./314485-box-bop.json) |
+| Box Box Box! | 379055 | [379055-box-box-box.json](./379055-box-box-box.json) |
 | Box Critters | 146293 | [146293-box-critters.json](./146293-box-critters.json) |
 | Box Dash | 196272 | [196272-box-dash.json](./196272-box-dash.json) |
 | Box Dungeons | 254004 | [254004-box-dungeons.json](./254004-box-dungeons.json) |
@@ -6264,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | Butch: Hard Guy | 293250 | [293250-butch-hard-guy.json](./293250-butch-hard-guy.json) |
 | Butcher Life Simulator | 391582 | [391582-butcher-life-simulator.json](./391582-butcher-life-simulator.json) |
+| Butcher of the North | 379043 | [379043-butcher-of-the-north.json](./379043-butcher-of-the-north.json) |
 | Butcher Valley | 168216 | [168216-butcher-valley.json](./168216-butcher-valley.json) |
 | Butcher's Creek | 260119 | [260119-butchers-creek.json](./260119-butchers-creek.json) |
 | ButcherBox | 116105 | [116105-butcherbox.json](./116105-butcherbox.json) |
