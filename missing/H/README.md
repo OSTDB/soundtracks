@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer Keep | 180796 | [180796-hammer-keep.json](./180796-hammer-keep.json) |
 | Hammer Kid | 187490 | [187490-hammer-kid.json](./187490-hammer-kid.json) |
 | Hammer of Fury | 38971 | [38971-hammer-of-fury.json](./38971-hammer-of-fury.json) |
+| Hammer Penguins | 340563 | [340563-hammer-penguins.json](./340563-hammer-penguins.json) |
 | Hammer time! | 178089 | [178089-hammer-time.json](./178089-hammer-time.json) |
 | Hammer vs. Evil D. in Soulfire | 201166 | [201166-hammer-vs-evil-d-in-soulfire.json](./201166-hammer-vs-evil-d-in-soulfire.json) |
 | Hammerfight | 9666 | [9666-hammerfight.json](./9666-hammerfight.json) |
