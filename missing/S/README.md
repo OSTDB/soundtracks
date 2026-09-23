@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
 | Sangokushi II: Haou no Tairiku | 48861 | [48861-sangokushi-ii-haou-no-tairiku.json](./48861-sangokushi-ii-haou-no-tairiku.json) |
+| Sangokushi Tactics | 341156 | [341156-sangokushi-tactics.json](./341156-sangokushi-tactics.json) |
 | Sangokushi Taisen | 27624 | [27624-sangokushi-taisen.json](./27624-sangokushi-taisen.json) |
 | Sangokushi Taisen 3 War Begins | 64974 | [64974-sangokushi-taisen-3-war-begins.json](./64974-sangokushi-taisen-3-war-begins.json) |
 | Sangokushi Taisen: Battle of Three Kingdoms | 268026 | [268026-sangokushi-taisen-battle-of-three-kingdoms.json](./268026-sangokushi-taisen-battle-of-three-kingdoms.json) |
@@ -957,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
 | Scale Mail | 393781 | [393781-scale-mail.json](./393781-scale-mail.json) |
 | Scale Star | 97686 | [97686-scale-star.json](./97686-scale-star.json) |
+| Scale the Depths | 341134 | [341134-scale-the-depths.json](./341134-scale-the-depths.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scalebound | 7345 | [7345-scalebound.json](./7345-scalebound.json) |
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
@@ -4403,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
+| Sketch, Share, Solve: Video Games & Animals | 341154 | [341154-sketch-share-solve-video-games-and-animals.json](./341154-sketch-share-solve-video-games-and-animals.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
 | Sketchbook | 359617 | [359617-sketchbook.json](./359617-sketchbook.json) |
 | Sketchbook Squad | 397778 | [397778-sketchbook-squad.json](./397778-sketchbook-squad.json) |
@@ -9453,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Dread: The Submarine | 376689 | [376689-static-dread-the-submarine.json](./376689-static-dread-the-submarine.json) |
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
+| Static Sky: And Yet It | 341159 | [341159-static-sky-and-yet-it.json](./341159-static-sky-and-yet-it.json) |
 | Static-End | 178028 | [178028-static-end.json](./178028-static-end.json) |
 | Station 117 | 224644 | [224644-station-117.json](./224644-station-117.json) |
 | Station 17 | 165629 | [165629-station-17.json](./165629-station-17.json) |
@@ -10918,6 +10922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
 | Suite Room no Nemurihime Celebteki Zeitaku Ren'ai | 229029 | [229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json](./229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json) |
 | Suits: A Business RPG | 16135 | [16135-suits-a-business-rpg.json](./16135-suits-a-business-rpg.json) |
+| SuitU | 341166 | [341166-suitu.json](./341166-suitu.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
 | Sukashika Shipanman DS | 69212 | [69212-sukashika-shipanman-ds.json](./69212-sukashika-shipanman-ds.json) |
 | Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
