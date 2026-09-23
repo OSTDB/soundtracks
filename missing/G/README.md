@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini: Heroes Reborn | 19932 | [19932-gemini-heroes-reborn.json](./19932-gemini-heroes-reborn.json) |
 | Geminiii | 250457 | [250457-geminiii.json](./250457-geminiii.json) |
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
+| Geminum | 352391 | [352391-geminum.json](./352391-geminum.json) |
 | Gemistry | 68957 | [68957-gemistry.json](./68957-gemistry.json) |
 | Gemmy Gems: A Cozy Shop Sim | 413170 | [413170-gemmy-gems-a-cozy-shop-sim.json](./413170-gemmy-gems-a-cozy-shop-sim.json) |
 | Gemmy's Adventure | 333112 | [333112-gemmys-adventure.json](./333112-gemmys-adventure.json) |
