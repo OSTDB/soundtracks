@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
 | Void Inspector | 415891 | [415891-void-inspector.json](./415891-void-inspector.json) |
 | Void Invaders | 18213 | [18213-void-invaders.json](./18213-void-invaders.json) |
+| Void Jump VR | 359051 | [359051-void-jump-vr.json](./359051-void-jump-vr.json) |
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
 | Void Link | 81252 | [81252-void-link.json](./81252-void-link.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
