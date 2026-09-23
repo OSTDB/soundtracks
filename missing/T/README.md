@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
 | Tantal | 159801 | [159801-tantal.json](./159801-tantal.json) |
+| Tantei Gakuen Q: Kioukan no Satsui | 359064 | [359064-tantei-gakuen-q-kioukan-no-satsui.json](./359064-tantei-gakuen-q-kioukan-no-satsui.json) |
 | Tantei Jinguji Saburo Series No. 02: Yokohama-ko Renzoku Satsujin Jiken | 347247 | [347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json](./347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json) |
 | Tantei Jinguji Saburo Series No. 03: Kiken na Futari | 347248 | [347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json](./347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json) |
 | Tantei Jinguji Saburo Series No. 04: Toki no Sugiyuku Mama ni... | 347250 | [347250-tantei-jinguji-saburo-series-no-04-toki-no-sugiyuku-mama-ni.json](./347250-tantei-jinguji-saburo-series-no-04-toki-no-sugiyuku-mama-ni.json) |
@@ -1863,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
 | Tetris Plus | 254518 | [254518-tetris-plus.json](./254518-tetris-plus.json) |
 | Tetris Pro | 95421 | [95421-tetris-pro.json](./95421-tetris-pro.json) |
+| Tetris Rosy Retrospection DX | 359081 | [359081-tetris-rosy-retrospection-dx.json](./359081-tetris-rosy-retrospection-dx.json) |
 | Tetris Secret | 130931 | [130931-tetris-secret.json](./130931-tetris-secret.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
@@ -5403,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguins of Madagascar: Mission Madness | 231385 | [231385-the-penguins-of-madagascar-mission-madness.json](./231385-the-penguins-of-madagascar-mission-madness.json) |
 | The Penguins of Madagascar: Operation Plushy Rescue | 230396 | [230396-the-penguins-of-madagascar-operation-plushy-rescue.json](./230396-the-penguins-of-madagascar-operation-plushy-rescue.json) |
 | The Penumbra Collection | 51891 | [51891-the-penumbra-collection.json](./51891-the-penumbra-collection.json) |
+| The People of Sea, Sun & Salt | 359040 | [359040-the-people-of-sea-sun-and-salt.json](./359040-the-people-of-sea-sun-and-salt.json) |
 | The People's House | 396900 | [396900-the-peoples-house.json](./396900-the-peoples-house.json) |
 | The People's Sky | 408256 | [408256-the-peoples-sky.json](./408256-the-peoples-sky.json) |
 | The Pepper Prince: Episode 1 - Red Hot Chili Wedding | 113532 | [113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json](./113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json) |
@@ -5627,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Baron | 111660 | [111660-the-red-baron.json](./111660-the-red-baron.json) |
 | The Red Bell’s Lament | 276734 | [276734-the-red-bell-s-lament.json](./276734-the-red-bell-s-lament.json) |
 | The Red Button | 289969 | [289969-the-red-button.json](./289969-the-red-button.json) |
+| The Red Cathedral | 359042 | [359042-the-red-cathedral.json](./359042-the-red-cathedral.json) |
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
 | The Red Hood | 193482 | [193482-the-red-hood.json](./193482-the-red-hood.json) |
 | The Red Juggernaut | 272385 | [272385-the-red-juggernaut.json](./272385-the-red-juggernaut.json) |
@@ -8824,6 +8828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
 | Toastling | 192321 | [192321-toastling.json](./192321-toastling.json) |
 | Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
+| Tob Run | 359062 | [359062-tob-run.json](./359062-tob-run.json) |
 | TOBAFCASS | 12887 | [12887-tobafcass.json](./12887-tobafcass.json) |
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
 | Tobari 2: Dream Ocean | 135815 | [135815-tobari-2-dream-ocean.json](./135815-tobari-2-dream-ocean.json) |
