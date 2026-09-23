@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Souls | 412504 | [412504-marble-souls.json](./412504-marble-souls.json) |
 | Marble Void | 33235 | [33235-marble-void.json](./33235-marble-void.json) |
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
+| Marble's Marbles | 384201 | [384201-marbles-marbles.json](./384201-marbles-marbles.json) |
 | Marbled Memories | 416805 | [416805-marbled-memories.json](./416805-marbled-memories.json) |
 | Marblelous Animals | 120174 | [120174-marblelous-animals.json](./120174-marblelous-animals.json) |
 | Marbleous Blocks | 163825 | [163825-marbleous-blocks.json](./163825-marbleous-blocks.json) |
@@ -2467,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Kingdom Wars: Royal Blood | 213487 | [213487-medieval-kingdom-wars-royal-blood.json](./213487-medieval-kingdom-wars-royal-blood.json) |
 | Medieval Lands | 412430 | [412430-medieval-lands.json](./412430-medieval-lands.json) |
 | Medieval Legacy | 333011 | [333011-medieval-legacy.json](./333011-medieval-legacy.json) |
+| Medieval Life Simulator | 384222 | [384222-medieval-life-simulator.json](./384222-medieval-life-simulator.json) |
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Market | 387027 | [387027-medieval-market.json](./387027-medieval-market.json) |
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
@@ -6441,6 +6443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multimaker | 109748 | [109748-multimaker.json](./109748-multimaker.json) |
 | Multimedia Cats | 194441 | [194441-multimedia-cats.json](./194441-multimedia-cats.json) |
 | Multimedia Dinosaurs | 98941 | [98941-multimedia-dinosaurs.json](./98941-multimedia-dinosaurs.json) |
+| Multiplayer Citizens | 384206 | [384206-multiplayer-citizens.json](./384206-multiplayer-citizens.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
 | Multiplayer RPG | 307737 | [307737-multiplayer-rpg.json](./307737-multiplayer-rpg.json) |
@@ -6761,6 +6764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bath Tub Companion | 304583 | [304583-my-bath-tub-companion.json](./304583-my-bath-tub-companion.json) |
 | My Beastly Lovers | 82476 | [82476-my-beastly-lovers.json](./82476-my-beastly-lovers.json) |
 | My Beautiful Faraway, Please Don't Be Cruel to Me | 399059 | [399059-my-beautiful-faraway-please-dont-be-cruel-to-me.json](./399059-my-beautiful-faraway-please-dont-be-cruel-to-me.json) |
+| My Beautiful Misinterpretation of Words | 384229 | [384229-my-beautiful-misinterpretation-of-words.json](./384229-my-beautiful-misinterpretation-of-words.json) |
 | My Best Friend Kouta | 245887 | [245887-my-best-friend-kouta.json](./245887-my-best-friend-kouta.json) |
 | My Best Friends: Cats & Dogs | 17043 | [17043-my-best-friends-cats-and-dogs.json](./17043-my-best-friends-cats-and-dogs.json) |
 | My Best Life My Pest Life | 393118 | [393118-my-best-life-my-pest-life.json](./393118-my-best-life-my-pest-life.json) |
