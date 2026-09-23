@@ -1807,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Survivor | 240556 | [240556-deep-rock-galactic-survivor.json](./240556-deep-rock-galactic-survivor.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
+| Deep Saturation | 359071 | [359071-deep-saturation.json](./359071-deep-saturation.json) |
 | Deep Scan | 80208 | [80208-deep-scan.json](./80208-deep-scan.json) |
 | Deep Scanner | 287778 | [287778-deep-scanner.json](./287778-deep-scanner.json) |
 | Deep Sea | 124155 | [124155-deep-sea.json](./124155-deep-sea.json) |
@@ -2380,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dereology Chime | 409782 | [409782-dereology-chime.json](./409782-dereology-chime.json) |
 | Derf Party | 303475 | [303475-derf-party.json](./303475-derf-party.json) |
 | Deriva | 348329 | [348329-deriva.json](./348329-deriva.json) |
+| Dermapis | 359056 | [359056-dermapis.json](./359056-dermapis.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
 | Derpy Pirates! The Search for the Bungalow | 126425 | [126425-derpy-pirates-the-search-for-the-bungalow.json](./126425-derpy-pirates-the-search-for-the-bungalow.json) |
@@ -4295,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
 | Don't Look at Grandma | 375820 | [375820-dont-look-at-grandma.json](./375820-dont-look-at-grandma.json) |
 | Don't Look Away | 221188 | [221188-dont-look-away.json](./221188-dont-look-away.json) |
+| Don't Look Away 2 | 359078 | [359078-dont-look-away-2.json](./359078-dont-look-away-2.json) |
 | Don't Look Back | 343785 | [343785-dont-look-back.json](./343785-dont-look-back.json) |
 | Don't Look Down | 107877 | [107877-dont-look-down.json](./107877-dont-look-down.json) |
 | Don't Look Down | 186244 | [186244-dont-look-down.json](./186244-dont-look-down.json) |
