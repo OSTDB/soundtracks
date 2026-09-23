@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
 | Aces Over Europe | 12386 | [12386-aces-over-europe.json](./12386-aces-over-europe.json) |
 | Aces Up Solitaire card game | 90400 | [90400-aces-up-solitaire-card-game.json](./90400-aces-up-solitaire-card-game.json) |
+| Aces Up! | 366399 | [366399-aces-up.json](./366399-aces-up.json) |
 | Aces: The Complete Collector's Edition | 206206 | [206206-aces-the-complete-collectors-edition.json](./206206-aces-the-complete-collectors-edition.json) |
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
 | Acheron | 154386 | [154386-acheron.json](./154386-acheron.json) |
@@ -4952,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
+| Astar Solis | 366396 | [366396-astar-solis.json](./366396-astar-solis.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
 | Astellia | 113957 | [113957-astellia.json](./113957-astellia.json) |
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
@@ -5946,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
 | Aztec Adventure | 45668 | [45668-aztec-adventure.json](./45668-aztec-adventure.json) |
+| Aztec Mayhem! | 366405 | [366405-aztec-mayhem.json](./366405-aztec-mayhem.json) |
 | Aztec Solitaire | 91345 | [91345-aztec-solitaire.json](./91345-aztec-solitaire.json) |
 | Aztec Tower | 114332 | [114332-aztec-tower.json](./114332-aztec-tower.json) |
 | Aztlán Codex: El códice de los ancestros | 304684 | [304684-aztlan-codex-el-codice-de-los-ancestros.json](./304684-aztlan-codex-el-codice-de-los-ancestros.json) |
