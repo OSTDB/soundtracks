@@ -5943,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimzon Clover: World EXplosion | 140395 | [140395-crimzon-clover-world-explosion.json](./140395-crimzon-clover-world-explosion.json) |
 | Crimzon Clover: World Ignition | 8763 | [8763-crimzon-clover-world-ignition.json](./8763-crimzon-clover-world-ignition.json) |
 | Cringegolf | 296386 | [296386-cringegolf.json](./296386-cringegolf.json) |
+| Crisálida | 381284 | [381284-crisalida.json](./381284-crisalida.json) |
 | Crisis Action | 86093 | [86093-crisis-action.json](./86093-crisis-action.json) |
 | Crisis Action VR | 51500 | [51500-crisis-action-vr.json](./51500-crisis-action-vr.json) |
 | Crisis Beat | 4136 | [4136-crisis-beat.json](./4136-crisis-beat.json) |
@@ -6099,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Miracles | 316647 | [316647-crossing-miracles.json](./316647-crossing-miracles.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
+| Crossmath | 381273 | [381273-crossmath.json](./381273-crossmath.json) |
 | Crossnumber: Math Puzzle Game | 232543 | [232543-crossnumber-math-puzzle-game.json](./232543-crossnumber-math-puzzle-game.json) |
 | Crossout: “Phantom” | 331997 | [331997-crossout-phantom.json](./331997-crossout-phantom.json) |
 | Crossout: Arsonist Pack | 226820 | [226820-crossout-arsonist-pack.json](./226820-crossout-arsonist-pack.json) |
@@ -6149,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
 | Crossword Explorer | 406089 | [406089-crossword-explorer.json](./406089-crossword-explorer.json) |
 | Crossword Go | 303106 | [303106-crossword-go.json](./303106-crossword-go.json) |
+| Crossword Master | 381272 | [381272-crossword-master.json](./381272-crossword-master.json) |
 | Crossword Puzzle | 286096 | [286096-crossword-puzzle.json](./286096-crossword-puzzle.json) |
 | Crosswords | 89675 | [89675-crosswords.json](./89675-crosswords.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
