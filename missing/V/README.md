@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Race | 164900 | [164900-vector-race.json](./164900-vector-race.json) |
 | Vector Racing | 64690 | [64690-vector-racing.json](./64690-vector-racing.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
+| Vector Sector | 386996 | [386996-vector-sector.json](./386996-vector-sector.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
 | Vector Thrust | 16557 | [16557-vector-thrust.json](./16557-vector-thrust.json) |
 | Vector Vaders | 41983 | [41983-vector-vaders.json](./41983-vector-vaders.json) |
