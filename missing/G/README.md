@@ -3360,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
 | Groove Adventure Rave: Hikari to Yami no Daikessen | 49597 | [49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json](./49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json) |
 | Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
+| Groove Coaster + Touhou All DLC Bundle | 362481 | [362481-groove-coaster-touhou-all-dlc-bundle.json](./362481-groove-coaster-touhou-all-dlc-bundle.json) |
 | Groove Coaster + Undertale DLC Bundle | 362273 | [362273-groove-coaster-undertale-dlc-bundle.json](./362273-groove-coaster-undertale-dlc-bundle.json) |
 | Groove Coaster 2 Heavenly Festival | 126464 | [126464-groove-coaster-2-heavenly-festival.json](./126464-groove-coaster-2-heavenly-festival.json) |
 | Groove Coaster 3 Link Fever | 126465 | [126465-groove-coaster-3-link-fever.json](./126465-groove-coaster-3-link-fever.json) |
