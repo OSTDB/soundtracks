@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
 | Veggy World | 51156 | [51156-veggy-world.json](./51156-veggy-world.json) |
 | Veigues Tactical Gladiator | 37733 | [37733-veigues-tactical-gladiator.json](./37733-veigues-tactical-gladiator.json) |
+| Veil of Ashes | 350025 | [350025-veil-of-ashes.json](./350025-veil-of-ashes.json) |
 | Veil of Clay | 262951 | [262951-veil-of-clay.json](./262951-veil-of-clay.json) |
 | Veil of Torment | 351686 | [351686-veil-of-torment.json](./351686-veil-of-torment.json) |
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
@@ -1310,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vomitoreum | 142271 | [142271-vomitoreum.json](./142271-vomitoreum.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodoo Dolls | 319806 | [319806-voodoo-dolls.json](./319806-voodoo-dolls.json) |
+| Voodoo Fishin' | 350020 | [350020-voodoo-fishin.json](./350020-voodoo-fishin.json) |
 | Voodoo Nights | 77329 | [77329-voodoo-nights.json](./77329-voodoo-nights.json) |
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
 | Voodoo Whisperer Curse of a Legend | 17202 | [17202-voodoo-whisperer-curse-of-a-legend.json](./17202-voodoo-whisperer-curse-of-a-legend.json) |
