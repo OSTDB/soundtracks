@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
 | Walkabout Mini Golf: Blokhaven | 408259 | [408259-walkabout-mini-golf-blokhaven.json](./408259-walkabout-mini-golf-blokhaven.json) |
+| Walkabout Mini Golf: Forgotten Fairyland | 372655 | [372655-walkabout-mini-golf-forgotten-fairyland.json](./372655-walkabout-mini-golf-forgotten-fairyland.json) |
 | Walkabout Mini Golf: Mars Gardens | 360019 | [360019-walkabout-mini-golf-mars-gardens.json](./360019-walkabout-mini-golf-mars-gardens.json) |
 | Walkabout Mini Golf: Mount Olympus | 334481 | [334481-walkabout-mini-golf-mount-olympus.json](./334481-walkabout-mini-golf-mount-olympus.json) |
 | Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
@@ -2179,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Island II | 82367 | [82367-witch-island-ii.json](./82367-witch-island-ii.json) |
 | Witch It | 30408 | [30408-witch-it.json](./30408-witch-it.json) |
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
+| Witch Play House | 372689 | [372689-witch-play-house.json](./372689-witch-play-house.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
 | Witch Ring Meister | 116867 | [116867-witch-ring-meister.json](./116867-witch-ring-meister.json) |
 | Witch Sacrifice | 192887 | [192887-witch-sacrifice.json](./192887-witch-sacrifice.json) |
@@ -2513,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
 | Wonky Works! | 189051 | [189051-wonky-works.json](./189051-wonky-works.json) |
 | Woo Woo | 388919 | [388919-woo-woo.json](./388919-woo-woo.json) |
+| Wood & Flesh Chapter 2 | 372696 | [372696-wood-and-flesh-chapter-2.json](./372696-wood-and-flesh-chapter-2.json) |
 | Wood & Weather | 212817 | [212817-wood-and-weather.json](./212817-wood-and-weather.json) |
 | Wood and Water and Rock | 136422 | [136422-wood-and-water-and-rock.json](./136422-wood-and-water-and-rock.json) |
 | Wood Block 99 | 219828 | [219828-wood-block-99.json](./219828-wood-block-99.json) |
