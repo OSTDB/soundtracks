@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Cube: Space | 130754 | [130754-video-cube-space.json](./130754-video-cube-space.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Game Menu: The Game | 399846 | [399846-video-game-menu-the-game.json](./399846-video-game-menu-the-game.json) |
+| Video Game Tutorial | 365277 | [365277-video-game-tutorial.json](./365277-video-game-tutorial.json) |
 | Video Hustler | 38557 | [38557-video-hustler.json](./38557-video-hustler.json) |
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
@@ -1219,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Warfare | 148889 | [148889-void-warfare.json](./148889-void-warfare.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
 | Void: Edge of Existence | 235847 | [235847-void-edge-of-existence.json](./235847-void-edge-of-existence.json) |
+| Void: Icarus | 365254 | [365254-void-icarus.json](./365254-void-icarus.json) |
 | void.Resign | 130329 | [130329-void-resign.json](./130329-void-resign.json) |
 | Void's Rage | 381274 | [381274-voids-rage.json](./381274-voids-rage.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
