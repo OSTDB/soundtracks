@@ -1936,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Quack | 332986 | [332986-escape-the-quack.json](./332986-escape-the-quack.json) |
 | Escape the Room | 108954 | [108954-escape-the-room.json](./108954-escape-the-room.json) |
 | Escape the Room Inscryption Door | 221715 | [221715-escape-the-room-inscryption-door.json](./221715-escape-the-room-inscryption-door.json) |
+| Escape the School | 355217 | [355217-escape-the-school.json](./355217-escape-the-school.json) |
 | Escape the Tank | 153362 | [153362-escape-the-tank.json](./153362-escape-the-tank.json) |
 | Escape the Undertaker | 256839 | [256839-escape-the-undertaker.json](./256839-escape-the-undertaker.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Witchdoctor Mega Man Set | 298330 | [298330-exoprimal-witchdoctor-mega-man-set.json](./298330-exoprimal-witchdoctor-mega-man-set.json) |
 | Exoprimal: Witchdoctor UFO Set | 256551 | [256551-exoprimal-witchdoctor-ufo-set.json](./256551-exoprimal-witchdoctor-ufo-set.json) |
 | Exoprimal: Zephyr Security Guard Set | 256548 | [256548-exoprimal-zephyr-security-guard-set.json](./256548-exoprimal-zephyr-security-guard-set.json) |
+| Exorcism Agency | 355208 | [355208-exorcism-agency.json](./355208-exorcism-agency.json) |
 | Exorcism: Case Zero | 72489 | [72489-exorcism-case-zero.json](./72489-exorcism-case-zero.json) |
 | Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
