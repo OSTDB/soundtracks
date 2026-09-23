@@ -3697,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorder | 229817 | [229817-disorder.json](./229817-disorder.json) |
 | Disorderly | 356625 | [356625-disorderly.json](./356625-disorderly.json) |
 | Disoriented | 76212 | [76212-disoriented.json](./76212-disoriented.json) |
+| Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
 | Dispersio | 26489 | [26489-dispersio.json](./26489-dispersio.json) |
 | Dispersio 2 | 143652 | [143652-dispersio-2.json](./143652-dispersio-2.json) |
 | Dispersion Storm | 399835 | [399835-dispersion-storm.json](./399835-dispersion-storm.json) |
@@ -3894,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | dMuse | 98978 | [98978-dmuse.json](./98978-dmuse.json) |
 | DMX Presents: Unnecessary Hypeman Hero | 138266 | [138266-dmx-presents-unnecessary-hypeman-hero.json](./138266-dmx-presents-unnecessary-hypeman-hero.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
+| DMZ: Nuclear Survival | 340001 | [340001-dmz-nuclear-survival.json](./340001-dmz-nuclear-survival.json) |
 | DNA 1: Finale | 311106 | [311106-dna-1-finale.json](./311106-dna-1-finale.json) |
 | DNA Nemesis | 415147 | [415147-dna-nemesis.json](./415147-dna-nemesis.json) |
 | DNA: Episode 1 | 280315 | [280315-dna-episode-1.json](./280315-dna-episode-1.json) |
