@@ -1078,6 +1078,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
 | Fatal Frame | 5106 | [5106-fatal-frame.json](./5106-fatal-frame.json) |
 | Fatal Frame II: Crimson Butterfly - Director's Cut | 24161 | [24161-fatal-frame-ii-crimson-butterfly-directors-cut.json](./24161-fatal-frame-ii-crimson-butterfly-directors-cut.json) |
+| Fatal Frame II: Crimson Butterfly Remake - Digital Deluxe Bonus Set | 387682 | [387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json](./387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json) |
+| Fatal Frame II: Crimson Butterfly Remake - Digital Deluxe Edition | 387683 | [387683-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-edition.json](./387683-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-edition.json) |
+| Fatal Frame II: Crimson Butterfly Remake - Early Purchase Bonus Set | 387684 | [387684-fatal-frame-ii-crimson-butterfly-remake-early-purchase-bonus-set.json](./387684-fatal-frame-ii-crimson-butterfly-remake-early-purchase-bonus-set.json) |
 | Fatal Frame: Maiden of Black Water - Digital Deluxe Edition | 188050 | [188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json](./188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json) |
 | Fatal Frontier 1869 | 396362 | [396362-fatal-frontier-1869.json](./396362-fatal-frontier-1869.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
