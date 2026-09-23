@@ -5827,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Comets | 13832 | [13832-crazy-comets.json](./13832-crazy-comets.json) |
 | Crazy Cop | 39676 | [39676-crazy-cop.json](./39676-crazy-cop.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
+| Crazy Crab 2 | 354088 | [354088-crazy-crab-2.json](./354088-crazy-crab-2.json) |
 | Crazy Critters: Combat Cats | 122198 | [122198-crazy-critters-combat-cats.json](./122198-crazy-critters-combat-cats.json) |
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
