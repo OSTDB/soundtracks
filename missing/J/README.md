@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
 | Jumphobia XL | 57047 | [57047-jumphobia-xl.json](./57047-jumphobia-xl.json) |
 | Jumphobia: Homeward Bound | 190170 | [190170-jumphobia-homeward-bound.json](./190170-jumphobia-homeward-bound.json) |
+| Jumping Boy | 362478 | [362478-jumping-boy.json](./362478-jumping-boy.json) |
 | Jumping Challenge | 296927 | [296927-jumping-challenge.json](./296927-jumping-challenge.json) |
 | Jumping Cross | 40200 | [40200-jumping-cross.json](./40200-jumping-cross.json) |
 | Jumping Doduo | 69834 | [69834-jumping-doduo.json](./69834-jumping-doduo.json) |
@@ -1208,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Blocks | 67967 | [67967-jungle-blocks.json](./67967-jungle-blocks.json) |
 | Jungle Bloody Operation | 287788 | [287788-jungle-bloody-operation.json](./287788-jungle-bloody-operation.json) |
 | Jungle Book | 131532 | [131532-jungle-book.json](./131532-jungle-book.json) |
+| Jungle Boy | 362455 | [362455-jungle-boy.json](./362455-jungle-boy.json) |
 | Jungle Catz | 291786 | [291786-jungle-catz.json](./291786-jungle-catz.json) |
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
