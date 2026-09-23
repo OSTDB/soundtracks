@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
+| O Horror Amarelo | 338939 | [338939-o-horror-amarelo.json](./338939-o-horror-amarelo.json) |
 | O Rei | 121649 | [121649-o-rei.json](./121649-o-rei.json) |
 | O reino em outro mundo | 315131 | [315131-o-reino-em-outro-mundo.json](./315131-o-reino-em-outro-mundo.json) |
 | O Vagabundo | 290018 | [290018-o-vagabundo.json](./290018-o-vagabundo.json) |
@@ -500,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okiraku Golf 3D | 222293 | [222293-okiraku-golf-3d.json](./222293-okiraku-golf-3d.json) |
 | Okiraku Ping Pong 3D | 222329 | [222329-okiraku-ping-pong-3d.json](./222329-okiraku-ping-pong-3d.json) |
 | Okiro | 371886 | [371886-okiro.json](./371886-okiro.json) |
+| Okko the Exiled | 338923 | [338923-okko-the-exiled.json](./338923-okko-the-exiled.json) |
 | Okkotoshi Puzzle Tonjan!? | 60799 | [60799-okkotoshi-puzzle-tonjan.json](./60799-okkotoshi-puzzle-tonjan.json) |
 | Oko | 128559 | [128559-oko.json](./128559-oko.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
