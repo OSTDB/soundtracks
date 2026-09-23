@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
 | Casanova Simulator | 373085 | [373085-casanova-simulator.json](./373085-casanova-simulator.json) |
 | Cascade | 128645 | [128645-cascade.json](./128645-cascade.json) |
+| Cascade | 352412 | [352412-cascade.json](./352412-cascade.json) |
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
 | Cascadia Quest | 154564 | [154564-cascadia-quest.json](./154564-cascadia-quest.json) |
 | Case | 323550 | [323550-case.json](./323550-case.json) |
@@ -5159,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party | 11600 | [11600-corpse-party.json](./11600-corpse-party.json) |
 | Corpse Party | 178111 | [178111-corpse-party.json](./178111-corpse-party.json) |
 | Corpse Party D2: Depths of Despair | 170023 | [170023-corpse-party-d2-depths-of-despair.json](./170023-corpse-party-d2-depths-of-despair.json) |
+| Corpse Party Tetralogy Pack | 352377 | [352377-corpse-party-tetralogy-pack.json](./352377-corpse-party-tetralogy-pack.json) |
 | Corpse Party: Back to School Edition - Limited Edition | 89891 | [89891-corpse-party-back-to-school-edition-limited-edition.json](./89891-corpse-party-back-to-school-edition-limited-edition.json) |
 | Corpse Party: Blood Drive | 11000 | [11000-corpse-party-blood-drive.json](./11000-corpse-party-blood-drive.json) |
 | Corpse Party: Book of Shadows | 11318 | [11318-corpse-party-book-of-shadows.json](./11318-corpse-party-book-of-shadows.json) |
