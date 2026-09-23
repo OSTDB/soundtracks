@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
 | Charon: Zhetan Chronicles | 253441 | [253441-charon-zhetan-chronicles.json](./253441-charon-zhetan-chronicles.json) |
 | Charon's Crossing | 264692 | [264692-charons-crossing.json](./264692-charons-crossing.json) |
+| Charon's Obol | 363052 | [363052-charons-obol.json](./363052-charons-obol.json) |
 | Charon's Sabbath | 280904 | [280904-charons-sabbath.json](./280904-charons-sabbath.json) |
 | Charon's Staircase | 201775 | [201775-charons-staircase.json](./201775-charons-staircase.json) |
 | Charon's Staircase: Digital Deluxe Edition | 250417 | [250417-charons-staircase-digital-deluxe-edition.json](./250417-charons-staircase-digital-deluxe-edition.json) |
@@ -2598,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chobits: Atashi Dake no Hito | 78730 | [78730-chobits-atashi-dake-no-hito.json](./78730-chobits-atashi-dake-no-hito.json) |
 | Chobits: Chii Dake no Hito | 65457 | [65457-chobits-chii-dake-no-hito.json](./65457-chobits-chii-dake-no-hito.json) |
 | Choc N Roll | 281995 | [281995-choc-n-roll.json](./281995-choc-n-roll.json) |
+| Choco Kiosk Simulator | 363019 | [363019-choco-kiosk-simulator.json](./363019-choco-kiosk-simulator.json) |
 | Choco Pixel 6 | 158060 | [158060-choco-pixel-6.json](./158060-choco-pixel-6.json) |
 | Choco Pixel 7 | 158591 | [158591-choco-pixel-7.json](./158591-choco-pixel-7.json) |
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
@@ -6909,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Queen : Wicked Witch | 105371 | [105371-cursed-queen-wicked-witch.json](./105371-cursed-queen-wicked-witch.json) |
 | Cursed Realm | 258722 | [258722-cursed-realm.json](./258722-cursed-realm.json) |
 | Cursed Roots | 36507 | [36507-cursed-roots.json](./36507-cursed-roots.json) |
+| Cursed Shorts | 363058 | [363058-cursed-shorts.json](./363058-cursed-shorts.json) |
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
 | Cursed Spire | 195250 | [195250-cursed-spire.json](./195250-cursed-spire.json) |
 | Cursed Swamp Escape 3 | 315470 | [315470-cursed-swamp-escape-3.json](./315470-cursed-swamp-escape-3.json) |
