@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy | 213049 | [213049-legacy.json](./213049-legacy.json) |
 | Legacy | 23896 | [23896-legacy.json](./23896-legacy.json) |
 | Legacy | 345513 | [345513-legacy.json](./345513-legacy.json) |
+| Legacy | 356887 | [356887-legacy.json](./356887-legacy.json) |
 | Legacy | 377594 | [377594-legacy.json](./377594-legacy.json) |
 | Legacy | 401477 | [401477-legacy.json](./401477-legacy.json) |
 | Legacy 1917 | 211724 | [211724-legacy-1917.json](./211724-legacy-1917.json) |
@@ -1264,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lerry the Cube | 102117 | [102117-lerry-the-cube.json](./102117-lerry-the-cube.json) |
 | Les aventures de T'choupi a l'ecole | 269653 | [269653-les-aventures-de-tchoupi-a-lecole.json](./269653-les-aventures-de-tchoupi-a-lecole.json) |
 | Les Cartes Poker | 415968 | [415968-les-cartes-poker.json](./415968-les-cartes-poker.json) |
+| Les Chevaliers de l'An Mil | 356870 | [356870-les-chevaliers-de-lan-mil.json](./356870-les-chevaliers-de-lan-mil.json) |
 | Les Guignols de l'info: Le Cauchemar de PPD | 306964 | [306964-les-guignols-de-linfo-le-cauchemar-de-ppd.json](./306964-les-guignols-de-linfo-le-cauchemar-de-ppd.json) |
 | Les Habitants Del Soleil | 177993 | [177993-les-habitants-del-soleil.json](./177993-les-habitants-del-soleil.json) |
 | Les Heures Bleues: Sang sur pierre à Pétrichor | 394172 | [394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json](./394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json) |
@@ -1498,6 +1500,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
 | Lewd Island | 385875 | [385875-lewd-island.json](./385875-lewd-island.json) |
+| Lewd Mod 2 | 356871 | [356871-lewd-mod-2.json](./356871-lewd-mod-2.json) |
+| Lewd Mod: Noir | 356876 | [356876-lewd-mod-noir.json](./356876-lewd-mod-noir.json) |
 | Lewd Puzzle | 368111 | [368111-lewd-puzzle.json](./368111-lewd-puzzle.json) |
 | Lewdle | 197867 | [197867-lewdle.json](./197867-lewdle.json) |
 | LewdQuest | 149433 | [149433-lewdquest.json](./149433-lewdquest.json) |
@@ -2426,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loca-Love My Commuting Crush | 120792 | [120792-loca-love-my-commuting-crush.json](./120792-loca-love-my-commuting-crush.json) |
 | Loca-Love My Cute Roommate | 110774 | [110774-loca-love-my-cute-roommate.json](./110774-loca-love-my-cute-roommate.json) |
 | Loca-Love: My Pure Priestess | 146302 | [146302-loca-love-my-pure-priestess.json](./146302-loca-love-my-pure-priestess.json) |
+| Local Area Dungeon | 356860 | [356860-local-area-dungeon.json](./356860-local-area-dungeon.json) |
 | Local Network | 178019 | [178019-local-network.json](./178019-local-network.json) |
 | Local Paper Small Town | 195181 | [195181-local-paper-small-town.json](./195181-local-paper-small-town.json) |
 | Local Zombies | 389712 | [389712-local-zombies.json](./389712-local-zombies.json) |
