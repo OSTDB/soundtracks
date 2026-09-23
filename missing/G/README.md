@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilded | 81768 | [81768-gilded.json](./81768-gilded.json) |
 | Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
 | Gilgamesh II | 276275 | [276275-gilgamesh-ii.json](./276275-gilgamesh-ii.json) |
+| Gilly and the Isle of Sorrow | 340024 | [340024-gilly-and-the-isle-of-sorrow.json](./340024-gilly-and-the-isle-of-sorrow.json) |
 | Gilroy's Grove | 376456 | [376456-gilroys-grove.json](./376456-gilroys-grove.json) |
 | Gilt | 378214 | [378214-gilt.json](./378214-gilt.json) |
 | Gimbal | 16677 | [16677-gimbal.json](./16677-gimbal.json) |
