@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 3 | 14980 | [14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json](./14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json) |
 | Penny Dell Jumbo Crosswords | 89199 | [89199-penny-dell-jumbo-crosswords.json](./89199-penny-dell-jumbo-crosswords.json) |
 | Penny Dell Jumbo Crosswords 2 | 204494 | [204494-penny-dell-jumbo-crosswords-2.json](./204494-penny-dell-jumbo-crosswords-2.json) |
+| Penny For Your Thoughts | 367052 | [367052-penny-for-your-thoughts.json](./367052-penny-for-your-thoughts.json) |
 | Penny Racers | 133238 | [133238-penny-racers.json](./133238-penny-racers.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
@@ -5154,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Zombie Soccer AE | 90347 | [90347-pro-zombie-soccer-ae.json](./90347-pro-zombie-soccer-ae.json) |
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
 | Probability 0 | 16739 | [16739-probability-0.json](./16739-probability-0.json) |
+| Probably Nothing | 367054 | [367054-probably-nothing.json](./367054-probably-nothing.json) |
 | Probationary Girlfriend | 266319 | [266319-probationary-girlfriend.json](./266319-probationary-girlfriend.json) |
 | Probe One: The Transmitter | 24899 | [24899-probe-one-the-transmitter.json](./24899-probe-one-the-transmitter.json) |
 | Probe Team | 128600 | [128600-probe-team.json](./128600-probe-team.json) |
