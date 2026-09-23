@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexibble | 305344 | [305344-lexibble.json](./305344-lexibble.json) |
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
 | Lexicontainer | 183527 | [183527-lexicontainer.json](./183527-lexicontainer.json) |
+| Leximorph: Word Merge Game | 344534 | [344534-leximorph-word-merge-game.json](./344534-leximorph-word-merge-game.json) |
 | Lexis | 379596 | [379596-lexis.json](./379596-lexis.json) |
 | Lexispell | 376482 | [376482-lexispell.json](./376482-lexispell.json) |
 | Lexit | 58226 | [58226-lexit.json](./58226-lexit.json) |
@@ -1651,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
 | Life of Slime | 242057 | [242057-life-of-slime.json](./242057-life-of-slime.json) |
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
+| Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
 | Life Sim | 404409 | [404409-life-sim.json](./404409-life-sim.json) |
 | Life Sim | 90515 | [90515-life-sim.json](./90515-life-sim.json) |
@@ -2374,11 +2376,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Voice of the Sea | 187963 | [187963-living-legends-voice-of-the-sea.json](./187963-living-legends-voice-of-the-sea.json) |
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
 | Living Metal | 295406 | [295406-living-metal.json](./295406-living-metal.json) |
+| Living Nightmares: False Familiar | 344531 | [344531-living-nightmares-false-familiar.json](./344531-living-nightmares-false-familiar.json) |
 | Living Puzzles: Triazzle | 72023 | [72023-living-puzzles-triazzle.json](./72023-living-puzzles-triazzle.json) |
 | Living Shadows | 351727 | [351727-living-shadows.json](./351727-living-shadows.json) |
 | Living the Nightmare | 151144 | [151144-living-the-nightmare.json](./151144-living-the-nightmare.json) |
 | Living with an Elf: A Cozy Forest Retreat | 263195 | [263195-living-with-an-elf-a-cozy-forest-retreat.json](./263195-living-with-an-elf-a-cozy-forest-retreat.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
+| Living with My Little Sister | 344529 | [344529-living-with-my-little-sister.json](./344529-living-with-my-little-sister.json) |
 | Living World Racing | 174792 | [174792-living-world-racing.json](./174792-living-world-racing.json) |
 | Living_City | 330830 | [330830-living-city.json](./330830-living-city.json) |
 | LivingForest | 306374 | [306374-livingforest.json](./306374-livingforest.json) |
