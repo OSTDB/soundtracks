@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banshiryuu | 123606 | [123606-banshiryuu.json](./123606-banshiryuu.json) |
 | Bansoko | 179193 | [179193-bansoko.json](./179193-bansoko.json) |
 | Banui Moheom: Idle RPG | 219781 | [219781-banui-moheom-idle-rpg.json](./219781-banui-moheom-idle-rpg.json) |
+| Banyu: Reclaiming Hope | 347888 | [347888-banyu-reclaiming-hope.json](./347888-banyu-reclaiming-hope.json) |
 | Banzai Escape 2: Subterranean - KTactical | 297781 | [297781-banzai-escape-2-subterranean-ktactical.json](./297781-banzai-escape-2-subterranean-ktactical.json) |
 | Banzai Hentai! | 368516 | [368516-banzai-hentai.json](./368516-banzai-hentai.json) |
 | Banzai Mario World | 132855 | [132855-banzai-mario-world.json](./132855-banzai-mario-world.json) |
@@ -4650,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm | 8325 | [8325-bookworm.json](./8325-bookworm.json) |
 | Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
 | Bookyman | 229061 | [229061-bookyman.json](./229061-bookyman.json) |
+| Bool Capture | 347881 | [347881-bool-capture.json](./347881-bool-capture.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
 | Booly | 12406 | [12406-booly.json](./12406-booly.json) |
 | Boom | 172043 | [172043-boom.json](./172043-boom.json) |
@@ -5264,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Tank Hero | 210270 | [210270-brave-tank-hero.json](./210270-brave-tank-hero.json) |
 | Brave the Dungeon | 242224 | [242224-brave-the-dungeon.json](./242224-brave-the-dungeon.json) |
 | Brave: The Search for Spirit Dancer | 20689 | [20689-brave-the-search-for-spirit-dancer.json](./20689-brave-the-search-for-spirit-dancer.json) |
+| BraveCart | 347864 | [347864-bravecart.json](./347864-bravecart.json) |
 | Braveland | 8999 | [8999-braveland.json](./8999-braveland.json) |
 | Braveland Heroes | 110344 | [110344-braveland-heroes.json](./110344-braveland-heroes.json) |
 | Bravely Default | 4700 | [4700-bravely-default.json](./4700-bravely-default.json) |
@@ -5582,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brilliant Bob | 19484 | [19484-brilliant-bob.json](./19484-brilliant-bob.json) |
 | Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
 | Brimstone | 26957 | [26957-brimstone.json](./26957-brimstone.json) |
+| Brimstone | 347874 | [347874-brimstone.json](./347874-brimstone.json) |
 | Brimstone Brawlers | 105267 | [105267-brimstone-brawlers.json](./105267-brimstone-brawlers.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
@@ -6214,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burgaholic | 343793 | [343793-burgaholic.json](./343793-burgaholic.json) |
 | Burgal's Bounty | 205604 | [205604-burgals-bounty.json](./205604-burgals-bounty.json) |
 | Burger | 302367 | [302367-burger.json](./302367-burger.json) |
+| Burger Bois | 347908 | [347908-burger-bois.json](./347908-burger-bois.json) |
 | Burger Bots Inc. | 365101 | [365101-burger-bots-inc.json](./365101-burger-bots-inc.json) |
 | Burger Chef Tycoon | 122869 | [122869-burger-chef-tycoon.json](./122869-burger-chef-tycoon.json) |
 | Burger Chef Tycoon: Co-op Edition | 250363 | [250363-burger-chef-tycoon-co-op-edition.json](./250363-burger-chef-tycoon-co-op-edition.json) |
