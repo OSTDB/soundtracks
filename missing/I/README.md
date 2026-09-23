@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ICY: Frostbite Edition | 52095 | [52095-icy-frostbite-edition.json](./52095-icy-frostbite-edition.json) |
 | iD | 172035 | [172035-id.json](./172035-id.json) |
 | ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
+| iDate Reborn | 384190 | [384190-idate-reborn.json](./384190-idate-reborn.json) |
 | Idea | 204951 | [204951-idea.json](./204951-idea.json) |
 | Ideabox | 125953 | [125953-ideabox.json](./125953-ideabox.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
