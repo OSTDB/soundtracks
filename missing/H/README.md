@@ -545,6 +545,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Drummer VR | 29993 | [29993-happy-drummer-vr.json](./29993-happy-drummer-vr.json) |
 | Happy Empire | 31693 | [31693-happy-empire.json](./31693-happy-empire.json) |
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
+| Happy Farm: Field's Puzzle | 378421 | [378421-happy-farm-fields-puzzle.json](./378421-happy-farm-fields-puzzle.json) |
+| Happy Farm: Harvest Blast | 378420 | [378420-happy-farm-harvest-blast.json](./378420-happy-farm-harvest-blast.json) |
 | Happy Feet | 3940 | [3940-happy-feet.json](./3940-happy-feet.json) |
 | Happy Feet Two | 345552 | [345552-happy-feet-two.json](./345552-happy-feet-two.json) |
 | Happy Fishing | 61559 | [61559-happy-fishing.json](./61559-happy-fishing.json) |
