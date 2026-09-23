@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroSquad | 234042 | [234042-neurosquad.json](./234042-neurosquad.json) |
 | Neuroza | 335867 | [335867-neuroza.json](./335867-neuroza.json) |
 | Neuter Master | 372463 | [372463-neuter-master.json](./372463-neuter-master.json) |
+| Neutralized: Dark moon | 368680 | [368680-neutralized-dark-moon.json](./368680-neutralized-dark-moon.json) |
 | Neutrino | 212826 | [212826-neutrino.json](./212826-neutrino.json) |
 | Neutrois | 183580 | [183580-neutrois.json](./183580-neutrois.json) |
 | Neutron and the Tri-Spark | 166635 | [166635-neutron-and-the-tri-spark.json](./166635-neutron-and-the-tri-spark.json) |
