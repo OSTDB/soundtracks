@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game: Aloha | 102623 | [102623-escape-game-aloha.json](./102623-escape-game-aloha.json) |
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
+| Escape If You Can | 377280 | [377280-escape-if-you-can.json](./377280-escape-if-you-can.json) |
 | Escape if you can - Buried | 101499 | [101499-escape-if-you-can-buried.json](./101499-escape-if-you-can-buried.json) |
 | Escape Inc. | 310581 | [310581-escape-inc.json](./310581-escape-inc.json) |
 | Escape Initiative | 132659 | [132659-escape-initiative.json](./132659-escape-initiative.json) |
