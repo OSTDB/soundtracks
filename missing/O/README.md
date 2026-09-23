@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odonata Augmenta: Rogue Dragonfly | 415314 | [415314-odonata-augmenta-rogue-dragonfly.json](./415314-odonata-augmenta-rogue-dragonfly.json) |
 | Odyssee Die | 356843 | [356843-odyssee-die.json](./356843-odyssee-die.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
+| Odyssey Kingdoms Expansion | 344012 | [344012-odyssey-kingdoms-expansion.json](./344012-odyssey-kingdoms-expansion.json) |
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
@@ -588,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympus 2207 | 219118 | [219118-olympus-2207.json](./219118-olympus-2207.json) |
 | Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
+| Om Nom: Candy Flick | 343993 | [343993-om-nom-candy-flick.json](./343993-om-nom-candy-flick.json) |
 | Om Nom: Run - Costumes and Themes | 251666 | [251666-om-nom-run-costumes-and-themes.json](./251666-om-nom-run-costumes-and-themes.json) |
 | Om Nom: Run - Ultimate Edition | 251667 | [251667-om-nom-run-ultimate-edition.json](./251667-om-nom-run-ultimate-edition.json) |
 | Om Nom: Run & Om Nom: Run 2 | 363971 | [363971-om-nom-run-and-om-nom-run-2.json](./363971-om-nom-run-and-om-nom-run-2.json) |
@@ -1046,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Way | 202317 | [202317-one-way.json](./202317-one-way.json) |
 | One: Kagayaku Kisetsu he | 72705 | [72705-one-kagayaku-kisetsu-he.json](./72705-one-kagayaku-kisetsu-he.json) |
 | One's Lonesome, Two's Company | 212804 | [212804-ones-lonesome-twos-company.json](./212804-ones-lonesome-twos-company.json) |
+| One's Own Exile | 344011 | [344011-ones-own-exile.json](./344011-ones-own-exile.json) |
 | OneBit Arena | 223556 | [223556-onebit-arena.json](./223556-onebit-arena.json) |
 | OneBit Berzerk | 208430 | [208430-onebit-berzerk.json](./208430-onebit-berzerk.json) |
 | OneBit Frogger | 209651 | [209651-onebit-frogger.json](./209651-onebit-frogger.json) |
@@ -1078,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ongeki Bright Memory | 281570 | [281570-ongeki-bright-memory.json](./281570-ongeki-bright-memory.json) |
 | Ongeki Bright Memory Act.2 | 335953 | [335953-ongeki-bright-memory-act-2.json](./335953-ongeki-bright-memory-act-2.json) |
 | Ongeki Bright Memory Act.3 | 335954 | [335954-ongeki-bright-memory-act-3.json](./335954-ongeki-bright-memory-act-3.json) |
+| Ongeki Re:Fresh | 344013 | [344013-ongeki-re-fresh.json](./344013-ongeki-re-fresh.json) |
 | Oni | 2413 | [2413-oni.json](./2413-oni.json) |
 | Oni | 365784 | [365784-oni.json](./365784-oni.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
@@ -1938,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost 13 | 35744 | [35744-outpost-13.json](./35744-outpost-13.json) |
 | Outpost 2: Divided Destiny | 50138 | [50138-outpost-2-divided-destiny.json](./50138-outpost-2-divided-destiny.json) |
 | Outpost 3 | 312729 | [312729-outpost-3.json](./312729-outpost-3.json) |
+| Outpost Assault | 344021 | [344021-outpost-assault.json](./344021-outpost-assault.json) |
 | Outpost Delta | 123030 | [123030-outpost-delta.json](./123030-outpost-delta.json) |
 | Outpost Kaloki X | 20508 | [20508-outpost-kaloki-x.json](./20508-outpost-kaloki-x.json) |
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
