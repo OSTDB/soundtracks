@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Vaxx | 361788 | [361788-bad-vaxx.json](./361788-bad-vaxx.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
+| Bad-Boon Strikes Back | 341706 | [341706-bad-boon-strikes-back.json](./341706-bad-boon-strikes-back.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
@@ -1469,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Titans | 125849 | [125849-battle-of-titans.json](./125849-battle-of-titans.json) |
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
+| Battle Orb | 341657 | [341657-battle-orb.json](./341657-battle-orb.json) |
 | Battle Painters | 140542 | [140542-battle-painters.json](./140542-battle-painters.json) |
 | Battle Part | 209484 | [209484-battle-part.json](./209484-battle-part.json) |
 | Battle Phlinx | 366403 | [366403-battle-phlinx.json](./366403-battle-phlinx.json) |
@@ -1884,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasties | 192384 | [192384-beasties.json](./192384-beasties.json) |
 | Beasties of Greenhollow | 299465 | [299465-beasties-of-greenhollow.json](./299465-beasties-of-greenhollow.json) |
 | Beasties' Shelter | 346611 | [346611-beasties-shelter.json](./346611-beasties-shelter.json) |
+| Beastkeepers | 341671 | [341671-beastkeepers.json](./341671-beastkeepers.json) |
 | BeastLink | 400902 | [400902-beastlink.json](./400902-beastlink.json) |
 | Beastly Bites | 338201 | [338201-beastly-bites.json](./338201-beastly-bites.json) |
 | Beastly Tactics | 318400 | [318400-beastly-tactics.json](./318400-beastly-tactics.json) |
@@ -2807,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Boots' Treasure | 396548 | [396548-billy-boots-treasure.json](./396548-billy-boots-treasure.json) |
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
 | Billy Boy's Important Wine Lottery | 317404 | [317404-billy-boys-important-wine-lottery.json](./317404-billy-boys-important-wine-lottery.json) |
+| Billy Hatcher Hyper Shoot | 341688 | [341688-billy-hatcher-hyper-shoot.json](./341688-billy-hatcher-hyper-shoot.json) |
 | Billy Masters Was Right | 139402 | [139402-billy-masters-was-right.json](./139402-billy-masters-was-right.json) |
 | Billy Meets World | 121605 | [121605-billy-meets-world.json](./121605-billy-meets-world.json) |
 | Billy's Boot Camp: Wii de Enjoy Diet! | 136884 | [136884-billys-boot-camp-wii-de-enjoy-diet.json](./136884-billys-boot-camp-wii-de-enjoy-diet.json) |
@@ -3216,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hollow | 410993 | [410993-black-hollow.json](./410993-black-hollow.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
 | Black Ice Mod Advanced | 394546 | [394546-black-ice-mod-advanced.json](./394546-black-ice-mod-advanced.json) |
+| Black ICE/White Noise | 341681 | [341681-black-ice-white-noise.json](./341681-black-ice-white-noise.json) |
 | Black Idea | 370880 | [370880-black-idea.json](./370880-black-idea.json) |
 | Black Ink | 199495 | [199495-black-ink.json](./199495-black-ink.json) |
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
