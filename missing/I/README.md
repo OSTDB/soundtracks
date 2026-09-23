@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Fell in Love with the Mentally Unstable Depressed Goth on Campus | 410903 | [410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json](./410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json) |
 | I Fetch Rocks | 153351 | [153351-i-fetch-rocks.json](./153351-i-fetch-rocks.json) |
 | I Fought the Lawn | 223478 | [223478-i-fought-the-lawn.json](./223478-i-fought-the-lawn.json) |
+| I Found a Cat in the Rain | 383659 | [383659-i-found-a-cat-in-the-rain.json](./383659-i-found-a-cat-in-the-rain.json) |
 | I got a cat maid | 128013 | [128013-i-got-a-cat-maid.json](./128013-i-got-a-cat-maid.json) |
 | I Got a Millenary Cat | 197401 | [197401-i-got-a-millenary-cat.json](./197401-i-got-a-millenary-cat.json) |
 | I H8 Ur Face | 197910 | [197910-i-h8-ur-face.json](./197910-i-h8-ur-face.json) |
