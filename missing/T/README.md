@@ -8271,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiled Together | 326794 | [326794-tiled-together.json](./326794-tiled-together.json) |
 | TileDynasty FPS Arena | 90572 | [90572-tiledynasty-fps-arena.json](./90572-tiledynasty-fps-arena.json) |
 | Tilefinder | 196857 | [196857-tilefinder.json](./196857-tilefinder.json) |
+| TileGuesser | 363060 | [363060-tileguesser.json](./363060-tileguesser.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
 | Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
 | Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
@@ -9079,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
 | Tomato Way 2 | 104831 | [104831-tomato-way-2.json](./104831-tomato-way-2.json) |
 | Tomb Boom | 366232 | [366232-tomb-boom.json](./366232-tomb-boom.json) |
+| Tomb Cat | 363007 | [363007-tomb-cat.json](./363007-tomb-cat.json) |
 | Tomb Color: ASMR Maze Escape | 245374 | [245374-tomb-color-asmr-maze-escape.json](./245374-tomb-color-asmr-maze-escape.json) |
 | Tomb Guard VR | 28874 | [28874-tomb-guard-vr.json](./28874-tomb-guard-vr.json) |
 | Tomb Joe | 29874 | [29874-tomb-joe.json](./29874-tomb-joe.json) |
@@ -9232,6 +9234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Stewart's All-American Racing | 139980 | [139980-tony-stewarts-all-american-racing.json](./139980-tony-stewarts-all-american-racing.json) |
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
 | Tony Stewart's Sprint Car Racing | 129734 | [129734-tony-stewarts-sprint-car-racing.json](./129734-tony-stewarts-sprint-car-racing.json) |
+| Tony the Mole | 363012 | [363012-tony-the-mole.json](./363012-tony-the-mole.json) |
 | Tony Tough and the Night of Roasted Moths | 10792 | [10792-tony-tough-and-the-night-of-roasted-moths.json](./10792-tony-tough-and-the-night-of-roasted-moths.json) |
 | Tony's Crispy Crisps | 361745 | [361745-tonys-crispy-crisps.json](./361745-tonys-crispy-crisps.json) |
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
