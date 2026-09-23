@@ -3314,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Farm Tycoon | 395216 | [395216-shop-farm-tycoon.json](./395216-shop-farm-tycoon.json) |
 | Shop Heroes Legends: Idle RPG | 233118 | [233118-shop-heroes-legends-idle-rpg.json](./233118-shop-heroes-legends-idle-rpg.json) |
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
+| Shop it Up! | 377253 | [377253-shop-it-up.json](./377253-shop-it-up.json) |
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
 | Shop Simulator: Supermarket | 320721 | [320721-shop-simulator-supermarket.json](./320721-shop-simulator-supermarket.json) |
@@ -8644,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sentinel Tactics | 67329 | [67329-star-sentinel-tactics.json](./67329-star-sentinel-tactics.json) |
 | Star Sentry | 292129 | [292129-star-sentry.json](./292129-star-sentry.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
+| Star Sign | 377304 | [377304-star-sign.json](./377304-star-sign.json) |
 | Star Singularity | 104857 | [104857-star-singularity.json](./104857-star-singularity.json) |
 | Star Sky | 18015 | [18015-star-sky.json](./18015-star-sky.json) |
 | Star Sky 2 | 18462 | [18462-star-sky-2.json](./18462-star-sky-2.json) |
@@ -8902,6 +8904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
 | Stares Back | 375854 | [375854-stares-back.json](./375854-stares-back.json) |
 | Starexcess | 124248 | [124248-starexcess.json](./124248-starexcess.json) |
+| Starfall | 377279 | [377279-starfall.json](./377279-starfall.json) |
 | Starfall | 99376 | [99376-starfall.json](./99376-starfall.json) |
 | Starfall Defenders | 350433 | [350433-starfall-defenders.json](./350433-starfall-defenders.json) |
 | Starfall Numbers | 74753 | [74753-starfall-numbers.json](./74753-starfall-numbers.json) |
@@ -11572,6 +11575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid CRE 2 | 255373 | [255373-super-metroid-cre-2.json](./255373-super-metroid-cre-2.json) |
 | Super Metroid CRE 3 | 255371 | [255371-super-metroid-cre-3.json](./255371-super-metroid-cre-3.json) |
 | Super Metroid Eleven | 324514 | [324514-super-metroid-eleven.json](./324514-super-metroid-eleven.json) |
+| Super Metroid-Revamp | 377257 | [377257-super-metroid-revamp.json](./377257-super-metroid-revamp.json) |
 | Super Metroid: Airy | 255322 | [255322-super-metroid-airy.json](./255322-super-metroid-airy.json) |
 | Super Metroid: Battle | 318017 | [318017-super-metroid-battle.json](./318017-super-metroid-battle.json) |
 | Super Metroid: Darkholme Hospital | 213039 | [213039-super-metroid-darkholme-hospital.json](./213039-super-metroid-darkholme-hospital.json) |
