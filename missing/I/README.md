@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Only Sleeping | 71001 | [71001-im-only-sleeping.json](./71001-im-only-sleeping.json) |
 | I'm Pregnant at 16 | 336639 | [336639-im-pregnant-at-16.json](./336639-im-pregnant-at-16.json) |
 | I'm Scared of My Girlfriend | 247580 | [247580-im-scared-of-my-girlfriend.json](./247580-im-scared-of-my-girlfriend.json) |
+| I'm Still Here | 367039 | [367039-im-still-here.json](./367039-im-still-here.json) |
 | I'm Struggling | 375936 | [375936-im-struggling.json](./375936-im-struggling.json) |
 | I'm the dirt-for art | 120948 | [120948-im-the-dirt-for-art.json](./120948-im-the-dirt-for-art.json) |
 | I'm the Policeman | 278704 | [278704-im-the-policeman.json](./278704-im-the-policeman.json) |
@@ -2011,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
 | Investigator | 32526 | [32526-investigator.json](./32526-investigator.json) |
 | Investigator and the Case of the Unconventional Weapon | 179660 | [179660-investigator-and-the-case-of-the-unconventional-weapon.json](./179660-investigator-and-the-case-of-the-unconventional-weapon.json) |
+| Investour | 367050 | [367050-investour.json](./367050-investour.json) |
 | Invincible Fighter | 193965 | [193965-invincible-fighter.json](./193965-invincible-fighter.json) |
 | Invincible Fins | 157162 | [157162-invincible-fins.json](./157162-invincible-fins.json) |
 | Invincible Iron Man Gagaga-In | 234088 | [234088-invincible-iron-man-gagaga-in.json](./234088-invincible-iron-man-gagaga-in.json) |
