@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Decks | 146833 | [146833-massive-decks.json](./146833-massive-decks.json) |
 | Massive Defense | 239740 | [239740-massive-defense.json](./239740-massive-defense.json) |
 | Massive Galaxy | 89669 | [89669-massive-galaxy.json](./89669-massive-galaxy.json) |
+| Massive Warfare: Aftermath | 347878 | [347878-massive-warfare-aftermath.json](./347878-massive-warfare-aftermath.json) |
 | Master Archer | 185544 | [185544-master-archer.json](./185544-master-archer.json) |
 | Master Arena | 97280 | [97280-master-arena.json](./97280-master-arena.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
@@ -1975,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
 | Match | 119019 | [119019-match.json](./119019-match.json) |
+| Match & Mastery | 347910 | [347910-match-and-mastery.json](./347910-match-and-mastery.json) |
 | Match 10 Puzzle | 99404 | [99404-match-10-puzzle.json](./99404-match-10-puzzle.json) |
 | Match 22 | 86042 | [86042-match-22.json](./86042-match-22.json) |
 | Match 3 Amazon | 95823 | [95823-match-3-amazon.json](./95823-match-3-amazon.json) |
@@ -4510,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
+| Mini Motorways: Creative Mode | 347897 | [347897-mini-motorways-creative-mode.json](./347897-mini-motorways-creative-mode.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
 | Mini Puzzle Balls | 147784 | [147784-mini-puzzle-balls.json](./147784-mini-puzzle-balls.json) |
 | mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
@@ -5919,6 +5922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstuck | 195152 | [195152-moonstuck.json](./195152-moonstuck.json) |
 | Moontales Picbook | 359999 | [359999-moontales-picbook.json](./359999-moontales-picbook.json) |
 | Moontide | 177955 | [177955-moontide.json](./177955-moontide.json) |
+| Moontouched | 347880 | [347880-moontouched.json](./347880-moontouched.json) |
 | Moontrain | 205573 | [205573-moontrain.json](./205573-moontrain.json) |
 | Moonwalker: The Computer Game | 67952 | [67952-moonwalker-the-computer-game.json](./67952-moonwalker-the-computer-game.json) |
 | Moony Mayhem: Cheeks Unleashed | 406818 | [406818-moony-mayhem-cheeks-unleashed.json](./406818-moony-mayhem-cheeks-unleashed.json) |
@@ -7489,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Waifu Is A Tank Girl! | 391043 | [391043-my-waifu-is-a-tank-girl.json](./391043-my-waifu-is-a-tank-girl.json) |
 | My Wife | 339913 | [339913-my-wife.json](./339913-my-wife.json) |
 | My Wife is a Princess | 216992 | [216992-my-wife-is-a-princess.json](./216992-my-wife-is-a-princess.json) |
+| My Wife is a Spy?! | 347865 | [347865-my-wife-is-a-spy.json](./347865-my-wife-is-a-spy.json) |
 | My Wife Sucked a Futanari's Toes | 341356 | [341356-my-wife-sucked-a-futanaris-toes.json](./341356-my-wife-sucked-a-futanaris-toes.json) |
 | My Witch Wants Elixirs! | 385715 | [385715-my-witch-wants-elixirs.json](./385715-my-witch-wants-elixirs.json) |
 | My Wolf Girlfriend | 206199 | [206199-my-wolf-girlfriend.json](./206199-my-wolf-girlfriend.json) |
