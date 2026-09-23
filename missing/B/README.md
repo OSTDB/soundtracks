@@ -2062,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
 | Beeswing | 35357 | [35357-beeswing.json](./35357-beeswing.json) |
 | Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
+| BeeTD | 385306 | [385306-beetd.json](./385306-beetd.json) |
 | Beethoven: The Ultimate Canine Caper! | 259654 | [259654-beethoven-the-ultimate-canine-caper.json](./259654-beethoven-the-ultimate-canine-caper.json) |
 | Beethoven's 2nd: The Quest for Pups | 259653 | [259653-beethovens-2nd-the-quest-for-pups.json](./259653-beethovens-2nd-the-quest-for-pups.json) |
 | Beetle Bomp | 52632 | [52632-beetle-bomp.json](./52632-beetle-bomp.json) |
