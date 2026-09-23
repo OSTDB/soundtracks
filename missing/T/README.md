@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taro's Quest | 48882 | [48882-taros-quest.json](./48882-taros-quest.json) |
 | Tarot | 95371 | [95371-tarot.json](./95371-tarot.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
+| Tarot Spell | 390271 | [390271-tarot-spell.json](./390271-tarot-spell.json) |
 | Tarot Uranai | 254587 | [254587-tarot-uranai.json](./254587-tarot-uranai.json) |
 | Tartapolis | 120954 | [120954-tartapolis.json](./120954-tartapolis.json) |
 | Tartaros | 320403 | [320403-tartaros.json](./320403-tartaros.json) |
@@ -11196,6 +11197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump! Jump | 256262 | [256262-trump-jump.json](./256262-trump-jump.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
+| Trushybin & Removin: What I Couldn’t Delete | 390273 | [390273-trushybin-and-removin-what-i-couldn-t-delete.json](./390273-trushybin-and-removin-what-i-couldn-t-delete.json) |
 | Truss | 230370 | [230370-truss.json](./230370-truss.json) |
 | Trust | 378310 | [378310-trust.json](./378310-trust.json) |
 | Trust & Safety: Armed Conflict | 401484 | [401484-trust-and-safety-armed-conflict.json](./401484-trust-and-safety-armed-conflict.json) |
@@ -11562,6 +11564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight's Folclore | 374180 | [374180-twilights-folclore.json](./374180-twilights-folclore.json) |
 | Twilight's Ransom | 12805 | [12805-twilights-ransom.json](./12805-twilights-ransom.json) |
 | Twin Balls | 160247 | [160247-twin-balls.json](./160247-twin-balls.json) |
+| Twin Balls Journey | 390227 | [390227-twin-balls-journey.json](./390227-twin-balls-journey.json) |
 | Twin Bill | 130868 | [130868-twin-bill.json](./130868-twin-bill.json) |
 | Twin Blades of the Three Kingdoms | 202761 | [202761-twin-blades-of-the-three-kingdoms.json](./202761-twin-blades-of-the-three-kingdoms.json) |
 | Twin Blue Moons | 88191 | [88191-twin-blue-moons.json](./88191-twin-blue-moons.json) |
