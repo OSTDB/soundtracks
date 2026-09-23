@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
+| Wacky Coursers | 389748 | [389748-wacky-coursers.json](./389748-wacky-coursers.json) |
 | Wacky Darts | 93352 | [93352-wacky-darts.json](./93352-wacky-darts.json) |
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 81547 | [81547-wacky-races.json](./81547-wacky-races.json) |
