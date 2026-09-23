@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deer | 117688 | [117688-the-deer.json](./117688-the-deer.json) |
 | The Defenders: The Second Wave | 35708 | [35708-the-defenders-the-second-wave.json](./35708-the-defenders-the-second-wave.json) |
 | The Defiant | 375948 | [375948-the-defiant.json](./375948-the-defiant.json) |
+| The Definitive Subsistence Update | 374288 | [374288-the-definitive-subsistence-update.json](./374288-the-definitive-subsistence-update.json) |
 | The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
 | The Demon Crystal | 47555 | [47555-the-demon-crystal.json](./47555-the-demon-crystal.json) |
@@ -11705,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinkle Stardust's Catnap Chaos | 384192 | [384192-twinkle-stardusts-catnap-chaos.json](./384192-twinkle-stardusts-catnap-chaos.json) |
 | Twinkle Tale | 46179 | [46179-twinkle-tale.json](./46179-twinkle-tale.json) |
 | Twinkle Yohane | 405501 | [405501-twinkle-yohane.json](./405501-twinkle-yohane.json) |
+| Twinkle’s Galactic Tour | 374266 | [374266-twinkle-s-galactic-tour.json](./374266-twinkle-s-galactic-tour.json) |
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
 | Twins Dash | 200028 | [200028-twins-dash.json](./200028-twins-dash.json) |
 | Twins of Legacy: Elemental | 316850 | [316850-twins-of-legacy-elemental.json](./316850-twins-of-legacy-elemental.json) |
