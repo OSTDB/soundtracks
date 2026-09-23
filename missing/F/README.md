@@ -3443,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Terror: Board Game | 375448 | [375448-forbidden-terror-board-game.json](./375448-forbidden-terror-board-game.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
 | Forbidden: A First's Obsession | 402364 | [402364-forbidden-a-firsts-obsession.json](./402364-forbidden-a-firsts-obsession.json) |
+| ForbiddenEgg | 352382 | [352382-forbiddenegg.json](./352382-forbiddenegg.json) |
 | ForbiddenWord | 242675 | [242675-forbiddenword.json](./242675-forbiddenword.json) |
 | Force of Nature 2: Ghost Keeper | 150124 | [150124-force-of-nature-2-ghost-keeper.json](./150124-force-of-nature-2-ghost-keeper.json) |
 | Force of Numbers | 309521 | [309521-force-of-numbers.json](./309521-force-of-numbers.json) |
@@ -4530,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Crisis | 312168 | [312168-frontline-crisis.json](./312168-frontline-crisis.json) |
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
+| Frontline Protocol | 352361 | [352361-frontline-protocol.json](./352361-frontline-protocol.json) |
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
 | Frontline Survivors | 239777 | [239777-frontline-survivors.json](./239777-frontline-survivors.json) |
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
