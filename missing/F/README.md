@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order Lostbelt No. 3: SIN | 414304 | [414304-fate-grand-order-lostbelt-no-3-sin.json](./414304-fate-grand-order-lostbelt-no-3-sin.json) |
 | Fate/Grand Order Lostbelt No. 5: Atlantis | 414306 | [414306-fate-grand-order-lostbelt-no-5-atlantis.json](./414306-fate-grand-order-lostbelt-no-5-atlantis.json) |
 | Fate/Grand Order Lostbelt No. 5: Olympus | 414357 | [414357-fate-grand-order-lostbelt-no-5-olympus.json](./414357-fate-grand-order-lostbelt-no-5-olympus.json) |
+| Fate/Grand Order Lostbelt No. 6: Avalon Le Fae | 346782 | [346782-fate-grand-order-lostbelt-no-6-avalon-le-fae.json](./346782-fate-grand-order-lostbelt-no-6-avalon-le-fae.json) |
 | Fate/Grand Order VR feat. Mash Kyrielight | 26933 | [26933-fate-grand-order-vr-feat-mash-kyrielight.json](./26933-fate-grand-order-vr-feat-mash-kyrielight.json) |
 | Fate/Grand Order: Epic of Remnant EX - SE.RA.PH | 414365 | [414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json](./414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json) |
 | Fate/Grand Order: Epic of Remnant I - Shinjuku | 414364 | [414364-fate-grand-order-epic-of-remnant-i-shinjuku.json](./414364-fate-grand-order-epic-of-remnant-i-shinjuku.json) |
@@ -1718,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill The Cup | 315705 | [315705-fill-the-cup.json](./315705-fill-the-cup.json) |
 | Fill The Cup 3: Frost | 390801 | [390801-fill-the-cup-3-frost.json](./390801-fill-the-cup-3-frost.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
+| Fill Up the Hole | 346799 | [346799-fill-up-the-hole.json](./346799-fill-up-the-hole.json) |
 | Fille Fatale Compassion | 388211 | [388211-fille-fatale-compassion.json](./388211-fille-fatale-compassion.json) |
 | FillGood | 415266 | [415266-fillgood.json](./415266-fillgood.json) |
 | Filluminate | 401768 | [401768-filluminate.json](./401768-filluminate.json) |
@@ -2477,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Finger Discount | 297077 | [297077-five-finger-discount.json](./297077-five-finger-discount.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
+| Five Heads | 347338 | [347338-five-heads.json](./347338-five-heads.json) |
 | Five Hearts Under One Roof | 318806 | [318806-five-hearts-under-one-roof.json](./318806-five-hearts-under-one-roof.json) |
 | Five in One | 210648 | [210648-five-in-one.json](./210648-five-in-one.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
@@ -3310,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footage | 302930 | [302930-footage.json](./302930-footage.json) |
 | Football | 131533 | [131533-football.json](./131533-football.json) |
 | Football | 199023 | [199023-football.json](./199023-football.json) |
+| Football | 346756 | [346756-football.json](./346756-football.json) |
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
@@ -3354,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Manager: World Cup Edition | 41003 | [41003-football-manager-world-cup-edition.json](./41003-football-manager-world-cup-edition.json) |
+| Football Mini Stars | 347322 | [347322-football-mini-stars.json](./347322-football-mini-stars.json) |
 | Football Mogul 15 | 31694 | [31694-football-mogul-15.json](./31694-football-mogul-15.json) |
 | Football Mogul 2007 | 209466 | [209466-football-mogul-2007.json](./209466-football-mogul-2007.json) |
 | Football Penalty | 234315 | [234315-football-penalty.json](./234315-football-penalty.json) |
@@ -3813,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Telling | 121042 | [121042-fortune-telling.json](./121042-fortune-telling.json) |
 | Fortune x World: Bokura ga Game wo Tsukuru Riyuu | 382467 | [382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json](./382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json) |
 | Fortune: Hoshi no Furi Sosogu Oka | 344480 | [344480-fortune-hoshi-no-furi-sosogu-oka.json](./344480-fortune-hoshi-no-furi-sosogu-oka.json) |
+| Fortune's Favor | 347323 | [347323-fortunes-favor.json](./347323-fortunes-favor.json) |
 | Fortune's Run | 165071 | [165071-fortunes-run.json](./165071-fortunes-run.json) |
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
@@ -4914,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Boss | 215891 | [215891-furry-boss.json](./215891-furry-boss.json) |
 | Furry Came-a-Lot | 374050 | [374050-furry-came-a-lot.json](./374050-furry-came-a-lot.json) |
 | Furry Chronicles | 115612 | [115612-furry-chronicles.json](./115612-furry-chronicles.json) |
+| Furry Company | 347345 | [347345-furry-company.json](./347345-furry-company.json) |
 | Furry Cyberfucker | 196171 | [196171-furry-cyberfucker.json](./196171-furry-cyberfucker.json) |
 | Furry Cybersex | 204431 | [204431-furry-cybersex.json](./204431-furry-cybersex.json) |
 | Furry Feet Girls | 301999 | [301999-furry-feet-girls.json](./301999-furry-feet-girls.json) |
