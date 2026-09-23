@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise | 32198 | [32198-rise.json](./32198-rise.json) |
 | Rise | 32218 | [32218-rise.json](./32218-rise.json) |
 | Rise | 338219 | [338219-rise.json](./338219-rise.json) |
+| Rise & Ironfall: VD-dev Legacy Pack | 351231 | [351231-rise-and-ironfall-vd-dev-legacy-pack.json](./351231-rise-and-ironfall-vd-dev-legacy-pack.json) |
 | Rise & Muse | 298142 | [298142-rise-and-muse.json](./298142-rise-and-muse.json) |
 | Rise & Reign | 277277 | [277277-rise-and-reign.json](./277277-rise-and-reign.json) |
 | Rise & Shine | 6732 | [6732-rise-and-shine.json](./6732-rise-and-shine.json) |
