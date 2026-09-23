@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain World | 92484 | [92484-chain-world.json](./92484-chain-world.json) |
 | Chain-Chillas | 398343 | [398343-chain-chillas.json](./398343-chain-chillas.json) |
 | Chain: The Lost Footprints | 127795 | [127795-chain-the-lost-footprints.json](./127795-chain-the-lost-footprints.json) |
+| Chainbound | 384797 | [384797-chainbound.json](./384797-chainbound.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chapatriste | 307622 | [307622-chapatriste.json](./307622-chapatriste.json) |
 | Chapter Wars: Expansion Pack | 286541 | [286541-chapter-wars-expansion-pack.json](./286541-chapter-wars-expansion-pack.json) |
 | Chaqs | 223504 | [223504-chaqs.json](./223504-chaqs.json) |
+| Char's Ennui | 384774 | [384774-chars-ennui.json](./384774-chars-ennui.json) |
 | Chara Chenko | 130385 | [130385-chara-chenko.json](./130385-chara-chenko.json) |
 | Charade Maniacs | 69343 | [69343-charade-maniacs.json](./69343-charade-maniacs.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
@@ -5965,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Criticom | 19165 | [19165-criticom.json](./19165-criticom.json) |
+| Critter Bonk | 384795 | [384795-critter-bonk.json](./384795-critter-bonk.json) |
 | Critter Box | 397926 | [397926-critter-box.json](./397926-critter-box.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
 | Critter Café | 305075 | [305075-critter-cafe.json](./305075-critter-cafe.json) |
@@ -6009,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cronous Online | 213028 | [213028-cronous-online.json](./213028-cronous-online.json) |
 | Cronus Monument | 293235 | [293235-cronus-monument.json](./293235-cronus-monument.json) |
 | Crooked | 411122 | [411122-crooked.json](./411122-crooked.json) |
+| Crooked Cooks | 384794 | [384794-crooked-cooks.json](./384794-crooked-cooks.json) |
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
 | Crooks Like Us | 143032 | [143032-crooks-like-us.json](./143032-crooks-like-us.json) |
 | Crookz: The Big Heist | 17569 | [17569-crookz-the-big-heist.json](./17569-crookz-the-big-heist.json) |
