@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
 | Party Harvest | 365751 | [365751-party-harvest.json](./365751-party-harvest.json) |
 | Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
+| Party Madness | 370323 | [370323-party-madness.json](./370323-party-madness.json) |
 | Party Makeover Salon | 87923 | [87923-party-makeover-salon.json](./87923-party-makeover-salon.json) |
 | Party Management | 360067 | [360067-party-management.json](./360067-party-management.json) |
 | Party Mashup | 137613 | [137613-party-mashup.json](./137613-party-mashup.json) |
@@ -1785,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petka 4: Den' Nezavisimosti | 52758 | [52758-petka-4-den-nezavisimosti.json](./52758-petka-4-den-nezavisimosti.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
 | Petrichor | 60540 | [60540-petrichor.json](./60540-petrichor.json) |
+| Petrick | 370306 | [370306-petrick.json](./370306-petrick.json) |
 | Petricor | 413905 | [413905-petricor.json](./413905-petricor.json) |
 | Petrifaction | 97825 | [97825-petrifaction.json](./97825-petrifaction.json) |
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
@@ -4802,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Man Simulator | 149560 | [149560-primal-man-simulator.json](./149560-primal-man-simulator.json) |
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
 | Primal Rage | 199013 | [199013-primal-rage.json](./199013-primal-rage.json) |
+| Primal Rage | 370309 | [370309-primal-rage.json](./370309-primal-rage.json) |
 | Primal Rage | 4271 | [4271-primal-rage.json](./4271-primal-rage.json) |
 | Primal Rage II | 167154 | [167154-primal-rage-ii.json](./167154-primal-rage-ii.json) |
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
@@ -5902,6 +5905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
 | Pungo | 355522 | [355522-pungo.json](./355522-pungo.json) |
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
+| Punirunes | 370299 | [370299-punirunes.json](./370299-punirunes.json) |
 | Punishment | 57647 | [57647-punishment.json](./57647-punishment.json) |
 | Punishment 2: The Punishing | 402353 | [402353-punishment-2-the-punishing.json](./402353-punishment-2-the-punishing.json) |
 | Punishment Darkness Online: Centre Ville | 171080 | [171080-punishment-darkness-online-centre-ville.json](./171080-punishment-darkness-online-centre-ville.json) |
