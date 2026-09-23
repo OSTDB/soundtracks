@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekt!: Double Flip | 238063 | [238063-rekt-double-flip.json](./238063-rekt-double-flip.json) |
 | Reky | 122329 | [122329-reky.json](./122329-reky.json) |
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
+| Relapse | 342849 | [342849-relapse.json](./342849-relapse.json) |
 | Relapse | 376100 | [376100-relapse.json](./376100-relapse.json) |
 | Related | 133380 | [133380-related.json](./133380-related.json) |
 | Relation Killer | 224645 | [224645-relation-killer.json](./224645-relation-killer.json) |
