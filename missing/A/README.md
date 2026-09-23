@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Foxy | 334761 | [334761-achievement-hunter-foxy.json](./334761-achievement-hunter-foxy.json) |
 | Achievement Hunter: Kiborg | 334760 | [334760-achievement-hunter-kiborg.json](./334760-achievement-hunter-kiborg.json) |
 | Achievement Hunter: Knight | 334781 | [334781-achievement-hunter-knight.json](./334781-achievement-hunter-knight.json) |
+| Achievement Hunter: Overdose | 368155 | [368155-achievement-hunter-overdose.json](./368155-achievement-hunter-overdose.json) |
 | Achievement Hunter: Samurai | 334772 | [334772-achievement-hunter-samurai.json](./334772-achievement-hunter-samurai.json) |
 | Achievement Hunter: Thief | 334762 | [334762-achievement-hunter-thief.json](./334762-achievement-hunter-thief.json) |
 | Achievement Hunter: Witch | 334780 | [334780-achievement-hunter-witch.json](./334780-achievement-hunter-witch.json) |
@@ -4817,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt: Urban GT | 6260 | [6260-asphalt-urban-gt.json](./6260-asphalt-urban-gt.json) |
 | Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
 | Asphyxia | 34827 | [34827-asphyxia.json](./34827-asphyxia.json) |
+| Asphyxiation | 368153 | [368153-asphyxiation.json](./368153-asphyxiation.json) |
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
 | Assassin Blue | 124628 | [124628-assassin-blue.json](./124628-assassin-blue.json) |
