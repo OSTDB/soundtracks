@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laxy Bro | 61037 | [61037-laxy-bro.json](./61037-laxy-bro.json) |
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
+| Layer Cake | 370342 | [370342-layer-cake.json](./370342-layer-cake.json) |
 | Layer Hunt | 219689 | [219689-layer-hunt.json](./219689-layer-hunt.json) |
 | Layer Section & Galactic Attack: S-Tribute | 199159 | [199159-layer-section-and-galactic-attack-s-tribute.json](./199159-layer-section-and-galactic-attack-s-tribute.json) |
 | Layermask | 402995 | [402995-layermask.json](./402995-layermask.json) |
@@ -2022,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | List Animals Until Failure | 388370 | [388370-list-animals-until-failure.json](./388370-list-animals-until-failure.json) |
 | Listen | 151582 | [151582-listen.json](./151582-listen.json) |
 | Listen Me | 227931 | [227931-listen-me.json](./227931-listen-me.json) |
+| Listen to My Heart | 370340 | [370340-listen-to-my-heart.json](./370340-listen-to-my-heart.json) |
 | Listen to the Wind | 172709 | [172709-listen-to-the-wind.json](./172709-listen-to-the-wind.json) |
 | Listen, Think, Meow! | 304596 | [304596-listen-think-meow.json](./304596-listen-think-meow.json) |
 | Listenbourg | 264697 | [264697-listenbourg.json](./264697-listenbourg.json) |
