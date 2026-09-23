@@ -4448,6 +4448,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
 | Sky Valley | 31947 | [31947-sky-valley.json](./31947-sky-valley.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
+| Sky: Children of the Light - Season of Belonging | 388383 | [388383-sky-children-of-the-light-season-of-belonging.json](./388383-sky-children-of-the-light-season-of-belonging.json) |
+| Sky: Children of the Light - Season of Lightseekers | 388381 | [388381-sky-children-of-the-light-season-of-lightseekers.json](./388381-sky-children-of-the-light-season-of-lightseekers.json) |
+| Sky: Children of the Light - Season of Rhythm | 388395 | [388395-sky-children-of-the-light-season-of-rhythm.json](./388395-sky-children-of-the-light-season-of-rhythm.json) |
 | Skybase | 294267 | [294267-skybase.json](./294267-skybase.json) |
 | Skybase: Space Station Simulator | 208952 | [208952-skybase-space-station-simulator.json](./208952-skybase-space-station-simulator.json) |
 | Skyblivion | 301423 | [301423-skyblivion.json](./301423-skyblivion.json) |
@@ -8901,6 +8904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starmaker Story | 337187 | [337187-starmaker-story.json](./337187-starmaker-story.json) |
 | Starman in space | 88240 | [88240-starman-in-space.json](./88240-starman-in-space.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
+| Starmasons | 388419 | [388419-starmasons.json](./388419-starmasons.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
 | Starmourn | 122849 | [122849-starmourn.json](./122849-starmourn.json) |
 | Starona | 142386 | [142386-starona.json](./142386-starona.json) |
