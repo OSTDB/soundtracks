@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T17:05:43.624Z",
-  "total_missing": 112177,
+  "generated_at": "2026-09-23T17:19:03.811Z",
+  "total_missing": 112227,
   "games": [
     {
       "igdb_id": 176875,
@@ -26301,6 +26301,11 @@
       "igdb_id": 110384,
       "game_name": "Arena Renovation",
       "file": "missing/A/110384-arena-renovation.json"
+    },
+    {
+      "igdb_id": 351798,
+      "game_name": "Arena Returns",
+      "file": "missing/A/351798-arena-returns.json"
     },
     {
       "igdb_id": 92817,
@@ -57093,6 +57098,11 @@
       "file": "missing/B/397821-bold-networked-newt-action.json"
     },
     {
+      "igdb_id": 351832,
+      "game_name": "Bolek i Lolek: Język angielski dla najmłodszych",
+      "file": "missing/B/351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json"
+    },
+    {
       "igdb_id": 328072,
       "game_name": "BoliKa",
       "file": "missing/B/328072-bolika.json"
@@ -76676,6 +76686,11 @@
       "igdb_id": 335246,
       "game_name": "Cerberus Corporation: Red Room",
       "file": "missing/C/335246-cerberus-corporation-red-room.json"
+    },
+    {
+      "igdb_id": 351799,
+      "game_name": "Cereal Cafe",
+      "file": "missing/C/351799-cereal-cafe.json"
     },
     {
       "igdb_id": 70367,
@@ -135153,6 +135168,11 @@
       "file": "missing/D/138221-dum-dum-dinos.json"
     },
     {
+      "igdb_id": 351806,
+      "game_name": "Dumb AF",
+      "file": "missing/D/351806-dumb-af.json"
+    },
+    {
       "igdb_id": 289304,
       "game_name": "Dumb Castle",
       "file": "missing/D/289304-dumb-castle.json"
@@ -139586,6 +139606,11 @@
       "igdb_id": 414564,
       "game_name": "Echoes of Kyria",
       "file": "missing/E/414564-echoes-of-kyria.json"
+    },
+    {
+      "igdb_id": 351795,
+      "game_name": "Echoes of Light: Child of the Balance",
+      "file": "missing/E/351795-echoes-of-light-child-of-the-balance.json"
     },
     {
       "igdb_id": 194024,
@@ -192648,6 +192673,11 @@
       "file": "missing/G/179694-grave-man.json"
     },
     {
+      "igdb_id": 351800,
+      "game_name": "Grave Rogue",
+      "file": "missing/G/351800-grave-rogue.json"
+    },
+    {
       "igdb_id": 94545,
       "game_name": "Grave Yardage",
       "file": "missing/G/94545-grave-yardage.json"
@@ -245168,6 +245198,11 @@
       "file": "missing/K/103194-kick-them-out.json"
     },
     {
+      "igdb_id": 351804,
+      "game_name": "Kick Yourself On",
+      "file": "missing/K/351804-kick-yourself-on.json"
+    },
+    {
       "igdb_id": 17488,
       "game_name": "Kick-Ass 2",
       "file": "missing/K/17488-kick-ass-2.json"
@@ -284313,6 +284348,201 @@
       "file": "missing/M/352863-mega-man-battle-network-3-white.json"
     },
     {
+      "igdb_id": 351818,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Anaconda",
+      "file": "missing/M/351818-mega-man-battle-network-5-patch-card-anaconda.json"
+    },
+    {
+      "igdb_id": 351843,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Bass",
+      "file": "missing/M/351843-mega-man-battle-network-5-patch-card-bass.json"
+    },
+    {
+      "igdb_id": 351816,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Billy",
+      "file": "missing/M/351816-mega-man-battle-network-5-patch-card-billy.json"
+    },
+    {
+      "igdb_id": 351830,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Boomer",
+      "file": "missing/M/351830-mega-man-battle-network-5-patch-card-boomer.json"
+    },
+    {
+      "igdb_id": 351825,
+      "game_name": "Mega Man Battle Network 5: Patch Card - BrushMan",
+      "file": "missing/M/351825-mega-man-battle-network-5-patch-card-brushman.json"
+    },
+    {
+      "igdb_id": 351846,
+      "game_name": "Mega Man Battle Network 5: Patch Card - BubbleMan",
+      "file": "missing/M/351846-mega-man-battle-network-5-patch-card-bubbleman.json"
+    },
+    {
+      "igdb_id": 351839,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Cactikil",
+      "file": "missing/M/351839-mega-man-battle-network-5-patch-card-cactikil.json"
+    },
+    {
+      "igdb_id": 351817,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Candela",
+      "file": "missing/M/351817-mega-man-battle-network-5-patch-card-candela.json"
+    },
+    {
+      "igdb_id": 351836,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Catack",
+      "file": "missing/M/351836-mega-man-battle-network-5-patch-card-catack.json"
+    },
+    {
+      "igdb_id": 351837,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Champy",
+      "file": "missing/M/351837-mega-man-battle-network-5-patch-card-champy.json"
+    },
+    {
+      "igdb_id": 351823,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Dominerd",
+      "file": "missing/M/351823-mega-man-battle-network-5-patch-card-dominerd.json"
+    },
+    {
+      "igdb_id": 351842,
+      "game_name": "Mega Man Battle Network 5: Patch Card - FireMan",
+      "file": "missing/M/351842-mega-man-battle-network-5-patch-card-fireman.json"
+    },
+    {
+      "igdb_id": 351813,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Fishy",
+      "file": "missing/M/351813-mega-man-battle-network-5-patch-card-fishy.json"
+    },
+    {
+      "igdb_id": 351847,
+      "game_name": "Mega Man Battle Network 5: Patch Card - FlameMan",
+      "file": "missing/M/351847-mega-man-battle-network-5-patch-card-flameman.json"
+    },
+    {
+      "igdb_id": 351841,
+      "game_name": "Mega Man Battle Network 5: Patch Card - GutsMan",
+      "file": "missing/M/351841-mega-man-battle-network-5-patch-card-gutsman.json"
+    },
+    {
+      "igdb_id": 351828,
+      "game_name": "Mega Man Battle Network 5: Patch Card - KillerEye",
+      "file": "missing/M/351828-mega-man-battle-network-5-patch-card-killereye.json"
+    },
+    {
+      "igdb_id": 351831,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Lark",
+      "file": "missing/M/351831-mega-man-battle-network-5-patch-card-lark.json"
+    },
+    {
+      "igdb_id": 351834,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Melody",
+      "file": "missing/M/351834-mega-man-battle-network-5-patch-card-melody.json"
+    },
+    {
+      "igdb_id": 351848,
+      "game_name": "Mega Man Battle Network 5: Patch Card - MetalMan",
+      "file": "missing/M/351848-mega-man-battle-network-5-patch-card-metalman.json"
+    },
+    {
+      "igdb_id": 351809,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Mettaur",
+      "file": "missing/M/351809-mega-man-battle-network-5-patch-card-mettaur.json"
+    },
+    {
+      "igdb_id": 351833,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Moloko",
+      "file": "missing/M/351833-mega-man-battle-network-5-patch-card-moloko.json"
+    },
+    {
+      "igdb_id": 351819,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Mushy",
+      "file": "missing/M/351819-mega-man-battle-network-5-patch-card-mushy.json"
+    },
+    {
+      "igdb_id": 351824,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Null",
+      "file": "missing/M/351824-mega-man-battle-network-5-patch-card-null.json"
+    },
+    {
+      "igdb_id": 351814,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Piranha",
+      "file": "missing/M/351814-mega-man-battle-network-5-patch-card-piranha.json"
+    },
+    {
+      "igdb_id": 351821,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Puffball",
+      "file": "missing/M/351821-mega-man-battle-network-5-patch-card-puffball.json"
+    },
+    {
+      "igdb_id": 351829,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Quaker",
+      "file": "missing/M/351829-mega-man-battle-network-5-patch-card-quaker.json"
+    },
+    {
+      "igdb_id": 351844,
+      "game_name": "Mega Man Battle Network 5: Patch Card - QuickMan",
+      "file": "missing/M/351844-mega-man-battle-network-5-patch-card-quickman.json"
+    },
+    {
+      "igdb_id": 351815,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Ratty",
+      "file": "missing/M/351815-mega-man-battle-network-5-patch-card-ratty.json"
+    },
+    {
+      "igdb_id": 351840,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Roll",
+      "file": "missing/M/351840-mega-man-battle-network-5-patch-card-roll.json"
+    },
+    {
+      "igdb_id": 351826,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Scuttlest",
+      "file": "missing/M/351826-mega-man-battle-network-5-patch-card-scuttlest.json"
+    },
+    {
+      "igdb_id": 351845,
+      "game_name": "Mega Man Battle Network 5: Patch Card - SnakeMan",
+      "file": "missing/M/351845-mega-man-battle-network-5-patch-card-snakeman.json"
+    },
+    {
+      "igdb_id": 351827,
+      "game_name": "Mega Man Battle Network 5: Patch Card - SnowBlow",
+      "file": "missing/M/351827-mega-man-battle-network-5-patch-card-snowblow.json"
+    },
+    {
+      "igdb_id": 351820,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Spikey",
+      "file": "missing/M/351820-mega-man-battle-network-5-patch-card-spikey.json"
+    },
+    {
+      "igdb_id": 351811,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Spooky",
+      "file": "missing/M/351811-mega-man-battle-network-5-patch-card-spooky.json"
+    },
+    {
+      "igdb_id": 351812,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Swordy",
+      "file": "missing/M/351812-mega-man-battle-network-5-patch-card-swordy.json"
+    },
+    {
+      "igdb_id": 351810,
+      "game_name": "Mega Man Battle Network 5: Patch Card - VolGear",
+      "file": "missing/M/351810-mega-man-battle-network-5-patch-card-volgear.json"
+    },
+    {
+      "igdb_id": 351838,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Whirly",
+      "file": "missing/M/351838-mega-man-battle-network-5-patch-card-whirly.json"
+    },
+    {
+      "igdb_id": 351822,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Yort",
+      "file": "missing/M/351822-mega-man-battle-network-5-patch-card-yort.json"
+    },
+    {
+      "igdb_id": 351835,
+      "game_name": "Mega Man Battle Network 5: Patch Card - Zomon",
+      "file": "missing/M/351835-mega-man-battle-network-5-patch-card-zomon.json"
+    },
+    {
       "igdb_id": 352727,
       "game_name": "Mega Man Battle Network 6: Patch Card - Admission for Yuika's Show",
       "file": "missing/M/352727-mega-man-battle-network-6-patch-card-admission-for-yuikas-show.json"
@@ -284686,6 +284916,11 @@
       "igdb_id": 1777,
       "game_name": "Mega Man Zero 3",
       "file": "missing/M/1777-mega-man-zero-3.json"
+    },
+    {
+      "igdb_id": 351805,
+      "game_name": "Mega Man Zero 3",
+      "file": "missing/M/351805-mega-man-zero-3.json"
     },
     {
       "igdb_id": 1778,
@@ -371178,6 +371413,11 @@
       "file": "missing/R/319597-raider.json"
     },
     {
+      "igdb_id": 351801,
+      "game_name": "Raider",
+      "file": "missing/R/351801-raider.json"
+    },
+    {
       "igdb_id": 406812,
       "game_name": "Raiders 1941",
       "file": "missing/R/406812-raiders-1941.json"
@@ -376071,6 +376311,11 @@
       "igdb_id": 215905,
       "game_name": "Rectangle Guy",
       "file": "missing/R/215905-rectangle-guy.json"
+    },
+    {
+      "igdb_id": 351807,
+      "game_name": "Rectifier: In Bloom",
+      "file": "missing/R/351807-rectifier-in-bloom.json"
     },
     {
       "igdb_id": 173224,
@@ -386091,6 +386336,11 @@
       "igdb_id": 129608,
       "game_name": "Robots under attack!",
       "file": "missing/R/129608-robots-under-attack.json"
+    },
+    {
+      "igdb_id": 351808,
+      "game_name": "Robots With Guns",
+      "file": "missing/R/351808-robots-with-guns.json"
     },
     {
       "igdb_id": 172127,
