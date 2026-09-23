@@ -3340,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
 | Another Crusade | 135681 | [135681-another-crusade.json](./135681-another-crusade.json) |
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
+| Another Day in Hell | 341663 | [341663-another-day-in-hell.json](./341663-another-day-in-hell.json) |
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
 | Another Day to Die | 373752 | [373752-another-day-to-die.json](./373752-another-day-to-die.json) |
 | Another Day with You | 309519 | [309519-another-day-with-you.json](./309519-another-day-with-you.json) |
@@ -5513,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atonement | 379987 | [379987-atonement.json](./379987-atonement.json) |
 | Atonement | 379988 | [379988-atonement.json](./379988-atonement.json) |
 | Atoners: The Lost Epoch | 290517 | [290517-atoners-the-lost-epoch.json](./290517-atoners-the-lost-epoch.json) |
+| Atop the Witch's Tower WS | 341704 | [341704-atop-the-witchs-tower-ws.json](./341704-atop-the-witchs-tower-ws.json) |
 | ATP Tour Championship Tennis | 46234 | [46234-atp-tour-championship-tennis.json](./46234-atp-tour-championship-tennis.json) |
 | Atramentum VR | 29797 | [29797-atramentum-vr.json](./29797-atramentum-vr.json) |
 | Atrapa la Bandera | 204455 | [204455-atrapa-la-bandera.json](./204455-atrapa-la-bandera.json) |
@@ -5655,6 +5657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
+| Aurora Polaris | 341690 | [341690-aurora-polaris.json](./341690-aurora-polaris.json) |
 | Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
 | Aurora: Hidden Colors | 126411 | [126411-aurora-hidden-colors.json](./126411-aurora-hidden-colors.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
