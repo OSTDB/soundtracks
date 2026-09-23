@@ -1680,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Moore | 127015 | [127015-fighting-moore.json](./127015-fighting-moore.json) |
 | Fighting Network Rings | 44825 | [44825-fighting-network-rings.json](./44825-fighting-network-rings.json) |
 | Fighting of School | 306953 | [306953-fighting-of-school.json](./306953-fighting-of-school.json) |
+| Fighting Rogue | 358487 | [358487-fighting-rogue.json](./358487-fighting-rogue.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
 | Fighting Soccer | 12097 | [12097-fighting-soccer.json](./12097-fighting-soccer.json) |
 | Fighting Steel: World War II Surface Combat 1939-1942 | 78006 | [78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json](./78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json) |
