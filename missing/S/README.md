@@ -7632,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound Hearts | 286013 | [286013-spellbound-hearts.json](./286013-spellbound-hearts.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
 | Spellbound Spire | 142428 | [142428-spellbound-spire.json](./142428-spellbound-spire.json) |
+| Spellbound: Malachite Coven | 368150 | [368150-spellbound-malachite-coven.json](./368150-spellbound-malachite-coven.json) |
 | Spellbound! | 318020 | [318020-spellbound.json](./318020-spellbound.json) |
 | Spellbound! | 318021 | [318021-spellbound.json](./318021-spellbound.json) |
 | Spellbreak: Chapter 3 - The Wardens | 182495 | [182495-spellbreak-chapter-3-the-wardens.json](./182495-spellbreak-chapter-3-the-wardens.json) |
@@ -8233,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Valley: Friends Forever | 332505 | [332505-sprout-valley-friends-forever.json](./332505-sprout-valley-friends-forever.json) |
 | Sprout Valley: Friends Forever Expansion | 332526 | [332526-sprout-valley-friends-forever-expansion.json](./332526-sprout-valley-friends-forever-expansion.json) |
 | Sprout Valley: Nico's Skins | 316247 | [316247-sprout-valley-nicos-skins.json](./316247-sprout-valley-nicos-skins.json) |
+| SproutBound | 368152 | [368152-sproutbound.json](./368152-sproutbound.json) |
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sprucerio | 257408 | [257408-sprucerio.json](./257408-sprucerio.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
@@ -11605,6 +11607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sunshine 64 | 159263 | [159263-super-mario-sunshine-64.json](./159263-super-mario-sunshine-64.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
+| Super Mario Treasure World | 368158 | [368158-super-mario-treasure-world.json](./368158-super-mario-treasure-world.json) |
 | Super Mario War | 305742 | [305742-super-mario-war.json](./305742-super-mario-war.json) |
 | Super Mario War: Stomp Arena | 323200 | [323200-super-mario-war-stomp-arena.json](./323200-super-mario-war-stomp-arena.json) |
 | Super Mario Wars! | 323752 | [323752-super-mario-wars.json](./323752-super-mario-wars.json) |
