@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
 | Little Eden | 260208 | [260208-little-eden.json](./260208-little-eden.json) |
 | Little Einsteins | 231500 | [231500-little-einsteins.json](./231500-little-einsteins.json) |
+| Little Farm Island | 385326 | [385326-little-farm-island.json](./385326-little-farm-island.json) |
 | Little Fiefdom: Medieval | 390259 | [390259-little-fiefdom-medieval.json](./390259-little-fiefdom-medieval.json) |
 | Little Fighter 2 | 8700 | [8700-little-fighter-2.json](./8700-little-fighter-2.json) |
 | Little Fighter Online | 79905 | [79905-little-fighter-online.json](./79905-little-fighter-online.json) |
@@ -2647,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
 | Loot & Legends | 22354 | [22354-loot-and-legends.json](./22354-loot-and-legends.json) |
+| Loot and Order | 385336 | [385336-loot-and-order.json](./385336-loot-and-order.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
 | Loot Before the Law | 411820 | [411820-loot-before-the-law.json](./411820-loot-before-the-law.json) |
 | Loot Box Achievement Simulator | 103790 | [103790-loot-box-achievement-simulator.json](./103790-loot-box-achievement-simulator.json) |
