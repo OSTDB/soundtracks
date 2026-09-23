@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madison: Possessed Edition | 198392 | [198392-madison-possessed-edition.json](./198392-madison-possessed-edition.json) |
 | Madland | 121598 | [121598-madland.json](./121598-madland.json) |
 | Madman | 272280 | [272280-madman.json](./272280-madman.json) |
+| Madman's Dice | 374801 | [374801-madmans-dice.json](./374801-madmans-dice.json) |
 | Madness | 309846 | [309846-madness.json](./309846-madness.json) |
 | Madness & the Minotaur | 24851 | [24851-madness-and-the-minotaur.json](./24851-madness-and-the-minotaur.json) |
 | Madness Arena | 322755 | [322755-madness-arena.json](./322755-madness-arena.json) |
@@ -741,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Moving Boxes | 376447 | [376447-maid-moving-boxes.json](./376447-maid-moving-boxes.json) |
 | Maid of Salvation | 369620 | [369620-maid-of-salvation.json](./369620-maid-of-salvation.json) |
 | Maid of the Dead | 284495 | [284495-maid-of-the-dead.json](./284495-maid-of-the-dead.json) |
+| Maid of Venia | 374803 | [374803-maid-of-venia.json](./374803-maid-of-venia.json) |
 | Maid PizzaHub | 201252 | [201252-maid-pizzahub.json](./201252-maid-pizzahub.json) |
 | Maid Survivors: Little Angels | 298032 | [298032-maid-survivors-little-angels.json](./298032-maid-survivors-little-angels.json) |
 | Maid-Sama Cafe: Anime Boys Services in Cute Outfits | 396434 | [396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json](./396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json) |
@@ -7114,6 +7116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Reaper Girlfriend | 230358 | [230358-my-reaper-girlfriend.json](./230358-my-reaper-girlfriend.json) |
 | My Rental Girlfriend | 205819 | [205819-my-rental-girlfriend.json](./205819-my-rental-girlfriend.json) |
 | My Resume: The Video Game | 88014 | [88014-my-resume-the-video-game.json](./88014-my-resume-the-video-game.json) |
+| My Retro World | 374823 | [374823-my-retro-world.json](./374823-my-retro-world.json) |
 | My Riding Stables | 17045 | [17045-my-riding-stables.json](./17045-my-riding-stables.json) |
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
 | My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
@@ -7485,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
 | Myth Finders | 364510 | [364510-myth-finders.json](./364510-myth-finders.json) |
+| Myth Guardians | 374820 | [374820-myth-guardians.json](./374820-myth-guardians.json) |
 | Myth II: Chimera | 72070 | [72070-myth-ii-chimera.json](./72070-myth-ii-chimera.json) |
 | Myth II: Soulblighter | 799 | [799-myth-ii-soulblighter.json](./799-myth-ii-soulblighter.json) |
 | Myth II: Worlds | 210108 | [210108-myth-ii-worlds.json](./210108-myth-ii-worlds.json) |
