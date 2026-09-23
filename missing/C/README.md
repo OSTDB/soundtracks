@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerberus | 25955 | [25955-cerberus.json](./25955-cerberus.json) |
 | Cerberus | 272016 | [272016-cerberus.json](./272016-cerberus.json) |
 | Cerberus Corporation: Red Room | 335246 | [335246-cerberus-corporation-red-room.json](./335246-cerberus-corporation-red-room.json) |
+| Cereal Cafe | 351799 | [351799-cereal-cafe.json](./351799-cereal-cafe.json) |
 | Cerebrawl | 70367 | [70367-cerebrawl.json](./70367-cerebrawl.json) |
 | Cerebrum Remastered | 401771 | [401771-cerebrum-remastered.json](./401771-cerebrum-remastered.json) |
 | Ceremonial Speedmaps | 271193 | [271193-ceremonial-speedmaps.json](./271193-ceremonial-speedmaps.json) |
