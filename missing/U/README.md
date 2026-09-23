@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Useless Box: The Game | 126615 | [126615-useless-box-the-game.json](./126615-useless-box-the-game.json) |
 | Useless Demon Lord | 264351 | [264351-useless-demon-lord.json](./264351-useless-demon-lord.json) |
 | Useless Healer | 411595 | [411595-useless-healer.json](./411595-useless-healer.json) |
+| Useless Timmy | 372650 | [372650-useless-timmy.json](./372650-useless-timmy.json) |
 | User Is Typing // Message Sent | 134687 | [134687-user-is-typing-message-sent.json](./134687-user-is-typing-message-sent.json) |
 | Ushinawareta Mirai wo Motomete | 76601 | [76601-ushinawareta-mirai-wo-motomete.json](./76601-ushinawareta-mirai-wo-motomete.json) |
 | Ushio to Tora | 38380 | [38380-ushio-to-tora.json](./38380-ushio-to-tora.json) |
