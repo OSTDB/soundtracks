@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
+| Eliza | 345129 | [345129-eliza.json](./345129-eliza.json) |
 | Eliza | 92919 | [92919-eliza.json](./92919-eliza.json) |
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
 | Elk Simulator | 158565 | [158565-elk-simulator.json](./158565-elk-simulator.json) |
@@ -1160,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Epsilon | 125379 | [125379-empty-epsilon.json](./125379-empty-epsilon.json) |
 | Empty Heaven: Liminal Dream | 400318 | [400318-empty-heaven-liminal-dream.json](./400318-empty-heaven-liminal-dream.json) |
 | Empty Mind: Blank Fate | 307578 | [307578-empty-mind-blank-fate.json](./307578-empty-mind-blank-fate.json) |
+| Empty Shell 2 | 345148 | [345148-empty-shell-2.json](./345148-empty-shell-2.json) |
 | Empty Shell: The Loop | 302365 | [302365-empty-shell-the-loop.json](./302365-empty-shell-the-loop.json) |
 | Empty Soul: S&S Edition | 32914 | [32914-empty-soul-s-and-s-edition.json](./32914-empty-soul-s-and-s-edition.json) |
 | Empty the Ocean With a Bucket | 392927 | [392927-empty-the-ocean-with-a-bucket.json](./392927-empty-the-ocean-with-a-bucket.json) |
@@ -2889,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Match | 105861 | [105861-extreme-match.json](./105861-extreme-match.json) |
 | Extreme Mining | 135035 | [135035-extreme-mining.json](./135035-extreme-mining.json) |
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
+| Extreme Offroad Racing VR | 345124 | [345124-extreme-offroad-racing-vr.json](./345124-extreme-offroad-racing-vr.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
 | Extreme Pamplona | 139232 | [139232-extreme-pamplona.json](./139232-extreme-pamplona.json) |
 | Extreme Power Soccer | 247043 | [247043-extreme-power-soccer.json](./247043-extreme-power-soccer.json) |
