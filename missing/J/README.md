@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance: Decades of Hits | 409690 | [409690-just-dance-decades-of-hits.json](./409690-just-dance-decades-of-hits.json) |
 | Just Dash | 107912 | [107912-just-dash.json](./107912-just-dash.json) |
 | Just Date | 253928 | [253928-just-date.json](./253928-just-date.json) |
+| Just Date Vegan | 368656 | [368656-just-date-vegan.json](./368656-just-date-vegan.json) |
 | Just deal with it! | 103397 | [103397-just-deal-with-it.json](./103397-just-deal-with-it.json) |
 | Just Death | 36073 | [36073-just-death.json](./36073-just-death.json) |
 | Just Dismantle | 393137 | [393137-just-dismantle.json](./393137-just-dismantle.json) |
