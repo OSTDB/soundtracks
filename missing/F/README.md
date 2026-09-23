@@ -3003,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Lines | 69880 | [69880-flower-lines.json](./69880-flower-lines.json) |
 | Flower Magic | 108457 | [108457-flower-magic.json](./108457-flower-magic.json) |
 | Flower of Ice Blossoming Under the Moon | 82918 | [82918-flower-of-ice-blossoming-under-the-moon.json](./82918-flower-of-ice-blossoming-under-the-moon.json) |
+| Flower Power | 354058 | [354058-flower-power.json](./354058-flower-power.json) |
 | Flower Shop of Broken Wonders | 299174 | [299174-flower-shop-of-broken-wonders.json](./299174-flower-shop-of-broken-wonders.json) |
 | Flower Shop: Big City Break | 209457 | [209457-flower-shop-big-city-break.json](./209457-flower-shop-big-city-break.json) |
 | Flower Shop: Summer In Fairbrook | 9843 | [9843-flower-shop-summer-in-fairbrook.json](./9843-flower-shop-summer-in-fairbrook.json) |
