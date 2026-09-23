@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warp | 74327 | [74327-warp.json](./74327-warp.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
+| Warp Bot | 347879 | [347879-warp-bot.json](./347879-warp-bot.json) |
 | Warp Cinema | 321600 | [321600-warp-cinema.json](./321600-warp-cinema.json) |
 | Warp Commander | 360673 | [360673-warp-commander.json](./360673-warp-commander.json) |
 | Warp Knights | 391891 | [391891-warp-knights.json](./391891-warp-knights.json) |
@@ -1264,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wetter | 371477 | [371477-wetter.json](./371477-wetter.json) |
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
 | Wetware | 142259 | [142259-wetware.json](./142259-wetware.json) |
+| Weyrdlets: Fishing & Friends - Summer Update | 347863 | [347863-weyrdlets-fishing-and-friends-summer-update.json](./347863-weyrdlets-fishing-and-friends-summer-update.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
 | WGT Baseball | 64370 | [64370-wgt-baseball.json](./64370-wgt-baseball.json) |
@@ -1588,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers | 299154 | [299154-whispers.json](./299154-whispers.json) |
 | Whispers from Within: Moving On | 159832 | [159832-whispers-from-within-moving-on.json](./159832-whispers-from-within-moving-on.json) |
 | Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
+| Whispers in the Fog | 347871 | [347871-whispers-in-the-fog.json](./347871-whispers-in-the-fog.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
 | Whispers In The Woods | 410452 | [410452-whispers-in-the-woods.json](./410452-whispers-in-the-woods.json) |
 | Whispers of Elenrod | 378401 | [378401-whispers-of-elenrod.json](./378401-whispers-of-elenrod.json) |
@@ -2076,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
 | Winner's Circle | 269662 | [269662-winners-circle.json](./269662-winners-circle.json) |
 | Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
+| Winnie the Pooh's Book Writing Speedrunner | 347916 | [347916-winnie-the-poohs-book-writing-speedrunner.json](./347916-winnie-the-poohs-book-writing-speedrunner.json) |
 | Winnie the Witch | 205840 | [205840-winnie-the-witch.json](./205840-winnie-the-witch.json) |
 | Winnie-the-Pooh Hops for Honey | 349335 | [349335-winnie-the-pooh-hops-for-honey.json](./349335-winnie-the-pooh-hops-for-honey.json) |
 | Winnie-the-Pooh: Black Honey | 366261 | [366261-winnie-the-pooh-black-honey.json](./366261-winnie-the-pooh-black-honey.json) |
