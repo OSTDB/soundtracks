@@ -265,6 +265,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenith Trace | 379879 | [379879-zenith-trace.json](./379879-zenith-trace.json) |
 | Zenith: The Last City | 145452 | [145452-zenith-the-last-city.json](./145452-zenith-the-last-city.json) |
 | Zenko: A Fox's Tale | 152848 | [152848-zenko-a-foxs-tale.json](./152848-zenko-a-foxs-tale.json) |
+| Zenkoku Baken Ouja Ketteisen 2: Omoshiro Bamei S | 341157 | [341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json](./341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json) |
+| Zenkoku Baken Ouja Ketteisen 2: Satella Mile Yosen 1 | 341158 | [341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json](./341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json) |
 | Zenless Zone Zero: Update 1.1 - Undercover R&B | 316048 | [316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json](./316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json) |
 | Zenless Zone Zero: Update 1.5 - Astra-nomical Moment | 327812 | [327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json](./327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json) |
 | Zenless Zone Zero: Update 1.7 - Bury Your Tears With the Past | 339793 | [339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json](./339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json) |
