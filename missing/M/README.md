@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
 | Mahoutsukai no Yoru | 65487 | [65487-mahoutsukai-no-yoru.json](./65487-mahoutsukai-no-yoru.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
+| Mai Nurse | 384807 | [384807-mai-nurse.json](./384807-mai-nurse.json) |
 | Mai-Chan's Sweet Buns | 142448 | [142448-mai-chans-sweet-buns.json](./142448-mai-chans-sweet-buns.json) |
 | Mai-Hime Bakuretsu! Fuuka Gakuen Gekitoushi?! | 72651 | [72651-mai-hime-bakuretsu-fuuka-gakuen-gekitoushi.json](./72651-mai-hime-bakuretsu-fuuka-gakuen-gekitoushi.json) |
 | Mai-Hime Senretsu! Shin Fuuka Gakuen Gekitoushi!! | 72652 | [72652-mai-hime-senretsu-shin-fuuka-gakuen-gekitoushi.json](./72652-mai-hime-senretsu-shin-fuuka-gakuen-gekitoushi.json) |
@@ -2351,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechatronika | 166737 | [166737-mechatronika.json](./166737-mechatronika.json) |
 | Mechatroniks Attack | 30850 | [30850-mechatroniks-attack.json](./30850-mechatroniks-attack.json) |
 | MechaWing! | 244782 | [244782-mechawing.json](./244782-mechawing.json) |
+| Mechborn | 384809 | [384809-mechborn.json](./384809-mechborn.json) |
 | MechCom | 101549 | [101549-mechcom.json](./101549-mechcom.json) |
 | MechCom 2 | 105984 | [105984-mechcom-2.json](./105984-mechcom-2.json) |
 | MechCorp | 102886 | [102886-mechcorp.json](./102886-mechcorp.json) |
@@ -2989,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Oblivion: CnGalGirl | 393824 | [393824-memory-oblivion-cngalgirl.json](./393824-memory-oblivion-cngalgirl.json) |
 | Memory of a Broken Dimension | 24950 | [24950-memory-of-a-broken-dimension.json](./24950-memory-of-a-broken-dimension.json) |
 | Memory of Camping | 224120 | [224120-memory-of-camping.json](./224120-memory-of-camping.json) |
+| Memory of Lust | 384760 | [384760-memory-of-lust.json](./384760-memory-of-lust.json) |
 | Memory of Memorie: A Chill Story | 409654 | [409654-memory-of-memorie-a-chill-story.json](./409654-memory-of-memorie-a-chill-story.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Puzzle: Neko Girls | 286496 | [286496-memory-puzzle-neko-girls.json](./286496-memory-puzzle-neko-girls.json) |
@@ -3352,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaltech: Earthsiege Speech Pack | 98937 | [98937-metaltech-earthsiege-speech-pack.json](./98937-metaltech-earthsiege-speech-pack.json) |
 | Metamon | 227835 | [227835-metamon.json](./227835-metamon.json) |
 | Metamoqester | 39542 | [39542-metamoqester.json](./39542-metamoqester.json) |
+| Metamor Panic: Doki Doki Youma Busters!! | 384782 | [384782-metamor-panic-doki-doki-youma-busters.json](./384782-metamor-panic-doki-doki-youma-busters.json) |
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metamorphosis | 115657 | [115657-metamorphosis.json](./115657-metamorphosis.json) |
@@ -4529,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misgiven | 258040 | [258040-misgiven.json](./258040-misgiven.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
 | Miside Reality | 335963 | [335963-miside-reality.json](./335963-miside-reality.json) |
+| MiSide: Zero | 384789 | [384789-miside-zero.json](./384789-miside-zero.json) |
 | Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
 | Miska | 204523 | [204523-miska.json](./204523-miska.json) |
 | Miskal | 237519 | [237519-miskal.json](./237519-miskal.json) |
@@ -5408,6 +5413,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Nursery | 411821 | [411821-monster-nursery.json](./411821-monster-nursery.json) |
 | Monster of the Deep: Final Fantasy XV | 37087 | [37087-monster-of-the-deep-final-fantasy-xv.json](./37087-monster-of-the-deep-final-fantasy-xv.json) |
 | Monster Ops 10 | 379334 | [379334-monster-ops-10.json](./379334-monster-ops-10.json) |
+| Monster Ops 14 | 384811 | [384811-monster-ops-14.json](./384811-monster-ops-14.json) |
+| Monster Ops 15 | 384812 | [384812-monster-ops-15.json](./384812-monster-ops-15.json) |
 | Monster Ops 2 | 341333 | [341333-monster-ops-2.json](./341333-monster-ops-2.json) |
 | Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
 | Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
@@ -6929,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Holiness the Gobliness | 235355 | [235355-my-holiness-the-gobliness.json](./235355-my-holiness-the-gobliness.json) |
 | My Home - Design Dreams | 107000 | [107000-my-home-design-dreams.json](./107000-my-home-design-dreams.json) |
 | My Home Design: Makeover Games | 239043 | [239043-my-home-design-makeover-games.json](./239043-my-home-design-makeover-games.json) |
+| My Home Dream | 384769 | [384769-my-home-dream.json](./384769-my-home-dream.json) |
 | My Home Poltergeist | 158692 | [158692-my-home-poltergeist.json](./158692-my-home-poltergeist.json) |
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
 | My Home VR | 127206 | [127206-my-home-vr.json](./127206-my-home-vr.json) |
