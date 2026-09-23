@@ -2313,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Sector 9 | 311280 | [311280-return-to-sector-9.json](./311280-return-to-sector-9.json) |
 | Return to Sector 9 | 73778 | [73778-return-to-sector-9.json](./73778-return-to-sector-9.json) |
 | Return to Sender | 336560 | [336560-return-to-sender.json](./336560-return-to-sender.json) |
+| Return to Wonderland | 356844 | [356844-return-to-wonderland.json](./356844-return-to-wonderland.json) |
 | Return to Yoshi's Island 64 | 159255 | [159255-return-to-yoshis-island-64.json](./159255-return-to-yoshis-island-64.json) |
 | Return. | 106161 | [106161-return.json](./106161-return.json) |
 | Returner Alien | 108500 | [108500-returner-alien.json](./108500-returner-alien.json) |
