@@ -2560,9 +2560,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
 | American Truck Simulator: Halloween Paint Jobs Pack | 353401 | [353401-american-truck-simulator-halloween-paint-jobs-pack.json](./353401-american-truck-simulator-halloween-paint-jobs-pack.json) |
 | American Truck Simulator: Heavy Cargo Pack | 44120 | [44120-american-truck-simulator-heavy-cargo-pack.json](./44120-american-truck-simulator-heavy-cargo-pack.json) |
+| American Truck Simulator: Illinois | 348974 | [348974-american-truck-simulator-illinois.json](./348974-american-truck-simulator-illinois.json) |
+| American Truck Simulator: Iowa | 348972 | [348972-american-truck-simulator-iowa.json](./348972-american-truck-simulator-iowa.json) |
 | American Truck Simulator: JCB Equipment Pack | 302496 | [302496-american-truck-simulator-jcb-equipment-pack.json](./302496-american-truck-simulator-jcb-equipment-pack.json) |
 | American Truck Simulator: Kenworth T680 2022 | 283910 | [283910-american-truck-simulator-kenworth-t680-2022.json](./283910-american-truck-simulator-kenworth-t680-2022.json) |
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
+| American Truck Simulator: Louisiana | 348973 | [348973-american-truck-simulator-louisiana.json](./348973-american-truck-simulator-louisiana.json) |
 | American Truck Simulator: Mack Pinnacle | 353408 | [353408-american-truck-simulator-mack-pinnacle.json](./353408-american-truck-simulator-mack-pinnacle.json) |
 | American Truck Simulator: Pink Ribbon Charity Pack | 353398 | [353398-american-truck-simulator-pink-ribbon-charity-pack.json](./353398-american-truck-simulator-pink-ribbon-charity-pack.json) |
 | American Truck Simulator: Retrowave Paint Jobs Pack | 353405 | [353405-american-truck-simulator-retrowave-paint-jobs-pack.json](./353405-american-truck-simulator-retrowave-paint-jobs-pack.json) |
