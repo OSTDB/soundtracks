@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
 | Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
+| Tape Art | 384207 | [384207-tape-art.json](./384207-tape-art.json) |
 | Tape Recovery Simulator 96K | 152110 | [152110-tape-recovery-simulator-96k.json](./152110-tape-recovery-simulator-96k.json) |
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
 | Tape Us Out | 332402 | [332402-tape-us-out.json](./332402-tape-us-out.json) |
@@ -942,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappingo | 23517 | [23517-tappingo.json](./23517-tappingo.json) |
+| TapPlus | 384211 | [384211-tapplus.json](./384211-tapplus.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
 | Tappy Shots | 87362 | [87362-tappy-shots.json](./87362-tappy-shots.json) |
@@ -2332,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
 | The Beat, The Step, and the Cowboys | 59041 | [59041-the-beat-the-step-and-the-cowboys.json](./59041-the-beat-the-step-and-the-cowboys.json) |
 | The Beatles: Adventures in Pepperland | 198501 | [198501-the-beatles-adventures-in-pepperland.json](./198501-the-beatles-adventures-in-pepperland.json) |
+| The Beautiful World | 384228 | [384228-the-beautiful-world.json](./384228-the-beautiful-world.json) |
 | The Bee Hive | 378786 | [378786-the-bee-hive.json](./378786-the-bee-hive.json) |
 | The Beginner Investor | 384087 | [384087-the-beginner-investor.json](./384087-the-beginner-investor.json) |
 | The Beginning of the End | 58853 | [58853-the-beginning-of-the-end.json](./58853-the-beginning-of-the-end.json) |
@@ -2438,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
 | The Bluecoats: North vs South - Limited Edition | 139929 | [139929-the-bluecoats-north-vs-south-limited-edition.json](./139929-the-bluecoats-north-vs-south-limited-edition.json) |
+| The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
 | The Body Cam Project | 320376 | [320376-the-body-cam-project.json](./320376-the-body-cam-project.json) |
 | The Body Monstrous | 176502 | [176502-the-body-monstrous.json](./176502-the-body-monstrous.json) |
 | The Bog's Heart | 176963 | [176963-the-bogs-heart.json](./176963-the-bogs-heart.json) |
@@ -5674,6 +5678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rumble Fish 2: Additional Character - Beatrice | 226309 | [226309-the-rumble-fish-2-additional-character-beatrice.json](./226309-the-rumble-fish-2-additional-character-beatrice.json) |
 | The Rumble Fish 2: Collector's Edition | 222947 | [222947-the-rumble-fish-2-collectors-edition.json](./222947-the-rumble-fish-2-collectors-edition.json) |
 | The Rumble Fish 2: Deluxe Edition | 251601 | [251601-the-rumble-fish-2-deluxe-edition.json](./251601-the-rumble-fish-2-deluxe-edition.json) |
+| The Rumble Fish 2: Nintendo Switch 2 Edition | 384186 | [384186-the-rumble-fish-2-nintendo-switch-2-edition.json](./384186-the-rumble-fish-2-nintendo-switch-2-edition.json) |
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
 | The Runaway Feijoao | 159874 | [159874-the-runaway-feijoao.json](./159874-the-runaway-feijoao.json) |
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
@@ -9673,6 +9678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defence | 80216 | [80216-tower-defence.json](./80216-tower-defence.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
+| Tower Defense: Goblin Wars | 384204 | [384204-tower-defense-goblin-wars.json](./384204-tower-defense-goblin-wars.json) |
 | Tower Dominion | 328027 | [328027-tower-dominion.json](./328027-tower-dominion.json) |
 | Tower Dream 2 | 382927 | [382927-tower-dream-2.json](./382927-tower-dream-2.json) |
 | Tower Empire Builder | 127096 | [127096-tower-empire-builder.json](./127096-tower-empire-builder.json) |
@@ -11643,6 +11649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
 | Twinkle Star Sprites | 35378 | [35378-twinkle-star-sprites.json](./35378-twinkle-star-sprites.json) |
+| Twinkle Stardust's Catnap Chaos | 384192 | [384192-twinkle-stardusts-catnap-chaos.json](./384192-twinkle-stardusts-catnap-chaos.json) |
 | Twinkle Tale | 46179 | [46179-twinkle-tale.json](./46179-twinkle-tale.json) |
 | Twinkle Yohane | 405501 | [405501-twinkle-yohane.json](./405501-twinkle-yohane.json) |
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
