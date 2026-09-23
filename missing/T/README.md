@@ -4891,6 +4891,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Vikings | 454 | [454-the-lost-vikings.json](./454-the-lost-vikings.json) |
 | The Lost Village: Fantasy | 289987 | [289987-the-lost-village-fantasy.json](./289987-the-lost-village-fantasy.json) |
+| The Lost Village: Monster Sect | 358474 | [358474-the-lost-village-monster-sect.json](./358474-the-lost-village-monster-sect.json) |
+| The Lost Village: Monster Sect Part 2 | 358475 | [358475-the-lost-village-monster-sect-part-2.json](./358475-the-lost-village-monster-sect-part-2.json) |
 | The Lost Weld | 197385 | [197385-the-lost-weld.json](./197385-the-lost-weld.json) |
 | The Lost World: Jurassic Park | 147441 | [147441-the-lost-world-jurassic-park.json](./147441-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147442 | [147442-the-lost-world-jurassic-park.json](./147442-the-lost-world-jurassic-park.json) |
@@ -5754,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Marines Commando | 9370 | [9370-the-royal-marines-commando.json](./9370-the-royal-marines-commando.json) |
 | The Ruins of Cawdor | 54682 | [54682-the-ruins-of-cawdor.json](./54682-the-ruins-of-cawdor.json) |
 | The Ruins of Machi Itcza | 182520 | [182520-the-ruins-of-machi-itcza.json](./182520-the-ruins-of-machi-itcza.json) |
+| The Ruins of Shanhai Labyrinth | 358482 | [358482-the-ruins-of-shanhai-labyrinth.json](./358482-the-ruins-of-shanhai-labyrinth.json) |
 | The Ruins of the Lost Kingdom: Chronicle | 77960 | [77960-the-ruins-of-the-lost-kingdom-chronicle.json](./77960-the-ruins-of-the-lost-kingdom-chronicle.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
 | The Rumble Fish | 226310 | [226310-the-rumble-fish.json](./226310-the-rumble-fish.json) |
@@ -6451,6 +6454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
 | The Things We Lost in the Flood | 118170 | [118170-the-things-we-lost-in-the-flood.json](./118170-the-things-we-lost-in-the-flood.json) |
 | The Third Age | 264137 | [264137-the-third-age.json](./264137-the-third-age.json) |
+| The Third Celestial Realm | 358500 | [358500-the-third-celestial-realm.json](./358500-the-third-celestial-realm.json) |
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
 | The Thorns of War | 183445 | [183445-the-thorns-of-war.json](./183445-the-thorns-of-war.json) |
@@ -7262,6 +7266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
 | They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
+| They Took the Sun | 358467 | [358467-they-took-the-sun.json](./358467-they-took-the-sun.json) |
 | They Walk Beyond | 386303 | [386303-they-walk-beyond.json](./386303-they-walk-beyond.json) |
 | They Watch | 370298 | [370298-they-watch.json](./370298-they-watch.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
@@ -9201,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonari no Princess Rolfee! | 70402 | [70402-tonari-no-princess-rolfee.json](./70402-tonari-no-princess-rolfee.json) |
 | Tonarino | 400960 | [400960-tonarino.json](./400960-tonarino.json) |
 | Tondeke Perman | 385570 | [385570-tondeke-perman.json](./385570-tondeke-perman.json) |
+| Tong Create Thorns | 358513 | [358513-tong-create-thorns.json](./358513-tong-create-thorns.json) |
 | Tongari Boushi to Mahou no Machi | 109053 | [109053-tongari-boushi-to-mahou-no-machi.json](./109053-tongari-boushi-to-mahou-no-machi.json) |
 | Tongari Boushi to Mahou no Omise | 109055 | [109055-tongari-boushi-to-mahou-no-omise.json](./109055-tongari-boushi-to-mahou-no-omise.json) |
 | Tongari Boushi to Oshare na Mahou Tsukai | 109054 | [109054-tongari-boushi-to-oshare-na-mahou-tsukai.json](./109054-tongari-boushi-to-oshare-na-mahou-tsukai.json) |
