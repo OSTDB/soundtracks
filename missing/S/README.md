@@ -5265,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
 | SM64 TsucnenT's Treasures PC Port | 378273 | [378273-sm64-tsucnents-treasures-pc-port.json](./378273-sm64-tsucnents-treasures-pc-port.json) |
 | SM64: Rocky Mountain Revisited | 256295 | [256295-sm64-rocky-mountain-revisited.json](./256295-sm64-rocky-mountain-revisited.json) |
+| SM64.z64 | 297540 | [297540-sm64-z64.json](./297540-sm64-z64.json) |
 | SM64CoOpDX | 307768 | [307768-sm64coopdx.json](./307768-sm64coopdx.json) |
 | SM64DS: The Adventurous Journey | 315012 | [315012-sm64ds-the-adventurous-journey.json](./315012-sm64ds-the-adventurous-journey.json) |
 | SM64EX Coop | 198369 | [198369-sm64ex-coop.json](./198369-sm64ex-coop.json) |
@@ -5831,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Party: Aspen | 86954 | [86954-snowboard-party-aspen.json](./86954-snowboard-party-aspen.json) |
 | Snowboarder MP | 247189 | [247189-snowboarder-mp.json](./247189-snowboarder-mp.json) |
 | Snowboarder XS | 325285 | [325285-snowboarder-xs.json](./325285-snowboarder-xs.json) |
+| Snowboarders: Kiri Adventures | 297562 | [297562-snowboarders-kiri-adventures.json](./297562-snowboarders-kiri-adventures.json) |
 | Snowboarding | 152929 | [152929-snowboarding.json](./152929-snowboarding.json) |
 | Snowboarding | 19688 | [19688-snowboarding.json](./19688-snowboarding.json) |
 | Snowboarding | 230837 | [230837-snowboarding.json](./230837-snowboarding.json) |
@@ -6979,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
 | SOS | 72334 | [72334-sos.json](./72334-sos.json) |
 | SOS Defense | 108455 | [108455-sos-defense.json](./108455-sos-defense.json) |
+| SOS OPS!: Guns n' Ops | 297553 | [297553-sos-ops-guns-n-ops.json](./297553-sos-ops-guns-n-ops.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
 | SOS: Save Our Ship | 373184 | [373184-sos-save-our-ship.json](./373184-sos-save-our-ship.json) |
 | Soshite Bokura ha... And He Said | 145449 | [145449-soshite-bokura-ha-and-he-said.json](./145449-soshite-bokura-ha-and-he-said.json) |
@@ -10322,6 +10325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Racer G | 125823 | [125823-storm-racer-g.json](./125823-storm-racer-g.json) |
 | Storm Rider | 125842 | [125842-storm-rider.json](./125842-storm-rider.json) |
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
+| Storm Storm | 297582 | [297582-storm-storm.json](./297582-storm-storm.json) |
 | Storm Strikers | 124746 | [124746-storm-strikers.json](./124746-storm-strikers.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
 | Storm Tale 2 & Ancient Relics: Adventure Bundle | 387681 | [387681-storm-tale-2-and-ancient-relics-adventure-bundle.json](./387681-storm-tale-2-and-ancient-relics-adventure-bundle.json) |
