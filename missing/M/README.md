@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario FA: Vanishing Colosseum | 322772 | [322772-mario-fa-vanishing-colosseum.json](./322772-mario-fa-vanishing-colosseum.json) |
 | Mario for the Masses | 330716 | [330716-mario-for-the-masses.json](./330716-mario-for-the-masses.json) |
 | Mario Forever Galaxy | 139452 | [139452-mario-forever-galaxy.json](./139452-mario-forever-galaxy.json) |
+| Mario Forever Remake | 307667 | [307667-mario-forever-remake.json](./307667-mario-forever-remake.json) |
 | Mario Forever: SMW Edition | 198464 | [198464-mario-forever-smw-edition.json](./198464-mario-forever-smw-edition.json) |
 | Mario Gives Up | 272818 | [272818-mario-gives-up.json](./272818-mario-gives-up.json) |
 | Mario Golf | 328590 | [328590-mario-golf.json](./328590-mario-golf.json) |
@@ -2894,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Twin Destinies | 313111 | [313111-mega-man-twin-destinies.json](./313111-mega-man-twin-destinies.json) |
 | Mega Man: Wily Tower | 255798 | [255798-mega-man-wily-tower.json](./255798-mega-man-wily-tower.json) |
 | Mega Marble World 2 | 157671 | [157671-mega-marble-world-2.json](./157671-mega-marble-world-2.json) |
+| Mega Mario | 307712 | [307712-mega-mario.json](./307712-mega-mario.json) |
 | Mega Mario World 2: Awakened Power | 229347 | [229347-mega-mario-world-2-awakened-power.json](./229347-mega-mario-world-2-awakened-power.json) |
 | Mega Match | 209530 | [209530-mega-match.json](./209530-mega-match.json) |
 | Mega Math | 19670 | [19670-mega-math.json](./19670-mega-math.json) |
@@ -3518,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messy Hearts | 373178 | [373178-messy-hearts.json](./373178-messy-hearts.json) |
 | Messy Room Girlfriend Project | 393129 | [393129-messy-room-girlfriend-project.json](./393129-messy-room-girlfriend-project.json) |
 | Messy Up | 263771 | [263771-messy-up.json](./263771-messy-up.json) |
+| Mestres da Pangada | 307683 | [307683-mestres-da-pangada.json](./307683-mestres-da-pangada.json) |
 | Mesudoku | 400866 | [400866-mesudoku.json](./400866-mesudoku.json) |
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
@@ -7078,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
+| Mushroom Kingdom Showdown | 307714 | [307714-mushroom-kingdom-showdown.json](./307714-mushroom-kingdom-showdown.json) |
 | Mushroom Manor | 358476 | [358476-mushroom-manor.json](./358476-mushroom-manor.json) |
 | Mushroom Moonrise | 287780 | [287780-mushroom-moonrise.json](./287780-mushroom-moonrise.json) |
 | Mushroom Mountain | 248114 | [248114-mushroom-mountain.json](./248114-mushroom-mountain.json) |
