@@ -3461,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents: Breakin' da Rules | 3911 | [3911-the-fairly-oddparents-breakin-da-rules.json](./3911-the-fairly-oddparents-breakin-da-rules.json) |
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
 | The Fairly OddParents: Enter the Cleft | 18257 | [18257-the-fairly-oddparents-enter-the-cleft.json](./18257-the-fairly-oddparents-enter-the-cleft.json) |
+| The Fairly OddParents: Fairies of Fury | 325004 | [325004-the-fairly-oddparents-fairies-of-fury.json](./325004-the-fairly-oddparents-fairies-of-fury.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
 | The Fairy's Song | 140405 | [140405-the-fairys-song.json](./140405-the-fairys-song.json) |
 | The Fairyland Story | 205665 | [205665-the-fairyland-story.json](./205665-the-fairyland-story.json) |
@@ -7356,6 +7357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's Blood in my Soup | 382340 | [382340-theres-blood-in-my-soup.json](./382340-theres-blood-in-my-soup.json) |
 | There's No Dinosaurs 2 | 289970 | [289970-theres-no-dinosaurs-2.json](./289970-theres-no-dinosaurs-2.json) |
 | There's No Dinosaurs 2: Dark | 316239 | [316239-theres-no-dinosaurs-2-dark.json](./316239-theres-no-dinosaurs-2-dark.json) |
+| There's No Dragon! | 325024 | [325024-theres-no-dragon.json](./325024-theres-no-dragon.json) |
 | There's No Dragons | 330899 | [330899-theres-no-dragons.json](./330899-theres-no-dragons.json) |
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
 | There's No Monsters | 306991 | [306991-theres-no-monsters.json](./306991-theres-no-monsters.json) |
@@ -10268,6 +10270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Conquest | 326281 | [326281-trade-conquest.json](./326281-trade-conquest.json) |
+| Trade Em Up: TCG Empire Shop | 324995 | [324995-trade-em-up-tcg-empire-shop.json](./324995-trade-em-up-tcg-empire-shop.json) |
 | Trade Empires | 70113 | [70113-trade-empires.json](./70113-trade-empires.json) |
 | Trade Post Forest | 258986 | [258986-trade-post-forest.json](./258986-trade-post-forest.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
@@ -10644,9 +10647,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainwreck | 327325 | [327325-trainwreck.json](./327325-trainwreck.json) |
 | Trainyard Express | 261861 | [261861-trainyard-express.json](./261861-trainyard-express.json) |
 | Trainz | 920 | [920-trainz.json](./920-trainz.json) |
+| Trainz 2019: [TL] Rainsville - Danville | 325026 | [325026-trainz-2019-tl-rainsville-danville.json](./325026-trainz-2019-tl-rainsville-danville.json) |
+| Trainz 2019: B08 Baggage Car | 325030 | [325030-trainz-2019-b08-baggage-car.json](./325030-trainz-2019-b08-baggage-car.json) |
+| Trainz 2019: BR Class 24 - Blue & Green | 325029 | [325029-trainz-2019-br-class-24-blue-and-green.json](./325029-trainz-2019-br-class-24-blue-and-green.json) |
+| Trainz 2019: BR General Utility Van Pack 1 | 325035 | [325035-trainz-2019-br-general-utility-van-pack-1.json](./325035-trainz-2019-br-general-utility-van-pack-1.json) |
 | Trainz 2019: C44aci Locomotive - Aurizon Pack | 325040 | [325040-trainz-2019-c44aci-locomotive-aurizon-pack.json](./325040-trainz-2019-c44aci-locomotive-aurizon-pack.json) |
+| Trainz 2019: C44aci Locomotive - Xstrata/Glencore Pack | 325032 | [325032-trainz-2019-c44aci-locomotive-xstrata-glencore-pack.json](./325032-trainz-2019-c44aci-locomotive-xstrata-glencore-pack.json) |
+| Trainz 2019: Model Trainz - Germany | 325037 | [325037-trainz-2019-model-trainz-germany.json](./325037-trainz-2019-model-trainz-germany.json) |
+| Trainz 2019: NSW Bradken 120T Coal Hopper Mega Pack | 325027 | [325027-trainz-2019-nsw-bradken-120t-coal-hopper-mega-pack.json](./325027-trainz-2019-nsw-bradken-120t-coal-hopper-mega-pack.json) |
+| Trainz 2019: Pro Train - Altoona Works | 325034 | [325034-trainz-2019-pro-train-altoona-works.json](./325034-trainz-2019-pro-train-altoona-works.json) |
+| Trainz 2019: Pro Train - ATSF F7A/B Warbonnet Loco Bundle | 325031 | [325031-trainz-2019-pro-train-atsf-f7a-b-warbonnet-loco-bundle.json](./325031-trainz-2019-pro-train-atsf-f7a-b-warbonnet-loco-bundle.json) |
 | Trainz 2019: Pro Train - BNSF Loco Bundle 1 | 325041 | [325041-trainz-2019-pro-train-bnsf-loco-bundle-1.json](./325041-trainz-2019-pro-train-bnsf-loco-bundle-1.json) |
+| Trainz 2019: Pro Train - CSX Loco Bundle 1 | 325036 | [325036-trainz-2019-pro-train-csx-loco-bundle-1.json](./325036-trainz-2019-pro-train-csx-loco-bundle-1.json) |
+| Trainz 2019: Pro Train: NS Loco Bundle 1 | 325028 | [325028-trainz-2019-pro-train-ns-loco-bundle-1.json](./325028-trainz-2019-pro-train-ns-loco-bundle-1.json) |
+| Trainz 2019: RCH 14T Class A/B Tankers | 325033 | [325033-trainz-2019-rch-14t-class-a-b-tankers.json](./325033-trainz-2019-rch-14t-class-a-b-tankers.json) |
 | Trainz 2019: SA AN Class - Australian National | 325039 | [325039-trainz-2019-sa-an-class-australian-national.json](./325039-trainz-2019-sa-an-class-australian-national.json) |
+| Trainz 2019: SA AN Class - Pacific National | 325025 | [325025-trainz-2019-sa-an-class-pacific-national.json](./325025-trainz-2019-sa-an-class-pacific-national.json) |
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
 | Trainz Plus: Amtrak F40PH 2 pack | 205558 | [205558-trainz-plus-amtrak-f40ph-2-pack.json](./205558-trainz-plus-amtrak-f40ph-2-pack.json) |
 | Trainz Plus: Amtrak P42DC - Phase III | 205543 | [205543-trainz-plus-amtrak-p42dc-phase-iii.json](./205543-trainz-plus-amtrak-p42dc-phase-iii.json) |
