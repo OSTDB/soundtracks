@@ -3467,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2021 Touch | 139257 | [139257-football-manager-2021-touch.json](./139257-football-manager-2021-touch.json) |
 | Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
+| Football Manager 2024 Mobile | 295327 | [295327-football-manager-2024-mobile.json](./295327-football-manager-2024-mobile.json) |
 | Football Manager 26 | 365487 | [365487-football-manager-26.json](./365487-football-manager-26.json) |
 | Football Manager Handheld 2010 | 52218 | [52218-football-manager-handheld-2010.json](./52218-football-manager-handheld-2010.json) |
 | Football Manager Handheld 2013 | 42867 | [42867-football-manager-handheld-2013.json](./42867-football-manager-handheld-2013.json) |
@@ -3628,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Harvester Tractor 3D | 89941 | [89941-forest-harvester-tractor-3d.json](./89941-forest-harvester-tractor-3d.json) |
 | Forest Heroes | 311581 | [311581-forest-heroes.json](./311581-forest-heroes.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
+| Forest Journeys | 295311 | [295311-forest-journeys.json](./295311-forest-journeys.json) |
 | Forest Jump | 270171 | [270171-forest-jump.json](./270171-forest-jump.json) |
 | Forest Keeper Lookout | 383950 | [383950-forest-keeper-lookout.json](./383950-forest-keeper-lookout.json) |
 | Forest Kingdom | 186804 | [186804-forest-kingdom.json](./186804-forest-kingdom.json) |
@@ -3743,6 +3745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Tales: Day of the Dead | 33244 | [33244-forgotten-tales-day-of-the-dead.json](./33244-forgotten-tales-day-of-the-dead.json) |
 | Forgotten Trails | 406697 | [406697-forgotten-trails.json](./406697-forgotten-trails.json) |
+| Forgotten Vale | 295312 | [295312-forgotten-vale.json](./295312-forgotten-vale.json) |
 | Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
 | Forgotten: Whispers From Ashes | 373194 | [373194-forgotten-whispers-from-ashes.json](./373194-forgotten-whispers-from-ashes.json) |
 | Forgotton Anne | 24426 | [24426-forgotton-anne.json](./24426-forgotton-anne.json) |
