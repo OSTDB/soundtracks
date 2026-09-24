@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Targeting Maths Lab Launch Pad | 291997 | [291997-targeting-maths-lab-launch-pad.json](./291997-targeting-maths-lab-launch-pad.json) |
 | Targhan | 10849 | [10849-targhan.json](./10849-targhan.json) |
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
+| Tarisland: Season 1 - Blight Dragon Elegy | 314403 | [314403-tarisland-season-1-blight-dragon-elegy.json](./314403-tarisland-season-1-blight-dragon-elegy.json) |
 | Tarnsman's Projectile Hell | 262435 | [262435-tarnsmans-projectile-hell.json](./262435-tarnsmans-projectile-hell.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
 | Taro Is Back | 415094 | [415094-taro-is-back.json](./415094-taro-is-back.json) |
@@ -9475,6 +9476,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Sonic McOrigins Plus Christmas | 279726 | [279726-tony-hawks-sonic-mcorigins-plus-christmas.json](./279726-tony-hawks-sonic-mcorigins-plus-christmas.json) |
 | Tony Hawk's Underground | 2698 | [2698-tony-hawks-underground.json](./2698-tony-hawks-underground.json) |
 | Tony Hawk's Underground 2 | 2699 | [2699-tony-hawks-underground-2.json](./2699-tony-hawks-underground-2.json) |
+| Tony Hawk's Underground 2: Ricco Harbor | 314451 | [314451-tony-hawks-underground-2-ricco-harbor.json](./314451-tony-hawks-underground-2-ricco-harbor.json) |
+| Tony Hawk's Underground 2: The Shell Secret | 314453 | [314453-tony-hawks-underground-2-the-shell-secret.json](./314453-tony-hawks-underground-2-the-shell-secret.json) |
+| Tony Hawk's Underground 2: Wuhu Island from Mario Kart 7 | 314454 | [314454-tony-hawks-underground-2-wuhu-island-from-mario-kart-7.json](./314454-tony-hawks-underground-2-wuhu-island-from-mario-kart-7.json) |
 | Tony La Russa Baseball '95 | 95378 | [95378-tony-la-russa-baseball-95.json](./95378-tony-la-russa-baseball-95.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
 | Tony La Russa's Ultimate Baseball | 95470 | [95470-tony-la-russas-ultimate-baseball.json](./95470-tony-la-russas-ultimate-baseball.json) |
@@ -9670,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
 | Toroa: Skycall | 204521 | [204521-toroa-skycall.json](./204521-toroa-skycall.json) |
+| Torpedo Alley | 314417 | [314417-torpedo-alley.json](./314417-torpedo-alley.json) |
 | Torpedo Boat | 239648 | [239648-torpedo-boat.json](./239648-torpedo-boat.json) |
 | Torque | 179604 | [179604-torque.json](./179604-torque.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
@@ -11373,6 +11378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger | 104044 | [104044-trigger.json](./104044-trigger.json) |
 | Trigger | 179070 | [179070-trigger.json](./179070-trigger.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
+| Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
 | Trigger Saint | 35627 | [35627-trigger-saint.json](./35627-trigger-saint.json) |
 | Trigger Spree | 195623 | [195623-trigger-spree.json](./195623-trigger-spree.json) |
