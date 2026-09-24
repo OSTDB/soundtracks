@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
 | Orbit | 315019 | [315019-orbit.json](./315019-orbit.json) |
+| Orbit Angler | 297586 | [297586-orbit-angler.json](./297586-orbit-angler.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
 | Orbit One | 405604 | [405604-orbit-one.json](./405604-orbit-one.json) |
 | Orbit Puzzle | 312691 | [312691-orbit-puzzle.json](./312691-orbit-puzzle.json) |
@@ -1527,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Battle: Winter War | 118965 | [118965-order-of-battle-winter-war.json](./118965-order-of-battle-winter-war.json) |
 | Order of Battle: World War II - Allies Resurgent | 171073 | [171073-order-of-battle-world-war-ii-allies-resurgent.json](./171073-order-of-battle-world-war-ii-allies-resurgent.json) |
 | Order of Battle: World War II - Order of Battle: Allies Victorious | 219793 | [219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json](./219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json) |
+| Order of Fate | 297579 | [297579-order-of-fate.json](./297579-order-of-fate.json) |
 | Order of Renewal | 337647 | [337647-order-of-renewal.json](./337647-order-of-renewal.json) |
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
