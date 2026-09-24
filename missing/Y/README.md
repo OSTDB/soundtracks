@@ -672,7 +672,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Mitai | 201152 | [201152-yume-mitai.json](./201152-yume-mitai.json) |
 | Yume Nikki GB | 229685 | [229685-yume-nikki-gb.json](./229685-yume-nikki-gb.json) |
 | Yume Nikki GB | 229686 | [229686-yume-nikki-gb.json](./229686-yume-nikki-gb.json) |
+| Yume Nikki Space | 307052 | [307052-yume-nikki-space.json](./307052-yume-nikki-space.json) |
 | Yume Nikki Ver. 1.00 | 202368 | [202368-yume-nikki-ver-1-00.json](./202368-yume-nikki-ver-1-00.json) |
+| Yume Nikki Ware | 307091 | [307091-yume-nikki-ware.json](./307091-yume-nikki-ware.json) |
 | Yume Nikki: Atari 2600 | 229681 | [229681-yume-nikki-atari-2600.json](./229681-yume-nikki-atari-2600.json) |
 | Yume Nikki: Mod(ified) Project | 229682 | [229682-yume-nikki-mod-ified-project.json](./229682-yume-nikki-mod-ified-project.json) |
 | Yume Nikki: Solitude | 202349 | [202349-yume-nikki-solitude.json](./202349-yume-nikki-solitude.json) |
