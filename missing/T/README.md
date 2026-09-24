@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Rays | 26906 | [26906-tales-of-the-rays.json](./26906-tales-of-the-rays.json) |
 | Tales of the Rays: Last Cradle | 242627 | [242627-tales-of-the-rays-last-cradle.json](./242627-tales-of-the-rays-last-cradle.json) |
 | Tales of the Rays: Recollection | 242630 | [242630-tales-of-the-rays-recollection.json](./242630-tales-of-the-rays-recollection.json) |
+| Tales of the Tavern | 304568 | [304568-tales-of-the-tavern.json](./304568-tales-of-the-tavern.json) |
 | Tales of the Tempest | 19096 | [19096-tales-of-the-tempest.json](./19096-tales-of-the-tempest.json) |
 | Tales of the Traveling Swordsman | 60026 | [60026-tales-of-the-traveling-swordsman.json](./60026-tales-of-the-traveling-swordsman.json) |
 | Tales of the Underworld: Legends of Primordial Sea | 186337 | [186337-tales-of-the-underworld-legends-of-primordial-sea.json](./186337-tales-of-the-underworld-legends-of-primordial-sea.json) |
@@ -2450,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beginner Investor | 384087 | [384087-the-beginner-investor.json](./384087-the-beginner-investor.json) |
 | The Beginning of the End | 58853 | [58853-the-beginning-of-the-end.json](./58853-the-beginning-of-the-end.json) |
 | The Beginning of the End (part 1) | 262428 | [262428-the-beginning-of-the-end-part-1.json](./262428-the-beginning-of-the-end-part-1.json) |
+| The Bell Echoes | 304655 | [304655-the-bell-echoes.json](./304655-the-bell-echoes.json) |
 | The Bells' Arietta | 313334 | [313334-the-bells-arietta.json](./313334-the-bells-arietta.json) |
 | The Bend | 172719 | [172719-the-bend.json](./172719-the-bend.json) |
 | The Bends | 178538 | [178538-the-bends.json](./178538-the-bends.json) |
@@ -3550,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Farmer Was Replaced | 243931 | [243931-the-farmer-was-replaced.json](./243931-the-farmer-was-replaced.json) |
 | The Farnese Hercules | 203308 | [203308-the-farnese-hercules.json](./203308-the-farnese-hercules.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
+| The Fast and the Flirtatious: LA Drift | 304626 | [304626-the-fast-and-the-flirtatious-la-drift.json](./304626-the-fast-and-the-flirtatious-la-drift.json) |
 | The Fast and The Furious | 152308 | [152308-the-fast-and-the-furious.json](./152308-the-fast-and-the-furious.json) |
 | The Fast and The Furious | 21383 | [21383-the-fast-and-the-furious.json](./21383-the-fast-and-the-furious.json) |
 | The Fast Journey | 276309 | [276309-the-fast-journey.json](./276309-the-fast-journey.json) |
@@ -12088,6 +12091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Fly: Into Space | 232574 | [232574-turtle-fly-into-space.json](./232574-turtle-fly-into-space.json) |
 | Turtle Invaders | 252138 | [252138-turtle-invaders.json](./252138-turtle-invaders.json) |
 | Turtle Racing | 331872 | [331872-turtle-racing.json](./331872-turtle-racing.json) |
+| Turtle River RPG | 304564 | [304564-turtle-river-rpg.json](./304564-turtle-river-rpg.json) |
 | Turtle Rush | 122368 | [122368-turtle-rush.json](./122368-turtle-rush.json) |
 | Turtle Ship | 38554 | [38554-turtle-ship.json](./38554-turtle-ship.json) |
 | Turtle Tale | 79280 | [79280-turtle-tale.json](./79280-turtle-tale.json) |
