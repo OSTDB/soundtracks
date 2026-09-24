@@ -1918,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
+| Phantasm | 308357 | [308357-phantasm.json](./308357-phantasm.json) |
 | Phantasma | 90642 | [90642-phantasma.json](./90642-phantasma.json) |
 | Phantasma Hotel | 407340 | [407340-phantasma-hotel.json](./407340-phantasma-hotel.json) |
 | Phantasma Magic: Deluxe | 28832 | [28832-phantasma-magic-deluxe.json](./28832-phantasma-magic-deluxe.json) |
@@ -4504,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Arcade Vol. 1 | 7132 | [7132-popcap-arcade-vol-1.json](./7132-popcap-arcade-vol-1.json) |
 | PopCap Arcade Vol. 2 | 7133 | [7133-popcap-arcade-vol-2.json](./7133-popcap-arcade-vol-2.json) |
 | Popcorn | 357459 | [357459-popcorn.json](./357459-popcorn.json) |
+| Popcorn Fever | 308348 | [308348-popcorn-fever.json](./308348-popcorn-fever.json) |
 | Popcorn Popstars | 359519 | [359519-popcorn-popstars.json](./359519-popcorn-popstars.json) |
 | Popcorn! | 312727 | [312727-popcorn.json](./312727-popcorn.json) |
 | Pope Simulator | 133205 | [133205-pope-simulator.json](./133205-pope-simulator.json) |
@@ -6520,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle DeFusion | 78979 | [78979-puzzle-defusion.json](./78979-puzzle-defusion.json) |
 | Puzzle Depot | 59650 | [59650-puzzle-depot.json](./59650-puzzle-depot.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
+| Puzzle Dungeon!!: Earthmage Erin | 308334 | [308334-puzzle-dungeon-earthmage-erin.json](./308334-puzzle-dungeon-earthmage-erin.json) |
 | Puzzle Escapes: Paws & Claws | 351097 | [351097-puzzle-escapes-paws-and-claws.json](./351097-puzzle-escapes-paws-and-claws.json) |
 | Puzzle Expedition | 35614 | [35614-puzzle-expedition.json](./35614-puzzle-expedition.json) |
 | Puzzle Fever | 166631 | [166631-puzzle-fever.json](./166631-puzzle-fever.json) |
