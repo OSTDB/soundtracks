@@ -5933,7 +5933,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Season 2 - Explore & Expand | 145486 | [145486-snowrunner-season-2-explore-and-expand.json](./145486-snowrunner-season-2-explore-and-expand.json) |
 | SnowRunner: Season 20 | 397684 | [397684-snowrunner-season-20.json](./397684-snowrunner-season-20.json) |
 | SnowRunner: Season 3 - Locate & Deliver | 145487 | [145487-snowrunner-season-3-locate-and-deliver.json](./145487-snowrunner-season-3-locate-and-deliver.json) |
+| SnowRunner: Year 1 Pass + Year 2 Pass + Year 3 Pass + Year 4 Pass | 284962 | [284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json](./284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json) |
 | SnowRunner: Year 3 Pass | 230832 | [230832-snowrunner-year-3-pass.json](./230832-snowrunner-year-3-pass.json) |
+| SnowRunner: Year 4 Pass | 284961 | [284961-snowrunner-year-4-pass.json](./284961-snowrunner-year-4-pass.json) |
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
 | Snowstorm | 405717 | [405717-snowstorm.json](./405717-snowstorm.json) |
 | Snowtracked | 216888 | [216888-snowtracked.json](./216888-snowtracked.json) |
