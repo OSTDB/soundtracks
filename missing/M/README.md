@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaJong13 | 246419 | [246419-majong13.json](./246419-majong13.json) |
 | MaJong16 | 246420 | [246420-majong16.json](./246420-majong16.json) |
 | Major Blink: Berks 2 | 60525 | [60525-major-blink-berks-2.json](./60525-major-blink-berks-2.json) |
+| Major Bullet | 292630 | [292630-major-bullet.json](./292630-major-bullet.json) |
 | Major Havoc | 39384 | [39384-major-havoc.json](./39384-major-havoc.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
 | Major League Baseball 2K12 | 4993 | [4993-major-league-baseball-2k12.json](./4993-major-league-baseball-2k12.json) |
@@ -7006,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
 | Multitasking Skills Desired | 404448 | [404448-multitasking-skills-desired.json](./404448-multitasking-skills-desired.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
+| Multiverse Loot Hunter | 292586 | [292586-multiverse-loot-hunter.json](./292586-multiverse-loot-hunter.json) |
 | MultiVersus: Founder's Pack - Deluxe Edition | 212309 | [212309-multiversus-founders-pack-deluxe-edition.json](./212309-multiversus-founders-pack-deluxe-edition.json) |
 | MultiVersus: Founder's Pack - Premium Edition | 212308 | [212308-multiversus-founders-pack-premium-edition.json](./212308-multiversus-founders-pack-premium-edition.json) |
 | MultiVersus: Founder's Pack - Standard Edition | 212307 | [212307-multiversus-founders-pack-standard-edition.json](./212307-multiversus-founders-pack-standard-edition.json) |
