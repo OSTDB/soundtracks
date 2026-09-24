@@ -4949,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Fright | 253451 | [253451-artificial-fright.json](./253451-artificial-fright.json) |
 | Artificial Girl | 70686 | [70686-artificial-girl.json](./70686-artificial-girl.json) |
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
+| Artificial Life Simulator | 287719 | [287719-artificial-life-simulator.json](./287719-artificial-life-simulator.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
 | Artillerists | 26687 | [26687-artillerists.json](./26687-artillerists.json) |
@@ -6232,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awareness Test: The Robot Bar | 179572 | [179572-awareness-test-the-robot-bar.json](./179572-awareness-test-the-robot-bar.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
 | Away From Life | 207301 | [207301-away-from-life.json](./207301-away-from-life.json) |
+| Away from the light | 287732 | [287732-away-from-the-light.json](./287732-away-from-the-light.json) |
 | Away in the Woods | 225765 | [225765-away-in-the-woods.json](./225765-away-in-the-woods.json) |
 | Away Team | 349503 | [349503-away-team.json](./349503-away-team.json) |
 | Awaysis | 348231 | [348231-awaysis.json](./348231-awaysis.json) |
