@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa Hope Recreation | 304341 | [304341-danganronpa-hope-recreation.json](./304341-danganronpa-hope-recreation.json) |
 | Danganronpa Mauve | 304336 | [304336-danganronpa-mauve.json](./304336-danganronpa-mauve.json) |
 | Danganronpa V3: Killing Harmony - Anniversary Edition | 152401 | [152401-danganronpa-v3-killing-harmony-anniversary-edition.json](./152401-danganronpa-v3-killing-harmony-anniversary-edition.json) |
+| Danganronpa V3: Killing Harmony Demo Ver. | 282660 | [282660-danganronpa-v3-killing-harmony-demo-ver.json](./282660-danganronpa-v3-killing-harmony-demo-ver.json) |
 | Danganronpa Weeping Rebellion | 304345 | [304345-danganronpa-weeping-rebellion.json](./304345-danganronpa-weeping-rebellion.json) |
 | Danganronpa: Abandoned Lights | 304348 | [304348-danganronpa-abandoned-lights.json](./304348-danganronpa-abandoned-lights.json) |
 | Danganronpa: Antebellum | 333929 | [333929-danganronpa-antebellum.json](./333929-danganronpa-antebellum.json) |
