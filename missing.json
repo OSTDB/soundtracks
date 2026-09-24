@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T05:02:51.826Z",
-  "total_missing": 114577,
+  "generated_at": "2026-09-24T05:17:50.721Z",
+  "total_missing": 114627,
   "games": [
     {
       "igdb_id": 176875,
@@ -8418,6 +8418,16 @@
       "file": "missing/A/282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json"
     },
     {
+      "igdb_id": 324420,
+      "game_name": "Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series Set",
+      "file": "missing/A/324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json"
+    },
+    {
+      "igdb_id": 324421,
+      "game_name": "Ace Combat 7: Skies Unknown - Experimental Aircraft Series Set",
+      "file": "missing/A/324421-ace-combat-7-skies-unknown-experimental-aircraft-series-set.json"
+    },
+    {
       "igdb_id": 282589,
       "game_name": "Ace Combat 7: Skies Unknown - F-15 S/MTD Set",
       "file": "missing/A/282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json"
@@ -8431,6 +8441,11 @@
       "igdb_id": 138246,
       "game_name": "Ace Combat 7: Skies Unknown - Original Aircraft Series",
       "file": "missing/A/138246-ace-combat-7-skies-unknown-original-aircraft-series.json"
+    },
+    {
+      "igdb_id": 324422,
+      "game_name": "Ace Combat 7: Skies Unknown - Original Aircraft Series Set",
+      "file": "missing/A/324422-ace-combat-7-skies-unknown-original-aircraft-series-set.json"
     },
     {
       "igdb_id": 204084,
@@ -54643,6 +54658,11 @@
       "file": "missing/B/383973-blind-zum-bus.json"
     },
     {
+      "igdb_id": 324425,
+      "game_name": "Blind: Summer Sunset",
+      "file": "missing/B/324425-blind-summer-sunset.json"
+    },
+    {
       "igdb_id": 133374,
       "game_name": "BlindBlade II",
       "file": "missing/B/133374-blindblade-ii.json"
@@ -71476,6 +71496,16 @@
       "igdb_id": 178527,
       "game_name": "Candied Violets",
       "file": "missing/C/178527-candied-violets.json"
+    },
+    {
+      "igdb_id": 324431,
+      "game_name": "Candivity: Deep Mines DLC",
+      "file": "missing/C/324431-candivity-deep-mines-dlc.json"
+    },
+    {
+      "igdb_id": 324432,
+      "game_name": "Candivity: Outer Space DLC",
+      "file": "missing/C/324432-candivity-outer-space-dlc.json"
     },
     {
       "igdb_id": 385194,
@@ -89573,6 +89603,11 @@
       "file": "missing/C/27795-coffee-noir.json"
     },
     {
+      "igdb_id": 324419,
+      "game_name": "Coffee Pack",
+      "file": "missing/C/324419-coffee-pack.json"
+    },
+    {
       "igdb_id": 75060,
       "game_name": "Coffee Pixes",
       "file": "missing/C/75060-coffee-pixes.json"
@@ -95181,6 +95216,11 @@
       "igdb_id": 139814,
       "game_name": "Cooking, for lovers",
       "file": "missing/C/139814-cooking-for-lovers.json"
+    },
+    {
+      "igdb_id": 324424,
+      "game_name": "Cooking: Green Dragon Set",
+      "file": "missing/C/324424-cooking-green-dragon-set.json"
     },
     {
       "igdb_id": 325017,
@@ -135663,6 +135703,21 @@
       "file": "missing/D/317223-dreamland-farm.json"
     },
     {
+      "igdb_id": 324443,
+      "game_name": "Dreamland Farm: Banner",
+      "file": "missing/D/324443-dreamland-farm-banner.json"
+    },
+    {
+      "igdb_id": 324460,
+      "game_name": "Dreamland Farm: House Furnitures",
+      "file": "missing/D/324460-dreamland-farm-house-furnitures.json"
+    },
+    {
+      "igdb_id": 324461,
+      "game_name": "Dreamland Farm: Kitchen Furnitures",
+      "file": "missing/D/324461-dreamland-farm-kitchen-furnitures.json"
+    },
+    {
       "igdb_id": 324477,
       "game_name": "Dreamland Farm: Stone Fence and Tiles",
       "file": "missing/D/324477-dreamland-farm-stone-fence-and-tiles.json"
@@ -142616,6 +142671,21 @@
       "igdb_id": 97831,
       "game_name": "Ecchi na Seed",
       "file": "missing/E/97831-ecchi-na-seed.json"
+    },
+    {
+      "igdb_id": 324433,
+      "game_name": "Ecchi Oppai: Fantasy DLC",
+      "file": "missing/E/324433-ecchi-oppai-fantasy-dlc.json"
+    },
+    {
+      "igdb_id": 324434,
+      "game_name": "Ecchi Oppai: Fusion DLC",
+      "file": "missing/E/324434-ecchi-oppai-fusion-dlc.json"
+    },
+    {
+      "igdb_id": 324435,
+      "game_name": "Ecchi Oppai: Uniforms DLC",
+      "file": "missing/E/324435-ecchi-oppai-uniforms-dlc.json"
     },
     {
       "igdb_id": 294831,
@@ -157923,6 +157993,11 @@
       "file": "missing/F/324470-fairy-tail-2-digital-deluxe.json"
     },
     {
+      "igdb_id": 324462,
+      "game_name": "Fairy Tail 2: Lucy Outfit - \"Miss Fairy Tail Contest\"",
+      "file": "missing/F/324462-fairy-tail-2-lucy-outfit-miss-fairy-tail-contest.json"
+    },
+    {
       "igdb_id": 332229,
       "game_name": "Fairy Tail 2: Outfit Set - Swimsuit",
       "file": "missing/F/332229-fairy-tail-2-outfit-set-swimsuit.json"
@@ -161206,6 +161281,11 @@
       "igdb_id": 302380,
       "game_name": "Farmageddon: Undead",
       "file": "missing/F/302380-farmageddon-undead.json"
+    },
+    {
+      "igdb_id": 324445,
+      "game_name": "Farmagia: Afanc Skin - Baby Tomato",
+      "file": "missing/F/324445-farmagia-afanc-skin-baby-tomato.json"
     },
     {
       "igdb_id": 324471,
@@ -177403,6 +177483,11 @@
       "file": "missing/F/315864-freaky-trip-superb-edition.json"
     },
     {
+      "igdb_id": 324463,
+      "game_name": "Freaky Trip: Ultra Deluxe",
+      "file": "missing/F/324463-freaky-trip-ultra-deluxe.json"
+    },
+    {
       "igdb_id": 6771,
       "game_name": "Freakyforms: Your Creations, Alive!",
       "file": "missing/F/6771-freakyforms-your-creations-alive.json"
@@ -189853,9 +189938,24 @@
       "file": "missing/G/321618-giant-rush.json"
     },
     {
+      "igdb_id": 324436,
+      "game_name": "Giant Rush: Brave DLC",
+      "file": "missing/G/324436-giant-rush-brave-dlc.json"
+    },
+    {
+      "igdb_id": 324437,
+      "game_name": "Giant Rush: Cute DLC",
+      "file": "missing/G/324437-giant-rush-cute-dlc.json"
+    },
+    {
       "igdb_id": 385201,
       "game_name": "Giant Rush: Gold Edition",
       "file": "missing/G/385201-giant-rush-gold-edition.json"
+    },
+    {
+      "igdb_id": 324438,
+      "game_name": "Giant Rush: Silly DLC",
+      "file": "missing/G/324438-giant-rush-silly-dlc.json"
     },
     {
       "igdb_id": 383379,
@@ -201718,6 +201818,21 @@
       "file": "missing/G/328995-gundam-breaker-4-diorama-pack-set.json"
     },
     {
+      "igdb_id": 324439,
+      "game_name": "Gundam Breaker 4: Story Mission DLC 1 - Go! Restart!!",
+      "file": "missing/G/324439-gundam-breaker-4-story-mission-dlc-1-go-restart.json"
+    },
+    {
+      "igdb_id": 324440,
+      "game_name": "Gundam Breaker 4: Story Mission DLC 2 - Brave Dive",
+      "file": "missing/G/324440-gundam-breaker-4-story-mission-dlc-2-brave-dive.json"
+    },
+    {
+      "igdb_id": 324441,
+      "game_name": "Gundam Breaker 4: Story Mission DLC 3 - Battle Tournament",
+      "file": "missing/G/324441-gundam-breaker-4-story-mission-dlc-3-battle-tournament.json"
+    },
+    {
       "igdb_id": 361234,
       "game_name": "Gundam Breaker 4: Story Mission DLC 4 - Battle Fiercely",
       "file": "missing/G/361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json"
@@ -211633,6 +211748,11 @@
       "file": "missing/H/313147-hentai-academy-academic-stories-3.json"
     },
     {
+      "igdb_id": 324464,
+      "game_name": "Hentai Academy: Complete +",
+      "file": "missing/H/324464-hentai-academy-complete.json"
+    },
+    {
       "igdb_id": 313140,
       "game_name": "Hentai Academy: Deluxe Edition",
       "file": "missing/H/313140-hentai-academy-deluxe-edition.json"
@@ -211801,6 +211921,11 @@
       "igdb_id": 308786,
       "game_name": "Hentai Dating Stories: Brazil - Best Stories 3",
       "file": "missing/H/308786-hentai-dating-stories-brazil-best-stories-3.json"
+    },
+    {
+      "igdb_id": 324465,
+      "game_name": "Hentai Dating Stories: Brazil - Complete +",
+      "file": "missing/H/324465-hentai-dating-stories-brazil-complete.json"
     },
     {
       "igdb_id": 308802,
@@ -211998,6 +212123,11 @@
       "file": "missing/H/325018-hentai-girls-college-romance.json"
     },
     {
+      "igdb_id": 324466,
+      "game_name": "Hentai Girls: Complete +",
+      "file": "missing/H/324466-hentai-girls-complete.json"
+    },
+    {
       "igdb_id": 281523,
       "game_name": "Hentai Girls: Contact",
       "file": "missing/H/281523-hentai-girls-contact.json"
@@ -212076,6 +212206,11 @@
       "igdb_id": 328521,
       "game_name": "Hentai Girls: Sweet Skier",
       "file": "missing/H/328521-hentai-girls-sweet-skier.json"
+    },
+    {
+      "igdb_id": 324467,
+      "game_name": "Hentai Girls: Ultra Complete",
+      "file": "missing/H/324467-hentai-girls-ultra-complete.json"
     },
     {
       "igdb_id": 308817,
@@ -212458,6 +212593,11 @@
       "file": "missing/H/340451-hentai-slash.json"
     },
     {
+      "igdb_id": 324450,
+      "game_name": "Hentai Solitaire: Complete +",
+      "file": "missing/H/324450-hentai-solitaire-complete.json"
+    },
+    {
       "igdb_id": 315868,
       "game_name": "Hentai Solitaire: Extended Edition",
       "file": "missing/H/315868-hentai-solitaire-extended-edition.json"
@@ -212481,6 +212621,11 @@
       "igdb_id": 308800,
       "game_name": "Hentai Stars: Amazing Edition",
       "file": "missing/H/308800-hentai-stars-amazing-edition.json"
+    },
+    {
+      "igdb_id": 324452,
+      "game_name": "Hentai Stars: Complete +",
+      "file": "missing/H/324452-hentai-stars-complete.json"
     },
     {
       "igdb_id": 268561,
@@ -212678,6 +212823,11 @@
       "file": "missing/H/156098-hentai-waifu-101.json"
     },
     {
+      "igdb_id": 324451,
+      "game_name": "Hentai Waifu 2",
+      "file": "missing/H/324451-hentai-waifu-2.json"
+    },
+    {
       "igdb_id": 333734,
       "game_name": "Hentai Waifu 5",
       "file": "missing/H/333734-hentai-waifu-5.json"
@@ -212733,6 +212883,11 @@
       "file": "missing/H/340464-hentai-world-winter.json"
     },
     {
+      "igdb_id": 324453,
+      "game_name": "Hentai World: Complete +",
+      "file": "missing/H/324453-hentai-world-complete.json"
+    },
+    {
       "igdb_id": 259578,
       "game_name": "Hentai World: Definitive Edition",
       "file": "missing/H/259578-hentai-world-definitive-edition.json"
@@ -212776,6 +212931,11 @@
       "igdb_id": 256266,
       "game_name": "Hentai World: Ultimate Edition",
       "file": "missing/H/256266-hentai-world-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 324454,
+      "game_name": "Hentai World: Ultra Definitive",
+      "file": "missing/H/324454-hentai-world-ultra-definitive.json"
     },
     {
       "igdb_id": 308818,
@@ -247923,6 +248083,11 @@
       "file": "missing/K/273635-kamitsubaki-city-ensemble.json"
     },
     {
+      "igdb_id": 324418,
+      "game_name": "Kamitsubaki City Ensemble: Extra Pack feat. V.I.P with V.W.P",
+      "file": "missing/K/324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json"
+    },
+    {
       "igdb_id": 328261,
       "game_name": "Kamitsubaki City Virtual Reality",
       "file": "missing/K/328261-kamitsubaki-city-virtual-reality.json"
@@ -259508,9 +259673,24 @@
       "file": "missing/L/324469-land-of-mushrooms-forest-of-nightmares-background.json"
     },
     {
+      "igdb_id": 324429,
+      "game_name": "Land of Mushrooms: Kawaii Animals - Skin Set",
+      "file": "missing/L/324429-land-of-mushrooms-kawaii-animals-skin-set.json"
+    },
+    {
+      "igdb_id": 324428,
+      "game_name": "Land of Mushrooms: Scary Horror Mushrooms - Skin Set",
+      "file": "missing/L/324428-land-of-mushrooms-scary-horror-mushrooms-skin-set.json"
+    },
+    {
       "igdb_id": 324488,
       "game_name": "Land of Mushrooms: Small Mode - Mini Mushroom Mayhem",
       "file": "missing/L/324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json"
+    },
+    {
+      "igdb_id": 324427,
+      "game_name": "Land of Mushrooms: Sweet Classic Mushrooms - Skin Set",
+      "file": "missing/L/324427-land-of-mushrooms-sweet-classic-mushrooms-skin-set.json"
     },
     {
       "igdb_id": 324475,
@@ -274093,6 +274273,11 @@
       "file": "missing/L/88160-love-dots.json"
     },
     {
+      "igdb_id": 324455,
+      "game_name": "Love Elysium: Secret of the Goddess - Complete +",
+      "file": "missing/L/324455-love-elysium-secret-of-the-goddess-complete.json"
+    },
+    {
       "igdb_id": 315872,
       "game_name": "Love Elysium: Secret of the Goddess - Extended Edition",
       "file": "missing/L/315872-love-elysium-secret-of-the-goddess-extended-edition.json"
@@ -285093,9 +285278,24 @@
       "file": "missing/M/70980-mars-saga.json"
     },
     {
+      "igdb_id": 324456,
+      "game_name": "Mars Survivor: Blue Blaster",
+      "file": "missing/M/324456-mars-survivor-blue-blaster.json"
+    },
+    {
       "igdb_id": 385204,
       "game_name": "Mars Survivor: Gold Edition",
       "file": "missing/M/385204-mars-survivor-gold-edition.json"
+    },
+    {
+      "igdb_id": 324457,
+      "game_name": "Mars Survivor: Green Gun",
+      "file": "missing/M/324457-mars-survivor-green-gun.json"
+    },
+    {
+      "igdb_id": 324458,
+      "game_name": "Mars Survivor: Red Rifle",
+      "file": "missing/M/324458-mars-survivor-red-rifle.json"
     },
     {
       "igdb_id": 90147,
@@ -302048,6 +302248,11 @@
       "file": "missing/M/290431-mixx-island-remix-plus-amazing-edition.json"
     },
     {
+      "igdb_id": 324448,
+      "game_name": "Mixx Island: Remix Plus - Complete +",
+      "file": "missing/M/324448-mixx-island-remix-plus-complete.json"
+    },
+    {
       "igdb_id": 268550,
       "game_name": "Mixx Island: Remix Plus - Definitive Edition",
       "file": "missing/M/268550-mixx-island-remix-plus-definitive-edition.json"
@@ -302081,6 +302286,11 @@
       "igdb_id": 316274,
       "game_name": "Mixx Island: Remix Plus - Ultra Definitive",
       "file": "missing/M/316274-mixx-island-remix-plus-ultra-definitive.json"
+    },
+    {
+      "igdb_id": 324449,
+      "game_name": "Mixx Island: Remix Plus - Ultra Legendary",
+      "file": "missing/M/324449-mixx-island-remix-plus-ultra-legendary.json"
     },
     {
       "igdb_id": 308820,
@@ -314723,6 +314933,11 @@
       "file": "missing/M/275106-my-time-at-sandrock-interior-decorator-pack.json"
     },
     {
+      "igdb_id": 324459,
+      "game_name": "My Time at Sandrock: Love Chronicles",
+      "file": "missing/M/324459-my-time-at-sandrock-love-chronicles.json"
+    },
+    {
       "igdb_id": 306487,
       "game_name": "My Time at Sandrock: Online",
       "file": "missing/M/306487-my-time-at-sandrock-online.json"
@@ -323588,9 +323803,19 @@
       "file": "missing/N/43899-nfl-xtreme-2.json"
     },
     {
+      "igdb_id": 324447,
+      "game_name": "Ngolf: Complete +",
+      "file": "missing/N/324447-ngolf-complete.json"
+    },
+    {
       "igdb_id": 313152,
       "game_name": "NGolf: Complete Edition",
       "file": "missing/N/313152-ngolf-complete-edition.json"
+    },
+    {
+      "igdb_id": 324430,
+      "game_name": "Ngolf: Director's Cut",
+      "file": "missing/N/324430-ngolf-directors-cut.json"
     },
     {
       "igdb_id": 315858,
@@ -335651,6 +335876,11 @@
       "igdb_id": 313142,
       "game_name": "One Night: Burlesque - Amazing Edition",
       "file": "missing/O/313142-one-night-burlesque-amazing-edition.json"
+    },
+    {
+      "igdb_id": 324446,
+      "game_name": "One Night: Burlesque - Complete +",
+      "file": "missing/O/324446-one-night-burlesque-complete.json"
     },
     {
       "igdb_id": 283167,
@@ -467558,6 +467788,16 @@
       "file": "missing/S/308792-sword-art-online-fractured-daydream-deluxe-edition.json"
     },
     {
+      "igdb_id": 324426,
+      "game_name": "Sword Art Online: Fractured Daydream - Demon King Costume Set",
+      "file": "missing/S/324426-sword-art-online-fractured-daydream-demon-king-costume-set.json"
+    },
+    {
+      "igdb_id": 324442,
+      "game_name": "Sword Art Online: Fractured Daydream - DLC 1 Worlds Beyond 1",
+      "file": "missing/S/324442-sword-art-online-fractured-daydream-dlc-1-worlds-beyond-1.json"
+    },
+    {
       "igdb_id": 308793,
       "game_name": "Sword Art Online: Fractured Daydream - Premium Edition",
       "file": "missing/S/308793-sword-art-online-fractured-daydream-premium-edition.json"
@@ -476196,6 +476436,11 @@
       "igdb_id": 141013,
       "game_name": "Tell Me Why: Chapter Two - Family Secrets",
       "file": "missing/T/141013-tell-me-why-chapter-two-family-secrets.json"
+    },
+    {
+      "igdb_id": 324444,
+      "game_name": "Tell Me Your Story: Ancient Puzzle",
+      "file": "missing/T/324444-tell-me-your-story-ancient-puzzle.json"
     },
     {
       "igdb_id": 328825,
@@ -560846,6 +561091,11 @@
       "igdb_id": 316264,
       "game_name": "WorldNeverland: Elnea Kingdom - Ancestral Garb Set: Berry",
       "file": "missing/W/316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json"
+    },
+    {
+      "igdb_id": 324423,
+      "game_name": "WorldNeverland: Elnea Kingdom - Floral Town-Wear Set: Brown",
+      "file": "missing/W/324423-worldneverland-elnea-kingdom-floral-town-wear-set-brown.json"
     },
     {
       "igdb_id": 324496,
