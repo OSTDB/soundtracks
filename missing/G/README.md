@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
 | Gabenwood 2: 99 Hidden Euros | 296513 | [296513-gabenwood-2-99-hidden-euros.json](./296513-gabenwood-2-99-hidden-euros.json) |
 | Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
+| Gabibbo Massacre | 319168 | [319168-gabibbo-massacre.json](./319168-gabibbo-massacre.json) |
 | Gabriel Knight 3: Blood of the Sacred, Blood of the Damned | 1252 | [1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json](./1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json) |
 | Gabriel's Auditory Playground | 197365 | [197365-gabriels-auditory-playground.json](./197365-gabriels-auditory-playground.json) |
 | Gabriel's Worlds: The Adventure | 163954 | [163954-gabriels-worlds-the-adventure.json](./163954-gabriels-worlds-the-adventure.json) |
@@ -1051,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
 | Genghis Khan II: Clan of the Gray Wolf | 5389 | [5389-genghis-khan-ii-clan-of-the-gray-wolf.json](./5389-genghis-khan-ii-clan-of-the-gray-wolf.json) |
 | Genghis Khan: Aoki Ookami to Shiroki Mejika IV | 98270 | [98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json](./98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json) |
+| Gengu Survival | 319153 | [319153-gengu-survival.json](./319153-gengu-survival.json) |
 | Genie Gym | 272370 | [272370-genie-gym.json](./272370-genie-gym.json) |
 | Genie Reprise | 282145 | [282145-genie-reprise.json](./282145-genie-reprise.json) |
 | Genies & Gems | 86809 | [86809-genies-and-gems.json](./86809-genies-and-gems.json) |
@@ -1232,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
 | Gerry the Germ Goes Body Poppin' | 26464 | [26464-gerry-the-germ-goes-body-poppin.json](./26464-gerry-the-germ-goes-body-poppin.json) |
 | Gerrymandering: Red vs Blue | 27865 | [27865-gerrymandering-red-vs-blue.json](./27865-gerrymandering-red-vs-blue.json) |
+| Gertie Goose | 319151 | [319151-gertie-goose.json](./319151-gertie-goose.json) |
 | Gertrude's Secrets | 73521 | [73521-gertrudes-secrets.json](./73521-gertrudes-secrets.json) |
 | Gerty: Robots In Love | 31638 | [31638-gerty-robots-in-love.json](./31638-gerty-robots-in-love.json) |
 | Gerztron | 78350 | [78350-gerztron.json](./78350-gerztron.json) |
@@ -3387,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimville: The Gift of Darkness | 96760 | [96760-grimville-the-gift-of-darkness.json](./96760-grimville-the-gift-of-darkness.json) |
 | Grimwalker | 244887 | [244887-grimwalker.json](./244887-grimwalker.json) |
 | Grimwar | 343915 | [343915-grimwar.json](./343915-grimwar.json) |
+| Grimwild Horror | 319169 | [319169-grimwild-horror.json](./319169-grimwild-horror.json) |
 | Grin Bandana | 54475 | [54475-grin-bandana.json](./54475-grin-bandana.json) |
 | Grind Hockey | 269330 | [269330-grind-hockey.json](./269330-grind-hockey.json) |
 | Grind Mindset | 368578 | [368578-grind-mindset.json](./368578-grind-mindset.json) |
