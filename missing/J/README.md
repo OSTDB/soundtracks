@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsawship | 255760 | [255760-jigsawship.json](./255760-jigsawship.json) |
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
 | Jigten: Mandala of Shadows | 376449 | [376449-jigten-mandala-of-shadows.json](./376449-jigten-mandala-of-shadows.json) |
+| Jigty Jigsaw Puzzles | 328004 | [328004-jigty-jigsaw-puzzles.json](./328004-jigty-jigsaw-puzzles.json) |
 | Jiguland | 164964 | [164964-jiguland.json](./164964-jiguland.json) |
 | Jigzo | 363576 | [363576-jigzo.json](./363576-jigzo.json) |
 | Jiji...Love | 329715 | [329715-jiji-love.json](./329715-jiji-love.json) |
@@ -1163,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper, Jumpy Time Attack Adventure | 309367 | [309367-jumper-jumpy-time-attack-adventure.json](./309367-jumper-jumpy-time-attack-adventure.json) |
 | Jumper's Doom | 351634 | [351634-jumpers-doom.json](./351634-jumpers-doom.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
+| JumpFall.io | 327943 | [327943-jumpfall-io.json](./327943-jumpfall-io.json) |
 | Jumpfox: Always Running | 278547 | [278547-jumpfox-always-running.json](./278547-jumpfox-always-running.json) |
 | Jumpgate Evolution | 94708 | [94708-jumpgate-evolution.json](./94708-jumpgate-evolution.json) |
 | Jumpgate: The Reconstruction Initiative | 765 | [765-jumpgate-the-reconstruction-initiative.json](./765-jumpgate-the-reconstruction-initiative.json) |
