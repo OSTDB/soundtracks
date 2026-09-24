@@ -2779,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
+| Pirates Outlaws 2: Heritage | 320892 | [320892-pirates-outlaws-2-heritage.json](./320892-pirates-outlaws-2-heritage.json) |
 | Pirates Overboard | 185533 | [185533-pirates-overboard.json](./185533-pirates-overboard.json) |
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
@@ -3162,12 +3163,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Pony | 180852 | [180852-pizza-pony.json](./180852-pizza-pony.json) |
 | Pizza Rogue: P.P.M.P.D.E.S. | 334218 | [334218-pizza-rogue-p-p-m-p-d-e-s.json](./334218-pizza-rogue-p-p-m-p-d-e-s.json) |
 | Pizza Run | 200582 | [200582-pizza-run.json](./200582-pizza-run.json) |
+| Pizza Rush Race: Fighting Boss | 320925 | [320925-pizza-rush-race-fighting-boss.json](./320925-pizza-rush-race-fighting-boss.json) |
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
 | Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
 | Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
 | Pizza Tower: Final Round | 345569 | [345569-pizza-tower-final-round.json](./345569-pizza-tower-final-round.json) |
+| Pizza Tower: Idle Tycoon | 320926 | [320926-pizza-tower-idle-tycoon.json](./320926-pizza-tower-idle-tycoon.json) |
 | Pizza Turtle 4evr | 232038 | [232038-pizza-turtle-4evr.json](./232038-pizza-turtle-4evr.json) |
 | Pizza Tycoon 2 | 51885 | [51885-pizza-tycoon-2.json](./51885-pizza-tycoon-2.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
@@ -4597,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
 | Portobugia | 217377 | [217377-portobugia.json](./217377-portobugia.json) |
 | Portrait | 329036 | [329036-portrait.json](./329036-portrait.json) |
+| Portrait of a Ghost | 320911 | [320911-portrait-of-a-ghost.json](./320911-portrait-of-a-ghost.json) |
 | Portrait of a Torn | 318362 | [318362-portrait-of-a-torn.json](./318362-portrait-of-a-torn.json) |
 | Portrait of Ruin: Refined Edition | 233601 | [233601-portrait-of-ruin-refined-edition.json](./233601-portrait-of-ruin-refined-edition.json) |
 | Portrait Painter | 406709 | [406709-portrait-painter.json](./406709-portrait-painter.json) |
