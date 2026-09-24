@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear | 148388 | [148388-dear.json](./148388-dear.json) |
 | Dear Althea | 150488 | [150488-dear-althea.json](./150488-dear-althea.json) |
 | Dear Blue | 297470 | [297470-dear-blue.json](./297470-dear-blue.json) |
+| Dear Boys: Fast Break! | 334860 | [334860-dear-boys-fast-break.json](./334860-dear-boys-fast-break.json) |
 | Dear Brother | 158562 | [158562-dear-brother.json](./158562-dear-brother.json) |
 | Dear Camy | 400479 | [400479-dear-camy.json](./400479-dear-camy.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
@@ -2486,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deserter | 323940 | [323940-deserter.json](./323940-deserter.json) |
 | Deserter Simulator | 34791 | [34791-deserter-simulator.json](./34791-deserter-simulator.json) |
 | DesertLand 2115 | 34350 | [34350-desertland-2115.json](./34350-desertland-2115.json) |
+| Deserto Divino | 334880 | [334880-deserto-divino.json](./334880-deserto-divino.json) |
 | Desertopia | 244804 | [244804-desertopia.json](./244804-desertopia.json) |
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
 | Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
@@ -4348,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
+| Don't Freak Part 1 | 334875 | [334875-dont-freak-part-1.json](./334875-dont-freak-part-1.json) |
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
 | Don't Get Fired! | 406825 | [406825-dont-get-fired.json](./406825-dont-get-fired.json) |
