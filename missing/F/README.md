@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaky Love | 310039 | [310039-flaky-love.json](./310039-flaky-love.json) |
 | Flambo's Inferno | 196164 | [196164-flambos-inferno.json](./196164-flambos-inferno.json) |
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
+| Flame Land | 310017 | [310017-flame-land.json](./310017-flame-land.json) |
 | Flame Man | 96014 | [96014-flame-man.json](./96014-flame-man.json) |
 | Flame of Mirrors | 51567 | [51567-flame-of-mirrors.json](./51567-flame-of-mirrors.json) |
 | Flame of Rebellion | 238085 | [238085-flame-of-rebellion.json](./238085-flame-of-rebellion.json) |
