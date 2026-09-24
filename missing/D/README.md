@@ -2651,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despotik Design | 13591 | [13591-despotik-design.json](./13591-despotik-design.json) |
 | Dessert DIY | 247588 | [247588-dessert-diy.json](./247588-dessert-diy.json) |
 | Dessert DIY: Complete Edition | 251668 | [251668-dessert-diy-complete-edition.json](./251668-dessert-diy-complete-edition.json) |
+| Dessert DIY: Premium Edition | 288298 | [288298-dessert-diy-premium-edition.json](./288298-dessert-diy-premium-edition.json) |
 | Dessert Love: Kare to no Hajimari | 219167 | [219167-dessert-love-kare-to-no-hajimari.json](./219167-dessert-love-kare-to-no-hajimari.json) |
 | Dessert Love: Sweet Plus | 219168 | [219168-dessert-love-sweet-plus.json](./219168-dessert-love-sweet-plus.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
@@ -5305,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 1 | 333617 | [333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json](./333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 2 | 333618 | [333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json](./333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json) |
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
+| Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
 | Dragon Ball Z: Namekku-sei Chou Kessen | 346786 | [346786-dragon-ball-z-namekku-sei-chou-kessen.json](./346786-dragon-ball-z-namekku-sei-chou-kessen.json) |
 | Dragon Ball Z: Recompiled | 416627 | [416627-dragon-ball-z-recompiled.json](./416627-dragon-ball-z-recompiled.json) |
