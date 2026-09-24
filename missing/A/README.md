@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actually Additions | 232420 | [232420-actually-additions.json](./232420-actually-additions.json) |
 | Actually: There's nothing | 141161 | [141161-actually-theres-nothing.json](./141161-actually-theres-nothing.json) |
 | Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
+| ACUVAC: A Suck And Blow Adventure | 318561 | [318561-acuvac-a-suck-and-blow-adventure.json](./318561-acuvac-a-suck-and-blow-adventure.json) |
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
 | Ad Astra: Sci-Fi Tower Defense | 326232 | [326232-ad-astra-sci-fi-tower-defense.json](./326232-ad-astra-sci-fi-tower-defense.json) |
