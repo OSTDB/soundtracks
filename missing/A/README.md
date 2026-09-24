@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AHTS Ship Simulator | 44207 | [44207-ahts-ship-simulator.json](./44207-ahts-ship-simulator.json) |
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
+| AI Confidential | 304595 | [304595-ai-confidential.json](./304595-ai-confidential.json) |
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
@@ -2839,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
 | An Aquatic Pokemon Tale | 323758 | [323758-an-aquatic-pokemon-tale.json](./323758-an-aquatic-pokemon-tale.json) |
+| An Archers Fate | 304635 | [304635-an-archers-fate.json](./304635-an-archers-fate.json) |
 | An Architect's Adventure | 211403 | [211403-an-architects-adventure.json](./211403-an-architects-adventure.json) |
 | An Aunt After My Own Heart | 314989 | [314989-an-aunt-after-my-own-heart.json](./314989-an-aunt-after-my-own-heart.json) |
 | An Autumn With You | 181846 | [181846-an-autumn-with-you.json](./181846-an-autumn-with-you.json) |
@@ -5743,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atonement | 379988 | [379988-atonement.json](./379988-atonement.json) |
 | Atoners: The Lost Epoch | 290517 | [290517-atoners-the-lost-epoch.json](./290517-atoners-the-lost-epoch.json) |
 | Atonia: Netorare Annals | 332612 | [332612-atonia-netorare-annals.json](./332612-atonia-netorare-annals.json) |
+| AtooB | 304629 | [304629-atoob.json](./304629-atoob.json) |
 | Atop the Witch's Tower WS | 341704 | [341704-atop-the-witchs-tower-ws.json](./341704-atop-the-witchs-tower-ws.json) |
 | ATP Tour Championship Tennis | 46234 | [46234-atp-tour-championship-tennis.json](./46234-atp-tour-championship-tennis.json) |
 | Atramentum VR | 29797 | [29797-atramentum-vr.json](./29797-atramentum-vr.json) |
