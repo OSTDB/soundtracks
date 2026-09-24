@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP 3008 | 231390 | [231390-scp-3008.json](./231390-scp-3008.json) |
 | SCP Area 8 | 82390 | [82390-scp-area-8.json](./82390-scp-area-8.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
+| SCP-002 | 316791 | [316791-scp-002.json](./316791-scp-002.json) |
 | SCP-087 | 336366 | [336366-scp-087.json](./336366-scp-087.json) |
 | SCP-087-B | 20204 | [20204-scp-087-b.json](./20204-scp-087-b.json) |
 | SCP-087-B UE Remake | 277856 | [277856-scp-087-b-ue-remake.json](./277856-scp-087-b-ue-remake.json) |
@@ -4847,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay All Bosses: Idle | 390114 | [390114-slay-all-bosses-idle.json](./390114-slay-all-bosses-idle.json) |
 | Slay All Goblins | 113481 | [113481-slay-all-goblins.json](./113481-slay-all-goblins.json) |
 | Slay and Spray Exterminators | 384512 | [384512-slay-and-spray-exterminators.json](./384512-slay-and-spray-exterminators.json) |
+| Slay or Fall | 316788 | [316788-slay-or-fall.json](./316788-slay-or-fall.json) |
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
@@ -6672,6 +6674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Extreme Boarding | 198563 | [198563-sonic-the-hedgehog-extreme-boarding.json](./198563-sonic-the-hedgehog-extreme-boarding.json) |
 | Sonic the Hedgehog Golf | 197369 | [197369-sonic-the-hedgehog-golf.json](./197369-sonic-the-hedgehog-golf.json) |
 | Sonic the Hedgehog Interactive Watch | 238200 | [238200-sonic-the-hedgehog-interactive-watch.json](./238200-sonic-the-hedgehog-interactive-watch.json) |
+| Sonic the Hedgehog Legacy Bundle | 316736 | [316736-sonic-the-hedgehog-legacy-bundle.json](./316736-sonic-the-hedgehog-legacy-bundle.json) |
 | Sonic the Hedgehog Legacy Bundle | 339849 | [339849-sonic-the-hedgehog-legacy-bundle.json](./339849-sonic-the-hedgehog-legacy-bundle.json) |
 | Sonic the Hedgehog Megamix | 43320 | [43320-sonic-the-hedgehog-megamix.json](./43320-sonic-the-hedgehog-megamix.json) |
 | Sonic the Hedgehog Pangoture | 317351 | [317351-sonic-the-hedgehog-pangoture.json](./317351-sonic-the-hedgehog-pangoture.json) |
@@ -8076,6 +8079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiderbot | 22264 | [22264-spiderbot.json](./22264-spiderbot.json) |
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
+| Spiderling | 316746 | [316746-spiderling.json](./316746-spiderling.json) |
 | SpiderPunks | 163847 | [163847-spiderpunks.json](./163847-spiderpunks.json) |
 | Spiders | 125263 | [125263-spiders.json](./125263-spiders.json) |
 | Spiders | 346138 | [346138-spiders.json](./346138-spiders.json) |
