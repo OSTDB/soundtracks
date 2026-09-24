@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Galaxy | 115681 | [115681-edge-of-galaxy.json](./115681-edge-of-galaxy.json) |
 | Edge of Galaxy | 344574 | [344574-edge-of-galaxy.json](./344574-edge-of-galaxy.json) |
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
+| Edge of Memories | 333201 | [333201-edge-of-memories.json](./333201-edge-of-memories.json) |
 | Edge of Nowhere | 11159 | [11159-edge-of-nowhere.json](./11159-edge-of-nowhere.json) |
 | Edge of Sanity | 214504 | [214504-edge-of-sanity.json](./214504-edge-of-sanity.json) |
 | Edge of Soul: Ragnarok | 284919 | [284919-edge-of-soul-ragnarok.json](./284919-edge-of-soul-ragnarok.json) |
@@ -726,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
+| Electigirl: High Tension Beauty | 333198 | [333198-electigirl-high-tension-beauty.json](./333198-electigirl-high-tension-beauty.json) |
 | Electio | 391307 | [391307-electio.json](./391307-electio.json) |
 | Election | 13630 | [13630-election.json](./13630-election.json) |
 | Election Day | 340995 | [340995-election-day.json](./340995-election-day.json) |
@@ -929,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
+| Elmo Through the Looking-Glass | 333203 | [333203-elmo-through-the-looking-glass.json](./333203-elmo-through-the-looking-glass.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
 | Elmo's Monster Maker HD | 89732 | [89732-elmos-monster-maker-hd.json](./89732-elmos-monster-maker-hd.json) |
@@ -1334,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
 | Endless Rush | 261857 | [261857-endless-rush.json](./261857-endless-rush.json) |
+| Endless Salvation | 333168 | [333168-endless-salvation.json](./333168-endless-salvation.json) |
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
 | Endless Shift | 374831 | [374831-endless-shift.json](./374831-endless-shift.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
@@ -1927,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Memoirs: Questionable Side Stories | 247615 | [247615-escape-memoirs-questionable-side-stories.json](./247615-escape-memoirs-questionable-side-stories.json) |
 | Escape Mystery-The Dark Fence | 237368 | [237368-escape-mystery-the-dark-fence.json](./237368-escape-mystery-the-dark-fence.json) |
 | Escape Mystery: Alien Impact | 174311 | [174311-escape-mystery-alien-impact.json](./174311-escape-mystery-alien-impact.json) |
+| Escape Observation | 333182 | [333182-escape-observation.json](./333182-escape-observation.json) |
 | Escape of Pig | 230931 | [230931-escape-of-pig.json](./230931-escape-of-pig.json) |
 | Escape of The Hammer Princess | 312767 | [312767-escape-of-the-hammer-princess.json](./312767-escape-of-the-hammer-princess.json) |
 | Escape or Imprison | 227253 | [227253-escape-or-imprison.json](./227253-escape-or-imprison.json) |
