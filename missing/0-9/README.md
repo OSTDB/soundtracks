@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Är Alfons Åberg hemma? | 336033 | [336033-ar-alfons-aberg-hemma.json](./336033-ar-alfons-aberg-hemma.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
+| Édgimon | 287729 | [287729-edgimon.json](./287729-edgimon.json) |
 | Łowca Głów | 98944 | [98944-owca-g-ow.json](./98944-owca-g-ow.json) |
 | Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
 | Ødeborg | 356297 | [356297-deborg.json](./356297-deborg.json) |
