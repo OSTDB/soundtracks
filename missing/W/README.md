@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who I Am | 386415 | [386415-who-i-am.json](./386415-who-i-am.json) |
 | Who I See | 236810 | [236810-who-i-see.json](./236810-who-i-see.json) |
 | Who is Awesome | 128355 | [128355-who-is-awesome.json](./128355-who-is-awesome.json) |
+| Who is God | 305857 | [305857-who-is-god.json](./305857-who-is-god.json) |
 | Who Is It? | 261512 | [261512-who-is-it.json](./261512-who-is-it.json) |
 | Who Is Oscar Lake? | 72622 | [72622-who-is-oscar-lake.json](./72622-who-is-oscar-lake.json) |
 | Who is the Defendant: Deliberately Rough | 312554 | [312554-who-is-the-defendant-deliberately-rough.json](./312554-who-is-the-defendant-deliberately-rough.json) |
@@ -2594,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's School Simulator 2020 | 299898 | [299898-womens-school-simulator-2020.json](./299898-womens-school-simulator-2020.json) |
 | Women's School Simulator 2022 | 299900 | [299900-womens-school-simulator-2022.json](./299900-womens-school-simulator-2022.json) |
 | Won't You Be My Laser? | 31899 | [31899-wont-you-be-my-laser.json](./31899-wont-you-be-my-laser.json) |
+| Wonder Ball | 305858 | [305858-wonder-ball.json](./305858-wonder-ball.json) |
 | Wonder Blade | 107015 | [107015-wonder-blade.json](./107015-wonder-blade.json) |
 | Wonder Boy | 212864 | [212864-wonder-boy.json](./212864-wonder-boy.json) |
 | Wonder Boy | 212865 | [212865-wonder-boy.json](./212865-wonder-boy.json) |
