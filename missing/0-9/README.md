@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
 | 100 Halloweens | 265726 | [265726-100-halloweens.json](./265726-100-halloweens.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
+| 100 Hidden Cats: Kitty House 2 | 320321 | [320321-100-hidden-cats-kitty-house-2.json](./320321-100-hidden-cats-kitty-house-2.json) |
 | 100 Hidden Cats: Ninja | 334123 | [334123-100-hidden-cats-ninja.json](./334123-100-hidden-cats-ninja.json) |
 | 100 Hidden Cats: Playground | 330560 | [330560-100-hidden-cats-playground.json](./330560-100-hidden-cats-playground.json) |
 | 100 Hidden Cthulhu Fish | 301975 | [301975-100-hidden-cthulhu-fish.json](./301975-100-hidden-cthulhu-fish.json) |
@@ -274,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Ultimate Mahjong 2 | 111457 | [111457-1001-ultimate-mahjong-2.json](./111457-1001-ultimate-mahjong-2.json) |
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
 | 101 Airborne: The Airborne Invasion of Normandy | 582 | [582-101-airborne-the-airborne-invasion-of-normandy.json](./582-101-airborne-the-airborne-invasion-of-normandy.json) |
+| 101 Cats in Australia | 320313 | [320313-101-cats-in-australia.json](./320313-101-cats-in-australia.json) |
 | 101 Cats in Chennai | 365159 | [365159-101-cats-in-chennai.json](./365159-101-cats-in-chennai.json) |
 | 101 Cats in Hanoi | 400875 | [400875-101-cats-in-hanoi.json](./400875-101-cats-in-hanoi.json) |
 | 101 Cats in Hungary | 385292 | [385292-101-cats-in-hungary.json](./385292-101-cats-in-hungary.json) |
@@ -287,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Seoul | 374826 | [374826-101-cats-in-seoul.json](./374826-101-cats-in-seoul.json) |
 | 101 Cats in Singapore | 326079 | [326079-101-cats-in-singapore.json](./326079-101-cats-in-singapore.json) |
 | 101 Cats in Sydney | 407533 | [407533-101-cats-in-sydney.json](./407533-101-cats-in-sydney.json) |
+| 101 Cute Playland Dogs: Find & Paint | 320328 | [320328-101-cute-playland-dogs-find-and-paint.json](./320328-101-cute-playland-dogs-find-and-paint.json) |
 | 101 Dogs Hidden in Australia | 382346 | [382346-101-dogs-hidden-in-australia.json](./382346-101-dogs-hidden-in-australia.json) |
 | 101 Dogs Hidden in Bangkok | 407530 | [407530-101-dogs-hidden-in-bangkok.json](./407530-101-dogs-hidden-in-bangkok.json) |
 | 101 Dogs Hidden in Istanbul | 401547 | [401547-101-dogs-hidden-in-istanbul.json](./401547-101-dogs-hidden-in-istanbul.json) |
