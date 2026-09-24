@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono | 112964 | [112964-chrono.json](./112964-chrono.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
+| Chrono Ark: Summer Twilight | 310011 | [310011-chrono-ark-summer-twilight.json](./310011-chrono-ark-summer-twilight.json) |
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
 | Chrono Impact | 369095 | [369095-chrono-impact.json](./369095-chrono-impact.json) |
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
@@ -4486,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
+| Colton Owen: After All's Over | 309993 | [309993-colton-owen-after-alls-over.json](./309993-colton-owen-after-alls-over.json) |
 | Colum and His Friends | 118346 | [118346-colum-and-his-friends.json](./118346-colum-and-his-friends.json) |
 | Columbo's Mystery Capers | 343251 | [343251-columbos-mystery-capers.json](./343251-columbos-mystery-capers.json) |
 | Column on the Sea | 122186 | [122186-column-on-the-sea.json](./122186-column-on-the-sea.json) |
@@ -4503,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
 | Comatose | 369778 | [369778-comatose.json](./369778-comatose.json) |
 | Combat | 131545 | [131545-combat.json](./131545-combat.json) |
+| Combat 3 | 309974 | [309974-combat-3.json](./309974-combat-3.json) |
 | Combat Ace | 43260 | [43260-combat-ace.json](./43260-combat-ace.json) |
 | Combat Beans: Total Mayhem | 224670 | [224670-combat-beans-total-mayhem.json](./224670-combat-beans-total-mayhem.json) |
 | Combat Casino | 172012 | [172012-combat-casino.json](./172012-combat-casino.json) |
