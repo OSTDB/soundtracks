@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team 47 GoMan | 180229 | [180229-team-47-goman.json](./180229-team-47-goman.json) |
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
+| Team Delusional's Dusttale | 329654 | [329654-team-delusionals-dusttale.json](./329654-team-delusionals-dusttale.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
 | Team Fortress 2: End of the Line Update | 256883 | [256883-team-fortress-2-end-of-the-line-update.json](./256883-team-fortress-2-end-of-the-line-update.json) |
@@ -4022,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
 | The House in Fata Morgana: A Requiem for Innocence | 56006 | [56006-the-house-in-fata-morgana-a-requiem-for-innocence.json](./56006-the-house-in-fata-morgana-a-requiem-for-innocence.json) |
 | The House in Fata Morgana: Dreams of the Revenants Edition | 119577 | [119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json](./119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json) |
+| The House in Fata Morgana: Reincarnation | 329687 | [329687-the-house-in-fata-morgana-reincarnation.json](./329687-the-house-in-fata-morgana-reincarnation.json) |
 | The House in Fata Morgana: Remaid of Dreams | 330338 | [330338-the-house-in-fata-morgana-remaid-of-dreams.json](./330338-the-house-in-fata-morgana-remaid-of-dreams.json) |
 | The House in the Forest | 129746 | [129746-the-house-in-the-forest.json](./129746-the-house-in-the-forest.json) |
 | The House in the Hollow | 127780 | [127780-the-house-in-the-hollow.json](./127780-the-house-in-the-hollow.json) |
@@ -4407,6 +4409,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Before Time | 69555 | [69555-the-land-before-time.json](./69555-the-land-before-time.json) |
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
 | The Land Before Time: Into the Mysterious Beyond | 49332 | [49332-the-land-before-time-into-the-mysterious-beyond.json](./49332-the-land-before-time-into-the-mysterious-beyond.json) |
+| The Land Before Time: Math Adventure | 329646 | [329646-the-land-before-time-math-adventure.json](./329646-the-land-before-time-math-adventure.json) |
+| The Land Before Time: Prehistoric Adventures | 329652 | [329652-the-land-before-time-prehistoric-adventures.json](./329652-the-land-before-time-prehistoric-adventures.json) |
+| The Land Before Time: Preschool Adventure | 329647 | [329647-the-land-before-time-preschool-adventure.json](./329647-the-land-before-time-preschool-adventure.json) |
+| The Land Before Time: Toddler Time | 329648 | [329648-the-land-before-time-toddler-time.json](./329648-the-land-before-time-toddler-time.json) |
 | The Land Forgotten | 381730 | [381730-the-land-forgotten.json](./381730-the-land-forgotten.json) |
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
 | The Land of Lamia | 34838 | [34838-the-land-of-lamia.json](./34838-the-land-of-lamia.json) |
