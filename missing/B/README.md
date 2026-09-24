@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beaten Path | 264711 | [264711-beaten-path.json](./264711-beaten-path.json) |
+| Beater: Apocal Undone | 290492 | [290492-beater-apocal-undone.json](./290492-beater-apocal-undone.json) |
 | Beaterator | 18383 | [18383-beaterator.json](./18383-beaterator.json) |
 | BeatEVO YG | 74785 | [74785-beatevo-yg.json](./74785-beatevo-yg.json) |
 | Beating A Dead Horse With A One-Trick Pony | 111508 | [111508-beating-a-dead-horse-with-a-one-trick-pony.json](./111508-beating-a-dead-horse-with-a-one-trick-pony.json) |
@@ -2156,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become a Great Artist in Just 10 Seconds | 139817 | [139817-become-a-great-artist-in-just-10-seconds.json](./139817-become-a-great-artist-in-just-10-seconds.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Become Barista! | 349520 | [349520-become-barista.json](./349520-become-barista.json) |
+| Become Castellane in Another World | 290501 | [290501-become-castellane-in-another-world.json](./290501-become-castellane-in-another-world.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
 | Becoming a King | 348457 | [348457-becoming-a-king.json](./348457-becoming-a-king.json) |
 | Becoming a Legend: New Advent | 403671 | [403671-becoming-a-legend-new-advent.json](./403671-becoming-a-legend-new-advent.json) |
@@ -3918,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
 | Block Jam: Cute Edition | 332516 | [332516-block-jam-cute-edition.json](./332516-block-jam-cute-edition.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
+| Block Magic Puzzle | 290466 | [290466-block-magic-puzzle.json](./290466-block-magic-puzzle.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Master 3D Puzzle | 357976 | [357976-block-master-3d-puzzle.json](./357976-block-master-3d-puzzle.json) |
 | Block Mesa 64 | 193328 | [193328-block-mesa-64.json](./193328-block-mesa-64.json) |
@@ -4295,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
 | Blosics 2 | 320867 | [320867-blosics-2.json](./320867-blosics-2.json) |
 | Blossom | 178530 | [178530-blossom.json](./178530-blossom.json) |
+| Blossom | 290469 | [290469-blossom.json](./290469-blossom.json) |
 | Blossom | 388708 | [388708-blossom.json](./388708-blossom.json) |
 | Blossom Breeze | 347356 | [347356-blossom-breeze.json](./347356-blossom-breeze.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
