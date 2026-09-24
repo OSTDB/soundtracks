@@ -6159,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure | 150658 | [150658-azure.json](./150658-azure.json) |
 | Azure Be Gone | 322396 | [322396-azure-be-gone.json](./322396-azure-be-gone.json) |
 | Azure Dreams | 6545 | [6545-azure-dreams.json](./6545-azure-dreams.json) |
+| Azure Flame | 333179 | [333179-azure-flame.json](./333179-azure-flame.json) |
 | Azure Hue | 336553 | [336553-azure-hue.json](./336553-azure-hue.json) |
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
