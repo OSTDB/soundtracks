@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T09:32:57.307Z",
-  "total_missing": 115477,
+  "generated_at": "2026-09-24T10:02:57.708Z",
+  "total_missing": 115543,
   "games": [
     {
       "igdb_id": 176875,
@@ -5123,6 +5123,11 @@
       "file": "missing/0-9/283870-99-waves.json"
     },
     {
+      "igdb_id": 313838,
+      "game_name": "99 Ways to Die",
+      "file": "missing/0-9/313838-99-ways-to-die.json"
+    },
+    {
       "igdb_id": 409671,
       "game_name": "99% Can't Spot It! Common Sense Battle",
       "file": "missing/0-9/409671-99-cant-spot-it-common-sense-battle.json"
@@ -5441,6 +5446,11 @@
       "igdb_id": 145672,
       "game_name": "A Cosmic Forest",
       "file": "missing/A/145672-a-cosmic-forest.json"
+    },
+    {
+      "igdb_id": 313819,
+      "game_name": "A Courtesan of Rome",
+      "file": "missing/A/313819-a-courtesan-of-rome.json"
     },
     {
       "igdb_id": 379467,
@@ -8976,6 +8986,11 @@
       "igdb_id": 334487,
       "game_name": "Across the River",
       "file": "missing/A/334487-across-the-river.json"
+    },
+    {
+      "igdb_id": 313818,
+      "game_name": "Across the Void",
+      "file": "missing/A/313818-across-the-void.json"
     },
     {
       "igdb_id": 248133,
@@ -16716,6 +16731,11 @@
       "igdb_id": 117490,
       "game_name": "Alpha",
       "file": "missing/A/117490-alpha.json"
+    },
+    {
+      "igdb_id": 313804,
+      "game_name": "Alpha",
+      "file": "missing/A/313804-alpha.json"
     },
     {
       "igdb_id": 256878,
@@ -37098,6 +37118,11 @@
       "file": "missing/B/331357-bachelairs.json"
     },
     {
+      "igdb_id": 313834,
+      "game_name": "Bachelorette Party",
+      "file": "missing/B/313834-bachelorette-party.json"
+    },
+    {
       "igdb_id": 309502,
       "game_name": "Back",
       "file": "missing/B/309502-back.json"
@@ -56481,6 +56506,31 @@
       "igdb_id": 105276,
       "game_name": "Blood Bond: Into the Shroud",
       "file": "missing/B/105276-blood-bond-into-the-shroud.json"
+    },
+    {
+      "igdb_id": 313823,
+      "game_name": "Blood Bound",
+      "file": "missing/B/313823-blood-bound.json"
+    },
+    {
+      "igdb_id": 313824,
+      "game_name": "Blood Bound II",
+      "file": "missing/B/313824-blood-bound-ii.json"
+    },
+    {
+      "igdb_id": 313825,
+      "game_name": "Blood Bound III",
+      "file": "missing/B/313825-blood-bound-iii.json"
+    },
+    {
+      "igdb_id": 313827,
+      "game_name": "Blood Bound Origins",
+      "file": "missing/B/313827-blood-bound-origins.json"
+    },
+    {
+      "igdb_id": 313826,
+      "game_name": "Blood Bound: Dark Solstice",
+      "file": "missing/B/313826-blood-bound-dark-solstice.json"
     },
     {
       "igdb_id": 341551,
@@ -76876,6 +76926,11 @@
       "igdb_id": 243115,
       "game_name": "Cat Cafe 101",
       "file": "missing/C/243115-cat-cafe-101.json"
+    },
+    {
+      "igdb_id": 313810,
+      "game_name": "Cat Cafe Manager 2: Big City Bliss",
+      "file": "missing/C/313810-cat-cafe-manager-2-big-city-bliss.json"
     },
     {
       "igdb_id": 301266,
@@ -101558,6 +101613,21 @@
       "file": "missing/C/51265-crimecraft-bleedout.json"
     },
     {
+      "igdb_id": 313795,
+      "game_name": "Crimes of Passion",
+      "file": "missing/C/313795-crimes-of-passion.json"
+    },
+    {
+      "igdb_id": 313796,
+      "game_name": "Crimes of Passion II",
+      "file": "missing/C/313796-crimes-of-passion-ii.json"
+    },
+    {
+      "igdb_id": 313797,
+      "game_name": "Crimes of Passion: The Proposal",
+      "file": "missing/C/313797-crimes-of-passion-the-proposal.json"
+    },
+    {
       "igdb_id": 417708,
       "game_name": "Criminal Archives: Alphabetic Murders",
       "file": "missing/C/417708-criminal-archives-alphabetic-murders.json"
@@ -108011,6 +108081,21 @@
       "igdb_id": 252248,
       "game_name": "Cynostone",
       "file": "missing/C/252248-cynostone.json"
+    },
+    {
+      "igdb_id": 313787,
+      "game_name": "Cynthia: Hidden in the Moonshadow - Accessory Pack #1",
+      "file": "missing/C/313787-cynthia-hidden-in-the-moonshadow-accessory-pack-1.json"
+    },
+    {
+      "igdb_id": 313788,
+      "game_name": "Cynthia: Hidden in the Moonshadow - Accessory Pack #2",
+      "file": "missing/C/313788-cynthia-hidden-in-the-moonshadow-accessory-pack-2.json"
+    },
+    {
+      "igdb_id": 313789,
+      "game_name": "Cynthia: Hidden in the Moonshadow - Accessory Pack #3",
+      "file": "missing/C/313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json"
     },
     {
       "igdb_id": 283152,
@@ -126248,6 +126333,11 @@
       "file": "missing/D/112005-disjunction.json"
     },
     {
+      "igdb_id": 313830,
+      "game_name": "Disjunction",
+      "file": "missing/D/313830-disjunction.json"
+    },
+    {
       "igdb_id": 46220,
       "game_name": "Disk Jockey Boy",
       "file": "missing/D/46220-disk-jockey-boy.json"
@@ -127071,6 +127161,11 @@
       "igdb_id": 337160,
       "game_name": "Distant Realm",
       "file": "missing/D/337160-distant-realm.json"
+    },
+    {
+      "igdb_id": 313841,
+      "game_name": "Distant Shores",
+      "file": "missing/D/313841-distant-shores.json"
     },
     {
       "igdb_id": 10186,
@@ -143038,6 +143133,11 @@
       "file": "missing/E/206957-ears-of-the-killer.json"
     },
     {
+      "igdb_id": 313840,
+      "game_name": "Earth",
+      "file": "missing/E/313840-earth.json"
+    },
+    {
       "igdb_id": 92497,
       "game_name": "Earth 2025",
       "file": "missing/E/92497-earth-2025.json"
@@ -153351,6 +153451,11 @@
       "igdb_id": 13711,
       "game_name": "Estra",
       "file": "missing/E/13711-estra.json"
+    },
+    {
+      "igdb_id": 313832,
+      "game_name": "Estranged",
+      "file": "missing/E/313832-estranged.json"
     },
     {
       "igdb_id": 39869,
@@ -213728,6 +213833,11 @@
       "file": "missing/H/308802-hentai-dating-stories-brazil-deluxe-edition.json"
     },
     {
+      "igdb_id": 313786,
+      "game_name": "Hentai Dating Stories: Brazil - Extended Edition",
+      "file": "missing/H/313786-hentai-dating-stories-brazil-extended-edition.json"
+    },
+    {
       "igdb_id": 315862,
       "game_name": "Hentai Dating Stories: Brazil - Special Edition",
       "file": "missing/H/315862-hentai-dating-stories-brazil-special-edition.json"
@@ -214036,6 +214146,11 @@
       "igdb_id": 283178,
       "game_name": "Hentai Golf: Deluxe Edition",
       "file": "missing/H/283178-hentai-golf-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 313790,
+      "game_name": "Hentai Golf: GOTY Edition",
+      "file": "missing/H/313790-hentai-golf-goty-edition.json"
     },
     {
       "igdb_id": 315861,
@@ -214411,6 +214526,11 @@
       "igdb_id": 315868,
       "game_name": "Hentai Solitaire: Extended Edition",
       "file": "missing/H/315868-hentai-solitaire-extended-edition.json"
+    },
+    {
+      "igdb_id": 313785,
+      "game_name": "Hentai Solitaire: Ultimate Edition",
+      "file": "missing/H/313785-hentai-solitaire-ultimate-edition.json"
     },
     {
       "igdb_id": 286537,
@@ -221523,6 +221643,11 @@
       "file": "missing/H/277962-home-domes.json"
     },
     {
+      "igdb_id": 313814,
+      "game_name": "Home for the Holidays",
+      "file": "missing/H/313814-home-for-the-holidays.json"
+    },
+    {
       "igdb_id": 213371,
       "game_name": "Home From Work 2",
       "file": "missing/H/213371-home-from-work-2.json"
@@ -224598,6 +224723,11 @@
       "file": "missing/H/368518-hotpuzzle-video.json"
     },
     {
+      "igdb_id": 313805,
+      "game_name": "Hotshot",
+      "file": "missing/H/313805-hotshot.json"
+    },
+    {
       "igdb_id": 131888,
       "game_name": "Hotshot Racing",
       "file": "missing/H/131888-hotshot-racing.json"
@@ -226848,6 +226978,16 @@
       "file": "missing/H/292675-hunt-showdown-1896-northern-justice.json"
     },
     {
+      "igdb_id": 313783,
+      "game_name": "Hunt: Showdown 1896 - Premium Edition",
+      "file": "missing/H/313783-hunt-showdown-1896-premium-edition.json"
+    },
+    {
+      "igdb_id": 313782,
+      "game_name": "Hunt: Showdown 1896 - Starter Edition",
+      "file": "missing/H/313782-hunt-showdown-1896-starter-edition.json"
+    },
+    {
       "igdb_id": 332024,
       "game_name": "Hunt: Showdown 1896 - The Revenant",
       "file": "missing/H/332024-hunt-showdown-1896-the-revenant.json"
@@ -229066,6 +229206,11 @@
       "igdb_id": 142893,
       "game_name": "I hope she's ok",
       "file": "missing/I/142893-i-hope-shes-ok.json"
+    },
+    {
+      "igdb_id": 313815,
+      "game_name": "I Hope To See You Again",
+      "file": "missing/I/313815-i-hope-to-see-you-again.json"
     },
     {
       "igdb_id": 195222,
@@ -237091,6 +237236,11 @@
       "igdb_id": 108255,
       "game_name": "Instant Tennis",
       "file": "missing/I/108255-instant-tennis.json"
+    },
+    {
+      "igdb_id": 313808,
+      "game_name": "Instants",
+      "file": "missing/I/313808-instants.json"
     },
     {
       "igdb_id": 260972,
@@ -292373,9 +292523,24 @@
       "file": "missing/M/316267-medieval-fantasy-jigsaw-puzzle-funny-moments.json"
     },
     {
+      "igdb_id": 313792,
+      "game_name": "Medieval Fantasy: Jigsaw Puzzle - Graph Edition",
+      "file": "missing/M/313792-medieval-fantasy-jigsaw-puzzle-graph-edition.json"
+    },
+    {
       "igdb_id": 313151,
       "game_name": "Medieval Fantasy: Jigsaw Puzzle - Great Warriors",
       "file": "missing/M/313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json"
+    },
+    {
+      "igdb_id": 313793,
+      "game_name": "Medieval Fantasy: Jigsaw Puzzle - King Edition",
+      "file": "missing/M/313793-medieval-fantasy-jigsaw-puzzle-king-edition.json"
+    },
+    {
+      "igdb_id": 313794,
+      "game_name": "Medieval Fantasy: Jigsaw Puzzle - Knight Edition",
+      "file": "missing/M/313794-medieval-fantasy-jigsaw-puzzle-knight-edition.json"
     },
     {
       "igdb_id": 319778,
@@ -303628,6 +303793,11 @@
       "file": "missing/M/249854-mirth-island.json"
     },
     {
+      "igdb_id": 313781,
+      "game_name": "Mirth Melody",
+      "file": "missing/M/313781-mirth-melody.json"
+    },
+    {
       "igdb_id": 262482,
       "game_name": "Mirum Orbis",
       "file": "missing/M/262482-mirum-orbis.json"
@@ -311133,6 +311303,11 @@
       "file": "missing/M/19643-mother-of-myth.json"
     },
     {
+      "igdb_id": 313837,
+      "game_name": "Mother of the Year",
+      "file": "missing/M/313837-mother-of-the-year.json"
+    },
+    {
       "igdb_id": 323881,
       "game_name": "Mother Zero",
       "file": "missing/M/323881-mother-zero.json"
@@ -317561,6 +317736,11 @@
       "igdb_id": 223991,
       "game_name": "My Tribe 3D",
       "file": "missing/M/223991-my-tribe-3d.json"
+    },
+    {
+      "igdb_id": 313847,
+      "game_name": "My Two First Loves",
+      "file": "missing/M/313847-my-two-first-loves.json"
     },
     {
       "igdb_id": 316855,
@@ -327138,6 +327318,11 @@
       "file": "missing/N/33457-night-blights.json"
     },
     {
+      "igdb_id": 313828,
+      "game_name": "Night Bound",
+      "file": "missing/N/313828-night-bound.json"
+    },
+    {
       "igdb_id": 294257,
       "game_name": "Night Bus",
       "file": "missing/N/294257-night-bus.json"
@@ -333218,9 +333403,19 @@
       "file": "missing/N/71767-number-munchers-tribute.json"
     },
     {
+      "igdb_id": 313843,
+      "game_name": "Number One Kill",
+      "file": "missing/N/313843-number-one-kill.json"
+    },
+    {
       "igdb_id": 313855,
       "game_name": "Number One Kill Extra",
       "file": "missing/N/313855-number-one-kill-extra.json"
+    },
+    {
+      "igdb_id": 313844,
+      "game_name": "Number One Kill The Next Generation",
+      "file": "missing/N/313844-number-one-kill-the-next-generation.json"
     },
     {
       "igdb_id": 158198,
@@ -334111,6 +334306,11 @@
       "igdb_id": 386276,
       "game_name": "Obey the Voice",
       "file": "missing/O/386276-obey-the-voice.json"
+    },
+    {
+      "igdb_id": 313833,
+      "game_name": "Obituary",
+      "file": "missing/O/313833-obituary.json"
     },
     {
       "igdb_id": 363028,
@@ -350053,6 +350253,11 @@
       "file": "missing/P/55852-passport-to-prague.json"
     },
     {
+      "igdb_id": 313821,
+      "game_name": "Passport to Romance",
+      "file": "missing/P/313821-passport-to-romance.json"
+    },
+    {
       "igdb_id": 55847,
       "game_name": "Passport to Rome",
       "file": "missing/P/55847-passport-to-rome.json"
@@ -350751,6 +350956,11 @@
       "igdb_id": 215690,
       "game_name": "Pavor",
       "file": "missing/P/215690-pavor.json"
+    },
+    {
+      "igdb_id": 313816,
+      "game_name": "Pavu",
+      "file": "missing/P/313816-pavu.json"
     },
     {
       "igdb_id": 357941,
@@ -354461,6 +354671,11 @@
       "igdb_id": 45529,
       "game_name": "Phantasy Star: Fukkoku-ban",
       "file": "missing/P/45529-phantasy-star-fukkoku-ban.json"
+    },
+    {
+      "igdb_id": 313784,
+      "game_name": "Phantasy Star... 20 Years Past",
+      "file": "missing/P/313784-phantasy-star-20-years-past.json"
     },
     {
       "igdb_id": 125429,
@@ -361976,6 +362191,11 @@
       "igdb_id": 88083,
       "game_name": "Plati Nalog: Favorite Russian Game",
       "file": "missing/P/88083-plati-nalog-favorite-russian-game.json"
+    },
+    {
+      "igdb_id": 313829,
+      "game_name": "Platinum",
+      "file": "missing/P/313829-platinum.json"
     },
     {
       "igdb_id": 299106,
@@ -395843,6 +396063,11 @@
       "file": "missing/R/82394-rising-thunder-community-edition.json"
     },
     {
+      "igdb_id": 313848,
+      "game_name": "Rising Tides",
+      "file": "missing/R/313848-rising-tides.json"
+    },
+    {
       "igdb_id": 346139,
       "game_name": "Rising Wan",
       "file": "missing/R/346139-rising-wan.json"
@@ -396246,6 +396471,11 @@
       "igdb_id": 21646,
       "game_name": "Rivals of Aether",
       "file": "missing/R/21646-rivals-of-aether.json"
+    },
+    {
+      "igdb_id": 313803,
+      "game_name": "Rivals with Benefits",
+      "file": "missing/R/313803-rivals-with-benefits.json"
     },
     {
       "igdb_id": 277611,
@@ -401001,6 +401231,11 @@
       "igdb_id": 297205,
       "game_name": "Roommates",
       "file": "missing/R/297205-roommates.json"
+    },
+    {
+      "igdb_id": 313802,
+      "game_name": "Roommates with Benefits",
+      "file": "missing/R/313802-roommates-with-benefits.json"
     },
     {
       "igdb_id": 94190,
@@ -409528,6 +409763,11 @@
       "file": "missing/S/34194-save-the-creatures.json"
     },
     {
+      "igdb_id": 313845,
+      "game_name": "Save the Date",
+      "file": "missing/S/313845-save-the-date.json"
+    },
+    {
       "igdb_id": 416110,
       "game_name": "Save the Eggs",
       "file": "missing/S/416110-save-the-eggs.json"
@@ -411991,6 +412231,11 @@
       "igdb_id": 191860,
       "game_name": "Scriptic: Interactive Dramas",
       "file": "missing/S/191860-scriptic-interactive-dramas.json"
+    },
+    {
+      "igdb_id": 313811,
+      "game_name": "Scriptorium: Master of Manuscripts",
+      "file": "missing/S/313811-scriptorium-master-of-manuscripts.json"
     },
     {
       "igdb_id": 190225,
@@ -461558,6 +461803,11 @@
       "file": "missing/S/213475-sunkenland.json"
     },
     {
+      "igdb_id": 313831,
+      "game_name": "Sunkissed",
+      "file": "missing/S/313831-sunkissed.json"
+    },
+    {
       "igdb_id": 390768,
       "game_name": "SunKong",
       "file": "missing/S/390768-sunkong.json"
@@ -464081,6 +464331,11 @@
       "igdb_id": 301384,
       "game_name": "Super Live Stadium",
       "file": "missing/S/301384-super-live-stadium.json"
+    },
+    {
+      "igdb_id": 313806,
+      "game_name": "Super Loco World",
+      "file": "missing/S/313806-super-loco-world.json"
     },
     {
       "igdb_id": 215748,
@@ -468931,6 +469186,16 @@
       "igdb_id": 33030,
       "game_name": "SurrealVR",
       "file": "missing/S/33030-surrealvr.json"
+    },
+    {
+      "igdb_id": 313798,
+      "game_name": "Surrender",
+      "file": "missing/S/313798-surrender.json"
+    },
+    {
+      "igdb_id": 313799,
+      "game_name": "Surrender 2",
+      "file": "missing/S/313799-surrender-2.json"
     },
     {
       "igdb_id": 51986,
@@ -490058,6 +490323,11 @@
       "file": "missing/T/209567-the-evidence.json"
     },
     {
+      "igdb_id": 313836,
+      "game_name": "The Evil Unleashed",
+      "file": "missing/T/313836-the-evil-unleashed.json"
+    },
+    {
       "igdb_id": 154961,
       "game_name": "The Evil Within Bundle",
       "file": "missing/T/154961-the-evil-within-bundle.json"
@@ -492733,6 +493003,11 @@
       "file": "missing/T/33471-the-haunting-of-billy.json"
     },
     {
+      "igdb_id": 313813,
+      "game_name": "The Haunting of Braidwood Manor",
+      "file": "missing/T/313813-the-haunting-of-braidwood-manor.json"
+    },
+    {
       "igdb_id": 290008,
       "game_name": "The Haunting of Joni Evers",
       "file": "missing/T/290008-the-haunting-of-joni-evers.json"
@@ -492831,6 +493106,11 @@
       "igdb_id": 305347,
       "game_name": "The Heist of the Argonaut Limited",
       "file": "missing/T/305347-the-heist-of-the-argonaut-limited.json"
+    },
+    {
+      "igdb_id": 313820,
+      "game_name": "The Heist: Monaco",
+      "file": "missing/T/313820-the-heist-monaco.json"
     },
     {
       "igdb_id": 301830,
@@ -505616,6 +505896,11 @@
       "igdb_id": 53774,
       "game_name": "The Talos Principle: Gold Edition",
       "file": "missing/T/53774-the-talos-principle-gold-edition.json"
+    },
+    {
+      "igdb_id": 313839,
+      "game_name": "The Talosian Incident",
+      "file": "missing/T/313839-the-talosian-incident.json"
     },
     {
       "igdb_id": 364681,
@@ -536898,6 +537183,11 @@
       "file": "missing/U/181896-unbridled-horror.json"
     },
     {
+      "igdb_id": 313801,
+      "game_name": "Unbridled: An Untameable Story",
+      "file": "missing/U/313801-unbridled-an-untameable-story.json"
+    },
+    {
       "igdb_id": 298600,
       "game_name": "Unbroken",
       "file": "missing/U/298600-unbroken.json"
@@ -539763,6 +540053,11 @@
       "file": "missing/U/180842-unsustainable-a-god-job.json"
     },
     {
+      "igdb_id": 313800,
+      "game_name": "Untameable",
+      "file": "missing/U/313800-untameable.json"
+    },
+    {
       "igdb_id": 280233,
       "game_name": "Untamed",
       "file": "missing/U/280233-untamed.json"
@@ -540471,6 +540766,11 @@
       "igdb_id": 314904,
       "game_name": "Uraankhians Dygyn: The Beginning",
       "file": "missing/U/314904-uraankhians-dygyn-the-beginning.json"
+    },
+    {
+      "igdb_id": 313835,
+      "game_name": "Urania",
+      "file": "missing/U/313835-urania.json"
     },
     {
       "igdb_id": 256281,
@@ -543536,6 +543836,11 @@
       "igdb_id": 262951,
       "game_name": "Veil of Clay",
       "file": "missing/V/262951-veil-of-clay.json"
+    },
+    {
+      "igdb_id": 313817,
+      "game_name": "Veil of Secrets",
+      "file": "missing/V/313817-veil-of-secrets.json"
     },
     {
       "igdb_id": 351686,
@@ -559658,6 +559963,11 @@
       "file": "missing/W/237516-windows-xp-meteorite-covenant.json"
     },
     {
+      "igdb_id": 313807,
+      "game_name": "Windpunk",
+      "file": "missing/W/313807-windpunk.json"
+    },
+    {
       "igdb_id": 380441,
       "game_name": "Windrose",
       "file": "missing/W/380441-windrose.json"
@@ -560668,6 +560978,11 @@
       "file": "missing/W/229678-wishful-thinking.json"
     },
     {
+      "igdb_id": 313822,
+      "game_name": "Wishful Thinking",
+      "file": "missing/W/313822-wishful-thinking.json"
+    },
+    {
       "igdb_id": 130861,
       "game_name": "Wishing Well",
       "file": "missing/W/130861-wishing-well.json"
@@ -561268,9 +561583,19 @@
       "file": "missing/W/35853-without-within.json"
     },
     {
+      "igdb_id": 313842,
+      "game_name": "Witness Of Time",
+      "file": "missing/W/313842-witness-of-time.json"
+    },
+    {
       "igdb_id": 404336,
       "game_name": "Witness the Dark #1: Bloody Burger",
       "file": "missing/W/404336-witness-the-dark-1-bloody-burger.json"
+    },
+    {
+      "igdb_id": 313846,
+      "game_name": "Witness: A Bodyguard Romance",
+      "file": "missing/W/313846-witness-a-bodyguard-romance.json"
     },
     {
       "igdb_id": 133806,
@@ -565281,6 +565606,11 @@
       "igdb_id": 316265,
       "game_name": "WorldNeverland: Elnea Kingdom - Fluffy Panda Suit",
       "file": "missing/W/316265-worldneverland-elnea-kingdom-fluffy-panda-suit.json"
+    },
+    {
+      "igdb_id": 313791,
+      "game_name": "WorldNeverland: Elnea Kingdom - Modern Yukata Set: Violet",
+      "file": "missing/W/313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json"
     },
     {
       "igdb_id": 294856,
