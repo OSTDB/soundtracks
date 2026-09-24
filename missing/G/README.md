@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxian | 277390 | [277390-galaxian.json](./277390-galaxian.json) |
 | Galaxian | 277391 | [277391-galaxian.json](./277391-galaxian.json) |
 | Galaxian | 277392 | [277392-galaxian.json](./277392-galaxian.json) |
+| Galaxian Sleena | 304143 | [304143-galaxian-sleena.json](./304143-galaxian-sleena.json) |
 | Galaxian3 | 234085 | [234085-galaxian3.json](./234085-galaxian3.json) |
 | Galaxians | 308354 | [308354-galaxians.json](./308354-galaxians.json) |
 | Galaxians & Gloops | 319580 | [319580-galaxians-and-gloops.json](./319580-galaxians-and-gloops.json) |
@@ -941,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Brawl Duel | 399732 | [399732-gem-brawl-duel.json](./399732-gem-brawl-duel.json) |
 | Gem Crush Match-3 | 397258 | [397258-gem-crush-match-3.json](./397258-gem-crush-match-3.json) |
 | Gem Gem Monster | 228551 | [228551-gem-gem-monster.json](./228551-gem-gem-monster.json) |
+| Gem Hunter | 304160 | [304160-gem-hunter.json](./304160-gem-hunter.json) |
 | Gem Island | 326812 | [326812-gem-island.json](./326812-gem-island.json) |
 | Gem Jam | 130964 | [130964-gem-jam.json](./130964-gem-jam.json) |
 | Gem Jam | 291604 | [291604-gem-jam.json](./291604-gem-jam.json) |
@@ -948,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem King | 254589 | [254589-gem-king.json](./254589-gem-king.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
 | Gem Monster | 30261 | [30261-gem-monster.json](./30261-gem-monster.json) |
+| Gem of Destiny | 304157 | [304157-gem-of-destiny.json](./304157-gem-of-destiny.json) |
 | Gem Phrase | 237379 | [237379-gem-phrase.json](./237379-gem-phrase.json) |
 | Gem Quest: Rush | 416643 | [416643-gem-quest-rush.json](./416643-gem-quest-rush.json) |
 | Gem Rifts | 188498 | [188498-gem-rifts.json](./188498-gem-rifts.json) |
@@ -1760,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
 | Glimpse | 278129 | [278129-glimpse.json](./278129-glimpse.json) |
 | Glingdom | 317022 | [317022-glingdom.json](./317022-glingdom.json) |
+| Glint Glitters | 304119 | [304119-glint-glitters.json](./304119-glint-glitters.json) |
 | Glint's Trial | 356156 | [356156-glints-trial.json](./356156-glints-trial.json) |
 | Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
