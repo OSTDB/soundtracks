@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Plane | 378426 | [378426-night-plane.json](./378426-night-plane.json) |
 | Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
+| Night Raid | 291021 | [291021-night-raid.json](./291021-night-raid.json) |
 | Night Raid | 80867 | [80867-night-raid.json](./80867-night-raid.json) |
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
 | Night Record: Thin Walls | 405696 | [405696-night-record-thin-walls.json](./405696-night-record-thin-walls.json) |
@@ -2827,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numachina | 350412 | [350412-numachina.json](./350412-numachina.json) |
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
+| Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Chaser | 41011 | [41011-number-chaser.json](./41011-number-chaser.json) |
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
