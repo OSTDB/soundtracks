@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Keibitai: Monster Attack | 413184 | [413184-ultra-keibitai-monster-attack.json](./413184-ultra-keibitai-monster-attack.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Mega Xtra Party Challenge | 201784 | [201784-ultra-mega-xtra-party-challenge.json](./201784-ultra-mega-xtra-party-challenge.json) |
+| Ultra Mushroom | 302442 | [302442-ultra-mushroom.json](./302442-ultra-mushroom.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
 | Ultra Nothing | 377674 | [377674-ultra-nothing.json](./377674-ultra-nothing.json) |
 | Ultra Realistic Mine | 416820 | [416820-ultra-realistic-mine.json](./416820-ultra-realistic-mine.json) |
@@ -936,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Place | 287226 | [287226-unknown-place.json](./287226-unknown-place.json) |
 | Unknown Presence | 274508 | [274508-unknown-presence.json](./274508-unknown-presence.json) |
 | Unknown Project | 269120 | [269120-unknown-project.json](./269120-unknown-project.json) |
+| Unknown Rules | 302477 | [302477-unknown-rules.json](./302477-unknown-rules.json) |
 | Unknown Scrolls | 113719 | [113719-unknown-scrolls.json](./113719-unknown-scrolls.json) |
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
 | Unknown Soldier: Mokuba no Houkou | 267396 | [267396-unknown-soldier-mokuba-no-houkou.json](./267396-unknown-soldier-mokuba-no-houkou.json) |
@@ -1017,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unpetrified: Echoes of Nature | 203925 | [203925-unpetrified-echoes-of-nature.json](./203925-unpetrified-echoes-of-nature.json) |
 | Unplagued | 307143 | [307143-unplagued.json](./307143-unplagued.json) |
 | Unplug | 249205 | [249205-unplug.json](./249205-unplug.json) |
+| Unpossess | 302429 | [302429-unpossess.json](./302429-unpossess.json) |
 | Unpossess 2 | 405731 | [405731-unpossess-2.json](./405731-unpossess-2.json) |
 | Unpredictable Storyline Twists 2 | 128632 | [128632-unpredictable-storyline-twists-2.json](./128632-unpredictable-storyline-twists-2.json) |
 | Unprotected | 323515 | [323515-unprotected.json](./323515-unprotected.json) |
