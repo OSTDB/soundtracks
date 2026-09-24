@@ -1092,7 +1092,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One's Own Exile | 344011 | [344011-ones-own-exile.json](./344011-ones-own-exile.json) |
 | OneBit Arena | 223556 | [223556-onebit-arena.json](./223556-onebit-arena.json) |
 | OneBit Berzerk | 208430 | [208430-onebit-berzerk.json](./208430-onebit-berzerk.json) |
+| OneBit Demon Attack | 292055 | [292055-onebit-demon-attack.json](./292055-onebit-demon-attack.json) |
 | OneBit Frogger | 209651 | [209651-onebit-frogger.json](./209651-onebit-frogger.json) |
+| OneBit Jetpack | 292054 | [292054-onebit-jetpack.json](./292054-onebit-jetpack.json) |
 | Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
 | Onee-san ga Tabetai no ha Kimi no... | 251617 | [251617-onee-san-ga-tabetai-no-ha-kimi-no.json](./251617-onee-san-ga-tabetai-no-ha-kimi-no.json) |
@@ -1793,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Church and Halloween: Story Four | 147944 | [147944-our-church-and-halloween-story-four.json](./147944-our-church-and-halloween-story-four.json) |
 | Our Church and Halloween: Story One | 146311 | [146311-our-church-and-halloween-story-one.json](./146311-our-church-and-halloween-story-one.json) |
 | Our Church and Halloween: Story Three | 147942 | [147942-our-church-and-halloween-story-three.json](./147942-our-church-and-halloween-story-three.json) |
+| Our Cinderella | 292061 | [292061-our-cinderella.json](./292061-our-cinderella.json) |
 | Our Darkest Night | 30793 | [30793-our-darkest-night.json](./30793-our-darkest-night.json) |
 | Our Dollhouse | 294219 | [294219-our-dollhouse.json](./294219-our-dollhouse.json) |
 | Our Fantasy Quest | 221737 | [221737-our-fantasy-quest.json](./221737-our-fantasy-quest.json) |
