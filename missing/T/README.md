@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adliberum Engine | 55891 | [55891-the-adliberum-engine.json](./55891-the-adliberum-engine.json) |
 | The Adventure of Amethyst Knight | 368028 | [368028-the-adventure-of-amethyst-knight.json](./368028-the-adventure-of-amethyst-knight.json) |
 | The Adventure of Hourai High School | 42549 | [42549-the-adventure-of-hourai-high-school.json](./42549-the-adventure-of-hourai-high-school.json) |
+| The Adventure of Ninomae Ina'nis | 321522 | [321522-the-adventure-of-ninomae-inanis.json](./321522-the-adventure-of-ninomae-inanis.json) |
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
