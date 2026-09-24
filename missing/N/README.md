@@ -1420,7 +1420,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Street 2: Unleashed | 243016 | [243016-nfl-street-2-unleashed.json](./243016-nfl-street-2-unleashed.json) |
 | NFL Street 3 | 8266 | [8266-nfl-street-3.json](./8266-nfl-street-3.json) |
 | NFL Xtreme 2 | 43899 | [43899-nfl-xtreme-2.json](./43899-nfl-xtreme-2.json) |
+| Ngolf: Complete + | 324447 | [324447-ngolf-complete.json](./324447-ngolf-complete.json) |
 | NGolf: Complete Edition | 313152 | [313152-ngolf-complete-edition.json](./313152-ngolf-complete-edition.json) |
+| Ngolf: Director's Cut | 324430 | [324430-ngolf-directors-cut.json](./324430-ngolf-directors-cut.json) |
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
 | Ngolf: Platinum Edition | 317247 | [317247-ngolf-platinum-edition.json](./317247-ngolf-platinum-edition.json) |
 | Ngolf: Premium Edition | 308791 | [308791-ngolf-premium-edition.json](./308791-ngolf-premium-edition.json) |
