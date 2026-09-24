@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palliative: Reach for an Angel | 191194 | [191194-palliative-reach-for-an-angel.json](./191194-palliative-reach-for-an-angel.json) |
 | Palm Cracker | 333625 | [333625-palm-cracker.json](./333625-palm-cracker.json) |
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
+| Palm Sugar: A Village Story | 287713 | [287713-palm-sugar-a-village-story.json](./287713-palm-sugar-a-village-story.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
 | PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Prince | 48891 | [48891-panda-prince.json](./48891-panda-prince.json) |
 | Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
+| Panda? | 287715 | [287715-panda.json](./287715-panda.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
@@ -3472,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
 | Plantoons | 341570 | [341570-plantoons.json](./341570-plantoons.json) |
 | Plants | 101330 | [101330-plants.json](./101330-plants.json) |
+| Plants in Rush | 287718 | [287718-plants-in-rush.json](./287718-plants-in-rush.json) |
 | Plants vs Zombies Expansion | 366941 | [366941-plants-vs-zombies-expansion.json](./366941-plants-vs-zombies-expansion.json) |
 | Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
 | Plants vs. Zombies | 275575 | [275575-plants-vs-zombies.json](./275575-plants-vs-zombies.json) |
