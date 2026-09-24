@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Lore Mysteries: Hunt For the Truth | 52841 | [52841-dark-lore-mysteries-hunt-for-the-truth.json](./52841-dark-lore-mysteries-hunt-for-the-truth.json) |
 | Dark Magic 2 | 192387 | [192387-dark-magic-2.json](./192387-dark-magic-2.json) |
 | Dark Magician | 192380 | [192380-dark-magician.json](./192380-dark-magician.json) |
+| Dark Mass | 336164 | [336164-dark-mass.json](./336164-dark-mass.json) |
 | Dark Maze | 148912 | [148912-dark-maze.json](./148912-dark-maze.json) |
 | Dark Messiah of Might and Magic | 2369 | [2369-dark-messiah-of-might-and-magic.json](./2369-dark-messiah-of-might-and-magic.json) |
 | Dark Messiah of Might and Magic: Elements | 78210 | [78210-dark-messiah-of-might-and-magic-elements.json](./78210-dark-messiah-of-might-and-magic-elements.json) |
@@ -1360,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
 | Dead Watch | 347900 | [347900-dead-watch.json](./347900-dead-watch.json) |
 | Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
+| Dead Weight | 336123 | [336123-dead-weight.json](./336123-dead-weight.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
 | Dead World Heroes | 221185 | [221185-dead-world-heroes.json](./221185-dead-world-heroes.json) |
 | Dead Years | 19582 | [19582-dead-years.json](./19582-dead-years.json) |
@@ -1558,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Fighter | 285007 | [285007-death-fighter.json](./285007-death-fighter.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
+| Death From Above: Complete Edition | 336140 | [336140-death-from-above-complete-edition.json](./336140-death-from-above-complete-edition.json) |
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
 | Death Imminent | 379014 | [379014-death-imminent.json](./379014-death-imminent.json) |
@@ -2705,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective_Psychic | 103182 | [103182-detective-psychic.json](./103182-detective-psychic.json) |
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
 | Detective: The Mountain City | 203951 | [203951-detective-the-mountain-city.json](./203951-detective-the-mountain-city.json) |
+| Detective: The Test | 336114 | [336114-detective-the-test.json](./336114-detective-the-test.json) |
 | Detectives United III: Timeless Voyage - Collector's Edition | 129708 | [129708-detectives-united-iii-timeless-voyage-collectors-edition.json](./129708-detectives-united-iii-timeless-voyage-collectors-edition.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
 | Detectives United: Vengeance from the Past | 416702 | [416702-detectives-united-vengeance-from-the-past.json](./416702-detectives-united-vengeance-from-the-past.json) |
