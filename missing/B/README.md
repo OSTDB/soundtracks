@@ -6209,7 +6209,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
 | Bucket Balls | 103201 | [103201-bucket-balls.json](./103201-bucket-balls.json) |
 | Bucket Brawl: Ahlman Edition | 253354 | [253354-bucket-brawl-ahlman-edition.json](./253354-bucket-brawl-ahlman-edition.json) |
+| Bucket Crusher: Around The World | 287160 | [287160-bucket-crusher-around-the-world.json](./287160-bucket-crusher-around-the-world.json) |
 | Bucket Crusher: Complete Edition | 290440 | [290440-bucket-crusher-complete-edition.json](./290440-bucket-crusher-complete-edition.json) |
+| Bucket Crusher: Cool Kidz | 287162 | [287162-bucket-crusher-cool-kidz.json](./287162-bucket-crusher-cool-kidz.json) |
+| Bucket Crusher: Holiday Spirit | 287161 | [287161-bucket-crusher-holiday-spirit.json](./287161-bucket-crusher-holiday-spirit.json) |
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
