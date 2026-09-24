@@ -5422,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smol Gods | 332407 | [332407-smol-gods.json](./332407-smol-gods.json) |
 | Smol Kobold Garden | 340933 | [340933-smol-kobold-garden.json](./340933-smol-kobold-garden.json) |
 | Smol Snek | 281526 | [281526-smol-snek.json](./281526-smol-snek.json) |
+| Smol Survivors | 307057 | [307057-smol-survivors.json](./307057-smol-survivors.json) |
 | Smol Toad | 390127 | [390127-smol-toad.json](./390127-smol-toad.json) |
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
 | Smooth Criminal | 91913 | [91913-smooth-criminal.json](./91913-smooth-criminal.json) |
@@ -6005,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
+| Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
 | Sokoban: Bunny Tales | 168220 | [168220-sokoban-bunny-tales.json](./168220-sokoban-bunny-tales.json) |
@@ -9172,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars | 12858 | [12858-star-wars.json](./12858-star-wars.json) |
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars | 245394 | [245394-star-wars.json](./245394-star-wars.json) |
+| Star Wars | 307080 | [307080-star-wars.json](./307080-star-wars.json) |
 | Star Wars | 72396 | [72396-star-wars.json](./72396-star-wars.json) |
 | Star Wars Arcade | 39822 | [39822-star-wars-arcade.json](./39822-star-wars-arcade.json) |
 | Star Wars Arcade Remake: Racer | 334876 | [334876-star-wars-arcade-remake-racer.json](./334876-star-wars-arcade-remake-racer.json) |
@@ -10591,6 +10594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
 | Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
 | Street Power Football | 134708 | [134708-street-power-football.json](./134708-street-power-football.json) |
+| Street Racer | 307078 | [307078-street-racer.json](./307078-street-racer.json) |
 | Street Racer Underground | 139819 | [139819-street-racer-underground.json](./139819-street-racer-underground.json) |
 | Street Racer X Ace of Love | 206198 | [206198-street-racer-x-ace-of-love.json](./206198-street-racer-x-ace-of-love.json) |
 | Street Racers: Hot Asphalt | 316837 | [316837-street-racers-hot-asphalt.json](./316837-street-racers-hot-asphalt.json) |
@@ -13109,6 +13113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarmrider Omega | 67901 | [67901-swarmrider-omega.json](./67901-swarmrider-omega.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
+| SWAT | 307058 | [307058-swat.json](./307058-swat.json) |
 | SWAT 3: Close Quarters Battle | 313 | [313-swat-3-close-quarters-battle.json](./313-swat-3-close-quarters-battle.json) |
 | SWAT Commander | 319967 | [319967-swat-commander.json](./319967-swat-commander.json) |
 | SWAT Elite Troops | 76202 | [76202-swat-elite-troops.json](./76202-swat-elite-troops.json) |
