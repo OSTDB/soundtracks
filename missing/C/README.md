@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cityconomy: Service for your City | 17494 | [17494-cityconomy-service-for-your-city.json](./17494-cityconomy-service-for-your-city.json) |
 | CityDriver: Alvarez-Lentz Marathon 420 CTI | 252236 | [252236-citydriver-alvarez-lentz-marathon-420-cti.json](./252236-citydriver-alvarez-lentz-marathon-420-cti.json) |
 | CityDriver: Ferdinand Habanero Turbo | 252237 | [252237-citydriver-ferdinand-habanero-turbo.json](./252237-citydriver-ferdinand-habanero-turbo.json) |
+| CityDriver: Moruga Turbo | 315619 | [315619-citydriver-moruga-turbo.json](./315619-citydriver-moruga-turbo.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
@@ -5752,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab God: Supporter Pack | 382435 | [382435-crab-god-supporter-pack.json](./382435-crab-god-supporter-pack.json) |
 | Crab Island | 226775 | [226775-crab-island.json](./226775-crab-island.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
+| Crab Wave | 315646 | [315646-crab-wave.json](./315646-crab-wave.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
 | Craball | 350043 | [350043-craball.json](./350043-craball.json) |
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
