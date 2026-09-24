@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabriel’s Worlds: The Sokoban Adventure | 378192 | [378192-gabriel-s-worlds-the-sokoban-adventure.json](./378192-gabriel-s-worlds-the-sokoban-adventure.json) |
 | Gabrielle | 221967 | [221967-gabrielle.json](./221967-gabrielle.json) |
 | Gabrielle's Ghostly Groove 3D | 23520 | [23520-gabrielles-ghostly-groove-3d.json](./23520-gabrielles-ghostly-groove-3d.json) |
+| Gacha Addict Simulator | 326198 | [326198-gacha-addict-simulator.json](./326198-gacha-addict-simulator.json) |
 | Gacha Adventure | 375323 | [375323-gacha-adventure.json](./375323-gacha-adventure.json) |
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
 | Gacha Club | 142408 | [142408-gacha-club.json](./142408-gacha-club.json) |
@@ -2780,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Larceny | 13860 | [13860-grand-larceny.json](./13860-grand-larceny.json) |
 | Grand Line Adventures | 148485 | [148485-grand-line-adventures.json](./148485-grand-line-adventures.json) |
 | Grand Lizard | 92543 | [92543-grand-lizard.json](./92543-grand-lizard.json) |
+| Grand Mall Simulator | 326231 | [326231-grand-mall-simulator.json](./326231-grand-mall-simulator.json) |
 | Grand Master | 48695 | [48695-grand-master.json](./48695-grand-master.json) |
 | Grand Miami Mafia Crime: Fight to Survive | 96017 | [96017-grand-miami-mafia-crime-fight-to-survive.json](./96017-grand-miami-mafia-crime-fight-to-survive.json) |
 | Grand Mini Slam | 255742 | [255742-grand-mini-slam.json](./255742-grand-mini-slam.json) |
@@ -3023,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Biker | 391325 | [391325-gravity-biker.json](./391325-gravity-biker.json) |
 | Gravity Blast | 231946 | [231946-gravity-blast.json](./231946-gravity-blast.json) |
 | Gravity Block | 164511 | [164511-gravity-block.json](./164511-gravity-block.json) |
+| Gravity Block 2 | 326189 | [326189-gravity-block-2.json](./326189-gravity-block-2.json) |
 | Gravity Bone | 7962 | [7962-gravity-bone.json](./7962-gravity-bone.json) |
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
@@ -3353,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm: Quest for the Gatherer's Key | 363039 | [363039-grimm-quest-for-the-gatherers-key.json](./363039-grimm-quest-for-the-gatherers-key.json) |
 | Grimm's Hatchery | 73510 | [73510-grimms-hatchery.json](./73510-grimms-hatchery.json) |
 | Grimm's Hollow | 125110 | [125110-grimms-hollow.json](./125110-grimms-hollow.json) |
+| GrimmKitchen | 326225 | [326225-grimmkitchen.json](./326225-grimmkitchen.json) |
 | Grimms Notes | 193846 | [193846-grimms-notes.json](./193846-grimms-notes.json) |
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
@@ -3801,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
 | Gun Quest | 382475 | [382475-gun-quest.json](./382475-gun-quest.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
+| Gun Reflex VR | 326222 | [326222-gun-reflex-vr.json](./326222-gun-reflex-vr.json) |
 | Gun Repair Shop | 386436 | [386436-gun-repair-shop.json](./386436-gun-repair-shop.json) |
 | Gun Restoration Shop Simulator | 410317 | [410317-gun-restoration-shop-simulator.json](./410317-gun-restoration-shop-simulator.json) |
 | Gun Road | 96678 | [96678-gun-road.json](./96678-gun-road.json) |
