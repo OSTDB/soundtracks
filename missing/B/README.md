@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bashing Brutal | 348251 | [348251-bashing-brutal.json](./348251-bashing-brutal.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
 | Bashville | 87981 | [87981-bashville.json](./87981-bashville.json) |
+| Basic Biking | 301344 | [301344-basic-biking.json](./301344-basic-biking.json) |
 | BASIC Computer Games | 408061 | [408061-basic-computer-games.json](./408061-basic-computer-games.json) |
 | Basic Kanji Meaning Quiz | 409668 | [409668-basic-kanji-meaning-quiz.json](./409668-basic-kanji-meaning-quiz.json) |
 | Basic Nyuumon | 47549 | [47549-basic-nyuumon.json](./47549-basic-nyuumon.json) |
