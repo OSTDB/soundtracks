@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea of Thieves: Custom Seas - Season 20 | 405065 | [405065-sea-of-thieves-custom-seas-season-20.json](./405065-sea-of-thieves-custom-seas-season-20.json) |
 | Sea of Thieves: Season 13 | 305154 | [305154-sea-of-thieves-season-13.json](./305154-sea-of-thieves-season-13.json) |
+| Sea of Thieves: Season 14 | 320297 | [320297-sea-of-thieves-season-14.json](./320297-sea-of-thieves-season-14.json) |
 | Sea of Thieves: Season 8 | 227961 | [227961-sea-of-thieves-season-8.json](./227961-sea-of-thieves-season-8.json) |
 | Sea of Thieves: Season 9 | 240906 | [240906-sea-of-thieves-season-9.json](./240906-sea-of-thieves-season-9.json) |
 | Sea of Thieves: The Legend of Monkey Island | 252829 | [252829-sea-of-thieves-the-legend-of-monkey-island.json](./252829-sea-of-thieves-the-legend-of-monkey-island.json) |
@@ -1653,7 +1654,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Bottle | 246479 | [246479-secret-bottle.json](./246479-secret-bottle.json) |
 | Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
 | Secret Cats: Easter | 368538 | [368538-secret-cats-easter.json](./368538-secret-cats-easter.json) |
+| Secret Cats: Halloween | 320315 | [320315-secret-cats-halloween.json](./320315-secret-cats-halloween.json) |
+| Secret Cats: Haunted Mansion | 320317 | [320317-secret-cats-haunted-mansion.json](./320317-secret-cats-haunted-mansion.json) |
 | Secret Cats: Ice Cream Day | 360648 | [360648-secret-cats-ice-cream-day.json](./360648-secret-cats-ice-cream-day.json) |
+| Secret Cats: Spooky | 320316 | [320316-secret-cats-spooky.json](./320316-secret-cats-spooky.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
 | Secret Collect. | 135848 | [135848-secret-collect.json](./135848-secret-collect.json) |
@@ -7677,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spear of Destiny Super CD Pack | 306973 | [306973-spear-of-destiny-super-cd-pack.json](./306973-spear-of-destiny-super-cd-pack.json) |
 | Spear of Destiny: The Final Journey | 177043 | [177043-spear-of-destiny-the-final-journey.json](./177043-spear-of-destiny-the-final-journey.json) |
 | Spear of Destiny: The Kaiseki - Director's Cut | 228098 | [228098-spear-of-destiny-the-kaiseki-directors-cut.json](./228098-spear-of-destiny-the-kaiseki-directors-cut.json) |
+| Spearain | 320301 | [320301-spearain.json](./320301-spearain.json) |
 | Spearfishing | 51191 | [51191-spearfishing.json](./51191-spearfishing.json) |
 | SpearHeads | 248722 | [248722-spearheads.json](./248722-spearheads.json) |
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
@@ -8399,6 +8404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sportsfriends | 9865 | [9865-sportsfriends.json](./9865-sportsfriends.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
+| Spot It | 320341 | [320341-spot-it.json](./320341-spot-it.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
@@ -10201,6 +10207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
 | Storybricks | 65193 | [65193-storybricks.json](./65193-storybricks.json) |
 | StoryKingdom | 255706 | [255706-storykingdom.json](./255706-storykingdom.json) |
+| Storyngton Hall | 320291 | [320291-storyngton-hall.json](./320291-storyngton-hall.json) |
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
@@ -10701,6 +10708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Cycle | 18584 | [18584-stunt-cycle.json](./18584-stunt-cycle.json) |
 | Stunt Derby | 216863 | [216863-stunt-derby.json](./216863-stunt-derby.json) |
 | Stunt Destroyer | 204086 | [204086-stunt-destroyer.json](./204086-stunt-destroyer.json) |
+| Stunt Dog Adventure | 320288 | [320288-stunt-dog-adventure.json](./320288-stunt-dog-adventure.json) |
 | Stunt Drifters | 124604 | [124604-stunt-drifters.json](./124604-stunt-drifters.json) |
 | Stunt Driver Collection | 328478 | [328478-stunt-driver-collection.json](./328478-stunt-driver-collection.json) |
 | Stunt Flyer | 66617 | [66617-stunt-flyer.json](./66617-stunt-flyer.json) |
@@ -12987,6 +12995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweeky Land | 145608 | [145608-sweeky-land.json](./145608-sweeky-land.json) |
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
 | Sweep City | 329683 | [329683-sweep-city.json](./329683-sweep-city.json) |
+| Sweep Maidens | 320306 | [320306-sweep-maidens.json](./320306-sweep-maidens.json) |
 | Sweep Strike | 376540 | [376540-sweep-strike.json](./376540-sweep-strike.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
