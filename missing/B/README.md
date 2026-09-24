@@ -4032,6 +4032,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl 2: The Necromantic | 52651 | [52651-blood-bowl-2-the-necromantic.json](./52651-blood-bowl-2-the-necromantic.json) |
 | Blood Bowl 2: Undead | 52650 | [52650-blood-bowl-2-undead.json](./52650-blood-bowl-2-undead.json) |
 | Blood Bowl 2: Wood Elves | 52648 | [52648-blood-bowl-2-wood-elves.json](./52648-blood-bowl-2-wood-elves.json) |
+| Blood Bowl III: Season 2 | 302463 | [302463-blood-bowl-iii-season-2.json](./302463-blood-bowl-iii-season-2.json) |
+| Blood Bowl III: Season 3 | 302464 | [302464-blood-bowl-iii-season-3.json](./302464-blood-bowl-iii-season-3.json) |
+| Blood Bowl III: Season 4 | 302466 | [302466-blood-bowl-iii-season-4.json](./302466-blood-bowl-iii-season-4.json) |
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
 | Blood Branched Sakura | 129754 | [129754-blood-branched-sakura.json](./129754-blood-branched-sakura.json) |
 | Blood Bros. | 39612 | [39612-blood-bros.json](./39612-blood-bros.json) |
@@ -4305,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
 | Blue Jay Joyride | 195628 | [195628-blue-jay-joyride.json](./195628-blue-jay-joyride.json) |
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
+| Blue Land | 302476 | [302476-blue-land.json](./302476-blue-land.json) |
 | Blue Lemon | 126656 | [126656-blue-lemon.json](./126656-blue-lemon.json) |
 | Blue Man Adventure | 412516 | [412516-blue-man-adventure.json](./412516-blue-man-adventure.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
@@ -4487,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bocchi the Smash! | 263594 | [263594-bocchi-the-smash.json](./263594-bocchi-the-smash.json) |
 | Bochi Collection | 391029 | [391029-bochi-collection.json](./391029-bochi-collection.json) |
 | Bod Squad | 47236 | [47236-bod-squad.json](./47236-bod-squad.json) |
+| Bodacious Babes: Holidays | 302436 | [302436-bodacious-babes-holidays.json](./302436-bodacious-babes-holidays.json) |
 | Bodacious Babes: Nightlife | 295370 | [295370-bodacious-babes-nightlife.json](./295370-bodacious-babes-nightlife.json) |
 | Bode Miller Alpine Skiing | 43553 | [43553-bode-miller-alpine-skiing.json](./43553-bode-miller-alpine-skiing.json) |
 | Bodhi 'n' Friends | 236264 | [236264-bodhi-n-friends.json](./236264-bodhi-n-friends.json) |
@@ -5416,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brasil Fusion | 273993 | [273993-brasil-fusion.json](./273993-brasil-fusion.json) |
 | Brasil Simuleitor | 244371 | [244371-brasil-simuleitor.json](./244371-brasil-simuleitor.json) |
 | Brasília Defense | 404817 | [404817-brasilia-defense.json](./404817-brasilia-defense.json) |
+| Brass | 302431 | [302431-brass.json](./302431-brass.json) |
 | Brass & Bramble | 371467 | [371467-brass-and-bramble.json](./371467-brass-and-bramble.json) |
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
@@ -6576,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout Revenge | 2626 | [2626-burnout-revenge.json](./2626-burnout-revenge.json) |
 | Burnouts | 111640 | [111640-burnouts.json](./111640-burnouts.json) |
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
+| Burnt Legacy | 302482 | [302482-burnt-legacy.json](./302482-burnt-legacy.json) |
 | Burntcrust | 389089 | [389089-burntcrust.json](./389089-burntcrust.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Burr Puzzle | 357978 | [357978-burr-puzzle.json](./357978-burr-puzzle.json) |
