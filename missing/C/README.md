@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catass | 254758 | [254758-catass.json](./254758-catass.json) |
 | Catast | 274548 | [274548-catast.json](./274548-catast.json) |
 | Catastrophe | 203935 | [203935-catastrophe.json](./203935-catastrophe.json) |
+| Catastrophe Crow | 304149 | [304149-catastrophe-crow.json](./304149-catastrophe-crow.json) |
 | Catastrophe Escape | 101935 | [101935-catastrophe-escape.json](./101935-catastrophe-escape.json) |
 | Catastrophic Cat Command | 309514 | [309514-catastrophic-cat-command.json](./309514-catastrophic-cat-command.json) |
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
@@ -3954,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co-op SNEK Online | 81722 | [81722-co-op-snek-online.json](./81722-co-op-snek-online.json) |
 | Co-Open | 146704 | [146704-co-open.json](./146704-co-open.json) |
 | Coach Bus Driving Simulator | 308809 | [308809-coach-bus-driving-simulator.json](./308809-coach-bus-driving-simulator.json) |
+| Coach Fight | 304104 | [304104-coach-fight.json](./304104-coach-fight.json) |
 | Coach K College Basketball | 46226 | [46226-coach-k-college-basketball.json](./46226-coach-k-college-basketball.json) |
 | Coagula Mappack #3 | 271482 | [271482-coagula-mappack-3.json](./271482-coagula-mappack-3.json) |
 | Coagula3: Bone | 271499 | [271499-coagula3-bone.json](./271499-coagula3-bone.json) |
@@ -4864,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
 | Confettied | 412395 | [412395-confettied.json](./412395-confettied.json) |
 | Confidential Mission | 305954 | [305954-confidential-mission.json](./305954-confidential-mission.json) |
+| Confined | 304138 | [304138-confined.json](./304138-confined.json) |
 | Confined Space | 415101 | [415101-confined-space.json](./415101-confined-space.json) |
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
