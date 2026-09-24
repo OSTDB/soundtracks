@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tear Ripple | 305305 | [305305-tear-ripple.json](./305305-tear-ripple.json) |
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
 | Teardown: Folkrace | 307673 | [307673-teardown-folkrace.json](./307673-teardown-folkrace.json) |
+| Teared | 287186 | [287186-teared.json](./287186-teared.json) |
 | Tearfallen | 298635 | [298635-tearfallen.json](./298635-tearfallen.json) |
 | Tearoom of Terror | 398590 | [398590-tearoom-of-terror.json](./398590-tearoom-of-terror.json) |
 | Tears Fall Low | 245919 | [245919-tears-fall-low.json](./245919-tears-fall-low.json) |
@@ -1568,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
+| Tenchi wo Kurau | 287154 | [287154-tenchi-wo-kurau.json](./287154-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
 | Tenchu: Wrath of Heaven | 6194 | [6194-tenchu-wrath-of-heaven.json](./6194-tenchu-wrath-of-heaven.json) |
@@ -6416,11 +6418,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smiling, Proud Wanderer 2 | 62442 | [62442-the-smiling-proud-wanderer-2.json](./62442-the-smiling-proud-wanderer-2.json) |
 | The Smugglers | 191187 | [191187-the-smugglers.json](./191187-the-smugglers.json) |
 | The Smurfs | 23482 | [23482-the-smurfs.json](./23482-the-smurfs.json) |
+| The Smurfs | 287141 | [287141-the-smurfs.json](./287141-the-smurfs.json) |
+| The Smurfs | 287144 | [287144-the-smurfs.json](./287144-the-smurfs.json) |
+| The Smurfs | 287151 | [287151-the-smurfs.json](./287151-the-smurfs.json) |
 | The Smurfs | 80521 | [80521-the-smurfs.json](./80521-the-smurfs.json) |
 | The Smurfs 2 | 83900 | [83900-the-smurfs-2.json](./83900-the-smurfs-2.json) |
 | The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
 | The Smurfs Collection | 75142 | [75142-the-smurfs-collection.json](./75142-the-smurfs-collection.json) |
 | The Smurfs Dreams: Cosmic Costume | 316238 | [316238-the-smurfs-dreams-cosmic-costume.json](./316238-the-smurfs-dreams-cosmic-costume.json) |
+| The Smurfs Travel the World | 287148 | [287148-the-smurfs-travel-the-world.json](./287148-the-smurfs-travel-the-world.json) |
+| The Smurfs Travel the World | 287150 | [287150-the-smurfs-travel-the-world.json](./287150-the-smurfs-travel-the-world.json) |
 | The Smurfs: Colorful Stories | 275888 | [275888-the-smurfs-colorful-stories.json](./275888-the-smurfs-colorful-stories.json) |
 | The Smurfs: Colorful Stories - Complete + | 328824 | [328824-the-smurfs-colorful-stories-complete.json](./328824-the-smurfs-colorful-stories-complete.json) |
 | The Smurfs: Colorful Stories - Deluxe Edition | 288278 | [288278-the-smurfs-colorful-stories-deluxe-edition.json](./288278-the-smurfs-colorful-stories-deluxe-edition.json) |
@@ -6432,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Colorful Stories - Magnificent Edition | 328794 | [328794-the-smurfs-colorful-stories-magnificent-edition.json](./328794-the-smurfs-colorful-stories-magnificent-edition.json) |
 | The Smurfs: Colorful Stories - Personal Boards 1 | 283261 | [283261-the-smurfs-colorful-stories-personal-boards-1.json](./283261-the-smurfs-colorful-stories-personal-boards-1.json) |
 | The Smurfs: Colorful Stories - Personal Boards 2 | 284507 | [284507-the-smurfs-colorful-stories-personal-boards-2.json](./284507-the-smurfs-colorful-stories-personal-boards-2.json) |
+| The Smurfs: Colorful Stories - Personal Boards 3 | 287177 | [287177-the-smurfs-colorful-stories-personal-boards-3.json](./287177-the-smurfs-colorful-stories-personal-boards-3.json) |
 | The Smurfs: Colorful Stories - Personal Boards 5 | 294854 | [294854-the-smurfs-colorful-stories-personal-boards-5.json](./294854-the-smurfs-colorful-stories-personal-boards-5.json) |
 | The Smurfs: Colorful Stories - Personal Boards 6 | 298588 | [298588-the-smurfs-colorful-stories-personal-boards-6.json](./298588-the-smurfs-colorful-stories-personal-boards-6.json) |
 | The Smurfs: Colorful Stories - Platinum Edition | 328795 | [328795-the-smurfs-colorful-stories-platinum-edition.json](./328795-the-smurfs-colorful-stories-platinum-edition.json) |
@@ -11869,6 +11877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Racing 2 | 43540 | [43540-truck-racing-2.json](./43540-truck-racing-2.json) |
 | Truck Racing Simulator | 391348 | [391348-truck-racing-simulator.json](./391348-truck-racing-simulator.json) |
 | Truck Raid | 252816 | [252816-truck-raid.json](./252816-truck-raid.json) |
+| Truck Sim 2024 | 287159 | [287159-truck-sim-2024.json](./287159-truck-sim-2024.json) |
 | Truck Simulation 19 | 111747 | [111747-truck-simulation-19.json](./111747-truck-simulation-19.json) |
 | Truck Simulator & World of Machines: Game Bundle Collection | 263562 | [263562-truck-simulator-and-world-of-machines-game-bundle-collection.json](./263562-truck-simulator-and-world-of-machines-game-bundle-collection.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
