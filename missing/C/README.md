@@ -3260,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Up | 344567 | [344567-circle-up.json](./344567-circle-up.json) |
 | Circle's End | 27670 | [27670-circles-end.json](./27670-circles-end.json) |
 | Circlebound | 384622 | [384622-circlebound.json](./384622-circlebound.json) |
+| Circlebrix: Falling Bricks | 285530 | [285530-circlebrix-falling-bricks.json](./285530-circlebrix-falling-bricks.json) |
 | Circlecers | 334790 | [334790-circlecers.json](./334790-circlecers.json) |
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
@@ -5199,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
 | Controlled Climate Chaos | 282130 | [282130-controlled-climate-chaos.json](./282130-controlled-climate-chaos.json) |
 | Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
+| Controware | 285519 | [285519-controware.json](./285519-controware.json) |
 | Conundrum | 348975 | [348975-conundrum.json](./348975-conundrum.json) |
 | Conundrum | 380087 | [380087-conundrum.json](./380087-conundrum.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
@@ -5778,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid Chaos | 163821 | [163821-covid-chaos.json](./163821-covid-chaos.json) |
 | Covid Quest 2077 | 367600 | [367600-covid-quest-2077.json](./367600-covid-quest-2077.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
+| Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Coward | 132664 | [132664-coward.json](./132664-coward.json) |
