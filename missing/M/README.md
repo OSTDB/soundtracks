@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary X | 249247 | [249247-mary-x.json](./249247-mary-x.json) |
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
+| Mary's Arcade: Service Pack | 288832 | [288832-marys-arcade-service-pack.json](./288832-marys-arcade-service-pack.json) |
 | Mary's Quest | 385338 | [385338-marys-quest.json](./385338-marys-quest.json) |
 | MarZ: Tactical Base Defense | 55408 | [55408-marz-tactical-base-defense.json](./55408-marz-tactical-base-defense.json) |
 | Marzu | 389584 | [389584-marzu.json](./389584-marzu.json) |
@@ -2678,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Match Master | 323307 | [323307-medieval-match-master.json](./323307-medieval-match-master.json) |
 | Medieval Mayhem | 40716 | [40716-medieval-mayhem.json](./40716-medieval-mayhem.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
+| Medieval Questionnaire | 288816 | [288816-medieval-questionnaire.json](./288816-medieval-questionnaire.json) |
 | Medieval Real Estate | 81773 | [81773-medieval-real-estate.json](./81773-medieval-real-estate.json) |
 | Medieval Sex Jigsaw | 291067 | [291067-medieval-sex-jigsaw.json](./291067-medieval-sex-jigsaw.json) |
 | Medieval Shop Simulator | 152726 | [152726-medieval-shop-simulator.json](./152726-medieval-shop-simulator.json) |
@@ -3860,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
 | Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
 | MHZ | 369219 | [369219-mhz.json](./369219-mhz.json) |
+| Mi Espada | 288825 | [288825-mi-espada.json](./288825-mi-espada.json) |
 | Mia | 169370 | [169370-mia.json](./169370-mia.json) |
 | Mia & Mio | 388752 | [388752-mia-and-mio.json](./388752-mia-and-mio.json) |
 | Mia and me: Freedom for Centopia | 107003 | [107003-mia-and-me-freedom-for-centopia.json](./107003-mia-and-me-freedom-for-centopia.json) |
