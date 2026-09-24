@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiln: Pride Decoration Pack | 407415 | [407415-kiln-pride-decoration-pack.json](./407415-kiln-pride-decoration-pack.json) |
 | Kiln: Stickers of the Gods Sticker Pack | 407413 | [407413-kiln-stickers-of-the-gods-sticker-pack.json](./407413-kiln-stickers-of-the-gods-sticker-pack.json) |
 | Kiloblaster | 79333 | [79333-kiloblaster.json](./79333-kiloblaster.json) |
+| Kiloblocks | 289409 | [289409-kiloblocks.json](./289409-kiloblocks.json) |
 | Kiloparsec Uprising | 275095 | [275095-kiloparsec-uprising.json](./275095-kiloparsec-uprising.json) |
 | Kiloton | 330911 | [330911-kiloton.json](./330911-kiloton.json) |
 | Kilubu Magic Potions 2 | 213397 | [213397-kilubu-magic-potions-2.json](./213397-kilubu-magic-potions-2.json) |
