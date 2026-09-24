@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before I Forget | 122372 | [122372-before-i-forget.json](./122372-before-i-forget.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
+| Before the Moon | 311067 | [311067-before-the-moon.json](./311067-before-the-moon.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Before the Night | 189049 | [189049-before-the-night.json](./189049-before-the-night.json) |
 | Before the Sun Sets | 384619 | [384619-before-the-sun-sets.json](./384619-before-the-sun-sets.json) |
