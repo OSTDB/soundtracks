@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag League | 366328 | [366328-tag-league.json](./366328-tag-league.json) |
 | Tag of Driving | 384651 | [384651-tag-of-driving.json](./384651-tag-of-driving.json) |
 | Tag Royale | 166600 | [166600-tag-royale.json](./166600-tag-royale.json) |
+| Tag Team Wrestling | 286612 | [286612-tag-team-wrestling.json](./286612-tag-team-wrestling.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
 | Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
 | Tagalon | 362471 | [362471-tagalon.json](./362471-tagalon.json) |
@@ -7442,6 +7443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The_Otherside | 141027 | [141027-the-otherside.json](./141027-the-otherside.json) |
 | The_Painther | 410884 | [410884-the-painther.json](./410884-the-painther.json) |
 | The.Thend.End | 112992 | [112992-the-thend-end.json](./112992-the-thend-end.json) |
+| The400 Mini | 286590 | [286590-the400-mini.json](./286590-the400-mini.json) |
 | Thea Bundle | 192306 | [192306-thea-bundle.json](./192306-thea-bundle.json) |
 | Thea is Drowning | 179072 | [179072-thea-is-drowning.json](./179072-thea-is-drowning.json) |
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
