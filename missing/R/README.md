@@ -3578,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
 | Rockman 4: Burst Chaser X Air Sliding | 245380 | [245380-rockman-4-burst-chaser-x-air-sliding.json](./245380-rockman-4-burst-chaser-x-air-sliding.json) |
+| Rockman 5: Double Jumper | 322118 | [322118-rockman-5-double-jumper.json](./322118-rockman-5-double-jumper.json) |
 | Rockman 7 FC | 137115 | [137115-rockman-7-fc.json](./137115-rockman-7-fc.json) |
 | Rockman 8 FC | 137116 | [137116-rockman-8-fc.json](./137116-rockman-8-fc.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
@@ -3705,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Planet | 197343 | [197343-rogue-planet.json](./197343-rogue-planet.json) |
 | Rogue Planet | 397925 | [397925-rogue-planet.json](./397925-rogue-planet.json) |
 | Rogue Planet | 91355 | [91355-rogue-planet.json](./91355-rogue-planet.json) |
+| Rogue Point | 322111 | [322111-rogue-point.json](./322111-rogue-point.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
 | Rogue Quest | 402511 | [402511-rogue-quest.json](./402511-rogue-quest.json) |
 | Rogue Raccoon | 358356 | [358356-rogue-raccoon.json](./358356-rogue-raccoon.json) |
