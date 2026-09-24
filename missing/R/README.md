@@ -4472,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruh & the Glow | 178597 | [178597-ruh-and-the-glow.json](./178597-ruh-and-the-glow.json) |
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
 | Ruin | 272378 | [272378-ruin.json](./272378-ruin.json) |
+| Ruin 2: Mimic Adventures | 313241 | [313241-ruin-2-mimic-adventures.json](./313241-ruin-2-mimic-adventures.json) |
 | Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
 | Ruin Hunter Raichi | 392456 | [392456-ruin-hunter-raichi.json](./392456-ruin-hunter-raichi.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
@@ -4835,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty's Retirement: Supporter Pack | 305770 | [305770-rustys-retirement-supporter-pack.json](./305770-rustys-retirement-supporter-pack.json) |
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Rutabaga Desert Storm | 275704 | [275704-rutabaga-desert-storm.json](./275704-rutabaga-desert-storm.json) |
+| Ruthless Carnage Hotline | 313225 | [313225-ruthless-carnage-hotline.json](./313225-ruthless-carnage-hotline.json) |
 | Ruthless Safari | 52777 | [52777-ruthless-safari.json](./52777-ruthless-safari.json) |
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
 | Rutrum | 406896 | [406896-rutrum.json](./406896-rutrum.json) |
