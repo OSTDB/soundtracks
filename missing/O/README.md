@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3 | 294429 | [294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json](./294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json) |
 | One Piece: Pirate Warriors 4 - Ultimate Edition | 266820 | [266820-one-piece-pirate-warriors-4-ultimate-edition.json](./266820-one-piece-pirate-warriors-4-ultimate-edition.json) |
 | One Piece: Romance Dawn | 6851 | [6851-one-piece-romance-dawn.json](./6851-one-piece-romance-dawn.json) |
+| One Piece: Starboard | 300799 | [300799-one-piece-starboard.json](./300799-one-piece-starboard.json) |
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
 | One Punch | 151657 | [151657-one-punch.json](./151657-one-punch.json) |
@@ -1095,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
 | OneHit | 75104 | [75104-onehit.json](./75104-onehit.json) |
 | Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
+| Oneirophobia | 300794 | [300794-oneirophobia.json](./300794-oneirophobia.json) |
 | Oneirophobia | 391714 | [391714-oneirophobia.json](./391714-oneirophobia.json) |
 | Oneiros | 102965 | [102965-oneiros.json](./102965-oneiros.json) |
 | OneJump | 131619 | [131619-onejump.json](./131619-onejump.json) |
@@ -1690,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otaku's Adventure: The World Just Keeps Turning | 299119 | [299119-otakus-adventure-the-world-just-keeps-turning.json](./299119-otakus-adventure-the-world-just-keeps-turning.json) |
 | Otaku's Challenge | 367628 | [367628-otakus-challenge.json](./367628-otakus-challenge.json) |
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
+| Otenki Kororin: Weather Tales | 299832 | [299832-otenki-kororin-weather-tales.json](./299832-otenki-kororin-weather-tales.json) |
 | Othello | 134419 | [134419-othello.json](./134419-othello.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
 | Othello 3 | 93019 | [93019-othello-3.json](./93019-othello-3.json) |
