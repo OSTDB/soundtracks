@@ -3546,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Hit Song + VTuber Pack 5 | 268539 | [268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json](./268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json) |
 | Groove Coaster: Wai Wai Party!!!! - Hololive Pack | 242049 | [242049-groove-coaster-wai-wai-party-hololive-pack.json](./242049-groove-coaster-wai-wai-party-hololive-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Lanota Pack | 237936 | [237936-groove-coaster-wai-wai-party-lanota-pack.json](./237936-groove-coaster-wai-wai-party-lanota-pack.json) |
+| Groove Coaster: Wai Wai Party!!!! - Original Pack 8: Arcade Memorial | 288295 | [288295-groove-coaster-wai-wai-party-original-pack-8-arcade-memorial.json](./288295-groove-coaster-wai-wai-party-original-pack-8-arcade-memorial.json) |
 | Groove Coaster: Wai Wai Party!!!! - Undertale + Deltarune Pack | 283179 | [283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json](./283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 9 | 283180 | [283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json](./283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json) |
 | Groove Gunner | 112778 | [112778-groove-gunner.json](./112778-groove-gunner.json) |
