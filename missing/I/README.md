@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and The Great Circle: Premium Edition | 317815 | [317815-indiana-jones-and-the-great-circle-premium-edition.json](./317815-indiana-jones-and-the-great-circle-premium-edition.json) |
 | Indiana Jones and the Great Circle: The Order of Giants | 321852 | [321852-indiana-jones-and-the-great-circle-the-order-of-giants.json](./321852-indiana-jones-and-the-great-circle-the-order-of-giants.json) |
 | Indiana Jones and the Last Crusade: The Action Game | 185 | [185-indiana-jones-and-the-last-crusade-the-action-game.json](./185-indiana-jones-and-the-last-crusade-the-action-game.json) |
+| Indiana Jones and the Last Crusade: The Action Game | 307079 | [307079-indiana-jones-and-the-last-crusade-the-action-game.json](./307079-indiana-jones-and-the-last-crusade-the-action-game.json) |
 | Indiana Jones and the Lost Puzzles | 61042 | [61042-indiana-jones-and-the-lost-puzzles.json](./61042-indiana-jones-and-the-lost-puzzles.json) |
 | Indiana Jones and the Staff of Kings | 329026 | [329026-indiana-jones-and-the-staff-of-kings.json](./329026-indiana-jones-and-the-staff-of-kings.json) |
 | Indiana Jones and the Temple of the Spheres | 322929 | [322929-indiana-jones-and-the-temple-of-the-spheres.json](./322929-indiana-jones-and-the-temple-of-the-spheres.json) |
@@ -2195,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
 | Iron Man | 200688 | [200688-iron-man.json](./200688-iron-man.json) |
 | Iron Man | 257213 | [257213-iron-man.json](./257213-iron-man.json) |
+| Iron Man and X-O Manowar in Heavy Metal | 307064 | [307064-iron-man-and-x-o-manowar-in-heavy-metal.json](./307064-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Marines Invasion | 216257 | [216257-iron-marines-invasion.json](./216257-iron-marines-invasion.json) |
 | Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
 | Iron Onslaught | 339917 | [339917-iron-onslaught.json](./339917-iron-onslaught.json) |
