@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Springs | 223363 | [223363-phoenix-springs.json](./223363-phoenix-springs.json) |
 | Phoenix Strike | 129743 | [129743-phoenix-strike.json](./129743-phoenix-strike.json) |
 | Phoenix Sword: The Hidden Scroll | 355195 | [355195-phoenix-sword-the-hidden-scroll.json](./355195-phoenix-sword-the-hidden-scroll.json) |
+| Phoenix Wright: Ace Attornauts | 310003 | [310003-phoenix-wright-ace-attornauts.json](./310003-phoenix-wright-ace-attornauts.json) |
 | Phoenix Wright: Ace Attorney | 221281 | [221281-phoenix-wright-ace-attorney.json](./221281-phoenix-wright-ace-attorney.json) |
 | Phoenix Wright: Ace Attorney | 221282 | [221282-phoenix-wright-ace-attorney.json](./221282-phoenix-wright-ace-attorney.json) |
 | Phoenix Wright: Ace Attorney | 221284 | [221284-phoenix-wright-ace-attorney.json](./221284-phoenix-wright-ace-attorney.json) |
@@ -4161,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokerTH | 250379 | [250379-pokerth.json](./250379-pokerth.json) |
 | Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
+| Poketale | 309973 | [309973-poketale.json](./309973-poketale.json) |
 | Pokettohiro | 333063 | [333063-pokettohiro.json](./333063-pokettohiro.json) |
 | PokeVoid | 343903 | [343903-pokevoid.json](./343903-pokevoid.json) |
 | Pokéwalker | 245421 | [245421-pokewalker.json](./245421-pokewalker.json) |
@@ -4924,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Pray or Die: Tactical Defense | 373114 | [373114-pray-or-die-tactical-defense.json](./373114-pray-or-die-tactical-defense.json) |
+| Prayers a Thousand-fold | 309976 | [309976-prayers-a-thousand-fold.json](./309976-prayers-a-thousand-fold.json) |
 | Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
 | Pre-Odyssey: Love at First Quack | 344552 | [344552-pre-odyssey-love-at-first-quack.json](./344552-pre-odyssey-love-at-first-quack.json) |
 | Pre-Odyssey: Odysseus, Penelope and Her Ducks | 204550 | [204550-pre-odyssey-odysseus-penelope-and-her-ducks.json](./204550-pre-odyssey-odysseus-penelope-and-her-ducks.json) |
@@ -5227,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism | 363035 | [363035-prism.json](./363035-prism.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
+| Prism Hotel Murder Case: Super Mystery Wars - Episode Conan | 310012 | [310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json](./310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json) |
 | Prism Queen's Heroine | 83934 | [83934-prism-queens-heroine.json](./83934-prism-queens-heroine.json) |
 | Prism: Master Tape | 369236 | [369236-prism-master-tape.json](./369236-prism-master-tape.json) |
 | Prisma & the Masquerade Menace | 30907 | [30907-prisma-and-the-masquerade-menace.json](./30907-prisma-and-the-masquerade-menace.json) |
