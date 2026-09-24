@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamusphere of the Forgotten | 124621 | [124621-mamusphere-of-the-forgotten.json](./124621-mamusphere-of-the-forgotten.json) |
 | Man and Dog: Small Game Hunt | 337651 | [337651-man-and-dog-small-game-hunt.json](./337651-man-and-dog-small-game-hunt.json) |
 | Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
+| Man For Takeaway | 323844 | [323844-man-for-takeaway.json](./323844-man-for-takeaway.json) |
 | Man I Just Wanna Go Home | 303644 | [303644-man-i-just-wanna-go-home.json](./303644-man-i-just-wanna-go-home.json) |
 | Man in a Maze | 62219 | [62219-man-in-a-maze.json](./62219-man-in-a-maze.json) |
 | Man in gravity | 156539 | [156539-man-in-gravity.json](./156539-man-in-gravity.json) |
@@ -1304,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Tour | 243393 | [243393-marine-tour.json](./243393-marine-tour.json) |
 | Mariner | 39690 | [39690-mariner.json](./39690-mariner.json) |
 | Mario & Luigi | 117772 | [117772-mario-and-luigi.json](./117772-mario-and-luigi.json) |
+| Mario & Luigi MAD NES | 323823 | [323823-mario-and-luigi-mad-nes.json](./323823-mario-and-luigi-mad-nes.json) |
 | Mario & Luigi Sokoban | 349855 | [349855-mario-and-luigi-sokoban.json](./349855-mario-and-luigi-sokoban.json) |
 | Mario & Luigi vs. The Furbies | 323179 | [323179-mario-and-luigi-vs-the-furbies.json](./323179-mario-and-luigi-vs-the-furbies.json) |
 | Mario & Luigi: Dream Team | 3365 | [3365-mario-and-luigi-dream-team.json](./3365-mario-and-luigi-dream-team.json) |
@@ -1473,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Super Circuit | 2343 | [2343-mario-kart-super-circuit.json](./2343-mario-kart-super-circuit.json) |
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
 | Mario Learns About Colors | 323187 | [323187-mario-learns-about-colors.json](./323187-mario-learns-about-colors.json) |
+| Mario Learns About Colors 2 | 323824 | [323824-mario-learns-about-colors-2.json](./323824-mario-learns-about-colors-2.json) |
 | Mario Lost In Space | 384109 | [384109-mario-lost-in-space.json](./384109-mario-lost-in-space.json) |
 | Mario Motors | 231507 | [231507-mario-motors.json](./231507-mario-motors.json) |
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
@@ -1489,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party | 2327 | [2327-mario-party.json](./2327-mario-party.json) |
 | Mario Party 3 StarStruck | 248306 | [248306-mario-party-3-starstruck.json](./248306-mario-party-3-starstruck.json) |
 | Mario Party 4 | 231603 | [231603-mario-party-4.json](./231603-mario-party-4.json) |
+| Mario Party 4 Deluxe | 323833 | [323833-mario-party-4-deluxe.json](./323833-mario-party-4-deluxe.json) |
 | Mario Party 7 | 2334 | [2334-mario-party-7.json](./2334-mario-party-7.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
 | Mario Party: Fushigi no Koro-koro Catcher 2 | 132044 | [132044-mario-party-fushigi-no-koro-koro-catcher-2.json](./132044-mario-party-fushigi-no-koro-koro-catcher-2.json) |
@@ -1557,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Slightly Unusual Boss Rush: v2.0 Release | 381850 | [381850-marios-slightly-unusual-boss-rush-v2-0-release.json](./381850-marios-slightly-unusual-boss-rush-v2-0-release.json) |
 | Mario's Super Picross | 80174 | [80174-marios-super-picross.json](./80174-marios-super-picross.json) |
 | Mario's Time Machine | 210116 | [210116-marios-time-machine.json](./210116-marios-time-machine.json) |
+| Mario's Time Machine DX | 323825 | [323825-marios-time-machine-dx.json](./323825-marios-time-machine-dx.json) |
 | Mario's Timeship Battle | 318041 | [318041-marios-timeship-battle.json](./318041-marios-timeship-battle.json) |
 | Mario/Rabbids Crossover Adventure Game | 231477 | [231477-mario-rabbids-crossover-adventure-game.json](./231477-mario-rabbids-crossover-adventure-game.json) |
 | Marioblade Chronicles 64 | 219044 | [219044-marioblade-chronicles-64.json](./219044-marioblade-chronicles-64.json) |
@@ -2959,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaman X Omega Blaster - Ultimate Edition | 369208 | [369208-megaman-x-omega-blaster-ultimate-edition.json](./369208-megaman-x-omega-blaster-ultimate-edition.json) |
 | Megaman X: Omega Blaster - Definitive Edition | 369207 | [369207-megaman-x-omega-blaster-definitive-edition.json](./369207-megaman-x-omega-blaster-definitive-edition.json) |
 | Megaman ZX Genesis | 334150 | [334150-megaman-zx-genesis.json](./334150-megaman-zx-genesis.json) |
+| Megaman: The Great Catastrophe | 323882 | [323882-megaman-the-great-catastrophe.json](./323882-megaman-the-great-catastrophe.json) |
 | Megamaze | 208393 | [208393-megamaze.json](./208393-megamaze.json) |
 | MegaMek | 108982 | [108982-megamek.json](./108982-megamek.json) |
 | Megami Ibunroku Persona | 240506 | [240506-megami-ibunroku-persona.json](./240506-megami-ibunroku-persona.json) |
@@ -3703,10 +3709,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Another Legend | 267399 | [267399-metroid-another-legend.json](./267399-metroid-another-legend.json) |
 | Metroid: Crocomire's Last Stand | 277040 | [277040-metroid-crocomires-last-stand.json](./277040-metroid-crocomires-last-stand.json) |
 | Metroid: Desolation | 255381 | [255381-metroid-desolation.json](./255381-metroid-desolation.json) |
+| Metroid: Federation Trooper | 323874 | [323874-metroid-federation-trooper.json](./323874-metroid-federation-trooper.json) |
 | Metroid: Galactic Marine | 341143 | [341143-metroid-galactic-marine.json](./341143-metroid-galactic-marine.json) |
 | Metroid: Genesis | 323757 | [323757-metroid-genesis.json](./323757-metroid-genesis.json) |
 | Metroid: HD | 310611 | [310611-metroid-hd.json](./310611-metroid-hd.json) |
 | Metroid: Rechoose | 318019 | [318019-metroid-rechoose.json](./318019-metroid-rechoose.json) |
+| Metroid: Recovery | 323875 | [323875-metroid-recovery.json](./323875-metroid-recovery.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: Super Zero Mission | 42205 | [42205-metroid-super-zero-mission.json](./42205-metroid-super-zero-mission.json) |
 | Metroid: Takeover | 255384 | [255384-metroid-takeover.json](./255384-metroid-takeover.json) |
@@ -6303,6 +6311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
 | Mother of Many | 194403 | [194403-mother-of-many.json](./194403-mother-of-many.json) |
 | Mother of Myth | 19643 | [19643-mother-of-myth.json](./19643-mother-of-myth.json) |
+| Mother Zero | 323881 | [323881-mother-zero.json](./323881-mother-zero.json) |
 | Mother, Player | 393489 | [393489-mother-player.json](./393489-mother-player.json) |
 | Mother: Beyond Bounds | 315107 | [315107-mother-beyond-bounds.json](./315107-mother-beyond-bounds.json) |
 | Mother: Encore | 259272 | [259272-mother-encore.json](./259272-mother-encore.json) |
@@ -6644,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Mix | 276278 | [276278-mr-mix.json](./276278-mr-mix.json) |
 | Mr. Mosquito | 246473 | [246473-mr-mosquito.json](./246473-mr-mosquito.json) |
 | Mr. Mower | 236380 | [236380-mr-mower.json](./236380-mr-mower.json) |
+| Mr. Mudkip 3 | 323876 | [323876-mr-mudkip-3.json](./323876-mr-mudkip-3.json) |
 | Mr. Mueller's Grand Experiment | 284894 | [284894-mr-muellers-grand-experiment.json](./284894-mr-muellers-grand-experiment.json) |
 | Mr. Nibbles Forever | 33372 | [33372-mr-nibbles-forever.json](./33372-mr-nibbles-forever.json) |
 | Mr. Nutz: Hoppin' Mad | 39030 | [39030-mr-nutz-hoppin-mad.json](./39030-mr-nutz-hoppin-mad.json) |
@@ -7646,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
+| MySims Friends | 323835 | [323835-mysims-friends.json](./323835-mysims-friends.json) |
 | MySims Kingdom | 201341 | [201341-mysims-kingdom.json](./201341-mysims-kingdom.json) |
 | MySims Kingdom | 336028 | [336028-mysims-kingdom.json](./336028-mysims-kingdom.json) |
 | MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
