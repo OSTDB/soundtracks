@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kainga: Collector's Edition | 243803 | [243803-kainga-collectors-edition.json](./243803-kainga-collectors-edition.json) |
 | Kaire | 344388 | [344388-kaire.json](./344388-kaire.json) |
 | Kairo Land | 208037 | [208037-kairo-land.json](./208037-kairo-land.json) |
+| Kairo: Lore of the Magic | 317992 | [317992-kairo-lore-of-the-magic.json](./317992-kairo-lore-of-the-magic.json) |
 | Kairobotica | 61069 | [61069-kairobotica.json](./61069-kairobotica.json) |
 | Kairos | 229155 | [229155-kairos.json](./229155-kairos.json) |
 | Kairos | 411799 | [411799-kairos.json](./411799-kairos.json) |
