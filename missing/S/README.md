@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
+| Sānguó Qúnyīng | 308916 | [308916-sanguo-qunying.json](./308916-sanguo-qunying.json) |
 | Sānguó Qúnyīng Lù | 407319 | [407319-sanguo-qunying-lu.json](./407319-sanguo-qunying-lu.json) |
 | Sānguó Qúnyīng Zhuán | 143495 | [143495-sanguo-qunying-zhuan.json](./143495-sanguo-qunying-zhuan.json) |
 | Sānguó Qúnyīng Zhuán IV | 143505 | [143505-sanguo-qunying-zhuan-iv.json](./143505-sanguo-qunying-zhuan-iv.json) |
@@ -910,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
 | Save the Furries | 10813 | [10813-save-the-furries.json](./10813-save-the-furries.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
+| Save the Knight | 308882 | [308882-save-the-knight.json](./308882-save-the-knight.json) |
 | Save the Ninja Clan | 27299 | [27299-save-the-ninja-clan.json](./27299-save-the-ninja-clan.json) |
 | Save the Ninja! | 410969 | [410969-save-the-ninja.json](./410969-save-the-ninja.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
@@ -2004,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Bishoujo Emaki: Cut Sky | 147927 | [147927-sengoku-bishoujo-emaki-cut-sky.json](./147927-sengoku-bishoujo-emaki-cut-sky.json) |
 | Sengoku Bishoujo Emaki: Cut Sky ~Chapter Summer Wind~ | 147929 | [147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json](./147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json) |
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
+| Sengoku Bushidou: Daiyabou no Maki | 308883 | [308883-sengoku-bushidou-daiyabou-no-maki.json](./308883-sengoku-bushidou-daiyabou-no-maki.json) |
 | Sengoku Denshou | 48632 | [48632-sengoku-denshou.json](./48632-sengoku-denshou.json) |
 | Sengoku Gensokyo | 299300 | [299300-sengoku-gensokyo.json](./299300-sengoku-gensokyo.json) |
 | Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage | 50871 | [50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json](./50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json) |
@@ -3320,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiryou Sensen: War of the Dead | 42041 | [42041-shiryou-sensen-war-of-the-dead.json](./42041-shiryou-sensen-war-of-the-dead.json) |
 | Shissou, Yankee Damashii | 295936 | [295936-shissou-yankee-damashii.json](./295936-shissou-yankee-damashii.json) |
 | Shisya | 270779 | [270779-shisya.json](./270779-shisya.json) |
+| Shisya 2: Ghost Video | 308889 | [308889-shisya-2-ghost-video.json](./308889-shisya-2-ghost-video.json) |
 | Shit Slam II | 372111 | [372111-shit-slam-ii.json](./372111-shit-slam-ii.json) |
 | Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
 | Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
@@ -5037,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Maker Factory: Fun Play | 106522 | [106522-slime-maker-factory-fun-play.json](./106522-slime-maker-factory-fun-play.json) |
 | Slime Management | 357349 | [357349-slime-management.json](./357349-slime-management.json) |
 | Slime Match Adventure | 363056 | [363056-slime-match-adventure.json](./363056-slime-match-adventure.json) |
+| Slime Musume ha Ningen to Tomodachi ni Naritai you da | 308910 | [308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json](./308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
 | Slime Pizza | 90360 | [90360-slime-pizza.json](./90360-slime-pizza.json) |
 | Slime Quest | 110173 | [110173-slime-quest.json](./110173-slime-quest.json) |
@@ -10704,6 +10709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
 | Stripper Anya: Christmas Special | 385311 | [385311-stripper-anya-christmas-special.json](./385311-stripper-anya-christmas-special.json) |
 | Stripper Anya: Demon Slayer | 51511 | [51511-stripper-anya-demon-slayer.json](./51511-stripper-anya-demon-slayer.json) |
+| Strive For Power: King Growth Program | 308868 | [308868-strive-for-power-king-growth-program.json](./308868-strive-for-power-king-growth-program.json) |
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
 | Strix STG | 228077 | [228077-strix-stg.json](./228077-strix-stg.json) |
 | Strobophagia: Rave Horror | 139460 | [139460-strobophagia-rave-horror.json](./139460-strobophagia-rave-horror.json) |
@@ -11196,6 +11202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer & Winter: Olympic Challenge | 154958 | [154958-summer-and-winter-olympic-challenge.json](./154958-summer-and-winter-olympic-challenge.json) |
 | Summer Adventurers: Mediterranean | 374062 | [374062-summer-adventurers-mediterranean.json](./374062-summer-adventurers-mediterranean.json) |
 | Summer After Ten Years: Steam Edition | 263753 | [263753-summer-after-ten-years-steam-edition.json](./263753-summer-after-ten-years-steam-edition.json) |
+| Summer and Poetry Journey | 308909 | [308909-summer-and-poetry-journey.json](./308909-summer-and-poetry-journey.json) |
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
 | Summer Athletics | 5196 | [5196-summer-athletics.json](./5196-summer-athletics.json) |
 | Summer Beach Vacation Objects - Hidden Object Time | 102814 | [102814-summer-beach-vacation-objects-hidden-object-time.json](./102814-summer-beach-vacation-objects-hidden-object-time.json) |
@@ -11265,6 +11272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoned by a Magic Goddess | 206152 | [206152-summoned-by-a-magic-goddess.json](./206152-summoned-by-a-magic-goddess.json) |
 | Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
+| Summoner Rises | 308904 | [308904-summoner-rises.json](./308904-summoner-rises.json) |
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
@@ -12986,6 +12994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Loop | 409770 | [409770-sushi-loop.json](./409770-sushi-loop.json) |
 | Sushi Monster | 327994 | [327994-sushi-monster.json](./327994-sushi-monster.json) |
 | Sushi on Wheels | 386292 | [386292-sushi-on-wheels.json](./386292-sushi-on-wheels.json) |
+| Sushi Ou | 308894 | [308894-sushi-ou.json](./308894-sushi-ou.json) |
 | Sushi Race: More Toppings Race Pack | 332600 | [332600-sushi-race-more-toppings-race-pack.json](./332600-sushi-race-more-toppings-race-pack.json) |
 | Sushi Sort | 255762 | [255762-sushi-sort.json](./255762-sushi-sort.json) |
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
