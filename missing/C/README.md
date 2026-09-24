@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Ball | 366921 | [366921-cannon-ball.json](./366921-cannon-ball.json) |
 | Cannon Ball | 95431 | [95431-cannon-ball.json](./95431-cannon-ball.json) |
 | Cannon Basket HD | 232177 | [232177-cannon-basket-hd.json](./232177-cannon-basket-hd.json) |
+| Cannon Bird 3 | 325560 | [325560-cannon-bird-3.json](./325560-cannon-bird-3.json) |
 | Cannon Blaster 3 | 335470 | [335470-cannon-blaster-3.json](./335470-cannon-blaster-3.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
@@ -1543,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
+| Catly | 325592 | [325592-catly.json](./325592-catly.json) |
 | Catmageddon | 152882 | [152882-catmageddon.json](./152882-catmageddon.json) |
 | Catman: Gimmick Action Game | 161368 | [161368-catman-gimmick-action-game.json](./161368-catman-gimmick-action-game.json) |
 | Catmouth Island | 36077 | [36077-catmouth-island.json](./36077-catmouth-island.json) |
@@ -2221,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
 | Checkmate! My Shogi Club President can't be this Cute! | 253997 | [253997-checkmate-my-shogi-club-president-cant-be-this-cute.json](./253997-checkmate-my-shogi-club-president-cant-be-this-cute.json) |
 | Checkmates | 57371 | [57371-checkmates.json](./57371-checkmates.json) |
+| CheckOut | 325579 | [325579-checkout.json](./325579-checkout.json) |
 | Checkpoint Gary | 281371 | [281371-checkpoint-gary.json](./281371-checkpoint-gary.json) |
 | Checkpoint Madness HD | 338829 | [338829-checkpoint-madness-hd.json](./338829-checkpoint-madness-hd.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
@@ -3261,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
 | Citrus | 104440 | [104440-citrus.json](./104440-citrus.json) |
 | Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
+| CiTV Racing | 325555 | [325555-citv-racing.json](./325555-citv-racing.json) |
 | City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
 | City Adventure Touch: Mystery of Triangle | 48315 | [48315-city-adventure-touch-mystery-of-triangle.json](./48315-city-adventure-touch-mystery-of-triangle.json) |
 | City Ambulance Car Driving | 265731 | [265731-city-ambulance-car-driving.json](./265731-city-ambulance-car-driving.json) |
