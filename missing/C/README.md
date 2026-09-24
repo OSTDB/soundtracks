@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
 | Car Racing Extreme | 99398 | [99398-car-racing-extreme.json](./99398-car-racing-extreme.json) |
+| Car Racing Game | 288265 | [288265-car-racing-game.json](./288265-car-racing-game.json) |
 | Car Racing Ice: Classic | 288372 | [288372-car-racing-ice-classic.json](./288372-car-racing-ice-classic.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
 | Car Sales Simulator 2026 | 401111 | [401111-car-sales-simulator-2026.json](./401111-car-sales-simulator-2026.json) |
@@ -1471,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat-Ptured | 336159 | [336159-cat-ptured.json](./336159-cat-ptured.json) |
 | Cat'n'Robot: Idle Defense | 174912 | [174912-catnrobot-idle-defense.json](./174912-catnrobot-idle-defense.json) |
 | Cat's Cosmic Atlas | 258012 | [258012-cats-cosmic-atlas.json](./258012-cats-cosmic-atlas.json) |
+| Cat's Cosmic Atlas: Definitive Edition | 288286 | [288286-cats-cosmic-atlas-definitive-edition.json](./288286-cats-cosmic-atlas-definitive-edition.json) |
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cat's Vote | 274509 | [274509-cats-vote.json](./274509-cats-vote.json) |
@@ -1505,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan | 19435 | [19435-catan.json](./19435-catan.json) |
 | Catan | 196701 | [196701-catan.json](./196701-catan.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
+| Catan: Console Edition - Cities & Knights | 288309 | [288309-catan-console-edition-cities-and-knights.json](./288309-catan-console-edition-cities-and-knights.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
 | Catan: Console Edition - Super Deluxe | 257426 | [257426-catan-console-edition-super-deluxe.json](./257426-catan-console-edition-super-deluxe.json) |
 | Catan: Das Kartenspiel | 98936 | [98936-catan-das-kartenspiel.json](./98936-catan-das-kartenspiel.json) |
@@ -5724,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courage the Cowardly Dog: Creep TV | 186279 | [186279-courage-the-cowardly-dog-creep-tv.json](./186279-courage-the-cowardly-dog-creep-tv.json) |
 | Courage: The Videogame | 170005 | [170005-courage-the-videogame.json](./170005-courage-the-videogame.json) |
 | Courage: ZaGame | 338284 | [338284-courage-zagame.json](./338284-courage-zagame.json) |
+| Courage's Reasoning Nori 5 Chewed Rice Balls | 288305 | [288305-courages-reasoning-nori-5-chewed-rice-balls.json](./288305-courages-reasoning-nori-5-chewed-rice-balls.json) |
 | Courageous Perseus | 47530 | [47530-courageous-perseus.json](./47530-courageous-perseus.json) |
 | Courageous Reasoning Nori 6 MikiEdition Last | 298567 | [298567-courageous-reasoning-nori-6-mikiedition-last.json](./298567-courageous-reasoning-nori-6-mikiedition-last.json) |
 | Courageous Reasoning Nori 7 New World | 309077 | [309077-courageous-reasoning-nori-7-new-world.json](./309077-courageous-reasoning-nori-7-new-world.json) |
@@ -6161,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog Racer | 248686 | [248686-crazy-frog-racer.json](./248686-crazy-frog-racer.json) |
 | Crazy Frog: Axel F Piano Tiles | 95870 | [95870-crazy-frog-axel-f-piano-tiles.json](./95870-crazy-frog-axel-f-piano-tiles.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
+| Crazy Goose Simulator | 288304 | [288304-crazy-goose-simulator.json](./288304-crazy-goose-simulator.json) |
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
 | Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
 | Crazy Hill Racing | 235200 | [235200-crazy-hill-racing.json](./235200-crazy-hill-racing.json) |
