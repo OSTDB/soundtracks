@@ -4352,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Isometric 3 Pack | 351618 | [351618-coloring-pixels-isometric-3-pack.json](./351618-coloring-pixels-isometric-3-pack.json) |
 | Coloring Pixels: Magic Pack | 259861 | [259861-coloring-pixels-magic-pack.json](./259861-coloring-pixels-magic-pack.json) |
 | Coloring Pixels: Medieval Pack | 277967 | [277967-coloring-pixels-medieval-pack.json](./277967-coloring-pixels-medieval-pack.json) |
+| Coloring Pixels: Microscopic Pack | 327369 | [327369-coloring-pixels-microscopic-pack.json](./327369-coloring-pixels-microscopic-pack.json) |
 | Coloring Pixels: Mythology 2 Pack | 201705 | [201705-coloring-pixels-mythology-2-pack.json](./201705-coloring-pixels-mythology-2-pack.json) |
 | Coloring Pixels: Natural Wonders | 393616 | [393616-coloring-pixels-natural-wonders.json](./393616-coloring-pixels-natural-wonders.json) |
 | Coloring Pixels: Pastels Pack | 351624 | [351624-coloring-pixels-pastels-pack.json](./351624-coloring-pixels-pastels-pack.json) |
@@ -5568,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courtroom Chaos: Starring Snoop Dogg | 371262 | [371262-courtroom-chaos-starring-snoop-dogg.json](./371262-courtroom-chaos-starring-snoop-dogg.json) |
 | Cousbians: Are They Cousins or Lesbians? | 182908 | [182908-cousbians-are-they-cousins-or-lesbians.json](./182908-cousbians-are-they-cousins-or-lesbians.json) |
 | Covelink | 384650 | [384650-covelink.json](./384650-covelink.json) |
+| Covemachine | 327296 | [327296-covemachine.json](./327296-covemachine.json) |
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
 | Covenant: Project Zero | 236368 | [236368-covenant-project-zero.json](./236368-covenant-project-zero.json) |
@@ -5576,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
 | Cover Orange | 90090 | [90090-cover-orange.json](./90090-cover-orange.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
+| Covermount | 327295 | [327295-covermount.json](./327295-covermount.json) |
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert | 112736 | [112736-covert.json](./112736-covert.json) |
 | Covert Command | 65507 | [65507-covert-command.json](./65507-covert-command.json) |
@@ -5715,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
 | Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
 | CrackSword | 397823 | [397823-cracksword.json](./397823-cracksword.json) |
+| Cracky Mini | 327354 | [327354-cracky-mini.json](./327354-cracky-mini.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
 | Cradle of Egypt: Collector's Edition | 355549 | [355549-cradle-of-egypt-collectors-edition.json](./355549-cradle-of-egypt-collectors-edition.json) |
 | Cradle of Nightmare : Flowers to you | 339333 | [339333-cradle-of-nightmare-flowers-to-you.json](./339333-cradle-of-nightmare-flowers-to-you.json) |
