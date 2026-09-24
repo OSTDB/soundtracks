@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qualia/Delta | 242066 | [242066-qualia-delta.json](./242066-qualia-delta.json) |
 | Qualial Nature | 392940 | [392940-qualial-nature.json](./392940-qualial-nature.json) |
 | Quality Television | 180697 | [180697-quality-television.json](./180697-quality-television.json) |
+| Qualle Party | 292640 | [292640-qualle-party.json](./292640-qualle-party.json) |
 | Quan min zhao bu tong | 402360 | [402360-quan-min-zhao-bu-tong.json](./402360-quan-min-zhao-bu-tong.json) |
 | Quán Zhàn Tiānxià | 156616 | [156616-quan-zhan-tianxia.json](./156616-quan-zhan-tianxia.json) |
 | Quandaries | 94166 | [94166-quandaries.json](./94166-quandaries.json) |
