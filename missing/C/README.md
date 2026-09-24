@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
+| Calling Card | 297564 | [297564-calling-card.json](./297564-calling-card.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
 | Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
@@ -1307,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
 | Castlevania: Dracula X | 222418 | [222418-castlevania-dracula-x.json](./222418-castlevania-dracula-x.json) |
 | Castlevania: Eternity of Sorrow | 383624 | [383624-castlevania-eternity-of-sorrow.json](./383624-castlevania-eternity-of-sorrow.json) |
+| Castlevania: Galactic Panic | 297583 | [297583-castlevania-galactic-panic.json](./297583-castlevania-galactic-panic.json) |
 | Castlevania: Grimoire of Souls | 96485 | [96485-castlevania-grimoire-of-souls.json](./96485-castlevania-grimoire-of-souls.json) |
 | Castlevania: Harmony of Dissonance | 1133 | [1133-castlevania-harmony-of-dissonance.json](./1133-castlevania-harmony-of-dissonance.json) |
 | Castlevania: Harmony of Dissonance | 222411 | [222411-castlevania-harmony-of-dissonance.json](./222411-castlevania-harmony-of-dissonance.json) |
