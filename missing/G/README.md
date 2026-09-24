@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gym: Fitness Center Management | 199610 | [199610-galactic-gym-fitness-center-management.json](./199610-galactic-gym-fitness-center-management.json) |
 | Galactic Harvester | 75905 | [75905-galactic-harvester.json](./75905-galactic-harvester.json) |
 | Galactic Heroes: Rise of the Black Alliance | 274559 | [274559-galactic-heroes-rise-of-the-black-alliance.json](./274559-galactic-heroes-rise-of-the-black-alliance.json) |
+| Galactic Inferno | 336695 | [336695-galactic-inferno.json](./336695-galactic-inferno.json) |
 | Galactic Invasion | 187502 | [187502-galactic-invasion.json](./187502-galactic-invasion.json) |
 | Galactic Junk League | 26782 | [26782-galactic-junk-league.json](./26782-galactic-junk-league.json) |
 | Galactic Keep | 29594 | [29594-galactic-keep.json](./29594-galactic-keep.json) |
@@ -670,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Pets | 233004 | [233004-garden-of-pets.json](./233004-garden-of-pets.json) |
 | Garden of Seif: Chronicles of an Assassin | 195081 | [195081-garden-of-seif-chronicles-of-an-assassin.json](./195081-garden-of-seif-chronicles-of-an-assassin.json) |
 | Garden of Seif: Curse of Gravehollow Peaks | 209456 | [209456-garden-of-seif-curse-of-gravehollow-peaks.json](./209456-garden-of-seif-curse-of-gravehollow-peaks.json) |
+| Garden of the Sea | 336717 | [336717-garden-of-the-sea.json](./336717-garden-of-the-sea.json) |
 | Garden of the Sea VR | 119339 | [119339-garden-of-the-sea-vr.json](./119339-garden-of-the-sea-vr.json) |
 | Garden of Wandering Souls | 327174 | [327174-garden-of-wandering-souls.json](./327174-garden-of-wandering-souls.json) |
 | Garden Paradise | 305937 | [305937-garden-paradise.json](./305937-garden-paradise.json) |
@@ -2928,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravel: King of Buggies | 172061 | [172061-gravel-king-of-buggies.json](./172061-gravel-king-of-buggies.json) |
 | Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
+| Gravemyst | 336711 | [336711-gravemyst.json](./336711-gravemyst.json) |
 | Graven: Deluxe Edition | 336046 | [336046-graven-deluxe-edition.json](./336046-graven-deluxe-edition.json) |
 | Gravewood High: Chapter 1 | 243226 | [243226-gravewood-high-chapter-1.json](./243226-gravewood-high-chapter-1.json) |
 | Gravewood High: Complete | 243227 | [243227-gravewood-high-complete.json](./243227-gravewood-high-complete.json) |
