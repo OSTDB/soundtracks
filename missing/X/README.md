@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Virus | 190742 | [190742-x-virus.json](./190742-x-virus.json) |
 | X-17 | 33373 | [33373-x-17.json](./33373-x-17.json) |
 | X-Blades HD Gold | 230814 | [230814-x-blades-hd-gold.json](./230814-x-blades-hd-gold.json) |
+| X-Blades: HD Upgrade | 322140 | [322140-x-blades-hd-upgrade.json](./322140-x-blades-hd-upgrade.json) |
 | X-Bladez: Inline Skater | 43941 | [43941-x-bladez-inline-skater.json](./43941-x-bladez-inline-skater.json) |
 | X-Bundle: Windows and Xbox games bundle | 331507 | [331507-x-bundle-windows-and-xbox-games-bundle.json](./331507-x-bundle-windows-and-xbox-games-bundle.json) |
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
