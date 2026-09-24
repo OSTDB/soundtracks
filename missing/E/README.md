@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Fury | 119570 | [119570-eternal-fury.json](./119570-eternal-fury.json) |
 | Eternal Gem | 280318 | [280318-eternal-gem.json](./280318-eternal-gem.json) |
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
+| Eternal Haunt | 323887 | [323887-eternal-haunt.json](./323887-eternal-haunt.json) |
 | Eternal Home Floristry | 123587 | [123587-eternal-home-floristry.json](./123587-eternal-home-floristry.json) |
 | Eternal Hope | 124198 | [124198-eternal-hope.json](./124198-eternal-hope.json) |
 | Eternal Hunger | 397939 | [397939-eternal-hunger.json](./397939-eternal-hunger.json) |
@@ -2868,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
 | Explore Jam 3 | 275318 | [275318-explore-jam-3.json](./275318-explore-jam-3.json) |
+| Explore Mars | 323832 | [323832-explore-mars.json](./323832-explore-mars.json) |
 | Explore the Grotto | 307580 | [307580-explore-the-grotto.json](./307580-explore-the-grotto.json) |
 | Explore Titanic | 86853 | [86853-explore-titanic.json](./86853-explore-titanic.json) |
 | Explorers of Esmar | 323178 | [323178-explorers-of-esmar.json](./323178-explorers-of-esmar.json) |
