@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
 | Macho Spinner | 270176 | [270176-macho-spinner.json](./270176-macho-spinner.json) |
 | MachRace | 32865 | [32865-machrace.json](./32865-machrace.json) |
+| Macis | 307068 | [307068-macis.json](./307068-macis.json) |
 | Mackle Story | 407459 | [407459-mackle-story.json](./407459-mackle-story.json) |
 | Mackle Story Remake | 407462 | [407462-mackle-story-remake.json](./407462-mackle-story-remake.json) |
 | MacMan And The Caber Eater | 314495 | [314495-macman-and-the-caber-eater.json](./314495-macman-and-the-caber-eater.json) |
@@ -2488,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Tactics | 154392 | [154392-mecha-tactics.json](./154392-mecha-tactics.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
 | Mechabellum | 240897 | [240897-mechabellum.json](./240897-mechabellum.json) |
+| MechaBlade Hero | 307039 | [307039-mechablade-hero.json](./307039-mechablade-hero.json) |
 | MechaBlight | 390625 | [390625-mechablight.json](./390625-mechablight.json) |
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechafare | 393125 | [393125-mechafare.json](./393125-mechafare.json) |
@@ -3871,6 +3873,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Robot Laboratory | 320330 | [320330-mickeys-robot-laboratory.json](./320330-mickeys-robot-laboratory.json) |
 | Mickey's Speedway USA | 3408 | [3408-mickeys-speedway-usa.json](./3408-mickeys-speedway-usa.json) |
 | Mickey's Speedway USA: Huey | 248304 | [248304-mickeys-speedway-usa-huey.json](./248304-mickeys-speedway-usa-huey.json) |
+| Mickey's Ultimate Challenge | 307073 | [307073-mickeys-ultimate-challenge.json](./307073-mickeys-ultimate-challenge.json) |
+| Mickey's Ultimate Challenge | 307076 | [307076-mickeys-ultimate-challenge.json](./307076-mickeys-ultimate-challenge.json) |
 | miCoach by adidas | 78638 | [78638-micoach-by-adidas.json](./78638-micoach-by-adidas.json) |
 | Micom Slayer | 98238 | [98238-micom-slayer.json](./98238-micom-slayer.json) |
 | Micro Abyss | 166768 | [166768-micro-abyss.json](./166768-micro-abyss.json) |
@@ -4808,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
 | Mint's Hints 3 | 328008 | [328008-mints-hints-3.json](./328008-mints-hints-3.json) |
 | Mintroid | 188619 | [188619-mintroid.json](./188619-mintroid.json) |
+| Minty Monkey | 307098 | [307098-minty-monkey.json](./307098-minty-monkey.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
 | Minute Cryptic | 356194 | [356194-minute-cryptic.json](./356194-minute-cryptic.json) |
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
@@ -6398,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother of Many | 194403 | [194403-mother-of-many.json](./194403-mother-of-many.json) |
 | Mother of Myth | 19643 | [19643-mother-of-myth.json](./19643-mother-of-myth.json) |
 | Mother of the Year | 313837 | [313837-mother-of-the-year.json](./313837-mother-of-the-year.json) |
+| Mother Restored | 307055 | [307055-mother-restored.json](./307055-mother-restored.json) |
 | Mother Zero | 323881 | [323881-mother-zero.json](./323881-mother-zero.json) |
 | Mother, Player | 393489 | [393489-mother-player.json](./393489-mother-player.json) |
 | Mother: Beyond Bounds | 315107 | [315107-mother-beyond-bounds.json](./315107-mother-beyond-bounds.json) |
