@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zehlar | 258023 | [258023-zehlar.json](./258023-zehlar.json) |
 | Zehn Adventures | 94541 | [94541-zehn-adventures.json](./94541-zehn-adventures.json) |
 | Zeitgeist | 178539 | [178539-zeitgeist.json](./178539-zeitgeist.json) |
+| Zeitz Machz: Rhapsody | 293142 | [293142-zeitz-machz-rhapsody.json](./293142-zeitz-machz-rhapsody.json) |
 | Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 1 / Metroid 1 Combo Randomizer | 152749 | [152749-zelda-1-metroid-1-combo-randomizer.json](./152749-zelda-1-metroid-1-combo-randomizer.json) |
