@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Mania | 284472 | [284472-pac-mania.json](./284472-pac-mania.json) |
 | Pac-Mania | 284473 | [284473-pac-mania.json](./284473-pac-mania.json) |
 | Pac-Mania | 284474 | [284474-pac-mania.json](./284474-pac-mania.json) |
+| Pac-Mania | 299838 | [299838-pac-mania.json](./299838-pac-mania.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
 | Pac-Panic | 46572 | [46572-pac-panic.json](./46572-pac-panic.json) |
 | Pac-Snec | 393131 | [393131-pac-snec.json](./393131-pac-snec.json) |
@@ -3392,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planets 2048 | 375443 | [375443-planets-2048.json](./375443-planets-2048.json) |
 | Planets 3 | 137026 | [137026-planets-3.json](./137026-planets-3.json) |
 | Planetship | 36098 | [36098-planetship.json](./36098-planetship.json) |
+| Planetside | 299854 | [299854-planetside.json](./299854-planetside.json) |
 | PlanetSide 2 | 1265 | [1265-planetside-2.json](./1265-planetside-2.json) |
 | PlanetSide Arena | 113362 | [113362-planetside-arena.json](./113362-planetside-arena.json) |
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
