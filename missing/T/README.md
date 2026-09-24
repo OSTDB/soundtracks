@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tago Akira no Atama no Taisou Dai-4-Shuu: Time Machine no Nazotoki Daibouken | 402969 | [402969-tago-akira-no-atama-no-taisou-dai-4-shuu-time-machine-no-nazotoki-daibouken.json](./402969-tago-akira-no-atama-no-taisou-dai-4-shuu-time-machine-no-nazotoki-daibouken.json) |
 | TagPro | 9604 | [9604-tagpro.json](./9604-tagpro.json) |
 | Tahira: Echoes of the Astral Empire | 20753 | [20753-tahira-echoes-of-the-astral-empire.json](./20753-tahira-echoes-of-the-astral-empire.json) |
+| Tahitian Driftin' | 334311 | [334311-tahitian-driftin.json](./334311-tahitian-driftin.json) |
 | Tahl: Uncover the Evil Within | 145617 | [145617-tahl-uncover-the-evil-within.json](./145617-tahl-uncover-the-evil-within.json) |
 | Tahn | 126046 | [126046-tahn.json](./126046-tahn.json) |
 | Tahoe Dragon: The Beginning | 220861 | [220861-tahoe-dragon-the-beginning.json](./220861-tahoe-dragon-the-beginning.json) |
@@ -6848,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unmarked | 153353 | [153353-the-unmarked.json](./153353-the-unmarked.json) |
 | The Unplace | 373191 | [373191-the-unplace.json](./373191-the-unplace.json) |
 | The Unrest Age | 197852 | [197852-the-unrest-age.json](./197852-the-unrest-age.json) |
+| The Unrested | 334297 | [334297-the-unrested.json](./334297-the-unrested.json) |
 | The Unseen Awakening | 347148 | [347148-the-unseen-awakening.json](./347148-the-unseen-awakening.json) |
 | The Unseen Fears: Body Thief - Collector's Edition | 377077 | [377077-the-unseen-fears-body-thief-collectors-edition.json](./377077-the-unseen-fears-body-thief-collectors-edition.json) |
 | The Unseen Fears: Ominous Talent | 187937 | [187937-the-unseen-fears-ominous-talent.json](./187937-the-unseen-fears-ominous-talent.json) |
@@ -10914,6 +10916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trappy Mine | 181859 | [181859-trappy-mine.json](./181859-trappy-mine.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
 | Traption Bakery | 142436 | [142436-traption-bakery.json](./142436-traption-bakery.json) |
+| Trapventure | 334318 | [334318-trapventure.json](./334318-trapventure.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Collector Simulator: Survive Edition | 351029 | [351029-trash-collector-simulator-survive-edition.json](./351029-trash-collector-simulator-survive-edition.json) |
 | Trash defense | 114397 | [114397-trash-defense.json](./114397-trash-defense.json) |
@@ -11535,11 +11538,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trulon | 197766 | [197766-trulon.json](./197766-trulon.json) |
 | Trulon: The Shadow Engine | 20344 | [20344-trulon-the-shadow-engine.json](./20344-trulon-the-shadow-engine.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
+| Trump Boy II | 334278 | [334278-trump-boy-ii.json](./334278-trump-boy-ii.json) |
 | Trump Cards | 383616 | [383616-trump-cards.json](./383616-trump-cards.json) |
 | Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
 | Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
 | Trump Jigsaw | 339283 | [339283-trump-jigsaw.json](./339283-trump-jigsaw.json) |
+| Trump Simulator 2025 | 334305 | [334305-trump-simulator-2025.json](./334305-trump-simulator-2025.json) |
 | Trump vs Biden: Infinity war | 141035 | [141035-trump-vs-biden-infinity-war.json](./141035-trump-vs-biden-infinity-war.json) |
 | Trump vs Harris Clicker | 369646 | [369646-trump-vs-harris-clicker.json](./369646-trump-vs-harris-clicker.json) |
 | Trump: Agent of Hate | 26958 | [26958-trump-agent-of-hate.json](./26958-trump-agent-of-hate.json) |
