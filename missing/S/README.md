@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Monsters for Sex Motel | 288886 | [288886-sex-monsters-for-sex-motel.json](./288886-sex-monsters-for-sex-motel.json) |
 | Sex Motel | 288885 | [288885-sex-motel.json](./288885-sex-motel.json) |
 | Sex Office Story | 171580 | [171580-sex-office-story.json](./171580-sex-office-story.json) |
+| Sex Olympics | 289398 | [289398-sex-olympics.json](./289398-sex-olympics.json) |
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
 | Sex Play: Tropical Vacation | 272934 | [272934-sex-play-tropical-vacation.json](./272934-sex-play-tropical-vacation.json) |
@@ -3395,6 +3396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shockwave Assault | 18705 | [18705-shockwave-assault.json](./18705-shockwave-assault.json) |
 | Shockwave Tetris | 383036 | [383036-shockwave-tetris.json](./383036-shockwave-tetris.json) |
 | Shockwave Triggers | 335466 | [335466-shockwave-triggers.json](./335466-shockwave-triggers.json) |
+| Shockwaves | 289421 | [289421-shockwaves.json](./289421-shockwaves.json) |
 | Shockway Rider | 28824 | [28824-shockway-rider.json](./28824-shockway-rider.json) |
 | Shodan Morita Shogi | 38372 | [38372-shodan-morita-shogi.json](./38372-shodan-morita-shogi.json) |
 | Shodankurai Nintei: Shodan Pro Mahjong | 38368 | [38368-shodankurai-nintei-shodan-pro-mahjong.json](./38368-shodankurai-nintei-shodan-pro-mahjong.json) |
@@ -3760,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siaty's Return | 361883 | [361883-siatys-return.json](./361883-siatys-return.json) |
 | Siberian Dawn: Winterflood | 310408 | [310408-siberian-dawn-winterflood.json](./310408-siberian-dawn-winterflood.json) |
 | Siberian Strike | 91888 | [91888-siberian-strike.json](./91888-siberian-strike.json) |
+| Sicaria | 289425 | [289425-sicaria.json](./289425-sicaria.json) |
 | Sicier's Zweck | 117076 | [117076-siciers-zweck.json](./117076-siciers-zweck.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
 | Sick Bricks | 23925 | [23925-sick-bricks.json](./23925-sick-bricks.json) |
@@ -4083,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimEarth: The Living Planet | 42017 | [42017-simearth-the-living-planet.json](./42017-simearth-the-living-planet.json) |
 | SimEarth: The Living Planet | 44456 | [44456-simearth-the-living-planet.json](./44456-simearth-the-living-planet.json) |
 | SimFarm | 8804 | [8804-simfarm.json](./8804-simfarm.json) |
+| Simgirls | 289399 | [289399-simgirls.json](./289399-simgirls.json) |
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
@@ -8156,6 +8160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Sphinx and the Cursed Mummy | 210438 | [210438-sphinx-and-the-cursed-mummy.json](./210438-sphinx-and-the-cursed-mummy.json) |
 | Sphinx Lowering | 229819 | [229819-sphinx-lowering.json](./229819-sphinx-lowering.json) |
+| Sphinx: Riddles of the Nile | 289377 | [289377-sphinx-riddles-of-the-nile.json](./289377-sphinx-riddles-of-the-nile.json) |
 | Sphirit | 351266 | [351266-sphirit.json](./351266-sphirit.json) |
 | Sphongos | 345562 | [345562-sphongos.json](./345562-sphongos.json) |
 | Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
@@ -10537,6 +10542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command: World War I | 129592 | [129592-strategic-command-world-war-i.json](./129592-strategic-command-world-war-i.json) |
 | Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
 | Strategic Mind: Fight for Dominance | 257425 | [257425-strategic-mind-fight-for-dominance.json](./257425-strategic-mind-fight-for-dominance.json) |
+| Strategic Mind: Fight for Dominance + Kaiju Wars - Fight Monsters Bundle | 289417 | [289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json](./289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
 | Strategic War in Europe | 9467 | [9467-strategic-war-in-europe.json](./9467-strategic-war-in-europe.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
