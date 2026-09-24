@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginsei Shogi: Kyoutendo Toufuu Raijin | 56159 | [56159-ginsei-shogi-kyoutendo-toufuu-raijin.json](./56159-ginsei-shogi-kyoutendo-toufuu-raijin.json) |
 | Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
 | Ginsha | 249208 | [249208-ginsha.json](./249208-ginsha.json) |
+| Gioventù Ribelle | 316757 | [316757-gioventu-ribelle.json](./316757-gioventu-ribelle.json) |
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
 | Girabox | 138621 | [138621-girabox.json](./138621-girabox.json) |
 | Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
