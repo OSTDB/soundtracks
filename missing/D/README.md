@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delegati Genesis | 203956 | [203956-delegati-genesis.json](./203956-delegati-genesis.json) |
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
 | Delia: The Traveling Witch | 252410 | [252410-delia-the-traveling-witch.json](./252410-delia-the-traveling-witch.json) |
+| Deliberate | 309956 | [309956-deliberate.json](./309956-deliberate.json) |
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
 | Delicatte | 151575 | [151575-delicatte.json](./151575-delicatte.json) |
 | Delicious Burger | 274027 | [274027-delicious-burger.json](./274027-delicious-burger.json) |
