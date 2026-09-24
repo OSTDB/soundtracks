@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tear Ripple | 305305 | [305305-tear-ripple.json](./305305-tear-ripple.json) |
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
 | Teardown: Folkrace | 307673 | [307673-teardown-folkrace.json](./307673-teardown-folkrace.json) |
+| Tearfallen | 298635 | [298635-tearfallen.json](./298635-tearfallen.json) |
 | Tearoom of Terror | 398590 | [398590-tearoom-of-terror.json](./398590-tearoom-of-terror.json) |
 | Tears Fall Low | 245919 | [245919-tears-fall-low.json](./245919-tears-fall-low.json) |
 | Tears of a Dragon | 29798 | [29798-tears-of-a-dragon.json](./29798-tears-of-a-dragon.json) |
@@ -1696,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Breach | 217394 | [217394-terminal-breach.json](./217394-terminal-breach.json) |
 | Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
 | Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
+| Terminal Defense | 298636 | [298636-terminal-defense.json](./298636-terminal-defense.json) |
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
@@ -1880,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra Project | 119537 | [119537-tetra-project.json](./119537-tetra-project.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
 | Tetra's Escape | 106530 | [106530-tetras-escape.json](./106530-tetras-escape.json) |
+| Tetrachroma | 298637 | [298637-tetrachroma.json](./298637-tetrachroma.json) |
 | Tetracosm | 151585 | [151585-tetracosm.json](./151585-tetracosm.json) |
 | Tetrageddon | 143484 | [143484-tetrageddon.json](./143484-tetrageddon.json) |
 | TetraLogical | 115531 | [115531-tetralogical.json](./115531-tetralogical.json) |
@@ -2150,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
 | The Adventures of Kusoge | 83529 | [83529-the-adventures-of-kusoge.json](./83529-the-adventures-of-kusoge.json) |
 | The Adventures of Liam | 264605 | [264605-the-adventures-of-liam.json](./264605-the-adventures-of-liam.json) |
+| The Adventures of Lily & Leo | 298638 | [298638-the-adventures-of-lily-and-leo.json](./298638-the-adventures-of-lily-and-leo.json) |
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
 | The Adventures of LinShanHai: Chapter 5 - Three Trees | 368020 | [368020-the-adventures-of-linshanhai-chapter-5-three-trees.json](./368020-the-adventures-of-linshanhai-chapter-5-three-trees.json) |
 | The Adventures of LinShanHai: Chapter3 - The Headless Woman | 243154 | [243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json](./243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json) |
@@ -4589,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Matches | 213960 | [213960-the-last-matches.json](./213960-the-last-matches.json) |
 | The Last Maverick: Survival Raft Adventure | 95876 | [95876-the-last-maverick-survival-raft-adventure.json](./95876-the-last-maverick-survival-raft-adventure.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
+| The Last Mission | 298633 | [298633-the-last-mission.json](./298633-the-last-mission.json) |
 | The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
 | The Last Mothership | 390765 | [390765-the-last-mothership.json](./390765-the-last-mothership.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
@@ -4647,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
 | The Last Sphinx ARG | 111473 | [111473-the-last-sphinx-arg.json](./111473-the-last-sphinx-arg.json) |
+| The Last Spin | 298632 | [298632-the-last-spin.json](./298632-the-last-spin.json) |
 | The Last Stand | 148353 | [148353-the-last-stand.json](./148353-the-last-stand.json) |
 | The Last Stand | 344396 | [344396-the-last-stand.json](./344396-the-last-stand.json) |
 | The Last Stand | 61584 | [61584-the-last-stand.json](./61584-the-last-stand.json) |
@@ -4672,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Visit: 98th | 344345 | [344345-the-last-visit-98th.json](./344345-the-last-visit-98th.json) |
 | The Last War | 173257 | [173257-the-last-war.json](./173257-the-last-war.json) |
 | The Last Warlock | 34881 | [34881-the-last-warlock.json](./34881-the-last-warlock.json) |
+| The Last Warmage | 298631 | [298631-the-last-warmage.json](./298631-the-last-warmage.json) |
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
@@ -5082,6 +5089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Vikings | 454 | [454-the-lost-vikings.json](./454-the-lost-vikings.json) |
 | The Lost Village: Fantasy | 289987 | [289987-the-lost-village-fantasy.json](./289987-the-lost-village-fantasy.json) |
+| The Lost Village: JiangHu | 298625 | [298625-the-lost-village-jianghu.json](./298625-the-lost-village-jianghu.json) |
 | The Lost Village: Monster Sect | 358474 | [358474-the-lost-village-monster-sect.json](./358474-the-lost-village-monster-sect.json) |
 | The Lost Village: Monster Sect Part 2 | 358475 | [358475-the-lost-village-monster-sect-part-2.json](./358475-the-lost-village-monster-sect-part-2.json) |
 | The Lost Weld | 197385 | [197385-the-lost-weld.json](./197385-the-lost-weld.json) |
@@ -5819,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rainsdowne Players | 97926 | [97926-the-rainsdowne-players.json](./97926-the-rainsdowne-players.json) |
 | The Rainy Port Keelung | 35758 | [35758-the-rainy-port-keelung.json](./35758-the-rainy-port-keelung.json) |
 | The Rake: Back To Asylum | 342135 | [342135-the-rake-back-to-asylum.json](./342135-the-rake-back-to-asylum.json) |
+| The Ramen Stand | 298626 | [298626-the-ramen-stand.json](./298626-the-ramen-stand.json) |
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
@@ -7181,6 +7190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Weave of Heroes - RPG | 27755 | [27755-the-weave-of-heroes-rpg.json](./27755-the-weave-of-heroes-rpg.json) |
 | The Wedding | 286531 | [286531-the-wedding.json](./286531-the-wedding.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
+| The Well of Life Cannot Move | 298630 | [298630-the-well-of-life-cannot-move.json](./298630-the-well-of-life-cannot-move.json) |
 | The Well: Episode 1 | 333621 | [333621-the-well-episode-1.json](./333621-the-well-episode-1.json) |
 | The Wendigo | 27673 | [27673-the-wendigo.json](./27673-the-wendigo.json) |
 | The WereCleaner | 288623 | [288623-the-werecleaner.json](./288623-the-werecleaner.json) |
@@ -7252,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Isle | 55764 | [55764-the-witchs-isle.json](./55764-the-witchs-isle.json) |
 | The Witch's Knight | 254745 | [254745-the-witchs-knight.json](./254745-the-witchs-knight.json) |
 | The Witch's Realm | 346583 | [346583-the-witchs-realm.json](./346583-the-witchs-realm.json) |
+| The Witch's Redemption | 298629 | [298629-the-witchs-redemption.json](./298629-the-witchs-redemption.json) |
 | The Witch's Yarn | 9510 | [9510-the-witchs-yarn.json](./9510-the-witchs-yarn.json) |
 | The Witcher 2: Assassins of Kings - Enhanced Edition | 20740 | [20740-the-witcher-2-assassins-of-kings-enhanced-edition.json](./20740-the-witcher-2-assassins-of-kings-enhanced-edition.json) |
 | The Witcher 3: Enhanced Edition - Redux | 283715 | [283715-the-witcher-3-enhanced-edition-redux.json](./283715-the-witcher-3-enhanced-edition-redux.json) |
@@ -7439,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
 | Theme Hospital | 1624 | [1624-theme-hospital.json](./1624-theme-hospital.json) |
 | Theme Hotel | 185634 | [185634-theme-hotel.json](./185634-theme-hotel.json) |
+| Theme Park Architect | 298659 | [298659-theme-park-architect.json](./298659-theme-park-architect.json) |
 | Theme Park Roller Coaster | 43273 | [43273-theme-park-roller-coaster.json](./43273-theme-park-roller-coaster.json) |
 | Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
 | Themely | 393788 | [393788-themely.json](./393788-themely.json) |
@@ -10159,6 +10171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Empire Builder | 127096 | [127096-tower-empire-builder.json](./127096-tower-empire-builder.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
+| Tower Knight | 298628 | [298628-tower-knight.json](./298628-tower-knight.json) |
 | Tower Monster Rush | 309504 | [309504-tower-monster-rush.json](./309504-tower-monster-rush.json) |
 | Tower Networking Inc. | 310040 | [310040-tower-networking-inc.json](./310040-tower-networking-inc.json) |
 | Tower Numbers | 224667 | [224667-tower-numbers.json](./224667-tower-numbers.json) |
@@ -11983,6 +11996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunguska: The Visitation - Way of The Hunter | 227863 | [227863-tunguska-the-visitation-way-of-the-hunter.json](./227863-tunguska-the-visitation-way-of-the-hunter.json) |
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tunnel 19 | 358865 | [358865-tunnel-19.json](./358865-tunnel-19.json) |
+| Tunnel Assault | 298627 | [298627-tunnel-assault.json](./298627-tunnel-assault.json) |
 | Tunnel Ball 3D | 257362 | [257362-tunnel-ball-3d.json](./257362-tunnel-ball-3d.json) |
 | Tunnel Boat Terror | 258544 | [258544-tunnel-boat-terror.json](./258544-tunnel-boat-terror.json) |
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
