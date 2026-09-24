@@ -4984,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down in the Dark | 149920 | [149920-down-in-the-dark.json](./149920-down-in-the-dark.json) |
 | Down in the Depths Blind | 219263 | [219263-down-in-the-depths-blind.json](./219263-down-in-the-depths-blind.json) |
 | Down in the Dungeon | 175937 | [175937-down-in-the-dungeon.json](./175937-down-in-the-dungeon.json) |
+| Down In The Dungeon | 307684 | [307684-down-in-the-dungeon.json](./307684-down-in-the-dungeon.json) |
 | Down Load | 37716 | [37716-down-load.json](./37716-down-load.json) |
 | Down Load 2 | 85810 | [85810-down-load-2.json](./85810-down-load-2.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
@@ -6109,6 +6110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
 | Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
 | Drums Hero PC | 37398 | [37398-drums-hero-pc.json](./37398-drums-hero-pc.json) |
+| Drums of War | 307662 | [307662-drums-of-war.json](./307662-drums-of-war.json) |
 | Drums Rock: Campaign+ | 306950 | [306950-drums-rock-campaign.json](./306950-drums-rock-campaign.json) |
 | Drums Rock: Collective Soul - 'Shine' | 322216 | [322216-drums-rock-collective-soul-shine.json](./322216-drums-rock-collective-soul-shine.json) |
 | Drums Rock: Disturbed - 'Down with the Sickness' | 310378 | [310378-drums-rock-disturbed-down-with-the-sickness.json](./310378-drums-rock-disturbed-down-with-the-sickness.json) |
