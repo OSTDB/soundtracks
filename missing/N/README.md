@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightshift at the Beta Museum | 408141 | [408141-nightshift-at-the-beta-museum.json](./408141-nightshift-at-the-beta-museum.json) |
 | Nightshift Legacy: The Jaguar's Eye | 16077 | [16077-nightshift-legacy-the-jaguars-eye.json](./16077-nightshift-legacy-the-jaguars-eye.json) |
 | NightSky | 15128 | [15128-nightsky.json](./15128-nightsky.json) |
+| Nightsky Blue Magical Girl | 308912 | [308912-nightsky-blue-magical-girl.json](./308912-nightsky-blue-magical-girl.json) |
 | Nightslink | 165643 | [165643-nightslink.json](./165643-nightslink.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
