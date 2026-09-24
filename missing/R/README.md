@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
 | Rescue the Hostages: Misaligned Fate | 405719 | [405719-rescue-the-hostages-misaligned-fate.json](./405719-rescue-the-hostages-misaligned-fate.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
+| Rescue! Dropkick on my Devil | 283239 | [283239-rescue-dropkick-on-my-devil.json](./283239-rescue-dropkick-on-my-devil.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Researcher | 143476 | [143476-researcher.json](./143476-researcher.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
@@ -4833,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Grotto | 378895 | [378895-rush-grotto.json](./378895-rush-grotto.json) |
 | Rush Hour | 18541 | [18541-rush-hour.json](./18541-rush-hour.json) |
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
+| Rush Hours Collection | 283209 | [283209-rush-hours-collection.json](./283209-rush-hours-collection.json) |
 | Rush Legends | 229206 | [229206-rush-legends.json](./229206-rush-legends.json) |
 | Rush Legends PvP FPS | 231906 | [231906-rush-legends-pvp-fps.json](./231906-rush-legends-pvp-fps.json) |
 | Rush On | 253353 | [253353-rush-on.json](./253353-rush-on.json) |
