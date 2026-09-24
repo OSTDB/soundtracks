@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keatz: The Lonely Bird | 57042 | [57042-keatz-the-lonely-bird.json](./57042-keatz-the-lonely-bird.json) |
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab House | 158587 | [158587-kebab-house.json](./158587-kebab-house.json) |
+| Kebab Simulator | 301359 | [301359-kebab-simulator.json](./301359-kebab-simulator.json) |
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
 | Keda | 178509 | [178509-keda.json](./178509-keda.json) |
 | Keep Deep Sheep | 333607 | [333607-keep-deep-sheep.json](./333607-keep-deep-sheep.json) |
