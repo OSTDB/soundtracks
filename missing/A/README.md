@@ -4510,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena II | 359082 | [359082-arena-ii.json](./359082-arena-ii.json) |
 | Arena Kingdoms | 265690 | [265690-arena-kingdoms.json](./265690-arena-kingdoms.json) |
 | Arena Master | 30802 | [30802-arena-master.json](./30802-arena-master.json) |
+| Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
 | Arena of the Myths | 205663 | [205663-arena-of-the-myths.json](./205663-arena-of-the-myths.json) |
