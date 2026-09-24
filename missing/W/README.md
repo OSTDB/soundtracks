@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When it Rains Red | 382211 | [382211-when-it-rains-red.json](./382211-when-it-rains-red.json) |
 | When It Rains, I Want to Disappear off Somewhere | 243143 | [243143-when-it-rains-i-want-to-disappear-off-somewhere.json](./243143-when-it-rains-i-want-to-disappear-off-somewhere.json) |
 | When Night Comes | 249197 | [249197-when-night-comes.json](./249197-when-night-comes.json) |
+| When Pigs Can Fly: Enter The Aporkalypse | 301898 | [301898-when-pigs-can-fly-enter-the-aporkalypse.json](./301898-when-pigs-can-fly-enter-the-aporkalypse.json) |
 | When Pigs Fly | 317432 | [317432-when-pigs-fly.json](./317432-when-pigs-fly.json) |
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
 | When Silence Fell | 114428 | [114428-when-silence-fell.json](./114428-when-silence-fell.json) |
@@ -2400,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withered: A visual novel | 178017 | [178017-withered-a-visual-novel.json](./178017-withered-a-visual-novel.json) |
 | Witherholme | 189058 | [189058-witherholme.json](./189058-witherholme.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
+| Withering Gardens | 301924 | [301924-withering-gardens.json](./301924-withering-gardens.json) |
 | Withering Realms | 329964 | [329964-withering-realms.json](./329964-withering-realms.json) |
 | Witherspring Wilds | 391858 | [391858-witherspring-wilds.json](./391858-witherspring-wilds.json) |
 | Within | 377145 | [377145-within.json](./377145-within.json) |
@@ -2445,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Magic | 406272 | [406272-wizard-magic.json](./406272-wizard-magic.json) |
 | Wizard Man | 211927 | [211927-wizard-man.json](./211927-wizard-man.json) |
 | Wizard Mukbang: The Game | 289898 | [289898-wizard-mukbang-the-game.json](./289898-wizard-mukbang-the-game.json) |
+| Wizard of the 4 Corners | 301903 | [301903-wizard-of-the-4-corners.json](./301903-wizard-of-the-4-corners.json) |
 | Wizard of Wall Street | 68043 | [68043-wizard-of-wall-street.json](./68043-wizard-of-wall-street.json) |
 | Wizard Pool | 386287 | [386287-wizard-pool.json](./386287-wizard-pool.json) |
 | Wizard Pulse | 304573 | [304573-wizard-pulse.json](./304573-wizard-pulse.json) |
