@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
 | Everblue | 37082 | [37082-everblue.json](./37082-everblue.json) |
 | Evercade Alpha Taito Bartop Arcade | 346796 | [346796-evercade-alpha-taito-bartop-arcade.json](./346796-evercade-alpha-taito-bartop-arcade.json) |
+| Everchained | 304643 | [304643-everchained.json](./304643-everchained.json) |
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
 | Everdine: A Lost Girl's Tale | 189142 | [189142-everdine-a-lost-girls-tale.json](./189142-everdine-a-lost-girls-tale.json) |
@@ -2501,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Evershard: Heroes of Gallan's Landing | 404828 | [404828-evershard-heroes-of-gallans-landing.json](./404828-evershard-heroes-of-gallans-landing.json) |
+| Eversiege | 304657 | [304657-eversiege.json](./304657-eversiege.json) |
 | Eversion | 14402 | [14402-eversion.json](./14402-eversion.json) |
 | Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
 | Everspace 2: Titans | 315185 | [315185-everspace-2-titans.json](./315185-everspace-2-titans.json) |
