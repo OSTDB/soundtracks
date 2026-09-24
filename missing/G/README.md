@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy on Fire 3D | 9038 | [9038-galaxy-on-fire-3d.json](./9038-galaxy-on-fire-3d.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
 | Galaxy Online | 67649 | [67649-galaxy-online.json](./67649-galaxy-online.json) |
+| Galaxy Princess Zorana | 327953 | [327953-galaxy-princess-zorana.json](./327953-galaxy-princess-zorana.json) |
 | Galaxy Protectors | 188015 | [188015-galaxy-protectors.json](./188015-galaxy-protectors.json) |
 | Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goosebumps: Dead of Night | 134371 | [134371-goosebumps-dead-of-night.json](./134371-goosebumps-dead-of-night.json) |
 | Goosebumps: Escape from Horrorland | 79276 | [79276-goosebumps-escape-from-horrorland.json](./79276-goosebumps-escape-from-horrorland.json) |
 | Goosebumps: HorrorLand | 43301 | [43301-goosebumps-horrorland.json](./43301-goosebumps-horrorland.json) |
+| GooseGame.io | 327946 | [327946-goosegame-io.json](./327946-goosegame-io.json) |
 | GooseGogs | 92290 | [92290-goosegogs.json](./92290-goosegogs.json) |
 | Goospace | 240812 | [240812-goospace.json](./240812-goospace.json) |
 | GoPets: Vacation Island | 124019 | [124019-gopets-vacation-island.json](./124019-gopets-vacation-island.json) |
