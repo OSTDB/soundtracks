@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warno: Expansion Pass | 312006 | [312006-warno-expansion-pass.json](./312006-warno-expansion-pass.json) |
 | Warno: Nemesis #3 - Homefront | 403589 | [403589-warno-nemesis-3-homefront.json](./403589-warno-nemesis-3-homefront.json) |
 | Warno: Nemesis #4 - Capital Defence | 376081 | [376081-warno-nemesis-4-capital-defence.json](./376081-warno-nemesis-4-capital-defence.json) |
+| Warno: Reinforcement Pack #1 | 323264 | [323264-warno-reinforcement-pack-1.json](./323264-warno-reinforcement-pack-1.json) |
 | WarOfGods 2 | 329068 | [329068-warofgods-2.json](./329068-warofgods-2.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warp | 74327 | [74327-warp.json](./74327-warp.json) |
