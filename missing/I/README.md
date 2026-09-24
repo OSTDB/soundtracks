@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnia | 278403 | [278403-insomnia.json](./278403-insomnia.json) |
 | Insomnia | 333572 | [333572-insomnia.json](./333572-insomnia.json) |
 | Insomnia | 346257 | [346257-insomnia.json](./346257-insomnia.json) |
+| Insomnia: A Sleepless Journey | 294810 | [294810-insomnia-a-sleepless-journey.json](./294810-insomnia-a-sleepless-journey.json) |
 | Insomnia: Chapter One | 374258 | [374258-insomnia-chapter-one.json](./374258-insomnia-chapter-one.json) |
 | Insomnia: Theater in the Head | 216657 | [216657-insomnia-theater-in-the-head.json](./216657-insomnia-theater-in-the-head.json) |
 | Insomnis: Enhanced Edition | 198395 | [198395-insomnis-enhanced-edition.json](./198395-insomnis-enhanced-edition.json) |
