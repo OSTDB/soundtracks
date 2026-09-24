@@ -1772,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Tibet | 54354 | [54354-secrets-of-tibet.json](./54354-secrets-of-tibet.json) |
 | Secrets of Velendar Castle: Escape Room | 391066 | [391066-secrets-of-velendar-castle-escape-room.json](./391066-secrets-of-velendar-castle-escape-room.json) |
 | Secrets of Wynne | 244503 | [244503-secrets-of-wynne.json](./244503-secrets-of-wynne.json) |
+| Secrets Under Eco | 287184 | [287184-secrets-under-eco.json](./287184-secrets-under-eco.json) |
 | Sect House | 343828 | [343828-sect-house.json](./343828-sect-house.json) |
 | Sectant | 144259 | [144259-sectant.json](./144259-sectant.json) |
 | Section 13 | 215221 | [215221-section-13.json](./215221-section-13.json) |
@@ -4282,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SinClient | 82951 | [82951-sinclient.json](./82951-sinclient.json) |
 | Sinderfury | 306089 | [306089-sinderfury.json](./306089-sinderfury.json) |
 | Sindome | 113464 | [113464-sindome.json](./113464-sindome.json) |
+| Sindorin Inn | 287143 | [287143-sindorin-inn.json](./287143-sindorin-inn.json) |
 | Sine | 207905 | [207905-sine.json](./207905-sine.json) |
 | Sine Die | 256856 | [256856-sine-die.json](./256856-sine-die.json) |
 | Sine Mora | 10832 | [10832-sine-mora.json](./10832-sine-mora.json) |
@@ -6767,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Superstars: Lego Dr. Eggman | 279744 | [279744-sonic-superstars-lego-dr-eggman.json](./279744-sonic-superstars-lego-dr-eggman.json) |
 | Sonic Superstars: Lego Fun Pack | 279743 | [279743-sonic-superstars-lego-fun-pack.json](./279743-sonic-superstars-lego-fun-pack.json) |
 | Sonic Superstars: Lego Sonic Skin | 275305 | [275305-sonic-superstars-lego-sonic-skin.json](./275305-sonic-superstars-lego-sonic-skin.json) |
+| Sonic Superstars: Shadow Costume for Sonic | 287180 | [287180-sonic-superstars-shadow-costume-for-sonic.json](./287180-sonic-superstars-shadow-costume-for-sonic.json) |
 | Sonic Surfer | 251645 | [251645-sonic-surfer.json](./251645-sonic-surfer.json) |
 | Sonic Surge: Rhythm Showdown | 333913 | [333913-sonic-surge-rhythm-showdown.json](./333913-sonic-surge-rhythm-showdown.json) |
 | Sonic Switch | 325840 | [325840-sonic-switch.json](./325840-sonic-switch.json) |
@@ -12953,6 +12956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
 | SuperTux Wii | 205620 | [205620-supertux-wii.json](./205620-supertux-wii.json) |
 | Supervive | 255078 | [255078-supervive.json](./255078-supervive.json) |
+| Supervoid | 287185 | [287185-supervoid.json](./287185-supervoid.json) |
 | SuperWeird | 353883 | [353883-superweird.json](./353883-superweird.json) |
 | Supesu | 103445 | [103445-supesu.json](./103445-supesu.json) |
 | Supfly Delivery Simulator | 140158 | [140158-supfly-delivery-simulator.json](./140158-supfly-delivery-simulator.json) |
