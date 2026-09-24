@@ -2763,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cerberus Project | 41932 | [41932-the-cerberus-project.json](./41932-the-cerberus-project.json) |
 | The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
+| The Chalice of Illusion | 285547 | [285547-the-chalice-of-illusion.json](./285547-the-chalice-of-illusion.json) |
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
 | The Chalk | 244775 | [244775-the-chalk.json](./244775-the-chalk.json) |
 | The Challenge | 32235 | [32235-the-challenge.json](./32235-the-challenge.json) |
@@ -4967,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lisa Joyful in Hopeful Christmas Special | 360020 | [360020-the-lisa-joyful-in-hopeful-christmas-special.json](./360020-the-lisa-joyful-in-hopeful-christmas-special.json) |
 | The Lithium Moon Incident | 286060 | [286060-the-lithium-moon-incident.json](./286060-the-lithium-moon-incident.json) |
 | The Little Acre | 25680 | [25680-the-little-acre.json](./25680-the-little-acre.json) |
+| The Little Baby | 285553 | [285553-the-little-baby.json](./285553-the-little-baby.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
 | The Little Land | 403022 | [403022-the-little-land.json](./403022-the-little-land.json) |
@@ -9014,6 +9016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Striker: World Football | 86939 | [86939-tiny-striker-world-football.json](./86939-tiny-striker-world-football.json) |
 | Tiny Survivors | 413902 | [413902-tiny-survivors.json](./413902-tiny-survivors.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
+| Tiny Tales: Hidden Objects | 285523 | [285523-tiny-tales-hidden-objects.json](./285523-tiny-tales-hidden-objects.json) |
 | Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
 | Tiny Tap Quest | 307066 | [307066-tiny-tap-quest.json](./307066-tiny-tap-quest.json) |
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
@@ -10344,6 +10347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Stack | 265743 | [265743-tower-stack.json](./265743-tower-stack.json) |
 | Tower Stacker | 166613 | [166613-tower-stacker.json](./166613-tower-stacker.json) |
 | Tower Survivor | 238616 | [238616-tower-survivor.json](./238616-tower-survivor.json) |
+| Tower Tactics Arena | 285534 | [285534-tower-tactics-arena.json](./285534-tower-tactics-arena.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
 | Tower Walker: MMO Grind Simulator | 217504 | [217504-tower-walker-mmo-grind-simulator.json](./217504-tower-walker-mmo-grind-simulator.json) |
@@ -11000,6 +11004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Healesville 1910's | 205555 | [205555-trainz-plus-healesville-1910s.json](./205555-trainz-plus-healesville-1910s.json) |
 | Trainz Plus: Industrial Switching | 205541 | [205541-trainz-plus-industrial-switching.json](./205541-trainz-plus-industrial-switching.json) |
 | Trainz Plus: Inzer - South Ural Mountains | 205549 | [205549-trainz-plus-inzer-south-ural-mountains.json](./205549-trainz-plus-inzer-south-ural-mountains.json) |
+| Trainz Plus: LMS/NSR Wagon Pack 1 | 285515 | [285515-trainz-plus-lms-nsr-wagon-pack-1.json](./285515-trainz-plus-lms-nsr-wagon-pack-1.json) |
 | Trainz Plus: Lone Pine Branch | 205565 | [205565-trainz-plus-lone-pine-branch.json](./205565-trainz-plus-lone-pine-branch.json) |
 | Trainz Plus: Milton Valley Railroad | 306107 | [306107-trainz-plus-milton-valley-railroad.json](./306107-trainz-plus-milton-valley-railroad.json) |
 | Trainz Plus: Mine & Field railway | 205559 | [205559-trainz-plus-mine-and-field-railway.json](./205559-trainz-plus-mine-and-field-railway.json) |
@@ -11073,6 +11078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: JR Rolling Stock Pack TRS19 | 153263 | [153263-trainz-railroad-simulator-2019-jr-rolling-stock-pack-trs19.json](./153263-trainz-railroad-simulator-2019-jr-rolling-stock-pack-trs19.json) |
 | Trainz Railroad Simulator 2019: Leadville Subdivision | 153272 | [153272-trainz-railroad-simulator-2019-leadville-subdivision.json](./153272-trainz-railroad-simulator-2019-leadville-subdivision.json) |
 | Trainz Railroad Simulator 2019: Legacy of the Burlington Northern II | 153282 | [153282-trainz-railroad-simulator-2019-legacy-of-the-burlington-northern-ii.json](./153282-trainz-railroad-simulator-2019-legacy-of-the-burlington-northern-ii.json) |
+| Trainz Railroad Simulator 2019: LMS/NSR Wagon Pack 1 | 285516 | [285516-trainz-railroad-simulator-2019-lms-nsr-wagon-pack-1.json](./285516-trainz-railroad-simulator-2019-lms-nsr-wagon-pack-1.json) |
 | Trainz Railroad Simulator 2019: Mine & Field railway | 190712 | [190712-trainz-railroad-simulator-2019-mine-and-field-railway.json](./190712-trainz-railroad-simulator-2019-mine-and-field-railway.json) |
 | Trainz Railroad Simulator 2019: Model Trainz - New South Wales Region | 190709 | [190709-trainz-railroad-simulator-2019-model-trainz-new-south-wales-region.json](./190709-trainz-railroad-simulator-2019-model-trainz-new-south-wales-region.json) |
 | Trainz Railroad Simulator 2019: Newcastle Shunter | 153273 | [153273-trainz-railroad-simulator-2019-newcastle-shunter.json](./153273-trainz-railroad-simulator-2019-newcastle-shunter.json) |
@@ -11126,6 +11132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: CSD Bap 117 | 276315 | [276315-trainz-railroad-simulator-2022-csd-bap-117.json](./276315-trainz-railroad-simulator-2022-csd-bap-117.json) |
 | Trainz Railroad Simulator 2022: Ffestiniog Railway Alco 1265 Mountaineer | 292668 | [292668-trainz-railroad-simulator-2022-ffestiniog-railway-alco-1265-mountaineer.json](./292668-trainz-railroad-simulator-2022-ffestiniog-railway-alco-1265-mountaineer.json) |
 | Trainz Railroad Simulator 2022: Harvard Subdivision - Commuter Edition | 285474 | [285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json](./285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json) |
+| Trainz Railroad Simulator 2022: LMS/NSR Wagon Pack 1 | 285517 | [285517-trainz-railroad-simulator-2022-lms-nsr-wagon-pack-1.json](./285517-trainz-railroad-simulator-2022-lms-nsr-wagon-pack-1.json) |
 | Trainz Railroad Simulator 2022: Model Trainz - UZ-Gbox | 262335 | [262335-trainz-railroad-simulator-2022-model-trainz-uz-gbox.json](./262335-trainz-railroad-simulator-2022-model-trainz-uz-gbox.json) |
 | Trainz Railroad Simulator 2022: NR Class Locomotive - JBR Indian Pacific Pack | 284917 | [284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json](./284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json) |
 | Trainz Railroad Simulator 2022: Port Saturn | 288211 | [288211-trainz-railroad-simulator-2022-port-saturn.json](./288211-trainz-railroad-simulator-2022-port-saturn.json) |
