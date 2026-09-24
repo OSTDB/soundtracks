@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T18:33:59.150Z",
-  "total_missing": 117243,
+  "generated_at": "2026-09-24T18:49:23.730Z",
+  "total_missing": 117293,
   "games": [
     {
       "igdb_id": 176875,
@@ -31368,6 +31368,11 @@
       "file": "missing/A/228704-assassins-creed-valhalla-river-raids.json"
     },
     {
+      "igdb_id": 293717,
+      "game_name": "Assassin's Creed Valhalla: Season Pass",
+      "file": "missing/A/293717-assassins-creed-valhalla-season-pass.json"
+    },
+    {
       "igdb_id": 140175,
       "game_name": "Assassin's Creed Valhalla: The Siege of Paris",
       "file": "missing/A/140175-assassins-creed-valhalla-the-siege-of-paris.json"
@@ -45941,6 +45946,11 @@
       "igdb_id": 404418,
       "game_name": "Battlot",
       "file": "missing/B/404418-battlot.json"
+    },
+    {
+      "igdb_id": 293716,
+      "game_name": "Batty Builders",
+      "file": "missing/B/293716-batty-builders.json"
     },
     {
       "igdb_id": 374065,
@@ -61861,6 +61871,11 @@
       "igdb_id": 271818,
       "game_name": "Borderlands 3: Director's Cut",
       "file": "missing/B/271818-borderlands-3-directors-cut.json"
+    },
+    {
+      "igdb_id": 293719,
+      "game_name": "Borderlands 3: Season Pass 2",
+      "file": "missing/B/293719-borderlands-3-season-pass-2.json"
     },
     {
       "igdb_id": 116996,
@@ -79936,6 +79951,11 @@
       "igdb_id": 25674,
       "game_name": "Caverns of Khafka",
       "file": "missing/C/25674-caverns-of-khafka.json"
+    },
+    {
+      "igdb_id": 293715,
+      "game_name": "Caverns of Kontonia",
+      "file": "missing/C/293715-caverns-of-kontonia.json"
     },
     {
       "igdb_id": 233624,
@@ -162093,6 +162113,11 @@
       "file": "missing/F/254153-fall-of-porcupine-save-the-world-edition.json"
     },
     {
+      "igdb_id": 293684,
+      "game_name": "Fall of the Mist",
+      "file": "missing/F/293684-fall-of-the-mist.json"
+    },
+    {
       "igdb_id": 294295,
       "game_name": "Fall Of The MS Estonia",
       "file": "missing/F/294295-fall-of-the-ms-estonia.json"
@@ -162756,6 +162781,11 @@
       "igdb_id": 72379,
       "game_name": "Fallout 4: Game of the Year Pip-Boy Edition",
       "file": "missing/F/72379-fallout-4-game-of-the-year-pip-boy-edition.json"
+    },
+    {
+      "igdb_id": 293723,
+      "game_name": "Fallout 4: Season Pass",
+      "file": "missing/F/293723-fallout-4-season-pass.json"
     },
     {
       "igdb_id": 410450,
@@ -165646,6 +165676,11 @@
       "igdb_id": 390642,
       "game_name": "Fast & Fractured",
       "file": "missing/F/390642-fast-and-fractured.json"
+    },
+    {
+      "igdb_id": 293726,
+      "game_name": "Fast & Furious: Crossroads - Season Pass",
+      "file": "missing/F/293726-fast-and-furious-crossroads-season-pass.json"
     },
     {
       "igdb_id": 383491,
@@ -176973,6 +177008,11 @@
       "file": "missing/F/99006-follower-sacrifice.json"
     },
     {
+      "igdb_id": 293686,
+      "game_name": "Following Seas",
+      "file": "missing/F/293686-following-seas.json"
+    },
+    {
       "igdb_id": 253946,
       "game_name": "Folly Of The Wizards",
       "file": "missing/F/253946-folly-of-the-wizards.json"
@@ -182801,6 +182841,11 @@
       "igdb_id": 395868,
       "game_name": "Frog Clan Official Server 24/7 ZK Map",
       "file": "missing/F/395868-frog-clan-official-server-24-7-zk-map.json"
+    },
+    {
+      "igdb_id": 293683,
+      "game_name": "Frog Corner",
+      "file": "missing/F/293683-frog-corner.json"
     },
     {
       "igdb_id": 325675,
@@ -194721,6 +194766,11 @@
       "igdb_id": 364500,
       "game_name": "Girder & Hearts: Reel Romance",
       "file": "missing/G/364500-girder-and-hearts-reel-romance.json"
+    },
+    {
+      "igdb_id": 293704,
+      "game_name": "Giresun",
+      "file": "missing/G/293704-giresun.json"
     },
     {
       "igdb_id": 411134,
@@ -236488,6 +236538,11 @@
       "file": "missing/I/142848-immortals-fenyx-rising-a-new-god.json"
     },
     {
+      "igdb_id": 293724,
+      "game_name": "Immortals Fenyx Rising: Season Pass",
+      "file": "missing/I/293724-immortals-fenyx-rising-season-pass.json"
+    },
+    {
       "igdb_id": 144580,
       "game_name": "Immortals Fenyx Rising: The Lost Gods",
       "file": "missing/I/144580-immortals-fenyx-rising-the-lost-gods.json"
@@ -241961,6 +242016,11 @@
       "igdb_id": 169323,
       "game_name": "Inu no Osanpo",
       "file": "missing/I/169323-inu-no-osanpo.json"
+    },
+    {
+      "igdb_id": 293689,
+      "game_name": "Inuit Uppirijatuqangit",
+      "file": "missing/I/293689-inuit-uppirijatuqangit.json"
     },
     {
       "igdb_id": 126348,
@@ -248736,6 +248796,11 @@
       "igdb_id": 199073,
       "game_name": "Jimbob and the Magic Chain",
       "file": "missing/J/199073-jimbob-and-the-magic-chain.json"
+    },
+    {
+      "igdb_id": 293712,
+      "game_name": "Jiminy's Morning Adventure",
+      "file": "missing/J/293712-jiminys-morning-adventure.json"
     },
     {
       "igdb_id": 7023,
@@ -265943,6 +266008,11 @@
       "file": "missing/L/347708-lands-of-achra.json"
     },
     {
+      "igdb_id": 293681,
+      "game_name": "Lands of Avaronia",
+      "file": "missing/L/293681-lands-of-avaronia.json"
+    },
+    {
       "igdb_id": 215195,
       "game_name": "Lands of Fire",
       "file": "missing/L/215195-lands-of-fire.json"
@@ -272653,6 +272723,11 @@
       "file": "missing/L/27648-lieve-oma.json"
     },
     {
+      "igdb_id": 293679,
+      "game_name": "Life // Blood",
+      "file": "missing/L/293679-life-blood.json"
+    },
+    {
       "igdb_id": 12177,
       "game_name": "Life & Death",
       "file": "missing/L/12177-life-and-death.json"
@@ -274486,6 +274561,11 @@
       "igdb_id": 299769,
       "game_name": "Lineal Distancing",
       "file": "missing/L/299769-lineal-distancing.json"
+    },
+    {
+      "igdb_id": 293676,
+      "game_name": "Linear Calamity",
+      "file": "missing/L/293676-linear-calamity.json"
     },
     {
       "igdb_id": 349331,
@@ -292586,6 +292666,11 @@
       "igdb_id": 239379,
       "game_name": "Marvel's Midnight Suns: Redemption",
       "file": "missing/M/239379-marvels-midnight-suns-redemption.json"
+    },
+    {
+      "igdb_id": 293722,
+      "game_name": "Marvel's Midnight Suns: Season Pass",
+      "file": "missing/M/293722-marvels-midnight-suns-season-pass.json"
     },
     {
       "igdb_id": 232424,
@@ -320596,6 +320681,11 @@
       "igdb_id": 138033,
       "game_name": "My Exercise",
       "file": "missing/M/138033-my-exercise.json"
+    },
+    {
+      "igdb_id": 293687,
+      "game_name": "My Exit",
+      "file": "missing/M/293687-my-exit.json"
     },
     {
       "igdb_id": 66391,
@@ -355633,6 +355723,11 @@
       "file": "missing/P/237481-patched-world.json"
     },
     {
+      "igdb_id": 293707,
+      "game_name": "Patchouli's Adventure In Doll's House",
+      "file": "missing/P/293707-patchoulis-adventure-in-dolls-house.json"
+    },
+    {
       "igdb_id": 180242,
       "game_name": "Patchwork Girl",
       "file": "missing/P/180242-patchwork-girl.json"
@@ -371673,6 +371768,11 @@
       "file": "missing/P/263053-political-mastery.json"
     },
     {
+      "igdb_id": 293701,
+      "game_name": "Political Punchers: 2024 Arena",
+      "file": "missing/P/293701-political-punchers-2024-arena.json"
+    },
+    {
       "igdb_id": 23798,
       "game_name": "Politically Yours",
       "file": "missing/P/23798-politically-yours.json"
@@ -378383,6 +378483,11 @@
       "file": "missing/P/53479-project-cars-2-deluxe-edition.json"
     },
     {
+      "igdb_id": 293725,
+      "game_name": "Project Cars 3: Season Pass",
+      "file": "missing/P/293725-project-cars-3-season-pass.json"
+    },
+    {
       "igdb_id": 120193,
       "game_name": "Project CARS: Aston Martin Track Expansion",
       "file": "missing/P/120193-project-cars-aston-martin-track-expansion.json"
@@ -384316,6 +384421,11 @@
       "igdb_id": 72102,
       "game_name": "QAD: Quintessential Art of Destruction",
       "file": "missing/Q/72102-qad-quintessential-art-of-destruction.json"
+    },
+    {
+      "igdb_id": 293706,
+      "game_name": "Qallupilluit",
+      "file": "missing/Q/293706-qallupilluit.json"
     },
     {
       "igdb_id": 178575,
@@ -400438,6 +400548,11 @@
       "file": "missing/R/139839-riders-republic-limited-edition.json"
     },
     {
+      "igdb_id": 293718,
+      "game_name": "Riders Republic: Season Pass",
+      "file": "missing/R/293718-riders-republic-season-pass.json"
+    },
+    {
       "igdb_id": 263516,
       "game_name": "Riders Republic: Skate Edition",
       "file": "missing/R/263516-riders-republic-skate-edition.json"
@@ -400841,6 +400956,11 @@
       "igdb_id": 256905,
       "game_name": "Rift Walker",
       "file": "missing/R/256905-rift-walker.json"
+    },
+    {
+      "igdb_id": 293677,
+      "game_name": "Rift Walker",
+      "file": "missing/R/293677-rift-walker.json"
     },
     {
       "igdb_id": 270936,
@@ -417263,6 +417383,11 @@
       "file": "missing/S/409659-science-trivia-quiz-100-wonders.json"
     },
     {
+      "igdb_id": 293699,
+      "game_name": "Science: The Game",
+      "file": "missing/S/293699-science-the-game.json"
+    },
+    {
       "igdb_id": 156123,
       "game_name": "Scientific Shutdown",
       "file": "missing/S/156123-scientific-shutdown.json"
@@ -419141,6 +419266,11 @@
       "igdb_id": 14510,
       "game_name": "SEAL Team",
       "file": "missing/S/14510-seal-team.json"
+    },
+    {
+      "igdb_id": 293698,
+      "game_name": "Seal: What the Fun",
+      "file": "missing/S/293698-seal-what-the-fun.json"
     },
     {
       "igdb_id": 64393,
@@ -428473,6 +428603,11 @@
       "file": "missing/S/335902-shoot-for-the-stars.json"
     },
     {
+      "igdb_id": 293688,
+      "game_name": "Shoot Giant Robots and Wallrun",
+      "file": "missing/S/293688-shoot-giant-robots-and-wallrun.json"
+    },
+    {
       "igdb_id": 113022,
       "game_name": "Shoot Girl",
       "file": "missing/S/113022-shoot-girl.json"
@@ -435531,6 +435666,11 @@
       "igdb_id": 98708,
       "game_name": "Slab",
       "file": "missing/S/98708-slab.json"
+    },
+    {
+      "igdb_id": 293685,
+      "game_name": "Slackers: Carts of Glory",
+      "file": "missing/S/293685-slackers-carts-of-glory.json"
     },
     {
       "igdb_id": 70398,
@@ -448618,6 +448758,11 @@
       "file": "missing/S/257365-space-invaders-world-defense.json"
     },
     {
+      "igdb_id": 293713,
+      "game_name": "Space Invasion",
+      "file": "missing/S/293713-space-invasion.json"
+    },
+    {
       "igdb_id": 260762,
       "game_name": "Space Inversion",
       "file": "missing/S/260762-space-inversion.json"
@@ -450468,6 +450613,11 @@
       "file": "missing/S/111648-speaking-simulator-2018.json"
     },
     {
+      "igdb_id": 293702,
+      "game_name": "Speakrit",
+      "file": "missing/S/293702-speakrit.json"
+    },
+    {
       "igdb_id": 398413,
       "game_name": "Spear Leap Saga",
       "file": "missing/S/398413-spear-leap-saga.json"
@@ -450841,6 +450991,11 @@
       "igdb_id": 35827,
       "game_name": "Spectrum: First Light",
       "file": "missing/S/35827-spectrum-first-light.json"
+    },
+    {
+      "igdb_id": 293708,
+      "game_name": "Spediteur",
+      "file": "missing/S/293708-spediteur.json"
     },
     {
       "igdb_id": 166736,
@@ -451416,6 +451571,11 @@
       "igdb_id": 298089,
       "game_name": "Spellarium 2",
       "file": "missing/S/298089-spellarium-2.json"
+    },
+    {
+      "igdb_id": 293703,
+      "game_name": "Spellarium 4",
+      "file": "missing/S/293703-spellarium-4.json"
     },
     {
       "igdb_id": 18183,
@@ -452001,6 +452161,11 @@
       "igdb_id": 123448,
       "game_name": "Spice and Wolf: The Wind that Spans the Sea",
       "file": "missing/S/123448-spice-and-wolf-the-wind-that-spans-the-sea.json"
+    },
+    {
+      "igdb_id": 293678,
+      "game_name": "Spicy Fruit",
+      "file": "missing/S/293678-spicy-fruit.json"
     },
     {
       "igdb_id": 320132,
@@ -456041,6 +456206,11 @@
       "igdb_id": 301845,
       "game_name": "Stairway",
       "file": "missing/S/301845-stairway.json"
+    },
+    {
+      "igdb_id": 293680,
+      "game_name": "Stairway to Tavern",
+      "file": "missing/S/293680-stairway-to-tavern.json"
     },
     {
       "igdb_id": 190069,
@@ -463543,6 +463713,11 @@
       "file": "missing/S/65227-stranded-mysteries-of-time.json"
     },
     {
+      "igdb_id": 293711,
+      "game_name": "Strands",
+      "file": "missing/S/293711-strands.json"
+    },
+    {
       "igdb_id": 311825,
       "game_name": "Strandzha Adventures 3D",
       "file": "missing/S/311825-strandzha-adventures-3d.json"
@@ -468136,6 +468311,11 @@
       "igdb_id": 186897,
       "game_name": "Summer Memories: Deluxe Edition",
       "file": "missing/S/186897-summer-memories-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 293682,
+      "game_name": "Summer Nightmare",
+      "file": "missing/S/293682-summer-nightmare.json"
     },
     {
       "igdb_id": 29895,
@@ -477906,6 +478086,11 @@
       "igdb_id": 86800,
       "game_name": "Sweet Hearts Match 3",
       "file": "missing/S/86800-sweet-hearts-match-3.json"
+    },
+    {
+      "igdb_id": 293710,
+      "game_name": "Sweet Hell",
+      "file": "missing/S/293710-sweet-hell.json"
     },
     {
       "igdb_id": 339460,
@@ -499578,6 +499763,11 @@
       "file": "missing/T/211727-the-girlfriend-from-my-novel.json"
     },
     {
+      "igdb_id": 293696,
+      "game_name": "The Glacial Strain",
+      "file": "missing/T/293696-the-glacial-strain.json"
+    },
+    {
       "igdb_id": 39853,
       "game_name": "The Gladiator: Road of the Sword",
       "file": "missing/T/39853-the-gladiator-road-of-the-sword.json"
@@ -501661,6 +501851,11 @@
       "igdb_id": 74075,
       "game_name": "The Interstate '76 Arsenal",
       "file": "missing/T/74075-the-interstate-76-arsenal.json"
+    },
+    {
+      "igdb_id": 293697,
+      "game_name": "The Intertwined Imprints",
+      "file": "missing/T/293697-the-intertwined-imprints.json"
     },
     {
       "igdb_id": 379028,
@@ -508651,6 +508846,11 @@
       "igdb_id": 25135,
       "game_name": "The Phantom's Revenge",
       "file": "missing/T/25135-the-phantoms-revenge.json"
+    },
+    {
+      "igdb_id": 293705,
+      "game_name": "The Philistine Ploy",
+      "file": "missing/T/293705-the-philistine-ploy.json"
     },
     {
       "igdb_id": 341467,
@@ -525063,6 +525263,11 @@
       "file": "missing/T/170024-tiny-tinas-wonderlands-next-level-edition.json"
     },
     {
+      "igdb_id": 293727,
+      "game_name": "Tiny Tina's Wonderlands: Season Pass",
+      "file": "missing/T/293727-tiny-tinas-wonderlands-season-pass.json"
+    },
+    {
       "igdb_id": 198943,
       "game_name": "Tiny Toon Adventures",
       "file": "missing/T/198943-tiny-toon-adventures.json"
@@ -533453,6 +533658,11 @@
       "file": "missing/T/269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json"
     },
     {
+      "igdb_id": 293695,
+      "game_name": "Train Sim World 4: Bahnstrecke Salzburg - Rosenheim Route Add-On",
+      "file": "missing/T/293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json"
+    },
+    {
       "igdb_id": 286525,
       "game_name": "Train Sim World 4: Berninalinie - Tirano: Ospizio Bernina Route",
       "file": "missing/T/286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json"
@@ -533461,6 +533671,11 @@
       "igdb_id": 288920,
       "game_name": "Train Sim World 4: Edinburgh - Glasgow: Engineering Express Pack",
       "file": "missing/T/288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json"
+    },
+    {
+      "igdb_id": 293692,
+      "game_name": "Train Sim World 4: London Overground Suffragette line: Gospel Oak - Barking Riverside Route Add-On",
+      "file": "missing/T/293692-train-sim-world-4-london-overground-suffragette-line-gospel-oak-barking-riverside-route-add-on.json"
     },
     {
       "igdb_id": 307970,
@@ -534343,9 +534558,19 @@
       "file": "missing/T/253450-train-simulator-china-railways-cr400bf.json"
     },
     {
+      "igdb_id": 293690,
+      "game_name": "Train Simulator: China Railways HXD1",
+      "file": "missing/T/293690-train-simulator-china-railways-hxd1.json"
+    },
+    {
       "igdb_id": 306071,
       "game_name": "Train Simulator: EA-692",
       "file": "missing/T/306071-train-simulator-ea-692.json"
+    },
+    {
+      "igdb_id": 293691,
+      "game_name": "Train Simulator: Feather River Canyon Enhanced: Oroville - Portola",
+      "file": "missing/T/293691-train-simulator-feather-river-canyon-enhanced-oroville-portola.json"
     },
     {
       "igdb_id": 103448,
@@ -534371,6 +534596,16 @@
       "igdb_id": 306073,
       "game_name": "Train Simulator: Payerbach - Wien Hbf Route Add-On",
       "file": "missing/T/306073-train-simulator-payerbach-wien-hbf-route-add-on.json"
+    },
+    {
+      "igdb_id": 293694,
+      "game_name": "Train Simulator: Ringbahn Berlin Circle",
+      "file": "missing/T/293694-train-simulator-ringbahn-berlin-circle.json"
+    },
+    {
+      "igdb_id": 293693,
+      "game_name": "Train Simulator: Rudolfsbahn: Bruck an der Mur - Selzthal & Knittelfeld",
+      "file": "missing/T/293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json"
     },
     {
       "igdb_id": 306072,
@@ -575233,6 +575468,11 @@
       "file": "missing/W/188127-wwe-2k22-deluxe-edition.json"
     },
     {
+      "igdb_id": 293720,
+      "game_name": "WWE 2K22: Season Pass",
+      "file": "missing/W/293720-wwe-2k22-season-pass.json"
+    },
+    {
       "igdb_id": 233028,
       "game_name": "WWE 2K23",
       "file": "missing/W/233028-wwe-2k23.json"
@@ -575241,6 +575481,11 @@
       "igdb_id": 241078,
       "game_name": "WWE 2K23: Cross-Gen Digital Edition",
       "file": "missing/W/241078-wwe-2k23-cross-gen-digital-edition.json"
+    },
+    {
+      "igdb_id": 293721,
+      "game_name": "WWE 2K23: Season Pass",
+      "file": "missing/W/293721-wwe-2k23-season-pass.json"
     },
     {
       "igdb_id": 283600,
@@ -580096,6 +580341,11 @@
       "igdb_id": 50875,
       "game_name": "Your Doodles Are Bugged!",
       "file": "missing/Y/50875-your-doodles-are-bugged.json"
+    },
+    {
+      "igdb_id": 293700,
+      "game_name": "Your Earth",
+      "file": "missing/Y/293700-your-earth.json"
     },
     {
       "igdb_id": 97159,
