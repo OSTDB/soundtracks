@@ -4666,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Aces | 54365 | [54365-sky-aces.json](./54365-sky-aces.json) |
 | Sky Aces 2 | 295937 | [295937-sky-aces-2.json](./295937-sky-aces-2.json) |
 | Sky Alert | 398981 | [398981-sky-alert.json](./398981-sky-alert.json) |
+| Sky And Earth | 292051 | [292051-sky-and-earth.json](./292051-sky-and-earth.json) |
 | Sky Arena | 60556 | [60556-sky-arena.json](./60556-sky-arena.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
 | Sky Battles | 35834 | [35834-sky-battles.json](./35834-sky-battles.json) |
@@ -7302,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bubble Cat | 145476 | [145476-space-bubble-cat.json](./145476-space-bubble-cat.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space Bust-A-Move | 20484 | [20484-space-bust-a-move.json](./20484-space-bust-a-move.json) |
+| Space Cactus Canyon | 292070 | [292070-space-cactus-canyon.json](./292070-space-cactus-canyon.json) |
 | Space Cadet | 76997 | [76997-space-cadet.json](./76997-space-cadet.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
 | Space Candy | 125398 | [125398-space-candy.json](./125398-space-candy.json) |
@@ -11866,6 +11868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hero Flying School | 207875 | [207875-super-hero-flying-school.json](./207875-super-hero-flying-school.json) |
 | Super Hero Generation | 80615 | [80615-super-hero-generation.json](./80615-super-hero-generation.json) |
 | Super Hero I.T. Software | 304658 | [304658-super-hero-i-t-software.json](./304658-super-hero-i-t-software.json) |
+| Super Hero Sakusen | 292101 | [292101-super-hero-sakusen.json](./292101-super-hero-sakusen.json) |
 | Super Hero VR | 99637 | [99637-super-hero-vr.json](./99637-super-hero-vr.json) |
 | Super Heroine Chronicle | 63311 | [63311-super-heroine-chronicle.json](./63311-super-heroine-chronicle.json) |
 | Super High Ball: Pinball Platformer | 133372 | [133372-super-high-ball-pinball-platformer.json](./133372-super-high-ball-pinball-platformer.json) |
