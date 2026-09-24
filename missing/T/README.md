@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
 | Tanigawa Kouji no Shogi Shinan III | 48884 | [48884-tanigawa-kouji-no-shogi-shinan-iii.json](./48884-tanigawa-kouji-no-shogi-shinan-iii.json) |
+| Tanimura Hitoshi no Don Quixote ga Iku | 282672 | [282672-tanimura-hitoshi-no-don-quixote-ga-iku.json](./282672-tanimura-hitoshi-no-don-quixote-ga-iku.json) |
 | TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
 | Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
 | Tanjou Debut | 41997 | [41997-tanjou-debut.json](./41997-tanjou-debut.json) |
@@ -1129,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tax-Force | 265631 | [265631-tax-force.json](./265631-tax-force.json) |
 | Taxi | 36490 | [36490-taxi.json](./36490-taxi.json) |
 | Taxi 3 | 138156 | [138156-taxi-3.json](./138156-taxi-3.json) |
+| Taxi 3 | 282673 | [282673-taxi-3.json](./282673-taxi-3.json) |
 | Taxi By Night | 184653 | [184653-taxi-by-night.json](./184653-taxi-by-night.json) |
 | Taxi Challenge: London | 116972 | [116972-taxi-challenge-london.json](./116972-taxi-challenge-london.json) |
 | Taxi Chaos | 140701 | [140701-taxi-chaos.json](./140701-taxi-chaos.json) |
@@ -1451,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telekinesis Kyle | 20116 | [20116-telekinesis-kyle.json](./20116-telekinesis-kyle.json) |
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
+| Telepathy | 282667 | [282667-telepathy.json](./282667-telepathy.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
 | Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
@@ -1491,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest | 143034 | [143034-tempest.json](./143034-tempest.json) |
 | Tempest | 15383 | [15383-tempest.json](./15383-tempest.json) |
 | Tempest | 198939 | [198939-tempest.json](./198939-tempest.json) |
+| Tempest | 282630 | [282630-tempest.json](./282630-tempest.json) |
 | Tempest 3000 | 51181 | [51181-tempest-3000.json](./51181-tempest-3000.json) |
 | Tempest 4000 | 54565 | [54565-tempest-4000.json](./54565-tempest-4000.json) |
 | Tempest of the Heavens and Earth | 113643 | [113643-tempest-of-the-heavens-and-earth.json](./113643-tempest-of-the-heavens-and-earth.json) |
@@ -3268,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Disappearing of Gensokyo: Sakuya, Koishi, Suika | 210121 | [210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json](./210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json) |
 | The Disappearing of Gensokyo: Youmu, Yuyuko | 210135 | [210135-the-disappearing-of-gensokyo-youmu-yuyuko.json](./210135-the-disappearing-of-gensokyo-youmu-yuyuko.json) |
 | The Discrete Era | 263499 | [263499-the-discrete-era.json](./263499-the-discrete-era.json) |
+| The Dismal Silhouette | 282620 | [282620-the-dismal-silhouette.json](./282620-the-dismal-silhouette.json) |
 | The Disney Collection: Quackshot Starring Donald Duck & Castle of Illusion Starring Mickey Mouse | 45561 | [45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json](./45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json) |
 | The Dispatcher | 329003 | [329003-the-dispatcher.json](./329003-the-dispatcher.json) |
 | The Distortion Beast | 299141 | [299141-the-distortion-beast.json](./299141-the-distortion-beast.json) |
@@ -3888,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
 | The Goblins are Coming | 246949 | [246949-the-goblins-are-coming.json](./246949-the-goblins-are-coming.json) |
 | The God | 100568 | [100568-the-god.json](./100568-the-god.json) |
+| The God Heroes | 282656 | [282656-the-god-heroes.json](./282656-the-god-heroes.json) |
 | The GoD Unit | 127756 | [127756-the-god-unit.json](./127756-the-god-unit.json) |
 | The God's Chain | 22787 | [22787-the-gods-chain.json](./22787-the-gods-chain.json) |
 | The Godbeast | 108299 | [108299-the-godbeast.json](./108299-the-godbeast.json) |
@@ -7005,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Triathron | 48326 | [48326-the-triathron.json](./48326-the-triathron.json) |
 | The Tribloos 3 | 105746 | [105746-the-tribloos-3.json](./105746-the-tribloos-3.json) |
 | The Tribulation Entanglement | 190189 | [190189-the-tribulation-entanglement.json](./190189-the-tribulation-entanglement.json) |
+| The Trickster's Domain | 282619 | [282619-the-tricksters-domain.json](./282619-the-tricksters-domain.json) |
 | The Trip | 287216 | [287216-the-trip.json](./287216-the-trip.json) |
 | The Trip Adventure | 66636 | [66636-the-trip-adventure.json](./66636-the-trip-adventure.json) |
 | The Trivial Dead | 145649 | [145649-the-trivial-dead.json](./145649-the-trivial-dead.json) |
@@ -12421,7 +12428,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | TwinBee | 282650 | [282650-twinbee.json](./282650-twinbee.json) |
+| TwinBee | 282651 | [282651-twinbee.json](./282651-twinbee.json) |
+| TwinBee | 282652 | [282652-twinbee.json](./282652-twinbee.json) |
+| TwinBee | 282658 | [282658-twinbee.json](./282658-twinbee.json) |
 | TwinBee | 4623 | [4623-twinbee.json](./4623-twinbee.json) |
+| TwinBee Complete Edition | 282653 | [282653-twinbee-complete-edition.json](./282653-twinbee-complete-edition.json) |
 | TwinBee Da!! | 282567 | [282567-twinbee-da.json](./282567-twinbee-da.json) |
 | Twincantation | 355017 | [355017-twincantation.json](./355017-twincantation.json) |
 | TwinCop | 51594 | [51594-twincop.json](./51594-twincop.json) |
