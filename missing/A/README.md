@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikagi After Days | 127935 | [127935-aikagi-after-days.json](./127935-aikagi-after-days.json) |
 | Aikagi with After Days | 127937 | [127937-aikagi-with-after-days.json](./127937-aikagi-with-after-days.json) |
 | Aikagi: Kimi to Issho ni Pack | 127938 | [127938-aikagi-kimi-to-issho-ni-pack.json](./127938-aikagi-kimi-to-issho-ni-pack.json) |
+| Aikatsu On Parade! | 320311 | [320311-aikatsu-on-parade.json](./320311-aikatsu-on-parade.json) |
 | Aikatsu Stars! First Appeal | 222422 | [222422-aikatsu-stars-first-appeal.json](./222422-aikatsu-stars-first-appeal.json) |
 | Aikatsu! 365 Idol Days | 177559 | [177559-aikatsu-365-idol-days.json](./177559-aikatsu-365-idol-days.json) |
 | Aikatsu! Futari no My Princess | 222496 | [222496-aikatsu-futari-no-my-princess.json](./222496-aikatsu-futari-no-my-princess.json) |
@@ -2266,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark: Digital Deluxe Edition | 293759 | [293759-alone-in-the-dark-digital-deluxe-edition.json](./293759-alone-in-the-dark-digital-deluxe-edition.json) |
 | Alone in the Dark: The Gates of Hell | 375455 | [375455-alone-in-the-dark-the-gates-of-hell.json](./375455-alone-in-the-dark-the-gates-of-hell.json) |
 | Alone in the Dark: The New Nightmare | 266501 | [266501-alone-in-the-dark-the-new-nightmare.json](./266501-alone-in-the-dark-the-new-nightmare.json) |
+| Alone in the Dark: The New Nightmare | 320336 | [320336-alone-in-the-dark-the-new-nightmare.json](./320336-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Dark: Vintage Horror Filter Pack | 336139 | [336139-alone-in-the-dark-vintage-horror-filter-pack.json](./336139-alone-in-the-dark-vintage-horror-filter-pack.json) |
 | Alone in the Grey | 201707 | [201707-alone-in-the-grey.json](./201707-alone-in-the-grey.json) |
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
@@ -2404,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto's Odyssey | 26428 | [26428-altos-odyssey.json](./26428-altos-odyssey.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
+| Alühn | 320332 | [320332-aluhn.json](./320332-aluhn.json) |
 | Alum | 26873 | [26873-alum.json](./26873-alum.json) |
 | Aluminium City | 395819 | [395819-aluminium-city.json](./395819-aluminium-city.json) |
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
@@ -4084,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: TX-1 | 411810 | [411810-arcade-archives-tx-1.json](./411810-arcade-archives-tx-1.json) |
 | Arcade Archives: Urban Champion | 68314 | [68314-arcade-archives-urban-champion.json](./68314-arcade-archives-urban-champion.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
+| Arcade Archives: Violence Fight | 320312 | [320312-arcade-archives-violence-fight.json](./320312-arcade-archives-violence-fight.json) |
 | Arcade Archives: Volfied | 294820 | [294820-arcade-archives-volfied.json](./294820-arcade-archives-volfied.json) |
 | Arcade Archives: Vs. Balloon Fight | 68332 | [68332-arcade-archives-vs-balloon-fight.json](./68332-arcade-archives-vs-balloon-fight.json) |
 | Arcade Archives: vs. Battle City | 317219 | [317219-arcade-archives-vs-battle-city.json](./317219-arcade-archives-vs-battle-city.json) |
@@ -4749,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Attack | 366924 | [366924-art-attack.json](./366924-art-attack.json) |
 | Art by Numbers | 124140 | [124140-art-by-numbers.json](./124140-art-by-numbers.json) |
 | Art Challenge | 280897 | [280897-art-challenge.json](./280897-art-challenge.json) |
+| Art Detective: Hidden Through Ancient China | 320327 | [320327-art-detective-hidden-through-ancient-china.json](./320327-art-detective-hidden-through-ancient-china.json) |
 | Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
