@@ -1998,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Outbreak | 57602 | [57602-alien-outbreak.json](./57602-alien-outbreak.json) |
 | Alien Panic! | 222524 | [222524-alien-panic.json](./222524-alien-panic.json) |
 | Alien Paradise | 292312 | [292312-alien-paradise.json](./292312-alien-paradise.json) |
+| Alien Planet | 308337 | [308337-alien-planet.json](./308337-alien-planet.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
 | Alien Planet X64-2 | 270703 | [270703-alien-planet-x64-2.json](./270703-alien-planet-x64-2.json) |
 | Alien Prop Hunt | 190221 | [190221-alien-prop-hunt.json](./190221-alien-prop-hunt.json) |
@@ -2005,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
 | Alien Resurrection | 44995 | [44995-alien-resurrection.json](./44995-alien-resurrection.json) |
 | Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
+| Alien Sanctuary | 308362 | [308362-alien-sanctuary.json](./308362-alien-sanctuary.json) |
 | Alien Scumbags | 124627 | [124627-alien-scumbags.json](./124627-alien-scumbags.json) |
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
@@ -2018,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Soda Online | 391851 | [391851-alien-soda-online.json](./391851-alien-soda-online.json) |
 | Alien Soldier | 4490 | [4490-alien-soldier.json](./4490-alien-soldier.json) |
 | Alien Space Bastards | 188688 | [188688-alien-space-bastards.json](./188688-alien-space-bastards.json) |
+| Alien Space Station | 308341 | [308341-alien-space-station.json](./308341-alien-space-station.json) |
 | Alien SpaceCraft | 96773 | [96773-alien-spacecraft.json](./96773-alien-spacecraft.json) |
 | Alien Spidy: Between a Rock and a Hard Place | 9966 | [9966-alien-spidy-between-a-rock-and-a-hard-place.json](./9966-alien-spidy-between-a-rock-and-a-hard-place.json) |
 | Alien Spidy: Easy Breezy | 9967 | [9967-alien-spidy-easy-breezy.json](./9967-alien-spidy-easy-breezy.json) |
@@ -2381,6 +2384,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphadia III | 365177 | [365177-alphadia-iii.json](./365177-alphadia-iii.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
 | AlphaLink | 173170 | [173170-alphalink.json](./173170-alphalink.json) |
+| AlphaMan | 308344 | [308344-alphaman.json](./308344-alphaman.json) |
+| AlphaNatix: Urban Legends | 308347 | [308347-alphanatix-urban-legends.json](./308347-alphanatix-urban-legends.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
@@ -4011,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
 | ARC Continuum | 27671 | [27671-arc-continuum.json](./27671-arc-continuum.json) |
 | Arc Intelligence | 212905 | [212905-arc-intelligence.json](./212905-arc-intelligence.json) |
+| Arc Nova Base | 308358 | [308358-arc-nova-base.json](./308358-arc-nova-base.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
