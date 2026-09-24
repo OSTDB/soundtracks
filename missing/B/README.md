@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Inside the Escape | 324985 | [324985-backrooms-inside-the-escape.json](./324985-backrooms-inside-the-escape.json) |
 | BackRooms: Lost | 301270 | [301270-backrooms-lost.json](./301270-backrooms-lost.json) |
 | Backrooms: Lost Place | 290543 | [290543-backrooms-lost-place.json](./290543-backrooms-lost-place.json) |
+| Backrooms: Maintenance | 308905 | [308905-backrooms-maintenance.json](./308905-backrooms-maintenance.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
 | Backrooms: No Escape | 389726 | [389726-backrooms-no-escape.json](./389726-backrooms-no-escape.json) |
 | Backrooms: One | 406835 | [406835-backrooms-one.json](./406835-backrooms-one.json) |
@@ -4539,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Tomodachi ga Sukunai Portable | 56491 | [56491-boku-ha-tomodachi-ga-sukunai-portable.json](./56491-boku-ha-tomodachi-ga-sukunai-portable.json) |
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
+| Boku no Komayama wo Mamotte | 308901 | [308901-boku-no-komayama-wo-mamotte.json](./308901-boku-no-komayama-wo-mamotte.json) |
 | Boku no Mirai ha, Koi to Kakin to.: Charge to the Future | 194539 | [194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json](./194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json) |
 | Boku no Natsuyasumi 3: Kitaguni-hen - Chiisana Boku no Dai Sougen | 7379 | [7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json](./7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json) |
 | Boku no Saiai no | 322009 | [322009-boku-no-saiai-no.json](./322009-boku-no-saiai-no.json) |
