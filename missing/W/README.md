@@ -2299,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Spring 2 | 174732 | [174732-witch-spring-2.json](./174732-witch-spring-2.json) |
 | Witch Spring 4 | 174733 | [174733-witch-spring-4.json](./174733-witch-spring-4.json) |
 | Witch Stone | 165665 | [165665-witch-stone.json](./165665-witch-stone.json) |
+| Witch Stories | 329681 | [329681-witch-stories.json](./329681-witch-stories.json) |
 | Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
 | Witch War 1 | 352384 | [352384-witch-war-1.json](./352384-witch-war-1.json) |
 | Witch You Want | 318407 | [318407-witch-you-want.json](./318407-witch-you-want.json) |
@@ -2451,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards and Warp Drives | 63538 | [63538-wizards-and-warp-drives.json](./63538-wizards-and-warp-drives.json) |
 | Wizards Home | 37381 | [37381-wizards-home.json](./37381-wizards-home.json) |
 | Wizards Legacy: Nightmare Park Manager Simulator | 261345 | [261345-wizards-legacy-nightmare-park-manager-simulator.json](./261345-wizards-legacy-nightmare-park-manager-simulator.json) |
+| Wizards of Nature | 329674 | [329674-wizards-of-nature.json](./329674-wizards-of-nature.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
 | Wizards Tourney | 109438 | [109438-wizards-tourney.json](./109438-wizards-tourney.json) |
 | Wizards, Knights & Archers | 220719 | [220719-wizards-knights-and-archers.json](./220719-wizards-knights-and-archers.json) |
@@ -2706,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Blocked | 63824 | [63824-word-blocked.json](./63824-word-blocked.json) |
 | Word Bomb | 365087 | [365087-word-bomb.json](./365087-word-bomb.json) |
 | Word Bound - Word Game Puzzles | 105869 | [105869-word-bound-word-game-puzzles.json](./105869-word-bound-word-game-puzzles.json) |
+| Word Brawl | 329680 | [329680-word-brawl.json](./329680-word-brawl.json) |
 | Word Bridges | 397915 | [397915-word-bridges.json](./397915-word-bridges.json) |
 | Word Challenge | 342250 | [342250-word-challenge.json](./342250-word-challenge.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
@@ -2985,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Retailing | 193472 | [193472-world-of-retailing.json](./193472-world-of-retailing.json) |
 | World of Rune | 263057 | [263057-world-of-rune.json](./263057-world-of-rune.json) |
 | World of Sea Battle | 59962 | [59962-world-of-sea-battle.json](./59962-world-of-sea-battle.json) |
+| World of Shells | 329653 | [329653-world-of-shells.json](./329653-world-of-shells.json) |
 | World of Slime | 415114 | [415114-world-of-slime.json](./415114-world-of-slime.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
 | World Of Sports | 370756 | [370756-world-of-sports.json](./370756-world-of-sports.json) |
