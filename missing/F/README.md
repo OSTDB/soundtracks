@@ -3250,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
 | Flyhight Cloudia II | 288189 | [288189-flyhight-cloudia-ii.json](./288189-flyhight-cloudia-ii.json) |
+| Flyhight Cloudia IV - Eien no Kizuna | 292092 | [292092-flyhight-cloudia-iv-eien-no-kizuna.json](./292092-flyhight-cloudia-iv-eien-no-kizuna.json) |
 | Flyin' High | 72060 | [72060-flyin-high.json](./72060-flyin-high.json) |
 | Flyin' High Data Disk 1 | 93009 | [93009-flyin-high-data-disk-1.json](./93009-flyin-high-data-disk-1.json) |
 | Flying 'N Frying Popcorn Dude | 273493 | [273493-flying-n-frying-popcorn-dude.json](./273493-flying-n-frying-popcorn-dude.json) |
@@ -4247,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
+| Frantic | 292087 | [292087-frantic.json](./292087-frantic.json) |
 | Frantic Birdies | 357849 | [357849-frantic-birdies.json](./357849-frantic-birdies.json) |
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
