@@ -44,8 +44,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubik | 44852 | [44852-ubik.json](./44852-ubik.json) |
 | UBoat | 32283 | [32283-uboat.json](./32283-uboat.json) |
 | Uboat Attack | 220203 | [220203-uboat-attack.json](./220203-uboat-attack.json) |
+| Uboat Attack: Cloverfield DLC | 316235 | [316235-uboat-attack-cloverfield-dlc.json](./316235-uboat-attack-cloverfield-dlc.json) |
 | Uboat Attack: Complete Edition | 317245 | [317245-uboat-attack-complete-edition.json](./317245-uboat-attack-complete-edition.json) |
 | Uboat Attack: Gold Edition | 385212 | [385212-uboat-attack-gold-edition.json](./385212-uboat-attack-gold-edition.json) |
+| Uboat Attack: Vortice DLC | 316234 | [316234-uboat-attack-vortice-dlc.json](./316234-uboat-attack-vortice-dlc.json) |
+| Uboat Attack: Zeppelin DLC | 316233 | [316233-uboat-attack-zeppelin-dlc.json](./316233-uboat-attack-zeppelin-dlc.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
 | UBRocks | 90683 | [90683-ubrocks.json](./90683-ubrocks.json) |
 | Ubu | 356618 | [356618-ubu.json](./356618-ubu.json) |
@@ -393,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
 | Umami Island | 214503 | [214503-umami-island.json](./214503-umami-island.json) |
 | Umamusume: Pretty Derby | 97494 | [97494-umamusume-pretty-derby.json](./97494-umamusume-pretty-derby.json) |
+| Umamusume: Pretty Derby - Party Dash: DLC Vol. 1 - Team Iris | 316227 | [316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json](./316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json) |
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
 | Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
 | Umbra | 202338 | [202338-umbra.json](./202338-umbra.json) |
