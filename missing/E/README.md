@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Point Nova | 243932 | [243932-echo-point-nova.json](./243932-echo-point-nova.json) |
 | Echo Protocol: Escape Room | 360642 | [360642-echo-protocol-escape-room.json](./360642-echo-protocol-escape-room.json) |
 | Echo Punk | 381634 | [381634-echo-punk.json](./381634-echo-punk.json) |
+| Echo Signal | 329101 | [329101-echo-signal.json](./329101-echo-signal.json) |
 | Echo Tokyo: Reaper | 75757 | [75757-echo-tokyo-reaper.json](./75757-echo-tokyo-reaper.json) |
 | Echo Wars: Road Rage | 215896 | [215896-echo-wars-road-rage.json](./215896-echo-wars-road-rage.json) |
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
