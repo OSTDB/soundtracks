@@ -3312,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloExpo20XX | 401775 | [401775-holoexpo20xx.json](./401775-holoexpo20xx.json) |
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
+| Hologram | 307095 | [307095-hologram.json](./307095-hologram.json) |
 | Hololive All-Stars Battle Tiles | 379575 | [379575-hololive-all-stars-battle-tiles.json](./379575-hololive-all-stars-battle-tiles.json) |
 | Hololive Dreams | 384205 | [384205-hololive-dreams.json](./384205-hololive-dreams.json) |
 | Hololive Gorogoro Mountain | 348243 | [348243-hololive-gorogoro-mountain.json](./348243-hololive-gorogoro-mountain.json) |
