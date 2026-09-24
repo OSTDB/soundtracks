@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T16:05:01.039Z",
-  "total_missing": 116743,
+  "generated_at": "2026-09-24T16:18:38.985Z",
+  "total_missing": 116793,
   "games": [
     {
       "igdb_id": 176875,
@@ -149853,6 +149853,11 @@
       "file": "missing/E/213017-emmas-armaments.json"
     },
     {
+      "igdb_id": 299220,
+      "game_name": "Emma's World",
+      "file": "missing/E/299220-emmas-world.json"
+    },
+    {
       "igdb_id": 356639,
       "game_name": "Emmensity",
       "file": "missing/E/356639-emmensity.json"
@@ -247143,6 +247148,16 @@
       "file": "missing/J/368041-jibchag-ui-mangja-jib-eulobuteoui-talchul.json"
     },
     {
+      "igdb_id": 299211,
+      "game_name": "Jibi Land: Princess Castle",
+      "file": "missing/J/299211-jibi-land-princess-castle.json"
+    },
+    {
+      "igdb_id": 299212,
+      "game_name": "Jibi Land: Princess Town",
+      "file": "missing/J/299212-jibi-land-princess-town.json"
+    },
+    {
       "igdb_id": 183978,
       "game_name": "Jice",
       "file": "missing/J/183978-jice.json"
@@ -304938,6 +304953,16 @@
       "file": "missing/M/298310-minecraft-annoying-difficulty.json"
     },
     {
+      "igdb_id": 299217,
+      "game_name": "Minecraft: Armored Paws",
+      "file": "missing/M/299217-minecraft-armored-paws.json"
+    },
+    {
+      "igdb_id": 299218,
+      "game_name": "Minecraft: Armored Paws",
+      "file": "missing/M/299218-minecraft-armored-paws.json"
+    },
+    {
       "igdb_id": 316751,
       "game_name": "Minecraft: Astronaut Training Center",
       "file": "missing/M/316751-minecraft-astronaut-training-center.json"
@@ -305031,6 +305056,11 @@
       "igdb_id": 285053,
       "game_name": "Minecraft: Jurassic World Adventures",
       "file": "missing/M/285053-minecraft-jurassic-world-adventures.json"
+    },
+    {
+      "igdb_id": 299203,
+      "game_name": "Minecraft: Kung Fu Panda",
+      "file": "missing/M/299203-minecraft-kung-fu-panda.json"
     },
     {
       "igdb_id": 204621,
@@ -305236,6 +305266,11 @@
       "igdb_id": 343906,
       "game_name": "Minecraft: Uncrafting Items Mod",
       "file": "missing/M/343906-minecraft-uncrafting-items-mod.json"
+    },
+    {
+      "igdb_id": 299204,
+      "game_name": "Minecraft: Universal Studios Experience",
+      "file": "missing/M/299204-minecraft-universal-studios-experience.json"
     },
     {
       "igdb_id": 235319,
@@ -319043,6 +319078,11 @@
       "file": "missing/M/222880-my-cat.json"
     },
     {
+      "igdb_id": 299208,
+      "game_name": "My Cat Town",
+      "file": "missing/M/299208-my-cat-town.json"
+    },
+    {
       "igdb_id": 331358,
       "game_name": "My Cat: Virtual Pet Simulator",
       "file": "missing/M/331358-my-cat-virtual-pet-simulator.json"
@@ -319873,6 +319913,11 @@
       "file": "missing/M/308807-my-horse-stories-sunny-edition.json"
     },
     {
+      "igdb_id": 299209,
+      "game_name": "My Hospital Town",
+      "file": "missing/M/299209-my-hospital-town.json"
+    },
+    {
       "igdb_id": 199122,
       "game_name": "My Hotel",
       "file": "missing/M/199122-my-hotel.json"
@@ -320508,6 +320553,26 @@
       "file": "missing/M/324875-my-plushy-shift.json"
     },
     {
+      "igdb_id": 299224,
+      "game_name": "My Pretend Fairytale Land",
+      "file": "missing/M/299224-my-pretend-fairytale-land.json"
+    },
+    {
+      "igdb_id": 299223,
+      "game_name": "My Pretend Family",
+      "file": "missing/M/299223-my-pretend-family.json"
+    },
+    {
+      "igdb_id": 299222,
+      "game_name": "My Pretend Halloween Town",
+      "file": "missing/M/299222-my-pretend-halloween-town.json"
+    },
+    {
+      "igdb_id": 299213,
+      "game_name": "My Pretend Summer Waterpark",
+      "file": "missing/M/299213-my-pretend-summer-waterpark.json"
+    },
+    {
       "igdb_id": 228416,
       "game_name": "My Princess Girlfriend",
       "file": "missing/M/228416-my-princess-girlfriend.json"
@@ -321081,6 +321146,16 @@
       "igdb_id": 348451,
       "game_name": "My Tiny Room",
       "file": "missing/M/348451-my-tiny-room.json"
+    },
+    {
+      "igdb_id": 299215,
+      "game_name": "My Tizi Town: Daycare",
+      "file": "missing/M/299215-my-tizi-town-daycare.json"
+    },
+    {
+      "igdb_id": 299210,
+      "game_name": "My Tizi Town: Grandparents Home",
+      "file": "missing/M/299210-my-tizi-town-grandparents-home.json"
     },
     {
       "igdb_id": 104615,
@@ -351988,14 +352063,39 @@
       "file": "missing/P/7388-papo-and-yo.json"
     },
     {
+      "igdb_id": 299225,
+      "game_name": "Papo City Builder",
+      "file": "missing/P/299225-papo-city-builder.json"
+    },
+    {
+      "igdb_id": 299238,
+      "game_name": "Papo City: Hospital",
+      "file": "missing/P/299238-papo-city-hospital.json"
+    },
+    {
       "igdb_id": 299275,
       "game_name": "Papo Learn & Play",
       "file": "missing/P/299275-papo-learn-and-play.json"
     },
     {
+      "igdb_id": 299248,
+      "game_name": "Papo Town Apartment",
+      "file": "missing/P/299248-papo-town-apartment.json"
+    },
+    {
       "igdb_id": 299258,
       "game_name": "Papo Town Build Stories",
       "file": "missing/P/299258-papo-town-build-stories.json"
+    },
+    {
+      "igdb_id": 299246,
+      "game_name": "Papo Town Castle",
+      "file": "missing/P/299246-papo-town-castle.json"
+    },
+    {
+      "igdb_id": 299235,
+      "game_name": "Papo Town Clinic",
+      "file": "missing/P/299235-papo-town-clinic.json"
     },
     {
       "igdb_id": 299283,
@@ -352008,6 +352108,21 @@
       "file": "missing/P/299276-papo-town-dessert-shop.json"
     },
     {
+      "igdb_id": 299251,
+      "game_name": "Papo Town Fairytales",
+      "file": "missing/P/299251-papo-town-fairytales.json"
+    },
+    {
+      "igdb_id": 299250,
+      "game_name": "Papo Town Farm",
+      "file": "missing/P/299250-papo-town-farm.json"
+    },
+    {
+      "igdb_id": 299245,
+      "game_name": "Papo Town Fire Department",
+      "file": "missing/P/299245-papo-town-fire-department.json"
+    },
+    {
       "igdb_id": 299277,
       "game_name": "Papo Town Food Street",
       "file": "missing/P/299277-papo-town-food-street.json"
@@ -352018,14 +352133,34 @@
       "file": "missing/P/299280-papo-town-happy-festival.json"
     },
     {
+      "igdb_id": 299236,
+      "game_name": "Papo Town Happy Kingdom",
+      "file": "missing/P/299236-papo-town-happy-kingdom.json"
+    },
+    {
       "igdb_id": 299273,
       "game_name": "Papo Town History Discovery China",
       "file": "missing/P/299273-papo-town-history-discovery-china.json"
     },
     {
+      "igdb_id": 299241,
+      "game_name": "Papo Town Magic World",
+      "file": "missing/P/299241-papo-town-magic-world.json"
+    },
+    {
       "igdb_id": 299256,
       "game_name": "Papo Town Museum",
       "file": "missing/P/299256-papo-town-museum.json"
+    },
+    {
+      "igdb_id": 299242,
+      "game_name": "Papo Town Pet Life",
+      "file": "missing/P/299242-papo-town-pet-life.json"
+    },
+    {
+      "igdb_id": 299247,
+      "game_name": "Papo Town Pirate",
+      "file": "missing/P/299247-papo-town-pirate.json"
     },
     {
       "igdb_id": 299257,
@@ -352043,6 +352178,11 @@
       "file": "missing/P/299278-papo-town-restaurant.json"
     },
     {
+      "igdb_id": 299234,
+      "game_name": "Papo Town School Life",
+      "file": "missing/P/299234-papo-town-school-life.json"
+    },
+    {
       "igdb_id": 299259,
       "game_name": "Papo Town Seasons",
       "file": "missing/P/299259-papo-town-seasons.json"
@@ -352056,6 +352196,11 @@
       "igdb_id": 299286,
       "game_name": "Papo Town Spaceship",
       "file": "missing/P/299286-papo-town-spaceship.json"
+    },
+    {
+      "igdb_id": 299244,
+      "game_name": "Papo Town Sports Meet",
+      "file": "missing/P/299244-papo-town-sports-meet.json"
     },
     {
       "igdb_id": 299260,
@@ -352073,9 +352218,29 @@
       "file": "missing/P/299271-papo-town-baby-nursery.json"
     },
     {
+      "igdb_id": 299231,
+      "game_name": "Papo Town: Forest Friends",
+      "file": "missing/P/299231-papo-town-forest-friends.json"
+    },
+    {
+      "igdb_id": 299226,
+      "game_name": "Papo Town: Hospital",
+      "file": "missing/P/299226-papo-town-hospital.json"
+    },
+    {
       "igdb_id": 299279,
       "game_name": "Papo Town: Hospital Story",
       "file": "missing/P/299279-papo-town-hospital-story.json"
+    },
+    {
+      "igdb_id": 299240,
+      "game_name": "Papo Town: Mall",
+      "file": "missing/P/299240-papo-town-mall.json"
+    },
+    {
+      "igdb_id": 299243,
+      "game_name": "Papo Town: My Home",
+      "file": "missing/P/299243-papo-town-my-home.json"
     },
     {
       "igdb_id": 299281,
@@ -352083,14 +352248,49 @@
       "file": "missing/P/299281-papo-town-ocean-park.json"
     },
     {
+      "igdb_id": 299232,
+      "game_name": "Papo Town: School",
+      "file": "missing/P/299232-papo-town-school.json"
+    },
+    {
+      "igdb_id": 299230,
+      "game_name": "Papo Town: Skyscraper",
+      "file": "missing/P/299230-papo-town-skyscraper.json"
+    },
+    {
       "igdb_id": 299270,
       "game_name": "Papo Town: Sweet Home",
       "file": "missing/P/299270-papo-town-sweet-home.json"
     },
     {
+      "igdb_id": 299228,
+      "game_name": "Papo Town: Travel",
+      "file": "missing/P/299228-papo-town-travel.json"
+    },
+    {
+      "igdb_id": 299249,
+      "game_name": "Papo Town: Underground City",
+      "file": "missing/P/299249-papo-town-underground-city.json"
+    },
+    {
+      "igdb_id": 299205,
+      "game_name": "Papo Town: World",
+      "file": "missing/P/299205-papo-town-world.json"
+    },
+    {
+      "igdb_id": 299233,
+      "game_name": "Papo World Cleaning Day",
+      "file": "missing/P/299233-papo-world-cleaning-day.json"
+    },
+    {
       "igdb_id": 299272,
       "game_name": "Papo World Dinosaur Island",
       "file": "missing/P/299272-papo-world-dinosaur-island.json"
+    },
+    {
+      "igdb_id": 299239,
+      "game_name": "Papo World Playground",
+      "file": "missing/P/299239-papo-world-playground.json"
     },
     {
       "igdb_id": 55107,
@@ -374693,6 +374893,11 @@
       "file": "missing/P/193874-princess-and-goblin.json"
     },
     {
+      "igdb_id": 299221,
+      "game_name": "Princess Amelia's World",
+      "file": "missing/P/299221-princess-amelias-world.json"
+    },
+    {
       "igdb_id": 221261,
       "game_name": "Princess and Fairytales Jigsaw Puzzles",
       "file": "missing/P/221261-princess-and-fairytales-jigsaw-puzzles.json"
@@ -380613,6 +380818,11 @@
       "file": "missing/P/213610-purple-fantasy.json"
     },
     {
+      "igdb_id": 299237,
+      "game_name": "Purple Pink Chinese Food",
+      "file": "missing/P/299237-purple-pink-chinese-food.json"
+    },
+    {
       "igdb_id": 299282,
       "game_name": "Purple Pink Coloring Book",
       "file": "missing/P/299282-purple-pink-coloring-book.json"
@@ -380636,6 +380846,11 @@
       "igdb_id": 299274,
       "game_name": "Purple Pink Math",
       "file": "missing/P/299274-purple-pink-math.json"
+    },
+    {
+      "igdb_id": 299227,
+      "game_name": "Purple Pink Summer Beach",
+      "file": "missing/P/299227-purple-pink-summer-beach.json"
     },
     {
       "igdb_id": 298581,
@@ -420503,6 +420718,11 @@
       "file": "missing/S/205226-serious-sam-gog-collection.json"
     },
     {
+      "igdb_id": 299202,
+      "game_name": "Serious Sam: Portals",
+      "file": "missing/S/299202-serious-sam-portals.json"
+    },
+    {
       "igdb_id": 187112,
       "game_name": "Serious Sam: Siberian Mayhem",
       "file": "missing/S/187112-serious-sam-siberian-mayhem.json"
@@ -434841,6 +435061,11 @@
       "igdb_id": 235464,
       "game_name": "Slime Evolution",
       "file": "missing/S/235464-slime-evolution.json"
+    },
+    {
+      "igdb_id": 299229,
+      "game_name": "Slime Evolution",
+      "file": "missing/S/299229-slime-evolution.json"
     },
     {
       "igdb_id": 344471,
@@ -523218,9 +523443,29 @@
       "file": "missing/T/152738-tizahls-quest.json"
     },
     {
+      "igdb_id": 299219,
+      "game_name": "Tizi Airport",
+      "file": "missing/T/299219-tizi-airport.json"
+    },
+    {
       "igdb_id": 227481,
       "game_name": "Tizi Town: Airport Adventure",
       "file": "missing/T/227481-tizi-town-airport-adventure.json"
+    },
+    {
+      "igdb_id": 299214,
+      "game_name": "Tizi Town: Doll Dress Up Games",
+      "file": "missing/T/299214-tizi-town-doll-dress-up-games.json"
+    },
+    {
+      "igdb_id": 299207,
+      "game_name": "Tizi Town: My Hotel Games",
+      "file": "missing/T/299207-tizi-town-my-hotel-games.json"
+    },
+    {
+      "igdb_id": 299216,
+      "game_name": "Tizi Town: Room Design",
+      "file": "missing/T/299216-tizi-town-room-design.json"
     },
     {
       "igdb_id": 206780,
@@ -527136,6 +527381,11 @@
       "igdb_id": 138028,
       "game_name": "Toss!",
       "file": "missing/T/138028-toss.json"
+    },
+    {
+      "igdb_id": 299206,
+      "game_name": "Tota Life: Parent-kid Suite",
+      "file": "missing/T/299206-tota-life-parent-kid-suite.json"
     },
     {
       "igdb_id": 918,
