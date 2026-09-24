@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital | 164431 | [164431-capital.json](./164431-capital.json) |
 | Capital | 311489 | [311489-capital.json](./311489-capital.json) |
 | Capital Cities Trivia | 365874 | [365874-capital-cities-trivia.json](./365874-capital-cities-trivia.json) |
+| Capital Dilemma | 283800 | [283800-capital-dilemma.json](./283800-capital-dilemma.json) |
 | Capital Fire | 284885 | [284885-capital-fire.json](./284885-capital-fire.json) |
 | Capital Kings | 342635 | [342635-capital-kings.json](./342635-capital-kings.json) |
 | Capital Simulator | 148483 | [148483-capital-simulator.json](./148483-capital-simulator.json) |
@@ -2002,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
 | Chakana | 322805 | [322805-chakana.json](./322805-chakana.json) |
 | Chakravyuh | 133981 | [133981-chakravyuh.json](./133981-chakravyuh.json) |
+| Chakusin Melody Damon | 283823 | [283823-chakusin-melody-damon.json](./283823-chakusin-melody-damon.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
@@ -2971,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
 | Christmas Hustle | 320384 | [320384-christmas-hustle.json](./320384-christmas-hustle.json) |
 | Christmas Jigsaw Puzzle Pango | 108458 | [108458-christmas-jigsaw-puzzle-pango.json](./108458-christmas-jigsaw-puzzle-pango.json) |
+| Christmas Journey Puzzle | 283840 | [283840-christmas-journey-puzzle.json](./283840-christmas-journey-puzzle.json) |
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
 | Christmas Magic | 257442 | [257442-christmas-magic.json](./257442-christmas-magic.json) |
@@ -6000,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
+| Crappy Game | 283808 | [283808-crappy-game.json](./283808-crappy-game.json) |
 | Craps | 386682 | [386682-craps.json](./386682-craps.json) |
 | Craps HD | 89674 | [89674-craps-hd.json](./89674-craps-hd.json) |
 | Crapshoot | 380095 | [380095-crapshoot.json](./380095-crapshoot.json) |
@@ -7164,6 +7168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Castles | 17727 | [17727-cubic-castles.json](./17727-cubic-castles.json) |
 | Cubic Color Confusion | 416087 | [416087-cubic-color-confusion.json](./416087-cubic-color-confusion.json) |
 | Cubic Cosmos | 348835 | [348835-cubic-cosmos.json](./348835-cubic-cosmos.json) |
+| Cubic Defender | 283846 | [283846-cubic-defender.json](./283846-cubic-defender.json) |
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
