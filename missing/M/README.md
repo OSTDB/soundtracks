@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario 128 | 130354 | [130354-mario-128.json](./130354-mario-128.json) |
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
 | Mario 7-in-1 | 242230 | [242230-mario-7-in-1.json](./242230-mario-7-in-1.json) |
+| Mario a Plumber in Time Re-Mastered | 294773 | [294773-mario-a-plumber-in-time-re-mastered.json](./294773-mario-a-plumber-in-time-re-mastered.json) |
 | Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again! | 60579 | [60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json](./60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json) |
 | Mario and Donkey Kong's Lost Island | 323186 | [323186-mario-and-donkey-kongs-lost-island.json](./323186-mario-and-donkey-kongs-lost-island.json) |
 | Mario Andretti Racing | 20593 | [20593-mario-andretti-racing.json](./20593-mario-andretti-racing.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 7 | 2334 | [2334-mario-party-7.json](./2334-mario-party-7.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
 | Mario Party: Fushigi no Koro-koro Catcher 2 | 132044 | [132044-mario-party-fushigi-no-koro-koro-catcher-2.json](./132044-mario-party-fushigi-no-koro-koro-catcher-2.json) |
+| Mario Party: Love Land | 294763 | [294763-mario-party-love-land.json](./294763-mario-party-love-land.json) |
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
 | Mario Pinball Land | 6503 | [6503-mario-pinball-land.json](./6503-mario-pinball-land.json) |
 | Mario Power Tennis | 84700 | [84700-mario-power-tennis.json](./84700-mario-power-tennis.json) |
@@ -1564,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Donkey Kong-e: Later Gator | 352403 | [352403-mario-vs-donkey-kong-e-later-gator.json](./352403-mario-vs-donkey-kong-e-later-gator.json) |
 | Mario vs. Donkey Kong-e: Revenge | 352401 | [352401-mario-vs-donkey-kong-e-revenge.json](./352401-mario-vs-donkey-kong-e-revenge.json) |
 | Mario vs. Donkey Kong: Tipping Stars | 8594 | [8594-mario-vs-donkey-kong-tipping-stars.json](./8594-mario-vs-donkey-kong-tipping-stars.json) |
+| Mario vs. Luigi Reloaded | 294793 | [294793-mario-vs-luigi-reloaded.json](./294793-mario-vs-luigi-reloaded.json) |
 | Mario vs. Obama! | 315045 | [315045-mario-vs-obama.json](./315045-mario-vs-obama.json) |
 | Mario vs. Tarzan | 315046 | [315046-mario-vs-tarzan.json](./315046-mario-vs-tarzan.json) |
 | Mario vs. Wario | 198475 | [198475-mario-vs-wario.json](./198475-mario-vs-wario.json) |
@@ -1580,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Early Years! Fun with Letters | 42502 | [42502-marios-early-years-fun-with-letters.json](./42502-marios-early-years-fun-with-letters.json) |
 | Mario's Early Years! Preschool Fun | 42500 | [42500-marios-early-years-preschool-fun.json](./42500-marios-early-years-preschool-fun.json) |
 | Mario's Face | 175970 | [175970-marios-face.json](./175970-marios-face.json) |
+| Mario's Final Adventure Wii | 294772 | [294772-marios-final-adventure-wii.json](./294772-marios-final-adventure-wii.json) |
 | Mario's Holiday | 270378 | [270378-marios-holiday.json](./270378-marios-holiday.json) |
 | Mario's House of STHU | 323747 | [323747-marios-house-of-sthu.json](./323747-marios-house-of-sthu.json) |
 | Mario's Keep Co-op | 198473 | [198473-marios-keep-co-op.json](./198473-marios-keep-co-op.json) |
@@ -4858,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
+| Minsho | 294805 | [294805-minsho.json](./294805-minsho.json) |
 | Minskies | 115631 | [115631-minskies.json](./115631-minskies.json) |
 | Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
@@ -5495,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molecule: A Chemical Challenge | 86584 | [86584-molecule-a-chemical-challenge.json](./86584-molecule-a-chemical-challenge.json) |
 | Molek-Syntez | 125208 | [125208-molek-syntez.json](./125208-molek-syntez.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
+| Molewack | 294815 | [294815-molewack.json](./294815-molewack.json) |
 | Moley Christmas | 59679 | [59679-moley-christmas.json](./59679-moley-christmas.json) |
 | Mollie | 180688 | [180688-mollie.json](./180688-mollie.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
@@ -5594,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Farm | 298647 | [298647-money-farm.json](./298647-money-farm.json) |
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
 | Money Go! | 246471 | [246471-money-go.json](./246471-money-go.json) |
+| Money Hog | 294806 | [294806-money-hog.json](./294806-money-hog.json) |
 | Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
 | Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
