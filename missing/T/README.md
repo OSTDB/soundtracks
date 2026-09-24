@@ -3254,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreaming City Chronicles: Quest for the Vanished World | 406302 | [406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json](./406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
 | The Dreamwalkers | 127221 | [127221-the-dreamwalkers.json](./127221-the-dreamwalkers.json) |
+| The Dresden Files Cooperative Card Game: Expansion 6 - Faithful Friends | 316217 | [316217-the-dresden-files-cooperative-card-game-expansion-6-faithful-friends.json](./316217-the-dresden-files-cooperative-card-game-expansion-6-faithful-friends.json) |
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Drugstore: Matsumoto Kiyoshi de Okaimono! | 280792 | [280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json](./280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json) |
