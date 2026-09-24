@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation - Shadows | 364581 | [364581-halo-infinite-operation-shadows.json](./364581-halo-infinite-operation-shadows.json) |
 | Halo Infinite: Operation - Snowbound | 335848 | [335848-halo-infinite-operation-snowbound.json](./335848-halo-infinite-operation-snowbound.json) |
 | Halo Infinite: Operation - Warpath | 367399 | [367399-halo-infinite-operation-warpath.json](./367399-halo-infinite-operation-warpath.json) |
+| Halo Infinite: Operation Haloween | 319155 | [319155-halo-infinite-operation-haloween.json](./319155-halo-infinite-operation-haloween.json) |
 | Halo Infinite: Operation Haloween II | 381717 | [381717-halo-infinite-operation-haloween-ii.json](./381717-halo-infinite-operation-haloween-ii.json) |
 | Halo Infinite: Operation Infinite | 381718 | [381718-halo-infinite-operation-infinite.json](./381718-halo-infinite-operation-infinite.json) |
 | Halo Infinte: Operation - Anvil | 335852 | [335852-halo-infinte-operation-anvil.json](./335852-halo-infinte-operation-anvil.json) |
@@ -3732,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror of the Deep | 30127 | [30127-horror-of-the-deep.json](./30127-horror-of-the-deep.json) |
 | Horror Office | 319232 | [319232-horror-office.json](./319232-horror-office.json) |
 | Horror Pinball Bundle | 126620 | [126620-horror-pinball-bundle.json](./126620-horror-pinball-bundle.json) |
+| Horror Prison | 319176 | [319176-horror-prison.json](./319176-horror-prison.json) |
 | Horror Rollercoaster | 105103 | [105103-horror-rollercoaster.json](./105103-horror-rollercoaster.json) |
 | Horror Room:Mystery mind story | 143092 | [143092-horror-room-mystery-mind-story.json](./143092-horror-room-mystery-mind-story.json) |
 | Horror Royale | 153965 | [153965-horror-royale.json](./153965-horror-royale.json) |
