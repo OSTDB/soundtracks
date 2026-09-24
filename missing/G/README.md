@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game With Balls | 356839 | [356839-game-with-balls.json](./356839-game-with-balls.json) |
 | Game with Car | 192895 | [192895-game-with-car.json](./192895-game-with-car.json) |
 | Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
+| Game-No-Watch Ball | 292075 | [292075-game-no-watch-ball.json](./292075-game-no-watch-ball.json) |
 | Game-Pac | 319582 | [319582-game-pac.json](./319582-game-pac.json) |
 | Game, Set & Match | 41002 | [41002-game-set-and-match.json](./41002-game-set-and-match.json) |
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
