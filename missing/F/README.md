@@ -3390,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Legends 2025: Diamond Edition | 399818 | [399818-football-legends-2025-diamond-edition.json](./399818-football-legends-2025-diamond-edition.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
 | Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
+| Football Life 2025 | 325576 | [325576-football-life-2025.json](./325576-football-life-2025.json) |
 | Football Life Simulator | 326426 | [326426-football-life-simulator.json](./326426-football-life-simulator.json) |
 | Football Maestro | 261531 | [261531-football-maestro.json](./261531-football-maestro.json) |
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
