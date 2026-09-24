@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
+| Dawntown | 301341 | [301341-dawntown.json](./301341-dawntown.json) |
 | Day and Night | 124009 | [124009-day-and-night.json](./124009-day-and-night.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
 | Day at the Office: Prologue | 315717 | [315717-day-at-the-office-prologue.json](./315717-day-at-the-office-prologue.json) |
@@ -6240,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DualForce Idle | 183551 | [183551-dualforce-idle.json](./183551-dualforce-idle.json) |
 | Dualikiwi | 297086 | [297086-dualikiwi.json](./297086-dualikiwi.json) |
 | Duality | 112786 | [112786-duality.json](./112786-duality.json) |
+| Duality | 301334 | [301334-duality.json](./301334-duality.json) |
 | Duality | 305337 | [305337-duality.json](./305337-duality.json) |
 | Duality Paradox | 385566 | [385566-duality-paradox.json](./385566-duality-paradox.json) |
 | Duality Shift | 373109 | [373109-duality-shift.json](./373109-duality-shift.json) |
@@ -6873,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dweep | 180148 | [180148-dweep.json](./180148-dweep.json) |
 | Dwell | 394155 | [394155-dwell.json](./394155-dwell.json) |
 | Dwelling | 309365 | [309365-dwelling.json](./309365-dwelling.json) |
+| Dwellink: War of the Nine | 301331 | [301331-dwellink-war-of-the-nine.json](./301331-dwellink-war-of-the-nine.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
 | DX Legends | 334319 | [334319-dx-legends.json](./334319-dx-legends.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
