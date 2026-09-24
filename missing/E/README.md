@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth: Revival | 215230 | [215230-earth-revival.json](./215230-earth-revival.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
+| Earthborne | 303054 | [303054-earthborne.json](./303054-earthborne.json) |
 | EarthBound 3 | 323282 | [323282-earthbound-3.json](./323282-earthbound-3.json) |
 | EarthBound 64 Experience | 238206 | [238206-earthbound-64-experience.json](./238206-earthbound-64-experience.json) |
 | EarthBound Beginnings | 11191 | [11191-earthbound-beginnings.json](./11191-earthbound-beginnings.json) |
@@ -343,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Steel | 277851 | [277851-echoes-of-steel.json](./277851-echoes-of-steel.json) |
 | Echoes of Stella | 403011 | [403011-echoes-of-stella.json](./403011-echoes-of-stella.json) |
 | Echoes of the Abyss | 290524 | [290524-echoes-of-the-abyss.json](./290524-echoes-of-the-abyss.json) |
+| Echoes of The Backrooms | 303053 | [303053-echoes-of-the-backrooms.json](./303053-echoes-of-the-backrooms.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
 | Echoes of the Forgotten | 251006 | [251006-echoes-of-the-forgotten.json](./251006-echoes-of-the-forgotten.json) |
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
@@ -2166,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
 | Etched Memories | 382765 | [382765-etched-memories.json](./382765-etched-memories.json) |
 | Eterium | 17102 | [17102-eterium.json](./17102-eterium.json) |
+| Eternal | 303056 | [303056-eternal.json](./303056-eternal.json) |
 | Eternal Affairs | 347767 | [347767-eternal-affairs.json](./347767-eternal-affairs.json) |
 | Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
 | Eternal Champions | 4477 | [4477-eternal-champions.json](./4477-eternal-champions.json) |
