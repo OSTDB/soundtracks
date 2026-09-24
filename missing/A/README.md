@@ -4310,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardilous | 183523 | [183523-ardilous.json](./183523-ardilous.json) |
 | Ardor 2 | 365175 | [365175-ardor-2.json](./365175-ardor-2.json) |
 | Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
+| Ardu-EZ Button | 333764 | [333764-ardu-ez-button.json](./333764-ardu-ez-button.json) |
 | Ardubullets | 381726 | [381726-ardubullets.json](./381726-ardubullets.json) |
 | Arduventure | 144324 | [144324-arduventure.json](./144324-arduventure.json) |
 | Ardy Lightfoot | 42736 | [42736-ardy-lightfoot.json](./42736-ardy-lightfoot.json) |
@@ -5324,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrojunk | 415320 | [415320-astrojunk.json](./415320-astrojunk.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
+| Astroloot | 333768 | [333768-astroloot.json](./333768-astroloot.json) |
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
 | Astromattech | 334320 | [334320-astromattech.json](./334320-astromattech.json) |
 | AstroMiner | 119546 | [119546-astrominer.json](./119546-astrominer.json) |
@@ -5481,6 +5483,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area: Atelier Plachta | 199509 | [199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json](./199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json) |
 | Atelier Totori: The Adventurer of Arland | 7276 | [7276-atelier-totori-the-adventurer-of-arland.json](./7276-atelier-totori-the-adventurer-of-arland.json) |
 | Atelier Totori: The Adventurer of Arland DX | 105030 | [105030-atelier-totori-the-adventurer-of-arland-dx.json](./105030-atelier-totori-the-adventurer-of-arland-dx.json) |
+| Atelier Yumia: "Blooming Heart" Costume for Nina | 333754 | [333754-atelier-yumia-blooming-heart-costume-for-nina.json](./333754-atelier-yumia-blooming-heart-costume-for-nina.json) |
+| Atelier Yumia: "Cute Kitty Swimsuit" Costume for Lenja | 333755 | [333755-atelier-yumia-cute-kitty-swimsuit-costume-for-lenja.json](./333755-atelier-yumia-cute-kitty-swimsuit-costume-for-lenja.json) |
+| Atelier Yumia: "Ebony Outlaw" Costume for Rutger | 333756 | [333756-atelier-yumia-ebony-outlaw-costume-for-rutger.json](./333756-atelier-yumia-ebony-outlaw-costume-for-rutger.json) |
+| Atelier Yumia: "Knight's Long-Distance Swimwear" Costume for Viktor | 333757 | [333757-atelier-yumia-knights-long-distance-swimwear-costume-for-viktor.json](./333757-atelier-yumia-knights-long-distance-swimwear-costume-for-viktor.json) |
+| Atelier Yumia: "Super Cute! Beach Memories" Costume for Isla | 333758 | [333758-atelier-yumia-super-cute-beach-memories-costume-for-isla.json](./333758-atelier-yumia-super-cute-beach-memories-costume-for-isla.json) |
+| Atelier Yumia: Aladiss Investigation Preparation Set | 333751 | [333751-atelier-yumia-aladiss-investigation-preparation-set.json](./333751-atelier-yumia-aladiss-investigation-preparation-set.json) |
 | Atelier Yumia: Fantasy Academy Costume Set | 356743 | [356743-atelier-yumia-fantasy-academy-costume-set.json](./356743-atelier-yumia-fantasy-academy-costume-set.json) |
 | Atelier Yumia: Idus Training Grounds | 363021 | [363021-atelier-yumia-idus-training-grounds.json](./363021-atelier-yumia-idus-training-grounds.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
