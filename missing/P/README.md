@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patch Tarot | 105775 | [105775-patch-tarot.json](./105775-patch-tarot.json) |
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
 | Patched World | 237481 | [237481-patched-world.json](./237481-patched-world.json) |
+| Patchouli's Adventure In Doll's House | 293707 | [293707-patchoulis-adventure-in-dolls-house.json](./293707-patchoulis-adventure-in-dolls-house.json) |
 | Patchwork Girl | 180242 | [180242-patchwork-girl.json](./180242-patchwork-girl.json) |
 | Patchwork Heroes | 42851 | [42851-patchwork-heroes.json](./42851-patchwork-heroes.json) |
 | Patchworkz!: X-maz! | 185696 | [185696-patchworkz-x-maz.json](./185696-patchworkz-x-maz.json) |
@@ -4321,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Political Mastery | 263053 | [263053-political-mastery.json](./263053-political-mastery.json) |
+| Political Punchers: 2024 Arena | 293701 | [293701-political-punchers-2024-arena.json](./293701-political-punchers-2024-arena.json) |
 | Politically Yours | 23798 | [23798-politically-yours.json](./23798-politically-yours.json) |
 | PolitiCats | 57365 | [57365-politicats.json](./57365-politicats.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
@@ -5663,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Capture: Legacy | 362486 | [362486-project-capture-legacy.json](./362486-project-capture-legacy.json) |
 | Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
 | Project CARS 2: Deluxe Edition | 53479 | [53479-project-cars-2-deluxe-edition.json](./53479-project-cars-2-deluxe-edition.json) |
+| Project Cars 3: Season Pass | 293725 | [293725-project-cars-3-season-pass.json](./293725-project-cars-3-season-pass.json) |
 | Project CARS: Aston Martin Track Expansion | 120193 | [120193-project-cars-aston-martin-track-expansion.json](./120193-project-cars-aston-martin-track-expansion.json) |
 | Project CARS: Audi Ruapuna Speedway Expansion | 120196 | [120196-project-cars-audi-ruapuna-speedway-expansion.json](./120196-project-cars-audi-ruapuna-speedway-expansion.json) |
 | Project CARS: Classic Lotus Track Expansion | 120191 | [120191-project-cars-classic-lotus-track-expansion.json](./120191-project-cars-classic-lotus-track-expansion.json) |
