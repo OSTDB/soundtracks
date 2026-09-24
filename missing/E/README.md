@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
+| Evoland Classic | 315652 | [315652-evoland-classic.json](./315652-evoland-classic.json) |
 | Evoland Legendary Edition | 114910 | [114910-evoland-legendary-edition.json](./114910-evoland-legendary-edition.json) |
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
 | Evolings | 181255 | [181255-evolings.json](./181255-evolings.json) |
