@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Install Girl | 337177 | [337177-pc-install-girl.json](./337177-pc-install-girl.json) |
 | PC Jumps | 341587 | [341587-pc-jumps.json](./341587-pc-jumps.json) |
 | PC Kid 3 | 37721 | [37721-pc-kid-3.json](./37721-pc-kid-3.json) |
+| PC Mus | 327335 | [327335-pc-mus.json](./327335-pc-mus.json) |
 | PC Pool | 86039 | [86039-pc-pool.json](./86039-pc-pool.json) |
 | PC Selección Española de Fútbol Eurocopa '96 | 84224 | [84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json](./84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json) |
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
@@ -4808,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powercity 9000 | 26634 | [26634-powercity-9000.json](./26634-powercity-9000.json) |
 | Powercut, Inc. | 110151 | [110151-powercut-inc.json](./110151-powercut-inc.json) |
 | Powered Platformer Bundle | 314861 | [314861-powered-platformer-bundle.json](./314861-powered-platformer-bundle.json) |
+| Powerful Wind, Slicked-back Cabbages | 327360 | [327360-powerful-wind-slicked-back-cabbages.json](./327360-powerful-wind-slicked-back-cabbages.json) |
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
 | Powerglove | 183459 | [183459-powerglove.json](./183459-powerglove.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
@@ -5708,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Toon Tanks | 132249 | [132249-project-toon-tanks.json](./132249-project-toon-tanks.json) |
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
 | Project Trek | 193941 | [193941-project-trek.json](./193941-project-trek.json) |
+| Project TurboBlast | 327357 | [327357-project-turboblast.json](./327357-project-turboblast.json) |
 | Project Uber | 201235 | [201235-project-uber.json](./201235-project-uber.json) |
 | Project Unirah | 184528 | [184528-project-unirah.json](./184528-project-unirah.json) |
 | Project Unknown | 244240 | [244240-project-unknown.json](./244240-project-unknown.json) |
