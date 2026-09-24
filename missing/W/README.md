@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Vermintide 2 - Necromancer | 262658 | [262658-warhammer-vermintide-2-necromancer.json](./262658-warhammer-vermintide-2-necromancer.json) |
 | Warhammer: Vermintide 2 - Premium Edition | 119075 | [119075-warhammer-vermintide-2-premium-edition.json](./119075-warhammer-vermintide-2-premium-edition.json) |
 | Warhammer: Vermintide 2 - Shadows over Bögenhafen | 116130 | [116130-warhammer-vermintide-2-shadows-over-bogenhafen.json](./116130-warhammer-vermintide-2-shadows-over-bogenhafen.json) |
+| Warhammer: Vermintide 2 - Versus | 314400 | [314400-warhammer-vermintide-2-versus.json](./314400-warhammer-vermintide-2-versus.json) |
 | Warhammer: Vermintide 2 - Winds of Magic | 115671 | [115671-warhammer-vermintide-2-winds-of-magic.json](./115671-warhammer-vermintide-2-winds-of-magic.json) |
 | Warhaos | 161406 | [161406-warhaos.json](./161406-warhaos.json) |
 | Warhawk | 36532 | [36532-warhawk.json](./36532-warhawk.json) |
@@ -748,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors & Mages | 173270 | [173270-warriors-and-mages.json](./173270-warriors-and-mages.json) |
 | Warriors All-Stars: Treasure Box | 212334 | [212334-warriors-all-stars-treasure-box.json](./212334-warriors-all-stars-treasure-box.json) |
 | Warriors Match Connect Classic | 235231 | [235231-warriors-match-connect-classic.json](./235231-warriors-match-connect-classic.json) |
+| Warriors of Nova Thera | 314443 | [314443-warriors-of-nova-thera.json](./314443-warriors-of-nova-thera.json) |
 | Warriors of Ragnarök | 123578 | [123578-warriors-of-ragnarok.json](./123578-warriors-of-ragnarok.json) |
 | Warriors of Releyne | 12820 | [12820-warriors-of-releyne.json](./12820-warriors-of-releyne.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
@@ -2072,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind's Poem | 325065 | [325065-winds-poem.json](./325065-winds-poem.json) |
 | Windah Horror Adventure | 330346 | [330346-windah-horror-adventure.json](./330346-windah-horror-adventure.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
+| WinDepth | 314455 | [314455-windepth.json](./314455-windepth.json) |
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
