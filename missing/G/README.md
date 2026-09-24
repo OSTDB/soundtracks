@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Command Echo Squad SE | 17156 | [17156-galactic-command-echo-squad-se.json](./17156-galactic-command-echo-squad-se.json) |
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
+| Galactic Dating: Harem in Space Station | 292635 | [292635-galactic-dating-harem-in-space-station.json](./292635-galactic-dating-harem-in-space-station.json) |
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Driver | 88209 | [88209-galactic-driver.json](./88209-galactic-driver.json) |
@@ -783,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas vs. Dwarves | 185112 | [185112-gas-vs-dwarves.json](./185112-gas-vs-dwarves.json) |
 | GasCraft | 255157 | [255157-gascraft.json](./255157-gascraft.json) |
 | Gash | 126421 | [126421-gash.json](./126421-gash.json) |
+| Gash And the Ultimate Boner | 292613 | [292613-gash-and-the-ultimate-boner.json](./292613-gash-and-the-ultimate-boner.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gaslamp Cases 6: Haunted Waters | 294732 | [294732-gaslamp-cases-6-haunted-waters.json](./294732-gaslamp-cases-6-haunted-waters.json) |
 | Gaslamp Cases 7: The Faith of Rasputin | 294735 | [294735-gaslamp-cases-7-the-faith-of-rasputin.json](./294735-gaslamp-cases-7-the-faith-of-rasputin.json) |
@@ -2327,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold of Skulls | 303004 | [303004-gold-of-skulls.json](./303004-gold-of-skulls.json) |
 | Gold of the Americas: The Conquest of the New World | 12119 | [12119-gold-of-the-americas-the-conquest-of-the-new-world.json](./12119-gold-of-the-americas-the-conquest-of-the-new-world.json) |
 | Gold of the Incas Solitaire | 294741 | [294741-gold-of-the-incas-solitaire.json](./294741-gold-of-the-incas-solitaire.json) |
+| Gold Picker | 292627 | [292627-gold-picker.json](./292627-gold-picker.json) |
 | Gold Runner | 146816 | [146816-gold-runner.json](./146816-gold-runner.json) |
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
 | Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
@@ -2733,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoVenture Micro Business | 31865 | [31865-goventure-micro-business.json](./31865-goventure-micro-business.json) |
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
+| Governor of the West | 292632 | [292632-governor-of-the-west.json](./292632-governor-of-the-west.json) |
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
 | GP Club Life Motorsports Team | 315650 | [315650-gp-club-life-motorsports-team.json](./315650-gp-club-life-motorsports-team.json) |
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
@@ -2882,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
 | Grand Slam Tennis | 4894 | [4894-grand-slam-tennis.json](./4894-grand-slam-tennis.json) |
 | Grand Slam Tennis 2 | 7002 | [7002-grand-slam-tennis-2.json](./7002-grand-slam-tennis-2.json) |
+| Grand Soul Saga | 292629 | [292629-grand-soul-saga.json](./292629-grand-soul-saga.json) |
 | Grand Story | 182554 | [182554-grand-story.json](./182554-grand-story.json) |
 | Grand Strokers | 240911 | [240911-grand-strokers.json](./240911-grand-strokers.json) |
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
