@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telmari | 265615 | [265615-telmari.json](./265615-telmari.json) |
 | Telocation: Gemini | 145455 | [145455-telocation-gemini.json](./145455-telocation-gemini.json) |
 | Telomere | 148505 | [148505-telomere.json](./148505-telomere.json) |
+| Telomeria | 323268 | [323268-telomeria.json](./323268-telomeria.json) |
 | Telos Legacy | 229187 | [229187-telos-legacy.json](./229187-telos-legacy.json) |
 | Telstar Double Value Games: Pit-Fighter/Wrestle War | 64094 | [64094-telstar-double-value-games-pit-fighter-wrestle-war.json](./64094-telstar-double-value-games-pit-fighter-wrestle-war.json) |
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of The Black Hawk | 274575 | [274575-the-adventures-of-the-black-hawk.json](./274575-the-adventures-of-the-black-hawk.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
+| The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
 | The Afterwoods | 72352 | [72352-the-afterwoods.json](./72352-the-afterwoods.json) |
@@ -3732,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Garden of Hermeneus | 347349 | [347349-the-garden-of-hermeneus.json](./347349-the-garden-of-hermeneus.json) |
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
+| The Gate | 323315 | [323315-the-gate.json](./323315-the-gate.json) |
 | The Gate | 35727 | [35727-the-gate.json](./35727-the-gate.json) |
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
 | The Gatekeeper of Scarlet's Mansion | 348237 | [348237-the-gatekeeper-of-scarlets-mansion.json](./348237-the-gatekeeper-of-scarlets-mansion.json) |
@@ -4685,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
 | The Legend of Ninja | 147947 | [147947-the-legend-of-ninja.json](./147947-the-legend-of-ninja.json) |
 | The Legend of Peach | 198374 | [198374-the-legend-of-peach.json](./198374-the-legend-of-peach.json) |
+| The Legend of Peach: Insert Random Title There | 323270 | [323270-the-legend-of-peach-insert-random-title-there.json](./323270-the-legend-of-peach-insert-random-title-there.json) |
 | The Legend of Peks | 262449 | [262449-the-legend-of-peks.json](./262449-the-legend-of-peks.json) |
 | The Legend Of Perchta | 290003 | [290003-the-legend-of-perchta.json](./290003-the-legend-of-perchta.json) |
 | The Legend of Pirates Online | 140587 | [140587-the-legend-of-pirates-online.json](./140587-the-legend-of-pirates-online.json) |
@@ -4728,9 +4732,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Breath of the Wild Multiplayer | 210652 | [210652-the-legend-of-zelda-breath-of-the-wild-multiplayer.json](./210652-the-legend-of-zelda-breath-of-the-wild-multiplayer.json) |
 | The Legend of Zelda: Breath of the Wild Randomizer | 240878 | [240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json](./240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json) |
 | The Legend of Zelda: Child Quest | 346598 | [346598-the-legend-of-zelda-child-quest.json](./346598-the-legend-of-zelda-child-quest.json) |
+| The Legend of Zelda: Chiming Bells | 323273 | [323273-the-legend-of-zelda-chiming-bells.json](./323273-the-legend-of-zelda-chiming-bells.json) |
 | The Legend of Zelda: Echoes of Aurelia | 323202 | [323202-the-legend-of-zelda-echoes-of-aurelia.json](./323202-the-legend-of-zelda-echoes-of-aurelia.json) |
 | The Legend of Zelda: Echoes of Wisdom | 306149 | [306149-the-legend-of-zelda-echoes-of-wisdom.json](./306149-the-legend-of-zelda-echoes-of-wisdom.json) |
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
+| The Legend of Zelda: Four Swords Online | 323278 | [323278-the-legend-of-zelda-four-swords-online.json](./323278-the-legend-of-zelda-four-swords-online.json) |
 | The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Hall of the Dead | 323367 | [323367-the-legend-of-zelda-hall-of-the-dead.json](./323367-the-legend-of-zelda-hall-of-the-dead.json) |
@@ -4741,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Link's Awakening Redux | 219081 | [219081-the-legend-of-zelda-links-awakening-redux.json](./219081-the-legend-of-zelda-links-awakening-redux.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
 | The Legend of Zelda: Majora's Mask 3D | 8593 | [8593-the-legend-of-zelda-majoras-mask-3d.json](./8593-the-legend-of-zelda-majoras-mask-3d.json) |
+| The Legend of Zelda: Mask of the Gods | 323280 | [323280-the-legend-of-zelda-mask-of-the-gods.json](./323280-the-legend-of-zelda-mask-of-the-gods.json) |
 | The Legend of Zelda: Mercuris' Chest | 243269 | [243269-the-legend-of-zelda-mercuris-chest.json](./243269-the-legend-of-zelda-mercuris-chest.json) |
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
@@ -4764,6 +4771,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Wind Waker HD Randomizer | 332219 | [332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json](./332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json) |
 | The Legend of Zelda: The Wind Waker Multiplayer | 210653 | [210653-the-legend-of-zelda-the-wind-waker-multiplayer.json](./210653-the-legend-of-zelda-the-wind-waker-multiplayer.json) |
 | The Legend of Zelda: Third Quest | 150078 | [150078-the-legend-of-zelda-third-quest.json](./150078-the-legend-of-zelda-third-quest.json) |
+| The Legend of Zelda: Threads of Despair | 323274 | [323274-the-legend-of-zelda-threads-of-despair.json](./323274-the-legend-of-zelda-threads-of-despair.json) |
+| The Legend of Zelda: Time Walker | 323277 | [323277-the-legend-of-zelda-time-walker.json](./323277-the-legend-of-zelda-time-walker.json) |
 | The Legend of Zelda: Tri Force Heroes | 11194 | [11194-the-legend-of-zelda-tri-force-heroes.json](./11194-the-legend-of-zelda-tri-force-heroes.json) |
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
 | The Legend of Zelda: Unnamed Quest | 322780 | [322780-the-legend-of-zelda-unnamed-quest.json](./322780-the-legend-of-zelda-unnamed-quest.json) |
@@ -4938,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Cases of Sherlock Holmes 2 | 10979 | [10979-the-lost-cases-of-sherlock-holmes-2.json](./10979-the-lost-cases-of-sherlock-holmes-2.json) |
 | The Lost Caves | 179169 | [179169-the-lost-caves.json](./179169-the-lost-caves.json) |
 | The Lost Child | 36535 | [36535-the-lost-child.json](./36535-the-lost-child.json) |
+| The Lost City | 323286 | [323286-the-lost-city.json](./323286-the-lost-city.json) |
 | The Lost City of Malathedra | 35670 | [35670-the-lost-city-of-malathedra.json](./35670-the-lost-city-of-malathedra.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
@@ -8826,6 +8836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
 | Titan A.E. | 198944 | [198944-titan-a-e.json](./198944-titan-a-e.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
+| Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
 | Titan Outpost | 113507 | [113507-titan-outpost.json](./113507-titan-outpost.json) |
 | Titan Quest Gold | 177057 | [177057-titan-quest-gold.json](./177057-titan-quest-gold.json) |
 | Titan Quest II | 261146 | [261146-titan-quest-ii.json](./261146-titan-quest-ii.json) |
