@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormasight: The Seven Mysteries of Honjo | 236694 | [236694-paranormasight-the-seven-mysteries-of-honjo.json](./236694-paranormasight-the-seven-mysteries-of-honjo.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
+| Pararecords | 325020 | [325020-pararecords.json](./325020-pararecords.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Parasensor | 347911 | [347911-parasensor.json](./347911-parasensor.json) |
 | Parashotical Arktivibeatings | 235189 | [235189-parashotical-arktivibeatings.json](./235189-parashotical-arktivibeatings.json) |
