@@ -4582,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Express | 7650 | [7650-the-last-express.json](./7650-the-last-express.json) |
 | The Last Express: Gold Edition | 30235 | [30235-the-last-express-gold-edition.json](./30235-the-last-express-gold-edition.json) |
 | The Last Faith: Awakened Ancients | 376704 | [376704-the-last-faith-awakened-ancients.json](./376704-the-last-faith-awakened-ancients.json) |
+| The Last Faith: The Nycrux Edition | 291539 | [291539-the-last-faith-the-nycrux-edition.json](./291539-the-last-faith-the-nycrux-edition.json) |
 | The Last Farmer | 298118 | [298118-the-last-farmer.json](./298118-the-last-farmer.json) |
 | The Last Federation Collection | 51924 | [51924-the-last-federation-collection.json](./51924-the-last-federation-collection.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
@@ -10244,6 +10245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Guns | 16880 | [16880-tower-of-guns.json](./16880-tower-of-guns.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
+| Tower Of Lies | 291520 | [291520-tower-of-lies.json](./291520-tower-of-lies.json) |
 | Tower of Minak | 299842 | [299842-tower-of-minak.json](./299842-tower-of-minak.json) |
 | Tower of Modula | 340542 | [340542-tower-of-modula.json](./340542-tower-of-modula.json) |
 | Tower of Myraglen | 57381 | [57381-tower-of-myraglen.json](./57381-tower-of-myraglen.json) |
