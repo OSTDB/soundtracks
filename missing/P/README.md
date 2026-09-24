@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint on Paint TD | 373193 | [373193-paint-on-paint-td.json](./373193-paint-on-paint-td.json) |
 | Paint Park Plus | 119585 | [119585-paint-park-plus.json](./119585-paint-park-plus.json) |
 | Paint Rider | 179187 | [179187-paint-rider.json](./179187-paint-rider.json) |
+| Paint Rings | 290462 | [290462-paint-rings.json](./290462-paint-rings.json) |
 | Paint School | 139374 | [139374-paint-school.json](./139374-paint-school.json) |
 | Paint School II | 46571 | [46571-paint-school-ii.json](./46571-paint-school-ii.json) |
 | Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
@@ -802,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Arena | 105134 | [105134-parallel-arena.json](./105134-parallel-arena.json) |
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
 | Parallel Pixel | 103422 | [103422-parallel-pixel.json](./103422-parallel-pixel.json) |
+| Parallel Plague: Good Old Days | 290487 | [290487-parallel-plague-good-old-days.json](./290487-parallel-plague-good-old-days.json) |
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
 | Parallelia | 148890 | [148890-parallelia.json](./148890-parallelia.json) |
@@ -4989,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
 | PowerSlave: Exhumed | 165054 | [165054-powerslave-exhumed.json](./165054-powerslave-exhumed.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
+| Powerup Humans | 290488 | [290488-powerup-humans.json](./290488-powerup-humans.json) |
 | PowerWash Simulator | 138590 | [138590-powerwash-simulator.json](./138590-powerwash-simulator.json) |
 | PowerWash Simulator | 400248 | [400248-powerwash-simulator.json](./400248-powerwash-simulator.json) |
 | PowerWash Simulator 2 | 335439 | [335439-powerwash-simulator-2.json](./335439-powerwash-simulator-2.json) |
@@ -5301,6 +5304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Party | 394498 | [394498-princess-party.json](./394498-princess-party.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
 | Princess Piano | 174230 | [174230-princess-piano.json](./174230-princess-piano.json) |
+| Princess Polly | 290499 | [290499-princess-polly.json](./290499-princess-polly.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
 | Princess Princess: Himetachi no Abunai Houkago | 72671 | [72671-princess-princess-himetachi-no-abunai-houkago.json](./72671-princess-princess-himetachi-no-abunai-houkago.json) |
 | Princess Principal: Game of Mission | 70907 | [70907-princess-principal-game-of-mission.json](./70907-princess-principal-game-of-mission.json) |
