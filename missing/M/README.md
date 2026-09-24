@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Iron Man VR | 116585 | [116585-marvels-iron-man-vr.json](./116585-marvels-iron-man-vr.json) |
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
 | Marvel's Midnight Suns: Redemption | 239379 | [239379-marvels-midnight-suns-redemption.json](./239379-marvels-midnight-suns-redemption.json) |
+| Marvel's Midnight Suns: Season Pass | 293722 | [293722-marvels-midnight-suns-season-pass.json](./293722-marvels-midnight-suns-season-pass.json) |
 | Marvel's Midnight Suns: The Good, The Bad, and The Undead | 232424 | [232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json](./232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json) |
 | Marvel's Midnight Suns: The Hunger | 242353 | [242353-marvels-midnight-suns-the-hunger.json](./242353-marvels-midnight-suns-the-hunger.json) |
 | Marvel's Moon Girl and Devil Dinosaur: Moon Girl Moxie! | 306670 | [306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json](./306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json) |
@@ -7429,6 +7430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My evil magician boss suddenly loves me?! | 385053 | [385053-my-evil-magician-boss-suddenly-loves-me.json](./385053-my-evil-magician-boss-suddenly-loves-me.json) |
 | My Ex is a Ghost | 132612 | [132612-my-ex-is-a-ghost.json](./132612-my-ex-is-a-ghost.json) |
 | My Exercise | 138033 | [138033-my-exercise.json](./138033-my-exercise.json) |
+| My Exit | 293687 | [293687-my-exit.json](./293687-my-exit.json) |
 | My Exotic Farm | 66391 | [66391-my-exotic-farm.json](./66391-my-exotic-farm.json) |
 | My Exotic Farm Australia | 65751 | [65751-my-exotic-farm-australia.json](./65751-my-exotic-farm-australia.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
