@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of the Ants | 237276 | [237276-empire-of-the-ants.json](./237276-empire-of-the-ants.json) |
 | Empire of the Ants | 47102 | [47102-empire-of-the-ants.json](./47102-empire-of-the-ants.json) |
 | Empire of the Ants: Digital Deluxe Edition | 320754 | [320754-empire-of-the-ants-digital-deluxe-edition.json](./320754-empire-of-the-ants-digital-deluxe-edition.json) |
+| Empire of the Ants: Limited Edition | 291541 | [291541-empire-of-the-ants-limited-edition.json](./291541-empire-of-the-ants-limited-edition.json) |
 | Empire of the Fallen Steel | 37388 | [37388-empire-of-the-fallen-steel.json](./37388-empire-of-the-fallen-steel.json) |
 | Empire of Vice: Chicago | 388258 | [388258-empire-of-vice-chicago.json](./388258-empire-of-vice-chicago.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
@@ -2908,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition: Crushing Depth | 276293 | [276293-expedition-crushing-depth.json](./276293-expedition-crushing-depth.json) |
 | Expedition: Into Darkness | 324300 | [324300-expedition-into-darkness.json](./324300-expedition-into-darkness.json) |
 | Expeditions | 363013 | [363013-expeditions.json](./363013-expeditions.json) |
+| Expeditions: A MudRunner Game - Day One Edition | 291542 | [291542-expeditions-a-mudrunner-game-day-one-edition.json](./291542-expeditions-a-mudrunner-game-day-one-edition.json) |
 | Expeditions: A MudRunner Game - Season 1: Cave Odyssey | 397701 | [397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json](./397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json) |
 | Expeditions: A MudRunner Game - Season 2: White Dawn | 397703 | [397703-expeditions-a-mudrunner-game-season-2-white-dawn.json](./397703-expeditions-a-mudrunner-game-season-2-white-dawn.json) |
 | Expeditions: A MudRunner Game - Season 3: Icy Shores | 397702 | [397702-expeditions-a-mudrunner-game-season-3-icy-shores.json](./397702-expeditions-a-mudrunner-game-season-3-icy-shores.json) |
@@ -2983,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinction Eclipse | 201687 | [201687-extinction-eclipse.json](./201687-extinction-eclipse.json) |
 | Extinction-MiniJeux | 394883 | [394883-extinction-minijeux.json](./394883-extinction-minijeux.json) |
 | Extinction: Deluxe Edition | 85473 | [85473-extinction-deluxe-edition.json](./85473-extinction-deluxe-edition.json) |
+| Extirpate | 291532 | [291532-extirpate.json](./291532-extirpate.json) |
 | Extra Evolution: L’Era del Primordiale | 342778 | [342778-extra-evolution-l-era-del-primordiale.json](./342778-extra-evolution-l-era-del-primordiale.json) |
 | Extra Extra Poison | 369578 | [369578-extra-extra-poison.json](./369578-extra-extra-poison.json) |
 | Extra Innings | 42558 | [42558-extra-innings.json](./42558-extra-innings.json) |
