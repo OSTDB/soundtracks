@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Up | 303111 | [303111-pair-up.json](./303111-pair-up.json) |
 | Pair Up | 359395 | [359395-pair-up.json](./359395-pair-up.json) |
 | Pairs | 91372 | [91372-pairs.json](./91372-pairs.json) |
+| Pairs & Perils | 315042 | [315042-pairs-and-perils.json](./315042-pairs-and-perils.json) |
 | Paisible Après-midi au Fil des Toiles | 178023 | [178023-paisible-apres-midi-au-fil-des-toiles.json](./178023-paisible-apres-midi-au-fil-des-toiles.json) |
 | Paisible Soirée au Fil d'Étoiles | 178514 | [178514-paisible-soiree-au-fil-detoiles.json](./178514-paisible-soiree-au-fil-detoiles.json) |
 | Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
@@ -589,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
 | Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
 | Paper Mario | 323287 | [323287-paper-mario.json](./323287-paper-mario.json) |
+| Paper Mario 64K | 315016 | [315016-paper-mario-64k.json](./315016-paper-mario-64k.json) |
 | Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario Multiplayer | 159325 | [159325-paper-mario-multiplayer.json](./159325-paper-mario-multiplayer.json) |
 | Paper Mario Randomizer | 304045 | [304045-paper-mario-randomizer.json](./304045-paper-mario-randomizer.json) |
@@ -4833,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Stakes | 301385 | [301385-power-stakes.json](./301385-power-stakes.json) |
 | Power Stakes 2 | 301386 | [301386-power-stakes-2.json](./301386-power-stakes-2.json) |
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
+| Power Star Unleashed | 315024 | [315024-power-star-unleashed.json](./315024-power-star-unleashed.json) |
 | Power Structure | 271318 | [271318-power-structure.json](./271318-power-structure.json) |
 | Power Struggle | 129005 | [129005-power-struggle.json](./129005-power-struggle.json) |
 | Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
@@ -5070,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
 | Primal Frost | 384059 | [384059-primal-frost.json](./384059-primal-frost.json) |
 | Primal Hearts | 159312 | [159312-primal-hearts.json](./159312-primal-hearts.json) |
+| Primal Hearts | 315041 | [315041-primal-hearts.json](./315041-primal-hearts.json) |
 | Primal Hearts 2 | 159313 | [159313-primal-hearts-2.json](./159313-primal-hearts-2.json) |
 | Primal Hunger | 211271 | [211271-primal-hunger.json](./211271-primal-hunger.json) |
 | Primal Image Vol.1 | 67313 | [67313-primal-image-vol-1.json](./67313-primal-image-vol-1.json) |
@@ -5584,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Demigod | 153945 | [153945-project-demigod.json](./153945-project-demigod.json) |
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
 | Project Downfall | 113813 | [113813-project-downfall.json](./113813-project-downfall.json) |
+| Project Dream 64 | 315029 | [315029-project-dream-64.json](./315029-project-dream-64.json) |
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
 | Project Dunk | 122328 | [122328-project-dunk.json](./122328-project-dunk.json) |
 | Project DX | 174821 | [174821-project-dx.json](./174821-project-dx.json) |
@@ -5605,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Fiend | 346247 | [346247-project-fiend.json](./346247-project-fiend.json) |
 | Project Fireball | 258458 | [258458-project-fireball.json](./258458-project-fireball.json) |
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
+| Project Freedom | 315023 | [315023-project-freedom.json](./315023-project-freedom.json) |
 | Project Genesis | 114409 | [114409-project-genesis.json](./114409-project-genesis.json) |
 | Project Genom | 24907 | [24907-project-genom.json](./24907-project-genom.json) |
 | Project GGG | 273623 | [273623-project-ggg.json](./273623-project-ggg.json) |
@@ -5704,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ravensdale | 63335 | [63335-project-ravensdale.json](./63335-project-ravensdale.json) |
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
+| Project Reality | 315026 | [315026-project-reality.json](./315026-project-reality.json) |
 | Project Reality 2 | 2942 | [2942-project-reality-2.json](./2942-project-reality-2.json) |
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
