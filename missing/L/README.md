@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserpitium | 249307 | [249307-laserpitium.json](./249307-laserpitium.json) |
 | LaserReimu | 324302 | [324302-laserreimu.json](./324302-laserreimu.json) |
 | LaserShotz | 159890 | [159890-lasershotz.json](./159890-lasershotz.json) |
+| Laserstorm | 336689 | [336689-laserstorm.json](./336689-laserstorm.json) |
 | Lasertag | 397898 | [397898-lasertag.json](./397898-lasertag.json) |
 | Laservasion | 121454 | [121454-laservasion.json](./121454-laservasion.json) |
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
