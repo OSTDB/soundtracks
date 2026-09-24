@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Adventure | 346261 | [346261-echoes-of-adventure.json](./346261-echoes-of-adventure.json) |
 | Echoes of Agony | 387354 | [387354-echoes-of-agony.json](./387354-echoes-of-agony.json) |
 | Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
+| Echoes Of Despair | 290494 | [290494-echoes-of-despair.json](./290494-echoes-of-despair.json) |
 | Echoes of Eclipse | 389399 | [389399-echoes-of-eclipse.json](./389399-echoes-of-eclipse.json) |
 | Echoes of Egypt | 301997 | [301997-echoes-of-egypt.json](./301997-echoes-of-egypt.json) |
 | Echoes of Eldoria | 333541 | [333541-echoes-of-eldoria.json](./333541-echoes-of-eldoria.json) |
@@ -1482,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | English Civil War | 129580 | [129580-english-civil-war.json](./129580-english-civil-war.json) |
 | English Country Tune | 9699 | [9699-english-country-tune.json](./9699-english-country-tune.json) |
 | English of the Dead | 73014 | [73014-english-of-the-dead.json](./73014-english-of-the-dead.json) |
+| English Tracing Book | 290463 | [290463-english-tracing-book.json](./290463-english-tracing-book.json) |
 | English with Rayman | 193344 | [193344-english-with-rayman.json](./193344-english-with-rayman.json) |
 | Engraven | 309460 | [309460-engraven.json](./309460-engraven.json) |
 | Engraving | 269025 | [269025-engraving.json](./269025-engraving.json) |
