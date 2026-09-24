@@ -5907,6 +5907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Racedrome | 54704 | [54704-avatar-racedrome.json](./54704-avatar-racedrome.json) |
 | Avatar: Frontiers of Pandora - From the Ashes | 371949 | [371949-avatar-frontiers-of-pandora-from-the-ashes.json](./371949-avatar-frontiers-of-pandora-from-the-ashes.json) |
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
+| Avatar: Frontiers of Pandora - Sky Rider Starter Pack | 332042 | [332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json](./332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json) |
 | Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
 | Avatar: The Last Airbender | 210487 | [210487-avatar-the-last-airbender.json](./210487-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender - Earth Rumble | 406777 | [406777-avatar-the-last-airbender-earth-rumble.json](./406777-avatar-the-last-airbender-earth-rumble.json) |
