@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Meteor | 28155 | [28155-rainbow-meteor.json](./28155-rainbow-meteor.json) |
 | Rainbow Mix | 210744 | [210744-rainbow-mix.json](./210744-rainbow-mix.json) |
 | Rainbow Monster: Blue Survivor | 223976 | [223976-rainbow-monster-blue-survivor.json](./223976-rainbow-monster-blue-survivor.json) |
+| Rainbow Moon + Rainbow Skies Strategy RPG Bundle | 287167 | [287167-rainbow-moon-rainbow-skies-strategy-rpg-bundle.json](./287167-rainbow-moon-rainbow-skies-strategy-rpg-bundle.json) |
 | Rainbow Mosaics 11: Helper's Valentine | 337618 | [337618-rainbow-mosaics-11-helpers-valentine.json](./337618-rainbow-mosaics-11-helpers-valentine.json) |
 | Rainbow Mosaics 12: Easter Helper | 294458 | [294458-rainbow-mosaics-12-easter-helper.json](./294458-rainbow-mosaics-12-easter-helper.json) |
 | Rainbow Mosaics 13: Detective Helper | 294686 | [294686-rainbow-mosaics-13-detective-helper.json](./294686-rainbow-mosaics-13-detective-helper.json) |
