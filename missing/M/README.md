@@ -6873,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
 | Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
 | Mukti | 106382 | [106382-mukti.json](./106382-mukti.json) |
+| Muku wo Saku | 308877 | [308877-muku-wo-saku.json](./308877-muku-wo-saku.json) |
 | Mulan 2125 | 372883 | [372883-mulan-2125.json](./372883-mulan-2125.json) |
 | MULE Returns | 91151 | [91151-mule-returns.json](./91151-mule-returns.json) |
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
