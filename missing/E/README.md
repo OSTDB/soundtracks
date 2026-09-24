@@ -2772,10 +2772,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
 | Exophobia: Fire & Ice Expedition | 369779 | [369779-exophobia-fire-and-ice-expedition.json](./369779-exophobia-fire-and-ice-expedition.json) |
+| Exoprimal: Barrage - Volcano | 332615 | [332615-exoprimal-barrage-volcano.json](./332615-exoprimal-barrage-volcano.json) |
 | Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
 | Exoprimal: Deadeye QB-W Set | 256547 | [256547-exoprimal-deadeye-qb-w-set.json](./256547-exoprimal-deadeye-qb-w-set.json) |
 | Exoprimal: Egret (Skywave) | 409072 | [409072-exoprimal-egret-skywave.json](./409072-exoprimal-egret-skywave.json) |
 | Exoprimal: Famitsu Decal | 409073 | [409073-exoprimal-famitsu-decal.json](./409073-exoprimal-famitsu-decal.json) |
+| Exoprimal: Krieger - Patrol Car | 332616 | [332616-exoprimal-krieger-patrol-car.json](./332616-exoprimal-krieger-patrol-car.json) |
 | Exoprimal: Krieger Alpha Tin Machine Set | 298328 | [298328-exoprimal-krieger-alpha-tin-machine-set.json](./298328-exoprimal-krieger-alpha-tin-machine-set.json) |
 | Exoprimal: Krieger Mega Man Set | 298332 | [298332-exoprimal-krieger-mega-man-set.json](./298332-exoprimal-krieger-mega-man-set.json) |
 | Exoprimal: Murasame Alpha Gladiator Set | 298331 | [298331-exoprimal-murasame-alpha-gladiator-set.json](./298331-exoprimal-murasame-alpha-gladiator-set.json) |
