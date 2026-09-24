@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T01:47:54.859Z",
-  "total_missing": 113927,
+  "generated_at": "2026-09-24T02:03:04.686Z",
+  "total_missing": 113977,
   "games": [
     {
       "igdb_id": 176875,
@@ -34651,6 +34651,11 @@
       "igdb_id": 319229,
       "game_name": "Avatar: Frontiers of Pandora - Secrets of the Spire",
       "file": "missing/A/319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json"
+    },
+    {
+      "igdb_id": 332042,
+      "game_name": "Avatar: Frontiers of Pandora - Sky Rider Starter Pack",
+      "file": "missing/A/332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json"
     },
     {
       "igdb_id": 378930,
@@ -203698,6 +203703,11 @@
       "file": "missing/H/49588-hamster-paradise-pure-heart.json"
     },
     {
+      "igdb_id": 332019,
+      "game_name": "Hamster Playground: Fun & Challenge Games Pack",
+      "file": "missing/H/332019-hamster-playground-fun-and-challenge-games-pack.json"
+    },
+    {
       "igdb_id": 125655,
       "game_name": "Hamster Scramble",
       "file": "missing/H/125655-hamster-scramble.json"
@@ -206908,6 +206918,16 @@
       "file": "missing/H/227636-hawked.json"
     },
     {
+      "igdb_id": 332020,
+      "game_name": "Hawked: Master of Realities Expansion Pass",
+      "file": "missing/H/332020-hawked-master-of-realities-expansion-pass.json"
+    },
+    {
+      "igdb_id": 332021,
+      "game_name": "Hawked: Realities Expansion Pass",
+      "file": "missing/H/332021-hawked-realities-expansion-pass.json"
+    },
+    {
       "igdb_id": 278667,
       "game_name": "Hawked: Ruby Raider Pack",
       "file": "missing/H/278667-hawked-ruby-raider-pack.json"
@@ -209206,6 +209226,11 @@
       "igdb_id": 187975,
       "game_name": "Hell Let Loose: Spearhead Edition",
       "file": "missing/H/187975-hell-let-loose-spearhead-edition.json"
+    },
+    {
+      "igdb_id": 332022,
+      "game_name": "Hell Let Loose: Wacht am Rhein Units",
+      "file": "missing/H/332022-hell-let-loose-wacht-am-rhein-units.json"
     },
     {
       "igdb_id": 149526,
@@ -212626,6 +212651,11 @@
       "igdb_id": 369,
       "game_name": "Heroes of Might and Magic IV: Winds of War",
       "file": "missing/H/369-heroes-of-might-and-magic-iv-winds-of-war.json"
+    },
+    {
+      "igdb_id": 332023,
+      "game_name": "Heroes of Nature 4 in 1",
+      "file": "missing/H/332023-heroes-of-nature-4-in-1.json"
     },
     {
       "igdb_id": 763,
@@ -223478,9 +223508,19 @@
       "file": "missing/H/292675-hunt-showdown-1896-northern-justice.json"
     },
     {
+      "igdb_id": 332024,
+      "game_name": "Hunt: Showdown 1896 - The Revenant",
+      "file": "missing/H/332024-hunt-showdown-1896-the-revenant.json"
+    },
+    {
       "igdb_id": 296920,
       "game_name": "Hunt: Showdown 1896 - The Son of Gunpowder",
       "file": "missing/H/296920-hunt-showdown-1896-the-son-of-gunpowder.json"
+    },
+    {
+      "igdb_id": 332026,
+      "game_name": "Hunt: Showdown 1896 - They Came from Salem",
+      "file": "missing/H/332026-hunt-showdown-1896-they-came-from-salem.json"
     },
     {
       "igdb_id": 265773,
@@ -230973,6 +231013,11 @@
       "file": "missing/I/317816-indiana-jones-and-the-great-circle-collectors-edition.json"
     },
     {
+      "igdb_id": 332027,
+      "game_name": "Indiana Jones and the Great Circle: Digital Premium Upgrade",
+      "file": "missing/I/332027-indiana-jones-and-the-great-circle-digital-premium-upgrade.json"
+    },
+    {
       "igdb_id": 317815,
       "game_name": "Indiana Jones and The Great Circle: Premium Edition",
       "file": "missing/I/317815-indiana-jones-and-the-great-circle-premium-edition.json"
@@ -231061,6 +231106,11 @@
       "igdb_id": 118975,
       "game_name": "Indie Dream",
       "file": "missing/I/118975-indie-dream.json"
+    },
+    {
+      "igdb_id": 332028,
+      "game_name": "Indie Essentials: Walking Simulators 2",
+      "file": "missing/I/332028-indie-essentials-walking-simulators-2.json"
     },
     {
       "igdb_id": 26552,
@@ -241818,6 +241868,11 @@
       "file": "missing/J/403045-jkrobots.json"
     },
     {
+      "igdb_id": 332029,
+      "game_name": "JM Neto Game Dev 06 Games",
+      "file": "missing/J/332029-jm-neto-game-dev-06-games.json"
+    },
+    {
       "igdb_id": 164969,
       "game_name": "JMPR",
       "file": "missing/J/164969-jmpr.json"
@@ -250126,6 +250181,11 @@
       "igdb_id": 53241,
       "game_name": "Killing Floor 2: Digital Deluxe Edition",
       "file": "missing/K/53241-killing-floor-2-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 332025,
+      "game_name": "Killing Floor 2: Horzine Diver Outfit Bundle",
+      "file": "missing/K/332025-killing-floor-2-horzine-diver-outfit-bundle.json"
     },
     {
       "igdb_id": 336131,
@@ -275276,6 +275336,11 @@
       "igdb_id": 114993,
       "game_name": "Lyantei",
       "file": "missing/L/114993-lyantei.json"
+    },
+    {
+      "igdb_id": 332032,
+      "game_name": "Lyca",
+      "file": "missing/L/332032-lyca.json"
     },
     {
       "igdb_id": 51739,
@@ -345321,6 +345386,11 @@
       "igdb_id": 142400,
       "game_name": "Path of Exile: Echoes of the Atlas",
       "file": "missing/P/142400-path-of-exile-echoes-of-the-atlas.json"
+    },
+    {
+      "igdb_id": 332030,
+      "game_name": "Path of Exile: King of the Faridun Supporter Pack",
+      "file": "missing/P/332030-path-of-exile-king-of-the-faridun-supporter-pack.json"
     },
     {
       "igdb_id": 310958,
@@ -417748,9 +417818,19 @@
       "file": "missing/S/95834-shy-bunnies.json"
     },
     {
+      "igdb_id": 332039,
+      "game_name": "Shy Cats + Shy Dogs",
+      "file": "missing/S/332039-shy-cats-shy-dogs.json"
+    },
+    {
       "igdb_id": 409556,
       "game_name": "Shy Cats Hidden Orchestra 2",
       "file": "missing/S/409556-shy-cats-hidden-orchestra-2.json"
+    },
+    {
+      "igdb_id": 332038,
+      "game_name": "Shy Cats Hidden Tracks: Vol. 1",
+      "file": "missing/S/332038-shy-cats-hidden-tracks-vol-1.json"
     },
     {
       "igdb_id": 235872,
@@ -421638,9 +421718,19 @@
       "file": "missing/S/279012-sker-ritual-bloody-night.json"
     },
     {
+      "igdb_id": 332040,
+      "game_name": "Sker Ritual: Draigs Terror",
+      "file": "missing/S/332040-sker-ritual-draigs-terror.json"
+    },
+    {
       "igdb_id": 235466,
       "game_name": "Sker Ritual: Goon Brenn",
       "file": "missing/S/235466-sker-ritual-goon-brenn.json"
+    },
+    {
+      "igdb_id": 332041,
+      "game_name": "Sker Ritual: Invasion of the Brain Eaters",
+      "file": "missing/S/332041-sker-ritual-invasion-of-the-brain-eaters.json"
     },
     {
       "igdb_id": 235843,
@@ -444533,6 +444623,11 @@
       "file": "missing/S/411568-star-troopers-combat-force.json"
     },
     {
+      "igdb_id": 332043,
+      "game_name": "Star Trucker: Amped Customization Pack",
+      "file": "missing/S/332043-star-trucker-amped-customization-pack.json"
+    },
+    {
       "igdb_id": 415856,
       "game_name": "Star Trucker: Cultivation Content Pack",
       "file": "missing/S/415856-star-trucker-cultivation-content-pack.json"
@@ -452601,6 +452696,11 @@
       "igdb_id": 310388,
       "game_name": "Stumble And Fall",
       "file": "missing/S/310388-stumble-and-fall.json"
+    },
+    {
+      "igdb_id": 332037,
+      "game_name": "Stumble Guys: Polygon Guy Banger",
+      "file": "missing/S/332037-stumble-guys-polygon-guy-banger.json"
     },
     {
       "igdb_id": 117510,
@@ -484263,6 +484363,11 @@
       "file": "missing/T/326989-the-find.json"
     },
     {
+      "igdb_id": 332067,
+      "game_name": "The Fire Nobody Started",
+      "file": "missing/T/332067-the-fire-nobody-started.json"
+    },
+    {
       "igdb_id": 321742,
       "game_name": "The Fire Rises",
       "file": "missing/T/321742-the-fire-rises.json"
@@ -488256,6 +488361,11 @@
       "igdb_id": 317839,
       "game_name": "The King of Fighters XV: Characters Mature & Vice",
       "file": "missing/T/317839-the-king-of-fighters-xv-characters-mature-and-vice.json"
+    },
+    {
+      "igdb_id": 332031,
+      "game_name": "The King of Fighters XV: DLC Costume \"Classic Leona\"",
+      "file": "missing/T/332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json"
     },
     {
       "igdb_id": 195801,
@@ -544018,6 +544128,11 @@
       "file": "missing/W/293762-war-thunder-t29-pack.json"
     },
     {
+      "igdb_id": 332055,
+      "game_name": "War Thunder: Type 96A Prototype Pack",
+      "file": "missing/W/332055-war-thunder-type-96a-prototype-pack.json"
+    },
+    {
       "igdb_id": 336937,
       "game_name": "War Thunder: Wyvern Pack",
       "file": "missing/W/336937-war-thunder-wyvern-pack.json"
@@ -556988,9 +557103,34 @@
       "file": "missing/W/296792-world-of-tanks-modern-armor.json"
     },
     {
+      "igdb_id": 332068,
+      "game_name": "World of Tanks: Modern Armor - Frostbite Starter Pack",
+      "file": "missing/W/332068-world-of-tanks-modern-armor-frostbite-starter-pack.json"
+    },
+    {
       "igdb_id": 336938,
       "game_name": "World of Tanks: Modern Armor - Metal Dragon",
       "file": "missing/W/336938-world-of-tanks-modern-armor-metal-dragon.json"
+    },
+    {
+      "igdb_id": 332063,
+      "game_name": "World of Tanks: Modern Armor - Patricia Laserian",
+      "file": "missing/W/332063-world-of-tanks-modern-armor-patricia-laserian.json"
+    },
+    {
+      "igdb_id": 332057,
+      "game_name": "World of Tanks: Modern Armor - Quick Start",
+      "file": "missing/W/332057-world-of-tanks-modern-armor-quick-start.json"
+    },
+    {
+      "igdb_id": 332058,
+      "game_name": "World of Tanks: Modern Armor - Ready for Combat",
+      "file": "missing/W/332058-world-of-tanks-modern-armor-ready-for-combat.json"
+    },
+    {
+      "igdb_id": 332062,
+      "game_name": "World of Tanks: Modern Armor - Scout ‘n' Swarm",
+      "file": "missing/W/332062-world-of-tanks-modern-armor-scout-n-swarm.json"
     },
     {
       "igdb_id": 332534,
@@ -556998,14 +557138,49 @@
       "file": "missing/W/332534-world-of-tanks-modern-armor-super-heavy-hitter.json"
     },
     {
+      "igdb_id": 332066,
+      "game_name": "World of Tanks: Modern Armor - Tank of the Month: AltProto AMX 30",
+      "file": "missing/W/332066-world-of-tanks-modern-armor-tank-of-the-month-altproto-amx-30.json"
+    },
+    {
+      "igdb_id": 332065,
+      "game_name": "World of Tanks: Modern Armor - Tank of the Month: K-91 Version II",
+      "file": "missing/W/332065-world-of-tanks-modern-armor-tank-of-the-month-k-91-version-ii.json"
+    },
+    {
+      "igdb_id": 332061,
+      "game_name": "World of Tanks: Modern Armor - Tank of the Month: M41D",
+      "file": "missing/W/332061-world-of-tanks-modern-armor-tank-of-the-month-m41d.json"
+    },
+    {
       "igdb_id": 334289,
       "game_name": "World of Tanks: Modern Armor - Tank of the Month: NM 116 Panserjager",
       "file": "missing/W/334289-world-of-tanks-modern-armor-tank-of-the-month-nm-116-panserjager.json"
     },
     {
+      "igdb_id": 332060,
+      "game_name": "World of Tanks: Modern Armor - Tank of the Month: T-62M-1",
+      "file": "missing/W/332060-world-of-tanks-modern-armor-tank-of-the-month-t-62m-1.json"
+    },
+    {
       "igdb_id": 334290,
       "game_name": "World of Tanks: Modern Armor - TMNT Starter Pack",
       "file": "missing/W/334290-world-of-tanks-modern-armor-tmnt-starter-pack.json"
+    },
+    {
+      "igdb_id": 332064,
+      "game_name": "World of Tanks: Modern Armor - Union of Land & Sea",
+      "file": "missing/W/332064-world-of-tanks-modern-armor-union-of-land-and-sea.json"
+    },
+    {
+      "igdb_id": 332059,
+      "game_name": "World of Tanks: Modern Armor - Vipers Starter Pack",
+      "file": "missing/W/332059-world-of-tanks-modern-armor-vipers-starter-pack.json"
+    },
+    {
+      "igdb_id": 332056,
+      "game_name": "World of Tanks: Modern Armor - Volusad Thassius",
+      "file": "missing/W/332056-world-of-tanks-modern-armor-volusad-thassius.json"
     },
     {
       "igdb_id": 338220,
@@ -557143,9 +557318,54 @@
       "file": "missing/W/340747-world-of-warships-legends-captains-essentials.json"
     },
     {
+      "igdb_id": 332046,
+      "game_name": "World of Warships: Legends - Dawn's Guardian",
+      "file": "missing/W/332046-world-of-warships-legends-dawns-guardian.json"
+    },
+    {
+      "igdb_id": 332047,
+      "game_name": "World of Warships: Legends - Eagle Union's Power",
+      "file": "missing/W/332047-world-of-warships-legends-eagle-unions-power.json"
+    },
+    {
       "igdb_id": 332535,
       "game_name": "World of Warships: Legends - European Strength",
       "file": "missing/W/332535-world-of-warships-legends-european-strength.json"
+    },
+    {
+      "igdb_id": 332052,
+      "game_name": "World of Warships: Legends - Heavy Hitter",
+      "file": "missing/W/332052-world-of-warships-legends-heavy-hitter.json"
+    },
+    {
+      "igdb_id": 332048,
+      "game_name": "World of Warships: Legends - Iron Will",
+      "file": "missing/W/332048-world-of-warships-legends-iron-will.json"
+    },
+    {
+      "igdb_id": 332049,
+      "game_name": "World of Warships: Legends - Italian Autumn",
+      "file": "missing/W/332049-world-of-warships-legends-italian-autumn.json"
+    },
+    {
+      "igdb_id": 332050,
+      "game_name": "World of Warships: Legends - Jump-Start 7",
+      "file": "missing/W/332050-world-of-warships-legends-jump-start-7.json"
+    },
+    {
+      "igdb_id": 332051,
+      "game_name": "World of Warships: Legends - Lead the Way",
+      "file": "missing/W/332051-world-of-warships-legends-lead-the-way.json"
+    },
+    {
+      "igdb_id": 332053,
+      "game_name": "World of Warships: Legends - Pilgrim From Devon",
+      "file": "missing/W/332053-world-of-warships-legends-pilgrim-from-devon.json"
+    },
+    {
+      "igdb_id": 332054,
+      "game_name": "World of Warships: Legends - United Force",
+      "file": "missing/W/332054-world-of-warships-legends-united-force.json"
     },
     {
       "igdb_id": 223475,
@@ -557496,6 +557716,16 @@
       "igdb_id": 174333,
       "game_name": "World War Touch",
       "file": "missing/W/174333-world-war-touch.json"
+    },
+    {
+      "igdb_id": 332044,
+      "game_name": "World War Z: Desert Defenders Weapons Pack",
+      "file": "missing/W/332044-world-war-z-desert-defenders-weapons-pack.json"
+    },
+    {
+      "igdb_id": 332045,
+      "game_name": "World War Z: Victory Lap Weapons Skin Pack",
+      "file": "missing/W/332045-world-war-z-victory-lap-weapons-skin-pack.json"
     },
     {
       "igdb_id": 127176,
@@ -558936,6 +559166,26 @@
       "igdb_id": 283600,
       "game_name": "WWE 2K24",
       "file": "missing/W/283600-wwe-2k24.json"
+    },
+    {
+      "igdb_id": 332035,
+      "game_name": "WWE 2K24: Global Superstars Pack",
+      "file": "missing/W/332035-wwe-2k24-global-superstars-pack.json"
+    },
+    {
+      "igdb_id": 332034,
+      "game_name": "WWE 2K24: MyRISE Mega-Boost",
+      "file": "missing/W/332034-wwe-2k24-myrise-mega-boost.json"
+    },
+    {
+      "igdb_id": 332036,
+      "game_name": "WWE 2K24: Pat McAfee Show Pack",
+      "file": "missing/W/332036-wwe-2k24-pat-mcafee-show-pack.json"
+    },
+    {
+      "igdb_id": 332033,
+      "game_name": "WWE 2K24: WCW Pack",
+      "file": "missing/W/332033-wwe-2k24-wcw-pack.json"
     },
     {
       "igdb_id": 335095,
