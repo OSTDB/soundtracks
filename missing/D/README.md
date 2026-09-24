@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Elf | 51570 | [51570-dark-elf.json](./51570-dark-elf.json) |
 | Dark Energy | 285001 | [285001-dark-energy.json](./285001-dark-energy.json) |
 | Dark Engines | 398416 | [398416-dark-engines.json](./398416-dark-engines.json) |
+| Dark Era | 311596 | [311596-dark-era.json](./311596-dark-era.json) |
 | Dark Eyed Angels | 260222 | [260222-dark-eyed-angels.json](./260222-dark-eyed-angels.json) |
 | Dark Eyes | 145629 | [145629-dark-eyes.json](./145629-dark-eyes.json) |
 | Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
@@ -1974,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender II | 182401 | [182401-defender-ii.json](./182401-defender-ii.json) |
 | Defender II | 344003 | [344003-defender-ii.json](./344003-defender-ii.json) |
 | Defender II | 48902 | [48902-defender-ii.json](./48902-defender-ii.json) |
+| Defender of Falyndor | 311604 | [311604-defender-of-falyndor.json](./311604-defender-of-falyndor.json) |
 | Defender of Freedom | 65734 | [65734-defender-of-freedom.json](./65734-defender-of-freedom.json) |
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
