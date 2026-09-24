@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Fever | 223993 | [223993-office-fever.json](./223993-office-fever.json) |
 | Office Fight | 270963 | [270963-office-fight.json](./270963-office-fight.json) |
 | Office Hurdles | 268019 | [268019-office-hurdles.json](./268019-office-hurdles.json) |
+| Office Jerk | 316739 | [316739-office-jerk.json](./316739-office-jerk.json) |
 | Office Jigsaw Puzzle - Work Environment | 89284 | [89284-office-jigsaw-puzzle-work-environment.json](./89284-office-jigsaw-puzzle-work-environment.json) |
 | Office Ladies | 411727 | [411727-office-ladies.json](./411727-office-ladies.json) |
 | Office Love Affair | 157708 | [157708-office-love-affair.json](./157708-office-love-affair.json) |
@@ -365,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Simulator | 159828 | [159828-office-simulator.json](./159828-office-simulator.json) |
 | Office Simulator | 326392 | [326392-office-simulator.json](./326392-office-simulator.json) |
 | Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
+| Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
 | Officers | 21119 | [21119-officers.json](./21119-officers.json) |
 | Official AFL: The Interactive DVD Trivia Game - Adelaide Super Quiz | 275582 | [275582-official-afl-the-interactive-dvd-trivia-game-adelaide-super-quiz.json](./275582-official-afl-the-interactive-dvd-trivia-game-adelaide-super-quiz.json) |
 | Official AFL: The Interactive DVD Trivia Game - Carlton Super Quiz | 275583 | [275583-official-afl-the-interactive-dvd-trivia-game-carlton-super-quiz.json](./275583-official-afl-the-interactive-dvd-trivia-game-carlton-super-quiz.json) |
@@ -1293,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opera Omnia | 77359 | [77359-opera-omnia.json](./77359-opera-omnia.json) |
 | Opera Prima | 325565 | [325565-opera-prima.json](./325565-opera-prima.json) |
 | Operação Prato | 294302 | [294302-operacao-prato.json](./294302-operacao-prato.json) |
+| Operación Tigre Blanco | 316777 | [316777-operacion-tigre-blanco.json](./316777-operacion-tigre-blanco.json) |
 | Operación: Bomba | 325624 | [325624-operacion-bomba.json](./325624-operacion-bomba.json) |
 | Operation | 94216 | [94216-operation.json](./94216-operation.json) |
 | Operation Abyss: New Tokyo Legacy - Launch Edition | 89917 | [89917-operation-abyss-new-tokyo-legacy-launch-edition.json](./89917-operation-abyss-new-tokyo-legacy-launch-edition.json) |
@@ -1528,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ORE x TRACTOR | 401823 | [401823-ore-x-tractor.json](./401823-ore-x-tractor.json) |
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
 | Oreblaze | 338732 | [338732-oreblaze.json](./338732-oreblaze.json) |
+| Orebound | 316787 | [316787-orebound.json](./316787-orebound.json) |
 | OreMania | 389097 | [389097-oremania.json](./389097-oremania.json) |
 | Orendale | 317995 | [317995-orendale.json](./317995-orendale.json) |
 | Oreo O's Extreme Creme Control | 145671 | [145671-oreo-os-extreme-creme-control.json](./145671-oreo-os-extreme-creme-control.json) |
