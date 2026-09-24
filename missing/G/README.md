@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Driver | 88209 | [88209-galactic-driver.json](./88209-galactic-driver.json) |
+| Galactic Economy | 314445 | [314445-galactic-economy.json](./314445-galactic-economy.json) |
 | Galactic Empire | 240484 | [240484-galactic-empire.json](./240484-galactic-empire.json) |
 | Galactic Empires | 176370 | [176370-galactic-empires.json](./176370-galactic-empires.json) |
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
@@ -1585,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gioventù Ribelle | 316757 | [316757-gioventu-ribelle.json](./316757-gioventu-ribelle.json) |
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
 | Girabox | 138621 | [138621-girabox.json](./138621-girabox.json) |
+| Giraffe | 314414 | [314414-giraffe.json](./314414-giraffe.json) |
 | Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
 | Girauden Strike Force | 156535 | [156535-girauden-strike-force.json](./156535-girauden-strike-force.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
@@ -1902,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 1 | 257390 | [257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json](./257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 10 | 260755 | [260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json](./260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 2 | 257389 | [257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json](./257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json) |
+| Gnome Escape | 314409 | [314409-gnome-escape.json](./314409-gnome-escape.json) |
 | Gnome Gname | 185090 | [185090-gnome-gname.json](./185090-gnome-gname.json) |
 | Gnome Lake | 112722 | [112722-gnome-lake.json](./112722-gnome-lake.json) |
 | Gnome Light | 54471 | [54471-gnome-light.json](./54471-gnome-light.json) |
@@ -2134,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Opens the Door | 177405 | [177405-god-opens-the-door.json](./177405-god-opens-the-door.json) |
 | God Panic: Shijou Saikyou Gundan | 55887 | [55887-god-panic-shijou-saikyou-gundan.json](./55887-god-panic-shijou-saikyou-gundan.json) |
 | God Pill | 217515 | [217515-god-pill.json](./217515-god-pill.json) |
+| God Save Birmingham | 314428 | [314428-god-save-birmingham.json](./314428-god-save-birmingham.json) |
 | God Shot | 399852 | [399852-god-shot.json](./399852-god-shot.json) |
 | God Simulator | 31883 | [31883-god-simulator.json](./31883-god-simulator.json) |
 | God Starfighter | 76956 | [76956-god-starfighter.json](./76956-god-starfighter.json) |
@@ -3654,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess it not | 79346 | [79346-guess-it-not.json](./79346-guess-it-not.json) |
 | Guess Logo Game | 104697 | [104697-guess-logo-game.json](./104697-guess-logo-game.json) |
 | Guess Me If You Can | 339829 | [339829-guess-me-if-you-can.json](./339829-guess-me-if-you-can.json) |
+| Guess My Word | 314418 | [314418-guess-my-word.json](./314418-guess-my-word.json) |
 | Guess Pony Cartoon | 202387 | [202387-guess-pony-cartoon.json](./202387-guess-pony-cartoon.json) |
 | Guess the Character! | 99977 | [99977-guess-the-character.json](./99977-guess-the-character.json) |
 | Guess the Flags: A Fun Quiz | 55136 | [55136-guess-the-flags-a-fun-quiz.json](./55136-guess-the-flags-a-fun-quiz.json) |
