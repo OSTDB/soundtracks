@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Traffic Controller 4 | 59031 | [59031-air-traffic-controller-4.json](./59031-air-traffic-controller-4.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
+| Air Traffic Sim: Airport Dispatcher Simulator | 290464 | [290464-air-traffic-sim-airport-dispatcher-simulator.json](./290464-air-traffic-sim-airport-dispatcher-simulator.json) |
 | Air Trix | 18048 | [18048-air-trix.json](./18048-air-trix.json) |
 | Air Twister | 203458 | [203458-air-twister.json](./203458-air-twister.json) |
 | Air Warrior | 14232 | [14232-air-warrior.json](./14232-air-warrior.json) |
@@ -1564,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Firefighter Simulator 2013 | 87447 | [87447-airport-firefighter-simulator-2013.json](./87447-airport-firefighter-simulator-2013.json) |
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Inspector | 382320 | [382320-airport-inspector.json](./382320-airport-inspector.json) |
+| Airport Link: Connect Near Me | 290465 | [290465-airport-link-connect-near-me.json](./290465-airport-link-connect-near-me.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
 | Airport Mania: First Flight HD | 175282 | [175282-airport-mania-first-flight-hd.json](./175282-airport-mania-first-flight-hd.json) |
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
@@ -2156,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Aspect Warfare | 16065 | [16065-all-aspect-warfare.json](./16065-all-aspect-warfare.json) |
 | All Bears Love Honey | 133818 | [133818-all-bears-love-honey.json](./133818-all-bears-love-honey.json) |
 | All Black | 356686 | [356686-all-black.json](./356686-all-black.json) |
+| All Cats 'r Belong To Us | 290484 | [290484-all-cats-r-belong-to-us.json](./290484-all-cats-r-belong-to-us.json) |
 | All Chess | 259050 | [259050-all-chess.json](./259050-all-chess.json) |
 | All City King | 293081 | [293081-all-city-king.json](./293081-all-city-king.json) |
 | All Contact Lost | 68590 | [68590-all-contact-lost.json](./68590-all-contact-lost.json) |
@@ -2941,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Beast | 132866 | [132866-ancient-beast.json](./132866-ancient-beast.json) |
 | Ancient Cities | 79134 | [79134-ancient-cities.json](./79134-ancient-cities.json) |
 | Ancient Conquest: The Golden Fleece | 7713 | [7713-ancient-conquest-the-golden-fleece.json](./7713-ancient-conquest-the-golden-fleece.json) |
+| Ancient Cultivatrix | 290502 | [290502-ancient-cultivatrix.json](./290502-ancient-cultivatrix.json) |
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
 | Ancient Egypt | 358911 | [358911-ancient-egypt.json](./358911-ancient-egypt.json) |
 | Ancient Enemy | 111842 | [111842-ancient-enemy.json](./111842-ancient-enemy.json) |
@@ -3172,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
+| Angry Robot Girlfriend | 290508 | [290508-angry-robot-girlfriend.json](./290508-angry-robot-girlfriend.json) |
 | Angry Sonic Maze | 95997 | [95997-angry-sonic-maze.json](./95997-angry-sonic-maze.json) |
 | Angry Space Bees | 149029 | [149029-angry-space-bees.json](./149029-angry-space-bees.json) |
 | Angry stone | 296533 | [296533-angry-stone.json](./296533-angry-stone.json) |
@@ -3837,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Gardening | 60210 | [60210-apocalypse-gardening.json](./60210-apocalypse-gardening.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
+| Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
 | Apocalypse Now: The Game | 26969 | [26969-apocalypse-now-the-game.json](./26969-apocalypse-now-the-game.json) |
 | Apocalypse Runner | 224098 | [224098-apocalypse-runner.json](./224098-apocalypse-runner.json) |
