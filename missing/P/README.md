@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passport to London | 55851 | [55851-passport-to-london.json](./55851-passport-to-london.json) |
 | Passport to Paris | 55849 | [55849-passport-to-paris.json](./55849-passport-to-paris.json) |
 | Passport to Prague | 55852 | [55852-passport-to-prague.json](./55852-passport-to-prague.json) |
+| Passport to Romance | 313821 | [313821-passport-to-romance.json](./313821-passport-to-romance.json) |
 | Passport to Rome | 55847 | [55847-passport-to-rome.json](./55847-passport-to-rome.json) |
 | Password | 135304 | [135304-password.json](./135304-password.json) |
 | Password Manager | 401499 | [401499-password-manager.json](./401499-password-manager.json) |
@@ -1189,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaulPaul - Act 1 | 105142 | [105142-paulpaul-act-1.json](./105142-paulpaul-act-1.json) |
 | Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
 | Pavor | 215690 | [215690-pavor.json](./215690-pavor.json) |
+| Pavu | 313816 | [313816-pavu.json](./313816-pavu.json) |
 | Paw & Hop Jigsaw Quest | 357941 | [357941-paw-and-hop-jigsaw-quest.json](./357941-paw-and-hop-jigsaw-quest.json) |
 | Paw & Hop Jigsaw Quest: Expansion Pack 1 | 357942 | [357942-paw-and-hop-jigsaw-quest-expansion-pack-1.json](./357942-paw-and-hop-jigsaw-quest-expansion-pack-1.json) |
 | Paw & Hop Jigsaw Quest: Expansion Pack 2 | 357943 | [357943-paw-and-hop-jigsaw-quest-expansion-pack-2.json](./357943-paw-and-hop-jigsaw-quest-expansion-pack-2.json) |
@@ -1931,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online Episode I & II | 9890 | [9890-phantasy-star-online-episode-i-and-ii.json](./9890-phantasy-star-online-episode-i-and-ii.json) |
 | Phantasy Star Universe: Ambition of the Illuminus | 21501 | [21501-phantasy-star-universe-ambition-of-the-illuminus.json](./21501-phantasy-star-universe-ambition-of-the-illuminus.json) |
 | Phantasy Star: Fukkoku-ban | 45529 | [45529-phantasy-star-fukkoku-ban.json](./45529-phantasy-star-fukkoku-ban.json) |
+| Phantasy Star... 20 Years Past | 313784 | [313784-phantasy-star-20-years-past.json](./313784-phantasy-star-20-years-past.json) |
 | PhantazmA | 125429 | [125429-phantazma.json](./125429-phantazma.json) |
 | Phantom | 258994 | [258994-phantom.json](./258994-phantom.json) |
 | Phantom 9 | 416629 | [416629-phantom-9.json](./416629-phantom-9.json) |
@@ -3434,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platforms Unlimited | 101323 | [101323-platforms-unlimited.json](./101323-platforms-unlimited.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
 | Plati Nalog: Favorite Russian Game | 88083 | [88083-plati-nalog-favorite-russian-game.json](./88083-plati-nalog-favorite-russian-game.json) |
+| Platinum | 313829 | [313829-platinum.json](./313829-platinum.json) |
 | Platinum Demo: Final Fantasy XV | 299106 | [299106-platinum-demo-final-fantasy-xv.json](./299106-platinum-demo-final-fantasy-xv.json) |
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Platinum White | 307137 | [307137-platinum-white.json](./307137-platinum-white.json) |
