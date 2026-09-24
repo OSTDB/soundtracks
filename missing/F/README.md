@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding America: The Great Lakes | 260396 | [260396-finding-america-the-great-lakes.json](./260396-finding-america-the-great-lakes.json) |
 | Finding America: The Great Lakes - Collector's Edition | 321502 | [321502-finding-america-the-great-lakes-collectors-edition.json](./321502-finding-america-the-great-lakes-collectors-edition.json) |
 | Finding America: The Heartland - Collector's Edition | 224200 | [224200-finding-america-the-heartland-collectors-edition.json](./224200-finding-america-the-heartland-collectors-edition.json) |
+| Finding America: The Pacific Northwest - Collector's Edition | 300825 | [300825-finding-america-the-pacific-northwest-collectors-edition.json](./300825-finding-america-the-pacific-northwest-collectors-edition.json) |
 | Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
 | Finding Brenda: Episode 1 | 169928 | [169928-finding-brenda-episode-1.json](./169928-finding-brenda-episode-1.json) |
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
@@ -2090,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger on the Roof! Go! Rooftop Runner! | 214568 | [214568-finger-on-the-roof-go-rooftop-runner.json](./214568-finger-on-the-roof-go-rooftop-runner.json) |
 | Finger Punch | 378802 | [378802-finger-punch.json](./378802-finger-punch.json) |
 | Finger Slayer | 341914 | [341914-finger-slayer.json](./341914-finger-slayer.json) |
+| Finger Suck | 300782 | [300782-finger-suck.json](./300782-finger-suck.json) |
 | Finger Tied Jr. | 197749 | [197749-finger-tied-jr.json](./197749-finger-tied-jr.json) |
 | Finger Trees | 368665 | [368665-finger-trees.json](./368665-finger-trees.json) |
 | Fingerball: Dodge The Balls | 416840 | [416840-fingerball-dodge-the-balls.json](./416840-fingerball-dodge-the-balls.json) |
@@ -3319,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foes.io | 75135 | [75135-foes-io.json](./75135-foes-io.json) |
 | FOF: Fear Of Failure | 372496 | [372496-fof-fear-of-failure.json](./372496-fof-fear-of-failure.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
+| Foguetão 2000 | 300815 | [300815-foguetao-2000.json](./300815-foguetao-2000.json) |
 | Fohh | 304156 | [304156-fohh.json](./304156-fohh.json) |
 | Foillower | 382923 | [382923-foillower.json](./382923-foillower.json) |
 | FolcDark: Part II | 274025 | [274025-folcdark-part-ii.json](./274025-folcdark-part-ii.json) |
@@ -4295,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
 | Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
 | Free Hugs Inc. | 178566 | [178566-free-hugs-inc.json](./178566-free-hugs-inc.json) |
+| Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
 | Free Realms: Sunrise | 141650 | [141650-free-realms-sunrise.json](./141650-free-realms-sunrise.json) |
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
