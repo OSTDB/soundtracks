@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hahakigami Sweep | 386106 | [386106-hahakigami-sweep.json](./386106-hahakigami-sweep.json) |
 | Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
 | Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
+| Hai-Shin 2 | 290992 | [290992-hai-shin-2.json](./290992-hai-shin-2.json) |
 | Hǎidǐ Xúnbǎo | 110136 | [110136-haidi-xunbao.json](./110136-haidi-xunbao.json) |
 | Haiki | 141134 | [141134-haiki.json](./141134-haiki.json) |
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
@@ -2129,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermes: War of the Gods | 127089 | [127089-hermes-war-of-the-gods.json](./127089-hermes-war-of-the-gods.json) |
 | Hermes' Runner | 334193 | [334193-hermes-runner.json](./334193-hermes-runner.json) |
 | Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari | 123013 | [123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json](./123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json) |
+| Hermit | 291025 | [291025-hermit.json](./291025-hermit.json) |
 | Hermit and Pig | 252738 | [252738-hermit-and-pig.json](./252738-hermit-and-pig.json) |
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
 | Hero | 46879 | [46879-hero.json](./46879-hero.json) |
@@ -2952,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
 | Hills in the Moonlight | 307587 | [307587-hills-in-the-moonlight.json](./307587-hills-in-the-moonlight.json) |
 | Hillsea Lido | 70326 | [70326-hillsea-lido.json](./70326-hillsea-lido.json) |
+| Hillslide | 291015 | [291015-hillslide.json](./291015-hillslide.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
 | Him | 258482 | [258482-him.json](./258482-him.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
@@ -3771,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hormones of the Dead | 405601 | [405601-hormones-of-the-dead.json](./405601-hormones-of-the-dead.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
+| Horn-Nie | 291037 | [291037-horn-nie.json](./291037-horn-nie.json) |
 | Hornet the Vanguard | 303572 | [303572-hornet-the-vanguard.json](./303572-hornet-the-vanguard.json) |
 | Horns of Fear | 74436 | [74436-horns-of-fear.json](./74436-horns-of-fear.json) |
 | Horns of Justice | 211290 | [211290-horns-of-justice.json](./211290-horns-of-justice.json) |
@@ -4580,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
 | Hunters For Your Brain | 118804 | [118804-hunters-for-your-brain.json](./118804-hunters-for-your-brain.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
+| Hunters of Ralk | 291016 | [291016-hunters-of-ralk.json](./291016-hunters-of-ralk.json) |
 | Hunters: Episode One | 63800 | [63800-hunters-episode-one.json](./63800-hunters-episode-one.json) |
 | Hunters' Moon | 214032 | [214032-hunters-moon.json](./214032-hunters-moon.json) |
 | HunterX | 196262 | [196262-hunterx.json](./196262-hunterx.json) |
