@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
 | I Remember This Dream | 314905 | [314905-i-remember-this-dream.json](./314905-i-remember-this-dream.json) |
 | I Saw a Flying Saucer | 369092 | [369092-i-saw-a-flying-saucer.json](./369092-i-saw-a-flying-saucer.json) |
+| I Saw A Strange Little Man | 301368 | [301368-i-saw-a-strange-little-man.json](./301368-i-saw-a-strange-little-man.json) |
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
 | I See You | 113642 | [113642-i-see-you.json](./113642-i-see-you.json) |
 | I See You | 259630 | [259630-i-see-you.json](./259630-i-see-you.json) |
