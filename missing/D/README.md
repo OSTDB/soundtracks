@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decompose With Me | 408160 | [408160-decompose-with-me.json](./408160-decompose-with-me.json) |
 | Decomposition | 339791 | [339791-decomposition.json](./339791-decomposition.json) |
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
+| Decor Dream | 305845 | [305845-decor-dream.json](./305845-decor-dream.json) |
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
 | Decurion | 285012 | [285012-decurion.json](./285012-decurion.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
@@ -4307,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DollHouse: Survive or Death | 263026 | [263026-dollhouse-survive-or-death.json](./263026-dollhouse-survive-or-death.json) |
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
+| Dolls' Domain | 305888 | [305888-dolls-domain.json](./305888-dolls-domain.json) |
 | Dolmenia : Chroniques Gauloises | 125369 | [125369-dolmenia-chroniques-gauloises.json](./125369-dolmenia-chroniques-gauloises.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
 | Doloc Town | 235852 | [235852-doloc-town.json](./235852-doloc-town.json) |
@@ -4598,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dont Jump: Gamesforfarm | 364592 | [364592-dont-jump-gamesforfarm.json](./364592-dont-jump-gamesforfarm.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
+| Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
 | Donut County | 55080 | [55080-donut-county.json](./55080-donut-county.json) |
