@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic Gus | 109482 | [109482-intergalactic-gus.json](./109482-intergalactic-gus.json) |
 | Intergalactic Space Rescue | 85517 | [85517-intergalactic-space-rescue.json](./85517-intergalactic-space-rescue.json) |
 | Intergalactic Taxi Co. | 201124 | [201124-intergalactic-taxi-co.json](./201124-intergalactic-taxi-co.json) |
+| Intergalactic: The Heretic Prophet | 325611 | [325611-intergalactic-the-heretic-prophet.json](./325611-intergalactic-the-heretic-prophet.json) |
 | Intergalacto-1 | 304369 | [304369-intergalacto-1.json](./304369-intergalacto-1.json) |
 | Interim | 392289 | [392289-interim.json](./392289-interim.json) |
 | Interim Apex | 381263 | [381263-interim-apex.json](./381263-interim-apex.json) |
