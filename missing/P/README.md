@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papiny Dochki | 188598 | [188598-papiny-dochki.json](./188598-papiny-dochki.json) |
 | PapiPole | 88787 | [88787-papipole.json](./88787-papipole.json) |
 | PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
+| Paplion | 306428 | [306428-paplion.json](./306428-paplion.json) |
 | Papo & Yo | 7388 | [7388-papo-and-yo.json](./7388-papo-and-yo.json) |
 | Papo Learn & Play | 299275 | [299275-papo-learn-and-play.json](./299275-papo-learn-and-play.json) |
 | Papo Town Build Stories | 299258 | [299258-papo-town-build-stories.json](./299258-papo-town-build-stories.json) |
@@ -3550,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playtron | 56155 | [56155-playtron.json](./56155-playtron.json) |
 | PlayVille | 366253 | [366253-playville.json](./366253-playville.json) |
 | Playworld Superheroes | 23230 | [23230-playworld-superheroes.json](./23230-playworld-superheroes.json) |
+| Plaza Security | 306427 | [306427-plaza-security.json](./306427-plaza-security.json) |
 | PlazaSoup | 408908 | [408908-plazasoup.json](./408908-plazasoup.json) |
 | Plazma Burst: Forward to the Past | 124039 | [124039-plazma-burst-forward-to-the-past.json](./124039-plazma-burst-forward-to-the-past.json) |
 | Please | 134675 | [134675-please.json](./134675-please.json) |
@@ -6240,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Pumuckl and the Crown of the Pirate King | 361866 | [361866-pumuckl-and-the-crown-of-the-pirate-king.json](./361866-pumuckl-and-the-crown-of-the-pirate-king.json) |
+| Punch A Plant! | 306431 | [306431-punch-a-plant.json](./306431-punch-a-plant.json) |
 | Punch Ball Mario Bros. | 91994 | [91994-punch-ball-mario-bros.json](./91994-punch-ball-mario-bros.json) |
 | Punch Bomb | 31852 | [31852-punch-bomb.json](./31852-punch-bomb.json) |
 | Punch Boy | 83212 | [83212-punch-boy.json](./83212-punch-boy.json) |
@@ -6566,6 +6569,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Master 2 | 145642 | [145642-puzzle-master-2.json](./145642-puzzle-master-2.json) |
 | Puzzle Masters | 104657 | [104657-puzzle-masters.json](./104657-puzzle-masters.json) |
 | Puzzle Masters | 312682 | [312682-puzzle-masters.json](./312682-puzzle-masters.json) |
+| Puzzle Mate DS: Crossword Mate | 306451 | [306451-puzzle-mate-ds-crossword-mate.json](./306451-puzzle-mate-ds-crossword-mate.json) |
+| Puzzle Mate DS: Nanpure Mate | 306449 | [306449-puzzle-mate-ds-nanpure-mate.json](./306449-puzzle-mate-ds-nanpure-mate.json) |
+| Puzzle Mate DS: Oekaki Mate | 306448 | [306448-puzzle-mate-ds-oekaki-mate.json](./306448-puzzle-mate-ds-oekaki-mate.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
