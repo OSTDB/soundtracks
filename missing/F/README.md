@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
+| Fate Seeker: Mission | 304162 | [304162-fate-seeker-mission.json](./304162-fate-seeker-mission.json) |
 | Fate U.C.P | 42868 | [42868-fate-u-c-p.json](./42868-fate-u-c-p.json) |
 | Fate: Undiscovered Realms | 8867 | [8867-fate-undiscovered-realms.json](./8867-fate-undiscovered-realms.json) |
 | Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
@@ -3170,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluster Cluck | 52210 | [52210-fluster-cluck.json](./52210-fluster-cluck.json) |
 | Flute Master: Epic Christmas | 170514 | [170514-flute-master-epic-christmas.json](./170514-flute-master-epic-christmas.json) |
 | Flute Master: Trick or Treat | 170513 | [170513-flute-master-trick-or-treat.json](./170513-flute-master-trick-or-treat.json) |
+| Flutter! | 304135 | [304135-flutter.json](./304135-flutter.json) |
 | Flutterdash | 391199 | [391199-flutterdash.json](./391199-flutterdash.json) |
 | Fluttershy Piano Tiles | 202388 | [202388-fluttershy-piano-tiles.json](./202388-fluttershy-piano-tiles.json) |
 | Flux | 202357 | [202357-flux.json](./202357-flux.json) |
@@ -3310,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foes.io | 75135 | [75135-foes-io.json](./75135-foes-io.json) |
 | FOF: Fear Of Failure | 372496 | [372496-fof-fear-of-failure.json](./372496-fof-fear-of-failure.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
+| Fohh | 304156 | [304156-fohh.json](./304156-fohh.json) |
 | Foillower | 382923 | [382923-foillower.json](./382923-foillower.json) |
 | FolcDark: Part II | 274025 | [274025-folcdark-part-ii.json](./274025-folcdark-part-ii.json) |
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
@@ -3790,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: GOTY Edition | 399819 | [399819-formula-racing-pro-2026-goty-edition.json](./399819-formula-racing-pro-2026-goty-edition.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
+| Formula V20: 1985 | 304140 | [304140-formula-v20-1985.json](./304140-formula-v20-1985.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
 | Forrest Gump: Match 3 Game | 208389 | [208389-forrest-gump-match-3-game.json](./208389-forrest-gump-match-3-game.json) |
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
@@ -5199,6 +5203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
 | Future Card Buddyfight: Tanjou! Oretachi no Saikyou Buddy! | 222545 | [222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json](./222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json) |
 | Future Cop: LAPD | 11235 | [11235-future-cop-lapd.json](./11235-future-cop-lapd.json) |
+| Future Fighter | 304139 | [304139-future-fighter.json](./304139-future-fighter.json) |
 | Future Flappy | 89290 | [89290-future-flappy.json](./89290-future-flappy.json) |
 | Future Futures - Command Z | 116320 | [116320-future-futures-command-z.json](./116320-future-futures-command-z.json) |
 | Future GPX Cyber Formula: Road to the Evolution | 4150 | [4150-future-gpx-cyber-formula-road-to-the-evolution.json](./4150-future-gpx-cyber-formula-road-to-the-evolution.json) |
