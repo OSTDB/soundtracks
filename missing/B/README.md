@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balaball | 373012 | [373012-balaball.json](./373012-balaball.json) |
 | Balala Dà Zhuǎnhuàn | 359469 | [359469-balala-da-zhuanhuan.json](./359469-balala-da-zhuanhuan.json) |
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
+| Balamory: Join the Fun! | 313240 | [313240-balamory-join-the-fun.json](./313240-balamory-join-the-fun.json) |
 | Balan Wonderworld | 135992 | [135992-balan-wonderworld.json](./135992-balan-wonderworld.json) |
 | Balance | 260772 | [260772-balance.json](./260772-balance.json) |
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
@@ -3966,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky San Andreas Police 2018 | 102753 | [102753-blocky-san-andreas-police-2018.json](./102753-blocky-san-andreas-police-2018.json) |
 | Blocky Soccer | 58205 | [58205-blocky-soccer.json](./58205-blocky-soccer.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
+| Blocus | 313263 | [313263-blocus.json](./313263-blocus.json) |
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
 | bLogic Blox | 110767 | [110767-blogic-blox.json](./110767-blogic-blox.json) |
 | Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
@@ -5507,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla X Year of Shadow Launch | 342153 | [342153-brawlhalla-x-year-of-shadow-launch.json](./342153-brawlhalla-x-year-of-shadow-launch.json) |
 | Brawlhalla: Autumn Championship 2018 Pack | 342628 | [342628-brawlhalla-autumn-championship-2018-pack.json](./342628-brawlhalla-autumn-championship-2018-pack.json) |
 | Brawlhalla: BCX 2023 Pack | 274586 | [274586-brawlhalla-bcx-2023-pack.json](./274586-brawlhalla-bcx-2023-pack.json) |
+| Brawlhalla: Bonus Pack 13 | 313245 | [313245-brawlhalla-bonus-pack-13.json](./313245-brawlhalla-bonus-pack-13.json) |
 | Brawlhalla: Bonus Pack 14 | 316624 | [316624-brawlhalla-bonus-pack-14.json](./316624-brawlhalla-bonus-pack-14.json) |
 | Brawlhalla: Bonus Pack 16 | 327316 | [327316-brawlhalla-bonus-pack-16.json](./327316-brawlhalla-bonus-pack-16.json) |
 | Brawlhalla: Spring Championship 2018 Pack | 342626 | [342626-brawlhalla-spring-championship-2018-pack.json](./342626-brawlhalla-spring-championship-2018-pack.json) |
