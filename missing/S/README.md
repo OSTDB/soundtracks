@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Sapper's bad dream | 32185 | [32185-sappers-bad-dream.json](./32185-sappers-bad-dream.json) |
 | Sapphic Space | 257950 | [257950-sapphic-space.json](./257950-sapphic-space.json) |
+| Sapphire City Part 3 | 319172 | [319172-sapphire-city-part-3.json](./319172-sapphire-city-part-3.json) |
 | Sapphire Moon: Forever Memories | 215669 | [215669-sapphire-moon-forever-memories.json](./215669-sapphire-moon-forever-memories.json) |
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
@@ -1306,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramball | 339900 | [339900-scramball.json](./339900-scramball.json) |
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
+| Scramble Heart City | 319148 | [319148-scramble-heart-city.json](./319148-scramble-heart-city.json) |
 | Scramble of the Far East | 364555 | [364555-scramble-of-the-far-east.json](./364555-scramble-of-the-far-east.json) |
 | Scramble Spirits | 12847 | [12847-scramble-spirits.json](./12847-scramble-spirits.json) |
 | Scramble Up! | 324316 | [324316-scramble-up.json](./324316-scramble-up.json) |
@@ -2334,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
 | Sex Therapy | 384223 | [384223-sex-therapy.json](./384223-sex-therapy.json) |
+| Sex Twice Hentai | 319170 | [319170-sex-twice-hentai.json](./319170-sex-twice-hentai.json) |
 | Sex Vixens From Space | 72378 | [72378-sex-vixens-from-space.json](./72378-sex-vixens-from-space.json) |
 | Sex With Friends | 367048 | [367048-sex-with-friends.json](./367048-sex-with-friends.json) |
 | Sex with Maids | 248669 | [248669-sex-with-maids.json](./248669-sex-with-maids.json) |
@@ -3630,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
 | Shunkyoku no Tyrhhia: What a Beautiful Dawn | 144958 | [144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json](./144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json) |
+| Shuntle | 319141 | [319141-shuntle.json](./319141-shuntle.json) |
 | Shura no Mon | 46258 | [46258-shura-no-mon.json](./46258-shura-no-mon.json) |
 | Shurado | 74775 | [74775-shurado.json](./74775-shurado.json) |
 | Shuriken & Aliens | 124144 | [124144-shuriken-and-aliens.json](./124144-shuriken-and-aliens.json) |
@@ -5200,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64EX Coop: Yoshi's Adventure 64 | 378263 | [378263-sm64ex-coop-yoshis-adventure-64.json](./378263-sm64ex-coop-yoshis-adventure-64.json) |
 | SM64RT | 307740 | [307740-sm64rt.json](./307740-sm64rt.json) |
 | SM74&EE | 378288 | [378288-sm74-and-ee.json](./378288-sm74-and-ee.json) |
+| Små Ord | 319184 | [319184-sma-ord.json](./319184-sma-ord.json) |
 | Smack | 300836 | [300836-smack.json](./300836-smack.json) |
 | Smack it! Punch Champion | 376763 | [376763-smack-it-punch-champion.json](./376763-smack-it-punch-champion.json) |
 | Smack Monkey | 332989 | [332989-smack-monkey.json](./332989-smack-monkey.json) |
@@ -6312,6 +6317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Conquest | 119346 | [119346-songs-of-conquest.json](./119346-songs-of-conquest.json) |
 | Songs of Conquest: Rise Eternal | 302920 | [302920-songs-of-conquest-rise-eternal.json](./302920-songs-of-conquest-rise-eternal.json) |
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
+| Songs of Conquest: Vanir | 319147 | [319147-songs-of-conquest-vanir.json](./319147-songs-of-conquest-vanir.json) |
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
@@ -7865,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Rift | 335371 | [335371-spell-rift.json](./335371-spell-rift.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
+| Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
@@ -8073,6 +8080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
 | Spike Volleyball | 112846 | [112846-spike-volleyball.json](./112846-spike-volleyball.json) |
 | Spikeout: Battle Street | 6056 | [6056-spikeout-battle-street.json](./6056-spikeout-battle-street.json) |
+| SpikeOut: Final Edition | 319157 | [319157-spikeout-final-edition.json](./319157-spikeout-final-edition.json) |
 | Spiker | 46869 | [46869-spiker.json](./46869-spiker.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
@@ -11472,6 +11480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super ComboMan: Don't Mash Edition | 30231 | [30231-super-comboman-dont-mash-edition.json](./30231-super-comboman-dont-mash-edition.json) |
 | Super Company | 219580 | [219580-super-company.json](./219580-super-company.json) |
 | Super Concentration | 262370 | [262370-super-concentration.json](./262370-super-concentration.json) |
+| Super Conductor | 319125 | [319125-super-conductor.json](./319125-super-conductor.json) |
 | Super Console Kid | 296506 | [296506-super-console-kid.json](./296506-super-console-kid.json) |
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
 | Super Contra X | 48892 | [48892-super-contra-x.json](./48892-super-contra-x.json) |
@@ -13352,6 +13361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
 | Sylvio and the Mountains Giants | 236536 | [236536-sylvio-and-the-mountains-giants.json](./236536-sylvio-and-the-mountains-giants.json) |
+| Sym-Bionic Titan: Teenage Warriors | 319177 | [319177-sym-bionic-titan-teenage-warriors.json](./319177-sym-bionic-titan-teenage-warriors.json) |
 | Symb Eco | 77362 | [77362-symb-eco.json](./77362-symb-eco.json) |
 | Symbiogenesis | 302964 | [302964-symbiogenesis.json](./302964-symbiogenesis.json) |
 | Symbiosis | 302916 | [302916-symbiosis.json](./302916-symbiosis.json) |
