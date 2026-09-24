@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Like Pac-Man and the Ghostly Adventures | 185672 | [185672-be-like-pac-man-and-the-ghostly-adventures.json](./185672-be-like-pac-man-and-the-ghostly-adventures.json) |
 | Be Lost | 369099 | [369099-be-lost.json](./369099-be-lost.json) |
 | Be Nunner | 391051 | [391051-be-nunner.json](./391051-be-nunner.json) |
+| Be Our Guest | 334274 | [334274-be-our-guest.json](./334274-be-our-guest.json) |
 | Be Quiet!: Act One | 170421 | [170421-be-quiet-act-one.json](./170421-be-quiet-act-one.json) |
 | Be Richest! | 140984 | [140984-be-richest.json](./140984-be-richest.json) |
 | Be the King: Enjoy Your Trip to the Top | 106997 | [106997-be-the-king-enjoy-your-trip-to-the-top.json](./106997-be-the-king-enjoy-your-trip-to-the-top.json) |
@@ -5646,6 +5647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightblood | 159846 | [159846-brightblood.json](./159846-brightblood.json) |
 | Brighter Day | 34811 | [34811-brighter-day.json](./34811-brighter-day.json) |
 | Brighter Days | 391187 | [391187-brighter-days.json](./391187-brighter-days.json) |
+| Brighter Than Burning | 334300 | [334300-brighter-than-burning.json](./334300-brighter-than-burning.json) |
 | Brightest Star | 369621 | [369621-brightest-star.json](./369621-brightest-star.json) |
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
