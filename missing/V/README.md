@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Night Road | 133401 | [133401-vampire-the-masquerade-night-road.json](./133401-vampire-the-masquerade-night-road.json) |
 | Vampire: The Masquerade - Parliament of Knives | 133402 | [133402-vampire-the-masquerade-parliament-of-knives.json](./133402-vampire-the-masquerade-parliament-of-knives.json) |
 | Vampire: The Masquerade - Parliament of Knives: What Stares Back | 216855 | [216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json](./216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json) |
+| Vampire: The Masquerade - Reckoning of New York | 305291 | [305291-vampire-the-masquerade-reckoning-of-new-york.json](./305291-vampire-the-masquerade-reckoning-of-new-york.json) |
 | Vampire: The Masquerade - Shadows of New York | 132102 | [132102-vampire-the-masquerade-shadows-of-new-york.json](./132102-vampire-the-masquerade-shadows-of-new-york.json) |
 | Vampire: The Masquerade - Swansong: Primogen Edition | 196806 | [196806-vampire-the-masquerade-swansong-primogen-edition.json](./196806-vampire-the-masquerade-swansong-primogen-edition.json) |
 | Vampire's Castle Adventure | 73314 | [73314-vampires-castle-adventure.json](./73314-vampires-castle-adventure.json) |
