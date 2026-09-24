@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In The Disorderly Courtyard | 303588 | [303588-in-the-disorderly-courtyard.json](./303588-in-the-disorderly-courtyard.json) |
 | In the Drift | 404847 | [404847-in-the-drift.json](./404847-in-the-drift.json) |
 | In the Drink | 288876 | [288876-in-the-drink.json](./288876-in-the-drink.json) |
+| In the Grace of Our Malice | 292063 | [292063-in-the-grace-of-our-malice.json](./292063-in-the-grace-of-our-malice.json) |
 | In the Grass | 212289 | [212289-in-the-grass.json](./212289-in-the-grass.json) |
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
@@ -2037,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Introspection | 295884 | [295884-introspection.json](./295884-introspection.json) |
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
 | Introvert Quest | 30327 | [30327-introvert-quest.json](./30327-introvert-quest.json) |
+| Intruder | 292079 | [292079-intruder.json](./292079-intruder.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
 | Intruder | 378208 | [378208-intruder.json](./378208-intruder.json) |
 | Intruder -Sakura Yashiki no Tansaku- | 138224 | [138224-intruder-sakura-yashiki-no-tansaku.json](./138224-intruder-sakura-yashiki-no-tansaku.json) |
@@ -2673,6 +2675,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
 | iZone | 95232 | [95232-izone.json](./95232-izone.json) |
+| Izumi Jiken File Vol. 1 - Shiosai-hen | 292102 | [292102-izumi-jiken-file-vol-1-shiosai-hen.json](./292102-izumi-jiken-file-vol-1-shiosai-hen.json) |
+| Izumi Jiken File Vol. 2 - Tasogare-hen | 292109 | [292109-izumi-jiken-file-vol-2-tasogare-hen.json](./292109-izumi-jiken-file-vol-2-tasogare-hen.json) |
 | Izumi Jiken File Vol. 3 - Yujuku-hen | 292113 | [292113-izumi-jiken-file-vol-3-yujuku-hen.json](./292113-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | Izumo | 58168 | [58168-izumo.json](./58168-izumo.json) |
 | Izuna 2: The Unemployed Ninja Returns | 21345 | [21345-izuna-2-the-unemployed-ninja-returns.json](./21345-izuna-2-the-unemployed-ninja-returns.json) |
