@@ -8007,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy Stacks | 232030 | [232030-speedy-stacks.json](./232030-speedy-stacks.json) |
 | Speedy the Rollerskater 2 | 336016 | [336016-speedy-the-rollerskater-2.json](./336016-speedy-the-rollerskater-2.json) |
 | Speer DX | 201699 | [201699-speer-dx.json](./201699-speer-dx.json) |
+| Speglar | 291534 | [291534-speglar.json](./291534-speglar.json) |
 | Spekel Sparks | 266237 | [266237-spekel-sparks.json](./266237-spekel-sparks.json) |
 | Spektakl: Banned Edition | 206954 | [206954-spektakl-banned-edition.json](./206954-spektakl-banned-edition.json) |
 | SpelBrawl | 374630 | [374630-spelbrawl.json](./374630-spelbrawl.json) |
@@ -11561,6 +11562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Love | 342763 | [342763-sunshine-love.json](./342763-sunshine-love.json) |
 | Sunshine Mahou no Mori | 66062 | [66062-sunshine-mahou-no-mori.json](./66062-sunshine-mahou-no-mori.json) |
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
+| Sunsoft Collection 2 | 291544 | [291544-sunsoft-collection-2.json](./291544-sunsoft-collection-2.json) |
 | Sunsoft is Back! Retro Game Selection | 297001 | [297001-sunsoft-is-back-retro-game-selection.json](./297001-sunsoft-is-back-retro-game-selection.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
@@ -13059,6 +13061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Sisters | 195693 | [195693-survival-sisters.json](./195693-survival-sisters.json) |
 | Survival Space: Unlimited Shooting | 83571 | [83571-survival-space-unlimited-shooting.json](./83571-survival-space-unlimited-shooting.json) |
 | Survival Sprint | 243117 | [243117-survival-sprint.json](./243117-survival-sprint.json) |
+| Survival Story | 291535 | [291535-survival-story.json](./291535-survival-story.json) |
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
 | Survival Zombies: The Inverted Evolution | 33575 | [33575-survival-zombies-the-inverted-evolution.json](./33575-survival-zombies-the-inverted-evolution.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
