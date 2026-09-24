@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamkball | 133803 | [133803-kamkball.json](./133803-kamkball.json) |
 | Kamla | 266813 | [266813-kamla.json](./266813-kamla.json) |
 | Kampf dem Terror | 98977 | [98977-kampf-dem-terror.json](./98977-kampf-dem-terror.json) |
+| Kamura: Kamigami to Chigiri Shisha | 292095 | [292095-kamura-kamigami-to-chigiri-shisha.json](./292095-kamura-kamigami-to-chigiri-shisha.json) |
 | Kana | 303607 | [303607-kana.json](./303607-kana.json) |
 | Kana No Mado | 364728 | [364728-kana-no-mado.json](./364728-kana-no-mado.json) |
 | Kana Seito Defense | 324293 | [324293-kana-seito-defense.json](./324293-kana-seito-defense.json) |
@@ -613,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
+| Kelly Kangaroo | 292072 | [292072-kelly-kangaroo.json](./292072-kelly-kangaroo.json) |
 | Kelp Keeper | 290557 | [290557-kelp-keeper.json](./290557-kelp-keeper.json) |
 | Kelvin and The Chateau | 162432 | [162432-kelvin-and-the-chateau.json](./162432-kelvin-and-the-chateau.json) |
 | Kemco RPG Omnibus | 130304 | [130304-kemco-rpg-omnibus.json](./130304-kemco-rpg-omnibus.json) |
@@ -2133,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kronolog: The Nazi Paradox | 50481 | [50481-kronolog-the-nazi-paradox.json](./50481-kronolog-the-nazi-paradox.json) |
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
 | Kruger | 202773 | [202773-kruger.json](./202773-kruger.json) |
+| Krull | 292096 | [292096-krull.json](./292096-krull.json) |
 | Krum: Battle Arena | 157562 | [157562-krum-battle-arena.json](./157562-krum-battle-arena.json) |
 | Krusenstern: A Stellar Sail | 226730 | [226730-krusenstern-a-stellar-sail.json](./226730-krusenstern-a-stellar-sail.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
