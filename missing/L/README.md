@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
 | Life as a Lich | 295901 | [295901-life-as-a-lich.json](./295901-life-as-a-lich.json) |
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
+| Life Blood | 285538 | [285538-life-blood.json](./285538-life-blood.json) |
 | Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
 | Life by You | 240899 | [240899-life-by-you.json](./240899-life-by-you.json) |
@@ -2828,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
 | Loopdrop | 364696 | [364696-loopdrop.json](./364696-loopdrop.json) |
+| Looped | 285506 | [285506-looped.json](./285506-looped.json) |
 | Looper | 292133 | [292133-looper.json](./292133-looper.json) |
 | Looper | 323827 | [323827-looper.json](./323827-looper.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
