@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VGA Sharks | 92965 | [92965-vga-sharks.json](./92965-vga-sharks.json) |
 | VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
 | VHHS: Backrooms | 282017 | [282017-vhhs-backrooms.json](./282017-vhhs-backrooms.json) |
+| VHS | 309466 | [309466-vhs.json](./309466-vhs.json) |
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
 | VHS World '89 | 410912 | [410912-vhs-world-89.json](./410912-vhs-world-89.json) |
 | VHScape | 316759 | [316759-vhscape.json](./316759-vhscape.json) |
@@ -845,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village businessman | 159820 | [159820-village-businessman.json](./159820-village-businessman.json) |
 | Village City Island Sim Build | 104606 | [104606-village-city-island-sim-build.json](./104606-village-city-island-sim-build.json) |
 | Village Cricket | 175401 | [175401-village-cricket.json](./175401-village-cricket.json) |
+| Village Cult | 309452 | [309452-village-cult.json](./309452-village-cult.json) |
 | Village Feud | 118795 | [118795-village-feud.json](./118795-village-feud.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
 | Village Meow | 327172 | [327172-village-meow.json](./327172-village-meow.json) |
@@ -1368,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Populi: Canada 2025 | 347173 | [347173-vox-populi-canada-2025.json](./347173-vox-populi-canada-2025.json) |
 | Vox Populi: Poland 2023 | 267678 | [267678-vox-populi-poland-2023.json](./267678-vox-populi-poland-2023.json) |
 | Vox Populi: Spain 2023 | 258042 | [258042-vox-populi-spain-2023.json](./258042-vox-populi-spain-2023.json) |
+| Vox Populi: USA 2024 | 309464 | [309464-vox-populi-usa-2024.json](./309464-vox-populi-usa-2024.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel Delvers | 381686 | [381686-voxel-delvers.json](./381686-voxel-delvers.json) |
 | Voxel Doodle - Color By Number 3D | 105964 | [105964-voxel-doodle-color-by-number-3d.json](./105964-voxel-doodle-color-by-number-3d.json) |
