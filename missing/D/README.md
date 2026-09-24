@@ -3249,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
+| Dimension Shift | 323884 | [323884-dimension-shift.json](./323884-dimension-shift.json) |
 | Dimension Summoner: Hero Arena 3D Fantasy RPG | 95873 | [95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json](./95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json) |
 | Dimension Tripper Neptune: TOP NEP | 187445 | [187445-dimension-tripper-neptune-top-nep.json](./187445-dimension-tripper-neptune-top-nep.json) |
 | Dimension X | 246067 | [246067-dimension-x.json](./246067-dimension-x.json) |
@@ -4481,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 257637 | [257637-donkey-kong.json](./257637-donkey-kong.json) |
 | Donkey Kong | 270404 | [270404-donkey-kong.json](./270404-donkey-kong.json) |
 | Donkey Kong 3 | 178167 | [178167-donkey-kong-3.json](./178167-donkey-kong-3.json) |
+| Donkey Kong 3 & Samus | 323885 | [323885-donkey-kong-3-and-samus.json](./323885-donkey-kong-3-and-samus.json) |
 | Donkey Kong 3-e | 170016 | [170016-donkey-kong-3-e.json](./170016-donkey-kong-3-e.json) |
 | Donkey Kong 64 | 1096 | [1096-donkey-kong-64.json](./1096-donkey-kong-64.json) |
 | Donkey Kong 64 Lore Quiz | 231609 | [231609-donkey-kong-64-lore-quiz.json](./231609-donkey-kong-64-lore-quiz.json) |
@@ -4680,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Overture | 280237 | [280237-doomsday-overture.json](./280237-doomsday-overture.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
 | Doomtrooper CCG | 71196 | [71196-doomtrooper-ccg.json](./71196-doomtrooper-ccg.json) |
+| DoomWall | 323830 | [323830-doomwall.json](./323830-doomwall.json) |
 | Doomworld Forum Adventures! | 252214 | [252214-doomworld-forum-adventures.json](./252214-doomworld-forum-adventures.json) |
 | Doomworld Forums 3 | 252216 | [252216-doomworld-forums-3.json](./252216-doomworld-forums-3.json) |
 | Doomworld Mega Project 2012 | 260955 | [260955-doomworld-mega-project-2012.json](./260955-doomworld-mega-project-2012.json) |
@@ -5411,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 272020 | [272020-dragons-lair.json](./272020-dragons-lair.json) |
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
 | Dragon's Lair HD | 100618 | [100618-dragons-lair-hd.json](./100618-dragons-lair-hd.json) |
+| Dragon's Lair II: Time Warp | 323845 | [323845-dragons-lair-ii-time-warp.json](./323845-dragons-lair-ii-time-warp.json) |
 | Dragon's Lair Trilogy | 50593 | [50593-dragons-lair-trilogy.json](./50593-dragons-lair-trilogy.json) |
 | Dragon's Lair: Daring Edition | 100722 | [100722-dragons-lair-daring-edition.json](./100722-dragons-lair-daring-edition.json) |
 | Dragon's Lair: The Legend | 117950 | [117950-dragons-lair-the-legend.json](./117950-dragons-lair-the-legend.json) |
