@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God bless, or Goddess | 358972 | [358972-god-bless-or-goddess.json](./358972-god-bless-or-goddess.json) |
 | God Busters: Who watches the Watchers? | 232460 | [232460-god-busters-who-watches-the-watchers.json](./232460-god-busters-who-watches-the-watchers.json) |
 | God Came to the Cave | 70298 | [70298-god-came-to-the-cave.json](./70298-god-came-to-the-cave.json) |
+| God Crafter | 309456 | [309456-god-crafter.json](./309456-god-crafter.json) |
 | God Eater | 11844 | [11844-god-eater.json](./11844-god-eater.json) |
 | God Eater 2 | 11853 | [11853-god-eater-2.json](./11853-god-eater-2.json) |
 | God Eater 2: Famitsu DX Pack | 89864 | [89864-god-eater-2-famitsu-dx-pack.json](./89864-god-eater-2-famitsu-dx-pack.json) |
@@ -2193,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Angling | 396215 | [396215-gods-of-angling.json](./396215-gods-of-angling.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
 | Gods of Egypt: Secrets of the Lost Kingdom | 174747 | [174747-gods-of-egypt-secrets-of-the-lost-kingdom.json](./174747-gods-of-egypt-secrets-of-the-lost-kingdom.json) |
+| Gods of Fire | 309483 | [309483-gods-of-fire.json](./309483-gods-of-fire.json) |
 | Gods of Havoc: Fall to Earth | 120967 | [120967-gods-of-havoc-fall-to-earth.json](./120967-gods-of-havoc-fall-to-earth.json) |
 | Gods of Hellas VR | 190168 | [190168-gods-of-hellas-vr.json](./190168-gods-of-hellas-vr.json) |
 | Gods Play Dice | 409766 | [409766-gods-play-dice.json](./409766-gods-play-dice.json) |
