@@ -2453,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
 | Mechanics | 254141 | [254141-mechanics.json](./254141-mechanics.json) |
+| MechAnimals | 327992 | [327992-mechanimals.json](./327992-mechanimals.json) |
 | Mechanism | 183984 | [183984-mechanism.json](./183984-mechanism.json) |
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
 | Mechanization | 264590 | [264590-mechanization.json](./264590-mechanization.json) |
@@ -4725,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
 | Minute Marriage | 304760 | [304760-minute-marriage.json](./304760-minute-marriage.json) |
 | Minute to Win It | 20162 | [20162-minute-to-win-it.json](./20162-minute-to-win-it.json) |
+| Minutescape | 327969 | [327969-minutescape.json](./327969-minutescape.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
@@ -6668,6 +6670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MR.KungFu | 174737 | [174737-mr-kungfu.json](./174737-mr-kungfu.json) |
 | Mr.Mine | 157130 | [157130-mr-mine.json](./157130-mr-mine.json) |
 | Mr.Ninja!! Fever | 248283 | [248283-mr-ninja-fever.json](./248283-mr-ninja-fever.json) |
+| Mr.Slime in Dungeon | 327974 | [327974-mr-slime-in-dungeon.json](./327974-mr-slime-in-dungeon.json) |
 | Mr.T Survival | 249295 | [249295-mr-t-survival.json](./249295-mr-t-survival.json) |
 | mr.Vegan | 103639 | [103639-mr-vegan.json](./103639-mr-vegan.json) |
 | Mr.Welder's Pinball Defence | 278146 | [278146-mr-welders-pinball-defence.json](./278146-mr-welders-pinball-defence.json) |
@@ -7798,6 +7801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Midway: Rest in Pieces | 45910 | [45910-mystic-midway-rest-in-pieces.json](./45910-mystic-midway-rest-in-pieces.json) |
 | Mystic Mischief | 248029 | [248029-mystic-mischief.json](./248029-mystic-mischief.json) |
 | Mystic Pathways | 342150 | [342150-mystic-pathways.json](./342150-mystic-pathways.json) |
+| Mystic Rest Stop | 327949 | [327949-mystic-rest-stop.json](./327949-mystic-rest-stop.json) |
 | Mystic Ruin: A New Dawn | 150619 | [150619-mystic-ruin-a-new-dawn.json](./150619-mystic-ruin-a-new-dawn.json) |
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
 | Mystic Strife | 278414 | [278414-mystic-strife.json](./278414-mystic-strife.json) |
