@@ -5259,6 +5259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Boost Beta / Gamma Wave | 21381 | [21381-brain-boost-beta-gamma-wave.json](./21381-brain-boost-beta-gamma-wave.json) |
 | Brain Box on Physics Truck | 102109 | [102109-brain-box-on-physics-truck.json](./102109-brain-box-on-physics-truck.json) |
 | Brain Challenge Deluxe | 44587 | [44587-brain-challenge-deluxe.json](./44587-brain-challenge-deluxe.json) |
+| Brain Code | 321500 | [321500-brain-code.json](./321500-brain-code.json) |
 | Brain Damage | 239192 | [239192-brain-damage.json](./239192-brain-damage.json) |
 | Brain Deluxe | 68641 | [68641-brain-deluxe.json](./68641-brain-deluxe.json) |
 | Brain Dots: Draw and Solve | 104701 | [104701-brain-dots-draw-and-solve.json](./104701-brain-dots-draw-and-solve.json) |
@@ -5647,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks | 292111 | [292111-bricks.json](./292111-bricks.json) |
 | Bricks Breaker: Manga Girls | 205575 | [205575-bricks-breaker-manga-girls.json](./205575-bricks-breaker-manga-girls.json) |
 | Bricks King | 255756 | [255756-bricks-king.json](./255756-bricks-king.json) |
+| Bricks Kingdom | 321510 | [321510-bricks-kingdom.json](./321510-bricks-kingdom.json) |
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
 | Bricks of Atlantis | 70108 | [70108-bricks-of-atlantis.json](./70108-bricks-of-atlantis.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
@@ -6181,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building the Great Wall of China | 91125 | [91125-building-the-great-wall-of-china.json](./91125-building-the-great-wall-of-china.json) |
 | Buildings Have Feelings Too! | 107268 | [107268-buildings-have-feelings-too.json](./107268-buildings-have-feelings-too.json) |
 | BuildNow GG | 333186 | [333186-buildnow-gg.json](./333186-buildnow-gg.json) |
+| Buildozer Simulator | 321489 | [321489-buildozer-simulator.json](./321489-buildozer-simulator.json) |
 | Buildville | 102745 | [102745-buildville.json](./102745-buildville.json) |
 | Built by Force | 372457 | [372457-built-by-force.json](./372457-built-by-force.json) |
 | Built for Speed | 242681 | [242681-built-for-speed.json](./242681-built-for-speed.json) |
