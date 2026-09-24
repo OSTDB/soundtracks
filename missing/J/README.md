@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigdoku | 404203 | [404203-jigdoku.json](./404203-jigdoku.json) |
 | JigDoku | 91734 | [91734-jigdoku.json](./91734-jigdoku.json) |
 | Jigen Bakudan Kaijo | 349942 | [349942-jigen-bakudan-kaijo.json](./349942-jigen-bakudan-kaijo.json) |
+| Jiggraph | 311068 | [311068-jiggraph.json](./311068-jiggraph.json) |
 | Jigoku Gokurakumaru | 215128 | [215128-jigoku-gokurakumaru.json](./215128-jigoku-gokurakumaru.json) |
 | Jigoku Hell | 178025 | [178025-jigoku-hell.json](./178025-jigoku-hell.json) |
 | Jigoku Meguri | 37709 | [37709-jigoku-meguri.json](./37709-jigoku-meguri.json) |
