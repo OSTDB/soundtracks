@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaler | 312135 | [312135-scaler.json](./312135-scaler.json) |
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
+| Scaleton | 284414 | [284414-scaleton.json](./284414-scaleton.json) |
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
@@ -2955,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
 | Shaun White Snowboarding | 5152 | [5152-shaun-white-snowboarding.json](./5152-shaun-white-snowboarding.json) |
 | Shavalyn Pop | 233115 | [233115-shavalyn-pop.json](./233115-shavalyn-pop.json) |
+| Shave N Quit | 284412 | [284412-shave-n-quit.json](./284412-shave-n-quit.json) |
 | Shaverma: Ravshan Edition | 112943 | [112943-shaverma-ravshan-edition.json](./112943-shaverma-ravshan-edition.json) |
 | Shawarma King | 330345 | [330345-shawarma-king.json](./330345-shawarma-king.json) |
 | Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
@@ -4622,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
 | SkillTeam | 344019 | [344019-skillteam.json](./344019-skillteam.json) |
+| Skillwood | 284404 | [284404-skillwood.json](./284404-skillwood.json) |
 | Skin & Bones | 135698 | [135698-skin-and-bones.json](./135698-skin-and-bones.json) |
 | Skin & Scales | 301422 | [301422-skin-and-scales.json](./301422-skin-and-scales.json) |
 | Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
@@ -11498,6 +11501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sun Breed | 264037 | [264037-sun-breed.json](./264037-sun-breed.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
+| Sun Fang Dougram | 284445 | [284445-sun-fang-dougram.json](./284445-sun-fang-dougram.json) |
 | Sun Haven | 144098 | [144098-sun-haven.json](./144098-sun-haven.json) |
 | Sun Haven: Bloom and Doom Pack | 306506 | [306506-sun-haven-bloom-and-doom-pack.json](./306506-sun-haven-bloom-and-doom-pack.json) |
 | Sun Haven: Celestial Pack | 306507 | [306507-sun-haven-celestial-pack.json](./306507-sun-haven-celestial-pack.json) |
