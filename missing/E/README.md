@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eudemons Online | 76594 | [76594-eudemons-online.json](./76594-eudemons-online.json) |
 | Eufloria | 7596 | [7596-eufloria.json](./7596-eufloria.json) |
 | Eufloria 2 | 413631 | [413631-eufloria-2.json](./413631-eufloria-2.json) |
+| Eufloria Classic | 321480 | [321480-eufloria-classic.json](./321480-eufloria-classic.json) |
 | Eukarion Tales: Origins | 259581 | [259581-eukarion-tales-origins.json](./259581-eukarion-tales-origins.json) |
 | Euler Wars | 130166 | [130166-euler-wars.json](./130166-euler-wars.json) |
 | Eulogy for Nonno | 374813 | [374813-eulogy-for-nonno.json](./374813-eulogy-for-nonno.json) |
