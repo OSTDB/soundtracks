@@ -2665,6 +2665,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonhon: A Vengeful Spirit | 132239 | [132239-wonhon-a-vengeful-spirit.json](./132239-wonhon-a-vengeful-spirit.json) |
 | Wonka Block Party | 373531 | [373531-wonka-block-party.json](./373531-wonka-block-party.json) |
 | Wonka's World of Candy | 112151 | [112151-wonkas-world-of-candy.json](./112151-wonkas-world-of-candy.json) |
+| WonkaZoid: Oompa Candy Flip | 313237 | [313237-wonkazoid-oompa-candy-flip.json](./313237-wonkazoid-oompa-candy-flip.json) |
+| WonkaZoid: Shockball Showdown | 313238 | [313238-wonkazoid-shockball-showdown.json](./313238-wonkazoid-shockball-showdown.json) |
 | Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
 | Wonky Works! | 189051 | [189051-wonky-works.json](./189051-wonky-works.json) |
 | Woo Woo | 388919 | [388919-woo-woo.json](./388919-woo-woo.json) |
@@ -3527,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
 | Wyrmhall: Brush and Banter | 326221 | [326221-wyrmhall-brush-and-banter.json](./326221-wyrmhall-brush-and-banter.json) |
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
+| Wyrmstooth | 313267 | [313267-wyrmstooth.json](./313267-wyrmstooth.json) |
 | Wytchsun: Elleros Origins | 117544 | [117544-wytchsun-elleros-origins.json](./117544-wytchsun-elleros-origins.json) |
 | Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
 | Wyvern | 389106 | [389106-wyvern.json](./389106-wyvern.json) |
