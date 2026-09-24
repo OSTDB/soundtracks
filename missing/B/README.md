@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Exit from Supermarket | 333729 | [333729-backrooms-exit-from-supermarket.json](./333729-backrooms-exit-from-supermarket.json) |
 | Backrooms: Found Footage | 338186 | [338186-backrooms-found-footage.json](./338186-backrooms-found-footage.json) |
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
+| Backrooms: Inside the Escape | 324985 | [324985-backrooms-inside-the-escape.json](./324985-backrooms-inside-the-escape.json) |
 | BackRooms: Lost | 301270 | [301270-backrooms-lost.json](./301270-backrooms-lost.json) |
 | Backrooms: Lost Place | 290543 | [290543-backrooms-lost-place.json](./290543-backrooms-lost-place.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
@@ -2028,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Vector | 393465 | [393465-beat-vector.json](./393465-beat-vector.json) |
 | Beat Weaver | 393657 | [393657-beat-weaver.json](./393657-beat-weaver.json) |
 | Beat Your Boss | 389743 | [389743-beat-your-boss.json](./389743-beat-your-boss.json) |
+| BeatBlast: Rhythm Rampage | 325006 | [325006-beatblast-rhythm-rampage.json](./325006-beatblast-rhythm-rampage.json) |
 | BeatBlasters III | 9045 | [9045-beatblasters-iii.json](./9045-beatblasters-iii.json) |
 | BeatBlox | 68648 | [68648-beatblox.json](./68648-beatblox.json) |
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
@@ -6339,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
 | Bunny Madness Anarchy | 38995 | [38995-bunny-madness-anarchy.json](./38995-bunny-madness-anarchy.json) |
 | Bunny Maid's Estrus Diary | 82777 | [82777-bunny-maids-estrus-diary.json](./82777-bunny-maids-estrus-diary.json) |
+| Bunny Mazes | 324986 | [324986-bunny-mazes.json](./324986-bunny-mazes.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
