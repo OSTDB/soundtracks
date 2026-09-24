@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead in Your TrackZ | 358913 | [358913-dead-in-your-trackz.json](./358913-dead-in-your-trackz.json) |
 | Dead Inside | 377576 | [377576-dead-inside.json](./377576-dead-inside.json) |
 | Dead Island 2: SoLA | 298542 | [298542-dead-island-2-sola.json](./298542-dead-island-2-sola.json) |
+| Dead Island 2: Ultimate Edition | 320310 | [320310-dead-island-2-ultimate-edition.json](./320310-dead-island-2-ultimate-edition.json) |
 | Dead Island: Bloodbath Arena | 22932 | [22932-dead-island-bloodbath-arena.json](./22932-dead-island-bloodbath-arena.json) |
 | Dead Island: Game of the Year Edition | 47400 | [47400-dead-island-game-of-the-year-edition.json](./47400-dead-island-game-of-the-year-edition.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
@@ -3014,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dices Toss: The Falling Eight Count | 232537 | [232537-dices-toss-the-falling-eight-count.json](./232537-dices-toss-the-falling-eight-count.json) |
 | Dicevaders | 386448 | [386448-dicevaders.json](./386448-dicevaders.json) |
 | Dicewars DS | 229135 | [229135-dicewars-ds.json](./229135-dicewars-ds.json) |
+| Dicey Chess | 320304 | [320304-dicey-chess.json](./320304-dicey-chess.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
 | Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
 | Dicey Dungeons Reunion | 208403 | [208403-dicey-dungeons-reunion.json](./208403-dicey-dungeons-reunion.json) |
@@ -4564,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Biker | 105901 | [105901-doodle-biker.json](./105901-doodle-biker.json) |
 | Doodle Bowling | 65451 | [65451-doodle-bowling.json](./65451-doodle-bowling.json) |
 | Doodle Cat | 343797 | [343797-doodle-cat.json](./343797-doodle-cat.json) |
+| Doodle Cats | 320325 | [320325-doodle-cats.json](./320325-doodle-cats.json) |
 | Doodle Creatures HD | 100873 | [100873-doodle-creatures-hd.json](./100873-doodle-creatures-hd.json) |
 | Doodle Date | 96632 | [96632-doodle-date.json](./96632-doodle-date.json) |
 | Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
@@ -4587,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God: Merge Evolution | 334699 | [334699-doodle-god-merge-evolution.json](./334699-doodle-god-merge-evolution.json) |
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
 | Doodle Hex | 21475 | [21475-doodle-hex.json](./21475-doodle-hex.json) |
+| Doodle Hunt: Halloween Rush | 320331 | [320331-doodle-hunt-halloween-rush.json](./320331-doodle-hunt-halloween-rush.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
 | Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
@@ -5987,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
+| Droom | 320299 | [320299-droom.json](./320299-droom.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
 | Drop Boy | 183435 | [183435-drop-boy.json](./183435-drop-boy.json) |
 | Drop Cat | 127769 | [127769-drop-cat.json](./127769-drop-cat.json) |
@@ -6127,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Chroma: Far Shore | 196699 | [196699-dual-chroma-far-shore.json](./196699-dual-chroma-far-shore.json) |
 | Dual Chroma: Haereticus | 259563 | [259563-dual-chroma-haereticus.json](./259563-dual-chroma-haereticus.json) |
 | Dual Core | 33168 | [33168-dual-core.json](./33168-dual-core.json) |
+| Dual Discovery: Unite Challenge | 320318 | [320318-dual-discovery-unite-challenge.json](./320318-dual-discovery-unite-challenge.json) |
 | Dual Eclipse | 309848 | [309848-dual-eclipse.json](./309848-dual-eclipse.json) |
 | Dual Force | 413669 | [413669-dual-force.json](./413669-dual-force.json) |
 | Dual Heroes | 3477 | [3477-dual-heroes.json](./3477-dual-heroes.json) |
@@ -6722,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
 | Dusttale Reimagined | 329662 | [329662-dusttale-reimagined.json](./329662-dusttale-reimagined.json) |
 | Dusttale: The Genocide's End | 362333 | [362333-dusttale-the-genocides-end.json](./362333-dusttale-the-genocides-end.json) |
+| Dusttale: The Murderous Comedy | 320339 | [320339-dusttale-the-murderous-comedy.json](./320339-dusttale-the-murderous-comedy.json) |
 | Dusttrust X | 329675 | [329675-dusttrust-x.json](./329675-dusttrust-x.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
 | Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
