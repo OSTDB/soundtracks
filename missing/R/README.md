@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
 | Railgun 500 | 264595 | [264595-railgun-500.json](./264595-railgun-500.json) |
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
+| Railink | 329107 | [329107-railink.json](./329107-railink.json) |
 | RailKing's Model Railroad Simulator | 80190 | [80190-railkings-model-railroad-simulator.json](./80190-railkings-model-railroad-simulator.json) |
 | Railroad Corporation | 112362 | [112362-railroad-corporation.json](./112362-railroad-corporation.json) |
 | Railroad Crossing Play | 389093 | [389093-railroad-crossing-play.json](./389093-railroad-crossing-play.json) |
@@ -816,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravage Road | 228458 | [228458-ravage-road.json](./228458-ravage-road.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
+| Raven Gold | 329065 | [329065-raven-gold.json](./329065-raven-gold.json) |
 | Raven Quest | 133198 | [133198-raven-quest.json](./133198-raven-quest.json) |
 | Raven Squad: Operation Hidden Dagger | 7156 | [7156-raven-squad-operation-hidden-dagger.json](./7156-raven-squad-operation-hidden-dagger.json) |
 | Raven's Cry | 7686 | [7686-ravens-cry.json](./7686-ravens-cry.json) |
@@ -3622,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky's Boots | 72978 | [72978-rockys-boots.json](./72978-rockys-boots.json) |
 | Roco Kingdom | 395852 | [395852-roco-kingdom.json](./395852-roco-kingdom.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
+| Rod Roll | 329102 | [329102-rod-roll.json](./329102-rod-roll.json) |
 | ROD: Revolt of Defense | 31933 | [31933-rod-revolt-of-defense.json](./31933-rod-revolt-of-defense.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
