@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuha & Fuyumi: When Summer And Winter Meet | 383060 | [383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json](./383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json) |
 | Natsuiro Communication | 77943 | [77943-natsuiro-communication.json](./77943-natsuiro-communication.json) |
 | Natsuiro High School: Seishun Hakusho | 52602 | [52602-natsuiro-high-school-seishun-hakusho.json](./52602-natsuiro-high-school-seishun-hakusho.json) |
+| Natsuiro Komachi: Ichiji Senka | 327962 | [327962-natsuiro-komachi-ichiji-senka.json](./327962-natsuiro-komachi-ichiji-senka.json) |
 | Natsuiro Ramune | 97316 | [97316-natsuiro-ramune.json](./97316-natsuiro-ramune.json) |
 | Natsuiro Recipe | 60240 | [60240-natsuiro-recipe.json](./60240-natsuiro-recipe.json) |
 | Natsuki And Chill | 354520 | [354520-natsuki-and-chill.json](./354520-natsuki-and-chill.json) |
@@ -2239,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah Please! | 239751 | [239751-noah-please.json](./239751-noah-please.json) |
 | Noah's Ark | 150496 | [150496-noahs-ark.json](./150496-noahs-ark.json) |
 | Noah's Ark | 210023 | [210023-noahs-ark.json](./210023-noahs-ark.json) |
+| Noah's Ark | 327970 | [327970-noahs-ark.json](./327970-noahs-ark.json) |
 | Noah's Ark | 48192 | [48192-noahs-ark.json](./48192-noahs-ark.json) |
 | Noah's Ark Animal Adventures | 213377 | [213377-noahs-ark-animal-adventures.json](./213377-noahs-ark-animal-adventures.json) |
 | Noah's Ark: Animal Adventure | 326586 | [326586-noahs-ark-animal-adventure.json](./326586-noahs-ark-animal-adventure.json) |
