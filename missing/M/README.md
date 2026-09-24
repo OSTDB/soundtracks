@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a Good Level Contest X3: The Movie - The Contest: The Game | 304213 | [304213-make-a-good-level-contest-x3-the-movie-the-contest-the-game.json](./304213-make-a-good-level-contest-x3-the-movie-the-contest-the-game.json) |
 | Make a Good Mega Man Level Contest | 192401 | [192401-make-a-good-mega-man-level-contest.json](./192401-make-a-good-mega-man-level-contest.json) |
 | Make a Good Mega Man Level Contest 2 | 192402 | [192402-make-a-good-mega-man-level-contest-2.json](./192402-make-a-good-mega-man-level-contest-2.json) |
+| Make a Good Mega Man Level Contest 3 | 305260 | [305260-make-a-good-mega-man-level-contest-3.json](./305260-make-a-good-mega-man-level-contest-3.json) |
 | Make a Good Mega Man Level: Episode Zero | 197785 | [197785-make-a-good-mega-man-level-episode-zero.json](./197785-make-a-good-mega-man-level-episode-zero.json) |
 | Make a Happy Baby | 239039 | [239039-make-a-happy-baby.json](./239039-make-a-happy-baby.json) |
 | Make a Killing | 118827 | [118827-make-a-killing.json](./118827-make-a-killing.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchbox: Cross Town Heroes | 49329 | [49329-matchbox-cross-town-heroes.json](./49329-matchbox-cross-town-heroes.json) |
 | Matchbox: Driving Adventures | 305052 | [305052-matchbox-driving-adventures.json](./305052-matchbox-driving-adventures.json) |
 | Matchbox: Emergency Patrol | 49963 | [49963-matchbox-emergency-patrol.json](./49963-matchbox-emergency-patrol.json) |
+| Matchbox's Pizza Adventure | 305307 | [305307-matchboxs-pizza-adventure.json](./305307-matchboxs-pizza-adventure.json) |
 | Matched | 253009 | [253009-matched.json](./253009-matched.json) |
 | Matchem | 91737 | [91737-matchem.json](./91737-matchem.json) |
 | Matches Puzzle Game | 117754 | [117754-matches-puzzle-game.json](./117754-matches-puzzle-game.json) |
@@ -2738,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Custom Night | 389412 | [389412-mega-custom-night.json](./389412-mega-custom-night.json) |
 | Mega Deal Card | 390276 | [390276-mega-deal-card.json](./390276-mega-deal-card.json) |
 | Mega Demon Blaster | 207379 | [207379-mega-demon-blaster.json](./207379-mega-demon-blaster.json) |
+| Mega Drive | 305267 | [305267-mega-drive.json](./305267-mega-drive.json) |
 | Mega Drive 3 | 230834 | [230834-mega-drive-3.json](./230834-mega-drive-3.json) |
 | Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
 | Mega Drive Mini 2 | 215702 | [215702-mega-drive-mini-2.json](./215702-mega-drive-mini-2.json) |
@@ -3324,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
 | Mènghuàn Shuǐguǒ Pán: 777 Casino | 86066 | [86066-menghuan-shuiguo-pan-777-casino.json](./86066-menghuan-shuiguo-pan-777-casino.json) |
 | Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo | 208936 | [208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json](./208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json) |
+| Menhera Ota-hime Circle: Needy Princess Nerd Club | 305286 | [305286-menhera-ota-hime-circle-needy-princess-nerd-club.json](./305286-menhera-ota-hime-circle-needy-princess-nerd-club.json) |
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
 | Menherafflesia Flowering Abyss | 151691 | [151691-menherafflesia-flowering-abyss.json](./151691-menherafflesia-flowering-abyss.json) |
 | Menherarium | 331675 | [331675-menherarium.json](./331675-menherarium.json) |
@@ -4678,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
 | Mini Stasol | 366918 | [366918-mini-stasol.json](./366918-mini-stasol.json) |
 | Mini Subway: Logic on the Metro Line | 209693 | [209693-mini-subway-logic-on-the-metro-line.json](./209693-mini-subway-logic-on-the-metro-line.json) |
+| Mini TD 2: Relax Tower Defense | 305272 | [305272-mini-td-2-relax-tower-defense.json](./305272-mini-td-2-relax-tower-defense.json) |
 | Mini Tekton | 120822 | [120822-mini-tekton.json](./120822-mini-tekton.json) |
 | Mini Tennis | 242560 | [242560-mini-tennis.json](./242560-mini-tennis.json) |
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
