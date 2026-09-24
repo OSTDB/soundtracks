@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 7 - The Divide | 347873 | [347873-the-finals-season-7-the-divide.json](./347873-the-finals-season-7-the-divide.json) |
 | The Finals: Season 9 - Dragon Rising | 381152 | [381152-the-finals-season-9-dragon-rising.json](./381152-the-finals-season-9-dragon-rising.json) |
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
+| The Fire Nobody Started | 332067 | [332067-the-fire-nobody-started.json](./332067-the-fire-nobody-started.json) |
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
 | The Firemen | 42621 | [42621-the-firemen.json](./42621-the-firemen.json) |
@@ -4342,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIV: Shun'ei Kung-Fu Costume | 342867 | [342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json](./342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json) |
 | The King Of Fighters XIV: Sylvie Little Red Riding Hood Costume | 342870 | [342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json](./342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
+| The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
 | The King of Figthers 99 | 43912 | [43912-the-king-of-figthers-99.json](./43912-the-king-of-figthers-99.json) |
