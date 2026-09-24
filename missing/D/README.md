@@ -75,6 +75,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dacholer | 196168 | [196168-dacholer.json](./196168-dacholer.json) |
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
 | DACHstudio Puzzle Box: Falkis Potpourri | 357981 | [357981-dachstudio-puzzle-box-falkis-potpourri.json](./357981-dachstudio-puzzle-box-falkis-potpourri.json) |
+| DachStudio Puzzle Box: Grimmstories by datGestruepp | 296427 | [296427-dachstudio-puzzle-box-grimmstories-by-datgestruepp.json](./296427-dachstudio-puzzle-box-grimmstories-by-datgestruepp.json) |
+| DachStudio Puzzle Box: JuVentures | 296428 | [296428-dachstudio-puzzle-box-juventures.json](./296428-dachstudio-puzzle-box-juventures.json) |
+| DachStudio Puzzle Box: Megumi_M Gemstone Zodiacs | 296429 | [296429-dachstudio-puzzle-box-megumi-m-gemstone-zodiacs.json](./296429-dachstudio-puzzle-box-megumi-m-gemstone-zodiacs.json) |
 | DACHstudio Puzzle Box: Melextis' Unicorns | 357984 | [357984-dachstudio-puzzle-box-melextis-unicorns.json](./357984-dachstudio-puzzle-box-melextis-unicorns.json) |
 | DACHstudio Puzzle Box: Nebbi's Animal Photos | 357983 | [357983-dachstudio-puzzle-box-nebbis-animal-photos.json](./357983-dachstudio-puzzle-box-nebbis-animal-photos.json) |
 | DachStudio Puzzle Box: Robots by datGestruepp | 323266 | [323266-dachstudio-puzzle-box-robots-by-datgestruepp.json](./323266-dachstudio-puzzle-box-robots-by-datgestruepp.json) |
@@ -6154,16 +6157,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
 | Drums Hero PC | 37398 | [37398-drums-hero-pc.json](./37398-drums-hero-pc.json) |
 | Drums of War | 307662 | [307662-drums-of-war.json](./307662-drums-of-war.json) |
+| Drums Rock: Battle Beast - 'King for a Day' | 296417 | [296417-drums-rock-battle-beast-king-for-a-day.json](./296417-drums-rock-battle-beast-king-for-a-day.json) |
+| Drums Rock: Blind Guardian - 'Blood Of The Elves' | 296418 | [296418-drums-rock-blind-guardian-blood-of-the-elves.json](./296418-drums-rock-blind-guardian-blood-of-the-elves.json) |
 | Drums Rock: Campaign+ | 306950 | [306950-drums-rock-campaign.json](./306950-drums-rock-campaign.json) |
 | Drums Rock: Collective Soul - 'Shine' | 322216 | [322216-drums-rock-collective-soul-shine.json](./322216-drums-rock-collective-soul-shine.json) |
 | Drums Rock: Disturbed - 'Down with the Sickness' | 310378 | [310378-drums-rock-disturbed-down-with-the-sickness.json](./310378-drums-rock-disturbed-down-with-the-sickness.json) |
 | Drums Rock: Disturbed - 'Stricken' | 310374 | [310374-drums-rock-disturbed-stricken.json](./310374-drums-rock-disturbed-stricken.json) |
 | Drums Rock: Disturbed - 'Ten Thousand Fists' | 310380 | [310380-drums-rock-disturbed-ten-thousand-fists.json](./310380-drums-rock-disturbed-ten-thousand-fists.json) |
+| Drums Rock: Fifth Angel - 'When Angels Kill' | 296420 | [296420-drums-rock-fifth-angel-when-angels-kill.json](./296420-drums-rock-fifth-angel-when-angels-kill.json) |
 | Drums Rock: Green Day - 'American Idiot' | 310375 | [310375-drums-rock-green-day-american-idiot.json](./310375-drums-rock-green-day-american-idiot.json) |
 | Drums Rock: Green Day - 'Holiday' | 310372 | [310372-drums-rock-green-day-holiday.json](./310372-drums-rock-green-day-holiday.json) |
 | Drums Rock: Green Day - 'The American Dream Is Killing Me' | 310376 | [310376-drums-rock-green-day-the-american-dream-is-killing-me.json](./310376-drums-rock-green-day-the-american-dream-is-killing-me.json) |
+| Drums Rock: HammerFall - 'Hearts On Fire' | 296421 | [296421-drums-rock-hammerfall-hearts-on-fire.json](./296421-drums-rock-hammerfall-hearts-on-fire.json) |
 | Drums Rock: Jinjer - 'Pisces' | 322224 | [322224-drums-rock-jinjer-pisces.json](./322224-drums-rock-jinjer-pisces.json) |
 | Drums Rock: Lit - 'My Own Worst Enemy' | 322217 | [322217-drums-rock-lit-my-own-worst-enemy.json](./322217-drums-rock-lit-my-own-worst-enemy.json) |
+| Drums Rock: NorthTale - 'Higher' | 296419 | [296419-drums-rock-northtale-higher.json](./296419-drums-rock-northtale-higher.json) |
 | Drums Rock: Pantera - '5 Minutes Alone' | 310379 | [310379-drums-rock-pantera-5-minutes-alone.json](./310379-drums-rock-pantera-5-minutes-alone.json) |
 | Drums Rock: Pantera - 'Walk' | 310381 | [310381-drums-rock-pantera-walk.json](./310381-drums-rock-pantera-walk.json) |
 | Drums Rock: Pantera x Disturbed Music Pack | 306949 | [306949-drums-rock-pantera-x-disturbed-music-pack.json](./306949-drums-rock-pantera-x-disturbed-music-pack.json) |
@@ -6175,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Spacehog - 'In the Meantime' | 322218 | [322218-drums-rock-spacehog-in-the-meantime.json](./322218-drums-rock-spacehog-in-the-meantime.json) |
 | Drums Rock: The Offspring - 'You’re Gonna Go Far, Kid' | 322219 | [322219-drums-rock-the-offspring-you-re-gonna-go-far-kid.json](./322219-drums-rock-the-offspring-you-re-gonna-go-far-kid.json) |
 | Drums Rock: The Proclaimers - 'I'm Gonna Be (500 Miles)' | 310377 | [310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json](./310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json) |
+| Drums Rock: Twilight Force - 'Twilight Force' | 296422 | [296422-drums-rock-twilight-force-twilight-force.json](./296422-drums-rock-twilight-force-twilight-force.json) |
 | Drums Rock: Undertale - 'Hopes And Dreams' | 322215 | [322215-drums-rock-undertale-hopes-and-dreams.json](./322215-drums-rock-undertale-hopes-and-dreams.json) |
 | Drums Rock: Undertale - 'Megalovania' | 322214 | [322214-drums-rock-undertale-megalovania.json](./322214-drums-rock-undertale-megalovania.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
