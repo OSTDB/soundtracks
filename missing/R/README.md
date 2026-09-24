@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiation Caterpillar | 410229 | [410229-radiation-caterpillar.json](./410229-radiation-caterpillar.json) |
 | Radiator Forever | 20269 | [20269-radiator-forever.json](./20269-radiator-forever.json) |
 | Radica Junior Bass Fishin' | 403834 | [403834-radica-junior-bass-fishin.json](./403834-radica-junior-bass-fishin.json) |
+| Radical Aces | 320919 | [320919-radical-aces.json](./320919-radical-aces.json) |
 | Radical Bomber!! Jirai-kun | 41392 | [41392-radical-bomber-jirai-kun.json](./41392-radical-bomber-jirai-kun.json) |
 | Radical Dreamers: Le Trésor Interdit | 1803 | [1803-radical-dreamers-le-tresor-interdit.json](./1803-radical-dreamers-le-tresor-interdit.json) |
 | Radical Fishing | 283311 | [283311-radical-fishing.json](./283311-radical-fishing.json) |
