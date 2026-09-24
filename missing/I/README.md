@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intersection of Three Circles | 374692 | [374692-intersection-of-three-circles.json](./374692-intersection-of-three-circles.json) |
 | Intersolar Overdrive | 111676 | [111676-intersolar-overdrive.json](./111676-intersolar-overdrive.json) |
 | InterSpace | 258209 | [258209-interspace.json](./258209-interspace.json) |
+| Interstate 35 | 322155 | [322155-interstate-35.json](./322155-interstate-35.json) |
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
 | Interstate Drifter 1999: Hyperdrive | 296936 | [296936-interstate-drifter-1999-hyperdrive.json](./296936-interstate-drifter-1999-hyperdrive.json) |
 | Interstellar Connection | 183013 | [183013-interstellar-connection.json](./183013-interstellar-connection.json) |
