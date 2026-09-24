@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone: Rise of the Black Dogs | 3423 | [3423-battlezone-rise-of-the-black-dogs.json](./3423-battlezone-rise-of-the-black-dogs.json) |
 | Battlezone: The Red Odyssey | 238590 | [238590-battlezone-the-red-odyssey.json](./238590-battlezone-the-red-odyssey.json) |
 | Battlot | 404418 | [404418-battlot.json](./404418-battlot.json) |
+| Batty Builders | 293716 | [293716-batty-builders.json](./293716-batty-builders.json) |
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
 | Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
@@ -4953,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Deluxe Edition | 116995 | [116995-borderlands-3-deluxe-edition.json](./116995-borderlands-3-deluxe-edition.json) |
 | Borderlands 3: Diamond Loot Chest - Collector's Edition | 136268 | [136268-borderlands-3-diamond-loot-chest-collectors-edition.json](./136268-borderlands-3-diamond-loot-chest-collectors-edition.json) |
 | Borderlands 3: Director's Cut | 271818 | [271818-borderlands-3-directors-cut.json](./271818-borderlands-3-directors-cut.json) |
+| Borderlands 3: Season Pass 2 | 293719 | [293719-borderlands-3-season-pass-2.json](./293719-borderlands-3-season-pass-2.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
 | Borderlands 4: Story Pack 2 - FL4K and the Last Resort | 417666 | [417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json](./417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json) |
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
