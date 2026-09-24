@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
+| A Wish Star | 308887 | [308887-a-wish-star.json](./308887-a-wish-star.json) |
 | A Wizard's Curse | 416855 | [416855-a-wizards-curse.json](./416855-a-wizards-curse.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
@@ -3711,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartus | 276710 | [276710-apartus.json](./276710-apartus.json) |
 | Apassionata: A Passionate Horse-Show - My Show | 269644 | [269644-apassionata-a-passionate-horse-show-my-show.json](./269644-apassionata-a-passionate-horse-show-my-show.json) |
 | Apathy Hayarigami | 212255 | [212255-apathy-hayarigami.json](./212255-apathy-hayarigami.json) |
+| Apathy Satsujin Club | 308888 | [308888-apathy-satsujin-club.json](./308888-apathy-satsujin-club.json) |
 | Apathy: Arai Shouji - DLC | 358497 | [358497-apathy-arai-shouji-dlc.json](./358497-apathy-arai-shouji-dlc.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Himitsu | 212257 | [212257-apathy-gakkou-de-atta-kowai-hanashi-himitsu.json](./212257-apathy-gakkou-de-atta-kowai-hanashi-himitsu.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Kiwame | 212259 | [212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json](./212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json) |
@@ -4685,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Contest | 96667 | [96667-armor-contest.json](./96667-armor-contest.json) |
 | Armor Heroes | 196793 | [196793-armor-heroes.json](./196793-armor-heroes.json) |
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
+| Armor of Doom | 308886 | [308886-armor-of-doom.json](./308886-armor-of-doom.json) |
 | Armor of Heroes | 140015 | [140015-armor-of-heroes.json](./140015-armor-of-heroes.json) |
 | Armored | 151201 | [151201-armored.json](./151201-armored.json) |
 | Armored Animals: H1N1z | 86567 | [86567-armored-animals-h1n1z.json](./86567-armored-animals-h1n1z.json) |
