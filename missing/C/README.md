@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Hand | 326195 | [326195-castaway-hand.json](./326195-castaway-hand.json) |
 | Castaway on a Weird Island | 174198 | [174198-castaway-on-a-weird-island.json](./174198-castaway-on-a-weird-island.json) |
 | Castaway Paradise | 36279 | [36279-castaway-paradise.json](./36279-castaway-paradise.json) |
+| Castaway Samurai | 319127 | [319127-castaway-samurai.json](./319127-castaway-samurai.json) |
 | Castaway Soul | 336688 | [336688-castaway-soul.json](./336688-castaway-soul.json) |
 | Castaway Survival In Ocean: Build Your Own Raft, Craft | 409694 | [409694-castaway-survival-in-ocean-build-your-own-raft-craft.json](./409694-castaway-survival-in-ocean-build-your-own-raft-craft.json) |
 | Castaways VR | 120341 | [120341-castaways-vr.json](./120341-castaways-vr.json) |
@@ -7183,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
 | Cursed Fables: Before the Clock Strikes - Collector's Edition | 362841 | [362841-cursed-fables-before-the-clock-strikes-collectors-edition.json](./362841-cursed-fables-before-the-clock-strikes-collectors-edition.json) |
 | Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
+| Cursed Hours | 319183 | [319183-cursed-hours.json](./319183-cursed-hours.json) |
 | Cursed House | 186326 | [186326-cursed-house.json](./186326-cursed-house.json) |
 | Cursed House 11 | 214181 | [214181-cursed-house-11.json](./214181-cursed-house-11.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
