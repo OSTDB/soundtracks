@@ -4248,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
 | The Jumping Bird | 342155 | [342155-the-jumping-bird.json](./342155-the-jumping-bird.json) |
 | The Jumping Bonbon Match 3 | 359979 | [359979-the-jumping-bonbon-match-3.json](./359979-the-jumping-bonbon-match-3.json) |
+| The Jumping Boy | 330939 | [330939-the-jumping-boy.json](./330939-the-jumping-boy.json) |
 | The Jumping Brownie | 209644 | [209644-the-jumping-brownie.json](./209644-the-jumping-brownie.json) |
 | The Jumping Brownie: Turbo | 209645 | [209645-the-jumping-brownie-turbo.json](./209645-the-jumping-brownie-turbo.json) |
 | The Jumping Burger | 200724 | [200724-the-jumping-burger.json](./200724-the-jumping-burger.json) |
@@ -4268,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
 | The Jumping Ice Cream | 216357 | [216357-the-jumping-ice-cream.json](./216357-the-jumping-ice-cream.json) |
+| The Jumping Melon Rush | 330937 | [330937-the-jumping-melon-rush.json](./330937-the-jumping-melon-rush.json) |
 | The Jumping Muffin | 229166 | [229166-the-jumping-muffin.json](./229166-the-jumping-muffin.json) |
 | The Jumping Muffin: Turbo | 229167 | [229167-the-jumping-muffin-turbo.json](./229167-the-jumping-muffin-turbo.json) |
 | The Jumping Noodles: Turbo | 212792 | [212792-the-jumping-noodles-turbo.json](./212792-the-jumping-noodles-turbo.json) |
@@ -6065,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Huntress | 218587 | [218587-the-silent-huntress.json](./218587-the-silent-huntress.json) |
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
 | The Silent One | 347763 | [347763-the-silent-one.json](./347763-the-silent-one.json) |
+| The Silent Suite | 330923 | [330923-the-silent-suite.json](./330923-the-silent-suite.json) |
 | The Silver Age | 209556 | [209556-the-silver-age.json](./209556-the-silver-age.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
@@ -6811,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
 | The Ultimate Adventure Games Pack Vol.1 | 96527 | [96527-the-ultimate-adventure-games-pack-vol-1.json](./96527-the-ultimate-adventure-games-pack-vol-1.json) |
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
+| The Ultimate Banana Game | 330898 | [330898-the-ultimate-banana-game.json](./330898-the-ultimate-banana-game.json) |
 | The Ultimate Doom: Knee-Deep in Zdoom | 196708 | [196708-the-ultimate-doom-knee-deep-in-zdoom.json](./196708-the-ultimate-doom-knee-deep-in-zdoom.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
 | The Ultimate Haunted House | 12140 | [12140-the-ultimate-haunted-house.json](./12140-the-ultimate-haunted-house.json) |
@@ -7323,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's Blood in my Soup | 382340 | [382340-theres-blood-in-my-soup.json](./382340-theres-blood-in-my-soup.json) |
 | There's No Dinosaurs 2 | 289970 | [289970-theres-no-dinosaurs-2.json](./289970-theres-no-dinosaurs-2.json) |
 | There's No Dinosaurs 2: Dark | 316239 | [316239-theres-no-dinosaurs-2-dark.json](./316239-theres-no-dinosaurs-2-dark.json) |
+| There's No Dragons | 330899 | [330899-theres-no-dragons.json](./330899-theres-no-dragons.json) |
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
 | There's No Monsters | 306991 | [306991-theres-no-monsters.json](./306991-theres-no-monsters.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
@@ -11596,6 +11601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
+| Tryhard | 330935 | [330935-tryhard.json](./330935-tryhard.json) |
 | Trying | 225719 | [225719-trying.json](./225719-trying.json) |
 | Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
 | Tryment | 318057 | [318057-tryment.json](./318057-tryment.json) |
@@ -11836,6 +11842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabout Bakeshop | 303245 | [303245-turnabout-bakeshop.json](./303245-turnabout-bakeshop.json) |
 | Turnabout Divergence | 318785 | [318785-turnabout-divergence.json](./318785-turnabout-divergence.json) |
 | Turnabout Heartache | 308428 | [308428-turnabout-heartache.json](./308428-turnabout-heartache.json) |
+| Turnabout in Payne and Suffering | 330912 | [330912-turnabout-in-payne-and-suffering.json](./330912-turnabout-in-payne-and-suffering.json) |
 | Turnabout Revivals | 303253 | [303253-turnabout-revivals.json](./303253-turnabout-revivals.json) |
 | Turnabout Revolution | 308531 | [308531-turnabout-revolution.json](./308531-turnabout-revolution.json) |
 | Turnabout Steampunk | 318775 | [318775-turnabout-steampunk.json](./318775-turnabout-steampunk.json) |
