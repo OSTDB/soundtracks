@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance II: Legacy of the Forge | 361887 | [361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json](./361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
 | Kingdom Fortress | 337293 | [337293-kingdom-fortress.json](./337293-kingdom-fortress.json) |
+| Kingdom Hearts | 301925 | [301925-kingdom-hearts.json](./301925-kingdom-hearts.json) |
 | Kingdom Hearts 10th Anniversary 3D+Days+Re:coded Box | 89879 | [89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json](./89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json) |
 | Kingdom Hearts 3D: Dream Drop Distance - Mark of Mastery Edition | 89897 | [89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json](./89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json) |
 | Kingdom Hearts Birth by Sleep Final Mix | 221997 | [221997-kingdom-hearts-birth-by-sleep-final-mix.json](./221997-kingdom-hearts-birth-by-sleep-final-mix.json) |
@@ -1656,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of Valour 3 HD | 285585 | [285585-knight-of-valour-3-hd.json](./285585-knight-of-valour-3-hd.json) |
 | Knight On The Moon | 350621 | [350621-knight-on-the-moon.json](./350621-knight-on-the-moon.json) |
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
+| Knight Runner: Blade and Bolt | 301888 | [301888-knight-runner-blade-and-bolt.json](./301888-knight-runner-blade-and-bolt.json) |
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
 | Knight Sim Life | 300868 | [300868-knight-sim-life.json](./300868-knight-sim-life.json) |
 | Knight Slinger | 64103 | [64103-knight-slinger.json](./64103-knight-slinger.json) |
