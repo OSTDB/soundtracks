@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe of Trials | 318789 | [318789-universe-of-trials.json](./318789-universe-of-trials.json) |
 | Universe Rhythm Shooting | 337606 | [337606-universe-rhythm-shooting.json](./337606-universe-rhythm-shooting.json) |
 | Universe Size Comparison VR | 295281 | [295281-universe-size-comparison-vr.json](./295281-universe-size-comparison-vr.json) |
+| Universe Surfing | 297575 | [297575-universe-surfing.json](./297575-universe-surfing.json) |
 | Universe Survivors | 236279 | [236279-universe-survivors.json](./236279-universe-survivors.json) |
 | Universe Unknown | 304623 | [304623-universe-unknown.json](./304623-universe-unknown.json) |
 | Universe: Unknown | 73224 | [73224-universe-unknown.json](./73224-universe-unknown.json) |
