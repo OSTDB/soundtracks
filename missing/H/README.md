@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Jigsaw Puzzles: Puzzle Game for Kids & Toddlers | 187359 | [187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json](./187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json) |
 | Halloween Madness | 75118 | [75118-halloween-madness.json](./75118-halloween-madness.json) |
 | Halloween Makeover: Spa, Makeup & Dressup Salon | 90374 | [90374-halloween-makeover-spa-makeup-and-dressup-salon.json](./90374-halloween-makeover-spa-makeup-and-dressup-salon.json) |
+| Halloween Memory Quest | 321488 | [321488-halloween-memory-quest.json](./321488-halloween-memory-quest.json) |
 | Halloween Mysteries | 30806 | [30806-halloween-mysteries.json](./30806-halloween-mysteries.json) |
 | Halloween Night Archery | 84529 | [84529-halloween-night-archery.json](./84529-halloween-night-archery.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
@@ -293,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallway of Horrors | 319804 | [319804-hallway-of-horrors.json](./319804-hallway-of-horrors.json) |
 | Halmaverse | 340409 | [340409-halmaverse.json](./340409-halmaverse.json) |
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
+| Halo 2 Digsite: E3 2003 Demo | 321524 | [321524-halo-2-digsite-e3-2003-demo.json](./321524-halo-2-digsite-e3-2003-demo.json) |
 | Halo 2: Limited Collector's Edition | 45149 | [45149-halo-2-limited-collectors-edition.json](./45149-halo-2-limited-collectors-edition.json) |
 | Halo 2: Multiplayer Map Pack | 3122 | [3122-halo-2-multiplayer-map-pack.json](./3122-halo-2-multiplayer-map-pack.json) |
 | Halo 2: Project Cartographer | 241485 | [241485-halo-2-project-cartographer.json](./241485-halo-2-project-cartographer.json) |
@@ -475,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haneru no Tobira Wii: Kirigirisu | 266282 | [266282-haneru-no-tobira-wii-kirigirisu.json](./266282-haneru-no-tobira-wii-kirigirisu.json) |
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
+| Hang Glider Simulator | 321506 | [321506-hang-glider-simulator.json](./321506-hang-glider-simulator.json) |
 | Hang Gliding: VR Experience | 243220 | [243220-hang-gliding-vr-experience.json](./243220-hang-gliding-vr-experience.json) |
 | Hang On | 169892 | [169892-hang-on.json](./169892-hang-on.json) |
 | Hang Out | 405718 | [405718-hang-out.json](./405718-hang-out.json) |
@@ -2839,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Matsuri: Final Chapter - Miotsukushi-hen | 262697 | [262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json](./262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Kakera Asobi | 262698 | [262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json](./262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json) |
 | Higurashi no Naku Koro ni Sui | 60788 | [60788-higurashi-no-naku-koro-ni-sui.json](./60788-higurashi-no-naku-koro-ni-sui.json) |
+| Higurashi no Naku Koro ni: Kuradashi-hen | 321476 | [321476-higurashi-no-naku-koro-ni-kuradashi-hen.json](./321476-higurashi-no-naku-koro-ni-kuradashi-hen.json) |
 | Higurashi When They Cry | 9700 | [9700-higurashi-when-they-cry.json](./9700-higurashi-when-they-cry.json) |
 | Higurashi When They Cry Hou - Console Arcs | 347709 | [347709-higurashi-when-they-cry-hou-console-arcs.json](./347709-higurashi-when-they-cry-hou-console-arcs.json) |
 | Higurashi When They Cry Hou: Ch.4 Himatsubushi | 31363 | [31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json](./31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json) |
