@@ -2731,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
+| Long Yard Run | 311052 | [311052-long-yard-run.json](./311052-long-yard-run.json) |
 | Lóng zhī Gǔ: Huáijiù Fú | 398574 | [398574-long-zhi-gu-huaijiu-fu.json](./398574-long-zhi-gu-huaijiu-fu.json) |
 | Longboard Stunts and Tricks | 99618 | [99618-longboard-stunts-and-tricks.json](./99618-longboard-stunts-and-tricks.json) |
 | Longbow Anthology | 70358 | [70358-longbow-anthology.json](./70358-longbow-anthology.json) |
