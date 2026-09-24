@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Obscurity | 285544 | [285544-ominous-obscurity.json](./285544-ominous-obscurity.json) |
 | Ominous Presence | 252725 | [252725-ominous-presence.json](./252725-ominous-presence.json) |
 | Ominous Recall | 317382 | [317382-ominous-recall.json](./317382-ominous-recall.json) |
+| Ominous Tales: The Forsaken Isle - Collector's Edition | 283839 | [283839-ominous-tales-the-forsaken-isle-collectors-edition.json](./283839-ominous-tales-the-forsaken-isle-collectors-edition.json) |
 | Omise de Tensyu | 138249 | [138249-omise-de-tensyu.json](./138249-omise-de-tensyu.json) |
 | Omizu no Hanamichi | 257113 | [257113-omizu-no-hanamichi.json](./257113-omizu-no-hanamichi.json) |
 | Ommatophilia | 288833 | [288833-ommatophilia.json](./288833-ommatophilia.json) |
@@ -1749,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Pretty Boys Dropout! | 249863 | [249863-otoko-cross-pretty-boys-dropout.json](./249863-otoko-cross-pretty-boys-dropout.json) |
 | Otoko Cross: Pretty Boys Mahjong Solitaire | 199569 | [199569-otoko-cross-pretty-boys-mahjong-solitaire.json](./199569-otoko-cross-pretty-boys-mahjong-solitaire.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
+| Otokonoko Fishing | 283848 | [283848-otokonoko-fishing.json](./283848-otokonoko-fishing.json) |
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
 | Otome Daoshi Fighting For Love | 391856 | [391856-otome-daoshi-fighting-for-love.json](./391856-otome-daoshi-fighting-for-love.json) |
 | Otome ga Musubu Tsukiyo no Kirameki | 194593 | [194593-otome-ga-musubu-tsukiyo-no-kirameki.json](./194593-otome-ga-musubu-tsukiyo-no-kirameki.json) |
@@ -1818,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Life: Beginnings & Always | 122028 | [122028-our-life-beginnings-and-always.json](./122028-our-life-beginnings-and-always.json) |
 | Our Life: Beginnings & Always - Baxter's Story | 248049 | [248049-our-life-beginnings-and-always-baxters-story.json](./248049-our-life-beginnings-and-always-baxters-story.json) |
 | Our Life: Now & Forever | 187392 | [187392-our-life-now-and-forever.json](./187392-our-life-now-and-forever.json) |
+| Our Long Walk Home | 283815 | [283815-our-long-walk-home.json](./283815-our-long-walk-home.json) |
 | Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
 | Our Metal Bowl | 390653 | [390653-our-metal-bowl.json](./390653-our-metal-bowl.json) |
 | Our Mind | 238496 | [238496-our-mind.json](./238496-our-mind.json) |
