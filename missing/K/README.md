@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KMON: Genesis | 254790 | [254790-kmon-genesis.json](./254790-kmon-genesis.json) |
 | Knee-deep in 2023 | 261822 | [261822-knee-deep-in-2023.json](./261822-knee-deep-in-2023.json) |
 | Knee-Deep in Kdizd | 260668 | [260668-knee-deep-in-kdizd.json](./260668-knee-deep-in-kdizd.json) |
+| Kneedle Knight | 291531 | [291531-kneedle-knight.json](./291531-kneedle-knight.json) |
 | Knell | 412371 | [412371-knell.json](./412371-knell.json) |
 | Knick Knack Stack | 400351 | [400351-knick-knack-stack.json](./400351-knick-knack-stack.json) |
 | Knife Aim Hit: Throwing Games | 235297 | [235297-knife-aim-hit-throwing-games.json](./235297-knife-aim-hit-throwing-games.json) |
