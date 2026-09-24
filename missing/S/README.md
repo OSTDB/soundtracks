@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
 | Sail Forth | 115491 | [115491-sail-forth.json](./115491-sail-forth.json) |
+| Sail Forth: Maelstrom | 283240 | [283240-sail-forth-maelstrom.json](./283240-sail-forth-maelstrom.json) |
 | Sail or Fail | 290999 | [290999-sail-or-fail.json](./290999-sail-or-fail.json) |
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
 | Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
@@ -751,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
+| Santa's Workshop Challenge: The North Pole Gift Adventure | 283241 | [283241-santas-workshop-challenge-the-north-pole-gift-adventure.json](./283241-santas-workshop-challenge-the-north-pole-gift-adventure.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
 | Santa's Xmas Adventure | 138194 | [138194-santas-xmas-adventure.json](./138194-santas-xmas-adventure.json) |
 | SantaFly | 92838 | [92838-santafly.json](./92838-santafly.json) |
@@ -1185,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi | 86089 | [86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json](./86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Sci-Fi Channel Trivia Game | 98802 | [98802-sci-fi-channel-trivia-game.json](./98802-sci-fi-channel-trivia-game.json) |
+| Sci-Fi Racer Simulator | 283245 | [283245-sci-fi-racer-simulator.json](./283245-sci-fi-racer-simulator.json) |
 | Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
 | Science Girls | 340006 | [340006-science-girls.json](./340006-science-girls.json) |
 | Science Papa | 21112 | [21112-science-papa.json](./21112-science-papa.json) |
@@ -2008,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selfpolis | 217289 | [217289-selfpolis.json](./217289-selfpolis.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
+| Selling Souls | 283244 | [283244-selling-souls.json](./283244-selling-souls.json) |
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
 | Sellsword | 405535 | [405535-sellsword.json](./405535-sellsword.json) |
 | Selsoviet | 411699 | [411699-selsoviet.json](./411699-selsoviet.json) |
@@ -3867,6 +3871,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
 | Sift Heads 0: The Starting Point | 357302 | [357302-sift-heads-0-the-starting-point.json](./357302-sift-heads-0-the-starting-point.json) |
 | Sift Heads 1: Remasterized | 359423 | [359423-sift-heads-1-remasterized.json](./359423-sift-heads-1-remasterized.json) |
+| Sift Heads 2 | 283247 | [283247-sift-heads-2.json](./283247-sift-heads-2.json) |
+| Sift Heads 5 | 283246 | [283246-sift-heads-5.json](./283246-sift-heads-5.json) |
 | Sift Heads Reborn | 191898 | [191898-sift-heads-reborn.json](./191898-sift-heads-reborn.json) |
 | Sift Heads World: Act 1 - Deadly Newcomer | 191902 | [191902-sift-heads-world-act-1-deadly-newcomer.json](./191902-sift-heads-world-act-1-deadly-newcomer.json) |
 | Sift Heads World: Act 3 - Alonzo's Reinforcement | 229949 | [229949-sift-heads-world-act-3-alonzos-reinforcement.json](./229949-sift-heads-world-act-3-alonzos-reinforcement.json) |
@@ -5675,6 +5681,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap Quiz Challenge | 333595 | [333595-snap-quiz-challenge.json](./333595-snap-quiz-challenge.json) |
 | Snap the Cat | 406299 | [406299-snap-the-cat.json](./406299-snap-the-cat.json) |
 | Snap the Sentinel | 141867 | [141867-snap-the-sentinel.json](./141867-snap-the-sentinel.json) |
+| Snap Together: New Challenges | 283243 | [283243-snap-together-new-challenges.json](./283243-snap-together-new-challenges.json) |
+| Snap Together: New Challenges | 283257 | [283257-snap-together-new-challenges.json](./283257-snap-together-new-challenges.json) |
 | Snap! A Cerrado Adventure | 282117 | [282117-snap-a-cerrado-adventure.json](./282117-snap-a-cerrado-adventure.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
 | Snapdots | 62193 | [62193-snapdots.json](./62193-snapdots.json) |
@@ -5779,6 +5787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Strike: Special Ops | 89492 | [89492-sniper-strike-special-ops.json](./89492-sniper-strike-special-ops.json) |
 | Sniper Warrior Elite | 345119 | [345119-sniper-warrior-elite.json](./345119-sniper-warrior-elite.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
+| Sniper: Elite Shooter Squad | 283222 | [283222-sniper-elite-shooter-squad.json](./283222-sniper-elite-shooter-squad.json) |
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
 | Sniper: Ghost Warrior 3 | 10964 | [10964-sniper-ghost-warrior-3.json](./10964-sniper-ghost-warrior-3.json) |
 | Sniperpunk | 189144 | [189144-sniperpunk.json](./189144-sniperpunk.json) |
@@ -8037,6 +8046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedRunners: Mr. Quick's Speedy Bunch | 238041 | [238041-speedrunners-mr-quicks-speedy-bunch.json](./238041-speedrunners-mr-quicks-speedy-bunch.json) |
 | SpeedRunners: Salem's Sprint Squad | 238040 | [238040-speedrunners-salems-sprint-squad.json](./238040-speedrunners-salems-sprint-squad.json) |
 | Speedrunnerz | 257438 | [257438-speedrunnerz.json](./257438-speedrunnerz.json) |
+| Speedster's Collection | 283210 | [283210-speedsters-collection.json](./283210-speedsters-collection.json) |
 | Speedtickers | 365898 | [365898-speedtickers.json](./365898-speedtickers.json) |
 | Speedway Blast | 23868 | [23868-speedway-blast.json](./23868-speedway-blast.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
@@ -9781,6 +9791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship EVO | 138009 | [138009-starship-evo.json](./138009-starship-evo.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
 | Starship Saboteur Prototype | 133249 | [133249-starship-saboteur-prototype.json](./133249-starship-saboteur-prototype.json) |
+| Starship Showdown: Galactic Grand Prix | 283223 | [283223-starship-showdown-galactic-grand-prix.json](./283223-starship-showdown-galactic-grand-prix.json) |
 | Starship Theory | 36962 | [36962-starship-theory.json](./36962-starship-theory.json) |
 | Starship Traders MMO | 254139 | [254139-starship-traders-mmo.json](./254139-starship-traders-mmo.json) |
 | Starship Troopers | 245392 | [245392-starship-troopers.json](./245392-starship-troopers.json) |
@@ -10087,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Gun | 167146 | [167146-stellar-gun.json](./167146-stellar-gun.json) |
 | Stellar Initiative | 261784 | [261784-stellar-initiative.json](./261784-stellar-initiative.json) |
 | Stellar Insurgency | 239760 | [239760-stellar-insurgency.json](./239760-stellar-insurgency.json) |
+| Stellar Interface + Sudoku Zenkai | 283224 | [283224-stellar-interface-sudoku-zenkai.json](./283224-stellar-interface-sudoku-zenkai.json) |
 | Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Mess: Operation Kush | 380122 | [380122-stellar-mess-operation-kush.json](./380122-stellar-mess-operation-kush.json) |
@@ -11272,6 +11284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku-Pro | 366323 | [366323-sudoku-pro.json](./366323-sudoku-pro.json) |
 | Sudoku: Casual Board Game | 250393 | [250393-sudoku-casual-board-game.json](./250393-sudoku-casual-board-game.json) |
 | Sudoku: Classic Sudoku Puzzle | 356882 | [356882-sudoku-classic-sudoku-puzzle.json](./356882-sudoku-classic-sudoku-puzzle.json) |
+| Sudoku: Game for Kids | 283225 | [283225-sudoku-game-for-kids.json](./283225-sudoku-game-for-kids.json) |
 | Sudoku: The Clean One | 180244 | [180244-sudoku-the-clean-one.json](./180244-sudoku-the-clean-one.json) |
 | Sudoku: Unlimited Expansion | 405622 | [405622-sudoku-unlimited-expansion.json](./405622-sudoku-unlimited-expansion.json) |
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
@@ -12064,6 +12077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jump Ninja | 400458 | [400458-super-jump-ninja.json](./400458-super-jump-ninja.json) |
 | Super Kakuro: Cross Sums | 195632 | [195632-super-kakuro-cross-sums.json](./195632-super-kakuro-cross-sums.json) |
 | Super Karoshi | 201134 | [201134-super-karoshi.json](./201134-super-karoshi.json) |
+| Super Kart Mini Car Race | 283227 | [283227-super-kart-mini-car-race.json](./283227-super-kart-mini-car-race.json) |
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
 | Super Kenney | 209683 | [209683-super-kenney.json](./209683-super-kenney.json) |
@@ -13244,6 +13258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi on Wheels | 386292 | [386292-sushi-on-wheels.json](./386292-sushi-on-wheels.json) |
 | Sushi Ou | 308894 | [308894-sushi-ou.json](./308894-sushi-ou.json) |
 | Sushi Race: More Toppings Race Pack | 332600 | [332600-sushi-race-more-toppings-race-pack.json](./332600-sushi-race-more-toppings-race-pack.json) |
+| Sushi Shot | 283228 | [283228-sushi-shot.json](./283228-sushi-shot.json) |
 | Sushi Sort | 255762 | [255762-sushi-sort.json](./255762-sushi-sort.json) |
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
 | Sushi Striker: The Way of Sushido | 37179 | [37179-sushi-striker-the-way-of-sushido.json](./37179-sushi-striker-the-way-of-sushido.json) |
