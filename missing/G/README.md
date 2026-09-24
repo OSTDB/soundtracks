@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
 | Goal! Goal! Goal! | 39549 | [39549-goal-goal-goal.json](./39549-goal-goal-goal.json) |
 | Goal!! | 196270 | [196270-goal.json](./196270-goal.json) |
+| Goal3 | 334303 | [334303-goal3.json](./334303-goal3.json) |
 | Goalgetter | 159803 | [159803-goalgetter.json](./159803-goalgetter.json) |
 | Goalie Challenge VR | 29567 | [29567-goalie-challenge-vr.json](./29567-goalie-challenge-vr.json) |
 | Goalie VR | 67936 | [67936-goalie-vr.json](./67936-goalie-vr.json) |
