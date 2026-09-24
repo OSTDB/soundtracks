@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
+| 2048: StarWars | 313244 | [313244-2048-starwars.json](./313244-2048-starwars.json) |
 | 2048+# | 343995 | [343995-2048.json](./343995-2048.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 2048Puzzle | 357973 | [357973-2048puzzle.json](./357973-2048puzzle.json) |
@@ -1030,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Spirits: Cage of Night | 11438 | [11438-99-spirits-cage-of-night.json](./11438-99-spirits-cage-of-night.json) |
 | 99 Spirits: Weeping Demon's Bell | 11439 | [11439-99-spirits-weeping-demons-bell.json](./11439-99-spirits-weeping-demons-bell.json) |
 | 99 Waves | 283870 | [283870-99-waves.json](./283870-99-waves.json) |
+| 99 Ways to Die | 313838 | [313838-99-ways-to-die.json](./313838-99-ways-to-die.json) |
 | 99% Can't Spot It! Common Sense Battle | 409671 | [409671-99-cant-spot-it-common-sense-battle.json](./409671-99-cant-spot-it-common-sense-battle.json) |
 | 99% Sky Car Racing | 108858 | [108858-99-sky-car-racing.json](./108858-99-sky-car-racing.json) |
 | 994 W 24th | 31147 | [31147-994-w-24th.json](./31147-994-w-24th.json) |
