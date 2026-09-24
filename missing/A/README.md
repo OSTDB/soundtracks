@@ -3292,6 +3292,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Minesweeper | 392464 | [392464-anime-minesweeper.json](./392464-anime-minesweeper.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime puzzle | 152764 | [152764-anime-puzzle.json](./152764-anime-puzzle.json) |
+| Anime Puzzle Quest: 32 Animal Girls in Puzzle /2 | 317953 | [317953-anime-puzzle-quest-32-animal-girls-in-puzzle-2.json](./317953-anime-puzzle-quest-32-animal-girls-in-puzzle-2.json) |
+| Anime Puzzle Quest: Complete DLC Bundle | 317962 | [317962-anime-puzzle-quest-complete-dlc-bundle.json](./317962-anime-puzzle-quest-complete-dlc-bundle.json) |
 | Anime Rally | 326811 | [326811-anime-rally.json](./326811-anime-rally.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
@@ -3716,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aphrodite Evolve Weapons Survivor: Greek Gods Versus Heaven | 404261 | [404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json](./404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json) |
 | Aphrodite's Bathhouse | 364091 | [364091-aphrodites-bathhouse.json](./364091-aphrodites-bathhouse.json) |
 | Apico | 135929 | [135929-apico.json](./135929-apico.json) |
+| Apico 3.0: What Lies Beeneath | 317994 | [317994-apico-3-0-what-lies-beeneath.json](./317994-apico-3-0-what-lies-beeneath.json) |
 | Apico 4.0: Hive of Industry | 330561 | [330561-apico-4-0-hive-of-industry.json](./330561-apico-4-0-hive-of-industry.json) |
 | Apidya | 11906 | [11906-apidya.json](./11906-apidya.json) |
 | Apidya' Special | 409792 | [409792-apidya-special.json](./409792-apidya-special.json) |
@@ -4890,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascend From Nine Mountains | 374310 | [374310-ascend-from-nine-mountains.json](./374310-ascend-from-nine-mountains.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascendance | 117530 | [117530-ascendance.json](./117530-ascendance.json) |
+| Ascendance Fighters | 318000 | [318000-ascendance-fighters.json](./318000-ascendance-fighters.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
 | Ascendants: Power Rising | 52610 | [52610-ascendants-power-rising.json](./52610-ascendants-power-rising.json) |
 | Ascendaria | 336120 | [336120-ascendaria.json](./336120-ascendaria.json) |
@@ -5468,6 +5472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atama no Kaiten no Training: Rubik's Cube & Chou Yuumei Puzzle Tachi | 269564 | [269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json](./269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json) |
 | Atama wo Kitaete Asobu Taisen Yajirushi Puzzle: Puppy Inu Vector One | 122991 | [122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json](./122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json) |
 | Ataque Marino | 113459 | [113459-ataque-marino.json](./113459-ataque-marino.json) |
+| Atari 50: The First Console War | 317961 | [317961-atari-50-the-first-console-war.json](./317961-atari-50-the-first-console-war.json) |
 | Atari 50: The Namco Legendary Pack | 356570 | [356570-atari-50-the-namco-legendary-pack.json](./356570-atari-50-the-namco-legendary-pack.json) |
 | Atari 50: The Wider World of Atari | 317814 | [317814-atari-50-the-wider-world-of-atari.json](./317814-atari-50-the-wider-world-of-atari.json) |
 | Atari Anniversary Edition Redux | 43923 | [43923-atari-anniversary-edition-redux.json](./43923-atari-anniversary-edition-redux.json) |
