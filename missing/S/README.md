@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SchoolMate Sweets! | 22466 | [22466-schoolmate-sweets.json](./22466-schoolmate-sweets.json) |
 | Schoolmates - The Mystery of the Magic Bracelet | 54347 | [54347-schoolmates-the-mystery-of-the-magic-bracelet.json](./54347-schoolmates-the-mystery-of-the-magic-bracelet.json) |
 | Schoolmates: The Mystery of the Magical Bracelet | 165005 | [165005-schoolmates-the-mystery-of-the-magical-bracelet.json](./165005-schoolmates-the-mystery-of-the-magical-bracelet.json) |
+| Schoolnight, 3am | 299870 | [299870-schoolnight-3am.json](./299870-schoolnight-3am.json) |
 | SchoolX | 197854 | [197854-schoolx.json](./197854-schoolx.json) |
 | Schrödinger no Neko: Die Katze von Schrödinger | 230513 | [230513-schrodinger-no-neko-die-katze-von-schrodinger.json](./230513-schrodinger-no-neko-die-katze-von-schrodinger.json) |
 | Schrodinger's Cat Burglar | 270929 | [270929-schrodingers-cat-burglar.json](./270929-schrodingers-cat-burglar.json) |
@@ -1475,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SDST: Deluxe | 168904 | [168904-sdst-deluxe.json](./168904-sdst-deluxe.json) |
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
 | Sea Animal Kingdom Battle Simulator: Sea Monster | 104466 | [104466-sea-animal-kingdom-battle-simulator-sea-monster.json](./104466-sea-animal-kingdom-battle-simulator-sea-monster.json) |
+| Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
 | Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
 | Sea Battle Simulator | 104488 | [104488-sea-battle-simulator.json](./104488-sea-battle-simulator.json) |
 | Sea Battle: Annihilation | 144816 | [144816-sea-battle-annihilation.json](./144816-sea-battle-annihilation.json) |
@@ -3083,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
 | Shift at Midnight | 352789 | [352789-shift-at-midnight.json](./352789-shift-at-midnight.json) |
+| Shift Change | 299868 | [299868-shift-change.json](./299868-shift-change.json) |
 | Shift DX | 26737 | [26737-shift-dx.json](./26737-shift-dx.json) |
 | Shift Em Mania | 27906 | [27906-shift-em-mania.json](./27906-shift-em-mania.json) |
 | Shift Extended | 44531 | [44531-shift-extended.json](./44531-shift-extended.json) |
@@ -4942,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping: Counting Sheep | 321503 | [321503-sleeping-counting-sheep.json](./321503-sleeping-counting-sheep.json) |
 | SleepingPills | 383515 | [383515-sleepingpills.json](./383515-sleepingpills.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
+| Sleepless in the Sapphire City | 299864 | [299864-sleepless-in-the-sapphire-city.json](./299864-sleepless-in-the-sapphire-city.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
 | Sleepover | 401631 | [401631-sleepover.json](./401631-sleepover.json) |
 | Sleepover: Rewake | 374808 | [374808-sleepover-rewake.json](./374808-sleepover-rewake.json) |
@@ -5100,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlimeGear | 106389 | [106389-slimegear.json](./106389-slimegear.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
 | SlimeJumper: Ultimate Jump | 156639 | [156639-slimejumper-ultimate-jump.json](./156639-slimejumper-ultimate-jump.json) |
+| Slimelon | 300786 | [300786-slimelon.json](./300786-slimelon.json) |
 | Slimer | 184489 | [184489-slimer.json](./184489-slimer.json) |
 | Slimes RPG | 110782 | [110782-slimes-rpg.json](./110782-slimes-rpg.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
@@ -5232,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slyme Breaker | 248336 | [248336-slyme-breaker.json](./248336-slyme-breaker.json) |
 | SM Escalation | 97675 | [97675-sm-escalation.json](./97675-sm-escalation.json) |
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
+| SM228: Vanilla | 299850 | [299850-sm228-vanilla.json](./299850-sm228-vanilla.json) |
 | SM64 Colorful Stars | 313109 | [313109-sm64-colorful-stars.json](./313109-sm64-colorful-stars.json) |
 | SM64 Coop Deluxe: Mario in the Multiverse | 378261 | [378261-sm64-coop-deluxe-mario-in-the-multiverse.json](./378261-sm64-coop-deluxe-mario-in-the-multiverse.json) |
 | SM64 Coop DX: Bananza Kong | 386853 | [386853-sm64-coop-dx-bananza-kong.json](./386853-sm64-coop-dx-bananza-kong.json) |
@@ -6489,6 +6495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Chaos Remake | 321992 | [321992-sonic-chaos-remake.json](./321992-sonic-chaos-remake.json) |
 | Sonic Chaos Revolution | 329946 | [329946-sonic-chaos-revolution.json](./329946-sonic-chaos-revolution.json) |
 | Sonic Charge | 331436 | [331436-sonic-charge.json](./331436-sonic-charge.json) |
+| Sonic Chronicles: The Dark Brotherhood | 299874 | [299874-sonic-chronicles-the-dark-brotherhood.json](./299874-sonic-chronicles-the-dark-brotherhood.json) |
 | Sonic Classic | 175974 | [175974-sonic-classic.json](./175974-sonic-classic.json) |
 | Sonic Classic 2 | 175975 | [175975-sonic-classic-2.json](./175975-sonic-classic-2.json) |
 | Sonic Clockwork | 417679 | [417679-sonic-clockwork.json](./417679-sonic-clockwork.json) |
@@ -6796,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic With a Gun | 331977 | [331977-sonic-with-a-gun.json](./331977-sonic-with-a-gun.json) |
 | Sonic World | 239068 | [239068-sonic-world.json](./239068-sonic-world.json) |
 | Sonic World Remix | 332618 | [332618-sonic-world-remix.json](./332618-sonic-world-remix.json) |
+| Sonic X Bowling | 299872 | [299872-sonic-x-bowling.json](./299872-sonic-x-bowling.json) |
 | Sonic X Shadow Generations: Day One Edition | 381127 | [381127-sonic-x-shadow-generations-day-one-edition.json](./381127-sonic-x-shadow-generations-day-one-edition.json) |
 | Sonic X Shadow Generations: Sonic Jam Skin | 323393 | [323393-sonic-x-shadow-generations-sonic-jam-skin.json](./323393-sonic-x-shadow-generations-sonic-jam-skin.json) |
 | Sonic X Shadow Generations: Sonic the Hedgehog 3 Movie Pack | 325688 | [325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json](./325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json) |
@@ -6918,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcery Slam | 333150 | [333150-sorcery-slam.json](./333150-sorcery-slam.json) |
 | Sorcery Tempest | 83261 | [83261-sorcery-tempest.json](./83261-sorcery-tempest.json) |
 | Sorcery! | 88541 | [88541-sorcery.json](./88541-sorcery.json) |
+| Sorcery+ | 300805 | [300805-sorcery.json](./300805-sorcery.json) |
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
 | Sorcières & Compagnie | 351105 | [351105-sorcieres-and-compagnie.json](./351105-sorcieres-and-compagnie.json) |
 | Sore ha Maichiru Sakura no You ni: Re:birth | 368652 | [368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json](./368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json) |
@@ -7098,6 +7107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | Souls Survivors | 272930 | [272930-souls-survivors.json](./272930-souls-survivors.json) |
+| Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
@@ -10967,6 +10977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsurface | 411732 | [411732-subsurface.json](./411732-subsurface.json) |
 | Subsurface Circular | 54780 | [54780-subsurface-circular.json](./54780-subsurface-circular.json) |
 | Subtension | 239670 | [239670-subtension.json](./239670-subtension.json) |
+| Subtera Puzlo | 300803 | [300803-subtera-puzlo.json](./300803-subtera-puzlo.json) |
 | Subterrain: Mines of Titan | 155497 | [155497-subterrain-mines-of-titan.json](./155497-subterrain-mines-of-titan.json) |
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
 | Subterranean Detectives Orin and Satori | 185591 | [185591-subterranean-detectives-orin-and-satori.json](./185591-subterranean-detectives-orin-and-satori.json) |
