@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
 | Cast 'n' Blast | 318564 | [318564-cast-n-blast.json](./318564-cast-n-blast.json) |
+| Cast Away: The Oddysee | 311061 | [311061-cast-away-the-oddysee.json](./311061-cast-away-the-oddysee.json) |
 | Cast Cats | 312755 | [312755-cast-cats.json](./312755-cast-cats.json) |
 | Cast Dice Away | 324901 | [324901-cast-dice-away.json](./324901-cast-dice-away.json) |
 | Cast VR | 132206 | [132206-cast-vr.json](./132206-cast-vr.json) |
@@ -3927,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CMYP | 234603 | [234603-cmyp.json](./234603-cmyp.json) |
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
 | Co-Jump, Fly | 127090 | [127090-co-jump-fly.json](./127090-co-jump-fly.json) |
+| Co-Op Bundle | 311047 | [311047-co-op-bundle.json](./311047-co-op-bundle.json) |
 | Co-op Frenzy: Spirit of the Island + Biped Bundle | 214053 | [214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json](./214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json) |
 | Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
 | Co-op SNEK Online | 81722 | [81722-co-op-snek-online.json](./81722-co-op-snek-online.json) |
@@ -4291,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Cube Spin | 28845 | [28845-color-cube-spin.json](./28845-color-cube-spin.json) |
 | Color Dark Castle | 334678 | [334678-color-dark-castle.json](./334678-color-dark-castle.json) |
 | Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
+| Color Dodge | 311053 | [311053-color-dodge.json](./311053-color-dodge.json) |
 | Color Dots Connect | 148569 | [148569-color-dots-connect.json](./148569-color-dots-connect.json) |
 | Color Fan | 315059 | [315059-color-fan.json](./315059-color-fan.json) |
 | Color Fear | 296656 | [296656-color-fear.json](./296656-color-fear.json) |
