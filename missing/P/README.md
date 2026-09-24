@@ -1778,8 +1778,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perso | 30781 | [30781-perso.json](./30781-perso.json) |
 | Persona 2 Batsu: Infinity Mask | 138231 | [138231-persona-2-batsu-infinity-mask.json](./138231-persona-2-batsu-infinity-mask.json) |
 | Persona 2 Tsumi: Lost Memories | 138268 | [138268-persona-2-tsumi-lost-memories.json](./138268-persona-2-tsumi-lost-memories.json) |
+| Persona 3 Broken Shadow | 289390 | [289390-persona-3-broken-shadow.json](./289390-persona-3-broken-shadow.json) |
 | Persona 3 Em | 136488 | [136488-persona-3-em.json](./136488-persona-3-em.json) |
 | Persona 3 FES Append-han | 358383 | [358383-persona-3-fes-append-han.json](./358383-persona-3-fes-append-han.json) |
+| Persona 3 Illust Puzzle | 289391 | [289391-persona-3-illust-puzzle.json](./289391-persona-3-illust-puzzle.json) |
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
@@ -6290,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull My Finger | 416656 | [416656-pull-my-finger.json](./416656-pull-my-finger.json) |
 | Pull the Beer | 406109 | [406109-pull-the-beer.json](./406109-pull-the-beer.json) |
 | Pull the Pin | 227513 | [227513-pull-the-pin.json](./227513-pull-the-pin.json) |
+| Pull The Pin: Ball Physic Puzzle | 289378 | [289378-pull-the-pin-ball-physic-puzzle.json](./289378-pull-the-pin-ball-physic-puzzle.json) |
 | Pull'em All! | 208964 | [208964-pullem-all.json](./208964-pullem-all.json) |
 | Pullfrog | 152277 | [152277-pullfrog.json](./152277-pullfrog.json) |
 | Pulling Pin: Pull the Pin | 231910 | [231910-pulling-pin-pull-the-pin.json](./231910-pulling-pin-pull-the-pin.json) |
