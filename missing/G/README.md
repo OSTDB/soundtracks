@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghetto Blaster | 47254 | [47254-ghetto-blaster.json](./47254-ghetto-blaster.json) |
 | Ghetto Conspiracy | 127366 | [127366-ghetto-conspiracy.json](./127366-ghetto-conspiracy.json) |
 | Ghetto Zombies: Graffiti Squad | 255711 | [255711-ghetto-zombies-graffiti-squad.json](./255711-ghetto-zombies-graffiti-squad.json) |
+| Ghost Ascension | 290486 | [290486-ghost-ascension.json](./290486-ghost-ascension.json) |
 | Ghost Battle | 78319 | [78319-ghost-battle.json](./78319-ghost-battle.json) |
 | Ghost Blade | 23442 | [23442-ghost-blade.json](./23442-ghost-blade.json) |
 | Ghost Blood | 391320 | [391320-ghost-blood.json](./391320-ghost-blood.json) |
