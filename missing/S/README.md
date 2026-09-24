@@ -1557,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
 | Seaport Tycoon | 245956 | [245956-seaport-tycoon.json](./245956-seaport-tycoon.json) |
+| Seaquest | 308366 | [308366-seaquest.json](./308366-seaquest.json) |
 | Seaquest DSV | 45591 | [45591-seaquest-dsv.json](./45591-seaquest-dsv.json) |
 | SeaQuest DSV | 138802 | [138802-seaquest-dsv.json](./138802-seaquest-dsv.json) |
 | SeaQuest Dungeon | 379346 | [379346-seaquest-dungeon.json](./379346-seaquest-dungeon.json) |
@@ -2970,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Out | 328047 | [328047-shell-out.json](./328047-shell-out.json) |
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
+| Shell's Kitchen: Leo's Journey | 308377 | [308377-shells-kitchen-leos-journey.json](./308377-shells-kitchen-leos-journey.json) |
 | Shell's Kitchen: Nico's Journey | 308378 | [308378-shells-kitchen-nicos-journey.json](./308378-shells-kitchen-nicos-journey.json) |
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
 | ShellBlast | 54391 | [54391-shellblast.json](./54391-shellblast.json) |
@@ -8354,6 +8356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: A Day in the Life of a Sponge | 73000 | [73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json](./73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 261266 | [261266-spongebob-squarepants-battle-for-bikini-bottom.json](./261266-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Beta Mod | 413219 | [413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json](./413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json) |
+| SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme | 308374 | [308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json](./308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json) |
 | SpongeBob SquarePants: Bikini Bottom 500 | 220117 | [220117-spongebob-squarepants-bikini-bottom-500.json](./220117-spongebob-squarepants-bikini-bottom-500.json) |
 | SpongeBob SquarePants: Bundle | 286514 | [286514-spongebob-squarepants-bundle.json](./286514-spongebob-squarepants-bundle.json) |
 | Spongebob Squarepants: Clash of Triton | 285586 | [285586-spongebob-squarepants-clash-of-triton.json](./285586-spongebob-squarepants-clash-of-triton.json) |
@@ -9377,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate | 245393 | [245393-stargate.json](./245393-stargate.json) |
 | Stargate | 346142 | [346142-stargate.json](./346142-stargate.json) |
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
+| Stargate SG-1: Unleashed - Episode 2 | 308352 | [308352-stargate-sg-1-unleashed-episode-2.json](./308352-stargate-sg-1-unleashed-episode-2.json) |
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | StarGazers | 245873 | [245873-stargazers.json](./245873-stargazers.json) |
@@ -10309,6 +10313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strain | 237351 | [237351-strain.json](./237351-strain.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
 | Strand | 320715 | [320715-strand.json](./320715-strand.json) |
+| Stranded | 308327 | [308327-stranded.json](./308327-stranded.json) |
 | Stranded | 337676 | [337676-stranded.json](./337676-stranded.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
 | Stranded B | 162257 | [162257-stranded-b.json](./162257-stranded-b.json) |
@@ -11984,6 +11989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. + | 316417 | [316417-super-mario-bros.json](./316417-super-mario-bros.json) |
 | Super Mario Bros. 2 | 222098 | [222098-super-mario-bros-2.json](./222098-super-mario-bros-2.json) |
 | Super Mario Bros. 2 Deluxe | 321172 | [321172-super-mario-bros-2-deluxe.json](./321172-super-mario-bros-2-deluxe.json) |
+| Super Mario Bros. 2 Squared: Return to Subcon | 308376 | [308376-super-mario-bros-2-squared-return-to-subcon.json](./308376-super-mario-bros-2-squared-return-to-subcon.json) |
 | Super Mario Bros. 3 | 158723 | [158723-super-mario-bros-3.json](./158723-super-mario-bros-3.json) |
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
