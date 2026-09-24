@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Boutique of Royal Blue | 226738 | [226738-magic-boutique-of-royal-blue.json](./226738-magic-boutique-of-royal-blue.json) |
 | Magic Bows | 359400 | [359400-magic-bows.json](./359400-magic-bows.json) |
 | Magic Box | 29867 | [29867-magic-box.json](./29867-magic-box.json) |
+| Magic Brick Wars | 317379 | [317379-magic-brick-wars.json](./317379-magic-brick-wars.json) |
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
 | Magic Bubble | 246455 | [246455-magic-bubble.json](./246455-magic-bubble.json) |
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
@@ -2404,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
 | Meaningful Adventures | 218479 | [218479-meaningful-adventures.json](./218479-meaningful-adventures.json) |
 | Meaningless Tragedy | 397046 | [397046-meaningless-tragedy.json](./397046-meaningless-tragedy.json) |
+| Meanings: Hidden in Plain Sight | 317346 | [317346-meanings-hidden-in-plain-sight.json](./317346-meanings-hidden-in-plain-sight.json) |
 | Meanwhile | 22329 | [22329-meanwhile.json](./22329-meanwhile.json) |
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
@@ -2456,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
 | Mecha Knights: Nightmare | 125202 | [125202-mecha-knights-nightmare.json](./125202-mecha-knights-nightmare.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
+| Mecha Macho | 317390 | [317390-mecha-macho.json](./317390-mecha-macho.json) |
 | Mecha Mining Marvelous Martian Minerals | 363934 | [363934-mecha-mining-marvelous-martian-minerals.json](./363934-mecha-mining-marvelous-martian-minerals.json) |
 | Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
 | Mecha Storm | 102747 | [102747-mecha-storm.json](./102747-mecha-storm.json) |
