@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap In The Right Direction | 296487 | [296487-leap-in-the-right-direction.json](./296487-leap-in-the-right-direction.json) |
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
 | Leap of Love | 149436 | [149436-leap-of-love.json](./149436-leap-of-love.json) |
+| Leap of Sins | 319763 | [319763-leap-of-sins.json](./319763-leap-of-sins.json) |
 | Leap Sheep! | 269105 | [269105-leap-sheep.json](./269105-leap-sheep.json) |
 | Leap Tactics | 357817 | [357817-leap-tactics.json](./357817-leap-tactics.json) |
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
@@ -859,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leedmees | 20158 | [20158-leedmees.json](./20158-leedmees.json) |
 | Leek Factory Tycoon | 297613 | [297613-leek-factory-tycoon.json](./297613-leek-factory-tycoon.json) |
 | Leenie Boog | 157025 | [157025-leenie-boog.json](./157025-leenie-boog.json) |
+| Leenie's Tale | 319720 | [319720-leenies-tale.json](./319720-leenies-tale.json) |
 | Left = Lose | 178622 | [178622-left-lose.json](./178622-left-lose.json) |
 | Left 2 Dating | 207809 | [207809-left-2-dating.json](./207809-left-2-dating.json) |
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
@@ -1034,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Aria Eternal | 361910 | [361910-legends-of-aria-eternal.json](./361910-legends-of-aria-eternal.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
 | Legends of Azulgar | 32013 | [32013-legends-of-azulgar.json](./32013-legends-of-azulgar.json) |
+| Legends of Boom | 319743 | [319743-legends-of-boom.json](./319743-legends-of-boom.json) |
 | Legends of Callasia: The Stoneborne | 25628 | [25628-legends-of-callasia-the-stoneborne.json](./25628-legends-of-callasia-the-stoneborne.json) |
 | Legends of Destiny | 208390 | [208390-legends-of-destiny.json](./208390-legends-of-destiny.json) |
 | Legends of Dragaea: Idle Dungeons | 295264 | [295264-legends-of-dragaea-idle-dungeons.json](./295264-legends-of-dragaea-idle-dungeons.json) |
@@ -3739,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
 | Lyca | 332032 | [332032-lyca.json](./332032-lyca.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
+| Lycoris;Lastwords | 319732 | [319732-lycoris-lastwords.json](./319732-lycoris-lastwords.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lynked: Banner of the Spark | 314256 | [314256-lynked-banner-of-the-spark.json](./314256-lynked-banner-of-the-spark.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
