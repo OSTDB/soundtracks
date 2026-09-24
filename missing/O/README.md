@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey the Insect God | 381097 | [381097-obey-the-insect-god.json](./381097-obey-the-insect-god.json) |
 | Obey the Law | 163983 | [163983-obey-the-law.json](./163983-obey-the-law.json) |
 | Obey the Voice | 386276 | [386276-obey-the-voice.json](./386276-obey-the-voice.json) |
+| Obey Your Pirate Queen! | 282655 | [282655-obey-your-pirate-queen.json](./282655-obey-your-pirate-queen.json) |
 | Obituary | 313833 | [313833-obituary.json](./313833-obituary.json) |
 | Obitus | 363028 | [363028-obitus.json](./363028-obitus.json) |
 | OBJ VR | 309376 | [309376-obj-vr.json](./309376-obj-vr.json) |
@@ -2040,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost 2: Divided Destiny | 50138 | [50138-outpost-2-divided-destiny.json](./50138-outpost-2-divided-destiny.json) |
 | Outpost 3 | 312729 | [312729-outpost-3.json](./312729-outpost-3.json) |
 | Outpost Assault | 344021 | [344021-outpost-assault.json](./344021-outpost-assault.json) |
+| Outpost Auriga IV | 282614 | [282614-outpost-auriga-iv.json](./282614-outpost-auriga-iv.json) |
 | Outpost Delta | 123030 | [123030-outpost-delta.json](./123030-outpost-delta.json) |
 | Outpost Kaloki X | 20508 | [20508-outpost-kaloki-x.json](./20508-outpost-kaloki-x.json) |
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
