@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Diamond Edition | 271837 | [271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json](./271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Elite Edition | 268546 | [268546-s-n-i-p-e-r-hunter-scope-elite-edition.json](./268546-s-n-i-p-e-r-hunter-scope-elite-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Full Edition | 333723 | [333723-s-n-i-p-e-r-hunter-scope-full-edition.json](./333723-s-n-i-p-e-r-hunter-scope-full-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - GOTY Edition | 283164 | [283164-s-n-i-p-e-r-hunter-scope-goty-edition.json](./283164-s-n-i-p-e-r-hunter-scope-goty-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Mega Edition | 317241 | [317241-s-n-i-p-e-r-hunter-scope-mega-edition.json](./317241-s-n-i-p-e-r-hunter-scope-mega-edition.json) |
@@ -4682,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylight | 64096 | [64096-skylight.json](./64096-skylight.json) |
 | Skylight | 83929 | [83929-skylight.json](./83929-skylight.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
+| Skyline Bowling: Complete Edition | 333724 | [333724-skyline-bowling-complete-edition.json](./333724-skyline-bowling-complete-edition.json) |
 | Skyline Skaters | 6029 | [6029-skyline-skaters.json](./6029-skyline-skaters.json) |
 | Skyline Sprinters | 263058 | [263058-skyline-sprinters.json](./263058-skyline-sprinters.json) |
 | Skylost | 201710 | [201710-skylost.json](./201710-skylost.json) |
@@ -5601,6 +5603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
 | Snooker Fever | 328487 | [328487-snooker-fever.json](./328487-snooker-fever.json) |
 | Snooker Fever: Discovery Edition | 396930 | [396930-snooker-fever-discovery-edition.json](./396930-snooker-fever-discovery-edition.json) |
+| Snooker Fever: Premium Edition | 333722 | [333722-snooker-fever-premium-edition.json](./333722-snooker-fever-premium-edition.json) |
 | Snooker Fever: Upgrade Edition | 399828 | [399828-snooker-fever-upgrade-edition.json](./399828-snooker-fever-upgrade-edition.json) |
 | Snooker Live Pro | 38948 | [38948-snooker-live-pro.json](./38948-snooker-live-pro.json) |
 | Snooker Nation Championship | 33123 | [33123-snooker-nation-championship.json](./33123-snooker-nation-championship.json) |
@@ -6022,6 +6025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
 | Solid Void Art Nonograms | 378770 | [378770-solid-void-art-nonograms.json](./378770-solid-void-art-nonograms.json) |
+| Solid Void: Nature Puzzles | 333738 | [333738-solid-void-nature-puzzles.json](./333738-solid-void-nature-puzzles.json) |
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
 | Solidus | 100745 | [100745-solidus.json](./100745-solidus.json) |
 | Solipsis | 391885 | [391885-solipsis.json](./391885-solipsis.json) |
@@ -8426,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Girls: Undercover Agent | 206200 | [206200-spy-girls-undercover-agent.json](./206200-spy-girls-undercover-agent.json) |
 | Spy Guy American Dream | 375162 | [375162-spy-guy-american-dream.json](./375162-spy-guy-american-dream.json) |
 | Spy Guy Animals Junior: Untypical Animals | 387685 | [387685-spy-guy-animals-junior-untypical-animals.json](./387685-spy-guy-animals-junior-untypical-animals.json) |
+| Spy Guy Cosmos: Cosmos Edition | 333725 | [333725-spy-guy-cosmos-cosmos-edition.json](./333725-spy-guy-cosmos-cosmos-edition.json) |
 | Spy Guy Europe | 395211 | [395211-spy-guy-europe.json](./395211-spy-guy-europe.json) |
 | Spy Guy Hidden Objects Poland | 400194 | [400194-spy-guy-hidden-objects-poland.json](./400194-spy-guy-hidden-objects-poland.json) |
 | Spy Guy Hidden Objects: Spy Guy Indonesia | 347333 | [347333-spy-guy-hidden-objects-spy-guy-indonesia.json](./347333-spy-guy-hidden-objects-spy-guy-indonesia.json) |
@@ -8634,6 +8639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stackmon | 389118 | [389118-stackmon.json](./389118-stackmon.json) |
 | Stacks: Jungle! | 274552 | [274552-stacks-jungle.json](./274552-stacks-jungle.json) |
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
+| Stacky Dash: Complete Edition | 333726 | [333726-stacky-dash-complete-edition.json](./333726-stacky-dash-complete-edition.json) |
 | Stacky Hero | 227866 | [227866-stacky-hero.json](./227866-stacky-hero.json) |
 | StackZap | 337983 | [337983-stackzap.json](./337983-stackzap.json) |
 | Stadium | 371967 | [371967-stadium.json](./371967-stadium.json) |
@@ -10910,6 +10916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Mighty Mecha | 317230 | [317230-sugoi-girls-mighty-mecha.json](./317230-sugoi-girls-mighty-mecha.json) |
 | Sugoi Girls: Raunchy Rabbit | 345704 | [345704-sugoi-girls-raunchy-rabbit.json](./345704-sugoi-girls-raunchy-rabbit.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
+| Sugoi Girls: Sexy Steampunk | 333739 | [333739-sugoi-girls-sexy-steampunk.json](./333739-sugoi-girls-sexy-steampunk.json) |
 | Sugoro Quest: Dice no Senshi-tachi | 48621 | [48621-sugoro-quest-dice-no-senshi-tachi.json](./48621-sugoro-quest-dice-no-senshi-tachi.json) |
 | Sugoro Quest++ Dicenics | 37807 | [37807-sugoro-quest-dicenics.json](./37807-sugoro-quest-dicenics.json) |
 | Sugoroku New Year's Party | 379373 | [379373-sugoroku-new-years-party.json](./379373-sugoroku-new-years-party.json) |
@@ -13008,6 +13015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Saga | 187465 | [187465-swing-saga.json](./187465-swing-saga.json) |
 | Swing Solver | 277293 | [277293-swing-solver.json](./277293-swing-solver.json) |
 | Swing Striker | 133471 | [133471-swing-striker.json](./133471-swing-striker.json) |
+| Swing Swamp | 333765 | [333765-swing-swamp.json](./333765-swing-swamp.json) |
 | Swing the Universe | 191814 | [191814-swing-the-universe.json](./191814-swing-the-universe.json) |
 | Swinger | 91378 | [91378-swinger.json](./91378-swinger.json) |
 | Swinger-Man | 123548 | [123548-swinger-man.json](./123548-swinger-man.json) |
