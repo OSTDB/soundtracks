@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 27 Tele-games | 98803 | [98803-27-tele-games.json](./98803-27-tele-games.json) |
 | 28 | 308937 | [308937-28.json](./308937-28.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
+| 28 Days Later: The Game | 334843 | [334843-28-days-later-the-game.json](./334843-28-days-later-the-game.json) |
 | 28 Robots Later | 52546 | [52546-28-robots-later.json](./52546-28-robots-later.json) |
 | 280 Zzzap/Dodgem 2001 | 139471 | [139471-280-zzzap-dodgem-2001.json](./139471-280-zzzap-dodgem-2001.json) |
 | 286 Miles | 333601 | [333601-286-miles.json](./333601-286-miles.json) |
