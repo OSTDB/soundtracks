@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurers Shop | 386860 | [386860-adventurers-shop.json](./386860-adventurers-shop.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
+| Adventures in Lestoria | 282624 | [282624-adventures-in-lestoria.json](./282624-adventures-in-lestoria.json) |
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
 | Adventures in Odyssey! The Sword of the Spirit | 66066 | [66066-adventures-in-odyssey-the-sword-of-the-spirit.json](./66066-adventures-in-odyssey-the-sword-of-the-spirit.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alita: Battle Angel - The Game | 114770 | [114770-alita-battle-angel-the-game.json](./114770-alita-battle-angel-the-game.json) |
 | Alite | 207872 | [207872-alite.json](./207872-alite.json) |
 | Alive | 226212 | [226212-alive.json](./226212-alive.json) |
+| Alive | 282657 | [282657-alive.json](./282657-alive.json) |
 | Alive | 287661 | [287661-alive.json](./287661-alive.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
