@@ -4887,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
 | Doug's Nightmare | 236397 | [236397-dougs-nightmare.json](./236397-dougs-nightmare.json) |
 | Douga de Kiku Ano Kyoku no Rhythm Game | 301980 | [301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json](./301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json) |
+| DougDoug's Basement: How I Got a Sea Otter A Promotion! | 326757 | [326757-dougdougs-basement-how-i-got-a-sea-otter-a-promotion.json](./326757-dougdougs-basement-how-i-got-a-sea-otter-a-promotion.json) |
 | Dough Boy | 40956 | [40956-dough-boy.json](./40956-dough-boy.json) |
 | Dough Slapping: A Touch to Desire | 341165 | [341165-dough-slapping-a-touch-to-desire.json](./341165-dough-slapping-a-touch-to-desire.json) |
 | Doughball Descent | 226817 | [226817-doughball-descent.json](./226817-doughball-descent.json) |
