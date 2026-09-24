@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palettopia | 410334 | [410334-palettopia.json](./410334-palettopia.json) |
 | Palia | 151467 | [151467-palia.json](./151467-palia.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
+| Palingenesis | 329082 | [329082-palingenesis.json](./329082-palingenesis.json) |
 | Palinurus | 33121 | [33121-palinurus.json](./33121-palinurus.json) |
 | Palitoman Adventure | 408085 | [408085-palitoman-adventure.json](./408085-palitoman-adventure.json) |
 | Palitron | 58199 | [58199-palitron.json](./58199-palitron.json) |
