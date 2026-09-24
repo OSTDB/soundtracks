@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park After Dark | 199061 | [199061-park-after-dark.json](./199061-park-after-dark.json) |
 | Park Beyond | 165354 | [165354-park-beyond.json](./165354-park-beyond.json) |
 | Park Beyond: Beyond Extreme | 262670 | [262670-park-beyond-beyond-extreme.json](./262670-park-beyond-beyond-extreme.json) |
+| Park Beyond: Beyond the Depths - Theme World | 311079 | [311079-park-beyond-beyond-the-depths-theme-world.json](./311079-park-beyond-beyond-the-depths-theme-world.json) |
 | Park Beyond: Beyond the Skies of Arabia - Theme World | 315121 | [315121-park-beyond-beyond-the-skies-of-arabia-theme-world.json](./315121-park-beyond-beyond-the-skies-of-arabia-theme-world.json) |
 | Park Beyond: Complete Edition | 331856 | [331856-park-beyond-complete-edition.json](./331856-park-beyond-complete-edition.json) |
 | Park Bound | 40524 | [40524-park-bound.json](./40524-park-bound.json) |
@@ -2936,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Galaxy | 24615 | [24615-pixel-galaxy.json](./24615-pixel-galaxy.json) |
 | Pixel Game Maker Series Arcanion: The Mekanos Invasion | 409551 | [409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json](./409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json) |
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
+| Pixel Game Maker Series NyanxTech | 311093 | [311093-pixel-game-maker-series-nyanxtech.json](./311093-pixel-game-maker-series-nyanxtech.json) |
 | Pixel Game Maker Series Pollux: Hero in the box | 395668 | [395668-pixel-game-maker-series-pollux-hero-in-the-box.json](./395668-pixel-game-maker-series-pollux-hero-in-the-box.json) |
 | Pixel Game Maker Series: Angel's Blood | 224205 | [224205-pixel-game-maker-series-angels-blood.json](./224205-pixel-game-maker-series-angels-blood.json) |
 | Pixel Game Maker Series: Cat and Castle | 288314 | [288314-pixel-game-maker-series-cat-and-castle.json](./288314-pixel-game-maker-series-cat-and-castle.json) |
@@ -3493,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayAgain 2: The Golden Legend | 367482 | [367482-playagain-2-the-golden-legend.json](./367482-playagain-2-the-golden-legend.json) |
 | Playback '94: Episode 1 - Post Office | 407410 | [407410-playback-94-episode-1-post-office.json](./407410-playback-94-episode-1-post-office.json) |
 | Playback Trauma: The Beach | 159888 | [159888-playback-trauma-the-beach.json](./159888-playback-trauma-the-beach.json) |
+| Playback Trauma: The Dog | 311078 | [311078-playback-trauma-the-dog.json](./311078-playback-trauma-the-dog.json) |
 | Playbook VR | 344434 | [344434-playbook-vr.json](./344434-playbook-vr.json) |
 | PlayBound | 126662 | [126662-playbound.json](./126662-playbound.json) |
 | Playboy Casino | 57922 | [57922-playboy-casino.json](./57922-playboy-casino.json) |
@@ -5264,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Escape io | 347147 | [347147-prison-escape-io.json](./347147-prison-escape-io.json) |
 | Prison Escape Puzzle | 100151 | [100151-prison-escape-puzzle.json](./100151-prison-escape-puzzle.json) |
 | Prison Escape Simulator | 345684 | [345684-prison-escape-simulator.json](./345684-prison-escape-simulator.json) |
+| Prison Escape Simulator: Breakout Master | 311056 | [311056-prison-escape-simulator-breakout-master.json](./311056-prison-escape-simulator-breakout-master.json) |
 | Prison Fighters | 408286 | [408286-prison-fighters.json](./408286-prison-fighters.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
 | Prison Forever | 128016 | [128016-prison-forever.json](./128016-prison-forever.json) |
