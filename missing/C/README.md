@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
 | CashGrab | 368686 | [368686-cashgrab.json](./368686-cashgrab.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
+| Cashier Sim | 296450 | [296450-cashier-sim.json](./296450-cashier-sim.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
 | Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
@@ -6421,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Action VR | 51500 | [51500-crisis-action-vr.json](./51500-crisis-action-vr.json) |
 | Crisis Beat | 4136 | [4136-crisis-beat.json](./4136-crisis-beat.json) |
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
+| Crisis Bullet | 296446 | [296446-crisis-bullet.json](./296446-crisis-bullet.json) |
 | Crisis Core: Final Fantasy VII | 2407 | [2407-crisis-core-final-fantasy-vii.json](./2407-crisis-core-final-fantasy-vii.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
