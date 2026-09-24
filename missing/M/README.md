@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Learns About Colors 2 | 323824 | [323824-mario-learns-about-colors-2.json](./323824-mario-learns-about-colors-2.json) |
 | Mario Lost In Space | 384109 | [384109-mario-lost-in-space.json](./384109-mario-lost-in-space.json) |
 | Mario Motors | 231507 | [231507-mario-motors.json](./231507-mario-motors.json) |
+| Mario Movie Game | 318554 | [318554-mario-movie-game.json](./318554-mario-movie-game.json) |
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
 | Mario no Photopi | 3541 | [3541-mario-no-photopi.json](./3541-mario-no-photopi.json) |
 | Mario no Photopi: Characters Collection - Bomberman | 350660 | [350660-mario-no-photopi-characters-collection-bomberman.json](./350660-mario-no-photopi-characters-collection-bomberman.json) |
@@ -1515,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Super Sluggers Cards | 339844 | [339844-mario-super-sluggers-cards.json](./339844-mario-super-sluggers-cards.json) |
 | Mario Superstar | 275325 | [275325-mario-superstar.json](./275325-mario-superstar.json) |
 | Mario Superstar Baseball Fantasy League | 342262 | [342262-mario-superstar-baseball-fantasy-league.json](./342262-mario-superstar-baseball-fantasy-league.json) |
+| Mario Takes a Three | 318556 | [318556-mario-takes-a-three.json](./318556-mario-takes-a-three.json) |
 | Mario Takes America | 175956 | [175956-mario-takes-america.json](./175956-mario-takes-america.json) |
 | Mario Tennis | 344924 | [344924-mario-tennis.json](./344924-mario-tennis.json) |
 | Mario Tennis: Power Tour | 342260 | [342260-mario-tennis-power-tour.json](./342260-mario-tennis-power-tour.json) |
