@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Blood and Death Collection | 331433 | [331433-outbreak-blood-and-death-collection.json](./331433-outbreak-blood-and-death-collection.json) |
 | Outbreak: Campout Collection | 331432 | [331432-outbreak-campout-collection.json](./331432-outbreak-campout-collection.json) |
 | Outbreak: Co-Op Collection | 275903 | [275903-outbreak-co-op-collection.json](./275903-outbreak-co-op-collection.json) |
+| Outbreak: Cold Comfort Collection | 311050 | [311050-outbreak-cold-comfort-collection.json](./311050-outbreak-cold-comfort-collection.json) |
 | Outbreak: Contagious Memories | 194663 | [194663-outbreak-contagious-memories.json](./194663-outbreak-contagious-memories.json) |
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
 | Outbreak: Devious Beginnings | 261359 | [261359-outbreak-devious-beginnings.json](./261359-outbreak-devious-beginnings.json) |
