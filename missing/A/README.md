@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
 | A Ghost Party | 307744 | [307744-a-ghost-party.json](./307744-a-ghost-party.json) |
+| A Ghost Porno Page By Page | 300821 | [300821-a-ghost-porno-page-by-page.json](./300821-a-ghost-porno-page-by-page.json) |
 | A Ghost Story | 307700 | [307700-a-ghost-story.json](./307700-a-ghost-story.json) |
 | A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
 | A Goblin's Quest to Leave Her House and Get a Gyro for Lunch Because She Was Hungry | 338807 | [338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json](./338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json) |
@@ -905,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrenaline or Die | 379563 | [379563-adrenaline-or-die.json](./379563-adrenaline-or-die.json) |
 | Adrenaline Overload Bundle | 396439 | [396439-adrenaline-overload-bundle.json](./396439-adrenaline-overload-bundle.json) |
 | Adrenaline Rush 4‑Pack | 396438 | [396438-adrenaline-rush-4-pack.json](./396438-adrenaline-rush-4-pack.json) |
+| Adrenaline Rush: Highway Extreme Traffic Racer | 300767 | [300767-adrenaline-rush-highway-extreme-traffic-racer.json](./300767-adrenaline-rush-highway-extreme-traffic-racer.json) |
 | Adrian Ford in the Tomb of the Moon | 314994 | [314994-adrian-ford-in-the-tomb-of-the-moon.json](./314994-adrian-ford-in-the-tomb-of-the-moon.json) |
 | Adrift | 304673 | [304673-adrift.json](./304673-adrift.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
@@ -1991,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Harvest Leader | 141890 | [141890-alien-harvest-leader.json](./141890-alien-harvest-leader.json) |
 | Alien Hell | 24895 | [24895-alien-hell.json](./24895-alien-hell.json) |
 | Alien Hive | 203299 | [203299-alien-hive.json](./203299-alien-hive.json) |
+| Alien Holiday | 300813 | [300813-alien-holiday.json](./300813-alien-holiday.json) |
 | Alien Hominid | 210733 | [210733-alien-hominid.json](./210733-alien-hominid.json) |
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
@@ -2040,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Spidy: Easy Breezy | 9967 | [9967-alien-spidy-easy-breezy.json](./9967-alien-spidy-easy-breezy.json) |
 | Alien Storm | 9969 | [9969-alien-storm.json](./9969-alien-storm.json) |
 | Alien Strike | 76228 | [76228-alien-strike.json](./76228-alien-strike.json) |
+| Alien Survivors: To Starship Resurrection | 300768 | [300768-alien-survivors-to-starship-resurrection.json](./300768-alien-survivors-to-starship-resurrection.json) |
 | Alien Swarm | 7598 | [7598-alien-swarm.json](./7598-alien-swarm.json) |
 | Alien Swarm: Reactive Drop | 27523 | [27523-alien-swarm-reactive-drop.json](./27523-alien-swarm-reactive-drop.json) |
 | Alien Swirl | 15594 | [15594-alien-swirl.json](./15594-alien-swirl.json) |
@@ -2634,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ameizu | 311595 | [311595-ameizu.json](./311595-ameizu.json) |
 | Amelia and Terror of the Night: Story Book for Kids | 68945 | [68945-amelia-and-terror-of-the-night-story-book-for-kids.json](./68945-amelia-and-terror-of-the-night-story-book-for-kids.json) |
 | Amelia's Curse | 87972 | [87972-amelias-curse.json](./87972-amelias-curse.json) |
+| Amelia's Diner | 300769 | [300769-amelias-diner.json](./300769-amelias-diner.json) |
 | Amelia's Garden | 319780 | [319780-amelias-garden.json](./319780-amelias-garden.json) |
 | Amelie | 190744 | [190744-amelie.json](./190744-amelie.json) |
 | Amen: The Quiet Exodus | 406731 | [406731-amen-the-quiet-exodus.json](./406731-amen-the-quiet-exodus.json) |
@@ -3234,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Planet: Vet Life | 50635 | [50635-animal-planet-vet-life.json](./50635-animal-planet-vet-life.json) |
 | Animal Planner | 254767 | [254767-animal-planner.json](./254767-animal-planner.json) |
 | Animal Puzzle Cats | 225892 | [225892-animal-puzzle-cats.json](./225892-animal-puzzle-cats.json) |
+| Animal Puzzle for Kids and Toddlers | 300765 | [300765-animal-puzzle-for-kids-and-toddlers.json](./300765-animal-puzzle-for-kids-and-toddlers.json) |
 | Animal Puzzle World | 237364 | [237364-animal-puzzle-world.json](./237364-animal-puzzle-world.json) |
 | Animal Puzzle: Preschool Learning Game for Kids and Toddlers | 165618 | [165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json](./165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json) |
 | Animal Rescue | 169407 | [169407-animal-rescue.json](./169407-animal-rescue.json) |
@@ -4198,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Bundle | 294821 | [294821-arcade-bundle.json](./294821-arcade-bundle.json) |
 | Arcade Chess | 12393 | [12393-arcade-chess.json](./12393-arcade-chess.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
+| Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
 | Arcade Gamer | 202794 | [202794-arcade-gamer.json](./202794-arcade-gamer.json) |
@@ -5235,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
 | Assault Squad 2: Men of War Origins | 36398 | [36398-assault-squad-2-men-of-war-origins.json](./36398-assault-squad-2-men-of-war-origins.json) |
 | Assault Suit Leynos | 18655 | [18655-assault-suit-leynos.json](./18655-assault-suit-leynos.json) |
+| Assault Suit Leynos 2: Saturn Tribute | 298102 | [298102-assault-suit-leynos-2-saturn-tribute.json](./298102-assault-suit-leynos-2-saturn-tribute.json) |
 | AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
 | AssaultTech 1: BattleTech | 66071 | [66071-assaulttech-1-battletech.json](./66071-assaulttech-1-battletech.json) |
 | Asscar | 345573 | [345573-asscar.json](./345573-asscar.json) |
@@ -5270,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa: Red Pack | 225910 | [225910-assetto-corsa-red-pack.json](./225910-assetto-corsa-red-pack.json) |
 | Assetto Corsa: Tripl3 Pack | 168898 | [168898-assetto-corsa-tripl3-pack.json](./168898-assetto-corsa-tripl3-pack.json) |
 | Assimilation | 72125 | [72125-assimilation.json](./72125-assimilation.json) |
+| Assistant to the Lost Detective: Remaster | 298126 | [298126-assistant-to-the-lost-detective-remaster.json](./298126-assistant-to-the-lost-detective-remaster.json) |
 | Associate | 354527 | [354527-associate.json](./354527-associate.json) |
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
@@ -5466,6 +5475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroball | 338170 | [338170-astroball.json](./338170-astroball.json) |
 | Astrobarian | 366849 | [366849-astrobarian.json](./366849-astrobarian.json) |
 | AstroBlast | 78371 | [78371-astroblast.json](./78371-astroblast.json) |
+| Astroblaze | 300770 | [300770-astroblaze.json](./300770-astroblaze.json) |
 | Astroblitz | 146299 | [146299-astroblitz.json](./146299-astroblitz.json) |
 | Astrobuilder | 334690 | [334690-astrobuilder.json](./334690-astrobuilder.json) |
 | Astroburrow | 358375 | [358375-astroburrow.json](./358375-astroburrow.json) |
@@ -5971,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autogiro | 326251 | [326251-autogiro.json](./326251-autogiro.json) |
 | Autograv | 288194 | [288194-autograv.json](./288194-autograv.json) |
 | AutoGuessr | 331319 | [331319-autoguessr.json](./331319-autoguessr.json) |
+| Autogun Heroes | 300784 | [300784-autogun-heroes.json](./300784-autogun-heroes.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
 | Automachef | 107217 | [107217-automachef.json](./107217-automachef.json) |
 | Automania | 30216 | [30216-automania.json](./30216-automania.json) |
