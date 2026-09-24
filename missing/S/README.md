@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sack of Bots | 119040 | [119040-sack-of-bots.json](./119040-sack-of-bots.json) |
 | Sack of Flour, Heart of Gold | 404415 | [404415-sack-of-flour-heart-of-gold.json](./404415-sack-of-flour-heart-of-gold.json) |
 | Sackboy: A Big Adventure - Astro Bot Costume | 290918 | [290918-sackboy-a-big-adventure-astro-bot-costume.json](./290918-sackboy-a-big-adventure-astro-bot-costume.json) |
+| Sackboy: A Big Adventure - Clank Costume | 327313 | [327313-sackboy-a-big-adventure-clank-costume.json](./327313-sackboy-a-big-adventure-clank-costume.json) |
 | Sackboy: A Big Adventure - Digital Deluxe Edition | 407590 | [407590-sackboy-a-big-adventure-digital-deluxe-edition.json](./407590-sackboy-a-big-adventure-digital-deluxe-edition.json) |
 | Sackgasse: The Last Resort | 149527 | [149527-sackgasse-the-last-resort.json](./149527-sackgasse-the-last-resort.json) |
 | Sackman se-X | 82125 | [82125-sackman-se-x.json](./82125-sackman-se-x.json) |
@@ -3783,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Creek | 339922 | [339922-signal-creek.json](./339922-signal-creek.json) |
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
+| Signal Lost | 327358 | [327358-signal-lost.json](./327358-signal-lost.json) |
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
 | Signalis | 103244 | [103244-signalis.json](./103244-signalis.json) |
@@ -4618,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Reclaimers | 348247 | [348247-sky-reclaimers.json](./348247-sky-reclaimers.json) |
 | Sky Resort 2 | 375974 | [375974-sky-resort-2.json](./375974-sky-resort-2.json) |
 | Sky Revolver | 342154 | [342154-sky-revolver.json](./342154-sky-revolver.json) |
+| Sky Robo | 327321 | [327321-sky-robo.json](./327321-sky-robo.json) |
 | Sky Rollball | 28844 | [28844-sky-rollball.json](./28844-sky-rollball.json) |
 | Sky Roller Coaster | 298045 | [298045-sky-roller-coaster.json](./298045-sky-roller-coaster.json) |
 | Sky Rusher | 97263 | [97263-sky-rusher.json](./97263-sky-rusher.json) |
@@ -7034,6 +7037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Snow Day! | 261145 | [261145-south-park-snow-day.json](./261145-south-park-snow-day.json) |
 | South Park: Snow Day! - 420 Pack | 298710 | [298710-south-park-snow-day-420-pack.json](./298710-south-park-snow-day-420-pack.json) |
 | South Park: Snow Day! - Bigger, Longer & Uncut Anniversary Pack | 316256 | [316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json](./316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json) |
+| South Park: Snow Day! - Chaos Pack | 327315 | [327315-south-park-snow-day-chaos-pack.json](./327315-south-park-snow-day-chaos-pack.json) |
 | South Park: Snow Day! - Hammer | 324489 | [324489-south-park-snow-day-hammer.json](./324489-south-park-snow-day-hammer.json) |
 | South Park: Snow Day! - Nichole's Home Brew | 324478 | [324478-south-park-snow-day-nicholes-home-brew.json](./324478-south-park-snow-day-nicholes-home-brew.json) |
 | South Park: Snow Day! - Nonconformist Weapon Variation Pack | 316257 | [316257-south-park-snow-day-nonconformist-weapon-variation-pack.json](./316257-south-park-snow-day-nonconformist-weapon-variation-pack.json) |
@@ -9289,6 +9293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
 | Starmasons | 388419 | [388419-starmasons.json](./388419-starmasons.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
+| Starmount | 327323 | [327323-starmount.json](./327323-starmount.json) |
 | Starmourn | 122849 | [122849-starmourn.json](./122849-starmourn.json) |
 | Starona | 142386 | [142386-starona.json](./142386-starona.json) |
 | Staroot | 337290 | [337290-staroot.json](./337290-staroot.json) |
@@ -10111,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbinders | 336520 | [336520-stormbinders.json](./336520-stormbinders.json) |
 | StormBorn: War of Legends | 83917 | [83917-stormborn-war-of-legends.json](./83917-stormborn-war-of-legends.json) |
 | Stormbound: Kingdom Wars | 70909 | [70909-stormbound-kingdom-wars.json](./70909-stormbound-kingdom-wars.json) |
+| Stormbridge | 327329 | [327329-stormbridge.json](./327329-stormbridge.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
