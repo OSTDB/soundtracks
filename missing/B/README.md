@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandle | 294451 | [294451-bandle.json](./294451-bandle.json) |
 | Bandle Tale: A League of Legends Story - Deluxe Edition | 283158 | [283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json](./283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json) |
 | Bandle Tale: Bigger-On-The-Inside Pack | 283187 | [283187-bandle-tale-bigger-on-the-inside-pack.json](./283187-bandle-tale-bigger-on-the-inside-pack.json) |
+| Bandle Tale: Scout Recon Pack | 336133 | [336133-bandle-tale-scout-recon-pack.json](./336133-bandle-tale-scout-recon-pack.json) |
 | Bandocracy | 415143 | [415143-bandocracy.json](./415143-bandocracy.json) |
 | BandRoll | 236294 | [236294-bandroll.json](./236294-bandroll.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
