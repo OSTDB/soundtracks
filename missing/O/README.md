@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oirbo | 118398 | [118398-oirbo.json](./118398-oirbo.json) |
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
 | Ojingeo Project | 393658 | [393658-ojingeo-project.json](./393658-ojingeo-project.json) |
+| Ojo Por Ojo | 301893 | [301893-ojo-por-ojo.json](./301893-ojo-por-ojo.json) |
 | Ojou-sama Express | 270746 | [270746-ojou-sama-express.json](./270746-ojou-sama-express.json) |
 | Ojou-sama no Hanbun wa Renai de Dekiteimasu! | 328216 | [328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json](./328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json) |
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
@@ -1108,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onet 3D | 231921 | [231921-onet-3d.json](./231921-onet-3d.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Oneteam Soccer | 153358 | [153358-oneteam-soccer.json](./153358-oneteam-soccer.json) |
+| ONF: Tatakau Rasetsu he | 301935 | [301935-onf-tatakau-rasetsu-he.json](./301935-onf-tatakau-rasetsu-he.json) |
 | Ong-Bak: The Video Game | 65443 | [65443-ong-bak-the-video-game.json](./65443-ong-bak-the-video-game.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
 | Ongeki Bright | 206150 | [206150-ongeki-bright.json](./206150-ongeki-bright.json) |
