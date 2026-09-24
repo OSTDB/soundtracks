@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juggle | 246463 | [246463-juggle.json](./246463-juggle.json) |
 | Juggle Struggle | 250659 | [250659-juggle-struggle.json](./250659-juggle-struggle.json) |
 | Juggle! | 91904 | [91904-juggle.json](./91904-juggle.json) |
+| Jugglenoid | 319132 | [319132-jugglenoid.json](./319132-jugglenoid.json) |
 | Juggles' Butterfly | 72105 | [72105-juggles-butterfly.json](./72105-juggles-butterfly.json) |
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
 | Juggling Jolt | 415883 | [415883-juggling-jolt.json](./415883-juggling-jolt.json) |
