@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambit Gardens | 415159 | [415159-gambit-gardens.json](./415159-gambit-gardens.json) |
 | Gambit Heart | 100724 | [100724-gambit-heart.json](./100724-gambit-heart.json) |
 | Gambit Maestro | 385586 | [385586-gambit-maestro.json](./385586-gambit-maestro.json) |
+| Gambit Shifter: Surrealm | 322718 | [322718-gambit-shifter-surrealm.json](./322718-gambit-shifter-surrealm.json) |
 | Gamble Fight Plus | 116783 | [116783-gamble-fight-plus.json](./116783-gamble-fight-plus.json) |
 | Gamble Life | 416631 | [416631-gamble-life.json](./416631-gamble-life.json) |
 | Gamble With Your Friends | 361027 | [361027-gamble-with-your-friends.json](./361027-gamble-with-your-friends.json) |
@@ -1447,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostrunner II: Deluxe Edition | 262415 | [262415-ghostrunner-ii-deluxe-edition.json](./262415-ghostrunner-ii-deluxe-edition.json) |
 | Ghostrunner II: Dragon Pack | 292679 | [292679-ghostrunner-ii-dragon-pack.json](./292679-ghostrunner-ii-dragon-pack.json) |
 | Ghostrunner II: Endless Moto Mode | 371318 | [371318-ghostrunner-ii-endless-moto-mode.json](./371318-ghostrunner-ii-endless-moto-mode.json) |
+| Ghostrunner II: Heat Pack | 322725 | [322725-ghostrunner-ii-heat-pack.json](./322725-ghostrunner-ii-heat-pack.json) |
 | Ghosts | 11337 | [11337-ghosts.json](./11337-ghosts.json) |
 | Ghosts | 306496 | [306496-ghosts.json](./306496-ghosts.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
