@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
 | Railink | 329107 | [329107-railink.json](./329107-railink.json) |
 | RailKing's Model Railroad Simulator | 80190 | [80190-railkings-model-railroad-simulator.json](./80190-railkings-model-railroad-simulator.json) |
+| RaiLRhythm | 312147 | [312147-railrhythm.json](./312147-railrhythm.json) |
 | Railroad Corporation | 112362 | [112362-railroad-corporation.json](./112362-railroad-corporation.json) |
 | Railroad Crossing Play | 389093 | [389093-railroad-crossing-play.json](./389093-railroad-crossing-play.json) |
 | Railroad Empire | 27693 | [27693-railroad-empire.json](./27693-railroad-empire.json) |
@@ -3756,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Tank | 235849 | [235849-rogue-tank.json](./235849-rogue-tank.json) |
 | Rogue Tides | 275706 | [275706-rogue-tides.json](./275706-rogue-tides.json) |
+| Rogue Titan | 312132 | [312132-rogue-titan.json](./312132-rogue-titan.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
 | Rogue Trooper: Quartz Zone Massacre | 21262 | [21262-rogue-trooper-quartz-zone-massacre.json](./21262-rogue-trooper-quartz-zone-massacre.json) |
 | Rogue Valley | 236910 | [236910-rogue-valley.json](./236910-rogue-valley.json) |
