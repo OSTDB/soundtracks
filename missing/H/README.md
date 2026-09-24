@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard Versus | 353393 | [353393-hazard-versus.json](./353393-hazard-versus.json) |
 | Hazardous Journey | 110332 | [110332-hazardous-journey.json](./110332-hazardous-journey.json) |
 | Haze | 7317 | [7317-haze.json](./7317-haze.json) |
+| Haze Man: The Local Hero | 327952 | [327952-haze-man-the-local-hero.json](./327952-haze-man-the-local-hero.json) |
 | Haze Together | 411047 | [411047-haze-together.json](./411047-haze-together.json) |
 | Hazel | 227930 | [227930-hazel.json](./227930-hazel.json) |
 | Hazelnut Hex | 218725 | [218725-hazelnut-hex.json](./218725-hazelnut-hex.json) |
