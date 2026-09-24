@@ -2018,8 +2018,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chant Wizard | 391309 | [391309-chant-wizard.json](./391309-chant-wizard.json) |
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
 | Chao Adventure | 225623 | [225623-chao-adventure.json](./225623-chao-adventure.json) |
+| Chao Adventure | 331473 | [331473-chao-adventure.json](./331473-chao-adventure.json) |
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
 | Chao Dream Touch! Happy Anniversary | 122870 | [122870-chao-dream-touch-happy-anniversary.json](./122870-chao-dream-touch-happy-anniversary.json) |
+| Chao Internet Pet | 331475 | [331475-chao-internet-pet.json](./331475-chao-internet-pet.json) |
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
 | Chāojí Dàfùwēng | 45549 | [45549-chaoji-dafuweng.json](./45549-chaoji-dafuweng.json) |
 | Chaos | 300015 | [300015-chaos.json](./300015-chaos.json) |
