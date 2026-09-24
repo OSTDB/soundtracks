@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calpria | 416686 | [416686-calpria.json](./416686-calpria.json) |
 | CalQ | 61569 | [61569-calq.json](./61569-calq.json) |
 | Caltron 6-in-1 | 81250 | [81250-caltron-6-in-1.json](./81250-caltron-6-in-1.json) |
+| Calvar: The Darkest Gate | 318008 | [318008-calvar-the-darkest-gate.json](./318008-calvar-the-darkest-gate.json) |
 | Calvin's Gallery | 377043 | [377043-calvins-gallery.json](./377043-calvins-gallery.json) |
 | Calvino Noir | 17713 | [17713-calvino-noir.json](./17713-calvino-noir.json) |
 | Calx | 203520 | [203520-calx.json](./203520-calx.json) |
@@ -753,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbage | 130766 | [130766-carbage.json](./130766-carbage.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
 | Carbonflesh | 224641 | [224641-carbonflesh.json](./224641-carbonflesh.json) |
+| Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
 | Carcassonne: The Official Board Game - Inns & Cathedrals | 171018 | [171018-carcassonne-the-official-board-game-inns-and-cathedrals.json](./171018-carcassonne-the-official-board-game-inns-and-cathedrals.json) |
 | Carcassonne: The Official Board Game - The River | 157564 | [157564-carcassonne-the-official-board-game-the-river.json](./157564-carcassonne-the-official-board-game-the-river.json) |
 | Carcassonne: The Official Board Game - Traders & Builders | 227359 | [227359-carcassonne-the-official-board-game-traders-and-builders.json](./227359-carcassonne-the-official-board-game-traders-and-builders.json) |
@@ -3347,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Love: Paris | 227511 | [227511-city-of-love-paris.json](./227511-city-of-love-paris.json) |
 | City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
 | City of Mist 2 | 123536 | [123536-city-of-mist-2.json](./123536-city-of-mist-2.json) |
+| City of Nightmares | 317980 | [317980-city-of-nightmares.json](./317980-city-of-nightmares.json) |
 | City of Rampage | 217025 | [217025-city-of-rampage.json](./217025-city-of-rampage.json) |
 | City of Rott: Streets of Rott | 29766 | [29766-city-of-rott-streets-of-rott.json](./29766-city-of-rott-streets-of-rott.json) |
 | City of Scrap | 183575 | [183575-city-of-scrap.json](./183575-city-of-scrap.json) |
@@ -3673,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickShot | 381739 | [381739-clickshot.json](./381739-clickshot.json) |
 | ClickTown | 391315 | [391315-clicktown.json](./391315-clicktown.json) |
 | Clicky & Yo | 389962 | [389962-clicky-and-yo.json](./389962-clicky-and-yo.json) |
+| Clicky Coven | 317990 | [317990-clicky-coven.json](./317990-clicky-coven.json) |
 | Clicky Islands | 388729 | [388729-clicky-islands.json](./388729-clicky-islands.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
@@ -4428,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorless | 380078 | [380078-colorless.json](./380078-colorless.json) |
 | Colorless Life | 50525 | [50525-colorless-life.json](./50525-colorless-life.json) |
 | Colorless Life | 50528 | [50528-colorless-life.json](./50528-colorless-life.json) |
+| Colorless Odyssey | 318005 | [318005-colorless-odyssey.json](./318005-colorless-odyssey.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
 | Colors of Your World | 182988 | [182988-colors-of-your-world.json](./182988-colors-of-your-world.json) |
