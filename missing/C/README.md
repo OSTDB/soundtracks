@@ -5404,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party | 11600 | [11600-corpse-party.json](./11600-corpse-party.json) |
 | Corpse Party | 178111 | [178111-corpse-party.json](./178111-corpse-party.json) |
 | Corpse Party D2: Depths of Despair | 170023 | [170023-corpse-party-d2-depths-of-despair.json](./170023-corpse-party-d2-depths-of-despair.json) |
+| Corpse Party II: Darkness Distortion – Ayame's Mercy Limited Edition | 294812 | [294812-corpse-party-ii-darkness-distortion-ayames-mercy-limited-edition.json](./294812-corpse-party-ii-darkness-distortion-ayames-mercy-limited-edition.json) |
 | Corpse Party Tetralogy Pack | 352377 | [352377-corpse-party-tetralogy-pack.json](./352377-corpse-party-tetralogy-pack.json) |
 | Corpse Party: Back to School Edition - Limited Edition | 89891 | [89891-corpse-party-back-to-school-edition-limited-edition.json](./89891-corpse-party-back-to-school-edition-limited-edition.json) |
 | Corpse Party: Blood Drive | 11000 | [11000-corpse-party-blood-drive.json](./11000-corpse-party-blood-drive.json) |
@@ -7345,6 +7346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
 | Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
+| Custom Mario Maker | 294782 | [294782-custom-mario-maker.json](./294782-custom-mario-maker.json) |
 | Custom Mech Wars: EDF Collab Edition | 268007 | [268007-custom-mech-wars-edf-collab-edition.json](./268007-custom-mech-wars-edf-collab-edition.json) |
 | Custom Mech Wars: Ultimate Edition | 268008 | [268008-custom-mech-wars-ultimate-edition.json](./268008-custom-mech-wars-ultimate-edition.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
