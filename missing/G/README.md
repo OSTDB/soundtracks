@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlish Grimoire Littlewitch Romanesque: Editio Perfecta | 50166 | [50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json](./50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json) |
 | Girlish Love Revolution | 80610 | [80610-girlish-love-revolution.json](./80610-girlish-love-revolution.json) |
 | GirlJail | 97348 | [97348-girljail.json](./97348-girljail.json) |
+| Girls & Blocks | 289420 | [289420-girls-and-blocks.json](./289420-girls-and-blocks.json) |
 | Girls Band Cry First Riff | 369766 | [369766-girls-band-cry-first-riff.json](./369766-girls-band-cry-first-riff.json) |
 | Girls Battlegrounds | 284340 | [284340-girls-battlegrounds.json](./284340-girls-battlegrounds.json) |
 | Girls Book Maker: Shiawase no Libretto | 194573 | [194573-girls-book-maker-shiawase-no-libretto.json](./194573-girls-book-maker-shiawase-no-libretto.json) |
