@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 19 Part One: Boot Camp | 41010 | [41010-19-part-one-boot-camp.json](./41010-19-part-one-boot-camp.json) |
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
+| 1917: The Alien Invasion DX Remastered | 332592 | [332592-1917-the-alien-invasion-dx-remastered.json](./332592-1917-the-alien-invasion-dx-remastered.json) |
 | 1931: Scheherazade at the Library of Pergamum | 36136 | [36136-1931-scheherazade-at-the-library-of-pergamum.json](./36136-1931-scheherazade-at-the-library-of-pergamum.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1942: Joint Strike | 21346 | [21346-1942-joint-strike.json](./21346-1942-joint-strike.json) |
@@ -1043,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ​Our Life: Beginnings & Always - Step 2 Expansion | 164529 | [164529-our-life-beginnings-and-always-step-2-expansion.json](./164529-our-life-beginnings-and-always-step-2-expansion.json) |
 | ​Our Life: Beginnings & Always - Step 3 Expansion | 161753 | [161753-our-life-beginnings-and-always-step-3-expansion.json](./161753-our-life-beginnings-and-always-step-3-expansion.json) |
 | ​Outer Wilds: A Thrilling Graphical Text Adventure | 304188 | [304188-outer-wilds-a-thrilling-graphical-text-adventure.json](./304188-outer-wilds-a-thrilling-graphical-text-adventure.json) |
+| ​​Star Trek​ x World of Warships: Commander Gowron | 332617 | [332617-star-trek-x-world-of-warships-commander-gowron.json](./332617-star-trek-x-world-of-warships-commander-gowron.json) |
 | Život Není Krásný: Poslední Exekuce | 401633 | [401633-zivot-neni-krasny-posledni-exekuce.json](./401633-zivot-neni-krasny-posledni-exekuce.json) |
 | µTanks | 66920 | [66920-tanks.json](./66920-tanks.json) |
 | 一>◇ | 100203 | [100203-.json](./100203-.json) |
