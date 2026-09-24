@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
 | Deflex | 92476 | [92476-deflex.json](./92476-deflex.json) |
+| Deflex / ROX | 315624 | [315624-deflex-rox.json](./315624-deflex-rox.json) |
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
 | Deformed | 244248 | [244248-deformed.json](./244248-deformed.json) |
 | Deformers | 207118 | [207118-deformers.json](./207118-deformers.json) |
@@ -5318,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
 | Dragon Mine | 211204 | [211204-dragon-mine.json](./211204-dragon-mine.json) |
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
+| Dragon Nest Escape | 315645 | [315645-dragon-nest-escape.json](./315645-dragon-nest-escape.json) |
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
 | Dragon Oath | 59945 | [59945-dragon-oath.json](./59945-dragon-oath.json) |
 | Dragon of Calon Valley | 323737 | [323737-dragon-of-calon-valley.json](./323737-dragon-of-calon-valley.json) |
