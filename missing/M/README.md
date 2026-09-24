@@ -405,6 +405,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Chess | 413901 | [413901-magic-chess.json](./413901-magic-chess.json) |
 | Magic Chess Online | 138575 | [138575-magic-chess-online.json](./138575-magic-chess-online.json) |
 | Magic Chess: Go Go | 330884 | [330884-magic-chess-go-go.json](./330884-magic-chess-go-go.json) |
+| Magic Christmas Escape 2 | 315611 | [315611-magic-christmas-escape-2.json](./315611-magic-christmas-escape-2.json) |
+| Magic Christmas Escape 3 | 315638 | [315638-magic-christmas-escape-3.json](./315638-magic-christmas-escape-3.json) |
+| Magic Christmas Escape 4 | 315639 | [315639-magic-christmas-escape-4.json](./315639-magic-christmas-escape-4.json) |
 | Magic Circle | 309334 | [309334-magic-circle.json](./309334-magic-circle.json) |
 | Magic City Detective: The Carnival Begins - Collector's Edition | 304859 | [304859-magic-city-detective-the-carnival-begins-collectors-edition.json](./304859-magic-city-detective-the-carnival-begins-collectors-edition.json) |
 | Magic City Detective: The Carnival Begins DLC | 361772 | [361772-magic-city-detective-the-carnival-begins-dlc.json](./361772-magic-city-detective-the-carnival-begins-dlc.json) |
@@ -421,6 +424,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
 | Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
+| Magic Forest Escape | 315647 | [315647-magic-forest-escape.json](./315647-magic-forest-escape.json) |
+| Magic Forest Escape 2 | 315653 | [315653-magic-forest-escape-2.json](./315653-magic-forest-escape-2.json) |
 | Magic Forest Escape 3 | 315665 | [315665-magic-forest-escape-3.json](./315665-magic-forest-escape-3.json) |
 | Magic Forest Escape 4 | 315666 | [315666-magic-forest-escape-4.json](./315666-magic-forest-escape-4.json) |
 | Magic Forest Escape 5 | 315668 | [315668-magic-forest-escape-5.json](./315668-magic-forest-escape-5.json) |
@@ -4499,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mined | 183983 | [183983-mined.json](./183983-mined.json) |
 | MineDrill Redux | 41945 | [41945-minedrill-redux.json](./41945-minedrill-redux.json) |
 | Minefield | 39724 | [39724-minefield.json](./39724-minefield.json) |
+| Minefield Combat | 315660 | [315660-minefield-combat.json](./315660-minefield-combat.json) |
 | MineFinitum | 186276 | [186276-minefinitum.json](./186276-minefinitum.json) |
 | MineGeon: Space Mining Dungeon | 227369 | [227369-minegeon-space-mining-dungeon.json](./227369-minegeon-space-mining-dungeon.json) |
 | Mineirinho Director's Cut | 127099 | [127099-mineirinho-directors-cut.json](./127099-mineirinho-directors-cut.json) |
@@ -5480,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monday Meow | 388762 | [388762-monday-meow.json](./388762-monday-meow.json) |
 | Mondays: A Sisyphean Typing Game | 209491 | [209491-mondays-a-sisyphean-typing-game.json](./209491-mondays-a-sisyphean-typing-game.json) |
 | Mondealy | 189076 | [189076-mondealy.json](./189076-mondealy.json) |
+| Mondly: Learn Languages in VR | 315636 | [315636-mondly-learn-languages-in-vr.json](./315636-mondly-learn-languages-in-vr.json) |
 | Mondo Agency | 72707 | [72707-mondo-agency.json](./72707-mondo-agency.json) |
 | Mondo Pong | 40759 | [40759-mondo-pong.json](./40759-mondo-pong.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
@@ -6530,6 +6537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Dreams | 27805 | [27805-mouse-dreams.json](./27805-mouse-dreams.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
 | Mouse in Lab | 29584 | [29584-mouse-in-lab.json](./29584-mouse-in-lab.json) |
+| Mouse Knight: A hero's rising | 315628 | [315628-mouse-knight-a-heros-rising.json](./315628-mouse-knight-a-heros-rising.json) |
 | Mouse Maze - Top Brain Puzzle | 89274 | [89274-mouse-maze-top-brain-puzzle.json](./89274-mouse-maze-top-brain-puzzle.json) |
 | Mouse Mind: Secrets of Pharaon | 73808 | [73808-mouse-mind-secrets-of-pharaon.json](./73808-mouse-mind-secrets-of-pharaon.json) |
 | Mouse People | 207409 | [207409-mouse-people.json](./207409-mouse-people.json) |
