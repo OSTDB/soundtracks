@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DamCell: Princess Run | 175299 | [175299-damcell-princess-run.json](./175299-damcell-princess-run.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
+| Damn it! | 284995 | [284995-damn-it.json](./284995-damn-it.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
 | Damnation | 6952 | [6952-damnation.json](./6952-damnation.json) |
@@ -398,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger: Electric Shock | 166620 | [166620-danger-electric-shock.json](./166620-danger-electric-shock.json) |
 | Dangerbots | 58499 | [58499-dangerbots.json](./58499-dangerbots.json) |
 | Dangeresque Roomisode 1: Behind the Dangerdesque | 135845 | [135845-dangeresque-roomisode-1-behind-the-dangerdesque.json](./135845-dangeresque-roomisode-1-behind-the-dangerdesque.json) |
+| Dangerous adventure | 284996 | [284996-dangerous-adventure.json](./284996-dangerous-adventure.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
 | Dangerous Dave GS | 11385 | [11385-dangerous-dave-gs.json](./11385-dangerous-dave-gs.json) |
@@ -406,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Dave's Risky Rescue | 11388 | [11388-dangerous-daves-risky-rescue.json](./11388-dangerous-daves-risky-rescue.json) |
 | Dangerous Driving | 104232 | [104232-dangerous-driving.json](./104232-dangerous-driving.json) |
 | Dangerous Fellows | 133817 | [133817-dangerous-fellows.json](./133817-dangerous-fellows.json) |
+| Dangerous Fight | 284997 | [284997-dangerous-fight.json](./284997-dangerous-fight.json) |
 | Dangerous Fists | 219673 | [219673-dangerous-fists.json](./219673-dangerous-fists.json) |
 | Dangerous Golf | 18985 | [18985-dangerous-golf.json](./18985-dangerous-golf.json) |
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
@@ -1262,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Gears: Space of War | 401118 | [401118-dead-gears-space-of-war.json](./401118-dead-gears-space-of-war.json) |
 | Dead Giveaway: Zombie Quiz | 232044 | [232044-dead-giveaway-zombie-quiz.json](./232044-dead-giveaway-zombie-quiz.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
+| Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
 | Dead Hospital | 406174 | [406174-dead-hospital.json](./406174-dead-hospital.json) |
 | Dead Humanity | 269034 | [269034-dead-humanity.json](./269034-dead-humanity.json) |
