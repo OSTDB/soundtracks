@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Season 8 | 307754 | [307754-naruto-to-boruto-shinobi-striker-season-8.json](./307754-naruto-to-boruto-shinobi-striker-season-8.json) |
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 1 | 284509 | [284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json](./284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json) |
+| Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 2 | 294250 | [294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json](./294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections | 239385 | [239385-naruto-x-boruto-ultimate-ninja-storm-connections.json](./239385-naruto-x-boruto-ultimate-ninja-storm-connections.json) |
 | Naruto x Boruto: Ultimate NInja Storm Connections - DLC Pack 5 | 317957 | [317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json](./317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition | 268549 | [268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json](./268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json) |
@@ -635,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necessary Force | 68014 | [68014-necessary-force.json](./68014-necessary-force.json) |
 | Necesse | 130788 | [130788-necesse.json](./130788-necesse.json) |
 | Neckbeards: Cuck Invaders | 81737 | [81737-neckbeards-cuck-invaders.json](./81737-neckbeards-cuck-invaders.json) |
+| Necks Please... | 294212 | [294212-necks-please.json](./294212-necks-please.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
 | Necris Dome | 12956 | [12956-necris-dome.json](./12956-necris-dome.json) |
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
