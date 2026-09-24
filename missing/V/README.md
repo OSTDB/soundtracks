@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verses of Enchantment | 211982 | [211982-verses-of-enchantment.json](./211982-verses-of-enchantment.json) |
 | Version Fille | 125947 | [125947-version-fille.json](./125947-version-fille.json) |
 | Version Three: Invisible Raid | 258035 | [258035-version-three-invisible-raid.json](./258035-version-three-invisible-raid.json) |
+| Versus in the Dark | 325021 | [325021-versus-in-the-dark.json](./325021-versus-in-the-dark.json) |
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
 | Versus: The Lost Ones | 34598 | [34598-versus-the-lost-ones.json](./34598-versus-the-lost-ones.json) |
