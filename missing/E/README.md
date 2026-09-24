@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Educator 2076: Basics in Education | 111678 | [111678-educator-2076-basics-in-education.json](./111678-educator-2076-basics-in-education.json) |
 | Edward Grabowski's: The Blue & The Gray | 74065 | [74065-edward-grabowskis-the-blue-and-the-gray.json](./74065-edward-grabowskis-the-blue-and-the-gray.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
+| Edward's Sewer Adventure | 304109 | [304109-edwards-sewer-adventure.json](./304109-edwards-sewer-adventure.json) |
 | Edwin Earstwhile: Medical Examiner | 404924 | [404924-edwin-earstwhile-medical-examiner.json](./404924-edwin-earstwhile-medical-examiner.json) |
 | EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
 | Eel Game | 361295 | [361295-eel-game.json](./361295-eel-game.json) |
@@ -1753,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erik: Phantom of the Opera | 55082 | [55082-erik-phantom-of-the-opera.json](./55082-erik-phantom-of-the-opera.json) |
 | Erika America | 351008 | [351008-erika-america.json](./351008-erika-america.json) |
 | Erina & A Mansao Rosaria | 219253 | [219253-erina-and-a-mansao-rosaria.json](./219253-erina-and-a-mansao-rosaria.json) |
+| Erina to Kima no Miyako | 304137 | [304137-erina-to-kima-no-miyako.json](./304137-erina-to-kima-no-miyako.json) |
 | Erinaceinae Griminance | 309987 | [309987-erinaceinae-griminance.json](./309987-erinaceinae-griminance.json) |
 | Erinye | 95222 | [95222-erinye.json](./95222-erinye.json) |
 | Erion | 228699 | [228699-erion.json](./228699-erion.json) |
