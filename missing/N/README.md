@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nimble Numbers Ned | 41561 | [41561-nimble-numbers-ned.json](./41561-nimble-numbers-ned.json) |
 | Nimble Quest | 16780 | [16780-nimble-quest.json](./16780-nimble-quest.json) |
 | Nimian Legends: BrightRidge | 89183 | [89183-nimian-legends-brightridge.json](./89183-nimian-legends-brightridge.json) |
+| Nimillion: The Last Expedition | 296478 | [296478-nimillion-the-last-expedition.json](./296478-nimillion-the-last-expedition.json) |
 | Nimpize Adventure | 135170 | [135170-nimpize-adventure.json](./135170-nimpize-adventure.json) |
 | Nin Online | 96688 | [96688-nin-online.json](./96688-nin-online.json) |
 | Nina Aquila: Legal Eagle | 134657 | [134657-nina-aquila-legal-eagle.json](./134657-nina-aquila-legal-eagle.json) |
@@ -2440,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
 | Nomad Station | 247608 | [247608-nomad-station.json](./247608-nomad-station.json) |
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
+| Nomads in the Dust | 296479 | [296479-nomads-in-the-dust.json](./296479-nomads-in-the-dust.json) |
 | NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
 | Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
@@ -2553,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Tale 3 | 105980 | [105980-northern-tale-3.json](./105980-northern-tale-3.json) |
 | Northern Tale 5: Revival | 132019 | [132019-northern-tale-5-revival.json](./132019-northern-tale-5-revival.json) |
 | Northern Tales | 114405 | [114405-northern-tales.json](./114405-northern-tales.json) |
+| Northern Tales 6: Oath to the Gods - Collector's Edition | 296480 | [296480-northern-tales-6-oath-to-the-gods-collectors-edition.json](./296480-northern-tales-6-oath-to-the-gods-collectors-edition.json) |
 | Northgard | 18918 | [18918-northgard.json](./18918-northgard.json) |
 | Northgard: Cross of Vidar Expansion Pack | 230821 | [230821-northgard-cross-of-vidar-expansion-pack.json](./230821-northgard-cross-of-vidar-expansion-pack.json) |
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
