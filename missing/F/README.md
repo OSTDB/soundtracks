@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairground 2 | 103532 | [103532-fairground-2.json](./103532-fairground-2.json) |
 | Fairground Online | 347225 | [347225-fairground-online.json](./347225-fairground-online.json) |
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
+| Fairies Praying To Heaven 2: Great Devil's Return Match | 285541 | [285541-fairies-praying-to-heaven-2-great-devils-return-match.json](./285541-fairies-praying-to-heaven-2-great-devils-return-match.json) |
 | Fairlight: A Prelude | 40962 | [40962-fairlight-a-prelude.json](./40962-fairlight-a-prelude.json) |
 | Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
@@ -3656,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Defenders | 240920 | [240920-forest-defenders.json](./240920-forest-defenders.json) |
 | Forest Doesn’t Care | 358851 | [358851-forest-doesn-t-care.json](./358851-forest-doesn-t-care.json) |
 | Forest Escape: Last Train | 389724 | [389724-forest-escape-last-train.json](./389724-forest-escape-last-train.json) |
+| Forest Fantasy | 285542 | [285542-forest-fantasy.json](./285542-forest-fantasy.json) |
 | Forest Fire | 230941 | [230941-forest-fire.json](./230941-forest-fire.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
 | Forest God | 313255 | [313255-forest-god.json](./313255-forest-god.json) |
