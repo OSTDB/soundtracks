@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wataju: My Super Fulfilling Real Life | 216786 | [216786-wataju-my-super-fulfilling-real-life.json](./216786-wataju-my-super-fulfilling-real-life.json) |
 | Watamari Part2: A Fake Marriage? | 375295 | [375295-watamari-part2-a-fake-marriage.json](./375295-watamari-part2-a-fake-marriage.json) |
 | Wataoma Extra | 97668 | [97668-wataoma-extra.json](./97668-wataoma-extra.json) |
+| Wataru no Pinball | 284451 | [284451-wataru-no-pinball.json](./284451-wataru-no-pinball.json) |
 | Watashi no Happy Manner Book | 287631 | [287631-watashi-no-happy-manner-book.json](./287631-watashi-no-happy-manner-book.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
@@ -3242,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World War: Fury Wave | 316236 | [316236-world-war-fury-wave.json](./316236-world-war-fury-wave.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
+| World Without Reason | 284410 | [284410-world-without-reason.json](./284410-world-without-reason.json) |
 | World Wonders Hidden Histories 3 | 364105 | [364105-world-wonders-hidden-histories-3.json](./364105-world-wonders-hidden-histories-3.json) |
 | World Zero | 219682 | [219682-world-zero.json](./219682-world-zero.json) |
 | World-Wide Adventure! Collection | 222381 | [222381-world-wide-adventure-collection.json](./222381-world-wide-adventure-collection.json) |
