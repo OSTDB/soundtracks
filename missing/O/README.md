@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Two-Three | 91910 | [91910-one-two-three.json](./91910-one-two-three.json) |
 | One-Way | 202317 | [202317-one-way.json](./202317-one-way.json) |
 | One: Kagayaku Kisetsu he | 72705 | [72705-one-kagayaku-kisetsu-he.json](./72705-one-kagayaku-kisetsu-he.json) |
+| One: Secret Empire | 298657 | [298657-one-secret-empire.json](./298657-one-secret-empire.json) |
 | One's Lonesome, Two's Company | 212804 | [212804-ones-lonesome-twos-company.json](./212804-ones-lonesome-twos-company.json) |
 | One's Own Exile | 344011 | [344011-ones-own-exile.json](./344011-ones-own-exile.json) |
 | OneBit Arena | 223556 | [223556-onebit-arena.json](./223556-onebit-arena.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
 | Oops! Inc. Emergency Center | 395044 | [395044-oops-inc-emergency-center.json](./395044-oops-inc-emergency-center.json) |
 | Oops! You're the Hero! | 412427 | [412427-oops-youre-the-hero.json](./412427-oops-youre-the-hero.json) |
+| Oops! Zombie Swarm | 298658 | [298658-oops-zombie-swarm.json](./298658-oops-zombie-swarm.json) |
 | Oopz-Oofs | 310026 | [310026-oopz-oofs.json](./310026-oopz-oofs.json) |
 | Oort Online | 9551 | [9551-oort-online.json](./9551-oort-online.json) |
 | Ooshige! Momohana Hanten | 227376 | [227376-ooshige-momohana-hanten.json](./227376-ooshige-momohana-hanten.json) |
