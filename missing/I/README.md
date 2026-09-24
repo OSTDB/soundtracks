@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
 | Influenced | 179675 | [179675-influenced.json](./179675-influenced.json) |
 | Influent Language Learning Game | 17037 | [17037-influent-language-learning-game.json](./17037-influent-language-learning-game.json) |
+| Info Player Start: A Dope (Challenge) Map | 282616 | [282616-info-player-start-a-dope-challenge-map.json](./282616-info-player-start-a-dope-challenge-map.json) |
 | Infocus: Extreme Bike | 175294 | [175294-infocus-extreme-bike.json](./175294-infocus-extreme-bike.json) |
 | Infodroid | 28857 | [28857-infodroid.json](./28857-infodroid.json) |
 | Infogrind | 401000 | [401000-infogrind.json](./401000-infogrind.json) |
@@ -2352,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting | 196828 | [196828-isekai-musume-to-konkatsuchuu-isekai-bride-hunting.json](./196828-isekai-musume-to-konkatsuchuu-isekai-bride-hunting.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Fia Edition | 219277 | [219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json](./219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kullulu Edition | 227849 | [227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json](./227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json) |
+| Isekai Neet Engineer Eiyuu ni Naru | 282670 | [282670-isekai-neet-engineer-eiyuu-ni-naru.json](./282670-isekai-neet-engineer-eiyuu-ni-naru.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekai Survivors | 317972 | [317972-isekai-survivors.json](./317972-isekai-survivors.json) |
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
@@ -2521,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Happened Here: Streaming Lives | 266244 | [266244-it-happened-here-streaming-lives.json](./266244-it-happened-here-streaming-lives.json) |
 | It is a Good Knight to Die | 236917 | [236917-it-is-a-good-knight-to-die.json](./236917-it-is-a-good-knight-to-die.json) |
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
+| It Is Over 2024 | 282618 | [282618-it-is-over-2024.json](./282618-it-is-over-2024.json) |
 | It Knows You're Here | 185134 | [185134-it-knows-youre-here.json](./185134-it-knows-youre-here.json) |
 | It Lives | 270666 | [270666-it-lives.json](./270666-it-lives.json) |
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
@@ -2600,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itro: In the Right Order | 59668 | [59668-itro-in-the-right-order.json](./59668-itro-in-the-right-order.json) |
 | ITRP: Aero Star | 236857 | [236857-itrp-aero-star.json](./236857-itrp-aero-star.json) |
 | Its Been a While Since I Went for a Walk | 151708 | [151708-its-been-a-while-since-i-went-for-a-walk.json](./151708-its-been-a-while-since-i-went-for-a-walk.json) |
+| Its Snowing | 282613 | [282613-its-snowing.json](./282613-its-snowing.json) |
 | Its Time To Meet God | 334131 | [334131-its-time-to-meet-god.json](./334131-its-time-to-meet-god.json) |
 | Its Village | 51502 | [51502-its-village.json](./51502-its-village.json) |
 | Itsu no Ma ni Koukan Nikki | 222319 | [222319-itsu-no-ma-ni-koukan-nikki.json](./222319-itsu-no-ma-ni-koukan-nikki.json) |
