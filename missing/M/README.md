@@ -1631,7 +1631,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Power Industries Deluxe | 122168 | [122168-mars-power-industries-deluxe.json](./122168-mars-power-industries-deluxe.json) |
 | Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
+| Mars Survivor: Blue Blaster | 324456 | [324456-mars-survivor-blue-blaster.json](./324456-mars-survivor-blue-blaster.json) |
 | Mars Survivor: Gold Edition | 385204 | [385204-mars-survivor-gold-edition.json](./385204-mars-survivor-gold-edition.json) |
+| Mars Survivor: Green Gun | 324457 | [324457-mars-survivor-green-gun.json](./324457-mars-survivor-green-gun.json) |
+| Mars Survivor: Red Rifle | 324458 | [324458-mars-survivor-red-rifle.json](./324458-mars-survivor-red-rifle.json) |
 | Mars Taken | 90147 | [90147-mars-taken.json](./90147-mars-taken.json) |
 | Mars Taxi | 341707 | [341707-mars-taxi.json](./341707-mars-taxi.json) |
 | Mars Taxi | 70356 | [70356-mars-taxi.json](./70356-mars-taxi.json) |
@@ -5022,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixups by POWGI | 118158 | [118158-mixups-by-powgi.json](./118158-mixups-by-powgi.json) |
 | Mixx Island: Remix Plus - Amazing Edition | 290431 | [290431-mixx-island-remix-plus-amazing-edition.json](./290431-mixx-island-remix-plus-amazing-edition.json) |
+| Mixx Island: Remix Plus - Complete + | 324448 | [324448-mixx-island-remix-plus-complete.json](./324448-mixx-island-remix-plus-complete.json) |
 | Mixx Island: Remix Plus - Definitive Edition | 268550 | [268550-mixx-island-remix-plus-definitive-edition.json](./268550-mixx-island-remix-plus-definitive-edition.json) |
 | Mixx Island: Remix Plus - Deluxe Edition | 248725 | [248725-mixx-island-remix-plus-deluxe-edition.json](./248725-mixx-island-remix-plus-deluxe-edition.json) |
 | Mixx Island: Remix Plus - GOTY Edition | 284502 | [284502-mixx-island-remix-plus-goty-edition.json](./284502-mixx-island-remix-plus-goty-edition.json) |
@@ -5029,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Magnificent Edition | 294830 | [294830-mixx-island-remix-plus-magnificent-edition.json](./294830-mixx-island-remix-plus-magnificent-edition.json) |
 | Mixx Island: Remix Plus - Superb Edition | 298573 | [298573-mixx-island-remix-plus-superb-edition.json](./298573-mixx-island-remix-plus-superb-edition.json) |
 | Mixx Island: Remix Plus - Ultra Definitive | 316274 | [316274-mixx-island-remix-plus-ultra-definitive.json](./316274-mixx-island-remix-plus-ultra-definitive.json) |
+| Mixx Island: Remix Plus - Ultra Legendary | 324449 | [324449-mixx-island-remix-plus-ultra-legendary.json](./324449-mixx-island-remix-plus-ultra-legendary.json) |
 | Mixx Island: Remix Plus - Ultra Special | 308820 | [308820-mixx-island-remix-plus-ultra-special.json](./308820-mixx-island-remix-plus-ultra-special.json) |
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
 | Miya Might Break | 390138 | [390138-miya-might-break.json](./390138-miya-might-break.json) |
@@ -7557,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Portia: Deluxe Edition | 224111 | [224111-my-time-at-portia-deluxe-edition.json](./224111-my-time-at-portia-deluxe-edition.json) |
 | My Time at Sandrock: Builder's Beach and Ball Clothing Pack | 275107 | [275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Interior Decorator Pack | 275106 | [275106-my-time-at-sandrock-interior-decorator-pack.json](./275106-my-time-at-sandrock-interior-decorator-pack.json) |
+| My Time at Sandrock: Love Chronicles | 324459 | [324459-my-time-at-sandrock-love-chronicles.json](./324459-my-time-at-sandrock-love-chronicles.json) |
 | My Time at Sandrock: Online | 306487 | [306487-my-time-at-sandrock-online.json](./306487-my-time-at-sandrock-online.json) |
 | My Time at Sandrock: Starlight Collection 1 | 277822 | [277822-my-time-at-sandrock-starlight-collection-1.json](./277822-my-time-at-sandrock-starlight-collection-1.json) |
 | My Time at Sandrock: Starlight Collection 2 | 277821 | [277821-my-time-at-sandrock-starlight-collection-2.json](./277821-my-time-at-sandrock-starlight-collection-2.json) |
