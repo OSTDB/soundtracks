@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Battle: Ganbaride | 83930 | [83930-kamen-rider-battle-ganbaride.json](./83930-kamen-rider-battle-ganbaride.json) |
 | Kamen Rider Black: Hissatsu Rider Kick | 385754 | [385754-kamen-rider-black-hissatsu-rider-kick.json](./385754-kamen-rider-black-hissatsu-rider-kick.json) |
 | Kamen Rider Club: Gekitotsu Shocker Land | 48691 | [48691-kamen-rider-club-gekitotsu-shocker-land.json](./48691-kamen-rider-club-gekitotsu-shocker-land.json) |
+| Kamen Rider Decade | 321523 | [321523-kamen-rider-decade.json](./321523-kamen-rider-decade.json) |
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
 | Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
@@ -1583,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
 | Klondike Solitaire Gold | 146914 | [146914-klondike-solitaire-gold.json](./146914-klondike-solitaire-gold.json) |
 | Klondike Solitaire Pro | 391349 | [391349-klondike-solitaire-pro.json](./391349-klondike-solitaire-pro.json) |
+| Klondike's Hike | 321479 | [321479-klondikes-hike.json](./321479-klondikes-hike.json) |
 | Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
 | Klonoa 2: Lunatea's Veil | 9709 | [9709-klonoa-2-lunateas-veil.json](./9709-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
