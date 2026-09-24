@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega no Shikai: Aki Kaketa Shiki no Ai: Zan | 260968 | [260968-omega-no-shikai-aki-kaketa-shiki-no-ai-zan.json](./260968-omega-no-shikai-aki-kaketa-shiki-no-ai-zan.json) |
 | Omega no Shikai: Miyo Owareru Shimai Towa(●nd) | 260969 | [260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json](./260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json) |
 | Omega No Sunshine 2 | 306708 | [306708-omega-no-sunshine-2.json](./306708-omega-no-sunshine-2.json) |
+| Omega Nugget | 301365 | [301365-omega-nugget.json](./301365-omega-nugget.json) |
 | Omega One | 29866 | [29866-omega-one.json](./29866-omega-one.json) |
 | Omega One | 55016 | [55016-omega-one.json](./55016-omega-one.json) |
 | Omega Orb | 13744 | [13744-omega-orb.json](./13744-omega-orb.json) |
@@ -1482,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
+| Orca | 301336 | [301336-orca.json](./301336-orca.json) |
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
 | Orchard Odyssey: Chestnut Christmas | 391146 | [391146-orchard-odyssey-chestnut-christmas.json](./391146-orchard-odyssey-chestnut-christmas.json) |
