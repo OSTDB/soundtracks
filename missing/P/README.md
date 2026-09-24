@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
+| Pac-Man Megamix | 322106 | [322106-pac-man-megamix.json](./322106-pac-man-megamix.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
@@ -3658,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Kite | 200183 | [200183-pocket-kite.json](./200183-pocket-kite.json) |
 | Pocket Knights 2 | 54715 | [54715-pocket-knights-2.json](./54715-pocket-knights-2.json) |
 | Pocket Lands | 183473 | [183473-pocket-lands.json](./183473-pocket-lands.json) |
+| Pocket Legend | 322144 | [322144-pocket-legend.json](./322144-pocket-legend.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Lint Zero | 387645 | [387645-pocket-lint-zero.json](./387645-pocket-lint-zero.json) |
 | Pocket Love | 63334 | [63334-pocket-love.json](./63334-pocket-love.json) |
