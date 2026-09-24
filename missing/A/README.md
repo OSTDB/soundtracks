@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akai Corridor | 316282 | [316282-akai-corridor.json](./316282-akai-corridor.json) |
 | Akai Katana Shin | 78617 | [78617-akai-katana-shin.json](./78617-akai-katana-shin.json) |
+| Akai Majo | 330910 | [330910-akai-majo.json](./330910-akai-majo.json) |
 | Akai Onna | 277961 | [277961-akai-onna.json](./277961-akai-onna.json) |
 | Akairo Kimi to, Shiawase ni | 285995 | [285995-akairo-kimi-to-shiawase-ni.json](./285995-akairo-kimi-to-shiawase-ni.json) |
 | Akairo Mansion: Horror Edition | 301979 | [301979-akairo-mansion-horror-edition.json](./301979-akairo-mansion-horror-edition.json) |
@@ -1708,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Garden | 113758 | [113758-alchemy-garden.json](./113758-alchemy-garden.json) |
 | Alchemy in Dungeon | 337809 | [337809-alchemy-in-dungeon.json](./337809-alchemy-in-dungeon.json) |
 | Alchemy Mastery | 302917 | [302917-alchemy-mastery.json](./302917-alchemy-mastery.json) |
+| Alchemy Merge Puzzle Game | 330932 | [330932-alchemy-merge-puzzle-game.json](./330932-alchemy-merge-puzzle-game.json) |
 | Alchemy Odyssey 2: Tears of the Elements | 417519 | [417519-alchemy-odyssey-2-tears-of-the-elements.json](./417519-alchemy-odyssey-2-tears-of-the-elements.json) |
 | Alchemy of Love | 214160 | [214160-alchemy-of-love.json](./214160-alchemy-of-love.json) |
 | Alchemy of the Earth | 288750 | [288750-alchemy-of-the-earth.json](./288750-alchemy-of-the-earth.json) |
@@ -2024,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Alienz | 116399 | [116399-alienz.json](./116399-alienz.json) |
 | Alienz! | 338921 | [338921-alienz.json](./338921-alienz.json) |
+| Alienzix: CyberNet | 330938 | [330938-alienzix-cybernet.json](./330938-alienzix-cybernet.json) |
 | Aliex | 14244 | [14244-aliex.json](./14244-aliex.json) |
 | Alight: Lunar Survival | 215780 | [215780-alight-lunar-survival.json](./215780-alight-lunar-survival.json) |
 | Align 12 | 242662 | [242662-align-12.json](./242662-align-12.json) |
@@ -3297,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankoku-jou | 334900 | [334900-ankoku-jou.json](./334900-ankoku-jou.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
 | Anna & die Liebe | 269557 | [269557-anna-and-die-liebe.json](./269557-anna-and-die-liebe.json) |
+| Anna vs. Sentimental Fighter | 330933 | [330933-anna-vs-sentimental-fighter.json](./330933-anna-vs-sentimental-fighter.json) |
 | Anna-san-tachi no Fushigi no Meikyuu | 208405 | [208405-anna-san-tachi-no-fushigi-no-meikyuu.json](./208405-anna-san-tachi-no-fushigi-no-meikyuu.json) |
 | Anna: The Magic of Words | 210701 | [210701-anna-the-magic-of-words.json](./210701-anna-the-magic-of-words.json) |
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
