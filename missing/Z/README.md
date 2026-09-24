@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZpellCatz | 206340 | [206340-zpellcatz.json](./206340-zpellcatz.json) |
 | ZPF | 308919 | [308919-zpf.json](./308919-zpf.json) |
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
+| Ztar Attack 3: Dimensional Panic | 294780 | [294780-ztar-attack-3-dimensional-panic.json](./294780-ztar-attack-3-dimensional-panic.json) |
 | Ztar Attack Rebooted | 135231 | [135231-ztar-attack-rebooted.json](./135231-ztar-attack-rebooted.json) |
 | ZTetris | 225752 | [225752-ztetris.json](./225752-ztetris.json) |
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
