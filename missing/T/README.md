@@ -1753,6 +1753,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraFirmaCraft+ | 297577 | [297577-terrafirmacraft.json](./297577-terrafirmacraft.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
+| Terraformers + Starward Rogue: Mechs and Colonizers Bundle | 292614 | [292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json](./292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json) |
+| Terraformers + Starward Rogue: Mechs and Colonizers Deluxe Bundle | 292616 | [292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json](./292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json) |
 | Terraformers: Deluxe Bundle | 331493 | [331493-terraformers-deluxe-bundle.json](./331493-terraformers-deluxe-bundle.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
 | Terraformers: Megastructures Bundle | 331492 | [331492-terraformers-megastructures-bundle.json](./331492-terraformers-megastructures-bundle.json) |
@@ -4045,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hedgehogs | 99405 | [99405-the-hedgehogs.json](./99405-the-hedgehogs.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heiress | 51604 | [51604-the-heiress.json](./51604-the-heiress.json) |
+| The Heirloom | 292604 | [292604-the-heirloom.json](./292604-the-heirloom.json) |
 | The Heist | 120316 | [120316-the-heist.json](./120316-the-heist.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
 | The Heist mobile | 83914 | [83914-the-heist-mobile.json](./83914-the-heist-mobile.json) |
@@ -5289,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misadventures of Denniz & Diana | 113050 | [113050-the-misadventures-of-denniz-and-diana.json](./113050-the-misadventures-of-denniz-and-diana.json) |
 | The Misadventures of Sir Randolph Doogleberry, British Explorer | 91429 | [91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json](./91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json) |
 | The Misadventures of Tron Bonne | 1753 | [1753-the-misadventures-of-tron-bonne.json](./1753-the-misadventures-of-tron-bonne.json) |
+| The MisAdventures of Xenos: Legacy Edition | 292642 | [292642-the-misadventures-of-xenos-legacy-edition.json](./292642-the-misadventures-of-xenos-legacy-edition.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
 | The Missing Few | 110808 | [110808-the-missing-few.json](./110808-the-missing-few.json) |
@@ -7276,6 +7280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
 | The Wishing Flower | 225761 | [225761-the-wishing-flower.json](./225761-the-wishing-flower.json) |
 | The Wishing Stone | 148901 | [148901-the-wishing-stone.json](./148901-the-wishing-stone.json) |
+| The Witch | 292633 | [292633-the-witch.json](./292633-the-witch.json) |
 | The Witch and Her Assistant | 183460 | [183460-the-witch-and-her-assistant.json](./183460-the-witch-and-her-assistant.json) |
 | The Witch and the Hundred Knight 2 | 24909 | [24909-the-witch-and-the-hundred-knight-2.json](./24909-the-witch-and-the-hundred-knight-2.json) |
 | The Witch and the Hundred Knight Mobile | 394549 | [394549-the-witch-and-the-hundred-knight-mobile.json](./394549-the-witch-and-the-hundred-knight-mobile.json) |
@@ -7520,6 +7525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Dragon! | 325024 | [325024-theres-no-dragon.json](./325024-theres-no-dragon.json) |
 | There's No Dragons | 330899 | [330899-theres-no-dragons.json](./330899-theres-no-dragons.json) |
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
+| There's No Easy Wayout 99 | 292579 | [292579-theres-no-easy-wayout-99.json](./292579-theres-no-easy-wayout-99.json) |
 | There's No Monsters | 306991 | [306991-theres-no-monsters.json](./306991-theres-no-monsters.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
 | There's No Socks | 302506 | [302506-theres-no-socks.json](./302506-theres-no-socks.json) |
@@ -8902,6 +8908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
 | Tiny Fortress | 409645 | [409645-tiny-fortress.json](./409645-tiny-fortress.json) |
 | Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
+| Tiny Gems Bundle | 292617 | [292617-tiny-gems-bundle.json](./292617-tiny-gems-bundle.json) |
 | Tiny Goalie | 233081 | [233081-tiny-goalie.json](./233081-tiny-goalie.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
 | Tiny Hawk: Pico Sk8r | 304125 | [304125-tiny-hawk-pico-sk8r.json](./304125-tiny-hawk-pico-sk8r.json) |
@@ -11094,6 +11101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
 | Trans-Siberian Legends: Beautiful Girls | 298088 | [298088-trans-siberian-legends-beautiful-girls.json](./298088-trans-siberian-legends-beautiful-girls.json) |
+| Trans-Siberian Legends: Posters in a Train Compartment | 292645 | [292645-trans-siberian-legends-posters-in-a-train-compartment.json](./292645-trans-siberian-legends-posters-in-a-train-compartment.json) |
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
 | Transball | 47554 | [47554-transball.json](./47554-transball.json) |
