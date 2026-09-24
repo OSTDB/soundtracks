@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
 | Warrens Of Random | 389614 | [389614-warrens-of-random.json](./389614-warrens-of-random.json) |
 | Warring States Tactics | 60516 | [60516-warring-states-tactics.json](./60516-warring-states-tactics.json) |
+| Warring Universe | 290459 | [290459-warring-universe.json](./290459-warring-universe.json) |
 | Warring Worms | 73769 | [73769-warring-worms.json](./73769-warring-worms.json) |
 | Warring Worms: The Worm (re)Turns | 73285 | [73285-warring-worms-the-worm-re-turns.json](./73285-warring-worms-the-worm-re-turns.json) |
 | Warrior | 181768 | [181768-warrior.json](./181768-warrior.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Chef | 270179 | [270179-warrior-chef.json](./270179-warrior-chef.json) |
 | Warrior Chess | 90389 | [90389-warrior-chess.json](./90389-warrior-chess.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
+| Warrior Escape | 290460 | [290460-warrior-escape.json](./290460-warrior-escape.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
 | Warrior Kings | 17343 | [17343-warrior-kings.json](./17343-warrior-kings.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
@@ -2437,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witness the Dark #1: Bloody Burger | 404336 | [404336-witness-the-dark-1-bloody-burger.json](./404336-witness-the-dark-1-bloody-burger.json) |
 | Witness: A Bodyguard Romance | 313846 | [313846-witness-a-bodyguard-romance.json](./313846-witness-a-bodyguard-romance.json) |
 | Witold the Game 2 | 133806 | [133806-witold-the-game-2.json](./133806-witold-the-game-2.json) |
+| Wits Battle Simulator | 290473 | [290473-wits-battle-simulator.json](./290473-wits-battle-simulator.json) |
 | Wits of Gods | 208062 | [208062-wits-of-gods.json](./208062-wits-of-gods.json) |
 | Wittengrad Is No More | 386254 | [386254-wittengrad-is-no-more.json](./386254-wittengrad-is-no-more.json) |
 | Wittle Defender | 358978 | [358978-wittle-defender.json](./358978-wittle-defender.json) |
