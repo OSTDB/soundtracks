@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
 | Eilean Mor: The Lost Keepers | 355026 | [355026-eilean-mor-the-lost-keepers.json](./355026-eilean-mor-the-lost-keepers.json) |
 | Ein Fall für TKKG: Katjas Geheimnis | 127995 | [127995-ein-fall-fur-tkkg-katjas-geheimnis.json](./127995-ein-fall-fur-tkkg-katjas-geheimnis.json) |
+| Ein's Sword 3 | 312112 | [312112-eins-sword-3.json](./312112-eins-sword-3.json) |
 | Einar | 50540 | [50540-einar.json](./50540-einar.json) |
 | Einhänder | 1360 | [1360-einhander.json](./1360-einhander.json) |
 | Einn | 120832 | [120832-einn.json](./120832-einn.json) |
@@ -1935,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Voyna: Aliens from Area 51 | 130191 | [130191-escape-from-voyna-aliens-from-area-51.json](./130191-escape-from-voyna-aliens-from-area-51.json) |
 | Escape From Voyna: Dead Forest | 113754 | [113754-escape-from-voyna-dead-forest.json](./113754-escape-from-voyna-dead-forest.json) |
 | Escape from Vulcan's Isle | 24861 | [24861-escape-from-vulcans-isle.json](./24861-escape-from-vulcans-isle.json) |
+| Escape From Warehouse | 312124 | [312124-escape-from-warehouse.json](./312124-escape-from-warehouse.json) |
 | Escape From Woomera | 172108 | [172108-escape-from-woomera.json](./172108-escape-from-woomera.json) |
 | Escape From Yandere | 388741 | [388741-escape-from-yandere.json](./388741-escape-from-yandere.json) |
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
@@ -2797,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
 | Exo Exit | 18542 | [18542-exo-exit.json](./18542-exo-exit.json) |
+| Exo Mayhem | 312143 | [312143-exo-mayhem.json](./312143-exo-mayhem.json) |
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo Rally Championship | 252862 | [252862-exo-rally-championship.json](./252862-exo-rally-championship.json) |
 | Exo Wanderers | 340044 | [340044-exo-wanderers.json](./340044-exo-wanderers.json) |
