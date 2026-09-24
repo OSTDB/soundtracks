@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to 1998 | 116986 | [116986-back-to-1998.json](./116986-back-to-1998.json) |
 | Back to 21 | 407409 | [407409-back-to-21.json](./407409-back-to-21.json) |
 | Back To Back | 379992 | [379992-back-to-back.json](./379992-back-to-back.json) |
+| Back to Base(Q2)ics Jam 1 | 316741 | [316741-back-to-base-q2-ics-jam-1.json](./316741-back-to-base-q2-ics-jam-1.json) |
 | Back to Basics | 256852 | [256852-back-to-basics.json](./256852-back-to-basics.json) |
 | Back to Brother | 231047 | [231047-back-to-brother.json](./231047-back-to-brother.json) |
 | Back to Dinosaur Island | 34169 | [34169-back-to-dinosaur-island.json](./34169-back-to-dinosaur-island.json) |
@@ -1037,7 +1038,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baron Wittard: Nemesis of Ragnarok | 10022 | [10022-baron-wittard-nemesis-of-ragnarok.json](./10022-baron-wittard-nemesis-of-ragnarok.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
+| Baroque Darts | 316763 | [316763-baroque-darts.json](./316763-baroque-darts.json) |
 | Baroque-Ya | 368639 | [368639-baroque-ya.json](./368639-baroque-ya.json) |
+| Baroque: Become a Meta-Being | 316764 | [316764-baroque-become-a-meta-being.json](./316764-baroque-become-a-meta-being.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
 | Barrack | 83919 | [83919-barrack.json](./83919-barrack.json) |
 | Barrage | 146228 | [146228-barrage.json](./146228-barrage.json) |
@@ -2622,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Zero Line | 386299 | [386299-beyond-zero-line.json](./386299-beyond-zero-line.json) |
 | Beyond: Fire & Ice | 386301 | [386301-beyond-fire-and-ice.json](./386301-beyond-fire-and-ice.json) |
 | Beyond: Light Advent - Collector's Edition | 36464 | [36464-beyond-light-advent-collectors-edition.json](./36464-beyond-light-advent-collectors-edition.json) |
+| Beyond.Frontiers | 316733 | [316733-beyond-frontiers.json](./316733-beyond-frontiers.json) |
 | Beyonders | 408275 | [408275-beyonders.json](./408275-beyonders.json) |
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
@@ -2781,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Thanks Super Keirin | 55898 | [55898-big-thanks-super-keirin.json](./55898-big-thanks-super-keirin.json) |
 | Big the Cat in Sonic the Hedgehog | 201296 | [201296-big-the-cat-in-sonic-the-hedgehog.json](./201296-big-the-cat-in-sonic-the-hedgehog.json) |
 | Big Theft Valkeala | 351638 | [351638-big-theft-valkeala.json](./351638-big-theft-valkeala.json) |
+| Big Time Gangsta | 316758 | [316758-big-time-gangsta.json](./316758-big-time-gangsta.json) |
 | Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
 | Big Top Solitaire | 386134 | [386134-big-top-solitaire.json](./386134-big-top-solitaire.json) |
