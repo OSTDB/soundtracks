@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
 | Habitica | 395187 | [395187-habitica.json](./395187-habitica.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
+| Hacha Macha Pon! | 286585 | [286585-hacha-macha-pon.json](./286585-hacha-macha-pon.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
 | Hachiemon | 49595 | [49595-hachiemon.json](./49595-hachiemon.json) |
 | Hachishakusama | 412501 | [412501-hachishakusama.json](./412501-hachishakusama.json) |
@@ -2779,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideaways Lost Island | 53212 | [53212-hideaways-lost-island.json](./53212-hideaways-lost-island.json) |
 | Hideaways: Foggy Valley | 84519 | [84519-hideaways-foggy-valley.json](./84519-hideaways-foggy-valley.json) |
 | Hideko | 326201 | [326201-hideko.json](./326201-hideko.json) |
+| Hiden Inyou Kikouhou: Ca Da | 286595 | [286595-hiden-inyou-kikouhou-ca-da.json](./286595-hiden-inyou-kikouhou-ca-da.json) |
 | Hideous | 348801 | [348801-hideous.json](./348801-hideous.json) |
 | Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
@@ -3099,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
 | Hit the Light: Neon Shooter | 129165 | [129165-hit-the-light-neon-shooter.json](./129165-hit-the-light-neon-shooter.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
+| HitagiDrops | 286601 | [286601-hitagidrops.json](./286601-hitagidrops.json) |
 | HitBox | 21982 | [21982-hitbox.json](./21982-hitbox.json) |
 | Hitchhiking to Hell | 405684 | [405684-hitchhiking-to-hell.json](./405684-hitchhiking-to-hell.json) |
 | Hitler is My Crush: Love and Fascism | 318420 | [318420-hitler-is-my-crush-love-and-fascism.json](./318420-hitler-is-my-crush-love-and-fascism.json) |
@@ -3547,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Peach | 48307 | [48307-honey-peach.json](./48307-honey-peach.json) |
 | Honey Pot | 317391 | [317391-honey-pot.json](./317391-honey-pot.json) |
 | Honey Select 2: Libido | 134622 | [134622-honey-select-2-libido.json](./134622-honey-select-2-libido.json) |
+| Honey Time! with Pooh! | 286613 | [286613-honey-time-with-pooh.json](./286613-honey-time-with-pooh.json) |
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
 | Honey Trap Amnesia | 371915 | [371915-honey-trap-amnesia.json](./371915-honey-trap-amnesia.json) |
 | Honey, I Joined a Cult | 99634 | [99634-honey-i-joined-a-cult.json](./99634-honey-i-joined-a-cult.json) |
@@ -4384,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huggy & Friends | 372483 | [372483-huggy-and-friends.json](./372483-huggy-and-friends.json) |
 | Huggy: Love and Rescue | 276861 | [276861-huggy-love-and-rescue.json](./276861-huggy-love-and-rescue.json) |
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
+| Hugo and the Animals of the Ocean | 286610 | [286610-hugo-and-the-animals-of-the-ocean.json](./286610-hugo-and-the-animals-of-the-ocean.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
 | Hugo III, Jungle of Doom! | 8883 | [8883-hugo-iii-jungle-of-doom.json](./8883-hugo-iii-jungle-of-doom.json) |
 | Hugo in Space | 78983 | [78983-hugo-in-space.json](./78983-hugo-in-space.json) |
@@ -4392,8 +4397,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
 | Hugo: De Første Tegn | 301394 | [301394-hugo-de-f-rste-tegn.json](./301394-hugo-de-f-rste-tegn.json) |
 | Hugo: Frog Fighter | 25666 | [25666-hugo-frog-fighter.json](./25666-hugo-frog-fighter.json) |
+| Hugo: Heroes of the Savannah | 286614 | [286614-hugo-heroes-of-the-savannah.json](./286614-hugo-heroes-of-the-savannah.json) |
+| Hugo: Jungle Island 2 | 286615 | [286615-hugo-jungle-island-2.json](./286615-hugo-jungle-island-2.json) |
 | Hugo: Magic in the Trollwoods | 48023 | [48023-hugo-magic-in-the-trollwoods.json](./48023-hugo-magic-in-the-trollwoods.json) |
 | Hugo: På Nye Eventyr | 11760 | [11760-hugo-pa-nye-eventyr.json](./11760-hugo-pa-nye-eventyr.json) |
+| Hugo: The Bewitched Rollercoaster | 286609 | [286609-hugo-the-bewitched-rollercoaster.json](./286609-hugo-the-bewitched-rollercoaster.json) |
 | Hugo: The Evil Mirror | 6438 | [6438-hugo-the-evil-mirror.json](./6438-hugo-the-evil-mirror.json) |
 | Hugo: The Forces of Nature | 15538 | [15538-hugo-the-forces-of-nature.json](./15538-hugo-the-forces-of-nature.json) |
 | Hugo: The Quest for the Sunstones | 44743 | [44743-hugo-the-quest-for-the-sunstones.json](./44743-hugo-the-quest-for-the-sunstones.json) |
