@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatball | 156613 | [156613-meatball.json](./156613-meatball.json) |
 | Meatballs Farm | 381281 | [381281-meatballs-farm.json](./381281-meatballs-farm.json) |
 | Meatdoll Dressup | 408924 | [408924-meatdoll-dressup.json](./408924-meatdoll-dressup.json) |
+| Meatgrinder | 285507 | [285507-meatgrinder.json](./285507-meatgrinder.json) |
 | Meatlock | 399012 | [399012-meatlock.json](./399012-meatlock.json) |
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
 | Meatmare | 334306 | [334306-meatmare.json](./334306-meatmare.json) |
@@ -2996,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaloot | 274998 | [274998-megaloot.json](./274998-megaloot.json) |
 | Megalopolis SOS | 138004 | [138004-megalopolis-sos.json](./138004-megalopolis-sos.json) |
 | Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
+| Megalotrain | 285551 | [285551-megalotrain.json](./285551-megalotrain.json) |
 | Megamagic: Wizards of the Neon Age | 25610 | [25610-megamagic-wizards-of-the-neon-age.json](./25610-megamagic-wizards-of-the-neon-age.json) |
 | MegaMan NT Warrior Advanced PET | 336716 | [336716-megaman-nt-warrior-advanced-pet.json](./336716-megaman-nt-warrior-advanced-pet.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - 001: Cannon | 352838 | [352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json](./352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json) |
@@ -7197,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Forest | 382881 | [382881-mushroom-forest.json](./382881-mushroom-forest.json) |
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
+| Mushroom Kid's Big Grass Sword | 285525 | [285525-mushroom-kids-big-grass-sword.json](./285525-mushroom-kids-big-grass-sword.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
 | Mushroom Kingdom Showdown | 307714 | [307714-mushroom-kingdom-showdown.json](./307714-mushroom-kingdom-showdown.json) |
 | Mushroom Manor | 358476 | [358476-mushroom-manor.json](./358476-mushroom-manor.json) |
