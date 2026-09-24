@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
+| Sclash: Sakura | 309999 | [309999-sclash-sakura.json](./309999-sclash-sakura.json) |
 | Scoober Splat! | 151165 | [151165-scoober-splat.json](./151165-scoober-splat.json) |
 | Scooby Doc 4: The Destroyer | 356757 | [356757-scooby-doc-4-the-destroyer.json](./356757-scooby-doc-4-the-destroyer.json) |
 | Scooby Doo: Horror of the High Seas - Episode 3: Reef Relief | 337126 | [337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json](./337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
 | Secrets of Me | 31974 | [31974-secrets-of-me.json](./31974-secrets-of-me.json) |
+| Secrets of Merveille Castle | 309967 | [309967-secrets-of-merveille-castle.json](./309967-secrets-of-merveille-castle.json) |
 | Secrets of Orion: Sword of Destiny. | 236935 | [236935-secrets-of-orion-sword-of-destiny.json](./236935-secrets-of-orion-sword-of-destiny.json) |
 | Secrets of Salem: Shadow of the Witch - Collector's Edition | 341022 | [341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json](./341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
@@ -1965,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
 | Self-Defense Training Camp | 8545 | [8545-self-defense-training-camp.json](./8545-self-defense-training-camp.json) |
 | Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
+| Self-Portrait, Vomit on Concrete | 309962 | [309962-self-portrait-vomit-on-concrete.json](./309962-self-portrait-vomit-on-concrete.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
 | Selfie Games: A TV Party Game | 112149 | [112149-selfie-games-a-tv-party-game.json](./112149-selfie-games-a-tv-party-game.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
@@ -6252,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sombrero: Spaghetti Western Mayhem | 20758 | [20758-sombrero-spaghetti-western-mayhem.json](./20758-sombrero-spaghetti-western-mayhem.json) |
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
+| Some Heroines Climb Up a Tower to Ask God Why the Game Has a Name That's So Long | 310001 | [310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json](./310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json) |
 | Some Like It Hot: Chapter 0 | 135051 | [135051-some-like-it-hot-chapter-0.json](./135051-some-like-it-hot-chapter-0.json) |
 | Some Old Stuff | 147300 | [147300-some-old-stuff.json](./147300-some-old-stuff.json) |
 | Some Peace of Mind | 144108 | [144108-some-peace-of-mind.json](./144108-some-peace-of-mind.json) |
@@ -6925,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sotsugyou: Graduation | 242774 | [242774-sotsugyou-graduation.json](./242774-sotsugyou-graduation.json) |
 | Sotsugyou: Graduation - Final | 268543 | [268543-sotsugyou-graduation-final.json](./268543-sotsugyou-graduation-final.json) |
 | Sou Desu, Anata no Koibito Desu. | 285992 | [285992-sou-desu-anata-no-koibito-desu.json](./285992-sou-desu-anata-no-koibito-desu.json) |
+| Soucha Yi Ke | 309969 | [309969-soucha-yi-ke.json](./309969-soucha-yi-ke.json) |
 | Souen no Iseki | 206174 | [206174-souen-no-iseki.json](./206174-souen-no-iseki.json) |
 | Sougetsu Ninja: Kikyou | 119708 | [119708-sougetsu-ninja-kikyou.json](./119708-sougetsu-ninja-kikyou.json) |
 | Sougou Kakutougi Rings: Astral Bout 3 | 38298 | [38298-sougou-kakutougi-rings-astral-bout-3.json](./38298-sougou-kakutougi-rings-astral-bout-3.json) |
@@ -13257,6 +13262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swinger | 91378 | [91378-swinger.json](./91378-swinger.json) |
 | Swinger-Man | 123548 | [123548-swinger-man.json](./123548-swinger-man.json) |
 | Swingers | 283718 | [283718-swingers.json](./283718-swingers.json) |
+| SwingHard | 310010 | [310010-swinghard.json](./310010-swinghard.json) |
 | Swingin' Beats | 338204 | [338204-swingin-beats.json](./338204-swingin-beats.json) |
 | Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
 | Swingularity | 333566 | [333566-swingularity.json](./333566-swingularity.json) |
