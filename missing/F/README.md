@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Jake Paul Hop World | 195085 | [195085-fall-of-jake-paul-hop-world.json](./195085-fall-of-jake-paul-hop-world.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
+| Fall of the Mist | 293684 | [293684-fall-of-the-mist.json](./293684-fall-of-the-mist.json) |
 | Fall Of The MS Estonia | 294295 | [294295-fall-of-the-ms-estonia.json](./294295-fall-of-the-ms-estonia.json) |
 | Fall of the Son | 264108 | [264108-fall-of-the-son.json](./264108-fall-of-the-son.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
@@ -522,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Contraptions Workshop | 19532 | [19532-fallout-4-contraptions-workshop.json](./19532-fallout-4-contraptions-workshop.json) |
 | Fallout 4: Far Harbor | 18031 | [18031-fallout-4-far-harbor.json](./18031-fallout-4-far-harbor.json) |
 | Fallout 4: Game of the Year Pip-Boy Edition | 72379 | [72379-fallout-4-game-of-the-year-pip-boy-edition.json](./72379-fallout-4-game-of-the-year-pip-boy-edition.json) |
+| Fallout 4: Season Pass | 293723 | [293723-fallout-4-season-pass.json](./293723-fallout-4-season-pass.json) |
 | Fallout 5 | 410450 | [410450-fallout-5.json](./410450-fallout-5.json) |
 | Fallout 76: Atlantic City | 252834 | [252834-fallout-76-atlantic-city.json](./252834-fallout-76-atlantic-city.json) |
 | Fallout 76: Camp Pets | 317825 | [317825-fallout-76-camp-pets.json](./317825-fallout-76-camp-pets.json) |
@@ -1100,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
 | Fast & Blast | 368687 | [368687-fast-and-blast.json](./368687-fast-and-blast.json) |
 | Fast & Fractured | 390642 | [390642-fast-and-fractured.json](./390642-fast-and-fractured.json) |
+| Fast & Furious: Crossroads - Season Pass | 293726 | [293726-fast-and-furious-crossroads-season-pass.json](./293726-fast-and-furious-crossroads-season-pass.json) |
 | Fast & Furious: Legacy | 383491 | [383491-fast-and-furious-legacy.json](./383491-fast-and-furious-legacy.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
@@ -3365,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
 | Follower A | 178510 | [178510-follower-a.json](./178510-follower-a.json) |
 | Follower:Sacrifice | 99006 | [99006-follower-sacrifice.json](./99006-follower-sacrifice.json) |
+| Following Seas | 293686 | [293686-following-seas.json](./293686-following-seas.json) |
 | Folly Of The Wizards | 253946 | [253946-folly-of-the-wizards.json](./253946-folly-of-the-wizards.json) |
 | Fomalhaut Flowers | 159714 | [159714-fomalhaut-flowers.json](./159714-fomalhaut-flowers.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
@@ -4531,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Bath Challenge | 413177 | [413177-frog-bath-challenge.json](./413177-frog-bath-challenge.json) |
 | Frog Box | 319237 | [319237-frog-box.json](./319237-frog-box.json) |
 | Frog Clan Official Server 24/7 ZK Map | 395868 | [395868-frog-clan-official-server-24-7-zk-map.json](./395868-frog-clan-official-server-24-7-zk-map.json) |
+| Frog Corner | 293683 | [293683-frog-corner.json](./293683-frog-corner.json) |
 | Frog Detective -1 | 325675 | [325675-frog-detective-1.json](./325675-frog-detective-1.json) |
 | Frog Detective 3: Corruption at Cowboy County | 161552 | [161552-frog-detective-3-corruption-at-cowboy-county.json](./161552-frog-detective-3-corruption-at-cowboy-county.json) |
 | Frog Fall | 410328 | [410328-frog-fall.json](./410328-frog-fall.json) |
