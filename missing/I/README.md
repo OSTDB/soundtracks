@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Firework Season | 328586 | [328586-infinity-nikki-firework-season.json](./328586-infinity-nikki-firework-season.json) |
 | Infinity Nikki: Golden Dust | 410212 | [410212-infinity-nikki-golden-dust.json](./410212-infinity-nikki-golden-dust.json) |
 | Infinity Nikki: Life as a Poem | 383945 | [383945-infinity-nikki-life-as-a-poem.json](./383945-infinity-nikki-life-as-a-poem.json) |
+| Infinity Nikki: Revelry Season | 336160 | [336160-infinity-nikki-revelry-season.json](./336160-infinity-nikki-revelry-season.json) |
 | Infinity Nikki: Where All Souls Return | 399186 | [399186-infinity-nikki-where-all-souls-return.json](./399186-infinity-nikki-where-all-souls-return.json) |
 | Infinity Ops | 174826 | [174826-infinity-ops.json](./174826-infinity-ops.json) |
 | Infinity Party Battle | 224034 | [224034-infinity-party-battle.json](./224034-infinity-party-battle.json) |
@@ -1581,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
 | Inkub | 85192 | [85192-inkub.json](./85192-inkub.json) |
 | Inkubus Sukkubus: She of a Thousand Names | 244342 | [244342-inkubus-sukkubus-she-of-a-thousand-names.json](./244342-inkubus-sukkubus-she-of-a-thousand-names.json) |
+| Inkulinati: Supporter Bundle | 336135 | [336135-inkulinati-supporter-bundle.json](./336135-inkulinati-supporter-bundle.json) |
 | Inkventure | 347326 | [347326-inkventure.json](./347326-inkventure.json) |
 | Inkwell | 376731 | [376731-inkwell.json](./376731-inkwell.json) |
 | Inkwellers | 333555 | [333555-inkwellers.json](./333555-inkwellers.json) |
