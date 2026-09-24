@@ -4195,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolClash | 367964 | [367964-polclash.json](./367964-polclash.json) |
 | Polda | 9713 | [9713-polda.json](./9713-polda.json) |
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
+| Pole Position | 310533 | [310533-pole-position.json](./310533-pole-position.json) |
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
 | Pole Position II | 293758 | [293758-pole-position-ii.json](./293758-pole-position-ii.json) |
 | Pole Riders | 342166 | [342166-pole-riders.json](./342166-pole-riders.json) |
