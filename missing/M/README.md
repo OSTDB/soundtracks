@@ -1880,6 +1880,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masha and the Bear Child Games: Cooking Adventure | 95847 | [95847-masha-and-the-bear-child-games-cooking-adventure.json](./95847-masha-and-the-bear-child-games-cooking-adventure.json) |
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
 | Masha Rescues Grandma | 30325 | [30325-masha-rescues-grandma.json](./30325-masha-rescues-grandma.json) |
+| Mashin Eiyuuden Wataru 2: Gekisen! Ryuusei-maru vs. Kokuryuukaku | 284457 | [284457-mashin-eiyuuden-wataru-2-gekisen-ryuusei-maru-vs-kokuryuukaku.json](./284457-mashin-eiyuuden-wataru-2-gekisen-ryuusei-maru-vs-kokuryuukaku.json) |
+| Mashin Eiyuuden Wataru 2: Seikaizan Pinball! | 284452 | [284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json](./284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json) |
+| Mashin Eiyuuden Wataru 2: Shinsei Ryuujin-maru Sanjou! | 284454 | [284454-mashin-eiyuuden-wataru-2-shinsei-ryuujin-maru-sanjou.json](./284454-mashin-eiyuuden-wataru-2-shinsei-ryuujin-maru-sanjou.json) |
+| Mashin Eiyuuden Wataru 2: Totsugeki! New Ryuujin-maru | 284456 | [284456-mashin-eiyuuden-wataru-2-totsugeki-new-ryuujin-maru.json](./284456-mashin-eiyuuden-wataru-2-totsugeki-new-ryuujin-maru.json) |
 | Mashinky | 55590 | [55590-mashinky.json](./55590-mashinky.json) |
 | Mashiroiro Symphony HD: Love is Pure White | 292527 | [292527-mashiroiro-symphony-hd-love-is-pure-white.json](./292527-mashiroiro-symphony-hd-love-is-pure-white.json) |
 | Mashiroiro Symphony HD: Sana Edition | 292529 | [292529-mashiroiro-symphony-hd-sana-edition.json](./292529-mashiroiro-symphony-hd-sana-edition.json) |
@@ -6989,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mühle-Online | 84275 | [84275-muhle-online.json](./84275-muhle-online.json) |
 | Mujina | 259060 | [259060-mujina.json](./259060-mujina.json) |
 | Mujina: Maze Game VR | 261504 | [261504-mujina-maze-game-vr.json](./261504-mujina-maze-game-vr.json) |
+| Mujinkun no Chotto Arukanai? | 284449 | [284449-mujinkun-no-chotto-arukanai.json](./284449-mujinkun-no-chotto-arukanai.json) |
 | Mujintou Monogatari Memorial Version | 58461 | [58461-mujintou-monogatari-memorial-version.json](./58461-mujintou-monogatari-memorial-version.json) |
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
