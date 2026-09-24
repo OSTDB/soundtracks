@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Forever | 169866 | [169866-danger-forever.json](./169866-danger-forever.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
+| Danger Street | 304126 | [304126-danger-street.json](./304126-danger-street.json) |
 | Danger Wall! | 52843 | [52843-danger-wall.json](./52843-danger-wall.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
 | Danger Zone Friends | 135044 | [135044-danger-zone-friends.json](./135044-danger-zone-friends.json) |
@@ -5704,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hollow | 350416 | [350416-dream-hollow.json](./350416-dream-hollow.json) |
 | Dream Home | 127082 | [127082-dream-home.json](./127082-dream-home.json) |
 | Dream Hopper | 200139 | [200139-dream-hopper.json](./200139-dream-hopper.json) |
+| Dream Hopper | 304147 | [304147-dream-hopper.json](./304147-dream-hopper.json) |
 | Dream Hospital | 352861 | [352861-dream-hospital.json](./352861-dream-hospital.json) |
 | Dream Hotel Master | 303492 | [303492-dream-hotel-master.json](./303492-dream-hotel-master.json) |
 | Dream in the Shell | 317388 | [317388-dream-in-the-shell.json](./317388-dream-in-the-shell.json) |
