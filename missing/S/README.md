@@ -3427,6 +3427,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoebill | 151119 | [151119-shoebill.json](./151119-shoebill.json) |
 | Shoemaker | 110772 | [110772-shoemaker.json](./110772-shoemaker.json) |
 | Shogi | 63582 | [63582-shogi.json](./63582-shogi.json) |
+| Shogi 2 | 282637 | [282637-shogi-2.json](./282637-shogi-2.json) |
+| Shogi 3 | 282638 | [282638-shogi-3.json](./282638-shogi-3.json) |
 | Shogi no Hoshi | 45604 | [45604-shogi-no-hoshi.json](./45604-shogi-no-hoshi.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Saikyou | 38299 | [38299-shogi-saikyou.json](./38299-shogi-saikyou.json) |
@@ -6025,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer in a Box | 320351 | [320351-soccer-in-a-box.json](./320351-soccer-in-a-box.json) |
 | Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
 | Soccer Manager | 134421 | [134421-soccer-manager.json](./134421-soccer-manager.json) |
+| Soccer Manager | 282639 | [282639-soccer-manager.json](./282639-soccer-manager.json) |
 | Soccer Manager | 393490 | [393490-soccer-manager.json](./393490-soccer-manager.json) |
 | Soccer Manager 2015 | 35594 | [35594-soccer-manager-2015.json](./35594-soccer-manager-2015.json) |
 | Soccer Manager 2016 | 34335 | [34335-soccer-manager-2016.json](./34335-soccer-manager-2016.json) |
@@ -7021,6 +7024,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman Doki-doki! Rescue Drive: Car Navi-tsuki | 327609 | [327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json](./327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json) |
 | Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukucchao | 327610 | [327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json](./327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json) |
 | Soreike! Anpanman Waku-waku Eigo Game! | 327611 | [327611-soreike-anpanman-waku-waku-eigo-game.json](./327611-soreike-anpanman-waku-waku-eigo-game.json) |
+| Soreike! Anpanman: 5-tsu no Tou no Ou-sama | 282640 | [282640-soreike-anpanman-5-tsu-no-tou-no-ou-sama.json](./282640-soreike-anpanman-5-tsu-no-tou-no-ou-sama.json) |
+| Soreike! Anpanman: Fushigi na Niko-niko Album | 282641 | [282641-soreike-anpanman-fushigi-na-niko-niko-album.json](./282641-soreike-anpanman-fushigi-na-niko-niko-album.json) |
 | Soreike! Anpanman: Karada no Naka no Daibouken | 230278 | [230278-soreike-anpanman-karada-no-naka-no-daibouken.json](./230278-soreike-anpanman-karada-no-naka-no-daibouken.json) |
 | Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
@@ -7664,6 +7669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Sprint | 38903 | [38903-space-sprint.json](./38903-space-sprint.json) |
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
 | Space Station Alpha | 35964 | [35964-space-station-alpha.json](./35964-space-station-alpha.json) |
+| Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
 | Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
@@ -8442,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spish | 169421 | [169421-spish.json](./169421-spish.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
+| Spitfire | 282629 | [282629-spitfire.json](./282629-spitfire.json) |
 | Spitfire | 85829 | [85829-spitfire.json](./85829-spitfire.json) |
 | Spitfire Heroes: Tales of the Royal Air Force | 124055 | [124055-spitfire-heroes-tales-of-the-royal-air-force.json](./124055-spitfire-heroes-tales-of-the-royal-air-force.json) |
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
@@ -12384,6 +12391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mayhem 17 | 269128 | [269128-super-mayhem-17.json](./269128-super-mayhem-17.json) |
 | Super Maze | 62409 | [62409-super-maze.json](./62409-super-maze.json) |
 | Super Maze Wars | 66647 | [66647-super-maze-wars.json](./66647-super-maze-wars.json) |
+| Super Me-Mail GB: Me-Mail Bear no Happy Mail Town | 282662 | [282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json](./282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json) |
 | Super Meat Boy Handheld! | 77317 | [77317-super-meat-boy-handheld.json](./77317-super-meat-boy-handheld.json) |
 | Super Meat Boy: The Game | 77316 | [77316-super-meat-boy-the-game.json](./77316-super-meat-boy-the-game.json) |
 | Super Meat Boy: Ultra Edition | 20620 | [20620-super-meat-boy-ultra-edition.json](./20620-super-meat-boy-ultra-edition.json) |
@@ -12552,6 +12560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
 | Super Real AI | 399844 | [399844-super-real-ai.json](./399844-super-real-ai.json) |
+| Super Real Fishing | 282663 | [282663-super-real-fishing.json](./282663-super-real-fishing.json) |
 | Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
 | Super Real Mahjong Love 2~7! | 127798 | [127798-super-real-mahjong-love-2-7.json](./127798-super-real-mahjong-love-2-7.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
@@ -13386,6 +13395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
 | Sweet Adventure | 392916 | [392916-sweet-adventure.json](./392916-sweet-adventure.json) |
 | Sweet and Cute | 169381 | [169381-sweet-and-cute.json](./169381-sweet-and-cute.json) |
+| Sweet Ange | 282666 | [282666-sweet-ange.json](./282666-sweet-ange.json) |
 | Sweet Animal Girls | 339471 | [339471-sweet-animal-girls.json](./339471-sweet-animal-girls.json) |
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
 | Sweet Baby Girl Cleanup 5 | 102617 | [102617-sweet-baby-girl-cleanup-5.json](./102617-sweet-baby-girl-cleanup-5.json) |
