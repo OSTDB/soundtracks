@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your Youth | 250453 | [250453-in-your-youth.json](./250453-in-your-youth.json) |
 | In-Flight Pac-Man | 205614 | [205614-in-flight-pac-man.json](./205614-in-flight-pac-man.json) |
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
+| Inamorata | 299865 | [299865-inamorata.json](./299865-inamorata.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
 | Inauthentic Hummus | 348353 | [348353-inauthentic-hummus.json](./348353-inauthentic-hummus.json) |
 | Inayah: Life after Gods | 317838 | [317838-inayah-life-after-gods.json](./317838-inayah-life-after-gods.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
 | Inselnova | 405707 | [405707-inselnova.json](./405707-inselnova.json) |
 | Insensato | 215196 | [215196-insensato.json](./215196-insensato.json) |
+| Insert Coin | 300763 | [300763-insert-coin.json](./300763-insert-coin.json) |
 | Insert Coin | 401482 | [401482-insert-coin.json](./401482-insert-coin.json) |
 | Insert Item Apocalypse | 304577 | [304577-insert-item-apocalypse.json](./304577-insert-item-apocalypse.json) |
 | Insert Paper | 52052 | [52052-insert-paper.json](./52052-insert-paper.json) |
