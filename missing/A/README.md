@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
 | Ace Attorney: The Dark Age of Love | 305190 | [305190-ace-attorney-the-dark-age-of-love.json](./305190-ace-attorney-the-dark-age-of-love.json) |
+| Ace Attorney: The Incomplete Story | 309972 | [309972-ace-attorney-the-incomplete-story.json](./309972-ace-attorney-the-incomplete-story.json) |
 | Ace Attorney: Ultimate Justice | 304031 | [304031-ace-attorney-ultimate-justice.json](./304031-ace-attorney-ultimate-justice.json) |
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
 | Ace Combat 04: Shattered Skies | 9763 | [9763-ace-combat-04-shattered-skies.json](./9763-ace-combat-04-shattered-skies.json) |
@@ -3033,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel's Lullaby | 330360 | [330360-angels-lullaby.json](./330360-angels-lullaby.json) |
 | Angel's Present: A Marl Kingdom Story | 76591 | [76591-angels-present-a-marl-kingdom-story.json](./76591-angels-present-a-marl-kingdom-story.json) |
 | Angel's Return | 401524 | [401524-angels-return.json](./401524-angels-return.json) |
+| Angela Light: Ace Attorney | 309996 | [309996-angela-light-ace-attorney.json](./309996-angela-light-ace-attorney.json) |
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
@@ -3147,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anika's Odyssey: Land of the Taniwha | 316761 | [316761-anikas-odyssey-land-of-the-taniwha.json](./316761-anikas-odyssey-land-of-the-taniwha.json) |
 | Anima | 193433 | [193433-anima.json](./193433-anima.json) |
 | Anima | 337817 | [337817-anima.json](./337817-anima.json) |
+| Anima De Machina | 309975 | [309975-anima-de-machina.json](./309975-anima-de-machina.json) |
 | Anima Fighters | 332422 | [332422-anima-fighters.json](./332422-anima-fighters.json) |
 | Anima Flux | 249480 | [249480-anima-flux.json](./249480-anima-flux.json) |
 | Anima of Quantmix | 200731 | [200731-anima-of-quantmix.json](./200731-anima-of-quantmix.json) |
