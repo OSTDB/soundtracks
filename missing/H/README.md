@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka de: Hachiyoushou | 137003 | [137003-harukanaru-toki-no-naka-de-hachiyoushou.json](./137003-harukanaru-toki-no-naka-de-hachiyoushou.json) |
 | Harukanaru Toki no Naka de: Yume no Ukihashi | 70661 | [70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json](./70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json) |
 | Harukaze Sentai V-Force | 108837 | [108837-harukaze-sentai-v-force.json](./108837-harukaze-sentai-v-force.json) |
+| Harukuru: Spring has Come True? | 332633 | [332633-harukuru-spring-has-come-true.json](./332633-harukuru-spring-has-come-true.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
 | Harvest | 99400 | [99400-harvest.json](./99400-harvest.json) |
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
@@ -1937,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: The Red Act In Lockdown | 389604 | [389604-hentai-tales-the-red-act-in-lockdown.json](./389604-hentai-tales-the-red-act-in-lockdown.json) |
 | Hentai Tales: The World Only Maid | 295401 | [295401-hentai-tales-the-world-only-maid.json](./295401-hentai-tales-the-world-only-maid.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
+| Hentai Tales: Uninhabited Island | 332613 | [332613-hentai-tales-uninhabited-island.json](./332613-hentai-tales-uninhabited-island.json) |
 | Hentai Tights | 377283 | [377283-hentai-tights.json](./377283-hentai-tights.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
 | Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
@@ -2924,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Pachinko Boy CR Monster House | 281567 | [281567-hissatsu-pachinko-boy-cr-monster-house.json](./281567-hissatsu-pachinko-boy-cr-monster-house.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
 | Hissatsu Shaolin-ji | 385747 | [385747-hissatsu-shaolin-ji.json](./385747-hissatsu-shaolin-ji.json) |
+| Hissatsu Ura-Kagyou | 332643 | [332643-hissatsu-ura-kagyou.json](./332643-hissatsu-ura-kagyou.json) |
 | Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu | 60509 | [60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json](./60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 3: CR Marilyn Monroe | 61580 | [61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json](./61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 4: CR Ashita ga Arusa, Yoshimoto World | 61579 | [61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json](./61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json) |
