@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Jewel Town | 279607 | [279607-hello-kitty-jewel-town.json](./279607-hello-kitty-jewel-town.json) |
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
 | Hello Kitty Lunchbox | 225660 | [225660-hello-kitty-lunchbox.json](./225660-hello-kitty-lunchbox.json) |
+| Hello Kitty Mahjong | 292106 | [292106-hello-kitty-mahjong.json](./292106-hello-kitty-mahjong.json) |
 | Hello Kitty no 'Otonaru' Mail | 279598 | [279598-hello-kitty-no-otonaru-mail.json](./279598-hello-kitty-no-otonaru-mail.json) |
 | Hello Kitty no Beads Koubou | 228559 | [228559-hello-kitty-no-beads-koubou.json](./228559-hello-kitty-no-beads-koubou.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
@@ -3339,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
 | Holo Dungeon | 180144 | [180144-holo-dungeon.json](./180144-holo-dungeon.json) |
 | Holo EN Rhythm Game | 179623 | [179623-holo-en-rhythm-game.json](./179623-holo-en-rhythm-game.json) |
+| Holo X Break | 292089 | [292089-holo-x-break.json](./292089-holo-x-break.json) |
 | Holo-Graham | 30189 | [30189-holo-graham.json](./30189-holo-graham.json) |
 | Holo8 | 331327 | [331327-holo8.json](./331327-holo8.json) |
 | HoloBall | 18983 | [18983-holoball.json](./18983-holoball.json) |
@@ -3760,6 +3762,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
 | Horizons Scavenger | 390272 | [390272-horizons-scavenger.json](./390272-horizons-scavenger.json) |
 | Horizons: The End Of Words | 314473 | [314473-horizons-the-end-of-words.json](./314473-horizons-the-end-of-words.json) |
+| Horizontal | 292060 | [292060-horizontal.json](./292060-horizontal.json) |
+| Horké Léto 2 | 292086 | [292086-horke-leto-2.json](./292086-horke-leto-2.json) |
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
 | Hormiga Escape 2 | 315256 | [315256-hormiga-escape-2.json](./315256-hormiga-escape-2.json) |
 | Hormones of the Dead | 405601 | [405601-hormones-of-the-dead.json](./405601-hormones-of-the-dead.json) |
