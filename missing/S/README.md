@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Radiation: Ready | 304860 | [304860-sea-of-radiation-ready.json](./304860-sea-of-radiation-ready.json) |
 | Sea of Secrets | 357806 | [357806-sea-of-secrets.json](./357806-sea-of-secrets.json) |
 | Sea of Stars: Dawn of Equinox | 318389 | [318389-sea-of-stars-dawn-of-equinox.json](./318389-sea-of-stars-dawn-of-equinox.json) |
+| Sea of Stars: Early Backer Limited Edition | 283826 | [283826-sea-of-stars-early-backer-limited-edition.json](./283826-sea-of-stars-early-backer-limited-edition.json) |
 | Sea of Stars: Throes of the Watchmaker | 314929 | [314929-sea-of-stars-throes-of-the-watchmaker.json](./314929-sea-of-stars-throes-of-the-watchmaker.json) |
 | Sea of Thieves: 2024 Deluxe Bundle | 298029 | [298029-sea-of-thieves-2024-deluxe-bundle.json](./298029-sea-of-thieves-2024-deluxe-bundle.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
@@ -3151,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
 | Shikkoku no Sharnoth: What a beautiful tomorrow | 186285 | [186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json](./186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json) |
 | Shil | 400483 | [400483-shil.json](./400483-shil.json) |
+| Shimai no Omoide | 283824 | [283824-shimai-no-omoide.json](./283824-shimai-no-omoide.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
@@ -5850,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Memoria: Wasureenu Omoi | 77675 | [77675-snow-memoria-wasureenu-omoi.json](./77675-snow-memoria-wasureenu-omoi.json) |
 | Snow Moon Flower | 235748 | [235748-snow-moon-flower.json](./235748-snow-moon-flower.json) |
 | Snow Moto Racing | 63837 | [63837-snow-moto-racing.json](./63837-snow-moto-racing.json) |
+| Snow Moto: Racing Adventure | 283810 | [283810-snow-moto-racing-adventure.json](./283810-snow-moto-racing-adventure.json) |
 | Snow Pinball: Santa's Christmas Factory! | 104476 | [104476-snow-pinball-santas-christmas-factory.json](./104476-snow-pinball-santas-christmas-factory.json) |
 | Snow Plow | 192872 | [192872-snow-plow.json](./192872-snow-plow.json) |
 | Snow Plow Train Simulator 3D - Russia | 87104 | [87104-snow-plow-train-simulator-3d-russia.json](./87104-snow-plow-train-simulator-3d-russia.json) |
@@ -7569,6 +7572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
 | Space Moguls | 124600 | [124600-space-moguls.json](./124600-space-moguls.json) |
 | Space Monster | 72971 | [72971-space-monster.json](./72971-space-monster.json) |
+| Space Mutants | 283803 | [283803-space-mutants.json](./283803-space-mutants.json) |
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
