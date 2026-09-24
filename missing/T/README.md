@@ -2962,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creature | 120783 | [120783-the-creature.json](./120783-the-creature.json) |
 | The Creature Mafia | 415162 | [415162-the-creature-mafia.json](./415162-the-creature-mafia.json) |
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
+| The Creature Zone VR: Welcome To Dystopia | 286069 | [286069-the-creature-zone-vr-welcome-to-dystopia.json](./286069-the-creature-zone-vr-welcome-to-dystopia.json) |
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
 | The Crew | 2137 | [2137-the-crew.json](./2137-the-crew.json) |
 | The Crew 2: Steelbook Gold Edition | 122358 | [122358-the-crew-2-steelbook-gold-edition.json](./122358-the-crew-2-steelbook-gold-edition.json) |
@@ -3872,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glass Staircase | 116968 | [116968-the-glass-staircase.json](./116968-the-glass-staircase.json) |
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
 | The Gleam: VR Escape the Room | 31310 | [31310-the-gleam-vr-escape-the-room.json](./31310-the-gleam-vr-escape-the-room.json) |
+| The Glitch Prison | 286038 | [286038-the-glitch-prison.json](./286038-the-glitch-prison.json) |
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
 | The Goalkeeper | 70946 | [70946-the-goalkeeper.json](./70946-the-goalkeeper.json) |
 | The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
@@ -4963,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lion's Song: Episode 4 - Closure | 168344 | [168344-the-lions-song-episode-4-closure.json](./168344-the-lions-song-episode-4-closure.json) |
 | The Lions Knight | 242556 | [242556-the-lions-knight.json](./242556-the-lions-knight.json) |
 | The Lisa Joyful in Hopeful Christmas Special | 360020 | [360020-the-lisa-joyful-in-hopeful-christmas-special.json](./360020-the-lisa-joyful-in-hopeful-christmas-special.json) |
+| The Lithium Moon Incident | 286060 | [286060-the-lithium-moon-incident.json](./286060-the-lithium-moon-incident.json) |
 | The Little Acre | 25680 | [25680-the-little-acre.json](./25680-the-little-acre.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
@@ -6005,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Romantic Blue | 232551 | [232551-the-romantic-blue.json](./232551-the-romantic-blue.json) |
 | The Roof | 23418 | [23418-the-roof.json](./23418-the-roof.json) |
 | The Rookery | 312744 | [312744-the-rookery.json](./312744-the-rookery.json) |
+| The Rookery Way | 286047 | [286047-the-rookery-way.json](./286047-the-rookery-way.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
 | The Room 4: Old Sins | 27725 | [27725-the-room-4-old-sins.json](./27725-the-room-4-old-sins.json) |
 | The Room Collection | 351251 | [351251-the-room-collection.json](./351251-the-room-collection.json) |
@@ -7401,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worlds Best Board Games | 51208 | [51208-the-worlds-best-board-games.json](./51208-the-worlds-best-board-games.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
+| The Wrath of the Goose King | 286051 | [286051-the-wrath-of-the-goose-king.json](./286051-the-wrath-of-the-goose-king.json) |
 | The Wreck That Should Not Be | 403016 | [403016-the-wreck-that-should-not-be.json](./403016-the-wreck-that-should-not-be.json) |
 | The Wrestling Game | 368474 | [368474-the-wrestling-game.json](./368474-the-wrestling-game.json) |
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
@@ -8687,6 +8692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilligence | 185022 | [185022-tilligence.json](./185022-tilligence.json) |
 | Tilt | 286132 | [286132-tilt.json](./286132-tilt.json) |
 | Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
+| Tilt Frog | 286055 | [286055-tilt-frog.json](./286055-tilt-frog.json) |
 | Tilt of Fury | 56763 | [56763-tilt-of-fury.json](./56763-tilt-of-fury.json) |
 | Tilt to Live 2: Redonkulous | 194413 | [194413-tilt-to-live-2-redonkulous.json](./194413-tilt-to-live-2-redonkulous.json) |
 | Tilted Mind | 36484 | [36484-tilted-mind.json](./36484-tilted-mind.json) |
@@ -11797,6 +11803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Deadly Discs | 5710 | [5710-tron-deadly-discs.json](./5710-tron-deadly-discs.json) |
 | Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
+| Trophies | 286064 | [286064-trophies.json](./286064-trophies.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
 | Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
 | Trophy Truck Racing Tour | 369650 | [369650-trophy-truck-racing-tour.json](./369650-trophy-truck-racing-tour.json) |
@@ -12393,6 +12400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinGrip | 373730 | [373730-twingrip.json](./373730-twingrip.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
+| Twinkle Nights | 286037 | [286037-twinkle-nights.json](./286037-twinkle-nights.json) |
 | Twinkle Star Sprites | 35378 | [35378-twinkle-star-sprites.json](./35378-twinkle-star-sprites.json) |
 | Twinkle Stardust's Catnap Chaos | 384192 | [384192-twinkle-stardusts-catnap-chaos.json](./384192-twinkle-stardusts-catnap-chaos.json) |
 | Twinkle Tale | 46179 | [46179-twinkle-tale.json](./46179-twinkle-tale.json) |
