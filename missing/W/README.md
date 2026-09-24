@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall-E | 279597 | [279597-wall-e.json](./279597-wall-e.json) |
 | WALL-E | 320385 | [320385-wall-e.json](./320385-wall-e.json) |
 | WALL-E | 350049 | [350049-wall-e.json](./350049-wall-e.json) |
+| Wall-E: The Video Game - Slider | 325574 | [325574-wall-e-the-video-game-slider.json](./325574-wall-e-the-video-game-slider.json) |
 | Wall$treet | 78664 | [78664-wall-treet.json](./78664-wall-treet.json) |
 | Wallace & Gromit Adventures | 320995 | [320995-wallace-and-gromit-adventures.json](./320995-wallace-and-gromit-adventures.json) |
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Fortuna | 111285 | [111285-warframe-fortuna.json](./111285-warframe-fortuna.json) |
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
 | Warframe: Initiate Power Pack | 374143 | [374143-warframe-initiate-power-pack.json](./374143-warframe-initiate-power-pack.json) |
+| Warframe: Nyx Warframe | 325577 | [325577-warframe-nyx-warframe.json](./325577-warframe-nyx-warframe.json) |
 | Warframe: Shadows of the Dead | 200659 | [200659-warframe-shadows-of-the-dead.json](./200659-warframe-shadows-of-the-dead.json) |
 | Warframe: Starter Weapon Pack | 353309 | [353309-warframe-starter-weapon-pack.json](./353309-warframe-starter-weapon-pack.json) |
 | Warframe: The Jovian Concord | 198496 | [198496-warframe-the-jovian-concord.json](./198496-warframe-the-jovian-concord.json) |
@@ -1403,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
 | What's the Difference? Spot It | 90182 | [90182-whats-the-difference-spot-it.json](./90182-whats-the-difference-spot-it.json) |
+| What's the Dog Doing? | 325553 | [325553-whats-the-dog-doing.json](./325553-whats-the-dog-doing.json) |
 | What's the Matter? | 164337 | [164337-whats-the-matter.json](./164337-whats-the-matter.json) |
 | What's the Point? | 312200 | [312200-whats-the-point.json](./312200-whats-the-point.json) |
 | What's the Time Mr.Fox | 200140 | [200140-whats-the-time-mr-fox.json](./200140-whats-the-time-mr-fox.json) |
