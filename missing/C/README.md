@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
 | Caravan | 19290 | [19290-caravan.json](./19290-caravan.json) |
 | Caravan Boomer | 266911 | [266911-caravan-boomer.json](./266911-caravan-boomer.json) |
+| Caravan Racers | 323854 | [323854-caravan-racers.json](./323854-caravan-racers.json) |
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
 | Caravan Village: Farming Life | 389590 | [389590-caravan-village-farming-life.json](./389590-caravan-village-farming-life.json) |
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
@@ -1249,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles: The Northern Campaign | 11269 | [11269-castles-the-northern-campaign.json](./11269-castles-the-northern-campaign.json) |
 | Castlevania | 1130 | [1130-castlevania.json](./1130-castlevania.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
+| Castlevania 2 Remake | 323883 | [323883-castlevania-2-remake.json](./323883-castlevania-2-remake.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
@@ -2647,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
+| Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
 | Chip-Boi | 177954 | [177954-chip-boi.json](./177954-chip-boi.json) |
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
 | Chip's Challenge | 282555 | [282555-chips-challenge.json](./282555-chips-challenge.json) |
