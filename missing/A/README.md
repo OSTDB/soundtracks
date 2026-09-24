@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Quest | 135904 | [135904-alchemy-quest.json](./135904-alchemy-quest.json) |
 | Alchemy Story | 116544 | [116544-alchemy-story.json](./116544-alchemy-story.json) |
 | Alchemy Unbound | 293084 | [293084-alchemy-unbound.json](./293084-alchemy-unbound.json) |
+| Alchemy: Origins - Food I | 316218 | [316218-alchemy-origins-food-i.json](./316218-alchemy-origins-food-i.json) |
 | Alchemyland | 51562 | [51562-alchemyland.json](./51562-alchemyland.json) |
 | Alchemystic | 386439 | [386439-alchemystic.json](./386439-alchemystic.json) |
 | AlchePot | 283884 | [283884-alchepot.json](./283884-alchepot.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ali Baba | 76196 | [76196-ali-baba.json](./76196-ali-baba.json) |
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
 | Alian | 288751 | [288751-alian.json](./288751-alian.json) |
+| Alian Planet | 316188 | [316188-alian-planet.json](./316188-alian-planet.json) |
 | Alianator | 76197 | [76197-alianator.json](./76197-alianator.json) |
 | Alias | 5719 | [5719-alias.json](./5719-alias.json) |
 | Alias Underground Episode 1: SD-6 Agent Training | 367409 | [367409-alias-underground-episode-1-sd-6-agent-training.json](./367409-alias-underground-episode-1-sd-6-agent-training.json) |
