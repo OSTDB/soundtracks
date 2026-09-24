@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petite Zombies | 110981 | [110981-petite-zombies.json](./110981-petite-zombies.json) |
 | Petka 4: Den' Nezavisimosti | 52758 | [52758-petka-4-den-nezavisimosti.json](./52758-petka-4-den-nezavisimosti.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
+| Petrichor | 333175 | [333175-petrichor.json](./333175-petrichor.json) |
 | Petrichor | 60540 | [60540-petrichor.json](./60540-petrichor.json) |
 | Petrick | 370306 | [370306-petrick.json](./370306-petrick.json) |
 | Petricor | 413905 | [413905-petricor.json](./413905-petricor.json) |
@@ -4646,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Permit: Halloween Bundle | 272286 | [272286-potion-permit-halloween-bundle.json](./272286-potion-permit-halloween-bundle.json) |
 | Potion Permit: Rudolph Plush | 371313 | [371313-potion-permit-rudolph-plush.json](./371313-potion-permit-rudolph-plush.json) |
 | Potion Permit: Snowman Plush Toy | 371314 | [371314-potion-permit-snowman-plush-toy.json](./371314-potion-permit-snowman-plush-toy.json) |
+| Potion Pleasing | 333177 | [333177-potion-pleasing.json](./333177-potion-pleasing.json) |
 | Potion Pony | 391161 | [391161-potion-pony.json](./391161-potion-pony.json) |
 | Potion Problems | 343256 | [343256-potion-problems.json](./343256-potion-problems.json) |
 | Potion Prodigy | 175939 | [175939-potion-prodigy.json](./175939-potion-prodigy.json) |
@@ -6178,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Seed | 349954 | [349954-puppet-seed.json](./349954-puppet-seed.json) |
 | Puppet Tale | 242814 | [242814-puppet-tale.json](./242814-puppet-tale.json) |
 | Puppet Team | 332982 | [332982-puppet-team.json](./332982-puppet-team.json) |
+| Puppet War | 333153 | [333153-puppet-war.json](./333153-puppet-war.json) |
 | Puppet: Hide And Seek | 302934 | [302934-puppet-hide-and-seek.json](./302934-puppet-hide-and-seek.json) |
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
