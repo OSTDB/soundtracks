@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IHugU | 68611 | [68611-ihugu.json](./68611-ihugu.json) |
 | II-III-V | 180808 | [180808-ii-iii-v.json](./180808-ii-iii-v.json) |
 | Iii | 117539 | [117539-iii.json](./117539-iii.json) |
+| Iii Demake | 284405 | [284405-iii-demake.json](./284405-iii-demake.json) |
 | III Spy | 71453 | [71453-iii-spy.json](./71453-iii-spy.json) |
 | iii: Revolving Wonderland | 151701 | [151701-iii-revolving-wonderland.json](./151701-iii-revolving-wonderland.json) |
 | IIslands of War | 126162 | [126162-iislands-of-war.json](./126162-iislands-of-war.json) |
@@ -2492,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isorropia | 133451 | [133451-isorropia.json](./133451-isorropia.json) |
 | Isotiles | 43510 | [43510-isotiles.json](./43510-isotiles.json) |
 | Isotiles 2 | 118983 | [118983-isotiles-2.json](./118983-isotiles-2.json) |
+| Isotopia | 284423 | [284423-isotopia.json](./284423-isotopia.json) |
 | IsoWords | 254170 | [254170-isowords.json](./254170-isowords.json) |
 | iSpot Japan | 85197 | [85197-ispot-japan.json](./85197-ispot-japan.json) |
 | Israel vs. Iran: Iron Dome | 377080 | [377080-israel-vs-iran-iron-dome.json](./377080-israel-vs-iran-iron-dome.json) |
