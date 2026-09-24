@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
 | Loopdrop | 364696 | [364696-loopdrop.json](./364696-loopdrop.json) |
 | Looper | 292133 | [292133-looper.json](./292133-looper.json) |
+| Looper | 323827 | [323827-looper.json](./323827-looper.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
 | LooperLands | 291984 | [291984-looperlands.json](./291984-looperlands.json) |
 | Loopers | 140632 | [140632-loopers.json](./140632-loopers.json) |
@@ -2905,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
 | Los Reinos de Aethermoor | 396577 | [396577-los-reinos-de-aethermoor.json](./396577-los-reinos-de-aethermoor.json) |
+| Los Secretos de Altura | 323849 | [323849-los-secretos-de-altura.json](./323849-los-secretos-de-altura.json) |
 | Lose Control | 178632 | [178632-lose-control.json](./178632-lose-control.json) |
 | Lose Grace Tale | 358478 | [358478-lose-grace-tale.json](./358478-lose-grace-tale.json) |
 | Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
@@ -3384,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luc Bernard's Reaper | 93601 | [93601-luc-bernards-reaper.json](./93601-luc-bernards-reaper.json) |
 | Luca: The Dreamer | 105766 | [105766-luca-the-dreamer.json](./105766-luca-the-dreamer.json) |
 | Lucah: Born of a Dream | 99120 | [99120-lucah-born-of-a-dream.json](./99120-lucah-born-of-a-dream.json) |
+| Lucas Mendoza: Amateur Detective | 323880 | [323880-lucas-mendoza-amateur-detective.json](./323880-lucas-mendoza-amateur-detective.json) |
 | Lucas y el Caso del Cuadro Robado | 323933 | [323933-lucas-y-el-caso-del-cuadro-robado.json](./323933-lucas-y-el-caso-del-cuadro-robado.json) |
 | Lucas's Problem | 72095 | [72095-lucass-problem.json](./72095-lucass-problem.json) |
 | LucasArts Adventure Pack | 27848 | [27848-lucasarts-adventure-pack.json](./27848-lucasarts-adventure-pack.json) |
