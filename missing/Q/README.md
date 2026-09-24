@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizMania | 320156 | [320156-quizmania.json](./320156-quizmania.json) |
 | QuizMi | 318989 | [318989-quizmi.json](./318989-quizmi.json) |
 | Quiztastic | 342281 | [342281-quiztastic.json](./342281-quiztastic.json) |
+| Quiztopia: The Ultimate Trivia | 312136 | [312136-quiztopia-the-ultimate-trivia.json](./312136-quiztopia-the-ultimate-trivia.json) |
 | QuizTreff | 397785 | [397785-quiztreff.json](./397785-quiztreff.json) |
 | Quizumba | 415282 | [415282-quizumba.json](./415282-quizumba.json) |
 | QuizWitz | 57119 | [57119-quizwitz.json](./57119-quizwitz.json) |
