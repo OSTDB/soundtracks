@@ -289,7 +289,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxian | 277391 | [277391-galaxian.json](./277391-galaxian.json) |
 | Galaxian | 277392 | [277392-galaxian.json](./277392-galaxian.json) |
 | Galaxian3 | 234085 | [234085-galaxian3.json](./234085-galaxian3.json) |
+| Galaxians | 308354 | [308354-galaxians.json](./308354-galaxians.json) |
 | Galaxians & Gloops | 319580 | [319580-galaxians-and-gloops.json](./319580-galaxians-and-gloops.json) |
+| Galaxians: Remastered Edition | 308355 | [308355-galaxians-remastered-edition.json](./308355-galaxians-remastered-edition.json) |
 | Galaxicus | 119022 | [119022-galaxicus.json](./119022-galaxicus.json) |
 | Galaxis Wars | 36517 | [36517-galaxis-wars.json](./36517-galaxis-wars.json) |
 | Galaxity | 113747 | [113747-galaxity.json](./113747-galaxity.json) |
