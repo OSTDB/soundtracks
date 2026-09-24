@@ -2329,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon&Fairy | 75521 | [75521-demon-and-fairy.json](./75521-demon-and-fairy.json) |
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
+| Demoniac TV | 291524 | [291524-demoniac-tv.json](./291524-demoniac-tv.json) |
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
 | Demonic Defence 3 | 380695 | [380695-demonic-defence-3.json](./380695-demonic-defence-3.json) |
@@ -2830,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Revision | 23974 | [23974-deus-ex-revision.json](./23974-deus-ex-revision.json) |
 | Deus Ex: The Conspiracy | 347125 | [347125-deus-ex-the-conspiracy.json](./347125-deus-ex-the-conspiracy.json) |
 | Deus Ex: Transcended | 276277 | [276277-deus-ex-transcended.json](./276277-deus-ex-transcended.json) |
+| Deus Proxy | 291536 | [291536-deus-proxy.json](./291536-deus-proxy.json) |
 | Deus Vult VR | 107634 | [107634-deus-vult-vr.json](./107634-deus-vult-vr.json) |
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
@@ -3673,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
 | Dishonored: Void Walker Arsenal | 14571 | [14571-dishonored-void-walker-arsenal.json](./14571-dishonored-void-walker-arsenal.json) |
 | Dishwasher | 103436 | [103436-dishwasher.json](./103436-dishwasher.json) |
+| Dishwashing Simulator | 291513 | [291513-dishwashing-simulator.json](./291513-dishwashing-simulator.json) |
 | Disillusion | 148887 | [148887-disillusion.json](./148887-disillusion.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disillusioned Reunion | 393607 | [393607-disillusioned-reunion.json](./393607-disillusioned-reunion.json) |
@@ -4140,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
 | Dodge the Creeps | 344390 | [344390-dodge-the-creeps.json](./344390-dodge-the-creeps.json) |
 | Dodge These Asteroids | 353961 | [353961-dodge-these-asteroids.json](./353961-dodge-these-asteroids.json) |
+| Dodge This | 291512 | [291512-dodge-this.json](./291512-dodge-this.json) |
 | Dodge This VR | 282132 | [282132-dodge-this-vr.json](./282132-dodge-this-vr.json) |
 | DodgeBall Blitz | 31842 | [31842-dodgeball-blitz.json](./31842-dodgeball-blitz.json) |
 | Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
@@ -5281,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Budokai 3 HD | 288870 | [288870-dragon-ball-z-budokai-3-hd.json](./288870-dragon-ball-z-budokai-3-hd.json) |
 | Dragon Ball Z: Budokai Tenkaichi | 2253 | [2253-dragon-ball-z-budokai-tenkaichi.json](./2253-dragon-ball-z-budokai-tenkaichi.json) |
 | Dragon Ball Z: Budokai Tenkaichi 2 | 2252 | [2252-dragon-ball-z-budokai-tenkaichi-2.json](./2252-dragon-ball-z-budokai-tenkaichi-2.json) |
+| Dragon Ball Z: Budokai Tenkaichi 2 | 291555 | [291555-dragon-ball-z-budokai-tenkaichi-2.json](./291555-dragon-ball-z-budokai-tenkaichi-2.json) |
 | Dragon Ball Z: Buu's Fury | 19835 | [19835-dragon-ball-z-buus-fury.json](./19835-dragon-ball-z-buus-fury.json) |
 | Dragon Ball Z: Buu's Fury / Dragon Ball GT: Transformation | 79299 | [79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json](./79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json) |
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
