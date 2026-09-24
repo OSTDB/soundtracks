@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agent Files: Miami | 84858 | [84858-secret-agent-files-miami.json](./84858-secret-agent-files-miami.json) |
 | Secret Agent Puzzle | 331662 | [331662-secret-agent-puzzle.json](./331662-secret-agent-puzzle.json) |
 | Secret Agent Spy Game: Hotel Assassination Mission | 196334 | [196334-secret-agent-spy-game-hotel-assassination-mission.json](./196334-secret-agent-spy-game-hotel-assassination-mission.json) |
+| Secret Agent Wizard Boy and the International Crime Syndicate | 319719 | [319719-secret-agent-wizard-boy-and-the-international-crime-syndicate.json](./319719-secret-agent-wizard-boy-and-the-international-crime-syndicate.json) |
 | Secret Agent: Cold War Espionage | 243396 | [243396-secret-agent-cold-war-espionage.json](./243396-secret-agent-cold-war-espionage.json) |
 | Secret Agents | 179197 | [179197-secret-agents.json](./179197-secret-agents.json) |
 | Secret Archives | 294476 | [294476-secret-archives.json](./294476-secret-archives.json) |
@@ -2419,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Among Nove | 297218 | [297218-shadow-among-nove.json](./297218-shadow-among-nove.json) |
 | Shadow and Bone: Enter the Fold | 204448 | [204448-shadow-and-bone-enter-the-fold.json](./204448-shadow-and-bone-enter-the-fold.json) |
 | Shadow and Darkness | 301286 | [301286-shadow-and-darkness.json](./301286-shadow-and-darkness.json) |
+| Shadow and Flame | 319741 | [319741-shadow-and-flame.json](./319741-shadow-and-flame.json) |
 | Shadow Arena | 125357 | [125357-shadow-arena.json](./125357-shadow-arena.json) |
 | Shadow Basketball | 145576 | [145576-shadow-basketball.json](./145576-shadow-basketball.json) |
 | Shadow Blade | 20932 | [20932-shadow-blade.json](./20932-shadow-blade.json) |
@@ -3046,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift Em Mania | 27906 | [27906-shift-em-mania.json](./27906-shift-em-mania.json) |
 | Shift Extended | 44531 | [44531-shift-extended.json](./44531-shift-extended.json) |
 | Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
+| Shift'n Slay | 319738 | [319738-shiftn-slay.json](./319738-shiftn-slay.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shifted VR | 137439 | [137439-shifted-vr.json](./137439-shifted-vr.json) |
 | Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
@@ -4805,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slasher | 251048 | [251048-slasher.json](./251048-slasher.json) |
 | Slasher | 352843 | [352843-slasher.json](./352843-slasher.json) |
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
+| Slasher: Origins | 319761 | [319761-slasher-origins.json](./319761-slasher-origins.json) |
 | Slashing Night | 340365 | [340365-slashing-night.json](./340365-slashing-night.json) |
 | Slashing Samurai | 181779 | [181779-slashing-samurai.json](./181779-slashing-samurai.json) |
 | Slashvival | 115001 | [115001-slashvival.json](./115001-slashvival.json) |
@@ -6002,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Cage | 189038 | [189038-solar-cage.json](./189038-solar-cage.json) |
 | Solar Candy | 180849 | [180849-solar-candy.json](./180849-solar-candy.json) |
 | Solar Collector | 75034 | [75034-solar-collector.json](./75034-solar-collector.json) |
+| Solar Collision Control | 319725 | [319725-solar-collision-control.json](./319725-solar-collision-control.json) |
 | Solar Colonies | 191810 | [191810-solar-colonies.json](./191810-solar-colonies.json) |
 | Solar Conqueror | 170532 | [170532-solar-conqueror.json](./170532-solar-conqueror.json) |
 | Solar Core | 68683 | [68683-solar-core.json](./68683-solar-core.json) |
@@ -8165,6 +8170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Valor | 319702 | [319702-spirit-valor.json](./319702-spirit-valor.json) |
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
 | Spirit Whisperer Conversation With Akari | 363409 | [363409-spirit-whisperer-conversation-with-akari.json](./363409-spirit-whisperer-conversation-with-akari.json) |
+| Spirit X Strike | 319729 | [319729-spirit-x-strike.json](./319729-spirit-x-strike.json) |
 | Spirit-Capture Net | 383359 | [383359-spirit-capture-net.json](./383359-spirit-capture-net.json) |
 | Spirit: Lucky's Big Adventure | 143055 | [143055-spirit-luckys-big-adventure.json](./143055-spirit-luckys-big-adventure.json) |
 | Spirited Heart Deluxe | 17286 | [17286-spirited-heart-deluxe.json](./17286-spirited-heart-deluxe.json) |
