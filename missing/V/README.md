@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyeur Villa: Harem Manager | 296654 | [296654-voyeur-villa-harem-manager.json](./296654-voyeur-villa-harem-manager.json) |
 | Voyna | 224781 | [224781-voyna.json](./224781-voyna.json) |
 | VPet-Simulator | 292021 | [292021-vpet-simulator.json](./292021-vpet-simulator.json) |
+| VPet: Pancake Cat Skin package | 294798 | [294798-vpet-pancake-cat-skin-package.json](./294798-vpet-pancake-cat-skin-package.json) |
 | VPetlings | 395580 | [395580-vpetlings.json](./395580-vpetlings.json) |
 | VPN Simulator | 371306 | [371306-vpn-simulator.json](./371306-vpn-simulator.json) |
 | VR - Talk to her | 104475 | [104475-vr-talk-to-her.json](./104475-vr-talk-to-her.json) |
