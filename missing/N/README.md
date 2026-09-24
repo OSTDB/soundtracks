@@ -2687,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notyet | 57352 | [57352-notyet.json](./57352-notyet.json) |
 | Nou wo Kitaeru! Zekkei Shashin de Machigai-sagashi | 261371 | [261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json](./261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json) |
 | Nouen Hokkoriina | 335107 | [335107-nouen-hokkoriina.json](./335107-nouen-hokkoriina.json) |
+| Noukin Mahoutsukai ha Shingaku Shitai | 282611 | [282611-noukin-mahoutsukai-ha-shingaku-shitai.json](./282611-noukin-mahoutsukai-ha-shingaku-shitai.json) |
 | Noukk | 197757 | [197757-noukk.json](./197757-noukk.json) |
 | Noumisou Journey | 274557 | [274557-noumisou-journey.json](./274557-noumisou-journey.json) |
 | Nour: Play with Your Food | 138619 | [138619-nour-play-with-your-food.json](./138619-nour-play-with-your-food.json) |
@@ -2922,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
 | Nutmeg! | 360208 | [360208-nutmeg.json](./360208-nutmeg.json) |
 | NutritionZ | 374725 | [374725-nutritionz.json](./374725-nutritionz.json) |
+| Nuts | 282631 | [282631-nuts.json](./282631-nuts.json) |
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
