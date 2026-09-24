@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
 | H.I.v.C.A.: Human Intelligence vs Computer Algorithm | 311102 | [311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json](./311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json) |
 | H.O.G.S | 296914 | [296914-h-o-g-s.json](./296914-h-o-g-s.json) |
+| H.O.M.E. | 293170 | [293170-h-o-m-e.json](./293170-h-o-m-e.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
 | H1.Jack | 223562 | [223562-h1-jack.json](./223562-h1-jack.json) |
 | H2O: Footprints in the Sand | 72719 | [72719-h2o-footprints-in-the-sand.json](./72719-h2o-footprints-in-the-sand.json) |
@@ -1353,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
 | Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
+| Heaven Jump | 293184 | [293184-heaven-jump.json](./293184-heaven-jump.json) |
 | Heaven Keepers | 192941 | [192941-heaven-keepers.json](./192941-heaven-keepers.json) |
 | Heaven Knows You | 208395 | [208395-heaven-knows-you.json](./208395-heaven-knows-you.json) |
 | Heaven On Jupiter | 327384 | [327384-heaven-on-jupiter.json](./327384-heaven-on-jupiter.json) |
@@ -2453,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexoCity | 291590 | [291590-hexocity.json](./291590-hexocity.json) |
 | Hexodius | 16517 | [16517-hexodius.json](./16517-hexodius.json) |
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
+| Hexonaut | 293168 | [293168-hexonaut.json](./293168-hexonaut.json) |
 | Hexopods | 75339 | [75339-hexopods.json](./75339-hexopods.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
 | Hexoscope: Collector's Edition | 53214 | [53214-hexoscope-collectors-edition.json](./53214-hexoscope-collectors-edition.json) |
@@ -2914,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hihou Densetsu Chris no Bouken | 55896 | [55896-hihou-densetsu-chris-no-bouken.json](./55896-hihou-densetsu-chris-no-bouken.json) |
 | Hihou-den: Taiyou wo Motomeru Mono-tachi | 249465 | [249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json](./249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json) |
 | Hiiro | 32922 | [32922-hiiro.json](./32922-hiiro.json) |
+| Hiiro no Kakera Tamayori-hime Kitan: Omoi Iro no Kioku for Nintendo Switch | 293147 | [293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json](./293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json) |
 | Hiiro no Kakera: Omoi Iro no Kioku | 136478 | [136478-hiiro-no-kakera-omoi-iro-no-kioku.json](./136478-hiiro-no-kakera-omoi-iro-no-kioku.json) |
 | Hiiro: Collector's Edition | 53211 | [53211-hiiro-collectors-edition.json](./53211-hiiro-collectors-edition.json) |
 | Hiirun | 257112 | [257112-hiirun.json](./257112-hiirun.json) |
@@ -3975,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
 | Hot Wheels Unleashed 2: Mercedes-Benz Pack | 312012 | [312012-hot-wheels-unleashed-2-mercedes-benz-pack.json](./312012-hot-wheels-unleashed-2-mercedes-benz-pack.json) |
 | Hot Wheels Unleashed 2: Old but Gold Pack | 311085 | [311085-hot-wheels-unleashed-2-old-but-gold-pack.json](./311085-hot-wheels-unleashed-2-old-but-gold-pack.json) |
+| Hot Wheels Unleashed 2: Season Pass Vol. 2 | 293137 | [293137-hot-wheels-unleashed-2-season-pass-vol-2.json](./293137-hot-wheels-unleashed-2-season-pass-vol-2.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Day One Edition | 252166 | [252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json](./252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Manga Free Pack | 277831 | [277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json](./277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Pure Fire Edition | 252165 | [252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json](./252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json) |
