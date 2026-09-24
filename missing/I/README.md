@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Scared of My Girlfriend | 247580 | [247580-im-scared-of-my-girlfriend.json](./247580-im-scared-of-my-girlfriend.json) |
 | I'm Still Here | 367039 | [367039-im-still-here.json](./367039-im-still-here.json) |
 | I'm Struggling | 375936 | [375936-im-struggling.json](./375936-im-struggling.json) |
+| I'm Surrounded by Classical Beauties! | 296998 | [296998-im-surrounded-by-classical-beauties.json](./296998-im-surrounded-by-classical-beauties.json) |
 | I'm the dirt-for art | 120948 | [120948-im-the-dirt-for-art.json](./120948-im-the-dirt-for-art.json) |
 | I'm the Policeman | 278704 | [278704-im-the-policeman.json](./278704-im-the-policeman.json) |
 | I'm Titanium | 51497 | [51497-im-titanium.json](./51497-im-titanium.json) |
@@ -688,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
 | Idol Manager | 95215 | [95215-idol-manager.json](./95215-idol-manager.json) |
 | Idol Manager: Virtual Venture | 401008 | [401008-idol-manager-virtual-venture.json](./401008-idol-manager-virtual-venture.json) |
+| Idol Planet | 297013 | [297013-idol-planet.json](./297013-idol-planet.json) |
 | Idol Project | 283713 | [283713-idol-project.json](./283713-idol-project.json) |
 | Idol Project 2 | 283714 | [283714-idol-project-2.json](./283714-idol-project-2.json) |
 | Idol Shooter | 267960 | [267960-idol-shooter.json](./267960-idol-shooter.json) |
