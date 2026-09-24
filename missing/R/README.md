@@ -126,6 +126,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Driver 2006 | 93991 | [93991-race-driver-2006.json](./93991-race-driver-2006.json) |
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
+| Race Drivin' | 307062 | [307062-race-drivin.json](./307062-race-drivin.json) |
+| Race Drivin' | 307063 | [307063-race-drivin.json](./307063-race-drivin.json) |
 | Race For Nuts | 359481 | [359481-race-for-nuts.json](./359481-race-for-nuts.json) |
 | Race for the Galaxy | 44528 | [44528-race-for-the-galaxy.json](./44528-race-for-the-galaxy.json) |
 | Race for the Galaxy: Brink of War | 171486 | [171486-race-for-the-galaxy-brink-of-war.json](./171486-race-for-the-galaxy-brink-of-war.json) |
@@ -753,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapz | 264325 | [264325-rapz.json](./264325-rapz.json) |
 | Rare Collection 1 | 365170 | [365170-rare-collection-1.json](./365170-rare-collection-1.json) |
+| Rarity | 307045 | [307045-rarity.json](./307045-rarity.json) |
 | Rasant | 226455 | [226455-rasant.json](./226455-rasant.json) |
 | Rascal | 94445 | [94445-rascal.json](./94445-rascal.json) |
 | Rascal Revolt | 153444 | [153444-rascal-revolt.json](./153444-rascal-revolt.json) |
@@ -1842,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relevo's Snowboarding | 311986 | [311986-relevos-snowboarding.json](./311986-relevos-snowboarding.json) |
 | Relgiros | 274492 | [274492-relgiros.json](./274492-relgiros.json) |
 | Relic | 338301 | [338301-relic.json](./338301-relic.json) |
+| Relic Abyss | 307089 | [307089-relic-abyss.json](./307089-relic-abyss.json) |
 | Relic Adventure | 188508 | [188508-relic-adventure.json](./188508-relic-adventure.json) |
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
@@ -4694,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
 | Runner | 172059 | [172059-runner.json](./172059-runner.json) |
 | Runner | 84538 | [84538-runner.json](./84538-runner.json) |
+| Runner Bear | 307074 | [307074-runner-bear.json](./307074-runner-bear.json) |
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
