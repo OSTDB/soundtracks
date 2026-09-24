@@ -1982,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game The Empty School | 345693 | [345693-escape-game-the-empty-school.json](./345693-escape-game-the-empty-school.json) |
 | Escape Game: Aloha | 102623 | [102623-escape-game-aloha.json](./102623-escape-game-aloha.json) |
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
+| Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
 | Escape Game:The Kitty The Vacant Lot | 351229 | [351229-escape-game-the-kitty-the-vacant-lot.json](./351229-escape-game-the-kitty-the-vacant-lot.json) |
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
 | Escape If You Can | 377280 | [377280-escape-if-you-can.json](./377280-escape-if-you-can.json) |
