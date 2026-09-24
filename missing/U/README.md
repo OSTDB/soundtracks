@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Kindred Spirits | 231469 | [231469-undertale-kindred-spirits.json](./231469-undertale-kindred-spirits.json) |
 | Undertale: Remembering the Genocides | 335675 | [335675-undertale-remembering-the-genocides.json](./335675-undertale-remembering-the-genocides.json) |
+| Undertale: Thanatos! | 330251 | [330251-undertale-thanatos.json](./330251-undertale-thanatos.json) |
 | Undertale: The Final Run | 223676 | [223676-undertale-the-final-run.json](./223676-undertale-the-final-run.json) |
 | Undertale: True Genocide | 280771 | [280771-undertale-true-genocide.json](./280771-undertale-true-genocide.json) |
 | Undertale: Wildfire | 314045 | [314045-undertale-wildfire.json](./314045-undertale-wildfire.json) |
@@ -894,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | University Days: Season 1 | 303060 | [303060-university-days-season-1.json](./303060-university-days-season-1.json) |
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | Univocity | 339916 | [339916-univocity.json](./339916-univocity.json) |
+| Unizone's Underswap: Distrust Sans | 330365 | [330365-unizones-underswap-distrust-sans.json](./330365-unizones-underswap-distrust-sans.json) |
 | Unkillable Robots | 306342 | [306342-unkillable-robots.json](./306342-unkillable-robots.json) |
 | Unkilled | 28821 | [28821-unkilled.json](./28821-unkilled.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
