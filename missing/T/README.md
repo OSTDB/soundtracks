@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From Galaxy 34 | 113027 | [113027-tales-from-galaxy-34.json](./113027-tales-from-galaxy-34.json) |
 | Tales from Heaven | 69570 | [69570-tales-from-heaven.json](./69570-tales-from-heaven.json) |
 | Tales From Hoia Baciu Forest | 202756 | [202756-tales-from-hoia-baciu-forest.json](./202756-tales-from-hoia-baciu-forest.json) |
+| Tales From The Arcade: Fartmania | 296471 | [296471-tales-from-the-arcade-fartmania.json](./296471-tales-from-the-arcade-fartmania.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales from the Commonwealth | 356619 | [356619-tales-from-the-commonwealth.json](./356619-tales-from-the-commonwealth.json) |
 | Tales from the Crossing: The Captain's Chair | 195126 | [195126-tales-from-the-crossing-the-captains-chair.json](./195126-tales-from-the-crossing-the-captains-chair.json) |
@@ -3189,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon Lord is New in Town! | 159736 | [159736-the-demon-lord-is-new-in-town.json](./159736-the-demon-lord-is-new-in-town.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
+| The Demon's Exorcism | 296472 | [296472-the-demons-exorcism.json](./296472-the-demons-exorcism.json) |
 | The Demon's Forge | 24887 | [24887-the-demons-forge.json](./24887-the-demons-forge.json) |
 | The Demonized | 340389 | [340389-the-demonized.json](./340389-the-demonized.json) |
 | The Demons Down Under | 314893 | [314893-the-demons-down-under.json](./314893-the-demons-down-under.json) |
@@ -3425,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
 | The End of Labyronia: Nerubis | 158695 | [158695-the-end-of-labyronia-nerubis.json](./158695-the-end-of-labyronia-nerubis.json) |
+| The End of Sanity | 296452 | [296452-the-end-of-sanity.json](./296452-the-end-of-sanity.json) |
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
@@ -3476,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evelyn Game | 370315 | [370315-the-evelyn-game.json](./370315-the-evelyn-game.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
+| The Evil Sect | 296473 | [296473-the-evil-sect.json](./296473-the-evil-sect.json) |
 | The Evil Unleashed | 313836 | [313836-the-evil-unleashed.json](./313836-the-evil-unleashed.json) |
 | The Evil Within Bundle | 154961 | [154961-the-evil-within-bundle.json](./154961-the-evil-within-bundle.json) |
 | The Evil Within Double Feature | 146135 | [146135-the-evil-within-double-feature.json](./146135-the-evil-within-double-feature.json) |
@@ -4162,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for the Lost Treasure 2 | 290007 | [290007-the-hunt-for-the-lost-treasure-2.json](./290007-the-hunt-for-the-lost-treasure-2.json) |
 | The Hunted | 215741 | [215741-the-hunted.json](./215741-the-hunted.json) |
 | The Hunted | 28786 | [28786-the-hunted.json](./28786-the-hunted.json) |
+| The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
 | The Hunters Journals; Pale Harbour | 119680 | [119680-the-hunters-journals-pale-harbour.json](./119680-the-hunters-journals-pale-harbour.json) |
 | The Huntsman: Winter's Curse (Book 2) | 164437 | [164437-the-huntsman-winters-curse-book-2.json](./164437-the-huntsman-winters-curse-book-2.json) |
 | The Huntsman: Winter's Curse (Book 3) | 164438 | [164438-the-huntsman-winters-curse-book-3.json](./164438-the-huntsman-winters-curse-book-3.json) |
@@ -4228,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
 | The Indian in the Cupboard | 74044 | [74044-the-indian-in-the-cupboard.json](./74044-the-indian-in-the-cupboard.json) |
+| The Indie Dev | 296474 | [296474-the-indie-dev.json](./296474-the-indie-dev.json) |
 | The Indigo Initiative | 358848 | [358848-the-indigo-initiative.json](./358848-the-indigo-initiative.json) |
 | The Indigo Parallel | 157128 | [157128-the-indigo-parallel.json](./157128-the-indigo-parallel.json) |
 | The Indirect Castle Retreat | 322765 | [322765-the-indirect-castle-retreat.json](./322765-the-indirect-castle-retreat.json) |
@@ -6648,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Telwynium | 179663 | [179663-the-telwynium.json](./179663-the-telwynium.json) |
 | The Telwynium | 404830 | [404830-the-telwynium.json](./404830-the-telwynium.json) |
 | The Temple | 292549 | [292549-the-temple.json](./292549-the-temple.json) |
+| The Temple of Children | 296466 | [296466-the-temple-of-children.json](./296466-the-temple-of-children.json) |
 | The Temple of Elemental Evil | 381153 | [381153-the-temple-of-elemental-evil.json](./381153-the-temple-of-elemental-evil.json) |
 | The Temple of No | 19699 | [19699-the-temple-of-no.json](./19699-the-temple-of-no.json) |
 | The Temple of Torment | 181257 | [181257-the-temple-of-torment.json](./181257-the-temple-of-torment.json) |
@@ -7228,6 +7235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whittled Horse | 309461 | [309461-the-whittled-horse.json](./309461-the-whittled-horse.json) |
 | The Whole World is in Check | 185017 | [185017-the-whole-world-is-in-check.json](./185017-the-whole-world-is-in-check.json) |
 | The Wicked Days | 148907 | [148907-the-wicked-days.json](./148907-the-wicked-days.json) |
+| The Wicked West | 296465 | [296465-the-wicked-west.json](./296465-the-wicked-west.json) |
 | The Wickie | 157131 | [157131-the-wickie.json](./157131-the-wickie.json) |
 | The Widow's Shadow | 271212 | [271212-the-widows-shadow.json](./271212-the-widows-shadow.json) |
 | The Wiggles: Wiggle Bay | 206228 | [206228-the-wiggles-wiggle-bay.json](./206228-the-wiggles-wiggle-bay.json) |
@@ -11448,6 +11456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TRIB3 | 300800 | [300800-trib3.json](./300800-trib3.json) |
 | Tribal Mania | 377799 | [377799-tribal-mania.json](./377799-tribal-mania.json) |
 | Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
+| Tribal Towers: Siege of the Shifting Fortress | 296464 | [296464-tribal-towers-siege-of-the-shifting-fortress.json](./296464-tribal-towers-siege-of-the-shifting-fortress.json) |
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
 | Tribal Wars | 148522 | [148522-tribal-wars.json](./148522-tribal-wars.json) |
 | TriBalls | 400452 | [400452-triballs.json](./400452-triballs.json) |
