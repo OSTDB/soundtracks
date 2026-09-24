@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Lapse | 243221 | [243221-danganronpa-lapse.json](./243221-danganronpa-lapse.json) |
 | Danganronpa: Live or Die | 270679 | [270679-danganronpa-live-or-die.json](./270679-danganronpa-live-or-die.json) |
 | Danganronpa: Salvation's Fears | 338840 | [338840-danganronpa-salvations-fears.json](./338840-danganronpa-salvations-fears.json) |
+| Danger and Deadlier | 336700 | [336700-danger-and-deadlier.json](./336700-danger-and-deadlier.json) |
 | Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
 | Danger City | 279591 | [279591-danger-city.json](./279591-danger-city.json) |
 | Danger Close! | 76658 | [76658-danger-close.json](./76658-danger-close.json) |
@@ -1606,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
 | Death Rally | 665 | [665-death-rally.json](./665-death-rally.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
+| Death Report | 336708 | [336708-death-report.json](./336708-death-report.json) |
 | Death ring | 282006 | [282006-death-ring.json](./282006-death-ring.json) |
 | Death Road to Canada | 21634 | [21634-death-road-to-canada.json](./21634-death-road-to-canada.json) |
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
