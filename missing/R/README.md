@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
 | Ratyboy Adventures | 242657 | [242657-ratyboy-adventures.json](./242657-ratyboy-adventures.json) |
 | Ratz Instagib | 9193 | [9193-ratz-instagib.json](./9193-ratz-instagib.json) |
+| Ravage | 306435 | [306435-ravage.json](./306435-ravage.json) |
 | Ravage Fist | 417716 | [417716-ravage-fist.json](./417716-ravage-fist.json) |
 | Ravage Road | 228458 | [228458-ravage-road.json](./228458-ravage-road.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
