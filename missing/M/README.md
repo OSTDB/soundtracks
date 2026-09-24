@@ -1122,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mannequin House | 171535 | [171535-mannequin-house.json](./171535-mannequin-house.json) |
 | Mannequin House | 290948 | [290948-mannequin-house.json](./290948-mannequin-house.json) |
 | Mannequin Mayhem: Physics Ragdoll Shooter | 286671 | [286671-mannequin-mayhem-physics-ragdoll-shooter.json](./286671-mannequin-mayhem-physics-ragdoll-shooter.json) |
+| Manners Be Damned! | 330900 | [330900-manners-be-damned.json](./330900-manners-be-damned.json) |
 | Manny's | 260528 | [260528-mannys.json](./260528-mannys.json) |
 | Manny's 2 | 329018 | [329018-mannys-2.json](./329018-mannys-2.json) |
 | Manny's Murderous Movie Theater: The Snackbar Simulator | 370718 | [370718-mannys-murderous-movie-theater-the-snackbar-simulator.json](./370718-mannys-murderous-movie-theater-the-snackbar-simulator.json) |
@@ -3084,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon's Sokoban Walk | 386103 | [386103-melons-sokoban-walk.json](./386103-melons-sokoban-walk.json) |
 | Melone in the Dark | 177404 | [177404-melone-in-the-dark.json](./177404-melone-in-the-dark.json) |
 | Melt Abyss | 353902 | [353902-melt-abyss.json](./353902-melt-abyss.json) |
+| Melt Away | 330896 | [330896-melt-away.json](./330896-melt-away.json) |
 | Meltdown | 80511 | [80511-meltdown.json](./80511-meltdown.json) |
 | Meltdown Masters | 415885 | [415885-meltdown-masters.json](./415885-meltdown-masters.json) |
 | Melted Time | 336526 | [336526-melted-time.json](./336526-melted-time.json) |
@@ -5552,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bash | 18059 | [18059-monster-bash.json](./18059-monster-bash.json) |
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
 | Monster Battles | 343864 | [343864-monster-battles.json](./343864-monster-battles.json) |
+| Monster Blast Infinity | 330940 | [330940-monster-blast-infinity.json](./330940-monster-blast-infinity.json) |
 | Monster Block Game | 235236 | [235236-monster-block-game.json](./235236-monster-block-game.json) |
 | Monster Bomber | 20617 | [20617-monster-bomber.json](./20617-monster-bomber.json) |
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
@@ -7321,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Island | 114113 | [114113-my-island.json](./114113-my-island.json) |
 | My Journey | 339105 | [339105-my-journey.json](./339105-my-journey.json) |
 | My Journey to Your World | 170932 | [170932-my-journey-to-your-world.json](./170932-my-journey-to-your-world.json) |
+| My Joyful Aquarium | 330902 | [330902-my-joyful-aquarium.json](./330902-my-joyful-aquarium.json) |
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
