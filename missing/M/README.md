@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
+| Magical Fantasista II | 292071 | [292071-magical-fantasista-ii.json](./292071-magical-fantasista-ii.json) |
 | Magical Girl | 158086 | [158086-magical-girl.json](./158086-magical-girl.json) |
 | Magical Girl Attack | 117473 | [117473-magical-girl-attack.json](./117473-magical-girl-attack.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majorariatto Museum | 177426 | [177426-majorariatto-museum.json](./177426-majorariatto-museum.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
 | Majou Densetsu II: Daimashikyou Galious | 48866 | [48866-majou-densetsu-ii-daimashikyou-galious.json](./48866-majou-densetsu-ii-daimashikyou-galious.json) |
+| Majoukko Princess - Mefi's Great Strategy for Recapturing the Castle- | 292052 | [292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json](./292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json) |
 | Majulah | 367965 | [367965-majulah.json](./367965-majulah.json) |
 | Majuu-ou: King of Demons | 38112 | [38112-majuu-ou-king-of-demons.json](./38112-majuu-ou-king-of-demons.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
@@ -1186,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maokatsu!: Maou to Yuusha no Idol Seikatsu | 402495 | [402495-maokatsu-maou-to-yuusha-no-idol-seikatsu.json](./402495-maokatsu-maou-to-yuusha-no-idol-seikatsu.json) |
 | MaoMaoMao | 392300 | [392300-maomaomao.json](./392300-maomaomao.json) |
 | Maoten | 194576 | [194576-maoten.json](./194576-maoten.json) |
+| Maou Company | 292050 | [292050-maou-company.json](./292050-maou-company.json) |
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
 | Map Hopper | 180682 | [180682-map-hopper.json](./180682-map-hopper.json) |
@@ -5430,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Moe Daisensou * Gendaiban++ | 44579 | [44579-moe-moe-daisensou-gendaiban.json](./44579-moe-moe-daisensou-gendaiban.json) |
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
 | Moe Reversi | 113482 | [113482-moe-reversi.json](./113482-moe-reversi.json) |
+| Moe Slot Beach no Shizuku | 292088 | [292088-moe-slot-beach-no-shizuku.json](./292088-moe-slot-beach-no-shizuku.json) |
 | Moe Waifu H: BlockBlast | 317213 | [317213-moe-waifu-h-blockblast.json](./317213-moe-waifu-h-blockblast.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
 | Moe! Ninja Girls | 110797 | [110797-moe-ninja-girls.json](./110797-moe-ninja-girls.json) |
@@ -8018,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteryville 2 | 73151 | [73151-mysteryville-2.json](./73151-mysteryville-2.json) |
 | Mystfed | 183522 | [183522-mystfed.json](./183522-mystfed.json) |
 | Mystia | 288872 | [288872-mystia.json](./288872-mystia.json) |
+| Mystia2 | 292090 | [292090-mystia2.json](./292090-mystia2.json) |
 | Mystia3 | 381723 | [381723-mystia3.json](./381723-mystia3.json) |
 | Mystic Ark: Maboroshi Gekijo | 67326 | [67326-mystic-ark-maboroshi-gekijo.json](./67326-mystic-ark-maboroshi-gekijo.json) |
 | Mystic Balloon | 280890 | [280890-mystic-balloon.json](./280890-mystic-balloon.json) |
