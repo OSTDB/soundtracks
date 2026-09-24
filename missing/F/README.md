@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrari Virtual Race | 129811 | [129811-ferrari-virtual-race.json](./129811-ferrari-virtual-race.json) |
 | Ferret Frenzy | 381734 | [381734-ferret-frenzy.json](./381734-ferret-frenzy.json) |
 | Ferret Monogatari: Watashi no Okini Iri | 65512 | [65512-ferret-monogatari-watashi-no-okini-iri.json](./65512-ferret-monogatari-watashi-no-okini-iri.json) |
+| Ferric Oxide | 299845 | [299845-ferric-oxide.json](./299845-ferric-oxide.json) |
 | FerroSlug | 218727 | [218727-ferroslug.json](./218727-ferroslug.json) |
 | Ferrule Instincts | 211952 | [211952-ferrule-instincts.json](./211952-ferrule-instincts.json) |
 | Ferrum | 406729 | [406729-ferrum.json](./406729-ferrum.json) |
@@ -2380,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Game | 269021 | [269021-fish-game.json](./269021-fish-game.json) |
 | Fish Game | 381020 | [381020-fish-game.json](./381020-fish-game.json) |
 | Fish Heroes | 237367 | [237367-fish-heroes.json](./237367-fish-heroes.json) |
+| Fish Hooks | 299867 | [299867-fish-hooks.json](./299867-fish-hooks.json) |
 | Fish Hunters: The Most Ridiculous Fishing Simulator | 337714 | [337714-fish-hunters-the-most-ridiculous-fishing-simulator.json](./337714-fish-hunters-the-most-ridiculous-fishing-simulator.json) |
 | Fish Idle 2: Underwater Mystery | 304607 | [304607-fish-idle-2-underwater-mystery.json](./304607-fish-idle-2-underwater-mystery.json) |
 | Fish Kingdoms | 231938 | [231938-fish-kingdoms.json](./231938-fish-kingdoms.json) |
@@ -4382,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fret Nice | 52230 | [52230-fret-nice.json](./52230-fret-nice.json) |
 | Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
 | Freya's Potion Shop | 157702 | [157702-freyas-potion-shop.json](./157702-freyas-potion-shop.json) |
+| Freyja's Demise | 299844 | [299844-freyjas-demise.json](./299844-freyjas-demise.json) |
 | Freyr's Love | 165024 | [165024-freyrs-love.json](./165024-freyrs-love.json) |
 | Fricassee | 267995 | [267995-fricassee.json](./267995-fricassee.json) |
 | Friday | 130926 | [130926-friday.json](./130926-friday.json) |
