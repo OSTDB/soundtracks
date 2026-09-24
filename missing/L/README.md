@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: United Kingdom | 53281 | [53281-logistical-united-kingdom.json](./53281-logistical-united-kingdom.json) |
 | Logistics Simulator | 161346 | [161346-logistics-simulator.json](./161346-logistics-simulator.json) |
 | Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
+| Logix: The Missing Part | 301884 | [301884-logix-the-missing-part.json](./301884-logix-the-missing-part.json) |
 | Logos Panic: Goaisatu | 37942 | [37942-logos-panic-goaisatu.json](./37942-logos-panic-goaisatu.json) |
 | Lohotronshchik: Crazy Loto | 280887 | [280887-lohotronshchik-crazy-loto.json](./280887-lohotronshchik-crazy-loto.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
