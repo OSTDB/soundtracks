@@ -406,6 +406,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candice DeBebe's Incredibly Trick Lifestyle | 33246 | [33246-candice-debebes-incredibly-trick-lifestyle.json](./33246-candice-debebes-incredibly-trick-lifestyle.json) |
 | Candice DeBebe's Scandalous Secrets | 110931 | [110931-candice-debebes-scandalous-secrets.json](./110931-candice-debebes-scandalous-secrets.json) |
 | Candied Violets | 178527 | [178527-candied-violets.json](./178527-candied-violets.json) |
+| Candivity: Deep Mines DLC | 324431 | [324431-candivity-deep-mines-dlc.json](./324431-candivity-deep-mines-dlc.json) |
+| Candivity: Outer Space DLC | 324432 | [324432-candivity-outer-space-dlc.json](./324432-candivity-outer-space-dlc.json) |
 | Candivity: Platinum Edition | 385194 | [385194-candivity-platinum-edition.json](./385194-candivity-platinum-edition.json) |
 | Candivity: Snow & Sand Edition | 400197 | [400197-candivity-snow-and-sand-edition.json](./400197-candivity-snow-and-sand-edition.json) |
 | Candle Flame in the Wind | 284327 | [284327-candle-flame-in-the-wind.json](./284327-candle-flame-in-the-wind.json) |
@@ -4025,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
 | Coffee Noir | 27795 | [27795-coffee-noir.json](./27795-coffee-noir.json) |
+| Coffee Pack | 324419 | [324419-coffee-pack.json](./324419-coffee-pack.json) |
 | Coffee Pixes | 75060 | [75060-coffee-pixes.json](./75060-coffee-pixes.json) |
 | Coffee Quake 2: Double Shot | 271194 | [271194-coffee-quake-2-double-shot.json](./271194-coffee-quake-2-double-shot.json) |
 | Coffee Raccoons | 413038 | [413038-coffee-raccoons.json](./413038-coffee-raccoons.json) |
@@ -5147,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
 | Cooking With Cthulhu | 176449 | [176449-cooking-with-cthulhu.json](./176449-cooking-with-cthulhu.json) |
 | Cooking, for lovers | 139814 | [139814-cooking-for-lovers.json](./139814-cooking-for-lovers.json) |
+| Cooking: Green Dragon Set | 324424 | [324424-cooking-green-dragon-set.json](./324424-cooking-green-dragon-set.json) |
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
 | Cool Boarders Arcade Jam | 39831 | [39831-cool-boarders-arcade-jam.json](./39831-cool-boarders-arcade-jam.json) |
 | Cool Brick Breaker | 235239 | [235239-cool-brick-breaker.json](./235239-cool-brick-breaker.json) |
