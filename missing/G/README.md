@@ -2575,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google: Image Breakout | 225628 | [225628-google-image-breakout.json](./225628-google-image-breakout.json) |
 | Google: Squid Game | 327862 | [327862-google-squid-game.json](./327862-google-squid-game.json) |
 | googolChooChoo3D2 | 106990 | [106990-googolchoochoo3d2.json](./106990-googolchoochoo3d2.json) |
+| GooGooRise | 304628 | [304628-googoorise.json](./304628-googoorise.json) |
 | Gooing Up! | 321340 | [321340-gooing-up.json](./321340-gooing-up.json) |
 | Goolems | 244233 | [244233-goolems.json](./244233-goolems.json) |
 | Goomanuvr | 189164 | [189164-goomanuvr.json](./189164-goomanuvr.json) |
