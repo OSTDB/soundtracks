@@ -250,6 +250,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Memories: Complete Edition | 317259 | [317259-ecchi-memories-complete-edition.json](./317259-ecchi-memories-complete-edition.json) |
 | Ecchi Memory Game | 110966 | [110966-ecchi-memory-game.json](./110966-ecchi-memory-game.json) |
 | Ecchi na Seed | 97831 | [97831-ecchi-na-seed.json](./97831-ecchi-na-seed.json) |
+| Ecchi Oppai: Fantasy DLC | 324433 | [324433-ecchi-oppai-fantasy-dlc.json](./324433-ecchi-oppai-fantasy-dlc.json) |
+| Ecchi Oppai: Fusion DLC | 324434 | [324434-ecchi-oppai-fusion-dlc.json](./324434-ecchi-oppai-fusion-dlc.json) |
+| Ecchi Oppai: Uniforms DLC | 324435 | [324435-ecchi-oppai-uniforms-dlc.json](./324435-ecchi-oppai-uniforms-dlc.json) |
 | Ecchi Paradise: Complete Edition | 294831 | [294831-ecchi-paradise-complete-edition.json](./294831-ecchi-paradise-complete-edition.json) |
 | Ecchi Secrets: Romantic Edition | 317258 | [317258-ecchi-secrets-romantic-edition.json](./317258-ecchi-secrets-romantic-edition.json) |
 | Ecchi Spirit | 147393 | [147393-ecchi-spirit.json](./147393-ecchi-spirit.json) |
