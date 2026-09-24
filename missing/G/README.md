@@ -2517,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofy's Hysterical History Tour | 46210 | [46210-goofys-hysterical-history-tour.json](./46210-goofys-hysterical-history-tour.json) |
 | Goofy's Railway Express | 12122 | [12122-goofys-railway-express.json](./12122-goofys-railway-express.json) |
 | Goofy's Underwater Adventure | 243817 | [243817-goofys-underwater-adventure.json](./243817-goofys-underwater-adventure.json) |
+| Goog Clicker Deluxe | 329659 | [329659-goog-clicker-deluxe.json](./329659-goog-clicker-deluxe.json) |
 | Googass | 165667 | [165667-googass.json](./165667-googass.json) |
 | Google Blocks | 115730 | [115730-google-blocks.json](./115730-google-blocks.json) |
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
