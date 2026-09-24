@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius | 262395 | [262395-gradius.json](./262395-gradius.json) |
 | Gradius Galaxies | 77990 | [77990-gradius-galaxies.json](./77990-gradius-galaxies.json) |
 | Gradius II | 213190 | [213190-gradius-ii.json](./213190-gradius-ii.json) |
+| Gradius III | 335430 | [335430-gradius-iii.json](./335430-gradius-iii.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
 | Gradius ReBirth | 1489 | [1489-gradius-rebirth.json](./1489-gradius-rebirth.json) |
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
