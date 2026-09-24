@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zane | 233734 | [233734-zane.json](./233734-zane.json) |
 | Zanfium Tower | 173838 | [173838-zanfium-tower.json](./173838-zanfium-tower.json) |
 | Zangeki Warp | 30287 | [30287-zangeki-warp.json](./30287-zangeki-warp.json) |
+| Zangus | 313249 | [313249-zangus.json](./313249-zangus.json) |
 | Zangyura | 138717 | [138717-zangyura.json](./138717-zangyura.json) |
 | Zankoi's Chronicles | 255959 | [255959-zankois-chronicles.json](./255959-zankois-chronicles.json) |
 | Zany Kong | 98231 | [98231-zany-kong.json](./98231-zany-kong.json) |
