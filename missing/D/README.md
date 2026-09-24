@@ -182,6 +182,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
 | Daisenryaku 1941: Gyakuten no Taiheiyou | 342253 | [342253-daisenryaku-1941-gyakuten-no-taiheiyou.json](./342253-daisenryaku-1941-gyakuten-no-taiheiyou.json) |
 | Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
+| Daisenryaku III '90: Map Collection Vol. 1 | 299825 | [299825-daisenryaku-iii-90-map-collection-vol-1.json](./299825-daisenryaku-iii-90-map-collection-vol-1.json) |
+| Daisenryaku III '90: Map Collection Vol. 2 | 299826 | [299826-daisenryaku-iii-90-map-collection-vol-2.json](./299826-daisenryaku-iii-90-map-collection-vol-2.json) |
 | Daisenryaku Map Collection | 381851 | [381851-daisenryaku-map-collection.json](./381851-daisenryaku-map-collection.json) |
 | Daisenryaku VII | 361318 | [361318-daisenryaku-vii.json](./361318-daisenryaku-vii.json) |
 | Daisenryaku VII DX | 361319 | [361319-daisenryaku-vii-dx.json](./361319-daisenryaku-vii-dx.json) |
@@ -370,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Gods at Gunpoint | 341110 | [341110-danganronpa-gods-at-gunpoint.json](./341110-danganronpa-gods-at-gunpoint.json) |
 | Danganronpa: Lapse | 243221 | [243221-danganronpa-lapse.json](./243221-danganronpa-lapse.json) |
 | Danganronpa: Live or Die | 270679 | [270679-danganronpa-live-or-die.json](./270679-danganronpa-live-or-die.json) |
+| Danganronpa: Monokuma Strikes Back | 299839 | [299839-danganronpa-monokuma-strikes-back.json](./299839-danganronpa-monokuma-strikes-back.json) |
 | Danganronpa: Salvation's Fears | 338840 | [338840-danganronpa-salvations-fears.json](./338840-danganronpa-salvations-fears.json) |
 | Danger and Deadlier | 336700 | [336700-danger-and-deadlier.json](./336700-danger-and-deadlier.json) |
 | Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
@@ -830,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwin | 309853 | [309853-darwin.json](./309853-darwin.json) |
 | Darwin 4081 | 46187 | [46187-darwin-4081.json](./46187-darwin-4081.json) |
 | Darwin's Demons | 30105 | [30105-darwins-demons.json](./30105-darwins-demons.json) |
+| Darwin's Dilemma | 299827 | [299827-darwins-dilemma.json](./299827-darwins-dilemma.json) |
 | Darwin's Legacy | 184596 | [184596-darwins-legacy.json](./184596-darwins-legacy.json) |
 | Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
@@ -1177,7 +1181,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
+| Dead by Daylight: Castlevania Chapter | 300809 | [300809-dead-by-daylight-castlevania-chapter.json](./300809-dead-by-daylight-castlevania-chapter.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
+| Dead by Daylight: Dungeons & Dragons | 300798 | [300798-dead-by-daylight-dungeons-and-dragons.json](./300798-dead-by-daylight-dungeons-and-dragons.json) |
 | Dead by Daylight: Five Nights at Freddy's | 350030 | [350030-dead-by-daylight-five-nights-at-freddys.json](./350030-dead-by-daylight-five-nights-at-freddys.json) |
 | Dead by Daylight: Gold Edition | 282124 | [282124-dead-by-daylight-gold-edition.json](./282124-dead-by-daylight-gold-edition.json) |
 | Dead by Daylight: Hellraiser Chapter | 167819 | [167819-dead-by-daylight-hellraiser-chapter.json](./167819-dead-by-daylight-hellraiser-chapter.json) |
@@ -1235,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
 | Dead Feed | 379566 | [379566-dead-feed.json](./379566-dead-feed.json) |
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
+| Dead Force | 299828 | [299828-dead-force.json](./299828-dead-force.json) |
 | Dead Freight | 345683 | [345683-dead-freight.json](./345683-dead-freight.json) |
 | Dead Frequency | 373214 | [373214-dead-frequency.json](./373214-dead-frequency.json) |
 | Dead Fun Pack: Penguins and Aliens Strike Again | 102588 | [102588-dead-fun-pack-penguins-and-aliens-strike-again.json](./102588-dead-fun-pack-penguins-and-aliens-strike-again.json) |
@@ -3477,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Builder: Medieval Castle | 298321 | [298321-diorama-builder-medieval-castle.json](./298321-diorama-builder-medieval-castle.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
+| Diortem | 300797 | [300797-diortem.json](./300797-diortem.json) |
 | Dioxide | 403807 | [403807-dioxide.json](./403807-dioxide.json) |
 | Dipets | 327300 | [327300-dipets.json](./327300-dipets.json) |
 | Diplomacy is Not an Option | 132334 | [132334-diplomacy-is-not-an-option.json](./132334-diplomacy-is-not-an-option.json) |
