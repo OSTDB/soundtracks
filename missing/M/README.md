@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchbox's Pizza Adventure | 305307 | [305307-matchboxs-pizza-adventure.json](./305307-matchboxs-pizza-adventure.json) |
 | Matched | 253009 | [253009-matched.json](./253009-matched.json) |
 | Matchem | 91737 | [91737-matchem.json](./91737-matchem.json) |
+| Matches Puzzle 2: Classic Logic Arcade | 287175 | [287175-matches-puzzle-2-classic-logic-arcade.json](./287175-matches-puzzle-2-classic-logic-arcade.json) |
 | Matches Puzzle Game | 117754 | [117754-matches-puzzle-game.json](./117754-matches-puzzle-game.json) |
 | Matching | 106573 | [106573-matching.json](./106573-matching.json) |
 | Matching App de Shiriatta Otoko wo Shinyou shite ha Ikemasen. | 341026 | [341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json](./341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json) |
@@ -3213,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memary: Memory of The Nameless One | 296476 | [296476-memary-memory-of-the-nameless-one.json](./296476-memary-memory-of-the-nameless-one.json) |
 | Memasiki | 368567 | [368567-memasiki.json](./368567-memasiki.json) |
 | Memasiki po Classice | 404875 | [404875-memasiki-po-classice.json](./404875-memasiki-po-classice.json) |
+| Membal | 287163 | [287163-membal.json](./287163-membal.json) |
 | Membrane | 377596 | [377596-membrane.json](./377596-membrane.json) |
 | Membrillo Hid My Socks | 402527 | [402527-membrillo-hid-my-socks.json](./402527-membrillo-hid-my-socks.json) |
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
