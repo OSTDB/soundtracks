@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth: Revival | 215230 | [215230-earth-revival.json](./215230-earth-revival.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
+| EarthBound 3 | 323282 | [323282-earthbound-3.json](./323282-earthbound-3.json) |
 | EarthBound 64 Experience | 238206 | [238206-earthbound-64-experience.json](./238206-earthbound-64-experience.json) |
 | EarthBound Beginnings | 11191 | [11191-earthbound-beginnings.json](./11191-earthbound-beginnings.json) |
 | EarthBound Dimensions | 311281 | [311281-earthbound-dimensions.json](./311281-earthbound-dimensions.json) |
@@ -1195,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
 | Empyrion: Galactic Survival | 19249 | [19249-empyrion-galactic-survival.json](./19249-empyrion-galactic-survival.json) |
+| Emre and Jevon's Tale of Knowledge, Emulating a Dream Where You Gain Wisdom and Knowledge and Probably Meet Hermes | 323301 | [323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json](./323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json) |
 | Emross War | 343482 | [343482-emross-war.json](./343482-emross-war.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
