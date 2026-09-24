@@ -4282,6 +4282,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyWar | 341564 | [341564-polywar.json](./341564-polywar.json) |
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
 | Pom Pom Purin: Koro-koro Daibouken | 222518 | [222518-pom-pom-purin-koro-koro-daibouken.json](./222518-pom-pom-purin-koro-koro-daibouken.json) |
+| Pom-Bar: Weltenbauer | 330361 | [330361-pom-bar-weltenbauer.json](./330361-pom-bar-weltenbauer.json) |
+| Pom-Bear Interactive CD | 330358 | [330358-pom-bear-interactive-cd.json](./330358-pom-bear-interactive-cd.json) |
 | Pombero: The Lord of the Night - Reborn | 260757 | [260757-pombero-the-lord-of-the-night-reborn.json](./260757-pombero-the-lord-of-the-night-reborn.json) |
 | Pommy | 86103 | [86103-pommy.json](./86103-pommy.json) |
 | Pomo Post | 319389 | [319389-pomo-post.json](./319389-pomo-post.json) |
@@ -4714,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
+| Power For Young Inventors | 330363 | [330363-power-for-young-inventors.json](./330363-power-for-young-inventors.json) |
 | Power Gig: Rise of the SixString | 7135 | [7135-power-gig-rise-of-the-sixstring.json](./7135-power-gig-rise-of-the-sixstring.json) |
 | Power Grounds | 197774 | [197774-power-grounds.json](./197774-power-grounds.json) |
 | Power Guy World | 339266 | [339266-power-guy-world.json](./339266-power-guy-world.json) |
@@ -5693,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
 | Project Tarvotan | 34809 | [34809-project-tarvotan.json](./34809-project-tarvotan.json) |
+| Project Thea | 330350 | [330350-project-thea.json](./330350-project-thea.json) |
 | Project Three | 343857 | [343857-project-three.json](./343857-project-three.json) |
 | Project Threshold | 404201 | [404201-project-threshold.json](./404201-project-threshold.json) |
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
