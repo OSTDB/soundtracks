@@ -5648,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monodot | 207828 | [207828-monodot.json](./207828-monodot.json) |
 | Monogon: Echoes | 147366 | [147366-monogon-echoes.json](./147366-monogon-echoes.json) |
 | Monokage Quest | 222543 | [222543-monokage-quest.json](./222543-monokage-quest.json) |
+| Monolit | 298108 | [298108-monolit.json](./298108-monolit.json) |
 | Monolith Bay | 154570 | [154570-monolith-bay.json](./154570-monolith-bay.json) |
 | Monolith's Dreamers | 343261 | [343261-monoliths-dreamers.json](./343261-monoliths-dreamers.json) |
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
@@ -7631,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
 | My Reaper Girlfriend | 230358 | [230358-my-reaper-girlfriend.json](./230358-my-reaper-girlfriend.json) |
+| My Recycling Center: Container Truck Expansion | 298131 | [298131-my-recycling-center-container-truck-expansion.json](./298131-my-recycling-center-container-truck-expansion.json) |
 | My Rental Girlfriend | 205819 | [205819-my-rental-girlfriend.json](./205819-my-rental-girlfriend.json) |
 | My Resume: The Video Game | 88014 | [88014-my-resume-the-video-game.json](./88014-my-resume-the-video-game.json) |
 | My Retro World | 374823 | [374823-my-retro-world.json](./374823-my-retro-world.json) |
