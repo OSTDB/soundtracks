@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima: Warriors of Destiny | 48096 | [48096-ultima-warriors-of-destiny.json](./48096-ultima-warriors-of-destiny.json) |
 | UltiMage | 385191 | [385191-ultimage.json](./385191-ultimage.json) |
 | Ultimagus | 29845 | [29845-ultimagus.json](./29845-ultimagus.json) |
+| UltiMahjong | 289928 | [289928-ultimahjong.json](./289928-ultimahjong.json) |
 | Ultimate 20-Game Bundle | 392766 | [392766-ultimate-20-game-bundle.json](./392766-ultimate-20-game-bundle.json) |
 | Ultimate 8 Ball Pool | 415309 | [415309-ultimate-8-ball-pool.json](./415309-ultimate-8-ball-pool.json) |
 | Ultimate Action Hero | 306364 | [306364-ultimate-action-hero.json](./306364-ultimate-action-hero.json) |
@@ -481,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Un:logical | 320393 | [320393-un-logical.json](./320393-un-logical.json) |
+| Un/Fragment | 289925 | [289925-un-fragment.json](./289925-un-fragment.json) |
 | Una Gesta Draconiana | 400870 | [400870-una-gesta-draconiana.json](./400870-una-gesta-draconiana.json) |
 | Una noche sin nombre | 314510 | [314510-una-noche-sin-nombre.json](./314510-una-noche-sin-nombre.json) |
 | Unaccessible | 327981 | [327981-unaccessible.json](./327981-unaccessible.json) |
@@ -545,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Slam Vice Squad | 255723 | [255723-uncle-slam-vice-squad.json](./255723-uncle-slam-vice-squad.json) |
 | Uncle Ted | 169380 | [169380-uncle-ted.json](./169380-uncle-ted.json) |
 | Uncle Unco | 322752 | [322752-uncle-unco.json](./322752-uncle-unco.json) |
+| Uncle's Basement | 289927 | [289927-uncles-basement.json](./289927-uncles-basement.json) |
 | Uncle's Basement: The Winter House | 384058 | [384058-uncles-basement-the-winter-house.json](./384058-uncles-basement-the-winter-house.json) |
 | Uncle's Casino | 78674 | [78674-uncles-casino.json](./78674-uncles-casino.json) |
 | Uncolor for iPad | 108460 | [108460-uncolor-for-ipad.json](./108460-uncolor-for-ipad.json) |
@@ -630,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Witch: Beginnings | 267365 | [267365-under-the-witch-beginnings.json](./267365-under-the-witch-beginnings.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
 | Under Tower Idle | 405585 | [405585-under-tower-idle.json](./405585-under-tower-idle.json) |
+| Under Walls | 289926 | [289926-under-walls.json](./289926-under-walls.json) |
 | Under Zero | 33223 | [33223-under-zero.json](./33223-under-zero.json) |
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
 | Undercat | 158579 | [158579-undercat.json](./158579-undercat.json) |
@@ -1088,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstimulated Simulator | 389418 | [389418-unstimulated-simulator.json](./389418-unstimulated-simulator.json) |
 | Unstoppable | 255131 | [255131-unstoppable.json](./255131-unstoppable.json) |
 | Unstoppable | 58216 | [58216-unstoppable.json](./58216-unstoppable.json) |
+| Unstrayed | 289924 | [289924-unstrayed.json](./289924-unstrayed.json) |
 | Unstrong Legacy | 187458 | [187458-unstrong-legacy.json](./187458-unstrong-legacy.json) |
 | Unsubscribed: The Game | 117913 | [117913-unsubscribed-the-game.json](./117913-unsubscribed-the-game.json) |
 | Unsung Empires: The Cholas | 244379 | [244379-unsung-empires-the-cholas.json](./244379-unsung-empires-the-cholas.json) |
@@ -1169,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwound | 235873 | [235873-unwound.json](./235873-unwound.json) |
 | Unwoven | 409780 | [409780-unwoven.json](./409780-unwoven.json) |
 | Unyielding | 156527 | [156527-unyielding.json](./156527-unyielding.json) |
+| Unyverse | 289919 | [289919-unyverse.json](./289919-unyverse.json) |
 | Uoris DX | 147475 | [147475-uoris-dx.json](./147475-uoris-dx.json) |
 | Uotamuosu | 202341 | [202341-uotamuosu.json](./202341-uotamuosu.json) |
 | Up | 210281 | [210281-up.json](./210281-up.json) |
