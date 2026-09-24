@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
 | LEGO Worlds: Monster Pack | 205608 | [205608-lego-worlds-monster-pack.json](./205608-lego-worlds-monster-pack.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
+| Legofaction | 305288 | [305288-legofaction.json](./305288-legofaction.json) |
 | Leguiumz Experience | 304580 | [304580-leguiumz-experience.json](./304580-leguiumz-experience.json) |
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
 | Leikkaus | 413620 | [413620-leikkaus.json](./413620-leikkaus.json) |
@@ -2474,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizzie McGuire 2: Lizzie Diaries | 49393 | [49393-lizzie-mcguire-2-lizzie-diaries.json](./49393-lizzie-mcguire-2-lizzie-diaries.json) |
 | Lizzie McGuire 3: Homecoming Havoc | 49392 | [49392-lizzie-mcguire-3-homecoming-havoc.json](./49392-lizzie-mcguire-3-homecoming-havoc.json) |
 | Lizzie McGuire: On the Go! | 49394 | [49394-lizzie-mcguire-on-the-go.json](./49394-lizzie-mcguire-on-the-go.json) |
+| LJ65 | 305313 | [305313-lj65.json](./305313-lj65.json) |
 | Llama Villa | 129572 | [129572-llama-villa.json](./129572-llama-villa.json) |
 | Llamagotchi | 223597 | [223597-llamagotchi.json](./223597-llamagotchi.json) |
 | Llamalandia | 258002 | [258002-llamalandia.json](./258002-llamalandia.json) |
