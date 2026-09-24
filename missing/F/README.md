@@ -3063,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowerhorn Aquarium | 255748 | [255748-flowerhorn-aquarium.json](./255748-flowerhorn-aquarium.json) |
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
+| Flowers for You | 330895 | [330895-flowers-for-you.json](./330895-flowers-for-you.json) |
 | Flowers in Bloom | 146906 | [146906-flowers-in-bloom.json](./146906-flowers-in-bloom.json) |
 | Flowers of Asphodel | 300379 | [300379-flowers-of-asphodel.json](./300379-flowers-of-asphodel.json) |
 | Flowers of Crystal | 12105 | [12105-flowers-of-crystal.json](./12105-flowers-of-crystal.json) |
