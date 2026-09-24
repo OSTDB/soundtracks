@@ -1822,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terry The Turtle's Big Adventure | 315502 | [315502-terry-the-turtles-big-adventure.json](./315502-terry-the-turtles-big-adventure.json) |
 | Terry's Other Games | 327820 | [327820-terrys-other-games.json](./327820-terrys-other-games.json) |
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
+| Terunyan to Amanoiwato | 298100 | [298100-terunyan-to-amanoiwato.json](./298100-terunyan-to-amanoiwato.json) |
 | Tescaris | 339274 | [339274-tescaris.json](./339274-tescaris.json) |
 | Tesco: Delivery Dash | 274994 | [274994-tesco-delivery-dash.json](./274994-tesco-delivery-dash.json) |
 | Tesco: Delivery Dash | 274995 | [274995-tesco-delivery-dash.json](./274995-tesco-delivery-dash.json) |
@@ -2366,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Reset | 365740 | [365740-the-backrooms-reset.json](./365740-the-backrooms-reset.json) |
 | The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
 | The Backrooms: You've Been Here Before | 276161 | [276161-the-backrooms-youve-been-here-before.json](./276161-the-backrooms-youve-been-here-before.json) |
+| The Backworlds | 298106 | [298106-the-backworlds.json](./298106-the-backworlds.json) |
 | The Backyardigans | 159264 | [159264-the-backyardigans.json](./159264-the-backyardigans.json) |
 | The Backyardigans: Big Backyard Adventure | 326585 | [326585-the-backyardigans-big-backyard-adventure.json](./326585-the-backyardigans-big-backyard-adventure.json) |
 | The Backyardigans: Viking Voyage | 72998 | [72998-the-backyardigans-viking-voyage.json](./72998-the-backyardigans-viking-voyage.json) |
@@ -4559,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Express | 7650 | [7650-the-last-express.json](./7650-the-last-express.json) |
 | The Last Express: Gold Edition | 30235 | [30235-the-last-express-gold-edition.json](./30235-the-last-express-gold-edition.json) |
 | The Last Faith: Awakened Ancients | 376704 | [376704-the-last-faith-awakened-ancients.json](./376704-the-last-faith-awakened-ancients.json) |
+| The Last Farmer | 298118 | [298118-the-last-farmer.json](./298118-the-last-farmer.json) |
 | The Last Federation Collection | 51924 | [51924-the-last-federation-collection.json](./51924-the-last-federation-collection.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
 | The Last Flight | 407566 | [407566-the-last-flight.json](./407566-the-last-flight.json) |
@@ -4599,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
 | The Last Nordic Tribe | 333071 | [333071-the-last-nordic-tribe.json](./333071-the-last-nordic-tribe.json) |
+| The Last Oasis Before Chastity | 298121 | [298121-the-last-oasis-before-chastity.json](./298121-the-last-oasis-before-chastity.json) |
 | The Last Oath | 339902 | [339902-the-last-oath.json](./339902-the-last-oath.json) |
 | The Last of the 9 Lives | 319179 | [319179-the-last-of-the-9-lives.json](./319179-the-last-of-the-9-lives.json) |
 | The Last of the Summer Tank | 286014 | [286014-the-last-of-the-summer-tank.json](./286014-the-last-of-the-summer-tank.json) |
@@ -7693,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoom | 311069 | [311069-thoom.json](./311069-thoom.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
+| Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
 | Thorn for the Villain: Reincarnated as an Extra in an Otome Game?! | 255770 | [255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json](./255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json) |
 | Thorne - Death Merchants | 33265 | [33265-thorne-death-merchants.json](./33265-thorne-death-merchants.json) |
 | Thorner | 410353 | [410353-thorner.json](./410353-thorner.json) |
@@ -8672,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Is Honey | 285968 | [285968-time-is-honey.json](./285968-time-is-honey.json) |
 | Time is Life | 306345 | [306345-time-is-life.json](./306345-time-is-life.json) |
 | Time is Solid Here | 197960 | [197960-time-is-solid-here.json](./197960-time-is-solid-here.json) |
+| Time Journey | 298122 | [298122-time-journey.json](./298122-time-journey.json) |
 | Time Jump | 347335 | [347335-time-jump.json](./347335-time-jump.json) |
 | Time Keeper | 198459 | [198459-time-keeper.json](./198459-time-keeper.json) |
 | Time Killers | 8939 | [8939-time-killers.json](./8939-time-killers.json) |
@@ -9490,6 +9496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombo Breaker VR | 88254 | [88254-tombo-breaker-vr.json](./88254-tombo-breaker-vr.json) |
 | Tombo Survivor | 157167 | [157167-tombo-survivor.json](./157167-tombo-survivor.json) |
 | Tomboy Adventure | 154577 | [154577-tomboy-adventure.json](./154577-tomboy-adventure.json) |
+| Tomboy Adventure 2 | 298096 | [298096-tomboy-adventure-2.json](./298096-tomboy-adventure-2.json) |
 | Tomboys Need Love Too! | 36470 | [36470-tomboys-need-love-too.json](./36470-tomboys-need-love-too.json) |
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
 | Tombs of Reschette | 59678 | [59678-tombs-of-reschette.json](./59678-tombs-of-reschette.json) |
@@ -10239,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: KBNA Airport | 353321 | [353321-tower-simulator-3-kbna-airport.json](./353321-tower-simulator-3-kbna-airport.json) |
 | Tower! Simulator 3: KBOS Airport | 353318 | [353318-tower-simulator-3-kbos-airport.json](./353318-tower-simulator-3-kbos-airport.json) |
 | Tower! Simulator 3: KIAH Airport | 298704 | [298704-tower-simulator-3-kiah-airport.json](./298704-tower-simulator-3-kiah-airport.json) |
+| Tower! Simulator 3: KMCO Airport | 298091 | [298091-tower-simulator-3-kmco-airport.json](./298091-tower-simulator-3-kmco-airport.json) |
 | Tower! Simulator 3: KPIT Airport | 311097 | [311097-tower-simulator-3-kpit-airport.json](./311097-tower-simulator-3-kpit-airport.json) |
 | Tower! Simulator 3: KSFO Airport | 353328 | [353328-tower-simulator-3-ksfo-airport.json](./353328-tower-simulator-3-ksfo-airport.json) |
 | Tower! Simulator 3: KSLC Airport | 353332 | [353332-tower-simulator-3-kslc-airport.json](./353332-tower-simulator-3-kslc-airport.json) |
@@ -11048,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
+| Trans-Siberian Legends: Beautiful Girls | 298088 | [298088-trans-siberian-legends-beautiful-girls.json](./298088-trans-siberian-legends-beautiful-girls.json) |
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
 | Transball | 47554 | [47554-transball.json](./47554-transball.json) |
