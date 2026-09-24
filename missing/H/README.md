@@ -3564,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honker | 291476 | [291476-honker.json](./291476-honker.json) |
 | Honki de Manabu LEC de Goukakuru: Hishou Boki 3-Kyuu Portable | 67324 | [67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json](./67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json) |
 | Honki de Manabu LEC de Goukakuru: Takuchi Tatemono Torihiki Shuninsha Portable | 67325 | [67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json](./67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json) |
+| Honko's World | 304153 | [304153-honkos-world.json](./304153-honkos-world.json) |
 | Honoo no Ryourijin: Cooking Fighter Hao | 70338 | [70338-honoo-no-ryourijin-cooking-fighter-hao.json](./70338-honoo-no-ryourijin-cooking-fighter-hao.json) |
 | Honoo no Takkyubin | 138839 | [138839-honoo-no-takkyubin.json](./138839-honoo-no-takkyubin.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 267660 | [267660-honoo-no-toukyuuji-dodge-danpei.json](./267660-honoo-no-toukyuuji-dodge-danpei.json) |
