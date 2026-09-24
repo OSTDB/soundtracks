@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Skaters | 375423 | [375423-science-skaters.json](./375423-science-skaters.json) |
 | Science Sleuths Vol. 1: Mysteries of the Blob and the Exploding Lawnmowers | 319017 | [319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json](./319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json) |
 | Science Trivia Quiz 100 Wonders | 409659 | [409659-science-trivia-quiz-100-wonders.json](./409659-science-trivia-quiz-100-wonders.json) |
+| Science: The Game | 293699 | [293699-science-the-game.json](./293699-science-the-game.json) |
 | Scientific Shutdown | 156123 | [156123-scientific-shutdown.json](./156123-scientific-shutdown.json) |
 | Scientific Terms Extreme | 107125 | [107125-scientific-terms-extreme.json](./107125-scientific-terms-extreme.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
@@ -1560,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
 | SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
+| Seal: What the Fun | 293698 | [293698-seal-what-the-fun.json](./293698-seal-what-the-fun.json) |
 | Sealark | 64393 | [64393-sealark.json](./64393-sealark.json) |
 | Sealbreakers | 387360 | [387360-sealbreakers.json](./387360-sealbreakers.json) |
 | Sealchain | 274540 | [274540-sealchain.json](./274540-sealchain.json) |
@@ -3426,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Bubble Deluxe | 312882 | [312882-shoot-bubble-deluxe.json](./312882-shoot-bubble-deluxe.json) |
 | Shoot Coin Yen: Exchange Puzzle | 227495 | [227495-shoot-coin-yen-exchange-puzzle.json](./227495-shoot-coin-yen-exchange-puzzle.json) |
 | Shoot For The Stars | 335902 | [335902-shoot-for-the-stars.json](./335902-shoot-for-the-stars.json) |
+| Shoot Giant Robots and Wallrun | 293688 | [293688-shoot-giant-robots-and-wallrun.json](./293688-shoot-giant-robots-and-wallrun.json) |
 | Shoot Girl | 113022 | [113022-shoot-girl.json](./113022-shoot-girl.json) |
 | Shoot Many Robots: Arena Kings | 64915 | [64915-shoot-many-robots-arena-kings.json](./64915-shoot-many-robots-arena-kings.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
@@ -4838,6 +4841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skywire | 116128 | [116128-skywire.json](./116128-skywire.json) |
 | Skywire 2 | 280333 | [280333-skywire-2.json](./280333-skywire-2.json) |
 | Slab | 98708 | [98708-slab.json](./98708-slab.json) |
+| Slackers: Carts of Glory | 293685 | [293685-slackers-carts-of-glory.json](./293685-slackers-carts-of-glory.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
 | Slain 2: The Beast Within | 340587 | [340587-slain-2-the-beast-within.json](./340587-slain-2-the-beast-within.json) |
 | Sláine: The Celtic Barbarian | 53163 | [53163-slaine-the-celtic-barbarian.json](./53163-slaine-the-celtic-barbarian.json) |
@@ -7455,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders: Invincible Collection | 119406 | [119406-space-invaders-invincible-collection.json](./119406-space-invaders-invincible-collection.json) |
 | Space Invaders: Invincible Collection - Special Edition | 141665 | [141665-space-invaders-invincible-collection-special-edition.json](./141665-space-invaders-invincible-collection-special-edition.json) |
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
+| Space Invasion | 293713 | [293713-space-invasion.json](./293713-space-invasion.json) |
 | Space Inversion | 260762 | [260762-space-inversion.json](./260762-space-inversion.json) |
 | Space Inversion 2 HD | 174313 | [174313-space-inversion-2-hd.json](./174313-space-inversion-2-hd.json) |
 | Space Inversion Puzzle | 255720 | [255720-space-inversion-puzzle.json](./255720-space-inversion-puzzle.json) |
@@ -7825,6 +7830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speak of the Devil I: A Deathly Proposition | 277941 | [277941-speak-of-the-devil-i-a-deathly-proposition.json](./277941-speak-of-the-devil-i-a-deathly-proposition.json) |
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
+| Speakrit | 293702 | [293702-speakrit.json](./293702-speakrit.json) |
 | Spear Leap Saga | 398413 | [398413-spear-leap-saga.json](./398413-spear-leap-saga.json) |
 | Spear of Despair | 183030 | [183030-spear-of-despair.json](./183030-spear-of-despair.json) |
 | Spear of Destiny | 306981 | [306981-spear-of-destiny.json](./306981-spear-of-destiny.json) |
@@ -7900,6 +7906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
+| Spediteur | 293708 | [293708-spediteur.json](./293708-spediteur.json) |
 | Speechless | 166736 | [166736-speechless.json](./166736-speechless.json) |
 | Speed | 261245 | [261245-speed.json](./261245-speed.json) |
 | Speed & Precision Collection | 328484 | [328484-speed-and-precision-collection.json](./328484-speed-and-precision-collection.json) |
@@ -8015,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
 | Spellarium 2 | 298089 | [298089-spellarium-2.json](./298089-spellarium-2.json) |
+| Spellarium 4 | 293703 | [293703-spellarium-4.json](./293703-spellarium-4.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
@@ -8132,6 +8140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphongos | 345562 | [345562-sphongos.json](./345562-sphongos.json) |
 | Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
 | Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
+| Spicy Fruit | 293678 | [293678-spicy-fruit.json](./293678-spicy-fruit.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider | 379979 | [379979-spider.json](./379979-spider.json) |
 | Spider and Web | 91916 | [91916-spider-and-web.json](./91916-spider-and-web.json) |
@@ -8940,6 +8949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StairJump | 78658 | [78658-stairjump.json](./78658-stairjump.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stairway | 301845 | [301845-stairway.json](./301845-stairway.json) |
+| Stairway to Tavern | 293680 | [293680-stairway-to-tavern.json](./293680-stairway-to-tavern.json) |
 | Stakeholder Game | 190069 | [190069-stakeholder-game.json](./190069-stakeholder-game.json) |
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
 | Stakes Winner 2 | 39625 | [39625-stakes-winner-2.json](./39625-stakes-winner-2.json) |
@@ -10439,6 +10449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded: Alien Dawn Premium Edition | 275619 | [275619-stranded-alien-dawn-premium-edition.json](./275619-stranded-alien-dawn-premium-edition.json) |
 | Stranded: Escape the Room | 175876 | [175876-stranded-escape-the-room.json](./175876-stranded-escape-the-room.json) |
 | Stranded: Mysteries of Time | 65227 | [65227-stranded-mysteries-of-time.json](./65227-stranded-mysteries-of-time.json) |
+| Strands | 293711 | [293711-strands.json](./293711-strands.json) |
 | Strandzha Adventures 3D | 311825 | [311825-strandzha-adventures-3d.json](./311825-strandzha-adventures-3d.json) |
 | Strange Adventure | 394833 | [394833-strange-adventure.json](./394833-strange-adventure.json) |
 | Strange Aeons | 216861 | [216861-strange-aeons.json](./216861-strange-aeons.json) |
@@ -11358,6 +11369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
+| Summer Nightmare | 293682 | [293682-summer-nightmare.json](./293682-summer-nightmare.json) |
 | Summer Nightmare | 29895 | [29895-summer-nightmare.json](./29895-summer-nightmare.json) |
 | Summer of '58 | 159221 | [159221-summer-of-58.json](./159221-summer-of-58.json) |
 | Summer of '69 | 224578 | [224578-summer-of-69.json](./224578-summer-of-69.json) |
@@ -13312,6 +13324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Gym | 339461 | [339461-sweet-gym.json](./339461-sweet-gym.json) |
 | Sweet Hazard | 316815 | [316815-sweet-hazard.json](./316815-sweet-hazard.json) |
 | Sweet Hearts Match 3 | 86800 | [86800-sweet-hearts-match-3.json](./86800-sweet-hearts-match-3.json) |
+| Sweet Hell | 293710 | [293710-sweet-hell.json](./293710-sweet-hell.json) |
 | Sweet Hide and Seek | 339460 | [339460-sweet-hide-and-seek.json](./339460-sweet-hide-and-seek.json) |
 | Sweet Home | 9426 | [9426-sweet-home.json](./9426-sweet-home.json) |
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
