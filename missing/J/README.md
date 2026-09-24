@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jai Kali | 368556 | [368556-jai-kali.json](./368556-jai-kali.json) |
 | Jail Break | 28826 | [28826-jail-break.json](./28826-jail-break.json) |
 | Jail Dice: Roll to Break | 347343 | [347343-jail-dice-roll-to-break.json](./347343-jail-dice-roll-to-break.json) |
+| Jail Escape | 322159 | [322159-jail-escape.json](./322159-jail-escape.json) |
 | Jailbird Nocturne | 364530 | [364530-jailbird-nocturne.json](./364530-jailbird-nocturne.json) |
 | Jailbirdman | 362356 | [362356-jailbirdman.json](./362356-jailbirdman.json) |
 | Jailbreak Russia | 104023 | [104023-jailbreak-russia.json](./104023-jailbreak-russia.json) |
