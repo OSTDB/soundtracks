@@ -5378,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Survival | 373180 | [373180-dragon-survival.json](./373180-dragon-survival.json) |
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
 | Dragon Tale 5: The Queen's Destiny - Collector's Edition | 417525 | [417525-dragon-tale-5-the-queens-destiny-collectors-edition.json](./417525-dragon-tale-5-the-queens-destiny-collectors-edition.json) |
+| Dragon Tales | 320914 | [320914-dragon-tales.json](./320914-dragon-tales.json) |
 | Dragon Tales: Dragon Adventures | 248751 | [248751-dragon-tales-dragon-adventures.json](./248751-dragon-tales-dragon-adventures.json) |
 | Dragon Tales: Dragon Wings | 49939 | [49939-dragon-tales-dragon-wings.json](./49939-dragon-tales-dragon-wings.json) |
 | Dragon Tales: Learn & Fly With Dragons | 72127 | [72127-dragon-tales-learn-and-fly-with-dragons.json](./72127-dragon-tales-learn-and-fly-with-dragons.json) |
@@ -6072,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk As I Like: Gensokyo Chugging Contest | 202334 | [202334-drunk-as-i-like-gensokyo-chugging-contest.json](./202334-drunk-as-i-like-gensokyo-chugging-contest.json) |
 | Drunk but Not Wasted Knight | 363398 | [363398-drunk-but-not-wasted-knight.json](./363398-drunk-but-not-wasted-knight.json) |
 | Drunk Fist | 180817 | [180817-drunk-fist.json](./180817-drunk-fist.json) |
+| Drunk Fred in the Cell | 320915 | [320915-drunk-fred-in-the-cell.json](./320915-drunk-fred-in-the-cell.json) |
 | Drunk Games | 203940 | [203940-drunk-games.json](./203940-drunk-games.json) |
 | Drunk Mages | 390001 | [390001-drunk-mages.json](./390001-drunk-mages.json) |
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
