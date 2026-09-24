@@ -1566,6 +1566,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellcrown | 412367 | [412367-hellcrown.json](./412367-hellcrown.json) |
 | Helldivers | 14523 | [14523-helldivers.json](./14523-helldivers.json) |
 | Helldivers 2: Devoid of Liberty | 412429 | [412429-helldivers-2-devoid-of-liberty.json](./412429-helldivers-2-devoid-of-liberty.json) |
+| Helldivers 2: Omens of Tyranny | 325601 | [325601-helldivers-2-omens-of-tyranny.json](./325601-helldivers-2-omens-of-tyranny.json) |
+| Helldivers 2: TR-117 Alpha Commander Armor Set | 325558 | [325558-helldivers-2-tr-117-alpha-commander-armor-set.json](./325558-helldivers-2-tr-117-alpha-commander-armor-set.json) |
 | Helldivers II: Super Citizen Edition | 267925 | [267925-helldivers-ii-super-citizen-edition.json](./267925-helldivers-ii-super-citizen-edition.json) |
 | Helldivers: A New Hell | 267932 | [267932-helldivers-a-new-hell.json](./267932-helldivers-a-new-hell.json) |
 | Helldivers: Defenders Pack | 267986 | [267986-helldivers-defenders-pack.json](./267986-helldivers-defenders-pack.json) |
