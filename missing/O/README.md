@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Recall | 317382 | [317382-ominous-recall.json](./317382-ominous-recall.json) |
 | Omise de Tensyu | 138249 | [138249-omise-de-tensyu.json](./138249-omise-de-tensyu.json) |
 | Omizu no Hanamichi | 257113 | [257113-omizu-no-hanamichi.json](./257113-omizu-no-hanamichi.json) |
+| Ommatophilia | 288833 | [288833-ommatophilia.json](./288833-ommatophilia.json) |
 | Omni | 118164 | [118164-omni.json](./118164-omni.json) |
 | Omni Blade | 312023 | [312023-omni-blade.json](./312023-omni-blade.json) |
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
