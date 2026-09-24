@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Manor: Queen of Death | 140031 | [140031-haunted-manor-queen-of-death.json](./140031-haunted-manor-queen-of-death.json) |
 | Haunted Mansion | 204693 | [204693-haunted-mansion.json](./204693-haunted-mansion.json) |
 | Haunted Mansion | 342075 | [342075-haunted-mansion.json](./342075-haunted-mansion.json) |
+| Haunted Mansion: Experience | 319759 | [319759-haunted-mansion-experience.json](./319759-haunted-mansion-experience.json) |
 | Haunted Nightmares | 149446 | [149446-haunted-nightmares.json](./149446-haunted-nightmares.json) |
 | Haunted Obachestra Vol. 1 Awaking | 254617 | [254617-haunted-obachestra-vol-1-awaking.json](./254617-haunted-obachestra-vol-1-awaking.json) |
 | Haunted Obachestra Vol. 2 Bianke | 254618 | [254618-haunted-obachestra-vol-2-bianke.json](./254618-haunted-obachestra-vol-2-bianke.json) |
