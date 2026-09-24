@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save The Babies | 335260 | [335260-save-the-babies.json](./335260-save-the-babies.json) |
 | Save the City | 359440 | [359440-save-the-city.json](./359440-save-the-city.json) |
 | Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
+| Save the Date | 313845 | [313845-save-the-date.json](./313845-save-the-date.json) |
 | Save the Eggs | 416110 | [416110-save-the-eggs.json](./416110-save-the-eggs.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
@@ -1395,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scripted Land | 219620 | [219620-scripted-land.json](./219620-scripted-land.json) |
 | Scripted Souls | 200563 | [200563-scripted-souls.json](./200563-scripted-souls.json) |
 | Scriptic: Interactive Dramas | 191860 | [191860-scriptic-interactive-dramas.json](./191860-scriptic-interactive-dramas.json) |
+| Scriptorium: Master of Manuscripts | 313811 | [313811-scriptorium-master-of-manuscripts.json](./313811-scriptorium-master-of-manuscripts.json) |
 | Scriptur | 190225 | [190225-scriptur.json](./190225-scriptur.json) |
 | Scritchy Scratchy | 371567 | [371567-scritchy-scratchy.json](./371567-scritchy-scratchy.json) |
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
@@ -11307,6 +11309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
 | Sunken Seeker | 386693 | [386693-sunken-seeker.json](./386693-sunken-seeker.json) |
 | Sunkenland | 213475 | [213475-sunkenland.json](./213475-sunkenland.json) |
+| Sunkissed | 313831 | [313831-sunkissed.json](./313831-sunkissed.json) |
 | SunKong | 390768 | [390768-sunkong.json](./390768-sunkong.json) |
 | Sunland Hike | 264613 | [264613-sunland-hike.json](./264613-sunland-hike.json) |
 | Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
@@ -11812,6 +11815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Little Acorns 3D Turbo | 23523 | [23523-super-little-acorns-3d-turbo.json](./23523-super-little-acorns-3d-turbo.json) |
 | Super Live Stadium | 301384 | [301384-super-live-stadium.json](./301384-super-live-stadium.json) |
+| Super Loco World | 313806 | [313806-super-loco-world.json](./313806-super-loco-world.json) |
 | Super Locomotive | 215748 | [215748-super-locomotive.json](./215748-super-locomotive.json) |
 | Super Lode Runner | 41320 | [41320-super-lode-runner.json](./41320-super-lode-runner.json) |
 | Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
@@ -12782,6 +12786,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surreality | 71008 | [71008-surreality.json](./71008-surreality.json) |
 | Surreality Check | 387376 | [387376-surreality-check.json](./387376-surreality-check.json) |
 | SurrealVR | 33030 | [33030-surrealvr.json](./33030-surrealvr.json) |
+| Surrender | 313798 | [313798-surrender.json](./313798-surrender.json) |
+| Surrender 2 | 313799 | [313799-surrender-2.json](./313799-surrender-2.json) |
 | Surv | 51986 | [51986-surv.json](./51986-surv.json) |
 | Surv: Last Survival | 105791 | [105791-surv-last-survival.json](./105791-surv-last-survival.json) |
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
