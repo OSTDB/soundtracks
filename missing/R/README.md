@@ -2876,6 +2876,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
 | Riichi City | 187355 | [187355-riichi-city.json](./187355-riichi-city.json) |
+| RiiMajor | 294771 | [294771-riimajor.json](./294771-riimajor.json) |
+| RiiPlay | 294784 | [294784-riiplay.json](./294784-riiplay.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Rikki Kuu | 220708 | [220708-rikki-kuu.json](./220708-rikki-kuu.json) |
 | Riku to Johan: Kaeta Nimai no E | 123407 | [123407-riku-to-johan-kaeta-nimai-no-e.json](./123407-riku-to-johan-kaeta-nimai-no-e.json) |
