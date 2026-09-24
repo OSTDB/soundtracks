@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
+| Cannon Guys | 334859 | [334859-cannon-guys.json](./334859-cannon-guys.json) |
 | Cannon Momento | 179577 | [179577-cannon-momento.json](./179577-cannon-momento.json) |
 | Cannon Royale | 223503 | [223503-cannon-royale.json](./223503-cannon-royale.json) |
 | Cannon Strike | 94171 | [94171-cannon-strike.json](./94171-cannon-strike.json) |
@@ -1648,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Story Sex RPG 2007 | 145470 | [145470-cave-story-sex-rpg-2007.json](./145470-cave-story-sex-rpg-2007.json) |
 | Cave Story with a Fourth Ending | 384657 | [384657-cave-story-with-a-fourth-ending.json](./384657-cave-story-with-a-fourth-ending.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
+| Cave Up | 334848 | [334848-cave-up.json](./334848-cave-up.json) |
 | Cave Walker | 73226 | [73226-cave-walker.json](./73226-cave-walker.json) |
 | Cave! Cave! Deus Videt. | 388940 | [388940-cave-cave-deus-videt.json](./388940-cave-cave-deus-videt.json) |
 | Caveblazers: Together | 170909 | [170909-caveblazers-together.json](./170909-caveblazers-together.json) |
@@ -7416,6 +7418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybotron | 13835 | [13835-cybotron.json](./13835-cybotron.json) |
 | Cybrid | 154359 | [154359-cybrid.json](./154359-cybrid.json) |
 | Cybro | 389732 | [389732-cybro.json](./389732-cybro.json) |
+| Cycene | 334851 | [334851-cycene.json](./334851-cycene.json) |
 | Cyclanoid | 57679 | [57679-cyclanoid.json](./57679-cyclanoid.json) |
 | Cycle | 202381 | [202381-cycle.json](./202381-cycle.json) |
 | Cycle | 47997 | [47997-cycle.json](./47997-cycle.json) |
