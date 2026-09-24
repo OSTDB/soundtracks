@@ -7616,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Thomas Was Alone | 2291 | [2291-thomas-was-alone.json](./2291-thomas-was-alone.json) |
 | Thomas' Tales | 195614 | [195614-thomas-tales.json](./195614-thomas-tales.json) |
+| Thoom | 311069 | [311069-thoom.json](./311069-thoom.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thorn for the Villain: Reincarnated as an Extra in an Otome Game?! | 255770 | [255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json](./255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json) |
@@ -10145,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: KBNA Airport | 353321 | [353321-tower-simulator-3-kbna-airport.json](./353321-tower-simulator-3-kbna-airport.json) |
 | Tower! Simulator 3: KBOS Airport | 353318 | [353318-tower-simulator-3-kbos-airport.json](./353318-tower-simulator-3-kbos-airport.json) |
 | Tower! Simulator 3: KIAH Airport | 298704 | [298704-tower-simulator-3-kiah-airport.json](./298704-tower-simulator-3-kiah-airport.json) |
+| Tower! Simulator 3: KPIT Airport | 311097 | [311097-tower-simulator-3-kpit-airport.json](./311097-tower-simulator-3-kpit-airport.json) |
 | Tower! Simulator 3: KSFO Airport | 353328 | [353328-tower-simulator-3-ksfo-airport.json](./353328-tower-simulator-3-ksfo-airport.json) |
 | Tower! Simulator 3: KSLC Airport | 353332 | [353332-tower-simulator-3-kslc-airport.json](./353332-tower-simulator-3-kslc-airport.json) |
 | Tower! Simulator 3: LEBL Airport | 278505 | [278505-tower-simulator-3-lebl-airport.json](./278505-tower-simulator-3-lebl-airport.json) |
