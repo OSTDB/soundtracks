@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 5 R.E.V.O. | 322751 | [322751-virtua-fighter-5-r-e-v-o.json](./322751-virtua-fighter-5-r-e-v-o.json) |
 | Virtua Fighter 5 R.E.V.O. World Stage | 358822 | [358822-virtua-fighter-5-r-e-v-o-world-stage.json](./358822-virtua-fighter-5-r-e-v-o-world-stage.json) |
 | Virtua Fighter CG Portrait Series Vol. 8: Lion Rafale | 97818 | [97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json](./97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json) |
+| Virtua Fighter Crossroads | 325598 | [325598-virtua-fighter-crossroads.json](./325598-virtua-fighter-crossroads.json) |
 | Virtua Fighter: Fever Combo | 61862 | [61862-virtua-fighter-fever-combo.json](./61862-virtua-fighter-fever-combo.json) |
 | Virtua Quest | 1554 | [1554-virtua-quest.json](./1554-virtua-quest.json) |
 | Virtua Racing Demake | 181251 | [181251-virtua-racing-demake.json](./181251-virtua-racing-demake.json) |
@@ -1001,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Mother Home Chef Family Simulator | 103903 | [103903-virtual-mother-home-chef-family-simulator.json](./103903-virtual-mother-home-chef-family-simulator.json) |
 | Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
+| Virtual Pet | 325547 | [325547-virtual-pet.json](./325547-virtual-pet.json) |
 | Virtual Pet Dragon | 89687 | [89687-virtual-pet-dragon.json](./89687-virtual-pet-dragon.json) |
 | Virtual Pet Great White Shark | 106574 | [106574-virtual-pet-great-white-shark.json](./106574-virtual-pet-great-white-shark.json) |
 | Virtual Pet Horse | 90022 | [90022-virtual-pet-horse.json](./90022-virtual-pet-horse.json) |
