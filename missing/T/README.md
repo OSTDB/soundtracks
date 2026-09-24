@@ -9004,7 +9004,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titus the Fox | 65798 | [65798-titus-the-fox.json](./65798-titus-the-fox.json) |
 | Tivits: Math Game | 108967 | [108967-tivits-math-game.json](./108967-tivits-math-game.json) |
 | Tizahl's Quest | 152738 | [152738-tizahls-quest.json](./152738-tizahls-quest.json) |
+| Tizi Airport | 299219 | [299219-tizi-airport.json](./299219-tizi-airport.json) |
 | Tizi Town: Airport Adventure | 227481 | [227481-tizi-town-airport-adventure.json](./227481-tizi-town-airport-adventure.json) |
+| Tizi Town: Doll Dress Up Games | 299214 | [299214-tizi-town-doll-dress-up-games.json](./299214-tizi-town-doll-dress-up-games.json) |
+| Tizi Town: My Hotel Games | 299207 | [299207-tizi-town-my-hotel-games.json](./299207-tizi-town-my-hotel-games.json) |
+| Tizi Town: Room Design | 299216 | [299216-tizi-town-room-design.json](./299216-tizi-town-room-design.json) |
 | TJ's Reel Extreme CD Room | 206780 | [206780-tjs-reel-extreme-cd-room.json](./206780-tjs-reel-extreme-cd-room.json) |
 | Tkium Exclusion Area | 186335 | [186335-tkium-exclusion-area.json](./186335-tkium-exclusion-area.json) |
 | Tkium Underground | 225181 | [225181-tkium-underground.json](./225181-tkium-underground.json) |
@@ -9788,6 +9792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toss King | 226753 | [226753-toss-king.json](./226753-toss-king.json) |
 | Toss the Turtle | 131613 | [131613-toss-the-turtle.json](./131613-toss-the-turtle.json) |
 | Toss! | 138028 | [138028-toss.json](./138028-toss.json) |
+| Tota Life: Parent-kid Suite | 299206 | [299206-tota-life-parent-kid-suite.json](./299206-tota-life-parent-kid-suite.json) |
 | Total Annihilation | 918 | [918-total-annihilation.json](./918-total-annihilation.json) |
 | Total Annihilation: Kingdoms | 11614 | [11614-total-annihilation-kingdoms.json](./11614-total-annihilation-kingdoms.json) |
 | Total Annihilation: The Core Contingency | 71462 | [71462-total-annihilation-the-core-contingency.json](./71462-total-annihilation-the-core-contingency.json) |
