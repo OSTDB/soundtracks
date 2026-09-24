@@ -2726,6 +2726,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Cannons Ahoy! | 115675 | [115675-pirate-cannons-ahoy.json](./115675-pirate-cannons-ahoy.json) |
 | Pirate Chest Chess | 365875 | [365875-pirate-chest-chess.json](./365875-pirate-chest-chess.json) |
 | Pirate Chips | 391846 | [391846-pirate-chips.json](./391846-pirate-chips.json) |
+| Pirate Coast Escape | 315640 | [315640-pirate-coast-escape.json](./315640-pirate-coast-escape.json) |
+| Pirate Coast Escape 2 | 315641 | [315641-pirate-coast-escape-2.json](./315641-pirate-coast-escape-2.json) |
+| Pirate Coast Escape 3 | 315642 | [315642-pirate-coast-escape-3.json](./315642-pirate-coast-escape-3.json) |
+| Pirate Coast Escape 4 | 315644 | [315644-pirate-coast-escape-4.json](./315644-pirate-coast-escape-4.json) |
 | Pirate Code | 62727 | [62727-pirate-code.json](./62727-pirate-code.json) |
 | Pirate Cove Simulator | 326381 | [326381-pirate-cove-simulator.json](./326381-pirate-cove-simulator.json) |
 | Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
