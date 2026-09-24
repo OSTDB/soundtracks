@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Diamonds | 260770 | [260770-fast-diamonds.json](./260770-fast-diamonds.json) |
 | Fast Drive: Extreme Race & Drift | 88002 | [88002-fast-drive-extreme-race-and-drift.json](./88002-fast-drive-extreme-race-and-drift.json) |
 | Fast Euro Train Driver Sim | 213387 | [213387-fast-euro-train-driver-sim.json](./213387-fast-euro-train-driver-sim.json) |
+| Fast Five | 332627 | [332627-fast-five.json](./332627-fast-five.json) |
 | Fast Food | 14454 | [14454-fast-food.json](./14454-fast-food.json) |
 | Fast Food | 18287 | [18287-fast-food.json](./18287-fast-food.json) |
 | Fast Food Chef | 234745 | [234745-fast-food-chef.json](./234745-fast-food-chef.json) |
