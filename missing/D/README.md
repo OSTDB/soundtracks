@@ -1790,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue Odyssey | 244475 | [244475-deep-blue-odyssey.json](./244475-deep-blue-odyssey.json) |
 | Deep Blue Sea | 73300 | [73300-deep-blue-sea.json](./73300-deep-blue-sea.json) |
 | Deep Blue Sushi | 414377 | [414377-deep-blue-sushi.json](./414377-deep-blue-sushi.json) |
+| Deep Blue: Devour and Evolve | 334299 | [334299-deep-blue-devour-and-evolve.json](./334299-deep-blue-devour-and-evolve.json) |
 | Deep Chalk Dive | 123613 | [123613-deep-chalk-dive.json](./123613-deep-chalk-dive.json) |
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
 | Deep Dark Fight | 81702 | [81702-deep-dark-fight.json](./81702-deep-dark-fight.json) |
@@ -2663,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
 | Detective 26 | 390789 | [390789-detective-26.json](./390789-detective-26.json) |
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
+| Detective Araka | 334313 | [334313-detective-araka.json](./334313-detective-araka.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
 | Detective Boiled-Hard / Case File - Death of the Space Dino Hunter | 393455 | [393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json](./393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json) |
@@ -4143,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
 | Doki Doki Another Moment With You | 333604 | [333604-doki-doki-another-moment-with-you.json](./333604-doki-doki-another-moment-with-you.json) |
 | Doki Doki Brazilian Club Puts! | 332837 | [332837-doki-doki-brazilian-club-puts.json](./332837-doki-doki-brazilian-club-puts.json) |
+| Doki Doki But an Old Dog Tries To Learn New Tricks and The Literature Club Tries to Help It: A Dog Story | 334280 | [334280-doki-doki-but-an-old-dog-tries-to-learn-new-tricks-and-the-literature-club-tries-to-help-it-a-dog-story.json](./334280-doki-doki-but-an-old-dog-tries-to-learn-new-tricks-and-the-literature-club-tries-to-help-it-a-dog-story.json) |
 | Doki Doki Card League | 62429 | [62429-doki-doki-card-league.json](./62429-doki-doki-card-league.json) |
 | Doki Doki Carpe Diem: Somnium | 333622 | [333622-doki-doki-carpe-diem-somnium.json](./333622-doki-doki-carpe-diem-somnium.json) |
 | Doki Doki Chefs | 185083 | [185083-doki-doki-chefs.json](./185083-doki-doki-chefs.json) |
@@ -4156,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Literature Club | 309582 | [309582-doki-doki-literature-club.json](./309582-doki-doki-literature-club.json) |
 | Doki Doki Literature Club Plus! | 152122 | [152122-doki-doki-literature-club-plus.json](./152122-doki-doki-literature-club-plus.json) |
 | Doki Doki Literature Club Plus!: Premium Edition | 166194 | [166194-doki-doki-literature-club-plus-premium-edition.json](./166194-doki-doki-literature-club-plus-premium-edition.json) |
+| Doki Doki Literature Club The Mod In Which Natsuki Has A Nice Day And Nothing Horrible Happens To Her, Thank You Very Much | 334279 | [334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json](./334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json) |
 | Doki Doki Literature Club: Return to the Portrait | 222917 | [222917-doki-doki-literature-club-return-to-the-portrait.json](./222917-doki-doki-literature-club-return-to-the-portrait.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
@@ -6194,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duet Night Abyss: Paradise Prelude | 413601 | [413601-duet-night-abyss-paradise-prelude.json](./413601-duet-night-abyss-paradise-prelude.json) |
 | Duet Night Abyss: Silver Torrent, Rising Star | 413599 | [413599-duet-night-abyss-silver-torrent-rising-star.json](./413599-duet-night-abyss-silver-torrent-rising-star.json) |
 | Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
+| Dug Out | 334314 | [334314-dug-out.json](./334314-dug-out.json) |
 | Duga | 111752 | [111752-duga.json](./111752-duga.json) |
 | Dugashoba! | 202251 | [202251-dugashoba.json](./202251-dugashoba.json) |
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
@@ -6707,6 +6712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwell | 394155 | [394155-dwell.json](./394155-dwell.json) |
 | Dwelling | 309365 | [309365-dwelling.json](./309365-dwelling.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
+| DX Legends | 334319 | [334319-dx-legends.json](./334319-dx-legends.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
 | Dyebreaker | 349389 | [349389-dyebreaker.json](./349389-dyebreaker.json) |
