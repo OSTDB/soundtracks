@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teku | 274499 | [274499-teku.json](./274499-teku.json) |
 | Tele-Doodle | 220125 | [220125-tele-doodle.json](./220125-tele-doodle.json) |
 | Tele-Shibai Wii | 64427 | [64427-tele-shibai-wii.json](./64427-tele-shibai-wii.json) |
+| Telealiens | 333183 | [333183-telealiens.json](./333183-telealiens.json) |
 | TeleBlast | 108420 | [108420-teleblast.json](./108420-teleblast.json) |
 | Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
 | Teleglitch: Die More Edition | 7884 | [7884-teleglitch-die-more-edition.json](./7884-teleglitch-die-more-edition.json) |
@@ -6914,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
 | The Void | 3273 | [3273-the-void.json](./3273-the-void.json) |
+| The Void Below | 333167 | [333167-the-void-below.json](./333167-the-void-below.json) |
 | The Void Between | 282022 | [282022-the-void-between.json](./282022-the-void-between.json) |
 | The Void Corridors | 337123 | [337123-the-void-corridors.json](./337123-the-void-corridors.json) |
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
@@ -7466,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
 | This is Interesting | 338943 | [338943-this-is-interesting.json](./338943-this-is-interesting.json) |
+| This is Kiko | 333202 | [333202-this-is-kiko.json](./333202-this-is-kiko.json) |
 | This Is Love | 370673 | [370673-this-is-love.json](./370673-this-is-love.json) |
 | This Is Not A Love Letter | 339951 | [339951-this-is-not-a-love-letter.json](./339951-this-is-not-a-love-letter.json) |
 | This Is Not For You | 417522 | [417522-this-is-not-for-you.json](./417522-this-is-not-for-you.json) |
@@ -8665,6 +8668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Divide | 325631 | [325631-tiny-divide.json](./325631-tiny-divide.json) |
 | Tiny Dragon Story | 247583 | [247583-tiny-dragon-story.json](./247583-tiny-dragon-story.json) |
 | Tiny Dream Home | 358313 | [358313-tiny-dream-home.json](./358313-tiny-dream-home.json) |
+| Tiny Duck Hunt 3D | 333170 | [333170-tiny-duck-hunt-3d.json](./333170-tiny-duck-hunt-3d.json) |
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
 | Tiny Escape | 392270 | [392270-tiny-escape.json](./392270-tiny-escape.json) |
 | Tiny Europe | 258033 | [258033-tiny-europe.json](./258033-tiny-europe.json) |
@@ -11703,6 +11707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Baby | 182521 | [182521-tumble-baby.json](./182521-tumble-baby.json) |
 | Tumble Ball | 295567 | [295567-tumble-ball.json](./295567-tumble-ball.json) |
 | Tumble Bees HD | 355008 | [355008-tumble-bees-hd.json](./355008-tumble-bees-hd.json) |
+| Tumble Egg | 333184 | [333184-tumble-egg.json](./333184-tumble-egg.json) |
 | Tumble Marble | 393605 | [393605-tumble-marble.json](./393605-tumble-marble.json) |
 | Tumble Toys: Aviation | 215897 | [215897-tumble-toys-aviation.json](./215897-tumble-toys-aviation.json) |
 | Tumble Troopers | 327214 | [327214-tumble-troopers.json](./327214-tumble-troopers.json) |
