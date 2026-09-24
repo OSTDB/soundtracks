@@ -3636,7 +3636,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
 | Shwip | 71778 | [71778-shwip.json](./71778-shwip.json) |
 | Shy Bunnies | 95834 | [95834-shy-bunnies.json](./95834-shy-bunnies.json) |
+| Shy Cats + Shy Dogs | 332039 | [332039-shy-cats-shy-dogs.json](./332039-shy-cats-shy-dogs.json) |
 | Shy Cats Hidden Orchestra 2 | 409556 | [409556-shy-cats-hidden-orchestra-2.json](./409556-shy-cats-hidden-orchestra-2.json) |
+| Shy Cats Hidden Tracks: Vol. 1 | 332038 | [332038-shy-cats-hidden-tracks-vol-1.json](./332038-shy-cats-hidden-tracks-vol-1.json) |
 | Shy Cats: Hidden Orchestra | 235872 | [235872-shy-cats-hidden-orchestra.json](./235872-shy-cats-hidden-orchestra.json) |
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
 | Shy Dogs: Hidden Orchestra 2 | 407461 | [407461-shy-dogs-hidden-orchestra-2.json](./407461-shy-dogs-hidden-orchestra-2.json) |
@@ -4414,7 +4416,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelly Screamer | 351276 | [351276-skelly-screamer.json](./351276-skelly-screamer.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
+| Sker Ritual: Draigs Terror | 332040 | [332040-sker-ritual-draigs-terror.json](./332040-sker-ritual-draigs-terror.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
+| Sker Ritual: Invasion of the Brain Eaters | 332041 | [332041-sker-ritual-invasion-of-the-brain-eaters.json](./332041-sker-ritual-invasion-of-the-brain-eaters.json) |
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
@@ -8992,6 +8996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trigon | 54399 | [54399-star-trigon.json](./54399-star-trigon.json) |
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
 | Star Troopers: Combat Force | 411568 | [411568-star-troopers-combat-force.json](./411568-star-troopers-combat-force.json) |
+| Star Trucker: Amped Customization Pack | 332043 | [332043-star-trucker-amped-customization-pack.json](./332043-star-trucker-amped-customization-pack.json) |
 | Star Trucker: Cultivation Content Pack | 415856 | [415856-star-trucker-cultivation-content-pack.json](./415856-star-trucker-cultivation-content-pack.json) |
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
 | Star Vikings Forever | 51899 | [51899-star-vikings-forever.json](./51899-star-vikings-forever.json) |
@@ -10606,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuffo the Puzzle Bot | 236848 | [236848-stuffo-the-puzzle-bot.json](./236848-stuffo-the-puzzle-bot.json) |
 | Stug | 180219 | [180219-stug.json](./180219-stug.json) |
 | Stumble And Fall | 310388 | [310388-stumble-and-fall.json](./310388-stumble-and-fall.json) |
+| Stumble Guys: Polygon Guy Banger | 332037 | [332037-stumble-guys-polygon-guy-banger.json](./332037-stumble-guys-polygon-guy-banger.json) |
 | Stumblehill | 117510 | [117510-stumblehill.json](./117510-stumblehill.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
