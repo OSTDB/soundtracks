@@ -4974,6 +4974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boring Movies: Spooky Bunny | 362308 | [362308-boring-movies-spooky-bunny.json](./362308-boring-movies-spooky-bunny.json) |
 | Boris and the Dark Survival: Symphony of Shadows | 298711 | [298711-boris-and-the-dark-survival-symphony-of-shadows.json](./298711-boris-and-the-dark-survival-symphony-of-shadows.json) |
 | Boris and the Dark Survival: The Unleashed | 298675 | [298675-boris-and-the-dark-survival-the-unleashed.json](./298675-boris-and-the-dark-survival-the-unleashed.json) |
+| Boris and the Dark Survival: The Wolf Trials | 298634 | [298634-boris-and-the-dark-survival-the-wolf-trials.json](./298634-boris-and-the-dark-survival-the-wolf-trials.json) |
 | Boris the Mutant Bear with a Gun | 104024 | [104024-boris-the-mutant-bear-with-a-gun.json](./104024-boris-the-mutant-bear-with-a-gun.json) |
 | Boris the Sloth | 192328 | [192328-boris-the-sloth.json](./192328-boris-the-sloth.json) |
 | Born 2 Run : Legend of Destiny | 118203 | [118203-born-2-run-legend-of-destiny.json](./118203-born-2-run-legend-of-destiny.json) |
