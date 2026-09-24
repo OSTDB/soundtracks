@@ -4768,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniWorld | 184032 | [184032-miniworld.json](./184032-miniworld.json) |
 | Miniworld Royale | 208969 | [208969-miniworld-royale.json](./208969-miniworld-royale.json) |
 | Minky | 246979 | [246979-minky.json](./246979-minky.json) |
+| Minky Momo no Panic Ball | 310519 | [310519-minky-momo-no-panic-ball.json](./310519-minky-momo-no-panic-ball.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna de Noujiru! Warumono Nage-houdai! Ningen Medal Game | 358495 | [358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json](./358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json) |
@@ -5990,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Eater | 59659 | [59659-moon-eater.json](./59659-moon-eater.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon Farming | 161352 | [161352-moon-farming.json](./161352-moon-farming.json) |
+| Moon Ghost | 310525 | [310525-moon-ghost.json](./310525-moon-ghost.json) |
 | Moon Intern | 63547 | [63547-moon-intern.json](./63547-moon-intern.json) |
 | Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
