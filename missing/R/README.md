@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor | 352790 | [352790-raptor.json](./352790-raptor.json) |
 | Raptor Evolution: Complete Edition | 385207 | [385207-raptor-evolution-complete-edition.json](./385207-raptor-evolution-complete-edition.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
+| Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
 | Rapz | 264325 | [264325-rapz.json](./264325-rapz.json) |
 | Rare Collection 1 | 365170 | [365170-rare-collection-1.json](./365170-rare-collection-1.json) |
 | Rarity | 307045 | [307045-rarity.json](./307045-rarity.json) |
@@ -1725,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
 | Reflex Master: Sight | 342729 | [342729-reflex-master-sight.json](./342729-reflex-master-sight.json) |
 | Reflex Unit AR | 197758 | [197758-reflex-unit-ar.json](./197758-reflex-unit-ar.json) |
+| Reflex Unit: Strike Ops | 304653 | [304653-reflex-unit-strike-ops.json](./304653-reflex-unit-strike-ops.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
 | Reformpunk | 367604 | [367604-reformpunk.json](./367604-reformpunk.json) |
 | Refrain Blue | 395006 | [395006-refrain-blue.json](./395006-refrain-blue.json) |
@@ -3163,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City: Knights of Justice | 36549 | [36549-river-city-knights-of-justice.json](./36549-river-city-knights-of-justice.json) |
 | River Climbing | 333166 | [333166-river-climbing.json](./333166-river-climbing.json) |
 | River Crossing IQ - Trivia Quiz | 117749 | [117749-river-crossing-iq-trivia-quiz.json](./117749-river-crossing-iq-trivia-quiz.json) |
+| River God: Enshrouded Current | 304627 | [304627-river-god-enshrouded-current.json](./304627-river-god-enshrouded-current.json) |
 | River King: A Wonderful Journey | 20518 | [20518-river-king-a-wonderful-journey.json](./20518-river-king-a-wonderful-journey.json) |
 | River King: Mystic Valley | 20520 | [20520-river-king-mystic-valley.json](./20520-river-king-mystic-valley.json) |
 | River Legends | 174206 | [174206-river-legends.json](./174206-river-legends.json) |
@@ -4660,11 +4663,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
 | Rune Raiders | 22327 | [22327-rune-raiders.json](./22327-rune-raiders.json) |
 | Rune Rhetoric | 280902 | [280902-rune-rhetoric.json](./280902-rune-rhetoric.json) |
+| Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
 | Rune Tavern | 407341 | [407341-rune-tavern.json](./407341-rune-tavern.json) |
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
 | Rune: Gold | 300409 | [300409-rune-gold.json](./300409-rune-gold.json) |
 | Runebook | 413777 | [413777-runebook.json](./413777-runebook.json) |
 | Runebound | 390671 | [390671-runebound.json](./390671-runebound.json) |
+| Runecraft | 304644 | [304644-runecraft.json](./304644-runecraft.json) |
 | Runefall | 27184 | [27184-runefall.json](./27184-runefall.json) |
 | Runeflame: Legacy of the Druids | 340558 | [340558-runeflame-legacy-of-the-druids.json](./340558-runeflame-legacy-of-the-druids.json) |
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
