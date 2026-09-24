@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Legs | 301002 | [301002-little-legs.json](./301002-little-legs.json) |
 | Little Leonardo | 395715 | [395715-little-leonardo.json](./395715-little-leonardo.json) |
 | Little Library | 333951 | [333951-little-library.json](./333951-little-library.json) |
+| Little Life: Island Tales | 308895 | [308895-little-life-island-tales.json](./308895-little-life-island-tales.json) |
 | Little Lighthouse of Horror | 329694 | [329694-little-lighthouse-of-horror.json](./329694-little-lighthouse-of-horror.json) |
 | Little Lives | 149097 | [149097-little-lives.json](./149097-little-lives.json) |
 | Little Loki & The Yggdrasil Maze | 265630 | [265630-little-loki-and-the-yggdrasil-maze.json](./265630-little-loki-and-the-yggdrasil-maze.json) |
