@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
 | Cannonball Follies 2 | 335471 | [335471-cannonball-follies-2.json](./335471-cannonball-follies-2.json) |
 | Cannondale Cup | 42600 | [42600-cannondale-cup.json](./42600-cannondale-cup.json) |
+| Cannoneer | 323302 | [323302-cannoneer.json](./323302-cannoneer.json) |
 | Cannons-Defenders: Steam Edition | 28903 | [28903-cannons-defenders-steam-edition.json](./28903-cannons-defenders-steam-edition.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
 | CanopySim: Skydive Landing Simulation | 141788 | [141788-canopysim-skydive-landing-simulation.json](./141788-canopysim-skydive-landing-simulation.json) |
@@ -810,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardcaptor Sakura: Repaint Record | 137637 | [137637-cardcaptor-sakura-repaint-record.json](./137637-cardcaptor-sakura-repaint-record.json) |
 | Cardchery | 267487 | [267487-cardchery.json](./267487-cardchery.json) |
 | CardCraft | 76552 | [76552-cardcraft.json](./76552-cardcraft.json) |
+| Carderia | 323309 | [323309-carderia.json](./323309-carderia.json) |
 | Cardfight!! Vanguard Dear Days - Character Set 09: Sophie Belle | 270201 | [270201-cardfight-vanguard-dear-days-character-set-09-sophie-belle.json](./270201-cardfight-vanguard-dear-days-character-set-09-sophie-belle.json) |
 | Cardfight!! Vanguard Dear Days: Character Set 08 - Jinki Mukae | 270192 | [270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json](./270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json) |
 | Cardfight!! Vanguard Dear Days: Character Set 10 - Samuel Fredson | 270191 | [270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json](./270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json) |
@@ -3739,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Combat: A Bridge Too Far | 639 | [639-close-combat-a-bridge-too-far.json](./639-close-combat-a-bridge-too-far.json) |
 | Close Contact | 149923 | [149923-close-contact.json](./149923-close-contact.json) |
 | Close Encounter VR | 388407 | [388407-close-encounter-vr.json](./388407-close-encounter-vr.json) |
+| Close Encounters | 323288 | [323288-close-encounters.json](./323288-close-encounters.json) |
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
 | Close Shell | 246437 | [246437-close-shell.json](./246437-close-shell.json) |
@@ -6529,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Control VR | 295788 | [295788-crowd-control-vr.json](./295788-crowd-control-vr.json) |
 | Crowd King | 185106 | [185106-crowd-king.json](./185106-crowd-king.json) |
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
+| Crowd Run | 323304 | [323304-crowd-run.json](./323304-crowd-run.json) |
 | Crowd Sign: Emission | 190080 | [190080-crowd-sign-emission.json](./190080-crowd-sign-emission.json) |
 | Crowd Smashers | 29176 | [29176-crowd-smashers.json](./29176-crowd-smashers.json) |
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
