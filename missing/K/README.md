@@ -2269,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoki | 172160 | [172160-kyoki.json](./172160-kyoki.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
 | Kyonyuu Hitozuma Shimai wa Nakadashi Niku Benki: Oi no Wakai Kyokon ni Soku Ochi Mesu Yorokobi de Netori Haramase Onedari | 59029 | [59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json](./59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json) |
+| Kyora | 325587 | [325587-kyora.json](./325587-kyora.json) |
 | Kyoryu | 315130 | [315130-kyoryu.json](./315130-kyoryu.json) |
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
 | Kyoto Maiko Monogatari | 333558 | [333558-kyoto-maiko-monogatari.json](./333558-kyoto-maiko-monogatari.json) |
