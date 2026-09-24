@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Puzzlers: Synthwave Cars | 288788 | [288788-og-puzzlers-synthwave-cars.json](./288788-og-puzzlers-synthwave-cars.json) |
 | OG Puzzlers: Synthwave Dinosaurs | 291234 | [291234-og-puzzlers-synthwave-dinosaurs.json](./291234-og-puzzlers-synthwave-dinosaurs.json) |
 | OG Puzzlers: Synthwave Vampires | 341502 | [341502-og-puzzlers-synthwave-vampires.json](./341502-og-puzzlers-synthwave-vampires.json) |
+| OG Puzzlers: Winter 2K23 | 287188 | [287188-og-puzzlers-winter-2k23.json](./287188-og-puzzlers-winter-2k23.json) |
 | OGame | 17257 | [17257-ogame.json](./17257-ogame.json) |
 | Ogami Ichiro Funtouki: Sakura Taisen Kayou Show - Benitokage Yori | 62127 | [62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json](./62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json) |
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
