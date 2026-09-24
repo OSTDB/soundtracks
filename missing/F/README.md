@@ -702,6 +702,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
+| Fantasy Beauties: Brunhilda Level Pack | 312102 | [312102-fantasy-beauties-brunhilda-level-pack.json](./312102-fantasy-beauties-brunhilda-level-pack.json) |
+| Fantasy Beauties: Fiona Level Pack | 312103 | [312103-fantasy-beauties-fiona-level-pack.json](./312103-fantasy-beauties-fiona-level-pack.json) |
+| Fantasy Beauties: Ivy Level Pack | 312104 | [312104-fantasy-beauties-ivy-level-pack.json](./312104-fantasy-beauties-ivy-level-pack.json) |
+| Fantasy Beauties: Michiko Level Pack | 312105 | [312105-fantasy-beauties-michiko-level-pack.json](./312105-fantasy-beauties-michiko-level-pack.json) |
+| Fantasy Beauties: Selene Level Pack | 312106 | [312106-fantasy-beauties-selene-level-pack.json](./312106-fantasy-beauties-selene-level-pack.json) |
+| Fantasy Beauties: Sigrún Level Pack | 312107 | [312107-fantasy-beauties-sigrun-level-pack.json](./312107-fantasy-beauties-sigrun-level-pack.json) |
 | Fantasy Blacksmith Simulator | 410333 | [410333-fantasy-blacksmith-simulator.json](./410333-fantasy-blacksmith-simulator.json) |
 | Fantasy Brothel Manager | 359037 | [359037-fantasy-brothel-manager.json](./359037-fantasy-brothel-manager.json) |
 | Fantasy Burger | 354537 | [354537-fantasy-burger.json](./354537-fantasy-burger.json) |
@@ -3550,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
 | Forced: Eternal Arenas | 80540 | [80540-forced-eternal-arenas.json](./80540-forced-eternal-arenas.json) |
 | Forceline | 63579 | [63579-forceline.json](./63579-forceline.json) |
+| Forces of Ether | 312137 | [312137-forces-of-ether.json](./312137-forces-of-ether.json) |
 | Ford Bold Moves Street Racing | 43384 | [43384-ford-bold-moves-street-racing.json](./43384-ford-bold-moves-street-racing.json) |
 | Ford Mustang: The Legend Lives | 43306 | [43306-ford-mustang-the-legend-lives.json](./43306-ford-mustang-the-legend-lives.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
