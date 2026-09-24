@@ -1263,8 +1263,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper Recon | 360639 | [360639-reaper-recon.json](./360639-reaper-recon.json) |
 | Reaper Rules | 331435 | [331435-reaper-rules.json](./331435-reaper-rules.json) |
 | Reaper's Awakening! | 363896 | [363896-reapers-awakening.json](./363896-reapers-awakening.json) |
+| Reaper's Goodbye | 297559 | [297559-reapers-goodbye.json](./297559-reapers-goodbye.json) |
 | Reaper's Isle | 255968 | [255968-reapers-isle.json](./255968-reapers-isle.json) |
 | Reaper's Odyssey | 319809 | [319809-reapers-odyssey.json](./319809-reapers-odyssey.json) |
+| Reaper's Rite | 297561 | [297561-reapers-rite.json](./297561-reapers-rite.json) |
 | Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
 | Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
 | Reaprieve | 347907 | [347907-reaprieve.json](./347907-reaprieve.json) |
@@ -2777,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer Mobile | 107012 | [107012-ridge-racer-mobile.json](./107012-ridge-racer-mobile.json) |
 | Ridge Racer Revolution | 18697 | [18697-ridge-racer-revolution.json](./18697-ridge-racer-revolution.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
+| Ridge Racer: Turbo Mode | 297592 | [297592-ridge-racer-turbo-mode.json](./297592-ridge-racer-turbo-mode.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
 | Ridgewood Road | 177397 | [177397-ridgewood-road.json](./177397-ridgewood-road.json) |
 | Ridiculous Glitching | 332639 | [332639-ridiculous-glitching.json](./332639-ridiculous-glitching.json) |
@@ -3958,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ROM: Extraction | 26549 | [26549-rom-extraction.json](./26549-rom-extraction.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
+| Romace | 297572 | [297572-romace.json](./297572-romace.json) |
 | Roman City Tycoon | 300834 | [300834-roman-city-tycoon.json](./300834-roman-city-tycoon.json) |
 | Roman Empire vs. Barbarians | 235734 | [235734-roman-empire-vs-barbarians.json](./235734-roman-empire-vs-barbarians.json) |
 | Roman Empire Wars | 158644 | [158644-roman-empire-wars.json](./158644-roman-empire-wars.json) |
@@ -4687,6 +4691,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Rhetoric | 280902 | [280902-rune-rhetoric.json](./280902-rune-rhetoric.json) |
 | Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
 | Rune Tavern | 407341 | [407341-rune-tavern.json](./407341-rune-tavern.json) |
+| Rune Worth 2: Jikuu no Shinsen | 297593 | [297593-rune-worth-2-jikuu-no-shinsen.json](./297593-rune-worth-2-jikuu-no-shinsen.json) |
+| Rune Worth 3: Shinseiki Kourin | 297594 | [297594-rune-worth-3-shinseiki-kourin.json](./297594-rune-worth-3-shinseiki-kourin.json) |
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
 | Rune: Gold | 300409 | [300409-rune-gold.json](./300409-rune-gold.json) |
 | Runebook | 413777 | [413777-runebook.json](./413777-runebook.json) |
