@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Bug Arcade | 332638 | [332638-lady-bug-arcade.json](./332638-lady-bug-arcade.json) |
 | Lady Death Demonicron | 310761 | [310761-lady-death-demonicron.json](./310761-lady-death-demonicron.json) |
 | Lady Dracula | 350027 | [350027-lady-dracula.json](./350027-lady-dracula.json) |
+| Lady Dracula's Mansion | 317978 | [317978-lady-draculas-mansion.json](./317978-lady-draculas-mansion.json) |
 | Lady Gaga Revenge 2 | 66039 | [66039-lady-gaga-revenge-2.json](./66039-lady-gaga-revenge-2.json) |
 | Lady Godiva: Naked Eye | 310741 | [310741-lady-godiva-naked-eye.json](./310741-lady-godiva-naked-eye.json) |
 | Lady in tomb: Beneath the ocean | 220749 | [220749-lady-in-tomb-beneath-the-ocean.json](./220749-lady-in-tomb-beneath-the-ocean.json) |
