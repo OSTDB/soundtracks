@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlehold | 144146 | [144146-castlehold.json](./144146-castlehold.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
 | Castlepoint | 189036 | [189036-castlepoint.json](./189036-castlepoint.json) |
+| Castlequest | 330925 | [330925-castlequest.json](./330925-castlequest.json) |
 | Castlequest | 48070 | [48070-castlequest.json](./48070-castlequest.json) |
 | Castles | 11267 | [11267-castles.json](./11267-castles.json) |
 | Castles & Castellans | 406688 | [406688-castles-and-castellans.json](./406688-castles-and-castellans.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
 | Catch Royale | 368667 | [368667-catch-royale.json](./368667-catch-royale.json) |
 | Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
+| Catch the Candy: Remastered | 330922 | [330922-catch-the-candy-remastered.json](./330922-catch-the-candy-remastered.json) |
 | Catch The Fox | 247499 | [247499-catch-the-fox.json](./247499-catch-the-fox.json) |
 | Catch the Moths | 359429 | [359429-catch-the-moths.json](./359429-catch-the-moths.json) |
 | Catch The Rabbit | 348244 | [348244-catch-the-rabbit.json](./348244-catch-the-rabbit.json) |
@@ -1601,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catz | 144796 | [144796-catz.json](./144796-catz.json) |
 | Catz 4 | 159146 | [159146-catz-4.json](./159146-catz-4.json) |
 | Catz: Your Computer Petz | 79286 | [79286-catz-your-computer-petz.json](./79286-catz-your-computer-petz.json) |
+| Caught by a Spider | 330917 | [330917-caught-by-a-spider.json](./330917-caught-by-a-spider.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 368495 | [368495-cauldron-chaos.json](./368495-cauldron-chaos.json) |
 | Cauldron Forager | 362916 | [362916-cauldron-forager.json](./362916-cauldron-forager.json) |
@@ -2345,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Puzzles: 100 by Liam | 163414 | [163414-chess-puzzles-100-by-liam.json](./163414-chess-puzzles-100-by-liam.json) |
 | Chess Puzzles: 100 by Tyrone | 163413 | [163413-chess-puzzles-100-by-tyrone.json](./163413-chess-puzzles-100-by-tyrone.json) |
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
+| Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Universe | 357416 | [357416-chess-universe.json](./357416-chess-universe.json) |
 | Chess vs. Chat | 203930 | [203930-chess-vs-chat.json](./203930-chess-vs-chat.json) |
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
@@ -3120,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
 | Ciphercell | 144753 | [144753-ciphercell.json](./144753-ciphercell.json) |
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
+| Cipheur | 330901 | [330901-cipheur.json](./330901-cipheur.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
 | Circa Infinity | 16312 | [16312-circa-infinity.json](./16312-circa-infinity.json) |
 | Circadial | 328645 | [328645-circadial.json](./328645-circadial.json) |
