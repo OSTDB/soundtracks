@@ -2429,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
 | The Batchelor | 301406 | [301406-the-batchelor.json](./301406-the-batchelor.json) |
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
+| The Bathrooms | 288819 | [288819-the-bathrooms.json](./288819-the-bathrooms.json) |
 | The Batman: The Cobblebot Caper | 338352 | [338352-the-batman-the-cobblebot-caper.json](./338352-the-batman-the-cobblebot-caper.json) |
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
 | The Battle for Christmas | 326210 | [326210-the-battle-for-christmas.json](./326210-the-battle-for-christmas.json) |
@@ -5017,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loop VR | 97919 | [97919-the-loop-vr.json](./97919-the-loop-vr.json) |
 | The Loopholes Chronicles | 124185 | [124185-the-loopholes-chronicles.json](./124185-the-loopholes-chronicles.json) |
 | The Loopler | 377087 | [377087-the-loopler.json](./377087-the-loopler.json) |
+| The Lord of Hexa | 288839 | [288839-the-lord-of-hexa.json](./288839-the-lord-of-hexa.json) |
 | The Lord of the Creatures | 137641 | [137641-the-lord-of-the-creatures.json](./137641-the-lord-of-the-creatures.json) |
 | The Lord of the Parties x Amane Momo | 220627 | [220627-the-lord-of-the-parties-x-amane-momo.json](./220627-the-lord-of-the-parties-x-amane-momo.json) |
 | The Lord of the Parties x Kokonoe Yukari | 235733 | [235733-the-lord-of-the-parties-x-kokonoe-yukari.json](./235733-the-lord-of-the-parties-x-kokonoe-yukari.json) |
@@ -7517,6 +7519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Themis | 327856 | [327856-themis.json](./327856-themis.json) |
 | TheMist | 116335 | [116335-themist.json](./116335-themist.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
+| Theory | 288813 | [288813-theory.json](./288813-theory.json) |
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
 | Theos: Cities of Myth | 403819 | [403819-theos-cities-of-myth.json](./403819-theos-cities-of-myth.json) |
 | TheoTown | 109152 | [109152-theotown.json](./109152-theotown.json) |
@@ -10208,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
 | Tour de France 2014 | 80876 | [80876-tour-de-france-2014.json](./80876-tour-de-france-2014.json) |
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
+| Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
 | Tourist | 89206 | [89206-tourist.json](./89206-tourist.json) |
