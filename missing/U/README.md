@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umi no Oh! Yah! | 384496 | [384496-umi-no-oh-yah.json](./384496-umi-no-oh-yah.json) |
 | Umi Tsuri Mejin: Suzuki-hen | 37773 | [37773-umi-tsuri-mejin-suzuki-hen.json](./37773-umi-tsuri-mejin-suzuki-hen.json) |
 | Umichan Sorani | 201147 | [201147-umichan-sorani.json](./201147-umichan-sorani.json) |
+| Umidorino Gaku no Seishin Kanteiroku | 308879 | [308879-umidorino-gaku-no-seishin-kanteiroku.json](./308879-umidorino-gaku-no-seishin-kanteiroku.json) |
 | Umigari | 372200 | [372200-umigari.json](./372200-umigari.json) |
 | Umihara Kawase BaZooKa! | 122352 | [122352-umihara-kawase-bazooka.json](./122352-umihara-kawase-bazooka.json) |
 | Umihara Kawase Fresh! | 108155 | [108155-umihara-kawase-fresh.json](./108155-umihara-kawase-fresh.json) |
