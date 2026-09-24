@@ -512,7 +512,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
 | 2005 Minigame Multicart | 40792 | [40792-2005-minigame-multicart.json](./40792-2005-minigame-multicart.json) |
 | 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
+| 2017 Collection | 327362 | [327362-2017-collection.json](./327362-2017-collection.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
+| 2024: Mosaic Retrospective | 327347 | [327347-2024-mosaic-retrospective.json](./327347-2024-mosaic-retrospective.json) |
 | 2025 Advent Calendar | 383072 | [383072-2025-advent-calendar.json](./383072-2025-advent-calendar.json) |
 | 2029 Online | 27733 | [27733-2029-online.json](./27733-2029-online.json) |
 | 2033 The Order | 308940 | [308940-2033-the-order.json](./308940-2033-the-order.json) |
