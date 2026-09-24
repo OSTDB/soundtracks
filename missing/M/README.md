@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
+| Mandragora Seeker in the Creep Zone | 329200 | [329200-mandragora-seeker-in-the-creep-zone.json](./329200-mandragora-seeker-in-the-creep-zone.json) |
 | Mandragora: Whispers of the Witch Tree | 191427 | [191427-mandragora-whispers-of-the-witch-tree.json](./191427-mandragora-whispers-of-the-witch-tree.json) |
 | Mandragora: Whispers of the Witch Tree - Digital Deluxe Edition | 362373 | [362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json](./362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
@@ -3273,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
+| Menticide | 329201 | [329201-menticide.json](./329201-menticide.json) |
 | Mentori Puzzle | 113471 | [113471-mentori-puzzle.json](./113471-mentori-puzzle.json) |
 | Mentula Macanus: Apocolocyntosis | 22420 | [22420-mentula-macanus-apocolocyntosis.json](./22420-mentula-macanus-apocolocyntosis.json) |
 | Meow | 334677 | [334677-meow.json](./334677-meow.json) |
@@ -6213,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morton's Fork | 56128 | [56128-mortons-fork.json](./56128-mortons-fork.json) |
 | MorTown | 383528 | [383528-mortown.json](./383528-mortown.json) |
 | Mortu | 408929 | [408929-mortu.json](./408929-mortu.json) |
+| Mortuar | 329073 | [329073-mortuar.json](./329073-mortuar.json) |
 | Mortuum | 13090 | [13090-mortuum.json](./13090-mortuum.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
