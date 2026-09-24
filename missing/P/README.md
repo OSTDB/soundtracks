@@ -2930,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Ninja Sneaking R | 215114 | [215114-pixel-game-maker-series-ninja-sneaking-r.json](./215114-pixel-game-maker-series-ninja-sneaking-r.json) |
 | Pixel Game Maker Series: Pearl vs Grey | 227845 | [227845-pixel-game-maker-series-pearl-vs-grey.json](./227845-pixel-game-maker-series-pearl-vs-grey.json) |
 | Pixel Game Maker Series: Rocket Frog | 335354 | [335354-pixel-game-maker-series-rocket-frog.json](./335354-pixel-game-maker-series-rocket-frog.json) |
+| Pixel Game Maker Series: The Willow Man | 316190 | [316190-pixel-game-maker-series-the-willow-man.json](./316190-pixel-game-maker-series-the-willow-man.json) |
 | Pixel Gangsters | 211184 | [211184-pixel-gangsters.json](./211184-pixel-gangsters.json) |
 | Pixel Gear | 25182 | [25182-pixel-gear.json](./25182-pixel-gear.json) |
 | Pixel Gun 2 | 406834 | [406834-pixel-gun-2.json](./406834-pixel-gun-2.json) |
