@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tales: Baba Yaga and the Magic Geese | 297654 | [297654-magic-tales-baba-yaga-and-the-magic-geese.json](./297654-magic-tales-baba-yaga-and-the-magic-geese.json) |
 | Magic Technology | 176353 | [176353-magic-technology.json](./176353-magic-technology.json) |
 | Magic Technology: Tower Defense | 68679 | [68679-magic-technology-tower-defense.json](./68679-magic-technology-tower-defense.json) |
+| Magic the Wandering | 311585 | [311585-magic-the-wandering.json](./311585-magic-the-wandering.json) |
 | Magic Tiles Saga: Upbeat Music | 100858 | [100858-magic-tiles-saga-upbeat-music.json](./100858-magic-tiles-saga-upbeat-music.json) |
 | Magic Tiny Lands | 367494 | [367494-magic-tiny-lands.json](./367494-magic-tiny-lands.json) |
 | Magic Touch: Wizard for Hire | 117755 | [117755-magic-touch-wizard-for-hire.json](./117755-magic-touch-wizard-for-hire.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Traps | 144135 | [144135-magic-traps.json](./144135-magic-traps.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
+| Magic vs. Mind | 311601 | [311601-magic-vs-mind.json](./311601-magic-vs-mind.json) |
 | Magic Wand | 27326 | [27326-magic-wand.json](./27326-magic-wand.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
@@ -893,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Friends | 381118 | [381118-make-friends.json](./381118-make-friends.json) |
 | Make Her Real | 414407 | [414407-make-her-real.json](./414407-make-her-real.json) |
 | Make It as an Artist | 29834 | [29834-make-it-as-an-artist.json](./29834-make-it-as-an-artist.json) |
+| Make It Count | 311621 | [311621-make-it-count.json](./311621-make-it-count.json) |
 | Make It Cozy! | 409546 | [409546-make-it-cozy.json](./409546-make-it-cozy.json) |
 | Make It Fly! | 224014 | [224014-make-it-fly.json](./224014-make-it-fly.json) |
 | Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
@@ -3411,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Clash | 202230 | [202230-merge-clash.json](./202230-merge-clash.json) |
 | Merge County | 212449 | [212449-merge-county.json](./212449-merge-county.json) |
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
+| Merge Donut | 311580 | [311580-merge-donut.json](./311580-merge-donut.json) |
 | Merge Dotey | 226774 | [226774-merge-dotey.json](./226774-merge-dotey.json) |
 | Merge Duck 2 | 224001 | [224001-merge-duck-2.json](./224001-merge-duck-2.json) |
 | Merge Empires | 139379 | [139379-merge-empires.json](./139379-merge-empires.json) |
@@ -7738,6 +7742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst III: Exile | 797 | [797-myst-iii-exile.json](./797-myst-iii-exile.json) |
 | Myst IV: Revelation | 798 | [798-myst-iv-revelation.json](./798-myst-iv-revelation.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
+| Myst of Guatemala | 311571 | [311571-myst-of-guatemala.json](./311571-myst-of-guatemala.json) |
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
 | Mystereet: Detective Vacation | 122855 | [122855-mystereet-detective-vacation.json](./122855-mystereet-detective-vacation.json) |
