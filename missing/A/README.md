@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
 | A Pair of Feathers Squawk Together | 311607 | [311607-a-pair-of-feathers-squawk-together.json](./311607-a-pair-of-feathers-squawk-together.json) |
 | A Park Full of Cats | 276198 | [276198-a-park-full-of-cats.json](./276198-a-park-full-of-cats.json) |
+| A part of me | 294229 | [294229-a-part-of-me.json](./294229-a-part-of-me.json) |
 | A Passive Boy at the Huntress Clinic | 232425 | [232425-a-passive-boy-at-the-huntress-clinic.json](./232425-a-passive-boy-at-the-huntress-clinic.json) |
 | A Past and Future Secret | 271200 | [271200-a-past-and-future-secret.json](./271200-a-past-and-future-secret.json) |
 | A Perfect Day | 384775 | [384775-a-perfect-day.json](./384775-a-perfect-day.json) |
@@ -997,7 +998,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Match | 338910 | [338910-adventure-match.json](./338910-adventure-match.json) |
 | Adventure Math | 94016 | [94016-adventure-math.json](./94016-adventure-math.json) |
 | Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
+| Adventure Mosaics: Moto-Trip Africa | 294202 | [294202-adventure-mosaics-moto-trip-africa.json](./294202-adventure-mosaics-moto-trip-africa.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
+| Adventure Mosaics: Winter Holidays | 294203 | [294203-adventure-mosaics-winter-holidays.json](./294203-adventure-mosaics-winter-holidays.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Elysia | 219702 | [219702-adventure-of-elysia.json](./219702-adventure-of-elysia.json) |
 | Adventure of Great Wolf | 118813 | [118813-adventure-of-great-wolf.json](./118813-adventure-of-great-wolf.json) |
@@ -1399,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AimX | 212901 | [212901-aimx.json](./212901-aimx.json) |
 | AInder | 239682 | [239682-ainder.json](./239682-ainder.json) |
 | Ainmora: The Impending Disaster | 241949 | [241949-ainmora-the-impending-disaster.json](./241949-ainmora-the-impending-disaster.json) |
+| Ainsley | 294247 | [294247-ainsley.json](./294247-ainsley.json) |
 | Aion | 563 | [563-aion.json](./563-aion.json) |
 | Aion 2 | 117297 | [117297-aion-2.json](./117297-aion-2.json) |
 | Aion: Dark Betrayal | 62683 | [62683-aion-dark-betrayal.json](./62683-aion-dark-betrayal.json) |
@@ -1927,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Order | 219815 | [219815-alice-order.json](./219815-alice-order.json) |
 | Alice Senki 2 | 191880 | [191880-alice-senki-2.json](./191880-alice-senki-2.json) |
 | Alice Sisters | 157033 | [157033-alice-sisters.json](./157033-alice-sisters.json) |
+| Alice Through the Fey Realm | 294248 | [294248-alice-through-the-fey-realm.json](./294248-alice-through-the-fey-realm.json) |
 | Alice Trapped Beyond Wonderland | 165057 | [165057-alice-trapped-beyond-wonderland.json](./165057-alice-trapped-beyond-wonderland.json) |
 | Alice Trapped in Wonderland | 90668 | [90668-alice-trapped-in-wonderland.json](./90668-alice-trapped-in-wonderland.json) |
 | Alice: Adventures in Wonderland | 66129 | [66129-alice-adventures-in-wonderland.json](./66129-alice-adventures-in-wonderland.json) |
