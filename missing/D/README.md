@@ -6913,6 +6913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
 | Dwarflings | 30341 | [30341-dwarflings.json](./30341-dwarflings.json) |
 | Dwarfs & Witch | 346088 | [346088-dwarfs-and-witch.json](./346088-dwarfs-and-witch.json) |
+| Dwarfs Delight | 287714 | [287714-dwarfs-delight.json](./287714-dwarfs-delight.json) |
 | Dwarfs Descent | 350420 | [350420-dwarfs-descent.json](./350420-dwarfs-descent.json) |
 | Dwarfs F2P | 90631 | [90631-dwarfs-f2p.json](./90631-dwarfs-f2p.json) |
 | Dwarfs F2P: Skirmish Pack | 161779 | [161779-dwarfs-f2p-skirmish-pack.json](./161779-dwarfs-f2p-skirmish-pack.json) |
