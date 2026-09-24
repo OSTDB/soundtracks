@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicycle Together | 389403 | [389403-unicycle-together.json](./389403-unicycle-together.json) |
 | Uniform Girl | 242062 | [242062-uniform-girl.json](./242062-uniform-girl.json) |
 | Unikitty! Save the Kingdom! | 199029 | [199029-unikitty-save-the-kingdom.json](./199029-unikitty-save-the-kingdom.json) |
+| Unilateral Table Tennis | 288268 | [288268-unilateral-table-tennis.json](./288268-unilateral-table-tennis.json) |
 | Unimersiv | 51918 | [51918-unimersiv.json](./51918-unimersiv.json) |
 | Unimime: Unicycle Madness | 251594 | [251594-unimime-unicycle-madness.json](./251594-unimime-unicycle-madness.json) |
 | Uninvited | 378908 | [378908-uninvited.json](./378908-uninvited.json) |
@@ -1397,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uzzuzzu My Pet | 242056 | [242056-uzzuzzu-my-pet.json](./242056-uzzuzzu-my-pet.json) |
 | Uzzuzzu My Pet: Golf Dash - Amazing Edition | 328811 | [328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json](./328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Boo's Challenge | 283297 | [283297-uzzuzzu-my-pet-golf-dash-boos-challenge.json](./283297-uzzuzzu-my-pet-golf-dash-boos-challenge.json) |
+| Uzzuzzu My Pet: Golf Dash - Deluxe Edition | 288277 | [288277-uzzuzzu-my-pet-golf-dash-deluxe-edition.json](./288277-uzzuzzu-my-pet-golf-dash-deluxe-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Director's Cut | 328821 | [328821-uzzuzzu-my-pet-golf-dash-directors-cut.json](./328821-uzzuzzu-my-pet-golf-dash-directors-cut.json) |
 | Uzzuzzu My Pet: Golf Dash - GOTY Edition | 328812 | [328812-uzzuzzu-my-pet-golf-dash-goty-edition.json](./328812-uzzuzzu-my-pet-golf-dash-goty-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Happy Edition | 328813 | [328813-uzzuzzu-my-pet-golf-dash-happy-edition.json](./328813-uzzuzzu-my-pet-golf-dash-happy-edition.json) |
