@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
 | After... Prologue | 405063 | [405063-after-prologue.json](./405063-after-prologue.json) |
+| After... Wasureenu Kizuna | 283252 | [283252-after-wasureenu-kizuna.json](./283252-after-wasureenu-kizuna.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
 | Afterbright | 357794 | [357794-afterbright.json](./357794-afterbright.json) |
 | Afterburn | 112424 | [112424-afterburn.json](./112424-afterburn.json) |
