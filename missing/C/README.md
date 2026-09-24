@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire Harmony | 402251 | [402251-campfire-harmony.json](./402251-campfire-harmony.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
 | Campground Simulator | 379355 | [379355-campground-simulator.json](./379355-campground-simulator.json) |
+| Campgrounds Adventures | 311605 | [311605-campgrounds-adventures.json](./311605-campgrounds-adventures.json) |
 | Campgrounds IV | 139392 | [139392-campgrounds-iv.json](./139392-campgrounds-iv.json) |
 | Campgrounds: The Endorus Expedition | 139393 | [139393-campgrounds-the-endorus-expedition.json](./139393-campgrounds-the-endorus-expedition.json) |
 | Camphor | 237352 | [237352-camphor.json](./237352-camphor.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
 | Cards, Universe & Everything | 248154 | [248154-cards-universe-and-everything.json](./248154-cards-universe-and-everything.json) |
 | Cards! MonkeyBox 2 | 174300 | [174300-cards-monkeybox-2.json](./174300-cards-monkeybox-2.json) |
+| CardScrawl | 311591 | [311591-cardscrawl.json](./311591-cardscrawl.json) |
 | CardShark | 239741 | [239741-cardshark.json](./239741-cardshark.json) |
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
@@ -1531,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catchy Crystals | 19386 | [19386-catchy-crystals.json](./19386-catchy-crystals.json) |
 | Catchy Tunes | 96772 | [96772-catchy-tunes.json](./96772-catchy-tunes.json) |
 | CatCity: Smash | 59040 | [59040-catcity-smash.json](./59040-catcity-smash.json) |
+| CatClick | 311616 | [311616-catclick.json](./311616-catclick.json) |
 | CatClimber | 320550 | [320550-catclimber.json](./320550-catclimber.json) |
 | CatDog on Parade | 325082 | [325082-catdog-on-parade.json](./325082-catdog-on-parade.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
@@ -1622,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats vs Cthulhu | 327957 | [327957-cats-vs-cthulhu.json](./327957-cats-vs-cthulhu.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
+| Cats-Shaped | 311608 | [311608-cats-shaped.json](./311608-cats-shaped.json) |
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
