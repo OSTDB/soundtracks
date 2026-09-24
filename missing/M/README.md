@@ -4667,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minions, Monsters, and Madness | 30194 | [30194-minions-monsters-and-madness.json](./30194-minions-monsters-and-madness.json) |
 | Minions. Five nights at Despicable Hospital 3D | 99418 | [99418-minions-five-nights-at-despicable-hospital-3d.json](./99418-minions-five-nights-at-despicable-hospital-3d.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
+| Ministry of Order | 334893 | [334893-ministry-of-order.json](./334893-ministry-of-order.json) |
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
@@ -5951,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
 | Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
+| Moonring DX | 334849 | [334849-moonring-dx.json](./334849-moonring-dx.json) |
 | Moonrise | 407543 | [407543-moonrise.json](./407543-moonrise.json) |
 | Moonrise | 9873 | [9873-moonrise.json](./9873-moonrise.json) |
 | MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
@@ -7607,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
 | Myst | 340011 | [340011-myst.json](./340011-myst.json) |
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
+| Myst Demake | 334868 | [334868-myst-demake.json](./334868-myst-demake.json) |
 | Myst III: Exile | 797 | [797-myst-iii-exile.json](./797-myst-iii-exile.json) |
 | Myst IV: Revelation | 798 | [798-myst-iv-revelation.json](./798-myst-iv-revelation.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
