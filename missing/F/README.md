@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falseflash | 401497 | [401497-falseflash.json](./401497-falseflash.json) |
 | FalseGod's Gambit | 373007 | [373007-falsegods-gambit.json](./373007-falsegods-gambit.json) |
 | Falsion | 64648 | [64648-falsion.json](./64648-falsion.json) |
+| Falskaar | 313266 | [313266-falskaar.json](./313266-falskaar.json) |
 | Famaze | 9170 | [9170-famaze.json](./9170-famaze.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
@@ -807,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FantaVision | 376693 | [376693-fantavision.json](./376693-fantavision.json) |
 | Fantavision 202X | 229133 | [229133-fantavision-202x.json](./229133-fantavision-202x.json) |
 | Fantom Feast | 112928 | [112928-fantom-feast.json](./112928-fantom-feast.json) |
+| Fantomas | 313250 | [313250-fantomas.json](./313250-fantomas.json) |
 | FantômeRapport: Intermezzo | 406101 | [406101-fantomerapport-intermezzo.json](./406101-fantomerapport-intermezzo.json) |
 | Fap & Cum: Simulator | 368131 | [368131-fap-and-cum-simulator.json](./368131-fap-and-cum-simulator.json) |
 | Fap Queen | 110145 | [110145-fap-queen.json](./110145-fap-queen.json) |
@@ -1336,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Animals | 75916 | [75916-feed-the-animals.json](./75916-feed-the-animals.json) |
 | Feed The Beast | 292539 | [292539-feed-the-beast.json](./292539-feed-the-beast.json) |
 | Feed the Cat | 233516 | [233516-feed-the-cat.json](./233516-feed-the-cat.json) |
+| Feed the Cat | 313271 | [313271-feed-the-cat.json](./313271-feed-the-cat.json) |
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
 | Feed the Giants | 403207 | [403207-feed-the-giants.json](./403207-feed-the-giants.json) |
@@ -3578,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Escape: Last Train | 389724 | [389724-forest-escape-last-train.json](./389724-forest-escape-last-train.json) |
 | Forest Fire | 230941 | [230941-forest-fire.json](./230941-forest-fire.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
+| Forest God | 313255 | [313255-forest-god.json](./313255-forest-god.json) |
 | Forest Grump | 199471 | [199471-forest-grump.json](./199471-forest-grump.json) |
 | Forest Harvester Tractor 3D | 89941 | [89941-forest-harvester-tractor-3d.json](./89941-forest-harvester-tractor-3d.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
@@ -4232,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Fazbear's Pizza Massacre | 272297 | [272297-freddy-fazbears-pizza-massacre.json](./272297-freddy-fazbears-pizza-massacre.json) |
 | Freddy Fazbear's Pizzeria Simulator | 76725 | [76725-freddy-fazbears-pizzeria-simulator.json](./76725-freddy-fazbears-pizzeria-simulator.json) |
 | Freddy Fazbear's Pizzeria Simulator VR | 231618 | [231618-freddy-fazbears-pizzeria-simulator-vr.json](./231618-freddy-fazbears-pizzeria-simulator-vr.json) |
+| Freddy Fazbears: Security Replacement | 313248 | [313248-freddy-fazbears-security-replacement.json](./313248-freddy-fazbears-security-replacement.json) |
 | Freddy Fish | 94579 | [94579-freddy-fish.json](./94579-freddy-fish.json) |
 | Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
 | Freddy in Space 2 | 159286 | [159286-freddy-in-space-2.json](./159286-freddy-in-space-2.json) |
@@ -4912,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Function.Repair | 63827 | [63827-function-repair.json](./63827-function-repair.json) |
 | Fune Tarou | 42241 | [42241-fune-tarou.json](./42241-fune-tarou.json) |
 | Funeral for the Sun | 385063 | [385063-funeral-for-the-sun.json](./385063-funeral-for-the-sun.json) |
+| Funeral Song for the Elemental Lords | 313260 | [313260-funeral-song-for-the-elemental-lords.json](./313260-funeral-song-for-the-elemental-lords.json) |
 | Funeral Toll | 272837 | [272837-funeral-toll.json](./272837-funeral-toll.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Funfair Party Games | 85163 | [85163-funfair-party-games.json](./85163-funfair-party-games.json) |
