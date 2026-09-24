@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kangaroo | 12310 | [12310-kangaroo.json](./12310-kangaroo.json) |
 | Kangaroo Court | 330172 | [330172-kangaroo-court.json](./330172-kangaroo-court.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
+| Kangoku Lock | 284448 | [284448-kangoku-lock.json](./284448-kangoku-lock.json) |
 | Kangoku Suieibu: Kyouei Mizugi ni Kuikomu Inbi na Shitai | 70652 | [70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json](./70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json) |
 | Kangoorun: Fly to the Moon | 37181 | [37181-kangoorun-fly-to-the-moon.json](./37181-kangoorun-fly-to-the-moon.json) |
 | Kanji Boy | 228573 | [228573-kanji-boy.json](./228573-kanji-boy.json) |
