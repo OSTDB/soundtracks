@@ -2333,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem in Monsterland | 18550 | [18550-mayhem-in-monsterland.json](./18550-mayhem-in-monsterland.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
+| Mayhem Motorsports Collection | 283208 | [283208-mayhem-motorsports-collection.json](./283208-mayhem-motorsports-collection.json) |
 | Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
 | Mayhem Triple | 34731 | [34731-mayhem-triple.json](./34731-mayhem-triple.json) |
 | Mayhem ZX | 74755 | [74755-mayhem-zx.json](./74755-mayhem-zx.json) |
@@ -4807,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigun vs. Swarms of the Zombie Apocalypse Simulator | 171466 | [171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json](./171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json) |
 | Minigunner | 207509 | [207509-minigunner.json](./207509-minigunner.json) |
 | MiniHunt | 296986 | [296986-minihunt.json](./296986-minihunt.json) |
+| Miniland Adventure | 283256 | [283256-miniland-adventure.json](./283256-miniland-adventure.json) |
 | MiniLaw: Ministry of Law | 32024 | [32024-minilaw-ministry-of-law.json](./32024-minilaw-ministry-of-law.json) |
 | MiniLife: Tournament | 257960 | [257960-minilife-tournament.json](./257960-minilife-tournament.json) |
 | Minima | 293652 | [293652-minima.json](./293652-minima.json) |
@@ -5209,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Complete + | 324448 | [324448-mixx-island-remix-plus-complete.json](./324448-mixx-island-remix-plus-complete.json) |
 | Mixx Island: Remix Plus - Definitive Edition | 268550 | [268550-mixx-island-remix-plus-definitive-edition.json](./268550-mixx-island-remix-plus-definitive-edition.json) |
 | Mixx Island: Remix Plus - Deluxe Edition | 248725 | [248725-mixx-island-remix-plus-deluxe-edition.json](./248725-mixx-island-remix-plus-deluxe-edition.json) |
+| Mixx Island: Remix Plus - Director's Cut | 283255 | [283255-mixx-island-remix-plus-directors-cut.json](./283255-mixx-island-remix-plus-directors-cut.json) |
 | Mixx Island: Remix Plus - GOTY Edition | 284502 | [284502-mixx-island-remix-plus-goty-edition.json](./284502-mixx-island-remix-plus-goty-edition.json) |
 | Mixx Island: Remix Plus - Happy Edition | 287124 | [287124-mixx-island-remix-plus-happy-edition.json](./287124-mixx-island-remix-plus-happy-edition.json) |
 | Mixx Island: Remix Plus - Magnificent Edition | 294830 | [294830-mixx-island-remix-plus-magnificent-edition.json](./294830-mixx-island-remix-plus-magnificent-edition.json) |
