@@ -664,9 +664,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II | 282591 | [282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json](./282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II | 282593 | [282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json](./282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json) |
 | Ace Combat 7: Skies Unknown - ASF-X Shinden II Set | 282579 | [282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json](./282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json) |
+| Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series Set | 324420 | [324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json](./324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json) |
+| Ace Combat 7: Skies Unknown - Experimental Aircraft Series Set | 324421 | [324421-ace-combat-7-skies-unknown-experimental-aircraft-series-set.json](./324421-ace-combat-7-skies-unknown-experimental-aircraft-series-set.json) |
 | Ace Combat 7: Skies Unknown - F-15 S/MTD Set | 282589 | [282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json](./282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json) |
 | Ace Combat 7: Skies Unknown - FB-22 Strike Raptor Set | 282590 | [282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json](./282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series | 138246 | [138246-ace-combat-7-skies-unknown-original-aircraft-series.json](./138246-ace-combat-7-skies-unknown-original-aircraft-series.json) |
+| Ace Combat 7: Skies Unknown - Original Aircraft Series Set | 324422 | [324422-ace-combat-7-skies-unknown-original-aircraft-series-set.json](./324422-ace-combat-7-skies-unknown-original-aircraft-series-set.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
 | Ace Combat 8: Wings of Theve | 381247 | [381247-ace-combat-8-wings-of-theve.json](./381247-ace-combat-8-wings-of-theve.json) |
