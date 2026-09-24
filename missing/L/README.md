@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
 | Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
 | Lap of the Gods | 30210 | [30210-lap-of-the-gods.json](./30210-lap-of-the-gods.json) |
+| Lapis Lazuli | 307049 | [307049-lapis-lazuli.json](./307049-lapis-lazuli.json) |
 | Lapis x Labyrinth: Limited Edition | 107260 | [107260-lapis-x-labyrinth-limited-edition.json](./107260-lapis-x-labyrinth-limited-edition.json) |
 | Lapistasia | 377675 | [377675-lapistasia.json](./377675-lapistasia.json) |
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
