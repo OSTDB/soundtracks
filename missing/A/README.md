@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AJAX Club Football 2005 | 47305 | [47305-ajax-club-football-2005.json](./47305-ajax-club-football-2005.json) |
 | Ajisai Shiyou ka! | 394134 | [394134-ajisai-shiyou-ka.json](./394134-ajisai-shiyou-ka.json) |
 | Ajnabee: The Unknown | 389975 | [389975-ajnabee-the-unknown.json](./389975-ajnabee-the-unknown.json) |
+| AK-xolotl: Wars | 336705 | [336705-ak-xolotl-wars.json](./336705-ak-xolotl-wars.json) |
 | Aka | 159823 | [159823-aka.json](./159823-aka.json) |
 | Aka Manto | 121558 | [121558-aka-manto.json](./121558-aka-manto.json) |
 | Aka no Sekai | 151528 | [151528-aka-no-sekai.json](./151528-aka-no-sekai.json) |
@@ -1640,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AL: A Choose Your Own Adventure | 179689 | [179689-al-a-choose-your-own-adventure.json](./179689-al-a-choose-your-own-adventure.json) |
 | AL: Artificial Life | 399066 | [399066-al-artificial-life.json](./399066-al-artificial-life.json) |
 | Al's Home | 94570 | [94570-als-home.json](./94570-als-home.json) |
+| Ala | 336731 | [336731-ala.json](./336731-ala.json) |
 | Ala Mobile | 372093 | [372093-ala-mobile.json](./372093-ala-mobile.json) |
 | Alaa: Mogus Must Die | 283885 | [283885-alaa-mogus-must-die.json](./283885-alaa-mogus-must-die.json) |
 | Alabama Smith: Escape from Pompeii | 176893 | [176893-alabama-smith-escape-from-pompeii.json](./176893-alabama-smith-escape-from-pompeii.json) |
@@ -4739,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
 | Artificial Defense | 33511 | [33511-artificial-defense.json](./33511-artificial-defense.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
+| Artificial Fashionista: Summer Collection | 336694 | [336694-artificial-fashionista-summer-collection.json](./336694-artificial-fashionista-summer-collection.json) |
 | Artificial Fright | 253451 | [253451-artificial-fright.json](./253451-artificial-fright.json) |
 | Artificial Girl | 70686 | [70686-artificial-girl.json](./70686-artificial-girl.json) |
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
@@ -4927,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashrun Survivors | 410416 | [410416-ashrun-survivors.json](./410416-ashrun-survivors.json) |
 | Ashton's Family Resort | 52604 | [52604-ashtons-family-resort.json](./52604-ashtons-family-resort.json) |
 | Ashura: Dark Reign | 326818 | [326818-ashura-dark-reign.json](./326818-ashura-dark-reign.json) |
+| Ashwood Conspiracy | 336696 | [336696-ashwood-conspiracy.json](./336696-ashwood-conspiracy.json) |
 | Ashworld | 43120 | [43120-ashworld.json](./43120-ashworld.json) |
 | AsiaKingdom | 302343 | [302343-asiakingdom.json](./302343-asiakingdom.json) |
 | Asian Cargo Sim | 224115 | [224115-asian-cargo-sim.json](./224115-asian-cargo-sim.json) |
