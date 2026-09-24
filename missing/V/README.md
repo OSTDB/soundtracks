@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigor: Battle-Hardened Merc | 301570 | [301570-vigor-battle-hardened-merc.json](./301570-vigor-battle-hardened-merc.json) |
 | Vigor: Reinforcements Pack | 311096 | [311096-vigor-reinforcements-pack.json](./311096-vigor-reinforcements-pack.json) |
 | Vigor: The Last King Of DayZ | 301571 | [301571-vigor-the-last-king-of-dayz.json](./301571-vigor-the-last-king-of-dayz.json) |
+| Vigour | 283216 | [283216-vigour.json](./283216-vigour.json) |
 | Vigtafl | 185036 | [185036-vigtafl.json](./185036-vigtafl.json) |
 | Viki Spotter: Around The World | 89962 | [89962-viki-spotter-around-the-world.json](./89962-viki-spotter-around-the-world.json) |
 | Viki Spotter: Camping | 105366 | [105366-viki-spotter-camping.json](./105366-viki-spotter-camping.json) |
