@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rencia | 120925 | [120925-rencia.json](./120925-rencia.json) |
 | Rendering Ranger: R2 | 38369 | [38369-rendering-ranger-r2.json](./38369-rendering-ranger-r2.json) |
 | Rendezvous | 144977 | [144977-rendezvous.json](./144977-rendezvous.json) |
+| Rendezvous Delano | 323295 | [323295-rendezvous-delano.json](./323295-rendezvous-delano.json) |
 | Rendezvous with a Stranger Girl | 57623 | [57623-rendezvous-with-a-stranger-girl.json](./57623-rendezvous-with-a-stranger-girl.json) |
 | Rendezvous: A Space Shuttle Flight Simulation | 24859 | [24859-rendezvous-a-space-shuttle-flight-simulation.json](./24859-rendezvous-a-space-shuttle-flight-simulation.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
