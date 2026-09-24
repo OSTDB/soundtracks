@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemica | 369739 | [369739-alchemica.json](./369739-alchemica.json) |
 | Alchemica: A Romance of Three Dimensions | 183963 | [183963-alchemica-a-romance-of-three-dimensions.json](./183963-alchemica-a-romance-of-three-dimensions.json) |
 | Alchemical Inc. | 190141 | [190141-alchemical-inc.json](./190141-alchemical-inc.json) |
+| Alchemist | 304130 | [304130-alchemist.json](./304130-alchemist.json) |
 | Alchemist Adventure | 137444 | [137444-alchemist-adventure.json](./137444-alchemist-adventure.json) |
 | Alchemist Chronicles | 405574 | [405574-alchemist-chronicles.json](./405574-alchemist-chronicles.json) |
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
@@ -2414,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altar of Evil | 269116 | [269116-altar-of-evil.json](./269116-altar-of-evil.json) |
 | Altar War | 218585 | [218585-altar-war.json](./218585-altar-war.json) |
 | Altarage | 157150 | [157150-altarage.json](./157150-altarage.json) |
+| Altcode | 304115 | [304115-altcode.json](./304115-altcode.json) |
 | AltCoin | 334769 | [334769-altcoin.json](./334769-altcoin.json) |
 | Altdeus: Beyond Chronos - Limited Edition | 166229 | [166229-altdeus-beyond-chronos-limited-edition.json](./166229-altdeus-beyond-chronos-limited-edition.json) |
 | Alteil: Horizons | 27736 | [27736-alteil-horizons.json](./27736-alteil-horizons.json) |
