@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Blade | 252229 | [252229-white-blade.json](./252229-white-blade.json) |
 | White Cat Stories | 346230 | [346230-white-cat-stories.json](./346230-white-cat-stories.json) |
 | White Chamber | 247598 | [247598-white-chamber.json](./247598-white-chamber.json) |
+| White Chocolate | 330247 | [330247-white-chocolate.json](./330247-white-chocolate.json) |
 | White City Dating Sim | 394164 | [394164-white-city-dating-sim.json](./394164-white-city-dating-sim.json) |
 | White Dandelion | 158698 | [158698-white-dandelion.json](./158698-white-dandelion.json) |
 | White Day 2: Swan Song | 55020 | [55020-white-day-2-swan-song.json](./55020-white-day-2-swan-song.json) |
@@ -2050,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Traveler | 324311 | [324311-wind-traveler.json](./324311-wind-traveler.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
 | Wind's Poem | 325065 | [325065-winds-poem.json](./325065-winds-poem.json) |
+| Windah Horror Adventure | 330346 | [330346-windah-horror-adventure.json](./330346-windah-horror-adventure.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
@@ -2304,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch: A Special Delivery | 178071 | [178071-witch-a-special-delivery.json](./178071-witch-a-special-delivery.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
 | Witch's Apocalyptic Journey | 391717 | [391717-witchs-apocalyptic-journey.json](./391717-witchs-apocalyptic-journey.json) |
+| Witch’s Gaze: The Vanishing Village | 330351 | [330351-witch-s-gaze-the-vanishing-village.json](./330351-witch-s-gaze-the-vanishing-village.json) |
 | Witch's Heart: Bonus Stage | 252721 | [252721-witchs-heart-bonus-stage.json](./252721-witchs-heart-bonus-stage.json) |
 | Witch’s Lewd Curse | 367053 | [367053-witch-s-lewd-curse.json](./367053-witch-s-lewd-curse.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
