@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Pinball | 209715 | [209715-war-pinball.json](./209715-war-pinball.json) |
 | War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
 | War Platform | 112752 | [112752-war-platform.json](./112752-war-platform.json) |
+| War Rats: The Rat em Up | 326211 | [326211-war-rats-the-rat-em-up.json](./326211-war-rats-the-rat-em-up.json) |
 | War Remains | 124265 | [124265-war-remains.json](./124265-war-remains.json) |
 | War Robots Shooting Simulator | 270181 | [270181-war-robots-shooting-simulator.json](./270181-war-robots-shooting-simulator.json) |
 | War Robots VR: The Skirmish | 55477 | [55477-war-robots-vr-the-skirmish.json](./55477-war-robots-vr-the-skirmish.json) |
@@ -2624,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland Solitaire | 415955 | [415955-wonderland-solitaire.json](./415955-wonderland-solitaire.json) |
 | Wonderland Trails | 110179 | [110179-wonderland-trails.json](./110179-wonderland-trails.json) |
 | Wonderland Wars | 138597 | [138597-wonderland-wars.json](./138597-wonderland-wars.json) |
+| Wonderland X: Next Dream | 326196 | [326196-wonderland-x-next-dream.json](./326196-wonderland-x-next-dream.json) |
 | WonderLang English | 390263 | [390263-wonderlang-english.json](./390263-wonderlang-english.json) |
 | WonderLang French | 312549 | [312549-wonderlang-french.json](./312549-wonderlang-french.json) |
 | Wonderlang Korean | 345031 | [345031-wonderlang-korean.json](./345031-wonderlang-korean.json) |
@@ -3486,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrd World | 360571 | [360571-wyrd-world.json](./360571-wyrd-world.json) |
 | Wyrm Climb | 305795 | [305795-wyrm-climb.json](./305795-wyrm-climb.json) |
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
+| Wyrmhall: Brush and Banter | 326221 | [326221-wyrmhall-brush-and-banter.json](./326221-wyrmhall-brush-and-banter.json) |
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
 | Wytchsun: Elleros Origins | 117544 | [117544-wytchsun-elleros-origins.json](./117544-wytchsun-elleros-origins.json) |
 | Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
