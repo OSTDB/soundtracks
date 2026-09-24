@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Kills Candy | 184988 | [184988-cake-kills-candy.json](./184988-cake-kills-candy.json) |
 | Cake Laboratory | 114184 | [114184-cake-laboratory.json](./114184-cake-laboratory.json) |
 | Cake Maker Deluxe | 103151 | [103151-cake-maker-deluxe.json](./103151-cake-maker-deluxe.json) |
+| Cake Platformer | 329089 | [329089-cake-platformer.json](./329089-cake-platformer.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
 | Cake Up | 335273 | [335273-cake-up.json](./335273-cake-up.json) |
@@ -1482,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Royale | 368667 | [368667-catch-royale.json](./368667-catch-royale.json) |
 | Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
 | Catch the Candy: Remastered | 330922 | [330922-catch-the-candy-remastered.json](./330922-catch-the-candy-remastered.json) |
+| Catch the Dustling | 329077 | [329077-catch-the-dustling.json](./329077-catch-the-dustling.json) |
 | Catch The Fox | 247499 | [247499-catch-the-fox.json](./247499-catch-the-fox.json) |
 | Catch the Moths | 359429 | [359429-catch-the-moths.json](./359429-catch-the-moths.json) |
 | Catch The Rabbit | 348244 | [348244-catch-the-rabbit.json](./348244-catch-the-rabbit.json) |
