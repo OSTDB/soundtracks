@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
+| Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
 | HamSumo | 287751 | [287751-hamsumo.json](./287751-hamsumo.json) |
 | Hamurabi | 11302 | [11302-hamurabi.json](./11302-hamurabi.json) |
 | Hàn Mò Bàyè Miǎnfèi Bǎn | 368019 | [368019-han-mo-baye-mianfei-ban.json](./368019-han-mo-baye-mianfei-ban.json) |
@@ -4634,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypatia | 407344 | [407344-hypatia.json](./407344-hypatia.json) |
 | Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
+| Hyper Apocalypse | 303052 | [303052-hyper-apocalypse.json](./303052-hyper-apocalypse.json) |
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
 | Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
@@ -4679,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Street Fighter II: The Anniversary Edition | 45198 | [45198-hyper-street-fighter-ii-the-anniversary-edition.json](./45198-hyper-street-fighter-ii-the-anniversary-edition.json) |
 | Hyper Street Kart | 42206 | [42206-hyper-street-kart.json](./42206-hyper-street-kart.json) |
 | Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
+| Hyper Survive 3D | 303042 | [303042-hyper-survive-3d.json](./303042-hyper-survive-3d.json) |
 | Hyper Tank | 94672 | [94672-hyper-tank.json](./94672-hyper-tank.json) |
 | Hyper Team Recon | 138209 | [138209-hyper-team-recon.json](./138209-hyper-team-recon.json) |
 | Hyper Thruster | 409534 | [409534-hyper-thruster.json](./409534-hyper-thruster.json) |
