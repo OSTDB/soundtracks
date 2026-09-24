@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battimals | 304686 | [304686-battimals.json](./304686-battimals.json) |
 | Batting Champ | 287623 | [287623-batting-champ.json](./287623-batting-champ.json) |
 | Battington Manor | 393481 | [393481-battington-manor.json](./393481-battington-manor.json) |
+| Battland | 292612 | [292612-battland.json](./292612-battland.json) |
 | Battlantis | 38544 | [38544-battlantis.json](./38544-battlantis.json) |
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
 | Battle 3D: Robots Sky | 138169 | [138169-battle-3d-robots-sky.json](./138169-battle-3d-robots-sky.json) |
@@ -1851,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Buggy Racing 2: Tesla Edition | 341009 | [341009-beach-buggy-racing-2-tesla-edition.json](./341009-beach-buggy-racing-2-tesla-edition.json) |
 | Beach Cafe III: The Escape Room | 266316 | [266316-beach-cafe-iii-the-escape-room.json](./266316-beach-cafe-iii-the-escape-room.json) |
 | Beach Cafe: Caribbean Sand | 232988 | [232988-beach-cafe-caribbean-sand.json](./232988-beach-cafe-caribbean-sand.json) |
+| Beach Club Simulator | 292638 | [292638-beach-club-simulator.json](./292638-beach-club-simulator.json) |
 | Beach Club Simulator 2024 | 289429 | [289429-beach-club-simulator-2024.json](./289429-beach-club-simulator-2024.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
@@ -4947,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
 | Border Dungeon | 304645 | [304645-border-dungeon.json](./304645-border-dungeon.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
+| Border Mountain | 292624 | [292624-border-mountain.json](./292624-border-mountain.json) |
 | Border of her Heart 2 | 156669 | [156669-border-of-her-heart-2.json](./156669-border-of-her-heart-2.json) |
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
