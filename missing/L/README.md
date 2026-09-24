@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
 | Labyrinth | 249273 | [249273-labyrinth.json](./249273-labyrinth.json) |
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
+| Labyrinth | 319126 | [319126-labyrinth.json](./319126-labyrinth.json) |
 | Labyrinth | 320390 | [320390-labyrinth.json](./320390-labyrinth.json) |
 | Labyrinth | 379903 | [379903-labyrinth.json](./379903-labyrinth.json) |
 | Labyrinth | 78506 | [78506-labyrinth.json](./78506-labyrinth.json) |
