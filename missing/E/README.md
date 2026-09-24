@@ -2999,7 +2999,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
+| EZ-Talk Shokyuu-hen 5 | 334275 | [334275-ez-talk-shokyuu-hen-5.json](./334275-ez-talk-shokyuu-hen-5.json) |
 | EZ-Talk Shokyuuhen 1-6 Kan Set | 93596 | [93596-ez-talk-shokyuuhen-1-6-kan-set.json](./93596-ez-talk-shokyuuhen-1-6-kan-set.json) |
+| EZ-Talk: Shokyuu-hen 6 | 334277 | [334277-ez-talk-shokyuu-hen-6.json](./334277-ez-talk-shokyuu-hen-6.json) |
 | EZ2AC | 137440 | [137440-ez2ac.json](./137440-ez2ac.json) |
 | EZ2Dancer | 92487 | [92487-ez2dancer.json](./92487-ez2dancer.json) |
 | EZ2on Reboot: R | 144282 | [144282-ez2on-reboot-r.json](./144282-ez2on-reboot-r.json) |
