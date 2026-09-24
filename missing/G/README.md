@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genting Party | 393123 | [393123-genting-party.json](./393123-genting-party.json) |
 | Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
 | Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
+| Gentoo Rescue | 291516 | [291516-gentoo-rescue.json](./291516-gentoo-rescue.json) |
 | Genzai: Serialization | 223428 | [223428-genzai-serialization.json](./223428-genzai-serialization.json) |
 | Geo | 31785 | [31785-geo.json](./31785-geo.json) |
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
@@ -2688,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossamer Matrix | 211722 | [211722-gossamer-matrix.json](./211722-gossamer-matrix.json) |
 | Gossip | 384758 | [384758-gossip.json](./384758-gossip.json) |
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
+| Got Simulator | 291537 | [291537-got-simulator.json](./291537-got-simulator.json) |
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
 | Gotcha | 7427 | [7427-gotcha.json](./7427-gotcha.json) |
@@ -3258,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Steel | 161361 | [161361-green-steel.json](./161361-green-steel.json) |
 | Green Suits | 408735 | [408735-green-suits.json](./408735-green-suits.json) |
 | Green the Planet | 344937 | [344937-green-the-planet.json](./344937-green-the-planet.json) |
+| Green Thumb | 291571 | [291571-green-thumb.json](./291571-green-thumb.json) |
 | Green Thumb Cards | 62157 | [62157-green-thumb-cards.json](./62157-green-thumb-cards.json) |
 | Green Valley | 224620 | [224620-green-valley.json](./224620-green-valley.json) |
 | Green Valley County | 385341 | [385341-green-valley-county.json](./385341-green-valley-county.json) |
