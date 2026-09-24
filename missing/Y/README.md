@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Dead Majesty | 149021 | [149021-your-dead-majesty.json](./149021-your-dead-majesty.json) |
 | Your Digital Cookbook | 365738 | [365738-your-digital-cookbook.json](./365738-your-digital-cookbook.json) |
 | Your Doodles Are Bugged! | 50875 | [50875-your-doodles-are-bugged.json](./50875-your-doodles-are-bugged.json) |
+| Your Earth | 293700 | [293700-your-earth.json](./293700-your-earth.json) |
 | Your Fairytale | 97159 | [97159-your-fairytale.json](./97159-your-fairytale.json) |
 | Your Fear | 151000 | [151000-your-fear.json](./151000-your-fear.json) |
 | Your Future 2 Future Prediction | 276455 | [276455-your-future-2-future-prediction.json](./276455-your-future-2-future-prediction.json) |
