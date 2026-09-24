@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faction Wars | 168317 | [168317-faction-wars.json](./168317-faction-wars.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factor Zoo | 413187 | [413187-factor-zoo.json](./413187-factor-zoo.json) |
+| Factor72 | 318540 | [318540-factor72.json](./318540-factor72.json) |
 | Factorio: IR3 | 326052 | [326052-factorio-ir3.json](./326052-factorio-ir3.json) |
 | Factorio: Nullius | 326049 | [326049-factorio-nullius.json](./326049-factorio-nullius.json) |
 | Factorio: UltraCube | 326050 | [326050-factorio-ultracube.json](./326050-factorio-ultracube.json) |
@@ -1882,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: King's Knight Tee | 350501 | [350501-final-fantasy-xv-kings-knight-tee.json](./350501-final-fantasy-xv-kings-knight-tee.json) |
 | Final Fantasy XV: Pocket Edition HD | 108156 | [108156-final-fantasy-xv-pocket-edition-hd.json](./108156-final-fantasy-xv-pocket-edition-hd.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
+| Final Fantasy XVI: Complete Edition | 318557 | [318557-final-fantasy-xvi-complete-edition.json](./318557-final-fantasy-xvi-complete-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Fantasy: Blackmoon Prophecy | 210027 | [210027-final-fantasy-blackmoon-prophecy.json](./210027-final-fantasy-blackmoon-prophecy.json) |
 | Final Fantasy: Blackmoon Prophecy II | 210030 | [210030-final-fantasy-blackmoon-prophecy-ii.json](./210030-final-fantasy-blackmoon-prophecy-ii.json) |
