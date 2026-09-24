@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overly Qualified Ms. Mary | 219061 | [219061-overly-qualified-ms-mary.json](./219061-overly-qualified-ms-mary.json) |
 | Overmind | 327180 | [327180-overmind.json](./327180-overmind.json) |
 | OverNight | 207512 | [207512-overnight.json](./207512-overnight.json) |
+| Overnight Watch | 311589 | [311589-overnight-watch.json](./311589-overnight-watch.json) |
 | Overpass 2: Career Starter Pack | 271283 | [271283-overpass-2-career-starter-pack.json](./271283-overpass-2-career-starter-pack.json) |
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
 | Overpass 2: Ford Play Rock Bouncer | 271285 | [271285-overpass-2-ford-play-rock-bouncer.json](./271285-overpass-2-ford-play-rock-bouncer.json) |
