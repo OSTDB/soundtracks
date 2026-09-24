@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Stars: Rainbow Islands II | 316080 | [316080-parasol-stars-rainbow-islands-ii.json](./316080-parasol-stars-rainbow-islands-ii.json) |
 | Parasol Stars: The Story of Bubble Bobble III | 42101 | [42101-parasol-stars-the-story-of-bubble-bobble-iii.json](./42101-parasol-stars-the-story-of-bubble-bobble-iii.json) |
 | Parasomnia Verum | 153972 | [153972-parasomnia-verum.json](./153972-parasomnia-verum.json) |
+| Parasomnia: No Rem | 318531 | [318531-parasomnia-no-rem.json](./318531-parasomnia-no-rem.json) |
 | Paratopic: Definitive Cut | 107740 | [107740-paratopic-definitive-cut.json](./107740-paratopic-definitive-cut.json) |
 | Paratopic: Overdub | 349384 | [349384-paratopic-overdub.json](./349384-paratopic-overdub.json) |
 | Paratrooper | 25155 | [25155-paratrooper.json](./25155-paratrooper.json) |
@@ -3966,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Season of Light | 215759 | [215759-pokemon-go-season-of-light.json](./215759-pokemon-go-season-of-light.json) |
 | Pokémon Go: Season of Mischief | 218487 | [218487-pokemon-go-season-of-mischief.json](./218487-pokemon-go-season-of-mischief.json) |
 | Pokémon Goita | 377713 | [377713-pokemon-goita.json](./377713-pokemon-goita.json) |
+| Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
@@ -4077,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Unite: Season 1 | 194419 | [194419-pokemon-unite-season-1.json](./194419-pokemon-unite-season-1.json) |
 | Pokémon Unite: Season 2 | 194418 | [194418-pokemon-unite-season-2.json](./194418-pokemon-unite-season-2.json) |
 | Pokémon Unite: Season 3 | 194420 | [194420-pokemon-unite-season-3.json](./194420-pokemon-unite-season-3.json) |
+| Pokémon Vanishing Point | 318563 | [318563-pokemon-vanishing-point.json](./318563-pokemon-vanishing-point.json) |
 | Pokémon Version Violette | 401803 | [401803-pokemon-version-violette.json](./401803-pokemon-version-violette.json) |
 | Pokémon Villain Jam | 354642 | [354642-pokemon-villain-jam.json](./354642-pokemon-villain-jam.json) |
 | Pokémon Violet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239933 | [239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
@@ -4630,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Apocalyptic Mayhem | 16229 | [16229-post-apocalyptic-mayhem.json](./16229-post-apocalyptic-mayhem.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
+| Post Memory | 318530 | [318530-post-memory.json](./318530-post-memory.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
 | Post-Future Vagabond | 139809 | [139809-post-future-vagabond.json](./139809-post-future-vagabond.json) |
@@ -6048,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pterodactyl Attack | 284910 | [284910-pterodactyl-attack.json](./284910-pterodactyl-attack.json) |
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
 | Ptolem's Singing Catacombs | 374177 | [374177-ptolems-singing-catacombs.json](./374177-ptolems-singing-catacombs.json) |
+| Ptolomaea | 318541 | [318541-ptolomaea.json](./318541-ptolomaea.json) |
 | PTS: Coach | 383395 | [383395-pts-coach.json](./383395-pts-coach.json) |
 | Pual Blarp Ghoul Cop | 327945 | [327945-pual-blarp-ghoul-cop.json](./327945-pual-blarp-ghoul-cop.json) |
 | Pub Encounter | 33397 | [33397-pub-encounter.json](./33397-pub-encounter.json) |
