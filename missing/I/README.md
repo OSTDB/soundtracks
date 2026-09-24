@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Sugar | 189119 | [189119-ice-sugar.json](./189119-ice-sugar.json) |
 | Ice Survival | 270783 | [270783-ice-survival.json](./270783-ice-survival.json) |
 | Ice Trek | 18590 | [18590-ice-trek.json](./18590-ice-trek.json) |
+| Ice Truckers | 315616 | [315616-ice-truckers.json](./315616-ice-truckers.json) |
 | Ice World: The Frozen Age | 314882 | [314882-ice-world-the-frozen-age.json](./314882-ice-world-the-frozen-age.json) |
 | Ice-Story | 130886 | [130886-ice-story.json](./130886-ice-story.json) |
 | Ice! | 370207 | [370207-ice.json](./370207-ice.json) |
