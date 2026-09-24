@@ -3758,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Valley | 236910 | [236910-rogue-valley.json](./236910-rogue-valley.json) |
 | Rogue Vector | 410431 | [410431-rogue-vector.json](./410431-rogue-vector.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
+| Rogue Waters | 314422 | [314422-rogue-waters.json](./314422-rogue-waters.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
 | Rogue with the Dead | 248144 | [248144-rogue-with-the-dead.json](./248144-rogue-with-the-dead.json) |
 | Rogue Words | 353409 | [353409-rogue-words.json](./353409-rogue-words.json) |
