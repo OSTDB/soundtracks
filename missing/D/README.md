@@ -924,6 +924,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
 | Date with Falco | 339267 | [339267-date-with-falco.json](./339267-date-with-falco.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
+| Date Z: Hazardous Amour Pack | 316200 | [316200-date-z-hazardous-amour-pack.json](./316200-date-z-hazardous-amour-pack.json) |
+| Date Z: Romance Completionist Pack | 316201 | [316201-date-z-romance-completionist-pack.json](./316201-date-z-romance-completionist-pack.json) |
+| Date Z: Special Report Pack | 316202 | [316202-date-z-special-report-pack.json](./316202-date-z-special-report-pack.json) |
+| Date Z: TTRPG Enthusiast Pack | 316203 | [316203-date-z-ttrpg-enthusiast-pack.json](./316203-date-z-ttrpg-enthusiast-pack.json) |
 | Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
@@ -5856,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Mania Championship | 88226 | [88226-drift-mania-championship.json](./88226-drift-mania-championship.json) |
 | Drift Mania: Street Outlaws | 38938 | [38938-drift-mania-street-outlaws.json](./38938-drift-mania-street-outlaws.json) |
 | Drift Market | 388757 | [388757-drift-market.json](./388757-drift-market.json) |
+| Drift Master Simulator 2024: Rich Racer DLC | 316231 | [316231-drift-master-simulator-2024-rich-racer-dlc.json](./316231-drift-master-simulator-2024-rich-racer-dlc.json) |
 | Drift Max Pro | 99408 | [99408-drift-max-pro.json](./99408-drift-max-pro.json) |
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Out '94 - The Hard Order | 39826 | [39826-drift-out-94-the-hard-order.json](./39826-drift-out-94-the-hard-order.json) |
