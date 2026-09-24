@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
 | NekoChan Hero Collection | 210754 | [210754-nekochan-hero-collection.json](./210754-nekochan-hero-collection.json) |
 | Nekoglai Simulator | 193409 | [193409-nekoglai-simulator.json](./193409-nekoglai-simulator.json) |
+| Nekokami: The Human Restoration Project | 289424 | [289424-nekokami-the-human-restoration-project.json](./289424-nekokami-the-human-restoration-project.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
 | Nekomancy | 213440 | [213440-nekomancy.json](./213440-nekomancy.json) |
 | Nekome: Nazi Hunter | 388249 | [388249-nekome-nazi-hunter.json](./388249-nekome-nazi-hunter.json) |
