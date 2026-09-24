@@ -2509,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Not You, It's M.E | 379960 | [379960-its-not-you-its-m-e.json](./379960-its-not-you-its-m-e.json) |
 | It's OK to Fail | 278407 | [278407-its-ok-to-fail.json](./278407-its-ok-to-fail.json) |
 | It’s on the Mouse | 328244 | [328244-it-s-on-the-mouse.json](./328244-it-s-on-the-mouse.json) |
+| It's Our Revolution | 304108 | [304108-its-our-revolution.json](./304108-its-our-revolution.json) |
 | It's possible | 111536 | [111536-its-possible.json](./111536-its-possible.json) |
 | It's Raining Acorn! | 331136 | [331136-its-raining-acorn.json](./331136-its-raining-acorn.json) |
 | It's Raining Cats' & Dogs' Poop | 62217 | [62217-its-raining-cats-and-dogs-poop.json](./62217-its-raining-cats-and-dogs-poop.json) |
