@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawn Tactics | 26487 | [26487-pawn-tactics.json](./26487-pawn-tactics.json) |
 | Pawn.OS() | 360647 | [360647-pawn-os.json](./360647-pawn-os.json) |
+| Pawnchline | 292073 | [292073-pawnchline.json](./292073-pawnchline.json) |
 | Pawndemonium | 194412 | [194412-pawndemonium.json](./194412-pawndemonium.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
 | Pawns of War | 341589 | [341589-pawns-of-war.json](./341589-pawns-of-war.json) |
@@ -1624,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PentaBlox | 188581 | [188581-pentablox.json](./188581-pentablox.json) |
 | Pentacore | 211187 | [211187-pentacore.json](./211187-pentacore.json) |
 | Pentaloop | 346671 | [346671-pentaloop.json](./346671-pentaloop.json) |
+| Pentapus | 292099 | [292099-pentapus.json](./292099-pentapus.json) |
 | Pentaquin: Deeds of Twilight | 158052 | [158052-pentaquin-deeds-of-twilight.json](./158052-pentaquin-deeds-of-twilight.json) |
 | Pentari: First Light | 72034 | [72034-pentari-first-light.json](./72034-pentari-first-light.json) |
 | Pentavolt | 359077 | [359077-pentavolt.json](./359077-pentavolt.json) |
