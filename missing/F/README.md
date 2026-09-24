@@ -2880,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of the Intruder | 12102 | [12102-flight-of-the-intruder.json](./12102-flight-of-the-intruder.json) |
 | Flight Path 737 | 12952 | [12952-flight-path-737.json](./12952-flight-path-737.json) |
 | Flight Rising | 123023 | [123023-flight-rising.json](./123023-flight-rising.json) |
+| Flight Risk | 304624 | [304624-flight-risk.json](./304624-flight-risk.json) |
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
 | Flight Simulation | 23062 | [23062-flight-simulation.json](./23062-flight-simulation.json) |
 | Flight Simulator | 69838 | [69838-flight-simulator.json](./69838-flight-simulator.json) |
