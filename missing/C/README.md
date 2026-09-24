@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpe Noctem | 309372 | [309372-carpe-noctem.json](./309372-carpe-noctem.json) |
 | Carpenter Genzo: Robot Empire | 55937 | [55937-carpenter-genzo-robot-empire.json](./55937-carpenter-genzo-robot-empire.json) |
 | Carperation | 163973 | [163973-carperation.json](./163973-carperation.json) |
+| Carpet Gallery | 320314 | [320314-carpet-gallery.json](./320314-carpet-gallery.json) |
 | Carpet Shark | 214513 | [214513-carpet-shark.json](./214513-carpet-shark.json) |
 | Carpieces | 369127 | [369127-carpieces.json](./369127-carpieces.json) |
 | Carpocalypse | 179123 | [179123-carpocalypse.json](./179123-carpocalypse.json) |
@@ -2346,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess - tactics and strategy | 91100 | [91100-chess-tactics-and-strategy.json](./91100-chess-tactics-and-strategy.json) |
 | Chess - tChess Pro | 104610 | [104610-chess-tchess-pro.json](./104610-chess-tchess-pro.json) |
 | Chess '98 | 204703 | [204703-chess-98.json](./204703-chess-98.json) |
+| Chess 'n' Blocks | 320333 | [320333-chess-n-blocks.json](./320333-chess-n-blocks.json) |
 | Chess & Backgammon Classics | 79907 | [79907-chess-and-backgammon-classics.json](./79907-chess-and-backgammon-classics.json) |
 | Chess & Chapter | 378398 | [378398-chess-and-chapter.json](./378398-chess-and-chapter.json) |
 | Chess 432 | 403662 | [403662-chess-432.json](./403662-chess-432.json) |
@@ -3538,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claus Adventure | 187371 | [187371-claus-adventure.json](./187371-claus-adventure.json) |
 | Claustrophobia | 190079 | [190079-claustrophobia.json](./190079-claustrophobia.json) |
 | Claustrophobia | 268184 | [268184-claustrophobia.json](./268184-claustrophobia.json) |
+| Claustrophobia | 320290 | [320290-claustrophobia.json](./320290-claustrophobia.json) |
 | Claustrophobia 1024 | 260947 | [260947-claustrophobia-1024.json](./260947-claustrophobia-1024.json) |
 | Claustrophobia 1024 2: The Mystery of Too Many Maps | 260949 | [260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json](./260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json) |
 | ClaustrophobicCrypt | 311504 | [311504-claustrophobiccrypt.json](./311504-claustrophobiccrypt.json) |
@@ -6550,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Sign: Emission | 190080 | [190080-crowd-sign-emission.json](./190080-crowd-sign-emission.json) |
 | Crowd Smashers | 29176 | [29176-crowd-smashers.json](./29176-crowd-smashers.json) |
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
+| Crowded Mysteries 2: Winter Romance | 320334 | [320334-crowded-mysteries-2-winter-romance.json](./320334-crowded-mysteries-2-winter-romance.json) |
 | Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
 | Crown | 12415 | [12415-crown.json](./12415-crown.json) |
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
