@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale Promise | 360564 | [360564-undertale-promise.json](./360564-undertale-promise.json) |
 | Undertale Together: Next Soul | 329663 | [329663-undertale-together-next-soul.json](./329663-undertale-together-next-soul.json) |
 | Undertale Yellow | 136482 | [136482-undertale-yellow.json](./136482-undertale-yellow.json) |
+| Undertale Yellow But Blue | 318536 | [318536-undertale-yellow-but-blue.json](./318536-undertale-yellow-but-blue.json) |
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
 | Undertale: Disbelief | 136869 | [136869-undertale-disbelief.json](./136869-undertale-disbelief.json) |
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
