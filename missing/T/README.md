@@ -11276,8 +11276,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Riddles: Trip to Italy | 41938 | [41938-travel-riddles-trip-to-italy.json](./41938-travel-riddles-trip-to-italy.json) |
 | Travel Sickness | 383628 | [383628-travel-sickness.json](./383628-travel-sickness.json) |
 | Travel the Countries | 154358 | [154358-travel-the-countries.json](./154358-travel-the-countries.json) |
+| Travel to Australia | 293160 | [293160-travel-to-australia.json](./293160-travel-to-australia.json) |
 | Travel to Canada | 315043 | [315043-travel-to-canada.json](./315043-travel-to-canada.json) |
 | Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
+| Travel to Mexico | 293163 | [293163-travel-to-mexico.json](./293163-travel-to-mexico.json) |
+| Travel to Spain | 293162 | [293162-travel-to-spain.json](./293162-travel-to-spain.json) |
+| Travel to Thailand | 293161 | [293161-travel-to-thailand.json](./293161-travel-to-thailand.json) |
 | Travel Trivia | 305901 | [305901-travel-trivia.json](./305901-travel-trivia.json) |
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
 | Traveler Lost | 367031 | [367031-traveler-lost.json](./367031-traveler-lost.json) |
