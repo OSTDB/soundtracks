@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NanoLab Fighter | 246978 | [246978-nanolab-fighter.json](./246978-nanolab-fighter.json) |
 | Nanoloop | 93994 | [93994-nanoloop.json](./93994-nanoloop.json) |
 | Nanopesos | 125256 | [125256-nanopesos.json](./125256-nanopesos.json) |
+| Nanopineapple 2018 | 315618 | [315618-nanopineapple-2018.json](./315618-nanopineapple-2018.json) |
 | Nanos | 90597 | [90597-nanos.json](./90597-nanos.json) |
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
 | Nanosaur Extreme! | 57658 | [57658-nanosaur-extreme.json](./57658-nanosaur-extreme.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neanderthal Man | 13742 | [13742-neanderthal-man.json](./13742-neanderthal-man.json) |
 | Neanderthallica | 236401 | [236401-neanderthallica.json](./236401-neanderthallica.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
+| Near Mint | 315626 | [315626-near-mint.json](./315626-near-mint.json) |
 | Near Mint | 399599 | [399599-near-mint.json](./399599-near-mint.json) |
 | Near Site | 189042 | [189042-near-site.json](./189042-near-site.json) |
 | Near Sol | 220629 | [220629-near-sol.json](./220629-near-sol.json) |
@@ -2166,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Luca No | 92496 | [92496-no-luca-no.json](./92496-no-luca-no.json) |
 | No Male Heroes | 74776 | [74776-no-male-heroes.json](./74776-no-male-heroes.json) |
 | No Man's Land | 377282 | [377282-no-mans-land.json](./377282-no-mans-land.json) |
+| No Man's Sky: Aquarius | 315656 | [315656-no-mans-sky-aquarius.json](./315656-no-mans-sky-aquarius.json) |
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
 | No Man's Sky: Nintendo Switch Edition | 191418 | [191418-no-mans-sky-nintendo-switch-edition.json](./191418-no-mans-sky-nintendo-switch-edition.json) |
 | No Man's Sky: Omega | 287088 | [287088-no-mans-sky-omega.json](./287088-no-mans-sky-omega.json) |
