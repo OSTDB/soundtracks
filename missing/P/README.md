@@ -2158,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
 | Photo Y2K | 142858 | [142858-photo-y2k.json](./142858-photo-y2k.json) |
+| Photobia: Tales from the Dark | 298660 | [298660-photobia-tales-from-the-dark.json](./298660-photobia-tales-from-the-dark.json) |
 | Photogeist | 307693 | [307693-photogeist.json](./307693-photogeist.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | PhotoLoop | 361811 | [361811-photoloop.json](./361811-photoloop.json) |
@@ -4326,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pollux | 40255 | [40255-pollux.json](./40255-pollux.json) |
 | Pollywog | 386398 | [386398-pollywog.json](./386398-pollywog.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
+| Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
 | Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
 | Poly Bridge 2 | 132002 | [132002-poly-bridge-2.json](./132002-poly-bridge-2.json) |
@@ -5831,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Shikai | 329733 | [329733-project-shikai.json](./329733-project-shikai.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
 | Project Shore | 103516 | [103516-project-shore.json](./103516-project-shore.json) |
+| Project Silverfish | 298641 | [298641-project-silverfish.json](./298641-project-silverfish.json) |
 | Project SJHG | 320519 | [320519-project-sjhg.json](./320519-project-sjhg.json) |
 | Project Slippi | 319004 | [319004-project-slippi.json](./319004-project-slippi.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
