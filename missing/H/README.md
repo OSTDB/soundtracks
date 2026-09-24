@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
 | Hero of the Galactic Core | 55512 | [55512-hero-of-the-galactic-core.json](./55512-hero-of-the-galactic-core.json) |
+| Hero of the Hive | 311600 | [311600-hero-of-the-hive.json](./311600-hero-of-the-hive.json) |
 | Hero of the Kingdom Collection | 53187 | [53187-hero-of-the-kingdom-collection.json](./53187-hero-of-the-kingdom-collection.json) |
 | Hero of the Kingdom III | 81893 | [81893-hero-of-the-kingdom-iii.json](./81893-hero-of-the-kingdom-iii.json) |
 | Hero of the Kingdom: The Lost Tales 3 | 327322 | [327322-hero-of-the-kingdom-the-lost-tales-3.json](./327322-hero-of-the-kingdom-the-lost-tales-3.json) |
