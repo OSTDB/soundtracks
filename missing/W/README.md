@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit's Grand Adventures: Episode 4 - The Bogey Man | 69160 | [69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json](./69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json) |
 | Wallace & Gromit's World of Invention: Wallace's Workshop | 320879 | [320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json](./320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json) |
 | Wallachia: Reign of Dracula | 100524 | [100524-wallachia-reign-of-dracula.json](./100524-wallachia-reign-of-dracula.json) |
+| Wallbound | 298087 | [298087-wallbound.json](./298087-wallbound.json) |
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
 | Walled Haven | 382195 | [382195-walled-haven.json](./382195-walled-haven.json) |
 | Wallenda | 111627 | [111627-wallenda.json](./111627-wallenda.json) |
@@ -1372,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Goes Up | 144786 | [144786-what-goes-up.json](./144786-what-goes-up.json) |
 | What Goes Up | 415305 | [415305-what-goes-up.json](./415305-what-goes-up.json) |
 | What Happened | 133080 | [133080-what-happened.json](./133080-what-happened.json) |
+| What Happened to Kate | 298136 | [298136-what-happened-to-kate.json](./298136-what-happened-to-kate.json) |
 | What Happened to Lily? | 342848 | [342848-what-happened-to-lily.json](./342848-what-happened-to-lily.json) |
 | What happened to Survey Team 4? | 135028 | [135028-what-happened-to-survey-team-4.json](./135028-what-happened-to-survey-team-4.json) |
 | What Happened: Through Worlds | 314856 | [314856-what-happened-through-worlds.json](./314856-what-happened-through-worlds.json) |
@@ -1506,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When The Rumors Become Real | 370185 | [370185-when-the-rumors-become-real.json](./370185-when-the-rumors-become-real.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
+| When The World Became Black | 298134 | [298134-when-the-world-became-black.json](./298134-when-the-world-became-black.json) |
 | When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
 | When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
 | When You See It | 312122 | [312122-when-you-see-it.json](./312122-when-you-see-it.json) |
