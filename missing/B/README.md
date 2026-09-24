@@ -4995,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot.vinnik Chess: Early USSR Championships | 166169 | [166169-bot-vinnik-chess-early-ussr-championships.json](./166169-bot-vinnik-chess-early-ussr-championships.json) |
 | BOT.vinnik Chess: Prodigies | 223498 | [223498-bot-vinnik-chess-prodigies.json](./223498-bot-vinnik-chess-prodigies.json) |
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
+| Botan's Bird Beats | 309968 | [309968-botans-bird-beats.json](./309968-botans-bird-beats.json) |
 | Botanical Chronicle | 266287 | [266287-botanical-chronicle.json](./266287-botanical-chronicle.json) |
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
@@ -5187,6 +5188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box A Chocolate | 112285 | [112285-box-a-chocolate.json](./112285-box-a-chocolate.json) |
 | Box Align | 86312 | [86312-box-align.json](./86312-box-align.json) |
 | Box and Ball | 153851 | [153851-box-and-ball.json](./153851-box-and-ball.json) |
+| Box Bakery | 310007 | [310007-box-bakery.json](./310007-box-bakery.json) |
 | Box Bop | 314485 | [314485-box-bop.json](./314485-box-bop.json) |
 | Box Box Box! | 379055 | [379055-box-box-box.json](./379055-box-box-box.json) |
 | Box Chaos | 328553 | [328553-box-chaos.json](./328553-box-chaos.json) |
