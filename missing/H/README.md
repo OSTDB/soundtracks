@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
 | HardAF | 276839 | [276839-hardaf.json](./276839-hardaf.json) |
 | HardBall | 268448 | [268448-hardball.json](./268448-hardball.json) |
+| Hardball + Hardball 2 | 336132 | [336132-hardball-hardball-2.json](./336132-hardball-hardball-2.json) |
 | HardBall II | 12433 | [12433-hardball-ii.json](./12433-hardball-ii.json) |
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
 | Higgs Boson: Timed Puzzle | 173238 | [173238-higgs-boson-timed-puzzle.json](./173238-higgs-boson-timed-puzzle.json) |
 | High $take$ by Dick Francis | 79887 | [79887-high-take-by-dick-francis.json](./79887-high-take-by-dick-francis.json) |
+| High Above | 336155 | [336155-high-above.json](./336155-high-above.json) |
 | High Burger | 256257 | [256257-high-burger.json](./256257-high-burger.json) |
 | High Clouds | 372995 | [372995-high-clouds.json](./372995-high-clouds.json) |
 | High Command: Europe 1939-'45 | 71806 | [71806-high-command-europe-1939-45.json](./71806-high-command-europe-1939-45.json) |
