@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
 | Camelot II: The Holy Grail - Collector's Edition | 417499 | [417499-camelot-ii-the-holy-grail-collectors-edition.json](./417499-camelot-ii-the-holy-grail-collectors-edition.json) |
 | Camelot Warriors | 13461 | [13461-camelot-warriors.json](./13461-camelot-warriors.json) |
+| Camera | 307051 | [307051-camera.json](./307051-camera.json) |
 | Camera Anima | 259647 | [259647-camera-anima.json](./259647-camera-anima.json) |
 | Camera Birds | 245319 | [245319-camera-birds.json](./245319-camera-birds.json) |
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
 | Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
+| Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
 | Castle Creeps TD | 106963 | [106963-castle-creeps-td.json](./106963-castle-creeps-td.json) |
@@ -5236,7 +5238,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Pizza | 172700 | [172700-cool-pizza.json](./172700-cool-pizza.json) |
 | Cool Shot | 66955 | [66955-cool-shot.json](./66955-cool-shot.json) |
 | Cool Spot | 2621 | [2621-cool-spot.json](./2621-cool-spot.json) |
+| Cool Spot | 307083 | [307083-cool-spot.json](./307083-cool-spot.json) |
+| Cool Spot | 307084 | [307084-cool-spot.json](./307084-cool-spot.json) |
 | Cool Thief Guy | 398316 | [398316-cool-thief-guy.json](./398316-cool-thief-guy.json) |
+| Cool World | 307071 | [307071-cool-world.json](./307071-cool-world.json) |
+| Cool World | 307072 | [307072-cool-world.json](./307072-cool-world.json) |
 | Cooler Super Mario Bros. Land | 394347 | [394347-cooler-super-mario-bros-land.json](./394347-cooler-super-mario-bros-land.json) |
 | Coolmath Games: The Game | 234707 | [234707-coolmath-games-the-game.json](./234707-coolmath-games-the-game.json) |
 | CoolPaintr VR | 104022 | [104022-coolpaintr-vr.json](./104022-coolpaintr-vr.json) |
