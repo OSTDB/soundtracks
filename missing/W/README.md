@@ -446,6 +446,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcraft II: Beyond the Dark Portal | 131 | [131-warcraft-ii-beyond-the-dark-portal.json](./131-warcraft-ii-beyond-the-dark-portal.json) |
 | Warcraft III: Reforged - Forsaken Kingdom | 417648 | [417648-warcraft-iii-reforged-forsaken-kingdom.json](./417648-warcraft-iii-reforged-forsaken-kingdom.json) |
 | Warcraft III: Reforged - Spoils of War Edition | 111652 | [111652-warcraft-iii-reforged-spoils-of-war-edition.json](./111652-warcraft-iii-reforged-spoils-of-war-edition.json) |
+| Warcraft III: Reforged - Version 2.0 | 322145 | [322145-warcraft-iii-reforged-version-2-0.json](./322145-warcraft-iii-reforged-version-2-0.json) |
+| Warcraft Remastered Battle Chest | 322146 | [322146-warcraft-remastered-battle-chest.json](./322146-warcraft-remastered-battle-chest.json) |
 | Warcube | 31973 | [31973-warcube.json](./31973-warcube.json) |
 | Ward 13 | 399722 | [399722-ward-13.json](./399722-ward-13.json) |
 | Ward 777 | 357460 | [357460-ward-777.json](./357460-ward-777.json) |
@@ -3055,10 +3057,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Forever | 417650 | [417650-world-of-warcraft-forever.json](./417650-world-of-warcraft-forever.json) |
 | World of Warcraft: Midnight - Curse of Ula'tek | 411703 | [411703-world-of-warcraft-midnight-curse-of-ulatek.json](./411703-world-of-warcraft-midnight-curse-of-ulatek.json) |
 | World of Warcraft: Mists of Pandaria | 1332 | [1332-world-of-warcraft-mists-of-pandaria.json](./1332-world-of-warcraft-mists-of-pandaria.json) |
+| World of Warcraft: Mists of Pandaria Classic | 322151 | [322151-world-of-warcraft-mists-of-pandaria-classic.json](./322151-world-of-warcraft-mists-of-pandaria-classic.json) |
 | World of Warcraft: Shadowlands - Chains of Domination | 363919 | [363919-world-of-warcraft-shadowlands-chains-of-domination.json](./363919-world-of-warcraft-shadowlands-chains-of-domination.json) |
 | World of Warcraft: Shadowlands - Collector's Edition | 136998 | [136998-world-of-warcraft-shadowlands-collectors-edition.json](./136998-world-of-warcraft-shadowlands-collectors-edition.json) |
 | World of Warcraft: Shadows of Argus | 55075 | [55075-world-of-warcraft-shadows-of-argus.json](./55075-world-of-warcraft-shadows-of-argus.json) |
 | World of Warcraft: The Burning Crusade - Collector's Edition | 136995 | [136995-world-of-warcraft-the-burning-crusade-collectors-edition.json](./136995-world-of-warcraft-the-burning-crusade-collectors-edition.json) |
+| World of Warcraft: The War Within - Undermine(d) | 322152 | [322152-world-of-warcraft-the-war-within-undermine-d.json](./322152-world-of-warcraft-the-war-within-undermine-d.json) |
 | World of Warcraft: Warlords of Draenor - Collector's Edition | 13622 | [13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json](./13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
 | World of Warplanes: Potez 540 Pack | 289894 | [289894-world-of-warplanes-potez-540-pack.json](./289894-world-of-warplanes-potez-540-pack.json) |
