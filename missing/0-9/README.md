@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21 Blitz | 125939 | [125939-21-blitz.json](./125939-21-blitz.json) |
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
 | 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
+| 21: Two One | 283250 | [283250-21-two-one.json](./283250-21-two-one.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 2152: Pizza Pocket | 394544 | [394544-2152-pizza-pocket.json](./394544-2152-pizza-pocket.json) |
 | 21Pirates Card Game | 308941 | [308941-21pirates-card-game.json](./308941-21pirates-card-game.json) |
