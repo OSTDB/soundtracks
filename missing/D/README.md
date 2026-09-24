@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
+| Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
 | Dashy Square VR | 32253 | [32253-dashy-square-vr.json](./32253-dashy-square-vr.json) |
 | Dasshutsu Adventure: Akumu no Shinigami Ressha | 222386 | [222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json](./222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json) |
 | Dasshutsu Adventure: Dai Nana no Yogen | 222376 | [222376-dasshutsu-adventure-dai-nana-no-yogen.json](./222376-dasshutsu-adventure-dai-nana-no-yogen.json) |
@@ -4418,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Away | 221188 | [221188-dont-look-away.json](./221188-dont-look-away.json) |
 | Don't Look Away 2 | 359078 | [359078-dont-look-away-2.json](./359078-dont-look-away-2.json) |
 | Don't Look Back | 343785 | [343785-dont-look-back.json](./343785-dont-look-back.json) |
+| Don't Look Back! | 317395 | [317395-dont-look-back.json](./317395-dont-look-back.json) |
 | Don't Look Down | 107877 | [107877-dont-look-down.json](./107877-dont-look-down.json) |
 | Don't Look Down | 186244 | [186244-dont-look-down.json](./186244-dont-look-down.json) |
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
@@ -5644,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hopper | 200139 | [200139-dream-hopper.json](./200139-dream-hopper.json) |
 | Dream Hospital | 352861 | [352861-dream-hospital.json](./352861-dream-hospital.json) |
 | Dream Hotel Master | 303492 | [303492-dream-hotel-master.json](./303492-dream-hotel-master.json) |
+| Dream in the Shell | 317388 | [317388-dream-in-the-shell.json](./317388-dream-in-the-shell.json) |
 | Dream Invader | 220330 | [220330-dream-invader.json](./220330-dream-invader.json) |
 | Dream Island: A Skyward Journey | 281380 | [281380-dream-island-a-skyward-journey.json](./281380-dream-island-a-skyward-journey.json) |
 | Dream Knights: The Little Hero | 181372 | [181372-dream-knights-the-little-hero.json](./181372-dream-knights-the-little-hero.json) |
