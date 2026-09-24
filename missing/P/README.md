@@ -3545,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
 | Ploppy Pairs | 197245 | [197245-ploppy-pairs.json](./197245-ploppy-pairs.json) |
 | Plot Armor | 123422 | [123422-plot-armor.json](./123422-plot-armor.json) |
+| Plot Twist | 329649 | [329649-plot-twist.json](./329649-plot-twist.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
 | Plowing Through | 271806 | [271806-plowing-through.json](./271806-plowing-through.json) |
@@ -3908,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Edición Team Rocket | 353274 | [353274-pokemon-edicion-team-rocket.json](./353274-pokemon-edicion-team-rocket.json) |
 | Pokémon Emerald BR Deluxe | 335433 | [335433-pokemon-emerald-br-deluxe.json](./335433-pokemon-emerald-br-deluxe.json) |
 | Pokémon Emerald Final | 149964 | [149964-pokemon-emerald-final.json](./149964-pokemon-emerald-final.json) |
+| Pokémon Emerald Imperium | 329650 | [329650-pokemon-emerald-imperium.json](./329650-pokemon-emerald-imperium.json) |
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
 | Pokémon Emerald Rogue | 221244 | [221244-pokemon-emerald-rogue.json](./221244-pokemon-emerald-rogue.json) |
 | Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
@@ -5799,6 +5801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
+| Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
 | Promethean Thirst | 405695 | [405695-promethean-thirst.json](./405695-promethean-thirst.json) |
 | Prometheus Unbound | 290019 | [290019-prometheus-unbound.json](./290019-prometheus-unbound.json) |
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
