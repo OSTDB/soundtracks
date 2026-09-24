@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachislot Sengoku Musou | 64358 | [64358-pachislot-sengoku-musou.json](./64358-pachislot-sengoku-musou.json) |
 | Pachitte Chonmage Tatsujin 5: CR Kamen Rider | 61913 | [61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json](./61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json) |
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
+| Pacific Drive: We Have Liftoff Customization Pack | 285546 | [285546-pacific-drive-we-have-liftoff-customization-pack.json](./285546-pacific-drive-we-have-liftoff-customization-pack.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
 | Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
@@ -1105,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
 | Pastor | 411604 | [411604-pastor.json](./411604-pastor.json) |
+| Pastor's Lake: The Game | 285540 | [285540-pastors-lake-the-game.json](./285540-pastors-lake-the-game.json) |
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
 | Pastoral | 395721 | [395721-pastoral.json](./395721-pastoral.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
@@ -6072,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protecting the Diamond | 394369 | [394369-protecting-the-diamond.json](./394369-protecting-the-diamond.json) |
 | Protection Civile Simulator 2013 | 50822 | [50822-protection-civile-simulator-2013.json](./50822-protection-civile-simulator-2013.json) |
 | Protective Clothing | 132616 | [132616-protective-clothing.json](./132616-protective-clothing.json) |
+| Protecto | 285520 | [285520-protecto.json](./285520-protecto.json) |
 | Protector | 95461 | [95461-protector.json](./95461-protector.json) |
 | Protector II | 18571 | [18571-protector-ii.json](./18571-protector-ii.json) |
 | Protector: Special Edition | 40809 | [40809-protector-special-edition.json](./40809-protector-special-edition.json) |
