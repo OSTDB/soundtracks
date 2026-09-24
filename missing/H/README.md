@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here Be Dragons | 110355 | [110355-here-be-dragons.json](./110355-here-be-dragons.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
 | Here They Lie | 19572 | [19572-here-they-lie.json](./19572-here-they-lie.json) |
+| Hereafter | 287147 | [287147-hereafter.json](./287147-hereafter.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
 | Heresis | 340465 | [340465-heresis.json](./340465-heresis.json) |
@@ -2943,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
 | Hikari! Clover Rescue | 113063 | [113063-hikari-clover-rescue.json](./113063-hikari-clover-rescue.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
+| Hike Adventures | 287164 | [287164-hike-adventures.json](./287164-hike-adventures.json) |
 | Hike Haven | 333735 | [333735-hike-haven.json](./333735-hike-haven.json) |
 | Hike Trip | 232444 | [232444-hike-trip.json](./232444-hike-trip.json) |
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
@@ -3727,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopper (bounce bounce bounce) | 98794 | [98794-hopper-bounce-bounce-bounce.json](./98794-hopper-bounce-bounce-bounce.json) |
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
+| Hopping Bunny | 287169 | [287169-hopping-bunny.json](./287169-hopping-bunny.json) |
 | Hopping Girl Kohane EX | 234734 | [234734-hopping-girl-kohane-ex.json](./234734-hopping-girl-kohane-ex.json) |
 | Hopping girl Kohane Jumping Kingdom: Princess of the Black Rabbit | 124022 | [124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json](./124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json) |
 | Hopping Ninja-san | 389112 | [389112-hopping-ninja-san.json](./389112-hopping-ninja-san.json) |
