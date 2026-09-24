@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Not a Rogue | 141657 | [141657-youre-not-a-rogue.json](./141657-youre-not-a-rogue.json) |
 | You're the Boss | 415950 | [415950-youre-the-boss.json](./415950-youre-the-boss.json) |
 | You're the OS! | 261911 | [261911-youre-the-os.json](./261911-youre-the-os.json) |
+| You're Under Arrest | 311062 | [311062-youre-under-arrest.json](./311062-youre-under-arrest.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
 | Youkai Club | 48598 | [48598-youkai-club.json](./48598-youkai-club.json) |
