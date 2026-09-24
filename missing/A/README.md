@@ -2962,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel! | 177914 | [177914-angel.json](./177914-angel.json) |
 | Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
 | Angel's Feather: Kohaku no Hitomi | 44649 | [44649-angels-feather-kohaku-no-hitomi.json](./44649-angels-feather-kohaku-no-hitomi.json) |
+| Angel's Lullaby | 330360 | [330360-angels-lullaby.json](./330360-angels-lullaby.json) |
 | Angel's Present: A Marl Kingdom Story | 76591 | [76591-angels-present-a-marl-kingdom-story.json](./76591-angels-present-a-marl-kingdom-story.json) |
 | Angel's Return | 401524 | [401524-angels-return.json](./401524-angels-return.json) |
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
@@ -3426,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Perspective | 9978 | [9978-another-perspective.json](./9978-another-perspective.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
 | Another road | 167243 | [167243-another-road.json](./167243-another-road.json) |
+| Another Round | 330254 | [330254-another-round.json](./330254-another-round.json) |
 | Another Runner | 55214 | [55214-another-runner.json](./55214-another-runner.json) |
 | Another SameGame | 64434 | [64434-another-samegame.json](./64434-another-samegame.json) |
 | Another Sight | 186835 | [186835-another-sight.json](./186835-another-sight.json) |
