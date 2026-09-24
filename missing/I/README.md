@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Epic Hero | 158043 | [158043-incremental-epic-hero.json](./158043-incremental-epic-hero.json) |
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
 | Incremental Infinity | 390249 | [390249-incremental-infinity.json](./390249-incremental-infinity.json) |
+| Incremental Island | 295878 | [295878-incremental-island.json](./295878-incremental-island.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
 | Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
@@ -1525,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinos Exa | 316072 | [316072-infinos-exa.json](./316072-infinos-exa.json) |
 | Inflate Me to the Moon | 177494 | [177494-inflate-me-to-the-moon.json](./177494-inflate-me-to-the-moon.json) |
 | Inflation RPG | 208481 | [208481-inflation-rpg.json](./208481-inflation-rpg.json) |
+| Inflatum | 295879 | [295879-inflatum.json](./295879-inflatum.json) |
 | Inflorescences | 249217 | [249217-inflorescences.json](./249217-inflorescences.json) |
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
 | Influenced | 179675 | [179675-influenced.json](./179675-influenced.json) |
@@ -1672,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inoue Takehiko: Buzzer Beater - Kouhen | 209725 | [209725-inoue-takehiko-buzzer-beater-kouhen.json](./209725-inoue-takehiko-buzzer-beater-kouhen.json) |
 | Inoue Takehiko: Buzzer Beater - Zenpen | 209724 | [209724-inoue-takehiko-buzzer-beater-zenpen.json](./209724-inoue-takehiko-buzzer-beater-zenpen.json) |
 | Inout | 224622 | [224622-inout.json](./224622-inout.json) |
+| InOutPath | 295880 | [295880-inoutpath.json](./295880-inoutpath.json) |
 | Inpulse | 253925 | [253925-inpulse.json](./253925-inpulse.json) |
 | Input | 391075 | [391075-input.json](./391075-input.json) |
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
@@ -1855,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interim | 392289 | [392289-interim.json](./392289-interim.json) |
 | Interim Apex | 381263 | [381263-interim-apex.json](./381263-interim-apex.json) |
 | InterImperium | 338703 | [338703-interimperium.json](./338703-interimperium.json) |
+| Interior Designer | 295882 | [295882-interior-designer.json](./295882-interior-designer.json) |
 | Interior Worlds | 223460 | [223460-interior-worlds.json](./223460-interior-worlds.json) |
 | Interitus | 201249 | [201249-interitus.json](./201249-interitus.json) |
 | Interkosmos 2000 | 215398 | [215398-interkosmos-2000.json](./215398-interkosmos-2000.json) |
@@ -1916,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Scrabble Club | 157528 | [157528-internet-scrabble-club.json](./157528-internet-scrabble-club.json) |
 | Internet Simulator | 98241 | [98241-internet-simulator.json](./98241-internet-simulator.json) |
 | Internet Survivor Survivors | 413626 | [413626-internet-survivor-survivors.json](./413626-internet-survivor-survivors.json) |
+| Internity | 295883 | [295883-internity.json](./295883-internity.json) |
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | Interplay Collection 2 | 130687 | [130687-interplay-collection-2.json](./130687-interplay-collection-2.json) |
 | Interplay Klondike Solitaire | 308359 | [308359-interplay-klondike-solitaire.json](./308359-interplay-klondike-solitaire.json) |
@@ -2000,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Planet's Flesh | 401626 | [401626-into-the-planets-flesh.json](./401626-into-the-planets-flesh.json) |
 | Into the Radius | 115062 | [115062-into-the-radius.json](./115062-into-the-radius.json) |
 | Into the Radius 2 | 279128 | [279128-into-the-radius-2.json](./279128-into-the-radius-2.json) |
+| Into the Restless Ruins | 295885 | [295885-into-the-restless-ruins.json](./295885-into-the-restless-ruins.json) |
 | Into the Soup | 126554 | [126554-into-the-soup.json](./126554-into-the-soup.json) |
 | Into the Stars | 21564 | [21564-into-the-stars.json](./21564-into-the-stars.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
@@ -2025,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrigue At Oakhaven Plantation | 66352 | [66352-intrigue-at-oakhaven-plantation.json](./66352-intrigue-at-oakhaven-plantation.json) |
 | Intro Fighters | 186161 | [186161-intro-fighters.json](./186161-intro-fighters.json) |
 | Introspection | 176376 | [176376-introspection.json](./176376-introspection.json) |
+| Introspection | 295884 | [295884-introspection.json](./295884-introspection.json) |
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
 | Introvert Quest | 30327 | [30327-introvert-quest.json](./30327-introvert-quest.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
@@ -2101,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invert: Tile Flipping Puzzles | 82953 | [82953-invert-tile-flipping-puzzles.json](./82953-invert-tile-flipping-puzzles.json) |
 | Inverted | 32209 | [32209-inverted.json](./32209-inverted.json) |
 | Inverted Dreams | 390111 | [390111-inverted-dreams.json](./390111-inverted-dreams.json) |
+| Inverted Journey | 295886 | [295886-inverted-journey.json](./295886-inverted-journey.json) |
 | Inverted Space | 176990 | [176990-inverted-space.json](./176990-inverted-space.json) |
 | Invertinator | 350525 | [350525-invertinator.json](./350525-invertinator.json) |
 | Invertio | 186196 | [186196-invertio.json](./186196-invertio.json) |
