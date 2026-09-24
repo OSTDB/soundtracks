@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearls of the Oceans | 164974 | [164974-pearls-of-the-oceans.json](./164974-pearls-of-the-oceans.json) |
 | PearsAndGrayWitch | 81744 | [81744-pearsandgraywitch.json](./81744-pearsandgraywitch.json) |
 | Peas Adventure | 117034 | [117034-peas-adventure.json](./117034-peas-adventure.json) |
+| Peasant | 309470 | [309470-peasant.json](./309470-peasant.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
@@ -3052,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
 | Pixel Quest: The Lost Gifts | 413681 | [413681-pixel-quest-the-lost-gifts.json](./413681-pixel-quest-the-lost-gifts.json) |
 | Pixel Quest: The Lost Idols | 413680 | [413680-pixel-quest-the-lost-idols.json](./413680-pixel-quest-the-lost-idols.json) |
+| Pixel Race Maker | 309443 | [309443-pixel-race-maker.json](./309443-pixel-race-maker.json) |
 | Pixel Rampage | 358334 | [358334-pixel-rampage.json](./358334-pixel-rampage.json) |
 | Pixel Restorer | 312026 | [312026-pixel-restorer.json](./312026-pixel-restorer.json) |
 | Pixel Restorer: Image Folder 1 | 353414 | [353414-pixel-restorer-image-folder-1.json](./353414-pixel-restorer-image-folder-1.json) |
