@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beep Bap The Beep Boop | 265235 | [265235-beep-bap-the-beep-boop.json](./265235-beep-bap-the-beep-boop.json) |
 | Beep Boop | 319000 | [319000-beep-boop.json](./319000-beep-boop.json) |
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
+| Beer & Plunder | 320868 | [320868-beer-and-plunder.json](./320868-beer-and-plunder.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
@@ -4205,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blopper | 287236 | [287236-blopper.json](./287236-blopper.json) |
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
+| Blosics 2 | 320867 | [320867-blosics-2.json](./320867-blosics-2.json) |
 | Blossom | 178530 | [178530-blossom.json](./178530-blossom.json) |
 | Blossom | 388708 | [388708-blossom.json](./388708-blossom.json) |
 | Blossom Breeze | 347356 | [347356-blossom-breeze.json](./347356-blossom-breeze.json) |
@@ -4662,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonbonribbon: Tokimeki Coord Kirakira Dance | 222419 | [222419-bonbonribbon-tokimeki-coord-kirakira-dance.json](./222419-bonbonribbon-tokimeki-coord-kirakira-dance.json) |
 | Bond | 302388 | [302388-bond.json](./302388-bond.json) |
 | Bond Blues | 293107 | [293107-bond-blues.json](./293107-bond-blues.json) |
+| Bonded in Darkness | 320893 | [320893-bonded-in-darkness.json](./320893-bonded-in-darkness.json) |
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
 | Bonds | 111096 | [111096-bonds.json](./111096-bonds.json) |
 | Bonds of the Skies | 210264 | [210264-bonds-of-the-skies.json](./210264-bonds-of-the-skies.json) |
