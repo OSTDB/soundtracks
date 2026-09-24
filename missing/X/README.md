@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM 2: War of the Chosen | 37060 | [37060-xcom-2-war-of-the-chosen.json](./37060-xcom-2-war-of-the-chosen.json) |
 | XCOM: Chimera Squad | 132139 | [132139-xcom-chimera-squad.json](./132139-xcom-chimera-squad.json) |
 | XCOM: Enemy Unknown - Elite Edition | 88607 | [88607-xcom-enemy-unknown-elite-edition.json](./88607-xcom-enemy-unknown-elite-edition.json) |
+| XCOM: Enemy Unknown - Elite Soldier Pack | 286623 | [286623-xcom-enemy-unknown-elite-soldier-pack.json](./286623-xcom-enemy-unknown-elite-soldier-pack.json) |
 | XCOM: Enemy Unknown - Slingshot Pack | 225095 | [225095-xcom-enemy-unknown-slingshot-pack.json](./225095-xcom-enemy-unknown-slingshot-pack.json) |
 | XCUTE(me) | 147389 | [147389-xcute-me.json](./147389-xcute-me.json) |
 | Xd Clicker | 364511 | [364511-xd-clicker.json](./364511-xd-clicker.json) |
