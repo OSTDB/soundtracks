@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-17 | 33373 | [33373-x-17.json](./33373-x-17.json) |
 | X-Blades HD Gold | 230814 | [230814-x-blades-hd-gold.json](./230814-x-blades-hd-gold.json) |
 | X-Bladez: Inline Skater | 43941 | [43941-x-bladez-inline-skater.json](./43941-x-bladez-inline-skater.json) |
+| X-Bundle: Windows and Xbox games bundle | 331507 | [331507-x-bundle-windows-and-xbox-games-bundle.json](./331507-x-bundle-windows-and-xbox-games-bundle.json) |
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
 | X-COM Alliance | 85869 | [85869-x-com-alliance.json](./85869-x-com-alliance.json) |
 | X-COM: em@il Games | 96507 | [96507-x-com-em-il-games.json](./96507-x-com-em-il-games.json) |
