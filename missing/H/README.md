@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
 | Hallrunner | 135866 | [135866-hallrunner.json](./135866-hallrunner.json) |
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
+| Halls of Greed | 302422 | [302422-halls-of-greed.json](./302422-halls-of-greed.json) |
 | Halls of Montezuma: A Battle History of the United States Marine Corps | 12432 | [12432-halls-of-montezuma-a-battle-history-of-the-united-states-marine-corps.json](./12432-halls-of-montezuma-a-battle-history-of-the-united-states-marine-corps.json) |
 | Halls of Nyarlathotep | 373660 | [373660-halls-of-nyarlathotep.json](./373660-halls-of-nyarlathotep.json) |
 | Halls of the Shambler God | 271313 | [271313-halls-of-the-shambler-god.json](./271313-halls-of-the-shambler-god.json) |
@@ -735,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare | 83584 | [83584-hare.json](./83584-hare.json) |
 | Hare 136 | 340414 | [340414-hare-136.json](./340414-hare-136.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
+| Hare Trigger | 302444 | [302444-hare-trigger.json](./302444-hare-trigger.json) |
 | Hare's Hollow | 184607 | [184607-hares-hollow.json](./184607-hares-hollow.json) |
 | Harekat 2: Online | 252132 | [252132-harekat-2-online.json](./252132-harekat-2-online.json) |
 | Harem Girl: Nikki | 196224 | [196224-harem-girl-nikki.json](./196224-harem-girl-nikki.json) |
