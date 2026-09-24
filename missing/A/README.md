@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day in the Life Of | 387694 | [387694-a-day-in-the-life-of.json](./387694-a-day-in-the-life-of.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
+| A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
 | A Demon's Game: Episode 1 | 30053 | [30053-a-demons-game-episode-1.json](./30053-a-demons-game-episode-1.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
 | A Detective Game | 302498 | [302498-a-detective-game.json](./302498-a-detective-game.json) |
@@ -141,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
 | A Ghost Party | 307744 | [307744-a-ghost-party.json](./307744-a-ghost-party.json) |
+| A Ghost Story | 307700 | [307700-a-ghost-story.json](./307700-a-ghost-story.json) |
 | A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
 | A Goblin's Quest to Leave Her House and Get a Gyro for Lunch Because She Was Hungry | 338807 | [338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json](./338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json) |
 | A God-Like Backhand! | 29786 | [29786-a-god-like-backhand.json](./29786-a-god-like-backhand.json) |
@@ -188,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Knight's Pursuit | 311662 | [311662-a-knights-pursuit.json](./311662-a-knights-pursuit.json) |
 | A Knight's Quest | 109984 | [109984-a-knights-quest.json](./109984-a-knights-quest.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
+| A Koopa's Revenge 2 | 307669 | [307669-a-koopas-revenge-2.json](./307669-a-koopas-revenge-2.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A Light Jog | 315018 | [315018-a-light-jog.json](./315018-a-light-jog.json) |
@@ -1171,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterimage | 185642 | [185642-afterimage.json](./185642-afterimage.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
+| Afterlife Connections LLC | 307715 | [307715-afterlife-connections-llc.json](./307715-afterlife-connections-llc.json) |
 | Afterlife Harem | 316822 | [316822-afterlife-harem.json](./316822-afterlife-harem.json) |
 | Afterlife Reverie | 337799 | [337799-afterlife-reverie.json](./337799-afterlife-reverie.json) |
 | Afterlife VR | 146139 | [146139-afterlife-vr.json](./146139-afterlife-vr.json) |
