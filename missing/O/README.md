@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Man's Shit: An Interactive Trash Adventure | 128638 | [128638-one-mans-shit-an-interactive-trash-adventure.json](./128638-one-mans-shit-an-interactive-trash-adventure.json) |
 | One Man's Trash | 343353 | [343353-one-mans-trash.json](./343353-one-mans-trash.json) |
 | One Many Nobody | 201430 | [201430-one-many-nobody.json](./201430-one-many-nobody.json) |
+| One Military Camp: Biomes | 298097 | [298097-one-military-camp-biomes.json](./298097-one-military-camp-biomes.json) |
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
 | One Million Stars | 333652 | [333652-one-million-stars.json](./333652-one-million-stars.json) |
 | One minute of death | 112936 | [112936-one-minute-of-death.json](./112936-one-minute-of-death.json) |
