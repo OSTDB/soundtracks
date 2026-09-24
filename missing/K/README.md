@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
 | Kennedy Approach | 25920 | [25920-kennedy-approach.json](./25920-kennedy-approach.json) |
 | Kenny vs. Spenny: The Handheld Game | 395002 | [395002-kenny-vs-spenny-the-handheld-game.json](./395002-kenny-vs-spenny-the-handheld-game.json) |
+| Kenny vs. Spenny: Versusville | 303021 | [303021-kenny-vs-spenny-versusville.json](./303021-kenny-vs-spenny-versusville.json) |
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
 | Kenny's Adventure: In search of family treasures | 70352 | [70352-kennys-adventure-in-search-of-family-treasures.json](./70352-kennys-adventure-in-search-of-family-treasures.json) |
 | Kenoma: Action Without Action | 301252 | [301252-kenoma-action-without-action.json](./301252-kenoma-action-without-action.json) |
