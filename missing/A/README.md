@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. Invasion | 34855 | [34855-a-i-invasion.json](./34855-a-i-invasion.json) |
 | A.I. Invasion: Road of Rodan | 164435 | [164435-a-i-invasion-road-of-rodan.json](./164435-a-i-invasion-road-of-rodan.json) |
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
+| A.IV Evolution: Hatsubai Kinen Gentei Set | 307056 | [307056-a-iv-evolution-hatsubai-kinen-gentei-set.json](./307056-a-iv-evolution-hatsubai-kinen-gentei-set.json) |
 | A.L.A.N.: Rift Breakers | 120158 | [120158-a-l-a-n-rift-breakers.json](./120158-a-l-a-n-rift-breakers.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
@@ -534,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About Emma | 179038 | [179038-about-emma.json](./179038-about-emma.json) |
+| About Face | 307085 | [307085-about-face.json](./307085-about-face.json) |
 | About Frontlines | 411697 | [411697-about-frontlines.json](./411697-about-frontlines.json) |
 | About Love, Hate and the other ones | 3080 | [3080-about-love-hate-and-the-other-ones.json](./3080-about-love-hate-and-the-other-ones.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
@@ -3037,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Tears | 169444 | [169444-angel-tears.json](./169444-angel-tears.json) |
 | Angel Valley | 297065 | [297065-angel-valley.json](./297065-angel-valley.json) |
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
+| Angel Wings | 307047 | [307047-angel-wings.json](./307047-angel-wings.json) |
 | Angel Zero | 398592 | [398592-angel-zero.json](./398592-angel-zero.json) |
 | Angel, Devil, Elf and Me! | 111089 | [111089-angel-devil-elf-and-me.json](./111089-angel-devil-elf-and-me.json) |
 | Angel! | 177914 | [177914-angel.json](./177914-angel.json) |
