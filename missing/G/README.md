@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
 | Goat Survivor | 367025 | [367025-goat-survivor.json](./367025-goat-survivor.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
+| Gob Johnson's Downhill Marmalade | 333169 | [333169-gob-johnsons-downhill-marmalade.json](./333169-gob-johnsons-downhill-marmalade.json) |
 | Gob! | 257447 | [257447-gob.json](./257447-gob.json) |
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
 | Gobble | 394530 | [394530-gobble.json](./394530-gobble.json) |
@@ -3467,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groups of Seven | 335861 | [335861-groups-of-seven.json](./335861-groups-of-seven.json) |
 | Grove Island | 219162 | [219162-grove-island.json](./219162-grove-island.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
+| Grover's Travels | 333206 | [333206-grovers-travels.json](./333206-grovers-travels.json) |
 | Grow & Go: Cozy Deliveries | 414406 | [414406-grow-and-go-cozy-deliveries.json](./414406-grow-and-go-cozy-deliveries.json) |
 | Grow a Girlfriend | 353394 | [353394-grow-a-girlfriend.json](./353394-grow-a-girlfriend.json) |
 | Grow Battle: Fish and Feed | 103865 | [103865-grow-battle-fish-and-feed.json](./103865-grow-battle-fish-and-feed.json) |
