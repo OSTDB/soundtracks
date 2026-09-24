@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaizen Channel Mars TV | 109048 | [109048-kaizen-channel-mars-tv.json](./109048-kaizen-channel-mars-tv.json) |
 | Kaizo Block | 267455 | [267455-kaizo-block.json](./267455-kaizo-block.json) |
 | Kaizo Mario Galaxy | 249454 | [249454-kaizo-mario-galaxy.json](./249454-kaizo-mario-galaxy.json) |
+| Kaizo Mario Galaxy 2 | 294765 | [294765-kaizo-mario-galaxy-2.json](./294765-kaizo-mario-galaxy-2.json) |
 | Kaizo Mario Galaxy: Rebalanced | 262668 | [262668-kaizo-mario-galaxy-rebalanced.json](./262668-kaizo-mario-galaxy-rebalanced.json) |
 | Kaizo Mario World | 132654 | [132654-kaizo-mario-world.json](./132654-kaizo-mario-world.json) |
 | Kaizoku Sentai Gokaiger: Atsumete Henshin! 35 Sentai | 63580 | [63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json](./63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json) |
@@ -246,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kana Seito Defense | 324293 | [324293-kana-seito-defense.json](./324293-kana-seito-defense.json) |
 | Kana: Imouto | 56771 | [56771-kana-imouto.json](./56771-kana-imouto.json) |
 | Kanamono | 168215 | [168215-kanamono.json](./168215-kanamono.json) |
+| Kanashimi Arabesque | 294807 | [294807-kanashimi-arabesque.json](./294807-kanashimi-arabesque.json) |
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
 | Kanbutsu Himouto! Umaru-chan Daratto Puzzle | 222392 | [222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json](./222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json) |
 | Kanchayudha | 57106 | [57106-kanchayudha.json](./57106-kanchayudha.json) |
@@ -1395,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
 | Kirby Family | 248070 | [248070-kirby-family.json](./248070-kirby-family.json) |
 | Kirby Fighters 2 Memory Match-Up | 314986 | [314986-kirby-fighters-2-memory-match-up.json](./314986-kirby-fighters-2-memory-match-up.json) |
+| Kirby Gamble Galaxy Stories | 294790 | [294790-kirby-gamble-galaxy-stories.json](./294790-kirby-gamble-galaxy-stories.json) |
 | Kirby Gamble Galaxy Stories: The Future | 395702 | [395702-kirby-gamble-galaxy-stories-the-future.json](./395702-kirby-gamble-galaxy-stories-the-future.json) |
 | Kirby in Sonic the Hedgehog | 198524 | [198524-kirby-in-sonic-the-hedgehog.json](./198524-kirby-in-sonic-the-hedgehog.json) |
 | Kirby in Sonic the Hedgehog 2 | 198531 | [198531-kirby-in-sonic-the-hedgehog-2.json](./198531-kirby-in-sonic-the-hedgehog-2.json) |
