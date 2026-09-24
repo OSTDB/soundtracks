@@ -4667,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybound Colonies | 394529 | [394529-skybound-colonies.json](./394529-skybound-colonies.json) |
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
 | Skybride | 134634 | [134634-skybride.json](./134634-skybride.json) |
+| Skycards | 322122 | [322122-skycards.json](./322122-skycards.json) |
 | Skycity | 274216 | [274216-skycity.json](./274216-skycity.json) |
 | Skycliffs | 190727 | [190727-skycliffs.json](./190727-skycliffs.json) |
 | Skyclimbers | 135823 | [135823-skyclimbers.json](./135823-skyclimbers.json) |
@@ -5294,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash'em | 185543 | [185543-smashem.json](./185543-smashem.json) |
 | Smashbreak | 208959 | [208959-smashbreak.json](./208959-smashbreak.json) |
 | Smashcat | 10835 | [10835-smashcat.json](./10835-smashcat.json) |
+| Smashed and Boiled | 322110 | [322110-smashed-and-boiled.json](./322110-smashed-and-boiled.json) |
 | Smasher | 112976 | [112976-smasher.json](./112976-smasher.json) |
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
 | Smashing Drive | 2743 | [2743-smashing-drive.json](./2743-smashing-drive.json) |
