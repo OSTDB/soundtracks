@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
 | Call of Warfront | 404257 | [404257-call-of-warfront.json](./404257-call-of-warfront.json) |
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
+| Call the Tune | 320883 | [320883-call-the-tune.json](./320883-call-the-tune.json) |
 | Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
 | Call to Arms: Gates of Hell - Liberation | 261780 | [261780-call-to-arms-gates-of-hell-liberation.json](./261780-call-to-arms-gates-of-hell-liberation.json) |
 | Call to Arms: Gates of Hell - Ostfront | 211196 | [211196-call-to-arms-gates-of-hell-ostfront.json](./211196-call-to-arms-gates-of-hell-ostfront.json) |
@@ -1345,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
 | Cat City | 260227 | [260227-cat-city.json](./260227-cat-city.json) |
+| Cat Clean Ocean | 320916 | [320916-cat-clean-ocean.json](./320916-cat-clean-ocean.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Detective Albert Wilde | 191800 | [191800-cat-detective-albert-wilde.json](./191800-cat-detective-albert-wilde.json) |
@@ -4037,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
 | Coffee Break | 326214 | [326214-coffee-break.json](./326214-coffee-break.json) |
 | Coffee Buns | 281377 | [281377-coffee-buns.json](./281377-coffee-buns.json) |
+| Coffee Express | 320924 | [320924-coffee-express.json](./320924-coffee-express.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
@@ -7167,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Caves | 89663 | [89663-cursed-caves.json](./89663-cursed-caves.json) |
 | Cursed Ciddy | 414620 | [414620-cursed-ciddy.json](./414620-cursed-ciddy.json) |
 | Cursed Clouds 64 | 415299 | [415299-cursed-clouds-64.json](./415299-cursed-clouds-64.json) |
+| Cursed Conundrum | 320910 | [320910-cursed-conundrum.json](./320910-cursed-conundrum.json) |
 | Cursed Covenant: The Demonic Pursuit | 338712 | [338712-cursed-covenant-the-demonic-pursuit.json](./338712-cursed-covenant-the-demonic-pursuit.json) |
 | Cursed Crew | 217018 | [217018-cursed-crew.json](./217018-cursed-crew.json) |
 | Cursed Demons of Wallachia | 365767 | [365767-cursed-demons-of-wallachia.json](./365767-cursed-demons-of-wallachia.json) |
