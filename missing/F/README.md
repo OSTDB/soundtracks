@@ -159,7 +159,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
 | Faceball 2000 DX | 279728 | [279728-faceball-2000-dx.json](./279728-faceball-2000-dx.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
+| Faceless | 320882 | [320882-faceless.json](./320882-faceless.json) |
 | Faceless | 340047 | [340047-faceless.json](./340047-faceless.json) |
+| Faceless: Prologue | 320880 | [320880-faceless-prologue.json](./320880-faceless-prologue.json) |
 | Facemaker | 326621 | [326621-facemaker.json](./326621-facemaker.json) |
 | Faceminer | 257986 | [257986-faceminer.json](./257986-faceminer.json) |
 | FaceRig | 11305 | [11305-facerig.json](./11305-facerig.json) |
@@ -1664,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Tennis | 321769 | [321769-fight-tennis.json](./321769-fight-tennis.json) |
 | Fight the Dracula! | 229357 | [229357-fight-the-dracula.json](./229357-fight-the-dracula.json) |
 | Fight the Landlord | 165017 | [165017-fight-the-landlord.json](./165017-fight-the-landlord.json) |
+| Fight the Skeleton Mage from the Crypt!! | 320870 | [320870-fight-the-skeleton-mage-from-the-crypt.json](./320870-fight-the-skeleton-mage-from-the-crypt.json) |
 | Fight till the End! | 289440 | [289440-fight-till-the-end.json](./289440-fight-till-the-end.json) |
 | Fight To The Death | 288200 | [288200-fight-to-the-death.json](./288200-fight-to-the-death.json) |
 | Fight Until Death | 219783 | [219783-fight-until-death.json](./219783-fight-until-death.json) |
