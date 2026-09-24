@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
+| Taiko no Tatsujin 13 | 294220 | [294220-taiko-no-tatsujin-13.json](./294220-taiko-no-tatsujin-13.json) |
 | Taiko no Tatsujin Arcade | 85872 | [85872-taiko-no-tatsujin-arcade.json](./85872-taiko-no-tatsujin-arcade.json) |
 | Taiko no Tatsujin Portable DX | 78348 | [78348-taiko-no-tatsujin-portable-dx.json](./78348-taiko-no-tatsujin-portable-dx.json) |
 | Taiko no Tatsujin: Appare Sandaime | 123432 | [123432-taiko-no-tatsujin-appare-sandaime.json](./123432-taiko-no-tatsujin-appare-sandaime.json) |
@@ -6724,6 +6725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing With Mistletoes | 29589 | [29589-the-thing-with-mistletoes.json](./29589-the-thing-with-mistletoes.json) |
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
 | The Things We Lost in the Flood | 118170 | [118170-the-things-we-lost-in-the-flood.json](./118170-the-things-we-lost-in-the-flood.json) |
+| The Thinker | 294210 | [294210-the-thinker.json](./294210-the-thinker.json) |
 | The Third Age | 264137 | [264137-the-third-age.json](./264137-the-third-age.json) |
 | The Third Celestial Realm | 358500 | [358500-the-third-celestial-realm.json](./358500-the-third-celestial-realm.json) |
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
