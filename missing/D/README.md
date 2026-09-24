@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
 | Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
+| Destiny Star Girlfriend 3 | 315039 | [315039-destiny-star-girlfriend-3.json](./315039-destiny-star-girlfriend-3.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
 | Destiny's Plan | 182355 | [182355-destinys-plan.json](./182355-destinys-plan.json) |
@@ -3939,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Technika Q | 80199 | [80199-djmax-technika-q.json](./80199-djmax-technika-q.json) |
 | DJMax Technika Tune: Limited Edition | 89906 | [89906-djmax-technika-tune-limited-edition.json](./89906-djmax-technika-tune-limited-edition.json) |
 | DK Bongo Blast | 231476 | [231476-dk-bongo-blast.json](./231476-dk-bongo-blast.json) |
+| DK Jungle Climber 64 DS | 315006 | [315006-dk-jungle-climber-64-ds.json](./315006-dk-jungle-climber-64-ds.json) |
 | DK: Jungle Climber | 1099 | [1099-dk-jungle-climber.json](./1099-dk-jungle-climber.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
 | DK64 Randomizer | 206186 | [206186-dk64-randomizer.json](./206186-dk64-randomizer.json) |
@@ -5502,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragoon Might | 39555 | [39555-dragoon-might.json](./39555-dragoon-might.json) |
 | Dragoon X Omega | 48685 | [48685-dragoon-x-omega.json](./48685-dragoon-x-omega.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
+| Drags Tavern | 315009 | [315009-drags-tavern.json](./315009-drags-tavern.json) |
 | Dragster | 46885 | [46885-dragster.json](./46885-dragster.json) |
 | Dragu's Puzzle Adventure | 155648 | [155648-dragus-puzzle-adventure.json](./155648-dragus-puzzle-adventure.json) |
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
