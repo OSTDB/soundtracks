@@ -3210,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinkon Gattai Godannar!! | 70905 | [70905-shinkon-gattai-godannar.json](./70905-shinkon-gattai-godannar.json) |
 | ShinNaZuki | 355196 | [355196-shinnazuki.json](./355196-shinnazuki.json) |
 | Shinobi | 10223 | [10223-shinobi.json](./10223-shinobi.json) |
+| Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Shinobi no Dokutsu | 181773 | [181773-shinobi-no-dokutsu.json](./181773-shinobi-no-dokutsu.json) |
@@ -3997,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sim Sports Raid | 384213 | [384213-sim-sports-raid.json](./384213-sim-sports-raid.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
 | Sim: Heavyweight Boxing Champion | 397264 | [397264-sim-heavyweight-boxing-champion.json](./397264-sim-heavyweight-boxing-champion.json) |
+| SIM: Simple Idle Miner | 309462 | [309462-sim-simple-idle-miner.json](./309462-sim-simple-idle-miner.json) |
 | SimAirport | 27686 | [27686-simairport.json](./27686-simairport.json) |
 | Simajo: The Travel Mystery Game | 54358 | [54358-simajo-the-travel-mystery-game.json](./54358-simajo-the-travel-mystery-game.json) |
 | SimAnimals | 371270 | [371270-simanimals.json](./371270-simanimals.json) |
@@ -4192,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator Z | 277838 | [277838-simulator-z.json](./277838-simulator-z.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
 | Simuliator Sidieniia Na Kryshie | 163858 | [163858-simuliator-sidieniia-na-kryshie.json](./163858-simuliator-sidieniia-na-kryshie.json) |
+| SimuLove! vol. 1 | 309438 | [309438-simulove-vol-1.json](./309438-simulove-vol-1.json) |
 | SiN | 1045 | [1045-sin.json](./1045-sin.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Cards: Welcome to the Netherworld | 337084 | [337084-sin-cards-welcome-to-the-netherworld.json](./337084-sin-cards-welcome-to-the-netherworld.json) |
@@ -7935,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound Hearts | 286013 | [286013-spellbound-hearts.json](./286013-spellbound-hearts.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
 | Spellbound Spire | 142428 | [142428-spellbound-spire.json](./142428-spellbound-spire.json) |
+| Spellbound: A Detective's Tale | 309486 | [309486-spellbound-a-detectives-tale.json](./309486-spellbound-a-detectives-tale.json) |
 | Spellbound: Malachite Coven | 368150 | [368150-spellbound-malachite-coven.json](./368150-spellbound-malachite-coven.json) |
 | Spellbound! | 318020 | [318020-spellbound.json](./318020-spellbound.json) |
 | Spellbound! | 318021 | [318021-spellbound.json](./318021-spellbound.json) |
@@ -9093,6 +9097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Struck | 78375 | [78375-star-struck.json](./78375-star-struck.json) |
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
+| Star System Battle | 309463 | [309463-star-system-battle.json](./309463-star-system-battle.json) |
 | Star Tactics Redux | 169965 | [169965-star-tactics-redux.json](./169965-star-tactics-redux.json) |
 | Star Tactics Redux: Clash of Fleets | 95856 | [95856-star-tactics-redux-clash-of-fleets.json](./95856-star-tactics-redux-clash-of-fleets.json) |
 | Star Tactics Redux: Expeditions | 169952 | [169952-star-tactics-redux-expeditions.json](./169952-star-tactics-redux-expeditions.json) |
@@ -11354,6 +11359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Love | 367618 | [367618-sunny-love.json](./367618-sunny-love.json) |
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
+| Sunny Side Crossing | 309442 | [309442-sunny-side-crossing.json](./309442-sunny-side-crossing.json) |
 | Sunny Side Nightmare | 320886 | [320886-sunny-side-nightmare.json](./320886-sunny-side-nightmare.json) |
 | Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
 | Sunray OS | 285582 | [285582-sunray-os.json](./285582-sunray-os.json) |
@@ -12852,6 +12858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
+| Survival in Draconia | 309468 | [309468-survival-in-draconia.json](./309468-survival-in-draconia.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
 | Survival Maze | 99428 | [99428-survival-maze.json](./99428-survival-maze.json) |
