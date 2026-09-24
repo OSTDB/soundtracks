@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
 | HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
+| Headlice | 292585 | [292585-headlice.json](./292585-headlice.json) |
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
 | Headmaster: The Lost Lessons | 174186 | [174186-headmaster-the-lost-lessons.json](./174186-headmaster-the-lost-lessons.json) |
 | Headpat Special Taskforce | 400320 | [400320-headpat-special-taskforce.json](./400320-headpat-special-taskforce.json) |
@@ -4235,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Fish | 378170 | [378170-how-to-fish.json](./378170-how-to-fish.json) |
 | How to Fly a Cannon | 405537 | [405537-how-to-fly-a-cannon.json](./405537-how-to-fly-a-cannon.json) |
 | How to Fool a Liar King | 72344 | [72344-how-to-fool-a-liar-king.json](./72344-how-to-fool-a-liar-king.json) |
+| How to Get a Japanese Girlfriend (And Save the World) | 292634 | [292634-how-to-get-a-japanese-girlfriend-and-save-the-world.json](./292634-how-to-get-a-japanese-girlfriend-and-save-the-world.json) |
 | How to Grow Your Sausage | 404405 | [404405-how-to-grow-your-sausage.json](./404405-how-to-grow-your-sausage.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
 | How to Make a Floating City | 116114 | [116114-how-to-make-a-floating-city.json](./116114-how-to-make-a-floating-city.json) |
