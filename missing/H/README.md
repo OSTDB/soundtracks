@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Salon: Cool Stories | 237376 | [237376-hair-salon-cool-stories.json](./237376-hair-salon-cool-stories.json) |
 | Hairdresser Liquidator Bundle | 342236 | [342236-hairdresser-liquidator-bundle.json](./342236-hairdresser-liquidator-bundle.json) |
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
+| Hairy Trees Massacre | 299833 | [299833-hairy-trees-massacre.json](./299833-hairy-trees-massacre.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
 | Haitenai RPG | 211725 | [211725-haitenai-rpg.json](./211725-haitenai-rpg.json) |
 | Haitoku Silene | 157058 | [157058-haitoku-silene.json](./157058-haitoku-silene.json) |
@@ -2108,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heritage Hills | 156666 | [156666-heritage-hills.json](./156666-heritage-hills.json) |
 | Heritage: A Dragon's Tale | 250043 | [250043-heritage-a-dragons-tale.json](./250043-heritage-a-dragons-tale.json) |
 | Herman Electro | 137471 | [137471-herman-electro.json](./137471-herman-electro.json) |
+| Hermano | 299857 | [299857-hermano.json](./299857-hermano.json) |
 | Hermes | 94255 | [94255-hermes.json](./94255-hermes.json) |
 | Hermes: War of the Gods | 127089 | [127089-hermes-war-of-the-gods.json](./127089-hermes-war-of-the-gods.json) |
 | Hermes' Runner | 334193 | [334193-hermes-runner.json](./334193-hermes-runner.json) |
