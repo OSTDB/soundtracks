@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim is Moving Out! | 120433 | [120433-jim-is-moving-out.json](./120433-jim-is-moving-out.json) |
 | Jim's Gym | 241056 | [241056-jims-gym.json](./241056-jims-gym.json) |
 | Jimbob and the Magic Chain | 199073 | [199073-jimbob-and-the-magic-chain.json](./199073-jimbob-and-the-magic-chain.json) |
+| Jiminy's Morning Adventure | 293712 | [293712-jiminys-morning-adventure.json](./293712-jiminys-morning-adventure.json) |
 | Jimmie Johnson's Anything with an Engine | 7023 | [7023-jimmie-johnsons-anything-with-an-engine.json](./7023-jimmie-johnsons-anything-with-an-engine.json) |
 | Jimmy and the Pulsating Mass | 59227 | [59227-jimmy-and-the-pulsating-mass.json](./59227-jimmy-and-the-pulsating-mass.json) |
 | Jimmy Connors Pro Tennis Tour | 42605 | [42605-jimmy-connors-pro-tennis-tour.json](./42605-jimmy-connors-pro-tennis-tour.json) |
