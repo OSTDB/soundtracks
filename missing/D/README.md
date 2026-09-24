@@ -1420,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Zone: Rebirth of Survivors | 270103 | [270103-dead-zone-rebirth-of-survivors.json](./270103-dead-zone-rebirth-of-survivors.json) |
 | Dead_file.exe | 52072 | [52072-dead-file-exe.json](./52072-dead-file-exe.json) |
 | Dead, Too Dead | 326286 | [326286-dead-too-dead.json](./326286-dead-too-dead.json) |
+| Dead's dawn | 286039 | [286039-deads-dawn.json](./286039-deads-dawn.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
 | Deadball Specialist | 58191 | [58191-deadball-specialist.json](./58191-deadball-specialist.json) |
 | DeadballCrusader | 290951 | [290951-deadballcrusader.json](./290951-deadballcrusader.json) |
@@ -2291,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Knight | 38922 | [38922-demon-knight.json](./38922-demon-knight.json) |
 | Demon Lily and the Noir Maid | 397055 | [397055-demon-lily-and-the-noir-maid.json](./397055-demon-lily-and-the-noir-maid.json) |
 | Demon Lord | 29776 | [29776-demon-lord.json](./29776-demon-lord.json) |
+| Demon Lord Reincarnation Gaiden | 286046 | [286046-demon-lord-reincarnation-gaiden.json](./286046-demon-lord-reincarnation-gaiden.json) |
 | Demon Lord: Clicker | 312739 | [312739-demon-lord-clicker.json](./312739-demon-lord-clicker.json) |
 | Demon Lord: Reincarnation | 250969 | [250969-demon-lord-reincarnation.json](./250969-demon-lord-reincarnation.json) |
 | Demon Mark: A Russian Saga | 28779 | [28779-demon-mark-a-russian-saga.json](./28779-demon-mark-a-russian-saga.json) |
@@ -3035,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice | 288365 | [288365-dice.json](./288365-dice.json) |
 | Dice | 309457 | [309457-dice.json](./309457-dice.json) |
 | Dice & Fold | 276684 | [276684-dice-and-fold.json](./276684-dice-and-fold.json) |
+| Dice & Sword | 286063 | [286063-dice-and-sword.json](./286063-dice-and-sword.json) |
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
 | Dice Battle | 279007 | [279007-dice-battle.json](./279007-dice-battle.json) |
 | Dice Birth Road | 290475 | [290475-dice-birth-road.json](./290475-dice-birth-road.json) |
@@ -6269,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
+| DSS war party | 286071 | [286071-dss-war-party.json](./286071-dss-war-party.json) |
 | DT Racer Refueled | 68306 | [68306-dt-racer-refueled.json](./68306-dt-racer-refueled.json) |
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
 | DTET | 341123 | [341123-dtet.json](./341123-dtet.json) |
