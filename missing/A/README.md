@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
+| Adventure in XX City 2: Finding BB | 314411 | [314411-adventure-in-xx-city-2-finding-bb.json](./314411-adventure-in-xx-city-2-finding-bb.json) |
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
@@ -3814,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
 | Apple Catch | 317457 | [317457-apple-catch.json](./317457-apple-catch.json) |
 | Apple Cider Spider | 12254 | [12254-apple-cider-spider.json](./12254-apple-cider-spider.json) |
+| Apple Clicker | 314410 | [314410-apple-clicker.json](./314410-apple-clicker.json) |
 | Apple Grove Picking Games | 116098 | [116098-apple-grove-picking-games.json](./116098-apple-grove-picking-games.json) |
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
 | Apple Jack 1&2 | 35716 | [35716-apple-jack-1-and-2.json](./35716-apple-jack-1-and-2.json) |
@@ -4433,6 +4435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Battle | 230960 | [230960-arena-battle.json](./230960-arena-battle.json) |
 | Arena Blues: Requiem for 35 | 416113 | [416113-arena-blues-requiem-for-35.json](./416113-arena-blues-requiem-for-35.json) |
 | Arena Breakout | 174684 | [174684-arena-breakout.json](./174684-arena-breakout.json) |
+| Arena Breakout: Infinite - Season 0 | 314406 | [314406-arena-breakout-infinite-season-0.json](./314406-arena-breakout-infinite-season-0.json) |
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
 | Arena Breakout: Season 1 | 318412 | [318412-arena-breakout-season-1.json](./318412-arena-breakout-season-1.json) |
 | Arena Breakout: Season 3 - Enter the Vault | 318415 | [318415-arena-breakout-season-3-enter-the-vault.json](./318415-arena-breakout-season-3-enter-the-vault.json) |
