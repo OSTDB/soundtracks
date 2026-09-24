@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
 | Hentai Girls Special Edition | 263557 | [263557-hentai-girls-special-edition.json](./263557-hentai-girls-special-edition.json) |
+| Hentai Girls: Adorable Angel | 328522 | [328522-hentai-girls-adorable-angel.json](./328522-hentai-girls-adorable-angel.json) |
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Sakura Romance | 294843 | [294843-hentai-girls-sakura-romance.json](./294843-hentai-girls-sakura-romance.json) |
 | Hentai Girls: Sexy Feet Goddesses | 296907 | [296907-hentai-girls-sexy-feet-goddesses.json](./296907-hentai-girls-sexy-feet-goddesses.json) |
 | Hentai Girls: Steamy Maid | 300864 | [300864-hentai-girls-steamy-maid.json](./300864-hentai-girls-steamy-maid.json) |
+| Hentai Girls: Sweet Skier | 328521 | [328521-hentai-girls-sweet-skier.json](./328521-hentai-girls-sweet-skier.json) |
 | Hentai Girls: Ultra Extended | 308817 | [308817-hentai-girls-ultra-extended.json](./308817-hentai-girls-ultra-extended.json) |
 | Hentai Golf | 283177 | [283177-hentai-golf.json](./283177-hentai-golf.json) |
 | Hentai Golf: Complete + | 324468 | [324468-hentai-golf-complete.json](./324468-hentai-golf-complete.json) |
