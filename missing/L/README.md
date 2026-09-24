@@ -472,9 +472,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
 | Last Epoch | 95118 | [95118-last-epoch.json](./95118-last-epoch.json) |
+| Last Epoch: "Golden Guppy" the Baby Chronowyrm | 286564 | [286564-last-epoch-golden-guppy-the-baby-chronowyrm.json](./286564-last-epoch-golden-guppy-the-baby-chronowyrm.json) |
+| Last Epoch: Adolescent Chronowyrm | 286565 | [286565-last-epoch-adolescent-chronowyrm.json](./286565-last-epoch-adolescent-chronowyrm.json) |
 | Last Epoch: Beneath Ancient Skies | 362439 | [362439-last-epoch-beneath-ancient-skies.json](./362439-last-epoch-beneath-ancient-skies.json) |
 | Last Epoch: Shattered Omens | 408917 | [408917-last-epoch-shattered-omens.json](./408917-last-epoch-shattered-omens.json) |
 | Last Epoch: Tombs of the Erased | 341008 | [341008-last-epoch-tombs-of-the-erased.json](./341008-last-epoch-tombs-of-the-erased.json) |
+| Last Epoch: Twilight Fox | 286563 | [286563-last-epoch-twilight-fox.json](./286563-last-epoch-twilight-fox.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
 | Last Floor | 400252 | [400252-last-floor.json](./400252-last-floor.json) |
@@ -2025,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineage II Classic | 109600 | [109600-lineage-ii-classic.json](./109600-lineage-ii-classic.json) |
 | Lineage II: The Chaotic Throne - The 1st Throne: The Kamael | 21497 | [21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json](./21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json) |
 | Lineal Distancing | 299769 | [299769-lineal-distancing.json](./299769-lineal-distancing.json) |
+| Lineality | 286600 | [286600-lineality.json](./286600-lineality.json) |
 | Linear Calamity | 293676 | [293676-linear-calamity.json](./293676-linear-calamity.json) |
 | Linear S | 349331 | [349331-linear-s.json](./349331-linear-s.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
