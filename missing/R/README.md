@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Hole | 289347 | [289347-rabbit-hole.json](./289347-rabbit-hole.json) |
 | Rabbit Hole 3D: Steam Edition | 90584 | [90584-rabbit-hole-3d-steam-edition.json](./90584-rabbit-hole-3d-steam-edition.json) |
 | Rabbit Hop | 245417 | [245417-rabbit-hop.json](./245417-rabbit-hop.json) |
+| Rabbit Horror Show | 319705 | [319705-rabbit-horror-show.json](./319705-rabbit-horror-show.json) |
 | Rabbit in Dungeon | 316411 | [316411-rabbit-in-dungeon.json](./316411-rabbit-in-dungeon.json) |
 | Rabbit in the Clouds | 316849 | [316849-rabbit-in-the-clouds.json](./316849-rabbit-in-the-clouds.json) |
 | Rabbit Jump | 348946 | [348946-rabbit-jump.json](./348946-rabbit-jump.json) |
@@ -684,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Racing | 159124 | [159124-random-racing.json](./159124-random-racing.json) |
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
 | Random War | 118807 | [118807-random-war.json](./118807-random-war.json) |
+| Randomax | 319752 | [319752-randomax.json](./319752-randomax.json) |
 | Randomish | 217400 | [217400-randomish.json](./217400-randomish.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
 | Randotura | 325694 | [325694-randotura.json](./325694-randotura.json) |
@@ -830,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
 | Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
 | RavenHeart Hospital: A Medical Visual Novel | 165009 | [165009-ravenheart-hospital-a-medical-visual-novel.json](./165009-ravenheart-hospital-a-medical-visual-novel.json) |
+| Ravenholm | 319744 | [319744-ravenholm.json](./319744-ravenholm.json) |
 | Ravenlok | 204626 | [204626-ravenlok.json](./204626-ravenlok.json) |
 | Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
@@ -1340,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recondo | 215888 | [215888-recondo.json](./215888-recondo.json) |
 | Reconnect | 161395 | [161395-reconnect.json](./161395-reconnect.json) |
 | Reconnoitre | 270128 | [270128-reconnoitre.json](./270128-reconnoitre.json) |
+| Reconquer Online | 319734 | [319734-reconquer-online.json](./319734-reconquer-online.json) |
 | Reconquista | 319242 | [319242-reconquista.json](./319242-reconquista.json) |
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Recontact London: Cyber Puzzle | 160244 | [160244-recontact-london-cyber-puzzle.json](./160244-recontact-london-cyber-puzzle.json) |
