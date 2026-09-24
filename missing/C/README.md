@@ -3684,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click the Clown 2020 | 142437 | [142437-click-the-clown-2020.json](./142437-click-the-clown-2020.json) |
 | Click the Shape | 362476 | [362476-click-the-shape.json](./362476-click-the-shape.json) |
 | Click to 13 | 288334 | [288334-click-to-13.json](./288334-click-to-13.json) |
+| Click To Eleven | 298656 | [298656-click-to-eleven.json](./298656-click-to-eleven.json) |
 | Click to Obsolete | 413167 | [413167-click-to-obsolete.json](./413167-click-to-obsolete.json) |
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
 | Click Tycoon | 125196 | [125196-click-tycoon.json](./125196-click-tycoon.json) |
