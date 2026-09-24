@@ -942,6 +942,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Is Dead | 2940 | [2940-killer-is-dead.json](./2940-killer-is-dead.json) |
 | Killer Junkyard | 295894 | [295894-killer-junkyard.json](./295894-killer-junkyard.json) |
 | Killer Karaoke: el juego | 245308 | [245308-killer-karaoke-el-juego.json](./245308-killer-karaoke-el-juego.json) |
+| Killer Klowns From Outer Space: Fatso | 322739 | [322739-killer-klowns-from-outer-space-fatso.json](./322739-killer-klowns-from-outer-space-fatso.json) |
+| Killer Klowns From Outer Space: Human Summer Outfit Pack | 322733 | [322733-killer-klowns-from-outer-space-human-summer-outfit-pack.json](./322733-killer-klowns-from-outer-space-human-summer-outfit-pack.json) |
+| Killer Klowns From Outer Space: Infernal Brawler - Impy | 322738 | [322738-killer-klowns-from-outer-space-infernal-brawler-impy.json](./322738-killer-klowns-from-outer-space-infernal-brawler-impy.json) |
+| Killer Klowns From Outer Space: Infernal Hunter - Zombo | 322735 | [322735-killer-klowns-from-outer-space-infernal-hunter-zombo.json](./322735-killer-klowns-from-outer-space-infernal-hunter-zombo.json) |
+| Killer Klowns From Outer Space: Infernal Tank - Gutso | 322736 | [322736-killer-klowns-from-outer-space-infernal-tank-gutso.json](./322736-killer-klowns-from-outer-space-infernal-tank-gutso.json) |
+| Killer Klowns From Outer Space: Infernal Tracker - Slappy | 322734 | [322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json](./322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json) |
 | Killer Koobs | 224078 | [224078-killer-koobs.json](./224078-killer-koobs.json) |
 | Killer of Kings | 397941 | [397941-killer-of-kings.json](./397941-killer-of-kings.json) |
 | Killer Pool | 175279 | [175279-killer-pool.json](./175279-killer-pool.json) |
