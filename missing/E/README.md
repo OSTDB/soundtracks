@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes: Operation Stranglehold | 334666 | [334666-echoes-operation-stranglehold.json](./334666-echoes-operation-stranglehold.json) |
 | Echoes: Season 1 - Greenhearth | 366902 | [366902-echoes-season-1-greenhearth.json](./366902-echoes-season-1-greenhearth.json) |
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
+| Echolight | 287712 | [287712-echolight.json](./287712-echolight.json) |
 | Echoplex | 25237 | [25237-echoplex.json](./25237-echoplex.json) |
 | EchoShell | 382434 | [382434-echoshell.json](./382434-echoshell.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
@@ -913,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElfMiner | 360612 | [360612-elfminer.json](./360612-elfminer.json) |
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
+| Elhosea | 287710 | [287710-elhosea.json](./287710-elhosea.json) |
 | Elidon | 13633 | [13633-elidon.json](./13633-elidon.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
@@ -1744,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Er-Spectro | 81769 | [81769-er-spectro.json](./81769-er-spectro.json) |
 | Era | 83940 | [83940-era.json](./83940-era.json) |
 | Era of Combat: Boxing | 189055 | [189055-era-of-combat-boxing.json](./189055-era-of-combat-boxing.json) |
+| Era of Darkness | 287735 | [287735-era-of-darkness.json](./287735-era-of-darkness.json) |
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
@@ -2236,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal One: Memories of Kumo Island | 369760 | [369760-eternal-one-memories-of-kumo-island.json](./369760-eternal-one-memories-of-kumo-island.json) |
 | Eternal Poison | 21334 | [21334-eternal-poison.json](./21334-eternal-poison.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
+| Eternal Reckoning | 287733 | [287733-eternal-reckoning.json](./287733-eternal-reckoning.json) |
 | Eternal Return | 135842 | [135842-eternal-return.json](./135842-eternal-return.json) |
 | Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
 | Eternal Rome | 244241 | [244241-eternal-rome.json](./244241-eternal-rome.json) |
