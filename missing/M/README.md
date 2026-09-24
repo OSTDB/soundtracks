@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
 | Maritime Calling | 155978 | [155978-maritime-calling.json](./155978-maritime-calling.json) |
 | Maritime Hegemony | 220748 | [220748-maritime-hegemony.json](./220748-maritime-hegemony.json) |
+| Maritime Mecha Mystery | 291558 | [291558-maritime-mecha-mystery.json](./291558-maritime-mecha-mystery.json) |
 | Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
 | Mark My Words | 360016 | [360016-mark-my-words.json](./360016-mark-my-words.json) |
 | Mark of Cain | 391741 | [391741-mark-of-cain.json](./391741-mark-of-cain.json) |
@@ -6697,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouth Trap | 318429 | [318429-mouth-trap.json](./318429-mouth-trap.json) |
 | Mouthwashing | 264410 | [264410-mouthwashing.json](./264410-mouthwashing.json) |
 | Move 78 | 157207 | [157207-move-78.json](./157207-move-78.json) |
+| Move Ball to Green | 291518 | [291518-move-ball-to-green.json](./291518-move-ball-to-green.json) |
 | Move Blocks | 285454 | [285454-move-blocks.json](./285454-move-blocks.json) |
 | Move Fitness | 22937 | [22937-move-fitness.json](./22937-move-fitness.json) |
 | Move Fun | 246396 | [246396-move-fun.json](./246396-move-fun.json) |
@@ -8074,6 +8076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Samurai | 136453 | [136453-mystical-samurai.json](./136453-mystical-samurai.json) |
 | Mystical Stones | 247172 | [247172-mystical-stones.json](./247172-mystical-stones.json) |
 | Mystics Ablaze | 383345 | [383345-mystics-ablaze.json](./383345-mystics-ablaze.json) |
+| Mystified Cat | 291551 | [291551-mystified-cat.json](./291551-mystified-cat.json) |
 | Mystik Adventure | 184520 | [184520-mystik-adventure.json](./184520-mystik-adventure.json) |
 | Mystik Belle | 36144 | [36144-mystik-belle.json](./36144-mystik-belle.json) |
 | Mystik Belle: Enchanted Edition | 187501 | [187501-mystik-belle-enchanted-edition.json](./187501-mystik-belle-enchanted-edition.json) |
