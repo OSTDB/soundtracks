@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T02:48:10.936Z",
-  "total_missing": 114127,
+  "generated_at": "2026-09-24T03:04:17.605Z",
+  "total_missing": 114177,
   "games": [
     {
       "igdb_id": 176875,
@@ -6996,6 +6996,11 @@
       "igdb_id": 338298,
       "game_name": "A Whisper in the Twilight: Chapter Two",
       "file": "missing/A/338298-a-whisper-in-the-twilight-chapter-two.json"
+    },
+    {
+      "igdb_id": 329682,
+      "game_name": "A Whole Wolfrush",
+      "file": "missing/A/329682-a-whole-wolfrush.json"
     },
     {
       "igdb_id": 390106,
@@ -37268,6 +37273,11 @@
       "file": "missing/B/20720-backyard-bounce.json"
     },
     {
+      "igdb_id": 329668,
+      "game_name": "Backyard Boxing",
+      "file": "missing/B/329668-backyard-boxing.json"
+    },
+    {
       "igdb_id": 346673,
       "game_name": "Backyard Digger",
       "file": "missing/B/346673-backyard-digger.json"
@@ -40718,9 +40728,19 @@
       "file": "missing/B/329746-barcode-world-senyou-card-barrier-rod.json"
     },
     {
+      "igdb_id": 329758,
+      "game_name": "Barcode World Senyou Card: Candy",
+      "file": "missing/B/329758-barcode-world-senyou-card-candy.json"
+    },
+    {
       "igdb_id": 329737,
       "game_name": "Barcode World Senyou Card: Carry (Dead Zone)",
       "file": "missing/B/329737-barcode-world-senyou-card-carry-dead-zone.json"
+    },
+    {
+      "igdb_id": 329753,
+      "game_name": "Barcode World Senyou Card: Hayabusa Suit",
+      "file": "missing/B/329753-barcode-world-senyou-card-hayabusa-suit.json"
     },
     {
       "igdb_id": 329721,
@@ -40731,6 +40751,11 @@
       "igdb_id": 329748,
       "game_name": "Barcode World Senyou Card: Hebe no Boushi",
       "file": "missing/B/329748-barcode-world-senyou-card-hebe-no-boushi.json"
+    },
+    {
+      "igdb_id": 329755,
+      "game_name": "Barcode World Senyou Card: Innsmouth",
+      "file": "missing/B/329755-barcode-world-senyou-card-innsmouth.json"
     },
     {
       "igdb_id": 329739,
@@ -40753,9 +40778,19 @@
       "file": "missing/B/329740-barcode-world-senyou-card-lucia-madoola-no-tsubasa.json"
     },
     {
+      "igdb_id": 329754,
+      "game_name": "Barcode World Senyou Card: Magic Boots",
+      "file": "missing/B/329754-barcode-world-senyou-card-magic-boots.json"
+    },
+    {
       "igdb_id": 329751,
       "game_name": "Barcode World Senyou Card: Neko no Kigurumi",
       "file": "missing/B/329751-barcode-world-senyou-card-neko-no-kigurumi.json"
+    },
+    {
+      "igdb_id": 329756,
+      "game_name": "Barcode World Senyou Card: Nenchakuzai",
+      "file": "missing/B/329756-barcode-world-senyou-card-nenchakuzai.json"
     },
     {
       "igdb_id": 329745,
@@ -40771,6 +40806,21 @@
       "igdb_id": 329743,
       "game_name": "Barcode World Senyou Card: Popoon",
       "file": "missing/B/329743-barcode-world-senyou-card-popoon.json"
+    },
+    {
+      "igdb_id": 329752,
+      "game_name": "Barcode World Senyou Card: Powered Armor",
+      "file": "missing/B/329752-barcode-world-senyou-card-powered-armor.json"
+    },
+    {
+      "igdb_id": 329757,
+      "game_name": "Barcode World Senyou Card: Russian Fuusen",
+      "file": "missing/B/329757-barcode-world-senyou-card-russian-fuusen.json"
+    },
+    {
+      "igdb_id": 329759,
+      "game_name": "Barcode World Senyou Card: Skateboard",
+      "file": "missing/B/329759-barcode-world-senyou-card-skateboard.json"
     },
     {
       "igdb_id": 329742,
@@ -89693,6 +89743,11 @@
       "file": "missing/C/290958-collateral-dungeon.json"
     },
     {
+      "igdb_id": 329679,
+      "game_name": "Collect Baby Oil",
+      "file": "missing/C/329679-collect-baby-oil.json"
+    },
+    {
       "igdb_id": 288764,
       "game_name": "Collect Call",
       "file": "missing/C/288764-collect-call.json"
@@ -110033,6 +110088,11 @@
       "file": "missing/D/30813-dark-war.json"
     },
     {
+      "igdb_id": 329651,
+      "game_name": "Dark War: Survival",
+      "file": "missing/D/329651-dark-war-survival.json"
+    },
+    {
       "igdb_id": 383633,
       "game_name": "Dark Watching: Chapter 1",
       "file": "missing/D/383633-dark-watching-chapter-1.json"
@@ -117118,6 +117178,11 @@
       "file": "missing/D/51553-deltaplan-simulator.json"
     },
     {
+      "igdb_id": 329665,
+      "game_name": "Deltaruined",
+      "file": "missing/D/329665-deltaruined.json"
+    },
+    {
       "igdb_id": 277964,
       "game_name": "Deltarune 97",
       "file": "missing/D/277964-deltarune-97.json"
@@ -117181,6 +117246,11 @@
       "igdb_id": 397081,
       "game_name": "Deltarune: Survey Program",
       "file": "missing/D/397081-deltarune-survey-program.json"
+    },
+    {
+      "igdb_id": 329669,
+      "game_name": "Deltarune: The Upper Hand",
+      "file": "missing/D/329669-deltarune-the-upper-hand.json"
     },
     {
       "igdb_id": 182345,
@@ -118318,6 +118388,11 @@
       "file": "missing/D/126607-depowerball.json"
     },
     {
+      "igdb_id": 329664,
+      "game_name": "Depper Jar",
+      "file": "missing/D/329664-depper-jar.json"
+    },
+    {
       "igdb_id": 390812,
       "game_name": "DepraviA",
       "file": "missing/D/390812-depravia.json"
@@ -119241,6 +119316,11 @@
       "igdb_id": 232453,
       "game_name": "Desktopia: End of the Road",
       "file": "missing/D/232453-desktopia-end-of-the-road.json"
+    },
+    {
+      "igdb_id": 329657,
+      "game_name": "Desktoptale",
+      "file": "missing/D/329657-desktoptale.json"
     },
     {
       "igdb_id": 294474,
@@ -122641,6 +122721,11 @@
       "igdb_id": 64890,
       "game_name": "Diluvium",
       "file": "missing/D/64890-diluvium.json"
+    },
+    {
+      "igdb_id": 329686,
+      "game_name": "Dim",
+      "file": "missing/D/329686-dim.json"
     },
     {
       "igdb_id": 158193,
@@ -139898,9 +139983,19 @@
       "file": "missing/D/295810-dustopia.json"
     },
     {
+      "igdb_id": 329662,
+      "game_name": "Dusttale Reimagined",
+      "file": "missing/D/329662-dusttale-reimagined.json"
+    },
+    {
       "igdb_id": 362333,
       "game_name": "Dusttale: The Genocide's End",
       "file": "missing/D/362333-dusttale-the-genocides-end.json"
+    },
+    {
+      "igdb_id": 329675,
+      "game_name": "Dusttrust X",
+      "file": "missing/D/329675-dusttrust-x.json"
     },
     {
       "igdb_id": 83561,
@@ -152378,6 +152473,11 @@
       "file": "missing/E/21391-eve-online-revelations.json"
     },
     {
+      "igdb_id": 329685,
+      "game_name": "Eve Online: Revenant",
+      "file": "missing/E/329685-eve-online-revenant.json"
+    },
+    {
       "igdb_id": 329917,
       "game_name": "Eve Online: Zenith - Quadrant 3",
       "file": "missing/E/329917-eve-online-zenith-quadrant-3.json"
@@ -155848,6 +155948,11 @@
       "file": "missing/F/3490-f-zero.json"
     },
     {
+      "igdb_id": 329658,
+      "game_name": "F-Zero 99: Ver. 1.5.0",
+      "file": "missing/F/329658-f-zero-99-ver-1-5-0.json"
+    },
+    {
       "igdb_id": 6400,
       "game_name": "F-Zero Climax",
       "file": "missing/F/6400-f-zero-climax.json"
@@ -155871,6 +155976,11 @@
       "igdb_id": 135258,
       "game_name": "F-Zero X Climax",
       "file": "missing/F/135258-f-zero-x-climax.json"
+    },
+    {
+      "igdb_id": 329645,
+      "game_name": "F-Zero: Falcon Densetsu",
+      "file": "missing/F/329645-f-zero-falcon-densetsu.json"
     },
     {
       "igdb_id": 329545,
@@ -178383,6 +178493,11 @@
       "file": "missing/F/224240-from-the-deep.json"
     },
     {
+      "igdb_id": 329689,
+      "game_name": "From The Past",
+      "file": "missing/F/329689-from-the-past.json"
+    },
+    {
       "igdb_id": 238500,
       "game_name": "From the Streets to the Script: A Carabanchel Story",
       "file": "missing/F/238500-from-the-streets-to-the-script-a-carabanchel-story.json"
@@ -194103,6 +194218,11 @@
       "file": "missing/G/243817-goofys-underwater-adventure.json"
     },
     {
+      "igdb_id": 329659,
+      "game_name": "Goog Clicker Deluxe",
+      "file": "missing/G/329659-goog-clicker-deluxe.json"
+    },
+    {
       "igdb_id": 165667,
       "game_name": "Googass",
       "file": "missing/G/165667-googass.json"
@@ -205041,6 +205161,11 @@
       "igdb_id": 115636,
       "game_name": "Haprokon",
       "file": "missing/H/115636-haprokon.json"
+    },
+    {
+      "igdb_id": 329691,
+      "game_name": "Hapunan",
+      "file": "missing/H/329691-hapunan.json"
     },
     {
       "igdb_id": 337184,
@@ -223506,6 +223631,11 @@
       "igdb_id": 275612,
       "game_name": "Hungry Humphrey: Eat The World",
       "file": "missing/H/275612-hungry-humphrey-eat-the-world.json"
+    },
+    {
+      "igdb_id": 329660,
+      "game_name": "Hungry in Dungeon",
+      "file": "missing/H/329660-hungry-in-dungeon.json"
     },
     {
       "igdb_id": 128651,
@@ -323543,6 +323673,11 @@
       "file": "missing/N/235310-nightfall-hollow.json"
     },
     {
+      "igdb_id": 329671,
+      "game_name": "NightFell",
+      "file": "missing/N/329671-nightfell.json"
+    },
+    {
       "igdb_id": 84263,
       "game_name": "Nightfighter",
       "file": "missing/N/84263-nightfighter.json"
@@ -324141,6 +324276,11 @@
       "igdb_id": 17323,
       "game_name": "Niko: Through the Dream",
       "file": "missing/N/17323-niko-through-the-dream.json"
+    },
+    {
+      "igdb_id": 329678,
+      "game_name": "Nikola's Fate",
+      "file": "missing/N/329678-nikolas-fate.json"
     },
     {
       "igdb_id": 205127,
@@ -328861,6 +329001,11 @@
       "igdb_id": 310206,
       "game_name": "Nullstar: Solus",
       "file": "missing/N/310206-nullstar-solus.json"
+    },
+    {
+      "igdb_id": 329673,
+      "game_name": "Num Dá Véi!",
+      "file": "missing/N/329673-num-da-vei.json"
     },
     {
       "igdb_id": 187504,
@@ -358138,6 +358283,11 @@
       "file": "missing/P/123422-plot-armor.json"
     },
     {
+      "igdb_id": 329649,
+      "game_name": "Plot Twist",
+      "file": "missing/P/329649-plot-twist.json"
+    },
+    {
       "igdb_id": 12196,
       "game_name": "Plotting",
       "file": "missing/P/12196-plotting.json"
@@ -359951,6 +360101,11 @@
       "igdb_id": 149964,
       "game_name": "Pokémon Emerald Final",
       "file": "missing/P/149964-pokemon-emerald-final.json"
+    },
+    {
+      "igdb_id": 329650,
+      "game_name": "Pokémon Emerald Imperium",
+      "file": "missing/P/329650-pokemon-emerald-imperium.json"
     },
     {
       "igdb_id": 172744,
@@ -369406,6 +369561,11 @@
       "igdb_id": 127345,
       "game_name": "Prologue",
       "file": "missing/P/127345-prologue.json"
+    },
+    {
+      "igdb_id": 329677,
+      "game_name": "Promessa",
+      "file": "missing/P/329677-promessa.json"
     },
     {
       "igdb_id": 405695,
@@ -431568,6 +431728,11 @@
       "file": "missing/S/201295-sonic-3-and-sally-acorn.json"
     },
     {
+      "igdb_id": 329666,
+      "game_name": "Sonic 3 & Tenna",
+      "file": "missing/S/329666-sonic-3-and-tenna.json"
+    },
+    {
       "igdb_id": 246945,
       "game_name": "Sonic 3 Fighter Sonic",
       "file": "missing/S/246945-sonic-3-fighter-sonic.json"
@@ -444376,6 +444541,11 @@
       "igdb_id": 87103,
       "game_name": "Star Hound",
       "file": "missing/S/87103-star-hound.json"
+    },
+    {
+      "igdb_id": 329676,
+      "game_name": "Star Iliad",
+      "file": "missing/S/329676-star-iliad.json"
     },
     {
       "igdb_id": 117035,
@@ -464628,6 +464798,11 @@
       "file": "missing/S/163964-sweep.json"
     },
     {
+      "igdb_id": 329683,
+      "game_name": "Sweep City",
+      "file": "missing/S/329683-sweep-city.json"
+    },
+    {
       "igdb_id": 376540,
       "game_name": "Sweep Strike",
       "file": "missing/S/376540-sweep-strike.json"
@@ -473041,6 +473216,11 @@
       "igdb_id": 70412,
       "game_name": "Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart",
       "file": "missing/T/70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json"
+    },
+    {
+      "igdb_id": 329654,
+      "game_name": "Team Delusional's Dusttale",
+      "file": "missing/T/329654-team-delusionals-dusttale.json"
     },
     {
       "igdb_id": 203535,
@@ -487318,6 +487498,11 @@
       "file": "missing/T/119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json"
     },
     {
+      "igdb_id": 329687,
+      "game_name": "The House in Fata Morgana: Reincarnation",
+      "file": "missing/T/329687-the-house-in-fata-morgana-reincarnation.json"
+    },
+    {
       "igdb_id": 330338,
       "game_name": "The House in Fata Morgana: Remaid of Dreams",
       "file": "missing/T/330338-the-house-in-fata-morgana-remaid-of-dreams.json"
@@ -489241,6 +489426,26 @@
       "igdb_id": 49332,
       "game_name": "The Land Before Time: Into the Mysterious Beyond",
       "file": "missing/T/49332-the-land-before-time-into-the-mysterious-beyond.json"
+    },
+    {
+      "igdb_id": 329646,
+      "game_name": "The Land Before Time: Math Adventure",
+      "file": "missing/T/329646-the-land-before-time-math-adventure.json"
+    },
+    {
+      "igdb_id": 329652,
+      "game_name": "The Land Before Time: Prehistoric Adventures",
+      "file": "missing/T/329652-the-land-before-time-prehistoric-adventures.json"
+    },
+    {
+      "igdb_id": 329647,
+      "game_name": "The Land Before Time: Preschool Adventure",
+      "file": "missing/T/329647-the-land-before-time-preschool-adventure.json"
+    },
+    {
+      "igdb_id": 329648,
+      "game_name": "The Land Before Time: Toddler Time",
+      "file": "missing/T/329648-the-land-before-time-toddler-time.json"
     },
     {
       "igdb_id": 381730,
@@ -531423,9 +531628,19 @@
       "file": "missing/U/382204-understeel.json"
     },
     {
+      "igdb_id": 329656,
+      "game_name": "Underswap: Echoed",
+      "file": "missing/U/329656-underswap-echoed.json"
+    },
+    {
       "igdb_id": 183991,
       "game_name": "Underswap: Nuts in Bolts Don't Actually",
       "file": "missing/U/183991-underswap-nuts-in-bolts-dont-actually.json"
+    },
+    {
+      "igdb_id": 329667,
+      "game_name": "Underswap: The Reckoning",
+      "file": "missing/U/329667-underswap-the-reckoning.json"
     },
     {
       "igdb_id": 178026,
@@ -531443,9 +531658,19 @@
       "file": "missing/U/307154-undertale-patience.json"
     },
     {
+      "igdb_id": 329655,
+      "game_name": "Undertale Plus",
+      "file": "missing/U/329655-undertale-plus.json"
+    },
+    {
       "igdb_id": 360564,
       "game_name": "Undertale Promise",
       "file": "missing/U/360564-undertale-promise.json"
+    },
+    {
+      "igdb_id": 329663,
+      "game_name": "Undertale Together: Next Soul",
+      "file": "missing/U/329663-undertale-together-next-soul.json"
     },
     {
       "igdb_id": 136482,
@@ -554303,6 +554528,11 @@
       "file": "missing/W/165665-witch-stone.json"
     },
     {
+      "igdb_id": 329681,
+      "game_name": "Witch Stories",
+      "file": "missing/W/329681-witch-stories.json"
+    },
+    {
       "igdb_id": 55464,
       "game_name": "Witch Thief",
       "file": "missing/W/55464-witch-thief.json"
@@ -555061,6 +555291,11 @@
       "igdb_id": 261345,
       "game_name": "Wizards Legacy: Nightmare Park Manager Simulator",
       "file": "missing/W/261345-wizards-legacy-nightmare-park-manager-simulator.json"
+    },
+    {
+      "igdb_id": 329674,
+      "game_name": "Wizards of Nature",
+      "file": "missing/W/329674-wizards-of-nature.json"
     },
     {
       "igdb_id": 73834,
@@ -556336,6 +556571,11 @@
       "igdb_id": 105869,
       "game_name": "Word Bound - Word Game Puzzles",
       "file": "missing/W/105869-word-bound-word-game-puzzles.json"
+    },
+    {
+      "igdb_id": 329680,
+      "game_name": "Word Brawl",
+      "file": "missing/W/329680-word-brawl.json"
     },
     {
       "igdb_id": 397915,
@@ -557731,6 +557971,11 @@
       "igdb_id": 59962,
       "game_name": "World of Sea Battle",
       "file": "missing/W/59962-world-of-sea-battle.json"
+    },
+    {
+      "igdb_id": 329653,
+      "game_name": "World of Shells",
+      "file": "missing/W/329653-world-of-shells.json"
     },
     {
       "igdb_id": 415114,
@@ -564576,6 +564821,11 @@
       "igdb_id": 202395,
       "game_name": "Youngblood: Search and Destroy",
       "file": "missing/Y/202395-youngblood-search-and-destroy.json"
+    },
+    {
+      "igdb_id": 329644,
+      "game_name": "Your Android",
+      "file": "missing/Y/329644-your-android.json"
     },
     {
       "igdb_id": 176909,
