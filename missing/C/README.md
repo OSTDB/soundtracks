@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardaire: Eternal Aces | 378441 | [378441-cardaire-eternal-aces.json](./378441-cardaire-eternal-aces.json) |
 | Cardangels | 135161 | [135161-cardangels.json](./135161-cardangels.json) |
 | CardBoard | 395558 | [395558-cardboard.json](./395558-cardboard.json) |
+| Cardboard Chronicles | 294251 | [294251-cardboard-chronicles.json](./294251-cardboard-chronicles.json) |
 | Cardboard Cowboy | 398367 | [398367-cardboard-cowboy.json](./398367-cardboard-cowboy.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardboard Ground | 119730 | [119730-cardboard-ground.json](./119730-cardboard-ground.json) |
@@ -4168,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
 | Coin-Op Kingdom | 98766 | [98766-coin-op-kingdom.json](./98766-coin-op-kingdom.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
+| Coinbox Hero | 294224 | [294224-coinbox-hero.json](./294224-coinbox-hero.json) |
 | Coinflate!! | 345135 | [345135-coinflate.json](./345135-coinflate.json) |
 | CoinLife | 133824 | [133824-coinlife.json](./133824-coinlife.json) |
 | Coinon | 104014 | [104014-coinon.json](./104014-coinon.json) |
@@ -5306,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cope Island: Adrift | 113755 | [113755-cope-island-adrift.json](./113755-cope-island-adrift.json) |
 | Copero | 412505 | [412505-copero.json](./412505-copero.json) |
 | Coping Mechanisms | 395898 | [395898-coping-mechanisms.json](./395898-coping-mechanisms.json) |
+| Coppélive | 294227 | [294227-coppelive.json](./294227-coppelive.json) |
 | Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
