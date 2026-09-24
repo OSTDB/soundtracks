@@ -3409,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
 | Planetary Field Team | 406125 | [406125-planetary-field-team.json](./406125-planetary-field-team.json) |
 | Planetary Gravity | 158174 | [158174-planetary-gravity.json](./158174-planetary-gravity.json) |
+| Planetary Parfait | 293139 | [293139-planetary-parfait.json](./293139-planetary-parfait.json) |
 | Planetary Settlers | 101340 | [101340-planetary-settlers.json](./101340-planetary-settlers.json) |
 | Planetbase | 13200 | [13200-planetbase.json](./13200-planetbase.json) |
 | PlanetCon | 114780 | [114780-planetcon.json](./114780-planetcon.json) |
@@ -4335,6 +4336,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polluted Flesh | 416117 | [416117-polluted-flesh.json](./416117-polluted-flesh.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
 | Pollux | 40255 | [40255-pollux.json](./40255-pollux.json) |
+| Polly Pocket: Flower Surprises | 293183 | [293183-polly-pocket-flower-surprises.json](./293183-polly-pocket-flower-surprises.json) |
+| Polly Pocket: Polly Party Pickup | 293182 | [293182-polly-pocket-polly-party-pickup.json](./293182-polly-pocket-polly-party-pickup.json) |
+| Polly Pocket: Polly's Beautiful Bedroom | 293185 | [293185-polly-pocket-pollys-beautiful-bedroom.json](./293185-polly-pocket-pollys-beautiful-bedroom.json) |
 | Pollywog | 386398 | [386398-pollywog.json](./386398-pollywog.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
@@ -4677,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Pro | 284358 | [284358-portal-pro.json](./284358-portal-pro.json) |
 | Portal Puzzle | 270111 | [270111-portal-puzzle.json](./270111-portal-puzzle.json) |
 | Portal Quest | 106372 | [106372-portal-quest.json](./106372-portal-quest.json) |
+| Portal Quest | 293159 | [293159-portal-quest.json](./293159-portal-quest.json) |
 | Portal Rescue | 180809 | [180809-portal-rescue.json](./180809-portal-rescue.json) |
 | Portal Runner | 49954 | [49954-portal-runner.json](./49954-portal-runner.json) |
 | Portal Shot Gun Teleport | 290436 | [290436-portal-shot-gun-teleport.json](./290436-portal-shot-gun-teleport.json) |
@@ -6826,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
+| Pyro Jump Rescue | 293149 | [293149-pyro-jump-rescue.json](./293149-pyro-jump-rescue.json) |
 | Pyro VR | 29602 | [29602-pyro-vr.json](./29602-pyro-vr.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
