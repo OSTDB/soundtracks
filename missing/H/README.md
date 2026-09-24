@@ -1919,6 +1919,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: Happy Edition | 315861 | [315861-hentai-golf-happy-edition.json](./315861-hentai-golf-happy-edition.json) |
 | Hentai Golf: Lakeside Fairways | 283271 | [283271-hentai-golf-lakeside-fairways.json](./283271-hentai-golf-lakeside-fairways.json) |
 | Hentai Golf: Platinum Edition | 308801 | [308801-hentai-golf-platinum-edition.json](./308801-hentai-golf-platinum-edition.json) |
+| Hentai Golf: Prairie Greens | 283235 | [283235-hentai-golf-prairie-greens.json](./283235-hentai-golf-prairie-greens.json) |
+| Hentai Golf: River's Edge | 283238 | [283238-hentai-golf-rivers-edge.json](./283238-hentai-golf-rivers-edge.json) |
+| Hentai Golf: Sunset Pines | 283226 | [283226-hentai-golf-sunset-pines.json](./283226-hentai-golf-sunset-pines.json) |
 | Hentai Gyaru | 233084 | [233084-hentai-gyaru.json](./233084-hentai-gyaru.json) |
 | Hentai Gymnast Scarlett | 375979 | [375979-hentai-gymnast-scarlett.json](./375979-hentai-gymnast-scarlett.json) |
 | Hentai Hack-Her | 147452 | [147452-hentai-hack-her.json](./147452-hentai-hack-her.json) |
