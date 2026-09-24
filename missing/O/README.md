@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooo | 181897 | [181897-ooo.json](./181897-ooo.json) |
 | oOo: Ascension | 103214 | [103214-ooo-ascension.json](./103214-ooo-ascension.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
+| Ooooo | 304136 | [304136-ooooo.json](./304136-ooooo.json) |
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
