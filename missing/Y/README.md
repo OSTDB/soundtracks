@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuurei-kun | 141848 | [141848-yuurei-kun.json](./141848-yuurei-kun.json) |
 | Yuurou: Transient Sands | 327422 | [327422-yuurou-transient-sands.json](./327422-yuurou-transient-sands.json) |
 | Yuusha | 22480 | [22480-yuusha.json](./22480-yuusha.json) |
+| Yuusha Exkaiser: Geister wo Taose! | 284453 | [284453-yuusha-exkaiser-geister-wo-taose.json](./284453-yuusha-exkaiser-geister-wo-taose.json) |
 | Yuusha to Maou to, Majo no Cafe | 97377 | [97377-yuusha-to-maou-to-majo-no-cafe.json](./97377-yuusha-to-maou-to-majo-no-cafe.json) |
 | Yuusha-Ou GaoGaiGar: Blockaded Numbers | 57941 | [57941-yuusha-ou-gaogaigar-blockaded-numbers.json](./57941-yuusha-ou-gaogaigar-blockaded-numbers.json) |
 | Yuushi no Monshou: Deep Dungeon | 41326 | [41326-yuushi-no-monshou-deep-dungeon.json](./41326-yuushi-no-monshou-deep-dungeon.json) |
