@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just One More Spell | 387544 | [387544-just-one-more-spell.json](./387544-just-one-more-spell.json) |
 | Just one, must choose | 135050 | [135050-just-one-must-choose.json](./135050-just-one-must-choose.json) |
 | Just Passing | 176344 | [176344-just-passing.json](./176344-just-passing.json) |
+| Just Passing Chapter 2 | 307698 | [307698-just-passing-chapter-2.json](./307698-just-passing-chapter-2.json) |
 | Just Plumbers in Hallowville | 287622 | [287622-just-plumbers-in-hallowville.json](./287622-just-plumbers-in-hallowville.json) |
 | Just Pong | 383077 | [383077-just-pong.json](./383077-just-pong.json) |
 | Just Pool | 411711 | [411711-just-pool.json](./411711-just-pool.json) |
