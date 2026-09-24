@@ -2345,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Racer 3 | 68269 | [68269-alpine-racer-3.json](./68269-alpine-racer-3.json) |
 | Alpine Sky | 352793 | [352793-alpine-sky.json](./352793-alpine-sky.json) |
 | Alpine Train 3D | 90709 | [90709-alpine-train-3d.json](./90709-alpine-train-3d.json) |
+| Alpine Zone | 321491 | [321491-alpine-zone.json](./321491-alpine-zone.json) |
 | Alquiem | 330857 | [330857-alquiem.json](./330857-alquiem.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alstan | 389734 | [389734-alstan.json](./389734-alstan.json) |
@@ -3694,6 +3695,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: Prodigy | 342775 | [342775-apex-legends-prodigy.json](./342775-apex-legends-prodigy.json) |
 | Apex Race Manager 2019 | 233116 | [233116-apex-race-manager-2019.json](./233116-apex-race-manager-2019.json) |
+| Apex Racer | 321514 | [321514-apex-racer.json](./321514-apex-racer.json) |
+| Apex Racer | 321515 | [321515-apex-racer.json](./321515-apex-racer.json) |
 | Apex Rebels | 275576 | [275576-apex-rebels.json](./275576-apex-rebels.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 348192 | [348192-aphelion.json](./348192-aphelion.json) |
@@ -4043,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rastan Saga II | 306525 | [306525-arcade-archives-rastan-saga-ii.json](./306525-arcade-archives-rastan-saga-ii.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
+| Arcade Archives: Riot | 321501 | [321501-arcade-archives-riot.json](./321501-arcade-archives-riot.json) |
 | Arcade Archives: Roller Jammer | 210745 | [210745-arcade-archives-roller-jammer.json](./210745-arcade-archives-roller-jammer.json) |
 | Arcade Archives: Rolling Thunder | 196174 | [196174-arcade-archives-rolling-thunder.json](./196174-arcade-archives-rolling-thunder.json) |
 | Arcade Archives: Rolling Thunder 2 | 251000 | [251000-arcade-archives-rolling-thunder-2.json](./251000-arcade-archives-rolling-thunder-2.json) |
@@ -4198,8 +4202,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
 | Arcane Pets: Plushie Empire | 256545 | [256545-arcane-pets-plushie-empire.json](./256545-arcane-pets-plushie-empire.json) |
 | Arcane Plunder | 373538 | [373538-arcane-plunder.json](./373538-arcane-plunder.json) |
+| Arcane Quest | 321495 | [321495-arcane-quest.json](./321495-arcane-quest.json) |
 | Arcane Quest 2 | 129597 | [129597-arcane-quest-2.json](./129597-arcane-quest-2.json) |
 | Arcane Quest 3 | 129599 | [129599-arcane-quest-3.json](./129599-arcane-quest-3.json) |
+| Arcane Quest 4 | 321497 | [321497-arcane-quest-4.json](./321497-arcane-quest-4.json) |
+| Arcane Quest Adventures | 321498 | [321498-arcane-quest-adventures.json](./321498-arcane-quest-adventures.json) |
 | Arcane Quest HD | 129598 | [129598-arcane-quest-hd.json](./129598-arcane-quest-hd.json) |
 | Arcane Quest Legends | 129600 | [129600-arcane-quest-legends.json](./129600-arcane-quest-legends.json) |
 | Arcane Raise: Deluxe Edition | 52595 | [52595-arcane-raise-deluxe-edition.json](./52595-arcane-raise-deluxe-edition.json) |
