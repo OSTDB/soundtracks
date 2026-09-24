@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Sweet Days | 379576 | [379576-fairy-sweet-days.json](./379576-fairy-sweet-days.json) |
 | Fairy Tail 2 | 306138 | [306138-fairy-tail-2.json](./306138-fairy-tail-2.json) |
 | Fairy Tail 2: Digital Deluxe | 324470 | [324470-fairy-tail-2-digital-deluxe.json](./324470-fairy-tail-2-digital-deluxe.json) |
+| Fairy Tail 2: Lucy Outfit - "Miss Fairy Tail Contest" | 324462 | [324462-fairy-tail-2-lucy-outfit-miss-fairy-tail-contest.json](./324462-fairy-tail-2-lucy-outfit-miss-fairy-tail-contest.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairy Tail Online | 59427 | [59427-fairy-tail-online.json](./59427-fairy-tail-online.json) |
 | Fairy Tail Portable Guild 2 | 42834 | [42834-fairy-tail-portable-guild-2.json](./42834-fairy-tail-portable-guild-2.json) |
@@ -943,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm2 + | 406082 | [406082-farm2.json](./406082-farm2.json) |
 | Farmageddon | 362279 | [362279-farmageddon.json](./362279-farmageddon.json) |
 | Farmageddon: Undead | 302380 | [302380-farmageddon-undead.json](./302380-farmageddon-undead.json) |
+| Farmagia: Afanc Skin - Baby Tomato | 324445 | [324445-farmagia-afanc-skin-baby-tomato.json](./324445-farmagia-afanc-skin-baby-tomato.json) |
 | Farmagia: Buddy Skin Bundle | 324471 | [324471-farmagia-buddy-skin-bundle.json](./324471-farmagia-buddy-skin-bundle.json) |
 | Farmbotic | 348350 | [348350-farmbotic.json](./348350-farmbotic.json) |
 | Farmburgh | 236263 | [236263-farmburgh.json](./236263-farmburgh.json) |
@@ -4182,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Premium Edition | 284500 | [284500-freaky-trip-premium-edition.json](./284500-freaky-trip-premium-edition.json) |
 | Freaky Trip: Special Edition | 283175 | [283175-freaky-trip-special-edition.json](./283175-freaky-trip-special-edition.json) |
 | Freaky Trip: Superb Edition | 315864 | [315864-freaky-trip-superb-edition.json](./315864-freaky-trip-superb-edition.json) |
+| Freaky Trip: Ultra Deluxe | 324463 | [324463-freaky-trip-ultra-deluxe.json](./324463-freaky-trip-ultra-deluxe.json) |
 | Freakyforms: Your Creations, Alive! | 6771 | [6771-freakyforms-your-creations-alive.json](./6771-freakyforms-your-creations-alive.json) |
 | Frebbventure | 215240 | [215240-frebbventure.json](./215240-frebbventure.json) |
 | Fred | 85866 | [85866-fred.json](./85866-fred.json) |
