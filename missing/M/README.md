@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Builder | 18579 | [18579-master-builder.json](./18579-master-builder.json) |
+| Master Builder Simulator | 287720 | [287720-master-builder-simulator.json](./287720-master-builder-simulator.json) |
 | Master Chess Ultimate | 193459 | [193459-master-chess-ultimate.json](./193459-master-chess-ultimate.json) |
 | Master Cube | 120377 | [120377-master-cube.json](./120377-master-cube.json) |
 | Master Detective Archives: Rain Code | 183617 | [183617-master-detective-archives-rain-code.json](./183617-master-detective-archives-rain-code.json) |
@@ -2542,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
 | Mechanization | 264590 | [264590-mechanization.json](./264590-mechanization.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
+| Mechanophagia | 287730 | [287730-mechanophagia.json](./287730-mechanophagia.json) |
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
 | MechAssault: Phantom War | 19195 | [19195-mechassault-phantom-war.json](./19195-mechassault-phantom-war.json) |
 | Mechastrike: Red War | 384505 | [384505-mechastrike-red-war.json](./384505-mechastrike-red-war.json) |
@@ -6792,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr White | 262073 | [262073-mr-white.json](./262073-mr-white.json) |
 | Mr Wino | 60246 | [60246-mr-wino.json](./60246-mr-wino.json) |
 | Mr. "Bargain Expert" | 413075 | [413075-mr-bargain-expert.json](./413075-mr-bargain-expert.json) |
+| Mr. Akun's Jump | 287737 | [287737-mr-akuns-jump.json](./287737-mr-akuns-jump.json) |
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
 | Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
 | Mr. Bean: Special Delivery | 110284 | [110284-mr-bean-special-delivery.json](./110284-mr-bean-special-delivery.json) |
