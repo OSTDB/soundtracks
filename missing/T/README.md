@@ -4537,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
 | The Last Nordic Tribe | 333071 | [333071-the-last-nordic-tribe.json](./333071-the-last-nordic-tribe.json) |
 | The Last Oath | 339902 | [339902-the-last-oath.json](./339902-the-last-oath.json) |
+| The Last of the 9 Lives | 319179 | [319179-the-last-of-the-9-lives.json](./319179-the-last-of-the-9-lives.json) |
 | The Last of the Summer Tank | 286014 | [286014-the-last-of-the-summer-tank.json](./286014-the-last-of-the-summer-tank.json) |
 | The Last of the Survivors | 333647 | [333647-the-last-of-the-survivors.json](./333647-the-last-of-the-survivors.json) |
 | The Last of Them | 339800 | [339800-the-last-of-them.json](./339800-the-last-of-them.json) |
@@ -7338,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Wild Goose Chase Gear | 206816 | [206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json](./206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json) |
 | TheHunter: Primal | 10347 | [10347-thehunter-primal.json](./10347-thehunter-primal.json) |
 | Their Majesties' Pleasure | 250993 | [250993-their-majesties-pleasure.json](./250993-their-majesties-pleasure.json) |
+| Their Navy Is Their Doom | 319138 | [319138-their-navy-is-their-doom.json](./319138-their-navy-is-their-doom.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
@@ -7672,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
 | Throne Quest | 112953 | [112953-throne-quest.json](./112953-throne-quest.json) |
 | Throne Rush | 243125 | [243125-throne-rush.json](./243125-throne-rush.json) |
+| Throne Wars | 319133 | [319133-throne-wars.json](./319133-throne-wars.json) |
 | Thronebreaker: The Witcher Tales | 107300 | [107300-thronebreaker-the-witcher-tales.json](./107300-thronebreaker-the-witcher-tales.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through Abandoned: The Underground City | 34780 | [34780-through-abandoned-the-underground-city.json](./34780-through-abandoned-the-underground-city.json) |
@@ -10175,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Story | 106967 | [106967-town-story.json](./106967-town-story.json) |
 | Town Village: Farm Build Trade | 88736 | [88736-town-village-farm-build-trade.json](./88736-town-village-farm-build-trade.json) |
 | Town With No Name | 69874 | [69874-town-with-no-name.json](./69874-town-with-no-name.json) |
+| Towne of Gringle | 319178 | [319178-towne-of-gringle.json](./319178-towne-of-gringle.json) |
 | Townframe | 199128 | [199128-townframe.json](./199128-townframe.json) |
 | Townkins | 103524 | [103524-townkins.json](./103524-townkins.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
@@ -10474,6 +10478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: DB BR 101 Loco Add-On | 359972 | [359972-train-sim-world-5-db-br-101-loco-add-on.json](./359972-train-sim-world-5-db-br-101-loco-add-on.json) |
 | Train Sim World 5: DB BR 182 Loco | 359975 | [359975-train-sim-world-5-db-br-182-loco.json](./359975-train-sim-world-5-db-br-182-loco.json) |
 | Train Sim World 5: DB BR 187 Loco Add-On | 359486 | [359486-train-sim-world-5-db-br-187-loco-add-on.json](./359486-train-sim-world-5-db-br-187-loco-add-on.json) |
+| Train Sim World 5: Deluxe Edition | 319149 | [319149-train-sim-world-5-deluxe-edition.json](./319149-train-sim-world-5-deluxe-edition.json) |
 | Train Sim World 5: Dispolok BR 182 Add-On | 359977 | [359977-train-sim-world-5-dispolok-br-182-add-on.json](./359977-train-sim-world-5-dispolok-br-182-add-on.json) |
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
 | Train Sim World 5: East Coastway: Brighton - Eastbourne & Seaford Route Add-On | 359497 | [359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json](./359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json) |
