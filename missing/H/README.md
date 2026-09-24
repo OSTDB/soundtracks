@@ -1740,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henbou no Bansan | 98439 | [98439-henbou-no-bansan.json](./98439-henbou-no-bansan.json) |
 | Hengband | 141020 | [141020-hengband.json](./141020-hengband.json) |
 | Henka Twist Caper | 52237 | [52237-henka-twist-caper.json](./52237-henka-twist-caper.json) |
+| HenPri | 322740 | [322740-henpri.json](./322740-henpri.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
 | Henry Stickmin: Escaping the Prison | 140712 | [140712-henry-stickmin-escaping-the-prison.json](./140712-henry-stickmin-escaping-the-prison.json) |
 | Henry Stickmin: Fleeing the Complex | 145664 | [145664-henry-stickmin-fleeing-the-complex.json](./145664-henry-stickmin-fleeing-the-complex.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai no Hero | 110358 | [110358-hentai-no-hero.json](./110358-hentai-no-hero.json) |
 | Hentai Nureta Puzzle College | 161411 | [161411-hentai-nureta-puzzle-college.json](./161411-hentai-nureta-puzzle-college.json) |
 | Hentai Nurse | 296945 | [296945-hentai-nurse.json](./296945-hentai-nurse.json) |
+| Hentai Nurse | 322720 | [322720-hentai-nurse.json](./322720-hentai-nurse.json) |
 | Hentai Octoq Puzzle | 368570 | [368570-hentai-octoq-puzzle.json](./368570-hentai-octoq-puzzle.json) |
 | Hentai Ouji to Warawanai Neko. | 62719 | [62719-hentai-ouji-to-warawanai-neko.json](./62719-hentai-ouji-to-warawanai-neko.json) |
 | Hentai Paradise Vol. 2 | 313153 | [313153-hentai-paradise-vol-2.json](./313153-hentai-paradise-vol-2.json) |
@@ -1979,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World Bunny | 349956 | [349956-hentai-world-bunny.json](./349956-hentai-world-bunny.json) |
 | Hentai World Festival | 340461 | [340461-hentai-world-festival.json](./340461-hentai-world-festival.json) |
 | Hentai World Halloween | 326234 | [326234-hentai-world-halloween.json](./326234-hentai-world-halloween.json) |
+| Hentai World Sexy | 322716 | [322716-hentai-world-sexy.json](./322716-hentai-world-sexy.json) |
 | Hentai World Slice | 340462 | [340462-hentai-world-slice.json](./340462-hentai-world-slice.json) |
 | Hentai World Succubus | 340463 | [340463-hentai-world-succubus.json](./340463-hentai-world-succubus.json) |
 | Hentai World Winter | 340464 | [340464-hentai-world-winter.json](./340464-hentai-world-winter.json) |
