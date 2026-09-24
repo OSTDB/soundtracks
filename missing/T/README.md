@@ -5990,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Realms: Realm - Pythonium | 331105 | [331105-the-seven-realms-realm-pythonium.json](./331105-the-seven-realms-realm-pythonium.json) |
 | The Seven Realms: Realm 1 - Terran | 330743 | [330743-the-seven-realms-realm-1-terran.json](./330743-the-seven-realms-realm-1-terran.json) |
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
+| The Seven Sisters | 332630 | [332630-the-seven-sisters.json](./332630-the-seven-sisters.json) |
 | The Seven Spirits of Ra | 2893 | [2893-the-seven-spirits-of-ra.json](./2893-the-seven-spirits-of-ra.json) |
 | The Seven Years War (1756-1763) | 13666 | [13666-the-seven-years-war-1756-1763.json](./13666-the-seven-years-war-1756-1763.json) |
 | The Seven Years War (1756-1763): Pomeranian War | 171610 | [171610-the-seven-years-war-1756-1763-pomeranian-war.json](./171610-the-seven-years-war-1756-1763-pomeranian-war.json) |
@@ -6322,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The St Christopher's School Lockdown | 74393 | [74393-the-st-christophers-school-lockdown.json](./74393-the-st-christophers-school-lockdown.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
+| The Stamp | 332591 | [332591-the-stamp.json](./332591-the-stamp.json) |
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
 | The Stanley Parable: Ultra Deluxe | 113119 | [113119-the-stanley-parable-ultra-deluxe.json](./113119-the-stanley-parable-ultra-deluxe.json) |
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
