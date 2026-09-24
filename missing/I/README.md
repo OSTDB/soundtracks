@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Memory of Titan | 69314 | [69314-in-memory-of-titan.json](./69314-in-memory-of-titan.json) |
 | In my Father's House are Many Rooms | 388405 | [388405-in-my-fathers-house-are-many-rooms.json](./388405-in-my-fathers-house-are-many-rooms.json) |
 | In My Friend Carrie's Car | 135020 | [135020-in-my-friend-carries-car.json](./135020-in-my-friend-carries-car.json) |
+| In My Head | 317370 | [317370-in-my-head.json](./317370-in-my-head.json) |
 | In My Shadow | 140488 | [140488-in-my-shadow.json](./140488-in-my-shadow.json) |
 | In Other Waters | 86504 | [86504-in-other-waters.json](./86504-in-other-waters.json) |
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
