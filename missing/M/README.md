@@ -2608,7 +2608,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Fantasy: Jigsaw Puzzle - Emperor Edition | 315870 | [315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json](./315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Fantastic Beasts | 313149 | [313149-medieval-fantasy-jigsaw-puzzle-fantastic-beasts.json](./313149-medieval-fantasy-jigsaw-puzzle-fantastic-beasts.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Funny Moments | 316267 | [316267-medieval-fantasy-jigsaw-puzzle-funny-moments.json](./316267-medieval-fantasy-jigsaw-puzzle-funny-moments.json) |
+| Medieval Fantasy: Jigsaw Puzzle - Graph Edition | 313792 | [313792-medieval-fantasy-jigsaw-puzzle-graph-edition.json](./313792-medieval-fantasy-jigsaw-puzzle-graph-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Great Warriors | 313151 | [313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json](./313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json) |
+| Medieval Fantasy: Jigsaw Puzzle - King Edition | 313793 | [313793-medieval-fantasy-jigsaw-puzzle-king-edition.json](./313793-medieval-fantasy-jigsaw-puzzle-king-edition.json) |
+| Medieval Fantasy: Jigsaw Puzzle - Knight Edition | 313794 | [313794-medieval-fantasy-jigsaw-puzzle-knight-edition.json](./313794-medieval-fantasy-jigsaw-puzzle-knight-edition.json) |
 | Medieval Grandmaster: Tavern Board Battle | 319778 | [319778-medieval-grandmaster-tavern-board-battle.json](./319778-medieval-grandmaster-tavern-board-battle.json) |
 | Medieval HD | 249265 | [249265-medieval-hd.json](./249265-medieval-hd.json) |
 | Medieval Hero | 153367 | [153367-medieval-hero.json](./153367-medieval-hero.json) |
@@ -4859,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrorscape: Deluxe Starter Pack | 301849 | [301849-mirrorscape-deluxe-starter-pack.json](./301849-mirrorscape-deluxe-starter-pack.json) |
 | Mirrorscape: Outdoor Starter Pack | 301848 | [301848-mirrorscape-outdoor-starter-pack.json](./301848-mirrorscape-outdoor-starter-pack.json) |
 | Mirth Island | 249854 | [249854-mirth-island.json](./249854-mirth-island.json) |
+| Mirth Melody | 313781 | [313781-mirth-melody.json](./313781-mirth-melody.json) |
 | Mirum Orbis | 262482 | [262482-mirum-orbis.json](./262482-mirum-orbis.json) |
 | Miruri: Mahou Fuku Bouken | 408248 | [408248-miruri-mahou-fuku-bouken.json](./408248-miruri-mahou-fuku-bouken.json) |
 | Misa | 337725 | [337725-misa.json](./337725-misa.json) |
@@ -6360,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
 | Mother of Many | 194403 | [194403-mother-of-many.json](./194403-mother-of-many.json) |
 | Mother of Myth | 19643 | [19643-mother-of-myth.json](./19643-mother-of-myth.json) |
+| Mother of the Year | 313837 | [313837-mother-of-the-year.json](./313837-mother-of-the-year.json) |
 | Mother Zero | 323881 | [323881-mother-zero.json](./323881-mother-zero.json) |
 | Mother, Player | 393489 | [393489-mother-player.json](./393489-mother-player.json) |
 | Mother: Beyond Bounds | 315107 | [315107-mother-beyond-bounds.json](./315107-mother-beyond-bounds.json) |
@@ -7646,6 +7651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
+| My Two First Loves | 313847 | [313847-my-two-first-loves.json](./313847-my-two-first-loves.json) |
 | My U.S. Trucking Skills | 316855 | [316855-my-u-s-trucking-skills.json](./316855-my-u-s-trucking-skills.json) |
 | My Uncle Merlin | 76236 | [76236-my-uncle-merlin.json](./76236-my-uncle-merlin.json) |
 | My Uncle's Garden | 229776 | [229776-my-uncles-garden.json](./229776-my-uncles-garden.json) |
