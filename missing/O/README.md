@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ode to a Moon | 111059 | [111059-ode-to-a-moon.json](./111059-ode-to-a-moon.json) |
 | Ode to Heroes | 137645 | [137645-ode-to-heroes.json](./137645-ode-to-heroes.json) |
 | Ode to My Hometown's Craft Fair | 176461 | [176461-ode-to-my-hometowns-craft-fair.json](./176461-ode-to-my-hometowns-craft-fair.json) |
+| Odeio Sonhar | 307048 | [307048-odeio-sonhar.json](./307048-odeio-sonhar.json) |
 | Odekake Takorin: Choigae | 222527 | [222527-odekake-takorin-choigae.json](./222527-odekake-takorin-choigae.json) |
 | Oden | 334857 | [334857-oden.json](./334857-oden.json) |
 | Oden Cart 2: A Taste of Time | 159289 | [159289-oden-cart-2-a-taste-of-time.json](./159289-oden-cart-2-a-taste-of-time.json) |
