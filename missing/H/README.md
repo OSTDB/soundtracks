@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunt | 383487 | [383487-haunt.json](./383487-haunt.json) |
 | Haunt | 384773 | [384773-haunt.json](./384773-haunt.json) |
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
+| Haunt N Seek: Silent Siren | 296457 | [296457-haunt-n-seek-silent-siren.json](./296457-haunt-n-seek-silent-siren.json) |
 | Haunted | 16799 | [16799-haunted.json](./16799-haunted.json) |
 | Haunted | 377571 | [377571-haunted.json](./377571-haunted.json) |
 | Haunted Abbey | 13725 | [13725-haunted-abbey.json](./13725-haunted-abbey.json) |
@@ -2733,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
 | Hide and Seek | 340003 | [340003-hide-and-seek.json](./340003-hide-and-seek.json) |
 | Hide and Seek | 361342 | [361342-hide-and-seek.json](./361342-hide-and-seek.json) |
+| Hide And Seek | 296416 | [296416-hide-and-seek.json](./296416-hide-and-seek.json) |
 | Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
