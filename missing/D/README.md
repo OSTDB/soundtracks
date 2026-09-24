@@ -3039,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dickland: Racing | 259064 | [259064-dickland-racing.json](./259064-dickland-racing.json) |
 | Dickme Dicki | 202353 | [202353-dickme-dicki.json](./202353-dickme-dicki.json) |
 | Dictator | 78955 | [78955-dictator.json](./78955-dictator.json) |
+| Diction | 319124 | [319124-diction.json](./319124-diction.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
 | Did You Scared | 195128 | [195128-did-you-scared.json](./195128-did-you-scared.json) |
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disonante | 118432 | [118432-disonante.json](./118432-disonante.json) |
 | Disorder | 229692 | [229692-disorder.json](./229692-disorder.json) |
 | Disorder | 229817 | [229817-disorder.json](./229817-disorder.json) |
+| Disorderly | 319142 | [319142-disorderly.json](./319142-disorderly.json) |
 | Disorderly | 356625 | [356625-disorderly.json](./356625-disorderly.json) |
 | Disoriented | 76212 | [76212-disoriented.json](./76212-disoriented.json) |
 | Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
