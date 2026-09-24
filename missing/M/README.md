@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 7 | 1720 | [1720-mega-man-7.json](./1720-mega-man-7.json) |
 | Mega Man 7 Refit | 219080 | [219080-mega-man-7-refit.json](./219080-mega-man-7-refit.json) |
 | Mega Man 8-bit Deathmatch | 136285 | [136285-mega-man-8-bit-deathmatch.json](./136285-mega-man-8-bit-deathmatch.json) |
+| Mega Man Again | 332628 | [332628-mega-man-again.json](./332628-mega-man-again.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man Battle & Fighters | 212341 | [212341-mega-man-battle-and-fighters.json](./212341-mega-man-battle-and-fighters.json) |
 | Mega Man Battle Network 2 | 1756 | [1756-mega-man-battle-network-2.json](./1756-mega-man-battle-network-2.json) |
@@ -5171,7 +5172,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mode | 61659 | [61659-mode.json](./61659-mode.json) |
 | Model 3 Test Drive | 96057 | [96057-model-3-test-drive.json](./96057-model-3-test-drive.json) |
 | Model Builder: Alaskan Road Truckers | 277586 | [277586-model-builder-alaskan-road-truckers.json](./277586-model-builder-alaskan-road-truckers.json) |
+| Model Builder: Cars Pack DLC | 332603 | [332603-model-builder-cars-pack-dlc.json](./332603-model-builder-cars-pack-dlc.json) |
 | Model Builder: Frostpunk | 196159 | [196159-model-builder-frostpunk.json](./196159-model-builder-frostpunk.json) |
+| Model Builder: Military Pack | 332602 | [332602-model-builder-military-pack.json](./332602-model-builder-military-pack.json) |
 | Model Builder: Titan-Forge DLC No.2 | 243158 | [243158-model-builder-titan-forge-dlc-no-2.json](./243158-model-builder-titan-forge-dlc-no-2.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
 | Model Kit Shop Simulator | 397829 | [397829-model-kit-shop-simulator.json](./397829-model-kit-shop-simulator.json) |
@@ -7237,6 +7240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
 | My Furry Protogen: 18+ Adult Only Patch | 213447 | [213447-my-furry-protogen-18-adult-only-patch.json](./213447-my-furry-protogen-18-adult-only-patch.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
+| My Gambian Boyfriend | 332636 | [332636-my-gambian-boyfriend.json](./332636-my-gambian-boyfriend.json) |
 | My Game About Me: Olympic Challenge | 210674 | [210674-my-game-about-me-olympic-challenge.json](./210674-my-game-about-me-olympic-challenge.json) |
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
 | My Garbage Cat Wakes Me Up At 3AM Every Day | 128556 | [128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json](./128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json) |
