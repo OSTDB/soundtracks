@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
 | Queen's Garden 2 | 101504 | [101504-queens-garden-2.json](./101504-queens-garden-2.json) |
 | Queen's Garden 4: Sakura Season | 100960 | [100960-queens-garden-4-sakura-season.json](./100960-queens-garden-4-sakura-season.json) |
+| Queen's Loyalty | 298640 | [298640-queens-loyalty.json](./298640-queens-loyalty.json) |
 | Queen's Quest 2: Stories of Forgotten Past | 30424 | [30424-queens-quest-2-stories-of-forgotten-past.json](./30424-queens-quest-2-stories-of-forgotten-past.json) |
 | Queen's Quest 2: Stories of Forgotten Past - Collector's Edition | 343352 | [343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json](./343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json) |
 | Queen's Quest 4: Sacred Truce | 97109 | [97109-queens-quest-4-sacred-truce.json](./97109-queens-quest-4-sacred-truce.json) |
@@ -338,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questris | 413871 | [413871-questris.json](./413871-questris.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Quetzal | 299302 | [299302-quetzal.json](./299302-quetzal.json) |
+| Quetzi | 300816 | [300816-quetzi.json](./300816-quetzi.json) |
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
 | Queue Simulator | 276715 | [276715-queue-simulator.json](./276715-queue-simulator.json) |
 | Queued | 256538 | [256538-queued.json](./256538-queued.json) |
