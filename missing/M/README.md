@@ -1951,9 +1951,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
 | Master of Orion: Gnolam League | 169972 | [169972-master-of-orion-gnolam-league.json](./169972-master-of-orion-gnolam-league.json) |
+| Master of Pieces Jigsaw Puzzle: Canvas of Time | 312704 | [312704-master-of-pieces-jigsaw-puzzle-canvas-of-time.json](./312704-master-of-pieces-jigsaw-puzzle-canvas-of-time.json) |
+| Master of Pieces Jigsaw Puzzle: Dreamy Depths | 312705 | [312705-master-of-pieces-jigsaw-puzzle-dreamy-depths.json](./312705-master-of-pieces-jigsaw-puzzle-dreamy-depths.json) |
 | Master of Pieces Jigsaw Puzzle: Shades of Nostalgia | 357939 | [357939-master-of-pieces-jigsaw-puzzle-shades-of-nostalgia.json](./357939-master-of-pieces-jigsaw-puzzle-shades-of-nostalgia.json) |
 | Master of Pieces Jigsaw Puzzle: Still Life 2 | 357938 | [357938-master-of-pieces-jigsaw-puzzle-still-life-2.json](./357938-master-of-pieces-jigsaw-puzzle-still-life-2.json) |
 | Master of Pieces Jigsaw Puzzle: The Bold Accent | 357937 | [357937-master-of-pieces-jigsaw-puzzle-the-bold-accent.json](./357937-master-of-pieces-jigsaw-puzzle-the-bold-accent.json) |
+| Master of Pieces Jigsaw Puzzle: Welcome to Slumberland | 312706 | [312706-master-of-pieces-jigsaw-puzzle-welcome-to-slumberland.json](./312706-master-of-pieces-jigsaw-puzzle-welcome-to-slumberland.json) |
 | Master of Pieces Jigsaw Puzzle: Winter Wonders | 357936 | [357936-master-of-pieces-jigsaw-puzzle-winter-wonders.json](./357936-master-of-pieces-jigsaw-puzzle-winter-wonders.json) |
 | Master of Pieces Jigsaw Puzzle: Women's Day | 357935 | [357935-master-of-pieces-jigsaw-puzzle-womens-day.json](./357935-master-of-pieces-jigsaw-puzzle-womens-day.json) |
 | Master of Pieces: Jigsaw Puzzle - Beautiful Nonsense | 288914 | [288914-master-of-pieces-jigsaw-puzzle-beautiful-nonsense.json](./288914-master-of-pieces-jigsaw-puzzle-beautiful-nonsense.json) |
@@ -3055,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
+| Megis Adventure | 312670 | [312670-megis-adventure.json](./312670-megis-adventure.json) |
 | Megurine Luka no Jikenbo | 264358 | [264358-megurine-luka-no-jikenbo.json](./264358-megurine-luka-no-jikenbo.json) |
 | Mei Paranormies 2 | 410236 | [410236-mei-paranormies-2.json](./410236-mei-paranormies-2.json) |
 | Mei Qi: Season 6 | 170375 | [170375-mei-qi-season-6.json](./170375-mei-qi-season-6.json) |
