@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadzone Rogue 2 | 403822 | [403822-deadzone-rogue-2.json](./403822-deadzone-rogue-2.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
+| Deal or No Deal: DVD Game | 319737 | [319737-deal-or-no-deal-dvd-game.json](./319737-deal-or-no-deal-dvd-game.json) |
 | Deal or No Deal: Secret Vault Games | 209006 | [209006-deal-or-no-deal-secret-vault-games.json](./209006-deal-or-no-deal-secret-vault-games.json) |
 | Deal or No Deal: The Banker is Back | 70636 | [70636-deal-or-no-deal-the-banker-is-back.json](./70636-deal-or-no-deal-the-banker-is-back.json) |
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
@@ -2995,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Quest | 226749 | [226749-dice-quest.json](./226749-dice-quest.json) |
 | Dice Rogues | 406120 | [406120-dice-rogues.json](./406120-dice-rogues.json) |
 | Dice Rollers | 142273 | [142273-dice-rollers.json](./142273-dice-rollers.json) |
+| Dice Strategy | 319742 | [319742-dice-strategy.json](./319742-dice-strategy.json) |
 | Dice Tactics: Demon King Chapters 2, 3, 4 | 168835 | [168835-dice-tactics-demon-king-chapters-2-3-4.json](./168835-dice-tactics-demon-king-chapters-2-3-4.json) |
 | Dice Team | 373757 | [373757-dice-team.json](./373757-dice-team.json) |
 | Dice to Meet You | 270140 | [270140-dice-to-meet-you.json](./270140-dice-to-meet-you.json) |
@@ -3009,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice: DNA Intergrated Cybernetic Enterprises | 65514 | [65514-dice-dna-intergrated-cybernetic-enterprises.json](./65514-dice-dna-intergrated-cybernetic-enterprises.json) |
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
 | Dice'n'Go | 404963 | [404963-dicengo.json](./404963-dicengo.json) |
+| Dicealot | 319726 | [319726-dicealot.json](./319726-dicealot.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
 | Dicepath | 405592 | [405592-dicepath.json](./405592-dicepath.json) |
 | DiceRogue | 400333 | [400333-dicerogue.json](./400333-dicerogue.json) |
