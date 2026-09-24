@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interplay Klondike Solitaire | 308359 | [308359-interplay-klondike-solitaire.json](./308359-interplay-klondike-solitaire.json) |
 | Interplay's 10 Year Anthology: Classic Collection | 93381 | [93381-interplays-10-year-anthology-classic-collection.json](./93381-interplays-10-year-anthology-classic-collection.json) |
 | Interplay's Learn to Program Basic | 371865 | [371865-interplays-learn-to-program-basic.json](./371865-interplays-learn-to-program-basic.json) |
+| Interplayer | 301906 | [301906-interplayer.json](./301906-interplayer.json) |
 | Interpoint | 115674 | [115674-interpoint.json](./115674-interpoint.json) |
 | Interpose | 93337 | [93337-interpose.json](./93337-interpose.json) |
 | Interred | 405690 | [405690-interred.json](./405690-interred.json) |
@@ -2283,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is Guilty | 389583 | [389583-is-guilty.json](./389583-is-guilty.json) |
 | Is it Love ? Nicolae Vampire | 109023 | [109023-is-it-love-nicolae-vampire.json](./109023-is-it-love-nicolae-vampire.json) |
 | Is it Love? Blue Swan Hospital | 116392 | [116392-is-it-love-blue-swan-hospital.json](./116392-is-it-love-blue-swan-hospital.json) |
+| Is it OK to pick up Anomalies at a University? | 301946 | [301946-is-it-ok-to-pick-up-anomalies-at-a-university.json](./301946-is-it-ok-to-pick-up-anomalies-at-a-university.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle | 287107 | [287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json](./287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json) |
 | Is It Wrong To Try To Rescue Monster Girls From The Inquisition? | 247774 | [247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json](./247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json) |
 | Is That a Human Organ? | 414414 | [414414-is-that-a-human-organ.json](./414414-is-that-a-human-organ.json) |
