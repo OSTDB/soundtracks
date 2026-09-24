@@ -6864,6 +6864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
+| Murder Malady | 327366 | [327366-murder-malady.json](./327366-murder-malady.json) |
 | Murder Mall Escape | 311652 | [311652-murder-mall-escape.json](./311652-murder-mall-escape.json) |
 | Murder Mansion | 181845 | [181845-murder-mansion.json](./181845-murder-mansion.json) |
 | Murder Meet Cute | 399858 | [399858-murder-meet-cute.json](./399858-murder-meet-cute.json) |
@@ -7616,6 +7617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myopia | 362445 | [362445-myopia.json](./362445-myopia.json) |
 | Myosotis | 362891 | [362891-myosotis.json](./362891-myosotis.json) |
 | MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
+| MyPopgoes: New and Improved! | 327307 | [327307-mypopgoes-new-and-improved.json](./327307-mypopgoes-new-and-improved.json) |
 | Mýrdalssandur, Iceland | 130176 | [130176-myrdalssandur-iceland.json](./130176-myrdalssandur-iceland.json) |
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
