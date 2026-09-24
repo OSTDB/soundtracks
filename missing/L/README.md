@@ -3704,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lǜyěxiānzōng | 320152 | [320152-luyexianzong.json](./320152-luyexianzong.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
+| Lyca | 332032 | [332032-lyca.json](./332032-lyca.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lynked: Banner of the Spark | 314256 | [314256-lynked-banner-of-the-spark.json](./314256-lynked-banner-of-the-spark.json) |
