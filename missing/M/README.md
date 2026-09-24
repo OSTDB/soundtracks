@@ -4496,6 +4496,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Adidas Adventures Add-On | 347687 | [347687-minecraft-adidas-adventures-add-on.json](./347687-minecraft-adidas-adventures-add-on.json) |
 | Minecraft: Adventure Time Mash-up | 235324 | [235324-minecraft-adventure-time-mash-up.json](./235324-minecraft-adventure-time-mash-up.json) |
 | Minecraft: Annoying Difficulty | 298310 | [298310-minecraft-annoying-difficulty.json](./298310-minecraft-annoying-difficulty.json) |
+| Minecraft: Armored Paws | 299217 | [299217-minecraft-armored-paws.json](./299217-minecraft-armored-paws.json) |
+| Minecraft: Armored Paws | 299218 | [299218-minecraft-armored-paws.json](./299218-minecraft-armored-paws.json) |
 | Minecraft: Astronaut Training Center | 316751 | [316751-minecraft-astronaut-training-center.json](./316751-minecraft-astronaut-training-center.json) |
 | Minecraft: Battle and Beasts Skin Pack | 322958 | [322958-minecraft-battle-and-beasts-skin-pack.json](./322958-minecraft-battle-and-beasts-skin-pack.json) |
 | Minecraft: Biome Settlers Pack 1 | 302658 | [302658-minecraft-biome-settlers-pack-1.json](./302658-minecraft-biome-settlers-pack-1.json) |
@@ -4515,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Holiday Skin Pack 2015 | 303023 | [303023-minecraft-holiday-skin-pack-2015.json](./303023-minecraft-holiday-skin-pack-2015.json) |
 | Minecraft: James Web Space Telescope | 322959 | [322959-minecraft-james-web-space-telescope.json](./322959-minecraft-james-web-space-telescope.json) |
 | Minecraft: Jurassic World Adventures | 285053 | [285053-minecraft-jurassic-world-adventures.json](./285053-minecraft-jurassic-world-adventures.json) |
+| Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
 | Minecraft: Legends | 204621 | [204621-minecraft-legends.json](./204621-minecraft-legends.json) |
 | Minecraft: Minecon 2016 Skin Pack | 255328 | [255328-minecraft-minecon-2016-skin-pack.json](./255328-minecraft-minecon-2016-skin-pack.json) |
 | Minecraft: Minecon Live - Rush Race! | 315515 | [315515-minecraft-minecon-live-rush-race.json](./315515-minecraft-minecon-live-rush-race.json) |
@@ -4556,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Trial Chamber Legends | 307729 | [307729-minecraft-trial-chamber-legends.json](./307729-minecraft-trial-chamber-legends.json) |
 | Minecraft: Tricky Trials | 272821 | [272821-minecraft-tricky-trials.json](./272821-minecraft-tricky-trials.json) |
 | Minecraft: Uncrafting Items Mod | 343906 | [343906-minecraft-uncrafting-items-mod.json](./343906-minecraft-uncrafting-items-mod.json) |
+| Minecraft: Universal Studios Experience | 299204 | [299204-minecraft-universal-studios-experience.json](./299204-minecraft-universal-studios-experience.json) |
 | Minecraft: Vault-Tec Mash-up | 235319 | [235319-minecraft-vault-tec-mash-up.json](./235319-minecraft-vault-tec-mash-up.json) |
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
 | Minecraft: Winter Whimsy Skin Pack | 324892 | [324892-minecraft-winter-whimsy-skin-pack.json](./324892-minecraft-winter-whimsy-skin-pack.json) |
@@ -7317,6 +7321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Car Salon Pro | 323166 | [323166-my-car-salon-pro.json](./323166-my-car-salon-pro.json) |
 | My Cashy Side Job at Lost&Found in the Subway of Million-Person City | 189060 | [189060-my-cashy-side-job-at-lost-and-found-in-the-subway-of-million-person-city.json](./189060-my-cashy-side-job-at-lost-and-found-in-the-subway-of-million-person-city.json) |
 | My Cat | 222880 | [222880-my-cat.json](./222880-my-cat.json) |
+| My Cat Town | 299208 | [299208-my-cat-town.json](./299208-my-cat-town.json) |
 | My Cat: Virtual Pet Simulator | 331358 | [331358-my-cat-virtual-pet-simulator.json](./331358-my-cat-virtual-pet-simulator.json) |
 | My Catgirl Maid Thinks She Runs the Place | 152298 | [152298-my-catgirl-maid-thinks-she-runs-the-place.json](./152298-my-catgirl-maid-thinks-she-runs-the-place.json) |
 | My Chameleon Girlfriend | 223691 | [223691-my-chameleon-girlfriend.json](./223691-my-chameleon-girlfriend.json) |
@@ -7483,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horse Stories | 300847 | [300847-my-horse-stories.json](./300847-my-horse-stories.json) |
 | My Horse Stories: Gold Edition | 385205 | [385205-my-horse-stories-gold-edition.json](./385205-my-horse-stories-gold-edition.json) |
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
+| My Hospital Town | 299209 | [299209-my-hospital-town.json](./299209-my-hospital-town.json) |
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
 | My Hotel Simulator | 372559 | [372559-my-hotel-simulator.json](./372559-my-hotel-simulator.json) |
@@ -7610,6 +7616,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pizza Story | 248101 | [248101-my-pizza-story.json](./248101-my-pizza-story.json) |
 | My Pleasure: Season 3 | 270975 | [270975-my-pleasure-season-3.json](./270975-my-pleasure-season-3.json) |
 | My Plushy Shift | 324875 | [324875-my-plushy-shift.json](./324875-my-plushy-shift.json) |
+| My Pretend Fairytale Land | 299224 | [299224-my-pretend-fairytale-land.json](./299224-my-pretend-fairytale-land.json) |
+| My Pretend Family | 299223 | [299223-my-pretend-family.json](./299223-my-pretend-family.json) |
+| My Pretend Halloween Town | 299222 | [299222-my-pretend-halloween-town.json](./299222-my-pretend-halloween-town.json) |
+| My Pretend Summer Waterpark | 299213 | [299213-my-pretend-summer-waterpark.json](./299213-my-pretend-summer-waterpark.json) |
 | My Princess Girlfriend | 228416 | [228416-my-princess-girlfriend.json](./228416-my-princess-girlfriend.json) |
 | My Protogen Engineer | 291474 | [291474-my-protogen-engineer.json](./291474-my-protogen-engineer.json) |
 | My Railroad | 118952 | [118952-my-railroad.json](./118952-my-railroad.json) |
@@ -7725,6 +7735,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time With Dee Dee volume 0 | 347135 | [347135-my-time-with-dee-dee-volume-0.json](./347135-my-time-with-dee-dee-volume-0.json) |
 | My Tiny Island | 362340 | [362340-my-tiny-island.json](./362340-my-tiny-island.json) |
 | My Tiny Room | 348451 | [348451-my-tiny-room.json](./348451-my-tiny-room.json) |
+| My Tizi Town: Daycare | 299215 | [299215-my-tizi-town-daycare.json](./299215-my-tizi-town-daycare.json) |
+| My Tizi Town: Grandparents Home | 299210 | [299210-my-tizi-town-grandparents-home.json](./299210-my-tizi-town-grandparents-home.json) |
 | My Town : Hotel | 104615 | [104615-my-town-hotel.json](./104615-my-town-hotel.json) |
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Town : Street Fun | 104474 | [104474-my-town-street-fun.json](./104474-my-town-street-fun.json) |
