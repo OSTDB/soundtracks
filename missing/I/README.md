@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InVein | 402487 | [402487-invein.json](./402487-invein.json) |
 | Invention 2 | 31667 | [31667-invention-2.json](./31667-invention-2.json) |
 | Invention 4 | 261778 | [261778-invention-4.json](./261778-invention-4.json) |
+| Invention 5 | 336699 | [336699-invention-5.json](./336699-invention-5.json) |
 | Invention 6 | 340759 | [340759-invention-6.json](./340759-invention-6.json) |
 | Invention 7 | 340760 | [340760-invention-7.json](./340760-invention-7.json) |
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
