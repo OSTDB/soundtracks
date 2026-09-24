@@ -5228,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow Hunter 2015 | 250937 | [250937-bow-hunter-2015.json](./250937-bow-hunter-2015.json) |
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bow-wow Battle | 398481 | [398481-bow-wow-battle.json](./398481-bow-wow-battle.json) |
+| Bowels of the Beast | 283801 | [283801-bowels-of-the-beast.json](./283801-bowels-of-the-beast.json) |
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
@@ -6290,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs Bunny | 46887 | [46887-bugs-bunny.json](./46887-bugs-bunny.json) |
 | Bugs Bunny & Taz: Time Busters | 3045 | [3045-bugs-bunny-and-taz-time-busters.json](./3045-bugs-bunny-and-taz-time-busters.json) |
+| Bugs Bunny Birthday Bash | 283812 | [283812-bugs-bunny-birthday-bash.json](./283812-bugs-bunny-birthday-bash.json) |
 | Bugs Bunny: Private Eye | 67270 | [67270-bugs-bunny-private-eye.json](./67270-bugs-bunny-private-eye.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugs Must Die | 111353 | [111353-bugs-must-die.json](./111353-bugs-must-die.json) |
