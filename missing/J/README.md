@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 5 | 162241 | [162241-jigsaw-puzzle-pro-edition-expansion-pack-5.json](./162241-jigsaw-puzzle-pro-edition-expansion-pack-5.json) |
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 6 | 162243 | [162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json](./162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json) |
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
+| Jigsaw Swimsuit | 326186 | [326186-jigsaw-swimsuit.json](./326186-jigsaw-swimsuit.json) |
 | Jigsaw Tetra | 147981 | [147981-jigsaw-tetra.json](./147981-jigsaw-tetra.json) |
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
 | Jigsaw Tour 2 | 102736 | [102736-jigsaw-tour-2.json](./102736-jigsaw-tour-2.json) |
@@ -1365,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just A Game | 167864 | [167864-just-a-game.json](./167864-just-a-game.json) |
 | Just a Jumping Square | 87186 | [87186-just-a-jumping-square.json](./87186-just-a-jumping-square.json) |
 | Just a Little Longer | 406317 | [406317-just-a-little-longer.json](./406317-just-a-little-longer.json) |
+| Just a Little Purr Suit | 326228 | [326228-just-a-little-purr-suit.json](./326228-just-a-little-purr-suit.json) |
 | Just a Lullaby | 305522 | [305522-just-a-lullaby.json](./305522-just-a-lullaby.json) |
 | Just A Walk In The Park | 253927 | [253927-just-a-walk-in-the-park.json](./253927-just-a-walk-in-the-park.json) |
 | Just Act Natural: Museum | 295388 | [295388-just-act-natural-museum.json](./295388-just-act-natural-museum.json) |
