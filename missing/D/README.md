@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
 | Dawn of Andromeda: Subterfuge | 172120 | [172120-dawn-of-andromeda-subterfuge.json](./172120-dawn-of-andromeda-subterfuge.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
+| Dawn of Defiance | 305290 | [305290-dawn-of-defiance.json](./305290-dawn-of-defiance.json) |
 | Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
@@ -2668,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
 | Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
+| Destiny Star Girlfriend 3 | 305275 | [305275-destiny-star-girlfriend-3.json](./305275-destiny-star-girlfriend-3.json) |
 | Destiny Star Girlfriend 3 | 315039 | [315039-destiny-star-girlfriend-3.json](./315039-destiny-star-girlfriend-3.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
@@ -4542,6 +4544,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 172020 | [172020-donkey-kong.json](./172020-donkey-kong.json) |
 | Donkey Kong | 257637 | [257637-donkey-kong.json](./257637-donkey-kong.json) |
 | Donkey Kong | 270404 | [270404-donkey-kong.json](./270404-donkey-kong.json) |
+| Donkey Kong | 305299 | [305299-donkey-kong.json](./305299-donkey-kong.json) |
+| Donkey Kong | 305300 | [305300-donkey-kong.json](./305300-donkey-kong.json) |
+| Donkey Kong "Special Edition" | 305301 | [305301-donkey-kong-special-edition.json](./305301-donkey-kong-special-edition.json) |
 | Donkey Kong 3 | 178167 | [178167-donkey-kong-3.json](./178167-donkey-kong-3.json) |
 | Donkey Kong 3 & Samus | 323885 | [323885-donkey-kong-3-and-samus.json](./323885-donkey-kong-3-and-samus.json) |
 | Donkey Kong 3-e | 170016 | [170016-donkey-kong-3-e.json](./170016-donkey-kong-3-e.json) |
@@ -4564,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country: Pacifist Mode | 361715 | [361715-donkey-kong-country-pacifist-mode.json](./361715-donkey-kong-country-pacifist-mode.json) |
 | Donkey Kong Craze | 191268 | [191268-donkey-kong-craze.json](./191268-donkey-kong-craze.json) |
 | Donkey Kong II | 112423 | [112423-donkey-kong-ii.json](./112423-donkey-kong-ii.json) |
+| Donkey Kong II | 305302 | [305302-donkey-kong-ii.json](./305302-donkey-kong-ii.json) |
 | Donkey Kong Jr. | 257639 | [257639-donkey-kong-jr.json](./257639-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
@@ -4774,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Closed | 415070 | [415070-doors-closed.json](./415070-doors-closed.json) |
 | Doors More Doors | 320347 | [320347-doors-more-doors.json](./320347-doors-more-doors.json) |
 | Doors of Doom | 13605 | [13605-doors-of-doom.json](./13605-doors-of-doom.json) |
+| Doors of Doom | 305317 | [305317-doors-of-doom.json](./305317-doors-of-doom.json) |
 | Doors of Insanity: ReOpened | 322699 | [322699-doors-of-insanity-reopened.json](./322699-doors-of-insanity-reopened.json) |
 | Doors Push or Pull | 101349 | [101349-doors-push-or-pull.json](./101349-doors-push-or-pull.json) |
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
