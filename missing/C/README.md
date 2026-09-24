@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Kills Candy | 184988 | [184988-cake-kills-candy.json](./184988-cake-kills-candy.json) |
 | Cake Laboratory | 114184 | [114184-cake-laboratory.json](./114184-cake-laboratory.json) |
 | Cake Maker Deluxe | 103151 | [103151-cake-maker-deluxe.json](./103151-cake-maker-deluxe.json) |
+| Cake Master | 313251 | [313251-cake-master.json](./313251-cake-master.json) |
 | Cake Platformer | 329089 | [329089-cake-platformer.json](./329089-cake-platformer.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
@@ -1413,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
 | Cat Puzzle | 335441 | [335441-cat-puzzle.json](./335441-cat-puzzle.json) |
 | Cat Quest III: Tavern Tales | 347866 | [347866-cat-quest-iii-tavern-tales.json](./347866-cat-quest-iii-tavern-tales.json) |
+| Cat Quest: The Fur-tastic Trilogy | 313223 | [313223-cat-quest-the-fur-tastic-trilogy.json](./313223-cat-quest-the-fur-tastic-trilogy.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
 | Cat Short Way | 296510 | [296510-cat-short-way.json](./296510-cat-short-way.json) |
 | Cat Sim Online: Play With Cats | 103863 | [103863-cat-sim-online-play-with-cats.json](./103863-cat-sim-online-play-with-cats.json) |
