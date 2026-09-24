@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
 | 12 MiniBattles | 139356 | [139356-12-minibattles.json](./139356-12-minibattles.json) |
 | 12 Orbits | 90578 | [90578-12-orbits.json](./90578-12-orbits.json) |
+| 12 Vengeful Ghosts | 305864 | [305864-12-vengeful-ghosts.json](./305864-12-vengeful-ghosts.json) |
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 1213: Episode 1 | 69821 | [69821-1213-episode-1.json](./69821-1213-episode-1.json) |
@@ -537,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Animation Puzzle Edition | 181324 | [181324-2048-animation-puzzle-edition.json](./181324-2048-animation-puzzle-edition.json) |
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
+| 2048 Boys | 305904 | [305904-2048-boys.json](./305904-2048-boys.json) |
 | 2048 Cat | 147264 | [147264-2048-cat.json](./147264-2048-cat.json) |
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
 | 2048 Game With New Levels | 262361 | [262361-2048-game-with-new-levels.json](./262361-2048-game-with-new-levels.json) |
