@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaelic Games: Football | 98973 | [98973-gaelic-games-football.json](./98973-gaelic-games-football.json) |
 | Gaelic Games: Football 2 | 57605 | [57605-gaelic-games-football-2.json](./57605-gaelic-games-football-2.json) |
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
+| Gaggl | 306442 | [306442-gaggl.json](./306442-gaggl.json) |
 | GagImpact | 390267 | [390267-gagimpact.json](./390267-gagimpact.json) |
 | Gahkthun of the Golden Lightning: Steam Edition | 33106 | [33106-gahkthun-of-the-golden-lightning-steam-edition.json](./33106-gahkthun-of-the-golden-lightning-steam-edition.json) |
 | GAI Stops Auto: Right Version Simulator | 157125 | [157125-gai-stops-auto-right-version-simulator.json](./157125-gai-stops-auto-right-version-simulator.json) |
@@ -3177,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
 | Greedy Dungeons | 86521 | [86521-greedy-dungeons.json](./86521-greedy-dungeons.json) |
 | Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
+| Greedy Goose | 306430 | [306430-greedy-goose.json](./306430-greedy-goose.json) |
 | Greedy Guns | 40556 | [40556-greedy-guns.json](./40556-greedy-guns.json) |
 | Greedy in the Dark | 272349 | [272349-greedy-in-the-dark.json](./272349-greedy-in-the-dark.json) |
 | Greedy Maze | 136459 | [136459-greedy-maze.json](./136459-greedy-maze.json) |
