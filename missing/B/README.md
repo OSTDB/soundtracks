@@ -2765,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Business | 14300 | [14300-big-business.json](./14300-big-business.json) |
 | Big Cat Rescue VR | 157142 | [157142-big-cat-rescue-vr.json](./157142-big-cat-rescue-vr.json) |
 | Big Catch Bass Fishing | 197944 | [197944-big-catch-bass-fishing.json](./197944-big-catch-bass-fishing.json) |
+| Big Challenge Golf: Tokyo Yomiuri Country Club-hen | 286049 | [286049-big-challenge-golf-tokyo-yomiuri-country-club-hen.json](./286049-big-challenge-golf-tokyo-yomiuri-country-club-hen.json) |
 | Big Challenge! Dogfight Spirit | 41331 | [41331-big-challenge-dogfight-spirit.json](./41331-big-challenge-dogfight-spirit.json) |
 | Big Challenge! Go! Go! Bowling | 41330 | [41330-big-challenge-go-go-bowling.json](./41330-big-challenge-go-go-bowling.json) |
 | Big Chief | 96342 | [96342-big-chief.json](./96342-big-chief.json) |
@@ -3481,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
 | Blackjack story | 180119 | [180119-blackjack-story.json](./180119-blackjack-story.json) |
 | Blackjack Tavern | 325071 | [325071-blackjack-tavern.json](./325071-blackjack-tavern.json) |
+| Blackjack vs. Bunny Girls | 286076 | [286076-blackjack-vs-bunny-girls.json](./286076-blackjack-vs-bunny-girls.json) |
 | Blackjack Wars | 372984 | [372984-blackjack-wars.json](./372984-blackjack-wars.json) |
 | BlackJack: Daily 21 Points | 87143 | [87143-blackjack-daily-21-points.json](./87143-blackjack-daily-21-points.json) |
 | Blackjack/Poker/Acey-Deucey | 100176 | [100176-blackjack-poker-acey-deucey.json](./100176-blackjack-poker-acey-deucey.json) |
