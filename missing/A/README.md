@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fragment of Her | 60215 | [60215-a-fragment-of-her.json](./60215-a-fragment-of-her.json) |
 | A Friday Night Real Music Funkin Game | 325105 | [325105-a-friday-night-real-music-funkin-game.json](./325105-a-friday-night-real-music-funkin-game.json) |
 | A Frog in a Well | 337798 | [337798-a-frog-in-a-well.json](./337798-a-frog-in-a-well.json) |
+| A Furry Tale: A night in Havena | 312673 | [312673-a-furry-tale-a-night-in-havena.json](./312673-a-furry-tale-a-night-in-havena.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
 | A G-G-Ghost! | 311656 | [311656-a-g-g-ghost.json](./311656-a-g-g-ghost.json) |
 | A Game About Bouncing DVD | 406321 | [406321-a-game-about-bouncing-dvd.json](./406321-a-game-about-bouncing-dvd.json) |
@@ -142,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
 | A Goblin's Quest to Leave Her House and Get a Gyro for Lunch Because She Was Hungry | 338807 | [338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json](./338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json) |
 | A God-Like Backhand! | 29786 | [29786-a-god-like-backhand.json](./29786-a-god-like-backhand.json) |
+| A Good Cat and The Graduate Life | 312671 | [312671-a-good-cat-and-the-graduate-life.json](./312671-a-good-cat-and-the-graduate-life.json) |
 | A Good Field | 337800 | [337800-a-good-field.json](./337800-a-good-field.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
 | A Grande Bagunça Espacial: The Big Space Mess | 90459 | [90459-a-grande-bagunca-espacial-the-big-space-mess.json](./90459-a-grande-bagunca-espacial-the-big-space-mess.json) |
@@ -164,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
 | A Home Far Away | 124617 | [124617-a-home-far-away.json](./124617-a-home-far-away.json) |
 | A Horrible Evil Spider Head Love Story | 179040 | [179040-a-horrible-evil-spider-head-love-story.json](./179040-a-horrible-evil-spider-head-love-story.json) |
+| A Horror Game for Cowards | 312677 | [312677-a-horror-game-for-cowards.json](./312677-a-horror-game-for-cowards.json) |
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
 | A House 4 Alesa | 305785 | [305785-a-house-4-alesa.json](./305785-a-house-4-alesa.json) |
 | A House of Endless Windows | 345040 | [345040-a-house-of-endless-windows.json](./345040-a-house-of-endless-windows.json) |
@@ -627,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 1 | 319735 | [319735-aca-neogeo-selection-vol-1.json](./319735-aca-neogeo-selection-vol-1.json) |
 | ACA NeoGeo Selection Vol. 2 | 319733 | [319733-aca-neogeo-selection-vol-2.json](./319733-aca-neogeo-selection-vol-2.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
+| Academy Love Saga: Tennis Angels EX | 312666 | [312666-academy-love-saga-tennis-angels-ex.json](./312666-academy-love-saga-tennis-angels-ex.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
@@ -640,7 +644,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceleration of Suguri: X-Edition HD | 30251 | [30251-acceleration-of-suguri-x-edition-hd.json](./30251-acceleration-of-suguri-x-edition-hd.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
+| Access: EnTree | 312667 | [312667-access-entree.json](./312667-access-entree.json) |
 | Accident | 202774 | [202774-accident.json](./202774-accident.json) |
+| Accident Liquidator | 312668 | [312668-accident-liquidator.json](./312668-accident-liquidator.json) |
 | Accidentally | 379460 | [379460-accidentally.json](./379460-accidentally.json) |
 | Acción Rescate | 259663 | [259663-accion-rescate.json](./259663-accion-rescate.json) |
 | Acción Rescate: América | 259665 | [259665-accion-rescate-america.json](./259665-accion-rescate-america.json) |
@@ -1221,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
+| Age of Enchantment | 312672 | [312672-age-of-enchantment.json](./312672-age-of-enchantment.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
@@ -1296,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
+| AI Schoolgirls Murder Mystery | 312674 | [312674-ai-schoolgirls-murder-mystery.json](./312674-ai-schoolgirls-murder-mystery.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
 | AI Slop Simulator | 398536 | [398536-ai-slop-simulator.json](./398536-ai-slop-simulator.json) |
 | AI Solitaire: 4th of July | 322726 | [322726-ai-solitaire-4th-of-july.json](./322726-ai-solitaire-4th-of-july.json) |
@@ -1345,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aim & Shoot | 358841 | [358841-aim-and-shoot.json](./358841-aim-and-shoot.json) |
 | Aim Bot | 114343 | [114343-aim-bot.json](./114343-aim-bot.json) |
+| Aim Camp | 312676 | [312676-aim-camp.json](./312676-aim-camp.json) |
 | Aim Champions: Gun Shooter Simulator | 205025 | [205025-aim-champions-gun-shooter-simulator.json](./205025-aim-champions-gun-shooter-simulator.json) |
 | Aim Down Screen | 283888 | [283888-aim-down-screen.json](./283888-aim-down-screen.json) |
 | Aim for the Top! Gunbuster Vol. 1 | 57928 | [57928-aim-for-the-top-gunbuster-vol-1.json](./57928-aim-for-the-top-gunbuster-vol-1.json) |
@@ -1474,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airdrift | 203867 | [203867-airdrift.json](./203867-airdrift.json) |
 | Aireo Flight Simulator 2025 Edition | 328579 | [328579-aireo-flight-simulator-2025-edition.json](./328579-aireo-flight-simulator-2025-edition.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
+| Airflow | 312675 | [312675-airflow.json](./312675-airflow.json) |
 | Airflow: Seattle ARTCC | 376106 | [376106-airflow-seattle-artcc.json](./376106-airflow-seattle-artcc.json) |
 | AirFMC | 90201 | [90201-airfmc.json](./90201-airfmc.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
@@ -1586,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akane | 103484 | [103484-akane.json](./103484-akane.json) |
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
 | Akane-iro ni Somaru Saka Parallels | 79590 | [79590-akane-iro-ni-somaru-saka-parallels.json](./79590-akane-iro-ni-somaru-saka-parallels.json) |
+| Akaneiro ni Somaru Saka | 312678 | [312678-akaneiro-ni-somaru-saka.json](./312678-akaneiro-ni-somaru-saka.json) |
 | Akaneiro ni Somaru Saka Portable | 56532 | [56532-akaneiro-ni-somaru-saka-portable.json](./56532-akaneiro-ni-somaru-saka-portable.json) |
 | Akanesasu Sekai de Kimi to Utau | 240479 | [240479-akanesasu-sekai-de-kimi-to-utau.json](./240479-akanesasu-sekai-de-kimi-to-utau.json) |
 | Akapulka: The Rainbow | 201666 | [201666-akapulka-the-rainbow.json](./201666-akapulka-the-rainbow.json) |
@@ -1694,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Walker: The Aviation Game | 234642 | [234642-alan-walker-the-aviation-game.json](./234642-alan-walker-the-aviation-game.json) |
 | Alan's Automaton Workshop | 160262 | [160262-alans-automaton-workshop.json](./160262-alans-automaton-workshop.json) |
 | Alara Prime | 207827 | [207827-alara-prime.json](./207827-alara-prime.json) |
+| Alaric | 312679 | [312679-alaric.json](./312679-alaric.json) |
 | Alarm für Cobra 11: Das Spiel zur RTL-Erfolgsserie | 125961 | [125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json](./125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json) |
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
 | Alaska Gold Fever | 161343 | [161343-alaska-gold-fever.json](./161343-alaska-gold-fever.json) |
@@ -1711,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert Mort: Desert Heat | 51510 | [51510-albert-mort-desert-heat.json](./51510-albert-mort-desert-heat.json) |
 | Albert Odyssey | 15889 | [15889-albert-odyssey.json](./15889-albert-odyssey.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
+| Albert's Ark Idle | 312680 | [312680-alberts-ark-idle.json](./312680-alberts-ark-idle.json) |
 | Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
 | Albion Online: Dragonfire | 415306 | [415306-albion-online-dragonfire.json](./415306-albion-online-dragonfire.json) |
