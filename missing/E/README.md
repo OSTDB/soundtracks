@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elastrix | 36087 | [36087-elastrix.json](./36087-elastrix.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
+| Elden Gunfire 2 | 293187 | [293187-elden-gunfire-2.json](./293187-elden-gunfire-2.json) |
 | Elden Ring Nightreign - The Forsaken Hollows | 377238 | [377238-elden-ring-nightreign-the-forsaken-hollows.json](./377238-elden-ring-nightreign-the-forsaken-hollows.json) |
 | Elden Ring Seamless Co-op | 381683 | [381683-elden-ring-seamless-co-op.json](./381683-elden-ring-seamless-co-op.json) |
 | Elden Ring: Collector's Edition | 180258 | [180258-elden-ring-collectors-edition.json](./180258-elden-ring-collectors-edition.json) |
@@ -1501,6 +1502,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
 | Enjoy Summer Maximum | 418860 | [418860-enjoy-summer-maximum.json](./418860-enjoy-summer-maximum.json) |
 | EnjoyUp's 3 in 1 | 390511 | [390511-enjoyups-3-in-1.json](./390511-enjoyups-3-in-1.json) |
+| Enkai Buchou | 293146 | [293146-enkai-buchou.json](./293146-enkai-buchou.json) |
+| Enkai Buchou 2 | 293176 | [293176-enkai-buchou-2.json](./293176-enkai-buchou-2.json) |
 | Enkan no Memo-ria: Kakera Tomoshi | 135858 | [135858-enkan-no-memo-ria-kakera-tomoshi.json](./135858-enkan-no-memo-ria-kakera-tomoshi.json) |
 | Enkate | 297090 | [297090-enkate.json](./297090-enkate.json) |
 | Enlightened | 249883 | [249883-enlightened.json](./249883-enlightened.json) |
