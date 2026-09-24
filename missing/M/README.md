@@ -4611,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Crafty | 147392 | [147392-mini-crafty.json](./147392-mini-crafty.json) |
 | Mini Crawler | 326077 | [326077-mini-crawler.json](./326077-mini-crawler.json) |
 | Mini Crossword Puzzles | 233098 | [233098-mini-crossword-puzzles.json](./233098-mini-crossword-puzzles.json) |
+| Mini Cup | 305861 | [305861-mini-cup.json](./305861-mini-cup.json) |
 | Mini Dash | 61052 | [61052-mini-dash.json](./61052-mini-dash.json) |
 | Mini Doom | 241983 | [241983-mini-doom.json](./241983-mini-doom.json) |
 | Mini Doom 2 | 95994 | [95994-mini-doom-2.json](./95994-mini-doom-2.json) |
@@ -4803,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
 | Minos Trials | 392173 | [392173-minos-trials.json](./392173-minos-trials.json) |
+| Minotaur | 305839 | [305839-minotaur.json](./305839-minotaur.json) |
 | Minotaur | 32202 | [32202-minotaur.json](./32202-minotaur.json) |
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
@@ -6256,6 +6258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Takahashi Takeda | 266223 | [266223-mortal-kombat-1-takahashi-takeda.json](./266223-mortal-kombat-1-takahashi-takeda.json) |
 | Mortal Kombat 11: Aftermath Kollection | 133955 | [133955-mortal-kombat-11-aftermath-kollection.json](./133955-mortal-kombat-11-aftermath-kollection.json) |
 | Mortal Kombat 11: DC Elseworlds Skin Pack | 298557 | [298557-mortal-kombat-11-dc-elseworlds-skin-pack.json](./298557-mortal-kombat-11-dc-elseworlds-skin-pack.json) |
+| Mortal Kombat 11: Double Feature Skin Pack | 305856 | [305856-mortal-kombat-11-double-feature-skin-pack.json](./305856-mortal-kombat-11-double-feature-skin-pack.json) |
 | Mortal Kombat 11: Fujin | 139439 | [139439-mortal-kombat-11-fujin.json](./139439-mortal-kombat-11-fujin.json) |
 | Mortal Kombat 11: Kollector's Edition | 136267 | [136267-mortal-kombat-11-kollectors-edition.json](./136267-mortal-kombat-11-kollectors-edition.json) |
 | Mortal Kombat 11: Kombat Pack 2 | 139445 | [139445-mortal-kombat-11-kombat-pack-2.json](./139445-mortal-kombat-11-kombat-pack-2.json) |
@@ -7757,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriad Realms | 406296 | [406296-myriad-realms.json](./406296-myriad-realms.json) |
 | Myrm Emblem | 279784 | [279784-myrm-emblem.json](./279784-myrm-emblem.json) |
 | MyrnEscapes | 200033 | [200033-myrnescapes.json](./200033-myrnescapes.json) |
+| Myror i Brallan | 305867 | [305867-myror-i-brallan.json](./305867-myror-i-brallan.json) |
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
