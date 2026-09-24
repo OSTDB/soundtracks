@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoExpert - World | 100616 | [100616-geoexpert-world.json](./100616-geoexpert-world.json) |
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
+| GeoGrid | 301361 | [301361-geogrid.json](./301361-geogrid.json) |
 | GeoJelly | 232457 | [232457-geojelly.json](./232457-geojelly.json) |
 | GeoJelly Space Odyssey Bundle | 284504 | [284504-geojelly-space-odyssey-bundle.json](./284504-geojelly-space-odyssey-bundle.json) |
 | Geom | 84515 | [84515-geom.json](./84515-geom.json) |
