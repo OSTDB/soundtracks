@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infested: Space Colony | 148929 | [148929-infested-space-colony.json](./148929-infested-space-colony.json) |
 | Infestor | 146841 | [146841-infestor.json](./146841-infestor.json) |
 | Infestus | 235456 | [235456-infestus.json](./235456-infestus.json) |
+| Infierno Rubí | 294232 | [294232-infierno-rubi.json](./294232-infierno-rubi.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
 | Infiltration: Alone in Combat | 151196 | [151196-infiltration-alone-in-combat.json](./151196-infiltration-alone-in-combat.json) |
 | Infiltria | 113499 | [113499-infiltria.json](./113499-infiltria.json) |
