@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T18:04:20.884Z",
-  "total_missing": 117143,
+  "generated_at": "2026-09-24T18:18:37.248Z",
+  "total_missing": 117193,
   "games": [
     {
       "igdb_id": 176875,
@@ -431,6 +431,11 @@
       "igdb_id": 292535,
       "game_name": "0th floor.: The Cursed Elevator To Floor Zero",
       "file": "missing/0-9/292535-0th-floor-the-cursed-elevator-to-floor-zero.json"
+    },
+    {
+      "igdb_id": 294768,
+      "game_name": "0x0",
+      "file": "missing/0-9/294768-0x0.json"
     },
     {
       "igdb_id": 301397,
@@ -18208,6 +18213,11 @@
       "file": "missing/A/337253-amazing-vacation-chicago.json"
     },
     {
+      "igdb_id": 294767,
+      "game_name": "Amazing Vacation: Miami",
+      "file": "missing/A/294767-amazing-vacation-miami.json"
+    },
+    {
       "igdb_id": 337822,
       "game_name": "Amazing Weekend 2: Search and Relax - Collector's Edition",
       "file": "missing/A/337822-amazing-weekend-2-search-and-relax-collectors-edition.json"
@@ -21306,6 +21316,11 @@
       "igdb_id": 89900,
       "game_name": "Animal Crossing: New Leaf - Premium Edition",
       "file": "missing/A/89900-animal-crossing-new-leaf-premium-edition.json"
+    },
+    {
+      "igdb_id": 294788,
+      "game_name": "Animal Crossing: New Leaf - Welcome Luxury",
+      "file": "missing/A/294788-animal-crossing-new-leaf-welcome-luxury.json"
     },
     {
       "igdb_id": 251058,
@@ -53231,6 +53246,11 @@
       "igdb_id": 287089,
       "game_name": "Bitmap Bureau Collection",
       "file": "missing/B/287089-bitmap-bureau-collection.json"
+    },
+    {
+      "igdb_id": 294814,
+      "game_name": "Bitmap Bureau Collection: Deluxe Edition",
+      "file": "missing/B/294814-bitmap-bureau-collection-deluxe-edition.json"
     },
     {
       "igdb_id": 228413,
@@ -98108,6 +98128,11 @@
       "file": "missing/C/170023-corpse-party-d2-depths-of-despair.json"
     },
     {
+      "igdb_id": 294812,
+      "game_name": "Corpse Party II: Darkness Distortion – Ayame's Mercy Limited Edition",
+      "file": "missing/C/294812-corpse-party-ii-darkness-distortion-ayames-mercy-limited-edition.json"
+    },
+    {
       "igdb_id": 352377,
       "game_name": "Corpse Party Tetralogy Pack",
       "file": "missing/C/352377-corpse-party-tetralogy-pack.json"
@@ -107813,6 +107838,11 @@
       "file": "missing/C/191694-custom-maid-3d.json"
     },
     {
+      "igdb_id": 294782,
+      "game_name": "Custom Mario Maker",
+      "file": "missing/C/294782-custom-mario-maker.json"
+    },
+    {
       "igdb_id": 268007,
       "game_name": "Custom Mech Wars: EDF Collab Edition",
       "file": "missing/C/268007-custom-mech-wars-edf-collab-edition.json"
@@ -111876,6 +111906,16 @@
       "igdb_id": 139992,
       "game_name": "Darius Cozmic Revelation",
       "file": "missing/D/139992-darius-cozmic-revelation.json"
+    },
+    {
+      "igdb_id": 294786,
+      "game_name": "Darius Maker",
+      "file": "missing/D/294786-darius-maker.json"
+    },
+    {
+      "igdb_id": 294799,
+      "game_name": "Darius the Mailman",
+      "file": "missing/D/294799-darius-the-mailman.json"
     },
     {
       "igdb_id": 139993,
@@ -131563,6 +131603,11 @@
       "file": "missing/D/106421-dominus-2.json"
     },
     {
+      "igdb_id": 294764,
+      "game_name": "Dominus Diabolicus",
+      "file": "missing/D/294764-dominus-diabolicus.json"
+    },
+    {
       "igdb_id": 124744,
       "game_name": "Dominus Galaxia",
       "file": "missing/D/124744-dominus-galaxia.json"
@@ -134543,6 +134588,11 @@
       "file": "missing/D/288899-doudingman-expansion-packs.json"
     },
     {
+      "igdb_id": 294809,
+      "game_name": "Doug Huggem",
+      "file": "missing/D/294809-doug-huggem.json"
+    },
+    {
       "igdb_id": 236397,
       "game_name": "Doug's Nightmare",
       "file": "missing/D/236397-dougs-nightmare.json"
@@ -134651,6 +134701,11 @@
       "igdb_id": 203937,
       "game_name": "Down Fast VR",
       "file": "missing/D/203937-down-fast-vr.json"
+    },
+    {
+      "igdb_id": 294811,
+      "game_name": "Down Hole",
+      "file": "missing/D/294811-down-hole.json"
     },
     {
       "igdb_id": 124396,
@@ -182033,6 +182088,11 @@
       "file": "missing/F/328236-friday-night-funkin-vs-junim-cururu.json"
     },
     {
+      "igdb_id": 294774,
+      "game_name": "Friday Night Funkin' 64",
+      "file": "missing/F/294774-friday-night-funkin-64.json"
+    },
+    {
       "igdb_id": 205627,
       "game_name": "Friday Night Funkin' Battle Waifu",
       "file": "missing/F/205627-friday-night-funkin-battle-waifu.json"
@@ -210203,6 +210263,16 @@
       "file": "missing/H/313312-happy-challenger-yamada.json"
     },
     {
+      "igdb_id": 294803,
+      "game_name": "Happy Chef 3",
+      "file": "missing/H/294803-happy-chef-3.json"
+    },
+    {
+      "igdb_id": 294802,
+      "game_name": "Happy Clinic",
+      "file": "missing/H/294802-happy-clinic.json"
+    },
+    {
       "igdb_id": 277834,
       "game_name": "Happy Color Links",
       "file": "missing/H/277834-happy-color-links.json"
@@ -215901,6 +215971,11 @@
       "igdb_id": 154367,
       "game_name": "Hello Teacher",
       "file": "missing/H/154367-hello-teacher.json"
+    },
+    {
+      "igdb_id": 294801,
+      "game_name": "Hello Venice 2: New York Adventure",
+      "file": "missing/H/294801-hello-venice-2-new-york-adventure.json"
     },
     {
       "igdb_id": 132633,
@@ -240268,6 +240343,11 @@
       "file": "missing/I/346257-insomnia.json"
     },
     {
+      "igdb_id": 294810,
+      "game_name": "Insomnia: A Sleepless Journey",
+      "file": "missing/I/294810-insomnia-a-sleepless-journey.json"
+    },
+    {
       "igdb_id": 374258,
       "game_name": "Insomnia: Chapter One",
       "file": "missing/I/374258-insomnia-chapter-one.json"
@@ -253098,6 +253178,11 @@
       "file": "missing/K/249454-kaizo-mario-galaxy.json"
     },
     {
+      "igdb_id": 294765,
+      "game_name": "Kaizo Mario Galaxy 2",
+      "file": "missing/K/294765-kaizo-mario-galaxy-2.json"
+    },
+    {
       "igdb_id": 262668,
       "game_name": "Kaizo Mario Galaxy: Rebalanced",
       "file": "missing/K/262668-kaizo-mario-galaxy-rebalanced.json"
@@ -253711,6 +253796,11 @@
       "igdb_id": 168215,
       "game_name": "Kanamono",
       "file": "missing/K/168215-kanamono.json"
+    },
+    {
+      "igdb_id": 294807,
+      "game_name": "Kanashimi Arabesque",
+      "file": "missing/K/294807-kanashimi-arabesque.json"
     },
     {
       "igdb_id": 310719,
@@ -259456,6 +259546,11 @@
       "igdb_id": 314986,
       "game_name": "Kirby Fighters 2 Memory Match-Up",
       "file": "missing/K/314986-kirby-fighters-2-memory-match-up.json"
+    },
+    {
+      "igdb_id": 294790,
+      "game_name": "Kirby Gamble Galaxy Stories",
+      "file": "missing/K/294790-kirby-gamble-galaxy-stories.json"
     },
     {
       "igdb_id": 395702,
@@ -290008,6 +290103,11 @@
       "file": "missing/M/242230-mario-7-in-1.json"
     },
     {
+      "igdb_id": 294773,
+      "game_name": "Mario a Plumber in Time Re-Mastered",
+      "file": "missing/M/294773-mario-a-plumber-in-time-re-mastered.json"
+    },
+    {
       "igdb_id": 60579,
       "game_name": "Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again!",
       "file": "missing/M/60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json"
@@ -290843,6 +290943,11 @@
       "file": "missing/M/132044-mario-party-fushigi-no-koro-koro-catcher-2.json"
     },
     {
+      "igdb_id": 294763,
+      "game_name": "Mario Party: Love Land",
+      "file": "missing/M/294763-mario-party-love-land.json"
+    },
+    {
       "igdb_id": 19599,
       "game_name": "Mario Party: Star Rush",
       "file": "missing/M/19599-mario-party-star-rush.json"
@@ -291018,6 +291123,11 @@
       "file": "missing/M/8594-mario-vs-donkey-kong-tipping-stars.json"
     },
     {
+      "igdb_id": 294793,
+      "game_name": "Mario vs. Luigi Reloaded",
+      "file": "missing/M/294793-mario-vs-luigi-reloaded.json"
+    },
+    {
       "igdb_id": 315045,
       "game_name": "Mario vs. Obama!",
       "file": "missing/M/315045-mario-vs-obama.json"
@@ -291096,6 +291206,11 @@
       "igdb_id": 175970,
       "game_name": "Mario's Face",
       "file": "missing/M/175970-marios-face.json"
+    },
+    {
+      "igdb_id": 294772,
+      "game_name": "Mario's Final Adventure Wii",
+      "file": "missing/M/294772-marios-final-adventure-wii.json"
     },
     {
       "igdb_id": 270378,
@@ -307488,6 +307603,11 @@
       "file": "missing/M/322348-minq.json"
     },
     {
+      "igdb_id": 294805,
+      "game_name": "Minsho",
+      "file": "missing/M/294805-minsho.json"
+    },
+    {
       "igdb_id": 115631,
       "game_name": "Minskies",
       "file": "missing/M/115631-minskies.json"
@@ -310673,6 +310793,11 @@
       "file": "missing/M/237057-moleshine-cooking-simulator.json"
     },
     {
+      "igdb_id": 294815,
+      "game_name": "Molewack",
+      "file": "missing/M/294815-molewack.json"
+    },
+    {
       "igdb_id": 59679,
       "game_name": "Moley Christmas",
       "file": "missing/M/59679-moley-christmas.json"
@@ -311166,6 +311291,11 @@
       "igdb_id": 246471,
       "game_name": "Money Go!",
       "file": "missing/M/246471-money-go.json"
+    },
+    {
+      "igdb_id": 294806,
+      "game_name": "Money Hog",
+      "file": "missing/M/294806-money-hog.json"
     },
     {
       "igdb_id": 358344,
@@ -329933,6 +330063,11 @@
       "file": "missing/N/113457-new-adult-reality.json"
     },
     {
+      "igdb_id": 294795,
+      "game_name": "New Adventure All-Stars",
+      "file": "missing/N/294795-new-adventure-all-stars.json"
+    },
+    {
       "igdb_id": 28521,
       "game_name": "New Adventure Island",
       "file": "missing/N/28521-new-adventure-island.json"
@@ -330273,6 +330408,11 @@
       "file": "missing/N/107234-new-super-mario-bros-deluxe.json"
     },
     {
+      "igdb_id": 294785,
+      "game_name": "New Super Mario Bros. DS Co-Op",
+      "file": "missing/N/294785-new-super-mario-bros-ds-co-op.json"
+    },
+    {
       "igdb_id": 175961,
       "game_name": "New Super Mario Bros. Mii",
       "file": "missing/N/175961-new-super-mario-bros-mii.json"
@@ -330566,6 +330706,11 @@
       "igdb_id": 84280,
       "game_name": "Newcomer",
       "file": "missing/N/84280-newcomer.json"
+    },
+    {
+      "igdb_id": 294789,
+      "game_name": "Newer Super Luigi Wii: Dark Moon - Reverse",
+      "file": "missing/N/294789-newer-super-luigi-wii-dark-moon-reverse.json"
     },
     {
       "igdb_id": 132846,
@@ -331371,6 +331516,11 @@
       "igdb_id": 102724,
       "game_name": "Nice Dice - 3D dice roller",
       "file": "missing/N/102724-nice-dice-3d-dice-roller.json"
+    },
+    {
+      "igdb_id": 294791,
+      "game_name": "Nice Mario 75",
+      "file": "missing/N/294791-nice-mario-75.json"
     },
     {
       "igdb_id": 123629,
@@ -338318,6 +338468,11 @@
       "file": "missing/N/152159-nyakamon-adventures.json"
     },
     {
+      "igdb_id": 294816,
+      "game_name": "Nyakamon Runes",
+      "file": "missing/N/294816-nyakamon-runes.json"
+    },
+    {
       "igdb_id": 157178,
       "game_name": "Nyako: Restaurant Tycoon",
       "file": "missing/N/157178-nyako-restaurant-tycoon.json"
@@ -343013,6 +343168,11 @@
       "file": "missing/O/146873-one-in-a-trillion.json"
     },
     {
+      "igdb_id": 294808,
+      "game_name": "One Last Adventure",
+      "file": "missing/O/294808-one-last-adventure.json"
+    },
+    {
       "igdb_id": 33057,
       "game_name": "One Last Chance",
       "file": "missing/O/33057-one-last-chance.json"
@@ -343471,6 +343631,11 @@
       "igdb_id": 62120,
       "game_name": "One Piece: Dance Battle",
       "file": "missing/O/62120-one-piece-dance-battle.json"
+    },
+    {
+      "igdb_id": 294778,
+      "game_name": "One Piece: Dream Pointer",
+      "file": "missing/O/294778-one-piece-dream-pointer.json"
     },
     {
       "igdb_id": 47818,
@@ -361938,6 +362103,11 @@
       "file": "missing/P/292126-pikmin-2-lands-of-torture.json"
     },
     {
+      "igdb_id": 294792,
+      "game_name": "Pikmin 2 Maps in Pikmin 3",
+      "file": "missing/P/294792-pikmin-2-maps-in-pikmin-3.json"
+    },
+    {
       "igdb_id": 292127,
       "game_name": "Pikmin 2 Power Cut Blackout",
       "file": "missing/P/292127-pikmin-2-power-cut-blackout.json"
@@ -370128,6 +370298,11 @@
       "file": "missing/P/2322-pokemon-mystery-dungeon-explorers-of-darkness.json"
     },
     {
+      "igdb_id": 294796,
+      "game_name": "Pokémon Mystery Dungeon: Explorers of Skies",
+      "file": "missing/P/294796-pokemon-mystery-dungeon-explorers-of-skies.json"
+    },
+    {
       "igdb_id": 365792,
       "game_name": "Pokémon Mystery Dungeon: Origins",
       "file": "missing/P/365792-pokemon-mystery-dungeon-origins.json"
@@ -378001,6 +378176,11 @@
       "igdb_id": 144090,
       "game_name": "Project Canopy",
       "file": "missing/P/144090-project-canopy.json"
+    },
+    {
+      "igdb_id": 294787,
+      "game_name": "Project Canvas: Isekai Joucho Ikusei Keikaku",
+      "file": "missing/P/294787-project-canvas-isekai-joucho-ikusei-keikaku.json"
     },
     {
       "igdb_id": 362486,
@@ -400596,6 +400776,16 @@
       "igdb_id": 187355,
       "game_name": "Riichi City",
       "file": "missing/R/187355-riichi-city.json"
+    },
+    {
+      "igdb_id": 294771,
+      "game_name": "RiiMajor",
+      "file": "missing/R/294771-riimajor.json"
+    },
+    {
+      "igdb_id": 294784,
+      "game_name": "RiiPlay",
+      "file": "missing/R/294784-riiplay.json"
     },
     {
       "igdb_id": 97328,
@@ -468558,6 +468748,11 @@
       "file": "missing/S/4370-sunset-riders.json"
     },
     {
+      "igdb_id": 294794,
+      "game_name": "Sunset Shores",
+      "file": "missing/S/294794-sunset-shores.json"
+    },
+    {
       "igdb_id": 348460,
       "game_name": "Sunset Sprout",
       "file": "missing/S/348460-sunset-sprout.json"
@@ -470948,6 +471143,11 @@
       "file": "missing/S/198471-super-luigi-bros.json"
     },
     {
+      "igdb_id": 294783,
+      "game_name": "Super Luigi Land Wii",
+      "file": "missing/S/294783-super-luigi-land-wii.json"
+    },
+    {
       "igdb_id": 282683,
       "game_name": "Super Luigi Odyssey",
       "file": "missing/S/282683-super-luigi-odyssey.json"
@@ -471131,6 +471331,11 @@
       "igdb_id": 22301,
       "game_name": "Super Mario 64 DS",
       "file": "missing/S/22301-super-mario-64-ds.json"
+    },
+    {
+      "igdb_id": 294775,
+      "game_name": "Super Mario 64 DS 2: The New Stars",
+      "file": "missing/S/294775-super-mario-64-ds-2-the-new-stars.json"
     },
     {
       "igdb_id": 315013,
@@ -471723,6 +471928,11 @@
       "file": "missing/S/366900-super-mario-galaxy-2.json"
     },
     {
+      "igdb_id": 294766,
+      "game_name": "Super Mario Galaxy 2: Cosmic Clones Challenge",
+      "file": "missing/S/294766-super-mario-galaxy-2-cosmic-clones-challenge.json"
+    },
+    {
       "igdb_id": 294714,
       "game_name": "Super Mario Galaxy 63",
       "file": "missing/S/294714-super-mario-galaxy-63.json"
@@ -471733,9 +471943,19 @@
       "file": "missing/S/313339-super-mario-galaxy-64.json"
     },
     {
+      "igdb_id": 294779,
+      "game_name": "Super Mario Galaxy 64: Holiday Special",
+      "file": "missing/S/294779-super-mario-galaxy-64-holiday-special.json"
+    },
+    {
       "igdb_id": 315008,
       "game_name": "Super Mario Galaxy DS",
       "file": "missing/S/315008-super-mario-galaxy-ds.json"
+    },
+    {
+      "igdb_id": 294770,
+      "game_name": "Super Mario Galaxy Multiplayer",
+      "file": "missing/S/294770-super-mario-galaxy-multiplayer.json"
     },
     {
       "igdb_id": 313326,
@@ -507078,6 +507298,11 @@
       "file": "missing/T/120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json"
     },
     {
+      "igdb_id": 294777,
+      "game_name": "The New York Times Simulator",
+      "file": "missing/T/294777-the-new-york-times-simulator.json"
+    },
+    {
       "igdb_id": 7628,
       "game_name": "The NewZealand Story",
       "file": "missing/T/7628-the-newzealand-story.json"
@@ -518803,6 +519028,11 @@
       "file": "missing/T/274219-threshold-of-pain.json"
     },
     {
+      "igdb_id": 294769,
+      "game_name": "Thrice Doomed",
+      "file": "missing/T/294769-thrice-doomed.json"
+    },
+    {
       "igdb_id": 213419,
       "game_name": "Thrice in a row: Last Adventure",
       "file": "missing/T/213419-thrice-in-a-row-last-adventure.json"
@@ -525691,6 +525921,11 @@
       "igdb_id": 215198,
       "game_name": "Toadette's Christmas Adventure",
       "file": "missing/T/215198-toadettes-christmas-adventure.json"
+    },
+    {
+      "igdb_id": 294781,
+      "game_name": "Toadette's Sweets Gallery",
+      "file": "missing/T/294781-toadettes-sweets-gallery.json"
     },
     {
       "igdb_id": 173243,
@@ -556243,6 +556478,11 @@
       "file": "missing/V/292021-vpet-simulator.json"
     },
     {
+      "igdb_id": 294798,
+      "game_name": "VPet: Pancake Cat Skin package",
+      "file": "missing/V/294798-vpet-pancake-cat-skin-package.json"
+    },
+    {
       "igdb_id": 395580,
       "game_name": "VPetlings",
       "file": "missing/V/395580-vpetlings.json"
@@ -578893,6 +579133,11 @@
       "file": "missing/Y/397262-yoshis-adventure-128-attack-of-the-factory.json"
     },
     {
+      "igdb_id": 294776,
+      "game_name": "Yoshi's Adventure 96: Puzzles for Yoshis",
+      "file": "missing/Y/294776-yoshis-adventure-96-puzzles-for-yoshis.json"
+    },
+    {
       "igdb_id": 323351,
       "game_name": "Yoshi's Dreamer",
       "file": "missing/Y/323351-yoshis-dreamer.json"
@@ -585401,6 +585646,11 @@
       "igdb_id": 33118,
       "game_name": "ZRoll",
       "file": "missing/Z/33118-zroll.json"
+    },
+    {
+      "igdb_id": 294780,
+      "game_name": "Ztar Attack 3: Dimensional Panic",
+      "file": "missing/Z/294780-ztar-attack-3-dimensional-panic.json"
     },
     {
       "igdb_id": 135231,
