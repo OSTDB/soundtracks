@@ -618,8 +618,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Industry | 357888 | [357888-jigsaw-industry.json](./357888-jigsaw-industry.json) |
 | Jigsaw Island | 308922 | [308922-jigsaw-island.json](./308922-jigsaw-island.json) |
 | Jigsaw Jab | 390678 | [390678-jigsaw-jab.json](./390678-jigsaw-jab.json) |
+| Jigsaw Kids 1 | 289370 | [289370-jigsaw-kids-1.json](./289370-jigsaw-kids-1.json) |
 | Jigsaw Madness | 43918 | [43918-jigsaw-madness.json](./43918-jigsaw-madness.json) |
 | Jigsaw Masterpieces | 147951 | [147951-jigsaw-masterpieces.json](./147951-jigsaw-masterpieces.json) |
+| Jigsaw Masterpieces 2 | 289372 | [289372-jigsaw-masterpieces-2.json](./289372-jigsaw-masterpieces-2.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.1 | 328838 | [328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json](./328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.2 | 328839 | [328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json](./328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json) |
 | Jigsaw Masterpieces: Beautiful Castles in Japan | 238219 | [238219-jigsaw-masterpieces-beautiful-castles-in-japan.json](./238219-jigsaw-masterpieces-beautiful-castles-in-japan.json) |
@@ -688,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw With Animals | 163405 | [163405-jigsaw-with-animals.json](./163405-jigsaw-with-animals.json) |
 | Jigsaw World | 308926 | [308926-jigsaw-world.json](./308926-jigsaw-world.json) |
 | Jigsaw World | 53249 | [53249-jigsaw-world.json](./53249-jigsaw-world.json) |
+| Jigsaw Zoo | 289371 | [289371-jigsaw-zoo.json](./289371-jigsaw-zoo.json) |
 | Jigsawship | 255760 | [255760-jigsawship.json](./255760-jigsawship.json) |
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
 | Jigten: Mandala of Shadows | 376449 | [376449-jigten-mandala-of-shadows.json](./376449-jigten-mandala-of-shadows.json) |
