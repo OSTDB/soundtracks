@@ -3311,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shocked | 213458 | [213458-shocked.json](./213458-shocked.json) |
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
+| ShockWave | 323284 | [323284-shockwave.json](./323284-shockwave.json) |
 | Shockwave Assault | 18705 | [18705-shockwave-assault.json](./18705-shockwave-assault.json) |
 | Shockwave Tetris | 383036 | [383036-shockwave-tetris.json](./383036-shockwave-tetris.json) |
 | Shockwave Triggers | 335466 | [335466-shockwave-triggers.json](./335466-shockwave-triggers.json) |
@@ -3544,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showtime! | 9405 | [9405-showtime.json](./9405-showtime.json) |
 | Showy Homes | 380521 | [380521-showy-homes.json](./380521-showy-homes.json) |
 | Shox: Rally Reinvented | 8265 | [8265-shox-rally-reinvented.json](./8265-shox-rally-reinvented.json) |
+| SHPDMBGWL4 Sunshine | 323292 | [323292-shpdmbgwl4-sunshine.json](./323292-shpdmbgwl4-sunshine.json) |
 | SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
 | Shrapnel City 2096: Trapped In The Future! | 308237 | [308237-shrapnel-city-2096-trapped-in-the-future.json](./308237-shrapnel-city-2096-trapped-in-the-future.json) |
 | Shrapnel Sentinel | 361915 | [361915-shrapnel-sentinel.json](./361915-shrapnel-sentinel.json) |
@@ -3817,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SilenGames Bundle 2024 | 331517 | [331517-silengames-bundle-2024.json](./331517-silengames-bundle-2024.json) |
 | Silent Anomalies | 337071 | [337071-silent-anomalies.json](./337071-silent-anomalies.json) |
 | Silent Authority: Blood & Bourbon | 415876 | [415876-silent-authority-blood-and-bourbon.json](./415876-silent-authority-blood-and-bourbon.json) |
+| Silent Breach | 323267 | [323267-silent-breach.json](./323267-silent-breach.json) |
 | Silent Breath | 287462 | [287462-silent-breath.json](./287462-silent-breath.json) |
 | Silent Castle | 212491 | [212491-silent-castle.json](./212491-silent-castle.json) |
 | Silent Castle | 399717 | [399717-silent-castle.json](./399717-silent-castle.json) |
@@ -6238,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sommelier DS | 124052 | [124052-sommelier-ds.json](./124052-sommelier-ds.json) |
 | SomnaBuster | 281378 | [281378-somnabuster.json](./281378-somnabuster.json) |
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
+| Somnicoda | 323296 | [323296-somnicoda.json](./323296-somnicoda.json) |
 | Somnifuge | 330702 | [330702-somnifuge.json](./330702-somnifuge.json) |
 | Somniphobia | 340940 | [340940-somniphobia.json](./340940-somniphobia.json) |
 | Somnis: Rumble Rush | 332441 | [332441-somnis-rumble-rush.json](./332441-somnis-rumble-rush.json) |
@@ -12007,6 +12011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid CRE 2 | 255373 | [255373-super-metroid-cre-2.json](./255373-super-metroid-cre-2.json) |
 | Super Metroid CRE 3 | 255371 | [255371-super-metroid-cre-3.json](./255371-super-metroid-cre-3.json) |
 | Super Metroid Eleven | 324514 | [324514-super-metroid-eleven.json](./324514-super-metroid-eleven.json) |
+| Super Metroid World | 323293 | [323293-super-metroid-world.json](./323293-super-metroid-world.json) |
 | Super Metroid-Revamp | 377257 | [377257-super-metroid-revamp.json](./377257-super-metroid-revamp.json) |
 | Super Metroid: Airy | 255322 | [255322-super-metroid-airy.json](./255322-super-metroid-airy.json) |
 | Super Metroid: Battle | 318017 | [318017-super-metroid-battle.json](./318017-super-metroid-battle.json) |
@@ -12102,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
 | Super Panic Monsters | 71510 | [71510-super-panic-monsters.json](./71510-super-panic-monsters.json) |
+| Super Paper Bowser World | 323290 | [323290-super-paper-bowser-world.json](./323290-super-paper-bowser-world.json) |
 | Super Paper Mario | 231489 | [231489-super-paper-mario.json](./231489-super-paper-mario.json) |
 | Super Paper Mario: Hard Mode - Rubies & Magic | 344918 | [344918-super-paper-mario-hard-mode-rubies-and-magic.json](./344918-super-paper-mario-hard-mode-rubies-and-magic.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
@@ -13222,6 +13228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
 | Sword of the Stars: The Pit Gold Edition - Necromancer | 51931 | [51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json](./51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json) |
 | Sword Phantom | 305761 | [305761-sword-phantom.json](./305761-sword-phantom.json) |
+| Sword Play! Ninja Slice Runner | 323313 | [323313-sword-play-ninja-slice-runner.json](./323313-sword-play-ninja-slice-runner.json) |
 | Sword Princess Amaltea: The Visual Novel | 173176 | [173176-sword-princess-amaltea-the-visual-novel.json](./173176-sword-princess-amaltea-the-visual-novel.json) |
 | Sword Princess Cistina - The Chosen Saint | 146312 | [146312-sword-princess-cistina-the-chosen-saint.json](./146312-sword-princess-cistina-the-chosen-saint.json) |
 | Sword Princess Sistina | 292523 | [292523-sword-princess-sistina.json](./292523-sword-princess-sistina.json) |
