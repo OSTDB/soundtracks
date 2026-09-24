@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heracles - Battle of the Gods | 54098 | [54098-heracles-battle-of-the-gods.json](./54098-heracles-battle-of-the-gods.json) |
 | Heracles no Eikou II: Titan no Metsubou | 48619 | [48619-heracles-no-eikou-ii-titan-no-metsubou.json](./48619-heracles-no-eikou-ii-titan-no-metsubou.json) |
 | Herald of Havoc | 211276 | [211276-herald-of-havoc.json](./211276-herald-of-havoc.json) |
+| Herald of the Mists | 310501 | [310501-herald-of-the-mists.json](./310501-herald-of-the-mists.json) |
 | Herald: The Interactive Period Drama - Complete Edition | 226443 | [226443-herald-the-interactive-period-drama-complete-edition.json](./226443-herald-the-interactive-period-drama-complete-edition.json) |
 | Heralds of the Avirentes: Ch. 1 - Wings of Change | 244474 | [244474-heralds-of-the-avirentes-ch-1-wings-of-change.json](./244474-heralds-of-the-avirentes-ch-1-wings-of-change.json) |
 | Heralds of The Order | 108466 | [108466-heralds-of-the-order.json](./108466-heralds-of-the-order.json) |
