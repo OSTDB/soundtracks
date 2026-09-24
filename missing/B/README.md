@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballshit | 373219 | [373219-ballshit.json](./373219-ballshit.json) |
 | Bally Fears: The Introduction Game | 317403 | [317403-bally-fears-the-introduction-game.json](./317403-bally-fears-the-introduction-game.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
+| Bally Jump | 293174 | [293174-bally-jump.json](./293174-bally-jump.json) |
 | Bally Pin | 130870 | [130870-bally-pin.json](./130870-bally-pin.json) |
 | BallZ | 230914 | [230914-ballz.json](./230914-ballz.json) |
 | Ballz Drop | 105795 | [105795-ballz-drop.json](./105795-ballz-drop.json) |
@@ -848,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie and the Magic of Pegasus | 248681 | [248681-barbie-and-the-magic-of-pegasus.json](./248681-barbie-and-the-magic-of-pegasus.json) |
 | Barbie as Princess Bride | 200600 | [200600-barbie-as-princess-bride.json](./200600-barbie-as-princess-bride.json) |
 | Barbie as Rapunzel | 200599 | [200599-barbie-as-rapunzel.json](./200599-barbie-as-rapunzel.json) |
+| Barbie as Rapunzel | 293190 | [293190-barbie-as-rapunzel.json](./293190-barbie-as-rapunzel.json) |
 | Barbie as Rapunzel: A Creative Adventure | 23781 | [23781-barbie-as-rapunzel-a-creative-adventure.json](./23781-barbie-as-rapunzel-a-creative-adventure.json) |
 | Barbie as Sleeping Beauty | 200605 | [200605-barbie-as-sleeping-beauty.json](./200605-barbie-as-sleeping-beauty.json) |
 | Barbie as the Princess and the Pauper | 200590 | [200590-barbie-as-the-princess-and-the-pauper.json](./200590-barbie-as-the-princess-and-the-pauper.json) |
@@ -883,12 +885,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Fairytopia | 273990 | [273990-barbie-fairytopia.json](./273990-barbie-fairytopia.json) |
 | Barbie: Gotta Have Games | 43884 | [43884-barbie-gotta-have-games.json](./43884-barbie-gotta-have-games.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
+| Barbie: Let's Baby-Sit Baby Krissy | 293192 | [293192-barbie-lets-baby-sit-baby-krissy.json](./293192-barbie-lets-baby-sit-baby-krissy.json) |
 | Barbie: Let’s Make Music | 293198 | [293198-barbie-let-s-make-music.json](./293198-barbie-let-s-make-music.json) |
 | Barbie: Malibu Mysteries | 228546 | [228546-barbie-malibu-mysteries.json](./228546-barbie-malibu-mysteries.json) |
 | Barbie: Ocean Discovery | 200588 | [200588-barbie-ocean-discovery.json](./200588-barbie-ocean-discovery.json) |
+| Barbie: Pet Dance | 293189 | [293189-barbie-pet-dance.json](./293189-barbie-pet-dance.json) |
+| Barbie: Potty Race | 293186 | [293186-barbie-potty-race.json](./293186-barbie-potty-race.json) |
 | Barbie: Puppy Water Sliders | 293193 | [293193-barbie-puppy-water-sliders.json](./293193-barbie-puppy-water-sliders.json) |
 | Barbie: Shoe Hunt | 293197 | [293197-barbie-shoe-hunt.json](./293197-barbie-shoe-hunt.json) |
 | Barbie: Treasures in Time | 200596 | [200596-barbie-treasures-in-time.json](./200596-barbie-treasures-in-time.json) |
+| Barbie's Game Room | 293188 | [293188-barbies-game-room.json](./293188-barbies-game-room.json) |
 | Barbie's Team Gymnastics | 59942 | [59942-barbies-team-gymnastics.json](./59942-barbies-team-gymnastics.json) |
 | Barboozeled | 214732 | [214732-barboozeled.json](./214732-barboozeled.json) |
 | Barbuta | 317573 | [317573-barbuta.json](./317573-barbuta.json) |
@@ -1553,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Ram | 132780 | [132780-battle-ram.json](./132780-battle-ram.json) |
 | Battle Raper | 22407 | [22407-battle-raper.json](./22407-battle-raper.json) |
 | Battle Raper II | 22418 | [22418-battle-raper-ii.json](./22418-battle-raper-ii.json) |
+| Battle RC | 293135 | [293135-battle-rc.json](./293135-battle-rc.json) |
 | Battle Records of Rota | 264021 | [264021-battle-records-of-rota.json](./264021-battle-records-of-rota.json) |
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Robot Damashii | 63833 | [63833-battle-robot-damashii.json](./63833-battle-robot-damashii.json) |
