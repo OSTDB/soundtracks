@@ -916,6 +916,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Invaders | 285555 | [285555-farm-invaders.json](./285555-farm-invaders.json) |
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
+| Farm It: Fluffy DLC | 316209 | [316209-farm-it-fluffy-dlc.json](./316209-farm-it-fluffy-dlc.json) |
+| Farm It: Funky DLC | 316210 | [316210-farm-it-funky-dlc.json](./316210-farm-it-funky-dlc.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Keeper | 247034 | [247034-farm-keeper.json](./247034-farm-keeper.json) |
 | Farm Kitten: Puzzle Pipes | 165711 | [165711-farm-kitten-puzzle-pipes.json](./165711-farm-kitten-puzzle-pipes.json) |
@@ -2503,6 +2505,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit For A King | 121200 | [121200-fit-for-a-king.json](./121200-fit-for-a-king.json) |
 | Fit In | 113055 | [113055-fit-in.json](./113055-fit-in.json) |
 | Fit My Cat | 284930 | [284930-fit-my-cat.json](./284930-fit-my-cat.json) |
+| Fit My Dog: Dog's Puzzle Pack 1 | 316230 | [316230-fit-my-dog-dogs-puzzle-pack-1.json](./316230-fit-my-dog-dogs-puzzle-pack-1.json) |
+| Fit My Dog: Dog's Puzzle Pack 2 | 316229 | [316229-fit-my-dog-dogs-puzzle-pack-2.json](./316229-fit-my-dog-dogs-puzzle-pack-2.json) |
+| Fit My Dog: Dog's Puzzle Pack 3 | 316228 | [316228-fit-my-dog-dogs-puzzle-pack-3.json](./316228-fit-my-dog-dogs-puzzle-pack-3.json) |
 | Fit My Zoo: Complete + | 328820 | [328820-fit-my-zoo-complete.json](./328820-fit-my-zoo-complete.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 1 | 308811 | [308811-fit-my-zoo-zoos-puzzle-pack-1.json](./308811-fit-my-zoo-zoos-puzzle-pack-1.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 2 | 308812 | [308812-fit-my-zoo-zoos-puzzle-pack-2.json](./308812-fit-my-zoo-zoos-puzzle-pack-2.json) |
