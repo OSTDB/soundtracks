@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T08:32:54.898Z",
-  "total_missing": 115277,
+  "generated_at": "2026-09-24T08:47:55.233Z",
+  "total_missing": 115327,
   "games": [
     {
       "igdb_id": 176875,
@@ -13843,6 +13843,11 @@
       "file": "missing/A/293084-alchemy-unbound.json"
     },
     {
+      "igdb_id": 316218,
+      "game_name": "Alchemy: Origins - Food I",
+      "file": "missing/A/316218-alchemy-origins-food-i.json"
+    },
+    {
       "igdb_id": 51562,
       "game_name": "Alchemyland",
       "file": "missing/A/51562-alchemyland.json"
@@ -14306,6 +14311,11 @@
       "igdb_id": 288751,
       "game_name": "Alian",
       "file": "missing/A/288751-alian.json"
+    },
+    {
+      "igdb_id": 316188,
+      "game_name": "Alian Planet",
+      "file": "missing/A/316188-alian-planet.json"
     },
     {
       "igdb_id": 76197,
@@ -39518,6 +39528,11 @@
       "file": "missing/B/105795-ballz-drop.json"
     },
     {
+      "igdb_id": 316189,
+      "game_name": "BallZ DX",
+      "file": "missing/B/316189-ballz-dx.json"
+    },
+    {
       "igdb_id": 81063,
       "game_name": "Ballz: Farm",
       "file": "missing/B/81063-ballz-farm.json"
@@ -62968,6 +62983,11 @@
       "file": "missing/B/99384-brain-trainer-spot-the-difference.json"
     },
     {
+      "igdb_id": 316199,
+      "game_name": "Brain Training!! Hiragana ＆ Katakana Search",
+      "file": "missing/B/316199-brain-training-hiragana-and-katakana-search.json"
+    },
+    {
       "igdb_id": 278556,
       "game_name": "Brain Urge",
       "file": "missing/B/278556-brain-urge.json"
@@ -67001,6 +67021,11 @@
       "igdb_id": 34864,
       "game_name": "Buff Knight Advanced",
       "file": "missing/B/34864-buff-knight-advanced.json"
+    },
+    {
+      "igdb_id": 316219,
+      "game_name": "Buffet Boss: Rolling Sushi",
+      "file": "missing/B/316219-buffet-boss-rolling-sushi.json"
     },
     {
       "igdb_id": 3837,
@@ -86573,6 +86598,11 @@
       "file": "missing/C/132442-city-destructor.json"
     },
     {
+      "igdb_id": 316196,
+      "game_name": "City Driver: Police Parking Simulator",
+      "file": "missing/C/316196-city-driver-police-parking-simulator.json"
+    },
+    {
       "igdb_id": 220298,
       "game_name": "City Dunk 2",
       "file": "missing/C/220298-city-dunk-2.json"
@@ -95768,9 +95798,19 @@
       "file": "missing/C/259586-cooking-arena.json"
     },
     {
+      "igdb_id": 316197,
+      "game_name": "Cooking Arena Breakfast Bonanza",
+      "file": "missing/C/316197-cooking-arena-breakfast-bonanza.json"
+    },
+    {
       "igdb_id": 385177,
       "game_name": "Cooking Arena Culinary Legends",
       "file": "missing/C/385177-cooking-arena-culinary-legends.json"
+    },
+    {
+      "igdb_id": 316198,
+      "game_name": "Cooking Arena Pancake Paradise",
+      "file": "missing/C/316198-cooking-arena-pancake-paradise.json"
     },
     {
       "igdb_id": 385196,
@@ -112551,6 +112591,26 @@
       "igdb_id": 250007,
       "game_name": "Date with Foxgirl",
       "file": "missing/D/250007-date-with-foxgirl.json"
+    },
+    {
+      "igdb_id": 316200,
+      "game_name": "Date Z: Hazardous Amour Pack",
+      "file": "missing/D/316200-date-z-hazardous-amour-pack.json"
+    },
+    {
+      "igdb_id": 316201,
+      "game_name": "Date Z: Romance Completionist Pack",
+      "file": "missing/D/316201-date-z-romance-completionist-pack.json"
+    },
+    {
+      "igdb_id": 316202,
+      "game_name": "Date Z: Special Report Pack",
+      "file": "missing/D/316202-date-z-special-report-pack.json"
+    },
+    {
+      "igdb_id": 316203,
+      "game_name": "Date Z: TTRPG Enthusiast Pack",
+      "file": "missing/D/316203-date-z-ttrpg-enthusiast-pack.json"
     },
     {
       "igdb_id": 351272,
@@ -137213,6 +137273,11 @@
       "file": "missing/D/388757-drift-market.json"
     },
     {
+      "igdb_id": 316231,
+      "game_name": "Drift Master Simulator 2024: Rich Racer DLC",
+      "file": "missing/D/316231-drift-master-simulator-2024-rich-racer-dlc.json"
+    },
+    {
       "igdb_id": 99408,
       "game_name": "Drift Max Pro",
       "file": "missing/D/99408-drift-max-pro.json"
@@ -143628,9 +143693,34 @@
       "file": "missing/E/315829-ecchi-memories.json"
     },
     {
+      "igdb_id": 316208,
+      "game_name": "Ecchi Memories: Cassie & Maud",
+      "file": "missing/E/316208-ecchi-memories-cassie-and-maud.json"
+    },
+    {
       "igdb_id": 317259,
       "game_name": "Ecchi Memories: Complete Edition",
       "file": "missing/E/317259-ecchi-memories-complete-edition.json"
+    },
+    {
+      "igdb_id": 316207,
+      "game_name": "Ecchi Memories: Haruka & Sofia",
+      "file": "missing/E/316207-ecchi-memories-haruka-and-sofia.json"
+    },
+    {
+      "igdb_id": 316206,
+      "game_name": "Ecchi Memories: Kayla & Ellie",
+      "file": "missing/E/316206-ecchi-memories-kayla-and-ellie.json"
+    },
+    {
+      "igdb_id": 316205,
+      "game_name": "Ecchi Memories: Louise & Isadora",
+      "file": "missing/E/316205-ecchi-memories-louise-and-isadora.json"
+    },
+    {
+      "igdb_id": 316204,
+      "game_name": "Ecchi Memories: Onyx & Phoebe",
+      "file": "missing/E/316204-ecchi-memories-onyx-and-phoebe.json"
     },
     {
       "igdb_id": 110966,
@@ -145076,6 +145166,11 @@
       "igdb_id": 328526,
       "game_name": "Eggconsole Dragon Slayer: The Legend of Heroes II PC-8801mkIISR",
       "file": "missing/E/328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json"
+    },
+    {
+      "igdb_id": 316195,
+      "game_name": "Eggconsole Dragon Slayer: The Legend of Heroes PC-8801mkIISR",
+      "file": "missing/E/316195-eggconsole-dragon-slayer-the-legend-of-heroes-pc-8801mkiisr.json"
     },
     {
       "igdb_id": 351228,
@@ -162188,6 +162283,16 @@
       "file": "missing/F/61125-farm-invasion-usa.json"
     },
     {
+      "igdb_id": 316209,
+      "game_name": "Farm It: Fluffy DLC",
+      "file": "missing/F/316209-farm-it-fluffy-dlc.json"
+    },
+    {
+      "igdb_id": 316210,
+      "game_name": "Farm It: Funky DLC",
+      "file": "missing/F/316210-farm-it-funky-dlc.json"
+    },
+    {
       "igdb_id": 247216,
       "game_name": "Farm Jam: Animal Parking Game",
       "file": "missing/F/247216-farm-jam-animal-parking-game.json"
@@ -170121,6 +170226,21 @@
       "igdb_id": 284930,
       "game_name": "Fit My Cat",
       "file": "missing/F/284930-fit-my-cat.json"
+    },
+    {
+      "igdb_id": 316230,
+      "game_name": "Fit My Dog: Dog's Puzzle Pack 1",
+      "file": "missing/F/316230-fit-my-dog-dogs-puzzle-pack-1.json"
+    },
+    {
+      "igdb_id": 316229,
+      "game_name": "Fit My Dog: Dog's Puzzle Pack 2",
+      "file": "missing/F/316229-fit-my-dog-dogs-puzzle-pack-2.json"
+    },
+    {
+      "igdb_id": 316228,
+      "game_name": "Fit My Dog: Dog's Puzzle Pack 3",
+      "file": "missing/F/316228-fit-my-dog-dogs-puzzle-pack-3.json"
     },
     {
       "igdb_id": 328820,
@@ -196698,6 +196818,26 @@
       "file": "missing/G/133341-gori-cuddly-carnage.json"
     },
     {
+      "igdb_id": 316214,
+      "game_name": "Gori: Cuddly Carnage - Change Skin Pack",
+      "file": "missing/G/316214-gori-cuddly-carnage-change-skin-pack.json"
+    },
+    {
+      "igdb_id": 316213,
+      "game_name": "Gori: Cuddly Carnage - Chinese Dragon Premium Skin Pack",
+      "file": "missing/G/316213-gori-cuddly-carnage-chinese-dragon-premium-skin-pack.json"
+    },
+    {
+      "igdb_id": 316212,
+      "game_name": "Gori: Cuddly Carnage - Day One Skin Pack",
+      "file": "missing/G/316212-gori-cuddly-carnage-day-one-skin-pack.json"
+    },
+    {
+      "igdb_id": 316211,
+      "game_name": "Gori: Cuddly Carnage - Neon Neko Triple Skin Pack",
+      "file": "missing/G/316211-gori-cuddly-carnage-neon-neko-triple-skin-pack.json"
+    },
+    {
       "igdb_id": 315867,
       "game_name": "Gori: Cuddly Carnage - Special Edition",
       "file": "missing/G/315867-gori-cuddly-carnage-special-edition.json"
@@ -200968,6 +201108,11 @@
       "file": "missing/G/104523-groove-coaster-for-steam.json"
     },
     {
+      "igdb_id": 316220,
+      "game_name": "Groove Coaster Wai Wai Party!!!!: Chunithm Pack",
+      "file": "missing/G/316220-groove-coaster-wai-wai-party-chunithm-pack.json"
+    },
+    {
       "igdb_id": 358959,
       "game_name": "Groove Coaster: Bad Apple!! feat. nomico",
       "file": "missing/G/358959-groove-coaster-bad-apple-feat-nomico.json"
@@ -203076,6 +203221,11 @@
       "igdb_id": 328995,
       "game_name": "Gundam Breaker 4: Diorama Pack Set",
       "file": "missing/G/328995-gundam-breaker-4-diorama-pack-set.json"
+    },
+    {
+      "igdb_id": 316215,
+      "game_name": "Gundam Breaker 4: Season Pass",
+      "file": "missing/G/316215-gundam-breaker-4-season-pass.json"
     },
     {
       "igdb_id": 324439,
@@ -211678,6 +211828,11 @@
       "file": "missing/H/104651-helix-ball.json"
     },
     {
+      "igdb_id": 316193,
+      "game_name": "Helix Fruit Jump",
+      "file": "missing/H/316193-helix-fruit-jump.json"
+    },
+    {
       "igdb_id": 101536,
       "game_name": "Helix Jump 2",
       "file": "missing/H/101536-helix-jump-2.json"
@@ -213498,6 +213653,11 @@
       "file": "missing/H/290427-hentai-girls-happy-edition.json"
     },
     {
+      "igdb_id": 316194,
+      "game_name": "Hentai Girls: Lovely Lieutenant",
+      "file": "missing/H/316194-hentai-girls-lovely-lieutenant.json"
+    },
+    {
       "igdb_id": 298572,
       "game_name": "Hentai Girls: Magnificent Edition",
       "file": "missing/H/298572-hentai-girls-magnificent-edition.json"
@@ -213561,6 +213721,11 @@
       "igdb_id": 308817,
       "game_name": "Hentai Girls: Ultra Extended",
       "file": "missing/H/308817-hentai-girls-ultra-extended.json"
+    },
+    {
+      "igdb_id": 316216,
+      "game_name": "Hentai Girls: Ultra Premium",
+      "file": "missing/H/316216-hentai-girls-ultra-premium.json"
     },
     {
       "igdb_id": 283177,
@@ -216001,6 +216166,11 @@
       "igdb_id": 340467,
       "game_name": "HexaBeat!",
       "file": "missing/H/340467-hexabeat.json"
+    },
+    {
+      "igdb_id": 316186,
+      "game_name": "Hexachampions",
+      "file": "missing/H/316186-hexachampions.json"
     },
     {
       "igdb_id": 374634,
@@ -282533,6 +282703,11 @@
       "file": "missing/M/158226-mahjongschool.json"
     },
     {
+      "igdb_id": 316192,
+      "game_name": "Mahjongus: Mystery of Fortescue",
+      "file": "missing/M/316192-mahjongus-mystery-of-fortescue.json"
+    },
+    {
       "igdb_id": 31988,
       "game_name": "Mahluk: Dark demon",
       "file": "missing/M/31988-mahluk-dark-demon.json"
@@ -314006,6 +314181,11 @@
       "igdb_id": 257694,
       "game_name": "Mushy Score",
       "file": "missing/M/257694-mushy-score.json"
+    },
+    {
+      "igdb_id": 316232,
+      "game_name": "Music Box: Electro Pop",
+      "file": "missing/M/316232-music-box-electro-pop.json"
     },
     {
       "igdb_id": 316268,
@@ -358833,6 +359013,11 @@
       "file": "missing/P/335354-pixel-game-maker-series-rocket-frog.json"
     },
     {
+      "igdb_id": 316190,
+      "game_name": "Pixel Game Maker Series: The Willow Man",
+      "file": "missing/P/316190-pixel-game-maker-series-the-willow-man.json"
+    },
+    {
       "igdb_id": 211184,
       "game_name": "Pixel Gangsters",
       "file": "missing/P/211184-pixel-gangsters.json"
@@ -385391,6 +385576,11 @@
       "igdb_id": 102611,
       "game_name": "Real Bus Mechanic Simulator",
       "file": "missing/R/102611-real-bus-mechanic-simulator.json"
+    },
+    {
+      "igdb_id": 316187,
+      "game_name": "Real Cake Maker",
+      "file": "missing/R/316187-real-cake-maker.json"
     },
     {
       "igdb_id": 316245,
@@ -488368,6 +488558,11 @@
       "file": "missing/T/127221-the-dreamwalkers.json"
     },
     {
+      "igdb_id": 316217,
+      "game_name": "The Dresden Files Cooperative Card Game: Expansion 6 - Faithful Friends",
+      "file": "missing/T/316217-the-dresden-files-cooperative-card-game-expansion-6-faithful-friends.json"
+    },
+    {
       "igdb_id": 244905,
       "game_name": "The Drone Zone",
       "file": "missing/T/244905-the-drone-zone.json"
@@ -533698,6 +533893,11 @@
       "file": "missing/U/220203-uboat-attack.json"
     },
     {
+      "igdb_id": 316235,
+      "game_name": "Uboat Attack: Cloverfield DLC",
+      "file": "missing/U/316235-uboat-attack-cloverfield-dlc.json"
+    },
+    {
       "igdb_id": 317245,
       "game_name": "Uboat Attack: Complete Edition",
       "file": "missing/U/317245-uboat-attack-complete-edition.json"
@@ -533706,6 +533906,16 @@
       "igdb_id": 385212,
       "game_name": "Uboat Attack: Gold Edition",
       "file": "missing/U/385212-uboat-attack-gold-edition.json"
+    },
+    {
+      "igdb_id": 316234,
+      "game_name": "Uboat Attack: Vortice DLC",
+      "file": "missing/U/316234-uboat-attack-vortice-dlc.json"
+    },
+    {
+      "igdb_id": 316233,
+      "game_name": "Uboat Attack: Zeppelin DLC",
+      "file": "missing/U/316233-uboat-attack-zeppelin-dlc.json"
     },
     {
       "igdb_id": 150160,
@@ -535441,6 +535651,11 @@
       "igdb_id": 97494,
       "game_name": "Umamusume: Pretty Derby",
       "file": "missing/U/97494-umamusume-pretty-derby.json"
+    },
+    {
+      "igdb_id": 316227,
+      "game_name": "Umamusume: Pretty Derby - Party Dash: DLC Vol. 1 - Team Iris",
+      "file": "missing/U/316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json"
     },
     {
       "igdb_id": 252372,
@@ -560118,6 +560333,26 @@
       "file": "missing/W/87260-witchspring.json"
     },
     {
+      "igdb_id": 316224,
+      "game_name": "WitchSpring R: Costume - Black Pearl Set",
+      "file": "missing/W/316224-witchspring-r-costume-black-pearl-set.json"
+    },
+    {
+      "igdb_id": 316222,
+      "game_name": "WitchSpring R: Costume - Red Berry Set",
+      "file": "missing/W/316222-witchspring-r-costume-red-berry-set.json"
+    },
+    {
+      "igdb_id": 316225,
+      "game_name": "WitchSpring R: Costume - Shining Dawn Set",
+      "file": "missing/W/316225-witchspring-r-costume-shining-dawn-set.json"
+    },
+    {
+      "igdb_id": 316221,
+      "game_name": "WitchSpring R: Costume - Silver Rose Set",
+      "file": "missing/W/316221-witchspring-r-costume-silver-rose-set.json"
+    },
+    {
       "igdb_id": 363460,
       "game_name": "WitchSpring R: The Follower’s Fall",
       "file": "missing/W/363460-witchspring-r-the-follower-s-fall.json"
@@ -563438,6 +563673,11 @@
       "file": "missing/W/361878-world-of-tanks-2-0.json"
     },
     {
+      "igdb_id": 316237,
+      "game_name": "World of Tanks Blitz: Tier V Tank and Bonuses Pack!",
+      "file": "missing/W/316237-world-of-tanks-blitz-tier-v-tank-and-bonuses-pack.json"
+    },
+    {
       "igdb_id": 77961,
       "game_name": "World of Tanks Generals",
       "file": "missing/W/77961-world-of-tanks-generals.json"
@@ -564146,6 +564386,11 @@
       "igdb_id": 278663,
       "game_name": "World War: D-Day Part Two",
       "file": "missing/W/278663-world-war-d-day-part-two.json"
+    },
+    {
+      "igdb_id": 316236,
+      "game_name": "World War: Fury Wave",
+      "file": "missing/W/316236-world-war-fury-wave.json"
     },
     {
       "igdb_id": 40244,
@@ -569291,6 +569536,11 @@
       "igdb_id": 324495,
       "game_name": "Yohane the Parhelion: Costume \"Fluffy Lailaps\"",
       "file": "missing/Y/324495-yohane-the-parhelion-costume-fluffy-lailaps.json"
+    },
+    {
+      "igdb_id": 316223,
+      "game_name": "Yohane the Parhelion: Costume \"Holy Knight\"",
+      "file": "missing/Y/316223-yohane-the-parhelion-costume-holy-knight.json"
     },
     {
       "igdb_id": 315499,
