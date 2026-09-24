@@ -255,7 +255,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Illusion Starring Mickey Mouse | 8123 | [8123-land-of-illusion-starring-mickey-mouse.json](./8123-land-of-illusion-starring-mickey-mouse.json) |
 | Land of Mushrooms: Co-Op mode - Play with Friends | 324497 | [324497-land-of-mushrooms-co-op-mode-play-with-friends.json](./324497-land-of-mushrooms-co-op-mode-play-with-friends.json) |
 | Land of Mushrooms: Forest of Nightmares - Background | 324469 | [324469-land-of-mushrooms-forest-of-nightmares-background.json](./324469-land-of-mushrooms-forest-of-nightmares-background.json) |
+| Land of Mushrooms: Kawaii Animals - Skin Set | 324429 | [324429-land-of-mushrooms-kawaii-animals-skin-set.json](./324429-land-of-mushrooms-kawaii-animals-skin-set.json) |
+| Land of Mushrooms: Scary Horror Mushrooms - Skin Set | 324428 | [324428-land-of-mushrooms-scary-horror-mushrooms-skin-set.json](./324428-land-of-mushrooms-scary-horror-mushrooms-skin-set.json) |
 | Land of Mushrooms: Small Mode - Mini Mushroom Mayhem | 324488 | [324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json](./324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json) |
+| Land of Mushrooms: Sweet Classic Mushrooms - Skin Set | 324427 | [324427-land-of-mushrooms-sweet-classic-mushrooms-skin-set.json](./324427-land-of-mushrooms-sweet-classic-mushrooms-skin-set.json) |
 | Land of Mushrooms: The Front Yard - Background | 324475 | [324475-land-of-mushrooms-the-front-yard-background.json](./324475-land-of-mushrooms-the-front-yard-background.json) |
 | Land of Nod | 208439 | [208439-land-of-nod.json](./208439-land-of-nod.json) |
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
@@ -3172,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Delivery | 185632 | [185632-love-delivery.json](./185632-love-delivery.json) |
 | Love Delivery2 | 274014 | [274014-love-delivery2.json](./274014-love-delivery2.json) |
 | Love Dots | 88160 | [88160-love-dots.json](./88160-love-dots.json) |
+| Love Elysium: Secret of the Goddess - Complete + | 324455 | [324455-love-elysium-secret-of-the-goddess-complete.json](./324455-love-elysium-secret-of-the-goddess-complete.json) |
 | Love Elysium: Secret of the Goddess - Extended Edition | 315872 | [315872-love-elysium-secret-of-the-goddess-extended-edition.json](./315872-love-elysium-secret-of-the-goddess-extended-edition.json) |
 | Love Elysium: Secret of the Goddess - Special Edition | 317251 | [317251-love-elysium-secret-of-the-goddess-special-edition.json](./317251-love-elysium-secret-of-the-goddess-special-edition.json) |
 | Love Elysium: Secret of the Goddess - Ultimate Edition | 313141 | [313141-love-elysium-secret-of-the-goddess-ultimate-edition.json](./313141-love-elysium-secret-of-the-goddess-ultimate-edition.json) |
