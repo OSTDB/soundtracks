@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
 | Night Blade | 146122 | [146122-night-blade.json](./146122-night-blade.json) |
 | Night Blights | 33457 | [33457-night-blights.json](./33457-night-blights.json) |
+| Night Bound | 313828 | [313828-night-bound.json](./313828-night-bound.json) |
 | Night Bus | 294257 | [294257-night-bus.json](./294257-night-bus.json) |
 | Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
@@ -2795,7 +2796,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Munchers | 128661 | [128661-number-munchers.json](./128661-number-munchers.json) |
 | Number Munchers | 50339 | [50339-number-munchers.json](./50339-number-munchers.json) |
 | Number Munchers Tribute | 71767 | [71767-number-munchers-tribute.json](./71767-number-munchers-tribute.json) |
+| Number One Kill | 313843 | [313843-number-one-kill.json](./313843-number-one-kill.json) |
 | Number One Kill Extra | 313855 | [313855-number-one-kill-extra.json](./313855-number-one-kill-extra.json) |
+| Number One Kill The Next Generation | 313844 | [313844-number-one-kill-the-next-generation.json](./313844-number-one-kill-the-next-generation.json) |
 | Number One Rich | 158198 | [158198-number-one-rich.json](./158198-number-one-rich.json) |
 | Number Party | 223994 | [223994-number-party.json](./223994-number-party.json) |
 | Number Place Value Tutor | 108497 | [108497-number-place-value-tutor.json](./108497-number-place-value-tutor.json) |
