@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Fighter | 385714 | [385714-zero-fighter.json](./385714-zero-fighter.json) |
 | Zero Fill | 418733 | [418733-zero-fill.json](./418733-zero-fill.json) |
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
+| Zero Glide VR | 334854 | [334854-zero-glide-vr.json](./334854-zero-glide-vr.json) |
 | Zero Gravity | 229795 | [229795-zero-gravity.json](./229795-zero-gravity.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
