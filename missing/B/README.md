@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bead | 40235 | [40235-bang-bead.json](./40235-bang-bead.json) |
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
+| Bang-On Balls: Chronicles - Deluxe Edition | 288284 | [288284-bang-on-balls-chronicles-deluxe-edition.json](./288284-bang-on-balls-chronicles-deluxe-edition.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
 | BangBang PewPew | 193484 | [193484-bangbang-pewpew.json](./193484-bangbang-pewpew.json) |
@@ -5234,6 +5235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Alley | 230840 | [230840-bowling-alley.json](./230840-bowling-alley.json) |
 | Bowling at the Lake | 30190 | [30190-bowling-at-the-lake.json](./30190-bowling-at-the-lake.json) |
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
+| Bowling Fever: Deluxe Edition | 288285 | [288285-bowling-fever-deluxe-edition.json](./288285-bowling-fever-deluxe-edition.json) |
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
@@ -5768,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Force: Black Knight | 155573 | [155573-brick-force-black-knight.json](./155573-brick-force-black-knight.json) |
 | Brick Force: Navy Soldier | 155572 | [155572-brick-force-navy-soldier.json](./155572-brick-force-navy-soldier.json) |
 | Brick Game | 106202 | [106202-brick-game.json](./106202-brick-game.json) |
+| Brick Game | 288262 | [288262-brick-game.json](./288262-brick-game.json) |
 | Brick Hero Clash | 259627 | [259627-brick-hero-clash.json](./259627-brick-hero-clash.json) |
 | Brick Kick | 40757 | [40757-brick-kick.json](./40757-brick-kick.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
@@ -6272,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road Racing: Platinum Edition | 317262 | [317262-buggy-off-road-racing-platinum-edition.json](./317262-buggy-off-road-racing-platinum-edition.json) |
 | Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
 | Buggy Off-Road: Power Edition | 395675 | [395675-buggy-off-road-power-edition.json](./395675-buggy-off-road-power-edition.json) |
+| Buggy Race: Racing Master | 288308 | [288308-buggy-race-racing-master.json](./288308-buggy-race-racing-master.json) |
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
