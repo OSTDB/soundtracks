@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar After Bar | 399208 | [399208-bar-after-bar.json](./399208-bar-after-bar.json) |
 | Bar Darts Simulator | 407556 | [407556-bar-darts-simulator.json](./407556-bar-darts-simulator.json) |
 | Bar Keeper | 411559 | [411559-bar-keeper.json](./411559-bar-keeper.json) |
+| Bar Night VR | 319722 | [319722-bar-night-vr.json](./319722-bar-night-vr.json) |
 | Bar Oasis | 63803 | [63803-bar-oasis.json](./63803-bar-oasis.json) |
 | Bar Simulator | 407335 | [407335-bar-simulator.json](./407335-bar-simulator.json) |
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
@@ -1604,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleborn: Toby's Friendship Raid | 403135 | [403135-battleborn-tobys-friendship-raid.json](./403135-battleborn-tobys-friendship-raid.json) |
 | Battlebots | 200686 | [200686-battlebots.json](./200686-battlebots.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
+| BattleCards Saga | 319716 | [319716-battlecards-saga.json](./319716-battlecards-saga.json) |
 | Battlecaster | 188670 | [188670-battlecaster.json](./188670-battlecaster.json) |
 | Battlecaster 2 | 386231 | [386231-battlecaster-2.json](./386231-battlecaster-2.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
@@ -2642,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi Blocksberg: Der Magische Hexenkreis | 199069 | [199069-bibi-blocksberg-der-magische-hexenkreis.json](./199069-bibi-blocksberg-der-magische-hexenkreis.json) |
 | Bibi Blocksberg: Der verhexte Schloss-Schatz | 148498 | [148498-bibi-blocksberg-der-verhexte-schloss-schatz.json](./148498-bibi-blocksberg-der-verhexte-schloss-schatz.json) |
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
+| Bible Puzzle | 319723 | [319723-bible-puzzle.json](./319723-bible-puzzle.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
 | Bible Trivia | 77011 | [77011-bible-trivia.json](./77011-bible-trivia.json) |
 | Bible Verse Challenge | 317848 | [317848-bible-verse-challenge.json](./317848-bible-verse-challenge.json) |
@@ -3199,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
+| Bitten | 319756 | [319756-bitten.json](./319756-bitten.json) |
 | Bitten! | 146235 | [146235-bitten.json](./146235-bitten.json) |
 | Bitter | 217336 | [217336-bitter.json](./217336-bitter.json) |
 | Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
@@ -4660,7 +4664,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bon Appecheese | 352379 | [352379-bon-appecheese.json](./352379-bon-appecheese.json) |
 | Bon Bon Paradise | 109481 | [109481-bon-bon-paradise.json](./109481-bon-bon-paradise.json) |
 | Bon Voyage | 415295 | [415295-bon-voyage.json](./415295-bon-voyage.json) |
+| Bonanit: A Menorcan Horror Story | 319753 | [319753-bonanit-a-menorcan-horror-story.json](./319753-bonanit-a-menorcan-horror-story.json) |
 | Bonanza Burger | 288779 | [288779-bonanza-burger.json](./288779-bonanza-burger.json) |
+| Bonaparte: A Mechanized Revolution | 319762 | [319762-bonaparte-a-mechanized-revolution.json](./319762-bonaparte-a-mechanized-revolution.json) |
 | Bonbon | 74482 | [74482-bonbon.json](./74482-bonbon.json) |
 | Bonbonribbon: Tokimeki Coord Kirakira Dance | 222419 | [222419-bonbonribbon-tokimeki-coord-kirakira-dance.json](./222419-bonbonribbon-tokimeki-coord-kirakira-dance.json) |
 | Bond | 302388 | [302388-bond.json](./302388-bond.json) |
