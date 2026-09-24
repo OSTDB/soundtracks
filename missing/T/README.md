@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Deep Cauldron | 401024 | [401024-tavern-deep-cauldron.json](./401024-tavern-deep-cauldron.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
 | Tavern Keeper | 25929 | [25929-tavern-keeper.json](./25929-tavern-keeper.json) |
+| Tavern Manager Simulator | 290509 | [290509-tavern-manager-simulator.json](./290509-tavern-manager-simulator.json) |
 | Tavern Master: Pirates Retreat | 377716 | [377716-tavern-master-pirates-retreat.json](./377716-tavern-master-pirates-retreat.json) |
 | Tavern of Empire | 248670 | [248670-tavern-of-empire.json](./248670-tavern-of-empire.json) |
 | Tavern Revisited | 308871 | [308871-tavern-revisited.json](./308871-tavern-revisited.json) |
