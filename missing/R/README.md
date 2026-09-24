@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Homeward: Open World | 127312 | [127312-road-homeward-open-world.json](./127312-road-homeward-open-world.json) |
 | Road Madness | 33140 | [33140-road-madness.json](./33140-road-madness.json) |
 | Road Maintenance Simulator 2: Winter Services | 315612 | [315612-road-maintenance-simulator-2-winter-services.json](./315612-road-maintenance-simulator-2-winter-services.json) |
+| Road Master 3D | 303047 | [303047-road-master-3d.json](./303047-road-master-3d.json) |
 | Road Motel Simulator | 337729 | [337729-road-motel-simulator.json](./337729-road-motel-simulator.json) |
 | Road of Danger | 41936 | [41936-road-of-danger.json](./41936-road-of-danger.json) |
 | Road of Death | 207903 | [207903-road-of-death.json](./207903-road-of-death.json) |
@@ -3294,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
+| Robert on Earth | 303044 | [303044-robert-on-earth.json](./303044-robert-on-earth.json) |
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
 | Robert: Space Stories and Battles | 190064 | [190064-robert-space-stories-and-battles.json](./190064-robert-space-stories-and-battles.json) |
 | Robes | 176343 | [176343-robes.json](./176343-robes.json) |
@@ -3562,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Game of the Year Edition | 282134 | [282134-rocket-league-game-of-the-year-edition.json](./282134-rocket-league-game-of-the-year-edition.json) |
 | Rocket League: Hot Wheels Triple Threat | 156174 | [156174-rocket-league-hot-wheels-triple-threat.json](./156174-rocket-league-hot-wheels-triple-threat.json) |
 | Rocket League: Painted Power Bundle | 326040 | [326040-rocket-league-painted-power-bundle.json](./326040-rocket-league-painted-power-bundle.json) |
+| Rocket League: PlayStation Plus Pack | 303035 | [303035-rocket-league-playstation-plus-pack.json](./303035-rocket-league-playstation-plus-pack.json) |
 | Rocket League: Revenge of the Battle-Cars | 202826 | [202826-rocket-league-revenge-of-the-battle-cars.json](./202826-rocket-league-revenge-of-the-battle-cars.json) |
 | Rocket League: Season 1 | 202392 | [202392-rocket-league-season-1.json](./202392-rocket-league-season-1.json) |
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
@@ -3837,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roka Blocks Game - Fun & Hexagon Puzzle | 57690 | [57690-roka-blocks-game-fun-and-hexagon-puzzle.json](./57690-roka-blocks-game-fun-and-hexagon-puzzle.json) |
 | Rokko Chan | 93510 | [93510-rokko-chan.json](./93510-rokko-chan.json) |
 | Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
+| Roku and Rei | 303007 | [303007-roku-and-rei.json](./303007-roku-and-rei.json) |
 | Rokumon Tengai Mon Colle Knight GB | 282584 | [282584-rokumon-tengai-mon-colle-knight-gb.json](./282584-rokumon-tengai-mon-colle-knight-gb.json) |
 | Rol Crusaders | 94556 | [94556-rol-crusaders.json](./94556-rol-crusaders.json) |
 | Rolaball | 94693 | [94693-rolaball.json](./94693-rolaball.json) |
@@ -3912,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Gunner Over Power | 142846 | [142846-rolling-gunner-over-power.json](./142846-rolling-gunner-over-power.json) |
 | Rolling Hero | 404338 | [404338-rolling-hero.json](./404338-rolling-hero.json) |
 | Rolling in the Maze | 286498 | [286498-rolling-in-the-maze.json](./286498-rolling-in-the-maze.json) |
+| Rolling Lee | 303040 | [303040-rolling-lee.json](./303040-rolling-lee.json) |
 | Rolling Macho: Tumbling to Earth | 330148 | [330148-rolling-macho-tumbling-to-earth.json](./330148-rolling-macho-tumbling-to-earth.json) |
 | Rolling Over It | 191834 | [191834-rolling-over-it.json](./191834-rolling-over-it.json) |
 | Rolling Red Ball Rush Up Sky | 104451 | [104451-rolling-red-ball-rush-up-sky.json](./104451-rolling-red-ball-rush-up-sky.json) |
