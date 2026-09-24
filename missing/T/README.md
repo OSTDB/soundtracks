@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
 | The Abbey: Director's cut | 115606 | [115606-the-abbey-directors-cut.json](./115606-the-abbey-directors-cut.json) |
 | The Abduction of Bacon at Dawn | 120356 | [120356-the-abduction-of-bacon-at-dawn.json](./120356-the-abduction-of-bacon-at-dawn.json) |
+| The Abduction of Oscar Z | 300808 | [300808-the-abduction-of-oscar-z.json](./300808-the-abduction-of-oscar-z.json) |
 | The Abominable Shitpit | 418772 | [418772-the-abominable-shitpit.json](./418772-the-abominable-shitpit.json) |
 | The Abominable Snowmen | 15586 | [15586-the-abominable-snowmen.json](./15586-the-abominable-snowmen.json) |
 | The Absence of Is | 136429 | [136429-the-absence-of-is.json](./136429-the-absence-of-is.json) |
@@ -3339,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Edibles | 273416 | [273416-the-edibles.json](./273416-the-edibles.json) |
 | The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
 | The Eerie Inn VR | 106635 | [106635-the-eerie-inn-vr.json](./106635-the-eerie-inn-vr.json) |
+| The Effective Detective | 300811 | [300811-the-effective-detective.json](./300811-the-effective-detective.json) |
 | The Egg | 354651 | [354651-the-egg.json](./354651-the-egg.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
@@ -7187,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The West | 23639 | [23639-the-west.json](./23639-the-west.json) |
 | The Western Hunter | 44210 | [44210-the-western-hunter.json](./44210-the-western-hunter.json) |
 | The Wheel of Fortune | 182396 | [182396-the-wheel-of-fortune.json](./182396-the-wheel-of-fortune.json) |
+| The Whims of the Gods | 300785 | [300785-the-whims-of-the-gods.json](./300785-the-whims-of-the-gods.json) |
 | The Whisker Watch | 368049 | [368049-the-whisker-watch.json](./368049-the-whisker-watch.json) |
 | The Whiskey Story | 208383 | [208383-the-whiskey-story.json](./208383-the-whiskey-story.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
@@ -7759,6 +7762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throbax TD | 35952 | [35952-throbax-td.json](./35952-throbax-td.json) |
 | Throne & Conquest: King Arthur | 414549 | [414549-throne-and-conquest-king-arthur.json](./414549-throne-and-conquest-king-arthur.json) |
 | Throne and Liberty | 117294 | [117294-throne-and-liberty.json](./117294-throne-and-liberty.json) |
+| Throne of Belial | 299851 | [299851-throne-of-belial.json](./299851-throne-of-belial.json) |
 | Throne of Bone | 207355 | [207355-throne-of-bone.json](./207355-throne-of-bone.json) |
 | Throne of Egypt | 356707 | [356707-throne-of-egypt.json](./356707-throne-of-egypt.json) |
 | Throne of Fate | 159132 | [159132-throne-of-fate.json](./159132-throne-of-fate.json) |
@@ -10174,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Guns | 16880 | [16880-tower-of-guns.json](./16880-tower-of-guns.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
+| Tower of Minak | 299842 | [299842-tower-of-minak.json](./299842-tower-of-minak.json) |
 | Tower of Modula | 340542 | [340542-tower-of-modula.json](./340542-tower-of-modula.json) |
 | Tower of Myraglen | 57381 | [57381-tower-of-myraglen.json](./57381-tower-of-myraglen.json) |
 | Tower of Nod | 313308 | [313308-tower-of-nod.json](./313308-tower-of-nod.json) |
@@ -11403,6 +11408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangulate | 226307 | [226307-triangulate.json](./226307-triangulate.json) |
 | Triangulation | 181789 | [181789-triangulation.json](./181789-triangulation.json) |
 | Triarchy | 377667 | [377667-triarchy.json](./377667-triarchy.json) |
+| TRIB3 | 300800 | [300800-trib3.json](./300800-trib3.json) |
 | Tribal Mania | 377799 | [377799-tribal-mania.json](./377799-tribal-mania.json) |
 | Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
@@ -12188,6 +12194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Syndrome: Kinjirareta Toshi Densetsu | 128360 | [128360-twilight-syndrome-kinjirareta-toshi-densetsu.json](./128360-twilight-syndrome-kinjirareta-toshi-densetsu.json) |
 | Twilight Tales: Hollow's Store | 337195 | [337195-twilight-tales-hollows-store.json](./337195-twilight-tales-hollows-store.json) |
 | Twilight Towers | 370336 | [370336-twilight-towers.json](./370336-twilight-towers.json) |
+| Twilight Town | 299856 | [299856-twilight-town.json](./299856-twilight-town.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
