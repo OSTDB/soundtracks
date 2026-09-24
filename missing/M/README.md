@@ -3075,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melodyssey | 204510 | [204510-melodyssey.json](./204510-melodyssey.json) |
 | Melon | 314248 | [314248-melon.json](./314248-melon.json) |
 | Melon Bounce | 366250 | [366250-melon-bounce.json](./366250-melon-bounce.json) |
+| Melon Clicker | 330261 | [330261-melon-clicker.json](./330261-melon-clicker.json) |
 | Melon Dusk | 196238 | [196238-melon-dusk.json](./196238-melon-dusk.json) |
 | Melon Journey Pocket | 244794 | [244794-melon-journey-pocket.json](./244794-melon-journey-pocket.json) |
 | Melon Madness | 288765 | [288765-melon-madness.json](./288765-melon-madness.json) |
@@ -4906,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Mars | 263479 | [263479-mission-mars.json](./263479-mission-mars.json) |
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
 | Mission Omega | 31183 | [31183-mission-omega.json](./31183-mission-omega.json) |
+| Mission Pom-Bär: The Snack'N Run Game | 330359 | [330359-mission-pom-bar-the-snackn-run-game.json](./330359-mission-pom-bar-the-snackn-run-game.json) |
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
 | Mission to Earth | 388212 | [388212-mission-to-earth.json](./388212-mission-to-earth.json) |
