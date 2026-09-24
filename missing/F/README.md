@@ -3099,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowpaper | 68922 | [68922-flowpaper.json](./68922-flowpaper.json) |
 | Flowstone Saga | 152329 | [152329-flowstone-saga.json](./152329-flowstone-saga.json) |
 | Flowtris | 364726 | [364726-flowtris.json](./364726-flowtris.json) |
+| Floyd Factory Jam | 319704 | [319704-floyd-factory-jam.json](./319704-floyd-factory-jam.json) |
 | Floyd of the Jungle | 24987 | [24987-floyd-of-the-jungle.json](./24987-floyd-of-the-jungle.json) |
 | FLS | 127755 | [127755-fls.json](./127755-fls.json) |
 | Flub Fighter | 31218 | [31218-flub-fighter.json](./31218-flub-fighter.json) |
