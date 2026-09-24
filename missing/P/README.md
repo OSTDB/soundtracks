@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon Pioneers 2: Isle of Magicians | 322742 | [322742-paragon-pioneers-2-isle-of-magicians.json](./322742-paragon-pioneers-2-isle-of-magicians.json) |
 | Paragon Pioneers 2: Turn the Orc Table | 310050 | [310050-paragon-pioneers-2-turn-the-orc-table.json](./310050-paragon-pioneers-2-turn-the-orc-table.json) |
 | Paragon Sex A Doll | 356065 | [356065-paragon-sex-a-doll.json](./356065-paragon-sex-a-doll.json) |
+| Parahcuy | 321493 | [321493-parahcuy.json](./321493-parahcuy.json) |
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
 | Parallax | 28847 | [28847-parallax.json](./28847-parallax.json) |
