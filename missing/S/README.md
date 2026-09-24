@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Citadel | 15290 | [15290-sacred-citadel.json](./15290-sacred-citadel.json) |
 | Sacred Dark | 327383 | [327383-sacred-dark.json](./327383-sacred-dark.json) |
 | Sacred Earth: Promise | 109766 | [109766-sacred-earth-promise.json](./109766-sacred-earth-promise.json) |
+| Sacred Earth: Reverie | 301360 | [301360-sacred-earth-reverie.json](./301360-sacred-earth-reverie.json) |
 | Sacred Fire | 26559 | [26559-sacred-fire.json](./26559-sacred-fire.json) |
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
 | Sacred Line | 60524 | [60524-sacred-line.json](./60524-sacred-line.json) |
@@ -1766,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 724 | 76967 | [76967-sector-724.json](./76967-sector-724.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
+| Sector Alpha | 301339 | [301339-sector-alpha.json](./301339-sector-alpha.json) |
 | Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
 | Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
@@ -2163,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Experiments Lain | 76448 | [76448-serial-experiments-lain.json](./76448-serial-experiments-lain.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
 | Serial Lover | 133207 | [133207-serial-lover.json](./133207-serial-lover.json) |
+| Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
 | Serious Sam | 291050 | [291050-serious-sam.json](./291050-serious-sam.json) |
@@ -3859,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
 | Signs of the Sojourner | 118603 | [118603-signs-of-the-sojourner.json](./118603-signs-of-the-sojourner.json) |
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
+| Signy & Mino: Against All Gods | 301340 | [301340-signy-and-mino-against-all-gods.json](./301340-signy-and-mino-against-all-gods.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
@@ -4722,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybase | 294267 | [294267-skybase.json](./294267-skybase.json) |
 | Skybase: Space Station Simulator | 208952 | [208952-skybase-space-station-simulator.json](./208952-skybase-space-station-simulator.json) |
 | Skyblivion | 301423 | [301423-skyblivion.json](./301423-skyblivion.json) |
+| Skyblock Chaos | 301347 | [301347-skyblock-chaos.json](./301347-skyblock-chaos.json) |
 | Skyblocker | 340388 | [340388-skyblocker.json](./340388-skyblocker.json) |
 | SkyBoats | 31832 | [31832-skyboats.json](./31832-skyboats.json) |
 | Skybolt Zack | 109028 | [109028-skybolt-zack.json](./109028-skybolt-zack.json) |
@@ -5737,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy's Silly Sports Spectacular! | 48077 | [48077-snoopys-silly-sports-spectacular.json](./48077-snoopys-silly-sports-spectacular.json) |
 | Snoot Booper | 392282 | [392282-snoot-booper.json](./392282-snoot-booper.json) |
 | Snoot Game | 225989 | [225989-snoot-game.json](./225989-snoot-game.json) |
+| Snootz Math Trek | 301369 | [301369-snootz-math-trek.json](./301369-snootz-math-trek.json) |
 | Snooze Control | 416094 | [416094-snooze-control.json](./416094-snooze-control.json) |
 | Snooze or Lose | 276718 | [276718-snooze-or-lose.json](./276718-snooze-or-lose.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
@@ -5961,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccerholix | 93577 | [93577-soccerholix.json](./93577-soccerholix.json) |
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
+| Social Democracy: An Alternate History | 301376 | [301376-social-democracy-an-alternate-history.json](./301376-social-democracy-an-alternate-history.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
@@ -6409,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 2: Chaos Adventure | 333957 | [333957-sonic-2-chaos-adventure.json](./333957-sonic-2-chaos-adventure.json) |
 | Sonic 2006 | 310952 | [310952-sonic-2006.json](./310952-sonic-2006.json) |
 | Sonic 2006 2D | 352302 | [352302-sonic-2006-2d.json](./352302-sonic-2006-2d.json) |
+| Sonic 2011 | 301380 | [301380-sonic-2011.json](./301380-sonic-2011.json) |
 | Sonic 3 & Amy Rose | 201293 | [201293-sonic-3-and-amy-rose.json](./201293-sonic-3-and-amy-rose.json) |
 | Sonic 3 & Knuckles: Deluxe | 330320 | [330320-sonic-3-and-knuckles-deluxe.json](./330320-sonic-3-and-knuckles-deluxe.json) |
 | Sonic 3 & Sally Acorn | 201295 | [201295-sonic-3-and-sally-acorn.json](./201295-sonic-3-and-sally-acorn.json) |
