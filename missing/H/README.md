@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dating Stories: Brazil - Best Stories 3 | 308786 | [308786-hentai-dating-stories-brazil-best-stories-3.json](./308786-hentai-dating-stories-brazil-best-stories-3.json) |
 | Hentai Dating Stories: Brazil - Complete + | 324465 | [324465-hentai-dating-stories-brazil-complete.json](./324465-hentai-dating-stories-brazil-complete.json) |
 | Hentai Dating Stories: Brazil - Deluxe Edition | 308802 | [308802-hentai-dating-stories-brazil-deluxe-edition.json](./308802-hentai-dating-stories-brazil-deluxe-edition.json) |
+| Hentai Dating Stories: Brazil - Extended Edition | 313786 | [313786-hentai-dating-stories-brazil-extended-edition.json](./313786-hentai-dating-stories-brazil-extended-edition.json) |
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
 | Hentai Demon | 387503 | [387503-hentai-demon.json](./387503-hentai-demon.json) |
 | Hentai Demon's Lullaby | 390500 | [390500-hentai-demons-lullaby.json](./390500-hentai-demons-lullaby.json) |
@@ -1871,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf | 283177 | [283177-hentai-golf.json](./283177-hentai-golf.json) |
 | Hentai Golf: Complete + | 324468 | [324468-hentai-golf-complete.json](./324468-hentai-golf-complete.json) |
 | Hentai Golf: Deluxe Edition | 283178 | [283178-hentai-golf-deluxe-edition.json](./283178-hentai-golf-deluxe-edition.json) |
+| Hentai Golf: GOTY Edition | 313790 | [313790-hentai-golf-goty-edition.json](./313790-hentai-golf-goty-edition.json) |
 | Hentai Golf: Happy Edition | 315861 | [315861-hentai-golf-happy-edition.json](./315861-hentai-golf-happy-edition.json) |
 | Hentai Golf: Lakeside Fairways | 283271 | [283271-hentai-golf-lakeside-fairways.json](./283271-hentai-golf-lakeside-fairways.json) |
 | Hentai Golf: Platinum Edition | 308801 | [308801-hentai-golf-platinum-edition.json](./308801-hentai-golf-platinum-edition.json) |
@@ -1946,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Slash | 340451 | [340451-hentai-slash.json](./340451-hentai-slash.json) |
 | Hentai Solitaire: Complete + | 324450 | [324450-hentai-solitaire-complete.json](./324450-hentai-solitaire-complete.json) |
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
+| Hentai Solitaire: Ultimate Edition | 313785 | [313785-hentai-solitaire-ultimate-edition.json](./313785-hentai-solitaire-ultimate-edition.json) |
 | Hentai Sport | 286537 | [286537-hentai-sport.json](./286537-hentai-sport.json) |
 | Hentai Sport | 371362 | [371362-hentai-sport.json](./371362-hentai-sport.json) |
 | Hentai Stars | 261347 | [261347-hentai-stars.json](./261347-hentai-stars.json) |
@@ -3368,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Designer: House Makeover | 239035 | [239035-home-designer-house-makeover.json](./239035-home-designer-house-makeover.json) |
 | Home Designer: Living Room | 169947 | [169947-home-designer-living-room.json](./169947-home-designer-living-room.json) |
 | Home Domes | 277962 | [277962-home-domes.json](./277962-home-domes.json) |
+| Home for the Holidays | 313814 | [313814-home-for-the-holidays.json](./313814-home-for-the-holidays.json) |
 | Home From Work 2 | 213371 | [213371-home-from-work-2.json](./213371-home-from-work-2.json) |
 | Home From Work 3 | 213372 | [213372-home-from-work-3.json](./213372-home-from-work-3.json) |
 | Home Game 3 | 243397 | [243397-home-game-3.json](./243397-home-game-3.json) |
@@ -3983,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hototogisu Tairan 1553: Ryuuko Aiutsu | 85835 | [85835-hototogisu-tairan-1553-ryuuko-aiutsu.json](./85835-hototogisu-tairan-1553-ryuuko-aiutsu.json) |
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
+| Hotshot | 313805 | [313805-hotshot.json](./313805-hotshot.json) |
 | Hotshot Racing | 131888 | [131888-hotshot-racing.json](./131888-hotshot-racing.json) |
 | Hotshots | 390116 | [390116-hotshots.json](./390116-hotshots.json) |
 | Hotshots Fire Rescue | 239903 | [239903-hotshots-fire-rescue.json](./239903-hotshots-fire-rescue.json) |
@@ -4433,6 +4438,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - Legends of the Bayou | 166070 | [166070-hunt-showdown-1896-legends-of-the-bayou.json](./166070-hunt-showdown-1896-legends-of-the-bayou.json) |
 | Hunt: Showdown 1896 - Myth of the Moors | 253930 | [253930-hunt-showdown-1896-myth-of-the-moors.json](./253930-hunt-showdown-1896-myth-of-the-moors.json) |
 | Hunt: Showdown 1896 - Northern Justice | 292675 | [292675-hunt-showdown-1896-northern-justice.json](./292675-hunt-showdown-1896-northern-justice.json) |
+| Hunt: Showdown 1896 - Premium Edition | 313783 | [313783-hunt-showdown-1896-premium-edition.json](./313783-hunt-showdown-1896-premium-edition.json) |
+| Hunt: Showdown 1896 - Starter Edition | 313782 | [313782-hunt-showdown-1896-starter-edition.json](./313782-hunt-showdown-1896-starter-edition.json) |
 | Hunt: Showdown 1896 - The Revenant | 332024 | [332024-hunt-showdown-1896-the-revenant.json](./332024-hunt-showdown-1896-the-revenant.json) |
 | Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
 | Hunt: Showdown 1896 - They Came from Salem | 332026 | [332026-hunt-showdown-1896-they-came-from-salem.json](./332026-hunt-showdown-1896-they-came-from-salem.json) |
