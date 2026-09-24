@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbals | 145437 | [145437-orbals.json](./145437-orbals.json) |
 | Orbatak | 217881 | [217881-orbatak.json](./217881-orbatak.json) |
 | Orbatron | 149955 | [149955-orbatron.json](./149955-orbatron.json) |
+| Orbeats | 290995 | [290995-orbeats.json](./290995-orbeats.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
