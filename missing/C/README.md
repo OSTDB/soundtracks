@@ -3954,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
 | Co-op SNEK Online | 81722 | [81722-co-op-snek-online.json](./81722-co-op-snek-online.json) |
 | Co-Open | 146704 | [146704-co-open.json](./146704-co-open.json) |
+| Co\|incidence | 303045 | [303045-co-incidence.json](./303045-co-incidence.json) |
 | Coach Bus Driving Simulator | 308809 | [308809-coach-bus-driving-simulator.json](./308809-coach-bus-driving-simulator.json) |
 | Coach Fight | 304104 | [304104-coach-fight.json](./304104-coach-fight.json) |
 | Coach K College Basketball | 46226 | [46226-coach-k-college-basketball.json](./46226-coach-k-college-basketball.json) |
@@ -4467,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloris | 335115 | [335115-coloris.json](./335115-coloris.json) |
 | Coloristic | 134426 | [134426-coloristic.json](./134426-coloristic.json) |
 | Colorize | 380079 | [380079-colorize.json](./380079-colorize.json) |
+| Colorize ASMR | 303051 | [303051-colorize-asmr.json](./303051-colorize-asmr.json) |
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
 | Colorizing: Pleasure | 411811 | [411811-colorizing-pleasure.json](./411811-colorizing-pleasure.json) |
 | Colorizing: Satisfaction | 351225 | [351225-colorizing-satisfaction.json](./351225-colorizing-satisfaction.json) |
