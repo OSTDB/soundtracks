@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
 | Paloo Spiral | 369200 | [369200-paloo-spiral.json](./369200-paloo-spiral.json) |
+| Palpable | 301900 | [301900-palpable.json](./301900-palpable.json) |
 | Palphone-Sama: Curse Call | 189107 | [189107-palphone-sama-curse-call.json](./189107-palphone-sama-curse-call.json) |
 | Palps | 292001 | [292001-palps.json](./292001-palps.json) |
 | Palpus X: Annihilation | 327993 | [327993-palpus-x-annihilation.json](./327993-palpus-x-annihilation.json) |
@@ -3987,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Edición Reloaded | 250629 | [250629-pokemon-edicion-reloaded.json](./250629-pokemon-edicion-reloaded.json) |
 | Pokémon Edición Team Rocket | 353274 | [353274-pokemon-edicion-team-rocket.json](./353274-pokemon-edicion-team-rocket.json) |
 | Pokémon Emerald BR Deluxe | 335433 | [335433-pokemon-emerald-br-deluxe.json](./335433-pokemon-emerald-br-deluxe.json) |
+| Pokémon Emerald Cross | 301933 | [301933-pokemon-emerald-cross.json](./301933-pokemon-emerald-cross.json) |
 | Pokémon Emerald Final | 149964 | [149964-pokemon-emerald-final.json](./149964-pokemon-emerald-final.json) |
 | Pokémon Emerald Imperium | 329650 | [329650-pokemon-emerald-imperium.json](./329650-pokemon-emerald-imperium.json) |
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
@@ -6276,6 +6278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Boy | 83212 | [83212-punch-boy.json](./83212-punch-boy.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Punch Club 2: Fast Forward | 55916 | [55916-punch-club-2-fast-forward.json](./55916-punch-club-2-fast-forward.json) |
+| Punch Club 2: Iron Fist | 301931 | [301931-punch-club-2-iron-fist.json](./301931-punch-club-2-iron-fist.json) |
 | Punch Club: Deluxe Edition | 51882 | [51882-punch-club-deluxe-edition.json](./51882-punch-club-deluxe-edition.json) |
 | Punch Club: Fights | 174764 | [174764-punch-club-fights.json](./174764-punch-club-fights.json) |
 | Punch Club: The Dark Fist | 18097 | [18097-punch-club-the-dark-fist.json](./18097-punch-club-the-dark-fist.json) |
