@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Life | 396598 | [396598-racing-life.json](./396598-racing-life.json) |
 | Racing Madness | 68972 | [68972-racing-madness.json](./68972-racing-madness.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
+| Racing Megapack | 317964 | [317964-racing-megapack.json](./317964-racing-megapack.json) |
 | Racing Penguin: Slide and Fly! | 86973 | [86973-racing-penguin-slide-and-fly.json](./86973-racing-penguin-slide-and-fly.json) |
 | Racing Pitch | 70955 | [70955-racing-pitch.json](./70955-racing-pitch.json) |
 | Racing Rivals | 38904 | [38904-racing-rivals.json](./38904-racing-rivals.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Cold Blood | 222311 | [222311-resident-evil-cold-blood.json](./222311-resident-evil-cold-blood.json) |
 | Resident Evil: Deadly Silence | 20456 | [20456-resident-evil-deadly-silence.json](./20456-resident-evil-deadly-silence.json) |
 | Resident Evil: Deluxe Origins Bundle | 82423 | [82423-resident-evil-deluxe-origins-bundle.json](./82423-resident-evil-deluxe-origins-bundle.json) |
+| Resident Evil: Director's Cut | 317968 | [317968-resident-evil-directors-cut.json](./317968-resident-evil-directors-cut.json) |
 | Resident Evil: Director's Cut Dual Shock Ver. | 145007 | [145007-resident-evil-directors-cut-dual-shock-ver.json](./145007-resident-evil-directors-cut-dual-shock-ver.json) |
 | Resident Evil: During the Storm | 216349 | [216349-resident-evil-during-the-storm.json](./216349-resident-evil-during-the-storm.json) |
 | Resident Evil: Grim Beginnings | 298036 | [298036-resident-evil-grim-beginnings.json](./298036-resident-evil-grim-beginnings.json) |
@@ -2905,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Control | 269119 | [269119-riot-control.json](./269119-riot-control.json) |
 | Riot of Willy | 266807 | [266807-riot-of-willy.json](./266807-riot-of-willy.json) |
 | Riot Operator | 156120 | [156120-riot-operator.json](./156120-riot-operator.json) |
+| Riot Ride | 317987 | [317987-riot-ride.json](./317987-riot-ride.json) |
 | Riot Riders | 414548 | [414548-riot-riders.json](./414548-riot-riders.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
@@ -3688,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Empire | 75077 | [75077-rogue-empire.json](./75077-rogue-empire.json) |
 | Rogue Fable II | 181247 | [181247-rogue-fable-ii.json](./181247-rogue-fable-ii.json) |
 | Rogue Fable III | 113389 | [113389-rogue-fable-iii.json](./113389-rogue-fable-iii.json) |
+| Rogue Factory | 317996 | [317996-rogue-factory.json](./317996-rogue-factory.json) |
 | Rogue Flight | 318086 | [318086-rogue-flight.json](./318086-rogue-flight.json) |
 | Rogue Fortune | 415285 | [415285-rogue-fortune.json](./415285-rogue-fortune.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
@@ -4689,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Vs Chat | 141654 | [141654-running-vs-chat.json](./141654-running-vs-chat.json) |
 | Running Water | 173297 | [173297-running-water.json](./173297-running-water.json) |
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
+| Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
