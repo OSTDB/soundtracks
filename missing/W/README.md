@@ -3181,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldless | 214709 | [214709-worldless.json](./214709-worldless.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | WorldNeverland: Elnea Kingdom - Ancestral Garb Set: Berry | 316264 | [316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json](./316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json) |
+| WorldNeverland: Elnea Kingdom - Floral Town-Wear Set: Brown | 324423 | [324423-worldneverland-elnea-kingdom-floral-town-wear-set-brown.json](./324423-worldneverland-elnea-kingdom-floral-town-wear-set-brown.json) |
 | WorldNeverland: Elnea Kingdom - Fluffy Brown-Rabbit Suit | 324496 | [324496-worldneverland-elnea-kingdom-fluffy-brown-rabbit-suit.json](./324496-worldneverland-elnea-kingdom-fluffy-brown-rabbit-suit.json) |
 | WorldNeverland: Elnea Kingdom - Fluffy Panda Suit | 316265 | [316265-worldneverland-elnea-kingdom-fluffy-panda-suit.json](./316265-worldneverland-elnea-kingdom-fluffy-panda-suit.json) |
 | WorldNeverland: Flower Trimmed Wear Set - Sakura | 294856 | [294856-worldneverland-flower-trimmed-wear-set-sakura.json](./294856-worldneverland-flower-trimmed-wear-set-sakura.json) |
