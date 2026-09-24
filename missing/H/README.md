@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Africa | 13874 | [13874-heart-of-africa.json](./13874-heart-of-africa.json) |
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
+| Heart Of Evil: Source | 334847 | [334847-heart-of-evil-source.json](./334847-heart-of-evil-source.json) |
 | Heart of Fantasy | 404441 | [404441-heart-of-fantasy.json](./404441-heart-of-fantasy.json) |
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
 | Heart of Gold | 402263 | [402263-heart-of-gold.json](./402263-heart-of-gold.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Train Your Human | 180692 | [180692-how-to-train-your-human.json](./180692-how-to-train-your-human.json) |
 | How to Volley Ball | 170933 | [170933-how-to-volley-ball.json](./170933-how-to-volley-ball.json) |
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
+| How Was Your Day? | 334902 | [334902-how-was-your-day.json](./334902-how-was-your-day.json) |
 | How Would You Survive? | 305381 | [305381-how-would-you-survive.json](./305381-how-would-you-survive.json) |
 | How Your Package Gets Delivered | 363437 | [363437-how-your-package-gets-delivered.json](./363437-how-your-package-gets-delivered.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
