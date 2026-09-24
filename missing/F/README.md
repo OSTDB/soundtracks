@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith of Life: Survive Edition | 340052 | [340052-faith-of-life-survive-edition.json](./340052-faith-of-life-survive-edition.json) |
 | Faith of the Guardians | 65743 | [65743-faith-of-the-guardians.json](./65743-faith-of-the-guardians.json) |
 | Faith: The Unholy Trinity | 125171 | [125171-faith-the-unholy-trinity.json](./125171-faith-the-unholy-trinity.json) |
+| FaithEater | 301372 | [301372-faitheater.json](./301372-faitheater.json) |
 | Faithfall | 401662 | [401662-faithfall.json](./401662-faithfall.json) |
 | Faithful Backrooms | 212883 | [212883-faithful-backrooms.json](./212883-faithful-backrooms.json) |
 | Fake Block | 96711 | [96711-fake-block.json](./96711-fake-block.json) |
@@ -899,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
+| Farlands Journey | 301337 | [301337-farlands-journey.json](./301337-farlands-journey.json) |
 | Farlands: Tiny Harvest | 378287 | [378287-farlands-tiny-harvest.json](./378287-farlands-tiny-harvest.json) |
 | Farlight 84 | 142862 | [142862-farlight-84.json](./142862-farlight-84.json) |
 | Farm | 328533 | [328533-farm.json](./328533-farm.json) |
@@ -1261,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
 | Favillesco Episode 1: Genuflected on Io | 313853 | [313853-favillesco-episode-1-genuflected-on-io.json](./313853-favillesco-episode-1-genuflected-on-io.json) |
+| Favor | 301373 | [301373-favor.json](./301373-favor.json) |
 | Favorite Dear | 63532 | [63532-favorite-dear.json](./63532-favorite-dear.json) |
 | Favorite Dear: Enkan no Monogatari | 63530 | [63530-favorite-dear-enkan-no-monogatari.json](./63530-favorite-dear-enkan-no-monogatari.json) |
 | Favorite Dear: Junpaku no Yogensha | 63531 | [63531-favorite-dear-junpaku-no-yogensha.json](./63531-favorite-dear-junpaku-no-yogensha.json) |
@@ -3358,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Decisions | 292682 | [292682-food-decisions.json](./292682-food-decisions.json) |
 | Food Delivery Battle | 166634 | [166634-food-delivery-battle.json](./166634-food-delivery-battle.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
+| Food Devils | 301330 | [301330-food-devils.json](./301330-food-devils.json) |
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
 | Food Factory VR | 127020 | [127020-food-factory-vr.json](./127020-food-factory-vr.json) |
 | Food Fight | 12325 | [12325-food-fight.json](./12325-food-fight.json) |
