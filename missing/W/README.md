@@ -2898,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Escape | 68667 | [68667-world-escape.json](./68667-world-escape.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
+| World Fantasy: DigiWar | 336125 | [336125-world-fantasy-digiwar.json](./336125-world-fantasy-digiwar.json) |
 | World for Two | 147270 | [147270-world-for-two.json](./147270-world-for-two.json) |
 | World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
 | World Gone Sour | 6759 | [6759-world-gone-sour.json](./6759-world-gone-sour.json) |
