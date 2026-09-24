@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
 | Tank Frenzy | 288374 | [288374-tank-frenzy.json](./288374-tank-frenzy.json) |
 | Tank Fury | 233612 | [233612-tank-fury.json](./233612-tank-fury.json) |
+| Tank Game | 288263 | [288263-tank-game.json](./288263-tank-game.json) |
 | Tank Game | 343332 | [343332-tank-game.json](./343332-tank-game.json) |
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebra | 360014 | [360014-tenebra.json](./360014-tenebra.json) |
 | Tenebrarium | 408272 | [408272-tenebrarium.json](./408272-tenebrarium.json) |
 | Tenebrea | 372096 | [372096-tenebrea.json](./372096-tenebrea.json) |
+| Tenebris Lake | 288272 | [288272-tenebris-lake.json](./288272-tenebris-lake.json) |
 | Tenebrix | 403651 | [403651-tenebrix.json](./403651-tenebrix.json) |
 | Tenebrous Dungeon | 115002 | [115002-tenebrous-dungeon.json](./115002-tenebrous-dungeon.json) |
 | Tenebrum | 268458 | [268458-tenebrum.json](./268458-tenebrum.json) |
@@ -2347,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Atomy | 33124 | [33124-the-atomy.json](./33124-the-atomy.json) |
 | The Attack on Egg Harbor | 344357 | [344357-the-attack-on-egg-harbor.json](./344357-the-attack-on-egg-harbor.json) |
 | The Attendant | 181289 | [181289-the-attendant.json](./181289-the-attendant.json) |
+| The Attic | 288271 | [288271-the-attic.json](./288271-the-attic.json) |
 | The Attic: A Mystery Puzzle Game | 412363 | [412363-the-attic-a-mystery-puzzle-game.json](./412363-the-attic-a-mystery-puzzle-game.json) |
 | The Attic's a Dungeon ?! | 176431 | [176431-the-attics-a-dungeon.json](./176431-the-attics-a-dungeon.json) |
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
@@ -6419,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs Dreams: Cosmic Costume | 316238 | [316238-the-smurfs-dreams-cosmic-costume.json](./316238-the-smurfs-dreams-cosmic-costume.json) |
 | The Smurfs: Colorful Stories | 275888 | [275888-the-smurfs-colorful-stories.json](./275888-the-smurfs-colorful-stories.json) |
 | The Smurfs: Colorful Stories - Complete + | 328824 | [328824-the-smurfs-colorful-stories-complete.json](./328824-the-smurfs-colorful-stories-complete.json) |
+| The Smurfs: Colorful Stories - Deluxe Edition | 288278 | [288278-the-smurfs-colorful-stories-deluxe-edition.json](./288278-the-smurfs-colorful-stories-deluxe-edition.json) |
 | The Smurfs: Colorful Stories - Director's Cut | 328823 | [328823-the-smurfs-colorful-stories-directors-cut.json](./328823-the-smurfs-colorful-stories-directors-cut.json) |
 | The Smurfs: Colorful Stories - Extended Edition | 328790 | [328790-the-smurfs-colorful-stories-extended-edition.json](./328790-the-smurfs-colorful-stories-extended-edition.json) |
 | The Smurfs: Colorful Stories - GOTY Edition | 328791 | [328791-the-smurfs-colorful-stories-goty-edition.json](./328791-the-smurfs-colorful-stories-goty-edition.json) |
@@ -7930,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder League Online | 195169 | [195169-thunder-league-online.json](./195169-thunder-league-online.json) |
 | Thunder Rally | 99083 | [99083-thunder-rally.json](./99083-thunder-rally.json) |
+| Thunder Ray: Forgotten Duels | 288274 | [288274-thunder-ray-forgotten-duels.json](./288274-thunder-ray-forgotten-duels.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
 | Thunder Spirits | 46662 | [46662-thunder-spirits.json](./46662-thunder-spirits.json) |
 | Thunder Storm LX-3 & Road Blaster | 55870 | [55870-thunder-storm-lx-3-and-road-blaster.json](./55870-thunder-storm-lx-3-and-road-blaster.json) |
