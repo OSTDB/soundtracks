@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
 | Heka | 190098 | [190098-heka.json](./190098-heka.json) |
 | Hekaba | 363011 | [363011-hekaba.json](./363011-hekaba.json) |
+| Hela: Of Mice & Magic | 314449 | [314449-hela-of-mice-and-magic.json](./314449-hela-of-mice-and-magic.json) |
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Helbreath | 307147 | [307147-helbreath.json](./307147-helbreath.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
@@ -3575,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooligan Vasja: Halloween | 41899 | [41899-hooligan-vasja-halloween.json](./41899-hooligan-vasja-halloween.json) |
 | Hooligans: Storm Over Europe | 73846 | [73846-hooligans-storm-over-europe.json](./73846-hooligans-storm-over-europe.json) |
 | Hools: Football Club Territory | 81353 | [81353-hools-football-club-territory.json](./81353-hools-football-club-territory.json) |
+| Hoomanz! | 314446 | [314446-hoomanz.json](./314446-hoomanz.json) |
 | Hoonigans | 314653 | [314653-hoonigans.json](./314653-hoonigans.json) |
 | HoooPizza | 317852 | [317852-hooopizza.json](./317852-hooopizza.json) |
 | Hoop | 193886 | [193886-hoop.json](./193886-hoop.json) |
@@ -3793,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horses of Gavarnie | 387653 | [387653-horses-of-gavarnie.json](./387653-horses-of-gavarnie.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
+| Horsle | 314416 | [314416-horsle.json](./314416-horsle.json) |
 | Horticular: Complete Edition | 395680 | [395680-horticular-complete-edition.json](./395680-horticular-complete-edition.json) |
 | Horticular: Frozen Frontier | 395687 | [395687-horticular-frozen-frontier.json](./395687-horticular-frozen-frontier.json) |
 | Horus Idle | 340485 | [340485-horus-idle.json](./340485-horus-idle.json) |
@@ -4242,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
 | Huànxiǎng Xiū Zhēn | 375424 | [375424-huanxiang-xiu-zhen.json](./375424-huanxiang-xiu-zhen.json) |
+| Huaxia: Warring States | 314435 | [314435-huaxia-warring-states.json](./314435-huaxia-warring-states.json) |
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
 | Huckleberry Hound in Hollywood Capers | 73530 | [73530-huckleberry-hound-in-hollywood-capers.json](./73530-huckleberry-hound-in-hollywood-capers.json) |
 | Huddam 2 Berzah | 307770 | [307770-huddam-2-berzah.json](./307770-huddam-2-berzah.json) |
