@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Neighbor | 126415 | [126415-uncle-neighbor.json](./126415-uncle-neighbor.json) |
 | Uncle Slam Vice Squad | 255723 | [255723-uncle-slam-vice-squad.json](./255723-uncle-slam-vice-squad.json) |
 | Uncle Ted | 169380 | [169380-uncle-ted.json](./169380-uncle-ted.json) |
+| Uncle Unco | 322752 | [322752-uncle-unco.json](./322752-uncle-unco.json) |
 | Uncle's Basement: The Winter House | 384058 | [384058-uncles-basement-the-winter-house.json](./384058-uncles-basement-the-winter-house.json) |
 | Uncle's Casino | 78674 | [78674-uncles-casino.json](./78674-uncles-casino.json) |
 | Uncolor for iPad | 108460 | [108460-uncolor-for-ipad.json](./108460-uncolor-for-ipad.json) |
