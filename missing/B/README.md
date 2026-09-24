@@ -3310,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Beacon: Whispers of the Stars | 352859 | [352859-black-beacon-whispers-of-the-stars.json](./352859-black-beacon-whispers-of-the-stars.json) |
 | Black Bell Tactical | 174768 | [174768-black-bell-tactical.json](./174768-black-bell-tactical.json) |
 | Black Belt | 12257 | [12257-black-belt.json](./12257-black-belt.json) |
+| Black Belt | 282625 | [282625-black-belt.json](./282625-black-belt.json) |
 | Black Belt | 29134 | [29134-black-belt.json](./29134-black-belt.json) |
 | Black Belt Challenge | 49310 | [49310-black-belt-challenge.json](./49310-black-belt-challenge.json) |
 | Black Bird | 312581 | [312581-black-bird.json](./312581-black-bird.json) |
@@ -4579,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogdanoff vs. Wojak Simulator | 182358 | [182358-bogdanoff-vs-wojak-simulator.json](./182358-bogdanoff-vs-wojak-simulator.json) |
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
 | Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
+| Boggle | 282633 | [282633-boggle.json](./282633-boggle.json) |
 | Boggle Bash | 366411 | [366411-boggle-bash.json](./366411-boggle-bash.json) |
 | Boggle With Friends | 55087 | [55087-boggle-with-friends.json](./55087-boggle-with-friends.json) |
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
@@ -5151,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncemasters: Aiming Assist | 379378 | [379378-bouncemasters-aiming-assist.json](./379378-bouncemasters-aiming-assist.json) |
 | Bouncer | 13698 | [13698-bouncer.json](./13698-bouncer.json) |
 | BounceShot | 182484 | [182484-bounceshot.json](./182484-bounceshot.json) |
+| Bouncin' Baby Bunnies | 282632 | [282632-bouncin-baby-bunnies.json](./282632-bouncin-baby-bunnies.json) |
 | Bouncing Babies | 377828 | [377828-bouncing-babies.json](./377828-bouncing-babies.json) |
 | Bouncing Babies | 46652 | [46652-bouncing-babies.json](./46652-bouncing-babies.json) |
 | Bouncing Ball | 46857 | [46857-bouncing-ball.json](./46857-bouncing-ball.json) |
