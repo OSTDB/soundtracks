@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
 | What the Chuck? | 338379 | [338379-what-the-chuck.json](./338379-what-the-chuck.json) |
 | What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
+| What the Fog | 300793 | [300793-what-the-fog.json](./300793-what-the-fog.json) |
 | What the Golf? A Hole New World | 264343 | [264343-what-the-golf-a-hole-new-world.json](./264343-what-the-golf-a-hole-new-world.json) |
 | What the Golf? It's Snowtime | 264344 | [264344-what-the-golf-its-snowtime.json](./264344-what-the-golf-its-snowtime.json) |
 | What the Golf? Sporty Sports! | 135804 | [135804-what-the-golf-sporty-sports.json](./135804-what-the-golf-sporty-sports.json) |
@@ -2341,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Stories | 329681 | [329681-witch-stories.json](./329681-witch-stories.json) |
 | Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
 | Witch War 1 | 352384 | [352384-witch-war-1.json](./352384-witch-war-1.json) |
+| Witch Wrath | 299861 | [299861-witch-wrath.json](./299861-witch-wrath.json) |
 | Witch You Want | 318407 | [318407-witch-you-want.json](./318407-witch-you-want.json) |
 | Witch Zoe: Hentai Shuffle | 367969 | [367969-witch-zoe-hentai-shuffle.json](./367969-witch-zoe-hentai-shuffle.json) |
 | Witch: A Special Delivery | 178071 | [178071-witch-a-special-delivery.json](./178071-witch-a-special-delivery.json) |
@@ -3364,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 5: WRC - eSports Pack 2 | 168740 | [168740-wrc-5-wrc-esports-pack-2.json](./168740-wrc-5-wrc-esports-pack-2.json) |
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
+| Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
 | Wrecked | 391312 | [391312-wrecked.json](./391312-wrecked.json) |
 | Wrecked Crash Simulator | 114965 | [114965-wrecked-crash-simulator.json](./114965-wrecked-crash-simulator.json) |
