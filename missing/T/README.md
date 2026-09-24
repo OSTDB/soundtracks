@@ -1706,7 +1706,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
+| Terraformers: Deluxe Bundle | 331493 | [331493-terraformers-deluxe-bundle.json](./331493-terraformers-deluxe-bundle.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
+| Terraformers: Megastructures Bundle | 331492 | [331492-terraformers-megastructures-bundle.json](./331492-terraformers-megastructures-bundle.json) |
 | Terraformers: New Frontiers Bundle | 293763 | [293763-terraformers-new-frontiers-bundle.json](./293763-terraformers-new-frontiers-bundle.json) |
 | Terraformers: Supporter Edition | 271471 | [271471-terraformers-supporter-edition.json](./271471-terraformers-supporter-edition.json) |
 | Terraforming Mars | 86558 | [86558-terraforming-mars.json](./86558-terraforming-mars.json) |
@@ -3413,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exorcist: Legion VR - Chapter 2: Idle Hands | 168817 | [168817-the-exorcist-legion-vr-chapter-2-idle-hands.json](./168817-the-exorcist-legion-vr-chapter-2-idle-hands.json) |
 | The Exorcist: Legion VR - Chapter 4: Samaritan | 168818 | [168818-the-exorcist-legion-vr-chapter-4-samaritan.json](./168818-the-exorcist-legion-vr-chapter-4-samaritan.json) |
 | The Exorcist: Legion VR - Chapter 5: The Tomb | 168819 | [168819-the-exorcist-legion-vr-chapter-5-the-tomb.json](./168819-the-exorcist-legion-vr-chapter-5-the-tomb.json) |
+| The Exorcist: Story of School | 331488 | [331488-the-exorcist-story-of-school.json](./331488-the-exorcist-story-of-school.json) |
 | The Exorcist's Story | 224628 | [224628-the-exorcists-story.json](./224628-the-exorcists-story.json) |
 | The Expanse: A Telltale Series | 185239 | [185239-the-expanse-a-telltale-series.json](./185239-the-expanse-a-telltale-series.json) |
 | The Expanse: Osiris Reborn | 347869 | [347869-the-expanse-osiris-reborn.json](./347869-the-expanse-osiris-reborn.json) |
@@ -3449,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
 | The Fall | 9547 | [9547-the-fall.json](./9547-the-fall.json) |
+| The Fall Bundle | 331491 | [331491-the-fall-bundle.json](./331491-the-fall-bundle.json) |
 | The Fall of Balance | 192385 | [192385-the-fall-of-balance.json](./192385-the-fall-of-balance.json) |
 | The Fall of Catzahstan. | 183565 | [183565-the-fall-of-catzahstan.json](./183565-the-fall-of-catzahstan.json) |
 | The Fall of Elements | 264607 | [264607-the-fall-of-elements.json](./264607-the-fall-of-elements.json) |
@@ -7268,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Treestand & Tripod Pack | 206801 | [206801-thehunter-call-of-the-wild-treestand-and-tripod-pack.json](./206801-thehunter-call-of-the-wild-treestand-and-tripod-pack.json) |
 | TheHunter: Call of the Wild - Trophy Lodge Spring Creek Manor | 206803 | [206803-thehunter-call-of-the-wild-trophy-lodge-spring-creek-manor.json](./206803-thehunter-call-of-the-wild-trophy-lodge-spring-creek-manor.json) |
 | TheHunter: Call of the Wild - TruRACS | 206802 | [206802-thehunter-call-of-the-wild-truracs.json](./206802-thehunter-call-of-the-wild-truracs.json) |
+| TheHunter: Call of the Wild - Ultimate Hunting Bundle | 331490 | [331490-thehunter-call-of-the-wild-ultimate-hunting-bundle.json](./331490-thehunter-call-of-the-wild-ultimate-hunting-bundle.json) |
 | TheHunter: Call of the Wild - Weapon Pack 1 | 206819 | [206819-thehunter-call-of-the-wild-weapon-pack-1.json](./206819-thehunter-call-of-the-wild-weapon-pack-1.json) |
 | TheHunter: Call of the Wild - Weapon Pack 2 | 206804 | [206804-thehunter-call-of-the-wild-weapon-pack-2.json](./206804-thehunter-call-of-the-wild-weapon-pack-2.json) |
 | TheHunter: Call of the Wild - Weapon Pack 3 | 206800 | [206800-thehunter-call-of-the-wild-weapon-pack-3.json](./206800-thehunter-call-of-the-wild-weapon-pack-3.json) |
