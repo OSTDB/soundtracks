@@ -3188,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melvor Idle | 141130 | [141130-melvor-idle.json](./141130-melvor-idle.json) |
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
 | Melvor Idle: Into the Abyss | 298026 | [298026-melvor-idle-into-the-abyss.json](./298026-melvor-idle-into-the-abyss.json) |
+| Memary: Memory of The Nameless One | 296476 | [296476-memary-memory-of-the-nameless-one.json](./296476-memary-memory-of-the-nameless-one.json) |
 | Memasiki | 368567 | [368567-memasiki.json](./368567-memasiki.json) |
 | Memasiki po Classice | 404875 | [404875-memasiki-po-classice.json](./404875-memasiki-po-classice.json) |
 | Membrane | 377596 | [377596-membrane.json](./377596-membrane.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner 2049er | 345479 | [345479-miner-2049er.json](./345479-miner-2049er.json) |
 | Miner 2049er | 345480 | [345480-miner-2049er.json](./345480-miner-2049er.json) |
 | Miner Clicker | 291477 | [291477-miner-clicker.json](./291477-miner-clicker.json) |
+| Miner Escape: Puzzle Adventure | 296425 | [296425-miner-escape-puzzle-adventure.json](./296425-miner-escape-puzzle-adventure.json) |
 | Miner Man | 391215 | [391215-miner-man.json](./391215-miner-man.json) |
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
@@ -7038,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder at Homecoming | 313871 | [313871-murder-at-homecoming.json](./313871-murder-at-homecoming.json) |
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
 | Murder at Midnight | 146697 | [146697-murder-at-midnight.json](./146697-murder-at-midnight.json) |
+| Murder at the Birch Tree Theater | 296477 | [296477-murder-at-the-birch-tree-theater.json](./296477-murder-at-the-birch-tree-theater.json) |
 | Murder Avenue | 292531 | [292531-murder-avenue.json](./292531-murder-avenue.json) |
 | Murder by Candlelight | 305369 | [305369-murder-by-candlelight.json](./305369-murder-by-candlelight.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
