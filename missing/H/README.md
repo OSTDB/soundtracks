@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Rats: Parasomnia | 127919 | [127919-half-rats-parasomnia.json](./127919-half-rats-parasomnia.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
+| HalfMoon Adventures | 333164 | [333164-halfmoon-adventures.json](./333164-halfmoon-adventures.json) |
 | Halfquake Trilogy | 127942 | [127942-halfquake-trilogy.json](./127942-halfquake-trilogy.json) |
 | Halftime Adventures | 373218 | [373218-halftime-adventures.json](./373218-halftime-adventures.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
@@ -3130,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holding Pattern | 389591 | [389591-holding-pattern.json](./389591-holding-pattern.json) |
 | Hole | 310931 | [310931-hole.json](./310931-hole.json) |
 | Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
+| Hole Dweller | 333200 | [333200-hole-dweller.json](./333200-hole-dweller.json) |
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
 | Hole in the Wall | 20119 | [20119-hole-in-the-wall.json](./20119-hole-in-the-wall.json) |
 | Hole io | 263553 | [263553-hole-io.json](./263553-hole-io.json) |
