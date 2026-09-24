@@ -3591,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
 | HorD: High or Die | 83590 | [83590-hord-high-or-die.json](./83590-hord-high-or-die.json) |
+| Horde Arena | 334304 | [334304-horde-arena.json](./334304-horde-arena.json) |
 | Horde Mode -Trial of the Dark Lord | 143493 | [143493-horde-mode-trial-of-the-dark-lord.json](./143493-horde-mode-trial-of-the-dark-lord.json) |
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
 | Horde Slayer | 355022 | [355022-horde-slayer.json](./355022-horde-slayer.json) |
@@ -4181,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hudson x Greeeen Live!? Deeees!? | 97682 | [97682-hudson-x-greeeen-live-deeees.json](./97682-hudson-x-greeeen-live-deeees.json) |
 | Hue | 18927 | [18927-hue.json](./18927-hue.json) |
 | Hue Hop | 311642 | [311642-hue-hop.json](./311642-hue-hop.json) |
+| Hue, Pulse | 334312 | [334312-hue-pulse.json](./334312-hue-pulse.json) |
 | Huebi's Adventure | 394339 | [394339-huebis-adventure.json](./394339-huebis-adventure.json) |
 | HueBots | 34589 | [34589-huebots.json](./34589-huebots.json) |
 | Huebrix | 68924 | [68924-huebrix.json](./68924-huebrix.json) |
