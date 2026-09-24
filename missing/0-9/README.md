@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 for Justice | 407343 | [407343-100-for-justice.json](./407343-100-for-justice.json) |
 | 100 Forest Cats | 301029 | [301029-100-forest-cats.json](./301029-100-forest-cats.json) |
 | 100 Funny Cats | 291200 | [291200-100-funny-cats.json](./291200-100-funny-cats.json) |
+| 100 Funny Cats: Extra Content | 294245 | [294245-100-funny-cats-extra-content.json](./294245-100-funny-cats-extra-content.json) |
 | 100 Goldmine Cats | 382336 | [382336-100-goldmine-cats.json](./382336-100-goldmine-cats.json) |
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
 | 100 Halloweens | 265726 | [265726-100-halloweens.json](./265726-100-halloweens.json) |
@@ -210,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Istanbul Cats | 288727 | [288727-100-istanbul-cats.json](./288727-100-istanbul-cats.json) |
 | 100 Italy Cats | 315290 | [315290-100-italy-cats.json](./315290-100-italy-cats.json) |
 | 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
+| 100 Kills Challenge: Origins | 294244 | [294244-100-kills-challenge-origins.json](./294244-100-kills-challenge-origins.json) |
 | 100 Logic Games: Time Killers | 232531 | [232531-100-logic-games-time-killers.json](./232531-100-logic-games-time-killers.json) |
 | 100 London Cats | 282722 | [282722-100-london-cats.json](./282722-100-london-cats.json) |
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
@@ -635,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Pack | 86016 | [86016-3-pack.json](./86016-3-pack.json) |
 | 3 Seasons | 221208 | [221208-3-seasons.json](./221208-3-seasons.json) |
 | 3 Sheep Puzzle | 399851 | [399851-3-sheep-puzzle.json](./399851-3-sheep-puzzle.json) |
+| 3 Shots Left | 294243 | [294243-3-shots-left.json](./294243-3-shots-left.json) |
 | 3 Stars of Destiny | 9933 | [9933-3-stars-of-destiny.json](./9933-3-stars-of-destiny.json) |
 | 3 Tiles: Tile Matching Games | 331356 | [331356-3-tiles-tile-matching-games.json](./331356-3-tiles-tile-matching-games.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
@@ -893,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6-7 | 386391 | [386391-6-7.json](./386391-6-7.json) |
 | 6-gatsu no Kimi to Boku | 412403 | [412403-6-gatsu-no-kimi-to-boku.json](./412403-6-gatsu-no-kimi-to-boku.json) |
 | 6-in-1 IQ Scale Bundle: Lost Starships | 166212 | [166212-6-in-1-iq-scale-bundle-lost-starships.json](./166212-6-in-1-iq-scale-bundle-lost-starships.json) |
+| 6-nen 1-gumi | 294246 | [294246-6-nen-1-gumi.json](./294246-6-nen-1-gumi.json) |
 | 6-Pak | 86067 | [86067-6-pak.json](./86067-6-pak.json) |
 | 6-Sided Stories | 304668 | [304668-6-sided-stories.json](./304668-6-sided-stories.json) |
 | 60 Clicks: Read, Select, Connected Worlds | 259054 | [259054-60-clicks-read-select-connected-worlds.json](./259054-60-clicks-read-select-connected-worlds.json) |
