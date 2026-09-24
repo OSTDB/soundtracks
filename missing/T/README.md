@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
 | Tanjou Debut | 41997 | [41997-tanjou-debut.json](./41997-tanjou-debut.json) |
 | Tank | 247025 | [247025-tank.json](./247025-tank.json) |
+| Tank Arena: Total Operation | 326208 | [326208-tank-arena-total-operation.json](./326208-tank-arena-total-operation.json) |
 | Tank Arkade | 24849 | [24849-tank-arkade.json](./24849-tank-arkade.json) |
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
 | Tank Army: Fast Fingers Shmup | 175366 | [175366-tank-army-fast-fingers-shmup.json](./175366-tank-army-fast-fingers-shmup.json) |
@@ -1231,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
 | Technic Beat | 24168 | [24168-technic-beat.json](./24168-technic-beat.json) |
+| Technically Frogs Can Fly | 326217 | [326217-technically-frogs-can-fly.json](./326217-technically-frogs-can-fly.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technictix | 69252 | [69252-technictix.json](./69252-technictix.json) |
 | Techno BB | 59397 | [59397-techno-bb.json](./59397-techno-bb.json) |
@@ -2372,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
 | The Batman: The Cobblebot Caper | 338352 | [338352-the-batman-the-cobblebot-caper.json](./338352-the-batman-the-cobblebot-caper.json) |
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
+| The Battle for Christmas | 326210 | [326210-the-battle-for-christmas.json](./326210-the-battle-for-christmas.json) |
 | The Battle for Sector 219 | 33184 | [33184-the-battle-for-sector-219.json](./33184-the-battle-for-sector-219.json) |
 | The Battle of Angels | 156603 | [156603-the-battle-of-angels.json](./156603-the-battle-of-angels.json) |
 | The Battle of Aurinoxia | 304368 | [304368-the-battle-of-aurinoxia.json](./304368-the-battle-of-aurinoxia.json) |
@@ -3153,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil & the Deep Blue Sea | 194434 | [194434-the-devil-and-the-deep-blue-sea.json](./194434-the-devil-and-the-deep-blue-sea.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
+| The Devil's Bride | 326215 | [326215-the-devils-bride.json](./326215-the-devils-bride.json) |
 | The Devil's Calculator | 114080 | [114080-the-devils-calculator.json](./114080-the-devils-calculator.json) |
 | The Devil's Eight | 55126 | [55126-the-devils-eight.json](./55126-the-devils-eight.json) |
 | The Devil's Garden | 105280 | [105280-the-devils-garden.json](./105280-the-devils-garden.json) |
@@ -11943,6 +11947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
 | TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
+| Twas The Night | 326207 | [326207-twas-the-night.json](./326207-twas-the-night.json) |
 | Tweet Star | 108518 | [108518-tweet-star.json](./108518-tweet-star.json) |
 | Tweety & The Magic Gems | 49346 | [49346-tweety-and-the-magic-gems.json](./49346-tweety-and-the-magic-gems.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
