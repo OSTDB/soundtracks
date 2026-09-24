@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wendy's Quest | 233594 | [233594-wendys-quest.json](./233594-wendys-quest.json) |
 | Wenjia | 110509 | [110509-wenjia.json](./110509-wenjia.json) |
 | Wénzìyù | 115626 | [115626-wenziyu.json](./115626-wenziyu.json) |
+| Wer weiß denn sowas?: Das 3. Spiel | 315657 | [315657-wer-wei-denn-sowas-das-3-spiel.json](./315657-wer-wei-denn-sowas-das-3-spiel.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
 | Werewolf Pinball | 105930 | [105930-werewolf-pinball.json](./105930-werewolf-pinball.json) |
 | Werewolf: The Apocalypse - Earthblood Champion of Gaia Pack | 149967 | [149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json](./149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json) |
@@ -3216,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Legend: Son of the Empire | 71521 | [71521-worlds-of-legend-son-of-the-empire.json](./71521-worlds-of-legend-son-of-the-empire.json) |
 | Worlds of Magic | 9336 | [9336-worlds-of-magic.json](./9336-worlds-of-magic.json) |
 | Worlds War 1 | 251649 | [251649-worlds-war-1.json](./251649-worlds-war-1.json) |
+| Worldseekers | 315630 | [315630-worldseekers.json](./315630-worldseekers.json) |
 | WorldShards | 224584 | [224584-worldshards.json](./224584-worldshards.json) |
 | Worldwide Battle Royale | 256907 | [256907-worldwide-battle-royale.json](./256907-worldwide-battle-royale.json) |
 | Worldwide Soccer | 259651 | [259651-worldwide-soccer.json](./259651-worldwide-soccer.json) |
