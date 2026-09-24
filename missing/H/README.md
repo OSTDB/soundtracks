@@ -3868,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Plinko | 357855 | [357855-horse-plinko.json](./357855-horse-plinko.json) |
 | Horse Race Starter | 76958 | [76958-horse-race-starter.json](./76958-horse-race-starter.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
+| Horse Racing Manager | 288809 | [288809-horse-racing-manager.json](./288809-horse-racing-manager.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
 | Horse Racing Manager 2020 | 233117 | [233117-horse-racing-manager-2020.json](./233117-horse-racing-manager-2020.json) |
 | Horse Riding Deluxe | 81654 | [81654-horse-riding-deluxe.json](./81654-horse-riding-deluxe.json) |
