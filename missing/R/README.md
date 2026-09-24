@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders Republic: Complete Edition | 263515 | [263515-riders-republic-complete-edition.json](./263515-riders-republic-complete-edition.json) |
 | Riders Republic: Gold Edition | 139834 | [139834-riders-republic-gold-edition.json](./139834-riders-republic-gold-edition.json) |
 | Riders Republic: Limited Edition | 139839 | [139839-riders-republic-limited-edition.json](./139839-riders-republic-limited-edition.json) |
+| Riders Republic: Season Pass | 293718 | [293718-riders-republic-season-pass.json](./293718-riders-republic-season-pass.json) |
 | Riders Republic: Skate Edition | 263516 | [263516-riders-republic-skate-edition.json](./263516-riders-republic-skate-edition.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Riders World: I Want to Jump | 200653 | [200653-riders-world-i-want-to-jump.json](./200653-riders-world-i-want-to-jump.json) |
@@ -2852,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Runner | 143013 | [143013-rift-runner.json](./143013-rift-runner.json) |
 | Rift Survivors | 373199 | [373199-rift-survivors.json](./373199-rift-survivors.json) |
 | Rift Walker | 256905 | [256905-rift-walker.json](./256905-rift-walker.json) |
+| Rift Walker | 293677 | [293677-rift-walker.json](./293677-rift-walker.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
 | Rift: Nightmare Tide | 19322 | [19322-rift-nightmare-tide.json](./19322-rift-nightmare-tide.json) |
