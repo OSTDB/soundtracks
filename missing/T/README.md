@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game We All Have to Play | 129011 | [129011-the-game-we-all-have-to-play.json](./129011-the-game-we-all-have-to-play.json) |
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
 | The Games '92: España | 96508 | [96508-the-games-92-espana.json](./96508-the-games-92-espana.json) |
+| The Gang | 284446 | [284446-the-gang.json](./284446-the-gang.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
 | The Gap: Limited Edition | 292149 | [292149-the-gap-limited-edition.json](./292149-the-gap-limited-edition.json) |
@@ -5850,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
 | The Quiet Sleep | 72385 | [72385-the-quiet-sleep.json](./72385-the-quiet-sleep.json) |
 | The Quintessential Princesses: Fantasy, Abyss, and Magic Academy | 342720 | [342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json](./342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json) |
+| The Quintessential Quintuplets: Gotopazu Story | 284393 | [284393-the-quintessential-quintuplets-gotopazu-story.json](./284393-the-quintessential-quintuplets-gotopazu-story.json) |
 | The Quintessential Quintuplets: Gotopazu Story 2nd | 299466 | [299466-the-quintessential-quintuplets-gotopazu-story-2nd.json](./299466-the-quintessential-quintuplets-gotopazu-story-2nd.json) |
 | The Quintessential Quintuplets: Omoide VR - Itsuki | 211734 | [211734-the-quintessential-quintuplets-omoide-vr-itsuki.json](./211734-the-quintessential-quintuplets-omoide-vr-itsuki.json) |
 | The Quintessential Quintuplets: Omoide VR - Yotsuba | 243776 | [243776-the-quintessential-quintuplets-omoide-vr-yotsuba.json](./243776-the-quintessential-quintuplets-omoide-vr-yotsuba.json) |
@@ -10550,6 +10552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track My Train | 356645 | [356645-track-my-train.json](./356645-track-my-train.json) |
 | Track No.9 | 339808 | [339808-track-no-9.json](./339808-track-no-9.json) |
 | Track Racing: The Holy Rosary | 275133 | [275133-track-racing-the-holy-rosary.json](./275133-track-racing-the-holy-rosary.json) |
+| Track Star | 284441 | [284441-track-star.json](./284441-track-star.json) |
 | Trackastrophe! | 333074 | [333074-trackastrophe.json](./333074-trackastrophe.json) |
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
 | Tracked: Shoot to Survive | 360773 | [360773-tracked-shoot-to-survive.json](./360773-tracked-shoot-to-survive.json) |
@@ -11363,6 +11366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
 | Travel Knight Adventure | 272904 | [272904-travel-knight-adventure.json](./272904-travel-knight-adventure.json) |
+| Travel Mosaics 11: Christmas Sleigh Ride | 284459 | [284459-travel-mosaics-11-christmas-sleigh-ride.json](./284459-travel-mosaics-11-christmas-sleigh-ride.json) |
 | Travel Mosaics 12: Majestic London | 284460 | [284460-travel-mosaics-12-majestic-london.json](./284460-travel-mosaics-12-majestic-london.json) |
 | Travel Mosaics 13: Spectacular Amsterdam | 284461 | [284461-travel-mosaics-13-spectacular-amsterdam.json](./284461-travel-mosaics-13-spectacular-amsterdam.json) |
 | Travel Mosaics 14: Perfect Stockholm | 284462 | [284462-travel-mosaics-14-perfect-stockholm.json](./284462-travel-mosaics-14-perfect-stockholm.json) |
