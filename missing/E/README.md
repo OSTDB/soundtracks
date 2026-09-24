@@ -248,7 +248,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Crush | 401114 | [401114-ecchi-crush.json](./401114-ecchi-crush.json) |
 | Ecchi Jack | 169389 | [169389-ecchi-jack.json](./169389-ecchi-jack.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
+| Ecchi Memories: Cassie & Maud | 316208 | [316208-ecchi-memories-cassie-and-maud.json](./316208-ecchi-memories-cassie-and-maud.json) |
 | Ecchi Memories: Complete Edition | 317259 | [317259-ecchi-memories-complete-edition.json](./317259-ecchi-memories-complete-edition.json) |
+| Ecchi Memories: Haruka & Sofia | 316207 | [316207-ecchi-memories-haruka-and-sofia.json](./316207-ecchi-memories-haruka-and-sofia.json) |
+| Ecchi Memories: Kayla & Ellie | 316206 | [316206-ecchi-memories-kayla-and-ellie.json](./316206-ecchi-memories-kayla-and-ellie.json) |
+| Ecchi Memories: Louise & Isadora | 316205 | [316205-ecchi-memories-louise-and-isadora.json](./316205-ecchi-memories-louise-and-isadora.json) |
+| Ecchi Memories: Onyx & Phoebe | 316204 | [316204-ecchi-memories-onyx-and-phoebe.json](./316204-ecchi-memories-onyx-and-phoebe.json) |
 | Ecchi Memory Game | 110966 | [110966-ecchi-memory-game.json](./110966-ecchi-memory-game.json) |
 | Ecchi na Seed | 97831 | [97831-ecchi-na-seed.json](./97831-ecchi-na-seed.json) |
 | Ecchi Oppai: Fantasy DLC | 324433 | [324433-ecchi-oppai-fantasy-dlc.json](./324433-ecchi-oppai-fantasy-dlc.json) |
@@ -538,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Crimson PC-8801mkIISR | 328527 | [328527-eggconsole-crimson-pc-8801mkiisr.json](./328527-eggconsole-crimson-pc-8801mkiisr.json) |
 | Eggconsole Crystal Chaser: Overlord's Orb of the Sky - Refined PC-9801 | 378794 | [378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json](./378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json) |
 | Eggconsole Dragon Slayer: The Legend of Heroes II PC-8801mkIISR | 328526 | [328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json](./328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json) |
+| Eggconsole Dragon Slayer: The Legend of Heroes PC-8801mkIISR | 316195 | [316195-eggconsole-dragon-slayer-the-legend-of-heroes-pc-8801mkiisr.json](./316195-eggconsole-dragon-slayer-the-legend-of-heroes-pc-8801mkiisr.json) |
 | Eggconsole Fray PC-9801 | 351228 | [351228-eggconsole-fray-pc-9801.json](./351228-eggconsole-fray-pc-9801.json) |
 | Eggconsole Guardic MSX | 323704 | [323704-eggconsole-guardic-msx.json](./323704-eggconsole-guardic-msx.json) |
 | Eggconsole Hydlide MSX | 315833 | [315833-eggconsole-hydlide-msx.json](./315833-eggconsole-hydlide-msx.json) |
