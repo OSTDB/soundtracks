@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Holidays: Christmas Miracle | 337270 | [337270-happy-holidays-christmas-miracle.json](./337270-happy-holidays-christmas-miracle.json) |
 | Happy Hop | 413913 | [413913-happy-hop.json](./413913-happy-hop.json) |
 | Happy Hotel | 280793 | [280793-happy-hotel.json](./280793-happy-hotel.json) |
+| Happy Hotel | 322132 | [322132-happy-hotel.json](./322132-happy-hotel.json) |
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Hunt | 165625 | [165625-happy-hunt.json](./165625-happy-hunt.json) |
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
 | Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
+| Heal The Survivors | 322130 | [322130-heal-the-survivors.json](./322130-heal-the-survivors.json) |
 | Heal Them All | 34299 | [34299-heal-them-all.json](./34299-heal-them-all.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
 | Healer Simulator | 96675 | [96675-healer-simulator.json](./96675-healer-simulator.json) |
@@ -1235,11 +1237,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
 | Hearthguard | 356677 | [356677-hearthguard.json](./356677-hearthguard.json) |
+| Hearthstone: Across the Timeways | 322150 | [322150-hearthstone-across-the-timeways.json](./322150-hearthstone-across-the-timeways.json) |
 | Hearthstone: Ashes of Outland - Trial by Felfire | 135707 | [135707-hearthstone-ashes-of-outland-trial-by-felfire.json](./135707-hearthstone-ashes-of-outland-trial-by-felfire.json) |
 | Hearthstone: Descent of Dragons | 125176 | [125176-hearthstone-descent-of-dragons.json](./125176-hearthstone-descent-of-dragons.json) |
 | Hearthstone: Descent of Dragons - Galakrond's Awakening | 135706 | [135706-hearthstone-descent-of-dragons-galakronds-awakening.json](./135706-hearthstone-descent-of-dragons-galakronds-awakening.json) |
 | Hearthstone: Forged in the Barrens | 143738 | [143738-hearthstone-forged-in-the-barrens.json](./143738-hearthstone-forged-in-the-barrens.json) |
 | Hearthstone: Fractured in Alterac Valley | 387383 | [387383-hearthstone-fractured-in-alterac-valley.json](./387383-hearthstone-fractured-in-alterac-valley.json) |
+| Hearthstone: Into the Emerald Dream | 322148 | [322148-hearthstone-into-the-emerald-dream.json](./322148-hearthstone-into-the-emerald-dream.json) |
 | Hearthstone: Knights of the Frozen Throne | 52016 | [52016-hearthstone-knights-of-the-frozen-throne.json](./52016-hearthstone-knights-of-the-frozen-throne.json) |
 | Hearthstone: Madness at the Darkmoon Faire | 387380 | [387380-hearthstone-madness-at-the-darkmoon-faire.json](./387380-hearthstone-madness-at-the-darkmoon-faire.json) |
 | Hearthstone: One Night in Karazhan | 21976 | [21976-hearthstone-one-night-in-karazhan.json](./21976-hearthstone-one-night-in-karazhan.json) |
@@ -1248,6 +1252,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Scholomance Academy | 138798 | [138798-hearthstone-scholomance-academy.json](./138798-hearthstone-scholomance-academy.json) |
 | Hearthstone: The Boomsday Project | 105125 | [105125-hearthstone-the-boomsday-project.json](./105125-hearthstone-the-boomsday-project.json) |
 | Hearthstone: The Grand Tournament | 21973 | [21973-hearthstone-the-grand-tournament.json](./21973-hearthstone-the-grand-tournament.json) |
+| Hearthstone: The Great Dark Beyond | 322147 | [322147-hearthstone-the-great-dark-beyond.json](./322147-hearthstone-the-great-dark-beyond.json) |
+| Hearthstone: The Lost City of Un'Goro | 322149 | [322149-hearthstone-the-lost-city-of-ungoro.json](./322149-hearthstone-the-lost-city-of-ungoro.json) |
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
 | Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
@@ -3281,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloParade | 276842 | [276842-holoparade.json](./276842-holoparade.json) |
 | Holopoint | 33147 | [33147-holopoint.json](./33147-holopoint.json) |
 | Holoquest | 180136 | [180136-holoquest.json](./180136-holoquest.json) |
+| HoloReality | 322160 | [322160-holoreality.json](./322160-holoreality.json) |
 | HoloRun | 361794 | [361794-holorun.json](./361794-holorun.json) |
 | Holos lisu | 279752 | [279752-holos-lisu.json](./279752-holos-lisu.json) |
 | Holosaga: Invasion of the HoloX | 298148 | [298148-holosaga-invasion-of-the-holox.json](./298148-holosaga-invasion-of-the-holox.json) |
