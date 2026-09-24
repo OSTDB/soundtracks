@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Kill Hitler: The Game | 253914 | [253914-lets-kill-hitler-the-game.json](./253914-lets-kill-hitler-the-game.json) |
 | Let's Kill Iggy! | 330843 | [330843-lets-kill-iggy.json](./330843-lets-kill-iggy.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
+| Let's Learn Japanese! Kanji Sudoku | 306440 | [306440-lets-learn-japanese-kanji-sudoku.json](./306440-lets-learn-japanese-kanji-sudoku.json) |
 | Let's Learn Korean! Hangul | 367521 | [367521-lets-learn-korean-hangul.json](./367521-lets-learn-korean-hangul.json) |
 | Let's Learn Korean! Vocabulary | 367522 | [367522-lets-learn-korean-vocabulary.json](./367522-lets-learn-korean-vocabulary.json) |
 | Let's Learn Xaad Kil | 303627 | [303627-lets-learn-xaad-kil.json](./303627-lets-learn-xaad-kil.json) |
@@ -3614,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Kingdom | 386291 | [386291-luminous-kingdom.json](./386291-luminous-kingdom.json) |
 | Luminous Plume | 140981 | [140981-luminous-plume.json](./140981-luminous-plume.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
+| Luminous Threads: A Visual Novel | 306414 | [306414-luminous-threads-a-visual-novel.json](./306414-luminous-threads-a-visual-novel.json) |
 | Lumiric Stage | 412264 | [412264-lumiric-stage.json](./412264-lumiric-stage.json) |
 | Lumiva Legacy | 265697 | [265697-lumiva-legacy.json](./265697-lumiva-legacy.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
