@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scale the Depths | 341134 | [341134-scale-the-depths.json](./341134-scale-the-depths.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scalebound | 7345 | [7345-scalebound.json](./7345-scalebound.json) |
+| Scaler | 312135 | [312135-scaler.json](./312135-scaler.json) |
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
@@ -8148,6 +8149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinning Scarecrow | 360096 | [360096-spinning-scarecrow.json](./360096-spinning-scarecrow.json) |
 | Spinning Top | 163840 | [163840-spinning-top.json](./163840-spinning-top.json) |
 | Spinnortality | 51471 | [51471-spinnortality.json](./51471-spinnortality.json) |
+| Spinny Dungeon | 312126 | [312126-spinny-dungeon.json](./312126-spinny-dungeon.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
 | Spinout Drifter | 219649 | [219649-spinout-drifter.json](./219649-spinout-drifter.json) |
@@ -11288,6 +11290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
 | Sunday Golf | 54691 | [54691-sunday-golf.json](./54691-sunday-golf.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
+| Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
 | Sunday vs. Magazine: Shuuketsu! Choujou Daikessen | 42841 | [42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json](./42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json) |
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
 | SunderBound | 374708 | [374708-sunderbound.json](./374708-sunderbound.json) |
