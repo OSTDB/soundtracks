@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idiot Brain Evolution | 368013 | [368013-idiot-brain-evolution.json](./368013-idiot-brain-evolution.json) |
 | Idiot Squad | 52247 | [52247-idiot-squad.json](./52247-idiot-squad.json) |
 | Idiot Test | 122436 | [122436-idiot-test.json](./122436-idiot-test.json) |
+| Idiotic Dots | 316742 | [316742-idiotic-dots.json](./316742-idiotic-dots.json) |
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
 | Idle Adventure | 75814 | [75814-idle-adventure.json](./75814-idle-adventure.json) |
 | Idle Animal Anatomy | 290515 | [290515-idle-animal-anatomy.json](./290515-idle-animal-anatomy.json) |
@@ -2111,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IonAxxia | 61882 | [61882-ionaxxia.json](./61882-ionaxxia.json) |
 | IonBall 2: Ionstorm | 10443 | [10443-ionball-2-ionstorm.json](./10443-ionball-2-ionstorm.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
+| Ionization | 316776 | [316776-ionization.json](./316776-ionization.json) |
 | Ionscape | 240199 | [240199-ionscape.json](./240199-ionscape.json) |
 | Ioo | 267456 | [267456-ioo.json](./267456-ioo.json) |
 | Ioretin | 349848 | [349848-ioretin.json](./349848-ioretin.json) |
