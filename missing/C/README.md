@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat of Khronos | 182356 | [182356-cat-of-khronos.json](./182356-cat-of-khronos.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
 | Cat Parents | 395178 | [395178-cat-parents.json](./395178-cat-parents.json) |
+| Cat Piano | 300778 | [300778-cat-piano.json](./300778-cat-piano.json) |
 | Cat Ping Pong | 251642 | [251642-cat-ping-pong.json](./251642-cat-ping-pong.json) |
 | Cat Pipes | 244275 | [244275-cat-pipes.json](./244275-cat-pipes.json) |
 | Cat Plus | 330190 | [330190-cat-plus.json](./330190-cat-plus.json) |
@@ -2484,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiaroscuro Imago | 377300 | [377300-chiaroscuro-imago.json](./377300-chiaroscuro-imago.json) |
 | Chiaroscuro: O Jogo | 210649 | [210649-chiaroscuro-o-jogo.json](./210649-chiaroscuro-o-jogo.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
+| Chibi Akuma's Episode 1: Invasion! | 300807 | [300807-chibi-akumas-episode-1-invasion.json](./300807-chibi-akumas-episode-1-invasion.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
 | Chibi Devi! | 222291 | [222291-chibi-devi.json](./222291-chibi-devi.json) |
 | Chibi Escape | 301285 | [301285-chibi-escape.json](./301285-chibi-escape.json) |
@@ -2696,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Style School | 358501 | [358501-chinese-style-school.json](./358501-chinese-style-school.json) |
 | Chinese Train Trip | 195190 | [195190-chinese-train-trip.json](./195190-chinese-train-trip.json) |
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
+| Chinmoku no Kantai | 299821 | [299821-chinmoku-no-kantai.json](./299821-chinmoku-no-kantai.json) |
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
 | Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
@@ -4010,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocommando | 393474 | [393474-cocommando.json](./393474-cocommando.json) |
 | Coconut | 314302 | [314302-coconut.json](./314302-coconut.json) |
 | Coconut | 314305 | [314305-coconut.json](./314305-coconut.json) |
+| Coconut Farm 3D | 300779 | [300779-coconut-farm-3d.json](./300779-coconut-farm-3d.json) |
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
 | Cocosic: On Pirates' Trail | 417696 | [417696-cocosic-on-pirates-trail.json](./417696-cocosic-on-pirates-trail.json) |
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
@@ -4126,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | COG: Back to the 80s | 192928 | [192928-cog-back-to-the-80s.json](./192928-cog-back-to-the-80s.json) |
 | Cogen: Sword of Rewind - Additional Story & Playable Character: Copen (Gunvolt Chronicles: Luminous Avenger iX 2) | 274999 | [274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json](./274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json) |
 | Cogen: Sword of Rewind: Additional Story & Playable Character - Akasha | 274997 | [274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json](./274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json) |
+| Cogito Ergo Sum | 299852 | [299852-cogito-ergo-sum.json](./299852-cogito-ergo-sum.json) |
 | Cognition Method | 211219 | [211219-cognition-method.json](./211219-cognition-method.json) |
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
 | Cognizant Protocol | 51557 | [51557-cognizant-protocol.json](./51557-cognizant-protocol.json) |
@@ -4239,6 +4244,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collective Unconscious | 301431 | [301431-collective-unconscious.json](./301431-collective-unconscious.json) |
 | Collector | 130936 | [130936-collector.json](./130936-collector.json) |
+| Collector D | 299822 | [299822-collector-d.json](./299822-collector-d.json) |
+| Collector D Bangai-hen | 299823 | [299823-collector-d-bangai-hen.json](./299823-collector-d-bangai-hen.json) |
 | Collector: 10 Lives Challenge | 370313 | [370313-collector-10-lives-challenge.json](./370313-collector-10-lives-challenge.json) |
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
 | Collector's Edition: 251 Awesome Games! | 110319 | [110319-collectors-edition-251-awesome-games.json](./110319-collectors-edition-251-awesome-games.json) |
@@ -4530,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
 | Comatose | 369778 | [369778-comatose.json](./369778-comatose.json) |
 | Combat | 131545 | [131545-combat.json](./131545-combat.json) |
+| Combat | 300791 | [300791-combat.json](./300791-combat.json) |
 | Combat 3 | 309974 | [309974-combat-3.json](./309974-combat-3.json) |
 | Combat Ace | 43260 | [43260-combat-ace.json](./43260-combat-ace.json) |
 | Combat Beans: Total Mayhem | 224670 | [224670-combat-beans-total-mayhem.json](./224670-combat-beans-total-mayhem.json) |
@@ -6134,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines VR | 111042 | [111042-crazy-machines-vr.json](./111042-crazy-machines-vr.json) |
 | Crazy Machines: Golden Gears | 16865 | [16865-crazy-machines-golden-gears.json](./16865-crazy-machines-golden-gears.json) |
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
+| Crazy Miner | 299841 | [299841-crazy-miner.json](./299841-crazy-miner.json) |
 | Crazy Mob | 61603 | [61603-crazy-mob.json](./61603-crazy-mob.json) |
 | Crazy Mom | 310550 | [310550-crazy-mom.json](./310550-crazy-mom.json) |
 | Crazy Monster Truck Smasher | 89160 | [89160-crazy-monster-truck-smasher.json](./89160-crazy-monster-truck-smasher.json) |
@@ -6291,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crewmate Rush Space Escape Runner | 414539 | [414539-crewmate-rush-space-escape-runner.json](./414539-crewmate-rush-space-escape-runner.json) |
 | Crewmember Pigeon and the Case of the Burgled Buttons | 188593 | [188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json](./188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json) |
 | Crey | 126030 | [126030-crey.json](./126030-crey.json) |
+| CRI Gokan Pack | 299824 | [299824-cri-gokan-pack.json](./299824-cri-gokan-pack.json) |
 | Criaturas de la Noche | 272011 | [272011-criaturas-de-la-noche.json](./272011-criaturas-de-la-noche.json) |
 | Cribbage | 83490 | [83490-cribbage.json](./83490-cribbage.json) |
 | Cribbage | 83492 | [83492-cribbage.json](./83492-cribbage.json) |
@@ -6347,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimes of Passion | 313795 | [313795-crimes-of-passion.json](./313795-crimes-of-passion.json) |
 | Crimes of Passion II | 313796 | [313796-crimes-of-passion-ii.json](./313796-crimes-of-passion-ii.json) |
 | Crimes of Passion: The Proposal | 313797 | [313797-crimes-of-passion-the-proposal.json](./313797-crimes-of-passion-the-proposal.json) |
+| Crimes: Open Cases | 299858 | [299858-crimes-open-cases.json](./299858-crimes-open-cases.json) |
 | Criminal Archives: Alphabetic Murders | 417708 | [417708-criminal-archives-alphabetic-murders.json](./417708-criminal-archives-alphabetic-murders.json) |
 | Criminal Archives: Alphabetic Murders - Collector's Edition | 247497 | [247497-criminal-archives-alphabetic-murders-collectors-edition.json](./247497-criminal-archives-alphabetic-murders-collectors-edition.json) |
 | Criminal Archives: Alphabetic Murders DLC | 248289 | [248289-criminal-archives-alphabetic-murders-dlc.json](./248289-criminal-archives-alphabetic-murders-dlc.json) |
