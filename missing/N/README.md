@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Little Soul | 258562 | [258562-neon-little-soul.json](./258562-neon-little-soul.json) |
 | Neon Magic: Witch Shop | 245939 | [245939-neon-magic-witch-shop.json](./245939-neon-magic-witch-shop.json) |
 | Neon Man | 234611 | [234611-neon-man.json](./234611-neon-man.json) |
+| Neon Net | 291569 | [291569-neon-net.json](./291569-neon-net.json) |
 | Neon Nexus | 301973 | [301973-neon-nexus.json](./301973-neon-nexus.json) |
 | Neon Nights | 159821 | [159821-neon-nights.json](./159821-neon-nights.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
@@ -2182,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Forgiveness | 365147 | [365147-no-forgiveness.json](./365147-no-forgiveness.json) |
 | No Fox Season | 372690 | [372690-no-fox-season.json](./372690-no-fox-season.json) |
 | No Friends | 244337 | [244337-no-friends.json](./244337-no-friends.json) |
+| No Gasoline | 291527 | [291527-no-gasoline.json](./291527-no-gasoline.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
 | No Gods of Men | 346764 | [346764-no-gods-of-men.json](./346764-no-gods-of-men.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
