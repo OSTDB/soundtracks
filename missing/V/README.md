@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus ON | 160251 | [160251-virus-on.json](./160251-virus-on.json) |
 | Virus Protocol | 211779 | [211779-virus-protocol.json](./211779-virus-protocol.json) |
 | Virus Remedium | 216858 | [216858-virus-remedium.json](./216858-virus-remedium.json) |
+| Virus Rush | 288269 | [288269-virus-rush.json](./288269-virus-rush.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
 | Virus.exe | 131409 | [131409-virus-exe.json](./131409-virus-exe.json) |
