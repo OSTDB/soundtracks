@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
 | Dioxide | 403807 | [403807-dioxide.json](./403807-dioxide.json) |
+| Dipets | 327300 | [327300-dipets.json](./327300-dipets.json) |
 | Diplomacy is Not an Option | 132334 | [132334-diplomacy-is-not-an-option.json](./132334-diplomacy-is-not-an-option.json) |
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
 | Dipod: The Foot Legacy | 146831 | [146831-dipod-the-foot-legacy.json](./146831-dipod-the-foot-legacy.json) |
@@ -4026,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Doctor Who: Worlds in Time | 66095 | [66095-doctor-who-worlds-in-time.json](./66095-doctor-who-worlds-in-time.json) |
 | Doctor Who's 50th Anniversary | 235305 | [235305-doctor-whos-50th-anniversary.json](./235305-doctor-whos-50th-anniversary.json) |
+| Dodd Goes To The Museum | 327370 | [327370-dodd-goes-to-the-museum.json](./327370-dodd-goes-to-the-museum.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
 | Dodge | 291575 | [291575-dodge.json](./291575-dodge.json) |
 | Dodge 'Em | 222892 | [222892-dodge-em.json](./222892-dodge-em.json) |
@@ -5979,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Droplet Shuffle | 61057 | [61057-droplet-shuffle.json](./61057-droplet-shuffle.json) |
+| Droplets | 327338 | [327338-droplets.json](./327338-droplets.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
 | Dropshipping Simulator | 155993 | [155993-dropshipping-simulator.json](./155993-dropshipping-simulator.json) |
