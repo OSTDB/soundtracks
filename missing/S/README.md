@@ -956,6 +956,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | Sblobber 64 | 145456 | [145456-sblobber-64.json](./145456-sblobber-64.json) |
 | SBX 5K | 132214 | [132214-sbx-5k.json](./132214-sbx-5k.json) |
+| SC Cat Games Bundle | 331511 | [331511-sc-cat-games-bundle.json](./331511-sc-cat-games-bundle.json) |
+| SC Games Triple Bundle | 331514 | [331514-sc-games-triple-bundle.json](./331514-sc-games-triple-bundle.json) |
 | SC2VN: The eSports Visual Novel | 19076 | [19076-sc2vn-the-esports-visual-novel.json](./19076-sc2vn-the-esports-visual-novel.json) |
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
 | Scaffold | 400460 | [400460-scaffold.json](./400460-scaffold.json) |
@@ -1775,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds of Chaos | 138017 | [138017-seeds-of-chaos.json](./138017-seeds-of-chaos.json) |
 | Seeds of Hope: The Last Stand | 184561 | [184561-seeds-of-hope-the-last-stand.json](./184561-seeds-of-hope-the-last-stand.json) |
 | Seeds of Love | 120204 | [120204-seeds-of-love.json](./120204-seeds-of-love.json) |
+| Seeds of Power Bundle: Weedcraft Inc & Cultist Simulator: Anthology | 331515 | [331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json](./331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json) |
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
 | Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seeing Things | 272935 | [272935-seeing-things.json](./272935-seeing-things.json) |
@@ -2518,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Tactics: Aiko's Choice - Deluxe Edition | 331844 | [331844-shadow-tactics-aikos-choice-deluxe-edition.json](./331844-shadow-tactics-aikos-choice-deluxe-edition.json) |
 | Shadow Tactics: Blades of the Shogun | 19085 | [19085-shadow-tactics-blades-of-the-shogun.json](./19085-shadow-tactics-blades-of-the-shogun.json) |
 | Shadow Tactics: Blades of the Shogun - Deluxe Edition | 331845 | [331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json](./331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json) |
+| Shadow Tactics: Blades of the Shogun - Ultimate Bundle | 331516 | [331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json](./331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json) |
 | Shadow the Plumber | 357447 | [357447-shadow-the-plumber.json](./357447-shadow-the-plumber.json) |
 | Shadow Touched | 294136 | [294136-shadow-touched.json](./294136-shadow-touched.json) |
 | Shadow Tower | 9502 | [9502-shadow-tower.json](./9502-shadow-tower.json) |
@@ -3792,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
 | Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
+| SilenGames Bundle 2024 | 331517 | [331517-silengames-bundle-2024.json](./331517-silengames-bundle-2024.json) |
 | Silent Anomalies | 337071 | [337071-silent-anomalies.json](./337071-silent-anomalies.json) |
 | Silent Authority: Blood & Bourbon | 415876 | [415876-silent-authority-blood-and-bourbon.json](./415876-silent-authority-blood-and-bourbon.json) |
 | Silent Breath | 287462 | [287462-silent-breath.json](./287462-silent-breath.json) |
@@ -5913,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobos 2 | 347350 | [347350-sokobos-2.json](./347350-sokobos-2.json) |
 | Sokobot | 189150 | [189150-sokobot.json](./189150-sokobot.json) |
 | Sokobum | 403153 | [403153-sokobum.json](./403153-sokobum.json) |
+| Sokobundle | 331518 | [331518-sokobundle.json](./331518-sokobundle.json) |
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
 | Sokocat: Castaway | 399689 | [399689-sokocat-castaway.json](./399689-sokocat-castaway.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
@@ -12251,6 +12257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Space Shooter Arena | 127204 | [127204-super-space-shooter-arena.json](./127204-super-space-shooter-arena.json) |
 | Super Space Slayer 2 | 26946 | [26946-super-space-slayer-2.json](./26946-super-space-slayer-2.json) |
 | Super Spatial | 225738 | [225738-super-spatial.json](./225738-super-spatial.json) |
+| Super Speed Ball | 331506 | [331506-super-speed-ball.json](./331506-super-speed-ball.json) |
 | Super Speed Race 64 | 136856 | [136856-super-speed-race-64.json](./136856-super-speed-race-64.json) |
 | Super Speed Race Jr. | 342139 | [342139-super-speed-race-jr.json](./342139-super-speed-race-jr.json) |
 | Super Spelling Ducks | 280341 | [280341-super-spelling-ducks.json](./280341-super-spelling-ducks.json) |
@@ -13289,6 +13296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synergy Strike | 373204 | [373204-synergy-strike.json](./373204-synergy-strike.json) |
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
 | Synesthetic | 175334 | [175334-synesthetic.json](./175334-synesthetic.json) |
+| Synnergy Games Bundle | 331474 | [331474-synnergy-games-bundle.json](./331474-synnergy-games-bundle.json) |
 | Synonym Match | 105759 | [105759-synonym-match.json](./105759-synonym-match.json) |
 | Synonymy | 35925 | [35925-synonymy.json](./35925-synonymy.json) |
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
