@@ -3602,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Puzzle | 391201 | [391201-clay-puzzle.json](./391201-clay-puzzle.json) |
 | Clay Shooter | 192981 | [192981-clay-shooter.json](./192981-clay-shooter.json) |
 | Clay Soldiers | 237520 | [237520-clay-soldiers.json](./237520-clay-soldiers.json) |
+| Clay-Scape | 301905 | [301905-clay-scape.json](./301905-clay-scape.json) |
 | Clayborn Idle | 382301 | [382301-clayborn-idle.json](./382301-clayborn-idle.json) |
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
 | ClayFighter: Tournament Edition | 42616 | [42616-clayfighter-tournament-edition.json](./42616-clayfighter-tournament-edition.json) |
@@ -4779,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complex Complex | 273924 | [273924-complex-complex.json](./273924-complex-complex.json) |
 | Complex Hero | 265626 | [265626-complex-hero.json](./265626-complex-hero.json) |
 | Complex Sky | 144097 | [144097-complex-sky.json](./144097-complex-sky.json) |
+| Complex X | 301911 | [301911-complex-x.json](./301911-complex-x.json) |
 | Complexia: A Ballet of Blades | 400486 | [400486-complexia-a-ballet-of-blades.json](./400486-complexia-a-ballet-of-blades.json) |
 | Componut | 174195 | [174195-componut.json](./174195-componut.json) |
 | Compound | 28927 | [28927-compound.json](./28927-compound.json) |
