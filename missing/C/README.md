@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
 | Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
+| Candy Factory TD | 307694 | [307694-candy-factory-td.json](./307694-candy-factory-td.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
 | Candy land | 154401 | [154401-candy-land.json](./154401-candy-land.json) |
@@ -2204,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase & Escape | 355215 | [355215-chase-and-escape.json](./355215-chase-and-escape.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
+| Chase H.Q. 2 | 307661 | [307661-chase-h-q-2.json](./307661-chase-h-q-2.json) |
 | Chase H.Q. 3D | 286677 | [286677-chase-h-q-3d.json](./286677-chase-h-q-3d.json) |
 | Chase H.Q.: Secret Police | 49898 | [49898-chase-h-q-secret-police.json](./49898-chase-h-q-secret-police.json) |
 | Chase Love in Japan | 231472 | [231472-chase-love-in-japan.json](./231472-chase-love-in-japan.json) |
