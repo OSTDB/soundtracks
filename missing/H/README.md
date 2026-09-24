@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts & Hexes | 191906 | [191906-hearts-and-hexes.json](./191906-hearts-and-hexes.json) |
 | Hearts by Webfoot | 108286 | [108286-hearts-by-webfoot.json](./108286-hearts-by-webfoot.json) |
 | Hearts Cards | 86724 | [86724-hearts-cards.json](./86724-hearts-cards.json) |
+| Hearts in Orbit: When Stars Align | 295860 | [295860-hearts-in-orbit-when-stars-align.json](./295860-hearts-in-orbit-when-stars-align.json) |
 | Hearts Lite | 91330 | [91330-hearts-lite.json](./91330-hearts-lite.json) |
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
 | Hearts of Iron II: Complete | 28993 | [28993-hearts-of-iron-ii-complete.json](./28993-hearts-of-iron-ii-complete.json) |
@@ -1574,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Yeah Simulator | 326405 | [326405-hell-yeah-simulator.json](./326405-hell-yeah-simulator.json) |
 | Hell Yeah! Pocket Inferno | 78672 | [78672-hell-yeah-pocket-inferno.json](./78672-hell-yeah-pocket-inferno.json) |
 | Hell-o | 301963 | [301963-hell-o.json](./301963-hell-o.json) |
+| Hell's Bell | 295861 | [295861-hells-bell.json](./295861-hells-bell.json) |
 | Hell's Cooking Joy | 339107 | [339107-hells-cooking-joy.json](./339107-hells-cooking-joy.json) |
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
 | Hell's Eventide | 263487 | [263487-hells-eventide.json](./263487-hells-eventide.json) |
@@ -1763,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
 | Helwyr | 148551 | [148551-helwyr.json](./148551-helwyr.json) |
+| Hemlock | 295862 | [295862-hemlock.json](./295862-hemlock.json) |
 | Hemomancer | 357413 | [357413-hemomancer.json](./357413-hemomancer.json) |
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
 | Hen, Chicks and Cats | 204428 | [204428-hen-chicks-and-cats.json](./204428-hen-chicks-and-cats.json) |
@@ -2246,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Jin Yong | 210689 | [210689-heroes-of-jin-yong.json](./210689-heroes-of-jin-yong.json) |
 | Heroes of Kalevala | 54095 | [54095-heroes-of-kalevala.json](./54095-heroes-of-kalevala.json) |
 | Heroes of Karn | 13876 | [13876-heroes-of-karn.json](./13876-heroes-of-karn.json) |
+| Heroes of Latera | 295863 | [295863-heroes-of-latera.json](./295863-heroes-of-latera.json) |
 | Heroes of Legionwood | 17078 | [17078-heroes-of-legionwood.json](./17078-heroes-of-legionwood.json) |
 | Heroes of Legionwood: Episode 2 | 171561 | [171561-heroes-of-legionwood-episode-2.json](./171561-heroes-of-legionwood-episode-2.json) |
 | Heroes of Legionwood: Episode 3 | 171562 | [171562-heroes-of-legionwood-episode-3.json](./171562-heroes-of-legionwood-episode-3.json) |
@@ -2414,6 +2418,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Exsupero Pack | 224229 | [224229-hexceed-exsupero-pack.json](./224229-hexceed-exsupero-pack.json) |
 | Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
 | Hexceed: Progressum | 202762 | [202762-hexceed-progressum.json](./202762-hexceed-progressum.json) |
+| Hexceed: Rubrum | 295865 | [295865-hexceed-rubrum.json](./295865-hexceed-rubrum.json) |
+| Hexceed: Year 4 Pass | 295864 | [295864-hexceed-year-4-pass.json](./295864-hexceed-year-4-pass.json) |
 | HexChess 360 | 92506 | [92506-hexchess-360.json](./92506-hexchess-360.json) |
 | Hexcite: The Shapes of Victory | 49925 | [49925-hexcite-the-shapes-of-victory.json](./49925-hexcite-the-shapes-of-victory.json) |
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
@@ -2428,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
 | Hexes | 147416 | [147416-hexes.json](./147416-hexes.json) |
 | Hexes | 243780 | [243780-hexes.json](./243780-hexes.json) |
+| Hexforger | 295866 | [295866-hexforger.json](./295866-hexforger.json) |
 | Hexgarden | 415118 | [415118-hexgarden.json](./415118-hexgarden.json) |
 | Hexguardian | 253372 | [253372-hexguardian.json](./253372-hexguardian.json) |
 | Hexia | 145436 | [145436-hexia.json](./145436-hexia.json) |
@@ -2680,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Raccoons | 389738 | [389738-hidden-raccoons.json](./389738-hidden-raccoons.json) |
 | Hidden Raccoons in Asia | 403185 | [403185-hidden-raccoons-in-asia.json](./403185-hidden-raccoons-in-asia.json) |
 | Hidden Raccoons in Summer | 403186 | [403186-hidden-raccoons-in-summer.json](./403186-hidden-raccoons-in-summer.json) |
+| Hidden Riddles: The Amazon Mystery | 295867 | [295867-hidden-riddles-the-amazon-mystery.json](./295867-hidden-riddles-the-amazon-mystery.json) |
 | Hidden Robo Cats | 287074 | [287074-hidden-robo-cats.json](./287074-hidden-robo-cats.json) |
 | Hidden Robo Cats: Bonus Level | 289453 | [289453-hidden-robo-cats-bonus-level.json](./289453-hidden-robo-cats-bonus-level.json) |
 | Hidden Rule | 361341 | [361341-hidden-rule.json](./361341-hidden-rule.json) |
@@ -3811,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Tale 2: Samantha | 230953 | [230953-horror-tale-2-samantha.json](./230953-horror-tale-2-samantha.json) |
 | Horror Tale 3: The Witch | 339906 | [339906-horror-tale-3-the-witch.json](./339906-horror-tale-3-the-witch.json) |
 | Horror Tales: The Beggar | 149523 | [149523-horror-tales-the-beggar.json](./149523-horror-tales-the-beggar.json) |
+| Horror Tomb | 295869 | [295869-horror-tomb.json](./295869-horror-tomb.json) |
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
 | Horror Villa | 157539 | [157539-horror-villa.json](./157539-horror-villa.json) |
 | Horror Ville Maze Escape | 119713 | [119713-horror-ville-maze-escape.json](./119713-horror-ville-maze-escape.json) |
@@ -4227,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
 | How to Survive 2: Dead Dynamite | 169929 | [169929-how-to-survive-2-dead-dynamite.json](./169929-how-to-survive-2-dead-dynamite.json) |
 | How to Survive 2: Kovac's Ultimate Edition | 53194 | [53194-how-to-survive-2-kovacs-ultimate-edition.json](./53194-how-to-survive-2-kovacs-ultimate-edition.json) |
+| How to Survive the Night shift | 295870 | [295870-how-to-survive-the-night-shift.json](./295870-how-to-survive-the-night-shift.json) |
 | How to Survive: Barricade! | 170434 | [170434-how-to-survive-barricade.json](./170434-how-to-survive-barricade.json) |
 | How to Survive: Kovac's Way | 164516 | [164516-how-to-survive-kovacs-way.json](./164516-how-to-survive-kovacs-way.json) |
 | How to Survive: Storm Warning Edition | 20311 | [20311-how-to-survive-storm-warning-edition.json](./20311-how-to-survive-storm-warning-edition.json) |
@@ -4641,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
+| Hydrogen | 295875 | [295875-hydrogen.json](./295875-hydrogen.json) |
 | Hydroneer: Journey to Volcalidus | 285576 | [285576-hydroneer-journey-to-volcalidus.json](./285576-hydroneer-journey-to-volcalidus.json) |
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
 | Hydroplane: Riptide Racers | 278549 | [278549-hydroplane-riptide-racers.json](./278549-hydroplane-riptide-racers.json) |
@@ -4758,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
 | HyperFatal | 303553 | [303553-hyperfatal.json](./303553-hyperfatal.json) |
 | HyperFeat | 152761 | [152761-hyperfeat.json](./152761-hyperfeat.json) |
+| Hyperfield | 295877 | [295877-hyperfield.json](./295877-hyperfield.json) |
 | Hyperfight 2 | 340496 | [340496-hyperfight-2.json](./340496-hyperfight-2.json) |
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
 | HyperFlight | 340497 | [340497-hyperflight.json](./340497-hyperflight.json) |
