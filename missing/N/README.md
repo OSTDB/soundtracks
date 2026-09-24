@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nantettatte Engine | 308407 | [308407-nantettatte-engine.json](./308407-nantettatte-engine.json) |
 | Nantucket: Masters of the Seven Seas | 155045 | [155045-nantucket-masters-of-the-seven-seas.json](./155045-nantucket-masters-of-the-seven-seas.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
+| Nanuka: Secret of the Shattering Moon | 298120 | [298120-nanuka-secret-of-the-shattering-moon.json](./298120-nanuka-secret-of-the-shattering-moon.json) |
 | Nao's Love Triangle: Hentai Puzzle 18+ | 312690 | [312690-naos-love-triangle-hentai-puzzle-18.json](./312690-naos-love-triangle-hentai-puzzle-18.json) |
 | Naoki | 326270 | [326270-naoki.json](./326270-naoki.json) |
 | Naoko to Hide-bou: Kanji no Tensai 1 - Bushu-hen, Bushu no Namae ga Tanoshii Chou Kioku-hou | 268486 | [268486-naoko-to-hide-bou-kanji-no-tensai-1-bushu-hen-bushu-no-namae-ga-tanoshii-chou-kioku-hou.json](./268486-naoko-to-hide-bou-kanji-no-tensai-1-bushu-hen-bushu-no-namae-ga-tanoshii-chou-kioku-hou.json) |
