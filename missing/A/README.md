@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
 | A Tale of Paper: Refolded | 213997 | [213997-a-tale-of-paper-refolded.json](./213997-a-tale-of-paper-refolded.json) |
 | A Tale of Paper: Refolded - Digital Deluxe Edition | 214055 | [214055-a-tale-of-paper-refolded-digital-deluxe-edition.json](./214055-a-tale-of-paper-refolded-digital-deluxe-edition.json) |
+| A Tale of Silent Depths | 292631 | [292631-a-tale-of-silent-depths.json](./292631-a-tale-of-silent-depths.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
 | A Tasting Flight of Names | 315625 | [315625-a-tasting-flight-of-names.json](./315625-a-tasting-flight-of-names.json) |
 | A Thief's Legacy | 52562 | [52562-a-thiefs-legacy.json](./52562-a-thiefs-legacy.json) |
@@ -5437,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrd | 173245 | [173245-astrd.json](./173245-astrd.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
 | Astria | 169971 | [169971-astria.json](./169971-astria.json) |
+| Astria | 292588 | [292588-astria.json](./292588-astria.json) |
 | Astria Ascending: Collector's Edition | 173776 | [173776-astria-ascending-collectors-edition.json](./173776-astria-ascending-collectors-edition.json) |
 | Astrid | 207304 | [207304-astrid.json](./207304-astrid.json) |
 | Astrid & the Witch | 177941 | [177941-astrid-and-the-witch.json](./177941-astrid-and-the-witch.json) |
