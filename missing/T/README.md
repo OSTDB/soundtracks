@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
 | Tekken 8: Clive Rosfield | 325597 | [325597-tekken-8-clive-rosfield.json](./325597-tekken-8-clive-rosfield.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
+| Tekken 8: Hibiscus Pack | 317357 | [317357-tekken-8-hibiscus-pack.json](./317357-tekken-8-hibiscus-pack.json) |
 | Tekken 8: Launch Edition | 283759 | [283759-tekken-8-launch-edition.json](./283759-tekken-8-launch-edition.json) |
 | Tekken 8: Miary Zo | 374185 | [374185-tekken-8-miary-zo.json](./374185-tekken-8-miary-zo.json) |
 | Tekken 8: Pac-Pixels | 374187 | [374187-tekken-8-pac-pixels.json](./374187-tekken-8-pac-pixels.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hell Provided | 396560 | [396560-the-hell-provided.json](./396560-the-hell-provided.json) |
 | The Hell That's Coming | 271849 | [271849-the-hell-thats-coming.json](./271849-the-hell-thats-coming.json) |
 | The Hell: 1923 Kanto Earthquake | 359606 | [359606-the-hell-1923-kanto-earthquake.json](./359606-the-hell-1923-kanto-earthquake.json) |
+| The Hellblade Bundle | 317402 | [317402-the-hellblade-bundle.json](./317402-the-hellblade-bundle.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
 | The Hellchemist | 240800 | [240800-the-hellchemist.json](./240800-the-hellchemist.json) |
 | The Helper | 224643 | [224643-the-helper.json](./224643-the-helper.json) |
@@ -8688,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timore | 159172 | [159172-timore.json](./159172-timore.json) |
 | Timore 6 | 111636 | [111636-timore-6.json](./111636-timore-6.json) |
+| Timore Narhelma | 317381 | [317381-timore-narhelma.json](./317381-timore-narhelma.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
 | Timothy and the Tower of Mu | 169876 | [169876-timothy-and-the-tower-of-mu.json](./169876-timothy-and-the-tower-of-mu.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
@@ -11967,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok: Rage Wars | 1327 | [1327-turok-rage-wars.json](./1327-turok-rage-wars.json) |
 | Turquoise | 389596 | [389596-turquoise.json](./389596-turquoise.json) |
 | Turret | 130200 | [130200-turret.json](./130200-turret.json) |
+| Turret Defense King | 317362 | [317362-turret-defense-king.json](./317362-turret-defense-king.json) |
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
@@ -12223,6 +12227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyler's White Lie | 339465 | [339465-tylers-white-lie.json](./339465-tylers-white-lie.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
 | Type 'n Jump | 183995 | [183995-type-n-jump.json](./183995-type-n-jump.json) |
+| Type & Hope!! | 317364 | [317364-type-and-hope.json](./317364-type-and-hope.json) |
 | Type & Tell | 41579 | [41579-type-and-tell.json](./41579-type-and-tell.json) |
 | Type da Puyo Puyo | 63839 | [63839-type-da-puyo-puyo.json](./63839-type-da-puyo-puyo.json) |
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
