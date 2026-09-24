@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Krazy Racers | 6495 | [6495-konami-krazy-racers.json](./6495-konami-krazy-racers.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
+| Konbini Baito to Stalker | 322117 | [322117-konbini-baito-to-stalker.json](./322117-konbini-baito-to-stalker.json) |
 | Konchuu Fighters | 65191 | [65191-konchuu-fighters.json](./65191-konchuu-fighters.json) |
 | Konductra | 20619 | [20619-konductra.json](./20619-konductra.json) |
 | Koneko Club | 385748 | [385748-koneko-club.json](./385748-koneko-club.json) |
