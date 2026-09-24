@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
 | Endless Apocalypse | 249246 | [249246-endless-apocalypse.json](./249246-endless-apocalypse.json) |
+| Endless Ascent | 289423 | [289423-endless-ascent.json](./289423-endless-ascent.json) |
 | Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
 | Endless Battlefield | 186317 | [186317-endless-battlefield.json](./186317-endless-battlefield.json) |
 | Endless Bounce | 414571 | [414571-endless-bounce.json](./414571-endless-bounce.json) |
@@ -1340,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
 | Endless Dungeon | 109970 | [109970-endless-dungeon.json](./109970-endless-dungeon.json) |
+| Endless Dungeon: Ichiban And Kiryu Skin Pack | 289422 | [289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json](./289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
 | Endless Evolution | 390641 | [390641-endless-evolution.json](./390641-endless-evolution.json) |
 | Endless Fables 3: Dark Moor | 105085 | [105085-endless-fables-3-dark-moor.json](./105085-endless-fables-3-dark-moor.json) |
@@ -2734,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exadimension Neptunia | 280926 | [280926-exadimension-neptunia.json](./280926-exadimension-neptunia.json) |
 | Exadimension Neptunia 2: A Chao Returns | 280927 | [280927-exadimension-neptunia-2-a-chao-returns.json](./280927-exadimension-neptunia-2-a-chao-returns.json) |
 | Exalted Seracthon | 235856 | [235856-exalted-seracthon.json](./235856-exalted-seracthon.json) |
+| ExAltered | 289412 | [289412-exaltered.json](./289412-exaltered.json) |
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
 | Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
