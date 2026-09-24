@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geppaku: Monogatari | 342664 | [342664-geppaku-monogatari.json](./342664-geppaku-monogatari.json) |
 | Geppetto | 333094 | [333094-geppetto.json](./333094-geppetto.json) |
 | Geppetto 2 | 333097 | [333097-geppetto-2.json](./333097-geppetto-2.json) |
+| Geras | 301883 | [301883-geras.json](./301883-geras.json) |
 | Gerbil Mech Program | 363908 | [363908-gerbil-mech-program.json](./363908-gerbil-mech-program.json) |
 | Gerbil Physics | 93524 | [93524-gerbil-physics.json](./93524-gerbil-physics.json) |
 | Geri's Chess | 50864 | [50864-geris-chess.json](./50864-geris-chess.json) |
@@ -1805,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global ATC Simulator | 16945 | [16945-global-atc-simulator.json](./16945-global-atc-simulator.json) |
 | Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
 | Global Elite | 298684 | [298684-global-elite.json](./298684-global-elite.json) |
+| Global Farmer | 301913 | [301913-global-farmer.json](./301913-global-farmer.json) |
 | Global Folktale | 254538 | [254538-global-folktale.json](./254538-global-folktale.json) |
 | Global Football | 402377 | [402377-global-football.json](./402377-global-football.json) |
 | Global Operations | 8744 | [8744-global-operations.json](./8744-global-operations.json) |
@@ -3578,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growth | 229675 | [229675-growth.json](./229675-growth.json) |
 | Growth | 280208 | [280208-growth.json](./280208-growth.json) |
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
+| Growth Spurt: A Meandering Intermission into the Afterhours of a Miscalculation | 301910 | [301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json](./301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json) |
 | Grr! Bearly Sane | 169891 | [169891-grr-bearly-sane.json](./169891-grr-bearly-sane.json) |
 | Gru Dash Play | 384538 | [384538-gru-dash-play.json](./384538-gru-dash-play.json) |
 | Grub Guardian | 395883 | [395883-grub-guardian.json](./395883-grub-guardian.json) |
