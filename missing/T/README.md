@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Textiling | 182904 | [182904-textiling.json](./182904-textiling.json) |
 | TextQuests | 397056 | [397056-textquests.json](./397056-textquests.json) |
 | Textris | 62713 | [62713-textris.json](./62713-textris.json) |
+| Texts from HSS | 319755 | [319755-texts-from-hss.json](./319755-texts-from-hss.json) |
 | TextTwist 2 | 92504 | [92504-texttwist-2.json](./92504-texttwist-2.json) |
 | Textures Not Found | 405524 | [405524-textures-not-found.json](./405524-textures-not-found.json) |
 | Tezcatlipoca | 350488 | [350488-tezcatlipoca.json](./350488-tezcatlipoca.json) |
@@ -3463,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faceless Killer | 312182 | [312182-the-faceless-killer.json](./312182-the-faceless-killer.json) |
 | The Faceless Man | 301996 | [301996-the-faceless-man.json](./301996-the-faceless-man.json) |
 | The Faces of Evil Remastered | 206133 | [206133-the-faces-of-evil-remastered.json](./206133-the-faces-of-evil-remastered.json) |
+| The Fading of Nicole Wilson | 319711 | [319711-the-fading-of-nicole-wilson.json](./319711-the-fading-of-nicole-wilson.json) |
 | The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
 | The Fairies' Curse | 128601 | [128601-the-fairies-curse.json](./128601-the-fairies-curse.json) |
@@ -3765,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost | 174885 | [174885-the-ghost.json](./174885-the-ghost.json) |
 | The Ghost and The Phoenix | 224585 | [224585-the-ghost-and-the-phoenix.json](./224585-the-ghost-and-the-phoenix.json) |
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
+| The Ghost of Nichishima | 319700 | [319700-the-ghost-of-nichishima.json](./319700-the-ghost-of-nichishima.json) |
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
 | The Ghost Of Solaris | 396588 | [396588-the-ghost-of-solaris.json](./396588-the-ghost-of-solaris.json) |
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
@@ -4886,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
 | The Lonely Miner | 411121 | [411121-the-lonely-miner.json](./411121-the-lonely-miner.json) |
 | The Lonesome Guild | 333042 | [333042-the-lonesome-guild.json](./333042-the-lonesome-guild.json) |
+| The Long August Longing | 319712 | [319712-the-long-august-longing.json](./319712-the-long-august-longing.json) |
 | The Long Dark: Quiet Apocalypse Edition | 401672 | [401672-the-long-dark-quiet-apocalypse-edition.json](./401672-the-long-dark-quiet-apocalypse-edition.json) |
 | The Long Desert Drive | 360047 | [360047-the-long-desert-drive.json](./360047-the-long-desert-drive.json) |
 | The Long Drift | 392303 | [392303-the-long-drift.json](./392303-the-long-drift.json) |
@@ -9324,6 +9328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Anniversary | 381690 | [381690-tomb-raider-anniversary.json](./381690-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
 | Tomb Raider: Catalyst | 381234 | [381234-tomb-raider-catalyst.json](./381234-tomb-raider-catalyst.json) |
+| Tomb Raider: Chronicles | 319750 | [319750-tomb-raider-chronicles.json](./319750-tomb-raider-chronicles.json) |
 | Tomb Raider: Definitive Edition | 19965 | [19965-tomb-raider-definitive-edition.json](./19965-tomb-raider-definitive-edition.json) |
 | Tomb Raider: Definitive Survivor Trilogy | 144771 | [144771-tomb-raider-definitive-survivor-trilogy.json](./144771-tomb-raider-definitive-survivor-trilogy.json) |
 | Tomb Raider: Game of the Year Edition | 53818 | [53818-tomb-raider-game-of-the-year-edition.json](./53818-tomb-raider-game-of-the-year-edition.json) |
@@ -9336,6 +9341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Angel of Darkness | 1159 | [1159-tomb-raider-the-angel-of-darkness.json](./1159-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness | 319751 | [319751-tomb-raider-the-angel-of-darkness.json](./319751-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
+| Tomb Raider: The Last Revelation | 319749 | [319749-tomb-raider-the-last-revelation.json](./319749-tomb-raider-the-last-revelation.json) |
 | Tomb Raider: The Prophecy | 18809 | [18809-tomb-raider-the-prophecy.json](./18809-tomb-raider-the-prophecy.json) |
 | Tomb Raider: Underworld | 146720 | [146720-tomb-raider-underworld.json](./146720-tomb-raider-underworld.json) |
 | Tomb Raider: Underworld | 371964 | [371964-tomb-raider-underworld.json](./371964-tomb-raider-underworld.json) |
@@ -11679,6 +11685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truxton II | 39662 | [39662-truxton-ii.json](./39662-truxton-ii.json) |
 | Try | 135695 | [135695-try.json](./135695-try.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
+| Try Dying | 319713 | [319713-try-dying.json](./319713-try-dying.json) |
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
