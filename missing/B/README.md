@@ -4161,6 +4161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
 | Blood: Refreshed Supply - Death Wish | 394316 | [394316-blood-refreshed-supply-death-wish.json](./394316-blood-refreshed-supply-death-wish.json) |
+| Blood+ | 286589 | [286589-blood.json](./286589-blood.json) |
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
 | Bloodball | 396427 | [396427-bloodball.json](./396427-bloodball.json) |
 | BloodBasket | 364070 | [364070-bloodbasket.json](./364070-bloodbasket.json) |
@@ -5722,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathbound | 372447 | [372447-breathbound.json](./372447-breathbound.json) |
 | Breathedge | 89326 | [89326-breathedge.json](./89326-breathedge.json) |
 | Breathedge 2 | 252870 | [252870-breathedge-2.json](./252870-breathedge-2.json) |
+| Breathedge: Cosmic Cluck | 286571 | [286571-breathedge-cosmic-cluck.json](./286571-breathedge-cosmic-cluck.json) |
 | BreathePeace.World | 111722 | [111722-breathepeace-world.json](./111722-breathepeace-world.json) |
 | Breathless | 14346 | [14346-breathless.json](./14346-breathless.json) |
 | Breathspace | 226271 | [226271-breathspace.json](./226271-breathspace.json) |
@@ -6048,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
 | BS Bokujou Monogatari | 134429 | [134429-bs-bokujou-monogatari.json](./134429-bs-bokujou-monogatari.json) |
 | BS Dragon Quest | 134416 | [134416-bs-dragon-quest.json](./134416-bs-dragon-quest.json) |
+| BS F-Zero Deluxe | 286625 | [286625-bs-f-zero-deluxe.json](./286625-bs-f-zero-deluxe.json) |
 | BS F-Zero Grand Prix 2 | 151577 | [151577-bs-f-zero-grand-prix-2.json](./151577-bs-f-zero-grand-prix-2.json) |
 | BS F-Zero Grand Prix 2: Practice | 38348 | [38348-bs-f-zero-grand-prix-2-practice.json](./38348-bs-f-zero-grand-prix-2-practice.json) |
 | BS Fire Emblem: Archanea Saga | 178586 | [178586-bs-fire-emblem-archanea-saga.json](./178586-bs-fire-emblem-archanea-saga.json) |
