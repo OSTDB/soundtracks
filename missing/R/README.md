@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
 | Reclamation | 268463 | [268463-reclamation.json](./268463-reclamation.json) |
 | Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
+| Reclaym the Kingdom | 301899 | [301899-reclaym-the-kingdom.json](./301899-reclaym-the-kingdom.json) |
 | Recognition Test 23 | 246676 | [246676-recognition-test-23.json](./246676-recognition-test-23.json) |
 | Recoil | 117276 | [117276-recoil.json](./117276-recoil.json) |
 | ReCoil | 295911 | [295911-recoil.json](./295911-recoil.json) |
@@ -2632,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riaaf the Spider | 44114 | [44114-riaaf-the-spider.json](./44114-riaaf-the-spider.json) |
 | Riana Rouge | 3713 | [3713-riana-rouge.json](./3713-riana-rouge.json) |
 | Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
+| Ribbit Channel | 301895 | [301895-ribbit-channel.json](./301895-ribbit-channel.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
 | Ribbit Rampage | 305331 | [305331-ribbit-rampage.json](./305331-ribbit-rampage.json) |
 | Ribbit Up: Frog Climber | 348989 | [348989-ribbit-up-frog-climber.json](./348989-ribbit-up-frog-climber.json) |
@@ -3671,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockstar DressUp | 104596 | [104596-rockstar-dressup.json](./104596-rockstar-dressup.json) |
 | Rockstar Games Collection: Edition 1 | 41587 | [41587-rockstar-games-collection-edition-1.json](./41587-rockstar-games-collection-edition-1.json) |
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
+| Rocktopus | 301904 | [301904-rocktopus.json](./301904-rocktopus.json) |
 | Rocky | 37175 | [37175-rocky.json](./37175-rocky.json) |
 | Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
