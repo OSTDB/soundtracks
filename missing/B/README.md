@@ -3324,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Lake | 410926 | [410926-black-lake.json](./410926-black-lake.json) |
 | Black Lamp | 11964 | [11964-black-lamp.json](./11964-black-lamp.json) |
 | Black Lazar | 187390 | [187390-black-lazar.json](./187390-black-lazar.json) |
+| Black Licorice | 307677 | [307677-black-licorice.json](./307677-black-licorice.json) |
 | Black Light Kills | 332444 | [332444-black-light-kills.json](./332444-black-light-kills.json) |
 | Black Light Wave | 329084 | [329084-black-light-wave.json](./329084-black-light-wave.json) |
 | Black Lily Inmortal | 408083 | [408083-black-lily-inmortal.json](./408083-black-lily-inmortal.json) |
