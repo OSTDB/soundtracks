@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
 | MALdle | 372107 | [372107-maldle.json](./372107-maldle.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
+| Maledictor | 296969 | [296969-maledictor.json](./296969-maledictor.json) |
 | Maledictum | 382295 | [382295-maledictum.json](./382295-maledictum.json) |
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
 | Malevolence | 115635 | [115635-malevolence.json](./115635-malevolence.json) |
@@ -1044,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man, I Love Terraria Fishing | 383611 | [383611-man-i-love-terraria-fishing.json](./383611-man-i-love-terraria-fishing.json) |
 | Man's Body: For Adults | 385312 | [385312-mans-body-for-adults.json](./385312-mans-body-for-adults.json) |
 | Mana Chess | 195148 | [195148-mana-chess.json](./195148-mana-chess.json) |
+| Mana Cycle | 296970 | [296970-mana-cycle.json](./296970-mana-cycle.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
 | Mana Khemia: Alchemists of Al-Revis | 20996 | [20996-mana-khemia-alchemists-of-al-revis.json](./20996-mana-khemia-alchemists-of-al-revis.json) |
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
@@ -1060,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
+| Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
@@ -1100,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangata | 184048 | [184048-mangata.json](./184048-mangata.json) |
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
+| Mango 64 | 296972 | [296972-mango-64.json](./296972-mango-64.json) |
 | MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
 | Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
@@ -3389,10 +3393,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowniverse | 391584 | [391584-meowniverse.json](./391584-meowniverse.json) |
 | Meowoof | 207854 | [207854-meowoof.json](./207854-meowoof.json) |
 | Meowphoria | 287205 | [287205-meowphoria.json](./287205-meowphoria.json) |
+| Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
 | Meowstery Wisp | 383067 | [383067-meowstery-wisp.json](./383067-meowstery-wisp.json) |
 | Mepekyon Racing | 416668 | [416668-mepekyon-racing.json](./416668-mepekyon-racing.json) |
 | MER Adventure Climbing | 370687 | [370687-mer-adventure-climbing.json](./370687-mer-adventure-climbing.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
+| Merauders: A Voyage of Discovery | 296981 | [296981-merauders-a-voyage-of-discovery.json](./296981-merauders-a-voyage-of-discovery.json) |
 | Merc Elite | 63276 | [63276-merc-elite.json](./63276-merc-elite.json) |
 | Merc Storia - The Healer and the Melody of the Heart | 333560 | [333560-merc-storia-the-healer-and-the-melody-of-the-heart.json](./333560-merc-storia-the-healer-and-the-melody-of-the-heart.json) |
 | Merc Tactics | 183973 | [183973-merc-tactics.json](./183973-merc-tactics.json) |
@@ -3701,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaphobia | 127907 | [127907-metaphobia.json](./127907-metaphobia.json) |
 | Metaphor: ReFantazio - Atlus Brand 35th Anniversary Edition | 344026 | [344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json](./344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json) |
 | MetaphOrder | 180680 | [180680-metaphorder.json](./180680-metaphorder.json) |
+| Metaphysical Abyss | 296979 | [296979-metaphysical-abyss.json](./296979-metaphysical-abyss.json) |
 | Metapilot | 209476 | [209476-metapilot.json](./209476-metapilot.json) |
 | Metarun | 234754 | [234754-metarun.json](./234754-metarun.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
@@ -3855,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miao and the Friendmily Journal: Miao | 183974 | [183974-miao-and-the-friendmily-journal-miao.json](./183974-miao-and-the-friendmily-journal-miao.json) |
 | Miaou Moon | 31790 | [31790-miaou-moon.json](./31790-miaou-moon.json) |
 | MiaouVSRG | 351047 | [351047-miaouvsrg.json](./351047-miaouvsrg.json) |
+| Miaow.Emma | 296977 | [296977-miaow-emma.json](./296977-miaow-emma.json) |
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
 | Miasma Caves | 95179 | [95179-miasma-caves.json](./95179-miasma-caves.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
@@ -4114,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Idle | 409565 | [409565-midnight-idle.json](./409565-midnight-idle.json) |
 | Midnight is Lost | 156689 | [156689-midnight-is-lost.json](./156689-midnight-is-lost.json) |
 | Midnight Kebab | 384504 | [384504-midnight-kebab.json](./384504-midnight-kebab.json) |
+| Midnight Lane | 296976 | [296976-midnight-lane.json](./296976-midnight-lane.json) |
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
 | Midnight Mahjong | 182360 | [182360-midnight-mahjong.json](./182360-midnight-mahjong.json) |
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
@@ -4161,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midtown Madness | 2348 | [2348-midtown-madness.json](./2348-midtown-madness.json) |
 | Midtown Madness 2 | 5930 | [5930-midtown-madness-2.json](./5930-midtown-madness-2.json) |
 | Midvinter | 19281 | [19281-midvinter.json](./19281-midvinter.json) |
+| Midway Accident | 296975 | [296975-midway-accident.json](./296975-midway-accident.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
 | Midwest Drag Racing | 395190 | [395190-midwest-drag-racing.json](./395190-midwest-drag-racing.json) |
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
@@ -4401,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind In Despair | 231917 | [231917-mind-in-despair.json](./231917-mind-in-despair.json) |
 | Mind Jab | 227846 | [227846-mind-jab.json](./227846-mind-jab.json) |
+| Mind Keeper | 296974 | [296974-mind-keeper.json](./296974-mind-keeper.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
@@ -4627,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Materialized | 37058 | [37058-minesweeper-materialized.json](./37058-minesweeper-materialized.json) |
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
 | Minesweeper Run | 151757 | [151757-minesweeper-run.json](./151757-minesweeper-run.json) |
+| Minesweeper Twist | 296973 | [296973-minesweeper-twist.json](./296973-minesweeper-twist.json) |
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
@@ -4754,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigore | 76624 | [76624-minigore.json](./76624-minigore.json) |
 | Minigun vs. Swarms of the Zombie Apocalypse Simulator | 171466 | [171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json](./171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json) |
 | Minigunner | 207509 | [207509-minigunner.json](./207509-minigunner.json) |
+| MiniHunt | 296986 | [296986-minihunt.json](./296986-minihunt.json) |
 | MiniLaw: Ministry of Law | 32024 | [32024-minilaw-ministry-of-law.json](./32024-minilaw-ministry-of-law.json) |
 | MiniLife: Tournament | 257960 | [257960-minilife-tournament.json](./257960-minilife-tournament.json) |
 | Minima | 293652 | [293652-minima.json](./293652-minima.json) |
@@ -4919,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
 | Mirror Quest Dog and Cat | 368566 | [368566-mirror-quest-dog-and-cat.json](./368566-mirror-quest-dog-and-cat.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
+| Mirror World | 296985 | [296985-mirror-world.json](./296985-mirror-world.json) |
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
 | Mirror's Edge Catalyst: Collector's Edition | 41618 | [41618-mirrors-edge-catalyst-collectors-edition.json](./41618-mirrors-edge-catalyst-collectors-edition.json) |
 | Mirrorama | 186824 | [186824-mirrorama.json](./186824-mirrorama.json) |
@@ -4945,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
+| Misfits | 296984 | [296984-misfits.json](./296984-misfits.json) |
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
 | Misfortune | 323937 | [323937-misfortune.json](./323937-misfortune.json) |
 | Misgiven | 258040 | [258040-misgiven.json](./258040-misgiven.json) |
@@ -5049,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission to Neptune | 383370 | [383370-mission-to-neptune.json](./383370-mission-to-neptune.json) |
 | Mission to the Sun | 388210 | [388210-mission-to-the-sun.json](./388210-mission-to-the-sun.json) |
 | Mission Twentyeight | 193412 | [193412-mission-twentyeight.json](./193412-mission-twentyeight.json) |
+| Mission Twentynine | 296983 | [296983-mission-twentynine.json](./296983-mission-twentynine.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
 | Mission: Caduceus | 128406 | [128406-mission-caduceus.json](./128406-mission-caduceus.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
@@ -5077,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
 | Mist of the Undead | 148484 | [148484-mist-of-the-undead.json](./148484-mist-of-the-undead.json) |
 | Mist Survival | 108349 | [108349-mist-survival.json](./108349-mist-survival.json) |
+| Mist Survivor | 296982 | [296982-mist-survivor.json](./296982-mist-survivor.json) |
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
 | Mistake of Pythagoras | 222416 | [222416-mistake-of-pythagoras.json](./222416-mistake-of-pythagoras.json) |
 | Mistake Souls | 75193 | [75193-mistake-souls.json](./75193-mistake-souls.json) |
@@ -5649,6 +5666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome Valentine | 183576 | [183576-monochrome-valentine.json](./183576-monochrome-valentine.json) |
 | Monochrono | 57937 | [57937-monochrono.json](./57937-monochrono.json) |
 | Monodot | 207828 | [207828-monodot.json](./207828-monodot.json) |
+| Monogatari: Love Letter | 297029 | [297029-monogatari-love-letter.json](./297029-monogatari-love-letter.json) |
 | Monogon: Echoes | 147366 | [147366-monogon-echoes.json](./147366-monogon-echoes.json) |
 | Monokage Quest | 222543 | [222543-monokage-quest.json](./222543-monokage-quest.json) |
 | Monolit | 298108 | [298108-monolit.json](./298108-monolit.json) |
