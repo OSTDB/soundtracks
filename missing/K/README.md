@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
 | Kutar's Athletic World | 340040 | [340040-kutars-athletic-world.json](./340040-kutars-athletic-world.json) |
 | Kutsushita Nyanko: Kutsushita o Haita Neko to Kurashi Hajime Mashita | 130723 | [130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json](./130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json) |
+| Kuudere Funk | 287742 | [287742-kuudere-funk.json](./287742-kuudere-funk.json) |
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
 | Kuusou Kagaku Sekai Gulliver Boy | 42211 | [42211-kuusou-kagaku-sekai-gulliver-boy.json](./42211-kuusou-kagaku-sekai-gulliver-boy.json) |
