@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Randall's Party | 107800 | [107800-king-randalls-party.json](./107800-king-randalls-party.json) |
 | King Safety | 197320 | [197320-king-safety.json](./197320-king-safety.json) |
 | King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
+| King Solomon's Mines | 323289 | [323289-king-solomons-mines.json](./323289-king-solomons-mines.json) |
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
 | King Tut’s Tomb | 366263 | [366263-king-tut-s-tomb.json](./366263-king-tut-s-tomb.json) |
 | King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
