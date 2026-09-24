@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | DeTails | 355129 | [355129-details.json](./355129-details.json) |
 | Detained: Too Good for School | 152148 | [152148-detained-too-good-for-school.json](./152148-detained-too-good-for-school.json) |
+| DeTechtive 2112 | 295333 | [295333-detechtive-2112.json](./295333-detechtive-2112.json) |
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
 | Detective 26 | 390789 | [390789-detective-26.json](./390789-detective-26.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice-Zee!: Dice Pak - "Autumn Auras" | 291087 | [291087-dice-zee-dice-pak-autumn-auras.json](./291087-dice-zee-dice-pak-autumn-auras.json) |
 | Dice-Zee!: Dice Pak - "Contemporary Cool" | 291086 | [291086-dice-zee-dice-pak-contemporary-cool.json](./291086-dice-zee-dice-pak-contemporary-cool.json) |
 | Dice-Zee!: Dice Pak - "Serene Chromas" | 291088 | [291088-dice-zee-dice-pak-serene-chromas.json](./291088-dice-zee-dice-pak-serene-chromas.json) |
+| Dice-Zee!: Duels | 295343 | [295343-dice-zee-duels.json](./295343-dice-zee-duels.json) |
 | Dice: Devils Game | 188041 | [188041-dice-devils-game.json](./188041-dice-devils-game.json) |
 | Dice: DNA Intergrated Cybernetic Enterprises | 65514 | [65514-dice-dna-intergrated-cybernetic-enterprises.json](./65514-dice-dna-intergrated-cybernetic-enterprises.json) |
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
@@ -4512,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pop the Balloon | 391896 | [391896-dont-pop-the-balloon.json](./391896-dont-pop-the-balloon.json) |
 | Don't Pop The Balloon | 316779 | [316779-dont-pop-the-balloon.json](./316779-dont-pop-the-balloon.json) |
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
+| Don't Puke! | 295317 | [295317-dont-puke.json](./295317-dont-puke.json) |
 | Don't Pull | 361332 | [361332-dont-pull.json](./361332-dont-pull.json) |
 | Don't Push Your Luck | 400304 | [400304-dont-push-your-luck.json](./400304-dont-push-your-luck.json) |
 | Don't Save the Princess | 111468 | [111468-dont-save-the-princess.json](./111468-dont-save-the-princess.json) |
