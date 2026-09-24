@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emre and Jevon's Tale of Knowledge, Emulating a Dream Where You Gain Wisdom and Knowledge and Probably Meet Hermes | 323301 | [323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json](./323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json) |
 | Emross War | 343482 | [343482-emross-war.json](./343482-emross-war.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
+| EmyLiveShow: Dangers & Mysteries Tale | 311055 | [311055-emyliveshow-dangers-and-mysteries-tale.json](./311055-emyliveshow-dangers-and-mysteries-tale.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
@@ -2452,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
+| Everhaven | 311063 | [311063-everhaven.json](./311063-everhaven.json) |
 | Everhold | 413879 | [413879-everhold.json](./413879-everhold.json) |
 | Everhood | 132083 | [132083-everhood.json](./132083-everhood.json) |
 | Evering | 182386 | [182386-evering.json](./182386-evering.json) |
