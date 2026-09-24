@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts | 159273 | [159273-darts.json](./159273-darts.json) |
 | Darts and Friends | 96627 | [96627-darts-and-friends.json](./96627-darts-and-friends.json) |
 | Darts Club | 69828 | [69828-darts-club.json](./69828-darts-club.json) |
+| Darts Fever | 328548 | [328548-darts-fever.json](./328548-darts-fever.json) |
 | Darts Fever: Deluxe Edition | 333720 | [333720-darts-fever-deluxe-edition.json](./333720-darts-fever-deluxe-edition.json) |
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
@@ -3762,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Worlds: Universe | 16806 | [16806-distant-worlds-universe.json](./16806-distant-worlds-universe.json) |
 | Distantia | 408029 | [408029-distantia.json](./408029-distantia.json) |
 | Distill, My Beating Heart! | 292019 | [292019-distill-my-beating-heart.json](./292019-distill-my-beating-heart.json) |
+| Distillery & Tavern Duo: Moonshine Inc. + Crossroads Inn: A Fantasy Tavern Sim | 328549 | [328549-distillery-and-tavern-duo-moonshine-inc-crossroads-inn-a-fantasy-tavern-sim.json](./328549-distillery-and-tavern-duo-moonshine-inc-crossroads-inn-a-fantasy-tavern-sim.json) |
 | Distorted | 372143 | [372143-distorted.json](./372143-distorted.json) |
 | Distorted Echos | 217323 | [217323-distorted-echos.json](./217323-distorted-echos.json) |
 | Distorted Minds | 414409 | [414409-distorted-minds.json](./414409-distorted-minds.json) |
@@ -3780,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | District Panic | 295387 | [295387-district-panic.json](./295387-district-panic.json) |
 | District Steel | 28912 | [28912-district-steel.json](./28912-district-steel.json) |
 | District VR | 285560 | [285560-district-vr.json](./285560-district-vr.json) |
+| District: Evolution | 328550 | [328550-district-evolution.json](./328550-district-evolution.json) |
 | DistroCards | 392807 | [392807-distrocards.json](./392807-distrocards.json) |
 | Disturbed 2 | 28904 | [28904-disturbed-2.json](./28904-disturbed-2.json) |
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
@@ -4088,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
 | Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
+| Dog Veterinary: Training Hospital Near Me | 328551 | [328551-dog-veterinary-training-hospital-near-me.json](./328551-dog-veterinary-training-hospital-near-me.json) |
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
 | Dog-a-Boo | 90623 | [90623-dog-a-boo.json](./90623-dog-a-boo.json) |
