@@ -2225,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunio-kun no Nekketsu Street | 74769 | [74769-kunio-kun-no-nekketsu-street.json](./74769-kunio-kun-no-nekketsu-street.json) |
 | Kunio-kun's Nekketsu Soccer League | 16603 | [16603-kunio-kuns-nekketsu-soccer-league.json](./16603-kunio-kuns-nekketsu-soccer-league.json) |
 | Kunitori Zunou Battle: Nobunaga no Yabou | 69286 | [69286-kunitori-zunou-battle-nobunaga-no-yabou.json](./69286-kunitori-zunou-battle-nobunaga-no-yabou.json) |
+| KunKun Defender | 298127 | [298127-kunkun-defender.json](./298127-kunkun-defender.json) |
 | Kunkun Defender 2 | 343863 | [343863-kunkun-defender-2.json](./343863-kunkun-defender-2.json) |
 | Kunkun League | 303619 | [303619-kunkun-league.json](./303619-kunkun-league.json) |
 | Kunkun Terror Express | 296921 | [296921-kunkun-terror-express.json](./296921-kunkun-terror-express.json) |
@@ -2292,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwalasha | 349870 | [349870-kwalasha.json](./349870-kwalasha.json) |
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
+| Kwark: Online and Multiplayer | 298129 | [298129-kwark-online-and-multiplayer.json](./298129-kwark-online-and-multiplayer.json) |
 | Kwartikum | 387654 | [387654-kwartikum.json](./387654-kwartikum.json) |
 | KWRPG | 323967 | [323967-kwrpg.json](./323967-kwrpg.json) |
 | KWRPG Platformer Online | 323968 | [323968-kwrpg-platformer-online.json](./323968-kwrpg-platformer-online.json) |
