@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Horror Stories | 109479 | [109479-real-horror-stories.json](./109479-real-horror-stories.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Madrid Club Football | 141135 | [141135-real-madrid-club-football.json](./141135-real-madrid-club-football.json) |
+| Real Mahjong Adventure Umi he: Summer Waltz | 293150 | [293150-real-mahjong-adventure-umi-he-summer-waltz.json](./293150-real-mahjong-adventure-umi-he-summer-waltz.json) |
 | Real Miami Street Gangsters Crime Mafia Glory Lord | 101586 | [101586-real-miami-street-gangsters-crime-mafia-glory-lord.json](./101586-real-miami-street-gangsters-crime-mafia-glory-lord.json) |
 | Real Mother Simulator | 105783 | [105783-real-mother-simulator.json](./105783-real-mother-simulator.json) |
 | Real Motion Fishing: Hooked! Again | 67289 | [67289-real-motion-fishing-hooked-again.json](./67289-real-motion-fishing-hooked-again.json) |
@@ -3701,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roco Kingdom | 395852 | [395852-roco-kingdom.json](./395852-roco-kingdom.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Rod Roll | 329102 | [329102-rod-roll.json](./329102-rod-roll.json) |
+| Rod-Land | 293157 | [293157-rod-land.json](./293157-rod-land.json) |
 | ROD: Revolt of Defense | 31933 | [31933-rod-revolt-of-defense.json](./31933-rod-revolt-of-defense.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
