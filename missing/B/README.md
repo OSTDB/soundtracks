@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Basketball | 69242 | [69242-backyard-basketball.json](./69242-backyard-basketball.json) |
 | Backyard Basketball ‘01 | 377818 | [377818-backyard-basketball-01.json](./377818-backyard-basketball-01.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
+| Backyard Boxing | 329668 | [329668-backyard-boxing.json](./329668-backyard-boxing.json) |
 | Backyard Digger | 346673 | [346673-backyard-digger.json](./346673-backyard-digger.json) |
 | Backyard Football '99 | 366897 | [366897-backyard-football-99.json](./366897-backyard-football-99.json) |
 | Backyard Football 2006 | 72974 | [72974-backyard-football-2006.json](./72974-backyard-football-2006.json) |
@@ -947,17 +948,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
 | Barcode warriors | 140557 | [140557-barcode-warriors.json](./140557-barcode-warriors.json) |
 | Barcode World Senyou Card: Barrier Rod | 329746 | [329746-barcode-world-senyou-card-barrier-rod.json](./329746-barcode-world-senyou-card-barrier-rod.json) |
+| Barcode World Senyou Card: Candy | 329758 | [329758-barcode-world-senyou-card-candy.json](./329758-barcode-world-senyou-card-candy.json) |
 | Barcode World Senyou Card: Carry (Dead Zone) | 329737 | [329737-barcode-world-senyou-card-carry-dead-zone.json](./329737-barcode-world-senyou-card-carry-dead-zone.json) |
+| Barcode World Senyou Card: Hayabusa Suit | 329753 | [329753-barcode-world-senyou-card-hayabusa-suit.json](./329753-barcode-world-senyou-card-hayabusa-suit.json) |
 | Barcode World Senyou Card: Hebe | 329721 | [329721-barcode-world-senyou-card-hebe.json](./329721-barcode-world-senyou-card-hebe.json) |
 | Barcode World Senyou Card: Hebe no Boushi | 329748 | [329748-barcode-world-senyou-card-hebe-no-boushi.json](./329748-barcode-world-senyou-card-hebe-no-boushi.json) |
+| Barcode World Senyou Card: Innsmouth | 329755 | [329755-barcode-world-senyou-card-innsmouth.json](./329755-barcode-world-senyou-card-innsmouth.json) |
 | Barcode World Senyou Card: Jennifer | 329739 | [329739-barcode-world-senyou-card-jennifer.json](./329739-barcode-world-senyou-card-jennifer.json) |
 | Barcode World Senyou Card: Kane Gardner (Chou Wakusei Senki MetaFight) | 329738 | [329738-barcode-world-senyou-card-kane-gardner-chou-wakusei-senki-metafight.json](./329738-barcode-world-senyou-card-kane-gardner-chou-wakusei-senki-metafight.json) |
 | Barcode World Senyou Card: Kikanjuu | 329744 | [329744-barcode-world-senyou-card-kikanjuu.json](./329744-barcode-world-senyou-card-kikanjuu.json) |
 | Barcode World Senyou Card: Lucia (Madoola no Tsubasa) | 329740 | [329740-barcode-world-senyou-card-lucia-madoola-no-tsubasa.json](./329740-barcode-world-senyou-card-lucia-madoola-no-tsubasa.json) |
+| Barcode World Senyou Card: Magic Boots | 329754 | [329754-barcode-world-senyou-card-magic-boots.json](./329754-barcode-world-senyou-card-magic-boots.json) |
 | Barcode World Senyou Card: Neko no Kigurumi | 329751 | [329751-barcode-world-senyou-card-neko-no-kigurumi.json](./329751-barcode-world-senyou-card-neko-no-kigurumi.json) |
+| Barcode World Senyou Card: Nenchakuzai | 329756 | [329756-barcode-world-senyou-card-nenchakuzai.json](./329756-barcode-world-senyou-card-nenchakuzai.json) |
 | Barcode World Senyou Card: Nitro Gun | 329745 | [329745-barcode-world-senyou-card-nitro-gun.json](./329745-barcode-world-senyou-card-nitro-gun.json) |
 | Barcode World Senyou Card: O-chan | 329723 | [329723-barcode-world-senyou-card-o-chan.json](./329723-barcode-world-senyou-card-o-chan.json) |
 | Barcode World Senyou Card: Popoon | 329743 | [329743-barcode-world-senyou-card-popoon.json](./329743-barcode-world-senyou-card-popoon.json) |
+| Barcode World Senyou Card: Powered Armor | 329752 | [329752-barcode-world-senyou-card-powered-armor.json](./329752-barcode-world-senyou-card-powered-armor.json) |
+| Barcode World Senyou Card: Russian Fuusen | 329757 | [329757-barcode-world-senyou-card-russian-fuusen.json](./329757-barcode-world-senyou-card-russian-fuusen.json) |
+| Barcode World Senyou Card: Skateboard | 329759 | [329759-barcode-world-senyou-card-skateboard.json](./329759-barcode-world-senyou-card-skateboard.json) |
 | Barcode World Senyou Card: Sukezaemon | 329742 | [329742-barcode-world-senyou-card-sukezaemon.json](./329742-barcode-world-senyou-card-sukezaemon.json) |
 | Barcode World Senyou Card: Vinyl no Katana | 329747 | [329747-barcode-world-senyou-card-vinyl-no-katana.json](./329747-barcode-world-senyou-card-vinyl-no-katana.json) |
 | Barcode World Senyou Card: Yumetaro & Ohagi (Gimmick) | 329741 | [329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json](./329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json) |
