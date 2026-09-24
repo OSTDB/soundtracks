@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 32nd America's Cup: The Game | 72609 | [72609-32nd-americas-cup-the-game.json](./72609-32nd-americas-cup-the-game.json) |
 | 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
+| 34 Sports Games: World Edition | 297041 | [297041-34-sports-games-world-edition.json](./297041-34-sports-games-world-edition.json) |
 | 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
 | 36 Nights | 277942 | [277942-36-nights.json](./277942-36-nights.json) |
