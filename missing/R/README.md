@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered - Gold Edition | 411837 | [411837-real-boxing-2-remastered-gold-edition.json](./411837-real-boxing-2-remastered-gold-edition.json) |
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
 | Real Bus Mechanic Simulator | 102611 | [102611-real-bus-mechanic-simulator.json](./102611-real-bus-mechanic-simulator.json) |
+| Real Cake Maker | 316187 | [316187-real-cake-maker.json](./316187-real-cake-maker.json) |
 | Real Cake Maker: Cool Kidz | 316245 | [316245-real-cake-maker-cool-kidz.json](./316245-real-cake-maker-cool-kidz.json) |
 | Real Cake Maker: Sugar Rush | 316246 | [316246-real-cake-maker-sugar-rush.json](./316246-real-cake-maker-sugar-rush.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
