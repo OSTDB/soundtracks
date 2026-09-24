@@ -3755,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forte Craft Explore Island | 101383 | [101383-forte-craft-explore-island.json](./101383-forte-craft-explore-island.json) |
 | Fortification: tower defence | 141675 | [141675-fortification-tower-defence.json](./141675-fortification-tower-defence.json) |
 | Fortissimo FA//Akkord:Nachsten Phase | 101597 | [101597-fortissimo-fa-akkord-nachsten-phase.json](./101597-fortissimo-fa-akkord-nachsten-phase.json) |
+| Fortitude Tower Defense | 333149 | [333149-fortitude-tower-defense.json](./333149-fortitude-tower-defense.json) |
 | Fortix 2 | 15024 | [15024-fortix-2.json](./15024-fortix-2.json) |
 | Fortnight: Elite Commando Action 2 | 103396 | [103396-fortnight-elite-commando-action-2.json](./103396-fortnight-elite-commando-action-2.json) |
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
@@ -4873,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungal Colony Sim 2 | 365139 | [365139-fungal-colony-sim-2.json](./365139-fungal-colony-sim-2.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
+| Fungi Crossing | 333157 | [333157-fungi-crossing.json](./333157-fungi-crossing.json) |
 | Fungi Fantastico | 333013 | [333013-fungi-fantastico.json](./333013-fungi-fantastico.json) |
 | Fungiman 2 | 333645 | [333645-fungiman-2.json](./333645-fungiman-2.json) |
 | Fungoids: Steam Version | 93613 | [93613-fungoids-steam-version.json](./93613-fungoids-steam-version.json) |
