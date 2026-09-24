@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Onslaught | 329913 | [329913-eve-online-onslaught.json](./329913-eve-online-onslaught.json) |
 | Eve Online: Reign | 329925 | [329925-eve-online-reign.json](./329925-eve-online-reign.json) |
 | Eve Online: Revelations | 21391 | [21391-eve-online-revelations.json](./21391-eve-online-revelations.json) |
+| Eve Online: Revenant | 329685 | [329685-eve-online-revenant.json](./329685-eve-online-revenant.json) |
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
 | EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
