@@ -2738,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hifuu Bouenkyou | 222505 | [222505-hifuu-bouenkyou.json](./222505-hifuu-bouenkyou.json) |
 | Hifuu Fragment | 161330 | [161330-hifuu-fragment.json](./161330-hifuu-fragment.json) |
 | Hifuu Nightmare Diary: Violet Detector. | 107253 | [107253-hifuu-nightmare-diary-violet-detector.json](./107253-hifuu-nightmare-diary-violet-detector.json) |
+| Higanbana | 308896 | [308896-higanbana.json](./308896-higanbana.json) |
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
 | Higgs Boson: Timed Puzzle | 173238 | [173238-higgs-boson-timed-puzzle.json](./173238-higgs-boson-timed-puzzle.json) |
 | High $take$ by Dick Francis | 79887 | [79887-high-take-by-dick-francis.json](./79887-high-take-by-dick-francis.json) |
@@ -2901,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikikomori Life | 169864 | [169864-hikikomori-life.json](./169864-hikikomori-life.json) |
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | Hikisakareta Badaaru | 394545 | [394545-hikisakareta-badaaru.json](./394545-hikisakareta-badaaru.json) |
+| Hilde Redemption | 308899 | [308899-hilde-redemption.json](./308899-hilde-redemption.json) |
 | HiLight: Touch the light! | 265760 | [265760-hilight-touch-the-light.json](./265760-hilight-touch-the-light.json) |
 | Hill 4x4 Tuning Rivals | 255733 | [255733-hill-4x4-tuning-rivals.json](./255733-hill-4x4-tuning-rivals.json) |
 | Hill Climb Runner | 256351 | [256351-hill-climb-runner.json](./256351-hill-climb-runner.json) |
@@ -4263,6 +4265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HTR+ Slot Car Simulation | 17197 | [17197-htr-slot-car-simulation.json](./17197-htr-slot-car-simulation.json) |
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
 | Huang Quan Dream | 355194 | [355194-huang-quan-dream.json](./355194-huang-quan-dream.json) |
+| Huang Zhu Qian Kun | 308872 | [308872-huang-zhu-qian-kun.json](./308872-huang-zhu-qian-kun.json) |
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
