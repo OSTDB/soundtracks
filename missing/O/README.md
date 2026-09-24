@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-World Relocation | 253361 | [253361-off-world-relocation.json](./253361-off-world-relocation.json) |
 | Offensive Dimensions | 75782 | [75782-offensive-dimensions.json](./75782-offensive-dimensions.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
+| Office After Hours | 319730 | [319730-office-after-hours.json](./319730-office-after-hours.json) |
 | Office Anomaly | 413596 | [413596-office-anomaly.json](./413596-office-anomaly.json) |
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
 | Office Chimp | 249283 | [249283-office-chimp.json](./249283-office-chimp.json) |
@@ -1960,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
 | Outlaw Kingdom | 245906 | [245906-outlaw-kingdom.json](./245906-outlaw-kingdom.json) |
 | Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
+| Outlaw's Gold | 319715 | [319715-outlaws-gold.json](./319715-outlaws-gold.json) |
 | Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
 | Outlaws | 196 | [196-outlaws.json](./196-outlaws.json) |
 | Outlaws + A Handful of Missions | 112809 | [112809-outlaws-a-handful-of-missions.json](./112809-outlaws-a-handful-of-missions.json) |
