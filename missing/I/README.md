@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
 | Infinite Lives | 354536 | [354536-infinite-lives.json](./354536-infinite-lives.json) |
 | Infinite Mansion | 374816 | [374816-infinite-mansion.json](./374816-infinite-mansion.json) |
+| Infinite Mario 64 | 288851 | [288851-infinite-mario-64.json](./288851-infinite-mario-64.json) |
 | Infinite Monkey Autocorrect | 89205 | [89205-infinite-monkey-autocorrect.json](./89205-infinite-monkey-autocorrect.json) |
 | Infinite Monkey Clicker | 387328 | [387328-infinite-monkey-clicker.json](./387328-infinite-monkey-clicker.json) |
 | Infinite Monkeys | 57095 | [57095-infinite-monkeys.json](./57095-infinite-monkeys.json) |
@@ -2016,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Stars | 21564 | [21564-into-the-stars.json](./21564-into-the-stars.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
+| Into The Unknown | 288814 | [288814-into-the-unknown.json](./288814-into-the-unknown.json) |
 | Into the V.O.I.D. | 298666 | [298666-into-the-v-o-i-d.json](./298666-into-the-v-o-i-d.json) |
 | Into the War | 35825 | [35825-into-the-war.json](./35825-into-the-war.json) |
 | Into the Waves | 190163 | [190163-into-the-waves.json](./190163-into-the-waves.json) |
