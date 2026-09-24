@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T14:18:22.163Z",
-  "total_missing": 116393,
+  "generated_at": "2026-09-24T14:33:17.804Z",
+  "total_missing": 116443,
   "games": [
     {
       "igdb_id": 176875,
@@ -50036,6 +50036,11 @@
       "igdb_id": 68684,
       "game_name": "Beyond the Wall of Stars",
       "file": "missing/B/68684-beyond-the-wall-of-stars.json"
+    },
+    {
+      "igdb_id": 303548,
+      "game_name": "Beyond The Walls",
+      "file": "missing/B/303548-beyond-the-walls.json"
     },
     {
       "igdb_id": 386297,
@@ -223638,6 +223643,11 @@
       "file": "missing/H/228563-hon-shogi.json"
     },
     {
+      "igdb_id": 303564,
+      "game_name": "Honcho",
+      "file": "missing/H/303564-honcho.json"
+    },
+    {
       "igdb_id": 259070,
       "game_name": "Hondune's Truck Trials",
       "file": "missing/H/259070-hondunes-truck-trials.json"
@@ -224086,6 +224096,11 @@
       "igdb_id": 42053,
       "game_name": "Honoo no Toukyuuji: Dodge Danpei",
       "file": "missing/H/42053-honoo-no-toukyuuji-dodge-danpei.json"
+    },
+    {
+      "igdb_id": 303565,
+      "game_name": "Honor Battle",
+      "file": "missing/H/303565-honor-battle.json"
     },
     {
       "igdb_id": 66108,
@@ -224683,6 +224698,16 @@
       "file": "missing/H/157159-horatama.json"
     },
     {
+      "igdb_id": 303566,
+      "game_name": "Horatio: Connector 13",
+      "file": "missing/H/303566-horatio-connector-13.json"
+    },
+    {
+      "igdb_id": 303567,
+      "game_name": "Horatio: Connector 13 (Chapters 1-12)",
+      "file": "missing/H/303567-horatio-connector-13-chapters-1-12.json"
+    },
+    {
       "igdb_id": 340215,
       "game_name": "Horcrux College",
       "file": "missing/H/340215-horcrux-college.json"
@@ -224883,6 +224908,11 @@
       "file": "missing/H/296912-horn-of-balance.json"
     },
     {
+      "igdb_id": 303572,
+      "game_name": "Hornet the Vanguard",
+      "file": "missing/H/303572-hornet-the-vanguard.json"
+    },
+    {
       "igdb_id": 74436,
       "game_name": "Horns of Fear",
       "file": "missing/H/74436-horns-of-fear.json"
@@ -225048,6 +225078,11 @@
       "file": "missing/H/121600-horror-hunt.json"
     },
     {
+      "igdb_id": 303570,
+      "game_name": "Horror In Hongdae",
+      "file": "missing/H/303570-horror-in-hongdae.json"
+    },
+    {
       "igdb_id": 365258,
       "game_name": "Horror in the Forest",
       "file": "missing/H/365258-horror-in-the-forest.json"
@@ -225203,6 +225238,11 @@
       "file": "missing/H/119713-horror-ville-maze-escape.json"
     },
     {
+      "igdb_id": 303571,
+      "game_name": "Horror: Evil Residents",
+      "file": "missing/H/303571-horror-evil-residents.json"
+    },
+    {
       "igdb_id": 331974,
       "game_name": "HorrorCore: Maze and Pools of Horror",
       "file": "missing/H/331974-horrorcore-maze-and-pools-of-horror.json"
@@ -225331,6 +225371,11 @@
       "igdb_id": 81654,
       "game_name": "Horse Riding Deluxe",
       "file": "missing/H/81654-horse-riding-deluxe.json"
+    },
+    {
+      "igdb_id": 303569,
+      "game_name": "Horse Runner DX",
+      "file": "missing/H/303569-horse-runner-dx.json"
     },
     {
       "igdb_id": 206679,
@@ -225541,6 +225586,11 @@
       "igdb_id": 324492,
       "game_name": "Hot & Hentai: Garden Queen Shirayuki",
       "file": "missing/H/324492-hot-and-hentai-garden-queen-shirayuki.json"
+    },
+    {
+      "igdb_id": 303568,
+      "game_name": "Hot & Lewd: Miami",
+      "file": "missing/H/303568-hot-and-lewd-miami.json"
     },
     {
       "igdb_id": 238613,
@@ -227568,6 +227618,11 @@
       "file": "missing/H/147450-hs-galaxy.json"
     },
     {
+      "igdb_id": 303574,
+      "game_name": "HSHS",
+      "file": "missing/H/303574-hshs.json"
+    },
+    {
       "igdb_id": 396207,
       "game_name": "HSNU Academy 79th Anniversary",
       "file": "missing/H/396207-hsnu-academy-79th-anniversary.json"
@@ -228128,6 +228183,11 @@
       "file": "missing/H/249794-humanoid-huntress.json"
     },
     {
+      "igdb_id": 303562,
+      "game_name": "Humanolve: A Human Evolution Card Saga",
+      "file": "missing/H/303562-humanolve-a-human-evolution-card-saga.json"
+    },
+    {
       "igdb_id": 39031,
       "game_name": "Humans 3: Evolution - Lost in Time",
       "file": "missing/H/39031-humans-3-evolution-lost-in-time.json"
@@ -228136,6 +228196,11 @@
       "igdb_id": 153372,
       "game_name": "Humans Vs Ghouls",
       "file": "missing/H/153372-humans-vs-ghouls.json"
+    },
+    {
+      "igdb_id": 303561,
+      "game_name": "Humans vs. Monsters",
+      "file": "missing/H/303561-humans-vs-monsters.json"
     },
     {
       "igdb_id": 199060,
@@ -228503,6 +228568,11 @@
       "file": "missing/H/159347-hunt-royale.json"
     },
     {
+      "igdb_id": 303559,
+      "game_name": "Hunt the Pale Gods",
+      "file": "missing/H/303559-hunt-the-pale-gods.json"
+    },
+    {
       "igdb_id": 119696,
       "game_name": "Hunt the Thailand Hidden",
       "file": "missing/H/119696-hunt-the-thailand-hidden.json"
@@ -228658,6 +228728,11 @@
       "file": "missing/H/296650-hunter-beat.json"
     },
     {
+      "igdb_id": 303560,
+      "game_name": "Hunter Chronicles: Tara and Vyn",
+      "file": "missing/H/303560-hunter-chronicles-tara-and-vyn.json"
+    },
+    {
       "igdb_id": 409533,
       "game_name": "Hunter Desert Simulator: Sniper Rifle",
       "file": "missing/H/409533-hunter-desert-simulator-sniper-rifle.json"
@@ -228786,6 +228861,11 @@
       "igdb_id": 416105,
       "game_name": "Hunter's Moon",
       "file": "missing/H/416105-hunters-moon.json"
+    },
+    {
+      "igdb_id": 303563,
+      "game_name": "Hunter's Requiem",
+      "file": "missing/H/303563-hunters-requiem.json"
     },
     {
       "igdb_id": 365681,
@@ -228963,6 +229043,11 @@
       "file": "missing/H/10422-huntsman-the-orphanage.json"
     },
     {
+      "igdb_id": 303558,
+      "game_name": "Hup Hup The Cupcake",
+      "file": "missing/H/303558-hup-hup-the-cupcake.json"
+    },
+    {
       "igdb_id": 177436,
       "game_name": "Hupsi",
       "file": "missing/H/177436-hupsi.json"
@@ -229021,6 +229106,11 @@
       "igdb_id": 415099,
       "game_name": "Hush Darling",
       "file": "missing/H/415099-hush-darling.json"
+    },
+    {
+      "igdb_id": 303555,
+      "game_name": "Hush Hush High",
+      "file": "missing/H/303555-hush-hush-high.json"
     },
     {
       "igdb_id": 177395,
@@ -229166,6 +229256,11 @@
       "igdb_id": 347161,
       "game_name": "Hybrid Blood",
       "file": "missing/H/347161-hybrid-blood.json"
+    },
+    {
+      "igdb_id": 303557,
+      "game_name": "Hybrid Miniature Golf Beta",
+      "file": "missing/H/303557-hybrid-miniature-golf-beta.json"
     },
     {
       "igdb_id": 168342,
@@ -229353,6 +229448,11 @@
       "file": "missing/H/177944-hyper-dimensional-basement-crawler.json"
     },
     {
+      "igdb_id": 303554,
+      "game_name": "Hyper Drive Runner",
+      "file": "missing/H/303554-hyper-drive-runner.json"
+    },
+    {
       "igdb_id": 51598,
       "game_name": "Hyper Drive: The Insane Gravity Race",
       "file": "missing/H/51598-hyper-drive-the-insane-gravity-race.json"
@@ -229511,6 +229611,11 @@
       "igdb_id": 103438,
       "game_name": "Hyper Simon X",
       "file": "missing/H/103438-hyper-simon-x.json"
+    },
+    {
+      "igdb_id": 303552,
+      "game_name": "Hyper Skater",
+      "file": "missing/H/303552-hyper-skater.json"
     },
     {
       "igdb_id": 385739,
@@ -229818,6 +229923,11 @@
       "file": "missing/H/340495-hyperdrive-horizon.json"
     },
     {
+      "igdb_id": 303553,
+      "game_name": "HyperFatal",
+      "file": "missing/H/303553-hyperfatal.json"
+    },
+    {
       "igdb_id": 152761,
       "game_name": "HyperFeat",
       "file": "missing/H/152761-hyperfeat.json"
@@ -229908,6 +230018,11 @@
       "file": "missing/H/35659-hypership-out-of-control.json"
     },
     {
+      "igdb_id": 303556,
+      "game_name": "Hyperslice",
+      "file": "missing/H/303556-hyperslice.json"
+    },
+    {
       "igdb_id": 249782,
       "game_name": "Hypersomnia",
       "file": "missing/H/249782-hypersomnia.json"
@@ -229921,6 +230036,11 @@
       "igdb_id": 297489,
       "game_name": "Hyperspace",
       "file": "missing/H/297489-hyperspace.json"
+    },
+    {
+      "igdb_id": 303551,
+      "game_name": "Hyperspace",
+      "file": "missing/H/303551-hyperspace.json"
     },
     {
       "igdb_id": 287766,
@@ -230061,6 +230181,11 @@
       "igdb_id": 302509,
       "game_name": "Hypnotica Quest",
       "file": "missing/H/302509-hypnotica-quest.json"
+    },
+    {
+      "igdb_id": 303550,
+      "game_name": "Hypogea",
+      "file": "missing/H/303550-hypogea.json"
     },
     {
       "igdb_id": 401015,
@@ -234953,6 +235078,11 @@
       "file": "missing/I/339091-impartial.json"
     },
     {
+      "igdb_id": 303575,
+      "game_name": "Impawlse",
+      "file": "missing/I/303575-impawlse.json"
+    },
+    {
       "igdb_id": 253921,
       "game_name": "Impeached 2",
       "file": "missing/I/253921-impeached-2.json"
@@ -235253,6 +235383,11 @@
       "file": "missing/I/179727-impostor-hide-online.json"
     },
     {
+      "igdb_id": 303576,
+      "game_name": "Impostor Online",
+      "file": "missing/I/303576-impostor-online.json"
+    },
+    {
       "igdb_id": 110385,
       "game_name": "Impostor syndrome",
       "file": "missing/I/110385-impostor-syndrome.json"
@@ -235468,6 +235603,11 @@
       "file": "missing/I/68278-in-light.json"
     },
     {
+      "igdb_id": 303586,
+      "game_name": "In Memoriam",
+      "file": "missing/I/303586-in-memoriam.json"
+    },
+    {
       "igdb_id": 69314,
       "game_name": "In Memory of Titan",
       "file": "missing/I/69314-in-memory-of-titan.json"
@@ -235506,6 +235646,11 @@
       "igdb_id": 69578,
       "game_name": "In Search of Dr. Riptide",
       "file": "missing/I/69578-in-search-of-dr-riptide.json"
+    },
+    {
+      "igdb_id": 303584,
+      "game_name": "In Search of Heroes!",
+      "file": "missing/I/303584-in-search-of-heroes.json"
     },
     {
       "igdb_id": 182522,
@@ -235611,6 +235756,11 @@
       "igdb_id": 73287,
       "game_name": "In the Dead of Night",
       "file": "missing/I/73287-in-the-dead-of-night.json"
+    },
+    {
+      "igdb_id": 303588,
+      "game_name": "In The Disorderly Courtyard",
+      "file": "missing/I/303588-in-the-disorderly-courtyard.json"
     },
     {
       "igdb_id": 404847,
@@ -236543,6 +236693,11 @@
       "file": "missing/I/190159-industriality.json"
     },
     {
+      "igdb_id": 303577,
+      "game_name": "Industring",
+      "file": "missing/I/303577-industring.json"
+    },
+    {
       "igdb_id": 146813,
       "game_name": "Industrious",
       "file": "missing/I/146813-industrious.json"
@@ -236723,9 +236878,19 @@
       "file": "missing/I/308805-infantry-attack-backup-edition.json"
     },
     {
+      "igdb_id": 303578,
+      "game_name": "Infantry Attack: Drone Squad",
+      "file": "missing/I/303578-infantry-attack-drone-squad.json"
+    },
+    {
       "igdb_id": 371435,
       "game_name": "Infantry Attack: Golden Backup Edition",
       "file": "missing/I/371435-infantry-attack-golden-backup-edition.json"
+    },
+    {
+      "igdb_id": 303579,
+      "game_name": "Infantry Attack: Strike from Above",
+      "file": "missing/I/303579-infantry-attack-strike-from-above.json"
     },
     {
       "igdb_id": 174302,
@@ -236876,6 +237041,11 @@
       "igdb_id": 379350,
       "game_name": "Infernal Eclipse of Ragnarok",
       "file": "missing/I/379350-infernal-eclipse-of-ragnarok.json"
+    },
+    {
+      "igdb_id": 303580,
+      "game_name": "Infernal Hunt",
+      "file": "missing/I/303580-infernal-hunt.json"
     },
     {
       "igdb_id": 72355,
@@ -237128,6 +237298,11 @@
       "file": "missing/I/287750-infinite-chump.json"
     },
     {
+      "igdb_id": 303581,
+      "game_name": "Infinite Coaster",
+      "file": "missing/I/303581-infinite-coaster.json"
+    },
+    {
       "igdb_id": 192442,
       "game_name": "Infinite Construction",
       "file": "missing/I/192442-infinite-construction.json"
@@ -237321,6 +237496,11 @@
       "igdb_id": 96731,
       "game_name": "Infinite Sunshine Dust",
       "file": "missing/I/96731-infinite-sunshine-dust.json"
+    },
+    {
+      "igdb_id": 303582,
+      "game_name": "Infinite Survivor",
+      "file": "missing/I/303582-infinite-survivor.json"
     },
     {
       "igdb_id": 198362,
@@ -238118,6 +238298,11 @@
       "file": "missing/I/397793-inkremental.json"
     },
     {
+      "igdb_id": 303583,
+      "game_name": "Inkression",
+      "file": "missing/I/303583-inkression.json"
+    },
+    {
       "igdb_id": 345014,
       "game_name": "Inkronos",
       "file": "missing/I/345014-inkronos.json"
@@ -238598,6 +238783,11 @@
       "file": "missing/I/67272-insector-hecti-in-the-interchange.json"
     },
     {
+      "igdb_id": 303585,
+      "game_name": "Insectum: Epic Battles of Bugs",
+      "file": "missing/I/303585-insectum-epic-battles-of-bugs.json"
+    },
+    {
       "igdb_id": 405707,
       "game_name": "Inselnova",
       "file": "missing/I/405707-inselnova.json"
@@ -238841,6 +239031,11 @@
       "igdb_id": 356833,
       "game_name": "Instant Anastasia",
       "file": "missing/I/356833-instant-anastasia.json"
+    },
+    {
+      "igdb_id": 303587,
+      "game_name": "Instant Armory",
+      "file": "missing/I/303587-instant-armory.json"
     },
     {
       "igdb_id": 406801,
@@ -244858,6 +245053,11 @@
       "file": "missing/J/37069-java-jim-in-square-shaped-trouble.json"
     },
     {
+      "igdb_id": 303589,
+      "game_name": "Java Journey",
+      "file": "missing/J/303589-java-journey.json"
+    },
+    {
       "igdb_id": 128578,
       "game_name": "Javaders",
       "file": "missing/J/128578-javaders.json"
@@ -245451,6 +245651,11 @@
       "igdb_id": 33371,
       "game_name": "Jesus Christ RPG Trilogy",
       "file": "missing/J/33371-jesus-christ-rpg-trilogy.json"
+    },
+    {
+      "igdb_id": 303590,
+      "game_name": "Jesus Christ Simulator",
+      "file": "missing/J/303590-jesus-christ-simulator.json"
     },
     {
       "igdb_id": 392792,
@@ -246151,6 +246356,11 @@
       "igdb_id": 147387,
       "game_name": "Jiàndào Xiānyǔ",
       "file": "missing/J/147387-jiandao-xianyu.json"
+    },
+    {
+      "igdb_id": 303591,
+      "game_name": "Jianghu Chronicles",
+      "file": "missing/J/303591-jianghu-chronicles.json"
     },
     {
       "igdb_id": 135880,
@@ -246978,6 +247188,11 @@
       "file": "missing/J/106563-jin-lin-love-story.json"
     },
     {
+      "igdb_id": 303592,
+      "game_name": "Jin Ping Mei",
+      "file": "missing/J/303592-jin-ping-mei.json"
+    },
+    {
       "igdb_id": 337480,
       "game_name": "Jinchou",
       "file": "missing/J/337480-jinchou.json"
@@ -247478,6 +247693,11 @@
       "file": "missing/J/210130-john-deere-north-american-farmer.json"
     },
     {
+      "igdb_id": 303595,
+      "game_name": "John Fox",
+      "file": "missing/J/303595-john-fox.json"
+    },
+    {
       "igdb_id": 402497,
       "game_name": "John Fury’s First Fury",
       "file": "missing/J/402497-john-fury-s-first-fury.json"
@@ -247938,6 +248158,11 @@
       "file": "missing/J/361783-jordan-vs-bird-one-on-one.json"
     },
     {
+      "igdb_id": 303593,
+      "game_name": "Jordi & Oslo: The Lost Tail",
+      "file": "missing/J/303593-jordi-and-oslo-the-lost-tail.json"
+    },
+    {
       "igdb_id": 207334,
       "game_name": "Jorel's Brother and the Most Important Game of the Galaxy",
       "file": "missing/J/207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json"
@@ -247973,6 +248198,11 @@
       "file": "missing/J/73512-josephine-portrait-of-an-assassin.json"
     },
     {
+      "igdb_id": 303596,
+      "game_name": "Josh Powlison's Button: Mildly Remastered Edition",
+      "file": "missing/J/303596-josh-powlisons-button-mildly-remastered-edition.json"
+    },
+    {
       "igdb_id": 327837,
       "game_name": "JoshGeoff Weiner Simulator",
       "file": "missing/J/327837-joshgeoff-weiner-simulator.json"
@@ -247996,6 +248226,11 @@
       "igdb_id": 59049,
       "game_name": "Josou Gal Bitch Gakuen: Half Musume Judy no Yuuwaku",
       "file": "missing/J/59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json"
+    },
+    {
+      "igdb_id": 303597,
+      "game_name": "JosPlays' Escape: GameJam April 2024",
+      "file": "missing/J/303597-josplays-escape-gamejam-april-2024.json"
     },
     {
       "igdb_id": 14147,
@@ -248098,9 +248333,19 @@
       "file": "missing/J/39008-journey-of-haha.json"
     },
     {
+      "igdb_id": 303599,
+      "game_name": "Journey of Harvest",
+      "file": "missing/J/303599-journey-of-harvest.json"
+    },
+    {
       "igdb_id": 409805,
       "game_name": "Journey of Johann: Castle Crusade",
       "file": "missing/J/409805-journey-of-johann-castle-crusade.json"
+    },
+    {
+      "igdb_id": 303598,
+      "game_name": "Journey of Reincarnation",
+      "file": "missing/J/303598-journey-of-reincarnation.json"
     },
     {
       "igdb_id": 136502,
@@ -362591,6 +362836,11 @@
       "igdb_id": 256917,
       "game_name": "Pixel Puzzles Ultimate Jigsaw: Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful",
       "file": "missing/P/256917-pixel-puzzles-ultimate-jigsaw-jigsaw-puzzle-pack-pixel-puzzles-ultimate-colorful.json"
+    },
+    {
+      "igdb_id": 303594,
+      "game_name": "Pixel Puzzles Ultimate Jigsaw: Mini Beasts",
+      "file": "missing/P/303594-pixel-puzzles-ultimate-jigsaw-mini-beasts.json"
     },
     {
       "igdb_id": 293071,
