@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Bestia: The Migrant's Long Journey | 296485 | [296485-la-bestia-the-migrants-long-journey.json](./296485-la-bestia-the-migrants-long-journey.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Caza del Espía | 323175 | [323175-la-caza-del-espia.json](./323175-la-caza-del-espia.json) |
+| La ciudad perdida de los Kowane | 316783 | [316783-la-ciudad-perdida-de-los-kowane.json](./316783-la-ciudad-perdida-de-los-kowane.json) |
 | La Colmena | 86085 | [86085-la-colmena.json](./86085-la-colmena.json) |
 | LA Cops | 17080 | [17080-la-cops.json](./17080-la-cops.json) |
 | La Corona Encantada | 141850 | [141850-la-corona-encantada.json](./141850-la-corona-encantada.json) |
@@ -2815,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
+| Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
 | Loot Survivor | 392485 | [392485-loot-survivor.json](./392485-loot-survivor.json) |
@@ -2831,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | Lootcraft | 126418 | [126418-lootcraft.json](./126418-lootcraft.json) |
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
+| Lootist | 316735 | [316735-lootist.json](./316735-lootist.json) |
 | LootLite | 144919 | [144919-lootlite.json](./144919-lootlite.json) |
 | LootOnline | 333592 | [333592-lootonline.json](./333592-lootonline.json) |
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
