@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Shop Tycoon | 203368 | [203368-card-shop-tycoon.json](./203368-card-shop-tycoon.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
 | Card Sim: Chinese Restaurant | 391182 | [391182-card-sim-chinese-restaurant.json](./391182-card-sim-chinese-restaurant.json) |
+| Card Summoner | 309445 | [309445-card-summoner.json](./309445-card-summoner.json) |
 | Card Survival: Fantasy Forest | 290925 | [290925-card-survival-fantasy-forest.json](./290925-card-survival-fantasy-forest.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
 | Card Throw VR | 119716 | [119716-card-throw-vr.json](./119716-card-throw-vr.json) |
@@ -3653,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Lovers | 203927 | [203927-click-lovers.json](./203927-click-lovers.json) |
 | Click Mage | 320391 | [320391-click-mage.json](./320391-click-mage.json) |
 | Click Me Harder | 365165 | [365165-click-me-harder.json](./365165-click-me-harder.json) |
+| Click On Cups Together | 309480 | [309480-click-on-cups-together.json](./309480-click-on-cups-together.json) |
 | Click on their Heads | 158189 | [158189-click-on-their-heads.json](./158189-click-on-their-heads.json) |
 | Click Painter | 309852 | [309852-click-painter.json](./309852-click-painter.json) |
 | Click Quest 3D 2: Plus | 379551 | [379551-click-quest-3d-2-plus.json](./379551-click-quest-3d-2-plus.json) |
@@ -5953,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Twinsanity 3D | 210232 | [210232-crash-twinsanity-3d.json](./210232-crash-twinsanity-3d.json) |
 | Crash vs. Spyro Racing | 269687 | [269687-crash-vs-spyro-racing.json](./269687-crash-vs-spyro-racing.json) |
 | Crash Wheels | 31657 | [31657-crash-wheels.json](./31657-crash-wheels.json) |
+| Crash-Land Fantasy | 309481 | [309481-crash-land-fantasy.json](./309481-crash-land-fantasy.json) |
 | Crash-San | 238482 | [238482-crash-san.json](./238482-crash-san.json) |
 | Crash: Mind Over Mutant | 1191 | [1191-crash-mind-over-mutant.json](./1191-crash-mind-over-mutant.json) |
 | Crash: Mind Over Mutant | 210229 | [210229-crash-mind-over-mutant.json](./210229-crash-mind-over-mutant.json) |
@@ -7077,6 +7080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckold Sex: Episode 5 | 339353 | [339353-cuckold-sex-episode-5.json](./339353-cuckold-sex-episode-5.json) |
 | Cuckoo Castle | 135241 | [135241-cuckoo-castle.json](./135241-cuckoo-castle.json) |
 | Cuckoo Mask | 253983 | [253983-cuckoo-mask.json](./253983-cuckoo-mask.json) |
+| CuckTales | 309448 | [309448-cucktales.json](./309448-cucktales.json) |
 | Cuckwork: Mama pays for her useless son's failures with her body | 82898 | [82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json](./82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json) |
 | Cuco | 68195 | [68195-cuco.json](./68195-cuco.json) |
 | Cucu | 380100 | [380100-cucu.json](./380100-cucu.json) |
