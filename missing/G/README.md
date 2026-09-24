@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet | 7294 | [7294-gauntlet.json](./7294-gauntlet.json) |
 | Gauntlet Arcade Version | 45533 | [45533-gauntlet-arcade-version.json](./45533-gauntlet-arcade-version.json) |
 | Gauntlet Dark Legacy | 3927 | [3927-gauntlet-dark-legacy.json](./3927-gauntlet-dark-legacy.json) |
+| Gauntlet II | 307077 | [307077-gauntlet-ii.json](./307077-gauntlet-ii.json) |
 | Gauntlet II | 3503 | [3503-gauntlet-ii.json](./3503-gauntlet-ii.json) |
 | Gauntlet III: The Final Quest | 7296 | [7296-gauntlet-iii-the-final-quest.json](./7296-gauntlet-iii-the-final-quest.json) |
 | Gauntlet IV | 46214 | [46214-gauntlet-iv.json](./46214-gauntlet-iv.json) |
