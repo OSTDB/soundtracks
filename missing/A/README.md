@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
 | Alex and Der Murder | 396378 | [396378-alex-and-der-murder.json](./396378-alex-and-der-murder.json) |
+| Alex Hill: The Body at Clearwater Bay | 335423 | [335423-alex-hill-the-body-at-clearwater-bay.json](./335423-alex-hill-the-body-at-clearwater-bay.json) |
 | Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
 | Alex Hunter: Lord of the Mind HD | 105936 | [105936-alex-hunter-lord-of-the-mind-hd.json](./105936-alex-hunter-lord-of-the-mind-hd.json) |
 | Alex Kidd and the Miracle Gems | 376442 | [376442-alex-kidd-and-the-miracle-gems.json](./376442-alex-kidd-and-the-miracle-gems.json) |
@@ -3324,6 +3325,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Tourist Season | 151204 | [151204-anno-1800-tourist-season.json](./151204-anno-1800-tourist-season.json) |
 | Anno 2070: Bonus Edition | 180261 | [180261-anno-2070-bonus-edition.json](./180261-anno-2070-bonus-edition.json) |
 | Anno 2070: Royal Edition | 180263 | [180263-anno-2070-royal-edition.json](./180263-anno-2070-royal-edition.json) |
+| Anno 2070: The Crisis Response Package | 335463 | [335463-anno-2070-the-crisis-response-package.json](./335463-anno-2070-the-crisis-response-package.json) |
+| Anno 2070: The Distrust Series Package | 335462 | [335462-anno-2070-the-distrust-series-package.json](./335462-anno-2070-the-distrust-series-package.json) |
 | Anno 2205: Asteroid Miner | 180264 | [180264-anno-2205-asteroid-miner.json](./180264-anno-2205-asteroid-miner.json) |
 | Anno 2205: Frontiers | 24873 | [24873-anno-2205-frontiers.json](./24873-anno-2205-frontiers.json) |
 | Anno 2205: Orbit | 24872 | [24872-anno-2205-orbit.json](./24872-anno-2205-orbit.json) |
