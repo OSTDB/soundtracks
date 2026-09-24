@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandwich | 352206 | [352206-sandwich.json](./352206-sandwich.json) |
 | Sandwich Quest | 387531 | [387531-sandwich-quest.json](./387531-sandwich-quest.json) |
 | Sandwich Runner | 193845 | [193845-sandwich-runner.json](./193845-sandwich-runner.json) |
+| Sandwich Sim | 298133 | [298133-sandwich-sim.json](./298133-sandwich-sim.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
@@ -2425,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
 | SGC: Short Games Collection #1 | 173141 | [173141-sgc-short-games-collection-1.json](./173141-sgc-short-games-collection-1.json) |
+| SGS Battle For: Dien Bien Phu | 298119 | [298119-sgs-battle-for-dien-bien-phu.json](./298119-sgs-battle-for-dien-bien-phu.json) |
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
 | SGS Fall Weiss | 197271 | [197271-sgs-fall-weiss.json](./197271-sgs-fall-weiss.json) |
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
@@ -3090,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift DX | 26737 | [26737-shift-dx.json](./26737-shift-dx.json) |
 | Shift Em Mania | 27906 | [27906-shift-em-mania.json](./27906-shift-em-mania.json) |
 | Shift Extended | 44531 | [44531-shift-extended.json](./44531-shift-extended.json) |
+| Shift Legacy Collection | 298092 | [298092-shift-legacy-collection.json](./298092-shift-legacy-collection.json) |
 | Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
 | Shift'n Slay | 319738 | [319738-shiftn-slay.json](./319738-shiftn-slay.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
@@ -3389,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
+| Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
 | Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
 | Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
@@ -3881,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
 | Silencio | 301909 | [301909-silencio.json](./301909-silencio.json) |
 | SilenGames Bundle 2024 | 331517 | [331517-silengames-bundle-2024.json](./331517-silengames-bundle-2024.json) |
+| Silent | 298086 | [298086-silent.json](./298086-silent.json) |
 | Silent Anomalies | 337071 | [337071-silent-anomalies.json](./337071-silent-anomalies.json) |
 | Silent Authority: Blood & Bourbon | 415876 | [415876-silent-authority-blood-and-bourbon.json](./415876-silent-authority-blood-and-bourbon.json) |
 | Silent Breach | 323267 | [323267-silent-breach.json](./323267-silent-breach.json) |
@@ -3964,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SiliCorp Systems | 321550 | [321550-silicorp-systems.json](./321550-silicorp-systems.json) |
 | Silivri | 376097 | [376097-silivri.json](./376097-silivri.json) |
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
+| Silk Suki: Chat Messaging Game | 298099 | [298099-silk-suki-chat-messaging-game.json](./298099-silk-suki-chat-messaging-game.json) |
 | Silke, Pixelines Lillesøster: Der Bor En Bager | 349491 | [349491-silke-pixelines-lilles-ster-der-bor-en-bager.json](./349491-silke-pixelines-lilles-ster-der-bor-en-bager.json) |
 | Silke, Pixelines Lillesøster: Hønsefødder Og Gulerødder | 349490 | [349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json](./349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json) |
 | Silke, Pixelines Lillesøster: Kan Du Alfabetet? | 349493 | [349493-silke-pixelines-lilles-ster-kan-du-alfabetet.json](./349493-silke-pixelines-lilles-ster-kan-du-alfabetet.json) |
@@ -4456,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate It | 5157 | [5157-skate-it.json](./5157-skate-it.json) |
 | Skate Jam | 251207 | [251207-skate-jam.json](./251207-skate-jam.json) |
 | Skate Mates | 406098 | [406098-skate-mates.json](./406098-skate-mates.json) |
+| Skate O'Clock | 298093 | [298093-skate-oclock.json](./298093-skate-oclock.json) |
 | Skate of Emergency | 74773 | [74773-skate-of-emergency.json](./74773-skate-of-emergency.json) |
 | Skate or Die | 12267 | [12267-skate-or-die.json](./12267-skate-or-die.json) |
 | Skate Samurai | 185096 | [185096-skate-samurai.json](./185096-skate-samurai.json) |
@@ -5046,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
+| Slime Clicker | 298090 | [298090-slime-clicker.json](./298090-slime-clicker.json) |
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
 | Slime Crunch | 114828 | [114828-slime-crunch.json](./114828-slime-crunch.json) |
@@ -6260,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitons | 204096 | [204096-solitons.json](./204096-solitons.json) |
 | Solitude | 163970 | [163970-solitude.json](./163970-solitude.json) |
 | Solitude | 287232 | [287232-solitude.json](./287232-solitude.json) |
+| Solium Infernum: Belphegor, Paragon of Impiety | 298101 | [298101-solium-infernum-belphegor-paragon-of-impiety.json](./298101-solium-infernum-belphegor-paragon-of-impiety.json) |
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
@@ -7022,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
 | Soul King | 213453 | [213453-soul-king.json](./213453-soul-king.json) |
+| Soul King: Out of the Box | 298109 | [298109-soul-king-out-of-the-box.json](./298109-soul-king-out-of-the-box.json) |
 | Soul Knight | 122346 | [122346-soul-knight.json](./122346-soul-knight.json) |
 | Soul Knight Prequel | 277857 | [277857-soul-knight-prequel.json](./277857-soul-knight-prequel.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
@@ -7991,6 +8001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
+| Spellarium 2 | 298089 | [298089-spellarium-2.json](./298089-spellarium-2.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
@@ -8214,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Dasher | 410469 | [410469-spin-dasher.json](./410469-spin-dasher.json) |
 | Spin Doctor | 175389 | [175389-spin-doctor.json](./175389-spin-doctor.json) |
 | Spin Evolution | 116288 | [116288-spin-evolution.json](./116288-spin-evolution.json) |
+| Spin Hero | 298130 | [298130-spin-hero.json](./298130-spin-hero.json) |
 | Spin Jam | 24129 | [24129-spin-jam.json](./24129-spin-jam.json) |
 | Spin Off 2 | 54381 | [54381-spin-off-2.json](./54381-spin-off-2.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
@@ -8297,6 +8309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
 | Spirit Speaker | 335854 | [335854-spirit-speaker.json](./335854-spirit-speaker.json) |
 | Spirit Stones | 39178 | [39178-spirit-stones.json](./39178-spirit-stones.json) |
+| Spirit Swap | 298111 | [298111-spirit-swap.json](./298111-spirit-swap.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spirit Valor | 319702 | [319702-spirit-valor.json](./319702-spirit-valor.json) |
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
@@ -9997,12 +10010,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: BioGenesis | 336706 | [336706-stellaris-biogenesis.json](./336706-stellaris-biogenesis.json) |
 | Stellaris: Console Edition | 111150 | [111150-stellaris-console-edition.json](./111150-stellaris-console-edition.json) |
 | Stellaris: Console Edition - The Royal | 198396 | [198396-stellaris-console-edition-the-royal.json](./198396-stellaris-console-edition-the-royal.json) |
+| Stellaris: Cosmic Storms | 298124 | [298124-stellaris-cosmic-storms.json](./298124-stellaris-cosmic-storms.json) |
 | Stellaris: Distant Stars | 114427 | [114427-stellaris-distant-stars.json](./114427-stellaris-distant-stars.json) |
 | Stellaris: Galaxy Command | 138570 | [138570-stellaris-galaxy-command.json](./138570-stellaris-galaxy-command.json) |
+| Stellaris: Grand Archive | 298125 | [298125-stellaris-grand-archive.json](./298125-stellaris-grand-archive.json) |
 | Stellaris: Humanoids | 114426 | [114426-stellaris-humanoids.json](./114426-stellaris-humanoids.json) |
 | Stellaris: MegaCorp | 111331 | [111331-stellaris-megacorp.json](./111331-stellaris-megacorp.json) |
 | Stellaris: Overlord | 196297 | [196297-stellaris-overlord.json](./196297-stellaris-overlord.json) |
 | Stellaris: Plantoids Species Pack | 215399 | [215399-stellaris-plantoids-species-pack.json](./215399-stellaris-plantoids-species-pack.json) |
+| Stellaris: Rick The Cube Species Portrait | 298132 | [298132-stellaris-rick-the-cube-species-portrait.json](./298132-stellaris-rick-the-cube-species-portrait.json) |
 | Stellaris: Season 08 | 298182 | [298182-stellaris-season-08.json](./298182-stellaris-season-08.json) |
 | Stellaris: Shadows of the Shroud | 336603 | [336603-stellaris-shadows-of-the-shroud.json](./336603-stellaris-shadows-of-the-shroud.json) |
 | Stellaris: The Machine Age | 291611 | [291611-stellaris-the-machine-age.json](./291611-stellaris-the-machine-age.json) |
@@ -10014,6 +10030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
 | Steno Arcade | 33369 | [33369-steno-arcade.json](./33369-steno-arcade.json) |
 | Step Away | 369037 | [369037-step-away.json](./369037-step-away.json) |
+| Step into the Abyss | 298123 | [298123-step-into-the-abyss.json](./298123-step-into-the-abyss.json) |
 | Step Into the Dark | 400365 | [400365-step-into-the-dark.json](./400365-step-into-the-dark.json) |
 | Step Journey | 215711 | [215711-step-journey.json](./215711-step-journey.json) |
 | Step Jun: Koi no Dai Pinch | 385575 | [385575-step-jun-koi-no-dai-pinch.json](./385575-step-jun-koi-no-dai-pinch.json) |
