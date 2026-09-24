@@ -2247,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
 | Alone in the Outback | 226215 | [226215-alone-in-the-outback.json](./226215-alone-in-the-outback.json) |
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
+| Alone in the Stars: Survivor | 334886 | [334886-alone-in-the-stars-survivor.json](./334886-alone-in-the-stars-survivor.json) |
 | Alone on Mars | 165544 | [165544-alone-on-mars.json](./165544-alone-on-mars.json) |
 | Alone To Melt | 365753 | [365753-alone-to-melt.json](./365753-alone-to-melt.json) |
 | Alone With You | 8635 | [8635-alone-with-you.json](./8635-alone-with-you.json) |
@@ -2762,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Empty House | 360730 | [360730-an-empty-house.json](./360730-an-empty-house.json) |
 | An English Haunting | 258723 | [258723-an-english-haunting.json](./258723-an-english-haunting.json) |
 | An Eternity Gone By | 294276 | [294276-an-eternity-gone-by.json](./294276-an-eternity-gone-by.json) |
+| An Idle Nightmare | 334839 | [334839-an-idle-nightmare.json](./334839-an-idle-nightmare.json) |
 | An Imp and an Impostor | 378174 | [378174-an-imp-and-an-impostor.json](./378174-an-imp-and-an-impostor.json) |
 | An Island Away | 293090 | [293090-an-island-away.json](./293090-an-island-away.json) |
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
@@ -2959,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
+| Angelic Agency: Soul Salvation Unit | 334862 | [334862-angelic-agency-soul-salvation-unit.json](./334862-angelic-agency-soul-salvation-unit.json) |
 | Angelic Chaos Re-Boot! | 254480 | [254480-angelic-chaos-re-boot.json](./254480-angelic-chaos-re-boot.json) |
 | Angelic Force Yuki | 82817 | [82817-angelic-force-yuki.json](./82817-angelic-force-yuki.json) |
 | Angelic Syndrome | 310601 | [310601-angelic-syndrome.json](./310601-angelic-syndrome.json) |
@@ -3288,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankh: The Tales of Mystery | 66357 | [66357-ankh-the-tales-of-mystery.json](./66357-ankh-the-tales-of-mystery.json) |
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
 | Ankoku Shinwa: Yamato Takeru Densetsu | 48633 | [48633-ankoku-shinwa-yamato-takeru-densetsu.json](./48633-ankoku-shinwa-yamato-takeru-densetsu.json) |
+| Ankoku-jou | 334900 | [334900-ankoku-jou.json](./334900-ankoku-jou.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
 | Anna & die Liebe | 269557 | [269557-anna-and-die-liebe.json](./269557-anna-and-die-liebe.json) |
 | Anna-san-tachi no Fushigi no Meikyuu | 208405 | [208405-anna-san-tachi-no-fushigi-no-meikyuu.json](./208405-anna-san-tachi-no-fushigi-no-meikyuu.json) |
@@ -3776,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Fish | 52411 | [52411-aqua-fish.json](./52411-aqua-fish.json) |
 | Aqua Forest | 72989 | [72989-aqua-forest.json](./72989-aqua-forest.json) |
 | Aqua Fry | 288331 | [288331-aqua-fry.json](./288331-aqua-fry.json) |
+| Aqua Glide | 334853 | [334853-aqua-glide.json](./334853-aqua-glide.json) |
 | Aqua GT | 3714 | [3714-aqua-gt.json](./3714-aqua-gt.json) |
 | Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
 | Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
