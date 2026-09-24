@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: "Snake Charmer" Bundle | 331497 | [331497-war-thunder-snake-charmer-bundle.json](./331497-war-thunder-snake-charmer-bundle.json) |
 | War Thunder: Al-Khalid-I Bundle | 331494 | [331494-war-thunder-al-khalid-i-bundle.json](./331494-war-thunder-al-khalid-i-bundle.json) |
 | War Thunder: Ancient Helicopter Snail Bundle | 316622 | [316622-war-thunder-ancient-helicopter-snail-bundle.json](./316622-war-thunder-ancient-helicopter-snail-bundle.json) |
+| War Thunder: Ancient Tank Bundle | 303028 | [303028-war-thunder-ancient-tank-bundle.json](./303028-war-thunder-ancient-tank-bundle.json) |
 | War Thunder: AV-8B Night Attack Bundle | 331501 | [331501-war-thunder-av-8b-night-attack-bundle.json](./331501-war-thunder-av-8b-night-attack-bundle.json) |
 | War Thunder: Challenger DS Pack | 336933 | [336933-war-thunder-challenger-ds-pack.json](./336933-war-thunder-challenger-ds-pack.json) |
 | War Thunder: Ground Forces | 115024 | [115024-war-thunder-ground-forces.json](./115024-war-thunder-ground-forces.json) |
@@ -897,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Star Adventure | 215770 | [215770-water-star-adventure.json](./215770-water-star-adventure.json) |
 | Water Surfer Bus | 202766 | [202766-water-surfer-bus.json](./202766-water-surfer-bus.json) |
 | Water Tower | 336384 | [336384-water-tower.json](./336384-water-tower.json) |
+| Water: Transformer | 303048 | [303048-water-transformer.json](./303048-water-transformer.json) |
 | Waterbed | 178668 | [178668-waterbed.json](./178668-waterbed.json) |
 | Watercolors Sink Beneath the Surface | 404254 | [404254-watercolors-sink-beneath-the-surface.json](./404254-watercolors-sink-beneath-the-surface.json) |
 | Waterfall | 251196 | [251196-waterfall.json](./251196-waterfall.json) |
