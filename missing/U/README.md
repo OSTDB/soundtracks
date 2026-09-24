@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Business | 406924 | [406924-underground-business.json](./406924-underground-business.json) |
 | Underground Defense Force: Sword and Sorcery and Swarm of Insects | 270108 | [270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json](./270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json) |
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
+| Underground Fortress | 308360 | [308360-underground-fortress.json](./308360-underground-fortress.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
 | Underground Nomads | 369094 | [369094-underground-nomads.json](./369094-underground-nomads.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
@@ -1036,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Golf | 154408 | [154408-unreal-golf.json](./154408-unreal-golf.json) |
 | Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
+| Unreal Match 3 | 308364 | [308364-unreal-match-3.json](./308364-unreal-match-3.json) |
 | Unreal Maze Survival | 116107 | [116107-unreal-maze-survival.json](./116107-unreal-maze-survival.json) |
 | Unreal Tournament 2004 | 927 | [927-unreal-tournament-2004.json](./927-unreal-tournament-2004.json) |
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
