@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
 | Cabernet | 250803 | [250803-cabernet.json](./250803-cabernet.json) |
+| Cabin Crew Life Simulator | 302423 | [302423-cabin-crew-life-simulator.json](./302423-cabin-crew-life-simulator.json) |
 | Cabin of Souls | 254002 | [254002-cabin-of-souls.json](./254002-cabin-of-souls.json) |
 | Cabinet of Curiosities VR | 201691 | [201691-cabinet-of-curiosities-vr.json](./201691-cabinet-of-curiosities-vr.json) |
 | Cabins: Jigsaw Puzzles | 103465 | [103465-cabins-jigsaw-puzzles.json](./103465-cabins-jigsaw-puzzles.json) |
@@ -4178,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Meat | 166716 | [166716-cold-meat.json](./166716-cold-meat.json) |
 | Cold Pines | 391877 | [391877-cold-pines.json](./391877-cold-pines.json) |
 | Cold Scream | 172027 | [172027-cold-scream.json](./172027-cold-scream.json) |
+| Cold Shift | 302481 | [302481-cold-shift.json](./302481-cold-shift.json) |
 | Cold Snap | 401621 | [401621-cold-snap.json](./401621-cold-snap.json) |
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
 | Cold Steel | 373518 | [373518-cold-steel.json](./373518-cold-steel.json) |
@@ -7180,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcakes and Critters | 63560 | [63560-cupcakes-and-critters.json](./63560-cupcakes-and-critters.json) |
 | Cuphead | 237497 | [237497-cuphead.json](./237497-cuphead.json) |
 | Cuphead Wii U | 357448 | [357448-cuphead-wii-u.json](./357448-cuphead-wii-u.json) |
+| Cupiclaw | 302430 | [302430-cupiclaw.json](./302430-cupiclaw.json) |
 | Cupid | 253362 | [253362-cupid.json](./253362-cupid.json) |
 | Cupid Bistro!! | 72659 | [72659-cupid-bistro.json](./72659-cupid-bistro.json) |
 | Cupid Bistro!! 2 | 264338 | [264338-cupid-bistro-2.json](./264338-cupid-bistro-2.json) |
