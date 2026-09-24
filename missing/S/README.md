@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
 | Sandspiel | 146869 | [146869-sandspiel.json](./146869-sandspiel.json) |
+| Sandstorm Strike Force | 288294 | [288294-sandstorm-strike-force.json](./288294-sandstorm-strike-force.json) |
 | SandTest | 146870 | [146870-sandtest.json](./146870-sandtest.json) |
 | Sandtrix | 251225 | [251225-sandtrix.json](./251225-sandtrix.json) |
 | Sandtrix+ | 280778 | [280778-sandtrix.json](./280778-sandtrix.json) |
@@ -5568,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 125831 | [125831-snake.json](./125831-snake.json) |
 | Snake | 170467 | [170467-snake.json](./170467-snake.json) |
 | Snake | 186242 | [186242-snake.json](./186242-snake.json) |
+| Snake | 288267 | [288267-snake.json](./288267-snake.json) |
 | Snake | 294214 | [294214-snake.json](./294214-snake.json) |
 | Snake | 305744 | [305744-snake.json](./305744-snake.json) |
 | Snake | 307608 | [307608-snake.json](./307608-snake.json) |
@@ -5927,6 +5929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy: Space Trip | 69835 | [69835-snowy-space-trip.json](./69835-snowy-space-trip.json) |
 | Snowy: Treasure Hunter | 52855 | [52855-snowy-treasure-hunter.json](./52855-snowy-treasure-hunter.json) |
 | Snufkin: Melody of Moominvalley | 180149 | [180149-snufkin-melody-of-moominvalley.json](./180149-snufkin-melody-of-moominvalley.json) |
+| Snufkin: Melody of Moominvalley - Cherished Keepsakes | 288289 | [288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json](./288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json) |
 | Snug Finder | 207879 | [207879-snug-finder.json](./207879-snug-finder.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
 | Snuggle Nightmare | 404430 | [404430-snuggle-nightmare.json](./404430-snuggle-nightmare.json) |
@@ -8567,7 +8570,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
 | Sport & Fun: Swimming - Director's Cut | 271834 | [271834-sport-and-fun-swimming-directors-cut.json](./271834-sport-and-fun-swimming-directors-cut.json) |
 | Sport & Fun: Swimming - Platinum Edition | 268547 | [268547-sport-and-fun-swimming-platinum-edition.json](./268547-sport-and-fun-swimming-platinum-edition.json) |
+| Sport & Fun: Swimming - Superb Edition | 288281 | [288281-sport-and-fun-swimming-superb-edition.json](./288281-sport-and-fun-swimming-superb-edition.json) |
 | Sport & Fun: Swimming - Ultimate Edition | 243370 | [243370-sport-and-fun-swimming-ultimate-edition.json](./243370-sport-and-fun-swimming-ultimate-edition.json) |
+| Sport & Fun: Swimming - Ultra Deluxe | 288280 | [288280-sport-and-fun-swimming-ultra-deluxe.json](./288280-sport-and-fun-swimming-ultra-deluxe.json) |
 | Sport & Fun: Swimming - Ultra Director's Cut | 328835 | [328835-sport-and-fun-swimming-ultra-directors-cut.json](./328835-sport-and-fun-swimming-ultra-directors-cut.json) |
 | Sport & Fun: Swimming - Ultra Extended | 328834 | [328834-sport-and-fun-swimming-ultra-extended.json](./328834-sport-and-fun-swimming-ultra-extended.json) |
 | Sport & Fun: Swimming - Ultra Legendary | 328833 | [328833-sport-and-fun-swimming-ultra-legendary.json](./328833-sport-and-fun-swimming-ultra-legendary.json) |
@@ -12376,6 +12381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Mania - Launch Edition | 323951 | [323951-super-monkey-ball-banana-mania-launch-edition.json](./323951-super-monkey-ball-banana-mania-launch-edition.json) |
 | Super Monkey Ball: Banana Rumble - Amy | 309079 | [309079-super-monkey-ball-banana-rumble-amy.json](./309079-super-monkey-ball-banana-rumble-amy.json) |
 | Super Monkey Ball: Banana Rumble - Crewmate | 330551 | [330551-super-monkey-ball-banana-rumble-crewmate.json](./330551-super-monkey-ball-banana-rumble-crewmate.json) |
+| Super Monkey Ball: Banana Rumble - Digital Deluxe Edition | 288279 | [288279-super-monkey-ball-banana-rumble-digital-deluxe-edition.json](./288279-super-monkey-ball-banana-rumble-digital-deluxe-edition.json) |
 | Super Monkey Ball: Banana Rumble - Dole Logo Sticker Ball | 332227 | [332227-super-monkey-ball-banana-rumble-dole-logo-sticker-ball.json](./332227-super-monkey-ball-banana-rumble-dole-logo-sticker-ball.json) |
 | Super Monkey Ball: Banana Rumble - Godzilla | 322748 | [322748-super-monkey-ball-banana-rumble-godzilla.json](./322748-super-monkey-ball-banana-rumble-godzilla.json) |
 | Super Monkey Ball: Banana Rumble - Hatsune Miku | 322749 | [322749-super-monkey-ball-banana-rumble-hatsune-miku.json](./322749-super-monkey-ball-banana-rumble-hatsune-miku.json) |
