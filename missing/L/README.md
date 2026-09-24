@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
 | Lilith Was Dead | 163839 | [163839-lilith-was-dead.json](./163839-lilith-was-dead.json) |
 | Lilith's Game | 339998 | [339998-liliths-game.json](./339998-liliths-game.json) |
+| Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
@@ -2816,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopover | 311987 | [311987-loopover.json](./311987-loopover.json) |
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopr | 391163 | [391163-loopr.json](./391163-loopr.json) |
+| Loopstructor | 296978 | [296978-loopstructor.json](./296978-loopstructor.json) |
 | Loopy Ball | 239290 | [239290-loopy-ball.json](./239290-loopy-ball.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
 | Loopy Tennis | 317228 | [317228-loopy-tennis.json](./317228-loopy-tennis.json) |
@@ -3239,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hotel Manager | 351602 | [351602-love-hotel-manager.json](./351602-love-hotel-manager.json) |
 | Love Hotel Simulator | 410920 | [410920-love-hotel-simulator.json](./410920-love-hotel-simulator.json) |
 | Love Hues! | 134674 | [134674-love-hues.json](./134674-love-hues.json) |
+| Love Idol Maker | 297014 | [297014-love-idol-maker.json](./297014-love-idol-maker.json) |
 | Love In Drawing | 112461 | [112461-love-in-drawing.json](./112461-love-in-drawing.json) |
 | Love in Lockdown: Eli Version | 215772 | [215772-love-in-lockdown-eli-version.json](./215772-love-in-lockdown-eli-version.json) |
 | Love in the Crimson Void | 288898 | [288898-love-in-the-crimson-void.json](./288898-love-in-the-crimson-void.json) |
