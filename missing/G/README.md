@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave | 7411 | [7411-grave.json](./7411-grave.json) |
 | Grave Danger: Ultimate Edition | 84531 | [84531-grave-danger-ultimate-edition.json](./84531-grave-danger-ultimate-edition.json) |
 | Grave Deceiver | 327332 | [327332-grave-deceiver.json](./327332-grave-deceiver.json) |
+| Grave Digger | 287145 | [287145-grave-digger.json](./287145-grave-digger.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
