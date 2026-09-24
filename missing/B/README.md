@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
 | Bacchus | 121626 | [121626-bacchus.json](./121626-bacchus.json) |
 | Bachelairs | 331357 | [331357-bachelairs.json](./331357-bachelairs.json) |
+| Bachelorette Party | 313834 | [313834-bachelorette-party.json](./313834-bachelorette-party.json) |
 | Back | 309502 | [309502-back.json](./309502-back.json) |
 | Back & Forth 2 | 263586 | [263586-back-and-forth-2.json](./263586-back-and-forth-2.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
@@ -3998,6 +3999,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood and Zombies: Gold Edition | 241966 | [241966-blood-and-zombies-gold-edition.json](./241966-blood-and-zombies-gold-edition.json) |
 | Blood Bar Tycoon | 290914 | [290914-blood-bar-tycoon.json](./290914-blood-bar-tycoon.json) |
 | Blood Bond: Into the Shroud | 105276 | [105276-blood-bond-into-the-shroud.json](./105276-blood-bond-into-the-shroud.json) |
+| Blood Bound | 313823 | [313823-blood-bound.json](./313823-blood-bound.json) |
+| Blood Bound II | 313824 | [313824-blood-bound-ii.json](./313824-blood-bound-ii.json) |
+| Blood Bound III | 313825 | [313825-blood-bound-iii.json](./313825-blood-bound-iii.json) |
+| Blood Bound Origins | 313827 | [313827-blood-bound-origins.json](./313827-blood-bound-origins.json) |
+| Blood Bound: Dark Solstice | 313826 | [313826-blood-bound-dark-solstice.json](./313826-blood-bound-dark-solstice.json) |
 | Blood Bowl 2: Chaos Dwarfs | 341551 | [341551-blood-bowl-2-chaos-dwarfs.json](./341551-blood-bowl-2-chaos-dwarfs.json) |
 | Blood Bowl 2: Khemri | 150608 | [150608-blood-bowl-2-khemri.json](./150608-blood-bowl-2-khemri.json) |
 | Blood Bowl 2: Legendary Edition | 27696 | [27696-blood-bowl-2-legendary-edition.json](./27696-blood-bowl-2-legendary-edition.json) |
