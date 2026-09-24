@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kid | 68360 | [68360-ninja-kid.json](./68360-ninja-kid.json) |
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
 | Ninja Leagues: Masters of The Mystic Arts | 158048 | [158048-ninja-leagues-masters-of-the-mystic-arts.json](./158048-ninja-leagues-masters-of-the-mystic-arts.json) |
+| Ninja Maker | 286058 | [286058-ninja-maker.json](./286058-ninja-maker.json) |
 | Ninja Massacre | 75503 | [75503-ninja-massacre.json](./75503-ninja-massacre.json) |
 | Ninja Master Toru | 332530 | [332530-ninja-master-toru.json](./332530-ninja-master-toru.json) |
 | Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
@@ -2296,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Way Out | 239677 | [239677-no-way-out.json](./239677-no-way-out.json) |
 | No Way Out | 30104 | [30104-no-way-out.json](./30104-no-way-out.json) |
 | No Wings Required | 394322 | [394322-no-wings-required.json](./394322-no-wings-required.json) |
+| No Worries | 286065 | [286065-no-worries.json](./286065-no-worries.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
