@@ -4395,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
 | Archipelago | 201184 | [201184-archipelago.json](./201184-archipelago.json) |
+| Archipelago | 301364 | [301364-archipelago.json](./301364-archipelago.json) |
 | Archipelago | 303100 | [303100-archipelago.json](./303100-archipelago.json) |
 | Archipelago Explorer | 302497 | [302497-archipelago-explorer.json](./302497-archipelago-explorer.json) |
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
