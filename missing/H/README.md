@@ -3185,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holey Ship | 408186 | [408186-holey-ship.json](./408186-holey-ship.json) |
 | Holfraine | 132157 | [132157-holfraine.json](./132157-holfraine.json) |
 | HolgiMan | 94213 | [94213-holgiman.json](./94213-holgiman.json) |
+| Holi-Zone 97 | 323269 | [323269-holi-zone-97.json](./323269-holi-zone-97.json) |
 | Holiday After Special | 310965 | [310965-holiday-after-special.json](./310965-holiday-after-special.json) |
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
@@ -3574,6 +3575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Step Sing! Summer Live 2023 | 340483 | [340483-hop-step-sing-summer-live-2023.json](./340483-hop-step-sing-summer-live-2023.json) |
 | Hop Swap | 233595 | [233595-hop-swap.json](./233595-hop-swap.json) |
 | Hop Top | 289472 | [289472-hop-top.json](./289472-hop-top.json) |
+| Hop Up | 323308 | [323308-hop-up.json](./323308-hop-up.json) |
 | Hop: The Movie | 254792 | [254792-hop-the-movie.json](./254792-hop-the-movie.json) |
 | Hop'N'Hoard | 394846 | [394846-hopnhoard.json](./394846-hopnhoard.json) |
 | Hopa: Mini test Quest | 183999 | [183999-hopa-mini-test-quest.json](./183999-hopa-mini-test-quest.json) |
@@ -4682,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
 | Hypno's Lullaby | 140537 | [140537-hypnos-lullaby.json](./140537-hypnos-lullaby.json) |
 | HypnoQuest: Do as you please with MC Power | 82779 | [82779-hypnoquest-do-as-you-please-with-mc-power.json](./82779-hypnoquest-do-as-you-please-with-mc-power.json) |
+| Hypnorynth | 323294 | [323294-hypnorynth.json](./323294-hypnorynth.json) |
 | Hypnosis Card 2 | 296917 | [296917-hypnosis-card-2.json](./296917-hypnosis-card-2.json) |
 | Hypnosis Done Braves | 82926 | [82926-hypnosis-done-braves.json](./82926-hypnosis-done-braves.json) |
 | Hypnosis Microphone: Alternative Rap Battle | 132016 | [132016-hypnosis-microphone-alternative-rap-battle.json](./132016-hypnosis-microphone-alternative-rap-battle.json) |
