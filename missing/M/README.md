@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Roadkill | 92319 | [92319-maximum-roadkill.json](./92319-maximum-roadkill.json) |
 | Maximum Sports Gold Collection | 406799 | [406799-maximum-sports-gold-collection.json](./406799-maximum-sports-gold-collection.json) |
 | Maximum Surge | 94175 | [94175-maximum-surge.json](./94175-maximum-surge.json) |
+| Maximus | 333766 | [333766-maximus.json](./333766-maximus.json) |
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
