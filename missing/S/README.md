@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.U.M. Slay Uncool Monsters: Wizard | 168249 | [168249-s-u-m-slay-uncool-monsters-wizard.json](./168249-s-u-m-slay-uncool-monsters-wizard.json) |
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
 | S4Game | 213463 | [213463-s4game.json](./213463-s4game.json) |
+| S4U: Citypunk 2011 and Love Punch | 303000 | [303000-s4u-citypunk-2011-and-love-punch.json](./303000-s4u-citypunk-2011-and-love-punch.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
 | Saaam | 108848 | [108848-saaam.json](./108848-saaam.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
@@ -3509,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Mall Parking | 233757 | [233757-shopping-mall-parking.json](./233757-shopping-mall-parking.json) |
 | Shopping Mall Smart Taxi: Family Car Taxi Games | 104619 | [104619-shopping-mall-smart-taxi-family-car-taxi-games.json](./104619-shopping-mall-smart-taxi-family-car-taxi-games.json) |
 | Shopping Manager | 255761 | [255761-shopping-manager.json](./255761-shopping-manager.json) |
+| Shopping Sort | 303046 | [303046-shopping-sort.json](./303046-shopping-sort.json) |
 | Shopping Spree | 349871 | [349871-shopping-spree.json](./349871-shopping-spree.json) |
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
 | Shore Doodle | 340373 | [340373-shore-doodle.json](./340373-shore-doodle.json) |
@@ -10252,6 +10254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories of Somnia | 353378 | [353378-stories-of-somnia.json](./353378-stories-of-somnia.json) |
 | Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
+| Stories of the Dreaming World | 303009 | [303009-stories-of-the-dreaming-world.json](./303009-stories-of-the-dreaming-world.json) |
 | Stories One | 264678 | [264678-stories-one.json](./264678-stories-one.json) |
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
 | Stories Untold | 27094 | [27094-stories-untold.json](./27094-stories-untold.json) |
