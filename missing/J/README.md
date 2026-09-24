@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joust Pong | 40762 | [40762-joust-pong.json](./40762-joust-pong.json) |
 | Joust X | 297469 | [297469-joust-x.json](./297469-joust-x.json) |
 | Joustaposition | 181371 | [181371-joustaposition.json](./181371-joustaposition.json) |
+| Jousting in January | 290491 | [290491-jousting-in-january.json](./290491-jousting-in-january.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
 | Jovian Drive | 343463 | [343463-jovian-drive.json](./343463-jovian-drive.json) |
