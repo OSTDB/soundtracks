@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
 | Last | 356627 | [356627-last.json](./356627-last.json) |
 | Last $50 | 400954 | [400954-last-50.json](./400954-last-50.json) |
+| Last 4 Survive: The Outbreak | 287158 | [287158-last-4-survive-the-outbreak.json](./287158-last-4-survive-the-outbreak.json) |
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
@@ -1041,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Tales | 157175 | [157175-legendary-tales.json](./157175-legendary-tales.json) |
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
 | Legendary Tales: Dawn of History | 413598 | [413598-legendary-tales-dawn-of-history.json](./413598-legendary-tales-dawn-of-history.json) |
+| Legendary Tales: Stories | 287165 | [287165-legendary-tales-stories.json](./287165-legendary-tales-stories.json) |
 | Legendary Wars | 63233 | [63233-legendary-wars.json](./63233-legendary-wars.json) |
 | Legendary Wings | 288843 | [288843-legendary-wings.json](./288843-legendary-wings.json) |
 | Legendary Wings | 39705 | [39705-legendary-wings.json](./39705-legendary-wings.json) |
@@ -2001,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line 88 | 240472 | [240472-line-88.json](./240472-line-88.json) |
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
 | Line Bubble 2 | 247207 | [247207-line-bubble-2.json](./247207-line-bubble-2.json) |
+| Line Color World | 287168 | [287168-line-color-world.json](./287168-line-color-world.json) |
 | Line Crossing | 128580 | [128580-line-crossing.json](./128580-line-crossing.json) |
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
@@ -2512,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lo and Behold | 371874 | [371874-lo-and-behold.json](./371874-lo-and-behold.json) |
 | Lo-fi | 179620 | [179620-lo-fi.json](./179620-lo-fi.json) |
 | Lo-Fi Golf | 360684 | [360684-lo-fi-golf.json](./360684-lo-fi-golf.json) |
+| Lo-Fi Haiku: Coffee and Chill | 287166 | [287166-lo-fi-haiku-coffee-and-chill.json](./287166-lo-fi-haiku-coffee-and-chill.json) |
 | Lo-Friction | 369199 | [369199-lo-friction.json](./369199-lo-friction.json) |
 | Lo-Rez | 285054 | [285054-lo-rez.json](./285054-lo-rez.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
