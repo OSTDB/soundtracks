@@ -2664,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Starless Rivers | 285438 | [285438-five-starless-rivers.json](./285438-five-starless-rivers.json) |
 | Five Stars | 233492 | [233492-five-stars.json](./233492-five-stars.json) |
 | Five Stars | 365870 | [365870-five-stars.json](./365870-five-stars.json) |
+| Five Unreal Nights at Candy's | 288853 | [288853-five-unreal-nights-at-candys.json](./288853-five-unreal-nights-at-candys.json) |
 | Five-A-Side Soccer | 84235 | [84235-five-a-side-soccer.json](./84235-five-a-side-soccer.json) |
 | Five-element Seal: Infinity | 309523 | [309523-five-element-seal-infinity.json](./309523-five-element-seal-infinity.json) |
 | Five-O Deluxe | 104103 | [104103-five-o-deluxe.json](./104103-five-o-deluxe.json) |
@@ -3851,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken | 718 | [718-forsaken.json](./718-forsaken.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Denizen | 395004 | [395004-forsaken-denizen.json](./395004-forsaken-denizen.json) |
+| Forsaken Frontiers | 288820 | [288820-forsaken-frontiers.json](./288820-forsaken-frontiers.json) |
 | Forsaken Isle | 35819 | [35819-forsaken-isle.json](./35819-forsaken-isle.json) |
 | Forsaken Isles: Xenia's Defense | 295836 | [295836-forsaken-isles-xenias-defense.json](./295836-forsaken-isles-xenias-defense.json) |
 | Forsaken Kingdom | 391853 | [391853-forsaken-kingdom.json](./391853-forsaken-kingdom.json) |
@@ -4939,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Sergeant | 189108 | [189108-full-metal-sergeant.json](./189108-full-metal-sergeant.json) |
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
 | Full Moon Guildhouse Simulator | 366251 | [366251-full-moon-guildhouse-simulator.json](./366251-full-moon-guildhouse-simulator.json) |
+| Full of Crap | 288838 | [288838-full-of-crap.json](./288838-full-of-crap.json) |
 | Full Pipe | 28982 | [28982-full-pipe.json](./28982-full-pipe.json) |
 | Full Pitch | 115685 | [115685-full-pitch.json](./115685-full-pitch.json) |
 | Full Spectrum Gradient | 342717 | [342717-full-spectrum-gradient.json](./342717-full-spectrum-gradient.json) |
@@ -5106,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
 | Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
+| Furniture: Build & Repair | 288864 | [288864-furniture-build-and-repair.json](./288864-furniture-build-and-repair.json) |
 | Furopon World | 85822 | [85822-furopon-world.json](./85822-furopon-world.json) |
 | Furries & Scalies & Bears Oh My! 2: Return to Kale Bay | 169296 | [169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json](./169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json) |
 | Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea | 254146 | [254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json](./254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json) |
