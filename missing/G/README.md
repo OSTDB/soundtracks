@@ -1508,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giants | 405057 | [405057-giants.json](./405057-giants.json) |
 | Giants War | 103492 | [103492-giants-war.json](./103492-giants-war.json) |
 | Giants: Citizen Kabuto | 34 | [34-giants-citizen-kabuto.json](./34-giants-citizen-kabuto.json) |
+| Gibberish | 317378 | [317378-gibberish.json](./317378-gibberish.json) |
 | Gibbets 2 | 343809 | [343809-gibbets-2.json](./343809-gibbets-2.json) |
 | Gibbonacci | 410992 | [410992-gibbonacci.json](./410992-gibbonacci.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
@@ -2395,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
 | Golf Resort Tycoon II | 23465 | [23465-golf-resort-tycoon-ii.json](./23465-golf-resort-tycoon-ii.json) |
+| Golf Shiyou yo 2: Aratanaru Chousen | 317349 | [317349-golf-shiyou-yo-2-aratanaru-chousen.json](./317349-golf-shiyou-yo-2-aratanaru-chousen.json) |
 | Golf Solitaire | 366432 | [366432-golf-solitaire.json](./366432-golf-solitaire.json) |
 | Golf Solitaire Pro | 88299 | [88299-golf-solitaire-pro.json](./88299-golf-solitaire-pro.json) |
 | Golf Solitaire Simple | 186246 | [186246-golf-solitaire-simple.json](./186246-golf-solitaire-simple.json) |
