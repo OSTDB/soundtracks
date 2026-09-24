@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paloo Spiral | 369200 | [369200-paloo-spiral.json](./369200-paloo-spiral.json) |
 | Palphone-Sama: Curse Call | 189107 | [189107-palphone-sama-curse-call.json](./189107-palphone-sama-curse-call.json) |
 | Palps | 292001 | [292001-palps.json](./292001-palps.json) |
+| Palpus X: Annihilation | 327993 | [327993-palpus-x-annihilation.json](./327993-palpus-x-annihilation.json) |
 | Pals Go Only Up! | 295774 | [295774-pals-go-only-up.json](./295774-pals-go-only-up.json) |
 | PalSync | 341599 | [341599-palsync.json](./341599-palsync.json) |
 | PalWar | 371275 | [371275-palwar.json](./371275-palwar.json) |
@@ -4865,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pre-Odyssey: Odysseus, Penelope and Her Ducks | 204550 | [204550-pre-odyssey-odysseus-penelope-and-her-ducks.json](./204550-pre-odyssey-odysseus-penelope-and-her-ducks.json) |
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
 | Prebillian | 40398 | [40398-prebillian.json](./40398-prebillian.json) |
+| Precept | 328001 | [328001-precept.json](./328001-precept.json) |
 | Prechara! Daifugo | 283757 | [283757-prechara-daifugo.json](./283757-prechara-daifugo.json) |
 | Precious: Naze Shou ha Kami ni Idonda no ka? | 345543 | [345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json](./345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json) |
 | Precipice | 111937 | [111937-precipice.json](./111937-precipice.json) |
@@ -6012,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
 | Ptolem's Singing Catacombs | 374177 | [374177-ptolems-singing-catacombs.json](./374177-ptolems-singing-catacombs.json) |
 | PTS: Coach | 383395 | [383395-pts-coach.json](./383395-pts-coach.json) |
+| Pual Blarp Ghoul Cop | 327945 | [327945-pual-blarp-ghoul-cop.json](./327945-pual-blarp-ghoul-cop.json) |
 | Pub Encounter | 33397 | [33397-pub-encounter.json](./33397-pub-encounter.json) |
 | Pub Fascination | 226735 | [226735-pub-fascination.json](./226735-pub-fascination.json) |
 | Pub Games | 399605 | [399605-pub-games.json](./399605-pub-games.json) |
