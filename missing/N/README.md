@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
 | Nairo High School: Seishun Hakusho | 52611 | [52611-nairo-high-school-seishun-hakusho.json](./52611-nairo-high-school-seishun-hakusho.json) |
 | NaissanceE | 8116 | [8116-naissancee.json](./8116-naissancee.json) |
+| Naisu Gaisu Survivors | 305871 | [305871-naisu-gaisu-survivors.json](./305871-naisu-gaisu-survivors.json) |
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
 | Nak | 330344 | [330344-nak.json](./330344-nak.json) |
 | Nak Sim: Fallen Warriors | 153380 | [153380-nak-sim-fallen-warriors.json](./153380-nak-sim-fallen-warriors.json) |
