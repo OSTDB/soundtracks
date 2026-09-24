@@ -3534,8 +3534,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footy Ball Tournament 2018 | 104050 | [104050-footy-ball-tournament-2018.json](./104050-footy-ball-tournament-2018.json) |
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
 | For a Place by the Putrid Sea | 297600 | [297600-for-a-place-by-the-putrid-sea.json](./297600-for-a-place-by-the-putrid-sea.json) |
+| For a Vast Future: Colour Palette 8 | 288307 | [288307-for-a-vast-future-colour-palette-8.json](./288307-for-a-vast-future-colour-palette-8.json) |
 | For a Vast Future: Definitive Edition | 283148 | [283148-for-a-vast-future-definitive-edition.json](./283148-for-a-vast-future-definitive-edition.json) |
 | For a Vast Future: Deluxe Edition | 268557 | [268557-for-a-vast-future-deluxe-edition.json](./268557-for-a-vast-future-deluxe-edition.json) |
+| For a Vast Future: Legendary Edition | 288287 | [288287-for-a-vast-future-legendary-edition.json](./288287-for-a-vast-future-legendary-edition.json) |
 | For a Vast Future: Premium Edition | 283149 | [283149-for-a-vast-future-premium-edition.json](./283149-for-a-vast-future-premium-edition.json) |
 | For All the People I Love | 336894 | [336894-for-all-the-people-i-love.json](./336894-for-all-the-people-i-love.json) |
 | For Double | 255155 | [255155-for-double.json](./255155-for-double.json) |
@@ -4611,6 +4613,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
 | Frogger | 246398 | [246398-frogger.json](./246398-frogger.json) |
 | Frogger | 282741 | [282741-frogger.json](./282741-frogger.json) |
+| Frogger | 288260 | [288260-frogger.json](./288260-frogger.json) |
+| Frogger | 288264 | [288264-frogger.json](./288264-frogger.json) |
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger Evolution | 218547 | [218547-frogger-evolution.json](./218547-frogger-evolution.json) |
 | Frogger HD | 99998 | [99998-frogger-hd.json](./99998-frogger-hd.json) |
