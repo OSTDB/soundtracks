@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
+| Ah Nanjarin | 284418 | [284418-ah-nanjarin.json](./284418-ah-nanjarin.json) |
 | AH-64D Longbow | 592 | [592-ah-64d-longbow.json](./592-ah-64d-longbow.json) |
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
@@ -3555,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day to Die | 373752 | [373752-another-day-to-die.json](./373752-another-day-to-die.json) |
 | Another Day with You | 309519 | [309519-another-day-with-you.json](./309519-another-day-with-you.json) |
 | Another Day? | 409695 | [409695-another-day.json](./409695-another-day.json) |
+| Another Door | 284403 | [284403-another-door.json](./284403-another-door.json) |
 | Another Earth | 276852 | [276852-another-earth.json](./276852-another-earth.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
