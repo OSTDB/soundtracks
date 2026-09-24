@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank vs. Tank GOTY Edition | 395684 | [395684-tank-vs-tank-goty-edition.json](./395684-tank-vs-tank-goty-edition.json) |
 | Tank vs. Tank: Deluxe Edition | 332507 | [332507-tank-vs-tank-deluxe-edition.json](./332507-tank-vs-tank-deluxe-edition.json) |
 | Tank vs. Tank: Discovery Edition | 400205 | [400205-tank-vs-tank-discovery-edition.json](./400205-tank-vs-tank-discovery-edition.json) |
+| Tank vs. Tank: Prime Edition | 333727 | [333727-tank-vs-tank-prime-edition.json](./333727-tank-vs-tank-prime-edition.json) |
 | Tank War Defender 3 | 175405 | [175405-tank-war-defender-3.json](./175405-tank-war-defender-3.json) |
 | Tank War Nexus | 149080 | [149080-tank-war-nexus.json](./149080-tank-war-nexus.json) |
 | Tank Warfare: El Guettar | 154531 | [154531-tank-warfare-el-guettar.json](./154531-tank-warfare-el-guettar.json) |
@@ -5551,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Political Machine 2024: Cabinet of Curiosities | 275697 | [275697-the-political-machine-2024-cabinet-of-curiosities.json](./275697-the-political-machine-2024-cabinet-of-curiosities.json) |
 | The Political Process | 127113 | [127113-the-political-process.json](./127113-the-political-process.json) |
 | The Pong P | 219177 | [219177-the-pong-p.json](./219177-the-pong-p.json) |
+| The Pools | 333740 | [333740-the-pools.json](./333740-the-pools.json) |
 | The Posthumous Investigation | 255719 | [255719-the-posthumous-investigation.json](./255719-the-posthumous-investigation.json) |
 | The Postman Only Dies Once | 71245 | [71245-the-postman-only-dies-once.json](./71245-the-postman-only-dies-once.json) |
 | The Potion Master | 232549 | [232549-the-potion-master.json](./232549-the-potion-master.json) |
@@ -7401,6 +7403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
 | Thieves of Dingirra | 304694 | [304694-thieves-of-dingirra.json](./304694-thieves-of-dingirra.json) |
 | Thieves World | 297467 | [297467-thieves-world.json](./297467-thieves-world.json) |
+| Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
 | Thing Thing 2 | 92452 | [92452-thing-thing-2.json](./92452-thing-thing-2.json) |
 | Thing Thing Collection | 131991 | [131991-thing-thing-collection.json](./131991-thing-thing-collection.json) |
@@ -9616,6 +9619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Attila - The Last Roman Campaign Pack | 53815 | [53815-total-war-attila-the-last-roman-campaign-pack.json](./53815-total-war-attila-the-last-roman-campaign-pack.json) |
 | Total War: Elysium | 121439 | [121439-total-war-elysium.json](./121439-total-war-elysium.json) |
 | Total War: New World | 356258 | [356258-total-war-new-world.json](./356258-total-war-new-world.json) |
+| Total War: Pharaoh Dynasties | 333730 | [333730-total-war-pharaoh-dynasties.json](./333730-total-war-pharaoh-dynasties.json) |
 | Total War: Rome II - Black Sea Colonies | 53824 | [53824-total-war-rome-ii-black-sea-colonies.json](./53824-total-war-rome-ii-black-sea-colonies.json) |
 | Total War: Rome II - Blood & Gore | 53826 | [53826-total-war-rome-ii-blood-and-gore.json](./53826-total-war-rome-ii-blood-and-gore.json) |
 | Total War: Rome II - Campaign Pack: Wrath of Sparta | 53830 | [53830-total-war-rome-ii-campaign-pack-wrath-of-sparta.json](./53830-total-war-rome-ii-campaign-pack-wrath-of-sparta.json) |
@@ -10552,6 +10556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Traffic Manager: Deluxe Edition | 298576 | [298576-train-traffic-manager-deluxe-edition.json](./298576-train-traffic-manager-deluxe-edition.json) |
 | Train Traffic Manager: Diamond Edition | 317244 | [317244-train-traffic-manager-diamond-edition.json](./317244-train-traffic-manager-diamond-edition.json) |
 | Train Traffic Manager: Gold Edition | 308794 | [308794-train-traffic-manager-gold-edition.json](./308794-train-traffic-manager-gold-edition.json) |
+| Train Traffic Manager: GOTY Edition | 333728 | [333728-train-traffic-manager-goty-edition.json](./333728-train-traffic-manager-goty-edition.json) |
 | Train Traffic Manager: Prime Edition | 328805 | [328805-train-traffic-manager-prime-edition.json](./328805-train-traffic-manager-prime-edition.json) |
 | Train Train Train | 158548 | [158548-train-train-train.json](./158548-train-train-train.json) |
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
@@ -12074,6 +12079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds II: Pirates of the Flying Fortress | 11032 | [11032-two-worlds-ii-pirates-of-the-flying-fortress.json](./11032-two-worlds-ii-pirates-of-the-flying-fortress.json) |
 | Two Worlds: The Game of the Year Edition | 53866 | [53866-two-worlds-the-game-of-the-year-edition.json](./53866-two-worlds-the-game-of-the-year-edition.json) |
 | Two Worlds: The Temptation | 72980 | [72980-two-worlds-the-temptation.json](./72980-two-worlds-the-temptation.json) |
+| Two-Sided Runner | 333741 | [333741-two-sided-runner.json](./333741-two-sided-runner.json) |
 | Twofer Goofer | 388748 | [388748-twofer-goofer.json](./388748-twofer-goofer.json) |
 | Twofold Inc. | 80559 | [80559-twofold-inc.json](./80559-twofold-inc.json) |
 | Twofold: The Perfect Circle Collection | 410214 | [410214-twofold-the-perfect-circle-collection.json](./410214-twofold-the-perfect-circle-collection.json) |
