@@ -2683,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
+| GP Club Life Motorsports Team | 315650 | [315650-gp-club-life-motorsports-team.json](./315650-gp-club-life-motorsports-team.json) |
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
