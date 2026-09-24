@@ -2043,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun | 307928 | [307928-outrun.json](./307928-outrun.json) |
 | OutRun | 307929 | [307929-outrun.json](./307929-outrun.json) |
 | OutRun 2006: Coast 2 Coast | 2054 | [2054-outrun-2006-coast-2-coast.json](./2054-outrun-2006-coast-2-coast.json) |
+| Outrun Them | 296481 | [296481-outrun-them.json](./296481-outrun-them.json) |
 | Outrunner 2 | 96630 | [96630-outrunner-2.json](./96630-outrunner-2.json) |
 | OutRunners | 39574 | [39574-outrunners.json](./39574-outrunners.json) |
 | Outscore | 182529 | [182529-outscore.json](./182529-outscore.json) |
