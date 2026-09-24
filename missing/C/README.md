@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Burglar | 256835 | [256835-cat-burglar.json](./256835-cat-burglar.json) |
 | Cat Busters: Collections | 144120 | [144120-cat-busters-collections.json](./144120-cat-busters-collections.json) |
 | Cat Cafe 101 | 243115 | [243115-cat-cafe-101.json](./243115-cat-cafe-101.json) |
+| Cat Cafe Manager 2: Big City Bliss | 313810 | [313810-cat-cafe-manager-2-big-city-bliss.json](./313810-cat-cafe-manager-2-big-city-bliss.json) |
 | Cat Cafe Simulator | 301266 | [301266-cat-cafe-simulator.json](./301266-cat-cafe-simulator.json) |
 | Cat Cafe: Dessert Panic | 241991 | [241991-cat-cafe-dessert-panic.json](./241991-cat-cafe-dessert-panic.json) |
 | Cat Calculations | 337670 | [337670-cat-calculations.json](./337670-cat-calculations.json) |
@@ -6283,6 +6284,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimeBloc | 347795 | [347795-crimebloc.json](./347795-crimebloc.json) |
 | CrimeBound Chronicles | 345109 | [345109-crimebound-chronicles.json](./345109-crimebound-chronicles.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
+| Crimes of Passion | 313795 | [313795-crimes-of-passion.json](./313795-crimes-of-passion.json) |
+| Crimes of Passion II | 313796 | [313796-crimes-of-passion-ii.json](./313796-crimes-of-passion-ii.json) |
+| Crimes of Passion: The Proposal | 313797 | [313797-crimes-of-passion-the-proposal.json](./313797-crimes-of-passion-the-proposal.json) |
 | Criminal Archives: Alphabetic Murders | 417708 | [417708-criminal-archives-alphabetic-murders.json](./417708-criminal-archives-alphabetic-murders.json) |
 | Criminal Archives: Alphabetic Murders - Collector's Edition | 247497 | [247497-criminal-archives-alphabetic-murders-collectors-edition.json](./247497-criminal-archives-alphabetic-murders-collectors-edition.json) |
 | Criminal Archives: Alphabetic Murders DLC | 248289 | [248289-criminal-archives-alphabetic-murders-dlc.json](./248289-criminal-archives-alphabetic-murders-dlc.json) |
@@ -7574,6 +7578,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cynostone | 252248 | [252248-cynostone.json](./252248-cynostone.json) |
+| Cynthia: Hidden in the Moonshadow - Accessory Pack #1 | 313787 | [313787-cynthia-hidden-in-the-moonshadow-accessory-pack-1.json](./313787-cynthia-hidden-in-the-moonshadow-accessory-pack-1.json) |
+| Cynthia: Hidden in the Moonshadow - Accessory Pack #2 | 313788 | [313788-cynthia-hidden-in-the-moonshadow-accessory-pack-2.json](./313788-cynthia-hidden-in-the-moonshadow-accessory-pack-2.json) |
+| Cynthia: Hidden in the Moonshadow - Accessory Pack #3 | 313789 | [313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json](./313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json) |
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Special Edition | 306491 | [306491-cynthia-hidden-in-the-moonshadow-special-edition.json](./306491-cynthia-hidden-in-the-moonshadow-special-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Summer Edition | 317261 | [317261-cynthia-hidden-in-the-moonshadow-summer-edition.json](./317261-cynthia-hidden-in-the-moonshadow-summer-edition.json) |
