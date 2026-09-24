@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Yomi | 274480 | [274480-gates-of-yomi.json](./274480-gates-of-yomi.json) |
 | Gates of Zendocon | 6035 | [6035-gates-of-zendocon.json](./6035-gates-of-zendocon.json) |
 | Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
+| Gates vs. Jobs: The Game! | 325561 | [325561-gates-vs-jobs-the-game.json](./325561-gates-vs-jobs-the-game.json) |
 | Gatestriders | 365750 | [365750-gatestriders.json](./365750-gatestriders.json) |
 | Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
@@ -987,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemtactix | 99386 | [99386-gemtactix.json](./99386-gemtactix.json) |
 | Gemtrader Story 2: Blood Relationship | 227377 | [227377-gemtrader-story-2-blood-relationship.json](./227377-gemtrader-story-2-blood-relationship.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
+| Gen Atlas | 325593 | [325593-gen-atlas.json](./325593-gen-atlas.json) |
 | Genba no Kizuna | 235738 | [235738-genba-no-kizuna.json](./235738-genba-no-kizuna.json) |
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
 | Gendai Daisenryaku: Ultimate War | 231510 | [231510-gendai-daisenryaku-ultimate-war.json](./231510-gendai-daisenryaku-ultimate-war.json) |
@@ -2515,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
 | Gooey | 368139 | [368139-gooey.json](./368139-gooey.json) |
 | Goof Ball | 78033 | [78033-goof-ball.json](./78033-goof-ball.json) |
+| Goof Troop | 325563 | [325563-goof-troop.json](./325563-goof-troop.json) |
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
