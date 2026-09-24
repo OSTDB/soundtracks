@@ -6245,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axan Ships: Low Poly | 118348 | [118348-axan-ships-low-poly.json](./118348-axan-ships-low-poly.json) |
 | Axe And Claw | 400457 | [400457-axe-and-claw.json](./400457-axe-and-claw.json) |
 | Axe Champ! | 107663 | [107663-axe-champ.json](./107663-axe-champ.json) |
+| Axe Ghost | 295353 | [295353-axe-ghost.json](./295353-axe-ghost.json) |
 | Axe Girl | 149556 | [149556-axe-girl.json](./149556-axe-girl.json) |
 | Axe of Janissary | 233619 | [233619-axe-of-janissary.json](./233619-axe-of-janissary.json) |
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
