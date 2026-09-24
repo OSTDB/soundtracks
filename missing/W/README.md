@@ -2357,6 +2357,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchpop | 390142 | [390142-witchpop.json](./390142-witchpop.json) |
 | WitchRider | 312543 | [312543-witchrider.json](./312543-witchrider.json) |
 | WitchSpring | 87260 | [87260-witchspring.json](./87260-witchspring.json) |
+| WitchSpring R: Costume - Black Pearl Set | 316224 | [316224-witchspring-r-costume-black-pearl-set.json](./316224-witchspring-r-costume-black-pearl-set.json) |
+| WitchSpring R: Costume - Red Berry Set | 316222 | [316222-witchspring-r-costume-red-berry-set.json](./316222-witchspring-r-costume-red-berry-set.json) |
+| WitchSpring R: Costume - Shining Dawn Set | 316225 | [316225-witchspring-r-costume-shining-dawn-set.json](./316225-witchspring-r-costume-shining-dawn-set.json) |
+| WitchSpring R: Costume - Silver Rose Set | 316221 | [316221-witchspring-r-costume-silver-rose-set.json](./316221-witchspring-r-costume-silver-rose-set.json) |
 | WitchSpring R: The Follower’s Fall | 363460 | [363460-witchspring-r-the-follower-s-fall.json](./363460-witchspring-r-the-follower-s-fall.json) |
 | WitchSpring2 | 102813 | [102813-witchspring2.json](./102813-witchspring2.json) |
 | WitchSpring3 | 207869 | [207869-witchspring3.json](./207869-witchspring3.json) |
@@ -3021,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Talesworth: Idle MMO Simulator | 212897 | [212897-world-of-talesworth-idle-mmo-simulator.json](./212897-world-of-talesworth-idle-mmo-simulator.json) |
 | World of Tanks - Panther/M10 Pack (VII German Medium Tank) | 398326 | [398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json](./398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json) |
 | World of Tanks 2.0 | 361878 | [361878-world-of-tanks-2-0.json](./361878-world-of-tanks-2-0.json) |
+| World of Tanks Blitz: Tier V Tank and Bonuses Pack! | 316237 | [316237-world-of-tanks-blitz-tier-v-tank-and-bonuses-pack.json](./316237-world-of-tanks-blitz-tier-v-tank-and-bonuses-pack.json) |
 | World of Tanks Generals | 77961 | [77961-world-of-tanks-generals.json](./77961-world-of-tanks-generals.json) |
 | World of Tanks: Advanced Marksman | 293765 | [293765-world-of-tanks-advanced-marksman.json](./293765-world-of-tanks-advanced-marksman.json) |
 | World of Tanks: Blitz - Free Pack | 171010 | [171010-world-of-tanks-blitz-free-pack.json](./171010-world-of-tanks-blitz-free-pack.json) |
@@ -3163,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War: Battle of the Bulge | 300827 | [300827-world-war-battle-of-the-bulge.json](./300827-world-war-battle-of-the-bulge.json) |
 | World War: Combat Guardian | 251049 | [251049-world-war-combat-guardian.json](./251049-world-war-combat-guardian.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
+| World War: Fury Wave | 316236 | [316236-world-war-fury-wave.json](./316236-world-war-fury-wave.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
 | World Wonders Hidden Histories 3 | 364105 | [364105-world-wonders-hidden-histories-3.json](./364105-world-wonders-hidden-histories-3.json) |
 | World Zero | 219682 | [219682-world-zero.json](./219682-world-zero.json) |
