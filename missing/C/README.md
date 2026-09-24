@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change | 229674 | [229674-change.json](./229674-change.json) |
 | Change | 81724 | [81724-change.json](./81724-change.json) |
 | Change Air Blade | 39833 | [39833-change-air-blade.json](./39833-change-air-blade.json) |
+| Change Lanes | 292098 | [292098-change-lanes.json](./292098-change-lanes.json) |
 | Change Maker | 71769 | [71769-change-maker.json](./71769-change-maker.json) |
 | Change: A Homeless Survival Experience | 109339 | [109339-change-a-homeless-survival-experience.json](./109339-change-a-homeless-survival-experience.json) |
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
@@ -5230,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookin' Idol I! My! Main! Game de Hirameki! Kirameki Cooking | 123019 | [123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json](./123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
 | Cooking Academy 2: World Cuisine | 208483 | [208483-cooking-academy-2-world-cuisine.json](./208483-cooking-academy-2-world-cuisine.json) |
+| Cooking Academy 3: Recipe for Success | 292064 | [292064-cooking-academy-3-recipe-for-success.json](./292064-cooking-academy-3-recipe-for-success.json) |
 | Cooking Academy Fire and Knives | 17826 | [17826-cooking-academy-fire-and-knives.json](./17826-cooking-academy-fire-and-knives.json) |
 | Cooking Arena | 259586 | [259586-cooking-arena.json](./259586-cooking-arena.json) |
 | Cooking Arena Breakfast Bonanza | 316197 | [316197-cooking-arena-breakfast-bonanza.json](./316197-cooking-arena-breakfast-bonanza.json) |
@@ -6768,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Royal Edition | 188022 | [188022-crusader-kings-iii-royal-edition.json](./188022-crusader-kings-iii-royal-edition.json) |
 | Crusader Kings III: Tours and Tournaments | 240894 | [240894-crusader-kings-iii-tours-and-tournaments.json](./240894-crusader-kings-iii-tours-and-tournaments.json) |
 | Crusader Kings III: Wandering Nobles | 352847 | [352847-crusader-kings-iii-wandering-nobles.json](./352847-crusader-kings-iii-wandering-nobles.json) |
+| Crusader Kings III: Wards & Wardens | 292107 | [292107-crusader-kings-iii-wards-and-wardens.json](./292107-crusader-kings-iii-wards-and-wardens.json) |
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
 | Crusader: Dungeon Series | 197273 | [197273-crusader-dungeon-series.json](./197273-crusader-dungeon-series.json) |
 | Crusader: No Remorse | 207101 | [207101-crusader-no-remorse.json](./207101-crusader-no-remorse.json) |
