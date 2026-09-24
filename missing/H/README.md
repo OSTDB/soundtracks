@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Special Edition | 263557 | [263557-hentai-girls-special-edition.json](./263557-hentai-girls-special-edition.json) |
 | Hentai Girls: Adorable Angel | 328522 | [328522-hentai-girls-adorable-angel.json](./328522-hentai-girls-adorable-angel.json) |
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
+| Hentai Girls: College Romance | 325018 | [325018-hentai-girls-college-romance.json](./325018-hentai-girls-college-romance.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
 | Hentai Girls: Extended Edition | 261348 | [261348-hentai-girls-extended-edition.json](./261348-hentai-girls-extended-edition.json) |
@@ -2622,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Shapes: Animals + Lovely Cats | 194437 | [194437-hidden-shapes-animals-lovely-cats.json](./194437-hidden-shapes-animals-lovely-cats.json) |
 | Hidden Sheep Puzzle | 395839 | [395839-hidden-sheep-puzzle.json](./395839-hidden-sheep-puzzle.json) |
+| Hidden Shy Cats & Dogs Bundle | 325011 | [325011-hidden-shy-cats-and-dogs-bundle.json](./325011-hidden-shy-cats-and-dogs-bundle.json) |
 | Hidden Space Station Top-Down 3D | 340473 | [340473-hidden-space-station-top-down-3d.json](./340473-hidden-space-station-top-down-3d.json) |
 | Hidden Space Top-Down 3D | 269007 | [269007-hidden-space-top-down-3d.json](./269007-hidden-space-top-down-3d.json) |
 | Hidden Square | 311132 | [311132-hidden-square.json](./311132-hidden-square.json) |
@@ -2689,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High $take$ by Dick Francis | 79887 | [79887-high-take-by-dick-francis.json](./79887-high-take-by-dick-francis.json) |
 | High Above | 336155 | [336155-high-above.json](./336155-high-above.json) |
 | High Burger | 256257 | [256257-high-burger.json](./256257-high-burger.json) |
+| High Cars 2 | 325014 | [325014-high-cars-2.json](./325014-high-cars-2.json) |
 | High Clouds | 372995 | [372995-high-clouds.json](./372995-high-clouds.json) |
 | High Command: Europe 1939-'45 | 71806 | [71806-high-command-europe-1939-45.json](./71806-high-command-europe-1939-45.json) |
 | High Dive | 233747 | [233747-high-dive.json](./233747-high-dive.json) |
