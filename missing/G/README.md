@@ -2605,6 +2605,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
 | Gorgons' Gaze | 216255 | [216255-gorgons-gaze.json](./216255-gorgons-gaze.json) |
 | Gori: Cuddly Carnage | 133341 | [133341-gori-cuddly-carnage.json](./133341-gori-cuddly-carnage.json) |
+| Gori: Cuddly Carnage - Change Skin Pack | 316214 | [316214-gori-cuddly-carnage-change-skin-pack.json](./316214-gori-cuddly-carnage-change-skin-pack.json) |
+| Gori: Cuddly Carnage - Chinese Dragon Premium Skin Pack | 316213 | [316213-gori-cuddly-carnage-chinese-dragon-premium-skin-pack.json](./316213-gori-cuddly-carnage-chinese-dragon-premium-skin-pack.json) |
+| Gori: Cuddly Carnage - Day One Skin Pack | 316212 | [316212-gori-cuddly-carnage-day-one-skin-pack.json](./316212-gori-cuddly-carnage-day-one-skin-pack.json) |
+| Gori: Cuddly Carnage - Neon Neko Triple Skin Pack | 316211 | [316211-gori-cuddly-carnage-neon-neko-triple-skin-pack.json](./316211-gori-cuddly-carnage-neon-neko-triple-skin-pack.json) |
 | Gori: Cuddly Carnage - Special Edition | 315867 | [315867-gori-cuddly-carnage-special-edition.json](./315867-gori-cuddly-carnage-special-edition.json) |
 | Gori: Cuddly Carnage: Catbox Skin Pack | 357268 | [357268-gori-cuddly-carnage-catbox-skin-pack.json](./357268-gori-cuddly-carnage-catbox-skin-pack.json) |
 | Gori: Cuddly Carnage: PlayTime Skin Pack | 357267 | [357267-gori-cuddly-carnage-playtime-skin-pack.json](./357267-gori-cuddly-carnage-playtime-skin-pack.json) |
@@ -3459,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster AC | 126462 | [126462-groove-coaster-ac.json](./126462-groove-coaster-ac.json) |
 | Groove Coaster EX | 126463 | [126463-groove-coaster-ex.json](./126463-groove-coaster-ex.json) |
 | Groove Coaster for Steam | 104523 | [104523-groove-coaster-for-steam.json](./104523-groove-coaster-for-steam.json) |
+| Groove Coaster Wai Wai Party!!!!: Chunithm Pack | 316220 | [316220-groove-coaster-wai-wai-party-chunithm-pack.json](./316220-groove-coaster-wai-wai-party-chunithm-pack.json) |
 | Groove Coaster: Bad Apple!! feat. nomico | 358959 | [358959-groove-coaster-bad-apple-feat-nomico.json](./358959-groove-coaster-bad-apple-feat-nomico.json) |
 | Groove Coaster: Darius Cozmic Collection Pack | 361704 | [361704-groove-coaster-darius-cozmic-collection-pack.json](./361704-groove-coaster-darius-cozmic-collection-pack.json) |
 | Groove Coaster: Game Music Pack 01 | 361700 | [361700-groove-coaster-game-music-pack-01.json](./361700-groove-coaster-game-music-pack-01.json) |
@@ -3881,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
 | Gundam Breaker 4: Diorama Pack 4 - Beach Set & Effect | 361236 | [361236-gundam-breaker-4-diorama-pack-4-beach-set-and-effect.json](./361236-gundam-breaker-4-diorama-pack-4-beach-set-and-effect.json) |
 | Gundam Breaker 4: Diorama Pack Set | 328995 | [328995-gundam-breaker-4-diorama-pack-set.json](./328995-gundam-breaker-4-diorama-pack-set.json) |
+| Gundam Breaker 4: Season Pass | 316215 | [316215-gundam-breaker-4-season-pass.json](./316215-gundam-breaker-4-season-pass.json) |
 | Gundam Breaker 4: Story Mission DLC 1 - Go! Restart!! | 324439 | [324439-gundam-breaker-4-story-mission-dlc-1-go-restart.json](./324439-gundam-breaker-4-story-mission-dlc-1-go-restart.json) |
 | Gundam Breaker 4: Story Mission DLC 2 - Brave Dive | 324440 | [324440-gundam-breaker-4-story-mission-dlc-2-brave-dive.json](./324440-gundam-breaker-4-story-mission-dlc-2-brave-dive.json) |
 | Gundam Breaker 4: Story Mission DLC 3 - Battle Tournament | 324441 | [324441-gundam-breaker-4-story-mission-dlc-3-battle-tournament.json](./324441-gundam-breaker-4-story-mission-dlc-3-battle-tournament.json) |
