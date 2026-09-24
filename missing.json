@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T07:33:03.041Z",
-  "total_missing": 115077,
+  "generated_at": "2026-09-24T07:47:47.152Z",
+  "total_missing": 115127,
   "games": [
     {
       "igdb_id": 176875,
@@ -9206,6 +9206,11 @@
       "igdb_id": 379474,
       "game_name": "Actuator: Overt Abnormality",
       "file": "missing/A/379474-actuator-overt-abnormality.json"
+    },
+    {
+      "igdb_id": 318561,
+      "game_name": "ACUVAC: A Suck And Blow Adventure",
+      "file": "missing/A/318561-acuvac-a-suck-and-blow-adventure.json"
     },
     {
       "igdb_id": 137679,
@@ -54758,6 +54763,11 @@
       "file": "missing/B/334133-bless-you-again.json"
     },
     {
+      "igdb_id": 318560,
+      "game_name": "Blessed Curse",
+      "file": "missing/B/318560-blessed-curse.json"
+    },
+    {
       "igdb_id": 382201,
       "game_name": "Blessed Redux",
       "file": "missing/B/382201-blessed-redux.json"
@@ -60003,6 +60013,11 @@
       "file": "missing/B/280317-boos-there.json"
     },
     {
+      "igdb_id": 318551,
+      "game_name": "Boo's Treat",
+      "file": "missing/B/318551-boos-treat.json"
+    },
+    {
       "igdb_id": 149432,
       "game_name": "Booble Hentai",
       "file": "missing/B/149432-booble-hentai.json"
@@ -63533,9 +63548,19 @@
       "file": "missing/B/318588-brawl-stars-back-to-ranger-ranch.json"
     },
     {
+      "igdb_id": 318579,
+      "game_name": "Brawl Stars: Biodome",
+      "file": "missing/B/318579-brawl-stars-biodome.json"
+    },
+    {
       "igdb_id": 318589,
       "game_name": "Brawl Stars: Bizarre Circus",
       "file": "missing/B/318589-brawl-stars-bizarre-circus.json"
+    },
+    {
+      "igdb_id": 318577,
+      "game_name": "Brawl Stars: Brawlywood",
+      "file": "missing/B/318577-brawl-stars-brawlywood.json"
     },
     {
       "igdb_id": 318584,
@@ -63568,9 +63593,24 @@
       "file": "missing/B/318595-brawl-stars-godzilla.json"
     },
     {
+      "igdb_id": 318570,
+      "game_name": "Brawl Stars: Holiday Getaway",
+      "file": "missing/B/318570-brawl-stars-holiday-getaway.json"
+    },
+    {
+      "igdb_id": 318574,
+      "game_name": "Brawl Stars: Jurassic Splash",
+      "file": "missing/B/318574-brawl-stars-jurassic-splash.json"
+    },
+    {
       "igdb_id": 318585,
       "game_name": "Brawl Stars: Mystery At The Hub",
       "file": "missing/B/318585-brawl-stars-mystery-at-the-hub.json"
+    },
+    {
+      "igdb_id": 318576,
+      "game_name": "Brawl Stars: Once Upon A Brawl",
+      "file": "missing/B/318576-brawl-stars-once-upon-a-brawl.json"
     },
     {
       "igdb_id": 318599,
@@ -63608,9 +63648,24 @@
       "file": "missing/B/318590-brawl-stars-starr-toon-studios.json"
     },
     {
+      "igdb_id": 318567,
+      "game_name": "Brawl Stars: Summer Of Monsters",
+      "file": "missing/B/318567-brawl-stars-summer-of-monsters.json"
+    },
+    {
+      "igdb_id": 318566,
+      "game_name": "Brawl Stars: Tara's Bazaar",
+      "file": "missing/B/318566-brawl-stars-taras-bazaar.json"
+    },
+    {
       "igdb_id": 318581,
       "game_name": "Brawl Stars: The Deep Sea Brawl",
       "file": "missing/B/318581-brawl-stars-the-deep-sea-brawl.json"
+    },
+    {
+      "igdb_id": 318573,
+      "game_name": "Brawl Stars: The Goldarm Gang",
+      "file": "missing/B/318573-brawl-stars-the-goldarm-gang.json"
     },
     {
       "igdb_id": 318586,
@@ -63618,9 +63673,29 @@
       "file": "missing/B/318586-brawl-stars-the-rescue.json"
     },
     {
+      "igdb_id": 318572,
+      "game_name": "Brawl Stars: The Starr Force!",
+      "file": "missing/B/318572-brawl-stars-the-starr-force.json"
+    },
+    {
+      "igdb_id": 318580,
+      "game_name": "Brawl Stars: The Stuntshow",
+      "file": "missing/B/318580-brawl-stars-the-stuntshow.json"
+    },
+    {
+      "igdb_id": 318569,
+      "game_name": "Brawl Stars: Welcome To Starr Park!",
+      "file": "missing/B/318569-brawl-stars-welcome-to-starr-park.json"
+    },
+    {
       "igdb_id": 318591,
       "game_name": "Brawl Stars: Year Of The Dragon",
       "file": "missing/B/318591-brawl-stars-year-of-the-dragon.json"
+    },
+    {
+      "igdb_id": 318578,
+      "game_name": "Brawl Stars: Year Of The Tiger",
+      "file": "missing/B/318578-brawl-stars-year-of-the-tiger.json"
     },
     {
       "igdb_id": 273961,
@@ -70173,6 +70248,11 @@
       "file": "missing/C/176428-cache-cache.json"
     },
     {
+      "igdb_id": 318534,
+      "game_name": "Cacho Quest",
+      "file": "missing/C/318534-cacho-quest.json"
+    },
+    {
       "igdb_id": 269040,
       "game_name": "Cacildes Adventure",
       "file": "missing/C/269040-cacildes-adventure.json"
@@ -75443,6 +75523,11 @@
       "file": "missing/C/172197-cassius.json"
     },
     {
+      "igdb_id": 318564,
+      "game_name": "Cast 'n' Blast",
+      "file": "missing/C/318564-cast-n-blast.json"
+    },
+    {
       "igdb_id": 312755,
       "game_name": "Cast Cats",
       "file": "missing/C/312755-cast-cats.json"
@@ -79196,6 +79281,11 @@
       "igdb_id": 126041,
       "game_name": "Ceradin",
       "file": "missing/C/126041-ceradin.json"
+    },
+    {
+      "igdb_id": 318529,
+      "game_name": "Ceramic Crashers",
+      "file": "missing/C/318529-ceramic-crashers.json"
     },
     {
       "igdb_id": 198556,
@@ -84101,6 +84191,11 @@
       "igdb_id": 45960,
       "game_name": "Choujin Heiki Zeroigar",
       "file": "missing/C/45960-choujin-heiki-zeroigar.json"
+    },
+    {
+      "igdb_id": 318559,
+      "game_name": "Choujin Sentai Jetman",
+      "file": "missing/C/318559-choujin-sentai-jetman.json"
     },
     {
       "igdb_id": 62189,
@@ -96423,6 +96518,11 @@
       "file": "missing/C/375975-corpus-machina.json"
     },
     {
+      "igdb_id": 318545,
+      "game_name": "Corpus Pugna",
+      "file": "missing/C/318545-corpus-pugna.json"
+    },
+    {
       "igdb_id": 245924,
       "game_name": "Corr",
       "file": "missing/C/245924-corr.json"
@@ -99703,6 +99803,11 @@
       "file": "missing/C/366415-crazy-cakes.json"
     },
     {
+      "igdb_id": 318528,
+      "game_name": "Crazy Candy",
+      "file": "missing/C/318528-crazy-candy.json"
+    },
+    {
       "igdb_id": 382437,
       "game_name": "Crazy Captain Cannon: Mission - Billionaire Buster",
       "file": "missing/C/382437-crazy-captain-cannon-mission-billionaire-buster.json"
@@ -100811,6 +100916,11 @@
       "igdb_id": 143094,
       "game_name": "Cresteaju",
       "file": "missing/C/143094-cresteaju.json"
+    },
+    {
+      "igdb_id": 318538,
+      "game_name": "Creta",
+      "file": "missing/C/318538-creta.json"
     },
     {
       "igdb_id": 59413,
@@ -105711,6 +105821,11 @@
       "igdb_id": 260422,
       "game_name": "Cursed Fables: A Voice to Die For - Collector's Edition",
       "file": "missing/C/260422-cursed-fables-a-voice-to-die-for-collectors-edition.json"
+    },
+    {
+      "igdb_id": 318568,
+      "game_name": "Cursed Fables: Before the Clock Strikes",
+      "file": "missing/C/318568-cursed-fables-before-the-clock-strikes.json"
     },
     {
       "igdb_id": 362841,
@@ -118376,6 +118491,11 @@
       "igdb_id": 329669,
       "game_name": "Deltarune: The Upper Hand",
       "file": "missing/D/329669-deltarune-the-upper-hand.json"
+    },
+    {
+      "igdb_id": 318535,
+      "game_name": "Deltatale",
+      "file": "missing/D/318535-deltatale.json"
     },
     {
       "igdb_id": 182345,
@@ -158098,6 +158218,11 @@
       "file": "missing/F/413187-factor-zoo.json"
     },
     {
+      "igdb_id": 318540,
+      "game_name": "Factor72",
+      "file": "missing/F/318540-factor72.json"
+    },
+    {
       "igdb_id": 326052,
       "game_name": "Factorio: IR3",
       "file": "missing/F/326052-factorio-ir3.json"
@@ -166636,6 +166761,11 @@
       "igdb_id": 205260,
       "game_name": "Final Fantasy XV: Special Edition",
       "file": "missing/F/205260-final-fantasy-xv-special-edition.json"
+    },
+    {
+      "igdb_id": 318557,
+      "game_name": "Final Fantasy XVI: Complete Edition",
+      "file": "missing/F/318557-final-fantasy-xvi-complete-edition.json"
     },
     {
       "igdb_id": 228738,
@@ -190691,6 +190821,11 @@
       "igdb_id": 213394,
       "game_name": "Giana Sisters",
       "file": "missing/G/213394-giana-sisters.json"
+    },
+    {
+      "igdb_id": 318533,
+      "game_name": "Giana Sisters: Project Radiant",
+      "file": "missing/G/318533-giana-sisters-project-radiant.json"
     },
     {
       "igdb_id": 53080,
@@ -259783,6 +259918,11 @@
       "file": "missing/L/333606-la-quimera.json"
     },
     {
+      "igdb_id": 318571,
+      "game_name": "La Ruota Della Sfortuna: Prima parte",
+      "file": "missing/L/318571-la-ruota-della-sfortuna-prima-parte.json"
+    },
+    {
       "igdb_id": 282689,
       "game_name": "La Statuette maudite de l'oncle Ernest",
       "file": "missing/L/282689-la-statuette-maudite-de-loncle-ernest.json"
@@ -278233,6 +278373,11 @@
       "file": "missing/L/33409-lydia-sweet-dreams.json"
     },
     {
+      "igdb_id": 318537,
+      "game_name": "Lydia's Labyrinth",
+      "file": "missing/L/318537-lydias-labyrinth.json"
+    },
+    {
       "igdb_id": 314256,
       "game_name": "Lynked: Banner of the Spark",
       "file": "missing/L/314256-lynked-banner-of-the-spark.json"
@@ -285708,6 +285853,11 @@
       "file": "missing/M/231507-mario-motors.json"
     },
     {
+      "igdb_id": 318554,
+      "game_name": "Mario Movie Game",
+      "file": "missing/M/318554-mario-movie-game.json"
+    },
+    {
       "igdb_id": 246087,
       "game_name": "Mario Net Quest",
       "file": "missing/M/246087-mario-net-quest.json"
@@ -285866,6 +286016,11 @@
       "igdb_id": 342262,
       "game_name": "Mario Superstar Baseball Fantasy League",
       "file": "missing/M/342262-mario-superstar-baseball-fantasy-league.json"
+    },
+    {
+      "igdb_id": 318556,
+      "game_name": "Mario Takes a Three",
+      "file": "missing/M/318556-mario-takes-a-three.json"
     },
     {
       "igdb_id": 175956,
@@ -323578,6 +323733,11 @@
       "file": "missing/N/34333-networm.json"
     },
     {
+      "igdb_id": 318543,
+      "game_name": "Neural Dominion",
+      "file": "missing/N/318543-neural-dominion.json"
+    },
+    {
       "igdb_id": 93545,
       "game_name": "Neural Gear",
       "file": "missing/N/93545-neural-gear.json"
@@ -326516,6 +326676,11 @@
       "igdb_id": 235310,
       "game_name": "NightFall Hollow",
       "file": "missing/N/235310-nightfall-hollow.json"
+    },
+    {
+      "igdb_id": 318558,
+      "game_name": "Nightfall Terror: Trails of the Dead",
+      "file": "missing/N/318558-nightfall-terror-trails-of-the-dead.json"
     },
     {
       "igdb_id": 329671,
@@ -347708,6 +347873,11 @@
       "file": "missing/P/153972-parasomnia-verum.json"
     },
     {
+      "igdb_id": 318531,
+      "game_name": "Parasomnia: No Rem",
+      "file": "missing/P/318531-parasomnia-no-rem.json"
+    },
+    {
       "igdb_id": 107740,
       "game_name": "Paratopic: Definitive Cut",
       "file": "missing/P/107740-paratopic-definitive-cut.json"
@@ -363348,6 +363518,11 @@
       "file": "missing/P/377713-pokemon-goita.json"
     },
     {
+      "igdb_id": 318562,
+      "game_name": "Pokémon Gratia",
+      "file": "missing/P/318562-pokemon-gratia.json"
+    },
+    {
       "igdb_id": 334655,
       "game_name": "Pokemon HG/SS Golden Edition",
       "file": "missing/P/334655-pokemon-hg-ss-golden-edition.json"
@@ -363901,6 +364076,11 @@
       "igdb_id": 194420,
       "game_name": "Pokémon Unite: Season 3",
       "file": "missing/P/194420-pokemon-unite-season-3.json"
+    },
+    {
+      "igdb_id": 318563,
+      "game_name": "Pokémon Vanishing Point",
+      "file": "missing/P/318563-pokemon-vanishing-point.json"
     },
     {
       "igdb_id": 401803,
@@ -366666,6 +366846,11 @@
       "igdb_id": 395188,
       "game_name": "Post Impact",
       "file": "missing/P/395188-post-impact.json"
+    },
+    {
+      "igdb_id": 318530,
+      "game_name": "Post Memory",
+      "file": "missing/P/318530-post-memory.json"
     },
     {
       "igdb_id": 199102,
@@ -373756,6 +373941,11 @@
       "igdb_id": 374177,
       "game_name": "Ptolem's Singing Catacombs",
       "file": "missing/P/374177-ptolems-singing-catacombs.json"
+    },
+    {
+      "igdb_id": 318541,
+      "game_name": "Ptolomaea",
+      "file": "missing/P/318541-ptolomaea.json"
     },
     {
       "igdb_id": 383395,
@@ -387891,6 +388081,11 @@
       "igdb_id": 119593,
       "game_name": "Regola",
       "file": "missing/R/119593-regola.json"
+    },
+    {
+      "igdb_id": 318542,
+      "game_name": "Regretful Ghosts",
+      "file": "missing/R/318542-regretful-ghosts.json"
     },
     {
       "igdb_id": 298719,
@@ -433288,6 +433483,11 @@
       "file": "missing/S/132036-sok-worlds.json"
     },
     {
+      "igdb_id": 318532,
+      "game_name": "Sokama",
+      "file": "missing/S/318532-sokama.json"
+    },
+    {
       "igdb_id": 240314,
       "game_name": "Sokfest",
       "file": "missing/S/240314-sokfest.json"
@@ -445281,6 +445481,11 @@
       "igdb_id": 276172,
       "game_name": "Spooky Spins Returns: Crazy Cash Edition - Slots",
       "file": "missing/S/276172-spooky-spins-returns-crazy-cash-edition-slots.json"
+    },
+    {
+      "igdb_id": 318565,
+      "game_name": "Spooky Squad!",
+      "file": "missing/S/318565-spooky-squad.json"
     },
     {
       "igdb_id": 333640,
@@ -461043,6 +461248,11 @@
       "file": "missing/S/65448-super-crossfire.json"
     },
     {
+      "igdb_id": 318548,
+      "game_name": "Super Crown Land",
+      "file": "missing/S/318548-super-crown-land.json"
+    },
+    {
       "igdb_id": 138748,
       "game_name": "Super Crypto Kart",
       "file": "missing/S/138748-super-crypto-kart.json"
@@ -462953,6 +463163,11 @@
       "file": "missing/S/250057-super-mario-bros-3000.json"
     },
     {
+      "igdb_id": 318550,
+      "game_name": "Super Mario Bros 4: Escapade",
+      "file": "missing/S/318550-super-mario-bros-4-escapade.json"
+    },
+    {
       "igdb_id": 146354,
       "game_name": "Super Mario Bros Galaxy DS",
       "file": "missing/S/146354-super-mario-bros-galaxy-ds.json"
@@ -463026,6 +463241,11 @@
       "igdb_id": 144986,
       "game_name": "Super Mario Bros. 3Mix",
       "file": "missing/S/144986-super-mario-bros-3mix.json"
+    },
+    {
+      "igdb_id": 318552,
+      "game_name": "Super Mario Bros. 5",
+      "file": "missing/S/318552-super-mario-bros-5.json"
     },
     {
       "igdb_id": 135232,
@@ -463203,6 +463423,11 @@
       "file": "missing/S/313326-super-mario-galaxy-the-lost-levels.json"
     },
     {
+      "igdb_id": 318549,
+      "game_name": "Super Mario Generations",
+      "file": "missing/S/318549-super-mario-generations.json"
+    },
+    {
       "igdb_id": 394337,
       "game_name": "Super Mario Golden Hour",
       "file": "missing/S/394337-super-mario-golden-hour.json"
@@ -463211,6 +463436,11 @@
       "igdb_id": 213948,
       "game_name": "Super Mario Gravity",
       "file": "missing/S/213948-super-mario-gravity.json"
+    },
+    {
+      "igdb_id": 318553,
+      "game_name": "Super Mario Holidays",
+      "file": "missing/S/318553-super-mario-holidays.json"
     },
     {
       "igdb_id": 313107,
@@ -478356,6 +478586,11 @@
       "igdb_id": 51599,
       "game_name": "Tell a Demon",
       "file": "missing/T/51599-tell-a-demon.json"
+    },
+    {
+      "igdb_id": 318546,
+      "game_name": "Tell It Slant",
+      "file": "missing/T/318546-tell-it-slant.json"
     },
     {
       "igdb_id": 141012,
@@ -527078,6 +527313,11 @@
       "file": "missing/T/21125-treasure-world.json"
     },
     {
+      "igdb_id": 318547,
+      "game_name": "Treasures of Oz",
+      "file": "missing/T/318547-treasures-of-oz.json"
+    },
+    {
       "igdb_id": 146900,
       "game_name": "Treasures of the Aegean",
       "file": "missing/T/146900-treasures-of-the-aegean.json"
@@ -535948,6 +536188,11 @@
       "file": "missing/U/136482-undertale-yellow.json"
     },
     {
+      "igdb_id": 318536,
+      "game_name": "Undertale Yellow But Blue",
+      "file": "missing/U/318536-undertale-yellow-but-blue.json"
+    },
+    {
       "igdb_id": 283766,
       "game_name": "Undertale: Chara Boss Fight",
       "file": "missing/U/283766-undertale-chara-boss-fight.json"
@@ -540436,6 +540681,11 @@
       "igdb_id": 299145,
       "game_name": "Valor",
       "file": "missing/V/299145-valor.json"
+    },
+    {
+      "igdb_id": 318544,
+      "game_name": "Valor & Blade",
+      "file": "missing/V/318544-valor-and-blade.json"
     },
     {
       "igdb_id": 260381,
