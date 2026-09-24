@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
 | Academy Love Saga: Tennis Angels EX | 312666 | [312666-academy-love-saga-tennis-angels-ex.json](./312666-academy-love-saga-tennis-angels-ex.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
+| Acai cOrner | 297558 | [297558-acai-corner.json](./297558-acai-corner.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
 | Accel World: End of Burst | 76242 | [76242-accel-world-end-of-burst.json](./76242-accel-world-end-of-burst.json) |
@@ -2495,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I Nima | 329692 | [329692-am-i-nima.json](./329692-am-i-nima.json) |
 | Am I Part of the Problem? | 182914 | [182914-am-i-part-of-the-problem.json](./182914-am-i-part-of-the-problem.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
+| Ama Me (In Incisis) | 297551 | [297551-ama-me-in-incisis.json](./297551-ama-me-in-incisis.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
 | Amadeus: A Riddle for Thee - Episode 1: Waltz | 296491 | [296491-amadeus-a-riddle-for-thee-episode-1-waltz.json](./296491-amadeus-a-riddle-for-thee-episode-1-waltz.json) |
 | Amado | 14496 | [14496-amado.json](./14496-amado.json) |
@@ -2949,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
 | Ancient Mind | 244879 | [244879-ancient-mind.json](./244879-ancient-mind.json) |
+| Ancient Observer | 297570 | [297570-ancient-observer.json](./297570-ancient-observer.json) |
 | Ancient Ocean: The Fall of Atlantis | 337816 | [337816-ancient-ocean-the-fall-of-atlantis.json](./337816-ancient-ocean-the-fall-of-atlantis.json) |
 | Ancient Orb | 184494 | [184494-ancient-orb.json](./184494-ancient-orb.json) |
 | Ancient Origins: Flying Fish | 262975 | [262975-ancient-origins-flying-fish.json](./262975-ancient-origins-flying-fish.json) |
@@ -3841,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
 | Apollo 11 VR HD | 111144 | [111144-apollo-11-vr-hd.json](./111144-apollo-11-vr-hd.json) |
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
+| Apollo 13: The Lost Tapes VR | 297538 | [297538-apollo-13-the-lost-tapes-vr.json](./297538-apollo-13-the-lost-tapes-vr.json) |
 | Apollo Justice: Ace Attorney | 253010 | [253010-apollo-justice-ace-attorney.json](./253010-apollo-justice-ace-attorney.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Apollo Justice: Turnabout Substitution | 143498 | [143498-apollo-justice-turnabout-substitution.json](./143498-apollo-justice-turnabout-substitution.json) |
@@ -5317,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix: Caesar's Challenge | 45944 | [45944-asterix-caesars-challenge.json](./45944-asterix-caesars-challenge.json) |
 | Astérix: Hunt for the Boars | 305276 | [305276-asterix-hunt-for-the-boars.json](./305276-asterix-hunt-for-the-boars.json) |
 | Astérix: Hunt for the Boars | 347903 | [347903-asterix-hunt-for-the-boars.json](./347903-asterix-hunt-for-the-boars.json) |
+| Asterix: The Official Mobile Game of the Movie | 297590 | [297590-asterix-the-official-mobile-game-of-the-movie.json](./297590-asterix-the-official-mobile-game-of-the-movie.json) |
 | Astérix: These Romans Are Crazy! | 269567 | [269567-asterix-these-romans-are-crazy.json](./269567-asterix-these-romans-are-crazy.json) |
 | AsterMaster | 418795 | [418795-astermaster.json](./418795-astermaster.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
@@ -5568,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
 | At the Party | 203878 | [203878-at-the-party.json](./203878-at-the-party.json) |
+| At the Poison's Edge | 297556 | [297556-at-the-poisons-edge.json](./297556-at-the-poisons-edge.json) |
 | At Winter's End | 264698 | [264698-at-winters-end.json](./264698-at-winters-end.json) |
 | At Your Feet | 306512 | [306512-at-your-feet.json](./306512-at-your-feet.json) |
 | Atajrubah | 36426 | [36426-atajrubah.json](./36426-atajrubah.json) |
