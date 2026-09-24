@@ -5155,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzecat | 36525 | [36525-fuzecat.json](./36525-fuzecat.json) |
 | Fuzoku Frame | 368118 | [368118-fuzoku-frame.json](./368118-fuzoku-frame.json) |
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
+| Fuzzy | 331489 | [331489-fuzzy.json](./331489-fuzzy.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
