@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
 | Hamboy: AutoChess Survivor | 257436 | [257436-hamboy-autochess-survivor.json](./257436-hamboy-autochess-survivor.json) |
 | Hamburg: Neue Burg VR | 291510 | [291510-hamburg-neue-burg-vr.json](./291510-hamburg-neue-burg-vr.json) |
+| Hamburger | 284447 | [284447-hamburger.json](./284447-hamburger.json) |
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
 | Hamekomi Lucky Puzzle Wii Returns | 344484 | [344484-hamekomi-lucky-puzzle-wii-returns.json](./344484-hamekomi-lucky-puzzle-wii-returns.json) |
 | Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
@@ -682,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
 | Hard Hat Mack | 13871 | [13871-hard-hat-mack.json](./13871-hard-hat-mack.json) |
 | Hard Hat Willy | 67244 | [67244-hard-hat-willy.json](./67244-hard-hat-willy.json) |
+| Hard Hat: Rebuild | 284401 | [284401-hard-hat-rebuild.json](./284401-hard-hat-rebuild.json) |
 | Hard Head | 40179 | [40179-hard-head.json](./40179-hard-head.json) |
 | Hard Head 2 | 40180 | [40180-hard-head-2.json](./40180-hard-head-2.json) |
 | Hard Helmets | 99596 | [99596-hard-helmets.json](./99596-hard-helmets.json) |
@@ -796,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrowlight | 358869 | [358869-harrowlight.json](./358869-harrowlight.json) |
 | Harry | 247031 | [247031-harry.json](./247031-harry.json) |
 | Harry Buster | 218539 | [218539-harry-buster.json](./218539-harry-buster.json) |
+| Harry Obby | 284409 | [284409-harry-obby.json](./284409-harry-obby.json) |
 | Harry Potter and the Deathly Hallows: Part 1 - The Mobile Game | 266198 | [266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json](./266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json) |
 | Harry Potter and the Deathly Hallows: Part 2 | 4905 | [4905-harry-potter-and-the-deathly-hallows-part-2.json](./4905-harry-potter-and-the-deathly-hallows-part-2.json) |
 | Harry Potter and the Deathly Hallows: Part 2 - The Mobile Game | 266199 | [266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json](./266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json) |
@@ -1705,8 +1708,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: School Bus | 206194 | [206194-hello-kitty-school-bus.json](./206194-hello-kitty-school-bus.json) |
 | Hello Kitty: Sweet Little Shops | 206159 | [206159-hello-kitty-sweet-little-shops.json](./206159-hello-kitty-sweet-little-shops.json) |
 | Hello Kitty: Tennis School | 205626 | [205626-hello-kitty-tennis-school.json](./205626-hello-kitty-tennis-school.json) |
+| Hello Kitty: White Present | 284433 | [284433-hello-kitty-white-present.json](./284433-hello-kitty-white-present.json) |
 | Hello Kitty: Yume no Kuni Daibouken | 76186 | [76186-hello-kitty-yume-no-kuni-daibouken.json](./76186-hello-kitty-yume-no-kuni-daibouken.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
+| Hello Kitty's The Land of Hidden Objects: DokokanaArcana | 284432 | [284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json](./284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json) |
 | Hello Lady! | 95168 | [95168-hello-lady.json](./95168-hello-lady.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
 | Hello Loaf | 367496 | [367496-hello-loaf.json](./367496-hello-loaf.json) |
