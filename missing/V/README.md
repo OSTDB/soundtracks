@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Meow | 327172 | [327172-village-meow.json](./327172-village-meow.json) |
 | Village Merchant | 377167 | [377167-village-merchant.json](./377167-village-merchant.json) |
 | Village of the Ages | 369042 | [369042-village-of-the-ages.json](./369042-village-of-the-ages.json) |
+| Village Slut Transformation | 306433 | [306433-village-slut-transformation.json](./306433-village-slut-transformation.json) |
 | Village Supermarket Simulator: Old Times Edition | 370800 | [370800-village-supermarket-simulator-old-times-edition.json](./370800-village-supermarket-simulator-old-times-edition.json) |
 | Village Tanuki | 185138 | [185138-village-tanuki.json](./185138-village-tanuki.json) |
 | Village Tycoon: Farm City Simulator | 275035 | [275035-village-tycoon-farm-city-simulator.json](./275035-village-tycoon-farm-city-simulator.json) |
