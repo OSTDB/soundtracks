@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrant Strider | 272384 | [272384-vagrant-strider.json](./272384-vagrant-strider.json) |
 | Vagrus: The Riven Realms - At the Heart of Ruin | 375174 | [375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json](./375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json) |
 | Vagrus: The Riven Realms - Centurion Edition | 186892 | [186892-vagrus-the-riven-realms-centurion-edition.json](./186892-vagrus-the-riven-realms-centurion-edition.json) |
+| Vagrus: The Riven Realms - Old Acquaintances | 298116 | [298116-vagrus-the-riven-realms-old-acquaintances.json](./298116-vagrus-the-riven-realms-old-acquaintances.json) |
 | Vagrus: The Riven Realms - Praetor Edition | 338031 | [338031-vagrus-the-riven-realms-praetor-edition.json](./338031-vagrus-the-riven-realms-praetor-edition.json) |
 | Vagrus: The Riven Realms - Sunfire and Moonshadow | 249803 | [249803-vagrus-the-riven-realms-sunfire-and-moonshadow.json](./249803-vagrus-the-riven-realms-sunfire-and-moonshadow.json) |
 | Vagrus: The Riven Realms Season Pass | 276283 | [276283-vagrus-the-riven-realms-season-pass.json](./276283-vagrus-the-riven-realms-season-pass.json) |
