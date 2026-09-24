@@ -2914,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Work Till Die | 391060 | [391060-work-till-die.json](./391060-work-till-die.json) |
 | Work Work Work | 385568 | [385568-work-work-work.json](./385568-work-work-work.json) |
 | Work Wrecker | 358488 | [358488-work-wrecker.json](./358488-work-wrecker.json) |
+| Workboy | 297549 | [297549-workboy.json](./297549-workboy.json) |
 | Workemon | 141174 | [141174-workemon.json](./141174-workemon.json) |
 | Worker 42 | 320172 | [320172-worker-42.json](./320172-worker-42.json) |
 | Worker Riot | 203554 | [203554-worker-riot.json](./203554-worker-riot.json) |
