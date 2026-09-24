@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor Tanks | 261786 | [261786-vapor-tanks.json](./261786-vapor-tanks.json) |
 | Vapor World: Over the Mind | 172712 | [172712-vapor-world-over-the-mind.json](./172712-vapor-world-over-the-mind.json) |
 | VaporLight: Drifter | 186267 | [186267-vaporlight-drifter.json](./186267-vaporlight-drifter.json) |
+| VaporPunk | 334309 | [334309-vaporpunk.json](./334309-vaporpunk.json) |
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
@@ -470,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veinless Property | 144362 | [144362-veinless-property.json](./144362-veinless-property.json) |
 | Veinrider | 377275 | [377275-veinrider.json](./377275-veinrider.json) |
 | Veins | 213467 | [213467-veins.json](./213467-veins.json) |
+| Veins of Darkness | 334294 | [334294-veins-of-darkness.json](./334294-veins-of-darkness.json) |
 | Vekquence | 26694 | [26694-vekquence.json](./26694-vekquence.json) |
 | Vektar | 382791 | [382791-vektar.json](./382791-vektar.json) |
 | Vektor 2089 | 134661 | [134661-vektor-2089.json](./134661-vektor-2089.json) |
