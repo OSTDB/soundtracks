@@ -2584,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Bogtavern | 236259 | [236259-the-bogtavern.json](./236259-the-bogtavern.json) |
 | The Bolt Age | 165532 | [165532-the-bolt-age.json](./165532-the-bolt-age.json) |
+| The Bomb Disarmament Expert | 290985 | [290985-the-bomb-disarmament-expert.json](./290985-the-bomb-disarmament-expert.json) |
 | The Bomb Project | 124139 | [124139-the-bomb-project.json](./124139-the-bomb-project.json) |
 | The Bombing Islands | 3457 | [3457-the-bombing-islands.json](./3457-the-bombing-islands.json) |
 | The Bond | 368010 | [368010-the-bond.json](./368010-the-bond.json) |
@@ -4743,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Cesar | 160236 | [160236-the-legend-of-cesar.json](./160236-the-legend-of-cesar.json) |
 | The Legend of Chalkvania | 395570 | [395570-the-legend-of-chalkvania.json](./395570-the-legend-of-chalkvania.json) |
 | The Legend of Chosen Blood | 285608 | [285608-the-legend-of-chosen-blood.json](./285608-the-legend-of-chosen-blood.json) |
+| The Legend of Chuck | 291006 | [291006-the-legend-of-chuck.json](./291006-the-legend-of-chuck.json) |
 | The Legend Of Chupacabra And The Sentient Log | 404451 | [404451-the-legend-of-chupacabra-and-the-sentient-log.json](./404451-the-legend-of-chupacabra-and-the-sentient-log.json) |
 | The Legend of Cube | 227858 | [227858-the-legend-of-cube.json](./227858-the-legend-of-cube.json) |
 | The Legend of Dad: Quest for Milk | 383026 | [383026-the-legend-of-dad-quest-for-milk.json](./383026-the-legend-of-dad-quest-for-milk.json) |
@@ -8694,6 +8696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Crisis: Razing Storm | 20449 | [20449-time-crisis-razing-storm.json](./20449-time-crisis-razing-storm.json) |
 | Time Cruise | 66089 | [66089-time-cruise.json](./66089-time-cruise.json) |
 | Time Drive: Racing Destiny | 258029 | [258029-time-drive-racing-destiny.json](./258029-time-drive-racing-destiny.json) |
+| Time Flies Like an Arrow | 291022 | [291022-time-flies-like-an-arrow.json](./291022-time-flies-like-an-arrow.json) |
 | Time Flies Like An Arrow | 276728 | [276728-time-flies-like-an-arrow.json](./276728-time-flies-like-an-arrow.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
@@ -9486,6 +9489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Horror | 356664 | [356664-tomb-of-horror.json](./356664-tomb-of-horror.json) |
 | Tomb of Pharaohs | 158140 | [158140-tomb-of-pharaohs.json](./158140-tomb-of-pharaohs.json) |
 | Tomb of the Bloodletter | 334195 | [334195-tomb-of-the-bloodletter.json](./334195-tomb-of-the-bloodletter.json) |
+| Tomb of the Brain | 291011 | [291011-tomb-of-the-brain.json](./291011-tomb-of-the-brain.json) |
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
 | Tomb of the Dead | 219684 | [219684-tomb-of-the-dead.json](./219684-tomb-of-the-dead.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
@@ -11528,6 +11532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickery&Strategy | 148905 | [148905-trickery-and-strategy.json](./148905-trickery-and-strategy.json) |
 | Trickier Wii | 394343 | [394343-trickier-wii.json](./394343-trickier-wii.json) |
 | Tricking 0 | 195187 | [195187-tricking-0.json](./195187-tricking-0.json) |
+| Trickle Greenweed | 291030 | [291030-trickle-greenweed.json](./291030-trickle-greenweed.json) |
 | TrickShot | 147406 | [147406-trickshot.json](./147406-trickshot.json) |
 | Trickshot Tactics | 382753 | [382753-trickshot-tactics.json](./382753-trickshot-tactics.json) |
 | TrickShot VR | 133457 | [133457-trickshot-vr.json](./133457-trickshot-vr.json) |
