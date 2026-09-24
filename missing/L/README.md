@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar! Uncover the Truth | 115483 | [115483-liar-uncover-the-truth.json](./115483-liar-uncover-the-truth.json) |
 | Liar's Bar | 317695 | [317695-liars-bar.json](./317695-liars-bar.json) |
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
+| Liar's Lounge | 325003 | [325003-liars-lounge.json](./325003-liars-lounge.json) |
 | Libble Rabble | 37945 | [37945-libble-rabble.json](./37945-libble-rabble.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
