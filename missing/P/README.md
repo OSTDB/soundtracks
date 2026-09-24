@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
+| Peacequarium | 312707 | [312707-peacequarium.json](./312707-peacequarium.json) |
 | Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
 | Peach Territory | 378438 | [378438-peach-territory.json](./378438-peach-territory.json) |
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
@@ -2981,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
 | Pixel Puzzles 2: Christmas | 112743 | [112743-pixel-puzzles-2-christmas.json](./112743-pixel-puzzles-2-christmas.json) |
+| Pixel Puzzles 3: Ukiyo-e Jigsaws | 312692 | [312692-pixel-puzzles-3-ukiyo-e-jigsaws.json](./312692-pixel-puzzles-3-ukiyo-e-jigsaws.json) |
 | Pixel Puzzles 4k: Japan | 163411 | [163411-pixel-puzzles-4k-japan.json](./163411-pixel-puzzles-4k-japan.json) |
 | Pixel Puzzles Aardman Jigsaws: Morph | 357945 | [357945-pixel-puzzles-aardman-jigsaws-morph.json](./357945-pixel-puzzles-aardman-jigsaws-morph.json) |
 | Pixel Puzzles Aardman Jigsaws: Variety Pack 2 | 357946 | [357946-pixel-puzzles-aardman-jigsaws-variety-pack-2.json](./357946-pixel-puzzles-aardman-jigsaws-variety-pack-2.json) |
@@ -5274,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison of Son | 128999 | [128999-prison-of-son.json](./128999-prison-of-son.json) |
 | Prison Out | 365071 | [365071-prison-out.json](./365071-prison-out.json) |
 | Prison Princess | 127335 | [127335-prison-princess.json](./127335-prison-princess.json) |
+| Prison Puzzle | 312693 | [312693-prison-puzzle.json](./312693-prison-puzzle.json) |
 | Prison Run | 394998 | [394998-prison-run.json](./394998-prison-run.json) |
 | Prison Run and Gun | 33672 | [33672-prison-run-and-gun.json](./33672-prison-run-and-gun.json) |
 | Prison Survival: Architect of Crime Simulator | 259052 | [259052-prison-survival-architect-of-crime-simulator.json](./259052-prison-survival-architect-of-crime-simulator.json) |
@@ -6352,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
 | Push | 55799 | [55799-push.json](./55799-push.json) |
+| Push & Plunder | 312669 | [312669-push-and-plunder.json](./312669-push-and-plunder.json) |
 | Push a Block | 221171 | [221171-push-a-block.json](./221171-push-a-block.json) |
 | Push Back | 133445 | [133445-push-back.json](./133445-push-back.json) |
 | Push Box | 167261 | [167261-push-box.json](./167261-push-box.json) |
@@ -6538,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Master | 49951 | [49951-puzzle-master.json](./49951-puzzle-master.json) |
 | Puzzle Master 2 | 145642 | [145642-puzzle-master-2.json](./145642-puzzle-master-2.json) |
 | Puzzle Masters | 104657 | [104657-puzzle-masters.json](./104657-puzzle-masters.json) |
+| Puzzle Masters | 312682 | [312682-puzzle-masters.json](./312682-puzzle-masters.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
@@ -6563,6 +6568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Quest: The Legend Returns | 122246 | [122246-puzzle-quest-the-legend-returns.json](./122246-puzzle-quest-the-legend-returns.json) |
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
+| Puzzle Scenery | 312683 | [312683-puzzle-scenery.json](./312683-puzzle-scenery.json) |
 | Puzzle Series Vol. 12: Akari | 184569 | [184569-puzzle-series-vol-12-akari.json](./184569-puzzle-series-vol-12-akari.json) |
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
@@ -6623,6 +6629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for smart: Cats | 104017 | [104017-puzzles-for-smart-cats.json](./104017-puzzles-for-smart-cats.json) |
 | Puzzles for smart: Dogs | 107848 | [107848-puzzles-for-smart-dogs.json](./107848-puzzles-for-smart-dogs.json) |
 | Puzzles for smart: Horses | 111492 | [111492-puzzles-for-smart-horses.json](./111492-puzzles-for-smart-horses.json) |
+| PuzzleScriptMis | 312684 | [312684-puzzlescriptmis.json](./312684-puzzlescriptmis.json) |
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
 | Puzzletronics Digital Infinite | 157039 | [157039-puzzletronics-digital-infinite.json](./157039-puzzletronics-digital-infinite.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
