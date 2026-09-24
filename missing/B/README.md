@@ -2332,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
 | Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
+| Beneath the Bell | 333156 | [333156-beneath-the-bell.json](./333156-beneath-the-bell.json) |
 | Beneath the Bleeding Moon | 261866 | [261866-beneath-the-bleeding-moon.json](./261866-beneath-the-bleeding-moon.json) |
 | Beneath The Brine | 327376 | [327376-beneath-the-brine.json](./327376-beneath-the-brine.json) |
 | Beneath the Cardboard | 201286 | [201286-beneath-the-cardboard.json](./201286-beneath-the-cardboard.json) |
@@ -3118,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit.Trip Core | 15280 | [15280-bit-trip-core.json](./15280-bit-trip-core.json) |
 | Bit.Trip Saga | 21894 | [21894-bit-trip-saga.json](./21894-bit-trip-saga.json) |
 | Bitardia Cards: Memes of 2ch | 33383 | [33383-bitardia-cards-memes-of-2ch.json](./33383-bitardia-cards-memes-of-2ch.json) |
+| Bitball | 333188 | [333188-bitball.json](./333188-bitball.json) |
 | BitBattle | 163809 | [163809-bitbattle.json](./163809-bitbattle.json) |
 | BitBreaker | 97927 | [97927-bitbreaker.json](./97927-bitbreaker.json) |
 | BitBug | 181315 | [181315-bitbug.json](./181315-bitbug.json) |
@@ -3151,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
 | Bitmates | 228413 | [228413-bitmates.json](./228413-bitmates.json) |
 | BitRay2 | 31724 | [31724-bitray2.json](./31724-bitray2.json) |
+| BitRick's Venture | 333173 | [333173-bitricks-venture.json](./333173-bitricks-venture.json) |
 | Bitroom | 148925 | [148925-bitroom.json](./148925-bitroom.json) |
 | Bits on the Fritz | 96782 | [96782-bits-on-the-fritz.json](./96782-bits-on-the-fritz.json) |
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
@@ -4055,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodlust.exe | 370871 | [370871-bloodlust-exe.json](./370871-bloodlust-exe.json) |
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
 | Bloodmoon Church | 144129 | [144129-bloodmoon-church.json](./144129-bloodmoon-church.json) |
+| Bloodmoon Rush | 333152 | [333152-bloodmoon-rush.json](./333152-bloodmoon-rush.json) |
 | BloodPact | 60218 | [60218-bloodpact.json](./60218-bloodpact.json) |
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | Bloodplague Lockdown | 373721 | [373721-bloodplague-lockdown.json](./373721-bloodplague-lockdown.json) |
@@ -6113,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Relationships | 152275 | [152275-building-relationships.json](./152275-building-relationships.json) |
 | Building the Great Wall of China | 91125 | [91125-building-the-great-wall-of-china.json](./91125-building-the-great-wall-of-china.json) |
 | Buildings Have Feelings Too! | 107268 | [107268-buildings-have-feelings-too.json](./107268-buildings-have-feelings-too.json) |
+| BuildNow GG | 333186 | [333186-buildnow-gg.json](./333186-buildnow-gg.json) |
 | Buildville | 102745 | [102745-buildville.json](./102745-buildville.json) |
 | Built by Force | 372457 | [372457-built-by-force.json](./372457-built-by-force.json) |
 | Built for Speed | 242681 | [242681-built-for-speed.json](./242681-built-for-speed.json) |
