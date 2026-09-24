@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TEOM | 236013 | [236013-teom.json](./236013-teom.json) |
 | Teon: All Fair Hardcore ARPG | 83271 | [83271-teon-all-fair-hardcore-arpg.json](./83271-teon-all-fair-hardcore-arpg.json) |
 | Teppen Banchou Take 1: Saikou no Yankee Ikusei Game | 220305 | [220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json](./220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json) |
+| Teppo and The Secret Ancient City | 283231 | [283231-teppo-and-the-secret-ancient-city.json](./283231-teppo-and-the-secret-ancient-city.json) |
 | Teppoman | 242819 | [242819-teppoman.json](./242819-teppoman.json) |
 | Tequila & Boom Boom | 77398 | [77398-tequila-and-boom-boom.json](./77398-tequila-and-boom-boom.json) |
 | Tequila Sunrise | 135821 | [135821-tequila-sunrise.json](./135821-tequila-sunrise.json) |
@@ -2188,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Nerdstan | 250348 | [250348-the-adventures-of-nerdstan.json](./250348-the-adventures-of-nerdstan.json) |
 | The Adventures of Nick & Willikins | 87182 | [87182-the-adventures-of-nick-and-willikins.json](./87182-the-adventures-of-nick-and-willikins.json) |
 | The Adventures of Oddley | 320742 | [320742-the-adventures-of-oddley.json](./320742-the-adventures-of-oddley.json) |
+| The Adventures of Panzer: Legacy Collection | 283211 | [283211-the-adventures-of-panzer-legacy-collection.json](./283211-the-adventures-of-panzer-legacy-collection.json) |
 | The Adventures of Penny & Lou | 336707 | [336707-the-adventures-of-penny-and-lou.json](./336707-the-adventures-of-penny-and-lou.json) |
 | The Adventures of Peter Rabbit & Benjamin Bunny | 206209 | [206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json](./206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json) |
 | The Adventures of Pinocchio | 206210 | [206210-the-adventures-of-pinocchio.json](./206210-the-adventures-of-pinocchio.json) |
@@ -3826,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Garden of Hades | 231464 | [231464-the-garden-of-hades.json](./231464-the-garden-of-hades.json) |
 | The Garden of Hermeneus | 347349 | [347349-the-garden-of-hermeneus.json](./347349-the-garden-of-hermeneus.json) |
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
+| The Gardener Simulator: Plant, Grow, Decorate, Build Sim | 283234 | [283234-the-gardener-simulator-plant-grow-decorate-build-sim.json](./283234-the-gardener-simulator-plant-grow-decorate-build-sim.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
 | The Gate | 323315 | [323315-the-gate.json](./323315-the-gate.json) |
 | The Gate | 35727 | [35727-the-gate.json](./35727-the-gate.json) |
@@ -7408,6 +7411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Magic: IMO | 57926 | [57926-the-world-of-magic-imo.json](./57926-the-world-of-magic-imo.json) |
 | The World of Marius | 369581 | [369581-the-world-of-marius.json](./369581-the-world-of-marius.json) |
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
+| The World of War II: Frontlines of History | 283233 | [283233-the-world-of-war-ii-frontlines-of-history.json](./283233-the-world-of-war-ii-frontlines-of-history.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
 | The World's Hardest Game | 141086 | [141086-the-worlds-hardest-game.json](./141086-the-worlds-hardest-game.json) |
 | The World's Hardest Game 3D Nostalgia | 412509 | [412509-the-worlds-hardest-game-3d-nostalgia.json](./412509-the-worlds-hardest-game-3d-nostalgia.json) |
@@ -7635,6 +7639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Hunger 3: Rude Awakening | 268006 | [268006-they-hunger-3-rude-awakening.json](./268006-they-hunger-3-rude-awakening.json) |
 | They Hunger: Episode 1 | 268004 | [268004-they-hunger-episode-1.json](./268004-they-hunger-episode-1.json) |
 | They Hunger: Lost Souls | 73003 | [73003-they-hunger-lost-souls.json](./73003-they-hunger-lost-souls.json) |
+| They Know | 283232 | [283232-they-know.json](./283232-they-know.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
@@ -9044,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toy Tanks | 159849 | [159849-tiny-toy-tanks.json](./159849-tiny-toy-tanks.json) |
 | Tiny Toyfare | 55513 | [55513-tiny-toyfare.json](./55513-tiny-toyfare.json) |
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
+| Tiny Treasure Hunt | 283219 | [283219-tiny-treasure-hunt.json](./283219-tiny-treasure-hunt.json) |
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
 | Tiny Troopers Joint Ops XL | 85443 | [85443-tiny-troopers-joint-ops-xl.json](./85443-tiny-troopers-joint-ops-xl.json) |
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
@@ -10611,6 +10617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Department 2192 | 23728 | [23728-traffic-department-2192.json](./23728-traffic-department-2192.json) |
 | Traffic Giant | 57660 | [57660-traffic-giant.json](./57660-traffic-giant.json) |
 | Traffic Jammy | 179581 | [179581-traffic-jammy.json](./179581-traffic-jammy.json) |
+| Traffic Master Collection | 283212 | [283212-traffic-master-collection.json](./283212-traffic-master-collection.json) |
 | Traffic Panic | 343480 | [343480-traffic-panic.json](./343480-traffic-panic.json) |
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
 | Traffic Racer Highway Online | 250350 | [250350-traffic-racer-highway-online.json](./250350-traffic-racer-highway-online.json) |
@@ -11911,6 +11918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulation 19 | 111747 | [111747-truck-simulation-19.json](./111747-truck-simulation-19.json) |
 | Truck Simulator & World of Machines: Game Bundle Collection | 263562 | [263562-truck-simulator-and-world-of-machines-game-bundle-collection.json](./263562-truck-simulator-and-world-of-machines-game-bundle-collection.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
+| Truck Simulator 2024: USA Driver Zone | 283220 | [283220-truck-simulator-2024-usa-driver-zone.json](./283220-truck-simulator-2024-usa-driver-zone.json) |
 | Truck Simulator 2024: USA Driver Zone - Premium Edition | 313229 | [313229-truck-simulator-2024-usa-driver-zone-premium-edition.json](./313229-truck-simulator-2024-usa-driver-zone-premium-edition.json) |
 | Truck Simulator 25 VR: American Driver | 353964 | [353964-truck-simulator-25-vr-american-driver.json](./353964-truck-simulator-25-vr-american-driver.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
