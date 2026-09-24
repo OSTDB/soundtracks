@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Train Sim | 100614 | [100614-kids-train-sim.json](./100614-kids-train-sim.json) |
 | Kids Vehicles Fire Truck games | 107649 | [107649-kids-vehicles-fire-truck-games.json](./107649-kids-vehicles-fire-truck-games.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
+| Kids' WB Turkey Day Food Fling | 313270 | [313270-kids-wb-turkey-day-food-fling.json](./313270-kids-wb-turkey-day-food-fling.json) |
 | Kidsongs: Musical Mystery | 197865 | [197865-kidsongs-musical-mystery.json](./197865-kidsongs-musical-mystery.json) |
 | Kidz | 105088 | [105088-kidz.json](./105088-kidz.json) |
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur | 3967 | [3967-king-arthur.json](./3967-king-arthur.json) |
 | King Arthur II: Dead Legions | 53239 | [53239-king-arthur-ii-dead-legions.json](./53239-king-arthur-ii-dead-legions.json) |
 | King Arthur II: The Role-Playing Wargame | 7586 | [7586-king-arthur-ii-the-role-playing-wargame.json](./7586-king-arthur-ii-the-role-playing-wargame.json) |
+| King Arthur II: The Role-Playing Wargame + Dead Legions | 313230 | [313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json](./313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json) |
 | King Arthur Is Dead | 385299 | [385299-king-arthur-is-dead.json](./385299-king-arthur-is-dead.json) |
 | King Arthur: Fallen Champions | 10484 | [10484-king-arthur-fallen-champions.json](./10484-king-arthur-fallen-champions.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
