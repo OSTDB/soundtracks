@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
 | You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
 | You Are Here | 114169 | [114169-you-are-here.json](./114169-you-are-here.json) |
+| YOU ARE MY HOME | 300762 | [300762-you-are-my-home.json](./300762-you-are-my-home.json) |
 | You Are Not A Banana | 36016 | [36016-you-are-not-a-banana.json](./36016-you-are-not-a-banana.json) |
 | You Are Not Alice | 343866 | [343866-you-are-not-alice.json](./343866-you-are-not-alice.json) |
 | You Are Not Bunnygirl | 192815 | [192815-you-are-not-bunnygirl.json](./192815-you-are-not-bunnygirl.json) |
@@ -455,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're the Boss | 415950 | [415950-youre-the-boss.json](./415950-youre-the-boss.json) |
 | You're the OS! | 261911 | [261911-youre-the-os.json](./261911-youre-the-os.json) |
 | You're Under Arrest | 311062 | [311062-youre-under-arrest.json](./311062-youre-under-arrest.json) |
+| You've Got To Be Kidding! | 299840 | [299840-youve-got-to-be-kidding.json](./299840-youve-got-to-be-kidding.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
 | Youkai Club | 48598 | [48598-youkai-club.json](./48598-youkai-club.json) |
