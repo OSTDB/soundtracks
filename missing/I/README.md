@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortals | 103462 | [103462-immortals.json](./103462-immortals.json) |
 | Immortals | 341692 | [341692-immortals.json](./341692-immortals.json) |
 | Immortals Fenyx Rising: A New God | 142848 | [142848-immortals-fenyx-rising-a-new-god.json](./142848-immortals-fenyx-rising-a-new-god.json) |
+| Immortals Fenyx Rising: Season Pass | 293724 | [293724-immortals-fenyx-rising-season-pass.json](./293724-immortals-fenyx-rising-season-pass.json) |
 | Immortals Fenyx Rising: The Lost Gods | 144580 | [144580-immortals-fenyx-rising-the-lost-gods.json](./144580-immortals-fenyx-rising-the-lost-gods.json) |
 | Immortals of Aveum: Deluxe Edition | 245934 | [245934-immortals-of-aveum-deluxe-edition.json](./245934-immortals-of-aveum-deluxe-edition.json) |
 | Immortals: Muv-Luv Alternative | 194560 | [194560-immortals-muv-luv-alternative.json](./194560-immortals-muv-luv-alternative.json) |
@@ -2045,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
+| Inuit Uppirijatuqangit | 293689 | [293689-inuit-uppirijatuqangit.json](./293689-inuit-uppirijatuqangit.json) |
 | Inunaki Tunnel | 126348 | [126348-inunaki-tunnel.json](./126348-inunaki-tunnel.json) |
 | Inuyasha Awakening | 174825 | [174825-inuyasha-awakening.json](./174825-inuyasha-awakening.json) |
 | Inuyasha: Battle of Hell | 121442 | [121442-inuyasha-battle-of-hell.json](./121442-inuyasha-battle-of-hell.json) |
