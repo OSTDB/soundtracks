@@ -2115,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seoul Exorcist 1111 | 347761 | [347761-seoul-exorcist-1111.json](./347761-seoul-exorcist-1111.json) |
 | Seoul Station | 312196 | [312196-seoul-station.json](./312196-seoul-station.json) |
 | Sep's Diner | 159718 | [159718-seps-diner.json](./159718-seps-diner.json) |
+| Separated | 304622 | [304622-separated.json](./304622-separated.json) |
 | Separator | 411718 | [411718-separator.json](./411718-separator.json) |
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
@@ -3000,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
+| Shenaniganza | 304561 | [304561-shenaniganza.json](./304561-shenaniganza.json) |
 | Shengnü Zhi Ge: Heroine Anthem - The Elect of Wassernixe | 80192 | [80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json](./80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json) |
 | Shēngwù Zhīshì Gédòu Dàsài | 130968 | [130968-shengwu-zhishi-gedou-dasai.json](./130968-shengwu-zhishi-gedou-dasai.json) |
 | Shénhuà Zhànshì II: Shìjiè zhī Mí | 394205 | [394205-shenhua-zhanshi-ii-shijie-zhi-mi.json](./394205-shenhua-zhanshi-ii-shijie-zhi-mi.json) |
@@ -8194,6 +8196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
+| Spine & Quill | 304630 | [304630-spine-and-quill.json](./304630-spine-and-quill.json) |
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Sping | 145442 | [145442-sping.json](./145442-sping.json) |
 | SpinGhost | 336712 | [336712-spinghost.json](./336712-spinghost.json) |
@@ -10869,6 +10872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stylish Sprint 2 | 56481 | [56481-stylish-sprint-2.json](./56481-stylish-sprint-2.json) |
 | Stylist Girl: Complete Edition | 313214 | [313214-stylist-girl-complete-edition.json](./313214-stylist-girl-complete-edition.json) |
 | Stylist Girl: Sunny Edition | 317242 | [317242-stylist-girl-sunny-edition.json](./317242-stylist-girl-sunny-edition.json) |
+| Styria | 304631 | [304631-styria.json](./304631-styria.json) |
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
@@ -13643,6 +13647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetik: Ultimate | 147972 | [147972-synthetik-ultimate.json](./147972-synthetik-ultimate.json) |
 | Synthopolis | 348798 | [348798-synthopolis.json](./348798-synthopolis.json) |
 | Synthrome | 316614 | [316614-synthrome.json](./316614-synthrome.json) |
+| Synthroute 82 | 304649 | [304649-synthroute-82.json](./304649-synthroute-82.json) |
 | SynthRunner | 233630 | [233630-synthrunner.json](./233630-synthrunner.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
