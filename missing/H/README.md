@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
 | Half Light | 374840 | [374840-half-light.json](./374840-half-light.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
+| Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
 | Half-Cat | 163958 | [163958-half-cat.json](./163958-half-cat.json) |
 | Half-Doomed | 252366 | [252366-half-doomed.json](./252366-half-doomed.json) |
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
@@ -2977,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinterland: Orc Lords | 24996 | [24996-hinterland-orc-lords.json](./24996-hinterland-orc-lords.json) |
 | Hints Hunter | 85171 | [85171-hints-hunter.json](./85171-hints-hunter.json) |
 | Hiouden | 38384 | [38384-hiouden.json](./38384-hiouden.json) |
+| Hiouden II | 297548 | [297548-hiouden-ii.json](./297548-hiouden-ii.json) |
 | Hiouden: Mamono-tachi to no Chikai | 60499 | [60499-hiouden-mamono-tachi-to-no-chikai.json](./60499-hiouden-mamono-tachi-to-no-chikai.json) |
 | Hip Hop & Street Dance School | 87868 | [87868-hip-hop-and-street-dance-school.json](./87868-hip-hop-and-street-dance-school.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
