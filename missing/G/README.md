@@ -1485,7 +1485,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Rabbit Run | 208973 | [208973-giant-rabbit-run.json](./208973-giant-rabbit-run.json) |
 | Giant Robo: The Animation | 66654 | [66654-giant-robo-the-animation.json](./66654-giant-robo-the-animation.json) |
 | Giant Rush | 321618 | [321618-giant-rush.json](./321618-giant-rush.json) |
+| Giant Rush: Brave DLC | 324436 | [324436-giant-rush-brave-dlc.json](./324436-giant-rush-brave-dlc.json) |
+| Giant Rush: Cute DLC | 324437 | [324437-giant-rush-cute-dlc.json](./324437-giant-rush-cute-dlc.json) |
 | Giant Rush: Gold Edition | 385201 | [385201-giant-rush-gold-edition.json](./385201-giant-rush-gold-edition.json) |
+| Giant Rush: Silly DLC | 324438 | [324438-giant-rush-silly-dlc.json](./324438-giant-rush-silly-dlc.json) |
 | Giant Snake Girl Wants the Burger! | 383379 | [383379-giant-snake-girl-wants-the-burger.json](./383379-giant-snake-girl-wants-the-burger.json) |
 | Giant Trucks Driving Simulator | 90355 | [90355-giant-trucks-driving-simulator.json](./90355-giant-trucks-driving-simulator.json) |
 | GiAnt: Warfare | 172118 | [172118-giant-warfare.json](./172118-giant-warfare.json) |
@@ -3858,6 +3861,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
 | Gundam Breaker 4: Diorama Pack 4 - Beach Set & Effect | 361236 | [361236-gundam-breaker-4-diorama-pack-4-beach-set-and-effect.json](./361236-gundam-breaker-4-diorama-pack-4-beach-set-and-effect.json) |
 | Gundam Breaker 4: Diorama Pack Set | 328995 | [328995-gundam-breaker-4-diorama-pack-set.json](./328995-gundam-breaker-4-diorama-pack-set.json) |
+| Gundam Breaker 4: Story Mission DLC 1 - Go! Restart!! | 324439 | [324439-gundam-breaker-4-story-mission-dlc-1-go-restart.json](./324439-gundam-breaker-4-story-mission-dlc-1-go-restart.json) |
+| Gundam Breaker 4: Story Mission DLC 2 - Brave Dive | 324440 | [324440-gundam-breaker-4-story-mission-dlc-2-brave-dive.json](./324440-gundam-breaker-4-story-mission-dlc-2-brave-dive.json) |
+| Gundam Breaker 4: Story Mission DLC 3 - Battle Tournament | 324441 | [324441-gundam-breaker-4-story-mission-dlc-3-battle-tournament.json](./324441-gundam-breaker-4-story-mission-dlc-3-battle-tournament.json) |
 | Gundam Breaker 4: Story Mission DLC 4 - Battle Fiercely | 361234 | [361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json](./361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json) |
 | Gundam Breaker 4: Story Mission DLC 5 - Beyond Borders | 361235 | [361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json](./361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
