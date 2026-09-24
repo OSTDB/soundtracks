@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle | 297455 | [297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
 | Gas Station Sketch | 131553 | [131553-gas-station-sketch.json](./131553-gas-station-sketch.json) |
+| Gas Station Weed Simulator 2024 | 323291 | [323291-gas-station-weed-simulator-2024.json](./323291-gas-station-weed-simulator-2024.json) |
 | Gas Station: Car Parking Sim | 89186 | [89186-gas-station-car-parking-sim.json](./89186-gas-station-car-parking-sim.json) |
 | Gas Station: Highway Services | 148001 | [148001-gas-station-highway-services.json](./148001-gas-station-highway-services.json) |
 | Gas Station: Idle Simulator | 362341 | [362341-gas-station-idle-simulator.json](./362341-gas-station-idle-simulator.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
 | Girl's Garden | 6106 | [6106-girls-garden.json](./6106-girls-garden.json) |
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
+| GirlDivers | 323303 | [323303-girldivers.json](./323303-girldivers.json) |
 | Girlfailure Art Club | 412374 | [412374-girlfailure-art-club.json](./412374-girlfailure-art-club.json) |
 | Girlfriend Cards | 106582 | [106582-girlfriend-cards.json](./106582-girlfriend-cards.json) |
 | Girlfriend from Hell | 278416 | [278416-girlfriend-from-hell.json](./278416-girlfriend-from-hell.json) |
