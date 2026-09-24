@@ -3248,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robes | 176343 | [176343-robes.json](./176343-robes.json) |
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
+| Robin Hood: Sherwood Defenders | 330262 | [330262-robin-hood-sherwood-defenders.json](./330262-robin-hood-sherwood-defenders.json) |
 | Robin Hood's Quest | 43558 | [43558-robin-hoods-quest.json](./43558-robin-hoods-quest.json) |
 | Robin Lloyd no Bouken | 62988 | [62988-robin-lloyd-no-bouken.json](./62988-robin-lloyd-no-bouken.json) |
 | Robin Morningwood Adventure: A Gay RPG | 156097 | [156097-robin-morningwood-adventure-a-gay-rpg.json](./156097-robin-morningwood-adventure-a-gay-rpg.json) |
