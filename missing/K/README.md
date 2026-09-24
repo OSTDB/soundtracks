@@ -50,6 +50,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kado Hunter | 303600 | [303600-kado-hunter.json](./303600-kado-hunter.json) |
 | Kadomon: Hyper Auto Battlers | 215708 | [215708-kadomon-hyper-auto-battlers.json](./215708-kadomon-hyper-auto-battlers.json) |
 | Kaede Doori: Brand New Days Innocent | 413053 | [413053-kaede-doori-brand-new-days-innocent.json](./413053-kaede-doori-brand-new-days-innocent.json) |
+| Kaen no Seito | 308878 | [308878-kaen-no-seito.json](./308878-kaen-no-seito.json) |
+| Kaerimichi | 308892 | [308892-kaerimichi.json](./308892-kaerimichi.json) |
 | Kaeru Batake DE Tsukamaete Portable | 218505 | [218505-kaeru-batake-de-tsukamaete-portable.json](./218505-kaeru-batake-de-tsukamaete-portable.json) |
 | Kaeru Batake DE Tsukamaete: Natsu Chigira Sansen! | 60248 | [60248-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json](./60248-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json) |
 | Kaeru no Tame ni Kane wa Naru | 49078 | [49078-kaeru-no-tame-ni-kane-wa-naru.json](./49078-kaeru-no-tame-ni-kane-wa-naru.json) |
