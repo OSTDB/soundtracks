@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
 | Dawn Car | 371258 | [371258-dawn-car.json](./371258-dawn-car.json) |
 | Dawn City | 81775 | [81775-dawn-city.json](./81775-dawn-city.json) |
+| Dawn in Arctic | 308340 | [308340-dawn-in-arctic.json](./308340-dawn-in-arctic.json) |
 | Dawn in Bloody Darkness | 407525 | [407525-dawn-in-bloody-darkness.json](./407525-dawn-in-bloody-darkness.json) |
 | Dawn in the Air | 234065 | [234065-dawn-in-the-air.json](./234065-dawn-in-the-air.json) |
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
@@ -2213,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
+| Demolition | 308335 | [308335-demolition.json](./308335-demolition.json) |
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
 | Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
 | Demolition Crew | 119568 | [119568-demolition-crew.json](./119568-demolition-crew.json) |
@@ -5007,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downpour Dash! | 303485 | [303485-downpour-dash.json](./303485-downpour-dash.json) |
 | Downpurr | 201169 | [201169-downpurr.json](./201169-downpurr.json) |
 | Downroll | 191161 | [191161-downroll.json](./191161-downroll.json) |
+| Downshot | 308353 | [308353-downshot.json](./308353-downshot.json) |
 | DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
 | Downtown Club | 330284 | [330284-downtown-club.json](./330284-downtown-club.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
@@ -6318,6 +6321,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
 | Duilius: The Ancient Duel | 294152 | [294152-duilius-the-ancient-duel.json](./294152-duilius-the-ancient-duel.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
+| Duke 12:12 | 308332 | [308332-duke-12-12.json](./308332-duke-12-12.json) |
+| Duke 3:16 | 308330 | [308330-duke-3-16.json](./308330-duke-3-16.json) |
+| Duke 6:8 | 308331 | [308331-duke-6-8.json](./308331-duke-6-8.json) |
 | Duke Dashington Remastered | 96565 | [96565-duke-dashington-remastered.json](./96565-duke-dashington-remastered.json) |
 | Duke Forces | 291977 | [291977-duke-forces.json](./291977-duke-forces.json) |
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
