@@ -3572,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook Master | 152939 | [152939-hook-master.json](./152939-hook-master.json) |
 | Hook Up: The Game | 223037 | [223037-hook-up-the-game.json](./223037-hook-up-the-game.json) |
 | Hook Worlds | 91941 | [91941-hook-worlds.json](./91941-hook-worlds.json) |
+| Hook-a-Duck VR | 312148 | [312148-hook-a-duck-vr.json](./312148-hook-a-duck-vr.json) |
 | Hook-Kick | 406219 | [406219-hook-kick.json](./406219-hook-kick.json) |
 | Hook, Line, and Axe | 360652 | [360652-hook-line-and-axe.json](./360652-hook-line-and-axe.json) |
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
