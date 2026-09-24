@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
 | Mall Manager | 291255 | [291255-mall-manager.json](./291255-mall-manager.json) |
+| Mall Manager Simulator | 309444 | [309444-mall-manager-simulator.json](./309444-mall-manager-simulator.json) |
 | Mall Maniacs | 70681 | [70681-mall-maniacs.json](./70681-mall-maniacs.json) |
 | Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
@@ -1883,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masquerade: Hell Academy | 322194 | [322194-masquerade-hell-academy.json](./322194-masquerade-hell-academy.json) |
 | Masquerade: The Baubles of Doom | 23371 | [23371-masquerade-the-baubles-of-doom.json](./23371-masquerade-the-baubles-of-doom.json) |
 | Mass Brawl | 256354 | [256354-mass-brawl.json](./256354-mass-brawl.json) |
+| Mass Conflict: Ignition | 309458 | [309458-mass-conflict-ignition.json](./309458-mass-conflict-ignition.json) |
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
 | Mass Effect 2: Firewalker Pack | 13790 | [13790-mass-effect-2-firewalker-pack.json](./13790-mass-effect-2-firewalker-pack.json) |
@@ -3007,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaman ZX Genesis | 334150 | [334150-megaman-zx-genesis.json](./334150-megaman-zx-genesis.json) |
 | Megaman: The Great Catastrophe | 323882 | [323882-megaman-the-great-catastrophe.json](./323882-megaman-the-great-catastrophe.json) |
 | Megamaze | 208393 | [208393-megamaze.json](./208393-megamaze.json) |
+| MegaMegaEggs | 309484 | [309484-megamegaeggs.json](./309484-megamegaeggs.json) |
 | MegaMek | 108982 | [108982-megamek.json](./108982-megamek.json) |
 | Megami Ibunroku Persona | 240506 | [240506-megami-ibunroku-persona.json](./240506-megami-ibunroku-persona.json) |
 | Megami Ibunroku Persona Digital Collection | 263596 | [263596-megami-ibunroku-persona-digital-collection.json](./263596-megami-ibunroku-persona-digital-collection.json) |
@@ -7064,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
 | Mushiking: King of the Beetles | 80223 | [80223-mushiking-king-of-the-beetles.json](./80223-mushiking-king-of-the-beetles.json) |
+| Mushiverse: Online Boardgame | 309446 | [309446-mushiverse-online-boardgame.json](./309446-mushiverse-online-boardgame.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
 | Mushroom Doom | 389747 | [389747-mushroom-doom.json](./389747-mushroom-doom.json) |
 | Mushroom Forest | 382881 | [382881-mushroom-forest.json](./382881-mushroom-forest.json) |
