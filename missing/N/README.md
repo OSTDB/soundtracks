@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Divide | 359521 | [359521-neon-divide.json](./359521-neon-divide.json) |
 | Neon Dodge | 391749 | [391749-neon-dodge.json](./391749-neon-dodge.json) |
 | Neon Drift Ultra | 412997 | [412997-neon-drift-ultra.json](./412997-neon-drift-ultra.json) |
+| Neon Drifter: Cyber Racing | 283258 | [283258-neon-drifter-cyber-racing.json](./283258-neon-drifter-cyber-racing.json) |
 | Neon Drive | 31180 | [31180-neon-drive.json](./31180-neon-drive.json) |
 | Neon Eclipse: Dominium | 346155 | [346155-neon-eclipse-dominium.json](./346155-neon-eclipse-dominium.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
@@ -1455,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Street 2: Unleashed | 243016 | [243016-nfl-street-2-unleashed.json](./243016-nfl-street-2-unleashed.json) |
 | NFL Street 3 | 8266 | [8266-nfl-street-3.json](./8266-nfl-street-3.json) |
 | NFL Xtreme 2 | 43899 | [43899-nfl-xtreme-2.json](./43899-nfl-xtreme-2.json) |
+| Ngolf | 283259 | [283259-ngolf.json](./283259-ngolf.json) |
 | Ngolf: Complete + | 324447 | [324447-ngolf-complete.json](./324447-ngolf-complete.json) |
 | NGolf: Complete Edition | 313152 | [313152-ngolf-complete-edition.json](./313152-ngolf-complete-edition.json) |
 | Ngolf: Director's Cut | 324430 | [324430-ngolf-directors-cut.json](./324430-ngolf-directors-cut.json) |
