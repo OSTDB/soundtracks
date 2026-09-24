@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey the Insect God | 381097 | [381097-obey-the-insect-god.json](./381097-obey-the-insect-god.json) |
 | Obey the Law | 163983 | [163983-obey-the-law.json](./163983-obey-the-law.json) |
 | Obey the Voice | 386276 | [386276-obey-the-voice.json](./386276-obey-the-voice.json) |
+| Obituary | 313833 | [313833-obituary.json](./313833-obituary.json) |
 | Obitus | 363028 | [363028-obitus.json](./363028-obitus.json) |
 | OBJ VR | 309376 | [309376-obj-vr.json](./309376-obj-vr.json) |
 | Object "Cleaning" | 83568 | [83568-object-cleaning.json](./83568-object-cleaning.json) |
@@ -285,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oekaki Programmer | 346041 | [346041-oekaki-programmer.json](./346041-oekaki-programmer.json) |
 | Oeuf | 375317 | [375317-oeuf.json](./375317-oeuf.json) |
 | Of a Feather | 178515 | [178515-of-a-feather.json](./178515-of-a-feather.json) |
+| Of Ash and Dust | 313253 | [313253-of-ash-and-dust.json](./313253-of-ash-and-dust.json) |
 | Of Ash and Steel | 322389 | [322389-of-ash-and-steel.json](./322389-of-ash-and-steel.json) |
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Of Evil and Darkness | 129729 | [129729-of-evil-and-darkness.json](./129729-of-evil-and-darkness.json) |
@@ -1373,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppaidius Summer Trouble! | 75040 | [75040-oppaidius-summer-trouble.json](./75040-oppaidius-summer-trouble.json) |
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
 | Oppidum | 256927 | [256927-oppidum.json](./256927-oppidum.json) |
+| Opposite Day | 313243 | [313243-opposite-day.json](./313243-opposite-day.json) |
 | Opposite Day 2 | 329173 | [329173-opposite-day-2.json](./329173-opposite-day-2.json) |
 | Opposites | 202775 | [202775-opposites.json](./202775-opposites.json) |
 | Opposyte | 258459 | [258459-opposyte.json](./258459-opposyte.json) |
@@ -1943,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Zone | 350505 | [350505-outer-zone.json](./350505-outer-zone.json) |
 | Outer-Rim Pod Digger | 66058 | [66058-outer-rim-pod-digger.json](./66058-outer-rim-pod-digger.json) |
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
+| Outertale: Project Spacetime | 313236 | [313236-outertale-project-spacetime.json](./313236-outertale-project-spacetime.json) |
 | Outertown | 118191 | [118191-outertown.json](./118191-outertown.json) |
 | Outerverse | 164901 | [164901-outerverse.json](./164901-outerverse.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
