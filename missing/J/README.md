@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaleco Arcade 1 | 214534 | [214534-jaleco-arcade-1.json](./214534-jaleco-arcade-1.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
 | Jalopy: Limited Edition | 96023 | [96023-jalopy-limited-edition.json](./96023-jalopy-limited-edition.json) |
+| Jam | 332595 | [332595-jam.json](./332595-jam.json) |
 | Jam City Rollergirls | 85200 | [85200-jam-city-rollergirls.json](./85200-jam-city-rollergirls.json) |
 | Jam Jam's Adventure | 105761 | [105761-jam-jams-adventure.json](./105761-jam-jams-adventure.json) |
 | Jam League Basketball | 237375 | [237375-jam-league-basketball.json](./237375-jam-league-basketball.json) |
