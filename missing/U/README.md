@@ -671,11 +671,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undersea Adventure | 69837 | [69837-undersea-adventure.json](./69837-undersea-adventure.json) |
 | Understanding of the Abyss | 151733 | [151733-understanding-of-the-abyss.json](./151733-understanding-of-the-abyss.json) |
 | Understeel | 382204 | [382204-understeel.json](./382204-understeel.json) |
+| Underswap: Echoed | 329656 | [329656-underswap-echoed.json](./329656-underswap-echoed.json) |
 | Underswap: Nuts in Bolts Don't Actually | 183991 | [183991-underswap-nuts-in-bolts-dont-actually.json](./183991-underswap-nuts-in-bolts-dont-actually.json) |
+| Underswap: The Reckoning | 329667 | [329667-underswap-the-reckoning.json](./329667-underswap-the-reckoning.json) |
 | Undertale 2 | 178026 | [178026-undertale-2.json](./178026-undertale-2.json) |
 | Undertale Hard Mode: Director's Cut | 364600 | [364600-undertale-hard-mode-directors-cut.json](./364600-undertale-hard-mode-directors-cut.json) |
 | Undertale Patience | 307154 | [307154-undertale-patience.json](./307154-undertale-patience.json) |
+| Undertale Plus | 329655 | [329655-undertale-plus.json](./329655-undertale-plus.json) |
 | Undertale Promise | 360564 | [360564-undertale-promise.json](./360564-undertale-promise.json) |
+| Undertale Together: Next Soul | 329663 | [329663-undertale-together-next-soul.json](./329663-undertale-together-next-soul.json) |
 | Undertale Yellow | 136482 | [136482-undertale-yellow.json](./136482-undertale-yellow.json) |
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
 | Undertale: Disbelief | 136869 | [136869-undertale-disbelief.json](./136869-undertale-disbelief.json) |
