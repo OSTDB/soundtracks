@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeune Styliste 3: Star | 340014 | [340014-jeune-styliste-3-star.json](./340014-jeune-styliste-3-star.json) |
 | Jeune Styliste 4: World | 340015 | [340015-jeune-styliste-4-world.json](./340015-jeune-styliste-4-world.json) |
 | Jeune Styliste: Haute couture | 340012 | [340012-jeune-styliste-haute-couture.json](./340012-jeune-styliste-haute-couture.json) |
+| Jevilswap | 315035 | [315035-jevilswap.json](./315035-jevilswap.json) |
 | Jewel Adventures | 85207 | [85207-jewel-adventures.json](./85207-jewel-adventures.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Drops 2 - Match three puzzle | 101637 | [101637-jewel-drops-2-match-three-puzzle.json](./101637-jewel-drops-2-match-three-puzzle.json) |
