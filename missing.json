@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T21:03:58.078Z",
-  "total_missing": 117743,
+  "generated_at": "2026-09-24T21:18:19.187Z",
+  "total_missing": 117793,
   "games": [
     {
       "igdb_id": 176875,
@@ -17733,6 +17733,11 @@
       "file": "missing/A/171547-alwas-collection.json"
     },
     {
+      "igdb_id": 288311,
+      "game_name": "Alwa's Legacy + Alwa's Awakening",
+      "file": "missing/A/288311-alwas-legacy-alwas-awakening.json"
+    },
+    {
       "igdb_id": 290688,
       "game_name": "Always 1-1",
       "file": "missing/A/290688-always-1-1.json"
@@ -32763,6 +32768,11 @@
       "file": "missing/A/294857-astro-miner-cave-adventure.json"
     },
     {
+      "igdb_id": 288310,
+      "game_name": "Astro Miner: Moon Landing",
+      "file": "missing/A/288310-astro-miner-moon-landing.json"
+    },
+    {
       "igdb_id": 192811,
       "game_name": "Astro Mission: Moon",
       "file": "missing/A/192811-astro-mission-moon.json"
@@ -40906,6 +40916,11 @@
       "igdb_id": 152887,
       "game_name": "BanG Dream! Girls Band Party! for Nintendo Switch",
       "file": "missing/B/152887-bang-dream-girls-band-party-for-nintendo-switch.json"
+    },
+    {
+      "igdb_id": 288284,
+      "game_name": "Bang-On Balls: Chronicles - Deluxe Edition",
+      "file": "missing/B/288284-bang-on-balls-chronicles-deluxe-edition.json"
     },
     {
       "igdb_id": 138808,
@@ -63358,6 +63373,11 @@
       "file": "missing/B/262386-bowling-by-jason-belmonte.json"
     },
     {
+      "igdb_id": 288285,
+      "game_name": "Bowling Fever: Deluxe Edition",
+      "file": "missing/B/288285-bowling-fever-deluxe-edition.json"
+    },
+    {
       "igdb_id": 396914,
       "game_name": "Bowling Fever: Grand Edition",
       "file": "missing/B/396914-bowling-fever-grand-edition.json"
@@ -66028,6 +66048,11 @@
       "file": "missing/B/106202-brick-game.json"
     },
     {
+      "igdb_id": 288262,
+      "game_name": "Brick Game",
+      "file": "missing/B/288262-brick-game.json"
+    },
+    {
       "igdb_id": 259627,
       "game_name": "Brick Hero Clash",
       "file": "missing/B/259627-brick-hero-clash.json"
@@ -68546,6 +68571,11 @@
       "igdb_id": 395675,
       "game_name": "Buggy Off-Road: Power Edition",
       "file": "missing/B/395675-buggy-off-road-power-edition.json"
+    },
+    {
+      "igdb_id": 288308,
+      "game_name": "Buggy Race: Racing Master",
+      "file": "missing/B/288308-buggy-race-racing-master.json"
     },
     {
       "igdb_id": 208363,
@@ -75108,6 +75138,11 @@
       "file": "missing/C/99398-car-racing-extreme.json"
     },
     {
+      "igdb_id": 288265,
+      "game_name": "Car Racing Game",
+      "file": "missing/C/288265-car-racing-game.json"
+    },
+    {
       "igdb_id": 288372,
       "game_name": "Car Racing Ice: Classic",
       "file": "missing/C/288372-car-racing-ice-classic.json"
@@ -78743,6 +78778,11 @@
       "file": "missing/C/258012-cats-cosmic-atlas.json"
     },
     {
+      "igdb_id": 288286,
+      "game_name": "Cat's Cosmic Atlas: Definitive Edition",
+      "file": "missing/C/288286-cats-cosmic-atlas-definitive-edition.json"
+    },
+    {
       "igdb_id": 152296,
       "game_name": "Cat's Kiss",
       "file": "missing/C/152296-cats-kiss.json"
@@ -78911,6 +78951,11 @@
       "igdb_id": 238213,
       "game_name": "Catan: Cities & Knights",
       "file": "missing/C/238213-catan-cities-and-knights.json"
+    },
+    {
+      "igdb_id": 288309,
+      "game_name": "Catan: Console Edition - Cities & Knights",
+      "file": "missing/C/288309-catan-console-edition-cities-and-knights.json"
     },
     {
       "igdb_id": 303803,
@@ -100008,6 +100053,11 @@
       "file": "missing/C/338284-courage-zagame.json"
     },
     {
+      "igdb_id": 288305,
+      "game_name": "Courage's Reasoning Nori 5 Chewed Rice Balls",
+      "file": "missing/C/288305-courages-reasoning-nori-5-chewed-rice-balls.json"
+    },
+    {
       "igdb_id": 47530,
       "game_name": "Courageous Perseus",
       "file": "missing/C/47530-courageous-perseus.json"
@@ -102191,6 +102241,11 @@
       "igdb_id": 172151,
       "game_name": "Crazy Fun Ball",
       "file": "missing/C/172151-crazy-fun-ball.json"
+    },
+    {
+      "igdb_id": 288304,
+      "game_name": "Crazy Goose Simulator",
+      "file": "missing/C/288304-crazy-goose-simulator.json"
     },
     {
       "igdb_id": 238061,
@@ -123303,6 +123358,11 @@
       "file": "missing/D/251668-dessert-diy-complete-edition.json"
     },
     {
+      "igdb_id": 288298,
+      "game_name": "Dessert DIY: Premium Edition",
+      "file": "missing/D/288298-dessert-diy-premium-edition.json"
+    },
+    {
       "igdb_id": 219167,
       "game_name": "Dessert Love: Kare to no Hajimari",
       "file": "missing/D/219167-dessert-love-kare-to-no-hajimari.json"
@@ -136571,6 +136631,11 @@
       "igdb_id": 136271,
       "game_name": "Dragon Ball Z: Kakarot - Ultimate Edition",
       "file": "missing/D/136271-dragon-ball-z-kakarot-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 288303,
+      "game_name": "Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey",
+      "file": "missing/D/288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json"
     },
     {
       "igdb_id": 232992,
@@ -155116,6 +155181,11 @@
       "igdb_id": 334094,
       "game_name": "Escape Game: R00m 02",
       "file": "missing/E/334094-escape-game-r00m-02.json"
+    },
+    {
+      "igdb_id": 288312,
+      "game_name": "Escape Game: The Old Folk House",
+      "file": "missing/E/288312-escape-game-the-old-folk-house.json"
     },
     {
       "igdb_id": 351229,
@@ -178438,6 +178508,11 @@
       "file": "missing/F/297600-for-a-place-by-the-putrid-sea.json"
     },
     {
+      "igdb_id": 288307,
+      "game_name": "For a Vast Future: Colour Palette 8",
+      "file": "missing/F/288307-for-a-vast-future-colour-palette-8.json"
+    },
+    {
       "igdb_id": 283148,
       "game_name": "For a Vast Future: Definitive Edition",
       "file": "missing/F/283148-for-a-vast-future-definitive-edition.json"
@@ -178446,6 +178521,11 @@
       "igdb_id": 268557,
       "game_name": "For a Vast Future: Deluxe Edition",
       "file": "missing/F/268557-for-a-vast-future-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 288287,
+      "game_name": "For a Vast Future: Legendary Edition",
+      "file": "missing/F/288287-for-a-vast-future-legendary-edition.json"
     },
     {
       "igdb_id": 283149,
@@ -183821,6 +183901,16 @@
       "igdb_id": 282741,
       "game_name": "Frogger",
       "file": "missing/F/282741-frogger.json"
+    },
+    {
+      "igdb_id": 288260,
+      "game_name": "Frogger",
+      "file": "missing/F/288260-frogger.json"
+    },
+    {
+      "igdb_id": 288264,
+      "game_name": "Frogger",
+      "file": "missing/F/288264-frogger.json"
     },
     {
       "igdb_id": 341890,
@@ -205123,6 +205213,11 @@
       "file": "missing/G/237936-groove-coaster-wai-wai-party-lanota-pack.json"
     },
     {
+      "igdb_id": 288295,
+      "game_name": "Groove Coaster: Wai Wai Party!!!! - Original Pack 8: Arcade Memorial",
+      "file": "missing/G/288295-groove-coaster-wai-wai-party-original-pack-8-arcade-memorial.json"
+    },
+    {
       "igdb_id": 283179,
       "game_name": "Groove Coaster: Wai Wai Party!!!! - Undertale + Deltarune Pack",
       "file": "missing/G/283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json"
@@ -215853,6 +215948,11 @@
       "file": "missing/H/101537-helicopter-sim-pro-hellfire.json"
     },
     {
+      "igdb_id": 288302,
+      "game_name": "Helicopter Simulator: Rescue Sim",
+      "file": "missing/H/288302-helicopter-simulator-rescue-sim.json"
+    },
+    {
       "igdb_id": 53186,
       "game_name": "Helicopter Simulator: Search and Rescue 2014",
       "file": "missing/H/53186-helicopter-simulator-search-and-rescue-2014.json"
@@ -218308,9 +218408,19 @@
       "file": "missing/H/308800-hentai-stars-amazing-edition.json"
     },
     {
+      "igdb_id": 288306,
+      "game_name": "Hentai Stars: Cheerful Puppy Tsubaki",
+      "file": "missing/H/288306-hentai-stars-cheerful-puppy-tsubaki.json"
+    },
+    {
       "igdb_id": 324452,
       "game_name": "Hentai Stars: Complete +",
       "file": "missing/H/324452-hentai-stars-complete.json"
+    },
+    {
+      "igdb_id": 288282,
+      "game_name": "Hentai Stars: Complete Edition",
+      "file": "missing/H/288282-hentai-stars-complete-edition.json"
     },
     {
       "igdb_id": 268561,
@@ -218318,9 +218428,34 @@
       "file": "missing/H/268561-hentai-stars-deluxe-edition.json"
     },
     {
+      "igdb_id": 288299,
+      "game_name": "Hentai Stars: Lonely Kitty Ran",
+      "file": "missing/H/288299-hentai-stars-lonely-kitty-ran.json"
+    },
+    {
       "igdb_id": 283172,
       "game_name": "Hentai Stars: Premium Edition",
       "file": "missing/H/283172-hentai-stars-premium-edition.json"
+    },
+    {
+      "igdb_id": 288293,
+      "game_name": "Hentai Stars: Shy Fox Ayame",
+      "file": "missing/H/288293-hentai-stars-shy-fox-ayame.json"
+    },
+    {
+      "igdb_id": 288292,
+      "game_name": "Hentai Stars: Singing Fox Ayame",
+      "file": "missing/H/288292-hentai-stars-singing-fox-ayame.json"
+    },
+    {
+      "igdb_id": 288291,
+      "game_name": "Hentai Stars: Singing Kitty Ran",
+      "file": "missing/H/288291-hentai-stars-singing-kitty-ran.json"
+    },
+    {
+      "igdb_id": 288290,
+      "game_name": "Hentai Stars: Singing Puppy Tsubaki",
+      "file": "missing/H/288290-hentai-stars-singing-puppy-tsubaki.json"
     },
     {
       "igdb_id": 314885,
@@ -277133,6 +277268,16 @@
       "file": "missing/L/225312-little-red-riding-hood-b.json"
     },
     {
+      "igdb_id": 288301,
+      "game_name": "Little Red Riding Hood: Wonder Animals",
+      "file": "missing/L/288301-little-red-riding-hood-wonder-animals.json"
+    },
+    {
+      "igdb_id": 288300,
+      "game_name": "Little Red Riding Hood: Wonder Animals Vol.2",
+      "file": "missing/L/288300-little-red-riding-hood-wonder-animals-vol-2.json"
+    },
+    {
       "igdb_id": 190199,
       "game_name": "Little Red Rocket Ship",
       "file": "missing/L/190199-little-red-rocket-ship.json"
@@ -281321,6 +281466,11 @@
       "igdb_id": 260213,
       "game_name": "Lost Tenet",
       "file": "missing/L/260213-lost-tenet.json"
+    },
+    {
+      "igdb_id": 288270,
+      "game_name": "Lost The Lights",
+      "file": "missing/L/288270-lost-the-lights.json"
     },
     {
       "igdb_id": 62996,
@@ -295616,6 +295766,11 @@
       "igdb_id": 37930,
       "game_name": "Matsukata Hiroki no Super Trawling",
       "file": "missing/M/37930-matsukata-hiroki-no-super-trawling.json"
+    },
+    {
+      "igdb_id": 288297,
+      "game_name": "Matsukeke Burst!",
+      "file": "missing/M/288297-matsukeke-burst.json"
     },
     {
       "igdb_id": 202314,
@@ -332653,6 +332808,11 @@
       "file": "missing/N/315858-ngolf-legendary-edition.json"
     },
     {
+      "igdb_id": 288296,
+      "game_name": "Ngolf: Moon Swing",
+      "file": "missing/N/288296-ngolf-moon-swing.json"
+    },
+    {
       "igdb_id": 317247,
       "game_name": "Ngolf: Platinum Edition",
       "file": "missing/N/317247-ngolf-platinum-edition.json"
@@ -332661,6 +332821,11 @@
       "igdb_id": 308791,
       "game_name": "Ngolf: Premium Edition",
       "file": "missing/N/308791-ngolf-premium-edition.json"
+    },
+    {
+      "igdb_id": 288275,
+      "game_name": "Ngolf: Western Fairways",
+      "file": "missing/N/288275-ngolf-western-fairways.json"
     },
     {
       "igdb_id": 49320,
@@ -345031,6 +345196,11 @@
       "igdb_id": 315857,
       "game_name": "One Night: Burlesque - Magnificent Edition",
       "file": "missing/O/315857-one-night-burlesque-magnificent-edition.json"
+    },
+    {
+      "igdb_id": 288283,
+      "game_name": "One Night: Burlesque - Premium Edition",
+      "file": "missing/O/288283-one-night-burlesque-premium-edition.json"
     },
     {
       "igdb_id": 317246,
@@ -416193,6 +416363,11 @@
       "file": "missing/S/146869-sandspiel.json"
     },
     {
+      "igdb_id": 288294,
+      "game_name": "Sandstorm Strike Force",
+      "file": "missing/S/288294-sandstorm-strike-force.json"
+    },
+    {
       "igdb_id": 146870,
       "game_name": "SandTest",
       "file": "missing/S/146870-sandtest.json"
@@ -440843,6 +441018,11 @@
       "file": "missing/S/186242-snake.json"
     },
     {
+      "igdb_id": 288267,
+      "game_name": "Snake",
+      "file": "missing/S/288267-snake.json"
+    },
+    {
       "igdb_id": 294214,
       "game_name": "Snake",
       "file": "missing/S/294214-snake.json"
@@ -442636,6 +442816,11 @@
       "igdb_id": 180149,
       "game_name": "Snufkin: Melody of Moominvalley",
       "file": "missing/S/180149-snufkin-melody-of-moominvalley.json"
+    },
+    {
+      "igdb_id": 288289,
+      "game_name": "Snufkin: Melody of Moominvalley - Cherished Keepsakes",
+      "file": "missing/S/288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json"
     },
     {
       "igdb_id": 207879,
@@ -455838,9 +456023,19 @@
       "file": "missing/S/268547-sport-and-fun-swimming-platinum-edition.json"
     },
     {
+      "igdb_id": 288281,
+      "game_name": "Sport & Fun: Swimming - Superb Edition",
+      "file": "missing/S/288281-sport-and-fun-swimming-superb-edition.json"
+    },
+    {
       "igdb_id": 243370,
       "game_name": "Sport & Fun: Swimming - Ultimate Edition",
       "file": "missing/S/243370-sport-and-fun-swimming-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 288280,
+      "game_name": "Sport & Fun: Swimming - Ultra Deluxe",
+      "file": "missing/S/288280-sport-and-fun-swimming-ultra-deluxe.json"
     },
     {
       "igdb_id": 328835,
@@ -474888,6 +475083,11 @@
       "file": "missing/S/330551-super-monkey-ball-banana-rumble-crewmate.json"
     },
     {
+      "igdb_id": 288279,
+      "game_name": "Super Monkey Ball: Banana Rumble - Digital Deluxe Edition",
+      "file": "missing/S/288279-super-monkey-ball-banana-rumble-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 332227,
       "game_name": "Super Monkey Ball: Banana Rumble - Dole Logo Sticker Ball",
       "file": "missing/S/332227-super-monkey-ball-banana-rumble-dole-logo-sticker-ball.json"
@@ -486233,6 +486433,11 @@
       "file": "missing/T/233612-tank-fury.json"
     },
     {
+      "igdb_id": 288263,
+      "game_name": "Tank Game",
+      "file": "missing/T/288263-tank-game.json"
+    },
+    {
       "igdb_id": 343332,
       "game_name": "Tank Game",
       "file": "missing/T/343332-tank-game.json"
@@ -490158,6 +490363,11 @@
       "file": "missing/T/372096-tenebrea.json"
     },
     {
+      "igdb_id": 288272,
+      "game_name": "Tenebris Lake",
+      "file": "missing/T/288272-tenebris-lake.json"
+    },
+    {
       "igdb_id": 403651,
       "game_name": "Tenebrix",
       "file": "missing/T/403651-tenebrix.json"
@@ -493981,6 +494191,11 @@
       "igdb_id": 181289,
       "game_name": "The Attendant",
       "file": "missing/T/181289-the-attendant.json"
+    },
+    {
+      "igdb_id": 288271,
+      "game_name": "The Attic",
+      "file": "missing/T/288271-the-attic.json"
     },
     {
       "igdb_id": 412363,
@@ -514343,6 +514558,11 @@
       "file": "missing/T/328824-the-smurfs-colorful-stories-complete.json"
     },
     {
+      "igdb_id": 288278,
+      "game_name": "The Smurfs: Colorful Stories - Deluxe Edition",
+      "file": "missing/T/288278-the-smurfs-colorful-stories-deluxe-edition.json"
+    },
+    {
       "igdb_id": 328823,
       "game_name": "The Smurfs: Colorful Stories - Director's Cut",
       "file": "missing/T/328823-the-smurfs-colorful-stories-directors-cut.json"
@@ -521896,6 +522116,11 @@
       "igdb_id": 99083,
       "game_name": "Thunder Rally",
       "file": "missing/T/99083-thunder-rally.json"
+    },
+    {
+      "igdb_id": 288274,
+      "game_name": "Thunder Ray: Forgotten Duels",
+      "file": "missing/T/288274-thunder-ray-forgotten-duels.json"
     },
     {
       "igdb_id": 218121,
@@ -549203,6 +549428,11 @@
       "file": "missing/U/199029-unikitty-save-the-kingdom.json"
     },
     {
+      "igdb_id": 288268,
+      "game_name": "Unilateral Table Tennis",
+      "file": "missing/U/288268-unilateral-table-tennis.json"
+    },
+    {
       "igdb_id": 51918,
       "game_name": "Unimersiv",
       "file": "missing/U/51918-unimersiv.json"
@@ -552006,6 +552236,11 @@
       "igdb_id": 283297,
       "game_name": "Uzzuzzu My Pet: Golf Dash - Boo's Challenge",
       "file": "missing/U/283297-uzzuzzu-my-pet-golf-dash-boos-challenge.json"
+    },
+    {
+      "igdb_id": 288277,
+      "game_name": "Uzzuzzu My Pet: Golf Dash - Deluxe Edition",
+      "file": "missing/U/288277-uzzuzzu-my-pet-golf-dash-deluxe-edition.json"
     },
     {
       "igdb_id": 328821,
@@ -557396,6 +557631,11 @@
       "igdb_id": 216858,
       "game_name": "Virus Remedium",
       "file": "missing/V/216858-virus-remedium.json"
+    },
+    {
+      "igdb_id": 288269,
+      "game_name": "Virus Rush",
+      "file": "missing/V/288269-virus-rush.json"
     },
     {
       "igdb_id": 177034,
@@ -573808,6 +574048,11 @@
       "file": "missing/W/287664-woodturning-3d.json"
     },
     {
+      "igdb_id": 288276,
+      "game_name": "Woodturning 3D: Arts & Crafts",
+      "file": "missing/W/288276-woodturning-3d-arts-and-crafts.json"
+    },
+    {
       "igdb_id": 415962,
       "game_name": "Woodville Chronicles",
       "file": "missing/W/415962-woodville-chronicles.json"
@@ -576396,6 +576641,11 @@
       "igdb_id": 313791,
       "game_name": "WorldNeverland: Elnea Kingdom - Modern Yukata Set: Violet",
       "file": "missing/W/313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json"
+    },
+    {
+      "igdb_id": 288288,
+      "game_name": "WorldNeverland: Elnea Kingdom - Sugar Donut Fair",
+      "file": "missing/W/288288-worldneverland-elnea-kingdom-sugar-donut-fair.json"
     },
     {
       "igdb_id": 294856,
