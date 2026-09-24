@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Jam's Adventure | 105761 | [105761-jam-jams-adventure.json](./105761-jam-jams-adventure.json) |
 | Jam League Basketball | 237375 | [237375-jam-league-basketball.json](./237375-jam-league-basketball.json) |
 | Jam Scrapz Collection | 226853 | [226853-jam-scrapz-collection.json](./226853-jam-scrapz-collection.json) |
+| Jam Scrapz Collection: Valentide! II | 289920 | [289920-jam-scrapz-collection-valentide-ii.json](./289920-jam-scrapz-collection-valentide-ii.json) |
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
 | Jam Space: PocketStudio | 85199 | [85199-jam-space-pocketstudio.json](./85199-jam-space-pocketstudio.json) |
 | Jambredrek: Two Guns | 386992 | [386992-jambredrek-two-guns.json](./386992-jambredrek-two-guns.json) |
