@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
 | Kofoin: Swarm Defense | 374821 | [374821-kofoin-swarm-defense.json](./374821-kofoin-swarm-defense.json) |
+| Koguma-Chan no Daibouken | 286586 | [286586-koguma-chan-no-daibouken.json](./286586-koguma-chan-no-daibouken.json) |
 | Koh-Lanta: Survie Dans La Jungle! | 340586 | [340586-koh-lanta-survie-dans-la-jungle.json](./340586-koh-lanta-survie-dans-la-jungle.json) |
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
