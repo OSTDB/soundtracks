@@ -1041,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
 | Legendary Tales: Dawn of History | 413598 | [413598-legendary-tales-dawn-of-history.json](./413598-legendary-tales-dawn-of-history.json) |
 | Legendary Wars | 63233 | [63233-legendary-wars.json](./63233-legendary-wars.json) |
+| Legendary Wings | 288843 | [288843-legendary-wings.json](./288843-legendary-wings.json) |
 | Legendary Wings | 39705 | [39705-legendary-wings.json](./39705-legendary-wings.json) |
 | Legendary: Game of Heroes | 86993 | [86993-legendary-game-of-heroes.json](./86993-legendary-game-of-heroes.json) |
 | Legendino | 224021 | [224021-legendino.json](./224021-legendino.json) |
@@ -2794,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Carrot Crazy | 49870 | [49870-looney-tunes-carrot-crazy.json](./49870-looney-tunes-carrot-crazy.json) |
 | Looney Tunes: Dizzy Driving | 136999 | [136999-looney-tunes-dizzy-driving.json](./136999-looney-tunes-dizzy-driving.json) |
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
+| Loong | 288828 | [288828-loong.json](./288828-loong.json) |
 | Loonley Toons Run | 105767 | [105767-loonley-toons-run.json](./105767-loonley-toons-run.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loony Labyrinth | 122307 | [122307-loony-labyrinth.json](./122307-loony-labyrinth.json) |
@@ -2811,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Merchant | 364669 | [364669-loop-merchant.json](./364669-loop-merchant.json) |
 | Loop Miner | 404411 | [404411-loop-miner.json](./404411-loop-miner.json) |
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
+| Loop Theory | 288817 | [288817-loop-theory.json](./288817-loop-theory.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
 | Loopdrop | 364696 | [364696-loopdrop.json](./364696-loopdrop.json) |
