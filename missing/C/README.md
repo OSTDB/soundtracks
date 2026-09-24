@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
 | Cats & Soup | 174818 | [174818-cats-and-soup.json](./174818-cats-and-soup.json) |
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
+| Cats and Seek: Dino Park | 284413 | [284413-cats-and-seek-dino-park.json](./284413-cats-and-seek-dino-park.json) |
 | Cats and Seek: Kyoto | 291419 | [291419-cats-and-seek-kyoto.json](./291419-cats-and-seek-kyoto.json) |
 | Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
@@ -2520,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Knight | 386258 | [386258-chibi-knight.json](./386258-chibi-knight.json) |
 | Chibi Knight Classic | 389703 | [389703-chibi-knight-classic.json](./389703-chibi-knight-classic.json) |
 | Chibi Maruko-chan Deluxe Quiz | 47574 | [47574-chibi-maruko-chan-deluxe-quiz.json](./47574-chibi-maruko-chan-deluxe-quiz.json) |
+| Chibi Maruko-chan: Maru-chan Ame wo Morai ni Iku no Maki | 284443 | [284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json](./284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json) |
 | Chibi Reboot | 336690 | [336690-chibi-reboot.json](./336690-chibi-reboot.json) |
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
