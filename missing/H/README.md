@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Academy: Academic Stories 1 | 313145 | [313145-hentai-academy-academic-stories-1.json](./313145-hentai-academy-academic-stories-1.json) |
 | Hentai Academy: Academic Stories 2 | 313146 | [313146-hentai-academy-academic-stories-2.json](./313146-hentai-academy-academic-stories-2.json) |
 | Hentai Academy: Academic Stories 3 | 313147 | [313147-hentai-academy-academic-stories-3.json](./313147-hentai-academy-academic-stories-3.json) |
+| Hentai Academy: Complete + | 324464 | [324464-hentai-academy-complete.json](./324464-hentai-academy-complete.json) |
 | Hentai Academy: Deluxe Edition | 313140 | [313140-hentai-academy-deluxe-edition.json](./313140-hentai-academy-deluxe-edition.json) |
 | Hentai Academy: Extended Edition | 317253 | [317253-hentai-academy-extended-edition.json](./317253-hentai-academy-extended-edition.json) |
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dating Stories: Brazil - Best Stories 1 | 308788 | [308788-hentai-dating-stories-brazil-best-stories-1.json](./308788-hentai-dating-stories-brazil-best-stories-1.json) |
 | Hentai Dating Stories: Brazil - Best Stories 2 | 308787 | [308787-hentai-dating-stories-brazil-best-stories-2.json](./308787-hentai-dating-stories-brazil-best-stories-2.json) |
 | Hentai Dating Stories: Brazil - Best Stories 3 | 308786 | [308786-hentai-dating-stories-brazil-best-stories-3.json](./308786-hentai-dating-stories-brazil-best-stories-3.json) |
+| Hentai Dating Stories: Brazil - Complete + | 324465 | [324465-hentai-dating-stories-brazil-complete.json](./324465-hentai-dating-stories-brazil-complete.json) |
 | Hentai Dating Stories: Brazil - Deluxe Edition | 308802 | [308802-hentai-dating-stories-brazil-deluxe-edition.json](./308802-hentai-dating-stories-brazil-deluxe-edition.json) |
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
 | Hentai Demon | 387503 | [387503-hentai-demon.json](./387503-hentai-demon.json) |
@@ -1826,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Adorable Angel | 328522 | [328522-hentai-girls-adorable-angel.json](./328522-hentai-girls-adorable-angel.json) |
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
 | Hentai Girls: College Romance | 325018 | [325018-hentai-girls-college-romance.json](./325018-hentai-girls-college-romance.json) |
+| Hentai Girls: Complete + | 324466 | [324466-hentai-girls-complete.json](./324466-hentai-girls-complete.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
 | Hentai Girls: Extended Edition | 261348 | [261348-hentai-girls-extended-edition.json](./261348-hentai-girls-extended-edition.json) |
@@ -1842,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Sexy Feet Goddesses | 296907 | [296907-hentai-girls-sexy-feet-goddesses.json](./296907-hentai-girls-sexy-feet-goddesses.json) |
 | Hentai Girls: Steamy Maid | 300864 | [300864-hentai-girls-steamy-maid.json](./300864-hentai-girls-steamy-maid.json) |
 | Hentai Girls: Sweet Skier | 328521 | [328521-hentai-girls-sweet-skier.json](./328521-hentai-girls-sweet-skier.json) |
+| Hentai Girls: Ultra Complete | 324467 | [324467-hentai-girls-ultra-complete.json](./324467-hentai-girls-ultra-complete.json) |
 | Hentai Girls: Ultra Extended | 308817 | [308817-hentai-girls-ultra-extended.json](./308817-hentai-girls-ultra-extended.json) |
 | Hentai Golf | 283177 | [283177-hentai-golf.json](./283177-hentai-golf.json) |
 | Hentai Golf: Complete + | 324468 | [324468-hentai-golf-complete.json](./324468-hentai-golf-complete.json) |
@@ -1918,11 +1922,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Slash | 340451 | [340451-hentai-slash.json](./340451-hentai-slash.json) |
+| Hentai Solitaire: Complete + | 324450 | [324450-hentai-solitaire-complete.json](./324450-hentai-solitaire-complete.json) |
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
 | Hentai Sport | 286537 | [286537-hentai-sport.json](./286537-hentai-sport.json) |
 | Hentai Sport | 371362 | [371362-hentai-sport.json](./371362-hentai-sport.json) |
 | Hentai Stars | 261347 | [261347-hentai-stars.json](./261347-hentai-stars.json) |
 | Hentai Stars: Amazing Edition | 308800 | [308800-hentai-stars-amazing-edition.json](./308800-hentai-stars-amazing-edition.json) |
+| Hentai Stars: Complete + | 324452 | [324452-hentai-stars-complete.json](./324452-hentai-stars-complete.json) |
 | Hentai Stars: Deluxe Edition | 268561 | [268561-hentai-stars-deluxe-edition.json](./268561-hentai-stars-deluxe-edition.json) |
 | Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
 | Hentai Stars: Superb Edition | 314885 | [314885-hentai-stars-superb-edition.json](./314885-hentai-stars-superb-edition.json) |
@@ -1962,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai vs. Furries | 164376 | [164376-hentai-vs-furries.json](./164376-hentai-vs-furries.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
 | Hentai Waifu 101 | 156098 | [156098-hentai-waifu-101.json](./156098-hentai-waifu-101.json) |
+| Hentai Waifu 2 | 324451 | [324451-hentai-waifu-2.json](./324451-hentai-waifu-2.json) |
 | Hentai Waifu 5 | 333734 | [333734-hentai-waifu-5.json](./333734-hentai-waifu-5.json) |
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
@@ -1973,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World Slice | 340462 | [340462-hentai-world-slice.json](./340462-hentai-world-slice.json) |
 | Hentai World Succubus | 340463 | [340463-hentai-world-succubus.json](./340463-hentai-world-succubus.json) |
 | Hentai World Winter | 340464 | [340464-hentai-world-winter.json](./340464-hentai-world-winter.json) |
+| Hentai World: Complete + | 324453 | [324453-hentai-world-complete.json](./324453-hentai-world-complete.json) |
 | Hentai World: Definitive Edition | 259578 | [259578-hentai-world-definitive-edition.json](./259578-hentai-world-definitive-edition.json) |
 | Hentai World: Deluxe Edition | 252208 | [252208-hentai-world-deluxe-edition.json](./252208-hentai-world-deluxe-edition.json) |
 | Hentai World: Expanded Edition | 260683 | [260683-hentai-world-expanded-edition.json](./260683-hentai-world-expanded-edition.json) |
@@ -1982,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Puppy Nanami | 251685 | [251685-hentai-world-puppy-nanami.json](./251685-hentai-world-puppy-nanami.json) |
 | Hentai World: Special Edition | 251684 | [251684-hentai-world-special-edition.json](./251684-hentai-world-special-edition.json) |
 | Hentai World: Ultimate Edition | 256266 | [256266-hentai-world-ultimate-edition.json](./256266-hentai-world-ultimate-edition.json) |
+| Hentai World: Ultra Definitive | 324454 | [324454-hentai-world-ultra-definitive.json](./324454-hentai-world-ultra-definitive.json) |
 | Hentai World: Ultra Deluxe | 308818 | [308818-hentai-world-ultra-deluxe.json](./308818-hentai-world-ultra-deluxe.json) |
 | Hentai World: Ultra Extended | 313144 | [313144-hentai-world-ultra-extended.json](./313144-hentai-world-ultra-extended.json) |
 | Hentai World: Ultra Special | 316270 | [316270-hentai-world-ultra-special.json](./316270-hentai-world-ultra-special.json) |
