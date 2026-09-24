@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandelion | 181343 | [181343-dandelion.json](./181343-dandelion.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
 | Dandy Ace | 116533 | [116533-dandy-ace.json](./116533-dandy-ace.json) |
+| Dandy Boy Halloween Adventure | 292056 | [292056-dandy-boy-halloween-adventure.json](./292056-dandy-boy-halloween-adventure.json) |
 | Dandy Dungeon: Legend of Brave Yamada | 27104 | [27104-dandy-dungeon-legend-of-brave-yamada.json](./27104-dandy-dungeon-legend-of-brave-yamada.json) |
 | Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
@@ -681,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
 | Dark Souls Trilogy | 114143 | [114143-dark-souls-trilogy.json](./114143-dark-souls-trilogy.json) |
 | Dark Souls Trilogy: Collector's Edition | 114144 | [114144-dark-souls-trilogy-collectors-edition.json](./114144-dark-souls-trilogy-collectors-edition.json) |
+| Dark Souls: Archthrones | 292062 | [292062-dark-souls-archthrones.json](./292062-dark-souls-archthrones.json) |
 | Dark Souls: Artorias of the Abyss Edition | 136857 | [136857-dark-souls-artorias-of-the-abyss-edition.json](./136857-dark-souls-artorias-of-the-abyss-edition.json) |
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
@@ -5267,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Online | 92697 | [92697-dragon-ball-online.json](./92697-dragon-ball-online.json) |
 | Dragon Ball RPG: Shounen-hen | 62726 | [62726-dragon-ball-rpg-shounen-hen.json](./62726-dragon-ball-rpg-shounen-hen.json) |
 | Dragon Ball Sparking Zero: Shallot (Dragon Ball Legends) | 366817 | [366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json](./366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json) |
+| Dragon Ball Super Card Game Fusion World | 292100 | [292100-dragon-ball-super-card-game-fusion-world.json](./292100-dragon-ball-super-card-game-fusion-world.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Z 5 | 242098 | [242098-dragon-ball-z-5.json](./242098-dragon-ball-z-5.json) |
@@ -5910,6 +5913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamwrought | 387022 | [387022-dreamwrought.json](./387022-dreamwrought.json) |
 | Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
 | Dreamy Hill | 345694 | [345694-dreamy-hill.json](./345694-dreamy-hill.json) |
+| Dreamy Idea | 292065 | [292065-dreamy-idea.json](./292065-dreamy-idea.json) |
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
 | Dreamy Syrup | 330906 | [330906-dreamy-syrup.json](./330906-dreamy-syrup.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
@@ -6875,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition) | 408785 | [408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json](./408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json) |
 | DvDrum, Ultimate Drum Simulator! | 27206 | [27206-dvdrum-ultimate-drum-simulator.json](./27206-dvdrum-ultimate-drum-simulator.json) |
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
+| Dwarf | 292069 | [292069-dwarf.json](./292069-dwarf.json) |
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
 | Dwarf Defense | 101339 | [101339-dwarf-defense.json](./101339-dwarf-defense.json) |
 | Dwarf Eats Mountain | 390780 | [390780-dwarf-eats-mountain.json](./390780-dwarf-eats-mountain.json) |
