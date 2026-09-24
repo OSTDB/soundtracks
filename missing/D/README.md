@@ -2748,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Hindsight | 367971 | [367971-detective-hindsight.json](./367971-detective-hindsight.json) |
 | Detective Kiwi | 282569 | [282569-detective-kiwi.json](./282569-detective-kiwi.json) |
 | Detective Kobayashi | 118321 | [118321-detective-kobayashi.json](./118321-detective-kobayashi.json) |
+| Detective Lin: Time Murder Frenzy | 301915 | [301915-detective-lin-time-murder-frenzy.json](./301915-detective-lin-time-murder-frenzy.json) |
 | Detective March Forward: The Missing Will | 132268 | [132268-detective-march-forward-the-missing-will.json](./132268-detective-march-forward-the-missing-will.json) |
 | Detective Max: Double Clues | 205234 | [205234-detective-max-double-clues.json](./205234-detective-max-double-clues.json) |
 | Detective Max! | 123053 | [123053-detective-max.json](./123053-detective-max.json) |
@@ -4084,9 +4085,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Destiny of the Doctors | 72960 | [72960-doctor-who-destiny-of-the-doctors.json](./72960-doctor-who-destiny-of-the-doctors.json) |
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
+| Doctor Who: Don't Blink | 301932 | [301932-doctor-who-dont-blink.json](./301932-doctor-who-dont-blink.json) |
 | Doctor Who: Evacuation Earth | 47842 | [47842-doctor-who-evacuation-earth.json](./47842-doctor-who-evacuation-earth.json) |
 | Doctor Who: Flight Simulator | 263558 | [263558-doctor-who-flight-simulator.json](./263558-doctor-who-flight-simulator.json) |
 | Doctor Who: Into the Vortex | 235317 | [235317-doctor-who-into-the-vortex.json](./235317-doctor-who-into-the-vortex.json) |
+| Doctor Who: Jobsworth Judoon | 301942 | [301942-doctor-who-jobsworth-judoon.json](./301942-doctor-who-jobsworth-judoon.json) |
+| Doctor Who: Monster Invasion - Dalek Supremacy | 301937 | [301937-doctor-who-monster-invasion-dalek-supremacy.json](./301937-doctor-who-monster-invasion-dalek-supremacy.json) |
+| Doctor Who: Monster Invasion - Maze of the Dead | 301940 | [301940-doctor-who-monster-invasion-maze-of-the-dead.json](./301940-doctor-who-monster-invasion-maze-of-the-dead.json) |
+| Doctor Who: Monster Invasion - The Keys of Time | 301939 | [301939-doctor-who-monster-invasion-the-keys-of-time.json](./301939-doctor-who-monster-invasion-the-keys-of-time.json) |
+| Doctor Who: Monster Invasion - Ultimate Match-up | 301936 | [301936-doctor-who-monster-invasion-ultimate-match-up.json](./301936-doctor-who-monster-invasion-ultimate-match-up.json) |
+| Doctor Who: Monster Invasion - Vortex Run | 301938 | [301938-doctor-who-monster-invasion-vortex-run.json](./301938-doctor-who-monster-invasion-vortex-run.json) |
+| Doctor Who: Say What You See | 301934 | [301934-doctor-who-say-what-you-see.json](./301934-doctor-who-say-what-you-see.json) |
 | Doctor Who: The Adventure Games | 10187 | [10187-doctor-who-the-adventure-games.json](./10187-doctor-who-the-adventure-games.json) |
 | Doctor Who: The Adventure Games - Episode 1: City of the Daleks | 26655 | [26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json](./26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json) |
 | Doctor Who: The Adventure Games - Episode 5: The Gunpowder Plot | 65463 | [65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json](./65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json) |
@@ -4736,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomdepths | 248153 | [248153-doomdepths.json](./248153-doomdepths.json) |
 | Doomed Detective Game | 336542 | [336542-doomed-detective-game.json](./336542-doomed-detective-game.json) |
 | Doomed Heretic | 104599 | [104599-doomed-heretic.json](./104599-doomed-heretic.json) |
+| Doomed Love | 301944 | [301944-doomed-love.json](./301944-doomed-love.json) |
 | Doomed Space Wars | 261284 | [261284-doomed-space-wars.json](./261284-doomed-space-wars.json) |
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
@@ -5700,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Fire | 241951 | [241951-dream-fire.json](./241951-dream-fire.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
+| Dream Frontier | 301902 | [301902-dream-frontier.json](./301902-dream-frontier.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
 | Dream Girlfriend | 208979 | [208979-dream-girlfriend.json](./208979-dream-girlfriend.json) |
 | Dream Girls VR | 111725 | [111725-dream-girls-vr.json](./111725-dream-girls-vr.json) |
