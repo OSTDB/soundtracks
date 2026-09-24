@@ -3627,6 +3627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disintegration | 120625 | [120625-disintegration.json](./120625-disintegration.json) |
 | Disintegration | 243254 | [243254-disintegration.json](./243254-disintegration.json) |
 | Disjunction | 112005 | [112005-disjunction.json](./112005-disjunction.json) |
+| Disjunction | 313830 | [313830-disjunction.json](./313830-disjunction.json) |
 | Disk Jockey Boy | 46220 | [46220-disk-jockey-boy.json](./46220-disk-jockey-boy.json) |
 | Disk NG 1 | 220140 | [220140-disk-ng-1.json](./220140-disk-ng-1.json) |
 | Disk Station #0 | 78958 | [78958-disk-station-0.json](./78958-disk-station-0.json) |
@@ -3792,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
 | Distant Realm | 337160 | [337160-distant-realm.json](./337160-distant-realm.json) |
+| Distant Shores | 313841 | [313841-distant-shores.json](./313841-distant-shores.json) |
 | Distant Star: Revenant Fleet | 10186 | [10186-distant-star-revenant-fleet.json](./10186-distant-star-revenant-fleet.json) |
 | Distant Sunlight, Endless Regrets | 362338 | [362338-distant-sunlight-endless-regrets.json](./362338-distant-sunlight-endless-regrets.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
