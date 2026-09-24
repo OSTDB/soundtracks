@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable II: Pub Games | 21328 | [21328-fable-ii-pub-games.json](./21328-fable-ii-pub-games.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
 | Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
+| Fable Mosaics: Rapunzel | 294218 | [294218-fable-mosaics-rapunzel.json](./294218-fable-mosaics-rapunzel.json) |
 | Fable Rush | 52283 | [52283-fable-rush.json](./52283-fable-rush.json) |
 | Fable: 20th Anniversary Demake | 342668 | [342668-fable-20th-anniversary-demake.json](./342668-fable-20th-anniversary-demake.json) |
 | Fable: The Lost Chapters | 694 | [694-fable-the-lost-chapters.json](./694-fable-the-lost-chapters.json) |
@@ -1049,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Tractor Simulator 2023: Drive Combine & Trucks | 263497 | [263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json](./263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | Farmington Tales | 44093 | [44093-farmington-tales.json](./44093-farmington-tales.json) |
+| Farmington Tales 2: Winter Crop | 294225 | [294225-farmington-tales-2-winter-crop.json](./294225-farmington-tales-2-winter-crop.json) |
 | Farmnana Defence | 404863 | [404863-farmnana-defence.json](./404863-farmnana-defence.json) |
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
 | FarmVille 2: Country Escape | 38889 | [38889-farmville-2-country-escape.json](./38889-farmville-2-country-escape.json) |
@@ -1078,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Designer | 128988 | [128988-fashion-designer.json](./128988-fashion-designer.json) |
 | Fashion Diva Dress Up - Fashionista World | 103904 | [103904-fashion-diva-dress-up-fashionista-world.json](./103904-fashion-diva-dress-up-fashionista-world.json) |
 | Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
+| Fashion Forward | 294226 | [294226-fashion-forward.json](./294226-fashion-forward.json) |
 | Fashion Friends: Gold Edition | 317257 | [317257-fashion-friends-gold-edition.json](./317257-fashion-friends-gold-edition.json) |
 | Fashion Friends: Silver Edition | 315866 | [315866-fashion-friends-silver-edition.json](./315866-fashion-friends-silver-edition.json) |
 | Fashion Friends: Special Edition | 259585 | [259585-fashion-friends-special-edition.json](./259585-fashion-friends-special-edition.json) |
@@ -1777,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | File 47 | 337124 | [337124-file-47.json](./337124-file-47.json) |
 | File Destined | 235446 | [235446-file-destined.json](./235446-file-destined.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
+| FileKiller | 294215 | [294215-filekiller.json](./294215-filekiller.json) |
 | Fill & Cross: Pirate Riddles 2 | 101556 | [101556-fill-and-cross-pirate-riddles-2.json](./101556-fill-and-cross-pirate-riddles-2.json) |
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
 | Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
@@ -1898,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: Scars of Abyssea | 255775 | [255775-final-fantasy-xi-scars-of-abyssea.json](./255775-final-fantasy-xi-scars-of-abyssea.json) |
 | Final Fantasy XI: Vision of Abyssea | 255774 | [255774-final-fantasy-xi-vision-of-abyssea.json](./255774-final-fantasy-xi-vision-of-abyssea.json) |
 | Final Fantasy XI: Wings of the Goddess | 402 | [402-final-fantasy-xi-wings-of-the-goddess.json](./402-final-fantasy-xi-wings-of-the-goddess.json) |
+| Final Fantasy XIII-2: Requiem of the Goddess | 294213 | [294213-final-fantasy-xiii-2-requiem-of-the-goddess.json](./294213-final-fantasy-xiii-2-requiem-of-the-goddess.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online: Complete Edition | 293775 | [293775-final-fantasy-xiv-online-complete-edition.json](./293775-final-fantasy-xiv-online-complete-edition.json) |
 | Final Fantasy XIV Online: Starter Edition | 293777 | [293777-final-fantasy-xiv-online-starter-edition.json](./293777-final-fantasy-xiv-online-starter-edition.json) |
@@ -2121,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finnish Pub Simulator | 326424 | [326424-finnish-pub-simulator.json](./326424-finnish-pub-simulator.json) |
 | FINSummerVR | 104059 | [104059-finsummervr.json](./104059-finsummervr.json) |
 | Fio Fizhook | 296365 | [296365-fio-fizhook.json](./296365-fio-fizhook.json) |
+| Fiona's Dream of Atlantis | 294228 | [294228-fionas-dream-of-atlantis.json](./294228-fionas-dream-of-atlantis.json) |
 | Fiora Arc | 273494 | [273494-fiora-arc.json](./273494-fiora-arc.json) |
 | Fir Flowers and Hyacinths | 369636 | [369636-fir-flowers-and-hyacinths.json](./369636-fir-flowers-and-hyacinths.json) |
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
@@ -2142,6 +2148,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem 8: Self-Randomizing | 259869 | [259869-fire-emblem-8-self-randomizing.json](./259869-fire-emblem-8-self-randomizing.json) |
 | Fire Emblem 8R | 380529 | [380529-fire-emblem-8r.json](./380529-fire-emblem-8r.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
+| Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
+| Fire Emblem Warriors: Season Pass | 294235 | [294235-fire-emblem-warriors-season-pass.json](./294235-fire-emblem-warriors-season-pass.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
 | Fire Emblem: Binding Blade Plus | 233604 | [233604-fire-emblem-binding-blade-plus.json](./233604-fire-emblem-binding-blade-plus.json) |
 | Fire Emblem: Blessed Heart | 214493 | [214493-fire-emblem-blessed-heart.json](./214493-fire-emblem-blessed-heart.json) |
@@ -5064,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Bikers | 322114 | [322114-furious-bikers.json](./322114-furious-bikers.json) |
 | Furious Bounce | 261879 | [261879-furious-bounce.json](./261879-furious-bounce.json) |
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
+| Furious Flappers | 294249 | [294249-furious-flappers.json](./294249-furious-flappers.json) |
 | Furious Golf | 180768 | [180768-furious-golf.json](./180768-furious-golf.json) |
 | Furious Karting | 47310 | [47310-furious-karting.json](./47310-furious-karting.json) |
 | Furious Race | 105985 | [105985-furious-race.json](./105985-furious-race.json) |
