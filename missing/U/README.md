@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfazed | 31948 | [31948-unfazed.json](./31948-unfazed.json) |
 | Unfinished - An Artist's Lament | 34810 | [34810-unfinished-an-artists-lament.json](./34810-unfinished-an-artists-lament.json) |
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
+| Unfolded Cube | 295321 | [295321-unfolded-cube.json](./295321-unfolded-cube.json) |
 | Unforgivable | 341116 | [341116-unforgivable.json](./341116-unforgivable.json) |
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
 | Unforgiven: Shattered Souls Portable | 139358 | [139358-unforgiven-shattered-souls-portable.json](./139358-unforgiven-shattered-souls-portable.json) |
