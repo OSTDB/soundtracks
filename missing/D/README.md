@@ -3550,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Dancing | 21491 | [21491-dirty-dancing.json](./21491-dirty-dancing.json) |
 | Dirty Fantasy | 405069 | [405069-dirty-fantasy.json](./405069-dirty-fantasy.json) |
 | Dirty Harry | 3142 | [3142-dirty-harry.json](./3142-dirty-harry.json) |
+| Dirty Harry: Excessive Force | 291010 | [291010-dirty-harry-excessive-force.json](./291010-dirty-harry-excessive-force.json) |
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Dirty Kids | 100160 | [100160-dirty-kids.json](./100160-dirty-kids.json) |
 | Dirty Laundry | 406832 | [406832-dirty-laundry.json](./406832-dirty-laundry.json) |
@@ -5353,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Cave | 361298 | [361298-dragon-cave.json](./361298-dragon-cave.json) |
 | Dragon Champions | 125473 | [125473-dragon-champions.json](./125473-dragon-champions.json) |
 | Dragon Chase | 113659 | [113659-dragon-chase.json](./113659-dragon-chase.json) |
+| Dragon Chronicles: Black Tears | 290993 | [290993-dragon-chronicles-black-tears.json](./290993-dragon-chronicles-black-tears.json) |
 | Dragon City | 38877 | [38877-dragon-city.json](./38877-dragon-city.json) |
 | Dragon Clicker | 312170 | [312170-dragon-clicker.json](./312170-dragon-clicker.json) |
 | Dragon Coins | 63337 | [63337-dragon-coins.json](./63337-dragon-coins.json) |
