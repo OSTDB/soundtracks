@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamisama: Spirit of the Shrine | 218737 | [218737-kamisama-spirit-of-the-shrine.json](./218737-kamisama-spirit-of-the-shrine.json) |
 | Kamitsubaki Academy Newspaper Club | 339807 | [339807-kamitsubaki-academy-newspaper-club.json](./339807-kamitsubaki-academy-newspaper-club.json) |
 | Kamitsubaki City Ensemble | 273635 | [273635-kamitsubaki-city-ensemble.json](./273635-kamitsubaki-city-ensemble.json) |
+| Kamitsubaki City Ensemble: Extra Pack feat. V.I.P with V.W.P | 324418 | [324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json](./324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json) |
 | Kamitsubaki City Virtual Reality | 328261 | [328261-kamitsubaki-city-virtual-reality.json](./328261-kamitsubaki-city-virtual-reality.json) |
 | Kamiwaza Wanda | 222531 | [222531-kamiwaza-wanda.json](./222531-kamiwaza-wanda.json) |
 | KamiYaba: Destiny on a Dicey Deadline | 188510 | [188510-kamiyaba-destiny-on-a-dicey-deadline.json](./188510-kamiyaba-destiny-on-a-dicey-deadline.json) |
