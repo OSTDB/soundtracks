@@ -5215,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Dawn of Ragnarök | 185706 | [185706-assassins-creed-valhalla-dawn-of-ragnarok.json](./185706-assassins-creed-valhalla-dawn-of-ragnarok.json) |
 | Assassin's Creed Valhalla: Forgotten Saga | 211296 | [211296-assassins-creed-valhalla-forgotten-saga.json](./211296-assassins-creed-valhalla-forgotten-saga.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
+| Assassin's Creed Valhalla: Season Pass | 293717 | [293717-assassins-creed-valhalla-season-pass.json](./293717-assassins-creed-valhalla-season-pass.json) |
 | Assassin's Creed Valhalla: The Siege of Paris | 140175 | [140175-assassins-creed-valhalla-the-siege-of-paris.json](./140175-assassins-creed-valhalla-the-siege-of-paris.json) |
 | Assassin's Creed: Bloodsail | 26917 | [26917-assassins-creed-bloodsail.json](./26917-assassins-creed-bloodsail.json) |
 | Assassin's Creed: Brotherhood - Animus Project Update 2.0 | 405514 | [405514-assassins-creed-brotherhood-animus-project-update-2-0.json](./405514-assassins-creed-brotherhood-animus-project-update-2-0.json) |
