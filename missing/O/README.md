@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Obake no Q-Taro: Wan-wan Panic | 215139 | [215139-obake-no-q-taro-wan-wan-panic.json](./215139-obake-no-q-taro-wan-wan-panic.json) |
 | Obama Alien Defence | 282109 | [282109-obama-alien-defence.json](./282109-obama-alien-defence.json) |
+| Obama Alien Defense | 326739 | [326739-obama-alien-defense.json](./326739-obama-alien-defense.json) |
 | Obandia | 124626 | [124626-obandia.json](./124626-obandia.json) |
 | Obara no Kiritsu: UAV Practical Simulator | 355206 | [355206-obara-no-kiritsu-uav-practical-simulator.json](./355206-obara-no-kiritsu-uav-practical-simulator.json) |
 | Obby Revival Project | 414430 | [414430-obby-revival-project.json](./414430-obby-revival-project.json) |
