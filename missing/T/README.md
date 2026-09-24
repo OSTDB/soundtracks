@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
 | Tearstone: Thieves of the Heart | 195699 | [195699-tearstone-thieves-of-the-heart.json](./195699-tearstone-thieves-of-the-heart.json) |
 | Tearstone: Thieves of the Heart - Collector's Edition | 322791 | [322791-tearstone-thieves-of-the-heart-collectors-edition.json](./322791-tearstone-thieves-of-the-heart-collectors-edition.json) |
+| Teatime with a Vampire | 301375 | [301375-teatime-with-a-vampire.json](./301375-teatime-with-a-vampire.json) |
 | Tebeo | 215147 | [215147-tebeo.json](./215147-tebeo.json) |
 | Tech and Blood | 181864 | [181864-tech-and-blood.json](./181864-tech-and-blood.json) |
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
@@ -3083,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Prophecy | 190100 | [190100-the-dark-prophecy.json](./190100-the-dark-prophecy.json) |
 | The Dark Quarter | 367476 | [367476-the-dark-quarter.json](./367476-the-dark-quarter.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
+| The Dark Room | 301353 | [301353-the-dark-room.json](./301353-the-dark-room.json) |
 | The Dark Side of the Moon | 54465 | [54465-the-dark-side-of-the-moon.json](./54465-the-dark-side-of-the-moon.json) |
 | The Dark Spire | 21185 | [21185-the-dark-spire.json](./21185-the-dark-spire.json) |
 | The Dark Stone of Mebara | 9398 | [9398-the-dark-stone-of-mebara.json](./9398-the-dark-stone-of-mebara.json) |
@@ -3931,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Wizards Tournament | 123443 | [123443-the-great-wizards-tournament.json](./123443-the-great-wizards-tournament.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
+| The Greater | 301342 | [301342-the-greater.json](./301342-the-greater.json) |
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
 | The Green Light | 211743 | [211743-the-green-light.json](./211743-the-green-light.json) |
@@ -4457,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kings of Limbo | 184498 | [184498-the-kings-of-limbo.json](./184498-the-kings-of-limbo.json) |
 | The Kite | 111664 | [111664-the-kite.json](./111664-the-kite.json) |
 | The Klaxo Radio Hour | 122846 | [122846-the-klaxo-radio-hour.json](./122846-the-klaxo-radio-hour.json) |
+| The Knight Dance | 301377 | [301377-the-knight-dance.json](./301377-the-knight-dance.json) |
 | The Knight of Nephiart | 151700 | [151700-the-knight-of-nephiart.json](./151700-the-knight-of-nephiart.json) |
 | The Knight of Niraking | 392162 | [392162-the-knight-of-niraking.json](./392162-the-knight-of-niraking.json) |
 | The Knight's Magic War | 113045 | [113045-the-knights-magic-war.json](./113045-the-knights-magic-war.json) |
@@ -4535,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last DeadEnd | 100575 | [100575-the-last-deadend.json](./100575-the-last-deadend.json) |
 | The Last Deathbound | 127014 | [127014-the-last-deathbound.json](./127014-the-last-deathbound.json) |
 | The Last Delivery Man on Earth | 374593 | [374593-the-last-delivery-man-on-earth.json](./374593-the-last-delivery-man-on-earth.json) |
+| The Last Dimension | 301371 | [301371-the-last-dimension.json](./301371-the-last-dimension.json) |
 | The Last Dinner | 113493 | [113493-the-last-dinner.json](./113493-the-last-dinner.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Dream: Developer's Edition | 34624 | [34624-the-last-dream-developers-edition.json](./34624-the-last-dream-developers-edition.json) |
@@ -7510,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Die Tomorrow | 188567 | [188567-they-die-tomorrow.json](./188567-they-die-tomorrow.json) |
 | They Dug Too Deep | 258974 | [258974-they-dug-too-deep.json](./258974-they-dug-too-deep.json) |
 | They Fear The Mist | 292536 | [292536-they-fear-the-mist.json](./292536-they-fear-the-mist.json) |
+| They Grew Lungs and Drowned | 301326 | [301326-they-grew-lungs-and-drowned.json](./301326-they-grew-lungs-and-drowned.json) |
 | They Hunger 2: Rest in Pieces | 268005 | [268005-they-hunger-2-rest-in-pieces.json](./268005-they-hunger-2-rest-in-pieces.json) |
 | They Hunger 3: Rude Awakening | 268006 | [268006-they-hunger-3-rude-awakening.json](./268006-they-hunger-3-rude-awakening.json) |
 | They Hunger: Episode 1 | 268004 | [268004-they-hunger-episode-1.json](./268004-they-hunger-episode-1.json) |
