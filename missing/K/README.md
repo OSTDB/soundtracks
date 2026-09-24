@@ -1842,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi x Mitsu: Senba Shizuku to Saboten no Tegami | 221248 | [221248-koi-x-mitsu-senba-shizuku-to-saboten-no-tegami.json](./221248-koi-x-mitsu-senba-shizuku-to-saboten-no-tegami.json) |
 | Koi x Mitsu: Yaeneri Saki to Akai Ito no Ouji-sama | 221249 | [221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json](./221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json) |
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
+| Koibito no Nazo: Lover's Enigma | 310521 | [310521-koibito-no-nazo-lovers-enigma.json](./310521-koibito-no-nazo-lovers-enigma.json) |
 | Koibumi | 279130 | [279130-koibumi.json](./279130-koibumi.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Koihana Bakumeiroku | 229034 | [229034-koihana-bakumeiroku.json](./229034-koihana-bakumeiroku.json) |
