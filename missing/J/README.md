@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle no Ouja Tar-chan: Sekai Manyu Dai Kakutou no Maki | 38313 | [38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json](./38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json) |
 | Jungle Panic Amidahebi | 385745 | [385745-jungle-panic-amidahebi.json](./385745-jungle-panic-amidahebi.json) |
 | Jungle Quest | 230283 | [230283-jungle-quest.json](./230283-jungle-quest.json) |
+| Jungle Ranger | 283855 | [283855-jungle-ranger.json](./283855-jungle-ranger.json) |
 | Jungle Rot | 351677 | [351677-jungle-rot.json](./351677-jungle-rot.json) |
 | Jungle Runner | 192842 | [192842-jungle-runner.json](./192842-jungle-runner.json) |
 | Jungle Shadow | 374082 | [374082-jungle-shadow.json](./374082-jungle-shadow.json) |
@@ -1327,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkineering | 320866 | [320866-junkineering.json](./320866-junkineering.json) |
 | Junklands | 284897 | [284897-junklands.json](./284897-junklands.json) |
 | Junkman Simulator | 153971 | [153971-junkman-simulator.json](./153971-junkman-simulator.json) |
+| JunkMetal | 283818 | [283818-junkmetal.json](./283818-junkmetal.json) |
 | Junko | 286124 | [286124-junko.json](./286124-junko.json) |
 | Junkpunk: Arena | 153856 | [153856-junkpunk-arena.json](./153856-junkpunk-arena.json) |
 | Junkworld | 174745 | [174745-junkworld.json](./174745-junkworld.json) |
