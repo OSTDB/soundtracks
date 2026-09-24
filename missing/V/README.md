@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velvet Hammer | 392149 | [392149-velvet-hammer.json](./392149-velvet-hammer.json) |
 | Velvet Shedding | 415890 | [415890-velvet-shedding.json](./415890-velvet-shedding.json) |
 | Velvet Sundown | 13159 | [13159-velvet-sundown.json](./13159-velvet-sundown.json) |
+| Velvet's Veil | 336723 | [336723-velvets-veil.json](./336723-velvets-veil.json) |
 | Ven Adventure | 216495 | [216495-ven-adventure.json](./216495-ven-adventure.json) |
 | Ven Games | 145472 | [145472-ven-games.json](./145472-ven-games.json) |
 | Ven'rif | 342900 | [342900-venrif.json](./342900-venrif.json) |
