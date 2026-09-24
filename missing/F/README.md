@@ -31,11 +31,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Stop: Reissue | 362475 | [362475-f-stop-reissue.json](./362475-f-stop-reissue.json) |
 | F-Team | 211803 | [211803-f-team.json](./211803-f-team.json) |
 | F-Zero | 3490 | [3490-f-zero.json](./3490-f-zero.json) |
+| F-Zero 99: Ver. 1.5.0 | 329658 | [329658-f-zero-99-ver-1-5-0.json](./329658-f-zero-99-ver-1-5-0.json) |
 | F-Zero Climax | 6400 | [6400-f-zero-climax.json](./6400-f-zero-climax.json) |
 | F-Zero DSX | 313346 | [313346-f-zero-dsx.json](./313346-f-zero-dsx.json) |
 | F-Zero GX | 3492 | [3492-f-zero-gx.json](./3492-f-zero-gx.json) |
 | F-Zero X | 3489 | [3489-f-zero-x.json](./3489-f-zero-x.json) |
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
+| F-Zero: Falcon Densetsu | 329645 | [329645-f-zero-falcon-densetsu.json](./329645-f-zero-falcon-densetsu.json) |
 | F-Zero: Falcon Densetsu e+ - Big Blue: Pigeon | 329545 | [329545-f-zero-falcon-densetsu-e-big-blue-pigeon.json](./329545-f-zero-falcon-densetsu-e-big-blue-pigeon.json) |
 | F-Zero: Falcon Densetsu e+ - Great Star | 329563 | [329563-f-zero-falcon-densetsu-e-great-star.json](./329563-f-zero-falcon-densetsu-e-great-star.json) |
 | F-Zero: Falcon Densetsu e+ - Hyper Speeder | 329562 | [329562-f-zero-falcon-densetsu-e-hyper-speeder.json](./329562-f-zero-falcon-densetsu-e-hyper-speeder.json) |
@@ -4538,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
+| From The Past | 329689 | [329689-from-the-past.json](./329689-from-the-past.json) |
 | From the Streets to the Script: A Carabanchel Story | 238500 | [238500-from-the-streets-to-the-script-a-carabanchel-story.json](./238500-from-the-streets-to-the-script-a-carabanchel-story.json) |
 | From the Town of Gleming | 195630 | [195630-from-the-town-of-gleming.json](./195630-from-the-town-of-gleming.json) |
 | Fromage | 222913 | [222913-fromage.json](./222913-fromage.json) |
