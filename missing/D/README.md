@@ -4753,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomworld Roulette: Session 2 | 312909 | [312909-doomworld-roulette-session-2.json](./312909-doomworld-roulette-session-2.json) |
 | Doomy in the Roomy | 342884 | [342884-doomy-in-the-roomy.json](./342884-doomy-in-the-roomy.json) |
 | Doon Snake | 87218 | [87218-doon-snake.json](./87218-doon-snake.json) |
+| Doons | 306464 | [306464-doons.json](./306464-doons.json) |
 | Dooors 3 | 383640 | [383640-dooors-3.json](./383640-dooors-3.json) |
 | Dooors VR | 29947 | [29947-dooors-vr.json](./29947-dooors-vr.json) |
 | Door | 103457 | [103457-door.json](./103457-door.json) |
@@ -6170,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drybreed | 180715 | [180715-drybreed.json](./180715-drybreed.json) |
 | Drying Paint Simulator VR | 129003 | [129003-drying-paint-simulator-vr.json](./129003-drying-paint-simulator-vr.json) |
 | Drynk: Board and Drinking Game | 180146 | [180146-drynk-board-and-drinking-game.json](./180146-drynk-board-and-drinking-game.json) |
+| DS Bimoji Training | 306436 | [306436-ds-bimoji-training.json](./306436-ds-bimoji-training.json) |
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Chiri, Rekishi, Koumin: Maru x Maru Shakai-ka | 269576 | [269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json](./269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Masu x Masu Hyaku Masu Keisan | 269578 | [269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json](./269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json) |
