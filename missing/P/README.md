@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
 | Panspermia: Horror Myson Mansion | 232526 | [232526-panspermia-horror-myson-mansion.json](./232526-panspermia-horror-myson-mansion.json) |
 | Panta Rhei | 204090 | [204090-panta-rhei.json](./204090-panta-rhei.json) |
+| Panthalassa | 304650 | [304650-panthalassa.json](./304650-panthalassa.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Panther Family Sim | 101550 | [101550-panther-family-sim.json](./101550-panther-family-sim.json) |
 | Panther Simulator | 104625 | [104625-panther-simulator.json](./104625-panther-simulator.json) |
@@ -814,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
 | Paranormal Night Shift | 328009 | [328009-paranormal-night-shift.json](./328009-paranormal-night-shift.json) |
 | Paranormal Place | 304660 | [304660-paranormal-place.json](./304660-paranormal-place.json) |
+| Paranormal Power | 304625 | [304625-paranormal-power.json](./304625-paranormal-power.json) |
 | Paranormal Precinct: Last Copy of '99 | 274565 | [274565-paranormal-precinct-last-copy-of-99.json](./274565-paranormal-precinct-last-copy-of-99.json) |
 | Paranormal Realtor | 382903 | [382903-paranormal-realtor.json](./382903-paranormal-realtor.json) |
 | Paranormal Research Society | 391870 | [391870-paranormal-research-society.json](./391870-paranormal-research-society.json) |
@@ -2977,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Heroes: Tales of Emond | 294690 | [294690-pixel-heroes-tales-of-emond.json](./294690-pixel-heroes-tales-of-emond.json) |
 | Pixel Horizons | 341572 | [341572-pixel-horizons.json](./341572-pixel-horizons.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
+| Pixel Hunt | 304621 | [304621-pixel-hunt.json](./304621-pixel-hunt.json) |
 | Pixel Knights Online | 227375 | [227375-pixel-knights-online.json](./227375-pixel-knights-online.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
@@ -3068,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack 1 | 162938 | [162938-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-1.json](./162938-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-1.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Zombies | 162941 | [162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json](./162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
+| Pixel Quest: Lost Relics | 304560 | [304560-pixel-quest-lost-relics.json](./304560-pixel-quest-lost-relics.json) |
 | Pixel Quest: The Lost Gifts | 413681 | [413681-pixel-quest-the-lost-gifts.json](./413681-pixel-quest-the-lost-gifts.json) |
 | Pixel Quest: The Lost Idols | 413680 | [413680-pixel-quest-the-lost-idols.json](./413680-pixel-quest-the-lost-idols.json) |
 | Pixel Race Maker | 309443 | [309443-pixel-race-maker.json](./309443-pixel-race-maker.json) |
@@ -5870,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
 | Project: Nightlight | 224650 | [224650-project-nightlight.json](./224650-project-nightlight.json) |
 | Project: Nitro | 172060 | [172060-project-nitro.json](./172060-project-nitro.json) |
+| Project: Nova | 304652 | [304652-project-nova.json](./304652-project-nova.json) |
 | Project: Obscurion | 251678 | [251678-project-obscurion.json](./251678-project-obscurion.json) |
 | Project: Perfectly Normal | 177430 | [177430-project-perfectly-normal.json](./177430-project-perfectly-normal.json) |
 | Project: Pong | 241467 | [241467-project-pong.json](./241467-project-pong.json) |
@@ -6390,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
 | Purrrification | 365161 | [365161-purrrification.json](./365161-purrrification.json) |
 | Purrrifiers: Cleaning Chaos | 322196 | [322196-purrrifiers-cleaning-chaos.json](./322196-purrrifiers-cleaning-chaos.json) |
+| Purry & Panther: Lost in Helsinki | 304646 | [304646-purry-and-panther-lost-in-helsinki.json](./304646-purry-and-panther-lost-in-helsinki.json) |
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
 | Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
