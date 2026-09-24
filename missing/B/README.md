@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
 | Baba is You Xtreme | 209470 | [209470-baba-is-you-xtreme.json](./209470-baba-is-you-xtreme.json) |
 | Baba Is You: Jam Build | 383476 | [383476-baba-is-you-jam-build.json](./383476-baba-is-you-jam-build.json) |
+| Baba Yaga | 330347 | [330347-baba-yaga.json](./330347-baba-yaga.json) |
 | Baba-Yaga za tridevyat' zemel'. Nachinaem uchit' nemetskiy | 365290 | [365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json](./365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json) |
 | Baba's Palace | 311985 | [311985-babas-palace.json](./311985-babas-palace.json) |
 | Babaliba | 45339 | [45339-babaliba.json](./45339-babaliba.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
 | Bifrost: Heroes of Midgard | 197340 | [197340-bifrost-heroes-of-midgard.json](./197340-bifrost-heroes-of-midgard.json) |
+| Big Adventure | 330271 | [330271-big-adventure.json](./330271-big-adventure.json) |
 | Big Adventure of Fighting Chicken | 163848 | [163848-big-adventure-of-fighting-chicken.json](./163848-big-adventure-of-fighting-chicken.json) |
 | Big Adventure: Trip to Europe | 237359 | [237359-big-adventure-trip-to-europe.json](./237359-big-adventure-trip-to-europe.json) |
 | Big Adventure: Trip to Europe 10 - Collector's Edition | 338699 | [338699-big-adventure-trip-to-europe-10-collectors-edition.json](./338699-big-adventure-trip-to-europe-10-collectors-edition.json) |
@@ -3293,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Prophecy | 280361 | [280361-black-prophecy.json](./280361-black-prophecy.json) |
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
 | Black Rainbow | 370780 | [370780-black-rainbow.json](./370780-black-rainbow.json) |
+| Black Raven | 330354 | [330354-black-raven.json](./330354-black-raven.json) |
 | Black Resin | 142278 | [142278-black-resin.json](./142278-black-resin.json) |
 | Black River | 29661 | [29661-black-river.json](./29661-black-river.json) |
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
