@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoyan no 10-bai Pro Yakyuu | 48332 | [48332-emoyan-no-10-bai-pro-yakyuu.json](./48332-emoyan-no-10-bai-pro-yakyuu.json) |
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
 | Emperor of the Fading Suns | 50145 | [50145-emperor-of-the-fading-suns.json](./50145-emperor-of-the-fading-suns.json) |
+| Emperor of the Fading Suns Enhanced | 295355 | [295355-emperor-of-the-fading-suns-enhanced.json](./295355-emperor-of-the-fading-suns-enhanced.json) |
 | Emperor: Rise of the Middle Kingdom | 7512 | [7512-emperor-rise-of-the-middle-kingdom.json](./7512-emperor-rise-of-the-middle-kingdom.json) |
 | Empire Builder: Europe | 322708 | [322708-empire-builder-europe.json](./322708-empire-builder-europe.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
