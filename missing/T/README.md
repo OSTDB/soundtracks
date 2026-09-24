@@ -658,6 +658,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
 | Tama & Friends: 3-choume Daibouken | 41332 | [41332-tama-and-friends-3-choume-daibouken.json](./41332-tama-and-friends-3-choume-daibouken.json) |
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
+| Tamaghost Jump! | 307681 | [307681-tamaghost-jump.json](./307681-tamaghost-jump.json) |
+| Tamaghost Jump!I Can't Believe It's Not Exorcism! | 307690 | [307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json](./307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json) |
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
 | Tamagotchi | 11284 | [11284-tamagotchi.json](./11284-tamagotchi.json) |
 | Tamagotchi | 301415 | [301415-tamagotchi.json](./301415-tamagotchi.json) |
@@ -1217,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tear Ring Saga | 43872 | [43872-tear-ring-saga.json](./43872-tear-ring-saga.json) |
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
+| Teardown: Folkrace | 307673 | [307673-teardown-folkrace.json](./307673-teardown-folkrace.json) |
 | Tearoom of Terror | 398590 | [398590-tearoom-of-terror.json](./398590-tearoom-of-terror.json) |
 | Tears Fall Low | 245919 | [245919-tears-fall-low.json](./245919-tears-fall-low.json) |
 | Tears of a Dragon | 29798 | [29798-tears-of-a-dragon.json](./29798-tears-of-a-dragon.json) |
@@ -4462,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lady | 35989 | [35989-the-lady.json](./35989-the-lady.json) |
 | The Lady Puppet | 148385 | [148385-the-lady-puppet.json](./148385-the-lady-puppet.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
+| The Lair of Nekro Neko | 307695 | [307695-the-lair-of-nekro-neko.json](./307695-the-lair-of-nekro-neko.json) |
 | The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
 | The Land | 64929 | [64929-the-land.json](./64929-the-land.json) |
@@ -5237,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing Part | 349880 | [349880-the-missing-part.json](./349880-the-missing-part.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Missing Tail | 416085 | [416085-the-missing-tail.json](./416085-the-missing-tail.json) |
+| The Missing Trail | 307703 | [307703-the-missing-trail.json](./307703-the-missing-trail.json) |
 | The Mission | 78027 | [78027-the-mission.json](./78027-the-mission.json) |
 | The Mission Unpossible | 59061 | [59061-the-mission-unpossible.json](./59061-the-mission-unpossible.json) |
 | The Mist City | 284333 | [284333-the-mist-city.json](./284333-the-mist-city.json) |
@@ -7119,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way Home | 166721 | [166721-the-way-home.json](./166721-the-way-home.json) |
 | The Way Home | 193961 | [193961-the-way-home.json](./193961-the-way-home.json) |
 | The Way Home | 248902 | [248902-the-way-home.json](./248902-the-way-home.json) |
+| The Way Home | 307686 | [307686-the-way-home.json](./307686-the-way-home.json) |
 | The Way Home | 362293 | [362293-the-way-home.json](./362293-the-way-home.json) |
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
 | The Way of Cooking | 292525 | [292525-the-way-of-cooking.json](./292525-the-way-of-cooking.json) |
@@ -9075,6 +9081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toadette Strikes | 134069 | [134069-toadette-strikes.json](./134069-toadette-strikes.json) |
 | Toadette's Christmas Adventure | 215198 | [215198-toadettes-christmas-adventure.json](./215198-toadettes-christmas-adventure.json) |
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
+| Toads vs. Koopas | 307663 | [307663-toads-vs-koopas.json](./307663-toads-vs-koopas.json) |
 | Toaplan Arcade 2 | 239142 | [239142-toaplan-arcade-2.json](./239142-toaplan-arcade-2.json) |
 | Toaplan Arcade 4 | 346803 | [346803-toaplan-arcade-4.json](./346803-toaplan-arcade-4.json) |
 | Toaplan Arcade Collection 3 | 325237 | [325237-toaplan-arcade-collection-3.json](./325237-toaplan-arcade-collection-3.json) |
@@ -12113,6 +12120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Dream | 364683 | [364683-twilight-dream.json](./364683-twilight-dream.json) |
 | Twilight Drive | 148366 | [148366-twilight-drive.json](./148366-twilight-drive.json) |
 | Twilight Flight | 403709 | [403709-twilight-flight.json](./403709-twilight-flight.json) |
+| Twilight Flyer | 307711 | [307711-twilight-flyer.json](./307711-twilight-flyer.json) |
 | Twilight Gallery | 382197 | [382197-twilight-gallery.json](./382197-twilight-gallery.json) |
 | Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
 | Twilight Host Club | 298888 | [298888-twilight-host-club.json](./298888-twilight-host-club.json) |
@@ -12295,6 +12303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twordle | 200060 | [200060-twordle.json](./200060-twordle.json) |
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
+| Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
 | Tyalband | 276310 | [276310-tyalband.json](./276310-tyalband.json) |
 | Tybot Invasion: The Typing Runner | 151568 | [151568-tybot-invasion-the-typing-runner.json](./151568-tybot-invasion-the-typing-runner.json) |
 | Tyco R/C: Assault with a Battery | 44889 | [44889-tyco-r-c-assault-with-a-battery.json](./44889-tyco-r-c-assault-with-a-battery.json) |
