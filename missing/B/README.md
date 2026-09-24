@@ -5695,6 +5695,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout 3000 | 73293 | [73293-breakout-3000.json](./73293-breakout-3000.json) |
 | Breakout Baby | 413175 | [413175-breakout-baby.json](./413175-breakout-baby.json) |
 | Breakout Beyond | 330257 | [330257-breakout-beyond.json](./330257-breakout-beyond.json) |
+| Breakout Birdie | 283213 | [283213-breakout-birdie.json](./283213-breakout-birdie.json) |
+| Breakout Birdie 2 | 283214 | [283214-breakout-birdie-2.json](./283214-breakout-birdie-2.json) |
+| Breakout Birdie Adventure | 283215 | [283215-breakout-birdie-adventure.json](./283215-breakout-birdie-adventure.json) |
 | Breakout Birdie Escape | 278658 | [278658-breakout-birdie-escape.json](./278658-breakout-birdie-escape.json) |
 | Breakout Birdie Panic | 278661 | [278661-breakout-birdie-panic.json](./278661-breakout-birdie-panic.json) |
 | Breakout Birdie Panic 2 | 278662 | [278662-breakout-birdie-panic-2.json](./278662-breakout-birdie-panic-2.json) |
