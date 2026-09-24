@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Ventures 2 | 234628 | [234628-match-ventures-2.json](./234628-match-ventures-2.json) |
 | Match Village | 217372 | [217372-match-village.json](./217372-match-village.json) |
 | Match War | 258710 | [258710-match-war.json](./258710-match-war.json) |
+| Match-o-3000 | 336722 | [336722-match-o-3000.json](./336722-match-o-3000.json) |
 | Matchblocks | 74741 | [74741-matchblocks.json](./74741-matchblocks.json) |
 | Matchbox Missions: Air, Land and Sea Rescue / Emergency Response | 137696 | [137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json](./137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json) |
 | Matchbox Rescue Rigs | 209551 | [209551-matchbox-rescue-rigs.json](./209551-matchbox-rescue-rigs.json) |
@@ -2885,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalopolis SOS | 138004 | [138004-megalopolis-sos.json](./138004-megalopolis-sos.json) |
 | Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
 | Megamagic: Wizards of the Neon Age | 25610 | [25610-megamagic-wizards-of-the-neon-age.json](./25610-megamagic-wizards-of-the-neon-age.json) |
+| MegaMan NT Warrior Advanced PET | 336716 | [336716-megaman-nt-warrior-advanced-pet.json](./336716-megaman-nt-warrior-advanced-pet.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - 001: Cannon | 352838 | [352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json](./352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - AreaSteal | 352957 | [352957-megaman-nt-warrior-advanced-pet-battle-chip-areasteal.json](./352957-megaman-nt-warrior-advanced-pet-battle-chip-areasteal.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Attack+10 | 352959 | [352959-megaman-nt-warrior-advanced-pet-battle-chip-attack-10.json](./352959-megaman-nt-warrior-advanced-pet-battle-chip-attack-10.json) |
@@ -6429,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Trap 2: Under the Cloak of Fear | 30309 | [30309-mountain-trap-2-under-the-cloak-of-fear.json](./30309-mountain-trap-2-under-the-cloak-of-fear.json) |
 | Mountain Trap: The Manor of Memories | 26576 | [26576-mountain-trap-the-manor-of-memories.json](./26576-mountain-trap-the-manor-of-memories.json) |
 | Mountaincore | 245932 | [245932-mountaincore.json](./245932-mountaincore.json) |
+| Mounted War | 336691 | [336691-mounted-war.json](./336691-mounted-war.json) |
 | Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
