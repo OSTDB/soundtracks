@@ -2694,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Peak | 18406 | [18406-shadows-peak.json](./18406-shadows-peak.json) |
 | Shadows Remain | 72324 | [72324-shadows-remain.json](./72324-shadows-remain.json) |
 | Shadows Show | 381674 | [381674-shadows-show.json](./381674-shadows-show.json) |
+| Shadows Unveiled: Agnes | 293145 | [293145-shadows-unveiled-agnes.json](./293145-shadows-unveiled-agnes.json) |
 | Shadows: Awakening | 54775 | [54775-shadows-awakening.json](./54775-shadows-awakening.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
@@ -9410,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
+| Starblind | 293175 | [293175-starblind.json](./293175-starblind.json) |
 | StarBlox Inc. | 124060 | [124060-starblox-inc.json](./124060-starblox-inc.json) |
 | Starboard | 192366 | [192366-starboard.json](./192366-starboard.json) |
 | Starboard | 334157 | [334157-starboard.json](./334157-starboard.json) |
@@ -13118,6 +13120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Dieland | 160257 | [160257-survivor-dieland.json](./160257-survivor-dieland.json) |
 | Survivor Heroes | 313222 | [313222-survivor-heroes.json](./313222-survivor-heroes.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
+| Survivor Master-Sifu | 293152 | [293152-survivor-master-sifu.json](./293152-survivor-master-sifu.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
 | Survivor Squad: Gauntlets | 36186 | [36186-survivor-squad-gauntlets.json](./36186-survivor-squad-gauntlets.json) |
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
