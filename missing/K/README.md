@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaizo Mario World | 132654 | [132654-kaizo-mario-world.json](./132654-kaizo-mario-world.json) |
 | Kaizoku Sentai Gokaiger: Atsumete Henshin! 35 Sentai | 63580 | [63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json](./63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json) |
 | Kaizou Choujin Schbibinman | 42052 | [42052-kaizou-choujin-schbibinman.json](./42052-kaizou-choujin-schbibinman.json) |
+| Kajipeet | 316769 | [316769-kajipeet.json](./316769-kajipeet.json) |
 | Kajiri Kamui Kagura | 63822 | [63822-kajiri-kamui-kagura.json](./63822-kajiri-kamui-kagura.json) |
 | Kajko i Kokosz | 93588 | [93588-kajko-i-kokosz.json](./93588-kajko-i-kokosz.json) |
 | Kajko i Kokosz: Twierdza Czarnoksiężnika | 135172 | [135172-kajko-i-kokosz-twierdza-czarnoksieznika.json](./135172-kajko-i-kokosz-twierdza-czarnoksieznika.json) |
@@ -2134,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubrain | 200021 | [200021-kubrain.json](./200021-kubrain.json) |
 | Kubus | 80580 | [80580-kubus.json](./80580-kubus.json) |
 | Kuchisake Onna | 110496 | [110496-kuchisake-onna.json](./110496-kuchisake-onna.json) |
+| Kudamono Drop | 316780 | [316780-kudamono-drop.json](./316780-kudamono-drop.json) |
 | Kudamono Party | 288780 | [288780-kudamono-party.json](./288780-kudamono-party.json) |
 | Kuentame | 383377 | [383377-kuentame.json](./383377-kuentame.json) |
 | Kuento: Wasureenu Hibi ni | 97384 | [97384-kuento-wasureenu-hibi-ni.json](./97384-kuento-wasureenu-hibi-ni.json) |
