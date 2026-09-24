@@ -6950,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Mission | 113723 | [113723-cube-mission.json](./113723-cube-mission.json) |
 | Cube Monster | 74389 | [74389-cube-monster.json](./74389-cube-monster.json) |
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
+| Cube Railway | 312695 | [312695-cube-railway.json](./312695-cube-railway.json) |
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
 | Cube Royale | 269035 | [269035-cube-royale.json](./269035-cube-royale.json) |
 | Cube RPG | 260211 | [260211-cube-rpg.json](./260211-cube-rpg.json) |
