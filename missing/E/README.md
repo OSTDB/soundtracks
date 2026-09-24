@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EigenGauge | 283771 | [283771-eigengauge.json](./283771-eigengauge.json) |
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
+| Eight Dragons 2 | 307674 | [307674-eight-dragons-2.json](./307674-eight-dragons-2.json) |
 | Eight Forces | 39868 | [39868-eight-forces.json](./39868-eight-forces.json) |
 | Eight Pool Fever | 322586 | [322586-eight-pool-fever.json](./322586-eight-pool-fever.json) |
 | Eight-Minute Empire | 43080 | [43080-eight-minute-empire.json](./43080-eight-minute-empire.json) |
