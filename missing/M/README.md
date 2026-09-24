@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Anarchy | 356689 | [356689-mechanical-anarchy.json](./356689-mechanical-anarchy.json) |
 | Mechanical Chess: Real-time | 357309 | [357309-mechanical-chess-real-time.json](./357309-mechanical-chess-real-time.json) |
 | Mechanical Gods | 245881 | [245881-mechanical-gods.json](./245881-mechanical-gods.json) |
+| Mechanical Siege | 283845 | [283845-mechanical-siege.json](./283845-mechanical-siege.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
 | Mechanics | 254141 | [254141-mechanics.json](./254141-mechanics.json) |
@@ -6461,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaique Neko Waifus 5 | 221206 | [221206-mosaique-neko-waifus-5.json](./221206-mosaique-neko-waifus-5.json) |
 | Moscow to Berlin: Red Siege | 20541 | [20541-moscow-to-berlin-red-siege.json](./20541-moscow-to-berlin-red-siege.json) |
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
+| Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
 | Moshi Monsters: School of ROX | 230391 | [230391-moshi-monsters-school-of-rox.json](./230391-moshi-monsters-school-of-rox.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
