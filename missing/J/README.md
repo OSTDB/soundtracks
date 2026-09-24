@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigokuraku: Paradise Battle | 409820 | [409820-jigokuraku-paradise-battle.json](./409820-jigokuraku-paradise-battle.json) |
 | Jigsaw | 7863 | [7863-jigsaw.json](./7863-jigsaw.json) |
 | Jigsaw Advent Calendar | 276845 | [276845-jigsaw-advent-calendar.json](./276845-jigsaw-advent-calendar.json) |
+| Jigsaw Chronicles: Haunting Tales | 321512 | [321512-jigsaw-chronicles-haunting-tales.json](./321512-jigsaw-chronicles-haunting-tales.json) |
 | Jigsaw Chronicles: Heroes of Legend | 317217 | [317217-jigsaw-chronicles-heroes-of-legend.json](./317217-jigsaw-chronicles-heroes-of-legend.json) |
 | Jigsaw Chronicles: Most Wanted | 325002 | [325002-jigsaw-chronicles-most-wanted.json](./325002-jigsaw-chronicles-most-wanted.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
