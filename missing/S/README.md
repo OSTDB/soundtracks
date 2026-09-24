@@ -6326,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomon no Kagi: Another Ver | 414621 | [414621-solomon-no-kagi-another-ver.json](./414621-solomon-no-kagi-another-ver.json) |
 | Solomon Program | 128357 | [128357-solomon-program.json](./128357-solomon-program.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
+| Solomon's Key | 286608 | [286608-solomons-key.json](./286608-solomons-key.json) |
 | Solos | 197318 | [197318-solos.json](./197318-solos.json) |
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
 | Solraid | 200633 | [200633-solraid.json](./200633-solraid.json) |
@@ -8516,6 +8517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob's Atlantis Squarepantis | 221834 | [221834-spongebobs-atlantis-squarepantis.json](./221834-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
+| SpongeBob's Atlantis SquarePantis SquareOff | 286583 | [286583-spongebobs-atlantis-squarepantis-squareoff.json](./286583-spongebobs-atlantis-squarepantis-squareoff.json) |
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
 | SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
@@ -10260,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Situations | 273404 | [273404-sticky-situations.json](./273404-sticky-situations.json) |
 | Sticky Splats Matchup | 359437 | [359437-sticky-splats-matchup.json](./359437-sticky-splats-matchup.json) |
 | Sticky Steve's Sticky Situation | 214191 | [214191-sticky-steves-sticky-situation.json](./214191-sticky-steves-sticky-situation.json) |
+| Sticky Struggles | 286599 | [286599-sticky-struggles.json](./286599-sticky-struggles.json) |
 | Sticky Zeitgeist: Episode 3 - A Trick With Ants | 178505 | [178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json](./178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
