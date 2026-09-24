@@ -7074,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Water Horse: Legend of the Deep | 43258 | [43258-the-water-horse-legend-of-the-deep.json](./43258-the-water-horse-legend-of-the-deep.json) |
 | The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
 | The Watson-Scott Test | 110737 | [110737-the-watson-scott-test.json](./110737-the-watson-scott-test.json) |
+| The Wavy Tube Man Chronicles | 316737 | [316737-the-wavy-tube-man-chronicles.json](./316737-the-wavy-tube-man-chronicles.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
 | The Way Home | 166721 | [166721-the-way-home.json](./166721-the-way-home.json) |
 | The Way Home | 193961 | [193961-the-way-home.json](./193961-the-way-home.json) |
@@ -7278,6 +7279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
 | Theatre of Doom | 28183 | [28183-theatre-of-doom.json](./28183-theatre-of-doom.json) |
+| Theatre of Pain | 316792 | [316792-theatre-of-pain.json](./316792-theatre-of-pain.json) |
 | Theatre of The Absurd | 17367 | [17367-theatre-of-the-absurd.json](./17367-theatre-of-the-absurd.json) |
 | Theatre of the Absurd: A Scarlet Frost Mystery | 53792 | [53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json](./53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json) |
 | Theatre of War | 166632 | [166632-theatre-of-war.json](./166632-theatre-of-war.json) |
