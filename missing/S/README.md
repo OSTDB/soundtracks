@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
 | Sangoku Xiangqi | 259096 | [259096-sangoku-xiangqi.json](./259096-sangoku-xiangqi.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
+| Sangokushi Eiketsuden | 327954 | [327954-sangokushi-eiketsuden.json](./327954-sangokushi-eiketsuden.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
 | Sangokushi II: Haou no Tairiku | 48861 | [48861-sangokushi-ii-haou-no-tairiku.json](./48861-sangokushi-ii-haou-no-tairiku.json) |
 | Sangokushi Tactics | 341156 | [341156-sangokushi-tactics.json](./341156-sangokushi-tactics.json) |
@@ -4874,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
 | Slender: Lonely Home | 126446 | [126446-slender-lonely-home.json](./126446-slender-lonely-home.json) |
+| Slender: Reborn | 327987 | [327987-slender-reborn.json](./327987-slender-reborn.json) |
 | Slender: The Arrival | 2049 | [2049-slender-the-arrival.json](./2049-slender-the-arrival.json) |
 | Slender: The Arrival | 265723 | [265723-slender-the-arrival.json](./265723-slender-the-arrival.json) |
 | Slender: The Eight Pages | 12938 | [12938-slender-the-eight-pages.json](./12938-slender-the-eight-pages.json) |
@@ -5939,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokomonster + Sokolab + Feed Your Cat | 335101 | [335101-sokomonster-sokolab-feed-your-cat.json](./335101-sokomonster-sokolab-feed-your-cat.json) |
 | Sokonashi No Me | 370883 | [370883-sokonashi-no-me.json](./370883-sokonashi-no-me.json) |
 | SokoNature | 324666 | [324666-sokonature.json](./324666-sokonature.json) |
+| Sokorobot | 327980 | [327980-sokorobot.json](./327980-sokorobot.json) |
 | Sokorun: One Box | 209673 | [209673-sokorun-one-box.json](./209673-sokorun-one-box.json) |
 | Sokos | 33053 | [33053-sokos.json](./33053-sokos.json) |
 | Sokosignal | 219596 | [219596-sokosignal.json](./219596-sokosignal.json) |
@@ -9747,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Conquest 3: Hostile Takeover | 70092 | [70092-stellar-conquest-3-hostile-takeover.json](./70092-stellar-conquest-3-hostile-takeover.json) |
 | Stellar Dawn | 67338 | [67338-stellar-dawn.json](./67338-stellar-dawn.json) |
 | Stellar Destiny: The Last Survivor | 350427 | [350427-stellar-destiny-the-last-survivor.json](./350427-stellar-destiny-the-last-survivor.json) |
+| Stellar Docks | 327978 | [327978-stellar-docks.json](./327978-stellar-docks.json) |
 | Stellar Docks: Deep Space | 335959 | [335959-stellar-docks-deep-space.json](./335959-stellar-docks-deep-space.json) |
 | Stellar Echoes: Boxing Champion | 263747 | [263747-stellar-echoes-boxing-champion.json](./263747-stellar-echoes-boxing-champion.json) |
 | Stellar Echoes: Brave Trial | 263746 | [263746-stellar-echoes-brave-trial.json](./263746-stellar-echoes-brave-trial.json) |
@@ -10413,6 +10417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
+| Street Food Restaurant Owner | 327979 | [327979-street-food-restaurant-owner.json](./327979-street-food-restaurant-owner.json) |
 | Street Football | 169301 | [169301-street-football.json](./169301-street-football.json) |
 | Street Football | 21476 | [21476-street-football.json](./21476-street-football.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
@@ -11506,6 +11511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Froppings | 418700 | [418700-super-froppings.json](./418700-super-froppings.json) |
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
+| Super Galaxy Ranger Luna | 327983 | [327983-super-galaxy-ranger-luna.json](./327983-super-galaxy-ranger-luna.json) |
 | Super Galaxy Squadron EX | 17991 | [17991-super-galaxy-squadron-ex.json](./17991-super-galaxy-squadron-ex.json) |
 | Super Game System Basic | 76193 | [76193-super-game-system-basic.json](./76193-super-game-system-basic.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
@@ -12796,6 +12802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
 | Sushi Loop | 409770 | [409770-sushi-loop.json](./409770-sushi-loop.json) |
+| Sushi Monster | 327994 | [327994-sushi-monster.json](./327994-sushi-monster.json) |
 | Sushi on Wheels | 386292 | [386292-sushi-on-wheels.json](./386292-sushi-on-wheels.json) |
 | Sushi Race: More Toppings Race Pack | 332600 | [332600-sushi-race-more-toppings-race-pack.json](./332600-sushi-race-more-toppings-race-pack.json) |
 | Sushi Sort | 255762 | [255762-sushi-sort.json](./255762-sushi-sort.json) |
