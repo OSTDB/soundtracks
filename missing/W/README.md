@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Somua SM Pack | 336936 | [336936-war-thunder-somua-sm-pack.json](./336936-war-thunder-somua-sm-pack.json) |
 | War Thunder: T-80U-E1 Bundle | 306494 | [306494-war-thunder-t-80u-e1-bundle.json](./306494-war-thunder-t-80u-e1-bundle.json) |
 | War Thunder: T29 Pack | 293762 | [293762-war-thunder-t29-pack.json](./293762-war-thunder-t29-pack.json) |
+| War Thunder: Type 96A Prototype Pack | 332055 | [332055-war-thunder-type-96a-prototype-pack.json](./332055-war-thunder-type-96a-prototype-pack.json) |
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
 | War to the Core | 249815 | [249815-war-to-the-core.json](./249815-war-to-the-core.json) |
@@ -2992,10 +2993,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Heat | 361890 | [361890-world-of-tanks-heat.json](./361890-world-of-tanks-heat.json) |
 | World of Tanks: Independence | 121641 | [121641-world-of-tanks-independence.json](./121641-world-of-tanks-independence.json) |
 | World of Tanks: Modern Armor | 296792 | [296792-world-of-tanks-modern-armor.json](./296792-world-of-tanks-modern-armor.json) |
+| World of Tanks: Modern Armor - Frostbite Starter Pack | 332068 | [332068-world-of-tanks-modern-armor-frostbite-starter-pack.json](./332068-world-of-tanks-modern-armor-frostbite-starter-pack.json) |
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
+| World of Tanks: Modern Armor - Patricia Laserian | 332063 | [332063-world-of-tanks-modern-armor-patricia-laserian.json](./332063-world-of-tanks-modern-armor-patricia-laserian.json) |
+| World of Tanks: Modern Armor - Quick Start | 332057 | [332057-world-of-tanks-modern-armor-quick-start.json](./332057-world-of-tanks-modern-armor-quick-start.json) |
+| World of Tanks: Modern Armor - Ready for Combat | 332058 | [332058-world-of-tanks-modern-armor-ready-for-combat.json](./332058-world-of-tanks-modern-armor-ready-for-combat.json) |
+| World of Tanks: Modern Armor - Scout ‘n' Swarm | 332062 | [332062-world-of-tanks-modern-armor-scout-n-swarm.json](./332062-world-of-tanks-modern-armor-scout-n-swarm.json) |
 | World of Tanks: Modern Armor - Super Heavy Hitter | 332534 | [332534-world-of-tanks-modern-armor-super-heavy-hitter.json](./332534-world-of-tanks-modern-armor-super-heavy-hitter.json) |
+| World of Tanks: Modern Armor - Tank of the Month: AltProto AMX 30 | 332066 | [332066-world-of-tanks-modern-armor-tank-of-the-month-altproto-amx-30.json](./332066-world-of-tanks-modern-armor-tank-of-the-month-altproto-amx-30.json) |
+| World of Tanks: Modern Armor - Tank of the Month: K-91 Version II | 332065 | [332065-world-of-tanks-modern-armor-tank-of-the-month-k-91-version-ii.json](./332065-world-of-tanks-modern-armor-tank-of-the-month-k-91-version-ii.json) |
+| World of Tanks: Modern Armor - Tank of the Month: M41D | 332061 | [332061-world-of-tanks-modern-armor-tank-of-the-month-m41d.json](./332061-world-of-tanks-modern-armor-tank-of-the-month-m41d.json) |
 | World of Tanks: Modern Armor - Tank of the Month: NM 116 Panserjager | 334289 | [334289-world-of-tanks-modern-armor-tank-of-the-month-nm-116-panserjager.json](./334289-world-of-tanks-modern-armor-tank-of-the-month-nm-116-panserjager.json) |
+| World of Tanks: Modern Armor - Tank of the Month: T-62M-1 | 332060 | [332060-world-of-tanks-modern-armor-tank-of-the-month-t-62m-1.json](./332060-world-of-tanks-modern-armor-tank-of-the-month-t-62m-1.json) |
 | World of Tanks: Modern Armor - TMNT Starter Pack | 334290 | [334290-world-of-tanks-modern-armor-tmnt-starter-pack.json](./334290-world-of-tanks-modern-armor-tmnt-starter-pack.json) |
+| World of Tanks: Modern Armor - Union of Land & Sea | 332064 | [332064-world-of-tanks-modern-armor-union-of-land-and-sea.json](./332064-world-of-tanks-modern-armor-union-of-land-and-sea.json) |
+| World of Tanks: Modern Armor - Vipers Starter Pack | 332059 | [332059-world-of-tanks-modern-armor-vipers-starter-pack.json](./332059-world-of-tanks-modern-armor-vipers-starter-pack.json) |
+| World of Tanks: Modern Armor - Volusad Thassius | 332056 | [332056-world-of-tanks-modern-armor-volusad-thassius.json](./332056-world-of-tanks-modern-armor-volusad-thassius.json) |
 | World of Tanks: Modern Armor - Warlords Starter Pack | 338220 | [338220-world-of-tanks-modern-armor-warlords-starter-pack.json](./338220-world-of-tanks-modern-armor-warlords-starter-pack.json) |
 | World of Tanks: Modern Jumpstart | 293773 | [293773-world-of-tanks-modern-jumpstart.json](./293773-world-of-tanks-modern-jumpstart.json) |
 | World of Tanks: Roll Out Collector's Edition | 115673 | [115673-world-of-tanks-roll-out-collectors-edition.json](./115673-world-of-tanks-roll-out-collectors-edition.json) |
@@ -3023,7 +3036,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Huanghe Pack | 156113 | [156113-world-of-warships-huanghe-pack.json](./156113-world-of-warships-huanghe-pack.json) |
 | World of Warships: Legends | 107250 | [107250-world-of-warships-legends.json](./107250-world-of-warships-legends.json) |
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
+| World of Warships: Legends - Dawn's Guardian | 332046 | [332046-world-of-warships-legends-dawns-guardian.json](./332046-world-of-warships-legends-dawns-guardian.json) |
+| World of Warships: Legends - Eagle Union's Power | 332047 | [332047-world-of-warships-legends-eagle-unions-power.json](./332047-world-of-warships-legends-eagle-unions-power.json) |
 | World of Warships: Legends - European Strength | 332535 | [332535-world-of-warships-legends-european-strength.json](./332535-world-of-warships-legends-european-strength.json) |
+| World of Warships: Legends - Heavy Hitter | 332052 | [332052-world-of-warships-legends-heavy-hitter.json](./332052-world-of-warships-legends-heavy-hitter.json) |
+| World of Warships: Legends - Iron Will | 332048 | [332048-world-of-warships-legends-iron-will.json](./332048-world-of-warships-legends-iron-will.json) |
+| World of Warships: Legends - Italian Autumn | 332049 | [332049-world-of-warships-legends-italian-autumn.json](./332049-world-of-warships-legends-italian-autumn.json) |
+| World of Warships: Legends - Jump-Start 7 | 332050 | [332050-world-of-warships-legends-jump-start-7.json](./332050-world-of-warships-legends-jump-start-7.json) |
+| World of Warships: Legends - Lead the Way | 332051 | [332051-world-of-warships-legends-lead-the-way.json](./332051-world-of-warships-legends-lead-the-way.json) |
+| World of Warships: Legends - Pilgrim From Devon | 332053 | [332053-world-of-warships-legends-pilgrim-from-devon.json](./332053-world-of-warships-legends-pilgrim-from-devon.json) |
+| World of Warships: Legends - United Force | 332054 | [332054-world-of-warships-legends-united-force.json](./332054-world-of-warships-legends-united-force.json) |
 | World of Warships: Starter Pack - Ishizuchi | 223475 | [223475-world-of-warships-starter-pack-ishizuchi.json](./223475-world-of-warships-starter-pack-ishizuchi.json) |
 | World of Wimmelbild Gold | 92503 | [92503-world-of-wimmelbild-gold.json](./92503-world-of-wimmelbild-gold.json) |
 | World of Wizard: The Mirror Kingdom | 57355 | [57355-world-of-wizard-the-mirror-kingdom.json](./57355-world-of-wizard-the-mirror-kingdom.json) |
@@ -3094,6 +3116,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Party: Game of Trump | 75054 | [75054-world-war-party-game-of-trump.json](./75054-world-war-party-game-of-trump.json) |
 | World War Robot | 180713 | [180713-world-war-robot.json](./180713-world-war-robot.json) |
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
+| World War Z: Desert Defenders Weapons Pack | 332044 | [332044-world-war-z-desert-defenders-weapons-pack.json](./332044-world-war-z-desert-defenders-weapons-pack.json) |
+| World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
 | World War Zero | 127176 | [127176-world-war-zero.json](./127176-world-war-zero.json) |
 | World War: Battle of the Bulge | 300827 | [300827-world-war-battle-of-the-bulge.json](./300827-world-war-battle-of-the-bulge.json) |
 | World War: Combat Guardian | 251049 | [251049-world-war-combat-guardian.json](./251049-world-war-combat-guardian.json) |
@@ -3382,6 +3406,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K24 | 283600 | [283600-wwe-2k24.json](./283600-wwe-2k24.json) |
+| WWE 2K24: Global Superstars Pack | 332035 | [332035-wwe-2k24-global-superstars-pack.json](./332035-wwe-2k24-global-superstars-pack.json) |
+| WWE 2K24: MyRISE Mega-Boost | 332034 | [332034-wwe-2k24-myrise-mega-boost.json](./332034-wwe-2k24-myrise-mega-boost.json) |
+| WWE 2K24: Pat McAfee Show Pack | 332036 | [332036-wwe-2k24-pat-mcafee-show-pack.json](./332036-wwe-2k24-pat-mcafee-show-pack.json) |
+| WWE 2K24: WCW Pack | 332033 | [332033-wwe-2k24-wcw-pack.json](./332033-wwe-2k24-wcw-pack.json) |
 | WWE 2K25: Deadman Edition | 335095 | [335095-wwe-2k25-deadman-edition.json](./335095-wwe-2k25-deadman-edition.json) |
 | WWE 2K25: Deadman Edition Bonus Pack | 353986 | [353986-wwe-2k25-deadman-edition-bonus-pack.json](./353986-wwe-2k25-deadman-edition-bonus-pack.json) |
 | WWE 2K25: Dunk & Destruction Pack | 353987 | [353987-wwe-2k25-dunk-and-destruction-pack.json](./353987-wwe-2k25-dunk-and-destruction-pack.json) |
