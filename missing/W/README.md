@@ -197,10 +197,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall-E: The Video Game - Slider | 325574 | [325574-wall-e-the-video-game-slider.json](./325574-wall-e-the-video-game-slider.json) |
 | Wall$treet | 78664 | [78664-wall-treet.json](./78664-wall-treet.json) |
 | Wallace & Gromit Adventures | 320995 | [320995-wallace-and-gromit-adventures.json](./320995-wallace-and-gromit-adventures.json) |
+| Wallace & Gromit: Invention Suspension | 320877 | [320877-wallace-and-gromit-invention-suspension.json](./320877-wallace-and-gromit-invention-suspension.json) |
+| Wallace & Gromit: Snow Drift | 320881 | [320881-wallace-and-gromit-snow-drift.json](./320881-wallace-and-gromit-snow-drift.json) |
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
+| Wallace & Gromit: Top Bun | 320878 | [320878-wallace-and-gromit-top-bun.json](./320878-wallace-and-gromit-top-bun.json) |
 | Wallace & Gromit's Grand Adventures: Episode 1 - Fright of the Bumblebees | 115575 | [115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json](./115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json) |
 | Wallace & Gromit's Grand Adventures: Episode 3 - Muzzled! | 69168 | [69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json](./69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json) |
 | Wallace & Gromit's Grand Adventures: Episode 4 - The Bogey Man | 69160 | [69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json](./69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json) |
+| Wallace & Gromit's World of Invention: Wallace's Workshop | 320879 | [320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json](./320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json) |
 | Wallachia: Reign of Dracula | 100524 | [100524-wallachia-reign-of-dracula.json](./100524-wallachia-reign-of-dracula.json) |
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
 | Walled Haven | 382195 | [382195-walled-haven.json](./382195-walled-haven.json) |
