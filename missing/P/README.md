@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World | 6530 | [6530-pac-man-world.json](./6530-pac-man-world.json) |
 | Pac-Man World | 84190 | [84190-pac-man-world.json](./84190-pac-man-world.json) |
 | Pac-Man World 2 | 134428 | [134428-pac-man-world-2.json](./134428-pac-man-world-2.json) |
+| Pac-Man World 2 | 305269 | [305269-pac-man-world-2.json](./305269-pac-man-world-2.json) |
 | Pac-Man World 2 Re-Pac | 358530 | [358530-pac-man-world-2-re-pac.json](./358530-pac-man-world-2-re-pac.json) |
 | Pac-Man World 3 | 4064 | [4064-pac-man-world-3.json](./4064-pac-man-world-3.json) |
 | Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
@@ -3999,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Gadir | 232692 | [232692-pokemon-gadir.json](./232692-pokemon-gadir.json) |
 | Pokémon Gaia Version | 136997 | [136997-pokemon-gaia-version.json](./136997-pokemon-gaia-version.json) |
 | Pokémon Gamma Emerald | 342762 | [342762-pokemon-gamma-emerald.json](./342762-pokemon-gamma-emerald.json) |
+| Pokemon Garbage Gold | 305295 | [305295-pokemon-garbage-gold.json](./305295-pokemon-garbage-gold.json) |
 | Pokémon Glacial Chronicles | 360193 | [360193-pokemon-glacial-chronicles.json](./360193-pokemon-glacial-chronicles.json) |
 | Pokémon Go: Dual Destiny | 323177 | [323177-pokemon-go-dual-destiny.json](./323177-pokemon-go-dual-destiny.json) |
 | Pokémon Go: Forever Forward | 403036 | [403036-pokemon-go-forever-forward.json](./403036-pokemon-go-forever-forward.json) |
@@ -5094,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
+| Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
