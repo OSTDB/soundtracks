@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New 3D Golf Simulation: T&E Selection | 97291 | [97291-new-3d-golf-simulation-t-and-e-selection.json](./97291-new-3d-golf-simulation-t-and-e-selection.json) |
 | New Adam & Eve | 47544 | [47544-new-adam-and-eve.json](./47544-new-adam-and-eve.json) |
 | New Adult Reality | 113457 | [113457-new-adult-reality.json](./113457-new-adult-reality.json) |
+| New Adventure All-Stars | 294795 | [294795-new-adventure-all-stars.json](./294795-new-adventure-all-stars.json) |
 | New Adventure Island | 28521 | [28521-new-adventure-island.json](./28521-new-adventure-island.json) |
 | NEW Again Beauty | 106596 | [106596-new-again-beauty.json](./106596-new-again-beauty.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
@@ -1292,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. 5: Clone Tag Team | 146278 | [146278-new-super-mario-bros-5-clone-tag-team.json](./146278-new-super-mario-bros-5-clone-tag-team.json) |
 | New Super Mario Bros. 5: Clone Tag Team 2 | 146279 | [146279-new-super-mario-bros-5-clone-tag-team-2.json](./146279-new-super-mario-bros-5-clone-tag-team-2.json) |
 | New Super Mario Bros. Deluxe | 107234 | [107234-new-super-mario-bros-deluxe.json](./107234-new-super-mario-bros-deluxe.json) |
+| New Super Mario Bros. DS Co-Op | 294785 | [294785-new-super-mario-bros-ds-co-op.json](./294785-new-super-mario-bros-ds-co-op.json) |
 | New Super Mario Bros. Mii | 175961 | [175961-new-super-mario-bros-mii.json](./175961-new-super-mario-bros-mii.json) |
 | New Super Mario Bros. The Missing Italian | 394344 | [394344-new-super-mario-bros-the-missing-italian.json](./394344-new-super-mario-bros-the-missing-italian.json) |
 | New Super Mario Bros. U | 2171 | [2171-new-super-mario-bros-u.json](./2171-new-super-mario-bros-u.json) |
@@ -1351,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Zombie | 274473 | [274473-new-zombie.json](./274473-new-zombie.json) |
 | Newbie Life | 262384 | [262384-newbie-life.json](./262384-newbie-life.json) |
 | Newcomer | 84280 | [84280-newcomer.json](./84280-newcomer.json) |
+| Newer Super Luigi Wii: Dark Moon - Reverse | 294789 | [294789-newer-super-luigi-wii-dark-moon-reverse.json](./294789-newer-super-luigi-wii-dark-moon-reverse.json) |
 | Newer Super Mario Bros. Wii Deluxe | 132846 | [132846-newer-super-mario-bros-wii-deluxe.json](./132846-newer-super-mario-bros-wii-deluxe.json) |
 | Newer: Falling Leaf | 132848 | [132848-newer-falling-leaf.json](./132848-newer-falling-leaf.json) |
 | Newer: Holiday Special | 132849 | [132849-newer-holiday-special.json](./132849-newer-holiday-special.json) |
@@ -1512,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibû | 112753 | [112753-nibu.json](./112753-nibu.json) |
 | Nice Body All-Star Suiei Taikai | 248117 | [248117-nice-body-all-star-suiei-taikai.json](./248117-nice-body-all-star-suiei-taikai.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
+| Nice Mario 75 | 294791 | [294791-nice-mario-75.json](./294791-nice-mario-75.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
 | Nice to NO you | 139240 | [139240-nice-to-no-you.json](./139240-nice-to-no-you.json) |
@@ -2901,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
 | Nya Nya Nya Girls | 111538 | [111538-nya-nya-nya-girls.json](./111538-nya-nya-nya-girls.json) |
 | Nyakamon Adventures | 152159 | [152159-nyakamon-adventures.json](./152159-nyakamon-adventures.json) |
+| Nyakamon Runes | 294816 | [294816-nyakamon-runes.json](./294816-nyakamon-runes.json) |
 | Nyako: Restaurant Tycoon | 157178 | [157178-nyako-restaurant-tycoon.json](./157178-nyako-restaurant-tycoon.json) |
 | Nyakori's Rabbit Doll | 130403 | [130403-nyakoris-rabbit-doll.json](./130403-nyakoris-rabbit-doll.json) |
 | Nyakori's Rabbit Doll: After Story | 157552 | [157552-nyakoris-rabbit-doll-after-story.json](./157552-nyakoris-rabbit-doll-after-story.json) |
