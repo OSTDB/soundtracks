@@ -3377,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Rush | 343481 | [343481-dino-rush.json](./343481-dino-rush.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
 | Dino Safari: Evolution-U | 100927 | [100927-dino-safari-evolution-u.json](./100927-dino-safari-evolution-u.json) |
+| Dino Shift | 311064 | [311064-dino-shift.json](./311064-dino-shift.json) |
 | Dino Space Station | 345100 | [345100-dino-space-station.json](./345100-dino-space-station.json) |
 | Dino SpeedBoat | 341024 | [341024-dino-speedboat.json](./341024-dino-speedboat.json) |
 | Dino Stalker | 22065 | [22065-dino-stalker.json](./22065-dino-stalker.json) |
