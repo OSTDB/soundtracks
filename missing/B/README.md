@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
 | Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
+| Ball Bulét | 304632 | [304632-ball-bulet.json](./304632-ball-bulet.json) |
 | Ball Cannon | 327984 | [327984-ball-cannon.json](./327984-ball-cannon.json) |
 | Ball Drop | 243703 | [243703-ball-drop.json](./243703-ball-drop.json) |
 | Ball Drop | 338188 | [338188-ball-drop.json](./338188-ball-drop.json) |
@@ -3737,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Dreams | 192831 | [192831-blind-dreams.json](./192831-blind-dreams.json) |
 | Blind Exposure | 320736 | [320736-blind-exposure.json](./320736-blind-exposure.json) |
 | Blind Girl | 111489 | [111489-blind-girl.json](./111489-blind-girl.json) |
+| Blind Jump | 304638 | [304638-blind-jump.json](./304638-blind-jump.json) |
 | Blind Love | 30009 | [30009-blind-love.json](./30009-blind-love.json) |
 | Blind Men | 44176 | [44176-blind-men.json](./44176-blind-men.json) |
 | Blind Monk's Society | 201765 | [201765-blind-monks-society.json](./201765-blind-monks-society.json) |
@@ -4902,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borbo's Quest | 178582 | [178582-borbos-quest.json](./178582-borbos-quest.json) |
 | Border Bots VR | 260759 | [260759-border-bots-vr.json](./260759-border-bots-vr.json) |
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
+| Border Dungeon | 304645 | [304645-border-dungeon.json](./304645-border-dungeon.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
 | Border of her Heart 2 | 156669 | [156669-border-of-her-heart-2.json](./156669-border-of-her-heart-2.json) |
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
@@ -5592,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
 | Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
 | Breakaway Hockey League | 415167 | [415167-breakaway-hockey-league.json](./415167-breakaway-hockey-league.json) |
+| BreakBall | 304651 | [304651-breakball.json](./304651-breakball.json) |
 | BreakBall: Time Travel | 146890 | [146890-breakball-time-travel.json](./146890-breakball-time-travel.json) |
 | Breakbeat Alley | 200048 | [200048-breakbeat-alley.json](./200048-breakbeat-alley.json) |
 | Breaker | 175825 | [175825-breaker.json](./175825-breaker.json) |
