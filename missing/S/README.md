@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Quest | 41108 | [41108-secret-quest.json](./41108-secret-quest.json) |
 | Secret Reflections Collection | 201864 | [201864-secret-reflections-collection.json](./201864-secret-reflections-collection.json) |
 | Secret Savings | 114383 | [114383-secret-savings.json](./114383-secret-savings.json) |
+| Secret School | 290498 | [290498-secret-school.json](./290498-secret-school.json) |
 | Secret Service: In Harm's Way | 73800 | [73800-secret-service-in-harms-way.json](./73800-secret-service-in-harms-way.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
 | Secret Summoner | 236954 | [236954-secret-summoner.json](./236954-secret-summoner.json) |
@@ -7247,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souzou no Memoria | 396936 | [396936-souzou-no-memoria.json](./396936-souzou-no-memoria.json) |
 | Soverain: An Eternal Legend | 377176 | [377176-soverain-an-eternal-legend.json](./377176-soverain-an-eternal-legend.json) |
 | Sovereign Brain Empire | 333072 | [333072-sovereign-brain-empire.json](./333072-sovereign-brain-empire.json) |
+| Sovereign Elect | 290506 | [290506-sovereign-elect.json](./290506-sovereign-elect.json) |
 | Sovereign Reign | 276171 | [276171-sovereign-reign.json](./276171-sovereign-reign.json) |
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
 | Sovereign's Will | 129035 | [129035-sovereigns-will.json](./129035-sovereigns-will.json) |
@@ -7366,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dragons | 188618 | [188618-space-dragons.json](./188618-space-dragons.json) |
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
+| Space Drop | 290505 | [290505-space-drop.json](./290505-space-drop.json) |
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
 | Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
@@ -10214,6 +10217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
 | Stickman World Battle | 287231 | [287231-stickman-world-battle.json](./287231-stickman-world-battle.json) |
+| Stickman WW2 | 290479 | [290479-stickman-ww2.json](./290479-stickman-ww2.json) |
 | Stickman Zombie Shooting 3D | 398420 | [398420-stickman-zombie-shooting-3d.json](./398420-stickman-zombie-shooting-3d.json) |
 | Stickman: Kill the Cook | 214056 | [214056-stickman-kill-the-cook.json](./214056-stickman-kill-the-cook.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
@@ -10366,6 +10370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories of the Dreaming World | 303009 | [303009-stories-of-the-dreaming-world.json](./303009-stories-of-the-dreaming-world.json) |
 | Stories One | 264678 | [264678-stories-one.json](./264678-stories-one.json) |
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
+| Stories to Tell: Run Away | 290477 | [290477-stories-to-tell-run-away.json](./290477-stories-to-tell-run-away.json) |
 | Stories Untold | 27094 | [27094-stories-untold.json](./27094-stories-untold.json) |
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
@@ -11046,6 +11051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
+| Submersed 2: The Hive | 290476 | [290476-submersed-2-the-hive.json](./290476-submersed-2-the-hive.json) |
 | Submersible | 272372 | [272372-submersible.json](./272372-submersible.json) |
 | Submersible Simulator: Discover the Titanic into Ocean | 271274 | [271274-submersible-simulator-discover-the-titanic-into-ocean.json](./271274-submersible-simulator-discover-the-titanic-into-ocean.json) |
 | Submind | 416091 | [416091-submind.json](./416091-submind.json) |
