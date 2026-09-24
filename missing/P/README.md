@@ -640,6 +640,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperbound | 21849 | [21849-paperbound.json](./21849-paperbound.json) |
 | Paperboy | 256079 | [256079-paperboy.json](./256079-paperboy.json) |
 | Paperboy | 256082 | [256082-paperboy.json](./256082-paperboy.json) |
+| Paperboy 2 | 307086 | [307086-paperboy-2.json](./307086-paperboy-2.json) |
+| Paperboy 2 | 307087 | [307087-paperboy-2.json](./307087-paperboy-2.json) |
 | Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
@@ -3222,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PK Scramble | 93521 | [93521-pk-scramble.json](./93521-pk-scramble.json) |
 | PK War | 367610 | [367610-pk-war.json](./367610-pk-war.json) |
 | Pk2022 | 188505 | [188505-pk2022.json](./188505-pk2022.json) |
+| Pl¢tfarmer | 307036 | [307036-pl-tfarmer.json](./307036-pl-tfarmer.json) |
 | PL4no-B | 340583 | [340583-pl4no-b.json](./340583-pl4no-b.json) |
 | Placards | 84815 | [84815-placards.json](./84815-placards.json) |
 | Place & Learn 19×19 Mental Math | 409550 | [409550-place-and-learn-19-19-mental-math.json](./409550-place-and-learn-19-19-mental-math.json) |
@@ -4247,6 +4250,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PoligonVR | 258481 | [258481-poligonvr.json](./258481-poligonvr.json) |
 | Polilaser | 238493 | [238493-polilaser.json](./238493-polilaser.json) |
 | Polinizamor | 179037 | [179037-polinizamor.json](./179037-polinizamor.json) |
+| Polis | 307097 | [307097-polis.json](./307097-polis.json) |
+| Polis 2: Någon ljuger | 307096 | [307096-polis-2-nagon-ljuger.json](./307096-polis-2-nagon-ljuger.json) |
 | Polis 3: Vargspår | 91907 | [91907-polis-3-vargspar.json](./91907-polis-3-vargspar.json) |
 | Polish Community Project | 301971 | [301971-polish-community-project.json](./301971-polish-community-project.json) |
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
