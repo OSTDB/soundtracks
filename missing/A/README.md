@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Visit to Sesame Street: Numbers | 46558 | [46558-a-visit-to-sesame-street-numbers.json](./46558-a-visit-to-sesame-street-numbers.json) |
 | A Visitor on Venus | 179590 | [179590-a-visitor-on-venus.json](./179590-a-visitor-on-venus.json) |
 | A Void Shaper | 277981 | [277981-a-void-shaper.json](./277981-a-void-shaper.json) |
+| A Void Society | 319757 | [319757-a-void-society.json](./319757-a-void-society.json) |
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
@@ -618,6 +619,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
 | ACA Neo Geo: The Super Spy | 105122 | [105122-aca-neo-geo-the-super-spy.json](./105122-aca-neo-geo-the-super-spy.json) |
 | ACA Neo Geo: Twinkle Star Sprites | 113209 | [113209-aca-neo-geo-twinkle-star-sprites.json](./113209-aca-neo-geo-twinkle-star-sprites.json) |
+| ACA NeoGeo Selection Vol. 1 | 319735 | [319735-aca-neogeo-selection-vol-1.json](./319735-aca-neogeo-selection-vol-1.json) |
+| ACA NeoGeo Selection Vol. 2 | 319733 | [319733-aca-neogeo-selection-vol-2.json](./319733-aca-neogeo-selection-vol-2.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
@@ -1092,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AEW: Fight Forever - Elite Edition | 251670 | [251670-aew-fight-forever-elite-edition.json](./251670-aew-fight-forever-elite-edition.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
+| Affari Tuoi: Il Gioco Interattivo in DVD | 319739 | [319739-affari-tuoi-il-gioco-interattivo-in-dvd.json](./319739-affari-tuoi-il-gioco-interattivo-in-dvd.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | Affogato | 210654 | [210654-affogato.json](./210654-affogato.json) |
