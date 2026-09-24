@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Royale | 344532 | [344532-heist-royale.json](./344532-heist-royale.json) |
 | Heist Simulator | 159135 | [159135-heist-simulator.json](./159135-heist-simulator.json) |
 | HeistGeist | 211182 | [211182-heistgeist.json](./211182-heistgeist.json) |
+| Heisting | 294241 | [294241-heisting.json](./294241-heisting.json) |
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
 | Heka | 190098 | [190098-heka.json](./190098-heka.json) |
