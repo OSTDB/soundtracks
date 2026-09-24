@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamborghini: American Challenge | 380116 | [380116-lamborghini-american-challenge.json](./380116-lamborghini-american-challenge.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
 | Laments of a Platinum Rose | 384199 | [384199-laments-of-a-platinum-rose.json](./384199-laments-of-a-platinum-rose.json) |
+| Lamentum: Digital Deluxe | 336142 | [336142-lamentum-digital-deluxe.json](./336142-lamentum-digital-deluxe.json) |
 | Lami: A Cup of Code & Coffee | 341680 | [341680-lami-a-cup-of-code-and-coffee.json](./341680-lami-a-cup-of-code-and-coffee.json) |
 | Lamia 1999 | 123022 | [123022-lamia-1999.json](./123022-lamia-1999.json) |
 | Lamia's Bambina | 240783 | [240783-lamias-bambina.json](./240783-lamias-bambina.json) |
@@ -233,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LampMan | 317421 | [317421-lampman.json](./317421-lampman.json) |
 | Lamprey | 277380 | [277380-lamprey.json](./277380-lamprey.json) |
 | Lampyridae Matsuri | 185594 | [185594-lampyridae-matsuri.json](./185594-lampyridae-matsuri.json) |
+| LAN Party Adventures | 336157 | [336157-lan-party-adventures.json](./336157-lan-party-adventures.json) |
 | Lán Shízhàn Duì | 158649 | [158649-lan-shizhan-dui.json](./158649-lan-shizhan-dui.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
 | Lancer Tactics | 375255 | [375255-lancer-tactics.json](./375255-lancer-tactics.json) |
@@ -3060,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Region | 27107 | [27107-lost-region.json](./27107-lost-region.json) |
 | Lost Remnant: Roaches to Riches | 158056 | [158056-lost-remnant-roaches-to-riches.json](./158056-lost-remnant-roaches-to-riches.json) |
 | Lost Resolve | 313293 | [313293-lost-resolve.json](./313293-lost-resolve.json) |
+| Lost Rift | 336143 | [336143-lost-rift.json](./336143-lost-rift.json) |
 | Lost Ruins of Arnak | 350426 | [350426-lost-ruins-of-arnak.json](./350426-lost-ruins-of-arnak.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
 | Lost Scavenger | 153937 | [153937-lost-scavenger.json](./153937-lost-scavenger.json) |
@@ -3370,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucian Bee's: Resurrection Supernova | 59424 | [59424-lucian-bees-resurrection-supernova.json](./59424-lucian-bees-resurrection-supernova.json) |
 | Lucid | 215773 | [215773-lucid.json](./215773-lucid.json) |
 | Lucid | 290530 | [290530-lucid.json](./290530-lucid.json) |
+| Lucid | 336119 | [336119-lucid.json](./336119-lucid.json) |
 | Lucid Adventure Idle RPG | 143079 | [143079-lucid-adventure-idle-rpg.json](./143079-lucid-adventure-idle-rpg.json) |
 | Lucid Cycle | 149940 | [149940-lucid-cycle.json](./149940-lucid-cycle.json) |
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
