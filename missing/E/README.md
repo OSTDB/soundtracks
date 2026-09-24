@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
+| Endarchy | 327340 | [327340-endarchy.json](./327340-endarchy.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
 | Ender Ocean | 368670 | [368670-ender-ocean.json](./368670-ender-ocean.json) |
@@ -1783,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esc/ape | 374142 | [374142-esc-ape.json](./374142-esc-ape.json) |
 | Escalar | 245925 | [245925-escalar.json](./245925-escalar.json) |
 | Escalation 1985 | 54734 | [54734-escalation-1985.json](./54734-escalation-1985.json) |
+| Escalation Titan | 327361 | [327361-escalation-titan.json](./327361-escalation-titan.json) |
 | Escalation VR! | 150110 | [150110-escalation-vr.json](./150110-escalation-vr.json) |
 | Escalation: Aggressors | 127759 | [127759-escalation-aggressors.json](./127759-escalation-aggressors.json) |
 | Escalation! | 150099 | [150099-escalation.json](./150099-escalation.json) |
