@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 1 / Metroid 1 Combo Randomizer | 152749 | [152749-zelda-1-metroid-1-combo-randomizer.json](./152749-zelda-1-metroid-1-combo-randomizer.json) |
+| Zelda 64 1996 | 315033 | [315033-zelda-64-1996.json](./315033-zelda-64-1996.json) |
 | Zelda 64: Dawn & Dusk | 132646 | [132646-zelda-64-dawn-and-dusk.json](./132646-zelda-64-dawn-and-dusk.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda II: Boss Endurance | 280757 | [280757-zelda-ii-boss-endurance.json](./280757-zelda-ii-boss-endurance.json) |
@@ -168,9 +169,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda Mobile | 28864 | [28864-zelda-mobile.json](./28864-zelda-mobile.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
 | Zelda Online | 323863 | [323863-zelda-online.json](./323863-zelda-online.json) |
+| Zelda: Forest of the Lost Soul | 315028 | [315028-zelda-forest-of-the-lost-soul.json](./315028-zelda-forest-of-the-lost-soul.json) |
 | Zelda: Meadow of Shadows | 248290 | [248290-zelda-meadow-of-shadows.json](./248290-zelda-meadow-of-shadows.json) |
 | Zelda: The Wand of Gamelon | 8533 | [8533-zelda-the-wand-of-gamelon.json](./8533-zelda-the-wand-of-gamelon.json) |
 | Zelda's Adventure | 248106 | [248106-zeldas-adventure.json](./248106-zeldas-adventure.json) |
+| ZeldaBound 64 | 315025 | [315025-zeldabound-64.json](./315025-zeldabound-64.json) |
 | Zelene Lux: Spirit Notes | 387548 | [387548-zelene-lux-spirit-notes.json](./387548-zelene-lux-spirit-notes.json) |
 | Zelene Lux: Spirit Notes - Collector's Edition | 415959 | [415959-zelene-lux-spirit-notes-collectors-edition.json](./415959-zelene-lux-spirit-notes-collectors-edition.json) |
 | Zellige: The Tilemaker of Granada | 220734 | [220734-zellige-the-tilemaker-of-granada.json](./220734-zellige-the-tilemaker-of-granada.json) |
@@ -341,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Volt X | 176960 | [176960-zero-volt-x.json](./176960-zero-volt-x.json) |
 | Zero World | 211216 | [211216-zero-world.json](./211216-zero-world.json) |
 | Zero Zero | 130361 | [130361-zero-zero.json](./130361-zero-zero.json) |
+| Zero Zero: Perfect Stop | 314997 | [314997-zero-zero-perfect-stop.json](./314997-zero-zero-perfect-stop.json) |
 | Zero Zone | 94692 | [94692-zero-zone.json](./94692-zero-zone.json) |
 | Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
 | Zero-G Revolution | 151124 | [151124-zero-g-revolution.json](./151124-zero-g-revolution.json) |
