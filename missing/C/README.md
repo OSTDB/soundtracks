@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardWirth | 172774 | [172774-cardwirth.json](./172774-cardwirth.json) |
 | Cardwoven Empires | 337828 | [337828-cardwoven-empires.json](./337828-cardwoven-empires.json) |
 | Care | 325046 | [325046-care.json](./325046-care.json) |
+| Care Bears | 282634 | [282634-care-bears.json](./282634-care-bears.json) |
 | Care Bears: A Lesson in Caring | 65501 | [65501-care-bears-a-lesson-in-caring.json](./65501-care-bears-a-lesson-in-caring.json) |
 | Care Bears: Care Karts | 280788 | [280788-care-bears-care-karts.json](./280788-care-bears-care-karts.json) |
 | Care Bears: Care-a-lot Jamboree | 65502 | [65502-care-bears-care-a-lot-jamboree.json](./65502-care-bears-care-a-lot-jamboree.json) |
@@ -2838,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomper and Friends Jump! | 59355 | [59355-chomper-and-friends-jump.json](./59355-chomper-and-friends-jump.json) |
 | Chomper and Friends World | 59356 | [59356-chomper-and-friends-world.json](./59356-chomper-and-friends-world.json) |
 | Chomper Man | 79264 | [79264-chomper-man.json](./79264-chomper-man.json) |
+| Chomper's | 282626 | [282626-chompers.json](./282626-chompers.json) |
 | Chomper's Adventure | 59451 | [59451-chompers-adventure.json](./59451-chompers-adventure.json) |
 | Chompies! | 207407 | [207407-chompies.json](./207407-chompies.json) |
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
