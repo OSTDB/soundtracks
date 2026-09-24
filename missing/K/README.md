@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kal | 391591 | [391591-kal.json](./391591-kal.json) |
 | Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
 | Kalaha | 369645 | [369645-kalaha.json](./369645-kalaha.json) |
+| Kalak | 326766 | [326766-kalak.json](./326766-kalak.json) |
 | Kalamatic - Adventure with Words | 120343 | [120343-kalamatic-adventure-with-words.json](./120343-kalamatic-adventure-with-words.json) |
 | Kalanoro | 398583 | [398583-kalanoro.json](./398583-kalanoro.json) |
 | Kalasta | 303608 | [303608-kalasta.json](./303608-kalasta.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandagawa Jet Girls | 121202 | [121202-kandagawa-jet-girls.json](./121202-kandagawa-jet-girls.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
 | Kandidatos | 146303 | [146303-kandidatos.json](./146303-kandidatos.json) |
+| Kandinhale | 326743 | [326743-kandinhale.json](./326743-kandinhale.json) |
 | Kando Realm | 356684 | [356684-kando-realm.json](./356684-kando-realm.json) |
 | Kandra the Moonwalker | 186842 | [186842-kandra-the-moonwalker.json](./186842-kandra-the-moonwalker.json) |
 | Kandume Monsters | 228571 | [228571-kandume-monsters.json](./228571-kandume-monsters.json) |
@@ -1112,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Queendoms | 110609 | [110609-king-of-queendoms.json](./110609-king-of-queendoms.json) |
 | King of Retail | 113053 | [113053-king-of-retail.json](./113053-king-of-retail.json) |
 | King of Retail 2 | 295897 | [295897-king-of-retail-2.json](./295897-king-of-retail-2.json) |
+| King Of Sails | 326771 | [326771-king-of-sails.json](./326771-king-of-sails.json) |
 | King of Santa | 390233 | [390233-king-of-santa.json](./390233-king-of-santa.json) |
 | King of Scooter | 91142 | [91142-king-of-scooter.json](./91142-king-of-scooter.json) |
 | King of Seas | 136091 | [136091-king-of-seas.json](./136091-king-of-seas.json) |
