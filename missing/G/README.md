@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Guns | 122175 | [122175-ghost-guns.json](./122175-ghost-guns.json) |
 | Ghost Hand | 264672 | [264672-ghost-hand.json](./264672-ghost-hand.json) |
 | Ghost Hospital | 111741 | [111741-ghost-hospital.json](./111741-ghost-hospital.json) |
+| Ghost Hospital: In Thousand Horror Hill | 293143 | [293143-ghost-hospital-in-thousand-horror-hill.json](./293143-ghost-hospital-in-thousand-horror-hill.json) |
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
 | Ghost House | 384503 | [384503-ghost-house.json](./384503-ghost-house.json) |
 | Ghost House | 45649 | [45649-ghost-house.json](./45649-ghost-house.json) |
