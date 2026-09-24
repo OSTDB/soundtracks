@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo | 388923 | [388923-echo.json](./388923-echo.json) |
 | Echo | 388934 | [388934-echo.json](./388934-echo.json) |
 | Echo 9 | 410936 | [410936-echo-9.json](./410936-echo-9.json) |
+| Echo Chambers | 285508 | [285508-echo-chambers.json](./285508-echo-chambers.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
 | Echo Drop! | 383482 | [383482-echo-drop.json](./383482-echo-drop.json) |
 | Echo Extract | 342722 | [342722-echo-extract.json](./342722-echo-extract.json) |
@@ -1615,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eonia | 97180 | [97180-eonia.json](./97180-eonia.json) |
 | Eons Lost: Arrival | 185038 | [185038-eons-lost-arrival.json](./185038-eons-lost-arrival.json) |
 | Eonwar | 217315 | [217315-eonwar.json](./217315-eonwar.json) |
+| EOPN: Test RS | 285549 | [285549-eopn-test-rs.json](./285549-eopn-test-rs.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
@@ -2250,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Saga | 62762 | [62762-eternal-saga.json](./62762-eternal-saga.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
 | Eternal Slumber Party | 224582 | [224582-eternal-slumber-party.json](./224582-eternal-slumber-party.json) |
+| Eternal Space | 285532 | [285532-eternal-space.json](./285532-eternal-space.json) |
 | Eternal Starshine | 182370 | [182370-eternal-starshine.json](./182370-eternal-starshine.json) |
 | Eternal Step | 14388 | [14388-eternal-step.json](./14388-eternal-step.json) |
 | Eternal Summer | 264145 | [264145-eternal-summer.json](./264145-eternal-summer.json) |
