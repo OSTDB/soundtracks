@@ -3479,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homura Hime | 199055 | [199055-homura-hime.json](./199055-homura-hime.json) |
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
 | Hon Shogi | 228563 | [228563-hon-shogi.json](./228563-hon-shogi.json) |
+| Honcho | 303564 | [303564-honcho.json](./303564-honcho.json) |
 | Hondune's Truck Trials | 259070 | [259070-hondunes-truck-trials.json](./259070-hondunes-truck-trials.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honest Helper | 349324 | [349324-honest-helper.json](./349324-honest-helper.json) |
@@ -3569,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honoo no Takkyubin | 138839 | [138839-honoo-no-takkyubin.json](./138839-honoo-no-takkyubin.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 267660 | [267660-honoo-no-toukyuuji-dodge-danpei.json](./267660-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 42053 | [42053-honoo-no-toukyuuji-dodge-danpei.json](./42053-honoo-no-toukyuuji-dodge-danpei.json) |
+| Honor Battle | 303565 | [303565-honor-battle.json](./303565-honor-battle.json) |
 | Honor in Vengeance | 66108 | [66108-honor-in-vengeance.json](./66108-honor-in-vengeance.json) |
 | Honor of Heirs | 193876 | [193876-honor-of-heirs.json](./193876-honor-of-heirs.json) |
 | Honor of Kings: World | 180147 | [180147-honor-of-kings-world.json](./180147-honor-of-kings-world.json) |
@@ -3688,6 +3690,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopy-ONE | 93037 | [93037-hopy-one.json](./93037-hopy-one.json) |
 | Horace | 120323 | [120323-horace.json](./120323-horace.json) |
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
+| Horatio: Connector 13 | 303566 | [303566-horatio-connector-13.json](./303566-horatio-connector-13.json) |
+| Horatio: Connector 13 (Chapters 1-12) | 303567 | [303567-horatio-connector-13-chapters-1-12.json](./303567-horatio-connector-13-chapters-1-12.json) |
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
 | HorD: High or Die | 83590 | [83590-hord-high-or-die.json](./83590-hord-high-or-die.json) |
 | Horde Arena | 334304 | [334304-horde-arena.json](./334304-horde-arena.json) |
@@ -3728,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hormones of the Dead | 405601 | [405601-hormones-of-the-dead.json](./405601-hormones-of-the-dead.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
+| Hornet the Vanguard | 303572 | [303572-hornet-the-vanguard.json](./303572-hornet-the-vanguard.json) |
 | Horns of Fear | 74436 | [74436-horns-of-fear.json](./74436-horns-of-fear.json) |
 | Horns of Justice | 211290 | [211290-horns-of-justice.json](./211290-horns-of-justice.json) |
 | Horny Alice: Gothic Run | 148341 | [148341-horny-alice-gothic-run.json](./148341-horny-alice-gothic-run.json) |
@@ -3761,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror House | 112161 | [112161-horror-house.json](./112161-horror-house.json) |
 | Horror House Part II | 112160 | [112160-horror-house-part-ii.json](./112160-horror-house-part-ii.json) |
 | Horror Hunt | 121600 | [121600-horror-hunt.json](./121600-horror-hunt.json) |
+| Horror In Hongdae | 303570 | [303570-horror-in-hongdae.json](./303570-horror-in-hongdae.json) |
 | Horror in the Forest | 365258 | [365258-horror-in-the-forest.json](./365258-horror-in-the-forest.json) |
 | Horror In Valkeala | 192951 | [192951-horror-in-valkeala.json](./192951-horror-in-valkeala.json) |
 | Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
@@ -3792,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
 | Horror Villa | 157539 | [157539-horror-villa.json](./157539-horror-villa.json) |
 | Horror Ville Maze Escape | 119713 | [119713-horror-ville-maze-escape.json](./119713-horror-ville-maze-escape.json) |
+| Horror: Evil Residents | 303571 | [303571-horror-evil-residents.json](./303571-horror-evil-residents.json) |
 | HorrorCore: Maze and Pools of Horror | 331974 | [331974-horrorcore-maze-and-pools-of-horror.json](./331974-horrorcore-maze-and-pools-of-horror.json) |
 | Horrorfield | 124593 | [124593-horrorfield.json](./124593-horrorfield.json) |
 | HorrorMon Photography | 381670 | [381670-horrormon-photography.json](./381670-horrormon-photography.json) |
@@ -3818,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
 | Horse Racing Manager 2020 | 233117 | [233117-horse-racing-manager-2020.json](./233117-horse-racing-manager-2020.json) |
 | Horse Riding Deluxe | 81654 | [81654-horse-riding-deluxe.json](./81654-horse-riding-deluxe.json) |
+| Horse Runner DX | 303569 | [303569-horse-runner-dx.json](./303569-horse-runner-dx.json) |
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
 | Horse Vet 3D | 85181 | [85181-horse-vet-3d.json](./85181-horse-vet-3d.json) |
@@ -3860,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot & Hentai: Beach Yui | 324490 | [324490-hot-and-hentai-beach-yui.json](./324490-hot-and-hentai-beach-yui.json) |
 | Hot & Hentai: Gamer Etsuko | 324491 | [324491-hot-and-hentai-gamer-etsuko.json](./324491-hot-and-hentai-gamer-etsuko.json) |
 | Hot & Hentai: Garden Queen Shirayuki | 324492 | [324492-hot-and-hentai-garden-queen-shirayuki.json](./324492-hot-and-hentai-garden-queen-shirayuki.json) |
+| Hot & Lewd: Miami | 303568 | [303568-hot-and-lewd-miami.json](./303568-hot-and-lewd-miami.json) |
 | Hot 21 | 238613 | [238613-hot-21.json](./238613-hot-21.json) |
 | Hot Action Pak | 56454 | [56454-hot-action-pak.json](./56454-hot-action-pak.json) |
 | Hot Air | 152908 | [152908-hot-air.json](./152908-hot-air.json) |
@@ -4265,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hrdina | 119543 | [119543-hrdina.json](./119543-hrdina.json) |
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
+| HSHS | 303574 | [303574-hshs.json](./303574-hshs.json) |
 | HSNU Academy 79th Anniversary | 396207 | [396207-hsnu-academy-79th-anniversary.json](./396207-hsnu-academy-79th-anniversary.json) |
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
@@ -4377,8 +4387,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanoid | 393495 | [393495-humanoid.json](./393495-humanoid.json) |
 | Humanoid 47 | 128599 | [128599-humanoid-47.json](./128599-humanoid-47.json) |
 | Humanoid Huntress | 249794 | [249794-humanoid-huntress.json](./249794-humanoid-huntress.json) |
+| Humanolve: A Human Evolution Card Saga | 303562 | [303562-humanolve-a-human-evolution-card-saga.json](./303562-humanolve-a-human-evolution-card-saga.json) |
 | Humans 3: Evolution - Lost in Time | 39031 | [39031-humans-3-evolution-lost-in-time.json](./39031-humans-3-evolution-lost-in-time.json) |
 | Humans Vs Ghouls | 153372 | [153372-humans-vs-ghouls.json](./153372-humans-vs-ghouls.json) |
+| Humans vs. Monsters | 303561 | [303561-humans-vs-monsters.json](./303561-humans-vs-monsters.json) |
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
 | Humble Rumble | 128371 | [128371-humble-rumble.json](./128371-humble-rumble.json) |
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
@@ -4452,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt for the Shadow Rider | 140992 | [140992-hunt-for-the-shadow-rider.json](./140992-hunt-for-the-shadow-rider.json) |
 | Hunt Hide Run | 296916 | [296916-hunt-hide-run.json](./296916-hunt-hide-run.json) |
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
+| Hunt the Pale Gods | 303559 | [303559-hunt-the-pale-gods.json](./303559-hunt-the-pale-gods.json) |
 | Hunt the Thailand Hidden | 119696 | [119696-hunt-the-thailand-hidden.json](./119696-hunt-the-thailand-hidden.json) |
 | Hunt the Wumpus | 11498 | [11498-hunt-the-wumpus.json](./11498-hunt-the-wumpus.json) |
 | Hunt them | 113473 | [113473-hunt-them.json](./113473-hunt-them.json) |
@@ -4483,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter and Tavern | 374664 | [374664-hunter-and-tavern.json](./374664-hunter-and-tavern.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
+| Hunter Chronicles: Tara and Vyn | 303560 | [303560-hunter-chronicles-tara-and-vyn.json](./303560-hunter-chronicles-tara-and-vyn.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
 | Hunter Girls | 259065 | [259065-hunter-girls.json](./259065-hunter-girls.json) |
 | Hunter Hearts | 164873 | [164873-hunter-hearts.json](./164873-hunter-hearts.json) |
@@ -4509,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Journey: Tears of the Lake - Collector's Edition | 362844 | [362844-hunters-journey-tears-of-the-lake-collectors-edition.json](./362844-hunters-journey-tears-of-the-lake-collectors-edition.json) |
 | Hunter's Moon | 144939 | [144939-hunters-moon.json](./144939-hunters-moon.json) |
 | Hunter's Moon | 416105 | [416105-hunters-moon.json](./416105-hunters-moon.json) |
+| Hunter's Requiem | 303563 | [303563-hunters-requiem.json](./303563-hunters-requiem.json) |
 | Hunter's Seal | 365681 | [365681-hunters-seal.json](./365681-hunters-seal.json) |
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
 | Hunter's Trophy | 53219 | [53219-hunters-trophy.json](./53219-hunters-trophy.json) |
@@ -4544,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
 | Huntsman: The Orphanage | 10422 | [10422-huntsman-the-orphanage.json](./10422-huntsman-the-orphanage.json) |
+| Hup Hup The Cupcake | 303558 | [303558-hup-hup-the-cupcake.json](./303558-hup-hup-the-cupcake.json) |
 | Hupsi | 177436 | [177436-hupsi.json](./177436-hupsi.json) |
 | Huracan Drift Simulator | 95875 | [95875-huracan-drift-simulator.json](./95875-huracan-drift-simulator.json) |
 | Hurdle Turtle 2 | 58264 | [58264-hurdle-turtle-2.json](./58264-hurdle-turtle-2.json) |
@@ -4556,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
 | Hush - Into the Darkness | 50155 | [50155-hush-into-the-darkness.json](./50155-hush-into-the-darkness.json) |
 | Hush Darling | 415099 | [415099-hush-darling.json](./415099-hush-darling.json) |
+| Hush Hush High | 303555 | [303555-hush-hush-high.json](./303555-hush-hush-high.json) |
 | Hush Little Lily | 177395 | [177395-hush-little-lily.json](./177395-hush-little-lily.json) |
 | Hush: In Search of Dominic Ward | 116298 | [116298-hush-in-search-of-dominic-ward.json](./116298-hush-in-search-of-dominic-ward.json) |
 | Husk | 179682 | [179682-husk.json](./179682-husk.json) |
@@ -4585,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid | 53164 | [53164-hybrid.json](./53164-hybrid.json) |
 | Hybrid Beasts | 53218 | [53218-hybrid-beasts.json](./53218-hybrid-beasts.json) |
 | Hybrid Blood | 347161 | [347161-hybrid-blood.json](./347161-hybrid-blood.json) |
+| Hybrid Miniature Golf Beta | 303557 | [303557-hybrid-miniature-golf-beta.json](./303557-hybrid-miniature-golf-beta.json) |
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
 | Hybrids Arena | 33379 | [33379-hybrids-arena.json](./33379-hybrids-arena.json) |
@@ -4622,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Demon | 218183 | [218183-hyper-demon.json](./218183-hyper-demon.json) |
 | Hyper Dimensional Basement Crawler | 177944 | [177944-hyper-dimensional-basement-crawler.json](./177944-hyper-dimensional-basement-crawler.json) |
+| Hyper Drive Runner | 303554 | [303554-hyper-drive-runner.json](./303554-hyper-drive-runner.json) |
 | Hyper Drive: The Insane Gravity Race | 51598 | [51598-hyper-drive-the-insane-gravity-race.json](./51598-hyper-drive-the-insane-gravity-race.json) |
 | Hyper Drone X | 195731 | [195731-hyper-drone-x.json](./195731-hyper-drone-x.json) |
 | Hyper Dyne: Side Arms | 42033 | [42033-hyper-dyne-side-arms.json](./42033-hyper-dyne-side-arms.json) |
@@ -4654,6 +4673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
 | Hyper Simon X | 103438 | [103438-hyper-simon-x.json](./103438-hyper-simon-x.json) |
+| Hyper Skater | 303552 | [303552-hyper-skater.json](./303552-hyper-skater.json) |
 | Hyper Ski | 385739 | [385739-hyper-ski.json](./385739-hyper-ski.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
 | Hyper Street Fighter II: The Anniversary Edition | 45198 | [45198-hyper-street-fighter-ii-the-anniversary-edition.json](./45198-hyper-street-fighter-ii-the-anniversary-edition.json) |
@@ -4715,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
 | HyperDot | 119536 | [119536-hyperdot.json](./119536-hyperdot.json) |
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
+| HyperFatal | 303553 | [303553-hyperfatal.json](./303553-hyperfatal.json) |
 | HyperFeat | 152761 | [152761-hyperfeat.json](./152761-hyperfeat.json) |
 | Hyperfight 2 | 340496 | [340496-hyperfight-2.json](./340496-hyperfight-2.json) |
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
@@ -4733,9 +4754,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
 | Hypership Out of Control | 35659 | [35659-hypership-out-of-control.json](./35659-hypership-out-of-control.json) |
+| Hyperslice | 303556 | [303556-hyperslice.json](./303556-hyperslice.json) |
 | Hypersomnia | 249782 | [249782-hypersomnia.json](./249782-hypersomnia.json) |
 | Hypersomnia | 286133 | [286133-hypersomnia.json](./286133-hypersomnia.json) |
 | Hyperspace | 297489 | [297489-hyperspace.json](./297489-hyperspace.json) |
+| Hyperspace | 303551 | [303551-hyperspace.json](./303551-hyperspace.json) |
 | Hyperspace Deck Command | 287766 | [287766-hyperspace-deck-command.json](./287766-hyperspace-deck-command.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
@@ -4764,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnospace Enforcer | 216271 | [216271-hypnospace-enforcer.json](./216271-hypnospace-enforcer.json) |
 | Hypnospace Outlaw & Slayers X: Terminal Aftermath: Vengance of the Slayer Bundle | 251655 | [251655-hypnospace-outlaw-and-slayers-x-terminal-aftermath-vengance-of-the-slayer-bundle.json](./251655-hypnospace-outlaw-and-slayers-x-terminal-aftermath-vengance-of-the-slayer-bundle.json) |
 | Hypnotica Quest | 302509 | [302509-hypnotica-quest.json](./302509-hypnotica-quest.json) |
+| Hypogea | 303550 | [303550-hypogea.json](./303550-hypogea.json) |
 | Hypogeal | 401015 | [401015-hypogeal.json](./401015-hypogeal.json) |
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
 | Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
