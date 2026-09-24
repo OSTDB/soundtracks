@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon of Time | 339907 | [339907-paragon-of-time.json](./339907-paragon-of-time.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
 | Paragon Pioneers 2: Happy Southburghs | 310045 | [310045-paragon-pioneers-2-happy-southburghs.json](./310045-paragon-pioneers-2-happy-southburghs.json) |
+| Paragon Pioneers 2: Isle of Magicians | 322742 | [322742-paragon-pioneers-2-isle-of-magicians.json](./322742-paragon-pioneers-2-isle-of-magicians.json) |
 | Paragon Pioneers 2: Turn the Orc Table | 310050 | [310050-paragon-pioneers-2-turn-the-orc-table.json](./310050-paragon-pioneers-2-turn-the-orc-table.json) |
 | Paragon Sex A Doll | 356065 | [356065-paragon-sex-a-doll.json](./356065-paragon-sex-a-doll.json) |
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
@@ -1142,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
 | Patient Rogue | 177482 | [177482-patient-rogue.json](./177482-patient-rogue.json) |
+| Patient Seven | 322709 | [322709-patient-seven.json](./322709-patient-seven.json) |
 | Patient Zero | 388918 | [388918-patient-zero.json](./388918-patient-zero.json) |
 | Patient Zero: Plague Idle | 388417 | [388417-patient-zero-plague-idle.json](./388417-patient-zero-plague-idle.json) |
 | PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
@@ -5895,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Last Life | 112369 | [112369-protocol-last-life.json](./112369-protocol-last-life.json) |
 | Protocol Nadir | 367940 | [367940-protocol-nadir.json](./367940-protocol-nadir.json) |
 | Protocol Paradox | 373512 | [373512-protocol-paradox.json](./373512-protocol-paradox.json) |
+| Protocol Rift | 322705 | [322705-protocol-rift.json](./322705-protocol-rift.json) |
 | Protocol VR | 116289 | [116289-protocol-vr.json](./116289-protocol-vr.json) |
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
 | Protocol Zero | 57929 | [57929-protocol-zero.json](./57929-protocol-zero.json) |
