@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Def Jam Fight for NY Mobile | 209012 | [209012-def-jam-fight-for-ny-mobile.json](./209012-def-jam-fight-for-ny-mobile.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defaction | 178537 | [178537-defaction.json](./178537-defaction.json) |
+| Defeat Me | 321507 | [321507-defeat-me.json](./321507-defeat-me.json) |
 | Defeated Girl | 219038 | [219038-defeated-girl.json](./219038-defeated-girl.json) |
 | Defect | 21928 | [21928-defect.json](./21928-defect.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
@@ -5410,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dogma Online | 26985 | [26985-dragons-dogma-online.json](./26985-dragons-dogma-online.json) |
 | Dragon's Dogma Quest | 63310 | [63310-dragons-dogma-quest.json](./63310-dragons-dogma-quest.json) |
 | Dragon's Dogma: Dark Arisen | 16300 | [16300-dragons-dogma-dark-arisen.json](./16300-dragons-dogma-dark-arisen.json) |
+| Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
 | Dragon's Fury | 45586 | [45586-dragons-fury.json](./45586-dragons-fury.json) |
 | Dragon's Gold | 13609 | [13609-dragons-gold.json](./13609-dragons-gold.json) |
 | Dragon's Heaven | 264306 | [264306-dragons-heaven.json](./264306-dragons-heaven.json) |
