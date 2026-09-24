@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K5 | 8907 | [8907-major-league-baseball-2k5.json](./8907-major-league-baseball-2k5.json) |
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
 | Major League Baseball Featuring Ken Griffey Jr. | 3540 | [3540-major-league-baseball-featuring-ken-griffey-jr.json](./3540-major-league-baseball-featuring-ken-griffey-jr.json) |
+| Major League Curveball | 302428 | [302428-major-league-curveball.json](./302428-major-league-curveball.json) |
 | Major League Gladiators | 75817 | [75817-major-league-gladiators.json](./75817-major-league-gladiators.json) |
 | Major League Manager | 70126 | [70126-major-league-manager.json](./70126-major-league-manager.json) |
 | Major Maox | 74754 | [74754-major-maox.json](./74754-major-maox.json) |
@@ -2699,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Fred | 344562 | [344562-meet-fred.json](./344562-meet-fred.json) |
 | Meet Her There | 263786 | [263786-meet-her-there.json](./263786-meet-her-there.json) |
 | Meet Me at the Apple Garden | 374608 | [374608-meet-me-at-the-apple-garden.json](./374608-meet-me-at-the-apple-garden.json) |
+| Meet Me at The Workers' Club | 302426 | [302426-meet-me-at-the-workers-club.json](./302426-meet-me-at-the-workers-club.json) |
 | Meet Media Band | 209533 | [209533-meet-media-band.json](./209533-meet-media-band.json) |
 | Meet My Stepmoms | 376748 | [376748-meet-my-stepmoms.json](./376748-meet-my-stepmoms.json) |
 | Meet My Teacher | 289873 | [289873-meet-my-teacher.json](./289873-meet-my-teacher.json) |
@@ -4580,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Rush | 201799 | [201799-miner-rush.json](./201799-miner-rush.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
+| Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
 | MinerMancers | 411788 | [411788-minermancers.json](./411788-minermancers.json) |
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
 | Miners in the Mountain | 358512 | [358512-miners-in-the-mountain.json](./358512-miners-in-the-mountain.json) |
