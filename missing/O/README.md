@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochige Designer Tsukutte Pon! | 128361 | [128361-ochige-designer-tsukutte-pon.json](./128361-ochige-designer-tsukutte-pon.json) |
 | Ochre | 400963 | [400963-ochre.json](./400963-ochre.json) |
 | Oco | 125845 | [125845-oco.json](./125845-oco.json) |
+| Ocon | 329061 | [329061-ocon.json](./329061-ocon.json) |
 | Ocopoco | 175397 | [175397-ocopoco.json](./175397-ocopoco.json) |
 | Oct 14 | 341498 | [341498-oct-14.json](./341498-oct-14.json) |
 | Octagon - A Minimal Arcade Game with Maximum Challenge | 91180 | [91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json](./91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die!: Lost Adventures | 14541 | [14541-orcs-must-die-lost-adventures.json](./14541-orcs-must-die-lost-adventures.json) |
 | Ordeeer! | 181347 | [181347-ordeeer.json](./181347-ordeeer.json) |
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
+| Order 13 | 329109 | [329109-order-13.json](./329109-order-13.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
 | Order Automatica | 213444 | [213444-order-automatica.json](./213444-order-automatica.json) |
 | Order matters | 26486 | [26486-order-matters.json](./26486-order-matters.json) |
