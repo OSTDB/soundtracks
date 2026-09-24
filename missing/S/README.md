@@ -3345,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooper Nova | 296512 | [296512-shooper-nova.json](./296512-shooper-nova.json) |
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
 | Shoot 8 Ball: Billiards Pool8 | 231902 | [231902-shoot-8-ball-billiards-pool8.json](./231902-shoot-8-ball-billiards-pool8.json) |
+| Shoot Away Pro | 326742 | [326742-shoot-away-pro.json](./326742-shoot-away-pro.json) |
 | Shoot Ball Fruit Splash | 105895 | [105895-shoot-ball-fruit-splash.json](./105895-shoot-ball-fruit-splash.json) |
 | Shoot Bubble | 208947 | [208947-shoot-bubble.json](./208947-shoot-bubble.json) |
 | Shoot Bubble Deluxe | 312882 | [312882-shoot-bubble-deluxe.json](./312882-shoot-bubble-deluxe.json) |
@@ -5531,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
 | Sneak Ops | 106995 | [106995-sneak-ops.json](./106995-sneak-ops.json) |
+| SneakBit | 326712 | [326712-sneakbit.json](./326712-sneakbit.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
 | Sneaky All-Nighter 2 | 379035 | [379035-sneaky-all-nighter-2.json](./379035-sneaky-all-nighter-2.json) |
@@ -7634,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spawn: The Eternal | 45208 | [45208-spawn-the-eternal.json](./45208-spawn-the-eternal.json) |
 | Speak & Spell | 245402 | [245402-speak-and-spell.json](./245402-speak-and-spell.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
+| Speak of the Cloud | 326714 | [326714-speak-of-the-cloud.json](./326714-speak-of-the-cloud.json) |
 | Speak of the Devil I: A Deathly Proposition | 277941 | [277941-speak-of-the-devil-i-a-deathly-proposition.json](./277941-speak-of-the-devil-i-a-deathly-proposition.json) |
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
@@ -8264,6 +8267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
+| SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
 | Spongiorno: Schwammfred Moving Company | 373082 | [373082-spongiorno-schwammfred-moving-company.json](./373082-spongiorno-schwammfred-moving-company.json) |
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
 | Spoockey | 189071 | [189071-spoockey.json](./189071-spoockey.json) |
@@ -8624,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
 | Squirrel with a Gun: Pride Month Update | 370901 | [370901-squirrel-with-a-gun-pride-month-update.json](./370901-squirrel-with-a-gun-pride-month-update.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
+| Squirreled Away | 326713 | [326713-squirreled-away.json](./326713-squirreled-away.json) |
 | Squirrels Gone Nuts | 290551 | [290551-squirrels-gone-nuts.json](./290551-squirrels-gone-nuts.json) |
 | Squirreltopia | 36132 | [36132-squirreltopia.json](./36132-squirreltopia.json) |
 | Squish | 342865 | [342865-squish.json](./342865-squish.json) |
@@ -9453,6 +9458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship | 208449 | [208449-starship.json](./208449-starship.json) |
 | Starship | 217983 | [217983-starship.json](./217983-starship.json) |
 | Starship | 271761 | [271761-starship.json](./271761-starship.json) |
+| Starship | 326758 | [326758-starship.json](./326758-starship.json) |
 | Starship Assassin | 57061 | [57061-starship-assassin.json](./57061-starship-assassin.json) |
 | Starship Bloopers | 405606 | [405606-starship-bloopers.json](./405606-starship-bloopers.json) |
 | Starship Caramba | 326776 | [326776-starship-caramba.json](./326776-starship-caramba.json) |
@@ -9996,6 +10002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch: Hoop Pack 1 | 333196 | [333196-stitch-hoop-pack-1.json](./333196-stitch-hoop-pack-1.json) |
 | Stitch. | 225655 | [225655-stitch.json](./225655-stitch.json) |
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
+| Stitch's Escape Game | 326769 | [326769-stitchs-escape-game.json](./326769-stitchs-escape-game.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | STLD Redux: Episode 02 | 34895 | [34895-stld-redux-episode-02.json](./34895-stld-redux-episode-02.json) |
 | Stlthscpe | 284320 | [284320-stlthscpe.json](./284320-stlthscpe.json) |
@@ -12265,6 +12272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Land | 133944 | [133944-super-smash-land.json](./133944-super-smash-land.json) |
 | Super Smash T.V. | 19117 | [19117-super-smash-t-v.json](./19117-super-smash-t-v.json) |
 | Super Smash the Office | 174839 | [174839-super-smash-the-office.json](./174839-super-smash-the-office.json) |
+| Super Snot Put | 326727 | [326727-super-snot-put.json](./326727-super-snot-put.json) |
 | Super Snowball Sunday | 74334 | [74334-super-snowball-sunday.json](./74334-super-snowball-sunday.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
 | Super Soccer | 346772 | [346772-super-soccer.json](./346772-super-soccer.json) |
