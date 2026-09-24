@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1 Workout | 232565 | [232565-2-in-1-workout.json](./232565-2-in-1-workout.json) |
 | 2 in 1: Hot Wheels Stunt Track Challenge & Hot Wheels World Race | 84193 | [84193-2-in-1-hot-wheels-stunt-track-challenge-and-hot-wheels-world-race.json](./84193-2-in-1-hot-wheels-stunt-track-challenge-and-hot-wheels-world-race.json) |
 | 2 in 1: Monumental Bundle | 208044 | [208044-2-in-1-monumental-bundle.json](./208044-2-in-1-monumental-bundle.json) |
+| 2 in 1: Trash Punk & Food Truck Tycoon | 325019 | [325019-2-in-1-trash-punk-and-food-truck-tycoon.json](./325019-2-in-1-trash-punk-and-food-truck-tycoon.json) |
 | 2 in 1: Trash Punk & Moto Rush GT | 328576 | [328576-2-in-1-trash-punk-and-moto-rush-gt.json](./328576-2-in-1-trash-punk-and-moto-rush-gt.json) |
 | 2 in 1: Trash Punk & S.N.I.P.E.R - Hunter Scope | 328577 | [328577-2-in-1-trash-punk-and-s-n-i-p-e-r-hunter-scope.json](./328577-2-in-1-trash-punk-and-s-n-i-p-e-r-hunter-scope.json) |
 | 2 in 1: Trash Punk & Urban Flow | 328578 | [328578-2-in-1-trash-punk-and-urban-flow.json](./328578-2-in-1-trash-punk-and-urban-flow.json) |
