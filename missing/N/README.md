@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night at the Harbor | 377848 | [377848-night-at-the-harbor.json](./377848-night-at-the-harbor.json) |
 | Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
 | Night at the Lake: Silent Watcher | 355036 | [355036-night-at-the-lake-silent-watcher.json](./355036-night-at-the-lake-silent-watcher.json) |
+| Night at the Meowseum | 293169 | [293169-night-at-the-meowseum.json](./293169-night-at-the-meowseum.json) |
 | Night At The Motel | 376485 | [376485-night-at-the-motel.json](./376485-night-at-the-motel.json) |
 | Night at the Office | 201791 | [201791-night-at-the-office.json](./201791-night-at-the-office.json) |
 | Night at the Office | 327806 | [327806-night-at-the-office.json](./327806-night-at-the-office.json) |
