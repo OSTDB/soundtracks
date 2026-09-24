@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Graces F Remastered | 314945 | [314945-tales-of-graces-f-remastered.json](./314945-tales-of-graces-f-remastered.json) |
 | Tales of Graces F/ Tales of Symphonia Chronicles | 44617 | [44617-tales-of-graces-f-tales-of-symphonia-chronicles.json](./44617-tales-of-graces-f-tales-of-symphonia-chronicles.json) |
+| Tales of Grimace | 317984 | [317984-tales-of-grimace.json](./317984-tales-of-grimace.json) |
 | Tales of Grimm | 193895 | [193895-tales-of-grimm.json](./193895-tales-of-grimm.json) |
 | Tales of Guards Elves | 215701 | [215701-tales-of-guards-elves.json](./215701-tales-of-guards-elves.json) |
 | Tales of Hearts R: Infinite Evolve | 329142 | [329142-tales-of-hearts-r-infinite-evolve.json](./329142-tales-of-hearts-r-infinite-evolve.json) |
@@ -5177,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mighty Quest for Epic Loot | 2726 | [2726-the-mighty-quest-for-epic-loot.json](./2726-the-mighty-quest-for-epic-loot.json) |
 | The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
+| The Milliner | 317974 | [317974-the-milliner.json](./317974-the-milliner.json) |
 | The Mims 5 | 97294 | [97294-the-mims-5.json](./97294-the-mims-5.json) |
 | The Mind Snare | 363881 | [363881-the-mind-snare.json](./363881-the-mind-snare.json) |
 | The Mind's Eclipse | 76579 | [76579-the-minds-eclipse.json](./76579-the-minds-eclipse.json) |
@@ -6939,6 +6941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
 | The Vampire's Bride: A Bride Who Gets Married to Vampdoll | 334894 | [334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json](./334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json) |
 | The Vanished Soul | 318063 | [318063-the-vanished-soul.json](./318063-the-vanished-soul.json) |
+| The Vanishing | 317969 | [317969-the-vanishing.json](./317969-the-vanishing.json) |
 | The Vanishing of Ethan Carter Redux | 102123 | [102123-the-vanishing-of-ethan-carter-redux.json](./102123-the-vanishing-of-ethan-carter-redux.json) |
 | The Vanishing of Ethan Carter VR | 19065 | [19065-the-vanishing-of-ethan-carter-vr.json](./19065-the-vanishing-of-ethan-carter-vr.json) |
 | THE Variety Game Daishugo: Kingyo Sukui, Card, Suji Puzzle, Nikakudori | 136833 | [136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json](./136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json) |
