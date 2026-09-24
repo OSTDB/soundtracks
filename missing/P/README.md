@@ -1647,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
 | Perfect Ace 2: The Championships | 43247 | [43247-perfect-ace-2-the-championships.json](./43247-perfect-ace-2-the-championships.json) |
 | Perfect Angle | 69321 | [69321-perfect-angle.json](./69321-perfect-angle.json) |
+| Perfect Apocalypse: The Day After | 304128 | [304128-perfect-apocalypse-the-day-after.json](./304128-perfect-apocalypse-the-day-after.json) |
 | Perfect Balance | 186259 | [186259-perfect-balance.json](./186259-perfect-balance.json) |
 | Perfect Blue | 24149 | [24149-perfect-blue.json](./24149-perfect-blue.json) |
 | Perfect Bowling | 48306 | [48306-perfect-bowling.json](./48306-perfect-bowling.json) |
@@ -1997,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
 | Phantom of the Kill | 58459 | [58459-phantom-of-the-kill.json](./58459-phantom-of-the-kill.json) |
+| Phantom of the Twilight | 304152 | [304152-phantom-of-the-twilight.json](./304152-phantom-of-the-twilight.json) |
 | Phantom Ops | 370703 | [370703-phantom-ops.json](./370703-phantom-ops.json) |
 | Phantom Path | 126654 | [126654-phantom-path.json](./126654-phantom-path.json) |
 | Phantom Playhouse | 331949 | [331949-phantom-playhouse.json](./331949-phantom-playhouse.json) |
@@ -5505,10 +5507,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procuring Estrogen for Your Toxic Slime Girlfriend | 397074 | [397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json](./397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json) |
 | Procyon | 16884 | [16884-procyon.json](./16884-procyon.json) |
 | Procyon | 218130 | [218130-procyon.json](./218130-procyon.json) |
+| Prodigal | 304099 | [304099-prodigal.json](./304099-prodigal.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
 | Prodigy Tactics | 77360 | [77360-prodigy-tactics.json](./77360-prodigy-tactics.json) |
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
+| Profanation | 304127 | [304127-profanation.json](./304127-profanation.json) |
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
 | Professional Bull Rider 2 | 71445 | [71445-professional-bull-rider-2.json](./71445-professional-bull-rider-2.json) |
 | Professional Bull Riding: Out of the Chute | 315719 | [315719-professional-bull-riding-out-of-the-chute.json](./315719-professional-bull-riding-out-of-the-chute.json) |
@@ -6389,6 +6393,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purranoia | 385218 | [385218-purranoia.json](./385218-purranoia.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
 | Purrfect Alchemy | 337808 | [337808-purrfect-alchemy.json](./337808-purrfect-alchemy.json) |
+| Purrfect Apawcalypse: Ideal Finale!!! | 304124 | [304124-purrfect-apawcalypse-ideal-finale.json](./304124-purrfect-apawcalypse-ideal-finale.json) |
+| Purrfect Apawcalypse: Infamous Furiend?! | 304122 | [304122-purrfect-apawcalypse-infamous-furiend.json](./304122-purrfect-apawcalypse-infamous-furiend.json) |
+| Purrfect Apawcalypse! Incredible Furture! | 304121 | [304121-purrfect-apawcalypse-incredible-furture.json](./304121-purrfect-apawcalypse-incredible-furture.json) |
 | Purrfect Stall | 371958 | [371958-purrfect-stall.json](./371958-purrfect-stall.json) |
 | Purrfect Tanks: The Yarnpocalypse | 391064 | [391064-purrfect-tanks-the-yarnpocalypse.json](./391064-purrfect-tanks-the-yarnpocalypse.json) |
 | Purrplate | 372987 | [372987-purrplate.json](./372987-purrplate.json) |
