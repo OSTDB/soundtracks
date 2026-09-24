@@ -4135,6 +4135,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
 | Bloons Card Storm | 314325 | [314325-bloons-card-storm.json](./314325-bloons-card-storm.json) |
 | Bloons Insanity | 63568 | [63568-bloons-insanity.json](./63568-bloons-insanity.json) |
+| Bloons Junior | 335446 | [335446-bloons-junior.json](./335446-bloons-junior.json) |
+| Bloons Player Pack 1 | 335453 | [335453-bloons-player-pack-1.json](./335453-bloons-player-pack-1.json) |
+| Bloons Player Pack 2 | 335452 | [335452-bloons-player-pack-2.json](./335452-bloons-player-pack-2.json) |
+| Bloons Player Pack 3 | 335451 | [335451-bloons-player-pack-3.json](./335451-bloons-player-pack-3.json) |
+| Bloons Player Pack 4 | 335454 | [335454-bloons-player-pack-4.json](./335454-bloons-player-pack-4.json) |
+| Bloons Player Pack 5 | 335450 | [335450-bloons-player-pack-5.json](./335450-bloons-player-pack-5.json) |
 | Bloons TD | 144754 | [144754-bloons-td.json](./144754-bloons-td.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
@@ -4732,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom! VR | 158069 | [158069-boom-vr.json](./158069-boom-vr.json) |
 | BoomBang | 135676 | [135676-boombang.json](./135676-boombang.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
+| Boombot 2 | 335457 | [335457-boombot-2.json](./335457-boombot-2.json) |
 | BoomBox | 143046 | [143046-boombox.json](./143046-boombox.json) |
 | Boomby | 179147 | [179147-boomby.json](./179147-boomby.json) |
 | Boomcestors | 367961 | [367961-boomcestors.json](./367961-boomcestors.json) |
@@ -5231,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Workout! Find the Difference in Classic Art | 351224 | [351224-brain-workout-find-the-difference-in-classic-art.json](./351224-brain-workout-find-the-difference-in-classic-art.json) |
 | Brain Workout! Jellyfish Puzzle | 364099 | [364099-brain-workout-jellyfish-puzzle.json](./364099-brain-workout-jellyfish-puzzle.json) |
 | Brain You Later | 135677 | [135677-brain-you-later.json](./135677-brain-you-later.json) |
+| Brainbots | 335464 | [335464-brainbots.json](./335464-brainbots.json) |
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
 | Braindead | 345660 | [345660-braindead.json](./345660-braindead.json) |
@@ -5893,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Classic | 332248 | [332248-bubble-bobble-classic.json](./332248-bubble-bobble-classic.json) |
 | Bubble Bobble Double Shot | 20672 | [20672-bubble-bobble-double-shot.json](./20672-bubble-bobble-double-shot.json) |
 | Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
+| Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
@@ -5919,6 +5928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
 | Bubble Seahorse Adventure | 304756 | [304756-bubble-seahorse-adventure.json](./304756-bubble-seahorse-adventure.json) |
 | Bubble Shooter | 224076 | [224076-bubble-shooter.json](./224076-bubble-shooter.json) |
+| Bubble Shooter | 335469 | [335469-bubble-shooter.json](./335469-bubble-shooter.json) |
 | Bubble Shooter 2 | 299775 | [299775-bubble-shooter-2.json](./299775-bubble-shooter-2.json) |
 | Bubble Shooter Adventures | 341019 | [341019-bubble-shooter-adventures.json](./341019-bubble-shooter-adventures.json) |
 | Bubble Shooter DX | 114186 | [114186-bubble-shooter-dx.json](./114186-bubble-shooter-dx.json) |
