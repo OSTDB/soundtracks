@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Quiz Mega Q 2022 | 216258 | [216258-party-quiz-mega-q-2022.json](./216258-party-quiz-mega-q-2022.json) |
 | Party Saboteurs | 25313 | [25313-party-saboteurs.json](./25313-party-saboteurs.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
+| Party Versus | 326770 | [326770-party-versus.json](./326770-party-versus.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
@@ -4762,12 +4763,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers Samurai | 25181 | [25181-power-rangers-samurai.json](./25181-power-rangers-samurai.json) |
 | Power Rangers Super Samurai | 25162 | [25162-power-rangers-super-samurai.json](./25162-power-rangers-super-samurai.json) |
 | Power Rangers Time Force | 3293 | [3293-power-rangers-time-force.json](./3293-power-rangers-time-force.json) |
+| Power Rangers: Battle for the Grid - Adam Park | 326725 | [326725-power-rangers-battle-for-the-grid-adam-park.json](./326725-power-rangers-battle-for-the-grid-adam-park.json) |
 | Power Rangers: Battle for the Grid - Anubis Cruger SPD Shadow Ranger | 167794 | [167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json](./167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json) |
 | Power Rangers: Battle for the Grid - Chun-Li Blue Phoenix Ranger | 167793 | [167793-power-rangers-battle-for-the-grid-chun-li-blue-phoenix-ranger.json](./167793-power-rangers-battle-for-the-grid-chun-li-blue-phoenix-ranger.json) |
 | Power Rangers: Battle for the Grid - Collector's Edition | 119069 | [119069-power-rangers-battle-for-the-grid-collectors-edition.json](./119069-power-rangers-battle-for-the-grid-collectors-edition.json) |
 | Power Rangers: Battle for the Grid - Dai Shi | 167788 | [167788-power-rangers-battle-for-the-grid-dai-shi.json](./167788-power-rangers-battle-for-the-grid-dai-shi.json) |
 | Power Rangers: Battle for the Grid - Digital Collector's Edition | 205276 | [205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json](./205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json) |
 | Power Rangers: Battle for the Grid - Eric Myers Time Force Quantum Ranger | 167796 | [167796-power-rangers-battle-for-the-grid-eric-myers-time-force-quantum-ranger.json](./167796-power-rangers-battle-for-the-grid-eric-myers-time-force-quantum-ranger.json) |
+| Power Rangers: Battle For the Grid - Jen Scotts: Time Force Pink Ranger | 326726 | [326726-power-rangers-battle-for-the-grid-jen-scotts-time-force-pink-ranger.json](./326726-power-rangers-battle-for-the-grid-jen-scotts-time-force-pink-ranger.json) |
 | Power Rangers: Battle for the Grid - Lauren Shiba Super Samurai | 167787 | [167787-power-rangers-battle-for-the-grid-lauren-shiba-super-samurai.json](./167787-power-rangers-battle-for-the-grid-lauren-shiba-super-samurai.json) |
 | Power Rangers: Battle for the Grid - Lord Zedd | 167790 | [167790-power-rangers-battle-for-the-grid-lord-zedd.json](./167790-power-rangers-battle-for-the-grid-lord-zedd.json) |
 | Power Rangers: Battle for the Grid - Robert James Jungle Fury | 167789 | [167789-power-rangers-battle-for-the-grid-robert-james-jungle-fury.json](./167789-power-rangers-battle-for-the-grid-robert-james-jungle-fury.json) |
