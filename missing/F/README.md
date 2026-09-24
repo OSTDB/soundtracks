@@ -2858,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flexibility and Girls | 147979 | [147979-flexibility-and-girls.json](./147979-flexibility-and-girls.json) |
 | Flexible Survival | 60023 | [60023-flexible-survival.json](./60023-flexible-survival.json) |
 | FlexibleJigsaw: Journey | 357882 | [357882-flexiblejigsaw-journey.json](./357882-flexiblejigsaw-journey.json) |
+| Fleximan | 291529 | [291529-fleximan.json](./291529-fleximan.json) |
 | Flibble | 64125 | [64125-flibble.json](./64125-flibble.json) |
 | Flibbles | 211253 | [211253-flibbles.json](./211253-flibbles.json) |
 | Flick | 409649 | [409649-flick.json](./409649-flick.json) |
@@ -3551,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
+| For Honor: Ultimate Edition | 291540 | [291540-for-honor-ultimate-edition.json](./291540-for-honor-ultimate-edition.json) |
 | For Honor: Ultimate Heroes Pack | 305767 | [305767-for-honor-ultimate-heroes-pack.json](./305767-for-honor-ultimate-heroes-pack.json) |
 | For Honor: Warmonger Hero | 170436 | [170436-for-honor-warmonger-hero.json](./170436-for-honor-warmonger-hero.json) |
 | For My Babies | 270770 | [270770-for-my-babies.json](./270770-for-my-babies.json) |
