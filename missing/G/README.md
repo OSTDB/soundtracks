@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Attack | 24897 | [24897-galactic-attack.json](./24897-galactic-attack.json) |
 | Galactic Attack | 81439 | [81439-galactic-attack.json](./81439-galactic-attack.json) |
 | Galactic Bar Fight VR | 198447 | [198447-galactic-bar-fight-vr.json](./198447-galactic-bar-fight-vr.json) |
+| Galactic Blasters D: Future Darkness | 336165 | [336165-galactic-blasters-d-future-darkness.json](./336165-galactic-blasters-d-future-darkness.json) |
 | Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
 | Galactic Bounty | 406684 | [406684-galactic-bounty.json](./406684-galactic-bounty.json) |
 | Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
@@ -1823,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of Generals | 84508 | [84508-glory-of-generals.json](./84508-glory-of-generals.json) |
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
+| Glory On Pluto | 336126 | [336126-glory-on-pluto.json](./336126-glory-on-pluto.json) |
 | Glory to the Heroes | 363972 | [363972-glory-to-the-heroes.json](./363972-glory-to-the-heroes.json) |
 | Glory Wall! | 393838 | [393838-glory-wall.json](./393838-glory-wall.json) |
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
@@ -3123,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greek Letters and Alphabet 2 | 99394 | [99394-greek-letters-and-alphabet-2.json](./99394-greek-letters-and-alphabet-2.json) |
 | Green | 106971 | [106971-green.json](./106971-green.json) |
 | Green Breach | 416833 | [416833-green-breach.json](./416833-green-breach.json) |
+| Green Crab Grab | 336166 | [336166-green-crab-grab.json](./336166-green-crab-grab.json) |
 | Green Day Revenge | 66074 | [66074-green-day-revenge.json](./66074-green-day-revenge.json) |
 | Green Day: Dookie - Welcome to Paradise | 319233 | [319233-green-day-dookie-welcome-to-paradise.json](./319233-green-day-dookie-welcome-to-paradise.json) |
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
