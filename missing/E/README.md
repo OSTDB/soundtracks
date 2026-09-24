@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
 | Egg Hunt Truck | 97143 | [97143-egg-hunt-truck.json](./97143-egg-hunt-truck.json) |
 | Egg Hunt VR | 28784 | [28784-egg-hunt-vr.json](./28784-egg-hunt-vr.json) |
+| Egg Maker | 317361 | [317361-egg-maker.json](./317361-egg-maker.json) |
 | Egg Meister | 344483 | [344483-egg-meister.json](./344483-egg-meister.json) |
 | Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
 | Egg Tales | 58749 | [58749-egg-tales.json](./58749-egg-tales.json) |
@@ -626,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EightMan | 40976 | [40976-eightman.json](./40976-eightman.json) |
 | Eights | 354652 | [354652-eights.json](./354652-eights.json) |
 | Eigo wo Taberu Fushigi na Ikimono | 338715 | [338715-eigo-wo-taberu-fushigi-na-ikimono.json](./338715-eigo-wo-taberu-fushigi-na-ikimono.json) |
+| Eijukugo Target 1000 DS | 317397 | [317397-eijukugo-target-1000-ds.json](./317397-eijukugo-target-1000-ds.json) |
 | Eikoku Tantei Mysteria | 221826 | [221826-eikoku-tantei-mysteria.json](./221826-eikoku-tantei-mysteria.json) |
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
 | Eilean Mor: The Lost Keepers | 355026 | [355026-eilean-mor-the-lost-keepers.json](./355026-eilean-mor-the-lost-keepers.json) |
@@ -1804,6 +1806,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 356667 | [356667-escape.json](./356667-escape.json) |
 | Escape | 80938 | [80938-escape.json](./80938-escape.json) |
 | Escape | 98433 | [98433-escape.json](./98433-escape.json) |
+| Escape 2: The Closet | 317400 | [317400-escape-2-the-closet.json](./317400-escape-2-the-closet.json) |
+| Escape 4: The Bathroom | 317401 | [317401-escape-4-the-bathroom.json](./317401-escape-4-the-bathroom.json) |
 | Escape Academy 2: Back 2 School | 347671 | [347671-escape-academy-2-back-2-school.json](./347671-escape-academy-2-back-2-school.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
 | Escape Academy: Escape From Anti-Escape Island | 222336 | [222336-escape-academy-escape-from-anti-escape-island.json](./222336-escape-academy-escape-from-anti-escape-island.json) |
