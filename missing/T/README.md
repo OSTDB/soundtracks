@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Rensa Suru Noroi & Nazono-Jikenbo | 347328 | [347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json](./347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Shinjuku Chuuou Kouen Satsujin Jiken | 41412 | [41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json](./41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json) |
 | Tantei Jinguji Saburo: Toki no Sugiyuku Mama ni | 48883 | [48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json](./48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json) |
+| Tantei Kibukawa Ryousuke Jiken-tan Vol. 7: Otonari Keiji no Sousa Memo | 297585 | [297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json](./297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Eigou-kai Jiken | 299763 | [299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json](./299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 1 - Kamen Gensou Satsujin Jiken | 293239 | [293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json](./293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
@@ -1744,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
+| TerraFirmaCraft+ | 297577 | [297577-terrafirmacraft.json](./297577-terrafirmacraft.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
 | Terraformers: Deluxe Bundle | 331493 | [331493-terraformers-deluxe-bundle.json](./331493-terraformers-deluxe-bundle.json) |
@@ -2340,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
+| The Avengers United Battle Force | 297544 | [297544-the-avengers-united-battle-force.json](./297544-the-avengers-united-battle-force.json) |
 | The Average Everyday Adventures of Samantha Browne | 16984 | [16984-the-average-everyday-adventures-of-samantha-browne.json](./16984-the-average-everyday-adventures-of-samantha-browne.json) |
 | The Awakened Avenger | 372467 | [372467-the-awakened-avenger.json](./372467-the-awakened-avenger.json) |
 | The Awakened Fate: Ultimatum | 19119 | [19119-the-awakened-fate-ultimatum.json](./19119-the-awakened-fate-ultimatum.json) |
@@ -5408,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
 | The Necromancer's Castle | 82462 | [82462-the-necromancers-castle.json](./82462-the-necromancers-castle.json) |
+| The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
 | The Neon Mate | 137483 | [137483-the-neon-mate.json](./137483-the-neon-mate.json) |
 | The Neroe | 199492 | [199492-the-neroe.json](./199492-the-neroe.json) |
@@ -5577,6 +5581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
 | The Overseer | 306445 | [306445-the-overseer.json](./306445-the-overseer.json) |
+| The Owl House: Witch's Apprentice | 297588 | [297588-the-owl-house-witchs-apprentice.json](./297588-the-owl-house-witchs-apprentice.json) |
 | The Owl-Woman Oracle | 177929 | [177929-the-owl-woman-oracle.json](./177929-the-owl-woman-oracle.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
@@ -5917,6 +5922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
 | The Rewinder: Definitive Edition | 294824 | [294824-the-rewinder-definitive-edition.json](./294824-the-rewinder-definitive-edition.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
+| The Rewrite Journal | 297573 | [297573-the-rewrite-journal.json](./297573-the-rewrite-journal.json) |
 | The Rhine Railway: Mannheim - Karlsruhe Collection | 53783 | [53783-the-rhine-railway-mannheim-karlsruhe-collection.json](./53783-the-rhine-railway-mannheim-karlsruhe-collection.json) |
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
@@ -8911,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Robots Recharged | 167830 | [167830-tiny-robots-recharged.json](./167830-tiny-robots-recharged.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
+| Tiny Shop | 297576 | [297576-tiny-shop.json](./297576-tiny-shop.json) |
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
 | Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
 | Tiny Starfighters | 317413 | [317413-tiny-starfighters.json](./317413-tiny-starfighters.json) |
