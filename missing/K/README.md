@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karakuri Ninpou | 267991 | [267991-karakuri-ninpou.json](./267991-karakuri-ninpou.json) |
 | Karakuri-kun: A Japanese Tale | 135040 | [135040-karakuri-kun-a-japanese-tale.json](./135040-karakuri-kun-a-japanese-tale.json) |
 | Karakuru | 371904 | [371904-karakuru.json](./371904-karakuru.json) |
+| Karamu Trilogy | 286073 | [286073-karamu-trilogy.json](./286073-karamu-trilogy.json) |
 | Karamuu-chou ha Oosawagi! | 228576 | [228576-karamuu-chou-ha-oosawagi.json](./228576-karamuu-chou-ha-oosawagi.json) |
 | Karamuu-chou ha Oosawagi!: Porinkiis to Okashi na Nakama-tachi | 228577 | [228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json](./228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json) |
 | Karamuu-chou no Daijiken | 228575 | [228575-karamuu-chou-no-daijiken.json](./228575-karamuu-chou-no-daijiken.json) |
@@ -908,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill AI | 288812 | [288812-kill-ai.json](./288812-kill-ai.json) |
 | Kill All Enemies | 340009 | [340009-kill-all-enemies.json](./340009-kill-all-enemies.json) |
 | Kill All Lice | 320322 | [320322-kill-all-lice.json](./320322-kill-all-lice.json) |
+| Kill Ball | 286077 | [286077-kill-ball.json](./286077-kill-ball.json) |
 | Kill Barney in Tokyo | 325818 | [325818-kill-barney-in-tokyo.json](./325818-kill-barney-in-tokyo.json) |
 | Kill Commando II | 270210 | [270210-kill-commando-ii.json](./270210-kill-commando-ii.json) |
 | Kill Crab | 255124 | [255124-kill-crab.json](./255124-kill-crab.json) |
