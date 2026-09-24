@@ -1060,11 +1060,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrier | 346049 | [346049-barrier.json](./346049-barrier.json) |
 | Barrier | 38546 | [38546-barrier.json](./38546-barrier.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
+| Barro F22: Pack #2 | 322730 | [322730-barro-f22-pack-2.json](./322730-barro-f22-pack-2.json) |
 | Barro F25 | 339931 | [339931-barro-f25.json](./339931-barro-f25.json) |
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
+| Barro GT: Pack #2 | 322731 | [322731-barro-gt-pack-2.json](./322731-barro-gt-pack-2.json) |
 | Barro Racing | 156139 | [156139-barro-racing.json](./156139-barro-racing.json) |
 | Barro T23 | 246957 | [246957-barro-t23.json](./246957-barro-t23.json) |
 | Barro T23: Pack #1 | 298339 | [298339-barro-t23-pack-1.json](./298339-barro-t23-pack-1.json) |
+| Barro T23: Pack #2 | 322732 | [322732-barro-t23-pack-2.json](./322732-barro-t23-pack-2.json) |
 | Barrok | 309877 | [309877-barrok.json](./309877-barrok.json) |
 | Barrok 2 | 382290 | [382290-barrok-2.json](./382290-barrok-2.json) |
 | Barry Bonds enter the world of Myst | 322363 | [322363-barry-bonds-enter-the-world-of-myst.json](./322363-barry-bonds-enter-the-world-of-myst.json) |
@@ -2032,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Vector | 393465 | [393465-beat-vector.json](./393465-beat-vector.json) |
 | Beat Weaver | 393657 | [393657-beat-weaver.json](./393657-beat-weaver.json) |
 | Beat Your Boss | 389743 | [389743-beat-your-boss.json](./389743-beat-your-boss.json) |
+| Beat, Heart, Beat | 322745 | [322745-beat-heart-beat.json](./322745-beat-heart-beat.json) |
 | BeatBlast: Rhythm Rampage | 325006 | [325006-beatblast-rhythm-rampage.json](./325006-beatblast-rhythm-rampage.json) |
 | BeatBlasters III | 9045 | [9045-beatblasters-iii.json](./9045-beatblasters-iii.json) |
 | BeatBlox | 68648 | [68648-beatblox.json](./68648-beatblox.json) |
@@ -3735,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinky's Adventure | 367949 | [367949-blinkys-adventure.json](./367949-blinkys-adventure.json) |
 | Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
 | Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
+| Blip's Supermassive Adventure | 322707 | [322707-blips-supermassive-adventure.json](./322707-blips-supermassive-adventure.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
 | Blips | 320157 | [320157-blips.json](./320157-blips.json) |
 | Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
