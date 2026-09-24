@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales AFar | 233497 | [233497-tales-afar.json](./233497-tales-afar.json) |
 | Tales Beyond the Tomb: No Witnesses | 407331 | [407331-tales-beyond-the-tomb-no-witnesses.json](./407331-tales-beyond-the-tomb-no-witnesses.json) |
 | Tales Beyond the Tomb: Route 86 | 362327 | [362327-tales-beyond-the-tomb-route-86.json](./362327-tales-beyond-the-tomb-route-86.json) |
+| Tales Beyond the Tomb: The Farm's Secret | 326746 | [326746-tales-beyond-the-tomb-the-farms-secret.json](./326746-tales-beyond-the-tomb-the-farms-secret.json) |
 | Tales from Ahrum | 175981 | [175981-tales-from-ahrum.json](./175981-tales-from-ahrum.json) |
 | Tales from Centropolis | 244239 | [244239-tales-from-centropolis.json](./244239-tales-from-centropolis.json) |
 | Tales From Deep Space | 94751 | [94751-tales-from-deep-space.json](./94751-tales-from-deep-space.json) |
@@ -1363,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Definitive Edition | 188048 | [188048-tekken-7-definitive-edition.json](./188048-tekken-7-definitive-edition.json) |
 | Tekken 7: Eliza | 173151 | [173151-tekken-7-eliza.json](./173151-tekken-7-eliza.json) |
 | Tekken 7: Fated Retribution | 19555 | [19555-tekken-7-fated-retribution.json](./19555-tekken-7-fated-retribution.json) |
+| Tekken 7: Fated Retribution Round 2 | 326735 | [326735-tekken-7-fated-retribution-round-2.json](./326735-tekken-7-fated-retribution-round-2.json) |
 | Tekken 7: Ganryu | 173155 | [173155-tekken-7-ganryu.json](./173155-tekken-7-ganryu.json) |
 | Tekken 7: Island Paradise | 173150 | [173150-tekken-7-island-paradise.json](./173150-tekken-7-island-paradise.json) |
 | Tekken 7: Kunimitsu | 173148 | [173148-tekken-7-kunimitsu.json](./173148-tekken-7-kunimitsu.json) |
@@ -3332,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elysian Fields and Other Greek Myths | 122985 | [122985-the-elysian-fields-and-other-greek-myths.json](./122985-the-elysian-fields-and-other-greek-myths.json) |
 | The Ember Guardian | 342161 | [342161-the-ember-guardian.json](./342161-the-ember-guardian.json) |
 | The Emerald Maiden: Symphony of Dreams | 20363 | [20363-the-emerald-maiden-symphony-of-dreams.json](./20363-the-emerald-maiden-symphony-of-dreams.json) |
+| The Emeralds' Awakening | 326721 | [326721-the-emeralds-awakening.json](./326721-the-emeralds-awakening.json) |
 | The Eminence in Shadow: Master of Garden | 227490 | [227490-the-eminence-in-shadow-master-of-garden.json](./227490-the-eminence-in-shadow-master-of-garden.json) |
 | The Eminence in Shadow: Phantom Echoes | 416122 | [416122-the-eminence-in-shadow-phantom-echoes.json](./416122-the-eminence-in-shadow-phantom-echoes.json) |
 | The Empanada Protocol | 207359 | [207359-the-empanada-protocol.json](./207359-the-empanada-protocol.json) |
@@ -7837,6 +7840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
+| Tie: A Game About Depression | 326716 | [326716-tie-a-game-about-depression.json](./326716-tie-a-game-about-depression.json) |
 | Tiebreak+ | 334667 | [334667-tiebreak.json](./334667-tiebreak.json) |
 | Tiebreaker | 93017 | [93017-tiebreaker.json](./93017-tiebreaker.json) |
 | Tied By Numbers | 386153 | [386153-tied-by-numbers.json](./386153-tied-by-numbers.json) |
@@ -8686,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Bunny | 131653 | [131653-tiny-bunny.json](./131653-tiny-bunny.json) |
 | Tiny Candy Guardian | 264034 | [264034-tiny-candy-guardian.json](./264034-tiny-candy-guardian.json) |
 | Tiny Card Battle | 181249 | [181249-tiny-card-battle.json](./181249-tiny-card-battle.json) |
+| Tiny Castle | 326731 | [326731-tiny-castle.json](./326731-tiny-castle.json) |
 | Tiny Chao Garden | 341691 | [341691-tiny-chao-garden.json](./341691-tiny-chao-garden.json) |
 | Tiny Chao Garden | 341693 | [341693-tiny-chao-garden.json](./341693-tiny-chao-garden.json) |
 | Tiny Chao Garden | 341694 | [341694-tiny-chao-garden.json](./341694-tiny-chao-garden.json) |
