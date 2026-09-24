@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheonsang Soma Yeongung-jeon II | 145641 | [145641-cheonsang-soma-yeongung-jeon-ii.json](./145641-cheonsang-soma-yeongung-jeon-ii.json) |
 | Chequred Flag | 45335 | [45335-chequred-flag.json](./45335-chequred-flag.json) |
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
+| Cherish Pizza ha Ikaga Desu ka | 321467 | [321467-cherish-pizza-ha-ikaga-desu-ka.json](./321467-cherish-pizza-ha-ikaga-desu-ka.json) |
 | Chernaja Metka | 37048 | [37048-chernaja-metka.json](./37048-chernaja-metka.json) |
 | Chernobots | 373748 | [373748-chernobots.json](./373748-chernobots.json) |
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
@@ -4324,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Party Wars | 201248 | [201248-colorful-party-wars.json](./201248-colorful-party-wars.json) |
 | Colorful Tower of Hanoi | 386701 | [386701-colorful-tower-of-hanoi.json](./386701-colorful-tower-of-hanoi.json) |
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
+| Colorfuly Ball | 321485 | [321485-colorfuly-ball.json](./321485-colorfuly-ball.json) |
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
@@ -5665,6 +5667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
 | Cozy Cat Cafe | 399630 | [399630-cozy-cat-cafe.json](./399630-cozy-cat-cafe.json) |
 | Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
+| Cozy Claw Machine | 321513 | [321513-cozy-claw-machine.json](./321513-cozy-claw-machine.json) |
 | Cozy Collection | 356848 | [356848-cozy-collection.json](./356848-cozy-collection.json) |
 | Cozy Cooking: Lo-fi Beats | 338205 | [338205-cozy-cooking-lo-fi-beats.json](./338205-cozy-cooking-lo-fi-beats.json) |
 | Cozy Cooking: Tiny Tastes | 356847 | [356847-cozy-cooking-tiny-tastes.json](./356847-cozy-cooking-tiny-tastes.json) |
@@ -6706,6 +6709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
 | Cryptic Clash | 182907 | [182907-cryptic-clash.json](./182907-cryptic-clash.json) |
+| Cryptic Crawlz | 321478 | [321478-cryptic-crawlz.json](./321478-cryptic-crawlz.json) |
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
 | Cryptic Tales: Crossroads | 371461 | [371461-cryptic-tales-crossroads.json](./371461-cryptic-tales-crossroads.json) |
 | Cryptica | 307157 | [307157-cryptica.json](./307157-cryptica.json) |
