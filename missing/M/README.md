@@ -3400,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Match March | 361798 | [361798-merge-match-march.json](./361798-merge-match-march.json) |
 | Merge Mayor | 212482 | [212482-merge-mayor.json](./212482-merge-mayor.json) |
 | Merge Meadow! | 108483 | [108483-merge-meadow.json](./108483-merge-meadow.json) |
+| Merge Mend | 320293 | [320293-merge-mend.json](./320293-merge-mend.json) |
 | Merge Military | 208970 | [208970-merge-military.json](./208970-merge-military.json) |
 | Merge Miners | 229372 | [229372-merge-miners.json](./229372-merge-miners.json) |
 | Merge Monastery | 389110 | [389110-merge-monastery.json](./389110-merge-monastery.json) |
@@ -3822,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's 123's: The Big Surprise Party | 65768 | [65768-mickeys-123s-the-big-surprise-party.json](./65768-mickeys-123s-the-big-surprise-party.json) |
 | Mickey's Dangerous Chase | 8127 | [8127-mickeys-dangerous-chase.json](./8127-mickeys-dangerous-chase.json) |
 | Mickey's House Party | 214046 | [214046-mickeys-house-party.json](./214046-mickeys-house-party.json) |
+| Mickey's Robot Laboratory | 320330 | [320330-mickeys-robot-laboratory.json](./320330-mickeys-robot-laboratory.json) |
 | Mickey's Speedway USA | 3408 | [3408-mickeys-speedway-usa.json](./3408-mickeys-speedway-usa.json) |
 | Mickey's Speedway USA: Huey | 248304 | [248304-mickeys-speedway-usa-huey.json](./248304-mickeys-speedway-usa-huey.json) |
 | miCoach by adidas | 78638 | [78638-micoach-by-adidas.json](./78638-micoach-by-adidas.json) |
@@ -5508,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
+| Monkey Snowfight | 320300 | [320300-monkey-snowfight.json](./320300-monkey-snowfight.json) |
 | Monkey Splash!! | 274466 | [274466-monkey-splash.json](./274466-monkey-splash.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
