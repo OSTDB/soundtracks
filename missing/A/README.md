@@ -3706,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoki Densetsu Shoot! | 228474 | [228474-aoki-densetsu-shoot.json](./228474-aoki-densetsu-shoot.json) |
 | Aoki Gentyouhishi | 45546 | [45546-aoki-gentyouhishi.json](./45546-aoki-gentyouhishi.json) |
 | Aoki Ookami to Shiroki Mejika | 30922 | [30922-aoki-ookami-to-shiroki-mejika.json](./30922-aoki-ookami-to-shiroki-mejika.json) |
+| Aoki Shinjuku | 305866 | [305866-aoki-shinjuku.json](./305866-aoki-shinjuku.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
 | Aooni | 307751 | [307751-aooni.json](./307751-aooni.json) |
 | Aooni: The Horror of Blueberry Onsen | 341884 | [341884-aooni-the-horror-of-blueberry-onsen.json](./341884-aooni-the-horror-of-blueberry-onsen.json) |
