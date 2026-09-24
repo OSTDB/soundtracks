@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisshou Pachinko Pachi-Slot Kouryaku Series Vol.14: CR Shinseiki Evangelion - Saigo no Mono | 61581 | [61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json](./61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json) |
 | Hisshou Pachinko: Pachi-Slot Kouryoku Series Vol. 9: CR Fever Captain Harlock | 97315 | [97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json](./97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json) |
 | Hist Maker | 103183 | [103183-hist-maker.json](./103183-hist-maker.json) |
+| Histo-Time | 336710 | [336710-histo-time.json](./336710-histo-time.json) |
 | Histoire de Lune | 322590 | [322590-histoire-de-lune.json](./322590-histoire-de-lune.json) |
 | Histology Quiz Game | 99387 | [99387-histology-quiz-game.json](./99387-histology-quiz-game.json) |
 | Historia Battles Crusade | 134004 | [134004-historia-battles-crusade.json](./134004-historia-battles-crusade.json) |
