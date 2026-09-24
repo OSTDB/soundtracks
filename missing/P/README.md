@@ -2901,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fodder | 34858 | [34858-pixel-fodder.json](./34858-pixel-fodder.json) |
 | Pixel Force 2 | 175278 | [175278-pixel-force-2.json](./175278-pixel-force-2.json) |
 | Pixel Forest | 108489 | [108489-pixel-forest.json](./108489-pixel-forest.json) |
+| Pixel Frenzy | 326227 | [326227-pixel-frenzy.json](./326227-pixel-frenzy.json) |
 | Pixel Fruit Platform | 388237 | [388237-pixel-fruit-platform.json](./388237-pixel-fruit-platform.json) |
 | Pixel Galaxy | 24615 | [24615-pixel-galaxy.json](./24615-pixel-galaxy.json) |
 | Pixel Game Maker Series Arcanion: The Mekanos Invasion | 409551 | [409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json](./409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json) |
@@ -4280,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
 | Polyroll | 87936 | [87936-polyroll.json](./87936-polyroll.json) |
 | Polyrun | 120960 | [120960-polyrun.json](./120960-polyrun.json) |
+| Polysemy‌ | 326187 | [326187-polysemy.json](./326187-polysemy.json) |
 | Polyslime | 173230 | [173230-polyslime.json](./173230-polyslime.json) |
 | Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
 | PolyTap | 341565 | [341565-polytap.json](./341565-polytap.json) |
@@ -4405,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
+| Pop DS | 326190 | [326190-pop-ds.json](./326190-pop-ds.json) |
 | Pop Float a-way | 414579 | [414579-pop-float-a-way.json](./414579-pop-float-a-way.json) |
 | Pop Frenzy! | 108983 | [108983-pop-frenzy.json](./108983-pop-frenzy.json) |
 | Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
@@ -5231,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
 | Prison Tycoon: Under New Management - Maximum Security | 196298 | [196298-prison-tycoon-under-new-management-maximum-security.json](./196298-prison-tycoon-under-new-management-maximum-security.json) |
 | Prison Wars | 336725 | [336725-prison-wars.json](./336725-prison-wars.json) |
+| Prison X: Chapter 1 - The Devil and The Sun | 326220 | [326220-prison-x-chapter-1-the-devil-and-the-sun.json](./326220-prison-x-chapter-1-the-devil-and-the-sun.json) |
 | Prisonela | 218697 | [218697-prisonela.json](./218697-prisonela.json) |
 | Prisonela DX | 284494 | [284494-prisonela-dx.json](./284494-prisonela-dx.json) |
 | Prisonela MD | 367939 | [367939-prisonela-md.json](./367939-prisonela-md.json) |
@@ -5818,6 +5822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promise of Lingyun | 255120 | [255120-promise-of-lingyun.json](./255120-promise-of-lingyun.json) |
 | Promised Harvest | 418712 | [418712-promised-harvest.json](./418712-promised-harvest.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
+| Promized Land: Outer Town | 326194 | [326194-promized-land-outer-town.json](./326194-promized-land-outer-town.json) |
 | Promo Pack 2x1 | 212786 | [212786-promo-pack-2x1.json](./212786-promo-pack-2x1.json) |
 | ProMods Canada | 376091 | [376091-promods-canada.json](./376091-promods-canada.json) |
 | Promotion | 377610 | [377610-promotion.json](./377610-promotion.json) |
