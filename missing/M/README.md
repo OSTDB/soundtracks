@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madman's Dice | 374801 | [374801-madmans-dice.json](./374801-madmans-dice.json) |
 | Madness | 309846 | [309846-madness.json](./309846-madness.json) |
 | Madness & the Minotaur | 24851 | [24851-madness-and-the-minotaur.json](./24851-madness-and-the-minotaur.json) |
+| Madness Ambulation | 320913 | [320913-madness-ambulation.json](./320913-madness-ambulation.json) |
 | Madness Arena | 322755 | [322755-madness-arena.json](./322755-madness-arena.json) |
 | Madness Below | 326619 | [326619-madness-below.json](./326619-madness-below.json) |
 | Madness Chambers | 246947 | [246947-madness-chambers.json](./246947-madness-chambers.json) |
@@ -1173,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapleStory | 9804 | [9804-maplestory.json](./9804-maplestory.json) |
 | MapleStory Classic | 411557 | [411557-maplestory-classic.json](./411557-maplestory-classic.json) |
 | MapleStory DS | 79942 | [79942-maplestory-ds.json](./79942-maplestory-ds.json) |
+| MapleStory iTCG | 320863 | [320863-maplestory-itcg.json](./320863-maplestory-itcg.json) |
 | MapleStory Mayple Island | 299749 | [299749-maplestory-mayple-island.json](./299749-maplestory-mayple-island.json) |
 | MapleStory N | 343326 | [343326-maplestory-n.json](./343326-maplestory-n.json) |
 | Maplestory Odyssey | 226758 | [226758-maplestory-odyssey.json](./226758-maplestory-odyssey.json) |
