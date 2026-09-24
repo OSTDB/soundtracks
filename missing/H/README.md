@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Paradise 4 | 281547 | [281547-hamster-paradise-4.json](./281547-hamster-paradise-4.json) |
 | Hamster Paradise: Advanchu | 49587 | [49587-hamster-paradise-advanchu.json](./49587-hamster-paradise-advanchu.json) |
 | Hamster Paradise: Pure Heart | 49588 | [49588-hamster-paradise-pure-heart.json](./49588-hamster-paradise-pure-heart.json) |
+| Hamster Playground: Fun & Challenge Games Pack | 332019 | [332019-hamster-playground-fun-and-challenge-games-pack.json](./332019-hamster-playground-fun-and-challenge-games-pack.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
@@ -1048,6 +1049,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawk F-123 | 128362 | [128362-hawk-f-123.json](./128362-hawk-f-123.json) |
 | Hawk Tuah Run | 321782 | [321782-hawk-tuah-run.json](./321782-hawk-tuah-run.json) |
 | Hawked | 227636 | [227636-hawked.json](./227636-hawked.json) |
+| Hawked: Master of Realities Expansion Pass | 332020 | [332020-hawked-master-of-realities-expansion-pass.json](./332020-hawked-master-of-realities-expansion-pass.json) |
+| Hawked: Realities Expansion Pass | 332021 | [332021-hawked-realities-expansion-pass.json](./332021-hawked-realities-expansion-pass.json) |
 | Hawked: Ruby Raider Pack | 278667 | [278667-hawked-ruby-raider-pack.json](./278667-hawked-ruby-raider-pack.json) |
 | Hawken Skate Boarder | 321781 | [321781-hawken-skate-boarder.json](./321781-hawken-skate-boarder.json) |
 | Hawkquest | 77373 | [77373-hawkquest.json](./77373-hawkquest.json) |
@@ -1508,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Silver Vanguard | 371225 | [371225-hell-let-loose-silver-vanguard.json](./371225-hell-let-loose-silver-vanguard.json) |
 | Hell Let Loose: Skull Bucket | 371227 | [371227-hell-let-loose-skull-bucket.json](./371227-hell-let-loose-skull-bucket.json) |
 | Hell Let Loose: Spearhead Edition | 187975 | [187975-hell-let-loose-spearhead-edition.json](./187975-hell-let-loose-spearhead-edition.json) |
+| Hell Let Loose: Wacht am Rhein Units | 332022 | [332022-hell-let-loose-wacht-am-rhein-units.json](./332022-hell-let-loose-wacht-am-rhein-units.json) |
 | Hell Loop | 149526 | [149526-hell-loop.json](./149526-hell-loop.json) |
 | Hell Madness | 209677 | [209677-hell-madness.json](./209677-hell-madness.json) |
 | Hell Maiden | 327817 | [327817-hell-maiden.json](./327817-hell-maiden.json) |
@@ -2192,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
+| Heroes of Nature 4 in 1 | 332023 | [332023-heroes-of-nature-4-in-1.json](./332023-heroes-of-nature-4-in-1.json) |
 | Heroes of Newerth | 763 | [763-heroes-of-newerth.json](./763-heroes-of-newerth.json) |
 | Heroes of Normandie: Bulletproof Edition | 53190 | [53190-heroes-of-normandie-bulletproof-edition.json](./53190-heroes-of-normandie-bulletproof-edition.json) |
 | Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
@@ -4362,7 +4367,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - Legends of the Bayou | 166070 | [166070-hunt-showdown-1896-legends-of-the-bayou.json](./166070-hunt-showdown-1896-legends-of-the-bayou.json) |
 | Hunt: Showdown 1896 - Myth of the Moors | 253930 | [253930-hunt-showdown-1896-myth-of-the-moors.json](./253930-hunt-showdown-1896-myth-of-the-moors.json) |
 | Hunt: Showdown 1896 - Northern Justice | 292675 | [292675-hunt-showdown-1896-northern-justice.json](./292675-hunt-showdown-1896-northern-justice.json) |
+| Hunt: Showdown 1896 - The Revenant | 332024 | [332024-hunt-showdown-1896-the-revenant.json](./332024-hunt-showdown-1896-the-revenant.json) |
 | Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
+| Hunt: Showdown 1896 - They Came from Salem | 332026 | [332026-hunt-showdown-1896-they-came-from-salem.json](./332026-hunt-showdown-1896-they-came-from-salem.json) |
 | Hunt: Showdown 1896 - When Shadows Dance | 265773 | [265773-hunt-showdown-1896-when-shadows-dance.json](./265773-hunt-showdown-1896-when-shadows-dance.json) |
 | Huntdown | 19728 | [19728-huntdown.json](./19728-huntdown.json) |
 | Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
