@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine: Resort Owner | 7947 | [7947-imagine-resort-owner.json](./7947-imagine-resort-owner.json) |
 | Imagine: Sweet 16 | 5989 | [5989-imagine-sweet-16.json](./5989-imagine-sweet-16.json) |
 | Imagine: Zookeeper | 7943 | [7943-imagine-zookeeper.json](./7943-imagine-zookeeper.json) |
+| Imaginytes | 327950 | [327950-imaginytes.json](./327950-imaginytes.json) |
 | Imago | 97864 | [97864-imago.json](./97864-imago.json) |
 | iMahjong - Mahjong Pairs | 90041 | [90041-imahjong-mahjong-pairs.json](./90041-imahjong-mahjong-pairs.json) |
 | iMake IcePops | 101554 | [101554-imake-icepops.json](./101554-imake-icepops.json) |
@@ -901,6 +902,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Coil | 411722 | [411722-immortal-coil.json](./411722-immortal-coil.json) |
 | Immortal Conquest | 174830 | [174830-immortal-conquest.json](./174830-immortal-conquest.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
+| Immortal Desires: Book 3 | 327988 | [327988-immortal-desires-book-3.json](./327988-immortal-desires-book-3.json) |
+| Immortal Desires: Paths Not Taken | 327989 | [327989-immortal-desires-paths-not-taken.json](./327989-immortal-desires-paths-not-taken.json) |
 | Immortal Game | 235339 | [235339-immortal-game.json](./235339-immortal-game.json) |
 | Immortal Girl | 128005 | [128005-immortal-girl.json](./128005-immortal-girl.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
@@ -985,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium Romanum | 20776 | [20776-imperium-romanum.json](./20776-imperium-romanum.json) |
 | Imperius | 195640 | [195640-imperius.json](./195640-imperius.json) |
 | Imperivm: Great Battles of Rome - HD Edition | 165540 | [165540-imperivm-great-battles-of-rome-hd-edition.json](./165540-imperivm-great-battles-of-rome-hd-edition.json) |
+| Impetus | 327977 | [327977-impetus.json](./327977-impetus.json) |
 | Impetus: Clamor in Portis | 135276 | [135276-impetus-clamor-in-portis.json](./135276-impetus-clamor-in-portis.json) |
 | Impious | 309678 | [309678-impious.json](./309678-impious.json) |
 | Impious Pumpkins | 183611 | [183611-impious-pumpkins.json](./183611-impious-pumpkins.json) |
@@ -2480,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
 | It's Too Late to Apologize | 401642 | [401642-its-too-late-to-apologize.json](./401642-its-too-late-to-apologize.json) |
 | It'sRoachTime! | 192873 | [192873-itsroachtime.json](./192873-itsroachtime.json) |
+| Itacante: La Cité des robots | 327995 | [327995-itacante-la-cite-des-robots.json](./327995-itacante-la-cite-des-robots.json) |
 | Itachi: Haunted Abodes - Wandering Through 2000s Tokyo Culture | 369761 | [369761-itachi-haunted-abodes-wandering-through-2000s-tokyo-culture.json](./369761-itachi-haunted-abodes-wandering-through-2000s-tokyo-culture.json) |
 | Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
 | Itadaki Street DS | 71885 | [71885-itadaki-street-ds.json](./71885-itadaki-street-ds.json) |
