@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famaze | 9170 | [9170-famaze.json](./9170-famaze.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
+| Famicom Fighters | 307666 | [307666-famicom-fighters.json](./307666-famicom-fighters.json) |
 | Famicom Hinshi Tai | 328619 | [328619-famicom-hinshi-tai.json](./328619-famicom-hinshi-tai.json) |
 | Famicom Igo Nyuumon | 48331 | [48331-famicom-igo-nyuumon.json](./48331-famicom-igo-nyuumon.json) |
 | Famicom Meijinsen | 48330 | [48330-famicom-meijinsen.json](./48330-famicom-meijinsen.json) |
@@ -1986,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Cats | 289895 | [289895-find-cats.json](./289895-find-cats.json) |
 | Find Cats 5 | 348425 | [348425-find-cats-5.json](./348425-find-cats-5.json) |
 | Find Cats in the Casino | 400481 | [400481-find-cats-in-the-casino.json](./400481-find-cats-in-the-casino.json) |
+| Find Cats2 | 307687 | [307687-find-cats2.json](./307687-find-cats2.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
