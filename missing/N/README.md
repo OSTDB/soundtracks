@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Elite 11 | 52625 | [52625-nba-elite-11.json](./52625-nba-elite-11.json) |
 | NBA Hangtime | 3550 | [3550-nba-hangtime.json](./3550-nba-hangtime.json) |
 | NBA in the Zone | 20639 | [20639-nba-in-the-zone.json](./20639-nba-in-the-zone.json) |
+| NBA In The Zone | 309981 | [309981-nba-in-the-zone.json](./309981-nba-in-the-zone.json) |
 | NBA in the Zone '99 | 72053 | [72053-nba-in-the-zone-99.json](./72053-nba-in-the-zone-99.json) |
 | NBA In the Zone 2 | 20729 | [20729-nba-in-the-zone-2.json](./20729-nba-in-the-zone-2.json) |
 | NBA Inside Drive 2002 | 23446 | [23446-nba-inside-drive-2002.json](./23446-nba-inside-drive-2002.json) |
