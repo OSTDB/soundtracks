@@ -2708,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman King: Spirit of Shamans | 4120 | [4120-shaman-king-spirit-of-shamans.json](./4120-shaman-king-spirit-of-shamans.json) |
 | Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
 | Shaman: Spirithunter | 110281 | [110281-shaman-spirithunter.json](./110281-shaman-spirithunter.json) |
+| Shamania | 310495 | [310495-shamania.json](./310495-shamania.json) |
 | Shambles | 139259 | [139259-shambles.json](./139259-shambles.json) |
 | Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
 | Shameless Afterparty | 340382 | [340382-shameless-afterparty.json](./340382-shameless-afterparty.json) |
@@ -9666,6 +9667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Command | 402523 | [402523-station-command.json](./402523-station-command.json) |
 | Station Commander | 166074 | [166074-station-commander.json](./166074-station-commander.json) |
 | Station Commander | 76654 | [76654-station-commander.json](./76654-station-commander.json) |
+| Station Inc | 310502 | [310502-station-inc.json](./310502-station-inc.json) |
 | Station Master | 183550 | [183550-station-master.json](./183550-station-master.json) |
 | Station Memories | 216220 | [216220-station-memories.json](./216220-station-memories.json) |
 | Station Nexus | 406291 | [406291-station-nexus.json](./406291-station-nexus.json) |
@@ -13163,6 +13165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Racing Girl | 339445 | [339445-sweet-racing-girl.json](./339445-sweet-racing-girl.json) |
 | Sweet Restaurant | 368561 | [368561-sweet-restaurant.json](./368561-sweet-restaurant.json) |
+| Sweet Revenge | 310549 | [310549-sweet-revenge.json](./310549-sweet-revenge.json) |
 | Sweet Reversi | 208348 | [208348-sweet-reversi.json](./208348-sweet-reversi.json) |
 | Sweet Robot | 339444 | [339444-sweet-robot.json](./339444-sweet-robot.json) |
 | Sweet Rock Paper Scissors | 392918 | [392918-sweet-rock-paper-scissors.json](./392918-sweet-rock-paper-scissors.json) |
