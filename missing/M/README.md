@@ -2600,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Market | 387027 | [387027-medieval-market.json](./387027-medieval-market.json) |
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
+| Medieval Match Master | 323307 | [323307-medieval-match-master.json](./323307-medieval-match-master.json) |
 | Medieval Mayhem | 40716 | [40716-medieval-mayhem.json](./40716-medieval-mayhem.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
 | Medieval Real Estate | 81773 | [81773-medieval-real-estate.json](./81773-medieval-real-estate.json) |
@@ -3348,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchants of Sol | 207380 | [207380-merchants-of-sol.json](./207380-merchants-of-sol.json) |
 | Merciless Podium | 86897 | [86897-merciless-podium.json](./86897-merciless-podium.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
+| Mercurial Dreams | 323300 | [323300-mercurial-dreams.json](./323300-mercurial-dreams.json) |
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
 | Mercury Abbey | 172701 | [172701-mercury-abbey.json](./172701-mercury-abbey.json) |
@@ -3687,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
 | Metroid | 1101 | [1101-metroid.json](./1101-metroid.json) |
 | Metroid Confrontation 2: Return to SR388 | 274984 | [274984-metroid-confrontation-2-return-to-sr388.json](./274984-metroid-confrontation-2-return-to-sr388.json) |
+| Metroid Defense | 323283 | [323283-metroid-defense.json](./323283-metroid-defense.json) |
 | Metroid Dread | 15698 | [15698-metroid-dread.json](./15698-metroid-dread.json) |
 | Metroid Ecliption | 324077 | [324077-metroid-ecliption.json](./324077-metroid-ecliption.json) |
 | Metroid Fool | 295024 | [295024-metroid-fool.json](./295024-metroid-fool.json) |
