@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheesh Adventures | 58492 | [58492-sheesh-adventures.json](./58492-sheesh-adventures.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
+| Shelf Heroes | 336147 | [336147-shelf-heroes.json](./336147-shelf-heroes.json) |
 | Shelf-Employed | 413903 | [413903-shelf-employed.json](./413903-shelf-employed.json) |
 | Shell Corp | 129748 | [129748-shell-corp.json](./129748-shell-corp.json) |
 | Shell Increment | 390654 | [390654-shell-increment.json](./390654-shell-increment.json) |
@@ -10708,6 +10709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subwar 2050 Complete | 51935 | [51935-subwar-2050-complete.json](./51935-subwar-2050-complete.json) |
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
 | Subway Clash 2 | 146715 | [146715-subway-clash-2.json](./146715-subway-clash-2.json) |
+| Subway Driver Dream Emulator | 336117 | [336117-subway-driver-dream-emulator.json](./336117-subway-driver-dream-emulator.json) |
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
 | Subway Invasion | 353969 | [353969-subway-invasion.json](./353969-subway-invasion.json) |
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
@@ -12793,6 +12795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
+| Swap-Swap Panda | 336122 | [336122-swap-swap-panda.json](./336122-swap-swap-panda.json) |
 | Swap: Mobile Edition | 250439 | [250439-swap-mobile-edition.json](./250439-swap-mobile-edition.json) |
 | Swap! Swap! Swap! | 106405 | [106405-swap-swap-swap.json](./106405-swap-swap-swap.json) |
 | Swap. | 232037 | [232037-swap.json](./232037-swap.json) |
