@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Secure | 389717 | [389717-never-secure.json](./389717-never-secure.json) |
 | Never Sort By Color | 411710 | [411710-never-sort-by-color.json](./411710-never-sort-by-color.json) |
 | Never Stop Rolling | 312123 | [312123-never-stop-rolling.json](./312123-never-stop-rolling.json) |
+| Never wake up | 287711 | [287711-never-wake-up.json](./287711-never-wake-up.json) |
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
 | Never7: The End of Infinity | 18018 | [18018-never7-the-end-of-infinity.json](./18018-never7-the-end-of-infinity.json) |
 | NeverAwake Flashback | 369062 | [369062-neverawake-flashback.json](./369062-neverawake-flashback.json) |
@@ -2162,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
+| Njuma | 287740 | [287740-njuma.json](./287740-njuma.json) |
 | NLdle | 342051 | [342051-nldle.json](./342051-nldle.json) |
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
 | NMDC | 199584 | [199584-nmdc.json](./199584-nmdc.json) |
@@ -2402,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Node Farm | 287772 | [287772-node-farm.json](./287772-node-farm.json) |
 | Node Math | 370712 | [370712-node-math.json](./370712-node-math.json) |
 | Node RPG | 373008 | [373008-node-rpg.json](./373008-node-rpg.json) |
+| Node: The Last Favor of the Antarii | 287726 | [287726-node-the-last-favor-of-the-antarii.json](./287726-node-the-last-favor-of-the-antarii.json) |
 | Nodemind: Dynamic Core | 397255 | [397255-nodemind-dynamic-core.json](./397255-nodemind-dynamic-core.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
 | Nodrog's Fortress | 182463 | [182463-nodrogs-fortress.json](./182463-nodrogs-fortress.json) |
