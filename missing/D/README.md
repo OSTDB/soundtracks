@@ -1887,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep West | 369016 | [369016-deep-west.json](./369016-deep-west.json) |
 | Deepak Chopra's Leela | 20244 | [20244-deepak-chopras-leela.json](./20244-deepak-chopras-leela.json) |
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
+| DeepCover | 317998 | [317998-deepcover.json](./317998-deepcover.json) |
 | Deeper | 104650 | [104650-deeper.json](./104650-deeper.json) |
 | Deeper | 223440 | [223440-deeper.json](./223440-deeper.json) |
 | Deeper | 343279 | [343279-deeper.json](./343279-deeper.json) |
@@ -3755,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disposable Corps | 343468 | [343468-disposable-corps.json](./343468-disposable-corps.json) |
 | Disposable Heroes | 14037 | [14037-disposable-heroes.json](./14037-disposable-heroes.json) |
 | Disposal Of Otherworldly Monsters | 271223 | [271223-disposal-of-otherworldly-monsters.json](./271223-disposal-of-otherworldly-monsters.json) |
+| Disposition | 318007 | [318007-disposition.json](./318007-disposition.json) |
 | Disquiet | 226736 | [226736-disquiet.json](./226736-disquiet.json) |
 | Disquiet Fields | 157676 | [157676-disquiet-fields.json](./157676-disquiet-fields.json) |
 | Disquieted | 397663 | [397663-disquieted.json](./397663-disquieted.json) |
