@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
+| Queen Slayer | 311590 | [311590-queen-slayer.json](./311590-queen-slayer.json) |
 | Queen: Rock Tour | 231466 | [231466-queen-rock-tour.json](./231466-queen-rock-tour.json) |
 | Queen's Blade Re:Build | 406940 | [406940-queens-blade-re-build.json](./406940-queens-blade-re-build.json) |
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
