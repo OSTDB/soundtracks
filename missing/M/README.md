@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magiduck | 252868 | [252868-magiduck.json](./252868-magiduck.json) |
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
 | Magika Bounce | 408295 | [408295-magika-bounce.json](./408295-magika-bounce.json) |
+| Magikoopa Security Force | 322101 | [322101-magikoopa-security-force.json](./322101-magikoopa-security-force.json) |
 | Magin: The Rat Project Stories | 127744 | [127744-magin-the-rat-project-stories.json](./127744-magin-the-rat-project-stories.json) |
 | Magin: The Rat Project Stories - Essence Edition | 396920 | [396920-magin-the-rat-project-stories-essence-edition.json](./396920-magin-the-rat-project-stories-essence-edition.json) |
 | Magin: The Rat Project Stories - Supporter Pack | 396912 | [396912-magin-the-rat-project-stories-supporter-pack.json](./396912-magin-the-rat-project-stories-supporter-pack.json) |
