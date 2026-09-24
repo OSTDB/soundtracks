@@ -4687,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
 | The Legacy: The Tree of Might | 112988 | [112988-the-legacy-the-tree-of-might.json](./112988-the-legacy-the-tree-of-might.json) |
+| The Legend Beyond Legends | 302441 | [302441-the-legend-beyond-legends.json](./302441-the-legend-beyond-legends.json) |
 | The Legend of Alon D'ar | 19420 | [19420-the-legend-of-alon-dar.json](./19420-the-legend-of-alon-dar.json) |
 | The Legend of Arcadieu | 126635 | [126635-the-legend-of-arcadieu.json](./126635-the-legend-of-arcadieu.json) |
 | The Legend of Azarias Rebirth | 294994 | [294994-the-legend-of-azarias-rebirth.json](./294994-the-legend-of-azarias-rebirth.json) |
@@ -5281,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monster Within | 174346 | [174346-the-monster-within.json](./174346-the-monster-within.json) |
 | The Monstrous Frontier | 187403 | [187403-the-monstrous-frontier.json](./187403-the-monstrous-frontier.json) |
 | The Monstrous Horror Show | 213421 | [213421-the-monstrous-horror-show.json](./213421-the-monstrous-horror-show.json) |
+| The Month After | 302440 | [302440-the-month-after.json](./302440-the-month-after.json) |
 | The Moodsters: Memory Match Game | 326627 | [326627-the-moodsters-memory-match-game.json](./326627-the-moodsters-memory-match-game.json) |
 | The Moon 2050 | 156686 | [156686-the-moon-2050.json](./156686-the-moon-2050.json) |
 | The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
@@ -5608,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pepper Prince: Episode 3 - Into Thin Air | 302136 | [302136-the-pepper-prince-episode-3-into-thin-air.json](./302136-the-pepper-prince-episode-3-into-thin-air.json) |
 | The Pepper Prince: Episode 4 - Lover's Peak | 302137 | [302137-the-pepper-prince-episode-4-lovers-peak.json](./302137-the-pepper-prince-episode-4-lovers-peak.json) |
 | The Pepper Prince: Prologue | 302135 | [302135-the-pepper-prince-prologue.json](./302135-the-pepper-prince-prologue.json) |
+| The Pepper Prince: Seasoning Pass (Episode 2-5) | 302467 | [302467-the-pepper-prince-seasoning-pass-episode-2-5.json](./302467-the-pepper-prince-seasoning-pass-episode-2-5.json) |
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
 | The Perfect Sniper | 81012 | [81012-the-perfect-sniper.json](./81012-the-perfect-sniper.json) |
@@ -12254,6 +12257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Metal III | 347126 | [347126-twisted-metal-iii.json](./347126-twisted-metal-iii.json) |
 | Twisted Metal: Black Harbor City | 135286 | [135286-twisted-metal-black-harbor-city.json](./135286-twisted-metal-black-harbor-city.json) |
 | Twisted Mini Golf | 93033 | [93033-twisted-mini-golf.json](./93033-twisted-mini-golf.json) |
+| Twisted Screens | 302427 | [302427-twisted-screens.json](./302427-twisted-screens.json) |
 | Twisted Tales: Night night Scarlett | 178653 | [178653-twisted-tales-night-night-scarlett.json](./178653-twisted-tales-night-night-scarlett.json) |
 | Twisted Tangle | 254744 | [254744-twisted-tangle.json](./254744-twisted-tangle.json) |
 | Twisted to the Roots | 309529 | [309529-twisted-to-the-roots.json](./309529-twisted-to-the-roots.json) |
