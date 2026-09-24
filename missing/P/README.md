@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.M.P. Project Murder Party | 176911 | [176911-p-m-p-project-murder-party.json](./176911-p-m-p-project-murder-party.json) |
 | P.N.03 | 4060 | [4060-p-n-03.json](./4060-p-n-03.json) |
 | P.O.D | 399853 | [399853-p-o-d.json](./399853-p-o-d.json) |
+| P.O.S.S.U.M. | 323271 | [323271-p-o-s-s-u-m.json](./323271-p-o-s-s-u-m.json) |
 | P.O.W. | 72333 | [72333-p-o-w.json](./72333-p-o-w.json) |
 | P.O.W.: Prisoners of War | 274103 | [274103-p-o-w-prisoners-of-war.json](./274103-p-o-w-prisoners-of-war.json) |
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
@@ -585,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Kingdom | 279110 | [279110-paper-kingdom.json](./279110-paper-kingdom.json) |
 | Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
 | Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
+| Paper Mario | 323287 | [323287-paper-mario.json](./323287-paper-mario.json) |
 | Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario Multiplayer | 159325 | [159325-paper-mario-multiplayer.json](./159325-paper-mario-multiplayer.json) |
 | Paper Mario Randomizer | 304045 | [304045-paper-mario-randomizer.json](./304045-paper-mario-randomizer.json) |
@@ -3510,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
 | Please Do Not Climb on the Dinosaurs | 383970 | [383970-please-do-not-climb-on-the-dinosaurs.json](./383970-please-do-not-climb-on-the-dinosaurs.json) |
+| Please Don't Feed the Creatures of the Deep | 323272 | [323272-please-dont-feed-the-creatures-of-the-deep.json](./323272-please-dont-feed-the-creatures-of-the-deep.json) |
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
 | Please Duology | 189040 | [189040-please-duology.json](./189040-please-duology.json) |
 | Please Find Me | 120173 | [120173-please-find-me.json](./120173-please-find-me.json) |
@@ -3875,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle e Card: Freezing Ray | 220853 | [220853-pokemon-battle-e-card-freezing-ray.json](./220853-pokemon-battle-e-card-freezing-ray.json) |
 | Pokémon Battle Online | 323760 | [323760-pokemon-battle-online.json](./323760-pokemon-battle-online.json) |
 | Pokémon Battle Woods | 229043 | [229043-pokemon-battle-woods.json](./229043-pokemon-battle-woods.json) |
+| Pokémon Berserk Version | 323275 | [323275-pokemon-berserk-version.json](./323275-pokemon-berserk-version.json) |
 | Pokémon Beyond DX | 360180 | [360180-pokemon-beyond-dx.json](./360180-pokemon-beyond-dx.json) |
 | Pokémon Black 2 /White 2 Deluxe | 335436 | [335436-pokemon-black-2-white-2-deluxe.json](./335436-pokemon-black-2-white-2-deluxe.json) |
 | Pokémon Black 2 Kaizo | 230510 | [230510-pokemon-black-2-kaizo.json](./230510-pokemon-black-2-kaizo.json) |
