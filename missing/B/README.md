@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ban: The Prologue of Gucha Gucha | 302961 | [302961-ban-the-prologue-of-gucha-gucha.json](./302961-ban-the-prologue-of-gucha-gucha.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
 | Banan Abanan | 417658 | [417658-banan-abanan.json](./417658-banan-abanan.json) |
+| Banana | 305277 | [305277-banana.json](./305277-banana.json) |
 | Banana | 95469 | [95469-banana.json](./95469-banana.json) |
 | Banana 2: Fruit | 314429 | [314429-banana-2-fruit.json](./314429-banana-2-fruit.json) |
 | Banana 3D | 338190 | [338190-banana-3d.json](./338190-banana-3d.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 277862 | [277862-baseball.json](./277862-baseball.json) |
 | Baseball | 297486 | [297486-baseball.json](./297486-baseball.json) |
 | Baseball | 300004 | [300004-baseball.json](./300004-baseball.json) |
+| Baseball | 305278 | [305278-baseball.json](./305278-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball 101 | 230839 | [230839-baseball-101.json](./230839-baseball-101.json) |
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
@@ -4595,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
 | Bomb Farm | 413917 | [413917-bomb-farm.json](./413917-bomb-farm.json) |
+| Bomb Fight | 305297 | [305297-bomb-fight.json](./305297-bomb-fight.json) |
 | Bomb Hunter MT | 95185 | [95185-bomb-hunter-mt.json](./95185-bomb-hunter-mt.json) |
 | Bomb It | 191087 | [191087-bomb-it.json](./191087-bomb-it.json) |
 | Bomb It 2 | 191097 | [191097-bomb-it-2.json](./191097-bomb-it-2.json) |
@@ -6186,6 +6189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
 | BuGarden | 392302 | [392302-bugarden.json](./392302-bugarden.json) |
 | Bugboy | 329080 | [329080-bugboy.json](./329080-bugboy.json) |
+| BugBurgh | 305268 | [305268-bugburgh.json](./305268-bugburgh.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugged | 195115 | [195115-bugged.json](./195115-bugged.json) |
 | Bugged Out | 391880 | [391880-bugged-out.json](./391880-bugged-out.json) |
