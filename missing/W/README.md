@@ -1425,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whatcha Loopin At? | 364688 | [364688-whatcha-loopin-at.json](./364688-whatcha-loopin-at.json) |
 | Whateverland | 126594 | [126594-whateverland.json](./126594-whateverland.json) |
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
+| WhatRogue: Exile Land | 319760 | [319760-whatrogue-exile-land.json](./319760-whatrogue-exile-land.json) |
 | WHC: The Game About Witch Hunter's Moving Castle You've Been So Long Waiting For | 87984 | [87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json](./87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json) |
 | Wheat and Wrath | 400319 | [400319-wheat-and-wrath.json](./400319-wheat-and-wrath.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
@@ -3050,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Modern Jumpstart | 293773 | [293773-world-of-tanks-modern-jumpstart.json](./293773-world-of-tanks-modern-jumpstart.json) |
 | World of Tanks: Roll Out Collector's Edition | 115673 | [115673-world-of-tanks-roll-out-collectors-edition.json](./115673-world-of-tanks-roll-out-collectors-edition.json) |
 | World of Tanks: Snatch Gift Pack | 283862 | [283862-world-of-tanks-snatch-gift-pack.json](./283862-world-of-tanks-snatch-gift-pack.json) |
+| World of the dead | 319721 | [319721-world-of-the-dead.json](./319721-world-of-the-dead.json) |
 | World of Titans | 230933 | [230933-world-of-titans.json](./230933-world-of-titans.json) |
 | World of Turtle | 132043 | [132043-world-of-turtle.json](./132043-world-of-turtle.json) |
 | World of Vasnar | 356190 | [356190-world-of-vasnar.json](./356190-world-of-vasnar.json) |
