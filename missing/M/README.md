@@ -4173,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilitAnt | 20877 | [20877-militant.json](./20877-militant.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
 | Military Combat Shooter Desert War | 283276 | [283276-military-combat-shooter-desert-war.json](./283276-military-combat-shooter-desert-war.json) |
+| Military Defense | 326192 | [326192-military-defense.json](./326192-military-defense.json) |
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
 | Military Madness | 44334 | [44334-military-madness.json](./44334-military-madness.json) |
 | Military Merge | 402307 | [402307-military-merge.json](./402307-military-merge.json) |
@@ -5453,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monji | 407448 | [407448-monji.json](./407448-monji.json) |
 | Monk & The Misfit Monsters | 413622 | [413622-monk-and-the-misfit-monsters.json](./413622-monk-and-the-misfit-monsters.json) |
 | Monk Took Book | 393839 | [393839-monk-took-book.json](./393839-monk-took-book.json) |
+| Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
 | Monkey Catapult | 323162 | [323162-monkey-catapult.json](./323162-monkey-catapult.json) |
@@ -5535,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
 | Monopoly Tycoon | 197249 | [197249-monopoly-tycoon.json](./197249-monopoly-tycoon.json) |
 | Monopoly: Build A Lot | 210123 | [210123-monopoly-build-a-lot.json](./210123-monopoly-build-a-lot.json) |
+| Monoquous 2 | 326212 | [326212-monoquous-2.json](./326212-monoquous-2.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
@@ -6002,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moontrain | 205573 | [205573-moontrain.json](./205573-moontrain.json) |
 | Moonwalker: The Computer Game | 67952 | [67952-moonwalker-the-computer-game.json](./67952-moonwalker-the-computer-game.json) |
 | Moony Mayhem: Cheeks Unleashed | 406818 | [406818-moony-mayhem-cheeks-unleashed.json](./406818-moony-mayhem-cheeks-unleashed.json) |
+| Moony: Black_Lotus | 326226 | [326226-moony-black-lotus.json](./326226-moony-black-lotus.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
@@ -6393,6 +6397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
+| Motorcycle Combat | 326197 | [326197-motorcycle-combat.json](./326197-motorcycle-combat.json) |
 | Motorcycle Extreme Driver: Moto Racing Simulator | 294836 | [294836-motorcycle-extreme-driver-moto-racing-simulator.json](./294836-motorcycle-extreme-driver-moto-racing-simulator.json) |
 | Motorcycle Girl | 402984 | [402984-motorcycle-girl.json](./402984-motorcycle-girl.json) |
 | Motorcycle Mechanic Simulator 2021 | 142478 | [142478-motorcycle-mechanic-simulator-2021.json](./142478-motorcycle-mechanic-simulator-2021.json) |
@@ -7323,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
 | My Hotel Simulator | 372559 | [372559-my-hotel-simulator.json](./372559-my-hotel-simulator.json) |
+| My House | 326199 | [326199-my-house.json](./326199-my-house.json) |
 | My House and I Got Transported To Another World | 278147 | [278147-my-house-and-i-got-transported-to-another-world.json](./278147-my-house-and-i-got-transported-to-another-world.json) |
 | My House is Haunted | 219656 | [219656-my-house-is-haunted.json](./219656-my-house-is-haunted.json) |
 | My Ice Cream Maker | 408069 | [408069-my-ice-cream-maker.json](./408069-my-ice-cream-maker.json) |
