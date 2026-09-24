@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ājīn | 116291 | [116291-ajin.json](./116291-ajin.json) |
 | Álom | 229689 | [229689-alom.json](./229689-alom.json) |
 | Ämäränth: The Last Day of My Adolescence | 337821 | [337821-amaranth-the-last-day-of-my-adolescence.json](./337821-amaranth-the-last-day-of-my-adolescence.json) |
+| Ánima | 295839 | [295839-anima.json](./295839-anima.json) |
 | Ānquán Jiàoyù | 102177 | [102177-anquan-jiaoyu.json](./102177-anquan-jiaoyu.json) |
 | Ànyán no Shénzú Ove: Fēng zhī Zhāng | 394202 | [394202-anyan-no-shenzu-ove-feng-zhi-zhang.json](./394202-anyan-no-shenzu-ove-feng-zhi-zhang.json) |
 | Ảo Mộng Tru Tiên | 380388 | [380388-ao-mong-tru-tien.json](./380388-ao-mong-tru-tien.json) |
