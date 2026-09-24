@@ -740,6 +740,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
 | Negotiation Love | 369108 | [369108-negotiation-love.json](./369108-negotiation-love.json) |
 | Negotiations Have Failed! | 374179 | [374179-negotiations-have-failed.json](./374179-negotiations-have-failed.json) |
+| Nehan 2: Darkness Fantasy | 320889 | [320889-nehan-2-darkness-fantasy.json](./320889-nehan-2-darkness-fantasy.json) |
+| Nehan: Kanzenban | 320888 | [320888-nehan-kanzenban.json](./320888-nehan-kanzenban.json) |
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
 | Neighbor | 144366 | [144366-neighbor.json](./144366-neighbor.json) |
 | Neighbor | 181842 | [181842-neighbor.json](./181842-neighbor.json) |
