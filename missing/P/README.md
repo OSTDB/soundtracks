@@ -1574,6 +1574,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | Penroses | 181880 | [181880-penroses.json](./181880-penroses.json) |
 | Pensate | 117025 | [117025-pensate.json](./117025-pensate.json) |
+| Pense Bem | 305889 | [305889-pense-bem.json](./305889-pense-bem.json) |
+| Pense Bem: animais | 305878 | [305878-pense-bem-animais.json](./305878-pense-bem-animais.json) |
+| Pense Bem: Artes | 305879 | [305879-pense-bem-artes.json](./305879-pense-bem-artes.json) |
+| Pense Bem: Ciência e corpo humano | 305880 | [305880-pense-bem-ciencia-e-corpo-humano.json](./305880-pense-bem-ciencia-e-corpo-humano.json) |
+| Pense Bem: conhecimentos gerais | 305883 | [305883-pense-bem-conhecimentos-gerais.json](./305883-pense-bem-conhecimentos-gerais.json) |
+| Pense Bem: desafio | 305887 | [305887-pense-bem-desafio.json](./305887-pense-bem-desafio.json) |
+| Pense Bem: Ecologia | 305881 | [305881-pense-bem-ecologia.json](./305881-pense-bem-ecologia.json) |
+| Pense Bem: esportes | 305882 | [305882-pense-bem-esportes.json](./305882-pense-bem-esportes.json) |
+| Pense Bem: Geografia | 305884 | [305884-pense-bem-geografia.json](./305884-pense-bem-geografia.json) |
+| Pense Bem: História | 305885 | [305885-pense-bem-historia.json](./305885-pense-bem-historia.json) |
+| Pense Bem: Informática | 305886 | [305886-pense-bem-informatica.json](./305886-pense-bem-informatica.json) |
 | Pent's Wacky, Zany Road Trip to Adulthood | 412953 | [412953-pents-wacky-zany-road-trip-to-adulthood.json](./412953-pents-wacky-zany-road-trip-to-adulthood.json) |
 | Pent's Zacky, Zany Road Trip to Adulthood | 326611 | [326611-pents-zacky-zany-road-trip-to-adulthood.json](./326611-pents-zacky-zany-road-trip-to-adulthood.json) |
 | PentaBlox | 188581 | [188581-pentablox.json](./188581-pentablox.json) |
@@ -4050,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Puffy Pink | 327204 | [327204-pokemon-puffy-pink.json](./327204-pokemon-puffy-pink.json) |
 | Pokémon PureBlue | 233600 | [233600-pokemon-pureblue.json](./233600-pokemon-pureblue.json) |
 | Pokémon Quest | 102874 | [102874-pokemon-quest.json](./102874-pokemon-quest.json) |
+| Pokémon R.O.W.E. | 305876 | [305876-pokemon-r-o-w-e.json](./305876-pokemon-r-o-w-e.json) |
 | Pokémon Ranger: Shadows of Almia | 14699 | [14699-pokemon-ranger-shadows-of-almia.json](./14699-pokemon-ranger-shadows-of-almia.json) |
 | Pokémon Reborn | 127326 | [127326-pokemon-reborn.json](./127326-pokemon-reborn.json) |
 | Pokémon Recharged Yellow | 308400 | [308400-pokemon-recharged-yellow.json](./308400-pokemon-recharged-yellow.json) |
