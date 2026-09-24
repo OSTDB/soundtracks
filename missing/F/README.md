@@ -2605,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's | 308405 | [308405-five-nights-at-freddys.json](./308405-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 339271 | [339271-five-nights-at-freddys.json](./339271-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 8499 | [8499-five-nights-at-freddys.json](./8499-five-nights-at-freddys.json) |
+| Five Nights at Freddy's 1 Doom | 291028 | [291028-five-nights-at-freddys-1-doom.json](./291028-five-nights-at-freddys-1-doom.json) |
 | Five Nights at Freddy's 2 | 305746 | [305746-five-nights-at-freddys-2.json](./305746-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 4 | 11583 | [11583-five-nights-at-freddys-4.json](./11583-five-nights-at-freddys-4.json) |
@@ -5049,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Panda | 189116 | [189116-funny-panda.json](./189116-funny-panda.json) |
 | Funny Park | 257452 | [257452-funny-park.json](./257452-funny-park.json) |
 | Funny Pizza Land | 123615 | [123615-funny-pizza-land.json](./123615-funny-pizza-land.json) |
+| Funny Racer | 291008 | [291008-funny-racer.json](./291008-funny-racer.json) |
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
