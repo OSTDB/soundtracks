@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14Days | 98412 | [98412-14days.json](./98412-14days.json) |
 | 15 Defense | 90474 | [90474-15-defense.json](./90474-15-defense.json) |
 | 15 in 1 Solitaire | 187457 | [187457-15-in-1-solitaire.json](./187457-15-in-1-solitaire.json) |
+| 15 Minutes | 308342 | [308342-15-minutes.json](./308342-15-minutes.json) |
 | 15 Minutes | 355071 | [355071-15-minutes.json](./355071-15-minutes.json) |
 | 15-in-1 Mega Bundle | 396436 | [396436-15-in-1-mega-bundle.json](./396436-15-in-1-mega-bundle.json) |
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
@@ -563,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
 | 2260 | 106385 | [106385-2260.json](./106385-2260.json) |
 | 2351: Apocalypsis | 304667 | [304667-2351-apocalypsis.json](./304667-2351-apocalypsis.json) |
+| 24 Hours | 308346 | [308346-24-hours.json](./308346-24-hours.json) |
 | 24 Hours 'til Rescue | 33491 | [33491-24-hours-til-rescue.json](./33491-24-hours-til-rescue.json) |
 | 24 Locks | 58470 | [58470-24-locks.json](./58470-24-locks.json) |
 | 24 Lustful Hours | 382296 | [382296-24-lustful-hours.json](./382296-24-lustful-hours.json) |
@@ -850,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Nights At Grek's Hotel | 229199 | [229199-5-nights-at-greks-hotel.json](./229199-5-nights-at-greks-hotel.json) |
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
 | 5 Nights at Timokha's 4 School | 326230 | [326230-5-nights-at-timokhas-4-school.json](./326230-5-nights-at-timokhas-4-school.json) |
+| 5 O'clock Lock | 308333 | [308333-5-oclock-lock.json](./308333-5-oclock-lock.json) |
 | 5 Star Fishy | 245937 | [245937-5-star-fishy.json](./245937-5-star-fishy.json) |
 | 5 Star Hawaii Resort | 338906 | [338906-5-star-hawaii-resort.json](./338906-5-star-hawaii-resort.json) |
 | 5 Star Miami Resort | 338907 | [338907-5-star-miami-resort.json](./338907-5-star-miami-resort.json) |
