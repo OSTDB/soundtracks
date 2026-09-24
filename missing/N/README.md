@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 1 | 284509 | [284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json](./284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections | 239385 | [239385-naruto-x-boruto-ultimate-ninja-storm-connections.json](./239385-naruto-x-boruto-ultimate-ninja-storm-connections.json) |
+| Naruto x Boruto: Ultimate NInja Storm Connections - DLC Pack 5 | 317957 | [317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json](./317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition | 268549 | [268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json](./268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json) |
 | Naruto: Konoha Ninpouchou | 37358 | [37358-naruto-konoha-ninpouchou.json](./37358-naruto-konoha-ninpouchou.json) |
 | Naruto: Konoha Senki | 75842 | [75842-naruto-konoha-senki.json](./75842-naruto-konoha-senki.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nethergate: Resurrection | 16405 | [16405-nethergate-resurrection.json](./16405-nethergate-resurrection.json) |
 | Netherside | 152364 | [152364-netherside.json](./152364-netherside.json) |
 | Netherspire | 403686 | [403686-netherspire.json](./403686-netherspire.json) |
+| Netherworld Covenant | 317973 | [317973-netherworld-covenant.json](./317973-netherworld-covenant.json) |
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
 | Netoo | 391063 | [391063-netoo.json](./391063-netoo.json) |
 | Netrek | 79932 | [79932-netrek.json](./79932-netrek.json) |
