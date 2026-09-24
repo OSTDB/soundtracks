@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Park Girls: Episode 2 - Happy Trails | 164444 | [164444-national-park-girls-episode-2-happy-trails.json](./164444-national-park-girls-episode-2-happy-trails.json) |
 | National Park Girls: Episode 3 - Daughter of Zion | 164445 | [164445-national-park-girls-episode-3-daughter-of-zion.json](./164445-national-park-girls-episode-3-daughter-of-zion.json) |
 | National Park Girls: Episode 4 - Eternal Evergreen Part 1 | 164446 | [164446-national-park-girls-episode-4-eternal-evergreen-part-1.json](./164446-national-park-girls-episode-4-eternal-evergreen-part-1.json) |
+| National Park Girls: Love Our Parks Edition | 334285 | [334285-national-park-girls-love-our-parks-edition.json](./334285-national-park-girls-love-our-parks-edition.json) |
 | National Rugby Manager | 81005 | [81005-national-rugby-manager.json](./81005-national-rugby-manager.json) |
 | National Zombie Park | 36148 | [36148-national-zombie-park.json](./36148-national-zombie-park.json) |
 | Nationality Guesser | 340229 | [340229-nationality-guesser.json](./340229-nationality-guesser.json) |
@@ -1375,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexzr | 42016 | [42016-nexzr.json](./42016-nexzr.json) |
 | Neybers | 79265 | [79265-neybers.json](./79265-neybers.json) |
 | Neyyah | 133474 | [133474-neyyah.json](./133474-neyyah.json) |
+| Nezha Legend | 334308 | [334308-nezha-legend.json](./334308-nezha-legend.json) |
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
 | NFL Blitz 2000 | 4366 | [4366-nfl-blitz-2000.json](./4366-nfl-blitz-2000.json) |
