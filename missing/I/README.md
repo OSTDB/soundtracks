@@ -803,9 +803,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Battle of Stalingrad - Flying Circus - Volume II | 243161 | [243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json](./243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - I.A.R. 80-A and 80-B Collector Planes | 295399 | [295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json](./295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Spitfire Mk.XIVe with Teardrop Canopy | 243160 | [243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json](./243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json) |
+| IL-2 Sturmovik: CG-4A Collector Plane | 285552 | [285552-il-2-sturmovik-cg-4a-collector-plane.json](./285552-il-2-sturmovik-cg-4a-collector-plane.json) |
 | IL-2 Sturmovik: Cliffs of Dover | 27471 | [27471-il-2-sturmovik-cliffs-of-dover.json](./27471-il-2-sturmovik-cliffs-of-dover.json) |
 | IL-2 Sturmovik: Cliffs of Dover Blitz | 80996 | [80996-il-2-sturmovik-cliffs-of-dover-blitz.json](./80996-il-2-sturmovik-cliffs-of-dover-blitz.json) |
 | IL-2 Sturmovik: Complete Edition | 23004 | [23004-il-2-sturmovik-complete-edition.json](./23004-il-2-sturmovik-complete-edition.json) |
+| IL-2 Sturmovik: Flying Circus - Volume III | 285554 | [285554-il-2-sturmovik-flying-circus-volume-iii.json](./285554-il-2-sturmovik-flying-circus-volume-iii.json) |
 | IL-2 Sturmovik: Forgotten Battles | 755 | [755-il-2-sturmovik-forgotten-battles.json](./755-il-2-sturmovik-forgotten-battles.json) |
 | IL-2 Sturmovik: Forgotten Battles - Ace | 756 | [756-il-2-sturmovik-forgotten-battles-ace.json](./756-il-2-sturmovik-forgotten-battles-ace.json) |
 | IL-2 Sturmovik: Fortresses and Focke-Wulfs - Dieppe | 272376 | [272376-il-2-sturmovik-fortresses-and-focke-wulfs-dieppe.json](./272376-il-2-sturmovik-fortresses-and-focke-wulfs-dieppe.json) |
@@ -2378,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isida | 382755 | [382755-isida.json](./382755-isida.json) |
 | Isis: The Fall | 255100 | [255100-isis-the-fall.json](./255100-isis-the-fall.json) |
 | Iskelonia | 290489 | [290489-iskelonia.json](./290489-iskelonia.json) |
+| Iskhaar3D | 285524 | [285524-iskhaar3d.json](./285524-iskhaar3d.json) |
 | Isla de la Muerte | 399734 | [399734-isla-de-la-muerte.json](./399734-isla-de-la-muerte.json) |
 | Isla Dorada: Episode 1 - The Sands of Ephranis | 210046 | [210046-isla-dorada-episode-1-the-sands-of-ephranis.json](./210046-isla-dorada-episode-1-the-sands-of-ephranis.json) |
 | ISLA test | 123573 | [123573-isla-test.json](./123573-isla-test.json) |
