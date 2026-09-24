@@ -3630,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
+| Guardian Girls: Astral Battle | 298624 | [298624-guardian-girls-astral-battle.json](./298624-guardian-girls-astral-battle.json) |
 | Guardian Goddess | 255177 | [255177-guardian-goddess.json](./255177-guardian-goddess.json) |
 | Guardian Goddess | 291577 | [291577-guardian-goddess.json](./291577-guardian-goddess.json) |
 | Guardian Hearts Online | 64445 | [64445-guardian-hearts-online.json](./64445-guardian-hearts-online.json) |
