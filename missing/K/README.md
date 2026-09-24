@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidbash: Super Legend | 275736 | [275736-kidbash-super-legend.json](./275736-kidbash-super-legend.json) |
 | Kiddie Coaster | 66045 | [66045-kiddie-coaster.json](./66045-kiddie-coaster.json) |
 | Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
+| Kiddy Kong's Challenge | 307718 | [307718-kiddy-kongs-challenge.json](./307718-kiddy-kongs-challenge.json) |
 | Kiddy Memory | 221264 | [221264-kiddy-memory.json](./221264-kiddy-memory.json) |
 | Kidgames | 131351 | [131351-kidgames.json](./131351-kidgames.json) |
 | Kidname: Iceboy | 323333 | [323333-kidname-iceboy.json](./323333-kidname-iceboy.json) |
@@ -928,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill to Live | 187405 | [187405-kill-to-live.json](./187405-kill-to-live.json) |
 | Kill your Darlings | 352718 | [352718-kill-your-darlings.json](./352718-kill-your-darlings.json) |
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
+| Kill/Cure: Beautiful Vice | 307688 | [307688-kill-cure-beautiful-vice.json](./307688-kill-cure-beautiful-vice.json) |
 | Killa | 264603 | [264603-killa.json](./264603-killa.json) |
 | Killapede | 60247 | [60247-killapede.json](./60247-killapede.json) |
 | Killbox | 304728 | [304728-killbox.json](./304728-killbox.json) |
