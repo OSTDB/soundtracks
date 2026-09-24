@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Alex | 344379 | [344379-finding-alex.json](./344379-finding-alex.json) |
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
 | Finding America: The Great Lakes | 260396 | [260396-finding-america-the-great-lakes.json](./260396-finding-america-the-great-lakes.json) |
+| Finding America: The Great Lakes - Collector's Edition | 321502 | [321502-finding-america-the-great-lakes-collectors-edition.json](./321502-finding-america-the-great-lakes-collectors-edition.json) |
 | Finding America: The Heartland - Collector's Edition | 224200 | [224200-finding-america-the-heartland-collectors-edition.json](./224200-finding-america-the-heartland-collectors-edition.json) |
 | Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
 | Finding Brenda: Episode 1 | 169928 | [169928-finding-brenda-episode-1.json](./169928-finding-brenda-episode-1.json) |
@@ -3489,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Honor | 134646 | [134646-for-the-honor.json](./134646-for-the-honor.json) |
 | For the People | 135844 | [135844-for-the-people.json](./135844-for-the-people.json) |
 | For the Revenge | 107921 | [107921-for-the-revenge.json](./107921-for-the-revenge.json) |
+| For The Win | 321509 | [321509-for-the-win.json](./321509-for-the-win.json) |
 | For What Will Come | 213010 | [213010-for-what-will-come.json](./213010-for-what-will-come.json) |
 | For Whom the Alchemist Exists | 57896 | [57896-for-whom-the-alchemist-exists.json](./57896-for-whom-the-alchemist-exists.json) |
 | For Whom The Bell Tolls | 260792 | [260792-for-whom-the-bell-tolls.json](./260792-for-whom-the-bell-tolls.json) |
