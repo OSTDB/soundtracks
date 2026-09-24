@@ -1390,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
 | Recruits | 16626 | [16626-recruits.json](./16626-recruits.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
+| Rectangulong | 305842 | [305842-rectangulong.json](./305842-rectangulong.json) |
 | Rectifier: In Bloom | 351807 | [351807-rectifier-in-bloom.json](./351807-rectifier-in-bloom.json) |
 | Rectitude | 173224 | [173224-rectitude.json](./173224-rectitude.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
@@ -2962,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
 | Rise of Ages | 111564 | [111564-rise-of-ages.json](./111564-rise-of-ages.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
+| Rise of Castles | 305848 | [305848-rise-of-castles.json](./305848-rise-of-castles.json) |
 | Rise of Champions | 60495 | [60495-rise-of-champions.json](./60495-rise-of-champions.json) |
 | Rise of Chi | 384506 | [384506-rise-of-chi.json](./384506-rise-of-chi.json) |
 | Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
