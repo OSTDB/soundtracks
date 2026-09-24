@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 in 1 College & Pro Football | 418709 | [418709-3-in-1-college-and-pro-football.json](./418709-3-in-1-college-and-pro-football.json) |
 | 3 in 1: Multiplayer Bundle | 223566 | [223566-3-in-1-multiplayer-bundle.json](./223566-3-in-1-multiplayer-bundle.json) |
 | 3 In Three | 86059 | [86059-3-in-three.json](./86059-3-in-three.json) |
+| 3 Kings | 305270 | [305270-3-kings.json](./305270-3-kings.json) |
 | 3 Last Chances | 244883 | [244883-3-last-chances.json](./244883-3-last-chances.json) |
 | 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
 | 3 Missing, 4am | 128589 | [128589-3-missing-4am.json](./128589-3-missing-4am.json) |
