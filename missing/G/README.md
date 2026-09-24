@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
+| Golden Axe | 305875 | [305875-golden-axe.json](./305875-golden-axe.json) |
 | Golden Axe | 5565 | [5565-golden-axe.json](./5565-golden-axe.json) |
 | Golden Axe Classics | 202829 | [202829-golden-axe-classics.json](./202829-golden-axe-classics.json) |
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
@@ -3679,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess My Word | 314418 | [314418-guess-my-word.json](./314418-guess-my-word.json) |
 | Guess Pony Cartoon | 202387 | [202387-guess-pony-cartoon.json](./202387-guess-pony-cartoon.json) |
 | Guess the Character! | 99977 | [99977-guess-the-character.json](./99977-guess-the-character.json) |
+| Guess the Flag! | 305905 | [305905-guess-the-flag.json](./305905-guess-the-flag.json) |
 | Guess the Flags: A Fun Quiz | 55136 | [55136-guess-the-flags-a-fun-quiz.json](./55136-guess-the-flags-a-fun-quiz.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
