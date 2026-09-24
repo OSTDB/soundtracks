@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Visiting Christmas Town | 325663 | [325663-cats-visiting-christmas-town.json](./325663-cats-visiting-christmas-town.json) |
 | Cats Visiting Lunar New Year | 328566 | [328566-cats-visiting-lunar-new-year.json](./328566-cats-visiting-lunar-new-year.json) |
 | Cats Visiting Underwater World | 328542 | [328542-cats-visiting-underwater-world.json](./328542-cats-visiting-underwater-world.json) |
+| Cats vs Cthulhu | 327957 | [327957-cats-vs-cthulhu.json](./327957-cats-vs-cthulhu.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
@@ -3145,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
 | Circle of Football | 137614 | [137614-circle-of-football.json](./137614-circle-of-football.json) |
+| Circle of Nature | 327982 | [327982-circle-of-nature.json](./327982-circle-of-nature.json) |
 | Circle of Orion | 257930 | [257930-circle-of-orion.json](./257930-circle-of-orion.json) |
 | Circle of Sumo: Online Rumble! | 126661 | [126661-circle-of-sumo-online-rumble.json](./126661-circle-of-sumo-online-rumble.json) |
 | Circle the Dot | 39200 | [39200-circle-the-dot.json](./39200-circle-the-dot.json) |
@@ -4107,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldplay Canoodlers | 356110 | [356110-coldplay-canoodlers.json](./356110-coldplay-canoodlers.json) |
 | Coldsweat and Tears | 316073 | [316073-coldsweat-and-tears.json](./316073-coldsweat-and-tears.json) |
 | ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
+| ColdWire | 328000 | [328000-coldwire.json](./328000-coldwire.json) |
 | Coldy Drinkeria | 316077 | [316077-coldy-drinkeria.json](./316077-coldy-drinkeria.json) |
 | Cole's Christmas 2024: GoonQuest | 327419 | [327419-coles-christmas-2024-goonquest.json](./327419-coles-christmas-2024-goonquest.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
@@ -4470,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
 | Combined_Arms Gaiden | 143117 | [143117-combined-arms-gaiden.json](./143117-combined-arms-gaiden.json) |
+| Combines.io | 327942 | [327942-combines-io.json](./327942-combines-io.json) |
 | Combo Babies | 167811 | [167811-combo-babies.json](./167811-combo-babies.json) |
 | Combo Critters: Battle Checkers | 346263 | [346263-combo-critters-battle-checkers.json](./346263-combo-critters-battle-checkers.json) |
 | Combo Fishing | 340206 | [340206-combo-fishing.json](./340206-combo-fishing.json) |
