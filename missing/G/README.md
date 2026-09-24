@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
 | Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
+| Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
 | Grave | 7411 | [7411-grave.json](./7411-grave.json) |
 | Grave Danger: Ultimate Edition | 84531 | [84531-grave-danger-ultimate-edition.json](./84531-grave-danger-ultimate-edition.json) |
+| Grave Deceiver | 327332 | [327332-grave-deceiver.json](./327332-grave-deceiver.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
