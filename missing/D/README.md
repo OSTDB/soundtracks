@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DACHstudio Puzzle Box: Falkis Potpourri | 357981 | [357981-dachstudio-puzzle-box-falkis-potpourri.json](./357981-dachstudio-puzzle-box-falkis-potpourri.json) |
 | DACHstudio Puzzle Box: Melextis' Unicorns | 357984 | [357984-dachstudio-puzzle-box-melextis-unicorns.json](./357984-dachstudio-puzzle-box-melextis-unicorns.json) |
 | DACHstudio Puzzle Box: Nebbi's Animal Photos | 357983 | [357983-dachstudio-puzzle-box-nebbis-animal-photos.json](./357983-dachstudio-puzzle-box-nebbis-animal-photos.json) |
+| DachStudio Puzzle Box: Robots by datGestruepp | 323266 | [323266-dachstudio-puzzle-box-robots-by-datgestruepp.json](./323266-dachstudio-puzzle-box-robots-by-datgestruepp.json) |
 | DACHstudio Puzzle Box: Sanguinik's hidden object tour in Görlitz/Zgorzelec | 357982 | [357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json](./357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Dactylographe | 183533 | [183533-dactylographe.json](./183533-dactylographe.json) |
@@ -5895,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Me Broke | 373107 | [373107-drive-me-broke.json](./373107-drive-me-broke.json) |
 | Drive Me to Hell | 253969 | [253969-drive-me-to-hell.json](./253969-drive-me-to-hell.json) |
 | Drive Megapolis | 31659 | [31659-drive-megapolis.json](./31659-drive-megapolis.json) |
+| Drive On Lucy | 323299 | [323299-drive-on-lucy.json](./323299-drive-on-lucy.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
 | Drive Thru | 365860 | [365860-drive-thru.json](./365860-drive-thru.json) |
 | Drive to The Top | 411690 | [411690-drive-to-the-top.json](./411690-drive-to-the-top.json) |
