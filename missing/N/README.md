@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl 2 | 259206 | [259206-nickelodeon-all-star-brawl-2.json](./259206-nickelodeon-all-star-brawl-2.json) |
 | Nickelodeon All-Star Brawl 2: Costume Pack | 275617 | [275617-nickelodeon-all-star-brawl-2-costume-pack.json](./275617-nickelodeon-all-star-brawl-2-costume-pack.json) |
 | Nickelodeon All-Star Brawl 2: Iroh Brawl Pack | 313298 | [313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json](./313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json) |
+| Nickelodeon All-Star Brawl 2: Mr. Krabs Brawl Pack | 287176 | [287176-nickelodeon-all-star-brawl-2-mr-krabs-brawl-pack.json](./287176-nickelodeon-all-star-brawl-2-mr-krabs-brawl-pack.json) |
 | Nickelodeon All-Star Brawl 2: Season Pass | 275618 | [275618-nickelodeon-all-star-brawl-2-season-pass.json](./275618-nickelodeon-all-star-brawl-2-season-pass.json) |
 | Nickelodeon All-Star Brawl 2: The Elastic Waistband Costume | 315081 | [315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json](./315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json) |
 | Nickelodeon All-Star Brawl: Hugh Neutron | 212790 | [212790-nickelodeon-all-star-brawl-hugh-neutron.json](./212790-nickelodeon-all-star-brawl-hugh-neutron.json) |
