@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Sim Online: Play With Cats | 103863 | [103863-cat-sim-online-play-with-cats.json](./103863-cat-sim-online-play-with-cats.json) |
 | Cat Simulator | 18014 | [18014-cat-simulator.json](./18014-cat-simulator.json) |
 | Cat Simulator | 283154 | [283154-cat-simulator.json](./283154-cat-simulator.json) |
+| Cat Simulator 2 | 306469 | [306469-cat-simulator-2.json](./306469-cat-simulator-2.json) |
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
 | Cat Slide Tiles | 152774 | [152774-cat-slide-tiles.json](./152774-cat-slide-tiles.json) |
@@ -5702,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
 | Cowboy | 346053 | [346053-cowboy.json](./346053-cowboy.json) |
 | Cowboy 3030 | 266220 | [266220-cowboy-3030.json](./266220-cowboy-3030.json) |
+| Cowboy Carl | 306456 | [306456-cowboy-carl.json](./306456-cowboy-carl.json) |
 | Cowboy Escape | 88233 | [88233-cowboy-escape.json](./88233-cowboy-escape.json) |
 | Cowboy Gold Round-Up | 103867 | [103867-cowboy-gold-round-up.json](./103867-cowboy-gold-round-up.json) |
 | Cowboy vs. UFOs | 57110 | [57110-cowboy-vs-ufos.json](./57110-cowboy-vs-ufos.json) |
