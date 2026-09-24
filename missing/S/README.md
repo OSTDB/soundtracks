@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satori | 285571 | [285571-satori.json](./285571-satori.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
 | Satori's Atelier 1+2 | 210664 | [210664-satoris-atelier-1-2.json](./210664-satoris-atelier-1-2.json) |
+| Satoru Gojo Backshot Simulator | 320904 | [320904-satoru-gojo-backshot-simulator.json](./320904-satoru-gojo-backshot-simulator.json) |
 | Satsui no Kaisou: Power Soft Satsujin Jiken | 48859 | [48859-satsui-no-kaisou-power-soft-satsujin-jiken.json](./48859-satsui-no-kaisou-power-soft-satsujin-jiken.json) |
 | Saturated Outer Space | 116836 | [116836-saturated-outer-space.json](./116836-saturated-outer-space.json) |
 | Saturday AM: Battle Manga | 382452 | [382452-saturday-am-battle-manga.json](./382452-saturday-am-battle-manga.json) |
@@ -1035,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
 | Scary Buddies | 167717 | [167717-scary-buddies.json](./167717-scary-buddies.json) |
 | Scary Doll: Twin Sister | 303094 | [303094-scary-doll-twin-sister.json](./303094-scary-doll-twin-sister.json) |
+| Scary Evil Horror | 320927 | [320927-scary-evil-horror.json](./320927-scary-evil-horror.json) |
 | Scary Game | 356148 | [356148-scary-game.json](./356148-scary-game.json) |
 | Scary Goat 2017 | 89987 | [89987-scary-goat-2017.json](./89987-scary-goat-2017.json) |
 | Scary Gourmet | 177933 | [177933-scary-gourmet.json](./177933-scary-gourmet.json) |
@@ -6469,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Hopping | 261271 | [261271-sonic-hopping.json](./261271-sonic-hopping.json) |
 | Sonic Hopping 2 | 261272 | [261272-sonic-hopping-2.json](./261272-sonic-hopping-2.json) |
 | Sonic in Crash Bandicoot 2 | 338802 | [338802-sonic-in-crash-bandicoot-2.json](./338802-sonic-in-crash-bandicoot-2.json) |
+| Sonic in Mario's Mind | 320908 | [320908-sonic-in-marios-mind.json](./320908-sonic-in-marios-mind.json) |
 | Sonic in Super Mario Bros. | 198468 | [198468-sonic-in-super-mario-bros.json](./198468-sonic-in-super-mario-bros.json) |
 | Sonic In The Timeline Of Madness | 266512 | [266512-sonic-in-the-timeline-of-madness.json](./266512-sonic-in-the-timeline-of-madness.json) |
 | Sonic Incursion | 326998 | [326998-sonic-incursion.json](./326998-sonic-incursion.json) |
@@ -7386,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raid | 46894 | [46894-space-raid.json](./46894-space-raid.json) |
 | Space Raiders | 295938 | [295938-space-raiders.json](./295938-space-raiders.json) |
+| Space Raiders | 320906 | [320906-space-raiders.json](./320906-space-raiders.json) |
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
 | Space Raiders in Space | 138622 | [138622-space-raiders-in-space.json](./138622-space-raiders-in-space.json) |
 | Space Raiders in Space + Clumsy Rush | 230406 | [230406-space-raiders-in-space-clumsy-rush.json](./230406-space-raiders-in-space-clumsy-rush.json) |
@@ -8472,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprnkls | 97938 | [97938-sprnkls.json](./97938-sprnkls.json) |
 | Sprocket Junkie | 65213 | [65213-sprocket-junkie.json](./65213-sprocket-junkie.json) |
 | Sprocket Rocket Rumble | 123028 | [123028-sprocket-rocket-rumble.json](./123028-sprocket-rocket-rumble.json) |
+| Sprocket Rocket: Design and Conquer | 320885 | [320885-sprocket-rocket-design-and-conquer.json](./320885-sprocket-rocket-design-and-conquer.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
@@ -8636,6 +8641,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
 | Squids Odyssey | 19877 | [19877-squids-odyssey.json](./19877-squids-odyssey.json) |
 | Squidview | 381251 | [381251-squidview.json](./381251-squidview.json) |
+| Squidward Tentacles Jigsaw | 320895 | [320895-squidward-tentacles-jigsaw.json](./320895-squidward-tentacles-jigsaw.json) |
+| Squidward Tractor | 320896 | [320896-squidward-tractor.json](./320896-squidward-tractor.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
 | Squingle Arcade | 397933 | [397933-squingle-arcade.json](./397933-squingle-arcade.json) |
 | Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
@@ -11256,6 +11263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Love | 367618 | [367618-sunny-love.json](./367618-sunny-love.json) |
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
+| Sunny Side Nightmare | 320886 | [320886-sunny-side-nightmare.json](./320886-sunny-side-nightmare.json) |
 | Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
 | Sunray OS | 285582 | [285582-sunray-os.json](./285582-sunray-os.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
@@ -11768,6 +11776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mahjong Taikai | 37811 | [37811-super-mahjong-taikai.json](./37811-super-mahjong-taikai.json) |
 | Super Man or Monster | 54799 | [54799-super-man-or-monster.json](./54799-super-man-or-monster.json) |
 | Super Mando | 223437 | [223437-super-mando.json](./223437-super-mando.json) |
+| Super Mano Bros: Jungle World | 320923 | [320923-super-mano-bros-jungle-world.json](./320923-super-mano-bros-jungle-world.json) |
 | Super Mansion | 72695 | [72695-super-mansion.json](./72695-super-mansion.json) |
 | Super Marathon | 72986 | [72986-super-marathon.json](./72986-super-marathon.json) |
 | Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
@@ -13465,6 +13474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
 | Syobon Action HD | 365135 | [365135-syobon-action-hd.json](./365135-syobon-action-hd.json) |
 | Syobon Action NES Edition | 198474 | [198474-syobon-action-nes-edition.json](./198474-syobon-action-nes-edition.json) |
+| Syobon Action: New Something | 320876 | [320876-syobon-action-new-something.json](./320876-syobon-action-new-something.json) |
 | Syobon No Action Special | 369764 | [369764-syobon-no-action-special.json](./369764-syobon-no-action-special.json) |
 | Syon | 296383 | [296383-syon.json](./296383-syon.json) |
 | Syphon Filter | 4115 | [4115-syphon-filter.json](./4115-syphon-filter.json) |
