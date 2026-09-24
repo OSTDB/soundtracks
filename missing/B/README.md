@@ -5555,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
 | Break 'Em All | 20534 | [20534-break-em-all.json](./20534-break-em-all.json) |
+| Break a Leg | 307054 | [307054-break-a-leg.json](./307054-break-a-leg.json) |
 | Break an Egg | 305336 | [305336-break-an-egg.json](./305336-break-an-egg.json) |
 | Break Arts III | 265210 | [265210-break-arts-iii.json](./265210-break-arts-iii.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
@@ -6107,6 +6108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
 | Bubli | 112717 | [112717-bubli.json](./112717-bubli.json) |
 | Buboids: The 3D Action Puzzle Game | 70937 | [70937-buboids-the-3d-action-puzzle-game.json](./70937-buboids-the-3d-action-puzzle-game.json) |
+| Bubsy II | 307065 | [307065-bubsy-ii.json](./307065-bubsy-ii.json) |
 | Bubsy II | 7803 | [7803-bubsy-ii.json](./7803-bubsy-ii.json) |
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
 | Bubsy in Sonic 2 | 360099 | [360099-bubsy-in-sonic-2.json](./360099-bubsy-in-sonic-2.json) |
