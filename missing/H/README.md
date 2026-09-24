@@ -2499,6 +2499,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats In Fallen Leaves Town | 311486 | [311486-hidden-cats-in-fallen-leaves-town.json](./311486-hidden-cats-in-fallen-leaves-town.json) |
 | Hidden Cats in Istanbul | 365755 | [365755-hidden-cats-in-istanbul.json](./365755-hidden-cats-in-istanbul.json) |
 | Hidden Cats In Japanese Village | 305137 | [305137-hidden-cats-in-japanese-village.json](./305137-hidden-cats-in-japanese-village.json) |
+| Hidden Cats in Jigsaw Puzzle: Berlin | 312701 | [312701-hidden-cats-in-jigsaw-puzzle-berlin.json](./312701-hidden-cats-in-jigsaw-puzzle-berlin.json) |
+| Hidden Cats in Jigsaw Puzzle: London | 312700 | [312700-hidden-cats-in-jigsaw-puzzle-london.json](./312700-hidden-cats-in-jigsaw-puzzle-london.json) |
+| Hidden Cats in Jigsaw Puzzle: New York | 312699 | [312699-hidden-cats-in-jigsaw-puzzle-new-york.json](./312699-hidden-cats-in-jigsaw-puzzle-new-york.json) |
+| Hidden Cats in Jigsaw Puzzle: Rome | 312702 | [312702-hidden-cats-in-jigsaw-puzzle-rome.json](./312702-hidden-cats-in-jigsaw-puzzle-rome.json) |
+| Hidden Cats in Jigsaw Puzzle: Santa's Realm | 312703 | [312703-hidden-cats-in-jigsaw-puzzle-santas-realm.json](./312703-hidden-cats-in-jigsaw-puzzle-santas-realm.json) |
+| Hidden Cats in Jigsaw Puzzle: Spooky Town | 312698 | [312698-hidden-cats-in-jigsaw-puzzle-spooky-town.json](./312698-hidden-cats-in-jigsaw-puzzle-spooky-town.json) |
 | Hidden Cats in Rio de Janeiro | 350069 | [350069-hidden-cats-in-rio-de-janeiro.json](./350069-hidden-cats-in-rio-de-janeiro.json) |
 | Hidden Cats in Rome | 264699 | [264699-hidden-cats-in-rome.json](./264699-hidden-cats-in-rome.json) |
 | Hidden Cats in Santa's Realm | 279125 | [279125-hidden-cats-in-santas-realm.json](./279125-hidden-cats-in-santas-realm.json) |
