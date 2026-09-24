@@ -2518,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Saw Us | 408072 | [408072-shadow-saw-us.json](./408072-shadow-saw-us.json) |
 | Shadow Seeker | 150140 | [150140-shadow-seeker.json](./150140-shadow-seeker.json) |
 | Shadow Shoot | 261279 | [261279-shadow-shoot.json](./261279-shadow-shoot.json) |
+| Shadow Siege | 326229 | [326229-shadow-siege.json](./326229-shadow-siege.json) |
 | Shadow Skimmer | 37186 | [37186-shadow-skimmer.json](./37186-shadow-skimmer.json) |
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
 | Shadow Stalker | 264319 | [264319-shadow-stalker.json](./264319-shadow-stalker.json) |
