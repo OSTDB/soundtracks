@@ -494,6 +494,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K22: WNBA 25th Anniversary Edition | 158595 | [158595-nba-2k22-wnba-25th-anniversary-edition.json](./158595-nba-2k22-wnba-25th-anniversary-edition.json) |
 | NBA 2K24: 25th Anniversary Edition | 265738 | [265738-nba-2k24-25th-anniversary-edition.json](./265738-nba-2k24-25th-anniversary-edition.json) |
 | NBA 2K25 | 308034 | [308034-nba-2k25.json](./308034-nba-2k25.json) |
+| NBA 2K25 x TopSpin 2K25 Bundle | 331476 | [331476-nba-2k25-x-topspin-2k25-bundle.json](./331476-nba-2k25-x-topspin-2k25-bundle.json) |
+| NBA 2K25 x WWE 2K24 Bundle | 331477 | [331477-nba-2k25-x-wwe-2k24-bundle.json](./331477-nba-2k25-x-wwe-2k24-bundle.json) |
+| NBA 2K25 x WWE 2K24 x TopSpin 2K25 Bundle | 331478 | [331478-nba-2k25-x-wwe-2k24-x-topspin-2k25-bundle.json](./331478-nba-2k25-x-wwe-2k24-x-topspin-2k25-bundle.json) |
 | NBA 2K25: All-Star Edition | 317248 | [317248-nba-2k25-all-star-edition.json](./317248-nba-2k25-all-star-edition.json) |
 | NBA 2K25: Tournament Edition | 331859 | [331859-nba-2k25-tournament-edition.json](./331859-nba-2k25-tournament-edition.json) |
 | NBA 2K26 | 353901 | [353901-nba-2k26.json](./353901-nba-2k26.json) |
@@ -676,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need For Madness 2 | 63232 | [63232-need-for-madness-2.json](./63232-need-for-madness-2.json) |
 | Need For Scream | 345550 | [345550-need-for-scream.json](./345550-need-for-scream.json) |
 | Need For Seed: Undergrowth | 185512 | [185512-need-for-seed-undergrowth.json](./185512-need-for-seed-undergrowth.json) |
+| Need for Speed Deluxe Bundle | 331479 | [331479-need-for-speed-deluxe-bundle.json](./331479-need-for-speed-deluxe-bundle.json) |
 | Need for Speed II | 91 | [91-need-for-speed-ii.json](./91-need-for-speed-ii.json) |
 | Need for Speed Rivals: Complete Edition | 118896 | [118896-need-for-speed-rivals-complete-edition.json](./118896-need-for-speed-rivals-complete-edition.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
@@ -718,6 +722,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nefarious Dreams | 330855 | [330855-nefarious-dreams.json](./330855-nefarious-dreams.json) |
 | Nefarium | 192452 | [192452-nefarium.json](./192452-nefarium.json) |
 | Neffy: Moonlight Labyrinth X | 369061 | [369061-neffy-moonlight-labyrinth-x.json](./369061-neffy-moonlight-labyrinth-x.json) |
+| Nefiriya and the Sands of Eternity | 331470 | [331470-nefiriya-and-the-sands-of-eternity.json](./331470-nefiriya-and-the-sands-of-eternity.json) |
+| Nefiriya x Super Astro Cat Bundle | 331471 | [331471-nefiriya-x-super-astro-cat-bundle.json](./331471-nefiriya-x-super-astro-cat-bundle.json) |
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
 | Negaia | 57069 | [57069-negaia.json](./57069-negaia.json) |
 | Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
@@ -2650,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere Near | 305929 | [305929-nowhere-near.json](./305929-nowhere-near.json) |
 | Nowhere Patrol | 111390 | [111390-nowhere-patrol.json](./111390-nowhere-patrol.json) |
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
+| Nox Dash | 331480 | [331480-nox-dash.json](./331480-nox-dash.json) |
 | Nox Quest | 92834 | [92834-nox-quest.json](./92834-nox-quest.json) |
 | Nox: Escape Adventure | 241049 | [241049-nox-escape-adventure.json](./241049-nox-escape-adventure.json) |
 | Noxcode | 404413 | [404413-noxcode.json](./404413-noxcode.json) |
