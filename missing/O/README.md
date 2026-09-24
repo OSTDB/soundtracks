@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okaeri | 122005 | [122005-okaeri.json](./122005-okaeri.json) |
 | Okaeri! Chibi-Robo! Happy Richie Oosouji | 47773 | [47773-okaeri-chibi-robo-happy-richie-oosouji.json](./47773-okaeri-chibi-robo-happy-richie-oosouji.json) |
 | Okage: Shadow King | 43614 | [43614-okage-shadow-king.json](./43614-okage-shadow-king.json) |
+| Okami + Kunitsu-Gami Bundle | 331481 | [331481-okami-kunitsu-gami-bundle.json](./331481-okami-kunitsu-gami-bundle.json) |
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
 | Okayu Nyumu! R | 395849 | [395849-okayu-nyumu-r.json](./395849-okayu-nyumu-r.json) |
 | Okhlos: Sigma | 200038 | [200038-okhlos-sigma.json](./200038-okhlos-sigma.json) |
@@ -539,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old School RPG | 253456 | [253456-old-school-rpg.json](./253456-old-school-rpg.json) |
 | Old School RPG Bundle | 124003 | [124003-old-school-rpg-bundle.json](./124003-old-school-rpg-bundle.json) |
 | Old School RuneScape | 79824 | [79824-old-school-runescape.json](./79824-old-school-runescape.json) |
+| Old School Vibes Bundle | 331482 | [331482-old-school-vibes-bundle.json](./331482-old-school-vibes-bundle.json) |
 | Old Shadow | 232438 | [232438-old-shadow.json](./232438-old-shadow.json) |
 | Old Skool Classics | 93569 | [93569-old-skool-classics.json](./93569-old-skool-classics.json) |
 | Old Skool Racer | 156609 | [156609-old-skool-racer.json](./156609-old-skool-racer.json) |
@@ -1788,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
 | Out Of Cash (Sin Blanca) | 379897 | [379897-out-of-cash-sin-blanca.json](./379897-out-of-cash-sin-blanca.json) |
 | Out of Control | 40775 | [40775-out-of-control.json](./40775-out-of-control.json) |
+| Out of Control: Space Survival Bundle: Ctrl Alt Ego + Tin Can: Supporter Edition | 331483 | [331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json](./331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json) |
 | Out of Ctrl | 177519 | [177519-out-of-ctrl.json](./177519-out-of-ctrl.json) |
 | Out of Frame | 141886 | [141886-out-of-frame.json](./141886-out-of-frame.json) |
 | Out of Galaxy: Gin no Koushika | 408871 | [408871-out-of-galaxy-gin-no-koushika.json](./408871-out-of-galaxy-gin-no-koushika.json) |
