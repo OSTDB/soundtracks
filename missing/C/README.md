@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
 | Call of Duty 4: Modern Warfare | 135294 | [135294-call-of-duty-4-modern-warfare.json](./135294-call-of-duty-4-modern-warfare.json) |
 | Call of Duty 4: Modern Warfare - Game of the Year Edition | 290723 | [290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json](./290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json) |
+| Call of Duty 4: Modern Warfare - Limited Collector's Edition | 286606 | [286606-call-of-duty-4-modern-warfare-limited-collectors-edition.json](./286606-call-of-duty-4-modern-warfare-limited-collectors-edition.json) |
 | Call of Duty 4: Survival Mode | 299136 | [299136-call-of-duty-4-survival-mode.json](./299136-call-of-duty-4-survival-mode.json) |
 | Call of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack | 310052 | [310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json](./310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json) |
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
@@ -2252,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
 | Chaseway | 179586 | [179586-chaseway.json](./179586-chaseway.json) |
+| Chasing Bottaflies | 286567 | [286567-chasing-bottaflies.json](./286567-chasing-bottaflies.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
@@ -4985,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conniption: Paranoia | 217392 | [217392-conniption-paranoia.json](./217392-conniption-paranoia.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | ConOps21: Subversion Protocol | 403782 | [403782-conops21-subversion-protocol.json](./403782-conops21-subversion-protocol.json) |
+| Conquela | 286605 | [286605-conquela.json](./286605-conquela.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
@@ -6508,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Clicker | 169845 | [169845-critter-clicker.json](./169845-critter-clicker.json) |
 | Critter Combat | 241351 | [241351-critter-combat.json](./241351-critter-combat.json) |
 | Critter Cove | 136987 | [136987-critter-cove.json](./136987-critter-cove.json) |
+| Critter Crosser | 286620 | [286620-critter-crosser.json](./286620-critter-crosser.json) |
 | Critter Crunch | 13188 | [13188-critter-crunch.json](./13188-critter-crunch.json) |
 | Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
 | Critter Isle | 334301 | [334301-critter-isle.json](./334301-critter-isle.json) |
