@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Beating: No More Horny | 156640 | [156640-meat-beating-no-more-horny.json](./156640-meat-beating-no-more-horny.json) |
 | Meat Boy | 92427 | [92427-meat-boy.json](./92427-meat-boy.json) |
 | Meat Cleaver Mutilator | 125258 | [125258-meat-cleaver-mutilator.json](./125258-meat-cleaver-mutilator.json) |
+| Meat Girl | 325619 | [325619-meat-girl.json](./325619-meat-girl.json) |
 | Meat Grinder | 391149 | [391149-meat-grinder.json](./391149-meat-grinder.json) |
 | Meat Room | 349853 | [349853-meat-room.json](./349853-meat-room.json) |
 | Meat Shift | 181895 | [181895-meat-shift.json](./181895-meat-shift.json) |
@@ -5639,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Ltd: Part II | 256822 | [256822-monster-hunter-ltd-part-ii.json](./256822-monster-hunter-ltd-part-ii.json) |
 | Monster Hunter Now | 247545 | [247545-monster-hunter-now.json](./247545-monster-hunter-now.json) |
 | Monster Hunter Now: Season 3 | 317847 | [317847-monster-hunter-now-season-3.json](./317847-monster-hunter-now-season-3.json) |
+| Monster Hunter Now: Season 4 | 325606 | [325606-monster-hunter-now-season-4.json](./325606-monster-hunter-now-season-4.json) |
 | Monster Hunter Online | 26901 | [26901-monster-hunter-online.json](./26901-monster-hunter-online.json) |
 | Monster Hunter Portable 3rd HD Ver. | 78633 | [78633-monster-hunter-portable-3rd-hd-ver.json](./78633-monster-hunter-portable-3rd-hd-ver.json) |
 | Monster Hunter Rise + Sunbreak | 207388 | [207388-monster-hunter-rise-sunbreak.json](./207388-monster-hunter-rise-sunbreak.json) |
@@ -7438,6 +7440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Own Hero Party | 412980 | [412980-my-own-hero-party.json](./412980-my-own-hero-party.json) |
 | My Own Murder | 345049 | [345049-my-own-murder.json](./345049-my-own-murder.json) |
 | My Own Sweet Dionaea | 382213 | [382213-my-own-sweet-dionaea.json](./382213-my-own-sweet-dionaea.json) |
+| My Parents are Aliens | 325556 | [325556-my-parents-are-aliens.json](./325556-my-parents-are-aliens.json) |
 | My Peephole: Hotel Harborview | 372670 | [372670-my-peephole-hotel-harborview.json](./372670-my-peephole-hotel-harborview.json) |
 | My Personal Hater | 388229 | [388229-my-personal-hater.json](./388229-my-personal-hater.json) |
 | My Pet Fan | 351721 | [351721-my-pet-fan.json](./351721-my-pet-fan.json) |
