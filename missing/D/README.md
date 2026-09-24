@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daibutsu Paradise | 151748 | [151748-daibutsu-paradise.json](./151748-daibutsu-paradise.json) |
 | Daichikun Crisis: Do Natural | 42029 | [42029-daichikun-crisis-do-natural.json](./42029-daichikun-crisis-do-natural.json) |
 | Daidai no Ginyoku: Skyland no Majo no Miko | 84533 | [84533-daidai-no-ginyoku-skyland-no-majo-no-miko.json](./84533-daidai-no-ginyoku-skyland-no-majo-no-miko.json) |
+| Daienkai Buchou | 293138 | [293138-daienkai-buchou.json](./293138-daienkai-buchou.json) |
 | Daigasso! Band Brothers | 28559 | [28559-daigasso-band-brothers.json](./28559-daigasso-band-brothers.json) |
 | Daigasso! Band Brothers P | 64394 | [64394-daigasso-band-brothers-p.json](./64394-daigasso-band-brothers-p.json) |
 | Daigasso! Band Brothers Request Selection | 69240 | [69240-daigasso-band-brothers-request-selection.json](./69240-daigasso-band-brothers-request-selection.json) |
@@ -2846,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Device 0101 | 294844 | [294844-device-0101.json](./294844-device-0101.json) |
 | Device 6 | 6279 | [6279-device-6.json](./6279-device-6.json) |
 | Devidicon | 400459 | [400459-devidicon.json](./400459-devidicon.json) |
+| Devil Below | 293171 | [293171-devil-below.json](./293171-devil-below.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
 | Devil Dice | 28400 | [28400-devil-dice.json](./28400-devil-dice.json) |
 | Devil Edge | 169450 | [169450-devil-edge.json](./169450-devil-edge.json) |
