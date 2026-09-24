@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle Simulator 3 | 409530 | [409530-hentai-puzzle-simulator-3.json](./409530-hentai-puzzle-simulator-3.json) |
 | Hentai Puzzle XXX | 378807 | [378807-hentai-puzzle-xxx.json](./378807-hentai-puzzle-xxx.json) |
 | Hentai Puzzle: Clarise | 289439 | [289439-hentai-puzzle-clarise.json](./289439-hentai-puzzle-clarise.json) |
+| Hentai Puzzle: Girls | 304562 | [304562-hentai-puzzle-girls.json](./304562-hentai-puzzle-girls.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
 | Hentai Rika | 340448 | [340448-hentai-rika.json](./340448-hentai-rika.json) |
 | Hentai Sally | 340449 | [340449-hentai-sally.json](./340449-hentai-sally.json) |
@@ -2697,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Watch | 104121 | [104121-hidden-watch.json](./104121-hidden-watch.json) |
 | Hidden Western | 192819 | [192819-hidden-western.json](./192819-hidden-western.json) |
 | Hidden Western Top-Down 3D | 277827 | [277827-hidden-western-top-down-3d.json](./277827-hidden-western-top-down-3d.json) |
+| Hidden Wings and Paws | 304620 | [304620-hidden-wings-and-paws.json](./304620-hidden-wings-and-paws.json) |
 | Hidden Words | 170534 | [170534-hidden-words.json](./170534-hidden-words.json) |
 | Hidden Words and Pictures Game | 108490 | [108490-hidden-words-and-pictures-game.json](./108490-hidden-words-and-pictures-game.json) |
 | Hidden World | 54089 | [54089-hidden-world.json](./54089-hidden-world.json) |
@@ -4487,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter in the Lost Forest | 293202 | [293202-hunter-in-the-lost-forest.json](./293202-hunter-in-the-lost-forest.json) |
 | Hunter Island: Monsters & Dragons | 200113 | [200113-hunter-island-monsters-and-dragons.json](./200113-hunter-island-monsters-and-dragons.json) |
 | Hunter Killer | 94008 | [94008-hunter-killer.json](./94008-hunter-killer.json) |
+| Hunter Legends | 304567 | [304567-hunter-legends.json](./304567-hunter-legends.json) |
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter Patrol | 13883 | [13883-hunter-patrol.json](./13883-hunter-patrol.json) |
 | Hunter Simulator VR: Wild Hunting | 391345 | [391345-hunter-simulator-vr-wild-hunting.json](./391345-hunter-simulator-vr-wild-hunting.json) |
