@@ -902,11 +902,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Garage Simulator | 374602 | [374602-parking-garage-simulator.json](./374602-parking-garage-simulator.json) |
 | Parking Jam | 313138 | [313138-parking-jam.json](./313138-parking-jam.json) |
 | Parking Jam: Complete Edition | 315855 | [315855-parking-jam-complete-edition.json](./315855-parking-jam-complete-edition.json) |
+| Parking Jam: Fast Food | 313219 | [313219-parking-jam-fast-food.json](./313219-parking-jam-fast-food.json) |
+| Parking Jam: Snow Rush | 313231 | [313231-parking-jam-snow-rush.json](./313231-parking-jam-snow-rush.json) |
 | Parking Lot Maze | 146815 | [146815-parking-lot-maze.json](./146815-parking-lot-maze.json) |
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
 | Parking Master | 333087 | [333087-parking-master.json](./333087-parking-master.json) |
 | Parking Masters | 313135 | [313135-parking-masters.json](./313135-parking-masters.json) |
+| Parking Masters: Big Rig | 313232 | [313232-parking-masters-big-rig.json](./313232-parking-masters-big-rig.json) |
 | Parking Masters: Bus Driver | 313513 | [313513-parking-masters-bus-driver.json](./313513-parking-masters-bus-driver.json) |
+| Parking Masters: Deluxe Edition | 313216 | [313216-parking-masters-deluxe-edition.json](./313216-parking-masters-deluxe-edition.json) |
 | Parking Pro: Top-Down Challenge | 334081 | [334081-parking-pro-top-down-challenge.json](./334081-parking-pro-top-down-challenge.json) |
 | Parking Problem | 397068 | [397068-parking-problem.json](./397068-parking-problem.json) |
 | Parking Simulator | 188094 | [188094-parking-simulator.json](./188094-parking-simulator.json) |
