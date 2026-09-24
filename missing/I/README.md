@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders of the Mummy's Tomb | 300011 | [300011-invaders-of-the-mummys-tomb.json](./300011-invaders-of-the-mummys-tomb.json) |
 | Invaders! From Outer Space | 107930 | [107930-invaders-from-outer-space.json](./107930-invaders-from-outer-space.json) |
 | InvaderSwarm | 150484 | [150484-invaderswarm.json](./150484-invaderswarm.json) |
+| Invariant | 326224 | [326224-invariant.json](./326224-invariant.json) |
 | Invariant | 410973 | [410973-invariant.json](./410973-invariant.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
 | Invasion | 109448 | [109448-invasion.json](./109448-invasion.json) |
@@ -2151,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
 | Iron Danger | 101065 | [101065-iron-danger.json](./101065-iron-danger.json) |
+| Iron Decree | 326205 | [326205-iron-decree.json](./326205-iron-decree.json) |
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
 | Iron Emblem | 215765 | [215765-iron-emblem.json](./215765-iron-emblem.json) |
 | Iron Evil | 203970 | [203970-iron-evil.json](./203970-iron-evil.json) |
