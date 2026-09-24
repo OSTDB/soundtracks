@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosodate Quiz My Angel 3 | 129151 | [129151-kosodate-quiz-my-angel-3.json](./129151-kosodate-quiz-my-angel-3.json) |
 | Kost | 303618 | [303618-kost.json](./303618-kost.json) |
 | Kot-rybolov | 367945 | [367945-kot-rybolov.json](./367945-kot-rybolov.json) |
+| Kota's New Journey | 327999 | [327999-kotas-new-journey.json](./327999-kotas-new-journey.json) |
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
 | Kotobuki Grand Prix | 133823 | [133823-kotobuki-grand-prix.json](./133823-kotobuki-grand-prix.json) |
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
