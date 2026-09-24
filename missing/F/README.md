@@ -4408,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night 3D Pool | 57610 | [57610-friday-night-3d-pool.json](./57610-friday-night-3d-pool.json) |
 | Friday Night Bullet Arena | 31702 | [31702-friday-night-bullet-arena.json](./31702-friday-night-bullet-arena.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
+| Friday Night Funkin' 64 | 294774 | [294774-friday-night-funkin-64.json](./294774-friday-night-funkin-64.json) |
 | Friday Night Funkin' Battle Waifu | 205627 | [205627-friday-night-funkin-battle-waifu.json](./205627-friday-night-funkin-battle-waifu.json) |
 | Friday Night Funkin' Lullaby | 198347 | [198347-friday-night-funkin-lullaby.json](./198347-friday-night-funkin-lullaby.json) |
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
