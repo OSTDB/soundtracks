@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okaeri! Chibi-Robo! Happy Richie Oosouji | 47773 | [47773-okaeri-chibi-robo-happy-richie-oosouji.json](./47773-okaeri-chibi-robo-happy-richie-oosouji.json) |
 | Okage: Shadow King | 43614 | [43614-okage-shadow-king.json](./43614-okage-shadow-king.json) |
 | Okami + Kunitsu-Gami Bundle | 331481 | [331481-okami-kunitsu-gami-bundle.json](./331481-okami-kunitsu-gami-bundle.json) |
+| Okami Sequel | 325610 | [325610-okami-sequel.json](./325610-okami-sequel.json) |
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
 | Okayu Nyumu! R | 395849 | [395849-okayu-nyumu-r.json](./395849-okayu-nyumu-r.json) |
 | Okhlos: Sigma | 200038 | [200038-okhlos-sigma.json](./200038-okhlos-sigma.json) |
@@ -838,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
 | Once Upon A Time | 51189 | [51189-once-upon-a-time.json](./51189-once-upon-a-time.json) |
 | Once Upon a Time in Morocco | 208586 | [208586-once-upon-a-time-in-morocco.json](./208586-once-upon-a-time-in-morocco.json) |
+| Once Upon a Time in the 70s | 325545 | [325545-once-upon-a-time-in-the-70s.json](./325545-once-upon-a-time-in-the-70s.json) |
 | Once Upon a Time in the Colony | 173233 | [173233-once-upon-a-time-in-the-colony.json](./173233-once-upon-a-time-in-the-colony.json) |
 | Once Upon a Time on Halloween | 223569 | [223569-once-upon-a-time-on-halloween.json](./223569-once-upon-a-time-on-halloween.json) |
 | Once Upon an Electric Dream | 132802 | [132802-once-upon-an-electric-dream.json](./132802-once-upon-an-electric-dream.json) |
@@ -958,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Superb Edition | 317246 | [317246-one-night-burlesque-superb-edition.json](./317246-one-night-burlesque-superb-edition.json) |
 | One Night: Burlesque - Ultimate Edition | 283168 | [283168-one-night-burlesque-ultimate-edition.json](./283168-one-night-burlesque-ultimate-edition.json) |
 | One of 500 | 141637 | [141637-one-of-500.json](./141637-one-of-500.json) |
+| One of a Kind | 325551 | [325551-one-of-a-kind.json](./325551-one-of-a-kind.json) |
 | One of the Victims | 195100 | [195100-one-of-the-victims.json](./195100-one-of-the-victims.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
 | One on One: Dr. J vs. Larry Bird | 69833 | [69833-one-on-one-dr-j-vs-larry-bird.json](./69833-one-on-one-dr-j-vs-larry-bird.json) |
@@ -1283,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenTaiko | 323888 | [323888-opentaiko.json](./323888-opentaiko.json) |
 | OpenViva | 316813 | [316813-openviva.json](./316813-openviva.json) |
 | Opera Omnia | 77359 | [77359-opera-omnia.json](./77359-opera-omnia.json) |
+| Opera Prima | 325565 | [325565-opera-prima.json](./325565-opera-prima.json) |
 | Operação Prato | 294302 | [294302-operacao-prato.json](./294302-operacao-prato.json) |
 | Operación: Bomba | 325624 | [325624-operacion-bomba.json](./325624-operacion-bomba.json) |
 | Operation | 94216 | [94216-operation.json](./94216-operation.json) |
