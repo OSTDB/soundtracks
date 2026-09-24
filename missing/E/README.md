@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erik: Phantom of the Opera | 55082 | [55082-erik-phantom-of-the-opera.json](./55082-erik-phantom-of-the-opera.json) |
 | Erika America | 351008 | [351008-erika-america.json](./351008-erika-america.json) |
 | Erina & A Mansao Rosaria | 219253 | [219253-erina-and-a-mansao-rosaria.json](./219253-erina-and-a-mansao-rosaria.json) |
+| Erinaceinae Griminance | 309987 | [309987-erinaceinae-griminance.json](./309987-erinaceinae-griminance.json) |
 | Erinye | 95222 | [95222-erinye.json](./95222-erinye.json) |
 | Erion | 228699 | [228699-erion.json](./228699-erion.json) |
 | Eris and the Fading Kingdom | 208589 | [208589-eris-and-the-fading-kingdom.json](./208589-eris-and-the-fading-kingdom.json) |
@@ -2789,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Path | 98228 | [98228-exit-path.json](./98228-exit-path.json) |
 | Exit Path 2 | 213282 | [213282-exit-path-2.json](./213282-exit-path-2.json) |
 | Exit Plan b | 364515 | [364515-exit-plan-b.json](./364515-exit-plan-b.json) |
+| Exit Station 7 | 309958 | [309958-exit-station-7.json](./309958-exit-station-7.json) |
 | Exit Strategy | 143103 | [143103-exit-strategy.json](./143103-exit-strategy.json) |
 | Exit Terminal | 320180 | [320180-exit-terminal.json](./320180-exit-terminal.json) |
 | Exit the Gungeon | 122311 | [122311-exit-the-gungeon.json](./122311-exit-the-gungeon.json) |
