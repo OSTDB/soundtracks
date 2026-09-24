@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AD Blocker: An Action Puzzle Game | 357970 | [357970-ad-blocker-an-action-puzzle-game.json](./357970-ad-blocker-an-action-puzzle-game.json) |
 | Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
 | Ad Infinitum | 77338 | [77338-ad-infinitum.json](./77338-ad-infinitum.json) |
+| Ad Infinitum: Supporter Edition | 336136 | [336136-ad-infinitum-supporter-edition.json](./336136-ad-infinitum-supporter-edition.json) |
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
@@ -2240,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark: Digital Deluxe Edition | 293759 | [293759-alone-in-the-dark-digital-deluxe-edition.json](./293759-alone-in-the-dark-digital-deluxe-edition.json) |
 | Alone in the Dark: The Gates of Hell | 375455 | [375455-alone-in-the-dark-the-gates-of-hell.json](./375455-alone-in-the-dark-the-gates-of-hell.json) |
 | Alone in the Dark: The New Nightmare | 266501 | [266501-alone-in-the-dark-the-new-nightmare.json](./266501-alone-in-the-dark-the-new-nightmare.json) |
+| Alone in the Dark: Vintage Horror Filter Pack | 336139 | [336139-alone-in-the-dark-vintage-horror-filter-pack.json](./336139-alone-in-the-dark-vintage-horror-filter-pack.json) |
 | Alone in the Grey | 201707 | [201707-alone-in-the-grey.json](./201707-alone-in-the-grey.json) |
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
 | Alone in the Outback | 226215 | [226215-alone-in-the-outback.json](./226215-alone-in-the-outback.json) |
@@ -4176,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanorum 231 | 359601 | [359601-arcanorum-231.json](./359601-arcanorum-231.json) |
 | Arcany | 375981 | [375981-arcany.json](./375981-arcany.json) |
 | ArcaPinball: NeoWorlds | 146892 | [146892-arcapinball-neoworlds.json](./146892-arcapinball-neoworlds.json) |
+| Arcas Champions | 336158 | [336158-arcas-champions.json](./336158-arcas-champions.json) |
 | Arcatopia | 194014 | [194014-arcatopia.json](./194014-arcatopia.json) |
 | Arcaxer | 145565 | [145565-arcaxer.json](./145565-arcaxer.json) |
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
@@ -4816,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendance | 117530 | [117530-ascendance.json](./117530-ascendance.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
 | Ascendants: Power Rising | 52610 | [52610-ascendants-power-rising.json](./52610-ascendants-power-rising.json) |
+| Ascendaria | 336120 | [336120-ascendaria.json](./336120-ascendaria.json) |
 | Ascended Gods: Realm of Origins | 270104 | [270104-ascended-gods-realm-of-origins.json](./270104-ascended-gods-realm-of-origins.json) |
 | Ascended Realms | 137683 | [137683-ascended-realms.json](./137683-ascended-realms.json) |
 | Ascending Madness | 96706 | [96706-ascending-madness.json](./96706-ascending-madness.json) |
@@ -5305,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrogon | 139920 | [139920-astrogon.json](./139920-astrogon.json) |
 | Astrohazard Solutions Ltd. | 75772 | [75772-astrohazard-solutions-ltd.json](./75772-astrohazard-solutions-ltd.json) |
+| Astroidle | 336115 | [336115-astroidle.json](./336115-astroidle.json) |
 | Astrojunk | 415320 | [415320-astrojunk.json](./415320-astrojunk.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
