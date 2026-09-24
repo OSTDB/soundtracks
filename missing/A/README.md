@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
 | A Cold Day In Shell | 328068 | [328068-a-cold-day-in-shell.json](./328068-a-cold-day-in-shell.json) |
 | A Collection of Bad Moments | 68618 | [68618-a-collection-of-bad-moments.json](./68618-a-collection-of-bad-moments.json) |
+| A Coloring Break | 326233 | [326233-a-coloring-break.json](./326233-a-coloring-break.json) |
 | A Coloring Break: Expansion pack 6 | 357772 | [357772-a-coloring-break-expansion-pack-6.json](./357772-a-coloring-break-expansion-pack-6.json) |
 | A Coloring Break: Expansion pack 8 | 357774 | [357774-a-coloring-break-expansion-pack-8.json](./357774-a-coloring-break-expansion-pack-8.json) |
 | A Comfy Place | 342271 | [342271-a-comfy-place.json](./342271-a-comfy-place.json) |
@@ -808,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
+| Ad Astra: Sci-Fi Tower Defense | 326232 | [326232-ad-astra-sci-fi-tower-defense.json](./326232-ad-astra-sci-fi-tower-defense.json) |
 | AD Blocker: An Action Puzzle Game | 357970 | [357970-ad-blocker-an-action-puzzle-game.json](./357970-ad-blocker-an-action-puzzle-game.json) |
 | Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
 | Ad Infinitum | 77338 | [77338-ad-infinitum.json](./77338-ad-infinitum.json) |
