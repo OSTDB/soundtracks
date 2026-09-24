@@ -2194,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Lure | 298863 | [298863-winning-lure.json](./298863-winning-lure.json) |
 | Winning Post | 4240 | [4240-winning-post.json](./4240-winning-post.json) |
 | Winning Post 10 | 240877 | [240877-winning-post-10.json](./240877-winning-post-10.json) |
+| Winning Post 10 2024 | 294217 | [294217-winning-post-10-2024.json](./294217-winning-post-10-2024.json) |
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
@@ -2523,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WizzBall | 81221 | [81221-wizzball.json](./81221-wizzball.json) |
 | Wizzerd Quest 2 | 296455 | [296455-wizzerd-quest-2.json](./296455-wizzerd-quest-2.json) |
 | Wloku | 307617 | [307617-wloku.json](./307617-wloku.json) |
+| WN RPG Hoshi no Kuzure | 294242 | [294242-wn-rpg-hoshi-no-kuzure.json](./294242-wn-rpg-hoshi-no-kuzure.json) |
 | Wo Long 2: Wings of Ember | 405070 | [405070-wo-long-2-wings-of-ember.json](./405070-wo-long-2-wings-of-ember.json) |
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
 | Wo Long: Fallen Dynasty - Steelbook Launch Edition | 225774 | [225774-wo-long-fallen-dynasty-steelbook-launch-edition.json](./225774-wo-long-fallen-dynasty-steelbook-launch-edition.json) |
@@ -2694,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
 | Wonky Works! | 189051 | [189051-wonky-works.json](./189051-wonky-works.json) |
 | Woo Woo | 388919 | [388919-woo-woo.json](./388919-woo-woo.json) |
+| Woobies | 294205 | [294205-woobies.json](./294205-woobies.json) |
 | Woochi the Wayfarer | 360752 | [360752-woochi-the-wayfarer.json](./360752-woochi-the-wayfarer.json) |
 | Wood & Flesh Chapter 2 | 372696 | [372696-wood-and-flesh-chapter-2.json](./372696-wood-and-flesh-chapter-2.json) |
 | Wood & Weather | 212817 | [212817-wood-and-weather.json](./212817-wood-and-weather.json) |
