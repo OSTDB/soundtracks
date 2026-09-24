@@ -3953,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Groove Coaster Pack | 225059 | [225059-djmax-respect-v-groove-coaster-pack.json](./225059-djmax-respect-v-groove-coaster-pack.json) |
 | DJMax Respect V: MapleStory Pack | 265635 | [265635-djmax-respect-v-maplestory-pack.json](./265635-djmax-respect-v-maplestory-pack.json) |
 | DJMax Respect V: Technika Pack | 225058 | [225058-djmax-respect-v-technika-pack.json](./225058-djmax-respect-v-technika-pack.json) |
+| DJMax Respect V: V Liberty Pack | 307059 | [307059-djmax-respect-v-v-liberty-pack.json](./307059-djmax-respect-v-v-liberty-pack.json) |
 | DJMax Respect: Chunithm Pack | 383046 | [383046-djmax-respect-chunithm-pack.json](./383046-djmax-respect-chunithm-pack.json) |
 | DJMax Respect: Technika3 Pack | 383056 | [383056-djmax-respect-technika3-pack.json](./383056-djmax-respect-technika3-pack.json) |
 | DJMax Respect: V Liberty 2 Pack | 383050 | [383050-djmax-respect-v-liberty-2-pack.json](./383050-djmax-respect-v-liberty-2-pack.json) |
@@ -3988,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMZ: Nuclear Survival | 340001 | [340001-dmz-nuclear-survival.json](./340001-dmz-nuclear-survival.json) |
 | DNA 1: Finale | 311106 | [311106-dna-1-finale.json](./311106-dna-1-finale.json) |
 | DNA Nemesis | 415147 | [415147-dna-nemesis.json](./415147-dna-nemesis.json) |
+| DNA Subject: Lucy | 307053 | [307053-dna-subject-lucy.json](./307053-dna-subject-lucy.json) |
 | DNA: Episode 1 | 280315 | [280315-dna-episode-1.json](./280315-dna-episode-1.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
 | DNA: Episode 5 | 298678 | [298678-dna-episode-5.json](./298678-dna-episode-5.json) |
