@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ztar Attack Rebooted | 135231 | [135231-ztar-attack-rebooted.json](./135231-ztar-attack-rebooted.json) |
 | ZTetris | 225752 | [225752-ztetris.json](./225752-ztetris.json) |
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
+| Zueirama 2077 | 323276 | [323276-zueirama-2077.json](./323276-zueirama-2077.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
 | Zugya | 264070 | [264070-zugya.json](./264070-zugya.json) |
 | Zuìhòu de Xiūxiānzhě | 375416 | [375416-zuihou-de-xiuxianzhe.json](./375416-zuihou-de-xiuxianzhe.json) |
