@@ -2086,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of the Galactic Core | 55512 | [55512-hero-of-the-galactic-core.json](./55512-hero-of-the-galactic-core.json) |
 | Hero of the Kingdom Collection | 53187 | [53187-hero-of-the-kingdom-collection.json](./53187-hero-of-the-kingdom-collection.json) |
 | Hero of the Kingdom III | 81893 | [81893-hero-of-the-kingdom-iii.json](./81893-hero-of-the-kingdom-iii.json) |
+| Hero of the Kingdom: The Lost Tales 3 | 327322 | [327322-hero-of-the-kingdom-the-lost-tales-3.json](./327322-hero-of-the-kingdom-the-lost-tales-3.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
 | Hero Panda Bomber | 60794 | [60794-hero-panda-bomber.json](./60794-hero-panda-bomber.json) |
