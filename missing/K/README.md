@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper of the Labyrinth | 153865 | [153865-keeper-of-the-labyrinth.json](./153865-keeper-of-the-labyrinth.json) |
 | Keeper Practise | 291623 | [291623-keeper-practise.json](./291623-keeper-practise.json) |
 | Keeper: The Hunter of Insect | 68619 | [68619-keeper-the-hunter-of-insect.json](./68619-keeper-the-hunter-of-insect.json) |
+| Keeper's Curse | 298670 | [298670-keepers-curse.json](./298670-keepers-curse.json) |
 | Keeper's Toll | 216882 | [216882-keepers-toll.json](./216882-keepers-toll.json) |
 | Keeper's Vigil | 405041 | [405041-keepers-vigil.json](./405041-keepers-vigil.json) |
 | Keepers | 257385 | [257385-keepers.json](./257385-keepers.json) |
@@ -1127,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
 | King of Football | 67980 | [67980-king-of-football.json](./67980-king-of-football.json) |
+| King of Hell | 298671 | [298671-king-of-hell.json](./298671-king-of-hell.json) |
 | King of Kalimpong | 203312 | [203312-king-of-kalimpong.json](./203312-king-of-kalimpong.json) |
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
 | King of Kingdoms | 224030 | [224030-king-of-kingdoms.json](./224030-king-of-kingdoms.json) |
