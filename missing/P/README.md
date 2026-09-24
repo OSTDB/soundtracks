@@ -1999,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
+| Phi: The Broken Strings | 332599 | [332599-phi-the-broken-strings.json](./332599-phi-the-broken-strings.json) |
 | Phi's Star Challenge | 393099 | [393099-phis-star-challenge.json](./393099-phis-star-challenge.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
 | Phil of the Future | 49387 | [49387-phil-of-the-future.json](./49387-phil-of-the-future.json) |
@@ -2308,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Bros Adventure | 214729 | [214729-pig-bros-adventure.json](./214729-pig-bros-adventure.json) |
 | Pig Escape | 185003 | [185003-pig-escape.json](./185003-pig-escape.json) |
 | Pig King | 407443 | [407443-pig-king.json](./407443-pig-king.json) |
+| Pig Knight | 332619 | [332619-pig-knight.json](./332619-pig-knight.json) |
 | Pig Newton | 40403 | [40403-pig-newton.json](./40403-pig-newton.json) |
 | Pig Out: Dine Like A Swine | 66386 | [66386-pig-out-dine-like-a-swine.json](./66386-pig-out-dine-like-a-swine.json) |
 | Pig Skater Simulator | 164990 | [164990-pig-skater-simulator.json](./164990-pig-skater-simulator.json) |
@@ -4676,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pour Boy and the Nitro Necromancer | 400895 | [400895-pour-boy-and-the-nitro-necromancer.json](./400895-pour-boy-and-the-nitro-necromancer.json) |
 | Pour Quelques Bonbons... | 320994 | [320994-pour-quelques-bonbons.json](./320994-pour-quelques-bonbons.json) |
 | Pour There | 155994 | [155994-pour-there.json](./155994-pour-there.json) |
+| Pourdle | 332637 | [332637-pourdle.json](./332637-pourdle.json) |
 | Pouring Pints | 412271 | [412271-pouring-pints.json](./412271-pouring-pints.json) |
 | Poverty is a Choice | 106610 | [106610-poverty-is-a-choice.json](./106610-poverty-is-a-choice.json) |
 | Pow 2 | 241074 | [241074-pow-2.json](./241074-pow-2.json) |
@@ -4768,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Soccer | 48305 | [48305-power-soccer.json](./48305-power-soccer.json) |
 | Power Soccer 2 | 93996 | [93996-power-soccer-2.json](./93996-power-soccer-2.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
+| Power Solenoid: BennyJr | 332608 | [332608-power-solenoid-bennyjr.json](./332608-power-solenoid-bennyjr.json) |
 | Power Sphere | 53471 | [53471-power-sphere.json](./53471-power-sphere.json) |
 | Power Spike: Pro Beach Volleyball | 44888 | [44888-power-spike-pro-beach-volleyball.json](./44888-power-spike-pro-beach-volleyball.json) |
 | Power Spikes | 38569 | [38569-power-spikes.json](./38569-power-spikes.json) |
