@@ -4126,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodrun | 304196 | [304196-bloodrun.json](./304196-bloodrun.json) |
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | Bloodscript//End | 409653 | [409653-bloodscript-end.json](./409653-bloodscript-end.json) |
+| Bloodshed | 317982 | [317982-bloodshed.json](./317982-bloodshed.json) |
 | Bloodshot | 398969 | [398969-bloodshot.json](./398969-bloodshot.json) |
 | Bloodshots | 277436 | [277436-bloodshots.json](./277436-bloodshots.json) |
 | BloodSpiller | 392805 | [392805-bloodspiller.json](./392805-bloodspiller.json) |
@@ -4194,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons | 93561 | [93561-bloons.json](./93561-bloons.json) |
 | Bloons 2 | 63569 | [63569-bloons-2.json](./63569-bloons-2.json) |
 | Bloons 2 Christmas Expansion | 326782 | [326782-bloons-2-christmas-expansion.json](./326782-bloons-2-christmas-expansion.json) |
+| Bloons 2: Spring Fling | 318006 | [318006-bloons-2-spring-fling.json](./318006-bloons-2-spring-fling.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
 | Bloons Card Storm | 314325 | [314325-bloons-card-storm.json](./314325-bloons-card-storm.json) |
 | Bloons Insanity | 63568 | [63568-bloons-insanity.json](./63568-bloons-insanity.json) |
@@ -5341,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bram Stoker's Dracula | 14341 | [14341-bram-stokers-dracula.json](./14341-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14342 | [14342-bram-stokers-dracula.json](./14342-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 5366 | [5366-bram-stokers-dracula.json](./5366-bram-stokers-dracula.json) |
+| Bramble Royale: A Meteorfall Story | 317991 | [317991-bramble-royale-a-meteorfall-story.json](./317991-bramble-royale-a-meteorfall-story.json) |
 | Brambles in the Mist | 168338 | [168338-brambles-in-the-mist.json](./168338-brambles-in-the-mist.json) |
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
 | Branchbound: Launch of the Logs | 377064 | [377064-branchbound-launch-of-the-logs.json](./377064-branchbound-launch-of-the-logs.json) |
