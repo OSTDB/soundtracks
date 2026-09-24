@@ -3176,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melone in the Dark | 177404 | [177404-melone-in-the-dark.json](./177404-melone-in-the-dark.json) |
 | Melt Abyss | 353902 | [353902-melt-abyss.json](./353902-melt-abyss.json) |
 | Melt Away | 330896 | [330896-melt-away.json](./330896-melt-away.json) |
+| Melt Down | 294238 | [294238-melt-down.json](./294238-melt-down.json) |
 | Meltdown | 80511 | [80511-meltdown.json](./80511-meltdown.json) |
 | Meltdown Masters | 415885 | [415885-meltdown-masters.json](./415885-meltdown-masters.json) |
 | Melted Time | 336526 | [336526-melted-time.json](./336526-melted-time.json) |
