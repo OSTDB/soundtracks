@@ -5708,6 +5708,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Arcade | 310572 | [310572-dreamland-arcade.json](./310572-dreamland-arcade.json) |
 | Dreamland Escape | 130338 | [130338-dreamland-escape.json](./130338-dreamland-escape.json) |
 | Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
+| Dreamland Farm: Banner | 324443 | [324443-dreamland-farm-banner.json](./324443-dreamland-farm-banner.json) |
+| Dreamland Farm: House Furnitures | 324460 | [324460-dreamland-farm-house-furnitures.json](./324460-dreamland-farm-house-furnitures.json) |
+| Dreamland Farm: Kitchen Furnitures | 324461 | [324461-dreamland-farm-kitchen-furnitures.json](./324461-dreamland-farm-kitchen-furnitures.json) |
 | Dreamland Farm: Stone Fence and Tiles | 324477 | [324477-dreamland-farm-stone-fence-and-tiles.json](./324477-dreamland-farm-stone-fence-and-tiles.json) |
 | Dreamland: Village Life | 208446 | [208446-dreamland-village-life.json](./208446-dreamland-village-life.json) |
 | Dreamlander | 147805 | [147805-dreamlander.json](./147805-dreamlander.json) |
