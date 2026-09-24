@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
 | A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
+| A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
@@ -2887,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And one day everything changed... | 318618 | [318618-and-one-day-everything-changed.json](./318618-and-one-day-everything-changed.json) |
 | And Roger | 324784 | [324784-and-roger.json](./324784-and-roger.json) |
 | And the Band Begins to Play | 144752 | [144752-and-the-band-begins-to-play.json](./144752-and-the-band-begins-to-play.json) |
+| And The World Went Dark | 334296 | [334296-and-the-world-went-dark.json](./334296-and-the-world-went-dark.json) |
 | And Yet It Moves | 9772 | [9772-and-yet-it-moves.json](./9772-and-yet-it-moves.json) |
 | Anda | 266885 | [266885-anda.json](./266885-anda.json) |
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
@@ -5082,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assemblage of Angels | 299123 | [299123-assemblage-of-angels.json](./299123-assemblage-of-angels.json) |
 | Assemblands | 339372 | [339372-assemblands.json](./339372-assemblands.json) |
 | Assemble | 266778 | [266778-assemble.json](./266778-assemble.json) |
+| Assemble Ensemble | 334315 | [334315-assemble-ensemble.json](./334315-assemble-ensemble.json) |
 | Assemble the Car | 233488 | [233488-assemble-the-car.json](./233488-assemble-the-car.json) |
 | Assemble! | 304679 | [304679-assemble.json](./304679-assemble.json) |
 | Assemble!: Classic and Future Vehicles | 340559 | [340559-assemble-classic-and-future-vehicles.json](./340559-assemble-classic-and-future-vehicles.json) |
@@ -5322,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
+| Astromattech | 334320 | [334320-astromattech.json](./334320-astromattech.json) |
 | AstroMiner | 119546 | [119546-astrominer.json](./119546-astrominer.json) |
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
 | Astron Belt | 22732 | [22732-astron-belt.json](./22732-astron-belt.json) |
