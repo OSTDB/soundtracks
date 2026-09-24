@@ -2804,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The City of Time | 134415 | [134415-the-city-of-time.json](./134415-the-city-of-time.json) |
 | The City: Superhero Flying Experience | 370881 | [370881-the-city-superhero-flying-experience.json](./370881-the-city-superhero-flying-experience.json) |
 | The Civil War A Nation Divided | 43548 | [43548-the-civil-war-a-nation-divided.json](./43548-the-civil-war-a-nation-divided.json) |
+| The Civvie 11 Massacre | 303019 | [303019-the-civvie-11-massacre.json](./303019-the-civvie-11-massacre.json) |
 | The Clans - Saga of the Twins | 35943 | [35943-the-clans-saga-of-the-twins.json](./35943-the-clans-saga-of-the-twins.json) |
 | The Class President is Home From School Today! | 97700 | [97700-the-class-president-is-home-from-school-today.json](./97700-the-class-president-is-home-from-school-today.json) |
 | The Classic Episode | 196249 | [196249-the-classic-episode.json](./196249-the-classic-episode.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragon Queen | 238526 | [238526-the-dragon-queen.json](./238526-the-dragon-queen.json) |
 | The Dragon Sword | 149934 | [149934-the-dragon-sword.json](./149934-the-dragon-sword.json) |
 | The Dragon, Thyme | 280779 | [280779-the-dragon-thyme.json](./280779-the-dragon-thyme.json) |
+| The Dragon's Turnabout | 303025 | [303025-the-dragons-turnabout.json](./303025-the-dragons-turnabout.json) |
 | The Dragoness: Command of the Flame | 211984 | [211984-the-dragoness-command-of-the-flame.json](./211984-the-dragoness-command-of-the-flame.json) |
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
 | The Draugr | 107004 | [107004-the-draugr.json](./107004-the-draugr.json) |
@@ -3542,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fancy Pants Adventures: World 2 | 66009 | [66009-the-fancy-pants-adventures-world-2.json](./66009-the-fancy-pants-adventures-world-2.json) |
 | The Fancy Pants Adventures: World 4 | 210712 | [210712-the-fancy-pants-adventures-world-4.json](./210712-the-fancy-pants-adventures-world-4.json) |
 | The Fantastic Adventures of Mr. Don and Friends | 372982 | [372982-the-fantastic-adventures-of-mr-don-and-friends.json](./372982-the-fantastic-adventures-of-mr-don-and-friends.json) |
+| The Fantastic Fivesome | 303015 | [303015-the-fantastic-fivesome.json](./303015-the-fantastic-fivesome.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
 | The Fantasy Village | 108268 | [108268-the-fantasy-village.json](./108268-the-fantasy-village.json) |
 | The Far Kingdoms: Forgotten Relics | 149927 | [149927-the-far-kingdoms-forgotten-relics.json](./149927-the-far-kingdoms-forgotten-relics.json) |
@@ -6629,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator 2029: Deluxe CD Edition | 358341 | [358341-the-terminator-2029-deluxe-cd-edition.json](./358341-the-terminator-2029-deluxe-cd-edition.json) |
 | The Terminator 2029: Operation Scour | 15508 | [15508-the-terminator-2029-operation-scour.json](./15508-the-terminator-2029-operation-scour.json) |
 | The Terminator: Future Shock | 8413 | [8413-the-terminator-future-shock.json](./8413-the-terminator-future-shock.json) |
+| The Terraces | 303018 | [303018-the-terraces.json](./303018-the-terraces.json) |
 | The Terrible Old Man | 122170 | [122170-the-terrible-old-man.json](./122170-the-terrible-old-man.json) |
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
@@ -9626,6 +9630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gear Rally | 3617 | [3617-top-gear-rally.json](./3617-top-gear-rally.json) |
 | Top Gear: Dare Devil | 43274 | [43274-top-gear-dare-devil.json](./43274-top-gear-dare-devil.json) |
 | Top Gear: Stunt School SSR | 257363 | [257363-top-gear-stunt-school-ssr.json](./257363-top-gear-stunt-school-ssr.json) |
+| Top God: Idle Heroes | 303038 | [303038-top-god-idle-heroes.json](./303038-top-god-idle-heroes.json) |
 | Top Gun | 187357 | [187357-top-gun.json](./187357-top-gun.json) |
 | Top Gun | 196226 | [196226-top-gun.json](./196226-top-gun.json) |
 | Top Gun Global War | 380404 | [380404-top-gun-global-war.json](./380404-top-gun-global-war.json) |
