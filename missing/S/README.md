@@ -1144,6 +1144,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Maze | 72059 | [72059-school-maze.json](./72059-school-maze.json) |
 | School of Dragons: How to Train Your Dragon | 36191 | [36191-school-of-dragons-how-to-train-your-dragon.json](./36191-school-of-dragons-how-to-train-your-dragon.json) |
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
+| School Out Simulator2 | 296443 | [296443-school-out-simulator2.json](./296443-school-out-simulator2.json) |
+| School Out Simulator3 | 296444 | [296444-school-out-simulator3.json](./296444-school-out-simulator3.json) |
 | School Owner Simulator | 406932 | [406932-school-owner-simulator.json](./406932-school-owner-simulator.json) |
 | School Paranormal Laboratory | 294289 | [294289-school-paranormal-laboratory.json](./294289-school-paranormal-laboratory.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
@@ -1294,6 +1296,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Experiments | 363962 | [363962-scp-experiments.json](./363962-scp-experiments.json) |
 | SCP: Forgotten Facility | 151005 | [151005-scp-forgotten-facility.json](./151005-scp-forgotten-facility.json) |
 | SCP: Fragmented Minds | 137487 | [137487-scp-fragmented-minds.json](./137487-scp-fragmented-minds.json) |
+| SCP: Hellworks | 296461 | [296461-scp-hellworks.json](./296461-scp-hellworks.json) |
+| SCP: Hours to Go | 296462 | [296462-scp-hours-to-go.json](./296462-scp-hours-to-go.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
 | SCP: Rulebreaker | 279770 | [279770-scp-rulebreaker.json](./279770-scp-rulebreaker.json) |
@@ -1543,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seablip | 144811 | [144811-seablip.json](./144811-seablip.json) |
 | Seaborn | 176450 | [176450-seaborn.json](./176450-seaborn.json) |
 | SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
+| Seafarer | 296463 | [296463-seafarer.json](./296463-seafarer.json) |
 | Seafarer's Gambit | 329172 | [329172-seafarers-gambit.json](./329172-seafarers-gambit.json) |
 | Seafight | 59655 | [59655-seafight.json](./59655-seafight.json) |
 | Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
@@ -2854,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
 | Shark Pinball | 165614 | [165614-shark-pinball.json](./165614-shark-pinball.json) |
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
+| Shark Siege | 296460 | [296460-shark-siege.json](./296460-shark-siege.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
 | Shark Trap | 24901 | [24901-shark-trap.json](./24901-shark-trap.json) |
 | Shark! Hunting the Great White | 71770 | [71770-shark-hunting-the-great-white.json](./71770-shark-hunting-the-great-white.json) |
@@ -8761,6 +8767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square of Joy | 312733 | [312733-square-of-joy.json](./312733-square-of-joy.json) |
 | Square Rounds | 219687 | [219687-square-rounds.json](./219687-square-rounds.json) |
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
+| Square Saga: The Trials | 296469 | [296469-square-saga-the-trials.json](./296469-square-saga-the-trials.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
 | Square Worlds | 185538 | [185538-square-worlds.json](./185538-square-worlds.json) |
@@ -8848,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SRX | 133368 | [133368-srx.json](./133368-srx.json) |
 | SS.Archives | 253433 | [253433-ss-archives.json](./253433-ss-archives.json) |
 | SSGN Covert Cruise Special Attack Strategy | 112159 | [112159-ssgn-covert-cruise-special-attack-strategy.json](./112159-ssgn-covert-cruise-special-attack-strategy.json) |
+| SSR Wives: The Murder Of My Winter Crush | 296468 | [296468-ssr-wives-the-murder-of-my-winter-crush.json](./296468-ssr-wives-the-murder-of-my-winter-crush.json) |
 | SSSM: In the Shadow of Jupiter | 221295 | [221295-sssm-in-the-shadow-of-jupiter.json](./221295-sssm-in-the-shadow-of-jupiter.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
 | SSX | 4179 | [4179-ssx.json](./4179-ssx.json) |
@@ -10336,6 +10344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Strikers | 124746 | [124746-storm-strikers.json](./124746-storm-strikers.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
 | Storm Tale 2 & Ancient Relics: Adventure Bundle | 387681 | [387681-storm-tale-2-and-ancient-relics-adventure-bundle.json](./387681-storm-tale-2-and-ancient-relics-adventure-bundle.json) |
+| Storm The Court | 296470 | [296470-storm-the-court.json](./296470-storm-the-court.json) |
 | Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
@@ -11008,6 +11017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subpoena Magus | 383933 | [383933-subpoena-magus.json](./383933-subpoena-magus.json) |
 | Subrov | 152859 | [152859-subrov.json](./152859-subrov.json) |
 | Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
+| Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
 | Substructure | 380408 | [380408-substructure.json](./380408-substructure.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subsurface | 411732 | [411732-subsurface.json](./411732-subsurface.json) |
