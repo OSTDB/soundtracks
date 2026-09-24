@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darling II: Backlash | 203328 | [203328-darling-ii-backlash.json](./203328-darling-ii-backlash.json) |
 | Darling Pet | 188590 | [188590-darling-pet.json](./188590-darling-pet.json) |
 | Darn Guy Adventures | 365183 | [365183-darn-guy-adventures.json](./365183-darn-guy-adventures.json) |
+| Darok | 309447 | [309447-darok.json](./309447-darok.json) |
 | Darq: The Crypt | 167767 | [167767-darq-the-crypt.json](./167767-darq-the-crypt.json) |
 | Darrell 3D | 416678 | [416678-darrell-3d.json](./416678-darrell-3d.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
@@ -1702,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmatch Club | 130740 | [130740-deathmatch-club.json](./130740-deathmatch-club.json) |
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
+| Deathpuddle: Choose Violence? | 309459 | [309459-deathpuddle-choose-violence.json](./309459-deathpuddle-choose-violence.json) |
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
 | Deathrun TV | 152284 | [152284-deathrun-tv.json](./152284-deathrun-tv.json) |
 | Deaths of Peck | 398425 | [398425-deaths-of-peck.json](./398425-deaths-of-peck.json) |
@@ -1751,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decide Your Fate | 405694 | [405694-decide-your-fate.json](./405694-decide-your-fate.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
+| Decipher the Deck | 309473 | [309473-decipher-the-deck.json](./309473-decipher-the-deck.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
 | Decision in the Desert | 25923 | [25923-decision-in-the-desert.json](./25923-decision-in-the-desert.json) |
 | Decisive Battles of WWII: Korsun Pocket | 768 | [768-decisive-battles-of-wwii-korsun-pocket.json](./768-decisive-battles-of-wwii-korsun-pocket.json) |
@@ -2989,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diavolo no Daibouken | 219042 | [219042-diavolo-no-daibouken.json](./219042-diavolo-no-daibouken.json) |
 | Dib's Nanochase | 191879 | [191879-dibs-nanochase.json](./191879-dibs-nanochase.json) |
 | Dice | 288365 | [288365-dice.json](./288365-dice.json) |
+| Dice | 309457 | [309457-dice.json](./309457-dice.json) |
 | Dice & Fold | 276684 | [276684-dice-and-fold.json](./276684-dice-and-fold.json) |
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
 | Dice Battle | 279007 | [279007-dice-battle.json](./279007-dice-battle.json) |
