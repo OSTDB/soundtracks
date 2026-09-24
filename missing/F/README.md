@@ -3692,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forlorn Outcast | 260226 | [260226-forlorn-outcast.json](./260226-forlorn-outcast.json) |
 | Form | 28446 | [28446-form.json](./28446-form.json) |
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
+| Formaggio 2 | 327365 | [327365-formaggio-2.json](./327365-formaggio-2.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
 | Formation Soccer 2002 | 49575 | [49575-formation-soccer-2002.json](./49575-formation-soccer-2002.json) |
@@ -4067,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frag-A-Friend | 408165 | [408165-frag-a-friend.json](./408165-frag-a-friend.json) |
 | Fraga | 397270 | [397270-fraga.json](./397270-fraga.json) |
 | Fragger | 94183 | [94183-fragger.json](./94183-fragger.json) |
+| Fragging Free | 327339 | [327339-fragging-free.json](./327339-fragging-free.json) |
 | Fragile Ascent | 292010 | [292010-fragile-ascent.json](./292010-fragile-ascent.json) |
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
 | Fragile Reflection | 309533 | [309533-fragile-reflection.json](./309533-fragile-reflection.json) |
