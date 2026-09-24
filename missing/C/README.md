@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellofania | 279580 | [279580-cellofania.json](./279580-cellofania.json) |
 | Cellular Harvest: Purple | 152276 | [152276-cellular-harvest-purple.json](./152276-cellular-harvest-purple.json) |
 | Cellular Survival | 296346 | [296346-cellular-survival.json](./296346-cellular-survival.json) |
+| Cellyon: Boss Maker | 322717 | [322717-cellyon-boss-maker.json](./322717-cellyon-boss-maker.json) |
 | Celted | 176478 | [176478-celted.json](./176478-celted.json) |
 | Celtic Carnage | 58821 | [58821-celtic-carnage.json](./58821-celtic-carnage.json) |
 | Celtic Football Coach | 138212 | [138212-celtic-football-coach.json](./138212-celtic-football-coach.json) |
@@ -2845,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Tousouchuu & Chou Sentouchuu Double Pack | 107656 | [107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json](./107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json) |
 | Chou Yakkyou Miracle Nine | 45541 | [45541-chou-yakkyou-miracle-nine.json](./45541-chou-yakkyou-miracle-nine.json) |
 | Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
+| Choujin | 322743 | [322743-choujin.json](./322743-choujin.json) |
 | Choujin Baseball Stadium: Nekketsu Story | 222398 | [222398-choujin-baseball-stadium-nekketsu-story.json](./222398-choujin-baseball-stadium-nekketsu-story.json) |
 | Choujin Heiki Zeroigar | 45960 | [45960-choujin-heiki-zeroigar.json](./45960-choujin-heiki-zeroigar.json) |
 | Chousenshi Densetsu: Assault from the Sea | 62189 | [62189-chousenshi-densetsu-assault-from-the-sea.json](./62189-chousenshi-densetsu-assault-from-the-sea.json) |
@@ -6167,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Slots | 395241 | [395241-creepy-slots.json](./395241-creepy-slots.json) |
 | Creepy Support | 345029 | [345029-creepy-support.json](./345029-creepy-support.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
+| Creepy Waves FM: Bugs Fixer | 322724 | [322724-creepy-waves-fm-bugs-fixer.json](./322724-creepy-waves-fm-bugs-fixer.json) |
 | CreepyDates | 408876 | [408876-creepydates.json](./408876-creepydates.json) |
 | Creepypasta Land | 130346 | [130346-creepypasta-land.json](./130346-creepypasta-land.json) |
 | Creepypasta Land 2: SCP Force | 130349 | [130349-creepypasta-land-2-scp-force.json](./130349-creepypasta-land-2-scp-force.json) |
