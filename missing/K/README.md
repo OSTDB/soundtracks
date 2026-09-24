@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick-the-Can | 296101 | [296101-kick-the-can.json](./296101-kick-the-can.json) |
 | Kickabit | 319966 | [319966-kickabit.json](./319966-kickabit.json) |
 | Kickback | 108491 | [108491-kickback.json](./108491-kickback.json) |
+| Kickboxer | 336156 | [336156-kickboxer.json](./336156-kickboxer.json) |
 | Kickdom | 378213 | [378213-kickdom.json](./378213-kickdom.json) |
 | kicker VR | 102182 | [102182-kicker-vr.json](./102182-kicker-vr.json) |
 | Kickerinho World | 153829 | [153829-kickerinho-world.json](./153829-kickerinho-world.json) |
@@ -950,6 +951,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor | 2949 | [2949-killing-floor.json](./2949-killing-floor.json) |
 | Killing Floor 2: Deluxe Edition | 53242 | [53242-killing-floor-2-deluxe-edition.json](./53242-killing-floor-2-deluxe-edition.json) |
 | Killing Floor 2: Digital Deluxe Edition | 53241 | [53241-killing-floor-2-digital-deluxe-edition.json](./53241-killing-floor-2-digital-deluxe-edition.json) |
+| Killing Floor III: Deluxe Edition | 336131 | [336131-killing-floor-iii-deluxe-edition.json](./336131-killing-floor-iii-deluxe-edition.json) |
+| Killing Floor III: Elite Nightfall Edition | 336153 | [336153-killing-floor-iii-elite-nightfall-edition.json](./336153-killing-floor-iii-elite-nightfall-edition.json) |
 | Killing Floor III: Operation Breakout | 380411 | [380411-killing-floor-iii-operation-breakout.json](./380411-killing-floor-iii-operation-breakout.json) |
 | Killing Floor III: Rearmament | 370716 | [370716-killing-floor-iii-rearmament.json](./370716-killing-floor-iii-rearmament.json) |
 | Killing Floor: Calamity | 51176 | [51176-killing-floor-calamity.json](./51176-killing-floor-calamity.json) |
@@ -2196,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KurOba | 275735 | [275735-kuroba.json](./275735-kuroba.json) |
 | Kuroba: Oghuz | 409581 | [409581-kuroba-oghuz.json](./409581-kuroba-oghuz.json) |
 | Kurofune: descobrimentos portugueses | 278545 | [278545-kurofune-descobrimentos-portugueses.json](./278545-kurofune-descobrimentos-portugueses.json) |
+| Kurogane Kaikijong | 336113 | [336113-kurogane-kaikijong.json](./336113-kurogane-kaikijong.json) |
 | Kurogane no Linebarrels | 56748 | [56748-kurogane-no-linebarrels.json](./56748-kurogane-no-linebarrels.json) |
 | Kurohi | 397677 | [397677-kurohi.json](./397677-kurohi.json) |
 | Kurohyou: Ryuu ga Gotoku Shinshou | 66611 | [66611-kurohyou-ryuu-ga-gotoku-shinshou.json](./66611-kurohyou-ryuu-ga-gotoku-shinshou.json) |
