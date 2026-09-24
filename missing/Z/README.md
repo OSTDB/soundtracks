@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zball VI | 158574 | [158574-zball-vi.json](./158574-zball-vi.json) |
 | Zbuki Zoo Strategic Comedy | 265259 | [265259-zbuki-zoo-strategic-comedy.json](./265259-zbuki-zoo-strategic-comedy.json) |
 | Zday Survival Simulator | 202840 | [202840-zday-survival-simulator.json](./202840-zday-survival-simulator.json) |
+| ZDog Hotel Hero Z | 305849 | [305849-zdog-hotel-hero-z.json](./305849-zdog-hotel-hero-z.json) |
 | ZDoom Adventures! | 252215 | [252215-zdoom-adventures.json](./252215-zdoom-adventures.json) |
 | ZDSimulator: Shevchenko-Timkove Route | 392436 | [392436-zdsimulator-shevchenko-timkove-route.json](./392436-zdsimulator-shevchenko-timkove-route.json) |
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
