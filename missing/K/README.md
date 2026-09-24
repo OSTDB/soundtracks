@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiln: Stickers of the Gods Sticker Pack | 407413 | [407413-kiln-stickers-of-the-gods-sticker-pack.json](./407413-kiln-stickers-of-the-gods-sticker-pack.json) |
 | Kiloblaster | 79333 | [79333-kiloblaster.json](./79333-kiloblaster.json) |
 | Kiloparsec Uprising | 275095 | [275095-kiloparsec-uprising.json](./275095-kiloparsec-uprising.json) |
+| Kiloton | 330911 | [330911-kiloton.json](./330911-kiloton.json) |
 | Kilubu Magic Potions 2 | 213397 | [213397-kilubu-magic-potions-2.json](./213397-kilubu-magic-potions-2.json) |
 | Kim | 25225 | [25225-kim.json](./25225-kim.json) |
 | Kim and Prostitute | 102410 | [102410-kim-and-prostitute.json](./102410-kim-and-prostitute.json) |
@@ -1751,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knowledge Fever | 245863 | [245863-knowledge-fever.json](./245863-knowledge-fever.json) |
 | Knowledge Party | 275353 | [275353-knowledge-party.json](./275353-knowledge-party.json) |
 | Knowledge, or Know Lady | 290941 | [290941-knowledge-or-know-lady.json](./290941-knowledge-or-know-lady.json) |
+| Known Mysteries | 330826 | [330826-known-mysteries.json](./330826-known-mysteries.json) |
 | Knuckers Test Fight | 172182 | [172182-knuckers-test-fight.json](./172182-knuckers-test-fight.json) |
 | Knuckle Heads | 39588 | [39588-knuckle-heads.json](./39588-knuckle-heads.json) |
 | Knuckle Jet | 336521 | [336521-knuckle-jet.json](./336521-knuckle-jet.json) |
