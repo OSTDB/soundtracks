@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You and Me and Her: A Love Story | 133256 | [133256-you-and-me-and-her-a-love-story.json](./133256-you-and-me-and-her-a-love-story.json) |
 | You Are A Pilot | 189148 | [189148-you-are-a-pilot.json](./189148-you-are-a-pilot.json) |
 | You Are a Torpedo AI | 75777 | [75777-you-are-a-torpedo-ai.json](./75777-you-are-a-torpedo-ai.json) |
+| You are an Ancient Chinese Poet in Exile | 326768 | [326768-you-are-an-ancient-chinese-poet-in-exile.json](./326768-you-are-an-ancient-chinese-poet-in-exile.json) |
 | You are Awake Now | 234716 | [234716-you-are-awake-now.json](./234716-you-are-awake-now.json) |
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
 | You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
