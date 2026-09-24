@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallowed Legends: Templar - Collector's Edition | 376584 | [376584-hallowed-legends-templar-collectors-edition.json](./376584-hallowed-legends-templar-collectors-edition.json) |
 | Halloween | 40790 | [40790-halloween.json](./40790-halloween.json) |
 | Halloween | 80499 | [80499-halloween.json](./80499-halloween.json) |
+| Halloween 1 | 300824 | [300824-halloween-1.json](./300824-halloween-1.json) |
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
 | Halloween Candy Break Head to Head | 210084 | [210084-halloween-candy-break-head-to-head.json](./210084-halloween-candy-break-head-to-head.json) |
 | Halloween Chronicles: Behind the Door | 187938 | [187938-halloween-chronicles-behind-the-door.json](./187938-halloween-chronicles-behind-the-door.json) |
@@ -1628,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellkid: Hook & Jump | 184071 | [184071-hellkid-hook-and-jump.json](./184071-hellkid-hook-and-jump.json) |
 | Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
 | Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
+| Hellmouth Pizza | 300812 | [300812-hellmouth-pizza.json](./300812-hellmouth-pizza.json) |
 | Hello Again | 207361 | [207361-hello-again.json](./207361-hello-again.json) |
 | Hello Bendy Machine 5 Nights | 104126 | [104126-hello-bendy-machine-5-nights.json](./104126-hello-bendy-machine-5-nights.json) |
 | Hello Benny - Horror Machine | 106379 | [106379-hello-benny-horror-machine.json](./106379-hello-benny-horror-machine.json) |
@@ -2785,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Crush | 86812 | [86812-high-school-crush.json](./86812-high-school-crush.json) |
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
+| High School Detective: Romance Visual Novel | 300780 | [300780-high-school-detective-romance-visual-novel.json](./300780-high-school-detective-romance-visual-novel.json) |
 | High School Escape 2 | 96702 | [96702-high-school-escape-2.json](./96702-high-school-escape-2.json) |
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
