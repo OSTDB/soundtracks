@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
 | Welcome Googoo | 330889 | [330889-welcome-googoo.json](./330889-welcome-googoo.json) |
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
+| Welcome Home | 327352 | [327352-welcome-home.json](./327352-welcome-home.json) |
 | Welcome House | 62987 | [62987-welcome-house.json](./62987-welcome-house.json) |
 | Welcome House 2: Keaton and His Uncle | 62985 | [62985-welcome-house-2-keaton-and-his-uncle.json](./62985-welcome-house-2-keaton-and-his-uncle.json) |
 | Welcome into the Forest of Aurora !! | 70344 | [70344-welcome-into-the-forest-of-aurora.json](./70344-welcome-into-the-forest-of-aurora.json) |
@@ -2276,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch | 120153 | [120153-witch.json](./120153-witch.json) |
 | Witch | 299159 | [299159-witch.json](./299159-witch.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
+| Witch & Fairy Dungeon | 327311 | [327311-witch-and-fairy-dungeon.json](./327311-witch-and-fairy-dungeon.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
 | Witch Amelia | 219670 | [219670-witch-amelia.json](./219670-witch-amelia.json) |
 | Witch Blood | 107831 | [107831-witch-blood.json](./107831-witch-blood.json) |
@@ -2992,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Rune | 263057 | [263057-world-of-rune.json](./263057-world-of-rune.json) |
 | World of Sea Battle | 59962 | [59962-world-of-sea-battle.json](./59962-world-of-sea-battle.json) |
 | World of Shells | 329653 | [329653-world-of-shells.json](./329653-world-of-shells.json) |
+| World of Slavic Glasses | 327363 | [327363-world-of-slavic-glasses.json](./327363-world-of-slavic-glasses.json) |
 | World of Slime | 415114 | [415114-world-of-slime.json](./415114-world-of-slime.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
 | World Of Sports | 370756 | [370756-world-of-sports.json](./370756-world-of-sports.json) |
