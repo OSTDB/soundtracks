@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
 | Orange Man Smash! | 412432 | [412432-orange-man-smash.json](./412432-orange-man-smash.json) |
 | Orange Ocean | 396412 | [396412-orange-ocean.json](./396412-orange-ocean.json) |
+| Orange Roulette | 320338 | [320338-orange-roulette.json](./320338-orange-roulette.json) |
 | Orange Santa | 151131 | [151131-orange-santa.json](./151131-orange-santa.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
 | Orangia | 366934 | [366934-orangia.json](./366934-orangia.json) |
