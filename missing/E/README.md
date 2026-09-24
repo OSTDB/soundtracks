@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESHQ | 327410 | [327410-eshq.json](./327410-eshq.json) |
 | Eskimo Eddie | 13843 | [13843-eskimo-eddie.json](./13843-eskimo-eddie.json) |
 | Eskimo Games | 80527 | [80527-eskimo-games.json](./80527-eskimo-games.json) |
+| Esklavos C1 | 315001 | [315001-esklavos-c1.json](./315001-esklavos-c1.json) |
 | Esklavos C10 | 315080 | [315080-esklavos-c10.json](./315080-esklavos-c10.json) |
 | Esklavos C11 | 315082 | [315082-esklavos-c11.json](./315082-esklavos-c11.json) |
 | Esklavos C12 | 315083 | [315083-esklavos-c12.json](./315083-esklavos-c12.json) |
@@ -2066,6 +2067,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esklavos C15 | 315089 | [315089-esklavos-c15.json](./315089-esklavos-c15.json) |
 | Esklavos C16 | 315092 | [315092-esklavos-c16.json](./315092-esklavos-c16.json) |
 | Esklavos C17 | 315096 | [315096-esklavos-c17.json](./315096-esklavos-c17.json) |
+| Esklavos C2 | 315002 | [315002-esklavos-c2.json](./315002-esklavos-c2.json) |
+| Esklavos C3 | 315003 | [315003-esklavos-c3.json](./315003-esklavos-c3.json) |
+| Esklavos C4 | 315004 | [315004-esklavos-c4.json](./315004-esklavos-c4.json) |
+| Esklavos C5 | 315005 | [315005-esklavos-c5.json](./315005-esklavos-c5.json) |
+| Esklavos C6 | 315040 | [315040-esklavos-c6.json](./315040-esklavos-c6.json) |
 | Esklavos C7 | 315073 | [315073-esklavos-c7.json](./315073-esklavos-c7.json) |
 | Esklavos C8 | 315074 | [315074-esklavos-c8.json](./315074-esklavos-c8.json) |
 | Esklavos C9 | 315075 | [315075-esklavos-c9.json](./315075-esklavos-c9.json) |
