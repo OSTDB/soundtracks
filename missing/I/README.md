@@ -2225,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
 | Iron Danger | 101065 | [101065-iron-danger.json](./101065-iron-danger.json) |
+| Iron Dawn | 286033 | [286033-iron-dawn.json](./286033-iron-dawn.json) |
 | Iron Decree | 326205 | [326205-iron-decree.json](./326205-iron-decree.json) |
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
 | Iron Emblem | 215765 | [215765-iron-emblem.json](./215765-iron-emblem.json) |
