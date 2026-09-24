@@ -2530,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewind or Die | 244116 | [244116-rewind-or-die.json](./244116-rewind-or-die.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
 | ReWire | 348839 | [348839-rewire.json](./348839-rewire.json) |
+| Rework | 310507 | [310507-rework.json](./310507-rework.json) |
 | Rewrite - DYH | 142892 | [142892-rewrite-dyh.json](./142892-rewrite-dyh.json) |
 | Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
@@ -3054,9 +3055,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk & Riches | 333646 | [333646-risk-and-riches.json](./333646-risk-and-riches.json) |
 | Risk Battleship Clue | 138001 | [138001-risk-battleship-clue.json](./138001-risk-battleship-clue.json) |
 | Risk of Rain | 3173 | [3173-risk-of-rain.json](./3173-risk-of-rain.json) |
+| Risk of Rain 2: Aetherium | 310531 | [310531-risk-of-rain-2-aetherium.json](./310531-risk-of-rain-2-aetherium.json) |
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
 | Risk of Rain 2: Hallowed Concepts | 397819 | [397819-risk-of-rain-2-hallowed-concepts.json](./397819-risk-of-rain-2-hallowed-concepts.json) |
 | Risk of Rain 2: Seekers of the Storm | 276287 | [276287-risk-of-rain-2-seekers-of-the-storm.json](./276287-risk-of-rain-2-seekers-of-the-storm.json) |
+| Risk of Rain 2: Starstorm 2 | 310529 | [310529-risk-of-rain-2-starstorm-2.json](./310529-risk-of-rain-2-starstorm-2.json) |
 | Risk of Rain Returns | 229794 | [229794-risk-of-rain-returns.json](./229794-risk-of-rain-returns.json) |
 | Risk of Rain: Meridian | 316994 | [316994-risk-of-rain-meridian.json](./316994-risk-of-rain-meridian.json) |
 | Risk of Rain: Starstorm | 262102 | [262102-risk-of-rain-starstorm.json](./262102-risk-of-rain-starstorm.json) |
@@ -4226,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Club | 368547 | [368547-roulette-club.json](./368547-roulette-club.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
+| Roulette Simulator 2025 | 310503 | [310503-roulette-simulator-2025.json](./310503-roulette-simulator-2025.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
 | Round Invaders Rush 2 | 214039 | [214039-round-invaders-rush-2.json](./214039-round-invaders-rush-2.json) |
 | Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
