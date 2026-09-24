@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LingerToAlive | 231351 | [231351-lingertoalive.json](./231351-lingertoalive.json) |
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
 | Língjiè Zhànxiàn | 127189 | [127189-lingjie-zhanxian.json](./127189-lingjie-zhanxian.json) |
+| Lingjing | 284963 | [284963-lingjing.json](./284963-lingjing.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
 | Lingo Deluxe | 327319 | [327319-lingo-deluxe.json](./327319-lingo-deluxe.json) |
 | Lingo Legend | 198258 | [198258-lingo-legend.json](./198258-lingo-legend.json) |
