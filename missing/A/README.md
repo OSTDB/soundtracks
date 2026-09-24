@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
+| A Light Jog | 315018 | [315018-a-light-jog.json](./315018-a-light-jog.json) |
 | A Lighthouse Tale | 410433 | [410433-a-lighthouse-tale.json](./410433-a-lighthouse-tale.json) |
 | A Line in the Sand | 12440 | [12440-a-line-in-the-sand.json](./12440-a-line-in-the-sand.json) |
 | A Little Golf Journey | 132300 | [132300-a-little-golf-journey.json](./132300-a-little-golf-journey.json) |
@@ -736,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achilles-Sword-ll | 379036 | [379036-achilles-sword-ll.json](./379036-achilles-sword-ll.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Achilles: Survivor | 319802 | [319802-achilles-survivor.json](./319802-achilles-survivor.json) |
+| Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
@@ -878,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrenaline or Die | 379563 | [379563-adrenaline-or-die.json](./379563-adrenaline-or-die.json) |
 | Adrenaline Overload Bundle | 396439 | [396439-adrenaline-overload-bundle.json](./396439-adrenaline-overload-bundle.json) |
 | Adrenaline Rush 4‑Pack | 396438 | [396438-adrenaline-rush-4-pack.json](./396438-adrenaline-rush-4-pack.json) |
+| Adrian Ford in the Tomb of the Moon | 314994 | [314994-adrian-ford-in-the-tomb-of-the-moon.json](./314994-adrian-ford-in-the-tomb-of-the-moon.json) |
 | Adrift | 304673 | [304673-adrift.json](./304673-adrift.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
@@ -2796,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
 | An Aquatic Pokemon Tale | 323758 | [323758-an-aquatic-pokemon-tale.json](./323758-an-aquatic-pokemon-tale.json) |
 | An Architect's Adventure | 211403 | [211403-an-architects-adventure.json](./211403-an-architects-adventure.json) |
+| An Aunt After My Own Heart | 314989 | [314989-an-aunt-after-my-own-heart.json](./314989-an-aunt-after-my-own-heart.json) |
 | An Autumn With You | 181846 | [181846-an-autumn-with-you.json](./181846-an-autumn-with-you.json) |
 | An Aware Guy in the Past | 185621 | [185621-an-aware-guy-in-the-past.json](./185621-an-aware-guy-in-the-past.json) |
 | An Easter to Remember | 375298 | [375298-an-easter-to-remember.json](./375298-an-easter-to-remember.json) |
