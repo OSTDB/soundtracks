@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launderley | 374304 | [374304-launderley.json](./374304-launderley.json) |
 | Laundro-Mess | 185551 | [185551-laundro-mess.json](./185551-laundro-mess.json) |
 | Laundromat 8 | 414615 | [414615-laundromat-8.json](./414615-laundromat-8.json) |
+| Laundromat Manager Simulator | 330929 | [330929-laundromat-manager-simulator.json](./330929-laundromat-manager-simulator.json) |
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
 | Laundry Night | 304166 | [304166-laundry-night.json](./304166-laundry-night.json) |
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
@@ -759,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaderboard | 15246 | [15246-leaderboard.json](./15246-leaderboard.json) |
 | Leadersheep | 183509 | [183509-leadersheep.json](./183509-leadersheep.json) |
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
+| Leadlight | 330903 | [330903-leadlight.json](./330903-leadlight.json) |
 | Leaf | 116865 | [116865-leaf.json](./116865-leaf.json) |
 | Leaf Blower Sim | 276272 | [276272-leaf-blower-sim.json](./276272-leaf-blower-sim.json) |
 | Leaf Blowing Simulator | 290556 | [290556-leaf-blowing-simulator.json](./290556-leaf-blowing-simulator.json) |
