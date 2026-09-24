@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
 | Nightfall Empress | 402896 | [402896-nightfall-empress.json](./402896-nightfall-empress.json) |
 | NightFall Hollow | 235310 | [235310-nightfall-hollow.json](./235310-nightfall-hollow.json) |
+| NightFell | 329671 | [329671-nightfell.json](./329671-nightfell.json) |
 | Nightfighter | 84263 | [84263-nightfighter.json](./84263-nightfighter.json) |
 | Nightflite | 98957 | [98957-nightflite.json](./98957-nightflite.json) |
 | Nighthaw-X3000 | 29181 | [29181-nighthaw-x3000.json](./29181-nighthaw-x3000.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niko and the Cubic Curse | 169339 | [169339-niko-and-the-cubic-curse.json](./169339-niko-and-the-cubic-curse.json) |
 | Niko Niko Pun | 42057 | [42057-niko-niko-pun.json](./42057-niko-niko-pun.json) |
 | Niko: Through the Dream | 17323 | [17323-niko-through-the-dream.json](./17323-niko-through-the-dream.json) |
+| Nikola's Fate | 329678 | [329678-nikolas-fate.json](./329678-nikolas-fate.json) |
 | Nikolai's Knights | 205127 | [205127-nikolais-knights.json](./205127-nikolais-knights.json) |
 | Nikolai's Mysteries | 205128 | [205128-nikolais-mysteries.json](./205128-nikolais-mysteries.json) |
 | Nikoli no Puzzle 4: Shikaku ni Kire | 219025 | [219025-nikoli-no-puzzle-4-shikaku-ni-kire.json](./219025-nikoli-no-puzzle-4-shikaku-ni-kire.json) |
@@ -2753,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nullspace | 336736 | [336736-nullspace.json](./336736-nullspace.json) |
 | NullStar | 144360 | [144360-nullstar.json](./144360-nullstar.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
+| Num Dá Véi! | 329673 | [329673-num-da-vei.json](./329673-num-da-vei.json) |
 | Num One: Revised Edition | 187504 | [187504-num-one-revised-edition.json](./187504-num-one-revised-edition.json) |
 | Num Yumms | 252143 | [252143-num-yumms.json](./252143-num-yumms.json) |
 | Numachina | 350412 | [350412-numachina.json](./350412-numachina.json) |
