@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
 | West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
+| West Town Defense | 287701 | [287701-west-town-defense.json](./287701-west-town-defense.json) |
 | West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
 | Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
 | Westbound: Pioneer Adventure | 39170 | [39170-westbound-pioneer-adventure.json](./39170-westbound-pioneer-adventure.json) |
@@ -1555,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is 2016? | 384116 | [384116-where-is-2016.json](./384116-where-is-2016.json) |
 | Where is a Toilet!? | 227878 | [227878-where-is-a-toilet.json](./227878-where-is-a-toilet.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
+| Where Is George | 287702 | [287702-where-is-george.json](./287702-where-is-george.json) |
 | Where Is Here: New Home | 207309 | [207309-where-is-here-new-home.json](./207309-where-is-here-new-home.json) |
 | Where is Love? | 302439 | [302439-where-is-love.json](./302439-where-is-love.json) |
 | Where is Mr. Cloud | 251809 | [251809-where-is-mr-cloud.json](./251809-where-is-mr-cloud.json) |
@@ -1628,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which hand? | 379866 | [379866-which-hand.json](./379866-which-hand.json) |
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
 | Which Way Out | 104088 | [104088-which-way-out.json](./104088-which-way-out.json) |
+| WhichWayOut? | 287703 | [287703-whichwayout.json](./287703-whichwayout.json) |
 | Whiff of Fear | 101978 | [101978-whiff-of-fear.json](./101978-whiff-of-fear.json) |
 | Whiffle Blasters | 116850 | [116850-whiffle-blasters.json](./116850-whiffle-blasters.json) |
 | While Mom is Away | 312552 | [312552-while-mom-is-away.json](./312552-while-mom-is-away.json) |
@@ -1644,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiplash Taxi Co | 293768 | [293768-whiplash-taxi-co.json](./293768-whiplash-taxi-co.json) |
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
 | Whirled | 123640 | [123640-whirled.json](./123640-whirled.json) |
+| Whirlight: No Time To Trip | 287707 | [287707-whirlight-no-time-to-trip.json](./287707-whirlight-no-time-to-trip.json) |
 | Whirlo | 46588 | [46588-whirlo.json](./46588-whirlo.json) |
 | Whirlpool Derby: Grand Crash Auto | 90365 | [90365-whirlpool-derby-grand-crash-auto.json](./90365-whirlpool-derby-grand-crash-auto.json) |
 | Whirlwind of Vietnam | 72714 | [72714-whirlwind-of-vietnam.json](./72714-whirlwind-of-vietnam.json) |
@@ -1664,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskey Mafia: Leo's Family | 133141 | [133141-whiskey-mafia-leos-family.json](./133141-whiskey-mafia-leos-family.json) |
 | Whiskey-Four | 338373 | [338373-whiskey-four.json](./338373-whiskey-four.json) |
 | Whisper Forest | 304611 | [304611-whisper-forest.json](./304611-whisper-forest.json) |
+| Whisper Of The Curse | 287706 | [287706-whisper-of-the-curse.json](./287706-whisper-of-the-curse.json) |
 | Whisper of the House | 312555 | [312555-whisper-of-the-house.json](./312555-whisper-of-the-house.json) |
 | Whisper of the Shade: Gray | 338372 | [338372-whisper-of-the-shade-gray.json](./338372-whisper-of-the-shade-gray.json) |
 | Whisper Trip | 154008 | [154008-whisper-trip.json](./154008-whisper-trip.json) |
@@ -1689,9 +1694,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
 | Whispers in the Fog | 347871 | [347871-whispers-in-the-fog.json](./347871-whispers-in-the-fog.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
+| Whispers in the Void | 287705 | [287705-whispers-in-the-void.json](./287705-whispers-in-the-void.json) |
 | Whispers In The Woods | 410452 | [410452-whispers-in-the-woods.json](./410452-whispers-in-the-woods.json) |
 | Whispers of Elenrod | 378401 | [378401-whispers-of-elenrod.json](./378401-whispers-of-elenrod.json) |
 | Whispers of Fear | 338370 | [338370-whispers-of-fear.json](./338370-whispers-of-fear.json) |
+| Whispers of Prague: The Executioner's Last Cut | 287708 | [287708-whispers-of-prague-the-executioners-last-cut.json](./287708-whispers-of-prague-the-executioners-last-cut.json) |
 | Whispers of Silence | 296517 | [296517-whispers-of-silence.json](./296517-whispers-of-silence.json) |
 | Whispers of The Abyss | 301269 | [301269-whispers-of-the-abyss.json](./301269-whispers-of-the-abyss.json) |
 | Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
@@ -1716,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Album: Memories Like Falling Snow | 79870 | [79870-white-album-memories-like-falling-snow.json](./79870-white-album-memories-like-falling-snow.json) |
 | White Blade | 252229 | [252229-white-blade.json](./252229-white-blade.json) |
 | White Cat Stories | 346230 | [346230-white-cat-stories.json](./346230-white-cat-stories.json) |
+| White Cat Town Mystery | 287704 | [287704-white-cat-town-mystery.json](./287704-white-cat-town-mystery.json) |
 | White Chamber | 247598 | [247598-white-chamber.json](./247598-white-chamber.json) |
 | White Chocolate | 330247 | [330247-white-chocolate.json](./330247-white-chocolate.json) |
 | White City Dating Sim | 394164 | [394164-white-city-dating-sim.json](./394164-white-city-dating-sim.json) |
@@ -1907,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Frontera | 17972 | [17972-wild-frontera.json](./17972-wild-frontera.json) |
 | Wild Goo Chase | 44223 | [44223-wild-goo-chase.json](./44223-wild-goo-chase.json) |
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
+| Wild Gunslinger | 287696 | [287696-wild-gunslinger.json](./287696-wild-gunslinger.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Honesty: A Party Game for Deeper Conversations | 139810 | [139810-wild-honesty-a-party-game-for-deeper-conversations.json](./139810-wild-honesty-a-party-game-for-deeper-conversations.json) |
 | Wild Horizon: Edge of Survival | 333111 | [333111-wild-horizon-edge-of-survival.json](./333111-wild-horizon-edge-of-survival.json) |
@@ -2009,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park 3: Dino Invasion | 171071 | [171071-wildlife-park-3-dino-invasion.json](./171071-wildlife-park-3-dino-invasion.json) |
 | Wildlife Park Gold Reloaded | 44189 | [44189-wildlife-park-gold-reloaded.json](./44189-wildlife-park-gold-reloaded.json) |
 | Wildlife Park: 15 Years Anniversary Trilogy | 136379 | [136379-wildlife-park-15-years-anniversary-trilogy.json](./136379-wildlife-park-15-years-anniversary-trilogy.json) |
+| Wildlife Rescue Simulator | 287695 | [287695-wildlife-rescue-simulator.json](./287695-wildlife-rescue-simulator.json) |
 | Wildlife Simulator: Bear | 86905 | [86905-wildlife-simulator-bear.json](./86905-wildlife-simulator-bear.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
 | Wildlife Simulator: Wolf | 86902 | [86902-wildlife-simulator-wolf.json](./86902-wildlife-simulator-wolf.json) |
@@ -2018,8 +2028,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildseed | 356170 | [356170-wildseed.json](./356170-wildseed.json) |
 | Wildshade Fantasy Horse Races | 233069 | [233069-wildshade-fantasy-horse-races.json](./233069-wildshade-fantasy-horse-races.json) |
+| Wildsong | 287694 | [287694-wildsong.json](./287694-wildsong.json) |
 | Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
+| Wildwood: Hearth & Horizon | 287693 | [287693-wildwood-hearth-and-horizon.json](./287693-wildwood-hearth-and-horizon.json) |
 | WildWorlds: Zyxaranth's Domain | 418738 | [418738-wildworlds-zyxaranths-domain.json](./418738-wildworlds-zyxaranths-domain.json) |
 | Will | 333636 | [333636-will.json](./333636-will.json) |
 | Will Die Alone | 177398 | [177398-will-die-alone.json](./177398-will-die-alone.json) |
@@ -2066,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy Jetman: Astromonkey's Revenge - Sweeper's Edition | 139831 | [139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json](./139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json) |
 | Willy Morgan and the Curse of Bone Town | 133429 | [133429-willy-morgan-and-the-curse-of-bone-town.json](./133429-willy-morgan-and-the-curse-of-bone-town.json) |
 | Willy's Adventure | 375458 | [375458-willys-adventure.json](./375458-willys-adventure.json) |
+| Willy's Wonderland: The Game | 287697 | [287697-willys-wonderland-the-game.json](./287697-willys-wonderland-the-game.json) |
 | Wilmot Works It Out | 314431 | [314431-wilmot-works-it-out.json](./314431-wilmot-works-it-out.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
 | Wiloo | 50533 | [50533-wiloo.json](./50533-wiloo.json) |
@@ -2075,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wily & Right no Rock Board: That's Paradise | 295041 | [295041-wily-and-right-no-rock-board-thats-paradise.json](./295041-wily-and-right-no-rock-board-thats-paradise.json) |
 | Wimbledon '88 | 121720 | [121720-wimbledon-88.json](./121720-wimbledon-88.json) |
 | Win Big or Die | 30937 | [30937-win-big-or-die.json](./30937-win-big-or-die.json) |
+| Win or Crash! | 287699 | [287699-win-or-crash.json](./287699-win-or-crash.json) |
 | Win Over the Flawed Girl | 248102 | [248102-win-over-the-flawed-girl.json](./248102-win-over-the-flawed-girl.json) |
 | Win the Diamond | 220839 | [220839-win-the-diamond.json](./220839-win-the-diamond.json) |
 | Win the Game: Do It! | 96648 | [96648-win-the-game-do-it.json](./96648-win-the-game-do-it.json) |
@@ -2101,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
 | Wind's Poem | 325065 | [325065-winds-poem.json](./325065-winds-poem.json) |
 | Windah Horror Adventure | 330346 | [330346-windah-horror-adventure.json](./330346-windah-horror-adventure.json) |
+| Windah Horror Adventure 2 | 287698 | [287698-windah-horror-adventure-2.json](./287698-windah-horror-adventure-2.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | WinDepth | 314455 | [314455-windepth.json](./314455-windepth.json) |
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
@@ -2231,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
 | Winter Magic | 182929 | [182929-winter-magic.json](./182929-winter-magic.json) |
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
+| Winter Night | 287700 | [287700-winter-night.json](./287700-winter-night.json) |
 | Winter Night: Terrorist Strike | 224086 | [224086-winter-night-terrorist-strike.json](./224086-winter-night-terrorist-strike.json) |
 | Winter Olympic Games | 365673 | [365673-winter-olympic-games.json](./365673-winter-olympic-games.json) |
 | Winter Olympic Games | 365674 | [365674-winter-olympic-games.json](./365674-winter-olympic-games.json) |
