@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are the Apple of My Eye | 99028 | [99028-you-are-the-apple-of-my-eye.json](./99028-you-are-the-apple-of-my-eye.json) |
 | You Are the Dinner | 220733 | [220733-you-are-the-dinner.json](./220733-you-are-the-dinner.json) |
 | You Are the Hero | 362877 | [362877-you-are-the-hero.json](./362877-you-are-the-hero.json) |
+| You Are the Inch Valley Captive | 319180 | [319180-you-are-the-inch-valley-captive.json](./319180-you-are-the-inch-valley-captive.json) |
 | You Are the Loading Screen | 407355 | [407355-you-are-the-loading-screen.json](./407355-you-are-the-loading-screen.json) |
 | You are the Weapon | 230309 | [230309-you-are-the-weapon.json](./230309-you-are-the-weapon.json) |
 | You Are the Wormhole | 128621 | [128621-you-are-the-wormhole.json](./128621-you-are-the-wormhole.json) |
