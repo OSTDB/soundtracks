@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacuna: Save the World Edition | 159699 | [159699-lacuna-save-the-world-edition.json](./159699-lacuna-save-the-world-edition.json) |
 | Lacus Opportunitas | 347149 | [347149-lacus-opportunitas.json](./347149-lacus-opportunitas.json) |
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
+| Ladder it Up! | 304640 | [304640-ladder-it-up.json](./304640-ladder-it-up.json) |
 | Ladder Man | 70089 | [70089-ladder-man.json](./70089-ladder-man.json) |
 | Ladders by Powgi | 146927 | [146927-ladders-by-powgi.json](./146927-ladders-by-powgi.json) |
 | Ladderway | 255990 | [255990-ladderway.json](./255990-ladderway.json) |
@@ -343,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapistasia | 377675 | [377675-lapistasia.json](./377675-lapistasia.json) |
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
 | Laplace M | 126047 | [126047-laplace-m.json](./126047-laplace-m.json) |
+| Lappelduvide | 304639 | [304639-lappelduvide.json](./304639-lappelduvide.json) |
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
 | Lapse: A Forgotten Future | 77471 | [77471-lapse-a-forgotten-future.json](./77471-lapse-a-forgotten-future.json) |
 | Lapsi | 120337 | [120337-lapsi.json](./120337-lapsi.json) |
@@ -3096,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
+| Lost Mastery | 304633 | [304633-lost-mastery.json](./304633-lost-mastery.json) |
 | Lost Melody | 211195 | [211195-lost-melody.json](./211195-lost-melody.json) |
 | Lost Memories | 224779 | [224779-lost-memories.json](./224779-lost-memories.json) |
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
