@@ -3368,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
 | BlackFaith | 100572 | [100572-blackfaith.json](./100572-blackfaith.json) |
 | Blackfall | 258551 | [258551-blackfall.json](./258551-blackfall.json) |
+| Blackfrost: The Long Dark 2 | 325596 | [325596-blackfrost-the-long-dark-2.json](./325596-blackfrost-the-long-dark-2.json) |
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
 | Blackguards | 5522 | [5522-blackguards.json](./5522-blackguards.json) |
@@ -5655,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Constructor Bundle | 196830 | [196830-bridge-constructor-bundle.json](./196830-bridge-constructor-bundle.json) |
 | Bridge Constructor Compilation | 131601 | [131601-bridge-constructor-compilation.json](./131601-bridge-constructor-compilation.json) |
 | Bridge Constructor Portal: Portal Proficiency | 155047 | [155047-bridge-constructor-portal-portal-proficiency.json](./155047-bridge-constructor-portal-portal-proficiency.json) |
+| Bridge Constructor Studio | 325559 | [325559-bridge-constructor-studio.json](./325559-bridge-constructor-studio.json) |
 | Bridge Constructor: Playground | 17098 | [17098-bridge-constructor-playground.json](./17098-bridge-constructor-playground.json) |
 | Bridge Constructor: The Walking Dead | 137291 | [137291-bridge-constructor-the-walking-dead.json](./137291-bridge-constructor-the-walking-dead.json) |
 | Bridge Constructor: Ultimate Edition | 129195 | [129195-bridge-constructor-ultimate-edition.json](./129195-bridge-constructor-ultimate-edition.json) |
