@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno God | 390230 | [390230-uno-god.json](./390230-uno-god.json) |
 | Uno: Assassin's Creed Valhalla Theme Cards | 196679 | [196679-uno-assassins-creed-valhalla-theme-cards.json](./196679-uno-assassins-creed-valhalla-theme-cards.json) |
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
+| Uno: Party! Mania | 323831 | [323831-uno-party-mania.json](./323831-uno-party-mania.json) |
 | Unofficial Pokemon Trading Card Game | 363944 | [363944-unofficial-pokemon-trading-card-game.json](./363944-unofficial-pokemon-trading-card-game.json) |
 | Unoklive vs. Zuck | 182459 | [182459-unoklive-vs-zuck.json](./182459-unoklive-vs-zuck.json) |
 | Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
