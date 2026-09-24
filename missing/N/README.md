@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
 | Neo Cherry Master | 75492 | [75492-neo-cherry-master.json](./75492-neo-cherry-master.json) |
 | Neo Cherry Master Color | 43980 | [43980-neo-cherry-master-color.json](./43980-neo-cherry-master-color.json) |
+| Neo City Express | 297542 | [297542-neo-city-express.json](./297542-neo-city-express.json) |
 | Neo Derby Champ Daiyosou | 43968 | [43968-neo-derby-champ-daiyosou.json](./43968-neo-derby-champ-daiyosou.json) |
 | Neo Drift Out: New Technology | 39600 | [39600-neo-drift-out-new-technology.json](./39600-neo-drift-out-new-technology.json) |
 | Neo Geo CD Special | 75493 | [75493-neo-geo-cd-special.json](./75493-neo-geo-cd-special.json) |
@@ -2057,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Classic Mini: Family Computer | 213597 | [213597-nintendo-classic-mini-family-computer.json](./213597-nintendo-classic-mini-family-computer.json) |
 | Nintendo Classic Mini: Family Computer - Weekly Shonen Jump 50th Anniversary Version | 213599 | [213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json](./213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json) |
 | Nintendo Classic Mini: Super Famicom | 213594 | [213594-nintendo-classic-mini-super-famicom.json](./213594-nintendo-classic-mini-super-famicom.json) |
+| Nintendo DS Browser | 297580 | [297580-nintendo-ds-browser.json](./297580-nintendo-ds-browser.json) |
 | Nintendo Game Seminar 2013: Jukousei Sakuhin | 396385 | [396385-nintendo-game-seminar-2013-jukousei-sakuhin.json](./396385-nintendo-game-seminar-2013-jukousei-sakuhin.json) |
 | Nintendo Labo: Toy-Con 01 - Variety Kit | 85308 | [85308-nintendo-labo-toy-con-01-variety-kit.json](./85308-nintendo-labo-toy-con-01-variety-kit.json) |
 | Nintendo Land | 2172 | [2172-nintendo-land.json](./2172-nintendo-land.json) |
