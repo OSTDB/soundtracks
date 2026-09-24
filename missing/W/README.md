@@ -387,17 +387,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
 | War Thunder - T-55AM-1 Pack | 293764 | [293764-war-thunder-t-55am-1-pack.json](./293764-war-thunder-t-55am-1-pack.json) |
+| War Thunder: "Black Friday" Bundle | 331500 | [331500-war-thunder-black-friday-bundle.json](./331500-war-thunder-black-friday-bundle.json) |
+| War Thunder: "Serpent Rising" Bundle | 331498 | [331498-war-thunder-serpent-rising-bundle.json](./331498-war-thunder-serpent-rising-bundle.json) |
+| War Thunder: "Snake Charmer" Bundle | 331497 | [331497-war-thunder-snake-charmer-bundle.json](./331497-war-thunder-snake-charmer-bundle.json) |
+| War Thunder: Al-Khalid-I Bundle | 331494 | [331494-war-thunder-al-khalid-i-bundle.json](./331494-war-thunder-al-khalid-i-bundle.json) |
 | War Thunder: Ancient Helicopter Snail Bundle | 316622 | [316622-war-thunder-ancient-helicopter-snail-bundle.json](./316622-war-thunder-ancient-helicopter-snail-bundle.json) |
+| War Thunder: AV-8B Night Attack Bundle | 331501 | [331501-war-thunder-av-8b-night-attack-bundle.json](./331501-war-thunder-av-8b-night-attack-bundle.json) |
 | War Thunder: Challenger DS Pack | 336933 | [336933-war-thunder-challenger-ds-pack.json](./336933-war-thunder-challenger-ds-pack.json) |
 | War Thunder: Ground Forces | 115024 | [115024-war-thunder-ground-forces.json](./115024-war-thunder-ground-forces.json) |
 | War Thunder: IJN Yamashiro Pack | 336934 | [336934-war-thunder-ijn-yamashiro-pack.json](./336934-war-thunder-ijn-yamashiro-pack.json) |
 | War Thunder: IS-6 Pack | 293757 | [293757-war-thunder-is-6-pack.json](./293757-war-thunder-is-6-pack.json) |
 | War Thunder: Leopard 2A4M CAN Bundle | 306492 | [306492-war-thunder-leopard-2a4m-can-bundle.json](./306492-war-thunder-leopard-2a4m-can-bundle.json) |
 | War Thunder: Marder Clovis Pack | 336935 | [336935-war-thunder-marder-clovis-pack.json](./336935-war-thunder-marder-clovis-pack.json) |
+| War Thunder: Object 140 Bundle | 331499 | [331499-war-thunder-object-140-bundle.json](./331499-war-thunder-object-140-bundle.json) |
 | War Thunder: Reaper Pack | 156104 | [156104-war-thunder-reaper-pack.json](./156104-war-thunder-reaper-pack.json) |
 | War Thunder: Somua SM Pack | 336936 | [336936-war-thunder-somua-sm-pack.json](./336936-war-thunder-somua-sm-pack.json) |
+| War Thunder: Su-22M4 WTD 61 Bundle | 331504 | [331504-war-thunder-su-22m4-wtd-61-bundle.json](./331504-war-thunder-su-22m4-wtd-61-bundle.json) |
 | War Thunder: T-80U-E1 Bundle | 306494 | [306494-war-thunder-t-80u-e1-bundle.json](./306494-war-thunder-t-80u-e1-bundle.json) |
 | War Thunder: T29 Pack | 293762 | [293762-war-thunder-t29-pack.json](./293762-war-thunder-t29-pack.json) |
+| War Thunder: Two Fronts Bundle | 331505 | [331505-war-thunder-two-fronts-bundle.json](./331505-war-thunder-two-fronts-bundle.json) |
 | War Thunder: Type 96A Prototype Pack | 332055 | [332055-war-thunder-type-96a-prototype-pack.json](./332055-war-thunder-type-96a-prototype-pack.json) |
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
@@ -1064,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
 | Weak Warrior | 61115 | [61115-weak-warrior.json](./61115-weak-warrior.json) |
 | Weakest Demon King: Escape! You Cannot Defeat the Female Heroines! | 82874 | [82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json](./82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json) |
+| Weakfish Puzzle Bundle | 331510 | [331510-weakfish-puzzle-bundle.json](./331510-weakfish-puzzle-bundle.json) |
 | Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
 | Weapon Hacker | 133377 | [133377-weapon-hacker.json](./133377-weapon-hacker.json) |
 | Weapon Party | 277977 | [277977-weapon-party.json](./277977-weapon-party.json) |
@@ -2116,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings! Remastered Edition | 8801 | [8801-wings-remastered-edition.json](./8801-wings-remastered-edition.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
+| Wingspan Oceania Deluxe Bundle | 331509 | [331509-wingspan-oceania-deluxe-bundle.json](./331509-wingspan-oceania-deluxe-bundle.json) |
 | Wingspan: The Board Game | 174266 | [174266-wingspan-the-board-game.json](./174266-wingspan-the-board-game.json) |
 | Wingspan: Woodland Wonders Decorative Pack | 310400 | [310400-wingspan-woodland-wonders-decorative-pack.json](./310400-wingspan-woodland-wonders-decorative-pack.json) |
 | Wingsuit: Gudvangen | 123024 | [123024-wingsuit-gudvangen.json](./123024-wingsuit-gudvangen.json) |
@@ -3406,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K24 | 283600 | [283600-wwe-2k24.json](./283600-wwe-2k24.json) |
+| WWE 2K24 Bray Wyatt Bundle | 331508 | [331508-wwe-2k24-bray-wyatt-bundle.json](./331508-wwe-2k24-bray-wyatt-bundle.json) |
 | WWE 2K24: Global Superstars Pack | 332035 | [332035-wwe-2k24-global-superstars-pack.json](./332035-wwe-2k24-global-superstars-pack.json) |
 | WWE 2K24: MyRISE Mega-Boost | 332034 | [332034-wwe-2k24-myrise-mega-boost.json](./332034-wwe-2k24-myrise-mega-boost.json) |
 | WWE 2K24: Pat McAfee Show Pack | 332036 | [332036-wwe-2k24-pat-mcafee-show-pack.json](./332036-wwe-2k24-pat-mcafee-show-pack.json) |
