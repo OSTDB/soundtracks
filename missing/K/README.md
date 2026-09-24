@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kind Words | 120646 | [120646-kind-words.json](./120646-kind-words.json) |
 | Kinda Heroes | 172107 | [172107-kinda-heroes.json](./172107-kinda-heroes.json) |
 | Kindai Mahjong Special | 37960 | [37960-kindai-mahjong-special.json](./37960-kindai-mahjong-special.json) |
+| Kindaichi Mystery Series: The Honjin Murders | 334298 | [334298-kindaichi-mystery-series-the-honjin-murders.json](./334298-kindaichi-mystery-series-the-honjin-murders.json) |
 | Kindaichi Shounen no Jikenbo: 10-nenme no Shoutaijou | 228581 | [228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json](./228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json) |
 | Kindaichi Shounen no Jikenbo: Akuma no Satsujin Koukai | 122979 | [122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json](./122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json) |
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
