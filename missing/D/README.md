@@ -2906,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dfiance | 323371 | [323371-dfiance.json](./323371-dfiance.json) |
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
 | Dfragmente | 76555 | [76555-dfragmente.json](./76555-dfragmente.json) |
+| Dfuse | 314423 | [314423-dfuse.json](./314423-dfuse.json) |
 | DGU: Death God University - Midterm Mania | 171457 | [171457-dgu-death-god-university-midterm-mania.json](./171457-dgu-death-god-university-midterm-mania.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
 | DHTML Lemmings | 352223 | [352223-dhtml-lemmings.json](./352223-dhtml-lemmings.json) |
@@ -3161,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digaway | 372115 | [372115-digaway.json](./372115-digaway.json) |
 | Digby's Donuts | 122893 | [122893-digbys-donuts.json](./122893-digbys-donuts.json) |
 | Digdig | 316611 | [316611-digdig.json](./316611-digdig.json) |
+| DigDigDrill | 314442 | [314442-digdigdrill.json](./314442-digdigdrill.json) |
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
@@ -4109,6 +4111,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dofus Touch | 96289 | [96289-dofus-touch.json](./96289-dofus-touch.json) |
 | Dofus: Battles | 174334 | [174334-dofus-battles.json](./174334-dofus-battles.json) |
 | Dog | 271842 | [271842-dog.json](./271842-dog.json) |
+| Dog | 314399 | [314399-dog.json](./314399-dog.json) |
+| Dog | 314401 | [314401-dog.json](./314401-dog.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
 | Dog Daze | 67945 | [67945-dog-daze.json](./67945-dog-daze.json) |
@@ -4682,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
+| Doom: The Golden Souls 3 | 314436 | [314436-doom-the-golden-souls-3.json](./314436-doom-the-golden-souls-3.json) |
 | Doom: The Golden Souls Remastered | 198349 | [198349-doom-the-golden-souls-remastered.json](./198349-doom-the-golden-souls-remastered.json) |
 | Doom: Unto the Evil | 22431 | [22431-doom-unto-the-evil.json](./22431-doom-unto-the-evil.json) |
 | Doomblade | 114004 | [114004-doomblade.json](./114004-doomblade.json) |
