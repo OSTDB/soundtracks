@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
 | Raiden Fighters Aces | 7153 | [7153-raiden-fighters-aces.json](./7153-raiden-fighters-aces.json) |
 | Raiden III x Mikado Maniax: Deluxe Edition | 234207 | [234207-raiden-iii-x-mikado-maniax-deluxe-edition.json](./234207-raiden-iii-x-mikado-maniax-deluxe-edition.json) |
+| Raiden Nova | 319140 | [319140-raiden-nova.json](./319140-raiden-nova.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raider | 319597 | [319597-raider.json](./319597-raider.json) |
 | Raider | 351801 | [351801-raider.json](./351801-raider.json) |
@@ -1185,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
 | Realm of Alters | 169397 | [169397-realm-of-alters.json](./169397-realm-of-alters.json) |
 | Realm of Chaos | 313868 | [313868-realm-of-chaos.json](./313868-realm-of-chaos.json) |
+| Realm of Dissonance | 319182 | [319182-realm-of-dissonance.json](./319182-realm-of-dissonance.json) |
 | Realm of Heroes | 167257 | [167257-realm-of-heroes.json](./167257-realm-of-heroes.json) |
 | Realm of Ink | 274368 | [274368-realm-of-ink.json](./274368-realm-of-ink.json) |
 | Realm of Mecha | 197324 | [197324-realm-of-mecha.json](./197324-realm-of-mecha.json) |
@@ -4104,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope'n'Fly 3: Dusk Till Dawn | 330934 | [330934-ropenfly-3-dusk-till-dawn.json](./330934-ropenfly-3-dusk-till-dawn.json) |
 | Rope'n'Fly 4 | 288879 | [288879-ropenfly-4.json](./288879-ropenfly-4.json) |
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
+| Roped In: Deuces Wild | 319129 | [319129-roped-in-deuces-wild.json](./319129-roped-in-deuces-wild.json) |
 | Ropes and Dragons VR | 29901 | [29901-ropes-and-dragons-vr.json](./29901-ropes-and-dragons-vr.json) |
 | Roppongi Sadistic Night | 395566 | [395566-roppongi-sadistic-night.json](./395566-roppongi-sadistic-night.json) |
 | Ropuka | 386712 | [386712-ropuka.json](./386712-ropuka.json) |
@@ -4224,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Router | 68936 | [68936-router.json](./68936-router.json) |
 | RouteWhom | 394513 | [394513-routewhom.json](./394513-routewhom.json) |
 | Routine | 8948 | [8948-routine.json](./8948-routine.json) |
+| Rouvy | 319175 | [319175-rouvy.json](./319175-rouvy.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
 | Rover Builder | 65829 | [65829-rover-builder.json](./65829-rover-builder.json) |
 | Rover Mechanic Challenge: ERC Competition | 168754 | [168754-rover-mechanic-challenge-erc-competition.json](./168754-rover-mechanic-challenge-erc-competition.json) |
