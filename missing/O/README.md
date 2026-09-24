@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
 | Oreblaze | 338732 | [338732-oreblaze.json](./338732-oreblaze.json) |
 | OreMania | 389097 | [389097-oremania.json](./389097-oremania.json) |
+| Orendale | 317995 | [317995-orendale.json](./317995-orendale.json) |
 | Oreo O's Extreme Creme Control | 145671 | [145671-oreo-os-extreme-creme-control.json](./145671-oreo-os-extreme-creme-control.json) |
 | Orestorm Factory | 224780 | [224780-orestorm-factory.json](./224780-orestorm-factory.json) |
 | Oretachi ni Tsubasa wa Nai -Prelude- | 60572 | [60572-oretachi-ni-tsubasa-wa-nai-prelude.json](./60572-oretachi-ni-tsubasa-wa-nai-prelude.json) |
@@ -1867,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
 | Outbreak Diamond Collection | 200177 | [200177-outbreak-diamond-collection.json](./200177-outbreak-diamond-collection.json) |
+| Outbreak Survivors | 317976 | [317976-outbreak-survivors.json](./317976-outbreak-survivors.json) |
 | Outbreak Zero | 365085 | [365085-outbreak-zero.json](./365085-outbreak-zero.json) |
 | Outbreak: Blood & Teeth Collection | 304365 | [304365-outbreak-blood-and-teeth-collection.json](./304365-outbreak-blood-and-teeth-collection.json) |
 | Outbreak: Blood and Death Collection | 331433 | [331433-outbreak-blood-and-death-collection.json](./331433-outbreak-blood-and-death-collection.json) |
