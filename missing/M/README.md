@@ -3812,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miai Kekkon Shita Osanazuma ga Otoko no Ko Datta Ken | 59046 | [59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json](./59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json) |
 | Miami Horizon 2077 | 238735 | [238735-miami-horizon-2077.json](./238735-miami-horizon-2077.json) |
 | Miami Law | 20281 | [20281-miami-law.json](./20281-miami-law.json) |
+| Miami Nights: Bartending in the 80s | 312138 | [312138-miami-nights-bartending-in-the-80s.json](./312138-miami-nights-bartending-in-the-80s.json) |
 | Miami Nights: Singles in the City | 21284 | [21284-miami-nights-singles-in-the-city.json](./21284-miami-nights-singles-in-the-city.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
 | Miamo.fun | 267368 | [267368-miamo-fun.json](./267368-miamo-fun.json) |
@@ -6481,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle Mechanic Simulator 2021 | 142478 | [142478-motorcycle-mechanic-simulator-2021.json](./142478-motorcycle-mechanic-simulator-2021.json) |
 | Motorcycle Racing VR | 226725 | [226725-motorcycle-racing-vr.json](./226725-motorcycle-racing-vr.json) |
 | Motorcycle RPG | 196815 | [196815-motorcycle-rpg.json](./196815-motorcycle-rpg.json) |
+| Motorcycles: World Championship | 312113 | [312113-motorcycles-world-championship.json](./312113-motorcycles-world-championship.json) |
 | Motorhome: Traveling North America 2 - Collector's Edition | 377671 | [377671-motorhome-traveling-north-america-2-collectors-edition.json](./377671-motorhome-traveling-north-america-2-collectors-edition.json) |
 | Motorhome: Traveling North America 3 - Collector's Edition | 377672 | [377672-motorhome-traveling-north-america-3-collectors-edition.json](./377672-motorhome-traveling-north-america-3-collectors-edition.json) |
 | MotoRodeo | 40787 | [40787-motorodeo.json](./40787-motorodeo.json) |
