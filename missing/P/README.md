@@ -2647,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneer Lands | 59430 | [59430-pioneer-lands.json](./59430-pioneer-lands.json) |
 | Pioneer Space Sim | 179050 | [179050-pioneer-space-sim.json](./179050-pioneer-space-sim.json) |
 | Pioneers | 63237 | [63237-pioneers.json](./63237-pioneers.json) |
+| Pioneers of New World | 336724 | [336724-pioneers-of-new-world.json](./336724-pioneers-of-new-world.json) |
 | Pioneers of Pagonia | 237457 | [237457-pioneers-of-pagonia.json](./237457-pioneers-of-pagonia.json) |
 | Pioneers of the Coast | 341575 | [341575-pioneers-of-the-coast.json](./341575-pioneers-of-the-coast.json) |
 | Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
@@ -2874,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fireplace | 134645 | [134645-pixel-fireplace.json](./134645-pixel-fireplace.json) |
 | Pixel Fish | 114342 | [114342-pixel-fish.json](./114342-pixel-fish.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
+| Pixel Flip | 336703 | [336703-pixel-flip.json](./336703-pixel-flip.json) |
 | Pixel Fodder | 34858 | [34858-pixel-fodder.json](./34858-pixel-fodder.json) |
 | Pixel Force 2 | 175278 | [175278-pixel-force-2.json](./175278-pixel-force-2.json) |
 | Pixel Forest | 108489 | [108489-pixel-forest.json](./108489-pixel-forest.json) |
@@ -5051,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Sands of Time HD | 99585 | [99585-prince-of-persia-the-sands-of-time-hd.json](./99585-prince-of-persia-the-sands-of-time-hd.json) |
 | Prince of Persia: The Shadow and the Flame | 142256 | [142256-prince-of-persia-the-shadow-and-the-flame.json](./142256-prince-of-persia-the-shadow-and-the-flame.json) |
 | Prince of Persia: Warrior Within HD | 99586 | [99586-prince-of-persia-warrior-within-hd.json](./99586-prince-of-persia-warrior-within-hd.json) |
+| Prince of Prussia | 336715 | [336715-prince-of-prussia.json](./336715-prince-of-prussia.json) |
 | Prince Rystiya's Starfleet | 341557 | [341557-prince-rystiyas-starfleet.json](./341557-prince-rystiyas-starfleet.json) |
 | Prince Rystiya's Starship | 341556 | [341556-prince-rystiyas-starship.json](./341556-prince-rystiyas-starship.json) |
 | Princes of Qing | 402961 | [402961-princes-of-qing.json](./402961-princes-of-qing.json) |
@@ -5182,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Tycoon: Alcatraz | 14883 | [14883-prison-tycoon-alcatraz.json](./14883-prison-tycoon-alcatraz.json) |
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
 | Prison Tycoon: Under New Management - Maximum Security | 196298 | [196298-prison-tycoon-under-new-management-maximum-security.json](./196298-prison-tycoon-under-new-management-maximum-security.json) |
+| Prison Wars | 336725 | [336725-prison-wars.json](./336725-prison-wars.json) |
 | Prisonela | 218697 | [218697-prisonela.json](./218697-prisonela.json) |
 | Prisonela DX | 284494 | [284494-prisonela-dx.json](./284494-prisonela-dx.json) |
 | Prisonela MD | 367939 | [367939-prisonela-md.json](./367939-prisonela-md.json) |
@@ -5341,6 +5345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Probe Team | 128600 | [128600-probe-team.json](./128600-probe-team.json) |
 | ProBee | 208376 | [208376-probee.json](./208376-probee.json) |
 | Problem Animals | 193488 | [193488-problem-animals.json](./193488-problem-animals.json) |
+| Problem Sleuth | 336732 | [336732-problem-sleuth.json](./336732-problem-sleuth.json) |
 | Problemlöser | 277936 | [277936-problemloser.json](./277936-problemloser.json) |
 | Problems and Solutions | 342733 | [342733-problems-and-solutions.json](./342733-problems-and-solutions.json) |
 | Probo Rush | 235876 | [235876-probo-rush.json](./235876-probo-rush.json) |
