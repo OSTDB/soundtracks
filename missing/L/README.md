@@ -3241,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Language Japanese | 110424 | [110424-love-language-japanese.json](./110424-love-language-japanese.json) |
 | Love Letter | 109759 | [109759-love-letter.json](./109759-love-letter.json) |
 | Love Letter | 323942 | [323942-love-letter.json](./323942-love-letter.json) |
+| Love Letter: First Draft | 310527 | [310527-love-letter-first-draft.json](./310527-love-letter-first-draft.json) |
 | Love Letters | 363893 | [363893-love-letters.json](./363893-love-letters.json) |
 | Love Letters: First Bloom | 337264 | [337264-love-letters-first-bloom.json](./337264-love-letters-first-bloom.json) |
 | Love Liar | 225646 | [225646-love-liar.json](./225646-love-liar.json) |
