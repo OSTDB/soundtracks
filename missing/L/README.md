@@ -2829,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
 | Lord of the Balrogs | 47225 | [47225-lord-of-the-balrogs.json](./47225-lord-of-the-balrogs.json) |
 | Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
+| Lord of the Click 4 | 331469 | [331469-lord-of-the-click-4.json](./331469-lord-of-the-click-4.json) |
 | Lord of the Click 5 | 347778 | [347778-lord-of-the-click-5.json](./347778-lord-of-the-click-5.json) |
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
 | Lord of the Other World | 174815 | [174815-lord-of-the-other-world.json](./174815-lord-of-the-other-world.json) |
