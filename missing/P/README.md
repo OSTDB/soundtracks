@@ -2291,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Cross Color | 345132 | [345132-picture-cross-color.json](./345132-picture-cross-color.json) |
 | Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
+| Picture Perfect Golf | 316767 | [316767-picture-perfect-golf.json](./316767-picture-perfect-golf.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
 | Piczle Cross Adventure + PictoQuest: The Cursed Grids | 146140 | [146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json](./146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json) |
@@ -5701,6 +5702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Reality 2 | 2942 | [2942-project-reality-2.json](./2942-project-reality-2.json) |
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
+| Project Rogueteers | 316772 | [316772-project-rogueteers.json](./316772-project-rogueteers.json) |
 | Project Romboid | 207300 | [207300-project-romboid.json](./207300-project-romboid.json) |
 | Project Root | 17145 | [17145-project-root.json](./17145-project-root.json) |
 | Project RPG | 33192 | [33192-project-rpg.json](./33192-project-rpg.json) |
@@ -5875,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophecy Island | 249841 | [249841-prophecy-island.json](./249841-prophecy-island.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
+| Proportionator | 316765 | [316765-proportionator.json](./316765-proportionator.json) |
 | ProSoccer 2190 | 138723 | [138723-prosoccer-2190.json](./138723-prosoccer-2190.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
 | Prospector | 91935 | [91935-prospector.json](./91935-prospector.json) |
