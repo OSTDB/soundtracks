@@ -2405,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon Hater | 336116 | [336116-pigeon-hater.json](./336116-pigeon-hater.json) |
 | Pigeon Hunter | 369121 | [369121-pigeon-hunter.json](./369121-pigeon-hunter.json) |
 | Pigeon Protocol | 245880 | [245880-pigeon-protocol.json](./245880-pigeon-protocol.json) |
+| Pigeon Simulator Survival | 296459 | [296459-pigeon-simulator-survival.json](./296459-pigeon-simulator-survival.json) |
 | Pigeon West: Call of Gun. Isekai | 340394 | [340394-pigeon-west-call-of-gun-isekai.json](./340394-pigeon-west-call-of-gun-isekai.json) |
 | Pigeon West: El Diablo | 340393 | [340393-pigeon-west-el-diablo.json](./340393-pigeon-west-el-diablo.json) |
 | Pigeon West: Johnny the Pigeon | 338277 | [338277-pigeon-west-johnny-the-pigeon.json](./338277-pigeon-west-johnny-the-pigeon.json) |
@@ -4024,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
 | Pokémon Emerald Rogue | 221244 | [221244-pokemon-emerald-rogue.json](./221244-pokemon-emerald-rogue.json) |
 | Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
+| Pokémon Emerald: Double Edition | 296449 | [296449-pokemon-emerald-double-edition.json](./296449-pokemon-emerald-double-edition.json) |
 | Pokémon Empyrean | 221394 | [221394-pokemon-empyrean.json](./221394-pokemon-empyrean.json) |
 | Pokémon Eon Guardians | 241388 | [241388-pokemon-eon-guardians.json](./241388-pokemon-eon-guardians.json) |
 | Pokémon Ephemerald | 206144 | [206144-pokemon-ephemerald.json](./206144-pokemon-ephemerald.json) |
@@ -5378,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
 | Prisonscape | 61560 | [61560-prisonscape.json](./61560-prisonscape.json) |
+| PrisonSoul: Reunion | 296456 | [296456-prisonsoul-reunion.json](./296456-prisonsoul-reunion.json) |
 | Prisseceal, the Dazzling-and-Flaring Peach Princess | 236277 | [236277-prisseceal-the-dazzling-and-flaring-peach-princess.json](./236277-prisseceal-the-dazzling-and-flaring-peach-princess.json) |
 | Pristine world | 32978 | [32978-pristine-world.json](./32978-pristine-world.json) |
 | Pristine World: Deluxe Edition | 53474 | [53474-pristine-world-deluxe-edition.json](./53474-pristine-world-deluxe-edition.json) |
