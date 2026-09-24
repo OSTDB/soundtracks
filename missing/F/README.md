@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 5 | 410450 | [410450-fallout-5.json](./410450-fallout-5.json) |
 | Fallout 76: Atlantic City | 252834 | [252834-fallout-76-atlantic-city.json](./252834-fallout-76-atlantic-city.json) |
 | Fallout 76: Camp Pets | 317825 | [317825-fallout-76-camp-pets.json](./317825-fallout-76-camp-pets.json) |
+| Fallout 76: Enclave Armory Bundle | 334291 | [334291-fallout-76-enclave-armory-bundle.json](./334291-fallout-76-enclave-armory-bundle.json) |
 | Fallout 76: Ghoul Within | 341476 | [341476-fallout-76-ghoul-within.json](./341476-fallout-76-ghoul-within.json) |
 | Fallout 76: Gleaming Depths | 314487 | [314487-fallout-76-gleaming-depths.json](./314487-fallout-76-gleaming-depths.json) |
 | Fallout 76: Gone Fission | 347166 | [347166-fallout-76-gone-fission.json](./347166-fallout-76-gone-fission.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
 | Fate U.C.P | 42868 | [42868-fate-u-c-p.json](./42868-fate-u-c-p.json) |
 | Fate: Undiscovered Realms | 8867 | [8867-fate-undiscovered-realms.json](./8867-fate-undiscovered-realms.json) |
+| Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
 | Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
 | Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
@@ -3737,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken World Mobile | 27046 | [27046-forsaken-world-mobile.json](./27046-forsaken-world-mobile.json) |
 | Forsan El Majd | 316820 | [316820-forsan-el-majd.json](./316820-forsan-el-majd.json) |
 | Forsisted: The Sacred Souls | 274569 | [274569-forsisted-the-sacred-souls.json](./274569-forsisted-the-sacred-souls.json) |
+| Forsworn | 334316 | [334316-forsworn.json](./334316-forsworn.json) |
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
@@ -4678,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Machine Simulator | 72639 | [72639-fruit-machine-simulator.json](./72639-fruit-machine-simulator.json) |
 | Fruit Mart Simulator | 349325 | [349325-fruit-mart-simulator.json](./349325-fruit-mart-simulator.json) |
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
+| Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
 | Fruit Ninja vs Skittles | 352285 | [352285-fruit-ninja-vs-skittles.json](./352285-fruit-ninja-vs-skittles.json) |
 | Fruit Ninja: Pac-Man Theme | 400979 | [400979-fruit-ninja-pac-man-theme.json](./400979-fruit-ninja-pac-man-theme.json) |
 | Fruit of Choice | 309495 | [309495-fruit-of-choice.json](./309495-fruit-of-choice.json) |
