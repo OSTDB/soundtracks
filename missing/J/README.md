@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jitsu Squad | 145440 | [145440-jitsu-squad.json](./145440-jitsu-squad.json) |
 | Jitsuryoku!! Pro Yakyuu | 40211 | [40211-jitsuryoku-pro-yakyuu.json](./40211-jitsuryoku-pro-yakyuu.json) |
 | Jitsuwa Kaidan: Shinmimi Bokuro - Ichi no Shou | 59370 | [59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json](./59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json) |
+| Jitter | 298668 | [298668-jitter.json](./298668-jitter.json) |
 | Jītuì Guàishòu | 114957 | [114957-jitui-guaishou.json](./114957-jitui-guaishou.json) |
 | Jiǔlóng Mófǎzhèn | 394200 | [394200-jiulong-mofazhen.json](./394200-jiulong-mofazhen.json) |
 | Jiǔměizǐ zhī Sǐ: Zhāohé Shàonǚ Xuèsè Gàobái | 374628 | [374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json](./374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json) |
@@ -968,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joulumato | 178589 | [178589-joulumato.json](./178589-joulumato.json) |
 | Joumee the Hedgehog | 75828 | [75828-joumee-the-hedgehog.json](./75828-joumee-the-hedgehog.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
+| Journey | 298669 | [298669-journey.json](./298669-journey.json) |
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
 | Journey Express | 238502 | [238502-journey-express.json](./238502-journey-express.json) |
 | Journey From Darkness: Strider Returns | 72621 | [72621-journey-from-darkness-strider-returns.json](./72621-journey-from-darkness-strider-returns.json) |
