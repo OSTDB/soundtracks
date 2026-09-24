@@ -1538,9 +1538,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is a Toilet!? | 227878 | [227878-where-is-a-toilet.json](./227878-where-is-a-toilet.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
 | Where Is Here: New Home | 207309 | [207309-where-is-here-new-home.json](./207309-where-is-here-new-home.json) |
+| Where is Love? | 302439 | [302439-where-is-love.json](./302439-where-is-love.json) |
 | Where is Mr. Cloud | 251809 | [251809-where-is-mr-cloud.json](./251809-where-is-mr-cloud.json) |
 | Where is Mrs Peregrine? | 318772 | [318772-where-is-mrs-peregrine.json](./318772-where-is-mrs-peregrine.json) |
 | Where is my Brain!? | 29888 | [29888-where-is-my-brain.json](./29888-where-is-my-brain.json) |
+| Where Is My Cat | 302421 | [302421-where-is-my-cat.json](./302421-where-is-my-cat.json) |
 | Where is My Home? | 410996 | [410996-where-is-my-home.json](./410996-where-is-my-home.json) |
 | Where is my mind | 25764 | [25764-where-is-my-mind.json](./25764-where-is-my-mind.json) |
 | Where Is My Parking Spot | 141016 | [141016-where-is-my-parking-spot.json](./141016-where-is-my-parking-spot.json) |
@@ -3318,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Would You Love Me If I Was a Snake? | 400346 | [400346-would-you-love-me-if-i-was-a-snake.json](./400346-would-you-love-me-if-i-was-a-snake.json) |
 | Would You Rather | 326718 | [326718-would-you-rather.json](./326718-would-you-rather.json) |
 | Would you rather?! | 90677 | [90677-would-you-rather.json](./90677-would-you-rather.json) |
+| Would You Sell Your Soul | 302418 | [302418-would-you-sell-your-soul.json](./302418-would-you-sell-your-soul.json) |
 | Would You Sell Your Soul? 2 | 303265 | [303265-would-you-sell-your-soul-2.json](./303265-would-you-sell-your-soul-2.json) |
 | Would You Still Love Me if I Was a Worm? | 372585 | [372585-would-you-still-love-me-if-i-was-a-worm.json](./372585-would-you-still-love-me-if-i-was-a-worm.json) |
 | Would You Still Love Me? | 335321 | [335321-would-you-still-love-me.json](./335321-would-you-still-love-me.json) |
@@ -3389,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
 | Wrestledunk Sports | 153361 | [153361-wrestledunk-sports.json](./153361-wrestledunk-sports.json) |
+| Wrestler Rush | 302419 | [302419-wrestler-rush.json](./302419-wrestler-rush.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
 | Wrestling Revolution 2D | 76990 | [76990-wrestling-revolution-2d.json](./76990-wrestling-revolution-2d.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
@@ -3406,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
 | Wrong Dimension - The One Dimensional Platformer | 32224 | [32224-wrong-dimension-the-one-dimensional-platformer.json](./32224-wrong-dimension-the-one-dimensional-platformer.json) |
 | Wrong Door | 320958 | [320958-wrong-door.json](./320958-wrong-door.json) |
+| Wrong Escape | 302420 | [302420-wrong-escape.json](./302420-wrong-escape.json) |
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
 | Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
