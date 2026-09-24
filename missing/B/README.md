@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
 | Backrooms Journey: Into the unknown | 329167 | [329167-backrooms-journey-into-the-unknown.json](./329167-backrooms-journey-into-the-unknown.json) |
 | Backrooms Manager: Together | 410982 | [410982-backrooms-manager-together.json](./410982-backrooms-manager-together.json) |
+| Backrooms Media | 315613 | [315613-backrooms-media.json](./315613-backrooms-media.json) |
 | BackRooms New | 213437 | [213437-backrooms-new.json](./213437-backrooms-new.json) |
 | Backrooms Not Escape | 392920 | [392920-backrooms-not-escape.json](./392920-backrooms-not-escape.json) |
 | Backrooms of Reality | 207298 | [207298-backrooms-of-reality.json](./207298-backrooms-of-reality.json) |
