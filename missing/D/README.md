@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day R | 82855 | [82855-day-r.json](./82855-day-r.json) |
 | Day Seven | 125268 | [125268-day-seven.json](./125268-day-seven.json) |
 | Day Trader Tycoon | 386890 | [386890-day-trader-tycoon.json](./386890-day-trader-tycoon.json) |
+| Day Zero | 330904 | [330904-day-zero.json](./330904-day-zero.json) |
 | Day Zero | 360201 | [360201-day-zero.json](./360201-day-zero.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
@@ -1190,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Covid-19 in space | 150525 | [150525-dead-covid-19-in-space.json](./150525-dead-covid-19-in-space.json) |
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
+| Dead Daylight | 330916 | [330916-dead-daylight.json](./330916-dead-daylight.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
 | Dead Dock Protocol | 322186 | [322186-dead-dock-protocol.json](./322186-dead-dock-protocol.json) |
 | Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
@@ -5746,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
 | Dreamy Hill | 345694 | [345694-dreamy-hill.json](./345694-dreamy-hill.json) |
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
+| Dreamy Syrup | 330906 | [330906-dreamy-syrup.json](./330906-dreamy-syrup.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
 | Dredge | 164867 | [164867-dredge.json](./164867-dredge.json) |
 | Dredge: Deluxe Edition | 239148 | [239148-dredge-deluxe-edition.json](./239148-dredge-deluxe-edition.json) |
@@ -6139,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Race | 142875 | [142875-duck-race.json](./142875-duck-race.json) |
 | Duck Run | 309375 | [309375-duck-run.json](./309375-duck-run.json) |
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
+| Duck Shoot | 330928 | [330928-duck-shoot.json](./330928-duck-shoot.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
 | Duck Simulator 2 | 182367 | [182367-duck-simulator-2.json](./182367-duck-simulator-2.json) |
 | Duck Tales ZX: Webby to the Rescue! | 279736 | [279736-duck-tales-zx-webby-to-the-rescue.json](./279736-duck-tales-zx-webby-to-the-rescue.json) |
@@ -6227,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke!Zone II | 270750 | [270750-duke-zone-ii.json](./270750-duke-zone-ii.json) |
 | Dukedom | 228534 | [228534-dukedom.json](./228534-dukedom.json) |
 | Dukem Memorial Hospital | 270706 | [270706-dukem-memorial-hospital.json](./270706-dukem-memorial-hospital.json) |
+| Dukkido | 330897 | [330897-dukkido.json](./330897-dukkido.json) |
 | Dulce et Decorum | 195202 | [195202-dulce-et-decorum.json](./195202-dulce-et-decorum.json) |
 | Duline | 199489 | [199489-duline.json](./199489-duline.json) |
 | Dull Ache | 181843 | [181843-dull-ache.json](./181843-dull-ache.json) |
