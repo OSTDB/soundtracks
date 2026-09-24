@@ -2327,6 +2327,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Riding Hood | 409767 | [409767-little-red-riding-hood.json](./409767-little-red-riding-hood.json) |
 | Little Red Riding Hood A | 225313 | [225313-little-red-riding-hood-a.json](./225313-little-red-riding-hood-a.json) |
 | Little Red Riding Hood B | 225312 | [225312-little-red-riding-hood-b.json](./225312-little-red-riding-hood-b.json) |
+| Little Red Riding Hood: Wonder Animals | 288301 | [288301-little-red-riding-hood-wonder-animals.json](./288301-little-red-riding-hood-wonder-animals.json) |
+| Little Red Riding Hood: Wonder Animals Vol.2 | 288300 | [288300-little-red-riding-hood-wonder-animals-vol-2.json](./288300-little-red-riding-hood-wonder-animals-vol-2.json) |
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
 | Little Reds Forest Fun | 114958 | [114958-little-reds-forest-fun.json](./114958-little-reds-forest-fun.json) |
 | Little Retreat | 381609 | [381609-little-retreat.json](./381609-little-retreat.json) |
@@ -3165,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Sword | 353867 | [353867-lost-sword.json](./353867-lost-sword.json) |
 | Lost Tales: Karai Vosa | 376134 | [376134-lost-tales-karai-vosa.json](./376134-lost-tales-karai-vosa.json) |
 | Lost Tenet | 260213 | [260213-lost-tenet.json](./260213-lost-tenet.json) |
+| Lost The Lights | 288270 | [288270-lost-the-lights.json](./288270-lost-the-lights.json) |
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
 | Lost Tribe | 309517 | [309517-lost-tribe.json](./309517-lost-tribe.json) |
