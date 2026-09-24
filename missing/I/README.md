@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indian Train Simulator 2018 | 208928 | [208928-indian-train-simulator-2018.json](./208928-indian-train-simulator-2018.json) |
 | Indiana Boy Steam Edition | 112930 | [112930-indiana-boy-steam-edition.json](./112930-indiana-boy-steam-edition.json) |
 | Indiana Jones and The Great Circle: Collector's Edition | 317816 | [317816-indiana-jones-and-the-great-circle-collectors-edition.json](./317816-indiana-jones-and-the-great-circle-collectors-edition.json) |
+| Indiana Jones and the Great Circle: Digital Premium Upgrade | 332027 | [332027-indiana-jones-and-the-great-circle-digital-premium-upgrade.json](./332027-indiana-jones-and-the-great-circle-digital-premium-upgrade.json) |
 | Indiana Jones and The Great Circle: Premium Edition | 317815 | [317815-indiana-jones-and-the-great-circle-premium-edition.json](./317815-indiana-jones-and-the-great-circle-premium-edition.json) |
 | Indiana Jones and the Great Circle: The Order of Giants | 321852 | [321852-indiana-jones-and-the-great-circle-the-order-of-giants.json](./321852-indiana-jones-and-the-great-circle-the-order-of-giants.json) |
 | Indiana Jones and the Last Crusade: The Action Game | 185 | [185-indiana-jones-and-the-last-crusade-the-action-game.json](./185-indiana-jones-and-the-last-crusade-the-action-game.json) |
@@ -1216,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Darling Bundle Vol. 1 | 146693 | [146693-indie-darling-bundle-vol-1.json](./146693-indie-darling-bundle-vol-1.json) |
 | Indie Darling Bundle Vol.3 | 117528 | [117528-indie-darling-bundle-vol-3.json](./117528-indie-darling-bundle-vol-3.json) |
 | Indie Dream | 118975 | [118975-indie-dream.json](./118975-indie-dream.json) |
+| Indie Essentials: Walking Simulators 2 | 332028 | [332028-indie-essentials-walking-simulators-2.json](./332028-indie-essentials-walking-simulators-2.json) |
 | Indie Game Sim | 26552 | [26552-indie-game-sim.json](./26552-indie-game-sim.json) |
 | Indie Gems Bundle - Explosions Edition | 147802 | [147802-indie-gems-bundle-explosions-edition.json](./147802-indie-gems-bundle-explosions-edition.json) |
 | Indie Gems Bundle - Nonograms edition | 147794 | [147794-indie-gems-bundle-nonograms-edition.json](./147794-indie-gems-bundle-nonograms-edition.json) |
