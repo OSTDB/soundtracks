@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death and the Vampire | 409818 | [409818-the-death-and-the-vampire.json](./409818-the-death-and-the-vampire.json) |
 | The Death Forest | 348446 | [348446-the-death-forest.json](./348446-the-death-forest.json) |
 | The Death Into Trouble | 151125 | [151125-the-death-into-trouble.json](./151125-the-death-into-trouble.json) |
+| The Death Night Show | 320324 | [320324-the-death-night-show.json](./320324-the-death-night-show.json) |
 | The Death of Erin Myers | 111289 | [111289-the-death-of-erin-myers.json](./111289-the-death-of-erin-myers.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Death of the Video Star | 365182 | [365182-the-death-of-the-video-star.json](./365182-the-death-of-the-video-star.json) |
@@ -4218,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island: Escape Room | 289992 | [289992-the-island-escape-room.json](./289992-the-island-escape-room.json) |
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
 | The Islander: Landscape Designer | 118242 | [118242-the-islander-landscape-designer.json](./118242-the-islander-landscape-designer.json) |
+| The Islands of Freedom | 320307 | [320307-the-islands-of-freedom.json](./320307-the-islands-of-freedom.json) |
 | The Isle | 25838 | [25838-the-isle.json](./25838-the-isle.json) |
 | The Isle of Elanor | 152845 | [152845-the-isle-of-elanor.json](./152845-the-isle-of-elanor.json) |
 | The Isle of Lost Bees | 404945 | [404945-the-isle-of-lost-bees.json](./404945-the-isle-of-lost-bees.json) |
@@ -8821,6 +8823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinyfolks | 197266 | [197266-tinyfolks.json](./197266-tinyfolks.json) |
 | TinyHoopers | 323964 | [323964-tinyhoopers.json](./323964-tinyhoopers.json) |
 | Tinykin | 152267 | [152267-tinykin.json](./152267-tinykin.json) |
+| Tinymon | 320308 | [320308-tinymon.json](./320308-tinymon.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
 | Tinyshot | 138048 | [138048-tinyshot.json](./138048-tinyshot.json) |
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
