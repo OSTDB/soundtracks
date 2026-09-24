@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Divided Light | 96766 | [96766-a-divided-light.json](./96766-a-divided-light.json) |
 | A Divine Wager | 176912 | [176912-a-divine-wager.json](./176912-a-divine-wager.json) |
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
+| A Dog Tale | 295872 | [295872-a-dog-tale.json](./295872-a-dog-tale.json) |
 | A Dogs Dream | 378434 | [378434-a-dogs-dream.json](./378434-a-dogs-dream.json) |
 | A dragon girl looks up at the endless sky | 33166 | [33166-a-dragon-girl-looks-up-at-the-endless-sky.json](./33166-a-dragon-girl-looks-up-at-the-endless-sky.json) |
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
@@ -1485,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
 | Airavat | 57916 | [57916-airavat.json](./57916-airavat.json) |
+| AirBob | 295874 | [295874-airbob.json](./295874-airbob.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
 | Airborne Justice | 321533 | [321533-airborne-justice.json](./321533-airborne-justice.json) |
@@ -1702,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuro & Bahaku: Jungle Adventure | 325060 | [325060-akuro-and-bahaku-jungle-adventure.json](./325060-akuro-and-bahaku-jungle-adventure.json) |
 | Akuu Senki Raijin | 41340 | [41340-akuu-senki-raijin.json](./41340-akuu-senki-raijin.json) |
 | Akuya | 30891 | [30891-akuya.json](./30891-akuya.json) |
+| Akuyaku Reijou ha Ringoku no Outaishi ni Dekiai Sareru | 295840 | [295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json](./295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
 | Al Gurbish in... Nick it & Run!!! | 316060 | [316060-al-gurbish-in-nick-it-and-run.json](./316060-al-gurbish-in-nick-it-and-run.json) |
 | Al Qmrah Restaurant | 213975 | [213975-al-qmrah-restaurant.json](./213975-al-qmrah-restaurant.json) |
@@ -5488,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroburrow | 358375 | [358375-astroburrow.json](./358375-astroburrow.json) |
 | Astrocat: Milky Way Journey | 196264 | [196264-astrocat-milky-way-journey.json](./196264-astrocat-milky-way-journey.json) |
 | Astrochibbi | 377677 | [377677-astrochibbi.json](./377677-astrochibbi.json) |
+| Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
 | Astrodle | 291592 | [291592-astrodle.json](./291592-astrodle.json) |
 | Astrodrifter | 304682 | [304682-astrodrifter.json](./304682-astrodrifter.json) |
