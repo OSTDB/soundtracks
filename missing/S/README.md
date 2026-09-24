@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of the Pharaohs | 41556 | [41556-secret-of-the-pharaohs.json](./41556-secret-of-the-pharaohs.json) |
 | Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
+| Secret Of World | 315032 | [315032-secret-of-world.json](./315032-secret-of-world.json) |
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
 | Secret Paws: Cozy Apartments | 363887 | [363887-secret-paws-cozy-apartments.json](./363887-secret-paws-cozy-apartments.json) |
 | Secret Paws: Cozy Offices | 348838 | [348838-secret-paws-cozy-offices.json](./348838-secret-paws-cozy-offices.json) |
@@ -5192,12 +5193,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Royal Legacy PC Port | 378269 | [378269-sm64-royal-legacy-pc-port.json](./378269-sm64-royal-legacy-pc-port.json) |
 | SM64 Sapphire | 133993 | [133993-sm64-sapphire.json](./133993-sm64-sapphire.json) |
 | SM64 Sapphire PC Port | 378272 | [378272-sm64-sapphire-pc-port.json](./378272-sm64-sapphire-pc-port.json) |
+| SM64 Shining Stars DS | 315010 | [315010-sm64-shining-stars-ds.json](./315010-sm64-shining-stars-ds.json) |
 | SM64 Shining Stars Repainted | 135169 | [135169-sm64-shining-stars-repainted.json](./135169-sm64-shining-stars-repainted.json) |
 | SM64 The Dark Stars | 386848 | [386848-sm64-the-dark-stars.json](./386848-sm64-the-dark-stars.json) |
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
 | SM64 TsucnenT's Treasures PC Port | 378273 | [378273-sm64-tsucnents-treasures-pc-port.json](./378273-sm64-tsucnents-treasures-pc-port.json) |
 | SM64: Rocky Mountain Revisited | 256295 | [256295-sm64-rocky-mountain-revisited.json](./256295-sm64-rocky-mountain-revisited.json) |
 | SM64CoOpDX | 307768 | [307768-sm64coopdx.json](./307768-sm64coopdx.json) |
+| SM64DS: The Adventurous Journey | 315012 | [315012-sm64ds-the-adventurous-journey.json](./315012-sm64ds-the-adventurous-journey.json) |
 | SM64EX Coop | 198369 | [198369-sm64ex-coop.json](./198369-sm64ex-coop.json) |
 | SM64EX Coop: Lug's Delightful Dioramas | 378300 | [378300-sm64ex-coop-lugs-delightful-dioramas.json](./378300-sm64ex-coop-lugs-delightful-dioramas.json) |
 | SM64EX Coop: Odyssey Mario's Moveset - Rebirth | 378302 | [378302-sm64ex-coop-odyssey-marios-moveset-rebirth.json](./378302-sm64ex-coop-odyssey-marios-moveset-rebirth.json) |
@@ -6715,6 +6718,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Uprising | 318630 | [318630-sonic-uprising.json](./318630-sonic-uprising.json) |
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
 | Sonic VS. Darkness: True Nightmare Revived | 140402 | [140402-sonic-vs-darkness-true-nightmare-revived.json](./140402-sonic-vs-darkness-true-nightmare-revived.json) |
+| Sonic vs. Dogs | 315038 | [315038-sonic-vs-dogs.json](./315038-sonic-vs-dogs.json) |
+| Sonic vs. Simpson | 315037 | [315037-sonic-vs-simpson.json](./315037-sonic-vs-simpson.json) |
 | Sonic Whirlwind | 326816 | [326816-sonic-whirlwind.json](./326816-sonic-whirlwind.json) |
 | Sonic Wild | 317612 | [317612-sonic-wild.json](./317612-sonic-wild.json) |
 | Sonic Wings Limited | 39693 | [39693-sonic-wings-limited.json](./39693-sonic-wings-limited.json) |
@@ -6733,6 +6738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X: Emerald Grab | 269876 | [269876-sonic-x-emerald-grab.json](./269876-sonic-x-emerald-grab.json) |
 | Sonic X: The Game | 326809 | [326809-sonic-x-the-game.json](./326809-sonic-x-the-game.json) |
 | Sonic XN | 331666 | [331666-sonic-xn.json](./331666-sonic-xn.json) |
+| Sonic Xtreme 2D | 315027 | [315027-sonic-xtreme-2d.json](./315027-sonic-xtreme-2d.json) |
 | Sonic Zoom | 270223 | [270223-sonic-zoom.json](./270223-sonic-zoom.json) |
 | Sonic: Before the Sequel - Redux | 266508 | [266508-sonic-before-the-sequel-redux.json](./266508-sonic-before-the-sequel-redux.json) |
 | Sonic: Dark Horizon | 330822 | [330822-sonic-dark-horizon.json](./330822-sonic-dark-horizon.json) |
@@ -8925,6 +8931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox | 8581 | [8581-star-fox.json](./8581-star-fox.json) |
 | Star Fox 2 | 9674 | [9674-star-fox-2.json](./9674-star-fox-2.json) |
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
+| Star Fox 64 (1995) | 315034 | [315034-star-fox-64-1995.json](./315034-star-fox-64-1995.json) |
 | Star Fox 64 3D | 6890 | [6890-star-fox-64-3d.json](./6890-star-fox-64-3d.json) |
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
 | Star Fox NES | 323905 | [323905-star-fox-nes.json](./323905-star-fox-nes.json) |
@@ -10317,6 +10324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangest.io's My Megamix '21 | 195798 | [195798-strangest-ios-my-megamix-21.json](./195798-strangest-ios-my-megamix-21.json) |
 | Strania: The Stella Machina | 34342 | [34342-strania-the-stella-machina.json](./34342-strania-the-stella-machina.json) |
 | Strania: The Stella Machina - EX | 328477 | [328477-strania-the-stella-machina-ex.json](./328477-strania-the-stella-machina-ex.json) |
+| Strashilki: Shestoe chuvstvo | 315017 | [315017-strashilki-shestoe-chuvstvo.json](./315017-strashilki-shestoe-chuvstvo.json) |
 | Strat-O-Gems Deluxe | 40751 | [40751-strat-o-gems-deluxe.json](./40751-strat-o-gems-deluxe.json) |
 | Strata Scavenger | 65219 | [65219-strata-scavenger.json](./65219-strata-scavenger.json) |
 | Stratagem | 289311 | [289311-stratagem.json](./289311-stratagem.json) |
@@ -11844,6 +11852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 Disk Version | 132644 | [132644-super-mario-64-disk-version.json](./132644-super-mario-64-disk-version.json) |
 | Super Mario 64 DOS Port | 307320 | [307320-super-mario-64-dos-port.json](./307320-super-mario-64-dos-port.json) |
 | Super Mario 64 DS | 22301 | [22301-super-mario-64-ds.json](./22301-super-mario-64-ds.json) |
+| Super Mario 64 DS Sub Zero | 315013 | [315013-super-mario-64-ds-sub-zero.json](./315013-super-mario-64-ds-sub-zero.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
 | Super Mario 64 FPS | 144163 | [144163-super-mario-64-fps.json](./144163-super-mario-64-fps.json) |
 | Super Mario 64 HD | 176900 | [176900-super-mario-64-hd.json](./176900-super-mario-64-hd.json) |
@@ -11874,6 +11883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Star Revenge Redone | 132840 | [132840-super-mario-64-star-revenge-redone.json](./132840-super-mario-64-star-revenge-redone.json) |
 | Super Mario 64: The Missing Stars | 135176 | [135176-super-mario-64-the-missing-stars.json](./135176-super-mario-64-the-missing-stars.json) |
 | Super Mario 64: Through the Ages | 199070 | [199070-super-mario-64-through-the-ages.json](./199070-super-mario-64-through-the-ages.json) |
+| Super Mario 64x4 | 315007 | [315007-super-mario-64x4.json](./315007-super-mario-64x4.json) |
 | Super Mario 74 | 132842 | [132842-super-mario-74.json](./132842-super-mario-74.json) |
 | Super Mario 74: Extreme Edition | 132843 | [132843-super-mario-74-extreme-edition.json](./132843-super-mario-74-extreme-edition.json) |
 | Super Mario Advance 4: Card e+ - 1UP Kinoko ga 3UP Moon ni Kawaru | 296051 | [296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json](./296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json) |
@@ -11959,6 +11969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 63 | 294714 | [294714-super-mario-galaxy-63.json](./294714-super-mario-galaxy-63.json) |
 | Super Mario Galaxy 64 | 313339 | [313339-super-mario-galaxy-64.json](./313339-super-mario-galaxy-64.json) |
+| Super Mario Galaxy DS | 315008 | [315008-super-mario-galaxy-ds.json](./315008-super-mario-galaxy-ds.json) |
 | Super Mario Galaxy: The Lost Levels | 313326 | [313326-super-mario-galaxy-the-lost-levels.json](./313326-super-mario-galaxy-the-lost-levels.json) |
 | Super Mario Generations | 318549 | [318549-super-mario-generations.json](./318549-super-mario-generations.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
