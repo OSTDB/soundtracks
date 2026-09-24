@@ -2685,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bat 3 | 347231 | [347231-flappy-bat-3.json](./347231-flappy-bat-3.json) |
 | Flappy Bee | 169471 | [169471-flappy-bee.json](./169471-flappy-bee.json) |
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
+| Flappy Bird | 316744 | [316744-flappy-bird.json](./316744-flappy-bird.json) |
 | Flappy Bird | 339269 | [339269-flappy-bird.json](./339269-flappy-bird.json) |
 | Flappy Bird GB | 297596 | [297596-flappy-bird-gb.json](./297596-flappy-bird-gb.json) |
 | Flappy Bird Ultra | 368522 | [368522-flappy-bird-ultra.json](./368522-flappy-bird-ultra.json) |
@@ -3955,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foster's Home for Imaginary Friends | 230313 | [230313-fosters-home-for-imaginary-friends.json](./230313-fosters-home-for-imaginary-friends.json) |
 | Foster's Home for Imaginary Friends: Imagination Invaders | 8004 | [8004-fosters-home-for-imaginary-friends-imagination-invaders.json](./8004-fosters-home-for-imaginary-friends-imagination-invaders.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
+| Fostiator | 316793 | [316793-fostiator.json](./316793-fostiator.json) |
 | Foto Boy: A New Job | 290932 | [290932-foto-boy-a-new-job.json](./290932-foto-boy-a-new-job.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
 | Foturians: Myth and Reality | 399697 | [399697-foturians-myth-and-reality.json](./399697-foturians-myth-and-reality.json) |
