@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samu Rise | 181777 | [181777-samu-rise.json](./181777-samu-rise.json) |
 | Samudai | 35927 | [35927-samudai.json](./35927-samudai.json) |
 | Samuel Prince Attorney at Law: Chapter 4 | 397791 | [397791-samuel-prince-attorney-at-law-chapter-4.json](./397791-samuel-prince-attorney-at-law-chapter-4.json) |
+| Samuel Sage: The Mystery at Penby Inn | 285505 | [285505-samuel-sage-the-mystery-at-penby-inn.json](./285505-samuel-sage-the-mystery-at-penby-inn.json) |
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
@@ -535,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Kirby | 134459 | [134459-samurai-kirby.json](./134459-samurai-kirby.json) |
 | Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
 | Samurai Nihon-Ichi | 40415 | [40415-samurai-nihon-ichi.json](./40415-samurai-nihon-ichi.json) |
+| Samurai Ninja Wars | 285522 | [285522-samurai-ninja-wars.json](./285522-samurai-ninja-wars.json) |
 | Samurai of Hyuga Book 5: Side Stories 11-20 | 213461 | [213461-samurai-of-hyuga-book-5-side-stories-11-20.json](./213461-samurai-of-hyuga-book-5-side-stories-11-20.json) |
 | Samurai Pizza Cats: Blast from the Past! | 332394 | [332394-samurai-pizza-cats-blast-from-the-past.json](./332394-samurai-pizza-cats-blast-from-the-past.json) |
 | Samurai Poodle | 60768 | [60768-samurai-poodle.json](./60768-samurai-poodle.json) |
@@ -929,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Princess? Save a Fart! | 405464 | [405464-save-the-princess-save-a-fart.json](./405464-save-the-princess-save-a-fart.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save the Reactor | 190174 | [190174-save-the-reactor.json](./190174-save-the-reactor.json) |
+| Save the throne | 285527 | [285527-save-the-throne.json](./285527-save-the-throne.json) |
 | Save the Villainess | 287728 | [287728-save-the-villainess.json](./287728-save-the-villainess.json) |
 | Save the Villy | 101389 | [101389-save-the-villy.json](./101389-save-the-villy.json) |
 | Save the Whales | 22762 | [22762-save-the-whales.json](./22762-save-the-whales.json) |
@@ -938,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | Saveseeker | 356279 | [356279-saveseeker.json](./356279-saveseeker.json) |
 | Saviner | 383524 | [383524-saviner.json](./383524-saviner.json) |
+| Saving Astral | 285510 | [285510-saving-astral.json](./285510-saving-astral.json) |
 | Saving Bumblebrook | 410461 | [410461-saving-bumblebrook.json](./410461-saving-bumblebrook.json) |
 | Saving Clicklandia | 295017 | [295017-saving-clicklandia.json](./295017-saving-clicklandia.json) |
 | Saving Diary | 316655 | [316655-saving-diary.json](./316655-saving-diary.json) |
@@ -1844,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Girl: Charming Girl | 171014 | [171014-seek-girl-charming-girl.json](./171014-seek-girl-charming-girl.json) |
 | Seek Magician | 144924 | [144924-seek-magician.json](./144924-seek-magician.json) |
 | Seek Wife | 154402 | [154402-seek-wife.json](./154402-seek-wife.json) |
+| Seekboss | 285513 | [285513-seekboss.json](./285513-seekboss.json) |
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
 | Seeker Eye | 413757 | [413757-seeker-eye.json](./413757-seeker-eye.json) |
 | Seeker of the Ruins | 331304 | [331304-seeker-of-the-ruins.json](./331304-seeker-of-the-ruins.json) |
@@ -2556,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Beast III | 12221 | [12221-shadow-of-the-beast-iii.json](./12221-shadow-of-the-beast-iii.json) |
 | Shadow of the Colossus | 139896 | [139896-shadow-of-the-colossus.json](./139896-shadow-of-the-colossus.json) |
 | Shadow of the Colossus: Special Edition | 52192 | [52192-shadow-of-the-colossus-special-edition.json](./52192-shadow-of-the-colossus-special-edition.json) |
+| Shadow of the Curse-Eater | 285528 | [285528-shadow-of-the-curse-eater.json](./285528-shadow-of-the-curse-eater.json) |
 | Shadow of the Devil | 291048 | [291048-shadow-of-the-devil.json](./291048-shadow-of-the-devil.json) |
 | Shadow of the Five Moons: Code of the Ninja | 371427 | [371427-shadow-of-the-five-moons-code-of-the-ninja.json](./371427-shadow-of-the-five-moons-code-of-the-ninja.json) |
 | Shadow of The Forerunner | 379567 | [379567-shadow-of-the-forerunner.json](./379567-shadow-of-the-forerunner.json) |
@@ -3265,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi no Dokutsu | 181773 | [181773-shinobi-no-dokutsu.json](./181773-shinobi-no-dokutsu.json) |
 | Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
 | Shinobi Origins | 389108 | [389108-shinobi-origins.json](./389108-shinobi-origins.json) |
+| Shinobi Saga | 285539 | [285539-shinobi-saga.json](./285539-shinobi-saga.json) |
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
 | Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
 | Shinobi, Koi Utsutsu | 61665 | [61665-shinobi-koi-utsutsu.json](./61665-shinobi-koi-utsutsu.json) |
@@ -3954,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Night | 110391 | [110391-silent-night.json](./110391-silent-night.json) |
 | Silent Night: A Christmas Delivery | 158667 | [158667-silent-night-a-christmas-delivery.json](./158667-silent-night-a-christmas-delivery.json) |
+| Silent Nightmares: A Christmas Story | 285511 | [285511-silent-nightmares-a-christmas-story.json](./285511-silent-nightmares-a-christmas-story.json) |
 | Silent Nights | 240787 | [240787-silent-nights.json](./240787-silent-nights.json) |
 | Silent Numbers | 390104 | [390104-silent-numbers.json](./390104-silent-numbers.json) |
 | Silent Ops | 332433 | [332433-silent-ops.json](./332433-silent-ops.json) |
@@ -6333,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solraid | 200633 | [200633-solraid.json](./200633-solraid.json) |
 | Solridge | 305938 | [305938-solridge.json](./305938-solridge.json) |
 | Solse AI-Quest | 290938 | [290938-solse-ai-quest.json](./290938-solse-ai-quest.json) |
+| Solstale | 285533 | [285533-solstale.json](./285533-solstale.json) |
 | Solstice | 306355 | [306355-solstice.json](./306355-solstice.json) |
 | Solstice | 324503 | [324503-solstice.json](./324503-solstice.json) |
 | Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
@@ -7259,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: The Stick of Truth - Ultimate Fellowship Pack | 74743 | [74743-south-park-the-stick-of-truth-ultimate-fellowship-pack.json](./74743-south-park-the-stick-of-truth-ultimate-fellowship-pack.json) |
 | South Pole Bebop | 298875 | [298875-south-pole-bebop.json](./298875-south-pole-bebop.json) |
 | South Scrimshaw, Part One | 183581 | [183581-south-scrimshaw-part-one.json](./183581-south-scrimshaw-part-one.json) |
+| South Scrimshaw, Part Two | 285550 | [285550-south-scrimshaw-part-two.json](./285550-south-scrimshaw-part-two.json) |
 | South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
 | Southbound | 391602 | [391602-southbound.json](./391602-southbound.json) |
 | Southern Legends: The Temple Defenders | 236382 | [236382-southern-legends-the-temple-defenders.json](./236382-southern-legends-the-temple-defenders.json) |
@@ -7665,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trash Scavenger | 211215 | [211215-space-trash-scavenger.json](./211215-space-trash-scavenger.json) |
 | Space Travel | 11303 | [11303-space-travel.json](./11303-space-travel.json) |
 | Space Travel Idle | 148480 | [148480-space-travel-idle.json](./148480-space-travel-idle.json) |
+| Space Traveler's Brain Creator | 285504 | [285504-space-travelers-brain-creator.json](./285504-space-travelers-brain-creator.json) |
 | Space Treasure Hunters | 372489 | [372489-space-treasure-hunters.json](./372489-space-treasure-hunters.json) |
 | Space Treasure Hunters part 2 | 372491 | [372491-space-treasure-hunters-part-2.json](./372491-space-treasure-hunters-part-2.json) |
 | Space Treat Deluxe | 40752 | [40752-space-treat-deluxe.json](./40752-space-treat-deluxe.json) |
@@ -8171,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheres of Chaos | 13245 | [13245-spheres-of-chaos.json](./13245-spheres-of-chaos.json) |
 | Spheres: The Ancient Fuses | 118335 | [118335-spheres-the-ancient-fuses.json](./118335-spheres-the-ancient-fuses.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
+| Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Sphinx and the Cursed Mummy | 210438 | [210438-sphinx-and-the-cursed-mummy.json](./210438-sphinx-and-the-cursed-mummy.json) |
@@ -8747,6 +8759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Cosmos: Cosmos Edition | 333725 | [333725-spy-guy-cosmos-cosmos-edition.json](./333725-spy-guy-cosmos-cosmos-edition.json) |
 | Spy Guy Europe | 395211 | [395211-spy-guy-europe.json](./395211-spy-guy-europe.json) |
 | Spy Guy Hidden Objects Poland | 400194 | [400194-spy-guy-hidden-objects-poland.json](./400194-spy-guy-hidden-objects-poland.json) |
+| Spy Guy Hidden Objects: Deluxe Edition | 285543 | [285543-spy-guy-hidden-objects-deluxe-edition.json](./285543-spy-guy-hidden-objects-deluxe-edition.json) |
 | Spy Guy Hidden Objects: Spy Guy Indonesia | 347333 | [347333-spy-guy-hidden-objects-spy-guy-indonesia.json](./347333-spy-guy-hidden-objects-spy-guy-indonesia.json) |
 | Spy Guy Indonesia Deluxe | 347334 | [347334-spy-guy-indonesia-deluxe.json](./347334-spy-guy-indonesia-deluxe.json) |
 | Spy Guy Memory | 300837 | [300837-spy-guy-memory.json](./300837-spy-guy-memory.json) |
@@ -13129,6 +13142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive In Strange World | 288810 | [288810-survive-in-strange-world.json](./288810-survive-in-strange-world.json) |
 | Survive Into Night | 155504 | [155504-survive-into-night.json](./155504-survive-into-night.json) |
 | Survive Isolation | 150503 | [150503-survive-isolation.json](./150503-survive-isolation.json) |
+| Survive It: Frozen | 285512 | [285512-survive-it-frozen.json](./285512-survive-it-frozen.json) |
 | Survive on Raft | 125851 | [125851-survive-on-raft.json](./125851-survive-on-raft.json) |
 | Survive or Thrive | 148521 | [148521-survive-or-thrive.json](./148521-survive-or-thrive.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
