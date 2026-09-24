@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell Me Why: Chapter One - Homecoming | 141012 | [141012-tell-me-why-chapter-one-homecoming.json](./141012-tell-me-why-chapter-one-homecoming.json) |
 | Tell Me Why: Chapter Three - Inheritance | 141014 | [141014-tell-me-why-chapter-three-inheritance.json](./141014-tell-me-why-chapter-three-inheritance.json) |
 | Tell Me Why: Chapter Two - Family Secrets | 141013 | [141013-tell-me-why-chapter-two-family-secrets.json](./141013-tell-me-why-chapter-two-family-secrets.json) |
+| Tell Me Your Story: Ancient Puzzle | 324444 | [324444-tell-me-your-story-ancient-puzzle.json](./324444-tell-me-your-story-ancient-puzzle.json) |
 | Tell Me Your Story: Complete + | 328825 | [328825-tell-me-your-story-complete.json](./328825-tell-me-your-story-complete.json) |
 | Tell Me Your Story: Porcelain Puzzle 1 | 324485 | [324485-tell-me-your-story-porcelain-puzzle-1.json](./324485-tell-me-your-story-porcelain-puzzle-1.json) |
 | Tell Me Your Story: Porcelain Puzzle 2 | 324486 | [324486-tell-me-your-story-porcelain-puzzle-2.json](./324486-tell-me-your-story-porcelain-puzzle-2.json) |
