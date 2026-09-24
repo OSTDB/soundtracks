@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw | 7863 | [7863-jigsaw.json](./7863-jigsaw.json) |
 | Jigsaw Advent Calendar | 276845 | [276845-jigsaw-advent-calendar.json](./276845-jigsaw-advent-calendar.json) |
 | Jigsaw Chronicles: Heroes of Legend | 317217 | [317217-jigsaw-chronicles-heroes-of-legend.json](./317217-jigsaw-chronicles-heroes-of-legend.json) |
+| Jigsaw Chronicles: Most Wanted | 325002 | [325002-jigsaw-chronicles-most-wanted.json](./325002-jigsaw-chronicles-most-wanted.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
 | Jigsaw Detective | 366437 | [366437-jigsaw-detective.json](./366437-jigsaw-detective.json) |
 | Jigsaw Fun 3-in-1 Collection | 197341 | [197341-jigsaw-fun-3-in-1-collection.json](./197341-jigsaw-fun-3-in-1-collection.json) |
@@ -1129,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Out | 280310 | [280310-jump-out.json](./280310-jump-out.json) |
 | Jump Protocol | 411816 | [411816-jump-protocol.json](./411816-jump-protocol.json) |
 | Jump Puzzle | 244369 | [244369-jump-puzzle.json](./244369-jump-puzzle.json) |
+| Jump Race | 324998 | [324998-jump-race.json](./324998-jump-race.json) |
 | Jump Shot | 46858 | [46858-jump-shot.json](./46858-jump-shot.json) |
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
 | Jump Start Crazy Karts | 50638 | [50638-jump-start-crazy-karts.json](./50638-jump-start-crazy-karts.json) |
