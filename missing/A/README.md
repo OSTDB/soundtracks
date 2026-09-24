@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Completely Normal Dating Simulation That is Definitely Completely Sweet, Innocent and Normal | 135015 | [135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json](./135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json) |
 | A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
+| A Courtesan of Rome | 313819 | [313819-a-courtesan-of-rome.json](./313819-a-courtesan-of-rome.json) |
 | A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
 | A Crazy Guy | 251010 | [251010-a-crazy-guy.json](./251010-a-crazy-guy.json) |
 | A Cup of Coffee | 211247 | [211247-a-cup-of-coffee.json](./211247-a-cup-of-coffee.json) |
@@ -768,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Obelisk: Sigrun, the Valkyrie | 357779 | [357779-across-the-obelisk-sigrun-the-valkyrie.json](./357779-across-the-obelisk-sigrun-the-valkyrie.json) |
 | Across the Obelisk: The Wolf Wars | 240895 | [240895-across-the-obelisk-the-wolf-wars.json](./240895-across-the-obelisk-the-wolf-wars.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
+| Across the Void | 313818 | [313818-across-the-void.json](./313818-across-the-void.json) |
 | Across The Void | 248133 | [248133-across-the-void.json](./248133-across-the-void.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
@@ -2313,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlpenCross | 52585 | [52585-alpencross.json](./52585-alpencross.json) |
 | Alpenglow | 384668 | [384668-alpenglow.json](./384668-alpenglow.json) |
 | Alpha | 117490 | [117490-alpha.json](./117490-alpha.json) |
+| Alpha | 313804 | [313804-alpha.json](./313804-alpha.json) |
 | Alpha Accident: Terra Nova | 256878 | [256878-alpha-accident-terra-nova.json](./256878-alpha-accident-terra-nova.json) |
 | Alpha and Omega | 98810 | [98810-alpha-and-omega.json](./98810-alpha-and-omega.json) |
 | Alpha Centauri | 261818 | [261818-alpha-centauri.json](./261818-alpha-centauri.json) |
