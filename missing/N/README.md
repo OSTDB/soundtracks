@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningyou no Kizuato | 255112 | [255112-ningyou-no-kizuato.json](./255112-ningyou-no-kizuato.json) |
 | Ningyou Tsukai | 41407 | [41407-ningyou-tsukai.json](./41407-ningyou-tsukai.json) |
 | Ninja | 12837 | [12837-ninja.json](./12837-ninja.json) |
+| Ninja 1987 | 304559 | [304559-ninja-1987.json](./304559-ninja-1987.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
 | Ninja Attack! | 87000 | [87000-ninja-attack.json](./87000-ninja-attack.json) |
 | Ninja Avenger Dragon Blade | 27119 | [27119-ninja-avenger-dragon-blade.json](./27119-ninja-avenger-dragon-blade.json) |
