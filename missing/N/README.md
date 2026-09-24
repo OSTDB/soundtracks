@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes: Naomi Hook | 355548 | [355548-no-more-heroes-naomi-hook.json](./355548-no-more-heroes-naomi-hook.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No More Inputs | 164913 | [164913-no-more-inputs.json](./164913-no-more-inputs.json) |
+| No More Shopping | 334867 | [334867-no-more-shopping.json](./334867-no-more-shopping.json) |
 | No More Slimes!! | 414600 | [414600-no-more-slimes.json](./414600-no-more-slimes.json) |
 | No Offence, But | 126581 | [126581-no-offence-but.json](./126581-no-offence-but.json) |
 | No One Can Stop Mr. Domino! | 4107 | [4107-no-one-can-stop-mr-domino.json](./4107-no-one-can-stop-mr-domino.json) |
@@ -2363,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
 | NokNok Invasion! | 183505 | [183505-noknok-invasion.json](./183505-noknok-invasion.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
+| Nolean: The Space Bartender | 334891 | [334891-nolean-the-space-bartender.json](./334891-nolean-the-space-bartender.json) |
 | NoLimits 2: Roller Coaster Simulation - Professional License | 315485 | [315485-nolimits-2-roller-coaster-simulation-professional-license.json](./315485-nolimits-2-roller-coaster-simulation-professional-license.json) |
 | Noloinstale | 372087 | [372087-noloinstale.json](./372087-noloinstale.json) |
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
