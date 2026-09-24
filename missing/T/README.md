@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taken Soul | 273400 | [273400-taken-soul.json](./273400-taken-soul.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
 | Takenoko | 127080 | [127080-takenoko.json](./127080-takenoko.json) |
+| Takenoko: Tilt Five AR | 336726 | [336726-takenoko-tilt-five-ar.json](./336726-takenoko-tilt-five-ar.json) |
 | Takeout | 306368 | [306368-takeout.json](./306368-takeout.json) |
 | Takeout food | 107902 | [107902-takeout-food.json](./107902-takeout-food.json) |
 | Takeover | 304587 | [304587-takeover.json](./304587-takeover.json) |
@@ -2110,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Nerdstan | 250348 | [250348-the-adventures-of-nerdstan.json](./250348-the-adventures-of-nerdstan.json) |
 | The Adventures of Nick & Willikins | 87182 | [87182-the-adventures-of-nick-and-willikins.json](./87182-the-adventures-of-nick-and-willikins.json) |
 | The Adventures of Oddley | 320742 | [320742-the-adventures-of-oddley.json](./320742-the-adventures-of-oddley.json) |
+| The Adventures of Penny & Lou | 336707 | [336707-the-adventures-of-penny-and-lou.json](./336707-the-adventures-of-penny-and-lou.json) |
 | The Adventures of Peter Rabbit & Benjamin Bunny | 206209 | [206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json](./206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json) |
 | The Adventures of Pinocchio | 206210 | [206210-the-adventures-of-pinocchio.json](./206210-the-adventures-of-pinocchio.json) |
 | The Adventures of Pinocchio: Activity Center | 206211 | [206211-the-adventures-of-pinocchio-activity-center.json](./206211-the-adventures-of-pinocchio-activity-center.json) |
@@ -4060,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Huntsman: Winter's Curse (Book 5) | 164440 | [164440-the-huntsman-winters-curse-book-5.json](./164440-the-huntsman-winters-curse-book-5.json) |
 | The Hurt in Secret | 369550 | [369550-the-hurt-in-secret.json](./369550-the-hurt-in-secret.json) |
 | The Hustle: Detroit Streets | 73266 | [73266-the-hustle-detroit-streets.json](./73266-the-hustle-detroit-streets.json) |
+| The Hypnic Chain | 336729 | [336729-the-hypnic-chain.json](./336729-the-hypnic-chain.json) |
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
 | The IBM Basic Quiz | 79603 | [79603-the-ibm-basic-quiz.json](./79603-the-ibm-basic-quiz.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
@@ -6837,6 +6840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unknown City (Episode 1) | 105987 | [105987-the-unknown-city-episode-1.json](./105987-the-unknown-city-episode-1.json) |
 | The Unknown Force | 179580 | [179580-the-unknown-force.json](./179580-the-unknown-force.json) |
 | The Unknown Planet | 270684 | [270684-the-unknown-planet.json](./270684-the-unknown-planet.json) |
+| The Unlit Sun | 336737 | [336737-the-unlit-sun.json](./336737-the-unlit-sun.json) |
 | The UnMaking | 191722 | [191722-the-unmaking.json](./191722-the-unmaking.json) |
 | The Unmarked | 153353 | [153353-the-unmarked.json](./153353-the-unmarked.json) |
 | The Unplace | 373191 | [373191-the-unplace.json](./373191-the-unplace.json) |
@@ -9882,6 +9886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
 | Tour de France 2014 | 80876 | [80876-tour-de-france-2014.json](./80876-tour-de-france-2014.json) |
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
+| Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
 | Tourist | 89206 | [89206-tourist.json](./89206-tourist.json) |
 | Tourist Bus Simulator: BB40 | 168891 | [168891-tourist-bus-simulator-bb40.json](./168891-tourist-bus-simulator-bb40.json) |
