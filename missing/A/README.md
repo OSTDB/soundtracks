@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
+| Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
 | Ageod's American Civil War: The Blue and the Gray | 21451 | [21451-ageods-american-civil-war-the-blue-and-the-gray.json](./21451-ageods-american-civil-war-the-blue-and-the-gray.json) |
 | Ages of Mages: The Last Keeper | 98755 | [98755-ages-of-mages-the-last-keeper.json](./98755-ages-of-mages-the-last-keeper.json) |
 | Aggressive Inline | 3783 | [3783-aggressive-inline.json](./3783-aggressive-inline.json) |
@@ -3040,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Kingdom | 240247 | [240247-angry-birds-kingdom.json](./240247-angry-birds-kingdom.json) |
 | Angry Birds Match | 56590 | [56590-angry-birds-match.json](./56590-angry-birds-match.json) |
 | Angry Birds Match World | 377794 | [377794-angry-birds-match-world.json](./377794-angry-birds-match-world.json) |
+| Angry Birds Matching | 325566 | [325566-angry-birds-matching.json](./325566-angry-birds-matching.json) |
 | Angry Birds Opera | 237496 | [237496-angry-birds-opera.json](./237496-angry-birds-opera.json) |
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
@@ -3048,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Star Wars HD | 102600 | [102600-angry-birds-star-wars-hd.json](./102600-angry-birds-star-wars-hd.json) |
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
 | Angry Birds World Tour | 214040 | [214040-angry-birds-world-tour.json](./214040-angry-birds-world-tour.json) |
+| Angry Birds: Dangerous Railroad | 325564 | [325564-angry-birds-dangerous-railroad.json](./325564-angry-birds-dangerous-railroad.json) |
 | Angry Birds: Flock Party | 372088 | [372088-angry-birds-flock-party.json](./372088-angry-birds-flock-party.json) |
 | Angry Brainless Bovines | 140607 | [140607-angry-brainless-bovines.json](./140607-angry-brainless-bovines.json) |
 | Angry Bulls | 209706 | [209706-angry-bulls.json](./209706-angry-bulls.json) |
@@ -3517,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Chess | 56434 | [56434-anti-chess.json](./56434-anti-chess.json) |
 | Anti Frank's Wrath | 173255 | [173255-anti-franks-wrath.json](./173255-anti-franks-wrath.json) |
 | Anti Hero Bundle | 147791 | [147791-anti-hero-bundle.json](./147791-anti-hero-bundle.json) |
+| Anti Pac-Man | 325557 | [325557-anti-pac-man.json](./325557-anti-pac-man.json) |
 | Anti Terrorist Rush 2 | 116342 | [116342-anti-terrorist-rush-2.json](./116342-anti-terrorist-rush-2.json) |
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
 | Anti-Grav | 114325 | [114325-anti-grav.json](./114325-anti-grav.json) |
