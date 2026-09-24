@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Fear: Episode Zero | 379432 | [379432-tales-of-fear-episode-zero.json](./379432-tales-of-fear-episode-zero.json) |
 | Tales of Fearless | 379435 | [379435-tales-of-fearless.json](./379435-tales-of-fearless.json) |
 | Tales of Formentera | 414437 | [414437-tales-of-formentera.json](./414437-tales-of-formentera.json) |
+| Tales of Fortune | 312121 | [312121-tales-of-fortune.json](./312121-tales-of-fortune.json) |
 | Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Graces F Remastered | 314945 | [314945-tales-of-graces-f-remastered.json](./314945-tales-of-graces-f-remastered.json) |
@@ -1526,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temtem: Deluxe Edition | 212338 | [212338-temtem-deluxe-edition.json](./212338-temtem-deluxe-edition.json) |
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
 | Ten | 202770 | [202770-ten.json](./202770-ten.json) |
+| Ten Bells | 312127 | [312127-ten-bells.json](./312127-ten-bells.json) |
 | Ten Dates | 217256 | [217256-ten-dates.json](./217256-ten-dates.json) |
 | Ten Days to War | 122161 | [122161-ten-days-to-war.json](./122161-ten-days-to-war.json) |
 | Ten Deadly Games | 378271 | [378271-ten-deadly-games.json](./378271-ten-deadly-games.json) |
@@ -4829,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
+| The Life and Suffering of Prince Jerian | 312141 | [312141-the-life-and-suffering-of-prince-jerian.json](./312141-the-life-and-suffering-of-prince-jerian.json) |
 | The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
 | The Life and Times of Daniel Vastberaden | 368571 | [368571-the-life-and-times-of-daniel-vastberaden.json](./368571-the-life-and-times-of-daniel-vastberaden.json) |
 | The Life of a Pacifist is Often Fraught With Conflict | 65777 | [65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json](./65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json) |
@@ -4854,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lima Project | 271492 | [271492-the-lima-project.json](./271492-the-lima-project.json) |
 | The Liminal | 372130 | [372130-the-liminal.json](./372130-the-liminal.json) |
 | The Liminal Space | 289988 | [289988-the-liminal-space.json](./289988-the-liminal-space.json) |
+| The Liminal Theory | 312130 | [312130-the-liminal-theory.json](./312130-the-liminal-theory.json) |
 | The Line | 315715 | [315715-the-line.json](./315715-the-line.json) |
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
@@ -7637,6 +7641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threadline | 396214 | [396214-threadline.json](./396214-threadline.json) |
 | Threads of Time | 317820 | [317820-threads-of-time.json](./317820-threads-of-time.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
+| Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
@@ -7710,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Ages: New Leaders & Wonders | 155052 | [155052-through-the-ages-new-leaders-and-wonders.json](./155052-through-the-ages-new-leaders-and-wonders.json) |
 | Through the Fragmentation | 147400 | [147400-through-the-fragmentation.json](./147400-through-the-fragmentation.json) |
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
+| Through the Galaxy | 312129 | [312129-through-the-galaxy.json](./312129-through-the-galaxy.json) |
 | Through the Looking Glass | 71709 | [71709-through-the-looking-glass.json](./71709-through-the-looking-glass.json) |
 | Through the Manor | 406320 | [406320-through-the-manor.json](./406320-through-the-manor.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
