@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 1 | 225641 | [225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json](./225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 2 | 225642 | [225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json](./225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json) |
+| Perfect Ninja Bundle | 331486 | [331486-perfect-ninja-bundle.json](./331486-perfect-ninja-bundle.json) |
 | Perfect Pachinko | 385719 | [385719-perfect-pachinko.json](./385719-perfect-pachinko.json) |
 | Perfect Plan | 29226 | [29226-perfect-plan.json](./29226-perfect-plan.json) |
 | Perfect Shot | 370722 | [370722-perfect-shot.json](./370722-perfect-shot.json) |
@@ -2037,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Point: Corrupted Horizons | 171628 | [171628-phoenix-point-corrupted-horizons.json](./171628-phoenix-point-corrupted-horizons.json) |
 | Phoenix Point: Festering Skies | 149592 | [149592-phoenix-point-festering-skies.json](./149592-phoenix-point-festering-skies.json) |
 | Phoenix Point: Legacy of the Ancients | 149585 | [149585-phoenix-point-legacy-of-the-ancients.json](./149585-phoenix-point-legacy-of-the-ancients.json) |
+| Phoenix Reborn Games Big Christmas bundle | 331484 | [331484-phoenix-reborn-games-big-christmas-bundle.json](./331484-phoenix-reborn-games-big-christmas-bundle.json) |
 | Phoenix Springs | 223363 | [223363-phoenix-springs.json](./223363-phoenix-springs.json) |
 | Phoenix Strike | 129743 | [129743-phoenix-strike.json](./129743-phoenix-strike.json) |
 | Phoenix Sword: The Hidden Scroll | 355195 | [355195-phoenix-sword-the-hidden-scroll.json](./355195-phoenix-sword-the-hidden-scroll.json) |
@@ -4492,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porcupine's Fate: Chapter 1 | 196694 | [196694-porcupines-fate-chapter-1.json](./196694-porcupines-fate-chapter-1.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
+| Porkshire Hero | 331485 | [331485-porkshire-hero.json](./331485-porkshire-hero.json) |
 | Porky's | 22761 | [22761-porkys.json](./22761-porkys.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
 | Pornocrates | 158065 | [158065-pornocrates.json](./158065-pornocrates.json) |
@@ -4857,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precious: Naze Shou ha Kami ni Idonda no ka? | 345543 | [345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json](./345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json) |
 | Precipice | 111937 | [111937-precipice.json](./111937-precipice.json) |
 | Precipice Pain | 308245 | [308245-precipice-pain.json](./308245-precipice-pain.json) |
+| Precision Platform Bundle | 331487 | [331487-precision-platform-bundle.json](./331487-precision-platform-bundle.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | PreCure All Stars: Zenin Shuugou - Let's Dance! | 56462 | [56462-precure-all-stars-zenin-shuugou-lets-dance.json](./56462-precure-all-stars-zenin-shuugou-lets-dance.json) |
 | Predator | 15345 | [15345-predator.json](./15345-predator.json) |
@@ -6142,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
 | Punch Line: Cheermancy Edition | 105109 | [105109-punch-line-cheermancy-edition.json](./105109-punch-line-cheermancy-edition.json) |
 | Punch Lunch: Foodtruck Fighter | 364698 | [364698-punch-lunch-foodtruck-fighter.json](./364698-punch-lunch-foodtruck-fighter.json) |
+| Punch Monk | 331513 | [331513-punch-monk.json](./331513-punch-monk.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punch Upon a Time | 399204 | [399204-punch-upon-a-time.json](./399204-punch-upon-a-time.json) |
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
