@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is My Son? | 390143 | [390143-where-is-my-son.json](./390143-where-is-my-son.json) |
 | Where is the Beach | 114354 | [114354-where-is-the-beach.json](./114354-where-is-the-beach.json) |
 | Where is the Meaning? | 161396 | [161396-where-is-the-meaning.json](./161396-where-is-the-meaning.json) |
+| Where is the Tutorial | 322722 | [322722-where-is-the-tutorial.json](./322722-where-is-the-tutorial.json) |
 | Where It All Began | 198361 | [198361-where-it-all-began.json](./198361-where-it-all-began.json) |
 | Where Jellyfish | 279091 | [279091-where-jellyfish.json](./279091-where-jellyfish.json) |
 | Where Moss Grows | 397060 | [397060-where-moss-grows.json](./397060-where-moss-grows.json) |
@@ -3443,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K24: Global Superstars Pack | 332035 | [332035-wwe-2k24-global-superstars-pack.json](./332035-wwe-2k24-global-superstars-pack.json) |
 | WWE 2K24: MyRISE Mega-Boost | 332034 | [332034-wwe-2k24-myrise-mega-boost.json](./332034-wwe-2k24-myrise-mega-boost.json) |
 | WWE 2K24: Pat McAfee Show Pack | 332036 | [332036-wwe-2k24-pat-mcafee-show-pack.json](./332036-wwe-2k24-pat-mcafee-show-pack.json) |
+| WWE 2K24: Post Malone & Friends Pack | 322712 | [322712-wwe-2k24-post-malone-and-friends-pack.json](./322712-wwe-2k24-post-malone-and-friends-pack.json) |
 | WWE 2K24: WCW Pack | 332033 | [332033-wwe-2k24-wcw-pack.json](./332033-wwe-2k24-wcw-pack.json) |
 | WWE 2K25: Deadman Edition | 335095 | [335095-wwe-2k25-deadman-edition.json](./335095-wwe-2k25-deadman-edition.json) |
 | WWE 2K25: Deadman Edition Bonus Pack | 353986 | [353986-wwe-2k25-deadman-edition-bonus-pack.json](./353986-wwe-2k25-deadman-edition-bonus-pack.json) |
