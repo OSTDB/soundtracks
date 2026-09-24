@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
 | Abbigale and the Monster | 51177 | [51177-abbigale-and-the-monster.json](./51177-abbigale-and-the-monster.json) |
+| Abby Héroes en apuros | 316790 | [316790-abby-heroes-en-apuros.json](./316790-abby-heroes-en-apuros.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
@@ -2958,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromis | 377085 | [377085-andromis.json](./377085-andromis.json) |
 | Andromium | 94740 | [94740-andromium.json](./94740-andromium.json) |
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
+| Andy's Adventure Game | 316760 | [316760-andys-adventure-game.json](./316760-andys-adventure-game.json) |
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
 | Anemoi | 276736 | [276736-anemoi.json](./276736-anemoi.json) |
 | Anemoiapolis | 141855 | [141855-anemoiapolis.json](./141855-anemoiapolis.json) |
@@ -3108,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anicon: Animal Complex - Sheep's Path | 106607 | [106607-anicon-animal-complex-sheeps-path.json](./106607-anicon-animal-complex-sheeps-path.json) |
 | ANIDU: Animal Dust Puppet’s Adventure | 258549 | [258549-anidu-animal-dust-puppet-s-adventure.json](./258549-anidu-animal-dust-puppet-s-adventure.json) |
 | Anigma Byte | 384215 | [384215-anigma-byte.json](./384215-anigma-byte.json) |
+| Anika's Odyssey: Land of the Taniwha | 316761 | [316761-anikas-odyssey-land-of-the-taniwha.json](./316761-anikas-odyssey-land-of-the-taniwha.json) |
 | Anima | 193433 | [193433-anima.json](./193433-anima.json) |
 | Anima | 337817 | [337817-anima.json](./337817-anima.json) |
 | Anima Fighters | 332422 | [332422-anima-fighters.json](./332422-anima-fighters.json) |
@@ -3489,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Way | 202239 | [202239-another-way.json](./202239-another-way.json) |
 | Another Way of Gettin' Paid | 319234 | [319234-another-way-of-gettin-paid.json](./319234-another-way-of-gettin-paid.json) |
 | Another Way of Gettin' Paid | 319235 | [319235-another-way-of-gettin-paid.json](./319235-another-way-of-gettin-paid.json) |
+| Another Way Out | 316762 | [316762-another-way-out.json](./316762-another-way-out.json) |
 | Another World | 343435 | [343435-another-world.json](./343435-another-world.json) |
 | Another World | 343437 | [343437-another-world.json](./343437-another-world.json) |
 | Another World | 392454 | [392454-another-world.json](./392454-another-world.json) |
@@ -3563,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
 | Antichamber | 2064 | [2064-antichamber.json](./2064-antichamber.json) |
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
+| Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
 | Antigrav | 43521 | [43521-antigrav.json](./43521-antigrav.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
