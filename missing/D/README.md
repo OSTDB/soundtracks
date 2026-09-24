@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ded | 30073 | [30073-ded.json](./30073-ded.json) |
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
 | Dededeball | 395701 | [395701-dededeball.json](./395701-dededeball.json) |
+| Deduce Together | 308884 | [308884-deduce-together.json](./308884-deduce-together.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
 | Deed: Sustainable Business | 240201 | [240201-deed-sustainable-business.json](./240201-deed-sustainable-business.json) |
 | Deeds Were Done 2: Project Ascend | 414425 | [414425-deeds-were-done-2-project-ascend.json](./414425-deeds-were-done-2-project-ascend.json) |
@@ -1888,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space | 108405 | [108405-deep-space.json](./108405-deep-space.json) |
 | Deep Space | 237377 | [237377-deep-space.json](./237377-deep-space.json) |
 | Deep Space | 272554 | [272554-deep-space.json](./272554-deep-space.json) |
+| Deep Space 7 | 308881 | [308881-deep-space-7.json](./308881-deep-space-7.json) |
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
 | Deep Space Delivery | 329081 | [329081-deep-space-delivery.json](./329081-deep-space-delivery.json) |
 | Deep Space Directive | 267476 | [267476-deep-space-directive.json](./267476-deep-space-directive.json) |
@@ -2920,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DGU: Death God University - Midterm Mania | 171457 | [171457-dgu-death-god-university-midterm-mania.json](./171457-dgu-death-god-university-midterm-mania.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
 | DHTML Lemmings | 352223 | [352223-dhtml-lemmings.json](./352223-dhtml-lemmings.json) |
+| Di Feng Long Huang | 308898 | [308898-di-feng-long-huang.json](./308898-di-feng-long-huang.json) |
 | Di Gi Charat Fantasy | 109070 | [109070-di-gi-charat-fantasy.json](./109070-di-gi-charat-fantasy.json) |
 | Di-Gata Defenders | 47956 | [47956-di-gata-defenders.json](./47956-di-gata-defenders.json) |
 | Di-Lithium Lift | 137482 | [137482-di-lithium-lift.json](./137482-di-lithium-lift.json) |
@@ -3864,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
 | Divergences | 356267 | [356267-divergences.json](./356267-divergences.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
+| Diverse Defenders | 308913 | [308913-diverse-defenders.json](./308913-diverse-defenders.json) |
 | Divi-Dead | 12420 | [12420-divi-dead.json](./12420-divi-dead.json) |
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
 | Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
@@ -6500,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter: Alliance | 21140 | [21140-dungeon-hunter-alliance.json](./21140-dungeon-hunter-alliance.json) |
 | Dungeon Janitor | 345605 | [345605-dungeon-janitor.json](./345605-dungeon-janitor.json) |
 | Dungeon Janitor | 345607 | [345607-dungeon-janitor.json](./345607-dungeon-janitor.json) |
+| Dungeon Jinrou | 308914 | [308914-dungeon-jinrou.json](./308914-dungeon-jinrou.json) |
 | Dungeon Journey | 253964 | [253964-dungeon-journey.json](./253964-dungeon-journey.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
@@ -6593,6 +6598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Survivors | 257935 | [257935-dungeon-survivors.json](./257935-dungeon-survivors.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
+| Dungeon Tiny Hunter | 308908 | [308908-dungeon-tiny-hunter.json](./308908-dungeon-tiny-hunter.json) |
 | Dungeon Town | 111719 | [111719-dungeon-town.json](./111719-dungeon-town.json) |
 | Dungeon Trail | 374595 | [374595-dungeon-trail.json](./374595-dungeon-trail.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
