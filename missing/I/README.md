@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Dead 2: Unleashed | 197325 | [197325-into-the-dead-2-unleashed.json](./197325-into-the-dead-2-unleashed.json) |
 | Into the Dead: Our Darkest Days | 230366 | [230366-into-the-dead-our-darkest-days.json](./230366-into-the-dead-our-darkest-days.json) |
 | Into the Deep Web | 184608 | [184608-into-the-deep-web.json](./184608-into-the-deep-web.json) |
+| Into The Depths | 287741 | [287741-into-the-depths.json](./287741-into-the-depths.json) |
 | Into the Depths Below | 279127 | [279127-into-the-depths-below.json](./279127-into-the-depths-below.json) |
 | Into the Dungeon | 258171 | [258171-into-the-dungeon.json](./258171-into-the-dungeon.json) |
 | Into the Eagle's Nest | 12616 | [12616-into-the-eagles-nest.json](./12616-into-the-eagles-nest.json) |
