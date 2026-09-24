@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Toss | 179124 | [179124-ragdoll-toss.json](./179124-ragdoll-toss.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage District: Humanity Armageddon | 406800 | [406800-rage-district-humanity-armageddon.json](./406800-rage-district-humanity-armageddon.json) |
+| Rage Effect | 321508 | [321508-rage-effect.json](./321508-rage-effect.json) |
 | Rage Fishing | 373656 | [373656-rage-fishing.json](./373656-rage-fishing.json) |
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
 | Rage Jump | 141019 | [141019-rage-jump.json](./141019-rage-jump.json) |
@@ -2332,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Skeletal | 135175 | [135175-return-of-the-skeletal.json](./135175-return-of-the-skeletal.json) |
 | Return of the Things | 66627 | [66627-return-of-the-things.json](./66627-return-of-the-things.json) |
 | Return or No Return | 267447 | [267447-return-or-no-return.json](./267447-return-or-no-return.json) |
+| Return Survival | 321517 | [321517-return-survival.json](./321517-return-survival.json) |
 | Return Tape | 142250 | [142250-return-tape.json](./142250-return-tape.json) |
 | Return the Backrooms | 224561 | [224561-return-the-backrooms.json](./224561-return-the-backrooms.json) |
 | Return to ... | 348960 | [348960-return-to.json](./348960-return-to.json) |
