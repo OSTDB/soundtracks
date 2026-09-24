@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer of Kings | 397941 | [397941-killer-of-kings.json](./397941-killer-of-kings.json) |
 | Killer Pool | 175279 | [175279-killer-pool.json](./175279-killer-pool.json) |
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
+| Killer Trait | 333190 | [333190-killer-trait.json](./333190-killer-trait.json) |
 | Killer Zombie Hunt | 276484 | [276484-killer-zombie-hunt.json](./276484-killer-zombie-hunt.json) |
 | Killer: Rewind | 345018 | [345018-killer-rewind.json](./345018-killer-rewind.json) |
 | Killer7 | 3966 | [3966-killer7.json](./3966-killer7.json) |
