@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintball eXtreme | 34793 | [34793-paintball-extreme.json](./34793-paintball-extreme.json) |
 | Paintball NET | 125951 | [125951-paintball-net.json](./125951-paintball-net.json) |
 | PaintBall War 2 | 154464 | [154464-paintball-war-2.json](./154464-paintball-war-2.json) |
+| Paintballers: MLPB 2024 | 295344 | [295344-paintballers-mlpb-2024.json](./295344-paintballers-mlpb-2024.json) |
 | Paintboss - Car Painting VR | 75909 | [75909-paintboss-car-painting-vr.json](./75909-paintboss-car-painting-vr.json) |
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
 | Paintcan Panic | 357352 | [357352-paintcan-panic.json](./357352-paintcan-panic.json) |
@@ -2646,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball M: Duke Nukem's Big Shot Pinball | 276743 | [276743-pinball-m-duke-nukems-big-shot-pinball.json](./276743-pinball-m-duke-nukems-big-shot-pinball.json) |
 | Pinball M: The Thing Pinball | 278535 | [278535-pinball-m-the-thing-pinball.json](./278535-pinball-m-the-thing-pinball.json) |
 | Pinball Madness 2 | 71225 | [71225-pinball-madness-2.json](./71225-pinball-madness-2.json) |
+| Pinball Masters | 295324 | [295324-pinball-masters.json](./295324-pinball-masters.json) |
 | Pinball Paladins | 364703 | [364703-pinball-paladins.json](./364703-pinball-paladins.json) |
 | Pinball Parlor | 31684 | [31684-pinball-parlor.json](./31684-pinball-parlor.json) |
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
@@ -4819,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pouch | 340596 | [340596-pouch.json](./340596-pouch.json) |
 | Poultry Party | 341558 | [341558-poultry-party.json](./341558-poultry-party.json) |
 | Pounce | 80231 | [80231-pounce.json](./80231-pounce.json) |
+| Pounce and the Twin Trees | 295349 | [295349-pounce-and-the-twin-trees.json](./295349-pounce-and-the-twin-trees.json) |
 | Pound For Pound | 40400 | [40400-pound-for-pound.json](./40400-pound-for-pound.json) |
 | Pour Boy and the Nitro Necromancer | 400895 | [400895-pour-boy-and-the-nitro-necromancer.json](./400895-pour-boy-and-the-nitro-necromancer.json) |
 | Pour Quelques Bonbons... | 320994 | [320994-pour-quelques-bonbons.json](./320994-pour-quelques-bonbons.json) |
@@ -5143,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
 | Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
+| Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
 | Prickly Goo To The Rescue | 328051 | [328051-prickly-goo-to-the-rescue.json](./328051-prickly-goo-to-the-rescue.json) |
@@ -5617,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progs_dump | 300705 | [300705-progs-dump.json](./300705-progs-dump.json) |
 | Prohibeast | 343266 | [343266-prohibeast.json](./343266-prohibeast.json) |
 | Prohibition 1930 | 53480 | [53480-prohibition-1930.json](./53480-prohibition-1930.json) |
+| Project 13: Nightwatch | 295338 | [295338-project-13-nightwatch.json](./295338-project-13-nightwatch.json) |
 | Project 13: Nightwatch - Canteen | 310382 | [310382-project-13-nightwatch-canteen.json](./310382-project-13-nightwatch-canteen.json) |
 | Project 13: Taxidermy Trails | 288192 | [288192-project-13-taxidermy-trails.json](./288192-project-13-taxidermy-trails.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
@@ -5871,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Unknown Designation | 309881 | [309881-project-unknown-designation.json](./309881-project-unknown-designation.json) |
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
 | Project Vic | 280885 | [280885-project-vic.json](./280885-project-vic.json) |
+| Project Vic 2 | 295339 | [295339-project-vic-2.json](./295339-project-vic-2.json) |
 | Project Viper | 319154 | [319154-project-viper.json](./319154-project-viper.json) |
 | Project Volition | 270123 | [270123-project-volition.json](./270123-project-volition.json) |
 | Project Vostok | 258985 | [258985-project-vostok.json](./258985-project-vostok.json) |
