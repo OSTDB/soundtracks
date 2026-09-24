@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
+| Mahjongus: Mystery of Fortescue | 316192 | [316192-mahjongus-mystery-of-fortescue.json](./316192-mahjongus-mystery-of-fortescue.json) |
 | Mahluk: Dark demon | 31988 | [31988-mahluk-dark-demon.json](./31988-mahluk-dark-demon.json) |
 | Maho Shojo Pretty Sammy: Heart no Kimochi | 61330 | [61330-maho-shojo-pretty-sammy-heart-no-kimochi.json](./61330-maho-shojo-pretty-sammy-heart-no-kimochi.json) |
 | Mahogen | 328053 | [328053-mahogen.json](./328053-mahogen.json) |
@@ -7037,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom: The Ruckus | 98994 | [98994-mushroom-the-ruckus.json](./98994-mushroom-the-ruckus.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
+| Music Box: Electro Pop | 316232 | [316232-music-box-electro-pop.json](./316232-music-box-electro-pop.json) |
 | Music Box: Ethnic | 316268 | [316268-music-box-ethnic.json](./316268-music-box-ethnic.json) |
 | Music Box: Funky Vintage | 316266 | [316266-music-box-funky-vintage.json](./316266-music-box-funky-vintage.json) |
 | Music Box: Hip Hop | 316271 | [316271-music-box-hip-hop.json](./316271-music-box-hip-hop.json) |
