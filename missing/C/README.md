@@ -5458,6 +5458,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corsairs: Conquest at Sea | 10107 | [10107-corsairs-conquest-at-sea.json](./10107-corsairs-conquest-at-sea.json) |
 | Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
+| Cortex Chronicles 1: The Trial of Rowan Reed | 290987 | [290987-cortex-chronicles-1-the-trial-of-rowan-reed.json](./290987-cortex-chronicles-1-the-trial-of-rowan-reed.json) |
+| Cortex Chronicles 2: The Ride of Jax Riven | 290988 | [290988-cortex-chronicles-2-the-ride-of-jax-riven.json](./290988-cortex-chronicles-2-the-ride-of-jax-riven.json) |
+| Cortex Chronicles 3: The Escape of Rowan Reed | 290989 | [290989-cortex-chronicles-3-the-escape-of-rowan-reed.json](./290989-cortex-chronicles-3-the-escape-of-rowan-reed.json) |
+| Cortex Chronicles 6: The Infiltration of Nyx Sterling | 290986 | [290986-cortex-chronicles-6-the-infiltration-of-nyx-sterling.json](./290986-cortex-chronicles-6-the-infiltration-of-nyx-sterling.json) |
 | Corum Online | 124615 | [124615-corum-online.json](./124615-corum-online.json) |
 | Corvax | 398314 | [398314-corvax.json](./398314-corvax.json) |
 | Corvette Evolution GT | 43475 | [43475-corvette-evolution-gt.json](./43475-corvette-evolution-gt.json) |
@@ -5552,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
 | Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
 | Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
+| Cosmo Nash: Culinary Courier | 290990 | [290990-cosmo-nash-culinary-courier.json](./290990-cosmo-nash-culinary-courier.json) |
 | Cosmo Police Galivan | 28825 | [28825-cosmo-police-galivan.json](./28825-cosmo-police-galivan.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmo Ranger: S.O.L. AD 2000 | 72068 | [72068-cosmo-ranger-s-o-l-ad-2000.json](./72068-cosmo-ranger-s-o-l-ad-2000.json) |
@@ -5839,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cr1me Fr0g | 218147 | [218147-cr1me-fr0g.json](./218147-cr1me-fr0g.json) |
 | Cr4ckr | 339332 | [339332-cr4ckr.json](./339332-cr4ckr.json) |
 | Crab and Fish | 218701 | [218701-crab-and-fish.json](./218701-crab-and-fish.json) |
+| Crab Boat | 291020 | [291020-crab-boat.json](./291020-crab-boat.json) |
 | Crab Digger | 236850 | [236850-crab-digger.json](./236850-crab-digger.json) |
 | Crab Digger: Tropical Island | 300858 | [300858-crab-digger-tropical-island.json](./300858-crab-digger-tropical-island.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
@@ -5854,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabby Beach | 191830 | [191830-crabby-beach.json](./191830-crabby-beach.json) |
 | Crabby Fishes | 335367 | [335367-crabby-fishes.json](./335367-crabby-fishes.json) |
 | Crabity | 301807 | [301807-crabity.json](./301807-crabity.json) |
+| Crabland | 290998 | [290998-crabland.json](./290998-crabland.json) |
 | Crablike | 342058 | [342058-crablike.json](./342058-crablike.json) |
 | Crabling | 244904 | [244904-crabling.json](./244904-crabling.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
