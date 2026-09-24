@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars across the World: Bulge 1944 | 150510 | [150510-wars-across-the-world-bulge-1944.json](./150510-wars-across-the-world-bulge-1944.json) |
 | Wars Across the World: Carrhae 53 | 156096 | [156096-wars-across-the-world-carrhae-53.json](./156096-wars-across-the-world-carrhae-53.json) |
 | Wars Across the World: Curupayti 1866 | 203922 | [203922-wars-across-the-world-curupayti-1866.json](./203922-wars-across-the-world-curupayti-1866.json) |
+| Wars Across The World: Namibia 1915 | 292644 | [292644-wars-across-the-world-namibia-1915.json](./292644-wars-across-the-world-namibia-1915.json) |
 | Wars Across The World: Tryphon 104 | 350610 | [350610-wars-across-the-world-tryphon-104.json](./350610-wars-across-the-world-tryphon-104.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
 | Warsaw Rising: City of Heroes | 115659 | [115659-warsaw-rising-city-of-heroes.json](./115659-warsaw-rising-city-of-heroes.json) |
@@ -1149,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Shop 2 | 28907 | [28907-weed-shop-2.json](./28907-weed-shop-2.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Weedcraft Inc & Moonshine Inc: Risky Business Bundle | 261334 | [261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json](./261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json) |
+| Weedcraft Inc + Bio Inc. Redemption: Medical Herbs Bundle | 292619 | [292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json](./292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
 | Weekend Solitaire: Grace in Motion | 416081 | [416081-weekend-solitaire-grace-in-motion.json](./416081-weekend-solitaire-grace-in-motion.json) |
 | Weekend Solitaire: Meditation | 337257 | [337257-weekend-solitaire-meditation.json](./337257-weekend-solitaire-meditation.json) |
@@ -2747,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woohoojin Bridges | 112119 | [112119-woohoojin-bridges.json](./112119-woohoojin-bridges.json) |
 | Wool | 377141 | [377141-wool.json](./377141-wool.json) |
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
+| Woolly Boy And The Circus | 292582 | [292582-woolly-boy-and-the-circus.json](./292582-woolly-boy-and-the-circus.json) |
 | WooLoop | 199121 | [199121-wooloop.json](./199121-wooloop.json) |
 | WooLoop: Industry Pack | 266315 | [266315-wooloop-industry-pack.json](./266315-wooloop-industry-pack.json) |
 | WooLoop: Magic Pack | 319347 | [319347-wooloop-magic-pack.json](./319347-wooloop-magic-pack.json) |
