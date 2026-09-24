@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T02:03:04.686Z",
-  "total_missing": 113977,
+  "generated_at": "2026-09-24T02:18:05.003Z",
+  "total_missing": 114027,
   "games": [
     {
       "igdb_id": 176875,
@@ -79128,6 +79128,11 @@
       "file": "missing/C/225623-chao-adventure.json"
     },
     {
+      "igdb_id": 331473,
+      "game_name": "Chao Adventure",
+      "file": "missing/C/331473-chao-adventure.json"
+    },
+    {
       "igdb_id": 225624,
       "game_name": "Chao Adventure 2",
       "file": "missing/C/225624-chao-adventure-2.json"
@@ -79136,6 +79141,11 @@
       "igdb_id": 122870,
       "game_name": "Chao Dream Touch! Happy Anniversary",
       "file": "missing/C/122870-chao-dream-touch-happy-anniversary.json"
+    },
+    {
+      "igdb_id": 331475,
+      "game_name": "Chao Internet Pet",
+      "file": "missing/C/331475-chao-internet-pet.json"
     },
     {
       "igdb_id": 326958,
@@ -181313,6 +181323,11 @@
       "file": "missing/F/69573-fuzzball.json"
     },
     {
+      "igdb_id": 331489,
+      "game_name": "Fuzzy",
+      "file": "missing/F/331489-fuzzy.json"
+    },
+    {
       "igdb_id": 104644,
       "game_name": "Fuzzy Critters",
       "file": "missing/F/104644-fuzzy-critters.json"
@@ -270958,6 +270973,11 @@
       "file": "missing/L/197410-lord-of-the-click-3.json"
     },
     {
+      "igdb_id": 331469,
+      "game_name": "Lord of the Click 4",
+      "file": "missing/L/331469-lord-of-the-click-4.json"
+    },
+    {
       "igdb_id": 347778,
       "game_name": "Lord of the Click 5",
       "file": "missing/L/347778-lord-of-the-click-5.json"
@@ -283643,6 +283663,11 @@
       "file": "missing/M/122431-marshmallow-madness.json"
     },
     {
+      "igdb_id": 331468,
+      "game_name": "Marshmallow Marvin",
+      "file": "missing/M/331468-marshmallow-marvin.json"
+    },
+    {
       "igdb_id": 334287,
       "game_name": "Marshmallow Marvin: Greenwood",
       "file": "missing/M/334287-marshmallow-marvin-greenwood.json"
@@ -292931,6 +292956,16 @@
       "igdb_id": 44569,
       "game_name": "Metal Gear Solid 4: 25th Anniversary Edition",
       "file": "missing/M/44569-metal-gear-solid-4-25th-anniversary-edition.json"
+    },
+    {
+      "igdb_id": 331472,
+      "game_name": "Metal Gear Solid Delta: Snake Eater - Digital Deluxe Edition",
+      "file": "missing/M/331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 331467,
+      "game_name": "Metal Gear Solid Delta: Snake Eater - Sneaking DLC Pack",
+      "file": "missing/M/331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json"
     },
     {
       "igdb_id": 298015,
@@ -317278,6 +317313,21 @@
       "file": "missing/N/308034-nba-2k25.json"
     },
     {
+      "igdb_id": 331476,
+      "game_name": "NBA 2K25 x TopSpin 2K25 Bundle",
+      "file": "missing/N/331476-nba-2k25-x-topspin-2k25-bundle.json"
+    },
+    {
+      "igdb_id": 331477,
+      "game_name": "NBA 2K25 x WWE 2K24 Bundle",
+      "file": "missing/N/331477-nba-2k25-x-wwe-2k24-bundle.json"
+    },
+    {
+      "igdb_id": 331478,
+      "game_name": "NBA 2K25 x WWE 2K24 x TopSpin 2K25 Bundle",
+      "file": "missing/N/331478-nba-2k25-x-wwe-2k24-x-topspin-2k25-bundle.json"
+    },
+    {
       "igdb_id": 317248,
       "game_name": "NBA 2K25: All-Star Edition",
       "file": "missing/N/317248-nba-2k25-all-star-edition.json"
@@ -318188,6 +318238,11 @@
       "file": "missing/N/185512-need-for-seed-undergrowth.json"
     },
     {
+      "igdb_id": 331479,
+      "game_name": "Need for Speed Deluxe Bundle",
+      "file": "missing/N/331479-need-for-speed-deluxe-bundle.json"
+    },
+    {
       "igdb_id": 91,
       "game_name": "Need for Speed II",
       "file": "missing/N/91-need-for-speed-ii.json"
@@ -318396,6 +318451,16 @@
       "igdb_id": 369061,
       "game_name": "Neffy: Moonlight Labyrinth X",
       "file": "missing/N/369061-neffy-moonlight-labyrinth-x.json"
+    },
+    {
+      "igdb_id": 331470,
+      "game_name": "Nefiriya and the Sands of Eternity",
+      "file": "missing/N/331470-nefiriya-and-the-sands-of-eternity.json"
+    },
+    {
+      "igdb_id": 331471,
+      "game_name": "Nefiriya x Super Astro Cat Bundle",
+      "file": "missing/N/331471-nefiriya-x-super-astro-cat-bundle.json"
     },
     {
       "igdb_id": 202938,
@@ -328058,6 +328123,11 @@
       "file": "missing/N/320541-nowv.json"
     },
     {
+      "igdb_id": 331480,
+      "game_name": "Nox Dash",
+      "file": "missing/N/331480-nox-dash.json"
+    },
+    {
       "igdb_id": 92834,
       "game_name": "Nox Quest",
       "file": "missing/N/92834-nox-quest.json"
@@ -331558,6 +331628,11 @@
       "file": "missing/O/43614-okage-shadow-king.json"
     },
     {
+      "igdb_id": 331481,
+      "game_name": "Okami + Kunitsu-Gami Bundle",
+      "file": "missing/O/331481-okami-kunitsu-gami-bundle.json"
+    },
+    {
       "igdb_id": 16618,
       "game_name": "Ōkamiden",
       "file": "missing/0-9/16618-okamiden.json"
@@ -331801,6 +331876,11 @@
       "igdb_id": 79824,
       "game_name": "Old School RuneScape",
       "file": "missing/O/79824-old-school-runescape.json"
+    },
+    {
+      "igdb_id": 331482,
+      "game_name": "Old School Vibes Bundle",
+      "file": "missing/O/331482-old-school-vibes-bundle.json"
     },
     {
       "igdb_id": 232438,
@@ -338066,6 +338146,11 @@
       "igdb_id": 40775,
       "game_name": "Out of Control",
       "file": "missing/O/40775-out-of-control.json"
+    },
+    {
+      "igdb_id": 331483,
+      "game_name": "Out of Control: Space Survival Bundle: Ctrl Alt Ego + Tin Can: Supporter Edition",
+      "file": "missing/O/331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json"
     },
     {
       "igdb_id": 177519,
@@ -348153,6 +348238,11 @@
       "file": "missing/P/225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json"
     },
     {
+      "igdb_id": 331486,
+      "game_name": "Perfect Ninja Bundle",
+      "file": "missing/P/331486-perfect-ninja-bundle.json"
+    },
+    {
       "igdb_id": 385719,
       "game_name": "Perfect Pachinko",
       "file": "missing/P/385719-perfect-pachinko.json"
@@ -350211,6 +350301,11 @@
       "igdb_id": 149585,
       "game_name": "Phoenix Point: Legacy of the Ancients",
       "file": "missing/P/149585-phoenix-point-legacy-of-the-ancients.json"
+    },
+    {
+      "igdb_id": 331484,
+      "game_name": "Phoenix Reborn Games Big Christmas bundle",
+      "file": "missing/P/331484-phoenix-reborn-games-big-christmas-bundle.json"
     },
     {
       "igdb_id": 223363,
@@ -362488,6 +362583,11 @@
       "file": "missing/P/89209-porkerpillar.json"
     },
     {
+      "igdb_id": 331485,
+      "game_name": "Porkshire Hero",
+      "file": "missing/P/331485-porkshire-hero.json"
+    },
+    {
       "igdb_id": 22761,
       "game_name": "Porky's",
       "file": "missing/P/22761-porkys.json"
@@ -364311,6 +364411,11 @@
       "igdb_id": 308245,
       "game_name": "Precipice Pain",
       "file": "missing/P/308245-precipice-pain.json"
+    },
+    {
+      "igdb_id": 331487,
+      "game_name": "Precision Platform Bundle",
+      "file": "missing/P/331487-precision-platform-bundle.json"
     },
     {
       "igdb_id": 270949,
@@ -370736,6 +370841,11 @@
       "igdb_id": 364698,
       "game_name": "Punch Lunch: Foodtruck Fighter",
       "file": "missing/P/364698-punch-lunch-foodtruck-fighter.json"
+    },
+    {
+      "igdb_id": 331513,
+      "game_name": "Punch Monk",
+      "file": "missing/P/331513-punch-monk.json"
     },
     {
       "igdb_id": 104102,
@@ -382921,6 +383031,11 @@
       "igdb_id": 377788,
       "game_name": "Red Out Block",
       "file": "missing/R/377788-red-out-block.json"
+    },
+    {
+      "igdb_id": 331512,
+      "game_name": "Red Panda x Cats Bundle",
+      "file": "missing/R/331512-red-panda-x-cats-bundle.json"
     },
     {
       "igdb_id": 59925,
@@ -404418,6 +404533,16 @@
       "file": "missing/S/132214-sbx-5k.json"
     },
     {
+      "igdb_id": 331511,
+      "game_name": "SC Cat Games Bundle",
+      "file": "missing/S/331511-sc-cat-games-bundle.json"
+    },
+    {
+      "igdb_id": 331514,
+      "game_name": "SC Games Triple Bundle",
+      "file": "missing/S/331514-sc-games-triple-bundle.json"
+    },
+    {
       "igdb_id": 19076,
       "game_name": "SC2VN: The eSports Visual Novel",
       "file": "missing/S/19076-sc2vn-the-esports-visual-novel.json"
@@ -408513,6 +408638,11 @@
       "file": "missing/S/120204-seeds-of-love.json"
     },
     {
+      "igdb_id": 331515,
+      "game_name": "Seeds of Power Bundle: Weedcraft Inc & Cultist Simulator: Anthology",
+      "file": "missing/S/331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json"
+    },
+    {
       "igdb_id": 196804,
       "game_name": "Seeds of Unity",
       "file": "missing/S/196804-seeds-of-unity.json"
@@ -412226,6 +412356,11 @@
       "igdb_id": 331845,
       "game_name": "Shadow Tactics: Blades of the Shogun - Deluxe Edition",
       "file": "missing/S/331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 331516,
+      "game_name": "Shadow Tactics: Blades of the Shogun - Ultimate Bundle",
+      "file": "missing/S/331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json"
     },
     {
       "igdb_id": 357447,
@@ -418596,6 +418731,11 @@
       "igdb_id": 89438,
       "game_name": "Silenced: The House",
       "file": "missing/S/89438-silenced-the-house.json"
+    },
+    {
+      "igdb_id": 331517,
+      "game_name": "SilenGames Bundle 2024",
+      "file": "missing/S/331517-silengames-bundle-2024.json"
     },
     {
       "igdb_id": 337071,
@@ -429201,6 +429341,11 @@
       "igdb_id": 403153,
       "game_name": "Sokobum",
       "file": "missing/S/403153-sokobum.json"
+    },
+    {
+      "igdb_id": 331518,
+      "game_name": "Sokobundle",
+      "file": "missing/S/331518-sokobundle.json"
     },
     {
       "igdb_id": 147449,
@@ -460898,6 +461043,11 @@
       "file": "missing/S/225738-super-spatial.json"
     },
     {
+      "igdb_id": 331506,
+      "game_name": "Super Speed Ball",
+      "file": "missing/S/331506-super-speed-ball.json"
+    },
+    {
       "igdb_id": 136856,
       "game_name": "Super Speed Race 64",
       "file": "missing/S/136856-super-speed-race-64.json"
@@ -466086,6 +466236,11 @@
       "igdb_id": 175334,
       "game_name": "Synesthetic",
       "file": "missing/S/175334-synesthetic.json"
+    },
+    {
+      "igdb_id": 331474,
+      "game_name": "Synnergy Games Bundle",
+      "file": "missing/S/331474-synnergy-games-bundle.json"
     },
     {
       "igdb_id": 105759,
@@ -475178,9 +475333,19 @@
       "file": "missing/T/238605-terraforma.json"
     },
     {
+      "igdb_id": 331493,
+      "game_name": "Terraformers: Deluxe Bundle",
+      "file": "missing/T/331493-terraformers-deluxe-bundle.json"
+    },
+    {
       "igdb_id": 318782,
       "game_name": "Terraformers: Megastructures",
       "file": "missing/T/318782-terraformers-megastructures.json"
+    },
+    {
+      "igdb_id": 331492,
+      "game_name": "Terraformers: Megastructures Bundle",
+      "file": "missing/T/331492-terraformers-megastructures-bundle.json"
     },
     {
       "igdb_id": 293763,
@@ -483713,6 +483878,11 @@
       "file": "missing/T/168819-the-exorcist-legion-vr-chapter-5-the-tomb.json"
     },
     {
+      "igdb_id": 331488,
+      "game_name": "The Exorcist: Story of School",
+      "file": "missing/T/331488-the-exorcist-story-of-school.json"
+    },
+    {
       "igdb_id": 224628,
       "game_name": "The Exorcist's Story",
       "file": "missing/T/224628-the-exorcists-story.json"
@@ -483891,6 +484061,11 @@
       "igdb_id": 9547,
       "game_name": "The Fall",
       "file": "missing/T/9547-the-fall.json"
+    },
+    {
+      "igdb_id": 331491,
+      "game_name": "The Fall Bundle",
+      "file": "missing/T/331491-the-fall-bundle.json"
     },
     {
       "igdb_id": 192385,
@@ -502986,6 +503161,11 @@
       "igdb_id": 206802,
       "game_name": "TheHunter: Call of the Wild - TruRACS",
       "file": "missing/T/206802-thehunter-call-of-the-wild-truracs.json"
+    },
+    {
+      "igdb_id": 331490,
+      "game_name": "TheHunter: Call of the Wild - Ultimate Hunting Bundle",
+      "file": "missing/T/331490-thehunter-call-of-the-wild-ultimate-hunting-bundle.json"
     },
     {
       "igdb_id": 206819,
@@ -537093,6 +537273,16 @@
       "file": "missing/V/94195-verlies.json"
     },
     {
+      "igdb_id": 331496,
+      "game_name": "Verlore Drome van Slange Bundle",
+      "file": "missing/V/331496-verlore-drome-van-slange-bundle.json"
+    },
+    {
+      "igdb_id": 331495,
+      "game_name": "Verlore Slange: Bundle",
+      "file": "missing/V/331495-verlore-slange-bundle.json"
+    },
+    {
       "igdb_id": 46659,
       "game_name": "Vermeer",
       "file": "missing/V/46659-vermeer.json"
@@ -544073,9 +544263,34 @@
       "file": "missing/W/293764-war-thunder-t-55am-1-pack.json"
     },
     {
+      "igdb_id": 331500,
+      "game_name": "War Thunder: \"Black Friday\" Bundle",
+      "file": "missing/W/331500-war-thunder-black-friday-bundle.json"
+    },
+    {
+      "igdb_id": 331498,
+      "game_name": "War Thunder: \"Serpent Rising\" Bundle",
+      "file": "missing/W/331498-war-thunder-serpent-rising-bundle.json"
+    },
+    {
+      "igdb_id": 331497,
+      "game_name": "War Thunder: \"Snake Charmer\" Bundle",
+      "file": "missing/W/331497-war-thunder-snake-charmer-bundle.json"
+    },
+    {
+      "igdb_id": 331494,
+      "game_name": "War Thunder: Al-Khalid-I Bundle",
+      "file": "missing/W/331494-war-thunder-al-khalid-i-bundle.json"
+    },
+    {
       "igdb_id": 316622,
       "game_name": "War Thunder: Ancient Helicopter Snail Bundle",
       "file": "missing/W/316622-war-thunder-ancient-helicopter-snail-bundle.json"
+    },
+    {
+      "igdb_id": 331501,
+      "game_name": "War Thunder: AV-8B Night Attack Bundle",
+      "file": "missing/W/331501-war-thunder-av-8b-night-attack-bundle.json"
     },
     {
       "igdb_id": 336933,
@@ -544108,6 +544323,11 @@
       "file": "missing/W/336935-war-thunder-marder-clovis-pack.json"
     },
     {
+      "igdb_id": 331499,
+      "game_name": "War Thunder: Object 140 Bundle",
+      "file": "missing/W/331499-war-thunder-object-140-bundle.json"
+    },
+    {
       "igdb_id": 156104,
       "game_name": "War Thunder: Reaper Pack",
       "file": "missing/W/156104-war-thunder-reaper-pack.json"
@@ -544118,6 +544338,11 @@
       "file": "missing/W/336936-war-thunder-somua-sm-pack.json"
     },
     {
+      "igdb_id": 331504,
+      "game_name": "War Thunder: Su-22M4 WTD 61 Bundle",
+      "file": "missing/W/331504-war-thunder-su-22m4-wtd-61-bundle.json"
+    },
+    {
       "igdb_id": 306494,
       "game_name": "War Thunder: T-80U-E1 Bundle",
       "file": "missing/W/306494-war-thunder-t-80u-e1-bundle.json"
@@ -544126,6 +544351,11 @@
       "igdb_id": 293762,
       "game_name": "War Thunder: T29 Pack",
       "file": "missing/W/293762-war-thunder-t29-pack.json"
+    },
+    {
+      "igdb_id": 331505,
+      "game_name": "War Thunder: Two Fronts Bundle",
+      "file": "missing/W/331505-war-thunder-two-fronts-bundle.json"
     },
     {
       "igdb_id": 332055,
@@ -547456,6 +547686,11 @@
       "igdb_id": 82874,
       "game_name": "Weakest Demon King: Escape! You Cannot Defeat the Female Heroines!",
       "file": "missing/W/82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json"
+    },
+    {
+      "igdb_id": 331510,
+      "game_name": "Weakfish Puzzle Bundle",
+      "file": "missing/W/331510-weakfish-puzzle-bundle.json"
     },
     {
       "igdb_id": 383930,
@@ -552716,6 +552951,11 @@
       "igdb_id": 275895,
       "game_name": "Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack",
       "file": "missing/W/275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json"
+    },
+    {
+      "igdb_id": 331509,
+      "game_name": "Wingspan Oceania Deluxe Bundle",
+      "file": "missing/W/331509-wingspan-oceania-deluxe-bundle.json"
     },
     {
       "igdb_id": 174266,
@@ -559168,6 +559408,11 @@
       "file": "missing/W/283600-wwe-2k24.json"
     },
     {
+      "igdb_id": 331508,
+      "game_name": "WWE 2K24 Bray Wyatt Bundle",
+      "file": "missing/W/331508-wwe-2k24-bray-wyatt-bundle.json"
+    },
+    {
       "igdb_id": 332035,
       "game_name": "WWE 2K24: Global Superstars Pack",
       "file": "missing/W/332035-wwe-2k24-global-superstars-pack.json"
@@ -559546,6 +559791,11 @@
       "igdb_id": 43941,
       "game_name": "X-Bladez: Inline Skater",
       "file": "missing/X/43941-x-bladez-inline-skater.json"
+    },
+    {
+      "igdb_id": 331507,
+      "game_name": "X-Bundle: Windows and Xbox games bundle",
+      "file": "missing/X/331507-x-bundle-windows-and-xbox-games-bundle.json"
     },
     {
       "igdb_id": 102156,
