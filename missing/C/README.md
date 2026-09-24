@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calcium Chaos | 199353 | [199353-calcium-chaos.json](./199353-calcium-chaos.json) |
 | Calcium Contract | 251814 | [251814-calcium-contract.json](./251814-calcium-contract.json) |
 | Calcu-Late | 33331 | [33331-calcu-late.json](./33331-calcu-late.json) |
+| Calculate It | 317375 | [317375-calculate-it.json](./317375-calculate-it.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Addition" | 105924 | [105924-calculation-castle-grecos-ghostly-challenge-addition.json](./105924-calculation-castle-grecos-ghostly-challenge-addition.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Division" | 105923 | [105923-calculation-castle-grecos-ghostly-challenge-division.json](./105923-calculation-castle-grecos-ghostly-challenge-division.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Multiplication" | 105922 | [105922-calculation-castle-grecos-ghostly-challenge-multiplication.json](./105922-calculation-castle-grecos-ghostly-challenge-multiplication.json) |
@@ -3773,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
 | CloseCall | 155991 | [155991-closecall.json](./155991-closecall.json) |
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
+| Closed Faith | 317366 | [317366-closed-faith.json](./317366-closed-faith.json) |
 | Closed Nightmare | 82371 | [82371-closed-nightmare.json](./82371-closed-nightmare.json) |
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
@@ -4449,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossal Cave Adventure | 265733 | [265733-colossal-cave-adventure.json](./265733-colossal-cave-adventure.json) |
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
+| Colossatron: Cosmic Crisis | 317377 | [317377-colossatron-cosmic-crisis.json](./317377-colossatron-cosmic-crisis.json) |
 | Colossatron: Massive World Threat | 62546 | [62546-colossatron-massive-world-threat.json](./62546-colossatron-massive-world-threat.json) |
 | Colosse | 19036 | [19036-colosse.json](./19036-colosse.json) |
 | Colosseum Coach | 395694 | [395694-colosseum-coach.json](./395694-colosseum-coach.json) |
@@ -7387,6 +7390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
+| Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Racer | 120151 | [120151-cyber-racer.json](./120151-cyber-racer.json) |
 | Cyber Rage: Retribution | 116827 | [116827-cyber-rage-retribution.json](./116827-cyber-rage-retribution.json) |
