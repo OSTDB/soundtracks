@@ -4096,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
 | Coil's Containment | 338916 | [338916-coils-containment.json](./338916-coils-containment.json) |
 | Coin | 314310 | [314310-coin.json](./314310-coin.json) |
+| Coin | 314433 | [314433-coin.json](./314433-coin.json) |
 | Coin & Cauldron | 391618 | [391618-coin-and-cauldron.json](./391618-coin-and-cauldron.json) |
 | Coin Collection Challenge | 379904 | [379904-coin-collection-challenge.json](./379904-coin-collection-challenge.json) |
 | Coin Commander | 128349 | [128349-coin-commander.json](./128349-coin-commander.json) |
@@ -4598,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
 | Command & Conquer: Generals | 649 | [649-command-and-conquer-generals.json](./649-command-and-conquer-generals.json) |
 | Command & Conquer: Legions | 256912 | [256912-command-and-conquer-legions.json](./256912-command-and-conquer-legions.json) |
+| Command & Conquer: Legions - Season Red Alert | 314404 | [314404-command-and-conquer-legions-season-red-alert.json](./314404-command-and-conquer-legions-season-red-alert.json) |
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
 | Command & Conquer: Red Alert 3 | 959 | [959-command-and-conquer-red-alert-3.json](./959-command-and-conquer-red-alert-3.json) |
@@ -6386,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critters: Cute Cubs in a Cruel World | 75037 | [75037-critters-cute-cubs-in-a-cruel-world.json](./75037-critters-cute-cubs-in-a-cruel-world.json) |
 | Critterville Goes Bankrupt | 378412 | [378412-critterville-goes-bankrupt.json](./378412-critterville-goes-bankrupt.json) |
 | Crnvrs | 186275 | [186275-crnvrs.json](./186275-crnvrs.json) |
+| Croak | 314420 | [314420-croak.json](./314420-croak.json) |
 | Croak and Solve | 404433 | [404433-croak-and-solve.json](./404433-croak-and-solve.json) |
 | Croak Cafe: From Pond to Plate | 311487 | [311487-croak-cafe-from-pond-to-plate.json](./311487-croak-cafe-from-pond-to-plate.json) |
 | Croaka-Crawla | 319576 | [319576-croaka-crawla.json](./319576-croaka-crawla.json) |
