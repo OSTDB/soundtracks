@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Collector's Edition | 221401 | [221401-resident-evil-2-collectors-edition.json](./221401-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Deluxe Edition | 110809 | [110809-resident-evil-2-deluxe-edition.json](./110809-resident-evil-2-deluxe-edition.json) |
+| Resident Evil 2: Marvin's Mod | 333762 | [333762-resident-evil-2-marvins-mod.json](./333762-resident-evil-2-marvins-mod.json) |
 | Resident Evil 2: Pix' N Love Limited Edition | 221404 | [221404-resident-evil-2-pix-n-love-limited-edition.json](./221404-resident-evil-2-pix-n-love-limited-edition.json) |
 | Resident Evil 2: Special Edition | 280755 | [280755-resident-evil-2-special-edition.json](./280755-resident-evil-2-special-edition.json) |
 | Resident Evil 2: Zombie Crisis | 339246 | [339246-resident-evil-2-zombie-crisis.json](./339246-resident-evil-2-zombie-crisis.json) |
