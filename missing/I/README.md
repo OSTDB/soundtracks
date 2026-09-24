@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iFarkle | 104658 | [104658-ifarkle.json](./104658-ifarkle.json) |
 | Iffermoon | 167145 | [167145-iffermoon.json](./167145-iffermoon.json) |
 | iFighter 1945 | 91940 | [91940-ifighter-1945.json](./91940-ifighter-1945.json) |
+| Ifu | 302488 | [302488-ifu.json](./302488-ifu.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | IG Arena: Idle RPG | 232054 | [232054-ig-arena-idle-rpg.json](./232054-ig-arena-idle-rpg.json) |
 | Iga Ninden Ga-ou | 55899 | [55899-iga-ninden-ga-ou.json](./55899-iga-ninden-ga-ou.json) |
@@ -1946,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interworlds Academy | 117080 | [117080-interworlds-academy.json](./117080-interworlds-academy.json) |
 | Interwoven Dream | 357811 | [357811-interwoven-dream.json](./357811-interwoven-dream.json) |
 | Intesa Vincente | 341899 | [341899-intesa-vincente.json](./341899-intesa-vincente.json) |
+| Intimate Abode | 302475 | [302475-intimate-abode.json](./302475-intimate-abode.json) |
 | Intimate, Infinite | 134009 | [134009-intimate-infinite.json](./134009-intimate-infinite.json) |
 | Intlovert Game Club | 342756 | [342756-intlovert-game-club.json](./342756-intlovert-game-club.json) |
 | Into a Hearth Yonder | 341682 | [341682-into-a-hearth-yonder.json](./341682-into-a-hearth-yonder.json) |
