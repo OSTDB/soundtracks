@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Reckoning of New York | 305291 | [305291-vampire-the-masquerade-reckoning-of-new-york.json](./305291-vampire-the-masquerade-reckoning-of-new-york.json) |
 | Vampire: The Masquerade - Shadows of New York | 132102 | [132102-vampire-the-masquerade-shadows-of-new-york.json](./132102-vampire-the-masquerade-shadows-of-new-york.json) |
 | Vampire: The Masquerade - Swansong: Primogen Edition | 196806 | [196806-vampire-the-masquerade-swansong-primogen-edition.json](./196806-vampire-the-masquerade-swansong-primogen-edition.json) |
+| Vampire! At the Masquerade | 301919 | [301919-vampire-at-the-masquerade.json](./301919-vampire-at-the-masquerade.json) |
 | Vampire's Castle Adventure | 73314 | [73314-vampires-castle-adventure.json](./73314-vampires-castle-adventure.json) |
 | Vampire's Kiss: Time Paradox | 390260 | [390260-vampires-kiss-time-paradox.json](./390260-vampires-kiss-time-paradox.json) |
 | Vampire+Hunter | 300019 | [300019-vampire-hunter.json](./300019-vampire-hunter.json) |
@@ -873,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincemus: Air Combat | 195259 | [195259-vincemus-air-combat.json](./195259-vincemus-air-combat.json) |
 | Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
+| Vincent's Chocolate | 301923 | [301923-vincents-chocolate.json](./301923-vincents-chocolate.json) |
 | Vínculo | 355077 | [355077-vinculo.json](./355077-vinculo.json) |
 | Vinculum | 417644 | [417644-vinculum.json](./417644-vinculum.json) |
 | Vind | 115721 | [115721-vind.json](./115721-vind.json) |
