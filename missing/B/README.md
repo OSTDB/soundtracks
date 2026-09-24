@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
 | Bad Dinos | 23219 | [23219-bad-dinos.json](./23219-bad-dinos.json) |
 | Bad Dog, Good Time | 393805 | [393805-bad-dog-good-time.json](./393805-bad-dog-good-time.json) |
+| Bad Dream | 329075 | [329075-bad-dream.json](./329075-bad-dream.json) |
 | Bad Dream: Afterlife | 372663 | [372663-bad-dream-afterlife.json](./372663-bad-dream-afterlife.json) |
 | Bad Dream: Bridge | 133931 | [133931-bad-dream-bridge.json](./133931-bad-dream-bridge.json) |
 | Bad Dream: Series | 179624 | [179624-bad-dream-series.json](./179624-bad-dream-series.json) |
@@ -651,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Co. | 275881 | [275881-banana-co.json](./275881-banana-co.json) |
 | Banana Cowboy | 304692 | [304692-banana-cowboy.json](./304692-banana-cowboy.json) |
 | Banana Dash | 97325 | [97325-banana-dash.json](./97325-banana-dash.json) |
+| Banana Extreme | 329069 | [329069-banana-extreme.json](./329069-banana-extreme.json) |
 | Banana for Scale | 130341 | [130341-banana-for-scale.json](./130341-banana-for-scale.json) |
 | Banana girl | 106606 | [106606-banana-girl.json](./106606-banana-girl.json) |
 | Banana Girls | 338192 | [338192-banana-girls.json](./338192-banana-girls.json) |
@@ -2436,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Hero | 377573 | [377573-best-hero.json](./377573-best-hero.json) |
 | Best in the West | 127023 | [127023-best-in-the-west.json](./127023-best-in-the-west.json) |
 | Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
+| Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
 | Best of Arcade Games DS | 197897 | [197897-best-of-arcade-games-ds.json](./197897-best-of-arcade-games-ds.json) |
 | Best of Best | 39583 | [39583-best-of-best.json](./39583-best-of-best.json) |
 | Best of Klei 2025 | 52630 | [52630-best-of-klei-2025.json](./52630-best-of-klei-2025.json) |
@@ -3274,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Lamp | 11964 | [11964-black-lamp.json](./11964-black-lamp.json) |
 | Black Lazar | 187390 | [187390-black-lazar.json](./187390-black-lazar.json) |
 | Black Light Kills | 332444 | [332444-black-light-kills.json](./332444-black-light-kills.json) |
+| Black Light Wave | 329084 | [329084-black-light-wave.json](./329084-black-light-wave.json) |
 | Black Lily Inmortal | 408083 | [408083-black-lily-inmortal.json](./408083-black-lily-inmortal.json) |
 | Black Lily's Tale | 408134 | [408134-black-lilys-tale.json](./408134-black-lilys-tale.json) |
 | Black Lily's Tale: Famitsu Wedding DX Pack | 408135 | [408135-black-lilys-tale-famitsu-wedding-dx-pack.json](./408135-black-lilys-tale-famitsu-wedding-dx-pack.json) |
@@ -5115,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Box Box! | 379055 | [379055-box-box-box.json](./379055-box-box-box.json) |
 | Box Critters | 146293 | [146293-box-critters.json](./146293-box-critters.json) |
 | Box Dash | 196272 | [196272-box-dash.json](./196272-box-dash.json) |
+| Box Dog | 329096 | [329096-box-dog.json](./329096-box-dog.json) |
 | Box Dungeons | 254004 | [254004-box-dungeons.json](./254004-box-dungeons.json) |
 | Box Heap | 233523 | [233523-box-heap.json](./233523-box-heap.json) |
 | Box Hustle | 369747 | [369747-box-hustle.json](./369747-box-hustle.json) |
@@ -6068,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
 | BuGarden | 392302 | [392302-bugarden.json](./392302-bugarden.json) |
+| Bugboy | 329080 | [329080-bugboy.json](./329080-bugboy.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugged | 195115 | [195115-bugged.json](./195115-bugged.json) |
 | Bugged Out | 391880 | [391880-bugged-out.json](./391880-bugged-out.json) |
