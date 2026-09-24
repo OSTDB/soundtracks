@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
 | Sail Forth | 115491 | [115491-sail-forth.json](./115491-sail-forth.json) |
+| Sail or Fail | 290999 | [290999-sail-or-fail.json](./290999-sail-or-fail.json) |
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
 | Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
 | Sailaway | 28200 | [28200-sailaway.json](./28200-sailaway.json) |
@@ -1282,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-167 nn5n. Horror labyrinth | 88805 | [88805-scp-167-nn5n-horror-labyrinth.json](./88805-scp-167-nn5n-horror-labyrinth.json) |
 | SCP-3008: Infinite Store | 395022 | [395022-scp-3008-infinite-store.json](./395022-scp-3008-infinite-store.json) |
 | SCP-479: Shadows of the Mind | 264638 | [264638-scp-479-shadows-of-the-mind.json](./264638-scp-479-shadows-of-the-mind.json) |
+| SCP-D38813 | 291024 | [291024-scp-d38813.json](./291024-scp-d38813.json) |
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
 | SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
 | SCP: Bloodwater | 272936 | [272936-scp-bloodwater.json](./272936-scp-bloodwater.json) |
@@ -2145,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Sequence Storm | 111533 | [111533-sequence-storm.json](./111533-sequence-storm.json) |
+| Sequential | 291007 | [291007-sequential.json](./291007-sequential.json) |
 | Sequoia | 185595 | [185595-sequoia.json](./185595-sequoia.json) |
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
@@ -2965,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep | 229705 | [229705-sheep.json](./229705-sheep.json) |
 | Sheep Dog | 410445 | [410445-sheep-dog.json](./410445-sheep-dog.json) |
 | Sheep Game | 99636 | [99636-sheep-game.json](./99636-sheep-game.json) |
+| Sheep Gather | 290994 | [290994-sheep-gather.json](./290994-sheep-gather.json) |
 | Sheep Goes Left | 61908 | [61908-sheep-goes-left.json](./61908-sheep-goes-left.json) |
 | Sheep Goes Right | 61907 | [61907-sheep-goes-right.json](./61907-sheep-goes-right.json) |
 | Sheep happens | 19500 | [19500-sheep-happens.json](./19500-sheep-happens.json) |
@@ -3105,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift DX | 26737 | [26737-shift-dx.json](./26737-shift-dx.json) |
 | Shift Em Mania | 27906 | [27906-shift-em-mania.json](./27906-shift-em-mania.json) |
 | Shift Extended | 44531 | [44531-shift-extended.json](./44531-shift-extended.json) |
+| Shift II | 291005 | [291005-shift-ii.json](./291005-shift-ii.json) |
 | Shift Legacy Collection | 298092 | [298092-shift-legacy-collection.json](./298092-shift-legacy-collection.json) |
 | Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
 | Shift'n Slay | 319738 | [319738-shiftn-slay.json](./319738-shiftn-slay.json) |
@@ -4184,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple FPS Platformer | 347268 | [347268-simple-fps-platformer.json](./347268-simple-fps-platformer.json) |
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
+| Simple Mind | 291023 | [291023-simple-mind.json](./291023-simple-mind.json) |
 | Simple Mini Golf | 192406 | [192406-simple-mini-golf.json](./192406-simple-mini-golf.json) |
 | Simple Mini Golf 3D | 232566 | [232566-simple-mini-golf-3d.json](./232566-simple-mini-golf-3d.json) |
 | Simple Monster Hunter | 265421 | [265421-simple-monster-hunter.json](./265421-simple-monster-hunter.json) |
@@ -5687,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snekburd | 342255 | [342255-snekburd.json](./342255-snekburd.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snekoban | 393124 | [393124-snekoban.json](./393124-snekoban.json) |
+| Snekris | 291002 | [291002-snekris.json](./291002-snekris.json) |
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
 | Snik | 34795 | [34795-snik.json](./34795-snik.json) |
@@ -9514,6 +9521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
 | Stargrove Scramble | 177939 | [177939-stargrove-scramble.json](./177939-stargrove-scramble.json) |
 | Stargunner | 19379 | [19379-stargunner.json](./19379-stargunner.json) |
+| Starhack | 291013 | [291013-starhack.json](./291013-starhack.json) |
 | StarHeroes | 221262 | [221262-starheroes.json](./221262-starheroes.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
