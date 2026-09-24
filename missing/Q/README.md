@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Chess | 33252 | [33252-quantum-chess.json](./33252-quantum-chess.json) |
 | Quantum Coffee Conundrum: Director's Cut | 400937 | [400937-quantum-coffee-conundrum-directors-cut.json](./400937-quantum-coffee-conundrum-directors-cut.json) |
 | Quantum Coherence | 215901 | [215901-quantum-coherence.json](./215901-quantum-coherence.json) |
+| Quantum Conquest | 295329 | [295329-quantum-conquest.json](./295329-quantum-conquest.json) |
 | Quantum Contours | 278394 | [278394-quantum-contours.json](./278394-quantum-contours.json) |
 | Quantum Conundrum: The Desmond Debacle | 172125 | [172125-quantum-conundrum-the-desmond-debacle.json](./172125-quantum-conundrum-the-desmond-debacle.json) |
 | Quantum Covenant | 113718 | [113718-quantum-covenant.json](./113718-quantum-covenant.json) |
@@ -201,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine Run | 155999 | [155999-quarantine-run.json](./155999-quarantine-run.json) |
 | Quarantine-Z | 258541 | [258541-quarantine-z.json](./258541-quarantine-z.json) |
 | Quarrel | 20659 | [20659-quarrel.json](./20659-quarrel.json) |
+| Quarrel Hill | 295330 | [295330-quarrel-hill.json](./295330-quarrel-hill.json) |
 | Quartal | 370145 | [370145-quartal.json](./370145-quartal.json) |
 | Quarter Five | 355561 | [355561-quarter-five.json](./355561-quarter-five.json) |
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
