@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endura | 301272 | [301272-endura.json](./301272-endura.json) |
 | Endurance | 13642 | [13642-endurance.json](./13642-endurance.json) |
 | Endurance | 204680 | [204680-endurance.json](./204680-endurance.json) |
+| Endurance Motorsport Series | 288854 | [288854-endurance-motorsport-series.json](./288854-endurance-motorsport-series.json) |
 | Endurance: Space Action | 143111 | [143111-endurance-space-action.json](./143111-endurance-space-action.json) |
 | Endure | 280205 | [280205-endure.json](./280205-endure.json) |
 | Endure Island | 213976 | [213976-endure-island.json](./213976-endure-island.json) |
