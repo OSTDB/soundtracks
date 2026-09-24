@@ -6675,6 +6675,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Driver Simulator 2019 | 75103 | [75103-bus-driver-simulator-2019.json](./75103-bus-driver-simulator-2019.json) |
 | Bus Driving Sim 22 | 203890 | [203890-bus-driving-sim-22.json](./203890-bus-driving-sim-22.json) |
 | Bus Driving Simulator 24 City Roads & Farmer Simulator Bundle | 390509 | [390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json](./390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json) |
+| Bus Driving Simulator 24: City Roads | 284956 | [284956-bus-driving-simulator-24-city-roads.json](./284956-bus-driving-simulator-24-city-roads.json) |
+| Bus Driving Simulator 24: City Roads - Articulated Bus | 284957 | [284957-bus-driving-simulator-24-city-roads-articulated-bus.json](./284957-bus-driving-simulator-24-city-roads-articulated-bus.json) |
+| Bus Driving Simulator 24: City Roads - Electric Bus | 284958 | [284958-bus-driving-simulator-24-city-roads-electric-bus.json](./284958-bus-driving-simulator-24-city-roads-electric-bus.json) |
+| Bus Driving Simulator 24: City Roads - London Double Decker Bus | 284959 | [284959-bus-driving-simulator-24-city-roads-london-double-decker-bus.json](./284959-bus-driving-simulator-24-city-roads-london-double-decker-bus.json) |
+| Bus Driving Simulator 24: City Roads - School Bus | 284960 | [284960-bus-driving-simulator-24-city-roads-school-bus.json](./284960-bus-driving-simulator-24-city-roads-school-bus.json) |
 | Bus Fix 2019 | 120179 | [120179-bus-fix-2019.json](./120179-bus-fix-2019.json) |
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
 | Bus Simulator 16: Man Lion's City CNG Pack | 163355 | [163355-bus-simulator-16-man-lions-city-cng-pack.json](./163355-bus-simulator-16-man-lions-city-cng-pack.json) |
