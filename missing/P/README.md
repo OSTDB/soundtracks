@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
 | Photo Y2K | 142858 | [142858-photo-y2k.json](./142858-photo-y2k.json) |
+| Photogeist | 307693 | [307693-photogeist.json](./307693-photogeist.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | PhotoLoop | 361811 | [361811-photoloop.json](./361811-photoloop.json) |
 | Photomount | 384653 | [384653-photomount.json](./384653-photomount.json) |
@@ -4664,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Apo Tycoon | 347883 | [347883-post-apo-tycoon.json](./347883-post-apo-tycoon.json) |
 | Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
 | Post Apocalyptic Mayhem | 16229 | [16229-post-apocalyptic-mayhem.json](./16229-post-apocalyptic-mayhem.json) |
+| Post Ghost | 307717 | [307717-post-ghost.json](./307717-post-ghost.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
 | Post Memory | 318530 | [318530-post-memory.json](./318530-post-memory.json) |
