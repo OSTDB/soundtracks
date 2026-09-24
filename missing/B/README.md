@@ -6229,6 +6229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BulletAsylum | 93506 | [93506-bulletasylum.json](./93506-bulletasylum.json) |
 | Bulletfest | 327372 | [327372-bulletfest.json](./327372-bulletfest.json) |
 | Bulletgrounds | 110126 | [110126-bulletgrounds.json](./110126-bulletgrounds.json) |
+| Bullethead | 326734 | [326734-bullethead.json](./326734-bullethead.json) |
 | BulletHeart | 181910 | [181910-bulletheart.json](./181910-bulletheart.json) |
 | BulletHeck | 265207 | [265207-bulletheck.json](./265207-bulletheck.json) |
 | BulletHell Planes | 135045 | [135045-bullethell-planes.json](./135045-bullethell-planes.json) |
