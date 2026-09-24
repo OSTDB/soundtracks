@@ -4944,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonely Architect | 333663 | [333663-the-lonely-architect.json](./333663-the-lonely-architect.json) |
 | The Lonely Gorilla | 94769 | [94769-the-lonely-gorilla.json](./94769-the-lonely-gorilla.json) |
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
+| The Lonely Logs of Lincoln Lane | 301920 | [301920-the-lonely-logs-of-lincoln-lane.json](./301920-the-lonely-logs-of-lincoln-lane.json) |
 | The Lonely Miner | 411121 | [411121-the-lonely-miner.json](./411121-the-lonely-miner.json) |
 | The Lonesome Guild | 333042 | [333042-the-lonesome-guild.json](./333042-the-lonesome-guild.json) |
 | The Long August Longing | 319712 | [319712-the-long-august-longing.json](./319712-the-long-august-longing.json) |
@@ -5909,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
 | The Rings of Powder: The Weird World of the Elves | 285469 | [285469-the-rings-of-powder-the-weird-world-of-the-elves.json](./285469-the-rings-of-powder-the-weird-world-of-the-elves.json) |
 | The Ripper | 282726 | [282726-the-ripper.json](./282726-the-ripper.json) |
+| The Rise of the Dough | 301901 | [301901-the-rise-of-the-dough.json](./301901-the-rise-of-the-dough.json) |
 | The Rise of the Golden Idol | 279614 | [279614-the-rise-of-the-golden-idol.json](./279614-the-rise-of-the-golden-idol.json) |
 | The Rise of Tianling Sect | 369584 | [369584-the-rise-of-tianling-sect.json](./369584-the-rise-of-tianling-sect.json) |
 | The Risers | 101336 | [101336-the-risers.json](./101336-the-risers.json) |
@@ -7690,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
+| thread and Needle | 301922 | [301922-thread-and-needle.json](./301922-thread-and-needle.json) |
 | Threadbare | 364664 | [364664-threadbare.json](./364664-threadbare.json) |
 | Threadbound | 182979 | [182979-threadbound.json](./182979-threadbound.json) |
 | Threadline | 396214 | [396214-threadline.json](./396214-threadline.json) |
