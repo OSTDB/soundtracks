@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zone II: Opa-Opa no Namida | 48627 | [48627-fantasy-zone-ii-opa-opa-no-namida.json](./48627-fantasy-zone-ii-opa-opa-no-namida.json) |
 | Fantasy Zone: The Maze | 45658 | [45658-fantasy-zone-the-maze.json](./45658-fantasy-zone-the-maze.json) |
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
+| FantasyKingdom | 306429 | [306429-fantasykingdom.json](./306429-fantasykingdom.json) |
 | Fantasynth | 54726 | [54726-fantasynth.json](./54726-fantasynth.json) |
 | Fantasynth One | 157548 | [157548-fantasynth-one.json](./157548-fantasynth-one.json) |
 | Fantaventura | 129717 | [129717-fantaventura.json](./129717-fantaventura.json) |
@@ -3799,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Ones | 288353 | [288353-forsaken-ones.json](./288353-forsaken-ones.json) |
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
+| Forsaken Shadows | 306419 | [306419-forsaken-shadows.json](./306419-forsaken-shadows.json) |
 | Forsaken Struggle | 372139 | [372139-forsaken-struggle.json](./372139-forsaken-struggle.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
 | Forsaken Valley | 348860 | [348860-forsaken-valley.json](./348860-forsaken-valley.json) |
@@ -4729,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Synapse: Tactics | 52228 | [52228-frozen-synapse-tactics.json](./52228-frozen-synapse-tactics.json) |
 | Frozen Time | 256864 | [256864-frozen-time.json](./256864-frozen-time.json) |
 | Frozen Way Tri-Bundle | 342237 | [342237-frozen-way-tri-bundle.json](./342237-frozen-way-tri-bundle.json) |
+| Frozen: Royal Castle | 306444 | [306444-frozen-royal-castle.json](./306444-frozen-royal-castle.json) |
 | FrozenPizza | 270096 | [270096-frozenpizza.json](./270096-frozenpizza.json) |
 | Frozzic's Revenge | 57603 | [57603-frozzics-revenge.json](./57603-frozzics-revenge.json) |
 | Fruboom | 315706 | [315706-fruboom.json](./315706-fruboom.json) |
