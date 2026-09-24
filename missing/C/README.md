@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Vanguard - Season Four | 205058 | [205058-call-of-duty-vanguard-season-four.json](./205058-call-of-duty-vanguard-season-four.json) |
 | Call of Duty: Warchest | 240503 | [240503-call-of-duty-warchest.json](./240503-call-of-duty-warchest.json) |
 | Call of Duty: Warzone | 131800 | [131800-call-of-duty-warzone.json](./131800-call-of-duty-warzone.json) |
+| Call of Duty: Warzone - Combat Pack: Shogun | 305852 | [305852-call-of-duty-warzone-combat-pack-shogun.json](./305852-call-of-duty-warzone-combat-pack-shogun.json) |
 | Call of Duty: World at War | 135296 | [135296-call-of-duty-world-at-war.json](./135296-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War | 135297 | [135297-call-of-duty-world-at-war.json](./135297-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War | 343822 | [343822-call-of-duty-world-at-war.json](./343822-call-of-duty-world-at-war.json) |
@@ -4296,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Block Jam | 339436 | [339436-color-block-jam.json](./339436-color-block-jam.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
 | Color Breakers | 151018 | [151018-color-breakers.json](./151018-color-breakers.json) |
+| Color Bump 3D | 305840 | [305840-color-bump-3d.json](./305840-color-bump-3d.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
 | Color by Numbers - Halloween + | 100009 | [100009-color-by-numbers-halloween.json](./100009-color-by-numbers-halloween.json) |
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
@@ -5577,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
 | Count Duckula 2: Featuring Tremendous Terence | 15919 | [15919-count-duckula-2-featuring-tremendous-terence.json](./15919-count-duckula-2-featuring-tremendous-terence.json) |
 | Count Logica | 110135 | [110135-count-logica.json](./110135-count-logica.json) |
+| Count Masters | 305844 | [305844-count-masters.json](./305844-count-masters.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
 | Count your Clones | 413889 | [413889-count-your-clones.json](./413889-count-your-clones.json) |
