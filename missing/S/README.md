@@ -10887,6 +10887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Style | 141795 | [141795-sugar-style.json](./141795-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
+| Sugarbound | 334288 | [334288-sugarbound.json](./334288-sugarbound.json) |
 | Sugarbunnies Wii: Youkoso Bunnies Field he | 409015 | [409015-sugarbunnies-wii-youkoso-bunnies-field-he.json](./409015-sugarbunnies-wii-youkoso-bunnies-field-he.json) |
 | Sugarcane Empire | 186825 | [186825-sugarcane-empire.json](./186825-sugarcane-empire.json) |
 | Sugarcreek | 204110 | [204110-sugarcreek.json](./204110-sugarcreek.json) |
