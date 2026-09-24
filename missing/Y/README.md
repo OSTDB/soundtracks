@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuppie Psycho | 26565 | [26565-yuppie-psycho.json](./26565-yuppie-psycho.json) |
 | Yura | 382326 | [382326-yura.json](./382326-yura.json) |
 | YuraYura!: Tidying up the Tilting Tower! | 180778 | [180778-yurayura-tidying-up-the-tilting-tower.json](./180778-yurayura-tidying-up-the-tilting-tower.json) |
+| Yurei Hunt | 336741 | [336741-yurei-hunt.json](./336741-yurei-hunt.json) |
 | Yurei Ninja | 242213 | [242213-yurei-ninja.json](./242213-yurei-ninja.json) |
 | Yuri Blossom! | 358314 | [358314-yuri-blossom.json](./358314-yuri-blossom.json) |
 | Yuri Paddle: An Anime Convention Murder Mystery | 318404 | [318404-yuri-paddle-an-anime-convention-murder-mystery.json](./318404-yuri-paddle-an-anime-convention-murder-mystery.json) |
