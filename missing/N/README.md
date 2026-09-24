@@ -2158,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
 | No Man's Sky: Nintendo Switch Edition | 191418 | [191418-no-mans-sky-nintendo-switch-edition.json](./191418-no-mans-sky-nintendo-switch-edition.json) |
 | No Man's Sky: Omega | 287088 | [287088-no-mans-sky-omega.json](./287088-no-mans-sky-omega.json) |
+| No Man's Sky: Starborn Phoenix Ship | 325562 | [325562-no-mans-sky-starborn-phoenix-ship.json](./325562-no-mans-sky-starborn-phoenix-ship.json) |
 | No Man's Sky: Synthesis | 222424 | [222424-no-mans-sky-synthesis.json](./222424-no-mans-sky-synthesis.json) |
 | No Man's Sky: The Swarm | 403195 | [403195-no-mans-sky-the-swarm.json](./403195-no-mans-sky-the-swarm.json) |
 | No Man's Sky: Worlds Part I | 308973 | [308973-no-mans-sky-worlds-part-i.json](./308973-no-mans-sky-worlds-part-i.json) |
