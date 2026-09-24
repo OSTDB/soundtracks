@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Anniversary: Scythe Content Pack | 226845 | [226845-fable-anniversary-scythe-content-pack.json](./226845-fable-anniversary-scythe-content-pack.json) |
 | Fable Clinic | 56768 | [56768-fable-clinic.json](./56768-fable-clinic.json) |
 | Fable Forts! | 261883 | [261883-fable-forts.json](./261883-fable-forts.json) |
+| Fable Grove | 309476 | [309476-fable-grove.json](./309476-fable-grove.json) |
 | Fable II: Pub Games | 21328 | [21328-fable-ii-pub-games.json](./21328-fable-ii-pub-games.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
 | Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
@@ -3396,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foot Serve | 288904 | [288904-foot-serve.json](./288904-foot-serve.json) |
 | Foot Step | 320951 | [320951-foot-step.json](./320951-foot-step.json) |
 | Footage | 302930 | [302930-footage.json](./302930-footage.json) |
+| Footage | 309453 | [309453-footage.json](./309453-footage.json) |
 | Football | 131533 | [131533-football.json](./131533-football.json) |
 | Football | 199023 | [199023-football.json](./199023-football.json) |
 | Football | 346756 | [346756-football.json](./346756-football.json) |
@@ -4771,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits | 314413 | [314413-fruits.json](./314413-fruits.json) |
 | Fruits | 94535 | [94535-fruits.json](./94535-fruits.json) |
 | Fruits - Connect the Dots and Add Colors | 87908 | [87908-fruits-connect-the-dots-and-add-colors.json](./87908-fruits-connect-the-dots-and-add-colors.json) |
+| Fruits & Vegetables | 309455 | [309455-fruits-and-vegetables.json](./309455-fruits-and-vegetables.json) |
 | Fruits Blast - Match Cube | 108953 | [108953-fruits-blast-match-cube.json](./108953-fruits-blast-match-cube.json) |
 | Fruits Inc. Deluxe Pack | 35750 | [35750-fruits-inc-deluxe-pack.json](./35750-fruits-inc-deluxe-pack.json) |
 | Fruits Jigsaw Puzzle | 88167 | [88167-fruits-jigsaw-puzzle.json](./88167-fruits-jigsaw-puzzle.json) |
