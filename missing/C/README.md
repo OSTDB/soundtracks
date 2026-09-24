@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestian Tales: Old North | 17693 | [17693-celestian-tales-old-north.json](./17693-celestian-tales-old-north.json) |
 | Celestian Tales: Old North - Howl of the Ravager | 124779 | [124779-celestian-tales-old-north-howl-of-the-ravager.json](./124779-celestian-tales-old-north-howl-of-the-ravager.json) |
 | Celestio 64 | 257399 | [257399-celestio-64.json](./257399-celestio-64.json) |
+| CELL 0: Cyber Entertainment Leisure Lounge | 326756 | [326756-cell-0-cyber-entertainment-leisure-lounge.json](./326756-cell-0-cyber-entertainment-leisure-lounge.json) |
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
 | Cell of Empireo | 175966 | [175966-cell-of-empireo.json](./175966-cell-of-empireo.json) |
@@ -2233,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheers! | 227934 | [227934-cheers.json](./227934-cheers.json) |
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
+| Cheese Dreams New Moon | 326738 | [326738-cheese-dreams-new-moon.json](./326738-cheese-dreams-new-moon.json) |
 | Cheese is the Reason | 343889 | [343889-cheese-is-the-reason.json](./343889-cheese-is-the-reason.json) |
 | Cheese Killer | 159743 | [159743-cheese-killer.json](./159743-cheese-killer.json) |
 | Cheese Maze | 97691 | [97691-cheese-maze.json](./97691-cheese-maze.json) |
@@ -2656,6 +2658,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chirashiiru | 325444 | [325444-chirashiiru.json](./325444-chirashiiru.json) |
 | ChiroTerra | 278168 | [278168-chiroterra.json](./278168-chiroterra.json) |
 | Chirp Song: Wings of Praise | 304748 | [304748-chirp-song-wings-of-praise.json](./304748-chirp-song-wings-of-praise.json) |
+| Chisel | 326732 | [326732-chisel.json](./326732-chisel.json) |
+| Chisel 2 | 326733 | [326733-chisel-2.json](./326733-chisel-2.json) |
 | Chiseler | 361764 | [361764-chiseler.json](./361764-chiseler.json) |
 | Chishiki Runner | 114328 | [114328-chishiki-runner.json](./114328-chishiki-runner.json) |
 | Chitei Kekkadou: The Blood Flower Dungeon | 137616 | [137616-chitei-kekkadou-the-blood-flower-dungeon.json](./137616-chitei-kekkadou-the-blood-flower-dungeon.json) |
@@ -3001,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
 | Chronoclasm | 338810 | [338810-chronoclasm.json](./338810-chronoclasm.json) |
 | Chronoclasm Chronicles | 417652 | [417652-chronoclasm-chronicles.json](./417652-chronoclasm-chronicles.json) |
+| ChronoClock | 326765 | [326765-chronoclock.json](./326765-chronoclock.json) |
 | ChronoClone | 301280 | [301280-chronoclone.json](./301280-chronoclone.json) |
 | ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
 | Chronodog: Earth Defender | 185067 | [185067-chronodog-earth-defender.json](./185067-chronodog-earth-defender.json) |
@@ -3664,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbtime | 31171 | [31171-climbtime.json](./31171-climbtime.json) |
 | Clinch Legends | 369101 | [369101-clinch-legends.json](./369101-clinch-legends.json) |
 | Clinical Marshmallows | 374285 | [374285-clinical-marshmallows.json](./374285-clinical-marshmallows.json) |
+| Clinical Trial | 326760 | [326760-clinical-trial.json](./326760-clinical-trial.json) |
 | CLINK | 345549 | [345549-clink.json](./345549-clink.json) |
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
