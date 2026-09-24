@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Diary: Swingers Yacht | 237484 | [237484-sex-diary-swingers-yacht.json](./237484-sex-diary-swingers-yacht.json) |
 | Sex Doll K-Pop Idol | 243155 | [243155-sex-doll-k-pop-idol.json](./243155-sex-doll-k-pop-idol.json) |
 | Sex Dorm | 349868 | [349868-sex-dorm.json](./349868-sex-dorm.json) |
+| Sex Education | 322714 | [322714-sex-education.json](./322714-sex-education.json) |
 | Sex Game: Naughty Couple - Episode 5 | 375267 | [375267-sex-game-naughty-couple-episode-5.json](./375267-sex-game-naughty-couple-episode-5.json) |
 | Sex Game: Naughty Couple - Episode 6 | 375272 | [375272-sex-game-naughty-couple-episode-6.json](./375272-sex-game-naughty-couple-episode-6.json) |
 | Sex Game: Naughty Girls - Episode 5 | 375270 | [375270-sex-game-naughty-girls-episode-5.json](./375270-sex-game-naughty-girls-episode-5.json) |
@@ -4446,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: Draigs Terror | 332040 | [332040-sker-ritual-draigs-terror.json](./332040-sker-ritual-draigs-terror.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
 | Sker Ritual: Invasion of the Brain Eaters | 332041 | [332041-sker-ritual-invasion-of-the-brain-eaters.json](./332041-sker-ritual-invasion-of-the-brain-eaters.json) |
+| Sker Ritual: Skerville Slasher | 322721 | [322721-sker-ritual-skerville-slasher.json](./322721-sker-ritual-skerville-slasher.json) |
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
@@ -6868,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukou Seiki Ysphere ~Ingyaku no Sennou Kaizou~ | 133247 | [133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json](./133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
 | Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
+| Soul Armors Recollect | 322711 | [322711-soul-armors-recollect.json](./322711-soul-armors-recollect.json) |
 | Soul at Stake | 103949 | [103949-soul-at-stake.json](./103949-soul-at-stake.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
 | Soul Azylum | 131379 | [131379-soul-azylum.json](./131379-soul-azylum.json) |
@@ -7204,6 +7207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Engineers: Signal Pack | 310403 | [310403-space-engineers-signal-pack.json](./310403-space-engineers-signal-pack.json) |
 | Space Engineers: Ultimate Edition 2021 | 187967 | [187967-space-engineers-ultimate-edition-2021.json](./187967-space-engineers-ultimate-edition-2021.json) |
 | Space Engineers: Ultimate Edition 2024 | 331850 | [331850-space-engineers-ultimate-edition-2024.json](./331850-space-engineers-ultimate-edition-2024.json) |
+| Space Escape | 322744 | [322744-space-escape.json](./322744-space-escape.json) |
 | Space Escape | 89978 | [89978-space-escape.json](./89978-space-escape.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
@@ -11949,6 +11953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
 | Super Mario Treasure World | 368158 | [368158-super-mario-treasure-world.json](./368158-super-mario-treasure-world.json) |
+| Super Mario Turd Collection | 322698 | [322698-super-mario-turd-collection.json](./322698-super-mario-turd-collection.json) |
 | Super Mario War | 305742 | [305742-super-mario-war.json](./305742-super-mario-war.json) |
 | Super Mario War: Stomp Arena | 323200 | [323200-super-mario-war-stomp-arena.json](./323200-super-mario-war-stomp-arena.json) |
 | Super Mario Wars! | 323752 | [323752-super-mario-wars.json](./323752-super-mario-wars.json) |
@@ -12045,6 +12050,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble - Amy | 309079 | [309079-super-monkey-ball-banana-rumble-amy.json](./309079-super-monkey-ball-banana-rumble-amy.json) |
 | Super Monkey Ball: Banana Rumble - Crewmate | 330551 | [330551-super-monkey-ball-banana-rumble-crewmate.json](./330551-super-monkey-ball-banana-rumble-crewmate.json) |
 | Super Monkey Ball: Banana Rumble - Dole Logo Sticker Ball | 332227 | [332227-super-monkey-ball-banana-rumble-dole-logo-sticker-ball.json](./332227-super-monkey-ball-banana-rumble-dole-logo-sticker-ball.json) |
+| Super Monkey Ball: Banana Rumble - Godzilla | 322748 | [322748-super-monkey-ball-banana-rumble-godzilla.json](./322748-super-monkey-ball-banana-rumble-godzilla.json) |
+| Super Monkey Ball: Banana Rumble - Hatsune Miku | 322749 | [322749-super-monkey-ball-banana-rumble-hatsune-miku.json](./322749-super-monkey-ball-banana-rumble-hatsune-miku.json) |
 | Super Monkey Ball: Banana Rumble - Knuckles | 309080 | [309080-super-monkey-ball-banana-rumble-knuckles.json](./309080-super-monkey-ball-banana-rumble-knuckles.json) |
 | Super Monkey Ball: Sakura Edition | 64989 | [64989-super-monkey-ball-sakura-edition.json](./64989-super-monkey-ball-sakura-edition.json) |
 | Super Monkey Ball: Tip 'n Tilt | 336925 | [336925-super-monkey-ball-tip-n-tilt.json](./336925-super-monkey-ball-tip-n-tilt.json) |
