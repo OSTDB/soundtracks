@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loophole | 350443 | [350443-loophole.json](./350443-loophole.json) |
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
+| Loopmayor | 334295 | [334295-loopmayor.json](./334295-loopmayor.json) |
 | Loopover | 311987 | [311987-loopover.json](./311987-loopover.json) |
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopr | 391163 | [391163-loopr.json](./391163-loopr.json) |
