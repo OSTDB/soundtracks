@@ -11518,6 +11518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Riders | 276081 | [276081-sunset-riders.json](./276081-sunset-riders.json) |
 | Sunset Riders | 321396 | [321396-sunset-riders.json](./321396-sunset-riders.json) |
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
+| Sunset Shores | 294794 | [294794-sunset-shores.json](./294794-sunset-shores.json) |
 | Sunset Sprout | 348460 | [348460-sunset-sprout.json](./348460-sunset-sprout.json) |
 | Sunset Street Ninja | 375943 | [375943-sunset-street-ninja.json](./375943-sunset-street-ninja.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
@@ -11996,6 +11997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Long Boy | 251022 | [251022-super-long-boy.json](./251022-super-long-boy.json) |
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
+| Super Luigi Land Wii | 294783 | [294783-super-luigi-land-wii.json](./294783-super-luigi-land-wii.json) |
 | Super Luigi Odyssey | 282683 | [282683-super-luigi-odyssey.json](./282683-super-luigi-odyssey.json) |
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
@@ -12033,6 +12035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 Disk Version | 132644 | [132644-super-mario-64-disk-version.json](./132644-super-mario-64-disk-version.json) |
 | Super Mario 64 DOS Port | 307320 | [307320-super-mario-64-dos-port.json](./307320-super-mario-64-dos-port.json) |
 | Super Mario 64 DS | 22301 | [22301-super-mario-64-ds.json](./22301-super-mario-64-ds.json) |
+| Super Mario 64 DS 2: The New Stars | 294775 | [294775-super-mario-64-ds-2-the-new-stars.json](./294775-super-mario-64-ds-2-the-new-stars.json) |
 | Super Mario 64 DS Sub Zero | 315013 | [315013-super-mario-64-ds-sub-zero.json](./315013-super-mario-64-ds-sub-zero.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
 | Super Mario 64 FPS | 144163 | [144163-super-mario-64-fps.json](./144163-super-mario-64-fps.json) |
@@ -12151,9 +12154,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Fusion: Revival | 322786 | [322786-super-mario-fusion-revival.json](./322786-super-mario-fusion-revival.json) |
 | Super Mario Galaxy | 366899 | [366899-super-mario-galaxy.json](./366899-super-mario-galaxy.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
+| Super Mario Galaxy 2: Cosmic Clones Challenge | 294766 | [294766-super-mario-galaxy-2-cosmic-clones-challenge.json](./294766-super-mario-galaxy-2-cosmic-clones-challenge.json) |
 | Super Mario Galaxy 63 | 294714 | [294714-super-mario-galaxy-63.json](./294714-super-mario-galaxy-63.json) |
 | Super Mario Galaxy 64 | 313339 | [313339-super-mario-galaxy-64.json](./313339-super-mario-galaxy-64.json) |
+| Super Mario Galaxy 64: Holiday Special | 294779 | [294779-super-mario-galaxy-64-holiday-special.json](./294779-super-mario-galaxy-64-holiday-special.json) |
 | Super Mario Galaxy DS | 315008 | [315008-super-mario-galaxy-ds.json](./315008-super-mario-galaxy-ds.json) |
+| Super Mario Galaxy Multiplayer | 294770 | [294770-super-mario-galaxy-multiplayer.json](./294770-super-mario-galaxy-multiplayer.json) |
 | Super Mario Galaxy: The Lost Levels | 313326 | [313326-super-mario-galaxy-the-lost-levels.json](./313326-super-mario-galaxy-the-lost-levels.json) |
 | Super Mario Generations | 318549 | [318549-super-mario-generations.json](./318549-super-mario-generations.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
