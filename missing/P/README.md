@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Planes | 238636 | [238636-paper-planes.json](./238636-paper-planes.json) |
+| Paper Play VR | 298117 | [298117-paper-play-vr.json](./298117-paper-play-vr.json) |
 | Paper Puzzle | 319131 | [319131-paper-puzzle.json](./319131-paper-puzzle.json) |
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
@@ -4382,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Mayhem | 411736 | [411736-polygon-mayhem.json](./411736-polygon-mayhem.json) |
 | Polygon Race | 262932 | [262932-polygon-race.json](./262932-polygon-race.json) |
 | Polygon Survival | 269111 | [269111-polygon-survival.json](./269111-polygon-survival.json) |
+| Polygonal Passage | 298103 | [298103-polygonal-passage.json](./298103-polygonal-passage.json) |
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polygonet Commanders | 222905 | [222905-polygonet-commanders.json](./222905-polygonet-commanders.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
