@@ -3225,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Codex: Shy Girls | 411808 | [411808-anime-codex-shy-girls.json](./411808-anime-codex-shy-girls.json) |
 | Anime Codex: Triple Pleasure | 412566 | [412566-anime-codex-triple-pleasure.json](./412566-anime-codex-triple-pleasure.json) |
 | Anime Codex: Whispered Lips | 411150 | [411150-anime-codex-whispered-lips.json](./411150-anime-codex-whispered-lips.json) |
+| Anime Dance-Off: Around the World | 325009 | [325009-anime-dance-off-around-the-world.json](./325009-anime-dance-off-around-the-world.json) |
 | Anime Dance-Off: Ghost Party | 319781 | [319781-anime-dance-off-ghost-party.json](./319781-anime-dance-off-ghost-party.json) |
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
@@ -4239,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer Guardian VR : The Chapter Zero | 30770 | [30770-archer-guardian-vr-the-chapter-zero.json](./30770-archer-guardian-vr-the-chapter-zero.json) |
 | Archer Maclean's 3D Pool | 248632 | [248632-archer-macleans-3d-pool.json](./248632-archer-macleans-3d-pool.json) |
 | Archer Maclean's 3D Pool | 49315 | [49315-archer-macleans-3d-pool.json](./49315-archer-macleans-3d-pool.json) |
+| Archer Maclean's DropZone: 40th Anniversary Edition | 325012 | [325012-archer-macleans-dropzone-40th-anniversary-edition.json](./325012-archer-macleans-dropzone-40th-anniversary-edition.json) |
 | Archer Maclean's Super Dropzone | 42637 | [42637-archer-macleans-super-dropzone.json](./42637-archer-macleans-super-dropzone.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
 | Archer Pinball | 261802 | [261802-archer-pinball.json](./261802-archer-pinball.json) |
@@ -4394,6 +4396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Returns | 351798 | [351798-arena-returns.json](./351798-arena-returns.json) |
 | Arena Runner | 92817 | [92817-arena-runner.json](./92817-arena-runner.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
+| Arena Warrior | 325022 | [325022-arena-warrior.json](./325022-arena-warrior.json) |
 | Arena: Blood on the Sand VR | 29795 | [29795-arena-blood-on-the-sand-vr.json](./29795-arena-blood-on-the-sand-vr.json) |
 | Arena: Maze of Death | 19694 | [19694-arena-maze-of-death.json](./19694-arena-maze-of-death.json) |
 | Arena.Xlsm | 125394 | [125394-arena-xlsm.json](./125394-arena-xlsm.json) |
