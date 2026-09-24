@@ -2473,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadey's Quest | 337154 | [337154-shadeys-quest.json](./337154-shadeys-quest.json) |
 | ShadO | 10820 | [10820-shado.json](./10820-shado.json) |
 | Shadoblitz | 345034 | [345034-shadoblitz.json](./345034-shadoblitz.json) |
+| Shadow | 286061 | [286061-shadow.json](./286061-shadow.json) |
 | Shadow | 324309 | [324309-shadow.json](./324309-shadow.json) |
 | Shadow Among Nove | 297218 | [297218-shadow-among-nove.json](./297218-shadow-among-nove.json) |
 | Shadow and Bone: Enter the Fold | 204448 | [204448-shadow-and-bone-enter-the-fold.json](./204448-shadow-and-bone-enter-the-fold.json) |
@@ -7147,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulfall | 326258 | [326258-soulfall.json](./326258-soulfall.json) |
 | SoulFeast | 369559 | [369559-soulfeast.json](./369559-soulfeast.json) |
 | Soulfire: Weapon Master | 152906 | [152906-soulfire-weapon-master.json](./152906-soulfire-weapon-master.json) |
+| Soulflow | 286062 | [286062-soulflow.json](./286062-soulflow.json) |
 | Soulforge: Lost Path | 353880 | [353880-soulforge-lost-path.json](./353880-soulforge-lost-path.json) |
 | Soulframe | 209643 | [209643-soulframe.json](./209643-soulframe.json) |
 | SoulFrost | 90653 | [90653-soulfrost.json](./90653-soulfrost.json) |
@@ -8890,6 +8892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Jump | 122165 | [122165-squirrel-jump.json](./122165-squirrel-jump.json) |
 | Squirrel Knight | 298145 | [298145-squirrel-knight.json](./298145-squirrel-knight.json) |
 | Squirrel Launcher | 230307 | [230307-squirrel-launcher.json](./230307-squirrel-launcher.json) |
+| Squirrel Legacy II: Children of the Nut | 286045 | [286045-squirrel-legacy-ii-children-of-the-nut.json](./286045-squirrel-legacy-ii-children-of-the-nut.json) |
 | Squirrel Madness & Silent Mist | 371431 | [371431-squirrel-madness-and-silent-mist.json](./371431-squirrel-madness-and-silent-mist.json) |
 | Squirrel Sphere | 89999 | [89999-squirrel-sphere.json](./89999-squirrel-sphere.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
@@ -9913,6 +9916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam'd Roller | 269102 | [269102-steamd-roller.json](./269102-steamd-roller.json) |
 | Steambirds Alliance | 36530 | [36530-steambirds-alliance.json](./36530-steambirds-alliance.json) |
 | Steamboat Billy: The Curse of the Leviathan | 102090 | [102090-steamboat-billy-the-curse-of-the-leviathan.json](./102090-steamboat-billy-the-curse-of-the-leviathan.json) |
+| Steamboat Willie | 286040 | [286040-steamboat-willie.json](./286040-steamboat-willie.json) |
 | Steamboat Willie Rescue Mission | 398597 | [398597-steamboat-willie-rescue-mission.json](./398597-steamboat-willie-rescue-mission.json) |
 | Steambot Chronicles: Battle Tournament | 42891 | [42891-steambot-chronicles-battle-tournament.json](./42891-steambot-chronicles-battle-tournament.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
