@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
 | Necromania: Trap of Darkness | 68965 | [68965-necromania-trap-of-darkness.json](./68965-necromania-trap-of-darkness.json) |
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
+| Necromantic | 298651 | [298651-necromantic.json](./298651-necromantic.json) |
 | NecroMarch | 415899 | [415899-necromarch.json](./415899-necromarch.json) |
 | NecroMerger | 200549 | [200549-necromerger.json](./200549-necromerger.json) |
 | Necromonads | 34743 | [34743-necromonads.json](./34743-necromonads.json) |
@@ -758,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbor Diana | 167172 | [167172-neighbor-diana.json](./167172-neighbor-diana.json) |
 | Neighbor Next Door | 309668 | [309668-neighbor-next-door.json](./309668-neighbor-next-door.json) |
 | Neighbor Watching | 171037 | [171037-neighbor-watching.json](./171037-neighbor-watching.json) |
+| Neighbor's Wife | 298652 | [298652-neighbors-wife.json](./298652-neighbors-wife.json) |
 | Neighborhood Video | 374045 | [374045-neighborhood-video.json](./374045-neighborhood-video.json) |
 | Neighborhoods | 403820 | [403820-neighborhoods.json](./403820-neighborhoods.json) |
 | Neighborhorde | 33452 | [33452-neighborhorde.json](./33452-neighborhorde.json) |
@@ -1583,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night and Day | 133406 | [133406-night-and-day.json](./133406-night-and-day.json) |
 | Night and Day | 70378 | [70378-night-and-day.json](./70378-night-and-day.json) |
 | Night at Grandma's | 331330 | [331330-night-at-grandmas.json](./331330-night-at-grandmas.json) |
+| Night at the Cabin | 298653 | [298653-night-at-the-cabin.json](./298653-night-at-the-cabin.json) |
 | Night at the Harbor | 377848 | [377848-night-at-the-harbor.json](./377848-night-at-the-harbor.json) |
 | Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
 | Night at the Lake: Silent Watcher | 355036 | [355036-night-at-the-lake-silent-watcher.json](./355036-night-at-the-lake-silent-watcher.json) |
@@ -2494,9 +2497,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora and Frank | 358925 | [358925-nora-and-frank.json](./358925-nora-and-frank.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
+| Nora: Forest Nights | 298654 | [298654-nora-forest-nights.json](./298654-nora-forest-nights.json) |
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
+| Norah's Song | 298655 | [298655-norahs-song.json](./298655-norahs-song.json) |
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
 | Nordic Ashes: Survivors of Ragnarok - Twilight of Yggdrasil | 409034 | [409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json](./409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json) |
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
