@@ -2896,7 +2896,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Rikki Kuu | 220708 | [220708-rikki-kuu.json](./220708-rikki-kuu.json) |
 | Riku to Johan: Kaeta Nimai no E | 123407 | [123407-riku-to-johan-kaeta-nimai-no-e.json](./123407-riku-to-johan-kaeta-nimai-no-e.json) |
+| Rilakkuma Farm | 284426 | [284426-rilakkuma-farm.json](./284426-rilakkuma-farm.json) |
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
+| Rilakkuma Rhythm: Mattari Kibun de Da Run Run Run | 284429 | [284429-rilakkuma-rhythm-mattari-kibun-de-da-run-run-run.json](./284429-rilakkuma-rhythm-mattari-kibun-de-da-run-run-run.json) |
 | Riley Short: Analog Boy - Episode 1 | 37051 | [37051-riley-short-analog-boy-episode-1.json](./37051-riley-short-analog-boy-episode-1.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
 | Rim Rockin' Basketball | 40423 | [40423-rim-rockin-basketball.json](./40423-rim-rockin-basketball.json) |
