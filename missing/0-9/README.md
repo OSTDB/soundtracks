@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | "Out" file#01 | 237475 | [237475-out-file-01.json](./237475-out-file-01.json) |
 | "Out2" out of file | 237476 | [237476-out2-out-of-file.json](./237476-out2-out-of-file.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
+| [REC] Desolation | 333760 | [333760-rec-desolation.json](./333760-rec-desolation.json) |
 | [Redacted] | 292844 | [292844-redacted.json](./292844-redacted.json) |
 | [Redacted] | 396399 | [396399-redacted.json](./396399-redacted.json) |
 | [Redacted] the Safehouse | 398337 | [398337-redacted-the-safehouse.json](./398337-redacted-the-safehouse.json) |
@@ -403,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1873 | 316846 | [316846-1873.json](./316846-1873.json) |
 | 1893: A World's Fair Mystery | 12374 | [12374-1893-a-worlds-fair-mystery.json](./12374-1893-a-worlds-fair-mystery.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
+| 18th Floor | 333761 | [333761-18th-floor.json](./333761-18th-floor.json) |
 | 19 Part One: Boot Camp | 41010 | [41010-19-part-one-boot-camp.json](./41010-19-part-one-boot-camp.json) |
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
