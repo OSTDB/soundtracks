@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
 | Mario's Slightly Unusual Boss Rush: v2.0 Release | 381850 | [381850-marios-slightly-unusual-boss-rush-v2-0-release.json](./381850-marios-slightly-unusual-boss-rush-v2-0-release.json) |
+| Mario's Star Quest 2 | 315014 | [315014-marios-star-quest-2.json](./315014-marios-star-quest-2.json) |
 | Mario's Super Picross | 80174 | [80174-marios-super-picross.json](./80174-marios-super-picross.json) |
 | Mario's Time Machine | 210116 | [210116-marios-time-machine.json](./210116-marios-time-machine.json) |
 | Mario's Time Machine DX | 323825 | [323825-marios-time-machine-dx.json](./323825-marios-time-machine-dx.json) |
@@ -6113,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Easter Eggs! | 96051 | [96051-more-easter-eggs.json](./96051-more-easter-eggs.json) |
 | More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
+| More Objects Mod | 315011 | [315011-more-objects-mod.json](./315011-more-objects-mod.json) |
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
 | More or Less | 261256 | [261256-more-or-less.json](./261256-more-or-less.json) |
 | More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
@@ -7505,6 +7507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Own Murder | 345049 | [345049-my-own-murder.json](./345049-my-own-murder.json) |
 | My Own Sweet Dionaea | 382213 | [382213-my-own-sweet-dionaea.json](./382213-my-own-sweet-dionaea.json) |
 | My Parents are Aliens | 325556 | [325556-my-parents-are-aliens.json](./325556-my-parents-are-aliens.json) |
+| My Party Needs an Alchemist | 315036 | [315036-my-party-needs-an-alchemist.json](./315036-my-party-needs-an-alchemist.json) |
 | My Peephole: Hotel Harborview | 372670 | [372670-my-peephole-hotel-harborview.json](./372670-my-peephole-hotel-harborview.json) |
 | My Personal Hater | 388229 | [388229-my-personal-hater.json](./388229-my-personal-hater.json) |
 | My Pet Fan | 351721 | [351721-my-pet-fan.json](./351721-my-pet-fan.json) |
