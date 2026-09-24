@@ -3746,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forrest Gump: Match 3 Game | 208389 | [208389-forrest-gump-match-3-game.json](./208389-forrest-gump-match-3-game.json) |
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
 | Forsaken | 196138 | [196138-forsaken.json](./196138-forsaken.json) |
+| Forsaken | 322700 | [322700-forsaken.json](./322700-forsaken.json) |
 | Forsaken | 718 | [718-forsaken.json](./718-forsaken.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Denizen | 395004 | [395004-forsaken-denizen.json](./395004-forsaken-denizen.json) |
@@ -5017,6 +5018,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Pet Dog Yiff Hentai | 209022 | [209022-furry-pet-dog-yiff-hentai.json](./209022-furry-pet-dog-yiff-hentai.json) |
 | Furry Pride | 148570 | [148570-furry-pride.json](./148570-furry-pride.json) |
 | Furry Reich | 237055 | [237055-furry-reich.json](./237055-furry-reich.json) |
+| Furry Sex | 322706 | [322706-furry-sex.json](./322706-furry-sex.json) |
+| Furry Sex 2 | 322710 | [322710-furry-sex-2.json](./322710-furry-sex-2.json) |
 | Furry Sex Madness | 367034 | [367034-furry-sex-madness.json](./367034-furry-sex-madness.json) |
 | Furry Sex Resort | 309687 | [309687-furry-sex-resort.json](./309687-furry-sex-resort.json) |
 | Furry Sexy Girls | 375951 | [375951-furry-sexy-girls.json](./375951-furry-sexy-girls.json) |
@@ -5030,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Tits | 349865 | [349865-furry-tits.json](./349865-furry-tits.json) |
 | Furry Twins Oshikake Kemomimi Twins | 328524 | [328524-furry-twins-oshikake-kemomimi-twins.json](./328524-furry-twins-oshikake-kemomimi-twins.json) |
 | Furry UwU | 368128 | [368128-furry-uwu.json](./368128-furry-uwu.json) |
+| Furry Woof | 322704 | [322704-furry-woof.json](./322704-furry-woof.json) |
 | FurryFury: Smash & Roll | 116361 | [116361-furryfury-smash-and-roll.json](./116361-furryfury-smash-and-roll.json) |
 | Furs of Fury | 149049 | [149049-furs-of-fury.json](./149049-furs-of-fury.json) |
 | FurstDate: A Furry Dating Simulator | 368127 | [368127-furstdate-a-furry-dating-simulator.json](./368127-furstdate-a-furry-dating-simulator.json) |
