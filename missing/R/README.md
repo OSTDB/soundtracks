@@ -3780,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguebots Arena | 350504 | [350504-roguebots-arena.json](./350504-roguebots-arena.json) |
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | Roguebreaker | 103413 | [103413-roguebreaker.json](./103413-roguebreaker.json) |
+| RogueCards | 311620 | [311620-roguecards.json](./311620-roguecards.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | RogueDiceR | 383664 | [383664-roguedicer.json](./383664-roguedicer.json) |
 | Roguefort | 396405 | [396405-roguefort.json](./396405-roguefort.json) |
