@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kintsugi | 135682 | [135682-kintsugi.json](./135682-kintsugi.json) |
 | Kintsugi | 396400 | [396400-kintsugi.json](./396400-kintsugi.json) |
 | Kintsugi: A Journey Through the Broken Pieces | 339927 | [339927-kintsugi-a-journey-through-the-broken-pieces.json](./339927-kintsugi-a-journey-through-the-broken-pieces.json) |
+| Kinu Shoku Ryuu Hana: Weaving The Blue Orient | 314448 | [314448-kinu-shoku-ryuu-hana-weaving-the-blue-orient.json](./314448-kinu-shoku-ryuu-hana-weaving-the-blue-orient.json) |
 | Kioh Gyoku | 123607 | [123607-kioh-gyoku.json](./123607-kioh-gyoku.json) |
 | Kioku | 309886 | [309886-kioku.json](./309886-kioku.json) |
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
