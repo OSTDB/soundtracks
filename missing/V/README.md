@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veigues Tactical Gladiator | 37733 | [37733-veigues-tactical-gladiator.json](./37733-veigues-tactical-gladiator.json) |
 | Veil of Ashes | 350025 | [350025-veil-of-ashes.json](./350025-veil-of-ashes.json) |
 | Veil of Clay | 262951 | [262951-veil-of-clay.json](./262951-veil-of-clay.json) |
+| Veil of Secrets | 313817 | [313817-veil-of-secrets.json](./313817-veil-of-secrets.json) |
 | Veil of Torment | 351686 | [351686-veil-of-torment.json](./351686-veil-of-torment.json) |
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
 | Veil Stream | 360675 | [360675-veil-stream.json](./360675-veil-stream.json) |
