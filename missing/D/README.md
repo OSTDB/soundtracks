@@ -2461,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
 | Derpy Pirates! The Search for the Bungalow | 126425 | [126425-derpy-pirates-the-search-for-the-bungalow.json](./126425-derpy-pirates-the-search-for-the-bungalow.json) |
+| Derpy's Fun House | 312712 | [312712-derpys-fun-house.json](./312712-derpys-fun-house.json) |
 | Derrick the Deathfin | 17187 | [17187-derrick-the-deathfin.json](./17187-derrick-the-deathfin.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Dervish | 13589 | [13589-dervish.json](./13589-dervish.json) |
@@ -3354,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Hex Trap | 412565 | [412565-dino-hex-trap.json](./412565-dino-hex-trap.json) |
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
+| Dino Market | 312710 | [312710-dino-market.json](./312710-dino-market.json) |
 | Dino Master | 132161 | [132161-dino-master.json](./132161-dino-master.json) |
 | Dino Master | 69143 | [69143-dino-master.json](./69143-dino-master.json) |
 | Dino Match | 361340 | [361340-dino-match.json](./361340-dino-match.json) |
