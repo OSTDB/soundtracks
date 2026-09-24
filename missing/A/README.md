@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Challenging Game About Parkour | 379464 | [379464-a-challenging-game-about-parkour.json](./379464-a-challenging-game-about-parkour.json) |
 | A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
 | A Chinese Ghost Story | 77653 | [77653-a-chinese-ghost-story.json](./77653-a-chinese-ghost-story.json) |
+| A Christmas Blackout | 310535 | [310535-a-christmas-blackout.json](./310535-a-christmas-blackout.json) |
 | A Christmas Carol: But With Anime Girls | 379470 | [379470-a-christmas-carol-but-with-anime-girls.json](./379470-a-christmas-carol-but-with-anime-girls.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Christmas Nightmare | 165502 | [165502-a-christmas-nightmare.json](./165502-a-christmas-nightmare.json) |
@@ -696,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Lightning | 248736 | [248736-ace-lightning.json](./248736-ace-lightning.json) |
 | Ace of Aces | 11863 | [11863-ace-of-aces.json](./11863-ace-of-aces.json) |
 | Ace of Aces | 85860 | [85860-ace-of-aces.json](./85860-ace-of-aces.json) |
+| Ace of Gifts | 310537 | [310537-ace-of-gifts.json](./310537-ace-of-gifts.json) |
 | Ace of Rope | 177475 | [177475-ace-of-rope.json](./177475-ace-of-rope.json) |
 | Ace of Space | 123544 | [123544-ace-of-space.json](./123544-ace-of-space.json) |
 | Ace of Space | 172031 | [172031-ace-of-space.json](./172031-ace-of-space.json) |
@@ -2401,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter | 264033 | [264033-alter.json](./264033-alter.json) |
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
 | Alter A.I.L.A. Genesis | 308425 | [308425-alter-a-i-l-a-genesis.json](./308425-alter-a-i-l-a-genesis.json) |
+| Alter Age | 310513 | [310513-alter-age.json](./310513-alter-age.json) |
 | Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
 | Alter Ego | 305386 | [305386-alter-ego.json](./305386-alter-ego.json) |
@@ -2456,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
+| Alyssa's Quest | 310536 | [310536-alyssas-quest.json](./310536-alyssas-quest.json) |
 | Alzara: Radiant Echoes | 300878 | [300878-alzara-radiant-echoes.json](./300878-alzara-radiant-echoes.json) |
 | Alzheimer's: Memories | 160230 | [160230-alzheimers-memories.json](./160230-alzheimers-memories.json) |
 | Am I AI | 263573 | [263573-am-i-ai.json](./263573-am-i-ai.json) |
@@ -3357,6 +3361,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
 | Aniquilation | 132152 | [132152-aniquilation.json](./132152-aniquilation.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
+| Anita's Camp | 310539 | [310539-anitas-camp.json](./310539-anitas-camp.json) |
+| Anita's Job | 310538 | [310538-anitas-job.json](./310538-anitas-job.json) |
 | Anivenge | 182374 | [182374-anivenge.json](./182374-anivenge.json) |
 | Anjail! | 407307 | [407307-anjail.json](./407307-anjail.json) |
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
