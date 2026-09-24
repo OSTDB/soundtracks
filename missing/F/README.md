@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fir Flowers and Hyacinths | 369636 | [369636-fir-flowers-and-hyacinths.json](./369636-fir-flowers-and-hyacinths.json) |
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
 | Fire | 152137 | [152137-fire.json](./152137-fire.json) |
+| Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
 | Fire All Weapons | 257973 | [257973-fire-all-weapons.json](./257973-fire-all-weapons.json) |
@@ -2186,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefleet | 293743 | [293743-firefleet.json](./293743-firefleet.json) |
 | Fireflies | 108671 | [108671-fireflies.json](./108671-fireflies.json) |
 | Fireflies | 125850 | [125850-fireflies.json](./125850-fireflies.json) |
+| Fireflies | 336718 | [336718-fireflies.json](./336718-fireflies.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
 | FireFly | 169861 | [169861-firefly.json](./169861-firefly.json) |
 | FireFly | 381018 | [381018-firefly.json](./381018-firefly.json) |
@@ -2267,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Kiss Stories | 384644 | [384644-first-kiss-stories.json](./384644-first-kiss-stories.json) |
 | First Kiss Story II | 125206 | [125206-first-kiss-story-ii.json](./125206-first-kiss-story-ii.json) |
 | First Light | 191155 | [191155-first-light.json](./191155-first-light.json) |
+| First Light | 336721 | [336721-first-light.json](./336721-first-light.json) |
 | First Love / Late Spring | 204493 | [204493-first-love-late-spring.json](./204493-first-love-late-spring.json) |
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
@@ -2856,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip | 381025 | [381025-flip.json](./381025-flip.json) |
 | Flip & Flop | 41006 | [41006-flip-and-flop.json](./41006-flip-and-flop.json) |
 | Flip Boarder | 74752 | [74752-flip-boarder.json](./74752-flip-boarder.json) |
+| Flip Coin | 336702 | [336702-flip-coin.json](./336702-flip-coin.json) |
 | Flip Flop | 285572 | [285572-flip-flop.json](./285572-flip-flop.json) |
 | Flip Flop XL | 322782 | [322782-flip-flop-xl.json](./322782-flip-flop-xl.json) |
 | Flip for Cake | 361721 | [361721-flip-for-cake.json](./361721-flip-for-cake.json) |
