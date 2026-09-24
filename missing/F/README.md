@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famous | 91389 | [91389-famous.json](./91389-famous.json) |
 | Famous - The Road to Glory! | 47971 | [47971-famous-the-road-to-glory.json](./47971-famous-the-road-to-glory.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
+| Famulus | 326728 | [326728-famulus.json](./326728-famulus.json) |
 | Fan Fun 3D | 99985 | [99985-fan-fun-3d.json](./99985-fan-fun-3d.json) |
 | Fan Pop Rhythm Stage: Aim for the Heart | 279137 | [279137-fan-pop-rhythm-stage-aim-for-the-heart.json](./279137-fan-pop-rhythm-stage-aim-for-the-heart.json) |
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
@@ -4497,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggie: A Retro Platformer | 211968 | [211968-froggie-a-retro-platformer.json](./211968-froggie-a-retro-platformer.json) |
 | Froggin' Around | 265777 | [265777-froggin-around.json](./265777-froggin-around.json) |
 | Froggo | 115678 | [115678-froggo.json](./115678-froggo.json) |
+| Froggo's Adventure: Drifting Sky | 326759 | [326759-froggos-adventure-drifting-sky.json](./326759-froggos-adventure-drifting-sky.json) |
 | Froggo's Quest | 418715 | [418715-froggos-quest.json](./418715-froggos-quest.json) |
 | Froggy | 227828 | [227828-froggy.json](./227828-froggy.json) |
 | Froggy Brews | 351261 | [351261-froggy-brews.json](./351261-froggy-brews.json) |
@@ -4984,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies & Scarecrows Oh My! | 321525 | [321525-furries-and-scalies-and-scarecrows-oh-my.json](./321525-furries-and-scalies-and-scarecrows-oh-my.json) |
 | Furrifighters: Prequel I | 369553 | [369553-furrifighters-prequel-i.json](./369553-furrifighters-prequel-i.json) |
 | Furry Adventure Club and the Holy Grail | 312742 | [312742-furry-adventure-club-and-the-holy-grail.json](./312742-furry-adventure-club-and-the-holy-grail.json) |
+| Furry Aim Trainer | 326741 | [326741-furry-aim-trainer.json](./326741-furry-aim-trainer.json) |
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
 | Furry Boss | 215891 | [215891-furry-boss.json](./215891-furry-boss.json) |
