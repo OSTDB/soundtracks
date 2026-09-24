@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malstrum's Mansion | 254509 | [254509-malstrums-mansion.json](./254509-malstrums-mansion.json) |
 | Malta Storm | 72083 | [72083-malta-storm.json](./72083-malta-storm.json) |
 | Maltese Cross | 134418 | [134418-maltese-cross.json](./134418-maltese-cross.json) |
+| Malu the Princess | 324997 | [324997-malu-the-princess.json](./324997-malu-the-princess.json) |
 | Malum Escape | 311500 | [311500-malum-escape.json](./311500-malum-escape.json) |
 | Malus | 133214 | [133214-malus.json](./133214-malus.json) |
 | Malvin`s Prehistoric Adventures | 129228 | [129228-malvin-s-prehistoric-adventures.json](./129228-malvin-s-prehistoric-adventures.json) |
@@ -1031,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manaforge | 129730 | [129730-manaforge.json](./129730-manaforge.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
+| Management Worlds Bundle | 325005 | [325005-management-worlds-bundle.json](./325005-management-worlds-bundle.json) |
 | ManagerLeague | 152113 | [152113-managerleague.json](./152113-managerleague.json) |
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
@@ -3285,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
 | Meow Moments: Celebrating Geeks & Athletes | 342234 | [342234-meow-moments-celebrating-geeks-and-athletes.json](./342234-meow-moments-celebrating-geeks-and-athletes.json) |
+| Meow Moments: Celebrating Renewal & Romance | 325008 | [325008-meow-moments-celebrating-renewal-and-romance.json](./325008-meow-moments-celebrating-renewal-and-romance.json) |
 | Meow Moments: Valentine's Day | 289844 | [289844-meow-moments-valentines-day.json](./289844-meow-moments-valentines-day.json) |
 | Meow Music | 103912 | [103912-meow-music.json](./103912-meow-music.json) |
 | Meow Nights | 183540 | [183540-meow-nights.json](./183540-meow-nights.json) |
