@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heirs of Heaven | 346237 | [346237-heirs-of-heaven.json](./346237-heirs-of-heaven.json) |
 | Heirs of the Moon | 413922 | [413922-heirs-of-the-moon.json](./413922-heirs-of-the-moon.json) |
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
+| Heise Biji | 330272 | [330272-heise-biji.json](./330272-heise-biji.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
 | Heist | 111050 | [111050-heist.json](./111050-heist.json) |
 | Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
@@ -3630,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Shift | 17896 | [17896-horizon-shift.json](./17896-horizon-shift.json) |
 | Horizon Source | 86511 | [86511-horizon-source.json](./86511-horizon-source.json) |
 | Horizon V | 24880 | [24880-horizon-v.json](./24880-horizon-v.json) |
+| Horizon Walker | 330256 | [330256-horizon-walker.json](./330256-horizon-walker.json) |
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
 | Horizon Zero Dawn: Complete Edition | 72870 | [72870-horizon-zero-dawn-complete-edition.json](./72870-horizon-zero-dawn-complete-edition.json) |
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
