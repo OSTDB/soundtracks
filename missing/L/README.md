@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Tower: The Abyss | 283751 | [283751-lizard-tower-the-abyss.json](./283751-lizard-tower-the-abyss.json) |
 | Lizardquest-Alien waters | 115035 | [115035-lizardquest-alien-waters.json](./115035-lizardquest-alien-waters.json) |
 | Lizards Must Die | 264773 | [264773-lizards-must-die.json](./264773-lizards-must-die.json) |
+| Lizards Must Die 2 | 311584 | [311584-lizards-must-die-2.json](./311584-lizards-must-die-2.json) |
 | Lizards Must Die: Victor Character | 288903 | [288903-lizards-must-die-victor-character.json](./288903-lizards-must-die-victor-character.json) |
 | LizardSpock | 233012 | [233012-lizardspock.json](./233012-lizardspock.json) |
 | Lizzie McGuire 2: Lizzie Diaries | 49393 | [49393-lizzie-mcguire-2-lizzie-diaries.json](./49393-lizzie-mcguire-2-lizzie-diaries.json) |
