@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Craft | 83253 | [83253-fatal-craft.json](./83253-fatal-craft.json) |
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
 | Fatal Escape | 60485 | [60485-fatal-escape.json](./60485-fatal-escape.json) |
+| Fatal Evidence: Art of Murder | 323847 | [323847-fatal-evidence-art-of-murder.json](./323847-fatal-evidence-art-of-murder.json) |
 | Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
 | Fatal Fight | 33318 | [33318-fatal-fight.json](./33318-fatal-fight.json) |
 | Fatal Flash | 98227 | [98227-fatal-flash.json](./98227-fatal-flash.json) |
