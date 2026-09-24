@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Trus Man | 62412 | [62412-little-trus-man.json](./62412-little-trus-man.json) |
 | Little Walker | 33388 | [33388-little-walker.json](./33388-little-walker.json) |
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
+| Little Weasel | 309485 | [309485-little-weasel.json](./309485-little-weasel.json) |
 | Little White Man vs. X | 252221 | [252221-little-white-man-vs-x.json](./252221-little-white-man-vs-x.json) |
 | Little Wing | 79591 | [79591-little-wing.json](./79591-little-wing.json) |
 | Little Wings Deliveries | 333658 | [333658-little-wings-deliveries.json](./333658-little-wings-deliveries.json) |
@@ -2837,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootale Slash | 398330 | [398330-lootale-slash.json](./398330-lootale-slash.json) |
 | Lootbag Tactics | 409527 | [409527-lootbag-tactics.json](./409527-lootbag-tactics.json) |
 | Lootbane | 370125 | [370125-lootbane.json](./370125-lootbane.json) |
+| Lootbawx | 309471 | [309471-lootbawx.json](./309471-lootbawx.json) |
 | Lootborne | 406315 | [406315-lootborne.json](./406315-lootborne.json) |
 | Lootbox Gungeon | 179162 | [179162-lootbox-gungeon.json](./179162-lootbox-gungeon.json) |
 | Lootbox Lyfe | 118586 | [118586-lootbox-lyfe.json](./118586-lootbox-lyfe.json) |
@@ -3720,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust for Lucre | 305760 | [305760-lust-for-lucre.json](./305760-lust-for-lucre.json) |
 | Lust from Beyond | 115903 | [115903-lust-from-beyond.json](./115903-lust-from-beyond.json) |
 | Lust From Beyond: M Edition | 152313 | [152313-lust-from-beyond-m-edition.json](./152313-lust-from-beyond-m-edition.json) |
+| Lust Galaxy | 309478 | [309478-lust-galaxy.json](./309478-lust-galaxy.json) |
 | Lust Girl | 241514 | [241514-lust-girl.json](./241514-lust-girl.json) |
 | Lust Harem 1001 Pleasures | 384757 | [384757-lust-harem-1001-pleasures.json](./384757-lust-harem-1001-pleasures.json) |
 | Lust Island | 384761 | [384761-lust-island.json](./384761-lust-island.json) |
