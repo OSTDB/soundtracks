@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakechu Relay | 366917 | [366917-bakechu-relay.json](./366917-bakechu-relay.json) |
 | Baked:Magic | 135024 | [135024-baked-magic.json](./135024-baked-magic.json) |
 | Bakemono | 128018 | [128018-bakemono.json](./128018-bakemono.json) |
+| Bakemono Heights | 334874 | [334874-bakemono-heights.json](./334874-bakemono-heights.json) |
 | Baker Business 3 | 235967 | [235967-baker-business-3.json](./235967-baker-business-3.json) |
 | Bakeru | 254466 | [254466-bakeru.json](./254466-bakeru.json) |
 | Bakery Magnate: Beginning | 292692 | [292692-bakery-magnate-beginning.json](./292692-bakery-magnate-beginning.json) |
