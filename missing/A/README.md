@@ -3450,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annie and the Shadow Palace | 158071 | [158071-annie-and-the-shadow-palace.json](./158071-annie-and-the-shadow-palace.json) |
 | Annie Android: Automated Affection | 165510 | [165510-annie-android-automated-affection.json](./165510-annie-android-automated-affection.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
+| Annihilation | 289380 | [289380-annihilation.json](./289380-annihilation.json) |
 | Annihilation: Space Tycoon | 255794 | [255794-annihilation-space-tycoon.json](./255794-annihilation-space-tycoon.json) |
 | Annihilith Of Abhorration | 271293 | [271293-annihilith-of-abhorration.json](./271293-annihilith-of-abhorration.json) |
 | Anno 117: Pax Romana - Blooming Cities Pack | 408893 | [408893-anno-117-pax-romana-blooming-cities-pack.json](./408893-anno-117-pax-romana-blooming-cities-pack.json) |
@@ -5470,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Burn | 350037 | [350037-astro-burn.json](./350037-astro-burn.json) |
 | Astro Chase | 12304 | [12304-astro-chase.json](./12304-astro-chase.json) |
 | Astro Chase 3D | 107639 | [107639-astro-chase-3d.json](./107639-astro-chase-3d.json) |
+| Astro Chef | 289381 | [289381-astro-chef.json](./289381-astro-chef.json) |
 | Astro Combat | 337648 | [337648-astro-combat.json](./337648-astro-combat.json) |
 | Astro Combat | 345097 | [345097-astro-combat.json](./345097-astro-combat.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
@@ -6010,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AutoForge | 257105 | [257105-autoforge.json](./257105-autoforge.json) |
 | Autogiro | 326251 | [326251-autogiro.json](./326251-autogiro.json) |
 | Autograv | 288194 | [288194-autograv.json](./288194-autograv.json) |
+| Autograv: Mini | 289408 | [289408-autograv-mini.json](./289408-autograv-mini.json) |
 | AutoGuessr | 331319 | [331319-autoguessr.json](./331319-autoguessr.json) |
 | Autogun Heroes | 300784 | [300784-autogun-heroes.json](./300784-autogun-heroes.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
