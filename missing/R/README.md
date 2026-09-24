@@ -4357,6 +4357,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Royale | 244269 | [244269-rubber-royale.json](./244269-rubber-royale.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
+| Rubble Trouble Moscow | 326730 | [326730-rubble-trouble-moscow.json](./326730-rubble-trouble-moscow.json) |
+| Rubble Trouble Tokyo | 326729 | [326729-rubble-trouble-tokyo.json](./326729-rubble-trouble-tokyo.json) |
 | Rube Goldberg Workshop | 250452 | [250452-rube-goldberg-workshop.json](./250452-rube-goldberg-workshop.json) |
 | Rube-like Gold-berger | 364606 | [364606-rube-like-gold-berger.json](./364606-rube-like-gold-berger.json) |
 | Rubek | 25069 | [25069-rubek.json](./25069-rubek.json) |
@@ -4690,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
 | Rush | 200584 | [200584-rush.json](./200584-rush.json) |
 | Rush | 272586 | [272586-rush.json](./272586-rush.json) |
+| Rush | 326737 | [326737-rush.json](./326737-rush.json) |
 | Rush | 7634 | [7634-rush.json](./7634-rush.json) |
 | Rush | 88768 | [88768-rush.json](./88768-rush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
@@ -4778,6 +4781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RustNaut | 348308 | [348308-rustnaut.json](./348308-rustnaut.json) |
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
+| Rusty Drill | 326740 | [326740-rusty-drill.json](./326740-rusty-drill.json) |
 | Rusty Foodies | 347351 | [347351-rusty-foodies.json](./347351-rusty-foodies.json) |
 | Rusty Lake Paradise | 54678 | [54678-rusty-lake-paradise.json](./54678-rusty-lake-paradise.json) |
 | Rusty Lake: Roots | 25222 | [25222-rusty-lake-roots.json](./25222-rusty-lake-roots.json) |
