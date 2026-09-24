@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
 | Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
 | Forgiveness | 291580 | [291580-forgiveness.json](./291580-forgiveness.json) |
+| Forgiveness RPG: The First Chapter - Part Three | 297539 | [297539-forgiveness-rpg-the-first-chapter-part-three.json](./297539-forgiveness-rpg-the-first-chapter-part-three.json) |
 | Forgiveness RPG: The First Chapter - Part Two | 294688 | [294688-forgiveness-rpg-the-first-chapter-part-two.json](./294688-forgiveness-rpg-the-first-chapter-part-two.json) |
 | Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
 | Forgotten 23 | 304661 | [304661-forgotten-23.json](./304661-forgotten-23.json) |
@@ -4025,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foundlings | 350439 | [350439-foundlings.json](./350439-foundlings.json) |
 | Fountain of Dreams | 73799 | [73799-fountain-of-dreams.json](./73799-fountain-of-dreams.json) |
 | Fountains: Shattered Shape | 414457 | [414457-fountains-shattered-shape.json](./414457-fountains-shattered-shape.json) |
+| Four Before Midnight | 297560 | [297560-four-before-midnight.json](./297560-four-before-midnight.json) |
 | Four Card Solitaire | 94675 | [94675-four-card-solitaire.json](./94675-four-card-solitaire.json) |
 | Four Chambers of the Human Heart | 250455 | [250455-four-chambers-of-the-human-heart.json](./250455-four-chambers-of-the-human-heart.json) |
 | Four color jumps | 152905 | [152905-four-color-jumps.json](./152905-four-color-jumps.json) |
