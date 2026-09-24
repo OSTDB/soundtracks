@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faces...tris III | 79320 | [79320-faces-tris-iii.json](./79320-faces-tris-iii.json) |
 | Facewound | 243111 | [243111-facewound.json](./243111-facewound.json) |
 | Facility 079 | 291041 | [291041-facility-079.json](./291041-facility-079.json) |
+| Facing Demons: Chara Battle | 305263 | [305263-facing-demons-chara-battle.json](./305263-facing-demons-chara-battle.json) |
 | Facing Zombie,and 4 Walls | 285967 | [285967-facing-zombie-and-4-walls.json](./285967-facing-zombie-and-4-walls.json) |
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
 | Faction Wars | 168317 | [168317-faction-wars.json](./168317-faction-wars.json) |
