@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| P Diddy Songs Quiz / Trivia, Music Player, Lyrics, & News: Ultimate P Diddy Fan App | 334882 | [334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json](./334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json) |
 | P World | 332449 | [332449-p-world.json](./332449-p-world.json) |
 | P-Kara | 59365 | [59365-p-kara.json](./59365-p-kara.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
@@ -906,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Arcade | 104623 | [104623-parkour-arcade.json](./104623-parkour-arcade.json) |
 | Parkour Assassin: Sprint Run 2 | 391037 | [391037-parkour-assassin-sprint-run-2.json](./391037-parkour-assassin-sprint-run-2.json) |
+| Parkour Block 3D | 334838 | [334838-parkour-block-3d.json](./334838-parkour-block-3d.json) |
 | Parkour Chief: Chapter Secret Agent | 341595 | [341595-parkour-chief-chapter-secret-agent.json](./341595-parkour-chief-chapter-secret-agent.json) |
 | Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
 | Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
@@ -3657,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Puyo Puyo Tsuu | 87198 | [87198-pocket-puyo-puyo-tsuu.json](./87198-pocket-puyo-puyo-tsuu.json) |
 | Pocket Racer | 129150 | [129150-pocket-racer.json](./129150-pocket-racer.json) |
 | Pocket Races | 153834 | [153834-pocket-races.json](./153834-pocket-races.json) |
+| Pocket Room Sanrio Characters | 334865 | [334865-pocket-room-sanrio-characters.json](./334865-pocket-room-sanrio-characters.json) |
 | Pocket Royal | 196332 | [196332-pocket-royal.json](./196332-pocket-royal.json) |
 | Pocket RPG | 61075 | [61075-pocket-rpg.json](./61075-pocket-rpg.json) |
 | Pocket Shooter Hardcore | 57691 | [57691-pocket-shooter-hardcore.json](./57691-pocket-shooter-hardcore.json) |
