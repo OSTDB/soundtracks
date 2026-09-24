@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Survivors | 395039 | [395039-kawaii-survivors.json](./395039-kawaii-survivors.json) |
 | KawaiiDungeon: Rise of a Goddess | 225762 | [225762-kawaiidungeon-rise-of-a-goddess.json](./225762-kawaiidungeon-rise-of-a-goddess.json) |
 | Kawaiiju | 176427 | [176427-kawaiiju.json](./176427-kawaiiju.json) |
+| Kawairun | 332634 | [332634-kawairun.json](./332634-kawairun.json) |
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
@@ -1849,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokuu Hyouryuu Nirgends | 45951 | [45951-kokuu-hyouryuu-nirgends.json](./45951-kokuu-hyouryuu-nirgends.json) |
 | Koliquest | 146243 | [146243-koliquest.json](./146243-koliquest.json) |
 | Kolkhoz: The Red Wedge | 109755 | [109755-kolkhoz-the-red-wedge.json](./109755-kolkhoz-the-red-wedge.json) |
+| Kollectomaniac | 332635 | [332635-kollectomaniac.json](./332635-kollectomaniac.json) |
 | Kollywood: The Game | 340030 | [340030-kollywood-the-game.json](./340030-kollywood-the-game.json) |
 | Kolobok Piramida | 266283 | [266283-kolobok-piramida.json](./266283-kolobok-piramida.json) |
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
