@@ -5644,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakkar | 13611 | [13611-drakkar.json](./13611-drakkar.json) |
 | Drakkar Crew | 107886 | [107886-drakkar-crew.json](./107886-drakkar-crew.json) |
 | DraKoI | 60505 | [60505-drakoi.json](./60505-drakoi.json) |
+| Drakomon | 283248 | [283248-drakomon.json](./283248-drakomon.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
 | Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
@@ -6098,6 +6099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving School Simulator: EVO | 383520 | [383520-driving-school-simulator-evo.json](./383520-driving-school-simulator-evo.json) |
 | Driving Simulator 2011 | 51254 | [51254-driving-simulator-2011.json](./51254-driving-simulator-2011.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
+| Driving World Collection | 283206 | [283206-driving-world-collection.json](./283206-driving-world-collection.json) |
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
 | Driving Zone: Germany | 89287 | [89287-driving-zone-germany.json](./89287-driving-zone-germany.json) |
 | Driving Zone: Japan | 174857 | [174857-driving-zone-japan.json](./174857-driving-zone-japan.json) |
@@ -6776,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 3: An Unexpected DLC | 115420 | [115420-dungeons-3-an-unexpected-dlc.json](./115420-dungeons-3-an-unexpected-dlc.json) |
 | Dungeons 3: Complete Collection | 136320 | [136320-dungeons-3-complete-collection.json](./136320-dungeons-3-complete-collection.json) |
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
+| Dungeons 3: Nintendo Switch Complete Collection | 283207 | [283207-dungeons-3-nintendo-switch-complete-collection.json](./283207-dungeons-3-nintendo-switch-complete-collection.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
