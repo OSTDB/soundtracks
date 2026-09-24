@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 1 / Metroid 1 Combo Randomizer | 152749 | [152749-zelda-1-metroid-1-combo-randomizer.json](./152749-zelda-1-metroid-1-combo-randomizer.json) |
 | Zelda 64 1996 | 315033 | [315033-zelda-64-1996.json](./315033-zelda-64-1996.json) |
+| Zelda 64 1997 | 286619 | [286619-zelda-64-1997.json](./286619-zelda-64-1997.json) |
 | Zelda 64: Dawn & Dusk | 132646 | [132646-zelda-64-dawn-and-dusk.json](./132646-zelda-64-dawn-and-dusk.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda II: Boss Endurance | 280757 | [280757-zelda-ii-boss-endurance.json](./280757-zelda-ii-boss-endurance.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggy | 253461 | [253461-ziggy.json](./253461-ziggy.json) |
 | Ziggy Kids Racing | 246971 | [246971-ziggy-kids-racing.json](./246971-ziggy-kids-racing.json) |
 | Ziggy Putts | 58188 | [58188-ziggy-putts.json](./58188-ziggy-putts.json) |
+| Ziggy's Labyrinth | 286573 | [286573-ziggys-labyrinth.json](./286573-ziggys-labyrinth.json) |
 | ZigZag | 26920 | [26920-zigzag.json](./26920-zigzag.json) |
 | Ziircon | 211277 | [211277-ziircon.json](./211277-ziircon.json) |
 | Zill O'll | 94007 | [94007-zill-oll.json](./94007-zill-oll.json) |
