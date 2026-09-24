@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indonesian Dominatrixes Are the Best | 385705 | [385705-indonesian-dominatrixes-are-the-best.json](./385705-indonesian-dominatrixes-are-the-best.json) |
 | Indoor Air Soccer | 175338 | [175338-indoor-air-soccer.json](./175338-indoor-air-soccer.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
+| Indoor Haul | 311070 | [311070-indoor-haul.json](./311070-indoor-haul.json) |
 | Indoor Rock Climbing VR | 81757 | [81757-indoor-rock-climbing-vr.json](./81757-indoor-rock-climbing-vr.json) |
 | Indoor Soccer | 39839 | [39839-indoor-soccer.json](./39839-indoor-soccer.json) |
 | Indoor Soccer for the TI 99/4A | 93990 | [93990-indoor-soccer-for-the-ti-99-4a.json](./93990-indoor-soccer-for-the-ti-99-4a.json) |
