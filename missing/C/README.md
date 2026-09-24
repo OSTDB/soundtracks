@@ -5610,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
 | Cozy Home | 386876 | [386876-cozy-home.json](./386876-cozy-home.json) |
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
+| Cozy Island | 334286 | [334286-cozy-island.json](./334286-cozy-island.json) |
 | Cozy Keep: Farm, Craft, Manage | 271208 | [271208-cozy-keep-farm-craft-manage.json](./271208-cozy-keep-farm-craft-manage.json) |
 | Cozy Life Collection | 393632 | [393632-cozy-life-collection.json](./393632-cozy-life-collection.json) |
 | Cozy Liora | 400883 | [400883-cozy-liora.json](./400883-cozy-liora.json) |
@@ -6144,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimax | 130912 | [130912-crimax.json](./130912-crimax.json) |
 | Crime Boss: Heavy Hitters Pack | 276298 | [276298-crime-boss-heavy-hitters-pack.json](./276298-crime-boss-heavy-hitters-pack.json) |
 | Crime Boss: Rockay City - Cagnali's Order | 315500 | [315500-crime-boss-rockay-city-cagnalis-order.json](./315500-crime-boss-rockay-city-cagnalis-order.json) |
+| Crime Boss: Rockay City - Cracker Character Pack | 334292 | [334292-crime-boss-rockay-city-cracker-character-pack.json](./334292-crime-boss-rockay-city-cracker-character-pack.json) |
 | Crime Boss: Rockay City - Tactical Weapon Pack | 315501 | [315501-crime-boss-rockay-city-tactical-weapon-pack.json](./315501-crime-boss-rockay-city-tactical-weapon-pack.json) |
 | Crime Busters | 48320 | [48320-crime-busters.json](./48320-crime-busters.json) |
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
@@ -6265,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Cove | 136987 | [136987-critter-cove.json](./136987-critter-cove.json) |
 | Critter Crunch | 13188 | [13188-critter-crunch.json](./13188-critter-crunch.json) |
 | Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
+| Critter Isle | 334301 | [334301-critter-isle.json](./334301-critter-isle.json) |
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
 | Critter Switcher | 394880 | [394880-critter-switcher.json](./394880-critter-switcher.json) |
 | Critters for Sale: Snake | 158055 | [158055-critters-for-sale-snake.json](./158055-critters-for-sale-snake.json) |
