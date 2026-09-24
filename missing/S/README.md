@@ -7110,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
+| Soul Warden Professional Academy | 288829 | [288829-soul-warden-professional-academy.json](./288829-soul-warden-professional-academy.json) |
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
 | Soul Worker Rush | 193850 | [193850-soul-worker-rush.json](./193850-soul-worker-rush.json) |
 | Soul's Spectrum | 232974 | [232974-souls-spectrum.json](./232974-souls-spectrum.json) |
@@ -7142,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulgrave | 412294 | [412294-soulgrave.json](./412294-soulgrave.json) |
 | Soulitaire | 204520 | [204520-soulitaire.json](./204520-soulitaire.json) |
 | Soulivion | 285607 | [285607-soulivion.json](./285607-soulivion.json) |
+| Soulivion II | 288821 | [288821-soulivion-ii.json](./288821-soulivion-ii.json) |
 | SoulJah Kingdom Rise | 243372 | [243372-souljah-kingdom-rise.json](./243372-souljah-kingdom-rise.json) |
 | Soulknight Survivor | 253363 | [253363-soulknight-survivor.json](./253363-soulknight-survivor.json) |
 | Soulless | 195790 | [195790-soulless.json](./195790-soulless.json) |
@@ -10453,6 +10455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
+| Stowaway | 288868 | [288868-stowaway.json](./288868-stowaway.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
 | Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
@@ -13101,6 +13104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Avalon | 158709 | [158709-survive-avalon.json](./158709-survive-avalon.json) |
 | Survive in a little bit | 117698 | [117698-survive-in-a-little-bit.json](./117698-survive-in-a-little-bit.json) |
 | Survive in Angaria | 90125 | [90125-survive-in-angaria.json](./90125-survive-in-angaria.json) |
+| Survive In Strange World | 288810 | [288810-survive-in-strange-world.json](./288810-survive-in-strange-world.json) |
 | Survive Into Night | 155504 | [155504-survive-into-night.json](./155504-survive-into-night.json) |
 | Survive Isolation | 150503 | [150503-survive-isolation.json](./150503-survive-isolation.json) |
 | Survive on Raft | 125851 | [125851-survive-on-raft.json](./125851-survive-on-raft.json) |
