@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
 | 7th Deep | 88084 | [88084-7th-deep.json](./88084-7th-deep.json) |
+| 7th Domain: Tree of Chaos | 308917 | [308917-7th-domain-tree-of-chaos.json](./308917-7th-domain-tree-of-chaos.json) |
 | 7th Sea: A Pirate's Pact | 113865 | [113865-7th-sea-a-pirates-pact.json](./113865-7th-sea-a-pirates-pact.json) |
 | 7th Sector | 115336 | [115336-7th-sector.json](./115336-7th-sector.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
