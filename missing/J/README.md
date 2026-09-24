@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 4 | 3255 | [3255-just-dance-4.json](./3255-just-dance-4.json) |
 | Just Dance Wii U | 15560 | [15560-just-dance-wii-u.json](./15560-just-dance-wii-u.json) |
 | Just Dance: Decades of Hits | 409690 | [409690-just-dance-decades-of-hits.json](./409690-just-dance-decades-of-hits.json) |
+| Just Dance.exe | 292066 | [292066-just-dance-exe.json](./292066-just-dance-exe.json) |
 | Just Dash | 107912 | [107912-just-dash.json](./107912-just-dash.json) |
 | Just Date | 253928 | [253928-just-date.json](./253928-just-date.json) |
 | Just Date Vegan | 368656 | [368656-just-date-vegan.json](./368656-just-date-vegan.json) |
