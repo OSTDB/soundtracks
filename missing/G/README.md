@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gibbonacci | 410992 | [410992-gibbonacci.json](./410992-gibbonacci.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
 | Gibo: Sayaka | 128363 | [128363-gibo-sayaka.json](./128363-gibo-sayaka.json) |
+| Gibtropolis | 299848 | [299848-gibtropolis.json](./299848-gibtropolis.json) |
 | Gibz | 20404 | [20404-gibz.json](./20404-gibz.json) |
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
 | Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
@@ -3465,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grit & Gold | 310506 | [310506-grit-and-gold.json](./310506-grit-and-gold.json) |
 | Grit & Valor: 1949 | 304134 | [304134-grit-and-valor-1949.json](./304134-grit-and-valor-1949.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
+| Grit Under the Eyelid | 299843 | [299843-grit-under-the-eyelid.json](./299843-grit-under-the-eyelid.json) |
 | Grits Racing | 114946 | [114946-grits-racing.json](./114946-grits-racing.json) |
 | Grix | 384501 | [384501-grix.json](./384501-grix.json) |
 | Grizelda: Lynx and the Nine Lives | 201678 | [201678-grizelda-lynx-and-the-nine-lives.json](./201678-grizelda-lynx-and-the-nine-lives.json) |
@@ -3827,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
 | Gum Girl | 181847 | [181847-gum-girl.json](./181847-gum-girl.json) |
 | Gumball | 25612 | [25612-gumball.json](./25612-gumball.json) |
+| Gumball 3000 | 300795 | [300795-gumball-3000.json](./300795-gumball-3000.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
