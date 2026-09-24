@@ -3670,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Storm | 379900 | [379900-meteor-storm.json](./379900-meteor-storm.json) |
 | Meteor Tensei | 141029 | [141029-meteor-tensei.json](./141029-meteor-tensei.json) |
 | Meteor World Actor: Badge & Dagger | 194451 | [194451-meteor-world-actor-badge-and-dagger.json](./194451-meteor-world-actor-badge-and-dagger.json) |
+| Meteorder | 317977 | [317977-meteorder.json](./317977-meteorder.json) |
 | Meteorfall: Krumit's Tale | 98379 | [98379-meteorfall-krumits-tale.json](./98379-meteorfall-krumits-tale.json) |
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
 | Meteorite Destroyer | 104119 | [104119-meteorite-destroyer.json](./104119-meteorite-destroyer.json) |
@@ -6035,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
 | Moonstone Island: Arcane Artifacts | 301852 | [301852-moonstone-island-arcane-artifacts.json](./301852-moonstone-island-arcane-artifacts.json) |
+| Moonstone Island: Autumnal Accessories DLC Pack | 317958 | [317958-moonstone-island-autumnal-accessories-dlc-pack.json](./317958-moonstone-island-autumnal-accessories-dlc-pack.json) |
 | Moonstone Island: Deluxe Edition | 306524 | [306524-moonstone-island-deluxe-edition.json](./306524-moonstone-island-deluxe-edition.json) |
 | Moonstone Island: Designed for Lovers DLC Pack | 293412 | [293412-moonstone-island-designed-for-lovers-dlc-pack.json](./293412-moonstone-island-designed-for-lovers-dlc-pack.json) |
 | Moonstone Island: Pool Party DLC Pack | 322723 | [322723-moonstone-island-pool-party-dlc-pack.json](./322723-moonstone-island-pool-party-dlc-pack.json) |
