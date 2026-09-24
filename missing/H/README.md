@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai beautiful girls 4 | 164427 | [164427-hentai-beautiful-girls-4.json](./164427-hentai-beautiful-girls-4.json) |
 | Hentai Bikini | 387660 | [387660-hentai-bikini.json](./387660-hentai-bikini.json) |
 | Hentai Boy | 149427 | [149427-hentai-boy.json](./149427-hentai-boy.json) |
+| Hentai Breeding Simulator | 309474 | [309474-hentai-breeding-simulator.json](./309474-hentai-breeding-simulator.json) |
 | Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
 | Hentai Cheerleader | 239749 | [239749-hentai-cheerleader.json](./239749-hentai-cheerleader.json) |
 | Hentai Chicks 2 | 149415 | [149415-hentai-chicks-2.json](./149415-hentai-chicks-2.json) |
@@ -2793,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
 | High Stakes | 299750 | [299750-high-stakes.json](./299750-high-stakes.json) |
 | High Stakes on the Vegas Strip: Poker Edition | 52236 | [52236-high-stakes-on-the-vegas-strip-poker-edition.json](./52236-high-stakes-on-the-vegas-strip-poker-edition.json) |
+| High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
 | Highball | 119731 | [119731-highball.json](./119731-highball.json) |
 | Highblast | 189066 | [189066-highblast.json](./189066-highblast.json) |
