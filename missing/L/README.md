@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LegacyShell | 325681 | [325681-legacyshell.json](./325681-legacyshell.json) |
 | Legaia 2: Duel Saga | 28161 | [28161-legaia-2-duel-saga.json](./28161-legaia-2-duel-saga.json) |
 | Legal Speed Racing | 90557 | [90557-legal-speed-racing.json](./90557-legal-speed-racing.json) |
+| Legally Distinct, Planetary Based, Suika Game Clone | 292091 | [292091-legally-distinct-planetary-based-suika-game-clone.json](./292091-legally-distinct-planetary-based-suika-game-clone.json) |
 | Leganda | 188675 | [188675-leganda.json](./188675-leganda.json) |
 | Legena: Union Tides | 34449 | [34449-legena-union-tides.json](./34449-legena-union-tides.json) |
 | Legend | 197955 | [197955-legend.json](./197955-legend.json) |
