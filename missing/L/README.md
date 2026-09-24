@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladies of Sorrow: Night One | 323551 | [323551-ladies-of-sorrow-night-one.json](./323551-ladies-of-sorrow-night-one.json) |
 | Ladra | 34769 | [34769-ladra.json](./34769-ladra.json) |
 | Lady Blue | 376688 | [376688-lady-blue.json](./376688-lady-blue.json) |
+| Lady Bug Arcade | 332638 | [332638-lady-bug-arcade.json](./332638-lady-bug-arcade.json) |
 | Lady Death Demonicron | 310761 | [310761-lady-death-demonicron.json](./310761-lady-death-demonicron.json) |
 | Lady Dracula | 350027 | [350027-lady-dracula.json](./350027-lady-dracula.json) |
 | Lady Gaga Revenge 2 | 66039 | [66039-lady-gaga-revenge-2.json](./66039-lady-gaga-revenge-2.json) |
