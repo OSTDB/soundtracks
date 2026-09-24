@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Letter | 145044 | [145044-kitty-letter.json](./145044-kitty-letter.json) |
 | Kitty Loves Birds | 346601 | [346601-kitty-loves-birds.json](./346601-kitty-loves-birds.json) |
 | Kitty Meow Meow City Heroes - Cats to the Rescue! | 95880 | [95880-kitty-meow-meow-city-heroes-cats-to-the-rescue.json](./95880-kitty-meow-meow-city-heroes-cats-to-the-rescue.json) |
+| Kitty Pig | 291001 | [291001-kitty-pig.json](./291001-kitty-pig.json) |
 | Kitty Play | 105079 | [105079-kitty-play.json](./105079-kitty-play.json) |
 | Kitty Powers' Matchmaker Makeover | 388047 | [388047-kitty-powers-matchmaker-makeover.json](./388047-kitty-powers-matchmaker-makeover.json) |
 | Kitty Powers' Matchmaker: Deluxe Edition | 146689 | [146689-kitty-powers-matchmaker-deluxe-edition.json](./146689-kitty-powers-matchmaker-deluxe-edition.json) |
