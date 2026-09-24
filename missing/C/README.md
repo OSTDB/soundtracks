@@ -2330,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
 | Chef Life: A Restaurant Simulator - Tokyo Delight | 295348 | [295348-chef-life-a-restaurant-simulator-tokyo-delight.json](./295348-chef-life-a-restaurant-simulator-tokyo-delight.json) |
+| Chef Life: Cooking Lab | 288863 | [288863-chef-life-cooking-lab.json](./288863-chef-life-cooking-lab.json) |
 | Chef of Sherwood | 391845 | [391845-chef-of-sherwood.json](./391845-chef-of-sherwood.json) |
 | Chef Ramsay | 248130 | [248130-chef-ramsay.json](./248130-chef-ramsay.json) |
 | Chef RPG | 191154 | [191154-chef-rpg.json](./191154-chef-rpg.json) |
@@ -4108,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Bakery Girl | 113467 | [113467-codename-bakery-girl.json](./113467-codename-bakery-girl.json) |
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
+| Codename: Nanxiangzi | 288826 | [288826-codename-nanxiangzi.json](./288826-codename-nanxiangzi.json) |
 | Codename: Panzers - Cold War | 15762 | [15762-codename-panzers-cold-war.json](./15762-codename-panzers-cold-war.json) |
 | Codename: Panzers - Phase One | 640 | [640-codename-panzers-phase-one.json](./640-codename-panzers-phase-one.json) |
 | Codename: Rogue Fleet | 34446 | [34446-codename-rogue-fleet.json](./34446-codename-rogue-fleet.json) |
