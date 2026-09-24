@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Room 96 | 291457 | [291457-find-room-96.json](./291457-find-room-96.json) |
 | Find someone else | 95237 | [95237-find-someone-else.json](./95237-find-someone-else.json) |
 | Find Sort Match | 358351 | [358351-find-sort-match.json](./358351-find-sort-match.json) |
+| Find The Backdoor | 290493 | [290493-find-the-backdoor.json](./290493-find-the-backdoor.json) |
 | Find the Birds | 230912 | [230912-find-the-birds.json](./230912-find-the-birds.json) |
 | Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
@@ -3023,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flirting with Yasmine | 238479 | [238479-flirting-with-yasmine.json](./238479-flirting-with-yasmine.json) |
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
 | Flo Boarding | 47563 | [47563-flo-boarding.json](./47563-flo-boarding.json) |
+| Floain | 290472 | [290472-floain.json](./290472-floain.json) |
 | Floain Plus | 375978 | [375978-floain-plus.json](./375978-floain-plus.json) |
 | Float Gallery | 51560 | [51560-float-gallery.json](./51560-float-gallery.json) |
 | Float Night | 111521 | [111521-float-night.json](./111521-float-night.json) |
