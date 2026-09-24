@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMazing TD | 130181 | [130181-amazing-td.json](./130181-amazing-td.json) |
 | Amazing Thailand VR Experience | 48003 | [48003-amazing-thailand-vr-experience.json](./48003-amazing-thailand-vr-experience.json) |
 | Amazing Vacation: Chicago | 337253 | [337253-amazing-vacation-chicago.json](./337253-amazing-vacation-chicago.json) |
+| Amazing Vacation: Miami | 294767 | [294767-amazing-vacation-miami.json](./294767-amazing-vacation-miami.json) |
 | Amazing Weekend 2: Search and Relax - Collector's Edition | 337822 | [337822-amazing-weekend-2-search-and-relax-collectors-edition.json](./337822-amazing-weekend-2-search-and-relax-collectors-edition.json) |
 | Amazing Wire | 233526 | [233526-amazing-wire.json](./233526-amazing-wire.json) |
 | Amazing Word Search | 180151 | [180151-amazing-word-search.json](./180151-amazing-word-search.json) |
@@ -3215,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing-e: PR - Design Card: NES Link | 354416 | [354416-animal-crossing-e-pr-design-card-nes-link.json](./354416-animal-crossing-e-pr-design-card-nes-link.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
 | Animal Crossing: New Leaf - Premium Edition | 89900 | [89900-animal-crossing-new-leaf-premium-edition.json](./89900-animal-crossing-new-leaf-premium-edition.json) |
+| Animal Crossing: New Leaf - Welcome Luxury | 294788 | [294788-animal-crossing-new-leaf-welcome-luxury.json](./294788-animal-crossing-new-leaf-welcome-luxury.json) |
 | Animal Crossing: New Murder | 251058 | [251058-animal-crossing-new-murder.json](./251058-animal-crossing-new-murder.json) |
 | Animal Crossing: Pocket Camp | 58630 | [58630-animal-crossing-pocket-camp.json](./58630-animal-crossing-pocket-camp.json) |
 | Animal Crush | 52770 | [52770-animal-crush.json](./52770-animal-crush.json) |
