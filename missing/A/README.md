@@ -4107,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Syvalion | 410362 | [410362-arcade-archives-syvalion.json](./410362-arcade-archives-syvalion.json) |
 | Arcade Archives: Tank Battalion | 290419 | [290419-arcade-archives-tank-battalion.json](./290419-arcade-archives-tank-battalion.json) |
 | Arcade Archives: Tank Force | 232461 | [232461-arcade-archives-tank-force.json](./232461-arcade-archives-tank-force.json) |
+| Arcade Archives: Tecmo Stackers | 313224 | [313224-arcade-archives-tecmo-stackers.json](./313224-arcade-archives-tecmo-stackers.json) |
 | Arcade Archives: The Astyanax | 146827 | [146827-arcade-archives-the-astyanax.json](./146827-arcade-archives-the-astyanax.json) |
 | Arcade Archives: The Final Round | 312019 | [312019-arcade-archives-the-final-round.json](./312019-arcade-archives-the-final-round.json) |
 | Arcade Archives: The Genji and the Heike Clans | 175819 | [175819-arcade-archives-the-genji-and-the-heike-clans.json](./175819-arcade-archives-the-genji-and-the-heike-clans.json) |
@@ -5319,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral | 111566 | [111566-astral.json](./111566-astral.json) |
 | Astral | 14273 | [14273-astral.json](./14273-astral.json) |
 | Astral | 377836 | [377836-astral.json](./377836-astral.json) |
+| Astral Ascent: Yamat - The Breach Traveler | 313217 | [313217-astral-ascent-yamat-the-breach-traveler.json](./313217-astral-ascent-yamat-the-breach-traveler.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
 | Astral Coconut | 235834 | [235834-astral-coconut.json](./235834-astral-coconut.json) |
