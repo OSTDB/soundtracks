@@ -2536,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Ninja | 9154 | [9154-shadow-of-the-ninja.json](./9154-shadow-of-the-ninja.json) |
 | Shadow of the Ninja Reborn: Deluxe Edition | 317229 | [317229-shadow-of-the-ninja-reborn-deluxe-edition.json](./317229-shadow-of-the-ninja-reborn-deluxe-edition.json) |
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
+| Shadow of the School | 302474 | [302474-shadow-of-the-school.json](./302474-shadow-of-the-school.json) |
 | Shadow of the Tomb Raider: The Nightmare | 113987 | [113987-shadow-of-the-tomb-raider-the-nightmare.json](./113987-shadow-of-the-tomb-raider-the-nightmare.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
 | Shadow of the Tomb Raider: The Pillar | 113988 | [113988-shadow-of-the-tomb-raider-the-pillar.json](./113988-shadow-of-the-tomb-raider-the-pillar.json) |
@@ -2632,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Beneath the Badge: An Undercover Affair | 337705 | [337705-shadows-beneath-the-badge-an-undercover-affair.json](./337705-shadows-beneath-the-badge-an-undercover-affair.json) |
 | Shadows Fall | 332547 | [332547-shadows-fall.json](./332547-shadows-fall.json) |
 | Shadows in Silence | 285574 | [285574-shadows-in-silence.json](./285574-shadows-in-silence.json) |
+| Shadows in the City | 302480 | [302480-shadows-in-the-city.json](./302480-shadows-in-the-city.json) |
 | Shadows in the Dark | 217335 | [217335-shadows-in-the-dark.json](./217335-shadows-in-the-dark.json) |
 | Shadows in the Silence | 374081 | [374081-shadows-in-the-silence.json](./374081-shadows-in-the-silence.json) |
 | Shadows Labyrinth | 272926 | [272926-shadows-labyrinth.json](./272926-shadows-labyrinth.json) |
@@ -4001,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
 | Silverpine | 410989 | [410989-silverpine.json](./410989-silverpine.json) |
+| Silverpine Creek | 302478 | [302478-silverpine-creek.json](./302478-silverpine-creek.json) |
 | SilverStarChess | 147986 | [147986-silverstarchess.json](./147986-silverstarchess.json) |
 | Silverstone | 388049 | [388049-silverstone.json](./388049-silverstone.json) |
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
@@ -4276,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: SuomiSuosikit | 357940 | [357940-singstar-suomisuosikit.json](./357940-singstar-suomisuosikit.json) |
 | SingStar: Vasco | 45302 | [45302-singstar-vasco.json](./45302-singstar-vasco.json) |
 | Singstar: Wakacyjna Impreza | 15441 | [15441-singstar-wakacyjna-impreza.json](./15441-singstar-wakacyjna-impreza.json) |
+| Singularity | 302486 | [302486-singularity.json](./302486-singularity.json) |
 | Singularity | 401639 | [401639-singularity.json](./401639-singularity.json) |
 | Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
 | Singularity - Modern Lights Out | 128567 | [128567-singularity-modern-lights-out.json](./128567-singularity-modern-lights-out.json) |
@@ -8160,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiders | 346138 | [346138-spiders.json](./346138-spiders.json) |
 | Spiders | 46871 | [46871-spiders.json](./46871-spiders.json) |
 | Spiders Everywhere | 187375 | [187375-spiders-everywhere.json](./187375-spiders-everywhere.json) |
+| Spidertronic | 302479 | [302479-spidertronic.json](./302479-spidertronic.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
 | Spidle Tridle | 334166 | [334166-spidle-tridle.json](./334166-spidle-tridle.json) |
 | Spielbahn | 266311 | [266311-spielbahn.json](./266311-spielbahn.json) |
