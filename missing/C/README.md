@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Cross | 90169 | [90169-cardinal-cross.json](./90169-cardinal-cross.json) |
 | Cardinal Fall | 407576 | [407576-cardinal-fall.json](./407576-cardinal-fall.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
+| Cardinal Sequence | 333163 | [333163-cardinal-sequence.json](./333163-cardinal-sequence.json) |
 | CardioCasino | 177924 | [177924-cardiocasino.json](./177924-cardiocasino.json) |
 | CardioEX | 215246 | [215246-cardioex.json](./215246-cardioex.json) |
 | Cardiophobia | 124601 | [124601-cardiophobia.json](./124601-cardiophobia.json) |
@@ -3513,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Freak! Perfect Cook! | 365166 | [365166-clean-freak-perfect-cook.json](./365166-clean-freak-perfect-cook.json) |
 | Clean My Carpet: ASMR Washing | 228451 | [228451-clean-my-carpet-asmr-washing.json](./228451-clean-my-carpet-asmr-washing.json) |
 | Clean Slate | 149454 | [149454-clean-slate.json](./149454-clean-slate.json) |
+| Clean Stack | 333185 | [333185-clean-stack.json](./333185-clean-stack.json) |
 | Clean Sweep | 18159 | [18159-clean-sweep.json](./18159-clean-sweep.json) |
 | Clean Sweep | 301287 | [301287-clean-sweep.json](./301287-clean-sweep.json) |
 | Clean The Sea! | 284820 | [284820-clean-the-sea.json](./284820-clean-the-sea.json) |
@@ -6092,6 +6094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
 | Creepy Races | 44192 | [44192-creepy-races.json](./44192-creepy-races.json) |
 | Creepy Redneck Dinosaur Mansion 1 Re-Raptored | 356682 | [356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json](./356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json) |
+| Creepy Redneck Dinosaur Mansion 3 | 333174 | [333174-creepy-redneck-dinosaur-mansion-3.json](./333174-creepy-redneck-dinosaur-mansion-3.json) |
 | Creepy Shift: Roadside Diner | 319869 | [319869-creepy-shift-roadside-diner.json](./319869-creepy-shift-roadside-diner.json) |
 | Creepy Slots | 395241 | [395241-creepy-slots.json](./395241-creepy-slots.json) |
 | Creepy Support | 345029 | [345029-creepy-support.json](./345029-creepy-support.json) |
@@ -6128,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
 | Cribbage With Grandpas | 94781 | [94781-cribbage-with-grandpas.json](./94781-cribbage-with-grandpas.json) |
 | Cribbage: Classic Card Game | 87704 | [87704-cribbage-classic-card-game.json](./87704-cribbage-classic-card-game.json) |
+| Cribbish | 333197 | [333197-cribbish.json](./333197-cribbish.json) |
 | Cricket 07 | 10619 | [10619-cricket-07.json](./10619-cricket-07.json) |
 | Cricket 2000 | 79891 | [79891-cricket-2000.json](./79891-cricket-2000.json) |
 | Cricket 2002 | 92314 | [92314-cricket-2002.json](./92314-cricket-2002.json) |
@@ -6716,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Warriors | 11648 | [11648-crystal-warriors.json](./11648-crystal-warriors.json) |
 | Crystal Wish: Bits Collection | 306502 | [306502-crystal-wish-bits-collection.json](./306502-crystal-wish-bits-collection.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
+| Crystal: Automaton | 333181 | [333181-crystal-automaton.json](./333181-crystal-automaton.json) |
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
