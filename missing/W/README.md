@@ -3502,8 +3502,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K21 | 132815 | [132815-wwe-2k21.json](./132815-wwe-2k21.json) |
 | WWE 2K22 | 145780 | [145780-wwe-2k22.json](./145780-wwe-2k22.json) |
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
+| WWE 2K22: Season Pass | 293720 | [293720-wwe-2k22-season-pass.json](./293720-wwe-2k22-season-pass.json) |
 | WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
+| WWE 2K23: Season Pass | 293721 | [293721-wwe-2k23-season-pass.json](./293721-wwe-2k23-season-pass.json) |
 | WWE 2K24 | 283600 | [283600-wwe-2k24.json](./283600-wwe-2k24.json) |
 | WWE 2K24 Bray Wyatt Bundle | 331508 | [331508-wwe-2k24-bray-wyatt-bundle.json](./331508-wwe-2k24-bray-wyatt-bundle.json) |
 | WWE 2K24: ECW Punk Pack | 311076 | [311076-wwe-2k24-ecw-punk-pack.json](./311076-wwe-2k24-ecw-punk-pack.json) |
