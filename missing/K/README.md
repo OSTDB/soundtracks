@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kilira's Descent | 401526 | [401526-kiliras-descent.json](./401526-kiliras-descent.json) |
 | Kill | 36446 | [36446-kill.json](./36446-kill.json) |
 | Kill All Enemies | 340009 | [340009-kill-all-enemies.json](./340009-kill-all-enemies.json) |
+| Kill All Lice | 320322 | [320322-kill-all-lice.json](./320322-kill-all-lice.json) |
 | Kill Barney in Tokyo | 325818 | [325818-kill-barney-in-tokyo.json](./325818-kill-barney-in-tokyo.json) |
 | Kill Commando II | 270210 | [270210-kill-commando-ii.json](./270210-kill-commando-ii.json) |
 | Kill Crab | 255124 | [255124-kill-crab.json](./255124-kill-crab.json) |
