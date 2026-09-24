@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Daft Punk - “Around the World / Harder Better Faster Stronger” | 296495 | [296495-beat-saber-daft-punk-around-the-world-harder-better-faster-stronger.json](./296495-beat-saber-daft-punk-around-the-world-harder-better-faster-stronger.json) |
 | Beat Saber: Daft Punk - "Around The World" | 296494 | [296494-beat-saber-daft-punk-around-the-world.json](./296494-beat-saber-daft-punk-around-the-world.json) |
 | Beat Saber: Daft Punk - "Da Funk / Daftendirekt" | 298063 | [298063-beat-saber-daft-punk-da-funk-daftendirekt.json](./298063-beat-saber-daft-punk-da-funk-daftendirekt.json) |
+| Beat Saber: Daft Punk - "Get Lucky (feat. Pharrell Williams and Nile Rodgers)" | 298098 | [298098-beat-saber-daft-punk-get-lucky-feat-pharrell-williams-and-nile-rodgers.json](./298098-beat-saber-daft-punk-get-lucky-feat-pharrell-williams-and-nile-rodgers.json) |
 | Beat Saber: Daft Punk - "Lose Yourself to Dance (feat. Pharrell Williams)" | 298030 | [298030-beat-saber-daft-punk-lose-yourself-to-dance-feat-pharrell-williams.json](./298030-beat-saber-daft-punk-lose-yourself-to-dance-feat-pharrell-williams.json) |
 | Beat Saber: Daft Punk - "One More Time" | 298060 | [298060-beat-saber-daft-punk-one-more-time.json](./298060-beat-saber-daft-punk-one-more-time.json) |
 | Beat Saber: Daft Punk - "Technologic" | 298062 | [298062-beat-saber-daft-punk-technologic.json](./298062-beat-saber-daft-punk-technologic.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below | 377564 | [377564-below.json](./377564-below.json) |
 | Below Benni's | 335249 | [335249-below-bennis.json](./335249-below-bennis.json) |
 | Below Nowhere | 343824 | [343824-below-nowhere.json](./343824-below-nowhere.json) |
+| Below Surface | 298110 | [298110-below-surface.json](./298110-below-surface.json) |
 | Below the Crown | 363946 | [363946-below-the-crown.json](./363946-below-the-crown.json) |
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
 | Below, Rusted Gods | 304148 | [304148-below-rusted-gods.json](./304148-below-rusted-gods.json) |
@@ -2956,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo | 86064 | [86064-bingo.json](./86064-bingo.json) |
 | Bingo 75 | 22429 | [22429-bingo-75.json](./22429-bingo-75.json) |
 | Bingo Beavers | 293232 | [293232-bingo-beavers.json](./293232-bingo-beavers.json) |
+| Bingo Beavers: Bathroom | 298085 | [298085-bingo-beavers-bathroom.json](./298085-bingo-beavers-bathroom.json) |
 | Bingo Beavers: Kitchen | 298035 | [298035-bingo-beavers-kitchen.json](./298035-bingo-beavers-kitchen.json) |
 | Bingo Betty | 377081 | [377081-bingo-betty.json](./377081-bingo-betty.json) |
 | Bingo Blitz️ | 181306 | [181306-bingo-blitz.json](./181306-bingo-blitz.json) |
@@ -4607,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt | 4723 | [4723-bolt.json](./4723-bolt.json) |
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
 | Bolt Riley, A Reggae Adventure: Chapter 1 | 36168 | [36168-bolt-riley-a-reggae-adventure-chapter-1.json](./36168-bolt-riley-a-reggae-adventure-chapter-1.json) |
+| Bolt Runner | 298094 | [298094-bolt-runner.json](./298094-bolt-runner.json) |
 | Bolt: Be-Awesome Edition | 269667 | [269667-bolt-be-awesome-edition.json](./269667-bolt-be-awesome-edition.json) |
 | BoltBreak 2 | 276281 | [276281-boltbreak-2.json](./276281-boltbreak-2.json) |
 | Boltcraft | 203914 | [203914-boltcraft.json](./203914-boltcraft.json) |
