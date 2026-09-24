@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon's Mission | 287762 | [287762-pigeons-mission.json](./287762-pigeons-mission.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
 | Piggy Monte | 415154 | [415154-piggy-monte.json](./415154-piggy-monte.json) |
+| Piggy One Super Spark | 303002 | [303002-piggy-one-super-spark.json](./303002-piggy-one-super-spark.json) |
 | Piggy Only Up | 408835 | [408835-piggy-only-up.json](./408835-piggy-only-up.json) |
 | Piggy Peter's Adventure | 118979 | [118979-piggy-peters-adventure.json](./118979-piggy-peters-adventure.json) |
 | Piggy Piggy: Boom | 251659 | [251659-piggy-piggy-boom.json](./251659-piggy-piggy-boom.json) |
@@ -5544,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
 | Professor Layton and the Miracle Mask | 1401 | [1401-professor-layton-and-the-miracle-mask.json](./1401-professor-layton-and-the-miracle-mask.json) |
 | Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
+| Professor Layton and the Turnabout of the Golden Witch | 303037 | [303037-professor-layton-and-the-turnabout-of-the-golden-witch.json](./303037-professor-layton-and-the-turnabout-of-the-golden-witch.json) |
 | Professor Layton Royale | 300386 | [300386-professor-layton-royale.json](./300386-professor-layton-royale.json) |
 | Professor Li's Answer-Question | 105084 | [105084-professor-lis-answer-question.json](./105084-professor-lis-answer-question.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
