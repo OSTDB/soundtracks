@@ -2364,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
 | Pictos | 175277 | [175277-pictos.json](./175277-pictos.json) |
 | Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
+| Picture Builder | 288850 | [288850-picture-builder.json](./288850-picture-builder.json) |
 | Picture Cross Color | 345132 | [345132-picture-cross-color.json](./345132-picture-cross-color.json) |
 | Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
@@ -3079,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 11 | 267407 | [267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json](./267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 6 | 241508 | [241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json](./241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json) |
 | Pixel Puzzles Traditional Jigsaws: Variety Pack XXS | 357953 | [357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json](./357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json) |
+| Pixel Puzzles Trivia | 288823 | [288823-pixel-puzzles-trivia.json](./288823-pixel-puzzles-trivia.json) |
 | Pixel Puzzles Ultimate | 35743 | [35743-pixel-puzzles-ultimate.json](./35743-pixel-puzzles-ultimate.json) |
 | Pixel Puzzles Ultimate Jigsaw | 240242 | [240242-pixel-puzzles-ultimate-jigsaw.json](./240242-pixel-puzzles-ultimate-jigsaw.json) |
 | Pixel Puzzles Ultimate Jigsaw: Civil Unrest | 293072 | [293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json](./293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json) |
@@ -5483,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
 | Pro Cycling Manager 2014 | 8251 | [8251-pro-cycling-manager-2014.json](./8251-pro-cycling-manager-2014.json) |
+| Pro Cycling Manager 2024 | 288856 | [288856-pro-cycling-manager-2024.json](./288856-pro-cycling-manager-2024.json) |
 | Pro Darts | 49953 | [49953-pro-darts.json](./49953-pro-darts.json) |
 | Pro Deer Hunting | 132159 | [132159-pro-deer-hunting.json](./132159-pro-deer-hunting.json) |
 | Pro Evolution Soccer 2010 | 240462 | [240462-pro-evolution-soccer-2010.json](./240462-pro-evolution-soccer-2010.json) |
