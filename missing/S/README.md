@@ -5951,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sok Min | 96888 | [96888-sok-min.json](./96888-sok-min.json) |
 | Sok Min: Pro | 196129 | [196129-sok-min-pro.json](./196129-sok-min-pro.json) |
 | Sok-Worlds | 132036 | [132036-sok-worlds.json](./132036-sok-worlds.json) |
+| Sokama | 318532 | [318532-sokama.json](./318532-sokama.json) |
 | Sokfest | 240314 | [240314-sokfest.json](./240314-sokfest.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
@@ -8350,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Solitaire: Halloween | 386149 | [386149-spooky-solitaire-halloween.json](./386149-spooky-solitaire-halloween.json) |
 | Spooky Speedrun | 157048 | [157048-spooky-speedrun.json](./157048-spooky-speedrun.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
+| Spooky Squad! | 318565 | [318565-spooky-squad.json](./318565-spooky-squad.json) |
 | Spooky Survivors | 333640 | [333640-spooky-survivors.json](./333640-spooky-survivors.json) |
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
 | Spooky Typing: The Ghost Plague | 178097 | [178097-spooky-typing-the-ghost-plague.json](./178097-spooky-typing-the-ghost-plague.json) |
@@ -11501,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cross II | 40429 | [40429-super-cross-ii.json](./40429-super-cross-ii.json) |
 | Super Cross Kings | 54412 | [54412-super-cross-kings.json](./54412-super-cross-kings.json) |
 | Super Crossfire | 65448 | [65448-super-crossfire.json](./65448-super-crossfire.json) |
+| Super Crown Land | 318548 | [318548-super-crown-land.json](./318548-super-crown-land.json) |
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
 | Super Cubo | 130737 | [130737-super-cubo.json](./130737-super-cubo.json) |
 | Super Cup Finals | 40428 | [40428-super-cup-finals.json](./40428-super-cup-finals.json) |
@@ -11883,6 +11886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario brasileiro | 267931 | [267931-super-mario-brasileiro.json](./267931-super-mario-brasileiro.json) |
 | Super Mario Bratarsi | 323361 | [323361-super-mario-bratarsi.json](./323361-super-mario-bratarsi.json) |
 | Super Mario Bros 3000 | 250057 | [250057-super-mario-bros-3000.json](./250057-super-mario-bros-3000.json) |
+| Super Mario Bros 4: Escapade | 318550 | [318550-super-mario-bros-4-escapade.json](./318550-super-mario-bros-4-escapade.json) |
 | Super Mario Bros Galaxy DS | 146354 | [146354-super-mario-bros-galaxy-ds.json](./146354-super-mario-bros-galaxy-ds.json) |
 | Super Mario Bros HF | 274982 | [274982-super-mario-bros-hf.json](./274982-super-mario-bros-hf.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
@@ -11898,6 +11902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
 | Super Mario Bros. 35 | 138235 | [138235-super-mario-bros-35.json](./138235-super-mario-bros-35.json) |
 | Super Mario Bros. 3Mix | 144986 | [144986-super-mario-bros-3mix.json](./144986-super-mario-bros-3mix.json) |
+| Super Mario Bros. 5 | 318552 | [318552-super-mario-bros-5.json](./318552-super-mario-bros-5.json) |
 | Super Mario Bros. 64 | 135232 | [135232-super-mario-bros-64.json](./135232-super-mario-bros-64.json) |
 | Super Mario Bros. 64 | 150101 | [150101-super-mario-bros-64.json](./150101-super-mario-bros-64.json) |
 | Super Mario Bros. Crossover | 8734 | [8734-super-mario-bros-crossover.json](./8734-super-mario-bros-crossover.json) |
@@ -11933,8 +11938,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy 63 | 294714 | [294714-super-mario-galaxy-63.json](./294714-super-mario-galaxy-63.json) |
 | Super Mario Galaxy 64 | 313339 | [313339-super-mario-galaxy-64.json](./313339-super-mario-galaxy-64.json) |
 | Super Mario Galaxy: The Lost Levels | 313326 | [313326-super-mario-galaxy-the-lost-levels.json](./313326-super-mario-galaxy-the-lost-levels.json) |
+| Super Mario Generations | 318549 | [318549-super-mario-generations.json](./318549-super-mario-generations.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
 | Super Mario Gravity | 213948 | [213948-super-mario-gravity.json](./213948-super-mario-gravity.json) |
+| Super Mario Holidays | 318553 | [318553-super-mario-holidays.json](./318553-super-mario-holidays.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
 | Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
