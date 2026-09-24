@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
 | Occultist Girl Magatsuhi | 270188 | [270188-occultist-girl-magatsuhi.json](./270188-occultist-girl-magatsuhi.json) |
 | Occulto | 192948 | [192948-occulto.json](./192948-occulto.json) |
+| Occultus Vitae: Hidden Life | 330914 | [330914-occultus-vitae-hidden-life.json](./330914-occultus-vitae-hidden-life.json) |
 | Occupied | 383029 | [383029-occupied.json](./383029-occupied.json) |
 | Occupy Mars: The Game | 80936 | [80936-occupy-mars-the-game.json](./80936-occupy-mars-the-game.json) |
 | Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
@@ -294,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
 | Of Piers & Bays | 397903 | [397903-of-piers-and-bays.json](./397903-of-piers-and-bays.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
+| Of the Devil: Episode 1 | 330913 | [330913-of-the-devil-episode-1.json](./330913-of-the-devil-episode-1.json) |
 | Of the Red, the Light, and the Ayakashi Tsuzuri | 62190 | [62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json](./62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json) |
 | Of Three Plantagenets | 271848 | [271848-of-three-plantagenets.json](./271848-of-three-plantagenets.json) |
 | Off | 24930 | [24930-off.json](./24930-off.json) |
@@ -369,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Official AFL: The Interactive DVD Trivia Game - Sydney Swans Super Quiz | 275586 | [275586-official-afl-the-interactive-dvd-trivia-game-sydney-swans-super-quiz.json](./275586-official-afl-the-interactive-dvd-trivia-game-sydney-swans-super-quiz.json) |
 | Official AFL: The Interactive DVD Trivia Game - West Coast Eagles Super Quiz | 275587 | [275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json](./275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json) |
 | Offline | 216977 | [216977-offline.json](./216977-offline.json) |
+| Offline Games | 330924 | [330924-offline-games.json](./330924-offline-games.json) |
 | Offline Games | 336389 | [336389-offline-games.json](./336389-offline-games.json) |
 | OffRoad | 85839 | [85839-offroad.json](./85839-offroad.json) |
 | Offroad Arcade | 389981 | [389981-offroad-arcade.json](./389981-offroad-arcade.json) |
