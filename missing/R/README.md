@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Aliceland | 206725 | [206725-rainbow-aliceland.json](./206725-rainbow-aliceland.json) |
 | Rainbow Billy: The Book of Fears | 391844 | [391844-rainbow-billy-the-book-of-fears.json](./391844-rainbow-billy-the-book-of-fears.json) |
 | Rainbow Breakout | 234166 | [234166-rainbow-breakout.json](./234166-rainbow-breakout.json) |
+| Rainbow Brite: Journey to Rainbow Land | 283799 | [283799-rainbow-brite-journey-to-rainbow-land.json](./283799-rainbow-brite-journey-to-rainbow-land.json) |
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
 | Rainbow Crown | 367471 | [367471-rainbow-crown.json](./367471-rainbow-crown.json) |
 | Rainbow Cult | 104125 | [104125-rainbow-cult.json](./104125-rainbow-cult.json) |
@@ -2897,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rikki Kuu | 220708 | [220708-rikki-kuu.json](./220708-rikki-kuu.json) |
 | Riku to Johan: Kaeta Nimai no E | 123407 | [123407-riku-to-johan-kaeta-nimai-no-e.json](./123407-riku-to-johan-kaeta-nimai-no-e.json) |
 | Rilakkuma Farm | 284426 | [284426-rilakkuma-farm.json](./284426-rilakkuma-farm.json) |
+| Rilakkuma Loop | 283825 | [283825-rilakkuma-loop.json](./283825-rilakkuma-loop.json) |
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Rilakkuma Rhythm: Mattari Kibun de Da Run Run Run | 284429 | [284429-rilakkuma-rhythm-mattari-kibun-de-da-run-run-run.json](./284429-rilakkuma-rhythm-mattari-kibun-de-da-run-run-run.json) |
 | Riley Short: Analog Boy - Episode 1 | 37051 | [37051-riley-short-analog-boy-episode-1.json](./37051-riley-short-analog-boy-episode-1.json) |
@@ -4657,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
 | Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
 | Run or Die | 378405 | [378405-run-or-die.json](./378405-run-or-die.json) |
+| Run or Die VR | 283838 | [283838-run-or-die-vr.json](./283838-run-or-die-vr.json) |
 | Run or Fight | 161325 | [161325-run-or-fight.json](./161325-run-or-fight.json) |
 | Run Part Two \| Can you trust me? | 113484 | [113484-run-part-two-can-you-trust-me.json](./113484-run-part-two-can-you-trust-me.json) |
 | Run Pharaoh Run! | 181329 | [181329-run-pharaoh-run.json](./181329-run-pharaoh-run.json) |
