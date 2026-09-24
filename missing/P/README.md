@@ -2443,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 | 254335 | [254335-pikmin-2.json](./254335-pikmin-2.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
 | Pikmin 2 Lands of Torture | 292126 | [292126-pikmin-2-lands-of-torture.json](./292126-pikmin-2-lands-of-torture.json) |
+| Pikmin 2 Maps in Pikmin 3 | 294792 | [294792-pikmin-2-maps-in-pikmin-3.json](./294792-pikmin-2-maps-in-pikmin-3.json) |
 | Pikmin 2 Power Cut Blackout | 292127 | [292127-pikmin-2-power-cut-blackout.json](./292127-pikmin-2-power-cut-blackout.json) |
 | Pikmin 2 Regrown | 299745 | [299745-pikmin-2-regrown.json](./299745-pikmin-2-regrown.json) |
 | Pikmin 2 WorldWide | 313357 | [313357-pikmin-2-worldwide.json](./313357-pikmin-2-worldwide.json) |
@@ -4081,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Blue Rescue Team | 2320 | [2320-pokemon-mystery-dungeon-blue-rescue-team.json](./2320-pokemon-mystery-dungeon-blue-rescue-team.json) |
 | Pokémon Mystery Dungeon: Explorers of Alpha | 381141 | [381141-pokemon-mystery-dungeon-explorers-of-alpha.json](./381141-pokemon-mystery-dungeon-explorers-of-alpha.json) |
 | Pokémon Mystery Dungeon: Explorers of Darkness | 2322 | [2322-pokemon-mystery-dungeon-explorers-of-darkness.json](./2322-pokemon-mystery-dungeon-explorers-of-darkness.json) |
+| Pokémon Mystery Dungeon: Explorers of Skies | 294796 | [294796-pokemon-mystery-dungeon-explorers-of-skies.json](./294796-pokemon-mystery-dungeon-explorers-of-skies.json) |
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
@@ -5656,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
+| Project Canvas: Isekai Joucho Ikusei Keikaku | 294787 | [294787-project-canvas-isekai-joucho-ikusei-keikaku.json](./294787-project-canvas-isekai-joucho-ikusei-keikaku.json) |
 | Project Capture: Legacy | 362486 | [362486-project-capture-legacy.json](./362486-project-capture-legacy.json) |
 | Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
 | Project CARS 2: Deluxe Edition | 53479 | [53479-project-cars-2-deluxe-edition.json](./53479-project-cars-2-deluxe-edition.json) |
