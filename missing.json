@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T23:17:57.637Z",
-  "total_missing": 118193,
+  "generated_at": "2026-09-24T23:33:06.864Z",
+  "total_missing": 118243,
   "games": [
     {
       "igdb_id": 176875,
@@ -2796,6 +2796,11 @@
       "igdb_id": 27115,
       "game_name": "21 Steps to Soul",
       "file": "missing/0-9/27115-21-steps-to-soul.json"
+    },
+    {
+      "igdb_id": 283250,
+      "game_name": "21: Two One",
+      "file": "missing/0-9/283250-21-two-one.json"
     },
     {
       "igdb_id": 135256,
@@ -11161,6 +11166,11 @@
       "igdb_id": 405063,
       "game_name": "After... Prologue",
       "file": "missing/A/405063-after-prologue.json"
+    },
+    {
+      "igdb_id": 283252,
+      "game_name": "After... Wasureenu Kizuna",
+      "file": "missing/A/283252-after-wasureenu-kizuna.json"
     },
     {
       "igdb_id": 164434,
@@ -65721,6 +65731,21 @@
       "igdb_id": 330257,
       "game_name": "Breakout Beyond",
       "file": "missing/B/330257-breakout-beyond.json"
+    },
+    {
+      "igdb_id": 283213,
+      "game_name": "Breakout Birdie",
+      "file": "missing/B/283213-breakout-birdie.json"
+    },
+    {
+      "igdb_id": 283214,
+      "game_name": "Breakout Birdie 2",
+      "file": "missing/B/283214-breakout-birdie-2.json"
+    },
+    {
+      "igdb_id": 283215,
+      "game_name": "Breakout Birdie Adventure",
+      "file": "missing/B/283215-breakout-birdie-adventure.json"
     },
     {
       "igdb_id": 278658,
@@ -138693,6 +138718,11 @@
       "file": "missing/D/60505-drakoi.json"
     },
     {
+      "igdb_id": 283248,
+      "game_name": "Drakomon",
+      "file": "missing/D/283248-drakomon.json"
+    },
+    {
       "igdb_id": 158230,
       "game_name": "Dramaqueen",
       "file": "missing/D/158230-dramaqueen.json"
@@ -140961,6 +140991,11 @@
       "igdb_id": 72620,
       "game_name": "Driving Theory Training",
       "file": "missing/D/72620-driving-theory-training.json"
+    },
+    {
+      "igdb_id": 283206,
+      "game_name": "Driving World Collection",
+      "file": "missing/D/283206-driving-world-collection.json"
     },
     {
       "igdb_id": 100860,
@@ -144351,6 +144386,11 @@
       "igdb_id": 124825,
       "game_name": "Dungeons 3: Evil of the Caribbean",
       "file": "missing/D/124825-dungeons-3-evil-of-the-caribbean.json"
+    },
+    {
+      "igdb_id": 283207,
+      "game_name": "Dungeons 3: Nintendo Switch Complete Collection",
+      "file": "missing/D/283207-dungeons-3-nintendo-switch-complete-collection.json"
     },
     {
       "igdb_id": 215915,
@@ -149036,6 +149076,11 @@
       "igdb_id": 279594,
       "game_name": "Eisadler Jagd",
       "file": "missing/E/279594-eisadler-jagd.json"
+    },
+    {
+      "igdb_id": 283253,
+      "game_name": "Eisei Meijin III: Game Creator Yoshimura Nobuhiro no Zunou",
+      "file": "missing/E/283253-eisei-meijin-iii-game-creator-yoshimura-nobuhiro-no-zunou.json"
     },
     {
       "igdb_id": 240872,
@@ -218771,6 +218816,21 @@
       "igdb_id": 308801,
       "game_name": "Hentai Golf: Platinum Edition",
       "file": "missing/H/308801-hentai-golf-platinum-edition.json"
+    },
+    {
+      "igdb_id": 283235,
+      "game_name": "Hentai Golf: Prairie Greens",
+      "file": "missing/H/283235-hentai-golf-prairie-greens.json"
+    },
+    {
+      "igdb_id": 283238,
+      "game_name": "Hentai Golf: River's Edge",
+      "file": "missing/H/283238-hentai-golf-rivers-edge.json"
+    },
+    {
+      "igdb_id": 283226,
+      "game_name": "Hentai Golf: Sunset Pines",
+      "file": "missing/H/283226-hentai-golf-sunset-pines.json"
     },
     {
       "igdb_id": 233084,
@@ -297423,6 +297483,11 @@
       "file": "missing/M/333375-mayhem-maidens.json"
     },
     {
+      "igdb_id": 283208,
+      "game_name": "Mayhem Motorsports Collection",
+      "file": "missing/M/283208-mayhem-motorsports-collection.json"
+    },
+    {
       "igdb_id": 271807,
       "game_name": "Mayhem Pantera",
       "file": "missing/M/271807-mayhem-pantera.json"
@@ -309793,6 +309858,11 @@
       "file": "missing/M/296986-minihunt.json"
     },
     {
+      "igdb_id": 283256,
+      "game_name": "Miniland Adventure",
+      "file": "missing/M/283256-miniland-adventure.json"
+    },
+    {
       "igdb_id": 32024,
       "game_name": "MiniLaw: Ministry of Law",
       "file": "missing/M/32024-minilaw-ministry-of-law.json"
@@ -311801,6 +311871,11 @@
       "igdb_id": 248725,
       "game_name": "Mixx Island: Remix Plus - Deluxe Edition",
       "file": "missing/M/248725-mixx-island-remix-plus-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 283255,
+      "game_name": "Mixx Island: Remix Plus - Director's Cut",
+      "file": "missing/M/283255-mixx-island-remix-plus-directors-cut.json"
     },
     {
       "igdb_id": 284502,
@@ -331413,6 +331488,11 @@
       "file": "missing/N/412997-neon-drift-ultra.json"
     },
     {
+      "igdb_id": 283258,
+      "game_name": "Neon Drifter: Cyber Racing",
+      "file": "missing/N/283258-neon-drifter-cyber-racing.json"
+    },
+    {
       "igdb_id": 31180,
       "game_name": "Neon Drive",
       "file": "missing/N/31180-neon-drive.json"
@@ -333916,6 +333996,11 @@
       "igdb_id": 43899,
       "game_name": "NFL Xtreme 2",
       "file": "missing/N/43899-nfl-xtreme-2.json"
+    },
+    {
+      "igdb_id": 283259,
+      "game_name": "Ngolf",
+      "file": "missing/N/283259-ngolf.json"
     },
     {
       "igdb_id": 324447,
@@ -374403,6 +374488,11 @@
       "file": "missing/P/223986-police-car-drift-simulator.json"
     },
     {
+      "igdb_id": 283237,
+      "game_name": "Police Car Driver: City Parking Simulator",
+      "file": "missing/P/283237-police-car-driver-city-parking-simulator.json"
+    },
+    {
       "igdb_id": 256563,
       "game_name": "Police Car SUV Simulator",
       "file": "missing/P/256563-police-car-suv-simulator.json"
@@ -376751,6 +376841,11 @@
       "igdb_id": 294161,
       "game_name": "Post Soviet Strike: Chernobyl Legacy",
       "file": "missing/P/294161-post-soviet-strike-chernobyl-legacy.json"
+    },
+    {
+      "igdb_id": 283236,
+      "game_name": "Post-apocalyptic Old man",
+      "file": "missing/P/283236-post-apocalyptic-old-man.json"
     },
     {
       "igdb_id": 139809,
@@ -400163,6 +400258,11 @@
       "file": "missing/R/138616-rescue-zone.json"
     },
     {
+      "igdb_id": 283239,
+      "game_name": "Rescue! Dropkick on my Devil",
+      "file": "missing/R/283239-rescue-dropkick-on-my-devil.json"
+    },
+    {
       "igdb_id": 273140,
       "game_name": "Research Station",
       "file": "missing/R/273140-research-station.json"
@@ -413823,6 +413923,11 @@
       "file": "missing/R/220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json"
     },
     {
+      "igdb_id": 283209,
+      "game_name": "Rush Hours Collection",
+      "file": "missing/R/283209-rush-hours-collection.json"
+    },
+    {
       "igdb_id": 229206,
       "game_name": "Rush Legends",
       "file": "missing/R/229206-rush-legends.json"
@@ -415736,6 +415841,11 @@
       "igdb_id": 115491,
       "game_name": "Sail Forth",
       "file": "missing/S/115491-sail-forth.json"
+    },
+    {
+      "igdb_id": 283240,
+      "game_name": "Sail Forth: Maelstrom",
+      "file": "missing/S/283240-sail-forth-maelstrom.json"
     },
     {
       "igdb_id": 290999,
@@ -418323,6 +418433,11 @@
       "file": "missing/S/343787-santas-workshop.json"
     },
     {
+      "igdb_id": 283241,
+      "game_name": "Santa's Workshop Challenge: The North Pole Gift Adventure",
+      "file": "missing/S/283241-santas-workshop-challenge-the-north-pole-gift-adventure.json"
+    },
+    {
       "igdb_id": 277577,
       "game_name": "Santa's World",
       "file": "missing/S/277577-santas-world.json"
@@ -420491,6 +420606,11 @@
       "igdb_id": 98802,
       "game_name": "Sci-Fi Channel Trivia Game",
       "file": "missing/S/98802-sci-fi-channel-trivia-game.json"
+    },
+    {
+      "igdb_id": 283245,
+      "game_name": "Sci-Fi Racer Simulator",
+      "file": "missing/S/283245-sci-fi-racer-simulator.json"
     },
     {
       "igdb_id": 78670,
@@ -424606,6 +424726,11 @@
       "igdb_id": 159885,
       "game_name": "Selini",
       "file": "missing/S/159885-selini.json"
+    },
+    {
+      "igdb_id": 283244,
+      "game_name": "Selling Souls",
+      "file": "missing/S/283244-selling-souls.json"
     },
     {
       "igdb_id": 118412,
@@ -433903,6 +434028,16 @@
       "file": "missing/S/359423-sift-heads-1-remasterized.json"
     },
     {
+      "igdb_id": 283247,
+      "game_name": "Sift Heads 2",
+      "file": "missing/S/283247-sift-heads-2.json"
+    },
+    {
+      "igdb_id": 283246,
+      "game_name": "Sift Heads 5",
+      "file": "missing/S/283246-sift-heads-5.json"
+    },
+    {
       "igdb_id": 191898,
       "game_name": "Sift Heads Reborn",
       "file": "missing/S/191898-sift-heads-reborn.json"
@@ -442943,6 +443078,16 @@
       "file": "missing/S/141867-snap-the-sentinel.json"
     },
     {
+      "igdb_id": 283243,
+      "game_name": "Snap Together: New Challenges",
+      "file": "missing/S/283243-snap-together-new-challenges.json"
+    },
+    {
+      "igdb_id": 283257,
+      "game_name": "Snap Together: New Challenges",
+      "file": "missing/S/283257-snap-together-new-challenges.json"
+    },
+    {
       "igdb_id": 282117,
       "game_name": "Snap! A Cerrado Adventure",
       "file": "missing/S/282117-snap-a-cerrado-adventure.json"
@@ -443461,6 +443606,11 @@
       "igdb_id": 227491,
       "game_name": "Sniper Zombies",
       "file": "missing/S/227491-sniper-zombies.json"
+    },
+    {
+      "igdb_id": 283222,
+      "game_name": "Sniper: Elite Shooter Squad",
+      "file": "missing/S/283222-sniper-elite-shooter-squad.json"
     },
     {
       "igdb_id": 156186,
@@ -454753,6 +454903,11 @@
       "file": "missing/S/257438-speedrunnerz.json"
     },
     {
+      "igdb_id": 283210,
+      "game_name": "Speedster's Collection",
+      "file": "missing/S/283210-speedsters-collection.json"
+    },
+    {
       "igdb_id": 365898,
       "game_name": "Speedtickers",
       "file": "missing/S/365898-speedtickers.json"
@@ -463478,6 +463633,11 @@
       "file": "missing/S/133249-starship-saboteur-prototype.json"
     },
     {
+      "igdb_id": 283223,
+      "game_name": "Starship Showdown: Galactic Grand Prix",
+      "file": "missing/S/283223-starship-showdown-galactic-grand-prix.json"
+    },
+    {
       "igdb_id": 36962,
       "game_name": "Starship Theory",
       "file": "missing/S/36962-starship-theory.json"
@@ -465006,6 +465166,11 @@
       "igdb_id": 239760,
       "game_name": "Stellar Insurgency",
       "file": "missing/S/239760-stellar-insurgency.json"
+    },
+    {
+      "igdb_id": 283224,
+      "game_name": "Stellar Interface + Sudoku Zenkai",
+      "file": "missing/S/283224-stellar-interface-sudoku-zenkai.json"
     },
     {
       "igdb_id": 243229,
@@ -470933,6 +471098,11 @@
       "file": "missing/S/356882-sudoku-classic-sudoku-puzzle.json"
     },
     {
+      "igdb_id": 283225,
+      "game_name": "Sudoku: Game for Kids",
+      "file": "missing/S/283225-sudoku-game-for-kids.json"
+    },
+    {
       "igdb_id": 180244,
       "game_name": "Sudoku: The Clean One",
       "file": "missing/S/180244-sudoku-the-clean-one.json"
@@ -474891,6 +475061,11 @@
       "igdb_id": 201134,
       "game_name": "Super Karoshi",
       "file": "missing/S/201134-super-karoshi.json"
+    },
+    {
+      "igdb_id": 283227,
+      "game_name": "Super Kart Mini Car Race",
+      "file": "missing/S/283227-super-kart-mini-car-race.json"
     },
     {
       "igdb_id": 267954,
@@ -480791,6 +480966,11 @@
       "igdb_id": 332600,
       "game_name": "Sushi Race: More Toppings Race Pack",
       "file": "missing/S/332600-sushi-race-more-toppings-race-pack.json"
+    },
+    {
+      "igdb_id": 283228,
+      "game_name": "Sushi Shot",
+      "file": "missing/S/283228-sushi-shot.json"
     },
     {
       "igdb_id": 255762,
@@ -492473,6 +492653,11 @@
       "file": "missing/T/220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json"
     },
     {
+      "igdb_id": 283231,
+      "game_name": "Teppo and The Secret Ancient City",
+      "file": "missing/T/283231-teppo-and-the-secret-ancient-city.json"
+    },
+    {
       "igdb_id": 242819,
       "game_name": "Teppoman",
       "file": "missing/T/242819-teppoman.json"
@@ -494981,6 +495166,11 @@
       "igdb_id": 320742,
       "game_name": "The Adventures of Oddley",
       "file": "missing/T/320742-the-adventures-of-oddley.json"
+    },
+    {
+      "igdb_id": 283211,
+      "game_name": "The Adventures of Panzer: Legacy Collection",
+      "file": "missing/T/283211-the-adventures-of-panzer-legacy-collection.json"
     },
     {
       "igdb_id": 336707,
@@ -503171,6 +503361,11 @@
       "igdb_id": 389404,
       "game_name": "The Gardener",
       "file": "missing/T/389404-the-gardener.json"
+    },
+    {
+      "igdb_id": 283234,
+      "game_name": "The Gardener Simulator: Plant, Grow, Decorate, Build Sim",
+      "file": "missing/T/283234-the-gardener-simulator-plant-grow-decorate-build-sim.json"
     },
     {
       "igdb_id": 379883,
@@ -521083,6 +521278,11 @@
       "file": "missing/T/256263-the-world-of-nifty-craft.json"
     },
     {
+      "igdb_id": 283233,
+      "game_name": "The World of War II: Frontlines of History",
+      "file": "missing/T/283233-the-world-of-war-ii-frontlines-of-history.json"
+    },
+    {
       "igdb_id": 125983,
       "game_name": "The World to Reverse.",
       "file": "missing/T/125983-the-world-to-reverse.json"
@@ -522216,6 +522416,11 @@
       "igdb_id": 73003,
       "game_name": "They Hunger: Lost Souls",
       "file": "missing/T/73003-they-hunger-lost-souls.json"
+    },
+    {
+      "igdb_id": 283232,
+      "game_name": "They Know",
+      "file": "missing/T/283232-they-know.json"
     },
     {
       "igdb_id": 259588,
@@ -529261,6 +529466,11 @@
       "igdb_id": 389957,
       "game_name": "Tiny Transit",
       "file": "missing/T/389957-tiny-transit.json"
+    },
+    {
+      "igdb_id": 283219,
+      "game_name": "Tiny Treasure Hunt",
+      "file": "missing/T/283219-tiny-treasure-hunt.json"
     },
     {
       "igdb_id": 383977,
@@ -537098,6 +537308,11 @@
       "file": "missing/T/179581-traffic-jammy.json"
     },
     {
+      "igdb_id": 283212,
+      "game_name": "Traffic Master Collection",
+      "file": "missing/T/283212-traffic-master-collection.json"
+    },
+    {
       "igdb_id": 343480,
       "game_name": "Traffic Panic",
       "file": "missing/T/343480-traffic-panic.json"
@@ -543598,6 +543813,11 @@
       "file": "missing/T/328806-truck-simulator-2023-driver-europe-premium-edition.json"
     },
     {
+      "igdb_id": 283220,
+      "game_name": "Truck Simulator 2024: USA Driver Zone",
+      "file": "missing/T/283220-truck-simulator-2024-usa-driver-zone.json"
+    },
+    {
       "igdb_id": 313229,
       "game_name": "Truck Simulator 2024: USA Driver Zone - Premium Edition",
       "file": "missing/T/313229-truck-simulator-2024-usa-driver-zone-premium-edition.json"
@@ -548181,6 +548401,11 @@
       "igdb_id": 286690,
       "game_name": "Ultimate Mortal Kombat 3",
       "file": "missing/U/286690-ultimate-mortal-kombat-3.json"
+    },
+    {
+      "igdb_id": 283221,
+      "game_name": "Ultimate Moto Bike Simulator",
+      "file": "missing/U/283221-ultimate-moto-bike-simulator.json"
     },
     {
       "igdb_id": 227948,
@@ -554123,6 +554348,16 @@
       "file": "missing/U/328817-uzzuzzu-my-pet-golf-dash-superb-edition.json"
     },
     {
+      "igdb_id": 283230,
+      "game_name": "Uzzuzzu My Pet: Golf Dash - Ta's Challenge",
+      "file": "missing/U/283230-uzzuzzu-my-pet-golf-dash-tas-challenge.json"
+    },
+    {
+      "igdb_id": 283229,
+      "game_name": "Uzzuzzu My Pet: Golf Dash - Tary's Challenge",
+      "file": "missing/U/283229-uzzuzzu-my-pet-golf-dash-tarys-challenge.json"
+    },
+    {
       "igdb_id": 287123,
       "game_name": "Uzzuzzu My Pet: Golf Dash - Ultimate Edition",
       "file": "missing/U/287123-uzzuzzu-my-pet-golf-dash-ultimate-edition.json"
@@ -558151,6 +558386,11 @@
       "igdb_id": 301571,
       "game_name": "Vigor: The Last King Of DayZ",
       "file": "missing/V/301571-vigor-the-last-king-of-dayz.json"
+    },
+    {
+      "igdb_id": 283216,
+      "game_name": "Vigour",
+      "file": "missing/V/283216-vigour.json"
     },
     {
       "igdb_id": 185036,
@@ -566231,6 +566471,11 @@
       "igdb_id": 370920,
       "game_name": "WarZone",
       "file": "missing/W/370920-warzone.json"
+    },
+    {
+      "igdb_id": 283217,
+      "game_name": "Warzone Chronicles: Virtual Warfare Shooter",
+      "file": "missing/W/283217-warzone-chronicles-virtual-warfare-shooter.json"
     },
     {
       "igdb_id": 308795,
@@ -574601,6 +574846,11 @@
       "igdb_id": 233782,
       "game_name": "Wizard Hentai Survivors",
       "file": "missing/W/233782-wizard-hentai-survivors.json"
+    },
+    {
+      "igdb_id": 283218,
+      "game_name": "Wizard Hunter: The End of the Magic World",
+      "file": "missing/W/283218-wizard-hunter-the-end-of-the-magic-world.json"
     },
     {
       "igdb_id": 29840,
