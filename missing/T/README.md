@@ -7530,6 +7530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
+| Them's Fightin' Herds: Baihe | 284953 | [284953-thems-fightin-herds-baihe.json](./284953-thems-fightin-herds-baihe.json) |
+| Them's Fightin' Herds: Nidra | 284952 | [284952-thems-fightin-herds-nidra.json](./284952-thems-fightin-herds-nidra.json) |
 | Them's Tale: The Road to Her | 395882 | [395882-thems-tale-the-road-to-her.json](./395882-thems-tale-the-road-to-her.json) |
 | TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
 | Theme Hospital | 1624 | [1624-theme-hospital.json](./1624-theme-hospital.json) |
