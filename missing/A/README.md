@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alder's Blood | 90277 | [90277-alders-blood.json](./90277-alders-blood.json) |
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
 | Alder's Blood: Prologue | 129232 | [129232-alders-blood-prologue.json](./129232-alders-blood-prologue.json) |
+| Aldian of Ancients | 317384 | [317384-aldian-of-ancients.json](./317384-aldian-of-ancients.json) |
 | Aldora | 304614 | [304614-aldora.json](./304614-aldora.json) |
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
 | Aldradah: Tome of Mist Realm | 381101 | [381101-aldradah-tome-of-mist-realm.json](./381101-aldradah-tome-of-mist-realm.json) |
@@ -3362,12 +3363,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
+| Anno 1800: Aesthetic Artisans Bundle | 317365 | [317365-anno-1800-aesthetic-artisans-bundle.json](./317365-anno-1800-aesthetic-artisans-bundle.json) |
 | Anno 1800: Complete Edition Year 3 | 146123 | [146123-anno-1800-complete-edition-year-3.json](./146123-anno-1800-complete-edition-year-3.json) |
 | Anno 1800: Cosmetic Pack Bundle | 227937 | [227937-anno-1800-cosmetic-pack-bundle.json](./227937-anno-1800-cosmetic-pack-bundle.json) |
 | Anno 1800: Docklands | 151113 | [151113-anno-1800-docklands.json](./151113-anno-1800-docklands.json) |
+| Anno 1800: Efficiency Masters Bundle | 317368 | [317368-anno-1800-efficiency-masters-bundle.json](./317368-anno-1800-efficiency-masters-bundle.json) |
 | Anno 1800: Eldritch Pack | 274724 | [274724-anno-1800-eldritch-pack.json](./274724-anno-1800-eldritch-pack.json) |
 | Anno 1800: Empire of the Skies | 197350 | [197350-anno-1800-empire-of-the-skies.json](./197350-anno-1800-empire-of-the-skies.json) |
 | Anno 1800: Gold Edition Year 3 | 146136 | [146136-anno-1800-gold-edition-year-3.json](./146136-anno-1800-gold-edition-year-3.json) |
+| Anno 1800: Industrial Immersion Bundle | 317367 | [317367-anno-1800-industrial-immersion-bundle.json](./317367-anno-1800-industrial-immersion-bundle.json) |
 | Anno 1800: New World Rising | 197351 | [197351-anno-1800-new-world-rising.json](./197351-anno-1800-new-world-rising.json) |
 | Anno 1800: Old Town Pack | 227938 | [227938-anno-1800-old-town-pack.json](./227938-anno-1800-old-town-pack.json) |
 | Anno 1800: Seeds of Change | 197349 | [197349-anno-1800-seeds-of-change.json](./197349-anno-1800-seeds-of-change.json) |
@@ -4594,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed and Gelatinous: Couch Edition | 33447 | [33447-armed-and-gelatinous-couch-edition.json](./33447-armed-and-gelatinous-couch-edition.json) |
 | Armed and Gorgeous HD | 22335 | [22335-armed-and-gorgeous-hd.json](./22335-armed-and-gorgeous-hd.json) |
 | Armed Animals RPG | 365060 | [365060-armed-animals-rpg.json](./365060-armed-animals-rpg.json) |
+| Armed Decobot | 317372 | [317372-armed-decobot.json](./317372-armed-decobot.json) |
 | Armed for Battle | 118849 | [118849-armed-for-battle.json](./118849-armed-for-battle.json) |
 | Armed Forces Corp: Mercenaries | 123059 | [123059-armed-forces-corp-mercenaries.json](./123059-armed-forces-corp-mercenaries.json) |
 | Armed Forces Corp. | 50488 | [50488-armed-forces-corp.json](./50488-armed-forces-corp.json) |
@@ -5226,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Blockade | 359444 | [359444-asteroid-blockade.json](./359444-asteroid-blockade.json) |
 | Asteroid Breaker: Avoid the DizAsteroid | 105955 | [105955-asteroid-breaker-avoid-the-dizasteroid.json](./105955-asteroid-breaker-avoid-the-dizasteroid.json) |
 | Asteroid Challenge | 85505 | [85505-asteroid-challenge.json](./85505-asteroid-challenge.json) |
+| Asteroid Commando | 317363 | [317363-asteroid-commando.json](./317363-asteroid-commando.json) |
 | Asteroid Deathmatch | 111472 | [111472-asteroid-deathmatch.json](./111472-asteroid-deathmatch.json) |
 | Asteroid Evader | 178624 | [178624-asteroid-evader.json](./178624-asteroid-evader.json) |
 | Asteroid Fight | 32257 | [32257-asteroid-fight.json](./32257-asteroid-fight.json) |
