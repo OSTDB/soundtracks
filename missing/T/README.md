@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabi no Yubisashi Kaiwachou DS: DS Series 1 - Thai | 383646 | [383646-tabi-no-yubisashi-kaiwachou-ds-ds-series-1-thai.json](./383646-tabi-no-yubisashi-kaiwachou-ds-ds-series-1-thai.json) |
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
 | Table Ball: Emotions Skin Pack | 293398 | [293398-table-ball-emotions-skin-pack.json](./293398-table-ball-emotions-skin-pack.json) |
+| Table Flip Simulator | 306415 | [306415-table-flip-simulator.json](./306415-table-flip-simulator.json) |
 | Table Football | 131398 | [131398-table-football.json](./131398-table-football.json) |
 | Table Football | 85421 | [85421-table-football.json](./85421-table-football.json) |
 | Table Football Pro | 28873 | [28873-table-football-pro.json](./28873-table-football-pro.json) |
@@ -206,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiheiki | 184472 | [184472-taiheiki.json](./184472-taiheiki.json) |
 | Taiheiyou no Arashi: Koukoku no Kouhai Koko ni Ari, 1942 Senkan Yamato Hankou no Kouhou | 245034 | [245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json](./245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json) |
 | Taijitu: A Game About Balance | 167289 | [167289-taijitu-a-game-about-balance.json](./167289-taijitu-a-game-about-balance.json) |
+| Taika | 306425 | [306425-taika.json](./306425-taika.json) |
 | Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
@@ -4280,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The JerryMaya Detective Agency | 330249 | [330249-the-jerrymaya-detective-agency.json](./330249-the-jerrymaya-detective-agency.json) |
 | The Jester's Revenge | 289993 | [289993-the-jesters-revenge.json](./289993-the-jesters-revenge.json) |
 | The Jhonson Parable | 229670 | [229670-the-jhonson-parable.json](./229670-the-jhonson-parable.json) |
+| The Jiang Shi 2: Curse of Soul | 306423 | [306423-the-jiang-shi-2-curse-of-soul.json](./306423-the-jiang-shi-2-curse-of-soul.json) |
 | The Jianghu | 216790 | [216790-the-jianghu.json](./216790-the-jianghu.json) |
 | The Jig Is Up! | 215152 | [215152-the-jig-is-up.json](./215152-the-jig-is-up.json) |
 | The Jigsaw Puzzle Room | 30168 | [30168-the-jigsaw-puzzle-room.json](./30168-the-jigsaw-puzzle-room.json) |
@@ -5538,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlast Trials: World of Heavyweights Pack | 366839 | [366839-the-outlast-trials-world-of-heavyweights-pack.json](./366839-the-outlast-trials-world-of-heavyweights-pack.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
+| The Overseer | 306445 | [306445-the-overseer.json](./306445-the-overseer.json) |
 | The Owl-Woman Oracle | 177929 | [177929-the-owl-woman-oracle.json](./177929-the-owl-woman-oracle.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
@@ -10273,6 +10277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
 | Toxic Crusaders | 8022 | [8022-toxic-crusaders.json](./8022-toxic-crusaders.json) |
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
+| Toxic Therapy | 306420 | [306420-toxic-therapy.json](./306420-toxic-therapy.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
 | Toxicity | 263022 | [263022-toxicity.json](./263022-toxicity.json) |
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
@@ -11327,6 +11332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial by Chat | 414332 | [414332-trial-by-chat.json](./414332-trial-by-chat.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
+| Trial of Sacrifice | 306418 | [306418-trial-of-sacrifice.json](./306418-trial-of-sacrifice.json) |
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
@@ -12122,6 +12128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
+| Twilight Canyon | 306421 | [306421-twilight-canyon.json](./306421-twilight-canyon.json) |
 | Twilight City | 315643 | [315643-twilight-city.json](./315643-twilight-city.json) |
 | Twilight Dream | 364683 | [364683-twilight-dream.json](./364683-twilight-dream.json) |
 | Twilight Drive | 148366 | [148366-twilight-drive.json](./148366-twilight-drive.json) |
