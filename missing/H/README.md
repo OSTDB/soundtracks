@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappyFunland: Souvenir Edition | 270208 | [270208-happyfunland-souvenir-edition.json](./270208-happyfunland-souvenir-edition.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | Haprokon | 115636 | [115636-haprokon.json](./115636-haprokon.json) |
+| Hapunan | 329691 | [329691-hapunan.json](./329691-hapunan.json) |
 | Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
 | Harakatsu 2 | 367026 | [367026-harakatsu-2.json](./367026-harakatsu-2.json) |
 | Harald | 72347 | [72347-harald.json](./72347-harald.json) |
@@ -4328,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Horace | 12954 | [12954-hungry-horace.json](./12954-hungry-horace.json) |
 | Hungry Horrors | 315343 | [315343-hungry-horrors.json](./315343-hungry-horrors.json) |
 | Hungry Humphrey: Eat The World | 275612 | [275612-hungry-humphrey-eat-the-world.json](./275612-hungry-humphrey-eat-the-world.json) |
+| Hungry in Dungeon | 329660 | [329660-hungry-in-dungeon.json](./329660-hungry-in-dungeon.json) |
 | Hungry Knight! | 128651 | [128651-hungry-knight.json](./128651-hungry-knight.json) |
 | Hungry Lamu | 219023 | [219023-hungry-lamu.json](./219023-hungry-lamu.json) |
 | Hungry Piggy Vs. Chicken | 99657 | [99657-hungry-piggy-vs-chicken.json](./99657-hungry-piggy-vs-chicken.json) |
