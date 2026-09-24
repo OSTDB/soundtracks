@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Games | 45930 | [45930-family-games.json](./45930-family-games.json) |
 | Family Games Compendium | 79241 | [79241-family-games-compendium.json](./79241-family-games-compendium.json) |
 | Family Games II: Junk Food Jive | 45929 | [45929-family-games-ii-junk-food-jive.json](./45929-family-games-ii-junk-food-jive.json) |
+| Family Guy Bowling | 286624 | [286624-family-guy-bowling.json](./286624-family-guy-bowling.json) |
 | Family Guy Pinball | 81362 | [81362-family-guy-pinball.json](./81362-family-guy-pinball.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
@@ -3050,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FloCity | 244260 | [244260-flocity.json](./244260-flocity.json) |
 | Flock Frenzy | 386259 | [386259-flock-frenzy.json](./386259-flock-frenzy.json) |
 | Flock of Dogs | 108283 | [108283-flock-of-dogs.json](./108283-flock-of-dogs.json) |
+| Flockland Island Crisis | 286594 | [286594-flockland-island-crisis.json](./286594-flockland-island-crisis.json) |
 | Flocks | 174193 | [174193-flocks.json](./174193-flocks.json) |
 | Flood | 12104 | [12104-flood.json](./12104-flood.json) |
 | Flood | 320187 | [320187-flood.json](./320187-flood.json) |
@@ -3805,6 +3807,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formaggio 2 | 327365 | [327365-formaggio-2.json](./327365-formaggio-2.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
+| Formation Soccer '97: The Road to France | 286577 | [286577-formation-soccer-97-the-road-to-france.json](./286577-formation-soccer-97-the-road-to-france.json) |
+| Formation Soccer '98 - Ganbare Nippon in France | 286578 | [286578-formation-soccer-98-ganbare-nippon-in-france.json](./286578-formation-soccer-98-ganbare-nippon-in-france.json) |
 | Formation Soccer 2002 | 49575 | [49575-formation-soccer-2002.json](./49575-formation-soccer-2002.json) |
 | Formation Soccer 95: della Serie A | 65179 | [65179-formation-soccer-95-della-serie-a.json](./65179-formation-soccer-95-della-serie-a.json) |
 | Formation Soccer: Human Cup '90 | 42046 | [42046-formation-soccer-human-cup-90.json](./42046-formation-soccer-human-cup-90.json) |
@@ -3822,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 500 | 230861 | [230861-formula-500.json](./230861-formula-500.json) |
 | Formula Car Racing Simulator | 99409 | [99409-formula-car-racing-simulator.json](./99409-formula-car-racing-simulator.json) |
 | Formula Cartoon All Stars | 59924 | [59924-formula-cartoon-all-stars.json](./59924-formula-cartoon-all-stars.json) |
+| Formula Circus | 286579 | [286579-formula-circus.json](./286579-formula-circus.json) |
 | Formula Circus | 302347 | [302347-formula-circus.json](./302347-formula-circus.json) |
 | Formula Drag Manager | 221708 | [221708-formula-drag-manager.json](./221708-formula-drag-manager.json) |
 | Formula Legends: Early 2010’s Season Pack | 403569 | [403569-formula-legends-early-2010-s-season-pack.json](./403569-formula-legends-early-2010-s-season-pack.json) |
