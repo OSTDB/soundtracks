@@ -2506,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock-On | 95392 | [95392-lock-on.json](./95392-lock-on.json) |
 | Lock's Quest | 46557 | [46557-locks-quest.json](./46557-locks-quest.json) |
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
+| Lockdown Opportunities | 333769 | [333769-lockdown-opportunities.json](./333769-lockdown-opportunities.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
 | Lockdown VR: Circus of the Dead | 195261 | [195261-lockdown-vr-circus-of-the-dead.json](./195261-lockdown-vr-circus-of-the-dead.json) |
 | Lockdown: Stand Alone | 31774 | [31774-lockdown-stand-alone.json](./31774-lockdown-stand-alone.json) |
