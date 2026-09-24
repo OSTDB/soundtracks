@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
 | 5omeday | 308954 | [308954-5omeday.json](./308954-5omeday.json) |
 | 5Street | 23640 | [23640-5street.json](./23640-5street.json) |
+| 5th Cataclysm | 334322 | [334322-5th-cataclysm.json](./334322-5th-cataclysm.json) |
 | 6 | 34296 | [34296-6.json](./34296-6.json) |
 | 6 Colors | 93366 | [93366-6-colors.json](./93366-6-colors.json) |
 | 6 Feet Under | 177938 | [177938-6-feet-under.json](./177938-6-feet-under.json) |
