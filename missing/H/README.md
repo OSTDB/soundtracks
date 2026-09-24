@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happily Ever After | 48024 | [48024-happily-ever-after.json](./48024-happily-ever-after.json) |
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
 | Happiness Drops! | 81687 | [81687-happiness-drops.json](./81687-happiness-drops.json) |
+| Happiness Inc. | 301374 | [301374-happiness-inc.json](./301374-happiness-inc.json) |
 | Happiness Market | 253411 | [253411-happiness-market.json](./253411-happiness-market.json) |
 | Happiness! De:Lucks | 94724 | [94724-happiness-de-lucks.json](./94724-happiness-de-lucks.json) |
 | Happup | 130738 | [130738-happup.json](./130738-happup.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
 | Hyakki Yakou: Kaidan Romance | 219136 | [219136-hyakki-yakou-kaidan-romance.json](./219136-hyakki-yakou-kaidan-romance.json) |
 | Hyaku Monogatari: Kaidan Romance | 59422 | [59422-hyaku-monogatari-kaidan-romance.json](./59422-hyaku-monogatari-kaidan-romance.json) |
+| Hyakusen no Jou ni Kawatareshi Toki | 301362 | [301362-hyakusen-no-jou-ni-kawatareshi-toki.json](./301362-hyakusen-no-jou-ni-kawatareshi-toki.json) |
 | Hyakusen Renma: Kyousha no Sengoku | 216221 | [216221-hyakusen-renma-kyousha-no-sengoku.json](./216221-hyakusen-renma-kyousha-no-sengoku.json) |
 | Hybrid | 53164 | [53164-hybrid.json](./53164-hybrid.json) |
 | Hybrid Beasts | 53218 | [53218-hybrid-beasts.json](./53218-hybrid-beasts.json) |
