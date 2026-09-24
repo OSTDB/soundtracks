@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
+| One Last Job | 330258 | [330258-one-last-job.json](./330258-one-last-job.json) |
 | One Last Journey | 350452 | [350452-one-last-journey.json](./350452-one-last-journey.json) |
 | One Last Memory: Reimagined | 196844 | [196844-one-last-memory-reimagined.json](./196844-one-last-memory-reimagined.json) |
 | One Last Raid | 307109 | [307109-one-last-raid.json](./307109-one-last-raid.json) |
