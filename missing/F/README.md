@@ -750,7 +750,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Inn Simulator | 157127 | [157127-fantasy-inn-simulator.json](./157127-fantasy-inn-simulator.json) |
 | Fantasy Jigsaw Puzzles: Dragons | 236825 | [236825-fantasy-jigsaw-puzzles-dragons.json](./236825-fantasy-jigsaw-puzzles-dragons.json) |
 | Fantasy Jigsaw Puzzles: Dwarves | 235467 | [235467-fantasy-jigsaw-puzzles-dwarves.json](./235467-fantasy-jigsaw-puzzles-dwarves.json) |
+| Fantasy Jigsaw Puzzles: Lost Empires | 296423 | [296423-fantasy-jigsaw-puzzles-lost-empires.json](./296423-fantasy-jigsaw-puzzles-lost-empires.json) |
 | Fantasy Jigsaw Puzzles: Northlands | 234341 | [234341-fantasy-jigsaw-puzzles-northlands.json](./234341-fantasy-jigsaw-puzzles-northlands.json) |
+| Fantasy Jigsaw Puzzles: Olympus | 296424 | [296424-fantasy-jigsaw-puzzles-olympus.json](./296424-fantasy-jigsaw-puzzles-olympus.json) |
 | Fantasy Jigsaw Puzzles: The Great War | 357879 | [357879-fantasy-jigsaw-puzzles-the-great-war.json](./357879-fantasy-jigsaw-puzzles-the-great-war.json) |
 | Fantasy Jigsaw Puzzles: The Orient | 357880 | [357880-fantasy-jigsaw-puzzles-the-orient.json](./357880-fantasy-jigsaw-puzzles-the-orient.json) |
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
@@ -2786,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Worlds | 75055 | [75055-flat-worlds.json](./75055-flat-worlds.json) |
 | Flat Zombies: Cleanup & Defense | 174890 | [174890-flat-zombies-cleanup-and-defense.json](./174890-flat-zombies-cleanup-and-defense.json) |
 | Flatdog | 56429 | [56429-flatdog.json](./56429-flatdog.json) |
+| Flathead | 296482 | [296482-flathead.json](./296482-flathead.json) |
 | Flatland Vol.2 | 140612 | [140612-flatland-vol-2.json](./140612-flatland-vol-2.json) |
 | Flatland: Prologue | 132035 | [132035-flatland-prologue.json](./132035-flatland-prologue.json) |
 | Flatlands | 349949 | [349949-flatlands.json](./349949-flatlands.json) |
