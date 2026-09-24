@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fifth Era: Fragments of the Holy Stone | 162414 | [162414-fifth-era-fragments-of-the-holy-stone.json](./162414-fifth-era-fragments-of-the-holy-stone.json) |
 | Fight | 147425 | [147425-fight.json](./147425-fight.json) |
 | Fight | 150650 | [150650-fight.json](./150650-fight.json) |
+| Fight | 330366 | [330366-fight.json](./330366-fight.json) |
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
 | Fight 4 Flight | 98468 | [98468-fight-4-flight.json](./98468-fight-4-flight.json) |
 | Fight Angels | 125977 | [125977-fight-angels.json](./125977-fight-angels.json) |
@@ -4376,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends Racing Duo | 212456 | [212456-friends-racing-duo.json](./212456-friends-racing-duo.json) |
 | Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
 | Friends vs. Friends: El Pelicano | 376700 | [376700-friends-vs-friends-el-pelicano.json](./376700-friends-vs-friends-el-pelicano.json) |
+| FriendShapes | 330246 | [330246-friendshapes.json](./330246-friendshapes.json) |
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
 | Friendship vs The World | 402942 | [402942-friendship-vs-the-world.json](./402942-friendship-vs-the-world.json) |
