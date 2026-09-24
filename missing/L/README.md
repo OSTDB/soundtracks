@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladders by Powgi | 146927 | [146927-ladders-by-powgi.json](./146927-ladders-by-powgi.json) |
 | Ladderway | 255990 | [255990-ladderway.json](./255990-ladderway.json) |
 | Lade's Sandbox | 303621 | [303621-lades-sandbox.json](./303621-lades-sandbox.json) |
+| Laden vs. USA | 307675 | [307675-laden-vs-usa.json](./307675-laden-vs-usa.json) |
 | Ladies | 109732 | [109732-ladies.json](./109732-ladies.json) |
 | Ladies and Gentlemen, It's the Turnabout Show! | 318803 | [318803-ladies-and-gentlemen-its-the-turnabout-show.json](./318803-ladies-and-gentlemen-its-the-turnabout-show.json) |
 | Ladies of Sorrow: Night One | 323551 | [323551-ladies-of-sorrow-night-one.json](./323551-ladies-of-sorrow-night-one.json) |
@@ -3536,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi and the Quest for Nothing Revisited | 381732 | [381732-luigi-and-the-quest-for-nothing-revisited.json](./381732-luigi-and-the-quest-for-nothing-revisited.json) |
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
 | Luigi Doesn't Drink A Glass of Milk | 250050 | [250050-luigi-doesnt-drink-a-glass-of-milk.json](./250050-luigi-doesnt-drink-a-glass-of-milk.json) |
+| Luigi Floating on an Egg Over the Sea | 307668 | [307668-luigi-floating-on-an-egg-over-the-sea.json](./307668-luigi-floating-on-an-egg-over-the-sea.json) |
 | Luigi in Sonic the Hedgehog | 198518 | [198518-luigi-in-sonic-the-hedgehog.json](./198518-luigi-in-sonic-the-hedgehog.json) |
 | Luigi Puzzle | 341142 | [341142-luigi-puzzle.json](./341142-luigi-puzzle.json) |
 | Luigi Quest | 318025 | [318025-luigi-quest.json](./318025-luigi-quest.json) |
