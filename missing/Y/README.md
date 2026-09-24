@@ -65,6 +65,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza: Like a Dragon - Pachislot Machines | 382341 | [382341-yakuza-like-a-dragon-pachislot-machines.json](./382341-yakuza-like-a-dragon-pachislot-machines.json) |
 | Yakyosho | 201679 | [201679-yakyosho.json](./201679-yakyosho.json) |
 | Yakyuuken | 246486 | [246486-yakyuuken.json](./246486-yakyuuken.json) |
+| Yakzee: Remastered Edition | 308369 | [308369-yakzee-remastered-edition.json](./308369-yakzee-remastered-edition.json) |
+| Yakzee! | 308367 | [308367-yakzee.json](./308367-yakzee.json) |
 | Yama no Susume: Next Summit - Ano Yama ni, Mou Ichido | 277306 | [277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json](./277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json) |
 | Yamabiko ha Ojou-sama no Osoba ni | 208478 | [208478-yamabiko-ha-ojou-sama-no-osoba-ni.json](./208478-yamabiko-ha-ojou-sama-no-osoba-ni.json) |
 | Yamakawa Shuppansha Kanshuu: Shousetsu Nihonshi DS | 124153 | [124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json](./124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json) |
@@ -406,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You have a drunk friend | 111355 | [111355-you-have-a-drunk-friend.json](./111355-you-have-a-drunk-friend.json) |
 | You Have My Support | 321563 | [321563-you-have-my-support.json](./321563-you-have-my-support.json) |
 | You Have One Shot | 390120 | [390120-you-have-one-shot.json](./390120-you-have-one-shot.json) |
+| You Have To Climb Out | 308350 | [308350-you-have-to-climb-out.json](./308350-you-have-to-climb-out.json) |
 | You Have to Go to Work | 176421 | [176421-you-have-to-go-to-work.json](./176421-you-have-to-go-to-work.json) |
 | You Know The Drill | 322212 | [322212-you-know-the-drill.json](./322212-you-know-the-drill.json) |
 | You Make the Game | 342878 | [342878-you-make-the-game.json](./342878-you-make-the-game.json) |
