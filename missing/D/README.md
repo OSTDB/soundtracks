@@ -3653,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery: A Seek and Find Adventure | 9386 | [9386-discovery-a-seek-and-find-adventure.json](./9386-discovery-a-seek-and-find-adventure.json) |
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
 | Discremental | 405603 | [405603-discremental.json](./405603-discremental.json) |
+| Discrete Heart | 285536 | [285536-discrete-heart.json](./285536-discrete-heart.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
 | Discsphere | 135026 | [135026-discsphere.json](./135026-discsphere.json) |
 | Discus | 247046 | [247046-discus.json](./247046-discus.json) |
