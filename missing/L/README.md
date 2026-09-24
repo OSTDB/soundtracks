@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Dark War God | 340909 | [340909-legend-of-the-dark-war-god.json](./340909-legend-of-the-dark-war-god.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
+| Legend of the Hunter: House of Dragons | 313221 | [313221-legend-of-the-hunter-house-of-dragons.json](./313221-legend-of-the-hunter-house-of-dragons.json) |
 | Legend of the Knucker-Hole | 62452 | [62452-legend-of-the-knucker-hole.json](./62452-legend-of-the-knucker-hole.json) |
 | Legend of the Lost Dragons | 134580 | [134580-legend-of-the-lost-dragons.json](./134580-legend-of-the-lost-dragons.json) |
 | Legend of the Master Baiter | 303625 | [303625-legend-of-the-master-baiter.json](./303625-legend-of-the-master-baiter.json) |
