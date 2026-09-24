@@ -3420,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboSquare: Recharged | 416817 | [416817-robosquare-recharged.json](./416817-robosquare-recharged.json) |
 | Robostar | 133812 | [133812-robostar.json](./133812-robostar.json) |
 | Robosynthesis | 405092 | [405092-robosynthesis.json](./405092-robosynthesis.json) |
+| Robot Adventure | 285537 | [285537-robot-adventure.json](./285537-robot-adventure.json) |
 | Robot Alchemic Drive | 24083 | [24083-robot-alchemic-drive.json](./24083-robot-alchemic-drive.json) |
 | Robot Anarchy | 328496 | [328496-robot-anarchy.json](./328496-robot-anarchy.json) |
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
