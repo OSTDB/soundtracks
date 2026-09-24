@@ -7201,6 +7201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Chimps | 5172 | [5172-space-chimps.json](./5172-space-chimps.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Clash: The Last Frontier | 111446 | [111446-space-clash-the-last-frontier.json](./111446-space-clash-the-last-frontier.json) |
+| Space CleanUp: Cosmic Robot Disinfector | 315663 | [315663-space-cleanup-cosmic-robot-disinfector.json](./315663-space-cleanup-cosmic-robot-disinfector.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
 | Space Combat | 294265 | [294265-space-combat.json](./294265-space-combat.json) |
