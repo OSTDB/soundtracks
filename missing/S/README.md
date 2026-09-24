@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Mysteries in New York | 84899 | [84899-secret-mysteries-in-new-york.json](./84899-secret-mysteries-in-new-york.json) |
 | Secret Mystery: Door of Stealth | 103910 | [103910-secret-mystery-door-of-stealth.json](./103910-secret-mystery-door-of-stealth.json) |
 | Secret Neighbor | 103295 | [103295-secret-neighbor.json](./103295-secret-neighbor.json) |
+| Secret Neighbor: Welcome Pack | 305854 | [305854-secret-neighbor-welcome-pack.json](./305854-secret-neighbor-welcome-pack.json) |
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
 | Secret of Harrow Manor 2 | 164877 | [164877-secret-of-harrow-manor-2.json](./164877-secret-of-harrow-manor-2.json) |
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
@@ -6271,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
 | Some Heroines Climb Up a Tower to Ask God Why the Game Has a Name That's So Long | 310001 | [310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json](./310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json) |
 | Some Like It Hot: Chapter 0 | 135051 | [135051-some-like-it-hot-chapter-0.json](./135051-some-like-it-hot-chapter-0.json) |
+| Some Munnings | 305899 | [305899-some-munnings.json](./305899-some-munnings.json) |
 | Some Old Stuff | 147300 | [147300-some-old-stuff.json](./147300-some-old-stuff.json) |
 | Some Peace of Mind | 144108 | [144108-some-peace-of-mind.json](./144108-some-peace-of-mind.json) |
 | Some Peace of Mind | 22361 | [22361-some-peace-of-mind.json](./22361-some-peace-of-mind.json) |
@@ -10895,6 +10897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suber Driver | 189079 | [189079-suber-driver.json](./189079-suber-driver.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
+| Subject:Love | 305850 | [305850-subject-love.json](./305850-subject-love.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
