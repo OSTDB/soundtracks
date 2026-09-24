@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Brakes io | 263582 | [263582-no-brakes-io.json](./263582-no-brakes-io.json) |
 | No Brakes Valet | 51169 | [51169-no-brakes-valet.json](./51169-no-brakes-valet.json) |
 | No Break | 159162 | [159162-no-break.json](./159162-no-break.json) |
+| No Bugs On My Windshield | 292584 | [292584-no-bugs-on-my-windshield.json](./292584-no-bugs-on-my-windshield.json) |
 | No Chance | 146866 | [146866-no-chance.json](./146866-no-chance.json) |
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Cortarás a tu Hermana con el Filo de Esta Espada | 135690 | [135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json](./135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json) |
