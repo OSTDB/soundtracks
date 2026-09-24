@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Air Hockey: Under the Mallet | 323957 | [323957-electro-air-hockey-under-the-mallet.json](./323957-electro-air-hockey-under-the-mallet.json) |
 | Electro Bop Boxing League | 329580 | [329580-electro-bop-boxing-league.json](./329580-electro-bop-boxing-league.json) |
 | Electro Freddy | 13631 | [13631-electro-freddy.json](./13631-electro-freddy.json) |
+| Electro Game Collection | 301366 | [301366-electro-game-collection.json](./301366-electro-game-collection.json) |
 | Electro Man | 70109 | [70109-electro-man.json](./70109-electro-man.json) |
 | Electro Rush | 39201 | [39201-electro-rush.json](./39201-electro-rush.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
