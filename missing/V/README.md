@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valleys Between | 106993 | [106993-valleys-between.json](./106993-valleys-between.json) |
 | Valor | 173314 | [173314-valor.json](./173314-valor.json) |
 | Valor | 299145 | [299145-valor.json](./299145-valor.json) |
+| Valor & Blade | 318544 | [318544-valor-and-blade.json](./318544-valor-and-blade.json) |
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
 | Valor of Man | 326576 | [326576-valor-of-man.json](./326576-valor-of-man.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
