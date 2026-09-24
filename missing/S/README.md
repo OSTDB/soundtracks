@@ -4398,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Bums | 387667 | [387667-skate-bums.json](./387667-skate-bums.json) |
 | Skate City | 26944 | [26944-skate-city.json](./26944-skate-city.json) |
 | Skate City: New York | 324872 | [324872-skate-city-new-york.json](./324872-skate-city-new-york.json) |
+| Skate Fish | 318004 | [318004-skate-fish.json](./318004-skate-fish.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
 | Skate It | 5157 | [5157-skate-it.json](./5157-skate-it.json) |
 | Skate Jam | 251207 | [251207-skate-jam.json](./251207-skate-jam.json) |
@@ -8323,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoockey | 189071 | [189071-spoockey.json](./189071-spoockey.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
+| Spook-A-Boo | 317993 | [317993-spook-a-boo.json](./317993-spook-a-boo.json) |
 | Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
 | Spooker | 403027 | [403027-spooker.json](./403027-spooker.json) |
 | Spookie Dookie | 372669 | [372669-spookie-dookie.json](./372669-spookie-dookie.json) |
@@ -10139,6 +10141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StopTime Drive | 44226 | [44226-stoptime-drive.json](./44226-stoptime-drive.json) |
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
 | Storage Guys | 318046 | [318046-storage-guys.json](./318046-storage-guys.json) |
+| Storage Hunter Simulator | 317979 | [317979-storage-hunter-simulator.json](./317979-storage-hunter-simulator.json) |
 | Storage Hunter: Bid War Simulator | 345118 | [345118-storage-hunter-bid-war-simulator.json](./345118-storage-hunter-bid-war-simulator.json) |
 | Storage Looter | 298154 | [298154-storage-looter.json](./298154-storage-looter.json) |
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
@@ -11108,6 +11111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sully: A Very Serious RPG | 216868 | [216868-sully-a-very-serious-rpg.json](./216868-sully-a-very-serious-rpg.json) |
 | Sullyland Nursery Rhyme | 392429 | [392429-sullyland-nursery-rhyme.json](./392429-sullyland-nursery-rhyme.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
+| Sultan's Game | 318002 | [318002-sultans-game.json](./318002-sultans-game.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
 | Sumatra: Fate of Yandi | 110416 | [110416-sumatra-fate-of-yandi.json](./110416-sumatra-fate-of-yandi.json) |
@@ -11181,6 +11185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summit in Space | 164905 | [164905-summit-in-space.json](./164905-summit-in-space.json) |
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
+| Summon Legion | 317988 | [317988-summon-legion.json](./317988-summon-legion.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
 | Summon Night 3 | 13108 | [13108-summon-night-3.json](./13108-summon-night-3.json) |
 | Summon Night 4 | 13109 | [13109-summon-night-4.json](./13109-summon-night-4.json) |
@@ -12100,6 +12105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble - Godzilla | 322748 | [322748-super-monkey-ball-banana-rumble-godzilla.json](./322748-super-monkey-ball-banana-rumble-godzilla.json) |
 | Super Monkey Ball: Banana Rumble - Hatsune Miku | 322749 | [322749-super-monkey-ball-banana-rumble-hatsune-miku.json](./322749-super-monkey-ball-banana-rumble-hatsune-miku.json) |
 | Super Monkey Ball: Banana Rumble - Knuckles | 309080 | [309080-super-monkey-ball-banana-rumble-knuckles.json](./309080-super-monkey-ball-banana-rumble-knuckles.json) |
+| Super Monkey Ball: Banana Rumble - Sonic and Shadow Skins | 317963 | [317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json](./317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json) |
 | Super Monkey Ball: Sakura Edition | 64989 | [64989-super-monkey-ball-sakura-edition.json](./64989-super-monkey-ball-sakura-edition.json) |
 | Super Monkey Ball: Tip 'n Tilt | 336925 | [336925-super-monkey-ball-tip-n-tilt.json](./336925-super-monkey-ball-tip-n-tilt.json) |
 | Super Monkie Bounce Fatal | 252809 | [252809-super-monkie-bounce-fatal.json](./252809-super-monkie-bounce-fatal.json) |
