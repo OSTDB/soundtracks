@@ -1456,8 +1456,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NGolf: Complete Edition | 313152 | [313152-ngolf-complete-edition.json](./313152-ngolf-complete-edition.json) |
 | Ngolf: Director's Cut | 324430 | [324430-ngolf-directors-cut.json](./324430-ngolf-directors-cut.json) |
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
+| Ngolf: Moon Swing | 288296 | [288296-ngolf-moon-swing.json](./288296-ngolf-moon-swing.json) |
 | Ngolf: Platinum Edition | 317247 | [317247-ngolf-platinum-edition.json](./317247-ngolf-platinum-edition.json) |
 | Ngolf: Premium Edition | 308791 | [308791-ngolf-premium-edition.json](./308791-ngolf-premium-edition.json) |
+| Ngolf: Western Fairways | 288275 | [288275-ngolf-western-fairways.json](./288275-ngolf-western-fairways.json) |
 | NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
 | NGU Idle | 124926 | [124926-ngu-idle.json](./124926-ngu-idle.json) |
 | Nhero2 | 225723 | [225723-nhero2.json](./225723-nhero2.json) |
