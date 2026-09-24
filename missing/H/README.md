@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai vs. Furries | 164376 | [164376-hentai-vs-furries.json](./164376-hentai-vs-furries.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
 | Hentai Waifu 101 | 156098 | [156098-hentai-waifu-101.json](./156098-hentai-waifu-101.json) |
+| Hentai Waifu 5 | 333734 | [333734-hentai-waifu-5.json](./333734-hentai-waifu-5.json) |
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
 | Hentai Words | 104151 | [104151-hentai-words.json](./104151-hentai-words.json) |
@@ -2815,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
 | Hikari! Clover Rescue | 113063 | [113063-hikari-clover-rescue.json](./113063-hikari-clover-rescue.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
+| Hike Haven | 333735 | [333735-hike-haven.json](./333735-hike-haven.json) |
 | Hike Trip | 232444 | [232444-hike-trip.json](./232444-hike-trip.json) |
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
 | Hikensha | 229694 | [229694-hikensha.json](./229694-hikensha.json) |
