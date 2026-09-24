@@ -4199,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoShamBo Arena | 34714 | [34714-roshambo-arena.json](./34714-roshambo-arena.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
 | Rosie's Rampage | 391170 | [391170-rosies-rampage.json](./391170-rosies-rampage.json) |
+| Roskur's Run | 300802 | [300802-roskurs-run.json](./300802-roskurs-run.json) |
 | Roswell Conspiracies: Aliens, Myths & Legends | 49883 | [49883-roswell-conspiracies-aliens-myths-and-legends.json](./49883-roswell-conspiracies-aliens-myths-and-legends.json) |
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
@@ -4536,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of Tearyn | 337252 | [337252-ruins-of-tearyn.json](./337252-ruins-of-tearyn.json) |
 | Ruins of the Lost | 258460 | [258460-ruins-of-the-lost.json](./258460-ruins-of-the-lost.json) |
 | Ruins of The Titan | 365069 | [365069-ruins-of-the-titan.json](./365069-ruins-of-the-titan.json) |
+| Ruins of the Unforgotten Souls | 299846 | [299846-ruins-of-the-unforgotten-souls.json](./299846-ruins-of-the-unforgotten-souls.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
 | RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
 | Ruinsmagus: Complete | 265713 | [265713-ruinsmagus-complete.json](./265713-ruinsmagus-complete.json) |
