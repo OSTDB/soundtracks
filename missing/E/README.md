@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Bomb | 398978 | [398978-emoji-bomb.json](./398978-emoji-bomb.json) |
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
 | Emoji Match-3 Game | 103156 | [103156-emoji-match-3-game.json](./103156-emoji-match-3-game.json) |
+| Emoji Quiz Football | 305265 | [305265-emoji-quiz-football.json](./305265-emoji-quiz-football.json) |
 | Emoji Rampage: Origins | 378798 | [378798-emoji-rampage-origins.json](./378798-emoji-rampage-origins.json) |
 | Emoji Scream | 97716 | [97716-emoji-scream.json](./97716-emoji-scream.json) |
 | Emoji Sport | 274539 | [274539-emoji-sport.json](./274539-emoji-sport.json) |
@@ -2895,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
 | Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
 | Experiment 404 | 391159 | [391159-experiment-404.json](./391159-experiment-404.json) |
+| Experiment 427 | 305308 | [305308-experiment-427.json](./305308-experiment-427.json) |
 | Experiment of Being | 189045 | [189045-experiment-of-being.json](./189045-experiment-of-being.json) |
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 62139 | [62139-experimental-game-pack-01.json](./62139-experimental-game-pack-01.json) |
