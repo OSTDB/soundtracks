@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uknon Jones & Guynelk 2 | 293625 | [293625-uknon-jones-and-guynelk-2.json](./293625-uknon-jones-and-guynelk-2.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
 | Uknon Jones: Portal | 390105 | [390105-uknon-jones-portal.json](./390105-uknon-jones-portal.json) |
+| Ukosz | 319181 | [319181-ukosz.json](./319181-ukosz.json) |
 | Ukraina Battle Tank!: Putin Edition | 207372 | [207372-ukraina-battle-tank-putin-edition.json](./207372-ukraina-battle-tank-putin-edition.json) |
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | UldreVoid | 133206 | [133206-uldrevoid.json](./133206-uldrevoid.json) |
