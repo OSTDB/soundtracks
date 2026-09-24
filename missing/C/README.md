@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Puzzles: 100 by Tyrone | 163413 | [163413-chess-puzzles-100-by-tyrone.json](./163413-chess-puzzles-100-by-tyrone.json) |
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
+| Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
 | Chess Universe | 357416 | [357416-chess-universe.json](./357416-chess-universe.json) |
 | Chess vs. Chat | 203930 | [203930-chess-vs-chat.json](./203930-chess-vs-chat.json) |
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
@@ -2537,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick Road Rage | 281993 | [281993-chick-road-rage.json](./281993-chick-road-rage.json) |
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
 | Chick That Never Skipped a Leg Day | 309128 | [309128-chick-that-never-skipped-a-leg-day.json](./309128-chick-that-never-skipped-a-leg-day.json) |
+| Chick'n Mushroom Soup | 284968 | [284968-chickn-mushroom-soup.json](./284968-chickn-mushroom-soup.json) |
 | Chicka Wars \| Chicken Meat | 34741 | [34741-chicka-wars-chicken-meat.json](./34741-chicka-wars-chicken-meat.json) |
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
 | Chickcharge | 413055 | [413055-chickcharge.json](./413055-chickcharge.json) |
@@ -2828,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomp | 79888 | [79888-chomp.json](./79888-chomp.json) |
 | Chomp Hero | 392253 | [392253-chomp-hero.json](./392253-chomp-hero.json) |
 | Chomp! | 137067 | [137067-chomp.json](./137067-chomp.json) |
+| Chompania | 284969 | [284969-chompania.json](./284969-chompania.json) |
 | Chomper and Friends Jump! | 59355 | [59355-chomper-and-friends-jump.json](./59355-chomper-and-friends-jump.json) |
 | Chomper and Friends World | 59356 | [59356-chomper-and-friends-world.json](./59356-chomper-and-friends-world.json) |
 | Chomper Man | 79264 | [79264-chomper-man.json](./79264-chomper-man.json) |
@@ -2950,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Cats Revenge | 127073 | [127073-christmas-cats-revenge.json](./127073-christmas-cats-revenge.json) |
 | Christmas Clash | 277601 | [277601-christmas-clash.json](./277601-christmas-clash.json) |
 | Christmas Clicker: Idle Gift Builder | 113001 | [113001-christmas-clicker-idle-gift-builder.json](./113001-christmas-clicker-idle-gift-builder.json) |
+| Christmas Corp | 284970 | [284970-christmas-corp.json](./284970-christmas-corp.json) |
 | Christmas Country | 45938 | [45938-christmas-country.json](./45938-christmas-country.json) |
 | Christmas Crisis | 45937 | [45937-christmas-crisis.json](./45937-christmas-crisis.json) |
 | Christmas Defence | 112774 | [112774-christmas-defence.json](./112774-christmas-defence.json) |
@@ -2986,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
 | Christmas Rocket Pudding | 276851 | [276851-christmas-rocket-pudding.json](./276851-christmas-rocket-pudding.json) |
 | Christmas Runner | 276697 | [276697-christmas-runner.json](./276697-christmas-runner.json) |
+| Christmas Rush | 284971 | [284971-christmas-rush.json](./284971-christmas-rush.json) |
 | Christmas Shopper Simulator | 137466 | [137466-christmas-shopper-simulator.json](./137466-christmas-shopper-simulator.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
 | Christmas Stories: A Little Prince - Collector's Edition | 417587 | [417587-christmas-stories-a-little-prince-collectors-edition.json](./417587-christmas-stories-a-little-prince-collectors-edition.json) |
@@ -3282,6 +3287,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuitous | 90658 | [90658-circuitous.json](./90658-circuitous.json) |
 | Circular | 169466 | [169466-circular.json](./169466-circular.json) |
 | Circular | 205092 | [205092-circular.json](./205092-circular.json) |
+| Circular Defense | 284964 | [284964-circular-defense.json](./284964-circular-defense.json) |
+| Circular Fever | 284972 | [284972-circular-fever.json](./284972-circular-fever.json) |
 | Circular Logic Games | 264702 | [264702-circular-logic-games.json](./264702-circular-logic-games.json) |
 | Circulets | 39184 | [39184-circulets.json](./39184-circulets.json) |
 | Circumference Encompass | 306955 | [306955-circumference-encompass.json](./306955-circumference-encompass.json) |
@@ -3317,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel Warrior | 308255 | [308255-citadel-warrior.json](./308255-citadel-warrior.json) |
 | Citadel Zero | 410470 | [410470-citadel-zero.json](./410470-citadel-zero.json) |
 | Citadel: Forged With Fire | 47823 | [47823-citadel-forged-with-fire.json](./47823-citadel-forged-with-fire.json) |
+| Citadelum | 284973 | [284973-citadelum.json](./284973-citadelum.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
 | Cities Domination | 319764 | [319764-cities-domination.json](./319764-cities-domination.json) |
@@ -3381,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Construction Simulator 2 | 310505 | [310505-city-construction-simulator-2.json](./310505-city-construction-simulator-2.json) |
 | City Country | 191157 | [191157-city-country.json](./191157-city-country.json) |
 | City Defense | 221999 | [221999-city-defense.json](./221999-city-defense.json) |
+| City Defense Z | 284974 | [284974-city-defense-z.json](./284974-city-defense-z.json) |
 | City Destructor | 132442 | [132442-city-destructor.json](./132442-city-destructor.json) |
 | City Driver: Police Parking Simulator | 316196 | [316196-city-driver-police-parking-simulator.json](./316196-city-driver-police-parking-simulator.json) |
 | City Dunk 2 | 220298 | [220298-city-dunk-2.json](./220298-city-dunk-2.json) |
@@ -3416,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Gangsters: Deluxe Edition | 173783 | [173783-city-of-gangsters-deluxe-edition.json](./173783-city-of-gangsters-deluxe-edition.json) |
 | City of Gangsters: Shadow Government | 203928 | [203928-city-of-gangsters-shadow-government.json](./203928-city-of-gangsters-shadow-government.json) |
 | City of God I: Prison Empire - Outrage | 170431 | [170431-city-of-god-i-prison-empire-outrage.json](./170431-city-of-god-i-prison-empire-outrage.json) |
+| City of Graves | 284975 | [284975-city-of-graves.json](./284975-city-of-graves.json) |
 | City of Heroes | 7830 | [7830-city-of-heroes.json](./7830-city-of-heroes.json) |
 | City of Love: Paris | 227511 | [227511-city-of-love-paris.json](./227511-city-of-love-paris.json) |
 | City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
@@ -3570,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash: Heroes of Feralia Terra | 269107 | [269107-clash-heroes-of-feralia-terra.json](./269107-clash-heroes-of-feralia-terra.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
+| Classic Arcade Fishing | 284976 | [284976-classic-arcade-fishing.json](./284976-classic-arcade-fishing.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
 | Classic Axiens | 60221 | [60221-classic-axiens.json](./60221-classic-axiens.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
@@ -3790,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
+| Cloaked Protocol | 284977 | [284977-cloaked-protocol.json](./284977-cloaked-protocol.json) |
 | Cloaks and Capes | 148471 | [148471-cloaks-and-capes.json](./148471-cloaks-and-capes.json) |
 | Clock Game | 369210 | [369210-clock-game.json](./369210-clock-game.json) |
 | Clock Mayhem | 414580 | [414580-clock-mayhem.json](./414580-clock-mayhem.json) |
@@ -6093,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola: Make a Masterpiece | 133804 | [133804-crayola-make-a-masterpiece.json](./133804-crayola-make-a-masterpiece.json) |
 | Crayon Christmas | 380704 | [380704-crayon-christmas.json](./380704-crayon-christmas.json) |
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
+| Crayon Computer | 284989 | [284989-crayon-computer.json](./284989-crayon-computer.json) |
 | Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
 | Crayon Mandala | 411814 | [411814-crayon-mandala.json](./411814-crayon-mandala.json) |
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
@@ -6116,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy 8s Revamped | 26649 | [26649-crazy-8s-revamped.json](./26649-crazy-8s-revamped.json) |
 | Crazy Addition | 246498 | [246498-crazy-addition.json](./246498-crazy-addition.json) |
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
+| Crazy Animal Choir | 284988 | [284988-crazy-animal-choir.json](./284988-crazy-animal-choir.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Balloon | 69592 | [69592-crazy-balloon.json](./69592-crazy-balloon.json) |
 | Crazy Battle Pets | 339337 | [339337-crazy-battle-pets.json](./339337-crazy-battle-pets.json) |
@@ -6127,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
 | Crazy Cakes | 366415 | [366415-crazy-cakes.json](./366415-crazy-cakes.json) |
 | Crazy Candy | 318528 | [318528-crazy-candy.json](./318528-crazy-candy.json) |
+| Crazy Candydish | 284987 | [284987-crazy-candydish.json](./284987-crazy-candydish.json) |
 | Crazy Captain Cannon: Mission - Billionaire Buster | 382437 | [382437-crazy-captain-cannon-mission-billionaire-buster.json](./382437-crazy-captain-cannon-mission-billionaire-buster.json) |
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Cars | 12550 | [12550-crazy-cars.json](./12550-crazy-cars.json) |
@@ -6203,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
 | Crazy Miner | 299841 | [299841-crazy-miner.json](./299841-crazy-miner.json) |
 | Crazy Mob | 61603 | [61603-crazy-mob.json](./61603-crazy-mob.json) |
+| Crazy module | 284986 | [284986-crazy-module.json](./284986-crazy-module.json) |
 | Crazy Mom | 310550 | [310550-crazy-mom.json](./310550-crazy-mom.json) |
 | Crazy Monster Truck Smasher | 89160 | [89160-crazy-monster-truck-smasher.json](./89160-crazy-monster-truck-smasher.json) |
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
@@ -6279,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creativerse | 17112 | [17112-creativerse.json](./17112-creativerse.json) |
 | Creator of Another World | 294167 | [294167-creator-of-another-world.json](./294167-creator-of-another-world.json) |
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
+| Creators | 284985 | [284985-creators.json](./284985-creators.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
 | Creature Containment | 345035 | [345035-creature-containment.json](./345035-creature-containment.json) |
 | Creature Crawl | 415903 | [415903-creature-crawl.json](./415903-creature-crawl.json) |
@@ -6468,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
 | Crimson Tower | 365176 | [365176-crimson-tower.json](./365176-crimson-tower.json) |
 | Crimson Trigger | 30174 | [30174-crimson-trigger.json](./30174-crimson-trigger.json) |
+| Crimson wind | 284990 | [284990-crimson-wind.json](./284990-crimson-wind.json) |
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
 | Crimzon Clover | 137065 | [137065-crimzon-clover.json](./137065-crimzon-clover.json) |
 | Crimzon Clover: World EXplosion | 140395 | [140395-crimzon-clover-world-explosion.json](./140395-crimzon-clover-world-explosion.json) |
@@ -6563,6 +6581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crooks Like Us | 143032 | [143032-crooks-like-us.json](./143032-crooks-like-us.json) |
 | Crookz: The Big Heist | 17569 | [17569-crookz-the-big-heist.json](./17569-crookz-the-big-heist.json) |
 | Crop | 397809 | [397809-crop.json](./397809-crop.json) |
+| Crop and Claw | 284991 | [284991-crop-and-claw.json](./284991-crop-and-claw.json) |
 | Crop and Claw 2 | 408813 | [408813-crop-and-claw-2.json](./408813-crop-and-claw-2.json) |
 | Crop Crusaders | 332987 | [332987-crop-crusaders.json](./332987-crop-crusaders.json) |
 | Crop Empire | 413040 | [413040-crop-empire.json](./413040-crop-empire.json) |
@@ -6742,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownbane | 411701 | [411701-crownbane.json](./411701-crownbane.json) |
 | Crownborne | 405528 | [405528-crownborne.json](./405528-crownborne.json) |
 | Crownbreakers | 348230 | [348230-crownbreakers.json](./348230-crownbreakers.json) |
+| Crowncity | 284992 | [284992-crowncity.json](./284992-crowncity.json) |
 | Crowned | 259055 | [259055-crowned.json](./259055-crowned.json) |
 | CrownFall | 82506 | [82506-crownfall.json](./82506-crownfall.json) |
 | Crownfall: Young Hero | 373649 | [373649-crownfall-young-hero.json](./373649-crownfall-young-hero.json) |
@@ -6928,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis Trilogy | 52852 | [52852-crysis-trilogy.json](./52852-crysis-trilogy.json) |
 | Crysis Warhead | 336 | [336-crysis-warhead.json](./336-crysis-warhead.json) |
 | Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
+| Crystal Breaker | 284978 | [284978-crystal-breaker.json](./284978-crystal-breaker.json) |
 | Crystal Calamity | 350496 | [350496-crystal-calamity.json](./350496-crystal-calamity.json) |
 | Crystal Call | 142237 | [142237-crystal-call.json](./142237-crystal-call.json) |
 | Crystal Castles | 11207 | [11207-crystal-castles.json](./11207-crystal-castles.json) |
@@ -6954,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Guardians | 316058 | [316058-crystal-guardians.json](./316058-crystal-guardians.json) |
 | Crystal Hammer | 15921 | [15921-crystal-hammer.json](./15921-crystal-hammer.json) |
 | Crystal Hearts 2: Compass of Dimension | 174729 | [174729-crystal-hearts-2-compass-of-dimension.json](./174729-crystal-hearts-2-compass-of-dimension.json) |
+| Crystal Heroes | 284979 | [284979-crystal-heroes.json](./284979-crystal-heroes.json) |
 | Crystal Horizons | 295787 | [295787-crystal-horizons.json](./295787-crystal-horizons.json) |
 | Crystal Ice Quest | 146899 | [146899-crystal-ice-quest.json](./146899-crystal-ice-quest.json) |
 | Crystal in Carnations | 358303 | [358303-crystal-in-carnations.json](./358303-crystal-in-carnations.json) |
@@ -6981,6 +7003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystalon | 183554 | [183554-crystalon.json](./183554-crystalon.json) |
+| Crystals | 284980 | [284980-crystals.json](./284980-crystals.json) |
 | Crystals of Amalgam | 183023 | [183023-crystals-of-amalgam.json](./183023-crystals-of-amalgam.json) |
 | Crystals of Carus | 13834 | [13834-crystals-of-carus.json](./13834-crystals-of-carus.json) |
 | Crystalyn | 406900 | [406900-crystalyn.json](./406900-crystalyn.json) |
@@ -7097,6 +7120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube School | 408905 | [408905-cube-school.json](./408905-cube-school.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
 | Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
+| Cube War | 284984 | [284984-cube-war.json](./284984-cube-war.json) |
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
 | Cube Zoid | 176466 | [176466-cube-zoid.json](./176466-cube-zoid.json) |
@@ -7106,9 +7130,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube's Kaizo World 3 | 338843 | [338843-cubes-kaizo-world-3.json](./338843-cubes-kaizo-world-3.json) |
 | Cube's Kaizo World 4 | 338844 | [338844-cubes-kaizo-world-4.json](./338844-cubes-kaizo-world-4.json) |
 | CubeBall VR | 28806 | [28806-cubeball-vr.json](./28806-cubeball-vr.json) |
+| Cubebam | 284981 | [284981-cubebam.json](./284981-cubebam.json) |
 | CubeCaust | 412300 | [412300-cubecaust.json](./412300-cubecaust.json) |
+| CubeCubeRubik | 284982 | [284982-cubecuberubik.json](./284982-cubecuberubik.json) |
 | Cubed | 120996 | [120996-cubed.json](./120996-cubed.json) |
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
+| CubeeRun Memories | 284983 | [284983-cubeerun-memories.json](./284983-cubeerun-memories.json) |
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
 | CubeLines | 191251 | [191251-cubelines.json](./191251-cubelines.json) |
 | Cubelz | 101357 | [101357-cubelz.json](./101357-cubelz.json) |
@@ -7367,9 +7394,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Mummies | 169470 | [169470-cursed-mummies.json](./169470-cursed-mummies.json) |
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
 | Cursed Omelette | 370114 | [370114-cursed-omelette.json](./370114-cursed-omelette.json) |
+| Cursed Order | 284993 | [284993-cursed-order.json](./284993-cursed-order.json) |
 | Cursed Queen : Wicked Witch | 105371 | [105371-cursed-queen-wicked-witch.json](./105371-cursed-queen-wicked-witch.json) |
 | Cursed Realm | 258722 | [258722-cursed-realm.json](./258722-cursed-realm.json) |
 | Cursed Roots | 36507 | [36507-cursed-roots.json](./36507-cursed-roots.json) |
+| Cursed sarcophagus | 284994 | [284994-cursed-sarcophagus.json](./284994-cursed-sarcophagus.json) |
 | Cursed Shorts | 363058 | [363058-cursed-shorts.json](./363058-cursed-shorts.json) |
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
 | Cursed Spire | 195250 | [195250-cursed-spire.json](./195250-cursed-spire.json) |
@@ -7577,6 +7606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Tamer | 245936 | [245936-cyber-tamer.json](./245936-cyber-tamer.json) |
 | Cyber Tank 2 | 330194 | [330194-cyber-tank-2.json](./330194-cyber-tank-2.json) |
 | Cyber Tank Nano | 353962 | [353962-cyber-tank-nano.json](./353962-cyber-tank-nano.json) |
+| Cyber Taxi Simulator | 284948 | [284948-cyber-taxi-simulator.json](./284948-cyber-taxi-simulator.json) |
 | Cyber Tetris | 213986 | [213986-cyber-tetris.json](./213986-cyber-tetris.json) |
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
 | Cyber Tiger | 3431 | [3431-cyber-tiger.json](./3431-cyber-tiger.json) |
