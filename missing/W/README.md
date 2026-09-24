@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilmot Works It Out | 314431 | [314431-wilmot-works-it-out.json](./314431-wilmot-works-it-out.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
 | Wiloo | 50533 | [50533-wiloo.json](./50533-wiloo.json) |
+| Wilson: In Search of Tom | 307088 | [307088-wilson-in-search-of-tom.json](./307088-wilson-in-search-of-tom.json) |
 | Wilson's Heart | 19597 | [19597-wilsons-heart.json](./19597-wilsons-heart.json) |
 | Wilt | 319219 | [319219-wilt.json](./319219-wilt.json) |
 | Wily & Right no Rock Board: That's Paradise | 295041 | [295041-wily-and-right-no-rock-board-thats-paradise.json](./295041-wily-and-right-no-rock-board-thats-paradise.json) |
