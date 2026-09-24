@@ -5209,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sly 3: Honor Among Thieves | 222127 | [222127-sly-3-honor-among-thieves.json](./222127-sly-3-honor-among-thieves.json) |
 | Sly Cooper and the Thievius Raccoonus | 1798 | [1798-sly-cooper-and-the-thievius-raccoonus.json](./1798-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Cooper and the Thievius Raccoonus | 222125 | [222125-sly-cooper-and-the-thievius-raccoonus.json](./222125-sly-cooper-and-the-thievius-raccoonus.json) |
+| Sly Cooper and the Thievius Raccoonus | 304144 | [304144-sly-cooper-and-the-thievius-raccoonus.json](./304144-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Panda | 198514 | [198514-sly-panda.json](./198514-sly-panda.json) |
 | Sly Slime | 156697 | [156697-sly-slime.json](./156697-sly-slime.json) |
 | Sly Spy | 12852 | [12852-sly-spy.json](./12852-sly-spy.json) |
@@ -11610,6 +11611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cosplay War Ultra | 66117 | [66117-super-cosplay-war-ultra.json](./66117-super-cosplay-war-ultra.json) |
 | Super Craft: Building Game | 100851 | [100851-super-craft-building-game.json](./100851-super-craft-building-game.json) |
 | Super Craft: Exploration Survival | 100961 | [100961-super-craft-exploration-survival.json](./100961-super-craft-exploration-survival.json) |
+| Super Crate Box Together | 304150 | [304150-super-crate-box-together.json](./304150-super-crate-box-together.json) |
 | Super Crazy Guitar Maniac Deluxe | 262446 | [262446-super-crazy-guitar-maniac-deluxe.json](./262446-super-crazy-guitar-maniac-deluxe.json) |
 | Super Crazy Guitar Maniac Deluxe 2 | 262447 | [262447-super-crazy-guitar-maniac-deluxe-2.json](./262447-super-crazy-guitar-maniac-deluxe-2.json) |
 | Super Crazy Guitar Maniac Deluxe 3 | 262472 | [262472-super-crazy-guitar-maniac-deluxe-3.json](./262472-super-crazy-guitar-maniac-deluxe-3.json) |
@@ -12205,6 +12207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Redux | 188575 | [188575-super-metroid-redux.json](./188575-super-metroid-redux.json) |
 | Super Metroid: Rotation | 199009 | [199009-super-metroid-rotation.json](./199009-super-metroid-rotation.json) |
 | Super Metroid: Unhundred % | 223019 | [223019-super-metroid-unhundred.json](./223019-super-metroid-unhundred.json) |
+| Super Metroid: Y-Faster | 304133 | [304133-super-metroid-y-faster.json](./304133-super-metroid-y-faster.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
