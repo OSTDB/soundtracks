@@ -1946,9 +1946,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: Spy | 365719 | [365719-escape-simulator-spy.json](./365719-escape-simulator-spy.json) |
 | Escape Simulator: The Talos Principle DLC | 321346 | [321346-escape-simulator-the-talos-principle-dlc.json](./321346-escape-simulator-the-talos-principle-dlc.json) |
 | Escape The Aquarium | 294132 | [294132-escape-the-aquarium.json](./294132-escape-the-aquarium.json) |
+| Escape the Arcana | 336713 | [336713-escape-the-arcana.json](./336713-escape-the-arcana.json) |
 | Escape the Ayurok | 125254 | [125254-escape-the-ayurok.json](./125254-escape-the-ayurok.json) |
 | Escape the Ayuwoki Demake | 201146 | [201146-escape-the-ayuwoki-demake.json](./201146-escape-the-ayuwoki-demake.json) |
 | Escape the Backrooms Bodycam | 360006 | [360006-escape-the-backrooms-bodycam.json](./360006-escape-the-backrooms-bodycam.json) |
+| Escape the Boardgame | 336719 | [336719-escape-the-boardgame.json](./336719-escape-the-boardgame.json) |
 | Escape the Bunker | 30086 | [30086-escape-the-bunker.json](./30086-escape-the-bunker.json) |
 | Escape the Challenge | 120973 | [120973-escape-the-challenge.json](./120973-escape-the-challenge.json) |
 | Escape the City | 170910 | [170910-escape-the-city.json](./170910-escape-the-city.json) |
