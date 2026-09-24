@@ -13169,6 +13169,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 1 | 324479 | [324479-sword-art-online-fractured-daydream-character-pass-vol-1.json](./324479-sword-art-online-fractured-daydream-character-pass-vol-1.json) |
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 2 | 380690 | [380690-sword-art-online-fractured-daydream-character-pass-vol-2.json](./380690-sword-art-online-fractured-daydream-character-pass-vol-2.json) |
 | Sword Art Online: Fractured Daydream - Deluxe Edition | 308792 | [308792-sword-art-online-fractured-daydream-deluxe-edition.json](./308792-sword-art-online-fractured-daydream-deluxe-edition.json) |
+| Sword Art Online: Fractured Daydream - Demon King Costume Set | 324426 | [324426-sword-art-online-fractured-daydream-demon-king-costume-set.json](./324426-sword-art-online-fractured-daydream-demon-king-costume-set.json) |
+| Sword Art Online: Fractured Daydream - DLC 1 Worlds Beyond 1 | 324442 | [324442-sword-art-online-fractured-daydream-dlc-1-worlds-beyond-1.json](./324442-sword-art-online-fractured-daydream-dlc-1-worlds-beyond-1.json) |
 | Sword Art Online: Fractured Daydream - Premium Edition | 308793 | [308793-sword-art-online-fractured-daydream-premium-edition.json](./308793-sword-art-online-fractured-daydream-premium-edition.json) |
 | Sword Art Online: Hollow Fragment | 9618 | [9618-sword-art-online-hollow-fragment.json](./9618-sword-art-online-hollow-fragment.json) |
 | Sword Art Online: Hollow Realization - Limited Edition | 212317 | [212317-sword-art-online-hollow-realization-limited-edition.json](./212317-sword-art-online-hollow-realization-limited-edition.json) |
