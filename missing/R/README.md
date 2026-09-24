@@ -1165,7 +1165,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
 | RealFighter | 370887 | [370887-realfighter.json](./370887-realfighter.json) |
 | RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
+| RealFlight Evolution: Blade Eclipse 360 | 311080 | [311080-realflight-evolution-blade-eclipse-360.json](./311080-realflight-evolution-blade-eclipse-360.json) |
 | RealFlight Evolution: E-flite Beechcraft D18 1.5m | 356713 | [356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json](./356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json) |
+| RealFlight Evolution: E-flite Cherokee 1.3m | 311081 | [311081-realflight-evolution-e-flite-cherokee-1-3m.json](./311081-realflight-evolution-e-flite-cherokee-1-3m.json) |
+| RealFlight Evolution: E-flite Turbo Timber SWS 2.0m | 311083 | [311083-realflight-evolution-e-flite-turbo-timber-sws-2-0m.json](./311083-realflight-evolution-e-flite-turbo-timber-sws-2-0m.json) |
+| RealFlight Evolution: E-flite UMX Conscendo | 311084 | [311084-realflight-evolution-e-flite-umx-conscendo.json](./311084-realflight-evolution-e-flite-umx-conscendo.json) |
+| RealFlight Evolution: Triple Tree Float Flight Line | 311082 | [311082-realflight-evolution-triple-tree-float-flight-line.json](./311082-realflight-evolution-triple-tree-float-flight-line.json) |
 | RealFlight Trainer Edition | 162755 | [162755-realflight-trainer-edition.json](./162755-realflight-trainer-edition.json) |
 | Realistic Tower Destruction | 131558 | [131558-realistic-tower-destruction.json](./131558-realistic-tower-destruction.json) |
 | Reality | 226976 | [226976-reality.json](./226976-reality.json) |
@@ -3578,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketBoy 2 | 400455 | [400455-rocketboy-2.json](./400455-rocketboy-2.json) |
 | RocketBoy 3 | 400456 | [400456-rocketboy-3.json](./400456-rocketboy-3.json) |
 | RocketBoy! | 400454 | [400454-rocketboy.json](./400454-rocketboy.json) |
+| RocketCup | 311074 | [311074-rocketcup.json](./311074-rocketcup.json) |
 | Rocketeer | 211953 | [211953-rocketeer.json](./211953-rocketeer.json) |
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
