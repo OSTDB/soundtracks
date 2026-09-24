@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Battle | 57063 | [57063-chaos-battle.json](./57063-chaos-battle.json) |
 | Chaos Brave Village | 298693 | [298693-chaos-brave-village.json](./298693-chaos-brave-village.json) |
 | Chaos Breaker | 76597 | [76597-chaos-breaker.json](./76597-chaos-breaker.json) |
+| Chaos Caster | 314990 | [314990-chaos-caster.json](./314990-chaos-caster.json) |
 | Chaos Caves | 113680 | [113680-chaos-caves.json](./113680-chaos-caves.json) |
 | Chaos Chronicle | 57893 | [57893-chaos-chronicle.json](./57893-chaos-chronicle.json) |
 | Chaos Code: Exact Xeno Attack | 348232 | [348232-chaos-code-exact-xeno-attack.json](./348232-chaos-code-exact-xeno-attack.json) |
