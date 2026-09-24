@@ -5051,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
 | Construction Simulator: Spaceport Expansion | 275117 | [275117-construction-simulator-spaceport-expansion.json](./275117-construction-simulator-spaceport-expansion.json) |
 | Construction Simulator: Year 1 Season Pass | 246401 | [246401-construction-simulator-year-1-season-pass.json](./246401-construction-simulator-year-1-season-pass.json) |
+| Construction Simulator: Year 2 Season Pass | 293132 | [293132-construction-simulator-year-2-season-pass.json](./293132-construction-simulator-year-2-season-pass.json) |
 | Construction Site Driver 2 | 223568 | [223568-construction-site-driver-2.json](./223568-construction-site-driver-2.json) |
 | Construction: Action - Map: Ampharos | 354492 | [354492-construction-action-map-ampharos.json](./354492-construction-action-map-ampharos.json) |
 | Construction: Action - Map: Arcanine | 354493 | [354493-construction-action-map-arcanine.json](./354493-construction-action-map-arcanine.json) |
@@ -5480,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cosmonaut | 336641 | [336641-cosmic-cosmonaut.json](./336641-cosmic-cosmonaut.json) |
 | Cosmic Cowboy | 413070 | [413070-cosmic-cowboy.json](./413070-cosmic-cowboy.json) |
 | Cosmic Creeps | 18547 | [18547-cosmic-creeps.json](./18547-cosmic-creeps.json) |
+| Cosmic Crucible | 293173 | [293173-cosmic-crucible.json](./293173-cosmic-crucible.json) |
 | Cosmic Cruiser | 210871 | [210871-cosmic-cruiser.json](./210871-cosmic-cruiser.json) |
 | Cosmic Cruncher | 59448 | [59448-cosmic-cruncher.json](./59448-cosmic-cruncher.json) |
 | Cosmic Crusader | 14494 | [14494-cosmic-crusader.json](./14494-cosmic-crusader.json) |
@@ -5812,6 +5814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Trip | 264146 | [264146-cozy-trip.json](./264146-cozy-trip.json) |
 | Cozy Twinkie | 406805 | [406805-cozy-twinkie.json](./406805-cozy-twinkie.json) |
 | Cozy Twinkie | 406806 | [406806-cozy-twinkie.json](./406806-cozy-twinkie.json) |
+| CozyCat Simulator | 293133 | [293133-cozycat-simulator.json](./293133-cozycat-simulator.json) |
 | Cozycult | 364057 | [364057-cozycult.json](./364057-cozycult.json) |
 | Cozyrama | 360004 | [360004-cozyrama.json](./360004-cozyrama.json) |
 | CozyTyper | 209678 | [209678-cozytyper.json](./209678-cozytyper.json) |
@@ -6451,6 +6454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criteria | 326203 | [326203-criteria.json](./326203-criteria.json) |
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
 | Critical Bullet: 7th Target | 72121 | [72121-critical-bullet-7th-target.json](./72121-critical-bullet-7th-target.json) |
+| Critical Fishing | 293144 | [293144-critical-fishing.json](./293144-critical-fishing.json) |
 | Critical Mass | 9810 | [9810-critical-mass.json](./9810-critical-mass.json) |
 | Critical Ops: Reloaded | 233491 | [233491-critical-ops-reloaded.json](./233491-critical-ops-reloaded.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
