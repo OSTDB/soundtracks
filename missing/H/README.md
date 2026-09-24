@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Gunship DEX | 208606 | [208606-helicopter-gunship-dex.json](./208606-helicopter-gunship-dex.json) |
 | Helicopter Mission | 73853 | [73853-helicopter-mission.json](./73853-helicopter-mission.json) |
 | Helicopter Sim Pro Hellfire | 101537 | [101537-helicopter-sim-pro-hellfire.json](./101537-helicopter-sim-pro-hellfire.json) |
+| Helicopter Simulator: Rescue Sim | 288302 | [288302-helicopter-simulator-rescue-sim.json](./288302-helicopter-simulator-rescue-sim.json) |
 | Helicopter Simulator: Search and Rescue 2014 | 53186 | [53186-helicopter-simulator-search-and-rescue-2014.json](./53186-helicopter-simulator-search-and-rescue-2014.json) |
 | Helidroid 3B PRO : 3D RC Copter | 82113 | [82113-helidroid-3b-pro-3d-rc-copter.json](./82113-helidroid-3b-pro-3d-rc-copter.json) |
 | HeliInvasion 2 | 200043 | [200043-heliinvasion-2.json](./200043-heliinvasion-2.json) |
@@ -1986,9 +1987,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sport | 371362 | [371362-hentai-sport.json](./371362-hentai-sport.json) |
 | Hentai Stars | 261347 | [261347-hentai-stars.json](./261347-hentai-stars.json) |
 | Hentai Stars: Amazing Edition | 308800 | [308800-hentai-stars-amazing-edition.json](./308800-hentai-stars-amazing-edition.json) |
+| Hentai Stars: Cheerful Puppy Tsubaki | 288306 | [288306-hentai-stars-cheerful-puppy-tsubaki.json](./288306-hentai-stars-cheerful-puppy-tsubaki.json) |
 | Hentai Stars: Complete + | 324452 | [324452-hentai-stars-complete.json](./324452-hentai-stars-complete.json) |
+| Hentai Stars: Complete Edition | 288282 | [288282-hentai-stars-complete-edition.json](./288282-hentai-stars-complete-edition.json) |
 | Hentai Stars: Deluxe Edition | 268561 | [268561-hentai-stars-deluxe-edition.json](./268561-hentai-stars-deluxe-edition.json) |
+| Hentai Stars: Lonely Kitty Ran | 288299 | [288299-hentai-stars-lonely-kitty-ran.json](./288299-hentai-stars-lonely-kitty-ran.json) |
 | Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
+| Hentai Stars: Shy Fox Ayame | 288293 | [288293-hentai-stars-shy-fox-ayame.json](./288293-hentai-stars-shy-fox-ayame.json) |
+| Hentai Stars: Singing Fox Ayame | 288292 | [288292-hentai-stars-singing-fox-ayame.json](./288292-hentai-stars-singing-fox-ayame.json) |
+| Hentai Stars: Singing Kitty Ran | 288291 | [288291-hentai-stars-singing-kitty-ran.json](./288291-hentai-stars-singing-kitty-ran.json) |
+| Hentai Stars: Singing Puppy Tsubaki | 288290 | [288290-hentai-stars-singing-puppy-tsubaki.json](./288290-hentai-stars-singing-puppy-tsubaki.json) |
 | Hentai Stars: Superb Edition | 314885 | [314885-hentai-stars-superb-edition.json](./314885-hentai-stars-superb-edition.json) |
 | Hentai Stars: Ultimate Edition | 274475 | [274475-hentai-stars-ultimate-edition.json](./274475-hentai-stars-ultimate-edition.json) |
 | Hentai Stars: Ultra Deluxe | 316269 | [316269-hentai-stars-ultra-deluxe.json](./316269-hentai-stars-ultra-deluxe.json) |
