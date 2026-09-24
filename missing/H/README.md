@@ -570,6 +570,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Brain Puzzle | 208982 | [208982-happy-brain-puzzle.json](./208982-happy-brain-puzzle.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
 | Happy Challenger Yamada | 313312 | [313312-happy-challenger-yamada.json](./313312-happy-challenger-yamada.json) |
+| Happy Chef 3 | 294803 | [294803-happy-chef-3.json](./294803-happy-chef-3.json) |
+| Happy Clinic | 294802 | [294802-happy-clinic.json](./294802-happy-clinic.json) |
 | Happy Color Links | 277834 | [277834-happy-color-links.json](./277834-happy-color-links.json) |
 | Happy Cook | 200118 | [200118-happy-cook.json](./200118-happy-cook.json) |
 | Happy Cookies | 365261 | [365261-happy-cookies.json](./365261-happy-cookies.json) |
@@ -1710,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
 | Hello Tale | 224103 | [224103-hello-tale.json](./224103-hello-tale.json) |
 | Hello Teacher | 154367 | [154367-hello-teacher.json](./154367-hello-teacher.json) |
+| Hello Venice 2: New York Adventure | 294801 | [294801-hello-venice-2-new-york-adventure.json](./294801-hello-venice-2-new-york-adventure.json) |
 | Hello World | 132633 | [132633-hello-world.json](./132633-hello-world.json) |
 | Hello World | 367420 | [367420-hello-world.json](./367420-hello-world.json) |
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
