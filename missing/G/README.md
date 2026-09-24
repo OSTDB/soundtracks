@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get the Guy | 372699 | [372699-get-the-guy.json](./372699-get-the-guy.json) |
 | Get Them To Safety | 374053 | [374053-get-them-to-safety.json](./374053-get-them-to-safety.json) |
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
+| Get to the Top Although There Is No Top!! | 286572 | [286572-get-to-the-top-although-there-is-no-top.json](./286572-get-to-the-top-although-there-is-no-top.json) |
 | Get to Work | 322280 | [322280-get-to-work.json](./322280-get-to-work.json) |
 | Get to Work, Succubus-Chan! | 169356 | [169356-get-to-work-succubus-chan.json](./169356-get-to-work-succubus-chan.json) |
 | Get Together | 144126 | [144126-get-together.json](./144126-get-together.json) |
@@ -1448,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Writer | 404946 | [404946-ghost-writer.json](./404946-ghost-writer.json) |
 | Ghost: Elisa Cameron | 146929 | [146929-ghost-elisa-cameron.json](./146929-ghost-elisa-cameron.json) |
 | Ghost's Way | 180182 | [180182-ghosts-way.json](./180182-ghosts-way.json) |
+| Ghostbane | 286621 | [286621-ghostbane.json](./286621-ghostbane.json) |
 | Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
 | Ghostbusters II | 14555 | [14555-ghostbusters-ii.json](./14555-ghostbusters-ii.json) |
 | Ghostbusters Puzzle Fighter | 60235 | [60235-ghostbusters-puzzle-fighter.json](./60235-ghostbusters-puzzle-fighter.json) |
@@ -1770,8 +1772,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glasses and Girls | 248930 | [248930-glasses-and-girls.json](./248930-glasses-and-girls.json) |
 | Glasses Nightmare | 133218 | [133218-glasses-nightmare.json](./133218-glasses-nightmare.json) |
 | Glassfall | 250017 | [250017-glassfall.json](./250017-glassfall.json) |
+| Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
 | Glennhaven | 185540 | [185540-glennhaven.json](./185540-glennhaven.json) |
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
+| Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
@@ -3387,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griffin | 353993 | [353993-griffin.json](./353993-griffin.json) |
 | Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
+| Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
@@ -3502,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Grit Under the Eyelid | 299843 | [299843-grit-under-the-eyelid.json](./299843-grit-under-the-eyelid.json) |
 | Grits Racing | 114946 | [114946-grits-racing.json](./114946-grits-racing.json) |
+| Gritz: The Pyramid Adventure | 286581 | [286581-gritz-the-pyramid-adventure.json](./286581-gritz-the-pyramid-adventure.json) |
 | Grix | 384501 | [384501-grix.json](./384501-grix.json) |
 | Grizelda: Lynx and the Nine Lives | 201678 | [201678-grizelda-lynx-and-the-nine-lives.json](./201678-grizelda-lynx-and-the-nine-lives.json) |
 | Grizzly Adventure | 107829 | [107829-grizzly-adventure.json](./107829-grizzly-adventure.json) |
