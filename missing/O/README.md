@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni | 365784 | [365784-oni.json](./365784-oni.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
 | Oni Asobi | 151529 | [151529-oni-asobi.json](./151529-oni-asobi.json) |
+| Oni Fight | 335428 | [335428-oni-fight.json](./335428-oni-fight.json) |
 | Oni no Moribito | 355201 | [355201-oni-no-moribito.json](./355201-oni-no-moribito.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
@@ -1342,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
 | Oppai Muse | 203383 | [203383-oppai-muse.json](./203383-oppai-muse.json) |
 | Oppai Oppai Orbs | 341683 | [341683-oppai-oppai-orbs.json](./341683-oppai-oppai-orbs.json) |
+| Oppai Puzzle | 335440 | [335440-oppai-puzzle.json](./335440-oppai-puzzle.json) |
 | Oppai Puzzle L | 209481 | [209481-oppai-puzzle-l.json](./209481-oppai-puzzle-l.json) |
 | Oppaidius Desert Island! | 149435 | [149435-oppaidius-desert-island.json](./149435-oppaidius-desert-island.json) |
 | Oppaidius Summer Trouble! | 75040 | [75040-oppaidius-summer-trouble.json](./75040-oppaidius-summer-trouble.json) |
