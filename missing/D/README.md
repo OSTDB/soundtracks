@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C. Girl's Symphony | 72661 | [72661-d-c-girls-symphony.json](./72661-d-c-girls-symphony.json) |
 | D.C. Girl's Symphony Pocket | 221833 | [221833-d-c-girls-symphony-pocket.json](./221833-d-c-girls-symphony-pocket.json) |
 | D.C. II ~Da Capo II~ | 61641 | [61641-d-c-ii-da-capo-ii.json](./61641-d-c-ii-da-capo-ii.json) |
+| D.C. Re:tune | 327964 | [327964-d-c-re-tune.json](./327964-d-c-re-tune.json) |
 | D.C. S#*!storm | 86547 | [86547-d-c-s-storm.json](./86547-d-c-s-storm.json) |
 | D.C.4: Da Capo 4 - Fortunate Departures | 207920 | [207920-d-c-4-da-capo-4-fortunate-departures.json](./207920-d-c-4-da-capo-4-fortunate-departures.json) |
 | D.C.5 to 4: Luminous Memories | 408137 | [408137-d-c-5-to-4-luminous-memories.json](./408137-d-c-5-to-4-luminous-memories.json) |
@@ -3532,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
 | Disconcordia | 402940 | [402940-disconcordia.json](./402940-disconcordia.json) |
 | Disconnected | 184066 | [184066-disconnected.json](./184066-disconnected.json) |
+| Discopup | 327986 | [327986-discopup.json](./327986-discopup.json) |
 | Discordia by Iron Games | 262343 | [262343-discordia-by-iron-games.json](./262343-discordia-by-iron-games.json) |
 | Discount Nightmares: The Gulch | 391164 | [391164-discount-nightmares-the-gulch.json](./391164-discount-nightmares-the-gulch.json) |
 | Discounty | 239800 | [239800-discounty.json](./239800-discounty.json) |
@@ -6181,6 +6183,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuckTales: Scrooge's Loot | 78640 | [78640-ducktales-scrooges-loot.json](./78640-ducktales-scrooges-loot.json) |
 | DuckTape Inc. | 383071 | [383071-ducktape-inc.json](./383071-ducktape-inc.json) |
 | Ducktopia | 169388 | [169388-ducktopia.json](./169388-ducktopia.json) |
+| DuckWorld Revive | 327960 | [327960-duckworld-revive.json](./327960-duckworld-revive.json) |
+| DuckWorld Smart Adventures | 327959 | [327959-duckworld-smart-adventures.json](./327959-duckworld-smart-adventures.json) |
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
 | DUD Detective Ulysses Day | 379049 | [379049-dud-detective-ulysses-day.json](./379049-dud-detective-ulysses-day.json) |
