@@ -2644,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rica Mode | 401121 | [401121-rica-mode.json](./401121-rica-mode.json) |
 | Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
 | Ricerca VR | 32884 | [32884-ricerca-vr.json](./32884-ricerca-vr.json) |
+| Rich City | 298112 | [298112-rich-city.json](./298112-rich-city.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
 | Rich Girls | 286499 | [286499-rich-girls.json](./286499-rich-girls.json) |
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
@@ -4871,6 +4872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
 | Rusty Drill | 326740 | [326740-rusty-drill.json](./326740-rusty-drill.json) |
+| Rusty Dusty | 298105 | [298105-rusty-dusty.json](./298105-rusty-dusty.json) |
 | Rusty Foodies | 347351 | [347351-rusty-foodies.json](./347351-rusty-foodies.json) |
 | Rusty Lake Paradise | 54678 | [54678-rusty-lake-paradise.json](./54678-rusty-lake-paradise.json) |
 | Rusty Lake: Roots | 25222 | [25222-rusty-lake-roots.json](./25222-rusty-lake-roots.json) |
