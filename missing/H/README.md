@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack '95 | 405079 | [405079-hack-95.json](./405079-hack-95.json) |
 | Hack & Turn | 180114 | [180114-hack-and-turn.json](./180114-hack-and-turn.json) |
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
+| Hack 0 2 | 320292 | [320292-hack-0-2.json](./320292-hack-0-2.json) |
 | Hack 42: Typing Incremental | 407601 | [407601-hack-42-typing-incremental.json](./407601-hack-42-typing-incremental.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
 | Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
@@ -2477,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Animals Find : Detective Neko | 289343 | [289343-hidden-animals-find-detective-neko.json](./289343-hidden-animals-find-detective-neko.json) |
 | Hidden Anime Girls | 369666 | [369666-hidden-anime-girls.json](./369666-hidden-anime-girls.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
+| Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition | 320320 | [320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json](./320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
@@ -2603,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: The Birds from Aviary | 98395 | [98395-hidden-object-the-birds-from-aviary.json](./98395-hidden-object-the-birds-from-aviary.json) |
 | Hidden Object: Travel to Future - Ancient Portals | 261529 | [261529-hidden-object-travel-to-future-ancient-portals.json](./261529-hidden-object-travel-to-future-ancient-portals.json) |
 | Hidden Object: Underground Treasures Gold | 233224 | [233224-hidden-object-underground-treasures-gold.json](./233224-hidden-object-underground-treasures-gold.json) |
+| Hidden Objects | 320319 | [320319-hidden-objects.json](./320319-hidden-objects.json) |
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
 | Hidden Objects Collection | 93969 | [93969-hidden-objects-collection.json](./93969-hidden-objects-collection.json) |
@@ -3319,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Potatoes! A Weapon Shop?!: Spud Tales - Journey to Olympus | 124836 | [124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json](./124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json) |
 | Holy Potatoes! Compedium: Badge Edition | 139833 | [139833-holy-potatoes-compedium-badge-edition.json](./139833-holy-potatoes-compedium-badge-edition.json) |
 | Holy Potatoes! Compendium | 137674 | [137674-holy-potatoes-compendium.json](./137674-holy-potatoes-compendium.json) |
+| Holy Shift | 320337 | [320337-holy-shift.json](./320337-holy-shift.json) |
 | Holy Ship | 249196 | [249196-holy-ship.json](./249196-holy-ship.json) |
 | Holy Shit | 202726 | [202726-holy-shit.json](./202726-holy-shit.json) |
 | Holy Shoot | 292514 | [292514-holy-shoot.json](./292514-holy-shoot.json) |
