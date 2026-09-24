@@ -4328,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Key of Rednow | 163403 | [163403-the-key-of-rednow.json](./163403-the-key-of-rednow.json) |
 | The Key to Forgotten Souls | 395177 | [395177-the-key-to-forgotten-souls.json](./395177-the-key-to-forgotten-souls.json) |
 | The Keyboard | 264029 | [264029-the-keyboard.json](./264029-the-keyboard.json) |
+| The Kharzov Effect | 322134 | [322134-the-kharzov-effect.json](./322134-the-kharzov-effect.json) |
 | The Kill Zone | 235827 | [235827-the-kill-zone.json](./235827-the-kill-zone.json) |
 | The Killbox: Arena Combat US | 86976 | [86976-the-killbox-arena-combat-us.json](./86976-the-killbox-arena-combat-us.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
@@ -4752,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Mercuris' Chest | 243269 | [243269-the-legend-of-zelda-mercuris-chest.json](./243269-the-legend-of-zelda-mercuris-chest.json) |
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
+| The Legend of Zelda: New Beginnings | 322102 | [322102-the-legend-of-zelda-new-beginnings.json](./322102-the-legend-of-zelda-new-beginnings.json) |
 | The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
 | The Legend of Zelda: Ocarina of Time Online | 198341 | [198341-the-legend-of-zelda-ocarina-of-time-online.json](./198341-the-legend-of-zelda-ocarina-of-time-online.json) |
 | The Legend of Zelda: Oracle of Ages | 1041 | [1041-the-legend-of-zelda-oracle-of-ages.json](./1041-the-legend-of-zelda-oracle-of-ages.json) |
@@ -7386,6 +7388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
+| These Darker Tides | 322135 | [322135-these-darker-tides.json](./322135-these-darker-tides.json) |
 | These Doomed Isles: The First God | 244276 | [244276-these-doomed-isles-the-first-god.json](./244276-these-doomed-isles-the-first-god.json) |
 | These nights in Cairo | 74688 | [74688-these-nights-in-cairo.json](./74688-these-nights-in-cairo.json) |
 | These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
@@ -8490,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim 7: Et Le Milliardaire | 321344 | [321344-tim-7-et-le-milliardaire.json](./321344-tim-7-et-le-milliardaire.json) |
 | Tim 7: Et Le Monstre Marin | 321349 | [321349-tim-7-et-le-monstre-marin.json](./321349-tim-7-et-le-monstre-marin.json) |
 | Tim 7: Et Les Fouilles Interdites | 321373 | [321373-tim-7-et-les-fouilles-interdites.json](./321373-tim-7-et-les-fouilles-interdites.json) |
+| Tim 7: Français-Maths 4e | 322100 | [322100-tim-7-francais-maths-4e.json](./322100-tim-7-francais-maths-4e.json) |
 | Tim 7: Lance Un S.O.S | 321369 | [321369-tim-7-lance-un-s-o-s.json](./321369-tim-7-lance-un-s-o-s.json) |
 | Tim 7: Mene Le Jeu | 321364 | [321364-tim-7-mene-le-jeu.json](./321364-tim-7-mene-le-jeu.json) |
 | Tim 7: The Lost Traveller | 321374 | [321374-tim-7-the-lost-traveller.json](./321374-tim-7-the-lost-traveller.json) |
@@ -8993,6 +8997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad's Adventure | 48318 | [48318-toads-adventure.json](./48318-toads-adventure.json) |
 | Toad's Soul Hopper | 301024 | [301024-toads-soul-hopper.json](./301024-toads-soul-hopper.json) |
 | Toad's Trees | 346132 | [346132-toads-trees.json](./346132-toads-trees.json) |
+| Toad's Typical Day | 322107 | [322107-toads-typical-day.json](./322107-toads-typical-day.json) |
 | Toad's World | 38306 | [38306-toads-world.json](./38306-toads-world.json) |
 | Toader | 112975 | [112975-toader.json](./112975-toader.json) |
 | Toadette Strikes | 134069 | [134069-toadette-strikes.json](./134069-toadette-strikes.json) |
