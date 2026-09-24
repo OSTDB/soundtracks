@@ -3689,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bless Unleashed: Deluxe Founder's Pack | 166082 | [166082-bless-unleashed-deluxe-founders-pack.json](./166082-bless-unleashed-deluxe-founders-pack.json) |
 | Bless Unleashed: Exalted Founder's Pack | 166077 | [166077-bless-unleashed-exalted-founders-pack.json](./166077-bless-unleashed-exalted-founders-pack.json) |
 | Bless You Again | 334133 | [334133-bless-you-again.json](./334133-bless-you-again.json) |
+| Blessed Curse | 318560 | [318560-blessed-curse.json](./318560-blessed-curse.json) |
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
 | Blessing in the Darkness | 333059 | [333059-blessing-in-the-darkness.json](./333059-blessing-in-the-darkness.json) |
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
@@ -4738,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo: The World's Cutest Dog Game | 57909 | [57909-boo-the-worlds-cutest-dog-game.json](./57909-boo-the-worlds-cutest-dog-game.json) |
 | Boo! Are you scared? | 329128 | [329128-boo-are-you-scared.json](./329128-boo-are-you-scared.json) |
 | Boo's There? | 280317 | [280317-boos-there.json](./280317-boos-there.json) |
+| Boo's Treat | 318551 | [318551-boos-treat.json](./318551-boos-treat.json) |
 | Booble Hentai | 149432 | [149432-booble-hentai.json](./149432-booble-hentai.json) |
 | Boobs | 344551 | [344551-boobs.json](./344551-boobs.json) |
 | Boobs Hidden Los Angeles | 320329 | [320329-boobs-hidden-los-angeles.json](./320329-boobs-hidden-los-angeles.json) |
@@ -5444,14 +5446,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Party | 390117 | [390117-brawl-party.json](./390117-brawl-party.json) |
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
 | Brawl Stars: Back To Ranger Ranch | 318588 | [318588-brawl-stars-back-to-ranger-ranch.json](./318588-brawl-stars-back-to-ranger-ranch.json) |
+| Brawl Stars: Biodome | 318579 | [318579-brawl-stars-biodome.json](./318579-brawl-stars-biodome.json) |
 | Brawl Stars: Bizarre Circus | 318589 | [318589-brawl-stars-bizarre-circus.json](./318589-brawl-stars-bizarre-circus.json) |
+| Brawl Stars: Brawlywood | 318577 | [318577-brawl-stars-brawlywood.json](./318577-brawl-stars-brawlywood.json) |
 | Brawl Stars: Candyland | 318584 | [318584-brawl-stars-candyland.json](./318584-brawl-stars-candyland.json) |
 | Brawl Stars: CyberBrawl | 318596 | [318596-brawl-stars-cyberbrawl.json](./318596-brawl-stars-cyberbrawl.json) |
 | Brawl Stars: Enchanted Woods | 318587 | [318587-brawl-stars-enchanted-woods.json](./318587-brawl-stars-enchanted-woods.json) |
 | Brawl Stars: Ghost Station | 318583 | [318583-brawl-stars-ghost-station.json](./318583-brawl-stars-ghost-station.json) |
 | Brawl Stars: Gods Vs Monsters! | 318598 | [318598-brawl-stars-gods-vs-monsters.json](./318598-brawl-stars-gods-vs-monsters.json) |
 | Brawl Stars: Godzilla | 318595 | [318595-brawl-stars-godzilla.json](./318595-brawl-stars-godzilla.json) |
+| Brawl Stars: Holiday Getaway | 318570 | [318570-brawl-stars-holiday-getaway.json](./318570-brawl-stars-holiday-getaway.json) |
+| Brawl Stars: Jurassic Splash | 318574 | [318574-brawl-stars-jurassic-splash.json](./318574-brawl-stars-jurassic-splash.json) |
 | Brawl Stars: Mystery At The Hub | 318585 | [318585-brawl-stars-mystery-at-the-hub.json](./318585-brawl-stars-mystery-at-the-hub.json) |
+| Brawl Stars: Once Upon A Brawl | 318576 | [318576-brawl-stars-once-upon-a-brawl.json](./318576-brawl-stars-once-upon-a-brawl.json) |
 | Brawl Stars: Paint Brawl! | 318599 | [318599-brawl-stars-paint-brawl.json](./318599-brawl-stars-paint-brawl.json) |
 | Brawl Stars: Ragnarok | 318593 | [318593-brawl-stars-ragnarok.json](./318593-brawl-stars-ragnarok.json) |
 | Brawl Stars: Robot Factory | 318582 | [318582-brawl-stars-robot-factory.json](./318582-brawl-stars-robot-factory.json) |
@@ -5459,9 +5466,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Stars: Season 31 - Scary Tales | 320182 | [320182-brawl-stars-season-31-scary-tales.json](./320182-brawl-stars-season-31-scary-tales.json) |
 | Brawl Stars: SpongeBob | 318600 | [318600-brawl-stars-spongebob.json](./318600-brawl-stars-spongebob.json) |
 | Brawl Stars: Starr Toon Studios | 318590 | [318590-brawl-stars-starr-toon-studios.json](./318590-brawl-stars-starr-toon-studios.json) |
+| Brawl Stars: Summer Of Monsters | 318567 | [318567-brawl-stars-summer-of-monsters.json](./318567-brawl-stars-summer-of-monsters.json) |
+| Brawl Stars: Tara's Bazaar | 318566 | [318566-brawl-stars-taras-bazaar.json](./318566-brawl-stars-taras-bazaar.json) |
 | Brawl Stars: The Deep Sea Brawl | 318581 | [318581-brawl-stars-the-deep-sea-brawl.json](./318581-brawl-stars-the-deep-sea-brawl.json) |
+| Brawl Stars: The Goldarm Gang | 318573 | [318573-brawl-stars-the-goldarm-gang.json](./318573-brawl-stars-the-goldarm-gang.json) |
 | Brawl Stars: The Rescue | 318586 | [318586-brawl-stars-the-rescue.json](./318586-brawl-stars-the-rescue.json) |
+| Brawl Stars: The Starr Force! | 318572 | [318572-brawl-stars-the-starr-force.json](./318572-brawl-stars-the-starr-force.json) |
+| Brawl Stars: The Stuntshow | 318580 | [318580-brawl-stars-the-stuntshow.json](./318580-brawl-stars-the-stuntshow.json) |
+| Brawl Stars: Welcome To Starr Park! | 318569 | [318569-brawl-stars-welcome-to-starr-park.json](./318569-brawl-stars-welcome-to-starr-park.json) |
 | Brawl Stars: Year Of The Dragon | 318591 | [318591-brawl-stars-year-of-the-dragon.json](./318591-brawl-stars-year-of-the-dragon.json) |
+| Brawl Stars: Year Of The Tiger | 318578 | [318578-brawl-stars-year-of-the-tiger.json](./318578-brawl-stars-year-of-the-tiger.json) |
 | Brawlberry | 273961 | [273961-brawlberry.json](./273961-brawlberry.json) |
 | Brawler Friends | 58185 | [58185-brawler-friends.json](./58185-brawler-friends.json) |
 | Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
