@@ -3194,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PizzaMaker | 362821 | [362821-pizzamaker.json](./362821-pizzamaker.json) |
 | Pizzapocalypse 2 | 379971 | [379971-pizzapocalypse-2.json](./379971-pizzapocalypse-2.json) |
 | Pizzarian | 36010 | [36010-pizzarian.json](./36010-pizzarian.json) |
+| Pizzeria | 314402 | [314402-pizzeria.json](./314402-pizzeria.json) |
 | Pizzeria of Peril | 260790 | [260790-pizzeria-of-peril.json](./260790-pizzeria-of-peril.json) |
 | Pizzicato Polka: Ensa Genya | 108833 | [108833-pizzicato-polka-ensa-genya.json](./108833-pizzicato-polka-ensa-genya.json) |
 | PJ Masks Power Heroes: Mighty Alliance | 282048 | [282048-pj-masks-power-heroes-mighty-alliance.json](./282048-pj-masks-power-heroes-mighty-alliance.json) |
@@ -4517,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppy Kart | 13884 | [13884-poppy-kart.json](./13884-poppy-kart.json) |
 | Poppy Kart 2 | 366248 | [366248-poppy-kart-2.json](./366248-poppy-kart-2.json) |
 | Poppy Playtime Toybox Bundle 1 | 375863 | [375863-poppy-playtime-toybox-bundle-1.json](./375863-poppy-playtime-toybox-bundle-1.json) |
+| Poppy Playtime Triple Pack | 314441 | [314441-poppy-playtime-triple-pack.json](./314441-poppy-playtime-triple-pack.json) |
 | Poppy Playtime VR | 360783 | [360783-poppy-playtime-vr.json](./360783-poppy-playtime-vr.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
 | Popscene (Backstage Pass) | 91988 | [91988-popscene-backstage-pass.json](./91988-popscene-backstage-pass.json) |
