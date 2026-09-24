@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Liberation | 30301 | [30301-earth-liberation.json](./30301-earth-liberation.json) |
 | Earth Light: Luna Strike | 42247 | [42247-earth-light-luna-strike.json](./42247-earth-light-luna-strike.json) |
 | Earth Marines | 153862 | [153862-earth-marines.json](./153862-earth-marines.json) |
+| Earth Mechanica | 336163 | [336163-earth-mechanica.json](./336163-earth-mechanica.json) |
 | Earth Muncher | 95178 | [95178-earth-muncher.json](./95178-earth-muncher.json) |
 | Earth New Fall | 408252 | [408252-earth-new-fall.json](./408252-earth-new-fall.json) |
 | Earth Overclocked | 34828 | [34828-earth-overclocked.json](./34828-earth-overclocked.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Quiz | 171495 | [171495-easy-quiz.json](./171495-easy-quiz.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
 | Easy Simple Game | 212832 | [212832-easy-simple-game.json](./212832-easy-simple-game.json) |
+| Easy Street: A Shopping Adventure | 336128 | [336128-easy-street-a-shopping-adventure.json](./336128-easy-street-a-shopping-adventure.json) |
 | Easy VTT | 269026 | [269026-easy-vtt.json](./269026-easy-vtt.json) |
 | Easy-Bake Treats! | 411605 | [411605-easy-bake-treats.json](./411605-easy-bake-treats.json) |
 | Easy-Peasy Tic Tac Toe | 88317 | [88317-easy-peasy-tic-tac-toe.json](./88317-easy-peasy-tic-tac-toe.json) |
@@ -948,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
 | Else Walker | 177947 | [177947-else-walker.json](./177947-else-walker.json) |
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
+| Elsewhere Electric | 336146 | [336146-elsewhere-electric.json](./336146-elsewhere-electric.json) |
 | Elsewhere High: Chapter 2 - A Visual Novel | 168866 | [168866-elsewhere-high-chapter-2-a-visual-novel.json](./168866-elsewhere-high-chapter-2-a-visual-novel.json) |
 | Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
 | Elsp | 229822 | [229822-elsp.json](./229822-elsp.json) |
