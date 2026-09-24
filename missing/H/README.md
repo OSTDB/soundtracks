@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World Bikini | 340460 | [340460-hentai-world-bikini.json](./340460-hentai-world-bikini.json) |
 | Hentai World Bunny | 349956 | [349956-hentai-world-bunny.json](./349956-hentai-world-bunny.json) |
 | Hentai World Festival | 340461 | [340461-hentai-world-festival.json](./340461-hentai-world-festival.json) |
+| Hentai World Halloween | 326234 | [326234-hentai-world-halloween.json](./326234-hentai-world-halloween.json) |
 | Hentai World Slice | 340462 | [340462-hentai-world-slice.json](./340462-hentai-world-slice.json) |
 | Hentai World Succubus | 340463 | [340463-hentai-world-succubus.json](./340463-hentai-world-succubus.json) |
 | Hentai World Winter | 340464 | [340464-hentai-world-winter.json](./340464-hentai-world-winter.json) |
@@ -2672,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide vs. Seek! | 378808 | [378808-hide-vs-seek.json](./378808-hide-vs-seek.json) |
 | Hideaways Lost Island | 53212 | [53212-hideaways-lost-island.json](./53212-hideaways-lost-island.json) |
 | Hideaways: Foggy Valley | 84519 | [84519-hideaways-foggy-valley.json](./84519-hideaways-foggy-valley.json) |
+| Hideko | 326201 | [326201-hideko.json](./326201-hideko.json) |
 | Hideous | 348801 | [348801-hideous.json](./348801-hideous.json) |
 | Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
@@ -3990,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Golf | 125252 | [125252-house-of-golf.json](./125252-house-of-golf.json) |
 | House of Golf 2 | 303573 | [303573-house-of-golf-2.json](./303573-house-of-golf-2.json) |
 | House of Heists | 398406 | [398406-house-of-heists.json](./398406-house-of-heists.json) |
+| House of Horror: Outside is Better | 326223 | [326223-house-of-horror-outside-is-better.json](./326223-house-of-horror-outside-is-better.json) |
 | House of Jigsaw: A Day at the Park | 273479 | [273479-house-of-jigsaw-a-day-at-the-park.json](./273479-house-of-jigsaw-a-day-at-the-park.json) |
 | House of Jigsaw: Amazing Birds | 273480 | [273480-house-of-jigsaw-amazing-birds.json](./273480-house-of-jigsaw-amazing-birds.json) |
 | House of Jigsaw: Amazing Colors of the World | 273483 | [273483-house-of-jigsaw-amazing-colors-of-the-world.json](./273483-house-of-jigsaw-amazing-colors-of-the-world.json) |
