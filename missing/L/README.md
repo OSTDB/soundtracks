@@ -1948,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
 | Limits | 379052 | [379052-limits.json](./379052-limits.json) |
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
+| Limoria | 327343 | [327343-limoria.json](./327343-limoria.json) |
 | Limp Mode | 414575 | [414575-limp-mode.json](./414575-limp-mode.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
@@ -2006,7 +2007,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
 | Língjiè Zhànxiàn | 127189 | [127189-lingjie-zhanxian.json](./127189-lingjie-zhanxian.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
+| Lingo Deluxe | 327319 | [327319-lingo-deluxe.json](./327319-lingo-deluxe.json) |
 | Lingo Legend | 198258 | [198258-lingo-legend.json](./198258-lingo-legend.json) |
+| Lingo met Lucille Werner | 327317 | [327317-lingo-met-lucille-werner.json](./327317-lingo-met-lucille-werner.json) |
+| Lingo voor Kinderen | 327318 | [327318-lingo-voor-kinderen.json](./327318-lingo-voor-kinderen.json) |
 | LingoRogue | 356296 | [356296-lingorogue.json](./356296-lingorogue.json) |
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
 | Lingua Fleur: Lily | 112700 | [112700-lingua-fleur-lily.json](./112700-lingua-fleur-lily.json) |
@@ -2335,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet 3: Line Infantry Costume | 322201 | [322201-littlebigplanet-3-line-infantry-costume.json](./322201-littlebigplanet-3-line-infantry-costume.json) |
 | LittleBigPlanet 3: Monkey King Costume | 322206 | [322206-littlebigplanet-3-monkey-king-costume.json](./322206-littlebigplanet-3-monkey-king-costume.json) |
 | LittleBigPlanet 3: Octodad - Dadliest Catch Costume | 320957 | [320957-littlebigplanet-3-octodad-dadliest-catch-costume.json](./320957-littlebigplanet-3-octodad-dadliest-catch-costume.json) |
+| Littlebigplanet 3: Renaissance Costume | 327314 | [327314-littlebigplanet-3-renaissance-costume.json](./327314-littlebigplanet-3-renaissance-costume.json) |
 | LittleBigPlanet 3: Santa Hat And Beard Costume | 322203 | [322203-littlebigplanet-3-santa-hat-and-beard-costume.json](./322203-littlebigplanet-3-santa-hat-and-beard-costume.json) |
 | LittleBigPlanet 3: Sumo Wrestler Costume | 322205 | [322205-littlebigplanet-3-sumo-wrestler-costume.json](./322205-littlebigplanet-3-sumo-wrestler-costume.json) |
 | LittleBigPlanet HUB | 77349 | [77349-littlebigplanet-hub.json](./77349-littlebigplanet-hub.json) |
@@ -2523,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked Heart | 183441 | [183441-locked-heart.json](./183441-locked-heart.json) |
 | Locked in a Room While: Visiting an Old Castle | 288922 | [288922-locked-in-a-room-while-visiting-an-old-castle.json](./288922-locked-in-a-room-while-visiting-an-old-castle.json) |
 | Locked in Love: The Office | 407465 | [407465-locked-in-love-the-office.json](./407465-locked-in-love-the-office.json) |
+| Locked in my Darkness 2: The Room | 327368 | [327368-locked-in-my-darkness-2-the-room.json](./327368-locked-in-my-darkness-2-the-room.json) |
 | Locked In VR | 30342 | [30342-locked-in-vr.json](./30342-locked-in-vr.json) |
 | Locked Inside: Rebirth | 177396 | [177396-locked-inside-rebirth.json](./177396-locked-inside-rebirth.json) |
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
@@ -2740,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loony Labyrinth | 122307 | [122307-loony-labyrinth.json](./122307-loony-labyrinth.json) |
 | Loop | 157568 | [157568-loop.json](./157568-loop.json) |
 | Loop | 279011 | [279011-loop.json](./279011-loop.json) |
+| Loop | 327298 | [327298-loop.json](./327298-loop.json) |
 | Loop | 405702 | [405702-loop.json](./405702-loop.json) |
 | Loop Dungeon | 248321 | [248321-loop-dungeon.json](./248321-loop-dungeon.json) |
 | Loop Firefighters | 388362 | [388362-loop-firefighters.json](./388362-loop-firefighters.json) |
