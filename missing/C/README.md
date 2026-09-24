@@ -3313,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Country | 191157 | [191157-city-country.json](./191157-city-country.json) |
 | City Defense | 221999 | [221999-city-defense.json](./221999-city-defense.json) |
 | City Destructor | 132442 | [132442-city-destructor.json](./132442-city-destructor.json) |
+| City Driver: Police Parking Simulator | 316196 | [316196-city-driver-police-parking-simulator.json](./316196-city-driver-police-parking-simulator.json) |
 | City Dunk 2 | 220298 | [220298-city-dunk-2.json](./220298-city-dunk-2.json) |
 | City Explorer: Seattle | 88166 | [88166-city-explorer-seattle.json](./88166-city-explorer-seattle.json) |
 | City Extreme Driving Collection | 328538 | [328538-city-extreme-driving-collection.json](./328538-city-extreme-driving-collection.json) |
@@ -5152,7 +5153,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Academy 2: World Cuisine | 208483 | [208483-cooking-academy-2-world-cuisine.json](./208483-cooking-academy-2-world-cuisine.json) |
 | Cooking Academy Fire and Knives | 17826 | [17826-cooking-academy-fire-and-knives.json](./17826-cooking-academy-fire-and-knives.json) |
 | Cooking Arena | 259586 | [259586-cooking-arena.json](./259586-cooking-arena.json) |
+| Cooking Arena Breakfast Bonanza | 316197 | [316197-cooking-arena-breakfast-bonanza.json](./316197-cooking-arena-breakfast-bonanza.json) |
 | Cooking Arena Culinary Legends | 385177 | [385177-cooking-arena-culinary-legends.json](./385177-cooking-arena-culinary-legends.json) |
+| Cooking Arena Pancake Paradise | 316198 | [316198-cooking-arena-pancake-paradise.json](./316198-cooking-arena-pancake-paradise.json) |
 | Cooking Arena World Tour Edition | 385196 | [385196-cooking-arena-world-tour-edition.json](./385196-cooking-arena-world-tour-edition.json) |
 | Cooking Arena: 3 in 1 Edition | 283176 | [283176-cooking-arena-3-in-1-edition.json](./283176-cooking-arena-3-in-1-edition.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
