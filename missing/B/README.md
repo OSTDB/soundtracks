@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biblios: Tome of Darkness | 306343 | [306343-biblios-tome-of-darkness.json](./306343-biblios-tome-of-darkness.json) |
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
+| Bic's Christmas Tale | 317344 | [317344-bics-christmas-tale.json](./317344-bics-christmas-tale.json) |
 | Bicho | 223474 | [223474-bicho.json](./223474-bicho.json) |
 | Bickadoodle | 185088 | [185088-bickadoodle.json](./185088-bickadoodle.json) |
 | Bicolor | 208385 | [208385-bicolor.json](./208385-bicolor.json) |
@@ -4829,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomy the Cat | 58784 | [58784-boomy-the-cat.json](./58784-boomy-the-cat.json) |
 | Boon Blast | 86779 | [86779-boon-blast.json](./86779-boon-blast.json) |
 | Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
+| Boonka | 317386 | [317386-boonka.json](./317386-boonka.json) |
 | Booooooooooooooounce | 163817 | [163817-booooooooooooooounce.json](./163817-booooooooooooooounce.json) |
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
 | Boopa Zap | 93550 | [93550-boopa-zap.json](./93550-boopa-zap.json) |
