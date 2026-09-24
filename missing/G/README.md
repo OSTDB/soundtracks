@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girauden Strike Force | 156535 | [156535-girauden-strike-force.json](./156535-girauden-strike-force.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girder & Hearts: Reel Romance | 364500 | [364500-girder-and-hearts-reel-romance.json](./364500-girder-and-hearts-reel-romance.json) |
+| Giresun | 293704 | [293704-giresun.json](./293704-giresun.json) |
 | Giri-Jump Star Rush | 411134 | [411134-giri-jump-star-rush.json](./411134-giri-jump-star-rush.json) |
 | Girl & Gem Magic | 367022 | [367022-girl-and-gem-magic.json](./367022-girl-and-gem-magic.json) |
 | Girl & Scarecrow | 404331 | [404331-girl-and-scarecrow.json](./404331-girl-and-scarecrow.json) |
