@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Bot | 347879 | [347879-warp-bot.json](./347879-warp-bot.json) |
 | Warp Cinema | 321600 | [321600-warp-cinema.json](./321600-warp-cinema.json) |
 | Warp Commander | 360673 | [360673-warp-commander.json](./360673-warp-commander.json) |
+| Warp Defender | 290984 | [290984-warp-defender.json](./290984-warp-defender.json) |
 | Warp Knights | 391891 | [391891-warp-knights.json](./391891-warp-knights.json) |
 | Warp Lab | 212896 | [212896-warp-lab.json](./212896-warp-lab.json) |
 | Warp League Basketball | 81238 | [81238-warp-league-basketball.json](./81238-warp-league-basketball.json) |
@@ -1283,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werner Waffenwerke: Arms Tycoon | 322606 | [322606-werner-waffenwerke-arms-tycoon.json](./322606-werner-waffenwerke-arms-tycoon.json) |
 | Werner: Let's Go! | 269305 | [269305-werner-lets-go.json](./269305-werner-lets-go.json) |
 | Werthit | 342888 | [342888-werthit.json](./342888-werthit.json) |
+| Wes Craven's Principles of Fear | 291017 | [291017-wes-cravens-principles-of-fear.json](./291017-wes-cravens-principles-of-fear.json) |
 | West Alien Train | 308361 | [308361-west-alien-train.json](./308361-west-alien-train.json) |
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
