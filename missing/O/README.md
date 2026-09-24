@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Death | 115696 | [115696-once-upon-a-death.json](./115696-once-upon-a-death.json) |
 | Once upon a Dungeon II | 226727 | [226727-once-upon-a-dungeon-ii.json](./226727-once-upon-a-dungeon-ii.json) |
 | Once Upon a Dungeon: Infinity | 327951 | [327951-once-upon-a-dungeon-infinity.json](./327951-once-upon-a-dungeon-infinity.json) |
+| Once Upon a Galaxy | 305262 | [305262-once-upon-a-galaxy.json](./305262-once-upon-a-galaxy.json) |
 | Once Upon a Jester | 159553 | [159553-once-upon-a-jester.json](./159553-once-upon-a-jester.json) |
 | Once Upon a Katamari | 358526 | [358526-once-upon-a-katamari.json](./358526-once-upon-a-katamari.json) |
 | Once Upon a Katamari: Katamari Damacy Series Dance Dance Remixes | 377265 | [377265-once-upon-a-katamari-katamari-damacy-series-dance-dance-remixes.json](./377265-once-upon-a-katamari-katamari-damacy-series-dance-dance-remixes.json) |
