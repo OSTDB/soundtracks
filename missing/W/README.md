@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Travelers | 356730 | [356730-wasteland-travelers.json](./356730-wasteland-travelers.json) |
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
+| Wasure Yuki | 283804 | [283804-wasure-yuki.json](./283804-wasure-yuki.json) |
 | Wat A Life | 129023 | [129023-wat-a-life.json](./129023-wat-a-life.json) |
 | Wat? | 244277 | [244277-wat.json](./244277-wat.json) |
 | Wataju: My Super Fulfilling Real Life | 216786 | [216786-wataju-my-super-fulfilling-real-life.json](./216786-wataju-my-super-fulfilling-real-life.json) |
