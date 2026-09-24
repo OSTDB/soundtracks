@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
 | Tekken 8: Clive Rosfield | 325597 | [325597-tekken-8-clive-rosfield.json](./325597-tekken-8-clive-rosfield.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
+| Tekken 8: Heihachi Mishima | 310523 | [310523-tekken-8-heihachi-mishima.json](./310523-tekken-8-heihachi-mishima.json) |
 | Tekken 8: Hibiscus Pack | 317357 | [317357-tekken-8-hibiscus-pack.json](./317357-tekken-8-hibiscus-pack.json) |
 | Tekken 8: Launch Edition | 283759 | [283759-tekken-8-launch-edition.json](./283759-tekken-8-launch-edition.json) |
 | Tekken 8: Miary Zo | 374185 | [374185-tekken-8-miary-zo.json](./374185-tekken-8-miary-zo.json) |
@@ -1413,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TekSkeleton | 287242 | [287242-tekskeleton.json](./287242-tekskeleton.json) |
 | Tektonik | 63234 | [63234-tektonik.json](./63234-tektonik.json) |
 | Teku | 274499 | [274499-teku.json](./274499-teku.json) |
+| TelAIphone | 310508 | [310508-telaiphone.json](./310508-telaiphone.json) |
 | Tele-Doodle | 220125 | [220125-tele-doodle.json](./220125-tele-doodle.json) |
 | Tele-Shibai Wii | 64427 | [64427-tele-shibai-wii.json](./64427-tele-shibai-wii.json) |
 | Telealiens | 333183 | [333183-telealiens.json](./333183-telealiens.json) |
@@ -2348,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backyardigans: Big Backyard Adventure | 326585 | [326585-the-backyardigans-big-backyard-adventure.json](./326585-the-backyardigans-big-backyard-adventure.json) |
 | The Backyardigans: Viking Voyage | 72998 | [72998-the-backyardigans-viking-voyage.json](./72998-the-backyardigans-viking-voyage.json) |
 | The Baconing | 2251 | [2251-the-baconing.json](./2251-the-baconing.json) |
+| The Bad Boy's Cars | 310504 | [310504-the-bad-boys-cars.json](./310504-the-bad-boys-cars.json) |
 | The Bad Gravedigger | 104073 | [104073-the-bad-gravedigger.json](./104073-the-bad-gravedigger.json) |
 | The Bad Son | 192888 | [192888-the-bad-son.json](./192888-the-bad-son.json) |
 | The Baker of Shireton | 59683 | [59683-the-baker-of-shireton.json](./59683-the-baker-of-shireton.json) |
@@ -3447,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Executioner | 89375 | [89375-the-executioner.json](./89375-the-executioner.json) |
 | The Executioner: Prologue | 51993 | [51993-the-executioner-prologue.json](./51993-the-executioner-prologue.json) |
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
+| The Exit 8 VR | 310522 | [310522-the-exit-8-vr.json](./310522-the-exit-8-vr.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Exomachinist | 153930 | [153930-the-exomachinist.json](./153930-the-exomachinist.json) |
 | The Exorcist: Legion VR | 72420 | [72420-the-exorcist-legion-vr.json](./72420-the-exorcist-legion-vr.json) |
@@ -4073,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
 | The House of Da Vinci | 39749 | [39749-the-house-of-da-vinci.json](./39749-the-house-of-da-vinci.json) |
+| The House of Da Vinci Complete Bundle | 310498 | [310498-the-house-of-da-vinci-complete-bundle.json](./310498-the-house-of-da-vinci-complete-bundle.json) |
 | The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
 | The House of Hikmah | 380426 | [380426-the-house-of-hikmah.json](./380426-the-house-of-hikmah.json) |
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
@@ -8670,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
 | Timeless Paradox VR | 133200 | [133200-timeless-paradox-vr.json](./133200-timeless-paradox-vr.json) |
 | Timeless Solitaire Collection | 372476 | [372476-timeless-solitaire-collection.json](./372476-timeless-solitaire-collection.json) |
+| Timeless Tesseract | 310497 | [310497-timeless-tesseract.json](./310497-timeless-tesseract.json) |
 | Timeless Valley | 333593 | [333593-timeless-valley.json](./333593-timeless-valley.json) |
 | Timeless: The Forgotten Town | 44597 | [44597-timeless-the-forgotten-town.json](./44597-timeless-the-forgotten-town.json) |
 | Timelie | 122385 | [122385-timelie.json](./122385-timelie.json) |
@@ -11928,6 +11934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
 | Turbo Overkill | 172024 | [172024-turbo-overkill.json](./172024-turbo-overkill.json) |
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
+| Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
 | Turbo Skiddy Racing | 146848 | [146848-turbo-skiddy-racing.json](./146848-turbo-skiddy-racing.json) |
 | Turbo Sliders Unlimited | 188595 | [188595-turbo-sliders-unlimited.json](./188595-turbo-sliders-unlimited.json) |
@@ -12100,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
 | Twilight's Folclore | 374180 | [374180-twilights-folclore.json](./374180-twilights-folclore.json) |
 | Twilight's Ransom | 12805 | [12805-twilights-ransom.json](./12805-twilights-ransom.json) |
+| Twin | 310512 | [310512-twin.json](./310512-twin.json) |
 | Twin Balls | 160247 | [160247-twin-balls.json](./160247-twin-balls.json) |
 | Twin Balls Journey | 390227 | [390227-twin-balls-journey.json](./390227-twin-balls-journey.json) |
 | Twin Bill | 130868 | [130868-twin-bill.json](./130868-twin-bill.json) |
