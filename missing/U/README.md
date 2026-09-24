@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Mortal Kombat 3 | 1621 | [1621-ultimate-mortal-kombat-3.json](./1621-ultimate-mortal-kombat-3.json) |
 | Ultimate Mortal Kombat 3 | 283814 | [283814-ultimate-mortal-kombat-3.json](./283814-ultimate-mortal-kombat-3.json) |
 | Ultimate Mortal Kombat 3 | 286690 | [286690-ultimate-mortal-kombat-3.json](./286690-ultimate-mortal-kombat-3.json) |
+| Ultimate Moto Bike Simulator | 283221 | [283221-ultimate-moto-bike-simulator.json](./283221-ultimate-moto-bike-simulator.json) |
 | Ultimate MotoCross 4 | 227948 | [227948-ultimate-motocross-4.json](./227948-ultimate-motocross-4.json) |
 | Ultimate Motorcycle Simulator | 100826 | [100826-ultimate-motorcycle-simulator.json](./100826-ultimate-motorcycle-simulator.json) |
 | Ultimate Ninja: Ninja King | 99410 | [99410-ultimate-ninja-ninja-king.json](./99410-ultimate-ninja-ninja-king.json) |
@@ -1412,4 +1413,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uzzuzzu My Pet: Golf Dash - Magnificent Edition | 328815 | [328815-uzzuzzu-my-pet-golf-dash-magnificent-edition.json](./328815-uzzuzzu-my-pet-golf-dash-magnificent-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Platinum Edition | 328816 | [328816-uzzuzzu-my-pet-golf-dash-platinum-edition.json](./328816-uzzuzzu-my-pet-golf-dash-platinum-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Superb Edition | 328817 | [328817-uzzuzzu-my-pet-golf-dash-superb-edition.json](./328817-uzzuzzu-my-pet-golf-dash-superb-edition.json) |
+| Uzzuzzu My Pet: Golf Dash - Ta's Challenge | 283230 | [283230-uzzuzzu-my-pet-golf-dash-tas-challenge.json](./283230-uzzuzzu-my-pet-golf-dash-tas-challenge.json) |
+| Uzzuzzu My Pet: Golf Dash - Tary's Challenge | 283229 | [283229-uzzuzzu-my-pet-golf-dash-tarys-challenge.json](./283229-uzzuzzu-my-pet-golf-dash-tarys-challenge.json) |
 | Uzzuzzu My Pet: Golf Dash - Ultimate Edition | 287123 | [287123-uzzuzzu-my-pet-golf-dash-ultimate-edition.json](./287123-uzzuzzu-my-pet-golf-dash-ultimate-edition.json) |
