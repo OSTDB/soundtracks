@@ -5526,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla X Year of Shadow Launch | 342153 | [342153-brawlhalla-x-year-of-shadow-launch.json](./342153-brawlhalla-x-year-of-shadow-launch.json) |
 | Brawlhalla: Autumn Championship 2018 Pack | 342628 | [342628-brawlhalla-autumn-championship-2018-pack.json](./342628-brawlhalla-autumn-championship-2018-pack.json) |
 | Brawlhalla: BCX 2023 Pack | 274586 | [274586-brawlhalla-bcx-2023-pack.json](./274586-brawlhalla-bcx-2023-pack.json) |
+| Brawlhalla: Bonus Pack 12 | 305851 | [305851-brawlhalla-bonus-pack-12.json](./305851-brawlhalla-bonus-pack-12.json) |
 | Brawlhalla: Bonus Pack 13 | 313245 | [313245-brawlhalla-bonus-pack-13.json](./313245-brawlhalla-bonus-pack-13.json) |
 | Brawlhalla: Bonus Pack 14 | 316624 | [316624-brawlhalla-bonus-pack-14.json](./316624-brawlhalla-bonus-pack-14.json) |
 | Brawlhalla: Bonus Pack 16 | 327316 | [327316-brawlhalla-bonus-pack-16.json](./327316-brawlhalla-bonus-pack-16.json) |
@@ -5822,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Britannic: Patroness of the Mediterranean | 135665 | [135665-britannic-patroness-of-the-mediterranean.json](./135665-britannic-patroness-of-the-mediterranean.json) |
 | Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
+| Britney Spears' Theme Park | 305843 | [305843-britney-spears-theme-park.json](./305843-britney-spears-theme-park.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
 | Brittle Blue | 184591 | [184591-brittle-blue.json](./184591-brittle-blue.json) |
 | Brittle Buildings | 180841 | [180841-brittle-buildings.json](./180841-brittle-buildings.json) |
@@ -6649,6 +6651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
 | Bustafellows | 114536 | [114536-bustafellows.json](./114536-bustafellows.json) |
 | Bustafellows: Collector's Edition | 147251 | [147251-bustafellows-collectors-edition.json](./147251-bustafellows-collectors-edition.json) |
+| Buster Baxter: Lung Defender | 305863 | [305863-buster-baxter-lung-defender.json](./305863-buster-baxter-lung-defender.json) |
 | Buster Block | 47552 | [47552-buster-block.json](./47552-buster-block.json) |
 | Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
 | Buster Jam | 326285 | [326285-buster-jam.json](./326285-buster-jam.json) |
