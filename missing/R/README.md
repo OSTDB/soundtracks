@@ -4498,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruined Kingdom | 235839 | [235839-ruined-kingdom.json](./235839-ruined-kingdom.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
+| Ruins of Endoth | 310000 | [310000-ruins-of-endoth.json](./310000-ruins-of-endoth.json) |
 | Ruins of Majika | 211747 | [211747-ruins-of-majika.json](./211747-ruins-of-majika.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
 | Ruins of Tearyn | 337252 | [337252-ruins-of-tearyn.json](./337252-ruins-of-tearyn.json) |
