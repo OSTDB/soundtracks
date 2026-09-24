@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hundred Ways | 13218 | [13218-one-hundred-ways.json](./13218-one-hundred-ways.json) |
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
+| One Last Adventure | 294808 | [294808-one-last-adventure.json](./294808-one-last-adventure.json) |
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
 | One Last Job | 330258 | [330258-one-last-job.json](./330258-one-last-job.json) |
@@ -998,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Dai Kaizoku Colosseum | 58468 | [58468-one-piece-dai-kaizoku-colosseum.json](./58468-one-piece-dai-kaizoku-colosseum.json) |
 | One Piece: Dai Kaizoku Colosseum | 75835 | [75835-one-piece-dai-kaizoku-colosseum.json](./75835-one-piece-dai-kaizoku-colosseum.json) |
 | One Piece: Dance Battle | 62120 | [62120-one-piece-dance-battle.json](./62120-one-piece-dance-battle.json) |
+| One Piece: Dream Pointer | 294778 | [294778-one-piece-dream-pointer.json](./294778-one-piece-dream-pointer.json) |
 | One Piece: Gigant Battle! | 47818 | [47818-one-piece-gigant-battle.json](./47818-one-piece-gigant-battle.json) |
 | One Piece: Grand Adventure | 4053 | [4053-one-piece-grand-adventure.json](./4053-one-piece-grand-adventure.json) |
 | One Piece: Ocean's Dream! | 75750 | [75750-one-piece-oceans-dream.json](./75750-one-piece-oceans-dream.json) |
