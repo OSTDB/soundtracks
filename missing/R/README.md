@@ -3034,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Out | 373027 | [373027-rise-out.json](./373027-rise-out.json) |
 | Rise to Glory | 92469 | [92469-rise-to-glory.json](./92469-rise-to-glory.json) |
 | Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
+| RiseExplosion | 302433 | [302433-riseexplosion.json](./302433-riseexplosion.json) |
 | Risen | 2444 | [2444-risen.json](./2444-risen.json) |
 | Risen 2: Dark Waters | 3802 | [3802-risen-2-dark-waters.json](./3802-risen-2-dark-waters.json) |
 | Risen 2: Dark Waters - A Pirate's Clothes | 53511 | [53511-risen-2-dark-waters-a-pirates-clothes.json](./53511-risen-2-dark-waters-a-pirates-clothes.json) |
@@ -3584,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Lift | 255178 | [255178-rocket-lift.json](./255178-rocket-lift.json) |
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
+| Rocket Panda | 302425 | [302425-rocket-panda.json](./302425-rocket-panda.json) |
 | Rocket Pinball | 245413 | [245413-rocket-pinball.json](./245413-rocket-pinball.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
 | Rocket Ranger: Emulated Amiga Edition | 154944 | [154944-rocket-ranger-emulated-amiga-edition.json](./154944-rocket-ranger-emulated-amiga-edition.json) |
@@ -4204,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rot Gut | 34656 | [34656-rot-gut.json](./34656-rot-gut.json) |
 | Rot Splatation | 409809 | [409809-rot-splatation.json](./409809-rot-splatation.json) |
 | Rota: Kurofune | 304146 | [304146-rota-kurofune.json](./304146-rota-kurofune.json) |
+| Rota's Nautical Chronicles of Trade | 302446 | [302446-rotas-nautical-chronicles-of-trade.json](./302446-rotas-nautical-chronicles-of-trade.json) |
 | Rota's Nautical Chronicles of Trade: Aname Momo - Collaboration Commemorative Residentization DLC | 329009 | [329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json](./329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json) |
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
 | Rotate It! | 68934 | [68934-rotate-it.json](./68934-rotate-it.json) |
