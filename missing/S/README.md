@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Princess? Save a Fart! | 405464 | [405464-save-the-princess-save-a-fart.json](./405464-save-the-princess-save-a-fart.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save the Reactor | 190174 | [190174-save-the-reactor.json](./190174-save-the-reactor.json) |
+| Save the Villainess | 287728 | [287728-save-the-villainess.json](./287728-save-the-villainess.json) |
 | Save the Villy | 101389 | [101389-save-the-villy.json](./101389-save-the-villy.json) |
 | Save the Whales | 22762 | [22762-save-the-whales.json](./22762-save-the-whales.json) |
 | Save Them | 106536 | [106536-save-them.json](./106536-save-them.json) |
@@ -1271,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scout Search | 70098 | [70098-scout-search.json](./70098-scout-search.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
+| SCP | 287738 | [287738-scp.json](./287738-scp.json) |
 | SCP 173 - Nightshift Survival Breach Containment | 102739 | [102739-scp-173-nightshift-survival-breach-containment.json](./102739-scp-173-nightshift-survival-breach-containment.json) |
 | SCP 3008 | 231390 | [231390-scp-3008.json](./231390-scp-3008.json) |
 | SCP Area 8 | 82390 | [82390-scp-area-8.json](./82390-scp-area-8.json) |
@@ -3432,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shokutte Night | 97844 | [97844-shokutte-night.json](./97844-shokutte-night.json) |
 | Shonen Jump's One Piece | 75755 | [75755-shonen-jumps-one-piece.json](./75755-shonen-jumps-one-piece.json) |
 | Shoni Island | 306422 | [306422-shoni-island.json](./306422-shoni-island.json) |
+| Shoomer Booter | 287717 | [287717-shoomer-booter.json](./287717-shoomer-booter.json) |
 | Shooper Nova | 296512 | [296512-shooper-nova.json](./296512-shooper-nova.json) |
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
 | Shoot 8 Ball: Billiards Pool8 | 231902 | [231902-shoot-8-ball-billiards-pool8.json](./231902-shoot-8-ball-billiards-pool8.json) |
@@ -3572,6 +3575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
+| Shotengai 10 | 287716 | [287716-shotengai-10.json](./287716-shotengai-10.json) |
 | Shotgun Angelic | 183428 | [183428-shotgun-angelic.json](./183428-shotgun-angelic.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
 | Shotgun Cop Man | 332568 | [332568-shotgun-cop-man.json](./332568-shotgun-cop-man.json) |
@@ -13048,6 +13052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surv: Last Survival | 105791 | [105791-surv-last-survival.json](./105791-surv-last-survival.json) |
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
+| Surveillance Simulator | 287736 | [287736-surveillance-simulator.json](./287736-surveillance-simulator.json) |
 | Survial | 274577 | [274577-survial.json](./274577-survial.json) |
 | SurviBall | 339473 | [339473-surviball.json](./339473-surviball.json) |
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
