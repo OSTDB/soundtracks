@@ -2010,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Kittens 7: Cookie Town | 379970 | [379970-find-kittens-7-cookie-town.json](./379970-find-kittens-7-cookie-town.json) |
 | Find Kittens 8: Happy New Year | 379381 | [379381-find-kittens-8-happy-new-year.json](./379381-find-kittens-8-happy-new-year.json) |
 | Find Kittens 9: Aliens | 386690 | [386690-find-kittens-9-aliens.json](./386690-find-kittens-9-aliens.json) |
+| Find Kittens: The Last of Cats | 295868 | [295868-find-kittens-the-last-of-cats.json](./295868-find-kittens-the-last-of-cats.json) |
 | Find Love or Die Trying: Til Death Do Us Part | 336039 | [336039-find-love-or-die-trying-til-death-do-us-part.json](./336039-find-love-or-die-trying-til-death-do-us-part.json) |
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
@@ -3095,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow | 315530 | [315530-flow.json](./315530-flow.json) |
 | Flow | 395829 | [395829-flow.json](./395829-flow.json) |
 | Flow Dot | 105328 | [105328-flow-dot.json](./105328-flow-dot.json) |
+| Flow Factory | 295835 | [295835-flow-factory.json](./295835-flow-factory.json) |
 | Flow Fox | 307907 | [307907-flow-fox.json](./307907-flow-fox.json) |
 | Flow Free | 109184 | [109184-flow-free.json](./109184-flow-free.json) |
 | Flow Free: Bridges | 99393 | [99393-flow-free-bridges.json](./99393-flow-free-bridges.json) |
@@ -3820,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Denizen | 395004 | [395004-forsaken-denizen.json](./395004-forsaken-denizen.json) |
 | Forsaken Isle | 35819 | [35819-forsaken-isle.json](./35819-forsaken-isle.json) |
+| Forsaken Isles: Xenia's Defense | 295836 | [295836-forsaken-isles-xenias-defense.json](./295836-forsaken-isles-xenias-defense.json) |
 | Forsaken Kingdom | 391853 | [391853-forsaken-kingdom.json](./391853-forsaken-kingdom.json) |
 | Forsaken Ones | 288353 | [288353-forsaken-ones.json](./288353-forsaken-ones.json) |
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
@@ -4069,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
+| Fowl Swarm | 295837 | [295837-fowl-swarm.json](./295837-fowl-swarm.json) |
 | Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
 | Fox Adventure: Homeward Journey | 253439 | [253439-fox-adventure-homeward-journey.json](./253439-fox-adventure-homeward-journey.json) |
 | Fox and Bunny | 117780 | [117780-fox-and-bunny.json](./117780-fox-and-bunny.json) |
@@ -4383,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy Freak Fantasy | 370198 | [370198-frenzy-freak-fantasy.json](./370198-frenzy-freak-fantasy.json) |
 | Frenzy Plants | 122187 | [122187-frenzy-plants.json](./122187-frenzy-plants.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
+| Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
 | Fresh Tracks Snowboarding | 344907 | [344907-fresh-tracks-snowboarding.json](./344907-fresh-tracks-snowboarding.json) |
 | Fresh Tracks VR | 380569 | [380569-fresh-tracks-vr.json](./380569-fresh-tracks-vr.json) |
 | FreshWomen: Season 3 | 411674 | [411674-freshwomen-season-3.json](./411674-freshwomen-season-3.json) |
