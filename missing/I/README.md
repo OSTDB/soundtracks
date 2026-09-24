@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Don't Belong | 186159 | [186159-i-dont-belong.json](./186159-i-dont-belong.json) |
 | I Don't Know How to Have Hotpot Alone | 129601 | [129601-i-dont-know-how-to-have-hotpot-alone.json](./129601-i-dont-know-how-to-have-hotpot-alone.json) |
 | I dream of you and ice cream | 135654 | [135654-i-dream-of-you-and-ice-cream.json](./135654-i-dream-of-you-and-ice-cream.json) |
+| I Drink Sorrel Coffee to Reboot Reality, but I’m Being Hunted by Monster Girls and Armed Agents | 334284 | [334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json](./334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json) |
 | I Eat Paintings When Guards Aren't Looking | 394506 | [394506-i-eat-paintings-when-guards-arent-looking.json](./394506-i-eat-paintings-when-guards-arent-looking.json) |
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
 | I Fell in Love with the Mentally Unstable Depressed Goth on Campus | 410903 | [410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json](./410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json) |
