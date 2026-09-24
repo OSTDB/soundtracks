@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhappening | 397909 | [397909-unhappening.json](./397909-unhappening.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
 | Unheard: The Lethal Script | 228720 | [228720-unheard-the-lethal-script.json](./228720-unheard-the-lethal-script.json) |
+| Unheroic Misfits | 286068 | [286068-unheroic-misfits.json](./286068-unheroic-misfits.json) |
 | Unhinged | 144979 | [144979-unhinged.json](./144979-unhinged.json) |
 | Unhinged 2 | 245864 | [245864-unhinged-2.json](./245864-unhinged-2.json) |
 | Unhold | 407330 | [407330-unhold.json](./407330-unhold.json) |
@@ -985,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlucky Mummy | 401627 | [401627-unlucky-mummy.json](./401627-unlucky-mummy.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | UnMarked | 185078 | [185078-unmarked.json](./185078-unmarked.json) |
+| Unmasked: An Inner Journey | 286041 | [286041-unmasked-an-inner-journey.json](./286041-unmasked-an-inner-journey.json) |
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
 | Unmatched: Digital Edition | 171477 | [171477-unmatched-digital-edition.json](./171477-unmatched-digital-edition.json) |
 | Unmatched: Digital Edition - Bigfoot | 248717 | [248717-unmatched-digital-edition-bigfoot.json](./248717-unmatched-digital-edition-bigfoot.json) |
