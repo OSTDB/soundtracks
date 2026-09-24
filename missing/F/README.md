@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Forest | 372473 | [372473-fantasy-forest.json](./372473-fantasy-forest.json) |
 | Fantasy Forest Solitaire | 386128 | [386128-fantasy-forest-solitaire.json](./386128-fantasy-forest-solitaire.json) |
 | Fantasy Friends | 138035 | [138035-fantasy-friends.json](./138035-fantasy-friends.json) |
+| Fantasy Friends: Dream Worlds | 314998 | [314998-fantasy-friends-dream-worlds.json](./314998-fantasy-friends-dream-worlds.json) |
 | Fantasy Games | 319578 | [319578-fantasy-games.json](./319578-fantasy-games.json) |
 | Fantasy General | 14417 | [14417-fantasy-general.json](./14417-fantasy-general.json) |
 | Fantasy General II: Empire Aflame | 154501 | [154501-fantasy-general-ii-empire-aflame.json](./154501-fantasy-general-ii-empire-aflame.json) |
