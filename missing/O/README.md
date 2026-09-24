@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ode to Heroes | 137645 | [137645-ode-to-heroes.json](./137645-ode-to-heroes.json) |
 | Ode to My Hometown's Craft Fair | 176461 | [176461-ode-to-my-hometowns-craft-fair.json](./176461-ode-to-my-hometowns-craft-fair.json) |
 | Odekake Takorin: Choigae | 222527 | [222527-odekake-takorin-choigae.json](./222527-odekake-takorin-choigae.json) |
+| Oden | 334857 | [334857-oden.json](./334857-oden.json) |
 | Oden Cart 2: A Taste of Time | 159289 | [159289-oden-cart-2-a-taste-of-time.json](./159289-oden-cart-2-a-taste-of-time.json) |
 | Oden Cart: A Heartwarming Tale | 159288 | [159288-oden-cart-a-heartwarming-tale.json](./159288-oden-cart-a-heartwarming-tale.json) |
 | Oden-kun Tamagotchi | 229963 | [229963-oden-kun-tamagotchi.json](./229963-oden-kun-tamagotchi.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overload Playable Teaser | 90591 | [90591-overload-playable-teaser.json](./90591-overload-playable-teaser.json) |
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
+| Overlooting | 334898 | [334898-overlooting.json](./334898-overlooting.json) |
 | Overlord: Dark Legend | 47 | [47-overlord-dark-legend.json](./47-overlord-dark-legend.json) |
 | Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
 | Overlord's Odyssey | 223979 | [223979-overlords-odyssey.json](./223979-overlords-odyssey.json) |
