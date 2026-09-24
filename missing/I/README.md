@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imugi | 158676 | [158676-imugi.json](./158676-imugi.json) |
 | Imvi: Echoes of Harmony | 340748 | [340748-imvi-echoes-of-harmony.json](./340748-imvi-echoes-of-harmony.json) |
 | IMVU | 98279 | [98279-imvu.json](./98279-imvu.json) |
+| In a Barrel | 329076 | [329076-in-a-barrel.json](./329076-in-a-barrel.json) |
 | In A Dark Cave | 179175 | [179175-in-a-dark-cave.json](./179175-in-a-dark-cave.json) |
 | In a search of a new home | 133407 | [133407-in-a-search-of-a-new-home.json](./133407-in-a-search-of-a-new-home.json) |
 | In Another World with My Smartphone: Fantasia Connect | 403148 | [403148-in-another-world-with-my-smartphone-fantasia-connect.json](./403148-in-another-world-with-my-smartphone-fantasia-connect.json) |
