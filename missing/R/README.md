@@ -4085,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope Heroes : Hole Runner Game | 108441 | [108441-rope-heroes-hole-runner-game.json](./108441-rope-heroes-hole-runner-game.json) |
 | Rope Rescue | 65772 | [65772-rope-rescue.json](./65772-rope-rescue.json) |
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
+| Rope'n'Fly 3: Dusk Till Dawn | 330934 | [330934-ropenfly-3-dusk-till-dawn.json](./330934-ropenfly-3-dusk-till-dawn.json) |
 | Rope'n'Fly 4 | 288879 | [288879-ropenfly-4.json](./288879-ropenfly-4.json) |
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
 | Ropes and Dragons VR | 29901 | [29901-ropes-and-dragons-vr.json](./29901-ropes-and-dragons-vr.json) |
