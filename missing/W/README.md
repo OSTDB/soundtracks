@@ -2180,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winglet | 299172 | [299172-winglet.json](./299172-winglet.json) |
 | WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
 | Wingmen | 349940 | [349940-wingmen.json](./349940-wingmen.json) |
+| Wings | 282664 | [282664-wings.json](./282664-wings.json) |
 | Wings | 5450 | [5450-wings.json](./5450-wings.json) |
 | Wings 1941 | 203571 | [203571-wings-1941.json](./203571-wings-1941.json) |
 | Wings 2 | 95474 | [95474-wings-2.json](./95474-wings-2.json) |
