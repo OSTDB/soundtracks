@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
 | Savant: Ascent Remix | 261364 | [261364-savant-ascent-remix.json](./261364-savant-ascent-remix.json) |
 | Save 2B Young Man | 367009 | [367009-save-2b-young-man.json](./367009-save-2b-young-man.json) |
+| Save Christmas With Santa | 325010 | [325010-save-christmas-with-santa.json](./325010-save-christmas-with-santa.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
 | Save daddy trump 2: The Final Triumph | 142234 | [142234-save-daddy-trump-2-the-final-triumph.json](./142234-save-daddy-trump-2-the-final-triumph.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred Off | 331955 | [331955-shred-off.json](./331955-shred-off.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
 | Shred! 2 - ft Sam Pilgrim | 104447 | [104447-shred-2-ft-sam-pilgrim.json](./104447-shred-2-ft-sam-pilgrim.json) |
+| Shred! Remastered + Shred! 2 Bundle | 325013 | [325013-shred-remastered-shred-2-bundle.json](./325013-shred-remastered-shred-2-bundle.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
 | Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
 | Shredsauce | 131358 | [131358-shredsauce.json](./131358-shredsauce.json) |
@@ -10605,6 +10607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free | 50176 | [50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json](./50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json) |
 | Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands | 50175 | [50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json](./50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json) |
 | Strong Bad's RhinoFeeder | 135851 | [135851-strong-bads-rhinofeeder.json](./135851-strong-bads-rhinofeeder.json) |
+| Strong Buy Strong Sell | 324994 | [324994-strong-buy-strong-sell.json](./324994-strong-buy-strong-sell.json) |
 | Strong Crab | 384541 | [384541-strong-crab.json](./384541-strong-crab.json) |
 | Strong Moon | 208452 | [208452-strong-moon.json](./208452-strong-moon.json) |
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
