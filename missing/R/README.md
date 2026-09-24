@@ -3236,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Year 1 Pass | 397905 | [397905-roadcraft-year-1-pass.json](./397905-roadcraft-year-1-pass.json) |
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
+| Roads Construction Sim | 312716 | [312716-roads-construction-sim.json](./312716-roads-construction-sim.json) |
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
 | Roads of Rome 3 | 34264 | [34264-roads-of-rome-3.json](./34264-roads-of-rome-3.json) |
 | Roads Yet Traveled | 359048 | [359048-roads-yet-traveled.json](./359048-roads-yet-traveled.json) |
@@ -4651,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes of Magic: Dragon Adventure Pack | 169974 | [169974-runes-of-magic-dragon-adventure-pack.json](./169974-runes-of-magic-dragon-adventure-pack.json) |
 | Runes of the Abyss | 348246 | [348246-runes-of-the-abyss.json](./348246-runes-of-the-abyss.json) |
 | Runes Saga: Puzzle Adventure | 122208 | [122208-runes-saga-puzzle-adventure.json](./122208-runes-saga-puzzle-adventure.json) |
+| Runes: Hidden Objects Puzzle Game | 312686 | [312686-runes-hidden-objects-puzzle-game.json](./312686-runes-hidden-objects-puzzle-game.json) |
 | Runes: The Forgotten Path | 33172 | [33172-runes-the-forgotten-path.json](./33172-runes-the-forgotten-path.json) |
 | RuneScape Quests: One Piercing Note | 108958 | [108958-runescape-quests-one-piercing-note.json](./108958-runescape-quests-one-piercing-note.json) |
 | RuneScape: Dragonwilds | 337712 | [337712-runescape-dragonwilds.json](./337712-runescape-dragonwilds.json) |
