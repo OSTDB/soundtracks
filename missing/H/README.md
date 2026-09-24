@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.A.V.E. Online | 137476 | [137476-h-a-v-e-online.json](./137476-h-a-v-e-online.json) |
 | H.E. | 108252 | [108252-h-e.json](./108252-h-e.json) |
 | H.E.D.Z. - Head Extreme Destruction Zone | 50140 | [50140-h-e-d-z-head-extreme-destruction-zone.json](./50140-h-e-d-z-head-extreme-destruction-zone.json) |
+| H.E.N.T.A.L.K.E.R. | 311098 | [311098-h-e-n-t-a-l-k-e-r.json](./311098-h-e-n-t-a-l-k-e-r.json) |
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
 | H.I.v.C.A.: Human Intelligence vs Computer Algorithm | 311102 | [311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json](./311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json) |
 | H.O.G.S | 296914 | [296914-h-o-g-s.json](./296914-h-o-g-s.json) |
@@ -3920,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Slot Car Racing | 100125 | [100125-hot-wheels-slot-car-racing.json](./100125-hot-wheels-slot-car-racing.json) |
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
 | Hot Wheels Unleashed 2: Mercedes-Benz Pack | 312012 | [312012-hot-wheels-unleashed-2-mercedes-benz-pack.json](./312012-hot-wheels-unleashed-2-mercedes-benz-pack.json) |
+| Hot Wheels Unleashed 2: Old but Gold Pack | 311085 | [311085-hot-wheels-unleashed-2-old-but-gold-pack.json](./311085-hot-wheels-unleashed-2-old-but-gold-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Day One Edition | 252166 | [252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json](./252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Manga Free Pack | 277831 | [277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json](./277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Pure Fire Edition | 252165 | [252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json](./252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json) |
