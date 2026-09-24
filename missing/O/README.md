@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Manager | 403785 | [403785-office-manager.json](./403785-office-manager.json) |
 | Office Nightmare: Chapter 1 | 275131 | [275131-office-nightmare-chapter-1.json](./275131-office-nightmare-chapter-1.json) |
 | Office Novice | 180851 | [180851-office-novice.json](./180851-office-novice.json) |
+| Office Outbreak Savior | 333155 | [333155-office-outbreak-savior.json](./333155-office-outbreak-savior.json) |
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
 | Office Racer | 213045 | [213045-office-racer.json](./213045-office-racer.json) |
 | Office Rivals | 332266 | [332266-office-rivals.json](./332266-office-rivals.json) |
@@ -1135,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Down! | 257379 | [257379-only-down.json](./257379-only-down.json) |
 | Only Drive | 279105 | [279105-only-drive.json](./279105-only-drive.json) |
 | Only Faces Remain | 382917 | [382917-only-faces-remain.json](./382917-only-faces-remain.json) |
+| Only for Gamers | 333191 | [333191-only-for-gamers.json](./333191-only-for-gamers.json) |
 | Only Fortress | 266277 | [266277-only-fortress.json](./266277-only-fortress.json) |
 | Only Girl in High School | 223998 | [223998-only-girl-in-high-school.json](./223998-only-girl-in-high-school.json) |
 | Only Hope: Episode 1 | 170917 | [170917-only-hope-episode-1.json](./170917-only-hope-episode-1.json) |
