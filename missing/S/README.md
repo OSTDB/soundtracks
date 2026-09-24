@@ -2355,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Memory Puzzle: Pool Massage | 319238 | [319238-sexy-memory-puzzle-pool-massage.json](./319238-sexy-memory-puzzle-pool-massage.json) |
 | Sexy Memory Puzzle: Spanking Girls | 248658 | [248658-sexy-memory-puzzle-spanking-girls.json](./248658-sexy-memory-puzzle-spanking-girls.json) |
 | Sexy Mystic Survivors | 199508 | [199508-sexy-mystic-survivors.json](./199508-sexy-mystic-survivors.json) |
+| Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
@@ -3291,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
 | Shockwave Assault | 18705 | [18705-shockwave-assault.json](./18705-shockwave-assault.json) |
 | Shockwave Tetris | 383036 | [383036-shockwave-tetris.json](./383036-shockwave-tetris.json) |
+| Shockwave Triggers | 335466 | [335466-shockwave-triggers.json](./335466-shockwave-triggers.json) |
 | Shockway Rider | 28824 | [28824-shockway-rider.json](./28824-shockway-rider.json) |
 | Shodan Morita Shogi | 38372 | [38372-shodan-morita-shogi.json](./38372-shodan-morita-shogi.json) |
 | Shodankurai Nintei: Shodan Pro Mahjong | 38368 | [38368-shodankurai-nintei-shodan-pro-mahjong.json](./38368-shodankurai-nintei-shodan-pro-mahjong.json) |
@@ -6135,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
 | Solver: The Bank Quest | 71450 | [71450-solver-the-bank-quest.json](./71450-solver-the-bank-quest.json) |
 | Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
+| Solward | 335468 | [335468-solward.json](./335468-solward.json) |
 | Soma Spirits | 400893 | [400893-soma-spirits.json](./400893-soma-spirits.json) |
 | Somari Insanity | 331871 | [331871-somari-insanity.json](./331871-somari-insanity.json) |
 | Somari the Adventurer | 198522 | [198522-somari-the-adventurer.json](./198522-somari-the-adventurer.json) |
