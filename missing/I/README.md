@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Trust My Eyes | 323343 | [323343-i-cant-trust-my-eyes.json](./323343-i-cant-trust-my-eyes.json) |
 | I Cannot Drown | 201154 | [201154-i-cannot-drown.json](./201154-i-cannot-drown.json) |
 | I Cheated on You | 179049 | [179049-i-cheated-on-you.json](./179049-i-cheated-on-you.json) |
+| I Ching | 308885 | [308885-i-ching.json](./308885-i-ching.json) |
 | I Commissioned Some Bees 10 | 224776 | [224776-i-commissioned-some-bees-10.json](./224776-i-commissioned-some-bees-10.json) |
 | I Commissioned Some Bees 13 | 270139 | [270139-i-commissioned-some-bees-13.json](./270139-i-commissioned-some-bees-13.json) |
 | I Commissioned Some Bees 2 | 205245 | [205245-i-commissioned-some-bees-2.json](./205245-i-commissioned-some-bees-2.json) |
