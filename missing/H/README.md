@@ -4384,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Milk Seller | 291467 | [291467-human-milk-seller.json](./291467-human-milk-seller.json) |
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
 | Human Parking Simulator | 363063 | [363063-human-parking-simulator.json](./363063-human-parking-simulator.json) |
+| Human Resource | 295319 | [295319-human-resource.json](./295319-human-resource.json) |
 | Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
 | Human Rocket Person | 111700 | [111700-human-rocket-person.json](./111700-human-rocket-person.json) |
 | Human Upgrade Labs | 298114 | [298114-human-upgrade-labs.json](./298114-human-upgrade-labs.json) |
