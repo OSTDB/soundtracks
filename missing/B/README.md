@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Defense | 380002 | [380002-base-defense.json](./380002-base-defense.json) |
 | Base Defense VR | 167804 | [167804-base-defense-vr.json](./167804-base-defense-vr.json) |
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
+| Base Jumping | 323839 | [323839-base-jumping.json](./323839-base-jumping.json) |
 | Base Raid | 31808 | [31808-base-raid.json](./31808-base-raid.json) |
 | Base Squad 49 | 33026 | [33026-base-squad-49.json](./33026-base-squad-49.json) |
 | Baseball | 11412 | [11412-baseball.json](./11412-baseball.json) |
@@ -1829,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Restaurant | 80924 | [80924-beach-restaurant.json](./80924-beach-restaurant.json) |
 | Beach Rules | 81784 | [81784-beach-rules.json](./81784-beach-rules.json) |
 | Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
+| Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
 | Beach-Head II | 13389 | [13389-beach-head-ii.json](./13389-beach-head-ii.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
@@ -2021,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the House 2 | 71503 | [71503-beat-the-house-2.json](./71503-beat-the-house-2.json) |
 | Beat the Markets | 348262 | [348262-beat-the-markets.json](./348262-beat-the-markets.json) |
 | Beat the Moles | 157023 | [157023-beat-the-moles.json](./157023-beat-the-moles.json) |
+| Beat the Wall | 323848 | [323848-beat-the-wall.json](./323848-beat-the-wall.json) |
 | Beat Them All | 166676 | [166676-beat-them-all.json](./166676-beat-them-all.json) |
 | Beat Them Up: Box Simulator | 234626 | [234626-beat-them-up-box-simulator.json](./234626-beat-them-up-box-simulator.json) |
 | Beat Them Up: Street Fight Band Simulator | 251598 | [251598-beat-them-up-street-fight-band-simulator.json](./251598-beat-them-up-street-fight-band-simulator.json) |
@@ -4318,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMP Puzzle | 217997 | [217997-bmp-puzzle.json](./217997-bmp-puzzle.json) |
 | BMX Backflip King | 255173 | [255173-bmx-backflip-king.json](./255173-bmx-backflip-king.json) |
 | BMX Challenge | 220189 | [220189-bmx-challenge.json](./220189-bmx-challenge.json) |
+| BMX Freestyle | 323850 | [323850-bmx-freestyle.json](./323850-bmx-freestyle.json) |
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
 | BMX Simulator | 11973 | [11973-bmx-simulator.json](./11973-bmx-simulator.json) |
 | BMX Simulator II: Dirt Biking | 47220 | [47220-bmx-simulator-ii-dirt-biking.json](./47220-bmx-simulator-ii-dirt-biking.json) |
@@ -5221,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoysQuest Find the Difference | 363562 | [363562-boysquest-find-the-difference.json](./363562-boysquest-find-the-difference.json) |
 | Boyz Don't Cry | 299725 | [299725-boyz-dont-cry.json](./299725-boyz-dont-cry.json) |
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
+| BP Ultimate Rally Challenge | 323851 | [323851-bp-ultimate-rally-challenge.json](./323851-bp-ultimate-rally-challenge.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
 | BQM: BlockQuest Maker - 1st DLC: Samurai Era | 237970 | [237970-bqm-blockquest-maker-1st-dlc-samurai-era.json](./237970-bqm-blockquest-maker-1st-dlc-samurai-era.json) |
 | BQM: BlockQuest Maker - 2nd DLC: Cyber Century | 237969 | [237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json](./237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json) |
@@ -6256,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
 | Bulls town | 112749 | [112749-bulls-town.json](./112749-bulls-town.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
+| Bullseye! | 323852 | [323852-bullseye.json](./323852-bullseye.json) |
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
 | Bullwagon Business | 278554 | [278554-bullwagon-business.json](./278554-bullwagon-business.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
