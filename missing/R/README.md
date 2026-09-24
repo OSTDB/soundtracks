@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
 | Ridgewood Road | 177397 | [177397-ridgewood-road.json](./177397-ridgewood-road.json) |
+| Ridiculous Glitching | 332639 | [332639-ridiculous-glitching.json](./332639-ridiculous-glitching.json) |
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
 | Riding Champion: Legacy of Rosemond Hill | 64116 | [64116-riding-champion-legacy-of-rosemond-hill.json](./64116-riding-champion-legacy-of-rosemond-hill.json) |
