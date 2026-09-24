@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting girl | 201669 | [201669-shooting-girl.json](./201669-shooting-girl.json) |
 | Shooting Hunter Terrorist | 103155 | [103155-shooting-hunter-terrorist.json](./103155-shooting-hunter-terrorist.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
+| Shooting Range | 325570 | [325570-shooting-range.json](./325570-shooting-range.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
 | Shooting Range Simulator | 309532 | [309532-shooting-range-simulator.json](./309532-shooting-range-simulator.json) |
 | Shooting Sports Gun Club | 99989 | [99989-shooting-sports-gun-club.json](./99989-shooting-sports-gun-club.json) |
@@ -5090,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Car Rivals | 230579 | [230579-slot-car-rivals.json](./230579-slot-car-rivals.json) |
 | Slot Gun | 311124 | [311124-slot-gun.json](./311124-slot-gun.json) |
+| Slot Machine | 325548 | [325548-slot-machine.json](./325548-slot-machine.json) |
 | Slot Machine | 366920 | [366920-slot-machine.json](./366920-slot-machine.json) |
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
@@ -5364,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoots Summer Games | 120795 | [120795-smoots-summer-games.json](./120795-smoots-summer-games.json) |
 | Smoots World Cup Tennis | 24720 | [24720-smoots-world-cup-tennis.json](./24720-smoots-world-cup-tennis.json) |
 | Smoq Games 25 | 396361 | [396361-smoq-games-25.json](./396361-smoq-games-25.json) |
+| Smosh Fighter | 325567 | [325567-smosh-fighter.json](./325567-smosh-fighter.json) |
 | Smove | 58502 | [58502-smove.json](./58502-smove.json) |
 | Smudge Adventure | 282128 | [282128-smudge-adventure.json](./282128-smudge-adventure.json) |
 | Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
@@ -6019,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarmax | 388044 | [388044-solarmax.json](./388044-solarmax.json) |
 | Solarpunk | 194950 | [194950-solarpunk.json](./194950-solarpunk.json) |
 | Solarys The Witch of Fire | 301392 | [301392-solarys-the-witch-of-fire.json](./301392-solarys-the-witch-of-fire.json) |
+| Solasta II | 325589 | [325589-solasta-ii.json](./325589-solasta-ii.json) |
 | Solasta: Crown of the Magister - Inner Strength | 219594 | [219594-solasta-crown-of-the-magister-inner-strength.json](./219594-solasta-crown-of-the-magister-inner-strength.json) |
 | Solasta: Crown of the Magister - Lost Valley | 195735 | [195735-solasta-crown-of-the-magister-lost-valley.json](./195735-solasta-crown-of-the-magister-lost-valley.json) |
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
@@ -8724,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stakes Winner 2 | 39625 | [39625-stakes-winner-2.json](./39625-stakes-winner-2.json) |
 | Stalagflight | 108861 | [108861-stalagflight.json](./108861-stalagflight.json) |
 | Stalcraft | 321393 | [321393-stalcraft.json](./321393-stalcraft.json) |
+| Stalcraft: X - Operations | 325586 | [325586-stalcraft-x-operations.json](./325586-stalcraft-x-operations.json) |
 | Stale Nation | 235762 | [235762-stale-nation.json](./235762-stale-nation.json) |
 | Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
 | Stalin vs. Martians 4 | 117736 | [117736-stalin-vs-martians-4.json](./117736-stalin-vs-martians-4.json) |
@@ -9695,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
 | Steel Ocean | 34752 | [34752-steel-ocean.json](./34752-steel-ocean.json) |
 | Steel Panthers II: Modern Battles - Campaign Disk | 77314 | [77314-steel-panthers-ii-modern-battles-campaign-disk.json](./77314-steel-panthers-ii-modern-battles-campaign-disk.json) |
+| Steel Paws | 325584 | [325584-steel-paws.json](./325584-steel-paws.json) |
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
 | Steel Rain | 34833 | [34833-steel-rain.json](./34833-steel-rain.json) |
 | Steel Rampart | 245951 | [245951-steel-rampart.json](./245951-steel-rampart.json) |
@@ -10227,6 +10233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
+| Stranger Than Heaven | 325599 | [325599-stranger-than-heaven.json](./325599-stranger-than-heaven.json) |
 | Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
 | Stranger Things: Puzzle Tales | 197248 | [197248-stranger-things-puzzle-tales.json](./197248-stranger-things-puzzle-tales.json) |
 | Strangers at Night | 178511 | [178511-strangers-at-night.json](./178511-strangers-at-night.json) |
