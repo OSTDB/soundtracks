@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterloo | 328018 | [328018-waterloo.json](./328018-waterloo.json) |
 | WaterMeasure | 344542 | [344542-watermeasure.json](./344542-watermeasure.json) |
 | Watermelon | 338390 | [338390-watermelon.json](./338390-watermelon.json) |
+| Watermelon (with a Broken Head) Game | 334307 | [334307-watermelon-with-a-broken-head-game.json](./334307-watermelon-with-a-broken-head-game.json) |
 | Watermelon Challenge | 275693 | [275693-watermelon-challenge.json](./275693-watermelon-challenge.json) |
 | Watermelon Game: Fruits Puzzle | 293904 | [293904-watermelon-game-fruits-puzzle.json](./293904-watermelon-game-fruits-puzzle.json) |
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
@@ -2273,7 +2274,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Isis | 82835 | [82835-witch-isis.json](./82835-witch-isis.json) |
 | Witch Island II | 82367 | [82367-witch-island-ii.json](./82367-witch-island-ii.json) |
 | Witch It | 30408 | [30408-witch-it.json](./30408-witch-it.json) |
+| Witch Maker | 334321 | [334321-witch-maker.json](./334321-witch-maker.json) |
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
+| Witch Pachi | 334293 | [334293-witch-pachi.json](./334293-witch-pachi.json) |
 | Witch Play House | 372689 | [372689-witch-play-house.json](./372689-witch-play-house.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
 | Witch Ring Meister | 116867 | [116867-witch-ring-meister.json](./116867-witch-ring-meister.json) |
@@ -2990,6 +2993,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Modern Armor | 296792 | [296792-world-of-tanks-modern-armor.json](./296792-world-of-tanks-modern-armor.json) |
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
 | World of Tanks: Modern Armor - Super Heavy Hitter | 332534 | [332534-world-of-tanks-modern-armor-super-heavy-hitter.json](./332534-world-of-tanks-modern-armor-super-heavy-hitter.json) |
+| World of Tanks: Modern Armor - Tank of the Month: NM 116 Panserjager | 334289 | [334289-world-of-tanks-modern-armor-tank-of-the-month-nm-116-panserjager.json](./334289-world-of-tanks-modern-armor-tank-of-the-month-nm-116-panserjager.json) |
+| World of Tanks: Modern Armor - TMNT Starter Pack | 334290 | [334290-world-of-tanks-modern-armor-tmnt-starter-pack.json](./334290-world-of-tanks-modern-armor-tmnt-starter-pack.json) |
 | World of Tanks: Modern Armor - Warlords Starter Pack | 338220 | [338220-world-of-tanks-modern-armor-warlords-starter-pack.json](./338220-world-of-tanks-modern-armor-warlords-starter-pack.json) |
 | World of Tanks: Modern Jumpstart | 293773 | [293773-world-of-tanks-modern-jumpstart.json](./293773-world-of-tanks-modern-jumpstart.json) |
 | World of Tanks: Roll Out Collector's Edition | 115673 | [115673-world-of-tanks-roll-out-collectors-edition.json](./115673-world-of-tanks-roll-out-collectors-edition.json) |
