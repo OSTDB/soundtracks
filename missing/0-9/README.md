@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Gnomes in Pothia | 383613 | [383613-10-gnomes-in-pothia.json](./383613-10-gnomes-in-pothia.json) |
 | 10 Gnomes in Trstenik | 383643 | [383643-10-gnomes-in-trstenik.json](./383643-10-gnomes-in-trstenik.json) |
 | 10 Gnomes in Venice | 383610 | [383610-10-gnomes-in-venice.json](./383610-10-gnomes-in-venice.json) |
+| 10 in 1 games Bundle | 284955 | [284955-10-in-1-games-bundle.json](./284955-10-in-1-games-bundle.json) |
 | 10 Minute Barbarian | 34776 | [34776-10-minute-barbarian.json](./34776-10-minute-barbarian.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
