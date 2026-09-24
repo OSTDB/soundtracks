@@ -968,6 +968,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daughter of Serpents | 12416 | [12416-daughter-of-serpents.json](./12416-daughter-of-serpents.json) |
 | Daughter of Shadows: An SCP Breach Event | 33300 | [33300-daughter-of-shadows-an-scp-breach-event.json](./33300-daughter-of-shadows-an-scp-breach-event.json) |
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
+| Daughters of the Stars | 283819 | [283819-daughters-of-the-stars.json](./283819-daughters-of-the-stars.json) |
+| Daughters of the Stars Episode 1: When A Star Burns Out, A Flower Blooms | 283821 | [283821-daughters-of-the-stars-episode-1-when-a-star-burns-out-a-flower-blooms.json](./283821-daughters-of-the-stars-episode-1-when-a-star-burns-out-a-flower-blooms.json) |
+| Daughters of the Stars Episode 2: Face the Setting Sun: A Fierce Flower Stands Strong! | 283822 | [283822-daughters-of-the-stars-episode-2-face-the-setting-sun-a-fierce-flower-stands-strong.json](./283822-daughters-of-the-stars-episode-2-face-the-setting-sun-a-fierce-flower-stands-strong.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
 | Dave a Nice Guy | 365263 | [365263-dave-a-nice-guy.json](./365263-dave-a-nice-guy.json) |
 | Dave Goes Nutz! | 11389 | [11389-dave-goes-nutz.json](./11389-dave-goes-nutz.json) |
