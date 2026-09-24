@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KardVenture | 252720 | [252720-kardventure.json](./252720-kardventure.json) |
 | Kare Kano Trial: Toki wo Kakeru Toki-meki Daisakusen | 339124 | [339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json](./339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json) |
 | Karen Ready！ | 326095 | [326095-karen-ready.json](./326095-karen-ready.json) |
+| Karga | 296458 | [296458-karga.json](./296458-karga.json) |
 | Kari | 150497 | [150497-kari.json](./150497-kari.json) |
 | Kari Gurashi Ren'ai | 97347 | [97347-kari-gurashi-renai.json](./97347-kari-gurashi-renai.json) |
 | Karian Cross | 40212 | [40212-karian-cross.json](./40212-karian-cross.json) |
