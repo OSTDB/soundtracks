@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Rocket Game | 244356 | [244356-that-rocket-game.json](./244356-that-rocket-game.json) |
 | That Smiling Game | 202963 | [202963-that-smiling-game.json](./202963-that-smiling-game.json) |
 | That Spongy Thing on Your Tongue | 184575 | [184575-that-spongy-thing-on-your-tongue.json](./184575-that-spongy-thing-on-your-tongue.json) |
+| That time I got reincarnated as a fictional Defence Lawyer in an Ace Attorney fangame and had to defend myself against incredibly unfair odds. | 309990 | [309990-that-time-i-got-reincarnated-as-a-fictional-defence-lawyer-in-an-ace-attorney-fangame-and-had-to-defend-myself-against-incredibly-unfair-odds.json](./309990-that-time-i-got-reincarnated-as-a-fictional-defence-lawyer-in-an-ace-attorney-fangame-and-had-to-defend-myself-against-incredibly-unfair-odds.json) |
 | That Time I Got Reincarnated as a Slime | 174881 | [174881-that-time-i-got-reincarnated-as-a-slime.json](./174881-that-time-i-got-reincarnated-as-a-slime.json) |
 | That Time I Got Reincarnated as a Slime Isekai Chronicles: Season Pass | 328992 | [328992-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-season-pass.json](./328992-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-season-pass.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles | 307757 | [307757-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles.json](./307757-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles.json) |
@@ -4161,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Impossible Quiz Book | 61549 | [61549-the-impossible-quiz-book.json](./61549-the-impossible-quiz-book.json) |
 | The Impossible Test | 66712 | [66712-the-impossible-test.json](./66712-the-impossible-test.json) |
 | The Impossible Travel Agency | 33075 | [33075-the-impossible-travel-agency.json](./33075-the-impossible-travel-agency.json) |
+| The Impossible Turnabout | 309989 | [309989-the-impossible-turnabout.json](./309989-the-impossible-turnabout.json) |
 | The In Between | 217362 | [217362-the-in-between.json](./217362-the-in-between.json) |
 | The Inanimate Mr. Coatrack | 122847 | [122847-the-inanimate-mr-coatrack.json](./122847-the-inanimate-mr-coatrack.json) |
 | The InBetween | 305935 | [305935-the-inbetween.json](./305935-the-inbetween.json) |
@@ -7897,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TicTako | 183453 | [183453-tictako.json](./183453-tictako.json) |
 | Ticuto | 310569 | [310569-ticuto.json](./310569-ticuto.json) |
 | Tidal Hopper | 336026 | [336026-tidal-hopper.json](./336026-tidal-hopper.json) |
+| Tidal Nexus Online | 310002 | [310002-tidal-nexus-online.json](./310002-tidal-nexus-online.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
@@ -9895,6 +9898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 10 | 351245 | [351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json](./351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 11 | 351244 | [351244-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-11.json](./351244-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-11.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 12 | 351243 | [351243-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-12.json](./351243-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-12.json) |
+| Touhou Danmaku Kagura: Phantasia Lost - Touhou Mystia's Izakaya Collab "Beneath the Purple Cherry Blossoms Once Again" | 310004 | [310004-touhou-danmaku-kagura-phantasia-lost-touhou-mystias-izakaya-collab-beneath-the-purple-cherry-blossoms-once-again.json](./310004-touhou-danmaku-kagura-phantasia-lost-touhou-mystias-izakaya-collab-beneath-the-purple-cherry-blossoms-once-again.json) |
 | Touhou Danmaku Maze | 304050 | [304050-touhou-danmaku-maze.json](./304050-touhou-danmaku-maze.json) |
 | Touhou Danmaku Shunsatsu Gekijou: Shoken Koroshi ni Inochi wo Kakete | 339125 | [339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json](./339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json) |
 | Touhou Danmaku: Infinity | 233785 | [233785-touhou-danmaku-infinity.json](./233785-touhou-danmaku-infinity.json) |
@@ -11683,6 +11687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truco Blyts | 351735 | [351735-truco-blyts.json](./351735-truco-blyts.json) |
 | Truco! | 259840 | [259840-truco.json](./259840-truco.json) |
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
+| Trucy's Magical Catastrophe | 309992 | [309992-trucys-magical-catastrophe.json](./309992-trucys-magical-catastrophe.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
@@ -11913,6 +11918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TunnelWorm | 87108 | [87108-tunnelworm.json](./87108-tunnelworm.json) |
 | Tunnet | 244339 | [244339-tunnet.json](./244339-tunnet.json) |
 | Tunshi Kongming Legends | 110342 | [110342-tunshi-kongming-legends.json](./110342-tunshi-kongming-legends.json) |
+| TunTun | 310008 | [310008-tuntun.json](./310008-tuntun.json) |
 | Tuōlājī | 104116 | [104116-tuolaji.json](./104116-tuolaji.json) |
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Turandot | 216328 | [216328-turandot.json](./216328-turandot.json) |
@@ -11988,14 +11994,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn-Based Invaders From Space! | 184074 | [184074-turn-based-invaders-from-space.json](./184074-turn-based-invaders-from-space.json) |
 | Turn: The Lost Artifact | 85457 | [85457-turn-the-lost-artifact.json](./85457-turn-the-lost-artifact.json) |
 | Turnabout Bakeshop | 303245 | [303245-turnabout-bakeshop.json](./303245-turnabout-bakeshop.json) |
+| Turnabout Detectives | 309978 | [309978-turnabout-detectives.json](./309978-turnabout-detectives.json) |
+| Turnabout Detectives Redux | 309980 | [309980-turnabout-detectives-redux.json](./309980-turnabout-detectives-redux.json) |
 | Turnabout Divergence | 318785 | [318785-turnabout-divergence.json](./318785-turnabout-divergence.json) |
 | Turnabout Heartache | 308428 | [308428-turnabout-heartache.json](./308428-turnabout-heartache.json) |
+| Turnabout Imperfect | 309997 | [309997-turnabout-imperfect.json](./309997-turnabout-imperfect.json) |
 | Turnabout in Payne and Suffering | 330912 | [330912-turnabout-in-payne-and-suffering.json](./330912-turnabout-in-payne-and-suffering.json) |
+| Turnabout in the Spotlight | 309985 | [309985-turnabout-in-the-spotlight.json](./309985-turnabout-in-the-spotlight.json) |
+| Turnabout Mugging | 309983 | [309983-turnabout-mugging.json](./309983-turnabout-mugging.json) |
+| Turnabout Remembrances | 310015 | [310015-turnabout-remembrances.json](./310015-turnabout-remembrances.json) |
 | Turnabout Revivals | 303253 | [303253-turnabout-revivals.json](./303253-turnabout-revivals.json) |
 | Turnabout Revolution | 308531 | [308531-turnabout-revolution.json](./308531-turnabout-revolution.json) |
 | Turnabout Steampunk | 318775 | [318775-turnabout-steampunk.json](./318775-turnabout-steampunk.json) |
 | Turnabout Tomorrow | 303255 | [303255-turnabout-tomorrow.json](./303255-turnabout-tomorrow.json) |
 | Turnabout Train Or Shine | 304053 | [304053-turnabout-train-or-shine.json](./304053-turnabout-train-or-shine.json) |
+| Turnabout Trickery | 309995 | [309995-turnabout-trickery.json](./309995-turnabout-trickery.json) |
 | Turnabout Turnabout | 318787 | [318787-turnabout-turnabout.json](./318787-turnabout-turnabout.json) |
 | Turnabouts of the Father | 303254 | [303254-turnabouts-of-the-father.json](./303254-turnabouts-of-the-father.json) |
 | TurnBreak | 343278 | [343278-turnbreak.json](./343278-turnbreak.json) |
