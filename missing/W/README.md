@@ -2917,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Rugby 2: Kokunai Gekitou-hen '93 | 60508 | [60508-world-class-rugby-2-kokunai-gekitou-hen-93.json](./60508-world-class-rugby-2-kokunai-gekitou-hen-93.json) |
 | World Class Service Super Nintendo Tester | 37765 | [37765-world-class-service-super-nintendo-tester.json](./37765-world-class-service-super-nintendo-tester.json) |
 | World Class Solitaire HD | 355012 | [355012-world-class-solitaire-hd.json](./355012-world-class-solitaire-hd.json) |
+| World Club Champion Football: Intercontinental Clubs 2011-2012 | 314987 | [314987-world-club-champion-football-intercontinental-clubs-2011-2012.json](./314987-world-club-champion-football-intercontinental-clubs-2011-2012.json) |
 | World Combat | 380513 | [380513-world-combat.json](./380513-world-combat.json) |
 | World Conqueror 2 | 88751 | [88751-world-conqueror-2.json](./88751-world-conqueror-2.json) |
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
@@ -3245,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormhole | 374611 | [374611-wormhole.json](./374611-wormhole.json) |
 | Wormhole Warfare | 176995 | [176995-wormhole-warfare.json](./176995-wormhole-warfare.json) |
 | Wormi | 269083 | [269083-wormi.json](./269083-wormi.json) |
+| Wormix | 315030 | [315030-wormix.json](./315030-wormix.json) |
 | WormJuice Skateboarding Olympics | 159795 | [159795-wormjuice-skateboarding-olympics.json](./159795-wormjuice-skateboarding-olympics.json) |
 | Worms | 409023 | [409023-worms.json](./409023-worms.json) |
 | Worms | 9331 | [9331-worms.json](./9331-worms.json) |
