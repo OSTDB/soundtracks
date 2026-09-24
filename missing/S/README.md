@@ -8373,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon 2 | 26761 | [26761-splatoon-2.json](./26761-splatoon-2.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
 | Splatoon Raiders | 348977 | [348977-splatoon-raiders.json](./348977-splatoon-raiders.json) |
+| Splatterbot | 297007 | [297007-splatterbot.json](./297007-splatterbot.json) |
 | Splatterhouse | 6929 | [6929-splatterhouse.json](./6929-splatterhouse.json) |
 | Splatterhouse | 7191 | [7191-splatterhouse.json](./7191-splatterhouse.json) |
 | Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
@@ -8632,6 +8633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprite Sequence Volume 1 | 180129 | [180129-sprite-sequence-volume-1.json](./180129-sprite-sequence-volume-1.json) |
+| Sprite Wars | 297006 | [297006-sprite-wars.json](./297006-sprite-wars.json) |
 | Sprite's Honor! | 291491 | [291491-sprites-honor.json](./291491-sprites-honor.json) |
 | Spriters, Hopes Blooming Dawn | 248042 | [248042-spriters-hopes-blooming-dawn.json](./248042-spriters-hopes-blooming-dawn.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
@@ -8703,6 +8705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy x Anya: Operation Memories - Deluxe Outing Pack | 308814 | [308814-spy-x-anya-operation-memories-deluxe-outing-pack.json](./308814-spy-x-anya-operation-memories-deluxe-outing-pack.json) |
 | Spy x Anya: Operation Memories - Excited Outifit Pack | 308815 | [308815-spy-x-anya-operation-memories-excited-outifit-pack.json](./308815-spy-x-anya-operation-memories-excited-outifit-pack.json) |
 | Spy x Anya: Operation Memories - Thrilling Outfit Pack | 308816 | [308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json](./308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json) |
+| Spy-der Pig | 297005 | [297005-spy-der-pig.json](./297005-spy-der-pig.json) |
 | SpyHunt | 330294 | [330294-spyhunt.json](./330294-spyhunt.json) |
 | SpyHunter | 4166 | [4166-spyhunter.json](./4166-spyhunter.json) |
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
@@ -8863,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stabjack | 353295 | [353295-stabjack.json](./353295-stabjack.json) |
 | Stable Masters | 206975 | [206975-stable-masters.json](./206975-stable-masters.json) |
 | Stable Orbit | 28547 | [28547-stable-orbit.json](./28547-stable-orbit.json) |
+| StableBound | 297004 | [297004-stablebound.json](./297004-stablebound.json) |
 | Stablemasters | 415897 | [415897-stablemasters.json](./415897-stablemasters.json) |
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
@@ -8870,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Order | 388009 | [388009-stack-order.json](./388009-stack-order.json) |
 | Stack Pro | 96068 | [96068-stack-pro.json](./96068-stack-pro.json) |
 | Stack Slayer | 287745 | [287745-stack-slayer.json](./287745-stack-slayer.json) |
+| Stack Surge | 297003 | [297003-stack-surge.json](./297003-stack-surge.json) |
 | Stack the Countries | 174326 | [174326-stack-the-countries.json](./174326-stack-the-countries.json) |
 | Stack Tower͏ | 219264 | [219264-stack-tower.json](./219264-stack-tower.json) |
 | Stack World | 236383 | [236383-stack-world.json](./236383-stack-world.json) |
@@ -8897,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staff Runner | 273409 | [273409-staff-runner.json](./273409-staff-runner.json) |
 | Staff! | 269095 | [269095-staff.json](./269095-staff.json) |
 | Staffer Case: A Supernatural Mystery Adventure | 215713 | [215713-staffer-case-a-supernatural-mystery-adventure.json](./215713-staffer-case-a-supernatural-mystery-adventure.json) |
+| Staffer Reborn | 297002 | [297002-staffer-reborn.json](./297002-staffer-reborn.json) |
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
 | Stage of Light | 116169 | [116169-stage-of-light.json](./116169-stage-of-light.json) |
 | Stage Presence | 34744 | [34744-stage-presence.json](./34744-stage-presence.json) |
@@ -9783,6 +9789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
 | Stay Alive, My Son VR | 293637 | [293637-stay-alive-my-son-vr.json](./293637-stay-alive-my-son-vr.json) |
 | Stay Dead | 359518 | [359518-stay-dead.json](./359518-stay-dead.json) |
+| Stay Focus | 296992 | [296992-stay-focus.json](./296992-stay-focus.json) |
 | Stay Home | 184055 | [184055-stay-home.json](./184055-stay-home.json) |
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
 | Stay in | 237056 | [237056-stay-in.json](./237056-stay-in.json) |
@@ -10652,6 +10659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Football | 21476 | [21476-street-football.json](./21476-street-football.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
 | Street Gang Football | 331343 | [331343-street-gang-football.json](./331343-street-gang-football.json) |
+| Street Girls | 296991 | [296991-street-girls.json](./296991-street-girls.json) |
 | Street Gods | 360774 | [360774-street-gods.json](./360774-street-gods.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
@@ -10783,6 +10791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strinova | 260136 | [260136-strinova.json](./260136-strinova.json) |
 | Strinova Mobile | 350533 | [350533-strinova-mobile.json](./350533-strinova-mobile.json) |
 | Strip 4: Classmate Study | 130057 | [130057-strip-4-classmate-study.json](./130057-strip-4-classmate-study.json) |
+| Strip Battle | 296990 | [296990-strip-battle.json](./296990-strip-battle.json) |
 | Strip Black Jack: Hot Gym | 169297 | [169297-strip-black-jack-hot-gym.json](./169297-strip-black-jack-hot-gym.json) |
 | Strip Black Jack: Santa Babe | 385856 | [385856-strip-black-jack-santa-babe.json](./385856-strip-black-jack-santa-babe.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
@@ -10838,6 +10847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold: Caverns of Sorcery | 339654 | [339654-stronghold-caverns-of-sorcery.json](./339654-stronghold-caverns-of-sorcery.json) |
 | Stronghold: Crusader - Definitive Edition | 328611 | [328611-stronghold-crusader-definitive-edition.json](./328611-stronghold-crusader-definitive-edition.json) |
 | Stronghold: Definitive Edition | 257672 | [257672-stronghold-definitive-edition.json](./257672-stronghold-definitive-edition.json) |
+| Stronghold: Definitive Edition - Valley of the Wolf Campaign | 296989 | [296989-stronghold-definitive-edition-valley-of-the-wolf-campaign.json](./296989-stronghold-definitive-edition-valley-of-the-wolf-campaign.json) |
 | Stronghold: On the Edge of Chaos | 141254 | [141254-stronghold-on-the-edge-of-chaos.json](./141254-stronghold-on-the-edge-of-chaos.json) |
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
 | Stronghold: Warlords - The Mongol Empire Campaign | 186879 | [186879-stronghold-warlords-the-mongol-empire-campaign.json](./186879-stronghold-warlords-the-mongol-empire-campaign.json) |
@@ -10902,6 +10912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuntman | 197884 | [197884-stuntman.json](./197884-stuntman.json) |
 | Stuntman: Ignition | 2783 | [2783-stuntman-ignition.json](./2783-stuntman-ignition.json) |
 | Stunts | 11630 | [11630-stunts.json](./11630-stunts.json) |
+| Stunts above Clouds 2 | 296988 | [296988-stunts-above-clouds-2.json](./296988-stunts-above-clouds-2.json) |
 | Stunts Contest Extreme Cars | 216864 | [216864-stunts-contest-extreme-cars.json](./216864-stunts-contest-extreme-cars.json) |
 | Stunts Contest: Beach Edition | 215710 | [215710-stunts-contest-beach-edition.json](./215710-stunts-contest-beach-edition.json) |
 | Stunts Contest: Super Bike | 215709 | [215709-stunts-contest-super-bike.json](./215709-stunts-contest-super-bike.json) |
@@ -11500,6 +11511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Love | 342763 | [342763-sunshine-love.json](./342763-sunshine-love.json) |
 | Sunshine Mahou no Mori | 66062 | [66062-sunshine-mahou-no-mori.json](./66062-sunshine-mahou-no-mori.json) |
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
+| Sunsoft is Back! Retro Game Selection | 297001 | [297001-sunsoft-is-back-retro-game-selection.json](./297001-sunsoft-is-back-retro-game-selection.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
 | Supa Nova | 100019 | [100019-supa-nova.json](./100019-supa-nova.json) |
@@ -12727,6 +12739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
 | SuperCowBoy | 339479 | [339479-supercowboy.json](./339479-supercowboy.json) |
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
+| Superdeluxe | 297000 | [297000-superdeluxe.json](./297000-superdeluxe.json) |
 | Superdimensional | 181381 | [181381-superdimensional.json](./181381-superdimensional.json) |
 | SuperDog | 409683 | [409683-superdog.json](./409683-superdog.json) |
 | SuperDoom | 198358 | [198358-superdoom.json](./198358-superdoom.json) |
@@ -12873,6 +12886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler 2020: Global Crisis | 26931 | [26931-supreme-ruler-2020-global-crisis.json](./26931-supreme-ruler-2020-global-crisis.json) |
 | Supreme Ruler 2020: Gold Edition | 51934 | [51934-supreme-ruler-2020-gold-edition.json](./51934-supreme-ruler-2020-gold-edition.json) |
 | Supreme Ruler 2030 | 219574 | [219574-supreme-ruler-2030.json](./219574-supreme-ruler-2030.json) |
+| Supreme Ruler Global Outbreak | 296999 | [296999-supreme-ruler-global-outbreak.json](./296999-supreme-ruler-global-outbreak.json) |
 | Supreme Ruler The Great War Remastered | 277933 | [277933-supreme-ruler-the-great-war-remastered.json](./277933-supreme-ruler-the-great-war-remastered.json) |
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
@@ -13431,6 +13445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Fairy 3 Ex | 369568 | [369568-sword-and-fairy-3-ex.json](./369568-sword-and-fairy-3-ex.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
 | Sword and Plow | 305346 | [305346-sword-and-plow.json](./305346-sword-and-plow.json) |
+| Sword and Shield Idle | 296993 | [296993-sword-and-shield-idle.json](./296993-sword-and-shield-idle.json) |
 | Sword and Spirit | 158175 | [158175-sword-and-spirit.json](./158175-sword-and-spirit.json) |
 | Sword Art Online Arcade: Deep Explorer | 110791 | [110791-sword-art-online-arcade-deep-explorer.json](./110791-sword-art-online-arcade-deep-explorer.json) |
 | Sword Art Online VR: Lovely Honey Days | 102088 | [102088-sword-art-online-vr-lovely-honey-days.json](./102088-sword-art-online-vr-lovely-honey-days.json) |
@@ -13608,6 +13623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synced: Season 1 - Lambent Dawn Trailer | 365090 | [365090-synced-season-1-lambent-dawn-trailer.json](./365090-synced-season-1-lambent-dawn-trailer.json) |
 | Synced: Winterfest Pack | 289461 | [289461-synced-winterfest-pack.json](./289461-synced-winterfest-pack.json) |
 | Syncers | 368473 | [368473-syncers.json](./368473-syncers.json) |
+| Synchro | 296994 | [296994-synchro.json](./296994-synchro.json) |
 | Synchro Hedgehogs Bundle | 218466 | [218466-synchro-hedgehogs-bundle.json](./218466-synchro-hedgehogs-bundle.json) |
 | Synchrom | 34710 | [34710-synchrom.json](./34710-synchrom.json) |
 | Synchronity | 381116 | [381116-synchronity.json](./381116-synchronity.json) |
