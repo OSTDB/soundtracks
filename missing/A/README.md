@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | Actor Tycoon 2 | 142235 | [142235-actor-tycoon-2.json](./142235-actor-tycoon-2.json) |
+| Actorle | 320912 | [320912-actorle.json](./320912-actorle.json) |
 | ActRaiser | 6468 | [6468-actraiser.json](./6468-actraiser.json) |
 | ActRaiser 2 | 7704 | [7704-actraiser-2.json](./7704-actraiser-2.json) |
 | Actua Golf | 45497 | [45497-actua-golf.json](./45497-actua-golf.json) |
@@ -2135,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All Motors Racing Simulator | 395221 | [395221-all-motors-racing-simulator.json](./395221-all-motors-racing-simulator.json) |
 | All New Origins | 283907 | [283907-all-new-origins.json](./283907-all-new-origins.json) |
+| All New Ultimate Pub Quiz 2008 | 320900 | [320900-all-new-ultimate-pub-quiz-2008.json](./320900-all-new-ultimate-pub-quiz-2008.json) |
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
 | All Night Nippon Super Mario Bros. | 41272 | [41272-all-night-nippon-super-mario-bros.json](./41272-all-night-nippon-super-mario-bros.json) |
 | All of Our Friends Are Dead | 124630 | [124630-all-of-our-friends-are-dead.json](./124630-all-of-our-friends-are-dead.json) |
@@ -3077,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Girl | 120821 | [120821-angry-girl.json](./120821-angry-girl.json) |
 | Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
+| Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
 | Angry Sonic Maze | 95997 | [95997-angry-sonic-maze.json](./95997-angry-sonic-maze.json) |
 | Angry Space Bees | 149029 | [149029-angry-space-bees.json](./149029-angry-space-bees.json) |
 | Angry stone | 296533 | [296533-angry-stone.json](./296533-angry-stone.json) |
@@ -4008,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Earth Defense Force | 146843 | [146843-arcade-archives-earth-defense-force.json](./146843-arcade-archives-earth-defense-force.json) |
 | Arcade Archives: Emeraldia | 298583 | [298583-arcade-archives-emeraldia.json](./298583-arcade-archives-emeraldia.json) |
 | Arcade Archives: Excitebike | 68312 | [68312-arcade-archives-excitebike.json](./68312-arcade-archives-excitebike.json) |
+| Arcade Archives: Face Off | 320909 | [320909-arcade-archives-face-off.json](./320909-arcade-archives-face-off.json) |
 | Arcade Archives: Fantastic Night Dreams Cotton | 323842 | [323842-arcade-archives-fantastic-night-dreams-cotton.json](./323842-arcade-archives-fantastic-night-dreams-cotton.json) |
 | Arcade Archives: Fighting Hawk | 200579 | [200579-arcade-archives-fighting-hawk.json](./200579-arcade-archives-fighting-hawk.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
