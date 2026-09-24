@@ -2666,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
 | Destiny of Altrais | 103427 | [103427-destiny-of-altrais.json](./103427-destiny-of-altrais.json) |
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
+| Destiny of Heroes | 303008 | [303008-destiny-of-heroes.json](./303008-destiny-of-heroes.json) |
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
@@ -5684,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Day: Viva Las Vegas | 87284 | [87284-dream-day-viva-las-vegas.json](./87284-dream-day-viva-las-vegas.json) |
 | Dream Day: Wedding | 209173 | [209173-dream-day-wedding.json](./209173-dream-day-wedding.json) |
 | Dream Distortion | 375830 | [375830-dream-distortion.json](./375830-dream-distortion.json) |
+| Dream Divers 2 | 303014 | [303014-dream-divers-2.json](./303014-dream-divers-2.json) |
 | Dream Doctor | 401819 | [401819-dream-doctor.json](./401819-dream-doctor.json) |
 | Dream Doll Dimension | 201762 | [201762-dream-doll-dimension.json](./201762-dream-doll-dimension.json) |
 | Dream Doll House - Decorating Game | 100868 | [100868-dream-doll-house-decorating-game.json](./100868-dream-doll-house-decorating-game.json) |
@@ -6952,6 +6954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysnomia | 67231 | [67231-dysnomia.json](./67231-dysnomia.json) |
 | Dysnystaxis (...A Chance Meeting With Somnus) | 271219 | [271219-dysnystaxis-a-chance-meeting-with-somnus.json](./271219-dysnystaxis-a-chance-meeting-with-somnus.json) |
 | Dysphoria | 260808 | [260808-dysphoria.json](./260808-dysphoria.json) |
+| Dysphoria | 303017 | [303017-dysphoria.json](./303017-dysphoria.json) |
 | Dysplaced | 258472 | [258472-dysplaced.json](./258472-dysplaced.json) |
 | Dysto-wanderer | 319016 | [319016-dysto-wanderer.json](./319016-dysto-wanderer.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
