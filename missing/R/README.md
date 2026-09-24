@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
 | Red Orchestra: Ostfront 41-45 | 9409 | [9409-red-orchestra-ostfront-41-45.json](./9409-red-orchestra-ostfront-41-45.json) |
 | Red Out Block | 377788 | [377788-red-out-block.json](./377788-red-out-block.json) |
+| Red Panda x Cats Bundle | 331512 | [331512-red-panda-x-cats-bundle.json](./331512-red-panda-x-cats-bundle.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
