@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
 | Encycle | 149937 | [149937-encycle.json](./149937-encycle.json) |
 | Encyclopedia Explosica | 185617 | [185617-encyclopedia-explosica.json](./185617-encyclopedia-explosica.json) |
+| End Gate: The Last Passenger | 311612 | [311612-end-gate-the-last-passenger.json](./311612-end-gate-the-last-passenger.json) |
 | End Matter | 175265 | [175265-end-matter.json](./175265-end-matter.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | End of Edge | 257384 | [257384-end-of-edge.json](./257384-end-of-edge.json) |
@@ -1941,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Yandere | 388741 | [388741-escape-from-yandere.json](./388741-escape-from-yandere.json) |
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
 | Escape From Zombie U: Reloaded | 199601 | [199601-escape-from-zombie-u-reloaded.json](./199601-escape-from-zombie-u-reloaded.json) |
+| Escape Gaia | 311586 | [311586-escape-gaia.json](./311586-escape-gaia.json) |
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
@@ -2087,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
 | ESMO: Esports Manager Online | 375291 | [375291-esmo-esports-manager-online.json](./375291-esmo-esports-manager-online.json) |
 | EsoTarot VR | 236270 | [236270-esotarot-vr.json](./236270-esotarot-vr.json) |
+| Esoterica Order | 311588 | [311588-esoterica-order.json](./311588-esoterica-order.json) |
 | ESP Ra.De. | 91379 | [91379-esp-ra-de.json](./91379-esp-ra-de.json) |
 | ESP Ra.De. Psi | 56433 | [56433-esp-ra-de-psi.json](./56433-esp-ra-de-psi.json) |
 | Espace | 346090 | [346090-espace.json](./346090-espace.json) |
