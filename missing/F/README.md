@@ -5117,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
 | Fútbol | 86007 | [86007-futbol.json](./86007-futbol.json) |
 | Fútbol Club Barcelona | 217959 | [217959-futbol-club-barcelona.json](./217959-futbol-club-barcelona.json) |
+| Futbol Kicks | 324992 | [324992-futbol-kicks.json](./324992-futbol-kicks.json) |
 | Futbolín Revolution | 138020 | [138020-futbolin-revolution.json](./138020-futbolin-revolution.json) |
 | Futebol | 92984 | [92984-futebol.json](./92984-futebol.json) |
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
