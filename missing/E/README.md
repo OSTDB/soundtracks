@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt Series: The Prophecy - Part 2 | 88830 | [88830-egypt-series-the-prophecy-part-2.json](./88830-egypt-series-the-prophecy-part-2.json) |
 | Egypt Solitaire: Match 2 Cards | 127237 | [127237-egypt-solitaire-match-2-cards.json](./127237-egypt-solitaire-match-2-cards.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
+| Egypt: Secret of Five Gods | 294206 | [294206-egypt-secret-of-five-gods.json](./294206-egypt-secret-of-five-gods.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
 | Eien no Miyako | 372564 | [372564-eien-no-miyako.json](./372564-eien-no-miyako.json) |
@@ -1079,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Rush | 97157 | [97157-emerald-rush.json](./97157-emerald-rush.json) |
 | Emerald Shores | 111470 | [111470-emerald-shores.json](./111470-emerald-shores.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
+| Emeraldium | 294207 | [294207-emeraldium.json](./294207-emeraldium.json) |
 | Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
 | Emergence | 130878 | [130878-emergence.json](./130878-emergence.json) |
@@ -1201,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires of the Void II | 189167 | [189167-empires-of-the-void-ii.json](./189167-empires-of-the-void-ii.json) |
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
 | Employee Rules of the Night Strings | 309361 | [309361-employee-rules-of-the-night-strings.json](./309361-employee-rules-of-the-night-strings.json) |
+| Empress of the Deep 3: Legacy of the Phoenix | 294209 | [294209-empress-of-the-deep-3-legacy-of-the-phoenix.json](./294209-empress-of-the-deep-3-legacy-of-the-phoenix.json) |
 | Empress of the Deep: The Darkest Secret | 17368 | [17368-empress-of-the-deep-the-darkest-secret.json](./17368-empress-of-the-deep-the-darkest-secret.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
 | Empronix Game | 369027 | [369027-empronix-game.json](./369027-empronix-game.json) |
@@ -2375,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
 | European Mystery: Scent of Desire - Collector's Edition | 29749 | [29749-european-mystery-scent-of-desire-collectors-edition.json](./29749-european-mystery-scent-of-desire-collectors-edition.json) |
 | European Mystery: The Face of Envy | 68947 | [68947-european-mystery-the-face-of-envy.json](./68947-european-mystery-the-face-of-envy.json) |
+| European Quest | 294216 | [294216-european-quest.json](./294216-european-quest.json) |
 | European Ship Simulator | 10288 | [10288-european-ship-simulator.json](./10288-european-ship-simulator.json) |
 | European Soccer Cup 2016 Slot | 232535 | [232535-european-soccer-cup-2016-slot.json](./232535-european-soccer-cup-2016-slot.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
