@@ -4359,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
 | Frantic Freddie | 55018 | [55018-frantic-freddie.json](./55018-frantic-freddie.json) |
+| Franz | 250301 | [250301-franz.json](./250301-franz.json) |
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
