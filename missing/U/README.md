@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UDAA | 329940 | [329940-udaa.json](./329940-udaa.json) |
 | Udderly Tickets | 66689 | [66689-udderly-tickets.json](./66689-udderly-tickets.json) |
 | Uden at prale - det er Harry | 127973 | [127973-uden-at-prale-det-er-harry.json](./127973-uden-at-prale-det-er-harry.json) |
+| UDO | 244735 | [244735-udo.json](./244735-udo.json) |
 | Udom Nebdon | 180708 | [180708-udom-nebdon.json](./180708-udom-nebdon.json) |
 | UdoRin | 213963 | [213963-udorin.json](./213963-udorin.json) |
 | Udos sagner: Sveakampen | 64389 | [64389-udos-sagner-sveakampen.json](./64389-udos-sagner-sveakampen.json) |
@@ -330,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Hyperball | 51950 | [51950-ultra-hyperball.json](./51950-ultra-hyperball.json) |
 | Ultra Keibitai: Monster Attack | 413184 | [413184-ultra-keibitai-monster-attack.json](./413184-ultra-keibitai-monster-attack.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
+| Ultra Mega Planet Battles | 244743 | [244743-ultra-mega-planet-battles.json](./244743-ultra-mega-planet-battles.json) |
 | Ultra Mega Xtra Party Challenge | 201784 | [201784-ultra-mega-xtra-party-challenge.json](./201784-ultra-mega-xtra-party-challenge.json) |
 | Ultra Mushroom | 302442 | [302442-ultra-mushroom.json](./302442-ultra-mushroom.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
@@ -617,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
 | Under Control | 21325 | [21325-under-control.json](./21325-under-control.json) |
+| Under Dead | 244725 | [244725-under-dead.json](./244725-under-dead.json) |
 | Under Defeat | 21015 | [21015-under-defeat.json](./21015-under-defeat.json) |
 | Under Defeat | 321604 | [321604-under-defeat.json](./321604-under-defeat.json) |
 | Under Defeat HD | 43951 | [43951-under-defeat-hd.json](./43951-under-defeat-hd.json) |
