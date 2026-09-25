@@ -7264,6 +7264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sougou Kakutougi: Astral Bout | 38295 | [38295-sougou-kakutougi-astral-bout.json](./38295-sougou-kakutougi-astral-bout.json) |
 | Sougou Kakutougi: Astral Bout 2 - The Total Fighters | 38296 | [38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json](./38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json) |
 | Soukaigi | 71799 | [71799-soukaigi.json](./71799-soukaigi.json) |
+| Soukaishin | 250276 | [250276-soukaishin.json](./250276-soukaishin.json) |
 | Soukh | 358304 | [358304-soukh.json](./358304-soukh.json) |
 | Soukoku no Kusabi: Hiiro no Kakera 3 | 124051 | [124051-soukoku-no-kusabi-hiiro-no-kakera-3.json](./124051-soukoku-no-kusabi-hiiro-no-kakera-3.json) |
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
