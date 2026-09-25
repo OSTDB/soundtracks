@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
+| Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
 | Advanced Daisenryaku 2001 | 60805 | [60805-advanced-daisenryaku-2001.json](./60805-advanced-daisenryaku-2001.json) |
 | Advanced Daisenryaku 2001 Power Up Kit | 413920 | [413920-advanced-daisenryaku-2001-power-up-kit.json](./413920-advanced-daisenryaku-2001-power-up-kit.json) |
@@ -1131,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
 | Aenigmarch | 360655 | [360655-aenigmarch.json](./360655-aenigmarch.json) |
+| Aeolus Fighter | 236797 | [236797-aeolus-fighter.json](./236797-aeolus-fighter.json) |
 | Aeolus Fighter 3 | 265585 | [265585-aeolus-fighter-3.json](./265585-aeolus-fighter-3.json) |
 | Aeon Nightmares | 282133 | [282133-aeon-nightmares.json](./282133-aeon-nightmares.json) |
 | Aeon Tempus | 365283 | [365283-aeon-tempus.json](./365283-aeon-tempus.json) |
@@ -3815,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-Jump-Man | 130374 | [130374-anti-jump-man.json](./130374-anti-jump-man.json) |
 | Anti-Nightmare Master Plan | 211435 | [211435-anti-nightmare-master-plan.json](./211435-anti-nightmare-master-plan.json) |
 | Anti-Opoly | 35916 | [35916-anti-opoly.json](./35916-anti-opoly.json) |
+| Anti-Sane | 236798 | [236798-anti-sane.json](./236798-anti-sane.json) |
 | Anti-TuringTest | 371914 | [371914-anti-turingtest.json](./371914-anti-turingtest.json) |
 | AntiAir | 304199 | [304199-antiair.json](./304199-antiair.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
@@ -3838,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antipole DX | 60519 | [60519-antipole-dx.json](./60519-antipole-dx.json) |
 | Antiquarium | 287645 | [287645-antiquarium.json](./287645-antiquarium.json) |
 | Antique Backgammon | 399621 | [399621-antique-backgammon.json](./399621-antique-backgammon.json) |
+| Antique Restorer | 236801 | [236801-antique-restorer.json](./236801-antique-restorer.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
 | Antireal | 272833 | [272833-antireal.json](./272833-antireal.json) |
 | Antiriad | 45331 | [45331-antiriad.json](./45331-antiriad.json) |
@@ -6289,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista: Formula Truck | 171085 | [171085-automobilista-formula-truck.json](./171085-automobilista-formula-truck.json) |
 | Automobilista: Snetterton | 171087 | [171087-automobilista-snetterton.json](./171087-automobilista-snetterton.json) |
 | Automonopoli | 94566 | [94566-automonopoli.json](./94566-automonopoli.json) |
+| Autopanic Zero | 236786 | [236786-autopanic-zero.json](./236786-autopanic-zero.json) |
 | AutoParts Simulator | 346163 | [346163-autoparts-simulator.json](./346163-autoparts-simulator.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | AutoSim 2 | 235860 | [235860-autosim-2.json](./235860-autosim-2.json) |
