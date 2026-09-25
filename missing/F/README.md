@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator C64: Limited Edition | 260776 | [260776-farming-simulator-c64-limited-edition.json](./260776-farming-simulator-c64-limited-edition.json) |
 | Farming Simulator: Grow a Garden 2025 | 378801 | [378801-farming-simulator-grow-a-garden-2025.json](./378801-farming-simulator-grow-a-garden-2025.json) |
 | Farming Sweeper | 191201 | [191201-farming-sweeper.json](./191201-farming-sweeper.json) |
+| Farming Tractor Simulator | 233438 | [233438-farming-tractor-simulator.json](./233438-farming-tractor-simulator.json) |
 | Farming Tractor Simulator 2023: Drive Combine & Trucks | 263497 | [263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json](./263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | Farmington Tales | 44093 | [44093-farmington-tales.json](./44093-farmington-tales.json) |
@@ -1164,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
 | Fast:Run | 320392 | [320392-fast-run.json](./320392-fast-run.json) |
+| Fastar: Fantasy Fairy Story | 233468 | [233468-fastar-fantasy-fairy-story.json](./233468-fastar-fantasy-fairy-story.json) |
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
 | FastBall 2 F. | 259077 | [259077-fastball-2-f.json](./259077-fastball-2-f.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
@@ -3069,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipinity | 256357 | [256357-flipinity.json](./256357-flipinity.json) |
 | Fliplomacy | 103399 | [103399-fliplomacy.json](./103399-fliplomacy.json) |
 | Flipnote Studio | 85636 | [85636-flipnote-studio.json](./85636-flipnote-studio.json) |
+| Flipo: Gravity Adventure | 233456 | [233456-flipo-gravity-adventure.json](./233456-flipo-gravity-adventure.json) |
 | Flipominos | 58467 | [58467-flipominos.json](./58467-flipominos.json) |
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipped in Love | 143744 | [143744-flipped-in-love.json](./143744-flipped-in-love.json) |
@@ -3569,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Career | 343455 | [343455-football-career.json](./343455-football-career.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
 | Football Chairman Pro 2 | 370322 | [370322-football-chairman-pro-2.json](./370322-football-chairman-pro-2.json) |
+| Football Challenges | 233459 | [233459-football-challenges.json](./233459-football-challenges.json) |
 | Football City | 260624 | [260624-football-city.json](./260624-football-city.json) |
 | Football Club 2019-2023 | 282705 | [282705-football-club-2019-2023.json](./282705-football-club-2019-2023.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
