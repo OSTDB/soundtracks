@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nigella | 201315 | [201315-nigella.json](./201315-nigella.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
 | Niggle (Oh Hell!) | 102215 | [102215-niggle-oh-hell.json](./102215-niggle-oh-hell.json) |
+| Night Agent: I'm the Savior | 266266 | [266266-night-agent-im-the-savior.json](./266266-night-agent-im-the-savior.json) |
 | Night and Day | 133406 | [133406-night-and-day.json](./133406-night-and-day.json) |
 | Night and Day | 70378 | [70378-night-and-day.json](./70378-night-and-day.json) |
 | Night at Grandma's | 331330 | [331330-night-at-grandmas.json](./331330-night-at-grandmas.json) |
@@ -1985,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~ | 119562 | [119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json](./119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
+| Ninja Hands | 266254 | [266254-ninja-hands.json](./266254-ninja-hands.json) |
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
 | Ninja Hero Revenge | 102728 | [102728-ninja-hero-revenge.json](./102728-ninja-hero-revenge.json) |
 | Ninja Hunter | 64635 | [64635-ninja-hunter.json](./64635-ninja-hunter.json) |
@@ -2703,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notrium | 35751 | [35751-notrium.json](./35751-notrium.json) |
 | Nótt & Dagr | 135039 | [135039-nott-and-dagr.json](./135039-nott-and-dagr.json) |
 | Notyet | 57352 | [57352-notyet.json](./57352-notyet.json) |
+| Nou wo Kitaeru! Nyanko Shashin de Machigai-sagashi | 266166 | [266166-nou-wo-kitaeru-nyanko-shashin-de-machigai-sagashi.json](./266166-nou-wo-kitaeru-nyanko-shashin-de-machigai-sagashi.json) |
 | Nou wo Kitaeru! Zekkei Shashin de Machigai-sagashi | 261371 | [261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json](./261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json) |
 | Nouen Hokkoriina | 335107 | [335107-nouen-hokkoriina.json](./335107-nouen-hokkoriina.json) |
 | Noukin Mahoutsukai ha Shingaku Shitai | 282611 | [282611-noukin-mahoutsukai-ha-shingaku-shitai.json](./282611-noukin-mahoutsukai-ha-shingaku-shitai.json) |
@@ -2923,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nunchuck Charlie: A Love Story | 286611 | [286611-nunchuck-charlie-a-love-story.json](./286611-nunchuck-charlie-a-love-story.json) |
 | Nuns With Guns | 115642 | [115642-nuns-with-guns.json](./115642-nuns-with-guns.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
+| Nurie de Asobou: Sanrio Characters | 266170 | [266170-nurie-de-asobou-sanrio-characters.json](./266170-nurie-de-asobou-sanrio-characters.json) |
 | Nurikabe | 105092 | [105092-nurikabe.json](./105092-nurikabe.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurilogy 1000 | 345709 | [345709-nurilogy-1000.json](./345709-nurilogy-1000.json) |
