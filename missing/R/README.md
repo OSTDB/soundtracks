@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RailKing's Model Railroad Simulator | 80190 | [80190-railkings-model-railroad-simulator.json](./80190-railkings-model-railroad-simulator.json) |
 | RaiLRhythm | 312147 | [312147-railrhythm.json](./312147-railrhythm.json) |
 | Railroad Corporation | 112362 | [112362-railroad-corporation.json](./112362-railroad-corporation.json) |
+| Railroad Corporation: Competitive Spirit DLC | 262300 | [262300-railroad-corporation-competitive-spirit-dlc.json](./262300-railroad-corporation-competitive-spirit-dlc.json) |
 | Railroad Crossing Play | 389093 | [389093-railroad-crossing-play.json](./389093-railroad-crossing-play.json) |
 | Railroad Empire | 27693 | [27693-railroad-empire.json](./27693-railroad-empire.json) |
 | Railroad Empire | 394822 | [394822-railroad-empire.json](./394822-railroad-empire.json) |
@@ -671,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramos Ruy no World Wide Soccer | 259652 | [259652-ramos-ruy-no-world-wide-soccer.json](./259652-ramos-ruy-no-world-wide-soccer.json) |
 | Ramp Bike Jumping | 215117 | [215117-ramp-bike-jumping.json](./215117-ramp-bike-jumping.json) |
 | Rampage | 3055 | [3055-rampage.json](./3055-rampage.json) |
+| Rampage Agents | 262298 | [262298-rampage-agents.json](./262298-rampage-agents.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
@@ -1700,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redstream Dispatch | 397059 | [397059-redstream-dispatch.json](./397059-redstream-dispatch.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
+| Redundancy | 262311 | [262311-redundancy.json](./262311-redundancy.json) |
 | ReDungeon | 38943 | [38943-redungeon.json](./38943-redungeon.json) |
 | Redux: Dark Matters | 36093 | [36093-redux-dark-matters.json](./36093-redux-dark-matters.json) |
 | Redviil | 114970 | [114970-redviil.json](./114970-redviil.json) |
