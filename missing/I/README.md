@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Il Filo Conduttore | 134699 | [134699-il-filo-conduttore.json](./134699-il-filo-conduttore.json) |
 | Il Fiore di Moretti | 331141 | [331141-il-fiore-di-moretti.json](./331141-il-fiore-di-moretti.json) |
 | Il Grande Gioco di Tangentopoli | 281465 | [281465-il-grande-gioco-di-tangentopoli.json](./281465-il-grande-gioco-di-tangentopoli.json) |
+| Il Maniero Spettrale | 256774 | [256774-il-maniero-spettrale.json](./256774-il-maniero-spettrale.json) |
 | Il Sole e la Luna | 118989 | [118989-il-sole-e-la-luna.json](./118989-il-sole-e-la-luna.json) |
 | Il Sole e la Luna 2 | 393456 | [393456-il-sole-e-la-luna-2.json](./393456-il-sole-e-la-luna-2.json) |
 | IL-2 Sturmovik: 1946 | 5563 | [5563-il-2-sturmovik-1946.json](./5563-il-2-sturmovik-1946.json) |
@@ -2354,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irreverence | 412428 | [412428-irreverence.json](./412428-irreverence.json) |
 | Irreversible | 375839 | [375839-irreversible.json](./375839-irreversible.json) |
 | Irritability & Mood Swings | 195182 | [195182-irritability-and-mood-swings.json](./195182-irritability-and-mood-swings.json) |
+| Irritating Ship | 256776 | [256776-irritating-ship.json](./256776-irritating-ship.json) |
 | Irritating Stick | 92863 | [92863-irritating-stick.json](./92863-irritating-stick.json) |
 | Iruka Iru Ka | 187491 | [187491-iruka-iru-ka.json](./187491-iruka-iru-ka.json) |
 | Iruka ni Uroko ga Nai Wake | 273352 | [273352-iruka-ni-uroko-ga-nai-wake.json](./273352-iruka-ni-uroko-ga-nai-wake.json) |
