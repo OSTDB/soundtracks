@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Picked Up a Mysterious Smartphone That You Can Change Everything as You Like | 98462 | [98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json](./98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json) |
 | I Play: 3D Tennis | 70090 | [70090-i-play-3d-tennis.json](./70090-i-play-3d-tennis.json) |
 | I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
+| I Read a Post Online about Monarch Butterflies | 247456 | [247456-i-read-a-post-online-about-monarch-butterflies.json](./247456-i-read-a-post-online-about-monarch-butterflies.json) |
 | I Remember the Light | 152864 | [152864-i-remember-the-light.json](./152864-i-remember-the-light.json) |
 | I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
 | I Remember This Dream | 314905 | [314905-i-remember-this-dream.json](./314905-i-remember-this-dream.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
 | I Spy Junior: Puppet Playhouse | 65181 | [65181-i-spy-junior-puppet-playhouse.json](./65181-i-spy-junior-puppet-playhouse.json) |
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
+| I Spy School Days | 247469 | [247469-i-spy-school-days.json](./247469-i-spy-school-days.json) |
 | I Spy Spooky Mansion | 19844 | [19844-i-spy-spooky-mansion.json](./19844-i-spy-spooky-mansion.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
 | I Spy With Lola HD: A Fun Word Game for Kids! | 108270 | [108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json](./108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json) |
@@ -1667,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink and Paper: Wandering | 190071 | [190071-ink-and-paper-wandering.json](./190071-ink-and-paper-wandering.json) |
 | Ink Enigma: Hidden Object Challenges | 359036 | [359036-ink-enigma-hidden-object-challenges.json](./359036-ink-enigma-hidden-object-challenges.json) |
 | Ink Hero | 335331 | [335331-ink-hero.json](./335331-ink-hero.json) |
+| Ink Neko Maid | 247428 | [247428-ink-neko-maid.json](./247428-ink-neko-maid.json) |
 | Ink of Fate | 278970 | [278970-ink-of-fate.json](./278970-ink-of-fate.json) |
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
 | Ink Paper Minesweeper: Traditional Japanese Paintings Pack | 336345 | [336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json](./336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json) |
