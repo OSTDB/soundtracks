@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game de Demashita! Powerpuff Girls Z | 133826 | [133826-game-de-demashita-powerpuff-girls-z.json](./133826-game-de-demashita-powerpuff-girls-z.json) |
 | Game de Hakken!! Tamagotchi 2 | 77619 | [77619-game-de-hakken-tamagotchi-2.json](./77619-game-de-hakken-tamagotchi-2.json) |
 | Game de Hakken!! Tamagotchi: Osutchi & Mesutchi | 69250 | [69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json](./69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json) |
+| Game de Raku-raku Nou-tre | 251521 | [251521-game-de-raku-raku-nou-tre.json](./251521-game-de-raku-raku-nou-tre.json) |
 | Game Dev Fantasy | 245877 | [245877-game-dev-fantasy.json](./245877-game-dev-fantasy.json) |
 | Game Dev Masters | 146909 | [146909-game-dev-masters.json](./146909-game-dev-masters.json) |
 | Game Dev Story | 19815 | [19815-game-dev-story.json](./19815-game-dev-story.json) |
@@ -1463,6 +1464,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Rush! | 97107 | [97107-ghost-rush.json](./97107-ghost-rush.json) |
 | Ghost Shadow | 214199 | [214199-ghost-shadow.json](./214199-ghost-shadow.json) |
 | Ghost Ship: Hidden Object Adventure Games | 97210 | [97210-ghost-ship-hidden-object-adventure-games.json](./97210-ghost-ship-hidden-object-adventure-games.json) |
+| Ghost Signal: A Stellaris Game | 251560 | [251560-ghost-signal-a-stellaris-game.json](./251560-ghost-signal-a-stellaris-game.json) |
+| Ghost Signal: Fleet Expansion | 251575 | [251575-ghost-signal-fleet-expansion.json](./251575-ghost-signal-fleet-expansion.json) |
 | Ghost Simulator | 258491 | [258491-ghost-simulator.json](./258491-ghost-simulator.json) |
 | Ghost Stories | 119035 | [119035-ghost-stories.json](./119035-ghost-stories.json) |
 | Ghost Stories 2 | 150607 | [150607-ghost-stories-2.json](./150607-ghost-stories-2.json) |
@@ -1719,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend Rescue | 10364 | [10364-girlfriend-rescue.json](./10364-girlfriend-rescue.json) |
 | Girlfriend Simulator | 379587 | [379587-girlfriend-simulator.json](./379587-girlfriend-simulator.json) |
 | GirlFriend VR | 368116 | [368116-girlfriend-vr.json](./368116-girlfriend-vr.json) |
+| Girlfriend's Betrayal | 251518 | [251518-girlfriends-betrayal.json](./251518-girlfriends-betrayal.json) |
 | Girlfriend's sister | 75784 | [75784-girlfriends-sister.json](./75784-girlfriends-sister.json) |
 | Girlfriends Forever: Magic Skate | 84511 | [84511-girlfriends-forever-magic-skate.json](./84511-girlfriends-forever-magic-skate.json) |
 | Girlish Grimoire Littlewitch Romanesque: Editio Perfecta | 50166 | [50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json](./50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json) |
