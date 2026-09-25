@@ -360,6 +360,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
 | Hamboy: AutoChess Survivor | 257436 | [257436-hamboy-autochess-survivor.json](./257436-hamboy-autochess-survivor.json) |
+| Hamburg Club Football | 267880 | [267880-hamburg-club-football.json](./267880-hamburg-club-football.json) |
+| Hamburg Club Football 2005 | 267904 | [267904-hamburg-club-football-2005.json](./267904-hamburg-club-football-2005.json) |
 | Hamburg: Neue Burg VR | 291510 | [291510-hamburg-neue-burg-vr.json](./291510-hamburg-neue-burg-vr.json) |
 | Hamburger | 284447 | [284447-hamburger.json](./284447-hamburger.json) |
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
