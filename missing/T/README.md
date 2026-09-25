@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text: Russia | 160233 | [160233-text-russia.json](./160233-text-russia.json) |
 | Texthoth Ludo: Arcanum Senki | 107631 | [107631-texthoth-ludo-arcanum-senki.json](./107631-texthoth-ludo-arcanum-senki.json) |
 | Textiling | 182904 | [182904-textiling.json](./182904-textiling.json) |
+| Texting the Awkward Ace Guy You've Had a Crush on Since High School | 279706 | [279706-texting-the-awkward-ace-guy-youve-had-a-crush-on-since-high-school.json](./279706-texting-the-awkward-ace-guy-youve-had-a-crush-on-since-high-school.json) |
 | TextQuests | 397056 | [397056-textquests.json](./397056-textquests.json) |
 | Textris | 62713 | [62713-textris.json](./62713-textris.json) |
 | Texts from HSS | 319755 | [319755-texts-from-hss.json](./319755-texts-from-hss.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
 | The Bridge Curse: Road to Salvation | 193312 | [193312-the-bridge-curse-road-to-salvation.json](./193312-the-bridge-curse-road-to-salvation.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
+| The Brimstone Project: Odyssey Live | 279715 | [279715-the-brimstone-project-odyssey-live.json](./279715-the-brimstone-project-odyssey-live.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Brotherhood of Ruin | 142277 | [142277-the-brotherhood-of-ruin.json](./142277-the-brotherhood-of-ruin.json) |
 | The Brothers Hotel | 333084 | [333084-the-brothers-hotel.json](./333084-the-brothers-hotel.json) |
@@ -10268,6 +10270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Tales of the Scarlet | 379443 | [379443-touhou-tales-of-the-scarlet.json](./379443-touhou-tales-of-the-scarlet.json) |
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
 | Touhou: Wandering Souls | 304110 | [304110-touhou-wandering-souls.json](./304110-touhou-wandering-souls.json) |
+| Touhoumon World Link | 279679 | [279679-touhoumon-world-link.json](./279679-touhoumon-world-link.json) |
 | Touka Gettan: Koufuu no Ryouou | 287638 | [287638-touka-gettan-koufuu-no-ryouou.json](./287638-touka-gettan-koufuu-no-ryouou.json) |
 | Touka Gettan: Koufuu no Ryouou Deluxe Pack | 287640 | [287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json](./287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
@@ -12567,6 +12570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Tamarind Seeds | 179106 | [179106-two-tamarind-seeds.json](./179106-two-tamarind-seeds.json) |
 | Two Tigers | 25667 | [25667-two-tigers.json](./25667-two-tigers.json) |
 | Two Till Midnight | 122169 | [122169-two-till-midnight.json](./122169-two-till-midnight.json) |
+| Two Torn Towers | 279717 | [279717-two-torn-towers.json](./279717-two-torn-towers.json) |
 | Two Way | 25904 | [25904-two-way.json](./25904-two-way.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
