@@ -2909,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
 | Big Mutha Truckers | 3809 | [3809-big-mutha-truckers.json](./3809-big-mutha-truckers.json) |
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
+| Big Nose and the Witchdoctor | 233993 | [233993-big-nose-and-the-witchdoctor.json](./233993-big-nose-and-the-witchdoctor.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
 | Big Ol' Bass 2 | 43921 | [43921-big-ol-bass-2.json](./43921-big-ol-bass-2.json) |
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
@@ -6817,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Up | 121037 | [121037-burger-up.json](./121037-burger-up.json) |
 | Burger Wars | 66112 | [66112-burger-wars.json](./66112-burger-wars.json) |
 | Burger World | 181794 | [181794-burger-world.json](./181794-burger-world.json) |
+| Burger Yum! | 233995 | [233995-burger-yum.json](./233995-burger-yum.json) |
 | Burger: The Game | 102815 | [102815-burger-the-game.json](./102815-burger-the-game.json) |
 | Burgers | 18912 | [18912-burgers.json](./18912-burgers.json) |
 | BurgerTime | 199470 | [199470-burgertime.json](./199470-burgertime.json) |
@@ -7110,6 +7112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
 | Byte Fyte: Multiplayer | 226276 | [226276-byte-fyte-multiplayer.json](./226276-byte-fyte-multiplayer.json) |
 | Byte Lynx | 203889 | [203889-byte-lynx.json](./203889-byte-lynx.json) |
+| Byte Rider | 234011 | [234011-byte-rider.json](./234011-byte-rider.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
 | Bytes: The Reverse Tower Defense | 244707 | [244707-bytes-the-reverse-tower-defense.json](./244707-bytes-the-reverse-tower-defense.json) |
