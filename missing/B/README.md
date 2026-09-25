@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
 | Binding of Elements | 249227 | [249227-binding-of-elements.json](./249227-binding-of-elements.json) |
 | Bindmancer | 254006 | [254006-bindmancer.json](./254006-bindmancer.json) |
+| Bing Bong Blippo | 274436 | [274436-bing-bong-blippo.json](./274436-bing-bong-blippo.json) |
 | Bing Chilling | 371333 | [371333-bing-chilling.json](./371333-bing-chilling.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Azure Dragon | 325436 | [325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json](./325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Black Tortoise | 325440 | [325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json](./325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json) |
@@ -3027,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
 | Binky XXIV: Game Streamer "Binky" Plays Grotto of the Grebulons | 279024 | [279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json](./279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
+| Bio Block | 274518 | [274518-bio-block.json](./274518-bio-block.json) |
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
 | Bio Fault | 397052 | [397052-bio-fault.json](./397052-bio-fault.json) |
@@ -3636,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blanksword | 338720 | [338720-blanksword.json](./338720-blanksword.json) |
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
+| Blasphemous + Blasphemous 2 Bundle | 274522 | [274522-blasphemous-blasphemous-2-bundle.json](./274522-blasphemous-blasphemous-2-bundle.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
 | Blast 'Em Bunnies | 21321 | [21321-blast-em-bunnies.json](./21321-blast-em-bunnies.json) |
