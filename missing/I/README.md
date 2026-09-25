@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
 | Infected | 44524 | [44524-infected.json](./44524-infected.json) |
+| Infected Bunker | 280306 | [280306-infected-bunker.json](./280306-infected-bunker.json) |
 | Infected Friend | 224548 | [224548-infected-friend.json](./224548-infected-friend.json) |
 | Infected Love: The Fatal Experiment | 374135 | [374135-infected-love-the-fatal-experiment.json](./374135-infected-love-the-fatal-experiment.json) |
 | Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry | 231078 | [231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json](./231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json) |
