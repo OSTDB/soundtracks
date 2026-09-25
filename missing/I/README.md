@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Cat Village | 205585 | [205585-idle-cat-village.json](./205585-idle-cat-village.json) |
+| Idle Catfarmia | 247996 | [247996-idle-catfarmia.json](./247996-idle-catfarmia.json) |
 | Idle Cave Miner | 227273 | [227273-idle-cave-miner.json](./227273-idle-cave-miner.json) |
 | Idle Champions of the Forgotten Realms | 43178 | [43178-idle-champions-of-the-forgotten-realms.json](./43178-idle-champions-of-the-forgotten-realms.json) |
 | Idle Champions: Aasimar Glitch Donaar Skin & Feat Pack | 289847 | [289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json](./289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json) |
@@ -764,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignis | 81748 | [81748-ignis.json](./81748-ignis.json) |
 | Ignis Corruption | 196241 | [196241-ignis-corruption.json](./196241-ignis-corruption.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
+| Ignistone | 248000 | [248000-ignistone.json](./248000-ignistone.json) |
 | Ignitement | 407440 | [407440-ignitement.json](./407440-ignitement.json) |
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
@@ -1435,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
 | Inferno Meltdown | 266867 | [266867-inferno-meltdown.json](./266867-inferno-meltdown.json) |
 | Inferno Protocol | 381679 | [381679-inferno-protocol.json](./381679-inferno-protocol.json) |
+| Inferno Quest: Journey Through the Lava Cavern | 248021 | [248021-inferno-quest-journey-through-the-lava-cavern.json](./248021-inferno-quest-journey-through-the-lava-cavern.json) |
 | Inferno: Deathfield | 82051 | [82051-inferno-deathfield.json](./82051-inferno-deathfield.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infernovasion | 269663 | [269663-infernovasion.json](./269663-infernovasion.json) |
@@ -1445,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestation: Battle Royale | 130205 | [130205-infestation-battle-royale.json](./130205-infestation-battle-royale.json) |
 | Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
 | Infested Grounds | 275068 | [275068-infested-grounds.json](./275068-infested-grounds.json) |
+| Infested Lands | 248014 | [248014-infested-lands.json](./248014-infested-lands.json) |
 | Infested Planet: Planetary Campaign | 53231 | [53231-infested-planet-planetary-campaign.json](./53231-infested-planet-planetary-campaign.json) |
 | Infested: Space Colony | 148929 | [148929-infested-space-colony.json](./148929-infested-space-colony.json) |
 | Infestor | 146841 | [146841-infestor.json](./146841-infestor.json) |
