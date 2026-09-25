@@ -2204,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
 | Goat Survivor | 367025 | [367025-goat-survivor.json](./367025-goat-survivor.json) |
 | Goat!Goat! | 242481 | [242481-goat-goat.json](./242481-goat-goat.json) |
+| Goat's Tale 2: Plus | 236770 | [236770-goats-tale-2-plus.json](./236770-goats-tale-2-plus.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
 | Gob Johnson's Downhill Marmalade | 333169 | [333169-gob-johnsons-downhill-marmalade.json](./333169-gob-johnsons-downhill-marmalade.json) |
 | Gob! | 257447 | [257447-gob.json](./257447-gob.json) |
@@ -3558,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridlock | 356703 | [356703-gridlock.json](./356703-gridlock.json) |
 | Gridlock Dungeon | 297221 | [297221-gridlock-dungeon.json](./297221-gridlock-dungeon.json) |
 | Gridlock Gladiators | 264675 | [264675-gridlock-gladiators.json](./264675-gridlock-gladiators.json) |
+| Gridlocke | 236791 | [236791-gridlocke.json](./236791-gridlocke.json) |
 | GridMath | 151020 | [151020-gridmath.json](./151020-gridmath.json) |
 | Gridrunner | 310566 | [310566-gridrunner.json](./310566-gridrunner.json) |
 | Gridrunner++ | 61033 | [61033-gridrunner.json](./61033-gridrunner.json) |
