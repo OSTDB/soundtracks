@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 213944 | [213944-pac-man.json](./213944-pac-man.json) |
 | Pac-Man | 218442 | [218442-pac-man.json](./218442-pac-man.json) |
 | Pac-Man | 218443 | [218443-pac-man.json](./218443-pac-man.json) |
+| Pac-Man | 241905 | [241905-pac-man.json](./241905-pac-man.json) |
 | Pac-Man | 277394 | [277394-pac-man.json](./277394-pac-man.json) |
 | Pac-Man | 277395 | [277395-pac-man.json](./277395-pac-man.json) |
 | Pac-Man | 277396 | [277396-pac-man.json](./277396-pac-man.json) |
