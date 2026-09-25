@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
+| Acid Worship | 271740 | [271740-acid-worship.json](./271740-acid-worship.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
 | Acno's Energizer | 326749 | [326749-acnos-energizer.json](./326749-acnos-energizer.json) |
 | Aconitum | 379468 | [379468-aconitum.json](./379468-aconitum.json) |
@@ -1225,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
 | Afterschool : Reel Danger | 361913 | [361913-afterschool-reel-danger.json](./361913-afterschool-reel-danger.json) |
+| Aftershock for Quake | 271795 | [271795-aftershock-for-quake.json](./271795-aftershock-for-quake.json) |
 | AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
@@ -2889,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amulet of Lovar | 245957 | [245957-amulet-of-lovar.json](./245957-amulet-of-lovar.json) |
 | Amulet of Time: Shadow of La Rochelle | 169858 | [169858-amulet-of-time-shadow-of-la-rochelle.json](./169858-amulet-of-time-shadow-of-la-rochelle.json) |
 | Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
+| Amusement Inferno | 271722 | [271722-amusement-inferno.json](./271722-amusement-inferno.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
 | Amy Hates Robots | 356303 | [356303-amy-hates-robots.json](./356303-amy-hates-robots.json) |
@@ -4078,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabian | 13682 | [13682-arabian.json](./13682-arabian.json) |
 | Arabian Nights | 10861 | [10861-arabian-nights.json](./10861-arabian-nights.json) |
 | Arabian Nights | 111656 | [111656-arabian-nights.json](./111656-arabian-nights.json) |
+| Arabian Nights | 271778 | [271778-arabian-nights.json](./271778-arabian-nights.json) |
 | Arabian Nights: Sabaku no Seirei-ou | 38381 | [38381-arabian-nights-sabaku-no-seirei-ou.json](./38381-arabian-nights-sabaku-no-seirei-ou.json) |
 | Arabian Treasures: Midnight Match | 150490 | [150490-arabian-treasures-midnight-match.json](./150490-arabian-treasures-midnight-match.json) |
 | Arabilis | 197787 | [197787-arabilis.json](./197787-arabilis.json) |
@@ -4351,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana: Heat and Cold. Stories | 252233 | [252233-arcana-heat-and-cold-stories.json](./252233-arcana-heat-and-cold-stories.json) |
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
 | Arcanamals | 274477 | [274477-arcanamals.json](./274477-arcanamals.json) |
+| Arcane | 271797 | [271797-arcane.json](./271797-arcane.json) |
 | Arcane | 31163 | [31163-arcane.json](./31163-arcane.json) |
 | Arcane Angler | 400238 | [400238-arcane-angler.json](./400238-arcane-angler.json) |
 | Arcane Array Arena | 296524 | [296524-arcane-array-arena.json](./296524-arcane-array-arena.json) |
@@ -5199,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
 | Aska | 230569 | [230569-aska.json](./230569-aska.json) |
 | Aske | 165008 | [165008-aske.json](./165008-aske.json) |
+| Askisi Gamma | 271718 | [271718-askisi-gamma.json](./271718-askisi-gamma.json) |
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
 | Asleep in the Deep | 337102 | [337102-asleep-in-the-deep.json](./337102-asleep-in-the-deep.json) |
 | Asleep: Act 1 | 209702 | [209702-asleep-act-1.json](./209702-asleep-act-1.json) |
