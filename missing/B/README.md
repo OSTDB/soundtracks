@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Massacre | 338193 | [338193-banana-massacre.json](./338193-banana-massacre.json) |
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
+| Banana Sbang | 271179 | [271179-banana-sbang.json](./271179-banana-sbang.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
 | BananaGuideline | 125827 | [125827-bananaguideline.json](./125827-bananaguideline.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Rush Dream | 67301 | [67301-bass-rush-dream.json](./67301-bass-rush-dream.json) |
 | Bass Strike | 43286 | [43286-bass-strike.json](./43286-bass-strike.json) |
 | Bassai-Dai | 403654 | [403654-bassai-dai.json](./403654-bassai-dai.json) |
+| BassDuel | 271172 | [271172-bassduel.json](./271172-bassduel.json) |
 | Bassfishing | 92289 | [92289-bassfishing.json](./92289-bassfishing.json) |
 | Bassing Beat | 285997 | [285997-bassing-beat.json](./285997-bassing-beat.json) |
 | Bassing Beat 2 | 285998 | [285998-bassing-beat-2.json](./285998-bassing-beat-2.json) |
@@ -3118,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | Biotomata | 381685 | [381685-biotomata.json](./381685-biotomata.json) |
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
+| Biotoxin | 271184 | [271184-biotoxin.json](./271184-biotoxin.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
 | Biped 2 | 298613 | [298613-biped-2.json](./298613-biped-2.json) |
 | Bipedal Party | 376756 | [376756-bipedal-party.json](./376756-bipedal-party.json) |
@@ -3704,6 +3707,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasto | 377825 | [377825-blasto.json](./377825-blasto.json) |
 | Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
 | Blaston Spectator | 199641 | [199641-blaston-spectator.json](./199641-blaston-spectator.json) |
+| Blastris: Blastris A | 271252 | [271252-blastris-blastris-a.json](./271252-blastris-blastris-a.json) |
+| Blastris: Blastris B | 271253 | [271253-blastris-blastris-b.json](./271253-blastris-blastris-b.json) |
+| Blastris: Mole Patrol | 271254 | [271254-blastris-mole-patrol.json](./271254-blastris-mole-patrol.json) |
 | Blastroid | 390803 | [390803-blastroid.json](./390803-blastroid.json) |
 | Blastron | 388732 | [388732-blastron.json](./388732-blastron.json) |
 | BlastZone 2 | 35756 | [35756-blastzone-2.json](./35756-blastzone-2.json) |
@@ -4281,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Roar 2 | 4140 | [4140-bloody-roar-2.json](./4140-bloody-roar-2.json) |
 | Bloody Roar 3 | 3824 | [3824-bloody-roar-3.json](./3824-bloody-roar-3.json) |
 | Bloody Sky | 312153 | [312153-bloody-sky.json](./312153-bloody-sky.json) |
+| Bloody Slipgates | 271180 | [271180-bloody-slipgates.json](./271180-bloody-slipgates.json) |
 | Bloody Steel | 256913 | [256913-bloody-steel.json](./256913-bloody-steel.json) |
 | Bloody Streets | 36069 | [36069-bloody-streets.json](./36069-bloody-streets.json) |
 | Bloody Trapland 2: Curiosity | 28003 | [28003-bloody-trapland-2-curiosity.json](./28003-bloody-trapland-2-curiosity.json) |
