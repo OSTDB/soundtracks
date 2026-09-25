@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroxTrio | 183027 | [183027-heroxtrio.json](./183027-heroxtrio.json) |
 | Herpit | 385749 | [385749-herpit.json](./385749-herpit.json) |
 | HerrAnwalt: Lawyers Legacy | 224233 | [224233-herranwalt-lawyers-legacy.json](./224233-herranwalt-lawyers-legacy.json) |
+| Herschel Spaceport | 262995 | [262995-herschel-spaceport.json](./262995-herschel-spaceport.json) |
 | Herta's Chess Game | 309371 | [309371-hertas-chess-game.json](./309371-hertas-chess-game.json) |
 | HertenHeld | 322183 | [322183-hertenheld.json](./322183-hertenheld.json) |
 | Hertz | 244902 | [244902-hertz.json](./244902-hertz.json) |
@@ -2970,8 +2971,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Kizuna: Meakashi-hen | 262961 | [262961-higurashi-no-naku-koro-ni-kizuna-meakashi-hen.json](./262961-higurashi-no-naku-koro-ni-kizuna-meakashi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Minagoroshi-hen | 262980 | [262980-higurashi-no-naku-koro-ni-kizuna-minagoroshi-hen.json](./262980-higurashi-no-naku-koro-ni-kizuna-minagoroshi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Miotsukushi-hen | 263014 | [263014-higurashi-no-naku-koro-ni-kizuna-miotsukushi-hen.json](./263014-higurashi-no-naku-koro-ni-kizuna-miotsukushi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Onikakushi-hen | 262917 | [262917-higurashi-no-naku-koro-ni-kizuna-onikakushi-hen.json](./262917-higurashi-no-naku-koro-ni-kizuna-onikakushi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Saikoroshi-hen | 263017 | [263017-higurashi-no-naku-koro-ni-kizuna-saikoroshi-hen.json](./263017-higurashi-no-naku-koro-ni-kizuna-saikoroshi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Someutsushi-hen | 262925 | [262925-higurashi-no-naku-koro-ni-kizuna-someutsushi-hen.json](./262925-higurashi-no-naku-koro-ni-kizuna-someutsushi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Tatarigoroshi-hen | 262919 | [262919-higurashi-no-naku-koro-ni-kizuna-tatarigoroshi-hen.json](./262919-higurashi-no-naku-koro-ni-kizuna-tatarigoroshi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Tokihogushi-hen | 262990 | [262990-higurashi-no-naku-koro-ni-kizuna-tokihogushi-hen.json](./262990-higurashi-no-naku-koro-ni-kizuna-tokihogushi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Tsumihoroboshi-hen | 262978 | [262978-higurashi-no-naku-koro-ni-kizuna-tsumihoroboshi-hen.json](./262978-higurashi-no-naku-koro-ni-kizuna-tsumihoroboshi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Watanagashi-hen | 262918 | [262918-higurashi-no-naku-koro-ni-kizuna-watanagashi-hen.json](./262918-higurashi-no-naku-koro-ni-kizuna-watanagashi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Yoigoshi-hen | 262984 | [262984-higurashi-no-naku-koro-ni-kizuna-yoigoshi-hen.json](./262984-higurashi-no-naku-koro-ni-kizuna-yoigoshi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.0 Himatsubushi-hen | 262688 | [262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json](./262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.1 Taraimawashi-hen | 262680 | [262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json](./262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.2 Onikakushi-hen | 262682 | [262682-higurashi-no-naku-koro-ni-matsuri-ch-2-onikakushi-hen.json](./262682-higurashi-no-naku-koro-ni-matsuri-ch-2-onikakushi-hen.json) |
@@ -3905,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Cartridge Collection | 244897 | [244897-horror-cartridge-collection.json](./244897-horror-cartridge-collection.json) |
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
+| Horror Gallery | 262908 | [262908-horror-gallery.json](./262908-horror-gallery.json) |
 | Horror Game Collection | 184595 | [184595-horror-game-collection.json](./184595-horror-game-collection.json) |
 | Horror Game: Granny | 100232 | [100232-horror-game-granny.json](./100232-horror-game-granny.json) |
 | Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
@@ -4029,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely Waifu XXII | 318430 | [318430-hot-and-lovely-waifu-xxii.json](./318430-hot-and-lovely-waifu-xxii.json) |
 | Hot And Lovely XXII | 318431 | [318431-hot-and-lovely-xxii.json](./318431-hot-and-lovely-xxii.json) |
 | Hot And Lovely: Dream | 296911 | [296911-hot-and-lovely-dream.json](./296911-hot-and-lovely-dream.json) |
+| Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
 | Hot Brass: Operator Edition | 167176 | [167176-hot-brass-operator-edition.json](./167176-hot-brass-operator-edition.json) |
 | Hot Bubble | 40194 | [40194-hot-bubble.json](./40194-hot-bubble.json) |
 | Hot Candy Land | 262955 | [262955-hot-candy-land.json](./262955-hot-candy-land.json) |
@@ -4297,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
 | Hoverboard Hero | 237381 | [237381-hoverboard-hero.json](./237381-hoverboard-hero.json) |
+| Hovercab Station | 262994 | [262994-hovercab-station.json](./262994-hovercab-station.json) |
 | Hovercars 3077: Underground racing | 192436 | [192436-hovercars-3077-underground-racing.json](./192436-hovercars-3077-underground-racing.json) |
 | Hovercraft Race 3D | 26691 | [26691-hovercraft-race-3d.json](./26691-hovercraft-race-3d.json) |
 | Hovercraft Racing | 192836 | [192836-hovercraft-racing.json](./192836-hovercraft-racing.json) |
