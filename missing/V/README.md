@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game Tutorial | 365277 | [365277-video-game-tutorial.json](./365277-video-game-tutorial.json) |
 | Video Hustler | 38557 | [38557-video-hustler.json](./38557-video-hustler.json) |
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
+| Video Poker | 246382 | [246382-video-poker.json](./246382-video-poker.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
 | Video Strip Poker HD | 109636 | [109636-video-strip-poker-hd.json](./109636-video-strip-poker-hd.json) |
 | Video Tennis but the Computer Asks About Your Ex-Girlfriend | 177413 | [177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json](./177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json) |
