@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: Hercule Poirot - The First Cases | 159123 | [159123-agatha-christie-hercule-poirot-the-first-cases.json](./159123-agatha-christie-hercule-poirot-the-first-cases.json) |
 | Agatha Christie: Hercule Poirot - The London Case: Deluxe | 276303 | [276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json](./276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json) |
 | Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
+| Age of Ants | 275672 | [275672-age-of-ants.json](./275672-age-of-ants.json) |
 | Age of Barbarian Extended Cut: The Slaves' Fortress | 171499 | [171499-age-of-barbarian-extended-cut-the-slaves-fortress.json](./171499-age-of-barbarian-extended-cut-the-slaves-fortress.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Booty: Tactics | 61332 | [61332-age-of-booty-tactics.json](./61332-age-of-booty-tactics.json) |
