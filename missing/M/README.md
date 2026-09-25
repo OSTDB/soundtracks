@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
 | Mecha Knights: Nightmare | 125202 | [125202-mecha-knights-nightmare.json](./125202-mecha-knights-nightmare.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
+| Mecha Kucha Gacha Defence | 255038 | [255038-mecha-kucha-gacha-defence.json](./255038-mecha-kucha-gacha-defence.json) |
 | Mecha Macho | 317390 | [317390-mecha-macho.json](./317390-mecha-macho.json) |
 | Mecha Mining Marvelous Martian Minerals | 363934 | [363934-mecha-mining-marvelous-martian-minerals.json](./363934-mecha-mining-marvelous-martian-minerals.json) |
 | Mecha Party | 286043 | [286043-mecha-party.json](./286043-mecha-party.json) |
@@ -4961,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
 | Minions, Monsters, and Madness | 30194 | [30194-minions-monsters-and-madness.json](./30194-minions-monsters-and-madness.json) |
 | Minions. Five nights at Despicable Hospital 3D | 99418 | [99418-minions-five-nights-at-despicable-hospital-3d.json](./99418-minions-five-nights-at-despicable-hospital-3d.json) |
+| MiniPix Jump | 255049 | [255049-minipix-jump.json](./255049-minipix-jump.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | Ministry of Order | 334893 | [334893-ministry-of-order.json](./334893-ministry-of-order.json) |
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
@@ -5253,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
 | Mister Slime | 21377 | [21377-mister-slime.json](./21377-mister-slime.json) |
+| Mister Smith & His Adventures | 255039 | [255039-mister-smith-and-his-adventures.json](./255039-mister-smith-and-his-adventures.json) |
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
 | Mister Versatile: A Gay Superhero Visual Novel | 180251 | [180251-mister-versatile-a-gay-superhero-visual-novel.json](./180251-mister-versatile-a-gay-superhero-visual-novel.json) |
 | Misterious Thief | 321996 | [321996-misterious-thief.json](./321996-misterious-thief.json) |
@@ -6714,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Madness | 10260 | [10260-motocross-madness.json](./10260-motocross-madness.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
 | Motocross Maniacs Advance | 23475 | [23475-motocross-maniacs-advance.json](./23475-motocross-maniacs-advance.json) |
+| Motocross Mini Outrun | 255034 | [255034-motocross-mini-outrun.json](./255034-motocross-mini-outrun.json) |
 | Motocross Racer | 23841 | [23841-motocross-racer.json](./23841-motocross-racer.json) |
 | Motocross The Game | 337185 | [337185-motocross-the-game.json](./337185-motocross-the-game.json) |
 | Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
@@ -7212,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
 | Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
+| Munchkin Digital: Unnatural Axe | 255020 | [255020-munchkin-digital-unnatural-axe.json](./255020-munchkin-digital-unnatural-axe.json) |
 | Munchkin: Quacked Quest | 110314 | [110314-munchkin-quacked-quest.json](./110314-munchkin-quacked-quest.json) |
 | Munchman: 35th Anniversary Edition | 308363 | [308363-munchman-35th-anniversary-edition.json](./308363-munchman-35th-anniversary-edition.json) |
 | Munchyman | 98234 | [98234-munchyman.json](./98234-munchyman.json) |
