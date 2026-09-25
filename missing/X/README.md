@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoWorld: The Rondeau of Astra | 236951 | [236951-xenoworld-the-rondeau-of-astra.json](./236951-xenoworld-the-rondeau-of-astra.json) |
 | Xentripetal Force | 121466 | [121466-xentripetal-force.json](./121466-xentripetal-force.json) |
 | Xeodrifter | 8506 | [8506-xeodrifter.json](./8506-xeodrifter.json) |
+| XeonMass | 256217 | [256217-xeonmass.json](./256217-xeonmass.json) |
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
 | Xerminus | 371897 | [371897-xerminus.json](./371897-xerminus.json) |
