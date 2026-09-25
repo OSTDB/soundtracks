@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Trap | 298556 | [298556-night-trap.json](./298556-night-trap.json) |
 | Night Trap: 25th Anniversary Edition | 28249 | [28249-night-trap-25th-anniversary-edition.json](./28249-night-trap-25th-anniversary-edition.json) |
 | Night Vigil | 31848 | [31848-night-vigil.json](./31848-night-vigil.json) |
+| Night Walker | 256316 | [256316-night-walker.json](./256316-night-walker.json) |
 | Night Watch | 20540 | [20540-night-watch.json](./20540-night-watch.json) |
 | Night Witch: 588 | 127245 | [127245-night-witch-588.json](./127245-night-witch-588.json) |
 | Night with Timber | 377795 | [377795-night-with-timber.json](./377795-night-with-timber.json) |
@@ -1909,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nimble Bunn | 68805 | [68805-nimble-bunn.json](./68805-nimble-bunn.json) |
 | Nimble Numbers Ned | 41561 | [41561-nimble-numbers-ned.json](./41561-nimble-numbers-ned.json) |
 | Nimble Quest | 16780 | [16780-nimble-quest.json](./16780-nimble-quest.json) |
+| Nimble Strong | 256237 | [256237-nimble-strong.json](./256237-nimble-strong.json) |
 | Nimian Legends: BrightRidge | 89183 | [89183-nimian-legends-brightridge.json](./89183-nimian-legends-brightridge.json) |
 | Nimillion: The Last Expedition | 296478 | [296478-nimillion-the-last-expedition.json](./296478-nimillion-the-last-expedition.json) |
 | Nimpize Adventure | 135170 | [135170-nimpize-adventure.json](./135170-nimpize-adventure.json) |
@@ -2938,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numjump | 384787 | [384787-numjump.json](./384787-numjump.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
 | Nump Jump | 213587 | [213587-nump-jump.json](./213587-nump-jump.json) |
+| NumTasu | 256242 | [256242-numtasu.json](./256242-numtasu.json) |
 | NumWorlds | 335846 | [335846-numworlds.json](./335846-numworlds.json) |
 | NumX | 341491 | [341491-numx.json](./341491-numx.json) |
 | Nun Attack | 38956 | [38956-nun-attack.json](./38956-nun-attack.json) |
