@@ -4226,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
 | Pokémon: A Star in the Desert | 360191 | [360191-pokemon-a-star-in-the-desert.json](./360191-pokemon-a-star-in-the-desert.json) |
+| Pokémon: Abstract Version | 281477 | [281477-pokemon-abstract-version.json](./281477-pokemon-abstract-version.json) |
 | Pokémon: Battle Factory | 339247 | [339247-pokemon-battle-factory.json](./339247-pokemon-battle-factory.json) |
 | Pokémon: Blossom of the Soul | 143023 | [143023-pokemon-blossom-of-the-soul.json](./143023-pokemon-blossom-of-the-soul.json) |
 | Pokémon: Burning Lotus | 265218 | [265218-pokemon-burning-lotus.json](./265218-pokemon-burning-lotus.json) |
@@ -5678,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progs_dump | 300705 | [300705-progs-dump.json](./300705-progs-dump.json) |
 | Prohibeast | 343266 | [343266-prohibeast.json](./343266-prohibeast.json) |
 | Prohibition 1930 | 53480 | [53480-prohibition-1930.json](./53480-prohibition-1930.json) |
+| Project 13 | 281467 | [281467-project-13.json](./281467-project-13.json) |
 | Project 13: Nightwatch | 295338 | [295338-project-13-nightwatch.json](./295338-project-13-nightwatch.json) |
 | Project 13: Nightwatch - Canteen | 310382 | [310382-project-13-nightwatch-canteen.json](./310382-project-13-nightwatch-canteen.json) |
 | Project 13: Taxidermy Trails | 288192 | [288192-project-13-taxidermy-trails.json](./288192-project-13-taxidermy-trails.json) |
