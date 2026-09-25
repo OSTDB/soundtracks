@@ -7158,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Mystery Island: The Ghost Ship | 53772 | [53772-the-treasures-of-mystery-island-the-ghost-ship.json](./53772-the-treasures-of-mystery-island-the-ghost-ship.json) |
 | The Tree Of Life | 295248 | [295248-the-tree-of-life.json](./295248-the-tree-of-life.json) |
 | The Treehouse Man | 102317 | [102317-the-treehouse-man.json](./102317-the-treehouse-man.json) |
+| The Treflik Family: Deluxe Edition | 246883 | [246883-the-treflik-family-deluxe-edition.json](./246883-the-treflik-family-deluxe-edition.json) |
 | The Trench | 219669 | [219669-the-trench.json](./219669-the-trench.json) |
 | The Trial | 170383 | [170383-the-trial.json](./170383-the-trial.json) |
 | The trial of witch | 80918 | [80918-the-trial-of-witch.json](./80918-the-trial-of-witch.json) |
@@ -12039,6 +12040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit: NASCAR | 100170 | [100170-trivial-pursuit-nascar.json](./100170-trivial-pursuit-nascar.json) |
 | Trivial Pursuit: The CD32 Edition | 39040 | [39040-trivial-pursuit-the-cd32-edition.json](./39040-trivial-pursuit-the-cd32-edition.json) |
 | Trivial PurTwitch | 396241 | [396241-trivial-purtwitch.json](./396241-trivial-purtwitch.json) |
+| Trivial Trivia | 246905 | [246905-trivial-trivia.json](./246905-trivial-trivia.json) |
 | Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
 | Trix and the Horny Tower | 367016 | [367016-trix-and-the-horny-tower.json](./367016-trix-and-the-horny-tower.json) |
 | Trixology | 381231 | [381231-trixology.json](./381231-trixology.json) |
