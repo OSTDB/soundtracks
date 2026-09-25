@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Election Day | 340995 | [340995-election-day.json](./340995-election-day.json) |
 | Election Day | 415126 | [415126-election-day.json](./415126-election-day.json) |
 | Election Train | 406206 | [406206-election-train.json](./406206-election-train.json) |
+| Election Year Knockout: Boxing | 264012 | [264012-election-year-knockout-boxing.json](./264012-election-year-knockout-boxing.json) |
 | Electoral Carnage | 350040 | [350040-electoral-carnage.json](./350040-electoral-carnage.json) |
 | Electoral Dynasty | 276246 | [276246-electoral-dynasty.json](./276246-electoral-dynasty.json) |
 | Electra | 78377 | [78377-electra.json](./78377-electra.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enough with the Witch | 298677 | [298677-enough-with-the-witch.json](./298677-enough-with-the-witch.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
+| Enraged Red Ogre | 264080 | [264080-enraged-red-ogre.json](./264080-enraged-red-ogre.json) |
 | Ensemble Girls!!: Memories | 397257 | [397257-ensemble-girls-memories.json](./397257-ensemble-girls-memories.json) |
 | Ensemble Stars | 102567 | [102567-ensemble-stars.json](./102567-ensemble-stars.json) |
 | Ensemble Stars! 2 | 197334 | [197334-ensemble-stars-2.json](./197334-ensemble-stars-2.json) |
