@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Navy: Daydream Edition | 110318 | [110318-neko-navy-daydream-edition.json](./110318-neko-navy-daydream-edition.json) |
 | Neko Neko | 219036 | [219036-neko-neko.json](./219036-neko-neko.json) |
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
+| Neko Neko Rampage | 231304 | [231304-neko-neko-rampage.json](./231304-neko-neko-rampage.json) |
 | Neko Night | 222912 | [222912-neko-night.json](./222912-neko-night.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
 | Neko Sagashi | 227270 | [227270-neko-sagashi.json](./227270-neko-sagashi.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptune Island | 319796 | [319796-neptune-island.json](./319796-neptune-island.json) |
 | Neptune Spear | 371424 | [371424-neptune-spear.json](./371424-neptune-spear.json) |
 | Neptune's Daughters | 40958 | [40958-neptunes-daughters.json](./40958-neptunes-daughters.json) |
+| Neptune's Garden | 231340 | [231340-neptunes-garden.json](./231340-neptunes-garden.json) |
 | Neptune's Pride | 65746 | [65746-neptunes-pride.json](./65746-neptunes-pride.json) |
 | Neptune's Pride II: Triton | 62443 | [62443-neptunes-pride-ii-triton.json](./62443-neptunes-pride-ii-triton.json) |
 | Neptune's Secret | 210039 | [210039-neptunes-secret.json](./210039-neptunes-secret.json) |
@@ -2906,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Rancher | 110914 | [110914-nuclear-rancher.json](./110914-nuclear-rancher.json) |
 | Nuclear Reaction | 184502 | [184502-nuclear-reaction.json](./184502-nuclear-reaction.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
+| Nuclear Sub | 231298 | [231298-nuclear-sub.json](./231298-nuclear-sub.json) |
 | Nuclear Throne 3D | 375427 | [375427-nuclear-throne-3d.json](./375427-nuclear-throne-3d.json) |
 | Nuclear Titbit | 113375 | [113375-nuclear-titbit.json](./113375-nuclear-titbit.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
