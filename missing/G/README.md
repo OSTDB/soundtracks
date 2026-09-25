@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemmy's Adventure | 333112 | [333112-gemmys-adventure.json](./333112-gemmys-adventure.json) |
 | Gemology | 85167 | [85167-gemology.json](./85167-gemology.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
+| Gems and Knight | 274450 | [274450-gems-and-knight.json](./274450-gems-and-knight.json) |
 | Gems of Destiny: Magic Rescue | 416696 | [416696-gems-of-destiny-magic-rescue.json](./416696-gems-of-destiny-magic-rescue.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
 | Gems of Magic: Double Pack | 242051 | [242051-gems-of-magic-double-pack.json](./242051-gems-of-magic-double-pack.json) |
