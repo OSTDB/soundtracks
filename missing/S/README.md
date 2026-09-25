@@ -1219,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Sleuths Vol. 1: Mysteries of the Blob and the Exploding Lawnmowers | 319017 | [319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json](./319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json) |
 | Science Trivia Quiz 100 Wonders | 409659 | [409659-science-trivia-quiz-100-wonders.json](./409659-science-trivia-quiz-100-wonders.json) |
 | Science: The Game | 293699 | [293699-science-the-game.json](./293699-science-the-game.json) |
+| Scientific Project: Optic | 258431 | [258431-scientific-project-optic.json](./258431-scientific-project-optic.json) |
 | Scientific Shutdown | 156123 | [156123-scientific-shutdown.json](./156123-scientific-shutdown.json) |
 | Scientific Terms Extreme | 107125 | [107125-scientific-terms-extreme.json](./107125-scientific-terms-extreme.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
@@ -2031,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selene | 337167 | [337167-selene.json](./337167-selene.json) |
 | Selene: Apoptosis - 18+ Adult Only Patch | 263438 | [263438-selene-apoptosis-18-adult-only-patch.json](./263438-selene-apoptosis-18-adult-only-patch.json) |
 | Selene's Nightmare | 153850 | [153850-selenes-nightmare.json](./153850-selenes-nightmare.json) |
+| Selene's Unbearable Night | 258414 | [258414-selenes-unbearable-night.json](./258414-selenes-unbearable-night.json) |
 | Self | 118430 | [118430-self.json](./118430-self.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
@@ -4558,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six inches deep in mud | 278466 | [278466-six-inches-deep-in-mud.json](./278466-six-inches-deep-in-mud.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Micro Stories | 55837 | [55837-six-micro-stories.json](./55837-six-micro-stories.json) |
+| Six Nights to Die | 258412 | [258412-six-nights-to-die.json](./258412-six-nights-to-die.json) |
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
 | Six Seals | 384533 | [384533-six-seals.json](./384533-six-seals.json) |
 | Six Sided Sanctuary | 128390 | [128390-six-sided-sanctuary.json](./128390-six-sided-sanctuary.json) |
@@ -4867,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Rusher | 97263 | [97263-sky-rusher.json](./97263-sky-rusher.json) |
 | Sky Scaffold | 392131 | [392131-sky-scaffold.json](./392131-sky-scaffold.json) |
 | Sky Seeker | 159840 | [159840-sky-seeker.json](./159840-sky-seeker.json) |
+| Sky Settlers | 258422 | [258422-sky-settlers.json](./258422-sky-settlers.json) |
 | Sky Shepherd | 117103 | [117103-sky-shepherd.json](./117103-sky-shepherd.json) |
 | Sky Skipper | 18546 | [18546-sky-skipper.json](./18546-sky-skipper.json) |
 | Sky Skipper | 288336 | [288336-sky-skipper.json](./288336-sky-skipper.json) |
@@ -11818,6 +11822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
 | Sunny Side Crossing | 309442 | [309442-sunny-side-crossing.json](./309442-sunny-side-crossing.json) |
+| Sunny Side Down, by Muno! | 258415 | [258415-sunny-side-down-by-muno.json](./258415-sunny-side-down-by-muno.json) |
 | Sunny Side Nightmare | 320886 | [320886-sunny-side-nightmare.json](./320886-sunny-side-nightmare.json) |
 | Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
 | Sunpolis | 267330 | [267330-sunpolis.json](./267330-sunpolis.json) |
@@ -13629,6 +13634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarmlake | 86468 | [86468-swarmlake.json](./86468-swarmlake.json) |
 | Swarmrider Omega | 67901 | [67901-swarmrider-omega.json](./67901-swarmrider-omega.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
+| SwarmsurgE | 258411 | [258411-swarmsurge.json](./258411-swarmsurge.json) |
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
 | SWAT | 307058 | [307058-swat.json](./307058-swat.json) |
 | SWAT 3: Close Quarters Battle | 313 | [313-swat-3-close-quarters-battle.json](./313-swat-3-close-quarters-battle.json) |
