@@ -4114,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
 | Silent Hill 2: Restless Dreams | 22066 | [22066-silent-hill-2-restless-dreams.json](./22066-silent-hill-2-restless-dreams.json) |
 | Silent Hill 2: Special 2 Disc Set | 43277 | [43277-silent-hill-2-special-2-disc-set.json](./43277-silent-hill-2-special-2-disc-set.json) |
+| Silent Hill 2: Streets of Rage | 234020 | [234020-silent-hill-2-streets-of-rage.json](./234020-silent-hill-2-streets-of-rage.json) |
 | Silent Hill 3 | 222486 | [222486-silent-hill-3.json](./222486-silent-hill-3.json) |
 | Silent Hill 5 | 282697 | [282697-silent-hill-5.json](./282697-silent-hill-5.json) |
 | Silent Hill 64 | 310573 | [310573-silent-hill-64.json](./310573-silent-hill-64.json) |
@@ -12142,6 +12143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
 | Super Boss Gaiden | 20333 | [20333-super-boss-gaiden.json](./20333-super-boss-gaiden.json) |
+| Super Botte & Bamba II Turbo | 234034 | [234034-super-botte-and-bamba-ii-turbo.json](./234034-super-botte-and-bamba-ii-turbo.json) |
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
@@ -13202,6 +13204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Stardust Delta | 42694 | [42694-super-stardust-delta.json](./42694-super-stardust-delta.json) |
+| Super Stardust Portable | 234021 | [234021-super-stardust-portable.json](./234021-super-stardust-portable.json) |
 | Super Sticker Studio: Creative Sticker Book Game for Kids | 389074 | [389074-super-sticker-studio-creative-sticker-book-game-for-kids.json](./389074-super-sticker-studio-creative-sticker-book-game-for-kids.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
