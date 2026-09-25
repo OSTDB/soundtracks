@@ -2247,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling World: Yoshihiro Takayama Charity DLC Part 2 | 170443 | [170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json](./170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json) |
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
+| Fire Shark | 261849 | [261849-fire-shark.json](./261849-fire-shark.json) |
 | Fire Showdown | 303049 | [303049-fire-showdown.json](./303049-fire-showdown.json) |
 | Fire Station Renovation | 211256 | [211256-fire-station-renovation.json](./211256-fire-station-renovation.json) |
 | Fire Thief | 286053 | [286053-fire-thief.json](./286053-fire-thief.json) |
@@ -4068,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: Car Pass | 293918 | [293918-forza-horizon-5-car-pass.json](./293918-forza-horizon-5-car-pass.json) |
 | Forza Horizon 5: Chinese Lucky Stars Car Pack | 291076 | [291076-forza-horizon-5-chinese-lucky-stars-car-pack.json](./291076-forza-horizon-5-chinese-lucky-stars-car-pack.json) |
 | Forza Horizon 5: Expansions Bundle | 200693 | [200693-forza-horizon-5-expansions-bundle.json](./200693-forza-horizon-5-expansions-bundle.json) |
+| Forza Horizon 5: Italian Exotics Car Pack | 261851 | [261851-forza-horizon-5-italian-exotics-car-pack.json](./261851-forza-horizon-5-italian-exotics-car-pack.json) |
 | Forza Horizon 5: VIP | 387371 | [387371-forza-horizon-5-vip.json](./387371-forza-horizon-5-vip.json) |
 | Forza Horizon 5: Welcome Pack | 387369 | [387369-forza-horizon-5-welcome-pack.json](./387369-forza-horizon-5-welcome-pack.json) |
 | Forza Horizon 6 1998 Nissan Skyline Gt-r 40th Anniversary | 409011 | [409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json](./409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json) |
