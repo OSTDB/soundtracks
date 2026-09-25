@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LaserCat | 32271 | [32271-lasercat.json](./32271-lasercat.json) |
 | Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
 | Laserpitium | 249307 | [249307-laserpitium.json](./249307-laserpitium.json) |
+| LaserPoint | 274530 | [274530-laserpoint.json](./274530-laserpoint.json) |
 | LaserReimu | 324302 | [324302-laserreimu.json](./324302-laserreimu.json) |
 | LaserShotz | 159890 | [159890-lasershotz.json](./159890-lasershotz.json) |
 | Laserstorm | 336689 | [336689-laserstorm.json](./336689-laserstorm.json) |
@@ -564,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Shooter: Apocalypse | 227266 | [227266-last-shooter-apocalypse.json](./227266-last-shooter-apocalypse.json) |
 | Last Soldier | 52270 | [52270-last-soldier.json](./52270-last-soldier.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
+| Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
 | Last Stand: Reborn | 113490 | [113490-last-stand-reborn.json](./113490-last-stand-reborn.json) |
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
 | Last Star | 316097 | [316097-last-star.json](./316097-last-star.json) |
