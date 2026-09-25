@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
+| New Rule: The Game is... | 234581 | [234581-new-rule-the-game-is.json](./234581-new-rule-the-game-is.json) |
 | New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
 | New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
 | New Star Soccer | 7682 | [7682-new-star-soccer.json](./7682-new-star-soccer.json) |
