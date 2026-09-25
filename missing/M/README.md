@@ -2675,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot R Parts Collection | 92537 | [92537-medarot-r-parts-collection.json](./92537-medarot-r-parts-collection.json) |
 | Medchess | 240781 | [240781-medchess.json](./240781-medchess.json) |
 | MedCorps | 58758 | [58758-medcorps.json](./58758-medcorps.json) |
+| MedEvil | 262289 | [262289-medevil.json](./262289-medevil.json) |
 | MediAevi | 383479 | [383479-mediaevi.json](./383479-mediaevi.json) |
 | Mediator | 355237 | [355237-mediator.json](./355237-mediator.json) |
 | Medic Mayhem | 406680 | [406680-medic-mayhem.json](./406680-medic-mayhem.json) |
@@ -7088,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
 | Mugen no Shinzou II | 246656 | [246656-mugen-no-shinzou-ii.json](./246656-mugen-no-shinzou-ii.json) |
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
+| Mugen Souls Double Pack | 262325 | [262325-mugen-souls-double-pack.json](./262325-mugen-souls-double-pack.json) |
 | Mugen Souls Z | 11503 | [11503-mugen-souls-z.json](./11503-mugen-souls-z.json) |
 | Mugen Sweeper | 256910 | [256910-mugen-sweeper.json](./256910-mugen-sweeper.json) |
 | MugenCards | 200698 | [200698-mugencards.json](./200698-mugencards.json) |
@@ -7257,6 +7259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery J: Special Stamp - Vanilla | 325480 | [325480-murder-mystery-j-special-stamp-vanilla.json](./325480-murder-mystery-j-special-stamp-vanilla.json) |
 | Murder Mystery Machine | 111944 | [111944-murder-mystery-machine.json](./111944-murder-mystery-machine.json) |
 | Murder Mystery Paradox: Fifteen Years of Summer | 247526 | [247526-murder-mystery-paradox-fifteen-years-of-summer.json](./247526-murder-mystery-paradox-fifteen-years-of-summer.json) |
+| Murder on Mainstreet | 262299 | [262299-murder-on-mainstreet.json](./262299-murder-on-mainstreet.json) |
 | Murder on Snake Road | 66961 | [66961-murder-on-snake-road.json](./66961-murder-on-snake-road.json) |
 | Murder on the Island | 116871 | [116871-murder-on-the-island.json](./116871-murder-on-the-island.json) |
 | Murder on the Marine Express | 151690 | [151690-murder-on-the-marine-express.json](./151690-murder-on-the-marine-express.json) |
