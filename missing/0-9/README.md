@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
 | 0x0 | 294768 | [294768-0x0.json](./294768-0x0.json) |
 | 1 4 the $ | 301397 | [301397-1-4-the.json](./301397-1-4-the.json) |
+| 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
 | 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
@@ -380,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Masca | 405725 | [405725-13-masca.json](./405725-13-masca.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 13 Seconds | 283868 | [283868-13-seconds.json](./283868-13-seconds.json) |
+| 13 Thieves | 234074 | [234074-13-thieves.json](./234074-13-thieves.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
 | 1337D00m | 109489 | [109489-1337d00m.json](./109489-1337d00m.json) |
 | 1378km | 139389 | [139389-1378km.json](./139389-1378km.json) |
