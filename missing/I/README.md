@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Adventure | 335327 | [335327-ink-adventure.json](./335327-ink-adventure.json) |
 | Ink and Intrigue | 340753 | [340753-ink-and-intrigue.json](./340753-ink-and-intrigue.json) |
 | Ink and Paper: Wandering | 190071 | [190071-ink-and-paper-wandering.json](./190071-ink-and-paper-wandering.json) |
+| Ink Bunny | 235693 | [235693-ink-bunny.json](./235693-ink-bunny.json) |
 | Ink Enigma: Hidden Object Challenges | 359036 | [359036-ink-enigma-hidden-object-challenges.json](./359036-ink-enigma-hidden-object-challenges.json) |
 | Ink Hero | 335331 | [335331-ink-hero.json](./335331-ink-hero.json) |
 | Ink Neko Maid | 247428 | [247428-ink-neko-maid.json](./247428-ink-neko-maid.json) |
@@ -2647,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Always Sunny: The Gang Goes Mobile | 110286 | [110286-its-always-sunny-the-gang-goes-mobile.json](./110286-its-always-sunny-the-gang-goes-mobile.json) |
 | It's Breaking Out | 358347 | [358347-its-breaking-out.json](./358347-its-breaking-out.json) |
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
+| It's Dark Inside | 235675 | [235675-its-dark-inside.json](./235675-its-dark-inside.json) |
 | It's Dungeon Time! | 172748 | [172748-its-dungeon-time.json](./172748-its-dungeon-time.json) |
 | It's Fine | 382473 | [382473-its-fine.json](./382473-its-fine.json) |
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
