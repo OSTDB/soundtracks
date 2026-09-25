@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Out | 287099 | [287099-get-out.json](./287099-get-out.json) |
 | Get Out | 395537 | [395537-get-out.json](./395537-get-out.json) |
 | Get Out Joey! | 248892 | [248892-get-out-joey.json](./248892-get-out-joey.json) |
+| Get Out of My Store! | 268512 | [268512-get-out-of-my-store.json](./268512-get-out-of-my-store.json) |
 | Get Out of this Dungeon | 133995 | [133995-get-out-of-this-dungeon.json](./133995-get-out-of-this-dungeon.json) |
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
 | Get Out! 2 | 226741 | [226741-get-out-2.json](./226741-get-out-2.json) |
