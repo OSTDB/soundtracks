@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift of the NecroDancer: Undertale Music Pack | 397807 | [397807-rift-of-the-necrodancer-undertale-music-pack.json](./397807-rift-of-the-necrodancer-undertale-music-pack.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Runner | 143013 | [143013-rift-runner.json](./143013-rift-runner.json) |
+| Rift Survivors | 273442 | [273442-rift-survivors.json](./273442-rift-survivors.json) |
 | Rift Survivors | 373199 | [373199-rift-survivors.json](./373199-rift-survivors.json) |
 | Rift Walker | 256905 | [256905-rift-walker.json](./256905-rift-walker.json) |
 | Rift Walker | 293677 | [293677-rift-walker.json](./293677-rift-walker.json) |
@@ -3386,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Risk | 58755 | [58755-robo-risk.json](./58755-robo-risk.json) |
 | Robo Rob | 286597 | [286597-robo-rob.json](./286597-robo-rob.json) |
 | Robo Runner | 186157 | [186157-robo-runner.json](./186157-robo-runner.json) |
+| Robo Rush | 273430 | [273430-robo-rush.json](./273430-robo-rush.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | Robo Wrestle 2001 | 40422 | [40422-robo-wrestle-2001.json](./40422-robo-wrestle-2001.json) |
 | Robo-Key | 181803 | [181803-robo-key.json](./181803-robo-key.json) |
@@ -3933,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
+| Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll The Die: Prologue | 309467 | [309467-roll-the-die-prologue.json](./309467-roll-the-die-prologue.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
