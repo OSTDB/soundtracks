@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Portrait of Ruin | 1138 | [1138-castlevania-portrait-of-ruin.json](./1138-castlevania-portrait-of-ruin.json) |
 | Castlevania: Portrait of Ruin | 315315 | [315315-castlevania-portrait-of-ruin.json](./315315-castlevania-portrait-of-ruin.json) |
 | Castlevania: Rondo of the Night | 394858 | [394858-castlevania-rondo-of-the-night.json](./394858-castlevania-rondo-of-the-night.json) |
+| Castlevania: Seal of the Eclipse | 240147 | [240147-castlevania-seal-of-the-eclipse.json](./240147-castlevania-seal-of-the-eclipse.json) |
 | Castlevania: Simon's Destiny | 141030 | [141030-castlevania-simons-destiny.json](./141030-castlevania-simons-destiny.json) |
 | Castlevania: Specter of Sorrow | 233598 | [233598-castlevania-specter-of-sorrow.json](./233598-castlevania-specter-of-sorrow.json) |
 | Castlevania: Symphony of Horrors | 376583 | [376583-castlevania-symphony-of-horrors.json](./376583-castlevania-symphony-of-horrors.json) |
