@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tcaf: Kate Beaton Dress Up!! | 184001 | [184001-tcaf-kate-beaton-dress-up.json](./184001-tcaf-kate-beaton-dress-up.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
+| Tchia: Oléti Edition | 239605 | [239605-tchia-oleti-edition.json](./239605-tchia-oleti-edition.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
 | TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
