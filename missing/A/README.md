@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
 | A Playground Afternoon | 402490 | [402490-a-playground-afternoon.json](./402490-a-playground-afternoon.json) |
 | A Pocket Full of Slagford | 404950 | [404950-a-pocket-full-of-slagford.json](./404950-a-pocket-full-of-slagford.json) |
+| A Postcard From Afthonia | 252069 | [252069-a-postcard-from-afthonia.json](./252069-a-postcard-from-afthonia.json) |
 | A Potion For Chamomile | 196859 | [196859-a-potion-for-chamomile.json](./196859-a-potion-for-chamomile.json) |
 | A Prelude to Chaos | 293248 | [293248-a-prelude-to-chaos.json](./293248-a-prelude-to-chaos.json) |
 | A Prelude to Chaos | 293249 | [293249-a-prelude-to-chaos.json](./293249-a-prelude-to-chaos.json) |
@@ -3610,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalies Detective | 325068 | [325068-anomalies-detective.json](./325068-anomalies-detective.json) |
 | Anomalistic Revolution | 226235 | [226235-anomalistic-revolution.json](./226235-anomalistic-revolution.json) |
 | Anomalith | 402530 | [402530-anomalith.json](./402530-anomalith.json) |
+| Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
 | Anomaly 13 | 358296 | [358296-anomaly-13.json](./358296-anomaly-13.json) |
@@ -3993,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apotheon | 9016 | [9016-apotheon.json](./9016-apotheon.json) |
 | Apotheosis | 211437 | [211437-apotheosis.json](./211437-apotheosis.json) |
 | Apotheosis Engine | 399701 | [399701-apotheosis-engine.json](./399701-apotheosis-engine.json) |
+| Apotheosis X | 252089 | [252089-apotheosis-x.json](./252089-apotheosis-x.json) |
 | Apox: Legend | 167853 | [167853-apox-legend.json](./167853-apox-legend.json) |
 | App Co Tycoon | 211438 | [211438-app-co-tycoon.json](./211438-app-co-tycoon.json) |
 | App Driver + John The Zombie | 328571 | [328571-app-driver-john-the-zombie.json](./328571-app-driver-john-the-zombie.json) |
