@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Fighter Zero | 60773 | [60773-eternal-fighter-zero.json](./60773-eternal-fighter-zero.json) |
 | Eternal Fighter Zero: Bad Moon Edition | 234639 | [234639-eternal-fighter-zero-bad-moon-edition.json](./234639-eternal-fighter-zero-bad-moon-edition.json) |
+| Eternal Fighter Zero: Blue Sky Edition | 234568 | [234568-eternal-fighter-zero-blue-sky-edition.json](./234568-eternal-fighter-zero-blue-sky-edition.json) |
 | Eternal Fury | 119570 | [119570-eternal-fury.json](./119570-eternal-fury.json) |
 | Eternal Gem | 280318 | [280318-eternal-gem.json](./280318-eternal-gem.json) |
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
