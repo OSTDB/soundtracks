@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad Hungry! | 341146 | [341146-dad-hungry.json](./341146-dad-hungry.json) |
 | Dad's co-worker | 81605 | [81605-dads-co-worker.json](./81605-dads-co-worker.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
+| Daddy Moto Racing | 255063 | [255063-daddy-moto-racing.json](./255063-daddy-moto-racing.json) |
 | Daddy Was A Thief | 103150 | [103150-daddy-was-a-thief.json](./103150-daddy-was-a-thief.json) |
 | Dadi Kingdom | 416622 | [416622-dadi-kingdom.json](./416622-dadi-kingdom.json) |
 | Dadish | 134427 | [134427-dadish.json](./134427-dadish.json) |
@@ -2953,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 5: Playable Character - Vergil | 169336 | [169336-devil-may-cry-5-playable-character-vergil.json](./169336-devil-may-cry-5-playable-character-vergil.json) |
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
+| Devil Ninja Fight: Kungfu combat | 255058 | [255058-devil-ninja-fight-kungfu-combat.json](./255058-devil-ninja-fight-kungfu-combat.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
@@ -3267,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diet Go Go | 39872 | [39872-diet-go-go.json](./39872-diet-go-go.json) |
 | Diet GoGo | 145604 | [145604-diet-gogo.json](./145604-diet-gogo.json) |
 | Diets and Deities | 244268 | [244268-diets-and-deities.json](./244268-diets-and-deities.json) |
+| Difference Games | 255057 | [255057-difference-games.json](./255057-difference-games.json) |
 | Differences | 233617 | [233617-differences.json](./233617-differences.json) |
 | Differences Master | 392930 | [392930-differences-master.json](./392930-differences-master.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
@@ -5752,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | Dragonsphere | 2487 | [2487-dragonsphere.json](./2487-dragonsphere.json) |
 | Dragonstomper | 18568 | [18568-dragonstomper.json](./18568-dragonstomper.json) |
+| Dragonstone: Kingdoms | 255056 | [255056-dragonstone-kingdoms.json](./255056-dragonstone-kingdoms.json) |
 | DragonSwings | 184636 | [184636-dragonswings.json](./184636-dragonswings.json) |
 | Dragontorc | 13610 | [13610-dragontorc.json](./13610-dragontorc.json) |
 | Dragonwing | 94572 | [94572-dragonwing.json](./94572-dragonwing.json) |
@@ -5955,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Sequences | 202247 | [202247-dream-sequences.json](./202247-dream-sequences.json) |
 | Dream Shogi 4K | 391863 | [391863-dream-shogi-4k.json](./391863-dream-shogi-4k.json) |
 | Dream Shopper | 39629 | [39629-dream-shopper.json](./39629-dream-shopper.json) |
+| Dream Sketcher | 255064 | [255064-dream-sketcher.json](./255064-dream-sketcher.json) |
 | Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
 | Dream Soccer '94 | 39627 | [39627-dream-soccer-94.json](./39627-dream-soccer-94.json) |
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
@@ -6728,6 +6733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders: Etherian Festival of Love | 164347 | [164347-dungeon-defenders-etherian-festival-of-love.json](./164347-dungeon-defenders-etherian-festival-of-love.json) |
 | Dungeon Defenders: Etherian Holiday Extravaganza | 164359 | [164359-dungeon-defenders-etherian-holiday-extravaganza.json](./164359-dungeon-defenders-etherian-holiday-extravaganza.json) |
 | Dungeon Defenders: Halloween Mission Pack | 164345 | [164345-dungeon-defenders-halloween-mission-pack.json](./164345-dungeon-defenders-halloween-mission-pack.json) |
+| Dungeon Defenders: Hermit Hero | 255027 | [255027-dungeon-defenders-hermit-hero.json](./255027-dungeon-defenders-hermit-hero.json) |
 | Dungeon Defenders: Jester Hero DLC | 164354 | [164354-dungeon-defenders-jester-hero-dlc.json](./164354-dungeon-defenders-jester-hero-dlc.json) |
 | Dungeon Defenders: Karathiki Jungle Mission Pack | 164361 | [164361-dungeon-defenders-karathiki-jungle-mission-pack.json](./164361-dungeon-defenders-karathiki-jungle-mission-pack.json) |
 | Dungeon Defenders: New Heroes DLC | 164344 | [164344-dungeon-defenders-new-heroes-dlc.json](./164344-dungeon-defenders-new-heroes-dlc.json) |
