@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the bed | 179728 | [179728-under-the-bed.json](./179728-under-the-bed.json) |
 | Under the Blue Horizon | 312722 | [312722-under-the-blue-horizon.json](./312722-under-the-blue-horizon.json) |
 | Under the Bridge | 221982 | [221982-under-the-bridge.json](./221982-under-the-bridge.json) |
+| Under the Castle | 275663 | [275663-under-the-castle.json](./275663-under-the-castle.json) |
 | Under The Concrete Wave | 306068 | [306068-under-the-concrete-wave.json](./306068-under-the-concrete-wave.json) |
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undoing | 114157 | [114157-undoing.json](./114157-undoing.json) |
 | Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
 | Undress! | 369653 | [369653-undress.json](./369653-undress.json) |
+| UnDune II: The Demaking of a Dynasty | 275676 | [275676-undune-ii-the-demaking-of-a-dynasty.json](./275676-undune-ii-the-demaking-of-a-dynasty.json) |
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
 | Undying One | 390250 | [390250-undying-one.json](./390250-undying-one.json) |
 | Undying: Kowloon in Red | 406313 | [406313-undying-kowloon-in-red.json](./406313-undying-kowloon-in-red.json) |
@@ -1050,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unravel Lines Puzzle | 234049 | [234049-unravel-lines-puzzle.json](./234049-unravel-lines-puzzle.json) |
 | Unravel Two | 19241 | [19241-unravel-two.json](./19241-unravel-two.json) |
 | Unravel: Yarny Bundle | 115025 | [115025-unravel-yarny-bundle.json](./115025-unravel-yarny-bundle.json) |
+| Unraveling Angel | 275643 | [275643-unraveling-angel.json](./275643-unraveling-angel.json) |
 | Unreachable | 407541 | [407541-unreachable.json](./407541-unreachable.json) |
 | Unread Messages | 262935 | [262935-unread-messages.json](./262935-unread-messages.json) |
 | Unread Messages | 291570 | [291570-unread-messages.json](./291570-unread-messages.json) |
