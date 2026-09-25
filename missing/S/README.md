@@ -10322,6 +10322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steelpaw | 124141 | [124141-steelpaw.json](./124141-steelpaw.json) |
 | SteelRacer | 250939 | [250939-steelracer.json](./250939-steelracer.json) |
 | Steelrising: Bastille Edition | 205569 | [205569-steelrising-bastille-edition.json](./205569-steelrising-bastille-edition.json) |
+| Steelwood Private Eye | 245239 | [245239-steelwood-private-eye.json](./245239-steelwood-private-eye.json) |
 | Steep Slopes | 158167 | [158167-steep-slopes.json](./158167-steep-slopes.json) |
 | Steep Town | 262305 | [262305-steep-town.json](./262305-steep-town.json) |
 | Steep: X Games Pack | 251643 | [251643-steep-x-games-pack.json](./251643-steep-x-games-pack.json) |
@@ -12846,6 +12847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Off Road | 365892 | [365892-super-off-road.json](./365892-super-off-road.json) |
 | Super Off Road | 365893 | [365893-super-off-road.json](./365893-super-off-road.json) |
 | Super Off Road | 365894 | [365894-super-off-road.json](./365894-super-off-road.json) |
+| Super Off Road Track Pack | 245280 | [245280-super-off-road-track-pack.json](./245280-super-off-road-track-pack.json) |
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
 | Super Orbital Mega Drift II | 339477 | [339477-super-orbital-mega-drift-ii.json](./339477-super-orbital-mega-drift-ii.json) |
