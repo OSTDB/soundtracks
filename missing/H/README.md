@@ -3059,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi When They Cry Hou: Ch.7 Minagoroshi | 120148 | [120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json](./120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json) |
 | Higurashi When They Cry Hou+ | 273086 | [273086-higurashi-when-they-cry-hou.json](./273086-higurashi-when-they-cry-hou.json) |
 | Higurashi When They Cry Hou+: Mehagashi Chapter | 273084 | [273084-higurashi-when-they-cry-hou-mehagashi-chapter.json](./273084-higurashi-when-they-cry-hou-mehagashi-chapter.json) |
+| Higurashiki | 229647 | [229647-higurashiki.json](./229647-higurashiki.json) |
 | Hihou Densetsu Chris no Bouken | 55896 | [55896-hihou-densetsu-chris-no-bouken.json](./55896-hihou-densetsu-chris-no-bouken.json) |
 | Hihou-den: Taiyou wo Motomeru Mono-tachi | 249465 | [249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json](./249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json) |
 | Hiiro | 32922 | [32922-hiiro.json](./32922-hiiro.json) |
