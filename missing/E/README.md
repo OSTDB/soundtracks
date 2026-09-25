@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ender's Delight | 344023 | [344023-enders-delight.json](./344023-enders-delight.json) |
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
 | Endersite | 98765 | [98765-endersite.json](./98765-endersite.json) |
+| Endgame | 228970 | [228970-endgame.json](./228970-endgame.json) |
 | EndGame | 303514 | [303514-endgame.json](./303514-endgame.json) |
 | Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
 | Endhop | 383631 | [383631-endhop.json](./383631-endhop.json) |
