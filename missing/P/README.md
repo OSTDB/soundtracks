@@ -3518,8 +3518,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies 2: It's About Time | 3145 | [3145-plants-vs-zombies-2-its-about-time.json](./3145-plants-vs-zombies-2-its-about-time.json) |
 | Plants vs. Zombies 2: Odyssey | 272295 | [272295-plants-vs-zombies-2-odyssey.json](./272295-plants-vs-zombies-2-odyssey.json) |
 | Plants vs. Zombies 2: Reflourished | 221859 | [221859-plants-vs-zombies-2-reflourished.json](./221859-plants-vs-zombies-2-reflourished.json) |
+| Plants vs. Zombies 2: Requiem | 272889 | [272889-plants-vs-zombies-2-requiem.json](./272889-plants-vs-zombies-2-requiem.json) |
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
+| Plants vs. Zombies: Cubed | 272801 | [272801-plants-vs-zombies-cubed.json](./272801-plants-vs-zombies-cubed.json) |
 | Plants vs. Zombies: Fusion | 330905 | [330905-plants-vs-zombies-fusion.json](./330905-plants-vs-zombies-fusion.json) |
 | Plants vs. Zombies: Garden Warfare 2 | 11148 | [11148-plants-vs-zombies-garden-warfare-2.json](./11148-plants-vs-zombies-garden-warfare-2.json) |
 | Plants vs. Zombies: GOTY Edition | 20546 | [20546-plants-vs-zombies-goty-edition.json](./20546-plants-vs-zombies-goty-edition.json) |
@@ -4191,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Run & Bun | 246077 | [246077-pokemon-run-and-bun.json](./246077-pokemon-run-and-bun.json) |
 | Pokemon Ryen | 323879 | [323879-pokemon-ryen.json](./323879-pokemon-ryen.json) |
 | Pokémon Sacred Gold | 145626 | [145626-pokemon-sacred-gold.json](./145626-pokemon-sacred-gold.json) |
+| Pokemon Saiph 2 | 272886 | [272886-pokemon-saiph-2.json](./272886-pokemon-saiph-2.json) |
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
@@ -5868,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
 | Project Maze | 68586 | [68586-project-maze.json](./68586-project-maze.json) |
 | Project Mercenaria | 367390 | [367390-project-mercenaria.json](./367390-project-mercenaria.json) |
+| Project Michael: The Halloween Nightmare | 272804 | [272804-project-michael-the-halloween-nightmare.json](./272804-project-michael-the-halloween-nightmare.json) |
 | Project Microchip | 392269 | [392269-project-microchip.json](./392269-project-microchip.json) |
 | Project Midgard | 149529 | [149529-project-midgard.json](./149529-project-midgard.json) |
 | Project Mnemosyne | 370706 | [370706-project-mnemosyne.json](./370706-project-mnemosyne.json) |
