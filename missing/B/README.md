@@ -3132,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock Infinite: Ultimate Songbird Edition | 41598 | [41598-bioshock-infinite-ultimate-songbird-edition.json](./41598-bioshock-infinite-ultimate-songbird-edition.json) |
 | BioShock: Limited Edition | 142228 | [142228-bioshock-limited-edition.json](./142228-bioshock-limited-edition.json) |
 | BioShock: The Collection | 19839 | [19839-bioshock-the-collection.json](./19839-bioshock-the-collection.json) |
+| Biosmose | 260644 | [260644-biosmose.json](./260644-biosmose.json) |
 | Biosphere | 185531 | [185531-biosphere.json](./185531-biosphere.json) |
 | Biosupremacy | 29793 | [29793-biosupremacy.json](./29793-biosupremacy.json) |
 | BioSwarm | 297472 | [297472-bioswarm.json](./297472-bioswarm.json) |
