@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare House: The Original Mod | 321582 | [321582-nightmare-house-the-original-mod.json](./321582-nightmare-house-the-original-mod.json) |
 | Nightmare Hunter | 207344 | [207344-nightmare-hunter.json](./207344-nightmare-hunter.json) |
 | Nightmare Hunter | 211259 | [211259-nightmare-hunter.json](./211259-nightmare-hunter.json) |
+| Nightmare in Squidville | 255627 | [255627-nightmare-in-squidville.json](./255627-nightmare-in-squidville.json) |
 | Nightmare in the Dark | 40992 | [40992-nightmare-in-the-dark.json](./40992-nightmare-in-the-dark.json) |
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
