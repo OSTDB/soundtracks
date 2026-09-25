@@ -7107,7 +7107,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 5 | 5820 | [5820-dynasty-warriors-5.json](./5820-dynasty-warriors-5.json) |
 | Dynasty Warriors 5: Xtreme Legends | 19618 | [19618-dynasty-warriors-5-xtreme-legends.json](./19618-dynasty-warriors-5-xtreme-legends.json) |
 | Dynasty Warriors 6: Empires | 19636 | [19636-dynasty-warriors-6-empires.json](./19636-dynasty-warriors-6-empires.json) |
+| Dynasty Warriors 6: Special | 269526 | [269526-dynasty-warriors-6-special.json](./269526-dynasty-warriors-6-special.json) |
 | Dynasty Warriors 7 | 6832 | [6832-dynasty-warriors-7.json](./6832-dynasty-warriors-7.json) |
+| Dynasty Warriors 7: Special | 269527 | [269527-dynasty-warriors-7-special.json](./269527-dynasty-warriors-7-special.json) |
 | Dynasty Warriors 7: Xtreme Legends - Definitive Edition | 113386 | [113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json](./113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
 | Dynasty Warriors 8: Xtreme Legends Definitive Edition | 111063 | [111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json](./111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json) |
