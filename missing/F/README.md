@@ -1928,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy X: Fantasy War | 266285 | [266285-final-fantasy-x-fantasy-war.json](./266285-final-fantasy-x-fantasy-war.json) |
 | Final Fantasy X/X-2 Ultimate Box | 301388 | [301388-final-fantasy-x-x-2-ultimate-box.json](./301388-final-fantasy-x-x-2-ultimate-box.json) |
 | Final Fantasy XI Online | 411 | [411-final-fantasy-xi-online.json](./411-final-fantasy-xi-online.json) |
+| Final Fantasy XI: A Crystalline Prophecy | 255633 | [255633-final-fantasy-xi-a-crystalline-prophecy.json](./255633-final-fantasy-xi-a-crystalline-prophecy.json) |
 | Final Fantasy XI: A Moogle Kupo d'Etat | 255771 | [255771-final-fantasy-xi-a-moogle-kupo-detat.json](./255771-final-fantasy-xi-a-moogle-kupo-detat.json) |
 | Final Fantasy XI: A Shantotto Ascension | 255773 | [255773-final-fantasy-xi-a-shantotto-ascension.json](./255773-final-fantasy-xi-a-shantotto-ascension.json) |
 | Final Fantasy XI: Heroes of Abyssea | 255776 | [255776-final-fantasy-xi-heroes-of-abyssea.json](./255776-final-fantasy-xi-heroes-of-abyssea.json) |
@@ -1980,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Islands | 113476 | [113476-final-islands.json](./113476-final-islands.json) |
 | Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
 | Final Justice | 266892 | [266892-final-justice.json](./266892-final-justice.json) |
+| Final Lap 2 | 255651 | [255651-final-lap-2.json](./255651-final-lap-2.json) |
 | Final Legacy | 25697 | [25697-final-legacy.json](./25697-final-legacy.json) |
 | Final Liberation: Warhammer Epic 40,000 | 12521 | [12521-final-liberation-warhammer-epic-40-000.json](./12521-final-liberation-warhammer-epic-40-000.json) |
 | Final Light: The Prison | 105892 | [105892-final-light-the-prison.json](./105892-final-light-the-prison.json) |
@@ -4209,6 +4211,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy Dumplings | 386440 | [386440-foxy-dumplings.json](./386440-foxy-dumplings.json) |
 | Foxy Furry Lady of the Forest | 82919 | [82919-foxy-furry-lady-of-the-forest.json](./82919-foxy-furry-lady-of-the-forest.json) |
 | Foxy Go Go Go! | 397232 | [397232-foxy-go-go-go.json](./397232-foxy-go-go-go.json) |
+| Foxy Jumper 2 | 255647 | [255647-foxy-jumper-2.json](./255647-foxy-jumper-2.json) |
+| Foxy Jumper 2: Winter Adventures | 255648 | [255648-foxy-jumper-2-winter-adventures.json](./255648-foxy-jumper-2-winter-adventures.json) |
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | Foxy's Coin Hunt | 235301 | [235301-foxys-coin-hunt.json](./235301-foxys-coin-hunt.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
@@ -4731,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Jump | 52185 | [52185-froggy-jump.json](./52185-froggy-jump.json) |
 | Froggy Revenge | 418731 | [418731-froggy-revenge.json](./418731-froggy-revenge.json) |
 | Froggy! | 418659 | [418659-froggy.json](./418659-froggy.json) |
+| Froggy's Adventures | 255654 | [255654-froggys-adventures.json](./255654-froggys-adventures.json) |
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | FrogLake | 267464 | [267464-froglake.json](./267464-froglake.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
@@ -5308,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Gensoukyou Chronicle | 206942 | [206942-fushigi-no-gensoukyou-chronicle.json](./206942-fushigi-no-gensoukyou-chronicle.json) |
 | Fushigi no Gensoukyou Origin: Hajimari no Kamikakushi-hen | 206941 | [206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json](./206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json) |
 | Fushigi no Gensoukyou: Another Face | 206943 | [206943-fushigi-no-gensoukyou-another-face.json](./206943-fushigi-no-gensoukyou-another-face.json) |
+| Fushigi no Kuni no Alice | 255622 | [255622-fushigi-no-kuni-no-alice.json](./255622-fushigi-no-kuni-no-alice.json) |
 | Fushigi no Kuni no Alice | 49571 | [49571-fushigi-no-kuni-no-alice.json](./49571-fushigi-no-kuni-no-alice.json) |
 | Fushigi no Kuni no Angelique | 49570 | [49570-fushigi-no-kuni-no-angelique.json](./49570-fushigi-no-kuni-no-angelique.json) |
 | Fushigi no Umi no Nadia: Gekichin! Garfish | 385710 | [385710-fushigi-no-umi-no-nadia-gekichin-garfish.json](./385710-fushigi-no-umi-no-nadia-gekichin-garfish.json) |
