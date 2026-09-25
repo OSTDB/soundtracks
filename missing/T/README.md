@@ -1223,7 +1223,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: Gold Rush Update | 256372 | [256372-team-fortress-2-gold-rush-update.json](./256372-team-fortress-2-gold-rush-update.json) |
 | Team Fortress 2: Love & War Update | 256882 | [256882-team-fortress-2-love-and-war-update.json](./256882-team-fortress-2-love-and-war-update.json) |
 | Team Fortress 2: Mann vs. Machine - Two Cities Update | 256881 | [256881-team-fortress-2-mann-vs-machine-two-cities-update.json](./256881-team-fortress-2-mann-vs-machine-two-cities-update.json) |
+| Team Fortress 2: Mecha Update | 256782 | [256782-team-fortress-2-mecha-update.json](./256782-team-fortress-2-mecha-update.json) |
 | Team Fortress 2: Rebalanced | 400339 | [400339-team-fortress-2-rebalanced.json](./400339-team-fortress-2-rebalanced.json) |
+| Team Fortress 2: Robotic Boogaloo | 256783 | [256783-team-fortress-2-robotic-boogaloo.json](./256783-team-fortress-2-robotic-boogaloo.json) |
 | Team Fortress 2: The Gun Mettle Update | 256889 | [256889-team-fortress-2-the-gun-mettle-update.json](./256889-team-fortress-2-the-gun-mettle-update.json) |
 | Team Fortress Classic | 6359 | [6359-team-fortress-classic.json](./6359-team-fortress-classic.json) |
 | Team Fortress Kart | 371244 | [371244-team-fortress-kart.json](./371244-team-fortress-kart.json) |
@@ -1297,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
+| Technolympus | 256786 | [256786-technolympus.json](./256786-technolympus.json) |
 | TechnoMagic | 187370 | [187370-technomagic.json](./187370-technomagic.json) |
 | Technopoly: Industrial Empire | 233093 | [233093-technopoly-industrial-empire.json](./233093-technopoly-industrial-empire.json) |
 | Technōs Collection I | 130692 | [130692-technos-collection-i.json](./130692-technos-collection-i.json) |
@@ -7292,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Void Below | 333167 | [333167-the-void-below.json](./333167-the-void-below.json) |
 | The Void Between | 282022 | [282022-the-void-between.json](./282022-the-void-between.json) |
 | The Void Corridors | 337123 | [337123-the-void-corridors.json](./337123-the-void-corridors.json) |
+| The Void Rolls Back | 256785 | [256785-the-void-rolls-back.json](./256785-the-void-rolls-back.json) |
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
 | The Voluntary Chipping | 272366 | [272366-the-voluntary-chipping.json](./272366-the-voluntary-chipping.json) |
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
@@ -9296,6 +9300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TKKG: The Betrayal | 206217 | [206217-tkkg-the-betrayal.json](./206217-tkkg-the-betrayal.json) |
 | TKKG: Wer stoppt den Feuerteufel? | 158722 | [158722-tkkg-wer-stoppt-den-feuerteufel.json](./158722-tkkg-wer-stoppt-den-feuerteufel.json) |
 | Tkl Online | 36106 | [36106-tkl-online.json](./36106-tkl-online.json) |
+| Tlen Kray | 256810 | [256810-tlen-kray.json](./256810-tlen-kray.json) |
 | Tlicolity Eyes Vol. 1 | 116379 | [116379-tlicolity-eyes-vol-1.json](./116379-tlicolity-eyes-vol-1.json) |
 | Tlicolity Eyes Vol. 2 | 240520 | [240520-tlicolity-eyes-vol-2.json](./240520-tlicolity-eyes-vol-2.json) |
 | Tlicolity Eyes Vol. 3 | 240521 | [240521-tlicolity-eyes-vol-3.json](./240521-tlicolity-eyes-vol-3.json) |
@@ -10097,6 +10102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Arcade Racing | 132563 | [132563-total-arcade-racing.json](./132563-total-arcade-racing.json) |
 | Total Battle | 112718 | [112718-total-battle.json](./112718-total-battle.json) |
 | Total Chaos | 301071 | [301071-total-chaos.json](./301071-total-chaos.json) |
+| Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
 | Total Destruction 2Dee | 417712 | [417712-total-destruction-2dee.json](./417712-total-destruction-2dee.json) |
 | Total Driftin': Touge Dreams | 351713 | [351713-total-driftin-touge-dreams.json](./351713-total-driftin-touge-dreams.json) |
 | Total Drivin | 44871 | [44871-total-drivin.json](./44871-total-drivin.json) |
@@ -12665,6 +12671,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Lands: Shadow Town - Collector's Edition | 53862 | [53862-twisted-lands-shadow-town-collectors-edition.json](./53862-twisted-lands-shadow-town-collectors-edition.json) |
 | Twisted Lines | 175365 | [175365-twisted-lines.json](./175365-twisted-lines.json) |
 | Twisted Lovestruck | 243425 | [243425-twisted-lovestruck.json](./243425-twisted-lovestruck.json) |
+| Twisted Metal | 256773 | [256773-twisted-metal.json](./256773-twisted-metal.json) |
+| Twisted Metal 2 | 256777 | [256777-twisted-metal-2.json](./256777-twisted-metal-2.json) |
 | Twisted Metal 4 | 347127 | [347127-twisted-metal-4.json](./347127-twisted-metal-4.json) |
 | Twisted Metal III | 347126 | [347126-twisted-metal-iii.json](./347126-twisted-metal-iii.json) |
 | Twisted Metal: Black Harbor City | 135286 | [135286-twisted-metal-black-harbor-city.json](./135286-twisted-metal-black-harbor-city.json) |
