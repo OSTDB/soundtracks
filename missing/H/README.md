@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
 | Hitman 3: Patient Zero Requiem | 381244 | [381244-hitman-3-patient-zero-requiem.json](./381244-hitman-3-patient-zero-requiem.json) |
 | Hitman 3: The Banker Pack | 357256 | [357256-hitman-3-the-banker-pack.json](./357256-hitman-3-the-banker-pack.json) |
+| Hitman 3: The Sarajevo Six | 279033 | [279033-hitman-3-the-sarajevo-six.json](./279033-hitman-3-the-sarajevo-six.json) |
 | Hitman 3: The Splitter Pack | 357257 | [357257-hitman-3-the-splitter-pack.json](./357257-hitman-3-the-splitter-pack.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman Absolution: Elite Edition | 53210 | [53210-hitman-absolution-elite-edition.json](./53210-hitman-absolution-elite-edition.json) |
@@ -3537,6 +3538,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homework is Crazy | 118334 | [118334-homework-is-crazy.json](./118334-homework-is-crazy.json) |
 | Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
 | Homeworld | 749 | [749-homeworld.json](./749-homeworld.json) |
+| Homeworld 3: Deluxe Edition | 279045 | [279045-homeworld-3-deluxe-edition.json](./279045-homeworld-3-deluxe-edition.json) |
+| Homeworld 3: Fleet Command Edition | 279046 | [279046-homeworld-3-fleet-command-edition.json](./279046-homeworld-3-fleet-command-edition.json) |
 | Homeworld: Deserts of Kharak - Deluxe Edition | 53203 | [53203-homeworld-deserts-of-kharak-deluxe-edition.json](./53203-homeworld-deserts-of-kharak-deluxe-edition.json) |
 | Homeworld: Remastered Collection | 8773 | [8773-homeworld-remastered-collection.json](./8773-homeworld-remastered-collection.json) |
 | Homeworld: Remastered Collection - Deluxe Edition | 53204 | [53204-homeworld-remastered-collection-deluxe-edition.json](./53204-homeworld-remastered-collection-deluxe-edition.json) |
