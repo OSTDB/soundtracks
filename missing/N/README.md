@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintama Rantarou | 37741 | [37741-nintama-rantarou.json](./37741-nintama-rantarou.json) |
 | Nintama Rantarou GB: E-awase Challenge Puzzle | 97862 | [97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json](./97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json) |
 | Nintama Rantarou Mugen no Tsubo Daibousou no Dan | 227251 | [227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json](./227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json) |
+| Nintendo 3DS Sound: Soccer | 250320 | [250320-nintendo-3ds-sound-soccer.json](./250320-nintendo-3ds-sound-soccer.json) |
 | Nintendo Adventure Books 3: Monster Mix-Up | 270387 | [270387-nintendo-adventure-books-3-monster-mix-up.json](./270387-nintendo-adventure-books-3-monster-mix-up.json) |
 | Nintendo Campus Challenge 1991 | 94180 | [94180-nintendo-campus-challenge-1991.json](./94180-nintendo-campus-challenge-1991.json) |
 | Nintendo Classic Mini: Family Computer | 213597 | [213597-nintendo-classic-mini-family-computer.json](./213597-nintendo-classic-mini-family-computer.json) |
@@ -2359,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
 | Noah's Quest | 399854 | [399854-noahs-quest.json](./399854-noahs-quest.json) |
+| Noalone | 250317 | [250317-noalone.json](./250317-noalone.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
 | Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
