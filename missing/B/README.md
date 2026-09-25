@@ -3189,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds no More | 245317 | [245317-birds-no-more.json](./245317-birds-no-more.json) |
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
 | Birds of War | 390140 | [390140-birds-of-war.json](./390140-birds-of-war.json) |
+| Birds On A Wire | 269070 | [269070-birds-on-a-wire.json](./269070-birds-on-a-wire.json) |
 | Birds Watching | 391179 | [391179-birds-watching.json](./391179-birds-watching.json) |
 | Birds With Feelings | 118177 | [118177-birds-with-feelings.json](./118177-birds-with-feelings.json) |
 | Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
@@ -3576,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Crafter | 108871 | [108871-blade-crafter.json](./108871-blade-crafter.json) |
 | Blade Crafter | 248151 | [248151-blade-crafter.json](./248151-blade-crafter.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
+| Blade Dancer: Lineage of Light | 269079 | [269079-blade-dancer-lineage-of-light.json](./269079-blade-dancer-lineage-of-light.json) |
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
