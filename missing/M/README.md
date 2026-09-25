@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchuie | 365158 | [365158-matchuie.json](./365158-matchuie.json) |
 | MatchUp Friends: Find Pairs | 104438 | [104438-matchup-friends-find-pairs.json](./104438-matchup-friends-find-pairs.json) |
 | MatchVentures | 251818 | [251818-matchventures.json](./251818-matchventures.json) |
+| MatchX | 256228 | [256228-matchx.json](./256228-matchx.json) |
 | Matchy Star | 83498 | [83498-matchy-star.json](./83498-matchy-star.json) |
 | Matchy Way Tales | 365884 | [365884-matchy-way-tales.json](./365884-matchy-way-tales.json) |
 | MatchyGotchy Z | 109661 | [109661-matchygotchy-z.json](./109661-matchygotchy-z.json) |
@@ -2562,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Rage | 109378 | [109378-mech-rage.json](./109378-mech-rage.json) |
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
 | Mech Skeleton | 28163 | [28163-mech-skeleton.json](./28163-mech-skeleton.json) |
+| Mech Striker | 256235 | [256235-mech-striker.json](./256235-mech-striker.json) |
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mech_Romancer | 134590 | [134590-mech-romancer.json](./134590-mech-romancer.json) |
@@ -6315,6 +6317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
 | Moonshine Madness | 304588 | [304588-moonshine-madness.json](./304588-moonshine-madness.json) |
 | Moonshine Maniacs: A Wild West Saga | 132221 | [132221-moonshine-maniacs-a-wild-west-saga.json](./132221-moonshine-maniacs-a-wild-west-saga.json) |
+| Moonship | 256233 | [256233-moonship.json](./256233-moonship.json) |
 | Moonshire | 280933 | [280933-moonshire.json](./280933-moonshire.json) |
 | Moonshot | 286048 | [286048-moonshot.json](./286048-moonshot.json) |
 | Moonshot: A Journey Home | 196697 | [196697-moonshot-a-journey-home.json](./196697-moonshot-a-journey-home.json) |
