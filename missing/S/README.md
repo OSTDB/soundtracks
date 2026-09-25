@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikin Koi Shiteru? | 123410 | [123410-saikin-koi-shiteru.json](./123410-saikin-koi-shiteru.json) |
 | Saikin MMO | 306083 | [306083-saikin-mmo.json](./306083-saikin-mmo.json) |
 | Saikko-nee to Death Game | 301025 | [301025-saikko-nee-to-death-game.json](./301025-saikko-nee-to-death-game.json) |
+| Saiko no Sutoka no Shiki | 244705 | [244705-saiko-no-sutoka-no-shiki.json](./244705-saiko-no-sutoka-no-shiki.json) |
 | Saikyo no Mahjong: 100 Mannin no Tame no Mahjong Dojo | 222373 | [222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json](./222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json) |
 | Saikyo Robots | 251824 | [251824-saikyo-robots.json](./251824-saikyo-robots.json) |
 | Saikyou Ginsei Gomoku Narabe | 83474 | [83474-saikyou-ginsei-gomoku-narabe.json](./83474-saikyou-ginsei-gomoku-narabe.json) |
@@ -1306,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scott Adams' Graphic Adventure #6: Strange Odyssey | 71451 | [71451-scott-adams-graphic-adventure-6-strange-odyssey.json](./71451-scott-adams-graphic-adventure-6-strange-odyssey.json) |
 | Scott I Project | 331870 | [331870-scott-i-project.json](./331870-scott-i-project.json) |
 | Scott Pilgrim vs. the World: The Game | 7448 | [7448-scott-pilgrim-vs-the-world-the-game.json](./7448-scott-pilgrim-vs-the-world-the-game.json) |
+| Scott Whiskers in: The Search for Mr. Fumbleclaw | 244704 | [244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json](./244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json) |
 | Scott Whiskers: The Search for the Golden Cat | 346236 | [346236-scott-whiskers-the-search-for-the-golden-cat.json](./346236-scott-whiskers-the-search-for-the-golden-cat.json) |
 | Scotty Goes to Centrelink | 202350 | [202350-scotty-goes-to-centrelink.json](./202350-scotty-goes-to-centrelink.json) |
 | Scoundrel | 101605 | [101605-scoundrel.json](./101605-scoundrel.json) |
@@ -1328,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP 3008 | 231390 | [231390-scp-3008.json](./231390-scp-3008.json) |
 | SCP Area 8 | 82390 | [82390-scp-area-8.json](./82390-scp-area-8.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
+| SCP Operations | 244720 | [244720-scp-operations.json](./244720-scp-operations.json) |
 | SCP-002 | 316791 | [316791-scp-002.json](./316791-scp-002.json) |
 | SCP-087 | 336366 | [336366-scp-087.json](./336366-scp-087.json) |
 | SCP-087-B | 20204 | [20204-scp-087-b.json](./20204-scp-087-b.json) |
@@ -1493,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculplings | 349407 | [349407-sculplings.json](./349407-sculplings.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
 | Sculpt People: Creative Edition | 308789 | [308789-sculpt-people-creative-edition.json](./308789-sculpt-people-creative-edition.json) |
+| Sculpture of Chance | 244749 | [244749-sculpture-of-chance.json](./244749-sculpture-of-chance.json) |
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
 | Scum: Vehicle Skins Pack | 288905 | [288905-scum-vehicle-skins-pack.json](./288905-scum-vehicle-skins-pack.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
@@ -8023,6 +8027,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship For Newbies | 152745 | [152745-spaceship-for-newbies.json](./152745-spaceship-for-newbies.json) |
 | Spaceship Hunters | 184512 | [184512-spaceship-hunters.json](./184512-spaceship-hunters.json) |
 | Spaceship Man 2 | 351258 | [351258-spaceship-man-2.json](./351258-spaceship-man-2.json) |
+| Spaceship Racer: Portal | 244744 | [244744-spaceship-racer-portal.json](./244744-spaceship-racer-portal.json) |
+| Spaceship Survivors | 244732 | [244732-spaceship-survivors.json](./244732-spaceship-survivors.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
 | SpaceShooter | 413900 | [413900-spaceshooter.json](./413900-spaceshooter.json) |
@@ -13481,6 +13487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survisland | 105015 | [105015-survisland.json](./105015-survisland.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
+| Survival & Horror: The Damned City | 244750 | [244750-survival-and-horror-the-damned-city.json](./244750-survival-and-horror-the-damned-city.json) |
 | Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
 | Survival Arts | 39586 | [39586-survival-arts.json](./39586-survival-arts.json) |
