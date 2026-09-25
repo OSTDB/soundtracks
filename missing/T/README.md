@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrageddon | 143484 | [143484-tetrageddon.json](./143484-tetrageddon.json) |
 | Tetrageddon Games | 255016 | [255016-tetrageddon-games.json](./255016-tetrageddon-games.json) |
 | TetraLogical | 115531 | [115531-tetralogical.json](./115531-tetralogical.json) |
+| TetraMage | 244712 | [244712-tetramage.json](./244712-tetramage.json) |
 | Tetraminis Deffect | 284352 | [284352-tetraminis-deffect.json](./284352-tetraminis-deffect.json) |
 | Tetraminos | 308977 | [308977-tetraminos.json](./308977-tetraminos.json) |
 | Tetraphobia | 124740 | [124740-tetraphobia.json](./124740-tetraphobia.json) |
@@ -5517,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mountain Hunting | 152757 | [152757-the-mountain-hunting.json](./152757-the-mountain-hunting.json) |
 | The Mountain is as It Always Was | 276772 | [276772-the-mountain-is-as-it-always-was.json](./276772-the-mountain-is-as-it-always-was.json) |
 | The Mountaineer | 262440 | [262440-the-mountaineer.json](./262440-the-mountaineer.json) |
+| The Mountaineers | 244713 | [244713-the-mountaineers.json](./244713-the-mountaineers.json) |
 | The Mourne's | 207338 | [207338-the-mournes.json](./207338-the-mournes.json) |
 | The Mouse and The Cat | 247055 | [247055-the-mouse-and-the-cat.json](./247055-the-mouse-and-the-cat.json) |
 | The Mouse Police | 66928 | [66928-the-mouse-police.json](./66928-the-mouse-police.json) |
@@ -5789,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paper Parable | 262398 | [262398-the-paper-parable.json](./262398-the-paper-parable.json) |
 | The Paper Trials | 264585 | [264585-the-paper-trials.json](./264585-the-paper-trials.json) |
 | The Paper Trials: Chapter 2 | 267427 | [267427-the-paper-trials-chapter-2.json](./267427-the-paper-trials-chapter-2.json) |
+| The Paracelsian Project | 244726 | [244726-the-paracelsian-project.json](./244726-the-paracelsian-project.json) |
 | The Paradixion: Laboratory | 262474 | [262474-the-paradixion-laboratory.json](./262474-the-paradixion-laboratory.json) |
 | The Parallax Effect | 28811 | [28811-the-parallax-effect.json](./28811-the-parallax-effect.json) |
 | The Parallel Worlds | 271302 | [271302-the-parallel-worlds.json](./271302-the-parallel-worlds.json) |
@@ -10468,6 +10471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
 | Touhou: Hotline Sanzu | 317239 | [317239-touhou-hotline-sanzu.json](./317239-touhou-hotline-sanzu.json) |
 | Touhou: Kira's Fangame Collection | 411790 | [411790-touhou-kiras-fangame-collection.json](./411790-touhou-kiras-fangame-collection.json) |
+| TouHou: Legend of Fairy Souls | 244730 | [244730-touhou-legend-of-fairy-souls.json](./244730-touhou-legend-of-fairy-souls.json) |
 | Touhou: Red Empress Devil | 225180 | [225180-touhou-red-empress-devil.json](./225180-touhou-red-empress-devil.json) |
 | Touhou: Tales of the Scarlet | 379443 | [379443-touhou-tales-of-the-scarlet.json](./379443-touhou-tales-of-the-scarlet.json) |
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
