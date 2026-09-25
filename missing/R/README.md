@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiis | 104856 | [104856-radiis.json](./104856-radiis.json) |
 | Radikal Bikers | 221942 | [221942-radikal-bikers.json](./221942-radikal-bikers.json) |
 | Radio Active | 73787 | [73787-radio-active.json](./73787-radio-active.json) |
+| Radio Cars | 275682 | [275682-radio-cars.json](./275682-radio-cars.json) |
 | Radio Commander | 107875 | [107875-radio-commander.json](./107875-radio-commander.json) |
 | Radio Commander: Battle of Britain ’40 | 418701 | [418701-radio-commander-battle-of-britain-40.json](./418701-radio-commander-battle-of-britain-40.json) |
 | Radio Commander: Complete Edition | 154538 | [154538-radio-commander-complete-edition.json](./154538-radio-commander-complete-edition.json) |
@@ -1180,6 +1181,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
 | Real Warfare 1242 | 9856 | [9856-real-warfare-1242.json](./9856-real-warfare-1242.json) |
 | Real Winners: Victoryball | 109659 | [109659-real-winners-victoryball.json](./109659-real-winners-victoryball.json) |
+| Real World | 275637 | [275637-real-world.json](./275637-real-world.json) |
+| Real World 2 | 275638 | [275638-real-world-2.json](./275638-real-world-2.json) |
 | Real World Golf 2007 | 23010 | [23010-real-world-golf-2007.json](./23010-real-world-golf-2007.json) |
 | Real World RC | 240353 | [240353-real-world-rc.json](./240353-real-world-rc.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
@@ -1952,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Life | 121119 | [121119-remote-life.json](./121119-remote-life.json) |
 | Remote Life Simulator | 391352 | [391352-remote-life-simulator.json](./391352-remote-life-simulator.json) |
 | Remote Planets | 224766 | [224766-remote-planets.json](./224766-remote-planets.json) |
+| Remote Presence | 275634 | [275634-remote-presence.json](./275634-remote-presence.json) |
 | Remote Racers | 84830 | [84830-remote-racers.json](./84830-remote-racers.json) |
 | Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
 | Remothered: Broken Porcelain | 117309 | [117309-remothered-broken-porcelain.json](./117309-remothered-broken-porcelain.json) |
