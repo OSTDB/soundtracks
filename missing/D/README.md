@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delaware St. John: Volume 1 - The Curse of Midnight Manor / Volume 2: The Town with No Name | 93050 | [93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json](./93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json) |
 | Delay | 90643 | [90643-delay.json](./90643-delay.json) |
 | DelayedSun | 127239 | [127239-delayedsun.json](./127239-delayedsun.json) |
+| Delearnia: Fractions of Hope | 253351 | [253351-delearnia-fractions-of-hope.json](./253351-delearnia-fractions-of-hope.json) |
 | Delegati Genesis | 203956 | [203956-delegati-genesis.json](./203956-delegati-genesis.json) |
 | Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
@@ -2380,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon With a Candy Crisis | 391329 | [391329-demon-with-a-candy-crisis.json](./391329-demon-with-a-candy-crisis.json) |
 | Demon Wolf Simulator | 102779 | [102779-demon-wolf-simulator.json](./102779-demon-wolf-simulator.json) |
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
+| Demon's Bane | 253299 | [253299-demons-bane.json](./253299-demons-bane.json) |
 | Demon's Crystals | 20402 | [20402-demons-crystals.json](./20402-demons-crystals.json) |
 | Demon's Draw | 235349 | [235349-demons-draw.json](./235349-demons-draw.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
@@ -4960,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
 | Doorways: Old Prototype | 26528 | [26528-doorways-old-prototype.json](./26528-doorways-old-prototype.json) |
 | Doorz | 339939 | [339939-doorz.json](./339939-doorz.json) |
+| Doozie the Unicorn | 253307 | [253307-doozie-the-unicorn.json](./253307-doozie-the-unicorn.json) |
 | DOP 4: Draw One Part | 220217 | [220217-dop-4-draw-one-part.json](./220217-dop-4-draw-one-part.json) |
 | Dop Story: Displace It | 220220 | [220220-dop-story-displace-it.json](./220220-dop-story-displace-it.json) |
 | Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
@@ -6508,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
 | Duck Life 4 | 210660 | [210660-duck-life-4.json](./210660-duck-life-4.json) |
 | Duck Life 4 Classic | 370917 | [370917-duck-life-4-classic.json](./370917-duck-life-4-classic.json) |
+| Duck Life 9: The Flock | 253309 | [253309-duck-life-9-the-flock.json](./253309-duck-life-9-the-flock.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
 | Duck Paradox | 208209 | [208209-duck-paradox.json](./208209-duck-paradox.json) |
