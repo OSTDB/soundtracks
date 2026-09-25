@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Void | 313818 | [313818-across-the-void.json](./313818-across-the-void.json) |
 | Across The Void | 248133 | [248133-across-the-void.json](./248133-across-the-void.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
+| Acrostics on Stream | 261264 | [261264-acrostics-on-stream.json](./261264-acrostics-on-stream.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | Act of Aggression | 8920 | [8920-act-of-aggression.json](./8920-act-of-aggression.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
