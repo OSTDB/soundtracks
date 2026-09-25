@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Village | 164878 | [164878-last-village.json](./164878-last-village.json) |
 | Last Visit | 149944 | [149944-last-visit.json](./149944-last-visit.json) |
 | Last Voyage of the Aqualus | 282615 | [282615-last-voyage-of-the-aqualus.json](./282615-last-voyage-of-the-aqualus.json) |
+| Last Walpurgis | 255051 | [255051-last-walpurgis.json](./255051-last-walpurgis.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
@@ -1401,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let There Be Smite! | 414288 | [414288-let-there-be-smite.json](./414288-let-there-be-smite.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
+| Let's Bounce! Popsicle Boy! | 255021 | [255021-lets-bounce-popsicle-boy.json](./255021-lets-bounce-popsicle-boy.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
 | Let's Build a Garden | 340914 | [340914-lets-build-a-garden.json](./340914-lets-build-a-garden.json) |
 | Let's Build a Zoo + Dinosaur Island Bundle | 208433 | [208433-lets-build-a-zoo-dinosaur-island-bundle.json](./208433-lets-build-a-zoo-dinosaur-island-bundle.json) |
@@ -2279,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Green Man | 55099 | [55099-little-green-man.json](./55099-little-green-man.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Helper Cafe | 358353 | [358353-little-helper-cafe.json](./358353-little-helper-cafe.json) |
+| Little Helper of the House Kitchen | 255050 | [255050-little-helper-of-the-house-kitchen.json](./255050-little-helper-of-the-house-kitchen.json) |
 | Little Hero | 194019 | [194019-little-hero.json](./194019-little-hero.json) |
 | Little Heroine Playset | 185596 | [185596-little-heroine-playset.json](./185596-little-heroine-playset.json) |
 | Little Heroine: The Electric Monsters | 338009 | [338009-little-heroine-the-electric-monsters.json](./338009-little-heroine-the-electric-monsters.json) |
