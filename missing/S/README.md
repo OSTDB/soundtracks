@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandman | 216305 | [216305-sandman.json](./216305-sandman.json) |
 | Sandmason | 17278 | [17278-sandmason.json](./17278-sandmason.json) |
 | Sandnight Hill Revelation | 382768 | [382768-sandnight-hill-revelation.json](./382768-sandnight-hill-revelation.json) |
+| Sandoria | 241890 | [241890-sandoria.json](./241890-sandoria.json) |
 | Sandra and Woo in the Cursed Adventure | 28809 | [28809-sandra-and-woo-in-the-cursed-adventure.json](./28809-sandra-and-woo-in-the-cursed-adventure.json) |
 | Sandream | 195706 | [195706-sandream.json](./195706-sandream.json) |
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
@@ -1328,12 +1329,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
 | SCP | 287738 | [287738-scp.json](./287738-scp.json) |
+| SCP 087 B | 241913 | [241913-scp-087-b.json](./241913-scp-087-b.json) |
 | SCP 173 - Nightshift Survival Breach Containment | 102739 | [102739-scp-173-nightshift-survival-breach-containment.json](./102739-scp-173-nightshift-survival-breach-containment.json) |
 | SCP 3008 | 231390 | [231390-scp-3008.json](./231390-scp-3008.json) |
 | SCP Area 8 | 82390 | [82390-scp-area-8.json](./82390-scp-area-8.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
 | SCP Operations | 244720 | [244720-scp-operations.json](./244720-scp-operations.json) |
 | SCP-002 | 316791 | [316791-scp-002.json](./316791-scp-002.json) |
+| SCP-087 | 241908 | [241908-scp-087.json](./241908-scp-087.json) |
 | SCP-087 | 336366 | [336366-scp-087.json](./336366-scp-087.json) |
 | SCP-087-B | 20204 | [20204-scp-087-b.json](./20204-scp-087-b.json) |
 | SCP-087-B UE Remake | 277856 | [277856-scp-087-b-ue-remake.json](./277856-scp-087-b-ue-remake.json) |
@@ -2463,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: CamGirl Audition 2 | 263761 | [263761-sex-simulator-camgirl-audition-2.json](./263761-sex-simulator-camgirl-audition-2.json) |
 | Sex Simulator: Dirty Doctor | 385044 | [385044-sex-simulator-dirty-doctor.json](./385044-sex-simulator-dirty-doctor.json) |
 | Sex Simulator: Futanari BDSM | 253850 | [253850-sex-simulator-futanari-bdsm.json](./253850-sex-simulator-futanari-bdsm.json) |
+| Sex Simulator: Girl on Girl | 241937 | [241937-sex-simulator-girl-on-girl.json](./241937-sex-simulator-girl-on-girl.json) |
 | Sex Simulator: Gym Girls | 385041 | [385041-sex-simulator-gym-girls.json](./385041-sex-simulator-gym-girls.json) |
 | Sex Simulator: Love Room | 385046 | [385046-sex-simulator-love-room.json](./385046-sex-simulator-love-room.json) |
 | Sex Simulator: Naughty Waitress | 275002 | [275002-sex-simulator-naughty-waitress.json](./275002-sex-simulator-naughty-waitress.json) |
@@ -6745,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
 | Sonic Adventure DX: Director's Cut | 23695 | [23695-sonic-adventure-dx-directors-cut.json](./23695-sonic-adventure-dx-directors-cut.json) |
 | Sonic Adventure Emerald | 330304 | [330304-sonic-adventure-emerald.json](./330304-sonic-adventure-emerald.json) |
+| Sonic Adventure Genisys | 241921 | [241921-sonic-adventure-genisys.json](./241921-sonic-adventure-genisys.json) |
 | Sonic Adventure Reloaded | 316978 | [316978-sonic-adventure-reloaded.json](./316978-sonic-adventure-reloaded.json) |
 | Sonic Adventure SX | 316977 | [316977-sonic-adventure-sx.json](./316977-sonic-adventure-sx.json) |
 | Sonic Adventure: Neo | 330154 | [330154-sonic-adventure-neo.json](./330154-sonic-adventure-neo.json) |
@@ -6897,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Madventure | 352168 | [352168-sonic-madventure.json](./352168-sonic-madventure.json) |
 | Sonic Mania & Sonic Plus | 317341 | [317341-sonic-mania-and-sonic-plus.json](./317341-sonic-mania-and-sonic-plus.json) |
 | Sonic Mania + Team Sonic Racing Double Pack | 139949 | [139949-sonic-mania-team-sonic-racing-double-pack.json](./139949-sonic-mania-team-sonic-racing-double-pack.json) |
+| Sonic Mania Atmosphere | 241896 | [241896-sonic-mania-atmosphere.json](./241896-sonic-mania-atmosphere.json) |
 | Sonic Mania Fangame | 326995 | [326995-sonic-mania-fangame.json](./326995-sonic-mania-fangame.json) |
 | Sonic Mania Plus | 94873 | [94873-sonic-mania-plus.json](./94873-sonic-mania-plus.json) |
 | Sonic Mania Randomizer | 386230 | [386230-sonic-mania-randomizer.json](./386230-sonic-mania-randomizer.json) |
