@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valravn | 244363 | [244363-valravn.json](./244363-valravn.json) |
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valve Complete Pack | 55025 | [55025-valve-complete-pack.json](./55025-valve-complete-pack.json) |
+| Valves | 270717 | [270717-valves.json](./270717-valves.json) |
 | Valvontaa | 399057 | [399057-valvontaa.json](./399057-valvontaa.json) |
 | Valyria Tear | 60586 | [60586-valyria-tear.json](./60586-valyria-tear.json) |
 | Valz | 114155 | [114155-valz.json](./114155-valz.json) |
@@ -1130,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vita: The Ember Oracle | 356112 | [356112-vita-the-ember-oracle.json](./356112-vita-the-ember-oracle.json) |
 | Vital | 232013 | [232013-vital.json](./232013-vital.json) |
+| Vital Bracelet Arena | 270627 | [270627-vital-bracelet-arena.json](./270627-vital-bracelet-arena.json) |
 | Vital Charge | 400312 | [400312-vital-charge.json](./400312-vital-charge.json) |
 | Vital Force | 62188 | [62188-vital-force.json](./62188-vital-force.json) |
 | Vital Signs: Emergency Department - Infections Package | 225107 | [225107-vital-signs-emergency-department-infections-package.json](./225107-vital-signs-emergency-department-infections-package.json) |
@@ -1226,8 +1228,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice of the Killer | 150094 | [150094-voice-of-the-killer.json](./150094-voice-of-the-killer.json) |
 | Voice of the Wizard by Brett Farkas | 221179 | [221179-voice-of-the-wizard-by-brett-farkas.json](./221179-voice-of-the-wizard-by-brett-farkas.json) |
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
+| Voice Paradise | 270636 | [270636-voice-paradise.json](./270636-voice-paradise.json) |
 | Voicemail: Laura | 383074 | [383074-voicemail-laura.json](./383074-voicemail-laura.json) |
 | Voices of a Hidden Star | 183530 | [183530-voices-of-a-hidden-star.json](./183530-voices-of-a-hidden-star.json) |
+| Voices of Authority | 270719 | [270719-voices-of-authority.json](./270719-voices-of-authority.json) |
 | Void | 113487 | [113487-void.json](./113487-void.json) |
 | Void | 202343 | [202343-void.json](./202343-void.json) |
 | Void | 237506 | [237506-void.json](./237506-void.json) |
