@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real World 2 | 275638 | [275638-real-world-2.json](./275638-real-world-2.json) |
 | Real World Golf 2007 | 23010 | [23010-real-world-golf-2007.json](./23010-real-world-golf-2007.json) |
 | Real World RC | 240353 | [240353-real-world-rc.json](./240353-real-world-rc.json) |
+| Real Wrestling Fighting Game | 266255 | [266255-real-wrestling-fighting-game.json](./266255-real-wrestling-fighting-game.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
 | RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
 | RealFighter | 370887 | [370887-realfighter.json](./370887-realfighter.json) |
