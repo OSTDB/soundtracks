@@ -1842,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
 | Light-Bot | 63577 | [63577-light-bot.json](./63577-light-bot.json) |
 | Light-Bringer | 360644 | [360644-light-bringer.json](./360644-light-bringer.json) |
+| Light-It Up | 266253 | [266253-light-it-up.json](./266253-light-it-up.json) |
 | Light-It Up: Complete Edition | 283170 | [283170-light-it-up-complete-edition.json](./283170-light-it-up-complete-edition.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
