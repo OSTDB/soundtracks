@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Wars | 146726 | [146726-jewel-wars.json](./146726-jewel-wars.json) |
 | Jewel Witch Tale | 52007 | [52007-jewel-witch-tale.json](./52007-jewel-witch-tale.json) |
 | Jeweler Simulator | 291449 | [291449-jeweler-simulator.json](./291449-jeweler-simulator.json) |
+| JeweLife: Match 3 Jewels | 255053 | [255053-jewelife-match-3-jewels.json](./255053-jewelife-match-3-jewels.json) |
 | Jewellust | 61030 | [61030-jewellust.json](./61030-jewellust.json) |
 | Jewelpet: Mahou no DS Kirapikarin | 67227 | [67227-jewelpet-mahou-no-ds-kirapikarin.json](./67227-jewelpet-mahou-no-ds-kirapikarin.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
@@ -653,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Dreams: Tranquil Pack | 226859 | [226859-jigsaw-puzzle-dreams-tranquil-pack.json](./226859-jigsaw-puzzle-dreams-tranquil-pack.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Electro Macro | 268529 | [268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json](./268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json) |
+| Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Fitness | 255014 | [255014-jigsaw-puzzle-pack-pixel-puzzles-ultimate-fitness.json](./255014-jigsaw-puzzle-pack-pixel-puzzles-ultimate-fitness.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Halloween 5 | 274583 | [274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json](./274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Jiu Jitsu | 243159 | [243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json](./243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 22 | 270193 | [270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json](./270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json) |
