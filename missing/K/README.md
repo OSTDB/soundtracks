@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Humans | 167269 | [167269-kill-the-humans.json](./167269-kill-the-humans.json) |
 | Kill The K.O.T.H | 261794 | [261794-kill-the-k-o-t-h.json](./261794-kill-the-k-o-t-h.json) |
 | Kill The Lights! | 337636 | [337636-kill-the-lights.json](./337636-kill-the-lights.json) |
+| Kill the Man in the House | 252104 | [252104-kill-the-man-in-the-house.json](./252104-kill-the-man-in-the-house.json) |
 | Kill The Monk | 269865 | [269865-kill-the-monk.json](./269865-kill-the-monk.json) |
 | Kill the Monster | 105362 | [105362-kill-the-monster.json](./105362-kill-the-monster.json) |
 | Kill The Monster Z | 189165 | [189165-kill-the-monster-z.json](./189165-kill-the-monster-z.json) |
