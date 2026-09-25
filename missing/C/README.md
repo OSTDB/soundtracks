@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Fred Evil Pet | 272860 | [272860-cat-fred-evil-pet.json](./272860-cat-fred-evil-pet.json) |
 | Cat From Hell: Cat Simulator | 338008 | [338008-cat-from-hell-cat-simulator.json](./338008-cat-from-hell-cat-simulator.json) |
 | Cat Fusion Quest | 312759 | [312759-cat-fusion-quest.json](./312759-cat-fusion-quest.json) |
+| Cat Game | 243081 | [243081-cat-game.json](./243081-cat-game.json) |
 | Cat Game | 282580 | [282580-cat-game.json](./282580-cat-game.json) |
 | Cat Game: The Cats Collector! | 239919 | [239919-cat-game-the-cats-collector.json](./239919-cat-game-the-cats-collector.json) |
 | Cat Gentlemans Play: Insult Spinner 10 Cents | 128626 | [128626-cat-gentlemans-play-insult-spinner-10-cents.json](./128626-cat-gentlemans-play-insult-spinner-10-cents.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Ping Pong | 251642 | [251642-cat-ping-pong.json](./251642-cat-ping-pong.json) |
 | Cat Pipes | 244275 | [244275-cat-pipes.json](./244275-cat-pipes.json) |
 | Cat Plus | 330190 | [330190-cat-plus.json](./330190-cat-plus.json) |
+| Cat Pong! | 243082 | [243082-cat-pong.json](./243082-cat-pong.json) |
 | Cat President: A More Purrfect Union | 23186 | [23186-cat-president-a-more-purrfect-union.json](./23186-cat-president-a-more-purrfect-union.json) |
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
 | Cat Puzzle | 335441 | [335441-cat-puzzle.json](./335441-cat-puzzle.json) |
@@ -2320,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
+| ChasingCube | 243083 | [243083-chasingcube.json](./243083-chasingcube.json) |
 | Chasm | 255661 | [255661-chasm.json](./255661-chasm.json) |
 | Chasm Bound | 250896 | [250896-chasm-bound.json](./250896-chasm-bound.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
@@ -4550,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
+| Color Tower | 243080 | [243080-color-tower.json](./243080-color-tower.json) |
 | Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
 | Color Valley: The Lost Balloon Adventure | 360049 | [360049-color-valley-the-lost-balloon-adventure.json](./360049-color-valley-the-lost-balloon-adventure.json) |
 | Color Vision Deficiency Test | 318641 | [318641-color-vision-deficiency-test.json](./318641-color-vision-deficiency-test.json) |
