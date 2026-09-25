@@ -4559,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
 | Friquiz | 135812 | [135812-friquiz.json](./135812-friquiz.json) |
 | Frisbee Fumbling | 322553 | [322553-frisbee-fumbling.json](./322553-frisbee-fumbling.json) |
+| Frisia: Tales & Tides | 280303 | [280303-frisia-tales-and-tides.json](./280303-frisia-tales-and-tides.json) |
 | Frisson | 197226 | [197226-frisson.json](./197226-frisson.json) |
 | Frisson | 288793 | [288793-frisson.json](./288793-frisson.json) |
 | Fritz & Chesster: Chess for Aliens | 356723 | [356723-fritz-and-chesster-chess-for-aliens.json](./356723-fritz-and-chesster-chess-for-aliens.json) |
