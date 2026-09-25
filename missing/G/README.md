@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getaway Girls | 313876 | [313876-getaway-girls.json](./313876-getaway-girls.json) |
 | Getaway Golf | 414298 | [414298-getaway-golf.json](./414298-getaway-golf.json) |
 | Getaway! | 78981 | [78981-getaway.json](./78981-getaway.json) |
+| GetBackers Dakkanya: Dakkan da yo! Zenin Shuugou!! | 252071 | [252071-getbackers-dakkanya-dakkan-da-yo-zenin-shuugou.json](./252071-getbackers-dakkanya-dakkan-da-yo-zenin-shuugou.json) |
 | GetBackers Dakkanya: Jagan Fuuin! | 49602 | [49602-getbackers-dakkanya-jagan-fuuin.json](./49602-getbackers-dakkanya-jagan-fuuin.json) |
 | GetBackers Dakkanya: Jigoku no Scaramouche | 49601 | [49601-getbackers-dakkanya-jigoku-no-scaramouche.json](./49601-getbackers-dakkanya-jigoku-no-scaramouche.json) |
 | GetBackers Dakkanya: Metropolis Dakkan Sakusen! | 49600 | [49600-getbackers-dakkanya-metropolis-dakkan-sakusen.json](./49600-getbackers-dakkanya-metropolis-dakkan-sakusen.json) |
@@ -2002,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 4 | 258948 | [258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json](./258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json) |
 | Gnome Escape | 314409 | [314409-gnome-escape.json](./314409-gnome-escape.json) |
 | Gnome Gname | 185090 | [185090-gnome-gname.json](./185090-gnome-gname.json) |
+| Gnome Heist | 252097 | [252097-gnome-heist.json](./252097-gnome-heist.json) |
 | Gnome Lake | 112722 | [112722-gnome-lake.json](./112722-gnome-lake.json) |
 | Gnome Light | 54471 | [54471-gnome-light.json](./54471-gnome-light.json) |
 | Gnome Nations | 106595 | [106595-gnome-nations.json](./106595-gnome-nations.json) |
