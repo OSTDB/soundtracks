@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bebylon Battle Royale | 56757 | [56757-bebylon-battle-royale.json](./56757-bebylon-battle-royale.json) |
 | Becalm | 113863 | [113863-becalm.json](./113863-becalm.json) |
 | Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities | 399613 | [399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json](./399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json) |
+| Becca | 265104 | [265104-becca.json](./265104-becca.json) |
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Become a Great Artist in Just 10 Seconds | 139817 | [139817-become-a-great-artist-in-just-10-seconds.json](./139817-become-a-great-artist-in-just-10-seconds.json) |
@@ -3033,6 +3034,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pinball Gameroom: Bally Bali | 265171 | [265171-bingo-pinball-gameroom-bally-bali.json](./265171-bingo-pinball-gameroom-bally-bali.json) |
 | Bingo Pinball Gameroom: Bally Ballerina | 265172 | [265172-bingo-pinball-gameroom-bally-ballerina.json](./265172-bingo-pinball-gameroom-bally-ballerina.json) |
 | Bingo Pinball Gameroom: Bally Beach Beauty | 265173 | [265173-bingo-pinball-gameroom-bally-beach-beauty.json](./265173-bingo-pinball-gameroom-bally-beach-beauty.json) |
+| Bingo Pinball Gameroom: Bally Beach Club | 265175 | [265175-bingo-pinball-gameroom-bally-beach-club.json](./265175-bingo-pinball-gameroom-bally-beach-club.json) |
+| Bingo Pinball Gameroom: Bally Beach Time | 265174 | [265174-bingo-pinball-gameroom-bally-beach-time.json](./265174-bingo-pinball-gameroom-bally-beach-time.json) |
 | Bingo Pinball Gameroom: Bally Yacht Club | 265168 | [265168-bingo-pinball-gameroom-bally-yacht-club.json](./265168-bingo-pinball-gameroom-bally-yacht-club.json) |
 | Bingo Pinball Gameroom: United Brazil | 265166 | [265166-bingo-pinball-gameroom-united-brazil.json](./265166-bingo-pinball-gameroom-united-brazil.json) |
 | Bingo Pinball Gameroom: United Caravan | 265165 | [265165-bingo-pinball-gameroom-united-caravan.json](./265165-bingo-pinball-gameroom-united-caravan.json) |
@@ -4251,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
 | Bloodmoon Church | 144129 | [144129-bloodmoon-church.json](./144129-bloodmoon-church.json) |
 | Bloodmoon Rush | 333152 | [333152-bloodmoon-rush.json](./333152-bloodmoon-rush.json) |
+| BlooDooMoon Survivor | 265181 | [265181-bloodoomoon-survivor.json](./265181-bloodoomoon-survivor.json) |
 | BloodPact | 60218 | [60218-bloodpact.json](./60218-bloodpact.json) |
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | Bloodplague Lockdown | 373721 | [373721-bloodplague-lockdown.json](./373721-bloodplague-lockdown.json) |
@@ -6669,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Restaurant Simulator | 261339 | [261339-burger-restaurant-simulator.json](./261339-burger-restaurant-simulator.json) |
 | Burger Rush | 71525 | [71525-burger-rush.json](./71525-burger-rush.json) |
 | Burger Shift: Team Rush | 391583 | [391583-burger-shift-team-rush.json](./391583-burger-shift-team-rush.json) |
+| Burger Shop 3 | 265102 | [265102-burger-shop-3.json](./265102-burger-shop-3.json) |
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
 | Burger Story Beach Edition | 97150 | [97150-burger-story-beach-edition.json](./97150-burger-story-beach-edition.json) |
 | Burger Up | 121037 | [121037-burger-up.json](./121037-burger-up.json) |
