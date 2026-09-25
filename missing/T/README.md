@@ -2405,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms Origins | 253380 | [253380-the-backrooms-origins.json](./253380-the-backrooms-origins.json) |
 | The Backrooms Simulator | 121032 | [121032-the-backrooms-simulator.json](./121032-the-backrooms-simulator.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
+| The Backrooms: Escape | 272252 | [272252-the-backrooms-escape.json](./272252-the-backrooms-escape.json) |
 | The Backrooms: Forsaken | 329584 | [329584-the-backrooms-forsaken.json](./329584-the-backrooms-forsaken.json) |
 | The Backrooms: Liminal Reality | 238066 | [238066-the-backrooms-liminal-reality.json](./238066-the-backrooms-liminal-reality.json) |
 | The Backrooms: Lost Tape | 197312 | [197312-the-backrooms-lost-tape.json](./197312-the-backrooms-lost-tape.json) |
@@ -9309,6 +9310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Victory | 274471 | [274471-to-victory.json](./274471-to-victory.json) |
 | To-Fu Oh! Sushi | 252139 | [252139-to-fu-oh-sushi.json](./252139-to-fu-oh-sushi.json) |
 | To-Fu: The Trials of Chi | 364556 | [364556-to-fu-the-trials-of-chi.json](./364556-to-fu-the-trials-of-chi.json) |
+| TO: Crossfire | 272321 | [272321-to-crossfire.json](./272321-to-crossfire.json) |
 | To:ri | 317222 | [317222-to-ri.json](./317222-to-ri.json) |
 | TO4: Tactical Operations | 74784 | [74784-to4-tactical-operations.json](./74784-to4-tactical-operations.json) |
 | Toad in SMB1 | 198470 | [198470-toad-in-smb1.json](./198470-toad-in-smb1.json) |
