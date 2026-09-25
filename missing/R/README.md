@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainshade | 204491 | [204491-rainshade.json](./204491-rainshade.json) |
 | Rainy attic room | 143090 | [143090-rainy-attic-room.json](./143090-rainy-attic-room.json) |
 | Rainy Blue: 6 Gatsu no Ame | 371955 | [371955-rainy-blue-6-gatsu-no-ame.json](./371955-rainy-blue-6-gatsu-no-ame.json) |
+| Rainy Boba Cafe | 233981 | [233981-rainy-boba-cafe.json](./233981-rainy-boba-cafe.json) |
 | Rainy Butcher | 211937 | [211937-rainy-butcher.json](./211937-rainy-butcher.json) |
 | Rainy Day | 179673 | [179673-rainy-day.json](./179673-rainy-day.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
@@ -4976,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Naked Simulator 2019 | 110810 | [110810-running-naked-simulator-2019.json](./110810-running-naked-simulator-2019.json) |
 | Running Out of Spice | 179143 | [179143-running-out-of-spice.json](./179143-running-out-of-spice.json) |
+| Running Rich Racing | 234014 | [234014-running-rich-racing.json](./234014-running-rich-racing.json) |
 | Running Riot | 240743 | [240743-running-riot.json](./240743-running-riot.json) |
 | Running Rogue | 139371 | [139371-running-rogue.json](./139371-running-rogue.json) |
 | Running Shadow | 17985 | [17985-running-shadow.json](./17985-running-shadow.json) |
