@@ -3019,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Pony | 39604 | [39604-mega-pony.json](./39604-mega-pony.json) |
 | Mega Punchy Golf | 120935 | [120935-mega-punchy-golf.json](./120935-mega-punchy-golf.json) |
 | Mega R-Type | 276776 | [276776-mega-r-type.json](./276776-mega-r-type.json) |
+| Mega Ramp Moto: Dirt Bike Stunts Simulator | 257883 | [257883-mega-ramp-moto-dirt-bike-stunts-simulator.json](./257883-mega-ramp-moto-dirt-bike-stunts-simulator.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
