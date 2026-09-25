@@ -3443,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black ICE/White Noise | 341681 | [341681-black-ice-white-noise.json](./341681-black-ice-white-noise.json) |
 | Black Idea | 370880 | [370880-black-idea.json](./370880-black-idea.json) |
 | Black Ink | 199495 | [199495-black-ink.json](./199495-black-ink.json) |
+| Black Jack | 246377 | [246377-black-jack.json](./246377-black-jack.json) |
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
 | Black Jack Story | 99029 | [99029-black-jack-story.json](./99029-black-jack-story.json) |
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
