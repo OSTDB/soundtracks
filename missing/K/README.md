@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiipluu | 360602 | [360602-kiipluu.json](./360602-kiipluu.json) |
 | Kiitsu | 96734 | [96734-kiitsu.json](./96734-kiitsu.json) |
 | Kijin-mura no Kiken na Inshuu: Dangerous Village Tradition | 270782 | [270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json](./270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json) |
+| Kikai: The Silent Cat | 261221 | [261221-kikai-the-silent-cat.json](./261221-kikai-the-silent-cat.json) |
 | Kikaijikake no Merceneria | 386112 | [386112-kikaijikake-no-merceneria.json](./386112-kikaijikake-no-merceneria.json) |
 | Kiken Drive: 2nd Lap | 273464 | [273464-kiken-drive-2nd-lap.json](./273464-kiken-drive-2nd-lap.json) |
 | Kiki | 309528 | [309528-kiki.json](./309528-kiki.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
 | Knights: Spiral Islands | 66098 | [66098-knights-spiral-islands.json](./66098-knights-spiral-islands.json) |
+| Knighty Knight | 261320 | [261320-knighty-knight.json](./261320-knighty-knight.json) |
 | Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
 | Knob | 346254 | [346254-knob.json](./346254-knob.json) |
@@ -1988,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kongfu | 246465 | [246465-kongfu.json](./246465-kongfu.json) |
 | Kongo Kong | 62983 | [62983-kongo-kong.json](./62983-kongo-kong.json) |
 | Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
+| Konjiki no Gash Bell!! Golden Memories | 261218 | [261218-konjiki-no-gash-bell-golden-memories.json](./261218-konjiki-no-gash-bell-golden-memories.json) |
 | Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
 | KonMari Spark Joy! | 174292 | [174292-konmari-spark-joy.json](./174292-konmari-spark-joy.json) |
