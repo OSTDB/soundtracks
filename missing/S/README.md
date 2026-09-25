@@ -3826,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
 | Sid Meier's Civilization VI: Liyue & Inazuma Pack | 278439 | [278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json](./278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json) |
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
+| Sid Meier's Civilization VI: Yorha Squadron Pack | 276781 | [276781-sid-meiers-civilization-vi-yorha-squadron-pack.json](./276781-sid-meiers-civilization-vi-yorha-squadron-pack.json) |
 | Sid Meier's Civilization VII: Arcade Edition | 385294 | [385294-sid-meiers-civilization-vii-arcade-edition.json](./385294-sid-meiers-civilization-vii-arcade-edition.json) |
 | Sid Meier's Civilization VII: Deluxe Edition | 315854 | [315854-sid-meiers-civilization-vii-deluxe-edition.json](./315854-sid-meiers-civilization-vii-deluxe-edition.json) |
 | Sid Meier's Civilization VII: Founders Edition | 315853 | [315853-sid-meiers-civilization-vii-founders-edition.json](./315853-sid-meiers-civilization-vii-founders-edition.json) |
@@ -4567,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelecool: Remnants | 411028 | [411028-skelecool-remnants.json](./411028-skelecool-remnants.json) |
 | Skelemania | 183059 | [183059-skelemania.json](./183059-skelemania.json) |
 | Skelemental: Monk's Fury | 295881 | [295881-skelemental-monks-fury.json](./295881-skelemental-monks-fury.json) |
+| Skeleport Energy | 276765 | [276765-skeleport-energy.json](./276765-skeleport-energy.json) |
 | Skelerun | 198513 | [198513-skelerun.json](./198513-skelerun.json) |
 | Skelet_666 | 306380 | [306380-skelet-666.json](./306380-skelet-666.json) |
 | Skeletal Avenger | 136435 | [136435-skeletal-avenger.json](./136435-skeletal-avenger.json) |
@@ -9035,6 +9037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacklands: Cursed Worlds | 257949 | [257949-stacklands-cursed-worlds.json](./257949-stacklands-cursed-worlds.json) |
 | Stackmancy | 340000 | [340000-stackmancy.json](./340000-stackmancy.json) |
 | Stackmon | 389118 | [389118-stackmon.json](./389118-stackmon.json) |
+| Stackopolis | 276778 | [276778-stackopolis.json](./276778-stackopolis.json) |
 | Stacks: Jungle! | 274552 | [274552-stacks-jungle.json](./274552-stacks-jungle.json) |
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
 | Stacky Dash: Complete Edition | 333726 | [333726-stacky-dash-complete-edition.json](./333726-stacky-dash-complete-edition.json) |
@@ -12330,6 +12333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
 | Super Mario Gravity | 213948 | [213948-super-mario-gravity.json](./213948-super-mario-gravity.json) |
 | Super Mario Holidays | 318553 | [318553-super-mario-holidays.json](./318553-super-mario-holidays.json) |
+| Super Mario Horizons | 276784 | [276784-super-mario-horizons.json](./276784-super-mario-horizons.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
 | Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
