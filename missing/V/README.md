@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victor's Test Night: Reves | 346224 | [346224-victors-test-night-reves.json](./346224-victors-test-night-reves.json) |
 | Victor's Video Vault | 399194 | [399194-victors-video-vault.json](./399194-victors-video-vault.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
+| Victoria 3: Colossus of the South | 273972 | [273972-victoria-3-colossus-of-the-south.json](./273972-victoria-3-colossus-of-the-south.json) |
 | Victoria 3: Trains Bonus Pack | 289852 | [289852-victoria-3-trains-bonus-pack.json](./289852-victoria-3-trains-bonus-pack.json) |
 | Victoria 3: Update 1.2 | 240900 | [240900-victoria-3-update-1-2.json](./240900-victoria-3-update-1-2.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
