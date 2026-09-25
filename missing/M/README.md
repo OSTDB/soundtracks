@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mah Jong Quest | 131399 | [131399-mah-jong-quest.json](./131399-mah-jong-quest.json) |
 | Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
 | Mah Jongg Solitaire | 85816 | [85816-mah-jongg-solitaire.json](./85816-mah-jongg-solitaire.json) |
+| Mah Jongg: V-G-A | 261204 | [261204-mah-jongg-v-g-a.json](./261204-mah-jongg-v-g-a.json) |
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | MahJah | 232542 | [232542-mahjah.json](./232542-mahjah.json) |
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
@@ -2369,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayhem Motorsports Collection | 283208 | [283208-mayhem-motorsports-collection.json](./283208-mayhem-motorsports-collection.json) |
 | Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
+| Mayhem Survivors: Animals | 261312 | [261312-mayhem-survivors-animals.json](./261312-mayhem-survivors-animals.json) |
 | Mayhem Triple | 34731 | [34731-mayhem-triple.json](./34731-mayhem-triple.json) |
 | Mayhem ZX | 74755 | [74755-mayhem-zx.json](./74755-mayhem-zx.json) |
 | Mayo Mayo | 321605 | [321605-mayo-mayo.json](./321605-mayo-mayo.json) |
@@ -3946,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MIA Online | 135806 | [135806-mia-online.json](./135806-mia-online.json) |
 | MIA: Memory Fragments | 404202 | [404202-mia-memory-fragments.json](./404202-mia-memory-fragments.json) |
 | Mia's Christmas 2 | 229165 | [229165-mias-christmas-2.json](./229165-mias-christmas-2.json) |
+| Mia's Hunt | 261201 | [261201-mias-hunt.json](./261201-mias-hunt.json) |
 | Mia's Math Adventure: Just in Time! | 144378 | [144378-mias-math-adventure-just-in-time.json](./144378-mias-math-adventure-just-in-time.json) |
 | Mia's Reading Adventure: The Search for Grandma's Remedy | 381688 | [381688-mias-reading-adventure-the-search-for-grandmas-remedy.json](./381688-mias-reading-adventure-the-search-for-grandmas-remedy.json) |
 | Mia's Science Adventure: Romaine's New Hat | 381689 | [381689-mias-science-adventure-romaines-new-hat.json](./381689-mias-science-adventure-romaines-new-hat.json) |
@@ -6182,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
 | Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
+| Mooky Takes Manhattan! | 261306 | [261306-mooky-takes-manhattan.json](./261306-mooky-takes-manhattan.json) |
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moomin no Suteki na Present | 230276 | [230276-moomin-no-suteki-na-present.json](./230276-moomin-no-suteki-na-present.json) |
 | Moomin's Tale | 49859 | [49859-moomins-tale.json](./49859-moomins-tale.json) |
@@ -6809,6 +6813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
 | Mouse Trap Hotel | 49037 | [49037-mouse-trap-hotel.json](./49037-mouse-trap-hotel.json) |
 | Mouse Trophy | 59057 | [59057-mouse-trophy.json](./59057-mouse-trophy.json) |
+| Mouse Wants Cheese | 261308 | [261308-mouse-wants-cheese.json](./261308-mouse-wants-cheese.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | MouseBot: Escape from CatLab | 157532 | [157532-mousebot-escape-from-catlab.json](./157532-mousebot-escape-from-catlab.json) |
 | Mousegun | 326723 | [326723-mousegun.json](./326723-mousegun.json) |
@@ -7084,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudlarks | 123583 | [123583-mudlarks.json](./123583-mudlarks.json) |
 | Mudness Offroad Car Simulator Runner | 345710 | [345710-mudness-offroad-car-simulator-runner.json](./345710-mudness-offroad-car-simulator-runner.json) |
 | Mudoba | 236302 | [236302-mudoba.json](./236302-mudoba.json) |
+| Mueitou: Shinsou-hen | 261203 | [261203-mueitou-shinsou-hen.json](./261203-mueitou-shinsou-hen.json) |
 | Muffin Knight | 9268 | [9268-muffin-knight.json](./9268-muffin-knight.json) |
 | Muffins on Stream | 239307 | [239307-muffins-on-stream.json](./239307-muffins-on-stream.json) |
 | Muffled Warfare | 96550 | [96550-muffled-warfare.json](./96550-muffled-warfare.json) |
@@ -7603,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Farm | 107900 | [107900-my-farm.json](./107900-my-farm.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My Favorite Dream Girls | 401695 | [401695-my-favorite-dream-girls.json](./401695-my-favorite-dream-girls.json) |
+| My Favorite Monster | 261305 | [261305-my-favorite-monster.json](./261305-my-favorite-monster.json) |
 | My Favourite T-Shirt | 398540 | [398540-my-favourite-t-shirt.json](./398540-my-favourite-t-shirt.json) |
 | My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
 | My First Date RPG | 169431 | [169431-my-first-date-rpg.json](./169431-my-first-date-rpg.json) |
