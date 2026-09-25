@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invertio | 186196 | [186196-invertio.json](./186196-invertio.json) |
 | Invest | 94215 | [94215-invest.json](./94215-invest.json) |
 | Investation | 92527 | [92527-investation.json](./92527-investation.json) |
+| Investigate | 229017 | [229017-investigate.json](./229017-investigate.json) |
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
 | Investigator | 32526 | [32526-investigator.json](./32526-investigator.json) |
 | Investigator and the Case of the Unconventional Weapon | 179660 | [179660-investigator-and-the-case-of-the-unconventional-weapon.json](./179660-investigator-and-the-case-of-the-unconventional-weapon.json) |
@@ -2427,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isabelle | 112337 | [112337-isabelle.json](./112337-isabelle.json) |
 | Isabelle 64 | 135266 | [135266-isabelle-64.json](./135266-isabelle-64.json) |
 | Isadora's Edge | 329969 | [329969-isadoras-edge.json](./329969-isadoras-edge.json) |
+| Isaiah 24:4-6 | 228973 | [228973-isaiah-24-4-6.json](./228973-isaiah-24-4-6.json) |
 | Isane Insects: The Inception | 53255 | [53255-isane-insects-the-inception.json](./53255-isane-insects-the-inception.json) |
 | Iscoot | 392153 | [392153-iscoot.json](./392153-iscoot.json) |
 | iScopaX | 100737 | [100737-iscopax.json](./100737-iscopax.json) |
@@ -2669,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Not Me, It's My Basement | 176514 | [176514-its-not-me-its-my-basement.json](./176514-its-not-me-its-my-basement.json) |
 | It's Not Rocket Science! | 295318 | [295318-its-not-rocket-science.json](./295318-its-not-rocket-science.json) |
 | It's Not You, It's M.E | 379960 | [379960-its-not-you-its-m-e.json](./379960-its-not-you-its-m-e.json) |
+| It's Not You, It's Your Trauma | 228989 | [228989-its-not-you-its-your-trauma.json](./228989-its-not-you-its-your-trauma.json) |
 | It's OK to Fail | 278407 | [278407-its-ok-to-fail.json](./278407-its-ok-to-fail.json) |
 | It’s on the Mouse | 328244 | [328244-it-s-on-the-mouse.json](./328244-it-s-on-the-mouse.json) |
 | It's Our Revolution | 304108 | [304108-its-our-revolution.json](./304108-its-our-revolution.json) |
