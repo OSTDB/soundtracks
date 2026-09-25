@@ -2260,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beep | 133952 | [133952-beep.json](./133952-beep.json) |
 | Beep | 331671 | [331671-beep.json](./331671-beep.json) |
 | Beep Bap The Beep Boop | 265235 | [265235-beep-bap-the-beep-boop.json](./265235-beep-bap-the-beep-boop.json) |
+| Beep Boop | 249744 | [249744-beep-boop.json](./249744-beep-boop.json) |
 | Beep Boop | 319000 | [319000-beep-boop.json](./319000-beep-boop.json) |
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
 | Beer & Plunder | 320868 | [320868-beer-and-plunder.json](./320868-beer-and-plunder.json) |
@@ -7011,6 +7012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By the Numbers | 413892 | [413892-by-the-numbers.json](./413892-by-the-numbers.json) |
 | Byakko: Shijin Butai Enrenki | 342755 | [342755-byakko-shijin-butai-enrenki.json](./342755-byakko-shijin-butai-enrenki.json) |
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
+| Byakuya Museum | 249723 | [249723-byakuya-museum.json](./249723-byakuya-museum.json) |
 | Bye Bye Bonnie | 415153 | [415153-bye-bye-bonnie.json](./415153-bye-bye-bonnie.json) |
 | Bye Sweet Carole: Deluxe Edition | 401673 | [401673-bye-sweet-carole-deluxe-edition.json](./401673-bye-sweet-carole-deluxe-edition.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
