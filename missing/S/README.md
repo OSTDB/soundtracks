@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samara | 291084 | [291084-samara.json](./291084-samara.json) |
 | Samba de Amigo | 70087 | [70087-samba-de-amigo.json](./70087-samba-de-amigo.json) |
 | Samba de Amigo: Party-To-Go | 264096 | [264096-samba-de-amigo-party-to-go.json](./264096-samba-de-amigo-party-to-go.json) |
+| Samba de Amigo: Virtual Party | 251561 | [251561-samba-de-amigo-virtual-party.json](./251561-samba-de-amigo-virtual-party.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
@@ -1793,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Pie: Hidden Room | 255018 | [255018-secret-pie-hidden-room.json](./255018-secret-pie-hidden-room.json) |
 | Secret Quest | 41108 | [41108-secret-quest.json](./41108-secret-quest.json) |
 | Secret Reflections Collection | 201864 | [201864-secret-reflections-collection.json](./201864-secret-reflections-collection.json) |
+| Secret Romance With Streamer Girls | 251526 | [251526-secret-romance-with-streamer-girls.json](./251526-secret-romance-with-streamer-girls.json) |
 | Secret Savings | 114383 | [114383-secret-savings.json](./114383-secret-savings.json) |
 | Secret School | 290498 | [290498-secret-school.json](./290498-secret-school.json) |
 | Secret Service: In Harm's Way | 73800 | [73800-secret-service-in-harms-way.json](./73800-secret-service-in-harms-way.json) |
@@ -2013,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishoku ni Watashi wo | 321620 | [321620-seishoku-ni-watashi-wo.json](./321620-seishoku-ni-watashi-wo.json) |
 | Seishoujo Kantai Virgin Fleet | 290423 | [290423-seishoujo-kantai-virgin-fleet.json](./290423-seishoujo-kantai-virgin-fleet.json) |
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
+| Seishun! Bukatsu Aruaru | 251515 | [251515-seishun-bukatsu-aruaru.json](./251515-seishun-bukatsu-aruaru.json) |
 | Seito Kaichou de Amaenbou na Onee-chan ha Suki Desu ka? | 399191 | [399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json](./399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json) |
 | Seiun Kamen Machineman: Dengeki Convert | 385750 | [385750-seiun-kamen-machineman-dengeki-convert.json](./385750-seiun-kamen-machineman-dengeki-convert.json) |
 | Seiya Online | 144251 | [144251-seiya-online.json](./144251-seiya-online.json) |
@@ -4103,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Shadow | 123007 | [123007-silent-shadow.json](./123007-silent-shadow.json) |
 | Silent Shark | 404429 | [404429-silent-shark.json](./404429-silent-shark.json) |
+| Silent Slayer: Vault of the Vampire | 251562 | [251562-silent-slayer-vault-of-the-vampire.json](./251562-silent-slayer-vault-of-the-vampire.json) |
 | Silent Sonata | 284483 | [284483-silent-sonata.json](./284483-silent-sonata.json) |
 | Silent space VR | 75765 | [75765-silent-space-vr.json](./75765-silent-space-vr.json) |
 | Silent Spirits | 383363 | [383363-silent-spirits.json](./383363-silent-spirits.json) |
@@ -5879,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Bears VR | 68272 | [68272-sneaky-bears-vr.json](./68272-sneaky-bears-vr.json) |
 | Sneaky Bimbuls | 406134 | [406134-sneaky-bimbuls.json](./406134-sneaky-bimbuls.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
+| Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
