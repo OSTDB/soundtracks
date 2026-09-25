@@ -3563,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
 | Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys | 401117 | [401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json](./401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json) |
 | Dino Fighters | 241975 | [241975-dino-fighters.json](./241975-dino-fighters.json) |
+| Dino Force | 227801 | [227801-dino-force.json](./227801-dino-force.json) |
 | Dino Gaïa | 326060 | [326060-dino-gaia.json](./326060-dino-gaia.json) |
 | Dino Galaxy Tennis | 144945 | [144945-dino-galaxy-tennis.json](./144945-dino-galaxy-tennis.json) |
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
@@ -4141,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diving Disorder | 157567 | [157567-diving-disorder.json](./157567-diving-disorder.json) |
 | Divinity Arrival | 254569 | [254569-divinity-arrival.json](./254569-divinity-arrival.json) |
 | Divinity Chronicles: Journey to the West | 140623 | [140623-divinity-chronicles-journey-to-the-west.json](./140623-divinity-chronicles-journey-to-the-west.json) |
+| Divinity Fatum | 227769 | [227769-divinity-fatum.json](./227769-divinity-fatum.json) |
 | Divinity Hunting | 269033 | [269033-divinity-hunting.json](./269033-divinity-hunting.json) |
 | Divinity Vassals | 389709 | [389709-divinity-vassals.json](./389709-divinity-vassals.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
