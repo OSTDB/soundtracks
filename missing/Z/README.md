@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo-phonics 8. Make It Say with Inny Inchworm | 101483 | [101483-zoo-phonics-8-make-it-say-with-inny-inchworm.json](./101483-zoo-phonics-8-make-it-say-with-inny-inchworm.json) |
 | Zoo-phonics 9: The Zoo Billboard Mix-up | 101484 | [101484-zoo-phonics-9-the-zoo-billboard-mix-up.json](./101484-zoo-phonics-9-the-zoo-billboard-mix-up.json) |
 | Zoo-pocalypse | 396899 | [396899-zoo-pocalypse.json](./396899-zoo-pocalypse.json) |
+| ZooHop | 247997 | [247997-zoohop.json](./247997-zoohop.json) |
 | Zookaa Fruits | 395583 | [395583-zookaa-fruits.json](./395583-zookaa-fruits.json) |
 | Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
 | ZooKeeper Simulator | 127218 | [127218-zookeeper-simulator.json](./127218-zookeeper-simulator.json) |
