@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Hunt 2018 | 108513 | [108513-safari-hunt-2018.json](./108513-safari-hunt-2018.json) |
 | Safari Kart | 263579 | [263579-safari-kart.json](./263579-safari-kart.json) |
 | Safari Kongo | 79243 | [79243-safari-kongo.json](./79243-safari-kongo.json) |
+| Safari Party | 256224 | [256224-safari-party.json](./256224-safari-party.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
 | Safari Quest | 84904 | [84904-safari-quest.json](./84904-safari-quest.json) |
 | Safari Rally | 40416 | [40416-safari-rally.json](./40416-safari-rally.json) |
@@ -952,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Princess? Save a Fart! | 405464 | [405464-save-the-princess-save-a-fart.json](./405464-save-the-princess-save-a-fart.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save the Reactor | 190174 | [190174-save-the-reactor.json](./190174-save-the-reactor.json) |
+| Save the Teenies | 256227 | [256227-save-the-teenies.json](./256227-save-the-teenies.json) |
 | Save the throne | 285527 | [285527-save-the-throne.json](./285527-save-the-throne.json) |
 | Save The Toast! | 265183 | [265183-save-the-toast.json](./265183-save-the-toast.json) |
 | Save the Villainess | 287728 | [287728-save-the-villainess.json](./287728-save-the-villainess.json) |
@@ -1151,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
 | Schlag den Raab: Das 3. Spiel | 86078 | [86078-schlag-den-raab-das-3-spiel.json](./86078-schlag-den-raab-das-3-spiel.json) |
+| Schlag den Star: Das 3. Spiel | 256216 | [256216-schlag-den-star-das-3-spiel.json](./256216-schlag-den-star-das-3-spiel.json) |
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
 | Schloss der Wölfe | 323389 | [323389-schloss-der-wolfe.json](./323389-schloss-der-wolfe.json) |
 | Schmaragon | 230265 | [230265-schmaragon.json](./230265-schmaragon.json) |
@@ -3415,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
 | Shiperoids | 31853 | [31853-shiperoids.json](./31853-shiperoids.json) |
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
+| Shipmatch | 256232 | [256232-shipmatch.json](./256232-shipmatch.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
 | Ships 2022 | 148897 | [148897-ships-2022.json](./148897-ships-2022.json) |
@@ -8469,6 +8473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiders | 346138 | [346138-spiders.json](./346138-spiders.json) |
 | Spiders | 46871 | [46871-spiders.json](./46871-spiders.json) |
 | Spiders Everywhere | 187375 | [187375-spiders-everywhere.json](./187375-spiders-everywhere.json) |
+| Spiders in the Bath | 256223 | [256223-spiders-in-the-bath.json](./256223-spiders-in-the-bath.json) |
 | Spidertronic | 302479 | [302479-spidertronic.json](./302479-spidertronic.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
 | Spidle Tridle | 334166 | [334166-spidle-tridle.json](./334166-spidle-tridle.json) |
@@ -13162,6 +13167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
 | SuperCowBoy | 339479 | [339479-supercowboy.json](./339479-supercowboy.json) |
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
+| Superdeflex | 256309 | [256309-superdeflex.json](./256309-superdeflex.json) |
 | Superdeluxe | 297000 | [297000-superdeluxe.json](./297000-superdeluxe.json) |
 | Superdimensional | 181381 | [181381-superdimensional.json](./181381-superdimensional.json) |
 | SuperDog | 409683 | [409683-superdog.json](./409683-superdog.json) |
@@ -13844,6 +13850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swingularity | 333566 | [333566-swingularity.json](./333566-swingularity.json) |
 | swipe | 346219 | [346219-swipe.json](./346219-swipe.json) |
 | Swipe | 147928 | [147928-swipe.json](./147928-swipe.json) |
+| Swipe 3 | 256245 | [256245-swipe-3.json](./256245-swipe-3.json) |
 | Swipe Casters | 87732 | [87732-swipe-casters.json](./87732-swipe-casters.json) |
 | Swipe Soccer | 92520 | [92520-swipe-soccer.json](./92520-swipe-soccer.json) |
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
