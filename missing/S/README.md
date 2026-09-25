@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
 | Scream or Die | 277435 | [277435-scream-or-die.json](./277435-scream-or-die.json) |
+| Scream or Die: Virtual Circus | 280305 | [280305-scream-or-die-virtual-circus.json](./280305-scream-or-die-virtual-circus.json) |
 | Screamboat Willie | 291464 | [291464-screamboat-willie.json](./291464-screamboat-willie.json) |
 | ScreamCap | 190723 | [190723-screamcap.json](./190723-screamcap.json) |
 | Screamer Rally | 7142 | [7142-screamer-rally.json](./7142-screamer-rally.json) |
@@ -5113,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime 64 | 144114 | [144114-slime-64.json](./144114-slime-64.json) |
 | Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
+| Slime Brawly Brawl | 280295 | [280295-slime-brawly-brawl.json](./280295-slime-brawly-brawl.json) |
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
 | Slime Clicker | 298090 | [298090-slime-clicker.json](./298090-slime-clicker.json) |
@@ -5515,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smokin' Guns - Shooting Gallery | 135854 | [135854-smokin-guns-shooting-gallery.json](./135854-smokin-guns-shooting-gallery.json) |
 | Smokin' Token | 58473 | [58473-smokin-token.json](./58473-smokin-token.json) |
 | Smoking Guns: Shooting Gallery! | 77382 | [77382-smoking-guns-shooting-gallery.json](./77382-smoking-guns-shooting-gallery.json) |
+| Smoking Kills | 280281 | [280281-smoking-kills.json](./280281-smoking-kills.json) |
 | Smoking Simulator | 201285 | [201285-smoking-simulator.json](./201285-smoking-simulator.json) |
 | Smoking Simulator | 276168 | [276168-smoking-simulator.json](./276168-smoking-simulator.json) |
 | Smoking Snakes | 197952 | [197952-smoking-snakes.json](./197952-smoking-snakes.json) |
@@ -7856,6 +7859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
 | Spark Man | 40169 | [40169-spark-man.json](./40169-spark-man.json) |
 | Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
+| Spark of Survival | 280251 | [280251-spark-of-survival.json](./280251-spark-of-survival.json) |
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
@@ -9588,6 +9592,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate | 245393 | [245393-stargate.json](./245393-stargate.json) |
 | Stargate | 346142 | [346142-stargate.json](./346142-stargate.json) |
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
+| Stargate SG-1 | 280286 | [280286-stargate-sg-1.json](./280286-stargate-sg-1.json) |
+| Stargate SG-1: Entropy Syndrome | 280284 | [280284-stargate-sg-1-entropy-syndrome.json](./280284-stargate-sg-1-entropy-syndrome.json) |
 | Stargate SG-1: Unleashed - Episode 2 | 308352 | [308352-stargate-sg-1-unleashed-episode-2.json](./308352-stargate-sg-1-unleashed-episode-2.json) |
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
@@ -10842,6 +10848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreetCraft | 32933 | [32933-streetcraft.json](./32933-streetcraft.json) |
 | StreetCricket | 105902 | [105902-streetcricket.json](./105902-streetcricket.json) |
 | Streetdance 3D | 9466 | [9466-streetdance-3d.json](./9466-streetdance-3d.json) |
+| Streetdog BMX | 280252 | [280252-streetdog-bmx.json](./280252-streetdog-bmx.json) |
 | Streetkix Freestyle | 52865 | [52865-streetkix-freestyle.json](./52865-streetkix-freestyle.json) |
 | Streets of Fortuna | 305186 | [305186-streets-of-fortuna.json](./305186-streets-of-fortuna.json) |
 | Streets of Fury EX | 20151 | [20151-streets-of-fury-ex.json](./20151-streets-of-fury-ex.json) |
