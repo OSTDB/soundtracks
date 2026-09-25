@@ -2043,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find 100 Ducks and Blast Them...in Space!!! | 391317 | [391317-find-100-ducks-and-blast-them-in-space.json](./391317-find-100-ducks-and-blast-them-in-space.json) |
 | Find 5 differences! | 348956 | [348956-find-5-differences.json](./348956-find-5-differences.json) |
 | Find a way out: Abode of darkness. | 192799 | [192799-find-a-way-out-abode-of-darkness.json](./192799-find-a-way-out-abode-of-darkness.json) |
+| Find a Way Soccer: Women's Cup | 247437 | [247437-find-a-way-soccer-womens-cup.json](./247437-find-a-way-soccer-womens-cup.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
@@ -4132,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil League: Dino Tournament Championship | 73049 | [73049-fossil-league-dino-tournament-championship.json](./73049-fossil-league-dino-tournament-championship.json) |
 | Fossil Quest | 386729 | [386729-fossil-quest.json](./386729-fossil-quest.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
+| Fossil Sweeper | 247462 | [247462-fossil-sweeper.json](./247462-fossil-sweeper.json) |
 | Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
 | Foster's Home for Imaginary Friends | 230313 | [230313-fosters-home-for-imaginary-friends.json](./230313-fosters-home-for-imaginary-friends.json) |
 | Foster's Home for Imaginary Friends: Imagination Invaders | 8004 | [8004-fosters-home-for-imaginary-friends-imagination-invaders.json](./8004-fosters-home-for-imaginary-friends-imagination-invaders.json) |
