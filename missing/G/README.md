@@ -2052,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowkeeper | 337078 | [337078-glowkeeper.json](./337078-glowkeeper.json) |
 | Glowmonkey Skateboarding | 234725 | [234725-glowmonkey-skateboarding.json](./234725-glowmonkey-skateboarding.json) |
 | Glowmonkey vs. Meltdown | 234724 | [234724-glowmonkey-vs-meltdown.json](./234724-glowmonkey-vs-meltdown.json) |
+| Glowmonkey2k | 229617 | [229617-glowmonkey2k.json](./229617-glowmonkey2k.json) |
 | GlowyJump | 129732 | [129732-glowyjump.json](./129732-glowyjump.json) |
 | Glozzle | 107122 | [107122-glozzle.json](./107122-glozzle.json) |
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
