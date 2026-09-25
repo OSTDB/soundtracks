@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | Redshirt | 9220 | [9220-redshirt.json](./9220-redshirt.json) |
+| RedStory and the Last Glimmer | 244711 | [244711-redstory-and-the-last-glimmer.json](./244711-redstory-and-the-last-glimmer.json) |
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redstream Dispatch | 397059 | [397059-redstream-dispatch.json](./397059-redstream-dispatch.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
@@ -2543,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Gamer | 372685 | [372685-revenge-of-the-gamer.json](./372685-revenge-of-the-gamer.json) |
 | Revenge of the Ronin | 277302 | [277302-revenge-of-the-ronin.json](./277302-revenge-of-the-ronin.json) |
 | Revenge of the Savage Planet: Cosmic Hoarder Edition | 336145 | [336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json](./336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json) |
+| Revenge of the Shadow Ninja | 244709 | [244709-revenge-of-the-shadow-ninja.json](./244709-revenge-of-the-shadow-ninja.json) |
 | Revenge of the Sunfish | 18084 | [18084-revenge-of-the-sunfish.json](./18084-revenge-of-the-sunfish.json) |
 | Revenge of the Wounded Dragons | 21770 | [21770-revenge-of-the-wounded-dragons.json](./21770-revenge-of-the-wounded-dragons.json) |
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
@@ -4025,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
+| Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
 | Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
@@ -4192,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
 | Rome Pathway to Power | 171554 | [171554-rome-pathway-to-power.json](./171554-rome-pathway-to-power.json) |
 | Rome: Caesar's Will | 73781 | [73781-rome-caesars-will.json](./73781-rome-caesars-will.json) |
+| Rome: The Mystery of the Chronovisor | 244702 | [244702-rome-the-mystery-of-the-chronovisor.json](./244702-rome-the-mystery-of-the-chronovisor.json) |
 | Rome: Total War - Collection | 82069 | [82069-rome-total-war-collection.json](./82069-rome-total-war-collection.json) |
 | Rome: Total War - Gold Edition | 24146 | [24146-rome-total-war-gold-edition.json](./24146-rome-total-war-gold-edition.json) |
 | Romeo | 71527 | [71527-romeo.json](./71527-romeo.json) |
