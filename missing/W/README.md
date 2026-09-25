@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Eclipse | 64101 | [64101-war-of-eclipse.json](./64101-war-of-eclipse.json) |
 | War of Genesis III | 76613 | [76613-war-of-genesis-iii.json](./76613-war-of-genesis-iii.json) |
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
+| War of Kings | 236207 | [236207-war-of-kings.json](./236207-war-of-kings.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
 | War of Nations | 323324 | [323324-war-of-nations.json](./323324-war-of-nations.json) |
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
@@ -1818,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
 | White Room: Mind’s Prison | 327175 | [327175-white-room-mind-s-prison.json](./327175-white-room-mind-s-prison.json) |
 | White Rooms | 399708 | [399708-white-rooms.json](./399708-white-rooms.json) |
+| White Sands | 236228 | [236228-white-sands.json](./236228-white-sands.json) |
 | White Silence | 388720 | [388720-white-silence.json](./388720-white-silence.json) |
 | White Sky | 151583 | [151583-white-sky.json](./151583-white-sky.json) |
 | White Space | 60500 | [60500-white-space.json](./60500-white-space.json) |
