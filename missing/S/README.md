@@ -5237,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slink & Snatch: Tales of Thievery | 220666 | [220666-slink-and-snatch-tales-of-thievery.json](./220666-slink-and-snatch-tales-of-thievery.json) |
 | Slinki | 35633 | [35633-slinki.json](./35633-slinki.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
+| Slip & Skid | 275082 | [275082-slip-and-skid.json](./275082-slip-and-skid.json) |
 | Slip Tripping | 271189 | [271189-slip-tripping.json](./271189-slip-tripping.json) |
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
 | Slipgate to a Lost Dimension | 271188 | [271188-slipgate-to-a-lost-dimension.json](./271188-slipgate-to-a-lost-dimension.json) |
@@ -6512,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Conquest: Rise Eternal | 302920 | [302920-songs-of-conquest-rise-eternal.json](./302920-songs-of-conquest-rise-eternal.json) |
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
 | Songs of Conquest: Vanir | 319147 | [319147-songs-of-conquest-vanir.json](./319147-songs-of-conquest-vanir.json) |
+| Songs of Everjade | 275083 | [275083-songs-of-everjade.json](./275083-songs-of-everjade.json) |
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
@@ -7716,6 +7718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Stone Smashing Simulator | 396582 | [396582-space-stone-smashing-simulator.json](./396582-space-stone-smashing-simulator.json) |
 | Space Storeship | 163849 | [163849-space-storeship.json](./163849-space-storeship.json) |
 | Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
+| Space Strider | 275093 | [275093-space-strider.json](./275093-space-strider.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
 | Space Survival | 32932 | [32932-space-survival.json](./32932-space-survival.json) |
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
@@ -8730,6 +8733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpotCat vs. The Cheddar Mafia In Europe | 388199 | [388199-spotcat-vs-the-cheddar-mafia-in-europe.json](./388199-spotcat-vs-the-cheddar-mafia-in-europe.json) |
 | SpotCat vs. The Cheddar Mafia In The Americas | 385079 | [385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json](./385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json) |
 | Spotfight | 216877 | [216877-spotfight.json](./216877-spotfight.json) |
+| Spotless | 275089 | [275089-spotless.json](./275089-spotless.json) |
 | Spotlight | 277565 | [277565-spotlight.json](./277565-spotlight.json) |
 | Spotlight | 279739 | [279739-spotlight.json](./279739-spotlight.json) |
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
@@ -12655,6 +12659,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen OG: Dark Prison | 144283 | [144283-super-robot-taisen-og-dark-prison.json](./144283-super-robot-taisen-og-dark-prison.json) |
 | Super Robot Taisen OG: Infinite Battle | 214614 | [214614-super-robot-taisen-og-infinite-battle.json](./214614-super-robot-taisen-og-infinite-battle.json) |
 | Super Robot Taisen T | 112431 | [112431-super-robot-taisen-t.json](./112431-super-robot-taisen-t.json) |
+| Super Robot Taisen T: Bonus Scenario Full Pack | 275061 | [275061-super-robot-taisen-t-bonus-scenario-full-pack.json](./275061-super-robot-taisen-t-bonus-scenario-full-pack.json) |
+| Super Robot Taisen T: Expansion Pack | 275062 | [275062-super-robot-taisen-t-expansion-pack.json](./275062-super-robot-taisen-t-expansion-pack.json) |
 | Super Robot Taisen W | 21405 | [21405-super-robot-taisen-w.json](./21405-super-robot-taisen-w.json) |
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
 | Super Robot Taisen Z: Special Disc | 182490 | [182490-super-robot-taisen-z-special-disc.json](./182490-super-robot-taisen-z-special-disc.json) |
