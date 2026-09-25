@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 1 Doom | 291028 | [291028-five-nights-at-freddys-1-doom.json](./291028-five-nights-at-freddys-1-doom.json) |
 | Five Nights at Freddy's 2 | 305746 | [305746-five-nights-at-freddys-2.json](./305746-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
+| Five Nights at Freddy's 3 | 230775 | [230775-five-nights-at-freddys-3.json](./230775-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 4 | 11583 | [11583-five-nights-at-freddys-4.json](./11583-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
 | Five Nights at Freddy's 5 | 271717 | [271717-five-nights-at-freddys-5.json](./271717-five-nights-at-freddys-5.json) |
@@ -3051,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Boarder | 74752 | [74752-flip-boarder.json](./74752-flip-boarder.json) |
 | Flip Coin | 336702 | [336702-flip-coin.json](./336702-flip-coin.json) |
 | Flip Flop | 285572 | [285572-flip-flop.json](./285572-flip-flop.json) |
+| Flip Flop - Reversi for Playdate | 230788 | [230788-flip-flop-reversi-for-playdate.json](./230788-flip-flop-reversi-for-playdate.json) |
 | Flip Flop XL | 322782 | [322782-flip-flop-xl.json](./322782-flip-flop-xl.json) |
 | Flip for Cake | 361721 | [361721-flip-for-cake.json](./361721-flip-for-cake.json) |
 | Flip Maze | 137589 | [137589-flip-maze.json](./137589-flip-maze.json) |
@@ -5087,6 +5089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugue in Void | 105212 | [105212-fugue-in-void.json](./105212-fugue-in-void.json) |
 | Fugue State | 106420 | [106420-fugue-state.json](./106420-fugue-state.json) |
 | Fuhrer in LA: Special Edition | 252177 | [252177-fuhrer-in-la-special-edition.json](./252177-fuhrer-in-la-special-edition.json) |
+| Fuji Golf | 230754 | [230754-fuji-golf.json](./230754-fuji-golf.json) |
 | Fujiwara Phoenix | 245869 | [245869-fujiwara-phoenix.json](./245869-fujiwara-phoenix.json) |
 | Fukakutei Sekai no Tantei Shinshi | 122877 | [122877-fukakutei-sekai-no-tantei-shinshi.json](./122877-fukakutei-sekai-no-tantei-shinshi.json) |
 | Fukakutei Sekai no Tantei Shinshi Hardcore! | 122874 | [122874-fukakutei-sekai-no-tantei-shinshi-hardcore.json](./122874-fukakutei-sekai-no-tantei-shinshi-hardcore.json) |
