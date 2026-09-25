@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gibz | 20404 | [20404-gibz.json](./20404-gibz.json) |
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
 | Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
+| Gift | 240745 | [240745-gift.json](./240745-gift.json) |
 | Gift | 95440 | [95440-gift.json](./95440-gift.json) |
 | Gift Drop Machine: Life Simulator | 390242 | [390242-gift-drop-machine-life-simulator.json](./390242-gift-drop-machine-life-simulator.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
@@ -1999,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glory On Pluto | 336126 | [336126-glory-on-pluto.json](./336126-glory-on-pluto.json) |
+| Glory to the Heroes | 240744 | [240744-glory-to-the-heroes.json](./240744-glory-to-the-heroes.json) |
 | Glory to the Heroes | 363972 | [363972-glory-to-the-heroes.json](./363972-glory-to-the-heroes.json) |
 | Glory Wall! | 393838 | [393838-glory-wall.json](./393838-glory-wall.json) |
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
@@ -2130,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Quirk! | 340552 | [340552-go-quirk.json](./340552-go-quirk.json) |
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
 | GO Series: Portable Shrine Wars | 65750 | [65750-go-series-portable-shrine-wars.json](./65750-go-series-portable-shrine-wars.json) |
+| Go There | 240742 | [240742-go-there.json](./240742-go-there.json) |
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
 | Go to It | 110944 | [110944-go-to-it.json](./110944-go-to-it.json) |
@@ -2219,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin God | 413069 | [413069-goblin-god.json](./413069-goblin-god.json) |
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
 | Goblin Kart Rescue | 302473 | [302473-goblin-kart-rescue.json](./302473-goblin-kart-rescue.json) |
+| Goblin Keep | 240717 | [240717-goblin-keep.json](./240717-goblin-keep.json) |
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
@@ -3484,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gretel's Honesty | 330894 | [330894-gretels-honesty.json](./330894-gretels-honesty.json) |
 | Gretzky NHL 2005 | 24162 | [24162-gretzky-nhl-2005.json](./24162-gretzky-nhl-2005.json) |
 | Grexovka Village | 386411 | [386411-grexovka-village.json](./386411-grexovka-village.json) |
+| Grey Area | 240765 | [240765-grey-area.json](./240765-grey-area.json) |
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
 | Grey Cubes | 35226 | [35226-grey-cubes.json](./35226-grey-cubes.json) |
 | Grey Galactic | 236950 | [236950-grey-galactic.json](./236950-grey-galactic.json) |
