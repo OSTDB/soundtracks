@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outnumbered | 55869 | [55869-outnumbered.json](./55869-outnumbered.json) |
 | Outpath | 229007 | [229007-outpath.json](./229007-outpath.json) |
 | Outpost | 100123 | [100123-outpost.json](./100123-outpost.json) |
+| Outpost | 244185 | [244185-outpost.json](./244185-outpost.json) |
 | Outpost 13 | 35744 | [35744-outpost-13.json](./35744-outpost-13.json) |
 | Outpost 16 | 320862 | [320862-outpost-16.json](./320862-outpost-16.json) |
 | Outpost 2: Divided Destiny | 50138 | [50138-outpost-2-divided-destiny.json](./50138-outpost-2-divided-destiny.json) |
