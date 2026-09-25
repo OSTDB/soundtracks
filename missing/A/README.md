@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikiss 2: Complete Edition | 141893 | [141893-aikiss-2-complete-edition.json](./141893-aikiss-2-complete-edition.json) |
 | Aikiss 3 Cute | 182471 | [182471-aikiss-3-cute.json](./182471-aikiss-3-cute.json) |
 | Aikiss 3 Cute: Complete Limited Edition | 182478 | [182478-aikiss-3-cute-complete-limited-edition.json](./182478-aikiss-3-cute-complete-limited-edition.json) |
+| Aikode | 255658 | [255658-aikode.json](./255658-aikode.json) |
 | Aikokuryuu no Memoria | 257455 | [257455-aikokuryuu-no-memoria.json](./257455-aikokuryuu-no-memoria.json) |
 | Ailse of Shadows | 410227 | [410227-ailse-of-shadows.json](./410227-ailse-of-shadows.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
@@ -2078,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hell | 24895 | [24895-alien-hell.json](./24895-alien-hell.json) |
 | Alien Hive | 203299 | [203299-alien-hive.json](./203299-alien-hive.json) |
 | Alien Holiday | 300813 | [300813-alien-holiday.json](./300813-alien-holiday.json) |
+| Alien Holocaust II: Invasion Earth | 255670 | [255670-alien-holocaust-ii-invasion-earth.json](./255670-alien-holocaust-ii-invasion-earth.json) |
 | Alien Hominid | 210733 | [210733-alien-hominid.json](./210733-alien-hominid.json) |
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
