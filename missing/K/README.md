@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
 | Kelly Kangaroo | 292072 | [292072-kelly-kangaroo.json](./292072-kelly-kangaroo.json) |
 | Kelp Keeper | 290557 | [290557-kelp-keeper.json](./290557-kelp-keeper.json) |
+| Kelsi Davies: Haunt Escape | 275675 | [275675-kelsi-davies-haunt-escape.json](./275675-kelsi-davies-haunt-escape.json) |
 | Kelvin and The Chateau | 162432 | [162432-kelvin-and-the-chateau.json](./162432-kelvin-and-the-chateau.json) |
 | Kemco RPG Omnibus | 130304 | [130304-kemco-rpg-omnibus.json](./130304-kemco-rpg-omnibus.json) |
 | Kemco RPG Selection Vol. 3 | 130312 | [130312-kemco-rpg-selection-vol-3.json](./130312-kemco-rpg-selection-vol-3.json) |
