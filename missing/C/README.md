@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 8 | 262945 | [262945-cat-jigsaw-puzzle-games-expansion-pack-8.json](./262945-cat-jigsaw-puzzle-games-expansion-pack-8.json) |
 | Cat Jumper | 175792 | [175792-cat-jumper.json](./175792-cat-jumper.json) |
+| Cat Killer | 249176 | [249176-cat-killer.json](./249176-cat-killer.json) |
 | Cat Lady: The Card Game | 129839 | [129839-cat-lady-the-card-game.json](./129839-cat-lady-the-card-game.json) |
 | Cat Legend | 274554 | [274554-cat-legend.json](./274554-cat-legend.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
@@ -6091,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Your Way | 370804 | [370804-craft-your-way.json](./370804-craft-your-way.json) |
 | Craft. Sell. Goblin. Repeat. | 374665 | [374665-craft-sell-goblin-repeat.json](./374665-craft-sell-goblin-repeat.json) |
 | Craftaway | 355032 | [355032-craftaway.json](./355032-craftaway.json) |
+| CraftCraft: Fantasy Merchant Simulator | 249178 | [249178-craftcraft-fantasy-merchant-simulator.json](./249178-craftcraft-fantasy-merchant-simulator.json) |
 | Crafter | 326042 | [326042-crafter.json](./326042-crafter.json) |
 | Crafter Game - Incremental Puzzle RPG Game | 25737 | [25737-crafter-game-incremental-puzzle-rpg-game.json](./25737-crafter-game-incremental-puzzle-rpg-game.json) |
 | Crafting Combat | 272270 | [272270-crafting-combat.json](./272270-crafting-combat.json) |
@@ -6940,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruel World | 73545 | [73545-cruel-world.json](./73545-cruel-world.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
+| Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
