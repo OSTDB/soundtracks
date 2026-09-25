@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
 | Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
 | Featherpunk Prime | 18404 | [18404-featherpunk-prime.json](./18404-featherpunk-prime.json) |
+| February 2003 | 252076 | [252076-february-2003.json](./252076-february-2003.json) |
 | Februus Depth | 271185 | [271185-februus-depth.json](./271185-februus-depth.json) |
 | Fech the Ferret | 156607 | [156607-fech-the-ferret.json](./156607-fech-the-ferret.json) |
 | FED Chairman | 391733 | [391733-fed-chairman.json](./391733-fed-chairman.json) |
@@ -3846,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Tales: Day of the Dead | 33244 | [33244-forgotten-tales-day-of-the-dead.json](./33244-forgotten-tales-day-of-the-dead.json) |
 | Forgotten Trails | 406697 | [406697-forgotten-trails.json](./406697-forgotten-trails.json) |
 | Forgotten Vale | 295312 | [295312-forgotten-vale.json](./295312-forgotten-vale.json) |
+| Forgotten War | 252068 | [252068-forgotten-war.json](./252068-forgotten-war.json) |
 | Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
 | Forgotten: Whispers From Ashes | 373194 | [373194-forgotten-whispers-from-ashes.json](./373194-forgotten-whispers-from-ashes.json) |
 | Forgotton Anne | 24426 | [24426-forgotton-anne.json](./24426-forgotton-anne.json) |
