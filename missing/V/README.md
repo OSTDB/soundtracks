@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Prospector | 141144 | [141144-vector-prospector.json](./141144-vector-prospector.json) |
 | Vector Race | 164900 | [164900-vector-race.json](./164900-vector-race.json) |
 | Vector Racing | 64690 | [64690-vector-racing.json](./64690-vector-racing.json) |
+| Vector Runner | 230753 | [230753-vector-runner.json](./230753-vector-runner.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
 | Vector Sector | 386996 | [386996-vector-sector.json](./386996-vector-sector.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
@@ -1159,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitalis | 399000 | [399000-vitalis.json](./399000-vitalis.json) |
 | Vitality | 133369 | [133369-vitality.json](./133369-vitality.json) |
 | Vitality | 213040 | [213040-vitality.json](./213040-vitality.json) |
+| Vitality Cranker | 230790 | [230790-vitality-cranker.json](./230790-vitality-cranker.json) |
 | Vitality Girl | 147409 | [147409-vitality-girl.json](./147409-vitality-girl.json) |
 | Vitality Girl Ⅲ: Pixel - Night Action | 196157 | [196157-vitality-girl-iii-pixel-night-action.json](./196157-vitality-girl-iii-pixel-night-action.json) |
 | Vitamin R | 59360 | [59360-vitamin-r.json](./59360-vitamin-r.json) |
