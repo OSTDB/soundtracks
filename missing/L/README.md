@@ -2253,6 +2253,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Christmas Adventure | 173166 | [173166-little-christmas-adventure.json](./173166-little-christmas-adventure.json) |
 | Little Christmas Workshop | 382306 | [382306-little-christmas-workshop.json](./382306-little-christmas-workshop.json) |
 | Little Cities | 201654 | [201654-little-cities.json](./201654-little-cities.json) |
+| Little Cities: Attractions Update | 251571 | [251571-little-cities-attractions-update.json](./251571-little-cities-attractions-update.json) |
+| Little Cities: Hand Tracking Update | 251570 | [251570-little-cities-hand-tracking-update.json](./251570-little-cities-hand-tracking-update.json) |
+| Little Cities: Little Citizens Update | 251573 | [251573-little-cities-little-citizens-update.json](./251573-little-cities-little-citizens-update.json) |
+| Little Cities: Sandbox Update | 251574 | [251574-little-cities-sandbox-update.json](./251574-little-cities-sandbox-update.json) |
+| Little Cities: Snowy Islands DLC | 251572 | [251572-little-cities-snowy-islands-dlc.json](./251572-little-cities-snowy-islands-dlc.json) |
 | Little City | 9544 | [9544-little-city.json](./9544-little-city.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
