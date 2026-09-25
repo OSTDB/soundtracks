@@ -4314,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Icky Mr Fox | 299261 | [299261-the-icky-mr-fox.json](./299261-the-icky-mr-fox.json) |
 | The Idiot's Tale | 87956 | [87956-the-idiots-tale.json](./87956-the-idiots-tale.json) |
 | The Idle | 290006 | [290006-the-idle.json](./290006-the-idle.json) |
+| The Idle Forces: Army Tycoon | 245288 | [245288-the-idle-forces-army-tycoon.json](./245288-the-idle-forces-army-tycoon.json) |
 | The Idolmaster | 281482 | [281482-the-idolmaster.json](./281482-the-idolmaster.json) |
 | The Idolmaster Heardle | 205625 | [205625-the-idolmaster-heardle.json](./205625-the-idolmaster-heardle.json) |
 | The Idolmaster: Gravure for You! Vol. 6 | 65224 | [65224-the-idolmaster-gravure-for-you-vol-6.json](./65224-the-idolmaster-gravure-for-you-vol-6.json) |
@@ -9046,6 +9047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timebound Vampire | 329064 | [329064-timebound-vampire.json](./329064-timebound-vampire.json) |
 | TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
 | Timeflow: Financial Education Sim | 114440 | [114440-timeflow-financial-education-sim.json](./114440-timeflow-financial-education-sim.json) |
+| Timeguessr | 245281 | [245281-timeguessr.json](./245281-timeguessr.json) |
 | Timekeepers | 69586 | [69586-timekeepers.json](./69586-timekeepers.json) |
 | Timekeepers Battleground | 236403 | [236403-timekeepers-battleground.json](./236403-timekeepers-battleground.json) |
 | Timekeepers Expansion | 210702 | [210702-timekeepers-expansion.json](./210702-timekeepers-expansion.json) |
@@ -9276,6 +9278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tip-Toeing Around an Empty House | 374173 | [374173-tip-toeing-around-an-empty-house.json](./374173-tip-toeing-around-an-empty-house.json) |
 | Tip-Up Ice Fishing | 178578 | [178578-tip-up-ice-fishing.json](./178578-tip-up-ice-fishing.json) |
 | Tippy Putts | 401120 | [401120-tippy-putts.json](./401120-tippy-putts.json) |
+| Tippy Train | 245262 | [245262-tippy-train.json](./245262-tippy-train.json) |
 | Tippy Tree | 113041 | [113041-tippy-tree.json](./113041-tippy-tree.json) |
 | Tipston Salvage | 184482 | [184482-tipston-salvage.json](./184482-tipston-salvage.json) |
 | TipTop | 136413 | [136413-tiptop.json](./136413-tiptop.json) |
@@ -10866,6 +10869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tragedy Theater | 260164 | [260164-tragedy-theater.json](./260164-tragedy-theater.json) |
 | Trago | 104066 | [104066-trago.json](./104066-trago.json) |
 | Trail & Error | 401495 | [401495-trail-and-error.json](./401495-trail-and-error.json) |
+| Trail Master 3D | 245266 | [245266-trail-master-3d.json](./245266-trail-master-3d.json) |
 | Trail of Ayash | 112111 | [112111-trail-of-ayash.json](./112111-trail-of-ayash.json) |
 | Trail of Destruction | 28880 | [28880-trail-of-destruction.json](./28880-trail-of-destruction.json) |
 | Trail of Stars | 329966 | [329966-trail-of-stars.json](./329966-trail-of-stars.json) |
