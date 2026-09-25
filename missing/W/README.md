@@ -2518,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Warz | 12830 | [12830-wizard-warz.json](./12830-wizard-warz.json) |
 | Wizard With a Gun | 152204 | [152204-wizard-with-a-gun.json](./152204-wizard-with-a-gun.json) |
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
+| Wizard with a Gun: Gunmancer Pack | 272325 | [272325-wizard-with-a-gun-gunmancer-pack.json](./272325-wizard-with-a-gun-gunmancer-pack.json) |
 | Wizard's Adventure | 186243 | [186243-wizards-adventure.json](./186243-wizards-adventure.json) |
 | Wizard's Beard | 277606 | [277606-wizards-beard.json](./277606-wizards-beard.json) |
 | Wizard's Crown | 2877 | [2877-wizards-crown.json](./2877-wizards-crown.json) |
@@ -2800,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
 | Woolly Boy And The Circus | 292582 | [292582-woolly-boy-and-the-circus.json](./292582-woolly-boy-and-the-circus.json) |
 | WooLoop | 199121 | [199121-wooloop.json](./199121-wooloop.json) |
+| WooLoop: Halloween Pack | 272238 | [272238-wooloop-halloween-pack.json](./272238-wooloop-halloween-pack.json) |
 | WooLoop: Industry Pack | 266315 | [266315-wooloop-industry-pack.json](./266315-wooloop-industry-pack.json) |
 | WooLoop: Magic Pack | 319347 | [319347-wooloop-magic-pack.json](./319347-wooloop-magic-pack.json) |
 | WooLoop: Science Pack | 288918 | [288918-wooloop-science-pack.json](./288918-wooloop-science-pack.json) |
