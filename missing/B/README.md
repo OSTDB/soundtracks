@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Bankshot | 344560 | [344560-bankshot.json](./344560-bankshot.json) |
 | Bankshot Billiards 2 | 20523 | [20523-bankshot-billiards-2.json](./20523-bankshot-billiards-2.json) |
+| Bankwave: Neon Networth | 258954 | [258954-bankwave-neon-networth.json](./258954-bankwave-neon-networth.json) |
 | Banned From Equestria (Daily) | 148383 | [148383-banned-from-equestria-daily.json](./148383-banned-from-equestria-daily.json) |
 | Banned Tapes | 333650 | [333650-banned-tapes.json](./333650-banned-tapes.json) |
 | Banner Kings | 356153 | [356153-banner-kings.json](./356153-banner-kings.json) |
@@ -1026,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
 | Bare Butt Boxing | 197269 | [197269-bare-butt-boxing.json](./197269-bare-butt-boxing.json) |
 | Bare Knuckle III | 151541 | [151541-bare-knuckle-iii.json](./151541-bare-knuckle-iii.json) |
+| Bare Knuckle Sandwich | 259046 | [259046-bare-knuckle-sandwich.json](./259046-bare-knuckle-sandwich.json) |
 | Barely Afloat | 123579 | [123579-barely-afloat.json](./123579-barely-afloat.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
@@ -3055,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pinball Gameroom: United Rio | 265161 | [265161-bingo-pinball-gameroom-united-rio.json](./265161-bingo-pinball-gameroom-united-rio.json) |
 | Bingo Pop | 101516 | [101516-bingo-pop.json](./101516-bingo-pop.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
+| Bingo: Pet Rescue | 258965 | [258965-bingo-pet-rescue.json](./258965-bingo-pet-rescue.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
 | Binky XXIV: Game Streamer "Binky" Plays Grotto of the Grebulons | 279024 | [279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json](./279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json) |
@@ -3349,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizerta: Silent Evil | 60570 | [60570-bizerta-silent-evil.json](./60570-bizerta-silent-evil.json) |
 | Bizy Beezzzz | 60207 | [60207-bizy-beezzzz.json](./60207-bizy-beezzzz.json) |
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
+| Bizzy Robo | 259030 | [259030-bizzy-robo.json](./259030-bizzy-robo.json) |
 | Björnes Magasin | 92829 | [92829-bjornes-magasin.json](./92829-bjornes-magasin.json) |
 | BK: OSRS | 313105 | [313105-bk-osrs.json](./313105-bk-osrs.json) |
 | BL Werewolf:Doki-Doki Summer vacation | 373633 | [373633-bl-werewolf-doki-doki-summer-vacation.json](./373633-bl-werewolf-doki-doki-summer-vacation.json) |
@@ -3804,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleak Haven | 350435 | [350435-bleak-haven.json](./350435-bleak-haven.json) |
 | Bleak House | 311468 | [311468-bleak-house.json](./311468-bleak-house.json) |
 | Bleak Sword DX | 235203 | [235203-bleak-sword-dx.json](./235203-bleak-sword-dx.json) |
+| Bleak Winter | 259043 | [259043-bleak-winter.json](./259043-bleak-winter.json) |
 | Bleaklight Falls | 362270 | [362270-bleaklight-falls.json](./362270-bleaklight-falls.json) |
 | Bleakmoor House | 371965 | [371965-bleakmoor-house.json](./371965-bleakmoor-house.json) |
 | Bleakwood | 304574 | [304574-bleakwood.json](./304574-bleakwood.json) |
@@ -5797,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
 | Breaking Gates | 141008 | [141008-breaking-gates.json](./141008-breaking-gates.json) |
 | Breaking Good | 51968 | [51968-breaking-good.json](./51968-breaking-good.json) |
+| Breaking Survivors | 258968 | [258968-breaking-survivors.json](./258968-breaking-survivors.json) |
 | Breaking Wheel | 30857 | [30857-breaking-wheel.json](./30857-breaking-wheel.json) |
 | Breakline | 147279 | [147279-breakline.json](./147279-breakline.json) |
 | BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
