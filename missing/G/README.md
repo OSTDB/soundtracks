@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 1 | 257390 | [257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json](./257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 10 | 260755 | [260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json](./260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 2 | 257389 | [257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json](./257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json) |
+| Gnome Enchanted Jigsaw Puzzles: Expansion Pack 4 | 258948 | [258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json](./258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json) |
 | Gnome Escape | 314409 | [314409-gnome-escape.json](./314409-gnome-escape.json) |
 | Gnome Gname | 185090 | [185090-gnome-gname.json](./185090-gnome-gname.json) |
 | Gnome Lake | 112722 | [112722-gnome-lake.json](./112722-gnome-lake.json) |
@@ -2767,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotham Knights: Collector's Edition | 201777 | [201777-gotham-knights-collectors-edition.json](./201777-gotham-knights-collectors-edition.json) |
 | Gotham Knights: Heroic Assault: The Kelvin Incident | 281563 | [281563-gotham-knights-heroic-assault-the-kelvin-incident.json](./281563-gotham-knights-heroic-assault-the-kelvin-incident.json) |
 | Gothams Industrial District | 273116 | [273116-gothams-industrial-district.json](./273116-gothams-industrial-district.json) |
+| Gothel | 259039 | [259039-gothel.json](./259039-gothel.json) |
 | Gothic 1 Remake | 148227 | [148227-gothic-1-remake.json](./148227-gothic-1-remake.json) |
 | Gothic 1 Remake: Nyras Prologue | 333955 | [333955-gothic-1-remake-nyras-prologue.json](./333955-gothic-1-remake-nyras-prologue.json) |
 | Gothic 1881 | 158202 | [158202-gothic-1881.json](./158202-gothic-1881.json) |
@@ -3426,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Miner | 199496 | [199496-grid-miner.json](./199496-grid-miner.json) |
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
 | Grid Runner | 20738 | [20738-grid-runner.json](./20738-grid-runner.json) |
+| Grid Runner | 258951 | [258951-grid-runner.json](./258951-grid-runner.json) |
 | Grid Seeker: Project Storm Hammer | 39866 | [39866-grid-seeker-project-storm-hammer.json](./39866-grid-seeker-project-storm-hammer.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
 | Grid-M | 257921 | [257921-grid-m.json](./257921-grid-m.json) |
