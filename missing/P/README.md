@@ -2678,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Duel | 66642 | [66642-pinball-duel.json](./66642-pinball-duel.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
 | Pinball Fantasies Deluxe | 78624 | [78624-pinball-fantasies-deluxe.json](./78624-pinball-fantasies-deluxe.json) |
+| Pinball Fish | 246357 | [246357-pinball-fish.json](./246357-pinball-fish.json) |
 | Pinball Freedom | 196317 | [196317-pinball-freedom.json](./196317-pinball-freedom.json) |
 | Pinball Fun | 43245 | [43245-pinball-fun.json](./43245-pinball-fun.json) |
 | Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
@@ -3815,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluk van de Petteflet | 269556 | [269556-pluk-van-de-petteflet.json](./269556-pluk-van-de-petteflet.json) |
 | Plum Bun Reformatted | 190063 | [190063-plum-bun-reformatted.json](./190063-plum-bun-reformatted.json) |
 | Plum Road Tea Dream | 361293 | [361293-plum-road-tea-dream.json](./361293-plum-road-tea-dream.json) |
+| Plumber | 246358 | [246358-plumber.json](./246358-plumber.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
@@ -4681,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Party Boys: Splash Guys | 411139 | [411139-pool-party-boys-splash-guys.json](./411139-pool-party-boys-splash-guys.json) |
 | Pool Party Girls: Splash Babes | 411824 | [411824-pool-party-girls-splash-babes.json](./411824-pool-party-girls-splash-babes.json) |
 | Pool Party Panic | 26953 | [26953-pool-party-panic.json](./26953-pool-party-panic.json) |
+| Pool Pro | 246359 | [246359-pool-pro.json](./246359-pool-pro.json) |
 | Pool Pro | 246384 | [246384-pool-pro.json](./246384-pool-pro.json) |
 | Pool Pro 2022 | 275611 | [275611-pool-pro-2022.json](./275611-pool-pro-2022.json) |
 | Pool Pro Gold | 147914 | [147914-pool-pro-gold.json](./147914-pool-pro-gold.json) |
@@ -4717,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
+| Pop Ball | 246360 | [246360-pop-ball.json](./246360-pop-ball.json) |
 | Pop DS | 326190 | [326190-pop-ds.json](./326190-pop-ds.json) |
 | Pop Float a-way | 414579 | [414579-pop-float-a-way.json](./414579-pop-float-a-way.json) |
 | Pop Frenzy! | 108983 | [108983-pop-frenzy.json](./108983-pop-frenzy.json) |
@@ -6932,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Piecer: The Holiday Spirit | 380670 | [380670-puzzle-piecer-the-holiday-spirit.json](./380670-puzzle-piecer-the-holiday-spirit.json) |
 | Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
 | Puzzle Poker | 23550 | [23550-puzzle-poker.json](./23550-puzzle-poker.json) |
+| Puzzle Pop | 246361 | [246361-puzzle-pop.json](./246361-puzzle-pop.json) |
 | Puzzle Putt | 197246 | [197246-puzzle-putt.json](./197246-puzzle-putt.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
 | Puzzle Quest: Galactrix | 8980 | [8980-puzzle-quest-galactrix.json](./8980-puzzle-quest-galactrix.json) |
