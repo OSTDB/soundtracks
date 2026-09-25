@@ -3782,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazeRush | 14567 | [14567-blazerush.json](./14567-blazerush.json) |
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
+| Blazing 8s | 254426 | [254426-blazing-8s.json](./254426-blazing-8s.json) |
 | Blazing Angels: Squadrons of WWII | 3124 | [3124-blazing-angels-squadrons-of-wwii.json](./3124-blazing-angels-squadrons-of-wwii.json) |
 | Blazing Dragon | 258502 | [258502-blazing-dragon.json](./258502-blazing-dragon.json) |
 | Blazing Dragon Slayer · Divine Weapon Awakening | 358508 | [358508-blazing-dragon-slayer-divine-weapon-awakening.json](./358508-blazing-dragon-slayer-divine-weapon-awakening.json) |
@@ -4596,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobbi Adventure | 200574 | [200574-bobbi-adventure.json](./200574-bobbi-adventure.json) |
 | Bobbin's Quest | 67985 | [67985-bobbins-quest.json](./67985-bobbins-quest.json) |
 | Bobble Bash | 265657 | [265657-bobble-bash.json](./265657-bobble-bash.json) |
+| Bobble League | 254430 | [254430-bobble-league.json](./254430-bobble-league.json) |
 | Bobble Shop Simulator | 386240 | [386240-bobble-shop-simulator.json](./386240-bobble-shop-simulator.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobby | 214017 | [214017-bobby.json](./214017-bobby.json) |
