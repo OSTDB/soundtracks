@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Gal | 25141 | [25141-pac-gal.json](./25141-pac-gal.json) |
 | Pac-Guy | 64678 | [64678-pac-guy.json](./64678-pac-guy.json) |
+| Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
 | Pac-Land | 6822 | [6822-pac-land.json](./6822-pac-land.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
 | Pac-Man | 213944 | [213944-pac-man.json](./213944-pac-man.json) |
@@ -469,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pango Build City | 89761 | [89761-pango-build-city.json](./89761-pango-build-city.json) |
 | Pango Build Safari | 105768 | [105768-pango-build-safari.json](./105768-pango-build-safari.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
+| Pangolin Cassowary | 266181 | [266181-pangolin-cassowary.json](./266181-pangolin-cassowary.json) |
 | Pangolin Love: Day 1 - Ghana | 375812 | [375812-pangolin-love-day-1-ghana.json](./375812-pangolin-love-day-1-ghana.json) |
 | Pangolin Love: Day 2 - India | 375813 | [375813-pangolin-love-day-2-india.json](./375813-pangolin-love-day-2-india.json) |
 | Pangolin Love: Day 3 - China | 375814 | [375814-pangolin-love-day-3-china.json](./375814-pangolin-love-day-3-china.json) |
@@ -2261,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
 | Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
 | Piàozhě! Xiǎohuì de Dǎgōng Dàzuòzhàn | 156626 | [156626-piaozhe-xiaohui-de-dagong-dazuozhan.json](./156626-piaozhe-xiaohui-de-dagong-dazuozhan.json) |
+| Pibby: Apocalypse | 266182 | [266182-pibby-apocalypse.json](./266182-pibby-apocalypse.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 10 | 404290 | [404290-pic-a-pix-pieces-15x15-pieces-pack-10.json](./404290-pic-a-pix-pieces-15x15-pieces-pack-10.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 11 | 404291 | [404291-pic-a-pix-pieces-15x15-pieces-pack-11.json](./404291-pic-a-pix-pieces-15x15-pieces-pack-11.json) |
@@ -3565,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Soldiers | 111701 | [111701-plastic-soldiers.json](./111701-plastic-soldiers.json) |
 | Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
+| Plat Wacky Adventure Remastered | 266184 | [266184-plat-wacky-adventure-remastered.json](./266184-plat-wacky-adventure-remastered.json) |
 | Plat4mer | 112972 | [112972-plat4mer.json](./112972-plat4mer.json) |
 | Platboarder | 253415 | [253415-platboarder.json](./253415-platboarder.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
@@ -4447,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
 | Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
+| Poly Match | 266267 | [266267-poly-match.json](./266267-poly-match.json) |
 | Poly Memory: Birds | 195786 | [195786-poly-memory-birds.json](./195786-poly-memory-birds.json) |
 | Poly Memory: Cats | 195724 | [195724-poly-memory-cats.json](./195724-poly-memory-cats.json) |
 | Poly Memory: Dinosaurs | 224592 | [224592-poly-memory-dinosaurs.json](./224592-poly-memory-dinosaurs.json) |
@@ -4836,6 +4841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
 | Positronic Bridge | 94544 | [94544-positronic-bridge.json](./94544-positronic-bridge.json) |
+| Possess Quest | 266186 | [266186-possess-quest.json](./266186-possess-quest.json) |
 | Possessed Bloody Asylum | 157570 | [157570-possessed-bloody-asylum.json](./157570-possessed-bloody-asylum.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
 | Possession Game | 354523 | [354523-possession-game.json](./354523-possession-game.json) |
