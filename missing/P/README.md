@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity: Royal Edition | 51888 | [51888-pillars-of-eternity-royal-edition.json](./51888-pillars-of-eternity-royal-edition.json) |
 | Pillars Of Fog | 337165 | [337165-pillars-of-fog.json](./337165-pillars-of-fog.json) |
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
+| Pillazon: MMO Drug Lord Tycoon | 227794 | [227794-pillazon-mmo-drug-lord-tycoon.json](./227794-pillazon-mmo-drug-lord-tycoon.json) |
 | Pilli Adventure | 76534 | [76534-pilli-adventure.json](./76534-pilli-adventure.json) |
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
 | Pillow Fort | 56171 | [56171-pillow-fort.json](./56171-pillow-fort.json) |
@@ -3551,6 +3552,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
 | Planet Puzzle League | 23093 | [23093-planet-puzzle-league.json](./23093-planet-puzzle-league.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
+| Planet Quiz: Learn & Discover - Forest Life | 227776 | [227776-planet-quiz-learn-and-discover-forest-life.json](./227776-planet-quiz-learn-and-discover-forest-life.json) |
+| Planet Quiz: Learn & Discover - Mystery & Myth | 227773 | [227773-planet-quiz-learn-and-discover-mystery-and-myth.json](./227773-planet-quiz-learn-and-discover-mystery-and-myth.json) |
+| Planet Quiz: Learn & Discover - Trivia | 227782 | [227782-planet-quiz-learn-and-discover-trivia.json](./227782-planet-quiz-learn-and-discover-trivia.json) |
 | Planet R-12 | 26522 | [26522-planet-r-12.json](./26522-planet-r-12.json) |
 | Planet Romance Boys: Conquer the Zodiac Horoscope | 376761 | [376761-planet-romance-boys-conquer-the-zodiac-horoscope.json](./376761-planet-romance-boys-conquer-the-zodiac-horoscope.json) |
 | Planet Romance Girls: Conquer the Zodiac Horoscope | 378862 | [378862-planet-romance-girls-conquer-the-zodiac-horoscope.json](./378862-planet-romance-girls-conquer-the-zodiac-horoscope.json) |
@@ -3991,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Race: Driver | 273441 | [273441-pocket-race-driver.json](./273441-pocket-race-driver.json) |
 | Pocket Racer | 129150 | [129150-pocket-racer.json](./129150-pocket-racer.json) |
 | Pocket Races | 153834 | [153834-pocket-races.json](./153834-pocket-races.json) |
+| Pocket Ray | 227818 | [227818-pocket-ray.json](./227818-pocket-ray.json) |
 | Pocket Room Sanrio Characters | 334865 | [334865-pocket-room-sanrio-characters.json](./334865-pocket-room-sanrio-characters.json) |
 | Pocket Royal | 196332 | [196332-pocket-royal.json](./196332-pocket-royal.json) |
 | Pocket RPG | 61075 | [61075-pocket-rpg.json](./61075-pocket-rpg.json) |
@@ -4446,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokeRank | 414554 | [414554-pokerank.json](./414554-pokerank.json) |
 | PokerMania | 76593 | [76593-pokermania.json](./76593-pokermania.json) |
 | Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
+| PokeRoku | 227817 | [227817-pokeroku.json](./227817-pokeroku.json) |
 | Pokerrrr 2 | 320179 | [320179-pokerrrr-2.json](./320179-pokerrrr-2.json) |
 | PokerTH | 250379 | [250379-pokerth.json](./250379-pokerth.json) |
 | Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
@@ -4662,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pompeii | 40774 | [40774-pompeii.json](./40774-pompeii.json) |
 | Pompeii: The Legacy | 315511 | [315511-pompeii-the-legacy.json](./315511-pompeii-the-legacy.json) |
 | Pompom | 173842 | [173842-pompom.json](./173842-pompom.json) |
+| PoN!: The Armadillo Island | 227789 | [227789-pon-the-armadillo-island.json](./227789-pon-the-armadillo-island.json) |
 | Ponchorado | 391593 | [391593-ponchorado.json](./391593-ponchorado.json) |
 | Ponchyo: A Platypus Adventure | 360607 | [360607-ponchyo-a-platypus-adventure.json](./360607-ponchyo-a-platypus-adventure.json) |
 | Poncik's Little Tragedy | 415069 | [415069-ponciks-little-tragedy.json](./415069-ponciks-little-tragedy.json) |
@@ -6838,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
 | Pussy Puzzle: Over 9000 | 141661 | [141661-pussy-puzzle-over-9000.json](./141661-pussy-puzzle-over-9000.json) |
+| Pussy: Love Story from Titanic | 227822 | [227822-pussy-love-story-from-titanic.json](./227822-pussy-love-story-from-titanic.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
 | Put Out the Fire | 366882 | [366882-put-out-the-fire.json](./366882-put-out-the-fire.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
