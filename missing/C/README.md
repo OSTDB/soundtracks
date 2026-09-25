@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Stella and the Reaper's Butterflies | 195774 | [195774-cafe-stella-and-the-reapers-butterflies.json](./195774-cafe-stella-and-the-reapers-butterflies.json) |
 | Cafe Tsuku: Is the order a Heart? | 204711 | [204711-cafe-tsuku-is-the-order-a-heart.json](./204711-cafe-tsuku-is-the-order-a-heart.json) |
 | Cafe Venus Flytrap | 247458 | [247458-cafe-venus-flytrap.json](./247458-cafe-venus-flytrap.json) |
+| Cafeland: Restaurant Cooking | 233478 | [233478-cafeland-restaurant-cooking.json](./233478-cafeland-restaurant-cooking.json) |
 | Cafeteria Nipponica | 22323 | [22323-cafeteria-nipponica.json](./22323-cafeteria-nipponica.json) |
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
 | Cage Fight | 257406 | [257406-cage-fight.json](./257406-cage-fight.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculation Castle: Greco's Ghostly Challenge "Addition" | 105924 | [105924-calculation-castle-grecos-ghostly-challenge-addition.json](./105924-calculation-castle-grecos-ghostly-challenge-addition.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Division" | 105923 | [105923-calculation-castle-grecos-ghostly-challenge-division.json](./105923-calculation-castle-grecos-ghostly-challenge-division.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Multiplication" | 105922 | [105922-calculation-castle-grecos-ghostly-challenge-multiplication.json](./105922-calculation-castle-grecos-ghostly-challenge-multiplication.json) |
+| Calculation King | 233443 | [233443-calculation-king.json](./233443-calculation-king.json) |
 | Calculator and Monsters | 167258 | [167258-calculator-and-monsters.json](./167258-calculator-and-monsters.json) |
 | Calculator: The Game | 129167 | [129167-calculator-the-game.json](./129167-calculator-the-game.json) |
 | Calculator360 | 81236 | [81236-calculator360.json](./81236-calculator360.json) |
@@ -491,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
 | Candy Star Break | 96009 | [96009-candy-star-break.json](./96009-candy-star-break.json) |
 | Candy Storm Bunny Catcher | 342727 | [342727-candy-storm-bunny-catcher.json](./342727-candy-storm-bunny-catcher.json) |
+| Candy Sugar Drop | 233475 | [233475-candy-sugar-drop.json](./233475-candy-sugar-drop.json) |
 | Candy Thieves: Tale of Gnomes | 90577 | [90577-candy-thieves-tale-of-gnomes.json](./90577-candy-thieves-tale-of-gnomes.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candy War | 402991 | [402991-candy-war.json](./402991-candy-war.json) |
@@ -3988,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone 2048 | 193883 | [193883-clone-2048.json](./193883-clone-2048.json) |
 | Clone Clicker | 278431 | [278431-clone-clicker.json](./278431-clone-clicker.json) |
 | Clone Dots | 265756 | [265756-clone-dots.json](./265756-clone-dots.json) |
+| Clone Drone | 233465 | [233465-clone-drone.json](./233465-clone-drone.json) |
 | Clone Drone in the Hyperdome | 322126 | [322126-clone-drone-in-the-hyperdome.json](./322126-clone-drone-in-the-hyperdome.json) |
 | Clone Hero | 84922 | [84922-clone-hero.json](./84922-clone-hero.json) |
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
@@ -6092,6 +6096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cr1me Fr0g | 218147 | [218147-cr1me-fr0g.json](./218147-cr1me-fr0g.json) |
 | Cr4ckr | 339332 | [339332-cr4ckr.json](./339332-cr4ckr.json) |
 | Crab and Fish | 218701 | [218701-crab-and-fish.json](./218701-crab-and-fish.json) |
+| Crab Balls | 233477 | [233477-crab-balls.json](./233477-crab-balls.json) |
 | Crab Boat | 291020 | [291020-crab-boat.json](./291020-crab-boat.json) |
 | Crab Digger | 236850 | [236850-crab-digger.json](./236850-crab-digger.json) |
 | Crab Digger: Tropical Island | 300858 | [300858-crab-digger-tropical-island.json](./300858-crab-digger-tropical-island.json) |
@@ -6875,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
 | Crossfire 2 | 76994 | [76994-crossfire-2.json](./76994-crossfire-2.json) |
+| Crossfire Zombie Survivor | 233457 | [233457-crossfire-zombie-survivor.json](./233457-crossfire-zombie-survivor.json) |
 | CrossFire: Legends | 102759 | [102759-crossfire-legends.json](./102759-crossfire-legends.json) |
 | Crossfire: The Multiplayer Adventure Game | 171544 | [171544-crossfire-the-multiplayer-adventure-game.json](./171544-crossfire-the-multiplayer-adventure-game.json) |
 | CrossfireX | 119307 | [119307-crossfirex.json](./119307-crossfirex.json) |
