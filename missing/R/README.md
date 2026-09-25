@@ -4731,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Die Jump | 153357 | [153357-run-die-jump.json](./153357-run-die-jump.json) |
 | Run Elephant Run | 280847 | [280847-run-elephant-run.json](./280847-run-elephant-run.json) |
 | Run Fairy | 111014 | [111014-run-fairy.json](./111014-run-fairy.json) |
+| Run Fire | 258504 | [258504-run-fire.json](./258504-run-fire.json) |
 | Run for Cheese | 174356 | [174356-run-for-cheese.json](./174356-run-for-cheese.json) |
 | Run For Cover | 117655 | [117655-run-for-cover.json](./117655-run-for-cover.json) |
 | Run for Love | 180747 | [180747-run-for-love.json](./180747-run-for-love.json) |
