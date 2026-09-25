@@ -2423,6 +2423,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Royal Hold'em | 67974 | [67974-golden-royal-holdem.json](./67974-golden-royal-holdem.json) |
 | Golden Sails | 329144 | [329144-golden-sails.json](./329144-golden-sails.json) |
 | Golden Sun | 356272 | [356272-golden-sun.json](./356272-golden-sun.json) |
+| Golden Sun QOL | 269063 | [269063-golden-sun-qol.json](./269063-golden-sun-qol.json) |
+| Golden Sun The Lost Age: Anniversary Mod | 269061 | [269061-golden-sun-the-lost-age-anniversary-mod.json](./269061-golden-sun-the-lost-age-anniversary-mod.json) |
 | Golden Swords | 31195 | [31195-golden-swords.json](./31195-golden-swords.json) |
 | Golden Tee 2017 | 55848 | [55848-golden-tee-2017.json](./55848-golden-tee-2017.json) |
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
@@ -3647,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Battle: Fish and Feed | 103865 | [103865-grow-battle-fish-and-feed.json](./103865-grow-battle-fish-and-feed.json) |
 | Grow Beets Clicker | 259556 | [259556-grow-beets-clicker.json](./259556-grow-beets-clicker.json) |
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
+| Grow Cannon | 269055 | [269055-grow-cannon.json](./269055-grow-cannon.json) |
 | Grow Golf | 394884 | [394884-grow-golf.json](./394884-grow-golf.json) |
 | Grow Home | 8774 | [8774-grow-home.json](./8774-grow-home.json) |
 | Grow Home & Grow Up | 354503 | [354503-grow-home-and-grow-up.json](./354503-grow-home-and-grow-up.json) |
