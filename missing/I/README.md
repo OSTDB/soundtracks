@@ -2583,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isotiles | 43510 | [43510-isotiles.json](./43510-isotiles.json) |
 | Isotiles 2 | 118983 | [118983-isotiles-2.json](./118983-isotiles-2.json) |
 | Isotopia | 284423 | [284423-isotopia.json](./284423-isotopia.json) |
+| Isowords | 238397 | [238397-isowords.json](./238397-isowords.json) |
 | IsoWords | 254170 | [254170-isowords.json](./254170-isowords.json) |
 | iSpot Japan | 85197 | [85197-ispot-japan.json](./85197-ispot-japan.json) |
 | Israel vs. Iran: Iron Dome | 377080 | [377080-israel-vs-iran-iron-dome.json](./377080-israel-vs-iran-iron-dome.json) |
