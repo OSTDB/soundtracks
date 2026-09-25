@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korix | 22755 | [22755-korix.json](./22755-korix.json) |
 | Koro Koro Quest | 40226 | [40226-koro-koro-quest.json](./40226-koro-koro-quest.json) |
 | Koro Pata | 91385 | [91385-koro-pata.json](./91385-koro-pata.json) |
+| Koro-koro Reimu | 255678 | [255678-koro-koro-reimu.json](./255678-koro-koro-reimu.json) |
 | Koro-koro Reimu 2 | 255799 | [255799-koro-koro-reimu-2.json](./255799-koro-koro-reimu-2.json) |
 | Koro-san's Home Wan! Derby | 354414 | [354414-koro-sans-home-wan-derby.json](./354414-koro-sans-home-wan-derby.json) |
 | Korobo | 309105 | [309105-korobo.json](./309105-korobo.json) |
