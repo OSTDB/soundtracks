@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Following Seas | 293686 | [293686-following-seas.json](./293686-following-seas.json) |
 | Folly Of The Wizards | 253946 | [253946-folly-of-the-wizards.json](./253946-folly-of-the-wizards.json) |
 | Fomalhaut Flowers | 159714 | [159714-fomalhaut-flowers.json](./159714-fomalhaut-flowers.json) |
+| Fomography | 264003 | [264003-fomography.json](./264003-fomography.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
 | Food Adventures | 395173 | [395173-food-adventures.json](./395173-food-adventures.json) |
