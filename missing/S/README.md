@@ -3712,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
 | Shot Supreme | 253856 | [253856-shot-supreme.json](./253856-shot-supreme.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
+| Shota Kare! | 242518 | [242518-shota-kare.json](./242518-shota-kare.json) |
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
 | Shotengai 10 | 287716 | [287716-shotengai-10.json](./287716-shotengai-10.json) |
 | Shotgun Angelic | 183428 | [183428-shotgun-angelic.json](./183428-shotgun-angelic.json) |
@@ -6412,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solasta II | 325589 | [325589-solasta-ii.json](./325589-solasta-ii.json) |
 | Solasta: Crown of the Magister - Inner Strength | 219594 | [219594-solasta-crown-of-the-magister-inner-strength.json](./219594-solasta-crown-of-the-magister-inner-strength.json) |
 | Solasta: Crown of the Magister - Lost Valley | 195735 | [195735-solasta-crown-of-the-magister-lost-valley.json](./195735-solasta-crown-of-the-magister-lost-valley.json) |
+| Solasta: Crown of the Magister - Palace of Ice | 242515 | [242515-solasta-crown-of-the-magister-palace-of-ice.json](./242515-solasta-crown-of-the-magister-palace-of-ice.json) |
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
 | Solbot Energy Rush | 105401 | [105401-solbot-energy-rush.json](./105401-solbot-energy-rush.json) |
@@ -7483,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
 | Sousei no Onmyouji | 122890 | [122890-sousei-no-onmyouji.json](./122890-sousei-no-onmyouji.json) |
+| Souseishi, Arui wa Doukoku no Mokushiroku: Incarnation Erased from History | 242485 | [242485-souseishi-arui-wa-doukoku-no-mokushiroku-incarnation-erased-from-history.json](./242485-souseishi-arui-wa-doukoku-no-mokushiroku-incarnation-erased-from-history.json) |
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
 | Souten Koihime: Dawn of Sovereignty | 411657 | [411657-souten-koihime-dawn-of-sovereignty.json](./411657-souten-koihime-dawn-of-sovereignty.json) |
 | Souten Koihime: Shigen no Ou | 326788 | [326788-souten-koihime-shigen-no-ou.json](./326788-souten-koihime-shigen-no-ou.json) |
