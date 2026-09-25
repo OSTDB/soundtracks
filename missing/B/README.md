@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
 | Baby Wild Katzen | 269655 | [269655-baby-wild-katzen.json](./269655-baby-wild-katzen.json) |
+| Baby's Day Out | 264089 | [264089-babys-day-out.json](./264089-babys-day-out.json) |
 | Baby's First House Fire | 176444 | [176444-babys-first-house-fire.json](./176444-babys-first-house-fire.json) |
 | Baby's Musical Hands | 86864 | [86864-babys-musical-hands.json](./86864-babys-musical-hands.json) |
 | Baby's Nightmare Circus VR: Remake | 336002 | [336002-babys-nightmare-circus-vr-remake.json](./336002-babys-nightmare-circus-vr-remake.json) |
@@ -244,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Realm of Shadows | 247513 | [247513-backrooms-realm-of-shadows.json](./247513-backrooms-realm-of-shadows.json) |
 | Backrooms: Rebirth | 290916 | [290916-backrooms-rebirth.json](./290916-backrooms-rebirth.json) |
 | Backrooms: Reminiscence | 366831 | [366831-backrooms-reminiscence.json](./366831-backrooms-reminiscence.json) |
+| Backrooms: Run For Your Life! | 263997 | [263997-backrooms-run-for-your-life.json](./263997-backrooms-run-for-your-life.json) |
 | Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
 | Backrooms: The Project | 239762 | [239762-backrooms-the-project.json](./239762-backrooms-the-project.json) |
 | Backrooms: The Silence | 339449 | [339449-backrooms-the-silence.json](./339449-backrooms-the-silence.json) |
@@ -703,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BananaGuy | 247604 | [247604-bananaguy.json](./247604-bananaguy.json) |
 | Bananamana | 314257 | [314257-bananamana.json](./314257-bananamana.json) |
 | Bananametr | 304691 | [304691-bananametr.json](./304691-bananametr.json) |
+| Bananarang: The Scattered Shards | 264016 | [264016-bananarang-the-scattered-shards.json](./264016-bananarang-the-scattered-shards.json) |
 | Bananarchy | 340576 | [340576-bananarchy.json](./340576-bananarchy.json) |
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
 | Bananas de Pijamas | 42200 | [42200-bananas-de-pijamas.json](./42200-bananas-de-pijamas.json) |
@@ -4154,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood for the Throne | 370202 | [370202-blood-for-the-throne.json](./370202-blood-for-the-throne.json) |
 | Blood Gazm | 248672 | [248672-blood-gazm.json](./248672-blood-gazm.json) |
 | Blood Gear | 42020 | [42020-blood-gear.json](./42020-blood-gear.json) |
+| Blood Golf | 264083 | [264083-blood-golf.json](./264083-blood-golf.json) |
 | Blood II: Revelations | 127929 | [127929-blood-ii-revelations.json](./127929-blood-ii-revelations.json) |
 | Blood II: The Chosen | 11265 | [11265-blood-ii-the-chosen.json](./11265-blood-ii-the-chosen.json) |
 | Blood II: The Chosen - The Nightmare Levels | 95451 | [95451-blood-ii-the-chosen-the-nightmare-levels.json](./95451-blood-ii-the-chosen-the-nightmare-levels.json) |
@@ -4200,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
 | Blood Runs Cold | 124614 | [124614-blood-runs-cold.json](./124614-blood-runs-cold.json) |
+| Blood Rush | 264079 | [264079-blood-rush.json](./264079-blood-rush.json) |
 | Blood Safari | 165662 | [165662-blood-safari.json](./165662-blood-safari.json) |
 | Blood Samurai | 256918 | [256918-blood-samurai.json](./256918-blood-samurai.json) |
 | Blood Samurai: Night of Slaughter | 227851 | [227851-blood-samurai-night-of-slaughter.json](./227851-blood-samurai-night-of-slaughter.json) |
@@ -4302,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Downsizing | 224665 | [224665-bloody-downsizing.json](./224665-bloody-downsizing.json) |
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
 | Bloody Fun Day | 386991 | [386991-bloody-fun-day.json](./386991-bloody-fun-day.json) |
+| Bloody Heaven | 263995 | [263995-bloody-heaven.json](./263995-bloody-heaven.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
 | Bloody Roar 2 | 4140 | [4140-bloody-roar-2.json](./4140-bloody-roar-2.json) |
