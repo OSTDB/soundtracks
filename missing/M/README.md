@@ -6041,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: Collector's Edition | 139971 | [139971-monster-hunter-rise-collectors-edition.json](./139971-monster-hunter-rise-collectors-edition.json) |
 | Monster Hunter Rise: Deluxe Edition | 139943 | [139943-monster-hunter-rise-deluxe-edition.json](./139943-monster-hunter-rise-deluxe-edition.json) |
 | Monster Hunter Rise: DLC Pack 10 | 246890 | [246890-monster-hunter-rise-dlc-pack-10.json](./246890-monster-hunter-rise-dlc-pack-10.json) |
+| Monster Hunter Rise: DLC Pack 3 | 237918 | [237918-monster-hunter-rise-dlc-pack-3.json](./237918-monster-hunter-rise-dlc-pack-3.json) |
 | Monster Hunter Rise: DLC Pack 5 | 223591 | [223591-monster-hunter-rise-dlc-pack-5.json](./223591-monster-hunter-rise-dlc-pack-5.json) |
 | Monster Hunter Rise: DLC Pack 6 | 223578 | [223578-monster-hunter-rise-dlc-pack-6.json](./223578-monster-hunter-rise-dlc-pack-6.json) |
 | Monster Hunter Rise: Sunbreak | 172425 | [172425-monster-hunter-rise-sunbreak.json](./172425-monster-hunter-rise-sunbreak.json) |
@@ -7817,6 +7818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice 2: DLC Pack 3 - Itsuka Kendo | 168258 | [168258-my-hero-ones-justice-2-dlc-pack-3-itsuka-kendo.json](./168258-my-hero-ones-justice-2-dlc-pack-3-itsuka-kendo.json) |
 | My Hero One's Justice 2: DLC Pack 4 - Tetsutetsu Tetsutetsu | 168261 | [168261-my-hero-ones-justice-2-dlc-pack-4-tetsutetsu-tetsutetsu.json](./168261-my-hero-ones-justice-2-dlc-pack-4-tetsutetsu-tetsutetsu.json) |
 | My Hero One's Justice 2: DLC Pack 5 - Gentle & La Brava | 168257 | [168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json](./168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json) |
+| My Hero One's Justice 2: Outlaw Suit Set | 237917 | [237917-my-hero-ones-justice-2-outlaw-suit-set.json](./237917-my-hero-ones-justice-2-outlaw-suit-set.json) |
 | My Hero One's Justice: Additional Mission - Gale | 168256 | [168256-my-hero-ones-justice-additional-mission-gale.json](./168256-my-hero-ones-justice-additional-mission-gale.json) |
 | My Hero One's Justice: Mission - Above and Beyond Endeavor | 168253 | [168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json](./168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json) |
 | My Hero One's Justice: Mission - O.F.A Deku Shoot Style | 168254 | [168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json](./168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json) |
