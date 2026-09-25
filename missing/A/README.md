@@ -6057,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
 | Atomic Bomber | 96671 | [96671-atomic-bomber.json](./96671-atomic-bomber.json) |
 | Atomic Butcher: Homo Metabolicus | 25223 | [25223-atomic-butcher-homo-metabolicus.json](./25223-atomic-butcher-homo-metabolicus.json) |
+| Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
 | Atomic Heart: Blood on Crystal | 395854 | [395854-atomic-heart-blood-on-crystal.json](./395854-atomic-heart-blood-on-crystal.json) |
