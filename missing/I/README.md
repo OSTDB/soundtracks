@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
 | Infestation | 9119 | [9119-infestation.json](./9119-infestation.json) |
 | Infestation | 9486 | [9486-infestation.json](./9486-infestation.json) |
+| Infestation Sea | 273420 | [273420-infestation-sea.json](./273420-infestation-sea.json) |
 | Infestation: Battle Royale | 130205 | [130205-infestation-battle-royale.json](./130205-infestation-battle-royale.json) |
 | Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
 | Infested Grounds | 275068 | [275068-infested-grounds.json](./275068-infested-grounds.json) |
@@ -2329,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irritability & Mood Swings | 195182 | [195182-irritability-and-mood-swings.json](./195182-irritability-and-mood-swings.json) |
 | Irritating Stick | 92863 | [92863-irritating-stick.json](./92863-irritating-stick.json) |
 | Iruka Iru Ka | 187491 | [187491-iruka-iru-ka.json](./187491-iruka-iru-ka.json) |
+| Iruka ni Uroko ga Nai Wake | 273352 | [273352-iruka-ni-uroko-ga-nai-wake.json](./273352-iruka-ni-uroko-ga-nai-wake.json) |
 | Irwin Ego: Ace Attorney | 302652 | [302652-irwin-ego-ace-attorney.json](./302652-irwin-ego-ace-attorney.json) |
 | Is Anna OK? | 286661 | [286661-is-anna-ok.json](./286661-is-anna-ok.json) |
 | Is Everyone Mad at Me? | 394505 | [394505-is-everyone-mad-at-me.json](./394505-is-everyone-mad-at-me.json) |
