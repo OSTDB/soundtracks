@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Gotta Go | 375823 | [375823-we-gotta-go.json](./375823-we-gotta-go.json) |
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
+| We Have a Frog Problem | 228997 | [228997-we-have-a-frog-problem.json](./228997-we-have-a-frog-problem.json) |
 | We Have Doom at Home | 361303 | [361303-we-have-doom-at-home.json](./361303-we-have-doom-at-home.json) |
 | We Have Evangelion at Home | 363911 | [363911-we-have-evangelion-at-home.json](./363911-we-have-evangelion-at-home.json) |
 | We Heist Too | 304885 | [304885-we-heist-too.json](./304885-we-heist-too.json) |
@@ -1183,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Dimension | 172034 | [172034-web-dimension.json](./172034-web-dimension.json) |
 | Web Earth Online | 392155 | [392155-web-earth-online.json](./392155-web-earth-online.json) |
 | Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
+| Web Power Dolls | 228983 | [228983-web-power-dolls.json](./228983-web-power-dolls.json) |
 | Web Runner | 178066 | [178066-web-runner.json](./178066-web-runner.json) |
 | Web Spice | 88230 | [88230-web-spice.json](./88230-web-spice.json) |
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
