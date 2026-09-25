@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enforce | 46845 | [46845-enforce.json](./46845-enforce.json) |
 | Enforced Entropy | 299855 | [299855-enforced-entropy.json](./299855-enforced-entropy.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
+| Engacho! for WonderSwan | 267417 | [267417-engacho-for-wonderswan.json](./267417-engacho-for-wonderswan.json) |
 | Engage Princess: Nemureru Himegimi to Yume no Mahoutsukai | 205618 | [205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json](./205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json) |
 | Engare | 34110 | [34110-engare.json](./34110-engare.json) |
 | Engels met Rayman + Frans met Rayman | 193349 | [193349-engels-met-rayman-frans-met-rayman.json](./193349-engels-met-rayman-frans-met-rayman.json) |
