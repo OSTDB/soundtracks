@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Kero Cowboy | 341144 | [341144-kero-kero-cowboy.json](./341144-kero-kero-cowboy.json) |
 | Kero Kero Keroppi no Issho ni Asobou | 40239 | [40239-kero-kero-keroppi-no-issho-ni-asobou.json](./40239-kero-kero-keroppi-no-issho-ni-asobou.json) |
 | Kero Kero Keroppi to Origami no Tabibito | 125960 | [125960-kero-kero-keroppi-to-origami-no-tabibito.json](./125960-kero-kero-keroppi-to-origami-no-tabibito.json) |
+| Kero Kero Keroppi: Uki Uki Party Land | 270162 | [270162-kero-kero-keroppi-uki-uki-party-land.json](./270162-kero-kero-keroppi-uki-uki-party-land.json) |
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
 | Keroro RPG: Kishi to Busha to Densetsu no Kaizoku | 67306 | [67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json](./67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json) |
 | Kesenai Boken no Sho | 97693 | [97693-kesenai-boken-no-sho.json](./97693-kesenai-boken-no-sho.json) |
@@ -1278,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Atham: Crown of the Champions | 166715 | [166715-kingdom-of-atham-crown-of-the-champions.json](./166715-kingdom-of-atham-crown-of-the-champions.json) |
 | Kingdom of Bärn | 279129 | [279129-kingdom-of-barn.json](./279129-kingdom-of-barn.json) |
 | Kingdom of Dinza | 190179 | [190179-kingdom-of-dinza.json](./190179-kingdom-of-dinza.json) |
+| Kingdom of Fallen: The Last Stand | 270161 | [270161-kingdom-of-fallen-the-last-stand.json](./270161-kingdom-of-fallen-the-last-stand.json) |
 | Kingdom of Force | 164430 | [164430-kingdom-of-force.json](./164430-kingdom-of-force.json) |
 | Kingdom of Hamil | 13734 | [13734-kingdom-of-hamil.json](./13734-kingdom-of-hamil.json) |
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
