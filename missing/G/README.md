@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gals Panic 4 | 46848 | [46848-gals-panic-4.json](./46848-gals-panic-4.json) |
 | Gals Panic II | 210714 | [210714-gals-panic-ii.json](./210714-gals-panic-ii.json) |
 | Galumb | 414573 | [414573-galumb.json](./414573-galumb.json) |
+| Galvanic Bride | 260183 | [260183-galvanic-bride.json](./260183-galvanic-bride.json) |
 | Galvanized | 280302 | [280302-galvanized.json](./280302-galvanized.json) |
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Galves Adventure | 230310 | [230310-galves-adventure.json](./230310-galves-adventure.json) |
@@ -2629,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Soup | 381134 | [381134-good-soup.json](./381134-good-soup.json) |
 | Good Vibes | 178500 | [178500-good-vibes.json](./178500-good-vibes.json) |
 | Good-Bye to Youtopia | 321546 | [321546-good-bye-to-youtopia.json](./321546-good-bye-to-youtopia.json) |
+| Goodboy Galaxy/Witch n' Wiz | 260091 | [260091-goodboy-galaxy-witch-n-wiz.json](./260091-goodboy-galaxy-witch-n-wiz.json) |
 | Goodbye | 130741 | [130741-goodbye.json](./130741-goodbye.json) |
 | Goodbye Cendrillon | 285991 | [285991-goodbye-cendrillon.json](./285991-goodbye-cendrillon.json) |
 | Goodbye Deponia: Premium Edition | 54069 | [54069-goodbye-deponia-premium-edition.json](./54069-goodbye-deponia-premium-edition.json) |
@@ -2934,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Monster Slam | 12123 | [12123-grand-monster-slam.json](./12123-grand-monster-slam.json) |
 | Grand Mountain Adventure | 112144 | [112144-grand-mountain-adventure.json](./112144-grand-mountain-adventure.json) |
 | Grand Mountain Adventure 2 | 324130 | [324130-grand-mountain-adventure-2.json](./324130-grand-mountain-adventure-2.json) |
+| Grand Ore Deal | 260103 | [260103-grand-ore-deal.json](./260103-grand-ore-deal.json) |
 | Grand Piano Keys | 200552 | [200552-grand-piano-keys.json](./200552-grand-piano-keys.json) |
 | Grand Pigeon's Duty | 33346 | [33346-grand-pigeons-duty.json](./33346-grand-pigeons-duty.json) |
 | Grand Poo World | 138218 | [138218-grand-poo-world.json](./138218-grand-poo-world.json) |
