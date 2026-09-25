@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Star Soccer Manager | 109583 | [109583-new-star-soccer-manager.json](./109583-new-star-soccer-manager.json) |
 | New Stars | 393822 | [393822-new-stars.json](./393822-new-stars.json) |
 | New Story of Seasons | 117535 | [117535-new-story-of-seasons.json](./117535-new-story-of-seasons.json) |
+| New Super Abandoned: Discovery Island | 242480 | [242480-new-super-abandoned-discovery-island.json](./242480-new-super-abandoned-discovery-island.json) |
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
 | New Super Luigi U Remastered Edition | 322777 | [322777-new-super-luigi-u-remastered-edition.json](./322777-new-super-luigi-u-remastered-edition.json) |
 | New Super Mario Bros. 2 | 1080 | [1080-new-super-mario-bros-2.json](./1080-new-super-mario-bros-2.json) |
