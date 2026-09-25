@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuretsu Breaker | 40269 | [40269-bakuretsu-breaker.json](./40269-bakuretsu-breaker.json) |
 | Bakuretsu Hunters: Mahjong Special | 123058 | [123058-bakuretsu-hunters-mahjong-special.json](./123058-bakuretsu-hunters-mahjong-special.json) |
 | Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
+| Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
 | Bakuten Shoot Beyblade | 80235 | [80235-bakuten-shoot-beyblade.json](./80235-bakuten-shoot-beyblade.json) |
 | Bakuten Shoot Beyblade 2002: Beybattle Tournament 2 | 303784 | [303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json](./303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json) |
 | Bakutsuri Bar Hunter | 118316 | [118316-bakutsuri-bar-hunter.json](./118316-bakutsuri-bar-hunter.json) |
@@ -655,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bally Jump | 293174 | [293174-bally-jump.json](./293174-bally-jump.json) |
 | Bally Pin | 130870 | [130870-bally-pin.json](./130870-bally-pin.json) |
 | BallZ | 230914 | [230914-ballz.json](./230914-ballz.json) |
+| Ballz Deep | 245286 | [245286-ballz-deep.json](./245286-ballz-deep.json) |
 | Ballz Drop | 105795 | [105795-ballz-drop.json](./105795-ballz-drop.json) |
 | BallZ DX | 316189 | [316189-ballz-dx.json](./316189-ballz-dx.json) |
 | Ballz: Farm | 81063 | [81063-ballz-farm.json](./81063-ballz-farm.json) |
@@ -1393,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
 | Battery Check | 242641 | [242641-battery-check.json](./242641-battery-check.json) |
 | Battery Hunter | 259623 | [259623-battery-hunter.json](./259623-battery-hunter.json) |
+| Battery Navi | 245248 | [245248-battery-navi.json](./245248-battery-navi.json) |
 | Battery-out | 193403 | [193403-battery-out.json](./193403-battery-out.json) |
 | Batteryman Recharges the World! | 184638 | [184638-batteryman-recharges-the-world.json](./184638-batteryman-recharges-the-world.json) |
 | BatteryNote | 304688 | [304688-batterynote.json](./304688-batterynote.json) |
@@ -3848,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleemcast! for Metal Gear Solid | 315682 | [315682-bleemcast-for-metal-gear-solid.json](./315682-bleemcast-for-metal-gear-solid.json) |
 | Bleepfrog | 343987 | [343987-bleepfrog.json](./343987-bleepfrog.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
+| Blender Express HD | 245259 | [245259-blender-express-hd.json](./245259-blender-express-hd.json) |
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
 | Blendoku | 38914 | [38914-blendoku.json](./38914-blendoku.json) |
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
@@ -4671,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Police Simulator | 317218 | [317218-bodycam-police-simulator.json](./317218-bodycam-police-simulator.json) |
 | Bodycam Recorded | 377079 | [377079-bodycam-recorded.json](./377079-bodycam-recorded.json) |
 | Bodycam Shooter | 317436 | [317436-bodycam-shooter.json](./317436-bodycam-shooter.json) |
+| Bodyconscious Digital Rave! Part 1: Shinjuku & Takashi | 245249 | [245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json](./245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
 | Bodyguard: Cellwars | 365160 | [365160-bodyguard-cellwars.json](./365160-bodyguard-cellwars.json) |
 | BodyRecords | 340943 | [340943-bodyrecords.json](./340943-bodyrecords.json) |
