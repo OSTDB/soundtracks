@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inout | 224622 | [224622-inout.json](./224622-inout.json) |
 | InOutPath | 295880 | [295880-inoutpath.json](./295880-inoutpath.json) |
 | Inpulse | 253925 | [253925-inpulse.json](./253925-inpulse.json) |
+| Input | 227792 | [227792-input.json](./227792-input.json) |
 | Input | 391075 | [391075-input.json](./391075-input.json) |
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
 | Inquiry Counsel | 389985 | [389985-inquiry-counsel.json](./389985-inquiry-counsel.json) |
