@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banter | 342242 | [342242-banter.json](./342242-banter.json) |
 | Banui Moheom: Idle RPG | 219781 | [219781-banui-moheom-idle-rpg.json](./219781-banui-moheom-idle-rpg.json) |
 | Banyu: Reclaiming Hope | 347888 | [347888-banyu-reclaiming-hope.json](./347888-banyu-reclaiming-hope.json) |
+| Banzai Dice | 232367 | [232367-banzai-dice.json](./232367-banzai-dice.json) |
 | Banzai Escape 2: Subterranean - KTactical | 297781 | [297781-banzai-escape-2-subterranean-ktactical.json](./297781-banzai-escape-2-subterranean-ktactical.json) |
 | Banzai Hentai! | 368516 | [368516-banzai-hentai.json](./368516-banzai-hentai.json) |
 | Banzai Mario World | 132855 | [132855-banzai-mario-world.json](./132855-banzai-mario-world.json) |
@@ -1999,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear With Me: The Lost Robots | 117105 | [117105-bear-with-me-the-lost-robots.json](./117105-bear-with-me-the-lost-robots.json) |
 | Bear, Vodka, Balalaika: Cyberpunk | 168768 | [168768-bear-vodka-balalaika-cyberpunk.json](./168768-bear-vodka-balalaika-cyberpunk.json) |
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
+| Bearable - Return to Candyland | 232391 | [232391-bearable-return-to-candyland.json](./232391-bearable-return-to-candyland.json) |
 | Bearable Nightmares | 148893 | [148893-bearable-nightmares.json](./148893-bearable-nightmares.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
 | Beards vs. Claws | 399695 | [399695-beards-vs-claws.json](./399695-beards-vs-claws.json) |
@@ -2693,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Beco World | 267886 | [267886-beyond-beco-world.json](./267886-beyond-beco-world.json) |
 | Beyond Border | 317417 | [317417-beyond-border.json](./317417-beyond-border.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
+| Beyond Chess | 232379 | [232379-beyond-chess.json](./232379-beyond-chess.json) |
 | Beyond Citadel | 322842 | [322842-beyond-citadel.json](./322842-beyond-citadel.json) |
 | Beyond Crimson Stars | 128966 | [128966-beyond-crimson-stars.json](./128966-beyond-crimson-stars.json) |
 | Beyond Despair | 26724 | [26724-beyond-despair.json](./26724-beyond-despair.json) |
@@ -6353,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble | 332233 | [332233-bubble-bobble.json](./332233-bubble-bobble.json) |
 | Bubble Bobble | 332234 | [332234-bubble-bobble.json](./332234-bubble-bobble.json) |
 | Bubble Bobble | 332242 | [332242-bubble-bobble.json](./332242-bubble-bobble.json) |
+| Bubble Bobble 2 classic | 232400 | [232400-bubble-bobble-2-classic.json](./232400-bubble-bobble-2-classic.json) |
 | Bubble Bobble 4 Friends | 121708 | [121708-bubble-bobble-4-friends.json](./121708-bubble-bobble-4-friends.json) |
 | Bubble Bobble 4 Friends: The Baron Is Back! | 139837 | [139837-bubble-bobble-4-friends-the-baron-is-back.json](./139837-bubble-bobble-4-friends-the-baron-is-back.json) |
 | Bubble Bobble Classic | 332248 | [332248-bubble-bobble-classic.json](./332248-bubble-bobble-classic.json) |
