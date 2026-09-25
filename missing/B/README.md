@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
 | BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
 | BattleCrew: Space Pirates | 26807 | [26807-battlecrew-space-pirates.json](./26807-battlecrew-space-pirates.json) |
+| BattleCross | 266827 | [266827-battlecross.json](./266827-battlecross.json) |
 | Battlecruiser 3000AD | 77288 | [77288-battlecruiser-3000ad.json](./77288-battlecruiser-3000ad.json) |
 | Battlecruiser Millennium | 61898 | [61898-battlecruiser-millennium.json](./61898-battlecruiser-millennium.json) |
 | BattleCry | 7210 | [7210-battlecry.json](./7210-battlecry.json) |
@@ -1822,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka Cafe | 72633 | [72633-bazooka-cafe.json](./72633-bazooka-cafe.json) |
 | Bazooka Cat: First Episode | 233635 | [233635-bazooka-cat-first-episode.json](./233635-bazooka-cat-first-episode.json) |
 | Bazooka of the Red Dragon | 68969 | [68969-bazooka-of-the-red-dragon.json](./68969-bazooka-of-the-red-dragon.json) |
+| BazookaCat | 266824 | [266824-bazookacat.json](./266824-bazookacat.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
 | BBOnline | 130327 | [130327-bbonline.json](./130327-bbonline.json) |
@@ -3450,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
+| Black Runes | 266764 | [266764-black-runes.json](./266764-black-runes.json) |
 | Black Sails | 289384 | [289384-black-sails.json](./289384-black-sails.json) |
 | Black Sand Drift | 31911 | [31911-black-sand-drift.json](./31911-black-sand-drift.json) |
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
