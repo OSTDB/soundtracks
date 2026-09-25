@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invader's Revenge | 38572 | [38572-invaders-revenge.json](./38572-invaders-revenge.json) |
 | Invaders | 170422 | [170422-invaders.json](./170422-invaders.json) |
 | Invaders | 217960 | [217960-invaders.json](./217960-invaders.json) |
+| Invaders | 250915 | [250915-invaders.json](./250915-invaders.json) |
 | Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
 | Invaders | 346119 | [346119-invaders.json](./346119-invaders.json) |
 | Invaders | 374044 | [374044-invaders.json](./374044-invaders.json) |
