@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
 | Perfect Hue Arena | 384075 | [384075-perfect-hue-arena.json](./384075-perfect-hue-arena.json) |
 | Perfect Kick | 62980 | [62980-perfect-kick.json](./62980-perfect-kick.json) |
+| Perfect Landing | 265587 | [265587-perfect-landing.json](./265587-perfect-landing.json) |
 | Perfect Liar | 373536 | [373536-perfect-liar.json](./373536-perfect-liar.json) |
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 1 | 225641 | [225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json](./225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json) |
@@ -3252,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
 | PixelRulers | 360681 | [360681-pixelrulers.json](./360681-pixelrulers.json) |
 | Pixelry | 50848 | [50848-pixelry.json](./50848-pixelry.json) |
+| Pixels | 265566 | [265566-pixels.json](./265566-pixels.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
 | Pixels Guide to Staying Dead | 109771 | [109771-pixels-guide-to-staying-dead.json](./109771-pixels-guide-to-staying-dead.json) |
 | Pixels N Pistols | 246950 | [246950-pixels-n-pistols.json](./246950-pixels-n-pistols.json) |
