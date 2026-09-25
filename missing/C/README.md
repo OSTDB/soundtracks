@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Mogul | 73759 | [73759-casino-mogul.json](./73759-casino-mogul.json) |
 | Casino Noir | 29607 | [29607-casino-noir.json](./29607-casino-noir.json) |
 | Casino Pokies-CPC | 360590 | [360590-casino-pokies-cpc.json](./360590-casino-pokies-cpc.json) |
+| Casino Resort | 255059 | [255059-casino-resort.json](./255059-casino-resort.json) |
 | Casino Rogue | 304634 | [304634-casino-rogue.json](./304634-casino-rogue.json) |
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
 | Casino Simulator | 295316 | [295316-casino-simulator.json](./295316-casino-simulator.json) |
@@ -7451,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
+| Curfuffles | 255036 | [255036-curfuffles.json](./255036-curfuffles.json) |
 | Curiosaurios Club: Un Viaje Espacial | 147375 | [147375-curiosaurios-club-un-viaje-espacial.json](./147375-curiosaurios-club-un-viaje-espacial.json) |
 | Curiosity | 108949 | [108949-curiosity.json](./108949-curiosity.json) |
 | Curiosity | 318392 | [318392-curiosity.json](./318392-curiosity.json) |
@@ -7617,6 +7619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope: Holiday Gift | 91951 | [91951-cut-the-rope-holiday-gift.json](./91951-cut-the-rope-holiday-gift.json) |
 | Cut the Rope: Magic | 46498 | [46498-cut-the-rope-magic.json](./46498-cut-the-rope-magic.json) |
 | Cut to the Core | 203963 | [203963-cut-to-the-core.json](./203963-cut-to-the-core.json) |
+| Cut WallStreet2 | 255031 | [255031-cut-wallstreet2.json](./255031-cut-wallstreet2.json) |
 | Cute & Cozy 5-in-1 | 390510 | [390510-cute-and-cozy-5-in-1.json](./390510-cute-and-cozy-5-in-1.json) |
 | Cute & Cozy Farm 5-in-1 | 399816 | [399816-cute-and-cozy-farm-5-in-1.json](./399816-cute-and-cozy-farm-5-in-1.json) |
 | Cute Adventure | 114323 | [114323-cute-adventure.json](./114323-cute-adventure.json) |
