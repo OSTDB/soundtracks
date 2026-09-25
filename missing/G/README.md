@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Witch: Soulstice Sprint | 341892 | [341892-ghost-witch-soulstice-sprint.json](./341892-ghost-witch-soulstice-sprint.json) |
 | Ghost Writer | 404946 | [404946-ghost-writer.json](./404946-ghost-writer.json) |
 | Ghost: Elisa Cameron | 146929 | [146929-ghost-elisa-cameron.json](./146929-ghost-elisa-cameron.json) |
+| Ghost? | 228987 | [228987-ghost.json](./228987-ghost.json) |
 | Ghost's Way | 180182 | [180182-ghosts-way.json](./180182-ghosts-way.json) |
 | Ghostbane | 286621 | [286621-ghostbane.json](./286621-ghostbane.json) |
 | Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
