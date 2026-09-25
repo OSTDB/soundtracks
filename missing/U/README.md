@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undress! | 369653 | [369653-undress.json](./369653-undress.json) |
 | UnDune II: The Demaking of a Dynasty | 275676 | [275676-undune-ii-the-demaking-of-a-dynasty.json](./275676-undune-ii-the-demaking-of-a-dynasty.json) |
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
+| Undying Memoir | 270646 | [270646-undying-memoir.json](./270646-undying-memoir.json) |
 | Undying One | 390250 | [390250-undying-one.json](./390250-undying-one.json) |
 | Undying: Kowloon in Red | 406313 | [406313-undying-kowloon-in-red.json](./406313-undying-kowloon-in-red.json) |
 | Une affaire en or | 93012 | [93012-une-affaire-en-or.json](./93012-une-affaire-en-or.json) |
