@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SameGame - Shapes | 86069 | [86069-samegame-shapes.json](./86069-samegame-shapes.json) |
 | SameGame Fighter | 64436 | [64436-samegame-fighter.json](./64436-samegame-fighter.json) |
 | SameGame HD | 64432 | [64432-samegame-hd.json](./64432-samegame-hd.json) |
+| SameShadow: Fernando's Journey | 272241 | [272241-sameshadow-fernandos-journey.json](./272241-sameshadow-fernandos-journey.json) |
 | Samgugji: Paewang | 368040 | [368040-samgugji-paewang.json](./368040-samgugji-paewang.json) |
 | Samhain | 125269 | [125269-samhain.json](./125269-samhain.json) |
 | Samhain | 179687 | [179687-samhain.json](./179687-samhain.json) |
@@ -10923,6 +10924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
 | Streets of Rage 4 | 107262 | [107262-streets-of-rage-4.json](./107262-streets-of-rage-4.json) |
+| Streets of Rage Zombies | 272336 | [272336-streets-of-rage-zombies.json](./272336-streets-of-rage-zombies.json) |
 | Streets of Rage: Revolution | 279632 | [279632-streets-of-rage-revolution.json](./279632-streets-of-rage-revolution.json) |
 | Streets of Red: Devil's Dare | 126045 | [126045-streets-of-red-devils-dare.json](./126045-streets-of-red-devils-dare.json) |
 | Streets of Rogue | 23275 | [23275-streets-of-rogue.json](./23275-streets-of-rogue.json) |
@@ -11974,6 +11976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super EarthBound | 323181 | [323181-super-earthbound.json](./323181-super-earthbound.json) |
 | Super Elastic | 276164 | [276164-super-elastic.json](./276164-super-elastic.json) |
 | Super Engine GT Turbo SPEC | 338922 | [338922-super-engine-gt-turbo-spec.json](./338922-super-engine-gt-turbo-spec.json) |
+| Super Erect Taisen S-EX | 272335 | [272335-super-erect-taisen-s-ex.json](./272335-super-erect-taisen-s-ex.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars | 38320 | [38320-super-famicom-wars.json](./38320-super-famicom-wars.json) |
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
