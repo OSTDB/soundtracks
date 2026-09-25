@@ -1472,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Because of Beauty | 279082 | [279082-just-because-of-beauty.json](./279082-just-because-of-beauty.json) |
 | Just Beneath the Skin 2D | 29228 | [29228-just-beneath-the-skin-2d.json](./29228-just-beneath-the-skin-2d.json) |
 | Just Black Jack | 124025 | [124025-just-black-jack.json](./124025-just-black-jack.json) |
+| Just Button | 240160 | [240160-just-button.json](./240160-just-button.json) |
 | Just Cause | 1042 | [1042-just-cause.json](./1042-just-cause.json) |
 | Just Cause 2: Complete Edition | 186901 | [186901-just-cause-2-complete-edition.json](./186901-just-cause-2-complete-edition.json) |
 | Just Cause 2: Multiplayer Mod | 93898 | [93898-just-cause-2-multiplayer-mod.json](./93898-just-cause-2-multiplayer-mod.json) |
