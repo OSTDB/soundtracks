@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capoo Pals for MAC Expansion Set | 289464 | [289464-capoo-pals-for-mac-expansion-set.json](./289464-capoo-pals-for-mac-expansion-set.json) |
 | Cappadocia Puzzle | 303065 | [303065-cappadocia-puzzle.json](./303065-cappadocia-puzzle.json) |
 | Capper | 384667 | [384667-capper.json](./384667-capper.json) |
+| Cappuccino: The Refill | 271781 | [271781-cappuccino-the-refill.json](./271781-cappuccino-the-refill.json) |
 | Cappuchino Spoontforce Deluxe VI: Girl of the Boiling Fury | 181872 | [181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json](./181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json) |
 | Capria: Magic of the Elements | 33142 | [33142-capria-magic-of-the-elements.json](./33142-capria-magic-of-the-elements.json) |
 | Capsella: The Lights of Lucerne | 103501 | [103501-capsella-the-lights-of-lucerne.json](./103501-capsella-the-lights-of-lucerne.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
 | Car Parking | 226295 | [226295-car-parking.json](./226295-car-parking.json) |
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
+| Car Parking & Car Driving Simulator 2023 | 271702 | [271702-car-parking-and-car-driving-simulator-2023.json](./271702-car-parking-and-car-driving-simulator-2023.json) |
 | Car Parking 2 | 232448 | [232448-car-parking-2.json](./232448-car-parking-2.json) |
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
 | Car Parking Multiplayer | 232563 | [232563-car-parking-multiplayer.json](./232563-car-parking-multiplayer.json) |
@@ -3532,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
 | Civil War II: The Bloody Road South | 172111 | [172111-civil-war-ii-the-bloody-road-south.json](./172111-civil-war-ii-the-bloody-road-south.json) |
+| Civil War Strategy | 271790 | [271790-civil-war-strategy.json](./271790-civil-war-strategy.json) |
 | Civil War: 1865 | 28795 | [28795-civil-war-1865.json](./28795-civil-war-1865.json) |
 | Civil War: Bull Run 1861 | 51549 | [51549-civil-war-bull-run-1861.json](./51549-civil-war-bull-run-1861.json) |
 | Civil War: Gettysburg | 55501 | [55501-civil-war-gettysburg.json](./55501-civil-war-gettysburg.json) |
@@ -5973,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
 | CrackSword | 397823 | [397823-cracksword.json](./397823-cracksword.json) |
 | Cracky Mini | 327354 | [327354-cracky-mini.json](./327354-cracky-mini.json) |
+| Cradle | 271719 | [271719-cradle.json](./271719-cradle.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
 | Cradle of Egypt: Collector's Edition | 355549 | [355549-cradle-of-egypt-collectors-edition.json](./355549-cradle-of-egypt-collectors-edition.json) |
 | Cradle of Nightmare : Flowers to you | 339333 | [339333-cradle-of-nightmare-flowers-to-you.json](./339333-cradle-of-nightmare-flowers-to-you.json) |
@@ -6731,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Ronin - Deluxe Edition | 298172 | [298172-crossout-ronin-deluxe-edition.json](./298172-crossout-ronin-deluxe-edition.json) |
 | Crossout: Ronin - Lite Edition | 298173 | [298173-crossout-ronin-lite-edition.json](./298173-crossout-ronin-lite-edition.json) |
 | Crossout: Savior | 235767 | [235767-crossout-savior.json](./235767-crossout-savior.json) |
+| Crossout: Sky Raiders | 271714 | [271714-crossout-sky-raiders.json](./271714-crossout-sky-raiders.json) |
 | Crossout: Snake Bite Pack | 226830 | [226830-crossout-snake-bite-pack.json](./226830-crossout-snake-bite-pack.json) |
 | Crossout: Steel shield | 293766 | [293766-crossout-steel-shield.json](./293766-crossout-steel-shield.json) |
 | Crossout: The Inventor Pack | 226831 | [226831-crossout-the-inventor-pack.json](./226831-crossout-the-inventor-pack.json) |
@@ -6983,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptogram | 355105 | [355105-cryptogram.json](./355105-cryptogram.json) |
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
 | CryptoGrid | 411789 | [411789-cryptogrid.json](./411789-cryptogrid.json) |
+| CryptoMania: Movie Quotes | 271693 | [271693-cryptomania-movie-quotes.json](./271693-cryptomania-movie-quotes.json) |
 | Cryptonaut | 190132 | [190132-cryptonaut.json](./190132-cryptonaut.json) |
 | CryptoQuiz | 108443 | [108443-cryptoquiz.json](./108443-cryptoquiz.json) |
 | CryptoQuote | 96031 | [96031-cryptoquote.json](./96031-cryptoquote.json) |
