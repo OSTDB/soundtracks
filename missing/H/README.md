@@ -2702,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Garden Fairies | 100883 | [100883-hidden-garden-fairies.json](./100883-hidden-garden-fairies.json) |
 | Hidden Garden Fairy Tale | 95580 | [95580-hidden-garden-fairy-tale.json](./95580-hidden-garden-fairy-tale.json) |
 | Hidden Garden Forest | 102085 | [102085-hidden-garden-forest.json](./102085-hidden-garden-forest.json) |
+| Hidden Garden Heart Breaker | 235138 | [235138-hidden-garden-heart-breaker.json](./235138-hidden-garden-heart-breaker.json) |
 | Hidden Garden Wonderland | 103860 | [103860-hidden-garden-wonderland.json](./103860-hidden-garden-wonderland.json) |
 | Hidden Garden Word Jumble | 89685 | [89685-hidden-garden-word-jumble.json](./89685-hidden-garden-word-jumble.json) |
 | Hidden Garden Word Pop | 96721 | [96721-hidden-garden-word-pop.json](./96721-hidden-garden-word-pop.json) |
@@ -4048,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
 | Horse Racing Manager 2020 | 233117 | [233117-horse-racing-manager-2020.json](./233117-horse-racing-manager-2020.json) |
 | Horse Riding Deluxe | 81654 | [81654-horse-riding-deluxe.json](./81654-horse-riding-deluxe.json) |
+| Horse Riding Tales | 235160 | [235160-horse-riding-tales.json](./235160-horse-riding-tales.json) |
 | Horse Runner DX | 303569 | [303569-horse-runner-dx.json](./303569-horse-runner-dx.json) |
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
