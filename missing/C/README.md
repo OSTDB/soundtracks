@@ -1847,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrities Hacked: NoirPetal Photo Pack | 289467 | [289467-celebrities-hacked-noirpetal-photo-pack.json](./289467-celebrities-hacked-noirpetal-photo-pack.json) |
 | Celebrities Hacked: PlushyPixel Photo Pack | 289468 | [289468-celebrities-hacked-plushypixel-photo-pack.json](./289468-celebrities-hacked-plushypixel-photo-pack.json) |
 | Celebrity Darling | 203295 | [203295-celebrity-darling.json](./203295-celebrity-darling.json) |
+| Celebrity Kombat | 264090 | [264090-celebrity-kombat.json](./264090-celebrity-kombat.json) |
 | Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
@@ -3340,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Lido | 37724 | [37724-circus-lido.json](./37724-circus-lido.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
+| Cirno's Lost Chirumiru | 264097 | [264097-cirnos-lost-chirumiru.json](./264097-cirnos-lost-chirumiru.json) |
 | Cirno's Not So Ice Day | 362896 | [362896-cirnos-not-so-ice-day.json](./362896-cirnos-not-so-ice-day.json) |
 | Cirno's Perfect Punchout!! | 219035 | [219035-cirnos-perfect-punchout.json](./219035-cirnos-perfect-punchout.json) |
 | Cirnozardry | 292858 | [292858-cirnozardry.json](./292858-cirnozardry.json) |
