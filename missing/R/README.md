@@ -4232,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots And Sprouts | 401539 | [401539-roots-and-sprouts.json](./401539-roots-and-sprouts.json) |
 | Roots Devour | 331443 | [331443-roots-devour.json](./331443-roots-devour.json) |
 | Roots Need Control 3.0 | 243121 | [243121-roots-need-control-3-0.json](./243121-roots-need-control-3-0.json) |
+| Roots of Cinder | 270081 | [270081-roots-of-cinder.json](./270081-roots-of-cinder.json) |
 | Roots of Fury | 290529 | [290529-roots-of-fury.json](./290529-roots-of-fury.json) |
 | Roots of Harmony | 320561 | [320561-roots-of-harmony.json](./320561-roots-of-harmony.json) |
 | Roots of Rebirth | 239644 | [239644-roots-of-rebirth.json](./239644-roots-of-rebirth.json) |
