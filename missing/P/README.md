@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paid by Blood | 409688 | [409688-paid-by-blood.json](./409688-paid-by-blood.json) |
 | Paid in Blood | 392268 | [392268-paid-in-blood.json](./392268-paid-in-blood.json) |
 | Paimordle | 243974 | [243974-paimordle.json](./243974-paimordle.json) |
+| Pain | 231332 | [231332-pain.json](./231332-pain.json) |
 | Pain | 7387 | [7387-pain.json](./7387-pain.json) |
 | Pain 'n Dave: The Maze of Malice | 360678 | [360678-pain-n-dave-the-maze-of-malice.json](./360678-pain-n-dave-the-maze-of-malice.json) |
 | Pain is the Best Medicine | 292007 | [292007-pain-is-the-best-medicine.json](./292007-pain-is-the-best-medicine.json) |
@@ -6576,6 +6577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PulmEx | 215244 | [215244-pulmex.json](./215244-pulmex.json) |
 | Pulp Action Shotgun | 362876 | [362876-pulp-action-shotgun.json](./362876-pulp-action-shotgun.json) |
 | Pulp Race: Daft Enigma Fighter | 382780 | [382780-pulp-race-daft-enigma-fighter.json](./382780-pulp-race-daft-enigma-fighter.json) |
+| Pulpcraft DX | 231328 | [231328-pulpcraft-dx.json](./231328-pulpcraft-dx.json) |
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
