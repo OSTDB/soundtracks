@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydream Heartbeat Cure | 394853 | [394853-daydream-heartbeat-cure.json](./394853-daydream-heartbeat-cure.json) |
 | DayDream Mosaics 2: Juliette's Tale | 193506 | [193506-daydream-mosaics-2-juliettes-tale.json](./193506-daydream-mosaics-2-juliettes-tale.json) |
 | Daydream Mosaics: Juliette's Collection | 357307 | [357307-daydream-mosaics-juliettes-collection.json](./357307-daydream-mosaics-juliettes-collection.json) |
+| Daydream: Prologue | 246906 | [246906-daydream-prologue.json](./246906-daydream-prologue.json) |
 | Daydream: When Butterflies Dance | 201240 | [201240-daydream-when-butterflies-dance.json](./201240-daydream-when-butterflies-dance.json) |
 | Daydreamer | 295789 | [295789-daydreamer.json](./295789-daydreamer.json) |
 | Daydreamer 2 | 192369 | [192369-daydreamer-2.json](./192369-daydreamer-2.json) |
@@ -3298,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig & Spike Volleyball | 94194 | [94194-dig-and-spike-volleyball.json](./94194-dig-and-spike-volleyball.json) |
 | Dig a Road | 310048 | [310048-dig-a-road.json](./310048-dig-a-road.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
+| Dig Deep: Chunky Pets | 246881 | [246881-dig-deep-chunky-pets.json](./246881-dig-deep-chunky-pets.json) |
 | Dig Dirt | 278462 | [278462-dig-dirt.json](./278462-dig-dirt.json) |
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
 | Dig Down | 368689 | [368689-dig-down.json](./368689-dig-down.json) |
@@ -4207,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | Dobo's Heroes | 147420 | [147420-dobos-heroes.json](./147420-dobos-heroes.json) |
+| Dobraminhos | 246932 | [246932-dobraminhos.json](./246932-dobraminhos.json) |
 | Dobro Goranku | 372136 | [372136-dobro-goranku.json](./372136-dobro-goranku.json) |
 | Dobro Love Fantasy Quest | 274531 | [274531-dobro-love-fantasy-quest.json](./274531-dobro-love-fantasy-quest.json) |
 | Doc Cosmos | 133986 | [133986-doc-cosmos.json](./133986-doc-cosmos.json) |
@@ -4694,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Stop You'll Die | 211794 | [211794-dont-stop-youll-die.json](./211794-dont-stop-youll-die.json) |
 | Don't Stop, Girlypop! | 287870 | [287870-dont-stop-girlypop.json](./287870-dont-stop-girlypop.json) |
 | Don't Take It Personally, Babe, It Just Ain't Your Story | 66033 | [66033-dont-take-it-personally-babe-it-just-aint-your-story.json](./66033-dont-take-it-personally-babe-it-just-aint-your-story.json) |
+| Don't Take It Personally, I Just Don't Like You | 246924 | [246924-dont-take-it-personally-i-just-dont-like-you.json](./246924-dont-take-it-personally-i-just-dont-like-you.json) |
 | Don't Take Me Away | 329074 | [329074-dont-take-me-away.json](./329074-dont-take-me-away.json) |
 | Don't Tap the White Tile | 57324 | [57324-dont-tap-the-white-tile.json](./57324-dont-tap-the-white-tile.json) |
 | Don't Tell My Wife | 396197 | [396197-dont-tell-my-wife.json](./396197-dont-tell-my-wife.json) |
@@ -4937,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomies | 253972 | [253972-doomies.json](./253972-doomies.json) |
 | Doomkid's Mega! | 262998 | [262998-doomkids-mega.json](./262998-doomkids-mega.json) |
+| DOOMpad | 246907 | [246907-doompad.json](./246907-doompad.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Dooms | 340999 | [340999-dooms.json](./340999-dooms.json) |
 | Dooms Knight | 87914 | [87914-dooms-knight.json](./87914-dooms-knight.json) |
@@ -5086,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
 | Dot. | 94201 | [94201-dot.json](./94201-dot.json) |
+| Dota 2: New Frontiers | 246900 | [246900-dota-2-new-frontiers.json](./246900-dota-2-new-frontiers.json) |
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
 | DotAge: Trade Secrets | 394372 | [394372-dotage-trade-secrets.json](./394372-dotage-trade-secrets.json) |
@@ -5960,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hopper | 304147 | [304147-dream-hopper.json](./304147-dream-hopper.json) |
 | Dream Hospital | 352861 | [352861-dream-hospital.json](./352861-dream-hospital.json) |
 | Dream Hotel Master | 303492 | [303492-dream-hotel-master.json](./303492-dream-hotel-master.json) |
+| Dream House Days | 246937 | [246937-dream-house-days.json](./246937-dream-house-days.json) |
 | Dream in the Shell | 317388 | [317388-dream-in-the-shell.json](./317388-dream-in-the-shell.json) |
 | Dream Invader | 220330 | [220330-dream-invader.json](./220330-dream-invader.json) |
 | Dream Island: A Skyward Journey | 281380 | [281380-dream-island-a-skyward-journey.json](./281380-dream-island-a-skyward-journey.json) |
