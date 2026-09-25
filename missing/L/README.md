@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
 | Legendary Mosaics: The Dwarf and the Terrible Cat | 176894 | [176894-legendary-mosaics-the-dwarf-and-the-terrible-cat.json](./176894-legendary-mosaics-the-dwarf-and-the-terrible-cat.json) |
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
+| Legendary Realms: A Fantasy World Odyssey | 242512 | [242512-legendary-realms-a-fantasy-world-odyssey.json](./242512-legendary-realms-a-fantasy-world-odyssey.json) |
 | Legendary Slide | 261781 | [261781-legendary-slide.json](./261781-legendary-slide.json) |
 | Legendary Slide 2: Platinum Edition | 266814 | [266814-legendary-slide-2-platinum-edition.json](./266814-legendary-slide-2-platinum-edition.json) |
 | Legendary Spell: Deluxe Edition | 395679 | [395679-legendary-spell-deluxe-edition.json](./395679-legendary-spell-deluxe-edition.json) |
@@ -1151,6 +1152,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legions of Death | 37085 | [37085-legions-of-death.json](./37085-legions-of-death.json) |
 | Legionwood: Tale of the Two Swords | 33016 | [33016-legionwood-tale-of-the-two-swords.json](./33016-legionwood-tale-of-the-two-swords.json) |
 | Legna Tactica | 26666 | [26666-legna-tactica.json](./26666-legna-tactica.json) |
+| LEGO 2K Drive: Awesome Edition | 242494 | [242494-lego-2k-drive-awesome-edition.json](./242494-lego-2k-drive-awesome-edition.json) |
+| LEGO 2K Drive: Awesome Rivals Edition | 242495 | [242495-lego-2k-drive-awesome-rivals-edition.json](./242495-lego-2k-drive-awesome-rivals-edition.json) |
 | LEGO Agents: Mission X | 314853 | [314853-lego-agents-mission-x.json](./314853-lego-agents-mission-x.json) |
 | LEGO Alpha Team | 80638 | [80638-lego-alpha-team.json](./80638-lego-alpha-team.json) |
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
