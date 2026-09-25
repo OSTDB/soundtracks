@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Wand | 27326 | [27326-magic-wand.json](./27326-magic-wand.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
+| Magic Wars | 254472 | [254472-magic-wars.json](./254472-magic-wars.json) |
 | Magic Weapon | 358310 | [358310-magic-weapon.json](./358310-magic-weapon.json) |
 | Magic Weapon | 377301 | [377301-magic-weapon.json](./377301-magic-weapon.json) |
 | Magic Witches | 280860 | [280860-magic-witches.json](./280860-magic-witches.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
 | Mahjong Kazoku | 41364 | [41364-mahjong-kazoku.json](./41364-mahjong-kazoku.json) |
+| Mahjong Kuru Jidai: AV Gal Seifukuhen | 254452 | [254452-mahjong-kuru-jidai-av-gal-seifukuhen.json](./254452-mahjong-kuru-jidai-av-gal-seifukuhen.json) |
 | Mahjong Lemon Angel | 42004 | [42004-mahjong-lemon-angel.json](./42004-mahjong-lemon-angel.json) |
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
 | Mahjong Masters: Temple of the Ten Gods | 43539 | [43539-mahjong-masters-temple-of-the-ten-gods.json](./43539-mahjong-masters-temple-of-the-ten-gods.json) |
@@ -4241,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Feast | 118318 | [118318-midnight-feast.json](./118318-midnight-feast.json) |
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
 | Midnight Havoc | 258966 | [258966-midnight-havoc.json](./258966-midnight-havoc.json) |
+| Midnight Heist | 254432 | [254432-midnight-heist.json](./254432-midnight-heist.json) |
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
 | Midnight Idle | 409565 | [409565-midnight-idle.json](./409565-midnight-idle.json) |
 | Midnight is Lost | 156689 | [156689-midnight-is-lost.json](./156689-midnight-is-lost.json) |
@@ -6389,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
 | More Bloons | 261910 | [261910-more-bloons.json](./261910-more-bloons.json) |
 | More Dark | 124195 | [124195-more-dark.json](./124195-more-dark.json) |
+| More Dark Fables from Aesop | 254455 | [254455-more-dark-fables-from-aesop.json](./254455-more-dark-fables-from-aesop.json) |
 | More Easter Eggs! | 96051 | [96051-more-easter-eggs.json](./96051-more-easter-eggs.json) |
 | More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
@@ -6435,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Ritual | 179033 | [179033-morning-ritual.json](./179033-morning-ritual.json) |
 | Morning Ritual | 97706 | [97706-morning-ritual.json](./97706-morning-ritual.json) |
 | Mornings | 184059 | [184059-mornings.json](./184059-mornings.json) |
+| Morningstar | 254446 | [254446-morningstar.json](./254446-morningstar.json) |
 | Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
 | Morningtide Motel | 318970 | [318970-morningtide-motel.json](./318970-morningtide-motel.json) |
 | Moroi | 137050 | [137050-moroi.json](./137050-moroi.json) |
