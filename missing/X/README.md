@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Simulator Drone | 312171 | [312171-x-simulator-drone.json](./312171-x-simulator-drone.json) |
 | X Virus | 190742 | [190742-x-virus.json](./190742-x-virus.json) |
 | X-17 | 33373 | [33373-x-17.json](./33373-x-17.json) |
+| X-Blades HD | 230804 | [230804-x-blades-hd.json](./230804-x-blades-hd.json) |
 | X-Blades HD Gold | 230814 | [230814-x-blades-hd-gold.json](./230814-x-blades-hd-gold.json) |
 | X-Blades: HD Upgrade | 322140 | [322140-x-blades-hd-upgrade.json](./322140-x-blades-hd-upgrade.json) |
 | X-Bladez: Inline Skater | 43941 | [43941-x-bladez-inline-skater.json](./43941-x-bladez-inline-skater.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft - Airport Zurich V2 | 162781 | [162781-x-plane-11-aerosoft-airport-zurich-v2.json](./162781-x-plane-11-aerosoft-airport-zurich-v2.json) |
 | X-Plane 11: Aerosoft - KTNP: Airport Twentynine Palms | 162785 | [162785-x-plane-11-aerosoft-ktnp-airport-twentynine-palms.json](./162785-x-plane-11-aerosoft-ktnp-airport-twentynine-palms.json) |
 | X-Plane 11: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289892 | [289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
+| X-Plane 11: Aerosoft - Tromsø XP | 238471 | [238471-x-plane-11-aerosoft-troms-xp.json](./238471-x-plane-11-aerosoft-troms-xp.json) |
 | X-Plane 11: Aerosoft Airport Bergamo | 162793 | [162793-x-plane-11-aerosoft-airport-bergamo.json](./162793-x-plane-11-aerosoft-airport-bergamo.json) |
 | X-Plane 11: Aerosoft Airport Frankfurt V2 | 162767 | [162767-x-plane-11-aerosoft-airport-frankfurt-v2.json](./162767-x-plane-11-aerosoft-airport-frankfurt-v2.json) |
 | X-Plane 11: Aerosoft Airport Genoa | 162799 | [162799-x-plane-11-aerosoft-airport-genoa.json](./162799-x-plane-11-aerosoft-airport-genoa.json) |
@@ -181,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X4: Foundations - Collector's Edition | 124803 | [124803-x4-foundations-collectors-edition.json](./124803-x4-foundations-collectors-edition.json) |
 | X4: Foundations - Tides of Avarice | 186900 | [186900-x4-foundations-tides-of-avarice.json](./186900-x4-foundations-tides-of-avarice.json) |
 | X4: Hyperion Pack | 413188 | [413188-x4-hyperion-pack.json](./413188-x4-hyperion-pack.json) |
+| X4: Kingdom End | 230806 | [230806-x4-kingdom-end.json](./230806-x4-kingdom-end.json) |
 | X4: Split Vendetta | 124814 | [124814-x4-split-vendetta.json](./124814-x4-split-vendetta.json) |
 | X8 | 220724 | [220724-x8.json](./220724-x8.json) |
 | Xadom | 294729 | [294729-xadom.json](./294729-xadom.json) |
