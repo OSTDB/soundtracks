@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia Saver: Hero Saidai no Sakusen | 42239 | [42239-gaia-saver-hero-saidai-no-sakusen.json](./42239-gaia-saver-hero-saidai-no-sakusen.json) |
 | Gaia Trek | 248039 | [248039-gaia-trek.json](./248039-gaia-trek.json) |
 | Gaia-ttack | 330159 | [330159-gaia-ttack.json](./330159-gaia-ttack.json) |
+| Gaia: A Protetora da Natureza | 261227 | [261227-gaia-a-protetora-da-natureza.json](./261227-gaia-a-protetora-da-natureza.json) |
 | Gaia: Adapt and Evolve | 74756 | [74756-gaia-adapt-and-evolve.json](./74756-gaia-adapt-and-evolve.json) |
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
 | Gaia's Melody: Echoed Melodies | 74231 | [74231-gaias-melody-echoed-melodies.json](./74231-gaias-melody-echoed-melodies.json) |
@@ -1975,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
 | Gnarbike Trials 2 | 284489 | [284489-gnarbike-trials-2.json](./284489-gnarbike-trials-2.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
+| Gnilley | 261307 | [261307-gnilley.json](./261307-gnilley.json) |
 | Gnog | 26102 | [26102-gnog.json](./26102-gnog.json) |
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
 | Gnomael's Vampire | 184662 | [184662-gnomaels-vampire.json](./184662-gnomaels-vampire.json) |
@@ -4156,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
 | Gunship | 133964 | [133964-gunship.json](./133964-gunship.json) |
 | Gunship | 244760 | [244760-gunship.json](./244760-gunship.json) |
+| Gunship | 261208 | [261208-gunship.json](./261208-gunship.json) |
 | Gunship 2000 | 12129 | [12129-gunship-2000.json](./12129-gunship-2000.json) |
 | Gunship Assault | 188006 | [188006-gunship-assault.json](./188006-gunship-assault.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
