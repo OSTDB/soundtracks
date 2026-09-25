@@ -290,7 +290,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radirgy | 4077 | [4077-radirgy.json](./4077-radirgy.json) |
 | Radirgy 2 | 254477 | [254477-radirgy-2.json](./254477-radirgy-2.json) |
 | Radirgy De Gojaru! | 222407 | [222407-radirgy-de-gojaru.json](./222407-radirgy-de-gojaru.json) |
+| Radirgy Noa | 254475 | [254475-radirgy-noa.json](./254475-radirgy-noa.json) |
 | Radirgy Noa Massive | 7152 | [7152-radirgy-noa-massive.json](./7152-radirgy-noa-massive.json) |
+| Radirgy Noa Wii | 254476 | [254476-radirgy-noa-wii.json](./254476-radirgy-noa-wii.json) |
 | Radish | 122180 | [122180-radish.json](./122180-radish.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
