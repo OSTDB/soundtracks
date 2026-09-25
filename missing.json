@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T17:19:15.013Z",
-  "total_missing": 121843,
+  "generated_at": "2026-09-25T17:33:42.943Z",
+  "total_missing": 121893,
   "games": [
     {
       "igdb_id": 176875,
@@ -25321,6 +25321,11 @@
       "igdb_id": 240311,
       "game_name": "Apes.io",
       "file": "missing/A/240311-apes-io.json"
+    },
+    {
+      "igdb_id": 241939,
+      "game_name": "Apewar",
+      "file": "missing/A/241939-apewar.json"
     },
     {
       "igdb_id": 5728,
@@ -124018,6 +124023,11 @@
       "file": "missing/D/116398-deep-space-reflections.json"
     },
     {
+      "igdb_id": 241936,
+      "game_name": "Deep Space Scoundrel",
+      "file": "missing/D/241936-deep-space-scoundrel.json"
+    },
+    {
       "igdb_id": 111731,
       "game_name": "Deep Space Shooter",
       "file": "missing/D/111731-deep-space-shooter.json"
@@ -147131,6 +147141,11 @@
       "igdb_id": 320761,
       "game_name": "Ducky Dash",
       "file": "missing/D/320761-ducky-dash.json"
+    },
+    {
+      "igdb_id": 241902,
+      "game_name": "Ducky's Delivery Service",
+      "file": "missing/D/241902-duckys-delivery-service.json"
     },
     {
       "igdb_id": 379049,
@@ -197338,6 +197353,11 @@
       "file": "missing/G/282577-gangster-bros.json"
     },
     {
+      "igdb_id": 241889,
+      "game_name": "Gangster Life: Criminal Untold , Cars, Theft, Police",
+      "file": "missing/G/241889-gangster-life-criminal-untold-cars-theft-police.json"
+    },
+    {
       "igdb_id": 69233,
       "game_name": "Gangsters",
       "file": "missing/G/69233-gangsters.json"
@@ -199588,6 +199608,11 @@
       "file": "missing/G/211201-genimas-life-reborn.json"
     },
     {
+      "igdb_id": 241898,
+      "game_name": "Gênio Box",
+      "file": "missing/G/241898-genio-box.json"
+    },
+    {
       "igdb_id": 241945,
       "game_name": "Gênio Fly",
       "file": "missing/G/241945-genio-fly.json"
@@ -199606,6 +199631,21 @@
       "igdb_id": 241943,
       "game_name": "Gênio Quiz BBB 21",
       "file": "missing/G/241943-genio-quiz-bbb-21.json"
+    },
+    {
+      "igdb_id": 241941,
+      "game_name": "Gênio Quiz Eleições",
+      "file": "missing/G/241941-genio-quiz-eleicoes.json"
+    },
+    {
+      "igdb_id": 241935,
+      "game_name": "Gênio Quiz Felipe Neto",
+      "file": "missing/G/241935-genio-quiz-felipe-neto.json"
+    },
+    {
+      "igdb_id": 241940,
+      "game_name": "Gênio Quiz Luccas Neto",
+      "file": "missing/G/241940-genio-quiz-luccas-neto.json"
     },
     {
       "igdb_id": 241969,
@@ -199678,6 +199718,11 @@
       "file": "missing/G/241624-genius-quiz-2.json"
     },
     {
+      "igdb_id": 241931,
+      "game_name": "Genius Quiz 2018 World Cup",
+      "file": "missing/G/241931-genius-quiz-2018-world-cup.json"
+    },
+    {
       "igdb_id": 241625,
       "game_name": "Genius Quiz 3",
       "file": "missing/G/241625-genius-quiz-3.json"
@@ -199698,9 +199743,39 @@
       "file": "missing/G/241641-genius-quiz-9.json"
     },
     {
+      "igdb_id": 241912,
+      "game_name": "Genius Quiz Animals",
+      "file": "missing/G/241912-genius-quiz-animals.json"
+    },
+    {
+      "igdb_id": 241909,
+      "game_name": "Genius Quiz Animes",
+      "file": "missing/G/241909-genius-quiz-animes.json"
+    },
+    {
+      "igdb_id": 241903,
+      "game_name": "Genius Quiz Christmas",
+      "file": "missing/G/241903-genius-quiz-christmas.json"
+    },
+    {
+      "igdb_id": 241923,
+      "game_name": "Genius Quiz Clans",
+      "file": "missing/G/241923-genius-quiz-clans.json"
+    },
+    {
+      "igdb_id": 241915,
+      "game_name": "Genius Quiz Countries",
+      "file": "missing/G/241915-genius-quiz-countries.json"
+    },
+    {
       "igdb_id": 241947,
       "game_name": "Genius Quiz Craft",
       "file": "missing/G/241947-genius-quiz-craft.json"
+    },
+    {
+      "igdb_id": 241899,
+      "game_name": "Genius Quiz DBZ",
+      "file": "missing/G/241899-genius-quiz-dbz.json"
     },
     {
       "igdb_id": 241970,
@@ -199708,9 +199783,119 @@
       "file": "missing/G/241970-genius-quiz-fort-battle-royale.json"
     },
     {
+      "igdb_id": 241917,
+      "game_name": "Genius Quiz Games",
+      "file": "missing/G/241917-genius-quiz-games.json"
+    },
+    {
+      "igdb_id": 241914,
+      "game_name": "Genius Quiz GOT",
+      "file": "missing/G/241914-genius-quiz-got.json"
+    },
+    {
+      "igdb_id": 241910,
+      "game_name": "Genius Quiz Heroes",
+      "file": "missing/G/241910-genius-quiz-heroes.json"
+    },
+    {
+      "igdb_id": 241904,
+      "game_name": "Genius Quiz HP",
+      "file": "missing/G/241904-genius-quiz-hp.json"
+    },
+    {
+      "igdb_id": 241922,
+      "game_name": "Genius Quiz LoL",
+      "file": "missing/G/241922-genius-quiz-lol.json"
+    },
+    {
+      "igdb_id": 241911,
+      "game_name": "Genius Quiz Maker",
+      "file": "missing/G/241911-genius-quiz-maker.json"
+    },
+    {
+      "igdb_id": 241924,
+      "game_name": "Genius Quiz Memes",
+      "file": "missing/G/241924-genius-quiz-memes.json"
+    },
+    {
+      "igdb_id": 241916,
+      "game_name": "Genius Quiz Naru",
+      "file": "missing/G/241916-genius-quiz-naru.json"
+    },
+    {
+      "igdb_id": 241932,
+      "game_name": "Genius Quiz Naru 2",
+      "file": "missing/G/241932-genius-quiz-naru-2.json"
+    },
+    {
       "igdb_id": 241968,
       "game_name": "Genius Quiz OP",
       "file": "missing/G/241968-genius-quiz-op.json"
+    },
+    {
+      "igdb_id": 241906,
+      "game_name": "Genius Quiz Reverse",
+      "file": "missing/G/241906-genius-quiz-reverse.json"
+    },
+    {
+      "igdb_id": 241929,
+      "game_name": "Genius Quiz Rick&M",
+      "file": "missing/G/241929-genius-quiz-rick-and-m.json"
+    },
+    {
+      "igdb_id": 241919,
+      "game_name": "Genius Quiz Royale",
+      "file": "missing/G/241919-genius-quiz-royale.json"
+    },
+    {
+      "igdb_id": 241920,
+      "game_name": "Genius Quiz Royale 2",
+      "file": "missing/G/241920-genius-quiz-royale-2.json"
+    },
+    {
+      "igdb_id": 241918,
+      "game_name": "Genius Quiz Science",
+      "file": "missing/G/241918-genius-quiz-science.json"
+    },
+    {
+      "igdb_id": 241900,
+      "game_name": "Genius Quiz Soccer",
+      "file": "missing/G/241900-genius-quiz-soccer.json"
+    },
+    {
+      "igdb_id": 241907,
+      "game_name": "Genius Quiz SW",
+      "file": "missing/G/241907-genius-quiz-sw.json"
+    },
+    {
+      "igdb_id": 241926,
+      "game_name": "Genius Quiz TWD",
+      "file": "missing/G/241926-genius-quiz-twd.json"
+    },
+    {
+      "igdb_id": 241933,
+      "game_name": "Genius Quiz World Cups",
+      "file": "missing/G/241933-genius-quiz-world-cups.json"
+    },
+    {
+      "igdb_id": 241925,
+      "game_name": "Genius Quiz Youtubers",
+      "file": "missing/G/241925-genius-quiz-youtubers.json"
+    },
+    {
+      "igdb_id": 241928,
+      "game_name": "Genius Quiz Youtubers 2",
+      "file": "missing/G/241928-genius-quiz-youtubers-2.json"
+    },
+    {
+      "igdb_id": 241930,
+      "game_name": "Genius Quiz Youtubers 3",
+      "file": "missing/G/241930-genius-quiz-youtubers-3.json"
+    },
+    {
+      "igdb_id": 241927,
+      "game_name": "Genius Quiz Yugi",
+      "file": "missing/G/241927-genius-quiz-yugi.json"
     },
     {
       "igdb_id": 86122,
@@ -275658,6 +275843,11 @@
       "file": "missing/L/246640-labyrinth-of-zangetsu-mind-0-collaboration-additional-characters-pack.json"
     },
     {
+      "igdb_id": 241888,
+      "game_name": "Labyrinth Runner",
+      "file": "missing/L/241888-labyrinth-runner.json"
+    },
+    {
       "igdb_id": 40218,
       "game_name": "Labyrinth Runner",
       "file": "missing/L/40218-labyrinth-runner.json"
@@ -350668,6 +350858,11 @@
       "file": "missing/N/330525-not-sonic-flash.json"
     },
     {
+      "igdb_id": 241938,
+      "game_name": "Not the Hero",
+      "file": "missing/N/241938-not-the-hero.json"
+    },
+    {
       "igdb_id": 247612,
       "game_name": "Not the North Pole",
       "file": "missing/N/247612-not-the-north-pole.json"
@@ -361588,6 +361783,11 @@
       "file": "missing/O/137625-oukoku-no-grand-chef.json"
     },
     {
+      "igdb_id": 241893,
+      "game_name": "Oukyuu no Hihou: Tenshon",
+      "file": "missing/O/241893-oukyuu-no-hihou-tenshon.json"
+    },
+    {
       "igdb_id": 219135,
       "game_name": "Oumagatoki: Kaidan Romance",
       "file": "missing/O/219135-oumagatoki-kaidan-romance.json"
@@ -364281,6 +364481,11 @@
       "igdb_id": 218443,
       "game_name": "Pac-Man",
       "file": "missing/P/218443-pac-man.json"
+    },
+    {
+      "igdb_id": 241905,
+      "game_name": "Pac-Man",
+      "file": "missing/P/241905-pac-man.json"
     },
     {
       "igdb_id": 277394,
@@ -430943,6 +431148,11 @@
       "file": "missing/S/382768-sandnight-hill-revelation.json"
     },
     {
+      "igdb_id": 241890,
+      "game_name": "Sandoria",
+      "file": "missing/S/241890-sandoria.json"
+    },
+    {
       "igdb_id": 28809,
       "game_name": "Sandra and Woo in the Cursed Adventure",
       "file": "missing/S/28809-sandra-and-woo-in-the-cursed-adventure.json"
@@ -434353,6 +434563,11 @@
       "file": "missing/S/287738-scp.json"
     },
     {
+      "igdb_id": 241913,
+      "game_name": "SCP 087 B",
+      "file": "missing/S/241913-scp-087-b.json"
+    },
+    {
       "igdb_id": 102739,
       "game_name": "SCP 173 - Nightshift Survival Breach Containment",
       "file": "missing/S/102739-scp-173-nightshift-survival-breach-containment.json"
@@ -434381,6 +434596,11 @@
       "igdb_id": 316791,
       "game_name": "SCP-002",
       "file": "missing/S/316791-scp-002.json"
+    },
+    {
+      "igdb_id": 241908,
+      "game_name": "SCP-087",
+      "file": "missing/S/241908-scp-087.json"
     },
     {
       "igdb_id": 336366,
@@ -440026,6 +440246,11 @@
       "igdb_id": 253850,
       "game_name": "Sex Simulator: Futanari BDSM",
       "file": "missing/S/253850-sex-simulator-futanari-bdsm.json"
+    },
+    {
+      "igdb_id": 241937,
+      "game_name": "Sex Simulator: Girl on Girl",
+      "file": "missing/S/241937-sex-simulator-girl-on-girl.json"
     },
     {
       "igdb_id": 385041,
@@ -461438,6 +461663,11 @@
       "file": "missing/S/330304-sonic-adventure-emerald.json"
     },
     {
+      "igdb_id": 241921,
+      "game_name": "Sonic Adventure Genisys",
+      "file": "missing/S/241921-sonic-adventure-genisys.json"
+    },
+    {
       "igdb_id": 316978,
       "game_name": "Sonic Adventure Reloaded",
       "file": "missing/S/316978-sonic-adventure-reloaded.json"
@@ -462198,6 +462428,11 @@
       "file": "missing/S/139949-sonic-mania-team-sonic-racing-double-pack.json"
     },
     {
+      "igdb_id": 241896,
+      "game_name": "Sonic Mania Atmosphere",
+      "file": "missing/S/241896-sonic-mania-atmosphere.json"
+    },
+    {
       "igdb_id": 326995,
       "game_name": "Sonic Mania Fangame",
       "file": "missing/S/326995-sonic-mania-fangame.json"
@@ -462576,6 +462811,11 @@
       "igdb_id": 307659,
       "game_name": "Sonic Robo Blast 2: N64 Mario",
       "file": "missing/S/307659-sonic-robo-blast-2-n64-mario.json"
+    },
+    {
+      "igdb_id": 241897,
+      "game_name": "​Sonic Robo Blast 2: Official Level Design Collab 2022 - Round 2",
+      "file": "missing/0-9/241897-sonic-robo-blast-2-official-level-design-collab-2022-round-2.json"
     },
     {
       "igdb_id": 287674,
@@ -524458,6 +524698,11 @@
       "file": "missing/T/331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json"
     },
     {
+      "igdb_id": 241895,
+      "game_name": "The Legend of Zelda: Skyward Sword Randomizer",
+      "file": "missing/T/241895-the-legend-of-zelda-skyward-sword-randomizer.json"
+    },
+    {
       "igdb_id": 323365,
       "game_name": "The Legend of Zelda: Specter's Oculus",
       "file": "missing/T/323365-the-legend-of-zelda-specters-oculus.json"
@@ -524531,6 +524776,11 @@
       "igdb_id": 18017,
       "game_name": "The Legend of Zelda: Twilight Princess HD",
       "file": "missing/T/18017-the-legend-of-zelda-twilight-princess-hd.json"
+    },
+    {
+      "igdb_id": 241894,
+      "game_name": "The Legend of Zelda: Twilight Princess Randomizer",
+      "file": "missing/T/241894-the-legend-of-zelda-twilight-princess-randomizer.json"
     },
     {
       "igdb_id": 322780,
