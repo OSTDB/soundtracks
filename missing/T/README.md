@@ -3968,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Basement Escape | 385192 | [385192-the-great-basement-escape.json](./385192-the-great-basement-escape.json) |
 | The Great Bathroom Escape | 385190 | [385190-the-great-bathroom-escape.json](./385190-the-great-bathroom-escape.json) |
 | The Great Battle III | 66671 | [66671-the-great-battle-iii.json](./66671-the-great-battle-iii.json) |
+| The Great Battle of Shark Monkey Squirrel Dinossaur Bird Bee | 275681 | [275681-the-great-battle-of-shark-monkey-squirrel-dinossaur-bird-bee.json](./275681-the-great-battle-of-shark-monkey-squirrel-dinossaur-bird-bee.json) |
 | The Great Battle Pocket | 228554 | [228554-the-great-battle-pocket.json](./228554-the-great-battle-pocket.json) |
 | The Great Battle V | 66672 | [66672-the-great-battle-v.json](./66672-the-great-battle-v.json) |
 | The Great Battle VI | 66670 | [66670-the-great-battle-vi.json](./66670-the-great-battle-vi.json) |
@@ -6514,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snow Reach | 266805 | [266805-the-snow-reach.json](./266805-the-snow-reach.json) |
 | The Snowboard Game | 90262 | [90262-the-snowboard-game.json](./90262-the-snowboard-game.json) |
 | The Snowfield | 144323 | [144323-the-snowfield.json](./144323-the-snowfield.json) |
+| The Snowman | 275641 | [275641-the-snowman.json](./275641-the-snowman.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
 | The Sokoban | 175811 | [175811-the-sokoban.json](./175811-the-sokoban.json) |
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
@@ -11241,6 +11243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz: Driver Edition | 206748 | [206748-trainz-driver-edition.json](./206748-trainz-driver-edition.json) |
 | Trainz: Settle & Carlisle | 62419 | [62419-trainz-settle-and-carlisle.json](./62419-trainz-settle-and-carlisle.json) |
 | Trait | 326271 | [326271-trait.json](./326271-trait.json) |
+| Traitor | 275639 | [275639-traitor.json](./275639-traitor.json) |
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
 | Traitors Gate 2 | 24107 | [24107-traitors-gate-2.json](./24107-traitors-gate-2.json) |
 | Trajectile | 91417 | [91417-trajectile.json](./91417-trajectile.json) |
