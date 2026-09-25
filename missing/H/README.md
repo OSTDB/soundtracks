@@ -1502,6 +1502,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
 | Heise Biji | 330272 | [330272-heise-biji.json](./330272-heise-biji.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
+| Heisei Tensai Bakabon | 249763 | [249763-heisei-tensai-bakabon.json](./249763-heisei-tensai-bakabon.json) |
+| Heisei Tensai Bakabon Minna de Family Resturant ni Iku no da! | 249764 | [249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json](./249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json) |
 | Heist | 111050 | [111050-heist.json](./111050-heist.json) |
 | Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
