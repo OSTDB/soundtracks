@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caution Wet Paint | 405733 | [405733-caution-wet-paint.json](./405733-caution-wet-paint.json) |
 | Caution! Platforming Ahead | 130725 | [130725-caution-platforming-ahead.json](./130725-caution-platforming-ahead.json) |
 | Cautionary Tale | 176453 | [176453-cautionary-tale.json](./176453-cautionary-tale.json) |
+| Cautious V | 229641 | [229641-cautious-v.json](./229641-cautious-v.json) |
 | Cavalry Battle 3000 | 353896 | [353896-cavalry-battle-3000.json](./353896-cavalry-battle-3000.json) |
 | Cave | 141816 | [141816-cave.json](./141816-cave.json) |
 | Cave Bad | 144105 | [144105-cave-bad.json](./144105-cave-bad.json) |
@@ -2790,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill X | 161260 | [161260-chill-x.json](./161260-chill-x.json) |
 | Chilled Chicken | 262421 | [262421-chilled-chicken.json](./262421-chilled-chicken.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
+| Chiller | 229644 | [229644-chiller.json](./229644-chiller.json) |
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
 | Chilling Urban Legends | 409670 | [409670-chilling-urban-legends.json](./409670-chilling-urban-legends.json) |
 | Chilljong | 223505 | [223505-chilljong.json](./223505-chilljong.json) |
@@ -5745,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cleaner | 380083 | [380083-cosmic-cleaner.json](./380083-cosmic-cleaner.json) |
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
 | Cosmic Commando | 60518 | [60518-cosmic-commando.json](./60518-cosmic-commando.json) |
+| Cosmic Commute | 229624 | [229624-cosmic-commute.json](./229624-cosmic-commute.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
 | Cosmic Cosmonaut | 336641 | [336641-cosmic-cosmonaut.json](./336641-cosmic-cosmonaut.json) |
 | Cosmic Cowboy | 413070 | [413070-cosmic-cowboy.json](./413070-cosmic-cowboy.json) |
