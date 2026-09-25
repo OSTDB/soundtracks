@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oukaranman | 59408 | [59408-oukaranman.json](./59408-oukaranman.json) |
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Oukoku no Grand Chef | 137625 | [137625-oukoku-no-grand-chef.json](./137625-oukoku-no-grand-chef.json) |
+| Oukyuu no Hihou: Tenshon | 241893 | [241893-oukyuu-no-hihou-tenshon.json](./241893-oukyuu-no-hihou-tenshon.json) |
 | Oumagatoki: Kaidan Romance | 219135 | [219135-oumagatoki-kaidan-romance.json](./219135-oumagatoki-kaidan-romance.json) |
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
 | Our Bad Ending | 354487 | [354487-our-bad-ending.json](./354487-our-bad-ending.json) |
