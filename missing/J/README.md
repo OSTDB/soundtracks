@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode One - A Bump in the Night | 84153 | [84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json](./84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json) |
 | Jacob's Quest | 226731 | [226731-jacobs-quest.json](./226731-jacobs-quest.json) |
+| Jacob's Room | 228988 | [228988-jacobs-room.json](./228988-jacobs-room.json) |
 | Jacqueline White: Bad Trouble in the Red Desert | 169991 | [169991-jacqueline-white-bad-trouble-in-the-red-desert.json](./169991-jacqueline-white-bad-trouble-in-the-red-desert.json) |
 | Jad | 151133 | [151133-jad.json](./151133-jad.json) |
 | JaDa Fishin' | 222948 | [222948-jada-fishin.json](./222948-jada-fishin.json) |
