@@ -4585,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
 | The Karaoke | 224806 | [224806-the-karaoke.json](./224806-the-karaoke.json) |
+| The Karters 2: Turbo Charged | 230763 | [230763-the-karters-2-turbo-charged.json](./230763-the-karters-2-turbo-charged.json) |
 | The Katagean Redoubt | 271816 | [271816-the-katagean-redoubt.json](./271816-the-katagean-redoubt.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
@@ -8079,6 +8080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
+| Those Who Crawl | 230803 | [230803-those-who-crawl.json](./230803-those-who-crawl.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
 | Thoughtform Invasion | 292085 | [292085-thoughtform-invasion.json](./292085-thoughtform-invasion.json) |
@@ -11895,6 +11897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
+| Tres Acordes | 230757 | [230757-tres-acordes.json](./230757-tres-acordes.json) |
 | Tresmir Sight | 298169 | [298169-tresmir-sight.json](./298169-tresmir-sight.json) |
 | Trespass: Episode 1 | 31879 | [31879-trespass-episode-1.json](./31879-trespass-episode-1.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
