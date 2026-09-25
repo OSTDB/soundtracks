@@ -68,6 +68,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
 | La Vie en Rose | 183071 | [183071-la-vie-en-rose.json](./183071-la-vie-en-rose.json) |
 | La Vie La Rue | 199617 | [199617-la-vie-la-rue.json](./199617-la-vie-la-rue.json) |
+| La Voz | 268435 | [268435-la-voz.json](./268435-la-voz.json) |
+| La Voz Vol. 2 | 268436 | [268436-la-voz-vol-2.json](./268436-la-voz-vol-2.json) |
+| La Voz Vol. 3 | 268437 | [268437-la-voz-vol-3.json](./268437-la-voz-vol-3.json) |
+| La Voz: Quiero tu Voz | 268439 | [268439-la-voz-quiero-tu-voz.json](./268439-la-voz-quiero-tu-voz.json) |
 | La Vuelta al Mundo con Vascolet | 347111 | [347111-la-vuelta-al-mundo-con-vascolet.json](./347111-la-vuelta-al-mundo-con-vascolet.json) |
 | La-Mulana | 7936 | [7936-la-mulana.json](./7936-la-mulana.json) |
 | La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
@@ -889,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lee Carvallo's Putting Challenge | 180781 | [180781-lee-carvallos-putting-challenge.json](./180781-lee-carvallos-putting-challenge.json) |
 | Lee Carvallo's Putting Challenge 2 | 308411 | [308411-lee-carvallos-putting-challenge-2.json](./308411-lee-carvallos-putting-challenge-2.json) |
 | Leedmees | 20158 | [20158-leedmees.json](./20158-leedmees.json) |
+| Leeds United Club Football | 267889 | [267889-leeds-united-club-football.json](./267889-leeds-united-club-football.json) |
 | Leek Factory Tycoon | 297613 | [297613-leek-factory-tycoon.json](./297613-leek-factory-tycoon.json) |
 | Leenie Boog | 157025 | [157025-leenie-boog.json](./157025-leenie-boog.json) |
 | Leenie's Tale | 319720 | [319720-leenies-tale.json](./319720-leenies-tale.json) |
@@ -2466,6 +2471,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Shiver | 264709 | [264709-live-shiver.json](./264709-live-shiver.json) |
 | LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
+| Liverpool Club Football | 267878 | [267878-liverpool-club-football.json](./267878-liverpool-club-football.json) |
+| Liverpool Club Football 2005 | 267899 | [267899-liverpool-club-football-2005.json](./267899-liverpool-club-football-2005.json) |
 | Lives so Sweet | 124199 | [124199-lives-so-sweet.json](./124199-lives-so-sweet.json) |
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
 | Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
