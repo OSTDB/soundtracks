@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
 | Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
 | Car Heist Simulator: Thief Mechanic | 328564 | [328564-car-heist-simulator-thief-mechanic.json](./328564-car-heist-simulator-thief-mechanic.json) |
+| Car II: Grandprix | 239570 | [239570-car-ii-grandprix.json](./239570-car-ii-grandprix.json) |
 | Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
 | Car Jump | 164912 | [164912-car-jump.json](./164912-car-jump.json) |
 | Car Looper | 150533 | [150533-car-looper.json](./150533-car-looper.json) |
@@ -1685,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
 | Cats Diner | 392948 | [392948-cats-diner.json](./392948-cats-diner.json) |
+| Cats Fighters | 239621 | [239621-cats-fighters.json](./239621-cats-fighters.json) |
 | Cats Fly Helicopters | 117104 | [117104-cats-fly-helicopters.json](./117104-cats-fly-helicopters.json) |
 | Cats Games + Say Cheese! + Soko Games | 335105 | [335105-cats-games-say-cheese-soko-games.json](./335105-cats-games-say-cheese-soko-games.json) |
 | Cats Hidden Around the World 2 | 306340 | [306340-cats-hidden-around-the-world-2.json](./306340-cats-hidden-around-the-world-2.json) |
@@ -1779,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave of Illusions | 125116 | [125116-cave-of-illusions.json](./125116-cave-of-illusions.json) |
 | Cave of the Skinwalker | 358856 | [358856-cave-of-the-skinwalker.json](./358856-cave-of-the-skinwalker.json) |
 | Cave of Treats | 408803 | [408803-cave-of-treats.json](./408803-cave-of-treats.json) |
+| Cave Ranger | 239619 | [239619-cave-ranger.json](./239619-cave-ranger.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Cave Shooting Collection | 159258 | [159258-cave-shooting-collection.json](./159258-cave-shooting-collection.json) |
 | Cave Story Sex RPG 2007 | 145470 | [145470-cave-story-sex-rpg-2007.json](./145470-cave-story-sex-rpg-2007.json) |
@@ -3789,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
 | Clean Freak! Perfect Cook! | 365166 | [365166-clean-freak-perfect-cook.json](./365166-clean-freak-perfect-cook.json) |
 | Clean My Carpet: ASMR Washing | 228451 | [228451-clean-my-carpet-asmr-washing.json](./228451-clean-my-carpet-asmr-washing.json) |
+| Clean Paper | 239598 | [239598-clean-paper.json](./239598-clean-paper.json) |
 | Clean Slate | 149454 | [149454-clean-slate.json](./149454-clean-slate.json) |
 | Clean Stack | 333185 | [333185-clean-stack.json](./333185-clean-stack.json) |
 | Clean Sweep | 18159 | [18159-clean-sweep.json](./18159-clean-sweep.json) |
