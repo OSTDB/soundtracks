@@ -6240,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstone Island: Deluxe Edition | 306524 | [306524-moonstone-island-deluxe-edition.json](./306524-moonstone-island-deluxe-edition.json) |
 | Moonstone Island: Designed for Lovers DLC Pack | 293412 | [293412-moonstone-island-designed-for-lovers-dlc-pack.json](./293412-moonstone-island-designed-for-lovers-dlc-pack.json) |
 | Moonstone Island: Pool Party DLC Pack | 322723 | [322723-moonstone-island-pool-party-dlc-pack.json](./322723-moonstone-island-pool-party-dlc-pack.json) |
+| Moonstone Remix | 274451 | [274451-moonstone-remix.json](./274451-moonstone-remix.json) |
 | Moonstrider | 34562 | [34562-moonstrider.json](./34562-moonstrider.json) |
 | Moonstuck | 195152 | [195152-moonstuck.json](./195152-moonstuck.json) |
 | Moontales Picbook | 359999 | [359999-moontales-picbook.json](./359999-moontales-picbook.json) |
@@ -7071,6 +7072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer Game Maker | 335445 | [335445-multiplayer-game-maker.json](./335445-multiplayer-game-maker.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
+| Multiplayer Obby | 274533 | [274533-multiplayer-obby.json](./274533-multiplayer-obby.json) |
 | Multiplayer RPG | 307737 | [307737-multiplayer-rpg.json](./307737-multiplayer-rpg.json) |
 | Multiplayer Spiders | 296362 | [296362-multiplayer-spiders.json](./296362-multiplayer-spiders.json) |
 | Multiplayer Survivors | 307738 | [307738-multiplayer-survivors.json](./307738-multiplayer-survivors.json) |
