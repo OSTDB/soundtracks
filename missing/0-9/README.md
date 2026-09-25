@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
 | 12 MiniBattles | 139356 | [139356-12-minibattles.json](./139356-12-minibattles.json) |
 | 12 Orbits | 90578 | [90578-12-orbits.json](./90578-12-orbits.json) |
+| 12 pm Break | 262992 | [262992-12-pm-break.json](./262992-12-pm-break.json) |
 | 12 Vengeful Ghosts | 305864 | [305864-12-vengeful-ghosts.json](./305864-12-vengeful-ghosts.json) |
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
@@ -681,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Miles to Pigsland | 286646 | [286646-300-miles-to-pigsland.json](./286646-300-miles-to-pigsland.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
 | 303 Squadron: Battle of Britain | 90654 | [90654-303-squadron-battle-of-britain.json](./90654-303-squadron-battle-of-britain.json) |
+| 3030 | 262985 | [262985-3030.json](./262985-3030.json) |
 | 3030 Deathwar Redux | 32952 | [32952-3030-deathwar-redux.json](./32952-3030-deathwar-redux.json) |
 | 3059 | 300002 | [300002-3059.json](./300002-3059.json) |
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
