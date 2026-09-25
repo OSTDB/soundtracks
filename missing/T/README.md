@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Wuxia | 90481 | [90481-tale-of-wuxia.json](./90481-tale-of-wuxia.json) |
 | Talebuilder | 382305 | [382305-talebuilder.json](./382305-talebuilder.json) |
 | Talented | 260636 | [260636-talented.json](./260636-talented.json) |
+| Talentless. | 229656 | [229656-talentless.json](./229656-talentless.json) |
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
 | Tales AFar | 233497 | [233497-tales-afar.json](./233497-tales-afar.json) |
@@ -5020,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: A Link to the Past Redux | 219073 | [219073-the-legend-of-zelda-a-link-to-the-past-redux.json](./219073-the-legend-of-zelda-a-link-to-the-past-redux.json) |
 | The Legend of Zelda: A New Light | 233602 | [233602-the-legend-of-zelda-a-new-light.json](./233602-the-legend-of-zelda-a-new-light.json) |
 | The Legend of Zelda: Allhallows Eve | 308390 | [308390-the-legend-of-zelda-allhallows-eve.json](./308390-the-legend-of-zelda-allhallows-eve.json) |
+| The Legend of Zelda: Ancient Dungeon | 229619 | [229619-the-legend-of-zelda-ancient-dungeon.json](./229619-the-legend-of-zelda-ancient-dungeon.json) |
 | The Legend of Zelda: Book of Mudora | 243614 | [243614-the-legend-of-zelda-book-of-mudora.json](./243614-the-legend-of-zelda-book-of-mudora.json) |
 | The Legend of Zelda: Breath of the Wild - Collector's Edition | 136841 | [136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json](./136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Hyrule Rebalance | 250327 | [250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json](./250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json) |
@@ -12824,6 +12826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Soul | 96113 | [96113-twin-soul.json](./96113-twin-soul.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
+| Twin Unconscious | 229657 | [229657-twin-unconscious.json](./229657-twin-unconscious.json) |
 | TwinBee | 282650 | [282650-twinbee.json](./282650-twinbee.json) |
 | TwinBee | 282651 | [282651-twinbee.json](./282651-twinbee.json) |
 | TwinBee | 282652 | [282652-twinbee.json](./282652-twinbee.json) |
