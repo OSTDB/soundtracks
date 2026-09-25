@@ -11479,6 +11479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suez Canal Girl | 368042 | [368042-suez-canal-girl.json](./368042-suez-canal-girl.json) |
 | Suez Canal Simulator | 149409 | [149409-suez-canal-simulator.json](./149409-suez-canal-simulator.json) |
 | Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
+| Sufficiency | 262922 | [262922-sufficiency.json](./262922-sufficiency.json) |
 | Suffocation | 295871 | [295871-suffocation.json](./295871-suffocation.json) |
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
 | Sugamenia | 296502 | [296502-sugamenia.json](./296502-sugamenia.json) |
