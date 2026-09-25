@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Battler | 393620 | [393620-idle-battler.json](./393620-idle-battler.json) |
 | Idle Bear Island | 174859 | [174859-idle-bear-island.json](./174859-idle-bear-island.json) |
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
+| Idle Biceps | 244182 | [244182-idle-biceps.json](./244182-idle-biceps.json) |
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
 | Idle Breakanoid | 383952 | [383952-idle-breakanoid.json](./383952-idle-breakanoid.json) |
 | Idle Breaker: Loot and Survive | 297597 | [297597-idle-breaker-loot-and-survive.json](./297597-idle-breaker-loot-and-survive.json) |
