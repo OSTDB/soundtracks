@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenith Realms | 367513 | [367513-zenith-realms.json](./367513-zenith-realms.json) |
 | Zenith Trace | 379879 | [379879-zenith-trace.json](./379879-zenith-trace.json) |
 | Zenith: The Last City | 145452 | [145452-zenith-the-last-city.json](./145452-zenith-the-last-city.json) |
+| Zenkai | 239596 | [239596-zenkai.json](./239596-zenkai.json) |
 | Zenko: A Fox's Tale | 152848 | [152848-zenko-a-foxs-tale.json](./152848-zenko-a-foxs-tale.json) |
 | Zenkoku Baken Ouja Ketteisen 2: Omoshiro Bamei S | 341157 | [341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json](./341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json) |
 | Zenkoku Baken Ouja Ketteisen 2: Satella Mile Yosen 1 | 341158 | [341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json](./341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json) |
