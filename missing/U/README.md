@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urbance Clans Card Battle! | 107879 | [107879-urbance-clans-card-battle.json](./107879-urbance-clans-card-battle.json) |
 | Urbano: Legends' Debut | 216853 | [216853-urbano-legends-debut.json](./216853-urbano-legends-debut.json) |
 | Urbek City Builder | 151535 | [151535-urbek-city-builder.json](./151535-urbek-city-builder.json) |
+| Urbek City Builder: Defend the City | 236234 | [236234-urbek-city-builder-defend-the-city.json](./236234-urbek-city-builder-defend-the-city.json) |
 | URBO | 271173 | [271173-urbo.json](./271173-urbo.json) |
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
