@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Very Last Words | 352760 | [352760-your-very-last-words.json](./352760-your-very-last-words.json) |
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
 | Your wife | 166731 | [166731-your-wife.json](./166731-your-wife.json) |
+| Your_New_Life_Letter.rtf.exe | 234563 | [234563-your-new-life-letter-rtf-exe.json](./234563-your-new-life-letter-rtf-exe.json) |
 | Yourcraft | 361322 | [361322-yourcraft.json](./361322-yourcraft.json) |
 | YourFigureOut | 283858 | [283858-yourfigureout.json](./283858-yourfigureout.json) |
 | Yours Truly | 199134 | [199134-yours-truly.json](./199134-yours-truly.json) |
