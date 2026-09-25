@@ -3717,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
 | Clash of the Olympians | 384233 | [384233-clash-of-the-olympians.json](./384233-clash-of-the-olympians.json) |
+| Clash of the Undead | 231863 | [231863-clash-of-the-undead.json](./231863-clash-of-the-undead.json) |
 | Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
 | Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
@@ -6324,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawlies Re-Hatched | 418719 | [418719-crawlies-re-hatched.json](./418719-crawlies-re-hatched.json) |
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
 | Crawlspace | 252728 | [252728-crawlspace.json](./252728-crawlspace.json) |
+| Crawlspace 2 | 231850 | [231850-crawlspace-2.json](./231850-crawlspace-2.json) |
 | Crawlyard | 166753 | [166753-crawlyard.json](./166753-crawlyard.json) |
 | Crayation: The First Sketch | 379010 | [379010-crayation-the-first-sketch.json](./379010-crayation-the-first-sketch.json) |
 | Crayola Amazing Art Adventure | 360204 | [360204-crayola-amazing-art-adventure.json](./360204-crayola-amazing-art-adventure.json) |
