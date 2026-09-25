@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
+| Action Puzzle: Prism Land | 266272 | [266272-action-puzzle-prism-land.json](./266272-action-puzzle-prism-land.json) |
 | Action Quake 2 | 221842 | [221842-action-quake-2.json](./221842-action-quake-2.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
 | Action Reactor | 119558 | [119558-action-reactor.json](./119558-action-reactor.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | Affogato | 210654 | [210654-affogato.json](./210654-affogato.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
+| AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
 | AFL Challenge | 68302 | [68302-afl-challenge.json](./68302-afl-challenge.json) |
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
 | Afo | 78330 | [78330-afo.json](./78330-afo.json) |
@@ -3156,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
 | Angelic Waves | 176886 | [176886-angelic-waves.json](./176886-angelic-waves.json) |
 | Angelic Wishes | 223487 | [223487-angelic-wishes.json](./223487-angelic-wishes.json) |
+| Angelic: Dark Symphony | 266179 | [266179-angelic-dark-symphony.json](./266179-angelic-dark-symphony.json) |
 | Angélica no Reino Animal | 292093 | [292093-angelica-no-reino-animal.json](./292093-angelica-no-reino-animal.json) |
 | Angelica Weaver: Catch Me When You Can | 9975 | [9975-angelica-weaver-catch-me-when-you-can.json](./9975-angelica-weaver-catch-me-when-you-can.json) |
 | Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
@@ -3448,9 +3451,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Memes | 405608 | [405608-anime-memes.json](./405608-anime-memes.json) |
 | Anime Minesweeper | 392464 | [392464-anime-minesweeper.json](./392464-anime-minesweeper.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
+| Anime Poly Puzzle: Sci-Fi Maidens | 266164 | [266164-anime-poly-puzzle-sci-fi-maidens.json](./266164-anime-poly-puzzle-sci-fi-maidens.json) |
 | Anime puzzle | 152764 | [152764-anime-puzzle.json](./152764-anime-puzzle.json) |
 | Anime Puzzle Quest: 32 Animal Girls in Puzzle /2 | 317953 | [317953-anime-puzzle-quest-32-animal-girls-in-puzzle-2.json](./317953-anime-puzzle-quest-32-animal-girls-in-puzzle-2.json) |
 | Anime Puzzle Quest: Complete DLC Bundle | 317962 | [317962-anime-puzzle-quest-complete-dlc-bundle.json](./317962-anime-puzzle-quest-complete-dlc-bundle.json) |
+| Anime Quest: Mystic Maidens | 266169 | [266169-anime-quest-mystic-maidens.json](./266169-anime-quest-mystic-maidens.json) |
 | Anime Rally | 326811 | [326811-anime-rally.json](./326811-anime-rally.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
