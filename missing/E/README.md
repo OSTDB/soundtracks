@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
 | Endless Furry Asteroids | 153396 | [153396-endless-furry-asteroids.json](./153396-endless-furry-asteroids.json) |
 | Endless Furry Blackjack | 307571 | [307571-endless-furry-blackjack.json](./307571-endless-furry-blackjack.json) |
+| Endless Glory | 277921 | [277921-endless-glory.json](./277921-endless-glory.json) |
 | Endless Greed | 413670 | [413670-endless-greed.json](./413670-endless-greed.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
