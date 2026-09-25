@@ -882,6 +882,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
 | Harvest Moon: The Tale of Two Towns | 3392 | [3392-harvest-moon-the-tale-of-two-towns.json](./3392-harvest-moon-the-tale-of-two-towns.json) |
+| Harvest Moon: The Winds of Anthos - Animal Avalanche Pack | 269053 | [269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json](./269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json) |
+| Harvest Moon: The Winds of Anthos Bundle | 269054 | [269054-harvest-moon-the-winds-of-anthos-bundle.json](./269054-harvest-moon-the-winds-of-anthos-bundle.json) |
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai | 207917 | [207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json](./207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json) |
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai: Limited Edition | 207916 | [207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json](./207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json) |
 | Harvest Reaper | 394903 | [394903-harvest-reaper.json](./394903-harvest-reaper.json) |
