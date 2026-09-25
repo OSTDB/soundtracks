@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Pierre the Parrot | 320944 | [320944-talking-pierre-the-parrot.json](./320944-talking-pierre-the-parrot.json) |
 | Talking Pinball | 346043 | [346043-talking-pinball.json](./346043-talking-pinball.json) |
 | Talking Roby the Robot | 343796 | [343796-talking-roby-the-robot.json](./343796-talking-roby-the-robot.json) |
+| Talking to My Dad | 229016 | [229016-talking-to-my-dad.json](./229016-talking-to-my-dad.json) |
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
 | Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
@@ -1092,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
 | Tarzan | 304200 | [304200-tarzan.json](./304200-tarzan.json) |
 | Tarzan VR | 305903 | [305903-tarzan-vr.json](./305903-tarzan-vr.json) |
+| Tarzan: Lord of the Jungle | 228974 | [228974-tarzan-lord-of-the-jungle.json](./228974-tarzan-lord-of-the-jungle.json) |
 | Tashikani | 298155 | [298155-tashikani.json](./298155-tashikani.json) |
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Task Attack | 106957 | [106957-task-attack.json](./106957-task-attack.json) |
@@ -1600,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
 | Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
+| Temporian | 228969 | [228969-temporian.json](./228969-temporian.json) |
 | Temporus | 120797 | [120797-temporus.json](./120797-temporus.json) |
 | Tempres | 142881 | [142881-tempres.json](./142881-tempres.json) |
 | Temptations X: Darkest Fantasy | 149408 | [149408-temptations-x-darkest-fantasy.json](./149408-temptations-x-darkest-fantasy.json) |
@@ -2142,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Got Reincarnated as a Slime: The Saga of How the Demon Lord and Dragon Founded a Nation | 174820 | [174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json](./174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json) |
 | That Time I Got Reincarnated as a Succubus | 266307 | [266307-that-time-i-got-reincarnated-as-a-succubus.json](./266307-that-time-i-got-reincarnated-as-a-succubus.json) |
 | That Time I Got Trapped in an Office Dungeon | 346246 | [346246-that-time-i-got-trapped-in-an-office-dungeon.json](./346246-that-time-i-got-trapped-in-an-office-dungeon.json) |
+| That time I was about to do something important but a god zipped me to another world full of people with masks and I needed to make them fall in love with me to go back | 228990 | [228990-that-time-i-was-about-to-do-something-important-but-a-god-zipped-me-to-another-world-full-of-people-with-masks-and-i-needed-to-make-them-fall-in-love-with-me-to-go-back.json](./228990-that-time-i-was-about-to-do-something-important-but-a-god-zipped-me-to-another-world-full-of-people-with-masks-and-i-needed-to-make-them-fall-in-love-with-me-to-go-back.json) |
 | That Time I Was Reincarnated as a Box that can Draw Various Lines that Interact with the Environment | 407564 | [407564-that-time-i-was-reincarnated-as-a-box-that-can-draw-various-lines-that-interact-with-the-environment.json](./407564-that-time-i-was-reincarnated-as-a-box-that-can-draw-various-lines-that-interact-with-the-environment.json) |
 | That Time in '88 | 181345 | [181345-that-time-in-88.json](./181345-that-time-in-88.json) |
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
@@ -6777,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
 | The Spirits of Kelley Family | 129026 | [129026-the-spirits-of-kelley-family.json](./129026-the-spirits-of-kelley-family.json) |
+| The Split | 229015 | [229015-the-split.json](./229015-the-split.json) |
 | The SpongeBob SquarePants Movie | 210725 | [210725-the-spongebob-squarepants-movie.json](./210725-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie 3D | 135811 | [135811-the-spongebob-squarepants-movie-3d.json](./135811-the-spongebob-squarepants-movie-3d.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
@@ -6803,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Stargazers | 33478 | [33478-the-stargazers.json](./33478-the-stargazers.json) |
 | The Stars are Right | 391346 | [391346-the-stars-are-right.json](./391346-the-stars-are-right.json) |
+| The Stars Here Below | 228985 | [228985-the-stars-here-below.json](./228985-the-stars-here-below.json) |
 | The Stars We Lost To Grief | 271250 | [271250-the-stars-we-lost-to-grief.json](./271250-the-stars-we-lost-to-grief.json) |
 | The State of Nowhere | 289961 | [289961-the-state-of-nowhere.json](./289961-the-state-of-nowhere.json) |
 | The Static | 408196 | [408196-the-static.json](./408196-the-static.json) |
@@ -6922,6 +6928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sych Story | 158643 | [158643-the-sych-story.json](./158643-the-sych-story.json) |
 | The Sych Story: Human Being | 369574 | [369574-the-sych-story-human-being.json](./369574-the-sych-story-human-being.json) |
 | The Sydney Mystery | 73268 | [73268-the-sydney-mystery.json](./73268-the-sydney-mystery.json) |
+| The Symbiant | 228984 | [228984-the-symbiant.json](./228984-the-symbiant.json) |
 | The Symbiant II | 349336 | [349336-the-symbiant-ii.json](./349336-the-symbiant-ii.json) |
 | The Symbiant Re:Union | 259004 | [259004-the-symbiant-re-union.json](./259004-the-symbiant-re-union.json) |
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
@@ -11609,6 +11616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transfusion | 356761 | [356761-transfusion.json](./356761-transfusion.json) |
 | TransGenDeer | 327847 | [327847-transgendeer.json](./327847-transgendeer.json) |
 | Transgression | 93511 | [93511-transgression.json](./93511-transgression.json) |
+| Transience | 229004 | [229004-transience.json](./229004-transience.json) |
 | Transient Station | 184078 | [184078-transient-station.json](./184078-transient-station.json) |
 | Transient: Extended Edition | 186911 | [186911-transient-extended-edition.json](./186911-transient-extended-edition.json) |
 | Transilio | 270174 | [270174-transilio.json](./270174-transilio.json) |
@@ -12344,6 +12352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Abstraction: Plus | 265598 | [265598-true-abstraction-plus.json](./265598-true-abstraction-plus.json) |
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
+| True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
 | True Detective Solitaire | 88755 | [88755-true-detective-solitaire.json](./88755-true-detective-solitaire.json) |
