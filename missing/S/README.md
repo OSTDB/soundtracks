@@ -7564,6 +7564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hotel | 30270 | [30270-space-hotel.json](./30270-space-hotel.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
@@ -8006,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special girls | 178512 | [178512-special-girls.json](./178512-special-girls.json) |
 | Special Meat | 411610 | [411610-special-meat.json](./411610-special-meat.json) |
 | Special Mission | 175822 | [175822-special-mission.json](./175822-special-mission.json) |
+| Special Ops | 271266 | [271266-special-ops.json](./271266-special-ops.json) |
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Special Transport Simulator 2013 | 54384 | [54384-special-transport-simulator-2013.json](./54384-special-transport-simulator-2013.json) |
@@ -8778,6 +8780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprill: The Mystery of the Bermuda Triangle | 54419 | [54419-sprill-the-mystery-of-the-bermuda-triangle.json](./54419-sprill-the-mystery-of-the-bermuda-triangle.json) |
 | Spring a Line | 359401 | [359401-spring-a-line.json](./359401-spring-a-line.json) |
 | Spring Babies | 82165 | [82165-spring-babies.json](./82165-spring-babies.json) |
+| Spring Breeze | 271258 | [271258-spring-breeze.json](./271258-spring-breeze.json) |
 | Spring Breeze | 68328 | [68328-spring-breeze.json](./68328-spring-breeze.json) |
 | Spring Bunny Islands | 294239 | [294239-spring-bunny-islands.json](./294239-spring-bunny-islands.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
