@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
 | Which Way | 246372 | [246372-which-way.json](./246372-which-way.json) |
 | Which Way Out | 104088 | [104088-which-way-out.json](./104088-which-way-out.json) |
+| Which Way Up: Galaxy Games | 240762 | [240762-which-way-up-galaxy-games.json](./240762-which-way-up-galaxy-games.json) |
 | WhichWayOut? | 287703 | [287703-whichwayout.json](./287703-whichwayout.json) |
 | Whiff of Fear | 101978 | [101978-whiff-of-fear.json](./101978-whiff-of-fear.json) |
 | Whiffle Blasters | 116850 | [116850-whiffle-blasters.json](./116850-whiffle-blasters.json) |
