@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
+| Fitz 2 | 243090 | [243090-fitz-2.json](./243090-fitz-2.json) |
 | Fitzzle Adorable Puppies | 334783 | [334783-fitzzle-adorable-puppies.json](./334783-fitzzle-adorable-puppies.json) |
 | Fitzzle Mighty Bears | 334773 | [334773-fitzzle-mighty-bears.json](./334773-fitzzle-mighty-bears.json) |
 | Fitzzle Precious Dolphins | 334778 | [334778-fitzzle-precious-dolphins.json](./334778-fitzzle-precious-dolphins.json) |
