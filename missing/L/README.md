@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | Leafy Trails Collection | 294838 | [294838-leafy-trails-collection.json](./294838-leafy-trails-collection.json) |
 | League Bowling | 40206 | [40206-league-bowling.json](./40206-league-bowling.json) |
+| League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
 | League of Abyss | 312573 | [312573-league-of-abyss.json](./312573-league-of-abyss.json) |
 | League of Battle | 50522 | [50522-league-of-battle.json](./50522-league-of-battle.json) |
 | League of Champions Soccer | 152350 | [152350-league-of-champions-soccer.json](./152350-league-of-champions-soccer.json) |
@@ -2009,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
 | Lilly's Rescue | 164908 | [164908-lillys-rescue.json](./164908-lillys-rescue.json) |
 | Lillyann | 186186 | [186186-lillyann.json](./186186-lillyann.json) |
+| Lillysia | 235695 | [235695-lillysia.json](./235695-lillysia.json) |
 | Lilulu | 149412 | [149412-lilulu.json](./149412-lilulu.json) |
 | Lily | 112746 | [112746-lily.json](./112746-lily.json) |
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
