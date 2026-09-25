@@ -7268,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culinary Survivors | 264676 | [264676-culinary-survivors.json](./264676-culinary-survivors.json) |
 | Culino | 174221 | [174221-culino.json](./174221-culino.json) |
 | Cult 2112 | 119553 | [119553-cult-2112.json](./119553-cult-2112.json) |
+| Cult Adorable | 276779 | [276779-cult-adorable.json](./276779-cult-adorable.json) |
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
 | Cult Master: Ultraman ni Miserarete | 60529 | [60529-cult-master-ultraman-ni-miserarete.json](./60529-cult-master-ultraman-ni-miserarete.json) |
 | Cult Nation | 388360 | [388360-cult-nation.json](./388360-cult-nation.json) |
