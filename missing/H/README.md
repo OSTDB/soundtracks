@@ -2388,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
 | Heroes of Order & Chaos | 39181 | [39181-heroes-of-order-and-chaos.json](./39181-heroes-of-order-and-chaos.json) |
 | Heroes of Paragon | 37394 | [37394-heroes-of-paragon.json](./37394-heroes-of-paragon.json) |
+| Heroes of Rome 3: The Brotherhood | 236221 | [236221-heroes-of-rome-3-the-brotherhood.json](./236221-heroes-of-rome-3-the-brotherhood.json) |
 | Heroes of Rome: Dangerous Roads | 195722 | [195722-heroes-of-rome-dangerous-roads.json](./195722-heroes-of-rome-dangerous-roads.json) |
 | Heroes of Row | 265607 | [265607-heroes-of-row.json](./265607-heroes-of-row.json) |
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
@@ -3422,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
 | Holiday Eye Spy 2 | 391337 | [391337-holiday-eye-spy-2.json](./391337-holiday-eye-spy-2.json) |
+| Holiday Haywire | 236233 | [236233-holiday-haywire.json](./236233-holiday-haywire.json) |
 | Holiday Hits | 279774 | [279774-holiday-hits.json](./279774-holiday-hits.json) |
 | Holiday Holocaust | 273139 | [273139-holiday-holocaust.json](./273139-holiday-holocaust.json) |
 | Holiday in Europe: Netherlands Dreams - Collector's Edition | 362852 | [362852-holiday-in-europe-netherlands-dreams-collectors-edition.json](./362852-holiday-in-europe-netherlands-dreams-collectors-edition.json) |
