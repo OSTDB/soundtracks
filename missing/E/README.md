@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Starfighter | 59932 | [59932-elite-starfighter.json](./59932-elite-starfighter.json) |
 | Elite Tanks | 139414 | [139414-elite-tanks.json](./139414-elite-tanks.json) |
 | Elite Trials | 96778 | [96778-elite-trials.json](./96778-elite-trials.json) |
+| Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
@@ -1078,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embracing Darkness | 235483 | [235483-embracing-darkness.json](./235483-embracing-darkness.json) |
 | Embryogenesis | 376614 | [376614-embryogenesis.json](./376614-embryogenesis.json) |
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
+| Ememe | 280291 | [280291-ememe.json](./280291-ememe.json) |
 | Emerald | 375415 | [375415-emerald.json](./375415-emerald.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
 | Emerald Caravan | 279139 | [279139-emerald-caravan.json](./279139-emerald-caravan.json) |
@@ -1765,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erannorth Reborn | 116711 | [116711-erannorth-reborn.json](./116711-erannorth-reborn.json) |
 | Erannorth Reborn: Blood Coven Rise | 168914 | [168914-erannorth-reborn-blood-coven-rise.json](./168914-erannorth-reborn-blood-coven-rise.json) |
 | Erannorth Reborn: Canticum Noctem | 168913 | [168913-erannorth-reborn-canticum-noctem.json](./168913-erannorth-reborn-canticum-noctem.json) |
+| Erannorth Renaissance | 280288 | [280288-erannorth-renaissance.json](./280288-erannorth-renaissance.json) |
 | Eras of Alchemy | 233531 | [233531-eras-of-alchemy.json](./233531-eras-of-alchemy.json) |
 | Erase Box | 227925 | [227925-erase-box.json](./227925-erase-box.json) |
 | Erase: Missing Link | 361802 | [361802-erase-missing-link.json](./361802-erase-missing-link.json) |
@@ -2719,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
 | Evolution: Dino Dudes | 40801 | [40801-evolution-dino-dudes.json](./40801-evolution-dino-dudes.json) |
 | Evolution: Dragon X | 267354 | [267354-evolution-dragon-x.json](./267354-evolution-dragon-x.json) |
+| Evolution: From the Little Light | 280290 | [280290-evolution-from-the-little-light.json](./280290-evolution-from-the-little-light.json) |
 | Evolution: Heroes of Utopia | 56138 | [56138-evolution-heroes-of-utopia.json](./56138-evolution-heroes-of-utopia.json) |
 | Evolution: Indian Hunter - Unlimited Edition | 201261 | [201261-evolution-indian-hunter-unlimited-edition.json](./201261-evolution-indian-hunter-unlimited-edition.json) |
 | Evolution: The Game of Intelligent Life | 37049 | [37049-evolution-the-game-of-intelligent-life.json](./37049-evolution-the-game-of-intelligent-life.json) |
