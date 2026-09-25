@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telos Legacy | 229187 | [229187-telos-legacy.json](./229187-telos-legacy.json) |
 | Telstar Double Value Games: Pit-Fighter/Wrestle War | 64094 | [64094-telstar-double-value-games-pit-fighter-wrestle-war.json](./64094-telstar-double-value-games-pit-fighter-wrestle-war.json) |
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
+| Temanava | 236768 | [236768-temanava.json](./236768-temanava.json) |
 | Temari Trials | 359984 | [359984-temari-trials.json](./359984-temari-trials.json) |
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
@@ -1798,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Termite | 112748 | [112748-termite.json](./112748-termite.json) |
 | Termite | 377177 | [377177-termite.json](./377177-termite.json) |
 | Termite Man | 327380 | [327380-termite-man.json](./327380-termite-man.json) |
+| Ternion | 236757 | [236757-ternion.json](./236757-ternion.json) |
 | Terra | 183439 | [183439-terra.json](./183439-terra.json) |
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
@@ -4760,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
+| The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
 | The Last Journey | 267924 | [267924-the-last-journey.json](./267924-the-last-journey.json) |
 | The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
@@ -6183,6 +6186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rise of the Dough | 301901 | [301901-the-rise-of-the-dough.json](./301901-the-rise-of-the-dough.json) |
 | The Rise of the Golden Idol | 279614 | [279614-the-rise-of-the-golden-idol.json](./279614-the-rise-of-the-golden-idol.json) |
 | The Rise of Tianling Sect | 369584 | [369584-the-rise-of-tianling-sect.json](./369584-the-rise-of-tianling-sect.json) |
+| The Risen Survival | 236787 | [236787-the-risen-survival.json](./236787-the-risen-survival.json) |
 | The Risers | 101336 | [101336-the-risers.json](./101336-the-risers.json) |
 | The Rising | 284907 | [284907-the-rising.json](./284907-the-rising.json) |
 | The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
