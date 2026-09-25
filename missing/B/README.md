@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
 | Ball Slinger | 176374 | [176374-ball-slinger.json](./176374-ball-slinger.json) |
+| Ball Sort | 240194 | [240194-ball-sort.json](./240194-ball-sort.json) |
 | Ball Sort Puzzle | 180152 | [180152-ball-sort-puzzle.json](./180152-ball-sort-puzzle.json) |
 | Ball Space | 369735 | [369735-ball-space.json](./369735-ball-space.json) |
 | Ball Torture | 205242 | [205242-ball-torture.json](./205242-ball-torture.json) |
@@ -745,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit | 330887 | [330887-bandit.json](./330887-bandit.json) |
 | Bandit | 379999 | [379999-bandit.json](./379999-bandit.json) |
 | Bandit Accountancy | 336923 | [336923-bandit-accountancy.json](./336923-bandit-accountancy.json) |
+| Bandit Bites | 240185 | [240185-bandit-bites.json](./240185-bandit-bites.json) |
 | Bandit Buster: Western | 319785 | [319785-bandit-buster-western.json](./319785-bandit-buster-western.json) |
 | Bandit Emblem | 215148 | [215148-bandit-emblem.json](./215148-bandit-emblem.json) |
 | Bandit Kings of Ancient China | 273085 | [273085-bandit-kings-of-ancient-china.json](./273085-bandit-kings-of-ancient-china.json) |
@@ -5033,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
 | Booly | 12406 | [12406-booly.json](./12406-booly.json) |
 | Boom | 172043 | [172043-boom.json](./172043-boom.json) |
+| Boom | 240146 | [240146-boom.json](./240146-boom.json) |
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
