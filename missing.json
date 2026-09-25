@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T02:48:04.261Z",
-  "total_missing": 118893,
+  "generated_at": "2026-09-25T03:04:32.064Z",
+  "total_missing": 118943,
   "games": [
     {
       "igdb_id": 176875,
@@ -38123,6 +38123,11 @@
       "file": "missing/B/337707-back-from-the-other-world-i-missed-love.json"
     },
     {
+      "igdb_id": 275069,
+      "game_name": "Back from Void",
+      "file": "missing/B/275069-back-from-void.json"
+    },
+    {
       "igdb_id": 175840,
       "game_name": "Back Home for Christmas",
       "file": "missing/B/175840-back-home-for-christmas.json"
@@ -51516,6 +51521,11 @@
       "igdb_id": 289855,
       "game_name": "Big Klondike: FreeCell Solitaire",
       "file": "missing/B/289855-big-klondike-freecell-solitaire.json"
+    },
+    {
+      "igdb_id": 275075,
+      "game_name": "Big Klondike: Pyramid",
+      "file": "missing/B/275075-big-klondike-pyramid.json"
     },
     {
       "igdb_id": 277350,
@@ -70908,6 +70918,11 @@
       "file": "missing/B/14355-burnout.json"
     },
     {
+      "igdb_id": 275040,
+      "game_name": "Burnout",
+      "file": "missing/B/275040-burnout.json"
+    },
+    {
       "igdb_id": 410457,
       "game_name": "Burnout",
       "file": "missing/B/410457-burnout.json"
@@ -79578,6 +79593,11 @@
       "file": "missing/C/238213-catan-cities-and-knights.json"
     },
     {
+      "igdb_id": 275050,
+      "game_name": "Catan: Console Edition - Championship Maps",
+      "file": "missing/C/275050-catan-console-edition-championship-maps.json"
+    },
+    {
       "igdb_id": 288309,
       "game_name": "Catan: Console Edition - Cities & Knights",
       "file": "missing/C/288309-catan-console-edition-cities-and-knights.json"
@@ -79591,6 +79611,11 @@
       "igdb_id": 257426,
       "game_name": "Catan: Console Edition - Super Deluxe",
       "file": "missing/C/257426-catan-console-edition-super-deluxe.json"
+    },
+    {
+      "igdb_id": 275045,
+      "game_name": "Catan: Console Edition - The Helpers",
+      "file": "missing/C/275045-catan-console-edition-the-helpers.json"
     },
     {
       "igdb_id": 98936,
@@ -95513,6 +95538,11 @@
       "file": "missing/C/322774-comic-book-universe.json"
     },
     {
+      "igdb_id": 275053,
+      "game_name": "Comic Coloring Book: Complete Edition - Colors Special",
+      "file": "missing/C/275053-comic-coloring-book-complete-edition-colors-special.json"
+    },
+    {
       "igdb_id": 263528,
       "game_name": "Comic Coloring Book: Complete Edition - Draw Extended",
       "file": "missing/C/263528-comic-coloring-book-complete-edition-draw-extended.json"
@@ -101486,6 +101516,11 @@
       "igdb_id": 260426,
       "game_name": "Cozy Space",
       "file": "missing/C/260426-cozy-space.json"
+    },
+    {
+      "igdb_id": 275087,
+      "game_name": "Cozy Space Survivors",
+      "file": "missing/C/275087-cozy-space-survivors.json"
     },
     {
       "igdb_id": 339331,
@@ -120856,6 +120891,11 @@
       "igdb_id": 169957,
       "game_name": "Deep the Game: The Darkest Cave",
       "file": "missing/D/169957-deep-the-game-the-darkest-cave.json"
+    },
+    {
+      "igdb_id": 275080,
+      "game_name": "Deep Treasure",
+      "file": "missing/D/275080-deep-treasure.json"
     },
     {
       "igdb_id": 96040,
@@ -155718,6 +155758,11 @@
       "file": "missing/E/294823-erogods-mirage.json"
     },
     {
+      "igdb_id": 275043,
+      "game_name": "Erogods: Olympus",
+      "file": "missing/E/275043-erogods-olympus.json"
+    },
+    {
       "igdb_id": 199606,
       "game_name": "Eros Fantasy",
       "file": "missing/E/199606-eros-fantasy.json"
@@ -184008,9 +184053,19 @@
       "file": "missing/F/308803-freaky-trip-amazing-edition.json"
     },
     {
+      "igdb_id": 275059,
+      "game_name": "Freaky Trip: Deluxe Edition",
+      "file": "missing/F/275059-freaky-trip-deluxe-edition.json"
+    },
+    {
       "igdb_id": 277913,
       "game_name": "Freaky Trip: Extended Edition",
       "file": "missing/F/277913-freaky-trip-extended-edition.json"
+    },
+    {
+      "igdb_id": 275056,
+      "game_name": "Freaky Trip: Fall Pack",
+      "file": "missing/F/275056-freaky-trip-fall-pack.json"
     },
     {
       "igdb_id": 294828,
@@ -184033,6 +184088,16 @@
       "file": "missing/F/283175-freaky-trip-special-edition.json"
     },
     {
+      "igdb_id": 275055,
+      "game_name": "Freaky Trip: Spring Pack",
+      "file": "missing/F/275055-freaky-trip-spring-pack.json"
+    },
+    {
+      "igdb_id": 275058,
+      "game_name": "Freaky Trip: Summer Pack",
+      "file": "missing/F/275058-freaky-trip-summer-pack.json"
+    },
+    {
       "igdb_id": 315864,
       "game_name": "Freaky Trip: Superb Edition",
       "file": "missing/F/315864-freaky-trip-superb-edition.json"
@@ -184041,6 +184106,11 @@
       "igdb_id": 324463,
       "game_name": "Freaky Trip: Ultra Deluxe",
       "file": "missing/F/324463-freaky-trip-ultra-deluxe.json"
+    },
+    {
+      "igdb_id": 275052,
+      "game_name": "Freaky Trip: Winter Pack",
+      "file": "missing/F/275052-freaky-trip-winter-pack.json"
     },
     {
       "igdb_id": 6771,
@@ -190536,6 +190606,11 @@
       "igdb_id": 232681,
       "game_name": "Galacticraft",
       "file": "missing/G/232681-galacticraft.json"
+    },
+    {
+      "igdb_id": 275071,
+      "game_name": "Galacticverse",
+      "file": "missing/G/275071-galacticverse.json"
     },
     {
       "igdb_id": 381042,
@@ -205998,6 +206073,11 @@
       "file": "missing/G/50623-gremlins-gizmo.json"
     },
     {
+      "igdb_id": 275065,
+      "game_name": "Gremlore",
+      "file": "missing/G/275065-gremlore.json"
+    },
+    {
       "igdb_id": 386710,
       "game_name": "Grems",
       "file": "missing/G/386710-grems.json"
@@ -209501,6 +209581,11 @@
       "igdb_id": 357271,
       "game_name": "Gungrave G.O.R.E: Street Grave",
       "file": "missing/G/357271-gungrave-g-o-r-e-street-grave.json"
+    },
+    {
+      "igdb_id": 275046,
+      "game_name": "Gungrave G.O.R.E: Ultimate Enhanced Edition - Harry Macdowel",
+      "file": "missing/G/275046-gungrave-g-o-r-e-ultimate-enhanced-edition-harry-macdowel.json"
     },
     {
       "igdb_id": 166230,
@@ -227018,6 +227103,11 @@
       "file": "missing/H/380392-hole-io-construction-dlc.json"
     },
     {
+      "igdb_id": 275051,
+      "game_name": "Hole io: Freak Edition",
+      "file": "missing/H/275051-hole-io-freak-edition.json"
+    },
+    {
       "igdb_id": 263555,
       "game_name": "Hole io: Freaks DLC",
       "file": "missing/H/263555-hole-io-freaks-dlc.json"
@@ -234401,6 +234491,11 @@
       "igdb_id": 349938,
       "game_name": "Hyper Metroid Super",
       "file": "missing/H/349938-hyper-metroid-super.json"
+    },
+    {
+      "igdb_id": 275088,
+      "game_name": "Hyper Mirror Run",
+      "file": "missing/H/275088-hyper-mirror-run.json"
     },
     {
       "igdb_id": 278484,
@@ -242186,6 +242281,11 @@
       "igdb_id": 281398,
       "game_name": "Infestation: Origins",
       "file": "missing/I/281398-infestation-origins.json"
+    },
+    {
+      "igdb_id": 275068,
+      "game_name": "Infested Grounds",
+      "file": "missing/I/275068-infested-grounds.json"
     },
     {
       "igdb_id": 53231,
@@ -250491,6 +250591,11 @@
       "igdb_id": 30247,
       "game_name": "Jeklynn Heights",
       "file": "missing/J/30247-jeklynn-heights.json"
+    },
+    {
+      "igdb_id": 275067,
+      "game_name": "Jekyll Hakase no Houma ga Toki",
+      "file": "missing/J/275067-jekyll-hakase-no-houma-ga-toki.json"
     },
     {
       "igdb_id": 78705,
@@ -268441,6 +268546,11 @@
       "igdb_id": 291737,
       "game_name": "La Llorona Wants Your Soul",
       "file": "missing/L/291737-la-llorona-wants-your-soul.json"
+    },
+    {
+      "igdb_id": 275086,
+      "game_name": "La Malédiction",
+      "file": "missing/L/275086-la-malediction.json"
     },
     {
       "igdb_id": 191225,
@@ -305013,6 +305123,11 @@
       "file": "missing/M/281409-merge-fellas.json"
     },
     {
+      "igdb_id": 275044,
+      "game_name": "Merge Games Adventure Bundle",
+      "file": "missing/M/275044-merge-games-adventure-bundle.json"
+    },
+    {
       "igdb_id": 276454,
       "game_name": "Merge Games Japan Best",
       "file": "missing/M/276454-merge-games-japan-best.json"
@@ -310951,6 +311066,11 @@
       "igdb_id": 96705,
       "game_name": "Minesweeper Challenge",
       "file": "missing/M/96705-minesweeper-challenge.json"
+    },
+    {
+      "igdb_id": 275090,
+      "game_name": "Minesweeper Collector 2",
+      "file": "missing/M/275090-minesweeper-collector-2.json"
     },
     {
       "igdb_id": 74419,
@@ -320463,6 +320583,11 @@
       "file": "missing/M/277895-moto-rush-gt-ny-edition.json"
     },
     {
+      "igdb_id": 275048,
+      "game_name": "Moto Rush GT: Platinium Edition",
+      "file": "missing/M/275048-moto-rush-gt-platinium-edition.json"
+    },
+    {
       "igdb_id": 271503,
       "game_name": "Moto Rush GT: Prime Edition",
       "file": "missing/M/271503-moto-rush-gt-prime-edition.json"
@@ -326723,6 +326848,21 @@
       "file": "missing/M/275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json"
     },
     {
+      "igdb_id": 275057,
+      "game_name": "My Time at Sandrock: Builders Beach and Ball Clothing Pack",
+      "file": "missing/M/275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json"
+    },
+    {
+      "igdb_id": 275076,
+      "game_name": "My Time at Sandrock: Cute Critter Furniture Pack",
+      "file": "missing/M/275076-my-time-at-sandrock-cute-critter-furniture-pack.json"
+    },
+    {
+      "igdb_id": 275079,
+      "game_name": "My Time at Sandrock: Far East Furniture Pack",
+      "file": "missing/M/275079-my-time-at-sandrock-far-east-furniture-pack.json"
+    },
+    {
       "igdb_id": 275106,
       "game_name": "My Time at Sandrock: Interior Decorator Pack",
       "file": "missing/M/275106-my-time-at-sandrock-interior-decorator-pack.json"
@@ -326741,6 +326881,11 @@
       "igdb_id": 306487,
       "game_name": "My Time at Sandrock: Online",
       "file": "missing/M/306487-my-time-at-sandrock-online.json"
+    },
+    {
+      "igdb_id": 275077,
+      "game_name": "My Time at Sandrock: Pet Pack - Lil Gecko",
+      "file": "missing/M/275077-my-time-at-sandrock-pet-pack-lil-gecko.json"
     },
     {
       "igdb_id": 277822,
@@ -357908,6 +358053,11 @@
       "file": "missing/P/174743-paper-heroes.json"
     },
     {
+      "igdb_id": 275049,
+      "game_name": "Paper io 2: Animals Edition",
+      "file": "missing/P/275049-paper-io-2-animals-edition.json"
+    },
+    {
       "igdb_id": 331857,
       "game_name": "Paper io 2: Complete Edition",
       "file": "missing/P/331857-paper-io-2-complete-edition.json"
@@ -369468,6 +369618,11 @@
       "file": "missing/P/312156-piratewar.json"
     },
     {
+      "igdb_id": 275091,
+      "game_name": "Piron Virus",
+      "file": "missing/P/275091-piron-virus.json"
+    },
+    {
       "igdb_id": 276754,
       "game_name": "PiroPito",
       "file": "missing/P/276754-piropito.json"
@@ -377293,6 +377448,11 @@
       "file": "missing/P/174831-polytone.json"
     },
     {
+      "igdb_id": 275036,
+      "game_name": "Polyturbo Drift Racing Simulator",
+      "file": "missing/P/275036-polyturbo-drift-racing-simulator.json"
+    },
+    {
       "igdb_id": 326772,
       "game_name": "Polywar",
       "file": "missing/P/326772-polywar.json"
@@ -381096,6 +381256,11 @@
       "igdb_id": 241962,
       "game_name": "Primal Carnage: Extinction - Prehistoric Legacy",
       "file": "missing/P/241962-primal-carnage-extinction-prehistoric-legacy.json"
+    },
+    {
+      "igdb_id": 274973,
+      "game_name": "Primal Carnage: Extinction - Ultimate Bruiser Pack",
+      "file": "missing/P/274973-primal-carnage-extinction-ultimate-bruiser-pack.json"
     },
     {
       "igdb_id": 274974,
@@ -408966,6 +409131,16 @@
       "igdb_id": 271282,
       "game_name": "RoboCop: Rogue City - Alex Murphy Edition",
       "file": "missing/R/271282-robocop-rogue-city-alex-murphy-edition.json"
+    },
+    {
+      "igdb_id": 275073,
+      "game_name": "RoboCop: Rogue City - Alex Murphy Pack",
+      "file": "missing/R/275073-robocop-rogue-city-alex-murphy-pack.json"
+    },
+    {
+      "igdb_id": 275074,
+      "game_name": "RoboCop: Rogue City - Vanguard Pack",
+      "file": "missing/R/275074-robocop-rogue-city-vanguard-pack.json"
     },
     {
       "igdb_id": 58794,
@@ -443148,6 +443323,11 @@
       "file": "missing/S/310190-slip-n-slime.json"
     },
     {
+      "igdb_id": 275082,
+      "game_name": "Slip & Skid",
+      "file": "missing/S/275082-slip-and-skid.json"
+    },
+    {
       "igdb_id": 271189,
       "game_name": "Slip Tripping",
       "file": "missing/S/271189-slip-tripping.json"
@@ -449523,6 +449703,11 @@
       "file": "missing/S/319147-songs-of-conquest-vanir.json"
     },
     {
+      "igdb_id": 275083,
+      "game_name": "Songs of Everjade",
+      "file": "missing/S/275083-songs-of-everjade.json"
+    },
+    {
       "igdb_id": 383020,
       "game_name": "Songs of Silence: Celestial Church Expansion",
       "file": "missing/S/383020-songs-of-silence-celestial-church-expansion.json"
@@ -455543,6 +455728,11 @@
       "file": "missing/S/252730-space-stranger.json"
     },
     {
+      "igdb_id": 275093,
+      "game_name": "Space Strider",
+      "file": "missing/S/275093-space-strider.json"
+    },
+    {
       "igdb_id": 310971,
       "game_name": "Space Subtraction",
       "file": "missing/S/310971-space-subtraction.json"
@@ -460611,6 +460801,11 @@
       "igdb_id": 216877,
       "game_name": "Spotfight",
       "file": "missing/S/216877-spotfight.json"
+    },
+    {
+      "igdb_id": 275089,
+      "game_name": "Spotless",
+      "file": "missing/S/275089-spotless.json"
     },
     {
       "igdb_id": 277565,
@@ -480241,6 +480436,16 @@
       "igdb_id": 112431,
       "game_name": "Super Robot Taisen T",
       "file": "missing/S/112431-super-robot-taisen-t.json"
+    },
+    {
+      "igdb_id": 275061,
+      "game_name": "Super Robot Taisen T: Bonus Scenario Full Pack",
+      "file": "missing/S/275061-super-robot-taisen-t-bonus-scenario-full-pack.json"
+    },
+    {
+      "igdb_id": 275062,
+      "game_name": "Super Robot Taisen T: Expansion Pack",
+      "file": "missing/S/275062-super-robot-taisen-t-expansion-pack.json"
     },
     {
       "igdb_id": 21405,
@@ -518818,6 +519023,11 @@
       "file": "missing/T/121027-the-sims-4-fitness-stuff.json"
     },
     {
+      "igdb_id": 275084,
+      "game_name": "The Sims 4: For Rent",
+      "file": "missing/T/275084-the-sims-4-for-rent.json"
+    },
+    {
       "igdb_id": 13143,
       "game_name": "The Sims 4: Get to Work",
       "file": "missing/T/13143-the-sims-4-get-to-work.json"
@@ -519321,6 +519531,11 @@
       "igdb_id": 83900,
       "game_name": "The Smurfs 2",
       "file": "missing/T/83900-the-smurfs-2.json"
+    },
+    {
+      "igdb_id": 275060,
+      "game_name": "The Smurfs 2: The Prisoner of the Green Stone: Corrupted Outfit / Farmer Outfit / Adorable Outfit",
+      "file": "missing/T/275060-the-smurfs-2-the-prisoner-of-the-green-stone-corrupted-outfit-farmer-outfit-adorable-outfit.json"
     },
     {
       "igdb_id": 248647,
@@ -531878,6 +532093,11 @@
       "file": "missing/T/399808-tiny-auto-knights-supporter-pack.json"
     },
     {
+      "igdb_id": 275085,
+      "game_name": "Tiny Balls",
+      "file": "missing/T/275085-tiny-balls.json"
+    },
+    {
       "igdb_id": 16693,
       "game_name": "Tiny Barbarian DX",
       "file": "missing/T/16693-tiny-barbarian-dx.json"
@@ -533216,6 +533436,11 @@
       "igdb_id": 282570,
       "game_name": "To Tell the Truth",
       "file": "missing/T/282570-to-tell-the-truth.json"
+    },
+    {
+      "igdb_id": 275092,
+      "game_name": "To the Basement",
+      "file": "missing/T/275092-to-the-basement.json"
     },
     {
       "igdb_id": 348787,
@@ -547753,6 +547978,11 @@
       "file": "missing/T/270748-tsykial.json"
     },
     {
+      "igdb_id": 275041,
+      "game_name": "TT Isle of Man: Collection",
+      "file": "missing/T/275041-tt-isle-of-man-collection.json"
+    },
+    {
       "igdb_id": 253565,
       "game_name": "TTA 1",
       "file": "missing/T/253565-tta-1.json"
@@ -559026,6 +559256,11 @@
       "igdb_id": 137469,
       "game_name": "Vandozer",
       "file": "missing/V/137469-vandozer.json"
+    },
+    {
+      "igdb_id": 275094,
+      "game_name": "Vangaro Tactics",
+      "file": "missing/V/275094-vangaro-tactics.json"
     },
     {
       "igdb_id": 70916,
@@ -581823,6 +582058,11 @@
       "file": "missing/W/251049-world-war-combat-guardian.json"
     },
     {
+      "igdb_id": 275042,
+      "game_name": "World War: D-Day Part One",
+      "file": "missing/W/275042-world-war-d-day-part-one.json"
+    },
+    {
       "igdb_id": 278663,
       "game_name": "World War: D-Day Part Two",
       "file": "missing/W/278663-world-war-d-day-part-two.json"
@@ -582676,6 +582916,11 @@
       "igdb_id": 136246,
       "game_name": "WRC 9: Deluxe Edition",
       "file": "missing/W/136246-wrc-9-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 275038,
+      "game_name": "WRC Collection",
+      "file": "missing/W/275038-wrc-collection.json"
     },
     {
       "igdb_id": 299871,
@@ -592556,6 +592801,11 @@
       "igdb_id": 277914,
       "game_name": "Zombie Defense: Commando Edition",
       "file": "missing/Z/277914-zombie-defense-commando-edition.json"
+    },
+    {
+      "igdb_id": 275047,
+      "game_name": "Zombie Defense: Definitive Edition",
+      "file": "missing/Z/275047-zombie-defense-definitive-edition.json"
     },
     {
       "igdb_id": 400206,
