@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
 | 5 Nights at Timokha's 4 School | 326230 | [326230-5-nights-at-timokhas-4-school.json](./326230-5-nights-at-timokhas-4-school.json) |
 | 5 O'clock Lock | 308333 | [308333-5-oclock-lock.json](./308333-5-oclock-lock.json) |
+| 5 Points Mall | 276764 | [276764-5-points-mall.json](./276764-5-points-mall.json) |
 | 5 Star Fishy | 245937 | [245937-5-star-fishy.json](./245937-5-star-fishy.json) |
 | 5 Star Hawaii Resort | 338906 | [338906-5-star-hawaii-resort.json](./338906-5-star-hawaii-resort.json) |
 | 5 Star Miami Resort | 338907 | [338907-5-star-miami-resort.json](./338907-5-star-miami-resort.json) |
