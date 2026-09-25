@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
 | A Rite from the Stars: Remaster Edition | 298690 | [298690-a-rite-from-the-stars-remaster-edition.json](./298690-a-rite-from-the-stars-remaster-edition.json) |
 | A Road That May Lead Nowhere | 77658 | [77658-a-road-that-may-lead-nowhere.json](./77658-a-road-that-may-lead-nowhere.json) |
+| A Roaming Wildebeest In Spain | 271244 | [271244-a-roaming-wildebeest-in-spain.json](./271244-a-roaming-wildebeest-in-spain.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Room Beyond | 33421 | [33421-a-room-beyond.json](./33421-a-room-beyond.json) |
 | A Room With a Ghost Girl | 306426 | [306426-a-room-with-a-ghost-girl.json](./306426-a-room-with-a-ghost-girl.json) |
@@ -880,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
+| Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
 | Adarin Farm | 187408 | [187408-adarin-farm.json](./187408-adarin-farm.json) |
@@ -2681,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
 | Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
 | Ambush in Sector 9 | 311279 | [311279-ambush-in-sector-9.json](./311279-ambush-in-sector-9.json) |
+| Ambush Keen Pilgrims | 271247 | [271247-ambush-keen-pilgrims.json](./271247-ambush-keen-pilgrims.json) |
 | Ambush Tactics | 61604 | [61604-ambush-tactics.json](./61604-ambush-tactics.json) |
 | Ambush Tactics Advanced | 256921 | [256921-ambush-tactics-advanced.json](./256921-ambush-tactics-advanced.json) |
 | Ambush: Convoy Strike | 154559 | [154559-ambush-convoy-strike.json](./154559-ambush-convoy-strike.json) |
@@ -2688,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambusher | 267479 | [267479-ambusher.json](./267479-ambusher.json) |
 | Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
 | Ame ni Negaeba: Wishin' in the Rain | 301601 | [301601-ame-ni-negaeba-wishin-in-the-rain.json](./301601-ame-ni-negaeba-wishin-in-the-rain.json) |
+| Ame ni Utau Tanshikyoku: A Rainbow After the Rain | 271170 | [271170-ame-ni-utau-tanshikyoku-a-rainbow-after-the-rain.json](./271170-ame-ni-utau-tanshikyoku-a-rainbow-after-the-rain.json) |
 | Ame no Marginal -Rain Marginal- | 35747 | [35747-ame-no-marginal-rain-marginal.json](./35747-ame-no-marginal-rain-marginal.json) |
 | Ame no Tokyo Eki | 286662 | [286662-ame-no-tokyo-eki.json](./286662-ame-no-tokyo-eki.json) |
 | Ameagari no Hanaby | 104847 | [104847-ameagari-no-hanaby.json](./104847-ameagari-no-hanaby.json) |
@@ -3677,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
+| Antediluvian | 271251 | [271251-antediluvian.json](./271251-antediluvian.json) |
 | Antegods | 34252 | [34252-antegods.json](./34252-antegods.json) |
 | Antepenult | 356851 | [356851-antepenult.json](./356851-antepenult.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
@@ -3828,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Escape: On the Loose | 44530 | [44530-ape-escape-on-the-loose.json](./44530-ape-escape-on-the-loose.json) |
 | Ape Hit | 107824 | [107824-ape-hit.json](./107824-ape-hit.json) |
 | Ape Out | 27719 | [27719-ape-out.json](./27719-ape-out.json) |
+| Ape Reunion | 271267 | [271267-ape-reunion.json](./271267-ape-reunion.json) |
 | Aperture | 287217 | [287217-aperture.json](./287217-aperture.json) |
 | Aperture Desk Job | 191897 | [191897-aperture-desk-job.json](./191897-aperture-desk-job.json) |
 | Aperture Ireland | 284363 | [284363-aperture-ireland.json](./284363-aperture-ireland.json) |
