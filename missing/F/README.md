@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Islands Games Bundle | 147812 | [147812-flying-islands-games-bundle.json](./147812-flying-islands-games-bundle.json) |
 | Flying Kick | 181237 | [181237-flying-kick.json](./181237-flying-kick.json) |
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
+| Flying Mustaches | 260201 | [260201-flying-mustaches.json](./260201-flying-mustaches.json) |
 | Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Shot | 127766 | [127766-flying-shot.json](./127766-flying-shot.json) |
