@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Dev Vs Kirby Dark Dawn | 395700 | [395700-waddle-dev-vs-kirby-dark-dawn.json](./395700-waddle-dev-vs-kirby-dark-dawn.json) |
 | Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
+| Waddle Wars: Roguelike Defense | 266831 | [266831-waddle-wars-roguelike-defense.json](./266831-waddle-wars-roguelike-defense.json) |
 | Waffle House | 301335 | [301335-waffle-house.json](./301335-waffle-house.json) |
 | Waffle Spin Ball | 360671 | [360671-waffle-spin-ball.json](./360671-waffle-spin-ball.json) |
 | Wag | 312562 | [312562-wag.json](./312562-wag.json) |
@@ -2892,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Shuffle | 108263 | [108263-word-shuffle.json](./108263-word-shuffle.json) |
 | Word Soup | 23405 | [23405-word-soup.json](./23405-word-soup.json) |
 | Word Space | 270775 | [270775-word-space.json](./270775-word-space.json) |
+| Word Spell Game: Yes or No ? | 266833 | [266833-word-spell-game-yes-or-no.json](./266833-word-spell-game-yes-or-no.json) |
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
 | Word Surf | 208941 | [208941-word-surf.json](./208941-word-surf.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
