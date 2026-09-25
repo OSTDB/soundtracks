@@ -3956,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl in the Tower of Steel | 256326 | [256326-the-girl-in-the-tower-of-steel.json](./256326-the-girl-in-the-tower-of-steel.json) |
 | The Girl in the Window | 221722 | [221722-the-girl-in-the-window.json](./221722-the-girl-in-the-window.json) |
 | The Girl on the Train | 74247 | [74247-the-girl-on-the-train.json](./74247-the-girl-on-the-train.json) |
+| The Girl Who Kicked a Rabbit | 253302 | [253302-the-girl-who-kicked-a-rabbit.json](./253302-the-girl-who-kicked-a-rabbit.json) |
 | The Girl Who Sees | 149576 | [149576-the-girl-who-sees.json](./149576-the-girl-who-sees.json) |
 | The Girl With The Bow | 354515 | [354515-the-girl-with-the-bow.json](./354515-the-girl-with-the-bow.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
@@ -4824,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Train: Final Ride | 175364 | [175364-the-last-train-final-ride.json](./175364-the-last-train-final-ride.json) |
 | The Last Transmission | 356685 | [356685-the-last-transmission.json](./356685-the-last-transmission.json) |
 | The Last Vampire Hunter | 301279 | [301279-the-last-vampire-hunter.json](./301279-the-last-vampire-hunter.json) |
+| The Last Veggies | 253319 | [253319-the-last-veggies.json](./253319-the-last-veggies.json) |
 | The Last Visit: 98th | 344345 | [344345-the-last-visit-98th.json](./344345-the-last-visit-98th.json) |
 | The Last War | 173257 | [173257-the-last-war.json](./173257-the-last-war.json) |
 | The Last Warlock | 34881 | [34881-the-last-warlock.json](./34881-the-last-warlock.json) |
@@ -5364,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maw: Speeder Lane | 164364 | [164364-the-maw-speeder-lane.json](./164364-the-maw-speeder-lane.json) |
 | The Maze | 107158 | [107158-the-maze.json](./107158-the-maze.json) |
 | The Maze | 169859 | [169859-the-maze.json](./169859-the-maze.json) |
+| The Maze | 253333 | [253333-the-maze.json](./253333-the-maze.json) |
 | The Maze | 377305 | [377305-the-maze.json](./377305-the-maze.json) |
 | The Maze : Endless nightmare | 29763 | [29763-the-maze-endless-nightmare.json](./29763-the-maze-endless-nightmare.json) |
 | The Maze Contract | 276157 | [276157-the-maze-contract.json](./276157-the-maze-contract.json) |
