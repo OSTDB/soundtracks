@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Planets | 175396 | [175396-7-planets.json](./175396-7-planets.json) |
 | 7 Servant's Blade | 372679 | [372679-7-servants-blade.json](./372679-7-servants-blade.json) |
 | 7 Sexy Sins | 127921 | [127921-7-sexy-sins.json](./127921-7-sexy-sins.json) |
+| 7 Sins: Lost in Labyrinth | 236243 | [236243-7-sins-lost-in-labyrinth.json](./236243-7-sins-lost-in-labyrinth.json) |
 | 7 Soccer: a sci-fi soccer tale | 88178 | [88178-7-soccer-a-sci-fi-soccer-tale.json](./88178-7-soccer-a-sci-fi-soccer-tale.json) |
 | 7 Wonders | 89128 | [89128-7-wonders.json](./89128-7-wonders.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
