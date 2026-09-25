@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Fable Quest | 334188 | [334188-card-fable-quest.json](./334188-card-fable-quest.json) |
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
 | Card Games Mega Collection | 104032 | [104032-card-games-mega-collection.json](./104032-card-games-mega-collection.json) |
+| Card Games: Solitaire and more | 232363 | [232363-card-games-solitaire-and-more.json](./232363-card-games-solitaire-and-more.json) |
 | Card Gauntlet | 335363 | [335363-card-gauntlet.json](./335363-card-gauntlet.json) |
 | Card Girl Army | 195205 | [195205-card-girl-army.json](./195205-card-girl-army.json) |
 | Card Girl Army II | 196692 | [196692-card-girl-army-ii.json](./196692-card-girl-army-ii.json) |
@@ -1518,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Summoner: Block Puzzle | 357979 | [357979-cat-summoner-block-puzzle.json](./357979-cat-summoner-block-puzzle.json) |
 | Cat Survivors | 289374 | [289374-cat-survivors.json](./289374-cat-survivors.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
+| Cat Tiles: Matching Puzzle | 232377 | [232377-cat-tiles-matching-puzzle.json](./232377-cat-tiles-matching-puzzle.json) |
 | Cat Train | 177493 | [177493-cat-train.json](./177493-cat-train.json) |
 | Cat Tree | 326792 | [326792-cat-tree.json](./326792-cat-tree.json) |
 | Cat Tsunami | 388233 | [388233-cat-tsunami.json](./388233-cat-tsunami.json) |
@@ -2532,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Master | 346114 | [346114-chess-master.json](./346114-chess-master.json) |
 | Chess Mega Bundle | 152872 | [152872-chess-mega-bundle.json](./152872-chess-mega-bundle.json) |
 | Chess Minimal | 147955 | [147955-chess-minimal.json](./147955-chess-minimal.json) |
+| Chess Minis | 232378 | [232378-chess-minis.json](./232378-chess-minis.json) |
 | Chess Mix | 135240 | [135240-chess-mix.json](./135240-chess-mix.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
@@ -5159,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect | 350064 | [350064-connect.json](./350064-connect.json) |
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
 | Connect 4 Deluxe | 205623 | [205623-connect-4-deluxe.json](./205623-connect-4-deluxe.json) |
+| Connect 4 Faces: Match & Play | 232389 | [232389-connect-4-faces-match-and-play.json](./232389-connect-4-faces-match-and-play.json) |
 | Connect Bricks | 153827 | [153827-connect-bricks.json](./153827-connect-bricks.json) |
 | Connect Dots | 396371 | [396371-connect-dots.json](./396371-connect-dots.json) |
 | Connect Four | 45935 | [45935-connect-four.json](./45935-connect-four.json) |
@@ -6456,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Penguin Catapult 2 | 67968 | [67968-crazy-penguin-catapult-2.json](./67968-crazy-penguin-catapult-2.json) |
 | Crazy Penguin Diner Run | 101974 | [101974-crazy-penguin-diner-run.json](./101974-crazy-penguin-diner-run.json) |
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
+| Crazy Pirate Slots | 232364 | [232364-crazy-pirate-slots.json](./232364-crazy-pirate-slots.json) |
 | Crazy Pitcher | 227255 | [227255-crazy-pitcher.json](./227255-crazy-pitcher.json) |
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
 | Crazy Plane Landing | 208460 | [208460-crazy-plane-landing.json](./208460-crazy-plane-landing.json) |
@@ -7091,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Online | 24953 | [24953-crush-online.json](./24953-crush-online.json) |
 | Crush Roller | 39641 | [39641-crush-roller.json](./39641-crush-roller.json) |
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
+| Crush the Monsters: Cannon Game | 232398 | [232398-crush-the-monsters-cannon-game.json](./232398-crush-the-monsters-cannon-game.json) |
 | Crush Your Enemies: Complete Plundered Edition | 52856 | [52856-crush-your-enemies-complete-plundered-edition.json](./52856-crush-your-enemies-complete-plundered-edition.json) |
 | CrushBorgs | 199626 | [199626-crushborgs.json](./199626-crushborgs.json) |
 | CrushCrushCrushCrush | 391218 | [391218-crushcrushcrushcrush.json](./391218-crushcrushcrushcrush.json) |
