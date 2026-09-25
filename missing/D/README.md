@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the killer zombies | 90626 | [90626-dawn-of-the-killer-zombies.json](./90626-dawn-of-the-killer-zombies.json) |
 | Dawn of the Mexica | 143739 | [143739-dawn-of-the-mexica.json](./143739-dawn-of-the-mexica.json) |
 | Dawn of the Monsters: Arcade Edition | 252364 | [252364-dawn-of-the-monsters-arcade-edition.json](./252364-dawn-of-the-monsters-arcade-edition.json) |
+| Dawn of the Monsters: Full Game plus Arcade + Character DLC Pack Bundle | 263530 | [263530-dawn-of-the-monsters-full-game-plus-arcade-character-dlc-pack-bundle.json](./263530-dawn-of-the-monsters-full-game-plus-arcade-character-dlc-pack-bundle.json) |
 | Dawn of the Saviours | 50813 | [50813-dawn-of-the-saviours.json](./50813-dawn-of-the-saviours.json) |
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
 | Dawn of the Universe | 395171 | [395171-dawn-of-the-universe.json](./395171-dawn-of-the-universe.json) |
@@ -4189,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who Infinity: The Horror of Flat Holm | 164452 | [164452-doctor-who-infinity-the-horror-of-flat-holm.json](./164452-doctor-who-infinity-the-horror-of-flat-holm.json) |
 | Doctor Who Infinity: The Lady of the Lake | 164451 | [164451-doctor-who-infinity-the-lady-of-the-lake.json](./164451-doctor-who-infinity-the-lady-of-the-lake.json) |
 | Doctor Who Infinity: The Silent Streets of Barry Island | 164450 | [164450-doctor-who-infinity-the-silent-streets-of-barry-island.json](./164450-doctor-who-infinity-the-silent-streets-of-barry-island.json) |
+| Doctor Who Monster Invasion: Escape the Silence | 263532 | [263532-doctor-who-monster-invasion-escape-the-silence.json](./263532-doctor-who-monster-invasion-escape-the-silence.json) |
 | Doctor Who: An Unlikely Heist | 245024 | [245024-doctor-who-an-unlikely-heist.json](./245024-doctor-who-an-unlikely-heist.json) |
 | Doctor Who: Art Attack | 249279 | [249279-doctor-who-art-attack.json](./249279-doctor-who-art-attack.json) |
 | Doctor Who: Black Hole | 249293 | [249293-doctor-who-black-hole.json](./249293-doctor-who-black-hole.json) |
@@ -4197,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
 | Doctor Who: Don't Blink | 301932 | [301932-doctor-who-dont-blink.json](./301932-doctor-who-dont-blink.json) |
 | Doctor Who: Evacuation Earth | 47842 | [47842-doctor-who-evacuation-earth.json](./47842-doctor-who-evacuation-earth.json) |
+| Doctor Who: Eye of the TARDIS | 263535 | [263535-doctor-who-eye-of-the-tardis.json](./263535-doctor-who-eye-of-the-tardis.json) |
 | Doctor Who: Flight Simulator | 263558 | [263558-doctor-who-flight-simulator.json](./263558-doctor-who-flight-simulator.json) |
 | Doctor Who: Into the Vortex | 235317 | [235317-doctor-who-into-the-vortex.json](./235317-doctor-who-into-the-vortex.json) |
 | Doctor Who: Jobsworth Judoon | 301942 | [301942-doctor-who-jobsworth-judoon.json](./301942-doctor-who-jobsworth-judoon.json) |
