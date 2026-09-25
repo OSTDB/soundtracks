@@ -1982,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrapulse | 61868 | [61868-tetrapulse.json](./61868-tetrapulse.json) |
 | Tetras | 336118 | [336118-tetras.json](./336118-tetras.json) |
 | Tetraspace | 59929 | [59929-tetraspace.json](./59929-tetraspace.json) |
+| TetraSquare | 235132 | [235132-tetrasquare.json](./235132-tetrasquare.json) |
 | TetraTower | 183506 | [183506-tetratower.json](./183506-tetratower.json) |
 | Tetri-Pentix | 87930 | [87930-tetri-pentix.json](./87930-tetri-pentix.json) |
 | Tetri3D | 88285 | [88285-tetri3d.json](./88285-tetri3d.json) |
@@ -4878,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Warlock | 34881 | [34881-the-last-warlock.json](./34881-the-last-warlock.json) |
 | The Last Warmage | 298631 | [298631-the-last-warmage.json](./298631-the-last-warmage.json) |
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
+| The Last Werewolf | 235177 | [235177-the-last-werewolf.json](./235177-the-last-werewolf.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
 | The Last Worlds: Crossed Souls | 374130 | [374130-the-last-worlds-crossed-souls.json](./374130-the-last-worlds-crossed-souls.json) |
@@ -5566,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mousing Cat | 41564 | [41564-the-mousing-cat.json](./41564-the-mousing-cat.json) |
 | The Mouth Of The Woods | 282090 | [282090-the-mouth-of-the-woods.json](./282090-the-mouth-of-the-woods.json) |
 | The Movie Trivia Challenge | 102100 | [102100-the-movie-trivia-challenge.json](./102100-the-movie-trivia-challenge.json) |
+| The Mujo | 235163 | [235163-the-mujo.json](./235163-the-mujo.json) |
 | The Mulldoon Legacy | 60025 | [60025-the-mulldoon-legacy.json](./60025-the-mulldoon-legacy.json) |
 | The Mulldoon Murders | 60029 | [60029-the-mulldoon-murders.json](./60029-the-mulldoon-murders.json) |
 | The Multi-Medium | 216996 | [216996-the-multi-medium.json](./216996-the-multi-medium.json) |
@@ -10383,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Your Eyes | 275695 | [275695-touch-your-eyes.json](./275695-touch-your-eyes.json) |
 | Touchdown | 346102 | [346102-touchdown.json](./346102-touchdown.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
+| TouchDown Rush | 235151 | [235151-touchdown-rush.json](./235151-touchdown-rush.json) |
 | TouchFish | 137011 | [137011-touchfish.json](./137011-touchfish.json) |
 | Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
