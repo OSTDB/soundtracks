@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yearn 2 Learn | 93385 | [93385-yearn-2-learn.json](./93385-yearn-2-learn.json) |
 | Yearning | 111497 | [111497-yearning.json](./111497-yearning.json) |
 | Yearning: A Gay Story | 127785 | [127785-yearning-a-gay-story.json](./127785-yearning-a-gay-story.json) |
+| Yebushou: Defeat Pirates | 261853 | [261853-yebushou-defeat-pirates.json](./261853-yebushou-defeat-pirates.json) |
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
 | Yeeps | 304187 | [304187-yeeps.json](./304187-yeeps.json) |
