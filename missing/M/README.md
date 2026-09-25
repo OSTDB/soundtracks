@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
 | Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
+| Magic Force | 265100 | [265100-magic-force.json](./265100-magic-force.json) |
 | Magic Forest Escape | 315647 | [315647-magic-forest-escape.json](./315647-magic-forest-escape.json) |
 | Magic Forest Escape 2 | 315653 | [315653-magic-forest-escape-2.json](./315653-magic-forest-escape-2.json) |
 | Magic Forest Escape 3 | 315665 | [315665-magic-forest-escape-3.json](./315665-magic-forest-escape-3.json) |
@@ -2148,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchmension: House of Mist | 197915 | [197915-matchmension-house-of-mist.json](./197915-matchmension-house-of-mist.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
 | Matchpoint: Tennis Championships - Legends Edition | 199628 | [199628-matchpoint-tennis-championships-legends-edition.json](./199628-matchpoint-tennis-championships-legends-edition.json) |
+| Matchpoop | 265122 | [265122-matchpoop.json](./265122-matchpoop.json) |
 | Matchstick: Cosmic Flame | 333554 | [333554-matchstick-cosmic-flame.json](./333554-matchstick-cosmic-flame.json) |
 | Matchsticks | 252146 | [252146-matchsticks.json](./252146-matchsticks.json) |
 | Matchsticks: Coffee Break Club | 169459 | [169459-matchsticks-coffee-break-club.json](./169459-matchsticks-coffee-break-club.json) |
@@ -4518,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
 | Mind Over Monarchy | 347339 | [347339-mind-over-monarchy.json](./347339-mind-over-monarchy.json) |
 | Mind Palace | 307594 | [307594-mind-palace.json](./307594-mind-palace.json) |
+| Mind Puzzle 2023 | 265200 | [265200-mind-puzzle-2023.json](./265200-mind-puzzle-2023.json) |
 | Mind Reader | 107130 | [107130-mind-reader.json](./107130-mind-reader.json) |
 | Mind Reader | 229699 | [229699-mind-reader.json](./229699-mind-reader.json) |
 | Mind Reader: Ghost Trip | 347716 | [347716-mind-reader-ghost-trip.json](./347716-mind-reader-ghost-trip.json) |
@@ -5792,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monokage Quest | 222543 | [222543-monokage-quest.json](./222543-monokage-quest.json) |
 | Monolit | 298108 | [298108-monolit.json](./298108-monolit.json) |
 | Monolith Bay | 154570 | [154570-monolith-bay.json](./154570-monolith-bay.json) |
+| Monolith O Pesadelo | 265202 | [265202-monolith-o-pesadelo.json](./265202-monolith-o-pesadelo.json) |
 | Monolith's Dreamers | 343261 | [343261-monoliths-dreamers.json](./343261-monoliths-dreamers.json) |
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
 | Monomagia Cantabile | 214539 | [214539-monomagia-cantabile.json](./214539-monomagia-cantabile.json) |
@@ -6958,6 +6962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
 | Mr. Photographer: Into The Light | 350044 | [350044-mr-photographer-into-the-light.json](./350044-mr-photographer-into-the-light.json) |
 | Mr. Pibb: The 3D Interactive Game | 123586 | [123586-mr-pibb-the-3d-interactive-game.json](./123586-mr-pibb-the-3d-interactive-game.json) |
+| Mr. Platformer | 265198 | [265198-mr-platformer.json](./265198-mr-platformer.json) |
 | Mr. Pogo | 341340 | [341340-mr-pogo.json](./341340-mr-pogo.json) |
 | Mr. Pompy's Extravagant Quiz | 303104 | [303104-mr-pompys-extravagant-quiz.json](./303104-mr-pompys-extravagant-quiz.json) |
 | Mr. Postman | 40786 | [40786-mr-postman.json](./40786-mr-postman.json) |
