@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nectaris | 42030 | [42030-nectaris.json](./42030-nectaris.json) |
 | Nectaris Cellular | 356109 | [356109-nectaris-cellular.json](./356109-nectaris-cellular.json) |
 | Nectaris: Military Madness | 356101 | [356101-nectaris-military-madness.json](./356101-nectaris-military-madness.json) |
+| Ned | 253305 | [253305-ned.json](./253305-ned.json) |
 | Ned | 67288 | [67288-ned.json](./67288-ned.json) |
 | Ned Kelly: Armored Outlaw | 204101 | [204101-ned-kelly-armored-outlaw.json](./204101-ned-kelly-armored-outlaw.json) |
 | Ned's Garden | 380105 | [380105-neds-garden.json](./380105-neds-garden.json) |
@@ -1931,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Hours, Nine Persons, Nine Doors | 9543 | [9543-nine-hours-nine-persons-nine-doors.json](./9543-nine-hours-nine-persons-nine-doors.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
+| Nine Paradise: The Origin | 253349 | [253349-nine-paradise-the-origin.json](./253349-nine-paradise-the-origin.json) |
 | Nine Parchments | 23330 | [23330-nine-parchments.json](./23330-nine-parchments.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
