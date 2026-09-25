@@ -3380,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: Flower Trimmed Wear Set - Sakura | 294856 | [294856-worldneverland-flower-trimmed-wear-set-sakura.json](./294856-worldneverland-flower-trimmed-wear-set-sakura.json) |
 | WorldNeverland: White Modern Wedding Outfit Set | 298593 | [298593-worldneverland-white-modern-wedding-outfit-set.json](./298593-worldneverland-white-modern-wedding-outfit-set.json) |
 | WorldQuest | 101609 | [101609-worldquest.json](./101609-worldquest.json) |
+| Worldquiz | 243084 | [243084-worldquiz.json](./243084-worldquiz.json) |
 | Worlds | 381007 | [381007-worlds.json](./381007-worlds.json) |
 | Worlds Align: Deadly Dream | 187945 | [187945-worlds-align-deadly-dream.json](./187945-worlds-align-deadly-dream.json) |
 | Worlds and World's End | 397228 | [397228-worlds-and-worlds-end.json](./397228-worlds-and-worlds-end.json) |
