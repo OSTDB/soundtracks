@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Phantasia: Full Voice Edition | 152164 | [152164-tales-of-phantasia-full-voice-edition.json](./152164-tales-of-phantasia-full-voice-edition.json) |
 | Tales of Phantasia: Narikiri Dungeon X | 42864 | [42864-tales-of-phantasia-narikiri-dungeon-x.json](./42864-tales-of-phantasia-narikiri-dungeon-x.json) |
 | Tales of Pirates | 72702 | [72702-tales-of-pirates.json](./72702-tales-of-pirates.json) |
+| Tales Of Polygonia | 231326 | [231326-tales-of-polygonia.json](./231326-tales-of-polygonia.json) |
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
@@ -2863,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cell | 326947 | [326947-the-cell.json](./326947-the-cell.json) |
 | The Cellar Door | 62708 | [62708-the-cellar-door.json](./62708-the-cellar-door.json) |
 | The Cells | 110998 | [110998-the-cells.json](./110998-the-cells.json) |
+| The Cenozoic Era | 231303 | [231303-the-cenozoic-era.json](./231303-the-cenozoic-era.json) |
 | The Centennial Case | 250435 | [250435-the-centennial-case.json](./250435-the-centennial-case.json) |
 | The Cerberus Project | 41932 | [41932-the-cerberus-project.json](./41932-the-cerberus-project.json) |
 | The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
@@ -6703,6 +6705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sniper | 349841 | [349841-the-sniper.json](./349841-the-sniper.json) |
 | The Sniper 2 | 44625 | [44625-the-sniper-2.json](./44625-the-sniper-2.json) |
 | The Snow Fable: Mystery of the Flame | 207515 | [207515-the-snow-fable-mystery-of-the-flame.json](./207515-the-snow-fable-mystery-of-the-flame.json) |
+| The Snow is Red | 231323 | [231323-the-snow-is-red.json](./231323-the-snow-is-red.json) |
 | The Snow of Basidia | 176504 | [176504-the-snow-of-basidia.json](./176504-the-snow-of-basidia.json) |
 | The Snow Queen | 26476 | [26476-the-snow-queen.json](./26476-the-snow-queen.json) |
 | The Snow Queen Quest | 43560 | [43560-the-snow-queen-quest.json](./43560-the-snow-queen-quest.json) |
@@ -9282,6 +9285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Kings | 344548 | [344548-tiny-kings.json](./344548-tiny-kings.json) |
 | Tiny Kitchen: Sandwich Edition | 380113 | [380113-tiny-kitchen-sandwich-edition.json](./380113-tiny-kitchen-sandwich-edition.json) |
 | Tiny Knight | 33472 | [33472-tiny-knight.json](./33472-tiny-knight.json) |
+| Tiny Lands: Expansion Pack 1 | 231288 | [231288-tiny-lands-expansion-pack-1.json](./231288-tiny-lands-expansion-pack-1.json) |
 | Tiny Lands: Expansion Pack 3 | 289943 | [289943-tiny-lands-expansion-pack-3.json](./289943-tiny-lands-expansion-pack-3.json) |
 | Tiny Legends | 373725 | [373725-tiny-legends.json](./373725-tiny-legends.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
@@ -10203,6 +10207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torment: Tides of Numenera | 2004 | [2004-torment-tides-of-numenera.json](./2004-torment-tides-of-numenera.json) |
 | Torment: Tides of Numenera - Collector's Edition | 26537 | [26537-torment-tides-of-numenera-collectors-edition.json](./26537-torment-tides-of-numenera-collectors-edition.json) |
 | Torment: Tides of Numenera - Day One Edition | 26538 | [26538-torment-tides-of-numenera-day-one-edition.json](./26538-torment-tides-of-numenera-day-one-edition.json) |
+| Tormenta: Memórias da Tempestade | 231322 | [231322-tormenta-memorias-da-tempestade.json](./231322-tormenta-memorias-da-tempestade.json) |
 | Tormentarium | 271730 | [271730-tormentarium.json](./271730-tormentarium.json) |
 | Tormented 12 | 34730 | [34730-tormented-12.json](./34730-tormented-12.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
