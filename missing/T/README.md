@@ -1687,6 +1687,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tenshi-tachi no Gogo III: Bangai-hen | 270791 | [270791-tenshi-tachi-no-gogo-iii-bangai-hen.json](./270791-tenshi-tachi-no-gogo-iii-bangai-hen.json) |
+| Tenshi-tachi no Gogo Special 2 | 271709 | [271709-tenshi-tachi-no-gogo-special-2.json](./271709-tenshi-tachi-no-gogo-special-2.json) |
+| Tenshi-tachi no Gogo V: Nerawareta Tenshi | 271708 | [271708-tenshi-tachi-no-gogo-v-nerawareta-tenshi.json](./271708-tenshi-tachi-no-gogo-v-nerawareta-tenshi.json) |
 | Tenshoku Maou | 381693 | [381693-tenshoku-maou.json](./381693-tenshoku-maou.json) |
 | Tenshou Gakuen Gensouroku | 71807 | [71807-tenshou-gakuen-gensouroku.json](./71807-tenshou-gakuen-gensouroku.json) |
 | Tension | 93966 | [93966-tension.json](./93966-tension.json) |
@@ -2668,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Breach | 361308 | [361308-the-breach.json](./361308-the-breach.json) |
 | The Bread Must Rise | 245926 | [245926-the-bread-must-rise.json](./245926-the-bread-must-rise.json) |
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
+| The Bride of Vampire | 271711 | [271711-the-bride-of-vampire.json](./271711-the-bride-of-vampire.json) |
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
 | The Bridge Curse: Road to Salvation | 193312 | [193312-the-bridge-curse-road-to-salvation.json](./193312-the-bridge-curse-road-to-salvation.json) |
@@ -2964,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cornfield Road | 304161 | [304161-the-cornfield-road.json](./304161-the-cornfield-road.json) |
 | The Coroner Saga | 114335 | [114335-the-coroner-saga.json](./114335-the-coroner-saga.json) |
 | The Corpse | 376714 | [376714-the-corpse.json](./376714-the-corpse.json) |
+| The Corral | 271787 | [271787-the-corral.json](./271787-the-corral.json) |
 | The Corridor | 148443 | [148443-the-corridor.json](./148443-the-corridor.json) |
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
 | The Corruption Within | 153387 | [153387-the-corruption-within.json](./153387-the-corruption-within.json) |
