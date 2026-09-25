@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Company | 57326 | [57326-adventure-company.json](./57326-adventure-company.json) |
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
+| Adventure Escape Jetpack | 235225 | [235225-adventure-escape-jetpack.json](./235225-adventure-escape-jetpack.json) |
 | Adventure Escape Mysteries | 124620 | [124620-adventure-escape-mysteries.json](./124620-adventure-escape-mysteries.json) |
 | Adventure Escape Room Bundle | 247492 | [247492-adventure-escape-room-bundle.json](./247492-adventure-escape-room-bundle.json) |
 | Adventure Escape: Allied Spies | 123435 | [123435-adventure-escape-allied-spies.json](./123435-adventure-escape-allied-spies.json) |
@@ -1375,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
+| Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
@@ -2211,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
+| Aliens versus Humans: Missions | 235153 | [235153-aliens-versus-humans-missions.json](./235153-aliens-versus-humans-missions.json) |
 | Aliens versus Predator | 9979 | [9979-aliens-versus-predator.json](./9979-aliens-versus-predator.json) |
 | Aliens Versus Predator 2: Gold Edition | 256362 | [256362-aliens-versus-predator-2-gold-edition.json](./256362-aliens-versus-predator-2-gold-edition.json) |
 | Aliens Versus Predator: Extinction | 5720 | [5720-aliens-versus-predator-extinction.json](./5720-aliens-versus-predator-extinction.json) |
@@ -2731,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Pets Bundle | 212788 | [212788-amazing-pets-bundle.json](./212788-amazing-pets-bundle.json) |
 | Amazing Pyramids | 385293 | [385293-amazing-pyramids.json](./385293-amazing-pyramids.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
+| Amazing Studly Strikes | 235152 | [235152-amazing-studly-strikes.json](./235152-amazing-studly-strikes.json) |
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
 | AMazing TD | 130181 | [130181-amazing-td.json](./130181-amazing-td.json) |
 | Amazing Thailand VR Experience | 48003 | [48003-amazing-thailand-vr-experience.json](./48003-amazing-thailand-vr-experience.json) |
@@ -4758,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arenum | 324897 | [324897-arenum.json](./324897-arenum.json) |
 | Ares | 93968 | [93968-ares.json](./93968-ares.json) |
 | Ares Fighter | 367595 | [367595-ares-fighter.json](./367595-ares-fighter.json) |
+| Ares Fighter 2 | 235181 | [235181-ares-fighter-2.json](./235181-ares-fighter-2.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
 | Aretha II: Ariel no Fushigi na Tabi | 15896 | [15896-aretha-ii-ariel-no-fushigi-na-tabi.json](./15896-aretha-ii-ariel-no-fushigi-na-tabi.json) |
