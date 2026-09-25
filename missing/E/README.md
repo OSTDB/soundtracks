@@ -2791,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
 | Excaliba | 13844 | [13844-excaliba.json](./13844-excaliba.json) |
 | Excalibur 2555 A.D. | 15514 | [15514-excalibur-2555-a-d.json](./15514-excalibur-2555-a-d.json) |
+| Excalibur's Swordstone Idle Forge | 265105 | [265105-excaliburs-swordstone-idle-forge.json](./265105-excaliburs-swordstone-idle-forge.json) |
 | Excaliburian!! | 186153 | [186153-excaliburian.json](./186153-excaliburian.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
 | Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
@@ -2876,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Station 7 | 309958 | [309958-exit-station-7.json](./309958-exit-station-7.json) |
 | Exit Strategy | 143103 | [143103-exit-strategy.json](./143103-exit-strategy.json) |
 | Exit Terminal | 320180 | [320180-exit-terminal.json](./320180-exit-terminal.json) |
+| Exit the Backrooms | 265121 | [265121-exit-the-backrooms.json](./265121-exit-the-backrooms.json) |
 | Exit the Gungeon | 122311 | [122311-exit-the-gungeon.json](./122311-exit-the-gungeon.json) |
 | Exit Together | 333662 | [333662-exit-together.json](./333662-exit-together.json) |
 | Exit Veil | 264054 | [264054-exit-veil.json](./264054-exit-veil.json) |
