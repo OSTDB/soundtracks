@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
 | Leadlight | 330903 | [330903-leadlight.json](./330903-leadlight.json) |
 | Leaf | 116865 | [116865-leaf.json](./116865-leaf.json) |
+| Leaf Blower Man: This Game Blows! | 244199 | [244199-leaf-blower-man-this-game-blows.json](./244199-leaf-blower-man-this-game-blows.json) |
 | Leaf Blower Sim | 276272 | [276272-leaf-blower-sim.json](./276272-leaf-blower-sim.json) |
 | Leaf Blowing Simulator | 290556 | [290556-leaf-blowing-simulator.json](./290556-leaf-blowing-simulator.json) |
 | Leaf Clicker: Grow Your Green Thumb! | 340908 | [340908-leaf-clicker-grow-your-green-thumb.json](./340908-leaf-clicker-grow-your-green-thumb.json) |
@@ -3097,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
 | Lost Cave | 112758 | [112758-lost-cave.json](./112758-lost-cave.json) |
+| Lost Chapter | 244229 | [244229-lost-chapter.json](./244229-lost-chapter.json) |
 | Lost Child | 348223 | [348223-lost-child.json](./348223-lost-child.json) |
 | Lost Chronicles of Zerzura | 17559 | [17559-lost-chronicles-of-zerzura.json](./17559-lost-chronicles-of-zerzura.json) |
 | Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
