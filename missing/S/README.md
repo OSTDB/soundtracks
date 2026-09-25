@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
+| Samurai Beat | 253866 | [253866-samurai-beat.json](./253866-samurai-beat.json) |
 | Samurai Blade | 237671 | [237671-samurai-blade.json](./237671-samurai-blade.json) |
 | Samurai Bloodshow | 92500 | [92500-samurai-bloodshow.json](./92500-samurai-bloodshow.json) |
 | Samurai Bringer | 192434 | [192434-samurai-bringer.json](./192434-samurai-bringer.json) |
@@ -661,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandwich Runner | 193845 | [193845-sandwich-runner.json](./193845-sandwich-runner.json) |
 | Sandwich Sim | 298133 | [298133-sandwich-sim.json](./298133-sandwich-sim.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
+| Sandy's Great Escape | 253867 | [253867-sandys-great-escape.json](./253867-sandys-great-escape.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
 | Sango Guardian Chaos Generation Steamedition | 52064 | [52064-sango-guardian-chaos-generation-steamedition.json](./52064-sango-guardian-chaos-generation-steamedition.json) |
@@ -996,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
+| Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
 | Sayonara Golden Days: Golden Souls | 148345 | [148345-sayonara-golden-days-golden-souls.json](./148345-sayonara-golden-days-golden-souls.json) |
 | Sayonara Mr. Stealer | 388004 | [388004-sayonara-mr-stealer.json](./388004-sayonara-mr-stealer.json) |
@@ -1045,9 +1048,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarab Shooter | 72065 | [72065-scarab-shooter.json](./72065-scarab-shooter.json) |
 | Scarab Solitaire | 209029 | [209029-scarab-solitaire.json](./209029-scarab-solitaire.json) |
 | Scarabeus | 48858 | [48858-scarabeus.json](./48858-scarabeus.json) |
+| Scare: Fatal Picture | 253871 | [253871-scare-fatal-picture.json](./253871-scare-fatal-picture.json) |
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
 | Scarecrow: Heart of Straw | 408146 | [408146-scarecrow-heart-of-straw.json](./408146-scarecrow-heart-of-straw.json) |
 | Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
+| Scared Little Ghost | 253869 | [253869-scared-little-ghost.json](./253869-scared-little-ghost.json) |
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
 | Scared Rider Xechs + Stardust Lovers | 322811 | [322811-scared-rider-xechs-stardust-lovers.json](./322811-scared-rider-xechs-stardust-lovers.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
@@ -1062,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
 | Scarlet Idol | 408245 | [408245-scarlet-idol.json](./408245-scarlet-idol.json) |
+| Scarlet Lake | 253872 | [253872-scarlet-lake.json](./253872-scarlet-lake.json) |
 | Scarlet Manor: The Heir | 272937 | [272937-scarlet-manor-the-heir.json](./272937-scarlet-manor-the-heir.json) |
 | Scarlet Nexus: Ultimate Edition | 188044 | [188044-scarlet-nexus-ultimate-edition.json](./188044-scarlet-nexus-ultimate-edition.json) |
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
@@ -2434,8 +2440,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Shop Simulator: X-RAY Desire | 385047 | [385047-sex-shop-simulator-x-ray-desire.json](./385047-sex-shop-simulator-x-ray-desire.json) |
 | Sex Simulator: Bar Staff | 280342 | [280342-sex-simulator-bar-staff.json](./280342-sex-simulator-bar-staff.json) |
 | Sex Simulator: BDSM | 385042 | [385042-sex-simulator-bdsm.json](./385042-sex-simulator-bdsm.json) |
+| Sex Simulator: BDSM 2 | 253849 | [253849-sex-simulator-bdsm-2.json](./253849-sex-simulator-bdsm-2.json) |
 | Sex Simulator: CamGirl Audition 2 | 263761 | [263761-sex-simulator-camgirl-audition-2.json](./263761-sex-simulator-camgirl-audition-2.json) |
 | Sex Simulator: Dirty Doctor | 385044 | [385044-sex-simulator-dirty-doctor.json](./385044-sex-simulator-dirty-doctor.json) |
+| Sex Simulator: Futanari BDSM | 253850 | [253850-sex-simulator-futanari-bdsm.json](./253850-sex-simulator-futanari-bdsm.json) |
 | Sex Simulator: Gym Girls | 385041 | [385041-sex-simulator-gym-girls.json](./385041-sex-simulator-gym-girls.json) |
 | Sex Simulator: Love Room | 385046 | [385046-sex-simulator-love-room.json](./385046-sex-simulator-love-room.json) |
 | Sex Simulator: Naughty Waitress | 275002 | [275002-sex-simulator-naughty-waitress.json](./275002-sex-simulator-naughty-waitress.json) |
@@ -2447,7 +2455,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Yoga Class | 257884 | [257884-sex-simulator-yoga-class.json](./257884-sex-simulator-yoga-class.json) |
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
+| Sex Story: Ruby and Hunter - Episode 2 | 253851 | [253851-sex-story-ruby-and-hunter-episode-2.json](./253851-sex-story-ruby-and-hunter-episode-2.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
+| Sex Survivals | 253852 | [253852-sex-survivals.json](./253852-sex-survivals.json) |
 | Sex Therapy | 384223 | [384223-sex-therapy.json](./384223-sex-therapy.json) |
 | Sex Twice Hentai | 319170 | [319170-sex-twice-hentai.json](./319170-sex-twice-hentai.json) |
 | Sex Vixens From Space | 72378 | [72378-sex-vixens-from-space.json](./72378-sex-vixens-from-space.json) |
@@ -2624,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Curse-Eater | 285528 | [285528-shadow-of-the-curse-eater.json](./285528-shadow-of-the-curse-eater.json) |
 | Shadow of the Depth | 273428 | [273428-shadow-of-the-depth.json](./273428-shadow-of-the-depth.json) |
 | Shadow of the Devil | 291048 | [291048-shadow-of-the-devil.json](./291048-shadow-of-the-devil.json) |
+| Shadow Of The Devil | 253855 | [253855-shadow-of-the-devil.json](./253855-shadow-of-the-devil.json) |
 | Shadow of the Five Moons: Code of the Ninja | 371427 | [371427-shadow-of-the-five-moons-code-of-the-ninja.json](./371427-shadow-of-the-five-moons-code-of-the-ninja.json) |
 | Shadow of The Forerunner | 379567 | [379567-shadow-of-the-forerunner.json](./379567-shadow-of-the-forerunner.json) |
 | Shadow of The Forgotten | 336006 | [336006-shadow-of-the-forgotten.json](./336006-shadow-of-the-forgotten.json) |
@@ -3443,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 19460 | [19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
 | Shiren The Wanderer: The Tower of Fortune and the Dice of Fate - Eternal Wanderer Edition | 42676 | [42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json](./42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json) |
+| Shirime 2: The Genesis of Butt-Eye | 253854 | [253854-shirime-2-the-genesis-of-butt-eye.json](./253854-shirime-2-the-genesis-of-butt-eye.json) |
 | Shirley Muldowney's Top Fuel Challenge | 69542 | [69542-shirley-muldowneys-top-fuel-challenge.json](./69542-shirley-muldowneys-top-fuel-challenge.json) |
 | Shiro | 220333 | [220333-shiro.json](./220333-shiro.json) |
 | SHiRO 011 | 97028 | [97028-shiro-011.json](./97028-shiro-011.json) |
@@ -3673,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
 | Shot Online Golf: World Championship | 70858 | [70858-shot-online-golf-world-championship.json](./70858-shot-online-golf-world-championship.json) |
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
+| Shot Supreme | 253856 | [253856-shot-supreme.json](./253856-shot-supreme.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
 | Shotengai 10 | 287716 | [287716-shotengai-10.json](./287716-shotengai-10.json) |
@@ -4238,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon's Cat: Crunch Time | 86936 | [86936-simons-cat-crunch-time.json](./86936-simons-cat-crunch-time.json) |
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
 | Simp Attack | 157117 | [157117-simp-attack.json](./157117-simp-attack.json) |
+| Simp Simulator 2023 | 253857 | [253857-simp-simulator-2023.json](./253857-simp-simulator-2023.json) |
 | SimPark | 16613 | [16613-simpark.json](./16613-simpark.json) |
 | Simple 1500 Series Hello Kitty Vol. 01: Hello Kitty Bowling | 64656 | [64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json](./64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json) |
 | Simple 1500 Series Hello Kitty Vol. 02: Hello Kitty Illust Puzzle | 64658 | [64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json](./64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json) |
@@ -4414,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sine Mora EX | 27666 | [27666-sine-mora-ex.json](./27666-sine-mora-ex.json) |
 | Sinew | 369587 | [369587-sinew.json](./369587-sinew.json) |
 | Sinfeld Remastered | 182338 | [182338-sinfeld-remastered.json](./182338-sinfeld-remastered.json) |
+| Sinful Catalyst CH1: Ethereal Camellia | 253858 | [253858-sinful-catalyst-ch1-ethereal-camellia.json](./253858-sinful-catalyst-ch1-ethereal-camellia.json) |
 | Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
