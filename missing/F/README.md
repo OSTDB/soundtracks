@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Down XR | 269013 | [269013-falling-down-xr.json](./269013-falling-down-xr.json) |
 | Falling Duke Nukem | 369758 | [369758-falling-duke-nukem.json](./369758-falling-duke-nukem.json) |
 | Falling for Yaoguais | 333569 | [333569-falling-for-yaoguais.json](./333569-falling-for-yaoguais.json) |
+| Falling From the Rabbit Hole | 228348 | [228348-falling-from-the-rabbit-hole.json](./228348-falling-from-the-rabbit-hole.json) |
 | Falling Frontier | 132621 | [132621-falling-frontier.json](./132621-falling-frontier.json) |
 | Falling Guys | 361739 | [361739-falling-guys.json](./361739-falling-guys.json) |
 | Falling in Reverse Heardle | 371468 | [371468-falling-in-reverse-heardle.json](./371468-falling-in-reverse-heardle.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Premium Expansion | 255023 | [255023-farming-simulator-22-premium-expansion.json](./255023-farming-simulator-22-premium-expansion.json) |
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
 | Farming Simulator 22: Vermeer Pack | 210269 | [210269-farming-simulator-22-vermeer-pack.json](./210269-farming-simulator-22-vermeer-pack.json) |
+| Farming Simulator 22: Volvo LM 845 | 228402 | [228402-farming-simulator-22-volvo-lm-845.json](./228402-farming-simulator-22-volvo-lm-845.json) |
 | Farming Simulator 23 Mobile | 250936 | [250936-farming-simulator-23-mobile.json](./250936-farming-simulator-23-mobile.json) |
 | Farming Simulator 25 | 306822 | [306822-farming-simulator-25.json](./306822-farming-simulator-25.json) |
 | Farming Simulator 25: Straw Harvest Pack | 360753 | [360753-farming-simulator-25-straw-harvest-pack.json](./360753-farming-simulator-25-straw-harvest-pack.json) |
@@ -2336,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighters: The Simulation - Platinum Edition | 146129 | [146129-firefighters-the-simulation-platinum-edition.json](./146129-firefighters-the-simulation-platinum-edition.json) |
 | Firefighting Rescue Simulator | 359988 | [359988-firefighting-rescue-simulator.json](./359988-firefighting-rescue-simulator.json) |
 | Firefighting Simulator: Ignite | 335254 | [335254-firefighting-simulator-ignite.json](./335254-firefighting-simulator-ignite.json) |
+| Firefighting Simulator: The Squad | 228376 | [228376-firefighting-simulator-the-squad.json](./228376-firefighting-simulator-the-squad.json) |
 | Firefleet | 293743 | [293743-firefleet.json](./293743-firefleet.json) |
 | Fireflies | 108671 | [108671-fireflies.json](./108671-fireflies.json) |
 | Fireflies | 125850 | [125850-fireflies.json](./125850-fireflies.json) |
