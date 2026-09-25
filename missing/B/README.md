@@ -5358,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Alley | 230840 | [230840-bowling-alley.json](./230840-bowling-alley.json) |
 | Bowling at the Lake | 30190 | [30190-bowling-at-the-lake.json](./30190-bowling-at-the-lake.json) |
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
+| Bowling Crew | 256240 | [256240-bowling-crew.json](./256240-bowling-crew.json) |
 | Bowling Fever: Deluxe Edition | 288285 | [288285-bowling-fever-deluxe-edition.json](./288285-bowling-fever-deluxe-edition.json) |
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
