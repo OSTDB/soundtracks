@@ -2100,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koro-koro Reimu 2 | 255799 | [255799-koro-koro-reimu-2.json](./255799-koro-koro-reimu-2.json) |
 | Koro-san's Home Wan! Derby | 354414 | [354414-koro-sans-home-wan-derby.json](./354414-koro-sans-home-wan-derby.json) |
 | Korobo | 309105 | [309105-korobo.json](./309105-korobo.json) |
+| Koroshi no Dress | 230235 | [230235-koroshi-no-dress.json](./230235-koroshi-no-dress.json) |
 | Korosuke Roller | 40225 | [40225-korosuke-roller.json](./40225-korosuke-roller.json) |
 | Korpus: Buried over the Black Soil | 129233 | [129233-korpus-buried-over-the-black-soil.json](./129233-korpus-buried-over-the-black-soil.json) |
 | Korsakovia | 182380 | [182380-korsakovia.json](./182380-korsakovia.json) |
