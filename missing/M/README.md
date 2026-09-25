@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machi: Unmei no Kousaten - Tokubetsu-hen | 279746 | [279746-machi-unmei-no-kousaten-tokubetsu-hen.json](./279746-machi-unmei-no-kousaten-tokubetsu-hen.json) |
 | Machick 2 | 332269 | [332269-machick-2.json](./332269-machick-2.json) |
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
+| Machigatta Shain-Kyouiku Mattaku Kimi no Kaisha de ha Ittai Donna Shain-Kyouiku wo | 236794 | [236794-machigatta-shain-kyouiku-mattaku-kimi-no-kaisha-de-ha-ittai-donna-shain-kyouiku-wo.json](./236794-machigatta-shain-kyouiku-mattaku-kimi-no-kaisha-de-ha-ittai-donna-shain-kyouiku-wo.json) |
 | Machina | 184624 | [184624-machina.json](./184624-machina.json) |
 | Machina Blue | 415173 | [415173-machina-blue.json](./415173-machina-blue.json) |
 | Machina of the Farthest | 296489 | [296489-machina-of-the-farthest.json](./296489-machina-of-the-farthest.json) |
@@ -2623,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechafare | 393125 | [393125-mechafare.json](./393125-mechafare.json) |
 | Mechamice | 377276 | [377276-mechamice.json](./377276-mechamice.json) |
+| Mechaneer Resta's Grand Adventure | 236785 | [236785-mechaneer-restas-grand-adventure.json](./236785-mechaneer-restas-grand-adventure.json) |
 | Mechanic 8230: Deluxe Edition | 252700 | [252700-mechanic-8230-deluxe-edition.json](./252700-mechanic-8230-deluxe-edition.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
@@ -5318,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Burnhouse | 118826 | [118826-mister-burnhouse.json](./118826-mister-burnhouse.json) |
 | Mister Easter | 246470 | [246470-mister-easter.json](./246470-mister-easter.json) |
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
+| Mister Furry | 236788 | [236788-mister-furry.json](./236788-mister-furry.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
 | Mister Slime | 21377 | [21377-mister-slime.json](./21377-mister-slime.json) |
 | Mister Smith & His Adventures | 255039 | [255039-mister-smith-and-his-adventures.json](./255039-mister-smith-and-his-adventures.json) |
