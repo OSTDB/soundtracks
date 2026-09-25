@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Kicker | 109640 | [109640-ball-kicker.json](./109640-ball-kicker.json) |
 | Ball League | 107119 | [107119-ball-league.json](./107119-ball-league.json) |
 | Ball Match Quest | 108481 | [108481-ball-match-quest.json](./108481-ball-match-quest.json) |
+| Ball O | 262897 | [262897-ball-o.json](./262897-ball-o.json) |
 | Ball of Paint | 334752 | [334752-ball-of-paint.json](./334752-ball-of-paint.json) |
 | Ball of Poo | 276855 | [276855-ball-of-poo.json](./276855-ball-of-poo.json) |
 | Ball of Wonder | 31897 | [31897-ball-of-wonder.json](./31897-ball-of-wonder.json) |
@@ -5229,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce It | 363033 | [363033-bounce-it.json](./363033-bounce-it.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
 | Bounce Mania | 146849 | [146849-bounce-mania.json](./146849-bounce-mania.json) |
+| Bounce on Back | 262895 | [262895-bounce-on-back.json](./262895-bounce-on-back.json) |
 | Bounce Original | 344928 | [344928-bounce-original.json](./344928-bounce-original.json) |
 | Bounce Shot | 262460 | [262460-bounce-shot.json](./262460-bounce-shot.json) |
 | Bounce Tales | 133867 | [133867-bounce-tales.json](./133867-bounce-tales.json) |
@@ -5316,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouquet | 346085 | [346085-bouquet.json](./346085-bouquet.json) |
 | Bourbon Empire | 217320 | [217320-bourbon-empire.json](./217320-bourbon-empire.json) |
 | Bourbon Risky | 378414 | [378414-bourbon-risky.json](./378414-bourbon-risky.json) |
+| Bourgeois Megawad | 262987 | [262987-bourgeois-megawad.json](./262987-bourgeois-megawad.json) |
 | Bousou! Orient Kyuukou | 91758 | [91758-bousou-orient-kyuukou.json](./91758-bousou-orient-kyuukou.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
