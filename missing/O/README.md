@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-Bot The Robot | 336608 | [336608-o-bot-the-robot.json](./336608-o-bot-the-robot.json) |
 | O-Bot The Robot 2 | 266225 | [266225-o-bot-the-robot-2.json](./266225-o-bot-the-robot-2.json) |
 | O-Bot The Robot: Re-Botted | 418740 | [418740-o-bot-the-robot-re-botted.json](./418740-o-bot-the-robot-re-botted.json) |
+| O-o-o | 232404 | [232404-o-o-o.json](./232404-o-o-o.json) |
 | O-Void | 257470 | [257470-o-void.json](./257470-o-void.json) |
 | O! Holy Knight | 285588 | [285588-o-holy-knight.json](./285588-o-holy-knight.json) |
 | O! My Genesis VR | 27182 | [27182-o-my-genesis-vr.json](./27182-o-my-genesis-vr.json) |
@@ -1160,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneKind | 302372 | [302372-onekind.json](./302372-onekind.json) |
 | OneMaze.io | 98444 | [98444-onemaze-io.json](./98444-onemaze-io.json) |
 | Onenellemoo | 239638 | [239638-onenellemoo.json](./239638-onenellemoo.json) |
+| Ones! | 232385 | [232385-ones.json](./232385-ones.json) |
 | onEscapee | 93044 | [93044-onescapee.json](./93044-onescapee.json) |
 | OneScreen Solar Sails | 37399 | [37399-onescreen-solar-sails.json](./37399-onescreen-solar-sails.json) |
 | OneScreen Wagons | 74475 | [74475-onescreen-wagons.json](./74475-onescreen-wagons.json) |
