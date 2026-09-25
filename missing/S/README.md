@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satellite Attack | 41571 | [41571-satellite-attack.json](./41571-satellite-attack.json) |
 | Satellite Command | 31778 | [31778-satellite-command.json](./31778-satellite-command.json) |
 | Satellite Odyssey: Jupiter | 383033 | [383033-satellite-odyssey-jupiter.json](./383033-satellite-odyssey-jupiter.json) |
+| Satellite Odyssey: Prologue | 266748 | [266748-satellite-odyssey-prologue.json](./266748-satellite-odyssey-prologue.json) |
 | Satellite Repairman | 30015 | [30015-satellite-repairman.json](./30015-satellite-repairman.json) |
 | Satellites | 78342 | [78342-satellites.json](./78342-satellites.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
@@ -2184,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serania: Path of the Scion | 258008 | [258008-serania-path-of-the-scion.json](./258008-serania-path-of-the-scion.json) |
 | Seraph of the End: The Origin of Fate | 13638 | [13638-seraph-of-the-end-the-origin-of-fate.json](./13638-seraph-of-the-end-the-origin-of-fate.json) |
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
+| Seraphim | 266759 | [266759-seraphim.json](./266759-seraphim.json) |
 | Seraphine's Skyward Journey | 388054 | [388054-seraphines-skyward-journey.json](./388054-seraphines-skyward-journey.json) |
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
 | Serbia '14 | 131997 | [131997-serbia-14.json](./131997-serbia-14.json) |
@@ -3042,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
 | Shelf Heroes | 336147 | [336147-shelf-heroes.json](./336147-shelf-heroes.json) |
 | Shelf-Employed | 413903 | [413903-shelf-employed.json](./413903-shelf-employed.json) |
+| ShelfLife: Art School Detective | 266769 | [266769-shelflife-art-school-detective.json](./266769-shelflife-art-school-detective.json) |
 | Shell Corp | 129748 | [129748-shell-corp.json](./129748-shell-corp.json) |
 | Shell Increment | 390654 | [390654-shell-increment.json](./390654-shell-increment.json) |
 | Shell Is Cool | 328048 | [328048-shell-is-cool.json](./328048-shell-is-cool.json) |
@@ -5038,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaygon | 55148 | [55148-slaygon.json](./55148-slaygon.json) |
 | Slayin | 59671 | [59671-slayin.json](./59671-slayin.json) |
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
+| Slayin DX | 266754 | [266754-slayin-dx.json](./266754-slayin-dx.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | Sled Bandit | 255731 | [255731-sled-bandit.json](./255731-sled-bandit.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
@@ -6473,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something a Little Super | 352844 | [352844-something-a-little-super.json](./352844-something-a-little-super.json) |
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
 | Something Else | 283310 | [283310-something-else.json](./283310-something-else.json) |
+| Something In The Well | 266749 | [266749-something-in-the-well.json](./266749-something-in-the-well.json) |
 | Something in the Woods | 261263 | [261263-something-in-the-woods.json](./261263-something-in-the-woods.json) |
 | Something is Wrong | 132000 | [132000-something-is-wrong.json](./132000-something-is-wrong.json) |
 | Something Is Wrong With My World Map | 315488 | [315488-something-is-wrong-with-my-world-map.json](./315488-something-is-wrong-with-my-world-map.json) |
@@ -10360,6 +10365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
 | Stickility | 345101 | [345101-stickility.json](./345101-stickility.json) |
 | Sticklings | 197747 | [197747-sticklings.json](./197747-sticklings.json) |
+| Sticklings Deluxe | 266828 | [266828-sticklings-deluxe.json](./266828-sticklings-deluxe.json) |
 | Stickman 3D Tennis: Deluxe | 404210 | [404210-stickman-3d-tennis-deluxe.json](./404210-stickman-3d-tennis-deluxe.json) |
 | Stickman 3D Wingsuit: Deluxe | 406699 | [406699-stickman-3d-wingsuit-deluxe.json](./406699-stickman-3d-wingsuit-deluxe.json) |
 | Stickman Adventure | 311127 | [311127-stickman-adventure.json](./311127-stickman-adventure.json) |
@@ -10980,6 +10986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
 | StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
+| Stretch Text: Find Proverb | 266834 | [266834-stretch-text-find-proverb.json](./266834-stretch-text-find-proverb.json) |
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
 | Stretchmancer | 282093 | [282093-stretchmancer.json](./282093-stretchmancer.json) |
 | Stretchy Adventure | 319957 | [319957-stretchy-adventure.json](./319957-stretchy-adventure.json) |
@@ -12544,6 +12551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meat Boy: Ultra Edition | 20620 | [20620-super-meat-boy-ultra-edition.json](./20620-super-meat-boy-ultra-edition.json) |
 | Super Meat Shooter: Happy Meat Winter | 172116 | [172116-super-meat-shooter-happy-meat-winter.json](./172116-super-meat-shooter-happy-meat-winter.json) |
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
+| Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
 | Super Mega Hentai Collection! | 215248 | [215248-super-mega-hentai-collection.json](./215248-super-mega-hentai-collection.json) |
 | Super Mega Lucky Box | 234599 | [234599-super-mega-lucky-box.json](./234599-super-mega-lucky-box.json) |
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
