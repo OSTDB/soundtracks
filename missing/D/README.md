@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme: Venus Vacation | 68297 | [68297-dead-or-alive-xtreme-venus-vacation.json](./68297-dead-or-alive-xtreme-venus-vacation.json) |
 | Dead or Alive: Code Chronos | 205644 | [205644-dead-or-alive-code-chronos.json](./205644-dead-or-alive-code-chronos.json) |
 | Dead or Alive: Dimensions | 1396 | [1396-dead-or-alive-dimensions.json](./1396-dead-or-alive-dimensions.json) |
+| Dead or Love | 260115 | [260115-dead-or-love.json](./260115-dead-or-love.json) |
 | Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
@@ -2195,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
 | Deliverance | 377173 | [377173-deliverance.json](./377173-deliverance.json) |
 | Delivered by Friday | 399216 | [399216-delivered-by-friday.json](./399216-delivered-by-friday.json) |
+| Delivering Hope | 260095 | [260095-delivering-hope.json](./260095-delivering-hope.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery Driver Service | 302378 | [302378-delivery-driver-service.json](./302378-delivery-driver-service.json) |
 | Delivery Express | 303468 | [303468-delivery-express.json](./303468-delivery-express.json) |
@@ -2402,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
+| Demons of Asteborg/Astebros | 260093 | [260093-demons-of-asteborg-astebros.json](./260093-demons-of-asteborg-astebros.json) |
 | Demons of Problematique | 260126 | [260126-demons-of-problematique.json](./260126-demons-of-problematique.json) |
 | Demons of Problematique 2 | 260127 | [260127-demons-of-problematique-2.json](./260127-demons-of-problematique-2.json) |
 | Demons of the Dread Sea | 417646 | [417646-demons-of-the-dread-sea.json](./417646-demons-of-the-dread-sea.json) |
@@ -3271,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
 | Dig for TCG Cards With Your Friends | 409765 | [409765-dig-for-tcg-cards-with-your-friends.json](./409765-dig-for-tcg-cards-with-your-friends.json) |
+| Dig Girl | 260197 | [260197-dig-girl.json](./260197-dig-girl.json) |
 | Dig In | 399207 | [399207-dig-in.json](./399207-dig-in.json) |
 | Dig Island | 372930 | [372930-dig-island.json](./372930-dig-island.json) |
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
@@ -3498,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Rampage 3D | 106627 | [106627-dino-rampage-3d.json](./106627-dino-rampage-3d.json) |
 | Dino Rex | 183466 | [183466-dino-rex.json](./183466-dino-rex.json) |
 | Dino Rex | 39630 | [39630-dino-rex.json](./39630-dino-rex.json) |
+| Dino Run | 260083 | [260083-dino-run.json](./260083-dino-run.json) |
 | Dino Run DX | 16636 | [16636-dino-run-dx.json](./16636-dino-run-dx.json) |
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
 | Dino Rush | 343481 | [343481-dino-rush.json](./343481-dino-rush.json) |
@@ -5593,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest X: Ibara no Miko to Horobi no Kami Online | 136835 | [136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json](./136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json) |
 | Dragon Quest X: Jikuu no Mayoigo-tachi Online | 374305 | [374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json](./374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json) |
 | Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online | 80597 | [80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json](./80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json) |
+| Dragon Quest X: Mirai he no Tobira to Madoromi no Shoujo Online | 260191 | [260191-dragon-quest-x-mirai-he-no-tobira-to-madoromi-no-shoujo-online.json](./260191-dragon-quest-x-mirai-he-no-tobira-to-madoromi-no-shoujo-online.json) |
 | Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
 | Dragon Quest: Legacy of the Lost | 300697 | [300697-dragon-quest-legacy-of-the-lost.json](./300697-dragon-quest-legacy-of-the-lost.json) |
 | Dragon Quest: Monster Battle Road II Legends | 70667 | [70667-dragon-quest-monster-battle-road-ii-legends.json](./70667-dragon-quest-monster-battle-road-ii-legends.json) |
