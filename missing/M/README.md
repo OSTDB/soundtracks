@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Knight | 39006 | [39006-machine-knight.json](./39006-machine-knight.json) |
 | Machine Learning: Episode I | 90571 | [90571-machine-learning-episode-i.json](./90571-machine-learning-episode-i.json) |
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
+| Machine Match | 277338 | [277338-machine-match.json](./277338-machine-match.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
@@ -7864,6 +7865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
+| My Tsundere Femboy | 277368 | [277368-my-tsundere-femboy.json](./277368-my-tsundere-femboy.json) |
 | My Two First Loves | 313847 | [313847-my-two-first-loves.json](./313847-my-two-first-loves.json) |
 | My U.S. Trucking Skills | 316855 | [316855-my-u-s-trucking-skills.json](./316855-my-u-s-trucking-skills.json) |
 | My Uncle Merlin | 76236 | [76236-my-uncle-merlin.json](./76236-my-uncle-merlin.json) |
