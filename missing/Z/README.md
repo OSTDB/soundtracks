@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Ranger | 12974 | [12974-zone-ranger.json](./12974-zone-ranger.json) |
 | Zone Sega | 202809 | [202809-zone-sega.json](./202809-zone-sega.json) |
 | Zone Trip | 264036 | [264036-zone-trip.json](./264036-zone-trip.json) |
+| Zone.E | 244193 | [244193-zone-e.json](./244193-zone-e.json) |
 | Zoned | 311587 | [311587-zoned.json](./311587-zoned.json) |
 | ZoneDriver | 76558 | [76558-zonedriver.json](./76558-zonedriver.json) |
 | ZoneRacer | 331441 | [331441-zoneracer.json](./331441-zoneracer.json) |
