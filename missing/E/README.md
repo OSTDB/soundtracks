@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Muncher | 95178 | [95178-earth-muncher.json](./95178-earth-muncher.json) |
 | Earth New Fall | 408252 | [408252-earth-new-fall.json](./408252-earth-new-fall.json) |
 | Earth Overclocked | 34828 | [34828-earth-overclocked.json](./34828-earth-overclocked.json) |
+| Earth Rising | 235694 | [235694-earth-rising.json](./235694-earth-rising.json) |
 | Earth Saver | 59386 | [59386-earth-saver.json](./59386-earth-saver.json) |
 | Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
 | Earth Science | 159176 | [159176-earth-science.json](./159176-earth-science.json) |
@@ -894,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elephant Express VR | 30191 | [30191-elephant-express-vr.json](./30191-elephant-express-vr.json) |
 | Elephant Hunter Hunter | 133991 | [133991-elephant-hunter-hunter.json](./133991-elephant-hunter-hunter.json) |
 | Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
+| Elephantasy: Flipside | 235706 | [235706-elephantasy-flipside.json](./235706-elephantasy-flipside.json) |
 | Elerena | 153855 | [153855-elerena.json](./153855-elerena.json) |
 | Elestrals | 261897 | [261897-elestrals.json](./261897-elestrals.json) |
 | Elestrals Awakened | 376549 | [376549-elestrals-awakened.json](./376549-elestrals-awakened.json) |
@@ -1009,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elon's Last Chance | 274545 | [274545-elons-last-chance.json](./274545-elons-last-chance.json) |
 | Elona | 50403 | [50403-elona.json](./50403-elona.json) |
 | Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
+| Elong Plug | 235686 | [235686-elong-plug.json](./235686-elong-plug.json) |
 | Eloquence | 172742 | [172742-eloquence.json](./172742-eloquence.json) |
 | Elowyn: Quest of Time | 347870 | [347870-elowyn-quest-of-time.json](./347870-elowyn-quest-of-time.json) |
 | Elpis | 381140 | [381140-elpis.json](./381140-elpis.json) |
