@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
 | Harem Survivor | 294147 | [294147-harem-survivor.json](./294147-harem-survivor.json) |
 | HaremMate | 22482 | [22482-haremmate.json](./22482-haremmate.json) |
+| HaremRoid VR | 279668 | [279668-haremroid-vr.json](./279668-haremroid-vr.json) |
 | Hareshi Moyakana | 274989 | [274989-hareshi-moyakana.json](./274989-hareshi-moyakana.json) |
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
@@ -972,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted | 16799 | [16799-haunted.json](./16799-haunted.json) |
 | Haunted | 377571 | [377571-haunted.json](./377571-haunted.json) |
 | Haunted Abbey | 13725 | [13725-haunted-abbey.json](./13725-haunted-abbey.json) |
+| Haunted Adventure II - Redemption | 279667 | [279667-haunted-adventure-ii-redemption.json](./279667-haunted-adventure-ii-redemption.json) |
 | Haunted by Evil | 132663 | [132663-haunted-by-evil.json](./132663-haunted-by-evil.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
 | Haunted Domains | 54078 | [54078-haunted-domains.json](./54078-haunted-domains.json) |
@@ -3593,6 +3595,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honk of Heroes | 293641 | [293641-honk-of-heroes.json](./293641-honk-of-heroes.json) |
 | Honkai Impact 3rd | 96032 | [96032-honkai-impact-3rd.json](./96032-honkai-impact-3rd.json) |
 | Honkai Impact 3rd: A Lightful Love | 374675 | [374675-honkai-impact-3rd-a-lightful-love.json](./374675-honkai-impact-3rd-a-lightful-love.json) |
+| Honkai Impact 3rd: As Thunders Filled the Sky | 279719 | [279719-honkai-impact-3rd-as-thunders-filled-the-sky.json](./279719-honkai-impact-3rd-as-thunders-filled-the-sky.json) |
+| Honkai Impact 3rd: Aurelia Invicta | 279710 | [279710-honkai-impact-3rd-aurelia-invicta.json](./279710-honkai-impact-3rd-aurelia-invicta.json) |
+| Honkai Impact 3rd: Blazing Hope | 279707 | [279707-honkai-impact-3rd-blazing-hope.json](./279707-honkai-impact-3rd-blazing-hope.json) |
 | Honkai Impact 3rd: Crusade of Chasing Shadows | 304037 | [304037-honkai-impact-3rd-crusade-of-chasing-shadows.json](./304037-honkai-impact-3rd-crusade-of-chasing-shadows.json) |
 | Honkai Impact 3rd: Cutting Dreams at Dawn | 268770 | [268770-honkai-impact-3rd-cutting-dreams-at-dawn.json](./268770-honkai-impact-3rd-cutting-dreams-at-dawn.json) |
 | Honkai Impact 3rd: Dark Xuan Yuan Sword | 361296 | [361296-honkai-impact-3rd-dark-xuan-yuan-sword.json](./361296-honkai-impact-3rd-dark-xuan-yuan-sword.json) |
@@ -3604,16 +3609,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: For the Stars Shall Defy Fate | 362261 | [362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json](./362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json) |
 | Honkai Impact 3rd: Infinite Future | 276502 | [276502-honkai-impact-3rd-infinite-future.json](./276502-honkai-impact-3rd-infinite-future.json) |
 | Honkai Impact 3rd: Lives Flourish Where Feathers Fall | 408932 | [408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json](./408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json) |
+| Honkai Impact 3rd: Lone Stargazer | 279722 | [279722-honkai-impact-3rd-lone-stargazer.json](./279722-honkai-impact-3rd-lone-stargazer.json) |
 | Honkai Impact 3rd: Ninja's Noir | 281572 | [281572-honkai-impact-3rd-ninjas-noir.json](./281572-honkai-impact-3rd-ninjas-noir.json) |
 | Honkai Impact 3rd: Post-Dusk Odyssey | 276501 | [276501-honkai-impact-3rd-post-dusk-odyssey.json](./276501-honkai-impact-3rd-post-dusk-odyssey.json) |
 | Honkai Impact 3rd: Pristine Realm | 276504 | [276504-honkai-impact-3rd-pristine-realm.json](./276504-honkai-impact-3rd-pristine-realm.json) |
 | Honkai Impact 3rd: Re: Promise to Luna | 276505 | [276505-honkai-impact-3rd-re-promise-to-luna.json](./276505-honkai-impact-3rd-re-promise-to-luna.json) |
+| Honkai Impact 3rd: Rhythms of Neon | 279713 | [279713-honkai-impact-3rd-rhythms-of-neon.json](./279713-honkai-impact-3rd-rhythms-of-neon.json) |
+| Honkai Impact 3rd: Rosemary's Nocturne | 279716 | [279716-honkai-impact-3rd-rosemarys-nocturne.json](./279716-honkai-impact-3rd-rosemarys-nocturne.json) |
 | Honkai Impact 3rd: Silverwing: Beyond | 276498 | [276498-honkai-impact-3rd-silverwing-beyond.json](./276498-honkai-impact-3rd-silverwing-beyond.json) |
 | Honkai Impact 3rd: Starlit Sanctum | 279723 | [279723-honkai-impact-3rd-starlit-sanctum.json](./279723-honkai-impact-3rd-starlit-sanctum.json) |
 | Honkai Impact 3rd: Stars Derailed | 322783 | [322783-honkai-impact-3rd-stars-derailed.json](./322783-honkai-impact-3rd-stars-derailed.json) |
 | Honkai Impact 3rd: Sublime Spring | 281571 | [281571-honkai-impact-3rd-sublime-spring.json](./281571-honkai-impact-3rd-sublime-spring.json) |
 | Honkai Impact 3rd: The Banquet Operative | 383390 | [383390-honkai-impact-3rd-the-banquet-operative.json](./383390-honkai-impact-3rd-the-banquet-operative.json) |
 | Honkai Impact 3rd: The Fleet Sets Sail | 361297 | [361297-honkai-impact-3rd-the-fleet-sets-sail.json](./361297-honkai-impact-3rd-the-fleet-sets-sail.json) |
+| Honkai Impact 3rd: Unequaled, Unrivaled | 279704 | [279704-honkai-impact-3rd-unequaled-unrivaled.json](./279704-honkai-impact-3rd-unequaled-unrivaled.json) |
 | Honkai: Star Rail - A New Venture on the Eighth Dawn | 322770 | [322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json](./322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json) |
 | Honkai: Star Rail - As Tomorrow Became Yesterday | 375253 | [375253-honkai-star-rail-as-tomorrow-became-yesterday.json](./375253-honkai-star-rail-as-tomorrow-became-yesterday.json) |
 | Honkai: Star Rail - Back to Earth in Evernight | 366942 | [366942-honkai-star-rail-back-to-earth-in-evernight.json](./366942-honkai-star-rail-back-to-earth-in-evernight.json) |
