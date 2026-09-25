@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Were Made for Loneliness | 139387 | [139387-you-were-made-for-loneliness.json](./139387-you-were-made-for-loneliness.json) |
 | You Will Die | 66639 | [66639-you-will-die.json](./66639-you-will-die.json) |
 | You Will Fall | 245000 | [245000-you-will-fall.json](./245000-you-will-fall.json) |
+| You Will Not Survive | 258512 | [258512-you-will-not-survive.json](./258512-you-will-not-survive.json) |
 | You Will Return | 307620 | [307620-you-will-return.json](./307620-you-will-return.json) |
 | You Will Select a Decision | 60015 | [60015-you-will-select-a-decision.json](./60015-you-will-select-a-decision.json) |
 | You You N Music | 159800 | [159800-you-you-n-music.json](./159800-you-you-n-music.json) |
@@ -632,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yubisaki Connection | 333578 | [333578-yubisaki-connection.json](./333578-yubisaki-connection.json) |
 | Yubisaki Connection Mini Fandisk Vol. 01: Yuzuki & Mikoto Hen | 382236 | [382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json](./382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json) |
 | Yubisaki Connection Mini Fandisk Vol. 02: Natsuho & Iori Hen | 382237 | [382237-yubisaki-connection-mini-fandisk-vol-02-natsuho-and-iori-hen.json](./382237-yubisaki-connection-mini-fandisk-vol-02-natsuho-and-iori-hen.json) |
+| Yubu: The Shoeventure | 258495 | [258495-yubu-the-shoeventure.json](./258495-yubu-the-shoeventure.json) |
 | Yucan | 141866 | [141866-yucan.json](./141866-yucan.json) |
 | Yudashi Peril: Floraison | 254532 | [254532-yudashi-peril-floraison.json](./254532-yudashi-peril-floraison.json) |
 | Yuè Lán Chuánqí II: Zhòu Yìn Zú Chuánshuō | 394177 | [394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json](./394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json) |
