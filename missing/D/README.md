@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisia | 74739 | [74739-daisia.json](./74739-daisia.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Daisy Flies to the Moon | 160237 | [160237-daisy-flies-to-the-moon.json](./160237-daisy-flies-to-the-moon.json) |
+| Daisy Grotto | 264647 | [264647-daisy-grotto.json](./264647-daisy-grotto.json) |
 | Daisy's Garden | 336605 | [336605-daisys-garden.json](./336605-daisys-garden.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou: Yoshimune DS | 269571 | [269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json](./269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json) |
 | Daitoride | 93512 | [93512-daitoride.json](./93512-daitoride.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delay | 90643 | [90643-delay.json](./90643-delay.json) |
 | DelayedSun | 127239 | [127239-delayedsun.json](./127239-delayedsun.json) |
 | Delegati Genesis | 203956 | [203956-delegati-genesis.json](./203956-delegati-genesis.json) |
+| Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
 | Delia: The Traveling Witch | 252410 | [252410-delia-the-traveling-witch.json](./252410-delia-the-traveling-witch.json) |
 | Deliberate | 309956 | [309956-deliberate.json](./309956-deliberate.json) |
@@ -2217,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Time | 171622 | [171622-delta-time.json](./171622-delta-time.json) |
 | Delta Warp | 43978 | [43978-delta-warp.json](./43978-delta-warp.json) |
 | Delta's Discs | 412989 | [412989-deltas-discs.json](./412989-deltas-discs.json) |
+| DeltaBlade 2700 Re:Create | 264661 | [264661-deltablade-2700-re-create.json](./264661-deltablade-2700-re-create.json) |
 | Deltagun | 336347 | [336347-deltagun.json](./336347-deltagun.json) |
 | Deltagun Deluxe | 336349 | [336349-deltagun-deluxe.json](./336349-deltagun-deluxe.json) |
 | Deltamount | 384652 | [384652-deltamount.json](./384652-deltamount.json) |
@@ -4041,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | Dj 8 Beats: Infinite | 303480 | [303480-dj-8-beats-infinite.json](./303480-dj-8-beats-infinite.json) |
 | DJ Beats: Waifus | 186237 | [186237-dj-beats-waifus.json](./186237-dj-beats-waifus.json) |
+| DJ Clicker: World Tour | 264655 | [264655-dj-clicker-world-tour.json](./264655-dj-clicker-world-tour.json) |
 | DJ Life | 67978 | [67978-dj-life.json](./67978-dj-life.json) |
 | DJ Max Fever | 42892 | [42892-dj-max-fever.json](./42892-dj-max-fever.json) |
 | DJ Mix Tour | 68028 | [68028-dj-mix-tour.json](./68028-dj-mix-tour.json) |
@@ -5121,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DougDoug's Basement: How I Got a Sea Otter A Promotion! | 326757 | [326757-dougdougs-basement-how-i-got-a-sea-otter-a-promotion.json](./326757-dougdougs-basement-how-i-got-a-sea-otter-a-promotion.json) |
 | Dough Boy | 40956 | [40956-dough-boy.json](./40956-dough-boy.json) |
 | Dough Slapping: A Touch to Desire | 341165 | [341165-dough-slapping-a-touch-to-desire.json](./341165-dough-slapping-a-touch-to-desire.json) |
+| Dough: A Crime Strategy RPG | 264645 | [264645-dough-a-crime-strategy-rpg.json](./264645-dough-a-crime-strategy-rpg.json) |
 | Doughball Descent | 226817 | [226817-doughball-descent.json](./226817-doughball-descent.json) |
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
 | Doughby | 350029 | [350029-doughby.json](./350029-doughby.json) |
