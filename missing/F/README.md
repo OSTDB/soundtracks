@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway Islands | 29885 | [29885-faraway-islands.json](./29885-faraway-islands.json) |
 | Faraway Story | 125409 | [125409-faraway-story.json](./125409-faraway-story.json) |
 | Faraway: Jungle Escape | 192883 | [192883-faraway-jungle-escape.json](./192883-faraway-jungle-escape.json) |
+| Farcana | 254458 | [254458-farcana.json](./254458-farcana.json) |
 | Fare Thee Well | 96730 | [96730-fare-thee-well.json](./96730-fare-thee-well.json) |
 | Fareast Four Season: Hello World | 269014 | [269014-fareast-four-season-hello-world.json](./269014-fareast-four-season-hello-world.json) |
 | Faren Touga | 172696 | [172696-faren-touga.json](./172696-faren-touga.json) |
@@ -2151,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingernail Floss | 257917 | [257917-fingernail-floss.json](./257917-fingernail-floss.json) |
 | Fingers' Dating | 232971 | [232971-fingers-dating.json](./232971-fingers-dating.json) |
 | Fingerspelling Unleashed: BANZSL Edition | 238726 | [238726-fingerspelling-unleashed-banzsl-edition.json](./238726-fingerspelling-unleashed-banzsl-edition.json) |
+| Fingertip Balance | 254440 | [254440-fingertip-balance.json](./254440-fingertip-balance.json) |
 | Fingerzilla | 343470 | [343470-fingerzilla.json](./343470-fingerzilla.json) |
 | Fingun Forever! | 320298 | [320298-fingun-forever.json](./320298-fingun-forever.json) |
 | Finis | 213013 | [213013-finis.json](./213013-finis.json) |
@@ -5166,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
+| Funny Farm | 254459 | [254459-funny-farm.json](./254459-funny-farm.json) |
 | Funny Farm Animal Jigsaw Puzzle Game for Kids and Toddlers | 165619 | [165619-funny-farm-animal-jigsaw-puzzle-game-for-kids-and-toddlers.json](./165619-funny-farm-animal-jigsaw-puzzle-game-for-kids-and-toddlers.json) |
 | Funny Farm Learning Games for Toddlers and Kids | 295263 | [295263-funny-farm-learning-games-for-toddlers-and-kids.json](./295263-funny-farm-learning-games-for-toddlers-and-kids.json) |
 | Funny Fingers | 99589 | [99589-funny-fingers.json](./99589-funny-fingers.json) |
