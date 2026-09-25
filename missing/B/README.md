@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
 | Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
+| Baby Shaker | 256812 | [256812-baby-shaker.json](./256812-baby-shaker.json) |
 | Baby Shapes for Kids | 225893 | [225893-baby-shapes-for-kids.json](./225893-baby-shapes-for-kids.json) |
 | Baby Shark | 267342 | [267342-baby-shark.json](./267342-baby-shark.json) |
 | Baby Shark RUN! | 104467 | [104467-baby-shark-run.json](./104467-baby-shark-run.json) |
@@ -210,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Anomaly | 374836 | [374836-backrooms-anomaly.json](./374836-backrooms-anomaly.json) |
 | Backrooms Blackmarket | 348848 | [348848-backrooms-blackmarket.json](./348848-backrooms-blackmarket.json) |
 | Backrooms Cycle | 235470 | [235470-backrooms-cycle.json](./235470-backrooms-cycle.json) |
+| Backrooms Cycle | 256781 | [256781-backrooms-cycle.json](./256781-backrooms-cycle.json) |
 | Backrooms Descent | 236363 | [236363-backrooms-descent.json](./236363-backrooms-descent.json) |
 | Backrooms Escape Protocol | 339446 | [339446-backrooms-escape-protocol.json](./339446-backrooms-escape-protocol.json) |
 | Backrooms Exploration Liminal | 258475 | [258475-backrooms-exploration-liminal.json](./258475-backrooms-exploration-liminal.json) |
@@ -1078,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baron | 283906 | [283906-baron.json](./283906-baron.json) |
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
 | Baron of Blood | 159153 | [159153-baron-of-blood.json](./159153-baron-of-blood.json) |
+| Baron of Shell | 256772 | [256772-baron-of-shell.json](./256772-baron-of-shell.json) |
 | Baron Wittard: Nemesis of Ragnarok | 10022 | [10022-baron-wittard-nemesis-of-ragnarok.json](./10022-baron-wittard-nemesis-of-ragnarok.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
