@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardway Party | 102197 | [102197-hardway-party.json](./102197-hardway-party.json) |
 | Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
+| Hardy Boyz Stunt Challenge | 261205 | [261205-hardy-boyz-stunt-challenge.json](./261205-hardy-boyz-stunt-challenge.json) |
 | Hare | 83584 | [83584-hare.json](./83584-hare.json) |
 | Hare 136 | 340414 | [340414-hare-136.json](./340414-hare-136.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Tetris | 61331 | [61331-hex-tetris.json](./61331-hex-tetris.json) |
 | Hex Tunnel Touch | 100602 | [100602-hex-tunnel-touch.json](./100602-hex-tunnel-touch.json) |
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
+| Hex-a-Hop | 261303 | [261303-hex-a-hop.json](./261303-hex-a-hop.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
 | Hexa | 46868 | [46868-hexa.json](./46868-hexa.json) |
 | Hexa Faction | 57044 | [57044-hexa-faction.json](./57044-hexa-faction.json) |
