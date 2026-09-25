@@ -2778,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Button Be: Unexpected | 217543 | [217543-the-button-be-unexpected.json](./217543-the-button-be-unexpected.json) |
 | The Button by Elendow | 238612 | [238612-the-button-by-elendow.json](./238612-the-button-by-elendow.json) |
 | The Button Effect | 342839 | [342839-the-button-effect.json](./342839-the-button-effect.json) |
+| The Byouin | 230206 | [230206-the-byouin.json](./230206-the-byouin.json) |
 | The C64 Collection 1 | 214533 | [214533-the-c64-collection-1.json](./214533-the-c64-collection-1.json) |
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
@@ -8962,6 +8963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Master | 220185 | [220185-tile-master.json](./220185-tile-master.json) |
 | Tile Rider | 35625 | [35625-tile-rider.json](./35625-tile-rider.json) |
+| Tile Snap | 230227 | [230227-tile-snap.json](./230227-tile-snap.json) |
 | Tile Star 2 | 233080 | [233080-tile-star-2.json](./233080-tile-star-2.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
@@ -11803,6 +11805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Action: Threatened, Violated & Sacrificed Sherry | 82923 | [82923-treasure-action-threatened-violated-and-sacrificed-sherry.json](./82923-treasure-action-threatened-violated-and-sacrificed-sherry.json) |
 | Treasure Adventure World | 58243 | [58243-treasure-adventure-world.json](./58243-treasure-adventure-world.json) |
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
+| Treasure Buster | 230217 | [230217-treasure-buster.json](./230217-treasure-buster.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
 | Treasure Dive | 278504 | [278504-treasure-dive.json](./278504-treasure-dive.json) |
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
@@ -11869,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree of Savior DB | 50483 | [50483-tree-of-savior-db.json](./50483-tree-of-savior-db.json) |
 | Tree of Savior: Neo | 349296 | [349296-tree-of-savior-neo.json](./349296-tree-of-savior-neo.json) |
 | Tree of Savior: Neverland | 327392 | [327392-tree-of-savior-neverland.json](./327392-tree-of-savior-neverland.json) |
+| Tree Simulator 2021 | 230253 | [230253-tree-simulator-2021.json](./230253-tree-simulator-2021.json) |
 | Tree Simulator 2022 | 152372 | [152372-tree-simulator-2022.json](./152372-tree-simulator-2022.json) |
 | Tree Spade Truck | 90670 | [90670-tree-spade-truck.json](./90670-tree-spade-truck.json) |
 | Tree World | 225749 | [225749-tree-world.json](./225749-tree-world.json) |
