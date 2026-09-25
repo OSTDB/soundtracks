@@ -5403,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
 | Fussball Manager 26 | 392424 | [392424-fussball-manager-26.json](./392424-fussball-manager-26.json) |
 | Futa Battle TD | 196143 | [196143-futa-battle-td.json](./196143-futa-battle-td.json) |
+| Futa Heroism | 235707 | [235707-futa-heroism.json](./235707-futa-heroism.json) |
 | Futa Jigsaw Dating | 368126 | [368126-futa-jigsaw-dating.json](./368126-futa-jigsaw-dating.json) |
 | Futa Nights: Bloody Sluts | 362274 | [362274-futa-nights-bloody-sluts.json](./362274-futa-nights-bloody-sluts.json) |
 | Futa Tales | 273490 | [273490-futa-tales.json](./273490-futa-tales.json) |
