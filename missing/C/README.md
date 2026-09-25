@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
+| Cannon Fodder | 229022 | [229022-cannon-fodder.json](./229022-cannon-fodder.json) |
 | Cannon Guys | 334859 | [334859-cannon-guys.json](./334859-cannon-guys.json) |
 | Cannon Momento | 179577 | [179577-cannon-momento.json](./179577-cannon-momento.json) |
 | Cannon Royale | 223503 | [223503-cannon-royale.json](./223503-cannon-royale.json) |
@@ -4949,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando Assault | 335476 | [335476-commando-assault.json](./335476-commando-assault.json) |
 | Commando Dog | 119550 | [119550-commando-dog.json](./119550-commando-dog.json) |
 | Commando Fodder: War Dogs | 114825 | [114825-commando-fodder-war-dogs.json](./114825-commando-fodder-war-dogs.json) |
+| Commando Hero | 229014 | [229014-commando-hero.json](./229014-commando-hero.json) |
 | Commando Jack | 9801 | [9801-commando-jack.json](./9801-commando-jack.json) |
 | Commando Jack Respawn | 136393 | [136393-commando-jack-respawn.json](./136393-commando-jack-respawn.json) |
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
@@ -5369,6 +5371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
 | Continue?9876543210 | 8725 | [8725-continue-9876543210.json](./8725-continue-9876543210.json) |
 | Continuity | 380088 | [380088-continuity.json](./380088-continuity.json) |
+| Continuum | 229019 | [229019-continuum.json](./229019-continuum.json) |
 | Continuum | 243255 | [243255-continuum.json](./243255-continuum.json) |
 | Continuum | 304566 | [304566-continuum.json](./304566-continuum.json) |
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
@@ -7473,6 +7476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
 | Cubix: Robots For Everyone - Race 'N Robots | 49897 | [49897-cubix-robots-for-everyone-race-n-robots.json](./49897-cubix-robots-for-everyone-race-n-robots.json) |
 | Cubiya | 164881 | [164881-cubiya.json](./164881-cubiya.json) |
+| Cubob | 229006 | [229006-cubob.json](./229006-cubob.json) |
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
 | Cuboid Stack | 249731 | [249731-cuboid-stack.json](./249731-cuboid-stack.json) |
 | Cubosphere | 238065 | [238065-cubosphere.json](./238065-cubosphere.json) |
