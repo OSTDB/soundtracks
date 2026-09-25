@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabernet | 250803 | [250803-cabernet.json](./250803-cabernet.json) |
 | Cabin Crew Life Simulator | 302423 | [302423-cabin-crew-life-simulator.json](./302423-cabin-crew-life-simulator.json) |
 | Cabin of Souls | 254002 | [254002-cabin-of-souls.json](./254002-cabin-of-souls.json) |
+| Cabin Rush | 248004 | [248004-cabin-rush.json](./248004-cabin-rush.json) |
 | Cabinet of Curiosities VR | 201691 | [201691-cabinet-of-curiosities-vr.json](./201691-cabinet-of-curiosities-vr.json) |
 | Cabins: Jigsaw Puzzles | 103465 | [103465-cabins-jigsaw-puzzles.json](./103465-cabins-jigsaw-puzzles.json) |
 | Cable 2 | 11363 | [11363-cable-2.json](./11363-cable-2.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: The Holy Relics | 127263 | [127263-castlevania-the-holy-relics.json](./127263-castlevania-the-holy-relics.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
 | CastleVille Legends | 38906 | [38906-castleville-legends.json](./38906-castleville-legends.json) |
+| Castlewatch | 248006 | [248006-castlewatch.json](./248006-castlewatch.json) |
 | Castleyard | 312757 | [312757-castleyard.json](./312757-castleyard.json) |
 | Castrol Honda: World Superbike Team - Superbike Racing | 139243 | [139243-castrol-honda-world-superbike-team-superbike-racing.json](./139243-castrol-honda-world-superbike-team-superbike-racing.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
@@ -5445,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Game Pack | 409563 | [409563-cool-game-pack.json](./409563-cool-game-pack.json) |
 | Cool Go | 301282 | [301282-cool-go.json](./301282-cool-go.json) |
 | Cool Kid Cody | 195175 | [195175-cool-kid-cody.json](./195175-cool-kid-cody.json) |
+| Cool Kid Cody: Season 2 - Episode 04 | 248017 | [248017-cool-kid-cody-season-2-episode-04.json](./248017-cool-kid-cody-season-2-episode-04.json) |
 | Cool Kid Cody: Season 2 - Episode 09 | 253977 | [253977-cool-kid-cody-season-2-episode-09.json](./253977-cool-kid-cody-season-2-episode-09.json) |
 | Cool Kid Cody: Season 2 - Episode 10 | 252693 | [252693-cool-kid-cody-season-2-episode-10.json](./252693-cool-kid-cody-season-2-episode-10.json) |
 | Cool Kid Cody: Season 3 - Episode 09 | 312007 | [312007-cool-kid-cody-season-3-episode-09.json](./312007-cool-kid-cody-season-3-episode-09.json) |
@@ -7142,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Lines | 234189 | [234189-crystal-lines.json](./234189-crystal-lines.json) |
 | Crystal Maidens: Unleashed | 375950 | [375950-crystal-maidens-unleashed.json](./375950-crystal-maidens-unleashed.json) |
 | Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
+| Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
 | Crystal Project: Mod Pack 2 - New Challenges | 314886 | [314886-crystal-project-mod-pack-2-new-challenges.json](./314886-crystal-project-mod-pack-2-new-challenges.json) |
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
@@ -7749,6 +7753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
 | Cyber Girls | 376754 | [376754-cyber-girls.json](./376754-cyber-girls.json) |
+| Cyber Heart | 247977 | [247977-cyber-heart.json](./247977-cyber-heart.json) |
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
 | Cyber Hentai | 149430 | [149430-cyber-hentai.json](./149430-cyber-hentai.json) |
 | Cyber​​ Honey | 193882 | [193882-cyber-honey.json](./193882-cyber-honey.json) |
