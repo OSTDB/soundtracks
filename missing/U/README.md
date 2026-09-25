@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
 | Upin & Ipin Universe | 347867 | [347867-upin-and-ipin-universe.json](./347867-upin-and-ipin-universe.json) |
 | Upin Dash | 174232 | [174232-upin-dash.json](./174232-upin-dash.json) |
+| Uplife | 236775 | [236775-uplife.json](./236775-uplife.json) |
 | Upload | 382312 | [382312-upload.json](./382312-upload.json) |
 | Upload Aliens | 390102 | [390102-upload-aliens.json](./390102-upload-aliens.json) |
 | Upload Complete | 335341 | [335341-upload-complete.json](./335341-upload-complete.json) |
