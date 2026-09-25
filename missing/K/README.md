@@ -532,6 +532,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaz Ball | 81735 | [81735-kaz-ball.json](./81735-kaz-ball.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
+| Kaze no Tansakusha 2: Shadow Kingdom | 270633 | [270633-kaze-no-tansakusha-2-shadow-kingdom.json](./270633-kaze-no-tansakusha-2-shadow-kingdom.json) |
+| Kaze no Tansakusha: Grand Slam | 270630 | [270630-kaze-no-tansakusha-grand-slam.json](./270630-kaze-no-tansakusha-grand-slam.json) |
 | Kaze no Tayori 2 | 403039 | [403039-kaze-no-tayori-2.json](./403039-kaze-no-tayori-2.json) |
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
 | Kazfall | 413875 | [413875-kazfall.json](./413875-kazfall.json) |
@@ -1643,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa 2: Lunatea's Veil | 9709 | [9709-klonoa-2-lunateas-veil.json](./9709-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
 | Klonoa Phantasy Reverie Series | 191405 | [191405-klonoa-phantasy-reverie-series.json](./191405-klonoa-phantasy-reverie-series.json) |
+| Klonoa: Door to Phantomile | 270725 | [270725-klonoa-door-to-phantomile.json](./270725-klonoa-door-to-phantomile.json) |
 | Klonoa: Empire of Dreams | 6492 | [6492-klonoa-empire-of-dreams.json](./6492-klonoa-empire-of-dreams.json) |
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
 | Klung | 182533 | [182533-klung.json](./182533-klung.json) |
