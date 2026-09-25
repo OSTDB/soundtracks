@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac | 229814 | [229814-maniac.json](./229814-maniac.json) |
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
 | Maniac Mansion | 307416 | [307416-maniac-mansion.json](./307416-maniac-mansion.json) |
+| Maniac Mansion Mania | 279026 | [279026-maniac-mansion-mania.json](./279026-maniac-mansion-mania.json) |
 | Maniac Mole | 66937 | [66937-maniac-mole.json](./66937-maniac-mole.json) |
 | Maniac Outhouse | 301441 | [301441-maniac-outhouse.json](./301441-maniac-outhouse.json) |
 | Maniac Path 2 | 169387 | [169387-maniac-path-2.json](./169387-maniac-path-2.json) |
@@ -1989,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Monsters | 387016 | [387016-master-of-monsters.json](./387016-master-of-monsters.json) |
 | Master of Monsters | 387018 | [387018-master-of-monsters.json](./387018-master-of-monsters.json) |
 | Master of Monsters | 74049 | [74049-master-of-monsters.json](./74049-master-of-monsters.json) |
+| Master of Music | 279058 | [279058-master-of-music.json](./279058-master-of-music.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
