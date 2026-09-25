@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walker | 12818 | [12818-walker.json](./12818-walker.json) |
 | Walker | 377284 | [377284-walker.json](./377284-walker.json) |
 | Walkerman | 34830 | [34830-walkerman.json](./34830-walkerman.json) |
+| Walkies | 238474 | [238474-walkies.json](./238474-walkies.json) |
 | Walking Heavy | 61597 | [61597-walking-heavy.json](./61597-walking-heavy.json) |
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted Shadows: Unchained | 373076 | [373076-wanted-shadows-unchained.json](./373076-wanted-shadows-unchained.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
+| Wanted: Romance Renegades | 238415 | [238415-wanted-romance-renegades.json](./238415-wanted-romance-renegades.json) |
 | Wanted: Yokai Uprising | 309889 | [309889-wanted-yokai-uprising.json](./309889-wanted-yokai-uprising.json) |
 | Wanting Shock | 361675 | [361675-wanting-shock.json](./361675-wanting-shock.json) |
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
@@ -745,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarpForce | 55876 | [55876-warpforce.json](./55876-warpforce.json) |
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
+| Warplanes Bundle | 238436 | [238436-warplanes-bundle.json](./238436-warplanes-bundle.json) |
 | Warplanes Inc. | 327206 | [327206-warplanes-inc.json](./327206-warplanes-inc.json) |
 | Warplanes: Air Corp | 266302 | [266302-warplanes-air-corp.json](./266302-warplanes-air-corp.json) |
 | Warplanes: WW1 Sky Aces | 123569 | [123569-warplanes-ww1-sky-aces.json](./123569-warplanes-ww1-sky-aces.json) |
