@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Deep Web | 184608 | [184608-into-the-deep-web.json](./184608-into-the-deep-web.json) |
 | Into The Depths | 287741 | [287741-into-the-depths.json](./287741-into-the-depths.json) |
 | Into the Depths Below | 279127 | [279127-into-the-depths-below.json](./279127-into-the-depths-below.json) |
+| Into the Dungeon | 238983 | [238983-into-the-dungeon.json](./238983-into-the-dungeon.json) |
 | Into the Dungeon | 258171 | [258171-into-the-dungeon.json](./258171-into-the-dungeon.json) |
 | Into the Eagle's Nest | 12616 | [12616-into-the-eagles-nest.json](./12616-into-the-eagles-nest.json) |
 | Into the Emberlands | 304726 | [304726-into-the-emberlands.json](./304726-into-the-emberlands.json) |
