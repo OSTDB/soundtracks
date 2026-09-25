@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unholy Heights | 16648 | [16648-unholy-heights.json](./16648-unholy-heights.json) |
 | Unholy Legacy | 306361 | [306361-unholy-legacy.json](./306361-unholy-legacy.json) |
 | Unholy Night: The Darkness Hunter | 26502 | [26502-unholy-night-the-darkness-hunter.json](./26502-unholy-night-the-darkness-hunter.json) |
+| Unholy Ossuary | 271789 | [271789-unholy-ossuary.json](./271789-unholy-ossuary.json) |
 | Unholy Realms | 140993 | [140993-unholy-realms.json](./140993-unholy-realms.json) |
 | UnHolY ToRturEr | 127912 | [127912-unholy-torturer.json](./127912-unholy-torturer.json) |
 | Unhost | 400251 | [400251-unhost.json](./400251-unhost.json) |
