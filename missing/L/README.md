@@ -1465,6 +1465,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Jigsaw Puzzles: At the Zoo | 239738 | [239738-lets-play-jigsaw-puzzles-at-the-zoo.json](./239738-lets-play-jigsaw-puzzles-at-the-zoo.json) |
 | Let's Play Jigsaw Puzzles: Birds | 240775 | [240775-lets-play-jigsaw-puzzles-birds.json](./240775-lets-play-jigsaw-puzzles-birds.json) |
 | Let's Play Jigsaw Puzzles: Butterflies & Moths | 232006 | [232006-lets-play-jigsaw-puzzles-butterflies-and-moths.json](./232006-lets-play-jigsaw-puzzles-butterflies-and-moths.json) |
+| Let's Play Jigsaw Puzzles: Flowers | 240766 | [240766-lets-play-jigsaw-puzzles-flowers.json](./240766-lets-play-jigsaw-puzzles-flowers.json) |
+| Let's Play Jigsaw Puzzles: France | 240750 | [240750-lets-play-jigsaw-puzzles-france.json](./240750-lets-play-jigsaw-puzzles-france.json) |
 | Let's Play Jigsaw Puzzles: On the Farm | 240811 | [240811-lets-play-jigsaw-puzzles-on-the-farm.json](./240811-lets-play-jigsaw-puzzles-on-the-farm.json) |
 | Let's Play Jigsaw Puzzles: Thailand and Cambodia | 239765 | [239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json](./239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json) |
 | Let's Play Jigsaw Puzzles: Underwater | 236821 | [236821-lets-play-jigsaw-puzzles-underwater.json](./236821-lets-play-jigsaw-puzzles-underwater.json) |
