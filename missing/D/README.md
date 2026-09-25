@@ -1128,6 +1128,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC Comics Super Heroes: The Watchtower | 220122 | [220122-dc-comics-super-heroes-the-watchtower.json](./220122-dc-comics-super-heroes-the-watchtower.json) |
 | DC Super Hero Girls: Food Fight | 316786 | [316786-dc-super-hero-girls-food-fight.json](./316786-dc-super-hero-girls-food-fight.json) |
+| DC Universe Online: Episode 17 - Unholy Matrimony & The Flash Museum Burglary | 271163 | [271163-dc-universe-online-episode-17-unholy-matrimony-and-the-flash-museum-burglary.json](./271163-dc-universe-online-episode-17-unholy-matrimony-and-the-flash-museum-burglary.json) |
+| DC Universe Online: Episode 18 - The Demon's Pit and Blackest Day | 271164 | [271164-dc-universe-online-episode-18-the-demons-pit-and-blackest-day.json](./271164-dc-universe-online-episode-18-the-demons-pit-and-blackest-day.json) |
+| DC Universe Online: Episode 19 - The Demon's Plan and Deep Desires | 271165 | [271165-dc-universe-online-episode-19-the-demons-plan-and-deep-desires.json](./271165-dc-universe-online-episode-19-the-demons-plan-and-deep-desires.json) |
+| DC Universe Online: Episode 20 - Blackest Night & Wastelands Wonderland | 271166 | [271166-dc-universe-online-episode-20-blackest-night-and-wastelands-wonderland.json](./271166-dc-universe-online-episode-20-blackest-night-and-wastelands-wonderland.json) |
+| DC Universe Online: Episode 21 - Prison Break and The First Piece | 271167 | [271167-dc-universe-online-episode-21-prison-break-and-the-first-piece.json](./271167-dc-universe-online-episode-21-prison-break-and-the-first-piece.json) |
+| DC Universe Online: Episode 22 - Science Spire and The Phantom Zone | 271168 | [271168-dc-universe-online-episode-22-science-spire-and-the-phantom-zone.json](./271168-dc-universe-online-episode-22-science-spire-and-the-phantom-zone.json) |
+| DC Universe Online: Episode 23 - The Will of Darkseid and Brainiac's Bottle Ship | 271169 | [271169-dc-universe-online-episode-23-the-will-of-darkseid-and-brainiacs-bottle-ship.json](./271169-dc-universe-online-episode-23-the-will-of-darkseid-and-brainiacs-bottle-ship.json) |
 | DC Wonder: Unlimited | 43496 | [43496-dc-wonder-unlimited.json](./43496-dc-wonder-unlimited.json) |
 | DC's Justice League: Cosmic Chaos | 228740 | [228740-dcs-justice-league-cosmic-chaos.json](./228740-dcs-justice-league-cosmic-chaos.json) |
 | DC3: Viral Menace | 244360 | [244360-dc3-viral-menace.json](./244360-dc3-viral-menace.json) |
@@ -7054,6 +7061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
 | Dylan Dog: Through the Looking Glass | 12422 | [12422-dylan-dog-through-the-looking-glass.json](./12422-dylan-dog-through-the-looking-glass.json) |
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
+| Dyna Blade | 271260 | [271260-dyna-blade.json](./271260-dyna-blade.json) |
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
 | Dynami Tracer | 2981 | [2981-dynami-tracer.json](./2981-dynami-tracer.json) |
