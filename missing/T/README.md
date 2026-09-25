@@ -4141,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
+| The Hero gives up!... Wait, What!? | 265582 | [265582-the-hero-gives-up-wait-what.json](./265582-the-hero-gives-up-wait-what.json) |
 | The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
 | The Hero Project: Redemption Season | 33089 | [33089-the-hero-project-redemption-season.json](./33089-the-hero-project-redemption-season.json) |
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
@@ -4356,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Intertwined Imprints | 293697 | [293697-the-intertwined-imprints.json](./293697-the-intertwined-imprints.json) |
 | The Interval Bureau: Extension 0 | 379028 | [379028-the-interval-bureau-extension-0.json](./379028-the-interval-bureau-extension-0.json) |
 | The Interview | 35786 | [35786-the-interview.json](./35786-the-interview.json) |
+| The Intruder | 265600 | [265600-the-intruder.json](./265600-the-intruder.json) |
 | The Invasion 2 | 268038 | [268038-the-invasion-2.json](./268038-the-invasion-2.json) |
 | The Invasion of Area 51 | 130871 | [130871-the-invasion-of-area-51.json](./130871-the-invasion-of-area-51.json) |
 | The Invention of "Q" | 383660 | [383660-the-invention-of-q.json](./383660-the-invention-of-q.json) |
@@ -11069,6 +11071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Brain! Spot the Difference with Dog Photos | 300842 | [300842-train-your-brain-spot-the-difference-with-dog-photos.json](./300842-train-your-brain-spot-the-difference-with-dog-photos.json) |
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
+| TrainCraft | 265614 | [265614-traincraft.json](./265614-traincraft.json) |
 | Trainee Death Simulator | 319810 | [319810-trainee-death-simulator.json](./319810-trainee-death-simulator.json) |
 | Training aim | 88239 | [88239-training-aim.json](./88239-training-aim.json) |
 | Training Elves | 288901 | [288901-training-elves.json](./288901-training-elves.json) |
@@ -12079,6 +12082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trucy's Magical Catastrophe | 309992 | [309992-trucys-magical-catastrophe.json](./309992-trucys-magical-catastrophe.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
+| True Abstraction: Plus | 265598 | [265598-true-abstraction-plus.json](./265598-true-abstraction-plus.json) |
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
