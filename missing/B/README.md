@@ -4164,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl 2: The Necromantic | 52651 | [52651-blood-bowl-2-the-necromantic.json](./52651-blood-bowl-2-the-necromantic.json) |
 | Blood Bowl 2: Undead | 52650 | [52650-blood-bowl-2-undead.json](./52650-blood-bowl-2-undead.json) |
 | Blood Bowl 2: Wood Elves | 52648 | [52648-blood-bowl-2-wood-elves.json](./52648-blood-bowl-2-wood-elves.json) |
+| Blood Bowl III: Season 1 | 250909 | [250909-blood-bowl-iii-season-1.json](./250909-blood-bowl-iii-season-1.json) |
 | Blood Bowl III: Season 2 | 302463 | [302463-blood-bowl-iii-season-2.json](./302463-blood-bowl-iii-season-2.json) |
 | Blood Bowl III: Season 3 | 302464 | [302464-blood-bowl-iii-season-3.json](./302464-blood-bowl-iii-season-3.json) |
 | Blood Bowl III: Season 4 | 302466 | [302466-blood-bowl-iii-season-4.json](./302466-blood-bowl-iii-season-4.json) |
@@ -4502,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | Blues Brothers S | 330865 | [330865-blues-brothers-s.json](./330865-blues-brothers-s.json) |
+| BlueSkies | 250907 | [250907-blueskies.json](./250907-blueskies.json) |
 | BlueSuburbia | 252235 | [252235-bluesuburbia.json](./252235-bluesuburbia.json) |
 | BlueTricks | 237087 | [237087-bluetricks.json](./237087-bluetricks.json) |
 | Bluevolution | 149419 | [149419-bluevolution.json](./149419-bluevolution.json) |
@@ -6141,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Arms DS | 21422 | [21422-brothers-in-arms-ds.json](./21422-brothers-in-arms-ds.json) |
 | Brothers in Arms: Hell's Highway | 618 | [618-brothers-in-arms-hells-highway.json](./618-brothers-in-arms-hells-highway.json) |
 | Brothers In Duty: Space Brawl | 390775 | [390775-brothers-in-duty-space-brawl.json](./390775-brothers-in-duty-space-brawl.json) |
+| Brothers in Hell | 250875 | [250875-brothers-in-hell.json](./250875-brothers-in-hell.json) |
 | Brothers: A Tale of Two Sons Remake | 279612 | [279612-brothers-a-tale-of-two-sons-remake.json](./279612-brothers-a-tale-of-two-sons-remake.json) |
 | Brothers: Clash of Fighters | 252152 | [252152-brothers-clash-of-fighters.json](./252152-brothers-clash-of-fighters.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
@@ -6286,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Dreams 3D | 330724 | [330724-bubble-dreams-3d.json](./330724-bubble-dreams-3d.json) |
 | Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
 | Bubble Fresh Fruits | 289376 | [289376-bubble-fresh-fruits.json](./289376-bubble-fresh-fruits.json) |
+| Bubble Ghost Remake | 250892 | [250892-bubble-ghost-remake.json](./250892-bubble-ghost-remake.json) |
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
