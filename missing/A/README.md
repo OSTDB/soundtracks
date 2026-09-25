@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
+| Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony | 201153 | [201153-agony.json](./201153-agony.json) |
@@ -1421,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
 | Aima | 60507 | [60507-aima.json](./60507-aima.json) |
 | Aimbeast | 124750 | [124750-aimbeast.json](./124750-aimbeast.json) |
+| Aimcademy | 273364 | [273364-aimcademy.json](./273364-aimcademy.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
 | Aimlabs | 67902 | [67902-aimlabs.json](./67902-aimlabs.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
@@ -2457,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Zone | 321491 | [321491-alpine-zone.json](./321491-alpine-zone.json) |
 | Alquiem | 330857 | [330857-alquiem.json](./330857-alquiem.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
+| Alruna and the Necro-Industrialists | 273354 | [273354-alruna-and-the-necro-industrialists.json](./273354-alruna-and-the-necro-industrialists.json) |
 | Alstan | 389734 | [389734-alstan.json](./389734-alstan.json) |
 | Alstroemeria | 274528 | [274528-alstroemeria.json](./274528-alstroemeria.json) |
 | Alt-Frequencies | 115650 | [115650-alt-frequencies.json](./115650-alt-frequencies.json) |
@@ -4911,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ars Vox Arcana | 339941 | [339941-ars-vox-arcana.json](./339941-ars-vox-arcana.json) |
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
+| Arsenal Online | 273361 | [273361-arsenal-online.json](./273361-arsenal-online.json) |
 | Arsene Lupin: Once a Thief | 302922 | [302922-arsene-lupin-once-a-thief.json](./302922-arsene-lupin-once-a-thief.json) |
 | Arsenic & Absinthe | 327191 | [327191-arsenic-and-absinthe.json](./327191-arsenic-and-absinthe.json) |
 | ARSoccer | 343471 | [343471-arsoccer.json](./343471-arsoccer.json) |
@@ -5539,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Miner: Cave Adventure | 294857 | [294857-astro-miner-cave-adventure.json](./294857-astro-miner-cave-adventure.json) |
 | Astro Miner: Moon Landing | 288310 | [288310-astro-miner-moon-landing.json](./288310-astro-miner-moon-landing.json) |
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
+| Astro Planes | 273355 | [273355-astro-planes.json](./273355-astro-planes.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
 | Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
 | Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
@@ -6011,6 +6016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australia Did It | 365278 | [365278-australia-did-it.json](./365278-australia-did-it.json) |
 | Australian Cricket Captain | 74080 | [74080-australian-cricket-captain.json](./74080-australian-cricket-captain.json) |
 | Australian Idol Sing | 71766 | [71766-australian-idol-sing.json](./71766-australian-idol-sing.json) |
+| Australian Maze | 273356 | [273356-australian-maze.json](./273356-australian-maze.json) |
 | Australiove | 181795 | [181795-australiove.json](./181795-australiove.json) |
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
@@ -6196,6 +6202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 2: Crystal Souls | 8802 | [8802-avernum-2-crystal-souls.json](./8802-avernum-2-crystal-souls.json) |
 | Avernum 3 | 57680 | [57680-avernum-3.json](./57680-avernum-3.json) |
 | Avernum 5 | 16338 | [16338-avernum-5.json](./16338-avernum-5.json) |
+| Aversion | 273360 | [273360-aversion.json](./273360-aversion.json) |
 | Avert Fate | 63245 | [63245-avert-fate.json](./63245-avert-fate.json) |
 | Avery Cardoza's Casino 2000 | 78694 | [78694-avery-cardozas-casino-2000.json](./78694-avery-cardozas-casino-2000.json) |
 | Aveyond 1: Rhen's Quest | 10010 | [10010-aveyond-1-rhens-quest.json](./10010-aveyond-1-rhens-quest.json) |
@@ -6408,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Adventure | 45668 | [45668-aztec-adventure.json](./45668-aztec-adventure.json) |
 | Aztec Mayhem! | 366405 | [366405-aztec-mayhem.json](./366405-aztec-mayhem.json) |
 | Aztec Solitaire | 91345 | [91345-aztec-solitaire.json](./91345-aztec-solitaire.json) |
+| Aztec Tiki Talisman | 273357 | [273357-aztec-tiki-talisman.json](./273357-aztec-tiki-talisman.json) |
 | Aztec Tower | 114332 | [114332-aztec-tower.json](./114332-aztec-tower.json) |
 | Aztlán Codex: El códice de los ancestros | 304684 | [304684-aztlan-codex-el-codice-de-los-ancestros.json](./304684-aztlan-codex-el-codice-de-los-ancestros.json) |
 | Aztlan Uncovered | 201308 | [201308-aztlan-uncovered.json](./201308-aztlan-uncovered.json) |
