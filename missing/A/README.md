@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pixel Story | 27210 | [27210-a-pixel-story.json](./27210-a-pixel-story.json) |
 | A Place Far Away | 367479 | [367479-a-place-far-away.json](./367479-a-place-far-away.json) |
 | A Place for the Unwilling | 18653 | [18653-a-place-for-the-unwilling.json](./18653-a-place-for-the-unwilling.json) |
+| A Plague Tale Bundle | 230801 | [230801-a-plague-tale-bundle.json](./230801-a-plague-tale-bundle.json) |
 | A Plague Tale: Innocence - Coats of Arms | 118201 | [118201-a-plague-tale-innocence-coats-of-arms.json](./118201-a-plague-tale-innocence-coats-of-arms.json) |
 | A Plague Tale: Requiem - Cloud Version | 206817 | [206817-a-plague-tale-requiem-cloud-version.json](./206817-a-plague-tale-requiem-cloud-version.json) |
 | A Plant's Life | 63845 | [63845-a-plants-life.json](./63845-a-plants-life.json) |
@@ -4463,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Nano Virtua Fighter 2 | 202869 | [202869-arcade-nano-virtua-fighter-2.json](./202869-arcade-nano-virtua-fighter-2.json) |
 | Arcade Pack | 399614 | [399614-arcade-pack.json](./399614-arcade-pack.json) |
 | Arcade Paradise VR | 279379 | [279379-arcade-paradise-vr.json](./279379-arcade-paradise-vr.json) |
+| Arcade Paradise: Kung Fury - Street Rage | 230798 | [230798-arcade-paradise-kung-fury-street-rage.json](./230798-arcade-paradise-kung-fury-street-rage.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Party Pak | 92977 | [92977-arcade-party-pak.json](./92977-arcade-party-pak.json) |
 | Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
@@ -5907,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Lynx Collection 2 | 134382 | [134382-atari-lynx-collection-2.json](./134382-atari-lynx-collection-2.json) |
 | Atari Masterpieces Vol. I | 47570 | [47570-atari-masterpieces-vol-i.json](./47570-atari-masterpieces-vol-i.json) |
 | Atari Masterpieces Vol. II | 47569 | [47569-atari-masterpieces-vol-ii.json](./47569-atari-masterpieces-vol-ii.json) |
+| Atari Recharged Bundle | 230800 | [230800-atari-recharged-bundle.json](./230800-atari-recharged-bundle.json) |
 | Atari Recharged: Volume One | 324499 | [324499-atari-recharged-volume-one.json](./324499-atari-recharged-volume-one.json) |
 | Atari Recharged: Volume Two | 324500 | [324500-atari-recharged-volume-two.json](./324500-atari-recharged-volume-two.json) |
 | Atari Retro Handheld Console | 277413 | [277413-atari-retro-handheld-console.json](./277413-atari-retro-handheld-console.json) |
