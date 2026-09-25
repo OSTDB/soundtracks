@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
 | Ragnarok Rush | 110282 | [110282-ragnarok-rush.json](./110282-ragnarok-rush.json) |
+| Ragnarok Survivors: Valhalla | 235683 | [235683-ragnarok-survivors-valhalla.json](./235683-ragnarok-survivors-valhalla.json) |
 | Ragnarok Tactics | 243421 | [243421-ragnarok-tactics.json](./243421-ragnarok-tactics.json) |
 | Ragnarok: Fallen Legends | 227932 | [227932-ragnarok-fallen-legends.json](./227932-ragnarok-fallen-legends.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
@@ -2609,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Momories | 115622 | [115622-reverse-momories.json](./115622-reverse-momories.json) |
 | Reversed Dreamland | 50515 | [50515-reversed-dreamland.json](./50515-reversed-dreamland.json) |
 | Reversed Front | 224632 | [224632-reversed-front.json](./224632-reversed-front.json) |
+| Reversed Rebecca | 235682 | [235682-reversed-rebecca.json](./235682-reversed-rebecca.json) |
 | ReverseRoom | 238511 | [238511-reverseroom.json](./238511-reverseroom.json) |
 | Reversi | 288835 | [288835-reversi.json](./288835-reversi.json) |
 | Reversi | 319596 | [319596-reversi.json](./319596-reversi.json) |
