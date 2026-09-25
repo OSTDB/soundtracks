@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings: War of Clans | 44118 | [44118-vikings-war-of-clans.json](./44118-vikings-war-of-clans.json) |
 | VikingStory | 149418 | [149418-vikingstory.json](./149418-vikingstory.json) |
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
+| Vila do Nevoeiro R.E.L.I.D.O | 261300 | [261300-vila-do-nevoeiro-r-e-l-i-d-o.json](./261300-vila-do-nevoeiro-r-e-l-i-d-o.json) |
 | Vile | 111386 | [111386-vile.json](./111386-vile.json) |
 | Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
 | Villa Escape | 272874 | [272874-villa-escape.json](./272874-villa-escape.json) |
