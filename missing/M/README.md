@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower | 210644 | [210644-magic-tower.json](./210644-magic-tower.json) |
 | Magic Tower 2018 | 111628 | [111628-magic-tower-2018.json](./111628-magic-tower-2018.json) |
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
+| Magic Tower Hero: DungeonKing | 255685 | [255685-magic-tower-hero-dungeonking.json](./255685-magic-tower-hero-dungeonking.json) |
 | Magic Tower: Tap Defense | 255735 | [255735-magic-tower-tap-defense.json](./255735-magic-tower-tap-defense.json) |
 | Magic Trap | 255143 | [255143-magic-trap.json](./255143-magic-trap.json) |
 | Magic Trap | 303642 | [303642-magic-trap.json](./303642-magic-trap.json) |
@@ -1178,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mannequin House | 171535 | [171535-mannequin-house.json](./171535-mannequin-house.json) |
 | Mannequin House | 290948 | [290948-mannequin-house.json](./290948-mannequin-house.json) |
 | Mannequin Mayhem: Physics Ragdoll Shooter | 286671 | [286671-mannequin-mayhem-physics-ragdoll-shooter.json](./286671-mannequin-mayhem-physics-ragdoll-shooter.json) |
+| Mannequin The Spotting | 255690 | [255690-mannequin-the-spotting.json](./255690-mannequin-the-spotting.json) |
 | Manners Be Damned! | 330900 | [330900-manners-be-damned.json](./330900-manners-be-damned.json) |
 | Manny's | 260528 | [260528-mannys.json](./260528-mannys.json) |
 | Manny's 2 | 329018 | [329018-mannys-2.json](./329018-mannys-2.json) |
@@ -1863,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 4: Who Needs You | 127042 | [127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json](./127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json) |
 | Marvel's Iron Man VR | 116585 | [116585-marvels-iron-man-vr.json](./116585-marvels-iron-man-vr.json) |
+| Marvel's Iron Man VR: Digital Deluxe Edition | 255653 | [255653-marvels-iron-man-vr-digital-deluxe-edition.json](./255653-marvels-iron-man-vr-digital-deluxe-edition.json) |
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
 | Marvel's Midnight Suns: Redemption | 239379 | [239379-marvels-midnight-suns-redemption.json](./239379-marvels-midnight-suns-redemption.json) |
 | Marvel's Midnight Suns: Season Pass | 293722 | [293722-marvels-midnight-suns-season-pass.json](./293722-marvels-midnight-suns-season-pass.json) |
