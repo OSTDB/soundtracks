@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Trash: Operation - Yellow Snow | 380557 | [380557-dead-trash-operation-yellow-snow.json](./380557-dead-trash-operation-yellow-snow.json) |
 | Dead Trigger | 36747 | [36747-dead-trigger.json](./36747-dead-trigger.json) |
 | Dead Trigger 2 | 36748 | [36748-dead-trigger-2.json](./36748-dead-trigger-2.json) |
+| Dead Trip: Hope | 236758 | [236758-dead-trip-hope.json](./236758-dead-trip-hope.json) |
 | Dead Trust | 383614 | [383614-dead-trust.json](./383614-dead-trust.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
 | Dead Watch | 347900 | [347900-dead-watch.json](./347900-dead-watch.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deity | 93500 | [93500-deity.json](./93500-deity.json) |
 | Deity Quest: Extended | 172114 | [172114-deity-quest-extended.json](./172114-deity-quest-extended.json) |
 | Deity's Domain | 306383 | [306383-deitys-domain.json](./306383-deitys-domain.json) |
+| DeIz | 236805 | [236805-deiz.json](./236805-deiz.json) |
 | Deja Vu | 229690 | [229690-deja-vu.json](./229690-deja-vu.json) |
 | Deja Vu 2: Lost in Las Vegas!! | 12418 | [12418-deja-vu-2-lost-in-las-vegas.json](./12418-deja-vu-2-lost-in-las-vegas.json) |
 | Déjà Vu I | 310192 | [310192-deja-vu-i.json](./310192-deja-vu-i.json) |
@@ -3698,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty | 412361 | [412361-dirty.json](./412361-dirty.json) |
 | Dirty Aim Trainer VR | 266752 | [266752-dirty-aim-trainer-vr.json](./266752-dirty-aim-trainer-vr.json) |
 | Dirty Dancing | 21491 | [21491-dirty-dancing.json](./21491-dirty-dancing.json) |
+| Dirty Dirty Pirates | 236790 | [236790-dirty-dirty-pirates.json](./236790-dirty-dirty-pirates.json) |
 | Dirty Fantasy | 405069 | [405069-dirty-fantasy.json](./405069-dirty-fantasy.json) |
 | Dirty Harry | 3142 | [3142-dirty-harry.json](./3142-dirty-harry.json) |
 | Dirty Harry: Excessive Force | 291010 | [291010-dirty-harry-excessive-force.json](./291010-dirty-harry-excessive-force.json) |
@@ -4653,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Die | 343339 | [343339-dont-die.json](./343339-dont-die.json) |
 | Don't Die Alone | 256788 | [256788-dont-die-alone.json](./256788-dont-die-alone.json) |
 | Don't Die Dateless, Dummy! | 33198 | [33198-dont-die-dateless-dummy.json](./33198-dont-die-dateless-dummy.json) |
+| Don't die in space! | 236783 | [236783-dont-die-in-space.json](./236783-dont-die-in-space.json) |
 | Don't Die Roguelike | 395892 | [395892-dont-die-roguelike.json](./395892-dont-die-roguelike.json) |
 | Don't Die, Mr. Robot! | 52178 | [52178-dont-die-mr-robot.json](./52178-dont-die-mr-robot.json) |
 | Don't Die! | 343340 | [343340-dont-die.json](./343340-dont-die.json) |
@@ -6234,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Showcase | 369752 | [369752-drift-showcase.json](./369752-drift-showcase.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
 | Drift Stunt Racing 2019 | 109769 | [109769-drift-stunt-racing-2019.json](./109769-drift-stunt-racing-2019.json) |
+| Drift With Your Pals | 236782 | [236782-drift-with-your-pals.json](./236782-drift-with-your-pals.json) |
 | Drift Zone | 76535 | [76535-drift-zone.json](./76535-drift-zone.json) |
 | Drift Zone 2 | 174845 | [174845-drift-zone-2.json](./174845-drift-zone-2.json) |
 | Drift: When Worlds Collide | 71505 | [71505-drift-when-worlds-collide.json](./71505-drift-when-worlds-collide.json) |
