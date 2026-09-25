@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Bloodlines 2: Deluxe Edition | 370896 | [370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json](./370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Premium Edition | 370897 | [370897-vampire-the-masquerade-bloodlines-2-premium-edition.json](./370897-vampire-the-masquerade-bloodlines-2-premium-edition.json) |
 | Vampire: The Masquerade - Coteries of New York & Shadows of New York | 146128 | [146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json](./146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json) |
+| Vampire: The Masquerade - Justice | 251559 | [251559-vampire-the-masquerade-justice.json](./251559-vampire-the-masquerade-justice.json) |
 | Vampire: The Masquerade - Night Road | 133401 | [133401-vampire-the-masquerade-night-road.json](./133401-vampire-the-masquerade-night-road.json) |
 | Vampire: The Masquerade - Parliament of Knives | 133402 | [133402-vampire-the-masquerade-parliament-of-knives.json](./133402-vampire-the-masquerade-parliament-of-knives.json) |
 | Vampire: The Masquerade - Parliament of Knives: What Stares Back | 216855 | [216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json](./216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json) |
@@ -1410,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel Delvers | 381686 | [381686-voxel-delvers.json](./381686-voxel-delvers.json) |
 | Voxel Doodle - Color By Number 3D | 105964 | [105964-voxel-doodle-color-by-number-3d.json](./105964-voxel-doodle-color-by-number-3d.json) |
+| Voxel Doom | 251544 | [251544-voxel-doom.json](./251544-voxel-doom.json) |
 | Voxel Doom II | 260124 | [260124-voxel-doom-ii.json](./260124-voxel-doom-ii.json) |
 | Voxel Girl | 188042 | [188042-voxel-girl.json](./188042-voxel-girl.json) |
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
