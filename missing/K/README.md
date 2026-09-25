@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakele Online: MMORPG | 151267 | [151267-kakele-online-mmorpg.json](./151267-kakele-online-mmorpg.json) |
 | Kakele Online: MMORPG - Bonanza | 265732 | [265732-kakele-online-mmorpg-bonanza.json](./265732-kakele-online-mmorpg-bonanza.json) |
 | Kakeochi | 415133 | [415133-kakeochi.json](./415133-kakeochi.json) |
+| Kakikuku Jump! | 234590 | [234590-kakikuku-jump.json](./234590-kakikuku-jump.json) |
 | Kakinoki Shogi | 37968 | [37968-kakinoki-shogi.json](./37968-kakinoki-shogi.json) |
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
 | Kako Yatai | 283807 | [283807-kako-yatai.json](./283807-kako-yatai.json) |
@@ -850,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Icarus | 279751 | [279751-kid-icarus.json](./279751-kid-icarus.json) |
 | Kid Icarus Enlightenment | 404256 | [404256-kid-icarus-enlightenment.json](./404256-kid-icarus-enlightenment.json) |
 | Kid Klown in Crazy Chase | 6349 | [6349-kid-klown-in-crazy-chase.json](./6349-kid-klown-in-crazy-chase.json) |
+| Kid Monkey: Banana Frenzy | 234549 | [234549-kid-monkey-banana-frenzy.json](./234549-kid-monkey-banana-frenzy.json) |
 | Kid Mystic: Enchanted Edition | 378206 | [378206-kid-mystic-enchanted-edition.json](./378206-kid-mystic-enchanted-edition.json) |
 | Kid Niki: Radical Ninja | 39465 | [39465-kid-niki-radical-ninja.json](./39465-kid-niki-radical-ninja.json) |
 | Kid no Hore Hore Daisakusen | 40237 | [40237-kid-no-hore-hore-daisakusen.json](./40237-kid-no-hore-hore-daisakusen.json) |
