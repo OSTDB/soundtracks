@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai: Digital Deluxe Edition | 262330 | [262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json](./262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json) |
+| Infinity Toss | 239629 | [239629-infinity-toss.json](./239629-infinity-toss.json) |
 | Infinity Tower | 357845 | [357845-infinity-tower.json](./357845-infinity-tower.json) |
 | Infinity Trials | 245817 | [245817-infinity-trials.json](./245817-infinity-trials.json) |
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
