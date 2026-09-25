@@ -2838,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinky Xmas | 340207 | [340207-pinky-xmas.json](./340207-pinky-xmas.json) |
 | Pinnacle of Darkness | 274202 | [274202-pinnacle-of-darkness.json](./274202-pinnacle-of-darkness.json) |
 | Pinnacle Point | 291463 | [291463-pinnacle-point.json](./291463-pinnacle-point.json) |
+| Pino the Elemental | 240752 | [240752-pino-the-elemental.json](./240752-pino-the-elemental.json) |
 | Pinocchio: Interactive Book | 265189 | [265189-pinocchio-interactive-book.json](./265189-pinocchio-interactive-book.json) |
 | Pinocchio's Puzzle | 84821 | [84821-pinocchios-puzzle.json](./84821-pinocchios-puzzle.json) |
 | Pinochle by Webfoot | 99396 | [99396-pinochle-by-webfoot.json](./99396-pinochle-by-webfoot.json) |
@@ -2866,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piozila 2 : Animal Adventures | 269066 | [269066-piozila-2-animal-adventures.json](./269066-piozila-2-animal-adventures.json) |
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
+| Pip: Battle for the Arctic | 240723 | [240723-pip-battle-for-the-arctic.json](./240723-pip-battle-for-the-arctic.json) |
 | Pip! | 123445 | [123445-pip.json](./123445-pip.json) |
 | Pip's Tale | 382449 | [382449-pips-tale.json](./382449-pips-tale.json) |
 | Pipe by BMX Streets | 89977 | [89977-pipe-by-bmx-streets.json](./89977-pipe-by-bmx-streets.json) |
@@ -4739,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
 | Pop Pop Pop! | 201135 | [201135-pop-pop-pop.json](./201135-pop-pop-pop.json) |
 | Pop Quiz logo | 108285 | [108285-pop-quiz-logo.json](./108285-pop-quiz-logo.json) |
+| Pop Some Eyes | 240747 | [240747-pop-some-eyes.json](./240747-pop-some-eyes.json) |
 | Pop Star Academy | 344935 | [344935-pop-star-academy.json](./344935-pop-star-academy.json) |
 | Pop Star Debut | 324684 | [324684-pop-star-debut.json](./324684-pop-star-debut.json) |
 | Pop Star Dress Up - Music Idol Girl | 101571 | [101571-pop-star-dress-up-music-idol-girl.json](./101571-pop-star-dress-up-music-idol-girl.json) |
