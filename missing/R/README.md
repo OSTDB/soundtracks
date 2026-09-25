@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rack and Run | 338805 | [338805-rack-and-run.json](./338805-rack-and-run.json) |
 | Rack Attack! | 342613 | [342613-rack-attack.json](./342613-rack-attack.json) |
 | Rack N Ruin | 12216 | [12216-rack-n-ruin.json](./12216-rack-n-ruin.json) |
+| Racket Club | 251558 | [251558-racket-club.json](./251558-racket-club.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Racquet Sports | 51060 | [51060-racquet-sports.json](./51060-racquet-sports.json) |
