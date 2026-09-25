@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Maze | 148912 | [148912-dark-maze.json](./148912-dark-maze.json) |
 | Dark Messiah of Might and Magic | 2369 | [2369-dark-messiah-of-might-and-magic.json](./2369-dark-messiah-of-might-and-magic.json) |
 | Dark Messiah of Might and Magic: Elements | 78210 | [78210-dark-messiah-of-might-and-magic-elements.json](./78210-dark-messiah-of-might-and-magic-elements.json) |
+| Dark Mirror | 270084 | [270084-dark-mirror.json](./270084-dark-mirror.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
@@ -3716,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 7: Glasses Costumes Set | 268541 | [268541-disgaea-7-glasses-costumes-set.json](./268541-disgaea-7-glasses-costumes-set.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
 | Disgaea 7: Vows of the Virtueless - Bonus Story: The Kind Demon, Singing Princess, and Thief Angel | 270198 | [270198-disgaea-7-vows-of-the-virtueless-bonus-story-the-kind-demon-singing-princess-and-thief-angel.json](./270198-disgaea-7-vows-of-the-virtueless-bonus-story-the-kind-demon-singing-princess-and-thief-angel.json) |
+| Disgaea 7: Vows of the Virtueless - Bonus Story: The Overlord, Demon Lord, and Sheltered Girl | 270076 | [270076-disgaea-7-vows-of-the-virtueless-bonus-story-the-overlord-demon-lord-and-sheltered-girl.json](./270076-disgaea-7-vows-of-the-virtueless-bonus-story-the-overlord-demon-lord-and-sheltered-girl.json) |
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
 | Disgrace: When Our Beautiful World Disappears | 377707 | [377707-disgrace-when-our-beautiful-world-disappears.json](./377707-disgrace-when-our-beautiful-world-disappears.json) |
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
@@ -5929,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamHero | 373118 | [373118-dreamhero.json](./373118-dreamhero.json) |
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
 | Dreamin' Cat | 276714 | [276714-dreamin-cat.json](./276714-dreamin-cat.json) |
+| Dreaminal | 270077 | [270077-dreaminal.json](./270077-dreaminal.json) |
 | Dreaming | 368552 | [368552-dreaming.json](./368552-dreaming.json) |
 | Dreaming | 370777 | [370777-dreaming.json](./370777-dreaming.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
