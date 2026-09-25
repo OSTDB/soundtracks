@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neural Dominion | 318543 | [318543-neural-dominion.json](./318543-neural-dominion.json) |
 | Neural Gear | 93545 | [93545-neural-gear.json](./93545-neural-gear.json) |
 | Neural Maze | 415283 | [415283-neural-maze.json](./415283-neural-maze.json) |
+| Neural Nest | 244206 | [244206-neural-nest.json](./244206-neural-nest.json) |
 | Neuralimina | 382215 | [382215-neuralimina.json](./382215-neuralimina.json) |
 | Neuro | 141857 | [141857-neuro.json](./141857-neuro.json) |
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
