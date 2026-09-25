@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find X | 310038 | [310038-find-x.json](./310038-find-x.json) |
 | Find Yer Treasure! | 176454 | [176454-find-yer-treasure.json](./176454-find-yer-treasure.json) |
 | Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
+| Find-a-frog | 229011 | [229011-find-a-frog.json](./229011-find-a-frog.json) |
 | Find-Life EP1 | 113500 | [113500-find-life-ep1.json](./113500-find-life-ep1.json) |
 | Find-O-Vision | 366425 | [366425-find-o-vision.json](./366425-find-o-vision.json) |
 | Finder Love: Hara Fumina - Futari no Futari de... | 196716 | [196716-finder-love-hara-fumina-futari-no-futari-de.json](./196716-finder-love-hara-fumina-futari-no-futari-de.json) |
@@ -2251,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Monshou no Nazo | 1435 | [1435-fire-emblem-monshou-no-nazo.json](./1435-fire-emblem-monshou-no-nazo.json) |
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
 | Fire Emblem: Radiant Dawn | 1442 | [1442-fire-emblem-radiant-dawn.json](./1442-fire-emblem-radiant-dawn.json) |
+| Fire Emblem: Sacred Stones Plus | 229002 | [229002-fire-emblem-sacred-stones-plus.json](./229002-fire-emblem-sacred-stones-plus.json) |
 | Fire Emblem: Sacred Stones Reforged | 344571 | [344571-fire-emblem-sacred-stones-reforged.json](./344571-fire-emblem-sacred-stones-reforged.json) |
 | Fire Emblem: Seisen no Keifu | 1436 | [1436-fire-emblem-seisen-no-keifu.json](./1436-fire-emblem-seisen-no-keifu.json) |
 | Fire Emblem: Shadow Dragon | 1444 | [1444-fire-emblem-shadow-dragon.json](./1444-fire-emblem-shadow-dragon.json) |
@@ -4759,6 +4761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
 | Frog Up! | 390816 | [390816-frog-up.json](./390816-frog-up.json) |
 | Frog vs Mural Girl 2: The Back Layer | 409762 | [409762-frog-vs-mural-girl-2-the-back-layer.json](./409762-frog-vs-mural-girl-2-the-back-layer.json) |
+| Frog Wizard Gem Quest | 228993 | [228993-frog-wizard-gem-quest.json](./228993-frog-wizard-gem-quest.json) |
 | Frogatto | 92280 | [92280-frogatto.json](./92280-frogatto.json) |
 | Frogatto & Friends | 343976 | [343976-frogatto-and-friends.json](./343976-frogatto-and-friends.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
