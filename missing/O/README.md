@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odessa | 333649 | [333649-odessa.json](./333649-odessa.json) |
 | Odezie | 129753 | [129753-odezie.json](./129753-odezie.json) |
 | ODIA | 135709 | [135709-odia.json](./135709-odia.json) |
+| OdiChat | 258498 | [258498-odichat.json](./258498-odichat.json) |
 | Odile: Black Duckling Tale | 381221 | [381221-odile-black-duckling-tale.json](./381221-odile-black-duckling-tale.json) |
 | Odin Sphere | 9110 | [9110-odin-sphere.json](./9110-odin-sphere.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
