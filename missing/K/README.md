@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing a Superstar | 160228 | [160228-killing-a-superstar.json](./160228-killing-a-superstar.json) |
 | Killing Baby Hitler | 399088 | [399088-killing-baby-hitler.json](./399088-killing-baby-hitler.json) |
 | Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
+| Killing Bullet | 272242 | [272242-killing-bullet.json](./272242-killing-bullet.json) |
 | Killing Floor | 2949 | [2949-killing-floor.json](./2949-killing-floor.json) |
 | Killing Floor 2: Deluxe Edition | 53242 | [53242-killing-floor-2-deluxe-edition.json](./53242-killing-floor-2-deluxe-edition.json) |
 | Killing Floor 2: Digital Deluxe Edition | 53241 | [53241-killing-floor-2-digital-deluxe-edition.json](./53241-killing-floor-2-digital-deluxe-edition.json) |
@@ -1821,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Know How | 343320 | [343320-know-how.json](./343320-know-how.json) |
 | Know more Thai | 214754 | [214754-know-more-thai.json](./214754-know-more-thai.json) |
 | Know That Flag! | 351006 | [351006-know-that-flag.json](./351006-know-that-flag.json) |
+| Know Your Limits | 272248 | [272248-know-your-limits.json](./272248-know-your-limits.json) |
 | Knowledge | 410931 | [410931-knowledge.json](./410931-knowledge.json) |
 | Knowledge Fever | 245863 | [245863-knowledge-fever.json](./245863-knowledge-fever.json) |
 | Knowledge Party | 275353 | [275353-knowledge-party.json](./275353-knowledge-party.json) |
