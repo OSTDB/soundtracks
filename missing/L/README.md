@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
 | Last Labyrinth | 109245 | [109245-last-labyrinth.json](./109245-last-labyrinth.json) |
 | Last Labyrinth: Collector's Edition | 139973 | [139973-last-labyrinth-collectors-edition.json](./139973-last-labyrinth-collectors-edition.json) |
+| Last Labyrinth: Lucidity Lost | 249725 | [249725-last-labyrinth-lucidity-lost.json](./249725-last-labyrinth-lucidity-lost.json) |
 | Last Lap Heroes | 211279 | [211279-last-lap-heroes.json](./211279-last-lap-heroes.json) |
 | Last Laugh | 337191 | [337191-last-laugh.json](./337191-last-laugh.json) |
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
@@ -2823,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loner's Spell | 182967 | [182967-loners-spell.json](./182967-loners-spell.json) |
 | Lonesome Road | 349408 | [349408-lonesome-road.json](./349408-lonesome-road.json) |
 | Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
+| Long | 249755 | [249755-long.json](./249755-long.json) |
 | Long | 292006 | [292006-long.json](./292006-long.json) |
 | Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
 | Long Dives | 413166 | [413166-long-dives.json](./413166-long-dives.json) |
