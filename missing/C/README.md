@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cantarella: Dominion of Qualia | 386219 | [386219-cantarella-dominion-of-qualia.json](./386219-cantarella-dominion-of-qualia.json) |
 | Canter Crossing | 276691 | [276691-canter-crossing.json](./276691-canter-crossing.json) |
 | Canterz Paranormies 2 | 226281 | [226281-canterz-paranormies-2.json](./226281-canterz-paranormies-2.json) |
+| Cantirium: God Slayer | 240726 | [240726-cantirium-god-slayer.json](./240726-cantirium-god-slayer.json) |
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
@@ -1895,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste: Farewell | 122556 | [122556-celeste-farewell.json](./122556-celeste-farewell.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
+| Celestiais & Dragões | 240741 | [240741-celestiais-and-dragoes.json](./240741-celestiais-and-dragoes.json) |
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
 | Celestial Crossing | 29983 | [29983-celestial-crossing.json](./29983-celestial-crossing.json) |
 | Celestial Crusade | 122983 | [122983-celestial-crusade.json](./122983-celestial-crusade.json) |
@@ -2166,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
 | Changeling | 113896 | [113896-changeling.json](./113896-changeling.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
+| Changer Seven | 240757 | [240757-changer-seven.json](./240757-changer-seven.json) |
 | Changes | 152903 | [152903-changes.json](./152903-changes.json) |
 | changeType() | 201128 | [201128-changetype.json](./201128-changetype.json) |
 | Channel 64 | 395048 | [395048-channel-64.json](./395048-channel-64.json) |
@@ -7153,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis Trilogy | 52852 | [52852-crysis-trilogy.json](./52852-crysis-trilogy.json) |
 | Crysis Warhead | 336 | [336-crysis-warhead.json](./336-crysis-warhead.json) |
 | Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
+| Cryspace | 240746 | [240746-cryspace.json](./240746-cryspace.json) |
 | Crystal Breaker | 284978 | [284978-crystal-breaker.json](./284978-crystal-breaker.json) |
 | Crystal Calamity | 350496 | [350496-crystal-calamity.json](./350496-crystal-calamity.json) |
 | Crystal Call | 142237 | [142237-crystal-call.json](./142237-crystal-call.json) |
