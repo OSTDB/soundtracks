@@ -3937,6 +3937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aperture: Salt Mines | 284366 | [284366-aperture-salt-mines.json](./284366-aperture-salt-mines.json) |
 | Apes Warfare | 374123 | [374123-apes-warfare.json](./374123-apes-warfare.json) |
 | Apes.io | 240311 | [240311-apes-io.json](./240311-apes-io.json) |
+| Apewar | 241939 | [241939-apewar.json](./241939-apewar.json) |
 | Apex | 5728 | [5728-apex.json](./5728-apex.json) |
 | Apex Drift Tokyo Streets | 323305 | [323305-apex-drift-tokyo-streets.json](./323305-apex-drift-tokyo-streets.json) |
 | Apex Gun | 247038 | [247038-apex-gun.json](./247038-apex-gun.json) |
