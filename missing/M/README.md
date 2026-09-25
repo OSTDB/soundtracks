@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
 | Magibrick | 290521 | [290521-magibrick.json](./290521-magibrick.json) |
 | Magic & Empire | 97380 | [97380-magic-and-empire.json](./97380-magic-and-empire.json) |
+| Magic & Legend: Time Knights | 228404 | [228404-magic-and-legend-time-knights.json](./228404-magic-and-legend-time-knights.json) |
 | Magic & Mayhem: The Art of Magic | 70956 | [70956-magic-and-mayhem-the-art-of-magic.json](./70956-magic-and-mayhem-the-art-of-magic.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
 | Magic 2014: Duels of the Planeswalkers - Deck Pack 1 | 362458 | [362458-magic-2014-duels-of-the-planeswalkers-deck-pack-1.json](./362458-magic-2014-duels-of-the-planeswalkers-deck-pack-1.json) |
@@ -1774,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Marvin: Templestone | 336928 | [336928-marshmallow-marvin-templestone.json](./336928-marshmallow-marvin-templestone.json) |
 | Marshmallow Melee | 67600 | [67600-marshmallow-melee.json](./67600-marshmallow-melee.json) |
 | Marshmellow Day Spa | 114153 | [114153-marshmellow-day-spa.json](./114153-marshmellow-day-spa.json) |
+| Marsi's Adventures | 228375 | [228375-marsis-adventures.json](./228375-marsis-adventures.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marsupilami: Hoobadventure - Tropical Edition | 152337 | [152337-marsupilami-hoobadventure-tropical-edition.json](./152337-marsupilami-hoobadventure-tropical-edition.json) |
 | Marswar | 257423 | [257423-marswar.json](./257423-marswar.json) |
@@ -5140,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
 | Mirai Ninja | 38548 | [38548-mirai-ninja.json](./38548-mirai-ninja.json) |
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
+| Mirai no Uta to, Tsunagaru Hitomi | 228352 | [228352-mirai-no-uta-to-tsunagaru-hitomi.json](./228352-mirai-no-uta-to-tsunagaru-hitomi.json) |
 | Mirai Shounen Conan | 42021 | [42021-mirai-shounen-conan.json](./42021-mirai-shounen-conan.json) |
 | Mirai Shounen Conan Digital Library | 268513 | [268513-mirai-shounen-conan-digital-library.json](./268513-mirai-shounen-conan-digital-library.json) |
 | Mirai's Midnight Stream | 351085 | [351085-mirais-midnight-stream.json](./351085-mirais-midnight-stream.json) |
@@ -5968,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monoshiri Jiyuugaku: Ogura Hyakunin Isshu-hen | 268514 | [268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json](./268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json) |
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
+| Monpals | 228383 | [228383-monpals.json](./228383-monpals.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
 | Monroe Park | 376564 | [376564-monroe-park.json](./376564-monroe-park.json) |
 | Mons | 178008 | [178008-mons.json](./178008-mons.json) |
@@ -7169,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Run and Jump | 249540 | [249540-mr-run-and-jump.json](./249540-mr-run-and-jump.json) |
 | Mr. Run and Jump 2600 | 280753 | [280753-mr-run-and-jump-2600.json](./280753-mr-run-and-jump-2600.json) |
 | Mr. Runner | 246474 | [246474-mr-runner.json](./246474-mr-runner.json) |
+| Mr. Saitou | 228357 | [228357-mr-saitou.json](./228357-mr-saitou.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
 | Mr. Shootem Breaks Out! | 266210 | [266210-mr-shootem-breaks-out.json](./266210-mr-shootem-breaks-out.json) |
 | Mr. Shorty | 337074 | [337074-mr-shorty.json](./337074-mr-shorty.json) |
@@ -7277,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muggo! | 237510 | [237510-muggo.json](./237510-muggo.json) |
 | Mughaan | 238522 | [238522-mughaan.json](./238522-mughaan.json) |
 | Mugogy Jump | 298300 | [298300-mugogy-jump.json](./298300-mugogy-jump.json) |
+| Muhammad Ali | 228360 | [228360-muhammad-ali.json](./228360-muhammad-ali.json) |
 | Muhammad Ali Heavyweight Boxing | 46269 | [46269-muhammad-ali-heavyweight-boxing.json](./46269-muhammad-ali-heavyweight-boxing.json) |
 | Muhammad Ali: Puzzle King | 57914 | [57914-muhammad-ali-puzzle-king.json](./57914-muhammad-ali-puzzle-king.json) |
 | Mühle-Online | 84275 | [84275-muhle-online.json](./84275-muhle-online.json) |
@@ -8011,6 +8017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Next Life as a Bird | 274756 | [274756-my-next-life-as-a-bird.json](./274756-my-next-life-as-a-bird.json) |
 | My Next Life as a Villainess: All Routes Lead to Doom! - Pirates of the Disturbance: Day One Edition | 270177 | [270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json](./270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json) |
 | My Night Sun All Games | 276308 | [276308-my-night-sun-all-games.json](./276308-my-night-sun-all-games.json) |
+| My Ninja Destiny | 228359 | [228359-my-ninja-destiny.json](./228359-my-ninja-destiny.json) |
 | My Nonogram Waifu: Forbidden Love | 262367 | [262367-my-nonogram-waifu-forbidden-love.json](./262367-my-nonogram-waifu-forbidden-love.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
