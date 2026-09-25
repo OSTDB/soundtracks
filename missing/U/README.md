@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Slot Street | 220297 | [220297-universal-slot-street.json](./220297-universal-slot-street.json) |
 | Universal Space Station | 116989 | [116989-universal-space-station.json](./116989-universal-space-station.json) |
 | Universal Studios Monsters: Monsterville | 12904 | [12904-universal-studios-monsters-monsterville.json](./12904-universal-studios-monsters-monsterville.json) |
+| Universal Studios Theme Parks Adventure Adventure | 237342 | [237342-universal-studios-theme-parks-adventure-adventure.json](./237342-universal-studios-theme-parks-adventure-adventure.json) |
 | Universal Truck Simulator | 220211 | [220211-universal-truck-simulator.json](./220211-universal-truck-simulator.json) |
 | Universal Warrior | 70115 | [70115-universal-warrior.json](./70115-universal-warrior.json) |
 | Universally Loved | 106561 | [106561-universally-loved.json](./106561-universally-loved.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unread Messages | 262935 | [262935-unread-messages.json](./262935-unread-messages.json) |
 | Unread Messages | 291570 | [291570-unread-messages.json](./291570-unread-messages.json) |
 | Unreal | 12806 | [12806-unreal.json](./12806-unreal.json) |
+| Unreal Anthology | 237294 | [237294-unreal-anthology.json](./237294-unreal-anthology.json) |
 | Unreal Championship | 6220 | [6220-unreal-championship.json](./6220-unreal-championship.json) |
 | Unreal Drift Online Car Racing | 174891 | [174891-unreal-drift-online-car-racing.json](./174891-unreal-drift-online-car-racing.json) |
 | Unreal Estate | 44103 | [44103-unreal-estate.json](./44103-unreal-estate.json) |
