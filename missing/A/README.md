@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
+| A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
 | A Border With No End | 414416 | [414416-a-border-with-no-end.json](./414416-a-border-with-no-end.json) |
@@ -520,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
 | Abandoned Archive | 190083 | [190083-abandoned-archive.json](./190083-abandoned-archive.json) |
+| Abandoned Drive-in | 234018 | [234018-abandoned-drive-in.json](./234018-abandoned-drive-in.json) |
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
@@ -2870,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Illinois | 348974 | [348974-american-truck-simulator-illinois.json](./348974-american-truck-simulator-illinois.json) |
 | American Truck Simulator: Iowa | 348972 | [348972-american-truck-simulator-iowa.json](./348972-american-truck-simulator-iowa.json) |
 | American Truck Simulator: JCB Equipment Pack | 302496 | [302496-american-truck-simulator-jcb-equipment-pack.json](./302496-american-truck-simulator-jcb-equipment-pack.json) |
+| American Truck Simulator: Kansas | 233986 | [233986-american-truck-simulator-kansas.json](./233986-american-truck-simulator-kansas.json) |
 | American Truck Simulator: Kenworth T680 2022 | 283910 | [283910-american-truck-simulator-kenworth-t680-2022.json](./283910-american-truck-simulator-kenworth-t680-2022.json) |
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
 | American Truck Simulator: Louisiana | 348973 | [348973-american-truck-simulator-louisiana.json](./348973-american-truck-simulator-louisiana.json) |
@@ -5775,7 +5778,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | Astronauters | 252690 | [252690-astronauters.json](./252690-astronauters.json) |
+| Astroneer: Awakening | 234024 | [234024-astroneer-awakening.json](./234024-astroneer-awakening.json) |
 | Astroneer: Glitchwalkers | 315620 | [315620-astroneer-glitchwalkers.json](./315620-astroneer-glitchwalkers.json) |
+| Astroneer: Jet Powered | 234027 | [234027-astroneer-jet-powered.json](./234027-astroneer-jet-powered.json) |
+| Astroneer: Rails | 234025 | [234025-astroneer-rails.json](./234025-astroneer-rails.json) |
+| Astroneer: Xenobiology | 234026 | [234026-astroneer-xenobiology.json](./234026-astroneer-xenobiology.json) |
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
 | Astronoka | 94714 | [94714-astronoka.json](./94714-astronoka.json) |
 | Astronomic Date | 238614 | [238614-astronomic-date.json](./238614-astronomic-date.json) |
