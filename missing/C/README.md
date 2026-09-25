@@ -5576,6 +5576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CorAstral | 345685 | [345685-corastral.json](./345685-corastral.json) |
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
+| Corbyn Slots: General Election 2017 | 235133 | [235133-corbyn-slots-general-election-2017.json](./235133-corbyn-slots-general-election-2017.json) |
 | Cordel Lands | 393823 | [393823-cordel-lands.json](./393823-cordel-lands.json) |
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
@@ -6238,6 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bugs Cake Defense | 353954 | [353954-crash-bugs-cake-defense.json](./353954-crash-bugs-cake-defense.json) |
 | Crash Car Racer | 50620 | [50620-crash-car-racer.json](./50620-crash-car-racer.json) |
 | Crash Cars: Driven to Destruction | 247743 | [247743-crash-cars-driven-to-destruction.json](./247743-crash-cars-driven-to-destruction.json) |
+| Crash Cart | 235144 | [235144-crash-cart.json](./235144-crash-cart.json) |
 | Crash Cleaner | 165656 | [165656-crash-cleaner.json](./165656-crash-cleaner.json) |
 | Crash Commando | 21136 | [21136-crash-commando.json](./21136-crash-commando.json) |
 | Crash Course | 380094 | [380094-crash-course.json](./380094-crash-course.json) |
@@ -6418,6 +6420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
 | Crazy Kong | 130753 | [130753-crazy-kong.json](./130753-crazy-kong.json) |
 | Crazy Kong | 13833 | [13833-crazy-kong.json](./13833-crazy-kong.json) |
+| Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
 | Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
 | Crazy Machines 2: Anniversary DLC | 164367 | [164367-crazy-machines-2-anniversary-dlc.json](./164367-crazy-machines-2-anniversary-dlc.json) |
 | Crazy Machines 2: Back to the Shop Add-On | 164373 | [164373-crazy-machines-2-back-to-the-shop-add-on.json](./164373-crazy-machines-2-back-to-the-shop-add-on.json) |
