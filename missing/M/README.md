@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Arena | 322755 | [322755-madness-arena.json](./322755-madness-arena.json) |
 | Madness Below | 326619 | [326619-madness-below.json](./326619-madness-below.json) |
 | Madness Chambers | 246947 | [246947-madness-chambers.json](./246947-madness-chambers.json) |
+| Madness Combat | 252101 | [252101-madness-combat.json](./252101-madness-combat.json) |
 | Madness Cubed | 33259 | [33259-madness-cubed.json](./33259-madness-cubed.json) |
 | Madness Hydraulic | 290417 | [290417-madness-hydraulic.json](./290417-madness-hydraulic.json) |
 | Madness in the Dark | 251011 | [251011-madness-in-the-dark.json](./251011-madness-in-the-dark.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marathon Infinity | 8711 | [8711-marathon-infinity.json](./8711-marathon-infinity.json) |
 | Marathon Recompiled | 358340 | [358340-marathon-recompiled.json](./358340-marathon-recompiled.json) |
 | Marathon: Durandal | 299291 | [299291-marathon-durandal.json](./299291-marathon-durandal.json) |
+| Marathon: Istoria | 252087 | [252087-marathon-istoria.json](./252087-marathon-istoria.json) |
 | Maratoma do Faustão | 242648 | [242648-maratoma-do-faustao.json](./242648-maratoma-do-faustao.json) |
 | Marauder | 55054 | [55054-marauder.json](./55054-marauder.json) |
 | Marauders | 132995 | [132995-marauders.json](./132995-marauders.json) |
@@ -3642,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meru Purana | 125421 | [125421-meru-purana.json](./125421-meru-purana.json) |
 | Mervils: A VR Adventure | 27385 | [27385-mervils-a-vr-adventure.json](./27385-mervils-a-vr-adventure.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
+| Mesa | 252098 | [252098-mesa.json](./252098-mesa.json) |
 | Meseugaki Yeong-ae-nim! | 232426 | [232426-meseugaki-yeong-ae-nim.json](./232426-meseugaki-yeong-ae-nim.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meshchera | 415882 | [415882-meshchera.json](./415882-meshchera.json) |
@@ -3852,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Storm | 379900 | [379900-meteor-storm.json](./379900-meteor-storm.json) |
 | Meteor Tensei | 141029 | [141029-meteor-tensei.json](./141029-meteor-tensei.json) |
 | Meteor World Actor: Badge & Dagger | 194451 | [194451-meteor-world-actor-badge-and-dagger.json](./194451-meteor-world-actor-badge-and-dagger.json) |
+| Meteor World Actor: Badge & Dagger | 252088 | [252088-meteor-world-actor-badge-and-dagger.json](./252088-meteor-world-actor-badge-and-dagger.json) |
 | Meteorder | 317977 | [317977-meteorder.json](./317977-meteorder.json) |
 | Meteorfall: Krumit's Tale | 98379 | [98379-meteorfall-krumits-tale.json](./98379-meteorfall-krumits-tale.json) |
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
