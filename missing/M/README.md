@@ -2888,7 +2888,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Deal Card | 390276 | [390276-mega-deal-card.json](./390276-mega-deal-card.json) |
 | Mega Demon Blaster | 207379 | [207379-mega-demon-blaster.json](./207379-mega-demon-blaster.json) |
 | Mega Drive | 305267 | [305267-mega-drive.json](./305267-mega-drive.json) |
+| Mega Drive 3 | 230810 | [230810-mega-drive-3.json](./230810-mega-drive-3.json) |
 | Mega Drive 3 | 230834 | [230834-mega-drive-3.json](./230834-mega-drive-3.json) |
+| Mega Drive 3: 81 Super Jogos | 230811 | [230811-mega-drive-3-81-super-jogos.json](./230811-mega-drive-3-81-super-jogos.json) |
+| Mega Drive 4 | 230774 | [230774-mega-drive-4.json](./230774-mega-drive-4.json) |
+| Mega Drive 4 | 230789 | [230789-mega-drive-4.json](./230789-mega-drive-4.json) |
 | Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
 | Mega Drive Mini 2 | 215702 | [215702-mega-drive-mini-2.json](./215702-mega-drive-mini-2.json) |
 | Mega Dystopia Micro Architect | 271696 | [271696-mega-dystopia-micro-architect.json](./271696-mega-dystopia-micro-architect.json) |
