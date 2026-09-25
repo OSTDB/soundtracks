@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Sectors | 260785 | [260785-2-sectors.json](./260785-2-sectors.json) |
 | 2 Spicy | 66967 | [66967-2-spicy.json](./66967-2-spicy.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
+| 2 Volt | 246918 | [246918-2-volt.json](./246918-2-volt.json) |
 | 2-3-5-7 | 186187 | [186187-2-3-5-7.json](./186187-2-3-5-7.json) |
 | 2-bit Cowboy | 39234 | [39234-2-bit-cowboy.json](./39234-2-bit-cowboy.json) |
 | 2-Bit Cowboy Rides Again | 316061 | [316061-2-bit-cowboy-rides-again.json](./316061-2-bit-cowboy-rides-again.json) |
