@@ -2356,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickaxe Tower | 362860 | [362860-pickaxe-tower.json](./362860-pickaxe-tower.json) |
 | Picker Bot 42 | 287189 | [287189-picker-bot-42.json](./287189-picker-bot-42.json) |
 | Picket Fences | 262345 | [262345-picket-fences.json](./262345-picket-fences.json) |
+| Picket Line | 249714 | [249714-picket-line.json](./249714-picket-line.json) |
 | Picket Puzzle | 293778 | [293778-picket-puzzle.json](./293778-picket-puzzle.json) |
 | Pickle | 314264 | [314264-pickle.json](./314264-pickle.json) |
 | Pickle | 314284 | [314284-pickle.json](./314284-pickle.json) |
@@ -5151,6 +5152,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerSkate | 233238 | [233238-powerskate.json](./233238-powerskate.json) |
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
 | PowerSlave: Exhumed | 165054 | [165054-powerslave-exhumed.json](./165054-powerslave-exhumed.json) |
+| Powerstar Golf: Emperor's Garden | 249733 | [249733-powerstar-golf-emperors-garden.json](./249733-powerstar-golf-emperors-garden.json) |
+| Powerstar Golf: Rocky Ridge | 249724 | [249724-powerstar-golf-rocky-ridge.json](./249724-powerstar-golf-rocky-ridge.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
 | Powerup Humans | 290488 | [290488-powerup-humans.json](./290488-powerup-humans.json) |
 | PowerWash Adventure | 268977 | [268977-powerwash-adventure.json](./268977-powerwash-adventure.json) |
