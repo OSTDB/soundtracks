@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
 | Queen of Mountain | 158669 | [158669-queen-of-mountain.json](./158669-queen-of-mountain.json) |
 | Queen of Seas 2 | 102347 | [102347-queen-of-seas-2.json](./102347-queen-of-seas-2.json) |
+| Queen of Tactics | 272259 | [272259-queen-of-tactics.json](./272259-queen-of-tactics.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
