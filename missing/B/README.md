@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barney's Hide & Seek Game | 46286 | [46286-barneys-hide-and-seek-game.json](./46286-barneys-hide-and-seek-game.json) |
 | Barnicle | 344380 | [344380-barnicle.json](./344380-barnicle.json) |
 | Barnstormer | 92849 | [92849-barnstormer.json](./92849-barnstormer.json) |
+| Barnstormers: Determined to Win | 241304 | [241304-barnstormers-determined-to-win.json](./241304-barnstormers-determined-to-win.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
 | Baro Kart | 259009 | [259009-baro-kart.json](./259009-baro-kart.json) |
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
@@ -2131,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Weaver | 393657 | [393657-beat-weaver.json](./393657-beat-weaver.json) |
 | Beat Your Boss | 389743 | [389743-beat-your-boss.json](./389743-beat-your-boss.json) |
 | Beat, Heart, Beat | 322745 | [322745-beat-heart-beat.json](./322745-beat-heart-beat.json) |
+| Beat!: After the Summer - Another Season Episode | 241326 | [241326-beat-after-the-summer-another-season-episode.json](./241326-beat-after-the-summer-another-season-episode.json) |
 | BeatBlast: Rhythm Rampage | 325006 | [325006-beatblast-rhythm-rampage.json](./325006-beatblast-rhythm-rampage.json) |
 | BeatBlasters III | 9045 | [9045-beatblasters-iii.json](./9045-beatblasters-iii.json) |
 | BeatBlox | 68648 | [68648-beatblox.json](./68648-beatblox.json) |
@@ -6514,6 +6516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build A Queen: Pirate Edition | 399812 | [399812-build-a-queen-pirate-edition.json](./399812-build-a-queen-pirate-edition.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
+| Build and Drive Racing | 241305 | [241305-build-and-drive-racing.json](./241305-build-and-drive-racing.json) |
 | Build Bridges | 87992 | [87992-build-bridges.json](./87992-build-bridges.json) |
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
