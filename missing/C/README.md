@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
+| Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
 | Chat with Yu | 379552 | [379552-chat-with-yu.json](./379552-chat-with-yu.json) |
 | ChatBattlers | 316821 | [316821-chatbattlers.json](./316821-chatbattlers.json) |
@@ -2975,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
 | Christmas Hidden Objects | 102729 | [102729-christmas-hidden-objects.json](./102729-christmas-hidden-objects.json) |
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
+| Christmas Horse 4 | 280858 | [280858-christmas-horse-4.json](./280858-christmas-horse-4.json) |
 | Christmas Hustle | 320384 | [320384-christmas-hustle.json](./320384-christmas-hustle.json) |
 | Christmas Jigsaw Puzzle Pango | 108458 | [108458-christmas-jigsaw-puzzle-pango.json](./108458-christmas-jigsaw-puzzle-pango.json) |
 | Christmas Journey Puzzle | 283840 | [283840-christmas-journey-puzzle.json](./283840-christmas-journey-puzzle.json) |
@@ -5932,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
+| Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
 | Crackout | 48292 | [48292-crackout.json](./48292-crackout.json) |
 | Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
 | Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
