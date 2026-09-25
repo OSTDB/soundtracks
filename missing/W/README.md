@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Belong Dead | 406217 | [406217-we-belong-dead.json](./406217-we-belong-dead.json) |
 | We Build Below | 361760 | [361760-we-build-below.json](./361760-we-build-below.json) |
 | We Can Make It | 216485 | [216485-we-can-make-it.json](./216485-we-can-make-it.json) |
+| We Carry the Fire | 257321 | [257321-we-carry-the-fire.json](./257321-we-carry-the-fire.json) |
 | We Cheer | 5263 | [5263-we-cheer.json](./5263-we-cheer.json) |
 | We Could Just Be Annoying | 382442 | [382442-we-could-just-be-annoying.json](./382442-we-could-just-be-annoying.json) |
 | We Dance | 20580 | [20580-we-dance.json](./20580-we-dance.json) |
@@ -3603,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K23: Pretty Sweet Pack | 279032 | [279032-wwe-2k23-pretty-sweet-pack.json](./279032-wwe-2k23-pretty-sweet-pack.json) |
 | WWE 2K23: Race to NXT Pack | 279049 | [279049-wwe-2k23-race-to-nxt-pack.json](./279049-wwe-2k23-race-to-nxt-pack.json) |
+| WWE 2K23: Revel with Wyatt Pack | 257324 | [257324-wwe-2k23-revel-with-wyatt-pack.json](./257324-wwe-2k23-revel-with-wyatt-pack.json) |
 | WWE 2K23: Ruthless Aggression Pack | 279050 | [279050-wwe-2k23-ruthless-aggression-pack.json](./279050-wwe-2k23-ruthless-aggression-pack.json) |
 | WWE 2K23: Season Pass | 293721 | [293721-wwe-2k23-season-pass.json](./293721-wwe-2k23-season-pass.json) |
 | WWE 2K24 | 283600 | [283600-wwe-2k24.json](./283600-wwe-2k24.json) |
