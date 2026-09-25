@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
+| SAS: Zombie Assault 2 | 267983 | [267983-sas-zombie-assault-2.json](./267983-sas-zombie-assault-2.json) |
 | SAS: Zombie Assault 4 | 39197 | [39197-sas-zombie-assault-4.json](./39197-sas-zombie-assault-4.json) |
 | Sasa | 48602 | [48602-sasa.json](./48602-sasa.json) |
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
@@ -4108,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Star Reversi | 67963 | [67963-silver-star-reversi.json](./67963-silver-star-reversi.json) |
 | Silver State | 396245 | [396245-silver-state.json](./396245-silver-state.json) |
 | Silver Thread | 202227 | [202227-silver-thread.json](./202227-silver-thread.json) |
+| Silver Valley | 267976 | [267976-silver-valley.json](./267976-silver-valley.json) |
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
@@ -5614,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMW The Crown Tale | 267957 | [267957-smw-the-crown-tale.json](./267957-smw-the-crown-tale.json) |
 | SMW The Princess Rescue | 222890 | [222890-smw-the-princess-rescue.json](./222890-smw-the-princess-rescue.json) |
 | SMW The Princess Rescue 2: Luigi's Journey! | 222889 | [222889-smw-the-princess-rescue-2-luigis-journey.json](./222889-smw-the-princess-rescue-2-luigis-journey.json) |
+| SMWLV | 267974 | [267974-smwlv.json](./267974-smwlv.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
 | SMYS: Crystal Blocks | 311088 | [311088-smys-crystal-blocks.json](./311088-smys-crystal-blocks.json) |
 | SMYS: Crystal Blocks | 311089 | [311089-smys-crystal-blocks.json](./311089-smys-crystal-blocks.json) |
@@ -10731,6 +10734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Strato Breaker | 235357 | [235357-strato-breaker.json](./235357-strato-breaker.json) |
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
+| Strato-Spear | 268443 | [268443-strato-spear.json](./268443-strato-spear.json) |
 | Stratos | 24896 | [24896-stratos.json](./24896-stratos.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
 | Stratside | 130780 | [130780-stratside.json](./130780-stratside.json) |
@@ -11826,11 +11830,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
 | Super Beat 'em up World | 415317 | [415317-super-beat-em-up-world.json](./415317-super-beat-em-up-world.json) |
+| Super Beco World | 267888 | [267888-super-beco-world.json](./267888-super-beco-world.json) |
+| Super Beco World 2 | 267890 | [267890-super-beco-world-2.json](./267890-super-beco-world-2.json) |
+| Super Beco World 3 | 267892 | [267892-super-beco-world-3.json](./267892-super-beco-world-3.json) |
 | Super Bee | 41554 | [41554-super-bee.json](./41554-super-bee.json) |
 | Super Beta Tester | 335987 | [335987-super-beta-tester.json](./335987-super-beta-tester.json) |
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
 | Super Bike TransAm | 71804 | [71804-super-bike-transam.json](./71804-super-bike-transam.json) |
+| Super Bird | 267966 | [267966-super-bird.json](./267966-super-bird.json) |
 | Super Birdo 64 | 300686 | [300686-super-birdo-64.json](./300686-super-birdo-64.json) |
 | Super Bit Adventure: Paragons of Life | 87977 | [87977-super-bit-adventure-paragons-of-life.json](./87977-super-bit-adventure-paragons-of-life.json) |
 | Super Bitsy Land | 181866 | [181866-super-bitsy-land.json](./181866-super-bitsy-land.json) |
@@ -11865,6 +11873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
 | Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
 | Super Brothers Escape | 213384 | [213384-super-brothers-escape.json](./213384-super-brothers-escape.json) |
+| Super Bubble 2003 | 267979 | [267979-super-bubble-2003.json](./267979-super-bubble-2003.json) |
 | Super Bubble Bobble | 70327 | [70327-super-bubble-bobble.json](./70327-super-bubble-bobble.json) |
 | Super Bug | 40431 | [40431-super-bug.json](./40431-super-bug.json) |
 | Super Bullet Break | 196819 | [196819-super-bullet-break.json](./196819-super-bullet-break.json) |
@@ -12411,6 +12420,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Gravity | 213948 | [213948-super-mario-gravity.json](./213948-super-mario-gravity.json) |
 | Super Mario Holidays | 318553 | [318553-super-mario-holidays.json](./318553-super-mario-holidays.json) |
 | Super Mario Horizons | 276784 | [276784-super-mario-horizons.json](./276784-super-mario-horizons.json) |
+| Super Mario In Element World | 267978 | [267978-super-mario-in-element-world.json](./267978-super-mario-in-element-world.json) |
+| Super Mario In Element World 2: The Master Hand Revenge | 267980 | [267980-super-mario-in-element-world-2-the-master-hand-revenge.json](./267980-super-mario-in-element-world-2-the-master-hand-revenge.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
 | Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
@@ -12478,11 +12489,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
+| Super Mario World The Pit Version | 267973 | [267973-super-mario-world-the-pit-version.json](./267973-super-mario-world-the-pit-version.json) |
 | Super Mario World Widescreen | 165069 | [165069-super-mario-world-widescreen.json](./165069-super-mario-world-widescreen.json) |
 | Super Mario World: 2025 | 365286 | [365286-super-mario-world-2025.json](./365286-super-mario-world-2025.json) |
 | Super Mario World: A Haunted Christmas | 223023 | [223023-super-mario-world-a-haunted-christmas.json](./223023-super-mario-world-a-haunted-christmas.json) |
 | Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
 | Super Mario World: Return to Dinosaur Land | 42525 | [42525-super-mario-world-return-to-dinosaur-land.json](./42525-super-mario-world-return-to-dinosaur-land.json) |
+| Super Mario World: The Huge Adventure | 267968 | [267968-super-mario-world-the-huge-adventure.json](./267968-super-mario-world-the-huge-adventure.json) |
 | Super Mario World: The Lost Adventure - Episode I Remastered | 259290 | [259290-super-mario-world-the-lost-adventure-episode-i-remastered.json](./259290-super-mario-world-the-lost-adventure-episode-i-remastered.json) |
 | Super Mario World: The Second Reality Project - Reloaded | 202377 | [202377-super-mario-world-the-second-reality-project-reloaded.json](./202377-super-mario-world-the-second-reality-project-reloaded.json) |
 | Super Mario World: The Second Reality Project 2 - Zycloboo's Challenge | 202378 | [202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json](./202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json) |
@@ -12619,6 +12632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nitrous Zoomer | 114982 | [114982-super-nitrous-zoomer.json](./114982-super-nitrous-zoomer.json) |
 | Super Noah's Ark 3D | 11168 | [11168-super-noahs-ark-3d.json](./11168-super-noahs-ark-3d.json) |
 | Super Nosebleed Land | 105075 | [105075-super-nosebleed-land.json](./105075-super-nosebleed-land.json) |
+| Super Nostalgia World | 267972 | [267972-super-nostalgia-world.json](./267972-super-nostalgia-world.json) |
 | Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
 | Super Nova Party | 219576 | [219576-super-nova-party.json](./219576-super-nova-party.json) |
 | Super Nova Stadium | 165687 | [165687-super-nova-stadium.json](./165687-super-nova-stadium.json) |
@@ -12840,6 +12854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Land | 133944 | [133944-super-smash-land.json](./133944-super-smash-land.json) |
 | Super Smash T.V. | 19117 | [19117-super-smash-t-v.json](./19117-super-smash-t-v.json) |
 | Super Smash the Office | 174839 | [174839-super-smash-the-office.json](./174839-super-smash-the-office.json) |
+| Super Snake Block DX | 267971 | [267971-super-snake-block-dx.json](./267971-super-snake-block-dx.json) |
 | Super Snot Put | 326727 | [326727-super-snot-put.json](./326727-super-snot-put.json) |
 | Super Snowball Sunday | 74334 | [74334-super-snowball-sunday.json](./74334-super-snowball-sunday.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
