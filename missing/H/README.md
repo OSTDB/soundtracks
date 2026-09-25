@@ -2242,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero-ing Addict | 135043 | [135043-hero-ing-addict.json](./135043-hero-ing-addict.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
 | Hero's Advent | 361242 | [361242-heros-advent.json](./361242-heros-advent.json) |
+| Hero's Delirium | 266758 | [266758-heros-delirium.json](./266758-heros-delirium.json) |
 | Hero's Descent | 74363 | [74363-heros-descent.json](./74363-heros-descent.json) |
 | Hero's Everyday Life | 157706 | [157706-heros-everyday-life.json](./157706-heros-everyday-life.json) |
 | Hero's Hand | 335866 | [335866-heros-hand.json](./335866-heros-hand.json) |
