@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raider | 319597 | [319597-raider.json](./319597-raider.json) |
 | Raider | 351801 | [351801-raider.json](./351801-raider.json) |
+| Raider: Dark Age | 261753 | [261753-raider-dark-age.json](./261753-raider-dark-age.json) |
 | Raiders 1941 | 406812 | [406812-raiders-1941.json](./406812-raiders-1941.json) |
 | Raiders of Blackveil | 341668 | [341668-raiders-of-blackveil.json](./341668-raiders-of-blackveil.json) |
 | Raiders of Mizburgh | 185546 | [185546-raiders-of-mizburgh.json](./185546-raiders-of-mizburgh.json) |
@@ -1677,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedMoonWorld | 411616 | [411616-redmoonworld.json](./411616-redmoonworld.json) |
 | Redneck Brawl Turbo | 333172 | [333172-redneck-brawl-turbo.json](./333172-redneck-brawl-turbo.json) |
 | Redneck Ed: Astro Monsters Show | 132230 | [132230-redneck-ed-astro-monsters-show.json](./132230-redneck-ed-astro-monsters-show.json) |
+| Redneck Joe vs The Swamp Zombies | 261749 | [261749-redneck-joe-vs-the-swamp-zombies.json](./261749-redneck-joe-vs-the-swamp-zombies.json) |
 | Redneck Party | 151026 | [151026-redneck-party.json](./151026-redneck-party.json) |
 | Redneck Racers | 17199 | [17199-redneck-racers.json](./17199-redneck-racers.json) |
 | Redneck Rampage | 9002 | [9002-redneck-rampage.json](./9002-redneck-rampage.json) |
@@ -3187,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: The Game of Global Domination | 62161 | [62161-risk-the-game-of-global-domination.json](./62161-risk-the-game-of-global-domination.json) |
 | Riskant! | 263454 | [263454-riskant.json](./263454-riskant.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
+| Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
 | risTroyka | 142890 | [142890-ristroyka.json](./142890-ristroyka.json) |
 | Rita Hayworth Isn't In This Game | 112269 | [112269-rita-hayworth-isnt-in-this-game.json](./112269-rita-hayworth-isnt-in-this-game.json) |
 | Rite as Rain | 249851 | [249851-rite-as-rain.json](./249851-rite-as-rain.json) |
