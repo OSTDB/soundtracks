@@ -3097,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
 | Andarigas | 132767 | [132767-andarigas.json](./132767-andarigas.json) |
 | Andarilho | 33289 | [33289-andarilho.json](./33289-andarilho.json) |
+| Andarin Weppes | 257888 | [257888-andarin-weppes.json](./257888-andarin-weppes.json) |
 | AnderKant | 367493 | [367493-anderkant.json](./367493-anderkant.json) |
 | AnderKant 2 | 326243 | [326243-anderkant-2.json](./326243-anderkant-2.json) |
 | AnderKant 4 | 339935 | [339935-anderkant-4.json](./339935-anderkant-4.json) |
