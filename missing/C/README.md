@@ -1896,6 +1896,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellyon: Boss Maker | 322717 | [322717-cellyon-boss-maker.json](./322717-cellyon-boss-maker.json) |
 | Celted | 176478 | [176478-celted.json](./176478-celted.json) |
 | Celtic Carnage | 58821 | [58821-celtic-carnage.json](./58821-celtic-carnage.json) |
+| Celtic FC Club Football | 267883 | [267883-celtic-fc-club-football.json](./267883-celtic-fc-club-football.json) |
+| Celtic FC Club Football 2005 | 267902 | [267902-celtic-fc-club-football-2005.json](./267902-celtic-fc-club-football-2005.json) |
 | Celtic Football Coach | 138212 | [138212-celtic-football-coach.json](./138212-celtic-football-coach.json) |
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
@@ -2370,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chefware | 376535 | [376535-chefware.json](./376535-chefware.json) |
 | Chelesste | 253995 | [253995-chelesste.json](./253995-chelesste.json) |
 | Chell's Way to Home | 219157 | [219157-chells-way-to-home.json](./219157-chells-way-to-home.json) |
+| Chelsea Club Football | 267882 | [267882-chelsea-club-football.json](./267882-chelsea-club-football.json) |
 | Chelsea Club Football 2005 | 267908 | [267908-chelsea-club-football-2005.json](./267908-chelsea-club-football-2005.json) |
 | Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
 | Chemical Cubes | 62698 | [62698-chemical-cubes.json](./62698-chemical-cubes.json) |
@@ -6038,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
+| Crank & Watch: Octopus | 267964 | [267964-crank-and-watch-octopus.json](./267964-crank-and-watch-octopus.json) |
 | Crank It Up! | 305911 | [305911-crank-it-up.json](./305911-crank-it-up.json) |
 | Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
 | Crank Sudoku | 383965 | [383965-crank-sudoku.json](./383965-crank-sudoku.json) |
@@ -7126,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 385600 | [385600-cube.json](./385600-cube.json) |
 | Cube | 396933 | [396933-cube.json](./396933-cube.json) |
 | Cube & Star: An Arbitrary Love | 16812 | [16812-cube-and-star-an-arbitrary-love.json](./16812-cube-and-star-an-arbitrary-love.json) |
+| Cube 2x1 | 267970 | [267970-cube-2x1.json](./267970-cube-2x1.json) |
 | Cube 2x1 RailFarm | 331994 | [331994-cube-2x1-railfarm.json](./331994-cube-2x1-railfarm.json) |
 | Cube 332 | 109729 | [109729-cube-332.json](./109729-cube-332.json) |
 | Cube 3x1 | 331993 | [331993-cube-3x1.json](./331993-cube-3x1.json) |
