@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatrifice 3 | 334211 | [334211-fatrifice-3.json](./334211-fatrifice-3.json) |
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
+| Fatty In Trouble | 238398 | [238398-fatty-in-trouble.json](./238398-fatty-in-trouble.json) |
 | Fatty Maze's Adventures | 35723 | [35723-fatty-mazes-adventures.json](./35723-fatty-mazes-adventures.json) |
 | Fatum | 407302 | [407302-fatum.json](./407302-fatum.json) |
 | Fatum Betula + Food Truck Tycoon | 250343 | [250343-fatum-betula-food-truck-tycoon.json](./250343-fatum-betula-food-truck-tycoon.json) |
@@ -2504,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishbowl | 68629 | [68629-fishbowl.json](./68629-fishbowl.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
 | Fisher Man | 367491 | [367491-fisher-man.json](./367491-fisher-man.json) |
+| Fisher Online: China | 238416 | [238416-fisher-online-china.json](./238416-fisher-online-china.json) |
 | Fisher-Price Dream Dollhouse | 228449 | [228449-fisher-price-dream-dollhouse.json](./228449-fisher-price-dream-dollhouse.json) |
 | Fisher-Price Little People Christmas Activity Center | 337173 | [337173-fisher-price-little-people-christmas-activity-center.json](./337173-fisher-price-little-people-christmas-activity-center.json) |
 | Fisher-Price Outdoor Adventures: Ranger Trail | 79595 | [79595-fisher-price-outdoor-adventures-ranger-trail.json](./79595-fisher-price-outdoor-adventures-ranger-trail.json) |
@@ -2674,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Candy's 2 DX | 266215 | [266215-five-nights-at-candys-2-dx.json](./266215-five-nights-at-candys-2-dx.json) |
 | Five Nights at Candy's 3 DX | 266218 | [266218-five-nights-at-candys-3-dx.json](./266218-five-nights-at-candys-3-dx.json) |
 | Five Nights at Candy's DX | 266212 | [266212-five-nights-at-candys-dx.json](./266212-five-nights-at-candys-dx.json) |
+| Five Nights at Chuck E. Cheese's: Rebooted | 238433 | [238433-five-nights-at-chuck-e-cheeses-rebooted.json](./238433-five-nights-at-chuck-e-cheeses-rebooted.json) |
 | Five Nights at Dream's​ | 387340 | [387340-five-nights-at-dreams.json](./387340-five-nights-at-dreams.json) |
 | Five Nights At Dungeon | 240161 | [240161-five-nights-at-dungeon.json](./240161-five-nights-at-dungeon.json) |
 | Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
@@ -2723,7 +2726,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
 | Five Nights at Stickman | 359074 | [359074-five-nights-at-stickman.json](./359074-five-nights-at-stickman.json) |
 | Five Nights At Stickman | 89037 | [89037-five-nights-at-stickman.json](./89037-five-nights-at-stickman.json) |
+| Five Nights at Treasure Island | 238431 | [238431-five-nights-at-treasure-island.json](./238431-five-nights-at-treasure-island.json) |
 | Five Nights At Treasure Island Simulator | 369659 | [369659-five-nights-at-treasure-island-simulator.json](./369659-five-nights-at-treasure-island-simulator.json) |
+| Five Nights at Treasure Island: Anniversary Edition | 238432 | [238432-five-nights-at-treasure-island-anniversary-edition.json](./238432-five-nights-at-treasure-island-anniversary-edition.json) |
+| Five Nights at Treasure Island: Old Builds | 238428 | [238428-five-nights-at-treasure-island-old-builds.json](./238428-five-nights-at-treasure-island-old-builds.json) |
 | Five Nights at Treasure Island: Room Zero | 272819 | [272819-five-nights-at-treasure-island-room-zero.json](./272819-five-nights-at-treasure-island-room-zero.json) |
 | Five Nights at Treasure Island: Sister Location | 274981 | [274981-five-nights-at-treasure-island-sister-location.json](./274981-five-nights-at-treasure-island-sister-location.json) |
 | Five Nights at Wario's 4 | 280770 | [280770-five-nights-at-warios-4.json](./280770-five-nights-at-warios-4.json) |
@@ -3523,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FooFee | 277423 | [277423-foofee.json](./277423-foofee.json) |
 | Fool King | 356724 | [356724-fool-king.json](./356724-fool-king.json) |
 | Fool! | 118345 | [118345-fool.json](./118345-fool.json) |
+| Fool's Curse | 238465 | [238465-fools-curse.json](./238465-fools-curse.json) |
 | Fool's Frontier | 291221 | [291221-fools-frontier.json](./291221-fools-frontier.json) |
 | Fool's Gold | 244903 | [244903-fools-gold.json](./244903-fools-gold.json) |
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
@@ -3706,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Solitaire | 330176 | [330176-forbidden-solitaire.json](./330176-forbidden-solitaire.json) |
 | Forbidden Tapes | 260623 | [260623-forbidden-tapes.json](./260623-forbidden-tapes.json) |
 | Forbidden Terror: Board Game | 375448 | [375448-forbidden-terror-board-game.json](./375448-forbidden-terror-board-game.json) |
+| Forbidden Trip | 238443 | [238443-forbidden-trip.json](./238443-forbidden-trip.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
 | Forbidden: A First's Obsession | 402364 | [402364-forbidden-a-firsts-obsession.json](./402364-forbidden-a-firsts-obsession.json) |
 | ForbiddenEgg | 352382 | [352382-forbiddenegg.json](./352382-forbiddenegg.json) |
