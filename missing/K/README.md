@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katzala | 296926 | [296926-katzala.json](./296926-katzala.json) |
 | Katze Stuck in the Toilet 64 | 361717 | [361717-katze-stuck-in-the-toilet-64.json](./361717-katze-stuck-in-the-toilet-64.json) |
 | Katze Stuck in the Toilet 64 PC | 378295 | [378295-katze-stuck-in-the-toilet-64-pc.json](./378295-katze-stuck-in-the-toilet-64-pc.json) |
+| Kaun Banega Crorepati | 263465 | [263465-kaun-banega-crorepati.json](./263465-kaun-banega-crorepati.json) |
 | Kava Tina Story | 68020 | [68020-kava-tina-story.json](./68020-kava-tina-story.json) |
 | Kavalmaja | 128655 | [128655-kavalmaja.json](./128655-kavalmaja.json) |
 | Kaverini Nuuk Adventures | 153378 | [153378-kaverini-nuuk-adventures.json](./153378-kaverini-nuuk-adventures.json) |
@@ -1741,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Dragons: The Endless Quest | 297602 | [297602-knights-and-dragons-the-endless-quest.json](./297602-knights-and-dragons-the-endless-quest.json) |
 | Knights & Guns Arcane Arsenal | 380708 | [380708-knights-and-guns-arcane-arsenal.json](./380708-knights-and-guns-arcane-arsenal.json) |
 | Knights & Guns: Advanced Edition | 317252 | [317252-knights-and-guns-advanced-edition.json](./317252-knights-and-guns-advanced-edition.json) |
+| Knights & Guns: Back To School Edition | 263540 | [263540-knights-and-guns-back-to-school-edition.json](./263540-knights-and-guns-back-to-school-edition.json) |
 | Knights & Guns: Comprehensive Edition | 399820 | [399820-knights-and-guns-comprehensive-edition.json](./399820-knights-and-guns-comprehensive-edition.json) |
 | Knights & Guns: Definitive Edition | 283141 | [283141-knights-and-guns-definitive-edition.json](./283141-knights-and-guns-definitive-edition.json) |
 | Knights & Guns: Diamond Edition | 271835 | [271835-knights-and-guns-diamond-edition.json](./271835-knights-and-guns-diamond-edition.json) |
