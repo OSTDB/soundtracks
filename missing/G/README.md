@@ -4033,7 +4033,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
 | Guitar Hero: Warriors of Rock | 2629 | [2629-guitar-hero-warriors-of-rock.json](./2629-guitar-hero-warriors-of-rock.json) |
 | Guitar Jam | 266894 | [266894-guitar-jam.json](./266894-guitar-jam.json) |
+| Guitar Praise: Expansion Pack 1 | 240173 | [240173-guitar-praise-expansion-pack-1.json](./240173-guitar-praise-expansion-pack-1.json) |
 | Guitar Praise: Solid Rock | 72638 | [72638-guitar-praise-solid-rock.json](./72638-guitar-praise-solid-rock.json) |
+| Guitar Praise: Stryper | 240172 | [240172-guitar-praise-stryper.json](./240172-guitar-praise-stryper.json) |
 | Guitar Star | 267958 | [267958-guitar-star.json](./267958-guitar-star.json) |
 | GuitarFreaks 3rdMix | 97122 | [97122-guitarfreaks-3rdmix.json](./97122-guitarfreaks-3rdmix.json) |
 | GuitarFreaks 3rdMix & DrumMania 2ndMix | 104591 | [104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json](./104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json) |
