@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: The Grand Tournament | 21973 | [21973-hearthstone-the-grand-tournament.json](./21973-hearthstone-the-grand-tournament.json) |
 | Hearthstone: The Great Dark Beyond | 322147 | [322147-hearthstone-the-great-dark-beyond.json](./322147-hearthstone-the-great-dark-beyond.json) |
 | Hearthstone: The Lost City of Un'Goro | 322149 | [322149-hearthstone-the-lost-city-of-ungoro.json](./322149-hearthstone-the-lost-city-of-ungoro.json) |
+| Hearthstone: Titans | 256780 | [256780-hearthstone-titans.json](./256780-hearthstone-titans.json) |
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
 | Heartium | 265197 | [265197-heartium.json](./265197-heartium.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
@@ -4917,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperchase Auto Race | 41990 | [41990-hyperchase-auto-race.json](./41990-hyperchase-auto-race.json) |
 | Hypercide | 156532 | [156532-hypercide.json](./156532-hypercide.json) |
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
+| Hypercoven | 256784 | [256784-hypercoven.json](./256784-hypercoven.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
 | Hyperdimension Neptunia | 7319 | [7319-hyperdimension-neptunia.json](./7319-hyperdimension-neptunia.json) |
 | Hyperdimension Neptunia Re;Birth1 | 8902 | [8902-hyperdimension-neptunia-re-birth1.json](./8902-hyperdimension-neptunia-re-birth1.json) |
