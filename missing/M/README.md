@@ -5174,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss World '96 | 38567 | [38567-miss-world-96.json](./38567-miss-world-96.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
 | Missile City AeroLeague | 249807 | [249807-missile-city-aeroleague.json](./249807-missile-city-aeroleague.json) |
+| Missile Collector Man | 246927 | [246927-missile-collector-man.json](./246927-missile-collector-man.json) |
 | Missile Comes Back to Me | 361693 | [361693-missile-comes-back-to-me.json](./361693-missile-comes-back-to-me.json) |
 | Missile Command | 187374 | [187374-missile-command.json](./187374-missile-command.json) |
 | Missile Command | 209502 | [209502-missile-command.json](./209502-missile-command.json) |
@@ -6000,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: Bonus Update | 252384 | [252384-monster-hunter-rise-bonus-update.json](./252384-monster-hunter-rise-bonus-update.json) |
 | Monster Hunter Rise: Collector's Edition | 139971 | [139971-monster-hunter-rise-collectors-edition.json](./139971-monster-hunter-rise-collectors-edition.json) |
 | Monster Hunter Rise: Deluxe Edition | 139943 | [139943-monster-hunter-rise-deluxe-edition.json](./139943-monster-hunter-rise-deluxe-edition.json) |
+| Monster Hunter Rise: DLC Pack 10 | 246890 | [246890-monster-hunter-rise-dlc-pack-10.json](./246890-monster-hunter-rise-dlc-pack-10.json) |
 | Monster Hunter Rise: DLC Pack 5 | 223591 | [223591-monster-hunter-rise-dlc-pack-5.json](./223591-monster-hunter-rise-dlc-pack-5.json) |
 | Monster Hunter Rise: DLC Pack 6 | 223578 | [223578-monster-hunter-rise-dlc-pack-6.json](./223578-monster-hunter-rise-dlc-pack-6.json) |
 | Monster Hunter Rise: Sunbreak | 172425 | [172425-monster-hunter-rise-sunbreak.json](./172425-monster-hunter-rise-sunbreak.json) |
