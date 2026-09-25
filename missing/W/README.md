@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wait What's That | 324507 | [324507-wait-whats-that.json](./324507-wait-whats-that.json) |
 | Wait: The Patient | 312564 | [312564-wait-the-patient.json](./312564-wait-the-patient.json) |
 | Wait! Where's My Lunch | 169390 | [169390-wait-wheres-my-lunch.json](./169390-wait-wheres-my-lunch.json) |
+| Waiter | 231341 | [231341-waiter.json](./231341-waiter.json) |
 | Waiting for an Egg | 404253 | [404253-waiting-for-an-egg.json](./404253-waiting-for-an-egg.json) |
 | Waiting For the Loop | 75036 | [75036-waiting-for-the-loop.json](./75036-waiting-for-the-loop.json) |
 | Waiting for the Raven | 138601 | [138601-waiting-for-the-raven.json](./138601-waiting-for-the-raven.json) |
@@ -782,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
 | Warrior Maiden Lecia and the Lost Fortress | 373646 | [373646-warrior-maiden-lecia-and-the-lost-fortress.json](./373646-warrior-maiden-lecia-and-the-lost-fortress.json) |
 | Warrior of Ras: Volume I - Dunzhin | 94578 | [94578-warrior-of-ras-volume-i-dunzhin.json](./94578-warrior-of-ras-volume-i-dunzhin.json) |
+| Warrior Paint: 2005 GOTY Edition | 231309 | [231309-warrior-paint-2005-goty-edition.json](./231309-warrior-paint-2005-goty-edition.json) |
 | Warrior Quest | 412378 | [412378-warrior-quest.json](./412378-warrior-quest.json) |
 | Warrior's Dilemma | 360636 | [360636-warriors-dilemma.json](./360636-warriors-dilemma.json) |
 | Warrior's Reward | 370710 | [370710-warriors-reward.json](./370710-warriors-reward.json) |
@@ -2198,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Story | 312540 | [312540-wind-story.json](./312540-wind-story.json) |
 | Wind Surf Willy | 10850 | [10850-wind-surf-willy.json](./10850-wind-surf-willy.json) |
 | Wind Traveler | 324311 | [324311-wind-traveler.json](./324311-wind-traveler.json) |
+| Wind Up | 231291 | [231291-wind-up.json](./231291-wind-up.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
 | Wind's Poem | 325065 | [325065-winds-poem.json](./325065-winds-poem.json) |
 | Windah Horror Adventure | 330346 | [330346-windah-horror-adventure.json](./330346-windah-horror-adventure.json) |
