@@ -4393,6 +4393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein: Birth of a Myth | 109569 | [109569-frankenstein-birth-of-a-myth.json](./109569-frankenstein-birth-of-a-myth.json) |
 | Frankenstein: The Village | 177050 | [177050-frankenstein-the-village.json](./177050-frankenstein-the-village.json) |
 | Frankenstein's Monster | 22763 | [22763-frankensteins-monster.json](./22763-frankensteins-monster.json) |
+| FrankenStorm TD | 236236 | [236236-frankenstorm-td.json](./236236-frankenstorm-td.json) |
 | Frankie and Suede Private Detectives | 310028 | [310028-frankie-and-suede-private-detectives.json](./310028-frankie-and-suede-private-detectives.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
@@ -5141,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
 | Fumble Freaks | 337295 | [337295-fumble-freaks.json](./337295-fumble-freaks.json) |
 | Fumiko! | 27194 | [27194-fumiko.json](./27194-fumiko.json) |
+| Fumo | 236212 | [236212-fumo.json](./236212-fumo.json) |
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
 | Fun | 360738 | [360738-fun.json](./360738-fun.json) |
 | Fun 'N Games | 4241 | [4241-fun-n-games.json](./4241-fun-n-games.json) |
