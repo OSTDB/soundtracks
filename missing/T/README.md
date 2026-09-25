@@ -1008,6 +1008,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
 | Tappy Shots | 87362 | [87362-tappy-shots.json](./87362-tappy-shots.json) |
 | Tappy Shots 2018 | 100871 | [100871-tappy-shots-2018.json](./100871-tappy-shots-2018.json) |
+| Tappy Word | 274447 | [274447-tappy-word.json](./274447-tappy-word.json) |
+| Tappy Word 2 | 274448 | [274448-tappy-word-2.json](./274448-tappy-word-2.json) |
+| Tappy Word 3 | 274446 | [274446-tappy-word-3.json](./274446-tappy-word-3.json) |
+| Tappy Word Infinite | 274445 | [274445-tappy-word-infinite.json](./274445-tappy-word-infinite.json) |
 | TappyLoop | 307612 | [307612-tappyloop.json](./307612-tappyloop.json) |
 | TapRacer | 415146 | [415146-tapracer.json](./415146-tapracer.json) |
 | TapRPG: The Second One | 107888 | [107888-taprpg-the-second-one.json](./107888-taprpg-the-second-one.json) |
@@ -1513,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Templars | 133833 | [133833-templars.json](./133833-templars.json) |
 | Temple Crawler | 276810 | [276810-temple-crawler.json](./276810-temple-crawler.json) |
 | Temple Dash: Jungle Adventure | 218497 | [218497-temple-dash-jungle-adventure.json](./218497-temple-dash-jungle-adventure.json) |
+| Temple Guy: Quest for Chest | 274532 | [274532-temple-guy-quest-for-chest.json](./274532-temple-guy-quest-for-chest.json) |
 | Temple Knight Saga: Oath of the Knight's Sword | 267682 | [267682-temple-knight-saga-oath-of-the-knights-sword.json](./267682-temple-knight-saga-oath-of-the-knights-sword.json) |
 | Temple Maker 64 | 400852 | [400852-temple-maker-64.json](./400852-temple-maker-64.json) |
 | Temple of Aluxes | 61621 | [61621-temple-of-aluxes.json](./61621-temple-of-aluxes.json) |
@@ -5016,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Match Girl against the Universal Sisterhood of Naughty Little Girls | 290407 | [290407-the-little-match-girl-against-the-universal-sisterhood-of-naughty-little-girls.json](./290407-the-little-match-girl-against-the-universal-sisterhood-of-naughty-little-girls.json) |
 | The Little Match Girl and Her Friend, the Crow | 290405 | [290405-the-little-match-girl-and-her-friend-the-crow.json](./290405-the-little-match-girl-and-her-friend-the-crow.json) |
 | The Little Match Girl, by Hans Christian Andersen | 290401 | [290401-the-little-match-girl-by-hans-christian-andersen.json](./290401-the-little-match-girl-by-hans-christian-andersen.json) |
+| The Little Mermaid: Visual Harmony | 274449 | [274449-the-little-mermaid-visual-harmony.json](./274449-the-little-mermaid-visual-harmony.json) |
 | The Little Mermaid: Wonder Puzzles | 314881 | [314881-the-little-mermaid-wonder-puzzles.json](./314881-the-little-mermaid-wonder-puzzles.json) |
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
 | The Little Slime | 83536 | [83536-the-little-slime.json](./83536-the-little-slime.json) |
@@ -11474,6 +11480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
+| Traversion | 274527 | [274527-traversion.json](./274527-traversion.json) |
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
 | Travians | 363543 | [363543-travians.json](./363543-travians.json) |
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
@@ -11807,6 +11814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Triad | 386989 | [386989-triple-triad.json](./386989-triple-triad.json) |
 | Triple X Tycoon | 31892 | [31892-triple-x-tycoon.json](./31892-triple-x-tycoon.json) |
 | Triple Yatzy for iPad | 101494 | [101494-triple-yatzy-for-ipad.json](./101494-triple-yatzy-for-ipad.json) |
+| Triple Zombie Collection | 274443 | [274443-triple-zombie-collection.json](./274443-triple-zombie-collection.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
 | Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
