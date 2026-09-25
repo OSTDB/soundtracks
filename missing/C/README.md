@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Rimeblood Premium Edition | 259607 | [259607-century-age-of-ashes-rimeblood-premium-edition.json](./259607-century-age-of-ashes-rimeblood-premium-edition.json) |
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
+| Century: Age of Ashes - Thornweaver Premium Edition | 242475 | [242475-century-age-of-ashes-thornweaver-premium-edition.json](./242475-century-age-of-ashes-thornweaver-premium-edition.json) |
 | Century: Age of Ashes - Valkurian Prelude Edition | 218491 | [218491-century-age-of-ashes-valkurian-prelude-edition.json](./218491-century-age-of-ashes-valkurian-prelude-edition.json) |
 | Century: Wishbringer Pack | 340566 | [340566-century-wishbringer-pack.json](./340566-century-wishbringer-pack.json) |
 | CEO City | 316287 | [316287-ceo-city.json](./316287-ceo-city.json) |
@@ -2404,8 +2405,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheezure | 316094 | [316094-cheezure.json](./316094-cheezure.json) |
 | Chef | 128575 | [128575-chef.json](./128575-chef.json) |
 | Chef | 247482 | [247482-chef.json](./247482-chef.json) |
+| Chef Boyardee Can Simulator | 242507 | [242507-chef-boyardee-can-simulator.json](./242507-chef-boyardee-can-simulator.json) |
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
+| Chef Life: A Restaurant Simulator - Al Forno Pack | 242489 | [242489-chef-life-a-restaurant-simulator-al-forno-pack.json](./242489-chef-life-a-restaurant-simulator-al-forno-pack.json) |
 | Chef Life: A Restaurant Simulator - Tokyo Delight | 295348 | [295348-chef-life-a-restaurant-simulator-tokyo-delight.json](./295348-chef-life-a-restaurant-simulator-tokyo-delight.json) |
 | Chef Life: Cooking Lab | 288863 | [288863-chef-life-cooking-lab.json](./288863-chef-life-cooking-lab.json) |
 | Chef of Sherwood | 391845 | [391845-chef-of-sherwood.json](./391845-chef-of-sherwood.json) |
@@ -2724,6 +2727,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child Run: City Surfers Runner | 245915 | [245915-child-run-city-surfers-runner.json](./245915-child-run-city-surfers-runner.json) |
 | Child's Mind | 84573 | [84573-childs-mind.json](./84573-childs-mind.json) |
 | Child's Play | 60007 | [60007-childs-play.json](./60007-childs-play.json) |
+| Childhood Dreams: Jigsaw Puzzle | 242509 | [242509-childhood-dreams-jigsaw-puzzle.json](./242509-childhood-dreams-jigsaw-puzzle.json) |
+| Childhood Dreams: Jigsaw Puzzle - Expansion Pack 1 | 242510 | [242510-childhood-dreams-jigsaw-puzzle-expansion-pack-1.json](./242510-childhood-dreams-jigsaw-puzzle-expansion-pack-1.json) |
 | Childhood Gone: Shadowed Wand | 157536 | [157536-childhood-gone-shadowed-wand.json](./157536-childhood-gone-shadowed-wand.json) |
 | Childhood Watermelon | 366311 | [366311-childhood-watermelon.json](./366311-childhood-watermelon.json) |
 | Childhood's End | 365171 | [365171-childhoods-end.json](./365171-childhoods-end.json) |
