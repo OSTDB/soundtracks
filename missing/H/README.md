@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: Collector's Edition | 237394 | [237394-half-life-2-collectors-edition.json](./237394-half-life-2-collectors-edition.json) |
 | Half-Life 2: Game of the Year Edition | 314459 | [314459-half-life-2-game-of-the-year-edition.json](./314459-half-life-2-game-of-the-year-edition.json) |
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
+| Half-Life 2: MMod - Minerva | 270708 | [270708-half-life-2-mmod-minerva.json](./270708-half-life-2-mmod-minerva.json) |
 | Half-Life 2: VR Mod | 28827 | [28827-half-life-2-vr-mod.json](./28827-half-life-2-vr-mod.json) |
 | Half-Life 2: VR Mod - Episode One | 243118 | [243118-half-life-2-vr-mod-episode-one.json](./243118-half-life-2-vr-mod-episode-one.json) |
 | Half-Life 2: VR Mod - Episode Two | 243119 | [243119-half-life-2-vr-mod-episode-two.json](./243119-half-life-2-vr-mod-episode-two.json) |
@@ -3733,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
 | Hop Hop Hop | 348950 | [348950-hop-hop-hop.json](./348950-hop-hop-hop.json) |
+| Hop Island | 270635 | [270635-hop-island.json](./270635-hop-island.json) |
 | Hop n Pee Dreams VR | 259094 | [259094-hop-n-pee-dreams-vr.json](./259094-hop-n-pee-dreams-vr.json) |
 | Hop N' Swap | 340481 | [340481-hop-n-swap.json](./340481-hop-n-swap.json) |
 | Hop Rocket | 384806 | [384806-hop-rocket.json](./384806-hop-rocket.json) |
