@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Room Football | 403797 | [403797-war-room-football.json](./403797-war-room-football.json) |
 | War Saber | 137689 | [137689-war-saber.json](./137689-war-saber.json) |
 | War Selection | 116499 | [116499-war-selection.json](./116499-war-selection.json) |
+| War Shore | 244710 | [244710-war-shore.json](./244710-war-shore.json) |
 | War Smith | 132203 | [132203-war-smith.json](./132203-war-smith.json) |
 | War Sniper | 338395 | [338395-war-sniper.json](./338395-war-sniper.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
