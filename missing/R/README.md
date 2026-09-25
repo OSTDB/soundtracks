@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R2Beat | 108993 | [108993-r2beat.json](./108993-r2beat.json) |
 | R2D Tank | 40394 | [40394-r2d-tank.json](./40394-r2d-tank.json) |
 | R42 | 130900 | [130900-r42.json](./130900-r42.json) |
+| R4YL: Run for your life! | 253879 | [253879-r4yl-run-for-your-life.json](./253879-r4yl-run-for-your-life.json) |
 | Ra.One: The Game | 18295 | [18295-ra-one-the-game.json](./18295-ra-one-the-game.json) |
 | Raahi | 379051 | [379051-raahi.json](./379051-raahi.json) |
 | Raanaa: The Shaman Girl | 321137 | [321137-raanaa-the-shaman-girl.json](./321137-raanaa-the-shaman-girl.json) |
@@ -996,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
+| Razgovor Online | 253878 | [253878-razgovor-online.json](./253878-razgovor-online.json) |
 | Raziel | 174742 | [174742-raziel.json](./174742-raziel.json) |
 | Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
@@ -1574,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Nose Guy Gauntlet Inc.: The Burnout | 371328 | [371328-red-nose-guy-gauntlet-inc-the-burnout.json](./371328-red-nose-guy-gauntlet-inc-the-burnout.json) |
 | Red Nose Guy Suika | 280326 | [280326-red-nose-guy-suika.json](./280326-red-nose-guy-suika.json) |
 | Red Oddities | 239155 | [239155-red-oddities.json](./239155-red-oddities.json) |
+| Red Ops: The First Infection | 253860 | [253860-red-ops-the-first-infection.json](./253860-red-ops-the-first-infection.json) |
 | Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
 | Red Orchestra: Ostfront 41-45 | 9409 | [9409-red-orchestra-ostfront-41-45.json](./9409-red-orchestra-ostfront-41-45.json) |
 | Red Out Block | 377788 | [377788-red-out-block.json](./377788-red-out-block.json) |
@@ -2089,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
+| Reptile Park VR | 253863 | [253863-reptile-park-vr.json](./253863-reptile-park-vr.json) |
 | Reptile Silhouette | 361344 | [361344-reptile-silhouette.json](./361344-reptile-silhouette.json) |
 | Reptilian Rising | 153846 | [153846-reptilian-rising.json](./153846-reptilian-rising.json) |
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
@@ -3026,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rio Rise | 397904 | [397904-rio-rise.json](./397904-rio-rise.json) |
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
+| Rionag: Survey Fleet | 253862 | [253862-rionag-survey-fleet.json](./253862-rionag-survey-fleet.json) |
 | Riot | 279702 | [279702-riot.json](./279702-riot.json) |
 | Riot At World | 159723 | [159723-riot-at-world.json](./159723-riot-at-world.json) |
 | Riot City | 39851 | [39851-riot-city.json](./39851-riot-city.json) |
@@ -3049,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
 | Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
+| Ripple in Dirac Sea | 253861 | [253861-ripple-in-dirac-sea.json](./253861-ripple-in-dirac-sea.json) |
 | Ripple Park | 405513 | [405513-ripple-park.json](./405513-ripple-park.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
 | Ripshot | 158041 | [158041-ripshot.json](./158041-ripshot.json) |
@@ -4417,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoundUrbs | 350413 | [350413-roundurbs.json](./350413-roundurbs.json) |
 | Roundy | 38919 | [38919-roundy.json](./38919-roundy.json) |
 | RoundZ | 371910 | [371910-roundz.json](./371910-roundz.json) |
+| Route 13 | 253864 | [253864-route-13.json](./253864-route-13.json) |
 | Route Candle for Steam | 90560 | [90560-route-candle-for-steam.json](./90560-route-candle-for-steam.json) |
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
 | Route-16 | 40185 | [40185-route-16.json](./40185-route-16.json) |
@@ -4848,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
 | Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
+| Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
 | Runes of Brennos | 17977 | [17977-runes-of-brennos.json](./17977-runes-of-brennos.json) |
 | Runes of Dragon | 193957 | [193957-runes-of-dragon.json](./193957-runes-of-dragon.json) |
