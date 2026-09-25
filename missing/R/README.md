@@ -4359,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope | 138809 | [138809-rope.json](./138809-rope.json) |
 | Rope & Ball | 262639 | [262639-rope-and-ball.json](./262639-rope-and-ball.json) |
 | Rope and Balls | 208960 | [208960-rope-and-balls.json](./208960-rope-and-balls.json) |
+| Rope Bowling | 232958 | [232958-rope-bowling.json](./232958-rope-bowling.json) |
 | Rope Cow: Rope it to The Cow | 170519 | [170519-rope-cow-rope-it-to-the-cow.json](./170519-rope-cow-rope-it-to-the-cow.json) |
 | Rope Heroes : Hole Runner Game | 108441 | [108441-rope-heroes-hole-runner-game.json](./108441-rope-heroes-hole-runner-game.json) |
 | Rope Rescue | 65772 | [65772-rope-rescue.json](./65772-rope-rescue.json) |
