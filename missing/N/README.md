@@ -2724,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
 | Not So Middle Ages | 98775 | [98775-not-so-middle-ages.json](./98775-not-so-middle-ages.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
+| Not the Hero | 241938 | [241938-not-the-hero.json](./241938-not-the-hero.json) |
 | Not the North Pole | 247612 | [247612-not-the-north-pole.json](./247612-not-the-north-pole.json) |
 | Not the Robots | 16723 | [16723-not-the-robots.json](./16723-not-the-robots.json) |
 | Not those monsters again... | 233011 | [233011-not-those-monsters-again.json](./233011-not-those-monsters-again.json) |
