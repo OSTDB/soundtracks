@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
 | Defenders of Time | 17722 | [17722-defenders-of-time.json](./17722-defenders-of-time.json) |
 | Defenders: Survival and Tower Defense | 135661 | [135661-defenders-survival-and-tower-defense.json](./135661-defenders-survival-and-tower-defense.json) |
+| Defending Earth | 235172 | [235172-defending-earth.json](./235172-defending-earth.json) |
 | Defending Frontiers | 127203 | [127203-defending-frontiers.json](./127203-defending-frontiers.json) |
 | Defending Territory | 119549 | [119549-defending-territory.json](./119549-defending-territory.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
@@ -3526,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino | 272361 | [272361-dino.json](./272361-dino.json) |
 | Dino & Chill | 339938 | [339938-dino-and-chill.json](./339938-dino-and-chill.json) |
 | Dino Attack | 343258 | [343258-dino-attack.json](./343258-dino-attack.json) |
+| Dino Battle: Jungle Adventure | 235166 | [235166-dino-battle-jungle-adventure.json](./235166-dino-battle-jungle-adventure.json) |
 | Dino Breeder | 64981 | [64981-dino-breeder.json](./64981-dino-breeder.json) |
 | Dino Breeder 2 | 63853 | [63853-dino-breeder-2.json](./63853-dino-breeder-2.json) |
 | Dino Bros | 371323 | [371323-dino-bros.json](./371323-dino-bros.json) |
@@ -5890,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Around | 142402 | [142402-draw-around.json](./142402-draw-around.json) |
 | Draw Breaker | 341058 | [341058-draw-breaker.json](./341058-draw-breaker.json) |
 | Draw From Earth | 163914 | [163914-draw-from-earth.json](./163914-draw-from-earth.json) |
+| Draw In Maze 2 | 235146 | [235146-draw-in-maze-2.json](./235146-draw-in-maze-2.json) |
 | Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
@@ -6732,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummy Guyz | 303493 | [303493-dummy-guyz.json](./303493-dummy-guyz.json) |
 | Dummy Never Fails | 234902 | [234902-dummy-never-fails.json](./234902-dummy-never-fails.json) |
 | Dummy Never Fails 2 | 234903 | [234903-dummy-never-fails-2.json](./234903-dummy-never-fails-2.json) |
+| Dummy Pirates | 235171 | [235171-dummy-pirates.json](./235171-dummy-pirates.json) |
 | DummyDoodle | 303494 | [303494-dummydoodle.json](./303494-dummydoodle.json) |
 | Dummynation | 196265 | [196265-dummynation.json](./196265-dummynation.json) |
 | Dump The Corpse | 288818 | [288818-dump-the-corpse.json](./288818-dump-the-corpse.json) |
@@ -6951,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon Route | 350066 | [350066-dungeon-route.json](./350066-dungeon-route.json) |
 | Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
+| Dungeon RPG: Hero | 235161 | [235161-dungeon-rpg-hero.json](./235161-dungeon-rpg-hero.json) |
 | Dungeon Ruins | 294294 | [294294-dungeon-ruins.json](./294294-dungeon-ruins.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
