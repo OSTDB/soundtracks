@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
 | Japanese Dominatrixes Are the Best | 385702 | [385702-japanese-dominatrixes-are-the-best.json](./385702-japanese-dominatrixes-are-the-best.json) |
 | Japanese Escape Games: The Hotel of Tricks | 209690 | [209690-japanese-escape-games-the-hotel-of-tricks.json](./209690-japanese-escape-games-the-hotel-of-tricks.json) |
+| Japanese Escape Games: The Light and Mirror Room | 234579 | [234579-japanese-escape-games-the-light-and-mirror-room.json](./234579-japanese-escape-games-the-light-and-mirror-room.json) |
 | Japanese Escape Games: The Police Office | 284496 | [284496-japanese-escape-games-the-police-office.json](./284496-japanese-escape-games-the-police-office.json) |
 | Japanese Escape Games: The Prison Underground | 247486 | [247486-japanese-escape-games-the-prison-underground.json](./247486-japanese-escape-games-the-prison-underground.json) |
 | Japanese Escape Games: The Retro House | 212275 | [212275-japanese-escape-games-the-retro-house.json](./212275-japanese-escape-games-the-retro-house.json) |
