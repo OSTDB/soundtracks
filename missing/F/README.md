@@ -1845,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filluminate | 401768 | [401768-filluminate.json](./401768-filluminate.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
 | Film Fatale: Lights, Camera, Madness! | 125383 | [125383-film-fatale-lights-camera-madness.json](./125383-film-fatale-lights-camera-madness.json) |
+| Film Studio Manager | 241298 | [241298-film-studio-manager.json](./241298-film-studio-manager.json) |
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
 | Filthbreed | 140541 | [140541-filthbreed.json](./140541-filthbreed.json) |
 | Filthy Hands | 90306 | [90306-filthy-hands.json](./90306-filthy-hands.json) |
