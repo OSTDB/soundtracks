@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Abbey | 13725 | [13725-haunted-abbey.json](./13725-haunted-abbey.json) |
 | Haunted Adventure II - Redemption | 279667 | [279667-haunted-adventure-ii-redemption.json](./279667-haunted-adventure-ii-redemption.json) |
 | Haunted by Evil | 132663 | [132663-haunted-by-evil.json](./132663-haunted-by-evil.json) |
+| Haunted Casino | 246910 | [246910-haunted-casino.json](./246910-haunted-casino.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
 | Haunted Domains | 54078 | [54078-haunted-domains.json](./54078-haunted-domains.json) |
 | Haunted Dungeons: Hyakki Castle | 110831 | [110831-haunted-dungeons-hyakki-castle.json](./110831-haunted-dungeons-hyakki-castle.json) |
@@ -1750,7 +1751,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
 | Hello Kitty Skyland | 382441 | [382441-hello-kitty-skyland.json](./382441-hello-kitty-skyland.json) |
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
+| Hello Kitty World | 246935 | [246935-hello-kitty-world.json](./246935-hello-kitty-world.json) |
 | Hello Kitty World | 48626 | [48626-hello-kitty-world.json](./48626-hello-kitty-world.json) |
+| Hello Kitty World 2 | 246936 | [246936-hello-kitty-world-2.json](./246936-hello-kitty-world-2.json) |
 | Hello Kitty: Big City Dreams | 3686 | [3686-hello-kitty-big-city-dreams.json](./3686-hello-kitty-big-city-dreams.json) |
 | Hello Kitty: Carrot Story | 206192 | [206192-hello-kitty-carrot-story.json](./206192-hello-kitty-carrot-story.json) |
 | Hello Kitty: Happy Happy Family | 83209 | [83209-hello-kitty-happy-happy-family.json](./83209-hello-kitty-happy-happy-family.json) |
