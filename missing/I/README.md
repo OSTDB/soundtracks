@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Detective Deekin Skin & Feat Pack | 313705 | [313705-idle-champions-detective-deekin-skin-and-feat-pack.json](./313705-idle-champions-detective-deekin-skin-and-feat-pack.json) |
 | Idle Champions: Detective Umberto Theme Pack | 313706 | [313706-idle-champions-detective-umberto-theme-pack.json](./313706-idle-champions-detective-umberto-theme-pack.json) |
 | Idle Champions: Dr. Buzz Watson the Bee Familiar Pack | 313700 | [313700-idle-champions-dr-buzz-watson-the-bee-familiar-pack.json](./313700-idle-champions-dr-buzz-watson-the-bee-familiar-pack.json) |
+| Idle Champions: Eonstaryx the Time Dragon Familiar Pack | 277357 | [277357-idle-champions-eonstaryx-the-time-dragon-familiar-pack.json](./277357-idle-champions-eonstaryx-the-time-dragon-familiar-pack.json) |
 | Idle Champions: Infiltrator Nahara Skin & Feat Pack | 313704 | [313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json](./313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json) |
 | Idle Champions: Masquerade Ball Ellywick Theme Pack | 313694 | [313694-idle-champions-masquerade-ball-ellywick-theme-pack.json](./313694-idle-champions-masquerade-ball-ellywick-theme-pack.json) |
 | Idle Champions: Masquerade Ball Lae'zel Skin & Feat Pack | 313680 | [313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json](./313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json) |
@@ -622,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
 | Idle of the Dead | 413772 | [413772-idle-of-the-dead.json](./413772-idle-of-the-dead.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
+| Idle Percent | 277345 | [277345-idle-percent.json](./277345-idle-percent.json) |
 | Idle Pinball | 330171 | [330171-idle-pinball.json](./330171-idle-pinball.json) |
 | Idle Pirate Legend | 281448 | [281448-idle-pirate-legend.json](./281448-idle-pirate-legend.json) |
 | Idle Pixel Crush - Ball Crush | 105876 | [105876-idle-pixel-crush-ball-crush.json](./105876-idle-pixel-crush-ball-crush.json) |
