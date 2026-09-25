@@ -1219,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geom | 84515 | [84515-geom.json](./84515-geom.json) |
 | Geom | 93023 | [93023-geom.json](./93023-geom.json) |
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
+| Geometra - Join the Colors | 255055 | [255055-geometra-join-the-colors.json](./255055-geometra-join-the-colors.json) |
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
 | Geometric Link | 269017 | [269017-geometric-link.json](./269017-geometric-link.json) |
 | Geometric Shapes 1: Circleboy | 322584 | [322584-geometric-shapes-1-circleboy.json](./322584-geometric-shapes-1-circleboy.json) |
@@ -3045,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny Escape | 238629 | [238629-granny-escape.json](./238629-granny-escape.json) |
 | Granny in Paradise | 71333 | [71333-granny-in-paradise.json](./71333-granny-in-paradise.json) |
 | Granny Legend | 245381 | [245381-granny-legend.json](./245381-granny-legend.json) |
+| Granny Remake | 255022 | [255022-granny-remake.json](./255022-granny-remake.json) |
 | Granny Unleashed | 177561 | [177561-granny-unleashed.json](./177561-granny-unleashed.json) |
 | Granny's Grantastic Granventure | 105096 | [105096-grannys-grantastic-granventure.json](./105096-grannys-grantastic-granventure.json) |
 | Granny's House | 182449 | [182449-grannys-house.json](./182449-grannys-house.json) |
@@ -3214,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
 | Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
+| Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
 | Gravity Kid | 171601 | [171601-gravity-kid.json](./171601-gravity-kid.json) |
 | Gravity Knight | 413008 | [413008-gravity-knight.json](./413008-gravity-knight.json) |
@@ -3326,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Farm 2 | 385048 | [385048-green-farm-2.json](./385048-green-farm-2.json) |
 | Green Farm 3 | 380674 | [380674-green-farm-3.json](./380674-green-farm-3.json) |
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
+| Green Guy Goes Grappling 2 | 255065 | [255065-green-guy-goes-grappling-2.json](./255065-green-guy-goes-grappling-2.json) |
 | Green Hell | 101461 | [101461-green-hell.json](./101461-green-hell.json) |
 | Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
 | Green Hill Zone 2.5D | 332550 | [332550-green-hill-zone-2-5d.json](./332550-green-hill-zone-2-5d.json) |
