@@ -4996,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition | 338072 | [338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json](./338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Starter Edition | 216236 | [216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json](./216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json) |
 | The Legend of Zelda: Breath of the Wild - The Champions' Ballad | 41826 | [41826-the-legend-of-zelda-breath-of-the-wild-the-champions-ballad.json](./41826-the-legend-of-zelda-breath-of-the-wild-the-champions-ballad.json) |
+| The Legend of Zelda: Breath of the Wild and The Legend of Zelda: Breath of the Wild Expansion Pass Bundle | 237895 | [237895-the-legend-of-zelda-breath-of-the-wild-and-the-legend-of-zelda-breath-of-the-wild-expansion-pass-bundle.json](./237895-the-legend-of-zelda-breath-of-the-wild-and-the-legend-of-zelda-breath-of-the-wild-expansion-pass-bundle.json) |
 | The Legend of Zelda: Breath of the Wild Multiplayer | 210652 | [210652-the-legend-of-zelda-breath-of-the-wild-multiplayer.json](./210652-the-legend-of-zelda-breath-of-the-wild-multiplayer.json) |
 | The Legend of Zelda: Breath of the Wild Randomizer | 240878 | [240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json](./240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json) |
 | The Legend of Zelda: Child Quest | 346598 | [346598-the-legend-of-zelda-child-quest.json](./346598-the-legend-of-zelda-child-quest.json) |
@@ -5440,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mesh | 88259 | [88259-the-mesh.json](./88259-the-mesh.json) |
 | The Message | 170458 | [170458-the-message.json](./170458-the-message.json) |
 | The Messenger | 44838 | [44838-the-messenger.json](./44838-the-messenger.json) |
+| The Messenger: Picnic Panic Bundle | 237906 | [237906-the-messenger-picnic-panic-bundle.json](./237906-the-messenger-picnic-panic-bundle.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
 | The Miami Horror | 176347 | [176347-the-miami-horror.json](./176347-the-miami-horror.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
