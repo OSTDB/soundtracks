@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
+| Kimi no Mirai | 251537 | [251537-kimi-no-mirai.json](./251537-kimi-no-mirai.json) |
 | Kimi no Tonari de Koishiteru! | 194548 | [194548-kimi-no-tonari-de-koishiteru.json](./194548-kimi-no-tonari-de-koishiteru.json) |
 | Kimi no Tonari de Koishiteru!: The Respective Happiness | 194549 | [194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json](./194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json) |
 | Kimi no Yusha | 59401 | [59401-kimi-no-yusha.json](./59401-kimi-no-yusha.json) |
