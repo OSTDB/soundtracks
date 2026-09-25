@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
 | Rage Room | 81093 | [81093-rage-room.json](./81093-rage-room.json) |
 | Rage Runner | 9010 | [9010-rage-runner.json](./9010-rage-runner.json) |
+| Rage Simulator | 265612 | [265612-rage-simulator.json](./265612-rage-simulator.json) |
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
@@ -1130,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Drags | 24992 | [24992-real-drags.json](./24992-real-drags.json) |
 | Real Drift | 89963 | [89963-real-drift.json](./89963-real-drift.json) |
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
+| Real Drift Multiplayer 2 | 265586 | [265586-real-drift-multiplayer-2.json](./265586-real-drift-multiplayer-2.json) |
 | Real Driving 2: Ultimate Car Simulator | 208962 | [208962-real-driving-2-ultimate-car-simulator.json](./208962-real-driving-2-ultimate-car-simulator.json) |
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
 | Real Eroge Situation! | 194590 | [194590-real-eroge-situation.json](./194590-real-eroge-situation.json) |
@@ -1646,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption of Liuyin | 333635 | [333635-redemption-of-liuyin.json](./333635-redemption-of-liuyin.json) |
 | Redemption: Eternal Quest | 34754 | [34754-redemption-eternal-quest.json](./34754-redemption-eternal-quest.json) |
 | Redemption: Liar | 65221 | [65221-redemption-liar.json](./65221-redemption-liar.json) |
+| Redemption: Wrath of Sin | 265568 | [265568-redemption-wrath-of-sin.json](./265568-redemption-wrath-of-sin.json) |
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
 | Redfir Hills | 304116 | [304116-redfir-hills.json](./304116-redfir-hills.json) |
@@ -1788,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regeria Hope Episode 1 | 33403 | [33403-regeria-hope-episode-1.json](./33403-regeria-hope-episode-1.json) |
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
 | Reggor F. | 361722 | [361722-reggor-f.json](./361722-reggor-f.json) |
+| RegicideX | 265579 | [265579-regicidex.json](./265579-regicidex.json) |
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
 | Reginald's Death Arena | 156025 | [156025-reginalds-death-arena.json](./156025-reginalds-death-arena.json) |
@@ -2084,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem | 377166 | [377166-requiem.json](./377166-requiem.json) |
 | Requiem Hurts | 22404 | [22404-requiem-hurts.json](./22404-requiem-hurts.json) |
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
+| Requiem Memory | 265584 | [265584-requiem-memory.json](./265584-requiem-memory.json) |
 | Requiem Reverie | 284898 | [284898-requiem-reverie.json](./284898-requiem-reverie.json) |
 | Requiem: Bloodymare | 21461 | [21461-requiem-bloodymare.json](./21461-requiem-bloodymare.json) |
 | Requiem: Memento Mori | 80593 | [80593-requiem-memento-mori.json](./80593-requiem-memento-mori.json) |
@@ -2276,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurgence: Earth United | 71193 | [71193-resurgence-earth-united.json](./71193-resurgence-earth-united.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
 | Resurrection Core | 335267 | [335267-resurrection-core.json](./335267-resurrection-core.json) |
+| Resurrection Island: Love and Victory | 265570 | [265570-resurrection-island-love-and-victory.json](./265570-resurrection-island-love-and-victory.json) |
 | Resurrection of Santiago | 349385 | [349385-resurrection-of-santiago.json](./349385-resurrection-of-santiago.json) |
 | Resurrector | 126624 | [126624-resurrector.json](./126624-resurrector.json) |
 | Resurviv.biz: Battle Royale | 373642 | [373642-resurviv-biz-battle-royale.json](./373642-resurviv-biz-battle-royale.json) |
@@ -3194,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
 | Ritual Static | 397655 | [397655-ritual-static.json](./397655-ritual-static.json) |
 | Ritual Tournament | 190107 | [190107-ritual-tournament.json](./190107-ritual-tournament.json) |
+| Ritual: Path of Darkness | 265574 | [265574-ritual-path-of-darkness.json](./265574-ritual-path-of-darkness.json) |
 | Ritualistic Madness | 117719 | [117719-ritualistic-madness.json](./117719-ritualistic-madness.json) |
 | Rituals of Demons | 405698 | [405698-rituals-of-demons.json](./405698-rituals-of-demons.json) |
 | RitualSummon | 201253 | [201253-ritualsummon.json](./201253-ritualsummon.json) |
@@ -3290,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Maintenance Simulator 2: Winter Services | 315612 | [315612-road-maintenance-simulator-2-winter-services.json](./315612-road-maintenance-simulator-2-winter-services.json) |
 | Road Master 3D | 303047 | [303047-road-master-3d.json](./303047-road-master-3d.json) |
 | Road Motel Simulator | 337729 | [337729-road-motel-simulator.json](./337729-road-motel-simulator.json) |
+| Road Motorcycle | 265592 | [265592-road-motorcycle.json](./265592-road-motorcycle.json) |
 | Road of Danger | 41936 | [41936-road-of-danger.json](./41936-road-of-danger.json) |
 | Road of Death | 207903 | [207903-road-of-death.json](./207903-road-of-death.json) |
 | Road of Destiny | 87957 | [87957-road-of-destiny.json](./87957-road-of-destiny.json) |
