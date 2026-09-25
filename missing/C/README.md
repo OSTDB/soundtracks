@@ -2638,6 +2638,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Run: Special Edition - Escape from the Pot-Pie Machine | 325109 | [325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json](./325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json) |
 | Chicken Run: Special Edition - Whack-A-Tweedy | 325108 | [325108-chicken-run-special-edition-whack-a-tweedy.json](./325108-chicken-run-special-edition-whack-a-tweedy.json) |
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
+| Chicken Shoot | 248610 | [248610-chicken-shoot.json](./248610-chicken-shoot.json) |
+| Chicken Shoot | 248611 | [248611-chicken-shoot.json](./248611-chicken-shoot.json) |
 | Chicken Shoot 2 | 248634 | [248634-chicken-shoot-2.json](./248634-chicken-shoot-2.json) |
 | Chicken Shoot 2 | 49307 | [49307-chicken-shoot-2.json](./49307-chicken-shoot-2.json) |
 | Chicken Shoot Gold | 27706 | [27706-chicken-shoot-gold.json](./27706-chicken-shoot-gold.json) |
@@ -3567,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityDriver: Moruga Turbo | 315619 | [315619-citydriver-moruga-turbo.json](./315619-citydriver-moruga-turbo.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
+| Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
 | Citywars Savage | 112740 | [112740-citywars-savage.json](./112740-citywars-savage.json) |
 | CityZen | 392256 | [392256-cityzen.json](./392256-cityzen.json) |
@@ -6280,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
+| Crazy Bugs! | 248572 | [248572-crazy-bugs.json](./248572-crazy-bugs.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
 | Crazy Cakes | 366415 | [366415-crazy-cakes.json](./366415-crazy-cakes.json) |
 | Crazy Candy | 318528 | [318528-crazy-candy.json](./318528-crazy-candy.json) |
@@ -7291,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeBall VR | 28806 | [28806-cubeball-vr.json](./28806-cubeball-vr.json) |
 | Cubebam | 284981 | [284981-cubebam.json](./284981-cubebam.json) |
 | CubeCaust | 412300 | [412300-cubecaust.json](./412300-cubecaust.json) |
+| CubeCrafter | 248596 | [248596-cubecrafter.json](./248596-cubecrafter.json) |
 | CubeCubeRubik | 284982 | [284982-cubecuberubik.json](./284982-cubecuberubik.json) |
 | Cubed | 120996 | [120996-cubed.json](./120996-cubed.json) |
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
