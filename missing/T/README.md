@@ -4286,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for the Lost Treasure 2 | 290007 | [290007-the-hunt-for-the-lost-treasure-2.json](./290007-the-hunt-for-the-lost-treasure-2.json) |
 | The Hunted | 215741 | [215741-the-hunted.json](./215741-the-hunted.json) |
 | The Hunted | 28786 | [28786-the-hunted.json](./28786-the-hunted.json) |
+| The Hunted Witch | 252678 | [252678-the-hunted-witch.json](./252678-the-hunted-witch.json) |
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
 | The Hunters Journals; Pale Harbour | 119680 | [119680-the-hunters-journals-pale-harbour.json](./119680-the-hunters-journals-pale-harbour.json) |
 | The Huntsman: Winter's Curse (Book 2) | 164437 | [164437-the-huntsman-winters-curse-book-2.json](./164437-the-huntsman-winters-curse-book-2.json) |
@@ -6111,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
 | The Riches of Agrabah with Disney | 243818 | [243818-the-riches-of-agrabah-with-disney.json](./243818-the-riches-of-agrabah-with-disney.json) |
+| The Richmond Rut: In Search of Fenton | 252677 | [252677-the-richmond-rut-in-search-of-fenton.json](./252677-the-richmond-rut-in-search-of-fenton.json) |
 | The Riddle Room | 53782 | [53782-the-riddle-room.json](./53782-the-riddle-room.json) |
 | The Riddle Room 2 | 53781 | [53781-the-riddle-room-2.json](./53781-the-riddle-room-2.json) |
 | The Riflemen | 207311 | [207311-the-riflemen.json](./207311-the-riflemen.json) |
@@ -7637,6 +7639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm Final Fantasy: Curtain Call - Limited Edition | 89894 | [89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json](./89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json) |
 | Theatrhythm: Final Bar Line - Bravely Default Pack | 268538 | [268538-theatrhythm-final-bar-line-bravely-default-pack.json](./268538-theatrhythm-final-bar-line-bravely-default-pack.json) |
 | Theatrhythm: Final Bar Line - Chrono Pack | 354543 | [354543-theatrhythm-final-bar-line-chrono-pack.json](./354543-theatrhythm-final-bar-line-chrono-pack.json) |
+| Theatrhythm: Final Bar Line - Chrono: Pack Vol. 2 | 252701 | [252701-theatrhythm-final-bar-line-chrono-pack-vol-2.json](./252701-theatrhythm-final-bar-line-chrono-pack-vol-2.json) |
 | Theatrhythm: Final Bar Line - Live A Live Pack | 354519 | [354519-theatrhythm-final-bar-line-live-a-live-pack.json](./354519-theatrhythm-final-bar-line-live-a-live-pack.json) |
 | Theatrhythm: Final Bar Line - Mana Pack Vol. 2 | 268537 | [268537-theatrhythm-final-bar-line-mana-pack-vol-2.json](./268537-theatrhythm-final-bar-line-mana-pack-vol-2.json) |
 | Theatrhythm: Final Bar Line - NieR Pack Vol. 2 | 354544 | [354544-theatrhythm-final-bar-line-nier-pack-vol-2.json](./354544-theatrhythm-final-bar-line-nier-pack-vol-2.json) |
@@ -9298,6 +9301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Title Fight Pro Boxing for Windows | 94548 | [94548-title-fight-pro-boxing-for-windows.json](./94548-title-fight-pro-boxing-for-windows.json) |
 | Titleless Tale | 304002 | [304002-titleless-tale.json](./304002-titleless-tale.json) |
 | Titor's Time Traveling Tale | 249862 | [249862-titors-time-traveling-tale.json](./249862-titors-time-traveling-tale.json) |
+| Tits and Shadows | 252676 | [252676-tits-and-shadows.json](./252676-tits-and-shadows.json) |
 | Tits Okay Tits Fine | 371361 | [371361-tits-okay-tits-fine.json](./371361-tits-okay-tits-fine.json) |
 | Tits Okay Tits Fine Milkshake | 379553 | [379553-tits-okay-tits-fine-milkshake.json](./379553-tits-okay-tits-fine-milkshake.json) |
 | TitTok 2 | 173222 | [173222-tittok-2.json](./173222-tittok-2.json) |
@@ -11793,6 +11797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trianga's Project: Battle Splash 2.0 - Earth's Legacy M.A.I.A | 289466 | [289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json](./289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json) |
 | Triangle Again | 63017 | [63017-triangle-again.json](./63017-triangle-again.json) |
 | Triangle Again 2 | 63018 | [63018-triangle-again-2.json](./63018-triangle-again-2.json) |
+| Triangle Dash! | 252710 | [252710-triangle-dash.json](./252710-triangle-dash.json) |
 | Triangle Defense | 371970 | [371970-triangle-defense.json](./371970-triangle-defense.json) |
 | Triangle Heart | 77678 | [77678-triangle-heart.json](./77678-triangle-heart.json) |
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
