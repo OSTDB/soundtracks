@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: Global Domination - Zombie Pack | 226946 | [226946-risk-global-domination-zombie-pack.json](./226946-risk-global-domination-zombie-pack.json) |
 | Risk: Pogo Domination | 354995 | [354995-risk-pogo-domination.json](./354995-risk-pogo-domination.json) |
 | Risk: The Game of Global Domination | 62161 | [62161-risk-the-game-of-global-domination.json](./62161-risk-the-game-of-global-domination.json) |
+| Riskant! | 263454 | [263454-riskant.json](./263454-riskant.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
 | risTroyka | 142890 | [142890-ristroyka.json](./142890-ristroyka.json) |
 | Rita Hayworth Isn't In This Game | 112269 | [112269-rita-hayworth-isnt-in-this-game.json](./112269-rita-hayworth-isnt-in-this-game.json) |
