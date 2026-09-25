@@ -3703,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Cave Adventure | 160227 | [160227-rocket-cave-adventure.json](./160227-rocket-cave-adventure.json) |
 | Rocket Chameleon | 58750 | [58750-rocket-chameleon.json](./58750-rocket-chameleon.json) |
 | Rocket Coaster | 82928 | [82928-rocket-coaster.json](./82928-rocket-coaster.json) |
+| Rocket Control | 242478 | [242478-rocket-control.json](./242478-rocket-control.json) |
 | Rocket Cows | 195730 | [195730-rocket-cows.json](./195730-rocket-cows.json) |
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
 | Rocket Escape | 226940 | [226940-rocket-escape.json](./226940-rocket-escape.json) |
@@ -4197,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
 | Romantic Journey | 110979 | [110979-romantic-journey.json](./110979-romantic-journey.json) |
 | Romantic Rainbow Delights | 184064 | [184064-romantic-rainbow-delights.json](./184064-romantic-rainbow-delights.json) |
+| Romantic Shooter | 242526 | [242526-romantic-shooter.json](./242526-romantic-shooter.json) |
 | Romb | 377254 | [377254-romb.json](./377254-romb.json) |
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
