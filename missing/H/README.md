@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Eclipse - Collector's Edition | 114345 | [114345-haunted-hotel-eclipse-collectors-edition.json](./114345-haunted-hotel-eclipse-collectors-edition.json) |
 | Haunted Hotel: Lonely Dream | 83552 | [83552-haunted-hotel-lonely-dream.json](./83552-haunted-hotel-lonely-dream.json) |
 | Haunted Hotel: Lost Dreams | 182388 | [182388-haunted-hotel-lost-dreams.json](./182388-haunted-hotel-lost-dreams.json) |
+| Haunted Hotel: Personal Nightmare - Collector's Edition | 232925 | [232925-haunted-hotel-personal-nightmare-collectors-edition.json](./232925-haunted-hotel-personal-nightmare-collectors-edition.json) |
 | Haunted Hotel: Phoenix | 99994 | [99994-haunted-hotel-phoenix.json](./99994-haunted-hotel-phoenix.json) |
 | Haunted Hotel: Phoenix - Collector's Edition | 151191 | [151191-haunted-hotel-phoenix-collectors-edition.json](./151191-haunted-hotel-phoenix-collectors-edition.json) |
 | Haunted Hour | 200120 | [200120-haunted-hour.json](./200120-haunted-hour.json) |
