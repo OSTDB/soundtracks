@@ -4327,13 +4327,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
 | Freaky Racing | 233112 | [233112-freaky-racing.json](./233112-freaky-racing.json) |
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
+| Freaky Trip: Deluxe Edition | 275059 | [275059-freaky-trip-deluxe-edition.json](./275059-freaky-trip-deluxe-edition.json) |
 | Freaky Trip: Extended Edition | 277913 | [277913-freaky-trip-extended-edition.json](./277913-freaky-trip-extended-edition.json) |
+| Freaky Trip: Fall Pack | 275056 | [275056-freaky-trip-fall-pack.json](./275056-freaky-trip-fall-pack.json) |
 | Freaky Trip: Legendary Edition | 294828 | [294828-freaky-trip-legendary-edition.json](./294828-freaky-trip-legendary-edition.json) |
 | Freaky Trip: Platinum Edition | 298571 | [298571-freaky-trip-platinum-edition.json](./298571-freaky-trip-platinum-edition.json) |
 | Freaky Trip: Premium Edition | 284500 | [284500-freaky-trip-premium-edition.json](./284500-freaky-trip-premium-edition.json) |
 | Freaky Trip: Special Edition | 283175 | [283175-freaky-trip-special-edition.json](./283175-freaky-trip-special-edition.json) |
+| Freaky Trip: Spring Pack | 275055 | [275055-freaky-trip-spring-pack.json](./275055-freaky-trip-spring-pack.json) |
+| Freaky Trip: Summer Pack | 275058 | [275058-freaky-trip-summer-pack.json](./275058-freaky-trip-summer-pack.json) |
 | Freaky Trip: Superb Edition | 315864 | [315864-freaky-trip-superb-edition.json](./315864-freaky-trip-superb-edition.json) |
 | Freaky Trip: Ultra Deluxe | 324463 | [324463-freaky-trip-ultra-deluxe.json](./324463-freaky-trip-ultra-deluxe.json) |
+| Freaky Trip: Winter Pack | 275052 | [275052-freaky-trip-winter-pack.json](./275052-freaky-trip-winter-pack.json) |
 | Freakyforms: Your Creations, Alive! | 6771 | [6771-freakyforms-your-creations-alive.json](./6771-freakyforms-your-creations-alive.json) |
 | Frebbventure | 215240 | [215240-frebbventure.json](./215240-frebbventure.json) |
 | Fred | 85866 | [85866-fred.json](./85866-fred.json) |
