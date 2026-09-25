@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Amazon Girls | 368011 | [368011-hentai-amazon-girls.json](./368011-hentai-amazon-girls.json) |
 | Hentai Animation Puzzle | 367037 | [367037-hentai-animation-puzzle.json](./367037-hentai-animation-puzzle.json) |
 | Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
+| Hentai Bad Girls | 280267 | [280267-hentai-bad-girls.json](./280267-hentai-bad-girls.json) |
 | Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
 | Hentai Balls 3D: Heavy Attraction | 380701 | [380701-hentai-balls-3d-heavy-attraction.json](./380701-hentai-balls-3d-heavy-attraction.json) |
 | Hentai Balls 3D: Sexy Girls | 390497 | [390497-hentai-balls-3d-sexy-girls.json](./390497-hentai-balls-3d-sexy-girls.json) |
@@ -3045,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippy's Quest | 78362 | [78362-hippys-quest.json](./78362-hippys-quest.json) |
 | Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
+| Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
 | Hiraeth | 291584 | [291584-hiraeth.json](./291584-hiraeth.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
 | Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
@@ -4523,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
 | Hungry Hearts Diner 2: Moonlit Memories | 172603 | [172603-hungry-hearts-diner-2-moonlit-memories.json](./172603-hungry-hearts-diner-2-moonlit-memories.json) |
+| Hungry Hearts Diner: Memories | 280280 | [280280-hungry-hearts-diner-memories.json](./280280-hungry-hearts-diner-memories.json) |
 | Hungry Hearts Restaurant | 356276 | [356276-hungry-hearts-restaurant.json](./356276-hungry-hearts-restaurant.json) |
 | Hungry Horace | 12954 | [12954-hungry-horace.json](./12954-hungry-horace.json) |
 | Hungry Horrors | 315343 | [315343-hungry-horrors.json](./315343-hungry-horrors.json) |
