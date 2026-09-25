@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 4 | 11583 | [11583-five-nights-at-freddys-4.json](./11583-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
+| Five Nights at Freddy's 5 | 271717 | [271717-five-nights-at-freddys-5.json](./271717-five-nights-at-freddys-5.json) |
 | Five Nights at Freddy's AR Lite | 273955 | [273955-five-nights-at-freddys-ar-lite.json](./273955-five-nights-at-freddys-ar-lite.json) |
 | Five Nights at Freddy's AR: Special Delivery - Dark Circus: Encore! | 206706 | [206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json](./206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json) |
 | Five Nights at Freddy's Area 51 | 270670 | [270670-five-nights-at-freddys-area-51.json](./270670-five-nights-at-freddys-area-51.json) |
@@ -3595,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Ultimate Heroes Pack | 305767 | [305767-for-honor-ultimate-heroes-pack.json](./305767-for-honor-ultimate-heroes-pack.json) |
 | For Honor: Varangian Guard - Hero | 289921 | [289921-for-honor-varangian-guard-hero.json](./289921-for-honor-varangian-guard-hero.json) |
 | For Honor: Warmonger Hero | 170436 | [170436-for-honor-warmonger-hero.json](./170436-for-honor-warmonger-hero.json) |
+| For Love of Evil | 271779 | [271779-for-love-of-evil.json](./271779-for-love-of-evil.json) |
 | For My Babies | 270770 | [270770-for-my-babies.json](./270770-for-my-babies.json) |
 | For Political Lovers, a Little Utopia Sketch | 128612 | [128612-for-political-lovers-a-little-utopia-sketch.json](./128612-for-political-lovers-a-little-utopia-sketch.json) |
 | For Rent: Haunted House | 83600 | [83600-for-rent-haunted-house.json](./83600-for-rent-haunted-house.json) |
@@ -3911,6 +3913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
 | Fort Flow | 207408 | [207408-fort-flow.json](./207408-fort-flow.json) |
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
+| Fort Ratsack | 271784 | [271784-fort-ratsack.json](./271784-fort-ratsack.json) |
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
 | Fort Valen | 238501 | [238501-fort-valen.json](./238501-fort-valen.json) |
 | Forte Craft Explore Island | 101383 | [101383-forte-craft-explore-island.json](./101383-forte-craft-explore-island.json) |
