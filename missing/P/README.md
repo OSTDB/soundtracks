@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
 | Pinball Deluxe | 260802 | [260802-pinball-deluxe.json](./260802-pinball-deluxe.json) |
+| Pinball Dreams | 248589 | [248589-pinball-dreams.json](./248589-pinball-dreams.json) |
 | Pinball Dreams | 260726 | [260726-pinball-dreams.json](./260726-pinball-dreams.json) |
 | Pinball Duel | 66642 | [66642-pinball-duel.json](./66642-pinball-duel.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
@@ -5082,6 +5083,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers S.P.D.: Escape of the Five Fugitives | 220103 | [220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json](./220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json) |
 | Power Rangers Samurai | 25181 | [25181-power-rangers-samurai.json](./25181-power-rangers-samurai.json) |
 | Power Rangers Super Samurai | 25162 | [25162-power-rangers-super-samurai.json](./25162-power-rangers-super-samurai.json) |
+| Power Rangers Time Force | 248622 | [248622-power-rangers-time-force.json](./248622-power-rangers-time-force.json) |
+| Power Rangers Time Force | 248623 | [248623-power-rangers-time-force.json](./248623-power-rangers-time-force.json) |
 | Power Rangers Time Force | 3293 | [3293-power-rangers-time-force.json](./3293-power-rangers-time-force.json) |
 | Power Rangers: Battle for the Grid - Adam Park | 326725 | [326725-power-rangers-battle-for-the-grid-adam-park.json](./326725-power-rangers-battle-for-the-grid-adam-park.json) |
 | Power Rangers: Battle for the Grid - Anubis Cruger SPD Shadow Ranger | 167794 | [167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json](./167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json) |
@@ -5419,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
 | Prince of Darkness Jr. | 371973 | [371973-prince-of-darkness-jr.json](./371973-prince-of-darkness-jr.json) |
 | Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
+| Prince of Persia | 248579 | [248579-prince-of-persia.json](./248579-prince-of-persia.json) |
 | Prince of Persia | 249150 | [249150-prince-of-persia.json](./249150-prince-of-persia.json) |
 | Prince of Persia | 284776 | [284776-prince-of-persia.json](./284776-prince-of-persia.json) |
 | Prince of Persia 2: The Shadow and the Flame | 3164 | [3164-prince-of-persia-2-the-shadow-and-the-flame.json](./3164-prince-of-persia-2-the-shadow-and-the-flame.json) |
