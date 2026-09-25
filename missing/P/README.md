@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Champ | 388958 | [388958-party-champ.json](./388958-party-champ.json) |
 | Party Chaos | 213446 | [213446-party-chaos.json](./213446-party-chaos.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
+| Party Doodles | 241338 | [241338-party-doodles.json](./241338-party-doodles.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
 | Party Friends | 279111 | [279111-party-friends.json](./279111-party-friends.json) |
 | Party Games: 15 in 1 | 147911 | [147911-party-games-15-in-1.json](./147911-party-games-15-in-1.json) |
@@ -6968,6 +6969,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle to Go Sightseeing | 84791 | [84791-puzzle-to-go-sightseeing.json](./84791-puzzle-to-go-sightseeing.json) |
 | Puzzle to Go Wildlife | 84790 | [84790-puzzle-to-go-wildlife.json](./84790-puzzle-to-go-wildlife.json) |
 | Puzzle Together | 141838 | [141838-puzzle-together.json](./141838-puzzle-together.json) |
+| Puzzle Together: Animals Jigsaw Super Pack | 241311 | [241311-puzzle-together-animals-jigsaw-super-pack.json](./241311-puzzle-together-animals-jigsaw-super-pack.json) |
+| Puzzle Together: Architecture Jigsaw Super Pack | 241312 | [241312-puzzle-together-architecture-jigsaw-super-pack.json](./241312-puzzle-together-architecture-jigsaw-super-pack.json) |
+| Puzzle Together: Great Paintings Jigsaw Super Pack | 241313 | [241313-puzzle-together-great-paintings-jigsaw-super-pack.json](./241313-puzzle-together-great-paintings-jigsaw-super-pack.json) |
 | Puzzle toys | 268979 | [268979-puzzle-toys.json](./268979-puzzle-toys.json) |
 | Puzzle Trains | 89276 | [89276-puzzle-trains.json](./89276-puzzle-trains.json) |
 | Puzzle Vacations: Australia and New Zealand | 278495 | [278495-puzzle-vacations-australia-and-new-zealand.json](./278495-puzzle-vacations-australia-and-new-zealand.json) |
