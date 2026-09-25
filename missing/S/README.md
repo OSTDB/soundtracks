@@ -4822,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
 | Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
 | Sky Valley | 31947 | [31947-sky-valley.json](./31947-sky-valley.json) |
+| Sky War | 272802 | [272802-sky-war.json](./272802-sky-war.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
 | Sky: Children of the Light - Season of Belonging | 388383 | [388383-sky-children-of-the-light-season-of-belonging.json](./388383-sky-children-of-the-light-season-of-belonging.json) |
 | Sky: Children of the Light - Season of Lightseekers | 388381 | [388381-sky-children-of-the-light-season-of-lightseekers.json](./388381-sky-children-of-the-light-season-of-lightseekers.json) |
@@ -9906,6 +9907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startenders: Intergalactic Bartending | 187509 | [187509-startenders-intergalactic-bartending.json](./187509-startenders-intergalactic-bartending.json) |
 | Starters Orders 7 | 137628 | [137628-starters-orders-7.json](./137628-starters-orders-7.json) |
 | Starters Orders Touch Horse Racing | 287746 | [287746-starters-orders-touch-horse-racing.json](./287746-starters-orders-touch-horse-racing.json) |
+| Starting Blocks | 272808 | [272808-starting-blocks.json](./272808-starting-blocks.json) |
 | Starting the Game | 97230 | [97230-starting-the-game.json](./97230-starting-the-game.json) |
 | Startling Odyssey | 78944 | [78944-startling-odyssey.json](./78944-startling-odyssey.json) |
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
@@ -12057,6 +12059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hoops 2 | 378784 | [378784-super-hoops-2.json](./378784-super-hoops-2.json) |
 | Super Horoscope Kanji Version | 112158 | [112158-super-horoscope-kanji-version.json](./112158-super-horoscope-kanji-version.json) |
 | Super Hot Pellet Muncher 2000 | 178613 | [178613-super-hot-pellet-muncher-2000.json](./178613-super-hot-pellet-muncher-2000.json) |
+| Super Huggie Bros | 272806 | [272806-super-huggie-bros.json](./272806-super-huggie-bros.json) |
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
 | Super Icarus | 291599 | [291599-super-icarus.json](./291599-super-icarus.json) |
 | Super Ick | 193502 | [193502-super-ick.json](./193502-super-ick.json) |
@@ -12276,6 +12279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64x4 | 315007 | [315007-super-mario-64x4.json](./315007-super-mario-64x4.json) |
 | Super Mario 74 | 132842 | [132842-super-mario-74.json](./132842-super-mario-74.json) |
 | Super Mario 74: Extreme Edition | 132843 | [132843-super-mario-74-extreme-edition.json](./132843-super-mario-74-extreme-edition.json) |
+| Super Mario 74: The Twelve Year Comet | 272810 | [272810-super-mario-74-the-twelve-year-comet.json](./272810-super-mario-74-the-twelve-year-comet.json) |
 | Super Mario Advance 4: Card e+ - 1UP Kinoko ga 3UP Moon ni Kawaru | 296051 | [296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json](./296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json) |
 | Super Mario Advance 4: Card e+ - Luigi Power Up! | 296052 | [296052-super-mario-advance-4-card-e-luigi-power-up.json](./296052-super-mario-advance-4-card-e-luigi-power-up.json) |
 | Super Mario Advance 4: Card e+ - Sugu ni Mantan! Power Meter!! | 296054 | [296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json](./296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json) |
