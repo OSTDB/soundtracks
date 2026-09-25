@@ -2820,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
 | Lone Survivors | 373766 | [373766-lone-survivors.json](./373766-lone-survivors.json) |
 | Lone Tower Roguelite Defense | 255805 | [255805-lone-tower-roguelite-defense.json](./255805-lone-tower-roguelite-defense.json) |
+| Lone Traveler | 232947 | [232947-lone-traveler.json](./232947-lone-traveler.json) |
 | Lone Wolf DS I: Flight From The Dark | 308379 | [308379-lone-wolf-ds-i-flight-from-the-dark.json](./308379-lone-wolf-ds-i-flight-from-the-dark.json) |
 | Lone Wolf Saga | 273956 | [273956-lone-wolf-saga.json](./273956-lone-wolf-saga.json) |
 | Lone Wolf: World War 2 | 142264 | [142264-lone-wolf-world-war-2.json](./142264-lone-wolf-world-war-2.json) |
@@ -3108,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ascension | 260099 | [260099-lost-ascension.json](./260099-lost-ascension.json) |
 | Lost Assassin | 157574 | [157574-lost-assassin.json](./157574-lost-assassin.json) |
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
+| Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
 | Lost Boy | 179063 | [179063-lost-boy.json](./179063-lost-boy.json) |
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
 | Lost Brothers | 127311 | [127311-lost-brothers.json](./127311-lost-brothers.json) |
