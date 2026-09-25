@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny Cat Golf | 323318 | [323318-uncanny-cat-golf.json](./323318-uncanny-cat-golf.json) |
 | Uncanny Islands | 81787 | [81787-uncanny-islands.json](./81787-uncanny-islands.json) |
 | Uncanyon | 416106 | [416106-uncanyon.json](./416106-uncanyon.json) |
+| Uncensor Quest | 261773 | [261773-uncensor-quest.json](./261773-uncensor-quest.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
 | Uncharted 3: Drake's Deception - Special Edition | 139922 | [139922-uncharted-3-drakes-deception-special-edition.json](./139922-uncharted-3-drakes-deception-special-edition.json) |
 | Uncharted 3: Multiplayer | 252195 | [252195-uncharted-3-multiplayer.json](./252195-uncharted-3-multiplayer.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upload Simulator | 215676 | [215676-upload-simulator.json](./215676-upload-simulator.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
 | Upon A Darkening Flood | 367593 | [367593-upon-a-darkening-flood.json](./367593-upon-a-darkening-flood.json) |
+| Upon the Eldritch Planet | 261750 | [261750-upon-the-eldritch-planet.json](./261750-upon-the-eldritch-planet.json) |
 | Upper Ball | 239091 | [239091-upper-ball.json](./239091-upper-ball.json) |
 | Uppercute | 336613 | [336613-uppercute.json](./336613-uppercute.json) |
 | Upperz | 102794 | [102794-upperz.json](./102794-upperz.json) |
