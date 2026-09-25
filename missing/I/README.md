@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iga tai Kouga | 385742 | [385742-iga-tai-kouga.json](./385742-iga-tai-kouga.json) |
 | Igeo DX | 136419 | [136419-igeo-dx.json](./136419-igeo-dx.json) |
 | Iggle Pop! | 62441 | [62441-iggle-pop.json](./62441-iggle-pop.json) |
+| Iggy & Java | 274526 | [274526-iggy-and-java.json](./274526-iggy-and-java.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
 | Ignatius | 169375 | [169375-ignatius.json](./169375-ignatius.json) |
 | Ignis | 294170 | [294170-ignis.json](./294170-ignis.json) |
