@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattoo Assassins | 39563 | [39563-tattoo-assassins.json](./39563-tattoo-assassins.json) |
 | Tattoo Design Studio: Fun Game | 89156 | [89156-tattoo-design-studio-fun-game.json](./89156-tattoo-design-studio-fun-game.json) |
 | Tattoo Punk | 146824 | [146824-tattoo-punk.json](./146824-tattoo-punk.json) |
+| Tattoos and Tulips | 257976 | [257976-tattoos-and-tulips.json](./257976-tattoos-and-tulips.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
 | TAU-09 | 392942 | [392942-tau-09.json](./392942-tau-09.json) |
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
@@ -1731,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teraburst | 394174 | [394174-teraburst.json](./394174-teraburst.json) |
 | Teraphobia | 159250 | [159250-teraphobia.json](./159250-teraphobia.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
+| Teratale: Tide of Wishes | 257908 | [257908-teratale-tide-of-wishes.json](./257908-teratale-tide-of-wishes.json) |
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
 | Teratoma: The Last Rebellion | 79867 | [79867-teratoma-the-last-rebellion.json](./79867-teratoma-the-last-rebellion.json) |
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
@@ -1855,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Brain: Night Out | 211258 | [211258-terror-brain-night-out.json](./211258-terror-brain-night-out.json) |
 | Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
 | Terror for Two | 110167 | [110167-terror-for-two.json](./110167-terror-for-two.json) |
+| Terror in the Kitchen | 257897 | [257897-terror-in-the-kitchen.json](./257897-terror-in-the-kitchen.json) |
 | Terror Lab | 33391 | [33391-terror-lab.json](./33391-terror-lab.json) |
 | Terror Mansion | 283836 | [283836-terror-mansion.json](./283836-terror-mansion.json) |
 | Terror Mod Ultraultimatum HD | 330547 | [330547-terror-mod-ultraultimatum-hd.json](./330547-terror-mod-ultraultimatum-hd.json) |
@@ -5639,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
 | The Old Forest | 199588 | [199588-the-old-forest.json](./199588-the-old-forest.json) |
 | The Old House | 138760 | [138760-the-old-house.json](./138760-the-old-house.json) |
+| The Old House | 257895 | [257895-the-old-house.json](./257895-the-old-house.json) |
 | The Old Man | 135036 | [135036-the-old-man.json](./135036-the-old-man.json) |
 | The Old Man Club | 59987 | [59987-the-old-man-club.json](./59987-the-old-man-club.json) |
 | The Old Man’s Will | 390660 | [390660-the-old-man-s-will.json](./390660-the-old-man-s-will.json) |
@@ -6328,6 +6332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadow Syndicate | 342265 | [342265-the-shadow-syndicate.json](./342265-the-shadow-syndicate.json) |
+| The Shadow's Terror | 257907 | [257907-the-shadows-terror.json](./257907-the-shadows-terror.json) |
 | The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
 | The Shadows That Run Alongside Our Car | 77595 | [77595-the-shadows-that-run-alongside-our-car.json](./77595-the-shadows-that-run-alongside-our-car.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
@@ -6716,6 +6721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Strongholds of Silberland | 183446 | [183446-the-strongholds-of-silberland.json](./183446-the-strongholds-of-silberland.json) |
+| The Stubborn of WakGood: Afterheat | 257885 | [257885-the-stubborn-of-wakgood-afterheat.json](./257885-the-stubborn-of-wakgood-afterheat.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
 | The Sub Shop | 308365 | [308365-the-sub-shop.json](./308365-the-sub-shop.json) |
 | The Subconscious Fear | 271809 | [271809-the-subconscious-fear.json](./271809-the-subconscious-fear.json) |
@@ -7446,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Window 8: Millennium | 369105 | [369105-the-window-8-millennium.json](./369105-the-window-8-millennium.json) |
 | The Window Box | 113850 | [113850-the-window-box.json](./113850-the-window-box.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
+| The Wine Hunt: Aim Fidelity | 257975 | [257975-the-wine-hunt-aim-fidelity.json](./257975-the-wine-hunt-aim-fidelity.json) |
 | The Winter | 209684 | [209684-the-winter.json](./209684-the-winter.json) |
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
 | The Winter Solstice | 70917 | [70917-the-winter-solstice.json](./70917-the-winter-solstice.json) |
