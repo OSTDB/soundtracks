@@ -2798,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novivors | 301984 | [301984-novivors.json](./301984-novivors.json) |
 | Novopangea | 277671 | [277671-novopangea.json](./277671-novopangea.json) |
 | Novovu | 130879 | [130879-novovu.json](./130879-novovu.json) |
+| Novus | 243057 | [243057-novus.json](./243057-novus.json) |
 | Novus Conquest | 248881 | [248881-novus-conquest.json](./248881-novus-conquest.json) |
 | Novus Orbis | 253583 | [253583-novus-orbis.json](./253583-novus-orbis.json) |
 | Now & Then: A Tale of the End | 255097 | [255097-now-and-then-a-tale-of-the-end.json](./255097-now-and-then-a-tale-of-the-end.json) |
@@ -2907,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Breach | 239151 | [239151-null-breach.json](./239151-null-breach.json) |
 | Null Event | 215788 | [215788-null-event.json](./215788-null-event.json) |
 | Null Kitchen Exception | 405734 | [405734-null-kitchen-exception.json](./405734-null-kitchen-exception.json) |
+| Null Matter | 243070 | [243070-null-matter.json](./243070-null-matter.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
