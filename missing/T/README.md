@@ -3372,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
+| The Dungeon | 272892 | [272892-the-dungeon.json](./272892-the-dungeon.json) |
 | The Dungeon | 301974 | [301974-the-dungeon.json](./301974-the-dungeon.json) |
 | The Dungeon Beneath | 139354 | [139354-the-dungeon-beneath.json](./139354-the-dungeon-beneath.json) |
 | The Dungeon Experience | 113668 | [113668-the-dungeon-experience.json](./113668-the-dungeon-experience.json) |
@@ -4556,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knightling | 313587 | [313587-the-knightling.json](./313587-the-knightling.json) |
 | The Knights of Dice | 184469 | [184469-the-knights-of-dice.json](./184469-the-knights-of-dice.json) |
 | The Knights of the Cross | 394556 | [394556-the-knights-of-the-cross.json](./394556-the-knights-of-the-cross.json) |
+| The Knowledge of Hermit | 272894 | [272894-the-knowledge-of-hermit.json](./272894-the-knowledge-of-hermit.json) |
 | The Koala Brothers: Outback Adventures | 49398 | [49398-the-koala-brothers-outback-adventures.json](./49398-the-koala-brothers-outback-adventures.json) |
 | The Kobolds Left Behind | 201701 | [201701-the-kobolds-left-behind.json](./201701-the-kobolds-left-behind.json) |
 | The Kore Gang: Outvasion from Inner Earth | 72687 | [72687-the-kore-gang-outvasion-from-inner-earth.json](./72687-the-kore-gang-outvasion-from-inner-earth.json) |
@@ -6012,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Return of Medusa | 14508 | [14508-the-return-of-medusa.json](./14508-the-return-of-medusa.json) |
 | The Return of the Heroes | 259561 | [259561-the-return-of-the-heroes.json](./259561-the-return-of-the-heroes.json) |
 | The Return of the King | 287767 | [287767-the-return-of-the-king.json](./287767-the-return-of-the-king.json) |
+| The Return to Freddy's Classic | 272805 | [272805-the-return-to-freddys-classic.json](./272805-the-return-to-freddys-classic.json) |
 | The Return: Survival | 114771 | [114771-the-return-survival.json](./114771-the-return-survival.json) |
 | The Revanchist | 338722 | [338722-the-revanchist.json](./338722-the-revanchist.json) |
 | The Revelation of Gensokyo | 157121 | [157121-the-revelation-of-gensokyo.json](./157121-the-revelation-of-gensokyo.json) |
@@ -7138,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Universal Symphony | 398460 | [398460-the-universal-symphony.json](./398460-the-universal-symphony.json) |
 | The Universe Soldiers | 48323 | [48323-the-universe-soldiers.json](./48323-the-universe-soldiers.json) |
 | The Universim | 9943 | [9943-the-universim.json](./9943-the-universim.json) |
+| The Unknown | 272893 | [272893-the-unknown.json](./272893-the-unknown.json) |
 | The Unknown | 336516 | [336516-the-unknown.json](./336516-the-unknown.json) |
 | The Unknown | 397076 | [397076-the-unknown.json](./397076-the-unknown.json) |
 | The Unknown | 53789 | [53789-the-unknown.json](./53789-the-unknown.json) |
@@ -7393,6 +7397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wishing Stone | 148901 | [148901-the-wishing-stone.json](./148901-the-wishing-stone.json) |
 | The Witch | 292633 | [292633-the-witch.json](./292633-the-witch.json) |
 | The Witch and Her Assistant | 183460 | [183460-the-witch-and-her-assistant.json](./183460-the-witch-and-her-assistant.json) |
+| The Witch and the Bottle of Concept | 272895 | [272895-the-witch-and-the-bottle-of-concept.json](./272895-the-witch-and-the-bottle-of-concept.json) |
 | The Witch and the Hundred Knight 2 | 24909 | [24909-the-witch-and-the-hundred-knight-2.json](./24909-the-witch-and-the-hundred-knight-2.json) |
 | The Witch and the Hundred Knight Mobile | 394549 | [394549-the-witch-and-the-hundred-knight-mobile.json](./394549-the-witch-and-the-hundred-knight-mobile.json) |
 | The Witch and the Lost Babies | 389585 | [389585-the-witch-and-the-lost-babies.json](./389585-the-witch-and-the-lost-babies.json) |
@@ -7827,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Panda Needs You | 185652 | [185652-this-panda-needs-you.json](./185652-this-panda-needs-you.json) |
 | This Rain Will Never End | 169462 | [169462-this-rain-will-never-end.json](./169462-this-rain-will-never-end.json) |
 | This Short Indie Game Made Me Miss My Friends: Rainy Plays Lonely Game Livestream | 403029 | [403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json](./403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json) |
+| This Side Up | 272897 | [272897-this-side-up.json](./272897-this-side-up.json) |
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
 | This Trip: Hunted in Forest | 178520 | [178520-this-trip-hunted-in-forest.json](./178520-this-trip-hunted-in-forest.json) |
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
@@ -10478,6 +10484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower!3D: PHNL Airport | 161313 | [161313-tower-3d-phnl-airport.json](./161313-tower-3d-phnl-airport.json) |
 | Tower.Defense(): Program the Fight | 406215 | [406215-tower-defense-program-the-fight.json](./406215-tower-defense-program-the-fight.json) |
 | Towerborne | 252839 | [252839-towerborne.json](./252839-towerborne.json) |
+| Towercore: Survivors | 272898 | [272898-towercore-survivors.json](./272898-towercore-survivors.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | TowerFall with Friends | 201686 | [201686-towerfall-with-friends.json](./201686-towerfall-with-friends.json) |
@@ -10645,6 +10652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania United | 9908 | [9908-trackmania-united.json](./9908-trackmania-united.json) |
 | TrackMania United Forever | 2451 | [2451-trackmania-united-forever.json](./2451-trackmania-united-forever.json) |
 | TrackRacing Online | 98396 | [98396-trackracing-online.json](./98396-trackracing-online.json) |
+| Tracks n' Turrets | 272899 | [272899-tracks-n-turrets.json](./272899-tracks-n-turrets.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
 | Tracks: The Train Set Game | 39748 | [39748-tracks-the-train-set-game.json](./39748-tracks-the-train-set-game.json) |
 | Tracktopia | 333628 | [333628-tracktopia.json](./333628-tracktopia.json) |
@@ -11348,6 +11356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport Tycoon | 5504 | [5504-transport-tycoon.json](./5504-transport-tycoon.json) |
 | Transport Tycoon Deluxe | 5502 | [5502-transport-tycoon-deluxe.json](./5502-transport-tycoon-deluxe.json) |
 | Transport-inators of Doooom! | 230298 | [230298-transport-inators-of-doooom.json](./230298-transport-inators-of-doooom.json) |
+| Transporter | 272896 | [272896-transporter.json](./272896-transporter.json) |
 | Transporter | 338951 | [338951-transporter.json](./338951-transporter.json) |
 | Transporter the Rescue | 92434 | [92434-transporter-the-rescue.json](./92434-transporter-the-rescue.json) |
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
@@ -11954,6 +11963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble in Potion High | 399707 | [399707-trouble-in-potion-high.json](./399707-trouble-in-potion-high.json) |
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
+| Trouble Magnet | 272876 | [272876-trouble-magnet.json](./272876-trouble-magnet.json) |
 | Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
 | Trouble Score | 97720 | [97720-trouble-score.json](./97720-trouble-score.json) |
 | Troubled Waters | 352254 | [352254-troubled-waters.json](./352254-troubled-waters.json) |
