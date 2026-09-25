@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are an Ancient Chinese Poet in Exile | 326768 | [326768-you-are-an-ancient-chinese-poet-in-exile.json](./326768-you-are-an-ancient-chinese-poet-in-exile.json) |
 | You are Awake Now | 234716 | [234716-you-are-awake-now.json](./234716-you-are-awake-now.json) |
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
+| You Are Being Watched | 230764 | [230764-you-are-being-watched.json](./230764-you-are-being-watched.json) |
 | You are Dough | 243643 | [243643-you-are-dough.json](./243643-you-are-dough.json) |
 | You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
 | You Are Here | 114169 | [114169-you-are-here.json](./114169-you-are-here.json) |
@@ -429,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Had a Bad Dream | 405593 | [405593-you-had-a-bad-dream.json](./405593-you-had-a-bad-dream.json) |
 | You Have 1 HP | 269656 | [269656-you-have-1-hp.json](./269656-you-have-1-hp.json) |
 | You Have 10 Seconds | 31909 | [31909-you-have-10-seconds.json](./31909-you-have-10-seconds.json) |
+| You Have 293 Keys | 230768 | [230768-you-have-293-keys.json](./230768-you-have-293-keys.json) |
 | You Have A Delivery | 328038 | [328038-you-have-a-delivery.json](./328038-you-have-a-delivery.json) |
 | You have a drunk friend | 111355 | [111355-you-have-a-drunk-friend.json](./111355-you-have-a-drunk-friend.json) |
 | You Have My Support | 321563 | [321563-you-have-my-support.json](./321563-you-have-my-support.json) |
