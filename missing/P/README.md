@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguino | 365853 | [365853-penguino.json](./365853-penguino.json) |
 | Penguins Arena: Sedna's World | 15779 | [15779-penguins-arena-sednas-world.json](./15779-penguins-arena-sednas-world.json) |
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
+| Penguru | 264648 | [264648-penguru.json](./264648-penguru.json) |
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
 | Penis Simulator | 403024 | [403024-penis-simulator.json](./403024-penis-simulator.json) |
 | Penitence | 201684 | [201684-penitence.json](./201684-penitence.json) |
@@ -3040,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Vacations Pack | 361226 | [361226-pixel-cross-stitch-color-by-number-vacations-pack.json](./361226-pixel-cross-stitch-color-by-number-vacations-pack.json) |
 | Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
 | Pixel Dash | 265778 | [265778-pixel-dash.json](./265778-pixel-dash.json) |
+| Pixel Descent | 264587 | [264587-pixel-descent.json](./264587-pixel-descent.json) |
 | Pixel Drawing | 335442 | [335442-pixel-drawing.json](./335442-pixel-drawing.json) |
 | Pixel Drifters | 234320 | [234320-pixel-drifters.json](./234320-pixel-drifters.json) |
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
@@ -3677,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
 | Playmobil: The Explorers | 103901 | [103901-playmobil-the-explorers.json](./103901-playmobil-the-explorers.json) |
 | Playne | 102937 | [102937-playne.json](./102937-playne.json) |
+| Playroom Invasion TD | 264646 | [264646-playroom-invasion-td.json](./264646-playroom-invasion-td.json) |
 | Playroom Tracks: Hill Climb Adventure | 385083 | [385083-playroom-tracks-hill-climb-adventure.json](./385083-playroom-tracks-hill-climb-adventure.json) |
 | PlayStation All-Stars Battle Royale: Big Daddy Plushy | 315076 | [315076-playstation-all-stars-battle-royale-big-daddy-plushy.json](./315076-playstation-all-stars-battle-royale-big-daddy-plushy.json) |
 | PlayStation All-Stars Battle Royale: Bistro Toro | 315078 | [315078-playstation-all-stars-battle-royale-bistro-toro.json](./315078-playstation-all-stars-battle-royale-bistro-toro.json) |
@@ -4513,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymega Collection Vol.1: Asteroids | 324511 | [324511-polymega-collection-vol-1-asteroids.json](./324511-polymega-collection-vol-1-asteroids.json) |
 | Polymega Collection Vol.17: Gunbird | 387511 | [387511-polymega-collection-vol-17-gunbird.json](./387511-polymega-collection-vol-17-gunbird.json) |
 | Polymega Collection Vol.18: Rival Turf! | 387512 | [387512-polymega-collection-vol-18-rival-turf.json](./387512-polymega-collection-vol-18-rival-turf.json) |
+| Polymino | 264659 | [264659-polymino.json](./264659-polymino.json) |
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
 | PolyPine | 278973 | [278973-polypine.json](./278973-polypine.json) |
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
@@ -4877,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postcodeloterij Deal or No Deal: Het Interactive DVD-Spel | 319736 | [319736-postcodeloterij-deal-or-no-deal-het-interactive-dvd-spel.json](./319736-postcodeloterij-deal-or-no-deal-het-interactive-dvd-spel.json) |
 | PostCollapse | 31888 | [31888-postcollapse.json](./31888-postcollapse.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
+| Posthaste | 264569 | [264569-posthaste.json](./264569-posthaste.json) |
 | Posthuman: Guardians vs Psion | 398559 | [398559-posthuman-guardians-vs-psion.json](./398559-posthuman-guardians-vs-psion.json) |
 | Posthuman: Sanctuary | 105270 | [105270-posthuman-sanctuary.json](./105270-posthuman-sanctuary.json) |
 | Postie | 345599 | [345599-postie.json](./345599-postie.json) |
