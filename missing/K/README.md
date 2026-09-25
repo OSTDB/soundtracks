@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaidi Armed With a Cat | 113501 | [113501-kaidi-armed-with-a-cat.json](./113501-kaidi-armed-with-a-cat.json) |
 | Kaido Genkai | 349376 | [349376-kaido-genkai.json](./349376-kaido-genkai.json) |
 | Kaigrad | 163969 | [163969-kaigrad.json](./163969-kaigrad.json) |
+| Kaiichi Otto-sensei Tokyo Daigaku Kanshuu: Suku-suku Kosodate DS - Akachan to Asobou! | 269632 | [269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json](./269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json) |
 | Kaiju Catastrophe | 217331 | [217331-kaiju-catastrophe.json](./217331-kaiju-catastrophe.json) |
 | Kaiju Cleanup | 370709 | [370709-kaiju-cleanup.json](./370709-kaiju-cleanup.json) |
 | Kaiju Commander | 217368 | [217368-kaiju-commander.json](./217368-kaiju-commander.json) |
