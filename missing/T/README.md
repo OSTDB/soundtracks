@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
+| Take the Earth | 258439 | [258439-take-the-earth.json](./258439-take-the-earth.json) |
 | Take the King! | 270737 | [270737-take-the-king.json](./270737-take-the-king.json) |
 | Take town | 163402 | [163402-take-town.json](./163402-take-town.json) |
 | Take Your Best Shot | 69794 | [69794-take-your-best-shot.json](./69794-take-your-best-shot.json) |
@@ -536,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
 | Tales of Spark | 225103 | [225103-tales-of-spark.json](./225103-tales-of-spark.json) |
+| Tales of Spark: Probation | 258496 | [258496-tales-of-spark-probation.json](./258496-tales-of-spark-probation.json) |
 | Tales of Survival Horror | 379431 | [379431-tales-of-survival-horror.json](./379431-tales-of-survival-horror.json) |
 | Tales of Symphonia | 221716 | [221716-tales-of-symphonia.json](./221716-tales-of-symphonia.json) |
 | Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
@@ -1790,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
+| Terracards | 258426 | [258426-terracards.json](./258426-terracards.json) |
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
@@ -1814,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
+| TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
 | Terraria: Bigger and Boulder | 386978 | [386978-terraria-bigger-and-boulder.json](./386978-terraria-bigger-and-boulder.json) |
@@ -5575,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of the Rabbit | 3230 | [3230-the-night-of-the-rabbit.json](./3230-the-night-of-the-rabbit.json) |
 | The Night Owl Murder | 260086 | [260086-the-night-owl-murder.json](./260086-the-night-owl-murder.json) |
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
+| The Night Shift | 258416 | [258416-the-night-shift.json](./258416-the-night-shift.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
 | The Nightmare Accord | 289976 | [289976-the-nightmare-accord.json](./289976-the-nightmare-accord.json) |
@@ -6343,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shedding | 114372 | [114372-the-shedding.json](./114372-the-shedding.json) |
 | The Shell Part I: Inferno | 142230 | [142230-the-shell-part-i-inferno.json](./142230-the-shell-part-i-inferno.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
+| The Shifting Cavern | 258424 | [258424-the-shifting-cavern.json](./258424-the-shifting-cavern.json) |
 | The Shinri Game 2: Magical Trip | 58790 | [58790-the-shinri-game-2-magical-trip.json](./58790-the-shinri-game-2-magical-trip.json) |
 | The Shiny Ones | 183547 | [183547-the-shiny-ones.json](./183547-the-shiny-ones.json) |
 | The Shiny Show | 313268 | [313268-the-shiny-show.json](./313268-the-shiny-show.json) |
@@ -9755,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
 | Tombs of Reschette | 59678 | [59678-tombs-of-reschette.json](./59678-tombs-of-reschette.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
+| Tombstone Taxi | 258435 | [258435-tombstone-taxi.json](./258435-tombstone-taxi.json) |
 | Tomcat | 74428 | [74428-tomcat.json](./74428-tomcat.json) |
 | Tome | 373070 | [373070-tome.json](./373070-tome.json) |
 | Tome Improvement | 389737 | [389737-tome-improvement.json](./389737-tome-improvement.json) |
@@ -11416,6 +11423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transmissions | 213412 | [213412-transmissions.json](./213412-transmissions.json) |
 | Transmorpher 3 | 101937 | [101937-transmorpher-3.json](./101937-transmorpher-3.json) |
 | Transmute Syndrome | 311670 | [311670-transmute-syndrome.json](./311670-transmute-syndrome.json) |
+| Transmuters | 258501 | [258501-transmuters.json](./258501-transmuters.json) |
 | TransOcean 2: Rivals | 35728 | [35728-transocean-2-rivals.json](./35728-transocean-2-rivals.json) |
 | TransOcean: The Shipping Company | 36346 | [36346-transocean-the-shipping-company.json](./36346-transocean-the-shipping-company.json) |
 | Transparent Black: Wish | 337100 | [337100-transparent-black-wish.json](./337100-transparent-black-wish.json) |
@@ -12186,6 +12194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | Try Dying | 319713 | [319713-try-dying.json](./319713-try-dying.json) |
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
+| Try to Escape! | 258434 | [258434-try-to-escape.json](./258434-try-to-escape.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | Tryhard | 330935 | [330935-tryhard.json](./330935-tryhard.json) |
