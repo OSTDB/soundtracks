@@ -6854,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swapper | 5892 | [5892-the-swapper.json](./5892-the-swapper.json) |
 | The Swarm | 226432 | [226432-the-swarm.json](./226432-the-swarm.json) |
 | The Swarm is Coming | 311674 | [311674-the-swarm-is-coming.json](./311674-the-swarm-is-coming.json) |
+| The Sweet Little Monster | 240186 | [240186-the-sweet-little-monster.json](./240186-the-sweet-little-monster.json) |
 | The Sweetest Ring | 268213 | [268213-the-sweetest-ring.json](./268213-the-sweetest-ring.json) |
 | The Sweetness that Returned | 385072 | [385072-the-sweetness-that-returned.json](./385072-the-sweetness-that-returned.json) |
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
@@ -8265,6 +8266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Matrix | 180748 | [180748-tic-tac-matrix.json](./180748-tic-tac-matrix.json) |
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
 | Tic-Tac-Toast | 233078 | [233078-tic-tac-toast.json](./233078-tic-tac-toast.json) |
+| Tic-Tac-Toe Star | 240187 | [240187-tic-tac-toe-star.json](./240187-tic-tac-toe-star.json) |
 | Tic-Tac-Touch: FS5 | 72628 | [72628-tic-tac-touch-fs5.json](./72628-tic-tac-touch-fs5.json) |
 | Tic-Toc-Tower | 34781 | [34781-tic-toc-tower.json](./34781-tic-toc-tower.json) |
 | Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
@@ -10898,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Rush | 87886 | [87886-traffic-rush.json](./87886-traffic-rush.json) |
 | Traffic Rush: Ultimate Drive | 413090 | [413090-traffic-rush-ultimate-drive.json](./413090-traffic-rush-ultimate-drive.json) |
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
+| Traffic.io Car Games & Race | 240188 | [240188-traffic-io-car-games-and-race.json](./240188-traffic-io-car-games-and-race.json) |
 | Traffix | 118755 | [118755-traffix.json](./118755-traffix.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
 | Tragedy of Prince Rupert | 50891 | [50891-tragedy-of-prince-rupert.json](./50891-tragedy-of-prince-rupert.json) |
@@ -11952,6 +11955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Shapes | 28179 | [28179-tricky-shapes.json](./28179-tricky-shapes.json) |
 | Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
 | Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
+| Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
 | Tricky Typing | 195604 | [195604-tricky-typing.json](./195604-tricky-typing.json) |
