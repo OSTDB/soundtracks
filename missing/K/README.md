@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
 | KuruKuru Princess: Yume no White Quartet | 70668 | [70668-kurukuru-princess-yume-no-white-quartet.json](./70668-kurukuru-princess-yume-no-white-quartet.json) |
 | Kuruma de DS | 302675 | [302675-kuruma-de-ds.json](./302675-kuruma-de-ds.json) |
+| Kurumi Diary | 233476 | [233476-kurumi-diary.json](./233476-kurumi-diary.json) |
 | Kurumi-chan A-so-bo | 97385 | [97385-kurumi-chan-a-so-bo.json](./97385-kurumi-chan-a-so-bo.json) |
 | Kurupara! | 37364 | [37364-kurupara.json](./37364-kurupara.json) |
 | Kururin Donuts: Okashi Recipe | 228453 | [228453-kururin-donuts-okashi-recipe.json](./228453-kururin-donuts-okashi-recipe.json) |
