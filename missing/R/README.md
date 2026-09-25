@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms Edge | 368568 | [368568-realms-edge.json](./368568-realms-edge.json) |
 | Realms Forgotten | 356161 | [356161-realms-forgotten.json](./356161-realms-forgotten.json) |
 | Realms of Alterra | 301275 | [301275-realms-of-alterra.json](./301275-realms-of-alterra.json) |
+| Realms of Alurya | 272333 | [272333-realms-of-alurya.json](./272333-realms-of-alurya.json) |
 | Realms of Antiquity: The Shattered Crown | 163275 | [163275-realms-of-antiquity-the-shattered-crown.json](./163275-realms-of-antiquity-the-shattered-crown.json) |
 | Realms of Arcana | 287776 | [287776-realms-of-arcana.json](./287776-realms-of-arcana.json) |
 | Realms of Arkania Vol. 2: Star Trail | 70931 | [70931-realms-of-arkania-vol-2-star-trail.json](./70931-realms-of-arkania-vol-2-star-trail.json) |
@@ -1650,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redjack: Revenge of the Brethren | 18297 | [18297-redjack-revenge-of-the-brethren.json](./18297-redjack-revenge-of-the-brethren.json) |
 | RedLantern | 392943 | [392943-redlantern.json](./392943-redlantern.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
+| RedLine | 272244 | [272244-redline.json](./272244-redline.json) |
 | Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
 | Redline JDM Drift | 406301 | [406301-redline-jdm-drift.json](./406301-redline-jdm-drift.json) |
 | Redline Racing | 263056 | [263056-redline-racing.json](./263056-redline-racing.json) |
@@ -1734,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection of Mine | 27544 | [27544-reflection-of-mine.json](./27544-reflection-of-mine.json) |
 | Reflection Pool Cleaner Simulator | 408258 | [408258-reflection-pool-cleaner-simulator.json](./408258-reflection-pool-cleaner-simulator.json) |
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
+| Reflection Witch | 272257 | [272257-reflection-witch.json](./272257-reflection-witch.json) |
 | Reflection: Puzzle Game | 88170 | [88170-reflection-puzzle-game.json](./88170-reflection-puzzle-game.json) |
 | Reflection: The Greed | 211712 | [211712-reflection-the-greed.json](./211712-reflection-the-greed.json) |
 | Reflections of Life: Call of the Ancestors | 187954 | [187954-reflections-of-life-call-of-the-ancestors.json](./187954-reflections-of-life-call-of-the-ancestors.json) |
@@ -4776,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runecraft | 304644 | [304644-runecraft.json](./304644-runecraft.json) |
 | Runefall | 27184 | [27184-runefall.json](./27184-runefall.json) |
 | Runeflame: Legacy of the Druids | 340558 | [340558-runeflame-legacy-of-the-druids.json](./340558-runeflame-legacy-of-the-druids.json) |
+| Runemancer | 272245 | [272245-runemancer.json](./272245-runemancer.json) |
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
