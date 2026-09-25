@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladins: Season 4 Champions Bundle | 263484 | [263484-paladins-season-4-champions-bundle.json](./263484-paladins-season-4-champions-bundle.json) |
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
+| Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
 | Pale Moon Crisis | 29977 | [29977-pale-moon-crisis.json](./29977-pale-moon-crisis.json) |
 | Pale Tide | 403823 | [403823-pale-tide.json](./403823-pale-tide.json) |
 | Paleo Dive | 416816 | [416816-paleo-dive.json](./416816-paleo-dive.json) |
@@ -506,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panmorphia | 96536 | [96536-panmorphia.json](./96536-panmorphia.json) |
 | Panmorphia: Awakened | 197256 | [197256-panmorphia-awakened.json](./197256-panmorphia-awakened.json) |
 | Panmorphia: Enchanted | 171621 | [171621-panmorphia-enchanted.json](./171621-panmorphia-enchanted.json) |
+| Panomap | 253875 | [253875-panomap.json](./253875-panomap.json) |
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
 | Panopticon | 371242 | [371242-panopticon.json](./371242-panopticon.json) |
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
@@ -1473,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
 | Peaky Blinders: The King's Ransom | 211902 | [211902-peaky-blinders-the-kings-ransom.json](./211902-peaky-blinders-the-kings-ransom.json) |
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
+| Peanut Butter Jelly Wars | 253874 | [253874-peanut-butter-jelly-wars.json](./253874-peanut-butter-jelly-wars.json) |
 | Peanut Butter Panic | 73277 | [73277-peanut-butter-panic.json](./73277-peanut-butter-panic.json) |
 | Peanuts: It's the Big Game, Charlie Brown! | 71226 | [71226-peanuts-its-the-big-game-charlie-brown.json](./71226-peanuts-its-the-big-game-charlie-brown.json) |
 | Pear Quest | 129562 | [129562-pear-quest.json](./129562-pear-quest.json) |
@@ -2260,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pi Story | 93987 | [93987-pi-story.json](./93987-pi-story.json) |
 | Pi-Balled | 354646 | [354646-pi-balled.json](./354646-pi-balled.json) |
 | Pi.exe | 192463 | [192463-pi-exe.json](./192463-pi-exe.json) |
+| PI.EXE Enhanced Edition | 253877 | [253877-pi-exe-enhanced-edition.json](./253877-pi-exe-enhanced-edition.json) |
 | Pia | 317389 | [317389-pia.json](./317389-pia.json) |
 | Pia Carrot e Youkoso!! 2.2 | 62747 | [62747-pia-carrot-e-youkoso-2-2.json](./62747-pia-carrot-e-youkoso-2-2.json) |
 | Pia Carrot e Youkoso!! 3 | 62746 | [62746-pia-carrot-e-youkoso-3.json](./62746-pia-carrot-e-youkoso-3.json) |
@@ -2444,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece of Mind | 143649 | [143649-piece-of-mind.json](./143649-piece-of-mind.json) |
 | Piece of the Pie Pursuit | 97155 | [97155-piece-of-the-pie-pursuit.json](./97155-piece-of-the-pie-pursuit.json) |
 | Piece of Wonder | 72669 | [72669-piece-of-wonder.json](./72669-piece-of-wonder.json) |
+| Piece of..Horror | 253873 | [253873-piece-of-horror.json](./253873-piece-of-horror.json) |
 | Piece Out | 54720 | [54720-piece-out.json](./54720-piece-out.json) |
 | Piece Yourself Up | 341577 | [341577-piece-yourself-up.json](./341577-piece-yourself-up.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
@@ -2911,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Parakeet | 346777 | [346777-pirate-parakeet.json](./346777-pirate-parakeet.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
 | Pirate Royalty | 345583 | [345583-pirate-royalty.json](./345583-pirate-royalty.json) |
+| Pirate Runner | 253881 | [253881-pirate-runner.json](./253881-pirate-runner.json) |
 | Pirate Ship | 231924 | [231924-pirate-ship.json](./231924-pirate-ship.json) |
 | Pirate Shooter Fantasy Survival | 111075 | [111075-pirate-shooter-fantasy-survival.json](./111075-pirate-shooter-fantasy-survival.json) |
 | Pirate Simulator | 149924 | [149924-pirate-simulator.json](./149924-pirate-simulator.json) |
@@ -6369,6 +6375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
 | Psyia | 111670 | [111670-psyia.json](./111670-psyia.json) |
 | Psyko | 295909 | [295909-psyko.json](./295909-psyko.json) |
+| PsyQik | 253882 | [253882-psyqik.json](./253882-psyqik.json) |
 | Psytraxx | 57356 | [57356-psytraxx.json](./57356-psytraxx.json) |
 | Psytron | 25749 | [25749-psytron.json](./25749-psytron.json) |
 | PsyUp | 392255 | [392255-psyup.json](./392255-psyup.json) |
