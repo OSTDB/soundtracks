@@ -3200,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
+| Gravity Crash Portable | 257323 | [257323-gravity-crash-portable.json](./257323-gravity-crash-portable.json) |
 | Gravity Crash Portable | 42845 | [42845-gravity-crash-portable.json](./42845-gravity-crash-portable.json) |
 | Gravity Crash Ultra | 52223 | [52223-gravity-crash-ultra.json](./52223-gravity-crash-ultra.json) |
 | Gravity Dash | 287225 | [287225-gravity-dash.json](./287225-gravity-dash.json) |
