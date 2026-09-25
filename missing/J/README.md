@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Super Real Darwin | 146861 | [146861-johnny-turbos-arcade-super-real-darwin.json](./146861-johnny-turbos-arcade-super-real-darwin.json) |
 | Johnny Upgrade | 286642 | [286642-johnny-upgrade.json](./286642-johnny-upgrade.json) |
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
+| Join Tiles: Anatolian Game to Play | 260720 | [260720-join-tiles-anatolian-game-to-play.json](./260720-join-tiles-anatolian-game-to-play.json) |
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
 | Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
 | Joining Hands | 68926 | [68926-joining-hands.json](./68926-joining-hands.json) |
