@@ -3898,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogn | 205103 | [205103-pogn.json](./205103-pogn.json) |
 | Pogo | 45363 | [45363-pogo.json](./45363-pogo.json) |
 | Pogo Addiction Solitaire | 366444 | [366444-pogo-addiction-solitaire.json](./366444-pogo-addiction-solitaire.json) |
+| Pogo Arc | 271695 | [271695-pogo-arc.json](./271695-pogo-arc.json) |
 | Pogo Chick | 240876 | [240876-pogo-chick.json](./240876-pogo-chick.json) |
 | Pogo Epoch: Impossible 99% | 329177 | [329177-pogo-epoch-impossible-99.json](./329177-pogo-epoch-impossible-99.json) |
 | Pogo Island | 21401 | [21401-pogo-island.json](./21401-pogo-island.json) |
