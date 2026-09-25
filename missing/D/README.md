@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
 | Daisenryaku 1941: Gyakuten no Taiheiyou | 342253 | [342253-daisenryaku-1941-gyakuten-no-taiheiyou.json](./342253-daisenryaku-1941-gyakuten-no-taiheiyou.json) |
 | Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
+| Daisenryaku III '90 | 242519 | [242519-daisenryaku-iii-90.json](./242519-daisenryaku-iii-90.json) |
 | Daisenryaku III '90: Map Collection Vol. 1 | 299825 | [299825-daisenryaku-iii-90-map-collection-vol-1.json](./299825-daisenryaku-iii-90-map-collection-vol-1.json) |
 | Daisenryaku III '90: Map Collection Vol. 2 | 299826 | [299826-daisenryaku-iii-90-map-collection-vol-2.json](./299826-daisenryaku-iii-90-map-collection-vol-2.json) |
 | Daisenryaku Map Collection | 381851 | [381851-daisenryaku-map-collection.json](./381851-daisenryaku-map-collection.json) |
@@ -2016,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepLight | 413729 | [413729-deeplight.json](./413729-deeplight.json) |
 | Deeply | 390113 | [390113-deeply.json](./390113-deeply.json) |
 | Deepmess | 285015 | [285015-deepmess.json](./285015-deepmess.json) |
+| DeepOne | 242521 | [242521-deepone.json](./242521-deepone.json) |
 | Deepsea Salvor | 128375 | [128375-deepsea-salvor.json](./128375-deepsea-salvor.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
 | DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
@@ -3614,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Stacker | 108250 | [108250-dinosaur-stacker.json](./108250-dinosaur-stacker.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
+| Dinosaurily | 242511 | [242511-dinosaurily.json](./242511-dinosaurily.json) |
 | Dinosaurium | 395865 | [395865-dinosaurium.json](./395865-dinosaurium.json) |
 | Dinosaurs - Connect the Dots and Add Colors | 86725 | [86725-dinosaurs-connect-the-dots-and-add-colors.json](./86725-dinosaurs-connect-the-dots-and-add-colors.json) |
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
@@ -4218,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Like Horny Bunnies? Complete Collection | 201172 | [201172-do-you-like-horny-bunnies-complete-collection.json](./201172-do-you-like-horny-bunnies-complete-collection.json) |
 | Do You Really Know? | 390777 | [390777-do-you-really-know.json](./390777-do-you-really-know.json) |
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
+| Do You See Sparky? | 242484 | [242484-do-you-see-sparky.json](./242484-do-you-see-sparky.json) |
 | Do You Want More!? | 203938 | [203938-do-you-want-more.json](./203938-do-you-want-more.json) |
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
 | Doala de Wii | 81237 | [81237-doala-de-wii.json](./81237-doala-de-wii.json) |
@@ -6848,6 +6852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
 | Dungeon Killing | 355210 | [355210-dungeon-killing.json](./355210-dungeon-killing.json) |
 | Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
+| Dungeon Legend | 242491 | [242491-dungeon-legend.json](./242491-dungeon-legend.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
 | Dungeon Limbus | 142280 | [142280-dungeon-limbus.json](./142280-dungeon-limbus.json) |
 | Dungeon Link | 56140 | [56140-dungeon-link.json](./56140-dungeon-link.json) |
