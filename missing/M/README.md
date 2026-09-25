@@ -4042,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miburi and Teburi | 230271 | [230271-miburi-and-teburi.json](./230271-miburi-and-teburi.json) |
 | Mica: Apoptosis | 177515 | [177515-mica-apoptosis.json](./177515-mica-apoptosis.json) |
 | Michael Andretti's World GP | 48279 | [48279-michael-andrettis-world-gp.json](./48279-michael-andrettis-world-gp.json) |
+| Michael Jackson in Scramble Training | 233982 | [233982-michael-jackson-in-scramble-training.json](./233982-michael-jackson-in-scramble-training.json) |
 | Michael Jackson: Baby Drop | 320979 | [320979-michael-jackson-baby-drop.json](./320979-michael-jackson-baby-drop.json) |
 | Michael Jackson's Moonwalker | 262508 | [262508-michael-jacksons-moonwalker.json](./262508-michael-jacksons-moonwalker.json) |
 | Michael Jordan in Flight | 69585 | [69585-michael-jordan-in-flight.json](./69585-michael-jordan-in-flight.json) |
@@ -7047,6 +7048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Love: Queen's Choice | 118949 | [118949-mr-love-queens-choice.json](./118949-mr-love-queens-choice.json) |
 | Mr Mosco Bizarre Climbing | 263770 | [263770-mr-mosco-bizarre-climbing.json](./263770-mr-mosco-bizarre-climbing.json) |
 | Mr Ninja | 208060 | [208060-mr-ninja.json](./208060-mr-ninja.json) |
+| Mr Octopus | 234003 | [234003-mr-octopus.json](./234003-mr-octopus.json) |
 | Mr Rabbit's Alphabet Forest Adventure | 44168 | [44168-mr-rabbits-alphabet-forest-adventure.json](./44168-mr-rabbits-alphabet-forest-adventure.json) |
 | MR Racer | 343459 | [343459-mr-racer.json](./343459-mr-racer.json) |
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
