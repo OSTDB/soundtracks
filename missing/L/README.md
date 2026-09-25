@@ -3600,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi Quest | 318025 | [318025-luigi-quest.json](./318025-luigi-quest.json) |
 | Luigi Run | 203387 | [203387-luigi-run.json](./203387-luigi-run.json) |
 | Luigi: Insanity | 335659 | [335659-luigi-insanity.json](./335659-luigi-insanity.json) |
+| Luigi's Adventure OSE | 276786 | [276786-luigis-adventure-ose.json](./276786-luigis-adventure-ose.json) |
 | Luigi's Boo Hunt | 352300 | [352300-luigis-boo-hunt.json](./352300-luigis-boo-hunt.json) |
 | Luigi's Final Ghost Hunt | 259267 | [259267-luigis-final-ghost-hunt.json](./259267-luigis-final-ghost-hunt.json) |
 | Luigi's Game | 318029 | [318029-luigis-game.json](./318029-luigis-game.json) |
@@ -3611,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion: Extra Tangy | 313113 | [313113-luigis-mansion-extra-tangy.json](./313113-luigis-mansion-extra-tangy.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Mansion: Sweet Home | 308372 | [308372-luigis-mansion-sweet-home.json](./308372-luigis-mansion-sweet-home.json) |
+| Luigi's Misadventures 5: Rougenia Merald's Challenge | 276789 | [276789-luigis-misadventures-5-rougenia-meralds-challenge.json](./276789-luigis-misadventures-5-rougenia-meralds-challenge.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
 | Luippy | 230957 | [230957-luippy.json](./230957-luippy.json) |
 | Luise and Secret Basement Rooms | 157705 | [157705-luise-and-secret-basement-rooms.json](./157705-luise-and-secret-basement-rooms.json) |
