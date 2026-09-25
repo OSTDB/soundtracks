@@ -2711,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Zombie Defense | 62663 | [62663-amazing-zombie-defense.json](./62663-amazing-zombie-defense.json) |
 | Amazing: A House In Kansas VR | 119767 | [119767-amazing-a-house-in-kansas-vr.json](./119767-amazing-a-house-in-kansas-vr.json) |
 | Amazon Odyssey | 75111 | [75111-amazon-odyssey.json](./75111-amazon-odyssey.json) |
+| Amazon Quest | 245785 | [245785-amazon-quest.json](./245785-amazon-quest.json) |
 | Amazon Rush | 89271 | [89271-amazon-rush.json](./89271-amazon-rush.json) |
 | Amazon Warrior | 342053 | [342053-amazon-warrior.json](./342053-amazon-warrior.json) |
 | Amazona Adventure | 279593 | [279593-amazona-adventure.json](./279593-amazona-adventure.json) |
@@ -3728,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anpanman to Asobo: New AIUEO Kyoushitsu | 59053 | [59053-anpanman-to-asobo-new-aiueo-kyoushitsu.json](./59053-anpanman-to-asobo-new-aiueo-kyoushitsu.json) |
 | Anpanman to Asobu: AIUEO Kyoushitsu | 67284 | [67284-anpanman-to-asobu-aiueo-kyoushitsu.json](./67284-anpanman-to-asobu-aiueo-kyoushitsu.json) |
 | Anpanman Touch de Enjoy! AIUEO Kyoushitsu for Nintendo Switch | 381265 | [381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json](./381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json) |
+| Anseion | 245810 | [245810-anseion.json](./245810-anseion.json) |
 | Anstorm | 111214 | [111214-anstorm.json](./111214-anstorm.json) |
 | Anstoss | 37126 | [37126-anstoss.json](./37126-anstoss.json) |
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
@@ -4497,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanight | 25760 | [25760-arcanight.json](./25760-arcanight.json) |
 | Arcanion: Tale of Magi | 149026 | [149026-arcanion-tale-of-magi.json](./149026-arcanion-tale-of-magi.json) |
 | Arcanist Revival | 110181 | [110181-arcanist-revival.json](./110181-arcanist-revival.json) |
+| Arcanists 2 | 245802 | [245802-arcanists-2.json](./245802-arcanists-2.json) |
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
 | Arcanora | 272789 | [272789-arcanora.json](./272789-arcanora.json) |
 | Arcanorum 231 | 359601 | [359601-arcanorum-231.json](./359601-arcanorum-231.json) |
@@ -5902,6 +5905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantic Quest | 85504 | [85504-atlantic-quest.json](./85504-atlantic-quest.json) |
 | Atlantic Rim | 180827 | [180827-atlantic-rim.json](./180827-atlantic-rim.json) |
 | Atlantica Online | 9522 | [9522-atlantica-online.json](./9522-atlantica-online.json) |
+| Atlantis Academy | 245813 | [245813-atlantis-academy.json](./245813-atlantis-academy.json) |
 | Atlantis Fantasy: Reborn | 403610 | [403610-atlantis-fantasy-reborn.json](./403610-atlantis-fantasy-reborn.json) |
 | Atlantis II | 40779 | [40779-atlantis-ii.json](./40779-atlantis-ii.json) |
 | Atlantis III: The New World | 11095 | [11095-atlantis-iii-the-new-world.json](./11095-atlantis-iii-the-new-world.json) |
@@ -6164,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Museum 64 | 182903 | [182903-auto-museum-64.json](./182903-auto-museum-64.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
 | Auto Racing | 246505 | [246505-auto-racing.json](./246505-auto-racing.json) |
+| Auto RiskRisk | 245784 | [245784-auto-riskrisk.json](./245784-auto-riskrisk.json) |
 | Auto Rogue | 334135 | [334135-auto-rogue.json](./334135-auto-rogue.json) |
 | Auto Sale Life | 258011 | [258011-auto-sale-life.json](./258011-auto-sale-life.json) |
 | Auto Shrooms | 418861 | [418861-auto-shrooms.json](./418861-auto-shrooms.json) |
