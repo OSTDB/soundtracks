@@ -3919,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift 2024: The Simulation | 251016 | [251016-forklift-2024-the-simulation.json](./251016-forklift-2024-the-simulation.json) |
 | Forklift 2025 Simulator | 368147 | [368147-forklift-2025-simulator.json](./368147-forklift-2025-simulator.json) |
 | Forklift Extreme | 207892 | [207892-forklift-extreme.json](./207892-forklift-extreme.json) |
+| Forklift Extreme: Santa's Workshop | 231287 | [231287-forklift-extreme-santas-workshop.json](./231287-forklift-extreme-santas-workshop.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
 | Forklift Racer | 253948 | [253948-forklift-racer.json](./253948-forklift-racer.json) |
@@ -5452,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futbolín Revolution | 138020 | [138020-futbolin-revolution.json](./138020-futbolin-revolution.json) |
 | Futebol | 92984 | [92984-futebol.json](./92984-futebol.json) |
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
+| Futr8 | 231339 | [231339-futr8.json](./231339-futr8.json) |
 | FutSim | 276783 | [276783-futsim.json](./276783-futsim.json) |
 | Futuclass: Hydrogen & Oxygen | 170492 | [170492-futuclass-hydrogen-and-oxygen.json](./170492-futuclass-hydrogen-and-oxygen.json) |
 | Futuclass: Oxygen Escape Room | 170493 | [170493-futuclass-oxygen-escape-room.json](./170493-futuclass-oxygen-escape-room.json) |
