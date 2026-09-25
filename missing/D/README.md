@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger: Electric Shock | 166620 | [166620-danger-electric-shock.json](./166620-danger-electric-shock.json) |
 | Dangerbots | 58499 | [58499-dangerbots.json](./58499-dangerbots.json) |
 | Dangeresque Roomisode 1: Behind the Dangerdesque | 135845 | [135845-dangeresque-roomisode-1-behind-the-dangerdesque.json](./135845-dangeresque-roomisode-1-behind-the-dangerdesque.json) |
+| Dangeresque: The Roomisode Triungulate | 250906 | [250906-dangeresque-the-roomisode-triungulate.json](./250906-dangeresque-the-roomisode-triungulate.json) |
 | Dangerous adventure | 284996 | [284996-dangerous-adventure.json](./284996-dangerous-adventure.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
@@ -1704,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
 | Death Penalty Hero | 285008 | [285008-death-penalty-hero.json](./285008-death-penalty-hero.json) |
 | Death Pit Explorer | 339929 | [339929-death-pit-explorer.json](./339929-death-pit-explorer.json) |
+| Death Rabbit Arena | 250867 | [250867-death-rabbit-arena.json](./250867-death-rabbit-arena.json) |
 | Death Race | 110376 | [110376-death-race.json](./110376-death-race.json) |
 | Death Race | 8561 | [8561-death-race.json](./8561-death-race.json) |
 | Death Race Outer Space | 239676 | [239676-death-race-outer-space.json](./239676-death-race-outer-space.json) |
@@ -6821,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Master: Theron's Quest | 3800 | [3800-dungeon-master-therons-quest.json](./3800-dungeon-master-therons-quest.json) |
 | Dungeon Maze | 114341 | [114341-dungeon-maze.json](./114341-dungeon-maze.json) |
 | Dungeon Maze | 343789 | [343789-dungeon-maze.json](./343789-dungeon-maze.json) |
+| Dungeon Merchant | 250872 | [250872-dungeon-merchant.json](./250872-dungeon-merchant.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon Mutt | 386236 | [386236-dungeon-mutt.json](./386236-dungeon-mutt.json) |
 | Dungeon ni Seisoku Da! | 381695 | [381695-dungeon-ni-seisoku-da.json](./381695-dungeon-ni-seisoku-da.json) |
@@ -7110,6 +7113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Quest | 50835 | [50835-dwarf-quest.json](./50835-dwarf-quest.json) |
 | Dwarf Swordsman | 110160 | [110160-dwarf-swordsman.json](./110160-dwarf-swordsman.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
+| Dwarfender | 250894 | [250894-dwarfender.json](./250894-dwarfender.json) |
 | Dwarflings | 30341 | [30341-dwarflings.json](./30341-dwarflings.json) |
 | Dwarfs & Witch | 346088 | [346088-dwarfs-and-witch.json](./346088-dwarfs-and-witch.json) |
 | Dwarfs Delight | 287714 | [287714-dwarfs-delight.json](./287714-dwarfs-delight.json) |
