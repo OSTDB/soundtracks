@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarians & Beasts | 277971 | [277971-barbarians-and-beasts.json](./277971-barbarians-and-beasts.json) |
 | Barbarium | 200559 | [200559-barbarium.json](./200559-barbarium.json) |
 | Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
+| Barbarossa Remake | 255664 | [255664-barbarossa-remake.json](./255664-barbarossa-remake.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | Barbarous: Survivor's Quest | 401104 | [401104-barbarous-survivors-quest.json](./401104-barbarous-survivors-quest.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
