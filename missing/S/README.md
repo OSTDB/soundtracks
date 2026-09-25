@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R: Hunter Scope - Hero's Edition | 387680 | [387680-s-n-i-p-e-r-hunter-scope-heros-edition.json](./387680-s-n-i-p-e-r-hunter-scope-heros-edition.json) |
 | S.N.I.P.E.R. Hunter Scope Silent Assassin | 385175 | [385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json](./385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json) |
 | S.N.I.P.E.R. Hunter Scope Urban Warfare | 385174 | [385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json](./385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json) |
+| S.N.I.P.E.R.: Hunter Scope - Collectors Edition | 277894 | [277894-s-n-i-p-e-r-hunter-scope-collectors-edition.json](./277894-s-n-i-p-e-r-hunter-scope-collectors-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Diamond Edition | 271837 | [271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json](./271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Elite Edition | 268546 | [268546-s-n-i-p-e-r-hunter-scope-elite-edition.json](./268546-s-n-i-p-e-r-hunter-scope-elite-edition.json) |
@@ -3330,6 +3331,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Miner | 402999 | [402999-ship-miner.json](./402999-ship-miner.json) |
 | Ship of Dreams | 313892 | [313892-ship-of-dreams.json](./313892-ship-of-dreams.json) |
 | Ship of Fools | 194741 | [194741-ship-of-fools.json](./194741-ship-of-fools.json) |
+| Ship of Fools: Aquapocalypse Edition | 277906 | [277906-ship-of-fools-aquapocalypse-edition.json](./277906-ship-of-fools-aquapocalypse-edition.json) |
+| Ship of Fools: Deep Sea Duo | 277910 | [277910-ship-of-fools-deep-sea-duo.json](./277910-ship-of-fools-deep-sea-duo.json) |
 | Ship of Harkinian | 194694 | [194694-ship-of-harkinian.json](./194694-ship-of-harkinian.json) |
 | Ship of Love | 340376 | [340376-ship-of-love.json](./340376-ship-of-love.json) |
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
@@ -7364,6 +7367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Battlecruiser | 99047 | [99047-space-battlecruiser.json](./99047-space-battlecruiser.json) |
 | Space Battlefield | 187979 | [187979-space-battlefield.json](./187979-space-battlefield.json) |
+| Space Beam | 277882 | [277882-space-beam.json](./277882-space-beam.json) |
 | Space Beastz | 195078 | [195078-space-beastz.json](./195078-space-beastz.json) |
 | Space Beret | 30794 | [30794-space-beret.json](./30794-space-beret.json) |
 | Space Berserker | 82929 | [82929-space-berserker.json](./82929-space-berserker.json) |
@@ -7559,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
 | Space Junk Scavenger | 305197 | [305197-space-junk-scavenger.json](./305197-space-junk-scavenger.json) |
+| Space Junk Seekers | 277889 | [277889-space-junk-seekers.json](./277889-space-junk-seekers.json) |
 | Space Junkies | 37080 | [37080-space-junkies.json](./37080-space-junkies.json) |
 | Space Kabaam: Dagger | 392284 | [392284-space-kabaam-dagger.json](./392284-space-kabaam-dagger.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
@@ -8640,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
 | Sport & Fun: Swimming - Director's Cut | 271834 | [271834-sport-and-fun-swimming-directors-cut.json](./271834-sport-and-fun-swimming-directors-cut.json) |
+| Sport & Fun: Swimming - GOTY Edition | 277908 | [277908-sport-and-fun-swimming-goty-edition.json](./277908-sport-and-fun-swimming-goty-edition.json) |
 | Sport & Fun: Swimming - Platinum Edition | 268547 | [268547-sport-and-fun-swimming-platinum-edition.json](./268547-sport-and-fun-swimming-platinum-edition.json) |
 | Sport & Fun: Swimming - Superb Edition | 288281 | [288281-sport-and-fun-swimming-superb-edition.json](./288281-sport-and-fun-swimming-superb-edition.json) |
 | Sport & Fun: Swimming - Ultimate Edition | 243370 | [243370-sport-and-fun-swimming-ultimate-edition.json](./243370-sport-and-fun-swimming-ultimate-edition.json) |
@@ -8773,6 +8779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
+| Sprout Valley + Bit Orchard: Animal Valley | 277892 | [277892-sprout-valley-bit-orchard-animal-valley.json](./277892-sprout-valley-bit-orchard-animal-valley.json) |
 | Sprout Valley Big Pack | 328993 | [328993-sprout-valley-big-pack.json](./328993-sprout-valley-big-pack.json) |
 | Sprout Valley: Friends Forever | 332505 | [332505-sprout-valley-friends-forever.json](./332505-sprout-valley-friends-forever.json) |
 | Sprout Valley: Friends Forever Expansion | 332526 | [332526-sprout-valley-friends-forever-expansion.json](./332526-sprout-valley-friends-forever-expansion.json) |
@@ -11145,6 +11152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
+| Submarines | 277915 | [277915-submarines.json](./277915-submarines.json) |
 | Submarines 2D | 301992 | [301992-submarines-2d.json](./301992-submarines-2d.json) |
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
@@ -11892,6 +11900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dot Jump | 25960 | [25960-super-dot-jump.json](./25960-super-dot-jump.json) |
 | Super Double Dragon | 198931 | [198931-super-double-dragon.json](./198931-super-double-dragon.json) |
 | Super Doubles Tennis | 40425 | [40425-super-doubles-tennis.json](./40425-super-doubles-tennis.json) |
+| Super Dr Corona | 277930 | [277930-super-dr-corona.json](./277930-super-dr-corona.json) |
 | Super Dragon Ball Heroes: World Mission | 111054 | [111054-super-dragon-ball-heroes-world-mission.json](./111054-super-dragon-ball-heroes-world-mission.json) |
 | Super Dragon Punch Force 3 | 295358 | [295358-super-dragon-punch-force-3.json](./295358-super-dragon-punch-force-3.json) |
 | Super Drake Tracker 2000 EX | 63558 | [63558-super-drake-tracker-2000-ex.json](./63558-super-drake-tracker-2000-ex.json) |
@@ -12748,6 +12757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Soccer Champ | 38394 | [38394-super-soccer-champ.json](./38394-super-soccer-champ.json) |
 | Super Soccer Jump | 103410 | [103410-super-soccer-jump.json](./103410-super-soccer-jump.json) |
 | Super Sokoban | 38291 | [38291-super-sokoban.json](./38291-super-sokoban.json) |
+| Super Solitaire: Card Game | 277890 | [277890-super-solitaire-card-game.json](./277890-super-solitaire-card-game.json) |
 | Super Solvers: Gizmos & Gadgets! | 46647 | [46647-super-solvers-gizmos-and-gadgets.json](./46647-super-solvers-gizmos-and-gadgets.json) |
 | Super Solvers: Midnight Rescue! | 46646 | [46646-super-solvers-midnight-rescue.json](./46646-super-solvers-midnight-rescue.json) |
 | Super Solvers: Treasure Mountain! | 70340 | [70340-super-solvers-treasure-mountain.json](./70340-super-solvers-treasure-mountain.json) |
@@ -13075,6 +13085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler 2030 | 219574 | [219574-supreme-ruler-2030.json](./219574-supreme-ruler-2030.json) |
 | Supreme Ruler Global Outbreak | 296999 | [296999-supreme-ruler-global-outbreak.json](./296999-supreme-ruler-global-outbreak.json) |
 | Supreme Ruler The Great War Remastered | 277933 | [277933-supreme-ruler-the-great-war-remastered.json](./277933-supreme-ruler-the-great-war-remastered.json) |
+| Supreme Ruler The Great War Remastered DLC | 277931 | [277931-supreme-ruler-the-great-war-remastered-dlc.json](./277931-supreme-ruler-the-great-war-remastered-dlc.json) |
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Supreme Warrior | 298560 | [298560-supreme-warrior.json](./298560-supreme-warrior.json) |
