@@ -3120,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
 | The Da Vinci Cryptex 3 | 280257 | [280257-the-da-vinci-cryptex-3.json](./280257-the-da-vinci-cryptex-3.json) |
 | The Daedalus Encounter | 4237 | [4237-the-daedalus-encounter.json](./4237-the-daedalus-encounter.json) |
+| The Daily Diaonal Sudoku | 266838 | [266838-the-daily-diaonal-sudoku.json](./266838-the-daily-diaonal-sudoku.json) |
 | The Dallas Quest | 47218 | [47218-the-dallas-quest.json](./47218-the-dallas-quest.json) |
 | The Dalmatians | 44847 | [44847-the-dalmatians.json](./44847-the-dalmatians.json) |
 | The Dam Busters | 13566 | [13566-the-dam-busters.json](./13566-the-dam-busters.json) |
@@ -3909,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost Ship | 111662 | [111662-the-ghost-ship.json](./111662-the-ghost-ship.json) |
 | The Ghost Town Adventure | 108284 | [108284-the-ghost-town-adventure.json](./108284-the-ghost-town-adventure.json) |
 | The Ghosts of Hackney Mills | 74985 | [74985-the-ghosts-of-hackney-mills.json](./74985-the-ghosts-of-hackney-mills.json) |
+| The Ghosts of Terinor | 266762 | [266762-the-ghosts-of-terinor.json](./266762-the-ghosts-of-terinor.json) |
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
 | The Ghoul's Forest | 144804 | [144804-the-ghouls-forest.json](./144804-the-ghouls-forest.json) |
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
@@ -4294,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The In Between | 217362 | [217362-the-in-between.json](./217362-the-in-between.json) |
 | The Inanimate Mr. Coatrack | 122847 | [122847-the-inanimate-mr-coatrack.json](./122847-the-inanimate-mr-coatrack.json) |
 | The InBetween | 305935 | [305935-the-inbetween.json](./305935-the-inbetween.json) |
+| The Incident | 266825 | [266825-the-incident.json](./266825-the-incident.json) |
 | The Incident | 385300 | [385300-the-incident.json](./385300-the-incident.json) |
 | The Incomplete Lunar: First Night | 284331 | [284331-the-incomplete-lunar-first-night.json](./284331-the-incomplete-lunar-first-night.json) |
 | The Incredible Adventures of Van Helsing II | 6074 | [6074-the-incredible-adventures-of-van-helsing-ii.json](./6074-the-incredible-adventures-of-van-helsing-ii.json) |
