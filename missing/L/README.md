@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Shinobi | 377055 | [377055-last-shinobi.json](./377055-last-shinobi.json) |
 | Last Ship Sailing | 403707 | [403707-last-ship-sailing.json](./403707-last-ship-sailing.json) |
 | Last Shooter: Apocalypse | 227266 | [227266-last-shooter-apocalypse.json](./227266-last-shooter-apocalypse.json) |
+| Last Signal | 257982 | [257982-last-signal.json](./257982-last-signal.json) |
 | Last Soldier | 52270 | [52270-last-soldier.json](./52270-last-soldier.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
 | Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
@@ -1805,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Bringer | 38575 | [38575-light-bringer.json](./38575-light-bringer.json) |
 | Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
 | Light Chaser: End of Dawn | 108269 | [108269-light-chaser-end-of-dawn.json](./108269-light-chaser-end-of-dawn.json) |
+| Light City District | 257912 | [257912-light-city-district.json](./257912-light-city-district.json) |
 | Light Cry | 268993 | [268993-light-cry.json](./268993-light-cry.json) |
 | Light Cubed | 121443 | [121443-light-cubed.json](./121443-light-cubed.json) |
 | Light Cycle | 96525 | [96525-light-cycle.json](./96525-light-cycle.json) |
@@ -2584,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loaf's Adventure | 408147 | [408147-loafs-adventure.json](./408147-loafs-adventure.json) |
 | Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
 | Loan Wolf | 177505 | [177505-loan-wolf.json](./177505-loan-wolf.json) |
+| Lobber | 257987 | [257987-lobber.json](./257987-lobber.json) |
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
 | Lober Lobe | 311475 | [311475-lober-lobe.json](./311475-lober-lobe.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
