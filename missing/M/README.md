@@ -4111,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microbian | 376078 | [376078-microbian.json](./376078-microbian.json) |
 | MicroBuddies | 196712 | [196712-microbuddies.json](./196712-microbuddies.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
+| Microcivilization | 236229 | [236229-microcivilization.json](./236229-microcivilization.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
 | MicroCrawl | 238489 | [238489-microcrawl.json](./238489-microcrawl.json) |
 | MicroFab | 397661 | [397661-microfab.json](./397661-microfab.json) |
@@ -6220,6 +6221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterpatch | 334706 | [334706-monsterpatch.json](./334706-monsterpatch.json) |
 | MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
 | Monsters | 13741 | [13741-monsters.json](./13741-monsters.json) |
+| Monsters 'til Midnight | 236220 | [236220-monsters-til-midnight.json](./236220-monsters-til-midnight.json) |
 | Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
 | Monsters and Magic | 356671 | [356671-monsters-and-magic.json](./356671-monsters-and-magic.json) |
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
@@ -6253,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstronomy | 264653 | [264653-monstronomy.json](./264653-monstronomy.json) |
 | Monstrous Love | 221200 | [221200-monstrous-love.json](./221200-monstrous-love.json) |
 | Monstrous Lovers | 148562 | [148562-monstrous-lovers.json](./148562-monstrous-lovers.json) |
+| Monstrous Realms | 236202 | [236202-monstrous-realms.json](./236202-monstrous-realms.json) |
 | Monstrum | 10554 | [10554-monstrum.json](./10554-monstrum.json) |
 | Monstrum 2 | 119685 | [119685-monstrum-2.json](./119685-monstrum-2.json) |
 | Monsty Corp | 164509 | [164509-monsty-corp.json](./164509-monsty-corp.json) |
