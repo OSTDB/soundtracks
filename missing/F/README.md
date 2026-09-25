@@ -2139,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fine Artist Color Pixel Number | 267412 | [267412-fine-artist-color-pixel-number.json](./267412-fine-artist-color-pixel-number.json) |
 | Fine Sweeper | 35349 | [35349-fine-sweeper.json](./35349-fine-sweeper.json) |
 | Fine Work Act I | 285980 | [285980-fine-work-act-i.json](./285980-fine-work-act-i.json) |
+| Finesse | 248599 | [248599-finesse.json](./248599-finesse.json) |
 | Finger Champion | 245326 | [245326-finger-champion.json](./245326-finger-champion.json) |
 | Finger Connection | 66619 | [66619-finger-connection.json](./66619-finger-connection.json) |
 | Finger Cuts | 315830 | [315830-finger-cuts.json](./315830-finger-cuts.json) |
