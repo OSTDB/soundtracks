@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
 | Paradox | 164872 | [164872-paradox.json](./164872-paradox.json) |
 | Paradox Error | 152161 | [152161-paradox-error.json](./152161-paradox-error.json) |
+| Paradox Guardians | 277361 | [277361-paradox-guardians.json](./277361-paradox-guardians.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
 | Paradox Metal | 264142 | [264142-paradox-metal.json](./264142-paradox-metal.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
@@ -999,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parry King | 263044 | [263044-parry-king.json](./263044-parry-king.json) |
 | Parry Nightmare | 214214 | [214214-parry-nightmare.json](./214214-parry-nightmare.json) |
 | ParryMaster | 374810 | [374810-parrymaster.json](./374810-parrymaster.json) |
+| ParryRobot | 277371 | [277371-parryrobot.json](./277371-parryrobot.json) |
 | Parse Ally | 114442 | [114442-parse-ally.json](./114442-parse-ally.json) |
 | Parse-O-Rhythm | 305940 | [305940-parse-o-rhythm.json](./305940-parse-o-rhythm.json) |
 | Parsec | 18563 | [18563-parsec.json](./18563-parsec.json) |
@@ -6075,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
 | PropFight | 331438 | [331438-propfight.json](./331438-propfight.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
+| Prophecy | 277333 | [277333-prophecy.json](./277333-prophecy.json) |
 | Prophecy Island | 249841 | [249841-prophecy-island.json](./249841-prophecy-island.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
