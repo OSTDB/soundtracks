@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 In One Fun Pak | 93568 | [93568-5-in-one-fun-pak.json](./93568-5-in-one-fun-pak.json) |
 | 5 Intelligent Strategy Games | 320405 | [320405-5-intelligent-strategy-games.json](./320405-5-intelligent-strategy-games.json) |
 | 5 Minute Raid | 304004 | [304004-5-minute-raid.json](./304004-5-minute-raid.json) |
+| 5 minutes | 250903 | [250903-5-minutes.json](./250903-5-minutes.json) |
 | 5 Nights At Grek's Hotel | 229199 | [229199-5-nights-at-greks-hotel.json](./229199-5-nights-at-greks-hotel.json) |
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
 | 5 Nights at Timokha's 4 School | 326230 | [326230-5-nights-at-timokhas-4-school.json](./326230-5-nights-at-timokhas-4-school.json) |
@@ -1080,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Games, 2 Buttons | 337784 | [337784-9-games-2-buttons.json](./337784-9-games-2-buttons.json) |
 | 9 in 1 Puzzles | 212336 | [212336-9-in-1-puzzles.json](./212336-9-in-1-puzzles.json) |
 | 9 Lives | 251003 | [251003-9-lives.json](./251003-9-lives.json) |
+| 9 Lives to Defend | 250947 | [250947-9-lives-to-defend.json](./250947-9-lives-to-defend.json) |
 | 9 Maker | 240352 | [240352-9-maker.json](./240352-9-maker.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
 | 9 Till Void | 133230 | [133230-9-till-void.json](./133230-9-till-void.json) |
