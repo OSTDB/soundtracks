@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
+| Sewage Devastation | 271780 | [271780-sewage-devastation.json](./271780-sewage-devastation.json) |
 | Sewer Call | 407454 | [407454-sewer-call.json](./407454-sewer-call.json) |
 | Sewer Flood | 181322 | [181322-sewer-flood.json](./181322-sewer-flood.json) |
 | Sewer Jam 2 | 271196 | [271196-sewer-jam-2.json](./271196-sewer-jam-2.json) |
@@ -3151,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shifted VR | 137439 | [137439-shifted-vr.json](./137439-shifted-vr.json) |
 | Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
+| Shifting Planes of Existence | 271793 | [271793-shifting-planes-of-existence.json](./271793-shifting-planes-of-existence.json) |
 | Shifting Sand Land | 308232 | [308232-shifting-sand-land.json](./308232-shifting-sand-land.json) |
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
 | Shigatsu Boujitsu, Hana Kudaru Yoru | 398357 | [398357-shigatsu-boujitsu-hana-kudaru-yoru.json](./398357-shigatsu-boujitsu-hana-kudaru-yoru.json) |
@@ -5316,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
 | Sludge & Sorcery | 183005 | [183005-sludge-and-sorcery.json](./183005-sludge-and-sorcery.json) |
 | Sludge Department | 406197 | [406197-sludge-department.json](./406197-sludge-department.json) |
+| Sludge Factory | 271782 | [271782-sludge-factory.json](./271782-sludge-factory.json) |
 | Sludge Life 2 | 242597 | [242597-sludge-life-2.json](./242597-sludge-life-2.json) |
 | Sludgineers | 389622 | [389622-sludgineers.json](./389622-sludgineers.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
@@ -5510,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smeesa Street | 239641 | [239641-smeesa-street.json](./239641-smeesa-street.json) |
 | Smells Like a Mushroom | 240795 | [240795-smells-like-a-mushroom.json](./240795-smells-like-a-mushroom.json) |
 | Smells Like A Mushroom: 100% Vegan Edition | 323892 | [323892-smells-like-a-mushroom-100-vegan-edition.json](./323892-smells-like-a-mushroom-100-vegan-edition.json) |
+| Smells Like Grandma's | 271721 | [271721-smells-like-grandmas.json](./271721-smells-like-grandmas.json) |
 | Smelly Bubbles | 411679 | [411679-smelly-bubbles.json](./411679-smelly-bubbles.json) |
 | Smelter | 119191 | [119191-smelter.json](./119191-smelter.json) |
 | Smelter: Collector's Edition | 205263 | [205263-smelter-collectors-edition.json](./205263-smelter-collectors-edition.json) |
@@ -7151,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
 | Soul Essence | 174827 | [174827-soul-essence.json](./174827-soul-essence.json) |
+| Soul Falchion | 271791 | [271791-soul-falchion.json](./271791-soul-falchion.json) |
 | Soul Fjord | 51174 | [51174-soul-fjord.json](./51174-soul-fjord.json) |
 | Soul Force | 177566 | [177566-soul-force.json](./177566-soul-force.json) |
 | Soul Gather | 372012 | [372012-soul-gather.json](./372012-soul-gather.json) |
@@ -12934,6 +12939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super UDK & RU Country | 322792 | [322792-super-udk-and-ru-country.json](./322792-super-udk-and-ru-country.json) |
 | Super Ultimate Fighters X | 381710 | [381710-super-ultimate-fighters-x.json](./381710-super-ultimate-fighters-x.json) |
 | Super Ultra Monster Smash! | 51597 | [51597-super-ultra-monster-smash.json](./51597-super-ultra-monster-smash.json) |
+| Super Ultra Mucchin Puripuri Cyborg: Marilyn DX | 271710 | [271710-super-ultra-mucchin-puripuri-cyborg-marilyn-dx.json](./271710-super-ultra-mucchin-puripuri-cyborg-marilyn-dx.json) |
 | Super Ultra Mustard Man | 351737 | [351737-super-ultra-mustard-man.json](./351737-super-ultra-mustard-man.json) |
 | Super Ultra Star Shooter | 85417 | [85417-super-ultra-star-shooter.json](./85417-super-ultra-star-shooter.json) |
 | Super Uno | 37946 | [37946-super-uno.json](./37946-super-uno.json) |
