@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undoing | 114157 | [114157-undoing.json](./114157-undoing.json) |
 | Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
 | Undress! | 369653 | [369653-undress.json](./369653-undress.json) |
+| Unduhagge | 229658 | [229658-unduhagge.json](./229658-unduhagge.json) |
 | UnDune II: The Demaking of a Dynasty | 275676 | [275676-undune-ii-the-demaking-of-a-dynasty.json](./275676-undune-ii-the-demaking-of-a-dynasty.json) |
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
 | Undying Memoir | 270646 | [270646-undying-memoir.json](./270646-undying-memoir.json) |
@@ -840,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ungrounded: Ripple Unleashed VR | 55456 | [55456-ungrounded-ripple-unleashed-vr.json](./55456-ungrounded-ripple-unleashed-vr.json) |
 | Unguided | 362485 | [362485-unguided.json](./362485-unguided.json) |
 | Unguided Order | 379032 | [379032-unguided-order.json](./379032-unguided-order.json) |
+| Ungus | 229659 | [229659-ungus.json](./229659-ungus.json) |
 | Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
 | Unhappening | 397909 | [397909-unhappening.json](./397909-unhappening.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
