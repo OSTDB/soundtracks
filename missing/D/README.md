@@ -2097,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defending Frontiers | 127203 | [127203-defending-frontiers.json](./127203-defending-frontiers.json) |
 | Defending Territory | 119549 | [119549-defending-territory.json](./119549-defending-territory.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
+| Defense Derby | 247465 | [247465-defense-derby.json](./247465-defense-derby.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
@@ -2246,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Strike: First Assault | 99547 | [99547-delta-strike-first-assault.json](./99547-delta-strike-first-assault.json) |
 | Delta Time | 171622 | [171622-delta-time.json](./171622-delta-time.json) |
 | Delta Warp | 43978 | [43978-delta-warp.json](./43978-delta-warp.json) |
+| Delta-V Racing | 247434 | [247434-delta-v-racing.json](./247434-delta-v-racing.json) |
 | Delta's Discs | 412989 | [412989-deltas-discs.json](./412989-deltas-discs.json) |
 | DeltaBlade 2700 Re:Create | 264661 | [264661-deltablade-2700-re-create.json](./264661-deltablade-2700-re-create.json) |
 | Deltagun | 336347 | [336347-deltagun.json](./336347-deltagun.json) |
@@ -3387,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Eclipse Arcade: Q.P.I.D. | 239655 | [239655-digital-eclipse-arcade-q-p-i-d.json](./239655-digital-eclipse-arcade-q-p-i-d.json) |
 | Digital Eclipse Bundle | 267969 | [267969-digital-eclipse-bundle.json](./267969-digital-eclipse-bundle.json) |
 | Digital Eclipse: Cyberpunk Survivor | 362924 | [362924-digital-eclipse-cyberpunk-survivor.json](./362924-digital-eclipse-cyberpunk-survivor.json) |
+| Digital Exorcist Case_(0); | 247429 | [247429-digital-exorcist-case-0.json](./247429-digital-exorcist-case-0.json) |
 | Digital Extreme Sport Games | 98800 | [98800-digital-extreme-sport-games.json](./98800-digital-extreme-sport-games.json) |
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
 | Digital Jigsaw Puzzle | 104015 | [104015-digital-jigsaw-puzzle.json](./104015-digital-jigsaw-puzzle.json) |
@@ -6556,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck's Most Terrible Day | 277336 | [277336-ducks-most-terrible-day.json](./277336-ducks-most-terrible-day.json) |
 | Duckball: Glorious Ducks | 133987 | [133987-duckball-glorious-ducks.json](./133987-duckball-glorious-ducks.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
+| Ducklyte | 247475 | [247475-ducklyte.json](./247475-ducklyte.json) |
 | Duckpocalypse | 31767 | [31767-duckpocalypse.json](./31767-duckpocalypse.json) |
 | Ducks | 314262 | [314262-ducks.json](./314262-ducks.json) |
 | Ducks | 314263 | [314263-ducks.json](./314263-ducks.json) |
