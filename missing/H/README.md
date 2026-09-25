@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
 | Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
 | Half-Cat | 163958 | [163958-half-cat.json](./163958-half-cat.json) |
+| Half-Chamber | 252100 | [252100-half-chamber.json](./252100-half-chamber.json) |
 | Half-Doomed | 252366 | [252366-half-doomed.json](./252366-half-doomed.json) |
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
 | Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
@@ -4807,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HVR | 91099 | [91099-hvr.json](./91099-hvr.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
 | Hwajilguji | 219147 | [219147-hwajilguji.json](./219147-hwajilguji.json) |
+| HWY 17 | 252093 | [252093-hwy-17.json](./252093-hwy-17.json) |
 | Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
 | Hyacinthus | 120942 | [120942-hyacinthus.json](./120942-hyacinthus.json) |
 | Hyakka Ryouran Elixir | 60776 | [60776-hyakka-ryouran-elixir.json](./60776-hyakka-ryouran-elixir.json) |
