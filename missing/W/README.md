@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wax Museum | 187454 | [187454-wax-museum.json](./187454-wax-museum.json) |
 | Way Back Home | 127742 | [127742-way-back-home.json](./127742-way-back-home.json) |
 | Way Down | 187511 | [187511-way-down.json](./187511-way-down.json) |
+| Way In The Stars: The Threat | 235721 | [235721-way-in-the-stars-the-threat.json](./235721-way-in-the-stars-the-threat.json) |
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
 | Way of Heroes | 159839 | [159839-way-of-heroes.json](./159839-way-of-heroes.json) |
 | Way of Madness | 371261 | [371261-way-of-madness.json](./371261-way-of-madness.json) |
@@ -1463,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Is This Sorcery | 328451 | [328451-what-is-this-sorcery.json](./328451-what-is-this-sorcery.json) |
 | What Lies Beneath | 269684 | [269684-what-lies-beneath.json](./269684-what-lies-beneath.json) |
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
+| What Lies Under | 235699 | [235699-what-lies-under.json](./235699-what-lies-under.json) |
 | What Lives Below | 143490 | [143490-what-lives-below.json](./143490-what-lives-below.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
 | What Now? | 183534 | [183534-what-now.json](./183534-what-now.json) |
@@ -2546,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without My Arms | 141176 | [141176-without-my-arms.json](./141176-without-my-arms.json) |
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
+| Without You | 235702 | [235702-without-you.json](./235702-without-you.json) |
 | Witness Of Time | 313842 | [313842-witness-of-time.json](./313842-witness-of-time.json) |
 | Witness the Dark #1: Bloody Burger | 404336 | [404336-witness-the-dark-1-bloody-burger.json](./404336-witness-the-dark-1-bloody-burger.json) |
 | Witness: A Bodyguard Romance | 313846 | [313846-witness-a-bodyguard-romance.json](./313846-witness-a-bodyguard-romance.json) |
@@ -3435,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormhole | 195084 | [195084-wormhole.json](./195084-wormhole.json) |
 | Wormhole | 307618 | [307618-wormhole.json](./307618-wormhole.json) |
 | Wormhole | 374611 | [374611-wormhole.json](./374611-wormhole.json) |
+| Wormhole Cafe | 235709 | [235709-wormhole-cafe.json](./235709-wormhole-cafe.json) |
 | Wormhole Warfare | 176995 | [176995-wormhole-warfare.json](./176995-wormhole-warfare.json) |
 | Wormi | 269083 | [269083-wormi.json](./269083-wormi.json) |
 | Wormix | 315030 | [315030-wormix.json](./315030-wormix.json) |
