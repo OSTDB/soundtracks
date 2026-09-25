@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Ball Rush | 391328 | [391328-happy-ball-rush.json](./391328-happy-ball-rush.json) |
 | Happy Balloons | 57368 | [57368-happy-balloons.json](./57368-happy-balloons.json) |
+| Happy Bang Express | 252707 | [252707-happy-bang-express.json](./252707-happy-bang-express.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
 | Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
 | Happy Birthday | 151574 | [151574-happy-birthday.json](./151574-happy-birthday.json) |
@@ -4416,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive: Barricade! | 170434 | [170434-how-to-survive-barricade.json](./170434-how-to-survive-barricade.json) |
 | How to Survive: Kovac's Way | 164516 | [164516-how-to-survive-kovacs-way.json](./164516-how-to-survive-kovacs-way.json) |
 | How to Survive: Storm Warning Edition | 20311 | [20311-how-to-survive-storm-warning-edition.json](./20311-how-to-survive-storm-warning-edition.json) |
+| How to Tame a Succubus | 252681 | [252681-how-to-tame-a-succubus.json](./252681-how-to-tame-a-succubus.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How to Train Your Human | 180692 | [180692-how-to-train-your-human.json](./180692-how-to-train-your-human.json) |
 | How to Volley Ball | 170933 | [170933-how-to-volley-ball.json](./170933-how-to-volley-ball.json) |
