@@ -3509,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Empires | 139379 | [139379-merge-empires.json](./139379-merge-empires.json) |
 | Merge ETO | 274553 | [274553-merge-eto.json](./274553-merge-eto.json) |
 | Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
+| Merge Games Adventure Bundle | 275044 | [275044-merge-games-adventure-bundle.json](./275044-merge-games-adventure-bundle.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
 | Merge Gardens | 227368 | [227368-merge-gardens.json](./227368-merge-gardens.json) |
@@ -4697,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
 | Minesweeper But the First Tile is Always a Mine | 327378 | [327378-minesweeper-but-the-first-tile-is-always-a-mine.json](./327378-minesweeper-but-the-first-tile-is-always-a-mine.json) |
 | Minesweeper Challenge | 96705 | [96705-minesweeper-challenge.json](./96705-minesweeper-challenge.json) |
+| Minesweeper Collector 2 | 275090 | [275090-minesweeper-collector-2.json](./275090-minesweeper-collector-2.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
 | Minesweeper Go | 395231 | [395231-minesweeper-go.json](./395231-minesweeper-go.json) |
 | Minesweeper Infinite | 291454 | [291454-minesweeper-infinite.json](./291454-minesweeper-infinite.json) |
@@ -6599,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Grand Edition | 315869 | [315869-moto-rush-gt-grand-edition.json](./315869-moto-rush-gt-grand-edition.json) |
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
 | Moto Rush GT: NY Edition | 277895 | [277895-moto-rush-gt-ny-edition.json](./277895-moto-rush-gt-ny-edition.json) |
+| Moto Rush GT: Platinium Edition | 275048 | [275048-moto-rush-gt-platinium-edition.json](./275048-moto-rush-gt-platinium-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
@@ -7851,10 +7854,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Portia | 43165 | [43165-my-time-at-portia.json](./43165-my-time-at-portia.json) |
 | My Time at Portia: Deluxe Edition | 224111 | [224111-my-time-at-portia-deluxe-edition.json](./224111-my-time-at-portia-deluxe-edition.json) |
 | My Time at Sandrock: Builder's Beach and Ball Clothing Pack | 275107 | [275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
+| My Time at Sandrock: Builders Beach and Ball Clothing Pack | 275057 | [275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
+| My Time at Sandrock: Cute Critter Furniture Pack | 275076 | [275076-my-time-at-sandrock-cute-critter-furniture-pack.json](./275076-my-time-at-sandrock-cute-critter-furniture-pack.json) |
+| My Time at Sandrock: Far East Furniture Pack | 275079 | [275079-my-time-at-sandrock-far-east-furniture-pack.json](./275079-my-time-at-sandrock-far-east-furniture-pack.json) |
 | My Time at Sandrock: Interior Decorator Pack | 275106 | [275106-my-time-at-sandrock-interior-decorator-pack.json](./275106-my-time-at-sandrock-interior-decorator-pack.json) |
 | My Time at Sandrock: Love Chronicles | 324459 | [324459-my-time-at-sandrock-love-chronicles.json](./324459-my-time-at-sandrock-love-chronicles.json) |
 | My Time at Sandrock: Monster Whisperer | 303043 | [303043-my-time-at-sandrock-monster-whisperer.json](./303043-my-time-at-sandrock-monster-whisperer.json) |
 | My Time at Sandrock: Online | 306487 | [306487-my-time-at-sandrock-online.json](./306487-my-time-at-sandrock-online.json) |
+| My Time at Sandrock: Pet Pack - Lil Gecko | 275077 | [275077-my-time-at-sandrock-pet-pack-lil-gecko.json](./275077-my-time-at-sandrock-pet-pack-lil-gecko.json) |
 | My Time at Sandrock: Starlight Collection 1 | 277822 | [277822-my-time-at-sandrock-starlight-collection-1.json](./277822-my-time-at-sandrock-starlight-collection-1.json) |
 | My Time at Sandrock: Starlight Collection 2 | 277821 | [277821-my-time-at-sandrock-starlight-collection-2.json](./277821-my-time-at-sandrock-starlight-collection-2.json) |
 | My Time at Sandrock: Starlight Collection 3 | 277820 | [277820-my-time-at-sandrock-starlight-collection-3.json](./277820-my-time-at-sandrock-starlight-collection-3.json) |
