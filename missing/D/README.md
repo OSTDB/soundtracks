@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Sword: Incubus | 203955 | [203955-demon-sword-incubus.json](./203955-demon-sword-incubus.json) |
 | Demon Turf | 134564 | [134564-demon-turf.json](./134564-demon-turf.json) |
 | Demon Turf: Neon Splash | 197868 | [197868-demon-turf-neon-splash.json](./197868-demon-turf-neon-splash.json) |
+| Demon Turf: The Tower | 280851 | [280851-demon-turf-the-tower.json](./280851-demon-turf-the-tower.json) |
 | Demon Waltz | 398594 | [398594-demon-waltz.json](./398594-demon-waltz.json) |
 | Demon With a Candy Crisis | 391329 | [391329-demon-with-a-candy-crisis.json](./391329-demon-with-a-candy-crisis.json) |
 | Demon Wolf Simulator | 102779 | [102779-demon-wolf-simulator.json](./102779-demon-wolf-simulator.json) |
@@ -3004,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dialing | 88011 | [88011-dialing.json](./88011-dialing.json) |
 | Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Dialoop | 361796 | [361796-dialoop.json](./361796-dialoop.json) |
+| Diam's | 280869 | [280869-diams.json](./280869-diams.json) |
 | Diamon Jones: Amulet of the World | 59921 | [59921-diamon-jones-amulet-of-the-world.json](./59921-diamon-jones-amulet-of-the-world.json) |
 | Diamond | 247022 | [247022-diamond.json](./247022-diamond.json) |
 | Diamond | 314304 | [314304-diamond.json](./314304-diamond.json) |
@@ -6111,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Alone at Night | 181797 | [181797-driving-alone-at-night.json](./181797-driving-alone-at-night.json) |
 | Driving Essentials | 37071 | [37071-driving-essentials.json](./37071-driving-essentials.json) |
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
+| Driving Homeicide | 280864 | [280864-driving-homeicide.json](./280864-driving-homeicide.json) |
 | Driving in Tehran | 372664 | [372664-driving-in-tehran.json](./372664-driving-in-tehran.json) |
 | Driving Me Crazy | 182933 | [182933-driving-me-crazy.json](./182933-driving-me-crazy.json) |
 | Driving Pro: Island Delivery | 105779 | [105779-driving-pro-island-delivery.json](./105779-driving-pro-island-delivery.json) |
