@@ -2326,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
 | All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
 | All Star Soccer | 81432 | [81432-all-star-soccer.json](./81432-all-star-soccer.json) |
+| All Star Tennis 2000 | 249157 | [249157-all-star-tennis-2000.json](./249157-all-star-tennis-2000.json) |
 | All Star Tennis 2000 | 49880 | [49880-all-star-tennis-2000.json](./49880-all-star-tennis-2000.json) |
 | All that Glitters | 336600 | [336600-all-that-glitters.json](./336600-all-that-glitters.json) |
 | All That is Left | 384108 | [384108-all-that-is-left.json](./384108-all-that-is-left.json) |
@@ -2353,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Pro Football 2K8 | 5481 | [5481-all-pro-football-2k8.json](./5481-all-pro-football-2k8.json) |
 | All-Star Baseball '99 | 10663 | [10663-all-star-baseball-99.json](./10663-all-star-baseball-99.json) |
 | All-Star Baseball '99 | 248745 | [248745-all-star-baseball-99.json](./248745-all-star-baseball-99.json) |
+| All-Star Baseball 2001 | 249134 | [249134-all-star-baseball-2001.json](./249134-all-star-baseball-2001.json) |
 | All-Star Baseball 2001 | 69229 | [69229-all-star-baseball-2001.json](./69229-all-star-baseball-2001.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
