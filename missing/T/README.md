@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's a Cow: Premium Edition | 250364 | [250364-thats-a-cow-premium-edition.json](./250364-thats-a-cow-premium-edition.json) |
 | That's a Cow: Special Edition | 247595 | [247595-thats-a-cow-special-edition.json](./247595-thats-a-cow-special-edition.json) |
 | That's a Thing | 344942 | [344942-thats-a-thing.json](./344942-thats-a-thing.json) |
+| That's a Warp | 282058 | [282058-thats-a-warp.json](./282058-thats-a-warp.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's My Tofu | 391188 | [391188-thats-my-tofu.json](./391188-thats-my-tofu.json) |
 | That's My Village! | 417639 | [417639-thats-my-village.json](./417639-thats-my-village.json) |
@@ -2948,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cosmic Tunnels | 62760 | [62760-the-cosmic-tunnels.json](./62760-the-cosmic-tunnels.json) |
 | The Cosmic Wheel Sisterhood | 247578 | [247578-the-cosmic-wheel-sisterhood.json](./247578-the-cosmic-wheel-sisterhood.json) |
 | The Cosmos is Mine! | 35800 | [35800-the-cosmos-is-mine.json](./35800-the-cosmos-is-mine.json) |
+| The Cost Of Bliss | 282057 | [282057-the-cost-of-bliss.json](./282057-the-cost-of-bliss.json) |
 | The Cost of Recovery | 153859 | [153859-the-cost-of-recovery.json](./153859-the-cost-of-recovery.json) |
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
 | The Cottage | 59966 | [59966-the-cottage.json](./59966-the-cottage.json) |
@@ -4715,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stand at Camp Zombie | 251812 | [251812-the-last-stand-at-camp-zombie.json](./251812-the-last-stand-at-camp-zombie.json) |
 | The Last Stand Legacy Collection | 158727 | [158727-the-last-stand-legacy-collection.json](./158727-the-last-stand-legacy-collection.json) |
 | The Last Stand: Union City | 61586 | [61586-the-last-stand-union-city.json](./61586-the-last-stand-union-city.json) |
+| The Last Starfighter | 282069 | [282069-the-last-starfighter.json](./282069-the-last-starfighter.json) |
 | The Last Stop | 290001 | [290001-the-last-stop.json](./290001-the-last-stop.json) |
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
 | The Last Sunshine | 34760 | [34760-the-last-sunshine.json](./34760-the-last-sunshine.json) |
@@ -5360,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monstrous Horror Show | 213421 | [213421-the-monstrous-horror-show.json](./213421-the-monstrous-horror-show.json) |
 | The Month After | 302440 | [302440-the-month-after.json](./302440-the-month-after.json) |
 | The Moodsters: Memory Match Game | 326627 | [326627-the-moodsters-memory-match-game.json](./326627-the-moodsters-memory-match-game.json) |
+| The Moon 2044 | 282043 | [282043-the-moon-2044.json](./282043-the-moon-2044.json) |
 | The Moon 2050 | 156686 | [156686-the-moon-2050.json](./156686-the-moon-2050.json) |
 | The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
@@ -5397,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mouse and The Cat | 247055 | [247055-the-mouse-and-the-cat.json](./247055-the-mouse-and-the-cat.json) |
 | The Mouse Police | 66928 | [66928-the-mouse-police.json](./66928-the-mouse-police.json) |
 | The Mousing Cat | 41564 | [41564-the-mousing-cat.json](./41564-the-mousing-cat.json) |
+| The Mouth Of The Woods | 282090 | [282090-the-mouth-of-the-woods.json](./282090-the-mouth-of-the-woods.json) |
 | The Movie Trivia Challenge | 102100 | [102100-the-movie-trivia-challenge.json](./102100-the-movie-trivia-challenge.json) |
 | The Mulldoon Legacy | 60025 | [60025-the-mulldoon-legacy.json](./60025-the-mulldoon-legacy.json) |
 | The Mulldoon Murders | 60029 | [60029-the-mulldoon-murders.json](./60029-the-mulldoon-murders.json) |
@@ -6838,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Touryst | 121748 | [121748-the-touryst.json](./121748-the-touryst.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
 | The Tower | 238604 | [238604-the-tower.json](./238604-the-tower.json) |
+| The Tower | 282089 | [282089-the-tower.json](./282089-the-tower.json) |
 | The Tower | 366928 | [366928-the-tower.json](./366928-the-tower.json) |
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
 | The Tower of Beatrice | 90417 | [90417-the-tower-of-beatrice.json](./90417-the-tower-of-beatrice.json) |
