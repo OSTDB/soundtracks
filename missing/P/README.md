@@ -2427,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
+| PiCross | 228399 | [228399-picross.json](./228399-picross.json) |
 | Picross 2 | 49080 | [49080-picross-2.json](./49080-picross-2.json) |
 | Picross Beach Season | 89191 | [89191-picross-beach-season.json](./89191-picross-beach-season.json) |
 | Picross Date! | 378431 | [378431-picross-date.json](./378431-picross-date.json) |
