@@ -3832,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
 | Ploppy Pairs | 197245 | [197245-ploppy-pairs.json](./197245-ploppy-pairs.json) |
 | Plot Armor | 123422 | [123422-plot-armor.json](./123422-plot-armor.json) |
+| Plot Hole | 238455 | [238455-plot-hole.json](./238455-plot-hole.json) |
 | Plot Twist | 329649 | [329649-plot-twist.json](./329649-plot-twist.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
@@ -6443,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychonauts 2: Motherlobe Edition | 207394 | [207394-psychonauts-2-motherlobe-edition.json](./207394-psychonauts-2-motherlobe-edition.json) |
+| Psychophonies: What Ghosts Say | 238438 | [238438-psychophonies-what-ghosts-say.json](./238438-psychophonies-what-ghosts-say.json) |
 | Psychopomp Gold | 319765 | [319765-psychopomp-gold.json](./319765-psychopomp-gold.json) |
 | Psychosomnium | 84249 | [84249-psychosomnium.json](./84249-psychosomnium.json) |
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
