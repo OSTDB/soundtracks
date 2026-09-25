@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Time in the Colony | 173233 | [173233-once-upon-a-time-in-the-colony.json](./173233-once-upon-a-time-in-the-colony.json) |
 | Once Upon a Time on Halloween | 223569 | [223569-once-upon-a-time-on-halloween.json](./223569-once-upon-a-time-on-halloween.json) |
 | Once Upon an Electric Dream | 132802 | [132802-once-upon-an-electric-dream.json](./132802-once-upon-an-electric-dream.json) |
+| Once Upon Atrocity | 271245 | [271245-once-upon-atrocity.json](./271245-once-upon-atrocity.json) |
 | Once You Understand the Meaning These Comics Become Scary | 409696 | [409696-once-you-understand-the-meaning-these-comics-become-scary.json](./409696-once-you-understand-the-meaning-these-comics-become-scary.json) |
 | Once' | 113662 | [113662-once.json](./113662-once.json) |
 | Once10 | 113664 | [113664-once10.json](./113664-once10.json) |
@@ -2164,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overflower | 316858 | [316858-overflower.json](./316858-overflower.json) |
 | Overground | 178495 | [178495-overground.json](./178495-overground.json) |
 | Overgrown | 147395 | [147395-overgrown.json](./147395-overgrown.json) |
+| Overgrown | 271181 | [271181-overgrown.json](./271181-overgrown.json) |
 | Overgrown! | 348464 | [348464-overgrown.json](./348464-overgrown.json) |
 | Overgun | 285447 | [285447-overgun.json](./285447-overgun.json) |
 | Overhatched | 410321 | [410321-overhatched.json](./410321-overhatched.json) |
