@@ -1778,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
 | Secret of Mana | 3216 | [3216-secret-of-mana.json](./3216-secret-of-mana.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
+| Secret of the Corral | 252124 | [252124-secret-of-the-corral.json](./252124-secret-of-the-corral.json) |
 | Secret of the Pharaohs | 41556 | [41556-secret-of-the-pharaohs.json](./41556-secret-of-the-pharaohs.json) |
 | Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
@@ -10753,6 +10754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Teller | 119693 | [119693-story-teller.json](./119693-story-teller.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
+| Storybook Weaver | 252083 | [252083-storybook-weaver.json](./252083-storybook-weaver.json) |
 | Storybricks | 65193 | [65193-storybricks.json](./65193-storybricks.json) |
 | StoryKingdom | 255706 | [255706-storykingdom.json](./255706-storykingdom.json) |
 | Storyngton Hall | 320291 | [320291-storyngton-hall.json](./320291-storyngton-hall.json) |
@@ -10983,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Year 1 - A.K.I. | 251657 | [251657-street-fighter-6-year-1-a-k-i.json](./251657-street-fighter-6-year-1-a-k-i.json) |
 | Street Fighter 6: Year 1 - Akuma | 251704 | [251704-street-fighter-6-year-1-akuma.json](./251704-street-fighter-6-year-1-akuma.json) |
 | Street Fighter 6: Year 1 - Rashid | 251653 | [251653-street-fighter-6-year-1-rashid.json](./251653-street-fighter-6-year-1-rashid.json) |
+| Street Fighter 6: Year 1 Character Pass | 252070 | [252070-street-fighter-6-year-1-character-pass.json](./252070-street-fighter-6-year-1-character-pass.json) |
 | Street Fighter 6: Year 2 Character Pass | 308225 | [308225-street-fighter-6-year-2-character-pass.json](./308225-street-fighter-6-year-2-character-pass.json) |
 | Street Fighter 6: Year 2 Ultimate Pass | 305529 | [305529-street-fighter-6-year-2-ultimate-pass.json](./305529-street-fighter-6-year-2-ultimate-pass.json) |
 | Street Fighter 6: Year 3 - C. Viper | 347692 | [347692-street-fighter-6-year-3-c-viper.json](./347692-street-fighter-6-year-3-c-viper.json) |
@@ -12156,6 +12159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dram World | 132857 | [132857-super-dram-world.json](./132857-super-dram-world.json) |
 | Super Dram World 2 | 132858 | [132858-super-dram-world-2.json](./132858-super-dram-world-2.json) |
 | Super Dream Dasher | 172189 | [172189-super-dream-dasher.json](./172189-super-dream-dasher.json) |
+| Super Drift 3D | 252111 | [252111-super-drift-3d.json](./252111-super-drift-3d.json) |
 | Super Drift Blade | 310056 | [310056-super-drift-blade.json](./310056-super-drift-blade.json) |
 | Super Drill Diver! | 176959 | [176959-super-drill-diver.json](./176959-super-drill-diver.json) |
 | Super Drill Panic | 398996 | [398996-super-drill-panic.json](./398996-super-drill-panic.json) |
