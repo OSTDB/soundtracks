@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fareo: Shadowlands | 130916 | [130916-fareo-shadowlands.json](./130916-fareo-shadowlands.json) |
 | Farethere City | 75151 | [75151-farethere-city.json](./75151-farethere-city.json) |
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
+| Farewell Avalon | 250901 | [250901-farewell-avalon.json](./250901-farewell-avalon.json) |
 | Farewell Jack | 390251 | [390251-farewell-jack.json](./390251-farewell-jack.json) |
 | Farewell of Life | 329569 | [329569-farewell-of-life.json](./329569-farewell-of-life.json) |
 | Farewell Sen | 213983 | [213983-farewell-sen.json](./213983-farewell-sen.json) |
@@ -3105,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FloCity | 244260 | [244260-flocity.json](./244260-flocity.json) |
 | Flock Frenzy | 386259 | [386259-flock-frenzy.json](./386259-flock-frenzy.json) |
 | Flock of Dogs | 108283 | [108283-flock-of-dogs.json](./108283-flock-of-dogs.json) |
+| Flock Party | 250869 | [250869-flock-party.json](./250869-flock-party.json) |
 | Flockland Island Crisis | 286594 | [286594-flockland-island-crisis.json](./286594-flockland-island-crisis.json) |
 | Flocks | 174193 | [174193-flocks.json](./174193-flocks.json) |
 | Flood | 12104 | [12104-flood.json](./12104-flood.json) |
