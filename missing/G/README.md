@@ -1381,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getter Love!!: Chou Renai Party Game Tanjou | 3504 | [3504-getter-love-chou-renai-party-game-tanjou.json](./3504-getter-love-chou-renai-party-game-tanjou.json) |
 | Getter Robo Daikessen! | 77981 | [77981-getter-robo-daikessen.json](./77981-getter-robo-daikessen.json) |
 | Getting a Bottle of Water Simulator | 334664 | [334664-getting-a-bottle-of-water-simulator.json](./334664-getting-a-bottle-of-water-simulator.json) |
+| Getting Freaky With Fujiki | 245836 | [245836-getting-freaky-with-fujiki.json](./245836-getting-freaky-with-fujiki.json) |
 | Getting Home | 406198 | [406198-getting-home.json](./406198-getting-home.json) |
 | Getting It Up | 182383 | [182383-getting-it-up.json](./182383-getting-it-up.json) |
 | Getting Nuts | 254591 | [254591-getting-nuts.json](./254591-getting-nuts.json) |
@@ -2210,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobs of Games | 49928 | [49928-gobs-of-games.json](./49928-gobs-of-games.json) |
 | Gobsmacked! | 358864 | [358864-gobsmacked.json](./358864-gobsmacked.json) |
 | Gobstruck | 398411 | [398411-gobstruck.json](./398411-gobstruck.json) |
+| Gobyworld | 245828 | [245828-gobyworld.json](./245828-gobyworld.json) |
 | GOC Royale | 156002 | [156002-goc-royale.json](./156002-goc-royale.json) |
 | Gochi-Show! | 31730 | [31730-gochi-show.json](./31730-gochi-show.json) |
 | God bless, or Goddess | 358972 | [358972-god-bless-or-goddess.json](./358972-god-bless-or-goddess.json) |
