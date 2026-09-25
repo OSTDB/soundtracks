@@ -3325,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Empire! | 172048 | [172048-pizza-empire.json](./172048-pizza-empire.json) |
 | Pizza Fighter Deluxe | 90391 | [90391-pizza-fighter-deluxe.json](./90391-pizza-fighter-deluxe.json) |
 | Pizza Fun | 218551 | [218551-pizza-fun.json](./218551-pizza-fun.json) |
+| Pizza Hero | 262899 | [262899-pizza-hero.json](./262899-pizza-hero.json) |
 | Pizza House Simulator | 406274 | [406274-pizza-house-simulator.json](./406274-pizza-house-simulator.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
 | Pizza Hunt! How to Hunt Pizza (And Not Die Doing It) | 61886 | [61886-pizza-hunt-how-to-hunt-pizza-and-not-die-doing-it.json](./61886-pizza-hunt-how-to-hunt-pizza-and-not-die-doing-it.json) |
@@ -4458,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
 | Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
+| Poly Backrooms | 262906 | [262906-poly-backrooms.json](./262906-poly-backrooms.json) |
 | Poly Bridge 2 | 132002 | [132002-poly-bridge-2.json](./132002-poly-bridge-2.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
 | Poly City : Vengeance | 114423 | [114423-poly-city-vengeance.json](./114423-poly-city-vengeance.json) |
