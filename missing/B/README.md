@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie as the Princess and the Pauper | 200590 | [200590-barbie-as-the-princess-and-the-pauper.json](./200590-barbie-as-the-princess-and-the-pauper.json) |
 | Barbie Beauty Styler | 200601 | [200601-barbie-beauty-styler.json](./200601-barbie-beauty-styler.json) |
 | Barbie Dreamhouse Adventures | 255335 | [255335-barbie-dreamhouse-adventures.json](./255335-barbie-dreamhouse-adventures.json) |
+| Barbie Epic Road Trip | 228355 | [228355-barbie-epic-road-trip.json](./228355-barbie-epic-road-trip.json) |
 | Barbie Fashion Closet | 103905 | [103905-barbie-fashion-closet.json](./103905-barbie-fashion-closet.json) |
 | Barbie Fashion Show | 200592 | [200592-barbie-fashion-show.json](./200592-barbie-fashion-show.json) |
 | Barbie for Girls Beach Adventure | 245569 | [245569-barbie-for-girls-beach-adventure.json](./245569-barbie-for-girls-beach-adventure.json) |
