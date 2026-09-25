@@ -6305,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug N Out | 32962 | [32962-bug-n-out.json](./32962-bug-n-out.json) |
 | Bug Off! | 55884 | [55884-bug-off.json](./55884-bug-off.json) |
 | Bug Quest | 287641 | [287641-bug-quest.json](./287641-bug-quest.json) |
+| Bug Riders | 277929 | [277929-bug-riders.json](./277929-bug-riders.json) |
 | Bug Too! | 45524 | [45524-bug-too.json](./45524-bug-too.json) |
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
