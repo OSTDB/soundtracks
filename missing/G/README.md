@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemtactix | 99386 | [99386-gemtactix.json](./99386-gemtactix.json) |
 | Gemtrader Story 2: Blood Relationship | 227377 | [227377-gemtrader-story-2-blood-relationship.json](./227377-gemtrader-story-2-blood-relationship.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
+| Gen 2.1. No Escape | 239608 | [239608-gen-2-1-no-escape.json](./239608-gen-2-1-no-escape.json) |
 | Gen Atlas | 325593 | [325593-gen-atlas.json](./325593-gen-atlas.json) |
 | Genba no Kizuna | 235738 | [235738-genba-no-kizuna.json](./235738-genba-no-kizuna.json) |
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
@@ -3298,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Knight | 413008 | [413008-gravity-knight.json](./413008-gravity-knight.json) |
 | Gravity Lane 981 | 121601 | [121601-gravity-lane-981.json](./121601-gravity-lane-981.json) |
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
+| Gravity Mike | 239624 | [239624-gravity-mike.json](./239624-gravity-mike.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
@@ -3514,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
 | Grid Glyphs | 316281 | [316281-grid-glyphs.json](./316281-grid-glyphs.json) |
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
+| GRID Legends: Valentin’s Classic Car-Nage | 239593 | [239593-grid-legends-valentin-s-classic-car-nage.json](./239593-grid-legends-valentin-s-classic-car-nage.json) |
 | Grid Magic | 119785 | [119785-grid-magic.json](./119785-grid-magic.json) |
 | Grid Miner | 199496 | [199496-grid-miner.json](./199496-grid-miner.json) |
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
