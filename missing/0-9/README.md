@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1024 Cement Mixer | 308273 | [308273-1024-cement-mixer.json](./308273-1024-cement-mixer.json) |
 | 103 | 108413 | [108413-103.json](./108413-103.json) |
 | 1080° Avalanche | 3774 | [3774-1080-avalanche.json](./3774-1080-avalanche.json) |
+| 10Battle | 230219 | [230219-10battle.json](./230219-10battle.json) |
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
 | 10mg Collection | 141158 | [141158-10mg-collection.json](./141158-10mg-collection.json) |
