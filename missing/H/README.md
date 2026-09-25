@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hauntworks | 410264 | [410264-hauntworks.json](./410264-hauntworks.json) |
 | Haus | 377074 | [377074-haus.json](./377074-haus.json) |
 | Hausmeister | 207313 | [207313-hausmeister.json](./207313-hausmeister.json) |
+| Haustor's Abbey | 278467 | [278467-haustors-abbey.json](./278467-haustors-abbey.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Haut | 349382 | [349382-haut.json](./349382-haut.json) |
 | Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
@@ -4770,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Lode Runner | 48980 | [48980-hyper-lode-runner.json](./48980-hyper-lode-runner.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
+| Hyper Olympic | 278484 | [278484-hyper-olympic.json](./278484-hyper-olympic.json) |
 | Hyper Olympic '84 Vol. 1 | 98245 | [98245-hyper-olympic-84-vol-1.json](./98245-hyper-olympic-84-vol-1.json) |
 | Hyper Olympic '84 Vol. 2 | 98246 | [98246-hyper-olympic-84-vol-2.json](./98246-hyper-olympic-84-vol-2.json) |
 | Hyper Olympic: Challenge 5 | 385738 | [385738-hyper-olympic-challenge-5.json](./385738-hyper-olympic-challenge-5.json) |
