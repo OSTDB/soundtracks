@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranveer vs. Wild With Bear Grylls | 256869 | [256869-ranveer-vs-wild-with-bear-grylls.json](./256869-ranveer-vs-wild-with-bear-grylls.json) |
 | Ranx | 77645 | [77645-ranx.json](./77645-ranx.json) |
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
+| Rap Simulator | 250303 | [250303-rap-simulator.json](./250303-rap-simulator.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
 | Rapala Pro Bass Fishing | 21740 | [21740-rapala-pro-bass-fishing.json](./21740-rapala-pro-bass-fishing.json) |
 | Rapala: We Fish | 67697 | [67697-rapala-we-fish.json](./67697-rapala-we-fish.json) |
@@ -2436,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave Barro Crazy Drift | 386976 | [386976-retrowave-barro-crazy-drift.json](./386976-retrowave-barro-crazy-drift.json) |
 | Retrowave Drift | 148911 | [148911-retrowave-drift.json](./148911-retrowave-drift.json) |
 | Retrowave Hexon | 159857 | [159857-retrowave-hexon.json](./159857-retrowave-hexon.json) |
+| Retrowave Illusions: Aesthetics Edition | 250304 | [250304-retrowave-illusions-aesthetics-edition.json](./250304-retrowave-illusions-aesthetics-edition.json) |
 | Retrys | 355576 | [355576-retrys.json](./355576-retrys.json) |
 | Rettungssimulator Online | 144937 | [144937-rettungssimulator-online.json](./144937-rettungssimulator-online.json) |
 | Return | 177418 | [177418-return.json](./177418-return.json) |
