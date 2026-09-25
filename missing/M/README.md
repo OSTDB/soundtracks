@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madshot | 191697 | [191697-madshot.json](./191697-madshot.json) |
 | Maduro Run | 392933 | [392933-maduro-run.json](./392933-maduro-run.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
+| Maeldor: Enhanced Edition | 235687 | [235687-maeldor-enhanced-edition.json](./235687-maeldor-enhanced-edition.json) |
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
 | Maelstrom: The Battle for Earth Begins | 10134 | [10134-maelstrom-the-battle-for-earth-begins.json](./10134-maelstrom-the-battle-for-earth-begins.json) |
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pieces: Jigsaw Puzzle - Timeless Heritage | 303650 | [303650-master-of-pieces-jigsaw-puzzle-timeless-heritage.json](./303650-master-of-pieces-jigsaw-puzzle-timeless-heritage.json) |
 | Master of Pieces: Jigsaw Puzzles - Cat Family Christmas | 284890 | [284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json](./284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json) |
 | Master of Pottery: Suzhou Garden | 199600 | [199600-master-of-pottery-suzhou-garden.json](./199600-master-of-pottery-suzhou-garden.json) |
+| Master of Puppets | 235690 | [235690-master-of-puppets.json](./235690-master-of-puppets.json) |
 | Master of Rogues - The Seven Artifacts | 107847 | [107847-master-of-rogues-the-seven-artifacts.json](./107847-master-of-rogues-the-seven-artifacts.json) |
 | Master of Shotgun Camper | 311625 | [311625-master-of-shotgun-camper.json](./311625-master-of-shotgun-camper.json) |
 | Master of Ski | 226728 | [226728-master-of-ski.json](./226728-master-of-ski.json) |
