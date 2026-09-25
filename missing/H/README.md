@@ -2522,11 +2522,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexxaris | 301817 | [301817-hexxaris.json](./301817-hexxaris.json) |
 | Hexxen: Hunters | 262676 | [262676-hexxen-hunters.json](./262676-hexxen-hunters.json) |
 | Hexyz Force | 42884 | [42884-hexyz-force.json](./42884-hexyz-force.json) |
+| Hey Arnold!: Match-Master | 273883 | [273883-hey-arnold-match-master.json](./273883-hey-arnold-match-master.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
 | Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
 | Hey Ma I'm a Dragon Now | 279586 | [279586-hey-ma-im-a-dragon-now.json](./279586-hey-ma-im-a-dragon-now.json) |
 | Hey You, Pikachu! Demake | 413223 | [413223-hey-you-pikachu-demake.json](./413223-hey-you-pikachu-demake.json) |
 | Hey, Don't Look at Me | 416644 | [416644-hey-dont-look-at-me.json](./416644-hey-dont-look-at-me.json) |
+| Hey, Man!: Born in the Electric | 273968 | [273968-hey-man-born-in-the-electric.json](./273968-hey-man-born-in-the-electric.json) |
 | Hey! Stop! | 40735 | [40735-hey-stop.json](./40735-hey-stop.json) |
 | Heyawake by Nikoli | 84522 | [84522-heyawake-by-nikoli.json](./84522-heyawake-by-nikoli.json) |
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
@@ -4796,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Pixel Man | 413684 | [413684-hyper-pixel-man.json](./413684-hyper-pixel-man.json) |
 | Hyper Reverthion | 97327 | [97327-hyper-reverthion.json](./97327-hyper-reverthion.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
+| Hyper Rift | 273862 | [273862-hyper-rift.json](./273862-hyper-rift.json) |
 | Hyper School Simulator | 303095 | [303095-hyper-school-simulator.json](./303095-hyper-school-simulator.json) |
 | Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
