@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
 | R-Type | 260765 | [260765-r-type.json](./260765-r-type.json) |
 | R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
+| R-Type | 279055 | [279055-r-type.json](./279055-r-type.json) |
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
 | R-Type Final 2: DLC Set 2 | 155064 | [155064-r-type-final-2-dlc-set-2.json](./155064-r-type-final-2-dlc-set-2.json) |
 | R-Type Final 2: DLC Set 3 | 155063 | [155063-r-type-final-2-dlc-set-3.json](./155063-r-type-final-2-dlc-set-3.json) |
@@ -23,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Final 2: Limited Edition + Special Chronicle Box Set | 143058 | [143058-r-type-final-2-limited-edition-special-chronicle-box-set.json](./143058-r-type-final-2-limited-edition-special-chronicle-box-set.json) |
 | R-Type Final 3 Evolved | 225779 | [225779-r-type-final-3-evolved.json](./225779-r-type-final-3-evolved.json) |
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
+| R-Type II | 279056 | [279056-r-type-ii.json](./279056-r-type-ii.json) |
 | R-Type Leo | 6855 | [6855-r-type-leo.json](./6855-r-type-leo.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
 | R: Racing Evolution | 4076 | [4076-r-racing-evolution.json](./4076-r-racing-evolution.json) |
@@ -84,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Jump | 348946 | [348946-rabbit-jump.json](./348946-rabbit-jump.json) |
 | Rabbit Jump | 60004 | [60004-rabbit-jump.json](./60004-rabbit-jump.json) |
 | Rabbit Jumping DX | 344478 | [344478-rabbit-jumping-dx.json](./344478-rabbit-jumping-dx.json) |
+| Rabbit Rabbit UFO | 279025 | [279025-rabbit-rabbit-ufo.json](./279025-rabbit-rabbit-ufo.json) |
 | Rabbit Run Away | 212466 | [212466-rabbit-run-away.json](./212466-rabbit-run-away.json) |
 | Rabbit Run Carrot Hunt | 361347 | [361347-rabbit-run-carrot-hunt.json](./361347-rabbit-run-carrot-hunt.json) |
 | Rabbit Rush | 363024 | [363024-rabbit-rush.json](./363024-rabbit-rush.json) |
