@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immeowtal Festival! | 234300 | [234300-immeowtal-festival.json](./234300-immeowtal-festival.json) |
 | Immersion | 191247 | [191247-immersion.json](./191247-immersion.json) |
 | Immersion Chess | 28875 | [28875-immersion-chess.json](./28875-immersion-chess.json) |
+| Immersion Pack: Europa Universalis IV - Origins | 246898 | [246898-immersion-pack-europa-universalis-iv-origins.json](./246898-immersion-pack-europa-universalis-iv-origins.json) |
 | Immersive Engineering | 232715 | [232715-immersive-engineering.json](./232715-immersive-engineering.json) |
 | Immersive Horror Room: Hospital Escape Terror | 52003 | [52003-immersive-horror-room-hospital-escape-terror.json](./52003-immersive-horror-room-hospital-escape-terror.json) |
 | Immoral Shadows | 236829 | [236829-immoral-shadows.json](./236829-immoral-shadows.json) |
