@@ -5616,6 +5616,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonbolt Vanguard | 55893 | [55893-dragonbolt-vanguard.json](./55893-dragonbolt-vanguard.json) |
 | Dragonbone Dynasty | 23356 | [23356-dragonbone-dynasty.json](./23356-dragonbone-dynasty.json) |
 | Dragonborne | 140594 | [140594-dragonborne.json](./140594-dragonborne.json) |
+| DragonBox Algebra 12+ | 276798 | [276798-dragonbox-algebra-12.json](./276798-dragonbox-algebra-12.json) |
+| DragonBox Algebra 5+ | 276797 | [276797-dragonbox-algebra-5.json](./276797-dragonbox-algebra-5.json) |
+| DragonBox Elements | 276796 | [276796-dragonbox-elements.json](./276796-dragonbox-elements.json) |
 | DragonCrash | 101546 | [101546-dragoncrash.json](./101546-dragoncrash.json) |
 | Dragoncrest RPG: Arc 1 | 186715 | [186715-dragoncrest-rpg-arc-1.json](./186715-dragoncrest-rpg-arc-1.json) |
 | Dragondot 3 | 135010 | [135010-dragondot-3.json](./135010-dragondot-3.json) |
