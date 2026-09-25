@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sargon Chess | 46568 | [46568-sargon-chess.json](./46568-sargon-chess.json) |
 | Sargon I | 83263 | [83263-sargon-i.json](./83263-sargon-i.json) |
 | Sargon II | 47209 | [47209-sargon-ii.json](./47209-sargon-ii.json) |
+| Saria Reclaimed | 255637 | [255637-saria-reclaimed.json](./255637-saria-reclaimed.json) |
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
@@ -3043,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
+| Shechu de Fubao | 255624 | [255624-shechu-de-fubao.json](./255624-shechu-de-fubao.json) |
 | Shed | 406191 | [406191-shed.json](./406191-shed.json) |
 | Shed | 91728 | [91728-shed.json](./91728-shed.json) |
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
@@ -3713,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Treasure Trove | 26848 | [26848-shovel-knight-treasure-trove.json](./26848-shovel-knight-treasure-trove.json) |
 | Shovelware | 346231 | [346231-shovelware.json](./346231-shovelware.json) |
 | Shovelware Adventure! | 262303 | [262303-shovelware-adventure.json](./262303-shovelware-adventure.json) |
+| Show da Copa com Estádio 97 | 255668 | [255668-show-da-copa-com-estadio-97.json](./255668-show-da-copa-com-estadio-97.json) |
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
 | Show do Milhão | 93008 | [93008-show-do-milhao.json](./93008-show-do-milhao.json) |
 | Show do Milhão Volume 2 | 122333 | [122333-show-do-milhao-volume-2.json](./122333-show-do-milhao-volume-2.json) |
@@ -4526,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Sands | 350418 | [350418-siren-sands.json](./350418-siren-sands.json) |
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
 | Sirène | 310975 | [310975-sirene.json](./310975-sirene.json) |
+| Sirenum | 255638 | [255638-sirenum.json](./255638-sirenum.json) |
 | Sirius 7 | 93516 | [93516-sirius-7.json](./93516-sirius-7.json) |
 | Sirius: Age of the Free Agents | 115075 | [115075-sirius-age-of-the-free-agents.json](./115075-sirius-age-of-the-free-agents.json) |
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
@@ -4941,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
 | Skyfox II: The Cygnus Conflict | 55086 | [55086-skyfox-ii-the-cygnus-conflict.json](./55086-skyfox-ii-the-cygnus-conflict.json) |
 | SkyGameChanger-AirCombat II- | 114812 | [114812-skygamechanger-aircombat-ii.json](./114812-skygamechanger-aircombat-ii.json) |
+| Skygard Arena | 255650 | [255650-skygard-arena.json](./255650-skygard-arena.json) |
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
 | SKYHILL: Black Mist | 117770 | [117770-skyhill-black-mist.json](./117770-skyhill-black-mist.json) |
@@ -5880,7 +5885,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: Complete Edition | 263228 | [263228-sniper-elite-5-complete-edition.json](./263228-sniper-elite-5-complete-edition.json) |
 | Sniper Elite 5: Death From Above Weapon and Skin Pack | 307284 | [307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json](./307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Deluxe Edition | 194661 | [194661-sniper-elite-5-deluxe-edition.json](./194661-sniper-elite-5-deluxe-edition.json) |
+| Sniper Elite 5: Kraken Awakes - Mission, Weapon and Skin Pack | 255688 | [255688-sniper-elite-5-kraken-awakes-mission-weapon-and-skin-pack.json](./255688-sniper-elite-5-kraken-awakes-mission-weapon-and-skin-pack.json) |
 | Sniper Elite 5: P.1938 Suppressed Pistol | 307286 | [307286-sniper-elite-5-p-1938-suppressed-pistol.json](./307286-sniper-elite-5-p-1938-suppressed-pistol.json) |
+| Sniper Elite 5: Rough Landing - Mission and Weapon Pack | 255687 | [255687-sniper-elite-5-rough-landing-mission-and-weapon-pack.json](./255687-sniper-elite-5-rough-landing-mission-and-weapon-pack.json) |
 | Sniper Elite 5: Saboteur Weapon and Skin Pack | 307285 | [307285-sniper-elite-5-saboteur-weapon-and-skin-pack.json](./307285-sniper-elite-5-saboteur-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Trench Warfare Weapon Pack | 307283 | [307283-sniper-elite-5-trench-warfare-weapon-pack.json](./307283-sniper-elite-5-trench-warfare-weapon-pack.json) |
 | Sniper Elite 5: Up Close and Personal Weapon & Skin Pack | 307282 | [307282-sniper-elite-5-up-close-and-personal-weapon-and-skin-pack.json](./307282-sniper-elite-5-up-close-and-personal-weapon-and-skin-pack.json) |
@@ -11287,6 +11294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Style Savvy: Fashion Forward | 22796 | [22796-style-savvy-fashion-forward.json](./22796-style-savvy-fashion-forward.json) |
 | Stylish Guards | 216865 | [216865-stylish-guards.json](./216865-stylish-guards.json) |
 | Stylish Sprint 2 | 56481 | [56481-stylish-sprint-2.json](./56481-stylish-sprint-2.json) |
+| Stylist | 255632 | [255632-stylist.json](./255632-stylist.json) |
 | Stylist Girl: Complete Edition | 313214 | [313214-stylist-girl-complete-edition.json](./313214-stylist-girl-complete-edition.json) |
 | Stylist Girl: Sunny Edition | 317242 | [317242-stylist-girl-sunny-edition.json](./317242-stylist-girl-sunny-edition.json) |
 | Styria | 304631 | [304631-styria.json](./304631-styria.json) |
@@ -14094,6 +14102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
+| Synergy of Serra | 255644 | [255644-synergy-of-serra.json](./255644-synergy-of-serra.json) |
 | Synergy Strike | 373204 | [373204-synergy-strike.json](./373204-synergy-strike.json) |
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
 | Synesthetic | 175334 | [175334-synesthetic.json](./175334-synesthetic.json) |
@@ -14190,6 +14199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
 | Syphon Filter: The Omega Strain | 20185 | [20185-syphon-filter-the-omega-strain.json](./20185-syphon-filter-the-omega-strain.json) |
 | Syr and the Stars' Revival | 399187 | [399187-syr-and-the-stars-revival.json](./399187-syr-and-the-stars-revival.json) |
+| Syrenka Racer | 255659 | [255659-syrenka-racer.json](./255659-syrenka-racer.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
