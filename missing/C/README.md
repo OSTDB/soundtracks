@@ -6798,6 +6798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Light | 249846 | [249846-crown-of-light.json](./249846-crown-of-light.json) |
 | Crown of Pain | 192880 | [192880-crown-of-pain.json](./192880-crown-of-pain.json) |
 | Crown of Silence | 385220 | [385220-crown-of-silence.json](./385220-crown-of-silence.json) |
+| Crown of the Empire: Collector's Edition | 273342 | [273342-crown-of-the-empire-collectors-edition.json](./273342-crown-of-the-empire-collectors-edition.json) |
 | Crown of the Empire: Temple of Resurrection - Collector's Edition | 417514 | [417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json](./417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json) |
 | Crown of the Empire: Timeloop | 417714 | [417714-crown-of-the-empire-timeloop.json](./417714-crown-of-the-empire-timeloop.json) |
 | Crown of the Empire: Timeloop - Collector's Edition | 356113 | [356113-crown-of-the-empire-timeloop-collectors-edition.json](./356113-crown-of-the-empire-timeloop-collectors-edition.json) |
@@ -7314,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cults of the Endtimes | 389742 | [389742-cults-of-the-endtimes.json](./389742-cults-of-the-endtimes.json) |
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Culture Warz: Time's Up Karen! | 272864 | [272864-culture-warz-times-up-karen.json](./272864-culture-warz-times-up-karen.json) |
+| Culture Warz: Time's Up Karen! - Suburbs Map Pack | 273350 | [273350-culture-warz-times-up-karen-suburbs-map-pack.json](./273350-culture-warz-times-up-karen-suburbs-map-pack.json) |
 | Cultures Online Heroes | 11382 | [11382-cultures-online-heroes.json](./11382-cultures-online-heroes.json) |
 | Cultures: 8th Wonder of the World | 200207 | [200207-cultures-8th-wonder-of-the-world.json](./200207-cultures-8th-wonder-of-the-world.json) |
 | Cultures: Die Rache des Regengottes | 93039 | [93039-cultures-die-rache-des-regengottes.json](./93039-cultures-die-rache-des-regengottes.json) |
