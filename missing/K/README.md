@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout City: Season 4 - Alien Invaders | 182498 | [182498-knockout-city-season-4-alien-invaders.json](./182498-knockout-city-season-4-alien-invaders.json) |
 | Knockout City: Season 6 - City of Tomorrow | 214606 | [214606-knockout-city-season-6-city-of-tomorrow.json](./214606-knockout-city-season-6-city-of-tomorrow.json) |
 | Knockout City: Season 7 - Mutant Mutiny | 214607 | [214607-knockout-city-season-7-mutant-mutiny.json](./214607-knockout-city-season-7-mutant-mutiny.json) |
+| Knockout Kings | 249156 | [249156-knockout-kings.json](./249156-knockout-kings.json) |
 | Knockout Kings 2000 | 10687 | [10687-knockout-kings-2000.json](./10687-knockout-kings-2000.json) |
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
