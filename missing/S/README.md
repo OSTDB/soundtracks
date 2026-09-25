@@ -3414,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
 | ShockWave | 323284 | [323284-shockwave.json](./323284-shockwave.json) |
 | Shockwave Assault | 18705 | [18705-shockwave-assault.json](./18705-shockwave-assault.json) |
+| Shockwave Original: Sudoku Daily | 282060 | [282060-shockwave-original-sudoku-daily.json](./282060-shockwave-original-sudoku-daily.json) |
 | Shockwave Tetris | 383036 | [383036-shockwave-tetris.json](./383036-shockwave-tetris.json) |
 | Shockwave Triggers | 335466 | [335466-shockwave-triggers.json](./335466-shockwave-triggers.json) |
 | Shockwaves | 289421 | [289421-shockwaves.json](./289421-shockwaves.json) |
@@ -7278,6 +7279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Snow Day! - 420 Pack | 298710 | [298710-south-park-snow-day-420-pack.json](./298710-south-park-snow-day-420-pack.json) |
 | South Park: Snow Day! - Bigger, Longer & Uncut Anniversary Pack | 316256 | [316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json](./316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json) |
 | South Park: Snow Day! - Chaos Pack | 327315 | [327315-south-park-snow-day-chaos-pack.json](./327315-south-park-snow-day-chaos-pack.json) |
+| South Park: Snow Day! - Collector's Edition | 282050 | [282050-south-park-snow-day-collectors-edition.json](./282050-south-park-snow-day-collectors-edition.json) |
 | South Park: Snow Day! - Hammer | 324489 | [324489-south-park-snow-day-hammer.json](./324489-south-park-snow-day-hammer.json) |
 | South Park: Snow Day! - Nichole's Home Brew | 324478 | [324478-south-park-snow-day-nicholes-home-brew.json](./324478-south-park-snow-day-nicholes-home-brew.json) |
 | South Park: Snow Day! - Nonconformist Weapon Variation Pack | 316257 | [316257-south-park-snow-day-nonconformist-weapon-variation-pack.json](./316257-south-park-snow-day-nonconformist-weapon-variation-pack.json) |
@@ -7515,6 +7517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders | 218440 | [218440-space-invaders.json](./218440-space-invaders.json) |
 | Space Invaders | 218445 | [218445-space-invaders.json](./218445-space-invaders.json) |
 | Space Invaders | 266956 | [266956-space-invaders.json](./266956-space-invaders.json) |
+| Space Invaders | 282080 | [282080-space-invaders.json](./282080-space-invaders.json) |
 | Space Invaders | 3601 | [3601-space-invaders.json](./3601-space-invaders.json) |
 | Space Invaders '91 | 46262 | [46262-space-invaders-91.json](./46262-space-invaders-91.json) |
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
@@ -9344,6 +9347,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Legends - Spock Edition | 385209 | [385209-star-trek-legends-spock-edition.json](./385209-star-trek-legends-spock-edition.json) |
 | Star Trek: Starfleet Academy | 23946 | [23946-star-trek-starfleet-academy.json](./23946-star-trek-starfleet-academy.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
+| Star Trek: Strategic Operations Simulator | 282081 | [282081-star-trek-strategic-operations-simulator.json](./282081-star-trek-strategic-operations-simulator.json) |
+| Star Trek: Strategic Operations Simulator | 282082 | [282082-star-trek-strategic-operations-simulator.json](./282082-star-trek-strategic-operations-simulator.json) |
 | Star Trek: The Game Show | 69228 | [69228-star-trek-the-game-show.json](./69228-star-trek-the-game-show.json) |
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
@@ -10862,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
+| Stretchmancer | 282093 | [282093-stretchmancer.json](./282093-stretchmancer.json) |
 | Stretchy Adventure | 319957 | [319957-stretchy-adventure.json](./319957-stretchy-adventure.json) |
 | Stretchy-Man: The Video Game | 190234 | [190234-stretchy-man-the-video-game.json](./190234-stretchy-man-the-video-game.json) |
 | Strexy Slayers | 276167 | [276167-strexy-slayers.json](./276167-strexy-slayers.json) |
@@ -11684,6 +11690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
+| Super Assfuck RPG | 282096 | [282096-super-assfuck-rpg.json](./282096-super-assfuck-rpg.json) |
 | Super Astro Fighter | 60200 | [60200-super-astro-fighter.json](./60200-super-astro-fighter.json) |
 | Super Astro Space Blast | 387542 | [387542-super-astro-space-blast.json](./387542-super-astro-space-blast.json) |
 | Super Ate in Wonderland | 195192 | [195192-super-ate-in-wonderland.json](./195192-super-ate-in-wonderland.json) |
@@ -11791,6 +11798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
 | Super Clown Puzzles | 412996 | [412996-super-clown-puzzles.json](./412996-super-clown-puzzles.json) |
+| Super Cobra | 282073 | [282073-super-cobra.json](./282073-super-cobra.json) |
 | Super Cobra | 346134 | [346134-super-cobra.json](./346134-super-cobra.json) |
 | Super Code Strike | 145014 | [145014-super-code-strike.json](./145014-super-code-strike.json) |
 | Super Colapse! 3 | 19342 | [19342-super-colapse-3.json](./19342-super-colapse-3.json) |
@@ -13288,6 +13296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susume! Kaizoku: Be Pirates! | 200661 | [200661-susume-kaizoku-be-pirates.json](./200661-susume-kaizoku-be-pirates.json) |
 | Susume! Taisen Puzzle Dama: Toukon! Marutama Chou | 136858 | [136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json](./136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
+| Suugaku Riki-ou: Shokyuu Chuu-1 Level | 282046 | [282046-suugaku-riki-ou-shokyuu-chuu-1-level.json](./282046-suugaku-riki-ou-shokyuu-chuu-1-level.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
 | Suv 4x4 Car Parking Simulator | 276286 | [276286-suv-4x4-car-parking-simulator.json](./276286-suv-4x4-car-parking-simulator.json) |
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
