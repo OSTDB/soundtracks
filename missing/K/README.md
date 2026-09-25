@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Rush | 104093 | [104093-knife-rush.json](./104093-knife-rush.json) |
 | Knife Sisters | 110158 | [110158-knife-sisters.json](./110158-knife-sisters.json) |
 | KnifeBoy: Rebooted | 225880 | [225880-knifeboy-rebooted.json](./225880-knifeboy-rebooted.json) |
+| KnifePlayground: Horror Battle Royale | 277927 | [277927-knifeplayground-horror-battle-royale.json](./277927-knifeplayground-horror-battle-royale.json) |
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
 | Knight Bewitched | 97079 | [97079-knight-bewitched.json](./97079-knight-bewitched.json) |
@@ -1732,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Expansion Pack #1 | 223559 | [223559-knights-and-guns-expansion-pack-1.json](./223559-knights-and-guns-expansion-pack-1.json) |
 | Knights & Guns: Gold Edition | 270794 | [270794-knights-and-guns-gold-edition.json](./270794-knights-and-guns-gold-edition.json) |
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
+| Knights & Guns: NY Edition | 277893 | [277893-knights-and-guns-ny-edition.json](./277893-knights-and-guns-ny-edition.json) |
 | Knights & Guns: Platinum Edition | 274494 | [274494-knights-and-guns-platinum-edition.json](./274494-knights-and-guns-platinum-edition.json) |
 | Knights & Guns: Prime Edition | 270795 | [270795-knights-and-guns-prime-edition.json](./270795-knights-and-guns-prime-edition.json) |
 | Knights & Guns: Ultimate Edition | 283142 | [283142-knights-and-guns-ultimate-edition.json](./283142-knights-and-guns-ultimate-edition.json) |
