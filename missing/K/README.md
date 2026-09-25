@@ -271,6 +271,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kang | 396587 | [396587-kang.json](./396587-kang.json) |
 | Kang Fu | 37109 | [37109-kang-fu.json](./37109-kang-fu.json) |
 | Kangaroo | 12310 | [12310-kangaroo.json](./12310-kangaroo.json) |
+| Kangaroo | 282067 | [282067-kangaroo.json](./282067-kangaroo.json) |
+| Kangaroo | 282068 | [282068-kangaroo.json](./282068-kangaroo.json) |
 | Kangaroo Court | 330172 | [330172-kangaroo-court.json](./330172-kangaroo-court.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
 | Kangoku Lock | 284448 | [284448-kangoku-lock.json](./284448-kangoku-lock.json) |
@@ -294,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo xx Switch | 156614 | [156614-kanojo-xx-switch.json](./156614-kanojo-xx-switch.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
 | Kantai Collection | 12737 | [12737-kantai-collection.json](./12737-kantai-collection.json) |
+| Kanto Expansion Pak | 282044 | [282044-kanto-expansion-pak.json](./282044-kanto-expansion-pak.json) |
 | Kanuchi: Futatsu No Tsubasa | 56765 | [56765-kanuchi-futatsu-no-tsubasa.json](./56765-kanuchi-futatsu-no-tsubasa.json) |
 | Kanun 1919 | 396567 | [396567-kanun-1919.json](./396567-kanun-1919.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
