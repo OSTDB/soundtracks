@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiting on the Finishline | 403791 | [403791-waiting-on-the-finishline.json](./403791-waiting-on-the-finishline.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
 | Wakatsuya Mura no Tatari | 370300 | [370300-wakatsuya-mura-no-tatari.json](./370300-wakatsuya-mura-no-tatari.json) |
+| WakaVR | 243626 | [243626-wakavr.json](./243626-wakavr.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
 | Wake | 307750 | [307750-wake.json](./307750-wake.json) |
 | Wake | 95390 | [95390-wake.json](./95390-wake.json) |
@@ -1148,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaponry Dealer VR | 110464 | [110464-weaponry-dealer-vr.json](./110464-weaponry-dealer-vr.json) |
 | Weapons Arena | 356727 | [356727-weapons-arena.json](./356727-weapons-arena.json) |
 | Weapons Simulator: OutDoor Edition | 180131 | [180131-weapons-simulator-outdoor-edition.json](./180131-weapons-simulator-outdoor-edition.json) |
+| WeAreDreaming | 243648 | [243648-wearedreaming.json](./243648-wearedreaming.json) |
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
 | Weasel Words | 180823 | [180823-weasel-words.json](./180823-weasel-words.json) |
 | Weather Dominance | 253452 | [253452-weather-dominance.json](./253452-weather-dominance.json) |
@@ -1815,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Viper | 47239 | [47239-white-viper.json](./47239-white-viper.json) |
 | White Wall | 149582 | [149582-white-wall.json](./149582-white-wall.json) |
 | White Witch | 346108 | [346108-white-witch.json](./346108-white-witch.json) |
+| White Wolf: Treasure Hunter | 243612 | [243612-white-wolf-treasure-hunter.json](./243612-white-wolf-treasure-hunter.json) |
 | White Wolf: Treasure Hunter 2 | 273382 | [273382-white-wolf-treasure-hunter-2.json](./273382-white-wolf-treasure-hunter-2.json) |
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
 | Whitematter | 365895 | [365895-whitematter.json](./365895-whitematter.json) |
@@ -2944,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Seek English Unlimited | 103874 | [103874-word-seek-english-unlimited.json](./103874-word-seek-english-unlimited.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
 | Word Shuffle | 108263 | [108263-word-shuffle.json](./108263-word-shuffle.json) |
+| Word Solitaire | 243642 | [243642-word-solitaire.json](./243642-word-solitaire.json) |
 | Word Soup | 23405 | [23405-word-soup.json](./23405-word-soup.json) |
 | Word Space | 270775 | [270775-word-space.json](./270775-word-space.json) |
 | Word Spell Game: Yes or No ? | 266833 | [266833-word-spell-game-yes-or-no.json](./266833-word-spell-game-yes-or-no.json) |
