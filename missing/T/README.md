@@ -5817,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plumber Thing | 223000 | [223000-the-plumber-thing.json](./223000-the-plumber-thing.json) |
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
 | The Plutonia Experiment | 46615 | [46615-the-plutonia-experiment.json](./46615-the-plutonia-experiment.json) |
+| The Pocket Arcade | 264008 | [264008-the-pocket-arcade.json](./264008-the-pocket-arcade.json) |
 | The Podlands | 117484 | [117484-the-podlands.json](./117484-the-podlands.json) |
 | The Pointless Car Chase | 121701 | [121701-the-pointless-car-chase.json](./121701-the-pointless-car-chase.json) |
 | The Poisoner | 118825 | [118825-the-poisoner.json](./118825-the-poisoner.json) |
@@ -9115,6 +9116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
 | Tiny Pasture: Baabaa and Moomoo | 383623 | [383623-tiny-pasture-baabaa-and-moomoo.json](./383623-tiny-pasture-baabaa-and-moomoo.json) |
 | Tiny Pasture: Ribbitribbit and Quackquack | 383625 | [383625-tiny-pasture-ribbitribbit-and-quackquack.json](./383625-tiny-pasture-ribbitribbit-and-quackquack.json) |
+| Tiny Pharaoh: Pixel Strategy | 264011 | [264011-tiny-pharaoh-pixel-strategy.json](./264011-tiny-pharaoh-pixel-strategy.json) |
 | Tiny Pixel Farm: Go Farm Life | 248674 | [248674-tiny-pixel-farm-go-farm-life.json](./248674-tiny-pixel-farm-go-farm-life.json) |
 | Tiny Pixel Wars | 185618 | [185618-tiny-pixel-wars.json](./185618-tiny-pixel-wars.json) |
 | Tiny Pixels Vol. 2: Stormy Knights | 338928 | [338928-tiny-pixels-vol-2-stormy-knights.json](./338928-tiny-pixels-vol-2-stormy-knights.json) |
