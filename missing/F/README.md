@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Kitten: Puzzle Pipes | 165711 | [165711-farm-kitten-puzzle-pipes.json](./165711-farm-kitten-puzzle-pipes.json) |
 | Farm Land: Complete Edition | 270793 | [270793-farm-land-complete-edition.json](./270793-farm-land-complete-edition.json) |
 | Farm Land: Gold Edition | 385198 | [385198-farm-land-gold-edition.json](./385198-farm-land-gold-edition.json) |
+| Farm Land: Puppy Edition | 277904 | [277904-farm-land-puppy-edition.json](./277904-farm-land-puppy-edition.json) |
 | Farm Life | 381011 | [381011-farm-life.json](./381011-farm-life.json) |
 | Farm Life: Natures Adventure | 31804 | [31804-farm-life-natures-adventure.json](./31804-farm-life-natures-adventure.json) |
 | Farm Love Legend: Transform your Animals into Anime Girls | 380709 | [380709-farm-love-legend-transform-your-animals-into-anime-girls.json](./380709-farm-love-legend-transform-your-animals-into-anime-girls.json) |
@@ -4318,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
 | Freaky Racing | 233112 | [233112-freaky-racing.json](./233112-freaky-racing.json) |
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
+| Freaky Trip: Extended Edition | 277913 | [277913-freaky-trip-extended-edition.json](./277913-freaky-trip-extended-edition.json) |
 | Freaky Trip: Legendary Edition | 294828 | [294828-freaky-trip-legendary-edition.json](./294828-freaky-trip-legendary-edition.json) |
 | Freaky Trip: Platinum Edition | 298571 | [298571-freaky-trip-platinum-edition.json](./298571-freaky-trip-platinum-edition.json) |
 | Freaky Trip: Premium Edition | 284500 | [284500-freaky-trip-premium-edition.json](./284500-freaky-trip-premium-edition.json) |
@@ -5008,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
 | Fun | 360738 | [360738-fun.json](./360738-fun.json) |
 | Fun 'N Games | 4241 | [4241-fun-n-games.json](./4241-fun-n-games.json) |
+| Fun Chess: Complete Edition | 277912 | [277912-fun-chess-complete-edition.json](./277912-fun-chess-complete-edition.json) |
 | Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
 | Fun Chess: Premium Edition | 270792 | [270792-fun-chess-premium-edition.json](./270792-fun-chess-premium-edition.json) |
