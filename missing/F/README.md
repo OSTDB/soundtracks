@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Friends: Gold Edition | 317257 | [317257-fashion-friends-gold-edition.json](./317257-fashion-friends-gold-edition.json) |
 | Fashion Friends: Silver Edition | 315866 | [315866-fashion-friends-silver-edition.json](./315866-fashion-friends-silver-edition.json) |
 | Fashion Friends: Special Edition | 259585 | [259585-fashion-friends-special-edition.json](./259585-fashion-friends-special-edition.json) |
+| Fashion Friends: Super Edition | 262328 | [262328-fashion-friends-super-edition.json](./262328-fashion-friends-super-edition.json) |
 | Fashion Friends: Super Version | 313512 | [313512-fashion-friends-super-version.json](./313512-fashion-friends-super-version.json) |
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
