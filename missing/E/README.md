@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erocism | 302445 | [302445-erocism.json](./302445-erocism.json) |
 | Eroge Academy | 277957 | [277957-eroge-academy.json](./277957-eroge-academy.json) |
 | Erogods: Mirage | 294823 | [294823-erogods-mirage.json](./294823-erogods-mirage.json) |
+| Erogods: Olympus | 275043 | [275043-erogods-olympus.json](./275043-erogods-olympus.json) |
 | Eros Fantasy | 199606 | [199606-eros-fantasy.json](./199606-eros-fantasy.json) |
 | Eros Myth | 176467 | [176467-eros-myth.json](./176467-eros-myth.json) |
 | Erosion | 177437 | [177437-erosion.json](./177437-erosion.json) |
