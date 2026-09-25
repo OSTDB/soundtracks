@@ -2310,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etrian Odyssey III: The Drowned City | 14718 | [14718-etrian-odyssey-iii-the-drowned-city.json](./14718-etrian-odyssey-iii-the-drowned-city.json) |
 | Etrian Odyssey IV: Legends of the Titan | 6767 | [6767-etrian-odyssey-iv-legends-of-the-titan.json](./6767-etrian-odyssey-iv-legends-of-the-titan.json) |
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
+| Etsuraku no Gakuen | 280843 | [280843-etsuraku-no-gakuen.json](./280843-etsuraku-no-gakuen.json) |
 | Ettermag | 176364 | [176364-ettermag.json](./176364-ettermag.json) |
 | Ettrian: The Elf Prince | 240806 | [240806-ettrian-the-elf-prince.json](./240806-ettrian-the-elf-prince.json) |
 | Euchre | 131392 | [131392-euchre.json](./131392-euchre.json) |
