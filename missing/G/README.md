@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangster | 13855 | [13855-gangster.json](./13855-gangster.json) |
 | Gangster Alley | 18555 | [18555-gangster-alley.json](./18555-gangster-alley.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
+| Gangster Life: Criminal Untold , Cars, Theft, Police | 241889 | [241889-gangster-life-criminal-untold-cars-theft-police.json](./241889-gangster-life-criminal-untold-cars-theft-police.json) |
 | Gangsters | 69233 | [69233-gangsters.json](./69233-gangsters.json) |
 | Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
 | Ganso!! Yancha-maru | 186733 | [186733-ganso-yancha-maru.json](./186733-ganso-yancha-maru.json) |
@@ -1119,10 +1120,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genies & Jewels - Puzzle Quest | 105940 | [105940-genies-and-jewels-puzzle-quest.json](./105940-genies-and-jewels-puzzle-quest.json) |
 | Genigods: Nezha | 387656 | [387656-genigods-nezha.json](./387656-genigods-nezha.json) |
 | Genimas: Life Reborn | 211201 | [211201-genimas-life-reborn.json](./211201-genimas-life-reborn.json) |
+| Gênio Box | 241898 | [241898-genio-box.json](./241898-genio-box.json) |
 | Gênio Fly | 241945 | [241945-genio-fly.json](./241945-genio-fly.json) |
 | Gênio Quiz | 240244 | [240244-genio-quiz.json](./240244-genio-quiz.json) |
 | Gênio Quiz Anitta | 241942 | [241942-genio-quiz-anitta.json](./241942-genio-quiz-anitta.json) |
 | Gênio Quiz BBB 21 | 241943 | [241943-genio-quiz-bbb-21.json](./241943-genio-quiz-bbb-21.json) |
+| Gênio Quiz Eleições | 241941 | [241941-genio-quiz-eleicoes.json](./241941-genio-quiz-eleicoes.json) |
+| Gênio Quiz Felipe Neto | 241935 | [241935-genio-quiz-felipe-neto.json](./241935-genio-quiz-felipe-neto.json) |
+| Gênio Quiz Luccas Neto | 241940 | [241940-genio-quiz-luccas-neto.json](./241940-genio-quiz-luccas-neto.json) |
 | Gênio Quiz Poke 2 | 241969 | [241969-genio-quiz-poke-2.json](./241969-genio-quiz-poke-2.json) |
 | Genital Jousting | 18387 | [18387-genital-jousting.json](./18387-genital-jousting.json) |
 | Geniu$: The Tech Tycoon Game | 9925 | [9925-geniu-the-tech-tycoon-game.json](./9925-geniu-the-tech-tycoon-game.json) |
@@ -1137,13 +1142,42 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Quiz 14 | 241648 | [241648-genius-quiz-14.json](./241648-genius-quiz-14.json) |
 | Genius Quiz 15 | 241649 | [241649-genius-quiz-15.json](./241649-genius-quiz-15.json) |
 | Genius Quiz 2 | 241624 | [241624-genius-quiz-2.json](./241624-genius-quiz-2.json) |
+| Genius Quiz 2018 World Cup | 241931 | [241931-genius-quiz-2018-world-cup.json](./241931-genius-quiz-2018-world-cup.json) |
 | Genius Quiz 3 | 241625 | [241625-genius-quiz-3.json](./241625-genius-quiz-3.json) |
 | Genius Quiz 4 | 241627 | [241627-genius-quiz-4.json](./241627-genius-quiz-4.json) |
 | Genius Quiz 5 | 241640 | [241640-genius-quiz-5.json](./241640-genius-quiz-5.json) |
 | Genius Quiz 9 | 241641 | [241641-genius-quiz-9.json](./241641-genius-quiz-9.json) |
+| Genius Quiz Animals | 241912 | [241912-genius-quiz-animals.json](./241912-genius-quiz-animals.json) |
+| Genius Quiz Animes | 241909 | [241909-genius-quiz-animes.json](./241909-genius-quiz-animes.json) |
+| Genius Quiz Christmas | 241903 | [241903-genius-quiz-christmas.json](./241903-genius-quiz-christmas.json) |
+| Genius Quiz Clans | 241923 | [241923-genius-quiz-clans.json](./241923-genius-quiz-clans.json) |
+| Genius Quiz Countries | 241915 | [241915-genius-quiz-countries.json](./241915-genius-quiz-countries.json) |
 | Genius Quiz Craft | 241947 | [241947-genius-quiz-craft.json](./241947-genius-quiz-craft.json) |
+| Genius Quiz DBZ | 241899 | [241899-genius-quiz-dbz.json](./241899-genius-quiz-dbz.json) |
 | Genius Quiz Fort. Battle Royale | 241970 | [241970-genius-quiz-fort-battle-royale.json](./241970-genius-quiz-fort-battle-royale.json) |
+| Genius Quiz Games | 241917 | [241917-genius-quiz-games.json](./241917-genius-quiz-games.json) |
+| Genius Quiz GOT | 241914 | [241914-genius-quiz-got.json](./241914-genius-quiz-got.json) |
+| Genius Quiz Heroes | 241910 | [241910-genius-quiz-heroes.json](./241910-genius-quiz-heroes.json) |
+| Genius Quiz HP | 241904 | [241904-genius-quiz-hp.json](./241904-genius-quiz-hp.json) |
+| Genius Quiz LoL | 241922 | [241922-genius-quiz-lol.json](./241922-genius-quiz-lol.json) |
+| Genius Quiz Maker | 241911 | [241911-genius-quiz-maker.json](./241911-genius-quiz-maker.json) |
+| Genius Quiz Memes | 241924 | [241924-genius-quiz-memes.json](./241924-genius-quiz-memes.json) |
+| Genius Quiz Naru | 241916 | [241916-genius-quiz-naru.json](./241916-genius-quiz-naru.json) |
+| Genius Quiz Naru 2 | 241932 | [241932-genius-quiz-naru-2.json](./241932-genius-quiz-naru-2.json) |
 | Genius Quiz OP | 241968 | [241968-genius-quiz-op.json](./241968-genius-quiz-op.json) |
+| Genius Quiz Reverse | 241906 | [241906-genius-quiz-reverse.json](./241906-genius-quiz-reverse.json) |
+| Genius Quiz Rick&M | 241929 | [241929-genius-quiz-rick-and-m.json](./241929-genius-quiz-rick-and-m.json) |
+| Genius Quiz Royale | 241919 | [241919-genius-quiz-royale.json](./241919-genius-quiz-royale.json) |
+| Genius Quiz Royale 2 | 241920 | [241920-genius-quiz-royale-2.json](./241920-genius-quiz-royale-2.json) |
+| Genius Quiz Science | 241918 | [241918-genius-quiz-science.json](./241918-genius-quiz-science.json) |
+| Genius Quiz Soccer | 241900 | [241900-genius-quiz-soccer.json](./241900-genius-quiz-soccer.json) |
+| Genius Quiz SW | 241907 | [241907-genius-quiz-sw.json](./241907-genius-quiz-sw.json) |
+| Genius Quiz TWD | 241926 | [241926-genius-quiz-twd.json](./241926-genius-quiz-twd.json) |
+| Genius Quiz World Cups | 241933 | [241933-genius-quiz-world-cups.json](./241933-genius-quiz-world-cups.json) |
+| Genius Quiz Youtubers | 241925 | [241925-genius-quiz-youtubers.json](./241925-genius-quiz-youtubers.json) |
+| Genius Quiz Youtubers 2 | 241928 | [241928-genius-quiz-youtubers-2.json](./241928-genius-quiz-youtubers-2.json) |
+| Genius Quiz Youtubers 3 | 241930 | [241930-genius-quiz-youtubers-3.json](./241930-genius-quiz-youtubers-3.json) |
+| Genius Quiz Yugi | 241927 | [241927-genius-quiz-yugi.json](./241927-genius-quiz-yugi.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
 | Genji: Time Suspense Adventure | 66634 | [66634-genji-time-suspense-adventure.json](./66634-genji-time-suspense-adventure.json) |
