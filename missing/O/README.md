@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octillery Vs. Collection | 399055 | [399055-octillery-vs-collection.json](./399055-octillery-vs-collection.json) |
 | Octo Curse | 251015 | [251015-octo-curse.json](./251015-octo-curse.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
+| October Nightmares | 272341 | [272341-october-nightmares.json](./272341-october-nightmares.json) |
 | OctoCraps | 365169 | [365169-octocraps.json](./365169-octocraps.json) |
 | Octodad | 8110 | [8110-octodad.json](./8110-octodad.json) |
 | Octodad Shorts | 382904 | [382904-octodad-shorts.json](./382904-octodad-shorts.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off and Pacing | 112147 | [112147-off-and-pacing.json](./112147-off-and-pacing.json) |
 | Off Base | 271461 | [271461-off-base.json](./271461-off-base.json) |
 | Off Day | 178501 | [178501-off-day.json](./178501-off-day.json) |
+| Off Grids | 272255 | [272255-off-grids.json](./272255-off-grids.json) |
 | Off Road | 327579 | [327579-off-road.json](./327579-off-road.json) |
 | Off Road Stars | 372693 | [372693-off-road-stars.json](./372693-off-road-stars.json) |
 | Off Road Together | 411660 | [411660-off-road-together.json](./411660-off-road-together.json) |
@@ -1184,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
 | Online: 404 | 403155 | [403155-online-404.json](./403155-online-404.json) |
 | OnlineCTR | 313093 | [313093-onlinectr.json](./313093-onlinectr.json) |
+| Only an Alien Going Up! | 272260 | [272260-only-an-alien-going-up.json](./272260-only-an-alien-going-up.json) |
 | Only Animals | 374151 | [374151-only-animals.json](./374151-only-animals.json) |
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
 | Only Ban! | 258699 | [258699-only-ban.json](./258699-only-ban.json) |
@@ -1402,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Operencia: The Stolen Sun - Explorer's Edition | 154541 | [154541-operencia-the-stolen-sun-explorers-edition.json](./154541-operencia-the-stolen-sun-explorers-edition.json) |
 | Operius DX | 347184 | [347184-operius-dx.json](./347184-operius-dx.json) |
+| Ophelia's Chapter | 272327 | [272327-ophelias-chapter.json](./272327-ophelias-chapter.json) |
 | Ophelia´s Paradise | 400313 | [400313-ophelia-s-paradise.json](./400313-ophelia-s-paradise.json) |
 | Ophidia | 36523 | [36523-ophidia.json](./36523-ophidia.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
@@ -1893,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
 | Out of Range | 403204 | [403204-out-of-range.json](./403204-out-of-range.json) |
 | Out of Reach | 181805 | [181805-out-of-reach.json](./181805-out-of-reach.json) |
+| Out of Scale: A Kurzgesagt Adventure | 272338 | [272338-out-of-scale-a-kurzgesagt-adventure.json](./272338-out-of-scale-a-kurzgesagt-adventure.json) |
 | Out of Shape | 311148 | [311148-out-of-shape.json](./311148-out-of-shape.json) |
 | Out of Shapes | 133382 | [133382-out-of-shapes.json](./133382-out-of-shapes.json) |
 | Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
