@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble Steed | 379039 | [379039-noble-steed.json](./379039-noble-steed.json) |
 | Noble's Life: Kingdom Reborn | 173301 | [173301-nobles-life-kingdom-reborn.json](./173301-nobles-life-kingdom-reborn.json) |
 | NobleEscape | 149953 | [149953-nobleescape.json](./149953-nobleescape.json) |
+| Noblesse Oblige: Legacy of the Sorcerer Kings | 265577 | [265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json](./265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json) |
 | Nobodies: After Death | 190162 | [190162-nobodies-after-death.json](./190162-nobodies-after-death.json) |
 | Nobody Nowhere | 277339 | [277339-nobody-nowhere.json](./277339-nobody-nowhere.json) |
 | Nobody Saves the World: Frozen Hearth | 214735 | [214735-nobody-saves-the-world-frozen-hearth.json](./214735-nobody-saves-the-world-frozen-hearth.json) |
