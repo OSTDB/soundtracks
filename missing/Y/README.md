@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumemiru Sepia | 383609 | [383609-yumemiru-sepia.json](./383609-yumemiru-sepia.json) |
 | YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
 | Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
+| Yumm Monsters | 256244 | [256244-yumm-monsters.json](./256244-yumm-monsters.json) |
 | Yummimons | 363015 | [363015-yummimons.json](./363015-yummimons.json) |
 | Yummy Drink Factory | 295930 | [295930-yummy-drink-factory.json](./295930-yummy-drink-factory.json) |
 | Yummy Girl 2 | 195243 | [195243-yummy-girl-2.json](./195243-yummy-girl-2.json) |
