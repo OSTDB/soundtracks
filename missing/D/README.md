@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Dawntown | 301341 | [301341-dawntown.json](./301341-dawntown.json) |
+| Day 11 | 263003 | [263003-day-11.json](./263003-day-11.json) |
 | Day and Night | 124009 | [124009-day-and-night.json](./124009-day-and-night.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
 | Day at the Office: Prologue | 315717 | [315717-day-at-the-office-prologue.json](./315717-day-at-the-office-prologue.json) |
@@ -4873,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomies | 253972 | [253972-doomies.json](./253972-doomies.json) |
+| Doomkid's Mega! | 262998 | [262998-doomkids-mega.json](./262998-doomkids-mega.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Dooms | 340999 | [340999-dooms.json](./340999-dooms.json) |
 | Dooms Knight | 87914 | [87914-dooms-knight.json](./87914-dooms-knight.json) |
@@ -6775,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Of Dragon Knight Remake | 412556 | [412556-dungeon-of-dragon-knight-remake.json](./412556-dungeon-of-dragon-knight-remake.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
+| Dungeon of Horror | 262909 | [262909-dungeon-of-horror.json](./262909-dungeon-of-horror.json) |
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
 | Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
 | Dungeon of Minos - movable maze | 97142 | [97142-dungeon-of-minos-movable-maze.json](./97142-dungeon-of-minos-movable-maze.json) |
