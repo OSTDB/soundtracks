@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gourmet | 314492 | [314492-gourmet.json](./314492-gourmet.json) |
 | Gourmet | 93359 | [93359-gourmet.json](./93359-gourmet.json) |
 | Gourmet Chef | 67336 | [67336-gourmet-chef.json](./67336-gourmet-chef.json) |
+| Gourmet Race | 271261 | [271261-gourmet-race.json](./271261-gourmet-race.json) |
 | Gourmet Warriors | 42592 | [42592-gourmet-warriors.json](./42592-gourmet-warriors.json) |
 | GoVenture Micro Business | 31865 | [31865-goventure-micro-business.json](./31865-goventure-micro-business.json) |
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
@@ -3698,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
 | GTR 2: FIA GT Racing Game | 737 | [737-gtr-2-fia-gt-racing-game.json](./737-gtr-2-fia-gt-racing-game.json) |
+| GTRevival | 271259 | [271259-gtrevival.json](./271259-gtrevival.json) |
 | GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
 | Gǔ Mù Lì Yǐng | 319747 | [319747-gu-mu-li-ying.json](./319747-gu-mu-li-ying.json) |
 | Gu Zhen Ren: Reverend Insanity | 358472 | [358472-gu-zhen-ren-reverend-insanity.json](./358472-gu-zhen-ren-reverend-insanity.json) |
