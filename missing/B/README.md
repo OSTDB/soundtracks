@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat Galaxy | 326779 | [326779-bat-galaxy.json](./326779-bat-galaxy.json) |
 | Bat Hero | 236388 | [236388-bat-hero.json](./236388-bat-hero.json) |
 | Bat Lizard Bonanza | 186176 | [186176-bat-lizard-bonanza.json](./186176-bat-lizard-bonanza.json) |
+| Bat N' Ball | 237274 | [237274-bat-n-ball.json](./237274-bat-n-ball.json) |
 | Bat of Dead | 233252 | [233252-bat-of-dead.json](./233252-bat-of-dead.json) |
 | Bat Tap | 338196 | [338196-bat-tap.json](./338196-bat-tap.json) |
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
@@ -5965,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
+| Brick Breaker Lab | 237306 | [237306-brick-breaker-lab.json](./237306-brick-breaker-lab.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
 | Brick Breaker Revolution | 383630 | [383630-brick-breaker-revolution.json](./383630-brick-breaker-revolution.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
@@ -6004,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
 | Bricks of Atlantis | 70108 | [70108-bricks-of-atlantis.json](./70108-bricks-of-atlantis.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
+| Brickscapes: Bricks Breaker | 237283 | [237283-brickscapes-bricks-breaker.json](./237283-brickscapes-bricks-breaker.json) |
 | BricksVR | 144928 | [144928-bricksvr.json](./144928-bricksvr.json) |
 | Bricky Boy | 152304 | [152304-bricky-boy.json](./152304-bricky-boy.json) |
 | Brickyard / Clowns | 93565 | [93565-brickyard-clowns.json](./93565-brickyard-clowns.json) |
