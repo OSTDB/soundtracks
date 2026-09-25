@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kafka's Metamorphosis | 328219 | [328219-kafkas-metamorphosis.json](./328219-kafkas-metamorphosis.json) |
 | Kafkaesque: The Nightmare Trial | 311827 | [311827-kafkaesque-the-nightmare-trial.json](./311827-kafkaesque-the-nightmare-trial.json) |
 | Kagami | 410415 | [410415-kagami.json](./410415-kagami.json) |
+| Kagami no Kuni no Legend | 256323 | [256323-kagami-no-kuni-no-legend.json](./256323-kagami-no-kuni-no-legend.json) |
 | Kageninja | 385743 | [385743-kageninja.json](./385743-kageninja.json) |
 | Kagerou Labyrinth | 338819 | [338819-kagerou-labyrinth.json](./338819-kagerou-labyrinth.json) |
 | Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key | 260120 | [260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json](./260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json) |
@@ -1192,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Chat | 339918 | [339918-king-of-the-chat.json](./339918-king-of-the-chat.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
 | King of The Hill | 290519 | [290519-king-of-the-hill.json](./290519-king-of-the-hill.json) |
+| King of the Hill Classic | 256234 | [256234-king-of-the-hill-classic.json](./256234-king-of-the-hill-classic.json) |
 | King of the Monsters | 6800 | [6800-king-of-the-monsters.json](./6800-king-of-the-monsters.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of the Pit | 165647 | [165647-king-of-the-pit.json](./165647-king-of-the-pit.json) |
@@ -2143,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraken City | 325652 | [325652-kraken-city.json](./325652-kraken-city.json) |
 | Kraken Cleaning | 401776 | [401776-kraken-cleaning.json](./401776-kraken-cleaning.json) |
 | Kraken Invasion: RPG Idle | 233504 | [233504-kraken-invasion-rpg-idle.json](./233504-kraken-invasion-rpg-idle.json) |
+| Kraken Odyssey | 256215 | [256215-kraken-odyssey.json](./256215-kraken-odyssey.json) |
 | Krakout | 37171 | [37171-krakout.json](./37171-krakout.json) |
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
 | Kram | 46878 | [46878-kram.json](./46878-kram.json) |
