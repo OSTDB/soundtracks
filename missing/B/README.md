@@ -2774,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
 | Bifrost: Heroes of Midgard | 197340 | [197340-bifrost-heroes-of-midgard.json](./197340-bifrost-heroes-of-midgard.json) |
+| Bifröst: Through the Realms | 247975 | [247975-bifrost-through-the-realms.json](./247975-bifrost-through-the-realms.json) |
 | Bifusion | 292057 | [292057-bifusion.json](./292057-bifusion.json) |
 | Big Adventure | 330271 | [330271-big-adventure.json](./330271-big-adventure.json) |
 | Big Adventure 5-in-1 Bundle | 328559 | [328559-big-adventure-5-in-1-bundle.json](./328559-big-adventure-5-in-1-bundle.json) |
@@ -5071,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bopp File | 309537 | [309537-bopp-file.json](./309537-bopp-file.json) |
 | Boppin' | 14333 | [14333-boppin.json](./14333-boppin.json) |
 | BOPZ.io | 304751 | [304751-bopz-io.json](./304751-bopz-io.json) |
+| Bor Dungeon | 248005 | [248005-bor-dungeon.json](./248005-bor-dungeon.json) |
 | Borb the Birb | 135057 | [135057-borb-the-birb.json](./135057-borb-the-birb.json) |
 | Borbo's Quest | 178582 | [178582-borbos-quest.json](./178582-borbos-quest.json) |
 | Border Bots VR | 260759 | [260759-border-bots-vr.json](./260759-border-bots-vr.json) |
@@ -5546,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Quest Grades 3 & 4 | 68941 | [68941-brain-quest-grades-3-and-4.json](./68941-brain-quest-grades-3-and-4.json) |
 | Brain Quest Grades 5 & 6 | 68940 | [68940-brain-quest-grades-5-and-6.json](./68940-brain-quest-grades-5-and-6.json) |
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
+| Brain Show | 247976 | [247976-brain-show.json](./247976-brain-show.json) |
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
 | Brain Teaser: Memory Limit | 117762 | [117762-brain-teaser-memory-limit.json](./117762-brain-teaser-memory-limit.json) |
@@ -6561,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Strike: Battlegrounds | 70910 | [70910-bullet-strike-battlegrounds.json](./70910-bullet-strike-battlegrounds.json) |
 | Bullet Time | 158164 | [158164-bullet-time.json](./158164-bullet-time.json) |
 | Bullet Time | 254581 | [254581-bullet-time.json](./254581-bullet-time.json) |
+| Bullet Time Battle | 247995 | [247995-bullet-time-battle.json](./247995-bullet-time-battle.json) |
 | Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
 | Bullet Train Simulator: Euro Train Driver | 104611 | [104611-bullet-train-simulator-euro-train-driver.json](./104611-bullet-train-simulator-euro-train-driver.json) |
 | Bullet Trap | 68640 | [68640-bullet-trap.json](./68640-bullet-trap.json) |
