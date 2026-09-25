@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melancholia Maze | 366305 | [366305-melancholia-maze.json](./366305-melancholia-maze.json) |
 | Melancholic Dreamtower | 322727 | [322727-melancholic-dreamtower.json](./322727-melancholic-dreamtower.json) |
 | Melancholic Night | 399688 | [399688-melancholic-night.json](./399688-melancholic-night.json) |
+| Melancholy | 278465 | [278465-melancholy.json](./278465-melancholy.json) |
 | Melancholy Date | 245949 | [245949-melancholy-date.json](./245949-melancholy-date.json) |
 | Melancholy Love | 139483 | [139483-melancholy-love.json](./139483-melancholy-love.json) |
 | Melbits POD | 138236 | [138236-melbits-pod.json](./138236-melbits-pod.json) |
@@ -7542,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend is... Centaur | 303103 | [303103-my-girlfriend-is-centaur.json](./303103-my-girlfriend-is-centaur.json) |
 | My Girlfriend Loves a Mystery | 209021 | [209021-my-girlfriend-loves-a-mystery.json](./209021-my-girlfriend-loves-a-mystery.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
+| My Gnome Wife Left Me | 278459 | [278459-my-gnome-wife-left-me.json](./278459-my-gnome-wife-left-me.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
 | My Golf Game featuring Ernie Els | 206772 | [206772-my-golf-game-featuring-ernie-els.json](./206772-my-golf-game-featuring-ernie-els.json) |
 | My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
