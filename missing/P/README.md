@@ -4704,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poop Clicker | 195625 | [195625-poop-clicker.json](./195625-poop-clicker.json) |
 | Poop Collector | 196169 | [196169-poop-collector.json](./196169-poop-collector.json) |
+| Poop Collector: Number 2 | 245282 | [245282-poop-collector-number-2.json](./245282-poop-collector-number-2.json) |
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
 | Poop Killer | 222320 | [222320-poop-killer.json](./222320-poop-killer.json) |
 | Poop Killer II | 229824 | [229824-poop-killer-ii.json](./229824-poop-killer-ii.json) |
