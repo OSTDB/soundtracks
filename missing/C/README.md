@@ -3224,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuxie2 | 398418 | [398418-chuxie2.json](./398418-chuxie2.json) |
 | Chuzzle | 3758 | [3758-chuzzle.json](./3758-chuzzle.json) |
 | Chuzzle Deluxe | 27748 | [27748-chuzzle-deluxe.json](./27748-chuzzle-deluxe.json) |
+| Chuzzle Snap | 266845 | [266845-chuzzle-snap.json](./266845-chuzzle-snap.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
 | Chwæst: A Creeping Parasite Horror | 393633 | [393633-chw-st-a-creeping-parasite-horror.json](./393633-chw-st-a-creeping-parasite-horror.json) |
 | Chymicalia | 294180 | [294180-chymicalia.json](./294180-chymicalia.json) |
@@ -3488,6 +3489,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Retreat | 188521 | [188521-city-retreat.json](./188521-city-retreat.json) |
 | City Rhapsody! | 212808 | [212808-city-rhapsody.json](./212808-city-rhapsody.json) |
 | City Rush | 246428 | [246428-city-rush.json](./246428-city-rush.json) |
+| City Siege 2: Resort Siege | 266841 | [266841-city-siege-2-resort-siege.json](./266841-city-siege-2-resort-siege.json) |
+| City Siege 3: Jungle Siege | 266844 | [266844-city-siege-3-jungle-siege.json](./266844-city-siege-3-jungle-siege.json) |
+| City Siege 4: Alien Siege | 266847 | [266847-city-siege-4-alien-siege.json](./266847-city-siege-4-alien-siege.json) |
+| City Siege Sniper | 266850 | [266850-city-siege-sniper.json](./266850-city-siege-sniper.json) |
 | City Siege: Faction Island | 29814 | [29814-city-siege-faction-island.json](./29814-city-siege-faction-island.json) |
 | City Sights: Hello Seattle! | 206350 | [206350-city-sights-hello-seattle.json](./206350-city-sights-hello-seattle.json) |
 | City Slicker | 12985 | [12985-city-slicker.json](./12985-city-slicker.json) |
@@ -5142,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator 4 | 292143 | [292143-construction-simulator-4.json](./292143-construction-simulator-4.json) |
 | Construction Simulator: Extended Edition | 218476 | [218476-construction-simulator-extended-edition.json](./218476-construction-simulator-extended-edition.json) |
 | Construction Simulator: JCB Pack | 246399 | [246399-construction-simulator-jcb-pack.json](./246399-construction-simulator-jcb-pack.json) |
+| Construction Simulator: SANY Pack | 266746 | [266746-construction-simulator-sany-pack.json](./266746-construction-simulator-sany-pack.json) |
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
 | Construction Simulator: Spaceport Expansion | 275117 | [275117-construction-simulator-spaceport-expansion.json](./275117-construction-simulator-spaceport-expansion.json) |
 | Construction Simulator: Year 1 Season Pass | 246401 | [246401-construction-simulator-year-1-season-pass.json](./246401-construction-simulator-year-1-season-pass.json) |
@@ -5391,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coolmath Games: The Game | 234707 | [234707-coolmath-games-the-game.json](./234707-coolmath-games-the-game.json) |
 | CoolPaintr VR | 104022 | [104022-coolpaintr-vr.json](./104022-coolpaintr-vr.json) |
 | CoolPaintr VR: Voxel | 270143 | [270143-coolpaintr-vr-voxel.json](./270143-coolpaintr-vr-voxel.json) |
+| Coolson’s Chocolate Alphabet | 266835 | [266835-coolson-s-chocolate-alphabet.json](./266835-coolson-s-chocolate-alphabet.json) |
 | Cooly Skunk | 132647 | [132647-cooly-skunk.json](./132647-cooly-skunk.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
@@ -7108,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Realms | 32510 | [32510-cthulhu-realms.json](./32510-cthulhu-realms.json) |
 | Cthulhu Saves Christmas | 124286 | [124286-cthulhu-saves-christmas.json](./124286-cthulhu-saves-christmas.json) |
 | Cthulhu Saves the World | 8427 | [8427-cthulhu-saves-the-world.json](./8427-cthulhu-saves-the-world.json) |
+| Cthulhu Tower | 266750 | [266750-cthulhu-tower.json](./266750-cthulhu-tower.json) |
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
 | Cthulhu's Reach: Devil Reef | 258013 | [258013-cthulhus-reach-devil-reef.json](./258013-cthulhus-reach-devil-reef.json) |
 | Cthuloop | 381119 | [381119-cthuloop.json](./381119-cthuloop.json) |
