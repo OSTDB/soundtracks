@@ -3385,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Mystery Club | 155669 | [155669-love-mystery-club.json](./155669-love-mystery-club.json) |
 | Love Mythos: Sanctuary Island | 116309 | [116309-love-mythos-sanctuary-island.json](./116309-love-mythos-sanctuary-island.json) |
 | Love n Dream: Virtual Happiness | 160252 | [160252-love-n-dream-virtual-happiness.json](./160252-love-n-dream-virtual-happiness.json) |
+| Love n Life: Lucky Teacher | 253901 | [253901-love-n-life-lucky-teacher.json](./253901-love-n-life-lucky-teacher.json) |
 | Love of Magic | 237485 | [237485-love-of-magic.json](./237485-love-of-magic.json) |
 | Love of Magic Book 2: The War | 202759 | [202759-love-of-magic-book-2-the-war.json](./202759-love-of-magic-book-2-the-war.json) |
 | Love of Renai Koutei of Love! | 172713 | [172713-love-of-renai-koutei-of-love.json](./172713-love-of-renai-koutei-of-love.json) |
@@ -3594,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Gem | 262484 | [262484-lucky-gem.json](./262484-lucky-gem.json) |
 | Lucky Gem Casino | 323158 | [323158-lucky-gem-casino.json](./323158-lucky-gem-casino.json) |
 | Lucky Hand: Roguelike Deck Builder | 347780 | [347780-lucky-hand-roguelike-deck-builder.json](./347780-lucky-hand-roguelike-deck-builder.json) |
+| Lucky Hero | 253900 | [253900-lucky-hero.json](./253900-lucky-hero.json) |
 | Lucky Heroes | 217370 | [217370-lucky-heroes.json](./217370-lucky-heroes.json) |
 | Lucky Island | 224742 | [224742-lucky-island.json](./224742-lucky-island.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
