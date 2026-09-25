@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RAM Downloader | 384225 | [384225-ram-downloader.json](./384225-ram-downloader.json) |
 | RAM Ghost | 171540 | [171540-ram-ghost.json](./171540-ram-ghost.json) |
 | Ram It | 18581 | [18581-ram-it.json](./18581-ram-it.json) |
+| Ram Setu: The Run | 232395 | [232395-ram-setu-the-run.json](./232395-ram-setu-the-run.json) |
 | RAM: Random Access Mayhem | 231491 | [231491-ram-random-access-mayhem.json](./231491-ram-random-access-mayhem.json) |
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Ramble | 102587 | [102587-ramble.json](./102587-ramble.json) |
