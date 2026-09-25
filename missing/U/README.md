@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Hell | 83272 | [83272-ultra-hell.json](./83272-ultra-hell.json) |
 | Ultra Hyperball | 51950 | [51950-ultra-hyperball.json](./51950-ultra-hyperball.json) |
 | Ultra Keibitai: Monster Attack | 413184 | [413184-ultra-keibitai-monster-attack.json](./413184-ultra-keibitai-monster-attack.json) |
+| Ultra LMAD | 231320 | [231320-ultra-lmad.json](./231320-ultra-lmad.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Mega Planet Battles | 244743 | [244743-ultra-mega-planet-battles.json](./244743-ultra-mega-planet-battles.json) |
 | Ultra Mega Xtra Party Challenge | 201784 | [201784-ultra-mega-xtra-party-challenge.json](./201784-ultra-mega-xtra-party-challenge.json) |
@@ -552,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted 3: Drake's Deception - Special Edition | 139922 | [139922-uncharted-3-drakes-deception-special-edition.json](./139922-uncharted-3-drakes-deception-special-edition.json) |
 | Uncharted 3: Multiplayer | 252195 | [252195-uncharted-3-multiplayer.json](./252195-uncharted-3-multiplayer.json) |
 | Uncharted Island | 208954 | [208954-uncharted-island.json](./208954-uncharted-island.json) |
+| Uncharted Ocean 2 | 231293 | [231293-uncharted-ocean-2.json](./231293-uncharted-ocean-2.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
 | Uncharted Sectors | 375254 | [375254-uncharted-sectors.json](./375254-uncharted-sectors.json) |
 | Uncharted Tides: Port Royal | 121450 | [121450-uncharted-tides-port-royal.json](./121450-uncharted-tides-port-royal.json) |
@@ -734,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale Patience | 307154 | [307154-undertale-patience.json](./307154-undertale-patience.json) |
 | Undertale Plus | 329655 | [329655-undertale-plus.json](./329655-undertale-plus.json) |
 | Undertale Promise | 360564 | [360564-undertale-promise.json](./360564-undertale-promise.json) |
+| Undertale Together | 231306 | [231306-undertale-together.json](./231306-undertale-together.json) |
 | Undertale Together: Next Soul | 329663 | [329663-undertale-together-next-soul.json](./329663-undertale-together-next-soul.json) |
 | Undertale Yellow | 136482 | [136482-undertale-yellow.json](./136482-undertale-yellow.json) |
 | Undertale Yellow But Blue | 318536 | [318536-undertale-yellow-but-blue.json](./318536-undertale-yellow-but-blue.json) |
@@ -831,6 +834,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfortunate Spacemen | 34300 | [34300-unfortunate-spacemen.json](./34300-unfortunate-spacemen.json) |
 | Unfortunate Tales of Violet | 248011 | [248011-unfortunate-tales-of-violet.json](./248011-unfortunate-tales-of-violet.json) |
 | Ungra Walker | 54748 | [54748-ungra-walker.json](./54748-ungra-walker.json) |
+| Ungrateful Birds: Call of the Desert | 231335 | [231335-ungrateful-birds-call-of-the-desert.json](./231335-ungrateful-birds-call-of-the-desert.json) |
+| Ungrateful Birds: No Good Deed | 231327 | [231327-ungrateful-birds-no-good-deed.json](./231327-ungrateful-birds-no-good-deed.json) |
 | Ungrounded | 134593 | [134593-ungrounded.json](./134593-ungrounded.json) |
 | Ungrounded: Ripple Unleashed VR | 55456 | [55456-ungrounded-ripple-unleashed-vr.json](./55456-ungrounded-ripple-unleashed-vr.json) |
 | Unguided | 362485 | [362485-unguided.json](./362485-unguided.json) |
