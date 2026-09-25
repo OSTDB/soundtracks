@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Baron | 366254 | [366254-oil-baron.json](./366254-oil-baron.json) |
 | Oil Drill | 22364 | [22364-oil-drill.json](./22364-oil-drill.json) |
 | Oil Filling | 264103 | [264103-oil-filling.json](./264103-oil-filling.json) |
+| Oil Panic | 228397 | [228397-oil-panic.json](./228397-oil-panic.json) |
 | Oil Patch Simulations | 110366 | [110366-oil-patch-simulations.json](./110366-oil-patch-simulations.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
 | Oil Truck Transporter | 310055 | [310055-oil-truck-transporter.json](./310055-oil-truck-transporter.json) |
@@ -659,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Extinction | 68588 | [68588-omega-extinction.json](./68588-omega-extinction.json) |
 | Omega Fighter | 40256 | [40256-omega-fighter.json](./40256-omega-fighter.json) |
 | Omega Genesis | 249291 | [249291-omega-genesis.json](./249291-omega-genesis.json) |
+| Omega Horizon | 228398 | [228398-omega-horizon.json](./228398-omega-horizon.json) |
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
 | Omega Labyrinth Life: Additional Dungeon - Mystic Omega Spot | 238052 | [238052-omega-labyrinth-life-additional-dungeon-mystic-omega-spot.json](./238052-omega-labyrinth-life-additional-dungeon-mystic-omega-spot.json) |
 | Omega Labyrinth Z: Limited Edition | 166184 | [166184-omega-labyrinth-z-limited-edition.json](./166184-omega-labyrinth-z-limited-edition.json) |
@@ -2183,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovation | 392461 | [392461-ovation.json](./392461-ovation.json) |
 | Oven Dodgers | 281395 | [281395-oven-dodgers.json](./281395-oven-dodgers.json) |
 | OvenBreak | 284436 | [284436-ovenbreak.json](./284436-ovenbreak.json) |
+| Over 1000 Jigsaw Puzzles | 228409 | [228409-over-1000-jigsaw-puzzles.json](./228409-over-1000-jigsaw-puzzles.json) |
 | Over Circle | 161223 | [161223-over-circle.json](./161223-over-circle.json) |
 | Over Clock | 336693 | [336693-over-clock.json](./336693-over-clock.json) |
 | Over Engineered | 406076 | [406076-over-engineered.json](./406076-over-engineered.json) |
