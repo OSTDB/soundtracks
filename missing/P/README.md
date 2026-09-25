@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Galaxy | 64129 | [64129-paper-galaxy.json](./64129-paper-galaxy.json) |
 | Paper Hero Manager | 279109 | [279109-paper-hero-manager.json](./279109-paper-hero-manager.json) |
 | Paper Heroes | 174743 | [174743-paper-heroes.json](./174743-paper-heroes.json) |
+| Paper io 2: Animals Edition | 275049 | [275049-paper-io-2-animals-edition.json](./275049-paper-io-2-animals-edition.json) |
 | Paper io 2: Complete Edition | 331857 | [331857-paper-io-2-complete-edition.json](./331857-paper-io-2-complete-edition.json) |
 | Paper io 2: Gold Edition | 395681 | [395681-paper-io-2-gold-edition.json](./395681-paper-io-2-gold-edition.json) |
 | Paper Kingdom | 279110 | [279110-paper-kingdom.json](./279110-paper-kingdom.json) |
@@ -2910,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates! Gold Plus | 36216 | [36216-pirates-gold-plus.json](./36216-pirates-gold-plus.json) |
 | Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
 | PirateWar | 312156 | [312156-piratewar.json](./312156-piratewar.json) |
+| Piron Virus | 275091 | [275091-piron-virus.json](./275091-piron-virus.json) |
 | PiroPito | 276754 | [276754-piropito.json](./276754-piropito.json) |
 | Pisces | 109444 | [109444-pisces.json](./109444-pisces.json) |
 | Piske & Usagi's Short Trip | 263570 | [263570-piske-and-usagis-short-trip.json](./263570-piske-and-usagis-short-trip.json) |
@@ -4475,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
 | PolyTap | 341565 | [341565-polytap.json](./341565-polytap.json) |
 | Polytone | 174831 | [174831-polytone.json](./174831-polytone.json) |
+| Polyturbo Drift Racing Simulator | 275036 | [275036-polyturbo-drift-racing-simulator.json](./275036-polyturbo-drift-racing-simulator.json) |
 | Polywar | 326772 | [326772-polywar.json](./326772-polywar.json) |
 | PolyWar | 341564 | [341564-polywar.json](./341564-polywar.json) |
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
@@ -5236,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
 | Primal Carnage: Extinction - Mercenary Megapack | 241963 | [241963-primal-carnage-extinction-mercenary-megapack.json](./241963-primal-carnage-extinction-mercenary-megapack.json) |
 | Primal Carnage: Extinction - Prehistoric Legacy | 241962 | [241962-primal-carnage-extinction-prehistoric-legacy.json](./241962-primal-carnage-extinction-prehistoric-legacy.json) |
+| Primal Carnage: Extinction - Ultimate Bruiser Pack | 274973 | [274973-primal-carnage-extinction-ultimate-bruiser-pack.json](./274973-primal-carnage-extinction-ultimate-bruiser-pack.json) |
 | Primal Carnage: Extinction - Ultimate Spitter Pack | 274974 | [274974-primal-carnage-extinction-ultimate-spitter-pack.json](./274974-primal-carnage-extinction-ultimate-spitter-pack.json) |
 | Primal Carnage: Genesis | 80564 | [80564-primal-carnage-genesis.json](./80564-primal-carnage-genesis.json) |
 | Primal Chronicles | 336618 | [336618-primal-chronicles.json](./336618-primal-chronicles.json) |
