@@ -3727,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
 | Clear Vision Elite | 272793 | [272793-clear-vision-elite.json](./272793-clear-vision-elite.json) |
 | Clearing Blade | 326248 | [326248-clearing-blade.json](./326248-clearing-blade.json) |
+| Clearwater | 270718 | [270718-clearwater.json](./270718-clearwater.json) |
 | Cleaving Caliber EX | 362435 | [362435-cleaving-caliber-ex.json](./362435-cleaving-caliber-ex.json) |
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
 | Cleimos II | 260946 | [260946-cleimos-ii.json](./260946-cleimos-ii.json) |
@@ -6330,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creaks | 110834 | [110834-creaks.json](./110834-creaks.json) |
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
 | Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
+| Cream Lemon: Star Trap | 270728 | [270728-cream-lemon-star-trap.json](./270728-cream-lemon-star-trap.json) |
 | Cream War | 239746 | [239746-cream-war.json](./239746-cream-war.json) |
 | Creamare: The Game | 339338 | [339338-creamare-the-game.json](./339338-creamare-the-game.json) |
 | Creamy Mami: Futari no Rondo | 184477 | [184477-creamy-mami-futari-no-rondo.json](./184477-creamy-mami-futari-no-rondo.json) |
