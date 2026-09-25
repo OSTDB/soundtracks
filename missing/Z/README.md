@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhulik.exe | 81770 | [81770-zhulik-exe.json](./81770-zhulik-exe.json) |
 | Zhust: The Illusion Soul | 40463 | [40463-zhust-the-illusion-soul.json](./40463-zhust-the-illusion-soul.json) |
 | Zhūtiān Jì | 157534 | [157534-zhutian-ji.json](./157534-zhutian-ji.json) |
+| Zi | 279039 | [279039-zi.json](./279039-zi.json) |
 | ZI Survival | 220735 | [220735-zi-survival.json](./220735-zi-survival.json) |
 | Zì Xī Cú Dōng | 163846 | [163846-zi-xi-cu-dong.json](./163846-zi-xi-cu-dong.json) |
 | Zi´s Mansion | 418744 | [418744-zi-s-mansion.json](./418744-zi-s-mansion.json) |
