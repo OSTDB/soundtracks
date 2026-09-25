@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinx | 369191 | [369191-jinx.json](./369191-jinx.json) |
 | Jinx 3: Escape From Area Fitty-Two | 383493 | [383493-jinx-3-escape-from-area-fitty-two.json](./383493-jinx-3-escape-from-area-fitty-two.json) |
 | Jīnyōng Qúnxiá Zhuán | 78043 | [78043-jinyong-qunxia-zhuan.json](./78043-jinyong-qunxia-zhuan.json) |
+| Jippo! Street | 234000 | [234000-jippo-street.json](./234000-jippo-street.json) |
 | JiPS | 33203 | [33203-jips.json](./33203-jips.json) |
 | Jiří Kára Simulátor | 384219 | [384219-jiri-kara-simulator.json](./384219-jiri-kara-simulator.json) |
 | Jisatsu | 278971 | [278971-jisatsu.json](./278971-jisatsu.json) |
@@ -1155,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
 | July the Lost Child | 109699 | [109699-july-the-lost-child.json](./109699-july-the-lost-child.json) |
 | Jumala | 23829 | [23829-jumala.json](./23829-jumala.json) |
+| Jumanji: Epic Run | 234013 | [234013-jumanji-epic-run.json](./234013-jumanji-epic-run.json) |
 | Jumanji: Reverse the Curse | 246639 | [246639-jumanji-reverse-the-curse.json](./246639-jumanji-reverse-the-curse.json) |
 | Jumanji: The Curse Returns - Welcome to the Jungle | 210870 | [210870-jumanji-the-curse-returns-welcome-to-the-jungle.json](./210870-jumanji-the-curse-returns-welcome-to-the-jungle.json) |
 | Jumara | 393498 | [393498-jumara.json](./393498-jumara.json) |
