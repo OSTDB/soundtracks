@@ -2898,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
 | Rift Frigate | 132007 | [132007-rift-frigate.json](./132007-rift-frigate.json) |
 | Rift Investigations | 402992 | [402992-rift-investigations.json](./402992-rift-investigations.json) |
+| Rift Loopers: Pyro Class | 253318 | [253318-rift-loopers-pyro-class.json](./253318-rift-loopers-pyro-class.json) |
 | Rift Miner | 375446 | [375446-rift-miner.json](./375446-rift-miner.json) |
 | Rift Mobile | 38902 | [38902-rift-mobile.json](./38902-rift-mobile.json) |
 | Rift of the NecroDancer | 214492 | [214492-rift-of-the-necrodancer.json](./214492-rift-of-the-necrodancer.json) |
@@ -3486,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboGal: Gaga Delta Lady | 306994 | [306994-robogal-gaga-delta-lady.json](./306994-robogal-gaga-delta-lady.json) |
 | RoboHeist VR | 86561 | [86561-roboheist-vr.json](./86561-roboheist-vr.json) |
 | RoboHero | 388195 | [388195-robohero.json](./388195-robohero.json) |
+| RoboHunt | 253320 | [253320-robohunt.json](./253320-robohunt.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | Robokill | 361334 | [361334-robokill.json](./361334-robokill.json) |
 | Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
