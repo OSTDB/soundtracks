@@ -2755,6 +2755,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaki Shaki Island | 327409 | [327409-shaki-shaki-island.json](./327409-shaki-shaki-island.json) |
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
 | Shakugan no Shana DS | 123413 | [123413-shakugan-no-shana-ds.json](./123413-shakugan-no-shana-ds.json) |
+| Shaky Ground: Apocollapse | 270652 | [270652-shaky-ground-apocollapse.json](./270652-shaky-ground-apocollapse.json) |
+| Shaky Grounds: Epicenter | 270654 | [270654-shaky-grounds-epicenter.json](./270654-shaky-grounds-epicenter.json) |
+| Shaky Grounds: Tragedy | 270653 | [270653-shaky-grounds-tragedy.json](./270653-shaky-grounds-tragedy.json) |
 | Shaky Structures | 180811 | [180811-shaky-structures.json](./180811-shaky-structures.json) |
 | Shalguy | 373024 | [373024-shalguy.json](./373024-shalguy.json) |
 | Shall we date? Love Tangle: Finding my Better Half | 225661 | [225661-shall-we-date-love-tangle-finding-my-better-half.json](./225661-shall-we-date-love-tangle-finding-my-better-half.json) |
@@ -5071,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
 | Slender Man Retro | 356683 | [356683-slender-man-retro.json](./356683-slender-man-retro.json) |
 | Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
+| Slender Multiplayer | 270731 | [270731-slender-multiplayer.json](./270731-slender-multiplayer.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
 | Slender: Lonely Home | 126446 | [126446-slender-lonely-home.json](./126446-slender-lonely-home.json) |
@@ -10571,6 +10575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story 210 | 345094 | [345094-story-210.json](./345094-story-210.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
 | Story City | 228518 | [228518-story-city.json](./228518-story-city.json) |
+| Story Craft | 270729 | [270729-story-craft.json](./270729-story-craft.json) |
 | Story Hour: Fairy Tales | 9756 | [9756-story-hour-fairy-tales.json](./9756-story-hour-fairy-tales.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
 | Story Maker | 66615 | [66615-story-maker.json](./66615-story-maker.json) |
@@ -13097,6 +13102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
 | Supershot | 339476 | [339476-supershot.json](./339476-supershot.json) |
 | Supershot Golf Robot | 206714 | [206714-supershot-golf-robot.json](./206714-supershot-golf-robot.json) |
+| SuperSki Pro | 270624 | [270624-superski-pro.json](./270624-superski-pro.json) |
 | SuperSnake.io | 58496 | [58496-supersnake-io.json](./58496-supersnake-io.json) |
 | Supersolar | 110778 | [110778-supersolar.json](./110778-supersolar.json) |
 | Supersonic | 265741 | [265741-supersonic.json](./265741-supersonic.json) |
