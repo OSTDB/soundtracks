@@ -4830,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
 | Commander Tiberius Troubleson | 244340 | [244340-commander-tiberius-troubleson.json](./244340-commander-tiberius-troubleson.json) |
 | Commander: Europe at War | 324929 | [324929-commander-europe-at-war.json](./324929-commander-europe-at-war.json) |
+| Commander: Zombie Wars | 258969 | [258969-commander-zombie-wars.json](./258969-commander-zombie-wars.json) |
 | Commanders of the Void | 379872 | [379872-commanders-of-the-void.json](./379872-commanders-of-the-void.json) |
 | Commanders: Attack of the Genos | 20775 | [20775-commanders-attack-of-the-genos.json](./20775-commanders-attack-of-the-genos.json) |
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
@@ -5413,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Kid Cody | 195175 | [195175-cool-kid-cody.json](./195175-cool-kid-cody.json) |
 | Cool Kid Cody: Season 2 - Episode 09 | 253977 | [253977-cool-kid-cody-season-2-episode-09.json](./253977-cool-kid-cody-season-2-episode-09.json) |
 | Cool Kid Cody: Season 3 - Episode 09 | 312007 | [312007-cool-kid-cody-season-3-episode-09.json](./312007-cool-kid-cody-season-3-episode-09.json) |
+| Cool Lady | 259026 | [259026-cool-lady.json](./259026-cool-lady.json) |
 | Cool People Club | 211762 | [211762-cool-people-club.json](./211762-cool-people-club.json) |
 | Cool Pizza | 172700 | [172700-cool-pizza.json](./172700-cool-pizza.json) |
 | Cool Shot | 66955 | [66955-cool-shot.json](./66955-cool-shot.json) |
@@ -7218,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
 | Cube Jump Ultimate | 290467 | [290467-cube-jump-ultimate.json](./290467-cube-jump-ultimate.json) |
 | Cube Kabaam | 377718 | [377718-cube-kabaam.json](./377718-cube-kabaam.json) |
+| Cube Kingdoms | 258967 | [258967-cube-kingdoms.json](./258967-cube-kingdoms.json) |
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
 | Cube Land Arena | 33288 | [33288-cube-land-arena.json](./33288-cube-land-arena.json) |
 | Cube Life: Island Survival 2018 | 96067 | [96067-cube-life-island-survival-2018.json](./96067-cube-life-island-survival-2018.json) |
