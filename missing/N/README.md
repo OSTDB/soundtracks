@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
 | New Super Luigi U Remastered Edition | 322777 | [322777-new-super-luigi-u-remastered-edition.json](./322777-new-super-luigi-u-remastered-edition.json) |
 | New Super Mario Bros. 2 | 1080 | [1080-new-super-mario-bros-2.json](./1080-new-super-mario-bros-2.json) |
+| New Super Mario Bros. 3 DS | 252085 | [252085-new-super-mario-bros-3-ds.json](./252085-new-super-mario-bros-3-ds.json) |
 | New Super Mario Bros. 5: Clone Tag Team | 146278 | [146278-new-super-mario-bros-5-clone-tag-team.json](./146278-new-super-mario-bros-5-clone-tag-team.json) |
 | New Super Mario Bros. 5: Clone Tag Team 2 | 146279 | [146279-new-super-mario-bros-5-clone-tag-team-2.json](./146279-new-super-mario-bros-5-clone-tag-team-2.json) |
 | New Super Mario Bros. Deluxe | 107234 | [107234-new-super-mario-bros-deluxe.json](./107234-new-super-mario-bros-deluxe.json) |
