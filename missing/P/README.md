@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
+| Pesticide Not Required | 257978 | [257978-pesticide-not-required.json](./257978-pesticide-not-required.json) |
 | Pestilence | 272272 | [272272-pestilence.json](./272272-pestilence.json) |
 | Pestis | 97921 | [97921-pestis.json](./97921-pestis.json) |
 | Pet & Dog Simulator | 333736 | [333736-pet-and-dog-simulator.json](./333736-pet-and-dog-simulator.json) |
@@ -2083,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom of the Twilight | 304152 | [304152-phantom-of-the-twilight.json](./304152-phantom-of-the-twilight.json) |
 | Phantom Ops | 370703 | [370703-phantom-ops.json](./370703-phantom-ops.json) |
 | Phantom Path | 126654 | [126654-phantom-path.json](./126654-phantom-path.json) |
+| Phantom Peak | 257985 | [257985-phantom-peak.json](./257985-phantom-peak.json) |
 | Phantom Playhouse | 331949 | [331949-phantom-playhouse.json](./331949-phantom-playhouse.json) |
 | Phantom Rend | 379862 | [379862-phantom-rend.json](./379862-phantom-rend.json) |
 | Phantom Rift | 174351 | [174351-phantom-rift.json](./174351-phantom-rift.json) |
