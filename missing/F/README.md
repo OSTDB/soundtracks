@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
 | Far Side of the Mirror | 368511 | [368511-far-side-of-the-mirror.json](./368511-far-side-of-the-mirror.json) |
 | Far Starlight | 355219 | [355219-far-starlight.json](./355219-far-starlight.json) |
+| Far Tale | 248020 | [248020-far-tale.json](./248020-far-tale.json) |
 | Far Til Fire: Gi'r Aldrig Op | 129779 | [129779-far-til-fire-gir-aldrig-op.json](./129779-far-til-fire-gir-aldrig-op.json) |
 | Far-Out | 34792 | [34792-far-out.json](./34792-far-out.json) |
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
