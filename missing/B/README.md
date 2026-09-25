@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
 | Baseball | 277862 | [277862-baseball.json](./277862-baseball.json) |
+| Baseball | 280876 | [280876-baseball.json](./280876-baseball.json) |
 | Baseball | 297486 | [297486-baseball.json](./297486-baseball.json) |
 | Baseball | 300004 | [300004-baseball.json](./300004-baseball.json) |
 | Baseball | 305278 | [305278-baseball.json](./305278-baseball.json) |
@@ -2095,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
 | Beatmania 3rdMix | 94745 | [94745-beatmania-3rdmix.json](./94745-beatmania-3rdmix.json) |
 | Beatmania 4thMix: The Beat Goes On | 70632 | [70632-beatmania-4thmix-the-beat-goes-on.json](./70632-beatmania-4thmix-the-beat-goes-on.json) |
+| Beatmania 6thMIX + Core Remix | 280863 | [280863-beatmania-6thmix-core-remix.json](./280863-beatmania-6thmix-core-remix.json) |
 | Beatmania 6thMix: The UK Underground Music | 79612 | [79612-beatmania-6thmix-the-uk-underground-music.json](./79612-beatmania-6thmix-the-uk-underground-music.json) |
 | Beatmania 7thMix: Keepin' Evolution | 94743 | [94743-beatmania-7thmix-keepin-evolution.json](./94743-beatmania-7thmix-keepin-evolution.json) |
 | Beatmania Append 5thMix: Time to Get Down | 70994 | [70994-beatmania-append-5thmix-time-to-get-down.json](./70994-beatmania-append-5thmix-time-to-get-down.json) |
@@ -4603,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoKe Travelog | 292128 | [292128-boke-travelog.json](./292128-boke-travelog.json) |
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
 | Bokida: Heartfelt Reunion | 28189 | [28189-bokida-heartfelt-reunion.json](./28189-bokida-heartfelt-reunion.json) |
+| Bokosuka Wars | 280818 | [280818-bokosuka-wars.json](./280818-bokosuka-wars.json) |
 | Boktai 2: Solar Boy Django | 6329 | [6329-boktai-2-solar-boy-django.json](./6329-boktai-2-solar-boy-django.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Tomodachi ga Sukunai Portable | 56491 | [56491-boku-ha-tomodachi-ga-sukunai-portable.json](./56491-boku-ha-tomodachi-ga-sukunai-portable.json) |
@@ -4819,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonk! | 328554 | [328554-bonk.json](./328554-bonk.json) |
 | Bonk.io | 57077 | [57077-bonk-io.json](./57077-bonk-io.json) |
+| Bonk's Adventure | 280819 | [280819-bonks-adventure.json](./280819-bonks-adventure.json) |
 | Bonk's Adventure | 7794 | [7794-bonks-adventure.json](./7794-bonks-adventure.json) |
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
@@ -5116,6 +5120,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouken-Ou Beet: Vandel vs. Busters | 269670 | [269670-bouken-ou-beet-vandel-vs-busters.json](./269670-bouken-ou-beet-vandel-vs-busters.json) |
 | Boulder Boy | 61639 | [61639-boulder-boy.json](./61639-boulder-boy.json) |
 | Boulder Dash | 12942 | [12942-boulder-dash.json](./12942-boulder-dash.json) |
+| Boulder Dash | 280820 | [280820-boulder-dash.json](./280820-boulder-dash.json) |
+| Boulder Dash | 280821 | [280821-boulder-dash.json](./280821-boulder-dash.json) |
+| Boulder Dash | 280823 | [280823-boulder-dash.json](./280823-boulder-dash.json) |
+| Boulder Dash | 280825 | [280825-boulder-dash.json](./280825-boulder-dash.json) |
+| Boulder Dash | 280826 | [280826-boulder-dash.json](./280826-boulder-dash.json) |
+| Boulder Dash | 280827 | [280827-boulder-dash.json](./280827-boulder-dash.json) |
+| Boulder Dash | 280828 | [280828-boulder-dash.json](./280828-boulder-dash.json) |
+| Boulder Dash | 280829 | [280829-boulder-dash.json](./280829-boulder-dash.json) |
+| Boulder Dash | 280830 | [280830-boulder-dash.json](./280830-boulder-dash.json) |
+| Boulder Dash | 280831 | [280831-boulder-dash.json](./280831-boulder-dash.json) |
+| Boulder Dash | 280832 | [280832-boulder-dash.json](./280832-boulder-dash.json) |
+| Boulder Dash | 280833 | [280833-boulder-dash.json](./280833-boulder-dash.json) |
+| Boulder Dash | 280834 | [280834-boulder-dash.json](./280834-boulder-dash.json) |
+| Boulder Dash | 280835 | [280835-boulder-dash.json](./280835-boulder-dash.json) |
+| Boulder Dash | 280836 | [280836-boulder-dash.json](./280836-boulder-dash.json) |
+| Boulder Dash | 280837 | [280837-boulder-dash.json](./280837-boulder-dash.json) |
+| Boulder Dash | 280838 | [280838-boulder-dash.json](./280838-boulder-dash.json) |
 | Boulder Dash | 283712 | [283712-boulder-dash.json](./283712-boulder-dash.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
@@ -6056,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutic | 280228 | [280228-brutic.json](./280228-brutic.json) |
 | Brutus | 178041 | [178041-brutus.json](./178041-brutus.json) |
 | Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
+| Bruxa Luna | 280859 | [280859-bruxa-luna.json](./280859-bruxa-luna.json) |
 | Bruxólico | 251700 | [251700-bruxolico.json](./251700-bruxolico.json) |
 | BrVR: Backrooms Virtual Reality | 199583 | [199583-brvr-backrooms-virtual-reality.json](./199583-brvr-backrooms-virtual-reality.json) |
 | Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
