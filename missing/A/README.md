@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nightmare on Elm Street | 40935 | [40935-a-nightmare-on-elm-street.json](./40935-a-nightmare-on-elm-street.json) |
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
+| A Noite dos Patriotas | 232413 | [232413-a-noite-dos-patriotas.json](./232413-a-noite-dos-patriotas.json) |
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
 | A Pair of Feathers Squawk Together | 311607 | [311607-a-pair-of-feathers-squawk-together.json](./311607-a-pair-of-feathers-squawk-together.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Maw | 372125 | [372125-abyssal-maw.json](./372125-abyssal-maw.json) |
 | Abyssal Shade | 337790 | [337790-abyssal-shade.json](./337790-abyssal-shade.json) |
 | Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
+| AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
 | Abyssdia | 363049 | [363049-abyssdia.json](./363049-abyssdia.json) |
 | Abyssfall: Seekers Within | 337706 | [337706-abyssfall-seekers-within.json](./337706-abyssfall-seekers-within.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
@@ -1384,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
+| Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
@@ -3283,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
 | Angle | 396218 | [396218-angle.json](./396218-angle.json) |
+| Angle Me | 232390 | [232390-angle-me.json](./232390-angle-me.json) |
 | Angle of Attack | 16064 | [16064-angle-of-attack.json](./16064-angle-of-attack.json) |
 | Angler Dangler | 386681 | [386681-angler-dangler.json](./386681-angler-dangler.json) |
 | Angler King | 249778 | [249778-angler-king.json](./249778-angler-king.json) |
@@ -3635,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Complete Edition Year 3 | 146123 | [146123-anno-1800-complete-edition-year-3.json](./146123-anno-1800-complete-edition-year-3.json) |
 | Anno 1800: Cosmetic Pack Bundle | 227937 | [227937-anno-1800-cosmetic-pack-bundle.json](./227937-anno-1800-cosmetic-pack-bundle.json) |
 | Anno 1800: Docklands | 151113 | [151113-anno-1800-docklands.json](./151113-anno-1800-docklands.json) |
+| Anno 1800: Dragon Garden Pack | 232405 | [232405-anno-1800-dragon-garden-pack.json](./232405-anno-1800-dragon-garden-pack.json) |
 | Anno 1800: Efficiency Masters Bundle | 317368 | [317368-anno-1800-efficiency-masters-bundle.json](./317368-anno-1800-efficiency-masters-bundle.json) |
 | Anno 1800: Eldritch Pack | 274724 | [274724-anno-1800-eldritch-pack.json](./274724-anno-1800-eldritch-pack.json) |
 | Anno 1800: Empire of the Skies | 197350 | [197350-anno-1800-empire-of-the-skies.json](./197350-anno-1800-empire-of-the-skies.json) |
