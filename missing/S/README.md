@@ -4776,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelli Tower Defense | 101390 | [101390-skelli-tower-defense.json](./101390-skelli-tower-defense.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
 | Skelly Screamer | 351276 | [351276-skelly-screamer.json](./351276-skelly-screamer.json) |
+| Skelter+Heaven | 229003 | [229003-skelter-heaven.json](./229003-skelter-heaven.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
 | Sker Ritual: Draigs Terror | 332040 | [332040-sker-ritual-draigs-terror.json](./332040-sker-ritual-draigs-terror.json) |
@@ -11425,6 +11426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
 | Stunt Car Challenge 3 | 261845 | [261845-stunt-car-challenge-3.json](./261845-stunt-car-challenge-3.json) |
+| Stunt Copter | 229021 | [229021-stunt-copter.json](./229021-stunt-copter.json) |
 | Stunt Corgi | 76989 | [76989-stunt-corgi.json](./76989-stunt-corgi.json) |
 | Stunt Cycle | 18584 | [18584-stunt-cycle.json](./18584-stunt-cycle.json) |
 | Stunt Derby | 216863 | [216863-stunt-derby.json](./216863-stunt-derby.json) |
