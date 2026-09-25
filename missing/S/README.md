@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
 | Sailaway | 28200 | [28200-sailaway.json](./28200-sailaway.json) |
 | SailCraft | 233109 | [233109-sailcraft.json](./233109-sailcraft.json) |
+| SailCraft GO | 232388 | [232388-sailcraft-go.json](./232388-sailcraft-go.json) |
 | SailFront | 370886 | [370886-sailfront.json](./370886-sailfront.json) |
 | Sailing | 38928 | [38928-sailing.json](./38928-sailing.json) |
 | Sailing Alone: Aftermath | 312708 | [312708-sailing-alone-aftermath.json](./312708-sailing-alone-aftermath.json) |
@@ -11666,6 +11667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Original | 103458 | [103458-sudoku-original.json](./103458-sudoku-original.json) |
 | Sudoku Party | 326814 | [326814-sudoku-party.json](./326814-sudoku-party.json) |
 | Sudoku Party | 84915 | [84915-sudoku-party.json](./84915-sudoku-party.json) |
+| Sudoku Portal | 232380 | [232380-sudoku-portal.json](./232380-sudoku-portal.json) |
 | Sudoku Pro+ | 267454 | [267454-sudoku-pro.json](./267454-sudoku-pro.json) |
 | Sudoku Puzzle | 258466 | [258466-sudoku-puzzle.json](./258466-sudoku-puzzle.json) |
 | Sudoku Puzzle Blast | 208354 | [208354-sudoku-puzzle-blast.json](./208354-sudoku-puzzle-blast.json) |
@@ -13400,6 +13402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Anime Collector's Simulator | 345117 | [345117-supermarket-anime-collectors-simulator.json](./345117-supermarket-anime-collectors-simulator.json) |
 | Supermarket Bash | 296507 | [296507-supermarket-bash.json](./296507-supermarket-bash.json) |
 | Supermarket Billionaire | 359083 | [359083-supermarket-billionaire.json](./359083-supermarket-billionaire.json) |
+| Supermarket Cashier | 232375 | [232375-supermarket-cashier.json](./232375-supermarket-cashier.json) |
 | Supermarket CEO Simulator | 335949 | [335949-supermarket-ceo-simulator.json](./335949-supermarket-ceo-simulator.json) |
 | Supermarket CEO Simulator VR | 335950 | [335950-supermarket-ceo-simulator-vr.json](./335950-supermarket-ceo-simulator-vr.json) |
 | Supermarket Cola Dash Classic | 374666 | [374666-supermarket-cola-dash-classic.json](./374666-supermarket-cola-dash-classic.json) |
