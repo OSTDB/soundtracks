@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picopicotron | 402505 | [402505-picopicotron.json](./402505-picopicotron.json) |
 | PicoPlex | 178619 | [178619-picoplex.json](./178619-picoplex.json) |
 | PicoQuest: Darkness Rising | 183448 | [183448-picoquest-darkness-rising.json](./183448-picoquest-darkness-rising.json) |
+| Picoware | 279711 | [279711-picoware.json](./279711-picoware.json) |
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
@@ -5562,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pinball: Fantastic Journey | 43877 | [43877-pro-pinball-fantastic-journey.json](./43877-pro-pinball-fantastic-journey.json) |
 | Pro Pinball: Timeshock! | 12905 | [12905-pro-pinball-timeshock.json](./12905-pro-pinball-timeshock.json) |
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
+| Pro Power Boat | 279693 | [279693-pro-power-boat.json](./279693-pro-power-boat.json) |
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
 | Pro Series Drag Racing | 91081 | [91081-pro-series-drag-racing.json](./91081-pro-series-drag-racing.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
@@ -6464,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
+| Purah's Lab | 279688 | [279688-purahs-lab.json](./279688-purahs-lab.json) |
 | Purarger Collector!! | 384805 | [384805-purarger-collector.json](./384805-purarger-collector.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
 | Pure Blood | 310933 | [310933-pure-blood.json](./310933-pure-blood.json) |
@@ -6865,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pylon Town | 234192 | [234192-pylon-town.json](./234192-pylon-town.json) |
 | Pylon: Rogue | 27745 | [27745-pylon-rogue.json](./27745-pylon-rogue.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
+| Pyon-pyon Kyaruru no Mahjong-Biyori | 279678 | [279678-pyon-pyon-kyaruru-no-mahjong-biyori.json](./279678-pyon-pyon-kyaruru-no-mahjong-biyori.json) |
 | Pyongyang Racer | 64090 | [64090-pyongyang-racer.json](./64090-pyongyang-racer.json) |
 | Pyoro 64 | 142231 | [142231-pyoro-64.json](./142231-pyoro-64.json) |
 | Pyramania | 379901 | [379901-pyramania.json](./379901-pyramania.json) |
