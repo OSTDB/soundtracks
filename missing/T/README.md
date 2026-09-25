@@ -2686,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bridge Curse: Road to Salvation | 193312 | [193312-the-bridge-curse-road-to-salvation.json](./193312-the-bridge-curse-road-to-salvation.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Brimstone Project: Odyssey Live | 279715 | [279715-the-brimstone-project-odyssey-live.json](./279715-the-brimstone-project-odyssey-live.json) |
+| The Brittle Epoch | 261751 | [261751-the-brittle-epoch.json](./261751-the-brittle-epoch.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Brotherhood of Ruin | 142277 | [142277-the-brotherhood-of-ruin.json](./142277-the-brotherhood-of-ruin.json) |
 | The Brothers Hotel | 333084 | [333084-the-brothers-hotel.json](./333084-the-brothers-hotel.json) |
