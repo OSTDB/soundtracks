@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
 | Ballshit | 373219 | [373219-ballshit.json](./373219-ballshit.json) |
+| Ballsvoid | 242492 | [242492-ballsvoid.json](./242492-ballsvoid.json) |
 | Bally Fears: The Introduction Game | 317403 | [317403-bally-fears-the-introduction-game.json](./317403-bally-fears-the-introduction-game.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
 | Bally Jump | 293174 | [293174-bally-jump.json](./293174-bally-jump.json) |
@@ -3356,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bits on the Fritz | 96782 | [96782-bits-on-the-fritz.json](./96782-bits-on-the-fritz.json) |
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
+| Bitsy | 242508 | [242508-bitsy.json](./242508-bitsy.json) |
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
 | Bitten | 319756 | [319756-bitten.json](./319756-bitten.json) |
 | Bitten! | 146235 | [146235-bitten.json](./146235-bitten.json) |
@@ -3962,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg: Complete Collection | 52652 | [52652-blitzkrieg-complete-collection.json](./52652-blitzkrieg-complete-collection.json) |
 | Blitzkrieg: Iron Division | 11264 | [11264-blitzkrieg-iron-division.json](./11264-blitzkrieg-iron-division.json) |
 | Blitzkrieg: Rolling Thunder | 11263 | [11263-blitzkrieg-rolling-thunder.json](./11263-blitzkrieg-rolling-thunder.json) |
+| Blitzkrieg: Toubu Sensen 1941-45 | 242517 | [242517-blitzkrieg-toubu-sensen-1941-45.json](./242517-blitzkrieg-toubu-sensen-1941-45.json) |
 | BlitzPunch | 188123 | [188123-blitzpunch.json](./188123-blitzpunch.json) |
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
@@ -5562,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Exercises With Dr. Kawashima | 20278 | [20278-brain-exercises-with-dr-kawashima.json](./20278-brain-exercises-with-dr-kawashima.json) |
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain Hack Squad | 350026 | [350026-brain-hack-squad.json](./350026-brain-hack-squad.json) |
+| Brain Hole Girls | 242488 | [242488-brain-hole-girls.json](./242488-brain-hole-girls.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
 | Brain Memory Training Academy | 283727 | [283727-brain-memory-training-academy.json](./283727-brain-memory-training-academy.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
