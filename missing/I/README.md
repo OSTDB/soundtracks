@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D: Perfect Shift Online | 85193 | [85193-initial-d-perfect-shift-online.json](./85193-initial-d-perfect-shift-online.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
 | Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
+| Initial Drift Online: Car Pack | 243067 | [243067-initial-drift-online-car-pack.json](./243067-initial-drift-online-car-pack.json) |
 | Initial Unity | 342282 | [342282-initial-unity.json](./342282-initial-unity.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
 | Injection π 23: No Name, No Number | 121486 | [121486-injection-23-no-name-no-number.json](./121486-injection-23-no-name-no-number.json) |
