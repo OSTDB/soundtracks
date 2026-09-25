@@ -3720,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear the Lot | 224082 | [224082-clear-the-lot.json](./224082-clear-the-lot.json) |
 | Clear Vision 2 HD | 388410 | [388410-clear-vision-2-hd.json](./388410-clear-vision-2-hd.json) |
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
+| Clear Vision Elite | 272793 | [272793-clear-vision-elite.json](./272793-clear-vision-elite.json) |
 | Clearing Blade | 326248 | [326248-clearing-blade.json](./326248-clearing-blade.json) |
 | Cleaving Caliber EX | 362435 | [362435-cleaving-caliber-ex.json](./362435-cleaving-caliber-ex.json) |
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
