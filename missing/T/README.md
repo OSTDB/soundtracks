@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Tale of Wuxia | 90481 | [90481-tale-of-wuxia.json](./90481-tale-of-wuxia.json) |
 | Talebuilder | 382305 | [382305-talebuilder.json](./382305-talebuilder.json) |
+| Talented | 260636 | [260636-talented.json](./260636-talented.json) |
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
 | Tales AFar | 233497 | [233497-tales-afar.json](./233497-tales-afar.json) |
@@ -2416,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms Footage | 213973 | [213973-the-backrooms-footage.json](./213973-the-backrooms-footage.json) |
 | The Backrooms Game | 130726 | [130726-the-backrooms-game.json](./130726-the-backrooms-game.json) |
 | The Backrooms Origins | 253380 | [253380-the-backrooms-origins.json](./253380-the-backrooms-origins.json) |
+| The Backrooms Project | 260640 | [260640-the-backrooms-project.json](./260640-the-backrooms-project.json) |
 | The Backrooms Simulator | 121032 | [121032-the-backrooms-simulator.json](./121032-the-backrooms-simulator.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
 | The Backrooms: Escape | 272252 | [272252-the-backrooms-escape.json](./272252-the-backrooms-escape.json) |
@@ -2875,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The City Must Grow | 180243 | [180243-the-city-must-grow.json](./180243-the-city-must-grow.json) |
+| The City of Fury | 260642 | [260642-the-city-of-fury.json](./260642-the-city-of-fury.json) |
 | The City of Lost Children | 20001 | [20001-the-city-of-lost-children.json](./20001-the-city-of-lost-children.json) |
 | The City of Metronome | 73015 | [73015-the-city-of-metronome.json](./73015-the-city-of-metronome.json) |
 | The City of the Damned | 141239 | [141239-the-city-of-the-damned.json](./141239-the-city-of-the-damned.json) |
@@ -4227,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead: Scarlet Dawn | 82081 | [82081-the-house-of-the-dead-scarlet-dawn.json](./82081-the-house-of-the-dead-scarlet-dawn.json) |
 | The House of the Living | 129602 | [129602-the-house-of-the-living.json](./129602-the-house-of-the-living.json) |
 | The house of the missing hands | 287763 | [287763-the-house-of-the-missing-hands.json](./287763-the-house-of-the-missing-hands.json) |
+| The House on Ninth Avenue | 260625 | [260625-the-house-on-ninth-avenue.json](./260625-the-house-on-ninth-avenue.json) |
 | The House on the Hill | 387555 | [387555-the-house-on-the-hill.json](./387555-the-house-on-the-hill.json) |
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
 | The House Unrest | 392166 | [392166-the-house-unrest.json](./392166-the-house-unrest.json) |
@@ -7155,6 +7159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
+| The Umbrella Ninja | 260734 | [260734-the-umbrella-ninja.json](./260734-the-umbrella-ninja.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
 | The Unbreakable Chain | 62967 | [62967-the-unbreakable-chain.json](./62967-the-unbreakable-chain.json) |
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
@@ -12687,6 +12692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Neons One Brain | 262359 | [262359-two-neons-one-brain.json](./262359-two-neons-one-brain.json) |
 | Two Peas in a pod | 183055 | [183055-two-peas-in-a-pod.json](./183055-two-peas-in-a-pod.json) |
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
+| Two Point Campus: Medical School | 260716 | [260716-two-point-campus-medical-school.json](./260716-two-point-campus-medical-school.json) |
 | Two Point Hospital and Two Point Campus Double Pack | 223155 | [223155-two-point-hospital-and-two-point-campus-double-pack.json](./223155-two-point-hospital-and-two-point-campus-double-pack.json) |
 | Two Point Hospital: A Stitch in Time | 144911 | [144911-two-point-hospital-a-stitch-in-time.json](./144911-two-point-hospital-a-stitch-in-time.json) |
 | Two Point Hospital: Bigfoot | 144913 | [144913-two-point-hospital-bigfoot.json](./144913-two-point-hospital-bigfoot.json) |
