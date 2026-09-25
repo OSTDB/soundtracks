@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Men | 8623 | [8623-a-men.json](./8623-a-men.json) |
 | A-Rank Thunder Tanjouhen | 5355 | [5355-a-rank-thunder-tanjouhen.json](./5355-a-rank-thunder-tanjouhen.json) |
 | A-Red Walking Robot | 276712 | [276712-a-red-walking-robot.json](./276712-a-red-walking-robot.json) |
+| A-Ressha de Ikou | 272827 | [272827-a-ressha-de-ikou.json](./272827-a-ressha-de-ikou.json) |
 | A-Ressha de Ikou 4 | 98268 | [98268-a-ressha-de-ikou-4.json](./98268-a-ressha-de-ikou-4.json) |
 | A-Ressha de Ikou DS | 98272 | [98272-a-ressha-de-ikou-ds.json](./98272-a-ressha-de-ikou-ds.json) |
 | A-Ressha de Ikou: The 21st Century | 9999 | [9999-a-ressha-de-ikou-the-21st-century.json](./9999-a-ressha-de-ikou-the-21st-century.json) |
@@ -508,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
 | Abandoned: Chestnut Lodge Asylum | 34552 | [34552-abandoned-chestnut-lodge-asylum.json](./34552-abandoned-chestnut-lodge-asylum.json) |
+| Abandoned: Discovery Island | 272811 | [272811-abandoned-discovery-island.json](./272811-abandoned-discovery-island.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
@@ -4037,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
 | Aquasquad | 293246 | [293246-aquasquad.json](./293246-aquasquad.json) |
+| Aquatia | 272791 | [272791-aquatia.json](./272791-aquatia.json) |
 | Aquatic Adventure | 292015 | [292015-aquatic-adventure.json](./292015-aquatic-adventure.json) |
 | Aquatic life adventure | 112112 | [112112-aquatic-life-adventure.json](./112112-aquatic-life-adventure.json) |
 | Aquatic Pursuits Bundle | 271826 | [271826-aquatic-pursuits-bundle.json](./271826-aquatic-pursuits-bundle.json) |
@@ -4365,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Drifter | 324301 | [324301-arcane-drifter.json](./324301-arcane-drifter.json) |
 | Arcane Eats | 348268 | [348268-arcane-eats.json](./348268-arcane-eats.json) |
 | Arcane Fate | 224099 | [224099-arcane-fate.json](./224099-arcane-fate.json) |
+| Arcane Fighters | 272790 | [272790-arcane-fighters.json](./272790-arcane-fighters.json) |
 | Arcane Maelstrom | 29765 | [29765-arcane-maelstrom.json](./29765-arcane-maelstrom.json) |
 | Arcane Mayhem | 388424 | [388424-arcane-mayhem.json](./388424-arcane-mayhem.json) |
 | Arcane Overdrive | 370895 | [370895-arcane-overdrive.json](./370895-arcane-overdrive.json) |
@@ -4399,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanion: Tale of Magi | 149026 | [149026-arcanion-tale-of-magi.json](./149026-arcanion-tale-of-magi.json) |
 | Arcanist Revival | 110181 | [110181-arcanist-revival.json](./110181-arcanist-revival.json) |
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
+| Arcanora | 272789 | [272789-arcanora.json](./272789-arcanora.json) |
 | Arcanorum 231 | 359601 | [359601-arcanorum-231.json](./359601-arcanorum-231.json) |
 | Arcany | 375981 | [375981-arcany.json](./375981-arcany.json) |
 | ArcaPinball: NeoWorlds | 146892 | [146892-arcapinball-neoworlds.json](./146892-arcapinball-neoworlds.json) |
@@ -4452,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
 | Archery Physics Objects Destruction Apple shooter | 100824 | [100824-archery-physics-objects-destruction-apple-shooter.json](./100824-archery-physics-objects-destruction-apple-shooter.json) |
 | Archery Pro | 311606 | [311606-archery-pro.json](./311606-archery-pro.json) |
+| Archery Showdown | 272788 | [272788-archery-showdown.json](./272788-archery-showdown.json) |
 | Archery Simulator | 217379 | [217379-archery-simulator.json](./217379-archery-simulator.json) |
 | Archery Simulator | 332264 | [332264-archery-simulator.json](./332264-archery-simulator.json) |
 | Archery Star | 106630 | [106630-archery-star.json](./106630-archery-star.json) |
