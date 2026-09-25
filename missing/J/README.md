@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeff's No. 1 Bass Fishing | 215763 | [215763-jeffs-no-1-bass-fishing.json](./215763-jeffs-no-1-bass-fishing.json) |
 | JEFN | 256529 | [256529-jefn.json](./256529-jefn.json) |
 | Jeklynn Heights | 30247 | [30247-jeklynn-heights.json](./30247-jeklynn-heights.json) |
+| Jekyll Hakase no Houma ga Toki | 275067 | [275067-jekyll-hakase-no-houma-ga-toki.json](./275067-jekyll-hakase-no-houma-ga-toki.json) |
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
 | Jeller Fellers | 337654 | [337654-jeller-fellers.json](./337654-jeller-fellers.json) |
 | Jellies of the Deep | 309895 | [309895-jellies-of-the-deep.json](./309895-jellies-of-the-deep.json) |
