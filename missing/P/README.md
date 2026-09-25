@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Simulator | 199591 | [199591-paranormal-simulator.json](./199591-paranormal-simulator.json) |
 | Paranormal Snap Shot | 323928 | [323928-paranormal-snap-shot.json](./323928-paranormal-snap-shot.json) |
 | Paranormal Syndrome 3 | 151527 | [151527-paranormal-syndrome-3.json](./151527-paranormal-syndrome-3.json) |
+| Paranormal Syndrome: R Dolls Edition | 261219 | [261219-paranormal-syndrome-r-dolls-edition.json](./261219-paranormal-syndrome-r-dolls-edition.json) |
 | Paranormal Territory 2 | 91974 | [91974-paranormal-territory-2.json](./91974-paranormal-territory-2.json) |
 | Paranormal Torment | 345546 | [345546-paranormal-torment.json](./345546-paranormal-torment.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
@@ -4597,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Friends: Mini Breeds Edition | 68937 | [68937-pony-friends-mini-breeds-edition.json](./68937-pony-friends-mini-breeds-edition.json) |
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
 | Pony Luv | 72968 | [72968-pony-luv.json](./72968-pony-luv.json) |
+| Pony Metal U-Gaim | 261298 | [261298-pony-metal-u-gaim.json](./261298-pony-metal-u-gaim.json) |
 | Pony Ride with Obstacles | 378409 | [378409-pony-ride-with-obstacles.json](./378409-pony-ride-with-obstacles.json) |
 | Pony Run: Magic Trails | 378408 | [378408-pony-run-magic-trails.json](./378408-pony-run-magic-trails.json) |
 | Pony Sisters Baby Horse Care | 108261 | [108261-pony-sisters-baby-horse-care.json](./108261-pony-sisters-baby-horse-care.json) |
@@ -6676,6 +6678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushmo World | 19925 | [19925-pushmo-world.json](./19925-pushmo-world.json) |
 | Pushover | 11627 | [11627-pushover.json](./11627-pushover.json) |
 | PushOver | 267436 | [267436-pushover.json](./267436-pushover.json) |
+| Pushpully | 261222 | [261222-pushpully.json](./261222-pushpully.json) |
 | Pusoy Go | 386225 | [386225-pusoy-go.json](./386225-pusoy-go.json) |
 | Puss in Book: Trapped in an Epic Tale | 256844 | [256844-puss-in-book-trapped-in-an-epic-tale.json](./256844-puss-in-book-trapped-in-an-epic-tale.json) |
 | Puss In Boots | 192927 | [192927-puss-in-boots.json](./192927-puss-in-boots.json) |
