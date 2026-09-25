@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Cruel World | 272839 | [272839-hello-cruel-world.json](./272839-hello-cruel-world.json) |
 | Hello Duck | 408154 | [408154-hello-duck.json](./408154-hello-duck.json) |
 | Hello Emoji: Drawing to Solve Puzzles | 229798 | [229798-hello-emoji-drawing-to-solve-puzzles.json](./229798-hello-emoji-drawing-to-solve-puzzles.json) |
+| Hello Girl | 257343 | [257343-hello-girl.json](./257343-hello-girl.json) |
 | Hello Ground | 185016 | [185016-hello-ground.json](./185016-hello-ground.json) |
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
