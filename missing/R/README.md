@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption: Eternal Quest | 34754 | [34754-redemption-eternal-quest.json](./34754-redemption-eternal-quest.json) |
 | Redemption: Liar | 65221 | [65221-redemption-liar.json](./65221-redemption-liar.json) |
 | Redemption: Wrath of Sin | 265568 | [265568-redemption-wrath-of-sin.json](./265568-redemption-wrath-of-sin.json) |
+| Redemption? | 265110 | [265110-redemption.json](./265110-redemption.json) |
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
 | Redfir Hills | 304116 | [304116-redfir-hills.json](./304116-redfir-hills.json) |
@@ -3469,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboSk8r | 180687 | [180687-robosk8r.json](./180687-robosk8r.json) |
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
 | Robosnow | 166630 | [166630-robosnow.json](./166630-robosnow.json) |
+| Robospital | 265096 | [265096-robospital.json](./265096-robospital.json) |
 | RoboSport | 73231 | [73231-robosport.json](./73231-robosport.json) |
 | RoboSquad Revolution: Maverick Supporter Pack | 298183 | [298183-robosquad-revolution-maverick-supporter-pack.json](./298183-robosquad-revolution-maverick-supporter-pack.json) |
 | RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
@@ -3776,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
 | Rocky Towers: Puzzle Defense | 237378 | [237378-rocky-towers-puzzle-defense.json](./237378-rocky-towers-puzzle-defense.json) |
+| Rocky Wings | 265184 | [265184-rocky-wings.json](./265184-rocky-wings.json) |
 | Rocky's Boots | 72978 | [72978-rockys-boots.json](./72978-rockys-boots.json) |
 | Roco Kingdom | 395852 | [395852-roco-kingdom.json](./395852-roco-kingdom.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
@@ -4054,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
 | Romace | 297572 | [297572-romace.json](./297572-romace.json) |
 | Roman City Tycoon | 300834 | [300834-roman-city-tycoon.json](./300834-roman-city-tycoon.json) |
+| Roman Empire Simulator | 265201 | [265201-roman-empire-simulator.json](./265201-roman-empire-simulator.json) |
 | Roman Empire vs. Barbarians | 235734 | [235734-roman-empire-vs-barbarians.json](./235734-roman-empire-vs-barbarians.json) |
 | Roman Empire Wars | 158644 | [158644-roman-empire-wars.json](./158644-roman-empire-wars.json) |
 | Roman Rumble | 374815 | [374815-roman-rumble.json](./374815-roman-rumble.json) |
