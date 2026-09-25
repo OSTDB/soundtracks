@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingun Forever! | 320298 | [320298-fingun-forever.json](./320298-fingun-forever.json) |
 | Finis | 213013 | [213013-finis.json](./213013-finis.json) |
 | Finis Actus | 389730 | [389730-finis-actus.json](./389730-finis-actus.json) |
+| Finished! | 249765 | [249765-finished.json](./249765-finished.json) |
 | Finite Jest | 415925 | [415925-finite-jest.json](./415925-finite-jest.json) |
 | Finity | 322936 | [322936-finity.json](./322936-finity.json) |
 | Finkles World | 66947 | [66947-finkles-world.json](./66947-finkles-world.json) |
