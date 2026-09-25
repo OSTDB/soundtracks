@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 3: The Battlefront Pack | 332561 | [332561-halo-3-the-battlefront-pack.json](./332561-halo-3-the-battlefront-pack.json) |
 | Halo 4: King of the Hill Fueled by Mountain Dew | 77343 | [77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json](./77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json) |
 | Halo Beats! | 129018 | [129018-halo-beats.json](./129018-halo-beats.json) |
+| Halo CE+ | 276775 | [276775-halo-ce.json](./276775-halo-ce.json) |
 | Halo Chaotic Edition | 271760 | [271760-halo-chaotic-edition.json](./271760-halo-chaotic-edition.json) |
 | Halo Infinite: Operation - Champions | 335851 | [335851-halo-infinite-operation-champions.json](./335851-halo-infinite-operation-champions.json) |
 | Halo Infinite: Operation - Great Journey | 335849 | [335849-halo-infinite-operation-great-journey.json](./335849-halo-infinite-operation-great-journey.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hozy | 345443 | [345443-hozy.json](./345443-hozy.json) |
 | HPL: Nyarlathotep Rising | 258223 | [258223-hpl-nyarlathotep-rising.json](./258223-hpl-nyarlathotep-rising.json) |
 | HPRZ: The Syndrome | 149551 | [149551-hprz-the-syndrome.json](./149551-hprz-the-syndrome.json) |
+| HPS1 Sports | 276756 | [276756-hps1-sports.json](./276756-hps1-sports.json) |
 | HQ Trivia | 214770 | [214770-hq-trivia.json](./214770-hq-trivia.json) |
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
 | HR: Human Remains | 347337 | [347337-hr-human-remains.json](./347337-hr-human-remains.json) |
