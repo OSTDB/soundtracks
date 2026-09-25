@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Universe Online: Episode 21 - Prison Break and The First Piece | 271167 | [271167-dc-universe-online-episode-21-prison-break-and-the-first-piece.json](./271167-dc-universe-online-episode-21-prison-break-and-the-first-piece.json) |
 | DC Universe Online: Episode 22 - Science Spire and The Phantom Zone | 271168 | [271168-dc-universe-online-episode-22-science-spire-and-the-phantom-zone.json](./271168-dc-universe-online-episode-22-science-spire-and-the-phantom-zone.json) |
 | DC Universe Online: Episode 23 - The Will of Darkseid and Brainiac's Bottle Ship | 271169 | [271169-dc-universe-online-episode-23-the-will-of-darkseid-and-brainiacs-bottle-ship.json](./271169-dc-universe-online-episode-23-the-will-of-darkseid-and-brainiacs-bottle-ship.json) |
+| DC Universe Online: Episode 45 - Shock to the System | 248600 | [248600-dc-universe-online-episode-45-shock-to-the-system.json](./248600-dc-universe-online-episode-45-shock-to-the-system.json) |
 | DC Wonder: Unlimited | 43496 | [43496-dc-wonder-unlimited.json](./43496-dc-wonder-unlimited.json) |
 | DC's Justice League: Cosmic Chaos | 228740 | [228740-dcs-justice-league-cosmic-chaos.json](./228740-dcs-justice-league-cosmic-chaos.json) |
 | DC3: Viral Menace | 244360 | [244360-dc3-viral-menace.json](./244360-dc3-viral-menace.json) |
@@ -3854,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Sing It: High School Musical 3 - Senior Year | 60243 | [60243-disney-sing-it-high-school-musical-3-senior-year.json](./60243-disney-sing-it-high-school-musical-3-senior-year.json) |
 | Disney Sorcerer's Arena | 124644 | [124644-disney-sorcerers-arena.json](./124644-disney-sorcerers-arena.json) |
 | Disney Speedstorm: Special Pack | 374697 | [374697-disney-speedstorm-special-pack.json](./374697-disney-speedstorm-special-pack.json) |
+| Disney SpellStruck | 248583 | [248583-disney-spellstruck.json](./248583-disney-spellstruck.json) |
 | Disney Sports Bowling | 243816 | [243816-disney-sports-bowling.json](./243816-disney-sports-bowling.json) |
 | Disney Sports Motocross | 49305 | [49305-disney-sports-motocross.json](./49305-disney-sports-motocross.json) |
 | Disney Sports Tennis | 243812 | [243812-disney-sports-tennis.json](./243812-disney-sports-tennis.json) |
@@ -3877,6 +3879,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Animated Storybook: The Lion King | 214616 | [214616-disneys-animated-storybook-the-lion-king.json](./214616-disneys-animated-storybook-the-lion-king.json) |
 | Disney's Animated Storybook: Toy Story | 239203 | [239203-disneys-animated-storybook-toy-story.json](./239203-disneys-animated-storybook-toy-story.json) |
 | Disney's Arcade Frenzy | 120809 | [120809-disneys-arcade-frenzy.json](./120809-disneys-arcade-frenzy.json) |
+| Disney's Atlantis: The Lost Empire | 248624 | [248624-disneys-atlantis-the-lost-empire.json](./248624-disneys-atlantis-the-lost-empire.json) |
+| Disney's Atlantis: The Lost Empire | 248625 | [248625-disneys-atlantis-the-lost-empire.json](./248625-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire | 9056 | [9056-disneys-atlantis-the-lost-empire.json](./9056-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
 | Disney's Beauty and the Beast: Magical Ballroom | 57919 | [57919-disneys-beauty-and-the-beast-magical-ballroom.json](./57919-disneys-beauty-and-the-beast-magical-ballroom.json) |
