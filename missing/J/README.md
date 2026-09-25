@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese School Life | 26136 | [26136-japanese-school-life.json](./26136-japanese-school-life.json) |
 | Japaritale | 313292 | [313292-japaritale.json](./313292-japaritale.json) |
 | Japocaliptyca | 120358 | [120358-japocaliptyca.json](./120358-japocaliptyca.json) |
+| JAPP: Just Another Precise Platformer | 268984 | [268984-japp-just-another-precise-platformer.json](./268984-japp-just-another-precise-platformer.json) |
 | Jaques Roque | 35888 | [35888-jaques-roque.json](./35888-jaques-roque.json) |
 | Jar | 340768 | [340768-jar.json](./340768-jar.json) |
 | Jar Head Cauldron | 333633 | [333633-jar-head-cauldron.json](./333633-jar-head-cauldron.json) |
@@ -803,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
 | JK Resistance: Dark Side | 82781 | [82781-jk-resistance-dark-side.json](./82781-jk-resistance-dark-side.json) |
+| JKEnterprises | 268983 | [268983-jkenterprises.json](./268983-jkenterprises.json) |
 | JKRobots | 403045 | [403045-jkrobots.json](./403045-jkrobots.json) |
 | JM Neto Game Dev 06 Games | 332029 | [332029-jm-neto-game-dev-06-games.json](./332029-jm-neto-game-dev-06-games.json) |
 | JMPR | 164969 | [164969-jmpr.json](./164969-jmpr.json) |
@@ -1416,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just a Little Longer | 406317 | [406317-just-a-little-longer.json](./406317-just-a-little-longer.json) |
 | Just a Little Purr Suit | 326228 | [326228-just-a-little-purr-suit.json](./326228-just-a-little-purr-suit.json) |
 | Just a Lullaby | 305522 | [305522-just-a-lullaby.json](./305522-just-a-lullaby.json) |
+| Just A Mapset | 268974 | [268974-just-a-mapset.json](./268974-just-a-mapset.json) |
 | Just A Walk In The Park | 253927 | [253927-just-a-walk-in-the-park.json](./253927-just-a-walk-in-the-park.json) |
 | Just Act Natural: Museum | 295388 | [295388-just-act-natural-museum.json](./295388-just-act-natural-museum.json) |
 | Just Alone | 34799 | [34799-just-alone.json](./34799-just-alone.json) |
