@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match App! | 347340 | [347340-match-app.json](./347340-match-app.json) |
 | Match Day & International Match Day | 403172 | [403172-match-day-and-international-match-day.json](./403172-match-day-and-international-match-day.json) |
 | Match Gems Evolved | 101969 | [101969-match-gems-evolved.json](./101969-match-gems-evolved.json) |
+| Match Hit: Puzzle Fighter | 273884 | [273884-match-hit-puzzle-fighter.json](./273884-match-hit-puzzle-fighter.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
 | Match It | 402993 | [402993-match-it.json](./402993-match-it.json) |
 | Match It Fast | 104091 | [104091-match-it-fast.json](./104091-match-it-fast.json) |
@@ -4384,6 +4385,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium 2: Take Me Higher | 8179 | [8179-millennium-2-take-me-higher.json](./8179-millennium-2-take-me-higher.json) |
 | Millennium 3: Cry Wolf | 8180 | [8180-millennium-3-cry-wolf.json](./8180-millennium-3-cry-wolf.json) |
 | Millennium 5: The Battle of the Millennium | 8176 | [8176-millennium-5-the-battle-of-the-millennium.json](./8176-millennium-5-the-battle-of-the-millennium.json) |
+| Millennium GamePak Gold | 273905 | [273905-millennium-gamepak-gold.json](./273905-millennium-gamepak-gold.json) |
+| Millennium Gamepak Platinum | 273906 | [273906-millennium-gamepak-platinum.json](./273906-millennium-gamepak-platinum.json) |
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Millennium Racer: Y2K Fighters | 79897 | [79897-millennium-racer-y2k-fighters.json](./79897-millennium-racer-y2k-fighters.json) |
 | Millennium Runners | 336121 | [336121-millennium-runners.json](./336121-millennium-runners.json) |
