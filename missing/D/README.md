@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's World | 39634 | [39634-demons-world.json](./39634-demons-world.json) |
 | Demon&Fairy | 75521 | [75521-demon-and-fairy.json](./75521-demon-and-fairy.json) |
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
+| DemonCountdown | 272250 | [272250-demoncountdown.json](./272250-demoncountdown.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
 | Demoniac TV | 291524 | [291524-demoniac-tv.json](./291524-demoniac-tv.json) |
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
@@ -3861,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorderly | 356625 | [356625-disorderly.json](./356625-disorderly.json) |
 | Disoriented | 76212 | [76212-disoriented.json](./76212-disoriented.json) |
 | Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
+| Dispel | 272251 | [272251-dispel.json](./272251-dispel.json) |
 | Dispersio | 26489 | [26489-dispersio.json](./26489-dispersio.json) |
 | Dispersio 2 | 143652 | [143652-dispersio-2.json](./143652-dispersio-2.json) |
 | Dispersion Storm | 399835 | [399835-dispersion-storm.json](./399835-dispersion-storm.json) |
@@ -5614,6 +5616,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Hope | 113740 | [113740-dragons-hope.json](./113740-dragons-hope.json) |
 | Dragon's Lair | 272020 | [272020-dragons-lair.json](./272020-dragons-lair.json) |
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
+| Dragon's Lair | 272319 | [272319-dragons-lair.json](./272319-dragons-lair.json) |
+| Dragon's Lair | 272320 | [272320-dragons-lair.json](./272320-dragons-lair.json) |
 | Dragon's Lair HD | 100618 | [100618-dragons-lair-hd.json](./100618-dragons-lair-hd.json) |
 | Dragon's Lair II: Time Warp | 323845 | [323845-dragons-lair-ii-time-warp.json](./323845-dragons-lair-ii-time-warp.json) |
 | Dragon's Lair Trilogy | 50593 | [50593-dragons-lair-trilogy.json](./50593-dragons-lair-trilogy.json) |
@@ -6376,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
+| Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
 | Dubbed | 416687 | [416687-dubbed.json](./416687-dubbed.json) |
 | Dubbing Time | 156623 | [156623-dubbing-time.json](./156623-dubbing-time.json) |
 | Dubium | 182352 | [182352-dubium.json](./182352-dubium.json) |
@@ -6463,6 +6468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Masters: Kaijudo Showdown | 24257 | [24257-duel-masters-kaijudo-showdown.json](./24257-duel-masters-kaijudo-showdown.json) |
 | Duel Masters: Shadow of the Code | 49402 | [49402-duel-masters-shadow-of-the-code.json](./49402-duel-masters-shadow-of-the-code.json) |
 | Duel of games | 292581 | [292581-duel-of-games.json](./292581-duel-of-games.json) |
+| Duel of Honor | 272239 | [272239-duel-of-honor.json](./272239-duel-of-honor.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
