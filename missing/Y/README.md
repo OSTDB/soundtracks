@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Moon | 183511 | [183511-yokai-moon.json](./183511-yokai-moon.json) |
 | Yokai Rescue | 309868 | [309868-yokai-rescue.json](./309868-yokai-rescue.json) |
 | Yokai Tamer | 193936 | [193936-yokai-tamer.json](./193936-yokai-tamer.json) |
+| Yokai Watch Go | 231875 | [231875-yokai-watch-go.json](./231875-yokai-watch-go.json) |
 | Yokai's Secret | 138265 | [138265-yokais-secret.json](./138265-yokais-secret.json) |
 | Yokai's Wish | 220732 | [220732-yokais-wish.json](./220732-yokais-wish.json) |
 | Yokaiware | 186313 | [186313-yokaiware.json](./186313-yokaiware.json) |
@@ -384,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are Dough | 243643 | [243643-you-are-dough.json](./243643-you-are-dough.json) |
 | You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
 | You Are Here | 114169 | [114169-you-are-here.json](./114169-you-are-here.json) |
+| You Are Mine2 Otome Love Story | 231876 | [231876-you-are-mine2-otome-love-story.json](./231876-you-are-mine2-otome-love-story.json) |
 | YOU ARE MY HOME | 300762 | [300762-you-are-my-home.json](./300762-you-are-my-home.json) |
 | You Are Not A Banana | 36016 | [36016-you-are-not-a-banana.json](./36016-you-are-not-a-banana.json) |
 | You Are Not Alice | 343866 | [343866-you-are-not-alice.json](./343866-you-are-not-alice.json) |
