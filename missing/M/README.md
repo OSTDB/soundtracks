@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana Valley | 211189 | [211189-mana-valley.json](./211189-mana-valley.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
+| Manafall | 244186 | [244186-manafall.json](./244186-manafall.json) |
 | Manaforge | 129730 | [129730-manaforge.json](./129730-manaforge.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
@@ -3519,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowdoku | 409811 | [409811-meowdoku.json](./409811-meowdoku.json) |
 | Meower's Quest: Jasper's Tale | 104025 | [104025-meowers-quest-jaspers-tale.json](./104025-meowers-quest-jaspers-tale.json) |
 | MeowFactory | 403691 | [403691-meowfactory.json](./403691-meowfactory.json) |
+| MeowGun: Hell Denizen | 244190 | [244190-meowgun-hell-denizen.json](./244190-meowgun-hell-denizen.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | Meowk and Frocco | 118799 | [118799-meowk-and-frocco.json](./118799-meowk-and-frocco.json) |
 | MeowMatch | 283724 | [283724-meowmatch.json](./283724-meowmatch.json) |
@@ -4317,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Wanderers: Quest for the Chariot | 361330 | [361330-midnight-wanderers-quest-for-the-chariot.json](./361330-midnight-wanderers-quest-for-the-chariot.json) |
 | Midnight Watcher: Village | 403685 | [403685-midnight-watcher-village.json](./403685-midnight-watcher-village.json) |
 | Midnight Wave | 109669 | [109669-midnight-wave.json](./109669-midnight-wave.json) |
+| Midnight Witch | 244228 | [244228-midnight-witch.json](./244228-midnight-witch.json) |
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
 | MidnightNears | 344342 | [344342-midnightnears.json](./344342-midnightnears.json) |
@@ -7738,6 +7741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Peppa Pig: Pirate Adventures | 195617 | [195617-my-friend-peppa-pig-pirate-adventures.json](./195617-my-friend-peppa-pig-pirate-adventures.json) |
 | My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
+| My Furry Girlfriend | 244196 | [244196-my-furry-girlfriend.json](./244196-my-furry-girlfriend.json) |
 | My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
 | My Furry Protogen: 18+ Adult Only Patch | 213447 | [213447-my-furry-protogen-18-adult-only-patch.json](./213447-my-furry-protogen-18-adult-only-patch.json) |
 | My Furry Succubus | 253899 | [253899-my-furry-succubus.json](./253899-my-furry-succubus.json) |
