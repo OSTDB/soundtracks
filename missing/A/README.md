@@ -2131,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Engine | 207897 | [207897-alien-engine.json](./207897-alien-engine.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
 | Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
+| Alien Flowers | 229642 | [229642-alien-flowers.json](./229642-alien-flowers.json) |
 | Alien Front Online | 3711 | [3711-alien-front-online.json](./3711-alien-front-online.json) |
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
 | Alien Fury | 337812 | [337812-alien-fury.json](./337812-alien-fury.json) |
@@ -2156,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Jihad | 92308 | [92308-alien-jihad.json](./92308-alien-jihad.json) |
 | Alien Lander | 282113 | [282113-alien-lander.json](./282113-alien-lander.json) |
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
+| Alien Makeout Simulator | 229625 | [229625-alien-makeout-simulator.json](./229625-alien-makeout-simulator.json) |
 | Alien Marauder | 163835 | [163835-alien-marauder.json](./163835-alien-marauder.json) |
 | Alien Mayhem | 76951 | [76951-alien-mayhem.json](./76951-alien-mayhem.json) |
 | Alien Monopoly | 122177 | [122177-alien-monopoly.json](./122177-alien-monopoly.json) |
@@ -3178,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And the Band Begins to Play | 144752 | [144752-and-the-band-begins-to-play.json](./144752-and-the-band-begins-to-play.json) |
 | And The World Went Dark | 334296 | [334296-and-the-world-went-dark.json](./334296-and-the-world-went-dark.json) |
 | And These Iron Limbs Exiled From Heaven | 278486 | [278486-and-these-iron-limbs-exiled-from-heaven.json](./278486-and-these-iron-limbs-exiled-from-heaven.json) |
+| And Yet It Hurt | 229628 | [229628-and-yet-it-hurt.json](./229628-and-yet-it-hurt.json) |
 | And Yet It Moves | 9772 | [9772-and-yet-it-moves.json](./9772-and-yet-it-moves.json) |
 | Anda | 266885 | [266885-anda.json](./266885-anda.json) |
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
