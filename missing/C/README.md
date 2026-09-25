@@ -2295,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
+| Chasm | 255661 | [255661-chasm.json](./255661-chasm.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
 | Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
@@ -3842,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
 | Cliffhanger | 5370 | [5370-cliffhanger.json](./5370-cliffhanger.json) |
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
+| Clifford the Big Red Dog: Learning Activities | 255656 | [255656-clifford-the-big-red-dog-learning-activities.json](./255656-clifford-the-big-red-dog-learning-activities.json) |
 | Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
 | Clim Snail | 379017 | [379017-clim-snail.json](./379017-clim-snail.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
@@ -5252,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Containment Zone | 235749 | [235749-containment-zone.json](./235749-containment-zone.json) |
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
 | Contender | 44853 | [44853-contender.json](./44853-contender.json) |
+| Contenders: Arena | 255684 | [255684-contenders-arena.json](./255684-contenders-arena.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
 | Continent of the Ninth Golden | 256337 | [256337-continent-of-the-ninth-golden.json](./256337-continent-of-the-ninth-golden.json) |
@@ -5470,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops N Robbers: Prison Games 2 | 400443 | [400443-cops-n-robbers-prison-games-2.json](./400443-cops-n-robbers-prison-games-2.json) |
 | Copter | 291600 | [291600-copter.json](./291600-copter.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
+| Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
 | CopyPasta with Cheese | 282094 | [282094-copypasta-with-cheese.json](./282094-copypasta-with-cheese.json) |
 | Coquette Dragoon: Volume One | 210093 | [210093-coquette-dragoon-volume-one.json](./210093-coquette-dragoon-volume-one.json) |
 | Cor Ex Machina | 63876 | [63876-cor-ex-machina.json](./63876-cor-ex-machina.json) |
