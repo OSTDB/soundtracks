@@ -7948,6 +7948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
 | Three Misses Confectionery | 398455 | [398455-three-misses-confectionery.json](./398455-three-misses-confectionery.json) |
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
+| Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
 | Three Skies Ascension | 318398 | [318398-three-skies-ascension.json](./318398-three-skies-ascension.json) |
 | Three Sons | 192968 | [192968-three-sons.json](./192968-three-sons.json) |
 | Three Treason Theories | 110787 | [110787-three-treason-theories.json](./110787-three-treason-theories.json) |
