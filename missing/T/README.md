@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
+| Tasokare Hotel Re:newal | 260090 | [260090-tasokare-hotel-re-newal.json](./260090-tasokare-hotel-re-newal.json) |
 | Tasokare Hotel: Tsubomi | 408273 | [408273-tasokare-hotel-tsubomi.json](./408273-tasokare-hotel-tsubomi.json) |
 | Tasomachi: Behind the Twilight | 121481 | [121481-tasomachi-behind-the-twilight.json](./121481-tasomachi-behind-the-twilight.json) |
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
@@ -5570,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Night of Fire Stealing | 106412 | [106412-the-night-of-fire-stealing.json](./106412-the-night-of-fire-stealing.json) |
 | The Night of the Rabbit | 3230 | [3230-the-night-of-the-rabbit.json](./3230-the-night-of-the-rabbit.json) |
+| The Night Owl Murder | 260086 | [260086-the-night-owl-murder.json](./260086-the-night-owl-murder.json) |
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
@@ -9396,6 +9398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaru Kagaku no Railgun | 12380 | [12380-toaru-kagaku-no-railgun.json](./12380-toaru-kagaku-no-railgun.json) |
 | Toaru Majutsu no Virtual-On | 55040 | [55040-toaru-majutsu-no-virtual-on.json](./55040-toaru-majutsu-no-virtual-on.json) |
 | Toast Ghost | 307739 | [307739-toast-ghost.json](./307739-toast-ghost.json) |
+| Toast Shooter | 260199 | [260199-toast-shooter.json](./260199-toast-shooter.json) |
 | Toast the Chicken: Hard Puzzle Game Unique Brain Teaser | 232534 | [232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json](./232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
@@ -9773,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomorrow Don't Come | 88255 | [88255-tomorrow-dont-come.json](./88255-tomorrow-dont-come.json) |
 | Tomorrow Don't Come: Vicious Cycle | 172124 | [172124-tomorrow-dont-come-vicious-cycle.json](./172124-tomorrow-dont-come-vicious-cycle.json) |
 | Tomorrow for Mar | 199608 | [199608-tomorrow-for-mar.json](./199608-tomorrow-for-mar.json) |
+| Tomorrow is my Birthday | 260088 | [260088-tomorrow-is-my-birthday.json](./260088-tomorrow-is-my-birthday.json) |
 | Tomorrow Won't Come For Those Without | 135658 | [135658-tomorrow-wont-come-for-those-without.json](./135658-tomorrow-wont-come-for-those-without.json) |
 | Tomorrow's Love Puzzle | 287722 | [287722-tomorrows-love-puzzle.json](./287722-tomorrows-love-puzzle.json) |
 | Tomorrowness | 377682 | [377682-tomorrowness.json](./377682-tomorrowness.json) |
