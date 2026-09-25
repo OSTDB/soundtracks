@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unakiri Action!: Kiritan-hou no Nazo | 204707 | [204707-unakiri-action-kiritan-hou-no-nazo.json](./204707-unakiri-action-kiritan-hou-no-nazo.json) |
 | Unaligned | 177480 | [177480-unaligned.json](./177480-unaligned.json) |
 | Unalive | 29969 | [29969-unalive.json](./29969-unalive.json) |
+| Unalive 010 | 247441 | [247441-unalive-010.json](./247441-unalive-010.json) |
 | Unanchored Spaceshooting | 390226 | [390226-unanchored-spaceshooting.json](./390226-unanchored-spaceshooting.json) |
 | Unanimy | 211756 | [211756-unanimy.json](./211756-unanimy.json) |
 | Unanswered | 401529 | [401529-unanswered.json](./401529-unanswered.json) |
