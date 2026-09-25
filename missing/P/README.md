@@ -408,6 +408,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pana der Hejhog | 270217 | [270217-pana-der-hejhog.json](./270217-pana-der-hejhog.json) |
 | Panacle: Back to Wild | 190177 | [190177-panacle-back-to-wild.json](./190177-panacle-back-to-wild.json) |
 | Panama Canal | 156143 | [156143-panama-canal.json](./156143-panama-canal.json) |
+| Pancake Bar Tycoon: Expansion Pack 1 | 237915 | [237915-pancake-bar-tycoon-expansion-pack-1.json](./237915-pancake-bar-tycoon-expansion-pack-1.json) |
+| Pancake Bar Tycoon: Expansion Pack 2 | 237916 | [237916-pancake-bar-tycoon-expansion-pack-2.json](./237916-pancake-bar-tycoon-expansion-pack-2.json) |
 | Pancake Bar Tycoon: Extended Edition | 207902 | [207902-pancake-bar-tycoon-extended-edition.json](./207902-pancake-bar-tycoon-extended-edition.json) |
 | Pancake House | 156698 | [156698-pancake-house.json](./156698-pancake-house.json) |
 | Panchito Chepas | 325639 | [325639-panchito-chepas.json](./325639-panchito-chepas.json) |
@@ -3308,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Eden Obscura | 140013 | [140013-pixeljunk-eden-obscura.json](./140013-pixeljunk-eden-obscura.json) |
 | PixelJunk Monsters 2 | 95386 | [95386-pixeljunk-monsters-2.json](./95386-pixeljunk-monsters-2.json) |
 | PixelJunk Monsters 2: Danganronpa Pack | 140017 | [140017-pixeljunk-monsters-2-danganronpa-pack.json](./140017-pixeljunk-monsters-2-danganronpa-pack.json) |
+| PixelJunk Monsters 2: Deluxe Edition | 237904 | [237904-pixeljunk-monsters-2-deluxe-edition.json](./237904-pixeljunk-monsters-2-deluxe-edition.json) |
 | PixelJunk Monsters 2: Encore Pack | 140016 | [140016-pixeljunk-monsters-2-encore-pack.json](./140016-pixeljunk-monsters-2-encore-pack.json) |
 | PixelJunk Monsters 2: Tiki Bundle | 237939 | [237939-pixeljunk-monsters-2-tiki-bundle.json](./237939-pixeljunk-monsters-2-tiki-bundle.json) |
 | PixelJunk Monsters 3 | 415151 | [415151-pixeljunk-monsters-3.json](./415151-pixeljunk-monsters-3.json) |
@@ -4443,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokini Kagura | 284896 | [284896-pokini-kagura.json](./284896-pokini-kagura.json) |
 | Pokipet | 250436 | [250436-pokipet.json](./250436-pokipet.json) |
 | Pokitaire | 158580 | [158580-pokitaire.json](./158580-pokitaire.json) |
+| Pokkén Tournament DX + Pokkén Tournament DX: Battle Pack | 237897 | [237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json](./237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json) |
 | Pokkén Tournament DX: Battle Pack | 237933 | [237933-pokken-tournament-dx-battle-pack.json](./237933-pokken-tournament-dx-battle-pack.json) |
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
