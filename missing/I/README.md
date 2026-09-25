@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus Online | 62770 | [62770-icarus-online.json](./62770-icarus-online.json) |
 | Icarus Proudbottom's World of Typing Weekly! | 61865 | [61865-icarus-proudbottoms-world-of-typing-weekly.json](./61865-icarus-proudbottoms-world-of-typing-weekly.json) |
 | Icarus: Alien Vanguard | 140513 | [140513-icarus-alien-vanguard.json](./140513-icarus-alien-vanguard.json) |
+| Icarus: Arcticus Outpost | 266826 | [266826-icarus-arcticus-outpost.json](./266826-icarus-arcticus-outpost.json) |
 | Icarus: Art Deco Furniture Pack | 276231 | [276231-icarus-art-deco-furniture-pack.json](./276231-icarus-art-deco-furniture-pack.json) |
 | Icarus: Cactus Outpost | 262455 | [262455-icarus-cactus-outpost.json](./262455-icarus-cactus-outpost.json) |
 | Icarus: Climb to Olympus | 329581 | [329581-icarus-climb-to-olympus.json](./329581-icarus-climb-to-olympus.json) |
@@ -1766,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insert Paper | 52052 | [52052-insert-paper.json](./52052-insert-paper.json) |
 | Insert Rich Family Name | 247601 | [247601-insert-rich-family-name.json](./247601-insert-rich-family-name.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
+| Inside | 266747 | [266747-inside.json](./266747-inside.json) |
 | Inside Intruder | 329564 | [329564-inside-intruder.json](./329564-inside-intruder.json) |
 | Inside Lacrosse's CL2010 | 91420 | [91420-inside-lacrosses-cl2010.json](./91420-inside-lacrosses-cl2010.json) |
 | Inside My Mind | 149090 | [149090-inside-my-mind.json](./149090-inside-my-mind.json) |
