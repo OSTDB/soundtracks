@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
 | Ultranium 5 | 99988 | [99988-ultranium-5.json](./99988-ultranium-5.json) |
 | UltraNothing | 277832 | [277832-ultranothing.json](./277832-ultranothing.json) |
+| Ultranova | 248025 | [248025-ultranova.json](./248025-ultranova.json) |
 | Ultrapool | 380523 | [380523-ultrapool.json](./380523-ultrapool.json) |
 | Ultrasecreto/Prólogo | 382239 | [382239-ultrasecreto-prologo.json](./382239-ultrasecreto-prologo.json) |
 | UltraStar WorldParty | 138582 | [138582-ultrastar-worldparty.json](./138582-ultrastar-worldparty.json) |
@@ -819,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unforgotten: Ordinance | 276816 | [276816-unforgotten-ordinance.json](./276816-unforgotten-ordinance.json) |
 | Unformed | 129015 | [129015-unformed.json](./129015-unformed.json) |
 | Unfortunate Spacemen | 34300 | [34300-unfortunate-spacemen.json](./34300-unfortunate-spacemen.json) |
+| Unfortunate Tales of Violet | 248011 | [248011-unfortunate-tales-of-violet.json](./248011-unfortunate-tales-of-violet.json) |
 | Ungra Walker | 54748 | [54748-ungra-walker.json](./54748-ungra-walker.json) |
 | Ungrounded | 134593 | [134593-ungrounded.json](./134593-ungrounded.json) |
 | Ungrounded: Ripple Unleashed VR | 55456 | [55456-ungrounded-ripple-unleashed-vr.json](./55456-ungrounded-ripple-unleashed-vr.json) |
