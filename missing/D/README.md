@@ -4300,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The Adventure Games | 10187 | [10187-doctor-who-the-adventure-games.json](./10187-doctor-who-the-adventure-games.json) |
 | Doctor Who: The Adventure Games - Episode 1: City of the Daleks | 26655 | [26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json](./26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json) |
 | Doctor Who: The Adventure Games - Episode 5: The Gunpowder Plot | 65463 | [65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json](./65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json) |
+| Doctor Who: The Edge of Reality - Digital Deluxe Edition | 237903 | [237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json](./237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json) |
 | Doctor Who: The Edge of Time | 118784 | [118784-doctor-who-the-edge-of-time.json](./118784-doctor-who-the-edge-of-time.json) |
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
