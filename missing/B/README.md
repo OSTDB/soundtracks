@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls 'n Ropes | 233507 | [233507-balls-n-ropes.json](./233507-balls-n-ropes.json) |
 | Balls and Dungeons | 189127 | [189127-balls-and-dungeons.json](./189127-balls-and-dungeons.json) |
 | Balls and Magnets | 83538 | [83538-balls-and-magnets.json](./83538-balls-and-magnets.json) |
+| Balls Away! | 235141 | [235141-balls-away.json](./235141-balls-away.json) |
 | Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Steel Community Project | 229708 | [229708-balls-of-steel-community-project.json](./229708-balls-of-steel-community-project.json) |
@@ -2555,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berries Challenge | 159830 | [159830-berries-challenge.json](./159830-berries-challenge.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
+| Berry Madness | 235180 | [235180-berry-madness.json](./235180-berry-madness.json) |
 | Berrywitched! The Harvest | 374169 | [374169-berrywitched-the-harvest.json](./374169-berrywitched-the-harvest.json) |
 | Berserk and the Band of the Hawk: Additional Warhorse Set | 224121 | [224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json](./224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json) |
 | Berserk Boy | 150032 | [150032-berserk-boy.json](./150032-berserk-boy.json) |
@@ -6195,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
 | Broom Broom | 387655 | [387655-broom-broom.json](./387655-broom-broom.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
+| Broombot Battlegrounds | 235174 | [235174-broombot-battlegrounds.json](./235174-broombot-battlegrounds.json) |
 | BroomSweeper | 345662 | [345662-broomsweeper.json](./345662-broomsweeper.json) |
 | Bros | 198391 | [198391-bros.json](./198391-bros.json) |
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
