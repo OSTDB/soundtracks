@@ -2899,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotouchi Kentei DS | 124018 | [124018-gotouchi-kentei-ds.json](./124018-gotouchi-kentei-ds.json) |
+| Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
 | Gotta Protectors: Cart of Darkness DLC Bundle Packs 1-4 | 223590 | [223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json](./223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json) |
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
@@ -3044,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Kingdom: Limited Edition | 89909 | [89909-grand-kingdom-limited-edition.json](./89909-grand-kingdom-limited-edition.json) |
 | Grand Larceny | 13860 | [13860-grand-larceny.json](./13860-grand-larceny.json) |
 | Grand Line Adventures | 148485 | [148485-grand-line-adventures.json](./148485-grand-line-adventures.json) |
+| Grand Lines | 231337 | [231337-grand-lines.json](./231337-grand-lines.json) |
 | Grand Lizard | 92543 | [92543-grand-lizard.json](./92543-grand-lizard.json) |
 | Grand Mall Simulator | 326231 | [326231-grand-mall-simulator.json](./326231-grand-mall-simulator.json) |
 | Grand Master | 48695 | [48695-grand-master.json](./48695-grand-master.json) |
