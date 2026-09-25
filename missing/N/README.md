@@ -1450,6 +1450,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nezha Legend | 334308 | [334308-nezha-legend.json](./334308-nezha-legend.json) |
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
+| NFL Blitz | 249135 | [249135-nfl-blitz.json](./249135-nfl-blitz.json) |
+| NFL Blitz 2000 | 249126 | [249126-nfl-blitz-2000.json](./249126-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 4366 | [4366-nfl-blitz-2000.json](./4366-nfl-blitz-2000.json) |
 | NFL Blitz 2000: Gold Edition | 39598 | [39598-nfl-blitz-2000-gold-edition.json](./39598-nfl-blitz-2000-gold-edition.json) |
 | NFL Blitz 2003 | 47365 | [47365-nfl-blitz-2003.json](./47365-nfl-blitz-2003.json) |
@@ -1473,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback 13 | 62169 | [62169-nfl-quarterback-13.json](./62169-nfl-quarterback-13.json) |
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Quarterback Club | 114754 | [114754-nfl-quarterback-club.json](./114754-nfl-quarterback-club.json) |
+| NFL Rivals | 249177 | [249177-nfl-rivals.json](./249177-nfl-rivals.json) |
 | NFL Rush Zone | 230392 | [230392-nfl-rush-zone.json](./230392-nfl-rush-zone.json) |
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
 | NFL Street 2: Unleashed | 243016 | [243016-nfl-street-2-unleashed.json](./243016-nfl-street-2-unleashed.json) |
