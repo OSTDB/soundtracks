@@ -6144,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ren & Stimpy Show: Fire Dogs | 7985 | [7985-the-ren-and-stimpy-show-fire-dogs.json](./7985-the-ren-and-stimpy-show-fire-dogs.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
+| The Repair House | 234542 | [234542-the-repair-house.json](./234542-the-repair-house.json) |
 | The Report: The Eastwind Creature | 319767 | [319767-the-report-the-eastwind-creature.json](./319767-the-report-the-eastwind-creature.json) |
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
 | The Rescue of Lorri in Lorrinitron | 74052 | [74052-the-rescue-of-lorri-in-lorrinitron.json](./74052-the-rescue-of-lorri-in-lorrinitron.json) |
@@ -9328,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | Tiny Whoop GO | 144143 | [144143-tiny-whoop-go.json](./144143-tiny-whoop-go.json) |
 | Tiny Wizard Tavern | 412388 | [412388-tiny-wizard-tavern.json](./412388-tiny-wizard-tavern.json) |
+| Tiny World | 234586 | [234586-tiny-world.json](./234586-tiny-world.json) |
 | Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
 | TinyCrack | 169869 | [169869-tinycrack.json](./169869-tinycrack.json) |
 | Tinycraft | 303101 | [303101-tinycraft.json](./303101-tinycraft.json) |
@@ -10532,6 +10534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Tougensai | 334137 | [334137-touhou-tougensai.json](./334137-touhou-tougensai.json) |
 | Touhou Tower Defense Aigisyu | 204558 | [204558-touhou-tower-defense-aigisyu.json](./204558-touhou-tower-defense-aigisyu.json) |
 | Touhou Tower Defense Aigisyu: Complete Edition | 204559 | [204559-touhou-tower-defense-aigisyu-complete-edition.json](./204559-touhou-tower-defense-aigisyu-complete-edition.json) |
+| Touhou Traveler | 234578 | [234578-touhou-traveler.json](./234578-touhou-traveler.json) |
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
