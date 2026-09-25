@@ -5101,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash It Ultimate | 44285 | [44285-slash-it-ultimate.json](./44285-slash-it-ultimate.json) |
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
+| Slash Them All | 239626 | [239626-slash-them-all.json](./239626-slash-them-all.json) |
 | Slash'EM Extended | 351135 | [351135-slashem-extended.json](./351135-slashem-extended.json) |
 | Slash/Jump | 313317 | [313317-slash-jump.json](./313317-slash-jump.json) |
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
@@ -5764,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
+| Snack Time for Caterpillar | 239622 | [239622-snack-time-for-caterpillar.json](./239622-snack-time-for-caterpillar.json) |
 | Snack World: Reloaded | 397927 | [397927-snack-world-reloaded.json](./397927-snack-world-reloaded.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
@@ -8698,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritgrapher: The Asylum 99 | 312737 | [312737-spiritgrapher-the-asylum-99.json](./312737-spiritgrapher-the-asylum-99.json) |
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
 | Spiritlink Tactics | 191737 | [191737-spiritlink-tactics.json](./191737-spiritlink-tactics.json) |
+| Spirits | 239573 | [239573-spirits.json](./239573-spirits.json) |
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits of Carter Mansion | 189053 | [189053-spirits-of-carter-mansion.json](./189053-spirits-of-carter-mansion.json) |
@@ -9905,6 +9908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlink: Battle for Atlas | 37066 | [37066-starlink-battle-for-atlas.json](./37066-starlink-battle-for-atlas.json) |
 | Starlink: Battle for Atlas - Digital Edition | 246893 | [246893-starlink-battle-for-atlas-digital-edition.json](./246893-starlink-battle-for-atlas-digital-edition.json) |
 | Starlit Kart Racing | 215153 | [215153-starlit-kart-racing.json](./215153-starlit-kart-racing.json) |
+| Starlit On Wheels: Super Kart | 239614 | [239614-starlit-on-wheels-super-kart.json](./239614-starlit-on-wheels-super-kart.json) |
 | Starlit World | 400322 | [400322-starlit-world.json](./400322-starlit-world.json) |
 | Starlite | 137057 | [137057-starlite.json](./137057-starlite.json) |
 | Starlite: Astronaut Rescue | 16879 | [16879-starlite-astronaut-rescue.json](./16879-starlite-astronaut-rescue.json) |
@@ -11211,6 +11215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
+| Strike Pose | 239618 | [239618-strike-pose.json](./239618-strike-pose.json) |
 | Strike Solitaire | 276279 | [276279-strike-solitaire.json](./276279-strike-solitaire.json) |
 | Strike Solitaire | 54406 | [54406-strike-solitaire.json](./54406-strike-solitaire.json) |
 | Strike Solitaire 2 | 60236 | [60236-strike-solitaire-2.json](./60236-strike-solitaire-2.json) |
@@ -12172,6 +12177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Contraption 3D | 255048 | [255048-super-contraption-3d.json](./255048-super-contraption-3d.json) |
 | Super Converger | 177997 | [177997-super-converger.json](./177997-super-converger.json) |
 | Super Corners | 100776 | [100776-super-corners.json](./100776-super-corners.json) |
+| Super Cosmic Land | 239594 | [239594-super-cosmic-land.json](./239594-super-cosmic-land.json) |
 | Super CosmoJet | 160248 | [160248-super-cosmojet.json](./160248-super-cosmojet.json) |
 | Super Cosplay War Ultra | 66117 | [66117-super-cosplay-war-ultra.json](./66117-super-cosplay-war-ultra.json) |
 | Super Craft: Building Game | 100851 | [100851-super-craft-building-game.json](./100851-super-craft-building-game.json) |
