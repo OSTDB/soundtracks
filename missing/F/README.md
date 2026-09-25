@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Ball Blue | 107128 | [107128-falling-ball-blue.json](./107128-falling-ball-blue.json) |
 | Falling Ball Ocean | 107167 | [107167-falling-ball-ocean.json](./107167-falling-ball-ocean.json) |
 | Falling Blocks | 105389 | [105389-falling-blocks.json](./105389-falling-blocks.json) |
+| Falling Blocks | 237333 | [237333-falling-blocks.json](./237333-falling-blocks.json) |
 | Falling Bricks: Endless Smash | 390784 | [390784-falling-bricks-endless-smash.json](./390784-falling-bricks-endless-smash.json) |
 | Falling Cube | 340054 | [340054-falling-cube.json](./340054-falling-cube.json) |
 | Falling Day | 270180 | [270180-falling-day.json](./270180-falling-day.json) |
@@ -2415,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Love / Late Spring | 204493 | [204493-first-love-late-spring.json](./204493-first-love-late-spring.json) |
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
+| First Person Hooper | 237329 | [237329-first-person-hooper.json](./237329-first-person-hooper.json) |
 | First Person Lover | 238606 | [238606-first-person-lover.json](./238606-first-person-lover.json) |
 | First Person Shooter | 368688 | [368688-first-person-shooter.json](./368688-first-person-shooter.json) |
 | First Person Shouter | 332978 | [332978-first-person-shouter.json](./332978-first-person-shouter.json) |
@@ -3426,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FMV Murder Mystery Bundle | 289418 | [289418-fmv-murder-mystery-bundle.json](./289418-fmv-murder-mystery-bundle.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
 | FNaF 4 Retro Edition | 275647 | [275647-fnaf-4-retro-edition.json](./275647-fnaf-4-retro-edition.json) |
+| FNaF World Randomizer | 237325 | [237325-fnaf-world-randomizer.json](./237325-fnaf-world-randomizer.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
 | FNaF: Wii U Edition | 357443 | [357443-fnaf-wii-u-edition.json](./357443-fnaf-wii-u-edition.json) |
