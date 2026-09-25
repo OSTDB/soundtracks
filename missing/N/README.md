@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night with Timber | 377795 | [377795-night-with-timber.json](./377795-night-with-timber.json) |
 | Night World | 178057 | [178057-night-world.json](./178057-night-world.json) |
 | Night-Runners Prologue | 281485 | [281485-night-runners-prologue.json](./281485-night-runners-prologue.json) |
+| Night, Hood and the Mysterious Traveller | 276780 | [276780-night-hood-and-the-mysterious-traveller.json](./276780-night-hood-and-the-mysterious-traveller.json) |
 | Night&Scape | 237052 | [237052-night-and-scape.json](./237052-night-and-scape.json) |
 | Nightbanes | 9518 | [9518-nightbanes.json](./9518-nightbanes.json) |
 | Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
@@ -2236,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Worlds Part II | 329714 | [329714-no-mans-sky-worlds-part-ii.json](./329714-no-mans-sky-worlds-part-ii.json) |
 | No Man's Sky: Xeno Arena | 397678 | [397678-no-mans-sky-xeno-arena.json](./397678-no-mans-sky-xeno-arena.json) |
 | No Mana, Just Dice | 389122 | [389122-no-mana-just-dice.json](./389122-no-mana-just-dice.json) |
+| No Me: The Future is Ours | 276753 | [276753-no-me-the-future-is-ours.json](./276753-no-me-the-future-is-ours.json) |
 | No Means Nothing | 380677 | [380677-no-means-nothing.json](./380677-no-means-nothing.json) |
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
