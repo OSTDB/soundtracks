@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
 | Bart Bird | 26935 | [26935-bart-bird.json](./26935-bart-bird.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
+| Bartenders | 244205 | [244205-bartenders.json](./244205-bartenders.json) |
 | Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
 | Bartolomeu Odyssey | 248891 | [248891-bartolomeu-odyssey.json](./248891-bartolomeu-odyssey.json) |
 | Barton Lynch Pro Surfing | 272292 | [272292-barton-lynch-pro-surfing.json](./272292-barton-lynch-pro-surfing.json) |
@@ -1619,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Runner | 75919 | [75919-battle-runner.json](./75919-battle-runner.json) |
 | Battle Sage | 217517 | [217517-battle-sage.json](./217517-battle-sage.json) |
 | Battle Sea | 268479 | [268479-battle-sea.json](./268479-battle-sea.json) |
+| Battle Shapers | 244184 | [244184-battle-shapers.json](./244184-battle-shapers.json) |
 | Battle Ship Clapton II | 47547 | [47547-battle-ship-clapton-ii.json](./47547-battle-ship-clapton-ii.json) |
 | Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
@@ -2716,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Law: The Third Wave | 74077 | [74077-beyond-the-law-the-third-wave.json](./74077-beyond-the-law-the-third-wave.json) |
 | Beyond the Legend: Mysteries of Olympus | 106968 | [106968-beyond-the-legend-mysteries-of-olympus.json](./106968-beyond-the-legend-mysteries-of-olympus.json) |
 | Beyond the Lens | 244738 | [244738-beyond-the-lens.json](./244738-beyond-the-lens.json) |
+| Beyond the Mountains | 244201 | [244201-beyond-the-mountains.json](./244201-beyond-the-mountains.json) |
 | Beyond the Phone Screen | 169886 | [169886-beyond-the-phone-screen.json](./169886-beyond-the-phone-screen.json) |
 | Beyond the Pitch | 349512 | [349512-beyond-the-pitch.json](./349512-beyond-the-pitch.json) |
 | Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
@@ -4565,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardfall | 375945 | [375945-boardfall.json](./375945-boardfall.json) |
 | Boardlike | 376538 | [376538-boardlike.json](./376538-boardlike.json) |
 | Boardmancer | 395866 | [395866-boardmancer.json](./395866-boardmancer.json) |
+| Boardquest: Tales of Liria | 244207 | [244207-boardquest-tales-of-liria.json](./244207-boardquest-tales-of-liria.json) |
 | Boardroom Alpha | 324688 | [324688-boardroom-alpha.json](./324688-boardroom-alpha.json) |
 | Boardwalk Arcade 2 | 292144 | [292144-boardwalk-arcade-2.json](./292144-boardwalk-arcade-2.json) |
 | Boardwalk Sea Ball | 366410 | [366410-boardwalk-sea-ball.json](./366410-boardwalk-sea-ball.json) |
