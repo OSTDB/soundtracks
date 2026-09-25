@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Crystal Labyrinth | 82812 | [82812-ice-crystal-labyrinth.json](./82812-ice-crystal-labyrinth.json) |
 | Ice Fighter | 273472 | [273472-ice-fighter.json](./273472-ice-fighter.json) |
 | Ice Fishing Derby | 103909 | [103909-ice-fishing-derby.json](./103909-ice-fishing-derby.json) |
+| Ice Flame | 244706 | [244706-ice-flame.json](./244706-ice-flame.json) |
 | Ice Hockey | 57656 | [57656-ice-hockey.json](./57656-ice-hockey.json) |
 | Ice Hockey Slovakia 2011 | 85187 | [85187-ice-hockey-slovakia-2011.json](./85187-ice-hockey-slovakia-2011.json) |
 | Ice Hunter | 76249 | [76249-ice-hunter.json](./76249-ice-hunter.json) |
@@ -2414,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Awakening | 296942 | [296942-isekai-awakening.json](./296942-isekai-awakening.json) |
 | Isekai Brick Breaker | 225065 | [225065-isekai-brick-breaker.json](./225065-isekai-brick-breaker.json) |
 | Isekai Eternal | 157537 | [157537-isekai-eternal.json](./157537-isekai-eternal.json) |
+| Isekai Frontier | 244714 | [244714-isekai-frontier.json](./244714-isekai-frontier.json) |
 | Isekai Frontline | 273887 | [273887-isekai-frontline.json](./273887-isekai-frontline.json) |
 | Isekai Harem Quest: Love, Blades, and Power | 334180 | [334180-isekai-harem-quest-love-blades-and-power.json](./334180-isekai-harem-quest-love-blades-and-power.json) |
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
