@@ -4115,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Lust | 338256 | [338256-blood-and-lust.json](./338256-blood-and-lust.json) |
 | Blood Ancestors | 68712 | [68712-blood-ancestors.json](./68712-blood-ancestors.json) |
 | Blood Ancestors: Open Alpha | 100573 | [100573-blood-ancestors-open-alpha.json](./100573-blood-ancestors-open-alpha.json) |
+| Blood and Bones: A Skeleton Scorned | 262312 | [262312-blood-and-bones-a-skeleton-scorned.json](./262312-blood-and-bones-a-skeleton-scorned.json) |
 | Blood And Fear: Part 1 | 293104 | [293104-blood-and-fear-part-1.json](./293104-blood-and-fear-part-1.json) |
 | Blood and Jade | 62706 | [62706-blood-and-jade.json](./62706-blood-and-jade.json) |
 | Blood and Ruby | 135251 | [135251-blood-and-ruby.json](./135251-blood-and-ruby.json) |
