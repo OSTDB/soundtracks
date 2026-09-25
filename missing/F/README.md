@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmbotic | 348350 | [348350-farmbotic.json](./348350-farmbotic.json) |
 | Farmburgh | 236263 | [236263-farmburgh.json](./236263-farmburgh.json) |
 | Farmch Revolution | 390648 | [390648-farmch-revolution.json](./390648-farmch-revolution.json) |
+| FarmCraft | 264584 | [264584-farmcraft.json](./264584-farmcraft.json) |
 | Farmcraft 2 | 411590 | [411590-farmcraft-2.json](./411590-farmcraft-2.json) |
 | Farmer Adventure | 186831 | [186831-farmer-adventure.json](./186831-farmer-adventure.json) |
 | Farmer Against Potatoes Idle | 199507 | [199507-farmer-against-potatoes-idle.json](./199507-farmer-against-potatoes-idle.json) |
@@ -2396,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
 | First Time in Rome | 207323 | [207323-first-time-in-rome.json](./207323-first-time-in-rome.json) |
 | First Time Mom | 392297 | [392297-first-time-mom.json](./392297-first-time-mom.json) |
+| First Up | 264567 | [264567-first-up.json](./264567-first-up.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
 | FirstPlate | 400994 | [400994-firstplate.json](./400994-firstplate.json) |
@@ -5293,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi Yuugi DS | 68021 | [68021-fushigi-yuugi-ds.json](./68021-fushigi-yuugi-ds.json) |
 | Fushigi Yuugi Genbu Kaiden Gaiden: Kagami no Miko | 62179 | [62179-fushigi-yuugi-genbu-kaiden-gaiden-kagami-no-miko.json](./62179-fushigi-yuugi-genbu-kaiden-gaiden-kagami-no-miko.json) |
 | Fushigi Yuugi Suzaku Ibun | 62178 | [62178-fushigi-yuugi-suzaku-ibun.json](./62178-fushigi-yuugi-suzaku-ibun.json) |
+| Fusillade | 264570 | [264570-fusillade.json](./264570-fusillade.json) |
 | Fusing Noracam | 267090 | [267090-fusing-noracam.json](./267090-fusing-noracam.json) |
 | Fusion | 158712 | [158712-fusion.json](./158712-fusion.json) |
 | Fusion Galaxy | 395572 | [395572-fusion-galaxy.json](./395572-fusion-galaxy.json) |
