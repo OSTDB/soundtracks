@@ -252,6 +252,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Wanderer Pack | 164480 | [164480-100-orange-juice-wanderer-pack.json](./164480-100-orange-juice-wanderer-pack.json) |
 | 100% Orange Juice: Yuki & Tomomo Renewal Pack | 164470 | [164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json](./164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json) |
 | 100% Pasukaru Sensei: Perfect Paint Bombers | 55906 | [55906-100-pasukaru-sensei-perfect-paint-bombers.json](./55906-100-pasukaru-sensei-perfect-paint-bombers.json) |
+| 100+ Great Games | 273901 | [273901-100-great-games.json](./273901-100-great-games.json) |
+| 100+ Great Games: Volume II | 273902 | [273902-100-great-games-volume-ii.json](./273902-100-great-games-volume-ii.json) |
 | 100$ | 231486 | [231486-100.json](./231486-100.json) |
 | 1000 Days of Syria | 174227 | [174227-1000-days-of-syria.json](./174227-1000-days-of-syria.json) |
 | 1000 Games: Volume 3 | 125839 | [125839-1000-games-volume-3.json](./125839-1000-games-volume-3.json) |
@@ -310,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Okey Plus | 368033 | [368033-101-okey-plus.json](./368033-101-okey-plus.json) |
 | 101 Ways to Die | 16745 | [16745-101-ways-to-die.json](./16745-101-ways-to-die.json) |
 | 101-in-1 Explosive Megamix | 23025 | [23025-101-in-1-explosive-megamix.json](./23025-101-in-1-explosive-megamix.json) |
+| 101-in-1 Games Anthology | 273970 | [273970-101-in-1-games-anthology.json](./273970-101-in-1-games-anthology.json) |
 | 1010Tro | 380685 | [380685-1010tro.json](./380685-1010tro.json) |
 | 1024 | 61866 | [61866-1024.json](./61866-1024.json) |
 | 1024 Cement Mixer | 308273 | [308273-1024-cement-mixer.json](./308273-1024-cement-mixer.json) |
@@ -533,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2024: Mosaic Retrospective | 327347 | [327347-2024-mosaic-retrospective.json](./327347-2024-mosaic-retrospective.json) |
 | 2025 Advent Calendar | 383072 | [383072-2025-advent-calendar.json](./383072-2025-advent-calendar.json) |
 | 2029 Online | 27733 | [27733-2029-online.json](./27733-2029-online.json) |
+| 203 Game Pack | 273903 | [273903-203-game-pack.json](./273903-203-game-pack.json) |
 | 2033 The Order | 308940 | [308940-2033-the-order.json](./308940-2033-the-order.json) |
 | 2033: Das Erschwachen der Macht | 166165 | [166165-2033-das-erschwachen-der-macht.json](./166165-2033-das-erschwachen-der-macht.json) |
 | 2044 Moto Racer: Cyber Racing Simulator | 265709 | [265709-2044-moto-racer-cyber-racing-simulator.json](./265709-2044-moto-racer-cyber-racing-simulator.json) |
@@ -863,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 ft. 10 Pak: Award Winning Collection | 401082 | [401082-5-ft-10-pak-award-winning-collection.json](./401082-5-ft-10-pak-award-winning-collection.json) |
 | 5 ft. 10 Pak: Vol. I | 401081 | [401081-5-ft-10-pak-vol-i.json](./401081-5-ft-10-pak-vol-i.json) |
 | 5 in 1 Mahjong | 79874 | [79874-5-in-1-mahjong.json](./79874-5-in-1-mahjong.json) |
+| 5 in 1: Scrap Bolts + Toroom + Last Mage Survivor + Home Sweet Home + Bruxa | 273928 | [273928-5-in-1-scrap-bolts-toroom-last-mage-survivor-home-sweet-home-bruxa.json](./273928-5-in-1-scrap-bolts-toroom-last-mage-survivor-home-sweet-home-bruxa.json) |
 | 5 In One Fun Pak | 93568 | [93568-5-in-one-fun-pak.json](./93568-5-in-one-fun-pak.json) |
 | 5 Intelligent Strategy Games | 320405 | [320405-5-intelligent-strategy-games.json](./320405-5-intelligent-strategy-games.json) |
 | 5 Minute Raid | 304004 | [304004-5-minute-raid.json](./304004-5-minute-raid.json) |
@@ -1013,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bit Killer | 65522 | [65522-8bit-killer.json](./65522-8bit-killer.json) |
 | 8bit Ninja | 232005 | [232005-8bit-ninja.json](./232005-8bit-ninja.json) |
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
+| 8Floor Bundle 3 in 1 | 273940 | [273940-8floor-bundle-3-in-1.json](./273940-8floor-bundle-3-in-1.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
 | 8Floor Bundle 4 in 1 part 3 | 331450 | [331450-8floor-bundle-4-in-1-part-3.json](./331450-8floor-bundle-4-in-1-part-3.json) |
 | 8Floor Bundle 4 in 1 part 4 | 331449 | [331449-8floor-bundle-4-in-1-part-4.json](./331449-8floor-bundle-4-in-1-part-4.json) |
