@@ -2549,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noor Quest | 91983 | [91983-noor-quest.json](./91983-noor-quest.json) |
 | Noox | 343992 | [343992-noox.json](./343992-noox.json) |
 | Nope | 184468 | [184468-nope.json](./184468-nope.json) |
+| Nope Nope Nope Nope Nurses | 261755 | [261755-nope-nope-nope-nope-nurses.json](./261755-nope-nope-nope-nope-nurses.json) |
 | Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
 | Nophenia | 369651 | [369651-nophenia.json](./369651-nophenia.json) |
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
