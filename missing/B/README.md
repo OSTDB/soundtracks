@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond.Frontiers | 316733 | [316733-beyond-frontiers.json](./316733-beyond-frontiers.json) |
 | Beyonders | 408275 | [408275-beyonders.json](./408275-beyonders.json) |
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
+| Bez-MX | 282097 | [282097-bez-mx.json](./282097-bez-mx.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
 | BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
