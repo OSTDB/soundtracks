@@ -4144,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Let's Race: Ultimate Speed - High Voltage Speed Pack | 371438 | [371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json](./371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json) |
 | Hot Wheels Monster Trucks: Stunt Mayhem | 313494 | [313494-hot-wheels-monster-trucks-stunt-mayhem.json](./313494-hot-wheels-monster-trucks-stunt-mayhem.json) |
 | Hot Wheels Slot Car Racing | 100125 | [100125-hot-wheels-slot-car-racing.json](./100125-hot-wheels-slot-car-racing.json) |
+| Hot Wheels Stunt Track Driver | 249155 | [249155-hot-wheels-stunt-track-driver.json](./249155-hot-wheels-stunt-track-driver.json) |
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
 | Hot Wheels Unleashed 2: Mercedes-Benz Pack | 312012 | [312012-hot-wheels-unleashed-2-mercedes-benz-pack.json](./312012-hot-wheels-unleashed-2-mercedes-benz-pack.json) |
 | Hot Wheels Unleashed 2: Old but Gold Pack | 311085 | [311085-hot-wheels-unleashed-2-old-but-gold-pack.json](./311085-hot-wheels-unleashed-2-old-but-gold-pack.json) |
@@ -4236,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotshots Fire Rescue | 239903 | [239903-hotshots-fire-rescue.json](./239903-hotshots-fire-rescue.json) |
 | Hotspot Football | 58190 | [58190-hotspot-football.json](./58190-hotspot-football.json) |
 | Hottarake no Shima: Kanata to Niji-iro no Kagami | 123035 | [123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json](./123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json) |
+| Houchi City | 249180 | [249180-houchi-city.json](./249180-houchi-city.json) |
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
 | Houdini Redux | 118805 | [118805-houdini-redux.json](./118805-houdini-redux.json) |
 | Houkago Cinderella | 182470 | [182470-houkago-cinderella.json](./182470-houkago-cinderella.json) |
@@ -4352,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoverboard Hero | 237381 | [237381-hoverboard-hero.json](./237381-hoverboard-hero.json) |
 | Hovercab Station | 262994 | [262994-hovercab-station.json](./262994-hovercab-station.json) |
 | Hovercars 3077: Underground racing | 192436 | [192436-hovercars-3077-underground-racing.json](./192436-hovercars-3077-underground-racing.json) |
+| HoverCraft | 249137 | [249137-hovercraft.json](./249137-hovercraft.json) |
 | Hovercraft Race 3D | 26691 | [26691-hovercraft-race-3d.json](./26691-hovercraft-race-3d.json) |
 | Hovercraft Racing | 192836 | [192836-hovercraft-racing.json](./192836-hovercraft-racing.json) |
 | Hovercraft: Build Fly Retry | 105896 | [105896-hovercraft-build-fly-retry.json](./105896-hovercraft-build-fly-retry.json) |
