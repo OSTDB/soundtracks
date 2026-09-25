@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Week By Car | 209675 | [209675-one-week-by-car.json](./209675-one-week-by-car.json) |
 | One Week With The Mafia | 273435 | [273435-one-week-with-the-mafia.json](./273435-one-week-with-the-mafia.json) |
 | One Week With You | 191128 | [191128-one-week-with-you.json](./191128-one-week-with-you.json) |
+| One Wheel Guy | 227771 | [227771-one-wheel-guy.json](./227771-one-wheel-guy.json) |
 | One Word 2 by Powgi | 104620 | [104620-one-word-2-by-powgi.json](./104620-one-word-2-by-powgi.json) |
 | One Word by Powgi | 104621 | [104621-one-word-by-powgi.json](./104621-one-word-by-powgi.json) |
 | One-Armed Cook: Drinks and Bars | 236237 | [236237-one-armed-cook-drinks-and-bars.json](./236237-one-armed-cook-drinks-and-bars.json) |
@@ -2169,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outsp4ce | 172176 | [172176-outsp4ce.json](./172176-outsp4ce.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
+| Outstand | 227793 | [227793-outstand.json](./227793-outstand.json) |
 | Outta Hell | 346797 | [346797-outta-hell.json](./346797-outta-hell.json) |
 | Outter Carrier | 327382 | [327382-outter-carrier.json](./327382-outter-carrier.json) |
 | Outtrigger | 39605 | [39605-outtrigger.json](./39605-outtrigger.json) |
