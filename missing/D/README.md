@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
+| Dangan GB2 | 279666 | [279666-dangan-gb2.json](./279666-dangan-gb2.json) |
 | Danganronpa 1-2 Reload | 42914 | [42914-danganronpa-1-2-reload.json](./42914-danganronpa-1-2-reload.json) |
 | Danganronpa 2: Goodbye Despair - Anniversary Edition | 152400 | [152400-danganronpa-2-goodbye-despair-anniversary-edition.json](./152400-danganronpa-2-goodbye-despair-anniversary-edition.json) |
 | Danganronpa 2x2 | 366895 | [366895-danganronpa-2x2.json](./366895-danganronpa-2x2.json) |
@@ -2585,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
 | Design My Room: Fashion | 107667 | [107667-design-my-room-fashion.json](./107667-design-my-room-fashion.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
+| Desirable Deals | 279671 | [279671-desirable-deals.json](./279671-desirable-deals.json) |
 | Désiré | 88080 | [88080-desire.json](./88080-desire.json) |
 | Desire & Decorum: Book 1 | 313713 | [313713-desire-and-decorum-book-1.json](./313713-desire-and-decorum-book-1.json) |
 | Desire & Decorum: Book 2 | 313714 | [313714-desire-and-decorum-book-2.json](./313714-desire-and-decorum-book-2.json) |
