@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viva Project | 316814 | [316814-viva-project.json](./316814-viva-project.json) |
 | Vivaion | 263520 | [263520-vivaion.json](./263520-vivaion.json) |
 | Vivaldia 2 | 272358 | [272358-vivaldia-2.json](./272358-vivaldia-2.json) |
+| Vivat Rex | 235674 | [235674-vivat-rex.json](./235674-vivat-rex.json) |
 | Vivat Slovakia | 216496 | [216496-vivat-slovakia.json](./216496-vivat-slovakia.json) |
 | Vive le Roi | 31789 | [31789-vive-le-roi.json](./31789-vive-le-roi.json) |
 | Vive le Roi 2 | 101356 | [101356-vive-le-roi-2.json](./101356-vive-le-roi-2.json) |
