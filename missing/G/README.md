@@ -3572,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
+| Grooove | 272346 | [272346-grooove.json](./272346-grooove.json) |
 | Groove Adventure Rave: Hikari to Yami no Daikessen | 49597 | [49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json](./49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json) |
 | Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
 | Groove Coaster + Touhou All DLC Bundle | 362481 | [362481-groove-coaster-touhou-all-dlc-bundle.json](./362481-groove-coaster-touhou-all-dlc-bundle.json) |
