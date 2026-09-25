@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0x0 | 294768 | [294768-0x0.json](./294768-0x0.json) |
 | 1 4 the $ | 301397 | [301397-1-4-the.json](./301397-1-4-the.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
+| 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
 | 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
 | 1 Screen Platformer | 97902 | [97902-1-screen-platformer.json](./97902-1-screen-platformer.json) |
