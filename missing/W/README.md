@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Nations | 323324 | [323324-war-of-nations.json](./323324-war-of-nations.json) |
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
+| War of the AI | 256239 | [256239-war-of-the-ai.json](./256239-war-of-the-ai.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
 | War of the Lance | 50494 | [50494-war-of-the-lance.json](./50494-war-of-the-lance.json) |
 | War of the Ring | 356066 | [356066-war-of-the-ring.json](./356066-war-of-the-ring.json) |
