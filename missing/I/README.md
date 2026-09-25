@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice and Fire: The Wizards | 72610 | [72610-ice-and-fire-the-wizards.json](./72610-ice-and-fire-the-wizards.json) |
 | Ice Battle | 236933 | [236933-ice-battle.json](./236933-ice-battle.json) |
 | Ice Breaker | 280330 | [280330-ice-breaker.json](./280330-ice-breaker.json) |
+| Ice Climber | 246340 | [246340-ice-climber.json](./246340-ice-climber.json) |
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
 | Ice Cold Beer | 406941 | [406941-ice-cold-beer.json](./406941-ice-cold-beer.json) |
 | Ice Cream | 344005 | [344005-ice-cream.json](./344005-ice-cream.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
 | Iso | 100225 | [100225-iso.json](./100225-iso.json) |
 | Iso | 201763 | [201763-iso.json](./201763-iso.json) |
+| Iso Racer | 246353 | [246353-iso-racer.json](./246353-iso-racer.json) |
 | ISO/2004 | 402492 | [402492-iso-2004.json](./402492-iso-2004.json) |
 | Isoball | 243779 | [243779-isoball.json](./243779-isoball.json) |
 | IsoBoom | 55504 | [55504-isoboom.json](./55504-isoboom.json) |
