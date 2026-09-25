@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
 | Kill the Brickman | 362260 | [362260-kill-the-brickman.json](./362260-kill-the-brickman.json) |
 | Kill The Business | 363937 | [363937-kill-the-business.json](./363937-kill-the-business.json) |
+| Kill the Climbers | 235673 | [235673-kill-the-climbers.json](./235673-kill-the-climbers.json) |
 | Kill The Crows | 253394 | [253394-kill-the-crows.json](./253394-kill-the-crows.json) |
 | Kill the Cute | 244721 | [244721-kill-the-cute.json](./244721-kill-the-cute.json) |
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
