@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Merge Valley | 307772 | [307772-farm-merge-valley.json](./307772-farm-merge-valley.json) |
 | Farm of the Unseen | 353382 | [353382-farm-of-the-unseen.json](./353382-farm-of-the-unseen.json) |
 | Farm On! | 96696 | [96696-farm-on.json](./96696-farm-on.json) |
+| Farm Pets Bundle | 272330 | [272330-farm-pets-bundle.json](./272330-farm-pets-bundle.json) |
 | Farm Racing | 381014 | [381014-farm-racing.json](./381014-farm-racing.json) |
 | Farm Rescue | 359407 | [359407-farm-rescue.json](./359407-farm-rescue.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
@@ -1328,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Moon | 294261 | [294261-fear-the-moon.json](./294261-fear-the-moon.json) |
 | Fear the Night | 112973 | [112973-fear-the-night.json](./112973-fear-the-night.json) |
 | Fear the Unknown: Jamie Story | 351601 | [351601-fear-the-unknown-jamie-story.json](./351601-fear-the-unknown-jamie-story.json) |
+| Fear The Void | 272256 | [272256-fear-the-void.json](./272256-fear-the-void.json) |
 | Fear the Walking Dead: Dead Run | 58483 | [58483-fear-the-walking-dead-dead-run.json](./58483-fear-the-walking-dead-dead-run.json) |
 | Fear Virtual | 302098 | [302098-fear-virtual.json](./302098-fear-virtual.json) |
 | Fear Within | 389704 | [389704-fear-within.json](./389704-fear-within.json) |
@@ -1522,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Fey | 388975 | [388975-fey.json](./388975-fey.json) |
 | Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
+| Feydome: Fairy Dress Up | 272323 | [272323-feydome-fairy-dress-up.json](./272323-feydome-fairy-dress-up.json) |
 | Feyght | 189043 | [189043-feyght.json](./189043-feyght.json) |
 | Feyhearth: the Art of Handling Extraordinary Clientele | 396354 | [396354-feyhearth-the-art-of-handling-extraordinary-clientele.json](./396354-feyhearth-the-art-of-handling-extraordinary-clientele.json) |
 | Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
@@ -4217,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractus | 75072 | [75072-fractus.json](./75072-fractus.json) |
 | Frag | 110296 | [110296-frag.json](./110296-frag.json) |
 | Frag | 167251 | [167251-frag.json](./167251-frag.json) |
+| Frag Ops | 272322 | [272322-frag-ops.json](./272322-frag-ops.json) |
 | Frag-A-Friend | 408165 | [408165-frag-a-friend.json](./408165-frag-a-friend.json) |
 | Fraga | 397270 | [397270-fraga.json](./397270-fraga.json) |
 | Fragger | 94183 | [94183-fragger.json](./94183-fragger.json) |
