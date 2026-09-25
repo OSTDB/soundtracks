@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marsh | 270151 | [270151-marsh.json](./270151-marsh.json) |
 | Marsh Into the New Dimension | 396227 | [396227-marsh-into-the-new-dimension.json](./396227-marsh-into-the-new-dimension.json) |
 | Marshals of War: Orcblood | 408044 | [408044-marshals-of-war-orcblood.json](./408044-marshals-of-war-orcblood.json) |
+| Marshawn Lynch Blocky Football | 267328 | [267328-marshawn-lynch-blocky-football.json](./267328-marshawn-lynch-blocky-football.json) |
 | Marshawn Lynch Pro Football | 86858 | [86858-marshawn-lynch-pro-football.json](./86858-marshawn-lynch-pro-football.json) |
 | Marshin | 121770 | [121770-marshin.json](./121770-marshin.json) |
 | Marshmallow | 197396 | [197396-marshmallow.json](./197396-marshmallow.json) |
@@ -1966,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Warfare: Aftermath | 347878 | [347878-massive-warfare-aftermath.json](./347878-massive-warfare-aftermath.json) |
 | Master Archer | 185544 | [185544-master-archer.json](./185544-master-archer.json) |
 | Master Arena | 97280 | [97280-master-arena.json](./97280-master-arena.json) |
+| Master Bass | 267344 | [267344-master-bass.json](./267344-master-bass.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Builder | 18579 | [18579-master-builder.json](./18579-master-builder.json) |
@@ -4822,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Tekton | 120822 | [120822-mini-tekton.json](./120822-mini-tekton.json) |
 | Mini Tennis | 242560 | [242560-mini-tennis.json](./242560-mini-tennis.json) |
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
+| Mini Tennis: Perfect Smash | 267346 | [267346-mini-tennis-perfect-smash.json](./267346-mini-tennis-perfect-smash.json) |
 | Mini Toss | 323159 | [323159-mini-toss.json](./323159-mini-toss.json) |
 | Mini Transport | 129742 | [129742-mini-transport.json](./129742-mini-transport.json) |
 | Mini Treasure Girl | 291066 | [291066-mini-treasure-girl.json](./291066-mini-treasure-girl.json) |
