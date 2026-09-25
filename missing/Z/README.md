@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zwei: The Ilvard Insurrection | 36701 | [36701-zwei-the-ilvard-insurrection.json](./36701-zwei-the-ilvard-insurrection.json) |
 | Zwerg: A Tale of Beer and Hunger | 413710 | [413710-zwerg-a-tale-of-beer-and-hunger.json](./413710-zwerg-a-tale-of-beer-and-hunger.json) |
 | ZX Asteroids | 319602 | [319602-zx-asteroids.json](./319602-zx-asteroids.json) |
+| ZX Spectrum Pac-Man Arcade | 281479 | [281479-zx-spectrum-pac-man-arcade.json](./281479-zx-spectrum-pac-man-arcade.json) |
 | ZXC | 266803 | [266803-zxc.json](./266803-zxc.json) |
 | ZXombies! | 281532 | [281532-zxombies.json](./281532-zxombies.json) |
 | ZxZ | 307621 | [307621-zxz.json](./307621-zxz.json) |
