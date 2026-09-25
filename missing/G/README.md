@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
 | Gazillionaire | 69550 | [69550-gazillionaire.json](./69550-gazillionaire.json) |
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
+| Gazolinas | 260632 | [260632-gazolinas.json](./260632-gazolinas.json) |
 | Gazza II | 41000 | [41000-gazza-ii.json](./41000-gazza-ii.json) |
 | GB Dash | 393094 | [393094-gb-dash.json](./393094-gb-dash.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus: Rising - Color Set Battle Pass Pack 4 | 373629 | [373629-granblue-fantasy-versus-rising-color-set-battle-pass-pack-4.json](./373629-granblue-fantasy-versus-rising-color-set-battle-pass-pack-4.json) |
 | Granblue Fantasy Versus: Rising - Crimson Bomber: Zeta | 334143 | [334143-granblue-fantasy-versus-rising-crimson-bomber-zeta.json](./334143-granblue-fantasy-versus-rising-crimson-bomber-zeta.json) |
 | Granblue Fantasy Versus: Rising - Deluxe Character Pass | 332823 | [332823-granblue-fantasy-versus-rising-deluxe-character-pass.json](./332823-granblue-fantasy-versus-rising-deluxe-character-pass.json) |
+| Granblue Fantasy Versus: Rising - Deluxe Edition | 260718 | [260718-granblue-fantasy-versus-rising-deluxe-edition.json](./260718-granblue-fantasy-versus-rising-deluxe-edition.json) |
 | Granblue Fantasy Versus: Rising - Premium Avatar Set: Shadowverse | 294993 | [294993-granblue-fantasy-versus-rising-premium-avatar-set-shadowverse.json](./294993-granblue-fantasy-versus-rising-premium-avatar-set-shadowverse.json) |
 | Granblue Fantasy Versus: Rising - The Black Butterfly: Narmaya | 334144 | [334144-granblue-fantasy-versus-rising-the-black-butterfly-narmaya.json](./334144-granblue-fantasy-versus-rising-the-black-butterfly-narmaya.json) |
 | Granblue Fantasy: Relink - Character Expansion Set: Sandalphon | 312003 | [312003-granblue-fantasy-relink-character-expansion-set-sandalphon.json](./312003-granblue-fantasy-relink-character-expansion-set-sandalphon.json) |
@@ -4137,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
 | Guns and Blood: 2D Zombie Shooter | 96025 | [96025-guns-and-blood-2d-zombie-shooter.json](./96025-guns-and-blood-2d-zombie-shooter.json) |
 | Guns and Braps | 127027 | [127027-guns-and-braps.json](./127027-guns-and-braps.json) |
+| Guns and Donuts | 260635 | [260635-guns-and-donuts.json](./260635-guns-and-donuts.json) |
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
 | Guns and Waifus | 157209 | [157209-guns-and-waifus.json](./157209-guns-and-waifus.json) |
