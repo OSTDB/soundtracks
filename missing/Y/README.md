@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys VIII: Lacrimosa of Dana - Christmas Gift Package | 212316 | [212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json](./212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json) |
 | Ys Ⅷ: Lacrimosa of Dana - Mobile | 196324 | [196324-ys-viii-lacrimosa-of-dana-mobile.json](./196324-ys-viii-lacrimosa-of-dana-mobile.json) |
 | Ys X: Nordics | 229176 | [229176-ys-x-nordics.json](./229176-ys-x-nordics.json) |
+| Ys X: Nordics - Limited Edition | 261302 | [261302-ys-x-nordics-limited-edition.json](./261302-ys-x-nordics-limited-edition.json) |
 | Ys X: Proud Nordics: Launch Edition | 403562 | [403562-ys-x-proud-nordics-launch-edition.json](./403562-ys-x-proud-nordics-launch-edition.json) |
 | Ys: Memories of Celceta | 15457 | [15457-ys-memories-of-celceta.json](./15457-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta - 25th Anniversary Edition | 89868 | [89868-ys-memories-of-celceta-25th-anniversary-edition.json](./89868-ys-memories-of-celceta-25th-anniversary-edition.json) |
