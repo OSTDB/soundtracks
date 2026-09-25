@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Your Pet | 215086 | [215086-can-your-pet.json](./215086-can-your-pet.json) |
 | Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
 | Can't Even See the Sky | 361922 | [361922-cant-even-see-the-sky.json](./361922-cant-even-see-the-sky.json) |
+| Can't Run Frm Evil | 262294 | [262294-cant-run-frm-evil.json](./262294-cant-run-frm-evil.json) |
 | Can't Sleep! | 333627 | [333627-cant-sleep.json](./333627-cant-sleep.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
 | Can't Stop Running | 391080 | [391080-cant-stop-running.json](./391080-cant-stop-running.json) |
@@ -430,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candivity: Outer Space DLC | 324432 | [324432-candivity-outer-space-dlc.json](./324432-candivity-outer-space-dlc.json) |
 | Candivity: Platinum Edition | 385194 | [385194-candivity-platinum-edition.json](./385194-candivity-platinum-edition.json) |
 | Candivity: Snow & Sand Edition | 400197 | [400197-candivity-snow-and-sand-edition.json](./400197-candivity-snow-and-sand-edition.json) |
+| Candle Fire Run! | 262319 | [262319-candle-fire-run.json](./262319-candle-fire-run.json) |
 | Candle Flame in the Wind | 284327 | [284327-candle-flame-in-the-wind.json](./284327-candle-flame-in-the-wind.json) |
 | Candle In Darkness | 158551 | [158551-candle-in-darkness.json](./158551-candle-in-darkness.json) |
 | Candle Prick | 185609 | [185609-candle-prick.json](./185609-candle-prick.json) |
@@ -7269,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
 | Cubic Tetris | 302342 | [302342-cubic-tetris.json](./302342-cubic-tetris.json) |
+| Cubic Worlds | 262287 | [262287-cubic-worlds.json](./262287-cubic-worlds.json) |
 | CubicBan | 218565 | [218565-cubicban.json](./218565-cubicban.json) |
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
 | Cubico | 120787 | [120787-cubico.json](./120787-cubico.json) |
@@ -7498,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Order | 284993 | [284993-cursed-order.json](./284993-cursed-order.json) |
 | Cursed Queen : Wicked Witch | 105371 | [105371-cursed-queen-wicked-witch.json](./105371-cursed-queen-wicked-witch.json) |
 | Cursed Realm | 258722 | [258722-cursed-realm.json](./258722-cursed-realm.json) |
+| Cursed Realms: Path Over The Abyss | 262302 | [262302-cursed-realms-path-over-the-abyss.json](./262302-cursed-realms-path-over-the-abyss.json) |
 | Cursed Roots | 36507 | [36507-cursed-roots.json](./36507-cursed-roots.json) |
 | Cursed sarcophagus | 284994 | [284994-cursed-sarcophagus.json](./284994-cursed-sarcophagus.json) |
 | Cursed Shorts | 363058 | [363058-cursed-shorts.json](./363058-cursed-shorts.json) |
