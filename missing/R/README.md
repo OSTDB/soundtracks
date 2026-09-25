@@ -3410,6 +3410,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop Versus the Terminator | 8195 | [8195-robocop-versus-the-terminator.json](./8195-robocop-versus-the-terminator.json) |
 | Robocop vs. Predator | 281502 | [281502-robocop-vs-predator.json](./281502-robocop-vs-predator.json) |
 | RoboCop: Rogue City - Alex Murphy Edition | 271282 | [271282-robocop-rogue-city-alex-murphy-edition.json](./271282-robocop-rogue-city-alex-murphy-edition.json) |
+| RoboCop: Rogue City - Alex Murphy Pack | 275073 | [275073-robocop-rogue-city-alex-murphy-pack.json](./275073-robocop-rogue-city-alex-murphy-pack.json) |
+| RoboCop: Rogue City - Vanguard Pack | 275074 | [275074-robocop-rogue-city-vanguard-pack.json](./275074-robocop-rogue-city-vanguard-pack.json) |
 | RoboCorps | 58794 | [58794-robocorps.json](./58794-robocorps.json) |
 | Robocraft 2 | 217298 | [217298-robocraft-2.json](./217298-robocraft-2.json) |
 | Robocraft Royale | 89976 | [89976-robocraft-royale.json](./89976-robocraft-royale.json) |
