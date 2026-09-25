@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Trigger: Gold Edition | 396919 | [396919-johnny-trigger-gold-edition.json](./396919-johnny-trigger-gold-edition.json) |
 | Johnny Trigger: Hotshot Edition | 283171 | [283171-johnny-trigger-hotshot-edition.json](./283171-johnny-trigger-hotshot-edition.json) |
 | Johnny Trigger: Hunter Edition | 294826 | [294826-johnny-trigger-hunter-edition.json](./294826-johnny-trigger-hunter-edition.json) |
+| Johnny Trigger: Johnnybee Edition | 263537 | [263537-johnny-trigger-johnnybee-edition.json](./263537-johnny-trigger-johnnybee-edition.json) |
 | Johnny Turbo's Arcade: Heavy Barrel | 112117 | [112117-johnny-turbos-arcade-heavy-barrel.json](./112117-johnny-turbos-arcade-heavy-barrel.json) |
 | Johnny Turbo's Arcade: Joe and Mac Returns | 146860 | [146860-johnny-turbos-arcade-joe-and-mac-returns.json](./146860-johnny-turbos-arcade-joe-and-mac-returns.json) |
 | Johnny Turbo's Arcade: Night Slashers | 111915 | [111915-johnny-turbos-arcade-night-slashers.json](./111915-johnny-turbos-arcade-night-slashers.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: All Star Battle R - Digital Deluxe Edition | 218458 | [218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json](./218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json) |
 | JoJo’s Bizarre Adventure: All-Star Battle R | 194208 | [194208-jojo-s-bizarre-adventure-all-star-battle-r.json](./194208-jojo-s-bizarre-adventure-all-star-battle-r.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Keicho Nijimura | 242545 | [242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json](./242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json) |
+| JoJo's Bizarre Adventure: All-Star Battle R - Leone Abbacchio | 263539 | [263539-jojos-bizarre-adventure-all-star-battle-r-leone-abbacchio.json](./263539-jojos-bizarre-adventure-all-star-battle-r-leone-abbacchio.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Rudol von Stroheim | 234633 | [234633-jojos-bizarre-adventure-all-star-battle-r-rudol-von-stroheim.json](./234633-jojos-bizarre-adventure-all-star-battle-r-rudol-von-stroheim.json) |
 | JoJo's Bizarre Adventure: Heritage for the Future | 75962 | [75962-jojos-bizarre-adventure-heritage-for-the-future.json](./75962-jojos-bizarre-adventure-heritage-for-the-future.json) |
 | JoJo's Bizarre Adventure: Phantom Blood | 37045 | [37045-jojos-bizarre-adventure-phantom-blood.json](./37045-jojos-bizarre-adventure-phantom-blood.json) |
