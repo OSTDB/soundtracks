@@ -2864,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loonley Toons Run | 105767 | [105767-loonley-toons-run.json](./105767-loonley-toons-run.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loony Labyrinth | 122307 | [122307-loony-labyrinth.json](./122307-loony-labyrinth.json) |
+| Loonz | 256222 | [256222-loonz.json](./256222-loonz.json) |
 | Loop | 157568 | [157568-loop.json](./157568-loop.json) |
 | Loop | 279011 | [279011-loop.json](./279011-loop.json) |
 | Loop | 327298 | [327298-loop.json](./327298-loop.json) |
@@ -3191,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
 | Lost Mastery | 304633 | [304633-lost-mastery.json](./304633-lost-mastery.json) |
+| Lost Maze | 256220 | [256220-lost-maze.json](./256220-lost-maze.json) |
 | Lost Melody | 211195 | [211195-lost-melody.json](./211195-lost-melody.json) |
 | Lost Memories | 224779 | [224779-lost-memories.json](./224779-lost-memories.json) |
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
