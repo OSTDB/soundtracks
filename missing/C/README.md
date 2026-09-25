@@ -3133,9 +3133,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Knight | 305315 | [305315-chrono-knight.json](./305315-chrono-knight.json) |
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
 | Chrono Port: Heroes of All Time | 366320 | [366320-chrono-port-heroes-of-all-time.json](./366320-chrono-port-heroes-of-all-time.json) |
+| Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
 | Chrono Trigger | 20398 | [20398-chrono-trigger.json](./20398-chrono-trigger.json) |
 | Chrono Trigger | 263446 | [263446-chrono-trigger.json](./263446-chrono-trigger.json) |
+| Chrono Trigger | 263447 | [263447-chrono-trigger.json](./263447-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
@@ -3898,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk 3: Radikal | 46580 | [46580-clonk-3-radikal.json](./46580-clonk-3-radikal.json) |
 | Clonk A.P.E. | 79332 | [79332-clonk-a-p-e.json](./79332-clonk-a-p-e.json) |
 | Clonk Endeavour | 57644 | [57644-clonk-endeavour.json](./57644-clonk-endeavour.json) |
+| Clorox: Sparkling Sudoku | 263433 | [263433-clorox-sparkling-sudoku.json](./263433-clorox-sparkling-sudoku.json) |
 | Close Cities | 288337 | [288337-close-cities.json](./288337-close-cities.json) |
 | Close Combat | 637 | [637-close-combat.json](./637-close-combat.json) |
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
