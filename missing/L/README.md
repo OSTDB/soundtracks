@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latest Issue | 329097 | [329097-latest-issue.json](./329097-latest-issue.json) |
 | Latin America Empire 2027 | 219664 | [219664-latin-america-empire-2027.json](./219664-latin-america-empire-2027.json) |
 | Lattice 200EC7 | 143664 | [143664-lattice-200ec7.json](./143664-lattice-200ec7.json) |
+| Latto-Latto Simulator | 233453 | [233453-latto-latto-simulator.json](./233453-latto-latto-simulator.json) |
 | Laugh & Learn: Animal Sounds | 101577 | [101577-laugh-and-learn-animal-sounds.json](./101577-laugh-and-learn-animal-sounds.json) |
 | Laughing in the Wind Mobile | 174880 | [174880-laughing-in-the-wind-mobile.json](./174880-laughing-in-the-wind-mobile.json) |
 | Laughingstock Apocalypse Redux | 364491 | [364491-laughingstock-apocalypse-redux.json](./364491-laughingstock-apocalypse-redux.json) |
@@ -2450,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
 | Little Survivors | 273469 | [273469-little-survivors.json](./273469-little-survivors.json) |
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
+| Little Tailor 4: Fashion Sewing | 233462 | [233462-little-tailor-4-fashion-sewing.json](./233462-little-tailor-4-fashion-sewing.json) |
 | Little Tank | 339942 | [339942-little-tank.json](./339942-little-tank.json) |
 | Little Thief | 407575 | [407575-little-thief.json](./407575-little-thief.json) |
 | Little Things | 401130 | [401130-little-things.json](./401130-little-things.json) |
@@ -3679,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
 | Lucky VS Aliens | 95221 | [95221-lucky-vs-aliens.json](./95221-lucky-vs-aliens.json) |
 | Luckyest | 376124 | [376124-luckyest.json](./376124-luckyest.json) |
+| LuckyJet | 233444 | [233444-luckyjet.json](./233444-luckyjet.json) |
 | LuckyWheel | 326276 | [326276-luckywheel.json](./326276-luckywheel.json) |
 | Luctus | 263781 | [263781-luctus.json](./263781-luctus.json) |
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
