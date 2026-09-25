@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
 | Daggerfall Unity | 127936 | [127936-daggerfall-unity.json](./127936-daggerfall-unity.json) |
 | Daggerhood | 115426 | [115426-daggerhood.json](./115426-daggerhood.json) |
+| Dagon: The Railway Horror | 266823 | [266823-dagon-the-railway-horror.json](./266823-dagon-the-railway-horror.json) |
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
@@ -3607,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
 | Dirtbag Mahjong | 324907 | [324907-dirtbag-mahjong.json](./324907-dirtbag-mahjong.json) |
 | Dirty | 412361 | [412361-dirty.json](./412361-dirty.json) |
+| Dirty Aim Trainer VR | 266752 | [266752-dirty-aim-trainer-vr.json](./266752-dirty-aim-trainer-vr.json) |
 | Dirty Dancing | 21491 | [21491-dirty-dancing.json](./21491-dirty-dancing.json) |
 | Dirty Fantasy | 405069 | [405069-dirty-fantasy.json](./405069-dirty-fantasy.json) |
 | Dirty Harry | 3142 | [3142-dirty-harry.json](./3142-dirty-harry.json) |
@@ -6912,6 +6914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Line | 87883 | [87883-dunk-line.json](./87883-dunk-line.json) |
 | Dunk Mania | 39824 | [39824-dunk-mania.json](./39824-dunk-mania.json) |
 | Dunk Shot | 40977 | [40977-dunk-shot.json](./40977-dunk-shot.json) |
+| Dunk The Hoops: Bouncy Ball | 266832 | [266832-dunk-the-hoops-bouncy-ball.json](./266832-dunk-the-hoops-bouncy-ball.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
 | Dunk Trickster | 316844 | [316844-dunk-trickster.json](./316844-dunk-trickster.json) |
 | Dunkadillo | 360760 | [360760-dunkadillo.json](./360760-dunkadillo.json) |
