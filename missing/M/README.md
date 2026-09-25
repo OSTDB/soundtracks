@@ -1760,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martyrdom | 290520 | [290520-martyrdom.json](./290520-martyrdom.json) |
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
 | Maru Expedition: We Can Fly | 357427 | [357427-maru-expedition-we-can-fly.json](./357427-maru-expedition-we-can-fly.json) |
+| Maru Goukaku: Shikaku Dasshu! IT Passport Shiken, Kihon Jouhou Gijutsusha Shiken, Ouyou Jouhou Gijutsusha Shiken | 269612 | [269612-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json](./269612-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json) |
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
 | Maruja Mallo | 226732 | [226732-maruja-mallo.json](./226732-maruja-mallo.json) |
 | Maruta Escape | 293166 | [293166-maruta-escape.json](./293166-maruta-escape.json) |
