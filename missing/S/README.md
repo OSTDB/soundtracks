@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Factory | 279588 | [279588-santas-factory.json](./279588-santas-factory.json) |
 | Santa's Gifts | 225074 | [225074-santas-gifts.json](./225074-santas-gifts.json) |
 | Santa's Gifts Load | 378769 | [378769-santas-gifts-load.json](./378769-santas-gifts-load.json) |
+| Santa's Giftship Reloaded | 259533 | [259533-santas-giftship-reloaded.json](./259533-santas-giftship-reloaded.json) |
 | Santa's Hitlist CEO Edition | 347346 | [347346-santas-hitlist-ceo-edition.json](./347346-santas-hitlist-ceo-edition.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
 | Santa's Reindeer Run | 106367 | [106367-santas-reindeer-run.json](./106367-santas-reindeer-run.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbane: The Rise of Chaos | 70972 | [70972-shadowbane-the-rise-of-chaos.json](./70972-shadowbane-the-rise-of-chaos.json) |
 | Shadowbane: Throne of Oblivion | 66366 | [66366-shadowbane-throne-of-oblivion.json](./66366-shadowbane-throne-of-oblivion.json) |
 | Shadowblade Knight Symphony | 313154 | [313154-shadowblade-knight-symphony.json](./313154-shadowblade-knight-symphony.json) |
+| Shadowblade Odyssey | 259513 | [259513-shadowblade-odyssey.json](./259513-shadowblade-odyssey.json) |
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
@@ -3213,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
+| Shin Galaxy: Engage | 259598 | [259598-shin-galaxy-engage.json](./259598-shin-galaxy-engage.json) |
 | Shin Gundam Musou | 52832 | [52832-shin-gundam-musou.json](./52832-shin-gundam-musou.json) |
 | Shin Hayarigami | 79331 | [79331-shin-hayarigami.json](./79331-shin-hayarigami.json) |
 | Shin Hayarigami: Blindman | 95861 | [95861-shin-hayarigami-blindman.json](./95861-shin-hayarigami-blindman.json) |
@@ -6477,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstice | 306355 | [306355-solstice.json](./306355-solstice.json) |
 | Solstice | 324503 | [324503-solstice.json](./324503-solstice.json) |
 | Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
+| Soluble Dream | 259591 | [259591-soluble-dream.json](./259591-soluble-dream.json) |
 | Solune | 272359 | [272359-solune.json](./272359-solune.json) |
 | Solus | 137016 | [137016-solus.json](./137016-solus.json) |
 | Solus Machina | 348340 | [348340-solus-machina.json](./348340-solus-machina.json) |
@@ -10816,6 +10820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Nauts: Complete Limited Edition | 172586 | [172586-strawberry-nauts-complete-limited-edition.json](./172586-strawberry-nauts-complete-limited-edition.json) |
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
+| Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
 | Stray | 177394 | [177394-stray.json](./177394-stray.json) |
 | Stray Beasts | 256324 | [256324-stray-beasts.json](./256324-stray-beasts.json) |
@@ -13488,6 +13493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors of Mayhem | 274036 | [274036-survivors-of-mayhem.json](./274036-survivors-of-mayhem.json) |
 | Survivors of the Dawn | 236928 | [236928-survivors-of-the-dawn.json](./236928-survivors-of-the-dawn.json) |
 | Survivors of the Mare Vitalis | 267434 | [267434-survivors-of-the-mare-vitalis.json](./267434-survivors-of-the-mare-vitalis.json) |
+| Survivors of the Plague | 259597 | [259597-survivors-of-the-plague.json](./259597-survivors-of-the-plague.json) |
 | Survivors Of The Zombie World | 338294 | [338294-survivors-of-the-zombie-world.json](./338294-survivors-of-the-zombie-world.json) |
 | Survivors of Xcalibur | 334852 | [334852-survivors-of-xcalibur.json](./334852-survivors-of-xcalibur.json) |
 | Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
