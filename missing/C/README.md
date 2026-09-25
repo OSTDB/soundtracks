@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
 | Cards of the Realm | 246916 | [246916-cards-of-the-realm.json](./246916-cards-of-the-realm.json) |
 | Cards Survivors | 246487 | [246487-cards-survivors.json](./246487-cards-survivors.json) |
+| Cards We're Dealt | 244741 | [244741-cards-were-dealt.json](./244741-cards-were-dealt.json) |
 | Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
 | Cards, Universe & Everything | 248154 | [248154-cards-universe-and-everything.json](./248154-cards-universe-and-everything.json) |
 | Cards! MonkeyBox 2 | 174300 | [174300-cards-monkeybox-2.json](./174300-cards-monkeybox-2.json) |
@@ -6673,6 +6674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Core: Final Fantasy VII | 2407 | [2407-crisis-core-final-fantasy-vii.json](./2407-crisis-core-final-fantasy-vii.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
+| Crisis Island | 244729 | [244729-crisis-island.json](./244729-crisis-island.json) |
 | Crisis of the Middle Ages | 118408 | [118408-crisis-of-the-middle-ages.json](./118408-crisis-of-the-middle-ages.json) |
 | Crisis on Nova 2 | 157192 | [157192-crisis-on-nova-2.json](./157192-crisis-on-nova-2.json) |
 | Crisis on the Planet of the Apes VR | 89552 | [89552-crisis-on-the-planet-of-the-apes-vr.json](./89552-crisis-on-the-planet-of-the-apes-vr.json) |
