@@ -790,6 +790,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Cafe Coop | 381636 | [381636-maid-cafe-coop.json](./381636-maid-cafe-coop.json) |
 | Maid Cafe on Electric Street | 302952 | [302952-maid-cafe-on-electric-street.json](./302952-maid-cafe-on-electric-street.json) |
 | Maid Cafe Simulator | 393665 | [393665-maid-cafe-simulator.json](./393665-maid-cafe-simulator.json) |
+| Maid Cafe: Delightful Sins Comics | 265610 | [265610-maid-cafe-delightful-sins-comics.json](./265610-maid-cafe-delightful-sins-comics.json) |
+| Maid Cafe: Sexy Secrets | 265604 | [265604-maid-cafe-sexy-secrets.json](./265604-maid-cafe-sexy-secrets.json) |
 | Maid Envy | 74760 | [74760-maid-envy.json](./74760-maid-envy.json) |
 | Maid for Loving You | 227872 | [227872-maid-for-loving-you.json](./227872-maid-for-loving-you.json) |
 | Maid for Loving You | 255115 | [255115-maid-for-loving-you.json](./255115-maid-for-loving-you.json) |
@@ -4372,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MILFs in Paris | 366234 | [366234-milfs-in-paris.json](./366234-milfs-in-paris.json) |
 | Milfvania Ep. 1 | 295234 | [295234-milfvania-ep-1.json](./295234-milfvania-ep-1.json) |
 | Milfy City | 239289 | [239289-milfy-city.json](./239289-milfy-city.json) |
+| Milfy City: Final Edition | 265575 | [265575-milfy-city-final-edition.json](./265575-milfy-city-final-edition.json) |
 | Milgram | 89213 | [89213-milgram.json](./89213-milgram.json) |
 | Milinda Wind - Geheimnis des Zephyros | 92283 | [92283-milinda-wind-geheimnis-des-zephyros.json](./92283-milinda-wind-geheimnis-des-zephyros.json) |
 | Milita Aventuro | 218711 | [218711-milita-aventuro.json](./218711-milita-aventuro.json) |
@@ -7772,6 +7775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
 | My Neighbor's Lonely Wife 2 | 379889 | [379889-my-neighbors-lonely-wife-2.json](./379889-my-neighbors-lonely-wife-2.json) |
+| My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
 | My New Tenant | 408305 | [408305-my-new-tenant.json](./408305-my-new-tenant.json) |
 | My Newborn Santa: Grow A Christmas Baby | 256348 | [256348-my-newborn-santa-grow-a-christmas-baby.json](./256348-my-newborn-santa-grow-a-christmas-baby.json) |
