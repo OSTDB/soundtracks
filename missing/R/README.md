@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R for Revenge | 400364 | [400364-r-for-revenge.json](./400364-r-for-revenge.json) |
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
 | R Place Guesser | 198339 | [198339-r-place-guesser.json](./198339-r-place-guesser.json) |
+| R-Ack | 260101 | [260101-r-ack.json](./260101-r-ack.json) |
 | R-Coil | 68792 | [68792-r-coil.json](./68792-r-coil.json) |
 | R-Draw | 108857 | [108857-r-draw.json](./108857-r-draw.json) |
 | R-Naught | 151016 | [151016-r-naught.json](./151016-r-naught.json) |
@@ -3646,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
 | Rocket Car: Ultimate Ball League Machines - Premium Edition | 306523 | [306523-rocket-car-ultimate-ball-league-machines-premium-edition.json](./306523-rocket-car-ultimate-ball-league-machines-premium-edition.json) |
 | Rocket Cars | 265427 | [265427-rocket-cars.json](./265427-rocket-cars.json) |
+| Rocket Carz Racing | 260195 | [260195-rocket-carz-racing.json](./260195-rocket-carz-racing.json) |
 | Rocket Cave Adventure | 160227 | [160227-rocket-cave-adventure.json](./160227-rocket-cave-adventure.json) |
 | Rocket Chameleon | 58750 | [58750-rocket-chameleon.json](./58750-rocket-chameleon.json) |
 | Rocket Coaster | 82928 | [82928-rocket-coaster.json](./82928-rocket-coaster.json) |
