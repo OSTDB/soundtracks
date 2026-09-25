@@ -1613,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift Shop Factory | 159360 | [159360-gift-shop-factory.json](./159360-gift-shop-factory.json) |
 | Gift to Humanity | 75163 | [75163-gift-to-humanity.json](./75163-gift-to-humanity.json) |
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
+| Gifted Island | 244727 | [244727-gifted-island.json](./244727-gifted-island.json) |
 | Giftpia | 3931 | [3931-giftpia.json](./3931-giftpia.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
 | Gig Life | 198449 | [198449-gig-life.json](./198449-gig-life.json) |
