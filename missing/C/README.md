@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Logic | 334092 | [334092-cats-logic.json](./334092-cats-logic.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
+| Cats on Duty | 257903 | [257903-cats-on-duty.json](./257903-cats-on-duty.json) |
 | Cats on Streets | 275033 | [275033-cats-on-streets.json](./275033-cats-on-streets.json) |
 | Cats Ritual | 359998 | [359998-cats-ritual.json](./359998-cats-ritual.json) |
 | Cats Spotter | 264673 | [264673-cats-spotter.json](./264673-cats-spotter.json) |
@@ -3858,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climber: Sky is the Limit | 129701 | [129701-climber-sky-is-the-limit.json](./129701-climber-sky-is-the-limit.json) |
 | Climbing Back to the Mothership | 336698 | [336698-climbing-back-to-the-mothership.json](./336698-climbing-back-to-the-mothership.json) |
 | Climbing Challenge | 246434 | [246434-climbing-challenge.json](./246434-climbing-challenge.json) |
+| Climbing Mountain Sins | 257915 | [257915-climbing-mountain-sins.json](./257915-climbing-mountain-sins.json) |
 | Climbing Simplified | 392812 | [392812-climbing-simplified.json](./392812-climbing-simplified.json) |
 | Climbing The Eidolon | 383513 | [383513-climbing-the-eidolon.json](./383513-climbing-the-eidolon.json) |
 | Climbtime | 31171 | [31171-climbtime.json](./31171-climbtime.json) |
@@ -3911,6 +3913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
 | Cloning Chaos | 302489 | [302489-cloning-chaos.json](./302489-cloning-chaos.json) |
+| Clonizer | 257887 | [257887-clonizer.json](./257887-clonizer.json) |
 | Clonk 2: Debakel | 94534 | [94534-clonk-2-debakel.json](./94534-clonk-2-debakel.json) |
 | Clonk 3: Radikal | 46580 | [46580-clonk-3-radikal.json](./46580-clonk-3-radikal.json) |
 | Clonk A.P.E. | 79332 | [79332-clonk-a-p-e.json](./79332-clonk-a-p-e.json) |
@@ -7682,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybel | 142887 | [142887-cybel.json](./142887-cybel.json) |
 | Cyber | 185031 | [185031-cyber.json](./185031-cyber.json) |
 | Cyber Agent | 132200 | [132200-cyber-agent.json](./132200-cyber-agent.json) |
+| Cyber Assault | 257899 | [257899-cyber-assault.json](./257899-cyber-assault.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
 | Cyber Avenger | 267467 | [267467-cyber-avenger.json](./267467-cyber-avenger.json) |
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
