@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James' Fun House: Episode 1 | 276856 | [276856-james-fun-house-episode-1.json](./276856-james-fun-house-episode-1.json) |
 | Jameson: The Pilot | 62464 | [62464-jameson-the-pilot.json](./62464-jameson-the-pilot.json) |
 | Jamestown: Legend of the Lost Colony | 6278 | [6278-jamestown-legend-of-the-lost-colony.json](./6278-jamestown-legend-of-the-lost-colony.json) |
+| Jamie | 245284 | [245284-jamie.json](./245284-jamie.json) |
 | Jamie Quest | 327373 | [327373-jamie-quest.json](./327373-jamie-quest.json) |
 | JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
