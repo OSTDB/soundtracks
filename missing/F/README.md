@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's Fury | 72082 | [72082-fighters-fury.json](./72082-fighters-fury.json) |
 | Fighter's History 2 | 58791 | [58791-fighters-history-2.json](./58791-fighters-history-2.json) |
 | Fighter's Rampage | 235309 | [235309-fighters-rampage.json](./235309-fighters-rampage.json) |
+| Fighters of Capcom | 280849 | [280849-fighters-of-capcom.json](./280849-fighters-of-capcom.json) |
 | Fighters Unleashed | 30166 | [30166-fighters-unleashed.json](./30166-fighters-unleashed.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
 | Fighters' Glory | 129700 | [129700-fighters-glory.json](./129700-fighters-glory.json) |
@@ -4237,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FragPunk: Toys Awaken - Season 2: Chapter 2 | 362276 | [362276-fragpunk-toys-awaken-season-2-chapter-2.json](./362276-fragpunk-toys-awaken-season-2-chapter-2.json) |
 | Fragrance Tale | 58175 | [58175-fragrance-tale.json](./58175-fragrance-tale.json) |
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
+| Fragrant Story: Papaya's Path | 280862 | [280862-fragrant-story-papayas-path.json](./280862-fragrant-story-papayas-path.json) |
 | Fragroom: Defenders | 190094 | [190094-fragroom-defenders.json](./190094-fragroom-defenders.json) |
 | Frak | 257472 | [257472-frak.json](./257472-frak.json) |
 | Frak | 350484 | [350484-frak.json](./350484-frak.json) |
