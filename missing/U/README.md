@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
 | Underground Security Inc | 367984 | [367984-underground-security-inc.json](./367984-underground-security-inc.json) |
 | Underground Station | 313227 | [313227-underground-station.json](./313227-underground-station.json) |
+| Underground Waifus TCG | 273365 | [273365-underground-waifus-tcg.json](./273365-underground-waifus-tcg.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
 | Underhero | 36652 | [36652-underhero.json](./36652-underhero.json) |
 | Underkeep | 389458 | [389458-underkeep.json](./389458-underkeep.json) |
