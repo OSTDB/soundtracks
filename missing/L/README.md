@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Eclipse | 314301 | [314301-labyrinth-of-eclipse.json](./314301-labyrinth-of-eclipse.json) |
 | Labyrinth of Galleria: The Moon Society - Great Boots Quest | 232466 | [232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json](./232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json) |
 | Labyrinth of Galleria: The Moon Society - Great Hat Quest | 232467 | [232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json](./232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json) |
+| Labyrinth of Light | 236796 | [236796-labyrinth-of-light.json](./236796-labyrinth-of-light.json) |
 | Labyrinth of Rage | 262966 | [262966-labyrinth-of-rage.json](./262966-labyrinth-of-rage.json) |
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
@@ -1731,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
 | Life Combinations | 117479 | [117479-life-combinations.json](./117479-life-combinations.json) |
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
+| Life Effect | 236763 | [236763-life-effect.json](./236763-life-effect.json) |
 | Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
 | Life Force | 261899 | [261899-life-force.json](./261899-life-force.json) |
 | Life Force | 261900 | [261900-life-force.json](./261900-life-force.json) |
