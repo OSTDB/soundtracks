@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Snake | 412269 | [412269-ultimate-snake.json](./412269-ultimate-snake.json) |
 | Ultimate Soccer | 237502 | [237502-ultimate-soccer.json](./237502-ultimate-soccer.json) |
 | Ultimate Soccer | 331952 | [331952-ultimate-soccer.json](./331952-ultimate-soccer.json) |
+| Ultimate Solitaire Collection | 270091 | [270091-ultimate-solitaire-collection.json](./270091-ultimate-solitaire-collection.json) |
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Sparring | 334077 | [334077-ultimate-sparring.json](./334077-ultimate-sparring.json) |
 | Ultimate Spider Hero | 81629 | [81629-ultimate-spider-hero.json](./81629-ultimate-spider-hero.json) |
