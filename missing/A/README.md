@@ -1259,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
+| Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Enchantment | 312672 | [312672-age-of-enchantment.json](./312672-age-of-enchantment.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
