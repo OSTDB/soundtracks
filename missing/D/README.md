@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
+| Defender X | 275665 | [275665-defender-x.json](./275665-defender-x.json) |
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
 | Defenders | 309497 | [309497-defenders.json](./309497-defenders.json) |
 | Defenders Glory | 195638 | [195638-defenders-glory.json](./195638-defenders-glory.json) |
@@ -4687,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donny Donut: Stardust | 417697 | [417697-donny-donut-stardust.json](./417697-donny-donut-stardust.json) |
 | DoNor - Onna Tantei Ryoujoku | 131380 | [131380-donor-onna-tantei-ryoujoku.json](./131380-donor-onna-tantei-ryoujoku.json) |
 | Donsol | 177521 | [177521-donsol.json](./177521-donsol.json) |
+| Donsol | 275678 | [275678-donsol.json](./275678-donsol.json) |
 | Dont Jump: Gamesforfarm | 364592 | [364592-dont-jump-gamesforfarm.json](./364592-dont-jump-gamesforfarm.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
@@ -5270,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Race | 18104 | [18104-drag-race.json](./18104-drag-race.json) |
 | Drag Race: Reaction Trainer | 87257 | [87257-drag-race-reaction-trainer.json](./87257-drag-race-reaction-trainer.json) |
 | Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
+| Drag Racing Car Simulator | 275679 | [275679-drag-racing-car-simulator.json](./275679-drag-racing-car-simulator.json) |
 | Drag'n'Boom | 68318 | [68318-dragnboom.json](./68318-dragnboom.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
