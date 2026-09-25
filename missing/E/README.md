@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erannorth Reborn: Canticum Noctem | 168913 | [168913-erannorth-reborn-canticum-noctem.json](./168913-erannorth-reborn-canticum-noctem.json) |
 | Erannorth Renaissance | 280288 | [280288-erannorth-renaissance.json](./280288-erannorth-renaissance.json) |
 | Eras of Alchemy | 233531 | [233531-eras-of-alchemy.json](./233531-eras-of-alchemy.json) |
+| Eras Rising | 244731 | [244731-eras-rising.json](./244731-eras-rising.json) |
 | Erase Box | 227925 | [227925-erase-box.json](./227925-erase-box.json) |
 | Erase: Missing Link | 361802 | [361802-erase-missing-link.json](./361802-erase-missing-link.json) |
 | Eraser | 339263 | [339263-eraser.json](./339263-eraser.json) |
