@@ -6988,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Bundle | 218489 | [218489-butterfly-bundle.json](./218489-butterfly-bundle.json) |
 | Butterfly Collector | 183536 | [183536-butterfly-collector.json](./183536-butterfly-collector.json) |
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
+| Butterfly Effect | 243651 | [243651-butterfly-effect.json](./243651-butterfly-effect.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Butterfly Sky | 233519 | [233519-butterfly-sky.json](./233519-butterfly-sky.json) |
 | Butterfly Soup 2 | 165549 | [165549-butterfly-soup-2.json](./165549-butterfly-soup-2.json) |
