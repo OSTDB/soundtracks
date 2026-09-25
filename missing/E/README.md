@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Surprise | 314432 | [314432-egg-surprise.json](./314432-egg-surprise.json) |
 | Egg Tales | 58749 | [58749-egg-tales.json](./58749-egg-tales.json) |
 | Egg Time | 31213 | [31213-egg-time.json](./31213-egg-time.json) |
+| Egg War Puzzle | 257916 | [257916-egg-war-puzzle.json](./257916-egg-war-puzzle.json) |
 | Egg Yolk Life | 129715 | [129715-egg-yolk-life.json](./129715-egg-yolk-life.json) |
 | Eggconsole Advanced Lord Monarch PC-9801 | 394385 | [394385-eggconsole-advanced-lord-monarch-pc-9801.json](./394385-eggconsole-advanced-lord-monarch-pc-9801.json) |
 | Eggconsole Adventure of Randar MSX2 | 399637 | [399637-eggconsole-adventure-of-randar-msx2.json](./399637-eggconsole-adventure-of-randar-msx2.json) |
@@ -1010,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsewhere Electric | 336146 | [336146-elsewhere-electric.json](./336146-elsewhere-electric.json) |
 | Elsewhere High: Chapter 2 - A Visual Novel | 168866 | [168866-elsewhere-high-chapter-2-a-visual-novel.json](./168866-elsewhere-high-chapter-2-a-visual-novel.json) |
 | Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
+| Elshe no Shounen | 257902 | [257902-elshe-no-shounen.json](./257902-elshe-no-shounen.json) |
 | Elsp | 229822 | [229822-elsp.json](./229822-elsp.json) |
 | Elsword | 115692 | [115692-elsword.json](./115692-elsword.json) |
 | Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
@@ -2928,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus Core | 347750 | [347750-exodus-core.json](./347750-exodus-core.json) |
 | Exodus Flight | 297070 | [297070-exodus-flight.json](./297070-exodus-flight.json) |
 | Exodus Idle | 211761 | [211761-exodus-idle.json](./211761-exodus-idle.json) |
+| Exodus: Sunflower on the Horizon | 257977 | [257977-exodus-sunflower-on-the-horizon.json](./257977-exodus-sunflower-on-the-horizon.json) |
 | ExoFrontier: Venus | 319724 | [319724-exofrontier-venus.json](./319724-exofrontier-venus.json) |
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
