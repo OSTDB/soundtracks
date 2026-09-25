@@ -5483,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Memory Training Academy | 283727 | [283727-brain-memory-training-academy.json](./283727-brain-memory-training-academy.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
 | Brain Memory: Director's Cut | 261365 | [261365-brain-memory-directors-cut.json](./261365-brain-memory-directors-cut.json) |
+| Brain Memory: Game of the Year Edition | 266167 | [266167-brain-memory-game-of-the-year-edition.json](./266167-brain-memory-game-of-the-year-edition.json) |
 | Brain Memory: Premium Edition | 241394 | [241394-brain-memory-premium-edition.json](./241394-brain-memory-premium-edition.json) |
 | Brain Off | 172101 | [172101-brain-off.json](./172101-brain-off.json) |
 | Brain on Physics Boxs Puzzles | 86990 | [86990-brain-on-physics-boxs-puzzles.json](./86990-brain-on-physics-boxs-puzzles.json) |
