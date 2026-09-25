@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 500 GP | 249253 | [249253-500-gp.json](./249253-500-gp.json) |
 | 5001 Games the Ultimate Games Pack | 147280 | [147280-5001-games-the-ultimate-games-pack.json](./147280-5001-games-the-ultimate-games-pack.json) |
 | 505 Game Collection | 266324 | [266324-505-game-collection.json](./266324-505-game-collection.json) |
+| 5050 | 260709 | [260709-5050.json](./260709-5050.json) |
 | 50CK3T | 283869 | [283869-50ck3t.json](./283869-50ck3t.json) |
 | 50K Racewalker | 135864 | [135864-50k-racewalker.json](./135864-50k-racewalker.json) |
 | 512 | 31204 | [31204-512.json](./31204-512.json) |
