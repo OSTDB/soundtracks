@@ -4536,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milon no Hoshizora Shabon: Puzzle Kumikyoku | 97681 | [97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json](./97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json) |
 | Milon's Secret Hell | 323347 | [323347-milons-secret-hell.json](./323347-milons-secret-hell.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
+| Milton Cumberdale | 238990 | [238990-milton-cumberdale.json](./238990-milton-cumberdale.json) |
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimesis Online | 23453 | [23453-mimesis-online.json](./23453-mimesis-online.json) |
