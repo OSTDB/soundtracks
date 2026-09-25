@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T13:03:48.310Z",
-  "total_missing": 120993,
+  "generated_at": "2026-09-25T13:18:14.140Z",
+  "total_missing": 121043,
   "games": [
     {
       "igdb_id": 176875,
@@ -4571,6 +4571,11 @@
       "igdb_id": 415875,
       "game_name": "5-Star Taxi",
       "file": "missing/0-9/415875-5-star-taxi.json"
+    },
+    {
+      "igdb_id": 251585,
+      "game_name": "5-Step Steve",
+      "file": "missing/0-9/251585-5-step-steve.json"
     },
     {
       "igdb_id": 277038,
@@ -23548,6 +23553,11 @@
       "file": "missing/A/130388-ano-ne-ds.json"
     },
     {
+      "igdb_id": 251530,
+      "game_name": "Ano, Subarashii wo Mou Ichido: Saisouban HD",
+      "file": "missing/A/251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json"
+    },
+    {
       "igdb_id": 211398,
       "game_name": "Anodos",
       "file": "missing/A/211398-anodos.json"
@@ -27096,6 +27106,11 @@
       "igdb_id": 313224,
       "game_name": "Arcade Archives: Tecmo Stackers",
       "file": "missing/A/313224-arcade-archives-tecmo-stackers.json"
+    },
+    {
+      "igdb_id": 251538,
+      "game_name": "Arcade Archives: Tetris - The Absolute: The Grand Master 2 Plus",
+      "file": "missing/A/251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json"
     },
     {
       "igdb_id": 146827,
@@ -30671,6 +30686,11 @@
       "igdb_id": 227374,
       "game_name": "Art Master 2",
       "file": "missing/A/227374-art-master-2.json"
+    },
+    {
+      "igdb_id": 251529,
+      "game_name": "Art na Esagashi Adventure",
+      "file": "missing/A/251529-art-na-esagashi-adventure.json"
     },
     {
       "igdb_id": 47654,
@@ -41911,6 +41931,11 @@
       "igdb_id": 264322,
       "game_name": "Bandido",
       "file": "missing/B/264322-bandido.json"
+    },
+    {
+      "igdb_id": 251553,
+      "game_name": "Bandit",
+      "file": "missing/B/251553-bandit.json"
     },
     {
       "igdb_id": 330887,
@@ -86708,6 +86733,11 @@
       "file": "missing/C/275929-chikn-nuggit-nightmare-fwiends.json"
     },
     {
+      "igdb_id": 251520,
+      "game_name": "Chiko-chan no Noukatsu Kenkyuujo",
+      "file": "missing/C/251520-chiko-chan-no-noukatsu-kenkyuujo.json"
+    },
+    {
       "igdb_id": 302957,
       "game_name": "Chikoku no Mokushiroku: Ver.2.00",
       "file": "missing/C/302957-chikoku-no-mokushiroku-ver-2-00.json"
@@ -88136,6 +88166,11 @@
       "igdb_id": 220846,
       "game_name": "Chotto Magic Taizen: Suki Kirai Hakkenki",
       "file": "missing/C/220846-chotto-magic-taizen-suki-kirai-hakkenki.json"
+    },
+    {
+      "igdb_id": 251532,
+      "game_name": "Chotto xx na Watashi no Nichijou: Kiki Dasshutsu!? Gyakuten no Nazotoki Life",
+      "file": "missing/C/251532-chotto-xx-na-watashi-no-nichijou-kiki-dasshutsu-gyakuten-no-nazotoki-life.json"
     },
     {
       "igdb_id": 304665,
@@ -121388,6 +121423,11 @@
       "file": "missing/D/206153-death-game.json"
     },
     {
+      "igdb_id": 251554,
+      "game_name": "Death Game Hotel",
+      "file": "missing/D/251554-death-game-hotel.json"
+    },
+    {
       "igdb_id": 116377,
       "game_name": "Death Hall",
       "file": "missing/D/116377-death-hall.json"
@@ -122821,6 +122861,11 @@
       "igdb_id": 270354,
       "game_name": "Deep Rock Galactic: Rogue Core",
       "file": "missing/D/270354-deep-rock-galactic-rogue-core.json"
+    },
+    {
+      "igdb_id": 251542,
+      "game_name": "Deep Rock Galactic: Season 4 - Critical Corruption",
+      "file": "missing/D/251542-deep-rock-galactic-season-4-critical-corruption.json"
     },
     {
       "igdb_id": 240556,
@@ -124526,6 +124571,11 @@
       "igdb_id": 5837,
       "game_name": "Dementium II HD",
       "file": "missing/D/5837-dementium-ii-hd.json"
+    },
+    {
+      "igdb_id": 251555,
+      "game_name": "Demeo Battles",
+      "file": "missing/D/251555-demeo-battles.json"
     },
     {
       "igdb_id": 194737,
@@ -130183,6 +130233,11 @@
       "file": "missing/D/89608-dimension-of-monster-girls.json"
     },
     {
+      "igdb_id": 251546,
+      "game_name": "Dimension of the Boomed",
+      "file": "missing/D/251546-dimension-of-the-boomed.json"
+    },
+    {
       "igdb_id": 271723,
       "game_name": "Dimension of the Diminished",
       "file": "missing/D/271723-dimension-of-the-diminished.json"
@@ -135291,6 +135346,11 @@
       "igdb_id": 408770,
       "game_name": "Doko he Iku no, Ano Hi",
       "file": "missing/D/408770-doko-he-iku-no-ano-hi.json"
+    },
+    {
+      "igdb_id": 251514,
+      "game_name": "Doko ni Iru? Hijouguchi no Pict-san",
+      "file": "missing/D/251514-doko-ni-iru-hijouguchi-no-pict-san.json"
     },
     {
       "igdb_id": 210242,
@@ -147911,6 +147971,11 @@
       "igdb_id": 363950,
       "game_name": "Dungeons of Edera 2",
       "file": "missing/D/363950-dungeons-of-edera-2.json"
+    },
+    {
+      "igdb_id": 251564,
+      "game_name": "Dungeons of Eternity",
+      "file": "missing/D/251564-dungeons-of-eternity.json"
     },
     {
       "igdb_id": 408249,
@@ -168286,6 +168351,11 @@
       "igdb_id": 208584,
       "game_name": "Family Chess: Deluxe Edition",
       "file": "missing/F/208584-family-chess-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 251525,
+      "game_name": "Family Chess: Director's Cut",
+      "file": "missing/F/251525-family-chess-directors-cut.json"
     },
     {
       "igdb_id": 246647,
@@ -194883,6 +194953,11 @@
       "file": "missing/G/69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json"
     },
     {
+      "igdb_id": 251521,
+      "game_name": "Game de Raku-raku Nou-tre",
+      "file": "missing/G/251521-game-de-raku-raku-nou-tre.json"
+    },
+    {
       "igdb_id": 245877,
       "game_name": "Game Dev Fantasy",
       "file": "missing/G/245877-game-dev-fantasy.json"
@@ -199803,6 +199878,16 @@
       "file": "missing/G/97210-ghost-ship-hidden-object-adventure-games.json"
     },
     {
+      "igdb_id": 251560,
+      "game_name": "Ghost Signal: A Stellaris Game",
+      "file": "missing/G/251560-ghost-signal-a-stellaris-game.json"
+    },
+    {
+      "igdb_id": 251575,
+      "game_name": "Ghost Signal: Fleet Expansion",
+      "file": "missing/G/251575-ghost-signal-fleet-expansion.json"
+    },
+    {
       "igdb_id": 258491,
       "game_name": "Ghost Simulator",
       "file": "missing/G/258491-ghost-simulator.json"
@@ -201081,6 +201166,11 @@
       "igdb_id": 368116,
       "game_name": "GirlFriend VR",
       "file": "missing/G/368116-girlfriend-vr.json"
+    },
+    {
+      "igdb_id": 251518,
+      "game_name": "Girlfriend's Betrayal",
+      "file": "missing/G/251518-girlfriends-betrayal.json"
     },
     {
       "igdb_id": 75784,
@@ -223763,6 +223853,11 @@
       "file": "missing/H/136428-hentai-girl-linda.json"
     },
     {
+      "igdb_id": 251548,
+      "game_name": "Hentai Girls",
+      "file": "missing/H/251548-hentai-girls.json"
+    },
+    {
       "igdb_id": 294164,
       "game_name": "Hentai Girls",
       "file": "missing/H/294164-hentai-girls.json"
@@ -225481,6 +225576,11 @@
       "igdb_id": 50485,
       "game_name": "Hero's Heart",
       "file": "missing/H/50485-heros-heart.json"
+    },
+    {
+      "igdb_id": 251551,
+      "game_name": "Hero's Hour: Deluxe Edition",
+      "file": "missing/H/251551-heros-hour-deluxe-edition.json"
     },
     {
       "igdb_id": 373743,
@@ -236933,6 +237033,11 @@
       "file": "missing/H/291467-human-milk-seller.json"
     },
     {
+      "igdb_id": 251534,
+      "game_name": "Human or Not?",
+      "file": "missing/H/251534-human-or-not.json"
+    },
+    {
       "igdb_id": 142263,
       "game_name": "Human or Virus",
       "file": "missing/H/142263-human-or-virus.json"
@@ -247848,6 +247953,11 @@
       "file": "missing/I/169369-innocent-girl.json"
     },
     {
+      "igdb_id": 251517,
+      "game_name": "Innocent Stuck-up Girls!",
+      "file": "missing/I/251517-innocent-stuck-up-girls.json"
+    },
+    {
       "igdb_id": 270756,
       "game_name": "Innocent Tour",
       "file": "missing/I/270756-innocent-tour.json"
@@ -251811,6 +251921,11 @@
       "igdb_id": 263552,
       "game_name": "Isle of Jura Fishing Trip: Definitive Edition",
       "file": "missing/I/263552-isle-of-jura-fishing-trip-definitive-edition.json"
+    },
+    {
+      "igdb_id": 251536,
+      "game_name": "Isle of Jura Fishing Trip: Extended Edition",
+      "file": "missing/I/251536-isle-of-jura-fishing-trip-extended-edition.json"
     },
     {
       "igdb_id": 251689,
@@ -266276,6 +266391,11 @@
       "igdb_id": 82803,
       "game_name": "Kimi no Hitomi ni Hit Me",
       "file": "missing/K/82803-kimi-no-hitomi-ni-hit-me.json"
+    },
+    {
+      "igdb_id": 251537,
+      "game_name": "Kimi no Mirai",
+      "file": "missing/K/251537-kimi-no-mirai.json"
     },
     {
       "igdb_id": 194548,
@@ -284223,6 +284343,31 @@
       "file": "missing/L/201654-little-cities.json"
     },
     {
+      "igdb_id": 251571,
+      "game_name": "Little Cities: Attractions Update",
+      "file": "missing/L/251571-little-cities-attractions-update.json"
+    },
+    {
+      "igdb_id": 251570,
+      "game_name": "Little Cities: Hand Tracking Update",
+      "file": "missing/L/251570-little-cities-hand-tracking-update.json"
+    },
+    {
+      "igdb_id": 251573,
+      "game_name": "Little Cities: Little Citizens Update",
+      "file": "missing/L/251573-little-cities-little-citizens-update.json"
+    },
+    {
+      "igdb_id": 251574,
+      "game_name": "Little Cities: Sandbox Update",
+      "file": "missing/L/251574-little-cities-sandbox-update.json"
+    },
+    {
+      "igdb_id": 251572,
+      "game_name": "Little Cities: Snowy Islands DLC",
+      "file": "missing/L/251572-little-cities-snowy-islands-dlc.json"
+    },
+    {
       "igdb_id": 9544,
       "game_name": "Little City",
       "file": "missing/L/9544-little-city.json"
@@ -301983,6 +302128,11 @@
       "file": "missing/M/272508-marvels-spider-man-2-digital-deluxe-edition.json"
     },
     {
+      "igdb_id": 251543,
+      "game_name": "Marvel's Spider-Man: New Game Plus Update",
+      "file": "missing/M/251543-marvels-spider-man-new-game-plus-update.json"
+    },
+    {
       "igdb_id": 109422,
       "game_name": "Marvel's Spider-Man: Silver Lining",
       "file": "missing/M/109422-marvels-spider-man-silver-lining.json"
@@ -303601,6 +303751,11 @@
       "igdb_id": 175372,
       "game_name": "Math Evolve: A Fun Math Game",
       "file": "missing/M/175372-math-evolve-a-fun-math-game.json"
+    },
+    {
+      "igdb_id": 251531,
+      "game_name": "Math Fight: Multiplayer Game",
+      "file": "missing/M/251531-math-fight-multiplayer-game.json"
     },
     {
       "igdb_id": 301358,
@@ -309506,6 +309661,11 @@
       "igdb_id": 123595,
       "game_name": "Memory Eater",
       "file": "missing/M/123595-memory-eater.json"
+    },
+    {
+      "igdb_id": 251522,
+      "game_name": "Memory for Kids",
+      "file": "missing/M/251522-memory-for-kids.json"
     },
     {
       "igdb_id": 263501,
@@ -325573,6 +325733,11 @@
       "file": "missing/M/328837-mosaic-chronicles-deluxe-complete.json"
     },
     {
+      "igdb_id": 251533,
+      "game_name": "Mosaic Chronicles Deluxe: Extended Edition",
+      "file": "missing/M/251533-mosaic-chronicles-deluxe-extended-edition.json"
+    },
+    {
       "igdb_id": 260688,
       "game_name": "Mosaic Chronicles Deluxe: Special Edition",
       "file": "missing/M/260688-mosaic-chronicles-deluxe-special-edition.json"
@@ -327106,6 +327271,11 @@
       "igdb_id": 94981,
       "game_name": "MovieStarPlanet",
       "file": "missing/M/94981-moviestarplanet.json"
+    },
+    {
+      "igdb_id": 251550,
+      "game_name": "Moving Blocks Puzzle",
+      "file": "missing/M/251550-moving-blocks-puzzle.json"
     },
     {
       "igdb_id": 258030,
@@ -336221,6 +336391,11 @@
       "igdb_id": 81005,
       "game_name": "National Rugby Manager",
       "file": "missing/N/81005-national-rugby-manager.json"
+    },
+    {
+      "igdb_id": 251545,
+      "game_name": "National Videogame Museum",
+      "file": "missing/N/251545-national-videogame-museum.json"
     },
     {
       "igdb_id": 36148,
@@ -352331,6 +352506,11 @@
       "igdb_id": 276467,
       "game_name": "Oku dake Drill Shougaku 6-nensei Kanji",
       "file": "missing/O/276467-oku-dake-drill-shougaku-6-nensei-kanji.json"
+    },
+    {
+      "igdb_id": 251527,
+      "game_name": "Oku dake Nou-tre Yubi Ippon",
+      "file": "missing/O/251527-oku-dake-nou-tre-yubi-ippon.json"
     },
     {
       "igdb_id": 261375,
@@ -400103,6 +400283,11 @@
       "file": "missing/R/12216-rack-n-ruin.json"
     },
     {
+      "igdb_id": 251558,
+      "game_name": "Racket Club",
+      "file": "missing/R/251558-racket-club.json"
+    },
+    {
       "igdb_id": 163981,
       "game_name": "RackJacker",
       "file": "missing/R/163981-rackjacker.json"
@@ -426908,6 +427093,11 @@
       "file": "missing/S/264096-samba-de-amigo-party-to-go.json"
     },
     {
+      "igdb_id": 251561,
+      "game_name": "Samba de Amigo: Virtual Party",
+      "file": "missing/S/251561-samba-de-amigo-virtual-party.json"
+    },
+    {
       "igdb_id": 64423,
       "game_name": "Same",
       "file": "missing/S/64423-same.json"
@@ -433503,6 +433693,11 @@
       "file": "missing/S/201864-secret-reflections-collection.json"
     },
     {
+      "igdb_id": 251526,
+      "game_name": "Secret Romance With Streamer Girls",
+      "file": "missing/S/251526-secret-romance-with-streamer-girls.json"
+    },
+    {
       "igdb_id": 114383,
       "game_name": "Secret Savings",
       "file": "missing/S/114383-secret-savings.json"
@@ -434601,6 +434796,11 @@
       "igdb_id": 247541,
       "game_name": "Seishun Quiz Colorful High School",
       "file": "missing/S/247541-seishun-quiz-colorful-high-school.json"
+    },
+    {
+      "igdb_id": 251515,
+      "game_name": "Seishun! Bukatsu Aruaru",
+      "file": "missing/S/251515-seishun-bukatsu-aruaru.json"
     },
     {
       "igdb_id": 399191,
@@ -445053,6 +445253,11 @@
       "file": "missing/S/404429-silent-shark.json"
     },
     {
+      "igdb_id": 251562,
+      "game_name": "Silent Slayer: Vault of the Vampire",
+      "file": "missing/S/251562-silent-slayer-vault-of-the-vampire.json"
+    },
+    {
       "igdb_id": 284483,
       "game_name": "Silent Sonata",
       "file": "missing/S/284483-silent-sonata.json"
@@ -453931,6 +454136,11 @@
       "igdb_id": 156650,
       "game_name": "Sneaky Kitten",
       "file": "missing/S/156650-sneaky-kitten.json"
+    },
+    {
+      "igdb_id": 251540,
+      "game_name": "Sneaky Monsters",
+      "file": "missing/S/251540-sneaky-monsters.json"
     },
     {
       "igdb_id": 264625,
@@ -568823,6 +569033,11 @@
       "file": "missing/V/146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json"
     },
     {
+      "igdb_id": 251559,
+      "game_name": "Vampire: The Masquerade - Justice",
+      "file": "missing/V/251559-vampire-the-masquerade-justice.json"
+    },
+    {
       "igdb_id": 133401,
       "game_name": "Vampire: The Masquerade - Night Road",
       "file": "missing/V/133401-vampire-the-masquerade-night-road.json"
@@ -574423,6 +574638,11 @@
       "file": "missing/V/105964-voxel-doodle-color-by-number-3d.json"
     },
     {
+      "igdb_id": 251544,
+      "game_name": "Voxel Doom",
+      "file": "missing/V/251544-voxel-doom.json"
+    },
+    {
       "igdb_id": 260124,
       "game_name": "Voxel Doom II",
       "file": "missing/V/260124-voxel-doom-ii.json"
@@ -576378,6 +576598,16 @@
       "file": "missing/W/372655-walkabout-mini-golf-forgotten-fairyland.json"
     },
     {
+      "igdb_id": 251576,
+      "game_name": "Walkabout Mini Golf: Journey to the Center of the Earth",
+      "file": "missing/W/251576-walkabout-mini-golf-journey-to-the-center-of-the-earth.json"
+    },
+    {
+      "igdb_id": 251577,
+      "game_name": "Walkabout Mini Golf: Laser Lair",
+      "file": "missing/W/251577-walkabout-mini-golf-laser-lair.json"
+    },
+    {
       "igdb_id": 360019,
       "game_name": "Walkabout Mini Golf: Mars Gardens",
       "file": "missing/W/360019-walkabout-mini-golf-mars-gardens.json"
@@ -576386,6 +576616,11 @@
       "igdb_id": 334481,
       "game_name": "Walkabout Mini Golf: Mount Olympus",
       "file": "missing/W/334481-walkabout-mini-golf-mount-olympus.json"
+    },
+    {
+      "igdb_id": 251578,
+      "game_name": "Walkabout Mini Golf: Pocket Edition",
+      "file": "missing/W/251578-walkabout-mini-golf-pocket-edition.json"
     },
     {
       "igdb_id": 342279,
@@ -588663,6 +588898,11 @@
       "file": "missing/W/405070-wo-long-2-wings-of-ember.json"
     },
     {
+      "igdb_id": 251547,
+      "game_name": "Wo Long: Fallen Dynasty - Battle of Zhongyuan",
+      "file": "missing/W/251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json"
+    },
+    {
       "igdb_id": 285776,
       "game_name": "Wo Long: Fallen Dynasty - Complete Edition",
       "file": "missing/W/285776-wo-long-fallen-dynasty-complete-edition.json"
@@ -596728,6 +596968,11 @@
       "file": "missing/Y/296375-yandere-simulator-midori-adventure-the-visual-novel.json"
     },
     {
+      "igdb_id": 251516,
+      "game_name": "Yandere Ura-kano Jirai-chan",
+      "file": "missing/Y/251516-yandere-ura-kano-jirai-chan.json"
+    },
+    {
       "igdb_id": 125998,
       "game_name": "Yandere-Chan",
       "file": "missing/Y/125998-yandere-chan.json"
@@ -602091,6 +602336,11 @@
       "igdb_id": 59959,
       "game_name": "Zettai Meikyuu Himitsu no Oyayubi-hime",
       "file": "missing/Z/59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json"
+    },
+    {
+      "igdb_id": 251528,
+      "game_name": "Zettai Mite ha Ikenai Shashin",
+      "file": "missing/Z/251528-zettai-mite-ha-ikenai-shashin.json"
     },
     {
       "igdb_id": 395895,
