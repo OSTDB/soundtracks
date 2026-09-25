@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Taxi | 124743 | [124743-quiz-taxi.json](./124743-quiz-taxi.json) |
 | Quiz Thiz Croatia: Bronze Edition | 249487 | [249487-quiz-thiz-croatia-bronze-edition.json](./249487-quiz-thiz-croatia-bronze-edition.json) |
 | Quiz Thiz France | 230518 | [230518-quiz-thiz-france.json](./230518-quiz-thiz-france.json) |
+| Quiz Thiz France: Bronze Edition | 230776 | [230776-quiz-thiz-france-bronze-edition.json](./230776-quiz-thiz-france-bronze-edition.json) |
 | Quiz Thiz France: Silver Edition | 232021 | [232021-quiz-thiz-france-silver-edition.json](./232021-quiz-thiz-france-silver-edition.json) |
 | Quiz Thiz Germany: Bronze Edition | 242549 | [242549-quiz-thiz-germany-bronze-edition.json](./242549-quiz-thiz-germany-bronze-edition.json) |
 | Quiz Thiz Germany: Gold Edition | 242555 | [242555-quiz-thiz-germany-gold-edition.json](./242555-quiz-thiz-germany-gold-edition.json) |
