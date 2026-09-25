@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash & Swing | 245845 | [245845-dash-and-swing.json](./245845-dash-and-swing.json) |
 | Dash and Fire | 155668 | [155668-dash-and-fire.json](./155668-dash-and-fire.json) |
 | Dash and Slash | 199587 | [199587-dash-and-slash.json](./199587-dash-and-slash.json) |
+| Dash Arena | 271694 | [271694-dash-arena.json](./271694-dash-arena.json) |
 | Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
@@ -6003,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamy Idea | 292065 | [292065-dreamy-idea.json](./292065-dreamy-idea.json) |
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
 | Dreamy Syrup | 330906 | [330906-dreamy-syrup.json](./330906-dreamy-syrup.json) |
+| Dreary Disposition | 271799 | [271799-dreary-disposition.json](./271799-dreary-disposition.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
 | Dredge | 164867 | [164867-dredge.json](./164867-dredge.json) |
 | Dredge: Deluxe Edition | 239148 | [239148-dredge-deluxe-edition.json](./239148-dredge-deluxe-edition.json) |
@@ -6326,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
 | Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
+| Dry Sorrow | 271783 | [271783-dry-sorrow.json](./271783-dry-sorrow.json) |
 | Drybreed | 180715 | [180715-drybreed.json](./180715-drybreed.json) |
 | Drying Paint Simulator VR | 129003 | [129003-drying-paint-simulator-vr.json](./129003-drying-paint-simulator-vr.json) |
 | Drynk: Board and Drinking Game | 180146 | [180146-drynk-board-and-drinking-game.json](./180146-drynk-board-and-drinking-game.json) |
