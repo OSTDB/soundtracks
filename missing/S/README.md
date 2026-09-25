@@ -2412,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex-Slave Doctor | 97845 | [97845-sex-slave-doctor.json](./97845-sex-slave-doctor.json) |
 | Sex, Beach & Girls | 311818 | [311818-sex-beach-and-girls.json](./311818-sex-beach-and-girls.json) |
 | Sex, Drugs, and Beer Can | 247553 | [247553-sex-drugs-and-beer-can.json](./247553-sex-drugs-and-beer-can.json) |
+| Sexbot | 277364 | [277364-sexbot.json](./277364-sexbot.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
 | Sextris | 185629 | [185629-sextris.json](./185629-sextris.json) |
@@ -3822,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization V: Gold Edition | 50880 | [50880-sid-meiers-civilization-v-gold-edition.json](./50880-sid-meiers-civilization-v-gold-edition.json) |
 | Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
 | Sid Meier's Civilization VI: Byzantium & Gaul Pack | 139967 | [139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json](./139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json) |
+| Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
 | Sid Meier's Civilization VI: Liyue & Inazuma Pack | 278439 | [278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json](./278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json) |
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
 | Sid Meier's Civilization VII: Arcade Edition | 385294 | [385294-sid-meiers-civilization-vii-arcade-edition.json](./385294-sid-meiers-civilization-vii-arcade-edition.json) |
@@ -4968,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave of Lust | 219691 | [219691-slave-of-lust.json](./219691-slave-of-lust.json) |
 | Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
 | Slave Princess Sarah | 158147 | [158147-slave-princess-sarah.json](./158147-slave-princess-sarah.json) |
+| Slave Zero X: Calamity Edition | 277375 | [277375-slave-zero-x-calamity-edition.json](./277375-slave-zero-x-calamity-edition.json) |
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
 | Slave's Sword 2 ~Imperial Revolution~ | 113818 | [113818-slaves-sword-2-imperial-revolution.json](./113818-slaves-sword-2-imperial-revolution.json) |
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
@@ -5419,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash 'N Grab | 361867 | [361867-smash-n-grab.json](./361867-smash-n-grab.json) |
 | Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
 | Smash + Grab | 23178 | [23178-smash-grab.json](./23178-smash-grab.json) |
+| Smash and Bash Monsters | 277346 | [277346-smash-and-bash-monsters.json](./277346-smash-and-bash-monsters.json) |
 | Smash Arrow | 56421 | [56421-smash-arrow.json](./56421-smash-arrow.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smash Bandits Racing | 174727 | [174727-smash-bandits-racing.json](./174727-smash-bandits-racing.json) |
@@ -6503,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
+| Songs of Steel: Hispania | 277369 | [277369-songs-of-steel-hispania.json](./277369-songs-of-steel-hispania.json) |
 | Songs of the Chalice | 224668 | [224668-songs-of-the-chalice.json](./224668-songs-of-the-chalice.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
@@ -13021,6 +13026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
 | Superpanel | 377702 | [377702-superpanel.json](./377702-superpanel.json) |
+| Superpersons University | 277362 | [277362-superpersons-university.json](./277362-superpersons-university.json) |
 | Superpopular | 127308 | [127308-superpopular.json](./127308-superpopular.json) |
 | SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
@@ -13273,6 +13279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Challenge TD | 276158 | [276158-survivor-challenge-td.json](./276158-survivor-challenge-td.json) |
 | Survivor Day | 195599 | [195599-survivor-day.json](./195599-survivor-day.json) |
 | Survivor Dieland | 160257 | [160257-survivor-dieland.json](./160257-survivor-dieland.json) |
+| Survivor Girls | 277367 | [277367-survivor-girls.json](./277367-survivor-girls.json) |
 | Survivor Heroes | 313222 | [313222-survivor-heroes.json](./313222-survivor-heroes.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
 | Survivor Master-Sifu | 293152 | [293152-survivor-master-sifu.json](./293152-survivor-master-sifu.json) |
