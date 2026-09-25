@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-Bot The Robot: Re-Botted | 418740 | [418740-o-bot-the-robot-re-botted.json](./418740-o-bot-the-robot-re-botted.json) |
 | O-o-o | 232404 | [232404-o-o-o.json](./232404-o-o-o.json) |
 | O-Void | 257470 | [257470-o-void.json](./257470-o-void.json) |
+| O:anquan | 230214 | [230214-o-anquan.json](./230214-o-anquan.json) |
 | O! Holy Knight | 285588 | [285588-o-holy-knight.json](./285588-o-holy-knight.json) |
 | O! My Genesis VR | 27182 | [27182-o-my-genesis-vr.json](./27182-o-my-genesis-vr.json) |
 | O.B.O.L | 402359 | [402359-o-b-o-l.json](./402359-o-b-o-l.json) |
@@ -1351,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
 | Open Starbound | 354644 | [354644-open-starbound.json](./354644-open-starbound.json) |
+| Open Surge | 230243 | [230243-open-surge.json](./230243-open-surge.json) |
 | Open the Door: A Short Story About Life | 245264 | [245264-open-the-door-a-short-story-about-life.json](./245264-open-the-door-a-short-story-about-life.json) |
 | Open The Gate: Just A Little | 381672 | [381672-open-the-gate-just-a-little.json](./381672-open-the-gate-just-a-little.json) |
 | Open the Gates! | 149046 | [149046-open-the-gates.json](./149046-open-the-gates.json) |
