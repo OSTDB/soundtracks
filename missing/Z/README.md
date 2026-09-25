@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Nightmare | 74448 | [74448-zombie-nightmare.json](./74448-zombie-nightmare.json) |
 | Zombie Ninja Confessional | 128652 | [128652-zombie-ninja-confessional.json](./128652-zombie-ninja-confessional.json) |
 | Zombie Office Politics | 34166 | [34166-zombie-office-politics.json](./34166-zombie-office-politics.json) |
+| Zombie Outbreak: Survival in Ancient Egyptian | 262326 | [262326-zombie-outbreak-survival-in-ancient-egyptian.json](./262326-zombie-outbreak-survival-in-ancient-egyptian.json) |
 | Zombie Panic in Wonderland Plus | 22320 | [22320-zombie-panic-in-wonderland-plus.json](./22320-zombie-panic-in-wonderland-plus.json) |
 | Zombie Panic! Source | 29119 | [29119-zombie-panic-source.json](./29119-zombie-panic-source.json) |
 | Zombie Parking | 33324 | [33324-zombie-parking.json](./33324-zombie-parking.json) |
