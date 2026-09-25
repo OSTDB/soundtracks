@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssfall: Seekers Within | 337706 | [337706-abyssfall-seekers-within.json](./337706-abyssfall-seekers-within.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
+| Abysswalkers | 260646 | [260646-abysswalkers.json](./260646-abysswalkers.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
 | ACA Neo Geo: Blazing Star | 90518 | [90518-aca-neo-geo-blazing-star.json](./90518-aca-neo-geo-blazing-star.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
@@ -2511,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AltCoin | 334769 | [334769-altcoin.json](./334769-altcoin.json) |
 | Altdeus: Beyond Chronos - Limited Edition | 166229 | [166229-altdeus-beyond-chronos-limited-edition.json](./166229-altdeus-beyond-chronos-limited-edition.json) |
 | Alteil: Horizons | 27736 | [27736-alteil-horizons.json](./27736-alteil-horizons.json) |
+| Alteira | 260727 | [260727-alteira.json](./260727-alteira.json) |
 | Alter | 264033 | [264033-alter.json](./264033-alter.json) |
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
 | Alter A.I.L.A. Genesis | 308425 | [308425-alter-a-i-l-a-genesis.json](./308425-alter-a-i-l-a-genesis.json) |
