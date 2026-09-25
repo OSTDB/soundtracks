@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Tennis: Ultra Smash | 11220 | [11220-mario-tennis-ultra-smash.json](./11220-mario-tennis-ultra-smash.json) |
 | Mario Undoukai | 132029 | [132029-mario-undoukai.json](./132029-mario-undoukai.json) |
 | Mario vs. Airman | 219121 | [219121-mario-vs-airman.json](./219121-mario-vs-airman.json) |
+| Mario vs. Bowser and Mighty No. 9 | 276790 | [276790-mario-vs-bowser-and-mighty-no-9.json](./276790-mario-vs-bowser-and-mighty-no-9.json) |
 | Mario vs. Donkey Kong 2: March of the Minis - Cannon Kaos | 231640 | [231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json](./231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json) |
 | Mario vs. Donkey Kong Card e+ | 220855 | [220855-mario-vs-donkey-kong-card-e.json](./220855-mario-vs-donkey-kong-card-e.json) |
 | Mario vs. Donkey Kong Card e+: Hitasura Kawase! | 352408 | [352408-mario-vs-donkey-kong-card-e-hitasura-kawase.json](./352408-mario-vs-donkey-kong-card-e-hitasura-kawase.json) |
@@ -2969,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Pede | 78990 | [78990-mega-pede.json](./78990-mega-pede.json) |
 | Mega Pony | 39604 | [39604-mega-pony.json](./39604-mega-pony.json) |
 | Mega Punchy Golf | 120935 | [120935-mega-punchy-golf.json](./120935-mega-punchy-golf.json) |
+| Mega R-Type | 276776 | [276776-mega-r-type.json](./276776-mega-r-type.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
@@ -8174,6 +8176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythfall | 304752 | [304752-mythfall.json](./304752-mythfall.json) |
 | Mythia | 299866 | [299866-mythia.json](./299866-mythia.json) |
 | Mythic Defender | 195616 | [195616-mythic-defender.json](./195616-mythic-defender.json) |
+| Mythic Dreams | 276759 | [276759-mythic-dreams.json](./276759-mythic-dreams.json) |
 | Mythic Love: Iberian Legends | 386288 | [386288-mythic-love-iberian-legends.json](./386288-mythic-love-iberian-legends.json) |
 | Mythic Manager | 408151 | [408151-mythic-manager.json](./408151-mythic-manager.json) |
 | Mythic Mire | 332454 | [332454-mythic-mire.json](./332454-mythic-mire.json) |
