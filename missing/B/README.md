@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Shaker | 256812 | [256812-baby-shaker.json](./256812-baby-shaker.json) |
 | Baby Shapes for Kids | 225893 | [225893-baby-shapes-for-kids.json](./225893-baby-shapes-for-kids.json) |
 | Baby Shark | 267342 | [267342-baby-shark.json](./267342-baby-shark.json) |
+| Baby Shark Run Away | 229621 | [229621-baby-shark-run-away.json](./229621-baby-shark-run-away.json) |
 | Baby Shark RUN! | 104467 | [104467-baby-shark-run.json](./104467-baby-shark-run.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
@@ -6799,6 +6800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buramato | 214744 | [214744-buramato.json](./214744-buramato.json) |
 | Burari Sekai Untei | 295914 | [295914-burari-sekai-untei.json](./295914-burari-sekai-untei.json) |
 | Burasagatte Iru Kiji | 261809 | [261809-burasagatte-iru-kiji.json](./261809-burasagatte-iru-kiji.json) |
+| Burden 2: Remnants | 229643 | [229643-burden-2-remnants.json](./229643-burden-2-remnants.json) |
 | Burden of 80 Proof | 230248 | [230248-burden-of-80-proof.json](./230248-burden-of-80-proof.json) |
 | Burden RPG | 388403 | [388403-burden-rpg.json](./388403-burden-rpg.json) |
 | Burg Battle | 153391 | [153391-burg-battle.json](./153391-burg-battle.json) |
