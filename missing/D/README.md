@@ -3404,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ding Dong Pitch | 379555 | [379555-ding-dong-pitch.json](./379555-ding-dong-pitch.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
+| Dink Smallwood HD | 272807 | [272807-dink-smallwood-hd.json](./272807-dink-smallwood-hd.json) |
 | Dinkie Dino | 284450 | [284450-dinkie-dino.json](./284450-dinkie-dino.json) |
 | Dinkigolf | 197846 | [197846-dinkigolf.json](./197846-dinkigolf.json) |
 | Dinkum | 120322 | [120322-dinkum.json](./120322-dinkum.json) |
