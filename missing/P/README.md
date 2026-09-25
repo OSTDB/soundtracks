@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
+| Pata | 236799 | [236799-pata.json](./236799-pata.json) |
 | Patagonian Pilgrimage | 360755 | [360755-patagonian-pilgrimage.json](./360755-patagonian-pilgrimage.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
 | Patapon 2 | 7813 | [7813-patapon-2.json](./7813-patapon-2.json) |
@@ -5158,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Ninja Storm | 284965 | [284965-power-rangers-ninja-storm.json](./284965-power-rangers-ninja-storm.json) |
 | Power Rangers: To the Rescue | 220101 | [220101-power-rangers-to-the-rescue.json](./220101-power-rangers-to-the-rescue.json) |
 | Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
+| Power Sink | 236781 | [236781-power-sink.json](./236781-power-sink.json) |
 | Power Slave | 45972 | [45972-power-slave.json](./45972-power-slave.json) |
 | Power Sled | 130872 | [130872-power-sled.json](./130872-power-sled.json) |
 | Power Soccer | 320968 | [320968-power-soccer.json](./320968-power-soccer.json) |
@@ -6101,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Reality 2 | 2942 | [2942-project-reality-2.json](./2942-project-reality-2.json) |
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
+| Project Regolith | 236793 | [236793-project-regolith.json](./236793-project-regolith.json) |
 | Project Rogueteers | 316772 | [316772-project-rogueteers.json](./316772-project-rogueteers.json) |
 | Project Romboid | 207300 | [207300-project-romboid.json](./207300-project-romboid.json) |
 | Project Root | 17145 | [17145-project-root.json](./17145-project-root.json) |
