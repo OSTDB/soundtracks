@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Sports Baseball 2016 | 58263 | [58263-tap-sports-baseball-2016.json](./58263-tap-sports-baseball-2016.json) |
 | Tap Sports Football | 59953 | [59953-tap-sports-football.json](./59953-tap-sports-football.json) |
 | Tap Sports Football 2016 | 58260 | [58260-tap-sports-football-2016.json](./58260-tap-sports-football-2016.json) |
+| Tap Sword | 240728 | [240728-tap-sword.json](./240728-tap-sword.json) |
 | Tap Tap Ants | 232143 | [232143-tap-tap-ants.json](./232143-tap-tap-ants.json) |
 | Tap Tap Blocks | 27647 | [27647-tap-tap-blocks.json](./27647-tap-tap-blocks.json) |
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
@@ -3151,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Ship Collector's Edition | 87864 | [87864-the-cursed-ship-collectors-edition.json](./87864-the-cursed-ship-collectors-edition.json) |
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Cursed Underground Parking Lot | 344351 | [344351-the-cursed-underground-parking-lot.json](./344351-the-cursed-underground-parking-lot.json) |
+| The Cursewood | 240720 | [240720-the-cursewood.json](./240720-the-cursewood.json) |
 | The Cute Whale | 378182 | [378182-the-cute-whale.json](./378182-the-cute-whale.json) |
 | The CW Quest | 58501 | [58501-the-cw-quest.json](./58501-the-cw-quest.json) |
 | The Cyber Masquerade: Summer Beach Reverie | 295340 | [295340-the-cyber-masquerade-summer-beach-reverie.json](./295340-the-cyber-masquerade-summer-beach-reverie.json) |
@@ -3426,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Drugstore: Matsumoto Kiyoshi de Okaimono! | 280792 | [280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json](./280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json) |
+| The Druid | 240759 | [240759-the-druid.json](./240759-the-druid.json) |
 | The Duchess Affair | 313886 | [313886-the-duchess-affair.json](./313886-the-duchess-affair.json) |
 | The Duck Amikaze Strikes Back | 344544 | [344544-the-duck-amikaze-strikes-back.json](./344544-the-duck-amikaze-strikes-back.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
@@ -3552,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
+| The End: Pronton | 240749 | [240749-the-end-pronton.json](./240749-the-end-pronton.json) |
 | The Endless Adventure | 165686 | [165686-the-endless-adventure.json](./165686-the-endless-adventure.json) |
 | The Endless Elegy at the Flowercape | 366936 | [366936-the-endless-elegy-at-the-flowercape.json](./366936-the-endless-elegy-at-the-flowercape.json) |
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
@@ -7551,6 +7555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch of Fern Island: Spooky Witch Pack | 322728 | [322728-the-witch-of-fern-island-spooky-witch-pack.json](./322728-the-witch-of-fern-island-spooky-witch-pack.json) |
 | The Witch of Fern Island: Wonderful Witch Pack | 289949 | [289949-the-witch-of-fern-island-wonderful-witch-pack.json](./289949-the-witch-of-fern-island-wonderful-witch-pack.json) |
 | The Witch of Sherdorne Forest | 248112 | [248112-the-witch-of-sherdorne-forest.json](./248112-the-witch-of-sherdorne-forest.json) |
+| The Witch's Cauldron | 240731 | [240731-the-witchs-cauldron.json](./240731-the-witchs-cauldron.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Cookbook | 257995 | [257995-the-witchs-cookbook.json](./257995-the-witchs-cookbook.json) |
 | The Witch's Disciples | 395828 | [395828-the-witchs-disciples.json](./395828-the-witchs-disciples.json) |
