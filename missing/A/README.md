@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aivern | 341148 | [341148-aivern.json](./341148-aivern.json) |
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
 | Aiyra | 255772 | [255772-aiyra.json](./255772-aiyra.json) |
+| Aiza: New Generation | 228339 | [228339-aiza-new-generation.json](./228339-aiza-new-generation.json) |
 | Ajax | 39324 | [39324-ajax.json](./39324-ajax.json) |
 | AJAX Club Football 2005 | 47305 | [47305-ajax-club-football-2005.json](./47305-ajax-club-football-2005.json) |
 | Ajisai Shiyou ka! | 394134 | [394134-ajisai-shiyou-ka.json](./394134-ajisai-shiyou-ka.json) |
@@ -3500,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals: Connect the Dots and Add Colors | 88746 | [88746-animals-connect-the-dots-and-add-colors.json](./88746-animals-connect-the-dots-and-add-colors.json) |
 | AnimaLudo | 153823 | [153823-animaludo.json](./153823-animaludo.json) |
 | Animamundi: Dark Alchemist | 72665 | [72665-animamundi-dark-alchemist.json](./72665-animamundi-dark-alchemist.json) |
+| Animaniacs | 228405 | [228405-animaniacs.json](./228405-animaniacs.json) |
 | Animaniacs | 228407 | [228407-animaniacs.json](./228407-animaniacs.json) |
 | Animaniacs Game Pack | 78028 | [78028-animaniacs-game-pack.json](./78028-animaniacs-game-pack.json) |
 | Animaniacs: A Gigantic Adventure | 69227 | [69227-animaniacs-a-gigantic-adventure.json](./69227-animaniacs-a-gigantic-adventure.json) |
@@ -3762,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Path | 196884 | [196884-another-path.json](./196884-another-path.json) |
 | Another Perspective | 9978 | [9978-another-perspective.json](./9978-another-perspective.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
+| Another Princess is in Our Castle | 228362 | [228362-another-princess-is-in-our-castle.json](./228362-another-princess-is-in-our-castle.json) |
 | Another road | 167243 | [167243-another-road.json](./167243-another-road.json) |
 | Another Round | 330254 | [330254-another-round.json](./330254-another-round.json) |
 | Another Runner | 55214 | [55214-another-runner.json](./55214-another-runner.json) |
@@ -4445,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Bundle | 294821 | [294821-arcade-bundle.json](./294821-arcade-bundle.json) |
 | Arcade Cats | 252704 | [252704-arcade-cats.json](./252704-arcade-cats.json) |
 | Arcade Chess | 12393 | [12393-arcade-chess.json](./12393-arcade-chess.json) |
+| Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
