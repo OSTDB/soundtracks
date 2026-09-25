@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rio Rise | 397904 | [397904-rio-rise.json](./397904-rio-rise.json) |
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
+| Riot | 279702 | [279702-riot.json](./279702-riot.json) |
 | Riot At World | 159723 | [159723-riot-at-world.json](./159723-riot-at-world.json) |
 | Riot City | 39851 | [39851-riot-city.json](./39851-riot-city.json) |
 | Riot Control | 269119 | [269119-riot-control.json](./269119-riot-control.json) |
