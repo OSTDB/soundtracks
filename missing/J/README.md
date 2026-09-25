@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyride: Lowpoly World | 259010 | [259010-joyride-lowpoly-world.json](./259010-joyride-lowpoly-world.json) |
 | Joyrider | 270412 | [270412-joyrider.json](./270412-joyrider.json) |
 | Joyshot | 181914 | [181914-joyshot.json](./181914-joyshot.json) |
+| Joyville | 260104 | [260104-joyville.json](./260104-joyville.json) |
 | Joyville 2 | 305751 | [305751-joyville-2.json](./305751-joyville-2.json) |
 | JPDE: Sonata of Fire | 178042 | [178042-jpde-sonata-of-fire.json](./178042-jpde-sonata-of-fire.json) |
 | JQ: chemistry | 96633 | [96633-jq-chemistry.json](./96633-jq-chemistry.json) |
