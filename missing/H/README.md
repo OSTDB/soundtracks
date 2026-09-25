@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HarmonyTD | 104133 | [104133-harmonytd.json](./104133-harmonytd.json) |
 | Harms Way | 47443 | [47443-harms-way.json](./47443-harms-way.json) |
 | Harold | 7865 | [7865-harold.json](./7865-harold.json) |
+| Harold and the Gameover | 228986 | [228986-harold-and-the-gameover.json](./228986-harold-and-the-gameover.json) |
 | Harold Rabbit 2: The Case of the Pastry Pirate | 371448 | [371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json](./371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json) |
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
 | Harp | 72346 | [72346-harp.json](./72346-harp.json) |
@@ -1856,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
 | Helwyr | 148551 | [148551-helwyr.json](./148551-helwyr.json) |
+| HemiRoids | 229020 | [229020-hemiroids.json](./229020-hemiroids.json) |
 | Hemlock | 295862 | [295862-hemlock.json](./295862-hemlock.json) |
 | Hemomancer | 357413 | [357413-hemomancer.json](./357413-hemomancer.json) |
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
@@ -3482,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Life and Insincere Words | 358473 | [358473-hollow-life-and-insincere-words.json](./358473-hollow-life-and-insincere-words.json) |
 | Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
+| Hollow Seeker | 229009 | [229009-hollow-seeker.json](./229009-hollow-seeker.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow Steps | 88235 | [88235-hollow-steps.json](./88235-hollow-steps.json) |
 | Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
