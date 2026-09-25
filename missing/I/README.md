@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I`m Isekai Hero | 296935 | [296935-i-m-isekai-hero.json](./296935-i-m-isekai-hero.json) |
 | I3ergsteiger | 379034 | [379034-i3ergsteiger.json](./379034-i3ergsteiger.json) |
 | i3Peaks - Tri Peaks Solitaire | 87084 | [87084-i3peaks-tri-peaks-solitaire.json](./87084-i3peaks-tri-peaks-solitaire.json) |
+| Ia Scatter City | 258949 | [258949-ia-scatter-city.json](./258949-ia-scatter-city.json) |
 | IAH: Internet War | 371911 | [371911-iah-internet-war.json](./371911-iah-internet-war.json) |
 | Iai | 196885 | [196885-iai.json](./196885-iai.json) |
 | Iaidoka_Interlude | 273922 | [273922-iaidoka-interlude.json](./273922-iaidoka-interlude.json) |
@@ -1698,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Growth | 403134 | [403134-inner-growth.json](./403134-inner-growth.json) |
 | Inner Life | 185081 | [185081-inner-life.json](./185081-inner-life.json) |
 | Inner Riddle | 96669 | [96669-inner-riddle.json](./96669-inner-riddle.json) |
+| Inner Seasons | 258964 | [258964-inner-seasons.json](./258964-inner-seasons.json) |
 | Inner silence | 29869 | [29869-inner-silence.json](./29869-inner-silence.json) |
 | Inner Voice | 358966 | [358966-inner-voice.json](./358966-inner-voice.json) |
 | Innerchild VR | 332607 | [332607-innerchild-vr.json](./332607-innerchild-vr.json) |
