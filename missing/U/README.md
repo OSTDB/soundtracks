@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unholy | 90213 | [90213-unholy.json](./90213-unholy.json) |
 | Unholy Adventure 2 | 295933 | [295933-unholy-adventure-2.json](./295933-unholy-adventure-2.json) |
 | Unholy Adventure: Mystery | 381711 | [381711-unholy-adventure-mystery.json](./381711-unholy-adventure-mystery.json) |
+| Unholy Angel 2 | 243066 | [243066-unholy-angel-2.json](./243066-unholy-angel-2.json) |
 | Unholy Arts | 135882 | [135882-unholy-arts.json](./135882-unholy-arts.json) |
 | Unholy Eyeballs | 177945 | [177945-unholy-eyeballs.json](./177945-unholy-eyeballs.json) |
 | Unholy Heights | 16648 | [16648-unholy-heights.json](./16648-unholy-heights.json) |
@@ -1119,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Case: Ash and Secrets | 340997 | [340997-unsolved-case-ash-and-secrets.json](./340997-unsolved-case-ash-and-secrets.json) |
 | Unsolved Case: Ash and Secrets - Collector's Edition | 338584 | [338584-unsolved-case-ash-and-secrets-collectors-edition.json](./338584-unsolved-case-ash-and-secrets-collectors-edition.json) |
 | Unsolved Case: Killer Popularity DLC | 289325 | [289325-unsolved-case-killer-popularity-dlc.json](./289325-unsolved-case-killer-popularity-dlc.json) |
+| Unsolved Case: Murderous Script - DLC | 243054 | [243054-unsolved-case-murderous-script-dlc.json](./243054-unsolved-case-murderous-script-dlc.json) |
 | Unsolved Case: The Scarlet Hyacinth - Collector's Edition | 256273 | [256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json](./256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json) |
 | Unsolved Case: The Scarlet Hyacinth - DLC | 256274 | [256274-unsolved-case-the-scarlet-hyacinth-dlc.json](./256274-unsolved-case-the-scarlet-hyacinth-dlc.json) |
 | Unsolved Case: Whispers of Elderwick - Collector’s Edition | 383069 | [383069-unsolved-case-whispers-of-elderwick-collector-s-edition.json](./383069-unsolved-case-whispers-of-elderwick-collector-s-edition.json) |
