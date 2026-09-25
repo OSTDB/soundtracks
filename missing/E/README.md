@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Blood Quest | 180185 | [180185-epic-blood-quest.json](./180185-epic-blood-quest.json) |
 | Epic Car Factory | 97568 | [97568-epic-car-factory.json](./97568-epic-car-factory.json) |
 | Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
+| Epic Cards Battle 3 | 258960 | [258960-epic-cards-battle-3.json](./258960-epic-cards-battle-3.json) |
 | Epic Chef | 145063 | [145063-epic-chef.json](./145063-epic-chef.json) |
 | Epic Conquest | 129606 | [129606-epic-conquest.json](./129606-epic-conquest.json) |
 | Epic Drag Puzools | 101632 | [101632-epic-drag-puzools.json](./101632-epic-drag-puzools.json) |
@@ -1938,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Earth | 121458 | [121458-escape-from-earth.json](./121458-escape-from-earth.json) |
 | Escape from Elm Street | 320295 | [320295-escape-from-elm-street.json](./320295-escape-from-elm-street.json) |
 | Escape from Ever After | 211624 | [211624-escape-from-ever-after.json](./211624-escape-from-ever-after.json) |
+| Escape From Exile | 259041 | [259041-escape-from-exile.json](./259041-escape-from-exile.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
 | Escape from Fools | 112968 | [112968-escape-from-fools.json](./112968-escape-from-fools.json) |
 | Escape from Frankenstein's Castle | 213598 | [213598-escape-from-frankensteins-castle.json](./213598-escape-from-frankensteins-castle.json) |
@@ -2962,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoSphere | 57048 | [57048-exosphere.json](./57048-exosphere.json) |
 | Exostorm | 35725 | [35725-exostorm.json](./35725-exostorm.json) |
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
+| Exotic Kosmos | 258971 | [258971-exotic-kosmos.json](./258971-exotic-kosmos.json) |
 | Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
 | Exotica: Petshop Simulator | 215795 | [215795-exotica-petshop-simulator.json](./215795-exotica-petshop-simulator.json) |
 | ExoTrain | 391157 | [391157-exotrain.json](./391157-exotrain.json) |
