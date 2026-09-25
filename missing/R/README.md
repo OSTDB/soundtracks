@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
 | Random Deck | 341309 | [341309-random-deck.json](./341309-random-deck.json) |
 | Random Dice | 137650 | [137650-random-dice.json](./137650-random-dice.json) |
+| Random Dice: Go | 239620 | [239620-random-dice-go.json](./239620-random-dice-go.json) |
 | Random Dungeon | 260725 | [260725-random-dungeon.json](./260725-random-dungeon.json) |
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
@@ -3679,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
 | Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
+| Rock the Goat | 239615 | [239615-rock-the-goat.json](./239615-rock-the-goat.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rock the Rim | 379545 | [379545-rock-the-rim.json](./379545-rock-the-rim.json) |
 | Rock Tris | 229064 | [229064-rock-tris.json](./229064-rock-tris.json) |
