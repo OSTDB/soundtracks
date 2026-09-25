@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
 | Ninja Cop Saizou | 215137 | [215137-ninja-cop-saizou.json](./215137-ninja-cop-saizou.json) |
 | Ninja Dash - Ronin Jump RPG | 104648 | [104648-ninja-dash-ronin-jump-rpg.json](./104648-ninja-dash-ronin-jump-rpg.json) |
+| Ninja Defense: Revenge | 234002 | [234002-ninja-defense-revenge.json](./234002-ninja-defense-revenge.json) |
 | Ninja Dojo | 181771 | [181771-ninja-dojo.json](./181771-ninja-dojo.json) |
 | Ninja Duck | 181770 | [181770-ninja-duck.json](./181770-ninja-duck.json) |
 | Ninja Dude vs. Zombies | 20334 | [20334-ninja-dude-vs-zombies.json](./20334-ninja-dude-vs-zombies.json) |
@@ -2214,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Nation Stories | 39222 | [39222-nitro-nation-stories.json](./39222-nitro-nation-stories.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
+| Nitro Rally Evolution | 234008 | [234008-nitro-rally-evolution.json](./234008-nitro-rally-evolution.json) |
 | Nitro Royale -Heroines Duel- | 70685 | [70685-nitro-royale-heroines-duel.json](./70685-nitro-royale-heroines-duel.json) |
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
 | Nitrokill | 390817 | [390817-nitrokill.json](./390817-nitrokill.json) |
