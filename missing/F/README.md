@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
 | Faction Wars | 168317 | [168317-faction-wars.json](./168317-faction-wars.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
+| Factor Find | 243637 | [243637-factor-find.json](./243637-factor-find.json) |
 | Factor Zoo | 413187 | [413187-factor-zoo.json](./413187-factor-zoo.json) |
 | Factor72 | 318540 | [318540-factor72.json](./318540-factor72.json) |
 | Factories of Golden Waters | 276248 | [276248-factories-of-golden-waters.json](./276248-factories-of-golden-waters.json) |
@@ -383,12 +384,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Crow Pack | 243681 | [243681-fall-guys-crow-pack.json](./243681-fall-guys-crow-pack.json) |
 | Fall Guys: Doc Glover Pack | 243772 | [243772-fall-guys-doc-glover-pack.json](./243772-fall-guys-doc-glover-pack.json) |
 | Fall Guys: Free Range Fall Guys Pack | 243667 | [243667-fall-guys-free-range-fall-guys-pack.json](./243667-fall-guys-free-range-fall-guys-pack.json) |
+| Fall Guys: Horns Aplenty Pack | 243657 | [243657-fall-guys-horns-aplenty-pack.json](./243657-fall-guys-horns-aplenty-pack.json) |
 | Fall Guys: Icons Pack | 305853 | [305853-fall-guys-icons-pack.json](./305853-fall-guys-icons-pack.json) |
 | Fall Guys: Neigh Neigh Pack | 243685 | [243685-fall-guys-neigh-neigh-pack.json](./243685-fall-guys-neigh-neigh-pack.json) |
 | Fall Guys: Otter Delights Pack | 243682 | [243682-fall-guys-otter-delights-pack.json](./243682-fall-guys-otter-delights-pack.json) |
 | Fall Guys: Pegwin Party Pack | 243771 | [243771-fall-guys-pegwin-party-pack.json](./243771-fall-guys-pegwin-party-pack.json) |
 | Fall Guys: Plush Fox Pack | 243775 | [243775-fall-guys-plush-fox-pack.json](./243775-fall-guys-plush-fox-pack.json) |
+| Fall Guys: Popping Whizzbanger Pack | 243661 | [243661-fall-guys-popping-whizzbanger-pack.json](./243661-fall-guys-popping-whizzbanger-pack.json) |
+| Fall Guys: Season 2 Starter Pack | 243659 | [243659-fall-guys-season-2-starter-pack.json](./243659-fall-guys-season-2-starter-pack.json) |
 | Fall Guys: Season 4 - Creative Construction | 243406 | [243406-fall-guys-season-4-creative-construction.json](./243406-fall-guys-season-4-creative-construction.json) |
+| Fall Guys: Starter Pack | 243660 | [243660-fall-guys-starter-pack.json](./243660-fall-guys-starter-pack.json) |
 | Fall Guys: Stunning Sealife Pack | 243664 | [243664-fall-guys-stunning-sealife-pack.json](./243664-fall-guys-stunning-sealife-pack.json) |
 | Fall Guys: Wildfire Pack | 243683 | [243683-fall-guys-wildfire-pack.json](./243683-fall-guys-wildfire-pack.json) |
 | Fall Jo! | 232047 | [232047-fall-jo.json](./232047-fall-jo.json) |
@@ -550,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Steel Reign | 152310 | [152310-fallout-76-steel-reign.json](./152310-fallout-76-steel-reign.json) |
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
+| Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
 | Fallout: New Vegas - Ultimate Edition | 25532 | [25532-fallout-new-vegas-ultimate-edition.json](./25532-fallout-new-vegas-ultimate-edition.json) |
 | Fallout: New Vegas Remaster | 410463 | [410463-fallout-new-vegas-remaster.json](./410463-fallout-new-vegas-remaster.json) |
@@ -2223,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: In the Name of Bern | 345125 | [345125-fire-emblem-in-the-name-of-bern.json](./345125-fire-emblem-in-the-name-of-bern.json) |
 | Fire Emblem: Justice & Pride | 214536 | [214536-fire-emblem-justice-and-pride.json](./214536-fire-emblem-justice-and-pride.json) |
 | Fire Emblem: Legends of Avenir | 261267 | [261267-fire-emblem-legends-of-avenir.json](./261267-fire-emblem-legends-of-avenir.json) |
+| Fire Emblem: Midori | 243641 | [243641-fire-emblem-midori.json](./243641-fire-emblem-midori.json) |
 | Fire Emblem: Monshou no Nazo | 1435 | [1435-fire-emblem-monshou-no-nazo.json](./1435-fire-emblem-monshou-no-nazo.json) |
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
 | Fire Emblem: Radiant Dawn | 1442 | [1442-fire-emblem-radiant-dawn.json](./1442-fire-emblem-radiant-dawn.json) |
