@@ -3993,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poi | 19278 | [19278-poi.json](./19278-poi.json) |
 | Poi: Deluxe Edition | 53464 | [53464-poi-deluxe-edition.json](./53464-poi-deluxe-edition.json) |
 | Poi: Explorer Edition | 58591 | [58591-poi-explorer-edition.json](./58591-poi-explorer-edition.json) |
+| POI: VR Dance | 250879 | [250879-poi-vr-dance.json](./250879-poi-vr-dance.json) |
 | Poibos Part 1: Dasshutsu | 298547 | [298547-poibos-part-1-dasshutsu.json](./298547-poibos-part-1-dasshutsu.json) |
 | Poinie's Poin | 56153 | [56153-poinies-poin.json](./56153-poinies-poin.json) |
 | Poinpy | 204454 | [204454-poinpy.json](./204454-poinpy.json) |
@@ -4933,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PostCollapse | 31888 | [31888-postcollapse.json](./31888-postcollapse.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
 | Posthaste | 264569 | [264569-posthaste.json](./264569-posthaste.json) |
+| Posthaste Emporium | 250874 | [250874-posthaste-emporium.json](./250874-posthaste-emporium.json) |
 | Posthuman: Guardians vs Psion | 398559 | [398559-posthuman-guardians-vs-psion.json](./398559-posthuman-guardians-vs-psion.json) |
 | Posthuman: Sanctuary | 105270 | [105270-posthuman-sanctuary.json](./105270-posthuman-sanctuary.json) |
 | Postie | 345599 | [345599-postie.json](./345599-postie.json) |
@@ -5023,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
 | Power Ball 2021 | 150620 | [150620-power-ball-2021.json](./150620-power-ball-2021.json) |
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
+| Power Champions | 250868 | [250868-power-champions.json](./250868-power-champions.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
 | Power Defence | 53470 | [53470-power-defence.json](./53470-power-defence.json) |
