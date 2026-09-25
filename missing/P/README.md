@@ -3928,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pool: Complete Edition | 248723 | [248723-pocket-pool-complete-edition.json](./248723-pocket-pool-complete-edition.json) |
 | Pocket Pro Yakyuu | 270080 | [270080-pocket-pro-yakyuu.json](./270080-pocket-pro-yakyuu.json) |
 | Pocket Puyo Puyo Tsuu | 87198 | [87198-pocket-puyo-puyo-tsuu.json](./87198-pocket-puyo-puyo-tsuu.json) |
+| Pocket Puyo Puyo~n | 249125 | [249125-pocket-puyo-puyo-n.json](./249125-pocket-puyo-puyo-n.json) |
 | Pocket Race: Driver | 273441 | [273441-pocket-race-driver.json](./273441-pocket-race-driver.json) |
 | Pocket Racer | 129150 | [129150-pocket-racer.json](./129150-pocket-racer.json) |
 | Pocket Races | 153834 | [153834-pocket-races.json](./153834-pocket-races.json) |
@@ -5418,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
 | Prince of Darkness Jr. | 371973 | [371973-prince-of-darkness-jr.json](./371973-prince-of-darkness-jr.json) |
 | Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
+| Prince of Persia | 249150 | [249150-prince-of-persia.json](./249150-prince-of-persia.json) |
 | Prince of Persia | 284776 | [284776-prince-of-persia.json](./284776-prince-of-persia.json) |
 | Prince of Persia 2: The Shadow and the Flame | 3164 | [3164-prince-of-persia-2-the-shadow-and-the-flame.json](./3164-prince-of-persia-2-the-shadow-and-the-flame.json) |
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
