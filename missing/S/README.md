@@ -2506,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex-Slave Doctor | 97845 | [97845-sex-slave-doctor.json](./97845-sex-slave-doctor.json) |
 | Sex, Beach & Girls | 311818 | [311818-sex-beach-and-girls.json](./311818-sex-beach-and-girls.json) |
 | Sex, Drugs, and Beer Can | 247553 | [247553-sex-drugs-and-beer-can.json](./247553-sex-drugs-and-beer-can.json) |
+| Sex, Love & Girls | 235689 | [235689-sex-love-and-girls.json](./235689-sex-love-and-girls.json) |
 | Sexbot | 277364 | [277364-sexbot.json](./277364-sexbot.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
@@ -4046,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sightseeing Puzzle: Echter Puzzlespass für Unterwegs | 252679 | [252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json](./252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | SightWords Pro | 89157 | [89157-sightwords-pro.json](./89157-sightwords-pro.json) |
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
+| Sigil of Kings | 235722 | [235722-sigil-of-kings.json](./235722-sigil-of-kings.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
 | Sigma | 260791 | [260791-sigma.json](./260791-sigma.json) |
 | Sigma Draconis | 133450 | [133450-sigma-draconis.json](./133450-sigma-draconis.json) |
@@ -4558,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinner | 118817 | [118817-sinner.json](./118817-sinner.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
+| Sinoven | 235714 | [235714-sinoven.json](./235714-sinoven.json) |
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
 | Sins From Magdala | 213456 | [213456-sins-from-magdala.json](./213456-sins-from-magdala.json) |
 | Sins of a Solar Empire | 872 | [872-sins-of-a-solar-empire.json](./872-sins-of-a-solar-empire.json) |
