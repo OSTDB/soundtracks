@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of Veilendor | 261779 | [261779-light-of-veilendor.json](./261779-light-of-veilendor.json) |
 | Light on Earth | 383971 | [383971-light-on-earth.json](./383971-light-on-earth.json) |
 | Light Paradox | 190068 | [190068-light-paradox.json](./190068-light-paradox.json) |
+| Light Pollution | 262293 | [262293-light-pollution.json](./262293-light-pollution.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
 | Light Source | 416108 | [416108-light-source.json](./416108-light-source.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
@@ -1865,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightforce | 28823 | [28823-lightforce.json](./28823-lightforce.json) |
 | Lighthaze World | 197264 | [197264-lighthaze-world.json](./197264-lighthaze-world.json) |
 | Lighthockey | 34352 | [34352-lighthockey.json](./34352-lighthockey.json) |
+| Lighthouse | 262307 | [262307-lighthouse.json](./262307-lighthouse.json) |
 | Lighthouse | 267450 | [267450-lighthouse.json](./267450-lighthouse.json) |
 | Lighthouse | 270715 | [270715-lighthouse.json](./270715-lighthouse.json) |
 | Lighthouse Keeper | 143472 | [143472-lighthouse-keeper.json](./143472-lighthouse-keeper.json) |
@@ -3550,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucipurr | 346603 | [346603-lucipurr.json](./346603-lucipurr.json) |
 | Lucius II | 17329 | [17329-lucius-ii.json](./17329-lucius-ii.json) |
 | Luck be a Landlord | 142035 | [142035-luck-be-a-landlord.json](./142035-luck-be-a-landlord.json) |
+| Luck Breaker | 262318 | [262318-luck-breaker.json](./262318-luck-breaker.json) |
 | Luck of the Draw | 415123 | [415123-luck-of-the-draw.json](./415123-luck-of-the-draw.json) |
 | Luckcatchers2 | 285483 | [285483-luckcatchers2.json](./285483-luckcatchers2.json) |
 | Luckier | 185614 | [185614-luckier.json](./185614-luckier.json) |
