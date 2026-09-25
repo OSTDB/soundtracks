@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-1 World Grand Prix | 248741 | [248741-f-1-world-grand-prix.json](./248741-f-1-world-grand-prix.json) |
 | F-1 World Grand Prix | 3487 | [3487-f-1-world-grand-prix.json](./3487-f-1-world-grand-prix.json) |
 | F-1 World Grand Prix for Dreamcast | 248742 | [248742-f-1-world-grand-prix-for-dreamcast.json](./248742-f-1-world-grand-prix-for-dreamcast.json) |
+| F-1 World Grand Prix II for Game Boy Color | 249131 | [249131-f-1-world-grand-prix-ii-for-game-boy-color.json](./249131-f-1-world-grand-prix-ii-for-game-boy-color.json) |
 | F-117 Night Storm | 46216 | [46216-f-117-night-storm.json](./46216-f-117-night-storm.json) |
 | F-117A Stealth Fighter | 69582 | [69582-f-117a-stealth-fighter.json](./69582-f-117a-stealth-fighter.json) |
 | F-15 Strike Eagle III | 71811 | [71811-f-15-strike-eagle-iii.json](./71811-f-15-strike-eagle-iii.json) |
