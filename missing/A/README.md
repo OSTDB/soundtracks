@@ -3261,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AngerForce: Reloaded for Nintendo Switch | 147948 | [147948-angerforce-reloaded-for-nintendo-switch.json](./147948-angerforce-reloaded-for-nintendo-switch.json) |
 | AngerOfStick | 175433 | [175433-angerofstick.json](./175433-angerofstick.json) |
 | Angevillia | 197322 | [197322-angevillia.json](./197322-angevillia.json) |
+| Angira Online | 235715 | [235715-angira-online.json](./235715-angira-online.json) |
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
 | Angle | 396218 | [396218-angle.json](./396218-angle.json) |
