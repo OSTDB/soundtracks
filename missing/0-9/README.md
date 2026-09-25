@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 28 | 308937 | [308937-28.json](./308937-28.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
 | 28 Days Later: The Game | 334843 | [334843-28-days-later-the-game.json](./334843-28-days-later-the-game.json) |
+| 28 Pixels Later | 271205 | [271205-28-pixels-later.json](./271205-28-pixels-later.json) |
 | 28 Robots Later | 52546 | [52546-28-robots-later.json](./52546-28-robots-later.json) |
 | 280 Zzzap/Dodgem 2001 | 139471 | [139471-280-zzzap-dodgem-2001.json](./139471-280-zzzap-dodgem-2001.json) |
 | 286 Miles | 333601 | [333601-286-miles.json](./333601-286-miles.json) |
@@ -695,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
 | 372756 | 397771 | [397771-372756.json](./397771-372756.json) |
+| 37th Relic Retrieval | 271198 | [271198-37th-relic-retrieval.json](./271198-37th-relic-retrieval.json) |
 | 38 Man Kilo no Kokuu File 1: A Day in the Life of 2049 | 84171 | [84171-38-man-kilo-no-kokuu-file-1-a-day-in-the-life-of-2049.json](./84171-38-man-kilo-no-kokuu-file-1-a-day-in-the-life-of-2049.json) |
 | 3876 AD: Corruption | 382893 | [382893-3876-ad-corruption.json](./382893-3876-ad-corruption.json) |
 | 39 Days to Mars | 32125 | [32125-39-days-to-mars.json](./32125-39-days-to-mars.json) |
