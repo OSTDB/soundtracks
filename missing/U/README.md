@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up | 230362 | [230362-up.json](./230362-up.json) |
 | Up & Down | 312568 | [312568-up-and-down.json](./312568-up-and-down.json) |
 | Up 1 Way | 371344 | [371344-up-1-way.json](./371344-up-1-way.json) |
+| Up All Knight | 232371 | [232371-up-all-knight.json](./232371-up-all-knight.json) |
 | Up All Night | 165064 | [165064-up-all-night.json](./165064-up-all-night.json) |
 | Up All Night: Rumination | 225305 | [225305-up-all-night-rumination.json](./225305-up-all-night-rumination.json) |
 | Up Down Z | 136235 | [136235-up-down-z.json](./136235-up-down-z.json) |
