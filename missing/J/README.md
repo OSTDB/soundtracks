@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World: The Game | 10530 | [10530-jurassic-world-the-game.json](./10530-jurassic-world-the-game.json) |
 | Jurassic Wrap | 381736 | [381736-jurassic-wrap.json](./381736-jurassic-wrap.json) |
 | Jurig Escape | 117768 | [117768-jurig-escape.json](./117768-jurig-escape.json) |
+| Jurl | 244189 | [244189-jurl.json](./244189-jurl.json) |
 | Jurnal Malam: Bestfriend | 310057 | [310057-jurnal-malam-bestfriend.json](./310057-jurnal-malam-bestfriend.json) |
 | Jurnal Risa: Dark Destiny | 334165 | [334165-jurnal-risa-dark-destiny.json](./334165-jurnal-risa-dark-destiny.json) |
 | Jusou: Gakkou no Kaidan | 308906 | [308906-jusou-gakkou-no-kaidan.json](./308906-jusou-gakkou-no-kaidan.json) |
