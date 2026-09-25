@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family | 138192 | [138192-family.json](./138192-family.json) |
 | Family | 171603 | [171603-family.json](./171603-family.json) |
 | Family | 394827 | [394827-family.json](./394827-family.json) |
+| Family Adventure | 255024 | [255024-family-adventure.json](./255024-family-adventure.json) |
 | Family Bash | 248052 | [248052-family-bash.json](./248052-family-bash.json) |
 | Family Bible Quest | 335322 | [335322-family-bible-quest.json](./335322-family-bible-quest.json) |
 | Family Billiards | 161760 | [161760-family-billiards.json](./161760-family-billiards.json) |
@@ -1055,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 2013: Väderstad | 166092 | [166092-farming-simulator-2013-vaderstad.json](./166092-farming-simulator-2013-vaderstad.json) |
 | Farming Simulator 22: Case IH Farmall Anniversary Pack | 276271 | [276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json](./276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
+| Farming Simulator 22: Premium Expansion | 255023 | [255023-farming-simulator-22-premium-expansion.json](./255023-farming-simulator-22-premium-expansion.json) |
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
 | Farming Simulator 22: Vermeer Pack | 210269 | [210269-farming-simulator-22-vermeer-pack.json](./210269-farming-simulator-22-vermeer-pack.json) |
 | Farming Simulator 23 Mobile | 250936 | [250936-farming-simulator-23-mobile.json](./250936-farming-simulator-23-mobile.json) |
