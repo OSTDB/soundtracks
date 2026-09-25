@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Arcade | 105127 | [105127-race-arcade.json](./105127-race-arcade.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Driver 2006 | 93991 | [93991-race-driver-2006.json](./93991-race-driver-2006.json) |
+| Race Driver: Grid | 248560 | [248560-race-driver-grid.json](./248560-race-driver-grid.json) |
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
 | Race Drivin' | 307062 | [307062-race-drivin.json](./307062-race-drivin.json) |
 | Race Drivin' | 307063 | [307063-race-drivin.json](./307063-race-drivin.json) |
@@ -737,6 +738,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rangers | 138744 | [138744-rangers.json](./138744-rangers.json) |
 | Rangers Football Coach Season 2001-2002 | 59385 | [59385-rangers-football-coach-season-2001-2002.json](./59385-rangers-football-coach-season-2001-2002.json) |
 | Rangers of Oblivion | 113636 | [113636-rangers-of-oblivion.json](./113636-rangers-of-oblivion.json) |
+| Rango | 248575 | [248575-rango.json](./248575-rango.json) |
+| Rango | 248576 | [248576-rango.json](./248576-rango.json) |
 | Rango | 5114 | [5114-rango.json](./5114-rango.json) |
 | Ranita Fishing | 178078 | [178078-ranita-fishing.json](./178078-ranita-fishing.json) |
 | Rank Boss Bullets | 278396 | [278396-rank-boss-bullets.json](./278396-rank-boss-bullets.json) |
