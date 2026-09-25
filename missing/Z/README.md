@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettai Meikyuu Grimm Director's Cut: Nanatsu no Kagi to Rakuen no Otome | 221963 | [221963-zettai-meikyuu-grimm-directors-cut-nanatsu-no-kagi-to-rakuen-no-otome.json](./221963-zettai-meikyuu-grimm-directors-cut-nanatsu-no-kagi-to-rakuen-no-otome.json) |
 | Zettai Meikyuu Grimm: Nanatsu no Kagi to Rakuen no Otome | 62459 | [62459-zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.json](./62459-zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.json) |
 | Zettai Meikyuu Himitsu no Oyayubi-hime | 59959 | [59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json](./59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json) |
+| Zettai Mite ha Ikenai Shashin | 251528 | [251528-zettai-mite-ha-ikenai-shashin.json](./251528-zettai-mite-ha-ikenai-shashin.json) |
 | Zetton's One Trillion Degree Derby | 395895 | [395895-zettons-one-trillion-degree-derby.json](./395895-zettons-one-trillion-degree-derby.json) |
 | Zeus + Poseidon | 90554 | [90554-zeus-poseidon.json](./90554-zeus-poseidon.json) |
 | Zeus Quest Remastered | 147435 | [147435-zeus-quest-remastered.json](./147435-zeus-quest-remastered.json) |
