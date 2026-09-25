@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
 | A Visit to Sesame Street: Numbers | 46558 | [46558-a-visit-to-sesame-street-numbers.json](./46558-a-visit-to-sesame-street-numbers.json) |
 | A Visitor on Venus | 179590 | [179590-a-visitor-on-venus.json](./179590-a-visitor-on-venus.json) |
+| A Vøid | 240727 | [240727-a-v-id.json](./240727-a-v-id.json) |
 | A Void Shaper | 277981 | [277981-a-void-shaper.json](./277981-a-void-shaper.json) |
 | A Void Society | 319757 | [319757-a-void-society.json](./319757-a-void-society.json) |
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
@@ -950,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adr1ft | 8654 | [8654-adr1ft.json](./8654-adr1ft.json) |
 | Adrenaline | 379561 | [379561-adrenaline.json](./379561-adrenaline.json) |
+| Adrenaline Dungeon | 240725 | [240725-adrenaline-dungeon.json](./240725-adrenaline-dungeon.json) |
 | Adrenaline High | 379562 | [379562-adrenaline-high.json](./379562-adrenaline-high.json) |
 | Adrenaline or Die | 379563 | [379563-adrenaline-or-die.json](./379563-adrenaline-or-die.json) |
 | Adrenaline Overload Bundle | 396439 | [396439-adrenaline-overload-bundle.json](./396439-adrenaline-overload-bundle.json) |
@@ -1384,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
+| AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
@@ -2016,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Gear Aegis CS: Concerto of Simulatrix | 198385 | [198385-alice-gear-aegis-cs-concerto-of-simulatrix.json](./198385-alice-gear-aegis-cs-concerto-of-simulatrix.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix - Limited Edition | 198386 | [198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json](./198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json) |
 | Alice in Dinerland | 257962 | [257962-alice-in-dinerland.json](./257962-alice-in-dinerland.json) |
+| Alice in Dreamland | 240733 | [240733-alice-in-dreamland.json](./240733-alice-in-dreamland.json) |
 | Alice in Musicland | 392492 | [392492-alice-in-musicland.json](./392492-alice-in-musicland.json) |
 | Alice in Stardom | 116838 | [116838-alice-in-stardom.json](./116838-alice-in-stardom.json) |
 | Alice in the Manor | 351269 | [351269-alice-in-the-manor.json](./351269-alice-in-the-manor.json) |
@@ -4030,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aporia: Beyond the Valley - Deluxe Edition | 52596 | [52596-aporia-beyond-the-valley-deluxe-edition.json](./52596-aporia-beyond-the-valley-deluxe-edition.json) |
 | Aporkalypse: Pigs of Doom | 333544 | [333544-aporkalypse-pigs-of-doom.json](./333544-aporkalypse-pigs-of-doom.json) |
 | Apostasy | 104063 | [104063-apostasy.json](./104063-apostasy.json) |
+| Apostate | 240760 | [240760-apostate.json](./240760-apostate.json) |
 | Apoth | 238509 | [238509-apoth.json](./238509-apoth.json) |
 | Apothecurse | 334175 | [334175-apothecurse.json](./334175-apothecurse.json) |
 | Apotheker | 141880 | [141880-apotheker.json](./141880-apotheker.json) |
@@ -5692,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Miner: Cave Adventure | 294857 | [294857-astro-miner-cave-adventure.json](./294857-astro-miner-cave-adventure.json) |
 | Astro Miner: Moon Landing | 288310 | [288310-astro-miner-moon-landing.json](./288310-astro-miner-moon-landing.json) |
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
+| Astro Pig | 240751 | [240751-astro-pig.json](./240751-astro-pig.json) |
 | Astro Planes | 273355 | [273355-astro-planes.json](./273355-astro-planes.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
 | Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
@@ -6375,6 +6381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aveyond 3: Orbs of Magic - Chapter 2: Gates of Night | 10013 | [10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json](./10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json) |
 | Aveyond 3: Orbs of Magic - Chapter 3: The Lost Orb | 10014 | [10014-aveyond-3-orbs-of-magic-chapter-3-the-lost-orb.json](./10014-aveyond-3-orbs-of-magic-chapter-3-the-lost-orb.json) |
 | Aveyond 3: Orbs of Magic - Chapter 4: The Darkthrop Prophecy | 10015 | [10015-aveyond-3-orbs-of-magic-chapter-4-the-darkthrop-prophecy.json](./10015-aveyond-3-orbs-of-magic-chapter-4-the-darkthrop-prophecy.json) |
+| Avia Corporation | 240756 | [240756-avia-corporation.json](./240756-avia-corporation.json) |
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
