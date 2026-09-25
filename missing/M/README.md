@@ -4564,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
 | Minecraft Earth | 118711 | [118711-minecraft-earth.json](./118711-minecraft-earth.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
+| Minecraft Education: Planet Earth III | 272803 | [272803-minecraft-education-planet-earth-iii.json](./272803-minecraft-education-planet-earth-iii.json) |
 | Minecraft Lovehunt | 144111 | [144111-minecraft-lovehunt.json](./144111-minecraft-lovehunt.json) |
 | Minecraft Master Collection | 118851 | [118851-minecraft-master-collection.json](./118851-minecraft-master-collection.json) |
 | Minecraft Matcha Flavoured | 411659 | [411659-minecraft-matcha-flavoured.json](./411659-minecraft-matcha-flavoured.json) |
@@ -4622,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Solo - A Star Wars Story Pack | 307724 | [307724-minecraft-solo-a-star-wars-story-pack.json](./307724-minecraft-solo-a-star-wars-story-pack.json) |
 | Minecraft: Sonic Texture Pack | 254791 | [254791-minecraft-sonic-texture-pack.json](./254791-minecraft-sonic-texture-pack.json) |
 | Minecraft: Stampy's Lovely World | 315117 | [315117-minecraft-stampys-lovely-world.json](./315117-minecraft-stampys-lovely-world.json) |
+| Minecraft: Star Wars - Path of the Jedi | 272800 | [272800-minecraft-star-wars-path-of-the-jedi.json](./272800-minecraft-star-wars-path-of-the-jedi.json) |
 | Minecraft: Star Wars Classic Skin Pack | 303041 | [303041-minecraft-star-wars-classic-skin-pack.json](./303041-minecraft-star-wars-classic-skin-pack.json) |
 | MInecraft: Star Wars Prequel Skin Pack | 302666 | [302666-minecraft-star-wars-prequel-skin-pack.json](./302666-minecraft-star-wars-prequel-skin-pack.json) |
 | Minecraft: Steven Universe Mash-up | 235338 | [235338-minecraft-steven-universe-mash-up.json](./235338-minecraft-steven-universe-mash-up.json) |
