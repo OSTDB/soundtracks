@@ -263,7 +263,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yodobongingi | 234635 | [234635-yodobongingi.json](./234635-yodobongingi.json) |
 | Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yog-Sothoth's Yard | 250278 | [250278-yog-sothoths-yard.json](./250278-yog-sothoths-yard.json) |
+| Yoga Master: Dreams Fantasy Bundle | 237911 | [237911-yoga-master-dreams-fantasy-bundle.json](./237911-yoga-master-dreams-fantasy-bundle.json) |
+| Yoga Master: Magic Atmosphere Bundle | 237910 | [237910-yoga-master-magic-atmosphere-bundle.json](./237910-yoga-master-magic-atmosphere-bundle.json) |
+| Yoga Master: Magic Atmosphere Pack 1 | 238447 | [238447-yoga-master-magic-atmosphere-pack-1.json](./238447-yoga-master-magic-atmosphere-pack-1.json) |
 | Yoga Master: Meditation Studio | 238048 | [238048-yoga-master-meditation-studio.json](./238048-yoga-master-meditation-studio.json) |
+| Yoga Master: Meditation Studio Bundle | 237909 | [237909-yoga-master-meditation-studio-bundle.json](./237909-yoga-master-meditation-studio-bundle.json) |
 | Yoga Therapy | 235220 | [235220-yoga-therapy.json](./235220-yoga-therapy.json) |
 | Yoga tte! Oku-sama | 157547 | [157547-yoga-tte-oku-sama.json](./157547-yoga-tte-oku-sama.json) |
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
@@ -391,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are the Dinner | 220733 | [220733-you-are-the-dinner.json](./220733-you-are-the-dinner.json) |
 | You Are the Hero | 362877 | [362877-you-are-the-hero.json](./362877-you-are-the-hero.json) |
 | You Are the Inch Valley Captive | 319180 | [319180-you-are-the-inch-valley-captive.json](./319180-you-are-the-inch-valley-captive.json) |
+| You are the Judge! | 238472 | [238472-you-are-the-judge.json](./238472-you-are-the-judge.json) |
 | You Are the Loading Screen | 407355 | [407355-you-are-the-loading-screen.json](./407355-you-are-the-loading-screen.json) |
 | You are the Weapon | 230309 | [230309-you-are-the-weapon.json](./230309-you-are-the-weapon.json) |
 | You Are the Wormhole | 128621 | [128621-you-are-the-wormhole.json](./128621-you-are-the-wormhole.json) |
@@ -571,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IX: Monstrum Nox - Eyewear Set B | 411014 | [411014-ys-ix-monstrum-nox-eyewear-set-b.json](./411014-ys-ix-monstrum-nox-eyewear-set-b.json) |
 | Ys IX: Monstrum Nox - Haute Cuisine Weapon Set | 411015 | [411015-ys-ix-monstrum-nox-haute-cuisine-weapon-set.json](./411015-ys-ix-monstrum-nox-haute-cuisine-weapon-set.json) |
 | Ys IX: Monstrum Nox - Hawk's "Monstrum Troupe" Costume | 411016 | [411016-ys-ix-monstrum-nox-hawks-monstrum-troupe-costume.json](./411016-ys-ix-monstrum-nox-hawks-monstrum-troupe-costume.json) |
+| Ys IX: Monstrum Nox - Launch Edition | 237908 | [237908-ys-ix-monstrum-nox-launch-edition.json](./237908-ys-ix-monstrum-nox-launch-edition.json) |
 | Ys IX: Monstrum Nox - Monstrum Musings Set | 411017 | [411017-ys-ix-monstrum-nox-monstrum-musings-set.json](./411017-ys-ix-monstrum-nox-monstrum-musings-set.json) |
 | Ys IX: Monstrum Nox - Monstrum Troupe Costume Bundle | 411018 | [411018-ys-ix-monstrum-nox-monstrum-troupe-costume-bundle.json](./411018-ys-ix-monstrum-nox-monstrum-troupe-costume-bundle.json) |
 | Ys IX: Monstrum Nox - Renegade's "Monstrum Troupe" Costume | 411019 | [411019-ys-ix-monstrum-nox-renegades-monstrum-troupe-costume.json](./411019-ys-ix-monstrum-nox-renegades-monstrum-troupe-costume.json) |
