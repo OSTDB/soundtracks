@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 20382 | [20382-golf.json](./20382-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
+| Golf Ba Multimedia Shinchaku: Susono Country Club Hen | 254428 | [254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json](./254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json) |
 | Golf Card Game | 104485 | [104485-golf-card-game.json](./104485-golf-card-game.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
 | Golf Clash | 56902 | [56902-golf-clash.json](./56902-golf-clash.json) |
@@ -3925,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Ultimate Edition | 139986 | [139986-guilty-gear-strive-ultimate-edition.json](./139986-guilty-gear-strive-ultimate-edition.json) |
 | Guilty Gear: Strive - Ultimate Edition 2022 | 255116 | [255116-guilty-gear-strive-ultimate-edition-2022.json](./255116-guilty-gear-strive-ultimate-edition-2022.json) |
 | Guilty Gear: Strive - Ultimate Edition Contents Kit | 255113 | [255113-guilty-gear-strive-ultimate-edition-contents-kit.json](./255113-guilty-gear-strive-ultimate-edition-contents-kit.json) |
+| Guilty Me | 254433 | [254433-guilty-me.json](./254433-guilty-me.json) |
 | Guimo | 78942 | [78942-guimo.json](./78942-guimo.json) |
 | Guinea Isles | 382304 | [382304-guinea-isles.json](./382304-guinea-isles.json) |
 | Guinea Pig Gunner | 411580 | [411580-guinea-pig-gunner.json](./411580-guinea-pig-gunner.json) |
