@@ -7925,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne Rush | 243125 | [243125-throne-rush.json](./243125-throne-rush.json) |
 | Throne Wars | 319133 | [319133-throne-wars.json](./319133-throne-wars.json) |
 | Thronebreaker: The Witcher Tales | 107300 | [107300-thronebreaker-the-witcher-tales.json](./107300-thronebreaker-the-witcher-tales.json) |
+| ThroneForge: The Fortress War | 277332 | [277332-throneforge-the-fortress-war.json](./277332-throneforge-the-fortress-war.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through Abandoned: The Underground City | 34780 | [34780-through-abandoned-the-underground-city.json](./34780-through-abandoned-the-underground-city.json) |
 | Through Death's Door | 391852 | [391852-through-deaths-door.json](./391852-through-deaths-door.json) |
@@ -8814,6 +8815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Hoppers: The Silk Road | 231374 | [231374-time-hoppers-the-silk-road.json](./231374-time-hoppers-the-silk-road.json) |
 | Time Horn: Il Corno del Tempo | 356873 | [356873-time-horn-il-corno-del-tempo.json](./356873-time-horn-il-corno-del-tempo.json) |
 | Time Hunters | 132041 | [132041-time-hunters.json](./132041-time-hunters.json) |
+| Time Hunters: Curse of the Golden Idol | 277373 | [277373-time-hunters-curse-of-the-golden-idol.json](./277373-time-hunters-curse-of-the-golden-idol.json) |
 | Time Is Honey | 285968 | [285968-time-is-honey.json](./285968-time-is-honey.json) |
 | Time is Life | 306345 | [306345-time-is-life.json](./306345-time-is-life.json) |
 | Time is Solid Here | 197960 | [197960-time-is-solid-here.json](./197960-time-is-solid-here.json) |
@@ -10952,6 +10954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Saluda Grade Scenario Pack 01 | 267409 | [267409-train-simulator-classic-saluda-grade-scenario-pack-01.json](./267409-train-simulator-classic-saluda-grade-scenario-pack-01.json) |
 | Train Simulator Classic: Santa Fe Classic Pack 01 | 227283 | [227283-train-simulator-classic-santa-fe-classic-pack-01.json](./227283-train-simulator-classic-santa-fe-classic-pack-01.json) |
 | Train Simulator Classic: Soldier Summit Route | 238487 | [238487-train-simulator-classic-soldier-summit-route.json](./238487-train-simulator-classic-soldier-summit-route.json) |
+| Train Simulator Classic: Southern Railway Retro Pack 01 | 277351 | [277351-train-simulator-classic-southern-railway-retro-pack-01.json](./277351-train-simulator-classic-southern-railway-retro-pack-01.json) |
 | Train Simulator Classic: Suburban Glasgow - Airdrie Route Extension | 238621 | [238621-train-simulator-classic-suburban-glasgow-airdrie-route-extension.json](./238621-train-simulator-classic-suburban-glasgow-airdrie-route-extension.json) |
 | Train Simulator Classic: Tamns VTG Wagon Pack | 293393 | [293393-train-simulator-classic-tamns-vtg-wagon-pack.json](./293393-train-simulator-classic-tamns-vtg-wagon-pack.json) |
 | Train Simulator Classic: Wasatch Grade Scenario Pack 01 | 243375 | [243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json](./243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json) |
@@ -11589,6 +11592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triachnid | 63255 | [63255-triachnid.json](./63255-triachnid.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Triad | 54692 | [54692-triad.json](./54692-triad.json) |
+| Triadino | 277342 | [277342-triadino.json](./277342-triadino.json) |
 | Triage | 353861 | [353861-triage.json](./353861-triage.json) |
 | Trial by Chat | 414332 | [414332-trial-by-chat.json](./414332-trial-by-chat.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
@@ -12204,6 +12208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
 | Tunguska: Legend of Faith | 43901 | [43901-tunguska-legend-of-faith.json](./43901-tunguska-legend-of-faith.json) |
 | Tunguska: Shadow Master | 259075 | [259075-tunguska-shadow-master.json](./259075-tunguska-shadow-master.json) |
+| Tunguska: Slaughterhouse | 277348 | [277348-tunguska-slaughterhouse.json](./277348-tunguska-slaughterhouse.json) |
 | Tunguska: The Visitation | 152320 | [152320-tunguska-the-visitation.json](./152320-tunguska-the-visitation.json) |
 | Tunguska: The Visitation - Complete Edition | 338030 | [338030-tunguska-the-visitation-complete-edition.json](./338030-tunguska-the-visitation-complete-edition.json) |
 | Tunguska: The Visitation - Way of The Hunter | 227863 | [227863-tunguska-the-visitation-way-of-the-hunter.json](./227863-tunguska-the-visitation-way-of-the-hunter.json) |
