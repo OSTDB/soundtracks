@@ -4195,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK64 Randomizer | 206186 | [206186-dk64-randomizer.json](./206186-dk64-randomizer.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
+| DKO: Divine Knockout - Starter Edition | 231338 | [231338-dko-divine-knockout-starter-edition.json](./231338-dko-divine-knockout-starter-edition.json) |
 | DLC Quest | 3004 | [3004-dlc-quest.json](./3004-dlc-quest.json) |
 | dlroW oiraM repuS | 145481 | [145481-dlrow-oiram-repus.json](./145481-dlrow-oiram-repus.json) |
 | DM with Me | 413691 | [413691-dm-with-me.json](./413691-dm-with-me.json) |
@@ -4358,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgy Geezers | 13598 | [13598-dodgy-geezers.json](./13598-dodgy-geezers.json) |
 | Dodgy Rocks | 133988 | [133988-dodgy-rocks.json](./133988-dodgy-rocks.json) |
 | Dodo | 277973 | [277973-dodo.json](./277973-dodo.json) |
+| DoDodge | 231330 | [231330-dododge.json](./231330-dododge.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
 | DodoGo! | 66709 | [66709-dodogo.json](./66709-dodogo.json) |
 | DoDonPachi Dai-Ou-Jou V101 | 84158 | [84158-dodonpachi-dai-ou-jou-v101.json](./84158-dodonpachi-dai-ou-jou-v101.json) |
