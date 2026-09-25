@@ -2454,7 +2454,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Galore | 104875 | [104875-golf-galore.json](./104875-golf-galore.json) |
 | Golf Gang | 142998 | [142998-golf-gang.json](./142998-golf-gang.json) |
 | Golf Grand Slam | 48285 | [48285-golf-grand-slam.json](./48285-golf-grand-slam.json) |
+| Golf Guys | 277888 | [277888-golf-guys.json](./277888-golf-guys.json) |
 | Golf Guys: Complete Edition | 283174 | [283174-golf-guys-complete-edition.json](./283174-golf-guys-complete-edition.json) |
+| Golf Guys: Fantasy | 277903 | [277903-golf-guys-fantasy.json](./277903-golf-guys-fantasy.json) |
+| Golf Guys: Party | 277902 | [277902-golf-guys-party.json](./277902-golf-guys-party.json) |
+| Golf Guys: Space | 277901 | [277901-golf-guys-space.json](./277901-golf-guys-space.json) |
 | Golf is Hard | 237963 | [237963-golf-is-hard.json](./237963-golf-is-hard.json) |
 | Golf Island | 58211 | [58211-golf-island.json](./58211-golf-island.json) |
 | Golf Keeper | 130954 | [130954-golf-keeper.json](./130954-golf-keeper.json) |
@@ -2482,6 +2486,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Fairytale Fables Pack | 268540 | [268540-golf-with-your-friends-fairytale-fables-pack.json](./268540-golf-with-your-friends-fairytale-fables-pack.json) |
 | Golf With Your Friends: Horrifying Headgear Pack | 336929 | [336929-golf-with-your-friends-horrifying-headgear-pack.json](./336929-golf-with-your-friends-horrifying-headgear-pack.json) |
 | Golf With Your Friends: Sports Pack | 230825 | [230825-golf-with-your-friends-sports-pack.json](./230825-golf-with-your-friends-sports-pack.json) |
+| Golf With Your Friends: Starter Edition | 277884 | [277884-golf-with-your-friends-starter-edition.json](./277884-golf-with-your-friends-starter-edition.json) |
+| Golf With Your Friends: Ultimate Edition | 277883 | [277883-golf-with-your-friends-ultimate-edition.json](./277883-golf-with-your-friends-ultimate-edition.json) |
 | Golf-e | 170015 | [170015-golf-e.json](./170015-golf-e.json) |
 | Golf-Like | 385215 | [385215-golf-like.json](./385215-golf-like.json) |
 | Golf: Hole in One | 253579 | [253579-golf-hole-in-one.json](./253579-golf-hole-in-one.json) |
