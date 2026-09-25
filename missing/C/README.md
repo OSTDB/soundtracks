@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Girls | 158581 | [158581-calm-girls.json](./158581-calm-girls.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
+| CalmLine | 238448 | [238448-calmline.json](./238448-calmline.json) |
 | Calorie-kun vs. Moguranian | 301953 | [301953-calorie-kun-vs-moguranian.json](./301953-calorie-kun-vs-moguranian.json) |
 | Calpria | 416686 | [416686-calpria.json](./416686-calpria.json) |
 | CalQ | 61569 | [61569-calq.json](./61569-calq.json) |
@@ -3707,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash: Artifacts of Chaos - Supporter Pack | 336137 | [336137-clash-artifacts-of-chaos-supporter-pack.json](./336137-clash-artifacts-of-chaos-supporter-pack.json) |
 | Clash: Heroes of Feralia Terra | 269107 | [269107-clash-heroes-of-feralia-terra.json](./269107-clash-heroes-of-feralia-terra.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
+| Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
 | Classic Arcade Fishing | 284976 | [284976-classic-arcade-fishing.json](./284976-classic-arcade-fishing.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
@@ -4278,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Nemesis | 113646 | [113646-codename-nemesis.json](./113646-codename-nemesis.json) |
 | Codename Prodigy | 156020 | [156020-codename-prodigy.json](./156020-codename-prodigy.json) |
 | Codename: Bakery Girl | 113467 | [113467-codename-bakery-girl.json](./113467-codename-bakery-girl.json) |
+| Codename: Cupid | 238414 | [238414-codename-cupid.json](./238414-codename-cupid.json) |
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
 | Codename: Nanxiangzi | 288826 | [288826-codename-nanxiangzi.json](./288826-codename-nanxiangzi.json) |
@@ -5748,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
 | Cosmic Pioneer | 38986 | [38986-cosmic-pioneer.json](./38986-cosmic-pioneer.json) |
+| Cosmic Pool | 238404 | [238404-cosmic-pool.json](./238404-cosmic-pool.json) |
 | Cosmic Purge | 201224 | [201224-cosmic-purge.json](./201224-cosmic-purge.json) |
 | Cosmic Quandary | 234067 | [234067-cosmic-quandary.json](./234067-cosmic-quandary.json) |
 | Cosmic Raiders | 170533 | [170533-cosmic-raiders.json](./170533-cosmic-raiders.json) |
@@ -6238,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Forts 2 | 205273 | [205273-crash-forts-2.json](./205273-crash-forts-2.json) |
 | Crash it Smash it | 74758 | [74758-crash-it-smash-it.json](./74758-crash-it-smash-it.json) |
 | Crash Landed | 371462 | [371462-crash-landed.json](./371462-crash-landed.json) |
+| Crash Mayhem | 238405 | [238405-crash-mayhem.json](./238405-crash-mayhem.json) |
 | Crash Metal: Cyber Racing Punk Cars | 269858 | [269858-crash-metal-cyber-racing-punk-cars.json](./269858-crash-metal-cyber-racing-punk-cars.json) |
 | Crash Mole | 223551 | [223551-crash-mole.json](./223551-crash-mole.json) |
 | Crash N Dash | 246986 | [246986-crash-n-dash.json](./246986-crash-n-dash.json) |
@@ -6338,6 +6343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
+| Crazy Boss | 238401 | [238401-crazy-boss.json](./238401-crazy-boss.json) |
 | Crazy Bugs! | 248572 | [248572-crazy-bugs.json](./248572-crazy-bugs.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
 | Crazy Cakes | 366415 | [366415-crazy-cakes.json](./366415-crazy-cakes.json) |
@@ -6817,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Force | 18556 | [18556-cross-force.json](./18556-cross-force.json) |
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
+| Cross Match! | 238402 | [238402-cross-match.json](./238402-cross-match.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
 | Cross Pix 2 | 363970 | [363970-cross-pix-2.json](./363970-cross-pix-2.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
