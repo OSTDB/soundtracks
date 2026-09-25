@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Zane Fun Pack | 172610 | [172610-lego-dimensions-zane-fun-pack.json](./172610-lego-dimensions-zane-fun-pack.json) |
 | LEGO Fortnite: Brick Life | 325544 | [325544-lego-fortnite-brick-life.json](./325544-lego-fortnite-brick-life.json) |
 | LEGO Fortnite: Expeditions | 387000 | [387000-lego-fortnite-expeditions.json](./387000-lego-fortnite-expeditions.json) |
+| LEGO Friends | 248569 | [248569-lego-friends.json](./248569-lego-friends.json) |
 | LEGO Friends | 6838 | [6838-lego-friends.json](./6838-lego-friends.json) |
 | LEGO Fun Pack | 279031 | [279031-lego-fun-pack.json](./279031-lego-fun-pack.json) |
 | LEGO Harry Potter Collection | 315367 | [315367-lego-harry-potter-collection.json](./315367-lego-harry-potter-collection.json) |
