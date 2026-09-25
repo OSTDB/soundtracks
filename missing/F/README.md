@@ -3506,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Career | 343455 | [343455-football-career.json](./343455-football-career.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
 | Football Chairman Pro 2 | 370322 | [370322-football-chairman-pro-2.json](./370322-football-chairman-pro-2.json) |
+| Football City | 260624 | [260624-football-city.json](./260624-football-city.json) |
 | Football Club 2019-2023 | 282705 | [282705-football-club-2019-2023.json](./282705-football-club-2019-2023.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
 | Football Club Management 2023 | 214062 | [214062-football-club-management-2023.json](./214062-football-club-management-2023.json) |
@@ -3654,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Secrets: Alien Town - Collector's Edition | 53035 | [53035-forbidden-secrets-alien-town-collectors-edition.json](./53035-forbidden-secrets-alien-town-collectors-edition.json) |
 | Forbidden Siren 2 | 14411 | [14411-forbidden-siren-2.json](./14411-forbidden-siren-2.json) |
 | Forbidden Solitaire | 330176 | [330176-forbidden-solitaire.json](./330176-forbidden-solitaire.json) |
+| Forbidden Tapes | 260623 | [260623-forbidden-tapes.json](./260623-forbidden-tapes.json) |
 | Forbidden Terror: Board Game | 375448 | [375448-forbidden-terror-board-game.json](./375448-forbidden-terror-board-game.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
 | Forbidden: A First's Obsession | 402364 | [402364-forbidden-a-firsts-obsession.json](./402364-forbidden-a-firsts-obsession.json) |
