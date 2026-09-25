@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaizo Mario Galaxy 2 | 294765 | [294765-kaizo-mario-galaxy-2.json](./294765-kaizo-mario-galaxy-2.json) |
 | Kaizo Mario Galaxy: Rebalanced | 262668 | [262668-kaizo-mario-galaxy-rebalanced.json](./262668-kaizo-mario-galaxy-rebalanced.json) |
 | Kaizo Mario World | 132654 | [132654-kaizo-mario-world.json](./132654-kaizo-mario-world.json) |
+| Kaizo Nikki | 229648 | [229648-kaizo-nikki.json](./229648-kaizo-nikki.json) |
 | Kaizoku Sentai Gokaiger: Atsumete Henshin! 35 Sentai | 63580 | [63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json](./63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json) |
 | Kaizou Choujin Schbibinman | 42052 | [42052-kaizou-choujin-schbibinman.json](./42052-kaizou-choujin-schbibinman.json) |
 | Kajipeet | 316769 | [316769-kajipeet.json](./316769-kajipeet.json) |
@@ -1474,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby no Omochabako: Pachinko | 134456 | [134456-kirby-no-omochabako-pachinko.json](./134456-kirby-no-omochabako-pachinko.json) |
 | Kirby no Omochabako: Pinball | 134452 | [134452-kirby-no-omochabako-pinball.json](./134452-kirby-no-omochabako-pinball.json) |
 | Kirby Puzzle | 84259 | [84259-kirby-puzzle.json](./84259-kirby-puzzle.json) |
+| Kirby Speed Eaters | 229620 | [229620-kirby-speed-eaters.json](./229620-kirby-speed-eaters.json) |
 | Kirby Star Allies | 37137 | [37137-kirby-star-allies.json](./37137-kirby-star-allies.json) |
 | Kirby Street | 330879 | [330879-kirby-street.json](./330879-kirby-street.json) |
 | Kirby Super Star Ultra | 2647 | [2647-kirby-super-star-ultra.json](./2647-kirby-super-star-ultra.json) |
@@ -1868,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
+| Knorrig the Gifted Troublemaker | 229609 | [229609-knorrig-the-gifted-troublemaker.json](./229609-knorrig-the-gifted-troublemaker.json) |
 | Knossos | 55497 | [55497-knossos.json](./55497-knossos.json) |
 | Knot in 3D | 79303 | [79303-knot-in-3d.json](./79303-knot-in-3d.json) |
 | Knot: Serpent Arena | 392923 | [392923-knot-serpent-arena.json](./392923-knot-serpent-arena.json) |
@@ -2237,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krusty's Fun House | 307110 | [307110-krustys-fun-house.json](./307110-krustys-fun-house.json) |
 | Kryftolike | 176994 | [176994-kryftolike.json](./176994-kryftolike.json) |
 | KryptCrawler | 51521 | [51521-kryptcrawler.json](./51521-kryptcrawler.json) |
+| Kryptoria | 229633 | [229633-kryptoria.json](./229633-kryptoria.json) |
 | Krystal Kart AR | 145438 | [145438-krystal-kart-ar.json](./145438-krystal-kart-ar.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
 | Krzyżacy: The Knights of the Cross - Character Pack (Western Style) | 257065 | [257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json](./257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json) |
