@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
 | MaxSwitch | 220214 | [220214-maxswitch.json](./220214-maxswitch.json) |
 | Maxwell Manor | 25979 | [25979-maxwell-manor.json](./25979-maxwell-manor.json) |
+| Maxwell's World | 281504 | [281504-maxwells-world.json](./281504-maxwells-world.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
@@ -5687,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
+| Monkey-catching Game | 281476 | [281476-monkey-catching-game.json](./281476-monkey-catching-game.json) |
 | MonkeyKing Chaos: VR | 286007 | [286007-monkeyking-chaos-vr.json](./286007-monkeyking-chaos-vr.json) |
 | MonkeyKing VR | 29748 | [29748-monkeyking-vr.json](./29748-monkeyking-vr.json) |
 | Monkeys | 314290 | [314290-monkeys.json](./314290-monkeys.json) |
