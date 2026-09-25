@@ -2687,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing to Declare | 225067 | [225067-nothing-to-declare.json](./225067-nothing-to-declare.json) |
 | Nothing To Declare | 366945 | [366945-nothing-to-declare.json](./366945-nothing-to-declare.json) |
 | Nothing to Lose | 237620 | [237620-nothing-to-lose.json](./237620-nothing-to-lose.json) |
+| NotHog | 275673 | [275673-nothog.json](./275673-nothog.json) |
 | Notice | 277337 | [277337-notice.json](./277337-notice.json) |
 | Notmycar | 85834 | [85834-notmycar.json](./85834-notmycar.json) |
 | Notoris: The Goblin War | 191174 | [191174-notoris-the-goblin-war.json](./191174-notoris-the-goblin-war.json) |
