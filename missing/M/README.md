@@ -4476,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milki Delivery | 385308 | [385308-milki-delivery.json](./385308-milki-delivery.json) |
 | Milkman Karlson | 135213 | [135213-milkman-karlson.json](./135213-milkman-karlson.json) |
 | Milkraid | 382749 | [382749-milkraid.json](./382749-milkraid.json) |
+| Milkshake! | 240740 | [240740-milkshake.json](./240740-milkshake.json) |
 | MilkSnake: Torus Edition | 99573 | [99573-milksnake-torus-edition.json](./99573-milksnake-torus-edition.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Bear: Lunch Frenzy | 250296 | [250296-milky-bear-lunch-frenzy.json](./250296-milky-bear-lunch-frenzy.json) |
