@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis League VR | 208108 | [208108-tennis-league-vr.json](./208108-tennis-league-vr.json) |
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
 | Tennis Manager 25 | 338259 | [338259-tennis-manager-25.json](./338259-tennis-manager-25.json) |
+| Tennis Manager Mobile | 234016 | [234016-tennis-manager-mobile.json](./234016-tennis-manager-mobile.json) |
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
 | Tennis no Ouji-sama Motto Gakuensai no Ouji-sama: More Sweet Edition | 205063 | [205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json](./205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json) |
@@ -12859,6 +12860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwisTouch | 262344 | [262344-twistouch.json](./262344-twistouch.json) |
 | Twists of My Life | 122798 | [122798-twists-of-my-life.json](./122798-twists-of-my-life.json) |
 | Twisty Arrow! | 100880 | [100880-twisty-arrow.json](./100880-twisty-arrow.json) |
+| Twisty Board 2 | 233998 | [233998-twisty-board-2.json](./233998-twisty-board-2.json) |
 | Twisty Hollow | 344956 | [344956-twisty-hollow.json](./344956-twisty-hollow.json) |
 | Twisty Planets Space Puzzle | 83577 | [83577-twisty-planets-space-puzzle.json](./83577-twisty-planets-space-puzzle.json) |
 | Twisty Road! | 87660 | [87660-twisty-road.json](./87660-twisty-road.json) |
