@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Of Guessing | 31381 | [31381-league-of-guessing.json](./31381-league-of-guessing.json) |
 | League of Kingdoms | 188647 | [188647-league-of-kingdoms.json](./188647-league-of-kingdoms.json) |
 | League of Legends: 2025 Season Two - Spirit Blossom Beyond | 342170 | [342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json](./342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json) |
+| League of Legends: Esports Manager | 279064 | [279064-league-of-legends-esports-manager.json](./279064-league-of-legends-esports-manager.json) |
 | League of Light | 47277 | [47277-league-of-light.json](./47277-league-of-light.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League of Light: Edge of Justice | 108245 | [108245-league-of-light-edge-of-justice.json](./108245-league-of-light-edge-of-justice.json) |
@@ -1172,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Fortnite: Brick Life | 325544 | [325544-lego-fortnite-brick-life.json](./325544-lego-fortnite-brick-life.json) |
 | LEGO Fortnite: Expeditions | 387000 | [387000-lego-fortnite-expeditions.json](./387000-lego-fortnite-expeditions.json) |
 | LEGO Friends | 6838 | [6838-lego-friends.json](./6838-lego-friends.json) |
+| LEGO Fun Pack | 279031 | [279031-lego-fun-pack.json](./279031-lego-fun-pack.json) |
 | LEGO Harry Potter Collection | 315367 | [315367-lego-harry-potter-collection.json](./315367-lego-harry-potter-collection.json) |
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
 | LEGO Harry Potter: Years 1-4 | 3149 | [3149-lego-harry-potter-years-1-4.json](./3149-lego-harry-potter-years-1-4.json) |
