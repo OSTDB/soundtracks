@@ -2854,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Secrets Solitaire: The Greyhall Mystery | 417508 | [417508-detective-secrets-solitaire-the-greyhall-mystery.json](./417508-detective-secrets-solitaire-the-greyhall-mystery.json) |
 | Detective Sir Biscuit in Green Burguer Mystery | 310580 | [310580-detective-sir-biscuit-in-green-burguer-mystery.json](./310580-detective-sir-biscuit-in-green-burguer-mystery.json) |
 | Detective Solitaire: Butler Story 2 | 242580 | [242580-detective-solitaire-butler-story-2.json](./242580-detective-solitaire-butler-story-2.json) |
+| Detective Solitaire: Butler Story 3 | 258947 | [258947-detective-solitaire-butler-story-3.json](./258947-detective-solitaire-butler-story-3.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
 | Detective VR | 360772 | [360772-detective-vr.json](./360772-detective-vr.json) |
@@ -4862,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Roller | 303486 | [303486-doom-roller.json](./303486-doom-roller.json) |
 | Doom Survivor: Horde Rush | 396187 | [396187-doom-survivor-horde-rush.json](./396187-doom-survivor-horde-rush.json) |
 | Doom Survivors | 295799 | [295799-doom-survivors.json](./295799-doom-survivors.json) |
+| Doom Sweeper | 259034 | [259034-doom-sweeper.json](./259034-doom-sweeper.json) |
 | Doom Tournament | 202843 | [202843-doom-tournament.json](./202843-doom-tournament.json) |
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
 | Doom Ultimate Enhanced | 198487 | [198487-doom-ultimate-enhanced.json](./198487-doom-ultimate-enhanced.json) |
@@ -6898,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: The Dreaming Dark | 349339 | [349339-dungeons-and-dragons-online-the-dreaming-dark.json](./349339-dungeons-and-dragons-online-the-dreaming-dark.json) |
 | Dungeons & Dragons Online: The Necropolis, Part 4 | 349338 | [349338-dungeons-and-dragons-online-the-necropolis-part-4.json](./349338-dungeons-and-dragons-online-the-necropolis-part-4.json) |
 | Dungeons & Dragons Online: The Red Fens | 349334 | [349334-dungeons-and-dragons-online-the-red-fens.json](./349334-dungeons-and-dragons-online-the-red-fens.json) |
+| Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
