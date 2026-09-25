@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
 | Ultimate Arena: Showdown | 81606 | [81606-ultimate-arena-showdown.json](./81606-ultimate-arena-showdown.json) |
 | Ultimate Armored Turbodrifter: Saga Chapter 2 - Tank Authority Wolfram | 290950 | [290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json](./290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json) |
+| Ultimate Ball | 242483 | [242483-ultimate-ball.json](./242483-ultimate-ball.json) |
 | Ultimate Baseball Online 2007 | 21413 | [21413-ultimate-baseball-online-2007.json](./21413-ultimate-baseball-online-2007.json) |
 | Ultimate Battle Kingdom | 390507 | [390507-ultimate-battle-kingdom.json](./390507-ultimate-battle-kingdom.json) |
 | Ultimate Battle Royale PvP | 90675 | [90675-ultimate-battle-royale-pvp.json](./90675-ultimate-battle-royale-pvp.json) |
@@ -820,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
 | Unfolded Cube | 295321 | [295321-unfolded-cube.json](./295321-unfolded-cube.json) |
 | Unforgivable | 341116 | [341116-unforgivable.json](./341116-unforgivable.json) |
+| Unforgiven: Carry The Pain | 242498 | [242498-unforgiven-carry-the-pain.json](./242498-unforgiven-carry-the-pain.json) |
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
 | Unforgiven: Shattered Souls Portable | 139358 | [139358-unforgiven-shattered-souls-portable.json](./139358-unforgiven-shattered-souls-portable.json) |
 | Unforgiving Trials: The Space Crusade | 31141 | [31141-unforgiving-trials-the-space-crusade.json](./31141-unforgiving-trials-the-space-crusade.json) |
