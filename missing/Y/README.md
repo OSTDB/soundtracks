@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yugekitai Kakuto-hen: Saikyoushin Fukkatsu no Maki | 264326 | [264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json](./264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json) |
 | Yugekitai: Saikyoushin Fukkatsu no Maki | 221766 | [221766-yugekitai-saikyoushin-fukkatsu-no-maki.json](./221766-yugekitai-saikyoushin-fukkatsu-no-maki.json) |
 | Yugen Jikkou Sisters Chouchoutrian: Kanzenchouaku Chouchoutrian | 385556 | [385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json](./385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json) |
+| Yugen Saga | 260100 | [260100-yugen-saga.json](./260100-yugen-saga.json) |
 | Yugo: The Non-game | 319791 | [319791-yugo-the-non-game.json](./319791-yugo-the-non-game.json) |
 | Yugowave | 250009 | [250009-yugowave.json](./250009-yugowave.json) |
 | Yuha's Nightmares | 155987 | [155987-yuhas-nightmares.json](./155987-yuhas-nightmares.json) |
