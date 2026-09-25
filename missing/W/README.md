@@ -446,6 +446,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warage | 155500 | [155500-warage.json](./155500-warage.json) |
 | Warage: Necromancer Campaign | 155501 | [155501-warage-necromancer-campaign.json](./155501-warage-necromancer-campaign.json) |
 | Waratte Iitomo! Tamorinpic | 37768 | [37768-waratte-iitomo-tamorinpic.json](./37768-waratte-iitomo-tamorinpic.json) |
+| Warau Salesman 2 | 239575 | [239575-warau-salesman-2.json](./239575-warau-salesman-2.json) |
+| Warau Salesman 3 | 239576 | [239576-warau-salesman-3.json](./239576-warau-salesman-3.json) |
 | Warauinu no Bouken GB: Silly Go Lucky! | 59400 | [59400-warauinu-no-bouken-gb-silly-go-lucky.json](./59400-warauinu-no-bouken-gb-silly-go-lucky.json) |
 | Warbanners | 44166 | [44166-warbanners.json](./44166-warbanners.json) |
 | Warbanners: Death Speaker | 172143 | [172143-warbanners-death-speaker.json](./172143-warbanners-death-speaker.json) |
@@ -1408,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack Your Computer | 356717 | [356717-whack-your-computer.json](./356717-whack-your-computer.json) |
 | Whack Your Ex | 193853 | [193853-whack-your-ex.json](./193853-whack-your-ex.json) |
 | Whack Your Neighbor | 327996 | [327996-whack-your-neighbor.json](./327996-whack-your-neighbor.json) |
+| Whack-A-Dalek | 239583 | [239583-whack-a-dalek.json](./239583-whack-a-dalek.json) |
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
 | Whack-a-Mole | 288363 | [288363-whack-a-mole.json](./288363-whack-a-mole.json) |
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
