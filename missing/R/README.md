@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radish | 122180 | [122180-radish.json](./122180-radish.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
+| Radzone | 256248 | [256248-radzone.json](./256248-radzone.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
