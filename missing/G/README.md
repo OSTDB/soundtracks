@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
+| Go Go Jump!! | 244221 | [244221-go-go-jump.json](./244221-go-go-jump.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
 | Go Go Poncho! | 89958 | [89958-go-go-poncho.json](./89958-go-go-poncho.json) |
 | Go Go UFO Smackdown | 68622 | [68622-go-go-ufo-smackdown.json](./68622-go-go-ufo-smackdown.json) |
@@ -2652,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morning, Radio | 203365 | [203365-good-morning-radio.json](./203365-good-morning-radio.json) |
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
 | Good News | 382300 | [382300-good-news.json](./382300-good-news.json) |
+| Good Night, Every Night | 244197 | [244197-good-night-every-night.json](./244197-good-night-every-night.json) |
 | Good Night, Peregrine | 222936 | [222936-good-night-peregrine.json](./222936-good-night-peregrine.json) |
 | Good Night, Rowan | 178564 | [178564-good-night-rowan.json](./178564-good-night-rowan.json) |
 | Good Pizza, Great Pizza | 87367 | [87367-good-pizza-great-pizza.json](./87367-good-pizza-great-pizza.json) |
