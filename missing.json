@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T13:33:20.290Z",
-  "total_missing": 121093,
+  "generated_at": "2026-09-25T13:48:41.209Z",
+  "total_missing": 121143,
   "games": [
     {
       "igdb_id": 176875,
@@ -4201,6 +4201,11 @@
       "igdb_id": 262309,
       "game_name": "4 Seasons of Doom",
       "file": "missing/0-9/262309-4-seasons-of-doom.json"
+    },
+    {
+      "igdb_id": 250292,
+      "game_name": "4 Soccer Simulators",
+      "file": "missing/0-9/250292-4-soccer-simulators.json"
     },
     {
       "igdb_id": 212898,
@@ -12528,6 +12533,21 @@
       "file": "missing/A/296442-ai-to-noroi-school-simulator.json"
     },
     {
+      "igdb_id": 250332,
+      "game_name": "Ai to Yume no Kuni Sanrio Puroland Asobinagara Oboeyou! Hiragana Katakana",
+      "file": "missing/A/250332-ai-to-yume-no-kuni-sanrio-puroland-asobinagara-oboeyou-hiragana-katakana.json"
+    },
+    {
+      "igdb_id": 250333,
+      "game_name": "Ai to Yume no Kuni Sanrio Puroland: Chanto Dekirukana? Minna to Tanoshii Oyuugikai",
+      "file": "missing/A/250333-ai-to-yume-no-kuni-sanrio-puroland-chanto-dekirukana-minna-to-tanoshii-oyuugikai.json"
+    },
+    {
+      "igdb_id": 250334,
+      "game_name": "Ai to Yume to Bouken Sanrio Puroland!",
+      "file": "missing/A/250334-ai-to-yume-to-bouken-sanrio-puroland.json"
+    },
+    {
       "igdb_id": 245865,
       "game_name": "AI Unbound",
       "file": "missing/A/245865-ai-unbound.json"
@@ -20388,6 +20408,11 @@
       "file": "missing/A/375298-an-easter-to-remember.json"
     },
     {
+      "igdb_id": 250293,
+      "game_name": "An Elaborate History of Chess",
+      "file": "missing/A/250293-an-elaborate-history-of-chess.json"
+    },
+    {
       "igdb_id": 54,
       "game_name": "An Elder Scrolls Legend: Battlespire",
       "file": "missing/A/54-an-elder-scrolls-legend-battlespire.json"
@@ -21041,6 +21066,11 @@
       "igdb_id": 115597,
       "game_name": "And I Must Scream",
       "file": "missing/A/115597-and-i-must-scream.json"
+    },
+    {
+      "igdb_id": 250336,
+      "game_name": "And I Saw the Stars Falling Down...",
+      "file": "missing/A/250336-and-i-saw-the-stars-falling-down.json"
     },
     {
       "igdb_id": 345009,
@@ -33833,6 +33863,11 @@
       "file": "missing/A/93584-astro-warrior-pit-pot.json"
     },
     {
+      "igdb_id": 250337,
+      "game_name": "Astro Wars",
+      "file": "missing/A/250337-astro-wars.json"
+    },
+    {
       "igdb_id": 47284,
       "game_name": "Astro Wars",
       "file": "missing/A/47284-astro-wars.json"
@@ -34401,6 +34436,11 @@
       "igdb_id": 113459,
       "game_name": "Ataque Marino",
       "file": "missing/A/113459-ataque-marino.json"
+    },
+    {
+      "igdb_id": 250338,
+      "game_name": "Atari 4 Player Football",
+      "file": "missing/A/250338-atari-4-player-football.json"
     },
     {
       "igdb_id": 317961,
@@ -65718,6 +65758,11 @@
       "file": "missing/B/225639-boyfriends-rescue.json"
     },
     {
+      "igdb_id": 250286,
+      "game_name": "Boyhood's End",
+      "file": "missing/B/250286-boyhoods-end.json"
+    },
+    {
       "igdb_id": 310600,
       "game_name": "BoyKisser Clicker",
       "file": "missing/B/310600-boykisser-clicker.json"
@@ -68636,6 +68681,11 @@
       "igdb_id": 214052,
       "game_name": "Broken Cavalier",
       "file": "missing/B/214052-broken-cavalier.json"
+    },
+    {
+      "igdb_id": 250302,
+      "game_name": "Broken Colors",
+      "file": "missing/B/250302-broken-colors.json"
     },
     {
       "igdb_id": 282699,
@@ -74098,6 +74148,11 @@
       "file": "missing/C/269674-cahier-de-vacances-pour-adultes-2.json"
     },
     {
+      "igdb_id": 250305,
+      "game_name": "Cahoots",
+      "file": "missing/C/250305-cahoots.json"
+    },
+    {
       "igdb_id": 35956,
       "game_name": "Cahors Sunset",
       "file": "missing/C/35956-cahors-sunset.json"
@@ -74476,6 +74531,11 @@
       "igdb_id": 286606,
       "game_name": "Call of Duty 4: Modern Warfare - Limited Collector's Edition",
       "file": "missing/C/286606-call-of-duty-4-modern-warfare-limited-collectors-edition.json"
+    },
+    {
+      "igdb_id": 250316,
+      "game_name": "Call of Duty 4: Promod",
+      "file": "missing/C/250316-call-of-duty-4-promod.json"
     },
     {
       "igdb_id": 299136,
@@ -82653,6 +82713,11 @@
       "file": "missing/C/143110-cel-damage-2.json"
     },
     {
+      "igdb_id": 250299,
+      "game_name": "Celebrating Lake Xochimilco",
+      "file": "missing/C/250299-celebrating-lake-xochimilco.json"
+    },
+    {
       "igdb_id": 375816,
       "game_name": "Celebrating Lotería!",
       "file": "missing/C/375816-celebrating-loteria.json"
@@ -83966,6 +84031,11 @@
       "igdb_id": 46228,
       "game_name": "Championship Pro-Am",
       "file": "missing/C/46228-championship-pro-am.json"
+    },
+    {
+      "igdb_id": 250300,
+      "game_name": "Championship Rally",
+      "file": "missing/C/250300-championship-rally.json"
     },
     {
       "igdb_id": 71223,
@@ -87491,6 +87561,11 @@
       "igdb_id": 124639,
       "game_name": "Chloe's Requiem",
       "file": "missing/C/124639-chloes-requiem.json"
+    },
+    {
+      "igdb_id": 250285,
+      "game_name": "Chloe’s Requiem: Encore",
+      "file": "missing/C/250285-chloe-s-requiem-encore.json"
     },
     {
       "igdb_id": 334156,
@@ -91811,6 +91886,11 @@
       "igdb_id": 136280,
       "game_name": "Classic NES Series: Zelda II - The Adventure of Link",
       "file": "missing/C/136280-classic-nes-series-zelda-ii-the-adventure-of-link.json"
+    },
+    {
+      "igdb_id": 250310,
+      "game_name": "Classic Offensive",
+      "file": "missing/C/250310-classic-offensive.json"
     },
     {
       "igdb_id": 251804,
@@ -115708,6 +115788,11 @@
       "file": "missing/D/10137-dark-arcana-the-carnival.json"
     },
     {
+      "igdb_id": 250328,
+      "game_name": "Dark Army Resurrection",
+      "file": "missing/D/250328-dark-army-resurrection.json"
+    },
+    {
       "igdb_id": 339363,
       "game_name": "Dark Assassin: Trial Chambers",
       "file": "missing/D/339363-dark-assassin-trial-chambers.json"
@@ -132463,6 +132548,11 @@
       "file": "missing/D/125808-disney-tsum-tsum-land.json"
     },
     {
+      "igdb_id": 250331,
+      "game_name": "Disney Tsum Tsum Stadium",
+      "file": "missing/D/250331-disney-tsum-tsum-stadium.json"
+    },
+    {
       "igdb_id": 79914,
       "game_name": "Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest",
       "file": "missing/D/79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json"
@@ -142671,6 +142761,11 @@
       "igdb_id": 27332,
       "game_name": "Dream Chamber",
       "file": "missing/D/27332-dream-chamber.json"
+    },
+    {
+      "igdb_id": 250289,
+      "game_name": "Dream Channel Zero",
+      "file": "missing/D/250289-dream-channel-zero.json"
     },
     {
       "igdb_id": 257074,
@@ -187173,6 +187268,11 @@
       "file": "missing/F/55018-frantic-freddie.json"
     },
     {
+      "igdb_id": 250301,
+      "game_name": "Franz",
+      "file": "missing/F/250301-franz.json"
+    },
+    {
       "igdb_id": 263443,
       "game_name": "Franzen",
       "file": "missing/F/263443-franzen.json"
@@ -212313,6 +212413,21 @@
       "file": "missing/G/213005-guilty-gear-strive-additional-character-6-bridget.json"
     },
     {
+      "igdb_id": 250308,
+      "game_name": "Guilty Gear: Strive - Additional Character 7: Sin Kiske",
+      "file": "missing/G/250308-guilty-gear-strive-additional-character-7-sin-kiske.json"
+    },
+    {
+      "igdb_id": 250309,
+      "game_name": "Guilty Gear: Strive - Additional Character 8: Bedman?",
+      "file": "missing/G/250309-guilty-gear-strive-additional-character-8-bedman.json"
+    },
+    {
+      "igdb_id": 250311,
+      "game_name": "Guilty Gear: Strive - Additional Character 9: Asuka R♯",
+      "file": "missing/G/250311-guilty-gear-strive-additional-character-9-asuka-r.json"
+    },
+    {
       "igdb_id": 254504,
       "game_name": "Guilty Gear: Strive - Additional Character Color Pack",
       "file": "missing/G/254504-guilty-gear-strive-additional-character-color-pack.json"
@@ -215926,6 +216041,11 @@
       "igdb_id": 381718,
       "game_name": "Halo Infinite: Operation Infinite",
       "file": "missing/H/381718-halo-infinite-operation-infinite.json"
+    },
+    {
+      "igdb_id": 250295,
+      "game_name": "Halo Infinite: Season 4 - Infection",
+      "file": "missing/H/250295-halo-infinite-season-4-infection.json"
     },
     {
       "igdb_id": 335852,
@@ -235643,6 +235763,11 @@
       "file": "missing/H/171462-house-flipper-pets.json"
     },
     {
+      "igdb_id": 250281,
+      "game_name": "House Hopper",
+      "file": "missing/H/250281-house-hopper.json"
+    },
+    {
       "igdb_id": 173813,
       "game_name": "House in the village by the river v2.0",
       "file": "missing/H/173813-house-in-the-village-by-the-river-v2-0.json"
@@ -248233,6 +248358,11 @@
       "file": "missing/I/342886-insane-forest.json"
     },
     {
+      "igdb_id": 250325,
+      "game_name": "Insane Kart Wii",
+      "file": "missing/I/250325-insane-kart-wii.json"
+    },
+    {
       "igdb_id": 37404,
       "game_name": "Insane Road",
       "file": "missing/I/37404-insane-road.json"
@@ -260633,6 +260763,11 @@
       "file": "missing/J/196292-just-dance-2022-ultimate-edition.json"
     },
     {
+      "igdb_id": 250330,
+      "game_name": "Just Dance 2023 Edition",
+      "file": "missing/J/250330-just-dance-2023-edition.json"
+    },
+    {
       "igdb_id": 381725,
       "game_name": "Just Dance 2026 Edition",
       "file": "missing/J/381725-just-dance-2026-edition.json"
@@ -260656,6 +260791,11 @@
       "igdb_id": 409690,
       "game_name": "Just Dance: Decades of Hits",
       "file": "missing/J/409690-just-dance-decades-of-hits.json"
+    },
+    {
+      "igdb_id": 250329,
+      "game_name": "Just Dance: Vitality School",
+      "file": "missing/J/250329-just-dance-vitality-school.json"
     },
     {
       "igdb_id": 292066,
@@ -264676,6 +264816,11 @@
       "igdb_id": 212454,
       "game_name": "Keri-hime Sweets",
       "file": "missing/K/212454-keri-hime-sweets.json"
+    },
+    {
+      "igdb_id": 250277,
+      "game_name": "Keribato",
+      "file": "missing/K/250277-keribato.json"
     },
     {
       "igdb_id": 161404,
@@ -290728,6 +290873,11 @@
       "file": "missing/L/117041-lovers-of-aether.json"
     },
     {
+      "igdb_id": 250279,
+      "game_name": "LoveSoTea",
+      "file": "missing/L/250279-lovesotea.json"
+    },
+    {
       "igdb_id": 153845,
       "game_name": "Lovin House",
       "file": "missing/L/153845-lovin-house.json"
@@ -315108,6 +315258,11 @@
       "file": "missing/M/221971-milky-bear-rescue-rocket.json"
     },
     {
+      "igdb_id": 250296,
+      "game_name": "Milky Bear: Lunch Frenzy",
+      "file": "missing/M/250296-milky-bear-lunch-frenzy.json"
+    },
+    {
       "igdb_id": 232654,
       "game_name": "Milky Quest II",
       "file": "missing/M/232654-milky-quest-ii.json"
@@ -329043,6 +329198,11 @@
       "file": "missing/M/264311-mumu-boukenki-amusing-dream.json"
     },
     {
+      "igdb_id": 250314,
+      "game_name": "Mumu's Soup Adventure",
+      "file": "missing/M/250314-mumus-soup-adventure.json"
+    },
+    {
       "igdb_id": 312590,
       "game_name": "MuMuMu: Mist of Six Dreams",
       "file": "missing/M/312590-mumumu-mist-of-six-dreams.json"
@@ -330861,6 +331021,11 @@
       "igdb_id": 151702,
       "game_name": "My Child New Beginnings",
       "file": "missing/M/151702-my-child-new-beginnings.json"
+    },
+    {
+      "igdb_id": 250280,
+      "game_name": "My Child: Lebensborn Remastered",
+      "file": "missing/M/250280-my-child-lebensborn-remastered.json"
     },
     {
       "igdb_id": 94712,
@@ -345333,6 +345498,11 @@
       "file": "missing/N/227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json"
     },
     {
+      "igdb_id": 250320,
+      "game_name": "Nintendo 3DS Sound: Soccer",
+      "file": "missing/N/250320-nintendo-3ds-sound-soccer.json"
+    },
+    {
       "igdb_id": 270387,
       "game_name": "Nintendo Adventure Books 3: Monster Mix-Up",
       "file": "missing/N/270387-nintendo-adventure-books-3-monster-mix-up.json"
@@ -346586,6 +346756,11 @@
       "igdb_id": 399854,
       "game_name": "Noah's Quest",
       "file": "missing/N/399854-noahs-quest.json"
+    },
+    {
+      "igdb_id": 250317,
+      "game_name": "Noalone",
+      "file": "missing/N/250317-noalone.json"
     },
     {
       "igdb_id": 210882,
@@ -367203,6 +367378,11 @@
       "file": "missing/P/359575-passive-hero-save-the-world-in-100-days.json"
     },
     {
+      "igdb_id": 250284,
+      "game_name": "Passpartout 2: The Lost Artist - Special Edition",
+      "file": "missing/P/250284-passpartout-2-the-lost-artist-special-edition.json"
+    },
+    {
       "igdb_id": 263452,
       "game_name": "Passpartout: The One Man Band",
       "file": "missing/P/263452-passpartout-the-one-man-band.json"
@@ -369236,6 +369416,11 @@
       "igdb_id": 132347,
       "game_name": "Peekaboo Collection - 3 Tales of Horror",
       "file": "missing/P/132347-peekaboo-collection-3-tales-of-horror.json"
+    },
+    {
+      "igdb_id": 250306,
+      "game_name": "Peekaboo Lite",
+      "file": "missing/P/250306-peekaboo-lite.json"
     },
     {
       "igdb_id": 211284,
@@ -386688,6 +386873,11 @@
       "file": "missing/P/195728-pow-pow-dye-it-up.json"
     },
     {
+      "igdb_id": 250335,
+      "game_name": "Pow Vista",
+      "file": "missing/P/250335-pow-vista.json"
+    },
+    {
       "igdb_id": 131376,
       "game_name": "Pow: Horyo",
       "file": "missing/P/131376-pow-horyo.json"
@@ -395448,6 +395638,16 @@
       "file": "missing/P/84798-puyo-puyo-2.json"
     },
     {
+      "igdb_id": 250339,
+      "game_name": "Puyo Puyo CD",
+      "file": "missing/P/250339-puyo-puyo-cd.json"
+    },
+    {
+      "igdb_id": 250297,
+      "game_name": "Puyo Puyo CD Tsuu",
+      "file": "missing/P/250297-puyo-puyo-cd-tsuu.json"
+    },
+    {
       "igdb_id": 252125,
       "game_name": "Puyo Puyo Fever Habanero",
       "file": "missing/P/252125-puyo-puyo-fever-habanero.json"
@@ -403156,6 +403356,11 @@
       "igdb_id": 295037,
       "game_name": "Rap Quest",
       "file": "missing/R/295037-rap-quest.json"
+    },
+    {
+      "igdb_id": 250303,
+      "game_name": "Rap Simulator",
+      "file": "missing/R/250303-rap-simulator.json"
     },
     {
       "igdb_id": 7155,
@@ -411551,6 +411756,11 @@
       "igdb_id": 159857,
       "game_name": "Retrowave Hexon",
       "file": "missing/R/159857-retrowave-hexon.json"
+    },
+    {
+      "igdb_id": 250304,
+      "game_name": "Retrowave Illusions: Aesthetics Edition",
+      "file": "missing/R/250304-retrowave-illusions-aesthetics-edition.json"
     },
     {
       "igdb_id": 355576,
@@ -461233,6 +461443,11 @@
       "file": "missing/S/71799-soukaigi.json"
     },
     {
+      "igdb_id": 250276,
+      "game_name": "Soukaishin",
+      "file": "missing/S/250276-soukaishin.json"
+    },
+    {
       "igdb_id": 358304,
       "game_name": "Soukh",
       "file": "missing/S/358304-soukh.json"
@@ -506278,6 +506493,11 @@
       "file": "missing/T/321551-tetris-kuromi-sanrio-key-chain-game-console.json"
     },
     {
+      "igdb_id": 250321,
+      "game_name": "Tetris Mario Bros.",
+      "file": "missing/T/250321-tetris-mario-bros.json"
+    },
+    {
       "igdb_id": 234081,
       "game_name": "Tetris MicroCard",
       "file": "missing/T/234081-tetris-microcard.json"
@@ -506586,6 +506806,11 @@
       "igdb_id": 137468,
       "game_name": "Thalamus: The Hits 2",
       "file": "missing/T/137468-thalamus-the-hits-2.json"
+    },
+    {
+      "igdb_id": 250287,
+      "game_name": "Thalassa: Edge of the Abyss",
+      "file": "missing/T/250287-thalassa-edge-of-the-abyss.json"
     },
     {
       "igdb_id": 238728,
@@ -521048,6 +521273,11 @@
       "file": "missing/T/136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json"
     },
     {
+      "igdb_id": 250327,
+      "game_name": "The Legend of Zelda: Breath of the Wild - Hyrule Rebalance",
+      "file": "missing/T/250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json"
+    },
+    {
       "igdb_id": 250324,
       "game_name": "The Legend of Zelda: Breath of the Wild - Islands Expansion",
       "file": "missing/T/250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json"
@@ -521226,6 +521456,11 @@
       "igdb_id": 172690,
       "game_name": "The Legend of Zelda: Picross",
       "file": "missing/T/172690-the-legend-of-zelda-picross.json"
+    },
+    {
+      "igdb_id": 250319,
+      "game_name": "The Legend of Zelda: Relics of the Past",
+      "file": "missing/T/250319-the-legend-of-zelda-relics-of-the-past.json"
     },
     {
       "igdb_id": 323756,
@@ -554593,6 +554828,11 @@
       "file": "missing/T/242235-treasure-hunter.json"
     },
     {
+      "igdb_id": 250307,
+      "game_name": "Treasure Hunter",
+      "file": "missing/T/250307-treasure-hunter.json"
+    },
+    {
       "igdb_id": 309493,
       "game_name": "Treasure Hunter",
       "file": "missing/T/309493-treasure-hunter.json"
@@ -581383,6 +581623,11 @@
       "file": "missing/W/157034-we-are-live.json"
     },
     {
+      "igdb_id": 250323,
+      "game_name": "We Are Out of Food, Milton.",
+      "file": "missing/W/250323-we-are-out-of-food-milton.json"
+    },
+    {
       "igdb_id": 400864,
       "game_name": "We Are Prophet",
       "file": "missing/W/400864-we-are-prophet.json"
@@ -597991,6 +598236,11 @@
       "igdb_id": 254505,
       "game_name": "Yodoyabashi Oyasama Club",
       "file": "missing/Y/254505-yodoyabashi-oyasama-club.json"
+    },
+    {
+      "igdb_id": 250278,
+      "game_name": "Yog-Sothoth's Yard",
+      "file": "missing/Y/250278-yog-sothoths-yard.json"
     },
     {
       "igdb_id": 238048,
