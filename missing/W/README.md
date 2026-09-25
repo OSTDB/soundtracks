@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Speed | 45568 | [45568-warp-speed.json](./45568-warp-speed.json) |
 | Warp to Sector One | 394552 | [394552-warp-to-sector-one.json](./394552-warp-to-sector-one.json) |
 | Warp-1 | 57125 | [57125-warp-1.json](./57125-warp-1.json) |
+| Warpath | 273349 | [273349-warpath.json](./273349-warpath.json) |
 | Warpath | 377149 | [377149-warpath.json](./377149-warpath.json) |
 | Warpath 97 | 77306 | [77306-warpath-97.json](./77306-warpath-97.json) |
 | Warpath Ace Shooter | 172683 | [172683-warpath-ace-shooter.json](./172683-warpath-ace-shooter.json) |
@@ -3559,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
 | WWE 2K22: Season Pass | 293720 | [293720-wwe-2k22-season-pass.json](./293720-wwe-2k22-season-pass.json) |
 | WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
+| WWE 2K23: Bad Bunny Edition - Bonus Pack | 273348 | [273348-wwe-2k23-bad-bunny-edition-bonus-pack.json](./273348-wwe-2k23-bad-bunny-edition-bonus-pack.json) |
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K23: Pretty Sweet Pack | 279032 | [279032-wwe-2k23-pretty-sweet-pack.json](./279032-wwe-2k23-pretty-sweet-pack.json) |
 | WWE 2K23: Race to NXT Pack | 279049 | [279049-wwe-2k23-race-to-nxt-pack.json](./279049-wwe-2k23-race-to-nxt-pack.json) |
