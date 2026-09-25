@@ -6090,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Syndrome | 138269 | [138269-dream-syndrome.json](./138269-dream-syndrome.json) |
 | Dream Tale | 36047 | [36047-dream-tale.json](./36047-dream-tale.json) |
 | Dream Tape LLC | 408910 | [408910-dream-tape-llc.json](./408910-dream-tape-llc.json) |
+| Dream Team Basketball | 229005 | [229005-dream-team-basketball.json](./229005-dream-team-basketball.json) |
 | Dream Team Supreme | 328045 | [328045-dream-team-supreme.json](./328045-dream-team-supreme.json) |
 | Dream Time | 152928 | [152928-dream-time.json](./152928-dream-time.json) |
 | Dream Tower | 357462 | [357462-dream-tower.json](./357462-dream-tower.json) |
