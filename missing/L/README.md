@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Labubu Games | 363968 | [363968-labubu-games.json](./363968-labubu-games.json) |
+| LabWatch | 272261 | [272261-labwatch.json](./272261-labwatch.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
 | Labyren | 389086 | [389086-labyren.json](./389086-labyren.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
@@ -1308,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lenny Loosejocks Goes Walkabout | 170548 | [170548-lenny-loosejocks-goes-walkabout.json](./170548-lenny-loosejocks-goes-walkabout.json) |
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
 | Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
+| Lens Gloss | 272236 | [272236-lens-gloss.json](./272236-lens-gloss.json) |
 | Lent: The Easter Bunny - Lent's Adventure: Story One | 215123 | [215123-lent-the-easter-bunny-lents-adventure-story-one.json](./215123-lent-the-easter-bunny-lents-adventure-story-one.json) |
 | Léo | 386726 | [386726-leo.json](./386726-leo.json) |
 | Leo & Leah | 130884 | [130884-leo-and-leah.json](./130884-leo-and-leah.json) |
