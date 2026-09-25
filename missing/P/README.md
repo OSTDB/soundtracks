@@ -2157,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
 | Philosopher's Stone | 205087 | [205087-philosophers-stone.json](./205087-philosophers-stone.json) |
 | Philosophic Love | 105126 | [105126-philosophic-love.json](./105126-philosophic-love.json) |
+| Philotes Trials | 244717 | [244717-philotes-trials.json](./244717-philotes-trials.json) |
 | Phineas & Ferb: Day of Doofensmirtz | 42667 | [42667-phineas-and-ferb-day-of-doofensmirtz.json](./42667-phineas-and-ferb-day-of-doofensmirtz.json) |
 | Phineas and Ferb | 230397 | [230397-phineas-and-ferb.json](./230397-phineas-and-ferb.json) |
 | Phineas and Ferb Arcade | 361713 | [361713-phineas-and-ferb-arcade.json](./361713-phineas-and-ferb-arcade.json) |
@@ -3426,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
 | Plague of Days | 118322 | [118322-plague-of-days.json](./118322-plague-of-days.json) |
 | Plague Universe | 246884 | [246884-plague-universe.json](./246884-plague-universe.json) |
+| Plague: London 1665 | 244733 | [244733-plague-london-1665.json](./244733-plague-london-1665.json) |
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
 | Plain Song | 368501 | [368501-plain-song.json](./368501-plain-song.json) |
