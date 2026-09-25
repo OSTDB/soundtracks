@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Havoc: Idle Adventures | 26171 | [26171-heroes-of-havoc-idle-adventures.json](./26171-heroes-of-havoc-idle-adventures.json) |
 | Heroes of Hellas | 54097 | [54097-heroes-of-hellas.json](./54097-heroes-of-hellas.json) |
 | Heroes of Hellas 2: Olympia | 54096 | [54096-heroes-of-hellas-2-olympia.json](./54096-heroes-of-hellas-2-olympia.json) |
+| Heroes of Holdem | 240175 | [240175-heroes-of-holdem.json](./240175-heroes-of-holdem.json) |
 | Heroes of Hyrule | 215237 | [215237-heroes-of-hyrule.json](./215237-heroes-of-hyrule.json) |
 | Heroes of Jin Yong | 210689 | [210689-heroes-of-jin-yong.json](./210689-heroes-of-jin-yong.json) |
 | Heroes of Kalevala | 54095 | [54095-heroes-of-kalevala.json](./54095-heroes-of-kalevala.json) |
@@ -4092,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot 21 | 238613 | [238613-hot-21.json](./238613-hot-21.json) |
 | Hot Action Pak | 56454 | [56454-hot-action-pak.json](./56454-hot-action-pak.json) |
 | Hot Air | 152908 | [152908-hot-air.json](./152908-hot-air.json) |
+| Hot Air Balloon | 240142 | [240142-hot-air-balloon.json](./240142-hot-air-balloon.json) |
 | Hot Air Bloon | 286632 | [286632-hot-air-bloon.json](./286632-hot-air-bloon.json) |
 | Hot and Cold | 386727 | [386727-hot-and-cold.json](./386727-hot-and-cold.json) |
 | Hot and Lovely 4 | 170556 | [170556-hot-and-lovely-4.json](./170556-hot-and-lovely-4.json) |
