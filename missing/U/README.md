@@ -539,6 +539,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanyon | 416106 | [416106-uncanyon.json](./416106-uncanyon.json) |
 | Uncensor Quest | 261773 | [261773-uncensor-quest.json](./261773-uncensor-quest.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
+| Uncharted 2: Among Thieves: Drake's Fortune Multiplayer Pack | 252107 | [252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json](./252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json) |
+| Uncharted 2: Among Thieves: Siege Expansion Pack | 252114 | [252114-uncharted-2-among-thieves-siege-expansion-pack.json](./252114-uncharted-2-among-thieves-siege-expansion-pack.json) |
 | Uncharted 3: Drake's Deception - Special Edition | 139922 | [139922-uncharted-3-drakes-deception-special-edition.json](./139922-uncharted-3-drakes-deception-special-edition.json) |
 | Uncharted 3: Multiplayer | 252195 | [252195-uncharted-3-multiplayer.json](./252195-uncharted-3-multiplayer.json) |
 | Uncharted Island | 208954 | [208954-uncharted-island.json](./208954-uncharted-island.json) |
