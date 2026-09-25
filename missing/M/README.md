@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mach's noch einmal, Sven | 206794 | [206794-machs-noch-einmal-sven.json](./206794-machs-noch-einmal-sven.json) |
 | Machi | 279747 | [279747-machi.json](./279747-machi.json) |
 | Machi Knights: Blood Bagos | 115662 | [115662-machi-knights-blood-bagos.json](./115662-machi-knights-blood-bagos.json) |
+| Machi Koro With Everyone | 266751 | [266751-machi-koro-with-everyone.json](./266751-machi-koro-with-everyone.json) |
 | Machi no Pet-Ya-San DS 2: Wannyan 333-Hiki Daishuugou! | 133796 | [133796-machi-no-pet-ya-san-ds-2-wannyan-333-hiki-daishuugou.json](./133796-machi-no-pet-ya-san-ds-2-wannyan-333-hiki-daishuugou.json) |
 | Machi no Pet-Ya-San DS: Wan-chan 200-Hiki Daishuugou | 133795 | [133795-machi-no-pet-ya-san-ds-wan-chan-200-hiki-daishuugou.json](./133795-machi-no-pet-ya-san-ds-wan-chan-200-hiki-daishuugou.json) |
 | Machi-ing Maker 4 | 65510 | [65510-machi-ing-maker-4.json](./65510-machi-ing-maker-4.json) |
@@ -141,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Head | 311471 | [311471-mad-head.json](./311471-mad-head.json) |
 | Mad Jyacer | 276250 | [276250-mad-jyacer.json](./276250-mad-jyacer.json) |
 | Mad King Redemption | 361874 | [361874-mad-king-redemption.json](./361874-mad-king-redemption.json) |
+| Mad King's Lair: Tome of Destruction | 266755 | [266755-mad-kings-lair-tome-of-destruction.json](./266755-mad-kings-lair-tome-of-destruction.json) |
 | Mad Lab Roulette | 362925 | [362925-mad-lab-roulette.json](./362925-mad-lab-roulette.json) |
 | Mad Machines | 107156 | [107156-mad-machines.json](./107156-mad-machines.json) |
 | Mad Maestro! | 43634 | [43634-mad-maestro.json](./43634-mad-maestro.json) |
@@ -2233,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matolek the Goat's School | 334651 | [334651-matolek-the-goats-school.json](./334651-matolek-the-goats-school.json) |
 | Matou no Houkai: The Hero of Babel | 64352 | [64352-matou-no-houkai-the-hero-of-babel.json](./64352-matou-no-houkai-the-hero-of-babel.json) |
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
+| Matrix Bullet | 266766 | [266766-matrix-bullet.json](./266766-matrix-bullet.json) |
 | Matsudaira's Myoshu: A Sengoku Village Simulator | 291470 | [291470-matsudairas-myoshu-a-sengoku-village-simulator.json](./291470-matsudairas-myoshu-a-sengoku-village-simulator.json) |
 | Matsukata Hiroki no Super Trawling | 37930 | [37930-matsukata-hiroki-no-super-trawling.json](./37930-matsukata-hiroki-no-super-trawling.json) |
 | Matsukeke Burst! | 288297 | [288297-matsukeke-burst.json](./288297-matsukeke-burst.json) |
@@ -7930,6 +7933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
 | My Tsundere Femboy | 277368 | [277368-my-tsundere-femboy.json](./277368-my-tsundere-femboy.json) |
 | My Two First Loves | 313847 | [313847-my-two-first-loves.json](./313847-my-two-first-loves.json) |
+| My Type! | 266829 | [266829-my-type.json](./266829-my-type.json) |
 | My U.S. Trucking Skills | 316855 | [316855-my-u-s-trucking-skills.json](./316855-my-u-s-trucking-skills.json) |
 | My Uncle Merlin | 76236 | [76236-my-uncle-merlin.json](./76236-my-uncle-merlin.json) |
 | My Uncle's Garden | 229776 | [229776-my-uncles-garden.json](./229776-my-uncles-garden.json) |
