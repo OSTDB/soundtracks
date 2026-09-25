@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnals | 279107 | [279107-nocturnals.json](./279107-nocturnals.json) |
 | Nocturnarya: Collector's Edition | 362846 | [362846-nocturnarya-collectors-edition.json](./362846-nocturnarya-collectors-edition.json) |
 | Nocturne | 150509 | [150509-nocturne.json](./150509-nocturne.json) |
+| Nocturne | 229636 | [229636-nocturne.json](./229636-nocturne.json) |
 | Nocturne | 402375 | [402375-nocturne.json](./402375-nocturne.json) |
 | Nocturne for Cyl-Hestia | 390813 | [390813-nocturne-for-cyl-hestia.json](./390813-nocturne-for-cyl-hestia.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
@@ -2567,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non-Stop Space Probe | 237389 | [237389-non-stop-space-probe.json](./237389-non-stop-space-probe.json) |
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
 | Nonamed | 84264 | [84264-nonamed.json](./84264-nonamed.json) |
+| None | 229652 | [229652-none.json](./229652-none.json) |
 | None Tank Age | 239616 | [239616-none-tank-age.json](./239616-none-tank-age.json) |
 | Noneday | 387549 | [387549-noneday.json](./387549-noneday.json) |
 | Nonentity Galaxy | 311490 | [311490-nonentity-galaxy.json](./311490-nonentity-galaxy.json) |
@@ -2854,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nox Archaist: Lord of Storms | 247430 | [247430-nox-archaist-lord-of-storms.json](./247430-nox-archaist-lord-of-storms.json) |
 | Nox Dash | 331480 | [331480-nox-dash.json](./331480-nox-dash.json) |
 | Nox Quest | 92834 | [92834-nox-quest.json](./92834-nox-quest.json) |
+| NOX: Chapter 1 | 229626 | [229626-nox-chapter-1.json](./229626-nox-chapter-1.json) |
 | Nox: Escape Adventure | 241049 | [241049-nox-escape-adventure.json](./241049-nox-escape-adventure.json) |
 | Noxcode | 404413 | [404413-noxcode.json](./404413-noxcode.json) |
 | Noxiam: Miserable Sinners | 126407 | [126407-noxiam-miserable-sinners.json](./126407-noxiam-miserable-sinners.json) |
@@ -3055,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyakori's Rabbit Doll | 130403 | [130403-nyakoris-rabbit-doll.json](./130403-nyakoris-rabbit-doll.json) |
 | Nyakori's Rabbit Doll: After Story | 157552 | [157552-nyakoris-rabbit-doll-after-story.json](./157552-nyakoris-rabbit-doll-after-story.json) |
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
+| Nyan Nikki | 229663 | [229663-nyan-nikki.json](./229663-nyan-nikki.json) |
 | Nyan Nyan Tower | 268446 | [268446-nyan-nyan-tower.json](./268446-nyan-nyan-tower.json) |
 | Nyan to Suteki na Natsuiro Days | 108872 | [108872-nyan-to-suteki-na-natsuiro-days.json](./108872-nyan-to-suteki-na-natsuiro-days.json) |
 | Nyan to Wonderful | 143674 | [143674-nyan-to-wonderful.json](./143674-nyan-to-wonderful.json) |
