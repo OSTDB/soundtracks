@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pesticide Not Required | 257978 | [257978-pesticide-not-required.json](./257978-pesticide-not-required.json) |
 | Pestilence | 272272 | [272272-pestilence.json](./272272-pestilence.json) |
 | Pestis | 97921 | [97921-pestis.json](./97921-pestis.json) |
+| Pet | 240170 | [240170-pet.json](./240170-pet.json) |
 | Pet & Dog Simulator | 333736 | [333736-pet-and-dog-simulator.json](./333736-pet-and-dog-simulator.json) |
 | Pet Alien: An Intergalactic Puzzlepalooza | 8120 | [8120-pet-alien-an-intergalactic-puzzlepalooza.json](./8120-pet-alien-an-intergalactic-puzzlepalooza.json) |
 | Pet Buddies | 356732 | [356732-pet-buddies.json](./356732-pet-buddies.json) |
@@ -4226,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Max Out | 316620 | [316620-pokemon-go-max-out.json](./316620-pokemon-go-max-out.json) |
 | Pokémon Go: Might and Mastery | 333565 | [333565-pokemon-go-might-and-mastery.json](./333565-pokemon-go-might-and-mastery.json) |
 | Pokémon Go: Mythical Wishes | 227940 | [227940-pokemon-go-mythical-wishes.json](./227940-pokemon-go-mythical-wishes.json) |
+| Pokémon Go: Rising Heroes | 240151 | [240151-pokemon-go-rising-heroes.json](./240151-pokemon-go-rising-heroes.json) |
 | Pokémon Go: Season of Alola | 218482 | [218482-pokemon-go-season-of-alola.json](./218482-pokemon-go-season-of-alola.json) |
 | Pokémon Go: Season of Discovery | 218496 | [218496-pokemon-go-season-of-discovery.json](./218496-pokemon-go-season-of-discovery.json) |
 | Pokémon Go: Season of Go | 215758 | [215758-pokemon-go-season-of-go.json](./215758-pokemon-go-season-of-go.json) |
@@ -5994,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
 | Project Homecoming Haven | 300711 | [300711-project-homecoming-haven.json](./300711-project-homecoming-haven.json) |
 | Project Horror Anthology: Project Prequel | 244183 | [244183-project-horror-anthology-project-prequel.json](./244183-project-horror-anthology-project-prequel.json) |
+| Project Horror Tales | 240174 | [240174-project-horror-tales.json](./240174-project-horror-tales.json) |
 | Project Hospital | 75855 | [75855-project-hospital.json](./75855-project-hospital.json) |
 | Project Hovercraft | 32181 | [32181-project-hovercraft.json](./32181-project-hovercraft.json) |
 | Project I | 274579 | [274579-project-i.json](./274579-project-i.json) |
