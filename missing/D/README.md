@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
 | Death From Above: Complete Edition | 336140 | [336140-death-from-above-complete-edition.json](./336140-death-from-above-complete-edition.json) |
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
+| Death Game Hotel | 251554 | [251554-death-game-hotel.json](./251554-death-game-hotel.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
 | Death Imminent | 379014 | [379014-death-imminent.json](./379014-death-imminent.json) |
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Deluxe Edition | 188021 | [188021-deep-rock-galactic-deluxe-edition.json](./188021-deep-rock-galactic-deluxe-edition.json) |
 | Deep Rock Galactic: Order of the Deep Pack | 302936 | [302936-deep-rock-galactic-order-of-the-deep-pack.json](./302936-deep-rock-galactic-order-of-the-deep-pack.json) |
 | Deep Rock Galactic: Rogue Core | 270354 | [270354-deep-rock-galactic-rogue-core.json](./270354-deep-rock-galactic-rogue-core.json) |
+| Deep Rock Galactic: Season 4 - Critical Corruption | 251542 | [251542-deep-rock-galactic-season-4-critical-corruption.json](./251542-deep-rock-galactic-season-4-critical-corruption.json) |
 | Deep Rock Galactic: Survivor | 240556 | [240556-deep-rock-galactic-survivor.json](./240556-deep-rock-galactic-survivor.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
@@ -2288,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
+| Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
@@ -3419,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
 | Dimension M | 213969 | [213969-dimension-m.json](./213969-dimension-m.json) |
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
+| Dimension of the Boomed | 251546 | [251546-dimension-of-the-boomed.json](./251546-dimension-of-the-boomed.json) |
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
 | Dimension Shift | 323884 | [323884-dimension-shift.json](./323884-dimension-shift.json) |
@@ -4441,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doko Demo Issho: Toro's Story App | 246073 | [246073-doko-demo-issho-toros-story-app.json](./246073-doko-demo-issho-toros-story-app.json) |
 | Doko Demo Raku Raku! DS Kakeibo | 269573 | [269573-doko-demo-raku-raku-ds-kakeibo.json](./269573-doko-demo-raku-raku-ds-kakeibo.json) |
 | Doko he Iku no, Ano Hi | 408770 | [408770-doko-he-iku-no-ano-hi.json](./408770-doko-he-iku-no-ano-hi.json) |
+| Doko ni Iru? Hijouguchi no Pict-san | 251514 | [251514-doko-ni-iru-hijouguchi-no-pict-san.json](./251514-doko-ni-iru-hijouguchi-no-pict-san.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Mahjong | 43966 | [43966-dokodemo-mahjong.json](./43966-dokodemo-mahjong.json) |
 | Dokodemo Taikyoku: Yakuman Advance | 49586 | [49586-dokodemo-taikyoku-yakuman-advance.json](./49586-dokodemo-taikyoku-yakuman-advance.json) |
@@ -6965,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Dredmor: You Have to Name the Expansion Pack | 169334 | [169334-dungeons-of-dredmor-you-have-to-name-the-expansion-pack.json](./169334-dungeons-of-dredmor-you-have-to-name-the-expansion-pack.json) |
 | Dungeons of Dusk | 380425 | [380425-dungeons-of-dusk.json](./380425-dungeons-of-dusk.json) |
 | Dungeons of Edera 2 | 363950 | [363950-dungeons-of-edera-2.json](./363950-dungeons-of-edera-2.json) |
+| Dungeons of Eternity | 251564 | [251564-dungeons-of-eternity.json](./251564-dungeons-of-eternity.json) |
 | Dungeons of Freeport | 408249 | [408249-dungeons-of-freeport.json](./408249-dungeons-of-freeport.json) |
 | Dungeons of Hinterberg: Episode Renaud | 358904 | [358904-dungeons-of-hinterberg-episode-renaud.json](./358904-dungeons-of-hinterberg-episode-renaud.json) |
 | Dungeons of Honor | 191193 | [191193-dungeons-of-honor.json](./191193-dungeons-of-honor.json) |
