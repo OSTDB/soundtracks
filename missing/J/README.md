@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jibi Land: Princess Castle | 299211 | [299211-jibi-land-princess-castle.json](./299211-jibi-land-princess-castle.json) |
 | Jibi Land: Princess Town | 299212 | [299212-jibi-land-princess-town.json](./299212-jibi-land-princess-town.json) |
 | Jice | 183978 | [183978-jice.json](./183978-jice.json) |
+| Jieitai World | 254449 | [254449-jieitai-world.json](./254449-jieitai-world.json) |
 | Jigdoku | 404203 | [404203-jigdoku.json](./404203-jigdoku.json) |
 | JigDoku | 91734 | [91734-jigdoku.json](./91734-jigdoku.json) |
 | Jigen Bakudan Kaijo | 349942 | [349942-jigen-bakudan-kaijo.json](./349942-jigen-bakudan-kaijo.json) |
@@ -711,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigzo | 363576 | [363576-jigzo.json](./363576-jigzo.json) |
 | Jiji...Love | 329715 | [329715-jiji-love.json](./329715-jiji-love.json) |
 | Jikai Shounen Mettomag | 41321 | [41321-jikai-shounen-mettomag.json](./41321-jikai-shounen-mettomag.json) |
+| Jikki Pachi-Slot Simulator Vol. 1 | 254450 | [254450-jikki-pachi-slot-simulator-vol-1.json](./254450-jikki-pachi-slot-simulator-vol-1.json) |
 | Jikkyou GI Stable | 3524 | [3524-jikkyou-gi-stable.json](./3524-jikkyou-gi-stable.json) |
 | Jikkyou Golf Master 2000 | 143661 | [143661-jikkyou-golf-master-2000.json](./143661-jikkyou-golf-master-2000.json) |
 | Jikkyou J.League 1999 Perfect Striker | 220858 | [220858-jikkyou-j-league-1999-perfect-striker.json](./220858-jikkyou-j-league-1999-perfect-striker.json) |
@@ -778,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei 8-man-7000-kai no Shokuji wo Tanoshiku suru: Oishiku Kiwameru Shokutsuu DS - Otona no Shuumatsu Henshuu-bu Gensen no Osusume Tenpo Jouhou Iri | 269591 | [269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json](./269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json) |
 | Jinsei Game 64 | 3530 | [3530-jinsei-game-64.json](./3530-jinsei-game-64.json) |
 | Jinsei Game for Dreamcast | 131569 | [131569-jinsei-game-for-dreamcast.json](./131569-jinsei-game-for-dreamcast.json) |
+| Jinsei Game for Nintendo Switch | 254467 | [254467-jinsei-game-for-nintendo-switch.json](./254467-jinsei-game-for-nintendo-switch.json) |
 | Jinsei Game: Tomodachi Takusan Tsukurou yo! | 228565 | [228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json](./228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json) |
 | Jinshin | 208100 | [208100-jinshin.json](./208100-jinshin.json) |
 | Jinx | 369191 | [369191-jinx.json](./369191-jinx.json) |
