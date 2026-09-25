@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13th Friday Night: Funk Blood | 314500 | [314500-13th-friday-night-funk-blood.json](./314500-13th-friday-night-funk-blood.json) |
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
+| 1414: Crossroads | 241301 | [241301-1414-crossroads.json](./241301-1414-crossroads.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
 | 1492: Colonization of the New World | 373086 | [373086-1492-colonization-of-the-new-world.json](./373086-1492-colonization-of-the-new-world.json) |
 | 14Days | 98412 | [98412-14days.json](./98412-14days.json) |
@@ -950,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5125m | 370206 | [370206-5125m.json](./370206-5125m.json) |
 | 5200 Menu | 93539 | [93539-5200-menu.json](./93539-5200-menu.json) |
 | 52Beatup | 261834 | [261834-52beatup.json](./261834-52beatup.json) |
+| 555! | 241328 | [241328-555.json](./241328-555.json) |
 | 5D Chess With Multiverse Time Travel Chatting | 411803 | [411803-5d-chess-with-multiverse-time-travel-chatting.json](./411803-5d-chess-with-multiverse-time-travel-chatting.json) |
 | 5D Diplomacy with Multiverse Time Travel | 330835 | [330835-5d-diplomacy-with-multiverse-time-travel.json](./330835-5d-diplomacy-with-multiverse-time-travel.json) |
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
