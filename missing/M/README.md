@@ -3602,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
 | Merge Battle | 102592 | [102592-merge-battle.json](./102592-merge-battle.json) |
 | Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
+| Merge Castle | 233448 | [233448-merge-castle.json](./233448-merge-castle.json) |
 | Merge Chess | 172007 | [172007-merge-chess.json](./172007-merge-chess.json) |
 | Merge Circle | 262342 | [262342-merge-circle.json](./262342-merge-circle.json) |
 | Merge Circus | 285472 | [285472-merge-circus.json](./285472-merge-circus.json) |
@@ -4679,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
 | Mine Shaft | 241965 | [241965-mine-shaft.json](./241965-mine-shaft.json) |
 | Mine Storm II | 41987 | [41987-mine-storm-ii.json](./41987-mine-storm-ii.json) |
+| Mine Survival | 233447 | [233447-mine-survival.json](./233447-mine-survival.json) |
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
 | Mine Sweeper | 40760 | [40760-mine-sweeper.json](./40760-mine-sweeper.json) |
 | Mine Sweeper Million | 298586 | [298586-mine-sweeper-million.json](./298586-mine-sweeper-million.json) |
@@ -5986,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
 | Monster Collector | 143647 | [143647-monster-collector.json](./143647-monster-collector.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
+| Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
 | Monster Dunk | 130333 | [130333-monster-dunk.json](./130333-monster-dunk.json) |
 | Monster Eggs | 69197 | [69197-monster-eggs.json](./69197-monster-eggs.json) |
 | Monster Elevator | 319188 | [319188-monster-elevator.json](./319188-monster-elevator.json) |
@@ -7819,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Golf Game featuring Ernie Els | 206772 | [206772-my-golf-game-featuring-ernie-els.json](./206772-my-golf-game-featuring-ernie-els.json) |
 | My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
 | My Group Members Suck!! | 417572 | [417572-my-group-members-suck.json](./417572-my-group-members-suck.json) |
+| My Gym: Fitness Studio Manager | 233473 | [233473-my-gym-fitness-studio-manager.json](./233473-my-gym-fitness-studio-manager.json) |
 | My Happy Place | 229774 | [229774-my-happy-place.json](./229774-my-happy-place.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
