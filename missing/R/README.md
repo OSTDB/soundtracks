@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
 | Restaurant at the End of Time | 257880 | [257880-restaurant-at-the-end-of-time.json](./257880-restaurant-at-the-end-of-time.json) |
 | Restaurant Builder | 238462 | [238462-restaurant-builder.json](./238462-restaurant-builder.json) |
+| Restaurant Diary | 233441 | [233441-restaurant-diary.json](./233441-restaurant-diary.json) |
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
