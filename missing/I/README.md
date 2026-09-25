@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Suppose | 367503 | [367503-i-suppose.json](./367503-i-suppose.json) |
 | I Tap Pirate. A Sea Survival Adventure Game | 103535 | [103535-i-tap-pirate-a-sea-survival-adventure-game.json](./103535-i-tap-pirate-a-sea-survival-adventure-game.json) |
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
+| I Think I'm in Love with a Demon Prince | 268985 | [268985-i-think-im-in-love-with-a-demon-prince.json](./268985-i-think-im-in-love-with-a-demon-prince.json) |
 | I Too Can Grow | 179058 | [179058-i-too-can-grow.json](./179058-i-too-can-grow.json) |
 | I Traveled Back to 5 Days Before the Apocalypse | 379554 | [379554-i-traveled-back-to-5-days-before-the-apocalypse.json](./379554-i-traveled-back-to-5-days-before-the-apocalypse.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
@@ -2444,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Hearts | 373514 | [373514-island-of-hearts.json](./373514-island-of-hearts.json) |
 | Island of Lust | 191220 | [191220-island-of-lust.json](./191220-island-of-lust.json) |
 | Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
+| Island of Mogambo | 268986 | [268986-island-of-mogambo.json](./268986-island-of-mogambo.json) |
 | Island of the Ancients | 154368 | [154368-island-of-the-ancients.json](./154368-island-of-the-ancients.json) |
 | Island Paradise | 296939 | [296939-island-paradise.json](./296939-island-paradise.json) |
 | Island Peril | 57673 | [57673-island-peril.json](./57673-island-peril.json) |
@@ -2573,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It’s A Game Changer | 336637 | [336637-it-s-a-game-changer.json](./336637-it-s-a-game-changer.json) |
 | It's a Gas! | 325080 | [325080-its-a-gas.json](./325080-its-a-gas.json) |
 | It's a Giant! | 185102 | [185102-its-a-giant.json](./185102-its-a-giant.json) |
+| It's a Match!! | 268987 | [268987-its-a-match.json](./268987-its-a-match.json) |
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
 | It's A Wipe! | 17982 | [17982-its-a-wipe.json](./17982-its-a-wipe.json) |
 | It's all in your mind | 181394 | [181394-its-all-in-your-mind.json](./181394-its-all-in-your-mind.json) |
