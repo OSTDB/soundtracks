@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: King's Knight Tee | 350501 | [350501-final-fantasy-xv-kings-knight-tee.json](./350501-final-fantasy-xv-kings-knight-tee.json) |
 | Final Fantasy XV: Pocket Edition HD | 108156 | [108156-final-fantasy-xv-pocket-edition-hd.json](./108156-final-fantasy-xv-pocket-edition-hd.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
+| Final Fantasy XVI Expansion Pass | 279665 | [279665-final-fantasy-xvi-expansion-pass.json](./279665-final-fantasy-xvi-expansion-pass.json) |
 | Final Fantasy XVI: Complete Edition | 318557 | [318557-final-fantasy-xvi-complete-edition.json](./318557-final-fantasy-xvi-complete-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Fantasy: Blackmoon Prophecy | 210027 | [210027-final-fantasy-blackmoon-prophecy.json](./210027-final-fantasy-blackmoon-prophecy.json) |
@@ -4134,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
+| Fox Hunt Arena | 279686 | [279686-fox-hunt-arena.json](./279686-fox-hunt-arena.json) |
 | Fox n Forests | 21961 | [21961-fox-n-forests.json](./21961-fox-n-forests.json) |
 | Fox Runner Adventures | 237370 | [237370-fox-runner-adventures.json](./237370-fox-runner-adventures.json) |
 | Fox Soldier | 120955 | [120955-fox-soldier.json](./120955-fox-soldier.json) |
