@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtreme Racer | 91106 | [91106-xtreme-racer.json](./91106-xtreme-racer.json) |
 | Xtreme Rally | 28136 | [28136-xtreme-rally.json](./28136-xtreme-rally.json) |
 | Xtreme Speed | 43259 | [43259-xtreme-speed.json](./43259-xtreme-speed.json) |
+| Xtreme Sports | 262320 | [262320-xtreme-sports.json](./262320-xtreme-sports.json) |
 | Xtreme Sports | 49869 | [49869-xtreme-sports.json](./49869-xtreme-sports.json) |
 | Xtreme Sports Arcade: Summer Edition | 205808 | [205808-xtreme-sports-arcade-summer-edition.json](./205808-xtreme-sports-arcade-summer-edition.json) |
 | Xtreme Typing | 150660 | [150660-xtreme-typing.json](./150660-xtreme-typing.json) |
