@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittens' Maze | 149950 | [149950-kittens-maze.json](./149950-kittens-maze.json) |
 | Kittenship Care | 364062 | [364062-kittenship-care.json](./364062-kittenship-care.json) |
 | Kittentegy | 303613 | [303613-kittentegy.json](./303613-kittentegy.json) |
+| Kitto Zenbu Watashi no Sei | 243629 | [243629-kitto-zenbu-watashi-no-sei.json](./243629-kitto-zenbu-watashi-no-sei.json) |
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
 | Kitty Collapse | 303614 | [303614-kitty-collapse.json](./303614-kitty-collapse.json) |
 | Kitty Curling | 180770 | [180770-kitty-curling.json](./180770-kitty-curling.json) |
