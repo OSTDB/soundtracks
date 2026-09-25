@@ -3549,6 +3549,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K22: Season Pass | 293720 | [293720-wwe-2k22-season-pass.json](./293720-wwe-2k22-season-pass.json) |
 | WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
+| WWE 2K23: Pretty Sweet Pack | 279032 | [279032-wwe-2k23-pretty-sweet-pack.json](./279032-wwe-2k23-pretty-sweet-pack.json) |
+| WWE 2K23: Race to NXT Pack | 279049 | [279049-wwe-2k23-race-to-nxt-pack.json](./279049-wwe-2k23-race-to-nxt-pack.json) |
+| WWE 2K23: Ruthless Aggression Pack | 279050 | [279050-wwe-2k23-ruthless-aggression-pack.json](./279050-wwe-2k23-ruthless-aggression-pack.json) |
 | WWE 2K23: Season Pass | 293721 | [293721-wwe-2k23-season-pass.json](./293721-wwe-2k23-season-pass.json) |
 | WWE 2K24 | 283600 | [283600-wwe-2k24.json](./283600-wwe-2k24.json) |
 | WWE 2K24 Bray Wyatt Bundle | 331508 | [331508-wwe-2k24-bray-wyatt-bundle.json](./331508-wwe-2k24-bray-wyatt-bundle.json) |
