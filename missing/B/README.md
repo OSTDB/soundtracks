@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackRooms New | 213437 | [213437-backrooms-new.json](./213437-backrooms-new.json) |
 | Backrooms Not Escape | 392920 | [392920-backrooms-not-escape.json](./392920-backrooms-not-escape.json) |
 | Backrooms of Reality | 207298 | [207298-backrooms-of-reality.json](./207298-backrooms-of-reality.json) |
+| Backrooms Project: The Lost File | 245831 | [245831-backrooms-project-the-lost-file.json](./245831-backrooms-project-the-lost-file.json) |
 | Backrooms Protocol | 407406 | [407406-backrooms-protocol.json](./407406-backrooms-protocol.json) |
 | Backrooms Rec. | 253402 | [253402-backrooms-rec.json](./253402-backrooms-rec.json) |
 | Backrooms Society | 245870 | [245870-backrooms-society.json](./245870-backrooms-society.json) |
@@ -2219,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BederSnake | 361220 | [361220-bedersnake.json](./361220-bedersnake.json) |
 | Bedlam | 55098 | [55098-bedlam.json](./55098-bedlam.json) |
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
+| BeDo | 245783 | [245783-bedo.json](./245783-bedo.json) |
 | Bedrock High | 238630 | [238630-bedrock-high.json](./238630-bedrock-high.json) |
 | Bedrock Snowball Bash Game | 143682 | [143682-bedrock-snowball-bash-game.json](./143682-bedrock-snowball-bash-game.json) |
 | Bedrone | 270713 | [270713-bedrone.json](./270713-bedrone.json) |
@@ -5000,6 +5002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booking Revolution | 76991 | [76991-booking-revolution.json](./76991-booking-revolution.json) |
 | Bookmark Hero | 404936 | [404936-bookmark-hero.json](./404936-bookmark-hero.json) |
 | Books | 55327 | [55327-books.json](./55327-books.json) |
+| Books of Grandura | 245806 | [245806-books-of-grandura.json](./245806-books-of-grandura.json) |
 | Bookshop Simulator | 337720 | [337720-bookshop-simulator.json](./337720-bookshop-simulator.json) |
 | Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
 | Bookworm | 316279 | [316279-bookworm.json](./316279-bookworm.json) |
@@ -5114,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
 | Borderlands: The Pre-Sequel - Shock Drop Slaughter Pit | 13917 | [13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json](./13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json) |
 | Borderline | 6101 | [6101-borderline.json](./6101-borderline.json) |
+| Borderline Homicide | 245788 | [245788-borderline-homicide.json](./245788-borderline-homicide.json) |
 | Borderline Project: Beta-2 | 184577 | [184577-borderline-project-beta-2.json](./184577-borderline-project-beta-2.json) |
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
@@ -5775,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach & Clear: Frozen Synapse Pack | 226270 | [226270-breach-and-clear-frozen-synapse-pack.json](./226270-breach-and-clear-frozen-synapse-pack.json) |
 | Breach 2 | 14345 | [14345-breach-2.json](./14345-breach-2.json) |
 | Breach 3 | 57650 | [57650-breach-3.json](./57650-breach-3.json) |
+| Breach in Space | 245820 | [245820-breach-in-space.json](./245820-breach-in-space.json) |
 | Breach of Contract Reloaded | 89947 | [89947-breach-of-contract-reloaded.json](./89947-breach-of-contract-reloaded.json) |
 | Breach Point | 118823 | [118823-breach-point.json](./118823-breach-point.json) |
 | Bread | 178027 | [178027-bread.json](./178027-bread.json) |
@@ -5907,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brew & Brawl: Gnomes vs. Dwarves | 140530 | [140530-brew-and-brawl-gnomes-vs-dwarves.json](./140530-brew-and-brawl-gnomes-vs-dwarves.json) |
 | Brew & Dash | 381282 | [381282-brew-and-dash.json](./381282-brew-and-dash.json) |
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
+| Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
 | Brewpub Simulator | 213483 | [213483-brewpub-simulator.json](./213483-brewpub-simulator.json) |
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
@@ -6111,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Relic | 342896 | [342896-broken-relic.json](./342896-broken-relic.json) |
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
+| Broken Soul | 245789 | [245789-broken-soul.json](./245789-broken-soul.json) |
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
 | Broken Spell 2 | 129009 | [129009-broken-spell-2.json](./129009-broken-spell-2.json) |
 | Broken Spirit | 371256 | [371256-broken-spirit.json](./371256-broken-spirit.json) |
@@ -6559,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Destroyer | 226273 | [226273-bullet-destroyer.json](./226273-bullet-destroyer.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
+| Bullet Heck | 245790 | [245790-bullet-heck.json](./245790-bullet-heck.json) |
 | Bullet Heli | 176463 | [176463-bullet-heli.json](./176463-bullet-heli.json) |
 | Bullet Hell Action Roguelites | 333753 | [333753-bullet-hell-action-roguelites.json](./333753-bullet-hell-action-roguelites.json) |
 | Bullet Hell Advanced | 100592 | [100592-bullet-hell-advanced.json](./100592-bullet-hell-advanced.json) |
