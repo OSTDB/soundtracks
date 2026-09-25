@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchhikers: The Spaces Between - Deluxe Glitchpod Edition | 205227 | [205227-glitchhikers-the-spaces-between-deluxe-glitchpod-edition.json](./205227-glitchhikers-the-spaces-between-deluxe-glitchpod-edition.json) |
 | Glitchphobia | 139462 | [139462-glitchphobia.json](./139462-glitchphobia.json) |
 | GlitchPoly | 140396 | [140396-glitchpoly.json](./140396-glitchpoly.json) |
+| Glitchspankr | 282076 | [282076-glitchspankr.json](./282076-glitchspankr.json) |
 | Glitter Slime Maker | 106370 | [106370-glitter-slime-maker.json](./106370-glitter-slime-maker.json) |
 | Glittering Sword | 143112 | [143112-glittering-sword.json](./143112-glittering-sword.json) |
 | Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
@@ -2662,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goremon | 249224 | [249224-goremon.json](./249224-goremon.json) |
 | Gorescript | 28889 | [28889-gorescript.json](./28889-gorescript.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
+| Gorf | 282064 | [282064-gorf.json](./282064-gorf.json) |
 | Gorf the Ghost Saves Halloween | 277415 | [277415-gorf-the-ghost-saves-halloween.json](./277415-gorf-the-ghost-saves-halloween.json) |
 | Gorgeous Princess Dressup | 104605 | [104605-gorgeous-princess-dressup.json](./104605-gorgeous-princess-dressup.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
