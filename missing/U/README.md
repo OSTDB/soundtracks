@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U-jin: Janjuu Gakuen 2 | 37752 | [37752-u-jin-janjuu-gakuen-2.json](./37752-u-jin-janjuu-gakuen-2.json) |
 | U-Ropa | 89214 | [89214-u-ropa.json](./89214-u-ropa.json) |
 | U-Sing | 50600 | [50600-u-sing.json](./50600-u-sing.json) |
+| U-Sing 2: Australian Edition | 268431 | [268431-u-sing-2-australian-edition.json](./268431-u-sing-2-australian-edition.json) |
 | U.A.S | 323196 | [323196-u-a-s.json](./323196-u-a-s.json) |
 | U.F.O: Unfortunately Fortunate Organisms | 29630 | [29630-u-f-o-unfortunately-fortunate-organisms.json](./29630-u-f-o-unfortunately-fortunate-organisms.json) |
 | U.F.O. K.O. Tower Defense | 152907 | [152907-u-f-o-k-o-tower-defense.json](./152907-u-f-o-k-o-tower-defense.json) |
@@ -221,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
 | Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
+| Ultimate Knight Windom XP | 268438 | [268438-ultimate-knight-windom-xp.json](./268438-ultimate-knight-windom-xp.json) |
 | Ultimate Mah-Jongg | 228410 | [228410-ultimate-mah-jongg.json](./228410-ultimate-mah-jongg.json) |
 | Ultimate MMA | 133385 | [133385-ultimate-mma.json](./133385-ultimate-mma.json) |
 | Ultimate Mortal Kombat 3 | 1621 | [1621-ultimate-mortal-kombat-3.json](./1621-ultimate-mortal-kombat-3.json) |
@@ -297,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Zombie Defense | 127723 | [127723-ultimate-zombie-defense.json](./127723-ultimate-zombie-defense.json) |
 | Ultimate Zombie Defense 2 | 211801 | [211801-ultimate-zombie-defense-2.json](./211801-ultimate-zombie-defense-2.json) |
 | Ultimaze | 206716 | [206716-ultimaze.json](./206716-ultimaze.json) |
+| Ultimus | 267425 | [267425-ultimus.json](./267425-ultimus.json) |
 | Ultionus: A Tale of Petty Revenge | 36408 | [36408-ultionus-a-tale-of-petty-revenge.json](./36408-ultionus-a-tale-of-petty-revenge.json) |
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
 | Ultra 2000 Series: Pac-Man | 284370 | [284370-ultra-2000-series-pac-man.json](./284370-ultra-2000-series-pac-man.json) |
