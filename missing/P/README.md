@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Octavius | 243815 | [243815-path-to-octavius.json](./243815-path-to-octavius.json) |
 | Path to Serenity | 350497 | [350497-path-to-serenity.json](./350497-path-to-serenity.json) |
 | Path to the Devil | 257359 | [257359-path-to-the-devil.json](./257359-path-to-the-devil.json) |
+| Path to the Unknown | 253325 | [253325-path-to-the-unknown.json](./253325-path-to-the-unknown.json) |
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
 | Path to Warband | 215692 | [215692-path-to-warband.json](./215692-path-to-warband.json) |
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
@@ -3594,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma Sword: Nightmare of Bilstein | 14679 | [14679-plasma-sword-nightmare-of-bilstein.json](./14679-plasma-sword-nightmare-of-bilstein.json) |
 | Plasma Warrior | 94562 | [94562-plasma-warrior.json](./94562-plasma-warrior.json) |
 | Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
+| Plasmatic | 253338 | [253338-plasmatic.json](./253338-plasmatic.json) |
 | Plasmatron | 53165 | [53165-plasmatron.json](./53165-plasmatron.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
 | Plaster World | 57067 | [57067-plaster-world.json](./57067-plaster-world.json) |
@@ -5259,6 +5261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prescription: Madness | 389100 | [389100-prescription-madness.json](./389100-prescription-madness.json) |
 | Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Presence | 170989 | [170989-presence.json](./170989-presence.json) |
+| Presence | 253339 | [253339-presence.json](./253339-presence.json) |
 | Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
 | Present Memories: A Vox Akuma Fangame | 198338 | [198338-present-memories-a-vox-akuma-fangame.json](./198338-present-memories-a-vox-akuma-fangame.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
