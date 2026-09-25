@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor Maze | 178543 | [178543-vapor-maze.json](./178543-vapor-maze.json) |
 | Vapor Memories | 184122 | [184122-vapor-memories.json](./184122-vapor-memories.json) |
 | Vapor Tanks | 261786 | [261786-vapor-tanks.json](./261786-vapor-tanks.json) |
+| Vapor Up! With Man with Apple | 260622 | [260622-vapor-up-with-man-with-apple.json](./260622-vapor-up-with-man-with-apple.json) |
 | Vapor World: Over the Mind | 172712 | [172712-vapor-world-over-the-mind.json](./172712-vapor-world-over-the-mind.json) |
 | VaporLight: Drifter | 186267 | [186267-vaporlight-drifter.json](./186267-vaporlight-drifter.json) |
 | VaporPunk | 334309 | [334309-vaporpunk.json](./334309-vaporpunk.json) |
@@ -595,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veridus: The Walking Nightmare | 416672 | [416672-veridus-the-walking-nightmare.json](./416672-veridus-the-walking-nightmare.json) |
 | Verisim Skies | 244899 | [244899-verisim-skies.json](./244899-verisim-skies.json) |
 | Veritas | 111443 | [111443-veritas.json](./111443-veritas.json) |
+| Veritus | 260627 | [260627-veritus.json](./260627-veritus.json) |
 | Veriventure | 400851 | [400851-veriventure.json](./400851-veriventure.json) |
 | Verliebt in Berlin | 92839 | [92839-verliebt-in-berlin.json](./92839-verliebt-in-berlin.json) |
 | Verlies | 94195 | [94195-verlies.json](./94195-verlies.json) |
