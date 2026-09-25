@@ -2307,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restart | 240774 | [240774-restart.json](./240774-restart.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
 | Restaurant at the End of Time | 257880 | [257880-restaurant-at-the-end-of-time.json](./257880-restaurant-at-the-end-of-time.json) |
+| Restaurant Builder | 238462 | [238462-restaurant-builder.json](./238462-restaurant-builder.json) |
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
@@ -4772,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumble Racing | 43280 | [43280-rumble-racing.json](./43280-rumble-racing.json) |
+| Rumble Sus | 238437 | [238437-rumble-sus.json](./238437-rumble-sus.json) |
 | Rumble Trucks | 44515 | [44515-rumble-trucks.json](./44515-rumble-trucks.json) |
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
