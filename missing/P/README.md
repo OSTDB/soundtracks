@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrim of Darkness | 346145 | [346145-pilgrim-of-darkness.json](./346145-pilgrim-of-darkness.json) |
 | Pilgrim: Faith as a Weapon | 71229 | [71229-pilgrim-faith-as-a-weapon.json](./71229-pilgrim-faith-as-a-weapon.json) |
 | Pilgrimage | 59694 | [59694-pilgrimage.json](./59694-pilgrimage.json) |
+| PilgrimAge | 276763 | [276763-pilgrimage.json](./276763-pilgrimage.json) |
 | Pilki Filki 2 | 99987 | [99987-pilki-filki-2.json](./99987-pilki-filki-2.json) |
 | Pill Cosbi | 74359 | [74359-pill-cosbi.json](./74359-pill-cosbi.json) |
 | Pill Fight | 345017 | [345017-pill-fight.json](./345017-pill-fight.json) |
@@ -2907,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates! Gold Plus | 36216 | [36216-pirates-gold-plus.json](./36216-pirates-gold-plus.json) |
 | Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
 | PirateWar | 312156 | [312156-piratewar.json](./312156-piratewar.json) |
+| PiroPito | 276754 | [276754-piropito.json](./276754-piropito.json) |
 | Pisces | 109444 | [109444-pisces.json](./109444-pisces.json) |
 | Piske & Usagi's Short Trip | 263570 | [263570-piske-and-usagis-short-trip.json](./263570-piske-and-usagis-short-trip.json) |
 | Piso Zero | 272302 | [272302-piso-zero.json](./272302-piso-zero.json) |
@@ -3599,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Tennis | 323171 | [323171-play-tennis.json](./323171-play-tennis.json) |
 | Play the Industry | 78982 | [78982-play-the-industry.json](./78982-play-the-industry.json) |
 | Play this life | 365675 | [365675-play-this-life.json](./365675-play-this-life.json) |
+| Play To Win | 276788 | [276788-play-to-win.json](./276788-play-to-win.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | Play'te Spinna | 290991 | [290991-playte-spinna.json](./290991-playte-spinna.json) |
