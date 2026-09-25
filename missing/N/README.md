@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neopets: Codestone Quest | 210104 | [210104-neopets-codestone-quest.json](./210104-neopets-codestone-quest.json) |
 | Neopets: Island Builders | 254592 | [254592-neopets-island-builders.json](./254592-neopets-island-builders.json) |
 | Neopets: Mega Mini Games Collection - The Neopian Arcade Odyssey | 386211 | [386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json](./386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json) |
+| Neopets: The Altador Plot | 261239 | [261239-neopets-the-altador-plot.json](./261239-neopets-the-altador-plot.json) |
 | Neopets: The Darkest Faerie | 43641 | [43641-neopets-the-darkest-faerie.json](./43641-neopets-the-darkest-faerie.json) |
 | Neopets: The Wheel of Monotony | 97687 | [97687-neopets-the-wheel-of-monotony.json](./97687-neopets-the-wheel-of-monotony.json) |
 | Neophyte | 197366 | [197366-neophyte.json](./197366-neophyte.json) |
