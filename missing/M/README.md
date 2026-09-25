@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Room No.3 | 333193 | [333193-mad-room-no-3.json](./333193-mad-room-no-3.json) |
 | Mad Shark | 322211 | [322211-mad-shark.json](./322211-mad-shark.json) |
 | Mad Shark | 40258 | [40258-mad-shark.json](./40258-mad-shark.json) |
+| Mad Shoji no Ganmen Kyoufu | 240169 | [240169-mad-shoji-no-ganmen-kyoufu.json](./240169-mad-shoji-no-ganmen-kyoufu.json) |
 | Mad Show | 10847 | [10847-mad-show.json](./10847-mad-show.json) |
 | Mad Skills | 181353 | [181353-mad-skills.json](./181353-mad-skills.json) |
 | Mad Skills BMX | 58787 | [58787-mad-skills-bmx.json](./58787-mad-skills-bmx.json) |
@@ -226,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 19: Hall of Fame Edition | 103213 | [103213-madden-nfl-19-hall-of-fame-edition.json](./103213-madden-nfl-19-hall-of-fame-edition.json) |
 | Madden NFL 20: Superstar Edition | 118152 | [118152-madden-nfl-20-superstar-edition.json](./118152-madden-nfl-20-superstar-edition.json) |
 | Madden NFL 20: Ultimate Superstar Edition | 119063 | [119063-madden-nfl-20-ultimate-superstar-edition.json](./119063-madden-nfl-20-ultimate-superstar-edition.json) |
+| Madden NFL 2000 | 240162 | [240162-madden-nfl-2000.json](./240162-madden-nfl-2000.json) |
 | Madden NFL 2000 | 3537 | [3537-madden-nfl-2000.json](./3537-madden-nfl-2000.json) |
 | Madden NFL 2001 | 243263 | [243263-madden-nfl-2001.json](./243263-madden-nfl-2001.json) |
 | Madden NFL 2001 | 3538 | [3538-madden-nfl-2001.json](./3538-madden-nfl-2001.json) |
@@ -1144,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangan Shisen-sho | 206357 | [206357-mangan-shisen-sho.json](./206357-mangan-shisen-sho.json) |
 | Mangata | 184048 | [184048-mangata.json](./184048-mangata.json) |
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
+| Mangchi the Hammer Boy | 240178 | [240178-mangchi-the-hammer-boy.json](./240178-mangchi-the-hammer-boy.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
 | Mango 64 | 296972 | [296972-mango-64.json](./296972-mango-64.json) |
 | MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
@@ -1332,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Märchen Forest | 181313 | [181313-marchen-forest.json](./181313-marchen-forest.json) |
 | Märchen Maze | 212861 | [212861-marchen-maze.json](./212861-marchen-maze.json) |
 | Marchen Veil | 41337 | [41337-marchen-veil.json](./41337-marchen-veil.json) |
+| Marchen Veil I | 240177 | [240177-marchen-veil-i.json](./240177-marchen-veil-i.json) |
 | Marching Order | 330151 | [330151-marching-order.json](./330151-marching-order.json) |
 | Marching Simulator | 96516 | [96516-marching-simulator.json](./96516-marching-simulator.json) |
 | Marchland | 183457 | [183457-marchland.json](./183457-marchland.json) |
@@ -3001,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X: Hard-Type | 268429 | [268429-mega-man-x-hard-type.json](./268429-mega-man-x-hard-type.json) |
 | Mega Man X: Legacy Collection | 96252 | [96252-mega-man-x-legacy-collection.json](./96252-mega-man-x-legacy-collection.json) |
 | Mega Man X: Legacy Collection 1+2 | 96248 | [96248-mega-man-x-legacy-collection-1-2.json](./96248-mega-man-x-legacy-collection-1-2.json) |
+| Mega Man X: Maverick Wars | 240148 | [240148-mega-man-x-maverick-wars.json](./240148-mega-man-x-maverick-wars.json) |
 | Mega Man X: Project Zero | 376479 | [376479-mega-man-x-project-zero.json](./376479-mega-man-x-project-zero.json) |
 | Mega Man X: Proto Edition | 201859 | [201859-mega-man-x-proto-edition.json](./201859-mega-man-x-proto-edition.json) |
 | Mega Man X: Soft-Type | 268423 | [268423-mega-man-x-soft-type.json](./268423-mega-man-x-soft-type.json) |
@@ -3461,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
 | Men in Black: Most Wanted | 380570 | [380570-men-in-black-most-wanted.json](./380570-men-in-black-most-wanted.json) |
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
+| Men in Black: The Series | 240165 | [240165-men-in-black-the-series.json](./240165-men-in-black-the-series.json) |
 | Men of War II: Frontline Hero Pack | 311077 | [311077-men-of-war-ii-frontline-hero-pack.json](./311077-men-of-war-ii-frontline-hero-pack.json) |
 | Men of War: Assault Squad 2 - Airborne | 168218 | [168218-men-of-war-assault-squad-2-airborne.json](./168218-men-of-war-assault-squad-2-airborne.json) |
 | Men of War: Assault Squad 2 - Ostfront Veteranen | 168217 | [168217-men-of-war-assault-squad-2-ostfront-veteranen.json](./168217-men-of-war-assault-squad-2-ostfront-veteranen.json) |
@@ -4680,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Master Collection | 118851 | [118851-minecraft-master-collection.json](./118851-minecraft-master-collection.json) |
 | Minecraft Matcha Flavoured | 411659 | [411659-minecraft-matcha-flavoured.json](./411659-minecraft-matcha-flavoured.json) |
 | Minecraft PSP | 327850 | [327850-minecraft-psp.json](./327850-minecraft-psp.json) |
+| Minecraft Tower Defence | 240149 | [240149-minecraft-tower-defence.json](./240149-minecraft-tower-defence.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
 | Minecraft vs. Zombies 2 | 273112 | [273112-minecraft-vs-zombies-2.json](./273112-minecraft-vs-zombies-2.json) |
 | Minecraft x Crocs: Choose Your Mode | 310599 | [310599-minecraft-x-crocs-choose-your-mode.json](./310599-minecraft-x-crocs-choose-your-mode.json) |
@@ -5620,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
 | Moe Reversi | 113482 | [113482-moe-reversi.json](./113482-moe-reversi.json) |
 | Moe Slot Beach no Shizuku | 292088 | [292088-moe-slot-beach-no-shizuku.json](./292088-moe-slot-beach-no-shizuku.json) |
+| Moe Waifu H | 240179 | [240179-moe-waifu-h.json](./240179-moe-waifu-h.json) |
 | Moe Waifu H: BlockBlast | 317213 | [317213-moe-waifu-h-blockblast.json](./317213-moe-waifu-h-blockblast.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
 | Moe! Ninja Girls | 110797 | [110797-moe-ninja-girls.json](./110797-moe-ninja-girls.json) |
@@ -7150,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
 | Ms. Spinderella | 408299 | [408299-ms-spinderella.json](./408299-ms-spinderella.json) |
 | Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
+| Ms.Lemons | 240156 | [240156-ms-lemons.json](./240156-ms-lemons.json) |
 | MSCR | 310930 | [310930-mscr.json](./310930-mscr.json) |
 | MSI Electric City | 32177 | [32177-msi-electric-city.json](./32177-msi-electric-city.json) |
 | MSI Electric City: Core Assault | 61878 | [61878-msi-electric-city-core-assault.json](./61878-msi-electric-city-core-assault.json) |
