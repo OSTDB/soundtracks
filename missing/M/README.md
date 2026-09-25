@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic the Wandering | 311585 | [311585-magic-the-wandering.json](./311585-magic-the-wandering.json) |
 | Magic Tiles Saga: Upbeat Music | 100858 | [100858-magic-tiles-saga-upbeat-music.json](./100858-magic-tiles-saga-upbeat-music.json) |
 | Magic Tiny Lands | 367494 | [367494-magic-tiny-lands.json](./367494-magic-tiny-lands.json) |
+| Magic Toenail | 247478 | [247478-magic-toenail.json](./247478-magic-toenail.json) |
 | Magic Touch: Wizard for Hire | 117755 | [117755-magic-touch-wizard-for-hire.json](./117755-magic-touch-wizard-for-hire.json) |
 | Magic Tower | 161372 | [161372-magic-tower.json](./161372-magic-tower.json) |
 | Magic Tower | 210644 | [210644-magic-tower.json](./210644-magic-tower.json) |
@@ -2162,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchem | 91737 | [91737-matchem.json](./91737-matchem.json) |
 | Matches Puzzle 2: Classic Logic Arcade | 287175 | [287175-matches-puzzle-2-classic-logic-arcade.json](./287175-matches-puzzle-2-classic-logic-arcade.json) |
 | Matches Puzzle Game | 117754 | [117754-matches-puzzle-game.json](./117754-matches-puzzle-game.json) |
+| Matches Puzzle: Classic Logic Arcade | 247484 | [247484-matches-puzzle-classic-logic-arcade.json](./247484-matches-puzzle-classic-logic-arcade.json) |
 | Matching | 106573 | [106573-matching.json](./106573-matching.json) |
 | Matching App de Shiriatta Otoko wo Shinyou shite ha Ikemasen. | 341026 | [341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json](./341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json) |
 | Matching Blocks | 288362 | [288362-matching-blocks.json](./288362-matching-blocks.json) |
@@ -3475,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menphis | 293929 | [293929-menphis.json](./293929-menphis.json) |
 | Mensalão, O Jogo | 221252 | [221252-mensalao-o-jogo.json](./221252-mensalao-o-jogo.json) |
 | Mensch Ärger' Dich Nicht! | 98971 | [98971-mensch-arger-dich-nicht.json](./98971-mensch-arger-dich-nicht.json) |
+| Menseki: Area Maze Search | 247485 | [247485-menseki-area-maze-search.json](./247485-menseki-area-maze-search.json) |
 | Mentai Uncensored | 110608 | [110608-mentai-uncensored.json](./110608-mentai-uncensored.json) |
 | Mental | 130347 | [130347-mental.json](./130347-mental.json) |
 | Mental Drift | 64643 | [64643-mental-drift.json](./64643-mental-drift.json) |
@@ -4376,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
 | Migux | 138040 | [138040-migux.json](./138040-migux.json) |
 | Miharu: Alto Another Story | 403814 | [403814-miharu-alto-another-story.json](./403814-miharu-alto-another-story.json) |
+| Míhún Chē | 247447 | [247447-mihun-che.json](./247447-mihun-che.json) |
 | Miimi to Taata no Waiwai Oekaki Doubutsuen | 293148 | [293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json](./293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json) |
 | Miitopia | 143620 | [143620-miitopia.json](./143620-miitopia.json) |
 | Mik | 262928 | [262928-mik.json](./262928-mik.json) |
@@ -7653,6 +7657,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dearest Direst Disaster | 397803 | [397803-my-dearest-direst-disaster.json](./397803-my-dearest-direst-disaster.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
 | My Destiny Girls | 291091 | [291091-my-destiny-girls.json](./291091-my-destiny-girls.json) |
+| My Devil Lovers | 247468 | [247468-my-devil-lovers.json](./247468-my-devil-lovers.json) |
+| My Devil Lovers: Remake | 247470 | [247470-my-devil-lovers-remake.json](./247470-my-devil-lovers-remake.json) |
 | My Devilish Contract | 279670 | [279670-my-devilish-contract.json](./279670-my-devilish-contract.json) |
 | My Diamond Baby | 301416 | [301416-my-diamond-baby.json](./301416-my-diamond-baby.json) |
 | My Direct Damag 7 Trillion | 318422 | [318422-my-direct-damag-7-trillion.json](./318422-my-direct-damag-7-trillion.json) |
