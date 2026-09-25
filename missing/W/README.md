@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
 | Wedding Peach: Jamapii Panic | 64952 | [64952-wedding-peach-jamapii-panic.json](./64952-wedding-peach-jamapii-panic.json) |
 | Wedding Salon - Girls Makeup, Dressup and Makeover | 89196 | [89196-wedding-salon-girls-makeup-dressup-and-makeover.json](./89196-wedding-salon-girls-makeup-dressup-and-makeover.json) |
+| WeddingRun | 234001 | [234001-weddingrun.json](./234001-weddingrun.json) |
 | Weddle | 202801 | [202801-weddle.json](./202801-weddle.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
 | Weed & Greed | 348940 | [348940-weed-and-greed.json](./348940-weed-and-greed.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobble Warriors | 261558 | [261558-wobble-warriors.json](./261558-wobble-warriors.json) |
 | Wobble Wobble | 397923 | [397923-wobble-wobble.json](./397923-wobble-wobble.json) |
 | Wobbly Bobbly | 69882 | [69882-wobbly-bobbly.json](./69882-wobbly-bobbly.json) |
+| Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
 | Woim | 404431 | [404431-woim.json](./404431-woim.json) |
 | Wojdan | 90488 | [90488-wojdan.json](./90488-wojdan.json) |
