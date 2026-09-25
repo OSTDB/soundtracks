@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haustor's Abbey | 278467 | [278467-haustors-abbey.json](./278467-haustors-abbey.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Haut | 349382 | [349382-haut.json](./349382-haut.json) |
+| Have Fun Together | 259605 | [259605-have-fun-together.json](./259605-have-fun-together.json) |
 | Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
 | Have It Coming | 391331 | [391331-have-it-coming.json](./391331-have-it-coming.json) |
 | Have You Heard | 299263 | [299263-have-you-heard.json](./299263-have-you-heard.json) |
@@ -1124,8 +1125,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayaoshi Quiz: Ouza Ketteisen | 228557 | [228557-hayaoshi-quiz-ouza-ketteisen.json](./228557-hayaoshi-quiz-ouza-ketteisen.json) |
 | Hayaoshi Quiz: Ouza Ketteisen | 228558 | [228558-hayaoshi-quiz-ouza-ketteisen.json](./228558-hayaoshi-quiz-ouza-ketteisen.json) |
 | Hayarigami 1, 2, 3 Pack | 247192 | [247192-hayarigami-1-2-3-pack.json](./247192-hayarigami-1-2-3-pack.json) |
+| Hayarigami 2: Keishichou Kaii Jiken File | 259604 | [259604-hayarigami-2-keishichou-kaii-jiken-file.json](./259604-hayarigami-2-keishichou-kaii-jiken-file.json) |
 | Hayarigami 2: Keishichou Kaii Jiken File | 79330 | [79330-hayarigami-2-keishichou-kaii-jiken-file.json](./79330-hayarigami-2-keishichou-kaii-jiken-file.json) |
+| Hayarigami 3: Keishichou Kaii Jiken File | 259603 | [259603-hayarigami-3-keishichou-kaii-jiken-file.json](./259603-hayarigami-3-keishichou-kaii-jiken-file.json) |
 | Hayarigami Portable: Keishichou Kaii Jiken File | 79329 | [79329-hayarigami-portable-keishichou-kaii-jiken-file.json](./79329-hayarigami-portable-keishichou-kaii-jiken-file.json) |
+| Hayarigami: Keishichou Kaii Jiken File | 259602 | [259602-hayarigami-keishichou-kaii-jiken-file.json](./259602-hayarigami-keishichou-kaii-jiken-file.json) |
 | Hayate no Gotoku! Boku ga Romeo de Romeo ga Boku de | 78727 | [78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json](./78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json) |
 | Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! | 72684 | [72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json](./72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json) |
 | Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
@@ -1926,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
 | Hentai Girls Special Edition | 263557 | [263557-hentai-girls-special-edition.json](./263557-hentai-girls-special-edition.json) |
 | Hentai Girls: Adorable Angel | 328522 | [328522-hentai-girls-adorable-angel.json](./328522-hentai-girls-adorable-angel.json) |
+| Hentai Girls: Adventure Clicker | 259611 | [259611-hentai-girls-adventure-clicker.json](./259611-hentai-girls-adventure-clicker.json) |
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
 | Hentai Girls: College Romance | 325018 | [325018-hentai-girls-college-romance.json](./325018-hentai-girls-college-romance.json) |
 | Hentai Girls: Complete + | 324466 | [324466-hentai-girls-complete.json](./324466-hentai-girls-complete.json) |
@@ -2127,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: Nude Quest | 277922 | [277922-hentai-nude-quest.json](./277922-hentai-nude-quest.json) |
 | Hentai: Royal Quarters | 286543 | [286543-hentai-royal-quarters.json](./286543-hentai-royal-quarters.json) |
 | Hentai: Waifu World | 296950 | [296950-hentai-waifu-world.json](./296950-hentai-waifu-world.json) |
+| Hentai: Young Valkyries | 259610 | [259610-hentai-young-valkyries.json](./259610-hentai-young-valkyries.json) |
 | Hentaimon | 296946 | [296946-hentaimon.json](./296946-hentaimon.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | HenTris 2: Shemales | 111209 | [111209-hentris-2-shemales.json](./111209-hentris-2-shemales.json) |
@@ -3422,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow Steps | 88235 | [88235-hollow-steps.json](./88235-hollow-steps.json) |
 | Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
+| Hollow Victory | 259529 | [259529-hollow-victory.json](./259529-hollow-victory.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | Hollowbody | 215682 | [215682-hollowbody.json](./215682-hollowbody.json) |
 | Hollowglass | 335998 | [335998-hollowglass.json](./335998-hollowglass.json) |
@@ -3733,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
 | Hoodies Squad: Alcoholypse | 298115 | [298115-hoodies-squad-alcoholypse.json](./298115-hoodies-squad-alcoholypse.json) |
 | Hoodoo Voodoo | 13879 | [13879-hoodoo-voodoo.json](./13879-hoodoo-voodoo.json) |
+| Hoodsters | 259536 | [259536-hoodsters.json](./259536-hoodsters.json) |
 | Hoodwink | 20820 | [20820-hoodwink.json](./20820-hoodwink.json) |
 | Hoofdrekenen | 98950 | [98950-hoofdrekenen.json](./98950-hoofdrekenen.json) |
 | Hook | 10225 | [10225-hook.json](./10225-hook.json) |
