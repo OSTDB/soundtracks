@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welkin Road | 18684 | [18684-welkin-road.json](./18684-welkin-road.json) |
 | Well Dweller | 360075 | [360075-well-dweller.json](./360075-well-dweller.json) |
 | Well Keeper | 368649 | [368649-well-keeper.json](./368649-well-keeper.json) |
+| Well of Lost Souls | 271788 | [271788-well-of-lost-souls.json](./271788-well-of-lost-souls.json) |
 | Well to Hell | 319214 | [319214-well-to-hell.json](./319214-well-to-hell.json) |
 | Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
 | Wells | 31298 | [31298-wells.json](./31298-wells.json) |
@@ -1288,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wendy: Der Traum von Arizona | 98949 | [98949-wendy-der-traum-von-arizona.json](./98949-wendy-der-traum-von-arizona.json) |
 | Wendy's Quest | 233594 | [233594-wendys-quest.json](./233594-wendys-quest.json) |
 | Wenjia | 110509 | [110509-wenjia.json](./110509-wenjia.json) |
+| Wenl Mine | 271798 | [271798-wenl-mine.json](./271798-wenl-mine.json) |
 | Wénzìyù | 115626 | [115626-wenziyu.json](./115626-wenziyu.json) |
 | Wer weiß denn sowas?: Das 3. Spiel | 315657 | [315657-wer-wei-denn-sowas-das-3-spiel.json](./315657-wer-wei-denn-sowas-das-3-spiel.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
@@ -3418,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrap It! | 164442 | [164442-wrap-it.json](./164442-wrap-it.json) |
 | Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
 | Wrath and Retribution | 374838 | [374838-wrath-and-retribution.json](./374838-wrath-and-retribution.json) |
+| Wrath of Ahnkii | 271794 | [271794-wrath-of-ahnkii.json](./271794-wrath-of-ahnkii.json) |
 | Wrath of Anias | 191826 | [191826-wrath-of-anias.json](./191826-wrath-of-anias.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
 | Wrath of Olympus | 60232 | [60232-wrath-of-olympus.json](./60232-wrath-of-olympus.json) |
