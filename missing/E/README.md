@@ -271,8 +271,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Spirit | 147393 | [147393-ecchi-spirit.json](./147393-ecchi-spirit.json) |
 | Ecchi: Time to Oppai | 349303 | [349303-ecchi-time-to-oppai.json](./349303-ecchi-time-to-oppai.json) |
 | Ecco 2: Sentinels of the Universe | 19682 | [19682-ecco-2-sentinels-of-the-universe.json](./19682-ecco-2-sentinels-of-the-universe.json) |
+| Ecco the Dolphin | 237309 | [237309-ecco-the-dolphin.json](./237309-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 5378 | [5378-ecco-the-dolphin.json](./5378-ecco-the-dolphin.json) |
 | Ecco the Dolphin: Defender of the Future | 9188 | [9188-ecco-the-dolphin-defender-of-the-future.json](./9188-ecco-the-dolphin-defender-of-the-future.json) |
+| Ecco: The Tides of Time | 237314 | [237314-ecco-the-tides-of-time.json](./237314-ecco-the-tides-of-time.json) |
 | ECH8 | 395554 | [395554-ech8.json](./395554-ech8.json) |
 | Echelon | 269106 | [269106-echelon.json](./269106-echelon.json) |
 | Echelon | 277845 | [277845-echelon.json](./277845-echelon.json) |
@@ -3078,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exquisite Fishing | 235874 | [235874-exquisite-fishing.json](./235874-exquisite-fishing.json) |
 | Exquisite Girls | 372121 | [372121-exquisite-girls.json](./372121-exquisite-girls.json) |
 | EXS1 EthnologySister: Cultural functionalism | 166171 | [166171-exs1-ethnologysister-cultural-functionalism.json](./166171-exs1-ethnologysister-cultural-functionalism.json) |
+| EXS2: EthnologySister2 - Structuralism of Kinship System | 237279 | [237279-exs2-ethnologysister2-structuralism-of-kinship-system.json](./237279-exs2-ethnologysister2-structuralism-of-kinship-system.json) |
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
