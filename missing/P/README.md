@@ -6007,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Life is RPG | 250919 | [250919-project-life-is-rpg.json](./250919-project-life-is-rpg.json) |
 | Project Light | 84804 | [84804-project-light.json](./84804-project-light.json) |
 | Project Lilith | 396240 | [396240-project-lilith.json](./396240-project-lilith.json) |
+| Project Liminal Redux | 242479 | [242479-project-liminal-redux.json](./242479-project-liminal-redux.json) |
 | Project Loro | 262690 | [262690-project-loro.json](./262690-project-loro.json) |
 | Project Lounge | 31895 | [31895-project-lounge.json](./31895-project-lounge.json) |
 | Project Luminext | 372653 | [372653-project-luminext.json](./372653-project-luminext.json) |
