@@ -2586,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shade Silver 2 a Walk in the Darkness | 345008 | [345008-shade-silver-2-a-walk-in-the-darkness.json](./345008-shade-silver-2-a-walk-in-the-darkness.json) |
 | Shade: The Border Collie Flycatcher | 241623 | [241623-shade-the-border-collie-flycatcher.json](./241623-shade-the-border-collie-flycatcher.json) |
 | Shade: Wrath of Angels | 6041 | [6041-shade-wrath-of-angels.json](./6041-shade-wrath-of-angels.json) |
+| Shades | 230255 | [230255-shades.json](./230255-shades.json) |
 | Shades | 319026 | [319026-shades.json](./319026-shades.json) |
 | Shades of Azure | 262431 | [262431-shades-of-azure.json](./262431-shades-of-azure.json) |
 | Shades of Black | 36009 | [36009-shades-of-black.json](./36009-shades-of-black.json) |
