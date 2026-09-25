@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War 2410 | 38398 | [38398-war-2410.json](./38398-war-2410.json) |
 | War 3010: The Revolution | 38397 | [38397-war-3010-the-revolution.json](./38397-war-3010-the-revolution.json) |
 | War Agent | 207874 | [207874-war-agent.json](./207874-war-agent.json) |
+| War and Peace | 253332 | [253332-war-and-peace.json](./253332-war-and-peace.json) |
 | War and Politics | 374806 | [374806-war-and-politics.json](./374806-war-and-politics.json) |
 | War Angels | 385609 | [385609-war-angels.json](./385609-war-angels.json) |
 | War Ashes | 214488 | [214488-war-ashes.json](./214488-war-ashes.json) |
@@ -1300,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
 | Wèndào Xiāntú | 160231 | [160231-wendao-xiantu.json](./160231-wendao-xiantu.json) |
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
+| Wendigo | 253331 | [253331-wendigo.json](./253331-wendigo.json) |
 | Wendy Whedon | 151537 | [151537-wendy-whedon.json](./151537-wendy-whedon.json) |
 | Wendy: Der Traum von Arizona | 98949 | [98949-wendy-der-traum-von-arizona.json](./98949-wendy-der-traum-von-arizona.json) |
 | Wendy's Quest | 233594 | [233594-wendys-quest.json](./233594-wendys-quest.json) |
@@ -1667,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | While Mom is Away | 312552 | [312552-while-mom-is-away.json](./312552-while-mom-is-away.json) |
 | While Sleeping | 312553 | [312553-while-sleeping.json](./312553-while-sleeping.json) |
 | While the Whole World Laughs | 241486 | [241486-while-the-whole-world-laughs.json](./241486-while-the-whole-world-laughs.json) |
+| While Waiting | 253330 | [253330-while-waiting.json](./253330-while-waiting.json) |
 | While Waiting My Turn | 253382 | [253382-while-waiting-my-turn.json](./253382-while-waiting-my-turn.json) |
 | While You Are Downloading | 87963 | [87963-while-you-are-downloading.json](./87963-while-you-are-downloading.json) |
 | Whimre | 252228 | [252228-whimre.json](./252228-whimre.json) |
@@ -2028,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
 | Wildcat Snack Attack | 338366 | [338366-wildcat-snack-attack.json](./338366-wildcat-snack-attack.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
+| WildCraft | 253329 | [253329-wildcraft.json](./253329-wildcraft.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
 | Wildemist Isle | 129008 | [129008-wildemist-isle.json](./129008-wildemist-isle.json) |
 | WilderLands | 382219 | [382219-wilderlands.json](./382219-wilderlands.json) |
