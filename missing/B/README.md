@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Dinosaur Island | 34169 | [34169-back-to-dinosaur-island.json](./34169-back-to-dinosaur-island.json) |
 | Back to Drive | 391338 | [391338-back-to-drive.json](./391338-back-to-drive.json) |
 | Back to Dust: Hold it Together | 236939 | [236939-back-to-dust-hold-it-together.json](./236939-back-to-dust-hold-it-together.json) |
+| Back to Hearth | 273358 | [273358-back-to-hearth.json](./273358-back-to-hearth.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
 | Back to Home | 258558 | [258558-back-to-home.json](./258558-back-to-home.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
@@ -488,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldr Force Exe | 44622 | [44622-baldr-force-exe.json](./44622-baldr-force-exe.json) |
 | Baldr Sky | 127153 | [127153-baldr-sky.json](./127153-baldr-sky.json) |
 | Baldr Sky: Zero 2 | 54744 | [54744-baldr-sky-zero-2.json](./54744-baldr-sky-zero-2.json) |
+| Baldr's Squid Isekai: A Parody | 273362 | [273362-baldrs-squid-isekai-a-parody.json](./273362-baldrs-squid-isekai-a-parody.json) |
 | Baldrhead: Busou Kinyuu Gaiden | 180223 | [180223-baldrhead-busou-kinyuu-gaiden.json](./180223-baldrhead-busou-kinyuu-gaiden.json) |
 | Baldric's Quest | 52619 | [52619-baldrics-quest.json](./52619-baldrics-quest.json) |
 | Baldur's Gate | 376722 | [376722-baldurs-gate.json](./376722-baldurs-gate.json) |
@@ -528,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
 | Ball Gates | 102105 | [102105-ball-gates.json](./102105-ball-gates.json) |
 | Ball Guys : Stumble & Fall | 393130 | [393130-ball-guys-stumble-and-fall.json](./393130-ball-guys-stumble-and-fall.json) |
+| Ball Hentai Puzzle | 273359 | [273359-ball-hentai-puzzle.json](./273359-ball-hentai-puzzle.json) |
 | Ball Heroes | 369633 | [369633-ball-heroes.json](./369633-ball-heroes.json) |
 | Ball Hit! | 106529 | [106529-ball-hit.json](./106529-ball-hit.json) |
 | Ball Hunter | 201801 | [201801-ball-hunter.json](./201801-ball-hunter.json) |
@@ -2420,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
+| Beneath & Beyond | 273367 | [273367-beneath-and-beyond.json](./273367-beneath-and-beyond.json) |
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
 | Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
@@ -4573,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body and Brain Connection | 25189 | [25189-body-and-brain-connection.json](./25189-body-and-brain-connection.json) |
 | Body and Soul | 176977 | [176977-body-and-soul.json](./176977-body-and-soul.json) |
 | Body Cam Shooter | 328555 | [328555-body-cam-shooter.json](./328555-body-cam-shooter.json) |
+| Body Count | 273366 | [273366-body-count.json](./273366-body-count.json) |
 | Body Glove Bluewater Hunter | 65189 | [65189-body-glove-bluewater-hunter.json](./65189-body-glove-bluewater-hunter.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
