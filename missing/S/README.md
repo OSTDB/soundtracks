@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapan | 104477 | [104477-sapan.json](./104477-sapan.json) |
 | Saphyro | 164978 | [164978-saphyro.json](./164978-saphyro.json) |
 | Sapiens | 55032 | [55032-sapiens.json](./55032-sapiens.json) |
+| Sapiens Craft Puzzle | 270087 | [270087-sapiens-craft-puzzle.json](./270087-sapiens-craft-puzzle.json) |
 | Sapiens League | 232437 | [232437-sapiens-league.json](./232437-sapiens-league.json) |
 | Sapling Wars | 333008 | [333008-sapling-wars.json](./333008-sapling-wars.json) |
 | Sapo Xulé and the Unwanted Marriage | 259667 | [259667-sapo-xule-and-the-unwanted-marriage.json](./259667-sapo-xule-and-the-unwanted-marriage.json) |
@@ -3889,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
+| Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
@@ -7463,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Court | 137684 | [137684-space-court.json](./137684-space-court.json) |
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
 | Space Cowboy Radio | 359049 | [359049-space-cowboy-radio.json](./359049-space-cowboy-radio.json) |
+| Space Crab VS | 270147 | [270147-space-crab-vs.json](./270147-space-crab-vs.json) |
 | Space Crafter | 291585 | [291585-space-crafter.json](./291585-space-crafter.json) |
 | Space Crawl | 55465 | [55465-space-crawl.json](./55465-space-crawl.json) |
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
@@ -7861,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceMaster X-7 | 23844 | [23844-spacemaster-x-7.json](./23844-spacemaster-x-7.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
 | Spaceport Crew | 216884 | [216884-spaceport-crew.json](./216884-spaceport-crew.json) |
+| Spaceport Trading Company | 270152 | [270152-spaceport-trading-company.json](./270152-spaceport-trading-company.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spacerat Miner | 275659 | [275659-spacerat-miner.json](./275659-spacerat-miner.json) |
 | Spacerift: Arcanum System | 122213 | [122213-spacerift-arcanum-system.json](./122213-spacerift-arcanum-system.json) |
@@ -7926,6 +7930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
 | Sparked | 382199 | [382199-sparked.json](./382199-sparked.json) |
+| Sparkhunt | 270153 | [270153-sparkhunt.json](./270153-sparkhunt.json) |
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
 | Sparkle 2 | 20069 | [20069-sparkle-2.json](./20069-sparkle-2.json) |
@@ -8167,6 +8172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Magic | 348874 | [348874-spell-magic.json](./348874-spell-magic.json) |
 | Spell Rift | 335371 | [335371-spell-rift.json](./335371-spell-rift.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
+| Spell Slingin' Tower Defense | 270145 | [270145-spell-slingin-tower-defense.json](./270145-spell-slingin-tower-defense.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
@@ -9312,6 +9318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
 | Star Quest | 249861 | [249861-star-quest.json](./249861-star-quest.json) |
 | Star Quest 1 in the 27th Century | 14511 | [14511-star-quest-1-in-the-27th-century.json](./14511-star-quest-1-in-the-27th-century.json) |
+| Star Racer | 270085 | [270085-star-racer.json](./270085-star-racer.json) |
 | Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
 | Star Raiders | 2217 | [2217-star-raiders.json](./2217-star-raiders.json) |
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
@@ -9674,6 +9681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargrove Scramble | 177939 | [177939-stargrove-scramble.json](./177939-stargrove-scramble.json) |
 | Stargunner | 19379 | [19379-stargunner.json](./19379-stargunner.json) |
 | Starhack | 291013 | [291013-starhack.json](./291013-starhack.json) |
+| Starheim | 270093 | [270093-starheim.json](./270093-starheim.json) |
 | StarHeroes | 221262 | [221262-starheroes.json](./221262-starheroes.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
@@ -10493,6 +10501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop | 135700 | [135700-stop.json](./135700-stop.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop and Smell the Flowers | 399164 | [399164-stop-and-smell-the-flowers.json](./399164-stop-and-smell-the-flowers.json) |
+| Stop Burying Me Alive, Beautiful! | 270154 | [270154-stop-burying-me-alive-beautiful.json](./270154-stop-burying-me-alive-beautiful.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
 | Stop Slapping Tenshi! | 330364 | [330364-stop-slapping-tenshi.json](./330364-stop-slapping-tenshi.json) |
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
