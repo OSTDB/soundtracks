@@ -6086,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
 | PropFight | 331438 | [331438-propfight.json](./331438-propfight.json) |
+| Prophan Escape | 274534 | [274534-prophan-escape.json](./274534-prophan-escape.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
 | Prophecy | 277333 | [277333-prophecy.json](./277333-prophecy.json) |
 | Prophecy Island | 249841 | [249841-prophecy-island.json](./249841-prophecy-island.json) |
