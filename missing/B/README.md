@@ -2397,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bem Feito | 275677 | [275677-bem-feito.json](./275677-bem-feito.json) |
 | Bemuddled | 101378 | [101378-bemuddled.json](./101378-bemuddled.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
+| Ben 10 | 247451 | [247451-ben-10.json](./247451-ben-10.json) |
 | Ben 10 | 363904 | [363904-ben-10.json](./363904-ben-10.json) |
 | Ben 10 Alien Balls | 343826 | [343826-ben-10-alien-balls.json](./343826-ben-10-alien-balls.json) |
 | Ben 10 Alien Force: Forever Defense | 328024 | [328024-ben-10-alien-force-forever-defense.json](./328024-ben-10-alien-force-forever-defense.json) |
@@ -3014,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Domain | 6913 | [6913-binary-domain.json](./6913-binary-domain.json) |
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
 | Binary Land | 366925 | [366925-binary-land.json](./366925-binary-land.json) |
+| Binary Monsters III: School Fighter | 247452 | [247452-binary-monsters-iii-school-fighter.json](./247452-binary-monsters-iii-school-fighter.json) |
 | Binary Quest | 178616 | [178616-binary-quest.json](./178616-binary-quest.json) |
 | Binary Run | 203906 | [203906-binary-run.json](./203906-binary-run.json) |
 | Binary Rush | 250388 | [250388-binary-rush.json](./250388-binary-rush.json) |
@@ -3079,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
 | Bio Fault | 397052 | [397052-bio-fault.json](./397052-bio-fault.json) |
 | Bio Force Ape | 19378 | [19378-bio-force-ape.json](./19378-bio-force-ape.json) |
+| Bio Hazard | 247453 | [247453-bio-hazard.json](./247453-bio-hazard.json) |
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
 | Bio Menace | 8491 | [8491-bio-menace.json](./8491-bio-menace.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
@@ -4006,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
+| Block Force | 247454 | [247454-block-force.json](./247454-block-force.json) |
 | Block Force | 400447 | [400447-block-force.json](./400447-block-force.json) |
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
