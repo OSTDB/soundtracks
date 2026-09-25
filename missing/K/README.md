@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakuchou Shoujo-kei Trinary | 346771 | [346771-kakuchou-shoujo-kei-trinary.json](./346771-kakuchou-shoujo-kei-trinary.json) |
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
+| Kakuriyo Village: Moratorium of Adolescence | 240730 | [240730-kakuriyo-village-moratorium-of-adolescence.json](./240730-kakuriyo-village-moratorium-of-adolescence.json) |
 | Kakuro | 120959 | [120959-kakuro.json](./120959-kakuro.json) |
 | Kakusankibou | 80899 | [80899-kakusankibou.json](./80899-kakusankibou.json) |
 | Kakutou Ryouri Densetsu Bistro Recipe: Gekitou Foodon Battle-hen | 228569 | [228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json](./228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json) |
@@ -1218,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
 | King Tut’s Tomb | 366263 | [366263-king-tut-s-tomb.json](./366263-king-tut-s-tomb.json) |
 | King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
+| King War | 240734 | [240734-king-war.json](./240734-king-war.json) |
 | King Wizard, of the Forest Kingdom | 274573 | [274573-king-wizard-of-the-forest-kingdom.json](./274573-king-wizard-of-the-forest-kingdom.json) |
 | King's Bounty 2 | 74329 | [74329-kings-bounty-2.json](./74329-kings-bounty-2.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
