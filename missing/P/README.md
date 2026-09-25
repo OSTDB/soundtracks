@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastor's Lake: The Game | 285540 | [285540-pastors-lake-the-game.json](./285540-pastors-lake-the-game.json) |
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
 | Pastoral | 395721 | [395721-pastoral.json](./395721-pastoral.json) |
+| PastoralPainting | 270078 | [270078-pastoralpainting.json](./270078-pastoralpainting.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
@@ -2326,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle Pete: Survival RPG | 245378 | [245378-pickle-pete-survival-rpg.json](./245378-pickle-pete-survival-rpg.json) |
 | Pickle Pop | 317446 | [317446-pickle-pop.json](./317446-pickle-pop.json) |
 | Pickleball One | 272337 | [272337-pickleball-one.json](./272337-pickleball-one.json) |
+| Pickleball Smash | 270160 | [270160-pickleball-smash.json](./270160-pickleball-smash.json) |
 | Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
 | Pickochet | 388959 | [388959-pickochet.json](./388959-pickochet.json) |
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
@@ -3534,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Original Edition | 310568 | [310568-plants-vs-zombies-original-edition.json](./310568-plants-vs-zombies-original-edition.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
+| Plarail Yume Ga Ippai! | 270150 | [270150-plarail-yume-ga-ippai.json](./270150-plarail-yume-ga-ippai.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
 | Plasma Ball | 294223 | [294223-plasma-ball.json](./294223-plasma-ball.json) |
 | Plasma Sword: Nightmare of Bilstein | 14679 | [14679-plasma-sword-nightmare-of-bilstein.json](./14679-plasma-sword-nightmare-of-bilstein.json) |
@@ -3855,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pool | 225877 | [225877-pocket-pool.json](./225877-pocket-pool.json) |
 | Pocket Pool: Adventure | 248724 | [248724-pocket-pool-adventure.json](./248724-pocket-pool-adventure.json) |
 | Pocket Pool: Complete Edition | 248723 | [248723-pocket-pool-complete-edition.json](./248723-pocket-pool-complete-edition.json) |
+| Pocket Pro Yakyuu | 270080 | [270080-pocket-pro-yakyuu.json](./270080-pocket-pro-yakyuu.json) |
 | Pocket Puyo Puyo Tsuu | 87198 | [87198-pocket-puyo-puyo-tsuu.json](./87198-pocket-puyo-puyo-tsuu.json) |
 | Pocket Race: Driver | 273441 | [273441-pocket-race-driver.json](./273441-pocket-race-driver.json) |
 | Pocket Racer | 129150 | [129150-pocket-racer.json](./129150-pocket-racer.json) |
@@ -5242,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
 | Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
+| Prezzies | 270071 | [270071-prezzies.json](./270071-prezzies.json) |
 | Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
@@ -6407,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsonic Electronic Baseball | 245418 | [245418-pulsonic-electronic-baseball.json](./245418-pulsonic-electronic-baseball.json) |
 | PulzAR | 93544 | [93544-pulzar.json](./93544-pulzar.json) |
 | Pum | 119053 | [119053-pum.json](./119053-pum.json) |
+| Puma: The Cat | 270158 | [270158-puma-the-cat.json](./270158-puma-the-cat.json) |
 | Pummel Party | 105322 | [105322-pummel-party.json](./105322-pummel-party.json) |
 | Pump | 179688 | [179688-pump.json](./179688-pump.json) |
 | Pump It Up | 79307 | [79307-pump-it-up.json](./79307-pump-it-up.json) |
