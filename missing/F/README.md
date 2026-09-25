@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight 4 Flight | 98468 | [98468-fight-4-flight.json](./98468-fight-4-flight.json) |
 | Fight Angels | 125977 | [125977-fight-angels.json](./125977-fight-angels.json) |
 | Fight Ball VR | 120924 | [120924-fight-ball-vr.json](./120924-fight-ball-vr.json) |
+| Fight Bingo | 265185 | [265185-fight-bingo.json](./265185-fight-bingo.json) |
 | Fight Bots | 154361 | [154361-fight-bots.json](./154361-fight-bots.json) |
 | Fight Buddy Mobile | 200738 | [200738-fight-buddy-mobile.json](./200738-fight-buddy-mobile.json) |
 | Fight Club | 5834 | [5834-fight-club.json](./5834-fight-club.json) |
@@ -3391,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fohh | 304156 | [304156-fohh.json](./304156-fohh.json) |
 | Foillower | 382923 | [382923-foillower.json](./382923-foillower.json) |
 | FolcDark | 275671 | [275671-folcdark.json](./275671-folcdark.json) |
+| FolcDark: Part I | 265119 | [265119-folcdark-part-i.json](./265119-folcdark-part-i.json) |
 | FolcDark: Part II | 274025 | [274025-folcdark-part-ii.json](./274025-folcdark-part-ii.json) |
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
