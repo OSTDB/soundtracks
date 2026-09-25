@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
 | Omega 13 | 250434 | [250434-omega-13.json](./250434-omega-13.json) |
+| Omega Blast | 270632 | [270632-omega-blast.json](./270632-omega-blast.json) |
 | Omega Chase | 41985 | [41985-omega-chase.json](./41985-omega-chase.json) |
 | Omega Enforcer X | 181905 | [181905-omega-enforcer-x.json](./181905-omega-enforcer-x.json) |
 | Omega Extinction | 68588 | [68588-omega-extinction.json](./68588-omega-extinction.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Card One Shot: Mafia | 244359 | [244359-one-card-one-shot-mafia.json](./244359-one-card-one-shot-mafia.json) |
 | One Click | 345122 | [345122-one-click.json](./345122-one-click.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
+| One Day After School | 270712 | [270712-one-day-after-school.json](./270712-one-day-after-school.json) |
 | One Day for Revenge | 104020 | [104020-one-day-for-revenge.json](./104020-one-day-for-revenge.json) |
 | One Day in London | 32931 | [32931-one-day-in-london.json](./32931-one-day-in-london.json) |
 | One Day More | 150535 | [150535-one-day-more.json](./150535-one-day-more.json) |
@@ -1460,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Roulette | 320338 | [320338-orange-roulette.json](./320338-orange-roulette.json) |
 | Orange Santa | 151131 | [151131-orange-santa.json](./151131-orange-santa.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
+| Oranges | 270716 | [270716-oranges.json](./270716-oranges.json) |
 | Orangia | 366934 | [366934-orangia.json](./366934-orangia.json) |
 | Orangia DLC | 366935 | [366935-orangia-dlc.json](./366935-orangia-dlc.json) |
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
