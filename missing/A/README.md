@@ -3825,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antumbra | 101989 | [101989-antumbra.json](./101989-antumbra.json) |
 | Antumbra: Vile Shards | 149514 | [149514-antumbra-vile-shards.json](./149514-antumbra-vile-shards.json) |
 | Anty | 47546 | [47546-anty.json](./47546-anty.json) |
+| Antz Extreme Racing | 248605 | [248605-antz-extreme-racing.json](./248605-antz-extreme-racing.json) |
 | Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anura | 347364 | [347364-anura.json](./347364-anura.json) |
@@ -4605,6 +4606,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Quest | 175787 | [175787-arctic-quest.json](./175787-arctic-quest.json) |
 | Arctic Quest 2 | 175788 | [175788-arctic-quest-2.json](./175788-arctic-quest-2.json) |
 | Arctic Stud Poker Run | 21432 | [21432-arctic-stud-poker-run.json](./21432-arctic-stud-poker-run.json) |
+| Arctic Tale | 248613 | [248613-arctic-tale.json](./248613-arctic-tale.json) |
+| Arctic Tale | 248614 | [248614-arctic-tale.json](./248614-arctic-tale.json) |
 | Arctic Trucker Simulator | 36396 | [36396-arctic-trucker-simulator.json](./36396-arctic-trucker-simulator.json) |
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
 | Arctic's Adventure | 264704 | [264704-arctics-adventure.json](./264704-arctics-adventure.json) |
@@ -6001,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
 | Attack of the Petscii Robots | 159163 | [159163-attack-of-the-petscii-robots.json](./159163-attack-of-the-petscii-robots.json) |
 | Attack of the Saucerman | 4143 | [4143-attack-of-the-saucerman.json](./4143-attack-of-the-saucerman.json) |
+| Attack of the Silver Ball | 248598 | [248598-attack-of-the-silver-ball.json](./248598-attack-of-the-silver-ball.json) |
 | Attack of the Toy Tanks | 120178 | [120178-attack-of-the-toy-tanks.json](./120178-attack-of-the-toy-tanks.json) |
 | Attack of the Trafalas | 213435 | [213435-attack-of-the-trafalas.json](./213435-attack-of-the-trafalas.json) |
 | Attack of the Trolls! | 234713 | [234713-attack-of-the-trolls.json](./234713-attack-of-the-trolls.json) |
@@ -6049,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Offroad Fury: Blazin' Trails | 8272 | [8272-atv-offroad-fury-blazin-trails.json](./8272-atv-offroad-fury-blazin-trails.json) |
 | ATV Pure | 99978 | [99978-atv-pure.json](./99978-atv-pure.json) |
 | ATV Quad Frenzy | 69810 | [69810-atv-quad-frenzy.json](./69810-atv-quad-frenzy.json) |
+| ATV Quad Power Racing | 248615 | [248615-atv-quad-power-racing.json](./248615-atv-quad-power-racing.json) |
 | ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
