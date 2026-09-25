@@ -4571,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimesis Online | 23453 | [23453-mimesis-online.json](./23453-mimesis-online.json) |
 | Mimi | 202315 | [202315-mimi.json](./202315-mimi.json) |
+| Mimi and animals | 229008 | [229008-mimi-and-animals.json](./229008-mimi-and-animals.json) |
 | Mimi in The Sky | 267374 | [267374-mimi-in-the-sky.json](./267374-mimi-in-the-sky.json) |
 | Mimi the Cat: Mimi's Scratcher | 269052 | [269052-mimi-the-cat-mimis-scratcher.json](./269052-mimi-the-cat-mimis-scratcher.json) |
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
