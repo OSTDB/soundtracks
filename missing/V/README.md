@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
 | Vile | 111386 | [111386-vile.json](./111386-vile.json) |
 | Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
+| Villa Escape | 272874 | [272874-villa-escape.json](./272874-villa-escape.json) |
 | Villa Nocturne | 377796 | [377796-villa-nocturne.json](./377796-villa-nocturne.json) |
 | Village | 266295 | [266295-village.json](./266295-village.json) |
 | Village businessman | 159820 | [159820-village-businessman.json](./159820-village-businessman.json) |
@@ -1195,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vizul | 301951 | [301951-vizul.json](./301951-vizul.json) |
 | Vlad Circus: Curse of Asmodeus | 337993 | [337993-vlad-circus-curse-of-asmodeus.json](./337993-vlad-circus-curse-of-asmodeus.json) |
 | Vlad the Impaler | 17309 | [17309-vlad-the-impaler.json](./17309-vlad-the-impaler.json) |
+| Vlad Voievod Dracula: Dungeons of Edirne | 272880 | [272880-vlad-voievod-dracula-dungeons-of-edirne.json](./272880-vlad-voievod-dracula-dungeons-of-edirne.json) |
 | Vladiators | 141831 | [141831-vladiators.json](./141831-vladiators.json) |
 | Vladik Brutal | 159796 | [159796-vladik-brutal.json](./159796-vladik-brutal.json) |
 | Vladimere's Lhore | 216497 | [216497-vladimeres-lhore.json](./216497-vladimeres-lhore.json) |
@@ -1411,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxella | 186249 | [186249-voxella.json](./186249-voxella.json) |
 | VoxelMaker | 85481 | [85481-voxelmaker.json](./85481-voxelmaker.json) |
 | Voxels.Place | 398436 | [398436-voxels-place.json](./398436-voxels-place.json) |
+| VoxelScaper | 272879 | [272879-voxelscaper.json](./272879-voxelscaper.json) |
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
