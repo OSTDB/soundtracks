@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Illuminati | 120333 | [120333-we-are-illuminati.json](./120333-we-are-illuminati.json) |
 | We Are Infinity | 283744 | [283744-we-are-infinity.json](./283744-we-are-infinity.json) |
 | We Are Live | 157034 | [157034-we-are-live.json](./157034-we-are-live.json) |
+| We Are Out of Food, Milton. | 250323 | [250323-we-are-out-of-food-milton.json](./250323-we-are-out-of-food-milton.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
 | We Are Sisters | 418704 | [418704-we-are-sisters.json](./418704-we-are-sisters.json) |
 | We Are So Cooked | 388377 | [388377-we-are-so-cooked.json](./388377-we-are-so-cooked.json) |
