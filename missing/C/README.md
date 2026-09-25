@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cahors Sunset | 35956 | [35956-cahors-sunset.json](./35956-cahors-sunset.json) |
 | Cai Cai Balão | 147296 | [147296-cai-cai-balao.json](./147296-cai-cai-balao.json) |
 | Caiaque | 305264 | [305264-caiaque.json](./305264-caiaque.json) |
+| Caillou | 282059 | [282059-caillou.json](./282059-caillou.json) |
 | Caillou: Four Seasons of Fun | 137020 | [137020-caillou-four-seasons-of-fun.json](./137020-caillou-four-seasons-of-fun.json) |
 | Cain x Nica | 304609 | [304609-cain-x-nica.json](./304609-cain-x-nica.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
@@ -2872,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choplifter HD | 15158 | [15158-choplifter-hd.json](./15158-choplifter-hd.json) |
 | Choplifter II: Rescue Survive | 7823 | [7823-choplifter-ii-rescue-survive.json](./7823-choplifter-ii-rescue-survive.json) |
 | Choplifter III: Rescue Survive | 7824 | [7824-choplifter-iii-rescue-survive.json](./7824-choplifter-iii-rescue-survive.json) |
+| Choplifter! | 282062 | [282062-choplifter.json](./282062-choplifter.json) |
 | Choplifter! | 343884 | [343884-choplifter.json](./343884-choplifter.json) |
 | Choplifter! | 343885 | [343885-choplifter.json](./343885-choplifter.json) |
 | Choplifter! | 343886 | [343886-choplifter.json](./343886-choplifter.json) |
@@ -4962,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confusing game | 148340 | [148340-confusing-game.json](./148340-confusing-game.json) |
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
+| Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
 | Congo Merc | 31821 | [31821-congo-merc.json](./31821-congo-merc.json) |
 | Congo The Movie: The Lost City of Zinj | 45516 | [45516-congo-the-movie-the-lost-city-of-zinj.json](./45516-congo-the-movie-the-lost-city-of-zinj.json) |
@@ -5207,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraption Maker: Mighty Knights Parts & Puzzles Pack | 263215 | [263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json](./263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json) |
 | Contraption Zack | 24864 | [24864-contraption-zack.json](./24864-contraption-zack.json) |
 | Contraptions | 120824 | [120824-contraptions.json](./120824-contraptions.json) |
+| Contraptions Collection | 282051 | [282051-contraptions-collection.json](./282051-contraptions-collection.json) |
 | Contrast | 383509 | [383509-contrast.json](./383509-contrast.json) |
 | Contre Jour | 93578 | [93578-contre-jour.json](./93578-contre-jour.json) |
 | Contre Jour HD | 101959 | [101959-contre-jour-hd.json](./101959-contre-jour-hd.json) |
@@ -5371,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops N Robbers: Prison Games 2 | 400443 | [400443-cops-n-robbers-prison-games-2.json](./400443-cops-n-robbers-prison-games-2.json) |
 | Copter | 291600 | [291600-copter.json](./291600-copter.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
+| CopyPasta with Cheese | 282094 | [282094-copypasta-with-cheese.json](./282094-copypasta-with-cheese.json) |
 | Coquette Dragoon: Volume One | 210093 | [210093-coquette-dragoon-volume-one.json](./210093-coquette-dragoon-volume-one.json) |
 | Cor Ex Machina | 63876 | [63876-cor-ex-machina.json](./63876-cor-ex-machina.json) |
 | Cora | 366836 | [366836-cora.json](./366836-cora.json) |
