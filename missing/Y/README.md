@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
 | Yatterman DS 2: Bikkuri Dokkiri Animal Daibouken | 124150 | [124150-yatterman-ds-2-bikkuri-dokkiri-animal-daibouken.json](./124150-yatterman-ds-2-bikkuri-dokkiri-animal-daibouken.json) |
 | Yattsu no Hiseki 2X | 386156 | [386156-yattsu-no-hiseki-2x.json](./386156-yattsu-no-hiseki-2x.json) |
+| Yatzi | 271268 | [271268-yatzi.json](./271268-yatzi.json) |
 | Yatzi 2 | 364082 | [364082-yatzi-2.json](./364082-yatzi-2.json) |
 | Yatzy Addict+ | 252137 | [252137-yatzy-addict.json](./252137-yatzy-addict.json) |
 | Yatzy Ultimate | 175304 | [175304-yatzy-ultimate.json](./175304-yatzy-ultimate.json) |
