@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Slasher Hero | 208955 | [208955-vampire-slasher-hero.json](./208955-vampire-slasher-hero.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
 | Vampire Survivors: 1.5 | 252864 | [252864-vampire-survivors-1-5.json](./252864-vampire-survivors-1-5.json) |
+| Vampire Survivors: Chaos Update | 237316 | [237316-vampire-survivors-chaos-update.json](./237316-vampire-survivors-chaos-update.json) |
 | Vampire Survivors: Emerald Diorama | 339620 | [339620-vampire-survivors-emerald-diorama.json](./339620-vampire-survivors-emerald-diorama.json) |
 | Vampire Survivors: Legacy of the Moonspell | 228721 | [228721-vampire-survivors-legacy-of-the-moonspell.json](./228721-vampire-survivors-legacy-of-the-moonspell.json) |
 | Vampire Survivors: Ode to Castlevania | 320770 | [320770-vampire-survivors-ode-to-castlevania.json](./320770-vampire-survivors-ode-to-castlevania.json) |
