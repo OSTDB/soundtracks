@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Master Baiter | 303625 | [303625-legend-of-the-master-baiter.json](./303625-legend-of-the-master-baiter.json) |
 | Legend of the Master Baiter Origins: Gills Gone Wild | 395826 | [395826-legend-of-the-master-baiter-origins-gills-gone-wild.json](./395826-legend-of-the-master-baiter-origins-gills-gone-wild.json) |
 | Legend of the Moon | 207830 | [207830-legend-of-the-moon.json](./207830-legend-of-the-moon.json) |
+| Legend of the Moon 2 | 232399 | [232399-legend-of-the-moon-2.json](./232399-legend-of-the-moon-2.json) |
 | Legend of the Moon: Those Who Crossed | 351640 | [351640-legend-of-the-moon-those-who-crossed.json](./351640-legend-of-the-moon-those-who-crossed.json) |
 | Legend of the Nine Colored Deer | 287721 | [287721-legend-of-the-nine-colored-deer.json](./287721-legend-of-the-nine-colored-deer.json) |
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
@@ -1876,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light the Candles in Hell | 340920 | [340920-light-the-candles-in-hell.json](./340920-light-the-candles-in-hell.json) |
 | Light the Way | 114238 | [114238-light-the-way.json](./114238-light-the-way.json) |
 | Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
+| Light the Way: 10th Anniversary | 232403 | [232403-light-the-way-10th-anniversary.json](./232403-light-the-way-10th-anniversary.json) |
 | Light the World | 165628 | [165628-light-the-world.json](./165628-light-the-world.json) |
 | Light Them Up | 208443 | [208443-light-them-up.json](./208443-light-them-up.json) |
 | Light Tomb | 358937 | [358937-light-tomb.json](./358937-light-tomb.json) |
@@ -2008,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith's Game | 339998 | [339998-liliths-game.json](./339998-liliths-game.json) |
 | Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
+| Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
@@ -2677,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Opportunities | 333769 | [333769-lockdown-opportunities.json](./333769-lockdown-opportunities.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
+| Lockdown Town ZX | 232409 | [232409-lockdown-town-zx.json](./232409-lockdown-town-zx.json) |
 | Lockdown VR: Circus of the Dead | 195261 | [195261-lockdown-vr-circus-of-the-dead.json](./195261-lockdown-vr-circus-of-the-dead.json) |
 | Lockdown: Stand Alone | 31774 | [31774-lockdown-stand-alone.json](./31774-lockdown-stand-alone.json) |
 | Locke(d) | 231365 | [231365-locke-d.json](./231365-locke-d.json) |
