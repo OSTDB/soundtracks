@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Simulator: Xia - Legends of a Drift System | 161265 | [161265-tabletop-simulator-xia-legends-of-a-drift-system.json](./161265-tabletop-simulator-xia-legends-of-a-drift-system.json) |
 | Tabletop Simulator: Zombicide | 161267 | [161267-tabletop-simulator-zombicide.json](./161267-tabletop-simulator-zombicide.json) |
 | TableTop Soccer | 33239 | [33239-tabletop-soccer.json](./33239-tabletop-soccer.json) |
+| TableTop Soccer: Redux | 280253 | [280253-tabletop-soccer-redux.json](./280253-tabletop-soccer-redux.json) |
 | Tabletopia: Altiplano | 162874 | [162874-tabletopia-altiplano.json](./162874-tabletopia-altiplano.json) |
 | Tabletopia: Aquanauts | 162891 | [162891-tabletopia-aquanauts.json](./162891-tabletopia-aquanauts.json) |
 | Tabletopia: Argent - the Consortium | 162882 | [162882-tabletopia-argent-the-consortium.json](./162882-tabletopia-argent-the-consortium.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
 | Take a Smile | 246484 | [246484-take-a-smile.json](./246484-take-a-smile.json) |
+| Take Bomb: The Suit Take Off | 280254 | [280254-take-bomb-the-suit-take-off.json](./280254-take-bomb-the-suit-take-off.json) |
 | Take Care of My Heifer | 414421 | [414421-take-care-of-my-heifer.json](./414421-take-care-of-my-heifer.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
 | Take Care of the Paperwork | 103455 | [103455-take-care-of-the-paperwork.json](./103455-take-care-of-the-paperwork.json) |
@@ -1547,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Odyssey | 277406 | [277406-temporal-odyssey.json](./277406-temporal-odyssey.json) |
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
+| Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
 | Temporus | 120797 | [120797-temporus.json](./120797-temporus.json) |
 | Tempres | 142881 | [142881-tempres.json](./142881-tempres.json) |
 | Temptations X: Darkest Fantasy | 149408 | [149408-temptations-x-darkest-fantasy.json](./149408-temptations-x-darkest-fantasy.json) |
@@ -2421,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ballad Singer | 78156 | [78156-the-ballad-singer.json](./78156-the-ballad-singer.json) |
 | The Balldragon | 335265 | [335265-the-balldragon.json](./335265-the-balldragon.json) |
 | The Balloonist: Beyond the Clouds | 75831 | [75831-the-balloonist-beyond-the-clouds.json](./75831-the-balloonist-beyond-the-clouds.json) |
+| The Balls | 280256 | [280256-the-balls.json](./280256-the-balls.json) |
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
@@ -3087,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The D Show | 280855 | [280855-the-d-show.json](./280855-the-d-show.json) |
 | The D.R.G. Initiative | 54689 | [54689-the-d-r-g-initiative.json](./54689-the-d-r-g-initiative.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
+| The Da Vinci Cryptex 3 | 280257 | [280257-the-da-vinci-cryptex-3.json](./280257-the-da-vinci-cryptex-3.json) |
 | The Daedalus Encounter | 4237 | [4237-the-daedalus-encounter.json](./4237-the-daedalus-encounter.json) |
 | The Dallas Quest | 47218 | [47218-the-dallas-quest.json](./47218-the-dallas-quest.json) |
 | The Dalmatians | 44847 | [44847-the-dalmatians.json](./44847-the-dalmatians.json) |
@@ -5557,6 +5562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Offering | 238754 | [238754-the-offering.json](./238754-the-offering.json) |
 | The Office | 203564 | [203564-the-office.json](./203564-the-office.json) |
 | The Office Killer | 344386 | [344386-the-office-killer.json](./344386-the-office-killer.json) |
+| The Ogi: Cycles | 280250 | [280250-the-ogi-cycles.json](./280250-the-ogi-cycles.json) |
 | The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
 | The Oily Depths | 318414 | [318414-the-oily-depths.json](./318414-the-oily-depths.json) |
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
@@ -10655,6 +10661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail of Destruction | 28880 | [28880-trail-of-destruction.json](./28880-trail-of-destruction.json) |
 | Trail of Stars | 329966 | [329966-trail-of-stars.json](./329966-trail-of-stars.json) |
 | Trail of the Damned | 160222 | [160222-trail-of-the-damned.json](./160222-trail-of-the-damned.json) |
+| Trail of the Wretched | 280246 | [280246-trail-of-the-wretched.json](./280246-trail-of-the-wretched.json) |
 | Trail of Toads | 223166 | [223166-trail-of-toads.json](./223166-trail-of-toads.json) |
 | Trail Out | 188913 | [188913-trail-out.json](./188913-trail-out.json) |
 | Trail Out: Hunt 007 Special | 275001 | [275001-trail-out-hunt-007-special.json](./275001-trail-out-hunt-007-special.json) |
@@ -11656,6 +11663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickshot Tactics | 382753 | [382753-trickshot-tactics.json](./382753-trickshot-tactics.json) |
 | TrickShot VR | 133457 | [133457-trickshot-vr.json](./133457-trickshot-vr.json) |
 | Trickster | 57935 | [57935-trickster.json](./57935-trickster.json) |
+| Trickster Chaos | 280247 | [280247-trickster-chaos.json](./280247-trickster-chaos.json) |
 | Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
 | Trickster VR | 31766 | [31766-trickster-vr.json](./31766-trickster-vr.json) |
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
@@ -12360,6 +12368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
+| TVS Sample Box | 280248 | [280248-tvs-sample-box.json](./280248-tvs-sample-box.json) |
 | TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
 | Twas The Night | 326207 | [326207-twas-the-night.json](./326207-twas-the-night.json) |
@@ -12513,6 +12522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twitter Island | 185641 | [185641-twitter-island.json](./185641-twitter-island.json) |
 | Twitter Plays Snake | 339133 | [339133-twitter-plays-snake.json](./339133-twitter-plays-snake.json) |
 | Twixel | 9524 | [9524-twixel.json](./9524-twixel.json) |
+| Twizzle Puzzle: Animals | 280249 | [280249-twizzle-puzzle-animals.json](./280249-twizzle-puzzle-animals.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Twizzle Puzzle: Rodents | 295379 | [295379-twizzle-puzzle-rodents.json](./295379-twizzle-puzzle-rodents.json) |
 | Two | 357458 | [357458-two.json](./357458-two.json) |
