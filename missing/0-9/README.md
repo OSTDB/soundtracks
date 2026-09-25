@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
 | 2048 Game With New Levels | 262361 | [262361-2048-game-with-new-levels.json](./262361-2048-game-with-new-levels.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
+| 2048 Numbers Mania | 233515 | [233515-2048-numbers-mania.json](./233515-2048-numbers-mania.json) |
 | 2048 Puzzle: K-ON! Edition | 279669 | [279669-2048-puzzle-k-on-edition.json](./279669-2048-puzzle-k-on-edition.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
