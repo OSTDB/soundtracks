@@ -153,8 +153,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
 | Walkabout Mini Golf: Blokhaven | 408259 | [408259-walkabout-mini-golf-blokhaven.json](./408259-walkabout-mini-golf-blokhaven.json) |
 | Walkabout Mini Golf: Forgotten Fairyland | 372655 | [372655-walkabout-mini-golf-forgotten-fairyland.json](./372655-walkabout-mini-golf-forgotten-fairyland.json) |
+| Walkabout Mini Golf: Journey to the Center of the Earth | 251576 | [251576-walkabout-mini-golf-journey-to-the-center-of-the-earth.json](./251576-walkabout-mini-golf-journey-to-the-center-of-the-earth.json) |
+| Walkabout Mini Golf: Laser Lair | 251577 | [251577-walkabout-mini-golf-laser-lair.json](./251577-walkabout-mini-golf-laser-lair.json) |
 | Walkabout Mini Golf: Mars Gardens | 360019 | [360019-walkabout-mini-golf-mars-gardens.json](./360019-walkabout-mini-golf-mars-gardens.json) |
 | Walkabout Mini Golf: Mount Olympus | 334481 | [334481-walkabout-mini-golf-mount-olympus.json](./334481-walkabout-mini-golf-mount-olympus.json) |
+| Walkabout Mini Golf: Pocket Edition | 251578 | [251578-walkabout-mini-golf-pocket-edition.json](./251578-walkabout-mini-golf-pocket-edition.json) |
 | Walkabout Mini Golf: Raptor Cliff's | 342279 | [342279-walkabout-mini-golf-raptor-cliffs.json](./342279-walkabout-mini-golf-raptor-cliffs.json) |
 | Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
 | WalkBot | 212915 | [212915-walkbot.json](./212915-walkbot.json) |
@@ -2610,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wloku | 307617 | [307617-wloku.json](./307617-wloku.json) |
 | WN RPG Hoshi no Kuzure | 294242 | [294242-wn-rpg-hoshi-no-kuzure.json](./294242-wn-rpg-hoshi-no-kuzure.json) |
 | Wo Long 2: Wings of Ember | 405070 | [405070-wo-long-2-wings-of-ember.json](./405070-wo-long-2-wings-of-ember.json) |
+| Wo Long: Fallen Dynasty - Battle of Zhongyuan | 251547 | [251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json](./251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json) |
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
 | Wo Long: Fallen Dynasty - Steelbook Launch Edition | 225774 | [225774-wo-long-fallen-dynasty-steelbook-launch-edition.json](./225774-wo-long-fallen-dynasty-steelbook-launch-edition.json) |
 | Woahler Coaster! | 373513 | [373513-woahler-coaster.json](./373513-woahler-coaster.json) |
