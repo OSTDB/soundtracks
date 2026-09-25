@@ -2897,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Poo World | 138218 | [138218-grand-poo-world.json](./138218-grand-poo-world.json) |
 | Grand Poo World II | 138219 | [138219-grand-poo-world-ii.json](./138219-grand-poo-world-ii.json) |
 | Grand Prix | 18103 | [18103-grand-prix.json](./18103-grand-prix.json) |
+| Grand Prix | 279694 | [279694-grand-prix.json](./279694-grand-prix.json) |
 | Grand Prix | 385557 | [385557-grand-prix.json](./385557-grand-prix.json) |
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
 | Grand Prix Championship 2 | 54064 | [54064-grand-prix-championship-2.json](./54064-grand-prix-championship-2.json) |
