@@ -6340,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Sol: Enchant | 377703 | [377703-sol-enchant.json](./377703-sol-enchant.json) |
+| Sol: Last Light | 247448 | [247448-sol-last-light.json](./247448-sol-last-light.json) |
 | Sol: Shogunate | 380406 | [380406-sol-shogunate.json](./380406-sol-shogunate.json) |
 | Sol705 | 89939 | [89939-sol705.json](./89939-sol705.json) |
 | Sola | 173223 | [173223-sola.json](./173223-sola.json) |
@@ -12242,6 +12243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gears N Gators | 136228 | [136228-super-gears-n-gators.json](./136228-super-gears-n-gators.json) |
 | Super Gerball | 89179 | [89179-super-gerball.json](./89179-super-gerball.json) |
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
+| Super Ghouls'n Ghosts Restoration | 247446 | [247446-super-ghoulsn-ghosts-restoration.json](./247446-super-ghoulsn-ghosts-restoration.json) |
 | Super Glovekid | 317352 | [317352-super-glovekid.json](./317352-super-glovekid.json) |
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
 | Super Godzilla | 38418 | [38418-super-godzilla.json](./38418-super-godzilla.json) |
@@ -14085,6 +14087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
 | Sycamore | 323346 | [323346-sycamore.json](./323346-sycamore.json) |
+| Syd of Valis | 247483 | [247483-syd-of-valis.json](./247483-syd-of-valis.json) |
 | Syd of Valis | 46191 | [46191-syd-of-valis.json](./46191-syd-of-valis.json) |
 | Syde Rugby League Simulator | 163837 | [163837-syde-rugby-league-simulator.json](./163837-syde-rugby-league-simulator.json) |
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
