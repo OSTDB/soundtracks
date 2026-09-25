@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichido ha Yonde Okitai: Nihon Bungaku 100-sen | 269639 | [269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json](./269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json) |
 | Ichigo's Study Sessions | 361345 | [361345-ichigos-study-sessions.json](./361345-ichigos-study-sessions.json) |
 | Ichikoi | 412544 | [412544-ichikoi.json](./412544-ichikoi.json) |
+| Ichinichi | 262988 | [262988-ichinichi.json](./262988-ichinichi.json) |
 | Ichizu na Kanojo to Koi Shitai | 402486 | [402486-ichizu-na-kanojo-to-koi-shitai.json](./402486-ichizu-na-kanojo-to-koi-shitai.json) |
 | Ichor | 122398 | [122398-ichor.json](./122398-ichor.json) |
 | Ichor Burns | 358958 | [358958-ichor-burns.json](./358958-ichor-burns.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Colors | 402893 | [402893-idle-colors.json](./402893-idle-colors.json) |
 | Idle Cooking Emperor | 117480 | [117480-idle-cooking-emperor.json](./117480-idle-cooking-emperor.json) |
 | Idle Craft | 333081 | [333081-idle-craft.json](./333081-idle-craft.json) |
+| Idle Crypto Capitalist | 262924 | [262924-idle-crypto-capitalist.json](./262924-idle-crypto-capitalist.json) |
 | Idle Cultivation | 369241 | [369241-idle-cultivation.json](./369241-idle-cultivation.json) |
 | Idle Cutter | 247213 | [247213-idle-cutter.json](./247213-idle-cutter.json) |
 | Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
@@ -654,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
 | Idle Spiral | 211230 | [211230-idle-spiral.json](./211230-idle-spiral.json) |
 | Idle Squire | 391172 | [391172-idle-squire.json](./391172-idle-squire.json) |
+| Idle Stellar | 262911 | [262911-idle-stellar.json](./262911-idle-stellar.json) |
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
 | Idle Summoners: Heroes VIP | 100756 | [100756-idle-summoners-heroes-vip.json](./100756-idle-summoners-heroes-vip.json) |
 | Idle Taoist Mage Warrior 2 | 298665 | [298665-idle-taoist-mage-warrior-2.json](./298665-idle-taoist-mage-warrior-2.json) |
