@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles: Dragons | 236825 | [236825-fantasy-jigsaw-puzzles-dragons.json](./236825-fantasy-jigsaw-puzzles-dragons.json) |
 | Fantasy Jigsaw Puzzles: Dwarves | 235467 | [235467-fantasy-jigsaw-puzzles-dwarves.json](./235467-fantasy-jigsaw-puzzles-dwarves.json) |
 | Fantasy Jigsaw Puzzles: Lost Empires | 296423 | [296423-fantasy-jigsaw-puzzles-lost-empires.json](./296423-fantasy-jigsaw-puzzles-lost-empires.json) |
+| Fantasy Jigsaw Puzzles: Magic | 231869 | [231869-fantasy-jigsaw-puzzles-magic.json](./231869-fantasy-jigsaw-puzzles-magic.json) |
 | Fantasy Jigsaw Puzzles: Northlands | 234341 | [234341-fantasy-jigsaw-puzzles-northlands.json](./234341-fantasy-jigsaw-puzzles-northlands.json) |
 | Fantasy Jigsaw Puzzles: Olympus | 296424 | [296424-fantasy-jigsaw-puzzles-olympus.json](./296424-fantasy-jigsaw-puzzles-olympus.json) |
 | Fantasy Jigsaw Puzzles: The Great War | 357879 | [357879-fantasy-jigsaw-puzzles-the-great-war.json](./357879-fantasy-jigsaw-puzzles-the-great-war.json) |
