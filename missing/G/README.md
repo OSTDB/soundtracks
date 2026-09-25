@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Hunter | 304160 | [304160-gem-hunter.json](./304160-gem-hunter.json) |
 | Gem Island | 326812 | [326812-gem-island.json](./326812-gem-island.json) |
 | Gem Jam | 130964 | [130964-gem-jam.json](./130964-gem-jam.json) |
+| Gem Jam | 238979 | [238979-gem-jam.json](./238979-gem-jam.json) |
 | Gem Jam | 291604 | [291604-gem-jam.json](./291604-gem-jam.json) |
 | Gem Jam | 333732 | [333732-gem-jam.json](./333732-gem-jam.json) |
 | Gem King | 254589 | [254589-gem-king.json](./254589-gem-king.json) |
@@ -1285,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Dash: 2.2 Update | 374303 | [374303-geometry-dash-2-2-update.json](./374303-geometry-dash-2-2-update.json) |
 | Geometry Dodge Pro | 86908 | [86908-geometry-dodge-pro.json](./86908-geometry-dodge-pro.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
+| Geometry League | 238986 | [238986-geometry-league.json](./238986-geometry-league.json) |
 | Geometry Rocket | 150534 | [150534-geometry-rocket.json](./150534-geometry-rocket.json) |
 | Geometry Runner Online | 88183 | [88183-geometry-runner-online.json](./88183-geometry-runner-online.json) |
 | Geometry Rush | 102366 | [102366-geometry-rush.json](./102366-geometry-rush.json) |
@@ -1355,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Fit: Beach Workout | 411142 | [411142-get-fit-beach-workout.json](./411142-get-fit-beach-workout.json) |
 | Get Fit: Power Workout | 399639 | [399639-get-fit-power-workout.json](./399639-get-fit-power-workout.json) |
 | Get Fit: Women’s Fitness | 394999 | [394999-get-fit-women-s-fitness.json](./394999-get-fit-women-s-fitness.json) |
+| Get Ghost! | 238992 | [238992-get-ghost.json](./238992-get-ghost.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
@@ -3628,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm Meisaku Gekijou Vol. 3: Akazukin | 245316 | [245316-grimm-meisaku-gekijou-vol-3-akazukin.json](./245316-grimm-meisaku-gekijou-vol-3-akazukin.json) |
 | Grimm of the Dome | 245908 | [245908-grimm-of-the-dome.json](./245908-grimm-of-the-dome.json) |
 | Grimm Shuffle | 158670 | [158670-grimm-shuffle.json](./158670-grimm-shuffle.json) |
+| Grimm Tales | 239010 | [239010-grimm-tales.json](./239010-grimm-tales.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
 | Grimm: Quest for the Gatherer's Key | 363039 | [363039-grimm-quest-for-the-gatherers-key.json](./363039-grimm-quest-for-the-gatherers-key.json) |
 | Grimm's Hatchery | 73510 | [73510-grimms-hatchery.json](./73510-grimms-hatchery.json) |
