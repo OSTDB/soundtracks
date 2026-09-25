@@ -5125,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerpuff Girls: Mojo Jojo's Clone Zone | 8008 | [8008-powerpuff-girls-mojo-jojos-clone-zone.json](./8008-powerpuff-girls-mojo-jojos-clone-zone.json) |
 | Powerpuff Girls: Mojo Jojo's Pet Project | 8009 | [8009-powerpuff-girls-mojo-jojos-pet-project.json](./8009-powerpuff-girls-mojo-jojos-pet-project.json) |
 | Powerpuff Girls: Mojo's Pet Project | 19427 | [19427-powerpuff-girls-mojos-pet-project.json](./19427-powerpuff-girls-mojos-pet-project.json) |
+| Powers | 254470 | [254470-powers.json](./254470-powers.json) |
 | Powers of Hex | 230943 | [230943-powers-of-hex.json](./230943-powers-of-hex.json) |
 | PowerShift | 242673 | [242673-powershift.json](./242673-powershift.json) |
 | PowerSimulator | 251808 | [251808-powersimulator.json](./251808-powersimulator.json) |
