@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Field Trip Adventure | 298582 | [298582-our-field-trip-adventure.json](./298582-our-field-trip-adventure.json) |
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Great Revolution! | 180133 | [180133-our-great-revolution.json](./180133-our-great-revolution.json) |
+| Our Last Dayz | 249711 | [249711-our-last-dayz.json](./249711-our-last-dayz.json) |
 | Our Life on Water | 276186 | [276186-our-life-on-water.json](./276186-our-life-on-water.json) |
 | Our Life: Beginnings & Always | 122028 | [122028-our-life-beginnings-and-always.json](./122028-our-life-beginnings-and-always.json) |
 | Our Life: Beginnings & Always - Baxter's Story | 248049 | [248049-our-life-beginnings-and-always-baxters-story.json](./248049-our-life-beginnings-and-always-baxters-story.json) |
