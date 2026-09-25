@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn & Discover Home | 326588 | [326588-learn-and-discover-home.json](./326588-learn-and-discover-home.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
+| Learn Katakana!! | 252697 | [252697-learn-katakana.json](./252697-learn-katakana.json) |
 | Learn Programming: Python - Retro | 367998 | [367998-learn-programming-python-retro.json](./367998-learn-programming-python-retro.json) |
 | Learn Spanish VR | 292690 | [292690-learn-spanish-vr.json](./292690-learn-spanish-vr.json) |
 | Learn Spanish! Easy Vocabulary | 371919 | [371919-learn-spanish-easy-vocabulary.json](./371919-learn-spanish-easy-vocabulary.json) |
@@ -1031,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Hunter: House of Dragons | 313221 | [313221-legend-of-the-hunter-house-of-dragons.json](./313221-legend-of-the-hunter-house-of-dragons.json) |
 | Legend of the Knucker-Hole | 62452 | [62452-legend-of-the-knucker-hole.json](./62452-legend-of-the-knucker-hole.json) |
 | Legend of the Lost Dragons | 134580 | [134580-legend-of-the-lost-dragons.json](./134580-legend-of-the-lost-dragons.json) |
+| Legend of the Ma On | 252662 | [252662-legend-of-the-ma-on.json](./252662-legend-of-the-ma-on.json) |
 | Legend of the Master Baiter | 303625 | [303625-legend-of-the-master-baiter.json](./303625-legend-of-the-master-baiter.json) |
 | Legend of the Master Baiter Origins: Gills Gone Wild | 395826 | [395826-legend-of-the-master-baiter-origins-gills-gone-wild.json](./395826-legend-of-the-master-baiter-origins-gills-gone-wild.json) |
 | Legend of the Moon | 207830 | [207830-legend-of-the-moon.json](./207830-legend-of-the-moon.json) |
@@ -2588,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loaders, Inc. | 392148 | [392148-loaders-inc.json](./392148-loaders-inc.json) |
 | Loading Human: Chapter 1 | 42897 | [42897-loading-human-chapter-1.json](./42897-loading-human-chapter-1.json) |
 | Loading Screen Simulator | 43136 | [43136-loading-screen-simulator.json](./43136-loading-screen-simulator.json) |
+| Loading Simulator | 252668 | [252668-loading-simulator.json](./252668-loading-simulator.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
 | Loading... | 365761 | [365761-loading.json](./365761-loading.json) |
 | Loaf: The Video Game | 408148 | [408148-loaf-the-video-game.json](./408148-loaf-the-video-game.json) |
