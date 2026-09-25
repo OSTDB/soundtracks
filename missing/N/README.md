@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA: Road to the Final Four - 1991-92 Edition | 15505 | [15505-ncaa-road-to-the-final-four-1991-92-edition.json](./15505-ncaa-road-to-the-final-four-1991-92-edition.json) |
 | NCAA: Road to the Final Four 2 | 15506 | [15506-ncaa-road-to-the-final-four-2.json](./15506-ncaa-road-to-the-final-four-2.json) |
 | NCH: Chronos Rebirth | 403788 | [403788-nch-chronos-rebirth.json](./403788-nch-chronos-rebirth.json) |
+| NCL: USA Bowl | 237298 | [237298-ncl-usa-bowl.json](./237298-ncl-usa-bowl.json) |
 | NCORE | 330133 | [330133-ncore.json](./330133-ncore.json) |
 | NCradle | 83522 | [83522-ncradle.json](./83522-ncradle.json) |
 | NDE Rescue | 31857 | [31857-nde-rescue.json](./31857-nde-rescue.json) |
@@ -2573,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram: Master's Legacy - The Speed Pack | 349415 | [349415-nonogram-masters-legacy-the-speed-pack.json](./349415-nonogram-masters-legacy-the-speed-pack.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Nonomatic | 371453 | [371453-nonomatic.json](./371453-nonomatic.json) |
+| Nonotown | 238467 | [238467-nonotown.json](./238467-nonotown.json) |
 | Nonozle: Food and Drink + Miscellaneous Puzzle Packs | 332610 | [332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json](./332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json) |
 | Nonsense Fall | 348937 | [348937-nonsense-fall.json](./348937-nonsense-fall.json) |
 | Nonstop Arrow | 246931 | [246931-nonstop-arrow.json](./246931-nonstop-arrow.json) |
