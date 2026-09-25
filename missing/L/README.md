@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
 | Land of Runes | 175801 | [175801-land-of-runes.json](./175801-land-of-runes.json) |
 | Land of Screens | 137110 | [137110-land-of-screens.json](./137110-land-of-screens.json) |
+| Land of Tales | 244736 | [244736-land-of-tales.json](./244736-land-of-tales.json) |
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
 | Land of the Vikings | 211376 | [211376-land-of-the-vikings.json](./211376-land-of-the-vikings.json) |
@@ -580,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Signal | 257982 | [257982-last-signal.json](./257982-last-signal.json) |
 | Last Soldier | 52270 | [52270-last-soldier.json](./52270-last-soldier.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
+| Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
 | Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
 | Last Stand: Reborn | 113490 | [113490-last-stand-reborn.json](./113490-last-stand-reborn.json) |
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
@@ -1985,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith | 413898 | [413898-lilith.json](./413898-lilith.json) |
 | Lilith Hall | 266877 | [266877-lilith-hall.json](./266877-lilith-hall.json) |
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
+| Lilith Wants to Buy Your Soul | 244745 | [244745-lilith-wants-to-buy-your-soul.json](./244745-lilith-wants-to-buy-your-soul.json) |
 | Lilith Was Dead | 163839 | [163839-lilith-was-dead.json](./163839-lilith-was-dead.json) |
 | Lilith's Game | 339998 | [339998-liliths-game.json](./339998-liliths-game.json) |
 | Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
@@ -3264,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Station | 250866 | [250866-lost-station.json](./250866-lost-station.json) |
 | Lost Summoner Kitty | 80900 | [80900-lost-summoner-kitty.json](./80900-lost-summoner-kitty.json) |
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
+| Lost Surreal Hell | 244751 | [244751-lost-surreal-hell.json](./244751-lost-surreal-hell.json) |
 | Lost Sword | 353867 | [353867-lost-sword.json](./353867-lost-sword.json) |
 | Lost Tales: Karai Vosa | 376134 | [376134-lost-tales-karai-vosa.json](./376134-lost-tales-karai-vosa.json) |
 | Lost Tenet | 260213 | [260213-lost-tenet.json](./260213-lost-tenet.json) |
