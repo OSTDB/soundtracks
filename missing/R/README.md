@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Land | 372671 | [372671-red-land.json](./372671-red-land.json) |
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
 | Red Lightning | 57630 | [57630-red-lightning.json](./57630-red-lightning.json) |
+| Red Line | 272888 | [272888-red-line.json](./272888-red-line.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red Max | 49561 | [49561-red-max.json](./49561-red-max.json) |
