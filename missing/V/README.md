@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
 | Vegas Infinite by PokerStars | 110104 | [110104-vegas-infinite-by-pokerstars.json](./110104-vegas-infinite-by-pokerstars.json) |
 | Vegas Party | 85832 | [85832-vegas-party.json](./85832-vegas-party.json) |
+| Vegas Royal Jackpot CSS | 232370 | [232370-vegas-royal-jackpot-css.json](./232370-vegas-royal-jackpot-css.json) |
 | Vegas Stakes | 38410 | [38410-vegas-stakes.json](./38410-vegas-stakes.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
 | Vege Bubble Shoot | 278490 | [278490-vege-bubble-shoot.json](./278490-vege-bubble-shoot.json) |
