@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samus Goes to the Fridge to Get a Glass of Milk II | 226403 | [226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json](./226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json) |
 | Samuza | 287215 | [287215-samuza.json](./287215-samuza.json) |
 | San Andreas Multiplayer | 199038 | [199038-san-andreas-multiplayer.json](./199038-san-andreas-multiplayer.json) |
+| San Francisco Rush 2049 | 249133 | [249133-san-francisco-rush-2049.json](./249133-san-francisco-rush-2049.json) |
 | San Francisco Rush 2049 | 3596 | [3596-san-francisco-rush-2049.json](./3596-san-francisco-rush-2049.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
 | San Francisco Rush: Extreme Racing | 3595 | [3595-san-francisco-rush-extreme-racing.json](./3595-san-francisco-rush-extreme-racing.json) |
@@ -8504,7 +8505,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: 060 - FX Mod: Comic Book Mode | 363373 | [363373-spider-man-060-fx-mod-comic-book-mode.json](./363373-spider-man-060-fx-mod-comic-book-mode.json) |
 | Spider-Man: City Raid | 337120 | [337120-spider-man-city-raid.json](./337120-spider-man-city-raid.json) |
 | Spider-Man: Edge of Time | 218005 | [218005-spider-man-edge-of-time.json](./218005-spider-man-edge-of-time.json) |
+| Spider-Man: Edge of Time | 249160 | [249160-spider-man-edge-of-time.json](./249160-spider-man-edge-of-time.json) |
 | Spider-Man: Edge of Time | 249161 | [249161-spider-man-edge-of-time.json](./249161-spider-man-edge-of-time.json) |
+| Spider-Man: Friend or Foe | 249163 | [249163-spider-man-friend-or-foe.json](./249163-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
 | Spider-Man: Mysterio's Menace | 6605 | [6605-spider-man-mysterios-menace.json](./6605-spider-man-mysterios-menace.json) |
 | Spider-Man: Shattered Dimensions | 142254 | [142254-spider-man-shattered-dimensions.json](./142254-spider-man-shattered-dimensions.json) |
