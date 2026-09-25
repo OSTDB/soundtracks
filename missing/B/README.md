@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Park | 91375 | [91375-ball-park.json](./91375-ball-park.json) |
 | Ball Physics Draw Puzzles | 166677 | [166677-ball-physics-draw-puzzles.json](./166677-ball-physics-draw-puzzles.json) |
 | Ball Physics Draw Puzzles 2 | 187356 | [187356-ball-physics-draw-puzzles-2.json](./187356-ball-physics-draw-puzzles-2.json) |
+| Ball Pit King 3D | 276257 | [276257-ball-pit-king-3d.json](./276257-ball-pit-king-3d.json) |
 | Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
 | Ball Relay | 108471 | [108471-ball-relay.json](./108471-ball-relay.json) |
@@ -1508,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
 | Battle of Atlantis | 85845 | [85845-battle-of-atlantis.json](./85845-battle-of-atlantis.json) |
+| Battle of BackYard | 276260 | [276260-battle-of-backyard.json](./276260-battle-of-backyard.json) |
 | Battle of Blades | 68330 | [68330-battle-of-blades.json](./68330-battle-of-blades.json) |
 | Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
@@ -1641,10 +1643,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleborn: Phoebe and the Heart of Ekkunar | 403141 | [403141-battleborn-phoebe-and-the-heart-of-ekkunar.json](./403141-battleborn-phoebe-and-the-heart-of-ekkunar.json) |
 | Battleborn: Toby's Friendship Raid | 403135 | [403135-battleborn-tobys-friendship-raid.json](./403135-battleborn-tobys-friendship-raid.json) |
 | Battlebots | 200686 | [200686-battlebots.json](./200686-battlebots.json) |
+| Battlecade | 276256 | [276256-battlecade.json](./276256-battlecade.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
 | BattleCards Saga | 319716 | [319716-battlecards-saga.json](./319716-battlecards-saga.json) |
 | Battlecaster | 188670 | [188670-battlecaster.json](./188670-battlecaster.json) |
 | Battlecaster 2 | 386231 | [386231-battlecaster-2.json](./386231-battlecaster-2.json) |
+| Battlechat | 276245 | [276245-battlechat.json](./276245-battlechat.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
 | BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
 | BattleCrew: Space Pirates | 26807 | [26807-battlecrew-space-pirates.json](./26807-battlecrew-space-pirates.json) |
@@ -3757,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleb | 346792 | [346792-bleb.json](./346792-bleb.json) |
 | Bleed | 9706 | [9706-bleed.json](./9706-bleed.json) |
 | Bleed Complete Bundle | 118854 | [118854-bleed-complete-bundle.json](./118854-bleed-complete-bundle.json) |
+| Bleed Runner | 276237 | [276237-bleed-runner.json](./276237-bleed-runner.json) |
 | Bleed: Deluxe Edition | 118954 | [118954-bleed-deluxe-edition.json](./118954-bleed-deluxe-edition.json) |
 | Bleeding Border | 34250 | [34250-bleeding-border.json](./34250-bleeding-border.json) |
 | Bleeding Canvas | 248729 | [248729-bleeding-canvas.json](./248729-bleeding-canvas.json) |
@@ -5646,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Summer Championship 2018 Pack | 342627 | [342627-brawlhalla-summer-championship-2018-pack.json](./342627-brawlhalla-summer-championship-2018-pack.json) |
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
+| Brawlygon | 276252 | [276252-brawlygon.json](./276252-brawlygon.json) |
 | Brayan Odleys Numbers | 74377 | [74377-brayan-odleys-numbers.json](./74377-brayan-odleys-numbers.json) |
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
 | Braziball | 138587 | [138587-braziball.json](./138587-braziball.json) |
@@ -6149,6 +6155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble | 287650 | [287650-bubble.json](./287650-bubble.json) |
 | Bubble | 88295 | [88295-bubble.json](./88295-bubble.json) |
 | Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
+| Bubble Ball! | 276240 | [276240-bubble-ball.json](./276240-bubble-ball.json) |
 | Bubble Bath Babes | 48677 | [48677-bubble-bath-babes.json](./48677-bubble-bath-babes.json) |
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
 | Bubble Bird | 250395 | [250395-bubble-bird.json](./250395-bubble-bird.json) |
@@ -6508,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
+| Bumper Ball Bash | 276229 | [276229-bumper-ball-bash.json](./276229-bumper-ball-bash.json) |
 | Bumper Brawlers | 373078 | [373078-bumper-brawlers.json](./373078-bumper-brawlers.json) |
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
 | Bumper.io | 106376 | [106376-bumper-io.json](./106376-bumper-io.json) |
