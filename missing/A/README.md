@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Park Full of Cats: Haunted Ride | 276234 | [276234-a-park-full-of-cats-haunted-ride.json](./276234-a-park-full-of-cats-haunted-ride.json) |
 | A part of me | 294229 | [294229-a-part-of-me.json](./294229-a-part-of-me.json) |
 | A Passive Boy at the Huntress Clinic | 232425 | [232425-a-passive-boy-at-the-huntress-clinic.json](./232425-a-passive-boy-at-the-huntress-clinic.json) |
+| A Passive Boy at the Huntress Clinic | 240215 | [240215-a-passive-boy-at-the-huntress-clinic.json](./240215-a-passive-boy-at-the-huntress-clinic.json) |
 | A Past and Future Secret | 271200 | [271200-a-past-and-future-secret.json](./271200-a-past-and-future-secret.json) |
 | A Perfect Day | 384775 | [384775-a-perfect-day.json](./384775-a-perfect-day.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
@@ -615,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstractanoid | 68851 | [68851-abstractanoid.json](./68851-abstractanoid.json) |
 | Abstraction | 154572 | [154572-abstraction.json](./154572-abstraction.json) |
 | Abstracto | 283874 | [283874-abstracto.json](./283874-abstracto.json) |
+| Absurd | 240208 | [240208-absurd.json](./240208-absurd.json) |
 | Absurd Trolley Problems | 267592 | [267592-absurd-trolley-problems.json](./267592-absurd-trolley-problems.json) |
 | Abunai Josei Shinrigaku Nyuumon | 269683 | [269683-abunai-josei-shinrigaku-nyuumon.json](./269683-abunai-josei-shinrigaku-nyuumon.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
@@ -1064,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Quiz: Capcom World - Hatena no Daibouken | 77012 | [77012-adventure-quiz-capcom-world-hatena-no-daibouken.json](./77012-adventure-quiz-capcom-world-hatena-no-daibouken.json) |
 | Adventure Racing 2 | 356278 | [356278-adventure-racing-2.json](./356278-adventure-racing-2.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
+| Adventure Reborn | 240155 | [240155-adventure-reborn.json](./240155-adventure-reborn.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
 | Adventure Time Game Wizard: Draw Your Own Adventure Time Games | 88096 | [88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json](./88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json) |
@@ -4993,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Moves | 11916 | [11916-army-moves.json](./11916-army-moves.json) |
 | Army of Ages | 286651 | [286651-army-of-ages.json](./286651-army-of-ages.json) |
 | Army of Darkness Doom 2 Total Conversion | 381149 | [381149-army-of-darkness-doom-2-total-conversion.json](./381149-army-of-darkness-doom-2-total-conversion.json) |
+| Army of Ninjas | 240195 | [240195-army-of-ninjas.json](./240195-army-of-ninjas.json) |
 | Army of One | 199494 | [199494-army-of-one.json](./199494-army-of-one.json) |
 | Army of Pixels | 34757 | [34757-army-of-pixels.json](./34757-army-of-pixels.json) |
 | Army of Ruin | 219057 | [219057-army-of-ruin.json](./219057-army-of-ruin.json) |
@@ -6121,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
+| Audubon Whales: Wildlife Adventure | 240150 | [240150-audubon-whales-wildlife-adventure.json](./240150-audubon-whales-wildlife-adventure.json) |
 | Auf Wiedersehen Monty | 13350 | [13350-auf-wiedersehen-monty.json](./13350-auf-wiedersehen-monty.json) |
 | Aufschwung Ost | 12395 | [12395-aufschwung-ost.json](./12395-aufschwung-ost.json) |
 | Augie Doggie and Doggie Daddy | 67274 | [67274-augie-doggie-and-doggie-daddy.json](./67274-augie-doggie-and-doggie-daddy.json) |
