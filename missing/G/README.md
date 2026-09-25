@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Blast | 311785 | [311785-gem-blast.json](./311785-gem-blast.json) |
 | Gem Brawl Duel | 399732 | [399732-gem-brawl-duel.json](./399732-gem-brawl-duel.json) |
 | Gem Crush Match-3 | 397258 | [397258-gem-crush-match-3.json](./397258-gem-crush-match-3.json) |
+| Gem Defense | 256226 | [256226-gem-defense.json](./256226-gem-defense.json) |
 | Gem Gem Monster | 228551 | [228551-gem-gem-monster.json](./228551-gem-gem-monster.json) |
 | Gem Hunter | 304160 | [304160-gem-hunter.json](./304160-gem-hunter.json) |
 | Gem Island | 326812 | [326812-gem-island.json](./326812-gem-island.json) |
