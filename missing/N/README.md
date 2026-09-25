@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerdtastic Norman & The Soul Fragments | 295400 | [295400-nerdtastic-norman-and-the-soul-fragments.json](./295400-nerdtastic-norman-and-the-soul-fragments.json) |
 | Nerf Arena Blast | 68701 | [68701-nerf-arena-blast.json](./68701-nerf-arena-blast.json) |
 | Nerf Jr. Foam Balster: Attack of The Kleptons | 210037 | [210037-nerf-jr-foam-balster-attack-of-the-kleptons.json](./210037-nerf-jr-foam-balster-attack-of-the-kleptons.json) |
+| NERF Legends: Elite Blaster Combo Pack | 262314 | [262314-nerf-legends-elite-blaster-combo-pack.json](./262314-nerf-legends-elite-blaster-combo-pack.json) |
 | Nerf: Battle Arena | 197329 | [197329-nerf-battle-arena.json](./197329-nerf-battle-arena.json) |
 | Nerl's Crazy C"rough"t! | 311598 | [311598-nerls-crazy-c-rough-t.json](./311598-nerls-crazy-c-rough-t.json) |
 | Nerts Extreme | 107660 | [107660-nerts-extreme.json](./107660-nerts-extreme.json) |
@@ -1397,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Day: Survival | 51495 | [51495-next-day-survival.json](./51495-next-day-survival.json) |
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
+| Next Move | 262295 | [262295-next-move.json](./262295-next-move.json) |
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
 | Next Quintillionaire | 391611 | [391611-next-quintillionaire.json](./391611-next-quintillionaire.json) |
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
@@ -1759,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightingale Downs | 74112 | [74112-nightingale-downs.json](./74112-nightingale-downs.json) |
 | Nightingale: Realms Rebuilt | 314408 | [314408-nightingale-realms-rebuilt.json](./314408-nightingale-realms-rebuilt.json) |
 | Nightlatch: Haunted House | 414411 | [414411-nightlatch-haunted-house.json](./414411-nightlatch-haunted-house.json) |
+| Nightlife | 262308 | [262308-nightlife.json](./262308-nightlife.json) |
 | Nightline | 132031 | [132031-nightline.json](./132031-nightline.json) |
 | Nightly Maintenance | 196852 | [196852-nightly-maintenance.json](./196852-nightly-maintenance.json) |
 | NightmAR Protocol | 158074 | [158074-nightmar-protocol.json](./158074-nightmar-protocol.json) |
