@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm on Merrymaking Watch | 237948 | [237948-im-on-merrymaking-watch.json](./237948-im-on-merrymaking-watch.json) |
 | I'm on Observation Duty 4 | 184481 | [184481-im-on-observation-duty-4.json](./184481-im-on-observation-duty-4.json) |
+| I'm on Observation Duty 6 | 254443 | [254443-im-on-observation-duty-6.json](./254443-im-on-observation-duty-6.json) |
 | I'm on Sorority Duty | 372672 | [372672-im-on-sorority-duty.json](./372672-im-on-sorority-duty.json) |
 | I'm Only Sleeping | 71001 | [71001-im-only-sleeping.json](./71001-im-only-sleeping.json) |
 | I'm Pregnant at 16 | 336639 | [336639-im-pregnant-at-16.json](./336639-im-pregnant-at-16.json) |
@@ -350,6 +351,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iAmBored Throw It Deluxe | 101527 | [101527-iambored-throw-it-deluxe.json](./101527-iambored-throw-it-deluxe.json) |
 | Ian Botham's Cricket | 74062 | [74062-ian-bothams-cricket.json](./74062-ian-bothams-cricket.json) |
 | Ian Botham's Test Match | 15574 | [15574-ian-bothams-test-match.json](./15574-ian-bothams-test-match.json) |
+| IAssociate | 254453 | [254453-iassociate.json](./254453-iassociate.json) |
+| IAssociate 2 | 254457 | [254457-iassociate-2.json](./254457-iassociate-2.json) |
 | Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
 | Ibb & Obb | 9139 | [9139-ibb-and-obb.json](./9139-ibb-and-obb.json) |
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
