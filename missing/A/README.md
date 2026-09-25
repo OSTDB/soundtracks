@@ -2958,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Empty House | 360730 | [360730-an-empty-house.json](./360730-an-empty-house.json) |
 | An English Haunting | 258723 | [258723-an-english-haunting.json](./258723-an-english-haunting.json) |
 | An Eternity Gone By | 294276 | [294276-an-eternity-gone-by.json](./294276-an-eternity-gone-by.json) |
+| An Evening of Wonders | 258941 | [258941-an-evening-of-wonders.json](./258941-an-evening-of-wonders.json) |
 | An Idle Nightmare | 334839 | [334839-an-idle-nightmare.json](./334839-an-idle-nightmare.json) |
 | An Imp and an Impostor | 378174 | [378174-an-imp-and-an-impostor.json](./378174-an-imp-and-an-impostor.json) |
 | An Island Away | 293090 | [293090-an-island-away.json](./293090-an-island-away.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Fauna: Cozy Puzzles+ | 415280 | [415280-art-of-fauna-cozy-puzzles.json](./415280-art-of-fauna-cozy-puzzles.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Glide II | 306530 | [306530-art-of-glide-ii.json](./306530-art-of-glide-ii.json) |
+| Art of Golf | 259045 | [259045-art-of-golf.json](./259045-art-of-golf.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
 | Art of Murder: FBI Confidential | 9986 | [9986-art-of-murder-fbi-confidential.json](./9986-art-of-murder-fbi-confidential.json) |
 | Art of Not Getting Found | 180670 | [180670-art-of-not-getting-found.json](./180670-art-of-not-getting-found.json) |
