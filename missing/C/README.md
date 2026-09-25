@@ -3849,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicko | 351597 | [351597-clicko.json](./351597-clicko.json) |
 | Clickomania! | 64437 | [64437-clickomania.json](./64437-clickomania.json) |
 | ClickRaid | 50512 | [50512-clickraid.json](./50512-clickraid.json) |
+| Clicks Of Courage | 249717 | [249717-clicks-of-courage.json](./249717-clicks-of-courage.json) |
 | ClickShot | 381739 | [381739-clickshot.json](./381739-clickshot.json) |
 | ClickTown | 391315 | [391315-clicktown.json](./391315-clicktown.json) |
 | Clicky & Yo | 389962 | [389962-clicky-and-yo.json](./389962-clicky-and-yo.json) |
@@ -7357,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubix: Robots For Everyone - Race 'N Robots | 49897 | [49897-cubix-robots-for-everyone-race-n-robots.json](./49897-cubix-robots-for-everyone-race-n-robots.json) |
 | Cubiya | 164881 | [164881-cubiya.json](./164881-cubiya.json) |
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
+| Cuboid Stack | 249731 | [249731-cuboid-stack.json](./249731-cuboid-stack.json) |
 | Cubosphere | 238065 | [238065-cubosphere.json](./238065-cubosphere.json) |
 | Cubot | 36000 | [36000-cubot.json](./36000-cubot.json) |
 | Cuboy | 251692 | [251692-cuboy.json](./251692-cuboy.json) |
@@ -7481,6 +7483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Cases | 116470 | [116470-curious-cases.json](./116470-curious-cases.json) |
 | Curious Expedition | 19319 | [19319-curious-expedition.json](./19319-curious-expedition.json) |
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
+| Curious Fishing | 249746 | [249746-curious-fishing.json](./249746-curious-fishing.json) |
 | Curious George Early Learning Adventure | 384220 | [384220-curious-george-early-learning-adventure.json](./384220-curious-george-early-learning-adventure.json) |
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
@@ -7678,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Puppy Academy | 328547 | [328547-cute-puppy-academy.json](./328547-cute-puppy-academy.json) |
 | Cute Puzzle | 111015 | [111015-cute-puzzle.json](./111015-cute-puzzle.json) |
 | Cute Puzzle MAX | 111079 | [111079-cute-puzzle-max.json](./111079-cute-puzzle-max.json) |
+| Cute Puzzles!!! | 249758 | [249758-cute-puzzles.json](./249758-cute-puzzles.json) |
 | Cute Snake | 193473 | [193473-cute-snake.json](./193473-cute-snake.json) |
 | Cute Socks | 310722 | [310722-cute-socks.json](./310722-cute-socks.json) |
 | Cute Star Heroes | 349471 | [349471-cute-star-heroes.json](./349471-cute-star-heroes.json) |
