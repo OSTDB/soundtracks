@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves of the Imperial Garden | 343810 | [343810-waves-of-the-imperial-garden.json](./343810-waves-of-the-imperial-garden.json) |
 | Waves Out! | 142855 | [142855-waves-out.json](./142855-waves-out.json) |
 | Waves Running Simulator | 195125 | [195125-waves-running-simulator.json](./195125-waves-running-simulator.json) |
+| Waves Running Simulator | 246882 | [246882-waves-running-simulator.json](./246882-waves-running-simulator.json) |
 | Waves: Arena Tactics | 93630 | [93630-waves-arena-tactics.json](./93630-waves-arena-tactics.json) |
 | Wavetale | 165309 | [165309-wavetale.json](./165309-wavetale.json) |
 | Wavey the Rocket | 112513 | [112513-wavey-the-rocket.json](./112513-wavey-the-rocket.json) |
