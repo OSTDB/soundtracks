@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Picker | 292627 | [292627-gold-picker.json](./292627-gold-picker.json) |
 | Gold Runner | 146816 | [146816-gold-runner.json](./146816-gold-runner.json) |
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
+| Gold Rush Clicker | 264658 | [264658-gold-rush-clicker.json](./264658-gold-rush-clicker.json) |
 | Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
 | Gold Rush! Anniversary | 36230 | [36230-gold-rush-anniversary.json](./36230-gold-rush-anniversary.json) |
 | Gold Rush! Anniversary: Special Edition | 54055 | [54055-gold-rush-anniversary-special-edition.json](./54055-gold-rush-anniversary-special-edition.json) |
