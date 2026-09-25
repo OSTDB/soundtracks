@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back from Void | 275069 | [275069-back-from-void.json](./275069-back-from-void.json) |
 | Back Home for Christmas | 175840 | [175840-back-home-for-christmas.json](./175840-back-home-for-christmas.json) |
 | Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
+| Back Rank Chess | 232923 | [232923-back-rank-chess.json](./232923-back-rank-chess.json) |
 | Back Rank Chess: Zombie Strike | 289341 | [289341-back-rank-chess-zombie-strike.json](./289341-back-rank-chess-zombie-strike.json) |
 | Back Rooms: Ground Zero | 250641 | [250641-back-rooms-ground-zero.json](./250641-back-rooms-ground-zero.json) |
 | Back Street Soccer | 38538 | [38538-back-street-soccer.json](./38538-back-street-soccer.json) |
@@ -1868,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka of the Red Dragon | 68969 | [68969-bazooka-of-the-red-dragon.json](./68969-bazooka-of-the-red-dragon.json) |
 | BazookaCat | 266824 | [266824-bazookacat.json](./266824-bazookacat.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
+| BBirthday | 232949 | [232949-bbirthday.json](./232949-bbirthday.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
 | BBOnline | 130327 | [130327-bbonline.json](./130327-bbonline.json) |
 | BBOnline 2017 | 130318 | [130318-bbonline-2017.json](./130318-bbonline-2017.json) |
