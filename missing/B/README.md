@@ -6651,6 +6651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BulletHell Planes | 135045 | [135045-bullethell-planes.json](./135045-bullethell-planes.json) |
 | Bulletline | 101365 | [101365-bulletline.json](./101365-bulletline.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
+| Bulletproof | 235697 | [235697-bulletproof.json](./235697-bulletproof.json) |
 | Bulletreign: Survivors | 406200 | [406200-bulletreign-survivors.json](./406200-bulletreign-survivors.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
 | Bullets | 368483 | [368483-bullets.json](./368483-bullets.json) |
