@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nina Aquila: Legal Eagle, Season One | 152936 | [152936-nina-aquila-legal-eagle-season-one.json](./152936-nina-aquila-legal-eagle-season-one.json) |
 | Nina in Depravity | 333615 | [333615-nina-in-depravity.json](./333615-nina-in-depravity.json) |
 | Nina: Agent Chronicles | 24090 | [24090-nina-agent-chronicles.json](./24090-nina-agent-chronicles.json) |
+| Ninano: Dream Ranch | 235676 | [235676-ninano-dream-ranch.json](./235676-ninano-dream-ranch.json) |
 | Nindo: Guardian of the Starlit Shadow | 342050 | [342050-nindo-guardian-of-the-starlit-shadow.json](./342050-nindo-guardian-of-the-starlit-shadow.json) |
 | Nine Errand | 274512 | [274512-nine-errand.json](./274512-nine-errand.json) |
 | Nine Hentai Babes | 368513 | [368513-nine-hentai-babes.json](./368513-nine-hentai-babes.json) |
