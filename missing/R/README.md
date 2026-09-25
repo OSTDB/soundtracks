@@ -1420,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recipe for Disaster | 146273 | [146273-recipe-for-disaster.json](./146273-recipe-for-disaster.json) |
 | Recipe of Love | 376709 | [376709-recipe-of-love.json](./376709-recipe-of-love.json) |
 | Recital of the Heart | 335366 | [335366-recital-of-the-heart.json](./335366-recital-of-the-heart.json) |
+| Reckless Auto Racing | 230779 | [230779-reckless-auto-racing.json](./230779-reckless-auto-racing.json) |
 | Reckless Drive | 335266 | [335266-reckless-drive.json](./335266-reckless-drive.json) |
 | Reckless Driver | 204067 | [204067-reckless-driver.json](./204067-reckless-driver.json) |
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
@@ -4485,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
 | Rounds | 145341 | [145341-rounds.json](./145341-rounds.json) |
+| Rounds of Reckoning | 230794 | [230794-rounds-of-reckoning.json](./230794-rounds-of-reckoning.json) |
 | Roundscape Adorevia | 82881 | [82881-roundscape-adorevia.json](./82881-roundscape-adorevia.json) |
 | RoundUrbs | 350413 | [350413-roundurbs.json](./350413-roundurbs.json) |
 | Roundy | 38919 | [38919-roundy.json](./38919-roundy.json) |
@@ -4868,6 +4870,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Think Shoot | 253041 | [253041-run-think-shoot.json](./253041-run-think-shoot.json) |
 | Run to Infinity | 227841 | [227841-run-to-infinity.json](./227841-run-to-infinity.json) |
 | Run to Infinity: Easy Mode | 229170 | [229170-run-to-infinity-easy-mode.json](./229170-run-to-infinity-easy-mode.json) |
+| Run to Infinity: Hard Mode | 230777 | [230777-run-to-infinity-hard-mode.json](./230777-run-to-infinity-hard-mode.json) |
+| Run to Infinity: Impossible Mode | 230778 | [230778-run-to-infinity-impossible-mode.json](./230778-run-to-infinity-impossible-mode.json) |
 | Run to Nowhere | 206705 | [206705-run-to-nowhere.json](./206705-run-to-nowhere.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
