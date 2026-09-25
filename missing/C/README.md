@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Brain | 393796 | [393796-candy-brain.json](./393796-candy-brain.json) |
 | Candy Country: Sweet Wonder | 338003 | [338003-candy-country-sweet-wonder.json](./338003-candy-country-sweet-wonder.json) |
 | Candy Coven | 177943 | [177943-candy-coven.json](./177943-candy-coven.json) |
+| Candy Creeps | 227814 | [227814-candy-creeps.json](./227814-candy-creeps.json) |
 | Candy Crisis | 265261 | [265261-candy-crisis.json](./265261-candy-crisis.json) |
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
@@ -777,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parkour Together | 381147 | [381147-car-parkour-together.json](./381147-car-parkour-together.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
 | Car Polo | 19371 | [19371-car-polo.json](./19371-car-polo.json) |
+| Car Puzzle for Toddlers and Kids | 227775 | [227775-car-puzzle-for-toddlers-and-kids.json](./227775-car-puzzle-for-toddlers-and-kids.json) |
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
 | Car Racing Extreme | 99398 | [99398-car-racing-extreme.json](./99398-car-racing-extreme.json) |
@@ -2524,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
+| Chess Challenger | 227821 | [227821-chess-challenger.json](./227821-chess-challenger.json) |
 | Chess Defense Saga | 234200 | [234200-chess-defense-saga.json](./234200-chess-defense-saga.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
