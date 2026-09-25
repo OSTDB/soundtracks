@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Farming | 175281 | [175281-bee-farming.json](./175281-bee-farming.json) |
 | Bee Fighting | 247014 | [247014-bee-fighting.json](./247014-bee-fighting.json) |
 | Bee Flowers | 330941 | [330941-bee-flowers.json](./330941-bee-flowers.json) |
+| Bee Garden: The Lost Queen | 263453 | [263453-bee-garden-the-lost-queen.json](./263453-bee-garden-the-lost-queen.json) |
 | Bee Hero: Bug Blaster | 312139 | [312139-bee-hero-bug-blaster.json](./312139-bee-hero-bug-blaster.json) |
 | Bee Holder | 184505 | [184505-bee-holder.json](./184505-bee-holder.json) |
 | Bee in the Valley | 250384 | [250384-bee-in-the-valley.json](./250384-bee-in-the-valley.json) |
@@ -4967,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
+| Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
 | Boom Buddy | 368491 | [368491-boom-buddy.json](./368491-boom-buddy.json) |
 | Boom Dojo | 148917 | [148917-boom-dojo.json](./148917-boom-dojo.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
