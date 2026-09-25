@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks | 102253 | [102253-tanks.json](./102253-tanks.json) |
 | Tanks | 259625 | [259625-tanks.json](./259625-tanks.json) |
 | Tanks 3D | 328019 | [328019-tanks-3d.json](./328019-tanks-3d.json) |
+| Tanks and Turrets 3 | 247439 | [247439-tanks-and-turrets-3.json](./247439-tanks-and-turrets-3.json) |
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
 | Tanks But No Tanks | 40724 | [40724-tanks-but-no-tanks.json](./40724-tanks-but-no-tanks.json) |
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
@@ -951,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
+| Tap Gun | 247436 | [247436-tap-gun.json](./247436-tap-gun.json) |
 | Tap It Away | 304169 | [304169-tap-it-away.json](./304169-tap-it-away.json) |
 | Tap Jockey | 175260 | [175260-tap-jockey.json](./175260-tap-jockey.json) |
 | Tap knife VIP | 105959 | [105959-tap-knife-vip.json](./105959-tap-knife-vip.json) |
@@ -6727,6 +6729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stickman | 341027 | [341027-the-stickman.json](./341027-the-stickman.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
+| The Stoevi Curse | 247476 | [247476-the-stoevi-curse.json](./247476-the-stoevi-curse.json) |
 | The Stone | 55448 | [55448-the-stone.json](./55448-the-stone.json) |
 | The Stone of Anamara: First Chapter | 186145 | [186145-the-stone-of-anamara-first-chapter.json](./186145-the-stone-of-anamara-first-chapter.json) |
 | The Stone of Destiny | 284322 | [284322-the-stone-of-destiny.json](./284322-the-stone-of-destiny.json) |
@@ -10808,6 +10811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
 | Tractor Farmer | 86710 | [86710-tractor-farmer.json](./86710-tractor-farmer.json) |
 | Tractor Farming Simulator 3D | 300844 | [300844-tractor-farming-simulator-3d.json](./300844-tractor-farming-simulator-3d.json) |
+| Tractor Hero | 247435 | [247435-tractor-hero.json](./247435-tractor-hero.json) |
 | Tractor Journey | 223154 | [223154-tractor-journey.json](./223154-tractor-journey.json) |
 | Tractor Racers | 392288 | [392288-tractor-racers.json](./392288-tractor-racers.json) |
 | Tractor Racing ( 3D Heavy Monster Truck Race Game on Dirt Track ) | 102577 | [102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json](./102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json) |
