@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T05:47:50.257Z",
-  "total_missing": 119493,
+  "generated_at": "2026-09-25T06:04:59.424Z",
+  "total_missing": 119593,
   "games": [
     {
       "igdb_id": 176875,
@@ -2778,6 +2778,11 @@
       "file": "missing/0-9/107146-2048-solitaire-plus.json"
     },
     {
+      "igdb_id": 268503,
+      "game_name": "2048-F8",
+      "file": "missing/0-9/268503-2048-f8.json"
+    },
+    {
       "igdb_id": 313244,
       "game_name": "2048: StarWars",
       "file": "missing/0-9/313244-2048-starwars.json"
@@ -3596,6 +3601,11 @@
       "igdb_id": 64907,
       "game_name": "3D Creation Station",
       "file": "missing/0-9/64907-3d-creation-station.json"
+    },
+    {
+      "igdb_id": 268507,
+      "game_name": "3D Crosswords",
+      "file": "missing/0-9/268507-3d-crosswords.json"
     },
     {
       "igdb_id": 300012,
@@ -23873,6 +23883,11 @@
       "file": "missing/A/127922-antarctic-girl.json"
     },
     {
+      "igdb_id": 268511,
+      "game_name": "Antarctic Tales Enhanced Edition",
+      "file": "missing/A/268511-antarctic-tales-enhanced-edition.json"
+    },
+    {
       "igdb_id": 400962,
       "game_name": "Antartica",
       "file": "missing/A/400962-antartica.json"
@@ -32806,6 +32821,16 @@
       "igdb_id": 226227,
       "game_name": "Astoaria",
       "file": "missing/A/226227-astoaria.json"
+    },
+    {
+      "igdb_id": 267891,
+      "game_name": "Aston Villa Club Football",
+      "file": "missing/A/267891-aston-villa-club-football.json"
+    },
+    {
+      "igdb_id": 267895,
+      "game_name": "Aston Villa Club Football 2005",
+      "file": "missing/A/267895-aston-villa-club-football-2005.json"
     },
     {
       "igdb_id": 57661,
@@ -46828,6 +46853,16 @@
       "file": "missing/B/124134-bayala-the-game.json"
     },
     {
+      "igdb_id": 267885,
+      "game_name": "Bayern Munich Club Football",
+      "file": "missing/B/267885-bayern-munich-club-football.json"
+    },
+    {
+      "igdb_id": 267901,
+      "game_name": "Bayern Munich Club Football 2005",
+      "file": "missing/B/267901-bayern-munich-club-football-2005.json"
+    },
+    {
       "igdb_id": 51154,
       "game_name": "Bayonetta 2: Bonus Edition",
       "file": "missing/B/51154-bayonetta-2-bonus-edition.json"
@@ -50913,6 +50948,11 @@
       "file": "missing/B/319187-beyond-astra.json"
     },
     {
+      "igdb_id": 267886,
+      "game_name": "Beyond Beco World",
+      "file": "missing/B/267886-beyond-beco-world.json"
+    },
+    {
       "igdb_id": 317417,
       "game_name": "Beyond Border",
       "file": "missing/B/317417-beyond-border.json"
@@ -53768,9 +53808,19 @@
       "file": "missing/B/178547-birkanoid.json"
     },
     {
+      "igdb_id": 267894,
+      "game_name": "Birmingham City Club Football 2005",
+      "file": "missing/B/267894-birmingham-city-club-football-2005.json"
+    },
+    {
       "igdb_id": 248675,
       "game_name": "Birmingham's Ghosts: Fear and Loathing",
       "file": "missing/B/248675-birminghams-ghosts-fear-and-loathing.json"
+    },
+    {
+      "igdb_id": 267903,
+      "game_name": "Birola World",
+      "file": "missing/B/267903-birola-world.json"
     },
     {
       "igdb_id": 62138,
@@ -55111,6 +55161,11 @@
       "igdb_id": 17555,
       "game_name": "Black the Fall",
       "file": "missing/B/17555-black-the-fall.json"
+    },
+    {
+      "igdb_id": 267981,
+      "game_name": "Black Touch '96",
+      "file": "missing/B/267981-black-touch-96.json"
     },
     {
       "igdb_id": 58824,
@@ -62228,6 +62283,11 @@
       "file": "missing/B/149432-booble-hentai.json"
     },
     {
+      "igdb_id": 268499,
+      "game_name": "Boobs",
+      "file": "missing/B/268499-boobs.json"
+    },
+    {
       "igdb_id": 344551,
       "game_name": "Boobs",
       "file": "missing/B/344551-boobs.json"
@@ -63216,6 +63276,16 @@
       "igdb_id": 33241,
       "game_name": "Borstal",
       "file": "missing/B/33241-borstal.json"
+    },
+    {
+      "igdb_id": 267884,
+      "game_name": "Borussia Dortmund Club Football",
+      "file": "missing/B/267884-borussia-dortmund-club-football.json"
+    },
+    {
+      "igdb_id": 267893,
+      "game_name": "Borussia Dortmund Club Football 2005",
+      "file": "missing/B/267893-borussia-dortmund-club-football-2005.json"
     },
     {
       "igdb_id": 378436,
@@ -82003,6 +82073,16 @@
       "file": "missing/C/58821-celtic-carnage.json"
     },
     {
+      "igdb_id": 267883,
+      "game_name": "Celtic FC Club Football",
+      "file": "missing/C/267883-celtic-fc-club-football.json"
+    },
+    {
+      "igdb_id": 267902,
+      "game_name": "Celtic FC Club Football 2005",
+      "file": "missing/C/267902-celtic-fc-club-football-2005.json"
+    },
+    {
       "igdb_id": 138212,
       "game_name": "Celtic Football Coach",
       "file": "missing/C/138212-celtic-football-coach.json"
@@ -84371,6 +84451,11 @@
       "igdb_id": 219157,
       "game_name": "Chell's Way to Home",
       "file": "missing/C/219157-chells-way-to-home.json"
+    },
+    {
+      "igdb_id": 267882,
+      "game_name": "Chelsea Club Football",
+      "file": "missing/C/267882-chelsea-club-football.json"
     },
     {
       "igdb_id": 267908,
@@ -102713,6 +102798,11 @@
       "file": "missing/C/331113-crank.json"
     },
     {
+      "igdb_id": 267964,
+      "game_name": "Crank & Watch: Octopus",
+      "file": "missing/C/267964-crank-and-watch-octopus.json"
+    },
+    {
       "igdb_id": 305911,
       "game_name": "Crank It Up!",
       "file": "missing/C/305911-crank-it-up.json"
@@ -103071,6 +103161,11 @@
       "igdb_id": 210235,
       "game_name": "Crash of the Titans",
       "file": "missing/C/210235-crash-of-the-titans.json"
+    },
+    {
+      "igdb_id": 268521,
+      "game_name": "Crash Pollito",
+      "file": "missing/C/268521-crash-pollito.json"
     },
     {
       "igdb_id": 1194,
@@ -108146,6 +108241,11 @@
       "igdb_id": 16812,
       "game_name": "Cube & Star: An Arbitrary Love",
       "file": "missing/C/16812-cube-and-star-an-arbitrary-love.json"
+    },
+    {
+      "igdb_id": 267970,
+      "game_name": "Cube 2x1",
+      "file": "missing/C/267970-cube-2x1.json"
     },
     {
       "igdb_id": 331994,
@@ -122133,6 +122233,11 @@
       "file": "missing/D/406310-defense-of-kyrath.json"
     },
     {
+      "igdb_id": 268505,
+      "game_name": "Defense of Nations",
+      "file": "missing/D/268505-defense-of-nations.json"
+    },
+    {
       "igdb_id": 141837,
       "game_name": "Defense of the Ass",
       "file": "missing/D/141837-defense-of-the-ass.json"
@@ -128421,6 +128526,11 @@
       "igdb_id": 239655,
       "game_name": "Digital Eclipse Arcade: Q.P.I.D.",
       "file": "missing/D/239655-digital-eclipse-arcade-q-p-i-d.json"
+    },
+    {
+      "igdb_id": 267969,
+      "game_name": "Digital Eclipse Bundle",
+      "file": "missing/D/267969-digital-eclipse-bundle.json"
     },
     {
       "igdb_id": 362924,
@@ -150828,6 +150938,11 @@
       "file": "missing/E/389442-either-eye.json"
     },
     {
+      "igdb_id": 267962,
+      "game_name": "Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition",
+      "file": "missing/E/267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 332517,
       "game_name": "Eiyuden Chronicle: Hundred Heroes - The Chapter of Marisa",
       "file": "missing/E/332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json"
@@ -160578,6 +160693,11 @@
       "file": "missing/E/73793-evets-the-ultimate-adventure.json"
     },
     {
+      "igdb_id": 267961,
+      "game_name": "Evhacon",
+      "file": "missing/E/267961-evhacon.json"
+    },
+    {
       "igdb_id": 129607,
       "game_name": "Evhacon 2",
       "file": "missing/E/129607-evhacon-2.json"
@@ -169753,6 +169873,11 @@
       "file": "missing/F/396596-fc-26-quiz.json"
     },
     {
+      "igdb_id": 267881,
+      "game_name": "FC Barcelona Club Football",
+      "file": "missing/F/267881-fc-barcelona-club-football.json"
+    },
+    {
       "igdb_id": 267909,
       "game_name": "FC Barcelona Club Football 2005",
       "file": "missing/F/267909-fc-barcelona-club-football-2005.json"
@@ -177131,6 +177256,11 @@
       "igdb_id": 368522,
       "game_name": "Flappy Bird Ultra",
       "file": "missing/F/368522-flappy-bird-ultra.json"
+    },
+    {
+      "igdb_id": 268501,
+      "game_name": "Flappy Birds 2",
+      "file": "missing/F/268501-flappy-birds-2.json"
     },
     {
       "igdb_id": 285478,
@@ -196803,6 +196933,11 @@
       "file": "missing/G/248892-get-out-joey.json"
     },
     {
+      "igdb_id": 268512,
+      "game_name": "Get Out of My Store!",
+      "file": "missing/G/268512-get-out-of-my-store.json"
+    },
+    {
       "igdb_id": 133995,
       "game_name": "Get Out of this Dungeon",
       "file": "missing/G/133995-get-out-of-this-dungeon.json"
@@ -213401,6 +213536,16 @@
       "igdb_id": 257436,
       "game_name": "Hamboy: AutoChess Survivor",
       "file": "missing/H/257436-hamboy-autochess-survivor.json"
+    },
+    {
+      "igdb_id": 267880,
+      "game_name": "Hamburg Club Football",
+      "file": "missing/H/267880-hamburg-club-football.json"
+    },
+    {
+      "igdb_id": 267904,
+      "game_name": "Hamburg Club Football 2005",
+      "file": "missing/H/267904-hamburg-club-football-2005.json"
     },
     {
       "igdb_id": 291510,
@@ -240158,6 +240303,11 @@
       "file": "missing/I/63890-igo-shinan.json"
     },
     {
+      "igdb_id": 268504,
+      "game_name": "Igo Time Trial: Shikatsu Daihyakka",
+      "file": "missing/I/268504-igo-time-trial-shikatsu-daihyakka.json"
+    },
+    {
       "igdb_id": 92295,
       "game_name": "Igo-Shinan '91",
       "file": "missing/I/92295-igo-shinan-91.json"
@@ -245703,6 +245853,11 @@
       "file": "missing/I/340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json"
     },
     {
+      "igdb_id": 267887,
+      "game_name": "Inter Milan Club Football",
+      "file": "missing/I/267887-inter-milan-club-football.json"
+    },
+    {
       "igdb_id": 267906,
       "game_name": "Inter Milan Club Football 2005",
       "file": "missing/I/267906-inter-milan-club-football-2005.json"
@@ -248368,6 +248523,11 @@
       "file": "missing/I/58759-ishi-go.json"
     },
     {
+      "igdb_id": 268506,
+      "game_name": "Ishida Yoshio Kudan no Igo Seiha",
+      "file": "missing/I/268506-ishida-yoshio-kudan-no-igo-seiha.json"
+    },
+    {
       "igdb_id": 126453,
       "game_name": "Ishidó: The Way of Stones",
       "file": "missing/I/126453-ishido-the-way-of-stones.json"
@@ -250211,6 +250371,11 @@
       "igdb_id": 3522,
       "game_name": "J.League Tactics Soccer",
       "file": "missing/J/3522-j-league-tactics-soccer.json"
+    },
+    {
+      "igdb_id": 268500,
+      "game_name": "J.League Virtual Stadium",
+      "file": "missing/J/268500-j-league-virtual-stadium.json"
     },
     {
       "igdb_id": 37200,
@@ -257743,6 +257908,16 @@
       "file": "missing/J/123562-juvenile-god.json"
     },
     {
+      "igdb_id": 267879,
+      "game_name": "Juventus Club Football",
+      "file": "missing/J/267879-juventus-club-football.json"
+    },
+    {
+      "igdb_id": 267900,
+      "game_name": "Juventus Club Football 2005",
+      "file": "missing/J/267900-juventus-club-football-2005.json"
+    },
+    {
       "igdb_id": 320740,
       "game_name": "Juxtastat",
       "file": "missing/J/320740-juxtastat.json"
@@ -260791,6 +260966,11 @@
       "igdb_id": 37965,
       "game_name": "Keiba Eight Special 2",
       "file": "missing/K/37965-keiba-eight-special-2.json"
+    },
+    {
+      "igdb_id": 268508,
+      "game_name": "Keiba Saishou no Housoku",
+      "file": "missing/K/268508-keiba-saishou-no-housoku.json"
     },
     {
       "igdb_id": 37970,
@@ -269668,6 +269848,11 @@
       "file": "missing/K/66146-kyuukyoku-tiger-ii-plus.json"
     },
     {
+      "igdb_id": 268510,
+      "game_name": "Kyuusei Senjutsu Niyoru Heisei Kaiun Koyomi",
+      "file": "missing/K/268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json"
+    },
+    {
       "igdb_id": 144996,
       "game_name": "Kyvir: Rebirth",
       "file": "missing/K/144996-kyvir-rebirth.json"
@@ -269986,6 +270171,26 @@
       "igdb_id": 199617,
       "game_name": "La Vie La Rue",
       "file": "missing/L/199617-la-vie-la-rue.json"
+    },
+    {
+      "igdb_id": 268435,
+      "game_name": "La Voz",
+      "file": "missing/L/268435-la-voz.json"
+    },
+    {
+      "igdb_id": 268436,
+      "game_name": "La Voz Vol. 2",
+      "file": "missing/L/268436-la-voz-vol-2.json"
+    },
+    {
+      "igdb_id": 268437,
+      "game_name": "La Voz Vol. 3",
+      "file": "missing/L/268437-la-voz-vol-3.json"
+    },
+    {
+      "igdb_id": 268439,
+      "game_name": "La Voz: Quiero tu Voz",
+      "file": "missing/L/268439-la-voz-quiero-tu-voz.json"
     },
     {
       "igdb_id": 347111,
@@ -274091,6 +274296,11 @@
       "igdb_id": 20158,
       "game_name": "Leedmees",
       "file": "missing/L/20158-leedmees.json"
+    },
+    {
+      "igdb_id": 267889,
+      "game_name": "Leeds United Club Football",
+      "file": "missing/L/267889-leeds-united-club-football.json"
     },
     {
       "igdb_id": 297613,
@@ -281976,6 +282186,16 @@
       "igdb_id": 273118,
       "game_name": "Lively Chair Simulator",
       "file": "missing/L/273118-lively-chair-simulator.json"
+    },
+    {
+      "igdb_id": 267878,
+      "game_name": "Liverpool Club Football",
+      "file": "missing/L/267878-liverpool-club-football.json"
+    },
+    {
+      "igdb_id": 267899,
+      "game_name": "Liverpool Club Football 2005",
+      "file": "missing/L/267899-liverpool-club-football-2005.json"
     },
     {
       "igdb_id": 124199,
@@ -292833,6 +293053,11 @@
       "file": "missing/M/96114-mahou-arms.json"
     },
     {
+      "igdb_id": 268524,
+      "game_name": "Mahou City",
+      "file": "missing/M/268524-mahou-city.json"
+    },
+    {
       "igdb_id": 128014,
       "game_name": "Mahou Mating",
       "file": "missing/M/128014-mahou-mating.json"
@@ -296923,6 +297148,16 @@
       "file": "missing/M/315045-mario-vs-obama.json"
     },
     {
+      "igdb_id": 267977,
+      "game_name": "Mario vs. Sonic.EXE",
+      "file": "missing/M/267977-mario-vs-sonic-exe.json"
+    },
+    {
+      "igdb_id": 267975,
+      "game_name": "Mario vs. Sonic.EXE 2",
+      "file": "missing/M/267975-mario-vs-sonic-exe-2.json"
+    },
+    {
       "igdb_id": 315046,
       "game_name": "Mario vs. Tarzan",
       "file": "missing/M/315046-mario-vs-tarzan.json"
@@ -297016,6 +297251,11 @@
       "igdb_id": 198473,
       "game_name": "Mario's Keep Co-op",
       "file": "missing/M/198473-marios-keep-co-op.json"
+    },
+    {
+      "igdb_id": 268445,
+      "game_name": "Mario's Keytastrophe: Rebirth Edition",
+      "file": "missing/M/268445-marios-keytastrophe-rebirth-edition.json"
     },
     {
       "igdb_id": 135218,
@@ -303628,6 +303868,11 @@
       "file": "missing/M/222928-mega-man-x-alpha.json"
     },
     {
+      "igdb_id": 268419,
+      "game_name": "Mega Man X Alpha Kaizo",
+      "file": "missing/M/268419-mega-man-x-alpha-kaizo.json"
+    },
+    {
       "igdb_id": 4001,
       "game_name": "Mega Man X Collection",
       "file": "missing/M/4001-mega-man-x-collection.json"
@@ -303648,6 +303893,11 @@
       "file": "missing/M/136417-mega-man-x-in-sonic-the-hedgehog-2.json"
     },
     {
+      "igdb_id": 268420,
+      "game_name": "Mega Man X: cadê o chão, Sharivan?",
+      "file": "missing/M/268420-mega-man-x-cade-o-chao-sharivan.json"
+    },
+    {
       "igdb_id": 1751,
       "game_name": "Mega Man X: Command Mission",
       "file": "missing/M/1751-mega-man-x-command-mission.json"
@@ -303656,6 +303906,16 @@
       "igdb_id": 416112,
       "game_name": "Mega Man X: Command Mission",
       "file": "missing/M/416112-mega-man-x-command-mission.json"
+    },
+    {
+      "igdb_id": 268422,
+      "game_name": "Mega Man X: Hard Edition",
+      "file": "missing/M/268422-mega-man-x-hard-edition.json"
+    },
+    {
+      "igdb_id": 268429,
+      "game_name": "Mega Man X: Hard-Type",
+      "file": "missing/M/268429-mega-man-x-hard-type.json"
     },
     {
       "igdb_id": 96252,
@@ -303676,6 +303936,16 @@
       "igdb_id": 201859,
       "game_name": "Mega Man X: Proto Edition",
       "file": "missing/M/201859-mega-man-x-proto-edition.json"
+    },
+    {
+      "igdb_id": 268423,
+      "game_name": "Mega Man X: Soft-Type",
+      "file": "missing/M/268423-mega-man-x-soft-type.json"
+    },
+    {
+      "igdb_id": 268427,
+      "game_name": "Mega Man X: Tehe Man X",
+      "file": "missing/M/268427-mega-man-x-tehe-man-x.json"
     },
     {
       "igdb_id": 254527,
@@ -303703,6 +303973,16 @@
       "file": "missing/M/219083-mega-man-x2-proto-edition.json"
     },
     {
+      "igdb_id": 268416,
+      "game_name": "Mega Man X2: Ultimate Armor",
+      "file": "missing/M/268416-mega-man-x2-ultimate-armor.json"
+    },
+    {
+      "igdb_id": 268417,
+      "game_name": "Mega Man X2: Zero Playable",
+      "file": "missing/M/268417-mega-man-x2-zero-playable.json"
+    },
+    {
       "igdb_id": 282138,
       "game_name": "Mega Man X3",
       "file": "missing/M/282138-mega-man-x3.json"
@@ -303711,6 +303991,11 @@
       "igdb_id": 219082,
       "game_name": "Mega Man X3: Proto Edition",
       "file": "missing/M/219082-mega-man-x3-proto-edition.json"
+    },
+    {
+      "igdb_id": 268418,
+      "game_name": "Mega Man X3: Tsuraranoma",
+      "file": "missing/M/268418-mega-man-x3-tsuraranoma.json"
     },
     {
       "igdb_id": 76204,
@@ -307191,6 +307476,11 @@
       "igdb_id": 235768,
       "game_name": "Metal Detecting Simulator",
       "file": "missing/M/235768-metal-detecting-simulator.json"
+    },
+    {
+      "igdb_id": 267963,
+      "game_name": "Metal Detector and 2nd Hundred",
+      "file": "missing/M/267963-metal-detector-and-2nd-hundred.json"
     },
     {
       "igdb_id": 409807,
@@ -312538,6 +312828,11 @@
       "file": "missing/M/234164-minesweeper.json"
     },
     {
+      "igdb_id": 267982,
+      "game_name": "Minesweeper",
+      "file": "missing/M/267982-minesweeper.json"
+    },
+    {
       "igdb_id": 307595,
       "game_name": "Minesweeper",
       "file": "missing/M/307595-minesweeper.json"
@@ -313936,6 +314231,11 @@
       "igdb_id": 42021,
       "game_name": "Mirai Shounen Conan",
       "file": "missing/M/42021-mirai-shounen-conan.json"
+    },
+    {
+      "igdb_id": 268513,
+      "game_name": "Mirai Shounen Conan Digital Library",
+      "file": "missing/M/268513-mirai-shounen-conan-digital-library.json"
     },
     {
       "igdb_id": 351085,
@@ -316668,6 +316968,11 @@
       "file": "missing/M/121459-moira-fated-twins.json"
     },
     {
+      "igdb_id": 268440,
+      "game_name": "Mójiè Qíbīng",
+      "file": "missing/M/268440-mojie-qibing.json"
+    },
+    {
       "igdb_id": 298336,
       "game_name": "Mojito the Cat: Animals Skins",
       "file": "missing/M/298336-mojito-the-cat-animals-skins.json"
@@ -317951,6 +318256,11 @@
       "igdb_id": 137051,
       "game_name": "Monorail Stories",
       "file": "missing/M/137051-monorail-stories.json"
+    },
+    {
+      "igdb_id": 268514,
+      "game_name": "Monoshiri Jiyuugaku: Ogura Hyakunin Isshu-hen",
+      "file": "missing/M/268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json"
     },
     {
       "igdb_id": 202316,
@@ -325421,6 +325731,11 @@
       "igdb_id": 172155,
       "game_name": "Mushroom Wars 2: Episode 3 - Red & Furious",
       "file": "missing/M/172155-mushroom-wars-2-episode-3-red-and-furious.json"
+    },
+    {
+      "igdb_id": 268502,
+      "game_name": "Mushroom Wars: Space!",
+      "file": "missing/M/268502-mushroom-wars-space.json"
     },
     {
       "igdb_id": 98994,
@@ -337088,6 +337403,11 @@
       "file": "missing/N/262384-newbie-life.json"
     },
     {
+      "igdb_id": 267896,
+      "game_name": "Newcastle United Club Football 2005",
+      "file": "missing/N/267896-newcastle-united-club-football-2005.json"
+    },
+    {
       "igdb_id": 84280,
       "game_name": "Newcomer",
       "file": "missing/N/84280-newcomer.json"
@@ -342343,6 +342663,11 @@
       "file": "missing/N/378196-nodalbastion.json"
     },
     {
+      "igdb_id": 268432,
+      "game_name": "Nodame Cantabile: Dream Orchestra",
+      "file": "missing/N/268432-nodame-cantabile-dream-orchestra.json"
+    },
+    {
       "igdb_id": 50549,
       "game_name": "Noddy and the Birthday Party",
       "file": "missing/N/50549-noddy-and-the-birthday-party.json"
@@ -342881,6 +343206,16 @@
       "igdb_id": 57367,
       "game_name": "Nonstop Knight",
       "file": "missing/N/57367-nonstop-knight.json"
+    },
+    {
+      "igdb_id": 268518,
+      "game_name": "Nontan to Issho: Hoshi no Okurimono",
+      "file": "missing/N/268518-nontan-to-issho-hoshi-no-okurimono.json"
+    },
+    {
+      "igdb_id": 268519,
+      "game_name": "Nontan to Issho: Nohara de Asobo",
+      "file": "missing/N/268519-nontan-to-issho-nohara-de-asobo.json"
     },
     {
       "igdb_id": 269313,
@@ -345056,6 +345391,11 @@
       "igdb_id": 182513,
       "game_name": "Nyamo's Adventure",
       "file": "missing/N/182513-nyamos-adventure.json"
+    },
+    {
+      "igdb_id": 268446,
+      "game_name": "Nyan Nyan Tower",
+      "file": "missing/N/268446-nyan-nyan-tower.json"
     },
     {
       "igdb_id": 108872,
@@ -347351,6 +347691,11 @@
       "igdb_id": 376697,
       "game_name": "Ogu and the Secret Forest: Winter Festival Blast",
       "file": "missing/O/376697-ogu-and-the-secret-forest-winter-festival-blast.json"
+    },
+    {
+      "igdb_id": 268520,
+      "game_name": "Ogura Hyakunin Isshu",
+      "file": "missing/O/268520-ogura-hyakunin-isshu.json"
     },
     {
       "igdb_id": 278139,
@@ -357788,6 +358133,11 @@
       "file": "missing/P/102621-paddles-pong-edition.json"
     },
     {
+      "igdb_id": 268522,
+      "game_name": "Paddock Note '95",
+      "file": "missing/P/268522-paddock-note-95.json"
+    },
+    {
       "igdb_id": 409553,
       "game_name": "Padel Pro World Tour",
       "file": "missing/P/409553-padel-pro-world-tour.json"
@@ -362271,6 +362621,11 @@
       "igdb_id": 338542,
       "game_name": "Pastel Friends",
       "file": "missing/P/338542-pastel-friends.json"
+    },
+    {
+      "igdb_id": 268444,
+      "game_name": "Pastel Island",
+      "file": "missing/P/268444-pastel-island.json"
     },
     {
       "igdb_id": 210633,
@@ -367388,6 +367743,11 @@
       "file": "missing/P/285462-phobos-down.json"
     },
     {
+      "igdb_id": 268424,
+      "game_name": "Phobos Massacre",
+      "file": "missing/P/268424-phobos-massacre.json"
+    },
+    {
       "igdb_id": 111057,
       "game_name": "Phobos Vector Prime: The First Ring",
       "file": "missing/P/111057-phobos-vector-prime-the-first-ring.json"
@@ -370396,6 +370756,11 @@
       "igdb_id": 405086,
       "game_name": "Pinfinity: Incremental Pinball",
       "file": "missing/P/405086-pinfinity-incremental-pinball.json"
+    },
+    {
+      "igdb_id": 267965,
+      "game_name": "Ping",
+      "file": "missing/P/267965-ping.json"
     },
     {
       "igdb_id": 307600,
@@ -384896,6 +385261,11 @@
       "igdb_id": 69271,
       "game_name": "Pro Yakyuu Team wo Tsukurou! 2",
       "file": "missing/P/69271-pro-yakyuu-team-wo-tsukurou-2.json"
+    },
+    {
+      "igdb_id": 268523,
+      "game_name": "Pro Yakyuu Virtual Stadium: Professional Baseball",
+      "file": "missing/P/268523-pro-yakyuu-virtual-stadium-professional-baseball.json"
     },
     {
       "igdb_id": 275140,
@@ -399706,6 +400076,11 @@
       "igdb_id": 141135,
       "game_name": "Real Madrid Club Football",
       "file": "missing/R/141135-real-madrid-club-football.json"
+    },
+    {
+      "igdb_id": 267898,
+      "game_name": "Real Madrid Club Football 2005",
+      "file": "missing/R/267898-real-madrid-club-football-2005.json"
     },
     {
       "igdb_id": 293150,
@@ -423128,6 +423503,11 @@
       "file": "missing/S/43294-sas-anti-terror-force.json"
     },
     {
+      "igdb_id": 267983,
+      "game_name": "SAS: Zombie Assault 2",
+      "file": "missing/S/267983-sas-zombie-assault-2.json"
+    },
+    {
       "igdb_id": 39197,
       "game_name": "SAS: Zombie Assault 4",
       "file": "missing/S/39197-sas-zombie-assault-4.json"
@@ -439643,6 +440023,11 @@
       "file": "missing/S/202227-silver-thread.json"
     },
     {
+      "igdb_id": 267976,
+      "game_name": "Silver Valley",
+      "file": "missing/S/267976-silver-valley.json"
+    },
+    {
       "igdb_id": 205033,
       "game_name": "Silver Wire",
       "file": "missing/S/205033-silver-wire.json"
@@ -447171,6 +447556,11 @@
       "igdb_id": 222889,
       "game_name": "SMW The Princess Rescue 2: Luigi's Journey!",
       "file": "missing/S/222889-smw-the-princess-rescue-2-luigis-journey.json"
+    },
+    {
+      "igdb_id": 267974,
+      "game_name": "SMWLV",
+      "file": "missing/S/267974-smwlv.json"
     },
     {
       "igdb_id": 292308,
@@ -472763,6 +473153,11 @@
       "file": "missing/S/245853-strato-supremacy.json"
     },
     {
+      "igdb_id": 268443,
+      "game_name": "Strato-Spear",
+      "file": "missing/S/268443-strato-spear.json"
+    },
+    {
       "igdb_id": 24896,
       "game_name": "Stratos",
       "file": "missing/S/24896-stratos.json"
@@ -478238,6 +478633,21 @@
       "file": "missing/S/415317-super-beat-em-up-world.json"
     },
     {
+      "igdb_id": 267888,
+      "game_name": "Super Beco World",
+      "file": "missing/S/267888-super-beco-world.json"
+    },
+    {
+      "igdb_id": 267890,
+      "game_name": "Super Beco World 2",
+      "file": "missing/S/267890-super-beco-world-2.json"
+    },
+    {
+      "igdb_id": 267892,
+      "game_name": "Super Beco World 3",
+      "file": "missing/S/267892-super-beco-world-3.json"
+    },
+    {
       "igdb_id": 41554,
       "game_name": "Super Bee",
       "file": "missing/S/41554-super-bee.json"
@@ -478261,6 +478671,11 @@
       "igdb_id": 71804,
       "game_name": "Super Bike TransAm",
       "file": "missing/S/71804-super-bike-transam.json"
+    },
+    {
+      "igdb_id": 267966,
+      "game_name": "Super Bird",
+      "file": "missing/S/267966-super-bird.json"
     },
     {
       "igdb_id": 300686,
@@ -478431,6 +478846,11 @@
       "igdb_id": 213384,
       "game_name": "Super Brothers Escape",
       "file": "missing/S/213384-super-brothers-escape.json"
+    },
+    {
+      "igdb_id": 267979,
+      "game_name": "Super Bubble 2003",
+      "file": "missing/S/267979-super-bubble-2003.json"
     },
     {
       "igdb_id": 70327,
@@ -481163,6 +481583,16 @@
       "file": "missing/S/276784-super-mario-horizons.json"
     },
     {
+      "igdb_id": 267978,
+      "game_name": "Super Mario In Element World",
+      "file": "missing/S/267978-super-mario-in-element-world.json"
+    },
+    {
+      "igdb_id": 267980,
+      "game_name": "Super Mario In Element World 2: The Master Hand Revenge",
+      "file": "missing/S/267980-super-mario-in-element-world-2-the-master-hand-revenge.json"
+    },
+    {
       "igdb_id": 313107,
       "game_name": "Super Mario Journey to Infinity",
       "file": "missing/S/313107-super-mario-journey-to-infinity.json"
@@ -481498,6 +481928,11 @@
       "file": "missing/S/247185-super-mario-world-odyssey.json"
     },
     {
+      "igdb_id": 267973,
+      "game_name": "Super Mario World The Pit Version",
+      "file": "missing/S/267973-super-mario-world-the-pit-version.json"
+    },
+    {
       "igdb_id": 165069,
       "game_name": "Super Mario World Widescreen",
       "file": "missing/S/165069-super-mario-world-widescreen.json"
@@ -481521,6 +481956,11 @@
       "igdb_id": 42525,
       "game_name": "Super Mario World: Return to Dinosaur Land",
       "file": "missing/S/42525-super-mario-world-return-to-dinosaur-land.json"
+    },
+    {
+      "igdb_id": 267968,
+      "game_name": "Super Mario World: The Huge Adventure",
+      "file": "missing/S/267968-super-mario-world-the-huge-adventure.json"
     },
     {
       "igdb_id": 259290,
@@ -482201,6 +482641,11 @@
       "igdb_id": 105075,
       "game_name": "Super Nosebleed Land",
       "file": "missing/S/105075-super-nosebleed-land.json"
+    },
+    {
+      "igdb_id": 267972,
+      "game_name": "Super Nostalgia World",
+      "file": "missing/S/267972-super-nostalgia-world.json"
     },
     {
       "igdb_id": 414296,
@@ -483306,6 +483751,11 @@
       "igdb_id": 174839,
       "game_name": "Super Smash the Office",
       "file": "missing/S/174839-super-smash-the-office.json"
+    },
+    {
+      "igdb_id": 267971,
+      "game_name": "Super Snake Block DX",
+      "file": "missing/S/267971-super-snake-block-dx.json"
     },
     {
       "igdb_id": 326727,
@@ -496678,6 +497128,11 @@
       "file": "missing/T/310508-telaiphone.json"
     },
     {
+      "igdb_id": 268415,
+      "game_name": "Télé 7 Jeux: Mots Fléchés",
+      "file": "missing/T/268415-tele-7-jeux-mots-fleches.json"
+    },
+    {
       "igdb_id": 220125,
       "game_name": "Tele-Doodle",
       "file": "missing/T/220125-tele-doodle.json"
@@ -499951,6 +500406,11 @@
       "igdb_id": 166148,
       "game_name": "The 13th Month",
       "file": "missing/T/166148-the-13th-month.json"
+    },
+    {
+      "igdb_id": 267967,
+      "game_name": "The 2018 Fantastic Arcade Bundle",
+      "file": "missing/T/267967-the-2018-fantastic-arcade-bundle.json"
     },
     {
       "igdb_id": 157151,
@@ -525588,6 +526048,11 @@
       "file": "missing/T/332829-the-voice-of-germany-das-offizielle-videospiel.json"
     },
     {
+      "igdb_id": 268433,
+      "game_name": "The Voice: La Plus Belle Voix",
+      "file": "missing/T/268433-the-voice-la-plus-belle-voix.json"
+    },
+    {
       "igdb_id": 208590,
       "game_name": "The Voices Games 2D Collection",
       "file": "missing/T/208590-the-voices-games-2d-collection.json"
@@ -528361,6 +528826,11 @@
       "igdb_id": 119571,
       "game_name": "Thinkrolls Space",
       "file": "missing/T/119571-thinkrolls-space.json"
+    },
+    {
+      "igdb_id": 268428,
+      "game_name": "ThinkSmart: Family!",
+      "file": "missing/T/268428-thinksmart-family.json"
     },
     {
       "igdb_id": 84240,
@@ -535453,6 +535923,11 @@
       "file": "missing/T/10841-titenic.json"
     },
     {
+      "igdb_id": 268430,
+      "game_name": "Titeuf: Le Film",
+      "file": "missing/T/268430-titeuf-le-film.json"
+    },
+    {
       "igdb_id": 94548,
       "game_name": "Title Fight Pro Boxing for Windows",
       "file": "missing/T/94548-title-fight-pro-boxing-for-windows.json"
@@ -540136,6 +540611,11 @@
       "igdb_id": 37783,
       "game_name": "Tottemo! Luckyman: Lucky Cookie Roulette de Totsugeki",
       "file": "missing/T/37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json"
+    },
+    {
+      "igdb_id": 267897,
+      "game_name": "Tottenham Hotspur Club Football 2005",
+      "file": "missing/T/267897-tottenham-hotspur-club-football-2005.json"
     },
     {
       "igdb_id": 353293,
@@ -553143,6 +553623,11 @@
       "file": "missing/U/50600-u-sing.json"
     },
     {
+      "igdb_id": 268431,
+      "game_name": "U-Sing 2: Australian Edition",
+      "file": "missing/U/268431-u-sing-2-australian-edition.json"
+    },
+    {
       "igdb_id": 323196,
       "game_name": "U.A.S",
       "file": "missing/U/323196-u-a-s.json"
@@ -554171,6 +554656,11 @@
       "igdb_id": 86856,
       "game_name": "Ultimate Jungle Simulator",
       "file": "missing/U/86856-ultimate-jungle-simulator.json"
+    },
+    {
+      "igdb_id": 268438,
+      "game_name": "Ultimate Knight Windom XP",
+      "file": "missing/U/268438-ultimate-knight-windom-xp.json"
     },
     {
       "igdb_id": 228410,
@@ -567086,6 +567576,11 @@
       "igdb_id": 22208,
       "game_name": "Vorble",
       "file": "missing/V/22208-vorble.json"
+    },
+    {
+      "igdb_id": 268425,
+      "game_name": "Vordakk's Keep",
+      "file": "missing/V/268425-vordakks-keep.json"
     },
     {
       "igdb_id": 235968,
@@ -585736,6 +586231,11 @@
       "igdb_id": 41420,
       "game_name": "Wrecking Crew",
       "file": "missing/W/41420-wrecking-crew.json"
+    },
+    {
+      "igdb_id": 268516,
+      "game_name": "Wreckman",
+      "file": "missing/W/268516-wreckman.json"
     },
     {
       "igdb_id": 123576,
