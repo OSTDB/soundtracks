@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
 | Nova Roma | 252867 | [252867-nova-roma.json](./252867-nova-roma.json) |
 | Nova Slash: Unparalleled Power | 195608 | [195608-nova-slash-unparalleled-power.json](./195608-nova-slash-unparalleled-power.json) |
+| Nova Strike | 259027 | [259027-nova-strike.json](./259027-nova-strike.json) |
 | Nova Survivors | 372542 | [372542-nova-survivors.json](./372542-nova-survivors.json) |
 | Nova-111 | 12561 | [12561-nova-111.json](./12561-nova-111.json) |
 | Nova-Life | 104328 | [104328-nova-life.json](./104328-nova-life.json) |
