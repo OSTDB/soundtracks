@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Grumps: Joint Justice - Turnabout Hour | 182392 | [182392-game-grumps-joint-justice-turnabout-hour.json](./182392-game-grumps-joint-justice-turnabout-hour.json) |
 | Game Grumps: The Video Game | 283768 | [283768-game-grumps-the-video-game.json](./283768-game-grumps-the-video-game.json) |
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
+| Game in Game in Game | 259511 | [259511-game-in-game-in-game.json](./259511-game-in-game-in-game.json) |
 | Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
 | Game Machine 2 | 346762 | [346762-game-machine-2.json](./346762-game-machine-2.json) |
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
@@ -2326,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gogoo | 151001 | [151001-gogoo.json](./151001-gogoo.json) |
 | Gogte | 188523 | [188523-gogte.json](./188523-gogte.json) |
 | Gohan Quest | 96103 | [96103-gohan-quest.json](./96103-gohan-quest.json) |
+| GoHome | 259599 | [259599-gohome.json](./259599-gohome.json) |
 | Goi: Let's Play Together | 235995 | [235995-goi-lets-play-together.json](./235995-goi-lets-play-together.json) |
 | Goiken Muyou: Anarchy in the Nippon | 45528 | [45528-goiken-muyou-anarchy-in-the-nippon.json](./45528-goiken-muyou-anarchy-in-the-nippon.json) |
 | Goime 500 | 56535 | [56535-goime-500.json](./56535-goime-500.json) |
@@ -2706,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goraku-Ou Tango! | 281521 | [281521-goraku-ou-tango.json](./281521-goraku-ou-tango.json) |
 | Gorathar | 262339 | [262339-gorathar.json](./262339-gorathar.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
+| Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
