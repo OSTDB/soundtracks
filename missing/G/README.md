@@ -134,9 +134,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
 | Gaist Crusher God | 84559 | [84559-gaist-crusher-god.json](./84559-gaist-crusher-god.json) |
 | Gakken DS: Otona no Gakushuu Kintaichi Sensei no Nihongo Lesson | 245046 | [245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json](./245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json) |
+| Gakken Mainichi no Drill DS: Mesaze! Miracle Shougaku 1-nensei | 269608 | [269608-gakken-mainichi-no-drill-ds-mesaze-miracle-shougaku-1-nensei.json](./269608-gakken-mainichi-no-drill-ds-mesaze-miracle-shougaku-1-nensei.json) |
+| Gakken Mu Henshuu-bu Kanshuu: Choujou Genshou Research File | 269607 | [269607-gakken-mu-henshuu-bu-kanshuu-choujou-genshou-research-file.json](./269607-gakken-mu-henshuu-bu-kanshuu-choujou-genshou-research-file.json) |
 | Gakkoi 2: Unmei Ai ha Inochigake | 212262 | [212262-gakkoi-2-unmei-ai-ha-inochigake.json](./212262-gakkoi-2-unmei-ai-ha-inochigake.json) |
 | Gakkoi: Ai to Noroi to Valentine | 212263 | [212263-gakkoi-ai-to-noroi-to-valentine.json](./212263-gakkoi-ai-to-noroi-to-valentine.json) |
 | Gakkou de Atta Koii Hanashi | 212261 | [212261-gakkou-de-atta-koii-hanashi.json](./212261-gakkou-de-atta-koii-hanashi.json) |
+| Gakkou no Kaidan DS | 269606 | [269606-gakkou-no-kaidan-ds.json](./269606-gakkou-no-kaidan-ds.json) |
 | Gakkou no Kaidan: Hyakuyoubako no Fuuin | 49566 | [49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json](./49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json) |
 | Gakkou wo Tsukurou!! 2 | 363956 | [363956-gakkou-wo-tsukurou-2.json](./363956-gakkou-wo-tsukurou-2.json) |
 | Gakkou wo Tsukurou!! Advance | 49565 | [49565-gakkou-wo-tsukurou-advance.json](./49565-gakkou-wo-tsukurou-advance.json) |
@@ -1082,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
+| Genghis Khan | 269523 | [269523-genghis-khan.json](./269523-genghis-khan.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
 | Genghis Khan II: Clan of the Gray Wolf | 5389 | [5389-genghis-khan-ii-clan-of-the-gray-wolf.json](./5389-genghis-khan-ii-clan-of-the-gray-wolf.json) |
 | Genghis Khan: Aoki Ookami to Shiroki Mejika IV | 98270 | [98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json](./98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json) |
