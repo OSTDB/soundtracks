@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlleyRat | 342175 | [342175-alleyrat.json](./342175-alleyrat.json) |
 | AlleyStrat | 342176 | [342176-alleystrat.json](./342176-alleystrat.json) |
 | Alleyway | 7751 | [7751-alleyway.json](./7751-alleyway.json) |
+| Alleyway DX | 279682 | [279682-alleyway-dx.json](./279682-alleyway-dx.json) |
 | Allez Raconte | 269548 | [269548-allez-raconte.json](./269548-allez-raconte.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
