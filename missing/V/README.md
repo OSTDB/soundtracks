@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
 | Valhalla: Before the War | 12809 | [12809-valhalla-before-the-war.json](./12809-valhalla-before-the-war.json) |
+| Valheim: Mistlands | 227760 | [227760-valheim-mistlands.json](./227760-valheim-mistlands.json) |
 | Valheim: The Bog Witch | 319145 | [319145-valheim-the-bog-witch.json](./319145-valheim-the-bog-witch.json) |
 | Valhyre: The Aftermath | 67293 | [67293-valhyre-the-aftermath.json](./67293-valhyre-the-aftermath.json) |
 | Vali Victorian | 150618 | [150618-vali-victorian.json](./150618-vali-victorian.json) |
@@ -1010,6 +1011,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Bomberman | 234006 | [234006-virtual-bomberman.json](./234006-virtual-bomberman.json) |
 | Virtual Boxing League | 89667 | [89667-virtual-boxing-league.json](./89667-virtual-boxing-league.json) |
 | Virtual Boy Wario Land | 1696 | [1696-virtual-boy-wario-land.json](./1696-virtual-boy-wario-land.json) |
+| Virtual Cameraman Part 1: Sawada Naomi and Juri Anna | 227811 | [227811-virtual-cameraman-part-1-sawada-naomi-and-juri-anna.json](./227811-virtual-cameraman-part-1-sawada-naomi-and-juri-anna.json) |
+| Virtual Cameraman Part 2: Kawai Natsumi and Tachihara Kimi | 227812 | [227812-virtual-cameraman-part-2-kawai-natsumi-and-tachihara-kimi.json](./227812-virtual-cameraman-part-2-kawai-natsumi-and-tachihara-kimi.json) |
 | Virtual Cameraman Part 4: Toya Shiori | 217878 | [217878-virtual-cameraman-part-4-toya-shiori.json](./217878-virtual-cameraman-part-4-toya-shiori.json) |
 | Virtual Cameraman Part 5: Anzo Ari | 216769 | [216769-virtual-cameraman-part-5-anzo-ari.json](./216769-virtual-cameraman-part-5-anzo-ari.json) |
 | Virtual Casino | 45517 | [45517-virtual-casino.json](./45517-virtual-casino.json) |
