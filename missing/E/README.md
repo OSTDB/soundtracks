@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
+| Early-blooming Black Lily: Itsuki-chan no Obentou | 273344 | [273344-early-blooming-black-lily-itsuki-chan-no-obentou.json](./273344-early-blooming-black-lily-itsuki-chan-no-obentou.json) |
 | Early-blooming Black Lily: Moshi Mo-series | 275613 | [275613-early-blooming-black-lily-moshi-mo-series.json](./275613-early-blooming-black-lily-moshi-mo-series.json) |
 | Earn to Die | 80713 | [80713-earn-to-die.json](./80713-earn-to-die.json) |
 | Ears and Burgers | 174295 | [174295-ears-and-burgers.json](./174295-ears-and-burgers.json) |
