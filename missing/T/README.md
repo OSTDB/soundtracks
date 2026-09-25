@@ -1847,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Territory: Farming and Fighting | 230944 | [230944-territory-farming-and-fighting.json](./230944-territory-farming-and-fighting.json) |
 | Terro Lunkka Adventures | 127022 | [127022-terro-lunkka-adventures.json](./127022-terro-lunkka-adventures.json) |
 | Terror | 112116 | [112116-terror.json](./112116-terror.json) |
+| Terror at Oakheart | 258945 | [258945-terror-at-oakheart.json](./258945-terror-at-oakheart.json) |
 | Terror Brain: Night Out | 211258 | [211258-terror-brain-night-out.json](./211258-terror-brain-night-out.json) |
 | Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
 | Terror for Two | 110167 | [110167-terror-for-two.json](./110167-terror-for-two.json) |
@@ -9241,6 +9242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic II: Orchestra for Dying at Sea | 204471 | [204471-titanic-ii-orchestra-for-dying-at-sea.json](./204471-titanic-ii-orchestra-for-dying-at-sea.json) |
 | Titanic Mystery: Ao no Senritsu | 41312 | [41312-titanic-mystery-ao-no-senritsu.json](./41312-titanic-mystery-ao-no-senritsu.json) |
 | Titanic Shipwreck Exploration | 111180 | [111180-titanic-shipwreck-exploration.json](./111180-titanic-shipwreck-exploration.json) |
+| Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
 | Titanic: Honor and Glory | 57921 | [57921-titanic-honor-and-glory.json](./57921-titanic-honor-and-glory.json) |
 | Titanic: Iceberg Ahead | 91966 | [91966-titanic-iceberg-ahead.json](./91966-titanic-iceberg-ahead.json) |
 | Titanic: The Recovery Mission | 12962 | [12962-titanic-the-recovery-mission.json](./12962-titanic-the-recovery-mission.json) |
@@ -12164,6 +12166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust Me, Not Her | 191176 | [191176-trust-me-not-her.json](./191176-trust-me-not-her.json) |
 | Trust the blackbird | 183986 | [183986-trust-the-blackbird.json](./183986-trust-the-blackbird.json) |
 | Trust Your Ears | 249193 | [249193-trust-your-ears.json](./249193-trust-your-ears.json) |
+| Truth | 259040 | [259040-truth.json](./259040-truth.json) |
 | Truth & Trolls [Episode 1: Broken Promises] | 109069 | [109069-truth-and-trolls-episode-1-broken-promises.json](./109069-truth-and-trolls-episode-1-broken-promises.json) |
 | Truth in Turbulent | 308891 | [308891-truth-in-turbulent.json](./308891-truth-in-turbulent.json) |
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
@@ -12517,6 +12520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
 | Twas The Night | 326207 | [326207-twas-the-night.json](./326207-twas-the-night.json) |
+| Tweaked Revolution | 259029 | [259029-tweaked-revolution.json](./259029-tweaked-revolution.json) |
 | Tweet Star | 108518 | [108518-tweet-star.json](./108518-tweet-star.json) |
 | Tweety & The Magic Gems | 49346 | [49346-tweety-and-the-magic-gems.json](./49346-tweety-and-the-magic-gems.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
