@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
 | L'Angolo Di Farenz: Avventure Vampiresche | 256922 | [256922-langolo-di-farenz-avventure-vampiresche.json](./256922-langolo-di-farenz-avventure-vampiresche.json) |
 | L'Artisan Meurtrier | 329060 | [329060-lartisan-meurtrier.json](./329060-lartisan-meurtrier.json) |
+| L'Histoire de France Pour Les Nuls | 269633 | [269633-lhistoire-de-france-pour-les-nuls.json](./269633-lhistoire-de-france-pour-les-nuls.json) |
 | L'Impiccato in Italiano | 96042 | [96042-limpiccato-in-italiano.json](./96042-limpiccato-in-italiano.json) |
 | L@ve Once | 139450 | [139450-l-ve-once.json](./139450-l-ve-once.json) |
 | L2 Love x Loop | 219132 | [219132-l2-love-x-loop.json](./219132-l2-love-x-loop.json) |
@@ -2996,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
+| Los Lunnis | 269610 | [269610-los-lunnis.json](./269610-los-lunnis.json) |
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
 | Los Reinos de Aethermoor | 396577 | [396577-los-reinos-de-aethermoor.json](./396577-los-reinos-de-aethermoor.json) |
 | Los Secretos de Altura | 323849 | [323849-los-secretos-de-altura.json](./323849-los-secretos-de-altura.json) |
