@@ -1975,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcast II: The Lost Paradise | 66687 | [66687-outcast-ii-the-lost-paradise.json](./66687-outcast-ii-the-lost-paradise.json) |
 | Outcast on Mars | 157132 | [157132-outcast-on-mars.json](./157132-outcast-on-mars.json) |
 | Outcast: A New Beginning | 171215 | [171215-outcast-a-new-beginning.json](./171215-outcast-a-new-beginning.json) |
+| Outcast: A New Beginning - Adelpha Edition | 282049 | [282049-outcast-a-new-beginning-adelpha-edition.json](./282049-outcast-a-new-beginning-adelpha-edition.json) |
 | Outcasters | 135825 | [135825-outcasters.json](./135825-outcasters.json) |
 | Outcasts of Dungeon | 195191 | [195191-outcasts-of-dungeon.json](./195191-outcasts-of-dungeon.json) |
 | Outcasts of the Rift | 236914 | [236914-outcasts-of-the-rift.json](./236914-outcasts-of-the-rift.json) |
