@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon Masquerade | 242546 | [242546-daemon-masquerade.json](./242546-daemon-masquerade.json) |
 | Daemon Summoner | 44628 | [44628-daemon-summoner.json](./44628-daemon-summoner.json) |
 | Daemon X Machina: Orbital Limited Edition | 120324 | [120324-daemon-x-machina-orbital-limited-edition.json](./120324-daemon-x-machina-orbital-limited-edition.json) |
+| Daemon X Machina: The Witcher Costume Pack | 262301 | [262301-daemon-x-machina-the-witcher-costume-pack.json](./262301-daemon-x-machina-the-witcher-costume-pack.json) |
 | Daemon x Machina: Titanic Scion - Free Axiom Researcher Outfit | 375259 | [375259-daemon-x-machina-titanic-scion-free-axiom-researcher-outfit.json](./375259-daemon-x-machina-titanic-scion-free-axiom-researcher-outfit.json) |
 | Daemon x Machina: Titanic Scion - Free Formal Suit Outfit | 375258 | [375258-daemon-x-machina-titanic-scion-free-formal-suit-outfit.json](./375258-daemon-x-machina-titanic-scion-free-formal-suit-outfit.json) |
 | Daemon x Machina: Titanic Scion - Free Iris Outfit | 375260 | [375260-daemon-x-machina-titanic-scion-free-iris-outfit.json](./375260-daemon-x-machina-titanic-scion-free-iris-outfit.json) |
@@ -797,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness and Light | 159152 | [159152-darkness-and-light.json](./159152-darkness-and-light.json) |
 | Darkness Anomaly | 57351 | [57351-darkness-anomaly.json](./57351-darkness-anomaly.json) |
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
+| Darkness Flaw | 262286 | [262286-darkness-flaw.json](./262286-darkness-flaw.json) |
 | Darkness Hour | 116159 | [116159-darkness-hour.json](./116159-darkness-hour.json) |
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
 | Darkness Maze Cube | 130213 | [130213-darkness-maze-cube.json](./130213-darkness-maze-cube.json) |
@@ -2971,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Way | 306358 | [306358-devils-way.json](./306358-devils-way.json) |
 | DevilConnection | 312736 | [312736-devilconnection.json](./312736-devilconnection.json) |
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
+| Deviled | 262290 | [262290-deviled.json](./262290-deviled.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
 | Devilish Charms | 227946 | [227946-devilish-charms.json](./227946-devilish-charms.json) |
 | Devilish Girl | 261885 | [261885-devilish-girl.json](./261885-devilish-girl.json) |
@@ -3955,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
 | Distress: A Choice-Driven Sci-Fi Adventure | 110970 | [110970-distress-a-choice-driven-sci-fi-adventure.json](./110970-distress-a-choice-driven-sci-fi-adventure.json) |
 | Distressed | 320932 | [320932-distressed.json](./320932-distressed.json) |
+| Distribution Center | 262306 | [262306-distribution-center.json](./262306-distribution-center.json) |
 | District 99 | 160259 | [160259-district-99.json](./160259-district-99.json) |
 | District Panic | 295387 | [295387-district-panic.json](./295387-district-panic.json) |
 | District Steel | 28912 | [28912-district-steel.json](./28912-district-steel.json) |
@@ -5313,6 +5317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
 | Draft Day Sports: College Football 2023 | 213984 | [213984-draft-day-sports-college-football-2023.json](./213984-draft-day-sports-college-football-2023.json) |
+| Draft Day Sports: College Football 2024 | 262333 | [262333-draft-day-sports-college-football-2024.json](./262333-draft-day-sports-college-football-2024.json) |
 | Draft Day Sports: College Football 2025 | 386282 | [386282-draft-day-sports-college-football-2025.json](./386282-draft-day-sports-college-football-2025.json) |
 | Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
