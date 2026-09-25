@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head over Heels | 322797 | [322797-head-over-heels.json](./322797-head-over-heels.json) |
 | Head Over Heels | 121632 | [121632-head-over-heels.json](./121632-head-over-heels.json) |
 | Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
+| Head Reattachment Trauma | 271249 | [271249-head-reattachment-trauma.json](./271249-head-reattachment-trauma.json) |
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
@@ -2827,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High $take$ by Dick Francis | 79887 | [79887-high-take-by-dick-francis.json](./79887-high-take-by-dick-francis.json) |
 | High Above | 336155 | [336155-high-above.json](./336155-high-above.json) |
 | High Burger | 256257 | [256257-high-burger.json](./256257-high-burger.json) |
+| High Cars | 271269 | [271269-high-cars.json](./271269-high-cars.json) |
 | High Cars 2 | 325014 | [325014-high-cars-2.json](./325014-high-cars-2.json) |
 | High Clouds | 372995 | [372995-high-clouds.json](./372995-high-clouds.json) |
 | High Command: Europe 1939-'45 | 71806 | [71806-high-command-europe-1939-45.json](./71806-high-command-europe-1939-45.json) |
