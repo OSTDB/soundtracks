@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Puzzle: K-ON! Edition | 279669 | [279669-2048-puzzle-k-on-edition.json](./279669-2048-puzzle-k-on-edition.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
+| 2048-F8 | 268503 | [268503-2048-f8.json](./268503-2048-f8.json) |
 | 2048: StarWars | 313244 | [313244-2048-starwars.json](./313244-2048-starwars.json) |
 | 2048+# | 343995 | [343995-2048.json](./343995-2048.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
@@ -725,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Convoy | 15575 | [15575-3d-convoy.json](./15575-3d-convoy.json) |
 | 3D Crazy Ballz | 94538 | [94538-3d-crazy-ballz.json](./94538-3d-crazy-ballz.json) |
 | 3D Creation Station | 64907 | [64907-3d-creation-station.json](./64907-3d-creation-station.json) |
+| 3D Crosswords | 268507 | [268507-3d-crosswords.json](./268507-3d-crosswords.json) |
 | 3D Cyber Puck | 300012 | [300012-3d-cyber-puck.json](./300012-3d-cyber-puck.json) |
 | 3D Dot Game Heroes | 7265 | [7265-3d-dot-game-heroes.json](./7265-3d-dot-game-heroes.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
@@ -734,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Escape Room: Mystic Manor | 348853 | [348853-3d-escape-room-mystic-manor.json](./348853-3d-escape-room-mystic-manor.json) |
 | 3D Fantasy Zone II W | 86818 | [86818-3d-fantasy-zone-ii-w.json](./86818-3d-fantasy-zone-ii-w.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
+| 3D Game Pack | 266189 | [266189-3d-game-pack.json](./266189-3d-game-pack.json) |
 | 3D Genesis | 268558 | [268558-3d-genesis.json](./268558-3d-genesis.json) |
 | 3D Hentai Chess | 149424 | [149424-3d-hentai-chess.json](./149424-3d-hentai-chess.json) |
 | 3D Hopper | 327387 | [327387-3d-hopper.json](./327387-3d-hopper.json) |
