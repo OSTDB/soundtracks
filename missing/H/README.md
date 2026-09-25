@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hal 21 | 25956 | [25956-hal-21.json](./25956-hal-21.json) |
 | Hal Wrestling | 48993 | [48993-hal-wrestling.json](./48993-hal-wrestling.json) |
 | HAL's Hole in One Golf | 3653 | [3653-hals-hole-in-one-golf.json](./3653-hals-hole-in-one-golf.json) |
+| Halchemist | 264571 | [264571-halchemist.json](./264571-halchemist.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of the Goddess | 273919 | [273919-hand-of-the-goddess.json](./273919-hand-of-the-goddess.json) |
 | Hand of the Gods: Core Set Bundle | 90575 | [90575-hand-of-the-gods-core-set-bundle.json](./90575-hand-of-the-gods-core-set-bundle.json) |
 | Hand Simulator | 44143 | [44143-hand-simulator.json](./44143-hand-simulator.json) |
+| Hand Simulator: Aliens | 264579 | [264579-hand-simulator-aliens.json](./264579-hand-simulator-aliens.json) |
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
 | Hand to Hand Combat | 118004 | [118004-hand-to-hand-combat.json](./118004-hand-to-hand-combat.json) |
 | Hand to Hand Combat VR | 122984 | [122984-hand-to-hand-combat-vr.json](./122984-hand-to-hand-combat-vr.json) |
@@ -4121,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
 | Hotdog Samurai | 246953 | [246953-hotdog-samurai.json](./246953-hotdog-samurai.json) |
 | Hotdog Storm | 39679 | [39679-hotdog-storm.json](./39679-hotdog-storm.json) |
+| HotDog TD | 264656 | [264656-hotdog-td.json](./264656-hotdog-td.json) |
 | Hotel 12th | 317970 | [317970-hotel-12th.json](./317970-hotel-12th.json) |
 | Hotel 626 | 62712 | [62712-hotel-626.json](./62712-hotel-626.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
