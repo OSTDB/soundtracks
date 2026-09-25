@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
 | Phobos Massacre | 268424 | [268424-phobos-massacre.json](./268424-phobos-massacre.json) |
 | Phobos Vector Prime: The First Ring | 111057 | [111057-phobos-vector-prime-the-first-ring.json](./111057-phobos-vector-prime-the-first-ring.json) |
+| Phobos: Anomaly Reborn | 255623 | [255623-phobos-anomaly-reborn.json](./255623-phobos-anomaly-reborn.json) |
 | PhobosDeimos Anomaly | 263449 | [263449-phobosdeimos-anomaly.json](./263449-phobosdeimos-anomaly.json) |
 | Phocas Island 2 | 256859 | [256859-phocas-island-2.json](./256859-phocas-island-2.json) |
 | Phoebe Bridgers Song Crafter | 179607 | [179607-phoebe-bridgers-song-crafter.json](./179607-phoebe-bridgers-song-crafter.json) |
