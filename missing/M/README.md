@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Games Tycoon | 13172 | [13172-mad-games-tycoon.json](./13172-mad-games-tycoon.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
 | Mad Head | 311471 | [311471-mad-head.json](./311471-mad-head.json) |
+| Mad Jyacer | 276250 | [276250-mad-jyacer.json](./276250-mad-jyacer.json) |
 | Mad King Redemption | 361874 | [361874-mad-king-redemption.json](./361874-mad-king-redemption.json) |
 | Mad Lab Roulette | 362925 | [362925-mad-lab-roulette.json](./362925-mad-lab-roulette.json) |
 | Mad Machines | 107156 | [107156-mad-machines.json](./107156-mad-machines.json) |
@@ -594,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Literary Heroine Natsuki Saves The Literature Club! | 334273 | [334273-magical-literary-heroine-natsuki-saves-the-literature-club.json](./334273-magical-literary-heroine-natsuki-saves-the-literature-club.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
+| Magical Monstergirls Academy | 276251 | [276251-magical-monstergirls-academy.json](./276251-magical-monstergirls-academy.json) |
 | Magical Mystery Cure | 177949 | [177949-magical-mystery-cure.json](./177949-magical-mystery-cure.json) |
 | Magical Otoge Anholly | 57905 | [57905-magical-otoge-anholly.json](./57905-magical-otoge-anholly.json) |
 | Magical Otoge Iris | 144809 | [144809-magical-otoge-iris.json](./144809-magical-otoge-iris.json) |
@@ -2355,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayor Moon | 121434 | [121434-mayor-moon.json](./121434-mayor-moon.json) |
 | Mayor of Defense | 166746 | [166746-mayor-of-defense.json](./166746-mayor-of-defense.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
+| Maza | 276241 | [276241-maza.json](./276241-maza.json) |
 | Mazaica | 304598 | [304598-mazaica.json](./304598-mazaica.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze | 351700 | [351700-maze.json](./351700-maze.json) |
@@ -3969,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
 | Micro Machines 2: Turbo Tournament | 8775 | [8775-micro-machines-2-turbo-tournament.json](./8775-micro-machines-2-turbo-tournament.json) |
 | Micro Machines V4 | 8512 | [8512-micro-machines-v4.json](./8512-micro-machines-v4.json) |
+| Micro Macro Farm | 276266 | [276266-micro-macro-farm.json](./276266-micro-macro-farm.json) |
 | Micro Madness | 252819 | [252819-micro-madness.json](./252819-micro-madness.json) |
 | Micro Mages | 110882 | [110882-micro-mages.json](./110882-micro-mages.json) |
 | Micro Mayhem | 115040 | [115040-micro-mayhem.json](./115040-micro-mayhem.json) |
@@ -5668,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mongol 2 | 370339 | [370339-mongol-2.json](./370339-mongol-2.json) |
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
+| Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
 | Monitor Puzzle Kineko: Kinetic Connection Vol. II | 41403 | [41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json](./41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json) |
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
