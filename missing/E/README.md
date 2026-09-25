@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggstraction | 294300 | [294300-eggstraction.json](./294300-eggstraction.json) |
 | Eggular Game | 307310 | [307310-eggular-game.json](./307310-eggular-game.json) |
 | Eggventure | 390125 | [390125-eggventure.json](./390125-eggventure.json) |
+| Eggwolf: Office Eggscape | 257331 | [257331-eggwolf-office-eggscape.json](./257331-eggwolf-office-eggscape.json) |
 | Eggy | 152921 | [152921-eggy.json](./152921-eggy.json) |
 | Eggy | 91413 | [91413-eggy.json](./91413-eggy.json) |
 | Eggy Car | 335654 | [335654-eggy-car.json](./335654-eggy-car.json) |
@@ -1049,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium Infinity | 237668 | [237668-elysium-infinity.json](./237668-elysium-infinity.json) |
 | Elysium Lost | 219823 | [219823-elysium-lost.json](./219823-elysium-lost.json) |
 | Elysium Online | 138714 | [138714-elysium-online.json](./138714-elysium-online.json) |
+| Elysium's Curse | 257352 | [257352-elysiums-curse.json](./257352-elysiums-curse.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
 | EmagineWorld | 213402 | [213402-emagineworld.json](./213402-emagineworld.json) |
@@ -1508,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
 | Engine Sentai Go-Onger: Mach de Oboeru! Aiueo!! | 123618 | [123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json](./123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json) |
+| Engineer's Last Stand | 257335 | [257335-engineers-last-stand.json](./257335-engineers-last-stand.json) |
 | Engineerium | 302487 | [302487-engineerium.json](./302487-engineerium.json) |
 | England Championship Special | 71470 | [71470-england-championship-special.json](./71470-england-championship-special.json) |
 | England Exchange | 28643 | [28643-england-exchange.json](./28643-england-exchange.json) |
@@ -1959,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Labyrinth | 121457 | [121457-escape-from-labyrinth.json](./121457-escape-from-labyrinth.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
 | Escape From Lesco | 312751 | [312751-escape-from-lesco.json](./312751-escape-from-lesco.json) |
+| Escape From Lighthouse | 257341 | [257341-escape-from-lighthouse.json](./257341-escape-from-lighthouse.json) |
 | Escape from Manimal Island | 272395 | [272395-escape-from-manimal-island.json](./272395-escape-from-manimal-island.json) |
 | Escape From Monster | 163294 | [163294-escape-from-monster.json](./163294-escape-from-monster.json) |
 | Escape from Moonbase Alpha | 330177 | [330177-escape-from-moonbase-alpha.json](./330177-escape-from-moonbase-alpha.json) |
@@ -2934,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoFrontier: Venus | 319724 | [319724-exofrontier-venus.json](./319724-exofrontier-venus.json) |
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
+| Exomoon | 257419 | [257419-exomoon.json](./257419-exomoon.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
 | Exophobia: Fire & Ice Expedition | 369779 | [369779-exophobia-fire-and-ice-expedition.json](./369779-exophobia-fire-and-ice-expedition.json) |
 | Exoprimal: Barrage - Volcano | 332615 | [332615-exoprimal-barrage-volcano.json](./332615-exoprimal-barrage-volcano.json) |
