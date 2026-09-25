@@ -3858,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poached : Hunt The Hunter | 163965 | [163965-poached-hunt-the-hunter.json](./163965-poached-hunt-the-hunter.json) |
 | Poacher | 93546 | [93546-poacher.json](./93546-poacher.json) |
 | Pochard Jamie | 351632 | [351632-pochard-jamie.json](./351632-pochard-jamie.json) |
+| Pochi and Nyaa | 252128 | [252128-pochi-and-nyaa.json](./252128-pochi-and-nyaa.json) |
 | Pochi and Nyaa | 40188 | [40188-pochi-and-nyaa.json](./40188-pochi-and-nyaa.json) |
 | Pocket Action: Pro Football | 245423 | [245423-pocket-action-pro-football.json](./245423-pocket-action-pro-football.json) |
 | Pocket Ants | 193954 | [193954-pocket-ants.json](./193954-pocket-ants.json) |
@@ -4293,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Stadium Club | 357347 | [357347-pokemon-stadium-club.json](./357347-pokemon-stadium-club.json) |
 | Pokémon Stadium Fusion | 262412 | [262412-pokemon-stadium-fusion.json](./262412-pokemon-stadium-fusion.json) |
 | Pokémon Starwish | 394849 | [394849-pokemon-starwish.json](./394849-pokemon-starwish.json) |
+| Pokémon Stranded | 252122 | [252122-pokemon-stranded.json](./252122-pokemon-stranded.json) |
 | Pokémon Sun and Moon Special Demo Version | 313321 | [313321-pokemon-sun-and-moon-special-demo-version.json](./313321-pokemon-sun-and-moon-special-demo-version.json) |
 | Pokémon Super Gold 97 | 142232 | [142232-pokemon-super-gold-97.json](./142232-pokemon-super-gold-97.json) |
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
@@ -5463,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Party | 394498 | [394498-princess-party.json](./394498-princess-party.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
 | Princess Piano | 174230 | [174230-princess-piano.json](./174230-princess-piano.json) |
+| Princess Poffin and the Spider Invasion | 252078 | [252078-princess-poffin-and-the-spider-invasion.json](./252078-princess-poffin-and-the-spider-invasion.json) |
 | Princess Polly | 290499 | [290499-princess-polly.json](./290499-princess-polly.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
 | Princess Princess: Himetachi no Abunai Houkago | 72671 | [72671-princess-princess-himetachi-no-abunai-houkago.json](./72671-princess-princess-himetachi-no-abunai-houkago.json) |
@@ -6758,6 +6761,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
 | Puyo Puyo 2 | 84798 | [84798-puyo-puyo-2.json](./84798-puyo-puyo-2.json) |
+| Puyo Puyo Fever Habanero | 252125 | [252125-puyo-puyo-fever-habanero.json](./252125-puyo-puyo-fever-habanero.json) |
+| Puyo Puyo Fever Rhythm | 252126 | [252126-puyo-puyo-fever-rhythm.json](./252126-puyo-puyo-fever-rhythm.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
