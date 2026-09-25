@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ongeki Re:Fresh | 344013 | [344013-ongeki-re-fresh.json](./344013-ongeki-re-fresh.json) |
 | Oni | 2413 | [2413-oni.json](./2413-oni.json) |
 | Oni | 365784 | [365784-oni.json](./365784-oni.json) |
+| Oni Academy | 257980 | [257980-oni-academy.json](./257980-oni-academy.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
 | Oni Asobi | 151529 | [151529-oni-asobi.json](./151529-oni-asobi.json) |
 | Oni Fight | 335428 | [335428-oni-fight.json](./335428-oni-fight.json) |
@@ -1418,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Thunder | 91403 | [91403-operation-thunder.json](./91403-operation-thunder.json) |
 | Operation: Vietnam | 20760 | [20760-operation-vietnam.json](./20760-operation-vietnam.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
+| Operator: Drones | 257894 | [257894-operator-drones.json](./257894-operator-drones.json) |
 | Operencia: The Stolen Sun - Explorer's Edition | 154541 | [154541-operencia-the-stolen-sun-explorers-edition.json](./154541-operencia-the-stolen-sun-explorers-edition.json) |
 | Operius DX | 347184 | [347184-operius-dx.json](./347184-operius-dx.json) |
 | Ophelia's Chapter | 272327 | [272327-ophelias-chapter.json](./272327-ophelias-chapter.json) |
@@ -1511,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Defender | 178635 | [178635-orbital-defender.json](./178635-orbital-defender.json) |
 | Orbital Descent | 339275 | [339275-orbital-descent.json](./339275-orbital-descent.json) |
 | Orbital Dogfight VR | 117661 | [117661-orbital-dogfight-vr.json](./117661-orbital-dogfight-vr.json) |
+| Orbital Drop Shipping | 257919 | [257919-orbital-drop-shipping.json](./257919-orbital-drop-shipping.json) |
 | Orbital Frenzy | 376452 | [376452-orbital-frenzy.json](./376452-orbital-frenzy.json) |
 | Orbital Invaders | 156656 | [156656-orbital-invaders.json](./156656-orbital-invaders.json) |
 | Orbital Money | 223999 | [223999-orbital-money.json](./223999-orbital-money.json) |
