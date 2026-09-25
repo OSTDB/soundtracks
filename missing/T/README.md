@@ -2927,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clockwork Labyrinth | 166704 | [166704-the-clockwork-labyrinth.json](./166704-the-clockwork-labyrinth.json) |
 | The Clockwork Man 2 | 88744 | [88744-the-clockwork-man-2.json](./88744-the-clockwork-man-2.json) |
 | The Closed Circle | 226313 | [226313-the-closed-circle.json](./226313-the-closed-circle.json) |
+| The Closure | 249767 | [249767-the-closure.json](./249767-the-closure.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
 | The Cloudberry Abyss | 402998 | [402998-the-cloudberry-abyss.json](./402998-the-cloudberry-abyss.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
@@ -3193,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Pictures Anthology: Season One | 225775 | [225775-the-dark-pictures-anthology-season-one.json](./225775-the-dark-pictures-anthology-season-one.json) |
 | The Dark Pictures Anthology: The Craven Man | 257078 | [257078-the-dark-pictures-anthology-the-craven-man.json](./257078-the-dark-pictures-anthology-the-craven-man.json) |
 | The Dark Pictures Anthology: Winterfold | 257077 | [257077-the-dark-pictures-anthology-winterfold.json](./257077-the-dark-pictures-anthology-winterfold.json) |
+| The Dark Pictures: Volume 1 | 249739 | [249739-the-dark-pictures-volume-1.json](./249739-the-dark-pictures-volume-1.json) |
 | The Dark Portal | 271322 | [271322-the-dark-portal.json](./271322-the-dark-portal.json) |
 | The Dark Prince | 207389 | [207389-the-dark-prince.json](./207389-the-dark-prince.json) |
 | The Dark Prophecy | 190100 | [190100-the-dark-prophecy.json](./190100-the-dark-prophecy.json) |
@@ -4589,6 +4591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIV: Oswald | 321569 | [321569-the-king-of-fighters-xiv-oswald.json](./321569-the-king-of-fighters-xiv-oswald.json) |
 | The King of Fighters XIV: Shun'ei Kung-Fu Costume | 342867 | [342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json](./342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json) |
 | The King Of Fighters XIV: Sylvie Little Red Riding Hood Costume | 342870 | [342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json](./342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json) |
+| The King of Fighters XV: Character "Sylvie Paula Paula" | 249759 | [249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json](./249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
@@ -7626,6 +7629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The_Painther | 410884 | [410884-the-painther.json](./410884-the-painther.json) |
 | The.Thend.End | 112992 | [112992-the-thend-end.json](./112992-the-thend-end.json) |
 | The400 Mini | 286590 | [286590-the400-mini.json](./286590-the400-mini.json) |
+| Thea 2: Rat Tales & More | 249721 | [249721-thea-2-rat-tales-and-more.json](./249721-thea-2-rat-tales-and-more.json) |
 | Thea Bundle | 192306 | [192306-thea-bundle.json](./192306-thea-bundle.json) |
 | Thea is Drowning | 179072 | [179072-thea-is-drowning.json](./179072-thea-is-drowning.json) |
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
@@ -9894,6 +9898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 3 | 194213 | [194213-tony-hawks-pro-skater-3.json](./194213-tony-hawks-pro-skater-3.json) |
 | Tony Hawk's Pro Skater 4 | 915 | [915-tony-hawks-pro-skater-4.json](./915-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Project 8 Mobile | 197321 | [197321-tony-hawks-project-8-mobile.json](./197321-tony-hawks-project-8-mobile.json) |
+| Tony Hawk's Proving Ground | 249760 | [249760-tony-hawks-proving-ground.json](./249760-tony-hawks-proving-ground.json) |
 | Tony Hawk's Proving Ground | 364482 | [364482-tony-hawks-proving-ground.json](./364482-tony-hawks-proving-ground.json) |
 | Tony Hawk's Skate Jam | 112920 | [112920-tony-hawks-skate-jam.json](./112920-tony-hawks-skate-jam.json) |
 | Tony Hawk's Sonic McOrigins Plus Christmas | 279726 | [279726-tony-hawks-sonic-mcorigins-plus-christmas.json](./279726-tony-hawks-sonic-mcorigins-plus-christmas.json) |
