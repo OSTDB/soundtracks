@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain of Arrows | 145594 | [145594-rain-of-arrows.json](./145594-rain-of-arrows.json) |
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
 | Rain of Reflections | 58544 | [58544-rain-of-reflections.json](./58544-rain-of-reflections.json) |
+| Rain on their Parade! | 252080 | [252080-rain-on-their-parade.json](./252080-rain-on-their-parade.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
 | Rain Station Z | 410414 | [410414-rain-station-z.json](./410414-rain-station-z.json) |
 | Rain World: Deluxe Edition | 290437 | [290437-rain-world-deluxe-edition.json](./290437-rain-world-deluxe-edition.json) |
@@ -2141,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Mary: Manor Renovation | 227949 | [227949-rescue-mary-manor-renovation.json](./227949-rescue-mary-manor-renovation.json) |
 | Rescue my Queen! | 140998 | [140998-rescue-my-queen.json](./140998-rescue-my-queen.json) |
 | Rescue Ops: Wildfire | 349412 | [349412-rescue-ops-wildfire.json](./349412-rescue-ops-wildfire.json) |
+| Rescue Pets: My ePets | 252120 | [252120-rescue-pets-my-epets.json](./252120-rescue-pets-my-epets.json) |
 | Rescue Quest | 346597 | [346597-rescue-quest.json](./346597-rescue-quest.json) |
 | Rescue Quest Gold: Collector's Edition | 203375 | [203375-rescue-quest-gold-collectors-edition.json](./203375-rescue-quest-gold-collectors-edition.json) |
 | Rescue Race | 243810 | [243810-rescue-race.json](./243810-rescue-race.json) |
