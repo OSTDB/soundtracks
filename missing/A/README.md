@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircrafter | 379858 | [379858-aircrafter.json](./379858-aircrafter.json) |
 | Airdrift | 203867 | [203867-airdrift.json](./203867-airdrift.json) |
 | Aireo Flight Simulator 2025 Edition | 328579 | [328579-aireo-flight-simulator-2025-edition.json](./328579-aireo-flight-simulator-2025-edition.json) |
+| Aireo FlightSimulator | 264563 | [264563-aireo-flightsimulator.json](./264563-aireo-flightsimulator.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
 | Airflow | 312675 | [312675-airflow.json](./312675-airflow.json) |
 | Airflow: Seattle ARTCC | 376106 | [376106-airflow-seattle-artcc.json](./376106-airflow-seattle-artcc.json) |
@@ -2858,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amit the Paperman | 417681 | [417681-amit-the-paperman.json](./417681-amit-the-paperman.json) |
 | AmiWordle | 304190 | [304190-amiwordle.json](./304190-amiwordle.json) |
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
+| Ammo and Oxygen | 264568 | [264568-ammo-and-oxygen.json](./264568-ammo-and-oxygen.json) |
 | Ammo Pigs: Armed and Delicious | 107889 | [107889-ammo-pigs-armed-and-delicious.json](./107889-ammo-pigs-armed-and-delicious.json) |
 | Ammo Station Simulator | 390274 | [390274-ammo-station-simulator.json](./390274-ammo-station-simulator.json) |
 | Ammossum | 275884 | [275884-ammossum.json](./275884-ammossum.json) |
