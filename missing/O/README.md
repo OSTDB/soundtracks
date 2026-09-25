@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Any Journey | 339378 | [339378-on-any-journey.json](./339378-on-any-journey.json) |
 | On August 11, A Ship Sailed Into Port | 135704 | [135704-on-august-11-a-ship-sailed-into-port.json](./135704-on-august-11-a-ship-sailed-into-port.json) |
 | On Board Remastered | 109665 | [109665-on-board-remastered.json](./109665-on-board-remastered.json) |
+| On Christmas He Will Return Home | 281462 | [281462-on-christmas-he-will-return-home.json](./281462-on-christmas-he-will-return-home.json) |
 | On Constant Delay | 400296 | [400296-on-constant-delay.json](./400296-on-constant-delay.json) |
 | On Duty | 130378 | [130378-on-duty.json](./130378-on-duty.json) |
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
@@ -1604,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origami Angel: Feeling Not Found | 319139 | [319139-origami-angel-feeling-not-found.json](./319139-origami-angel-feeling-not-found.json) |
 | Origami Flight | 112726 | [112726-origami-flight.json](./112726-origami-flight.json) |
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
+| Origami Solutions | 281466 | [281466-origami-solutions.json](./281466-origami-solutions.json) |
 | Origami Treasure | 289435 | [289435-origami-treasure.json](./289435-origami-treasure.json) |
 | Origamihero Games 2D Platformer Collection | 212357 | [212357-origamihero-games-2d-platformer-collection.json](./212357-origamihero-games-2d-platformer-collection.json) |
 | Origens: Story Mode 2 | 375449 | [375449-origens-story-mode-2.json](./375449-origens-story-mode-2.json) |
