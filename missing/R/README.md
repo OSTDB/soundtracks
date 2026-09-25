@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R-Type II | 279056 | [279056-r-type-ii.json](./279056-r-type-ii.json) |
 | R-Type Leo | 6855 | [6855-r-type-leo.json](./6855-r-type-leo.json) |
+| R-Type Tactics I & II Cosmos: Limited Edition | 276768 | [276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json](./276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
 | R: Racing Evolution | 4076 | [4076-r-racing-evolution.json](./4076-r-racing-evolution.json) |
 | R.A.I.L. Together | 409644 | [409644-r-a-i-l-together.json](./409644-r-a-i-l-together.json) |
