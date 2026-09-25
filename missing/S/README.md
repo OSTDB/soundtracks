@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapbox | 371878 | [371878-scrapbox.json](./371878-scrapbox.json) |
 | Scraper: First Strike | 111091 | [111091-scraper-first-strike.json](./111091-scraper-first-strike.json) |
 | Scrapmetalship | 183007 | [183007-scrapmetalship.json](./183007-scrapmetalship.json) |
+| Scrappage | 236248 | [236248-scrappage.json](./236248-scrappage.json) |
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
 | Scrapper | 82399 | [82399-scrapper.json](./82399-scrapper.json) |
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
@@ -2629,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Girls | 396566 | [396566-shadow-girls.json](./396566-shadow-girls.json) |
 | Shadow Harvest: Phantom Ops | 16236 | [16236-shadow-harvest-phantom-ops.json](./16236-shadow-harvest-phantom-ops.json) |
 | Shadow Hawk One | 282140 | [282140-shadow-hawk-one.json](./282140-shadow-hawk-one.json) |
+| Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
 | Shadow Island | 239335 | [239335-shadow-island.json](./239335-shadow-island.json) |
 | Shadow Jump | 219603 | [219603-shadow-jump.json](./219603-shadow-jump.json) |
@@ -4144,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
 | Silent Scope Complete | 6052 | [6052-silent-scope-complete.json](./6052-silent-scope-complete.json) |
 | Silent Scope: Bone Eater | 159150 | [159150-silent-scope-bone-eater.json](./159150-silent-scope-bone-eater.json) |
+| Silent Scream | 236209 | [236209-silent-scream.json](./236209-silent-scream.json) |
 | Silent Scream 2 | 368512 | [368512-silent-scream-2.json](./368512-silent-scream-2.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Shadow | 123007 | [123007-silent-shadow.json](./123007-silent-shadow.json) |
@@ -4392,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Multipliers | 243677 | [243677-simple-multipliers.json](./243677-simple-multipliers.json) |
 | Simple Number-Based Color Sense IQ Test | 290424 | [290424-simple-number-based-color-sense-iq-test.json](./290424-simple-number-based-color-sense-iq-test.json) |
 | Simple Racing | 108404 | [108404-simple-racing.json](./108404-simple-racing.json) |
+| Simple Rally | 236247 | [236247-simple-rally.json](./236247-simple-rally.json) |
 | Simple Ray tracing Mini Game 10 | 152899 | [152899-simple-ray-tracing-mini-game-10.json](./152899-simple-ray-tracing-mini-game-10.json) |
 | Simple Rolling | 236931 | [236931-simple-rolling.json](./236931-simple-rolling.json) |
 | Simple Sandwich | 118376 | [118376-simple-sandwich.json](./118376-simple-sandwich.json) |
@@ -7906,6 +7910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
 | Space Run: Fast and Safe Delivery | 7421 | [7421-space-run-fast-and-safe-delivery.json](./7421-space-run-fast-and-safe-delivery.json) |
+| Space Runaway | 236224 | [236224-space-runaway.json](./236224-space-runaway.json) |
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Scavengers | 278471 | [278471-space-scavengers.json](./278471-space-scavengers.json) |
@@ -10893,6 +10898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
 | Strange Horticulture | 186597 | [186597-strange-horticulture.json](./186597-strange-horticulture.json) |
+| Strange House | 236241 | [236241-strange-house.json](./236241-strange-house.json) |
 | Strange Investigations: Becoming | 187952 | [187952-strange-investigations-becoming.json](./187952-strange-investigations-becoming.json) |
 | Strange Investigations: Truth Will Out - Collector's Edition | 356764 | [356764-strange-investigations-truth-will-out-collectors-edition.json](./356764-strange-investigations-truth-will-out-collectors-edition.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
