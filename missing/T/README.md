@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappy Chicken | 344000 | [344000-tappy-chicken.json](./344000-tappy-chicken.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
+| Tappy Lap | 243640 | [243640-tappy-lap.json](./243640-tappy-lap.json) |
 | Tappy Shots | 87362 | [87362-tappy-shots.json](./87362-tappy-shots.json) |
 | Tappy Shots 2018 | 100871 | [100871-tappy-shots-2018.json](./100871-tappy-shots-2018.json) |
 | Tappy Word | 274447 | [274447-tappy-word.json](./274447-tappy-word.json) |
@@ -2178,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abandoned Levels | 396418 | [396418-the-abandoned-levels.json](./396418-the-abandoned-levels.json) |
 | The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
 | The Abbey: Director's cut | 115606 | [115606-the-abbey-directors-cut.json](./115606-the-abbey-directors-cut.json) |
+| The ABC | 243625 | [243625-the-abc.json](./243625-the-abc.json) |
 | The Abduction of Bacon at Dawn | 120356 | [120356-the-abduction-of-bacon-at-dawn.json](./120356-the-abduction-of-bacon-at-dawn.json) |
 | The Abduction of Oscar Z | 300808 | [300808-the-abduction-of-oscar-z.json](./300808-the-abduction-of-oscar-z.json) |
 | The Abominable Shitpit | 418772 | [418772-the-abominable-shitpit.json](./418772-the-abominable-shitpit.json) |
@@ -3152,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The CW Quest | 58501 | [58501-the-cw-quest.json](./58501-the-cw-quest.json) |
 | The Cyber Masquerade: Summer Beach Reverie | 295340 | [295340-the-cyber-masquerade-summer-beach-reverie.json](./295340-the-cyber-masquerade-summer-beach-reverie.json) |
 | The Cycle | 105482 | [105482-the-cycle.json](./105482-the-cycle.json) |
+| The Cycle: Frontier - Breakthrough | 243632 | [243632-the-cycle-frontier-breakthrough.json](./243632-the-cycle-frontier-breakthrough.json) |
 | The Cycle: Season 3 | 137010 | [137010-the-cycle-season-3.json](./137010-the-cycle-season-3.json) |
 | The Cycling Games | 405100 | [405100-the-cycling-games.json](./405100-the-cycling-games.json) |
 | The Cyclist: Tactics | 159354 | [159354-the-cyclist-tactics.json](./159354-the-cyclist-tactics.json) |
@@ -3295,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Definitive Subsistence Update | 374288 | [374288-the-definitive-subsistence-update.json](./374288-the-definitive-subsistence-update.json) |
 | The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
+| The Delusions of Maximillian Wurst | 243646 | [243646-the-delusions-of-maximillian-wurst.json](./243646-the-delusions-of-maximillian-wurst.json) |
 | The Demon Crystal | 47555 | [47555-the-demon-crystal.json](./47555-the-demon-crystal.json) |
 | The Demon Lord and the Guardian Knights | 134641 | [134641-the-demon-lord-and-the-guardian-knights.json](./134641-the-demon-lord-and-the-guardian-knights.json) |
 | The Demon Lord is Mine! | 215189 | [215189-the-demon-lord-is-mine.json](./215189-the-demon-lord-is-mine.json) |
@@ -4493,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
 | The Joy of Putting | 386699 | [386699-the-joy-of-putting.json](./386699-the-joy-of-putting.json) |
 | The Joy of Sex | 46561 | [46561-the-joy-of-sex.json](./46561-the-joy-of-sex.json) |
+| The Judgement Chamber | 243656 | [243656-the-judgement-chamber.json](./243656-the-judgement-chamber.json) |
 | The Judgement of Q | 173272 | [173272-the-judgement-of-q.json](./173272-the-judgement-of-q.json) |
 | The Judgment Collection | 342629 | [342629-the-judgment-collection.json](./342629-the-judgment-collection.json) |
 | The Juice of God's Future | 176387 | [176387-the-juice-of-gods-future.json](./176387-the-juice-of-gods-future.json) |
@@ -4974,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: A Link to the Past Redux | 219073 | [219073-the-legend-of-zelda-a-link-to-the-past-redux.json](./219073-the-legend-of-zelda-a-link-to-the-past-redux.json) |
 | The Legend of Zelda: A New Light | 233602 | [233602-the-legend-of-zelda-a-new-light.json](./233602-the-legend-of-zelda-a-new-light.json) |
 | The Legend of Zelda: Allhallows Eve | 308390 | [308390-the-legend-of-zelda-allhallows-eve.json](./308390-the-legend-of-zelda-allhallows-eve.json) |
+| The Legend of Zelda: Book of Mudora | 243614 | [243614-the-legend-of-zelda-book-of-mudora.json](./243614-the-legend-of-zelda-book-of-mudora.json) |
 | The Legend of Zelda: Breath of the Wild - Collector's Edition | 136841 | [136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json](./136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Hyrule Rebalance | 250327 | [250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json](./250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json) |
 | The Legend of Zelda: Breath of the Wild - Islands Expansion | 250324 | [250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json](./250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json) |
@@ -5001,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Majora's Mask 3D | 8593 | [8593-the-legend-of-zelda-majoras-mask-3d.json](./8593-the-legend-of-zelda-majoras-mask-3d.json) |
 | The Legend of Zelda: Mask of the Gods | 323280 | [323280-the-legend-of-zelda-mask-of-the-gods.json](./323280-the-legend-of-zelda-mask-of-the-gods.json) |
 | The Legend of Zelda: Mercuris' Chest | 243269 | [243269-the-legend-of-zelda-mercuris-chest.json](./243269-the-legend-of-zelda-mercuris-chest.json) |
+| The Legend of Zelda: Mystery of Solarus DX | 243615 | [243615-the-legend-of-zelda-mystery-of-solarus-dx.json](./243615-the-legend-of-zelda-mystery-of-solarus-dx.json) |
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
 | The Legend of Zelda: New Beginnings | 322102 | [322102-the-legend-of-zelda-new-beginnings.json](./322102-the-legend-of-zelda-new-beginnings.json) |
@@ -5013,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Perils of Darkness | 213041 | [213041-the-legend-of-zelda-perils-of-darkness.json](./213041-the-legend-of-zelda-perils-of-darkness.json) |
 | The Legend of Zelda: Picross | 172690 | [172690-the-legend-of-zelda-picross.json](./172690-the-legend-of-zelda-picross.json) |
 | The Legend of Zelda: Relics of the Past | 250319 | [250319-the-legend-of-zelda-relics-of-the-past.json](./250319-the-legend-of-zelda-relics-of-the-past.json) |
+| The Legend of Zelda: Return of the Hylian SE | 243616 | [243616-the-legend-of-zelda-return-of-the-hylian-se.json](./243616-the-legend-of-zelda-return-of-the-hylian-se.json) |
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
 | The Legend of Zelda: Specter's Oculus | 323365 | [323365-the-legend-of-zelda-specters-oculus.json](./323365-the-legend-of-zelda-specters-oculus.json) |
@@ -5836,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
 | The Perfect Sniper | 81012 | [81012-the-perfect-sniper.json](./81012-the-perfect-sniper.json) |
+| The Perfect Specimen | 243620 | [243620-the-perfect-specimen.json](./243620-the-perfect-specimen.json) |
 | The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
 | The Perfect Tree | 89697 | [89697-the-perfect-tree.json](./89697-the-perfect-tree.json) |
 | The Perils of Willy | 62218 | [62218-the-perils-of-willy.json](./62218-the-perils-of-willy.json) |
@@ -6014,6 +6023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
 | The Quiet Sleep | 72385 | [72385-the-quiet-sleep.json](./72385-the-quiet-sleep.json) |
 | The Quintessential Princesses: Fantasy, Abyss, and Magic Academy | 342720 | [342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json](./342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json) |
+| The Quintessential Quintuplets: Five Promises Made With Her | 243630 | [243630-the-quintessential-quintuplets-five-promises-made-with-her.json](./243630-the-quintessential-quintuplets-five-promises-made-with-her.json) |
 | The Quintessential Quintuplets: Gotopazu Story | 284393 | [284393-the-quintessential-quintuplets-gotopazu-story.json](./284393-the-quintessential-quintuplets-gotopazu-story.json) |
 | The Quintessential Quintuplets: Gotopazu Story 2nd | 299466 | [299466-the-quintessential-quintuplets-gotopazu-story-2nd.json](./299466-the-quintessential-quintuplets-gotopazu-story-2nd.json) |
 | The Quintessential Quintuplets: Omoide VR - Itsuki | 211734 | [211734-the-quintessential-quintuplets-omoide-vr-itsuki.json](./211734-the-quintessential-quintuplets-omoide-vr-itsuki.json) |
@@ -7946,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Kiko | 333202 | [333202-this-is-kiko.json](./333202-this-is-kiko.json) |
 | This Is Love | 370673 | [370673-this-is-love.json](./370673-this-is-love.json) |
 | This is My Place | 264574 | [264574-this-is-my-place.json](./264574-this-is-my-place.json) |
+| This Is Not a Ball Game. | 243636 | [243636-this-is-not-a-ball-game.json](./243636-this-is-not-a-ball-game.json) |
 | This Is Not A Love Letter | 339951 | [339951-this-is-not-a-love-letter.json](./339951-this-is-not-a-love-letter.json) |
 | This Is Not For You | 417522 | [417522-this-is-not-for-you.json](./417522-this-is-not-for-you.json) |
 | This is Pool | 109584 | [109584-this-is-pool.json](./109584-this-is-pool.json) |
@@ -12458,6 +12469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunguska: The Visitation | 152320 | [152320-tunguska-the-visitation.json](./152320-tunguska-the-visitation.json) |
 | Tunguska: The Visitation - Complete Edition | 338030 | [338030-tunguska-the-visitation-complete-edition.json](./338030-tunguska-the-visitation-complete-edition.json) |
 | Tunguska: The Visitation - Way of The Hunter | 227863 | [227863-tunguska-the-visitation-way-of-the-hunter.json](./227863-tunguska-the-visitation-way-of-the-hunter.json) |
+| Tunics! | 243617 | [243617-tunics.json](./243617-tunics.json) |
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tunnel 19 | 358865 | [358865-tunnel-19.json](./358865-tunnel-19.json) |
 | Tunnel Assault | 298627 | [298627-tunnel-assault.json](./298627-tunnel-assault.json) |
