@@ -3314,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokkaido Game | 272254 | [272254-hokkaido-game.json](./272254-hokkaido-game.json) |
 | Hokkaido Hatsu!! Dosanko Wide ga DS ni Narimashita! Hoshizawa Sachiko no Temanashi Raku Raku Gohan | 269584 | [269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json](./269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json) |
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206134 | [206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
+| Hokkaido: 4,500km | 264073 | [264073-hokkaido-4-500km.json](./264073-hokkaido-4-500km.json) |
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
 | Hokusai | 106540 | [106540-hokusai.json](./106540-hokusai.json) |
 | Hokuto no Ken 5: Tenma Ryuusei-den Ai Zesshou | 42552 | [42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json](./42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json) |
@@ -4010,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host 714 | 153440 | [153440-host-714.json](./153440-host-714.json) |
 | Host Master and the Conquest of Humor | 62186 | [62186-host-master-and-the-conquest-of-humor.json](./62186-host-master-and-the-conquest-of-humor.json) |
 | Host Master Deux: Quest for Identity | 62185 | [62185-host-master-deux-quest-for-identity.json](./62185-host-master-deux-quest-for-identity.json) |
+| Host no Abunai Sekai | 264091 | [264091-host-no-abunai-sekai.json](./264091-host-no-abunai-sekai.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
@@ -4547,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humankind: Collection | 205091 | [205091-humankind-collection.json](./205091-humankind-collection.json) |
 | Humankind: Cultures of Africa | 188046 | [188046-humankind-cultures-of-africa.json](./188046-humankind-cultures-of-africa.json) |
 | Humankind: Cultures of Latin America | 204362 | [204362-humankind-cultures-of-latin-america.json](./204362-humankind-cultures-of-latin-america.json) |
+| Humankind: Cultures of Oceania Pack | 264004 | [264004-humankind-cultures-of-oceania-pack.json](./264004-humankind-cultures-of-oceania-pack.json) |
 | Humankind: Day One Edition | 139935 | [139935-humankind-day-one-edition.json](./139935-humankind-day-one-edition.json) |
 | Humankind: Definitive Edition | 283778 | [283778-humankind-definitive-edition.json](./283778-humankind-definitive-edition.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
