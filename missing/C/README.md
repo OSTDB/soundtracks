@@ -6002,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crack the Pack | 411003 | [411003-crack-the-pack.json](./411003-crack-the-pack.json) |
 | Crack'ed | 11298 | [11298-cracked.json](./11298-cracked.json) |
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
+| Cracked | 261769 | [261769-cracked.json](./261769-cracked.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
@@ -6749,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Dungeon | 149930 | [149930-crossing-dungeon.json](./149930-crossing-dungeon.json) |
 | Crossing Frontier: Fate Foretold | 275096 | [275096-crossing-frontier-fate-foretold.json](./275096-crossing-frontier-fate-foretold.json) |
 | Crossing Miracles | 316647 | [316647-crossing-miracles.json](./316647-crossing-miracles.json) |
+| Crossing the Sands | 261842 | [261842-crossing-the-sands.json](./261842-crossing-the-sands.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
 | Crossmath | 381273 | [381273-crossmath.json](./381273-crossmath.json) |
@@ -7704,6 +7706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Soldier Sharaku | 45934 | [45934-cyber-soldier-sharaku.json](./45934-cyber-soldier-sharaku.json) |
 | Cyber Souls | 238591 | [238591-cyber-souls.json](./238591-cyber-souls.json) |
 | Cyber Spin | 42615 | [42615-cyber-spin.json](./42615-cyber-spin.json) |
+| Cyber Sprint | 261754 | [261754-cyber-sprint.json](./261754-cyber-sprint.json) |
 | Cyber Sprinters | 386839 | [386839-cyber-sprinters.json](./386839-cyber-sprinters.json) |
 | Cyber Stadium Series: Base Wars | 9876 | [9876-cyber-stadium-series-base-wars.json](./9876-cyber-stadium-series-base-wars.json) |
 | Cyber Storm Edge 64 | 294866 | [294866-cyber-storm-edge-64.json](./294866-cyber-storm-edge-64.json) |
@@ -7834,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg Ninja vs. The Third Reich | 115585 | [115585-cyborg-ninja-vs-the-third-reich.json](./115585-cyborg-ninja-vs-the-third-reich.json) |
 | Cyborg-Prototype | 309646 | [309646-cyborg-prototype.json](./309646-cyborg-prototype.json) |
 | Cyborg: Rise | 311492 | [311492-cyborg-rise.json](./311492-cyborg-rise.json) |
+| Cyborg3003 | 261760 | [261760-cyborg3003.json](./261760-cyborg3003.json) |
 | Cybotron | 13835 | [13835-cybotron.json](./13835-cybotron.json) |
 | Cybrid | 154359 | [154359-cybrid.json](./154359-cybrid.json) |
 | Cybro | 389732 | [389732-cybro.json](./389732-cybro.json) |
