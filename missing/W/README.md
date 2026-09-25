@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarFire: Deluxe Edition | 53886 | [53886-warfire-deluxe-edition.json](./53886-warfire-deluxe-edition.json) |
 | Warforged | 114193 | [114193-warforged.json](./114193-warforged.json) |
 | Warframe: 1999 | 263563 | [263563-warframe-1999.json](./263563-warframe-1999.json) |
+| Warframe: Abyss of Dagath | 263531 | [263531-warframe-abyss-of-dagath.json](./263531-warframe-abyss-of-dagath.json) |
 | Warframe: Angels of the Zariman - Chrysalith Pack | 223706 | [223706-warframe-angels-of-the-zariman-chrysalith-pack.json](./223706-warframe-angels-of-the-zariman-chrysalith-pack.json) |
 | Warframe: Angels of the Zariman - Emergence Pack | 223707 | [223707-warframe-angels-of-the-zariman-emergence-pack.json](./223707-warframe-angels-of-the-zariman-emergence-pack.json) |
 | Warframe: Chains of Harrow | 198495 | [198495-warframe-chains-of-harrow.json](./198495-warframe-chains-of-harrow.json) |
@@ -717,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpath: Jurassic Park | 8278 | [8278-warpath-jurassic-park.json](./8278-warpath-jurassic-park.json) |
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarpBall | 34482 | [34482-warpball.json](./34482-warpball.json) |
+| Warped North | 263451 | [263451-warped-north.json](./263451-warped-north.json) |
 | Warped Space Shooter | 182980 | [182980-warped-space-shooter.json](./182980-warped-space-shooter.json) |
 | Warpfire | 364554 | [364554-warpfire.json](./364554-warpfire.json) |
 | Warpfire.io | 412425 | [412425-warpfire-io.json](./412425-warpfire-io.json) |
@@ -1662,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whimsy Bake ＆ Craft | 349469 | [349469-whimsy-bake-and-craft.json](./349469-whimsy-bake-and-craft.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
 | Whip the Vote | 37379 | [37379-whip-the-vote.json](./37379-whip-the-vote.json) |
+| Whip the Worker | 263466 | [263466-whip-the-worker.json](./263466-whip-the-worker.json) |
 | Whiplash | 411608 | [411608-whiplash.json](./411608-whiplash.json) |
 | Whiplash | 95503 | [95503-whiplash.json](./95503-whiplash.json) |
 | Whiplash Taxi Co | 293768 | [293768-whiplash-taxi-co.json](./293768-whiplash-taxi-co.json) |
@@ -1785,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whitematter | 365895 | [365895-whitematter.json](./365895-whitematter.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
 | Whiteout Survival | 240884 | [240884-whiteout-survival.json](./240884-whiteout-survival.json) |
+| Whitestone | 263534 | [263534-whitestone.json](./263534-whitestone.json) |
 | Whitevale Defender | 98774 | [98774-whitevale-defender.json](./98774-whitevale-defender.json) |
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
 | WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
