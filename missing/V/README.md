@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory: The Age of Racing | 16850 | [16850-victory-the-age-of-racing.json](./16850-victory-the-age-of-racing.json) |
 | Vida Loka Simulator | 397246 | [397246-vida-loka-simulator.json](./397246-vida-loka-simulator.json) |
 | Vidar | 27191 | [27191-vidar.json](./27191-vidar.json) |
+| Video 8 Ball | 252115 | [252115-video-8-ball.json](./252115-video-8-ball.json) |
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
 | Video Checkers | 18003 | [18003-video-checkers.json](./18003-video-checkers.json) |
 | Video Cube: Space | 130754 | [130754-video-cube-space.json](./130754-video-cube-space.json) |
