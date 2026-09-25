@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
 | Jungle Guardians | 112720 | [112720-jungle-guardians.json](./112720-jungle-guardians.json) |
+| Jungle Hunt | 282065 | [282065-jungle-hunt.json](./282065-jungle-hunt.json) |
 | Jungle Jammy | 242565 | [242565-jungle-jammy.json](./242565-jungle-jammy.json) |
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
 | Jungle Jinx | 355563 | [355563-jungle-jinx.json](./355563-jungle-jinx.json) |
