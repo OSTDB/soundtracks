@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Flip | 300856 | [300856-ninja-flip.json](./300856-ninja-flip.json) |
 | Ninja Frog | 93523 | [93523-ninja-frog.json](./93523-ninja-frog.json) |
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
+| Ninja Fuzzgrawth | 228384 | [228384-ninja-fuzzgrawth.json](./228384-ninja-fuzzgrawth.json) |
 | Ninja Gaiden | 175905 | [175905-ninja-gaiden.json](./175905-ninja-gaiden.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
 | Ninja Gaiden 3 | 7122 | [7122-ninja-gaiden-3.json](./7122-ninja-gaiden-3.json) |
@@ -2742,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Guilty! | 353903 | [353903-not-guilty.json](./353903-not-guilty.json) |
 | Not in Heaven | 111102 | [111102-not-in-heaven.json](./111102-not-in-heaven.json) |
 | Not Involved | 229782 | [229782-not-involved.json](./229782-not-involved.json) |
+| Not Just a Hat Rack | 228396 | [228396-not-just-a-hat-rack.json](./228396-not-just-a-hat-rack.json) |
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Meow Purroblem | 247539 | [247539-not-meow-purroblem.json](./247539-not-meow-purroblem.json) |
