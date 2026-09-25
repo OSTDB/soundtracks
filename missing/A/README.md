@@ -3487,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
 | Anime Shop Simulator ✨ | 415269 | [415269-anime-shop-simulator.json](./415269-anime-shop-simulator.json) |
+| Anime Sniper | 255062 | [255062-anime-sniper.json](./255062-anime-sniper.json) |
 | Anime Spa | 279757 | [279757-anime-spa.json](./279757-anime-spa.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Studio Saga | 287237 | [287237-anime-studio-saga.json](./287237-anime-studio-saga.json) |
