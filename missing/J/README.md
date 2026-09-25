@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League Heroes | 248573 | [248573-justice-league-heroes.json](./248573-justice-league-heroes.json) |
 | Justice League United | 313329 | [313329-justice-league-united.json](./313329-justice-league-united.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
+| Justice Seeker: Unsafe Data | 236772 | [236772-justice-seeker-unsafe-data.json](./236772-justice-seeker-unsafe-data.json) |
 | Justice Strikes | 129017 | [129017-justice-strikes.json](./129017-justice-strikes.json) |
 | Justice Sucks: Tactical Vacuum Action | 138203 | [138203-justice-sucks-tactical-vacuum-action.json](./138203-justice-sucks-tactical-vacuum-action.json) |
 | Justice Xwar Online 2 | 117712 | [117712-justice-xwar-online-2.json](./117712-justice-xwar-online-2.json) |
