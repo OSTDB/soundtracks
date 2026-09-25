@@ -4377,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color | 90638 | [90638-color.json](./90638-color.json) |
 | Color 360 | 26936 | [26936-color-360.json](./26936-color-360.json) |
 | Color Ball | 191131 | [191131-color-ball.json](./191131-color-ball.json) |
+| Color Ball | 279063 | [279063-color-ball.json](./279063-color-ball.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
 | Color Block Jam | 339436 | [339436-color-block-jam.json](./339436-color-block-jam.json) |
@@ -4967,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confrontation | 282719 | [282719-confrontation.json](./282719-confrontation.json) |
 | Confused? | 71490 | [71490-confused.json](./71490-confused.json) |
 | Confusing game | 148340 | [148340-confusing-game.json](./148340-confusing-game.json) |
+| Confusion Constructions | 279074 | [279074-confusion-constructions.json](./279074-confusion-constructions.json) |
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
@@ -7504,6 +7506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Animals Memory Card Game | 153455 | [153455-cute-animals-memory-card-game.json](./153455-cute-animals-memory-card-game.json) |
 | Cute Army: A Cat Story | 176448 | [176448-cute-army-a-cat-story.json](./176448-cute-army-a-cat-story.json) |
 | Cute Bendy and Projectionist | 106520 | [106520-cute-bendy-and-projectionist.json](./106520-cute-bendy-and-projectionist.json) |
+| Cute Bendy and The Projectionist | 279065 | [279065-cute-bendy-and-the-projectionist.json](./279065-cute-bendy-and-the-projectionist.json) |
 | Cute Bite | 152325 | [152325-cute-bite.json](./152325-cute-bite.json) |
 | Cute Blocks | 264329 | [264329-cute-blocks.json](./264329-cute-blocks.json) |
 | Cute Capybaras | 256559 | [256559-cute-capybaras.json](./256559-cute-capybaras.json) |
