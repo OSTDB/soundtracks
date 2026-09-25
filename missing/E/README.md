@@ -818,11 +818,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
 | Electronic Billiards | 79584 | [79584-electronic-billiards.json](./79584-electronic-billiards.json) |
 | Electronic Hand-Held Connect Four | 233610 | [233610-electronic-hand-held-connect-four.json](./233610-electronic-hand-held-connect-four.json) |
+| Electronic Hand-Held Monopoly | 233988 | [233988-electronic-hand-held-monopoly.json](./233988-electronic-hand-held-monopoly.json) |
 | Electronic Shop Simulator | 344354 | [344354-electronic-shop-simulator.json](./344354-electronic-shop-simulator.json) |
 | Electronic Super Joy 2 | 120745 | [120745-electronic-super-joy-2.json](./120745-electronic-super-joy-2.json) |
 | Electronic Super Joy 2: Groove Wizard's Tower | 171488 | [171488-electronic-super-joy-2-groove-wizards-tower.json](./171488-electronic-super-joy-2-groove-wizards-tower.json) |
 | Electronic Super Joy: Groove City | 17402 | [17402-electronic-super-joy-groove-city.json](./17402-electronic-super-joy-groove-city.json) |
 | Electronic Talking Super Computer | 374709 | [374709-electronic-talking-super-computer.json](./374709-electronic-talking-super-computer.json) |
+| Electronic Uno | 233989 | [233989-electronic-uno.json](./233989-electronic-uno.json) |
 | Electronic Volleyball | 41573 | [41573-electronic-volleyball.json](./41573-electronic-volleyball.json) |
 | Electronic World Z | 150698 | [150698-electronic-world-z.json](./150698-electronic-world-z.json) |
 | Electronics Puzzle Lab 2 | 362342 | [362342-electronics-puzzle-lab-2.json](./362342-electronics-puzzle-lab-2.json) |
