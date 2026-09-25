@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Arena | 271694 | [271694-dash-arena.json](./271694-dash-arena.json) |
 | Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
+| Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
 | Dash Quest | 99402 | [99402-dash-quest.json](./99402-dash-quest.json) |
@@ -5759,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
 | Drake Hollow | 125630 | [125630-drake-hollow.json](./125630-drake-hollow.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
+| Draken's Shrine | 257918 | [257918-drakens-shrine.json](./257918-drakens-shrine.json) |
 | Drakengard 2 | 11663 | [11663-drakengard-2.json](./11663-drakengard-2.json) |
 | Drakens Värld | 139804 | [139804-drakens-varld.json](./139804-drakens-varld.json) |
 | Drakensang Online | 8772 | [8772-drakensang-online.json](./8772-drakensang-online.json) |
@@ -6808,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
 | Dungeon of the Endless: Deep Freeze | 168244 | [168244-dungeon-of-the-endless-deep-freeze.json](./168244-dungeon-of-the-endless-deep-freeze.json) |
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
+| Dungeon of the Forgotten King | 257981 | [257981-dungeon-of-the-forgotten-king.json](./257981-dungeon-of-the-forgotten-king.json) |
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
 | Dungeon of Zolthan | 32967 | [32967-dungeon-of-zolthan.json](./32967-dungeon-of-zolthan.json) |
 | Dungeon Party | 134613 | [134613-dungeon-party.json](./134613-dungeon-party.json) |
