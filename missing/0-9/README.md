@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 'Round The Mind | 265687 | [265687-round-the-mind.json](./265687-round-the-mind.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | "Did You Submit a Ticket?" Simulator | 417551 | [417551-did-you-submit-a-ticket-simulator.json](./417551-did-you-submit-a-ticket-simulator.json) |
+| "Edna & Harvey" Bundle | 271701 | [271701-edna-and-harvey-bundle.json](./271701-edna-and-harvey-bundle.json) |
 | "Glow Ball" - The billiard puzzle game | 34802 | [34802-glow-ball-the-billiard-puzzle-game.json](./34802-glow-ball-the-billiard-puzzle-game.json) |
 | "Hello, world." | 130306 | [130306-hello-world.json](./130306-hello-world.json) |
 | "Out" file#01 | 237475 | [237475-out-file-01.json](./237475-out-file-01.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
 | Édgimon | 287729 | [287729-edgimon.json](./287729-edgimon.json) |
+| ​Gooseball Playdate: Plus Slingshot / Spars | 271699 | [271699-gooseball-playdate-plus-slingshot-spars.json](./271699-gooseball-playdate-plus-slingshot-spars.json) |
 | Łowca Głów | 98944 | [98944-owca-g-ow.json](./98944-owca-g-ow.json) |
 | Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
 | Ødeborg | 356297 | [356297-deborg.json](./356297-deborg.json) |
