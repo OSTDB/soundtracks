@@ -7063,6 +7063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button Pressing Simulator | 156526 | [156526-button-pressing-simulator.json](./156526-button-pressing-simulator.json) |
 | Button Sorter | 358934 | [358934-button-sorter.json](./358934-button-sorter.json) |
 | Button Tales: Way Home | 156188 | [156188-button-tales-way-home.json](./156188-button-tales-way-home.json) |
+| Button VR | 231302 | [231302-button-vr.json](./231302-button-vr.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
 | ButtonHunt 3 | 272787 | [272787-buttonhunt-3.json](./272787-buttonhunt-3.json) |
 | Buttons Up! | 386419 | [386419-buttons-up.json](./386419-buttons-up.json) |
