@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
+| Adventures of Ben: Rabbit Run | 248002 | [248002-adventures-of-ben-rabbit-run.json](./248002-adventures-of-ben-rabbit-run.json) |
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
 | Adventures of DaKoo the Dragon | 214026 | [214026-adventures-of-dakoo-the-dragon.json](./214026-adventures-of-dakoo-the-dragon.json) |
 | Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
@@ -4578,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archiver | 362909 | [362909-archiver.json](./362909-archiver.json) |
 | Archmage Ricka | 211440 | [211440-archmage-ricka.json](./211440-archmage-ricka.json) |
 | Archmage Rises | 31937 | [31937-archmage-rises.json](./31937-archmage-rises.json) |
+| ArchOlden | 248018 | [248018-archolden.json](./248018-archolden.json) |
 | Archon | 5539 | [5539-archon.json](./5539-archon.json) |
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
 | Archon: Initiator | 339920 | [339920-archon-initiator.json](./339920-archon-initiator.json) |
@@ -4734,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
+| Argumentum Ad Culpam | 248012 | [248012-argumentum-ad-culpam.json](./248012-argumentum-ad-culpam.json) |
 | Argus | 361325 | [361325-argus.json](./361325-argus.json) |
 | Argus | 363051 | [363051-argus.json](./363051-argus.json) |
 | Argus DX | 361326 | [361326-argus-dx.json](./361326-argus-dx.json) |
@@ -5148,6 +5151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Aventuras da Abelhinha Maya | 273877 | [273877-as-aventuras-da-abelhinha-maya.json](./273877-as-aventuras-da-abelhinha-maya.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
+| As Crônicas de Mar Céu | 247988 | [247988-as-cronicas-de-mar-ceu.json](./247988-as-cronicas-de-mar-ceu.json) |
 | As Long As We're Together: Magical Girls Sweet & Pure | 135055 | [135055-as-long-as-were-together-magical-girls-sweet-and-pure.json](./135055-as-long-as-were-together-magical-girls-sweet-and-pure.json) |
 | As Long As You're Here | 374293 | [374293-as-long-as-youre-here.json](./374293-as-long-as-youre-here.json) |
 | As Per My Last Email | 314868 | [314868-as-per-my-last-email.json](./314868-as-per-my-last-email.json) |
