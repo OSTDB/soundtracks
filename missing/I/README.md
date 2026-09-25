@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
 | Idle Elemental | 392446 | [392446-idle-elemental.json](./392446-idle-elemental.json) |
 | Idle Empires | 372697 | [372697-idle-empires.json](./372697-idle-empires.json) |
+| Idle Exorcism Hero | 270167 | [270167-idle-exorcism-hero.json](./270167-idle-exorcism-hero.json) |
 | Idle Expanse | 138599 | [138599-idle-expanse.json](./138599-idle-expanse.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
 | Idle Fitness Gym Tycoon | 392447 | [392447-idle-fitness-gym-tycoon.json](./392447-idle-fitness-gym-tycoon.json) |
@@ -1371,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry | 231078 | [231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json](./231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json) |
 | Infected World | 412279 | [412279-infected-world.json](./412279-infected-world.json) |
 | Infected: Outpost | 276267 | [276267-infected-outpost.json](./276267-infected-outpost.json) |
+| Infected: Super Soldier Project | 270088 | [270088-infected-super-soldier-project.json](./270088-infected-super-soldier-project.json) |
 | Infected: The Twin Vaccine | 62424 | [62424-infected-the-twin-vaccine.json](./62424-infected-the-twin-vaccine.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
 | Infection Bio War | 343978 | [343978-infection-bio-war.json](./343978-infection-bio-war.json) |
@@ -1976,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Espionage Inc. | 372453 | [372453-interstellar-espionage-inc.json](./372453-interstellar-espionage-inc.json) |
 | Interstellar Highway Robbery | 180793 | [180793-interstellar-highway-robbery.json](./180793-interstellar-highway-robbery.json) |
 | Interstellar Holy Spirit | 372128 | [372128-interstellar-holy-spirit.json](./372128-interstellar-holy-spirit.json) |
+| Interstellar Impact | 270090 | [270090-interstellar-impact.json](./270090-interstellar-impact.json) |
 | Interstellar Invaders | 68715 | [68715-interstellar-invaders.json](./68715-interstellar-invaders.json) |
 | Interstellar Orphan | 178634 | [178634-interstellar-orphan.json](./178634-interstellar-orphan.json) |
 | Interstellar Pilot | 207860 | [207860-interstellar-pilot.json](./207860-interstellar-pilot.json) |
