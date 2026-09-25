@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iggy & Java | 274526 | [274526-iggy-and-java.json](./274526-iggy-and-java.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
 | Ignatius | 169375 | [169375-ignatius.json](./169375-ignatius.json) |
+| Ignatius: Reunited | 235164 | [235164-ignatius-reunited.json](./235164-ignatius-reunited.json) |
 | Ignis | 294170 | [294170-ignis.json](./294170-ignis.json) |
 | Ignis | 81748 | [81748-ignis.json](./81748-ignis.json) |
 | Ignis Corruption | 196241 | [196241-ignis-corruption.json](./196241-ignis-corruption.json) |
@@ -1573,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Is What We Will Be | 286102 | [286102-infinity-is-what-we-will-be.json](./286102-infinity-is-what-we-will-be.json) |
 | Infinity Kingdom | 143085 | [143085-infinity-kingdom.json](./143085-infinity-kingdom.json) |
 | Infinity Knights: Xross | 289302 | [289302-infinity-knights-xross.json](./289302-infinity-knights-xross.json) |
+| Infinity Mechs | 235150 | [235150-infinity-mechs.json](./235150-infinity-mechs.json) |
 | Infinity Nikki: Blue Tears Season | 353286 | [353286-infinity-nikki-blue-tears-season.json](./353286-infinity-nikki-blue-tears-season.json) |
 | Infinity Nikki: Firework Season | 328586 | [328586-infinity-nikki-firework-season.json](./328586-infinity-nikki-firework-season.json) |
 | Infinity Nikki: Golden Dust | 410212 | [410212-infinity-nikki-golden-dust.json](./410212-infinity-nikki-golden-dust.json) |
