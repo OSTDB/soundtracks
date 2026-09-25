@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
 | Alien Caseno | 26571 | [26571-alien-caseno.json](./26571-alien-caseno.json) |
 | Alien Cat 5 | 158658 | [158658-alien-cat-5.json](./158658-alien-cat-5.json) |
+| Alien Clones | 263469 | [263469-alien-clones.json](./263469-alien-clones.json) |
 | Alien Colosseum | 211407 | [211407-alien-colosseum.json](./211407-alien-colosseum.json) |
 | Alien Cow Rampage: Orion Needs Your Milk! | 165509 | [165509-alien-cow-rampage-orion-needs-your-milk.json](./165509-alien-cow-rampage-orion-needs-your-milk.json) |
 | Alien Crab in the Ghostmaze | 180706 | [180706-alien-crab-in-the-ghostmaze.json](./180706-alien-crab-in-the-ghostmaze.json) |
