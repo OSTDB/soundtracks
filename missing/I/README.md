@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iClub Manager | 200159 | [200159-iclub-manager.json](./200159-iclub-manager.json) |
 | IClub Manager 2 | 175340 | [175340-iclub-manager-2.json](./175340-iclub-manager-2.json) |
 | Ico | 144612 | [144612-ico.json](./144612-ico.json) |
+| Ico Soccer | 269637 | [269637-ico-soccer.json](./269637-ico-soccer.json) |
 | ICode Stem Universe | 265154 | [265154-icode-stem-universe.json](./265154-icode-stem-universe.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
@@ -800,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikki | 12915 | [12915-ikki.json](./12915-ikki.json) |
 | Ikkitousen: Shining Dragon | 44645 | [44645-ikkitousen-shining-dragon.json](./44645-ikkitousen-shining-dragon.json) |
 | Ikoka Game | 273458 | [273458-ikoka-game.json](./273458-ikoka-game.json) |
+| IKOU: Intelligenztrainer fur Kids | 269634 | [269634-ikou-intelligenztrainer-fur-kids.json](./269634-ikou-intelligenztrainer-fur-kids.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Ikun Go Go Go | 390628 | [390628-ikun-go-go-go.json](./390628-ikun-go-go-go.json) |
 | Ikusaaaaaaan! | 151697 | [151697-ikusaaaaaaan.json](./151697-ikusaaaaaaan.json) |
@@ -840,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
 | Illegal Excavation | 249880 | [249880-illegal-excavation.json](./249880-illegal-excavation.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
+| Illu-Logi VOW | 269635 | [269635-illu-logi-vow.json](./269635-illu-logi-vow.json) |
 | Illum | 247605 | [247605-illum.json](./247605-illum.json) |
 | Illumina Defender | 369737 | [369737-illumina-defender.json](./369737-illumina-defender.json) |
 | Illumina Girls | 222937 | [222937-illumina-girls.json](./222937-illumina-girls.json) |
