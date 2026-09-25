@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Master | 239038 | [239038-tap-master.json](./239038-tap-master.json) |
 | Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
 | Tap My Katamari | 26991 | [26991-tap-my-katamari.json](./26991-tap-my-katamari.json) |
+| Tap Pet Hotel | 269072 | [269072-tap-pet-hotel.json](./269072-tap-pet-hotel.json) |
 | Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
 | Tap Smiths | 58233 | [58233-tap-smiths.json](./58233-tap-smiths.json) |
 | Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
@@ -5135,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Cases of Sherlock Holmes | 10978 | [10978-the-lost-cases-of-sherlock-holmes.json](./10978-the-lost-cases-of-sherlock-holmes.json) |
 | The Lost Cases of Sherlock Holmes 2 | 10979 | [10979-the-lost-cases-of-sherlock-holmes-2.json](./10979-the-lost-cases-of-sherlock-holmes-2.json) |
 | The Lost Caves | 179169 | [179169-the-lost-caves.json](./179169-the-lost-caves.json) |
+| The Lost Cemetery | 268995 | [268995-the-lost-cemetery.json](./268995-the-lost-cemetery.json) |
 | The Lost Child | 36535 | [36535-the-lost-child.json](./36535-the-lost-child.json) |
 | The Lost City | 323286 | [323286-the-lost-city.json](./323286-the-lost-city.json) |
 | The Lost City of Malathedra | 35670 | [35670-the-lost-city-of-malathedra.json](./35670-the-lost-city-of-malathedra.json) |
@@ -5466,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Murderer | 69801 | [69801-the-murderer.json](./69801-the-murderer.json) |
 | The Muse | 319556 | [319556-the-muse.json](./319556-the-muse.json) |
 | The Museum | 348961 | [348961-the-museum.json](./348961-the-museum.json) |
+| The Museum of Mid 2000s Forum Signatures | 269050 | [269050-the-museum-of-mid-2000s-forum-signatures.json](./269050-the-museum-of-mid-2000s-forum-signatures.json) |
 | The Museum Sentinel | 355100 | [355100-the-museum-sentinel.json](./355100-the-museum-sentinel.json) |
 | The Mushroom Season | 215228 | [215228-the-mushroom-season.json](./215228-the-mushroom-season.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
@@ -12045,6 +12048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucks & Trailers | 10290 | [10290-trucks-and-trailers.json](./10290-trucks-and-trailers.json) |
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
 | Trucksform3d Offroad 3D Shooting Bigfoot Endless Racing Truck | 102825 | [102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json](./102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json) |
+| Truckzilla: Monster Truck Mega Ramp Mania | 269051 | [269051-truckzilla-monster-truck-mega-ramp-mania.json](./269051-truckzilla-monster-truck-mega-ramp-mania.json) |
 | Truco | 193408 | [193408-truco.json](./193408-truco.json) |
 | Truco | 212888 | [212888-truco.json](./212888-truco.json) |
 | Truco Argentino | 410311 | [410311-truco-argentino.json](./410311-truco-argentino.json) |
@@ -12718,6 +12722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrant Tactics: Birth of Revolution | 398970 | [398970-tyrant-tactics-birth-of-revolution.json](./398970-tyrant-tactics-birth-of-revolution.json) |
 | Tyrant's Blessing | 164888 | [164888-tyrants-blessing.json](./164888-tyrants-blessing.json) |
 | Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
+| Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
 | Tyroom vs. Typing Gunner | 188499 | [188499-tyroom-vs-typing-gunner.json](./188499-tyroom-vs-typing-gunner.json) |
 | Tyto | 398472 | [398472-tyto.json](./398472-tyto.json) |
