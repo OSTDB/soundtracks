@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk With Me | 128002 | [128002-walk-with-me.json](./128002-walk-with-me.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
+| Walkabout Mini Golf: Atlantis | 232952 | [232952-walkabout-mini-golf-atlantis.json](./232952-walkabout-mini-golf-atlantis.json) |
 | Walkabout Mini Golf: Blokhaven | 408259 | [408259-walkabout-mini-golf-blokhaven.json](./408259-walkabout-mini-golf-blokhaven.json) |
 | Walkabout Mini Golf: Forgotten Fairyland | 372655 | [372655-walkabout-mini-golf-forgotten-fairyland.json](./372655-walkabout-mini-golf-forgotten-fairyland.json) |
 | Walkabout Mini Golf: Journey to the Center of the Earth | 251576 | [251576-walkabout-mini-golf-journey-to-the-center-of-the-earth.json](./251576-walkabout-mini-golf-journey-to-the-center-of-the-earth.json) |
@@ -2670,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
 | Woim | 404431 | [404431-woim.json](./404431-woim.json) |
+| Wojak Rush | 232936 | [232936-wojak-rush.json](./232936-wojak-rush.json) |
 | Wojdan | 90488 | [90488-wojdan.json](./90488-wojdan.json) |
 | Wok Planet | 220628 | [220628-wok-planet.json](./220628-wok-planet.json) |
 | Woke or Nah | 355532 | [355532-woke-or-nah.json](./355532-woke-or-nah.json) |
