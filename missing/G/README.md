@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Tails | 215156 | [215156-garden-tails.json](./215156-garden-tails.json) |
 | Garden Variety Body Horror | 110153 | [110153-garden-variety-body-horror.json](./110153-garden-variety-body-horror.json) |
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
+| Garden Weeder | 246334 | [246334-garden-weeder.json](./246334-garden-weeder.json) |
 | Garden Work Simulator 2026 | 396547 | [396547-garden-work-simulator-2026.json](./396547-garden-work-simulator-2026.json) |
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
 | Gardener | 285578 | [285578-gardener.json](./285578-gardener.json) |
@@ -2050,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Babies | 368661 | [368661-go-babies.json](./368661-go-babies.json) |
 | Go Ballistic | 152306 | [152306-go-ballistic.json](./152306-go-ballistic.json) |
 | Go Bananas | 269016 | [269016-go-bananas.json](./269016-go-bananas.json) |
+| Go Bang | 246335 | [246335-go-bang.json](./246335-go-bang.json) |
 | Go Bear Go! | 327830 | [327830-go-bear-go.json](./327830-go-bear-go.json) |
 | Go Bhop | 174751 | [174751-go-bhop.json](./174751-go-bhop.json) |
 | Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
@@ -2104,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go-Kart Simulator | 326417 | [326417-go-kart-simulator.json](./326417-go-kart-simulator.json) |
 | Go, Diego, Go! Great Dinosaur Rescue | 292114 | [292114-go-diego-go-great-dinosaur-rescue.json](./292114-go-diego-go-great-dinosaur-rescue.json) |
 | Go, Diego, Go! Great Dinosaur Rescue | 47978 | [47978-go-diego-go-great-dinosaur-rescue.json](./47978-go-diego-go-great-dinosaur-rescue.json) |
+| Go, Smile | 246336 | [246336-go-smile.json](./246336-go-smile.json) |
 | Go! Benny! | 48321 | [48321-go-benny.json](./48321-go-benny.json) |
 | Go! Birdie | 146859 | [146859-go-birdie.json](./146859-go-birdie.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
