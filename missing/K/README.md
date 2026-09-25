@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kelly Kangaroo | 292072 | [292072-kelly-kangaroo.json](./292072-kelly-kangaroo.json) |
 | Kelp Keeper | 290557 | [290557-kelp-keeper.json](./290557-kelp-keeper.json) |
 | Kelsi Davies: Haunt Escape | 275675 | [275675-kelsi-davies-haunt-escape.json](./275675-kelsi-davies-haunt-escape.json) |
+| Keltika | 259606 | [259606-keltika.json](./259606-keltika.json) |
 | Kelvin and The Chateau | 162432 | [162432-kelvin-and-the-chateau.json](./162432-kelvin-and-the-chateau.json) |
 | Kemco RPG Omnibus | 130304 | [130304-kemco-rpg-omnibus.json](./130304-kemco-rpg-omnibus.json) |
 | Kemco RPG Selection Vol. 3 | 130312 | [130312-kemco-rpg-selection-vol-3.json](./130312-kemco-rpg-selection-vol-3.json) |
@@ -2323,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuros | 16059 | [16059-kuros.json](./16059-kuros.json) |
 | Kursk | 22793 | [22793-kursk.json](./22793-kursk.json) |
 | Kursk - Battle at Prochorovka | 29223 | [29223-kursk-battle-at-prochorovka.json](./29223-kursk-battle-at-prochorovka.json) |
+| Kurt '99: The Football Manager | 259518 | [259518-kurt-99-the-football-manager.json](./259518-kurt-99-the-football-manager.json) |
 | Kurt: Der Fussballmanager | 171616 | [171616-kurt-der-fussballmanager.json](./171616-kurt-der-fussballmanager.json) |
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
