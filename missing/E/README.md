@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entangled | 344565 | [344565-entangled.json](./344565-entangled.json) |
 | Entanglement | 11339 | [11339-entanglement.json](./11339-entanglement.json) |
 | Entanglement | 212913 | [212913-entanglement.json](./212913-entanglement.json) |
+| Entasy Online | 230242 | [230242-entasy-online.json](./230242-entasy-online.json) |
 | Enter HorrorLand | 344561 | [344561-enter-horrorland.json](./344561-enter-horrorland.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
 | Enter the Construct | 117016 | [117016-enter-the-construct.json](./117016-enter-the-construct.json) |
