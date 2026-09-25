@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Lock | 34189 | [34189-quantum-lock.json](./34189-quantum-lock.json) |
 | Quantum Odyssey | 289448 | [289448-quantum-odyssey.json](./289448-quantum-odyssey.json) |
 | Quantum of Hope | 352846 | [352846-quantum-of-hope.json](./352846-quantum-of-hope.json) |
+| Quantum of Soul | 247994 | [247994-quantum-of-soul.json](./247994-quantum-of-soul.json) |
 | Quantum Phantom Basketball | 252766 | [252766-quantum-phantom-basketball.json](./252766-quantum-phantom-basketball.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
 | Quantum Quartz | 378423 | [378423-quantum-quartz.json](./378423-quantum-quartz.json) |
