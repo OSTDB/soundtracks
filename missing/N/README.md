@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
 | Neon Fantasy: Dinosaurs | 401022 | [401022-neon-fantasy-dinosaurs.json](./401022-neon-fantasy-dinosaurs.json) |
 | Neon Fantasy: Dogs | 270970 | [270970-neon-fantasy-dogs.json](./270970-neon-fantasy-dogs.json) |
+| Neon Fantasy: Monkeys | 274457 | [274457-neon-fantasy-monkeys.json](./274457-neon-fantasy-monkeys.json) |
 | Neon Fantasy: Predators | 278732 | [278732-neon-fantasy-predators.json](./278732-neon-fantasy-predators.json) |
 | Neon Fever | 312753 | [312753-neon-fever.json](./312753-neon-fever.json) |
 | Neon Fighter | 211720 | [211720-neon-fighter.json](./211720-neon-fighter.json) |
