@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
 | CandySnake | 334789 | [334789-candysnake.json](./334789-candysnake.json) |
 | CandyVenture | 113008 | [113008-candyventure.json](./113008-candyventure.json) |
+| CandyVenture: Rebaked | 280308 | [280308-candyventure-rebaked.json](./280308-candyventure-rebaked.json) |
 | Candyz | 206703 | [206703-candyz.json](./206703-candyz.json) |
 | CandyZoo 2 Electric Boogaloo | 133976 | [133976-candyzoo-2-electric-boogaloo.json](./133976-candyzoo-2-electric-boogaloo.json) |
 | Canfield | 83476 | [83476-canfield.json](./83476-canfield.json) |
@@ -3878,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
+| Closing at 2 | 280283 | [280283-closing-at-2.json](./280283-closing-at-2.json) |
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
@@ -5209,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraption | 57121 | [57121-contraption.json](./57121-contraption.json) |
 | Contraption Maker | 9802 | [9802-contraption-maker.json](./9802-contraption-maker.json) |
 | Contraption Maker: Battling Cards - Parts & Puzzles Expansion Pack | 163427 | [163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json](./163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json) |
+| Contraption Maker: Incredible Puzzles Pack | 280297 | [280297-contraption-maker-incredible-puzzles-pack.json](./280297-contraption-maker-incredible-puzzles-pack.json) |
 | Contraption Maker: Mighty Knights Parts & Puzzles Pack | 263215 | [263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json](./263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json) |
 | Contraption Zack | 24864 | [24864-contraption-zack.json](./24864-contraption-zack.json) |
 | Contraptions | 120824 | [120824-contraptions.json](./120824-contraptions.json) |
