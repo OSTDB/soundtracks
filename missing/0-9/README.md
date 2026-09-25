@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Syura & Nanako | 164473 | [164473-100-orange-juice-syura-and-nanako.json](./164473-100-orange-juice-syura-and-nanako.json) |
 | 100% Orange Juice: Tsih & Tequila | 164453 | [164453-100-orange-juice-tsih-and-tequila.json](./164453-100-orange-juice-tsih-and-tequila.json) |
 | 100% Orange Juice: Wanderer Pack | 164480 | [164480-100-orange-juice-wanderer-pack.json](./164480-100-orange-juice-wanderer-pack.json) |
+| 100% Orange Juice: Waruda Prison Break Pack | 255025 | [255025-100-orange-juice-waruda-prison-break-pack.json](./255025-100-orange-juice-waruda-prison-break-pack.json) |
 | 100% Orange Juice: Yuki & Tomomo Renewal Pack | 164470 | [164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json](./164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json) |
 | 100% Pasukaru Sensei: Perfect Paint Bombers | 55906 | [55906-100-pasukaru-sensei-perfect-paint-bombers.json](./55906-100-pasukaru-sensei-perfect-paint-bombers.json) |
 | 100+ Great Games | 273901 | [273901-100-great-games.json](./273901-100-great-games.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes | 308342 | [308342-15-minutes.json](./308342-15-minutes.json) |
 | 15 Minutes | 355071 | [355071-15-minutes.json](./355071-15-minutes.json) |
 | 15 Minutes At The World's End | 265616 | [265616-15-minutes-at-the-worlds-end.json](./265616-15-minutes-at-the-worlds-end.json) |
+| 15 Minutes Dungeon | 255026 | [255026-15-minutes-dungeon.json](./255026-15-minutes-dungeon.json) |
 | 15-in-1 Mega Bundle | 396436 | [396436-15-in-1-mega-bundle.json](./396436-15-in-1-mega-bundle.json) |
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
@@ -797,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
 | 3D Ultra Minigolf Adventures | 9899 | [9899-3d-ultra-minigolf-adventures.json](./9899-3d-ultra-minigolf-adventures.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
+| 3D Water Bike | 255033 | [255033-3d-water-bike.json](./255033-3d-water-bike.json) |
 | 3D Water Driver | 47561 | [47561-3d-water-driver.json](./47561-3d-water-driver.json) |
 | 3D Watermelon Game | 277950 | [277950-3d-watermelon-game.json](./277950-3d-watermelon-game.json) |
 | 3D-Laby | 98226 | [98226-3d-laby.json](./98226-3d-laby.json) |
