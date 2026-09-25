@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imp and Cubes | 246462 | [246462-imp-and-cubes.json](./246462-imp-and-cubes.json) |
 | Imp Dreams | 320189 | [320189-imp-dreams.json](./320189-imp-dreams.json) |
 | iMP: Surf the Music | 100197 | [100197-imp-surf-the-music.json](./100197-imp-surf-the-music.json) |
+| Impact | 257890 | [257890-impact.json](./257890-impact.json) |
 | Impact Space | 212292 | [212292-impact-space.json](./212292-impact-space.json) |
 | Impact to the Head | 408246 | [408246-impact-to-the-head.json](./408246-impact-to-the-head.json) |
 | Impact Trial: First Encounter | 279126 | [279126-impact-trial-first-encounter.json](./279126-impact-trial-first-encounter.json) |
@@ -2618,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It’s on the Mouse | 328244 | [328244-it-s-on-the-mouse.json](./328244-it-s-on-the-mouse.json) |
 | It's Our Revolution | 304108 | [304108-its-our-revolution.json](./304108-its-our-revolution.json) |
 | It's possible | 111536 | [111536-its-possible.json](./111536-its-possible.json) |
+| It's Puzzles: Wild Nature | 257882 | [257882-its-puzzles-wild-nature.json](./257882-its-puzzles-wild-nature.json) |
 | It's Raining Acorn! | 331136 | [331136-its-raining-acorn.json](./331136-its-raining-acorn.json) |
 | It's Raining Cats' & Dogs' Poop | 62217 | [62217-its-raining-cats-and-dogs-poop.json](./62217-its-raining-cats-and-dogs-poop.json) |
 | It's Raining Cats' & Dogs' Poop 2 | 62216 | [62216-its-raining-cats-and-dogs-poop-2.json](./62216-its-raining-cats-and-dogs-poop-2.json) |
