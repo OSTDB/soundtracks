@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasokare Hotel: Tsubomi | 408273 | [408273-tasokare-hotel-tsubomi.json](./408273-tasokare-hotel-tsubomi.json) |
 | Tasomachi: Behind the Twilight | 121481 | [121481-tasomachi-behind-the-twilight.json](./121481-tasomachi-behind-the-twilight.json) |
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
+| Taste of War | 232929 | [232929-taste-of-war.json](./232929-taste-of-war.json) |
 | Tasty Defense | 236246 | [236246-tasty-defense.json](./236246-tasty-defense.json) |
 | Tasty Jigsaw: Happy Hour 3 | 255067 | [255067-tasty-jigsaw-happy-hour-3.json](./255067-tasty-jigsaw-happy-hour-3.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
@@ -1262,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
 | Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
 | TeamPlay | 163976 | [163976-teamplay.json](./163976-teamplay.json) |
+| TeamPunk | 232927 | [232927-teampunk.json](./232927-teampunk.json) |
 | TeamTower | 160255 | [160255-teamtower.json](./160255-teamtower.json) |
 | Teaparty in Candyworld | 357226 | [357226-teaparty-in-candyworld.json](./357226-teaparty-in-candyworld.json) |
 | Teapot Poppers | 146915 | [146915-teapot-poppers.json](./146915-teapot-poppers.json) |
@@ -1286,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tearstone: Thieves of the Heart | 195699 | [195699-tearstone-thieves-of-the-heart.json](./195699-tearstone-thieves-of-the-heart.json) |
 | Tearstone: Thieves of the Heart - Collector's Edition | 322791 | [322791-tearstone-thieves-of-the-heart-collectors-edition.json](./322791-tearstone-thieves-of-the-heart-collectors-edition.json) |
 | Teatime with a Vampire | 301375 | [301375-teatime-with-a-vampire.json](./301375-teatime-with-a-vampire.json) |
+| Tebb And The Chistorbes | 232961 | [232961-tebb-and-the-chistorbes.json](./232961-tebb-and-the-chistorbes.json) |
 | Tebeo | 215147 | [215147-tebeo.json](./215147-tebeo.json) |
 | Tech and Blood | 181864 | [181864-tech-and-blood.json](./181864-tech-and-blood.json) |
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
@@ -4572,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jungle | 82395 | [82395-the-jungle.json](./82395-the-jungle.json) |
 | The Junuary Project | 233603 | [233603-the-junuary-project.json](./233603-the-junuary-project.json) |
 | The Jusou 3 | 289994 | [289994-the-jusou-3.json](./289994-the-jusou-3.json) |
+| The Justitia Files | 232955 | [232955-the-justitia-files.json](./232955-the-justitia-files.json) |
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
 | The Karaoke | 224806 | [224806-the-karaoke.json](./224806-the-karaoke.json) |
@@ -4645,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Carriage | 184470 | [184470-the-kings-carriage.json](./184470-the-kings-carriage.json) |
 | The King's Castle | 215739 | [215739-the-kings-castle.json](./215739-the-kings-castle.json) |
 | The King's Courier | 335242 | [335242-the-kings-courier.json](./335242-the-kings-courier.json) |
+| The King's Feast | 232930 | [232930-the-kings-feast.json](./232930-the-kings-feast.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
 | The King's Request | 103193 | [103193-the-kings-request.json](./103193-the-kings-request.json) |
@@ -6358,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of St. Brides | 12965 | [12965-the-secret-of-st-brides.json](./12965-the-secret-of-st-brides.json) |
 | The Secret of the Four Winds | 388965 | [388965-the-secret-of-the-four-winds.json](./388965-the-secret-of-the-four-winds.json) |
 | The Secret of Varonis | 244780 | [244780-the-secret-of-varonis.json](./244780-the-secret-of-varonis.json) |
+| The Secret Ops | 232933 | [232933-the-secret-ops.json](./232933-the-secret-ops.json) |
 | The Secret Order 8: Return to the Buried Kingdom | 127205 | [127205-the-secret-order-8-return-to-the-buried-kingdom.json](./127205-the-secret-order-8-return-to-the-buried-kingdom.json) |
 | The Secret Order Collection | 53780 | [53780-the-secret-order-collection.json](./53780-the-secret-order-collection.json) |
 | The Secret Pyramid | 225184 | [225184-the-secret-pyramid.json](./225184-the-secret-pyramid.json) |
@@ -10216,6 +10222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torque | 179604 | [179604-torque.json](./179604-torque.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
+| Torrential | 232957 | [232957-torrential.json](./232957-torrential.json) |
 | Torres | 94251 | [94251-torres.json](./94251-torres.json) |
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
 | Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
@@ -12284,6 +12291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator PRO 2016 | 89133 | [89133-truck-simulator-pro-2016.json](./89133-truck-simulator-pro-2016.json) |
 | Truck Simulator PRO Europe | 90378 | [90378-truck-simulator-pro-europe.json](./90378-truck-simulator-pro-europe.json) |
 | Truck Simulator Pro USA | 262336 | [262336-truck-simulator-pro-usa.json](./262336-truck-simulator-pro-usa.json) |
+| Truck Simulator Ultimate 3D | 232954 | [232954-truck-simulator-ultimate-3d.json](./232954-truck-simulator-ultimate-3d.json) |
 | Truck Simulator US Driver | 376580 | [376580-truck-simulator-us-driver.json](./376580-truck-simulator-us-driver.json) |
 | Truck Simulator USA & ATV Monster Rally Bundle | 306513 | [306513-truck-simulator-usa-and-atv-monster-rally-bundle.json](./306513-truck-simulator-usa-and-atv-monster-rally-bundle.json) |
 | Truck Simulator USA Car Games: Driving games & Car 2022 | 196177 | [196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json](./196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json) |
@@ -12806,6 +12814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twine3D | 81782 | [81782-twine3d.json](./81782-twine3d.json) |
 | TwinGrip | 373730 | [373730-twingrip.json](./373730-twingrip.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
+| Twinkle Hunter | 232956 | [232956-twinkle-hunter.json](./232956-twinkle-hunter.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
 | Twinkle Nights | 286037 | [286037-twinkle-nights.json](./286037-twinkle-nights.json) |
 | Twinkle Star Sprites | 35378 | [35378-twinkle-star-sprites.json](./35378-twinkle-star-sprites.json) |
