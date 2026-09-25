@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
 | Unusual End | 348981 | [348981-unusual-end.json](./348981-unusual-end.json) |
 | Unusual Ghost | 232008 | [232008-unusual-ghost.json](./232008-unusual-ghost.json) |
+| Unusual Quest | 272885 | [272885-unusual-quest.json](./272885-unusual-quest.json) |
 | Unusual Tales: Deep Below | 380447 | [380447-unusual-tales-deep-below.json](./380447-unusual-tales-deep-below.json) |
 | Unusual Times | 221393 | [221393-unusual-times.json](./221393-unusual-times.json) |
 | UnVeil the World | 265639 | [265639-unveil-the-world.json](./265639-unveil-the-world.json) |
@@ -1209,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up or Out | 105317 | [105317-up-or-out.json](./105317-up-or-out.json) |
 | Up Periscope! | 37160 | [37160-up-periscope.json](./37160-up-periscope.json) |
 | Up Shot | 315658 | [315658-up-shot.json](./315658-up-shot.json) |
+| Up Square | 272875 | [272875-up-square.json](./272875-up-square.json) |
 | Up to Divine | 346697 | [346697-up-to-divine.json](./346697-up-to-divine.json) |
 | Up to Gods | 275351 | [275351-up-to-gods.json](./275351-up-to-gods.json) |
 | Up Until the End | 133472 | [133472-up-until-the-end.json](./133472-up-until-the-end.json) |
