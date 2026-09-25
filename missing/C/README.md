@@ -7426,6 +7426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
 | Cupcake: an Apartment Adventure | 163818 | [163818-cupcake-an-apartment-adventure.json](./163818-cupcake-an-apartment-adventure.json) |
+| Cupcakeroo! | 256792 | [256792-cupcakeroo.json](./256792-cupcakeroo.json) |
 | Cupcakes and Critters | 63560 | [63560-cupcakes-and-critters.json](./63560-cupcakes-and-critters.json) |
 | Cuphead | 237497 | [237497-cuphead.json](./237497-cuphead.json) |
 | Cuphead Wii U | 357448 | [357448-cuphead-wii-u.json](./357448-cuphead-wii-u.json) |
