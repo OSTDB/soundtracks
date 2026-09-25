@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bargain Blocz | 235745 | [235745-bargain-blocz.json](./235745-bargain-blocz.json) |
 | Bargain Hunter | 110350 | [110350-bargain-hunter.json](./110350-bargain-hunter.json) |
 | Bargain Platfomer | 220352 | [220352-bargain-platfomer.json](./220352-bargain-platfomer.json) |
+| Bargain Puzzle Grid | 272786 | [272786-bargain-puzzle-grid.json](./272786-bargain-puzzle-grid.json) |
 | Bargain Toader | 230935 | [230935-bargain-toader.json](./230935-bargain-toader.json) |
 | Bargain Wargame | 273668 | [273668-bargain-wargame.json](./273668-bargain-wargame.json) |
 | Barge | 380000 | [380000-barge.json](./380000-barge.json) |
@@ -6872,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button Sorter | 358934 | [358934-button-sorter.json](./358934-button-sorter.json) |
 | Button Tales: Way Home | 156188 | [156188-button-tales-way-home.json](./156188-button-tales-way-home.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
+| ButtonHunt 3 | 272787 | [272787-buttonhunt-3.json](./272787-buttonhunt-3.json) |
 | Buttons Up! | 386419 | [386419-buttons-up.json](./386419-buttons-up.json) |
 | Buy a Croquette! | 360750 | [360750-buy-a-croquette.json](./360750-buy-a-croquette.json) |
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
