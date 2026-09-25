@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Amelia | 219670 | [219670-witch-amelia.json](./219670-witch-amelia.json) |
 | Witch Blood | 107831 | [107831-witch-blood.json](./107831-witch-blood.json) |
 | Witch College | 120949 | [120949-witch-college.json](./120949-witch-college.json) |
+| Witch Cram Sorceries | 262901 | [262901-witch-cram-sorceries.json](./262901-witch-cram-sorceries.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
 | Witch Halloween | 127913 | [127913-witch-halloween.json](./127913-witch-halloween.json) |
 | Witch House Mixtape | 271187 | [271187-witch-house-mixtape.json](./271187-witch-house-mixtape.json) |
