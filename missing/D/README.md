@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
+| Defense of Nations | 268505 | [268505-defense-of-nations.json](./268505-defense-of-nations.json) |
 | Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
@@ -3329,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Dungeon | 101352 | [101352-digital-dungeon.json](./101352-digital-dungeon.json) |
 | Digital Eclipse Arcade: Invasion of the Buffet Snatchers | 236851 | [236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json](./236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json) |
 | Digital Eclipse Arcade: Q.P.I.D. | 239655 | [239655-digital-eclipse-arcade-q-p-i-d.json](./239655-digital-eclipse-arcade-q-p-i-d.json) |
+| Digital Eclipse Bundle | 267969 | [267969-digital-eclipse-bundle.json](./267969-digital-eclipse-bundle.json) |
 | Digital Eclipse: Cyberpunk Survivor | 362924 | [362924-digital-eclipse-cyberpunk-survivor.json](./362924-digital-eclipse-cyberpunk-survivor.json) |
 | Digital Extreme Sport Games | 98800 | [98800-digital-extreme-sport-games.json](./98800-digital-extreme-sport-games.json) |
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
