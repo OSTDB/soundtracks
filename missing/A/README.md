@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
+| Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
 | Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
@@ -1240,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School | 252719 | [252719-after-school.json](./252719-after-school.json) |
 | After School | 253348 | [253348-after-school.json](./253348-after-school.json) |
 | After School Girlfriend | 206197 | [206197-after-school-girlfriend.json](./206197-after-school-girlfriend.json) |
+| After School: Full Horror Game | 233469 | [233469-after-school-full-horror-game.json](./233469-after-school-full-horror-game.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
 | After the Curtain Call | 377042 | [377042-after-the-curtain-call.json](./377042-after-the-curtain-call.json) |
@@ -1668,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
 | Airport Control 27 | 398961 | [398961-airport-control-27.json](./398961-airport-control-27.json) |
 | Airport Control Simulator | 9960 | [9960-airport-control-simulator.json](./9960-airport-control-simulator.json) |
+| Airport Fever | 233467 | [233467-airport-fever.json](./233467-airport-fever.json) |
 | Airport Firefighter Simulator 2013 | 87447 | [87447-airport-firefighter-simulator-2013.json](./87447-airport-firefighter-simulator-2013.json) |
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Inspector | 382320 | [382320-airport-inspector.json](./382320-airport-inspector.json) |
@@ -2774,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | AmbivalenZ: Niritsu Haihan | 93351 | [93351-ambivalenz-niritsu-haihan.json](./93351-ambivalenz-niritsu-haihan.json) |
 | Ambrosia's | 185613 | [185613-ambrosias.json](./185613-ambrosias.json) |
+| Ambulance Away | 233474 | [233474-ambulance-away.json](./233474-ambulance-away.json) |
 | Ambulance Chauffeur Simulator | 212904 | [212904-ambulance-chauffeur-simulator.json](./212904-ambulance-chauffeur-simulator.json) |
 | Ambulance Driver | 311816 | [311816-ambulance-driver.json](./311816-ambulance-driver.json) |
 | Ambulance Life: A Paramedic Simulator - Bay Side Expansion | 334668 | [334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json](./334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json) |
@@ -3087,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Adventure | 406222 | [406222-ancient-adventure.json](./406222-ancient-adventure.json) |
 | Ancient Adventures | 205841 | [205841-ancient-adventures.json](./205841-ancient-adventures.json) |
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
+| Ancient Allies Tower Defense | 233452 | [233452-ancient-allies-tower-defense.json](./233452-ancient-allies-tower-defense.json) |
 | Ancient Arrow | 239666 | [239666-ancient-arrow.json](./239666-ancient-arrow.json) |
 | Ancient Battle: Hannibal - Gold | 201258 | [201258-ancient-battle-hannibal-gold.json](./201258-ancient-battle-hannibal-gold.json) |
 | Ancient Battle: The Aztecs | 326753 | [326753-ancient-battle-the-aztecs.json](./326753-ancient-battle-the-aztecs.json) |
@@ -3122,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Origins: Flying Fish | 262975 | [262975-ancient-origins-flying-fish.json](./262975-ancient-origins-flying-fish.json) |
 | Ancient Phantasma | 308655 | [308655-ancient-phantasma.json](./308655-ancient-phantasma.json) |
 | Ancient Planet | 35891 | [35891-ancient-planet.json](./35891-ancient-planet.json) |
+| Ancient Relic | 233455 | [233455-ancient-relic.json](./233455-ancient-relic.json) |
 | Ancient Rituals: Stonehenge | 216467 | [216467-ancient-rituals-stonehenge.json](./216467-ancient-rituals-stonehenge.json) |
 | Ancient Roman: Power of Dark Side | 193330 | [193330-ancient-roman-power-of-dark-side.json](./193330-ancient-roman-power-of-dark-side.json) |
 | Ancient Rome 2 | 25504 | [25504-ancient-rome-2.json](./25504-ancient-rome-2.json) |
@@ -3147,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancients II: Approaching Evil | 12392 | [12392-ancients-ii-approaching-evil.json](./12392-ancients-ii-approaching-evil.json) |
 | Ancients of Ooga | 16228 | [16228-ancients-of-ooga.json](./16228-ancients-of-ooga.json) |
 | Ancients: Death Watch | 12391 | [12391-ancients-death-watch.json](./12391-ancients-death-watch.json) |
+| AncientsReborn | 233439 | [233439-ancientsreborn.json](./233439-ancientsreborn.json) |
 | Ancings: The First Tournament | 283902 | [283902-ancings-the-first-tournament.json](./283902-ancings-the-first-tournament.json) |
 | And All Would Cry Beware! | 117627 | [117627-and-all-would-cry-beware.json](./117627-and-all-would-cry-beware.json) |
 | And Around Goes the Clock | 364514 | [364514-and-around-goes-the-clock.json](./364514-and-around-goes-the-clock.json) |
