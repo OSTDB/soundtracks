@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Star Trader PC-8801mkIISR | 314867 | [314867-eggconsole-star-trader-pc-8801mkiisr.json](./314867-eggconsole-star-trader-pc-8801mkiisr.json) |
 | Eggconsole Super Tritorn MSX2 | 387663 | [387663-eggconsole-super-tritorn-msx2.json](./387663-eggconsole-super-tritorn-msx2.json) |
 | Eggconsole The Legend of Heroes Saga PC-8801 | 334093 | [334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json](./334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json) |
+| Eggconsole Thexder PC-8801mkIISR | 274444 | [274444-eggconsole-thexder-pc-8801mkiisr.json](./274444-eggconsole-thexder-pc-8801mkiisr.json) |
 | Eggconsole Topple Zip PC-8801 | 306531 | [306531-eggconsole-topple-zip-pc-8801.json](./306531-eggconsole-topple-zip-pc-8801.json) |
 | Eggconsole Wanderers From Ys PC-8801mkIISR | 300861 | [300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json](./300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json) |
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
@@ -2789,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excellent Game | 374274 | [374274-excellent-game.json](./374274-excellent-game.json) |
 | Excelsior | 39852 | [39852-excelsior.json](./39852-excelsior.json) |
 | Exception; | 129166 | [129166-exception.json](./129166-exception.json) |
+| Excessive Trim | 274438 | [274438-excessive-trim.json](./274438-excessive-trim.json) |
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
 | Excite Invader | 138024 | [138024-excite-invader.json](./138024-excite-invader.json) |
