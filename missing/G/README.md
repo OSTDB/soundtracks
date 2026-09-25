@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
 | Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
 | Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
+| Ghost Maze | 250889 | [250889-ghost-maze.json](./250889-ghost-maze.json) |
 | Ghost Member | 264689 | [264689-ghost-member.json](./264689-ghost-member.json) |
 | Ghost Mountain | 114992 | [114992-ghost-mountain.json](./114992-ghost-mountain.json) |
 | Ghost Ninja | 289447 | [289447-ghost-ninja.json](./289447-ghost-ninja.json) |
@@ -2535,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Tour | 264085 | [264085-golf-tour.json](./264085-golf-tour.json) |
 | Golf Up Tropical | 337990 | [337990-golf-up-tropical.json](./337990-golf-up-tropical.json) |
 | Golf vs. Zombies | 310526 | [310526-golf-vs-zombies.json](./310526-golf-vs-zombies.json) |
+| Golf with the Lads | 250881 | [250881-golf-with-the-lads.json](./250881-golf-with-the-lads.json) |
 | Golf With Your Friends 2 | 325850 | [325850-golf-with-your-friends-2.json](./325850-golf-with-your-friends-2.json) |
 | Golf With Your Friends: Critical Hit Pack | 298594 | [298594-golf-with-your-friends-critical-hit-pack.json](./298594-golf-with-your-friends-critical-hit-pack.json) |
 | Golf With Your Friends: Fairytale Fables Pack | 268540 | [268540-golf-with-your-friends-fairytale-fables-pack.json](./268540-golf-with-your-friends-fairytale-fables-pack.json) |
