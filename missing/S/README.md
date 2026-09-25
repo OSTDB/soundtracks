@@ -4736,7 +4736,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: Draigs Terror | 332040 | [332040-sker-ritual-draigs-terror.json](./332040-sker-ritual-draigs-terror.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
 | Sker Ritual: Invasion of the Brain Eaters | 332041 | [332041-sker-ritual-invasion-of-the-brain-eaters.json](./332041-sker-ritual-invasion-of-the-brain-eaters.json) |
+| Sker Ritual: Siren's Song | 241316 | [241316-sker-ritual-sirens-song.json](./241316-sker-ritual-sirens-song.json) |
 | Sker Ritual: Skerville Slasher | 322721 | [322721-sker-ritual-skerville-slasher.json](./322721-sker-ritual-skerville-slasher.json) |
+| Sker Ritual: Stranger Danger | 241317 | [241317-sker-ritual-stranger-danger.json](./241317-sker-ritual-stranger-danger.json) |
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
@@ -6224,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer in a Box | 320351 | [320351-soccer-in-a-box.json](./320351-soccer-in-a-box.json) |
 | Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
+| Soccer Lines | 241334 | [241334-soccer-lines.json](./241334-soccer-lines.json) |
 | Soccer Manager | 134421 | [134421-soccer-manager.json](./134421-soccer-manager.json) |
 | Soccer Manager | 282639 | [282639-soccer-manager.json](./282639-soccer-manager.json) |
 | Soccer Manager | 393490 | [393490-soccer-manager.json](./393490-soccer-manager.json) |
@@ -7925,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tail | 361876 | [361876-space-tail.json](./361876-space-tail.json) |
 | Space Tail: Every Journey Leads Home | 216885 | [216885-space-tail-every-journey-leads-home.json](./216885-space-tail-every-journey-leads-home.json) |
 | Space Tail: Every Journey Leads Home - Deluxe Edition | 241400 | [241400-space-tail-every-journey-leads-home-deluxe-edition.json](./241400-space-tail-every-journey-leads-home-deluxe-edition.json) |
+| Space Tail: Every Journey Leads Home - Ultimate Edition | 241327 | [241327-space-tail-every-journey-leads-home-ultimate-edition.json](./241327-space-tail-every-journey-leads-home-ultimate-edition.json) |
 | Space Tail: Homecoming | 230820 | [230820-space-tail-homecoming.json](./230820-space-tail-homecoming.json) |
 | Space Takeover: Over City | 245340 | [245340-space-takeover-over-city.json](./245340-space-takeover-over-city.json) |
 | Space Tales | 259033 | [259033-space-tales.json](./259033-space-tales.json) |
@@ -9002,6 +9006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springtastic Match | 359402 | [359402-springtastic-match.json](./359402-springtastic-match.json) |
 | Springtime Puzzle | 359403 | [359403-springtime-puzzle.json](./359403-springtime-puzzle.json) |
 | Springy: A Bounce Adventure | 216876 | [216876-springy-a-bounce-adventure.json](./216876-springy-a-bounce-adventure.json) |
+| Sprinkfield | 241333 | [241333-sprinkfield.json](./241333-sprinkfield.json) |
 | Sprinklebottom and the Haunted Ruins | 385217 | [385217-sprinklebottom-and-the-haunted-ruins.json](./385217-sprinklebottom-and-the-haunted-ruins.json) |
 | Sprinkler & Ghost | 216249 | [216249-sprinkler-and-ghost.json](./216249-sprinkler-and-ghost.json) |
 | Sprint | 246481 | [246481-sprint.json](./246481-sprint.json) |
@@ -9052,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy DNA | 126417 | [126417-spy-dna.json](./126417-spy-dna.json) |
 | Spy Drops | 307538 | [307538-spy-drops.json](./307538-spy-drops.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
+| Spy Game: Mission in Moskow | 241331 | [241331-spy-game-mission-in-moskow.json](./241331-spy-game-mission-in-moskow.json) |
 | Spy Girls: Undercover Agent | 206200 | [206200-spy-girls-undercover-agent.json](./206200-spy-girls-undercover-agent.json) |
 | Spy Guy American Dream | 375162 | [375162-spy-guy-american-dream.json](./375162-spy-guy-american-dream.json) |
 | Spy Guy Animals Junior: Untypical Animals | 387685 | [387685-spy-guy-animals-junior-untypical-animals.json](./387685-spy-guy-animals-junior-untypical-animals.json) |
