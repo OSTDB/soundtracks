@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bahamut and the Waqwaq Tree | 264652 | [264652-bahamut-and-the-waqwaq-tree.json](./264652-bahamut-and-the-waqwaq-tree.json) |
 | Bahamut Disco | 295932 | [295932-bahamut-disco.json](./295932-bahamut-disco.json) |
 | Bahamut Lagoon | 15843 | [15843-bahamut-lagoon.json](./15843-bahamut-lagoon.json) |
+| Bahamut2-Come on, Fight | 261847 | [261847-bahamut2-come-on-fight.json](./261847-bahamut2-come-on-fight.json) |
 | Bahari | 201306 | [201306-bahari.json](./201306-bahari.json) |
 | Bahnfrei | 398409 | [398409-bahnfrei.json](./398409-bahnfrei.json) |
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
@@ -2009,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastrun | 151205 | [151205-beastrun.json](./151205-beastrun.json) |
 | Beasts & Bumpkins | 50151 | [50151-beasts-and-bumpkins.json](./50151-beasts-and-bumpkins.json) |
 | Beasts & Chests | 105294 | [105294-beasts-and-chests.json](./105294-beasts-and-chests.json) |
+| Beasts & Monsters | 261840 | [261840-beasts-and-monsters.json](./261840-beasts-and-monsters.json) |
 | Beasts From Beyond | 238622 | [238622-beasts-from-beyond.json](./238622-beasts-from-beyond.json) |
 | Beasts of Bermuda: Kaprosuchus Supporter Warpaint | 379580 | [379580-beasts-of-bermuda-kaprosuchus-supporter-warpaint.json](./379580-beasts-of-bermuda-kaprosuchus-supporter-warpaint.json) |
 | Beasts of Bermuda: Palaeophis Supporter Warpaint | 379579 | [379579-beasts-of-bermuda-palaeophis-supporter-warpaint.json](./379579-beasts-of-bermuda-palaeophis-supporter-warpaint.json) |
@@ -3446,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Myth: Heaven | 339342 | [339342-black-myth-heaven.json](./339342-black-myth-heaven.json) |
 | Black Myth: Zhong Kui | 361900 | [361900-black-myth-zhong-kui.json](./361900-black-myth-zhong-kui.json) |
 | Black Omens: House of Crimson Silk | 387539 | [387539-black-omens-house-of-crimson-silk.json](./387539-black-omens-house-of-crimson-silk.json) |
+| Black Otaku 2: Taekwondo is in my Blood | 261770 | [261770-black-otaku-2-taekwondo-is-in-my-blood.json](./261770-black-otaku-2-taekwondo-is-in-my-blood.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
 | Black Panther | 38589 | [38589-black-panther.json](./38589-black-panther.json) |
 | Black Paradox | 104866 | [104866-black-paradox.json](./104866-black-paradox.json) |
