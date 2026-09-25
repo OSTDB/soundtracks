@@ -1708,6 +1708,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lichdom: Battlemage | 7443 | [7443-lichdom-battlemage.json](./7443-lichdom-battlemage.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
 | Lichgate: Tower Survivor | 357846 | [357846-lichgate-tower-survivor.json](./357846-lichgate-tower-survivor.json) |
+| Licht plus for Playdate | 230791 | [230791-licht-plus-for-playdate.json](./230791-licht-plus-for-playdate.json) |
+| Lichtreich: Willa | 230780 | [230780-lichtreich-willa.json](./230780-lichtreich-willa.json) |
 | Lichtung | 415105 | [415105-lichtung.json](./415105-lichtung.json) |
 | Lickspittles | 392814 | [392814-lickspittles.json](./392814-lickspittles.json) |
 | Lidar Exploration Program | 291468 | [291468-lidar-exploration-program.json](./291468-lidar-exploration-program.json) |
