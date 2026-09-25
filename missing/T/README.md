@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebrix | 403651 | [403651-tenebrix.json](./403651-tenebrix.json) |
 | Tenebrous Dungeon | 115002 | [115002-tenebrous-dungeon.json](./115002-tenebrous-dungeon.json) |
 | Tenebrum | 268458 | [268458-tenebrum.json](./268458-tenebrum.json) |
+| Tenement | 279041 | [279041-tenement.json](./279041-tenement.json) |
 | Tengai Makyou Zero: Shonen Jump no Shou | 186735 | [186735-tengai-makyou-zero-shonen-jump-no-shou.json](./186735-tengai-makyou-zero-shonen-jump-no-shou.json) |
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
 | Tengai Makyou: Dennou Karakuri Kakutou-den | 45952 | [45952-tengai-makyou-dennou-karakuri-kakutou-den.json](./45952-tengai-makyou-dennou-karakuri-kakutou-den.json) |
@@ -3285,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Disappearing of Gensokyo: Sakuya, Koishi, Suika | 210121 | [210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json](./210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json) |
 | The Disappearing of Gensokyo: Youmu, Yuyuko | 210135 | [210135-the-disappearing-of-gensokyo-youmu-yuyuko.json](./210135-the-disappearing-of-gensokyo-youmu-yuyuko.json) |
 | The Discrete Era | 263499 | [263499-the-discrete-era.json](./263499-the-discrete-era.json) |
+| The Diseases, and Casualties this year being 1632 | 279080 | [279080-the-diseases-and-casualties-this-year-being-1632.json](./279080-the-diseases-and-casualties-this-year-being-1632.json) |
 | The Dismal Silhouette | 282620 | [282620-the-dismal-silhouette.json](./282620-the-dismal-silhouette.json) |
 | The Disney Collection: Quackshot Starring Donald Duck & Castle of Illusion Starring Mickey Mouse | 45561 | [45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json](./45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json) |
 | The Dispatcher | 329003 | [329003-the-dispatcher.json](./329003-the-dispatcher.json) |
@@ -5209,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magical Unicorn | 145611 | [145611-the-magical-unicorn.json](./145611-the-magical-unicorn.json) |
 | The Magician Of Justice | 289986 | [289986-the-magician-of-justice.json](./289986-the-magician-of-justice.json) |
 | The Magician VR: The Cursed Wand | 406169 | [406169-the-magician-vr-the-cursed-wand.json](./406169-the-magician-vr-the-cursed-wand.json) |
+| The Magician's Academy | 279087 | [279087-the-magicians-academy.json](./279087-the-magicians-academy.json) |
 | The Magician's Handbook: Cursed Valley | 118180 | [118180-the-magicians-handbook-cursed-valley.json](./118180-the-magicians-handbook-cursed-valley.json) |
 | The Magician's Research | 123571 | [123571-the-magicians-research.json](./123571-the-magicians-research.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
@@ -12322,6 +12325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok 2 | 308370 | [308370-turok-2.json](./308370-turok-2.json) |
 | Turok 2: Seeds of Evil | 146696 | [146696-turok-2-seeds-of-evil.json](./146696-turok-2-seeds-of-evil.json) |
 | Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
+| Turok Trilogy Bundle | 279028 | [279028-turok-trilogy-bundle.json](./279028-turok-trilogy-bundle.json) |
 | Turok: Dinosaur Hunter | 1321 | [1321-turok-dinosaur-hunter.json](./1321-turok-dinosaur-hunter.json) |
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
 | Turok: Origins | 325600 | [325600-turok-origins.json](./325600-turok-origins.json) |
