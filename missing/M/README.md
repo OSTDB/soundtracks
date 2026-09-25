@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
 | Magical Fantasista II | 292071 | [292071-magical-fantasista-ii.json](./292071-magical-fantasista-ii.json) |
 | Magical Girl | 158086 | [158086-magical-girl.json](./158086-magical-girl.json) |
+| Magical Girl | 258429 | [258429-magical-girl.json](./258429-magical-girl.json) |
 | Magical Girl Attack | 117473 | [117473-magical-girl-attack.json](./117473-magical-girl-attack.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
@@ -1875,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvellous Inc.: MarvGPT | 296521 | [296521-marvellous-inc-marvgpt.json](./296521-marvellous-inc-marvgpt.json) |
 | Marvellous Journeys Bundle | 196282 | [196282-marvellous-journeys-bundle.json](./196282-marvellous-journeys-bundle.json) |
 | Marvelous: Mouhitotsu no Takarajima | 15837 | [15837-marvelous-mouhitotsu-no-takarajima.json](./15837-marvelous-mouhitotsu-no-takarajima.json) |
+| Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
 | Mary Help Me! | 258518 | [258518-mary-help-me.json](./258518-mary-help-me.json) |
 | Mary Jane | 374154 | [374154-mary-jane.json](./374154-mary-jane.json) |
@@ -7192,6 +7194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munch Mobile | 40204 | [40204-munch-mobile.json](./40204-munch-mobile.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
+| Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
 | Munchkin: Quacked Quest | 110314 | [110314-munchkin-quacked-quest.json](./110314-munchkin-quacked-quest.json) |
 | Munchman: 35th Anniversary Edition | 308363 | [308363-munchman-35th-anniversary-edition.json](./308363-munchman-35th-anniversary-edition.json) |
 | Munchyman | 98234 | [98234-munchyman.json](./98234-munchyman.json) |
