@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IkachanDS | 339243 | [339243-ikachands.json](./339243-ikachands.json) |
 | Ikari III: The Rescue | 48054 | [48054-ikari-iii-the-rescue.json](./48054-ikari-iii-the-rescue.json) |
 | Ikari Warriors II: Victory Road | 48055 | [48055-ikari-warriors-ii-victory-road.json](./48055-ikari-warriors-ii-victory-road.json) |
+| Ikaro: Will Not Die | 273865 | [273865-ikaro-will-not-die.json](./273865-ikaro-will-not-die.json) |
 | Ikaros | 51955 | [51955-ikaros.json](./51955-ikaros.json) |
 | Ikaruga | 200996 | [200996-ikaruga.json](./200996-ikaruga.json) |
 | Ikasama Mahjong | 346150 | [346150-ikasama-mahjong.json](./346150-ikasama-mahjong.json) |
@@ -1167,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your Youth | 250453 | [250453-in-your-youth.json](./250453-in-your-youth.json) |
 | In-Flight Pac-Man | 205614 | [205614-in-flight-pac-man.json](./205614-in-flight-pac-man.json) |
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
+| Inamina | 273895 | [273895-inamina.json](./273895-inamina.json) |
 | Inamorata | 299865 | [299865-inamorata.json](./299865-inamorata.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
 | Inauthentic Hummus | 348353 | [348353-inauthentic-hummus.json](./348353-inauthentic-hummus.json) |
@@ -2361,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Awakening | 296942 | [296942-isekai-awakening.json](./296942-isekai-awakening.json) |
 | Isekai Brick Breaker | 225065 | [225065-isekai-brick-breaker.json](./225065-isekai-brick-breaker.json) |
 | Isekai Eternal | 157537 | [157537-isekai-eternal.json](./157537-isekai-eternal.json) |
+| Isekai Frontline | 273887 | [273887-isekai-frontline.json](./273887-isekai-frontline.json) |
 | Isekai Harem Quest: Love, Blades, and Power | 334180 | [334180-isekai-harem-quest-love-blades-and-power.json](./334180-isekai-harem-quest-love-blades-and-power.json) |
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
 | Isekai Mage | 345689 | [345689-isekai-mage.json](./345689-isekai-mage.json) |
