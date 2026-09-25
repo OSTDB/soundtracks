@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Nebula: Episode One | 67242 | [67242-dark-nebula-episode-one.json](./67242-dark-nebula-episode-one.json) |
 | Dark Neighbors | 351612 | [351612-dark-neighbors.json](./351612-dark-neighbors.json) |
 | Dark Nest: Snake Contract | 368580 | [368580-dark-nest-snake-contract.json](./368580-dark-nest-snake-contract.json) |
+| Dark Night Maze | 232938 | [232938-dark-night-maze.json](./232938-dark-night-maze.json) |
 | Dark Nights | 138769 | [138769-dark-nights.json](./138769-dark-nights.json) |
 | Dark Noid | 81779 | [81779-dark-noid.json](./81779-dark-noid.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
@@ -1521,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Curse | 107683 | [107683-deadly-curse.json](./107683-deadly-curse.json) |
 | Deadly Dainosaur: Hunting Safari | 147289 | [147289-deadly-dainosaur-hunting-safari.json](./147289-deadly-dainosaur-hunting-safari.json) |
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
+| Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
 | Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
 | Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
@@ -1952,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep in the fields | 402904 | [402904-deep-in-the-fields.json](./402904-deep-in-the-fields.json) |
 | Deep in the Forest | 183042 | [183042-deep-in-the-forest.json](./183042-deep-in-the-forest.json) |
 | Deep In The Lab | 335373 | [335373-deep-in-the-lab.json](./335373-deep-in-the-lab.json) |
+| Deep in the Snowy Night | 232926 | [232926-deep-in-the-snowy-night.json](./232926-deep-in-the-snowy-night.json) |
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
 | Deep in the Woods | 285014 | [285014-deep-in-the-woods.json](./285014-deep-in-the-woods.json) |
 | Deep Inside | 179662 | [179662-deep-inside.json](./179662-deep-inside.json) |
@@ -3314,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Express VR | 41968 | [41968-diesel-express-vr.json](./41968-diesel-express-vr.json) |
 | Diesel Legacy: The Brazen Age | 252844 | [252844-diesel-legacy-the-brazen-age.json](./252844-diesel-legacy-the-brazen-age.json) |
 | Diesel Power | 29805 | [29805-diesel-power.json](./29805-diesel-power.json) |
+| Diesel the Pug Warrior | 232922 | [232922-diesel-the-pug-warrior.json](./232922-diesel-the-pug-warrior.json) |
 | Dieselpunk Wars | 114168 | [114168-dieselpunk-wars.json](./114168-dieselpunk-wars.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
 | Diet Go Go | 39872 | [39872-diet-go-go.json](./39872-diet-go-go.json) |
@@ -3831,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
 | Disgraced: Trailblazer | 161730 | [161730-disgraced-trailblazer.json](./161730-disgraced-trailblazer.json) |
 | Disguised Blessing | 332991 | [332991-disguised-blessing.json](./332991-disguised-blessing.json) |
+| Disgusting Puzzle 2 | 232941 | [232941-disgusting-puzzle-2.json](./232941-disgusting-puzzle-2.json) |
 | Dish Puzzle For Toddlers | 102610 | [102610-dish-puzzle-for-toddlers.json](./102610-dish-puzzle-for-toddlers.json) |
 | Dish Up Fruit | 302344 | [302344-dish-up-fruit.json](./302344-dish-up-fruit.json) |
 | Disharmonia | 199493 | [199493-disharmonia.json](./199493-disharmonia.json) |
@@ -6369,6 +6374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid Dreams | 133442 | [133442-droid-dreams.json](./133442-droid-dreams.json) |
 | Droid Escape | 192930 | [192930-droid-escape.json](./192930-droid-escape.json) |
 | Droid Wars | 302100 | [302100-droid-wars.json](./302100-droid-wars.json) |
+| Droid Wars: Duel | 232950 | [232950-droid-wars-duel.json](./232950-droid-wars-duel.json) |
 | Droid404 | 159741 | [159741-droid404.json](./159741-droid404.json) |
 | Droids | 84276 | [84276-droids.json](./84276-droids.json) |
 | Droids & Wizards | 124769 | [124769-droids-and-wizards.json](./124769-droids-and-wizards.json) |
@@ -6985,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Striker | 63256 | [63256-dungeon-striker.json](./63256-dungeon-striker.json) |
 | Dungeon Superballs | 56132 | [56132-dungeon-superballs.json](./56132-dungeon-superballs.json) |
 | Dungeon Survival | 261827 | [261827-dungeon-survival.json](./261827-dungeon-survival.json) |
+| Dungeon Survive | 232939 | [232939-dungeon-survive.json](./232939-dungeon-survive.json) |
 | Dungeon Survivor II | 126007 | [126007-dungeon-survivor-ii.json](./126007-dungeon-survivor-ii.json) |
 | Dungeon Survivor.io | 260706 | [260706-dungeon-survivor-io.json](./260706-dungeon-survivor-io.json) |
 | Dungeon Survivors | 257935 | [257935-dungeon-survivors.json](./257935-dungeon-survivors.json) |
