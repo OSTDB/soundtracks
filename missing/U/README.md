@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uppercute | 336613 | [336613-uppercute.json](./336613-uppercute.json) |
 | Upperz | 102794 | [102794-upperz.json](./102794-upperz.json) |
 | Uppies! | 364588 | [364588-uppies.json](./364588-uppies.json) |
+| Uprising | 257422 | [257422-uprising.json](./257422-uprising.json) |
 | Uprising Complete | 53878 | [53878-uprising-complete.json](./53878-uprising-complete.json) |
 | Uprising: Humanum | 248903 | [248903-uprising-humanum.json](./248903-uprising-humanum.json) |
 | Uprising: Join or Die | 32768 | [32768-uprising-join-or-die.json](./32768-uprising-join-or-die.json) |
