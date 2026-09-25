@@ -4135,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Plates | 30366 | [30366-hot-plates.json](./30366-hot-plates.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
 | Hot Pot For One | 139811 | [139811-hot-pot-for-one.json](./139811-hot-pot-for-one.json) |
+| Hot Pussy College 2 | 240737 | [240737-hot-pussy-college-2.json](./240737-hot-pussy-college-2.json) |
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
 | Hot Rider Racing Simulator | 290428 | [290428-hot-rider-racing-simulator.json](./290428-hot-rider-racing-simulator.json) |
 | Hot Rod Racer | 85180 | [85180-hot-rod-racer.json](./85180-hot-rod-racer.json) |
