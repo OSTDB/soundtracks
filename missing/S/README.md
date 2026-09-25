@@ -4983,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Tower | 34625 | [34625-sky-tower.json](./34625-sky-tower.json) |
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
 | Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
+| Sky Utopia | 233449 | [233449-sky-utopia.json](./233449-sky-utopia.json) |
 | Sky Valley | 31947 | [31947-sky-valley.json](./31947-sky-valley.json) |
 | Sky War | 272802 | [272802-sky-war.json](./272802-sky-war.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
@@ -6191,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowstorm | 405717 | [405717-snowstorm.json](./405717-snowstorm.json) |
 | Snowtracked | 216888 | [216888-snowtracked.json](./216888-snowtracked.json) |
 | Snowy Flag | 291444 | [291444-snowy-flag.json](./291444-snowy-flag.json) |
+| Snowy Leaps | 233436 | [233436-snowy-leaps.json](./233436-snowy-leaps.json) |
 | Snowy Mountain | 235744 | [235744-snowy-mountain.json](./235744-snowy-mountain.json) |
 | Snowy: Fish Frenzy | 71519 | [71519-snowy-fish-frenzy.json](./71519-snowy-fish-frenzy.json) |
 | Snowy: Lunch Rush | 73289 | [73289-snowy-lunch-rush.json](./73289-snowy-lunch-rush.json) |
@@ -8201,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
 | Speakrit | 293702 | [293702-speakrit.json](./293702-speakrit.json) |
+| Spear Knight | 233445 | [233445-spear-knight.json](./233445-spear-knight.json) |
 | Spear Leap Saga | 398413 | [398413-spear-leap-saga.json](./398413-spear-leap-saga.json) |
 | Spear of Despair | 183030 | [183030-spear-of-despair.json](./183030-spear-of-despair.json) |
 | Spear of Destiny | 306981 | [306981-spear-of-destiny.json](./306981-spear-of-destiny.json) |
