@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Fort Night Craft Survival Battle Royale | 95843 | [95843-last-fort-night-craft-survival-battle-royale.json](./95843-last-fort-night-craft-survival-battle-royale.json) |
 | Last Fortress: Underground | 219164 | [219164-last-fortress-underground.json](./219164-last-fortress-underground.json) |
 | Last Friend | 91968 | [91968-last-friend.json](./91968-last-friend.json) |
+| Last Game of the Decade 2019 | 229630 | [229630-last-game-of-the-decade-2019.json](./229630-last-game-of-the-decade-2019.json) |
 | Last Gang Standing | 159843 | [159843-last-gang-standing.json](./159843-last-gang-standing.json) |
 | Last Group Out | 189196 | [189196-last-group-out.json](./189196-last-group-out.json) |
 | Last Guest | 346778 | [346778-last-guest.json](./346778-last-guest.json) |
@@ -591,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Star | 316097 | [316097-last-star.json](./316097-last-star.json) |
 | Last State | 384198 | [384198-last-state.json](./384198-last-state.json) |
 | Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
+| Last Stop: Station 66 | 229610 | [229610-last-stop-station-66.json](./229610-last-stop-station-66.json) |
 | Last Stretch | 389095 | [389095-last-stretch.json](./389095-last-stretch.json) |
 | Last Striker | 40270 | [40270-last-striker.json](./40270-last-striker.json) |
 | Last Summer | 298672 | [298672-last-summer.json](./298672-last-summer.json) |
@@ -1140,6 +1142,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of the Shadows | 208391 | [208391-legends-of-the-shadows.json](./208391-legends-of-the-shadows.json) |
 | Legends of the Wild | 358481 | [358481-legends-of-the-wild.json](./358481-legends-of-the-wild.json) |
 | Legends of Time | 31673 | [31673-legends-of-time.json](./31673-legends-of-time.json) |
+| Legends of Tzonac 2: Friendship & Automata | 229612 | [229612-legends-of-tzonac-2-friendship-and-automata.json](./229612-legends-of-tzonac-2-friendship-and-automata.json) |
+| Legends of Tzonac: The Great Dungeon Escape | 229611 | [229611-legends-of-tzonac-the-great-dungeon-escape.json](./229611-legends-of-tzonac-the-great-dungeon-escape.json) |
 | Legends of Valour | 12903 | [12903-legends-of-valour.json](./12903-legends-of-valour.json) |
 | Legends of War | 20014 | [20014-legends-of-war.json](./20014-legends-of-war.json) |
 | Legends of Wrestling | 3974 | [3974-legends-of-wrestling.json](./3974-legends-of-wrestling.json) |
@@ -1985,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
 | Like Gulls Crying at the Dawn | 136226 | [136226-like-gulls-crying-at-the-dawn.json](./136226-like-gulls-crying-at-the-dawn.json) |
 | Like Thunder "Go" | 297484 | [297484-like-thunder-go.json](./297484-like-thunder-go.json) |
+| Like Veins Beneath the Town | 229614 | [229614-like-veins-beneath-the-town.json](./229614-like-veins-beneath-the-town.json) |
 | Like x Love: Totsukawa Hikaru | 397225 | [397225-like-x-love-totsukawa-hikaru.json](./397225-like-x-love-totsukawa-hikaru.json) |
 | Lil Gator Game | 145796 | [145796-lil-gator-game.json](./145796-lil-gator-game.json) |
 | Lil Guy Resort | 380405 | [380405-lil-guy-resort.json](./380405-lil-guy-resort.json) |
@@ -2589,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Brain | 375283 | [375283-lizard-brain.json](./375283-lizard-brain.json) |
 | Lizard Crash | 25759 | [25759-lizard-crash.json](./25759-lizard-crash.json) |
 | Lizard Lady vs the Cats | 152856 | [152856-lizard-lady-vs-the-cats.json](./152856-lizard-lady-vs-the-cats.json) |
+| Lizard Quest | 229627 | [229627-lizard-quest.json](./229627-lizard-quest.json) |
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
 | Lizard Simulator | 406306 | [406306-lizard-simulator.json](./406306-lizard-simulator.json) |
 | Lizard Slayer | 270170 | [270170-lizard-slayer.json](./270170-lizard-slayer.json) |
@@ -3592,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
 | Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
+| Lu:Cid | 229649 | [229649-lu-cid.json](./229649-lu-cid.json) |
 | Lu[Idle] | 321738 | [321738-lu-idle.json](./321738-lu-idle.json) |
 | Lua Bingo | 87136 | [87136-lua-bingo.json](./87136-lua-bingo.json) |
 | Luànshì Yúnyān | 398456 | [398456-luanshi-yunyan.json](./398456-luanshi-yunyan.json) |
