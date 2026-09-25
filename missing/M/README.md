@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
 | Magic Weapon | 358310 | [358310-magic-weapon.json](./358310-magic-weapon.json) |
 | Magic Weapon | 377301 | [377301-magic-weapon.json](./377301-magic-weapon.json) |
+| Magic Witches | 280860 | [280860-magic-witches.json](./280860-magic-witches.json) |
 | Magic Wizard | 130862 | [130862-magic-wizard.json](./130862-magic-wizard.json) |
 | Magic: ManaStrike | 125270 | [125270-magic-manastrike.json](./125270-magic-manastrike.json) |
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
@@ -1880,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masha and the Bear Child Games: Cooking Adventure | 95847 | [95847-masha-and-the-bear-child-games-cooking-adventure.json](./95847-masha-and-the-bear-child-games-cooking-adventure.json) |
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
 | Masha Rescues Grandma | 30325 | [30325-masha-rescues-grandma.json](./30325-masha-rescues-grandma.json) |
+| Mashin Eiyuuden Wataru | 280846 | [280846-mashin-eiyuuden-wataru.json](./280846-mashin-eiyuuden-wataru.json) |
 | Mashin Eiyuuden Wataru 2: Gekisen! Ryuusei-maru vs. Kokuryuukaku | 284457 | [284457-mashin-eiyuuden-wataru-2-gekisen-ryuusei-maru-vs-kokuryuukaku.json](./284457-mashin-eiyuuden-wataru-2-gekisen-ryuusei-maru-vs-kokuryuukaku.json) |
 | Mashin Eiyuuden Wataru 2: Seikaizan Pinball! | 284452 | [284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json](./284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json) |
 | Mashin Eiyuuden Wataru 2: Shinsei Ryuujin-maru Sanjou! | 284454 | [284454-mashin-eiyuuden-wataru-2-shinsei-ryuujin-maru-sanjou.json](./284454-mashin-eiyuuden-wataru-2-shinsei-ryuujin-maru-sanjou.json) |
@@ -2050,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Puzzle: Echoes | 151209 | [151209-masters-of-puzzle-echoes.json](./151209-masters-of-puzzle-echoes.json) |
 | Masters of Puzzle: In Serenity | 151217 | [151217-masters-of-puzzle-in-serenity.json](./151217-masters-of-puzzle-in-serenity.json) |
 | Masters of the Elements | 70117 | [70117-masters-of-the-elements.json](./70117-masters-of-the-elements.json) |
+| Masters of the Universe | 280865 | [280865-masters-of-the-universe.json](./280865-masters-of-the-universe.json) |
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
 | Masters Pool HD | 345106 | [345106-masters-pool-hd.json](./345106-masters-pool-hd.json) |
