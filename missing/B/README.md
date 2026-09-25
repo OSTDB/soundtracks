@@ -5548,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxTheTop | 113730 | [113730-boxthetop.json](./113730-boxthetop.json) |
 | Boxville | 190160 | [190160-boxville.json](./190160-boxville.json) |
 | Boxville 2: Collector's Edition | 402954 | [402954-boxville-2-collectors-edition.json](./402954-boxville-2-collectors-edition.json) |
+| Boxville: Collector's Edition | 230807 | [230807-boxville-collectors-edition.json](./230807-boxville-collectors-edition.json) |
 | Boxworld | 287649 | [287649-boxworld.json](./287649-boxworld.json) |
 | Boxy Trial | 122334 | [122334-boxy-trial.json](./122334-boxy-trial.json) |
 | Boxzum | 84283 | [84283-boxzum.json](./84283-boxzum.json) |
@@ -6543,6 +6544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs with Afterburners | 387550 | [387550-bugs-with-afterburners.json](./387550-bugs-with-afterburners.json) |
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
 | BugsBoxVR | 111454 | [111454-bugsboxvr.json](./111454-bugsboxvr.json) |
+| Bugscraper | 230797 | [230797-bugscraper.json](./230797-bugscraper.json) |
 | BugWorld | 254003 | [254003-bugworld.json](./254003-bugworld.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Bugz Bows & Curses | 214192 | [214192-bugz-bows-and-curses.json](./214192-bugz-bows-and-curses.json) |
@@ -6621,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Art | 156680 | [156680-bullet-art.json](./156680-bullet-art.json) |
 | Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
 | Bullet Battle | 174721 | [174721-bullet-battle.json](./174721-bullet-battle.json) |
+| Bullet Bill | 230752 | [230752-bullet-bill.json](./230752-bullet-bill.json) |
 | Bullet Bill 2 | 370096 | [370096-bullet-bill-2.json](./370096-bullet-bill-2.json) |
 | Bullet Bill 3 | 370097 | [370097-bullet-bill-3.json](./370097-bullet-bill-3.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
