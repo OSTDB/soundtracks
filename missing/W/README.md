@@ -3180,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Poker Championship | 68635 | [68635-world-poker-championship.json](./68635-world-poker-championship.json) |
 | World Poker Tour | 220133 | [220133-world-poker-tour.json](./220133-world-poker-tour.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
+| World Pole Gaiden Rise! Mark of the Deck 2: Sanguine & Melancholia | 278461 | [278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json](./278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json) |
 | World Quest | 265764 | [265764-world-quest.json](./265764-world-quest.json) |
 | World Racing '95 | 147430 | [147430-world-racing-95.json](./147430-world-racing-95.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
