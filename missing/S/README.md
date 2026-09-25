@@ -7124,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Azylum | 131379 | [131379-soul-azylum.json](./131379-soul-azylum.json) |
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
 | Soul Battles | 299993 | [299993-soul-battles.json](./299993-soul-battles.json) |
+| Soul Blade | 274455 | [274455-soul-blade.json](./274455-soul-blade.json) |
 | Soul Breach | 363022 | [363022-soul-breach.json](./363022-soul-breach.json) |
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
 | Soul Demon Hunters | 371977 | [371977-soul-demon-hunters.json](./371977-soul-demon-hunters.json) |
@@ -11925,6 +11926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Doopliss World | 323360 | [323360-super-doopliss-world.json](./323360-super-doopliss-world.json) |
 | Super Dot Jump | 25960 | [25960-super-dot-jump.json](./25960-super-dot-jump.json) |
 | Super Double Dragon | 198931 | [198931-super-double-dragon.json](./198931-super-double-dragon.json) |
+| Super Double Dragon | 274439 | [274439-super-double-dragon.json](./274439-super-double-dragon.json) |
 | Super Doubles Tennis | 40425 | [40425-super-doubles-tennis.json](./40425-super-doubles-tennis.json) |
 | Super Dr Corona | 277930 | [277930-super-dr-corona.json](./277930-super-dr-corona.json) |
 | Super Dragon Ball Heroes: World Mission | 111054 | [111054-super-dragon-ball-heroes-world-mission.json](./111054-super-dragon-ball-heroes-world-mission.json) |
