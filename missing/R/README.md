@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
 | Range Royale | 108426 | [108426-range-royale.json](./108426-range-royale.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
+| Ranger Quest: The Elemental Orbs | 236766 | [236766-ranger-quest-the-elemental-orbs.json](./236766-ranger-quest-the-elemental-orbs.json) |
 | Ranger vs. Drones | 154364 | [154364-ranger-vs-drones.json](./154364-ranger-vs-drones.json) |
 | Ranger vs. Space Mutants | 101623 | [101623-ranger-vs-space-mutants.json](./101623-ranger-vs-space-mutants.json) |
 | Rangerdog | 152160 | [152160-rangerdog.json](./152160-rangerdog.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raving Rabbids: Alive and Kicking | 20221 | [20221-raving-rabbids-alive-and-kicking.json](./20221-raving-rabbids-alive-and-kicking.json) |
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
+| Ravva and the Phantom Library | 236780 | [236780-ravva-and-the-phantom-library.json](./236780-ravva-and-the-phantom-library.json) |
 | Raw | 119581 | [119581-raw.json](./119581-raw.json) |
 | Raw Concrete | 369223 | [369223-raw-concrete.json](./369223-raw-concrete.json) |
 | Raw Data/Sprint Vector | 139965 | [139965-raw-data-sprint-vector.json](./139965-raw-data-sprint-vector.json) |
