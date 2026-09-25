@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Seasons 2 | 57930 | [57930-sacred-seasons-2.json](./57930-sacred-seasons-2.json) |
 | Sacred Sword Princesses | 112286 | [112286-sacred-sword-princesses.json](./112286-sacred-sword-princesses.json) |
 | Sacred Underworld | 78933 | [78933-sacred-underworld.json](./78933-sacred-underworld.json) |
+| Sacred Zodongga Defense | 234576 | [234576-sacred-zodongga-defense.json](./234576-sacred-zodongga-defense.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Sacrifices | 330126 | [330126-sacrifices.json](./330126-sacrifices.json) |
 | SacriFrogos | 390009 | [390009-sacrifrogos.json](./390009-sacrifrogos.json) |
@@ -2298,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
 | Seriously Warped Deathmatch | 361921 | [361921-seriously-warped-deathmatch.json](./361921-seriously-warped-deathmatch.json) |
+| Seroutte | 234575 | [234575-seroutte.json](./234575-seroutte.json) |
 | Serpent | 360187 | [360187-serpent.json](./360187-serpent.json) |
 | Serpent at the Vernissage | 353386 | [353386-serpent-at-the-vernissage.json](./353386-serpent-at-the-vernissage.json) |
 | Serpent in the Staglands | 23440 | [23440-serpent-in-the-staglands.json](./23440-serpent-in-the-staglands.json) |
@@ -4738,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelemental: Monk's Fury | 295881 | [295881-skelemental-monks-fury.json](./295881-skelemental-monks-fury.json) |
 | Skeleport Energy | 276765 | [276765-skeleport-energy.json](./276765-skeleport-energy.json) |
 | Skelerun | 198513 | [198513-skelerun.json](./198513-skelerun.json) |
+| Skeleskeleskelter | 234560 | [234560-skeleskeleskelter.json](./234560-skeleskeleskelter.json) |
 | Skelet_666 | 306380 | [306380-skelet-666.json](./306380-skelet-666.json) |
 | Skeletal Avenger | 136435 | [136435-skeletal-avenger.json](./136435-skeletal-avenger.json) |
 | Skeletal Skism | 186315 | [186315-skeletal-skism.json](./186315-skeletal-skism.json) |
@@ -5590,6 +5593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
 | Smart Boy's: Toy Club | 124044 | [124044-smart-boys-toy-club.json](./124044-smart-boys-toy-club.json) |
 | Smart Boy's: Winter Wonderland | 124048 | [124048-smart-boys-winter-wonderland.json](./124048-smart-boys-winter-wonderland.json) |
+| Smart Cookie Cat | 234588 | [234588-smart-cookie-cat.json](./234588-smart-cookie-cat.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
 | Smart Educational Games for Mac | 100607 | [100607-smart-educational-games-for-mac.json](./100607-smart-educational-games-for-mac.json) |
 | Smart Fart | 149938 | [149938-smart-fart.json](./149938-smart-fart.json) |
@@ -9548,6 +9552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Phantom | 136240 | [136240-star-phantom.json](./136240-star-phantom.json) |
 | Star Pilot | 72613 | [72613-star-pilot.json](./72613-star-pilot.json) |
 | Star Pixie | 153938 | [153938-star-pixie.json](./153938-star-pixie.json) |
+| Star Platinum | 234564 | [234564-star-platinum.json](./234564-star-platinum.json) |
 | Star Post | 47253 | [47253-star-post.json](./47253-star-post.json) |
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
 | Star Quest | 249861 | [249861-star-quest.json](./249861-star-quest.json) |
@@ -10977,6 +10982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
 | Strato-Spear | 268443 | [268443-strato-spear.json](./268443-strato-spear.json) |
 | Stratos | 24896 | [24896-stratos.json](./24896-stratos.json) |
+| Stratoskirmish | 234582 | [234582-stratoskirmish.json](./234582-stratoskirmish.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
 | Stratside | 130780 | [130780-stratside.json](./130780-stratside.json) |
 | Stratum | 74319 | [74319-stratum.json](./74319-stratum.json) |
@@ -12148,6 +12154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bubble 2003 | 267979 | [267979-super-bubble-2003.json](./267979-super-bubble-2003.json) |
 | Super Bubble Bobble | 70327 | [70327-super-bubble-bobble.json](./70327-super-bubble-bobble.json) |
 | Super Bug | 40431 | [40431-super-bug.json](./40431-super-bug.json) |
+| Super Bull Knight | 234558 | [234558-super-bull-knight.json](./234558-super-bull-knight.json) |
 | Super Bullet Break | 196819 | [196819-super-bullet-break.json](./196819-super-bullet-break.json) |
 | Super Bullet Break: Day 1 Edition | 198393 | [198393-super-bullet-break-day-1-edition.json](./198393-super-bullet-break-day-1-edition.json) |
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
