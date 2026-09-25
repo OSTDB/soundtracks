@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need For Seed: Undergrowth | 185512 | [185512-need-for-seed-undergrowth.json](./185512-need-for-seed-undergrowth.json) |
 | Need for Speed Deluxe Bundle | 331479 | [331479-need-for-speed-deluxe-bundle.json](./331479-need-for-speed-deluxe-bundle.json) |
 | Need for Speed II | 91 | [91-need-for-speed-ii.json](./91-need-for-speed-ii.json) |
+| Need For Speed Pro Street Pepega Edition | 257349 | [257349-need-for-speed-pro-street-pepega-edition.json](./257349-need-for-speed-pro-street-pepega-edition.json) |
 | Need for Speed Rivals: Complete Edition | 118896 | [118896-need-for-speed-rivals-complete-edition.json](./118896-need-for-speed-rivals-complete-edition.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed: Carbon | 248118 | [248118-need-for-speed-carbon.json](./248118-need-for-speed-carbon.json) |
@@ -1350,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year's Eve 2020 | 127187 | [127187-new-years-eve-2020.json](./127187-new-years-eve-2020.json) |
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
+| New Years Eve Slaughter 2022 | 257416 | [257416-new-years-eve-slaughter-2022.json](./257416-new-years-eve-slaughter-2022.json) |
 | New York Bus Simulator | 33445 | [33445-new-york-bus-simulator.json](./33445-new-york-bus-simulator.json) |
 | New York City | 25698 | [25698-new-york-city.json](./25698-new-york-city.json) |
 | New York City Driver | 243696 | [243696-new-york-city-driver.json](./243696-new-york-city-driver.json) |
