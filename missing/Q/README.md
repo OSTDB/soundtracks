@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q*bert | 270082 | [270082-q-bert.json](./270082-q-bert.json) |
 | Q*bert | 99373 | [99373-q-bert.json](./99373-q-bert.json) |
 | Q&Q Answers | 130889 | [130889-q-and-q-answers.json](./130889-q-and-q-answers.json) |
+| Q4Max | 252081 | [252081-q4max.json](./252081-q4max.json) |
 | QAD: Quintessential Art of Destruction | 72102 | [72102-qad-quintessential-art-of-destruction.json](./72102-qad-quintessential-art-of-destruction.json) |
 | Qallupilluit | 293706 | [293706-qallupilluit.json](./293706-qallupilluit.json) |
 | QamaQ | 178575 | [178575-qamaq.json](./178575-qamaq.json) |
