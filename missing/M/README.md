@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
+| Machine Yearning | 245254 | [245254-machine-yearning.json](./245254-machine-yearning.json) |
 | MachineGunner2: Bullet Transcending | 365270 | [365270-machinegunner2-bullet-transcending.json](./365270-machinegunner2-bullet-transcending.json) |
 | Machines of Madness | 263032 | [263032-machines-of-madness.json](./263032-machines-of-madness.json) |
 | Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
@@ -3055,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Tetris 2000 | 125272 | [125272-mega-tetris-2000.json](./125272-mega-tetris-2000.json) |
 | Mega Turrican | 85286 | [85286-mega-turrican.json](./85286-mega-turrican.json) |
 | Mega Twins | 12184 | [12184-mega-twins.json](./12184-mega-twins.json) |
+| Mega Typhoon | 245245 | [245245-mega-typhoon.json](./245245-mega-typhoon.json) |
 | Mega Veg Man | 148538 | [148538-mega-veg-man.json](./148538-mega-veg-man.json) |
 | Mega Zombie | 146875 | [146875-mega-zombie.json](./146875-mega-zombie.json) |
 | Mega-Bots | 214776 | [214776-mega-bots.json](./214776-mega-bots.json) |
@@ -7228,6 +7230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multimaker | 109748 | [109748-multimaker.json](./109748-multimaker.json) |
 | Multimedia Cats | 194441 | [194441-multimedia-cats.json](./194441-multimedia-cats.json) |
 | Multimedia Dinosaurs | 98941 | [98941-multimedia-dinosaurs.json](./98941-multimedia-dinosaurs.json) |
+| Multimedia Shinsho: Driving School - Futsu Menkyoka-hen | 245253 | [245253-multimedia-shinsho-driving-school-futsu-menkyoka-hen.json](./245253-multimedia-shinsho-driving-school-futsu-menkyoka-hen.json) |
 | Multiplayer Citizens | 384206 | [384206-multiplayer-citizens.json](./384206-multiplayer-citizens.json) |
 | Multiplayer Game Maker | 335445 | [335445-multiplayer-game-maker.json](./335445-multiplayer-game-maker.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
@@ -8332,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Valley | 311092 | [311092-mystic-valley.json](./311092-mystic-valley.json) |
 | Mystic Valley Battleground | 272564 | [272564-mystic-valley-battleground.json](./272564-mystic-valley-battleground.json) |
 | Mystic VR | 51940 | [51940-mystic-vr.json](./51940-mystic-vr.json) |
+| Mystic Warriors Battleground | 245269 | [245269-mystic-warriors-battleground.json](./245269-mystic-warriors-battleground.json) |
 | Mystica | 230921 | [230921-mystica.json](./230921-mystica.json) |
 | Mystica: The Ninth Society | 33377 | [33377-mystica-the-ninth-society.json](./33377-mystica-the-ninth-society.json) |
 | Mystical | 34821 | [34821-mystical.json](./34821-mystical.json) |
