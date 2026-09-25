@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
 | Ignore the Blackbird | 400951 | [400951-ignore-the-blackbird.json](./400951-ignore-the-blackbird.json) |
 | Igo Shinan | 63890 | [63890-igo-shinan.json](./63890-igo-shinan.json) |
+| Igo Time Trial: Shikatsu Daihyakka | 268504 | [268504-igo-time-trial-shikatsu-daihyakka.json](./268504-igo-time-trial-shikatsu-daihyakka.json) |
 | Igo-Shinan '91 | 92295 | [92295-igo-shinan-91.json](./92295-igo-shinan-91.json) |
 | Igo: Kyuu Roban Taikyoku | 41367 | [41367-igo-kyuu-roban-taikyoku.json](./41367-igo-kyuu-roban-taikyoku.json) |
 | Igor: The Game | 21269 | [21269-igor-the-game.json](./21269-igor-the-game.json) |
@@ -1866,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
 | Intellivision Shark! Shark! Gen2 | 61858 | [61858-intellivision-shark-shark-gen2.json](./61858-intellivision-shark-shark-gen2.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
+| Inter Milan Club Football | 267887 | [267887-inter-milan-club-football.json](./267887-inter-milan-club-football.json) |
 | Inter Milan Club Football 2005 | 267906 | [267906-inter-milan-club-football-2005.json](./267906-inter-milan-club-football-2005.json) |
 | Interactive Empathy | 392802 | [392802-interactive-empathy.json](./392802-interactive-empathy.json) |
 | Interactive Manual For Employees of Pippi-integrated Companies | 392442 | [392442-interactive-manual-for-employees-of-pippi-integrated-companies.json](./392442-interactive-manual-for-employees-of-pippi-integrated-companies.json) |
@@ -2399,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishara: Bane of the Seas | 133966 | [133966-ishara-bane-of-the-seas.json](./133966-ishara-bane-of-the-seas.json) |
 | Ishi | 58757 | [58757-ishi.json](./58757-ishi.json) |
 | Ishi GO | 58759 | [58759-ishi-go.json](./58759-ishi-go.json) |
+| Ishida Yoshio Kudan no Igo Seiha | 268506 | [268506-ishida-yoshio-kudan-no-igo-seiha.json](./268506-ishida-yoshio-kudan-no-igo-seiha.json) |
 | Ishidó: The Way of Stones | 126453 | [126453-ishido-the-way-of-stones.json](./126453-ishido-the-way-of-stones.json) |
 | Ishidó: The Way of Stones | 14525 | [14525-ishido-the-way-of-stones.json](./14525-ishido-the-way-of-stones.json) |
 | Ishidó: The Way of Stones | 152385 | [152385-ishido-the-way-of-stones.json](./152385-ishido-the-way-of-stones.json) |
