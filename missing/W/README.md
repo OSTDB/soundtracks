@@ -2213,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander Privateer: Righteous Fire | 50168 | [50168-wing-commander-privateer-righteous-fire.json](./50168-wing-commander-privateer-righteous-fire.json) |
 | Wing Commander: Armada | 8824 | [8824-wing-commander-armada.json](./8824-wing-commander-armada.json) |
 | Wing Commander: Privateer | 794 | [794-wing-commander-privateer.json](./794-wing-commander-privateer.json) |
+| Wing Commander: Prophecy | 248587 | [248587-wing-commander-prophecy.json](./248587-wing-commander-prophecy.json) |
 | Wing Commander: Prophecy | 935 | [935-wing-commander-prophecy.json](./935-wing-commander-prophecy.json) |
 | Wing Commander: Standoff | 144988 | [144988-wing-commander-standoff.json](./144988-wing-commander-standoff.json) |
 | Wing Commander: The Kilrahi Saga | 50167 | [50167-wing-commander-the-kilrahi-saga.json](./50167-wing-commander-the-kilrahi-saga.json) |
