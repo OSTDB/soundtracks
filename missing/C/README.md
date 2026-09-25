@@ -5357,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking, for lovers | 139814 | [139814-cooking-for-lovers.json](./139814-cooking-for-lovers.json) |
 | Cooking: Green Dragon Set | 324424 | [324424-cooking-green-dragon-set.json](./324424-cooking-green-dragon-set.json) |
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
+| Cool 104 Joker & Setline | 269623 | [269623-cool-104-joker-and-setline.json](./269623-cool-104-joker-and-setline.json) |
 | Cool Boarders Arcade Jam | 39831 | [39831-cool-boarders-arcade-jam.json](./39831-cool-boarders-arcade-jam.json) |
 | Cool Brick Breaker | 235239 | [235239-cool-brick-breaker.json](./235239-cool-brick-breaker.json) |
 | Cool Carkour! | 97708 | [97708-cool-carkour.json](./97708-cool-carkour.json) |
