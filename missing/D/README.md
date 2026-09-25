@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
 | Defense Zone 3 Ultra HD | 36205 | [36205-defense-zone-3-ultra-hd.json](./36205-defense-zone-3-ultra-hd.json) |
+| DefenseCraft | 261758 | [261758-defensecraft.json](./261758-defensecraft.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
 | Defiance 2050 | 89554 | [89554-defiance-2050.json](./89554-defiance-2050.json) |
@@ -3671,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
 | Disc Station MSX #11 | 266489 | [266489-disc-station-msx-11.json](./266489-disc-station-msx-11.json) |
 | Discard All Hope | 350614 | [350614-discard-all-hope.json](./350614-discard-all-hope.json) |
+| Discarded Memories: Mysteries of the Past | 261838 | [261838-discarded-memories-mysteries-of-the-past.json](./261838-discarded-memories-mysteries-of-the-past.json) |
 | Discarnate | 265628 | [265628-discarnate.json](./265628-discarnate.json) |
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
 | Dischord | 119001 | [119001-dischord.json](./119001-dischord.json) |
