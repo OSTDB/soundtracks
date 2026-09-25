@@ -3322,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenhouse: Tidy Up! | 416831 | [416831-greenhouse-tidy-up.json](./416831-greenhouse-tidy-up.json) |
 | Greenie's Little Adventure | 58500 | [58500-greenies-little-adventure.json](./58500-greenies-little-adventure.json) |
 | Greenlander | 236838 | [236838-greenlander.json](./236838-greenlander.json) |
+| Greenman | 276804 | [276804-greenman.json](./276804-greenman.json) |
 | Greenrise | 416836 | [416836-greenrise.json](./416836-greenrise.json) |
 | greenTech+ | 54058 | [54058-greentech.json](./54058-greentech.json) |
 | GreenWood Defense | 309858 | [309858-greenwood-defense.json](./309858-greenwood-defense.json) |
