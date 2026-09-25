@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 in 1: Scrap Bolts + Toroom + Last Mage Survivor + Home Sweet Home + Bruxa | 273928 | [273928-5-in-1-scrap-bolts-toroom-last-mage-survivor-home-sweet-home-bruxa.json](./273928-5-in-1-scrap-bolts-toroom-last-mage-survivor-home-sweet-home-bruxa.json) |
 | 5 In One Fun Pak | 93568 | [93568-5-in-one-fun-pak.json](./93568-5-in-one-fun-pak.json) |
 | 5 Intelligent Strategy Games | 320405 | [320405-5-intelligent-strategy-games.json](./320405-5-intelligent-strategy-games.json) |
+| 5 Minute Climb | 245786 | [245786-5-minute-climb.json](./245786-5-minute-climb.json) |
 | 5 Minute Raid | 304004 | [304004-5-minute-raid.json](./304004-5-minute-raid.json) |
 | 5 minutes | 250903 | [250903-5-minutes.json](./250903-5-minutes.json) |
 | 5 Nights At Grek's Hotel | 229199 | [229199-5-nights-at-greks-hotel.json](./229199-5-nights-at-greks-hotel.json) |
@@ -1098,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 911 Operator: Deluxe Edition | 132984 | [132984-911-operator-deluxe-edition.json](./132984-911-operator-deluxe-edition.json) |
 | 911 Operator: Special Resources | 149546 | [149546-911-operator-special-resources.json](./149546-911-operator-special-resources.json) |
 | 911 Paramedic | 72049 | [72049-911-paramedic.json](./72049-911-paramedic.json) |
+| 911: Cannibal | 245837 | [245837-911-cannibal.json](./245837-911-cannibal.json) |
 | 93, Kuindzhi | 402479 | [402479-93-kuindzhi.json](./402479-93-kuindzhi.json) |
 | 94 Seconds: category word game | 27788 | [27788-94-seconds-category-word-game.json](./27788-94-seconds-category-word-game.json) |
 | 96 | 180215 | [180215-96.json](./180215-96.json) |
