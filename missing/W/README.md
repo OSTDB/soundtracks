@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Western Deep | 310069 | [310069-war-of-the-western-deep.json](./310069-war-of-the-western-deep.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
 | War of the Zombie | 90516 | [90516-war-of-the-zombie.json](./90516-war-of-the-zombie.json) |
+| War of Thrones | 245263 | [245263-war-of-thrones.json](./245263-war-of-thrones.json) |
 | War of Warship | 338398 | [338398-war-of-warship.json](./338398-war-of-warship.json) |
 | War of Wizards | 215666 | [215666-war-of-wizards.json](./215666-war-of-wizards.json) |
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
