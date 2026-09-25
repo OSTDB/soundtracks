@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenka no Goikenban: Mito Koumon | 48881 | [48881-tenka-no-goikenban-mito-koumon.json](./48881-tenka-no-goikenban-mito-koumon.json) |
 | Tenka Touitsu SSB: Scenario - Mouko Houkousu | 283850 | [283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json](./283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json) |
 | Tenka Touitsu SSB: Scenario - Ryuuko Aiutsu | 283849 | [283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json](./283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json) |
+| Tenka Touitsu: SSB | 278496 | [278496-tenka-touitsu-ssb.json](./278496-tenka-touitsu-ssb.json) |
 | Tennis | 131513 | [131513-tennis.json](./131513-tennis.json) |
 | Tennis | 131517 | [131517-tennis.json](./131517-tennis.json) |
 | Tennis | 131530 | [131530-tennis.json](./131530-tennis.json) |
@@ -4328,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inverted Spire | 176914 | [176914-the-inverted-spire.json](./176914-the-inverted-spire.json) |
 | The Investigation Files of Assistant Arimura | 133387 | [133387-the-investigation-files-of-assistant-arimura.json](./133387-the-investigation-files-of-assistant-arimura.json) |
 | The Invincible | 138906 | [138906-the-invincible.json](./138906-the-invincible.json) |
+| The Invincible Iron Man: Flight Test | 278483 | [278483-the-invincible-iron-man-flight-test.json](./278483-the-invincible-iron-man-flight-test.json) |
 | The Invincible Run-Gun-Bot | 179653 | [179653-the-invincible-run-gun-bot.json](./179653-the-invincible-run-gun-bot.json) |
 | The Invincible: Deluxe Edition | 275594 | [275594-the-invincible-deluxe-edition.json](./275594-the-invincible-deluxe-edition.json) |
 | The Invisible Guardian | 185670 | [185670-the-invisible-guardian.json](./185670-the-invisible-guardian.json) |
@@ -6078,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ruins of the Lost Kingdom: Chronicle | 77960 | [77960-the-ruins-of-the-lost-kingdom-chronicle.json](./77960-the-ruins-of-the-lost-kingdom-chronicle.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
 | The Rumble Fish | 226310 | [226310-the-rumble-fish.json](./226310-the-rumble-fish.json) |
+| The Rumble Fish + | 278489 | [278489-the-rumble-fish.json](./278489-the-rumble-fish.json) |
 | The Rumble Fish 2: Additional Character - Beatrice | 226309 | [226309-the-rumble-fish-2-additional-character-beatrice.json](./226309-the-rumble-fish-2-additional-character-beatrice.json) |
 | The Rumble Fish 2: Collector's Edition | 222947 | [222947-the-rumble-fish-2-collectors-edition.json](./222947-the-rumble-fish-2-collectors-edition.json) |
 | The Rumble Fish 2: Deluxe Edition | 251601 | [251601-the-rumble-fish-2-deluxe-edition.json](./251601-the-rumble-fish-2-deluxe-edition.json) |
@@ -11474,6 +11477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Adventure World | 58243 | [58243-treasure-adventure-world.json](./58243-treasure-adventure-world.json) |
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
+| Treasure Dive | 278504 | [278504-treasure-dive.json](./278504-treasure-dive.json) |
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
