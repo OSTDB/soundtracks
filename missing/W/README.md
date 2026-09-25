@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dakka Squadron | 143650 | [143650-warhammer-40-000-dakka-squadron.json](./143650-warhammer-40-000-dakka-squadron.json) |
 | Warhammer 40,000: Dark Crusaders | 200657 | [200657-warhammer-40-000-dark-crusaders.json](./200657-warhammer-40-000-dark-crusaders.json) |
 | Warhammer 40,000: Darktide - Skitarii | 402515 | [402515-warhammer-40-000-darktide-skitarii.json](./402515-warhammer-40-000-darktide-skitarii.json) |
+| Warhammer 40,000: Darktide - The Traitor Curse Part 1 | 276771 | [276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json](./276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json) |
 | Warhammer 40,000: Dawn of War | 257 | [257-warhammer-40-000-dawn-of-war.json](./257-warhammer-40-000-dawn-of-war.json) |
 | Warhammer 40,000: Dawn of War II - Retribution Chaos Space Marines Race Pack | 163389 | [163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json](./163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json) |
 | Warhammer 40,000: Dawn of War II - Retribution Eldar Race Pack | 163391 | [163391-warhammer-40-000-dawn-of-war-ii-retribution-eldar-race-pack.json](./163391-warhammer-40-000-dawn-of-war-ii-retribution-eldar-race-pack.json) |
