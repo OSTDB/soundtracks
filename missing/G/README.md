@@ -1591,6 +1591,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift Drop Machine: Life Simulator | 390242 | [390242-gift-drop-machine-life-simulator.json](./390242-gift-drop-machine-life-simulator.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
 | Gift of Life: Key of Solomon | 88228 | [88228-gift-of-life-key-of-solomon.json](./88228-gift-of-life-key-of-solomon.json) |
+| Gift Quest: Christmas Edition | 255643 | [255643-gift-quest-christmas-edition.json](./255643-gift-quest-christmas-edition.json) |
+| Gift Quest: Valentine's Day | 255655 | [255655-gift-quest-valentines-day.json](./255655-gift-quest-valentines-day.json) |
 | Gift Shop Factory | 159360 | [159360-gift-shop-factory.json](./159360-gift-shop-factory.json) |
 | Gift to Humanity | 75163 | [75163-gift-to-humanity.json](./75163-gift-to-humanity.json) |
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
@@ -2072,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go to Ten | 100940 | [100940-go-to-ten.json](./100940-go-to-ten.json) |
 | Go Up | 363958 | [363958-go-up.json](./363958-go-up.json) |
 | Go Up Frog | 401521 | [401521-go-up-frog.json](./401521-go-up-frog.json) |
+| Go Up! | 255666 | [255666-go-up.json](./255666-go-up.json) |
 | Go West | 133998 | [133998-go-west.json](./133998-go-west.json) |
 | Go West! A Lucky Luke Adventure | 110321 | [110321-go-west-a-lucky-luke-adventure.json](./110321-go-west-a-lucky-luke-adventure.json) |
 | Go West! A Lucky Luke Adventure | 345551 | [345551-go-west-a-lucky-luke-adventure.json](./345551-go-west-a-lucky-luke-adventure.json) |
