@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Cake Maker: Sugar Rush | 316246 | [316246-real-cake-maker-sugar-rush.json](./316246-real-cake-maker-sugar-rush.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
 | Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
+| Real Communism | 273963 | [273963-real-communism.json](./273963-real-communism.json) |
 | Real Cricket Go | 233506 | [233506-real-cricket-go.json](./233506-real-cricket-go.json) |
 | Real Cricket™ 16: English Bash | 242682 | [242682-real-cricket-16-english-bash.json](./242682-real-cricket-16-english-bash.json) |
 | Real Crimes: Jack the Ripper | 137474 | [137474-real-crimes-jack-the-ripper.json](./137474-real-crimes-jack-the-ripper.json) |
@@ -1975,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remute: The Cult of Remute Portable | 321791 | [321791-remute-the-cult-of-remute-portable.json](./321791-remute-the-cult-of-remute-portable.json) |
 | Remyadry | 104873 | [104873-remyadry.json](./104873-remyadry.json) |
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
+| Ren & Stimpy: Match-Master | 273881 | [273881-ren-and-stimpy-match-master.json](./273881-ren-and-stimpy-match-master.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
 | Renai 0 Kilometer | 61552 | [61552-renai-0-kilometer.json](./61552-renai-0-kilometer.json) |
 | Renai 0 Kilometer V | 216243 | [216243-renai-0-kilometer-v.json](./216243-renai-0-kilometer-v.json) |
@@ -3720,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman Xover | 64138 | [64138-rockman-xover.json](./64138-rockman-xover.json) |
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
 | Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
+| Rocko's Modern Life: Match-Master | 273876 | [273876-rockos-modern-life-match-master.json](./273876-rockos-modern-life-match-master.json) |
 | Rocks N' Rockets | 84849 | [84849-rocks-n-rockets.json](./84849-rocks-n-rockets.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
 | Rocks'n'Gems | 169451 | [169451-rocksngems.json](./169451-rocksngems.json) |
@@ -4582,11 +4585,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugrats Munchin Land | 70346 | [70346-rugrats-munchin-land.json](./70346-rugrats-munchin-land.json) |
 | Rugrats: Adventures in Gameland | 299152 | [299152-rugrats-adventures-in-gameland.json](./299152-rugrats-adventures-in-gameland.json) |
 | Rugrats: All Growed-Up | 7990 | [7990-rugrats-all-growed-up.json](./7990-rugrats-all-growed-up.json) |
+| Rugrats: Match-Master | 273878 | [273878-rugrats-match-master.json](./273878-rugrats-match-master.json) |
 | Rugrats: Retro Rewind Collection | 399837 | [399837-rugrats-retro-rewind-collection.json](./399837-rugrats-retro-rewind-collection.json) |
 | Rugrats: Scavenger Hunt | 2786 | [2786-rugrats-scavenger-hunt.json](./2786-rugrats-scavenger-hunt.json) |
 | Rugrats: Studio Tour | 2788 | [2788-rugrats-studio-tour.json](./2788-rugrats-studio-tour.json) |
 | Rúguǒ Yīshēng Zhǐ Yǒu Sān Shí Suì | 121646 | [121646-ruguo-yisheng-zhi-you-san-shi-sui.json](./121646-ruguo-yisheng-zhi-you-san-shi-sui.json) |
 | Ruh & the Glow | 178597 | [178597-ruh-and-the-glow.json](./178597-ruh-and-the-glow.json) |
+| Rui wa Tomo o Yobu | 273890 | [273890-rui-wa-tomo-o-yobu.json](./273890-rui-wa-tomo-o-yobu.json) |
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
 | Ruin | 272378 | [272378-ruin.json](./272378-ruin.json) |
 | Ruin 2: Mimic Adventures | 313241 | [313241-ruin-2-mimic-adventures.json](./313241-ruin-2-mimic-adventures.json) |
