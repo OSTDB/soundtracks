@@ -5106,6 +5106,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
 | Power Defence | 53470 | [53470-power-defence.json](./53470-power-defence.json) |
+| Power Dolls 1 | 228982 | [228982-power-dolls-1.json](./228982-power-dolls-1.json) |
+| Power Dolls 2 Dash | 228976 | [228976-power-dolls-2-dash.json](./228976-power-dolls-2-dash.json) |
+| Power Dolls 3 | 228977 | [228977-power-dolls-3.json](./228977-power-dolls-3.json) |
+| Power Dolls 4 | 228978 | [228978-power-dolls-4.json](./228978-power-dolls-4.json) |
+| Power Dolls 5 | 228979 | [228979-power-dolls-5.json](./228979-power-dolls-5.json) |
+| Power Dolls 5X | 228980 | [228980-power-dolls-5x.json](./228980-power-dolls-5x.json) |
+| Power Dolls 6 | 228981 | [228981-power-dolls-6.json](./228981-power-dolls-6.json) |
 | Power Dolls FX | 79614 | [79614-power-dolls-fx.json](./79614-power-dolls-fx.json) |
 | Power Down | 52203 | [52203-power-down.json](./52203-power-down.json) |
 | Power Drill Massacre | 320349 | [320349-power-drill-massacre.json](./320349-power-drill-massacre.json) |
