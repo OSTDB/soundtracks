@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacmario | 284435 | [284435-pacmario.json](./284435-pacmario.json) |
 | Paco | 149422 | [149422-paco.json](./149422-paco.json) |
 | Paco and the Tumbling Seed Box | 138051 | [138051-paco-and-the-tumbling-seed-box.json](./138051-paco-and-the-tumbling-seed-box.json) |
+| Paco El Hare vs Los Marcianos Siderales | 277926 | [277926-paco-el-hare-vs-los-marcianos-siderales.json](./277926-paco-el-hare-vs-los-marcianos-siderales.json) |
 | Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
 | Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
 | Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
 | Pixel Paint | 84818 | [84818-pixel-paint.json](./84818-pixel-paint.json) |
 | Pixel Paint - Coloring games | 108520 | [108520-pixel-paint-coloring-games.json](./108520-pixel-paint-coloring-games.json) |
+| Pixel Paint 2: Complete Edition | 277909 | [277909-pixel-paint-2-complete-edition.json](./277909-pixel-paint-2-complete-edition.json) |
 | Pixel Paint 2: Definitive Edition | 275031 | [275031-pixel-paint-2-definitive-edition.json](./275031-pixel-paint-2-definitive-edition.json) |
 | Pixel Paint 2: Deluxe Edition | 256267 | [256267-pixel-paint-2-deluxe-edition.json](./256267-pixel-paint-2-deluxe-edition.json) |
 | Pixel Paint 2: Extended Edition | 263605 | [263605-pixel-paint-2-extended-edition.json](./263605-pixel-paint-2-extended-edition.json) |
@@ -3209,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk: Scrappers Deluxe | 213499 | [213499-pixeljunk-scrappers-deluxe.json](./213499-pixeljunk-scrappers-deluxe.json) |
 | PixelMaker | 84816 | [84816-pixelmaker.json](./84816-pixelmaker.json) |
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
+| Pixelment TD | 277919 | [277919-pixelment-td.json](./277919-pixelment-td.json) |
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
 | Pixelmon Town | 141780 | [141780-pixelmon-town.json](./141780-pixelmon-town.json) |
 | Pixelords | 406208 | [406208-pixelords.json](./406208-pixelords.json) |
@@ -4407,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Party | 158664 | [158664-poly-party.json](./158664-poly-party.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
+| Poly Shooting Simulator | 277886 | [277886-poly-shooting-simulator.json](./277886-poly-shooting-simulator.json) |
 | Poly Soldiers | 120811 | [120811-poly-soldiers.json](./120811-poly-soldiers.json) |
 | Poly Squad | 149076 | [149076-poly-squad.json](./149076-poly-squad.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
