@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
 | Head Games and Tank Battle Retro | 238047 | [238047-head-games-and-tank-battle-retro.json](./238047-head-games-and-tank-battle-retro.json) |
+| Head North: The Inevitable | 269604 | [269604-head-north-the-inevitable.json](./269604-head-north-the-inevitable.json) |
 | Head over Heels | 322797 | [322797-head-over-heels.json](./322797-head-over-heels.json) |
 | Head Over Heels | 121632 | [121632-head-over-heels.json](./121632-head-over-heels.json) |
 | Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
@@ -1702,6 +1703,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no Hiragana Katakana Onamae Kaitemiyou | 279600 | [279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json](./279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json) |
 | Hello Kitty no Magical Museum | 50562 | [50562-hello-kitty-no-magical-museum.json](./50562-hello-kitty-no-magical-museum.json) |
 | Hello Kitty no Oshare Party: Sanrio Character Zukan DS | 228432 | [228432-hello-kitty-no-oshare-party-sanrio-character-zukan-ds.json](./228432-hello-kitty-no-oshare-party-sanrio-character-zukan-ds.json) |
+| Hello Kitty no PacPac & Logic | 269624 | [269624-hello-kitty-no-pacpac-and-logic.json](./269624-hello-kitty-no-pacpac-and-logic.json) |
+| Hello Kitty no Panda Sports Stadium | 269625 | [269625-hello-kitty-no-panda-sports-stadium.json](./269625-hello-kitty-no-panda-sports-stadium.json) |
 | Hello Kitty no Sutekina Otanjoubi | 279602 | [279602-hello-kitty-no-sutekina-otanjoubi.json](./279602-hello-kitty-no-sutekina-otanjoubi.json) |
 | Hello Kitty no Sweet Adventure: Daniel-kun ni Aitai | 228560 | [228560-hello-kitty-no-sweet-adventure-daniel-kun-ni-aitai.json](./228560-hello-kitty-no-sweet-adventure-daniel-kun-ni-aitai.json) |
 | Hello Kitty no Tanoshii Okaimono | 230272 | [230272-hello-kitty-no-tanoshii-okaimono.json](./230272-hello-kitty-no-tanoshii-okaimono.json) |
@@ -3099,6 +3102,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu | 60509 | [60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json](./60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 3: CR Marilyn Monroe | 61580 | [61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json](./61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 4: CR Ashita ga Arusa, Yoshimoto World | 61579 | [61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json](./61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json) |
+| Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 1: Shinseiki Evangelion - Magokoro o, Kimi ni | 269626 | [269626-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-1-shinseiki-evangelion-magokoro-o-kimi-ni.json](./269626-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-1-shinseiki-evangelion-magokoro-o-kimi-ni.json) |
+| Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 2: CR Shinseiki Evangelion - Shito, Futatabi | 269627 | [269627-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-2-cr-shinseiki-evangelion-shito-futatabi.json](./269627-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-2-cr-shinseiki-evangelion-shito-futatabi.json) |
+| Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 3: Shinseiki Evangelion - Yakusoku no Toki | 269629 | [269629-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-3-shinseiki-evangelion-yakusoku-no-toki.json](./269629-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-3-shinseiki-evangelion-yakusoku-no-toki.json) |
+| Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 4: CR Shinseiki Evangelion - Saigo no Shisha | 269628 | [269628-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-4-cr-shinseiki-evangelion-saigo-no-shisha.json](./269628-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-4-cr-shinseiki-evangelion-saigo-no-shisha.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series Vol.14: CR Shinseiki Evangelion - Saigo no Mono | 61581 | [61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json](./61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json) |
 | Hisshou Pachinko: Pachi-Slot Kouryoku Series Vol. 9: CR Fever Captain Harlock | 97315 | [97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json](./97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json) |
 | Hist Maker | 103183 | [103183-hist-maker.json](./103183-hist-maker.json) |
@@ -3390,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywhoot | 107011 | [107011-hollywhoot.json](./107011-hollywhoot.json) |
 | Hollywood Escape | 70912 | [70912-hollywood-escape.json](./70912-hollywood-escape.json) |
 | Hollywood Fame: Hidden Object Adventure | 84517 | [84517-hollywood-fame-hidden-object-adventure.json](./84517-hollywood-fame-hidden-object-adventure.json) |
+| Hollywood Files: Deadly Intrigues | 269631 | [269631-hollywood-files-deadly-intrigues.json](./269631-hollywood-files-deadly-intrigues.json) |
 | Hollywood Monsters | 71516 | [71516-hollywood-monsters.json](./71516-hollywood-monsters.json) |
 | Hollywood or Bust | 13878 | [13878-hollywood-or-bust.json](./13878-hollywood-or-bust.json) |
 | Hollywood Pictures II | 53208 | [53208-hollywood-pictures-ii.json](./53208-hollywood-pictures-ii.json) |
@@ -3865,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
 | Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
 | Horribunnies | 130178 | [130178-horribunnies.json](./130178-horribunnies.json) |
+| Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horror Amusement Park | 249213 | [249213-horror-amusement-park.json](./249213-horror-amusement-park.json) |
 | Horror Break: Head to Head | 214528 | [214528-horror-break-head-to-head.json](./214528-horror-break-head-to-head.json) |
