@@ -3733,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Sweep | 301287 | [301287-clean-sweep.json](./301287-clean-sweep.json) |
 | Clean The Sea! | 284820 | [284820-clean-the-sea.json](./284820-clean-the-sea.json) |
 | Clean Up Crew | 360057 | [360057-clean-up-crew.json](./360057-clean-up-crew.json) |
+| Clean-up Squad | 258493 | [258493-clean-up-squad.json](./258493-clean-up-squad.json) |
 | Clean'Em Up | 35709 | [35709-cleanem-up.json](./35709-cleanem-up.json) |
 | Cleaner | 119761 | [119761-cleaner.json](./119761-cleaner.json) |
 | Cleaner Boy | 331133 | [331133-cleaner-boy.json](./331133-cleaner-boy.json) |
@@ -3869,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
+| Cloak Hero | 258494 | [258494-cloak-hero.json](./258494-cloak-hero.json) |
 | Cloaked Protocol | 284977 | [284977-cloaked-protocol.json](./284977-cloaked-protocol.json) |
 | Cloaks and Capes | 148471 | [148471-cloaks-and-capes.json](./148471-cloaks-and-capes.json) |
 | Clock Game | 369210 | [369210-clock-game.json](./369210-clock-game.json) |
@@ -5123,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquist | 205089 | [205089-conquist.json](./205089-conquist.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conquistador | 236918 | [236918-conquistador.json](./236918-conquistador.json) |
+| Conquistadorio | 258438 | [258438-conquistadorio.json](./258438-conquistadorio.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
@@ -5605,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cos-249 | 311145 | [311145-cos-249.json](./311145-cos-249.json) |
 | Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
 | Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
+| Cosmantic Cluster | 258492 | [258492-cosmantic-cluster.json](./258492-cosmantic-cluster.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
 | Cosmetic Paradise: Make no Kiseki | 70674 | [70674-cosmetic-paradise-make-no-kiseki.json](./70674-cosmetic-paradise-make-no-kiseki.json) |
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
