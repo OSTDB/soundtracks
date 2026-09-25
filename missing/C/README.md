@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare 3 - Collection 3: Chaos Pack | 194416 | [194416-call-of-duty-modern-warfare-3-collection-3-chaos-pack.json](./194416-call-of-duty-modern-warfare-3-collection-3-chaos-pack.json) |
 | Call of Duty: Modern Warfare 3 - Collection 4: Final Assault | 194417 | [194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json](./194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json) |
 | Call of Duty: Modern Warfare 3 - Defiance | 134652 | [134652-call-of-duty-modern-warfare-3-defiance.json](./134652-call-of-duty-modern-warfare-3-defiance.json) |
+| Call of Duty: Modern Warfare II - Graffiti Tactical: Pro Pack | 257325 | [257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json](./257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json) |
 | Call of Duty: Modern Warfare II - Griffin: Pro Pack | 254759 | [254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json](./254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json) |
 | Call of Duty: Modern Warfare II - Season 03 | 243777 | [243777-call-of-duty-modern-warfare-ii-season-03.json](./243777-call-of-duty-modern-warfare-ii-season-03.json) |
 | Call of Duty: Modern Warfare III - Season 1 | 279645 | [279645-call-of-duty-modern-warfare-iii-season-1.json](./279645-call-of-duty-modern-warfare-iii-season-1.json) |
@@ -2030,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chainsaw Maniac | 289402 | [289402-chainsaw-maniac.json](./289402-chainsaw-maniac.json) |
 | Chainsaw Snuff Shots | 349477 | [349477-chainsaw-snuff-shots.json](./349477-chainsaw-snuff-shots.json) |
+| Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
 | Chakana | 322805 | [322805-chakana.json](./322805-chakana.json) |
