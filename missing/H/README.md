@@ -2198,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herbis | 158216 | [158216-herbis.json](./158216-herbis.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
+| Herd!!! | 234004 | [234004-herd.json](./234004-herd.json) |
 | Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
 | Here | 396372 | [396372-here.json](./396372-here.json) |
 | Here Again | 410923 | [410923-here-again.json](./410923-here-again.json) |
@@ -3334,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobo 4: Total War | 294724 | [294724-hobo-4-total-war.json](./294724-hobo-4-total-war.json) |
 | Hobo Brawl | 237478 | [237478-hobo-brawl.json](./237478-hobo-brawl.json) |
 | Hobo with a Shotgun | 63872 | [63872-hobo-with-a-shotgun.json](./63872-hobo-with-a-shotgun.json) |
+| Hobo: Life Business Simulator | 234009 | [234009-hobo-life-business-simulator.json](./234009-hobo-life-business-simulator.json) |
 | Hobo: Prison Brawl | 294146 | [294146-hobo-prison-brawl.json](./294146-hobo-prison-brawl.json) |
 | Hoboman | 255965 | [255965-hoboman.json](./255965-hoboman.json) |
 | Hobonichi Rozenzu | 80543 | [80543-hobonichi-rozenzu.json](./80543-hobonichi-rozenzu.json) |
