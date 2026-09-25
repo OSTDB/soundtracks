@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Crystal Mazes Collection | 66625 | [66625-1001-crystal-mazes-collection.json](./66625-1001-crystal-mazes-collection.json) |
 | 1001 Jigsaw Detective | 166639 | [166639-1001-jigsaw-detective.json](./166639-1001-jigsaw-detective.json) |
 | 1001 Jigsaw Detective 3 | 268027 | [268027-1001-jigsaw-detective-3.json](./268027-1001-jigsaw-detective-3.json) |
+| 1001 Jigsaw World Tour South Korea | 273353 | [273353-1001-jigsaw-world-tour-south-korea.json](./273353-1001-jigsaw-world-tour-south-korea.json) |
 | 1001 Jigsaw: 6 Magic Elements | 268037 | [268037-1001-jigsaw-6-magic-elements.json](./268037-1001-jigsaw-6-magic-elements.json) |
 | 1001 Jigsaw: Castles and Palaces 5 | 257464 | [257464-1001-jigsaw-castles-and-palaces-5.json](./257464-1001-jigsaw-castles-and-palaces-5.json) |
 | 1001 Jigsaw: Cute Cats 5 | 244869 | [244869-1001-jigsaw-cute-cats-5.json](./244869-1001-jigsaw-cute-cats-5.json) |
