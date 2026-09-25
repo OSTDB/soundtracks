@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandacaru | 159711 | [159711-mandacaru.json](./159711-mandacaru.json) |
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
+| Mandemon | 259510 | [259510-mandemon.json](./259510-mandemon.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
 | Mandragora Seeker in the Creep Zone | 329200 | [329200-mandragora-seeker-in-the-creep-zone.json](./329200-mandragora-seeker-in-the-creep-zone.json) |
 | Mandragora: Whispers of the Witch Tree | 191427 | [191427-mandragora-whispers-of-the-witch-tree.json](./191427-mandragora-whispers-of-the-witch-tree.json) |
@@ -2277,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
 | Max and the Pirates | 209540 | [209540-max-and-the-pirates.json](./209540-max-and-the-pirates.json) |
 | Max and the Secret Formula | 209538 | [209538-max-and-the-secret-formula.json](./209538-max-and-the-secret-formula.json) |
+| Max Beyond | 259519 | [259519-max-beyond.json](./259519-max-beyond.json) |
 | Max Bradshaw and the Zombie Invasion | 197250 | [197250-max-bradshaw-and-the-zombie-invasion.json](./197250-max-bradshaw-and-the-zombie-invasion.json) |
 | Max Craft 2: New World HD | 96703 | [96703-max-craft-2-new-world-hd.json](./96703-max-craft-2-new-world-hd.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
