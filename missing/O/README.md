@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriental Blue: Ao no Tengai | 49414 | [49414-oriental-blue-ao-no-tengai.json](./49414-oriental-blue-ao-no-tengai.json) |
 | Oriental Empires | 35526 | [35526-oriental-empires.json](./35526-oriental-empires.json) |
 | Oriental Empires: Three Kingdoms | 154558 | [154558-oriental-empires-three-kingdoms.json](./154558-oriental-empires-three-kingdoms.json) |
+| Oriental Immortal | 236765 | [236765-oriental-immortal.json](./236765-oriental-immortal.json) |
 | Oriental Legend | 39575 | [39575-oriental-legend.json](./39575-oriental-legend.json) |
 | Orifoldium | 326282 | [326282-orifoldium.json](./326282-orifoldium.json) |
 | Origame | 152916 | [152916-origame.json](./152916-origame.json) |
@@ -2105,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outnumbered | 239904 | [239904-outnumbered.json](./239904-outnumbered.json) |
 | Outnumbered | 55869 | [55869-outnumbered.json](./55869-outnumbered.json) |
 | Outpath | 229007 | [229007-outpath.json](./229007-outpath.json) |
+| Outpath: First Journey | 236761 | [236761-outpath-first-journey.json](./236761-outpath-first-journey.json) |
 | Outpost | 100123 | [100123-outpost.json](./100123-outpost.json) |
 | Outpost | 244185 | [244185-outpost.json](./244185-outpost.json) |
 | Outpost 13 | 35744 | [35744-outpost-13.json](./35744-outpost-13.json) |
@@ -2351,4 +2353,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozymandias: Aegean Sea | 235986 | [235986-ozymandias-aegean-sea.json](./235986-ozymandias-aegean-sea.json) |
 | Ozymandias: Deluxe Edition | 259524 | [259524-ozymandias-deluxe-edition.json](./259524-ozymandias-deluxe-edition.json) |
 | Ozymandias: Mesoamerica | 232436 | [232436-ozymandias-mesoamerica.json](./232436-ozymandias-mesoamerica.json) |
+| Ozymandias: The Andes | 236800 | [236800-ozymandias-the-andes.json](./236800-ozymandias-the-andes.json) |
 | Ozzy & Drix | 49318 | [49318-ozzy-and-drix.json](./49318-ozzy-and-drix.json) |
