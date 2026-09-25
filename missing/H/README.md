@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Recoil: Convoy Chaser | 183461 | [183461-heavy-recoil-convoy-chaser.json](./183461-heavy-recoil-convoy-chaser.json) |
 | Heavy Rockets | 237952 | [237952-heavy-rockets.json](./237952-heavy-rockets.json) |
 | Heavy Spoilers RPG: The True Identity of the Final Enemy is the Hero's Father | 347774 | [347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json](./347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json) |
+| Heavy Sword | 259037 | [259037-heavy-sword.json](./259037-heavy-sword.json) |
 | Heavy Traffic | 272334 | [272334-heavy-traffic.json](./272334-heavy-traffic.json) |
 | Heavy Truck Simulator | 58250 | [58250-heavy-truck-simulator.json](./58250-heavy-truck-simulator.json) |
 | Heavy Trucking | 271698 | [271698-heavy-trucking.json](./271698-heavy-trucking.json) |
@@ -4143,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
 | Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
 | Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
+| Hot Worlds | 259036 | [259036-hot-worlds.json](./259036-hot-worlds.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
