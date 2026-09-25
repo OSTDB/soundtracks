@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
 | DarkAndLight | 280362 | [280362-darkandlight.json](./280362-darkandlight.json) |
+| DarkBase 01 | 255667 | [255667-darkbase-01.json](./255667-darkbase-01.json) |
 | DarkBazaar | 393654 | [393654-darkbazaar.json](./393654-darkbazaar.json) |
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
 | Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
@@ -3160,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice'n'Go | 404963 | [404963-dicengo.json](./404963-dicengo.json) |
 | Dicealot | 319726 | [319726-dicealot.json](./319726-dicealot.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
+| Dicentra | 255649 | [255649-dicentra.json](./255649-dicentra.json) |
 | Dicepath | 405592 | [405592-dicepath.json](./405592-dicepath.json) |
 | DiceRogue | 400333 | [400333-dicerogue.json](./400333-dicerogue.json) |
 | Dices Toss: The Falling Eight Count | 232537 | [232537-dices-toss-the-falling-eight-count.json](./232537-dices-toss-the-falling-eight-count.json) |
@@ -4143,8 +4145,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DnD Dice | 105951 | [105951-dnd-dice.json](./105951-dnd-dice.json) |
 | DNetHack | 351129 | [351129-dnethack.json](./351129-dnethack.json) |
 | DNF Duel | 142063 | [142063-dnf-duel.json](./142063-dnf-duel.json) |
+| DNF Duel: DLC 1 - Spectre | 255676 | [255676-dnf-duel-dlc-1-spectre.json](./255676-dnf-duel-dlc-1-spectre.json) |
 | DNF Duel: DLC 2 - Brawler | 265719 | [265719-dnf-duel-dlc-2-brawler.json](./265719-dnf-duel-dlc-2-brawler.json) |
 | DNF Duel: DLC 3 - Battle Mage | 269074 | [269074-dnf-duel-dlc-3-battle-mage.json](./269074-dnf-duel-dlc-3-battle-mage.json) |
+| DNF Duel: Season Pass | 255679 | [255679-dnf-duel-season-pass.json](./255679-dnf-duel-season-pass.json) |
 | DNF Duel: Who's Next | 242667 | [242667-dnf-duel-whos-next.json](./242667-dnf-duel-whos-next.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
@@ -6335,6 +6339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Empire | 376459 | [376459-drug-empire.json](./376459-drug-empire.json) |
 | Drug Grower Simulator | 217508 | [217508-drug-grower-simulator.json](./217508-drug-grower-simulator.json) |
 | Drug Lord 2 | 71473 | [71473-drug-lord-2.json](./71473-drug-lord-2.json) |
+| Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
 | Drugs to Bee | 103447 | [103447-drugs-to-bee.json](./103447-drugs-to-bee.json) |
 | Drugz: 2D Drug Empire Simulator | 253398 | [253398-drugz-2d-drug-empire-simulator.json](./253398-drugz-2d-drug-empire-simulator.json) |
