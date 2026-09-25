@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aida's Bizarre Halloween | 216348 | [216348-aidas-bizarre-halloween.json](./216348-aidas-bizarre-halloween.json) |
 | Aidas Strange Christmas | 165507 | [165507-aidas-strange-christmas.json](./165507-aidas-strange-christmas.json) |
 | AIDS Awareness | 260803 | [260803-aids-awareness.json](./260803-aids-awareness.json) |
+| AIDS Watashi o Aishite... Jin'ai Seijin | 230204 | [230204-aids-watashi-o-aishite-jinai-seijin.json](./230204-aids-watashi-o-aishite-jinai-seijin.json) |
 | Aidsmoji: The Forbidden Fruit | 86307 | [86307-aidsmoji-the-forbidden-fruit.json](./86307-aidsmoji-the-forbidden-fruit.json) |
 | Aidyn Chronicles: The First Mage | 2850 | [2850-aidyn-chronicles-the-first-mage.json](./2850-aidyn-chronicles-the-first-mage.json) |
 | Aierlon | 203866 | [203866-aierlon.json](./203866-aierlon.json) |
@@ -1807,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akka Arrh: Special Edition | 245274 | [245274-akka-arrh-special-edition.json](./245274-akka-arrh-special-edition.json) |
 | Akko ni Omakase! Brain Shock | 269544 | [269544-akko-ni-omakase-brain-shock.json](./269544-akko-ni-omakase-brain-shock.json) |
 | Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
+| Akogare no Onna Joushi ga Shin'ya no Office de Onatteru Tokoro o Mite kara Hajimaru Himitsu no Kankei. | 230237 | [230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json](./230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json) |
 | Akron | 306990 | [306990-akron.json](./306990-akron.json) |
 | Aksun | 330327 | [330327-aksun.json](./330327-aksun.json) |
 | Akte Europa | 19584 | [19584-akte-europa.json](./19584-akte-europa.json) |
@@ -2978,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among The Whispers: Provocation | 291465 | [291465-among-the-whispers-provocation.json](./291465-among-the-whispers-provocation.json) |
 | Among the Wild | 305170 | [305170-among-the-wild.json](./305170-among-the-wild.json) |
 | Among Thorns | 25959 | [25959-among-thorns.json](./25959-among-thorns.json) |
+| Among Us | 230236 | [230236-among-us.json](./230236-among-us.json) |
 | Among Us 3D | 332784 | [332784-among-us-3d.json](./332784-among-us-3d.json) |
 | Among Us VR: Glove Pack - Catch Deez Hands | 316401 | [316401-among-us-vr-glove-pack-catch-deez-hands.json](./316401-among-us-vr-glove-pack-catch-deez-hands.json) |
 | Among Us VR: Limited Time Pack - DUM Duo | 316402 | [316402-among-us-vr-limited-time-pack-dum-duo.json](./316402-among-us-vr-limited-time-pack-dum-duo.json) |
@@ -5129,6 +5132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
 | Art of Fauna: Cozy Puzzles+ | 415280 | [415280-art-of-fauna-cozy-puzzles.json](./415280-art-of-fauna-cozy-puzzles.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
+| Art of Fighting: Trouble in South Town | 230256 | [230256-art-of-fighting-trouble-in-south-town.json](./230256-art-of-fighting-trouble-in-south-town.json) |
 | Art of Glide II | 306530 | [306530-art-of-glide-ii.json](./306530-art-of-glide-ii.json) |
 | Art of Golf | 259045 | [259045-art-of-golf.json](./259045-art-of-golf.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
@@ -5858,6 +5862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Dawn's Break | 303271 | [303271-at-dawns-break.json](./303271-at-dawns-break.json) |
 | At Dead of Night | 141235 | [141235-at-dead-of-night.json](./141235-at-dead-of-night.json) |
 | At Eternity's Hatch | 398548 | [398548-at-eternitys-hatch.json](./398548-at-eternitys-hatch.json) |
+| At Home | 230234 | [230234-at-home.json](./230234-at-home.json) |
 | At Home Alone | 111237 | [111237-at-home-alone.json](./111237-at-home-alone.json) |
 | At Home Alone Final | 186721 | [186721-at-home-alone-final.json](./186721-at-home-alone-final.json) |
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
@@ -6000,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis Fantasy: Reborn | 403610 | [403610-atlantis-fantasy-reborn.json](./403610-atlantis-fantasy-reborn.json) |
 | Atlantis II | 40779 | [40779-atlantis-ii.json](./40779-atlantis-ii.json) |
 | Atlantis III: The New World | 11095 | [11095-atlantis-iii-the-new-world.json](./11095-atlantis-iii-the-new-world.json) |
+| Atlantis no Puzzle | 230250 | [230250-atlantis-no-puzzle.json](./230250-atlantis-no-puzzle.json) |
 | Atlantis Odyssey | 320345 | [320345-atlantis-odyssey.json](./320345-atlantis-odyssey.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
 | Atlantis: The Last Resort | 45947 | [45947-atlantis-the-last-resort.json](./45947-atlantis-the-last-resort.json) |
