@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold 'Em Poker | 131511 | [131511-texas-hold-em-poker.json](./131511-texas-hold-em-poker.json) |
 | Texas Hold 'em Tournament | 21293 | [21293-texas-hold-em-tournament.json](./21293-texas-hold-em-tournament.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
+| Texas Hold'Em | 246381 | [246381-texas-holdem.json](./246381-texas-holdem.json) |
 | Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
 | Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
 | Text | 110635 | [110635-text.json](./110635-text.json) |
@@ -5266,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Village: Monster Sect | 358474 | [358474-the-lost-village-monster-sect.json](./358474-the-lost-village-monster-sect.json) |
 | The Lost Village: Monster Sect Part 2 | 358475 | [358475-the-lost-village-monster-sect-part-2.json](./358475-the-lost-village-monster-sect-part-2.json) |
 | The Lost Weld | 197385 | [197385-the-lost-weld.json](./197385-the-lost-weld.json) |
+| The Lost World | 246345 | [246345-the-lost-world.json](./246345-the-lost-world.json) |
 | The Lost World: Jurassic Park | 147441 | [147441-the-lost-world-jurassic-park.json](./147441-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147442 | [147442-the-lost-world-jurassic-park.json](./147442-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147443 | [147443-the-lost-world-jurassic-park.json](./147443-the-lost-world-jurassic-park.json) |
@@ -10721,6 +10723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
 | Toy Goblins | 57035 | [57035-toy-goblins.json](./57035-toy-goblins.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
+| Toy Kingdom | 246369 | [246369-toy-kingdom.json](./246369-toy-kingdom.json) |
 | Toy Robot | 126582 | [126582-toy-robot.json](./126582-toy-robot.json) |
 | Toy Rush | 74321 | [74321-toy-rush.json](./74321-toy-rush.json) |
 | Toy Scrappers | 333549 | [333549-toy-scrappers.json](./333549-toy-scrappers.json) |
@@ -11693,6 +11696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
+| Treasure Hunt | 246370 | [246370-treasure-hunt.json](./246370-treasure-hunt.json) |
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
 | Treasure Hunt Girl | 270114 | [270114-treasure-hunt-girl.json](./270114-treasure-hunt-girl.json) |
 | Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
@@ -12595,6 +12599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurtleSkate | 398572 | [398572-turtleskate.json](./398572-turtleskate.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
+| Tutelary | 246371 | [246371-tutelary.json](./246371-tutelary.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
 | Tux and Fanny | 166675 | [166675-tux-and-fanny.json](./166675-tux-and-fanny.json) |
