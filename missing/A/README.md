@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
 | Active 2048 Body Control | 379473 | [379473-active-2048-body-control.json](./379473-active-2048-body-control.json) |
 | Active DBG: Brave's Rage | 233008 | [233008-active-dbg-braves-rage.json](./233008-active-dbg-braves-rage.json) |
+| Active Defense | 257357 | [257357-active-defense.json](./257357-active-defense.json) |
 | Active Lancer | 401836 | [401836-active-lancer.json](./401836-active-lancer.json) |
 | Active Matter | 322158 | [322158-active-matter.json](./322158-active-matter.json) |
 | Active Soccer 2 | 197234 | [197234-active-soccer-2.json](./197234-active-soccer-2.json) |
@@ -1095,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurezator: When Pigs Fly | 8373 | [8373-adventurezator-when-pigs-fly.json](./8373-adventurezator-when-pigs-fly.json) |
 | Adventuro | 280304 | [280304-adventuro.json](./280304-adventuro.json) |
 | Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
+| Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
@@ -4246,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ice Climber | 68333 | [68333-arcade-archives-ice-climber.json](./68333-arcade-archives-ice-climber.json) |
 | Arcade Archives: Ikki | 99567 | [99567-arcade-archives-ikki.json](./99567-arcade-archives-ikki.json) |
 | Arcade Archives: Kid's Horehore Daisakusen | 99544 | [99544-arcade-archives-kids-horehore-daisakusen.json](./99544-arcade-archives-kids-horehore-daisakusen.json) |
+| Arcade Archives: King & Balloon | 257326 | [257326-arcade-archives-king-and-balloon.json](./257326-arcade-archives-king-and-balloon.json) |
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
 | Arcade Archives: Magical Speed | 237356 | [237356-arcade-archives-magical-speed.json](./237356-arcade-archives-magical-speed.json) |
 | Arcade Archives: MagMax | 99562 | [99562-arcade-archives-magmax.json](./99562-arcade-archives-magmax.json) |
@@ -5423,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa: Red Pack | 168897 | [168897-assetto-corsa-red-pack.json](./168897-assetto-corsa-red-pack.json) |
 | Assetto Corsa: Red Pack | 225910 | [225910-assetto-corsa-red-pack.json](./225910-assetto-corsa-red-pack.json) |
 | Assetto Corsa: Tripl3 Pack | 168898 | [168898-assetto-corsa-tripl3-pack.json](./168898-assetto-corsa-tripl3-pack.json) |
+| Assia: Returning to Dreams | 257314 | [257314-assia-returning-to-dreams.json](./257314-assia-returning-to-dreams.json) |
 | Assimilation | 72125 | [72125-assimilation.json](./72125-assimilation.json) |
 | Assistant to the Lost Detective: Remaster | 298126 | [298126-assistant-to-the-lost-detective-remaster.json](./298126-assistant-to-the-lost-detective-remaster.json) |
 | Associate | 354527 | [354527-associate.json](./354527-associate.json) |
