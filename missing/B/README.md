@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Karnak | 39614 | [39614-big-karnak.json](./39614-big-karnak.json) |
 | Big Klondike: Classic Solitaire | 168335 | [168335-big-klondike-classic-solitaire.json](./168335-big-klondike-classic-solitaire.json) |
 | Big Klondike: FreeCell Solitaire | 289855 | [289855-big-klondike-freecell-solitaire.json](./289855-big-klondike-freecell-solitaire.json) |
+| Big Klondike: Tri Peaks Solitaire | 277350 | [277350-big-klondike-tri-peaks-solitaire.json](./277350-big-klondike-tri-peaks-solitaire.json) |
 | Big League Slugger Baseball | 43878 | [43878-big-league-slugger-baseball.json](./43878-big-league-slugger-baseball.json) |
 | Big League Sports | 20223 | [20223-big-league-sports.json](./20223-big-league-sports.json) |
 | Big Loot | 345048 | [345048-big-loot.json](./345048-big-loot.json) |
