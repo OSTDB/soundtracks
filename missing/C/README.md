@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
 | Cat Slide Tiles | 152774 | [152774-cat-slide-tiles.json](./152774-cat-slide-tiles.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
+| Cat Souls | 244218 | [244218-cat-souls.json](./244218-cat-souls.json) |
 | Cat Spa | 224080 | [224080-cat-spa.json](./224080-cat-spa.json) |
 | Cat Summoner: Block Puzzle | 357979 | [357979-cat-summoner-block-puzzle.json](./357979-cat-summoner-block-puzzle.json) |
 | Cat Survivors | 289374 | [289374-cat-survivors.json](./289374-cat-survivors.json) |
@@ -6679,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis on Nova 2 | 157192 | [157192-crisis-on-nova-2.json](./157192-crisis-on-nova-2.json) |
 | Crisis on the Planet of the Apes VR | 89552 | [89552-crisis-on-the-planet-of-the-apes-vr.json](./89552-crisis-on-the-planet-of-the-apes-vr.json) |
 | Crisis Point: Extinction | 140581 | [140581-crisis-point-extinction.json](./140581-crisis-point-extinction.json) |
+| Crisis Survivor | 244222 | [244222-crisis-survivor.json](./244222-crisis-survivor.json) |
 | Crisis Theory | 144243 | [144243-crisis-theory.json](./144243-crisis-theory.json) |
 | Crisis: The Third Way | 382220 | [382220-crisis-the-third-way.json](./382220-crisis-the-third-way.json) |
 | Crisis/Divider | 305153 | [305153-crisis-divider.json](./305153-crisis-divider.json) |
@@ -7587,6 +7589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Fables: Before the Clock Strikes | 318568 | [318568-cursed-fables-before-the-clock-strikes.json](./318568-cursed-fables-before-the-clock-strikes.json) |
 | Cursed Fables: Before the Clock Strikes - Collector's Edition | 362841 | [362841-cursed-fables-before-the-clock-strikes-collectors-edition.json](./362841-cursed-fables-before-the-clock-strikes-collectors-edition.json) |
 | Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
+| Cursed Halls | 244217 | [244217-cursed-halls.json](./244217-cursed-halls.json) |
 | Cursed Halo Again | 252123 | [252123-cursed-halo-again.json](./252123-cursed-halo-again.json) |
 | Cursed Hours | 319183 | [319183-cursed-hours.json](./319183-cursed-hours.json) |
 | Cursed House | 186326 | [186326-cursed-house.json](./186326-cursed-house.json) |
@@ -7598,6 +7601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Loot | 324114 | [324114-cursed-loot.json](./324114-cursed-loot.json) |
 | Cursed Mummies | 169470 | [169470-cursed-mummies.json](./169470-cursed-mummies.json) |
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
+| Cursed Night | 244194 | [244194-cursed-night.json](./244194-cursed-night.json) |
 | Cursed Omelette | 370114 | [370114-cursed-omelette.json](./370114-cursed-omelette.json) |
 | Cursed Order | 284993 | [284993-cursed-order.json](./284993-cursed-order.json) |
 | Cursed Queen : Wicked Witch | 105371 | [105371-cursed-queen-wicked-witch.json](./105371-cursed-queen-wicked-witch.json) |
