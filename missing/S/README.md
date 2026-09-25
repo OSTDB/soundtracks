@@ -1527,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Eiyuuden: Musha Densetsu | 37351 | [37351-sd-gundam-eiyuuden-musha-densetsu.json](./37351-sd-gundam-eiyuuden-musha-densetsu.json) |
 | SD Gundam G Generation Cross Rays | 114152 | [114152-sd-gundam-g-generation-cross-rays.json](./114152-sd-gundam-g-generation-cross-rays.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 1 | 238486 | [238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json](./238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json) |
+| SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 2 | 238466 | [238466-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-2.json](./238466-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-2.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 3 | 225077 | [225077-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-3.json](./225077-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-3.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 4 | 225078 | [225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json](./225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json) |
 | SD Gundam G Generation Cross Rays: Expansion Pack | 225079 | [225079-sd-gundam-g-generation-cross-rays-expansion-pack.json](./225079-sd-gundam-g-generation-cross-rays-expansion-pack.json) |
@@ -2185,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensual Adventures: Episode 8 | 259002 | [259002-sensual-adventures-episode-8.json](./259002-sensual-adventures-episode-8.json) |
 | Sensual Adventures: Episode 9 | 277842 | [277842-sensual-adventures-episode-9.json](./277842-sensual-adventures-episode-9.json) |
 | Sensual VR | 80941 | [80941-sensual-vr.json](./80941-sensual-vr.json) |
+| Sent to the Office | 238445 | [238445-sent-to-the-office.json](./238445-sent-to-the-office.json) |
 | Sente | 122414 | [122414-sente.json](./122414-sente.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
@@ -2254,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serendipalette | 383655 | [383655-serendipalette.json](./383655-serendipalette.json) |
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
 | Serendipity Morning Mist: Dawn, Tobacco, Your Scent | 387003 | [387003-serendipity-morning-mist-dawn-tobacco-your-scent.json](./387003-serendipity-morning-mist-dawn-tobacco-your-scent.json) |
+| Serendipity Next Door | 238425 | [238425-serendipity-next-door.json](./238425-serendipity-next-door.json) |
 | Serendipity: The Mafias | 254615 | [254615-serendipity-the-mafias.json](./254615-serendipity-the-mafias.json) |
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
 | Serene Estates: Last Guy | 372677 | [372677-serene-estates-last-guy.json](./372677-serene-estates-last-guy.json) |
@@ -8190,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spec Ops II: Operation Bravo | 80887 | [80887-spec-ops-ii-operation-bravo.json](./80887-spec-ops-ii-operation-bravo.json) |
 | Special Agent Training | 401616 | [401616-special-agent-training.json](./401616-special-agent-training.json) |
 | Special Agent: Aigis Pink | 407446 | [407446-special-agent-aigis-pink.json](./407446-special-agent-aigis-pink.json) |
+| Special Courier | 238457 | [238457-special-courier.json](./238457-special-courier.json) |
 | Special Delivery | 30364 | [30364-special-delivery.json](./30364-special-delivery.json) |
 | Special Delivery: Santa's Christmas Chaos | 57621 | [57621-special-delivery-santas-christmas-chaos.json](./57621-special-delivery-santas-christmas-chaos.json) |
 | Special Edition 4 Pack: Volume One | 98951 | [98951-special-edition-4-pack-volume-one.json](./98951-special-edition-4-pack-volume-one.json) |
