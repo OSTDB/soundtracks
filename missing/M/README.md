@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Maikuro: Ore ga Watashi de Boku ga Atashi de | 417607 | [417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json](./417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
+| Mail Mole: 'Xpress Deliveries | 238444 | [238444-mail-mole-xpress-deliveries.json](./238444-mail-mole-xpress-deliveries.json) |
 | Mail Plane | 41981 | [41981-mail-plane.json](./41981-mail-plane.json) |
 | Mail Rabbit | 176417 | [176417-mail-rabbit.json](./176417-mail-rabbit.json) |
 | Mail Tail | 236932 | [236932-mail-tail.json](./236932-mail-tail.json) |
@@ -1096,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana Valley | 211189 | [211189-mana-valley.json](./211189-mana-valley.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
+| Manacle | 238453 | [238453-manacle.json](./238453-manacle.json) |
 | Manafall | 244186 | [244186-manafall.json](./244186-manafall.json) |
 | Manaforge | 129730 | [129730-manaforge.json](./129730-manaforge.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
@@ -2597,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
 | Mech Skeleton | 28163 | [28163-mech-skeleton.json](./28163-mech-skeleton.json) |
 | Mech Striker | 256235 | [256235-mech-striker.json](./256235-mech-striker.json) |
+| Mech Tech | 238441 | [238441-mech-tech.json](./238441-mech-tech.json) |
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mech_Romancer | 134590 | [134590-mech-romancer.json](./134590-mech-romancer.json) |
@@ -3916,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Enhanced Edition | 143292 | [143292-metro-exodus-enhanced-edition.json](./143292-metro-exodus-enhanced-edition.json) |
 | Metro Exodus: Gold Edition | 95059 | [95059-metro-exodus-gold-edition.json](./95059-metro-exodus-gold-edition.json) |
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
+| Metro PD: Close to You | 238426 | [238426-metro-pd-close-to-you.json](./238426-metro-pd-close-to-you.json) |
 | Metro Quester | 277887 | [277887-metro-quester.json](./277887-metro-quester.json) |
 | Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
@@ -4900,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
 | Mini Motorways: Creative Mode | 347897 | [347897-mini-motorways-creative-mode.json](./347897-mini-motorways-creative-mode.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
+| Mini Pocket Racers | 238394 | [238394-mini-pocket-racers.json](./238394-mini-pocket-racers.json) |
 | Mini Puzzle Balls | 147784 | [147784-mini-puzzle-balls.json](./147784-mini-puzzle-balls.json) |
 | mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
@@ -5590,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
 | Modest Kind | 68613 | [68613-modest-kind.json](./68613-modest-kind.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
+| Modo Defence | 238451 | [238451-modo-defence.json](./238451-modo-defence.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
 | Modular | 348442 | [348442-modular.json](./348442-modular.json) |
 | Module | 372651 | [372651-module.json](./372651-module.json) |
@@ -6780,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
 | Moto X | 279698 | [279698-moto-x.json](./279698-moto-x.json) |
+| Moto X Challenge | 238393 | [238393-moto-x-challenge.json](./238393-moto-x-challenge.json) |
 | Moto X Maniac | 66936 | [66936-moto-x-maniac.json](./66936-moto-x-maniac.json) |
 | Moto X3M 2 | 95990 | [95990-moto-x3m-2.json](./95990-moto-x3m-2.json) |
 | Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
@@ -6792,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Maniacs Advance | 23475 | [23475-motocross-maniacs-advance.json](./23475-motocross-maniacs-advance.json) |
 | Motocross Mini Outrun | 255034 | [255034-motocross-mini-outrun.json](./255034-motocross-mini-outrun.json) |
 | Motocross Racer | 23841 | [23841-motocross-racer.json](./23841-motocross-racer.json) |
+| Motocross Racing | 238392 | [238392-motocross-racing.json](./238392-motocross-racing.json) |
 | Motocross The Game | 337185 | [337185-motocross-the-game.json](./337185-motocross-the-game.json) |
 | Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
 | Motocross: The Force | 270211 | [270211-motocross-the-force.json](./270211-motocross-the-force.json) |
@@ -6975,6 +6983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out 2: F.A.R.Tastic Four Pack | 261858 | [261858-moving-out-2-f-a-r-tastic-four-pack.json](./261858-moving-out-2-f-a-r-tastic-four-pack.json) |
 | Moving Out: Deluxe Edition | 224202 | [224202-moving-out-deluxe-edition.json](./224202-moving-out-deluxe-edition.json) |
 | Moving parts | 271221 | [271221-moving-parts.json](./271221-moving-parts.json) |
+| Moving Through Life | 238476 | [238476-moving-through-life.json](./238476-moving-through-life.json) |
 | Moving with the Moon: Mastering Universal Gravitation! | 382891 | [382891-moving-with-the-moon-mastering-universal-gravitation.json](./382891-moving-with-the-moon-mastering-universal-gravitation.json) |
 | Movit | 89651 | [89651-movit.json](./89651-movit.json) |
 | Mow | 200107 | [200107-mow.json](./200107-mow.json) |
@@ -7750,12 +7759,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Femboy Date | 213450 | [213450-my-first-femboy-date.json](./213450-my-first-femboy-date.json) |
 | My First Grade Fantasy Adventure | 266304 | [266304-my-first-grade-fantasy-adventure.json](./266304-my-first-grade-fantasy-adventure.json) |
 | My First Gran Turismo | 324502 | [324502-my-first-gran-turismo.json](./324502-my-first-gran-turismo.json) |
+| My First Horse: Adventures on Seahorse Island | 238478 | [238478-my-first-horse-adventures-on-seahorse-island.json](./238478-my-first-horse-adventures-on-seahorse-island.json) |
 | My First Trainz Set | 11019 | [11019-my-first-trainz-set.json](./11019-my-first-trainz-set.json) |
 | My Fish Farm | 212492 | [212492-my-fish-farm.json](./212492-my-fish-farm.json) |
 | My Fishing Boat | 259635 | [259635-my-fishing-boat.json](./259635-my-fishing-boat.json) |
 | My Fitness Coach | 78661 | [78661-my-fitness-coach.json](./78661-my-fitness-coach.json) |
 | My Flower | 266888 | [266888-my-flower.json](./266888-my-flower.json) |
 | My Football Game | 206770 | [206770-my-football-game.json](./206770-my-football-game.json) |
+| My Forged Wedding: Party | 238422 | [238422-my-forged-wedding-party.json](./238422-my-forged-wedding-party.json) |
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
@@ -7855,6 +7866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
 | My Klutzy Cupid | 248894 | [248894-my-klutzy-cupid.json](./248894-my-klutzy-cupid.json) |
 | My Lady | 33134 | [33134-my-lady.json](./33134-my-lady.json) |
+| My Lady Juliet | 238406 | [238406-my-lady-juliet.json](./238406-my-lady-juliet.json) |
 | My Lady Sayo: Zettai Kunshu! Sayo-sama | 196175 | [196175-my-lady-sayo-zettai-kunshu-sayo-sama.json](./196175-my-lady-sayo-zettai-kunshu-sayo-sama.json) |
 | My Land! | 234739 | [234739-my-land.json](./234739-my-land.json) |
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
@@ -8126,6 +8138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Virtual Tutor: Reading Kindergarten to First Grade | 67665 | [67665-my-virtual-tutor-reading-kindergarten-to-first-grade.json](./67665-my-virtual-tutor-reading-kindergarten-to-first-grade.json) |
 | My Virtual Tutor: Reading Pre-K to Kindergarten | 67664 | [67664-my-virtual-tutor-reading-pre-k-to-kindergarten.json](./67664-my-virtual-tutor-reading-pre-k-to-kindergarten.json) |
 | My Waifu Is A Tank Girl! | 391043 | [391043-my-waifu-is-a-tank-girl.json](./391043-my-waifu-is-a-tank-girl.json) |
+| My Wedding and 7 Rings | 238423 | [238423-my-wedding-and-7-rings.json](./238423-my-wedding-and-7-rings.json) |
 | My Wife | 339913 | [339913-my-wife.json](./339913-my-wife.json) |
 | My Wife is a Princess | 216992 | [216992-my-wife-is-a-princess.json](./216992-my-wife-is-a-princess.json) |
 | My Wife is a Spy?! | 347865 | [347865-my-wife-is-a-spy.json](./347865-my-wife-is-a-spy.json) |
