@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Crystals | 192810 | [192810-magic-crystals.json](./192810-magic-crystals.json) |
 | Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
+| Magic Cubes | 246346 | [246346-magic-cubes.json](./246346-magic-cubes.json) |
 | Magic Dodgeball: Homeless Edition | 361875 | [361875-magic-dodgeball-homeless-edition.json](./361875-magic-dodgeball-homeless-edition.json) |
 | Magic Duck | 287787 | [287787-magic-duck.json](./287787-magic-duck.json) |
 | Magic Encyclopedia: Illusions | 99383 | [99383-magic-encyclopedia-illusions.json](./99383-magic-encyclopedia-illusions.json) |
@@ -462,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Island Escape 8 | 315527 | [315527-magic-island-escape-8.json](./315527-magic-island-escape-8.json) |
 | Magic Island Escape 9 | 315529 | [315529-magic-island-escape-9.json](./315529-magic-island-escape-9.json) |
 | Magic Island: The Secret of Stones | 73261 | [73261-magic-island-the-secret-of-stones.json](./73261-magic-island-the-secret-of-stones.json) |
+| Magic Jelly | 246347 | [246347-magic-jelly.json](./246347-magic-jelly.json) |
 | Magic Jewel | 359394 | [359394-magic-jewel.json](./359394-magic-jewel.json) |
 | Magic Jewelry 2 | 48281 | [48281-magic-jewelry-2.json](./48281-magic-jewelry-2.json) |
 | Magic John | 215143 | [215143-magic-john.json](./215143-magic-john.json) |
@@ -2137,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match It | 402993 | [402993-match-it.json](./402993-match-it.json) |
 | Match It Fast | 104091 | [104091-match-it-fast.json](./104091-match-it-fast.json) |
 | Match It Sexy | 260383 | [260383-match-it-sexy.json](./260383-match-it-sexy.json) |
+| Match it Up | 246350 | [246350-match-it-up.json](./246350-match-it-up.json) |
 | Match It! | 173186 | [173186-match-it.json](./173186-match-it.json) |
 | Match Kill Survive | 309679 | [309679-match-kill-survive.json](./309679-match-kill-survive.json) |
 | Match Manor | 269094 | [269094-match-manor.json](./269094-match-manor.json) |
@@ -5219,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Texture | 396242 | [396242-missing-texture.json](./396242-missing-texture.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Missing: Since January | 68204 | [68204-missing-since-january.json](./68204-missing-since-january.json) |
+| Mission | 246351 | [246351-mission.json](./246351-mission.json) |
 | Mission 1545 | 76561 | [76561-mission-1545.json](./76561-mission-1545.json) |
 | Mission 3000 | 71781 | [71781-mission-3000.json](./71781-mission-3000.json) |
 | Mission Against Terror 2 | 213474 | [213474-mission-against-terror-2.json](./213474-mission-against-terror-2.json) |
@@ -6789,6 +6793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
 | Motor Money Crash! | 185552 | [185552-motor-money-crash.json](./185552-motor-money-crash.json) |
 | Motor Rally | 246387 | [246387-motor-rally.json](./246387-motor-rally.json) |
+| Motor Rally 2 | 246352 | [246352-motor-rally-2.json](./246352-motor-rally-2.json) |
 | Motor Storm | 247039 | [247039-motor-storm.json](./247039-motor-storm.json) |
 | Motor Toon Grand Prix | 43887 | [43887-motor-toon-grand-prix.json](./43887-motor-toon-grand-prix.json) |
 | Motor Wars | 137592 | [137592-motor-wars.json](./137592-motor-wars.json) |
@@ -7053,6 +7058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Nutz | 249142 | [249142-mr-nutz.json](./249142-mr-nutz.json) |
 | Mr. Nutz | 249143 | [249143-mr-nutz.json](./249143-mr-nutz.json) |
 | Mr. Nutz: Hoppin' Mad | 39030 | [39030-mr-nutz-hoppin-mad.json](./39030-mr-nutz-hoppin-mad.json) |
+| Mr. Onion | 246354 | [246354-mr-onion.json](./246354-mr-onion.json) |
 | Mr. Parkour | 141034 | [141034-mr-parkour.json](./141034-mr-parkour.json) |
 | Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
 | Mr. Photographer: Into The Light | 350044 | [350044-mr-photographer-into-the-light.json](./350044-mr-photographer-into-the-light.json) |
@@ -8315,6 +8321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
 | Mystic Strife | 278414 | [278414-mystic-strife.json](./278414-mystic-strife.json) |
 | Mystic Tavern | 390667 | [390667-mystic-tavern.json](./390667-mystic-tavern.json) |
+| Mystic Totem | 246355 | [246355-mystic-totem.json](./246355-mystic-totem.json) |
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
 | Mystic Vale: Mana Storm | 170956 | [170956-mystic-vale-mana-storm.json](./170956-mystic-vale-mana-storm.json) |
 | Mystic Vale: Vale of Magic | 170955 | [170955-mystic-vale-vale-of-magic.json](./170955-mystic-vale-vale-of-magic.json) |
