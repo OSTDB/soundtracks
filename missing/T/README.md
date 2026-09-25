@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Keyring Arcade | 234080 | [234080-tetris-keyring-arcade.json](./234080-tetris-keyring-arcade.json) |
 | Tetris Kiwamemichi | 137623 | [137623-tetris-kiwamemichi.json](./137623-tetris-kiwamemichi.json) |
 | Tetris Kuromi Sanrio Key Chain Game Console | 321551 | [321551-tetris-kuromi-sanrio-key-chain-game-console.json](./321551-tetris-kuromi-sanrio-key-chain-game-console.json) |
+| Tetris Mario Bros. | 250321 | [250321-tetris-mario-bros.json](./250321-tetris-mario-bros.json) |
 | Tetris MicroCard | 234081 | [234081-tetris-microcard.json](./234081-tetris-microcard.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
 | Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
@@ -2066,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | th!nk Logic Trainer: Kids | 81392 | [81392-th-nk-logic-trainer-kids.json](./81392-th-nk-logic-trainer-kids.json) |
 | Thailand Bus Simulator | 384617 | [384617-thailand-bus-simulator.json](./384617-thailand-bus-simulator.json) |
 | Thalamus: The Hits 2 | 137468 | [137468-thalamus-the-hits-2.json](./137468-thalamus-the-hits-2.json) |
+| Thalassa: Edge of the Abyss | 250287 | [250287-thalassa-edge-of-the-abyss.json](./250287-thalassa-edge-of-the-abyss.json) |
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
 | Thalassic Dice | 347776 | [347776-thalassic-dice.json](./347776-thalassic-dice.json) |
 | Thalassomania | 338295 | [338295-thalassomania.json](./338295-thalassomania.json) |
@@ -4958,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: A New Light | 233602 | [233602-the-legend-of-zelda-a-new-light.json](./233602-the-legend-of-zelda-a-new-light.json) |
 | The Legend of Zelda: Allhallows Eve | 308390 | [308390-the-legend-of-zelda-allhallows-eve.json](./308390-the-legend-of-zelda-allhallows-eve.json) |
 | The Legend of Zelda: Breath of the Wild - Collector's Edition | 136841 | [136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json](./136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json) |
+| The Legend of Zelda: Breath of the Wild - Hyrule Rebalance | 250327 | [250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json](./250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json) |
 | The Legend of Zelda: Breath of the Wild - Islands Expansion | 250324 | [250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json](./250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json) |
 | The Legend of Zelda: Breath of the Wild - Limited Edition | 50598 | [50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json](./50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition | 338072 | [338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json](./338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json) |
@@ -4994,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Parallel Worlds Remodel | 198543 | [198543-the-legend-of-zelda-parallel-worlds-remodel.json](./198543-the-legend-of-zelda-parallel-worlds-remodel.json) |
 | The Legend of Zelda: Perils of Darkness | 213041 | [213041-the-legend-of-zelda-perils-of-darkness.json](./213041-the-legend-of-zelda-perils-of-darkness.json) |
 | The Legend of Zelda: Picross | 172690 | [172690-the-legend-of-zelda-picross.json](./172690-the-legend-of-zelda-picross.json) |
+| The Legend of Zelda: Relics of the Past | 250319 | [250319-the-legend-of-zelda-relics-of-the-past.json](./250319-the-legend-of-zelda-relics-of-the-past.json) |
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
 | The Legend of Zelda: Specter's Oculus | 323365 | [323365-the-legend-of-zelda-specters-oculus.json](./323365-the-legend-of-zelda-specters-oculus.json) |
@@ -11667,6 +11671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
 | Treasure Hunt Girl | 270114 | [270114-treasure-hunt-girl.json](./270114-treasure-hunt-girl.json) |
 | Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
+| Treasure Hunter | 250307 | [250307-treasure-hunter.json](./250307-treasure-hunter.json) |
 | Treasure Hunter | 309493 | [309493-treasure-hunter.json](./309493-treasure-hunter.json) |
 | Treasure Hunter | 327577 | [327577-treasure-hunter.json](./327577-treasure-hunter.json) |
 | Treasure Hunter | 76627 | [76627-treasure-hunter.json](./76627-treasure-hunter.json) |
