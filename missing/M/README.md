@@ -4857,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Resort DS | 26588 | [26588-mini-golf-resort-ds.json](./26588-mini-golf-resort-ds.json) |
 | Mini Golf Simulator | 407552 | [407552-mini-golf-simulator.json](./407552-mini-golf-simulator.json) |
 | Mini Golf Star Retro Golf Game | 104695 | [104695-mini-golf-star-retro-golf-game.json](./104695-mini-golf-star-retro-golf-game.json) |
+| Mini Golf Worlds | 245799 | [245799-mini-golf-worlds.json](./245799-mini-golf-worlds.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
 | Mini Hockey VR | 55478 | [55478-mini-hockey-vr.json](./55478-mini-hockey-vr.json) |
@@ -5020,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minoes | 133250 | [133250-minoes.json](./133250-minoes.json) |
 | Minor Deity | 371478 | [371478-minor-deity.json](./371478-minor-deity.json) |
 | Minor Miner: Mining Action | 232035 | [232035-minor-miner-mining-action.json](./232035-minor-miner-mining-action.json) |
+| Minor Scale | 245827 | [245827-minor-scale.json](./245827-minor-scale.json) |
 | Minoria | 110121 | [110121-minoria.json](./110121-minoria.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
@@ -6084,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Mine Clash | 390245 | [390245-monster-mine-clash.json](./390245-monster-mine-clash.json) |
 | Monster Mingle | 23222 | [23222-monster-mingle.json](./23222-monster-mingle.json) |
 | Monster Minis Extreme Off-Road | 108292 | [108292-monster-minis-extreme-off-road.json](./108292-monster-minis-extreme-off-road.json) |
+| Monster Museum | 245826 | [245826-monster-museum.json](./245826-monster-museum.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
 | Monster Nursery | 411821 | [411821-monster-nursery.json](./411821-monster-nursery.json) |
