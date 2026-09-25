@@ -4874,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogie Wings | 39873 | [39873-boogie-wings.json](./39873-boogie-wings.json) |
 | Boogie Woogi Jungle | 202347 | [202347-boogie-woogi-jungle.json](./202347-boogie-woogi-jungle.json) |
 | Boogy | 193890 | [193890-boogy.json](./193890-boogy.json) |
+| BoohaBlox: Arcade | 276770 | [276770-boohablox-arcade.json](./276770-boohablox-arcade.json) |
 | Book 5 Untold | 254549 | [254549-book-5-untold.json](./254549-book-5-untold.json) |
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
 | Book Inside | 392921 | [392921-book-inside.json](./392921-book-inside.json) |
@@ -5296,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Fury | 142909 | [142909-bowsers-fury.json](./142909-bowsers-fury.json) |
 | Bowser's Jumping Challenge | 215200 | [215200-bowsers-jumping-challenge.json](./215200-bowsers-jumping-challenge.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
+| Bowser's Revenge 3 | 276782 | [276782-bowsers-revenge-3.json](./276782-bowsers-revenge-3.json) |
 | Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
 | Bowslinger | 33088 | [33088-bowslinger.json](./33088-bowslinger.json) |
 | Box | 130782 | [130782-box.json](./130782-box.json) |
@@ -6045,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brownie's Adventure 2 | 294151 | [294151-brownies-adventure-2.json](./294151-brownies-adventure-2.json) |
 | Brownie's Haunted Christmas | 280339 | [280339-brownies-haunted-christmas.json](./280339-brownies-haunted-christmas.json) |
 | Browning | 41980 | [41980-browning.json](./41980-browning.json) |
+| Brox | 276808 | [276808-brox.json](./276808-brox.json) |
 | Brrrainz | 58474 | [58474-brrrainz.json](./58474-brrrainz.json) |
 | BRT: Billiards of the Round Table | 392952 | [392952-brt-billiards-of-the-round-table.json](./392952-brt-billiards-of-the-round-table.json) |
 | Bruce and Box | 300777 | [300777-bruce-and-box.json](./300777-bruce-and-box.json) |
@@ -6327,6 +6330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
 | Buggy Off-Road: Power Edition | 395675 | [395675-buggy-off-road-power-edition.json](./395675-buggy-off-road-power-edition.json) |
 | Buggy Race: Racing Master | 288308 | [288308-buggy-race-racing-master.json](./288308-buggy-race-racing-master.json) |
+| Buggy Racers | 276801 | [276801-buggy-racers.json](./276801-buggy-racers.json) |
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
