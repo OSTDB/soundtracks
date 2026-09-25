@@ -5498,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Operation | 44580 | [44580-mobile-suit-gundam-battle-operation.json](./44580-mobile-suit-gundam-battle-operation.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy | 178045 | [178045-mobile-suit-gundam-battle-operation-code-fairy.json](./178045-mobile-suit-gundam-battle-operation-code-fairy.json) |
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
+| Mobile Suit Gundam: Desert Operation | 242522 | [242522-mobile-suit-gundam-desert-operation.json](./242522-mobile-suit-gundam-desert-operation.json) |
 | Mobile Suit Gundam: Extreme Versus 2 - Infinite Boost | 355089 | [355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json](./355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json) |
 | Mobile Suit Gundam: Extreme Vs. 2 | 86532 | [86532-mobile-suit-gundam-extreme-vs-2.json](./86532-mobile-suit-gundam-extreme-vs-2.json) |
 | Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
