@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Six: Behind Enemy Lines | 129131 | [129131-zero-six-behind-enemy-lines.json](./129131-zero-six-behind-enemy-lines.json) |
 | Zero Spring Episode 1 | 112125 | [112125-zero-spring-episode-1.json](./112125-zero-spring-episode-1.json) |
 | Zero spring episode 2 | 112370 | [112370-zero-spring-episode-2.json](./112370-zero-spring-episode-2.json) |
+| Zero Target | 272797 | [272797-zero-target.json](./272797-zero-target.json) |
 | Zero Team USA | 40207 | [40207-zero-team-usa.json](./40207-zero-team-usa.json) |
 | Zero the Kamikaze Squirrel | 38405 | [38405-zero-the-kamikaze-squirrel.json](./38405-zero-the-kamikaze-squirrel.json) |
 | Zero to Army | 391893 | [391893-zero-to-army.json](./391893-zero-to-army.json) |
@@ -870,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zornhau | 408281 | [408281-zornhau.json](./408281-zornhau.json) |
 | Zorpon | 208413 | [208413-zorpon.json](./208413-zorpon.json) |
 | Zorro | 81431 | [81431-zorro.json](./81431-zorro.json) |
+| Zorro and Zedd | 272891 | [272891-zorro-and-zedd.json](./272891-zorro-and-zedd.json) |
 | Zorro: Quest for Justice | 60504 | [60504-zorro-quest-for-justice.json](./60504-zorro-quest-for-justice.json) |
 | ZorroMoro | 119796 | [119796-zorromoro.json](./119796-zorromoro.json) |
 | Zorropa y La Torre de las Sombras | 265693 | [265693-zorropa-y-la-torre-de-las-sombras.json](./265693-zorropa-y-la-torre-de-las-sombras.json) |
