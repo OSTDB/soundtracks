@@ -4327,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
 | Frantic Freddie | 55018 | [55018-frantic-freddie.json](./55018-frantic-freddie.json) |
+| Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
@@ -5060,6 +5061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun 'N Games | 4241 | [4241-fun-n-games.json](./4241-fun-n-games.json) |
 | Fun Chess: Complete Edition | 277912 | [277912-fun-chess-complete-edition.json](./277912-fun-chess-complete-edition.json) |
 | Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
+| Fun Chess: Extended Edition | 263551 | [263551-fun-chess-extended-edition.json](./263551-fun-chess-extended-edition.json) |
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
 | Fun Chess: Premium Edition | 270792 | [270792-fun-chess-premium-edition.json](./270792-fun-chess-premium-edition.json) |
 | Fun Chess: Special Edition | 268559 | [268559-fun-chess-special-edition.json](./268559-fun-chess-special-edition.json) |
