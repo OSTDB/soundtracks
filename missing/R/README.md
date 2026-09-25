@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: The Mercenaries - Separate Ways Update | 266859 | [266859-resident-evil-4-the-mercenaries-separate-ways-update.json](./266859-resident-evil-4-the-mercenaries-separate-ways-update.json) |
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
+| Resident Evil 4: Zeebo Edition | 227780 | [227780-resident-evil-4-zeebo-edition.json](./227780-resident-evil-4-zeebo-edition.json) |
 | Resident Evil 5: Collector's Edition | 41593 | [41593-resident-evil-5-collectors-edition.json](./41593-resident-evil-5-collectors-edition.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
@@ -2657,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolgear II Ver.D Revision+Ex | 268028 | [268028-revolgear-ii-ver-d-revision-ex.json](./268028-revolgear-ii-ver-d-revision-ex.json) |
 | Revolocity | 295322 | [295322-revolocity.json](./295322-revolocity.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
+| Revolter | 227761 | [227761-revolter.json](./227761-revolter.json) |
 | Revolty-II | 237517 | [237517-revolty-ii.json](./237517-revolty-ii.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
 | Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
