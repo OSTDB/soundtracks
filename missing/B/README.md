@@ -4699,6 +4699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombarium | 179129 | [179129-bombarium.json](./179129-bombarium.json) |
 | Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
+| Bombcapsule | 280287 | [280287-bombcapsule.json](./280287-bombcapsule.json) |
 | BombDodger - | 99973 | [99973-bombdodger.json](./99973-bombdodger.json) |
 | Bombe | 230363 | [230363-bombe.json](./230363-bombe.json) |
 | Bombeiro Mascarado | 183966 | [183966-bombeiro-mascarado.json](./183966-bombeiro-mascarado.json) |
@@ -5949,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
 | Broke in Isekai | 310925 | [310925-broke-in-isekai.json](./310925-broke-in-isekai.json) |
+| Broke Signal Badlands: A World of Desert Adventure | 280292 | [280292-broke-signal-badlands-a-world-of-desert-adventure.json](./280292-broke-signal-badlands-a-world-of-desert-adventure.json) |
 | Broken Armor | 31900 | [31900-broken-armor.json](./31900-broken-armor.json) |
 | Broken Banners | 192839 | [192839-broken-banners.json](./192839-broken-banners.json) |
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
