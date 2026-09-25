@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz: Catz 5 | 23770 | [23770-petz-catz-5.json](./23770-petz-catz-5.json) |
 | Petz: Hamster Superstarz | 47972 | [47972-petz-hamster-superstarz.json](./47972-petz-hamster-superstarz.json) |
 | Pew Pew Gaem 3 | 326260 | [326260-pew-pew-gaem-3.json](./326260-pew-pew-gaem-3.json) |
+| Pew Pew Squad | 273440 | [273440-pew-pew-squad.json](./273440-pew-pew-squad.json) |
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
 | PewDiePie: Legend of the Brofist | 15182 | [15182-pewdiepie-legend-of-the-brofist.json](./15182-pewdiepie-legend-of-the-brofist.json) |
 | PewDiePie's Paradise Island | 200637 | [200637-pewdiepies-paradise-island.json](./200637-pewdiepies-paradise-island.json) |
@@ -3062,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Horizons | 341572 | [341572-pixel-horizons.json](./341572-pixel-horizons.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
 | Pixel Hunt | 304621 | [304621-pixel-hunt.json](./304621-pixel-hunt.json) |
+| Pixel Kane | 273439 | [273439-pixel-kane.json](./273439-pixel-kane.json) |
 | Pixel Knights Online | 227375 | [227375-pixel-knights-online.json](./227375-pixel-knights-online.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
@@ -3301,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Run | 200582 | [200582-pizza-run.json](./200582-pizza-run.json) |
 | Pizza Rush Race: Fighting Boss | 320925 | [320925-pizza-rush-race-fighting-boss.json](./320925-pizza-rush-race-fighting-boss.json) |
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
+| Pizza Spy | 273438 | [273438-pizza-spy.json](./273438-pizza-spy.json) |
 | Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
@@ -3843,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pool: Adventure | 248724 | [248724-pocket-pool-adventure.json](./248724-pocket-pool-adventure.json) |
 | Pocket Pool: Complete Edition | 248723 | [248723-pocket-pool-complete-edition.json](./248723-pocket-pool-complete-edition.json) |
 | Pocket Puyo Puyo Tsuu | 87198 | [87198-pocket-puyo-puyo-tsuu.json](./87198-pocket-puyo-puyo-tsuu.json) |
+| Pocket Race: Driver | 273441 | [273441-pocket-race-driver.json](./273441-pocket-race-driver.json) |
 | Pocket Racer | 129150 | [129150-pocket-racer.json](./129150-pocket-racer.json) |
 | Pocket Races | 153834 | [153834-pocket-races.json](./153834-pocket-races.json) |
 | Pocket Room Sanrio Characters | 334865 | [334865-pocket-room-sanrio-characters.json](./334865-pocket-room-sanrio-characters.json) |
@@ -4593,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
+| Poor Mouse | 273437 | [273437-poor-mouse.json](./273437-poor-mouse.json) |
 | Poor Piggy Pirate | 368146 | [368146-poor-piggy-pirate.json](./368146-poor-piggy-pirate.json) |
 | Poorer Art | 377160 | [377160-poorer-art.json](./377160-poorer-art.json) |
 | Poosh XL | 236361 | [236361-poosh-xl.json](./236361-poosh-xl.json) |
@@ -6250,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
 | Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
 | PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
+| Psychofinger | 273436 | [273436-psychofinger.json](./273436-psychofinger.json) |
 | Psychofunk | 161776 | [161776-psychofunk.json](./161776-psychofunk.json) |
 | Psycholog | 264707 | [264707-psycholog.json](./264707-psycholog.json) |
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
