@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraformers: Supporter Edition | 271471 | [271471-terraformers-supporter-edition.json](./271471-terraformers-supporter-edition.json) |
 | Terraforming Mars | 86558 | [86558-terraforming-mars.json](./86558-terraforming-mars.json) |
 | Terraforming Mars: Colonies | 402404 | [402404-terraforming-mars-colonies.json](./402404-terraforming-mars-colonies.json) |
+| Terraforming Mars: Venus Next | 273965 | [273965-terraforming-mars-venus-next.json](./273965-terraforming-mars-venus-next.json) |
 | Terrafort | 285966 | [285966-terrafort.json](./285966-terrafort.json) |
 | TerraGenesis - Space Colony | 102762 | [102762-terragenesis-space-colony.json](./102762-terragenesis-space-colony.json) |
 | TerraGenesis - Space Settlers | 102730 | [102730-terragenesis-space-settlers.json](./102730-terragenesis-space-settlers.json) |
@@ -2296,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angel's Devil Tail: One More Question 2 | 379016 | [379016-the-angels-devil-tail-one-more-question-2.json](./379016-the-angels-devil-tail-one-more-question-2.json) |
 | The Angel's Tears | 383663 | [383663-the-angels-tears.json](./383663-the-angels-tears.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
+| The Angry Beavers: Match-Master | 273882 | [273882-the-angry-beavers-match-master.json](./273882-the-angry-beavers-match-master.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Angry Viking | 59068 | [59068-the-angry-viking.json](./59068-the-angry-viking.json) |
 | The Animal Detectives | 206190 | [206190-the-animal-detectives.json](./206190-the-animal-detectives.json) |
@@ -4395,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
 | The Journey Home | 178529 | [178529-the-journey-home.json](./178529-the-journey-home.json) |
 | The Journey into the Virtual Void | 312167 | [312167-the-journey-into-the-virtual-void.json](./312167-the-journey-into-the-virtual-void.json) |
+| The Journey of Allen Strange: Match-Master | 273879 | [273879-the-journey-of-allen-strange-match-master.json](./273879-the-journey-of-allen-strange-match-master.json) |
 | The Journey of AutUmn | 164996 | [164996-the-journey-of-autumn.json](./164996-the-journey-of-autumn.json) |
 | The Journey of Elisa | 280916 | [280916-the-journey-of-elisa.json](./280916-the-journey-of-elisa.json) |
 | The Journey of Ieser | 63537 | [63537-the-journey-of-ieser.json](./63537-the-journey-of-ieser.json) |
@@ -6002,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
 | The Restless Sheep & The Lone Wolf: A Tale of Cutthroat Lovers | 307070 | [307070-the-restless-sheep-and-the-lone-wolf-a-tale-of-cutthroat-lovers.json](./307070-the-restless-sheep-and-the-lone-wolf-a-tale-of-cutthroat-lovers.json) |
+| The Restricted Archive | 273870 | [273870-the-restricted-archive.json](./273870-the-restricted-archive.json) |
 | The Restricted Index | 398539 | [398539-the-restricted-index.json](./398539-the-restricted-index.json) |
 | The Resurrected | 366314 | [366314-the-resurrected.json](./366314-the-resurrected.json) |
 | The Return of Bantara | 334748 | [334748-the-return-of-bantara.json](./334748-the-return-of-bantara.json) |
@@ -9829,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
 | Toothy History | 160221 | [160221-toothy-history.json](./160221-toothy-history.json) |
+| Tootsie Pop | 273896 | [273896-tootsie-pop.json](./273896-tootsie-pop.json) |
 | Tootuff | 125952 | [125952-tootuff.json](./125952-tootuff.json) |
 | Tootuff: Mission Nadia | 48037 | [48037-tootuff-mission-nadia.json](./48037-tootuff-mission-nadia.json) |
 | Top Banana | 69564 | [69564-top-banana.json](./69564-top-banana.json) |
@@ -11289,6 +11294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Battle Tactics | 60584 | [60584-transformers-battle-tactics.json](./60584-transformers-battle-tactics.json) |
 | Transformers: Battlegrounds | 137948 | [137948-transformers-battlegrounds.json](./137948-transformers-battlegrounds.json) |
 | Transformers: Battlegrounds - Complete Edition | 188638 | [188638-transformers-battlegrounds-complete-edition.json](./188638-transformers-battlegrounds-complete-edition.json) |
+| Transformers: Beast Wars Transmetals | 273897 | [273897-transformers-beast-wars-transmetals.json](./273897-transformers-beast-wars-transmetals.json) |
 | Transformers: Cybertron Adventures | 5242 | [5242-transformers-cybertron-adventures.json](./5242-transformers-cybertron-adventures.json) |
 | Transformers: Dark of the Moon | 5243 | [5243-transformers-dark-of-the-moon.json](./5243-transformers-dark-of-the-moon.json) |
 | Transformers: Dark of the Moon - Autobots | 141825 | [141825-transformers-dark-of-the-moon-autobots.json](./141825-transformers-dark-of-the-moon-autobots.json) |
@@ -12250,6 +12256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
 | Tunnel Town | 106380 | [106380-tunnel-town.json](./106380-tunnel-town.json) |
 | Tunnel View | 180699 | [180699-tunnel-view.json](./180699-tunnel-view.json) |
+| Tunnel Vision | 273873 | [273873-tunnel-vision.json](./273873-tunnel-vision.json) |
 | Tunnels of Armageddon | 71808 | [71808-tunnels-of-armageddon.json](./71808-tunnels-of-armageddon.json) |
 | Tunnels of Fahad | 74765 | [74765-tunnels-of-fahad.json](./74765-tunnels-of-fahad.json) |
 | Tunnels of Terror! | 260986 | [260986-tunnels-of-terror.json](./260986-tunnels-of-terror.json) |
