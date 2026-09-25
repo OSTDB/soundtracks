@@ -9152,6 +9152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid and Let Die | 57342 | [57342-squid-and-let-die.json](./57342-squid-and-let-die.json) |
 | Squid Game: The Game | 184603 | [184603-squid-game-the-game.json](./184603-squid-game-the-game.json) |
 | Squid Game: Unleashed | 314273 | [314273-squid-game-unleashed.json](./314273-squid-game-unleashed.json) |
+| Squid Grid | 247992 | [247992-squid-grid.json](./247992-squid-grid.json) |
 | Squid Gurl and the Salty Sea Man | 97345 | [97345-squid-gurl-and-the-salty-sea-man.json](./97345-squid-gurl-and-the-salty-sea-man.json) |
 | Squid Guys | 286503 | [286503-squid-guys.json](./286503-squid-guys.json) |
 | Squid on Road | 236944 | [236944-squid-on-road.json](./236944-squid-on-road.json) |
@@ -14240,6 +14241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetik: Arena | 112983 | [112983-synthetik-arena.json](./112983-synthetik-arena.json) |
 | Synthetik: Legion Rising | 86395 | [86395-synthetik-legion-rising.json](./86395-synthetik-legion-rising.json) |
 | Synthetik: Ultimate | 147972 | [147972-synthetik-ultimate.json](./147972-synthetik-ultimate.json) |
+| SynthFight | 247999 | [247999-synthfight.json](./247999-synthfight.json) |
 | Synthopolis | 348798 | [348798-synthopolis.json](./348798-synthopolis.json) |
 | Synthrome | 316614 | [316614-synthrome.json](./316614-synthrome.json) |
 | Synthroute 82 | 304649 | [304649-synthroute-82.json](./304649-synthroute-82.json) |
