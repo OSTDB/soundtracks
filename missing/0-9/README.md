@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
 | 80 Days & Overboard! | 212873 | [212873-80-days-and-overboard.json](./212873-80-days-and-overboard.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
+| 80's Mania Pinball | 231321 | [231321-80s-mania-pinball.json](./231321-80s-mania-pinball.json) |
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
 | 814 | 262347 | [262347-814.json](./262347-814.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
