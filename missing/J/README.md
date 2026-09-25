@@ -192,6 +192,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Scrapz Collection: Valentide! II | 289920 | [289920-jam-scrapz-collection-valentide-ii.json](./289920-jam-scrapz-collection-valentide-ii.json) |
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
 | Jam Space: PocketStudio | 85199 | [85199-jam-space-pocketstudio.json](./85199-jam-space-pocketstudio.json) |
+| Jamal Jones: Hell's Executioner | 263001 | [263001-jamal-jones-hells-executioner.json](./263001-jamal-jones-hells-executioner.json) |
+| Jamal Jones: In Judgment of Evil | 262999 | [262999-jamal-jones-in-judgment-of-evil.json](./262999-jamal-jones-in-judgment-of-evil.json) |
+| Jamal Jones: One Man Jury! | 263000 | [263000-jamal-jones-one-man-jury.json](./263000-jamal-jones-one-man-jury.json) |
 | Jambredrek: Two Guns | 386992 | [386992-jambredrek-two-guns.json](./386992-jambredrek-two-guns.json) |
 | Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
 | Jamdat Word Craft | 71486 | [71486-jamdat-word-craft.json](./71486-jamdat-word-craft.json) |
@@ -1064,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | JR's: Enter the Flipside | 231499 | [231499-jrs-enter-the-flipside.json](./231499-jrs-enter-the-flipside.json) |
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
+| Jrago The Demon Hunter | 262914 | [262914-jrago-the-demon-hunter.json](./262914-jrago-the-demon-hunter.json) |
 | JRoguePG | 346657 | [346657-jroguepg.json](./346657-jroguepg.json) |
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
 | Ju-on: The Grudge | 4945 | [4945-ju-on-the-grudge.json](./4945-ju-on-the-grudge.json) |
