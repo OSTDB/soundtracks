@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Shell Straight to Hell | 141646 | [141646-one-shell-straight-to-hell.json](./141646-one-shell-straight-to-hell.json) |
 | One Shell Straight to Hell: X Layers of Fear | 170374 | [170374-one-shell-straight-to-hell-x-layers-of-fear.json](./170374-one-shell-straight-to-hell-x-layers-of-fear.json) |
 | One Shot | 179111 | [179111-one-shot.json](./179111-one-shot.json) |
+| One Shot at Love | 279672 | [279672-one-shot-at-love.json](./279672-one-shot-at-love.json) |
 | One Shot Challenge | 234742 | [234742-one-shot-challenge.json](./234742-one-shot-challenge.json) |
 | One Shot Challenge | 390665 | [390665-one-shot-challenge.json](./390665-one-shot-challenge.json) |
 | One Shot Gladiator | 292012 | [292012-one-shot-gladiator.json](./292012-one-shot-gladiator.json) |
