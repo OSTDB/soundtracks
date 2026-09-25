@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idiots' Fantasy | 276247 | [276247-idiots-fantasy.json](./276247-idiots-fantasy.json) |
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
 | Idle Adventure | 75814 | [75814-idle-adventure.json](./75814-idle-adventure.json) |
+| Idle Angels: Realm of Goddess | 260112 | [260112-idle-angels-realm-of-goddess.json](./260112-idle-angels-realm-of-goddess.json) |
 | Idle Animal Anatomy | 290515 | [290515-idle-animal-anatomy.json](./290515-idle-animal-anatomy.json) |
 | Idle Anomaly: Alien Control | 244998 | [244998-idle-anomaly-alien-control.json](./244998-idle-anomaly-alien-control.json) |
 | Idle Aqua Driller | 407342 | [407342-idle-aqua-driller.json](./407342-idle-aqua-driller.json) |
@@ -1375,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infantry Attack: Drone Squad | 303578 | [303578-infantry-attack-drone-squad.json](./303578-infantry-attack-drone-squad.json) |
 | Infantry Attack: Golden Backup Edition | 371435 | [371435-infantry-attack-golden-backup-edition.json](./371435-infantry-attack-golden-backup-edition.json) |
 | Infantry Attack: Strike from Above | 303579 | [303579-infantry-attack-strike-from-above.json](./303579-infantry-attack-strike-from-above.json) |
+| Infasia | 260190 | [260190-infasia.json](./260190-infasia.json) |
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
 | Infected | 44524 | [44524-infected.json](./44524-infected.json) |
