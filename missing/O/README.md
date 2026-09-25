@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OBJ VR | 309376 | [309376-obj-vr.json](./309376-obj-vr.json) |
 | Object "Cleaning" | 83568 | [83568-object-cleaning.json](./83568-object-cleaning.json) |
 | Object Factory | 371425 | [371425-object-factory.json](./371425-object-factory.json) |
+| Objector | 232959 | [232959-objector.json](./232959-objector.json) |
 | Objects in Space | 19088 | [19088-objects-in-space.json](./19088-objects-in-space.json) |
 | Oblako | 394373 | [394373-oblako.json](./394373-oblako.json) |
 | Oblation | 253886 | [253886-oblation.json](./253886-oblation.json) |
