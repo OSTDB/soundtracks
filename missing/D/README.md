@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
 | Dear My Friend: Love Like Powdery Snow | 380665 | [380665-dear-my-friend-love-like-powdery-snow.json](./380665-dear-my-friend-love-like-powdery-snow.json) |
 | Dear My God | 205611 | [205611-dear-my-god.json](./205611-dear-my-god.json) |
+| Dear Otome | 228354 | [228354-dear-otome.json](./228354-dear-otome.json) |
 | Dear Pretentiousness | 259668 | [259668-dear-pretentiousness.json](./259668-dear-pretentiousness.json) |
 | Dear Reader | 124034 | [124034-dear-reader.json](./124034-dear-reader.json) |
 | Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
