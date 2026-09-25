@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are the Weapon | 230309 | [230309-you-are-the-weapon.json](./230309-you-are-the-weapon.json) |
 | You Are the Wormhole | 128621 | [128621-you-are-the-wormhole.json](./128621-you-are-the-wormhole.json) |
 | You Brought a Shield to a Tentacle Fight | 181791 | [181791-you-brought-a-shield-to-a-tentacle-fight.json](./181791-you-brought-a-shield-to-a-tentacle-fight.json) |
+| You can not be there | 229013 | [229013-you-can-not-be-there.json](./229013-you-can-not-be-there.json) |
 | You Can Only Turn Left | 298849 | [298849-you-can-only-turn-left.json](./298849-you-can-only-turn-left.json) |
 | You Can Pet the Dog VR | 158704 | [158704-you-can-pet-the-dog-vr.json](./158704-you-can-pet-the-dog-vr.json) |
 | You Can Talk to People | 184072 | [184072-you-can-talk-to-people.json](./184072-you-can-talk-to-people.json) |
@@ -481,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're the Boss | 415950 | [415950-youre-the-boss.json](./415950-youre-the-boss.json) |
 | You're the OS! | 261911 | [261911-youre-the-os.json](./261911-youre-the-os.json) |
 | You're Under Arrest | 311062 | [311062-youre-under-arrest.json](./311062-youre-under-arrest.json) |
+| You've Got a Stew Going! | 228971 | [228971-youve-got-a-stew-going.json](./228971-youve-got-a-stew-going.json) |
 | You've Got To Be Kidding! | 299840 | [299840-youve-got-to-be-kidding.json](./299840-youve-got-to-be-kidding.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
