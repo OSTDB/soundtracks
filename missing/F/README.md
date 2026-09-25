@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Embrace: Erabareshi Chigyuu no Ken | 163923 | [163923-fire-embrace-erabareshi-chigyuu-no-ken.json](./163923-fire-embrace-erabareshi-chigyuu-no-ken.json) |
 | Fire Entrance | 374086 | [374086-fire-entrance.json](./374086-fire-entrance.json) |
 | Fire Farm VR | 31964 | [31964-fire-farm-vr.json](./31964-fire-farm-vr.json) |
+| Fire Fighter | 246332 | [246332-fire-fighter.json](./246332-fire-fighter.json) |
 | Fire Fighter | 246395 | [246395-fire-fighter.json](./246395-fire-fighter.json) |
 | Fire Flight | 76661 | [76661-fire-flight.json](./76661-fire-flight.json) |
 | Fire Flush | 107220 | [107220-fire-flush.json](./107220-fire-flush.json) |
@@ -4442,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Bowling 3D | 68507 | [68507-free-bowling-3d.json](./68507-free-bowling-3d.json) |
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
+| Free Craps | 246379 | [246379-free-craps.json](./246379-free-craps.json) |
 | Free D.C! | 80526 | [80526-free-d-c.json](./80526-free-d-c.json) |
 | Free Dunk | 339087 | [339087-free-dunk.json](./339087-free-dunk.json) |
 | Free Enterprise | 84229 | [84229-free-enterprise.json](./84229-free-enterprise.json) |
@@ -4938,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Catcher | 397067 | [397067-fruit-catcher.json](./397067-fruit-catcher.json) |
 | Fruit Clicker | 150646 | [150646-fruit-clicker.json](./150646-fruit-clicker.json) |
 | Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
+| Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Farmer | 199603 | [199603-fruit-farmer.json](./199603-fruit-farmer.json) |
 | Fruit Fusion | 60254 | [60254-fruit-fusion.json](./60254-fruit-fusion.json) |
 | Fruit Fusion! | 384197 | [384197-fruit-fusion.json](./384197-fruit-fusion.json) |
