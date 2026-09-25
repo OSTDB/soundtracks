@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep State | 281560 | [281560-deep-state.json](./281560-deep-state.json) |
 | Deep Stories Bundle | 218689 | [218689-deep-stories-bundle.json](./218689-deep-stories-bundle.json) |
 | Deep the Game: The Darkest Cave | 169957 | [169957-deep-the-game-the-darkest-cave.json](./169957-deep-the-game-the-darkest-cave.json) |
+| Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
 | Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
 | Deep West | 369016 | [369016-deep-west.json](./369016-deep-west.json) |
 | Deepak Chopra's Leela | 20244 | [20244-deepak-chopras-leela.json](./20244-deepak-chopras-leela.json) |
