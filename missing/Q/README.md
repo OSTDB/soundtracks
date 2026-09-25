@@ -485,3 +485,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qwixx | 175421 | [175421-qwixx.json](./175421-qwixx.json) |
 | QWOP | 8814 | [8814-qwop.json](./8814-qwop.json) |
 | Qybe | 102961 | [102961-qybe.json](./102961-qybe.json) |
+| Qyllscape | 258428 | [258428-qyllscape.json](./258428-qyllscape.json) |
