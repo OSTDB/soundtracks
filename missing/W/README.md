@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlike | 151151 | [151151-warlike.json](./151151-warlike.json) |
 | Warlings 2: Total Armageddon | 280185 | [280185-warlings-2-total-armageddon.json](./280185-warlings-2-total-armageddon.json) |
 | Warlock | 19773 | [19773-warlock.json](./19773-warlock.json) |
+| Warlock The Bounty Hunter | 262296 | [262296-warlock-the-bounty-hunter.json](./262296-warlock-the-bounty-hunter.json) |
 | Warlock: Master of the Arcane | 2072 | [2072-warlock-master-of-the-arcane.json](./2072-warlock-master-of-the-arcane.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
 | Warlocked | 49874 | [49874-warlocked.json](./49874-warlocked.json) |
@@ -2894,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Game | 86915 | [86915-word-search-game.json](./86915-word-search-game.json) |
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
+| Word Search Puzzle: Find the Words! | 262323 | [262323-word-search-puzzle-find-the-words.json](./262323-word-search-puzzle-find-the-words.json) |
 | Word Search: Classic Game | 323326 | [323326-word-search-classic-game.json](./323326-word-search-classic-game.json) |
 | Word Seek English Unlimited | 103874 | [103874-word-seek-english-unlimited.json](./103874-word-seek-english-unlimited.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
@@ -3309,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Greatest Places Mosaics 4 | 415861 | [415861-worlds-greatest-places-mosaics-4.json](./415861-worlds-greatest-places-mosaics-4.json) |
 | World's Greatest Temples 2 | 415932 | [415932-worlds-greatest-temples-2.json](./415932-worlds-greatest-temples-2.json) |
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
+| World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
 | WorldGuessr | 315679 | [315679-worldguessr.json](./315679-worldguessr.json) |
