@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Balls Christmas Edition | 225284 | [225284-factory-balls-christmas-edition.json](./225284-factory-balls-christmas-edition.json) |
 | Factory Coin Mining | 118417 | [118417-factory-coin-mining.json](./118417-factory-coin-mining.json) |
 | Factory Company | 297071 | [297071-factory-company.json](./297071-factory-company.json) |
+| Factory Control Inc. | 252706 | [252706-factory-control-inc.json](./252706-factory-control-inc.json) |
 | Factory Engineer | 31796 | [31796-factory-engineer.json](./31796-factory-engineer.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | Factory of Sweets | 151129 | [151129-factory-of-sweets.json](./151129-factory-of-sweets.json) |
@@ -1283,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatum | 407302 | [407302-fatum.json](./407302-fatum.json) |
 | Fatum Betula + Food Truck Tycoon | 250343 | [250343-fatum-betula-food-truck-tycoon.json](./250343-fatum-betula-food-truck-tycoon.json) |
 | Fatum Betula + Knights & Guns | 246080 | [246080-fatum-betula-knights-and-guns.json](./246080-fatum-betula-knights-and-guns.json) |
+| Fatum Betula + Urban Flow | 252702 | [252702-fatum-betula-urban-flow.json](./252702-fatum-betula-urban-flow.json) |
 | Faucet VR | 89269 | [89269-faucet-vr.json](./89269-faucet-vr.json) |
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
 | Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
@@ -2518,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
 | Fishing Mega-Game | 373002 | [373002-fishing-mega-game.json](./373002-fishing-mega-game.json) |
 | Fishing Minigame 2 | 273921 | [273921-fishing-minigame-2.json](./273921-fishing-minigame-2.json) |
+| Fishing Nation | 252686 | [252686-fishing-nation.json](./252686-fishing-nation.json) |
 | Fishing Online | 274975 | [274975-fishing-online.json](./274975-fishing-online.json) |
 | Fishing Paradise 3D | 25744 | [25744-fishing-paradise-3d.json](./25744-fishing-paradise-3d.json) |
 | Fishing Planet: Sport Kayak Pack | 292673 | [292673-fishing-planet-sport-kayak-pack.json](./292673-fishing-planet-sport-kayak-pack.json) |
@@ -3008,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Out Rush | 337724 | [337724-flip-out-rush.json](./337724-flip-out-rush.json) |
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
 | Flip Tale | 133381 | [133381-flip-tale.json](./133381-flip-tale.json) |
+| Flip the Birdie | 252711 | [252711-flip-the-birdie.json](./252711-flip-the-birdie.json) |
 | Flip Trickster | 89215 | [89215-flip-trickster.json](./89215-flip-trickster.json) |
 | Flip Trickster: Parkour Simulator | 96708 | [96708-flip-trickster-parkour-simulator.json](./96708-flip-trickster-parkour-simulator.json) |
 | Flip Trip | 233108 | [233108-flip-trip.json](./233108-flip-trip.json) |
@@ -3723,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Harvester Tractor 3D | 89941 | [89941-forest-harvester-tractor-3d.json](./89941-forest-harvester-tractor-3d.json) |
 | Forest Heroes | 311581 | [311581-forest-heroes.json](./311581-forest-heroes.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
+| Forest Horror | 252687 | [252687-forest-horror.json](./252687-forest-horror.json) |
 | Forest Journeys | 295311 | [295311-forest-journeys.json](./295311-forest-journeys.json) |
 | Forest Jump | 270171 | [270171-forest-jump.json](./270171-forest-jump.json) |
 | Forest Keeper Lookout | 383950 | [383950-forest-keeper-lookout.json](./383950-forest-keeper-lookout.json) |
