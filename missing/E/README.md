@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Rush | 97157 | [97157-emerald-rush.json](./97157-emerald-rush.json) |
 | Emerald Shores | 111470 | [111470-emerald-shores.json](./111470-emerald-shores.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
+| Emerald Woods | 275656 | [275656-emerald-woods.json](./275656-emerald-woods.json) |
 | Emeraldium | 294207 | [294207-emeraldium.json](./294207-emeraldium.json) |
 | Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
