@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeshi no Sengoku Fuuunko | 48887 | [48887-takeshi-no-sengoku-fuuunko.json](./48887-takeshi-no-sengoku-fuuunko.json) |
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
 | Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
+| Taking Root: Academic Version | 270089 | [270089-taking-root-academic-version.json](./270089-taking-root-academic-version.json) |
 | Takishawa is Dead | 242655 | [242655-takishawa-is-dead.json](./242655-takishawa-is-dead.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
 | Tako no Marine | 107647 | [107647-tako-no-marine.json](./107647-tako-no-marine.json) |
@@ -7364,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
 | The Whispering Bones | 389400 | [389400-the-whispering-bones.json](./389400-the-whispering-bones.json) |
 | The Whispering Woods | 335361 | [335361-the-whispering-woods.json](./335361-the-whispering-woods.json) |
+| The Whistle | 270168 | [270168-the-whistle.json](./270168-the-whistle.json) |
 | The Whistle | 342837 | [342837-the-whistle.json](./342837-the-whistle.json) |
 | The White Day | 305343 | [305343-the-white-day.json](./305343-the-white-day.json) |
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
@@ -12233,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tukoni: Forest Keepers | 141273 | [141273-tukoni-forest-keepers.json](./141273-tukoni-forest-keepers.json) |
 | TukTuk | 196240 | [196240-tuktuk.json](./196240-tuktuk.json) |
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
+| Tulip | 270074 | [270074-tulip.json](./270074-tulip.json) |
 | Tuma-7 | 141842 | [141842-tuma-7.json](./141842-tuma-7.json) |
 | Tumble Baby | 182521 | [182521-tumble-baby.json](./182521-tumble-baby.json) |
 | Tumble Ball | 295567 | [295567-tumble-ball.json](./295567-tumble-ball.json) |
