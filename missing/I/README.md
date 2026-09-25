@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Il-2 Sturmovik: Ultimate Edition | 146130 | [146130-il-2-sturmovik-ultimate-edition.json](./146130-il-2-sturmovik-ultimate-edition.json) |
 | Ilamentia | 36133 | [36133-ilamentia.json](./36133-ilamentia.json) |
 | Iles | 211949 | [211949-iles.json](./211949-iles.json) |
+| Ilha do Empreendedor | 257347 | [257347-ilha-do-empreendedor.json](./257347-ilha-do-empreendedor.json) |
 | IlinkWord Play | 267332 | [267332-ilinkword-play.json](./267332-ilinkword-play.json) |
 | ILive | 110115 | [110115-ilive.json](./110115-ilive.json) |
 | Iljimae-jeon: Manman Papa Sikjeok-pyeon | 145615 | [145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json](./145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json) |
