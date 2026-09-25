@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quad Challenge | 46212 | [46212-quad-challenge.json](./46212-quad-challenge.json) |
 | Quad Dice Defence | 195157 | [195157-quad-dice-defence.json](./195157-quad-dice-defence.json) |
 | Quad Run | 271191 | [271191-quad-run.json](./271191-quad-run.json) |
+| Quadanoid | 245283 | [245283-quadanoid.json](./245283-quadanoid.json) |
 | Quadbots: The Rise of Chrono | 296393 | [296393-quadbots-the-rise-of-chrono.json](./296393-quadbots-the-rise-of-chrono.json) |
 | QuadcopterFx Simulator | 89707 | [89707-quadcopterfx-simulator.json](./89707-quadcopterfx-simulator.json) |
 | Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
