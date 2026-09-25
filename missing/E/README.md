@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC 27: Ultimate Plus Edition | 411107 | [411107-ea-sports-fc-27-ultimate-plus-edition.json](./411107-ea-sports-fc-27-ultimate-plus-edition.json) |
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
 | EA Sports MMA | 6984 | [6984-ea-sports-mma.json](./6984-ea-sports-mma.json) |
+| EA Sports NASCAR Racing | 269525 | [269525-ea-sports-nascar-racing.json](./269525-ea-sports-nascar-racing.json) |
 | EA Sports PGA Tour | 145232 | [145232-ea-sports-pga-tour.json](./145232-ea-sports-pga-tour.json) |
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
@@ -2148,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esklavos C8 | 315074 | [315074-esklavos-c8.json](./315074-esklavos-c8.json) |
 | Esklavos C9 | 315075 | [315075-esklavos-c9.json](./315075-esklavos-c9.json) |
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
+| ESmart 2.0 | 269605 | [269605-esmart-2-0.json](./269605-esmart-2-0.json) |
 | ESMO: Esports Manager Online | 375291 | [375291-esmo-esports-manager-online.json](./375291-esmo-esports-manager-online.json) |
 | EsoTarot VR | 236270 | [236270-esotarot-vr.json](./236270-esotarot-vr.json) |
 | Esoterica Order | 311588 | [311588-esoterica-order.json](./311588-esoterica-order.json) |
