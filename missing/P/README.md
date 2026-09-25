@@ -2336,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Pico Dungeon! | 329006 | [329006-pico-pico-dungeon.json](./329006-pico-pico-dungeon.json) |
 | Pico Pico MicroMix | 182992 | [182992-pico-pico-micromix.json](./182992-pico-pico-micromix.json) |
 | Pico Pirates | 184068 | [184068-pico-pirates.json](./184068-pico-pirates.json) |
+| Pico Sim Date 2 | 276253 | [276253-pico-sim-date-2.json](./276253-pico-sim-date-2.json) |
 | Pico Snail! Dream Castle | 152748 | [152748-pico-snail-dream-castle.json](./152748-pico-snail-dream-castle.json) |
 | Pico Sonic | 181240 | [181240-pico-sonic.json](./181240-pico-sonic.json) |
 | Pico Tanks: Multiplayer Mayhem | 130379 | [130379-pico-tanks-multiplayer-mayhem.json](./130379-pico-tanks-multiplayer-mayhem.json) |
