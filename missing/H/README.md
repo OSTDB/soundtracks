@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Dungeons: Hyakki Castle | 110831 | [110831-haunted-dungeons-hyakki-castle.json](./110831-haunted-dungeons-hyakki-castle.json) |
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
+| Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
 | Haunted Hotel II: Believe the Lies | 36450 | [36450-haunted-hotel-ii-believe-the-lies.json](./36450-haunted-hotel-ii-believe-the-lies.json) |
 | Haunted Hotel: A Past Redeemed | 182399 | [182399-haunted-hotel-a-past-redeemed.json](./182399-haunted-hotel-a-past-redeemed.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellcard | 127193 | [127193-hellcard.json](./127193-hellcard.json) |
 | Hellcard II | 388355 | [388355-hellcard-ii.json](./388355-hellcard-ii.json) |
 | Hellcats: Missions at Leyte Gulf | 337196 | [337196-hellcats-missions-at-leyte-gulf.json](./337196-hellcats-missions-at-leyte-gulf.json) |
+| Hellcrossing | 245797 | [245797-hellcrossing.json](./245797-hellcrossing.json) |
 | Hellcrown | 412367 | [412367-hellcrown.json](./412367-hellcrown.json) |
 | Helldivers | 14523 | [14523-helldivers.json](./14523-helldivers.json) |
 | Helldivers 2: Devoid of Liberty | 412429 | [412429-helldivers-2-devoid-of-liberty.json](./412429-helldivers-2-devoid-of-liberty.json) |
