@@ -3360,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War One | 21137 | [21137-world-war-one.json](./21137-world-war-one.json) |
 | World War Party: Game of Trump | 75054 | [75054-world-war-party-game-of-trump.json](./75054-world-war-party-game-of-trump.json) |
 | World War Robot | 180713 | [180713-world-war-robot.json](./180713-world-war-robot.json) |
+| World War Toons: Tank Arena VR | 230241 | [230241-world-war-toons-tank-arena-vr.json](./230241-world-war-toons-tank-arena-vr.json) |
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
 | World War Z: Desert Defenders Weapons Pack | 332044 | [332044-world-war-z-desert-defenders-weapons-pack.json](./332044-world-war-z-desert-defenders-weapons-pack.json) |
 | World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
