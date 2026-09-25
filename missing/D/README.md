@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.R.I.F.T. | 394335 | [394335-d-r-i-f-t.json](./394335-d-r-i-f-t.json) |
 | D.R.I.L.L. - Dynamix VR | 81743 | [81743-d-r-i-l-l-dynamix-vr.json](./81743-d-r-i-l-l-dynamix-vr.json) |
 | D.S. Dal Segno: Limited Edition | 212327 | [212327-d-s-dal-segno-limited-edition.json](./212327-d-s-dal-segno-limited-edition.json) |
+| D.S.A. | 229634 | [229634-d-s-a.json](./229634-d-s-a.json) |
 | D.W. Dagger: Chapter One | 168837 | [168837-d-w-dagger-chapter-one.json](./168837-d-w-dagger-chapter-one.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
@@ -6016,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Daddy: Dadrector's Cut | 111064 | [111064-dream-daddy-dadrectors-cut.json](./111064-dream-daddy-dadrectors-cut.json) |
 | Dream Dance & Cheer | 50632 | [50632-dream-dance-and-cheer.json](./50632-dream-dance-and-cheer.json) |
 | Dream Dancer | 209170 | [209170-dream-dancer.json](./209170-dream-dancer.json) |
+| Dream Data | 229645 | [229645-dream-data.json](./229645-dream-data.json) |
 | Dream Day: First Home | 209171 | [209171-dream-day-first-home.json](./209171-dream-day-first-home.json) |
 | Dream Day: Honeymoon | 209172 | [209172-dream-day-honeymoon.json](./209172-dream-day-honeymoon.json) |
 | Dream Day: Viva Las Vegas | 87284 | [87284-dream-day-viva-las-vegas.json](./87284-dream-day-viva-las-vegas.json) |
@@ -6096,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream TV | 93573 | [93573-dream-tv.json](./93573-dream-tv.json) |
 | Dream Undercity | 248065 | [248065-dream-undercity.json](./248065-dream-undercity.json) |
 | Dream Univrse | 30784 | [30784-dream-univrse.json](./30784-dream-univrse.json) |
+| Dream Vacation | 229660 | [229660-dream-vacation.json](./229660-dream-vacation.json) |
 | Dream Village | 390229 | [390229-dream-village.json](./390229-dream-village.json) |
 | Dream Walker | 365851 | [365851-dream-walker.json](./365851-dream-walker.json) |
 | Dream Warrior | 13612 | [13612-dream-warrior.json](./13612-dream-warrior.json) |
@@ -6128,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming | 368552 | [368552-dreaming.json](./368552-dreaming.json) |
 | Dreaming | 370777 | [370777-dreaming.json](./370777-dreaming.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
+| Dreaming Bad | 229661 | [229661-dreaming-bad.json](./229661-dreaming-bad.json) |
 | Dreaming by day | 182982 | [182982-dreaming-by-day.json](./182982-dreaming-by-day.json) |
 | Dreaming Chicken | 258041 | [258041-dreaming-chicken.json](./258041-dreaming-chicken.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
