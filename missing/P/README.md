@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Password Manager | 401499 | [401499-password-manager.json](./401499-password-manager.json) |
 | Past Apparitions | 383499 | [383499-past-apparitions.json](./383499-past-apparitions.json) |
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
+| Past Memories | 266830 | [266830-past-memories.json](./266830-past-memories.json) |
 | Past Synergy | 195079 | [195079-past-synergy.json](./195079-past-synergy.json) |
 | Pasta Master | 160263 | [160263-pasta-master.json](./160263-pasta-master.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
@@ -3966,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokeMMO | 127976 | [127976-pokemmo.json](./127976-pokemmo.json) |
 | Pokemomcore | 299120 | [299120-pokemomcore.json](./299120-pokemomcore.json) |
 | Pokémon | 221996 | [221996-pokemon.json](./221996-pokemon.json) |
+| Pokémon | 266836 | [266836-pokemon.json](./266836-pokemon.json) |
 | Pokémon 2000 Adventure Game | 254167 | [254167-pokemon-2000-adventure-game.json](./254167-pokemon-2000-adventure-game.json) |
 | Pokémon Advanced: Cyber Poké Ball 2 | 245422 | [245422-pokemon-advanced-cyber-poke-ball-2.json](./245422-pokemon-advanced-cyber-poke-ball-2.json) |
 | Pokémon Ageless | 360182 | [360182-pokemon-ageless.json](./360182-pokemon-ageless.json) |
@@ -4687,6 +4689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popcorn! | 312727 | [312727-popcorn.json](./312727-popcorn.json) |
 | Pope Simulator | 133205 | [133205-pope-simulator.json](./133205-pope-simulator.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
+| Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
