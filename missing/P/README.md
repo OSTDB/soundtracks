@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
+| Paper Chaser's | 247432 | [247432-paper-chasers.json](./247432-paper-chasers.json) |
 | Paper Cut Mansion | 86512 | [86512-paper-cut-mansion.json](./86512-paper-cut-mansion.json) |
 | Paper Dash: City Hustle | 287072 | [287072-paper-dash-city-hustle.json](./287072-paper-dash-city-hustle.json) |
 | Paper Dash: Invasion of Greed | 288919 | [288919-paper-dash-invasion-of-greed.json](./288919-paper-dash-invasion-of-greed.json) |
@@ -1322,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Perils: Out Of This World | 327386 | [327386-paws-and-perils-out-of-this-world.json](./327386-paws-and-perils-out-of-this-world.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
+| Paws of Coal | 247444 | [247444-paws-of-coal.json](./247444-paws-of-coal.json) |
 | Paws of Fury | 181342 | [181342-paws-of-fury.json](./181342-paws-of-fury.json) |
 | Paws: A Shelter 2 Game | 17007 | [17007-paws-a-shelter-2-game.json](./17007-paws-a-shelter-2-game.json) |
 | Paws: A Shelter 2 Game - Pitter Patter Edition | 154943 | [154943-paws-a-shelter-2-game-pitter-patter-edition.json](./154943-paws-a-shelter-2-game-pitter-patter-edition.json) |
@@ -2277,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pia Carrot he Youkoso!! | 45955 | [45955-pia-carrot-he-youkoso.json](./45955-pia-carrot-he-youkoso.json) |
 | Pia Carrot he Youkoso!! 2 | 62748 | [62748-pia-carrot-he-youkoso-2.json](./62748-pia-carrot-he-youkoso-2.json) |
 | Pianista: The Legendary Virtuoso | 111040 | [111040-pianista-the-legendary-virtuoso.json](./111040-pianista-the-legendary-virtuoso.json) |
+| Piano at 5 am | 247431 | [247431-piano-at-5-am.json](./247431-piano-at-5-am.json) |
 | Piano Game X | 101521 | [101521-piano-game-x.json](./101521-piano-game-x.json) |
 | Piano Game: Classic Music Song | 223987 | [223987-piano-game-classic-music-song.json](./223987-piano-game-classic-music-song.json) |
 | Piano Keys | 205646 | [205646-piano-keys.json](./205646-piano-keys.json) |
@@ -3107,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel Game Maker Series: Jetman | 207891 | [207891-pixel-game-maker-series-jetman.json](./207891-pixel-game-maker-series-jetman.json) |
 | Pixel Game Maker Series: LunLun Superherobabys DX | 283263 | [283263-pixel-game-maker-series-lunlun-superherobabys-dx.json](./283263-pixel-game-maker-series-lunlun-superherobabys-dx.json) |
+| Pixel Game Maker Series: Ninja Otedama R | 247487 | [247487-pixel-game-maker-series-ninja-otedama-r.json](./247487-pixel-game-maker-series-ninja-otedama-r.json) |
 | Pixel Game Maker Series: Ninja Sneaking R | 215114 | [215114-pixel-game-maker-series-ninja-sneaking-r.json](./215114-pixel-game-maker-series-ninja-sneaking-r.json) |
 | Pixel Game Maker Series: Pearl vs Grey | 227845 | [227845-pixel-game-maker-series-pearl-vs-grey.json](./227845-pixel-game-maker-series-pearl-vs-grey.json) |
 | Pixel Game Maker Series: Rocket Frog | 335354 | [335354-pixel-game-maker-series-rocket-frog.json](./335354-pixel-game-maker-series-rocket-frog.json) |
