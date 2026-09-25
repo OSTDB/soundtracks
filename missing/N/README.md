@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
 | Nightshade Mysteries: Eternal Moon - Collector's Edition | 345674 | [345674-nightshade-mysteries-eternal-moon-collectors-edition.json](./345674-nightshade-mysteries-eternal-moon-collectors-edition.json) |
+| Nightshaders | 245812 | [245812-nightshaders.json](./245812-nightshaders.json) |
 | Nightshift | 163295 | [163295-nightshift.json](./163295-nightshift.json) |
 | Nightshift | 271202 | [271202-nightshift.json](./271202-nightshift.json) |
 | Nightshift at the Beta Museum | 408141 | [408141-nightshift-at-the-beta-museum.json](./408141-nightshift-at-the-beta-museum.json) |
