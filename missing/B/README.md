@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
 | Bandeirantes: The Game. | 347348 | [347348-bandeirantes-the-game.json](./347348-bandeirantes-the-game.json) |
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
+| Bandit | 251553 | [251553-bandit.json](./251553-bandit.json) |
 | Bandit | 330887 | [330887-bandit.json](./330887-bandit.json) |
 | Bandit | 379999 | [379999-bandit.json](./379999-bandit.json) |
 | Bandit Accountancy | 336923 | [336923-bandit-accountancy.json](./336923-bandit-accountancy.json) |
