@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardman | 282687 | [282687-gardman.json](./282687-gardman.json) |
 | Garena Blockman Go | 220215 | [220215-garena-blockman-go.json](./220215-garena-blockman-go.json) |
 | Garenburg Woods | 75915 | [75915-garenburg-woods.json](./75915-garenburg-woods.json) |
+| Garestia | 253345 | [253345-garestia.json](./253345-garestia.json) |
 | Garetto | 163917 | [163917-garetto.json](./163917-garetto.json) |
 | Garfield | 179595 | [179595-garfield.json](./179595-garfield.json) |
 | Garfield 2 | 43528 | [43528-garfield-2.json](./43528-garfield-2.json) |
@@ -828,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate of Doom | 46847 | [46847-gate-of-doom.json](./46847-gate-of-doom.json) |
 | Gate of Mobius | 200751 | [200751-gate-of-mobius.json](./200751-gate-of-mobius.json) |
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
+| Gate of Souls | 253308 | [253308-gate-of-souls.json](./253308-gate-of-souls.json) |
 | Gate to Die | 412500 | [412500-gate-to-die.json](./412500-gate-to-die.json) |
 | Gate Warfare | 367602 | [367602-gate-warfare.json](./367602-gate-warfare.json) |
 | Gate World | 46649 | [46649-gate-world.json](./46649-gate-world.json) |
@@ -3006,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Liberty City 2001 | 327430 | [327430-grand-theft-auto-liberty-city-2001.json](./327430-grand-theft-auto-liberty-city-2001.json) |
 | Grand Theft Auto: Liberty City Stories | 309110 | [309110-grand-theft-auto-liberty-city-stories.json](./309110-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: Liberty City Stories | 3263 | [3263-grand-theft-auto-liberty-city-stories.json](./3263-grand-theft-auto-liberty-city-stories.json) |
+| Grand Theft Auto: Misterix | 253324 | [253324-grand-theft-auto-misterix.json](./253324-grand-theft-auto-misterix.json) |
 | Grand Theft Auto: San Andreas - Flame's Story | 320920 | [320920-grand-theft-auto-san-andreas-flames-story.json](./320920-grand-theft-auto-san-andreas-flames-story.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
 | Grand Theft Auto: The Backstabber's Blues | 392433 | [392433-grand-theft-auto-the-backstabbers-blues.json](./392433-grand-theft-auto-the-backstabbers-blues.json) |
@@ -3064,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
 | GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
 | Grapple Boy | 62425 | [62425-grapple-boy.json](./62425-grapple-boy.json) |
+| Grapple Cars | 253300 | [253300-grapple-cars.json](./253300-grapple-cars.json) |
 | Grapple Dogs Collection | 331408 | [331408-grapple-dogs-collection.json](./331408-grapple-dogs-collection.json) |
 | Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
