@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tachyons | 176425 | [176425-tachyons.json](./176425-tachyons.json) |
 | Tachyons: Battles Across the Galaxy | 236395 | [236395-tachyons-battles-across-the-galaxy.json](./236395-tachyons-battles-across-the-galaxy.json) |
 | Tachypsychia | 141253 | [141253-tachypsychia.json](./141253-tachypsychia.json) |
+| Tackle Box | 228395 | [228395-tackle-box.json](./228395-tackle-box.json) |
 | Tackle for Loss | 304715 | [304715-tackle-for-loss.json](./304715-tackle-for-loss.json) |
 | Tackle Tourney Turbo | 177012 | [177012-tackle-tourney-turbo.json](./177012-tackle-tourney-turbo.json) |
 | Taco Bell: Tasty Temple Challenge | 11008 | [11008-taco-bell-tasty-temple-challenge.json](./11008-taco-bell-tasty-temple-challenge.json) |
@@ -2191,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7 Cents Deal | 183558 | [183558-the-7-cents-deal.json](./183558-the-7-cents-deal.json) |
 | The 7 Second Challenge | 89175 | [89175-the-7-second-challenge.json](./89175-the-7-second-challenge.json) |
 | The 7D Mine Train | 89163 | [89163-the-7d-mine-train.json](./89163-the-7d-mine-train.json) |
+| The 7th Annual Vanilla Level Design Contest: Collaboration Hack | 228392 | [228392-the-7th-annual-vanilla-level-design-contest-collaboration-hack.json](./228392-the-7th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 7th Circle: Endless Nightmare | 99081 | [99081-the-7th-circle-endless-nightmare.json](./99081-the-7th-circle-endless-nightmare.json) |
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
 | The 7th Shift | 415873 | [415873-the-7th-shift.json](./415873-the-7th-shift.json) |
@@ -4354,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hurt in Secret | 369550 | [369550-the-hurt-in-secret.json](./369550-the-hurt-in-secret.json) |
 | The Hustle: Detroit Streets | 73266 | [73266-the-hustle-detroit-streets.json](./73266-the-hustle-detroit-streets.json) |
 | The Hypnic Chain | 336729 | [336729-the-hypnic-chain.json](./336729-the-hypnic-chain.json) |
+| The Hypno Shop | 228364 | [228364-the-hypno-shop.json](./228364-the-hypno-shop.json) |
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
 | The IBM Basic Quiz | 79603 | [79603-the-ibm-basic-quiz.json](./79603-the-ibm-basic-quiz.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
@@ -6722,6 +6725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snowfield | 144323 | [144323-the-snowfield.json](./144323-the-snowfield.json) |
 | The Snowman | 275641 | [275641-the-snowman.json](./275641-the-snowman.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
+| The Social Distance Game | 228387 | [228387-the-social-distance-game.json](./228387-the-social-distance-game.json) |
 | The Sokoban | 175811 | [175811-the-sokoban.json](./175811-the-sokoban.json) |
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
 | The Solace of Flowers | 376691 | [376691-the-solace-of-flowers.json](./376691-the-solace-of-flowers.json) |
@@ -7843,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Can Be Only One | 181893 | [181893-there-can-be-only-one.json](./181893-there-can-be-only-one.json) |
 | There Can Only be Two | 235711 | [235711-there-can-only-be-two.json](./235711-there-can-only-be-two.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
+| There is a Genie in my Szechuan Sauce: Remastered | 228372 | [228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json](./228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json) |
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
 | There Is No Fangame | 406811 | [406811-there-is-no-fangame.json](./406811-there-is-no-fangame.json) |
 | There Is No Game: Jam Edition 2015 | 132522 | [132522-there-is-no-game-jam-edition-2015.json](./132522-there-is-no-game-jam-edition-2015.json) |
@@ -9324,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Shop | 297576 | [297576-tiny-shop.json](./297576-tiny-shop.json) |
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
 | Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
+| Tiny Sokoban | 228391 | [228391-tiny-sokoban.json](./228391-tiny-sokoban.json) |
 | Tiny Starfighters | 317413 | [317413-tiny-starfighters.json](./317413-tiny-starfighters.json) |
 | Tiny Step | 267333 | [267333-tiny-step.json](./267333-tiny-step.json) |
 | Tiny Strife | 158083 | [158083-tiny-strife.json](./158083-tiny-strife.json) |
@@ -10684,6 +10690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Modula | 340542 | [340542-tower-of-modula.json](./340542-tower-of-modula.json) |
 | Tower of Myraglen | 57381 | [57381-tower-of-myraglen.json](./57381-tower-of-myraglen.json) |
 | Tower of Nod | 313308 | [313308-tower-of-nod.json](./313308-tower-of-nod.json) |
+| Tower of Pain | 228393 | [228393-tower-of-pain.json](./228393-tower-of-pain.json) |
 | Tower of Pandemonium | 253416 | [253416-tower-of-pandemonium.json](./253416-tower-of-pandemonium.json) |
 | Tower of Radia | 48876 | [48876-tower-of-radia.json](./48876-tower-of-radia.json) |
 | Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
@@ -11933,6 +11940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Triad | 54692 | [54692-triad.json](./54692-triad.json) |
 | Triadino | 277342 | [277342-triadino.json](./277342-triadino.json) |
+| Triage | 228341 | [228341-triage.json](./228341-triage.json) |
 | Triage | 353861 | [353861-triage.json](./353861-triage.json) |
 | Trial by Chat | 414332 | [414332-trial-by-chat.json](./414332-trial-by-chat.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
@@ -12494,8 +12502,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuri Sensei 2 | 282706 | [282706-tsuri-sensei-2.json](./282706-tsuri-sensei-2.json) |
 | Tsuri Spirits: Tsutte Asoberu Suizokukan | 206813 | [206813-tsuri-spirits-tsutte-asoberu-suizokukan.json](./206813-tsuri-spirits-tsutte-asoberu-suizokukan.json) |
 | Tsuri Tarou | 37779 | [37779-tsuri-tarou.json](./37779-tsuri-tarou.json) |
+| Tsurikko Penta | 228358 | [228358-tsurikko-penta.json](./228358-tsurikko-penta.json) |
 | Tsurimasu | 355224 | [355224-tsurimasu.json](./355224-tsurimasu.json) |
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
+| Tsurugihime | 228340 | [228340-tsurugihime.json](./228340-tsurugihime.json) |
 | Tsurupika Hagemaru: Mezase! Tsuruseko no Akashi | 48874 | [48874-tsurupika-hagemaru-mezase-tsuruseko-no-akashi.json](./48874-tsurupika-hagemaru-mezase-tsuruseko-no-akashi.json) |
 | Tsuukai Gyaguabanchuuru: Naruto Maki Hichou | 67264 | [67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json](./67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json) |
 | Tsuushin Taikyoku: Hayazashi Shogi Sandan | 344460 | [344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json](./344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json) |
@@ -12716,6 +12726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turte | 309885 | [309885-turte.json](./309885-turte.json) |
 | Turtle | 340391 | [340391-turtle.json](./340391-turtle.json) |
 | Turtle Bay | 79302 | [79302-turtle-bay.json](./79302-turtle-bay.json) |
+| Turtle Bridge | 228394 | [228394-turtle-bridge.json](./228394-turtle-bridge.json) |
 | Turtle Daddy | 385560 | [385560-turtle-daddy.json](./385560-turtle-daddy.json) |
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
 | Turtle Fly: Into Space | 232574 | [232574-turtle-fly-into-space.json](./232574-turtle-fly-into-space.json) |
