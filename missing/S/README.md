@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Secret Laboratory | 70385 | [70385-scp-secret-laboratory.json](./70385-scp-secret-laboratory.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
 | SCP: The Beginning | 390659 | [390659-scp-the-beginning.json](./390659-scp-the-beginning.json) |
+| SCP: The Endurance | 228377 | [228377-scp-the-endurance.json](./228377-scp-the-endurance.json) |
 | SCP: Unity | 130903 | [130903-scp-unity.json](./130903-scp-unity.json) |
 | SCP: Unknown. | 95998 | [95998-scp-unknown.json](./95998-scp-unknown.json) |
 | SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
@@ -3063,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Hourglass | 133422 | [133422-shattered-hourglass.json](./133422-shattered-hourglass.json) |
 | Shattered Kingdoms | 229137 | [229137-shattered-kingdoms.json](./229137-shattered-kingdoms.json) |
 | Shattered Lands | 346660 | [346660-shattered-lands.json](./346660-shattered-lands.json) |
+| Shattered Lands: Towers of Perdition | 228386 | [228386-shattered-lands-towers-of-perdition.json](./228386-shattered-lands-towers-of-perdition.json) |
 | Shattered Legion | 180108 | [180108-shattered-legion.json](./180108-shattered-legion.json) |
 | Shattered Lights | 118800 | [118800-shattered-lights.json](./118800-shattered-lights.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
@@ -9546,6 +9548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Hammer: The Vanguard Prophecy | 36049 | [36049-star-hammer-the-vanguard-prophecy.json](./36049-star-hammer-the-vanguard-prophecy.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
 | Star Hogs: Online & Campaign Battles | 79625 | [79625-star-hogs-online-and-campaign-battles.json](./79625-star-hogs-online-and-campaign-battles.json) |
+| Star Honor | 228388 | [228388-star-honor.json](./228388-star-honor.json) |
 | Star Horizon | 35690 | [35690-star-horizon.json](./35690-star-horizon.json) |
 | Star Hound | 87103 | [87103-star-hound.json](./87103-star-hound.json) |
 | Star Iliad | 329676 | [329676-star-iliad.json](./329676-star-iliad.json) |
@@ -9900,6 +9903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDrone Extreme | 20815 | [20815-stardrone-extreme.json](./20815-stardrone-extreme.json) |
 | StarDroneVR | 105983 | [105983-stardronevr.json](./105983-stardronevr.json) |
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
+| Starduino | 228389 | [228389-starduino.json](./228389-starduino.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
@@ -10872,6 +10876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story City | 228518 | [228518-story-city.json](./228518-story-city.json) |
 | Story Craft | 270729 | [270729-story-craft.json](./270729-story-craft.json) |
 | Story Hour: Fairy Tales | 9756 | [9756-story-hour-fairy-tales.json](./9756-story-hour-fairy-tales.json) |
+| Story Jar | 228353 | [228353-story-jar.json](./228353-story-jar.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
 | Story Maker | 66615 | [66615-story-maker.json](./66615-story-maker.json) |
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
@@ -11708,6 +11713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku-Duo | 366290 | [366290-sudoku-duo.json](./366290-sudoku-duo.json) |
 | Sudoku-Edge | 366289 | [366289-sudoku-edge.json](./366289-sudoku-edge.json) |
 | Sudoku-Mini | 366324 | [366324-sudoku-mini.json](./366324-sudoku-mini.json) |
+| Sudoku-Nbp | 228390 | [228390-sudoku-nbp.json](./228390-sudoku-nbp.json) |
 | Sudoku-Pro | 366323 | [366323-sudoku-pro.json](./366323-sudoku-pro.json) |
 | Sudoku: Casual Board Game | 250393 | [250393-sudoku-casual-board-game.json](./250393-sudoku-casual-board-game.json) |
 | Sudoku: Classic Sudoku Puzzle | 356882 | [356882-sudoku-classic-sudoku-puzzle.json](./356882-sudoku-classic-sudoku-puzzle.json) |
