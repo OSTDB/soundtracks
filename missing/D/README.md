@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Dimetrodon | 168382 | [168382-day-of-the-dimetrodon.json](./168382-day-of-the-dimetrodon.json) |
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
 | Day of the Shell | 215537 | [215537-day-of-the-shell.json](./215537-day-of-the-shell.json) |
+| Day of the Toys | 264077 | [264077-day-of-the-toys.json](./264077-day-of-the-toys.json) |
 | Day of Vaccination | 148904 | [148904-day-of-vaccination.json](./148904-day-of-vaccination.json) |
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
@@ -1657,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Jr. | 45988 | [45988-death-jr.json](./45988-death-jr.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
+| Death Life: Beyond Purgatory | 264019 | [264019-death-life-beyond-purgatory.json](./264019-death-life-beyond-purgatory.json) |
 | Death Machine | 285004 | [285004-death-machine.json](./285004-death-machine.json) |
 | Death March | 365791 | [365791-death-march.json](./365791-death-march.json) |
 | Death Mark: Experience Selection | 167142 | [167142-death-mark-experience-selection.json](./167142-death-mark-experience-selection.json) |
@@ -3526,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur | 139988 | [139988-dinosaur.json](./139988-dinosaur.json) |
 | Dinosaur | 310972 | [310972-dinosaur.json](./310972-dinosaur.json) |
 | Dinosaur Adventure 3-D | 69808 | [69808-dinosaur-adventure-3-d.json](./69808-dinosaur-adventure-3-d.json) |
+| Dinosaur Assassin: I-Evolution | 264013 | [264013-dinosaur-assassin-i-evolution.json](./264013-dinosaur-assassin-i-evolution.json) |
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
@@ -4251,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDonPachi Resurrection | 152402 | [152402-dodonpachi-resurrection.json](./152402-dodonpachi-resurrection.json) |
 | DoDonPachi Resurrection: Deluxe Edition | 22933 | [22933-dodonpachi-resurrection-deluxe-edition.json](./22933-dodonpachi-resurrection-deluxe-edition.json) |
 | Dodonpachi True Death exA Label | 219161 | [219161-dodonpachi-true-death-exa-label.json](./219161-dodonpachi-true-death-exa-label.json) |
+| DoDonPachi Unlimited | 264093 | [264093-dodonpachi-unlimited.json](./264093-dodonpachi-unlimited.json) |
 | Does It Shoot? | 88174 | [88174-does-it-shoot.json](./88174-does-it-shoot.json) |
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
 | Does Money Grow on Trees | 184999 | [184999-does-money-grow-on-trees.json](./184999-does-money-grow-on-trees.json) |
@@ -5118,6 +5122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu no Mori+ Card-e: Series 1 | 356635 | [356635-doubutsu-no-mori-card-e-series-1.json](./356635-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
 | Douche Bag | 51735 | [51735-douche-bag.json](./51735-douche-bag.json) |
+| DoudingMan | 264015 | [264015-doudingman.json](./264015-doudingman.json) |
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
 | Doug Huggem | 294809 | [294809-doug-huggem.json](./294809-doug-huggem.json) |
 | Doug's Nightmare | 236397 | [236397-dougs-nightmare.json](./236397-dougs-nightmare.json) |
