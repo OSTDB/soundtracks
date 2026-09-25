@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hundred Ways | 13218 | [13218-one-hundred-ways.json](./13218-one-hundred-ways.json) |
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
+| One Just Night | 278487 | [278487-one-just-night.json](./278487-one-just-night.json) |
 | One Last Adventure | 294808 | [294808-one-last-adventure.json](./294808-one-last-adventure.json) |
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
