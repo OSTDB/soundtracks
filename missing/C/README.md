@@ -2616,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chicky Woggy | 41421 | [41421-chicky-woggy.json](./41421-chicky-woggy.json) |
+| Chico and the Magic Orchards DX | 277885 | [277885-chico-and-the-magic-orchards-dx.json](./277885-chico-and-the-magic-orchards-dx.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
 | ChicScape | 152777 | [152777-chicscape.json](./152777-chicscape.json) |
 | Chief Bubble Officer | 413163 | [413163-chief-bubble-officer.json](./413163-chief-bubble-officer.json) |
@@ -4692,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Book Tycoon | 129620 | [129620-comic-book-tycoon.json](./129620-comic-book-tycoon.json) |
 | Comic Book Universe | 322774 | [322774-comic-book-universe.json](./322774-comic-book-universe.json) |
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
+| Comic Coloring Book: Complete Edition - DRAW Special | 277905 | [277905-comic-coloring-book-complete-edition-draw-special.json](./277905-comic-coloring-book-complete-edition-draw-special.json) |
 | Comic Days H | 97382 | [97382-comic-days-h.json](./97382-comic-days-h.json) |
 | Comic Party Portable | 59388 | [59388-comic-party-portable.json](./59388-comic-party-portable.json) |
 | Comic Sakka Series Touma Senki #1: Mashoujo Gakuen Evil | 41354 | [41354-comic-sakka-series-touma-senki-1-mashoujo-gakuen-evil.json](./41354-comic-sakka-series-touma-senki-1-mashoujo-gakuen-evil.json) |
@@ -5205,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Killers | 132218 | [132218-contract-killers.json](./132218-contract-killers.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Contract Revoked: The Lost Chapters | 271237 | [271237-contract-revoked-the-lost-chapters.json](./271237-contract-revoked-the-lost-chapters.json) |
+| Contract Sudoku | 277920 | [277920-contract-sudoku.json](./277920-contract-sudoku.json) |
 | Contract Wars | 77472 | [77472-contract-wars.json](./77472-contract-wars.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
