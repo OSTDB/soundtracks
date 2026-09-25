@@ -3091,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
 | Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
+| Chromata | 256308 | [256308-chromata.json](./256308-chromata.json) |
 | Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
 | Chromatic Battles | 388354 | [388354-chromatic-battles.json](./388354-chromatic-battles.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
@@ -7274,6 +7275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeMator - Mine the MC World | 102203 | [102203-cubemator-mine-the-mc-world.json](./102203-cubemator-mine-the-mc-world.json) |
 | Cubenen Gardens: Kingdom | 417664 | [417664-cubenen-gardens-kingdom.json](./417664-cubenen-gardens-kingdom.json) |
 | Cuber | 254584 | [254584-cuber.json](./254584-cuber.json) |
+| Cuber 2: Ice Age Remake | 256310 | [256310-cuber-2-ice-age-remake.json](./256310-cuber-2-ice-age-remake.json) |
 | Cuber 3: Schmidt | 284357 | [284357-cuber-3-schmidt.json](./284357-cuber-3-schmidt.json) |
 | CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
