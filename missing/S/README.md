@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R: Hunter Scope - Hero's Edition | 387680 | [387680-s-n-i-p-e-r-hunter-scope-heros-edition.json](./387680-s-n-i-p-e-r-hunter-scope-heros-edition.json) |
 | S.N.I.P.E.R. Hunter Scope Silent Assassin | 385175 | [385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json](./385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json) |
 | S.N.I.P.E.R. Hunter Scope Urban Warfare | 385174 | [385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json](./385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json) |
+| S.N.I.P.E.R.: Hunter Scope - Back To School Edition | 263549 | [263549-s-n-i-p-e-r-hunter-scope-back-to-school-edition.json](./263549-s-n-i-p-e-r-hunter-scope-back-to-school-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Collectors Edition | 277894 | [277894-s-n-i-p-e-r-hunter-scope-collectors-edition.json](./277894-s-n-i-p-e-r-hunter-scope-collectors-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Diamond Edition | 271837 | [271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json](./271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json) |
@@ -568,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Sword VR | 27699 | [27699-samurai-sword-vr.json](./27699-samurai-sword-vr.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
 | Samurai vs. Zombies Defense 2 | 127047 | [127047-samurai-vs-zombies-defense-2.json](./127047-samurai-vs-zombies-defense-2.json) |
+| Samurai Warrior | 263464 | [263464-samurai-warrior.json](./263464-samurai-warrior.json) |
 | Samurai Warriors 2 | 7173 | [7173-samurai-warriors-2.json](./7173-samurai-warriors-2.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
 | Samurai Warriors 4 DX | 112910 | [112910-samurai-warriors-4-dx.json](./112910-samurai-warriors-4-dx.json) |
@@ -1654,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
+| SeasonPark | 263440 | [263440-seasonpark.json](./263440-seasonpark.json) |
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
 | Seasons of Courage | 211786 | [211786-seasons-of-courage.json](./211786-seasons-of-courage.json) |
 | Seasons of Solitude | 358366 | [358366-seasons-of-solitude.json](./358366-seasons-of-solitude.json) |
@@ -2019,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selection I & II | 265194 | [265194-selection-i-and-ii.json](./265194-selection-i-and-ii.json) |
 | Selena's Charm 2: Enchanted Garden | 417511 | [417511-selenas-charm-2-enchanted-garden.json](./417511-selenas-charm-2-enchanted-garden.json) |
 | Selene | 337167 | [337167-selene.json](./337167-selene.json) |
+| Selene: Apoptosis - 18+ Adult Only Patch | 263438 | [263438-selene-apoptosis-18-adult-only-patch.json](./263438-selene-apoptosis-18-adult-only-patch.json) |
 | Selene's Nightmare | 153850 | [153850-selenes-nightmare.json](./153850-selenes-nightmare.json) |
 | Self | 118430 | [118430-self.json](./118430-self.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
@@ -3046,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepdogs | 244878 | [244878-sheepdogs.json](./244878-sheepdogs.json) |
 | Sheepers | 315287 | [315287-sheepers.json](./315287-sheepers.json) |
 | Sheepherds! | 334710 | [334710-sheepherds.json](./334710-sheepherds.json) |
+| Sheepish | 263471 | [263471-sheepish.json](./263471-sheepish.json) |
 | Sheepland | 175269 | [175269-sheepland.json](./175269-sheepland.json) |
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
 | Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
@@ -3830,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shy Cats: Hidden Orchestra | 235872 | [235872-shy-cats-hidden-orchestra.json](./235872-shy-cats-hidden-orchestra.json) |
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
 | Shy Dogs: Hidden Orchestra 2 | 407461 | [407461-shy-dogs-hidden-orchestra-2.json](./407461-shy-dogs-hidden-orchestra-2.json) |
+| Shy Dwarf | 263450 | [263450-shy-dwarf.json](./263450-shy-dwarf.json) |
 | Shy Girl | 226198 | [226198-shy-girl.json](./226198-shy-girl.json) |
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
 | Si Da Ming Bu | 93387 | [93387-si-da-ming-bu.json](./93387-si-da-ming-bu.json) |
@@ -6897,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic StrikerZ | 316424 | [316424-sonic-strikerz.json](./316424-sonic-strikerz.json) |
 | Sonic Sundown | 321395 | [321395-sonic-sundown.json](./321395-sonic-sundown.json) |
 | Sonic Sunventure | 270221 | [270221-sonic-sunventure.json](./270221-sonic-sunventure.json) |
+| Sonic Superstars: Digital Deluxe Edition featuring LEGO | 263550 | [263550-sonic-superstars-digital-deluxe-edition-featuring-lego.json](./263550-sonic-superstars-digital-deluxe-edition-featuring-lego.json) |
 | Sonic Superstars: Lego Dr. Eggman | 279744 | [279744-sonic-superstars-lego-dr-eggman.json](./279744-sonic-superstars-lego-dr-eggman.json) |
 | Sonic Superstars: Lego Fun Pack | 279743 | [279743-sonic-superstars-lego-fun-pack.json](./279743-sonic-superstars-lego-fun-pack.json) |
 | Sonic Superstars: Lego Sonic Skin | 275305 | [275305-sonic-superstars-lego-sonic-skin.json](./275305-sonic-superstars-lego-sonic-skin.json) |
@@ -8746,6 +8753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
 | Sport & Fun: Swimming - Director's Cut | 271834 | [271834-sport-and-fun-swimming-directors-cut.json](./271834-sport-and-fun-swimming-directors-cut.json) |
 | Sport & Fun: Swimming - GOTY Edition | 277908 | [277908-sport-and-fun-swimming-goty-edition.json](./277908-sport-and-fun-swimming-goty-edition.json) |
+| Sport & Fun: Swimming - Legendary Edition | 263536 | [263536-sport-and-fun-swimming-legendary-edition.json](./263536-sport-and-fun-swimming-legendary-edition.json) |
 | Sport & Fun: Swimming - Platinum Edition | 268547 | [268547-sport-and-fun-swimming-platinum-edition.json](./268547-sport-and-fun-swimming-platinum-edition.json) |
 | Sport & Fun: Swimming - Superb Edition | 288281 | [288281-sport-and-fun-swimming-superb-edition.json](./288281-sport-and-fun-swimming-superb-edition.json) |
 | Sport & Fun: Swimming - Ultimate Edition | 243370 | [243370-sport-and-fun-swimming-ultimate-edition.json](./243370-sport-and-fun-swimming-ultimate-edition.json) |
@@ -11234,6 +11242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub Chase Online | 211200 | [211200-sub-chase-online.json](./211200-sub-chase-online.json) |
+| Sub Commander | 263472 | [263472-sub-commander.json](./263472-sub-commander.json) |
 | Sub Culture | 50135 | [50135-sub-culture.json](./50135-sub-culture.json) |
 | Sub Duel | 97352 | [97352-sub-duel.json](./97352-sub-duel.json) |
 | Sub Four: The Uncle | 110146 | [110146-sub-four-the-uncle.json](./110146-sub-four-the-uncle.json) |
@@ -11392,6 +11401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku ++ | 102746 | [102746-sudoku.json](./102746-sudoku.json) |
 | Sudoku 10'000 Plus | 71200 | [71200-sudoku-10000-plus.json](./71200-sudoku-10000-plus.json) |
 | Sudoku 16x16 Monster | 99385 | [99385-sudoku-16x16-monster.json](./99385-sudoku-16x16-monster.json) |
+| Sudoku 23 | 263434 | [263434-sudoku-23.json](./263434-sudoku-23.json) |
 | Sudoku 4 Kids | 245580 | [245580-sudoku-4-kids.json](./245580-sudoku-4-kids.json) |
 | Sudoku 4ever Plus | 71199 | [71199-sudoku-4ever-plus.json](./71199-sudoku-4ever-plus.json) |
 | Sudoku 4ever Plus | 71201 | [71201-sudoku-4ever-plus.json](./71201-sudoku-4ever-plus.json) |
@@ -11423,6 +11433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Mania! | 208362 | [208362-sudoku-mania.json](./208362-sudoku-mania.json) |
 | Sudoku Mansion | 414326 | [414326-sudoku-mansion.json](./414326-sudoku-mansion.json) |
 | Sudoku Master | 147968 | [147968-sudoku-master.json](./147968-sudoku-master.json) |
+| Sudoku Master | 263431 | [263431-sudoku-master.json](./263431-sudoku-master.json) |
 | Sudoku Master | 264100 | [264100-sudoku-master.json](./264100-sudoku-master.json) |
 | Sudoku Master | 84914 | [84914-sudoku-master.json](./84914-sudoku-master.json) |
 | Sudoku Master Edition: Logic | 98924 | [98924-sudoku-master-edition-logic.json](./98924-sudoku-master-edition-logic.json) |
@@ -12668,6 +12679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nichibutsu Mahjong 2: Zenkoku Seiha-hen | 37803 | [37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json](./37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json) |
 | Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen | 37802 | [37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json](./37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json) |
 | Super NicoNico Kart | 198462 | [198462-super-niconico-kart.json](./198462-super-niconico-kart.json) |
+| Super Night at the Gates of Hell | 263538 | [263538-super-night-at-the-gates-of-hell.json](./263538-super-night-at-the-gates-of-hell.json) |
 | Super Ninja Hero VR | 31164 | [31164-super-ninja-hero-vr.json](./31164-super-ninja-hero-vr.json) |
 | Super Ninja Noodle Chef | 185598 | [185598-super-ninja-noodle-chef.json](./185598-super-ninja-noodle-chef.json) |
 | Super Ninja Square Attack | 87695 | [87695-super-ninja-square-attack.json](./87695-super-ninja-square-attack.json) |
