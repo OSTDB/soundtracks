@@ -6580,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
+| Moto X | 279698 | [279698-moto-x.json](./279698-moto-x.json) |
 | Moto X Maniac | 66936 | [66936-moto-x-maniac.json](./66936-moto-x-maniac.json) |
 | Moto X3M 2 | 95990 | [95990-moto-x3m-2.json](./95990-moto-x3m-2.json) |
 | Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
@@ -7462,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dearest Direst Disaster | 397803 | [397803-my-dearest-direst-disaster.json](./397803-my-dearest-direst-disaster.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
 | My Destiny Girls | 291091 | [291091-my-destiny-girls.json](./291091-my-destiny-girls.json) |
+| My Devilish Contract | 279670 | [279670-my-devilish-contract.json](./279670-my-devilish-contract.json) |
 | My Diamond Baby | 301416 | [301416-my-diamond-baby.json](./301416-my-diamond-baby.json) |
 | My Direct Damag 7 Trillion | 318422 | [318422-my-direct-damag-7-trillion.json](./318422-my-direct-damag-7-trillion.json) |
 | My Dog! | 310018 | [310018-my-dog.json](./310018-my-dog.json) |
@@ -7628,6 +7630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life: Pet Vet | 220875 | [220875-my-life-pet-vet.json](./220875-my-life-pet-vet.json) |
 | My Lil Afterlife | 347757 | [347757-my-lil-afterlife.json](./347757-my-lil-afterlife.json) |
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
+| My Little Animal Boy | 279673 | [279673-my-little-animal-boy.json](./279673-my-little-animal-boy.json) |
 | My Little Cafe Nightmare | 348334 | [348334-my-little-cafe-nightmare.json](./348334-my-little-cafe-nightmare.json) |
 | My Little Cemetery | 294173 | [294173-my-little-cemetery.json](./294173-my-little-cemetery.json) |
 | My Little Farm | 391620 | [391620-my-little-farm.json](./391620-my-little-farm.json) |
