@@ -4103,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNetHack | 351129 | [351129-dnethack.json](./351129-dnethack.json) |
 | DNF Duel | 142063 | [142063-dnf-duel.json](./142063-dnf-duel.json) |
 | DNF Duel: DLC 2 - Brawler | 265719 | [265719-dnf-duel-dlc-2-brawler.json](./265719-dnf-duel-dlc-2-brawler.json) |
+| DNF Duel: DLC 3 - Battle Mage | 269074 | [269074-dnf-duel-dlc-3-battle-mage.json](./269074-dnf-duel-dlc-3-battle-mage.json) |
 | DNF Duel: Who's Next | 242667 | [242667-dnf-duel-whos-next.json](./242667-dnf-duel-whos-next.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
@@ -5410,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Strongest Warrior | 174895 | [174895-dragon-ball-strongest-warrior.json](./174895-dragon-ball-strongest-warrior.json) |
 | Dragon Ball: The Breakers - Season 6 | 307756 | [307756-dragon-ball-the-breakers-season-6.json](./307756-dragon-ball-the-breakers-season-6.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
+| Dragon Ball: Xenoverse - Season Pass | 269071 | [269071-dragon-ball-xenoverse-season-pass.json](./269071-dragon-ball-xenoverse-season-pass.json) |
 | Dragon Ball: Xenoverse 2 - Conton City Vote Pack | 223592 | [223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json](./223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 1 | 168747 | [168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json](./168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 2 | 168748 | [168748-dragon-ball-xenoverse-2-extra-dlc-pack-2.json](./168748-dragon-ball-xenoverse-2-extra-dlc-pack-2.json) |
