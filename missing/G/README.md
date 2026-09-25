@@ -3478,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimgrad | 199612 | [199612-grimgrad.json](./199612-grimgrad.json) |
 | GrimGrimoire OnceMore | 197949 | [197949-grimgrimoire-oncemore.json](./197949-grimgrimoire-oncemore.json) |
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
+| Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
 | Grimm & Tonic | 109751 | [109751-grimm-and-tonic.json](./109751-grimm-and-tonic.json) |
 | Grimm Meisaku Gekijou Vol. 1: Bremen no Ongakutai | 245314 | [245314-grimm-meisaku-gekijou-vol-1-bremen-no-ongakutai.json](./245314-grimm-meisaku-gekijou-vol-1-bremen-no-ongakutai.json) |
@@ -3734,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians Frontline | 144110 | [144110-guardians-frontline.json](./144110-guardians-frontline.json) |
 | Guardians of Altarris: The Sinless Blade | 322213 | [322213-guardians-of-altarris-the-sinless-blade.json](./322213-guardians-of-altarris-the-sinless-blade.json) |
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
+| Guardians of Eden | 277360 | [277360-guardians-of-eden.json](./277360-guardians-of-eden.json) |
 | Guardians of Ember | 26692 | [26692-guardians-of-ember.json](./26692-guardians-of-ember.json) |
 | Guardians Of Gaia: Guardians 8 | 266321 | [266321-guardians-of-gaia-guardians-8.json](./266321-guardians-of-gaia-guardians-8.json) |
 | Guardians of Greyrock | 151034 | [151034-guardians-of-greyrock.json](./151034-guardians-of-greyrock.json) |
@@ -3775,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Flags: A Fun Quiz | 55136 | [55136-guess-the-flags-a-fun-quiz.json](./55136-guess-the-flags-a-fun-quiz.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
+| Guess the Word | 277341 | [277341-guess-the-word.json](./277341-guess-the-word.json) |
 | Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
 | Guess Who? Fire Emblem: Three Houses Edition! | 176916 | [176916-guess-who-fire-emblem-three-houses-edition.json](./176916-guess-who-fire-emblem-three-houses-edition.json) |
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
