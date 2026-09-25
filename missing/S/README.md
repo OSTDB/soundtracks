@@ -8017,6 +8017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
 | Spaceport Crew | 216884 | [216884-spaceport-crew.json](./216884-spaceport-crew.json) |
 | Spaceport Trading Company | 270152 | [270152-spaceport-trading-company.json](./270152-spaceport-trading-company.json) |
+| Spacepunk Survival | 244188 | [244188-spacepunk-survival.json](./244188-spacepunk-survival.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spacerat Miner | 275659 | [275659-spacerat-miner.json](./275659-spacerat-miner.json) |
 | Spacerift: Arcanum System | 122213 | [122213-spacerift-arcanum-system.json](./122213-spacerift-arcanum-system.json) |
@@ -11721,6 +11722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukashika Shipanman DS | 69212 | [69212-sukashika-shipanman-ds.json](./69212-sukashika-shipanman-ds.json) |
 | Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
 | Sukeban Janshi Ryuuko | 372145 | [372145-sukeban-janshi-ryuuko.json](./372145-sukeban-janshi-ryuuko.json) |
+| Sukebe Office | 244224 | [244224-sukebe-office.json](./244224-sukebe-office.json) |
 | Suki Tokimeki to Kiss | 344006 | [344006-suki-tokimeki-to-kiss.json](./344006-suki-tokimeki-to-kiss.json) |
 | Sukima | 361312 | [361312-sukima.json](./361312-sukima.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
