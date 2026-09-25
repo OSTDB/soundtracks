@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Brickman | 362260 | [362260-kill-the-brickman.json](./362260-kill-the-brickman.json) |
 | Kill The Business | 363937 | [363937-kill-the-business.json](./363937-kill-the-business.json) |
 | Kill The Crows | 253394 | [253394-kill-the-crows.json](./253394-kill-the-crows.json) |
+| Kill the Cute | 244721 | [244721-kill-the-cute.json](./244721-kill-the-cute.json) |
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill the Dragon | 268494 | [268494-kill-the-dragon.json](./268494-kill-the-dragon.json) |
 | Kill The Emoji: The Remake | 127094 | [127094-kill-the-emoji-the-remake.json](./127094-kill-the-emoji-the-remake.json) |
@@ -1248,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
 | King's Quest V: Absence Makes the Heart Go Yonder! | 2238 | [2238-kings-quest-v-absence-makes-the-heart-go-yonder.json](./2238-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Quest: Chapter 5 - The Good Knight | 28065 | [28065-kings-quest-chapter-5-the-good-knight.json](./28065-kings-quest-chapter-5-the-good-knight.json) |
+| King's Recycle | 244737 | [244737-kings-recycle.json](./244737-kings-recycle.json) |
 | King's Son | 255694 | [255694-kings-son.json](./255694-kings-son.json) |
 | King's Table: Hnefatafl | 379892 | [379892-kings-table-hnefatafl.json](./379892-kings-table-hnefatafl.json) |
 | King's Throne: Royal Delights | 208592 | [208592-kings-throne-royal-delights.json](./208592-kings-throne-royal-delights.json) |
@@ -2340,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurohyou: Ryuu ga Gotoku Shinshou | 66611 | [66611-kurohyou-ryuu-ga-gotoku-shinshou.json](./66611-kurohyou-ryuu-ga-gotoku-shinshou.json) |
 | Kuroi Mishin: Sekaikei Girl | 307069 | [307069-kuroi-mishin-sekaikei-girl.json](./307069-kuroi-mishin-sekaikei-girl.json) |
 | Kuroinu 2 Redux | 262080 | [262080-kuroinu-2-redux.json](./262080-kuroinu-2-redux.json) |
+| Kuroinu Redux | 244746 | [244746-kuroinu-redux.json](./244746-kuroinu-redux.json) |
 | Kuroko no Basket: Mirai he no Kizuna | 60492 | [60492-kuroko-no-basket-mirai-he-no-kizuna.json](./60492-kuroko-no-basket-mirai-he-no-kizuna.json) |
 | Kuromaku | 391323 | [391323-kuromaku.json](./391323-kuromaku.json) |
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
