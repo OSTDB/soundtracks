@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Man Sam | 13712 | [13712-fat-man-sam.json](./13712-fat-man-sam.json) |
 | Fat Princess | 19820 | [19820-fat-princess.json](./19820-fat-princess.json) |
 | Fat Princess Adventures | 11199 | [11199-fat-princess-adventures.json](./11199-fat-princess-adventures.json) |
+| Fat Princess: Fat Roles | 276802 | [276802-fat-princess-fat-roles.json](./276802-fat-princess-fat-roles.json) |
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fat Sonic | 330866 | [330866-fat-sonic.json](./330866-fat-sonic.json) |
 | Fat Worm Blows a Sparky | 37075 | [37075-fat-worm-blows-a-sparky.json](./37075-fat-worm-blows-a-sparky.json) |
@@ -4526,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fried Chicken in Wonderland | 158576 | [158576-fried-chicken-in-wonderland.json](./158576-fried-chicken-in-wonderland.json) |
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
 | Frieda is Changing | 357272 | [357272-frieda-is-changing.json](./357272-frieda-is-changing.json) |
+| Friend Hunt | 276777 | [276777-friend-hunt.json](./276777-friend-hunt.json) |
 | Friend Network | 52229 | [52229-friend-network.json](./52229-friend-network.json) |
 | Friendly | 202253 | [202253-friendly.json](./202253-friendly.json) |
 | Friendly Facade | 232528 | [232528-friendly-facade.json](./232528-friendly-facade.json) |
@@ -4551,6 +4553,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendsim 2 | 190164 | [190164-friendsim-2.json](./190164-friendsim-2.json) |
 | Friendsmob | 391590 | [391590-friendsmob.json](./391590-friendsmob.json) |
 | Friendzone | 284427 | [284427-friendzone.json](./284427-friendzone.json) |
+| Friendzoned | 276803 | [276803-friendzoned.json](./276803-friendzoned.json) |
+| Friendzoned 2 | 276805 | [276805-friendzoned-2.json](./276805-friendzoned-2.json) |
+| Friendzoned 3 | 276806 | [276806-friendzoned-3.json](./276806-friendzoned-3.json) |
+| Friendzoned 4 | 276807 | [276807-friendzoned-4.json](./276807-friendzoned-4.json) |
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
 | Fright Fight | 61901 | [61901-fright-fight.json](./61901-fright-fight.json) |
@@ -4606,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Odyssey | 369622 | [369622-frog-odyssey.json](./369622-frog-odyssey.json) |
 | Frog on a Log? | 103159 | [103159-frog-on-a-log.json](./103159-frog-on-a-log.json) |
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
+| Frog Paradise | 276800 | [276800-frog-paradise.json](./276800-frog-paradise.json) |
 | Frog Pond | 342285 | [342285-frog-pond.json](./342285-frog-pond.json) |
 | Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
@@ -5296,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futbolín Revolution | 138020 | [138020-futbolin-revolution.json](./138020-futbolin-revolution.json) |
 | Futebol | 92984 | [92984-futebol.json](./92984-futebol.json) |
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
+| FutSim | 276783 | [276783-futsim.json](./276783-futsim.json) |
 | Futuclass: Hydrogen & Oxygen | 170492 | [170492-futuclass-hydrogen-and-oxygen.json](./170492-futuclass-hydrogen-and-oxygen.json) |
 | Futuclass: Oxygen Escape Room | 170493 | [170493-futuclass-oxygen-escape-room.json](./170493-futuclass-oxygen-escape-room.json) |
 | Futurama Saw Game | 384662 | [384662-futurama-saw-game.json](./384662-futurama-saw-game.json) |
