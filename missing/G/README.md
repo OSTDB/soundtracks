@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
 | Gas Station Simulator: DLC Pack | 267415 | [267415-gas-station-simulator-dlc-pack.json](./267415-gas-station-simulator-dlc-pack.json) |
 | Gas Station Sketch | 131553 | [131553-gas-station-sketch.json](./131553-gas-station-sketch.json) |
+| Gas Station Tycoon | 261835 | [261835-gas-station-tycoon.json](./261835-gas-station-tycoon.json) |
 | Gas Station Weed Simulator 2024 | 323291 | [323291-gas-station-weed-simulator-2024.json](./323291-gas-station-weed-simulator-2024.json) |
 | Gas Station: Car Parking Sim | 89186 | [89186-gas-station-car-parking-sim.json](./89186-gas-station-car-parking-sim.json) |
 | Gas Station: Highway Services | 148001 | [148001-gas-station-highway-services.json](./148001-gas-station-highway-services.json) |
@@ -1555,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Mario Bros. | 198472 | [198472-giant-mario-bros.json](./198472-giant-mario-bros.json) |
 | Giant Rabbit Run | 208973 | [208973-giant-rabbit-run.json](./208973-giant-rabbit-run.json) |
 | Giant Robo: The Animation | 66654 | [66654-giant-robo-the-animation.json](./66654-giant-robo-the-animation.json) |
+| Giant Robot Game | 261762 | [261762-giant-robot-game.json](./261762-giant-robot-game.json) |
 | Giant Rush | 321618 | [321618-giant-rush.json](./321618-giant-rush.json) |
 | Giant Rush: Brave DLC | 324436 | [324436-giant-rush-brave-dlc.json](./324436-giant-rush-brave-dlc.json) |
 | Giant Rush: Cute DLC | 324437 | [324437-giant-rush-cute-dlc.json](./324437-giant-rush-cute-dlc.json) |
