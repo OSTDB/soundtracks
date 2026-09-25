@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenbones | 163844 | [163844-zenbones.json](./163844-zenbones.json) |
 | Zendar | 287155 | [287155-zendar.json](./287155-zendar.json) |
 | Zenerchi | 16075 | [16075-zenerchi.json](./16075-zenerchi.json) |
+| Zenfit | 240183 | [240183-zenfit.json](./240183-zenfit.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
 | Zengoku Juudan Ultra Shinri Game | 37745 | [37745-zengoku-juudan-ultra-shinri-game.json](./37745-zengoku-juudan-ultra-shinri-game.json) |
@@ -873,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoop | 301395 | [301395-zoop.json](./301395-zoop.json) |
 | Zooparasite | 308918 | [308918-zooparasite.json](./308918-zooparasite.json) |
 | Zoor: Majuu Tsukai Densetsu | 3650 | [3650-zoor-majuu-tsukai-densetsu.json](./3650-zoor-majuu-tsukai-densetsu.json) |
+| Zooted | 240184 | [240184-zooted.json](./240184-zooted.json) |
 | Zootto Mahjong! | 37744 | [37744-zootto-mahjong.json](./37744-zootto-mahjong.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
 | Zoria: Age of Shattering - Ancestors' Weapon Pack | 402944 | [402944-zoria-age-of-shattering-ancestors-weapon-pack.json](./402944-zoria-age-of-shattering-ancestors-weapon-pack.json) |
