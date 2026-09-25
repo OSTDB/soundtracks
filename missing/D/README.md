@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City Trouble Nights | 266817 | [266817-dark-city-trouble-nights.json](./266817-dark-city-trouble-nights.json) |
 | Dark City: Amsterdam Collector's Edition | 337180 | [337180-dark-city-amsterdam-collectors-edition.json](./337180-dark-city-amsterdam-collectors-edition.json) |
 | Dark City: Barcelona Collector's Edition | 362832 | [362832-dark-city-barcelona-collectors-edition.json](./362832-dark-city-barcelona-collectors-edition.json) |
+| Dark City: International Intrigue | 244198 | [244198-dark-city-international-intrigue.json](./244198-dark-city-international-intrigue.json) |
 | Dark City: London | 376568 | [376568-dark-city-london.json](./376568-dark-city-london.json) |
 | Dark City: Munich - Collector's Edition | 376578 | [376578-dark-city-munich-collectors-edition.json](./376578-dark-city-munich-collectors-edition.json) |
 | Dark City: Paris Collector's Edition | 190743 | [190743-dark-city-paris-collectors-edition.json](./190743-dark-city-paris-collectors-edition.json) |
@@ -1375,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive: Code Chronos | 205644 | [205644-dead-or-alive-code-chronos.json](./205644-dead-or-alive-code-chronos.json) |
 | Dead or Alive: Dimensions | 1396 | [1396-dead-or-alive-dimensions.json](./1396-dead-or-alive-dimensions.json) |
 | Dead or Love | 260115 | [260115-dead-or-love.json](./260115-dead-or-love.json) |
+| Dead Pedal | 244202 | [244202-dead-pedal.json](./244202-dead-pedal.json) |
 | Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
@@ -1793,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles II: Makai no Merry Christmas | 68011 | [68011-deathsmiles-ii-makai-no-merry-christmas.json](./68011-deathsmiles-ii-makai-no-merry-christmas.json) |
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
 | Deathstate : Abyssal Edition | 124010 | [124010-deathstate-abyssal-edition.json](./124010-deathstate-abyssal-edition.json) |
+| Deathstreak | 244208 | [244208-deathstreak.json](./244208-deathstreak.json) |
 | Deathtide | 232007 | [232007-deathtide.json](./232007-deathtide.json) |
 | DeathTower | 302472 | [302472-deathtower.json](./302472-deathtower.json) |
 | DeathTrack | 50148 | [50148-deathtrack.json](./50148-deathtrack.json) |
@@ -2221,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Driver Service | 302378 | [302378-delivery-driver-service.json](./302378-delivery-driver-service.json) |
 | Delivery Express | 303468 | [303468-delivery-express.json](./303468-delivery-express.json) |
 | Delivery Hot | 351125 | [351125-delivery-hot.json](./351125-delivery-hot.json) |
+| Delivery Impossible | 244191 | [244191-delivery-impossible.json](./244191-delivery-impossible.json) |
 | Delivery INC | 211732 | [211732-delivery-inc.json](./211732-delivery-inc.json) |
 | Delivery INC: Large Cargo | 274759 | [274759-delivery-inc-large-cargo.json](./274759-delivery-inc-large-cargo.json) |
 | Delivery Issues | 369017 | [369017-delivery-issues.json](./369017-delivery-issues.json) |
