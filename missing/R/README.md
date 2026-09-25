@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainchaser | 315623 | [315623-rainchaser.json](./315623-rainchaser.json) |
 | Raincore | 400214 | [400214-raincore.json](./400214-raincore.json) |
 | Raindancer | 125396 | [125396-raindancer.json](./125396-raindancer.json) |
+| Raindrop Sprinters | 259612 | [259612-raindrop-sprinters.json](./259612-raindrop-sprinters.json) |
 | Raindrops | 170468 | [170468-raindrops.json](./170468-raindrops.json) |
 | Rainette | 258476 | [258476-rainette.json](./258476-rainette.json) |
 | Rainforest Adventure | 53491 | [53491-rainforest-adventure.json](./53491-rainforest-adventure.json) |
@@ -3556,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots at Midnight | 276180 | [276180-robots-at-midnight.json](./276180-robots-at-midnight.json) |
 | Robots Coop | 174736 | [174736-robots-coop.json](./174736-robots-coop.json) |
 | Robots Love Ice Cream | 62997 | [62997-robots-love-ice-cream.json](./62997-robots-love-ice-cream.json) |
+| Robots Runner | 259528 | [259528-robots-runner.json](./259528-robots-runner.json) |
 | Robots under attack! | 129608 | [129608-robots-under-attack.json](./129608-robots-under-attack.json) |
 | Robots With Guns | 351808 | [351808-robots-with-guns.json](./351808-robots-with-guns.json) |
 | Robots, Death & Venice | 172127 | [172127-robots-death-and-venice.json](./172127-robots-death-and-venice.json) |
@@ -4439,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Christmas Carnage | 235360 | [235360-roxy-raccoons-pinball-panic-christmas-carnage.json](./235360-roxy-raccoons-pinball-panic-christmas-carnage.json) |
 | Roxy Raccoon's Pinball Panic: Club Crazy | 267689 | [267689-roxy-raccoons-pinball-panic-club-crazy.json](./267689-roxy-raccoons-pinball-panic-club-crazy.json) |
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
+| Roxy Raccoon's Pinball Panic: Medieval Mayhem | 259594 | [259594-roxy-raccoons-pinball-panic-medieval-mayhem.json](./259594-roxy-raccoons-pinball-panic-medieval-mayhem.json) |
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
 | Roxy Raccoon's Pinball Panic: Retro Revival | 289863 | [289863-roxy-raccoons-pinball-panic-retro-revival.json](./289863-roxy-raccoons-pinball-panic-retro-revival.json) |
 | Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
