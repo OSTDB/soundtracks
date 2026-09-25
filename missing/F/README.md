@@ -2499,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish to Dish: Idle Sushi | 344540 | [344540-fish-to-dish-idle-sushi.json](./344540-fish-to-dish-idle-sushi.json) |
 | Fish Tycoon | 29117 | [29117-fish-tycoon.json](./29117-fish-tycoon.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
+| Fish Volleyball | 235178 | [235178-fish-volleyball.json](./235178-fish-volleyball.json) |
 | Fish War | 247024 | [247024-fish-war.json](./247024-fish-war.json) |
 | Fish! | 12101 | [12101-fish.json](./12101-fish.json) |
 | Fishao | 221821 | [221821-fishao.json](./221821-fishao.json) |
@@ -2849,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Helix | 265757 | [265757-flappy-helix.json](./265757-flappy-helix.json) |
 | Flappy Horse | 309373 | [309373-flappy-horse.json](./309373-flappy-horse.json) |
 | Flappy Limited '85 | 47528 | [47528-flappy-limited-85.json](./47528-flappy-limited-85.json) |
+| Flappy Lovers 2 | 235140 | [235140-flappy-lovers-2.json](./235140-flappy-lovers-2.json) |
 | Flappy Meatbag | 23731 | [23731-flappy-meatbag.json](./23731-flappy-meatbag.json) |
 | Flappy Monkey | 325099 | [325099-flappy-monkey.json](./325099-flappy-monkey.json) |
 | Flappy Navalny | 137665 | [137665-flappy-navalny.json](./137665-flappy-navalny.json) |
