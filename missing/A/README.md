@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Garbage Sorting Game | 329705 | [329705-a-simple-garbage-sorting-game.json](./329705-a-simple-garbage-sorting-game.json) |
 | A Simple Platformer | 339915 | [339915-a-simple-platformer.json](./339915-a-simple-platformer.json) |
 | A Simple Shooter | 179578 | [179578-a-simple-shooter.json](./179578-a-simple-shooter.json) |
+| A Simple Square | 236226 | [236226-a-simple-square.json](./236226-a-simple-square.json) |
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Slit of Joy | 195076 | [195076-a-slit-of-joy.json](./195076-a-slit-of-joy.json) |
