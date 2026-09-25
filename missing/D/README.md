@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
+| De'Vot | 258497 | [258497-devot.json](./258497-devot.json) |
 | Dea | 288852 | [288852-dea.json](./288852-dea.json) |
 | Dead | 90624 | [90624-dead.json](./90624-dead.json) |
 | Dead 4 Dress | 135019 | [135019-dead-4-dress.json](./135019-dead-4-dress.json) |
@@ -1468,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
 | Deadeye Deepfake Simulacrum | 156161 | [156161-deadeye-deepfake-simulacrum.json](./156161-deadeye-deepfake-simulacrum.json) |
+| Deadfall | 258427 | [258427-deadfall.json](./258427-deadfall.json) |
 | Deadfall | 270714 | [270714-deadfall.json](./270714-deadfall.json) |
 | Deadfall Adventures | 6961 | [6961-deadfall-adventures.json](./6961-deadfall-adventures.json) |
 | Deadfall Adventures: Deluxe Edition | 52868 | [52868-deadfall-adventures-deluxe-edition.json](./52868-deadfall-adventures-deluxe-edition.json) |
@@ -7062,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Eats Mountain | 390780 | [390780-dwarf-eats-mountain.json](./390780-dwarf-eats-mountain.json) |
 | Dwarf Fortress | 228456 | [228456-dwarf-fortress.json](./228456-dwarf-fortress.json) |
 | Dwarf Guild Mania | 387026 | [387026-dwarf-guild-mania.json](./387026-dwarf-guild-mania.json) |
+| Dwarf Hall | 258432 | [258432-dwarf-hall.json](./258432-dwarf-hall.json) |
 | Dwarf Journey | 144137 | [144137-dwarf-journey.json](./144137-dwarf-journey.json) |
 | Dwarf Land | 284905 | [284905-dwarf-land.json](./284905-dwarf-land.json) |
 | Dwarf Legacy | 338297 | [338297-dwarf-legacy.json](./338297-dwarf-legacy.json) |
