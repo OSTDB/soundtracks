@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
 | Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
 | Adventurezator: When Pigs Fly | 8373 | [8373-adventurezator-when-pigs-fly.json](./8373-adventurezator-when-pigs-fly.json) |
+| Adventuro | 280304 | [280304-adventuro.json](./280304-adventuro.json) |
 | Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
@@ -4569,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena Warrior | 325022 | [325022-arena-warrior.json](./325022-arena-warrior.json) |
 | Arena: Blood on the Sand VR | 29795 | [29795-arena-blood-on-the-sand-vr.json](./29795-arena-blood-on-the-sand-vr.json) |
+| Arena: Gameboy Edition | 280296 | [280296-arena-gameboy-edition.json](./280296-arena-gameboy-edition.json) |
 | Arena: Maze of Death | 19694 | [19694-arena-maze-of-death.json](./19694-arena-maze-of-death.json) |
 | Arena.Xlsm | 125394 | [125394-arena-xlsm.json](./125394-arena-xlsm.json) |
 | Arena66 | 132195 | [132195-arena66.json](./132195-arena66.json) |
@@ -5929,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
 | Augurium Mortis | 304685 | [304685-augurium-mortis.json](./304685-augurium-mortis.json) |
+| Augury Point | 280298 | [280298-augury-point.json](./280298-augury-point.json) |
 | August 31 | 202240 | [202240-august-31.json](./202240-august-31.json) |
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
 | Auld Lang Syne: Cat and Mouse | 305361 | [305361-auld-lang-syne-cat-and-mouse.json](./305361-auld-lang-syne-cat-and-mouse.json) |
