@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Master | 381130 | [381130-adventure-master.json](./381130-adventure-master.json) |
 | Adventure Match | 338910 | [338910-adventure-match.json](./338910-adventure-match.json) |
 | Adventure Math | 94016 | [94016-adventure-math.json](./94016-adventure-math.json) |
+| Adventure Mosaics: Autumn Journey | 246958 | [246958-adventure-mosaics-autumn-journey.json](./246958-adventure-mosaics-autumn-journey.json) |
 | Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
 | Adventure Mosaics: Moto-Trip Africa | 294202 | [294202-adventure-mosaics-moto-trip-africa.json](./294202-adventure-mosaics-moto-trip-africa.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
@@ -3016,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy Online: Lost Eden | 21390 | [21390-anarchy-online-lost-eden.json](./21390-anarchy-online-lost-eden.json) |
 | Anarchy Online: Shadowlands | 598 | [598-anarchy-online-shadowlands.json](./598-anarchy-online-shadowlands.json) |
 | Anarchy Park | 262655 | [262655-anarchy-park.json](./262655-anarchy-park.json) |
+| Anarchy Reigns: Bayonetta Pack | 246899 | [246899-anarchy-reigns-bayonetta-pack.json](./246899-anarchy-reigns-bayonetta-pack.json) |
 | Anarchy Reigns: Limited Edition | 44663 | [44663-anarchy-reigns-limited-edition.json](./44663-anarchy-reigns-limited-edition.json) |
 | Anarchy Zone | 15595 | [15595-anarchy-zone.json](./15595-anarchy-zone.json) |
 | Anarchy: Rush Hour | 44602 | [44602-anarchy-rush-hour.json](./44602-anarchy-rush-hour.json) |
