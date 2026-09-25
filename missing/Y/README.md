@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatzy Ultimate | 175304 | [175304-yatzy-ultimate.json](./175304-yatzy-ultimate.json) |
 | Yavalanche | 389739 | [389739-yavalanche.json](./389739-yavalanche.json) |
 | Yawara!: Yawara no Seishun | 353407 | [353407-yawara-yawara-no-seishun.json](./353407-yawara-yawara-no-seishun.json) |
+| Yay BMO | 268988 | [268988-yay-bmo.json](./268988-yay-bmo.json) |
 | YBit | 65790 | [65790-ybit.json](./65790-ybit.json) |
 | Ye Fenny: Revenge of the Evil Good Shepherd | 81783 | [81783-ye-fenny-revenge-of-the-evil-good-shepherd.json](./81783-ye-fenny-revenge-of-the-evil-good-shepherd.json) |
 | Yeager | 186739 | [186739-yeager.json](./186739-yeager.json) |
