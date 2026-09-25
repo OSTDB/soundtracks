@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahogen | 328053 | [328053-mahogen.json](./328053-mahogen.json) |
 | Mahoroba Stories: Library of Fortune | 146244 | [146244-mahoroba-stories-library-of-fortune.json](./146244-mahoroba-stories-library-of-fortune.json) |
 | Mahou Arms | 96114 | [96114-mahou-arms.json](./96114-mahou-arms.json) |
+| Mahou City | 268524 | [268524-mahou-city.json](./268524-mahou-city.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
 | Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari | 131375 | [131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json](./131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json) |
@@ -1604,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Holiday | 270378 | [270378-marios-holiday.json](./270378-marios-holiday.json) |
 | Mario's House of STHU | 323747 | [323747-marios-house-of-sthu.json](./323747-marios-house-of-sthu.json) |
 | Mario's Keep Co-op | 198473 | [198473-marios-keep-co-op.json](./198473-marios-keep-co-op.json) |
+| Mario's Keytastrophe: Rebirth Edition | 268445 | [268445-marios-keytastrophe-rebirth-edition.json](./268445-marios-keytastrophe-rebirth-edition.json) |
 | Mario's Little Odyssey | 135218 | [135218-marios-little-odyssey.json](./135218-marios-little-odyssey.json) |
 | Mario's Mahalo Party | 324092 | [324092-marios-mahalo-party.json](./324092-marios-mahalo-party.json) |
 | Mario's Mini Micro Adventures | 331311 | [331311-marios-mini-micro-adventures.json](./331311-marios-mini-micro-adventures.json) |
@@ -2926,23 +2928,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
 | Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
 | Mega Man X Alpha | 222928 | [222928-mega-man-x-alpha.json](./222928-mega-man-x-alpha.json) |
+| Mega Man X Alpha Kaizo | 268419 | [268419-mega-man-x-alpha-kaizo.json](./268419-mega-man-x-alpha-kaizo.json) |
 | Mega Man X Collection | 4001 | [4001-mega-man-x-collection.json](./4001-mega-man-x-collection.json) |
 | Mega Man X Dive | 121045 | [121045-mega-man-x-dive.json](./121045-mega-man-x-dive.json) |
 | Mega Man X Dive Offline | 252996 | [252996-mega-man-x-dive-offline.json](./252996-mega-man-x-dive-offline.json) |
 | Mega Man X in Sonic the Hedgehog 2 | 136417 | [136417-mega-man-x-in-sonic-the-hedgehog-2.json](./136417-mega-man-x-in-sonic-the-hedgehog-2.json) |
+| Mega Man X: cadê o chão, Sharivan? | 268420 | [268420-mega-man-x-cade-o-chao-sharivan.json](./268420-mega-man-x-cade-o-chao-sharivan.json) |
 | Mega Man X: Command Mission | 1751 | [1751-mega-man-x-command-mission.json](./1751-mega-man-x-command-mission.json) |
 | Mega Man X: Command Mission | 416112 | [416112-mega-man-x-command-mission.json](./416112-mega-man-x-command-mission.json) |
+| Mega Man X: Hard Edition | 268422 | [268422-mega-man-x-hard-edition.json](./268422-mega-man-x-hard-edition.json) |
+| Mega Man X: Hard-Type | 268429 | [268429-mega-man-x-hard-type.json](./268429-mega-man-x-hard-type.json) |
 | Mega Man X: Legacy Collection | 96252 | [96252-mega-man-x-legacy-collection.json](./96252-mega-man-x-legacy-collection.json) |
 | Mega Man X: Legacy Collection 1+2 | 96248 | [96248-mega-man-x-legacy-collection-1-2.json](./96248-mega-man-x-legacy-collection-1-2.json) |
 | Mega Man X: Project Zero | 376479 | [376479-mega-man-x-project-zero.json](./376479-mega-man-x-project-zero.json) |
 | Mega Man X: Proto Edition | 201859 | [201859-mega-man-x-proto-edition.json](./201859-mega-man-x-proto-edition.json) |
+| Mega Man X: Soft-Type | 268423 | [268423-mega-man-x-soft-type.json](./268423-mega-man-x-soft-type.json) |
+| Mega Man X: Tehe Man X | 268427 | [268427-mega-man-x-tehe-man-x.json](./268427-mega-man-x-tehe-man-x.json) |
 | Mega Man X: The Red Cartridge | 254527 | [254527-mega-man-x-the-red-cartridge.json](./254527-mega-man-x-the-red-cartridge.json) |
 | Mega Man X: Viral Nightmare | 391873 | [391873-mega-man-x-viral-nightmare.json](./391873-mega-man-x-viral-nightmare.json) |
 | Mega Man X: Zero Playable | 235207 | [235207-mega-man-x-zero-playable.json](./235207-mega-man-x-zero-playable.json) |
 | Mega Man X2 Alpha | 222927 | [222927-mega-man-x2-alpha.json](./222927-mega-man-x2-alpha.json) |
 | Mega Man X2: Proto Edition | 219083 | [219083-mega-man-x2-proto-edition.json](./219083-mega-man-x2-proto-edition.json) |
+| Mega Man X2: Ultimate Armor | 268416 | [268416-mega-man-x2-ultimate-armor.json](./268416-mega-man-x2-ultimate-armor.json) |
+| Mega Man X2: Zero Playable | 268417 | [268417-mega-man-x2-zero-playable.json](./268417-mega-man-x2-zero-playable.json) |
 | Mega Man X3 | 282138 | [282138-mega-man-x3.json](./282138-mega-man-x3.json) |
 | Mega Man X3: Proto Edition | 219082 | [219082-mega-man-x3-proto-edition.json](./219082-mega-man-x3-proto-edition.json) |
+| Mega Man X3: Tsuraranoma | 268418 | [268418-mega-man-x3-tsuraranoma.json](./268418-mega-man-x3-tsuraranoma.json) |
 | Mega Man X3: Zero Project | 76204 | [76204-mega-man-x3-zero-project.json](./76204-mega-man-x3-zero-project.json) |
 | Mega Man X5 Improvement Project | 196256 | [196256-mega-man-x5-improvement-project.json](./196256-mega-man-x5-improvement-project.json) |
 | Mega Man X5: Improvement Project Addendum | 308384 | [308384-mega-man-x5-improvement-project-addendum.json](./308384-mega-man-x5-improvement-project-addendum.json) |
@@ -4988,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai Ninja | 38548 | [38548-mirai-ninja.json](./38548-mirai-ninja.json) |
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
 | Mirai Shounen Conan | 42021 | [42021-mirai-shounen-conan.json](./42021-mirai-shounen-conan.json) |
+| Mirai Shounen Conan Digital Library | 268513 | [268513-mirai-shounen-conan-digital-library.json](./268513-mirai-shounen-conan-digital-library.json) |
 | Mirai's Midnight Stream | 351085 | [351085-mirais-midnight-stream.json](./351085-mirais-midnight-stream.json) |
 | Mirai's Midnight Training | 399715 | [399715-mirais-midnight-training.json](./399715-mirais-midnight-training.json) |
 | Miraibo Go | 316770 | [316770-miraibo-go.json](./316770-miraibo-go.json) |
@@ -5534,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
 | Möira | 18289 | [18289-moira.json](./18289-moira.json) |
 | Moira: Fated Twins | 121459 | [121459-moira-fated-twins.json](./121459-moira-fated-twins.json) |
+| Mójiè Qíbīng | 268440 | [268440-mojie-qibing.json](./268440-mojie-qibing.json) |
 | Mojito the Cat: Animals Skins | 298336 | [298336-mojito-the-cat-animals-skins.json](./298336-mojito-the-cat-animals-skins.json) |
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
 | Mojito the Cat: Definitive Edition | 251600 | [251600-mojito-the-cat-definitive-edition.json](./251600-mojito-the-cat-definitive-edition.json) |
@@ -5791,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly: Build A Lot | 210123 | [210123-monopoly-build-a-lot.json](./210123-monopoly-build-a-lot.json) |
 | Monoquous 2 | 326212 | [326212-monoquous-2.json](./326212-monoquous-2.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
+| Monoshiri Jiyuugaku: Ogura Hyakunin Isshu-hen | 268514 | [268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json](./268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json) |
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
 | Monroe Park | 376564 | [376564-monroe-park.json](./376564-monroe-park.json) |
@@ -7285,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Towers | 179690 | [179690-mushroom-towers.json](./179690-mushroom-towers.json) |
 | Mushroom Town | 386441 | [386441-mushroom-town.json](./386441-mushroom-town.json) |
 | Mushroom Wars 2: Episode 3 - Red & Furious | 172155 | [172155-mushroom-wars-2-episode-3-red-and-furious.json](./172155-mushroom-wars-2-episode-3-red-and-furious.json) |
+| Mushroom Wars: Space! | 268502 | [268502-mushroom-wars-space.json](./268502-mushroom-wars-space.json) |
 | Mushroom: The Ruckus | 98994 | [98994-mushroom-the-ruckus.json](./98994-mushroom-the-ruckus.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
