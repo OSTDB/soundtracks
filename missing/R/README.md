@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Racer | 127760 | [127760-rat-racer.json](./127760-rat-racer.json) |
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
 | Rat vs. Cat | 242794 | [242794-rat-vs-cat.json](./242794-rat-vs-cat.json) |
+| Rat Wars Survivors | 281463 | [281463-rat-wars-survivors.json](./281463-rat-wars-survivors.json) |
 | Rat Wrap | 342769 | [342769-rat-wrap.json](./342769-rat-wrap.json) |
 | Rat's Contracts | 357262 | [357262-rats-contracts.json](./357262-rats-contracts.json) |
 | Rat's Lair | 356766 | [356766-rats-lair.json](./356766-rats-lair.json) |
@@ -3395,6 +3396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop Versus the Terminator | 288341 | [288341-robocop-versus-the-terminator.json](./288341-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 44464 | [44464-robocop-versus-the-terminator.json](./44464-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 8195 | [8195-robocop-versus-the-terminator.json](./8195-robocop-versus-the-terminator.json) |
+| Robocop vs. Predator | 281502 | [281502-robocop-vs-predator.json](./281502-robocop-vs-predator.json) |
 | RoboCop: Rogue City - Alex Murphy Edition | 271282 | [271282-robocop-rogue-city-alex-murphy-edition.json](./271282-robocop-rogue-city-alex-murphy-edition.json) |
 | RoboCorps | 58794 | [58794-robocorps.json](./58794-robocorps.json) |
 | Robocraft 2 | 217298 | [217298-robocraft-2.json](./217298-robocraft-2.json) |
