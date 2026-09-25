@@ -2825,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
 | Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
 | Flaming Thunderer | 232946 | [232946-flaming-thunderer.json](./232946-flaming-thunderer.json) |
+| Flamingo Quest | 229635 | [229635-flamingo-quest.json](./229635-flamingo-quest.json) |
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
 | Flanker 2.0 | 708 | [708-flanker-2-0.json](./708-flanker-2-0.json) |
@@ -4327,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracture: City of Destruction | 208444 | [208444-fracture-city-of-destruction.json](./208444-fracture-city-of-destruction.json) |
 | Fractured Alliance | 265588 | [265588-fractured-alliance.json](./265588-fractured-alliance.json) |
 | Fractured Balance | 352290 | [352290-fractured-balance.json](./352290-fractured-balance.json) |
+| Fractured Dreams | 229646 | [229646-fractured-dreams.json](./229646-fractured-dreams.json) |
 | Fractured Fury | 244216 | [244216-fractured-fury.json](./244216-fractured-fury.json) |
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
