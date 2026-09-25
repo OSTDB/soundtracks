@@ -2587,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit My Zoo: Zoo's Puzzle Pack 2 | 308812 | [308812-fit-my-zoo-zoos-puzzle-pack-2.json](./308812-fit-my-zoo-zoos-puzzle-pack-2.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 3 | 308813 | [308813-fit-my-zoo-zoos-puzzle-pack-3.json](./308813-fit-my-zoo-zoos-puzzle-pack-3.json) |
 | Fit Puzzle Blocks: Expansion Pack | 263197 | [263197-fit-puzzle-blocks-expansion-pack.json](./263197-fit-puzzle-blocks-expansion-pack.json) |
+| Fit the Shape! | 267336 | [267336-fit-the-shape.json](./267336-fit-the-shape.json) |
 | Fitba | 68631 | [68631-fitba.json](./68631-fitba.json) |
 | FitForce | 142856 | [142856-fitforce.json](./142856-fitforce.json) |
 | Fitness Boxing | 103371 | [103371-fitness-boxing.json](./103371-fitness-boxing.json) |
