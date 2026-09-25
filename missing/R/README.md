@@ -2521,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rev'd Up Racing | 312195 | [312195-revd-up-racing.json](./312195-revd-up-racing.json) |
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
 | Reveal Fantasia | 112136 | [112136-reveal-fantasia.json](./112136-reveal-fantasia.json) |
+| Reveal that Word! | 241340 | [241340-reveal-that-word.json](./241340-reveal-that-word.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
@@ -3038,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
 | Ringognir 3 | 68336 | [68336-ringognir-3.json](./68336-ringognir-3.json) |
+| RingoWord | 241335 | [241335-ringoword.json](./241335-ringoword.json) |
 | Rings | 179069 | [179069-rings.json](./179069-rings.json) |
 | Rings of Hell | 160217 | [160217-rings-of-hell.json](./160217-rings-of-hell.json) |
 | Rings of Medusa | 14507 | [14507-rings-of-medusa.json](./14507-rings-of-medusa.json) |
@@ -4184,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack | 350638 | [350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json](./350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json) |
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack Bundle | 147803 | [147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json](./147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json) |
 | Romance of the Three Kingdoms XIV: Legend of the Galactic Heroes Collab - Reinhard & Yang | 164500 | [164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json](./164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json) |
+| Romancelvania: Deluxe Edition | 241314 | [241314-romancelvania-deluxe-edition.json](./241314-romancelvania-deluxe-edition.json) |
 | Romancing Flesh | 199074 | [199074-romancing-flesh.json](./199074-romancing-flesh.json) |
 | Romancing SaGa | 11311 | [11311-romancing-saga.json](./11311-romancing-saga.json) |
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
@@ -4504,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Medieval Mayhem | 259594 | [259594-roxy-raccoons-pinball-panic-medieval-mayhem.json](./259594-roxy-raccoons-pinball-panic-medieval-mayhem.json) |
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
 | Roxy Raccoon's Pinball Panic: Retro Revival | 289863 | [289863-roxy-raccoons-pinball-panic-retro-revival.json](./289863-roxy-raccoons-pinball-panic-retro-revival.json) |
+| Roxy Raccoon's Pinball Panic: St. Patrick's Paradise | 241315 | [241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json](./241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json) |
 | Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
 | Roxy Raccoon's Pinball Panic: Thanksgiving Throwdown | 276178 | [276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json](./276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json) |
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
