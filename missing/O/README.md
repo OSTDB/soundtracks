@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oubey VR: Reise der Monaden | 292688 | [292688-oubey-vr-reise-der-monaden.json](./292688-oubey-vr-reise-der-monaden.json) |
 | Oubey VR: Samurai | 292693 | [292693-oubey-vr-samurai.json](./292693-oubey-vr-samurai.json) |
 | Oubliette | 2869 | [2869-oubliette.json](./2869-oubliette.json) |
+| Oubliette Fatalis | 279078 | [279078-oubliette-fatalis.json](./279078-oubliette-fatalis.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
 | Ouchi Mainichi Tamagotchi | 77629 | [77629-ouchi-mainichi-tamagotchi.json](./77629-ouchi-mainichi-tamagotchi.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
