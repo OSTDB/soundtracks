@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastwynne | 370219 | [370219-eastwynne.json](./370219-eastwynne.json) |
 | Easy Ball Game | 316069 | [316069-easy-ball-game.json](./316069-easy-ball-game.json) |
 | Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
+| Easy Game | 232917 | [232917-easy-game.json](./232917-easy-game.json) |
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
 | Easy Jigsaw Puzzle | 377174 | [377174-easy-jigsaw-puzzle.json](./377174-easy-jigsaw-puzzle.json) |
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
@@ -709,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Ministerio del Tiempo VR: El tiempo en tus manos | 72345 | [72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json](./72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json) |
 | El Misterio del Nilo | 104590 | [104590-el-misterio-del-nilo.json](./104590-el-misterio-del-nilo.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
+| El Ne Rue | 232943 | [232943-el-ne-rue.json](./232943-el-ne-rue.json) |
 | El Notas | 414382 | [414382-el-notas.json](./414382-el-notas.json) |
 | El Panadero: The Baker | 239662 | [239662-el-panadero-the-baker.json](./239662-el-panadero-the-baker.json) |
 | El Paso, Elsewhere | 151788 | [151788-el-paso-elsewhere.json](./151788-el-paso-elsewhere.json) |
