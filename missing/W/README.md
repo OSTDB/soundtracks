@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish Upon | 390618 | [390618-wish-upon.json](./390618-wish-upon.json) |
 | Wish Upon a Block | 388707 | [388707-wish-upon-a-block.json](./388707-wish-upon-a-block.json) |
 | Wish Upon a Cat | 356718 | [356718-wish-upon-a-cat.json](./356718-wish-upon-a-cat.json) |
+| Wish Upon a Llama | 258962 | [258962-wish-upon-a-llama.json](./258962-wish-upon-a-llama.json) |
 | Wish You All the Best | 402934 | [402934-wish-you-all-the-best.json](./402934-wish-you-all-the-best.json) |
 | Wish You Happiness | 310043 | [310043-wish-you-happiness.json](./310043-wish-you-happiness.json) |
 | Wishbind | 254578 | [254578-wishbind.json](./254578-wishbind.json) |
