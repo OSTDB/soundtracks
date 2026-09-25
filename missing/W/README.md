@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
+| Western War | 249754 | [249754-western-war.json](./249754-western-war.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
 | Westgrove | 240321 | [240321-westgrove.json](./240321-westgrove.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WhatRogue: Exile Land | 319760 | [319760-whatrogue-exile-land.json](./319760-whatrogue-exile-land.json) |
 | WHC: The Game About Witch Hunter's Moving Castle You've Been So Long Waiting For | 87984 | [87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json](./87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json) |
 | Wheat and Wrath | 400319 | [400319-wheat-and-wrath.json](./400319-wheat-and-wrath.json) |
+| Wheat Fairy of Daya | 249752 | [249752-wheat-fairy-of-daya.json](./249752-wheat-fairy-of-daya.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
@@ -1520,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie City | 338378 | [338378-wheelie-city.json](./338378-wheelie-city.json) |
 | Wheelie King 3D | 104656 | [104656-wheelie-king-3d.json](./104656-wheelie-king-3d.json) |
 | Wheelie King 7 | 338377 | [338377-wheelie-king-7.json](./338377-wheelie-king-7.json) |
+| Wheelie Life | 249720 | [249720-wheelie-life.json](./249720-wheelie-life.json) |
 | Wheelie Life Simulator | 396226 | [396226-wheelie-life-simulator.json](./396226-wheelie-life-simulator.json) |
 | Wheelies | 365104 | [365104-wheelies.json](./365104-wheelies.json) |
 | WheelMates | 387496 | [387496-wheelmates.json](./387496-wheelmates.json) |
@@ -2935,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word to your Sensei | 200123 | [200123-word-to-your-sensei.json](./200123-word-to-your-sensei.json) |
 | Word Tower Puzzle | 330728 | [330728-word-tower-puzzle.json](./330728-word-tower-puzzle.json) |
 | Word Town: New Crossword Games | 101541 | [101541-word-town-new-crossword-games.json](./101541-word-town-new-crossword-games.json) |
+| Word Tracky | 249728 | [249728-word-tracky.json](./249728-word-tracky.json) |
 | Word Trails | 305339 | [305339-word-trails.json](./305339-word-trails.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
