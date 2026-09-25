@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Donkey Kong | 231473 | [231473-ultra-donkey-kong.json](./231473-ultra-donkey-kong.json) |
 | Ultra Dynasty Warriors | 44157 | [44157-ultra-dynasty-warriors.json](./44157-ultra-dynasty-warriors.json) |
 | Ultra Fighters | 95454 | [95454-ultra-fighters.json](./95454-ultra-fighters.json) |
+| Ultra Foodmess 2 | 257905 | [257905-ultra-foodmess-2.json](./257905-ultra-foodmess-2.json) |
 | Ultra Foodmess: Deluxe Edition | 287114 | [287114-ultra-foodmess-deluxe-edition.json](./287114-ultra-foodmess-deluxe-edition.json) |
 | Ultra Frontier QQYYZZ | 387526 | [387526-ultra-frontier-qqyyzz.json](./387526-ultra-frontier-qqyyzz.json) |
 | Ultra Hell | 83272 | [83272-ultra-hell.json](./83272-ultra-hell.json) |
