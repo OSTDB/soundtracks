@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Survivor: Undefeated Blade | 244358 | [244358-samurai-survivor-undefeated-blade.json](./244358-samurai-survivor-undefeated-blade.json) |
 | Samurai Survivors | 244247 | [244247-samurai-survivors.json](./244247-samurai-survivors.json) |
 | Samurai Sword | 47247 | [47247-samurai-sword.json](./47247-samurai-sword.json) |
+| Samurai Sword Stage | 236784 | [236784-samurai-sword-stage.json](./236784-samurai-sword-stage.json) |
 | Samurai Sword VR | 27699 | [27699-samurai-sword-vr.json](./27699-samurai-sword-vr.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
 | Samurai vs. Zombies Defense 2 | 127047 | [127047-samurai-vs-zombies-defense-2.json](./127047-samurai-vs-zombies-defense-2.json) |
@@ -3109,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep in Love | 245017 | [245017-sheep-in-love.json](./245017-sheep-in-love.json) |
 | Sheep In Space | 18561 | [18561-sheep-in-space.json](./18561-sheep-in-space.json) |
 | Sheep Island | 373072 | [373072-sheep-island.json](./373072-sheep-island.json) |
+| Sheep Lad | 236759 | [236759-sheep-lad.json](./236759-sheep-lad.json) |
 | Sheep Launcher 2 | 233524 | [233524-sheep-launcher-2.json](./233524-sheep-launcher-2.json) |
 | Sheep Legion - turn-based tactical RPG game | 174321 | [174321-sheep-legion-turn-based-tactical-rpg-game.json](./174321-sheep-legion-turn-based-tactical-rpg-game.json) |
 | Sheep Love | 157007 | [157007-sheep-love.json](./157007-sheep-love.json) |
@@ -6211,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soap | 360732 | [360732-soap.json](./360732-soap.json) |
 | Soap Killer | 399075 | [399075-soap-killer.json](./399075-soap-killer.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
+| Soar | 236803 | [236803-soar.json](./236803-soar.json) |
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
@@ -11692,6 +11695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Ray Leonard: Talking Boxing | 198930 | [198930-sugar-ray-leonard-talking-boxing.json](./198930-sugar-ray-leonard-talking-boxing.json) |
 | Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
 | Sugar Service | 379590 | [379590-sugar-service.json](./379590-sugar-service.json) |
+| Sugar Shack | 236767 | [236767-sugar-shack.json](./236767-sugar-shack.json) |
 | Sugar Siege | 338270 | [338270-sugar-siege.json](./338270-sugar-siege.json) |
 | Sugar Sling Showdown | 341685 | [341685-sugar-sling-showdown.json](./341685-sugar-sling-showdown.json) |
 | Sugar Story | 190091 | [190091-sugar-story.json](./190091-sugar-story.json) |
@@ -13615,6 +13619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Hill | 187524 | [187524-survive-the-hill.json](./187524-survive-the-hill.json) |
 | Survive the Hunt | 334209 | [334209-survive-the-hunt.json](./334209-survive-the-hunt.json) |
 | Survive the Labyrinth | 343833 | [343833-survive-the-labyrinth.json](./343833-survive-the-labyrinth.json) |
+| Survive the Orcs | 236795 | [236795-survive-the-orcs.json](./236795-survive-the-orcs.json) |
 | Survive the Swarm | 348784 | [348784-survive-the-swarm.json](./348784-survive-the-swarm.json) |
 | Survive the Troll | 219571 | [219571-survive-the-troll.json](./219571-survive-the-troll.json) |
 | Survive The Unknown | 246623 | [246623-survive-the-unknown.json](./246623-survive-the-unknown.json) |
