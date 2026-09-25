@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
 | Maten Densetsu: Senritsu no Ooparts | 37931 | [37931-maten-densetsu-senritsu-no-ooparts.json](./37931-maten-densetsu-senritsu-no-ooparts.json) |
 | Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
+| Materialization of Memories | 248019 | [248019-materialization-of-memories.json](./248019-materialization-of-memories.json) |
 | MaternalBound Redux | 219084 | [219084-maternalbound-redux.json](./219084-maternalbound-redux.json) |
 | MaternalBound: An EarthBound & Mother 2 Bond! | 313344 | [313344-maternalbound-an-earthbound-and-mother-2-bond.json](./313344-maternalbound-an-earthbound-and-mother-2-bond.json) |
 | Math | 139972 | [139972-math.json](./139972-math.json) |
@@ -6486,6 +6487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morse Cod | 182901 | [182901-morse-cod.json](./182901-morse-cod.json) |
 | Morse Shingou de Ai wo Tsutae yo. | 367396 | [367396-morse-shingou-de-ai-wo-tsutae-yo.json](./367396-morse-shingou-de-ai-wo-tsutae-yo.json) |
 | Morse vs. Horse | 344340 | [344340-morse-vs-horse.json](./344340-morse-vs-horse.json) |
+| Mort's Dream Jump | 248010 | [248010-morts-dream-jump.json](./248010-morts-dream-jump.json) |
 | Mortadelo y Filemón II: Safari Callejero | 98975 | [98975-mortadelo-y-filemon-ii-safari-callejero.json](./98975-mortadelo-y-filemon-ii-safari-callejero.json) |
 | Mortadelo y Filemón: Dos Vaqueros Chapuceros | 277923 | [277923-mortadelo-y-filemon-dos-vaqueros-chapuceros.json](./277923-mortadelo-y-filemon-dos-vaqueros-chapuceros.json) |
 | Mortadelo y Filemón: El Escarabajo de Cleopatra | 78038 | [78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json](./78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json) |
@@ -7876,6 +7878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
 | My Moorhen | 282549 | [282549-my-moorhen.json](./282549-my-moorhen.json) |
+| My Motel | 247987 | [247987-my-motel.json](./247987-my-motel.json) |
 | My Mundane Life Is Threatened by the Tropes of an RPG!!! | 256346 | [256346-my-mundane-life-is-threatened-by-the-tropes-of-an-rpg.json](./256346-my-mundane-life-is-threatened-by-the-tropes-of-an-rpg.json) |
 | My Music Label | 402410 | [402410-my-music-label.json](./402410-my-music-label.json) |
 | My Music Oasis | 287204 | [287204-my-music-oasis.json](./287204-my-music-oasis.json) |
