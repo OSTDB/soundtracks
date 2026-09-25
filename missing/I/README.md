@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bunnies 4 | 306437 | [306437-i-commissioned-some-bunnies-4.json](./306437-i-commissioned-some-bunnies-4.json) |
 | I Commissioned Some Bunnies 5 | 306438 | [306438-i-commissioned-some-bunnies-5.json](./306438-i-commissioned-some-bunnies-5.json) |
 | I Commissioned Some Butterflies | 270127 | [270127-i-commissioned-some-butterflies.json](./270127-i-commissioned-some-butterflies.json) |
+| I Commissioned Some Cats | 237295 | [237295-i-commissioned-some-cats.json](./237295-i-commissioned-some-cats.json) |
 | I Commissioned Some Cats 5 | 270126 | [270126-i-commissioned-some-cats-5.json](./270126-i-commissioned-some-cats-5.json) |
 | I Commissioned Some Frogs 2 | 270131 | [270131-i-commissioned-some-frogs-2.json](./270131-i-commissioned-some-frogs-2.json) |
 | I Commissioned Some Invisible People 0 | 292546 | [292546-i-commissioned-some-invisible-people-0.json](./292546-i-commissioned-some-invisible-people-0.json) |
@@ -518,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IDET | 324299 | [324299-idet.json](./324299-idet.json) |
 | IDF-ASD | 195775 | [195775-idf-asd.json](./195775-idf-asd.json) |
 | Idili | 318972 | [318972-idili.json](./318972-idili.json) |
+| Idinaloq | 237300 | [237300-idinaloq.json](./237300-idinaloq.json) |
 | Idiom Royale | 392929 | [392929-idiom-royale.json](./392929-idiom-royale.json) |
 | Idiot | 158656 | [158656-idiot.json](./158656-idiot.json) |
 | Idiot Brain Evolution | 368013 | [368013-idiot-brain-evolution.json](./368013-idiot-brain-evolution.json) |
@@ -1153,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Somnio | 130382 | [130382-in-somnio.json](./130382-in-somnio.json) |
 | In Sound Mind | 121084 | [121084-in-sound-mind.json](./121084-in-sound-mind.json) |
 | In Sound Mind: Deluxe Edition | 146132 | [146132-in-sound-mind-deluxe-edition.json](./146132-in-sound-mind-deluxe-edition.json) |
+| In Space | 237275 | [237275-in-space.json](./237275-in-space.json) |
 | In Style | 276243 | [276243-in-style.json](./276243-in-style.json) |
 | In Sync: 2 Fun Balls | 208028 | [208028-in-sync-2-fun-balls.json](./208028-in-sync-2-fun-balls.json) |
 | In Ten Years | 329151 | [329151-in-ten-years.json](./329151-in-ten-years.json) |
@@ -2542,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Lament | 375990 | [375990-isle-of-lament.json](./375990-isle-of-lament.json) |
 | Isle of Rein | 207397 | [207397-isle-of-rein.json](./207397-isle-of-rein.json) |
 | Isle of Reveries | 311611 | [311611-isle-of-reveries.json](./311611-isle-of-reveries.json) |
+| Isle of Swaps | 237304 | [237304-isle-of-swaps.json](./237304-isle-of-swaps.json) |
 | Isle Vacation | 401124 | [401124-isle-vacation.json](./401124-isle-vacation.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
 | Isles of Sea and Sky | 133013 | [133013-isles-of-sea-and-sky.json](./133013-isles-of-sea-and-sky.json) |
