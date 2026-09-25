@@ -4450,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milkraid | 382749 | [382749-milkraid.json](./382749-milkraid.json) |
 | MilkSnake: Torus Edition | 99573 | [99573-milksnake-torus-edition.json](./99573-milksnake-torus-edition.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
+| Milky Bear: Lunch Frenzy | 250296 | [250296-milky-bear-lunch-frenzy.json](./250296-milky-bear-lunch-frenzy.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Milky Shaky Lab | 282648 | [282648-milky-shaky-lab.json](./282648-milky-shaky-lab.json) |
 | Milky Way Idle | 336018 | [336018-milky-way-idle.json](./336018-milky-way-idle.json) |
@@ -7237,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummy, mummy, mummy! | 165692 | [165692-mummy-mummy-mummy.json](./165692-mummy-mummy-mummy.json) |
 | Mummy's Curse | 24852 | [24852-mummys-curse.json](./24852-mummys-curse.json) |
 | Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
+| Mumu's Soup Adventure | 250314 | [250314-mumus-soup-adventure.json](./250314-mumus-soup-adventure.json) |
 | MuMuMu: Mist of Six Dreams | 312590 | [312590-mumumu-mist-of-six-dreams.json](./312590-mumumu-mist-of-six-dreams.json) |
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Munch Mobile | 40204 | [40204-munch-mobile.json](./40204-munch-mobile.json) |
@@ -7601,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Chemical Romance: Helena | 328268 | [328268-my-chemical-romance-helena.json](./328268-my-chemical-romance-helena.json) |
 | My Chemical Romance: Sweet Revenge!!! | 328267 | [328267-my-chemical-romance-sweet-revenge.json](./328267-my-chemical-romance-sweet-revenge.json) |
 | My Child New Beginnings | 151702 | [151702-my-child-new-beginnings.json](./151702-my-child-new-beginnings.json) |
+| My Child: Lebensborn Remastered | 250280 | [250280-my-child-lebensborn-remastered.json](./250280-my-child-lebensborn-remastered.json) |
 | My Chinese Coach | 94712 | [94712-my-chinese-coach.json](./94712-my-chinese-coach.json) |
 | My Cinema World | 370343 | [370343-my-cinema-world.json](./370343-my-cinema-world.json) |
 | My City | 206767 | [206767-my-city.json](./206767-my-city.json) |
