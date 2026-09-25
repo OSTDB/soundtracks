@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oco | 125845 | [125845-oco.json](./125845-oco.json) |
 | Ocon | 329061 | [329061-ocon.json](./329061-ocon.json) |
 | Ocopoco | 175397 | [175397-ocopoco.json](./175397-ocopoco.json) |
+| Ocraft | 256236 | [256236-ocraft.json](./256236-ocraft.json) |
 | Oct 14 | 341498 | [341498-oct-14.json](./341498-oct-14.json) |
 | Octagon - A Minimal Arcade Game with Maximum Challenge | 91180 | [91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json](./91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json) |
 | Octagon - A Minimal Game with Maximum Challenge | 88290 | [88290-octagon-a-minimal-game-with-maximum-challenge.json](./88290-octagon-a-minimal-game-with-maximum-challenge.json) |
@@ -308,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Life and Land | 188614 | [188614-of-life-and-land.json](./188614-of-life-and-land.json) |
 | Of Me and My Mirror | 380680 | [380680-of-me-and-my-mirror.json](./380680-of-me-and-my-mirror.json) |
 | Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
+| Of Moons and Mania | 256320 | [256320-of-moons-and-mania.json](./256320-of-moons-and-mania.json) |
 | Of Piers & Bays | 397903 | [397903-of-piers-and-bays.json](./397903-of-piers-and-bays.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
 | Of the Devil: Episode 1 | 330913 | [330913-of-the-devil-episode-1.json](./330913-of-the-devil-episode-1.json) |
