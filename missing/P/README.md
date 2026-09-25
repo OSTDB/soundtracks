@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathologic 3 | 319087 | [319087-pathologic-3.json](./319087-pathologic-3.json) |
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
 | Pathological | 74085 | [74085-pathological.json](./74085-pathological.json) |
+| Pathology | 270734 | [270734-pathology.json](./270734-pathology.json) |
 | Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
 | Pathotaxia: Pandora | 399211 | [399211-pathotaxia-pandora.json](./399211-pathotaxia-pandora.json) |
 | PathPix | 62462 | [62462-pathpix.json](./62462-pathpix.json) |
@@ -1702,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Angle | 69321 | [69321-perfect-angle.json](./69321-perfect-angle.json) |
 | Perfect Apocalypse: The Day After | 304128 | [304128-perfect-apocalypse-the-day-after.json](./304128-perfect-apocalypse-the-day-after.json) |
 | Perfect Balance | 186259 | [186259-perfect-balance.json](./186259-perfect-balance.json) |
+| Perfect Bird Pitch | 270650 | [270650-perfect-bird-pitch.json](./270650-perfect-bird-pitch.json) |
 | Perfect Blue | 24149 | [24149-perfect-blue.json](./24149-perfect-blue.json) |
 | Perfect Bowling | 48306 | [48306-perfect-bowling.json](./48306-perfect-bowling.json) |
 | Perfect Boyfriend | 207322 | [207322-perfect-boyfriend.json](./207322-perfect-boyfriend.json) |
@@ -2486,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 Power-Cut | 291552 | [291552-pikmin-2-power-cut.json](./291552-pikmin-2-power-cut.json) |
 | Pikmin 2 Regrown | 299745 | [299745-pikmin-2-regrown.json](./299745-pikmin-2-regrown.json) |
 | Pikmin 2 WorldWide | 313357 | [313357-pikmin-2-worldwide.json](./313357-pikmin-2-worldwide.json) |
+| Pikmin 2: Caveless Edition | 270726 | [270726-pikmin-2-caveless-edition.json](./270726-pikmin-2-caveless-edition.json) |
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
 | Pikmin 3 DX: Caves Reborn | 313484 | [313484-pikmin-3-dx-caves-reborn.json](./313484-pikmin-3-dx-caves-reborn.json) |
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
@@ -3559,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Adventure | 213936 | [213936-platform-adventure.json](./213936-platform-adventure.json) |
 | Platform Anomaly | 373068 | [373068-platform-anomaly.json](./373068-platform-anomaly.json) |
 | Platform Parkour | 83214 | [83214-platform-parkour.json](./83214-platform-parkour.json) |
+| Platform Racing | 270638 | [270638-platform-racing.json](./270638-platform-racing.json) |
 | Platform Roll | 207535 | [207535-platform-roll.json](./207535-platform-roll.json) |
 | Platform Run | 324296 | [324296-platform-run.json](./324296-platform-run.json) |
 | Platform Tower | 249230 | [249230-platform-tower.json](./249230-platform-tower.json) |
@@ -4180,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Quest | 102874 | [102874-pokemon-quest.json](./102874-pokemon-quest.json) |
 | Pokémon R.O.W.E. | 305876 | [305876-pokemon-r-o-w-e.json](./305876-pokemon-r-o-w-e.json) |
 | Pokémon Ranger: Shadows of Almia | 14699 | [14699-pokemon-ranger-shadows-of-almia.json](./14699-pokemon-ranger-shadows-of-almia.json) |
+| Pokémon Re:Union | 270629 | [270629-pokemon-re-union.json](./270629-pokemon-re-union.json) |
 | Pokémon Reborn | 127326 | [127326-pokemon-reborn.json](./127326-pokemon-reborn.json) |
 | Pokémon Recharged Yellow | 308400 | [308400-pokemon-recharged-yellow.json](./308400-pokemon-recharged-yellow.json) |
 | Pokémon Recordkeepers | 376582 | [376582-pokemon-recordkeepers.json](./376582-pokemon-recordkeepers.json) |
