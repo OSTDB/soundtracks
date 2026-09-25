@@ -3694,8 +3694,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman Online | 66610 | [66610-rockman-online.json](./66610-rockman-online.json) |
 | Rockman The Puzzle Battle | 290956 | [290956-rockman-the-puzzle-battle.json](./290956-rockman-the-puzzle-battle.json) |
 | RockMan VII: Showdown of Destiny! | 42550 | [42550-rockman-vii-showdown-of-destiny.json](./42550-rockman-vii-showdown-of-destiny.json) |
+| Rockman X: New Year 2023 | 282079 | [282079-rockman-x-new-year-2023.json](./282079-rockman-x-new-year-2023.json) |
 | Rockman X3 | 256302 | [256302-rockman-x3.json](./256302-rockman-x3.json) |
 | Rockman X3 Buster Battle | 225258 | [225258-rockman-x3-buster-battle.json](./225258-rockman-x3-buster-battle.json) |
+| Rockman X3: New Year 2021 | 282077 | [282077-rockman-x3-new-year-2021.json](./282077-rockman-x3-new-year-2021.json) |
+| Rockman X3: New Year 2022 | 282078 | [282078-rockman-x3-new-year-2022.json](./282078-rockman-x3-new-year-2022.json) |
 | Rockman Xover | 64138 | [64138-rockman-xover.json](./64138-rockman-xover.json) |
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
 | Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
