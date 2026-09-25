@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
 | Random Deck | 341309 | [341309-random-deck.json](./341309-random-deck.json) |
 | Random Dice | 137650 | [137650-random-dice.json](./137650-random-dice.json) |
+| Random Dungeon | 260725 | [260725-random-dungeon.json](./260725-random-dungeon.json) |
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
@@ -765,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
 | Rapid Unplanned Disassembly | 176369 | [176369-rapid-unplanned-disassembly.json](./176369-rapid-unplanned-disassembly.json) |
 | RapidBrogue | 201259 | [201259-rapidbrogue.json](./201259-rapidbrogue.json) |
+| Rapis the Bullet | 260621 | [260621-rapis-the-bullet.json](./260621-rapis-the-bullet.json) |
 | Rapper Life Simulation | 158710 | [158710-rapper-life-simulation.json](./158710-rapper-life-simulation.json) |
 | Rappy Bird | 61873 | [61873-rappy-bird.json](./61873-rappy-bird.json) |
 | Rapta | 315114 | [315114-rapta.json](./315114-rapta.json) |
@@ -4425,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Row of Numbers | 234731 | [234731-row-of-numbers.json](./234731-row-of-numbers.json) |
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
+| Rowtropia | 260628 | [260628-rowtropia.json](./260628-rowtropia.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
 | Roxanne | 382316 | [382316-roxanne.json](./382316-roxanne.json) |
 | Roxy Raccoon | 159290 | [159290-roxy-raccoon.json](./159290-roxy-raccoon.json) |
@@ -4562,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
 | Rubicon Approach | 83944 | [83944-rubicon-approach.json](./83944-rubicon-approach.json) |
+| Rubido | 260714 | [260714-rubido.json](./260714-rubido.json) |
 | Rubik's Cube | 71210 | [71210-rubiks-cube.json](./71210-rubiks-cube.json) |
 | Rubik's Cube 3-D | 40755 | [40755-rubiks-cube-3-d.json](./40755-rubiks-cube-3-d.json) |
 | Rubik's Cube Challenge | 209026 | [209026-rubiks-cube-challenge.json](./209026-rubiks-cube-challenge.json) |
