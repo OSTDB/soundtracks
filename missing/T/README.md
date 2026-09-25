@@ -9456,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokusatsu Bouken Katsugeki Super Hero Retsuden | 58778 | [58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json](./58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json) |
 | Tokusen! | 108996 | [108996-tokusen.json](./108996-tokusen.json) |
 | Tokusou Kidoutai J-SWAT | 54732 | [54732-tokusou-kidoutai-j-swat.json](./54732-tokusou-kidoutai-j-swat.json) |
+| Tokutenryoku Gakushuu DS: Chuugaku Junbi Tokubetsu-hen Shougakkou 4 Kyouka Youten Matome - Chuugaku eigo Sakidori | 269617 | [269617-tokutenryoku-gakushuu-ds-chuugaku-junbi-tokubetsu-hen-shougakkou-4-kyouka-youten-matome-chuugaku-eigo-sakidori.json](./269617-tokutenryoku-gakushuu-ds-chuugaku-junbi-tokubetsu-hen-shougakkou-4-kyouka-youten-matome-chuugaku-eigo-sakidori.json) |
 | Tokyo 23-Ku Seifuku Wars | 61572 | [61572-tokyo-23-ku-seifuku-wars.json](./61572-tokyo-23-ku-seifuku-wars.json) |
 | Tokyo 24-Ku | 165063 | [165063-tokyo-24-ku.json](./165063-tokyo-24-ku.json) |
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
