@@ -2565,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonomatic | 371453 | [371453-nonomatic.json](./371453-nonomatic.json) |
 | Nonozle: Food and Drink + Miscellaneous Puzzle Packs | 332610 | [332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json](./332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json) |
 | Nonsense Fall | 348937 | [348937-nonsense-fall.json](./348937-nonsense-fall.json) |
+| Nonstop Arrow | 246931 | [246931-nonstop-arrow.json](./246931-nonstop-arrow.json) |
 | Nonstop Balls | 87731 | [87731-nonstop-balls.json](./87731-nonstop-balls.json) |
 | Nonstop Game | 208966 | [208966-nonstop-game.json](./208966-nonstop-game.json) |
 | Nonstop Knight | 57367 | [57367-nonstop-knight.json](./57367-nonstop-knight.json) |
