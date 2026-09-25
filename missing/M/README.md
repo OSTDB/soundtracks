@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maddmadd | 381607 | [381607-maddmadd.json](./381607-maddmadd.json) |
 | Made For | 343241 | [343241-made-for.json](./343241-made-for.json) |
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
+| Made in Melostead | 270092 | [270092-made-in-melostead.json](./270092-made-in-melostead.json) |
 | Made in Physics | 184487 | [184487-made-in-physics.json](./184487-made-in-physics.json) |
 | Made in Wired | 271697 | [271697-made-in-wired.json](./271697-made-in-wired.json) |
 | Made Marion | 148518 | [148518-made-marion.json](./148518-made-marion.json) |
@@ -1706,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
 | Mars: War Logs | 1830 | [1830-mars-war-logs.json](./1830-mars-war-logs.json) |
 | Marsel: The Alien Clown | 245920 | [245920-marsel-the-alien-clown.json](./245920-marsel-the-alien-clown.json) |
+| Marsh | 270151 | [270151-marsh.json](./270151-marsh.json) |
 | Marsh Into the New Dimension | 396227 | [396227-marsh-into-the-new-dimension.json](./396227-marsh-into-the-new-dimension.json) |
 | Marshals of War: Orcblood | 408044 | [408044-marshals-of-war-orcblood.json](./408044-marshals-of-war-orcblood.json) |
 | Marshawn Lynch Pro Football | 86858 | [86858-marshawn-lynch-pro-football.json](./86858-marshawn-lynch-pro-football.json) |
@@ -5764,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monomals | 175809 | [175809-monomals.json](./175809-monomals.json) |
 | Mononc's Adventures | 368659 | [368659-mononcs-adventures.json](./368659-mononcs-adventures.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
+| Mononoke no Kuni | 270069 | [270069-mononoke-no-kuni.json](./270069-mononoke-no-kuni.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
 | Monopoly | 186723 | [186723-monopoly.json](./186723-monopoly.json) |
 | Monopoly | 228550 | [228550-monopoly.json](./228550-monopoly.json) |
@@ -6930,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Potato Head Saves Veggie Valley | 61025 | [61025-mr-potato-head-saves-veggie-valley.json](./61025-mr-potato-head-saves-veggie-valley.json) |
 | Mr. President | 332232 | [332232-mr-president.json](./332232-mr-president.json) |
 | Mr. Presidents | 208027 | [208027-mr-presidents.json](./208027-mr-presidents.json) |
+| Mr. Prospector Horiate-kun | 270148 | [270148-mr-prospector-horiate-kun.json](./270148-mr-prospector-horiate-kun.json) |
 | Mr. Pumpkin 2: Kowloon Walled City | 126666 | [126666-mr-pumpkin-2-kowloon-walled-city.json](./126666-mr-pumpkin-2-kowloon-walled-city.json) |
 | Mr. Pumpkin Series Bundle | 173799 | [173799-mr-pumpkin-series-bundle.json](./173799-mr-pumpkin-series-bundle.json) |
 | Mr. Rental: The Video Game | 326592 | [326592-mr-rental-the-video-game.json](./326592-mr-rental-the-video-game.json) |
@@ -7092,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
 | Multitasking Skills Desired | 404448 | [404448-multitasking-skills-desired.json](./404448-multitasking-skills-desired.json) |
+| Multiversal Affairs | 270157 | [270157-multiversal-affairs.json](./270157-multiversal-affairs.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
 | Multiverse Loot Hunter | 292586 | [292586-multiverse-loot-hunter.json](./292586-multiverse-loot-hunter.json) |
 | MultiVersus: Founder's Pack - Deluxe Edition | 212309 | [212309-multiversus-founders-pack-deluxe-edition.json](./212309-multiversus-founders-pack-deluxe-edition.json) |
