@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savior | 121034 | [121034-savior.json](./121034-savior.json) |
 | Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
+| Saviour of the Wasteland | 258959 | [258959-saviour-of-the-wasteland.json](./258959-saviour-of-the-wasteland.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
 | Saw Counter | 347112 | [347112-saw-counter.json](./347112-saw-counter.json) |
 | Saw II: Flesh & Blood | 7177 | [7177-saw-ii-flesh-and-blood.json](./7177-saw-ii-flesh-and-blood.json) |
@@ -1159,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scholastic Animal Genius | 91744 | [91744-scholastic-animal-genius.json](./91744-scholastic-animal-genius.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Booster | 263052 | [263052-school-booster.json](./263052-school-booster.json) |
+| School Bus Driving Simulator | 259031 | [259031-school-bus-driving-simulator.json](./259031-school-bus-driving-simulator.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
 | School Days | 371896 | [371896-school-days.json](./371896-school-days.json) |
@@ -2384,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex and the Furry Titty 3: Come Inside, Sweety | 237075 | [237075-sex-and-the-furry-titty-3-come-inside-sweety.json](./237075-sex-and-the-furry-titty-3-come-inside-sweety.json) |
 | Sex Apocalypse 3D | 219605 | [219605-sex-apocalypse-3d.json](./219605-sex-apocalypse-3d.json) |
 | Sex Battle [Interacademy! NTR Gangbang Game] | 82938 | [82938-sex-battle-interacademy-ntr-gangbang-game.json](./82938-sex-battle-interacademy-ntr-gangbang-game.json) |
+| Sex Campus Story 18+ | 258944 | [258944-sex-campus-story-18.json](./258944-sex-campus-story-18.json) |
 | Sex Care Magical Girl | 82799 | [82799-sex-care-magical-girl.json](./82799-sex-care-magical-girl.json) |
 | Sex City: 2069 | 259087 | [259087-sex-city-2069.json](./259087-sex-city-2069.json) |
 | Sex Clicker | 367030 | [367030-sex-clicker.json](./367030-sex-clicker.json) |
@@ -7827,6 +7830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tail: Every Journey Leads Home - Deluxe Edition | 241400 | [241400-space-tail-every-journey-leads-home-deluxe-edition.json](./241400-space-tail-every-journey-leads-home-deluxe-edition.json) |
 | Space Tail: Homecoming | 230820 | [230820-space-tail-homecoming.json](./230820-space-tail-homecoming.json) |
 | Space Takeover: Over City | 245340 | [245340-space-takeover-over-city.json](./245340-space-takeover-over-city.json) |
+| Space Tales | 259033 | [259033-space-tales.json](./259033-space-tales.json) |
 | Space Tek | 189057 | [189057-space-tek.json](./189057-space-tek.json) |
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
@@ -8014,6 +8018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkour | 34852 | [34852-sparkour.json](./34852-sparkour.json) |
 | Sparkster PC | 265220 | [265220-sparkster-pc.json](./265220-sparkster-pc.json) |
 | Sparkster: Rocket Knight Adventures 2 | 1264 | [1264-sparkster-rocket-knight-adventures-2.json](./1264-sparkster-rocket-knight-adventures-2.json) |
+| Sparky | 258970 | [258970-sparky.json](./258970-sparky.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Sparrow Country | 408157 | [408157-sparrow-country.json](./408157-sparrow-country.json) |
 | Sparrow Shop | 384196 | [384196-sparrow-shop.json](./384196-sparrow-shop.json) |
@@ -10646,6 +10651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
+| Stormbane | 258956 | [258956-stormbane.json](./258956-stormbane.json) |
 | Stormbinders | 336520 | [336520-stormbinders.json](./336520-stormbinders.json) |
 | StormBorn: War of Legends | 83917 | [83917-stormborn-war-of-legends.json](./83917-stormborn-war-of-legends.json) |
 | Stormbound: Kingdom Wars | 70909 | [70909-stormbound-kingdom-wars.json](./70909-stormbound-kingdom-wars.json) |
@@ -11650,6 +11656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Camp | 167865 | [167865-summer-camp.json](./167865-summer-camp.json) |
 | Summer Camp Showdown | 208355 | [208355-summer-camp-showdown.json](./208355-summer-camp-showdown.json) |
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
+| Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Events | 41013 | [41013-summer-events.json](./41013-summer-events.json) |
 | Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
@@ -11845,6 +11852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Sprout | 348460 | [348460-sunset-sprout.json](./348460-sunset-sprout.json) |
 | Sunset Street Ninja | 375943 | [375943-sunset-street-ninja.json](./375943-sunset-street-ninja.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
+| Sunset Survival Station | 258973 | [258973-sunset-survival-station.json](./258973-sunset-survival-station.json) |
 | Sunset Town | 333093 | [333093-sunset-town.json](./333093-sunset-town.json) |
 | Sunset World Online | 188585 | [188585-sunset-world-online.json](./188585-sunset-world-online.json) |
 | Sunshine | 110784 | [110784-sunshine.json](./110784-sunshine.json) |
