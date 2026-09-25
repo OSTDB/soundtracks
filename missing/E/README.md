@@ -2226,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essomenic | 388369 | [388369-essomenic.json](./388369-essomenic.json) |
 | Estadi.ooo | 194414 | [194414-estadi-ooo.json](./194414-estadi-ooo.json) |
 | Estancia Protocol Zero | 405609 | [405609-estancia-protocol-zero.json](./405609-estancia-protocol-zero.json) |
+| Estelaroid: Escape Room | 258417 | [258417-estelaroid-escape-room.json](./258417-estelaroid-escape-room.json) |
 | Estellina | 286080 | [286080-estellina.json](./286080-estellina.json) |
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
 | Estencel | 207327 | [207327-estencel.json](./207327-estencel.json) |
