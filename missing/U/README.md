@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Disbelief | 136869 | [136869-undertale-disbelief.json](./136869-undertale-disbelief.json) |
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Kindred Spirits | 231469 | [231469-undertale-kindred-spirits.json](./231469-undertale-kindred-spirits.json) |
+| Undertale: No More Deals | 279675 | [279675-undertale-no-more-deals.json](./279675-undertale-no-more-deals.json) |
 | Undertale: Remembering the Genocides | 335675 | [335675-undertale-remembering-the-genocides.json](./335675-undertale-remembering-the-genocides.json) |
 | Undertale: Thanatos! | 330251 | [330251-undertale-thanatos.json](./330251-undertale-thanatos.json) |
 | Undertale: The Final Run | 223676 | [223676-undertale-the-final-run.json](./223676-undertale-the-final-run.json) |
