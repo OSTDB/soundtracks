@@ -4108,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Candy Land | 262955 | [262955-hot-candy-land.json](./262955-hot-candy-land.json) |
 | Hot Cleopatra | 221196 | [221196-hot-cleopatra.json](./221196-hot-cleopatra.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
+| Hot Coffe Shop | 236773 | [236773-hot-coffe-shop.json](./236773-hot-coffe-shop.json) |
 | Hot Couture | 313849 | [313849-hot-couture.json](./313849-hot-couture.json) |
 | Hot Date | 18136 | [18136-hot-date.json](./18136-hot-date.json) |
 | Hot Dish 2 | 53202 | [53202-hot-dish-2.json](./53202-hot-dish-2.json) |
