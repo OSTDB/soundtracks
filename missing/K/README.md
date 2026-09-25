@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill to Live | 187405 | [187405-kill-to-live.json](./187405-kill-to-live.json) |
 | Kill your Darlings | 352718 | [352718-kill-your-darlings.json](./352718-kill-your-darlings.json) |
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
+| Kill.Switch | 248588 | [248588-kill-switch.json](./248588-kill-switch.json) |
 | Kill/Cure: Beautiful Vice | 307688 | [307688-kill-cure-beautiful-vice.json](./307688-kill-cure-beautiful-vice.json) |
 | Killa | 264603 | [264603-killa.json](./264603-killa.json) |
 | Killapede | 60247 | [60247-killapede.json](./60247-killapede.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Block Ball | 3728 | [3728-kirbys-block-ball.json](./3728-kirbys-block-ball.json) |
 | Kirby's Dream Collection Special Edition | 84168 | [84168-kirbys-dream-collection-special-edition.json](./84168-kirbys-dream-collection-special-edition.json) |
 | Kirby's Dream Land | 1063 | [1063-kirbys-dream-land.json](./1063-kirbys-dream-land.json) |
+| Kirby's Dream Land 2 DX | 248574 | [248574-kirbys-dream-land-2-dx.json](./248574-kirbys-dream-land-2-dx.json) |
 | Kirby's Dream Land 3 | 3720 | [3720-kirbys-dream-land-3.json](./3720-kirbys-dream-land-3.json) |
 | Kirby's Dream Land DX | 173146 | [173146-kirbys-dream-land-dx.json](./173146-kirbys-dream-land-dx.json) |
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
