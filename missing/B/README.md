@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagitman | 79324 | [79324-bagitman.json](./79324-bagitman.json) |
 | Bagman Comes Back | 185164 | [185164-bagman-comes-back.json](./185164-bagman-comes-back.json) |
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
+| Bahamut and the Waqwaq Tree | 264652 | [264652-bahamut-and-the-waqwaq-tree.json](./264652-bahamut-and-the-waqwaq-tree.json) |
 | Bahamut Disco | 295932 | [295932-bahamut-disco.json](./295932-bahamut-disco.json) |
 | Bahamut Lagoon | 15843 | [15843-bahamut-lagoon.json](./15843-bahamut-lagoon.json) |
 | Bahari | 201306 | [201306-bahari.json](./201306-bahari.json) |
@@ -2351,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellhop | 244860 | [244860-bellhop.json](./244860-bellhop.json) |
 | Belling Coins | 149441 | [149441-belling-coins.json](./149441-belling-coins.json) |
 | Bellini: The Mad Magician | 91447 | [91447-bellini-the-mad-magician.json](./91447-bellini-the-mad-magician.json) |
+| Belloncho Body Inspection | 264657 | [264657-belloncho-body-inspection.json](./264657-belloncho-body-inspection.json) |
 | Bells & Whistles | 39878 | [39878-bells-and-whistles.json](./39878-bells-and-whistles.json) |
 | Bellular Hexatosis | 181793 | [181793-bellular-hexatosis.json](./181793-bellular-hexatosis.json) |
 | Bellum.io | 57347 | [57347-bellum-io.json](./57347-bellum-io.json) |
