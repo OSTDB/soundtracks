@@ -6129,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Observatory Melanie | 250602 | [250602-moon-observatory-melanie.json](./250602-moon-observatory-melanie.json) |
 | Moon Patrol | 12314 | [12314-moon-patrol.json](./12314-moon-patrol.json) |
 | Moon Patrol | 280784 | [280784-moon-patrol.json](./280784-moon-patrol.json) |
+| Moon Patrol | 282070 | [282070-moon-patrol.json](./282070-moon-patrol.json) |
 | Moon Patrol | 287080 | [287080-moon-patrol.json](./287080-moon-patrol.json) |
 | Moon Patrol: The Milky Way Chronicles | 138567 | [138567-moon-patrol-the-milky-way-chronicles.json](./138567-moon-patrol-the-milky-way-chronicles.json) |
 | Moon Princess | 351268 | [351268-moon-princess.json](./351268-moon-princess.json) |
@@ -6890,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mr. Robot and His Robot Factory | 23900 | [23900-mr-robot-and-his-robot-factory.json](./23900-mr-robot-and-his-robot-factory.json) |
 | Mr. Roboto! | 41578 | [41578-mr-roboto.json](./41578-mr-roboto.json) |
+| Mr. Run & Jump + Kombinera Adrenaline | 282054 | [282054-mr-run-and-jump-kombinera-adrenaline.json](./282054-mr-run-and-jump-kombinera-adrenaline.json) |
 | Mr. Run and Jump | 249540 | [249540-mr-run-and-jump.json](./249540-mr-run-and-jump.json) |
 | Mr. Run and Jump 2600 | 280753 | [280753-mr-run-and-jump-2600.json](./280753-mr-run-and-jump-2600.json) |
 | Mr. Runner | 246474 | [246474-mr-runner.json](./246474-mr-runner.json) |
