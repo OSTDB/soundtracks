@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Boy | 228573 | [228573-kanji-boy.json](./228573-kanji-boy.json) |
 | Kanji Boy 2 | 228574 | [228574-kanji-boy-2.json](./228574-kanji-boy-2.json) |
 | Kanji de Go! | 323962 | [323962-kanji-de-go.json](./323962-kanji-de-go.json) |
+| Kanji Kitchen: Learn Japanese | 266760 | [266760-kanji-kitchen-learn-japanese.json](./266760-kanji-kitchen-learn-japanese.json) |
 | Kanji no Owari! | 56450 | [56450-kanji-no-owari.json](./56450-kanji-no-owari.json) |
 | Kanji Searcher | 151710 | [151710-kanji-searcher.json](./151710-kanji-searcher.json) |
 | Kanji Swipe: Sliding Puzzle | 174293 | [174293-kanji-swipe-sliding-puzzle.json](./174293-kanji-swipe-sliding-puzzle.json) |
@@ -611,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kegani Friends | 297581 | [297581-kegani-friends.json](./297581-kegani-friends.json) |
 | Keiba Eight Special | 37966 | [37966-keiba-eight-special.json](./37966-keiba-eight-special.json) |
 | Keiba Eight Special 2 | 37965 | [37965-keiba-eight-special-2.json](./37965-keiba-eight-special-2.json) |
+| Keiba Saishou no Housoku | 268508 | [268508-keiba-saishou-no-housoku.json](./268508-keiba-saishou-no-housoku.json) |
 | Keiba Yosou Baken Renkinjutsu | 37970 | [37970-keiba-yosou-baken-renkinjutsu.json](./37970-keiba-yosou-baken-renkinjutsu.json) |
 | Keibatsuu Portable | 56767 | [56767-keibatsuu-portable.json](./56767-keibatsuu-portable.json) |
 | Keibatsuu Portable 2 | 56769 | [56769-keibatsuu-portable-2.json](./56769-keibatsuu-portable-2.json) |
@@ -2386,5 +2388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyuukyoku Harikiri Stadium: Heisei Gannen-ban | 48635 | [48635-kyuukyoku-harikiri-stadium-heisei-gannen-ban.json](./48635-kyuukyoku-harikiri-stadium-heisei-gannen-ban.json) |
 | Kyuukyoku Sentai Dadandarn | 40219 | [40219-kyuukyoku-sentai-dadandarn.json](./40219-kyuukyoku-sentai-dadandarn.json) |
 | Kyuukyoku Tiger II Plus | 66146 | [66146-kyuukyoku-tiger-ii-plus.json](./66146-kyuukyoku-tiger-ii-plus.json) |
+| Kyuusei Senjutsu Niyoru Heisei Kaiun Koyomi | 268510 | [268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json](./268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json) |
 | Kyvir: Rebirth | 144996 | [144996-kyvir-rebirth.json](./144996-kyvir-rebirth.json) |
 | Kyvos | 370693 | [370693-kyvos.json](./370693-kyvos.json) |
