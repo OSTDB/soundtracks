@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
 | Dale & Dawson Stationery Supplies | 296326 | [296326-dale-and-dawson-stationery-supplies.json](./296326-dale-and-dawson-stationery-supplies.json) |
+| Dale and Peakot | 270736 | [270736-dale-and-peakot.json](./270736-dale-and-peakot.json) |
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
 | Daley Thompson's Decathlon | 13564 | [13564-daley-thompsons-decathlon.json](./13564-daley-thompsons-decathlon.json) |
 | Dali | 409075 | [409075-dali.json](./409075-dali.json) |
@@ -1455,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
 | Deadeye Deepfake Simulacrum | 156161 | [156161-deadeye-deepfake-simulacrum.json](./156161-deadeye-deepfake-simulacrum.json) |
+| Deadfall | 270714 | [270714-deadfall.json](./270714-deadfall.json) |
 | Deadfall Adventures | 6961 | [6961-deadfall-adventures.json](./6961-deadfall-adventures.json) |
 | Deadfall Adventures: Deluxe Edition | 52868 | [52868-deadfall-adventures-deluxe-edition.json](./52868-deadfall-adventures-deluxe-edition.json) |
 | Deadfall Adventures: Heart of Atlantis | 52182 | [52182-deadfall-adventures-heart-of-atlantis.json](./52182-deadfall-adventures-heart-of-atlantis.json) |
@@ -2225,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Hummer Jevil | 352215 | [352215-deltarune-hummer-jevil.json](./352215-deltarune-hummer-jevil.json) |
 | Deltarune: Internal Demons | 330253 | [330253-deltarune-internal-demons.json](./330253-deltarune-internal-demons.json) |
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
+| Deltarune: Rouxls Kaard | 270732 | [270732-deltarune-rouxls-kaard.json](./270732-deltarune-rouxls-kaard.json) |
 | Deltarune: Survey Program | 397081 | [397081-deltarune-survey-program.json](./397081-deltarune-survey-program.json) |
 | Deltarune: The Upper Hand | 329669 | [329669-deltarune-the-upper-hand.json](./329669-deltarune-the-upper-hand.json) |
 | Deltatale | 318535 | [318535-deltatale.json](./318535-deltatale.json) |
@@ -2282,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Girl | 26570 | [26570-demolition-girl.json](./26570-demolition-girl.json) |
 | Demolition Inc.: Level & Weapon | 238632 | [238632-demolition-inc-level-and-weapon.json](./238632-demolition-inc-level-and-weapon.json) |
 | Demolition Physics | 90510 | [90510-demolition-physics.json](./90510-demolition-physics.json) |
+| Demolition Plant | 270710 | [270710-demolition-plant.json](./270710-demolition-plant.json) |
 | Demolition Race | 192974 | [192974-demolition-race.json](./192974-demolition-race.json) |
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
@@ -2724,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Fantasia | 197756 | [197756-destiny-fantasia.json](./197756-destiny-fantasia.json) |
 | Destiny Is Dice | 368043 | [368043-destiny-is-dice.json](./368043-destiny-is-dice.json) |
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
+| Destiny Maiden | 270649 | [270649-destiny-maiden.json](./270649-destiny-maiden.json) |
 | Destiny of Altrais | 103427 | [103427-destiny-of-altrais.json](./103427-destiny-of-altrais.json) |
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
 | Destiny of Heroes | 303008 | [303008-destiny-of-heroes.json](./303008-destiny-of-heroes.json) |
@@ -3282,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digi Fighters | 392428 | [392428-digi-fighters.json](./392428-digi-fighters.json) |
 | Digi Pool | 70341 | [70341-digi-pool.json](./70341-digi-pool.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
+| Digimon 20th Anniversary Digivice | 270626 | [270626-digimon-20th-anniversary-digivice.json](./270626-digimon-20th-anniversary-digivice.json) |
 | Digimon All-Star Rumble | 9286 | [9286-digimon-all-star-rumble.json](./9286-digimon-all-star-rumble.json) |
 | Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
 | Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
@@ -3411,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Simulator: Horror Story | 326200 | [326200-diner-simulator-horror-story.json](./326200-diner-simulator-horror-story.json) |
 | Ding Dong Dang | 302470 | [302470-ding-dong-dang.json](./302470-ding-dong-dang.json) |
 | Ding Dong Pitch | 379555 | [379555-ding-dong-pitch.json](./379555-ding-dong-pitch.json) |
+| Ding! MONO | 270634 | [270634-ding-mono.json](./270634-ding-mono.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
 | Dink Smallwood HD | 272807 | [272807-dink-smallwood-hd.json](./272807-dink-smallwood-hd.json) |
