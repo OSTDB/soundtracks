@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeverGone | 39003 | [39003-nevergone.json](./39003-nevergone.json) |
 | Nevergrind | 60487 | [60487-nevergrind.json](./60487-nevergrind.json) |
 | Nevergrind Online | 164904 | [164904-nevergrind-online.json](./164904-nevergrind-online.json) |
+| NeverHome: Hall of Apathy | 248009 | [248009-neverhome-hall-of-apathy.json](./248009-neverhome-hall-of-apathy.json) |
 | NeverHome: Tower of Vanity | 349838 | [349838-neverhome-tower-of-vanity.json](./349838-neverhome-tower-of-vanity.json) |
 | Neverinth: The Never Ending Labyrinth | 117493 | [117493-neverinth-the-never-ending-labyrinth.json](./117493-neverinth-the-never-ending-labyrinth.json) |
 | Neverland | 216990 | [216990-neverland.json](./216990-neverland.json) |
@@ -1953,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Witches: Family Disruption | 112201 | [112201-nine-witches-family-disruption.json](./112201-nine-witches-family-disruption.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
 | Nine-Ball Roulette | 325672 | [325672-nine-ball-roulette.json](./325672-nine-ball-roulette.json) |
+| Nine-Tailed Okitsune Tale | 248023 | [248023-nine-tailed-okitsune-tale.json](./248023-nine-tailed-okitsune-tale.json) |
 | NineLives | 273449 | [273449-ninelives.json](./273449-ninelives.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
 | Nineteen: 19 | 413046 | [413046-nineteen-19.json](./413046-nineteen-19.json) |
