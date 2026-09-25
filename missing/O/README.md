@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onironautilus: Uncolored | 398351 | [398351-onironautilus-uncolored.json](./398351-onironautilus-uncolored.json) |
 | Onitama | 183438 | [183438-onitama.json](./183438-onitama.json) |
 | Oniwaki Village | 331881 | [331881-oniwaki-village.json](./331881-oniwaki-village.json) |
+| Onka | 257317 | [257317-onka.json](./257317-onka.json) |
 | Online Artillery 2 | 58748 | [58748-online-artillery-2.json](./58748-online-artillery-2.json) |
 | Online Chess Kingdoms | 93388 | [93388-online-chess-kingdoms.json](./93388-online-chess-kingdoms.json) |
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
@@ -1205,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Animals | 374151 | [374151-only-animals.json](./374151-only-animals.json) |
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
 | Only Ban! | 258699 | [258699-only-ban.json](./258699-only-ban.json) |
+| Only Climb: Better Together | 257316 | [257316-only-climb-better-together.json](./257316-only-climb-better-together.json) |
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
 | Only Cum! | 259282 | [259282-only-cum.json](./259282-only-cum.json) |
 | Only Down | 259592 | [259592-only-down.json](./259592-only-down.json) |
@@ -1817,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otto the Odd Ostrich | 67934 | [67934-otto-the-odd-ostrich.json](./67934-otto-the-odd-ostrich.json) |
 | Otto's Magic Blocks | 208926 | [208926-ottos-magic-blocks.json](./208926-ottos-magic-blocks.json) |
 | Otto's Ottifanten: Kommando Stortebeker | 50559 | [50559-ottos-ottifanten-kommando-stortebeker.json](./50559-ottos-ottifanten-kommando-stortebeker.json) |
+| Ottomax | 257346 | [257346-ottomax.json](./257346-ottomax.json) |
 | Ottopunk | 181858 | [181858-ottopunk.json](./181858-ottopunk.json) |
 | Ottopunks: Gangs of Bosphorus | 250943 | [250943-ottopunks-gangs-of-bosphorus.json](./250943-ottopunks-gangs-of-bosphorus.json) |
 | OTurret | 273434 | [273434-oturret.json](./273434-oturret.json) |
@@ -1905,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Control: Space Survival Bundle: Ctrl Alt Ego + Tin Can: Supporter Edition | 331483 | [331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json](./331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json) |
 | Out of Ctrl | 177519 | [177519-out-of-ctrl.json](./177519-out-of-ctrl.json) |
 | Out of Frame | 141886 | [141886-out-of-frame.json](./141886-out-of-frame.json) |
+| Out of Fuel | 257358 | [257358-out-of-fuel.json](./257358-out-of-fuel.json) |
 | Out of Galaxy: Gin no Koushika | 408871 | [408871-out-of-galaxy-gin-no-koushika.json](./408871-out-of-galaxy-gin-no-koushika.json) |
 | Out of Gas | 288325 | [288325-out-of-gas.json](./288325-out-of-gas.json) |
 | Out of Hand: Deluxe | 330138 | [330138-out-of-hand-deluxe.json](./330138-out-of-hand-deluxe.json) |
