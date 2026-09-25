@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 3 | 257645 | [257645-daymare-town-3.json](./257645-daymare-town-3.json) |
 | Daymare Town 4 | 257646 | [257646-daymare-town-4.json](./257646-daymare-town-4.json) |
 | Daymare Town 4 | 62702 | [62702-daymare-town-4.json](./62702-daymare-town-4.json) |
+| Daymare: 1994 Sandcastle - Limited Edition | 277376 | [277376-daymare-1994-sandcastle-limited-edition.json](./277376-daymare-1994-sandcastle-limited-edition.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
 | Days Gone: Special Edition | 117508 | [117508-days-gone-special-edition.json](./117508-days-gone-special-edition.json) |
@@ -2917,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
 | Devil's Food | 301952 | [301952-devils-food.json](./301952-devils-food.json) |
 | Devil's Gold | 166056 | [166056-devils-gold.json](./166056-devils-gold.json) |
+| Devil's Heaven | 277377 | [277377-devils-heaven.json](./277377-devils-heaven.json) |
 | Devil's Hideout | 285016 | [285016-devils-hideout.json](./285016-devils-hideout.json) |
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
 | Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
@@ -6401,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck, Quack, Shoot! | 287665 | [287665-duck-quack-shoot.json](./287665-duck-quack-shoot.json) |
 | Duck's Despair | 249817 | [249817-ducks-despair.json](./249817-ducks-despair.json) |
 | Duck's Island | 399716 | [399716-ducks-island.json](./399716-ducks-island.json) |
+| Duck's Most Terrible Day | 277336 | [277336-ducks-most-terrible-day.json](./277336-ducks-most-terrible-day.json) |
 | Duckball: Glorious Ducks | 133987 | [133987-duckball-glorious-ducks.json](./133987-duckball-glorious-ducks.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
 | Duckpocalypse | 31767 | [31767-duckpocalypse.json](./31767-duckpocalypse.json) |
