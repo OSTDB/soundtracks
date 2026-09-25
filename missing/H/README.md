@@ -3667,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honoo no Ryourijin: Cooking Fighter Hao | 70338 | [70338-honoo-no-ryourijin-cooking-fighter-hao.json](./70338-honoo-no-ryourijin-cooking-fighter-hao.json) |
 | Honoo no Takkyubin | 138839 | [138839-honoo-no-takkyubin.json](./138839-honoo-no-takkyubin.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 267660 | [267660-honoo-no-toukyuuji-dodge-danpei.json](./267660-honoo-no-toukyuuji-dodge-danpei.json) |
+| Honoo no Toukyuuji: Dodge Danpei | 272812 | [272812-honoo-no-toukyuuji-dodge-danpei.json](./272812-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 42053 | [42053-honoo-no-toukyuuji-dodge-danpei.json](./42053-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honor Battle | 303565 | [303565-honor-battle.json](./303565-honor-battle.json) |
 | Honor in Vengeance | 66108 | [66108-honor-in-vengeance.json](./66108-honor-in-vengeance.json) |
