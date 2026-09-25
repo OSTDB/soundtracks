@@ -1178,6 +1178,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neutrois | 183580 | [183580-neutrois.json](./183580-neutrois.json) |
 | Neutron and the Tri-Spark | 166635 | [166635-neutron-and-the-tri-spark.json](./166635-neutron-and-the-tri-spark.json) |
 | Neutron Star | 41562 | [41562-neutron-star.json](./41562-neutron-star.json) |
+| Nev It Up | 240153 | [240153-nev-it-up.json](./240153-nev-it-up.json) |
+| Nev vs. Bouncer Boy | 240152 | [240152-nev-vs-bouncer-boy.json](./240152-nev-vs-bouncer-boy.json) |
 | Nev's Jam Buster | 235337 | [235337-nevs-jam-buster.json](./235337-nevs-jam-buster.json) |
 | Never | 262997 | [262997-never.json](./262997-never.json) |
 | Never / Together | 402908 | [402908-never-together.json](./402908-never-together.json) |
@@ -2009,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden 3 | 7122 | [7122-ninja-gaiden-3.json](./7122-ninja-gaiden-3.json) |
 | Ninja Gaiden 3: Razor's Edge | 5317 | [5317-ninja-gaiden-3-razors-edge.json](./5317-ninja-gaiden-3-razors-edge.json) |
 | Ninja Gaiden 3DS | 269572 | [269572-ninja-gaiden-3ds.json](./269572-ninja-gaiden-3ds.json) |
+| Ninja Gaiden II: The Dark Sword of Chaos | 240143 | [240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden III: The Ancient Ship of Doom | 17249 | [17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Ninja Gaiden Sigma 2 | 7385 | [7385-ninja-gaiden-sigma-2.json](./7385-ninja-gaiden-sigma-2.json) |
 | Ninja Gaiden Sigma 2: Collector's Edition | 44657 | [44657-ninja-gaiden-sigma-2-collectors-edition.json](./44657-ninja-gaiden-sigma-2-collectors-edition.json) |
