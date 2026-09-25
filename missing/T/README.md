@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Symphonia | 221716 | [221716-tales-of-symphonia.json](./221716-tales-of-symphonia.json) |
 | Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
+| Tales of Terrabanthis | 237301 | [237301-tales-of-terrabanthis.json](./237301-tales-of-terrabanthis.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of Terror: House on the Hill - Collector's Edition | 74351 | [74351-tales-of-terror-house-on-the-hill-collectors-edition.json](./74351-tales-of-terror-house-on-the-hill-collectors-edition.json) |
 | Tales of the Abyss | 20972 | [20972-tales-of-the-abyss.json](./20972-tales-of-the-abyss.json) |
@@ -1938,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Your Mind | 85432 | [85432-test-your-mind.json](./85432-test-your-mind.json) |
 | Test_project | 390815 | [390815-test-project.json](./390815-test-project.json) |
 | Test: The Game | 298847 | [298847-test-the-game.json](./298847-test-the-game.json) |
+| Testament | 237303 | [237303-testament.json](./237303-testament.json) |
 | Testbed Terror | 50541 | [50541-testbed-terror.json](./50541-testbed-terror.json) |
 | Tested With Robots! | 85433 | [85433-tested-with-robots.json](./85433-tested-with-robots.json) |
 | Tester | 397704 | [397704-tester.json](./397704-tester.json) |
@@ -3493,13 +3495,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls IV: Oblivion Mobile | 209010 | [209010-the-elder-scrolls-iv-oblivion-mobile.json](./209010-the-elder-scrolls-iv-oblivion-mobile.json) |
 | The Elder Scrolls Online Collection: Gold Road | 306484 | [306484-the-elder-scrolls-online-collection-gold-road.json](./306484-the-elder-scrolls-online-collection-gold-road.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
+| The Elder Scrolls Online: Ascending Tide | 237337 | [237337-the-elder-scrolls-online-ascending-tide.json](./237337-the-elder-scrolls-online-ascending-tide.json) |
 | The Elder Scrolls Online: Blackwood | 143024 | [143024-the-elder-scrolls-online-blackwood.json](./143024-the-elder-scrolls-online-blackwood.json) |
 | The Elder Scrolls Online: Blackwood Collection | 146127 | [146127-the-elder-scrolls-online-blackwood-collection.json](./146127-the-elder-scrolls-online-blackwood-collection.json) |
 | The Elder Scrolls Online: Clockwork City | 237335 | [237335-the-elder-scrolls-online-clockwork-city.json](./237335-the-elder-scrolls-online-clockwork-city.json) |
 | The Elder Scrolls Online: Deluxe Collection - Gold Road | 306481 | [306481-the-elder-scrolls-online-deluxe-collection-gold-road.json](./306481-the-elder-scrolls-online-deluxe-collection-gold-road.json) |
 | The Elder Scrolls Online: Feast of Shadows | 361156 | [361156-the-elder-scrolls-online-feast-of-shadows.json](./361156-the-elder-scrolls-online-feast-of-shadows.json) |
+| The Elder Scrolls Online: Firesong | 237340 | [237340-the-elder-scrolls-online-firesong.json](./237340-the-elder-scrolls-online-firesong.json) |
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
+| The Elder Scrolls Online: Lost Depths | 237338 | [237338-the-elder-scrolls-online-lost-depths.json](./237338-the-elder-scrolls-online-lost-depths.json) |
+| The Elder Scrolls Online: Markarth | 237336 | [237336-the-elder-scrolls-online-markarth.json](./237336-the-elder-scrolls-online-markarth.json) |
 | The Elder Scrolls Online: Season One - Return of the Thieves Guild | 405082 | [405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json](./405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json) |
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
 | The Elder Scrolls Online: Summerset - Collector's Editions | 96024 | [96024-the-elder-scrolls-online-summerset-collectors-editions.json](./96024-the-elder-scrolls-online-summerset-collectors-editions.json) |
@@ -5036,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Skyward Sword Randomizer | 241895 | [241895-the-legend-of-zelda-skyward-sword-randomizer.json](./241895-the-legend-of-zelda-skyward-sword-randomizer.json) |
 | The Legend of Zelda: Specter's Oculus | 323365 | [323365-the-legend-of-zelda-specters-oculus.json](./323365-the-legend-of-zelda-specters-oculus.json) |
 | The Legend of Zelda: Spirit Tracks | 1038 | [1038-the-legend-of-zelda-spirit-tracks.json](./1038-the-legend-of-zelda-spirit-tracks.json) |
+| The Legend of Zelda: Tears of the Kingdom - Collector's Edition | 237289 | [237289-the-legend-of-zelda-tears-of-the-kingdom-collectors-edition.json](./237289-the-legend-of-zelda-tears-of-the-kingdom-collectors-edition.json) |
 | The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition | 338073 | [338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json](./338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json) |
 | The Legend of Zelda: Tears of the Kingdom Online | 357440 | [357440-the-legend-of-zelda-tears-of-the-kingdom-online.json](./357440-the-legend-of-zelda-tears-of-the-kingdom-online.json) |
 | The Legend of Zelda: Tears of the Kingdom Randomizer | 256282 | [256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json](./256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json) |
