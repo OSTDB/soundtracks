@@ -4494,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car Driver: City Parking Simulator | 283237 | [283237-police-car-driver-city-parking-simulator.json](./283237-police-car-driver-city-parking-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
+| Police Car: Gangster Chase | 233471 | [233471-police-car-gangster-chase.json](./233471-police-car-gangster-chase.json) |
 | Police Chase | 157550 | [157550-police-chase.json](./157550-police-chase.json) |
 | Police Chase Crime: Racing Car | 107672 | [107672-police-chase-crime-racing-car.json](./107672-police-chase-crime-racing-car.json) |
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
@@ -4784,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Star Dress Up - Music Idol Girl | 101571 | [101571-pop-star-dress-up-music-idol-girl.json](./101571-pop-star-dress-up-music-idol-girl.json) |
 | Pop Star Makeover | 99995 | [99995-pop-star-makeover.json](./99995-pop-star-makeover.json) |
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
+| Pop the Jewel | 233435 | [233435-pop-the-jewel.json](./233435-pop-the-jewel.json) |
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
 | Pop Up Computer | 285034 | [285034-pop-up-computer.json](./285034-pop-up-computer.json) |
 | Pop-a-Chick | 232043 | [232043-pop-a-chick.json](./232043-pop-a-chick.json) |
