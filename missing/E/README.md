@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Sports Gaming Football | 358359 | [358359-elite-sports-gaming-football.json](./358359-elite-sports-gaming-football.json) |
 | Elite Star Fighter | 117506 | [117506-elite-star-fighter.json](./117506-elite-star-fighter.json) |
 | Elite Starfighter | 59932 | [59932-elite-starfighter.json](./59932-elite-starfighter.json) |
+| Elite Status: Platinum Concierge | 253301 | [253301-elite-status-platinum-concierge.json](./253301-elite-status-platinum-concierge.json) |
 | Elite Tanks | 139414 | [139414-elite-tanks.json](./139414-elite-tanks.json) |
 | Elite Trials | 96778 | [96778-elite-trials.json](./96778-elite-trials.json) |
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Depths | 354510 | [354510-endless-depths.json](./354510-endless-depths.json) |
 | Endless Depths 2 RPG | 197784 | [197784-endless-depths-2-rpg.json](./197784-endless-depths-2-rpg.json) |
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
+| Endless Dream | 253341 | [253341-endless-dream.json](./253341-endless-dream.json) |
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
 | Endless Dungeon | 109970 | [109970-endless-dungeon.json](./109970-endless-dungeon.json) |
 | Endless Dungeon: Ichiban And Kiryu Skin Pack | 289422 | [289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json](./289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json) |
