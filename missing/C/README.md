@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiki-Chiki | 258025 | [258025-chiki-chiki.json](./258025-chiki-chiki.json) |
 | Chiki-Chiki Boxy Racers | 107229 | [107229-chiki-chiki-boxy-racers.json](./107229-chiki-chiki-boxy-racers.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
+| Chiko-chan no Noukatsu Kenkyuujo | 251520 | [251520-chiko-chan-no-noukatsu-kenkyuujo.json](./251520-chiko-chan-no-noukatsu-kenkyuujo.json) |
 | Chikoku no Mokushiroku: Ver.2.00 | 302957 | [302957-chikoku-no-mokushiroku-ver-2-00.json](./302957-chikoku-no-mokushiroku-ver-2-00.json) |
 | Chiku Chiku Beach | 22462 | [22462-chiku-chiku-beach.json](./22462-chiku-chiku-beach.json) |
 | Chikudenya Toubee | 42039 | [42039-chikudenya-toubee.json](./42039-chikudenya-toubee.json) |
@@ -2959,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chotto Magic Taizen: Date Uranai | 220847 | [220847-chotto-magic-taizen-date-uranai.json](./220847-chotto-magic-taizen-date-uranai.json) |
 | Chotto Magic Taizen: Nenzu Camera | 220848 | [220848-chotto-magic-taizen-nenzu-camera.json](./220848-chotto-magic-taizen-nenzu-camera.json) |
 | Chotto Magic Taizen: Suki Kirai Hakkenki | 220846 | [220846-chotto-magic-taizen-suki-kirai-hakkenki.json](./220846-chotto-magic-taizen-suki-kirai-hakkenki.json) |
+| Chotto xx na Watashi no Nichijou: Kiki Dasshutsu!? Gyakuten no Nazotoki Life | 251532 | [251532-chotto-xx-na-watashi-no-nichijou-kiki-dasshutsu-gyakuten-no-nazotoki-life.json](./251532-chotto-xx-na-watashi-no-nichijou-kiki-dasshutsu-gyakuten-no-nazotoki-life.json) |
 | Chou à la Crème Collect | 304665 | [304665-chou-a-la-creme-collect.json](./304665-chou-a-la-creme-collect.json) |
 | Chou Aniki Zero | 42859 | [42859-chou-aniki-zero.json](./42859-chou-aniki-zero.json) |
 | Chou Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko | 95478 | [95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json](./95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json) |
