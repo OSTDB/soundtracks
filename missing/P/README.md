@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penitence | 201684 | [201684-penitence.json](./201684-penitence.json) |
 | Penkura | 110860 | [110860-penkura.json](./110860-penkura.json) |
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
+| Penni's Adventure | 258505 | [258505-pennis-adventure.json](./258505-pennis-adventure.json) |
 | Pennies 12 | 393636 | [393636-pennies-12.json](./393636-pennies-12.json) |
 | Penning: The Tropical Penguin | 61904 | [61904-penning-the-tropical-penguin.json](./61904-penning-the-tropical-penguin.json) |
 | Pennon and Battle | 305919 | [305919-pennon-and-battle.json](./305919-pennon-and-battle.json) |
@@ -2148,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phineas and Ferb: Quest for Cool Stuff | 5318 | [5318-phineas-and-ferb-quest-for-cool-stuff.json](./5318-phineas-and-ferb-quest-for-cool-stuff.json) |
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
 | Phmlspd | 223132 | [223132-phmlspd.json](./223132-phmlspd.json) |
+| Pho King My Life | 258423 | [258423-pho-king-my-life.json](./258423-pho-king-my-life.json) |
 | Phobia | 202320 | [202320-phobia.json](./202320-phobia.json) |
 | Phobia | 205114 | [205114-phobia.json](./205114-phobia.json) |
 | Phobia 1.5 | 159179 | [159179-phobia-1-5.json](./159179-phobia-1-5.json) |
@@ -3504,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
 | Planetary Field Team | 406125 | [406125-planetary-field-team.json](./406125-planetary-field-team.json) |
 | Planetary Gravity | 158174 | [158174-planetary-gravity.json](./158174-planetary-gravity.json) |
+| Planetary Life | 258433 | [258433-planetary-life.json](./258433-planetary-life.json) |
 | Planetary Parfait | 293139 | [293139-planetary-parfait.json](./293139-planetary-parfait.json) |
 | Planetary Settlers | 101340 | [101340-planetary-settlers.json](./101340-planetary-settlers.json) |
 | Planetbase | 13200 | [13200-planetbase.json](./13200-planetbase.json) |
