@@ -2357,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beluga Dreams | 268498 | [268498-beluga-dreams.json](./268498-beluga-dreams.json) |
 | Beluga: Kamikaze Aircraft Carrier | 237512 | [237512-beluga-kamikaze-aircraft-carrier.json](./237512-beluga-kamikaze-aircraft-carrier.json) |
 | Belzerion | 122881 | [122881-belzerion.json](./122881-belzerion.json) |
+| Bem Feito | 275677 | [275677-bem-feito.json](./275677-bem-feito.json) |
 | Bemuddled | 101378 | [101378-bemuddled.json](./101378-bemuddled.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
 | Ben 10 | 363904 | [363904-ben-10.json](./363904-ben-10.json) |
