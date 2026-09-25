@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Soldiers | 264143 | [264143-shadows-of-soldiers.json](./264143-shadows-of-soldiers.json) |
 | Shadows of Steam | 328499 | [328499-shadows-of-steam.json](./328499-shadows-of-steam.json) |
 | Shadows of Taumiel | 207378 | [207378-shadows-of-taumiel.json](./207378-shadows-of-taumiel.json) |
+| Shadows of the Afterland | 269067 | [269067-shadows-of-the-afterland.json](./269067-shadows-of-the-afterland.json) |
 | Shadows of the Damned | 264883 | [264883-shadows-of-the-damned.json](./264883-shadows-of-the-damned.json) |
 | Shadows of the Damned | 5971 | [5971-shadows-of-the-damned.json](./5971-shadows-of-the-damned.json) |
 | Shadows of the Damned: Hella Remastered | 252501 | [252501-shadows-of-the-damned-hella-remastered.json](./252501-shadows-of-the-damned-hella-remastered.json) |
@@ -6817,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Riders Tournament Edition 2.0 | 337111 | [337111-sonic-riders-tournament-edition-2-0.json](./337111-sonic-riders-tournament-edition-2-0.json) |
 | Sonic Ring Thing | 299875 | [299875-sonic-ring-thing.json](./299875-sonic-ring-thing.json) |
 | Sonic Rivals | 19260 | [19260-sonic-rivals.json](./19260-sonic-rivals.json) |
+| Sonic Rivals Dash | 269064 | [269064-sonic-rivals-dash.json](./269064-sonic-rivals-dash.json) |
 | Sonic Robo Blast | 134011 | [134011-sonic-robo-blast.json](./134011-sonic-robo-blast.json) |
 | Sonic Robo Blast | 280211 | [280211-sonic-robo-blast.json](./280211-sonic-robo-blast.json) |
 | Sonic Robo Blast 2 | 280214 | [280214-sonic-robo-blast-2.json](./280214-sonic-robo-blast-2.json) |
@@ -10620,6 +10622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyngton Hall | 320291 | [320291-storyngton-hall.json](./320291-storyngton-hall.json) |
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
+| Storyteller: Devilish Update | 269078 | [269078-storyteller-devilish-update.json](./269078-storyteller-devilish-update.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
 | Stowaway | 288868 | [288868-stowaway.json](./288868-stowaway.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
@@ -12803,6 +12806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Wii U: Igglybuff moveset | 343431 | [343431-super-smash-bros-for-wii-u-igglybuff-moveset.json](./343431-super-smash-bros-for-wii-u-igglybuff-moveset.json) |
 | Super Smash Bros. for Wii U: Stage Bundle | 325075 | [325075-super-smash-bros-for-wii-u-stage-bundle.json](./325075-super-smash-bros-for-wii-u-stage-bundle.json) |
 | Super Smash Bros. for Wii U: Wario's Shoulder Bash from Brawl | 343430 | [343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json](./343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json) |
+| Super Smash Bros. Open | 269059 | [269059-super-smash-bros-open.json](./269059-super-smash-bros-open.json) |
 | Super Smash Bros. Ultimate - Piranha Plant | 136383 | [136383-super-smash-bros-ultimate-piranha-plant.json](./136383-super-smash-bros-ultimate-piranha-plant.json) |
 | Super Smash Bros. Ultimate: Akaza Moveset | 395017 | [395017-super-smash-bros-ultimate-akaza-moveset.json](./395017-super-smash-bros-ultimate-akaza-moveset.json) |
 | Super Smash Bros. Ultimate: Animdude Moveset | 395034 | [395034-super-smash-bros-ultimate-animdude-moveset.json](./395034-super-smash-bros-ultimate-animdude-moveset.json) |
