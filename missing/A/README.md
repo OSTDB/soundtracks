@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
 | A Loop is a Loop is | 144789 | [144789-a-loop-is-a-loop-is.json](./144789-a-loop-is-a-loop-is.json) |
 | A Lost Land | 384655 | [384655-a-lost-land.json](./384655-a-lost-land.json) |
+| A Lost Note | 244748 | [244748-a-lost-note.json](./244748-a-lost-note.json) |
 | A Lounge Somewhere | 352388 | [352388-a-lounge-somewhere.json](./352388-a-lounge-somewhere.json) |
 | A Love Like Broken Glass | 410440 | [410440-a-love-like-broken-glass.json](./410440-a-love-like-broken-glass.json) |
 | A Love Story: My Best Friend | 334090 | [334090-a-love-story-my-best-friend.json](./334090-a-love-story-my-best-friend.json) |
@@ -1740,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AkeriaTD | 288749 | [288749-akeriatd.json](./288749-akeriatd.json) |
 | Akhena: Age of Evil | 337803 | [337803-akhena-age-of-evil.json](./337803-akhena-age-of-evil.json) |
 | Akhenaten: Rule as Pharaoh | 75027 | [75027-akhenaten-rule-as-pharaoh.json](./75027-akhenaten-rule-as-pharaoh.json) |
+| Akhra: The Treasures | 244715 | [244715-akhra-the-treasures.json](./244715-akhra-the-treasures.json) |
 | Aki to Tsukasa no Fushigi no Kabe | 41341 | [41341-aki-to-tsukasa-no-fushigi-no-kabe.json](./41341-aki-to-tsukasa-no-fushigi-no-kabe.json) |
 | Akiba Alive Urban Legend of Akihabara in Near Future | 382464 | [382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json](./382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
