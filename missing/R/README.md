@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
 | Raziel | 174742 | [174742-raziel.json](./174742-raziel.json) |
+| Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
 | Razzmatazz | 40392 | [40392-razzmatazz.json](./40392-razzmatazz.json) |
 | RB Axolotl | 108962 | [108962-rb-axolotl.json](./108962-rb-axolotl.json) |
@@ -3399,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboBunnies In Space! | 111495 | [111495-robobunnies-in-space.json](./111495-robobunnies-in-space.json) |
 | Robocco Wars | 72649 | [72649-robocco-wars.json](./72649-robocco-wars.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
+| RoboCock | 274454 | [274454-robocock.json](./274454-robocock.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | RoboCop | 59110 | [59110-robocop.json](./59110-robocop.json) |
 | RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
