@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
 | Railway Operation Simulator | 214615 | [214615-railway-operation-simulator.json](./214615-railway-operation-simulator.json) |
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
+| Raimodula | 247463 | [247463-raimodula.json](./247463-raimodula.json) |
 | Rain | 128617 | [128617-rain.json](./128617-rain.json) |
 | Rain | 216251 | [216251-rain.json](./216251-rain.json) |
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
@@ -3824,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockstar Games Collection: Edition 1 | 41587 | [41587-rockstar-games-collection-edition-1.json](./41587-rockstar-games-collection-edition-1.json) |
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
 | Rocktopus | 301904 | [301904-rocktopus.json](./301904-rocktopus.json) |
+| Rocky | 247438 | [247438-rocky.json](./247438-rocky.json) |
 | Rocky | 37175 | [37175-rocky.json](./37175-rocky.json) |
 | Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
