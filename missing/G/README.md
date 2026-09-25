@@ -10,6 +10,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
 | G-Darius | 39691 | [39691-g-darius.json](./39691-g-darius.json) |
 | G-Dino's Jungle Adventure | 101630 | [101630-g-dinos-jungle-adventure.json](./101630-g-dinos-jungle-adventure.json) |
+| G-Force | 248561 | [248561-g-force.json](./248561-g-force.json) |
+| G-Force | 248562 | [248562-g-force.json](./248562-g-force.json) |
+| G-Force | 248563 | [248563-g-force.json](./248563-g-force.json) |
 | G-Force | 4876 | [4876-g-force.json](./4876-g-force.json) |
 | G-Force Fighters | 243938 | [243938-g-force-fighters.json](./243938-g-force-fighters.json) |
 | G-Hell | 415093 | [415093-g-hell.json](./415093-g-hell.json) |
