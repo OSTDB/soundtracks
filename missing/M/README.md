@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mare | 25933 | [25933-mare.json](./25933-mare.json) |
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
 | MareDare | 348962 | [348962-maredare.json](./348962-maredare.json) |
+| MareQuest | 230240 | [230240-marequest.json](./230240-marequest.json) |
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
 | Margo: The Bean Adventure | 174305 | [174305-margo-the-bean-adventure.json](./174305-margo-the-bean-adventure.json) |
@@ -7984,6 +7985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Moorhen | 282549 | [282549-my-moorhen.json](./282549-my-moorhen.json) |
 | My Motel | 247987 | [247987-my-motel.json](./247987-my-motel.json) |
 | My Mundane Life Is Threatened by the Tropes of an RPG!!! | 256346 | [256346-my-mundane-life-is-threatened-by-the-tropes-of-an-rpg.json](./256346-my-mundane-life-is-threatened-by-the-tropes-of-an-rpg.json) |
+| My Muppets Show | 230200 | [230200-my-muppets-show.json](./230200-my-muppets-show.json) |
 | My Music Label | 402410 | [402410-my-music-label.json](./402410-my-music-label.json) |
 | My Music Oasis | 287204 | [287204-my-music-oasis.json](./287204-my-music-oasis.json) |
 | My Mystic Secretary | 254614 | [254614-my-mystic-secretary.json](./254614-my-mystic-secretary.json) |
