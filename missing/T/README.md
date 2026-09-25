@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taikou Risshiden V | 172698 | [172698-taikou-risshiden-v.json](./172698-taikou-risshiden-v.json) |
 | Taikyoku Igo: Goliath | 37797 | [37797-taikyoku-igo-goliath.json](./37797-taikyoku-igo-goliath.json) |
 | Taikyoku Igo: Idaten | 37796 | [37796-taikyoku-igo-idaten.json](./37796-taikyoku-igo-idaten.json) |
+| Tail & Trails | 259525 | [259525-tail-and-trails.json](./259525-tail-and-trails.json) |
 | Tail and Сhaos | 410312 | [410312-tail-and-haos.json](./410312-tail-and-haos.json) |
 | Tail Drift | 17980 | [17980-tail-drift.json](./17980-tail-drift.json) |
 | Tail Gunner | 307611 | [307611-tail-gunner.json](./307611-tail-gunner.json) |
@@ -5729,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
 | The Panel DC | 119720 | [119720-the-panel-dc.json](./119720-the-panel-dc.json) |
+| The Panic Room: House of Secrets | 259516 | [259516-the-panic-room-house-of-secrets.json](./259516-the-panic-room-house-of-secrets.json) |
 | The Paper Aircraft of Childhood | 268216 | [268216-the-paper-aircraft-of-childhood.json](./268216-the-paper-aircraft-of-childhood.json) |
 | The Paper Arcade: Pong | 360677 | [360677-the-paper-arcade-pong.json](./360677-the-paper-arcade-pong.json) |
 | The Paper Loop | 344369 | [344369-the-paper-loop.json](./344369-the-paper-loop.json) |
@@ -10554,6 +10556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | TowerFall with Friends | 201686 | [201686-towerfall-with-friends.json](./201686-towerfall-with-friends.json) |
+| Towerful | 259517 | [259517-towerful.json](./259517-towerful.json) |
 | Towerful Defense | 315661 | [315661-towerful-defense.json](./315661-towerful-defense.json) |
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
 | Towerheart | 303076 | [303076-towerheart.json](./303076-towerheart.json) |
