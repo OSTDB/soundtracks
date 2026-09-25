@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
 | Easy puzzle: Streets | 287765 | [287765-easy-puzzle-streets.json](./287765-easy-puzzle-streets.json) |
 | Easy Quiz | 171495 | [171495-easy-quiz.json](./171495-easy-quiz.json) |
+| Easy Red 2: Stalingrad | 231286 | [231286-easy-red-2-stalingrad.json](./231286-easy-red-2-stalingrad.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
 | Easy Simple Game | 212832 | [212832-easy-simple-game.json](./212832-easy-simple-game.json) |
 | Easy Street: A Shopping Adventure | 336128 | [336128-easy-street-a-shopping-adventure.json](./336128-easy-street-a-shopping-adventure.json) |
@@ -1319,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encode | 159861 | [159861-encode.json](./159861-encode.json) |
 | Encode Encore! | 345690 | [345690-encode-encore.json](./345690-encode-encore.json) |
 | Encode Encore! | 393641 | [393641-encode-encore.json](./393641-encode-encore.json) |
+| Encoded War | 231331 | [231331-encoded-war.json](./231331-encoded-war.json) |
 | Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
 | Encore | 403601 | [403601-encore.json](./403601-encore.json) |
 | EnCore | 94678 | [94678-encore.json](./94678-encore.json) |
