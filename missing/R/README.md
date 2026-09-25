@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
 | Ravenous Devils | 173033 | [173033-ravenous-devils.json](./173033-ravenous-devils.json) |
+| Ravenous Horde | 268980 | [268980-ravenous-horde.json](./268980-ravenous-horde.json) |
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
 | Ravensburger Labyrinth | 200049 | [200049-ravensburger-labyrinth.json](./200049-ravensburger-labyrinth.json) |
 | Ravensburger Puzzle | 25495 | [25495-ravensburger-puzzle.json](./25495-ravensburger-puzzle.json) |
@@ -867,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
 | Ravenwood Academy: A Wizard101 Story | 298165 | [298165-ravenwood-academy-a-wizard101-story.json](./298165-ravenwood-academy-a-wizard101-story.json) |
+| Ravenwood Acres | 268981 | [268981-ravenwood-acres.json](./268981-ravenwood-acres.json) |
 | Ravenwood Drive | 311626 | [311626-ravenwood-drive.json](./311626-ravenwood-drive.json) |
 | Raver Champions | 129589 | [129589-raver-champions.json](./129589-raver-champions.json) |
 | Ravesta Racing | 127752 | [127752-ravesta-racing.json](./127752-ravesta-racing.json) |
@@ -2814,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders Republic: Limited Edition | 139839 | [139839-riders-republic-limited-edition.json](./139839-riders-republic-limited-edition.json) |
 | Riders Republic: Season Pass | 293718 | [293718-riders-republic-season-pass.json](./293718-riders-republic-season-pass.json) |
 | Riders Republic: Skate Edition | 263516 | [263516-riders-republic-skate-edition.json](./263516-riders-republic-skate-edition.json) |
+| Riders Republic: Skate Plus Pack | 268975 | [268975-riders-republic-skate-plus-pack.json](./268975-riders-republic-skate-plus-pack.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Riders World: I Want to Jump | 200653 | [200653-riders-world-i-want-to-jump.json](./200653-riders-world-i-want-to-jump.json) |
 | Riders World: I Want to Race | 200654 | [200654-riders-world-i-want-to-race.json](./200654-riders-world-i-want-to-race.json) |
