@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell Mission | 188490 | [188490-hell-mission.json](./188490-hell-mission.json) |
 | Hell of a marriage | 178503 | [178503-hell-of-a-marriage.json](./178503-hell-of-a-marriage.json) |
+| Hell of Nightmares: Chapter 1 | 254420 | [254420-hell-of-nightmares-chapter-1.json](./254420-hell-of-nightmares-chapter-1.json) |
 | Hell of Sins: Soul | 209144 | [209144-hell-of-sins-soul.json](./209144-hell-of-sins-soul.json) |
 | Hell Of War: Combined Arms | 411596 | [411596-hell-of-war-combined-arms.json](./411596-hell-of-war-combined-arms.json) |
 | Hell on Earth | 28145 | [28145-hell-on-earth.json](./28145-hell-on-earth.json) |
@@ -2595,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Fi Rush: Traditional Garb Costume Pack | 255966 | [255966-hi-fi-rush-traditional-garb-costume-pack.json](./255966-hi-fi-rush-traditional-garb-costume-pack.json) |
 | Hi-Flyer | 91362 | [91362-hi-flyer.json](./91362-hi-flyer.json) |
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku | 45287 | [45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json](./45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json) |
+| Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku - Limited Edition | 254439 | [254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json](./254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json) |
 | Hi-Res Brazil | 406093 | [406093-hi-res-brazil.json](./406093-hi-res-brazil.json) |
 | Hi-Res Cribbage | 66708 | [66708-hi-res-cribbage.json](./66708-hi-res-cribbage.json) |
 | Hi-Tech Hell 2 | 269115 | [269115-hi-tech-hell-2.json](./269115-hi-tech-hell-2.json) |
@@ -4133,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
 | Hot Wheels Unleashed 2: Mercedes-Benz Pack | 312012 | [312012-hot-wheels-unleashed-2-mercedes-benz-pack.json](./312012-hot-wheels-unleashed-2-mercedes-benz-pack.json) |
 | Hot Wheels Unleashed 2: Old but Gold Pack | 311085 | [311085-hot-wheels-unleashed-2-old-but-gold-pack.json](./311085-hot-wheels-unleashed-2-old-but-gold-pack.json) |
+| Hot Wheels Unleashed 2: Rust and Fast Pack | 254427 | [254427-hot-wheels-unleashed-2-rust-and-fast-pack.json](./254427-hot-wheels-unleashed-2-rust-and-fast-pack.json) |
 | Hot Wheels Unleashed 2: Season Pass Vol. 2 | 293137 | [293137-hot-wheels-unleashed-2-season-pass-vol-2.json](./293137-hot-wheels-unleashed-2-season-pass-vol-2.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Day One Edition | 252166 | [252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json](./252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Manga Free Pack | 277831 | [277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json](./277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json) |
@@ -4189,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Renovator: Disco Room & Furniture Set | 265717 | [265717-hotel-renovator-disco-room-and-furniture-set.json](./265717-hotel-renovator-disco-room-and-furniture-set.json) |
 | Hotel Renovator: Five Star Edition | 250420 | [250420-hotel-renovator-five-star-edition.json](./250420-hotel-renovator-five-star-edition.json) |
 | Hotel Renovator: Futuristic Furniture Set | 250421 | [250421-hotel-renovator-futuristic-furniture-set.json](./250421-hotel-renovator-futuristic-furniture-set.json) |
+| Hotel Renovator: Gym Furniture Set | 254419 | [254419-hotel-renovator-gym-furniture-set.json](./254419-hotel-renovator-gym-furniture-set.json) |
 | Hotel Renovator: Kawaii Furniture Set | 245386 | [245386-hotel-renovator-kawaii-furniture-set.json](./245386-hotel-renovator-kawaii-furniture-set.json) |
 | Hotel Room Haunting | 275645 | [275645-hotel-room-haunting.json](./275645-hotel-room-haunting.json) |
 | Hotel Security | 339846 | [339846-hotel-security.json](./339846-hotel-security.json) |
@@ -4966,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
 | HyperLeague Heroes | 191179 | [191179-hyperleague-heroes.json](./191179-hyperleague-heroes.json) |
+| Hyperlight | 254435 | [254435-hyperlight.json](./254435-hyperlight.json) |
 | Hyperlight | 265701 | [265701-hyperlight.json](./265701-hyperlight.json) |
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
 | Hyperlight Ultimate | 117939 | [117939-hyperlight-ultimate.json](./117939-hyperlight-ultimate.json) |
