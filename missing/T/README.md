@@ -5025,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Return of the Hylian SE | 243616 | [243616-the-legend-of-zelda-return-of-the-hylian-se.json](./243616-the-legend-of-zelda-return-of-the-hylian-se.json) |
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
+| The Legend of Zelda: Skyward Sword Randomizer | 241895 | [241895-the-legend-of-zelda-skyward-sword-randomizer.json](./241895-the-legend-of-zelda-skyward-sword-randomizer.json) |
 | The Legend of Zelda: Specter's Oculus | 323365 | [323365-the-legend-of-zelda-specters-oculus.json](./323365-the-legend-of-zelda-specters-oculus.json) |
 | The Legend of Zelda: Spirit Tracks | 1038 | [1038-the-legend-of-zelda-spirit-tracks.json](./1038-the-legend-of-zelda-spirit-tracks.json) |
 | The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition | 338073 | [338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json](./338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json) |
@@ -5040,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Time Walker | 323277 | [323277-the-legend-of-zelda-time-walker.json](./323277-the-legend-of-zelda-time-walker.json) |
 | The Legend of Zelda: Tri Force Heroes | 11194 | [11194-the-legend-of-zelda-tri-force-heroes.json](./11194-the-legend-of-zelda-tri-force-heroes.json) |
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
+| The Legend of Zelda: Twilight Princess Randomizer | 241894 | [241894-the-legend-of-zelda-twilight-princess-randomizer.json](./241894-the-legend-of-zelda-twilight-princess-randomizer.json) |
 | The Legend of Zelda: Unnamed Quest | 322780 | [322780-the-legend-of-zelda-unnamed-quest.json](./322780-the-legend-of-zelda-unnamed-quest.json) |
 | The Legend of Zelda: Waves of Time | 323908 | [323908-the-legend-of-zelda-waves-of-time.json](./323908-the-legend-of-zelda-waves-of-time.json) |
 | The Legend of Zelda: Whomp's Fortress | 299484 | [299484-the-legend-of-zelda-whomps-fortress.json](./299484-the-legend-of-zelda-whomps-fortress.json) |
