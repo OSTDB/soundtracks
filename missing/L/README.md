@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 17 | 377062 | [377062-laruaville-17.json](./377062-laruaville-17.json) |
 | Laruaville 2 | 262486 | [262486-laruaville-2.json](./262486-laruaville-2.json) |
 | Laruaville 4 Christmas Match 3 Puzzle | 227874 | [227874-laruaville-4-christmas-match-3-puzzle.json](./227874-laruaville-4-christmas-match-3-puzzle.json) |
+| Laruaville 5 | 265602 | [265602-laruaville-5.json](./265602-laruaville-5.json) |
 | Laruaville 8 | 270079 | [270079-laruaville-8.json](./270079-laruaville-8.json) |
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
 | Las Gymkhanikas de Uli | 377290 | [377290-las-gymkhanikas-de-uli.json](./377290-las-gymkhanikas-de-uli.json) |
@@ -458,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Case: The Disappearance of Amanda Kane | 122980 | [122980-last-case-the-disappearance-of-amanda-kane.json](./122980-last-case-the-disappearance-of-amanda-kane.json) |
 | Last Caveman | 278972 | [278972-last-caveman.json](./278972-last-caveman.json) |
 | Last Chance for Turnabout | 309994 | [309994-last-chance-for-turnabout.json](./309994-last-chance-for-turnabout.json) |
+| Last Chance in Xollywood: Special Edition | 265609 | [265609-last-chance-in-xollywood-special-edition.json](./265609-last-chance-in-xollywood-special-edition.json) |
 | Last Chance to Green | 179655 | [179655-last-chance-to-green.json](./179655-last-chance-to-green.json) |
 | Last Chance VR | 123552 | [123552-last-chance-vr.json](./123552-last-chance-vr.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
@@ -2176,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | List Animals Until Failure | 388370 | [388370-list-animals-until-failure.json](./388370-list-animals-until-failure.json) |
 | Listed | 361868 | [361868-listed.json](./361868-listed.json) |
 | Listen | 151582 | [151582-listen.json](./151582-listen.json) |
+| Listen | 265581 | [265581-listen.json](./265581-listen.json) |
 | Listen Me | 227931 | [227931-listen-me.json](./227931-listen-me.json) |
 | Listen to My Heart | 370340 | [370340-listen-to-my-heart.json](./370340-listen-to-my-heart.json) |
 | Listen to the Wind | 172709 | [172709-listen-to-the-wind.json](./172709-listen-to-the-wind.json) |
