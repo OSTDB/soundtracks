@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
+| Deck Defenders | 237317 | [237317-deck-defenders.json](./237317-deck-defenders.json) |
 | Deck Defense | 301427 | [301427-deck-defense.json](./301427-deck-defense.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
 | Deck of Ashes: Complete Edition | 196816 | [196816-deck-of-ashes-complete-edition.json](./196816-deck-of-ashes-complete-edition.json) |
@@ -2127,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deficit | 179073 | [179073-deficit.json](./179073-deficit.json) |
 | Deficit | 327818 | [327818-deficit.json](./327818-deficit.json) |
 | Defiled | 213032 | [213032-defiled.json](./213032-defiled.json) |
+| Defina | 237334 | [237334-defina.json](./237334-defina.json) |
 | Definitely Not a Cult | 408807 | [408807-definitely-not-a-cult.json](./408807-definitely-not-a-cult.json) |
 | Definitely Real Football | 177014 | [177014-definitely-real-football.json](./177014-definitely-real-football.json) |
 | Deflect Boy | 290942 | [290942-deflect-boy.json](./290942-deflect-boy.json) |
@@ -4036,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distress: A Choice-Driven Sci-Fi Adventure | 110970 | [110970-distress-a-choice-driven-sci-fi-adventure.json](./110970-distress-a-choice-driven-sci-fi-adventure.json) |
 | Distressed | 320932 | [320932-distressed.json](./320932-distressed.json) |
 | Distribution Center | 262306 | [262306-distribution-center.json](./262306-distribution-center.json) |
+| Distributor Simulator | 237285 | [237285-distributor-simulator.json](./237285-distributor-simulator.json) |
 | District 99 | 160259 | [160259-district-99.json](./160259-district-99.json) |
 | District Panic | 295387 | [295387-district-panic.json](./295387-district-panic.json) |
 | District Steel | 28912 | [28912-district-steel.json](./28912-district-steel.json) |
