@@ -2252,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung-Fu Master | 86202 | [86202-kung-fu-master.json](./86202-kung-fu-master.json) |
 | Kung-Fu Street | 137063 | [137063-kung-fu-street.json](./137063-kung-fu-street.json) |
 | Kung-Fu Taikun | 40220 | [40220-kung-fu-taikun.json](./40220-kung-fu-taikun.json) |
+| Kungfu | 274525 | [274525-kungfu.json](./274525-kungfu.json) |
 | Kungfu Beggar | 75795 | [75795-kungfu-beggar.json](./75795-kungfu-beggar.json) |
 | Kungfu Football Captain | 153931 | [153931-kungfu-football-captain.json](./153931-kungfu-football-captain.json) |
 | KungFu Kickball | 121713 | [121713-kungfu-kickball.json](./121713-kungfu-kickball.json) |
