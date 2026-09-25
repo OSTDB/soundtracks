@@ -3153,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiki Oni no Koku: Chuugoku-hen - Daiyonshou | 240305 | [240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json](./240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json) |
 | Shiki-Tei | 93616 | [93616-shiki-tei.json](./93616-shiki-tei.json) |
 | Shiki: The Four Seasons | 123554 | [123554-shiki-the-four-seasons.json](./123554-shiki-the-four-seasons.json) |
+| Shikigami No Shiro Evolution | 281464 | [281464-shikigami-no-shiro-evolution.json](./281464-shikigami-no-shiro-evolution.json) |
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
 | Shikkoku no Sharnoth: What a beautiful tomorrow | 186285 | [186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json](./186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json) |
 | Shil | 400483 | [400483-shil.json](./400483-shil.json) |
@@ -12699,12 +12700,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Lloyd Outfit and Wig | 306450 | [306450-super-smash-bros-ultimate-lloyd-outfit-and-wig.json](./306450-super-smash-bros-ultimate-lloyd-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Megumin Moveset | 395028 | [395028-super-smash-bros-ultimate-megumin-moveset.json](./395028-super-smash-bros-ultimate-megumin-moveset.json) |
 | Super Smash Bros. Ultimate: Monster Hunter Moveset | 395029 | [395029-super-smash-bros-ultimate-monster-hunter-moveset.json](./395029-super-smash-bros-ultimate-monster-hunter-moveset.json) |
+| Super Smash Bros. Ultimate: Ninten Moveset | 281460 | [281460-super-smash-bros-ultimate-ninten-moveset.json](./281460-super-smash-bros-ultimate-ninten-moveset.json) |
 | Super Smash Bros. Ultimate: Sackboy Moveset | 395026 | [395026-super-smash-bros-ultimate-sackboy-moveset.json](./395026-super-smash-bros-ultimate-sackboy-moveset.json) |
 | Super Smash Bros. Ultimate: Shy Guy Moveset | 395032 | [395032-super-smash-bros-ultimate-shy-guy-moveset.json](./395032-super-smash-bros-ultimate-shy-guy-moveset.json) |
 | Super Smash Bros. Ultimate: Silver Moveset | 268014 | [268014-super-smash-bros-ultimate-silver-moveset.json](./268014-super-smash-bros-ultimate-silver-moveset.json) |
 | Super Smash Bros. Ultimate: Spirit Board Challenge Pack 3 | 342877 | [342877-super-smash-bros-ultimate-spirit-board-challenge-pack-3.json](./342877-super-smash-bros-ultimate-spirit-board-challenge-pack-3.json) |
 | Super Smash Bros. Ultimate: Spirit Board Challenge Pack 4 | 342876 | [342876-super-smash-bros-ultimate-spirit-board-challenge-pack-4.json](./342876-super-smash-bros-ultimate-spirit-board-challenge-pack-4.json) |
 | Super Smash Bros. Ultimate: Susie Moveset | 395025 | [395025-super-smash-bros-ultimate-susie-moveset.json](./395025-super-smash-bros-ultimate-susie-moveset.json) |
+| Super Smash Bros. Ultimate: The Alucard Moveset | 281459 | [281459-super-smash-bros-ultimate-the-alucard-moveset.json](./281459-super-smash-bros-ultimate-the-alucard-moveset.json) |
 | Super Smash Bros. Ultimate: Ultron Moveset | 395035 | [395035-super-smash-bros-ultimate-ultron-moveset.json](./395035-super-smash-bros-ultimate-ultron-moveset.json) |
 | Super Smash Bros. Ultimate: Vegeta Moveset | 375984 | [375984-super-smash-bros-ultimate-vegeta-moveset.json](./375984-super-smash-bros-ultimate-vegeta-moveset.json) |
 | Super Smash Bros. Ultimate: Zero Moveset | 395033 | [395033-super-smash-bros-ultimate-zero-moveset.json](./395033-super-smash-bros-ultimate-zero-moveset.json) |
