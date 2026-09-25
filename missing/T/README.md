@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasokare Hotel: Tsubomi | 408273 | [408273-tasokare-hotel-tsubomi.json](./408273-tasokare-hotel-tsubomi.json) |
 | Tasomachi: Behind the Twilight | 121481 | [121481-tasomachi-behind-the-twilight.json](./121481-tasomachi-behind-the-twilight.json) |
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
+| Tasty Defense | 236246 | [236246-tasty-defense.json](./236246-tasty-defense.json) |
 | Tasty Jigsaw: Happy Hour 3 | 255067 | [255067-tasty-jigsaw-happy-hour-3.json](./255067-tasty-jigsaw-happy-hour-3.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
 | Tasty Ninja: Vegetable Invasion | 181769 | [181769-tasty-ninja-vegetable-invasion.json](./181769-tasty-ninja-vegetable-invasion.json) |
@@ -1780,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Toilet Simulator | 352299 | [352299-terminal-toilet-simulator.json](./352299-terminal-toilet-simulator.json) |
 | Terminal V | 273403 | [273403-terminal-v.json](./273403-terminal-v.json) |
 | Terminal Velocity | 11629 | [11629-terminal-velocity.json](./11629-terminal-velocity.json) |
+| Terminal Velocity: Boosted Edition | 236239 | [236239-terminal-velocity-boosted-edition.json](./236239-terminal-velocity-boosted-edition.json) |
 | Terminal Voltage | 279775 | [279775-terminal-voltage.json](./279775-terminal-voltage.json) |
 | Terminal VR | 127362 | [127362-terminal-vr.json](./127362-terminal-vr.json) |
 | Terminal22 | 279099 | [279099-terminal22.json](./279099-terminal22.json) |
@@ -3345,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Bride | 326215 | [326215-the-devils-bride.json](./326215-the-devils-bride.json) |
 | The Devil's Calculator | 114080 | [114080-the-devils-calculator.json](./114080-the-devils-calculator.json) |
 | The Devil's Eight | 55126 | [55126-the-devils-eight.json](./55126-the-devils-eight.json) |
+| The Devil's Face | 236215 | [236215-the-devils-face.json](./236215-the-devils-face.json) |
 | The Devil's Garden | 105280 | [105280-the-devils-garden.json](./105280-the-devils-garden.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
 | The Devilry Reservation: Сhapter II | 263036 | [263036-the-devilry-reservation-hapter-ii.json](./263036-the-devilry-reservation-hapter-ii.json) |
@@ -3546,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Emperor's Mahjong | 70922 | [70922-the-emperors-mahjong.json](./70922-the-emperors-mahjong.json) |
 | The Emperor's Own | 178557 | [178557-the-emperors-own.json](./178557-the-emperors-own.json) |
 | The Employment Collection | 204673 | [204673-the-employment-collection.json](./204673-the-employment-collection.json) |
+| The Empress of Aeser | 236227 | [236227-the-empress-of-aeser.json](./236227-the-empress-of-aeser.json) |
 | The Empress of Mahjong | 249471 | [249471-the-empress-of-mahjong.json](./249471-the-empress-of-mahjong.json) |
 | The Emptiness | 139431 | [139431-the-emptiness.json](./139431-the-emptiness.json) |
 | The Empty Desk | 333612 | [333612-the-empty-desk.json](./333612-the-empty-desk.json) |
@@ -3649,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eye of Modern Mali | 103185 | [103185-the-eye-of-modern-mali.json](./103185-the-eye-of-modern-mali.json) |
 | The Eye of Typhoon | 57341 | [57341-the-eye-of-typhoon.json](./57341-the-eye-of-typhoon.json) |
 | The Eyes of Dr Kautzmann | 219256 | [219256-the-eyes-of-dr-kautzmann.json](./219256-the-eyes-of-dr-kautzmann.json) |
+| The Eyes of Mars | 236217 | [236217-the-eyes-of-mars.json](./236217-the-eyes-of-mars.json) |
 | The F.A. Premier League Football Manager 2000 | 70974 | [70974-the-f-a-premier-league-football-manager-2000.json](./70974-the-f-a-premier-league-football-manager-2000.json) |
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
@@ -4755,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
 | The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
+| The Last Hair | 236219 | [236219-the-last-hair.json](./236219-the-last-hair.json) |
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
 | The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
@@ -5835,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Park | 11649 | [11649-the-park.json](./11649-the-park.json) |
 | The Particle of Infinite Free Will | 402531 | [402531-the-particle-of-infinite-free-will.json](./402531-the-particle-of-infinite-free-will.json) |
+| The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
 | The Past Within | 147340 | [147340-the-past-within.json](./147340-the-past-within.json) |
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
@@ -8184,6 +8191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thumb Buggy | 243086 | [243086-thumb-buggy.json](./243086-thumb-buggy.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
+| Thumb Tanks | 236200 | [236200-thumb-tanks.json](./236200-thumb-tanks.json) |
 | ThumBeat | 124623 | [124623-thumbeat.json](./124623-thumbeat.json) |
 | ThumBeat: Button Basher Edition | 196136 | [196136-thumbeat-button-basher-edition.json](./196136-thumbeat-button-basher-edition.json) |
 | Thumblemania | 348346 | [348346-thumblemania.json](./348346-thumblemania.json) |
@@ -9931,6 +9939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomte Trouble | 333661 | [333661-tomte-trouble.json](./333661-tomte-trouble.json) |
 | TomTom Adventures | 82851 | [82851-tomtom-adventures.json](./82851-tomtom-adventures.json) |
 | Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen | 79319 | [79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json](./79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json) |
+| Tonalities | 236240 | [236240-tonalities.json](./236240-tonalities.json) |
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
 | Tonari ni Kanojo no Iru Shiawase: In First Snow With Her - Premium Edition | 385851 | [385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json](./385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest | 142444 | [142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json](./142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json) |
@@ -12267,6 +12276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator: Delivery in City | 375410 | [375410-truck-simulator-delivery-in-city.json](./375410-truck-simulator-delivery-in-city.json) |
 | Truck Simulator: Driving School 2024 | 276862 | [276862-truck-simulator-driving-school-2024.json](./276862-truck-simulator-driving-school-2024.json) |
 | Truck Simulator: European Roads | 383514 | [383514-truck-simulator-european-roads.json](./383514-truck-simulator-european-roads.json) |
+| Truck Simulator: World | 236249 | [236249-truck-simulator-world.json](./236249-truck-simulator-world.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
@@ -12833,6 +12843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
+| Twistingo: Bird Paradise - Collector's Edition | 236204 | [236204-twistingo-bird-paradise-collectors-edition.json](./236204-twistingo-bird-paradise-collectors-edition.json) |
 | TwistoMaze | 132186 | [132186-twistomaze.json](./132186-twistomaze.json) |
 | TwisTouch | 262344 | [262344-twistouch.json](./262344-twistouch.json) |
 | Twists of My Life | 122798 | [122798-twists-of-my-life.json](./122798-twists-of-my-life.json) |
