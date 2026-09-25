@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Rally Evolution | 234008 | [234008-nitro-rally-evolution.json](./234008-nitro-rally-evolution.json) |
 | Nitro Royale -Heroines Duel- | 70685 | [70685-nitro-royale-heroines-duel.json](./70685-nitro-royale-heroines-duel.json) |
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
+| Nitro: Stream Racing | 231860 | [231860-nitro-stream-racing.json](./231860-nitro-stream-racing.json) |
 | Nitrokill | 390817 | [390817-nitrokill.json](./390817-nitrokill.json) |
 | Nitroplus Blasterz: Heroines Infinite Duel - Limited Edition | 167134 | [167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json](./167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json) |
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
@@ -2373,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
 | No, Human | 93503 | [93503-no-human.json](./93503-no-human.json) |
+| No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
 | No1Left | 34283 | [34283-no1left.json](./34283-no1left.json) |
 | Noa Noa! | 115029 | [115029-noa-noa.json](./115029-noa-noa.json) |
 | Noa's Project | 212836 | [212836-noas-project.json](./212836-noas-project.json) |
@@ -2959,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Islands | 139923 | [139923-number-islands.json](./139923-number-islands.json) |
 | Number Machine | 350604 | [350604-number-machine.json](./350604-number-machine.json) |
 | Number Master | 223995 | [223995-number-master.json](./223995-number-master.json) |
+| Number Match: Number games | 231880 | [231880-number-match-number-games.json](./231880-number-match-number-games.json) |
 | Number Merge Mania | 358289 | [358289-number-merge-mania.json](./358289-number-merge-mania.json) |
 | Number Munchers | 128661 | [128661-number-munchers.json](./128661-number-munchers.json) |
 | Number Munchers | 50339 | [50339-number-munchers.json](./50339-number-munchers.json) |
