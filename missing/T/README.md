@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 80's Game with Martha Quinn | 206205 | [206205-the-80s-game-with-martha-quinn.json](./206205-the-80s-game-with-martha-quinn.json) |
 | The 8th Day | 106605 | [106605-the-8th-day.json](./106605-the-8th-day.json) |
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
+| The 8th Son? A.R. | 243087 | [243087-the-8th-son-a-r.json](./243087-the-8th-son-a-r.json) |
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
 | The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
 | The Abandoned House in Yeongdeok | 399073 | [399073-the-abandoned-house-in-yeongdeok.json](./399073-the-abandoned-house-in-yeongdeok.json) |
@@ -6395,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadow Syndicate | 342265 | [342265-the-shadow-syndicate.json](./342265-the-shadow-syndicate.json) |
+| The Shadow Warrior Trilogy | 243065 | [243065-the-shadow-warrior-trilogy.json](./243065-the-shadow-warrior-trilogy.json) |
 | The Shadow's Terror | 257907 | [257907-the-shadows-terror.json](./257907-the-shadows-terror.json) |
 | The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
 | The Shadows That Run Alongside Our Car | 77595 | [77595-the-shadows-that-run-alongside-our-car.json](./77595-the-shadows-that-run-alongside-our-car.json) |
@@ -8151,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
 | Thugs Law | 114827 | [114827-thugs-law.json](./114827-thugs-law.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
+| Thumb Buggy | 243086 | [243086-thumb-buggy.json](./243086-thumb-buggy.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
 | ThumBeat | 124623 | [124623-thumbeat.json](./124623-thumbeat.json) |
 | ThumBeat: Button Basher Edition | 196136 | [196136-thumbeat-button-basher-edition.json](./196136-thumbeat-button-basher-edition.json) |
@@ -11200,6 +11203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: UK Military Wagon Pack | 162338 | [162338-train-simulator-uk-military-wagon-pack.json](./162338-train-simulator-uk-military-wagon-pack.json) |
 | Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
+| Train Station: Rail Transport | 243085 | [243085-train-station-rail-transport.json](./243085-train-station-rail-transport.json) |
 | Train Story | 128986 | [128986-train-story.json](./128986-train-story.json) |
 | Train to Amber Coast | 179666 | [179666-train-to-amber-coast.json](./179666-train-to-amber-coast.json) |
 | Train to Hong Kong | 324323 | [324323-train-to-hong-kong.json](./324323-train-to-hong-kong.json) |
