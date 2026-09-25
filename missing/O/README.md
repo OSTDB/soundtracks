@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oberak | 270146 | [270146-oberak.json](./270146-oberak.json) |
 | Obergenie | 339371 | [339371-obergenie.json](./339371-obergenie.json) |
 | Oberion: Arena Arcana | 381678 | [381678-oberion-arena-arcana.json](./381678-oberion-arena-arcana.json) |
+| Oberty | 259042 | [259042-oberty.json](./259042-oberty.json) |
 | Obesity Simulator | 264705 | [264705-obesity-simulator.json](./264705-obesity-simulator.json) |
 | Obey Me! Sinner's Choice: Lucifer | 396555 | [396555-obey-me-sinners-choice-lucifer.json](./396555-obey-me-sinners-choice-lucifer.json) |
 | Obey the Insect God | 381097 | [381097-obey-the-insect-god.json](./381097-obey-the-insect-god.json) |
@@ -359,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Fever | 223993 | [223993-office-fever.json](./223993-office-fever.json) |
 | Office Fight | 270963 | [270963-office-fight.json](./270963-office-fight.json) |
 | Office Hurdles | 268019 | [268019-office-hurdles.json](./268019-office-hurdles.json) |
+| Office Is My Harem | 259035 | [259035-office-is-my-harem.json](./259035-office-is-my-harem.json) |
 | Office Jerk | 316739 | [316739-office-jerk.json](./316739-office-jerk.json) |
 | Office Jigsaw Puzzle - Work Environment | 89284 | [89284-office-jigsaw-puzzle-work-environment.json](./89284-office-jigsaw-puzzle-work-environment.json) |
 | Office Ladies | 411727 | [411727-office-ladies.json](./411727-office-ladies.json) |
