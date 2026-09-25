@@ -5464,6 +5464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
 | Dragon 2 | 358914 | [358914-dragon-2.json](./358914-dragon-2.json) |
+| Dragon Abyss | 234573 | [234573-dragon-abyss.json](./234573-dragon-abyss.json) |
 | Dragon Adventure VR | 68605 | [68605-dragon-adventure-vr.json](./68605-dragon-adventure-vr.json) |
 | Dragon Age II: All-Class Item Pack | 367423 | [367423-dragon-age-ii-all-class-item-pack.json](./367423-dragon-age-ii-all-class-item-pack.json) |
 | Dragon Age II: All-Class Item Pack II | 367424 | [367424-dragon-age-ii-all-class-item-pack-ii.json](./367424-dragon-age-ii-all-class-item-pack-ii.json) |
@@ -5621,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fin Soup | 17377 | [17377-dragon-fin-soup.json](./17377-dragon-fin-soup.json) |
 | Dragon Finga | 403614 | [403614-dragon-finga.json](./403614-dragon-finga.json) |
 | Dragon Fire | 24844 | [24844-dragon-fire.json](./24844-dragon-fire.json) |
+| Dragon Fist 2 | 234562 | [234562-dragon-fist-2.json](./234562-dragon-fist-2.json) |
 | Dragon Force | 2968 | [2968-dragon-force.json](./2968-dragon-force.json) |
 | Dragon Force: The Day 3 | 65737 | [65737-dragon-force-the-day-3.json](./65737-dragon-force-the-day-3.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
@@ -6965,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Seekers | 249873 | [249873-dungeon-seekers.json](./249873-dungeon-seekers.json) |
 | Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
+| Dungeon Shooter: Dark Temple | 234580 | [234580-dungeon-shooter-dark-temple.json](./234580-dungeon-shooter-dark-temple.json) |
 | Dungeon Siege III: Limited Edition | 44551 | [44551-dungeon-siege-iii-limited-edition.json](./44551-dungeon-siege-iii-limited-edition.json) |
 | Dungeon Siege III: Treasures of the Sun | 10254 | [10254-dungeon-siege-iii-treasures-of-the-sun.json](./10254-dungeon-siege-iii-treasures-of-the-sun.json) |
 | Dungeon Slave | 240814 | [240814-dungeon-slave.json](./240814-dungeon-slave.json) |
@@ -7182,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
 | Dusty's Challenge | 359392 | [359392-dustys-challenge.json](./359392-dustys-challenge.json) |
 | Dutch Maximus: Out of the Toy Box | 217004 | [217004-dutch-maximus-out-of-the-toy-box.json](./217004-dutch-maximus-out-of-the-toy-box.json) |
+| Dutch's Chickens | 234541 | [234541-dutchs-chickens.json](./234541-dutchs-chickens.json) |
 | Duterra | 213018 | [213018-duterra.json](./213018-duterra.json) |
 | Duty Calls | 80555 | [80555-duty-calls.json](./80555-duty-calls.json) |
 | Duty Free Shop Simulator | 373099 | [373099-duty-free-shop-simulator.json](./373099-duty-free-shop-simulator.json) |
