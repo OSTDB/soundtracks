@@ -531,6 +531,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Days | 371267 | [371267-20-days.json](./371267-20-days.json) |
 | 20 Doors | 256769 | [256769-20-doors.json](./256769-20-doors.json) |
 | 20 em 1 | 94700 | [94700-20-em-1.json](./94700-20-em-1.json) |
+| 20 em 1: Game 15 | 245233 | [245233-20-em-1-game-15.json](./245233-20-em-1-game-15.json) |
+| 20 em 1: Game 16 | 245234 | [245234-20-em-1-game-16.json](./245234-20-em-1-game-16.json) |
+| 20 em 1: Game 17 | 245235 | [245235-20-em-1-game-17.json](./245235-20-em-1-game-17.json) |
+| 20 em 1: Game 18 | 245236 | [245236-20-em-1-game-18.json](./245236-20-em-1-game-18.json) |
+| 20 em 1: Game 19 | 245237 | [245237-20-em-1-game-19.json](./245237-20-em-1-game-19.json) |
+| 20 em 1: Game 20 | 245238 | [245238-20-em-1-game-20.json](./245238-20-em-1-game-20.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
 | 20 Trials to Heaven | 416104 | [416104-20-trials-to-heaven.json](./416104-20-trials-to-heaven.json) |
@@ -735,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
 | 3D Challenge | 310515 | [310515-3d-challenge.json](./310515-3d-challenge.json) |
 | 3D Chess | 223001 | [223001-3d-chess.json](./223001-3d-chess.json) |
+| 3D Chess Black and White | 245258 | [245258-3d-chess-black-and-white.json](./245258-3d-chess-black-and-white.json) |
 | 3D Chess Q14 | 289455 | [289455-3d-chess-q14.json](./289455-3d-chess-q14.json) |
 | 3D Chess: Nocca Nocca | 151674 | [151674-3d-chess-nocca-nocca.json](./151674-3d-chess-nocca-nocca.json) |
 | 3D Classics: Kirby's Adventure | 84617 | [84617-3d-classics-kirbys-adventure.json](./84617-3d-classics-kirbys-adventure.json) |
