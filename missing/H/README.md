@@ -4029,6 +4029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshizora Testudou to Shiro no Tabi | 147405 | [147405-hoshizora-testudou-to-shiro-no-tabi.json](./147405-hoshizora-testudou-to-shiro-no-tabi.json) |
 | Hospice | 55161 | [55161-hospice.json](./55161-hospice.json) |
 | Hospital 9: Puzzles | 163417 | [163417-hospital-9-puzzles.json](./163417-hospital-9-puzzles.json) |
+| Hospital Doctor: Fix me up for Kids (Boys & Girls) | 257881 | [257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json](./257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json) |
 | Hospital Haste | 54084 | [54084-hospital-haste.json](./54084-hospital-haste.json) |
 | Hospital Havoc | 85179 | [85179-hospital-havoc.json](./85179-hospital-havoc.json) |
 | Hospital Hustle | 52235 | [52235-hospital-hustle.json](./52235-hospital-hustle.json) |
