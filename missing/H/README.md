@@ -2567,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
 | Hexonaut | 293168 | [293168-hexonaut.json](./293168-hexonaut.json) |
 | Hexopods | 75339 | [75339-hexopods.json](./75339-hexopods.json) |
+| Hexoria | 244722 | [244722-hexoria.json](./244722-hexoria.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
 | Hexoscope: Collector's Edition | 53214 | [53214-hexoscope-collectors-edition.json](./53214-hexoscope-collectors-edition.json) |
 | Hexpand | 410909 | [410909-hexpand.json](./410909-hexpand.json) |
@@ -3374,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
 | Hold My Hand (Or Let Go) | 412537 | [412537-hold-my-hand-or-let-go.json](./412537-hold-my-hand-or-let-go.json) |
+| Hold the Door | 244742 | [244742-hold-the-door.json](./244742-hold-the-door.json) |
 | Hold the Line: The American Revolution | 55518 | [55518-hold-the-line-the-american-revolution.json](./55518-hold-the-line-the-american-revolution.json) |
 | Hold the Mine | 362284 | [362284-hold-the-mine.json](./362284-hold-the-mine.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
