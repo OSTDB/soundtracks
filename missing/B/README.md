@@ -4898,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogerman: A Pick and Flick Adventure | 19614 | [19614-boogerman-a-pick-and-flick-adventure.json](./19614-boogerman-a-pick-and-flick-adventure.json) |
 | Boogey's Wicked Game | 340042 | [340042-boogeys-wicked-game.json](./340042-boogeys-wicked-game.json) |
 | Boogeyman | 19015 | [19015-boogeyman.json](./19015-boogeyman.json) |
+| Boogeyman 3 | 270159 | [270159-boogeyman-3.json](./270159-boogeyman-3.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Boogie | 85828 | [85828-boogie.json](./85828-boogie.json) |
 | Boogie Wings | 39873 | [39873-boogie-wings.json](./39873-boogie-wings.json) |
@@ -6326,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
+| Bug Blazer | 270166 | [270166-bug-blazer.json](./270166-bug-blazer.json) |
 | Bug Bunny: Discontroll | 373729 | [373729-bug-bunny-discontroll.json](./373729-bug-bunny-discontroll.json) |
 | Bug Catcher | 287651 | [287651-bug-catcher.json](./287651-bug-catcher.json) |
 | Bug Cleaners | 336030 | [336030-bug-cleaners.json](./336030-bug-cleaners.json) |
