@@ -3118,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Guns: VR | 121625 | [121625-world-of-guns-vr.json](./121625-world-of-guns-vr.json) |
 | World of Illusion Starring Mickey Mouse and Donald Duck | 8124 | [8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json](./8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json) |
 | World of Jade Dynasty | 323920 | [323920-world-of-jade-dynasty.json](./323920-world-of-jade-dynasty.json) |
+| World of JumpStart | 254465 | [254465-world-of-jumpstart.json](./254465-world-of-jumpstart.json) |
 | World of Leaders | 36140 | [36140-world-of-leaders.json](./36140-world-of-leaders.json) |
 | World of Legends | 115461 | [115461-world-of-legends.json](./115461-world-of-legends.json) |
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
