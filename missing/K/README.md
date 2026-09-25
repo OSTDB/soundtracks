@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karyuu Jyou | 62982 | [62982-karyuu-jyou.json](./62982-karyuu-jyou.json) |
 | Kasaba | 217369 | [217369-kasaba.json](./217369-kasaba.json) |
 | Kasane Teto and Hatsune Miku are Lesbians | 333537 | [333537-kasane-teto-and-hatsune-miku-are-lesbians.json](./333537-kasane-teto-and-hatsune-miku-are-lesbians.json) |
+| Kaseifu Koi wa Keiyaku Kara | 238408 | [238408-kaseifu-koi-wa-keiyaku-kara.json](./238408-kaseifu-koi-wa-keiyaku-kara.json) |
 | Kaseki Sousei Reborn | 228578 | [228578-kaseki-sousei-reborn.json](./228578-kaseki-sousei-reborn.json) |
 | Kaseki Sousei Reborn II: Monster Digger | 228579 | [228579-kaseki-sousei-reborn-ii-monster-digger.json](./228579-kaseki-sousei-reborn-ii-monster-digger.json) |
 | Kasha vs. Kritters | 382302 | [382302-kasha-vs-kritters.json](./382302-kasha-vs-kritters.json) |
@@ -1515,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Monster 2 | 366915 | [366915-kiss-monster-2.json](./366915-kiss-monster-2.json) |
 | Kiss My Camera | 227262 | [227262-kiss-my-camera.json](./227262-kiss-my-camera.json) |
 | Kiss of Death | 313875 | [313875-kiss-of-death.json](./313875-kiss-of-death.json) |
+| Kiss of Revenge | 238413 | [238413-kiss-of-revenge.json](./238413-kiss-of-revenge.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
@@ -1924,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Mekuri Clover: Itsuka no Kimi he, Yakusoku no Ashita wo | 399190 | [399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json](./399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json) |
 | Koi Musubi | 30780 | [30780-koi-musubi.json](./30780-koi-musubi.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
+| Koi no Tsuzuki wa Honeymoon de | 238412 | [238412-koi-no-tsuzuki-wa-honeymoon-de.json](./238412-koi-no-tsuzuki-wa-honeymoon-de.json) |
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
 | Koi Solitaire | 108415 | [108415-koi-solitaire.json](./108415-koi-solitaire.json) |
 | Koi Suru Kimochi no Kasanekata: Kasaneta Omoi o Zutto | 82498 | [82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json](./82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json) |
@@ -2046,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konpeki no Kantai 2 Advance | 91759 | [91759-konpeki-no-kantai-2-advance.json](./91759-konpeki-no-kantai-2-advance.json) |
 | Konpeki no Kantai 2 Perfect | 91761 | [91761-konpeki-no-kantai-2-perfect.json](./91761-konpeki-no-kantai-2-perfect.json) |
 | Konrad's Kittens | 31830 | [31830-konrads-kittens.json](./31830-konrads-kittens.json) |
+| Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
 | Kook | 245829 | [245829-kook.json](./245829-kook.json) |
 | Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
 | Kool-Aid Man | 5676 | [5676-kool-aid-man.json](./5676-kool-aid-man.json) |
