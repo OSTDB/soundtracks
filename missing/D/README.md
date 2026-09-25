@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
 | DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
+| Deadlocked | 274514 | [274514-deadlocked.json](./274514-deadlocked.json) |
 | Deadly Animal Duel | 61893 | [61893-deadly-animal-duel.json](./61893-deadly-animal-duel.json) |
 | Deadly Blue | 86528 | [86528-deadly-blue.json](./86528-deadly-blue.json) |
 | Deadly Burrito | 111506 | [111506-deadly-burrito.json](./111506-deadly-burrito.json) |
@@ -4112,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | Dobo's Heroes | 147420 | [147420-dobos-heroes.json](./147420-dobos-heroes.json) |
 | Dobro Goranku | 372136 | [372136-dobro-goranku.json](./372136-dobro-goranku.json) |
+| Dobro Love Fantasy Quest | 274531 | [274531-dobro-love-fantasy-quest.json](./274531-dobro-love-fantasy-quest.json) |
 | Doc Cosmos | 133986 | [133986-doc-cosmos.json](./133986-doc-cosmos.json) |
 | Doc Louis's Punch-Out!! | 9153 | [9153-doc-louiss-punch-out.json](./9153-doc-louiss-punch-out.json) |
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
@@ -5789,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
 | Dream Cat Paradise | 374175 | [374175-dream-cat-paradise.json](./374175-dream-cat-paradise.json) |
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
+| Dream Celestial Body | 274524 | [274524-dream-celestial-body.json](./274524-dream-celestial-body.json) |
 | Dream Chamber | 27332 | [27332-dream-chamber.json](./27332-dream-chamber.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
 | Dream Chronicles 2: The Eternal Maze | 50502 | [50502-dream-chronicles-2-the-eternal-maze.json](./50502-dream-chronicles-2-the-eternal-maze.json) |
@@ -5898,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
 | Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
+| Dreamers: A Nostalgic Adventure | 274441 | [274441-dreamers-a-nostalgic-adventure.json](./274441-dreamers-a-nostalgic-adventure.json) |
 | Dreamfall: The Longest Journey | 1961 | [1961-dreamfall-the-longest-journey.json](./1961-dreamfall-the-longest-journey.json) |
 | Dreamfarer | 123001 | [123001-dreamfarer.json](./123001-dreamfarer.json) |
 | Dreamgate | 130060 | [130060-dreamgate.json](./130060-dreamgate.json) |
@@ -5917,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamIsland | 207357 | [207357-dreamisland.json](./207357-dreamisland.json) |
 | Dreamjob: Programmer | 132801 | [132801-dreamjob-programmer.json](./132801-dreamjob-programmer.json) |
 | Dreamland | 207308 | [207308-dreamland.json](./207308-dreamland.json) |
+| Dreamland | 274535 | [274535-dreamland.json](./274535-dreamland.json) |
 | DreamLand | 32173 | [32173-dreamland.json](./32173-dreamland.json) |
 | Dreamland Arcade | 310572 | [310572-dreamland-arcade.json](./310572-dreamland-arcade.json) |
 | Dreamland Escape | 130338 | [130338-dreamland-escape.json](./130338-dreamland-escape.json) |
