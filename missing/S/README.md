@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Mars | 280882 | [280882-sands-of-mars.json](./280882-sands-of-mars.json) |
 | Sands of Osiris | 60541 | [60541-sands-of-osiris.json](./60541-sands-of-osiris.json) |
 | Sands of Salzaar | 128004 | [128004-sands-of-salzaar.json](./128004-sands-of-salzaar.json) |
+| Sands of Salzaar: The Tournament | 231292 | [231292-sands-of-salzaar-the-tournament.json](./231292-sands-of-salzaar-the-tournament.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
 | Sandspiel | 146869 | [146869-sandspiel.json](./146869-sandspiel.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Hiryuu no Ken | 38322 | [38322-sd-hiryuu-no-ken.json](./38322-sd-hiryuu-no-ken.json) |
 | SD Hiryuu no Ken Gaiden | 64968 | [64968-sd-hiryuu-no-ken-gaiden.json](./64968-sd-hiryuu-no-ken-gaiden.json) |
 | SD Sengoku-den: Tenka Touitsu-hen - Aku Mu Haiki Yume Yama no Tatakai! | 346026 | [346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json](./346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json) |
+| SD Shin Kamen Rider Rumble | 231290 | [231290-sd-shin-kamen-rider-rumble.json](./231290-sd-shin-kamen-rider-rumble.json) |
 | SD The Great Battle: Aratanaru Chousen | 38321 | [38321-sd-the-great-battle-aratanaru-chousen.json](./38321-sd-the-great-battle-aratanaru-chousen.json) |
 | SDI | 12848 | [12848-sdi.json](./12848-sdi.json) |
 | SDK Paint | 84860 | [84860-sdk-paint.json](./84860-sdk-paint.json) |
@@ -1678,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Steampunk | 182365 | [182365-search-all-steampunk.json](./182365-search-all-steampunk.json) |
 | Search All: Sushi | 187440 | [187440-search-all-sushi.json](./187440-search-all-sushi.json) |
 | Search All: UFO | 249800 | [249800-search-all-ufo.json](./249800-search-all-ufo.json) |
+| Search All: Worms | 231334 | [231334-search-all-worms.json](./231334-search-all-worms.json) |
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
 | Search and Rescue: Yosemite | 259063 | [259063-search-and-rescue-yosemite.json](./259063-search-and-rescue-yosemite.json) |
 | Search Dungeon Master | 313254 | [313254-search-dungeon-master.json](./313254-search-dungeon-master.json) |
@@ -2349,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesquipedalian | 405039 | [405039-sesquipedalian.json](./405039-sesquipedalian.json) |
 | Sesshouseki: Malice Eater | 124758 | [124758-sesshouseki-malice-eater.json](./124758-sesshouseki-malice-eater.json) |
 | Session: Skate Sim | 75694 | [75694-session-skate-sim.json](./75694-session-skate-sim.json) |
+| Session: Skate Sim - Brandalised Pack | 231325 | [231325-session-skate-sim-brandalised-pack.json](./231325-session-skate-sim-brandalised-pack.json) |
 | Session: Skate Sim - Deluxe Edition | 218488 | [218488-session-skate-sim-deluxe-edition.json](./218488-session-skate-sim-deluxe-edition.json) |
 | Session: Skate Sim Waterpark & Chris Cole | 357406 | [357406-session-skate-sim-waterpark-and-chris-cole.json](./357406-session-skate-sim-waterpark-and-chris-cole.json) |
 | Session: Skate Sim Year One & Two Edition | 331843 | [331843-session-skate-sim-year-one-and-two-edition.json](./331843-session-skate-sim-year-one-and-two-edition.json) |
@@ -3708,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 25: Strawberry Thanksgiving | 324504 | [324504-shopping-clutter-25-strawberry-thanksgiving.json](./324504-shopping-clutter-25-strawberry-thanksgiving.json) |
 | Shopping Clutter 26: Christmas Rocks | 341873 | [341873-shopping-clutter-26-christmas-rocks.json](./341873-shopping-clutter-26-christmas-rocks.json) |
 | Shopping Clutter 5: Christmas Poetree | 223139 | [223139-shopping-clutter-5-christmas-poetree.json](./223139-shopping-clutter-5-christmas-poetree.json) |
+| Shopping Clutter 6: Love Is in the Air | 231314 | [231314-shopping-clutter-6-love-is-in-the-air.json](./231314-shopping-clutter-6-love-is-in-the-air.json) |
 | Shopping Clutter: The Best Playground | 200580 | [200580-shopping-clutter-the-best-playground.json](./200580-shopping-clutter-the-best-playground.json) |
 | Shopping in a Winter Zombieland | 276174 | [276174-shopping-in-a-winter-zombieland.json](./276174-shopping-in-a-winter-zombieland.json) |
 | Shopping Mall Girl | 86826 | [86826-shopping-mall-girl.json](./86826-shopping-mall-girl.json) |
