@@ -6785,6 +6785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Back | 133445 | [133445-push-back.json](./133445-push-back.json) |
 | Push Box | 167261 | [167261-push-box.json](./167261-push-box.json) |
 | Push Comes to Shovel | 211783 | [211783-push-comes-to-shovel.json](./211783-push-comes-to-shovel.json) |
+| Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
 | Push Pull | 115442 | [115442-push-pull.json](./115442-push-pull.json) |
 | Push Push Cat | 234333 | [234333-push-push-cat.json](./234333-push-push-cat.json) |
 | Push Push Penguin | 209600 | [209600-push-push-penguin.json](./209600-push-push-penguin.json) |
@@ -6966,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Journey | 265708 | [265708-puzzle-journey.json](./265708-puzzle-journey.json) |
 | Puzzle Journey | 287783 | [287783-puzzle-journey.json](./287783-puzzle-journey.json) |
+| Puzzle Journey: Match 3 Blast | 232373 | [232373-puzzle-journey-match-3-blast.json](./232373-puzzle-journey-match-3-blast.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
@@ -7117,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Px | 201785 | [201785-px.json](./201785-px.json) |
 | Px Art | 369573 | [369573-px-art.json](./369573-px-art.json) |
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
+| PXL Play | 232393 | [232393-pxl-play.json](./232393-pxl-play.json) |
 | Pyhare | 338279 | [338279-pyhare.json](./338279-pyhare.json) |
 | Pyjamarama | 23060 | [23060-pyjamarama.json](./23060-pyjamarama.json) |
 | Pyl | 126013 | [126013-pyl.json](./126013-pyl.json) |
