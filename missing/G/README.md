@@ -3403,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey-Box Testing | 135222 | [135222-grey-box-testing.json](./135222-grey-box-testing.json) |
 | Greyhound Racing Tournament 2 | 103858 | [103858-greyhound-racing-tournament-2.json](./103858-greyhound-racing-tournament-2.json) |
 | Greyish White | 289345 | [289345-greyish-white.json](./289345-greyish-white.json) |
+| Greymood | 262288 | [262288-greymood.json](./262288-greymood.json) |
 | Greyskin | 214049 | [214049-greyskin.json](./214049-greyskin.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
