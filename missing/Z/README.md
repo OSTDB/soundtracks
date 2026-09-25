@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z: The End | 36400 | [36400-z-the-end.json](./36400-z-the-end.json) |
 | Z.A.T.O.: I Love the World and Everything In It | 376847 | [376847-z-a-t-o-i-love-the-world-and-everything-in-it.json](./376847-z-a-t-o-i-love-the-world-and-everything-in-it.json) |
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
+| Z.O.N.A Project X | 234584 | [234584-z-o-n-a-project-x.json](./234584-z-o-n-a-project-x.json) |
 | Z.O.N.A Project X VR | 216803 | [216803-z-o-n-a-project-x-vr.json](./216803-z-o-n-a-project-x-vr.json) |
 | Z'code | 30782 | [30782-zcode.json](./30782-zcode.json) |
 | Z0mb1es on teh ph0ne | 77995 | [77995-z0mb1es-on-teh-ph0ne.json](./77995-z0mb1es-on-teh-ph0ne.json) |
