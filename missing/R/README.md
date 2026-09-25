@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rack | 140574 | [140574-rack.json](./140574-rack.json) |
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
 | Rack and Run | 338805 | [338805-rack-and-run.json](./338805-rack-and-run.json) |
+| Rack and Slay | 245289 | [245289-rack-and-slay.json](./245289-rack-and-slay.json) |
 | Rack Attack! | 342613 | [342613-rack-attack.json](./342613-rack-attack.json) |
 | Rack N Ruin | 12216 | [12216-rack-n-ruin.json](./12216-rack-n-ruin.json) |
 | Racket Club | 251558 | [251558-racket-club.json](./251558-racket-club.json) |
@@ -1869,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reimu ha Nandaka Totemo Nemui | 214585 | [214585-reimu-ha-nandaka-totemo-nemui.json](./214585-reimu-ha-nandaka-totemo-nemui.json) |
 | Reimu's Weird little adventure | 153410 | [153410-reimus-weird-little-adventure.json](./153410-reimus-weird-little-adventure.json) |
 | Rein | 171543 | [171543-rein.json](./171543-rein.json) |
+| Reincarnated | 245242 | [245242-reincarnated.json](./245242-reincarnated.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
 | Reincarnator | 391887 | [391887-reincarnator.json](./391887-reincarnator.json) |
 | Reindeer Rescue | 68708 | [68708-reindeer-rescue.json](./68708-reindeer-rescue.json) |
