@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Head to Head Baseball | 214598 | [214598-vs-head-to-head-baseball.json](./214598-vs-head-to-head-baseball.json) |
 | Vs. Helifighter | 214597 | [214597-vs-helifighter.json](./214597-vs-helifighter.json) |
 | Vs. Hogan's Alley | 169999 | [169999-vs-hogans-alley.json](./169999-vs-hogans-alley.json) |
+| Vs. Imposter Alternated | 253870 | [253870-vs-imposter-alternated.json](./253870-vs-imposter-alternated.json) |
 | Vs. Ladies Golf | 168330 | [168330-vs-ladies-golf.json](./168330-vs-ladies-golf.json) |
 | Vs. Lionex | 214600 | [214600-vs-lionex.json](./214600-vs-lionex.json) |
 | Vs. Madoola no Tsubasa | 214601 | [214601-vs-madoola-no-tsubasa.json](./214601-vs-madoola-no-tsubasa.json) |
