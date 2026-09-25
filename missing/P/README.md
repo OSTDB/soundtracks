@@ -602,9 +602,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Galaxy | 64129 | [64129-paper-galaxy.json](./64129-paper-galaxy.json) |
 | Paper Hero Manager | 279109 | [279109-paper-hero-manager.json](./279109-paper-hero-manager.json) |
 | Paper Heroes | 174743 | [174743-paper-heroes.json](./174743-paper-heroes.json) |
+| Paper io 2 | 263544 | [263544-paper-io-2.json](./263544-paper-io-2.json) |
+| Paper io 2: Animals DLC | 263545 | [263545-paper-io-2-animals-dlc.json](./263545-paper-io-2-animals-dlc.json) |
 | Paper io 2: Animals Edition | 275049 | [275049-paper-io-2-animals-edition.json](./275049-paper-io-2-animals-edition.json) |
 | Paper io 2: Complete Edition | 331857 | [331857-paper-io-2-complete-edition.json](./331857-paper-io-2-complete-edition.json) |
 | Paper io 2: Gold Edition | 395681 | [395681-paper-io-2-gold-edition.json](./395681-paper-io-2-gold-edition.json) |
+| Paper io 2: Mishmash DLC | 263546 | [263546-paper-io-2-mishmash-dlc.json](./263546-paper-io-2-mishmash-dlc.json) |
 | Paper Kingdom | 279110 | [279110-paper-kingdom.json](./279110-paper-kingdom.json) |
 | Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
 | Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
@@ -1106,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
 | Passion Rift | 369776 | [369776-passion-rift.json](./369776-passion-rift.json) |
 | Passive Hero: Save the World in 100 Days! | 359575 | [359575-passive-hero-save-the-world-in-100-days.json](./359575-passive-hero-save-the-world-in-100-days.json) |
+| Passpartout: The One Man Band | 263452 | [263452-passpartout-the-one-man-band.json](./263452-passpartout-the-one-man-band.json) |
 | Passport to Amsterdam | 55850 | [55850-passport-to-amsterdam.json](./55850-passport-to-amsterdam.json) |
 | Passport to Barcelona | 55873 | [55873-passport-to-barcelona.json](./55873-passport-to-barcelona.json) |
 | Passport to London | 55851 | [55851-passport-to-london.json](./55851-passport-to-london.json) |
@@ -2149,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
 | Phobos Massacre | 268424 | [268424-phobos-massacre.json](./268424-phobos-massacre.json) |
 | Phobos Vector Prime: The First Ring | 111057 | [111057-phobos-vector-prime-the-first-ring.json](./111057-phobos-vector-prime-the-first-ring.json) |
+| PhobosDeimos Anomaly | 263449 | [263449-phobosdeimos-anomaly.json](./263449-phobosdeimos-anomaly.json) |
 | Phocas Island 2 | 256859 | [256859-phocas-island-2.json](./256859-phocas-island-2.json) |
 | Phoebe Bridgers Song Crafter | 179607 | [179607-phoebe-bridgers-song-crafter.json](./179607-phoebe-bridgers-song-crafter.json) |
 | Phoebe Flingle Finger | 183569 | [183569-phoebe-flingle-finger.json](./183569-phoebe-flingle-finger.json) |
@@ -2494,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikki Rikki | 255164 | [255164-pikki-rikki.json](./255164-pikki-rikki.json) |
 | Pikku Adventure | 395181 | [395181-pikku-adventure.json](./395181-pikku-adventure.json) |
 | Pikmin | 2239 | [2239-pikmin.json](./2239-pikmin.json) |
+| Pikmin 1 Randomizer | 263441 | [263441-pikmin-1-randomizer.json](./263441-pikmin-1-randomizer.json) |
 | Pikmin 2 | 2240 | [2240-pikmin-2.json](./2240-pikmin-2.json) |
 | Pikmin 2 | 254335 | [254335-pikmin-2.json](./254335-pikmin-2.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
@@ -3756,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
 | Plowing Through | 271806 | [271806-plowing-through.json](./271806-plowing-through.json) |
 | Pluck It | 105910 | [105910-pluck-it.json](./105910-pluck-it.json) |
+| Plug and Play Sudoku | 263432 | [263432-plug-and-play-sudoku.json](./263432-plug-and-play-sudoku.json) |
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
 | PlugMax | 132614 | [132614-plugmax.json](./132614-plugmax.json) |
