@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerin' Hero | 42842 | [42842-hammerin-hero.json](./42842-hammerin-hero.json) |
 | Hammerlock Wrestling | 42589 | [42589-hammerlock-wrestling.json](./42589-hammerlock-wrestling.json) |
 | Hammerwatch | 7891 | [7891-hammerwatch.json](./7891-hammerwatch.json) |
+| Hammerwatch: Anniversary Edition | 261850 | [261850-hammerwatch-anniversary-edition.json](./261850-hammerwatch-anniversary-edition.json) |
 | Hamos the Green Chariot | 145601 | [145601-hamos-the-green-chariot.json](./145601-hamos-the-green-chariot.json) |
 | Hampstead | 12953 | [12953-hampstead.json](./12953-hampstead.json) |
 | Hampton Court | 123594 | [123594-hampton-court.json](./123594-hampton-court.json) |
