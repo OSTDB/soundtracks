@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic Brews | 415866 | [415866-ballistic-brews.json](./415866-ballistic-brews.json) |
 | Ballistic Overkill | 17320 | [17320-ballistic-overkill.json](./17320-ballistic-overkill.json) |
 | Ballistic Tanks | 32327 | [32327-ballistic-tanks.json](./32327-ballistic-tanks.json) |
+| Ballistic: The story of Marble and the Energy Core | 240738 | [240738-ballistic-the-story-of-marble-and-the-energy-core.json](./240738-ballistic-the-story-of-marble-and-the-energy-core.json) |
 | BallisticNG | 32640 | [32640-ballisticng.json](./32640-ballisticng.json) |
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
@@ -2506,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bennett Foddy's Speed Chess | 342167 | [342167-bennett-foddys-speed-chess.json](./342167-bennett-foddys-speed-chess.json) |
 | Bennu Bennu: Protect the Pyramid | 253378 | [253378-bennu-bennu-protect-the-pyramid.json](./253378-bennu-bennu-protect-the-pyramid.json) |
 | Benny's Backrooms | 303109 | [303109-bennys-backrooms.json](./303109-bennys-backrooms.json) |
+| Bent Oak Island | 240719 | [240719-bent-oak-island.json](./240719-bent-oak-island.json) |
 | Bent on Destruction | 195648 | [195648-bent-on-destruction.json](./195648-bent-on-destruction.json) |
 | Bentley Bear’s Crystal Quest | 314440 | [314440-bentley-bear-s-crystal-quest.json](./314440-bentley-bear-s-crystal-quest.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
@@ -6173,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BroomSweeper | 345662 | [345662-broomsweeper.json](./345662-broomsweeper.json) |
 | Bros | 198391 | [198391-bros.json](./198391-bros.json) |
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
+| BRoS: Battle Royale of Survival | 240722 | [240722-bros-battle-royale-of-survival.json](./240722-bros-battle-royale-of-survival.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
 | Brotato: Primal Dread | 397816 | [397816-brotato-primal-dread.json](./397816-brotato-primal-dread.json) |
