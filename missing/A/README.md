@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dogs Dream | 378434 | [378434-a-dogs-dream.json](./378434-a-dogs-dream.json) |
 | A dragon girl looks up at the endless sky | 33166 | [33166-a-dragon-girl-looks-up-at-the-endless-sky.json](./33166-a-dragon-girl-looks-up-at-the-endless-sky.json) |
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
+| A Dragon's Tale: Fading Light | 264017 | [264017-a-dragons-tale-fading-light.json](./264017-a-dragons-tale-fading-light.json) |
 | A Dragons Dawn | 379560 | [379560-a-dragons-dawn.json](./379560-a-dragons-dawn.json) |
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
 | Afterimage | 185642 | [185642-afterimage.json](./185642-afterimage.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
+| Afterlife | 264043 | [264043-afterlife.json](./264043-afterlife.json) |
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
 | Afterlife Connections LLC | 307715 | [307715-afterlife-connections-llc.json](./307715-afterlife-connections-llc.json) |
 | Afterlife Harem | 316822 | [316822-afterlife-harem.json](./316822-afterlife-harem.json) |
@@ -1961,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alias Underground Episode 8: Breakout | 367416 | [367416-alias-underground-episode-8-breakout.json](./367416-alias-underground-episode-8-breakout.json) |
 | Alias Underground Episode 9: Countdown | 367418 | [367418-alias-underground-episode-9-countdown.json](./367418-alias-underground-episode-9-countdown.json) |
 | Alias: Underground | 223002 | [223002-alias-underground.json](./223002-alias-underground.json) |
+| Alibaba and the Scary Dev | 264086 | [264086-alibaba-and-the-scary-dev.json](./264086-alibaba-and-the-scary-dev.json) |
 | AlibAi | 337811 | [337811-alibai.json](./337811-alibai.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
@@ -4311,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
+| Arcade Galaxy Builder | 263998 | [263998-arcade-galaxy-builder.json](./263998-arcade-galaxy-builder.json) |
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
 | Arcade Gamer | 202794 | [202794-arcade-gamer.json](./202794-arcade-gamer.json) |
 | Arcade Gamer | 202795 | [202795-arcade-gamer.json](./202795-arcade-gamer.json) |
