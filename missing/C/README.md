@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
+| Chain Reaction | 264566 | [264566-chain-reaction.json](./264566-chain-reaction.json) |
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
 | Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
@@ -5429,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
 | Copperfell | 373737 | [373737-copperfell.json](./373737-copperfell.json) |
+| Copperfields | 264588 | [264588-copperfields.json](./264588-copperfields.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
 | Cops N Robbers: Pixel Craft Gun | 400445 | [400445-cops-n-robbers-pixel-craft-gun.json](./400445-cops-n-robbers-pixel-craft-gun.json) |
 | Cops N Robbers: Prison Games 1 | 400441 | [400441-cops-n-robbers-prison-games-1.json](./400441-cops-n-robbers-prison-games-1.json) |
