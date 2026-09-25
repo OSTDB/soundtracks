@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
 | Magic Potion Stories | 252666 | [252666-magic-potion-stories.json](./252666-magic-potion-stories.json) |
+| Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
 | Magic Realm | 182943 | [182943-magic-realm.json](./182943-magic-realm.json) |
 | Magic Realm | 316636 | [316636-magic-realm.json](./316636-magic-realm.json) |
@@ -4271,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Feast | 118318 | [118318-midnight-feast.json](./118318-midnight-feast.json) |
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
 | Midnight Havoc | 258966 | [258966-midnight-havoc.json](./258966-midnight-havoc.json) |
+| Midnight Heaven | 244728 | [244728-midnight-heaven.json](./244728-midnight-heaven.json) |
 | Midnight Heist | 254432 | [254432-midnight-heist.json](./254432-midnight-heist.json) |
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
 | Midnight Idle | 409565 | [409565-midnight-idle.json](./409565-midnight-idle.json) |
