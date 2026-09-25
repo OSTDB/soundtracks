@@ -3306,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Animals DLC | 263554 | [263554-hole-io-animals-dlc.json](./263554-hole-io-animals-dlc.json) |
 | Hole io: Complete Edition | 268563 | [268563-hole-io-complete-edition.json](./268563-hole-io-complete-edition.json) |
 | Hole io: Construction DLC | 380392 | [380392-hole-io-construction-dlc.json](./380392-hole-io-construction-dlc.json) |
+| Hole io: Freak Edition | 275051 | [275051-hole-io-freak-edition.json](./275051-hole-io-freak-edition.json) |
 | Hole io: Freaks DLC | 263555 | [263555-hole-io-freaks-dlc.json](./263555-hole-io-freaks-dlc.json) |
 | Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
@@ -4783,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Lode Runner | 48980 | [48980-hyper-lode-runner.json](./48980-hyper-lode-runner.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
+| Hyper Mirror Run | 275088 | [275088-hyper-mirror-run.json](./275088-hyper-mirror-run.json) |
 | Hyper Olympic | 278484 | [278484-hyper-olympic.json](./278484-hyper-olympic.json) |
 | Hyper Olympic '84 Vol. 1 | 98245 | [98245-hyper-olympic-84-vol-1.json](./98245-hyper-olympic-84-vol-1.json) |
 | Hyper Olympic '84 Vol. 2 | 98246 | [98246-hyper-olympic-84-vol-2.json](./98246-hyper-olympic-84-vol-2.json) |
