@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar Mike VR | 30810 | [30810-oscar-mike-vr.json](./30810-oscar-mike-vr.json) |
 | Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
 | Oscar's World Tour | 65749 | [65749-oscars-world-tour.json](./65749-oscars-world-tour.json) |
+| Oscillation | 262313 | [262313-oscillation.json](./262313-oscillation.json) |
 | Oscillatron: Alien Frequency | 96118 | [96118-oscillatron-alien-frequency.json](./96118-oscillatron-alien-frequency.json) |
 | Oscura: Lost Light | 17784 | [17784-oscura-lost-light.json](./17784-oscura-lost-light.json) |
 | Oscuro Blossom's Glow | 342264 | [342264-oscuro-blossoms-glow.json](./342264-oscuro-blossoms-glow.json) |
