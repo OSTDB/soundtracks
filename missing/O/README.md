@@ -132,6 +132,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
 | Obsolete | 184488 | [184488-obsolete.json](./184488-obsolete.json) |
 | Obsolete Friends | 403151 | [403151-obsolete-friends.json](./403151-obsolete-friends.json) |
+| Obsta-Loop | 238477 | [238477-obsta-loop.json](./238477-obsta-loop.json) |
+| Obstacle Course Car Parking | 238391 | [238391-obstacle-course-car-parking.json](./238391-obstacle-course-car-parking.json) |
 | Obstacles | 186172 | [186172-obstacles.json](./186172-obstacles.json) |
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
@@ -381,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Racer | 213045 | [213045-office-racer.json](./213045-office-racer.json) |
 | Office Rivals | 332266 | [332266-office-rivals.json](./332266-office-rivals.json) |
 | Office Run: Halloween Run | 221182 | [221182-office-run-halloween-run.json](./221182-office-run-halloween-run.json) |
+| Office Secrets | 238409 | [238409-office-secrets.json](./238409-office-secrets.json) |
 | Office Sex | 365717 | [365717-office-sex.json](./365717-office-sex.json) |
 | Office Simulator | 159828 | [159828-office-simulator.json](./159828-office-simulator.json) |
 | Office Simulator | 326392 | [326392-office-simulator.json](./326392-office-simulator.json) |
@@ -849,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onanigan | 181383 | [181383-onanigan.json](./181383-onanigan.json) |
 | OnCall | 276185 | [276185-oncall.json](./276185-oncall.json) |
 | Once a Porn a Time | 216980 | [216980-once-a-porn-a-time.json](./216980-once-a-porn-a-time.json) |
+| Once a Tale | 238461 | [238461-once-a-tale.json](./238461-once-a-tale.json) |
 | Once Chance | 16755 | [16755-once-chance.json](./16755-once-chance.json) |
 | Once Ever After | 111467 | [111467-once-ever-after.json](./111467-once-ever-after.json) |
 | Once in Flowerlake | 190188 | [190188-once-in-flowerlake.json](./190188-once-in-flowerlake.json) |
