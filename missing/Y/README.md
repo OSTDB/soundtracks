@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are an Ancient Chinese Poet in Exile | 326768 | [326768-you-are-an-ancient-chinese-poet-in-exile.json](./326768-you-are-an-ancient-chinese-poet-in-exile.json) |
 | You are Awake Now | 234716 | [234716-you-are-awake-now.json](./234716-you-are-awake-now.json) |
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
+| You are Dough | 243643 | [243643-you-are-dough.json](./243643-you-are-dough.json) |
 | You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
 | You Are Here | 114169 | [114169-you-are-here.json](./114169-you-are-here.json) |
 | YOU ARE MY HOME | 300762 | [300762-you-are-my-home.json](./300762-you-are-my-home.json) |
@@ -712,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Puzzle | 367953 | [367953-yume-puzzle.json](./367953-yume-puzzle.json) |
 | Yume Shikki | 201848 | [201848-yume-shikki.json](./201848-yume-shikki.json) |
 | Yume Shoko | 202351 | [202351-yume-shoko.json](./202351-yume-shoko.json) |
+| Yume Slide | 243654 | [243654-yume-slide.json](./243654-yume-slide.json) |
 | Yume Utsutsu Dreamy | 247507 | [247507-yume-utsutsu-dreamy.json](./247507-yume-utsutsu-dreamy.json) |
 | Yume Wheeky | 229687 | [229687-yume-wheeky.json](./229687-yume-wheeky.json) |
 | Yume Wo. | 150159 | [150159-yume-wo.json](./150159-yume-wo.json) |
