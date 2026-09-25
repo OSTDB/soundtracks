@@ -1586,6 +1586,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Donkey Kong: Tipping Stars | 8594 | [8594-mario-vs-donkey-kong-tipping-stars.json](./8594-mario-vs-donkey-kong-tipping-stars.json) |
 | Mario vs. Luigi Reloaded | 294793 | [294793-mario-vs-luigi-reloaded.json](./294793-mario-vs-luigi-reloaded.json) |
 | Mario vs. Obama! | 315045 | [315045-mario-vs-obama.json](./315045-mario-vs-obama.json) |
+| Mario vs. Sonic.EXE | 267977 | [267977-mario-vs-sonic-exe.json](./267977-mario-vs-sonic-exe.json) |
+| Mario vs. Sonic.EXE 2 | 267975 | [267975-mario-vs-sonic-exe-2.json](./267975-mario-vs-sonic-exe-2.json) |
 | Mario vs. Tarzan | 315046 | [315046-mario-vs-tarzan.json](./315046-mario-vs-tarzan.json) |
 | Mario vs. Wario | 198475 | [198475-mario-vs-wario.json](./198475-mario-vs-wario.json) |
 | Mario vs. Windows 95 | 322773 | [322773-mario-vs-windows-95.json](./322773-mario-vs-windows-95.json) |
@@ -3650,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Crisis | 368579 | [368579-metal-crisis.json](./368579-metal-crisis.json) |
 | Metal Dead | 17433 | [17433-metal-dead.json](./17433-metal-dead.json) |
 | Metal Detecting Simulator | 235768 | [235768-metal-detecting-simulator.json](./235768-metal-detecting-simulator.json) |
+| Metal Detector and 2nd Hundred | 267963 | [267963-metal-detector-and-2nd-hundred.json](./267963-metal-detector-and-2nd-hundred.json) |
 | Metal Detector Island | 409807 | [409807-metal-detector-island.json](./409807-metal-detector-island.json) |
 | Metal Dogs | 144769 | [144769-metal-dogs.json](./144769-metal-dogs.json) |
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
@@ -4719,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minestrife | 158157 | [158157-minestrife.json](./158157-minestrife.json) |
 | MineSweep | 96878 | [96878-minesweep.json](./96878-minesweep.json) |
 | Minesweeper | 234164 | [234164-minesweeper.json](./234164-minesweeper.json) |
+| Minesweeper | 267982 | [267982-minesweeper.json](./267982-minesweeper.json) |
 | Minesweeper | 307595 | [307595-minesweeper.json](./307595-minesweeper.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
 | Minesweeper | 413617 | [413617-minesweeper.json](./413617-minesweeper.json) |
