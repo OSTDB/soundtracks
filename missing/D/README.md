@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Exodus | 384511 | [384511-deep-space-exodus.json](./384511-deep-space-exodus.json) |
 | Deep Space Reflections | 116398 | [116398-deep-space-reflections.json](./116398-deep-space-reflections.json) |
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
+| Deep Space Waifu: DLC | 281478 | [281478-deep-space-waifu-dlc.json](./281478-deep-space-waifu-dlc.json) |
 | Deep Space: Lost Battleship | 200142 | [200142-deep-space-lost-battleship.json](./200142-deep-space-lost-battleship.json) |
 | Deep Space: Operation Copernicus | 15513 | [15513-deep-space-operation-copernicus.json](./15513-deep-space-operation-copernicus.json) |
 | Deep State | 281560 | [281560-deep-state.json](./281560-deep-state.json) |
@@ -4436,6 +4437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Merged Puzzle | 252154 | [252154-domino-merged-puzzle.json](./252154-domino-merged-puzzle.json) |
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
+| Domino! | 281483 | [281483-domino.json](./281483-domino.json) |
 | Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
 | DomiNoo | 262453 | [262453-dominoo.json](./262453-dominoo.json) |
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
@@ -4988,7 +4990,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
 | Double Dragon | 201319 | [201319-double-dragon.json](./201319-double-dragon.json) |
 | Double Dragon | 201322 | [201322-double-dragon.json](./201322-double-dragon.json) |
+| Double Dragon | 281488 | [281488-double-dragon.json](./281488-double-dragon.json) |
+| Double Dragon | 281489 | [281489-double-dragon.json](./281489-double-dragon.json) |
+| Double Dragon | 281490 | [281490-double-dragon.json](./281490-double-dragon.json) |
+| Double Dragon | 281491 | [281491-double-dragon.json](./281491-double-dragon.json) |
+| Double Dragon | 281492 | [281492-double-dragon.json](./281492-double-dragon.json) |
+| Double Dragon | 281493 | [281493-double-dragon.json](./281493-double-dragon.json) |
+| Double Dragon | 281494 | [281494-double-dragon.json](./281494-double-dragon.json) |
+| Double Dragon | 281495 | [281495-double-dragon.json](./281495-double-dragon.json) |
+| Double Dragon | 281496 | [281496-double-dragon.json](./281496-double-dragon.json) |
+| Double Dragon | 281498 | [281498-double-dragon.json](./281498-double-dragon.json) |
+| Double Dragon | 281499 | [281499-double-dragon.json](./281499-double-dragon.json) |
+| Double Dragon | 281500 | [281500-double-dragon.json](./281500-double-dragon.json) |
 | Double Dragon | 281501 | [281501-double-dragon.json](./281501-double-dragon.json) |
+| Double Dragon | 281505 | [281505-double-dragon.json](./281505-double-dragon.json) |
 | Double Dragon | 6787 | [6787-double-dragon.json](./6787-double-dragon.json) |
 | Double Dragon & Kunio-kun: Retro Brawler Bundle | 147789 | [147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json](./147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json) |
 | Double Dragon 3: The Arcade Game | 46277 | [46277-double-dragon-3-the-arcade-game.json](./46277-double-dragon-3-the-arcade-game.json) |
@@ -4999,6 +5014,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon 3: The Rosetta Stone | 281518 | [281518-double-dragon-3-the-rosetta-stone.json](./281518-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281519 | [281519-double-dragon-3-the-rosetta-stone.json](./281519-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281520 | [281520-double-dragon-3-the-rosetta-stone.json](./281520-double-dragon-3-the-rosetta-stone.json) |
+| Double Dragon II: The Revenge | 281506 | [281506-double-dragon-ii-the-revenge.json](./281506-double-dragon-ii-the-revenge.json) |
+| Double Dragon II: The Revenge | 281507 | [281507-double-dragon-ii-the-revenge.json](./281507-double-dragon-ii-the-revenge.json) |
+| Double Dragon II: The Revenge | 281508 | [281508-double-dragon-ii-the-revenge.json](./281508-double-dragon-ii-the-revenge.json) |
+| Double Dragon II: The Revenge | 281509 | [281509-double-dragon-ii-the-revenge.json](./281509-double-dragon-ii-the-revenge.json) |
+| Double Dragon II: The Revenge | 281511 | [281511-double-dragon-ii-the-revenge.json](./281511-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281512 | [281512-double-dragon-ii-the-revenge.json](./281512-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281513 | [281513-double-dragon-ii-the-revenge.json](./281513-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281514 | [281514-double-dragon-ii-the-revenge.json](./281514-double-dragon-ii-the-revenge.json) |
