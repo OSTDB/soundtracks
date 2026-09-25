@@ -977,6 +977,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jordan vs. Bird: One on One | 361783 | [361783-jordan-vs-bird-one-on-one.json](./361783-jordan-vs-bird-one-on-one.json) |
 | Jordi & Oslo: The Lost Tail | 303593 | [303593-jordi-and-oslo-the-lost-tail.json](./303593-jordi-and-oslo-the-lost-tail.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy | 207334 | [207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json](./207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json) |
+| Jorel's Brother and the Most Important Game of the Galaxy: Chapter 2 - The Lustrous of the Universe | 253311 | [253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json](./253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json) |
+| Jorel's Brother and the Most Important Game of the Galaxy: Chapter 3 - The Final Rave | 253316 | [253316-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-3-the-final-rave.json](./253316-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-3-the-final-rave.json) |
 | Jorry | 129032 | [129032-jorry.json](./129032-jorry.json) |
 | Joryuu Janshi ni Chousen | 97861 | [97861-joryuu-janshi-ni-chousen.json](./97861-joryuu-janshi-ni-chousen.json) |
 | Joryuu Janshi ni Chousen GB: Watashi-tachi ni Chousen Shite ne! | 97857 | [97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json](./97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json) |
