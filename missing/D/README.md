@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
 | Dagdrom | 183468 | [183468-dagdrom.json](./183468-dagdrom.json) |
 | Dagestan Technology Anthology | 52844 | [52844-dagestan-technology-anthology.json](./52844-dagestan-technology-anthology.json) |
+| Dagger Run: Aerocombatic Racing | 276254 | [276254-dagger-run-aerocombatic-racing.json](./276254-dagger-run-aerocombatic-racing.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
 | Daggerfall Unity | 127936 | [127936-daggerfall-unity.json](./127936-daggerfall-unity.json) |
 | Daggerhood | 115426 | [115426-daggerhood.json](./115426-daggerhood.json) |
@@ -1744,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
 | Deathpuddle: Choose Violence? | 309459 | [309459-deathpuddle-choose-violence.json](./309459-deathpuddle-choose-violence.json) |
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
+| Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
 | Deathrun TV | 152284 | [152284-deathrun-tv.json](./152284-deathrun-tv.json) |
 | Deaths of Peck | 398425 | [398425-deaths-of-peck.json](./398425-deaths-of-peck.json) |
 | Deathsmashers 4 | 185558 | [185558-deathsmashers-4.json](./185558-deathsmashers-4.json) |
@@ -3019,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
 | Diamond Battle | 90385 | [90385-diamond-battle.json](./90385-diamond-battle.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
+| Diamond Dash: Plaid Peril | 276224 | [276224-diamond-dash-plaid-peril.json](./276224-diamond-dash-plaid-peril.json) |
 | Diamond Diaries Saga | 105793 | [105793-diamond-diaries-saga.json](./105793-diamond-diaries-saga.json) |
 | Diamond Digger Saga | 391081 | [391081-diamond-digger-saga.json](./391081-diamond-digger-saga.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
@@ -4570,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Shit on My #!$@& Roof | 216308 | [216308-dont-shit-on-my-and-roof.json](./216308-dont-shit-on-my-and-roof.json) |
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
 | Don't Shoot Yourself! | 36152 | [36152-dont-shoot-yourself.json](./36152-dont-shoot-yourself.json) |
+| Don't Shout Together | 276238 | [276238-dont-shout-together.json](./276238-dont-shout-together.json) |
 | Don't Sink | 75173 | [75173-dont-sink.json](./75173-dont-sink.json) |
 | Don’t Sleep with the Fishes | 403674 | [403674-don-t-sleep-with-the-fishes.json](./403674-don-t-sleep-with-the-fishes.json) |
 | Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
