@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaBash: Final Ascension DLC | 404835 | [404835-gigabash-final-ascension-dlc.json](./404835-gigabash-final-ascension-dlc.json) |
 | GigaBash: GAMERA -Rebirth- DLC | 404834 | [404834-gigabash-gamera-rebirth-dlc.json](./404834-gigabash-gamera-rebirth-dlc.json) |
 | GigaBash: Godzilla - Nemesis DLC | 301437 | [301437-gigabash-godzilla-nemesis-dlc.json](./301437-gigabash-godzilla-nemesis-dlc.json) |
+| GigaBash: Godzilla 4 Kaiju Pack | 246891 | [246891-gigabash-godzilla-4-kaiju-pack.json](./246891-gigabash-godzilla-4-kaiju-pack.json) |
 | GigaBash: MechaJuras | 347860 | [347860-gigabash-mechajuras.json](./347860-gigabash-mechajuras.json) |
 | GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
 | GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
@@ -3367,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
+| Green Reaper | 246915 | [246915-green-reaper.json](./246915-green-reaper.json) |
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
 | Green Sans | 232423 | [232423-green-sans.json](./232423-green-sans.json) |
 | Green Slaugther | 87973 | [87973-green-slaugther.json](./87973-green-slaugther.json) |
@@ -3955,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Me | 254433 | [254433-guilty-me.json](./254433-guilty-me.json) |
 | Guimo | 78942 | [78942-guimo.json](./78942-guimo.json) |
 | Guinea Isles | 382304 | [382304-guinea-isles.json](./382304-guinea-isles.json) |
+| Guinea Pig Bridge! | 246928 | [246928-guinea-pig-bridge.json](./246928-guinea-pig-bridge.json) |
 | Guinea Pig Gunner | 411580 | [411580-guinea-pig-gunner.json](./411580-guinea-pig-gunner.json) |
 | Guinea Pig Temple | 395889 | [395889-guinea-pig-temple.json](./395889-guinea-pig-temple.json) |
 | Guinevere | 313874 | [313874-guinevere.json](./313874-guinevere.json) |
