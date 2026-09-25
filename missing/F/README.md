@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factor Zoo | 413187 | [413187-factor-zoo.json](./413187-factor-zoo.json) |
 | Factor72 | 318540 | [318540-factor72.json](./318540-factor72.json) |
+| Factories of Golden Waters | 276248 | [276248-factories-of-golden-waters.json](./276248-factories-of-golden-waters.json) |
 | Factorio: IR3 | 326052 | [326052-factorio-ir3.json](./326052-factorio-ir3.json) |
 | Factorio: Nullius | 326049 | [326049-factorio-nullius.json](./326049-factorio-nullius.json) |
 | Factorio: UltraCube | 326050 | [326050-factorio-ultracube.json](./326050-factorio-ultracube.json) |
