@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlocked | 49874 | [49874-warlocked.json](./49874-warlocked.json) |
 | Warlocks | 37096 | [37096-warlocks.json](./37096-warlocks.json) |
 | Warlocks | 377723 | [377723-warlocks.json](./377723-warlocks.json) |
+| Warlocks Deeds | 260626 | [260626-warlocks-deeds.json](./260626-warlocks-deeds.json) |
 | Warlocks Deeds: Uncharted Realms | 275614 | [275614-warlocks-deeds-uncharted-realms.json](./275614-warlocks-deeds-uncharted-realms.json) |
 | Warlocks Quarry: Random Worlds + Explorer | 243773 | [243773-warlocks-quarry-random-worlds-explorer.json](./243773-warlocks-quarry-random-worlds-explorer.json) |
 | Warlord: Britannia | 199476 | [199476-warlord-britannia.json](./199476-warlord-britannia.json) |
@@ -1816,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is There? | 221761 | [221761-who-is-there.json](./221761-who-is-there.json) |
 | Who Is This Man | 113570 | [113570-who-is-this-man.json](./113570-who-is-this-man.json) |
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
+| Who Killed the Streamer? | 260645 | [260645-who-killed-the-streamer.json](./260645-who-killed-the-streamer.json) |
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
 | Who Made This | 338369 | [338369-who-made-this.json](./338369-who-made-this.json) |
 | Who Made this Art? Human or AI | 286652 | [286652-who-made-this-art-human-or-ai.json](./286652-who-made-this-art-human-or-ai.json) |
