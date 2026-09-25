@@ -3944,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Geography | 198523 | [198523-the-geography.json](./198523-the-geography.json) |
 | The Geology Game | 88055 | [88055-the-geology-game.json](./88055-the-geology-game.json) |
 | The Geometric Golfer | 244994 | [244994-the-geometric-golfer.json](./244994-the-geometric-golfer.json) |
+| The Gerbil Experiment | 244223 | [244223-the-gerbil-experiment.json](./244223-the-gerbil-experiment.json) |
 | The Getaway 3 | 79609 | [79609-the-getaway-3.json](./79609-the-getaway-3.json) |
 | The Getaway: Black Monday | 8238 | [8238-the-getaway-black-monday.json](./8238-the-getaway-black-monday.json) |
 | The Getaway: High Speed II | 48998 | [48998-the-getaway-high-speed-ii.json](./48998-the-getaway-high-speed-ii.json) |
@@ -4715,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Duskreaper | 236927 | [236927-the-last-duskreaper.json](./236927-the-last-duskreaper.json) |
 | The Last Earth Fighter | 371239 | [371239-the-last-earth-fighter.json](./371239-the-last-earth-fighter.json) |
 | The Last Errant | 396934 | [396934-the-last-errant.json](./396934-the-last-errant.json) |
+| The Last Exam | 244210 | [244210-the-last-exam.json](./244210-the-last-exam.json) |
 | The Last Experiment: A Memetric Story | 370118 | [370118-the-last-experiment-a-memetric-story.json](./370118-the-last-experiment-a-memetric-story.json) |
 | The Last Express | 7650 | [7650-the-last-express.json](./7650-the-last-express.json) |
 | The Last Express: Gold Edition | 30235 | [30235-the-last-express-gold-edition.json](./30235-the-last-express-gold-edition.json) |
@@ -5133,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loneliest Summer | 159827 | [159827-the-loneliest-summer.json](./159827-the-loneliest-summer.json) |
 | The Lonely Architect | 333663 | [333663-the-lonely-architect.json](./333663-the-lonely-architect.json) |
 | The Lonely Gorilla | 94769 | [94769-the-lonely-gorilla.json](./94769-the-lonely-gorilla.json) |
+| The Lonely Hacker | 244180 | [244180-the-lonely-hacker.json](./244180-the-lonely-hacker.json) |
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
 | The Lonely Logs of Lincoln Lane | 301920 | [301920-the-lonely-logs-of-lincoln-lane.json](./301920-the-lonely-logs-of-lincoln-lane.json) |
 | The Lonely Miner | 411121 | [411121-the-lonely-miner.json](./411121-the-lonely-miner.json) |
@@ -6585,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slaughter: Act One | 16995 | [16995-the-slaughter-act-one.json](./16995-the-slaughter-act-one.json) |
 | The Slaughtering Grounds | 13374 | [13374-the-slaughtering-grounds.json](./13374-the-slaughtering-grounds.json) |
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
+| The Slime Plague | 244203 | [244203-the-slime-plague.json](./244203-the-slime-plague.json) |
 | The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
 | The Slipgate Duplex | 271186 | [271186-the-slipgate-duplex.json](./271186-the-slipgate-duplex.json) |
 | The Slopes | 28790 | [28790-the-slopes.json](./28790-the-slopes.json) |
@@ -6660,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song of the Nightrider | 244874 | [244874-the-song-of-the-nightrider.json](./244874-the-song-of-the-nightrider.json) |
 | The Song of the Stars II | 284328 | [284328-the-song-of-the-stars-ii.json](./284328-the-song-of-the-stars-ii.json) |
 | The Sopranos Poker | 57931 | [57931-the-sopranos-poker.json](./57931-the-sopranos-poker.json) |
+| The Sorcerer's Sword | 244212 | [244212-the-sorcerers-sword.json](./244212-the-sorcerers-sword.json) |
 | The Sorceress | 29788 | [29788-the-sorceress.json](./29788-the-sorceress.json) |
 | The Sorceror's Appraisal | 71240 | [71240-the-sorcerors-appraisal.json](./71240-the-sorcerors-appraisal.json) |
 | The Sorrowvirus | 245014 | [245014-the-sorrowvirus.json](./245014-the-sorrowvirus.json) |
@@ -9051,6 +9056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
 | Timeflow: Financial Education Sim | 114440 | [114440-timeflow-financial-education-sim.json](./114440-timeflow-financial-education-sim.json) |
 | Timeguessr | 245281 | [245281-timeguessr.json](./245281-timeguessr.json) |
+| TimeK | 244179 | [244179-timek.json](./244179-timek.json) |
 | Timekeepers | 69586 | [69586-timekeepers.json](./69586-timekeepers.json) |
 | Timekeepers Battleground | 236403 | [236403-timekeepers-battleground.json](./236403-timekeepers-battleground.json) |
 | Timekeepers Expansion | 210702 | [210702-timekeepers-expansion.json](./210702-timekeepers-expansion.json) |
@@ -12406,6 +12412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
 | Tubular Rift | 75175 | [75175-tubular-rift.json](./75175-tubular-rift.json) |
 | Tuby Bird | 40736 | [40736-tuby-bird.json](./40736-tuby-bird.json) |
+| Tuda:Kuda | 244225 | [244225-tuda-kuda.json](./244225-tuda-kuda.json) |
 | Tuff E Nuff | 46006 | [46006-tuff-e-nuff.json](./46006-tuff-e-nuff.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
