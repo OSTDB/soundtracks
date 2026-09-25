@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degeons Project | 390796 | [390796-degeons-project.json](./390796-degeons-project.json) |
 | Degradation: Kyomu's Fury | 265780 | [265780-degradation-kyomus-fury.json](./265780-degradation-kyomus-fury.json) |
 | Degraman: Act I - Vincent | 196165 | [196165-degraman-act-i-vincent.json](./196165-degraman-act-i-vincent.json) |
+| Degraman: Act II - Victor | 265571 | [265571-degraman-act-ii-victor.json](./265571-degraman-act-ii-victor.json) |
 | Degrees of Separation | 110503 | [110503-degrees-of-separation.json](./110503-degrees-of-separation.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
@@ -2549,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dervish | 13589 | [13589-dervish.json](./13589-dervish.json) |
 | Descend | 264044 | [264044-descend.json](./264044-descend.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
+| Descended | 265589 | [265589-descended.json](./265589-descended.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descension | 208447 | [208447-descension.json](./208447-descension.json) |
 | Descension | 352183 | [352183-descension.json](./352183-descension.json) |
@@ -4600,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
 | Don't Puke! | 295317 | [295317-dont-puke.json](./295317-dont-puke.json) |
 | Don't Pull | 361332 | [361332-dont-pull.json](./361332-dont-pull.json) |
+| Don't Punch Me | 265613 | [265613-dont-punch-me.json](./265613-dont-punch-me.json) |
 | Don't Push Your Luck | 400304 | [400304-dont-push-your-luck.json](./400304-dont-push-your-luck.json) |
 | Don't Save the Princess | 111468 | [111468-dont-save-the-princess.json](./111468-dont-save-the-princess.json) |
 | Don't Screw Up! | 233636 | [233636-dont-screw-up.json](./233636-dont-screw-up.json) |
