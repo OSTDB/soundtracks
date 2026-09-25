@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
 | Man, I Love Terraria Fishing | 383611 | [383611-man-i-love-terraria-fishing.json](./383611-man-i-love-terraria-fishing.json) |
 | Man's Body: For Adults | 385312 | [385312-mans-body-for-adults.json](./385312-mans-body-for-adults.json) |
+| Mana | 280309 | [280309-mana.json](./280309-mana.json) |
 | Mana Chess | 195148 | [195148-mana-chess.json](./195148-mana-chess.json) |
 | Mana Cycle | 296970 | [296970-mana-cycle.json](./296970-mana-cycle.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me With Me | 224591 | [224591-me-with-me.json](./224591-me-with-me.json) |
 | Me, the Drifter; Her, the Optimist | 392465 | [392465-me-the-drifter-her-the-optimist.json](./392465-me-the-drifter-her-the-optimist.json) |
 | Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
+| Meadgard | 280279 | [280279-meadgard.json](./280279-meadgard.json) |
 | Meadow Assault | 304582 | [304582-meadow-assault.json](./304582-meadow-assault.json) |
 | Meadowside Mayor | 354517 | [354517-meadowside-mayor.json](./354517-meadowside-mayor.json) |
 | Meal Escape | 86513 | [86513-meal-escape.json](./86513-meal-escape.json) |
@@ -2688,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Kingdom Wars: Royal Blood | 213487 | [213487-medieval-kingdom-wars-royal-blood.json](./213487-medieval-kingdom-wars-royal-blood.json) |
 | Medieval Lands | 412430 | [412430-medieval-lands.json](./412430-medieval-lands.json) |
 | Medieval Legacy | 333011 | [333011-medieval-legacy.json](./333011-medieval-legacy.json) |
+| Medieval Life | 280299 | [280299-medieval-life.json](./280299-medieval-life.json) |
 | Medieval Life Simulator | 384222 | [384222-medieval-life-simulator.json](./384222-medieval-life-simulator.json) |
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Market | 387027 | [387027-medieval-market.json](./387027-medieval-market.json) |
@@ -7443,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Creampie Heaven | 173815 | [173815-my-creampie-heaven.json](./173815-my-creampie-heaven.json) |
 | My Cup of Coffee: Earl Grey Forever After | 57904 | [57904-my-cup-of-coffee-earl-grey-forever-after.json](./57904-my-cup-of-coffee-earl-grey-forever-after.json) |
 | My Cup of Coffee: The Trouble With Earl Grey | 57903 | [57903-my-cup-of-coffee-the-trouble-with-earl-grey.json](./57903-my-cup-of-coffee-the-trouble-with-earl-grey.json) |
+| My Cute Fuhrer | 280265 | [280265-my-cute-fuhrer.json](./280265-my-cute-fuhrer.json) |
 | My Cute Unicorns: Coloring Book | 212272 | [212272-my-cute-unicorns-coloring-book.json](./212272-my-cute-unicorns-coloring-book.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
 | My Daily Pets | 270976 | [270976-my-daily-pets.json](./270976-my-daily-pets.json) |
