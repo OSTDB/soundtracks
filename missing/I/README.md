@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
 | Illegal Excavation | 249880 | [249880-illegal-excavation.json](./249880-illegal-excavation.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
+| Illove dream | 243650 | [243650-illove-dream.json](./243650-illove-dream.json) |
 | Illu-Logi VOW | 269635 | [269635-illu-logi-vow.json](./269635-illu-logi-vow.json) |
 | Illum | 247605 | [247605-illum.json](./247605-illum.json) |
 | Illumina Defender | 369737 | [369737-illumina-defender.json](./369737-illumina-defender.json) |
