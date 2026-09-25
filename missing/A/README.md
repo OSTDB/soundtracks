@@ -1000,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
 | Adventure Escape Mysteries | 124620 | [124620-adventure-escape-mysteries.json](./124620-adventure-escape-mysteries.json) |
+| Adventure Escape Room Bundle | 247492 | [247492-adventure-escape-room-bundle.json](./247492-adventure-escape-room-bundle.json) |
 | Adventure Escape: Allied Spies | 123435 | [123435-adventure-escape-allied-spies.json](./123435-adventure-escape-allied-spies.json) |
 | Adventure Escape: Asylum | 123440 | [123440-adventure-escape-asylum.json](./123440-adventure-escape-asylum.json) |
 | Adventure Escape: Cult Mystery | 123437 | [123437-adventure-escape-cult-mystery.json](./123437-adventure-escape-cult-mystery.json) |
