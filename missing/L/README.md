@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laura | 210115 | [210115-laura.json](./210115-laura.json) |
 | Laura Bow and the Mechanical Codex | 351270 | [351270-laura-bow-and-the-mechanical-codex.json](./351270-laura-bow-and-the-mechanical-codex.json) |
 | Laura Lustful Secrets | 360078 | [360078-laura-lustful-secrets.json](./360078-laura-lustful-secrets.json) |
+| Laura of Reigetsu | 258940 | [258940-laura-of-reigetsu.json](./258940-laura-of-reigetsu.json) |
 | Laura's Happy Adventures | 66703 | [66703-lauras-happy-adventures.json](./66703-lauras-happy-adventures.json) |
 | Lauras Tierklinik | 163974 | [163974-lauras-tierklinik.json](./163974-lauras-tierklinik.json) |
 | Laurel's Day | 393486 | [393486-laurels-day.json](./393486-laurels-day.json) |
@@ -3441,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Anime Puzzle: Valentine | 329163 | [329163-lovely-anime-puzzle-valentine.json](./329163-lovely-anime-puzzle-valentine.json) |
 | Lovely Anime Puzzle: Winter | 403191 | [403191-lovely-anime-puzzle-winter.json](./403191-lovely-anime-puzzle-winter.json) |
 | Lovely Anna | 382310 | [382310-lovely-anna.json](./382310-lovely-anna.json) |
+| Lovely Brides | 259025 | [259025-lovely-brides.json](./259025-lovely-brides.json) |
 | Lovely Bunny Girl! | 97934 | [97934-lovely-bunny-girl.json](./97934-lovely-bunny-girl.json) |
 | Lovely Cat: Dream Party | 247520 | [247520-lovely-cat-dream-party.json](./247520-lovely-cat-dream-party.json) |
 | Lovely Cat: Mermaid Castle | 247521 | [247521-lovely-cat-mermaid-castle.json](./247521-lovely-cat-mermaid-castle.json) |
