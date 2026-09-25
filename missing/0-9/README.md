@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Challenges: Episode 2 - Witchcraft | 339249 | [339249-20-challenges-episode-2-witchcraft.json](./339249-20-challenges-episode-2-witchcraft.json) |
 | 20 Challenges: Episode 4 - Temple of the Elements | 344022 | [344022-20-challenges-episode-4-temple-of-the-elements.json](./344022-20-challenges-episode-4-temple-of-the-elements.json) |
 | 20 Days | 371267 | [371267-20-days.json](./371267-20-days.json) |
+| 20 Doors | 256769 | [256769-20-doors.json](./256769-20-doors.json) |
 | 20 em 1 | 94700 | [94700-20-em-1.json](./94700-20-em-1.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
@@ -553,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2044 Moto Racer: Cyber Racing Simulator | 265709 | [265709-2044-moto-racer-cyber-racing-simulator.json](./265709-2044-moto-racer-cyber-racing-simulator.json) |
 | 2047 CCG | 205587 | [205587-2047-ccg.json](./205587-2047-ccg.json) |
 | 2048 | 214042 | [214042-2048.json](./214042-2048.json) |
+| 2048 | 256775 | [256775-2048.json](./256775-2048.json) |
 | 2048 | 270395 | [270395-2048.json](./270395-2048.json) |
 | 2048 | 280762 | [280762-2048.json](./280762-2048.json) |
 | 2048 | 312586 | [312586-2048.json](./312586-2048.json) |
