@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakemono Heights | 334874 | [334874-bakemono-heights.json](./334874-bakemono-heights.json) |
 | Baker Business 3 | 235967 | [235967-baker-business-3.json](./235967-baker-business-3.json) |
 | Baker Business 3: Spring Pack | 243049 | [243049-baker-business-3-spring-pack.json](./243049-baker-business-3-spring-pack.json) |
+| Baker Street Breakouts: A Sherlockian Escape Adventure | 231870 | [231870-baker-street-breakouts-a-sherlockian-escape-adventure.json](./231870-baker-street-breakouts-a-sherlockian-escape-adventure.json) |
 | Bakeru | 254466 | [254466-bakeru.json](./254466-bakeru.json) |
 | Bakery Magnate: Beginning | 292692 | [292692-bakery-magnate-beginning.json](./292692-bakery-magnate-beginning.json) |
 | Bakery Shop Match Up | 338187 | [338187-bakery-shop-match-up.json](./338187-bakery-shop-match-up.json) |
@@ -3673,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Crafter | 248151 | [248151-blade-crafter.json](./248151-blade-crafter.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade Dancer: Lineage of Light | 269079 | [269079-blade-dancer-lineage-of-light.json](./269079-blade-dancer-lineage-of-light.json) |
+| Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
@@ -4076,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
+| Block Puzzle | 231879 | [231879-block-puzzle.json](./231879-block-puzzle.json) |
 | Block Puzzle | 248639 | [248639-block-puzzle.json](./248639-block-puzzle.json) |
 | Block Puzzle | 318053 | [318053-block-puzzle.json](./318053-block-puzzle.json) |
 | Block Puzzle | 390773 | [390773-block-puzzle.json](./390773-block-puzzle.json) |
