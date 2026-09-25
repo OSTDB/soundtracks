@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage Agents | 262298 | [262298-rampage-agents.json](./262298-rampage-agents.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
+| Rampage World Tour | 249132 | [249132-rampage-world-tour.json](./249132-rampage-world-tour.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
 | Rampart | 341655 | [341655-rampart.json](./341655-rampart.json) |
 | Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
@@ -1116,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit's Toddler | 73297 | [73297-reader-rabbits-toddler.json](./73297-reader-rabbits-toddler.json) |
 | Reading Raven | 104090 | [104090-reading-raven.json](./104090-reading-raven.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
+| Ready 2 Rumble Boxing: Round 2 | 249128 | [249128-ready-2-rumble-boxing-round-2.json](./249128-ready-2-rumble-boxing-round-2.json) |
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
 | Ready or Not: VRO Mod | 360775 | [360775-ready-or-not-vro-mod.json](./360775-ready-or-not-vro-mod.json) |
@@ -1869,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reiner Knizia's Money | 200050 | [200050-reiner-knizias-money.json](./200050-reiner-knizias-money.json) |
 | ReinPhazer | 137459 | [137459-reinphazer.json](./137459-reinphazer.json) |
 | Reinquarantination | 182899 | [182899-reinquarantination.json](./182899-reinquarantination.json) |
+| Reinvasion | 249140 | [249140-reinvasion.json](./249140-reinvasion.json) |
 | Reioku: Ghost House | 355229 | [355229-reioku-ghost-house.json](./355229-reioku-ghost-house.json) |
 | reIterate() | 156545 | [156545-reiterate.json](./156545-reiterate.json) |
 | Reiwa Outliers | 277358 | [277358-reiwa-outliers.json](./277358-reiwa-outliers.json) |
@@ -3346,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road of Dust and Rust | 87949 | [87949-road-of-dust-and-rust.json](./87949-road-of-dust-and-rust.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
 | Road Rage 3 | 43536 | [43536-road-rage-3.json](./43536-road-rage-3.json) |
+| Road Rash | 249144 | [249144-road-rash.json](./249144-road-rash.json) |
 | Road Rash 64 | 3589 | [3589-road-rash-64.json](./3589-road-rash-64.json) |
 | Road Rash III | 199014 | [199014-road-rash-iii.json](./199014-road-rash-iii.json) |
 | Road Riot 4WD | 39946 | [39946-road-riot-4wd.json](./39946-road-riot-4wd.json) |
@@ -3822,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
 | Rocky Memphis and the Temple of Ophuxoff | 65773 | [65773-rocky-memphis-and-the-temple-of-ophuxoff.json](./65773-rocky-memphis-and-the-temple-of-ophuxoff.json) |
 | Rocky Mountain Trophy Hunter: Alaskan Expedition | 69084 | [69084-rocky-mountain-trophy-hunter-alaskan-expedition.json](./69084-rocky-mountain-trophy-hunter-alaskan-expedition.json) |
+| Rocky Mountain: Trophy Hunter | 249158 | [249158-rocky-mountain-trophy-hunter.json](./249158-rocky-mountain-trophy-hunter.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
 | Rocky Towers: Puzzle Defense | 237378 | [237378-rocky-towers-puzzle-defense.json](./237378-rocky-towers-puzzle-defense.json) |
@@ -4669,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugon | 108991 | [108991-rugon.json](./108991-rugon.json) |
 | Rugosi | 106417 | [106417-rugosi.json](./106417-rugosi.json) |
 | Rugrats Go Wild! | 7999 | [7999-rugrats-go-wild.json](./7999-rugrats-go-wild.json) |
+| Rugrats in Paris: The Movie | 249130 | [249130-rugrats-in-paris-the-movie.json](./249130-rugrats-in-paris-the-movie.json) |
 | Rugrats in Paris: The Movie | 2792 | [2792-rugrats-in-paris-the-movie.json](./2792-rugrats-in-paris-the-movie.json) |
 | Rugrats Munchin Land | 70346 | [70346-rugrats-munchin-land.json](./70346-rugrats-munchin-land.json) |
 | Rugrats: Adventures in Gameland | 299152 | [299152-rugrats-adventures-in-gameland.json](./299152-rugrats-adventures-in-gameland.json) |
@@ -4711,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule No. 2 | 199562 | [199562-rule-no-2.json](./199562-rule-no-2.json) |
 | Rule of Rose | 7415 | [7415-rule-of-rose.json](./7415-rule-of-rose.json) |
 | Rule the Waves | 59943 | [59943-rule-the-waves.json](./59943-rule-the-waves.json) |
+| Rule the Waves 3 | 249172 | [249172-rule-the-waves-3.json](./249172-rule-the-waves-3.json) |
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
 | Rule Your School | 30165 | [30165-rule-your-school.json](./30165-rule-your-school.json) |
 | Rule34dle | 361573 | [361573-rule34dle.json](./361573-rule34dle.json) |
