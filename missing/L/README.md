@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundro-Mess | 185551 | [185551-laundro-mess.json](./185551-laundro-mess.json) |
 | Laundromat 8 | 414615 | [414615-laundromat-8.json](./414615-laundromat-8.json) |
 | Laundromat Manager Simulator | 330929 | [330929-laundromat-manager-simulator.json](./330929-laundromat-manager-simulator.json) |
+| Laundry | 233991 | [233991-laundry.json](./233991-laundry.json) |
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
 | Laundry Night | 304166 | [304166-laundry-night.json](./304166-laundry-night.json) |
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
@@ -1892,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightballs | 245833 | [245833-lightballs.json](./245833-lightballs.json) |
 | LightBear | 268994 | [268994-lightbear.json](./268994-lightbear.json) |
 | Lightbender | 329105 | [329105-lightbender.json](./329105-lightbender.json) |
+| LightBike 2 | 234015 | [234015-lightbike-2.json](./234015-lightbike-2.json) |
 | Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
