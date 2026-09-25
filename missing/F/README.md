@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Epic of Remnant III - Shimousa | 414363 | [414363-fate-grand-order-epic-of-remnant-iii-shimousa.json](./414363-fate-grand-order-epic-of-remnant-iii-shimousa.json) |
 | Fate/Grand Order: Epic of Remnant IV - Salem | 414362 | [414362-fate-grand-order-epic-of-remnant-iv-salem.json](./414362-fate-grand-order-epic-of-remnant-iv-salem.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
+| Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
 | Fate/Stay Night | 12328 | [12328-fate-stay-night.json](./12328-fate-stay-night.json) |
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
 | Fate/Stay Night: Réalta Nua - Fate | 47067 | [47067-fate-stay-night-realta-nua-fate.json](./47067-fate-stay-night-realta-nua-fate.json) |
@@ -3347,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FMV Horror Bundle | 236812 | [236812-fmv-horror-bundle.json](./236812-fmv-horror-bundle.json) |
 | FMV Murder Mystery Bundle | 289418 | [289418-fmv-murder-mystery-bundle.json](./289418-fmv-murder-mystery-bundle.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
+| FNaF 4 Retro Edition | 275647 | [275647-fnaf-4-retro-edition.json](./275647-fnaf-4-retro-edition.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
 | FNaF: Wii U Edition | 357443 | [357443-fnaf-wii-u-edition.json](./357443-fnaf-wii-u-edition.json) |
@@ -3373,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foguetão 2000 | 300815 | [300815-foguetao-2000.json](./300815-foguetao-2000.json) |
 | Fohh | 304156 | [304156-fohh.json](./304156-fohh.json) |
 | Foillower | 382923 | [382923-foillower.json](./382923-foillower.json) |
+| FolcDark | 275671 | [275671-folcdark.json](./275671-folcdark.json) |
 | FolcDark: Part II | 274025 | [274025-folcdark-part-ii.json](./274025-folcdark-part-ii.json) |
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
@@ -3790,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Realms: Hillsfar | 195752 | [195752-forgotten-realms-hillsfar.json](./195752-forgotten-realms-hillsfar.json) |
 | Forgotten Riddles: The Mayan Princess | 209562 | [209562-forgotten-riddles-the-mayan-princess.json](./209562-forgotten-riddles-the-mayan-princess.json) |
 | Forgotten Roads | 262940 | [262940-forgotten-roads.json](./262940-forgotten-roads.json) |
+| Forgotten Runiverse | 275661 | [275661-forgotten-runiverse.json](./275661-forgotten-runiverse.json) |
 | Forgotten Saga | 145572 | [145572-forgotten-saga.json](./145572-forgotten-saga.json) |
 | Forgotten Sound 1: Revelation | 83595 | [83595-forgotten-sound-1-revelation.json](./83595-forgotten-sound-1-revelation.json) |
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
@@ -3871,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula V20: 1985 | 304140 | [304140-formula-v20-1985.json](./304140-formula-v20-1985.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
+| ForRace GT2D | 275680 | [275680-forrace-gt2d.json](./275680-forrace-gt2d.json) |
 | Forrest Gump: Match 3 Game | 208389 | [208389-forrest-gump-match-3-game.json](./208389-forrest-gump-match-3-game.json) |
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
 | Forsaken | 196138 | [196138-forsaken.json](./196138-forsaken.json) |
