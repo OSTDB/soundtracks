@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Planes | 238636 | [238636-paper-planes.json](./238636-paper-planes.json) |
+| Paper Planes Plus | 261765 | [261765-paper-planes-plus.json](./261765-paper-planes-plus.json) |
 | Paper Play VR | 298117 | [298117-paper-play-vr.json](./298117-paper-play-vr.json) |
 | Paper Puzzle | 319131 | [319131-paper-puzzle.json](./319131-paper-puzzle.json) |
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
@@ -966,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Jam: Snow Rush | 313231 | [313231-parking-jam-snow-rush.json](./313231-parking-jam-snow-rush.json) |
 | Parking Lot Maze | 146815 | [146815-parking-lot-maze.json](./146815-parking-lot-maze.json) |
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
+| Parking Mania 2 | 261844 | [261844-parking-mania-2.json](./261844-parking-mania-2.json) |
 | Parking Master | 333087 | [333087-parking-master.json](./333087-parking-master.json) |
 | Parking Masters | 313135 | [313135-parking-masters.json](./313135-parking-masters.json) |
 | Parking Masters: Big Rig | 313232 | [313232-parking-masters-big-rig.json](./313232-parking-masters-big-rig.json) |
@@ -2595,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilotwings Resort | 6862 | [6862-pilotwings-resort.json](./6862-pilotwings-resort.json) |
 | Pilsner Urquell: Undress Me!!! | 270673 | [270673-pilsner-urquell-undress-me.json](./270673-pilsner-urquell-undress-me.json) |
 | Pim World | 291746 | [291746-pim-world.json](./291746-pim-world.json) |
+| Pim: The Forgotten | 261767 | [261767-pim-the-forgotten.json](./261767-pim-the-forgotten.json) |
 | Pimania | 93058 | [93058-pimania.json](./93058-pimania.json) |
 | Pimbolas | 338806 | [338806-pimbolas.json](./338806-pimbolas.json) |
 | Pimp Hand Strong! | 234712 | [234712-pimp-hand-strong.json](./234712-pimp-hand-strong.json) |
@@ -2991,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitty Meaty | 368657 | [368657-pitty-meaty.json](./368657-pitty-meaty.json) |
 | Pity Pit | 132769 | [132769-pity-pit.json](./132769-pity-pit.json) |
 | Pity This Busy Monster | 345587 | [345587-pity-this-busy-monster.json](./345587-pity-this-busy-monster.json) |
+| Piverantum | 261752 | [261752-piverantum.json](./261752-piverantum.json) |
 | Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
 | Pivot Puzzles | 65780 | [65780-pivot-puzzles.json](./65780-pivot-puzzles.json) |
 | Pivoting People | 105942 | [105942-pivoting-people.json](./105942-pivoting-people.json) |
@@ -3741,6 +3745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Puzzle:Workshop - Part 5 | 163465 | [163465-pleasure-puzzle-workshop-part-5.json](./163465-pleasure-puzzle-workshop-part-5.json) |
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
 | Pleasuredromes Of Kubla Khan | 268738 | [268738-pleasuredromes-of-kubla-khan.json](./268738-pleasuredromes-of-kubla-khan.json) |
+| Plebs | 261766 | [261766-plebs.json](./261766-plebs.json) |
 | Plentiful | 341567 | [341567-plentiful.json](./341567-plentiful.json) |
 | Plenty of Fish in the Sea | 337492 | [337492-plenty-of-fish-in-the-sea.json](./337492-plenty-of-fish-in-the-sea.json) |
 | Plentypede | 192828 | [192828-plentypede.json](./192828-plentypede.json) |
@@ -6552,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Team | 332982 | [332982-puppet-team.json](./332982-puppet-team.json) |
 | Puppet War | 333153 | [333153-puppet-war.json](./333153-puppet-war.json) |
 | Puppet: Hide And Seek | 302934 | [302934-puppet-hide-and-seek.json](./302934-puppet-hide-and-seek.json) |
+| Puppeteer: Control | 261836 | [261836-puppeteer-control.json](./261836-puppeteer-control.json) |
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
 | PuppetShow: Destiny Undone - Collector's Edition | 105749 | [105749-puppetshow-destiny-undone-collectors-edition.json](./105749-puppetshow-destiny-undone-collectors-edition.json) |
