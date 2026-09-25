@@ -11002,6 +11002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Amtrak's Acela | 237944 | [237944-train-sim-world-3-amtraks-acela.json](./237944-train-sim-world-3-amtraks-acela.json) |
 | Train Sim World 3: Birmingham Standard Edition | 231364 | [231364-train-sim-world-3-birmingham-standard-edition.json](./231364-train-sim-world-3-birmingham-standard-edition.json) |
 | Train Sim World 3: Dispolok BR 182 Add-On | 220712 | [220712-train-sim-world-3-dispolok-br-182-add-on.json](./220712-train-sim-world-3-dispolok-br-182-add-on.json) |
+| Train Sim World 3: Linke Rheinstrecke - Mainz: Koblenz Route | 241308 | [241308-train-sim-world-3-linke-rheinstrecke-mainz-koblenz-route.json](./241308-train-sim-world-3-linke-rheinstrecke-mainz-koblenz-route.json) |
 | Train Sim World 3: Loco Add-On Bundle 2 | 243233 | [243233-train-sim-world-3-loco-add-on-bundle-2.json](./243233-train-sim-world-3-loco-add-on-bundle-2.json) |
 | Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
 | Train Sim World 3: Northeast Corridor - New York: Trenton | 237942 | [237942-train-sim-world-3-northeast-corridor-new-york-trenton.json](./237942-train-sim-world-3-northeast-corridor-new-york-trenton.json) |
@@ -12848,6 +12849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Peas in a pod | 183055 | [183055-two-peas-in-a-pod.json](./183055-two-peas-in-a-pod.json) |
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
 | Two Point Campus: Medical School | 260716 | [260716-two-point-campus-medical-school.json](./260716-two-point-campus-medical-school.json) |
+| Two Point Campus: School Spirits | 241307 | [241307-two-point-campus-school-spirits.json](./241307-two-point-campus-school-spirits.json) |
 | Two Point Hospital and Two Point Campus Double Pack | 223155 | [223155-two-point-hospital-and-two-point-campus-double-pack.json](./223155-two-point-hospital-and-two-point-campus-double-pack.json) |
 | Two Point Hospital: A Stitch in Time | 144911 | [144911-two-point-hospital-a-stitch-in-time.json](./144911-two-point-hospital-a-stitch-in-time.json) |
 | Two Point Hospital: Bigfoot | 144913 | [144913-two-point-hospital-bigfoot.json](./144913-two-point-hospital-bigfoot.json) |
