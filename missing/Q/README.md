@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quip Anomaly | 31938 | [31938-quip-anomaly.json](./31938-quip-anomaly.json) |
 | Quiplash | 11588 | [11588-quiplash.json](./11588-quiplash.json) |
 | Quirk | 139801 | [139801-quirk.json](./139801-quirk.json) |
+| Quirk! Origins: A Jester's Tale | 274516 | [274516-quirk-origins-a-jesters-tale.json](./274516-quirk-origins-a-jesters-tale.json) |
 | Quit the Game to Win | 179167 | [179167-quit-the-game-to-win.json](./179167-quit-the-game-to-win.json) |
 | Quit Your Job | 413605 | [413605-quit-your-job.json](./413605-quit-your-job.json) |
 | Quit Your Job! Become A VTuber Fanartist! | 372478 | [372478-quit-your-job-become-a-vtuber-fanartist.json](./372478-quit-your-job-become-a-vtuber-fanartist.json) |
