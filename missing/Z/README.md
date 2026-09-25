@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero4 Champ Series: Drift Champ | 124629 | [124629-zero4-champ-series-drift-champ.json](./124629-zero4-champ-series-drift-champ.json) |
 | ZeroCar | 88249 | [88249-zerocar.json](./88249-zerocar.json) |
 | Zeroentity | 193942 | [193942-zeroentity.json](./193942-zeroentity.json) |
+| ZeroKing | 278497 | [278497-zeroking.json](./278497-zeroking.json) |
 | Zeromiss | 327210 | [327210-zeromiss.json](./327210-zeromiss.json) |
 | Zerone 2D | 161899 | [161899-zerone-2d.json](./161899-zerone-2d.json) |
 | ZeroPrompt | 399860 | [399860-zeroprompt.json](./399860-zeroprompt.json) |
