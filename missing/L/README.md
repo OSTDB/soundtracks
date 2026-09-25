@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Zangetsu: Akiba's Beat Collaboration - Additional Characters Pack | 246642 | [246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json](./246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Akiba's Trip Collaboration - Additional Characters Pack | 246641 | [246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json](./246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Mind=.0 Collaboration - Additional Characters Pack | 246640 | [246640-labyrinth-of-zangetsu-mind-0-collaboration-additional-characters-pack.json](./246640-labyrinth-of-zangetsu-mind-0-collaboration-additional-characters-pack.json) |
+| Labyrinth Runner | 241888 | [241888-labyrinth-runner.json](./241888-labyrinth-runner.json) |
 | Labyrinth Runner | 40218 | [40218-labyrinth-runner.json](./40218-labyrinth-runner.json) |
 | Labyrinth Simulator | 34739 | [34739-labyrinth-simulator.json](./34739-labyrinth-simulator.json) |
 | Labyrinth Sword Princess | 363434 | [363434-labyrinth-sword-princess.json](./363434-labyrinth-sword-princess.json) |
