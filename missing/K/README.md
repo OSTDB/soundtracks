@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key | 260120 | [260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json](./260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json) |
 | Kagirinaki Tatakai | 64397 | [64397-kagirinaki-tatakai.json](./64397-kagirinaki-tatakai.json) |
 | Kagitori: Bird in Cage Hiding the Key | 260121 | [260121-kagitori-bird-in-cage-hiding-the-key.json](./260121-kagitori-bird-in-cage-hiding-the-key.json) |
+| Kaguya-sama: Love Is War | 239005 | [239005-kaguya-sama-love-is-war.json](./239005-kaguya-sama-love-is-war.json) |
 | Kai Yuan | 236948 | [236948-kai-yuan.json](./236948-kai-yuan.json) |
 | Kai Yuen's Overlapped Universe | 111068 | [111068-kai-yuens-overlapped-universe.json](./111068-kai-yuens-overlapped-universe.json) |
 | Kai-ri-Sei Million Arthur | 137066 | [137066-kai-ri-sei-million-arthur.json](./137066-kai-ri-sei-million-arthur.json) |
@@ -1801,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Puzzelot | 344431 | [344431-knights-of-puzzelot.json](./344431-knights-of-puzzelot.json) |
 | Knights of Riddle | 148479 | [148479-knights-of-riddle.json](./148479-knights-of-riddle.json) |
 | Knights of San Francisco | 174204 | [174204-knights-of-san-francisco.json](./174204-knights-of-san-francisco.json) |
+| Knights of Takhisis Bundle Pack | 239006 | [239006-knights-of-takhisis-bundle-pack.json](./239006-knights-of-takhisis-bundle-pack.json) |
 | Knights of the Card Table | 113790 | [113790-knights-of-the-card-table.json](./113790-knights-of-the-card-table.json) |
 | Knights of the Chalice | 67785 | [67785-knights-of-the-chalice.json](./67785-knights-of-the-chalice.json) |
 | Knights of the Chalice 2: Archmage Edition | 196299 | [196299-knights-of-the-chalice-2-archmage-edition.json](./196299-knights-of-the-chalice-2-archmage-edition.json) |
