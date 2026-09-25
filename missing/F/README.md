@@ -4226,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracture Point | 335257 | [335257-fracture-point.json](./335257-fracture-point.json) |
 | Fracture the Flag | 26551 | [26551-fracture-the-flag.json](./26551-fracture-the-flag.json) |
 | Fracture: City of Destruction | 208444 | [208444-fracture-city-of-destruction.json](./208444-fracture-city-of-destruction.json) |
+| Fractured Alliance | 265588 | [265588-fractured-alliance.json](./265588-fractured-alliance.json) |
 | Fractured Balance | 352290 | [352290-fractured-balance.json](./352290-fractured-balance.json) |
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
@@ -4915,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Slice | 249270 | [249270-fruit-slice.json](./249270-fruit-slice.json) |
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
+| Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
