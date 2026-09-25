@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why So Evil 2: Dystopia | 35629 | [35629-why-so-evil-2-dystopia.json](./35629-why-so-evil-2-dystopia.json) |
 | Why That Girl Stopped Drawing | 83257 | [83257-why-that-girl-stopped-drawing.json](./83257-why-that-girl-stopped-drawing.json) |
 | Why the Long Gun? | 364607 | [364607-why-the-long-gun.json](./364607-why-the-long-gun.json) |
+| Why the Wrong Face? | 273872 | [273872-why-the-wrong-face.json](./273872-why-the-wrong-face.json) |
 | Why? | 335243 | [335243-why.json](./335243-why.json) |
 | WhyImmortal | 289897 | [289897-whyimmortal.json](./289897-whyimmortal.json) |
 | Whys & Wonders Secrets of Our Bodies | 409656 | [409656-whys-and-wonders-secrets-of-our-bodies.json](./409656-whys-and-wonders-secrets-of-our-bodies.json) |
@@ -2221,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winner In Life | 338363 | [338363-winner-in-life.json](./338363-winner-in-life.json) |
 | Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
 | Winner's Circle | 269662 | [269662-winners-circle.json](./269662-winners-circle.json) |
+| Winnie the Pooh: First Steps | 273880 | [273880-winnie-the-pooh-first-steps.json](./273880-winnie-the-pooh-first-steps.json) |
 | Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
 | Winnie the Pooh's Book Writing Speedrunner | 347916 | [347916-winnie-the-poohs-book-writing-speedrunner.json](./347916-winnie-the-poohs-book-writing-speedrunner.json) |
 | Winnie the Witch | 205840 | [205840-winnie-the-witch.json](./205840-winnie-the-witch.json) |
