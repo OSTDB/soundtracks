@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Hentai Puzzle | 214189 | [214189-sexy-hentai-puzzle.json](./214189-sexy-hentai-puzzle.json) |
 | Sexy Hiking | 63138 | [63138-sexy-hiking.json](./63138-sexy-hiking.json) |
 | Sexy Invaders | 41355 | [41355-sexy-invaders.json](./41355-sexy-invaders.json) |
+| Sexy Iron Maidens | 279083 | [279083-sexy-iron-maidens.json](./279083-sexy-iron-maidens.json) |
 | Sexy Katana | 379546 | [379546-sexy-katana.json](./379546-sexy-katana.json) |
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
 | Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
@@ -4883,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skystead Ranch | 258560 | [258560-skystead-ranch.json](./258560-skystead-ranch.json) |
 | Skytail | 380571 | [380571-skytail.json](./380571-skytail.json) |
 | SkyTemple Randomizer | 342172 | [342172-skytemple-randomizer.json](./342172-skytemple-randomizer.json) |
+| Skyts | 279042 | [279042-skyts.json](./279042-skyts.json) |
 | Skyvern | 350422 | [350422-skyvern.json](./350422-skyvern.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyward | 193447 | [193447-skyward.json](./193447-skyward.json) |
@@ -6870,6 +6872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Lost Future | 330530 | [330530-sonic-the-hedgehog-lost-future.json](./330530-sonic-the-hedgehog-lost-future.json) |
 | Sonic the Hedgehog: Minigame Laptop | 294466 | [294466-sonic-the-hedgehog-minigame-laptop.json](./294466-sonic-the-hedgehog-minigame-laptop.json) |
 | Sonic the Hedgehog: Spinball | 237308 | [237308-sonic-the-hedgehog-spinball.json](./237308-sonic-the-hedgehog-spinball.json) |
+| Sonic the Hedgehog: Spinball | 279052 | [279052-sonic-the-hedgehog-spinball.json](./279052-sonic-the-hedgehog-spinball.json) |
 | Sonic the Hedgehog: The Blue Blur! Super Sonic - Quiz Game | 325095 | [325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json](./325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json) |
 | Sonic the Hedgehog: The Freedom Fighters | 330700 | [330700-sonic-the-hedgehog-the-freedom-fighters.json](./330700-sonic-the-hedgehog-the-freedom-fighters.json) |
 | Sonic the Hedgehog's Gameworld | 52188 | [52188-sonic-the-hedgehogs-gameworld.json](./52188-sonic-the-hedgehogs-gameworld.json) |
@@ -7540,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders: Invincible Collection | 119406 | [119406-space-invaders-invincible-collection.json](./119406-space-invaders-invincible-collection.json) |
 | Space Invaders: Invincible Collection - Special Edition | 141665 | [141665-space-invaders-invincible-collection-special-edition.json](./141665-space-invaders-invincible-collection-special-edition.json) |
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
+| Space Invasion | 279067 | [279067-space-invasion.json](./279067-space-invasion.json) |
 | Space Invasion | 293713 | [293713-space-invasion.json](./293713-space-invasion.json) |
 | Space Inversion | 260762 | [260762-space-inversion.json](./260762-space-inversion.json) |
 | Space Inversion 2 HD | 174313 | [174313-space-inversion-2-hd.json](./174313-space-inversion-2-hd.json) |
@@ -10001,6 +10005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamRush | 295278 | [295278-steamrush.json](./295278-steamrush.json) |
 | Steamry | 365678 | [365678-steamry.json](./365678-steamry.json) |
 | SteamStar | 305949 | [305949-steamstar.json](./305949-steamstar.json) |
+| SteamWorld Build & Dig Bundle | 279037 | [279037-steamworld-build-and-dig-bundle.json](./279037-steamworld-build-and-dig-bundle.json) |
 | SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
 | Steamworld Essentials Collection | 380702 | [380702-steamworld-essentials-collection.json](./380702-steamworld-essentials-collection.json) |
