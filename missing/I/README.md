@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Warrior | 129679 | [129679-idle-warrior.json](./129679-idle-warrior.json) |
 | Idle Wasteland: Pet Slot Bundle | 157546 | [157546-idle-wasteland-pet-slot-bundle.json](./157546-idle-wasteland-pet-slot-bundle.json) |
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
+| Idle Weaponshop | 261756 | [261756-idle-weaponshop.json](./261756-idle-weaponshop.json) |
 | Idle World | 392449 | [392449-idle-world.json](./392449-idle-world.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
@@ -1492,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Pixel | 62692 | [62692-infinite-pixel.json](./62692-infinite-pixel.json) |
 | Infinite Pizza | 141819 | [141819-infinite-pizza.json](./141819-infinite-pizza.json) |
 | Infinite Rails | 341032 | [341032-infinite-rails.json](./341032-infinite-rails.json) |
+| Infinite Realms | 261771 | [261771-infinite-realms.json](./261771-infinite-realms.json) |
 | Infinite Rebirth | 337673 | [337673-infinite-rebirth.json](./337673-infinite-rebirth.json) |
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
 | Infinite Robotics | 279000 | [279000-infinite-robotics.json](./279000-infinite-robotics.json) |
