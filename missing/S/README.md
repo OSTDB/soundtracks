@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaquest DSV | 45591 | [45591-seaquest-dsv.json](./45591-seaquest-dsv.json) |
 | SeaQuest DSV | 138802 | [138802-seaquest-dsv.json](./138802-seaquest-dsv.json) |
 | SeaQuest Dungeon | 379346 | [379346-seaquest-dungeon.json](./379346-seaquest-dungeon.json) |
+| Search | 231877 | [231877-search.json](./231877-search.json) |
 | Search | 233771 | [233771-search.json](./233771-search.json) |
 | Search | 250425 | [250425-search.json](./250425-search.json) |
 | Search & Destroy | 43347 | [43347-search-and-destroy.json](./43347-search-and-destroy.json) |
@@ -3870,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle! | 31127 | [31127-shuffle.json](./31127-shuffle.json) |
 | Shuffle! Episode 2: Kami ni mo Akuma ni mo Nerawareteiru Otoko | 380427 | [380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json](./380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json) |
 | Shuffleboard | 170526 | [170526-shuffleboard.json](./170526-shuffleboard.json) |
+| Shuffleboard 2023 | 231900 | [231900-shuffleboard-2023.json](./231900-shuffleboard-2023.json) |
 | Shuffled Words | 219608 | [219608-shuffled-words.json](./219608-shuffled-words.json) |
 | Shuffles 'n Scuffles | 372701 | [372701-shuffles-n-scuffles.json](./372701-shuffles-n-scuffles.json) |
 | Shugo Chara! 3-tsu no Tamago to Koisuru Joker | 70669 | [70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json](./70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json) |
@@ -4055,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigil of Kings | 235722 | [235722-sigil-of-kings.json](./235722-sigil-of-kings.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
 | Sigma | 260791 | [260791-sigma.json](./260791-sigma.json) |
+| Sigma Battle Royale Shooter | 231899 | [231899-sigma-battle-royale-shooter.json](./231899-sigma-battle-royale-shooter.json) |
 | Sigma Draconis | 133450 | [133450-sigma-draconis.json](./133450-sigma-draconis.json) |
 | Sigma Harmonics | 24946 | [24946-sigma-harmonics.json](./24946-sigma-harmonics.json) |
 | Sigma Impact | 159799 | [159799-sigma-impact.json](./159799-sigma-impact.json) |
@@ -6122,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Fight 2025 | 379038 | [379038-snowball-fight-2025.json](./379038-snowball-fight-2025.json) |
 | Snowball Fight At Christmas | 165020 | [165020-snowball-fight-at-christmas.json](./165020-snowball-fight-at-christmas.json) |
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
+| Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
 | Snowbird Solitaire | 354998 | [354998-snowbird-solitaire.json](./354998-snowbird-solitaire.json) |
 | Snowblind Aces | 216239 | [216239-snowblind-aces.json](./216239-snowblind-aces.json) |
 | Snowboard Champion | 280844 | [280844-snowboard-champion.json](./280844-snowboard-champion.json) |
@@ -6262,6 +6266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Clubs | 235998 | [235998-soccer-clubs.json](./235998-soccer-clubs.json) |
 | Soccer Cup Solitaire | 87064 | [87064-soccer-cup-solitaire.json](./87064-soccer-cup-solitaire.json) |
 | Soccer Cup: World League | 232135 | [232135-soccer-cup-world-league.json](./232135-soccer-cup-world-league.json) |
+| Soccer Defense | 231897 | [231897-soccer-defense.json](./231897-soccer-defense.json) |
 | Soccer Feeling | 59444 | [59444-soccer-feeling.json](./59444-soccer-feeling.json) |
 | Soccer for Arcadia 2001 | 131540 | [131540-soccer-for-arcadia-2001.json](./131540-soccer-for-arcadia-2001.json) |
 | Soccer Goal Run | 329577 | [329577-soccer-goal-run.json](./329577-soccer-goal-run.json) |
@@ -6523,10 +6528,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire After Hours | 386147 | [386147-solitaire-after-hours.json](./386147-solitaire-after-hours.json) |
 | Solitaire Antics Ultimate Plus | 54388 | [54388-solitaire-antics-ultimate-plus.json](./54388-solitaire-antics-ultimate-plus.json) |
 | Solitaire Battle | 353365 | [353365-solitaire-battle.json](./353365-solitaire-battle.json) |
+| Solitaire Card Deck Game '23 | 231896 | [231896-solitaire-card-deck-game-23.json](./231896-solitaire-card-deck-game-23.json) |
 | Solitaire Central | 384790 | [384790-solitaire-central.json](./384790-solitaire-central.json) |
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
 | Solitaire Classic Online | 87092 | [87092-solitaire-classic-online.json](./87092-solitaire-classic-online.json) |
+| Solitaire Classic: Card Game | 231895 | [231895-solitaire-classic-card-game.json](./231895-solitaire-classic-card-game.json) |
 | Solitaire Collection | 208949 | [208949-solitaire-collection.json](./208949-solitaire-collection.json) |
 | Solitaire Collection HD | 90371 | [90371-solitaire-collection-hd.json](./90371-solitaire-collection-hd.json) |
 | Solitaire Crime Stories | 386141 | [386141-solitaire-crime-stories.json](./386141-solitaire-crime-stories.json) |
@@ -10219,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Condition | 393102 | [393102-static-condition.json](./393102-static-condition.json) |
 | Static Dread: The Submarine | 376689 | [376689-static-dread-the-submarine.json](./376689-static-dread-the-submarine.json) |
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
+| Static Shift Racing | 231894 | [231894-static-shift-racing.json](./231894-static-shift-racing.json) |
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
 | Static Sky: And Yet It | 341159 | [341159-static-sky-and-yet-it.json](./341159-static-sky-and-yet-it.json) |
 | Static-End | 178028 | [178028-static-end.json](./178028-static-end.json) |
@@ -10614,6 +10622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Arc Hero Fight | 235234 | [235234-stickman-arc-hero-fight.json](./235234-stickman-arc-hero-fight.json) |
 | Stickman Archer Fight | 86932 | [86932-stickman-archer-fight.json](./86932-stickman-archer-fight.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
+| Stickman Battle War | 231893 | [231893-stickman-battle-war.json](./231893-stickman-battle-war.json) |
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
 | Stickman Bike: Pro Ride | 378403 | [378403-stickman-bike-pro-ride.json](./378403-stickman-bike-pro-ride.json) |
 | Stickman Destruction | 75112 | [75112-stickman-destruction.json](./75112-stickman-destruction.json) |
@@ -10633,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Physics Battle Arena | 391757 | [391757-stickman-physics-battle-arena.json](./391757-stickman-physics-battle-arena.json) |
 | Stickman Pixel Archer | 239348 | [239348-stickman-pixel-archer.json](./239348-stickman-pixel-archer.json) |
 | Stickman PVP Warriors PRO online | 95858 | [95858-stickman-pvp-warriors-pro-online.json](./95858-stickman-pvp-warriors-pro-online.json) |
+| Stickman Red boy and Blue girl | 231892 | [231892-stickman-red-boy-and-blue-girl.json](./231892-stickman-red-boy-and-blue-girl.json) |
 | Stickman Revenge: Demon Slayer | 323201 | [323201-stickman-revenge-demon-slayer.json](./323201-stickman-revenge-demon-slayer.json) |
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
@@ -10969,6 +10979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
 | Strategic Command WWII: World at War | 112747 | [112747-strategic-command-wwii-world-at-war.json](./112747-strategic-command-wwii-world-at-war.json) |
+| Strategic Command: American Civil War - Wars in the Americas | 231865 | [231865-strategic-command-american-civil-war-wars-in-the-americas.json](./231865-strategic-command-american-civil-war-wars-in-the-americas.json) |
 | Strategic Command: European Theater | 51892 | [51892-strategic-command-european-theater.json](./51892-strategic-command-european-theater.json) |
 | Strategic Command: World War I | 129592 | [129592-strategic-command-world-war-i.json](./129592-strategic-command-world-war-i.json) |
 | Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
@@ -12156,6 +12167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
+| Super Boy Commander Bros | 231881 | [231881-super-boy-commander-bros.json](./231881-super-boy-commander-bros.json) |
 | Super Boy III | 47524 | [47524-super-boy-iii.json](./47524-super-boy-iii.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
 | Super Brawl 4 | 59042 | [59042-super-brawl-4.json](./59042-super-brawl-4.json) |
@@ -13112,6 +13124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. | 328589 | [328589-super-smash-bros.json](./328589-super-smash-bros.json) |
 | Super Smash Bros. 3D | 339945 | [339945-super-smash-bros-3d.json](./339945-super-smash-bros-3d.json) |
 | Super Smash Bros. Alternate Universe | 358315 | [358315-super-smash-bros-alternate-universe.json](./358315-super-smash-bros-alternate-universe.json) |
+| Super Smash Bros. Brawl: Limited Edition | 231867 | [231867-super-smash-bros-brawl-limited-edition.json](./231867-super-smash-bros-brawl-limited-edition.json) |
 | Super Smash Bros. Clash | 279590 | [279590-super-smash-bros-clash.json](./279590-super-smash-bros-clash.json) |
 | Super Smash Bros. Crusade Remix | 408816 | [408816-super-smash-bros-crusade-remix.json](./408816-super-smash-bros-crusade-remix.json) |
 | Super Smash Bros. Deluxe | 230369 | [230369-super-smash-bros-deluxe.json](./230369-super-smash-bros-deluxe.json) |
@@ -13603,6 +13616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
 | Survival in Draconia | 309468 | [309468-survival-in-draconia.json](./309468-survival-in-draconia.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
+| Survival Island: Evolve | 231882 | [231882-survival-island-evolve.json](./231882-survival-island-evolve.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
 | Survival Maze | 99428 | [99428-survival-maze.json](./99428-survival-maze.json) |
 | Survival Mobile:10,000 BC | 90381 | [90381-survival-mobile-10-000-bc.json](./90381-survival-mobile-10-000-bc.json) |
