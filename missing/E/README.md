@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden | 85855 | [85855-eden.json](./85855-eden.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
+| Eden Isle: Resort Paradise | 261841 | [261841-eden-isle-resort-paradise.json](./261841-eden-isle-resort-paradise.json) |
 | Eden Remains: Arrival | 203944 | [203944-eden-remains-arrival.json](./203944-eden-remains-arrival.json) |
 | Eden Rising | 81383 | [81383-eden-rising.json](./81383-eden-rising.json) |
 | Eden Rising: Ascendant Expansion | 169326 | [169326-eden-rising-ascendant-expansion.json](./169326-eden-rising-ascendant-expansion.json) |
@@ -962,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elk Simulator | 158565 | [158565-elk-simulator.json](./158565-elk-simulator.json) |
 | Ella Stars | 334127 | [334127-ella-stars.json](./334127-ella-stars.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
+| Ellan: The Lost Soul | 261768 | [261768-ellan-the-lost-soul.json](./261768-ellan-the-lost-soul.json) |
 | Ellentis | 370178 | [370178-ellentis.json](./370178-ellentis.json) |
 | Ellie | 113681 | [113681-ellie.json](./113681-ellie.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
@@ -990,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ELOA: Elite Lord of Alliance | 26535 | [26535-eloa-elite-lord-of-alliance.json](./26535-eloa-elite-lord-of-alliance.json) |
 | Elon and the Divine Proof | 326066 | [326066-elon-and-the-divine-proof.json](./326066-elon-and-the-divine-proof.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
+| Elon Simulator | 261831 | [261831-elon-simulator.json](./261831-elon-simulator.json) |
 | Elon Simulator VR | 250994 | [250994-elon-simulator-vr.json](./250994-elon-simulator-vr.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
 | Elon's Dream | 157210 | [157210-elons-dream.json](./157210-elons-dream.json) |
@@ -3067,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
 | Extreme Angler | 72051 | [72051-extreme-angler.json](./72051-extreme-angler.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
+| Extreme Bus Driver Simulator | 261763 | [261763-extreme-bus-driver-simulator.json](./261763-extreme-bus-driver-simulator.json) |
 | Extreme Car Drift Simulator | 234197 | [234197-extreme-car-drift-simulator.json](./234197-extreme-car-drift-simulator.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
 | Extreme Custom Night | 277965 | [277965-extreme-custom-night.json](./277965-extreme-custom-night.json) |
