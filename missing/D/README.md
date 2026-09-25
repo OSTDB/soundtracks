@@ -6184,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Max Pro | 99408 | [99408-drift-max-pro.json](./99408-drift-max-pro.json) |
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Out '94 - The Hard Order | 39826 | [39826-drift-out-94-the-hard-order.json](./39826-drift-out-94-the-hard-order.json) |
+| Drift Reign | 245834 | [245834-drift-reign.json](./245834-drift-reign.json) |
 | Drift Runners | 287157 | [287157-drift-runners.json](./287157-drift-runners.json) |
 | Drift Showcase | 369752 | [369752-drift-showcase.json](./369752-drift-showcase.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
@@ -7160,6 +7161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Village: Dark Siege Td | 348847 | [348847-dwarven-village-dark-siege-td.json](./348847-dwarven-village-dark-siege-td.json) |
 | Dwarven: Mining Dungeons | 193435 | [193435-dwarven-mining-dungeons.json](./193435-dwarven-mining-dungeons.json) |
 | Dwarves Craft: Father's Home | 147372 | [147372-dwarves-craft-fathers-home.json](./147372-dwarves-craft-fathers-home.json) |
+| Dwarves Mining Idle | 245824 | [245824-dwarves-mining-idle.json](./245824-dwarves-mining-idle.json) |
 | Dwarves: Build and survive | 166189 | [166189-dwarves-build-and-survive.json](./166189-dwarves-build-and-survive.json) |
 | Dwarves: Idle Battles | 413753 | [413753-dwarves-idle-battles.json](./413753-dwarves-idle-battles.json) |
 | DweeMixed: Thwee Pack | 187477 | [187477-dweemixed-thwee-pack.json](./187477-dweemixed-thwee-pack.json) |
