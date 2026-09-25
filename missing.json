@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T00:17:56.869Z",
-  "total_missing": 118393,
+  "generated_at": "2026-09-25T00:33:00.478Z",
+  "total_missing": 118443,
   "games": [
     {
       "igdb_id": 176875,
@@ -11546,6 +11546,11 @@
       "igdb_id": 405077,
       "game_name": "Age of Empires IV: Raiders of the North",
       "file": "missing/A/405077-age-of-empires-iv-raiders-of-the-north.json"
+    },
+    {
+      "igdb_id": 280839,
+      "game_name": "Age of Empires Mobile",
+      "file": "missing/A/280839-age-of-empires-mobile.json"
     },
     {
       "igdb_id": 145567,
@@ -42958,6 +42963,11 @@
       "file": "missing/B/277862-baseball.json"
     },
     {
+      "igdb_id": 280876,
+      "game_name": "Baseball",
+      "file": "missing/B/280876-baseball.json"
+    },
+    {
       "igdb_id": 297486,
       "game_name": "Baseball",
       "file": "missing/B/297486-baseball.json"
@@ -47756,6 +47766,11 @@
       "igdb_id": 70632,
       "game_name": "Beatmania 4thMix: The Beat Goes On",
       "file": "missing/B/70632-beatmania-4thmix-the-beat-goes-on.json"
+    },
+    {
+      "igdb_id": 280863,
+      "game_name": "Beatmania 6thMIX + Core Remix",
+      "file": "missing/B/280863-beatmania-6thmix-core-remix.json"
     },
     {
       "igdb_id": 79612,
@@ -60298,6 +60313,11 @@
       "file": "missing/B/28189-bokida-heartfelt-reunion.json"
     },
     {
+      "igdb_id": 280818,
+      "game_name": "Bokosuka Wars",
+      "file": "missing/B/280818-bokosuka-wars.json"
+    },
+    {
       "igdb_id": 6329,
       "game_name": "Boktai 2: Solar Boy Django",
       "file": "missing/B/6329-boktai-2-solar-boy-django.json"
@@ -61376,6 +61396,11 @@
       "igdb_id": 57077,
       "game_name": "Bonk.io",
       "file": "missing/B/57077-bonk-io.json"
+    },
+    {
+      "igdb_id": 280819,
+      "game_name": "Bonk's Adventure",
+      "file": "missing/B/280819-bonks-adventure.json"
     },
     {
       "igdb_id": 7794,
@@ -62861,6 +62886,91 @@
       "igdb_id": 12942,
       "game_name": "Boulder Dash",
       "file": "missing/B/12942-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280820,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280820-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280821,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280821-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280823,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280823-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280825,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280825-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280826,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280826-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280827,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280827-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280828,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280828-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280829,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280829-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280830,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280830-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280831,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280831-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280832,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280832-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280833,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280833-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280834,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280834-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280835,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280835-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280836,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280836-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280837,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280837-boulder-dash.json"
+    },
+    {
+      "igdb_id": 280838,
+      "game_name": "Boulder Dash",
+      "file": "missing/B/280838-boulder-dash.json"
     },
     {
       "igdb_id": 283712,
@@ -67561,6 +67671,11 @@
       "igdb_id": 91950,
       "game_name": "Brutus",
       "file": "missing/B/91950-brutus.json"
+    },
+    {
+      "igdb_id": 280859,
+      "game_name": "Bruxa Luna",
+      "file": "missing/B/280859-bruxa-luna.json"
     },
     {
       "igdb_id": 251700,
@@ -82938,6 +83053,11 @@
       "file": "missing/C/115424-chat-arena.json"
     },
     {
+      "igdb_id": 280857,
+      "game_name": "Chat Guess Games",
+      "file": "missing/C/280857-chat-guess-games.json"
+    },
+    {
       "igdb_id": 81261,
       "game_name": "Chat Showdown - A twitch streamer's game!",
       "file": "missing/C/81261-chat-showdown-a-twitch-streamers-game.json"
@@ -86491,6 +86611,11 @@
       "igdb_id": 336538,
       "game_name": "Christmas Horror Land",
       "file": "missing/C/336538-christmas-horror-land.json"
+    },
+    {
+      "igdb_id": 280858,
+      "game_name": "Christmas Horse 4",
+      "file": "missing/C/280858-christmas-horse-4.json"
     },
     {
       "igdb_id": 320384,
@@ -101276,6 +101401,11 @@
       "igdb_id": 211958,
       "game_name": "Cracking the Cryptic",
       "file": "missing/C/211958-cracking-the-cryptic.json"
+    },
+    {
+      "igdb_id": 280875,
+      "game_name": "Cracking the Cryptic: GAS Volume #1",
+      "file": "missing/C/280875-cracking-the-cryptic-gas-volume-1.json"
     },
     {
       "igdb_id": 48292,
@@ -122203,6 +122333,11 @@
       "file": "missing/D/197868-demon-turf-neon-splash.json"
     },
     {
+      "igdb_id": 280851,
+      "game_name": "Demon Turf: The Tower",
+      "file": "missing/D/280851-demon-turf-the-tower.json"
+    },
+    {
       "igdb_id": 398594,
       "game_name": "Demon Waltz",
       "file": "missing/D/398594-demon-waltz.json"
@@ -125596,6 +125731,11 @@
       "igdb_id": 361796,
       "game_name": "Dialoop",
       "file": "missing/D/361796-dialoop.json"
+    },
+    {
+      "igdb_id": 280869,
+      "game_name": "Diam's",
+      "file": "missing/D/280869-diams.json"
     },
     {
       "igdb_id": 59921,
@@ -141131,6 +141271,11 @@
       "igdb_id": 340214,
       "game_name": "Driving Force",
       "file": "missing/D/340214-driving-force.json"
+    },
+    {
+      "igdb_id": 280864,
+      "game_name": "Driving Homeicide",
+      "file": "missing/D/280864-driving-homeicide.json"
     },
     {
       "igdb_id": 372664,
@@ -157513,6 +157658,11 @@
       "file": "missing/E/72086-etrom-the-astral-essence.json"
     },
     {
+      "igdb_id": 280843,
+      "game_name": "Etsuraku no Gakuen",
+      "file": "missing/E/280843-etsuraku-no-gakuen.json"
+    },
+    {
       "igdb_id": 176364,
       "game_name": "Ettermag",
       "file": "missing/E/176364-ettermag.json"
@@ -170283,6 +170433,11 @@
       "file": "missing/F/235309-fighters-rampage.json"
     },
     {
+      "igdb_id": 280849,
+      "game_name": "Fighters of Capcom",
+      "file": "missing/F/280849-fighters-of-capcom.json"
+    },
+    {
       "igdb_id": 30166,
       "game_name": "Fighters Unleashed",
       "file": "missing/F/30166-fighters-unleashed.json"
@@ -182813,6 +182968,11 @@
       "file": "missing/F/315832-fragrant-story-and-papayas-path.json"
     },
     {
+      "igdb_id": 280862,
+      "game_name": "Fragrant Story: Papaya's Path",
+      "file": "missing/F/280862-fragrant-story-papayas-path.json"
+    },
+    {
       "igdb_id": 190094,
       "game_name": "Fragroom: Defenders",
       "file": "missing/F/190094-fragroom-defenders.json"
@@ -190041,6 +190201,11 @@
       "igdb_id": 64689,
       "game_name": "Galaxy Fräulein Yuna 2: Eien no Princess",
       "file": "missing/G/64689-galaxy-fraulein-yuna-2-eien-no-princess.json"
+    },
+    {
+      "igdb_id": 280845,
+      "game_name": "Galaxy Fräulein Yuna: Final Edition",
+      "file": "missing/G/280845-galaxy-fraulein-yuna-final-edition.json"
     },
     {
       "igdb_id": 11396,
@@ -282898,6 +283063,11 @@
       "file": "missing/L/62996-lost-toys.json"
     },
     {
+      "igdb_id": 280842,
+      "game_name": "Lost Traces: Unsolved Cases - False Awakening",
+      "file": "missing/L/280842-lost-traces-unsolved-cases-false-awakening.json"
+    },
+    {
       "igdb_id": 329387,
       "game_name": "Lost Traces: Unsolved Cases - Genesis",
       "file": "missing/L/329387-lost-traces-unsolved-cases-genesis.json"
@@ -288831,6 +289001,11 @@
       "igdb_id": 377301,
       "game_name": "Magic Weapon",
       "file": "missing/M/377301-magic-weapon.json"
+    },
+    {
+      "igdb_id": 280860,
+      "game_name": "Magic Witches",
+      "file": "missing/M/280860-magic-witches.json"
     },
     {
       "igdb_id": 130862,
@@ -295568,6 +295743,11 @@
       "file": "missing/M/30325-masha-rescues-grandma.json"
     },
     {
+      "igdb_id": 280846,
+      "game_name": "Mashin Eiyuuden Wataru",
+      "file": "missing/M/280846-mashin-eiyuuden-wataru.json"
+    },
+    {
       "igdb_id": 284457,
       "game_name": "Mashin Eiyuuden Wataru 2: Gekisen! Ryuusei-maru vs. Kokuryuukaku",
       "file": "missing/M/284457-mashin-eiyuuden-wataru-2-gekisen-ryuusei-maru-vs-kokuryuukaku.json"
@@ -296416,6 +296596,11 @@
       "igdb_id": 70117,
       "game_name": "Masters of the Elements",
       "file": "missing/M/70117-masters-of-the-elements.json"
+    },
+    {
+      "igdb_id": 280865,
+      "game_name": "Masters of the Universe",
+      "file": "missing/M/280865-masters-of-the-universe.json"
     },
     {
       "igdb_id": 30904,
@@ -339226,6 +339411,11 @@
       "igdb_id": 210717,
       "game_name": "Noelle Does Her Best!",
       "file": "missing/N/210717-noelle-does-her-best.json"
+    },
+    {
+      "igdb_id": 280817,
+      "game_name": "Noelle's Forest Adventure",
+      "file": "missing/N/280817-noelles-forest-adventure.json"
     },
     {
       "igdb_id": 403695,
@@ -413458,6 +413648,11 @@
       "file": "missing/R/153357-run-die-jump.json"
     },
     {
+      "igdb_id": 280847,
+      "game_name": "Run Elephant Run",
+      "file": "missing/R/280847-run-elephant-run.json"
+    },
+    {
       "igdb_id": 111014,
       "game_name": "Run Fairy",
       "file": "missing/R/111014-run-fairy.json"
@@ -426758,6 +426953,11 @@
       "file": "missing/S/120944-seven-wonders-of-st-clementine.json"
     },
     {
+      "igdb_id": 280861,
+      "game_name": "Seven: Drowned Past",
+      "file": "missing/S/280861-seven-drowned-past.json"
+    },
+    {
       "igdb_id": 154529,
       "game_name": "Seven: Enhanced - Collector's Edition",
       "file": "missing/S/154529-seven-enhanced-collectors-edition.json"
@@ -432176,6 +432376,11 @@
       "igdb_id": 335999,
       "game_name": "Shizuoka Curse",
       "file": "missing/S/335999-shizuoka-curse.json"
+    },
+    {
+      "igdb_id": 280840,
+      "game_name": "Shkilagames Story: Episode 1",
+      "file": "missing/S/280840-shkilagames-story-episode-1.json"
     },
     {
       "igdb_id": 340225,
@@ -444633,6 +444838,11 @@
       "file": "missing/S/216239-snowblind-aces.json"
     },
     {
+      "igdb_id": 280844,
+      "game_name": "Snowboard Champion",
+      "file": "missing/S/280844-snowboard-champion.json"
+    },
+    {
       "igdb_id": 70664,
       "game_name": "Snowboard Heaven",
       "file": "missing/S/70664-snowboard-heaven.json"
@@ -449691,6 +449901,11 @@
       "igdb_id": 326809,
       "game_name": "Sonic X: The Game",
       "file": "missing/S/326809-sonic-x-the-game.json"
+    },
+    {
+      "igdb_id": 280874,
+      "game_name": "Sonic XG",
+      "file": "missing/S/280874-sonic-xg.json"
     },
     {
       "igdb_id": 331666,
@@ -476308,6 +476523,11 @@
       "file": "missing/S/135178-super-mario-and-the-marvel-adventure.json"
     },
     {
+      "igdb_id": 280824,
+      "game_name": "Super Mario and the Monstrous Manor",
+      "file": "missing/S/280824-super-mario-and-the-monstrous-manor.json"
+    },
+    {
       "igdb_id": 356293,
       "game_name": "Super Mario and the Space Base",
       "file": "missing/S/356293-super-mario-and-the-space-base.json"
@@ -492073,6 +492293,11 @@
       "file": "missing/T/108420-teleblast.json"
     },
     {
+      "igdb_id": 280868,
+      "game_name": "TeleCollision",
+      "file": "missing/T/280868-telecollision.json"
+    },
+    {
       "igdb_id": 226605,
       "game_name": "Teleforum",
       "file": "missing/T/226605-teleforum.json"
@@ -492966,6 +493191,11 @@
       "igdb_id": 35830,
       "game_name": "Tennis Elbow 2013",
       "file": "missing/T/35830-tennis-elbow-2013.json"
+    },
+    {
+      "igdb_id": 280871,
+      "game_name": "Tennis Esports",
+      "file": "missing/T/280871-tennis-esports.json"
     },
     {
       "igdb_id": 248064,
@@ -500251,6 +500481,11 @@
       "igdb_id": 208384,
       "game_name": "The Czech Run",
       "file": "missing/T/208384-the-czech-run.json"
+    },
+    {
+      "igdb_id": 280855,
+      "game_name": "The D Show",
+      "file": "missing/T/280855-the-d-show.json"
     },
     {
       "igdb_id": 54689,
@@ -535893,6 +536128,11 @@
       "file": "missing/T/46722-touhou-puppet-dance-performance.json"
     },
     {
+      "igdb_id": 280870,
+      "game_name": "Touhou Rakuryuusei: The Shattered Sky",
+      "file": "missing/T/280870-touhou-rakuryuusei-the-shattered-sky.json"
+    },
+    {
       "igdb_id": 204669,
       "game_name": "Touhou Rekkaden: Rift in a Friendship Game",
       "file": "missing/T/204669-touhou-rekkaden-rift-in-a-friendship-game.json"
@@ -544361,6 +544601,11 @@
       "igdb_id": 92516,
       "game_name": "Troy Online",
       "file": "missing/T/92516-troy-online.json"
+    },
+    {
+      "igdb_id": 280850,
+      "game_name": "Tru Or Die: Chiraq",
+      "file": "missing/T/280850-tru-or-die-chiraq.json"
     },
     {
       "igdb_id": 328466,
@@ -580446,6 +580691,11 @@
       "igdb_id": 333083,
       "game_name": "Wretched Star",
       "file": "missing/W/333083-wretched-star.json"
+    },
+    {
+      "igdb_id": 280867,
+      "game_name": "Wrigglui",
+      "file": "missing/W/280867-wrigglui.json"
     },
     {
       "igdb_id": 208020,
