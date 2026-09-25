@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
 | Pajama Sam 2: Thunder and Lightning Aren't so Frightening | 3731 | [3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json](./3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json) |
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
+| Pakka Pets Village | 230212 | [230212-pakka-pets-village.json](./230212-pakka-pets-village.json) |
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
 | Pako 4 | 339925 | [339925-pako-4.json](./339925-pako-4.json) |
@@ -1453,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC-Man | 25148 | [25148-pc-man.json](./25148-pc-man.json) |
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
 | PCB | 372104 | [372104-pcb.json](./372104-pcb.json) |
+| PD: Prope Discoverer | 230223 | [230223-pd-prope-discoverer.json](./230223-pd-prope-discoverer.json) |
 | PDP 10 Timesharing Basketball | 388374 | [388374-pdp-10-timesharing-basketball.json](./388374-pdp-10-timesharing-basketball.json) |
 | Pea Pod Power | 264668 | [264668-pea-pod-power.json](./264668-pea-pod-power.json) |
 | Peace Breaker | 270144 | [270144-peace-breaker.json](./270144-peace-breaker.json) |
@@ -1842,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perso | 30781 | [30781-perso.json](./30781-perso.json) |
 | Persona 2 Batsu: Infinity Mask | 138231 | [138231-persona-2-batsu-infinity-mask.json](./138231-persona-2-batsu-infinity-mask.json) |
 | Persona 2 Tsumi: Lost Memories | 138268 | [138268-persona-2-tsumi-lost-memories.json](./138268-persona-2-tsumi-lost-memories.json) |
+| Persona 2: Eternal Punishment | 230226 | [230226-persona-2-eternal-punishment.json](./230226-persona-2-eternal-punishment.json) |
 | Persona 3 Broken Shadow | 289390 | [289390-persona-3-broken-shadow.json](./289390-persona-3-broken-shadow.json) |
 | Persona 3 Em | 136488 | [136488-persona-3-em.json](./136488-persona-3-em.json) |
 | Persona 3 FES Append-han | 358383 | [358383-persona-3-fes-append-han.json](./358383-persona-3-fes-append-han.json) |
