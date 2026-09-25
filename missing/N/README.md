@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 09 | 388398 | [388398-nascar-09.json](./388398-nascar-09.json) |
 | NASCAR 09 | 388399 | [388399-nascar-09.json](./388399-nascar-09.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
+| NASCAR Arcade Rush: Project-X Edition | 263547 | [263547-nascar-arcade-rush-project-x-edition.json](./263547-nascar-arcade-rush-project-x-edition.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
@@ -2790,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Npool: Skins Pack 2 | 316249 | [316249-npool-skins-pack-2.json](./316249-npool-skins-pack-2.json) |
 | Npool: Skins Pack 3 | 316248 | [316248-npool-skins-pack-3.json](./316248-npool-skins-pack-3.json) |
 | NPool: Snooker Mode | 314891 | [314891-npool-snooker-mode.json](./314891-npool-snooker-mode.json) |
+| Npower Test Series | 263467 | [263467-npower-test-series.json](./263467-npower-test-series.json) |
 | NPOZ The Game | 260746 | [260746-npoz-the-game.json](./260746-npoz-the-game.json) |
 | NRA Gun Club | 20575 | [20575-nra-gun-club.json](./20575-nra-gun-club.json) |
 | Nrg | 174348 | [174348-nrg.json](./174348-nrg.json) |
