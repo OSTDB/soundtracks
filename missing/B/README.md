@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball: The Season II | 40267 | [40267-baseball-the-season-ii.json](./40267-baseball-the-season-ii.json) |
 | Baseball4 | 59450 | [59450-baseball4.json](./59450-baseball4.json) |
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
+| Based Refueling | 279075 | [279075-based-refueling.json](./279075-based-refueling.json) |
 | Basement | 68654 | [68654-basement.json](./68654-basement.json) |
 | Basement Breakout | 399857 | [399857-basement-breakout.json](./399857-basement-breakout.json) |
 | Basement Crawl | 19916 | [19916-basement-crawl.json](./19916-basement-crawl.json) |
@@ -3015,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
+| Binky XXIV: Game Streamer "Binky" Plays Grotto of the Grebulons | 279024 | [279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json](./279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
@@ -4929,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
+| Boomerang | 279059 | [279059-boomerang.json](./279059-boomerang.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
 | Boomlings | 61067 | [61067-boomlings.json](./61067-boomlings.json) |
@@ -6699,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst Error: Eve the First | 59434 | [59434-burst-error-eve-the-first.json](./59434-burst-error-eve-the-first.json) |
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
 | Burst Planet | 161393 | [161393-burst-planet.json](./161393-burst-planet.json) |
+| Burst Space | 279086 | [279086-burst-space.json](./279086-burst-space.json) |
 | Burst the Game | 28929 | [28929-burst-the-game.json](./28929-burst-the-game.json) |
 | Burstly | 74742 | [74742-burstly.json](./74742-burstly.json) |
 | Burtik | 96112 | [96112-burtik.json](./96112-burtik.json) |
