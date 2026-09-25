@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Missing Violins! - Premium | 213644 | [213644-hidden-object-missing-violins-premium.json](./213644-hidden-object-missing-violins-premium.json) |
 | Hidden Object: My Best Memories | 98394 | [98394-hidden-object-my-best-memories.json](./98394-hidden-object-my-best-memories.json) |
 | Hidden Object: Mystery of Mysteries of the Aztecs | 242570 | [242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json](./242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json) |
+| Hidden Object: Mystery of Notre Dame de Paris | 256218 | [256218-hidden-object-mystery-of-notre-dame-de-paris.json](./256218-hidden-object-mystery-of-notre-dame-de-paris.json) |
 | Hidden Object: Mystery of the Haunted Mansion | 82161 | [82161-hidden-object-mystery-of-the-haunted-mansion.json](./82161-hidden-object-mystery-of-the-haunted-mansion.json) |
 | Hidden Object: Princess Cinderella | 98389 | [98389-hidden-object-princess-cinderella.json](./98389-hidden-object-princess-cinderella.json) |
 | Hidden Object: The Birds from Aviary | 98395 | [98395-hidden-object-the-birds-from-aviary.json](./98395-hidden-object-the-birds-from-aviary.json) |
@@ -3493,6 +3494,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Avenger | 30916 | [30916-holy-avenger.json](./30916-holy-avenger.json) |
 | Holy Beast Online | 338213 | [338213-holy-beast-online.json](./338213-holy-beast-online.json) |
 | Holy Book | 400289 | [400289-holy-book.json](./400289-holy-book.json) |
+| Holy Breaker! 2 The Wish in the Night of the Star Talers | 256322 | [256322-holy-breaker-2-the-wish-in-the-night-of-the-star-talers.json](./256322-holy-breaker-2-the-wish-in-the-night-of-the-star-talers.json) |
+| Holy Breaker! The Witch Betrayed Blue Moon Wicca | 256321 | [256321-holy-breaker-the-witch-betrayed-blue-moon-wicca.json](./256321-holy-breaker-the-witch-betrayed-blue-moon-wicca.json) |
 | Holy Cow! Milking Simulator | 118390 | [118390-holy-cow-milking-simulator.json](./118390-holy-cow-milking-simulator.json) |
 | Holy Crap Bears! | 396386 | [396386-holy-crap-bears.json](./396386-holy-crap-bears.json) |
 | Holy Fire Meow Meow: Special Forces | 370182 | [370182-holy-fire-meow-meow-special-forces.json](./370182-holy-fire-meow-meow-special-forces.json) |
