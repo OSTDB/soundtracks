@@ -3819,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization V: Gold Edition | 50880 | [50880-sid-meiers-civilization-v-gold-edition.json](./50880-sid-meiers-civilization-v-gold-edition.json) |
 | Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
 | Sid Meier's Civilization VI: Byzantium & Gaul Pack | 139967 | [139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json](./139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json) |
+| Sid Meier's Civilization VI: Liyue & Inazuma Pack | 278439 | [278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json](./278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json) |
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
 | Sid Meier's Civilization VII: Arcade Edition | 385294 | [385294-sid-meiers-civilization-vii-arcade-edition.json](./385294-sid-meiers-civilization-vii-arcade-edition.json) |
 | Sid Meier's Civilization VII: Deluxe Edition | 315854 | [315854-sid-meiers-civilization-vii-deluxe-edition.json](./315854-sid-meiers-civilization-vii-deluxe-edition.json) |
@@ -4474,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six F and Six 0 | 151660 | [151660-six-f-and-six-0.json](./151660-six-f-and-six-0.json) |
 | Six Flags Fun Park | 85164 | [85164-six-flags-fun-park.json](./85164-six-flags-fun-park.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
+| Six inches deep in mud | 278466 | [278466-six-inches-deep-in-mud.json](./278466-six-inches-deep-in-mud.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Micro Stories | 55837 | [55837-six-micro-stories.json](./55837-six-micro-stories.json) |
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
@@ -7658,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Run: Fast and Safe Delivery | 7421 | [7421-space-run-fast-and-safe-delivery.json](./7421-space-run-fast-and-safe-delivery.json) |
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
+| Space Scavengers | 278471 | [278471-space-scavengers.json](./278471-space-scavengers.json) |
 | Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
 | Space Shark Wrangle Fest | 245843 | [245843-space-shark-wrangle-fest.json](./245843-space-shark-wrangle-fest.json) |
@@ -11547,6 +11550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summum | 181402 | [181402-summum.json](./181402-summum.json) |
 | Summum Aeterna | 204692 | [204692-summum-aeterna.json](./204692-summum-aeterna.json) |
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
+| Sump | 278460 | [278460-sump.json](./278460-sump.json) |
 | Sumtune | 236399 | [236399-sumtune.json](./236399-sumtune.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sun Breed | 264037 | [264037-sun-breed.json](./264037-sun-breed.json) |
