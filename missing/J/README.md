@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Kingdom | 155998 | [155998-jump-kingdom.json](./155998-jump-kingdom.json) |
 | Jump Lanes | 187381 | [187381-jump-lanes.json](./187381-jump-lanes.json) |
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
+| Jump Lover | 239630 | [239630-jump-lover.json](./239630-jump-lover.json) |
 | Jump Man | 332528 | [332528-jump-man.json](./332528-jump-man.json) |
 | Jump N Shooters | 244374 | [244374-jump-n-shooters.json](./244374-jump-n-shooters.json) |
 | Jump O'Clock | 65226 | [65226-jump-oclock.json](./65226-jump-oclock.json) |
