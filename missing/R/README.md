@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Adventures | 20032 | [20032-rayman-adventures.json](./20032-rayman-adventures.json) |
 | Rayman and Rabbids Family Pack | 56449 | [56449-rayman-and-rabbids-family-pack.json](./56449-rayman-and-rabbids-family-pack.json) |
 | Rayman Arena | 193351 | [193351-rayman-arena.json](./193351-rayman-arena.json) |
+| Rayman Arena Definitive Edition | 229622 | [229622-rayman-arena-definitive-edition.json](./229622-rayman-arena-definitive-edition.json) |
 | Rayman By His Fans | 61097 | [61097-rayman-by-his-fans.json](./61097-rayman-by-his-fans.json) |
 | Rayman Classic | 193319 | [193319-rayman-classic.json](./193319-rayman-classic.json) |
 | Rayman Collection | 193356 | [193356-rayman-collection.json](./193356-rayman-collection.json) |
