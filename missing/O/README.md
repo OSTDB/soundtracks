@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
 | Order Road | 162849 | [162849-order-road.json](./162849-order-road.json) |
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
+| Order's Up | 234005 | [234005-orders-up.json](./234005-orders-up.json) |
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
 | Ordesa | 364599 | [364599-ordesa.json](./364599-ordesa.json) |
