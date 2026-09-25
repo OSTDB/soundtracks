@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
 | East Legend | 39219 | [39219-east-legend.json](./39219-east-legend.json) |
 | East Trapper | 189032 | [189032-east-trapper.json](./189032-east-trapper.json) |
+| east van EP | 230795 | [230795-east-van-ep.json](./230795-east-van-ep.json) |
 | East Wind | 226811 | [226811-east-wind.json](./226811-east-wind.json) |
 | EastEnders | 79304 | [79304-eastenders.json](./79304-eastenders.json) |
 | Easter | 130733 | [130733-easter.json](./130733-easter.json) |
@@ -2254,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esports Saga | 95836 | [95836-esports-saga.json](./95836-esports-saga.json) |
 | ESports Simulator | 309522 | [309522-esports-simulator.json](./309522-esports-simulator.json) |
 | Esports Team Manager | 356710 | [356710-esports-team-manager.json](./356710-esports-team-manager.json) |
+| Esse mundo é um Colosso | 230758 | [230758-esse-mundo-e-um-colosso.json](./230758-esse-mundo-e-um-colosso.json) |
 | Essence | 383502 | [383502-essence.json](./383502-essence.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
