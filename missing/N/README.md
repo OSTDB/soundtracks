@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Zelda | 270386 | [270386-new-zelda.json](./270386-new-zelda.json) |
 | New Zombie | 274473 | [274473-new-zombie.json](./274473-new-zombie.json) |
 | Newbie Life | 262384 | [262384-newbie-life.json](./262384-newbie-life.json) |
+| Newcastle United Club Football 2005 | 267896 | [267896-newcastle-united-club-football-2005.json](./267896-newcastle-united-club-football-2005.json) |
 | Newcomer | 84280 | [84280-newcomer.json](./84280-newcomer.json) |
 | Newer Super Luigi Wii: Dark Moon - Reverse | 294789 | [294789-newer-super-luigi-wii-dark-moon-reverse.json](./294789-newer-super-luigi-wii-dark-moon-reverse.json) |
 | Newer Super Mario Bros. Wii Deluxe | 132846 | [132846-newer-super-mario-bros-wii-deluxe.json](./132846-newer-super-mario-bros-wii-deluxe.json) |
