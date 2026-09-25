@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acquaint | 379466 | [379466-acquaint.json](./379466-acquaint.json) |
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
 | Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
+| Acres | 258464 | [258464-acres.json](./258464-acres.json) |
 | Acretia: Guardians of Lian | 219699 | [219699-acretia-guardians-of-lian.json](./219699-acretia-guardians-of-lian.json) |
 | Acroama: Company of Strays | 379471 | [379471-acroama-company-of-strays.json](./379471-acroama-company-of-strays.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
@@ -1378,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Confidential | 304595 | [304595-ai-confidential.json](./304595-ai-confidential.json) |
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
+| AI Kills All Humans | 258425 | [258425-ai-kills-all-humans.json](./258425-ai-kills-all-humans.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
@@ -4459,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
 | Arcanora | 272789 | [272789-arcanora.json](./272789-arcanora.json) |
 | Arcanorum 231 | 359601 | [359601-arcanorum-231.json](./359601-arcanorum-231.json) |
+| Arcanum | 258506 | [258506-arcanum.json](./258506-arcanum.json) |
 | Arcany | 375981 | [375981-arcany.json](./375981-arcany.json) |
 | ArcaPinball: NeoWorlds | 146892 | [146892-arcapinball-neoworlds.json](./146892-arcapinball-neoworlds.json) |
 | Arcas Champions | 336158 | [336158-arcas-champions.json](./336158-arcas-champions.json) |
