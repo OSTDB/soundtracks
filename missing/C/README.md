@@ -1433,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clean Ocean | 320916 | [320916-cat-clean-ocean.json](./320916-cat-clean-ocean.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
+| Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
 | Cat Detective Albert Wilde | 191800 | [191800-cat-detective-albert-wilde.json](./191800-cat-detective-albert-wilde.json) |
 | Cat Doctor: For Loyal Servants | 396880 | [396880-cat-doctor-for-loyal-servants.json](./396880-cat-doctor-for-loyal-servants.json) |
 | Cat Dungeon | 210880 | [210880-cat-dungeon.json](./210880-cat-dungeon.json) |
@@ -3712,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash: Artifacts of Chaos - Lone Fighter Pack | 336141 | [336141-clash-artifacts-of-chaos-lone-fighter-pack.json](./336141-clash-artifacts-of-chaos-lone-fighter-pack.json) |
 | Clash: Artifacts of Chaos - Supporter Pack | 336137 | [336137-clash-artifacts-of-chaos-supporter-pack.json](./336137-clash-artifacts-of-chaos-supporter-pack.json) |
 | Clash: Heroes of Feralia Terra | 269107 | [269107-clash-heroes-of-feralia-terra.json](./269107-clash-heroes-of-feralia-terra.json) |
+| Clash: Robot Detective - Complete Edition | 236218 | [236218-clash-robot-detective-complete-edition.json](./236218-clash-robot-detective-complete-edition.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
@@ -7632,6 +7634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
 | Cursed Fables: Before the Clock Strikes | 318568 | [318568-cursed-fables-before-the-clock-strikes.json](./318568-cursed-fables-before-the-clock-strikes.json) |
 | Cursed Fables: Before the Clock Strikes - Collector's Edition | 362841 | [362841-cursed-fables-before-the-clock-strikes-collectors-edition.json](./362841-cursed-fables-before-the-clock-strikes-collectors-edition.json) |
+| Cursed Fables: Twisted Tower - Collector's Edition | 236203 | [236203-cursed-fables-twisted-tower-collectors-edition.json](./236203-cursed-fables-twisted-tower-collectors-edition.json) |
 | Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
 | Cursed Halls | 244217 | [244217-cursed-halls.json](./244217-cursed-halls.json) |
 | Cursed Halo Again | 252123 | [252123-cursed-halo-again.json](./252123-cursed-halo-again.json) |
