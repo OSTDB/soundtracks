@@ -3257,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memento in Marrow | 330849 | [330849-memento-in-marrow.json](./330849-memento-in-marrow.json) |
 | Memento Mori | 139373 | [139373-memento-mori.json](./139373-memento-mori.json) |
 | Memento Mori | 209527 | [209527-memento-mori.json](./209527-memento-mori.json) |
+| Memento Mori | 271182 | [271182-memento-mori.json](./271182-memento-mori.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
 | Memento Mori 2 | 16529 | [16529-memento-mori-2.json](./16529-memento-mori-2.json) |
 | Memento of Spring | 80923 | [80923-memento-of-spring.json](./80923-memento-of-spring.json) |
@@ -4380,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Way Idle | 336018 | [336018-milky-way-idle.json](./336018-milky-way-idle.json) |
 | Milky Way Jigsaw Puzzles: Expansion Pack 1 | 265246 | [265246-milky-way-jigsaw-puzzles-expansion-pack-1.json](./265246-milky-way-jigsaw-puzzles-expansion-pack-1.json) |
 | Milky Way Jigsaw Puzzles: Expansion Pack 2 | 265247 | [265247-milky-way-jigsaw-puzzles-expansion-pack-2.json](./265247-milky-way-jigsaw-puzzles-expansion-pack-2.json) |
+| Milky Way Wishes | 271264 | [271264-milky-way-wishes.json](./271264-milky-way-wishes.json) |
 | Mill | 92299 | [92299-mill.json](./92299-mill.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millenium: Return To Earth | 12922 | [12922-millenium-return-to-earth.json](./12922-millenium-return-to-earth.json) |
