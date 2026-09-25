@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
 | School Days Simulator | 303080 | [303080-school-days-simulator.json](./303080-school-days-simulator.json) |
 | School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
+| School Fantasy | 267423 | [267423-school-fantasy.json](./267423-school-fantasy.json) |
 | School Girl/Zombie Hunter | 41827 | [41827-school-girl-zombie-hunter.json](./41827-school-girl-zombie-hunter.json) |
 | School Grounds | 112738 | [112738-school-grounds.json](./112738-school-grounds.json) |
 | School Guard | 385866 | [385866-school-guard.json](./385866-school-guard.json) |
@@ -2552,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
 | Shadow Island | 239335 | [239335-shadow-island.json](./239335-shadow-island.json) |
 | Shadow Jump | 219603 | [219603-shadow-jump.json](./219603-shadow-jump.json) |
+| Shadow King | 267329 | [267329-shadow-king.json](./267329-shadow-king.json) |
 | Shadow Kings | 344450 | [344450-shadow-kings.json](./344450-shadow-kings.json) |
 | Shadow Knight | 227519 | [227519-shadow-knight.json](./227519-shadow-knight.json) |
 | Shadow Labyrinth | 269093 | [269093-shadow-labyrinth.json](./269093-shadow-labyrinth.json) |
@@ -10081,6 +10083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamMaze | 326284 | [326284-steammaze.json](./326284-steammaze.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | Steampunch: Lost Tombs | 358357 | [358357-steampunch-lost-tombs.json](./358357-steampunch-lost-tombs.json) |
+| Steampunk Jigsaw Puzzles: Ancient Empires | 267433 | [267433-steampunk-jigsaw-puzzles-ancient-empires.json](./267433-steampunk-jigsaw-puzzles-ancient-empires.json) |
 | Steampunk Racing 3D | 252141 | [252141-steampunk-racing-3d.json](./252141-steampunk-racing-3d.json) |
 | SteamPunk Sky | 88169 | [88169-steampunk-sky.json](./88169-steampunk-sky.json) |
 | Steampunk Syndicate | 29666 | [29666-steampunk-syndicate.json](./29666-steampunk-syndicate.json) |
@@ -11729,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Side Crossing | 309442 | [309442-sunny-side-crossing.json](./309442-sunny-side-crossing.json) |
 | Sunny Side Nightmare | 320886 | [320886-sunny-side-nightmare.json](./320886-sunny-side-nightmare.json) |
 | Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
+| Sunpolis | 267330 | [267330-sunpolis.json](./267330-sunpolis.json) |
 | Sunray OS | 285582 | [285582-sunray-os.json](./285582-sunray-os.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
 | Sunrider: Liberation Day | 18176 | [18176-sunrider-liberation-day.json](./18176-sunrider-liberation-day.json) |
@@ -13400,6 +13404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors of Journey to the West: Bald Guy vs Wukong | 310058 | [310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json](./310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json) |
 | Survivors of Mayhem | 274036 | [274036-survivors-of-mayhem.json](./274036-survivors-of-mayhem.json) |
 | Survivors of the Dawn | 236928 | [236928-survivors-of-the-dawn.json](./236928-survivors-of-the-dawn.json) |
+| Survivors of the Mare Vitalis | 267434 | [267434-survivors-of-the-mare-vitalis.json](./267434-survivors-of-the-mare-vitalis.json) |
 | Survivors Of The Zombie World | 338294 | [338294-survivors-of-the-zombie-world.json](./338294-survivors-of-the-zombie-world.json) |
 | Survivors of Xcalibur | 334852 | [334852-survivors-of-xcalibur.json](./334852-survivors-of-xcalibur.json) |
 | Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
