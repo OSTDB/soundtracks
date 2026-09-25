@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gailardia: Legend of the Demon King | 376694 | [376694-gailardia-legend-of-the-demon-king.json](./376694-gailardia-legend-of-the-demon-king.json) |
 | Gain | 33109 | [33109-gain.json](./33109-gain.json) |
 | Gain Foxes | 245888 | [245888-gain-foxes.json](./245888-gain-foxes.json) |
+| Gain Ground | 237311 | [237311-gain-ground.json](./237311-gain-ground.json) |
 | Gain Ground | 3129 | [3129-gain-ground.json](./3129-gain-ground.json) |
 | Gain Ground SX | 42013 | [42013-gain-ground-sx.json](./42013-gain-ground-sx.json) |
 | Gairaldia 6 | 175297 | [175297-gairaldia-6.json](./175297-gairaldia-6.json) |
@@ -4267,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunpoint Gambit | 391036 | [391036-gunpoint-gambit.json](./391036-gunpoint-gambit.json) |
 | Gunpowder Massacre | 301259 | [301259-gunpowder-massacre.json](./301259-gunpowder-massacre.json) |
 | Gunpowder on the Teeth: Arcade | 113764 | [113764-gunpowder-on-the-teeth-arcade.json](./113764-gunpowder-on-the-teeth-arcade.json) |
+| Gunpowder Punk | 237299 | [237299-gunpowder-punk.json](./237299-gunpowder-punk.json) |
 | Gunpunk VR | 280207 | [280207-gunpunk-vr.json](./280207-gunpunk-vr.json) |
 | Gunpyre | 340404 | [340404-gunpyre.json](./340404-gunpyre.json) |
 | GunQuest | 195624 | [195624-gunquest.json](./195624-gunquest.json) |
