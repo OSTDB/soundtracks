@@ -5420,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Trader | 314407 | [314407-mob-trader.json](./314407-mob-trader.json) |
 | Mob War | 90546 | [90546-mob-war.json](./90546-mob-war.json) |
 | Mob Wars: La Cosa Nostra | 125364 | [125364-mob-wars-la-cosa-nostra.json](./125364-mob-wars-la-cosa-nostra.json) |
+| Mobbers | 253891 | [253891-mobbers.json](./253891-mobbers.json) |
 | Mobenium 2D | 336040 | [336040-mobenium-2d.json](./336040-mobenium-2d.json) |
 | Mobg.io Survive Battle Royale | 95837 | [95837-mobg-io-survive-battle-royale.json](./95837-mobg-io-survive-battle-royale.json) |
 | Mobia's Trip | 364602 | [364602-mobias-trip.json](./364602-mobias-trip.json) |
@@ -7075,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Holmes: Five Orange Pips | 187943 | [187943-ms-holmes-five-orange-pips.json](./187943-ms-holmes-five-orange-pips.json) |
 | Ms. Holmes: Letter M - Collector's Edition | 362847 | [362847-ms-holmes-letter-m-collectors-edition.json](./362847-ms-holmes-letter-m-collectors-edition.json) |
 | Ms. Holmes: The Adventure of the McKirk Ritual - Collector's Edition | 186333 | [186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json](./186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json) |
+| Ms. Holmes: The Case of the Dancing Men - Collector's Edition | 253896 | [253896-ms-holmes-the-case-of-the-dancing-men-collectors-edition.json](./253896-ms-holmes-the-case-of-the-dancing-men-collectors-edition.json) |
 | Ms. Holmes: The Monster of the Baskervilles - Collector's Edition | 119688 | [119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json](./119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json) |
 | Ms. Match | 313866 | [313866-ms-match.json](./313866-ms-match.json) |
 | Ms. Pac Person | 209155 | [209155-ms-pac-person.json](./209155-ms-pac-person.json) |
@@ -7195,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
 | Multitasking Skills Desired | 404448 | [404448-multitasking-skills-desired.json](./404448-multitasking-skills-desired.json) |
 | Multiversal Affairs | 270157 | [270157-multiversal-affairs.json](./270157-multiversal-affairs.json) |
+| Multiverse Go | 253897 | [253897-multiverse-go.json](./253897-multiverse-go.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
 | Multiverse Loot Hunter | 292586 | [292586-multiverse-loot-hunter.json](./292586-multiverse-loot-hunter.json) |
 | MultiVersus: Founder's Pack - Deluxe Edition | 212309 | [212309-multiversus-founders-pack-deluxe-edition.json](./212309-multiversus-founders-pack-deluxe-edition.json) |
@@ -7496,6 +7499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
 | MX vs. ATV All Out: 2020 Pro Nationals Edition | 206779 | [206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json](./206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json) |
+| MX vs. ATV Legends: 2023 AMA Pro Motocross Championship | 253898 | [253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json](./253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json) |
 | MX vs. ATV Legends: Track Pass | 350652 | [350652-mx-vs-atv-legends-track-pass.json](./350652-mx-vs-atv-legends-track-pass.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - 2024 Monster Energy Supercross Championship | 295398 | [295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json](./295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json) |
@@ -7677,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
 | My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
 | My Furry Protogen: 18+ Adult Only Patch | 213447 | [213447-my-furry-protogen-18-adult-only-patch.json](./213447-my-furry-protogen-18-adult-only-patch.json) |
+| My Furry Succubus | 253899 | [253899-my-furry-succubus.json](./253899-my-furry-succubus.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
 | My Gambian Boyfriend | 332636 | [332636-my-gambian-boyfriend.json](./332636-my-gambian-boyfriend.json) |
 | My Game About Me: Olympic Challenge | 210674 | [210674-my-game-about-me-olympic-challenge.json](./210674-my-game-about-me-olympic-challenge.json) |
@@ -7832,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Merry Maybe | 247509 | [247509-my-merry-maybe.json](./247509-my-merry-maybe.json) |
 | My Mine | 262896 | [262896-my-mine.json](./262896-my-mine.json) |
 | My Mistress | 221202 | [221202-my-mistress.json](./221202-my-mistress.json) |
+| My Mistress Lu Bu | 253892 | [253892-my-mistress-lu-bu.json](./253892-my-mistress-lu-bu.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
 | My Moorhen | 282549 | [282549-my-moorhen.json](./282549-my-moorhen.json) |
@@ -7843,6 +7849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is Mayo | 33747 | [33747-my-name-is-mayo.json](./33747-my-name-is-mayo.json) |
 | My Name is Mayo 3 | 200699 | [200699-my-name-is-mayo-3.json](./200699-my-name-is-mayo-3.json) |
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
+| My Name is Uncle Groucho You Win a Fat Cigar | 253895 | [253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json](./253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
