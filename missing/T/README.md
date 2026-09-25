@@ -4264,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
 | The House of Da Vinci | 39749 | [39749-the-house-of-da-vinci.json](./39749-the-house-of-da-vinci.json) |
 | The House of Da Vinci Complete Bundle | 310498 | [310498-the-house-of-da-vinci-complete-bundle.json](./310498-the-house-of-da-vinci-complete-bundle.json) |
+| The House of E. | 242490 | [242490-the-house-of-e.json](./242490-the-house-of-e.json) |
 | The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
 | The House of Hikmah | 380426 | [380426-the-house-of-hikmah.json](./380426-the-house-of-hikmah.json) |
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
@@ -5828,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Peak Addiction | 61637 | [61637-the-peak-addiction.json](./61637-the-peak-addiction.json) |
 | The Peanuts Movie: Snoopy's Grand Adventure | 18993 | [18993-the-peanuts-movie-snoopys-grand-adventure.json](./18993-the-peanuts-movie-snoopys-grand-adventure.json) |
 | The Pellar | 247603 | [247603-the-pellar.json](./247603-the-pellar.json) |
+| The Penguin Game: Antarctic Savior | 242482 | [242482-the-penguin-game-antarctic-savior.json](./242482-the-penguin-game-antarctic-savior.json) |
 | The Penguin Horror: Legacy of The Pengcasso | 285475 | [285475-the-penguin-horror-legacy-of-the-pengcasso.json](./285475-the-penguin-horror-legacy-of-the-pengcasso.json) |
 | The Penguin P | 215107 | [215107-the-penguin-p.json](./215107-the-penguin-p.json) |
 | The Penguins of Madagascar | 18273 | [18273-the-penguins-of-madagascar.json](./18273-the-penguins-of-madagascar.json) |
@@ -9563,6 +9565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Togum | 225182 | [225182-togum.json](./225182-togum.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | ToHeart2 | 132039 | [132039-toheart2.json](./132039-toheart2.json) |
+| ToHeart2: AnotherDays | 242474 | [242474-toheart2-anotherdays.json](./242474-toheart2-anotherdays.json) |
 | Tohotopia | 391609 | [391609-tohotopia.json](./391609-tohotopia.json) |
 | Tohu-Teka | 120159 | [120159-tohu-teka.json](./120159-tohu-teka.json) |
 | Toi Acid Game | 47525 | [47525-toi-acid-game.json](./47525-toi-acid-game.json) |
@@ -9882,6 +9885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomodachi Life: The Gay Mod | 350609 | [350609-tomodachi-life-the-gay-mod.json](./350609-tomodachi-life-the-gay-mod.json) |
 | Tomodachi-kun | 398580 | [398580-tomodachi-kun.json](./398580-tomodachi-kun.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
+| Tomomon: Legacy of Light | 242514 | [242514-tomomon-legacy-of-light.json](./242514-tomomon-legacy-of-light.json) |
 | Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
 | Tomorrow | 34383 | [34383-tomorrow.json](./34383-tomorrow.json) |
 | Tomorrow Don't Come | 88255 | [88255-tomorrow-dont-come.json](./88255-tomorrow-dont-come.json) |
