@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Chump | 287750 | [287750-infinite-chump.json](./287750-infinite-chump.json) |
 | Infinite Coaster | 303581 | [303581-infinite-coaster.json](./303581-infinite-coaster.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
+| Infinite Country | 265573 | [265573-infinite-country.json](./265573-infinite-country.json) |
 | Infinite Crosswords | 385317 | [385317-infinite-crosswords.json](./385317-infinite-crosswords.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
@@ -2421,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iskhaar3D | 285524 | [285524-iskhaar3d.json](./285524-iskhaar3d.json) |
 | Isla de la Muerte | 399734 | [399734-isla-de-la-muerte.json](./399734-isla-de-la-muerte.json) |
 | Isla Dorada: Episode 1 - The Sands of Ephranis | 210046 | [210046-isla-dorada-episode-1-the-sands-of-ephranis.json](./210046-isla-dorada-episode-1-the-sands-of-ephranis.json) |
+| Isla Mosa Adventure: The Secret of the Southern Capital | 265606 | [265606-isla-mosa-adventure-the-secret-of-the-southern-capital.json](./265606-isla-mosa-adventure-the-secret-of-the-southern-capital.json) |
 | ISLA test | 123573 | [123573-isla-test.json](./123573-isla-test.json) |
 | Islamic Fun | 318628 | [318628-islamic-fun.json](./318628-islamic-fun.json) |
 | Island | 260380 | [260380-island.json](./260380-island.json) |
