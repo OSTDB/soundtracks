@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
 | We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
 | We're in the Same Boat | 399704 | [399704-were-in-the-same-boat.json](./399704-were-in-the-same-boat.json) |
+| We'reWolves | 270645 | [270645-werewolves.json](./270645-werewolves.json) |
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
 | Weak Warrior | 61115 | [61115-weak-warrior.json](./61115-weak-warrior.json) |
 | Weakest Demon King: Escape! You Cannot Defeat the Female Heroines! | 82874 | [82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json](./82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json) |
@@ -1209,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
 | WeJam | 119678 | [119678-wejam.json](./119678-wejam.json) |
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
+| Wéko The Mask Gatherer | 270724 | [270724-weko-the-mask-gatherer.json](./270724-weko-the-mask-gatherer.json) |
 | Welcome | 368669 | [368669-welcome.json](./368669-welcome.json) |
 | Welcome | 92277 | [92277-welcome.json](./92277-welcome.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
