@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daedalus | 282003 | [282003-daedalus.json](./282003-daedalus.json) |
 | Daedalus Versus Minotaur | 250345 | [250345-daedalus-versus-minotaur.json](./250345-daedalus-versus-minotaur.json) |
 | Daedalus: Alien Defense | 140561 | [140561-daedalus-alien-defense.json](./140561-daedalus-alien-defense.json) |
+| Daegeonmulju: Geonmulju Kiugi | 239012 | [239012-daegeonmulju-geonmulju-kiugi.json](./239012-daegeonmulju-geonmulju-kiugi.json) |
 | Daemon | 360053 | [360053-daemon.json](./360053-daemon.json) |
 | Daemon | 361679 | [361679-daemon.json](./361679-daemon.json) |
 | Daemon 9 | 110904 | [110904-daemon-9.json](./110904-daemon-9.json) |
@@ -4584,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Effect | 81766 | [81766-domino-effect.json](./81766-domino-effect.json) |
 | Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
+| Domino Marble | 238977 | [238977-domino-marble.json](./238977-domino-marble.json) |
 | Domino Merged Puzzle | 252154 | [252154-domino-merged-puzzle.json](./252154-domino-merged-puzzle.json) |
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
@@ -5108,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
 | Dot Art Logic | 386990 | [386990-dot-art-logic.json](./386990-dot-art-logic.json) |
 | Dot Big Bang | 74797 | [74797-dot-big-bang.json](./74797-dot-big-bang.json) |
+| Dot Brain | 238985 | [238985-dot-brain.json](./238985-dot-brain.json) |
 | Dot by Dot+ | 19383 | [19383-dot-by-dot.json](./19383-dot-by-dot.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
 | Dot Dash Defense | 400361 | [400361-dot-dash-defense.json](./400361-dot-dash-defense.json) |
@@ -6373,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Boy | 183435 | [183435-drop-boy.json](./183435-drop-boy.json) |
 | Drop Cat | 127769 | [127769-drop-cat.json](./127769-drop-cat.json) |
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
+| Drop Dead: The Cabin | 238999 | [238999-drop-dead-the-cabin.json](./238999-drop-dead-the-cabin.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
 | Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
