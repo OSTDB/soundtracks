@@ -7166,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Stretch and the Stolen Fortune | 249228 | [249228-mr-stretch-and-the-stolen-fortune.json](./249228-mr-stretch-and-the-stolen-fortune.json) |
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
 | Mr. Swop | 414572 | [414572-mr-swop.json](./414572-mr-swop.json) |
+| Mr. Tiny Adventures | 231848 | [231848-mr-tiny-adventures.json](./231848-mr-tiny-adventures.json) |
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
