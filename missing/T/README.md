@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gurion Mountains | 148915 | [148915-the-gurion-mountains.json](./148915-the-gurion-mountains.json) |
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
 | The Hacker 2.0 | 234051 | [234051-the-hacker-2-0.json](./234051-the-hacker-2-0.json) |
+| The Half-Life 2 Exhibit | 252091 | [252091-the-half-life-2-exhibit.json](./252091-the-half-life-2-exhibit.json) |
 | The Halloween Story | 219170 | [219170-the-halloween-story.json](./219170-the-halloween-story.json) |
 | The Hallway: Escape Room | 264608 | [264608-the-hallway-escape-room.json](./264608-the-hallway-escape-room.json) |
 | The Hamburger Isles | 356292 | [356292-the-hamburger-isles.json](./356292-the-hamburger-isles.json) |
@@ -6380,6 +6381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shattering: Secret Room | 155062 | [155062-the-shattering-secret-room.json](./155062-the-shattering-secret-room.json) |
 | The Shedding | 114372 | [114372-the-shedding.json](./114372-the-shedding.json) |
 | The Shell Part I: Inferno | 142230 | [142230-the-shell-part-i-inferno.json](./142230-the-shell-part-i-inferno.json) |
+| The Shell Part I: Inferno | 252084 | [252084-the-shell-part-i-inferno.json](./252084-the-shell-part-i-inferno.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
 | The Shifting Cavern | 258424 | [258424-the-shifting-cavern.json](./258424-the-shifting-cavern.json) |
 | The Shinri Game 2: Magical Trip | 58790 | [58790-the-shinri-game-2-magical-trip.json](./58790-the-shinri-game-2-magical-trip.json) |
@@ -9293,6 +9295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
 | Titanium Hound | 217386 | [217386-titanium-hound.json](./217386-titanium-hound.json) |
 | Titans Clinic | 329062 | [329062-titans-clinic.json](./329062-titans-clinic.json) |
+| Titans Clinic VR | 252105 | [252105-titans-clinic-vr.json](./252105-titans-clinic-vr.json) |
 | Titans of Steel: Warring Suns | 69841 | [69841-titans-of-steel-warring-suns.json](./69841-titans-of-steel-warring-suns.json) |
 | Titans of the Past | 340565 | [340565-titans-of-the-past.json](./340565-titans-of-the-past.json) |
 | Titans: Dawn of Tribes | 109056 | [109056-titans-dawn-of-tribes.json](./109056-titans-dawn-of-tribes.json) |
@@ -12340,6 +12343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tubby's Wonderful Town | 382751 | [382751-tubbys-wonderful-town.json](./382751-tubbys-wonderful-town.json) |
 | Tube Adventures | 19443 | [19443-tube-adventures.json](./19443-tube-adventures.json) |
 | Tube Adventures Offline Collection 1-3 | 186742 | [186742-tube-adventures-offline-collection-1-3.json](./186742-tube-adventures-offline-collection-1-3.json) |
+| Tube Baby | 252082 | [252082-tube-baby.json](./252082-tube-baby.json) |
 | Tube Be Continued | 272569 | [272569-tube-be-continued.json](./272569-tube-be-continued.json) |
 | Tube Jumpers | 99406 | [99406-tube-jumpers.json](./99406-tube-jumpers.json) |
 | Tube Panic | 40163 | [40163-tube-panic.json](./40163-tube-panic.json) |
