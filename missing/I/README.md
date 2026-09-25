@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IndyCar Racing II | 71514 | [71514-indycar-racing-ii.json](./71514-indycar-racing-ii.json) |
 | Indycar Racing: The Game | 410972 | [410972-indycar-racing-the-game.json](./410972-indycar-racing-the-game.json) |
 | IndyCar Series | 5866 | [5866-indycar-series.json](./5866-indycar-series.json) |
+| Inertia | 261311 | [261311-inertia.json](./261311-inertia.json) |
 | Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
 | Inertial Drift: Twilight Rivals Edition | 203517 | [203517-inertial-drift-twilight-rivals-edition.json](./203517-inertial-drift-twilight-rivals-edition.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
