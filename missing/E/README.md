@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse of Eldergaard | 386418 | [386418-eclipse-of-eldergaard.json](./386418-eclipse-of-eldergaard.json) |
 | Eclipse of Elysium | 295815 | [295815-eclipse-of-elysium.json](./295815-eclipse-of-elysium.json) |
 | Eclipse of Illusion | 68983 | [68983-eclipse-of-illusion.json](./68983-eclipse-of-illusion.json) |
+| Eclipse Survivors | 249757 | [249757-eclipse-survivors.json](./249757-eclipse-survivors.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
 | Eclipse: Fall - Kami no Danzai | 379353 | [379353-eclipse-fall-kami-no-danzai.json](./379353-eclipse-fall-kami-no-danzai.json) |
 | Eclipse: Special Forces | 345002 | [345002-eclipse-special-forces.json](./345002-eclipse-special-forces.json) |
@@ -438,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
 | EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
+| Edemn: Cyborg Skeleton | 249718 | [249718-edemn-cyborg-skeleton.json](./249718-edemn-cyborg-skeleton.json) |
 | Eden | 85855 | [85855-eden.json](./85855-eden.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
