@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Gem Jockeying | 121463 | [121463-wandering-gem-jockeying.json](./121463-wandering-gem-jockeying.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
 | Wandering Planet: Prelude | 298599 | [298599-wandering-planet-prelude.json](./298599-wandering-planet-prelude.json) |
+| Wandering Skies | 247477 | [247477-wandering-skies.json](./247477-wandering-skies.json) |
 | Wandering Sword | 377264 | [377264-wandering-sword.json](./377264-wandering-sword.json) |
 | Wandering Sword: Mount Pack - Majestic Steeds | 377263 | [377263-wandering-sword-mount-pack-majestic-steeds.json](./377263-wandering-sword-mount-pack-majestic-steeds.json) |
 | Wandering Sword: Secrets of the Eastern Sea | 341672 | [341672-wandering-sword-secrets-of-the-eastern-sea.json](./341672-wandering-sword-secrets-of-the-eastern-sea.json) |
