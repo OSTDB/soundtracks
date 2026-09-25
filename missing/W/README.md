@@ -3476,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestledunk Sports | 153361 | [153361-wrestledunk-sports.json](./153361-wrestledunk-sports.json) |
 | Wrestler Rush | 302419 | [302419-wrestler-rush.json](./302419-wrestler-rush.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
+| Wrestling Empire Forever | 270163 | [270163-wrestling-empire-forever.json](./270163-wrestling-empire-forever.json) |
 | Wrestling Revolution 2D | 76990 | [76990-wrestling-revolution-2d.json](./76990-wrestling-revolution-2d.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
 | Wrestling Spirit 3 | 24755 | [24755-wrestling-spirit-3.json](./24755-wrestling-spirit-3.json) |
