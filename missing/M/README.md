@@ -4227,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Faerie | 176371 | [176371-midnight-faerie.json](./176371-midnight-faerie.json) |
 | Midnight Feast | 118318 | [118318-midnight-feast.json](./118318-midnight-feast.json) |
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
+| Midnight Havoc | 258966 | [258966-midnight-havoc.json](./258966-midnight-havoc.json) |
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
 | Midnight Idle | 409565 | [409565-midnight-idle.json](./409565-midnight-idle.json) |
 | Midnight is Lost | 156689 | [156689-midnight-is-lost.json](./156689-midnight-is-lost.json) |
@@ -5480,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Oshare Audition Dream Girl | 222499 | [222499-model-oshare-audition-dream-girl.json](./222499-model-oshare-audition-dream-girl.json) |
 | Model Sisters | 414310 | [414310-model-sisters.json](./414310-model-sisters.json) |
 | Model Style: Dress Up! | 314878 | [314878-model-style-dress-up.json](./314878-model-style-dress-up.json) |
+| ModelMaker | 258946 | [258946-modelmaker.json](./258946-modelmaker.json) |
 | Moderium | 127214 | [127214-moderium.json](./127214-moderium.json) |
 | Modern Arena | 394359 | [394359-modern-arena.json](./394359-modern-arena.json) |
 | Modern Attack | 391865 | [391865-modern-attack.json](./391865-modern-attack.json) |
@@ -6386,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morfosi | 135684 | [135684-morfosi.json](./135684-morfosi.json) |
 | Morgan lives in a Rocket House in VR | 74442 | [74442-morgan-lives-in-a-rocket-house-in-vr.json](./74442-morgan-lives-in-a-rocket-house-in-vr.json) |
 | Morgan's Skate Club | 322801 | [322801-morgans-skate-club.json](./322801-morgans-skate-club.json) |
+| Morganica | 258963 | [258963-morganica.json](./258963-morganica.json) |
 | Morgue Rot: The Coroner's Quest | 217384 | [217384-morgue-rot-the-coroners-quest.json](./217384-morgue-rot-the-coroners-quest.json) |
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
