@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Mirnah | 148998 | [148998-gates-of-mirnah.json](./148998-gates-of-mirnah.json) |
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
 | Gates of Osiris | 61899 | [61899-gates-of-osiris.json](./61899-gates-of-osiris.json) |
+| Gates of War | 235168 | [235168-gates-of-war.json](./235168-gates-of-war.json) |
 | Gates of Yomi | 274480 | [274480-gates-of-yomi.json](./274480-gates-of-yomi.json) |
 | Gates of Zendocon | 6035 | [6035-gates-of-zendocon.json](./6035-gates-of-zendocon.json) |
 | Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
@@ -1303,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geopogo Cities | 393468 | [393468-geopogo-cities.json](./393468-geopogo-cities.json) |
 | Geopolitics | 181229 | [181229-geopolitics.json](./181229-geopolitics.json) |
 | Geopolitique 1990 | 24915 | [24915-geopolitique-1990.json](./24915-geopolitique-1990.json) |
+| Geopoly | 235170 | [235170-geopoly.json](./235170-geopoly.json) |
 | GeoQuiz | 143015 | [143015-geoquiz.json](./143015-geoquiz.json) |
 | George and the Printer | 179672 | [179672-george-and-the-printer.json](./179672-george-and-the-printer.json) |
 | George Foreman's KO Boxing | 275022 | [275022-george-foremans-ko-boxing.json](./275022-george-foremans-ko-boxing.json) |
@@ -3026,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Gate | 208601 | [208601-grand-gate.json](./208601-grand-gate.json) |
 | Grand Guilds | 109774 | [109774-grand-guilds.json](./109774-grand-guilds.json) |
 | Grand Heist | 120317 | [120317-grand-heist.json](./120317-grand-heist.json) |
+| Grand Hotel Mania | 235162 | [235162-grand-hotel-mania.json](./235162-grand-hotel-mania.json) |
 | Grand Kingdom: Grand Edition | 89908 | [89908-grand-kingdom-grand-edition.json](./89908-grand-kingdom-grand-edition.json) |
 | Grand Kingdom: Limited Edition | 89909 | [89909-grand-kingdom-limited-edition.json](./89909-grand-kingdom-limited-edition.json) |
 | Grand Larceny | 13860 | [13860-grand-larceny.json](./13860-grand-larceny.json) |
