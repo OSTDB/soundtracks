@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vega Conflict: Paladin Pack | 168307 | [168307-vega-conflict-paladin-pack.json](./168307-vega-conflict-paladin-pack.json) |
 | Vega Conflict: Paragon Battleship Pack | 168308 | [168308-vega-conflict-paragon-battleship-pack.json](./168308-vega-conflict-paragon-battleship-pack.json) |
 | Vega Conflict: Punisher Cruiser Pack | 168314 | [168314-vega-conflict-punisher-cruiser-pack.json](./168314-vega-conflict-punisher-cruiser-pack.json) |
+| Vegangsters | 253304 | [253304-vegangsters.json](./253304-vegangsters.json) |
 | Vegas Casino & Slots: Slottist | 364505 | [364505-vegas-casino-and-slots-slottist.json](./364505-vegas-casino-and-slots-slottist.json) |
 | Vegas Casino 2 | 66925 | [66925-vegas-casino-2.json](./66925-vegas-casino-2.json) |
 | Vegas Connection: Casino Kara Ai wo Komete | 48872 | [48872-vegas-connection-casino-kara-ai-wo-komete.json](./48872-vegas-connection-casino-kara-ai-wo-komete.json) |
