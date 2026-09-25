@@ -2588,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
 | Nonogram Nights | 273451 | [273451-nonogram-nights.json](./273451-nonogram-nights.json) |
+| Nonogram Survival | 227823 | [227823-nonogram-survival.json](./227823-nonogram-survival.json) |
 | Nonogram: Girl's Sweets II | 228090 | [228090-nonogram-girls-sweets-ii.json](./228090-nonogram-girls-sweets-ii.json) |
 | Nonogram: Master's Legacy | 111030 | [111030-nonogram-masters-legacy.json](./111030-nonogram-masters-legacy.json) |
 | Nonogram: Master's Legacy - The Classic Pack | 349413 | [349413-nonogram-masters-legacy-the-classic-pack.json](./349413-nonogram-masters-legacy-the-classic-pack.json) |
