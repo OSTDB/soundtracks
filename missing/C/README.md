@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network Universe: FusionFall | 2811 | [2811-cartoon-network-universe-fusionfall.json](./2811-cartoon-network-universe-fusionfall.json) |
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
+| Cartoon Wars | 230784 | [230784-cartoon-wars.json](./230784-cartoon-wars.json) |
 | Cartoon Wars Blade | 369757 | [369757-cartoon-wars-blade.json](./369757-cartoon-wars-blade.json) |
 | Cartooners | 94685 | [94685-cartooners.json](./94685-cartooners.json) |
 | Cartoony Cars 2 | 110773 | [110773-cartoony-cars-2.json](./110773-cartoony-cars-2.json) |
@@ -1979,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede & Battlezone | 64399 | [64399-centipede-and-battlezone.json](./64399-centipede-and-battlezone.json) |
 | Centipede & Millipede | 74408 | [74408-centipede-and-millipede.json](./74408-centipede-and-millipede.json) |
 | Centipede X | 356282 | [356282-centipede-x.json](./356282-centipede-x.json) |
+| Centipulp | 230787 | [230787-centipulp.json](./230787-centipulp.json) |
 | Cento | 281985 | [281985-cento.json](./281985-cento.json) |
 | Central De Fantasmas: Los Huéspedes De Mortimer | 260102 | [260102-central-de-fantasmas-los-huespedes-de-mortimer.json](./260102-central-de-fantasmas-los-huespedes-de-mortimer.json) |
 | Central Limit Theorem | 133979 | [133979-central-limit-theorem.json](./133979-central-limit-theorem.json) |
@@ -3179,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
 | Chromosome Evil | 116334 | [116334-chromosome-evil.json](./116334-chromosome-evil.json) |
 | Chromosome Evil: Map Editor | 232462 | [232462-chromosome-evil-map-editor.json](./232462-chromosome-evil-map-editor.json) |
+| Chromosome Evil: New Weapon & Weapons Customization | 230808 | [230808-chromosome-evil-new-weapon-and-weapons-customization.json](./230808-chromosome-evil-new-weapon-and-weapons-customization.json) |
 | Chrona & Sirona | 413716 | [413716-chrona-and-sirona.json](./413716-chrona-and-sirona.json) |
 | Chronal Chain | 370203 | [370203-chronal-chain.json](./370203-chronal-chain.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
