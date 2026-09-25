@@ -3599,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rock the Rim | 379545 | [379545-rock-the-rim.json](./379545-rock-the-rim.json) |
 | Rock Tris | 229064 | [229064-rock-tris.json](./229064-rock-tris.json) |
+| Rock UFO | 267331 | [267331-rock-ufo.json](./267331-rock-ufo.json) |
 | Rock-n-Rogue A Boo Bunny Plague Adventure | 33605 | [33605-rock-n-rogue-a-boo-bunny-plague-adventure.json](./33605-rock-n-rogue-a-boo-bunny-plague-adventure.json) |
 | Rock, Ken, Bo | 28807 | [28807-rock-ken-bo.json](./28807-rock-ken-bo.json) |
 | Rock, Paper, Scissors Simulator | 127238 | [127238-rock-paper-scissors-simulator.json](./127238-rock-paper-scissors-simulator.json) |
