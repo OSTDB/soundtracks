@@ -3137,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Esrevni | 169868 | [169868-the-curse-of-esrevni.json](./169868-the-curse-of-esrevni.json) |
 | The Curse of Illmoore Bay | 169874 | [169874-the-curse-of-illmoore-bay.json](./169874-the-curse-of-illmoore-bay.json) |
 | The Curse of Karlanrik | 338275 | [338275-the-curse-of-karlanrik.json](./338275-the-curse-of-karlanrik.json) |
+| The Curse of Kubel + Expansion DLC | 238450 | [238450-the-curse-of-kubel-expansion-dlc.json](./238450-the-curse-of-kubel-expansion-dlc.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
 | The Curse of Rabenstein | 231520 | [231520-the-curse-of-rabenstein.json](./231520-the-curse-of-rabenstein.json) |
@@ -7366,6 +7367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visitor: Ep.1 - Kitty Cat Carnage | 196326 | [196326-the-visitor-ep-1-kitty-cat-carnage.json](./196326-the-visitor-ep-1-kitty-cat-carnage.json) |
 | The Visitors | 130969 | [130969-the-visitors.json](./130969-the-visitors.json) |
 | The Voice | 26291 | [26291-the-voice.json](./26291-the-voice.json) |
+| The Voice from the Well: The Velessar Saga | 238435 | [238435-the-voice-from-the-well-the-velessar-saga.json](./238435-the-voice-from-the-well-the-velessar-saga.json) |
 | The Voice in the Void | 48005 | [48005-the-voice-in-the-void.json](./48005-the-voice-in-the-void.json) |
 | The Voice Inside | 115486 | [115486-the-voice-inside.json](./115486-the-voice-inside.json) |
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
@@ -10393,6 +10395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fan-made Virtual Autography | 151683 | [151683-touhou-fan-made-virtual-autography.json](./151683-touhou-fan-made-virtual-autography.json) |
 | Touhou Fantasy | 387333 | [387333-touhou-fantasy.json](./387333-touhou-fantasy.json) |
 | Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
+| Touhou Fractured Transience | 238468 | [238468-touhou-fractured-transience.json](./238468-touhou-fractured-transience.json) |
 | Touhou Fumo Racing | 193872 | [193872-touhou-fumo-racing.json](./193872-touhou-fumo-racing.json) |
 | Touhou Gaiden | 404961 | [404961-touhou-gaiden.json](./404961-touhou-gaiden.json) |
 | Touhou Gakuen Ki: Shippuu no Shou | 201176 | [201176-touhou-gakuen-ki-shippuu-no-shou.json](./201176-touhou-gakuen-ki-shippuu-no-shou.json) |
