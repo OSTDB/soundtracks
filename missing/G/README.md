@@ -2781,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
 | Google Minesweeper | 184478 | [184478-google-minesweeper.json](./184478-google-minesweeper.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
+| Google Solitaire | 228368 | [228368-google-solitaire.json](./228368-google-solitaire.json) |
 | Google Spotlight Stories: Back to the Moon | 101384 | [101384-google-spotlight-stories-back-to-the-moon.json](./101384-google-spotlight-stories-back-to-the-moon.json) |
 | Google Spotlight Stories: On Ice | 103200 | [103200-google-spotlight-stories-on-ice.json](./103200-google-spotlight-stories-on-ice.json) |
 | Google Spotlight Stories: Pearl | 74401 | [74401-google-spotlight-stories-pearl.json](./74401-google-spotlight-stories-pearl.json) |
