@@ -2836,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long in the Tooth | 376130 | [376130-long-in-the-tooth.json](./376130-long-in-the-tooth.json) |
 | Long Journey | 200571 | [200571-long-journey.json](./200571-long-journey.json) |
 | Long Jump | 247049 | [247049-long-jump.json](./247049-long-jump.json) |
+| Long Legged Larry | 247445 | [247445-long-legged-larry.json](./247445-long-legged-larry.json) |
 | Long Live Caesar | 166717 | [166717-long-live-caesar.json](./166717-long-live-caesar.json) |
 | Long Live the Axe | 122858 | [122858-long-live-the-axe.json](./122858-long-live-the-axe.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
