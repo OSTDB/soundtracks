@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirportSim: Rovaniemi Airport | 283886 | [283886-airportsim-rovaniemi-airport.json](./283886-airportsim-rovaniemi-airport.json) |
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
+| Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
 | Airsoft Bomb | 102575 | [102575-airsoft-bomb.json](./102575-airsoft-bomb.json) |
 | Airsoft Range | 312192 | [312192-airsoft-range.json](./312192-airsoft-range.json) |
@@ -2396,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Valentine Pairs Memory Game | 180101 | [180101-all-valentine-pairs-memory-game.json](./180101-all-valentine-pairs-memory-game.json) |
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
+| All You Want Bundle | 231294 | [231294-all-you-want-bundle.json](./231294-all-you-want-bundle.json) |
 | All Your Creeps | 65438 | [65438-all-your-creeps.json](./65438-all-your-creeps.json) |
 | All Zombies Must Die! | 9971 | [9971-all-zombies-must-die.json](./9971-all-zombies-must-die.json) |
 | All-American College Football | 205116 | [205116-all-american-college-football.json](./205116-all-american-college-football.json) |
@@ -5062,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
 | Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
 | Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
+| Around the World in 80 Days | 231324 | [231324-around-the-world-in-80-days.json](./231324-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 88496 | [88496-around-the-world-in-80-days.json](./88496-around-the-world-in-80-days.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
@@ -6187,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
 | Auld Lang Syne: Cat and Mouse | 305361 | [305361-auld-lang-syne-cat-and-mouse.json](./305361-auld-lang-syne-cat-and-mouse.json) |
 | Aum the Game | 369118 | [369118-aum-the-game.json](./369118-aum-the-game.json) |
+| Aunewyth | 231311 | [231311-aunewyth.json](./231311-aunewyth.json) |
 | Aunt Arctic Adventure | 14275 | [14275-aunt-arctic-adventure.json](./14275-aunt-arctic-adventure.json) |
 | Aunt Fatima | 307767 | [307767-aunt-fatima.json](./307767-aunt-fatima.json) |
 | Aura Aspic | 180236 | [180236-aura-aspic.json](./180236-aura-aspic.json) |
