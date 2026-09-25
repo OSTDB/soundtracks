@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United Assault: Final Stand | 334105 | [334105-united-assault-final-stand.json](./334105-united-assault-final-stand.json) |
 | United Command | 137450 | [137450-united-command.json](./137450-united-command.json) |
 | United Heist | 215677 | [215677-united-heist.json](./215677-united-heist.json) |
+| United Penguin Kingdom | 277330 | [277330-united-penguin-kingdom.json](./277330-united-penguin-kingdom.json) |
 | United State Presidental Race | 48604 | [48604-united-state-presidental-race.json](./48604-united-state-presidental-race.json) |
 | United States Capitals: Breakthrough Gaming Activity Center | 221976 | [221976-united-states-capitals-breakthrough-gaming-activity-center.json](./221976-united-states-capitals-breakthrough-gaming-activity-center.json) |
 | United States of America Jigsaw Puzzles | 278502 | [278502-united-states-of-america-jigsaw-puzzles.json](./278502-united-states-of-america-jigsaw-puzzles.json) |
