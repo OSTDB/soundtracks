@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecoco de Fight! | 342129 | [342129-ecoco-de-fight.json](./342129-ecoco-de-fight.json) |
 | EcoDriver | 233527 | [233527-ecodriver.json](./233527-ecodriver.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
+| Econia: Crypto Idle Tycoon! | 232376 | [232376-econia-crypto-idle-tycoon.json](./232376-econia-crypto-idle-tycoon.json) |
 | EcoQuest II: Lost Secret of the Rainforest | 7694 | [7694-ecoquest-ii-lost-secret-of-the-rainforest.json](./7694-ecoquest-ii-lost-secret-of-the-rainforest.json) |
 | EcoQuest: Explore, Discover, Protect! | 295814 | [295814-ecoquest-explore-discover-protect.json](./295814-ecoquest-explore-discover-protect.json) |
 | Ecotone | 19008 | [19008-ecotone.json](./19008-ecotone.json) |
@@ -2678,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evets: The Ultimate Adventure | 73793 | [73793-evets-the-ultimate-adventure.json](./73793-evets-the-ultimate-adventure.json) |
 | Evhacon | 267961 | [267961-evhacon.json](./267961-evhacon.json) |
 | Evhacon 2 | 129607 | [129607-evhacon-2.json](./129607-evhacon-2.json) |
+| Evidence 111 | 232401 | [232401-evidence-111.json](./232401-evidence-111.json) |
 | Evidence of 96' | 398358 | [398358-evidence-of-96.json](./398358-evidence-of-96.json) |
 | Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
 | Evidence: The Last Ritual | 20599 | [20599-evidence-the-last-ritual.json](./20599-evidence-the-last-ritual.json) |
