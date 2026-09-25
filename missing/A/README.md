@@ -5367,6 +5367,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspect Heroes | 277331 | [277331-aspect-heroes.json](./277331-aspect-heroes.json) |
 | Aspects of change | 121631 | [121631-aspects-of-change.json](./121631-aspects-of-change.json) |
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
+| Asphalt 9: Legends - High-Gear Pack | 237899 | [237899-asphalt-9-legends-high-gear-pack.json](./237899-asphalt-9-legends-high-gear-pack.json) |
+| Asphalt 9: Legends - Italian Pack | 237901 | [237901-asphalt-9-legends-italian-pack.json](./237901-asphalt-9-legends-italian-pack.json) |
+| Asphalt 9: Legends - Multiplayer Champion Pack | 237896 | [237896-asphalt-9-legends-multiplayer-champion-pack.json](./237896-asphalt-9-legends-multiplayer-champion-pack.json) |
+| Asphalt 9: Legends - Turbo Summer Racing Pack | 237893 | [237893-asphalt-9-legends-turbo-summer-racing-pack.json](./237893-asphalt-9-legends-turbo-summer-racing-pack.json) |
 | Asphalt Champions | 384188 | [384188-asphalt-champions.json](./384188-asphalt-champions.json) |
 | Asphalt Dominion | 402305 | [402305-asphalt-dominion.json](./402305-asphalt-dominion.json) |
 | Asphalt Legends Unite: Supercharged Edition | 363017 | [363017-asphalt-legends-unite-supercharged-edition.json](./363017-asphalt-legends-unite-supercharged-edition.json) |
