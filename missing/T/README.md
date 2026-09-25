@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Lab | 33391 | [33391-terror-lab.json](./33391-terror-lab.json) |
 | Terror Mansion | 283836 | [283836-terror-mansion.json](./283836-terror-mansion.json) |
 | Terror Mod Ultraultimatum HD | 330547 | [330547-terror-mod-ultraultimatum-hd.json](./330547-terror-mod-ultraultimatum-hd.json) |
+| Terror of Sea | 227815 | [227815-terror-of-sea.json](./227815-terror-of-sea.json) |
 | Terror of the Catacombs | 11046 | [11046-terror-of-the-catacombs.json](./11046-terror-of-the-catacombs.json) |
 | Terror of the Deep | 37178 | [37178-terror-of-the-deep.json](./37178-terror-of-the-deep.json) |
 | Terror on Tromos 5 | 407427 | [407427-terror-on-tromos-5.json](./407427-terror-on-tromos-5.json) |
@@ -7858,6 +7859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There the Light | 117846 | [117846-there-the-light.json](./117846-there-the-light.json) |
 | There Was a Caveman | 34339 | [34339-there-was-a-caveman.json](./34339-there-was-a-caveman.json) |
+| There Was a Mixup at the Factory! | 227810 | [227810-there-was-a-mixup-at-the-factory.json](./227810-there-was-a-mixup-at-the-factory.json) |
 | There Was Something In That Room | 338273 | [338273-there-was-something-in-that-room.json](./338273-there-was-something-in-that-room.json) |
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
