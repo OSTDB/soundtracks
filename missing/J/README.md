@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jevilswap | 315035 | [315035-jevilswap.json](./315035-jevilswap.json) |
 | Jewel Adventures | 85207 | [85207-jewel-adventures.json](./85207-jewel-adventures.json) |
 | Jewel BEM Hunter Lime | 264644 | [264644-jewel-bem-hunter-lime.json](./264644-jewel-bem-hunter-lime.json) |
+| Jewel Crush | 233434 | [233434-jewel-crush.json](./233434-jewel-crush.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Drops 2 - Match three puzzle | 101637 | [101637-jewel-drops-2-match-three-puzzle.json](./101637-jewel-drops-2-match-three-puzzle.json) |
 | Jewel Fever | 246341 | [246341-jewel-fever.json](./246341-jewel-fever.json) |
@@ -1080,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Life 4 | 336636 | [336636-joy-life-4.json](./336636-joy-life-4.json) |
 | Joy Match 3D | 255796 | [255796-joy-match-3d.json](./255796-joy-match-3d.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
+| Joyland: Horror Adventure Quest | 233437 | [233437-joyland-horror-adventure-quest.json](./233437-joyland-horror-adventure-quest.json) |
 | Joymaker | 374284 | [374284-joymaker.json](./374284-joymaker.json) |
 | Joyman | 40203 | [40203-joyman.json](./40203-joyman.json) |
 | Joyo Kanji Quiz | 99646 | [99646-joyo-kanji-quiz.json](./99646-joyo-kanji-quiz.json) |
