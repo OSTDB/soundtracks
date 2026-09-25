@@ -4029,6 +4029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue/Cluedo: Black Adder Resort Bundle | 262647 | [262647-clue-cluedo-black-adder-resort-bundle.json](./262647-clue-cluedo-black-adder-resort-bundle.json) |
 | Clue/Cluedo: Halloween Records | 328997 | [328997-clue-cluedo-halloween-records.json](./328997-clue-cluedo-halloween-records.json) |
 | Clue/Cluedo: Sherlock Suspect Pack | 407418 | [407418-clue-cluedo-sherlock-suspect-pack.json](./407418-clue-cluedo-sherlock-suspect-pack.json) |
+| Clue/Cluedo: The Ultimate Detective’s Package | 260740 | [260740-clue-cluedo-the-ultimate-detective-s-package.json](./260740-clue-cluedo-the-ultimate-detective-s-package.json) |
 | Clue/Cluedo: Tropical Pack | 263035 | [263035-clue-cluedo-tropical-pack.json](./263035-clue-cluedo-tropical-pack.json) |
 | Cluedo Chronicles - Fatal Illusion | 50799 | [50799-cluedo-chronicles-fatal-illusion.json](./50799-cluedo-chronicles-fatal-illusion.json) |
 | Cluedo: The Mysteries Continue | 45936 | [45936-cluedo-the-mysteries-continue.json](./45936-cluedo-the-mysteries-continue.json) |
@@ -7373,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culto a los dioses | 228428 | [228428-culto-a-los-dioses.json](./228428-culto-a-los-dioses.json) |
 | Cults and Daggers | 36160 | [36160-cults-and-daggers.json](./36160-cults-and-daggers.json) |
 | Cults of the Endtimes | 389742 | [389742-cults-of-the-endtimes.json](./389742-cults-of-the-endtimes.json) |
+| Culture House | 260631 | [260631-culture-house.json](./260631-culture-house.json) |
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Culture Warz: Time's Up Karen! | 272864 | [272864-culture-warz-times-up-karen.json](./272864-culture-warz-times-up-karen.json) |
 | Culture Warz: Time's Up Karen! - Suburbs Map Pack | 273350 | [273350-culture-warz-times-up-karen-suburbs-map-pack.json](./273350-culture-warz-times-up-karen-suburbs-map-pack.json) |
