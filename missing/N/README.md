@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Era | 135862 | [135862-new-era.json](./135862-new-era.json) |
 | New Eyes Cycle | 374273 | [374273-new-eyes-cycle.json](./374273-new-eyes-cycle.json) |
 | New Fortress | 130875 | [130875-new-fortress.json](./130875-new-fortress.json) |
+| New FreeCell Solitaire HD | 232369 | [232369-new-freecell-solitaire-hd.json](./232369-new-freecell-solitaire-hd.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
@@ -1308,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New LovePlus+: Manaka Artbook Limited Edition | 89887 | [89887-new-loveplus-manaka-artbook-limited-edition.json](./89887-new-loveplus-manaka-artbook-limited-edition.json) |
 | New LovePlus+: Nene Artbook Limited Edition | 89888 | [89888-new-loveplus-nene-artbook-limited-edition.json](./89888-new-loveplus-nene-artbook-limited-edition.json) |
 | New LovePlus+: Rinko Artbook Limited Edition | 89881 | [89881-new-loveplus-rinko-artbook-limited-edition.json](./89881-new-loveplus-rinko-artbook-limited-edition.json) |
+| New Ludo | 232365 | [232365-new-ludo.json](./232365-new-ludo.json) |
 | New Meat | 329030 | [329030-new-meat.json](./329030-new-meat.json) |
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
