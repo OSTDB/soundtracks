@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger and Deadlier | 336700 | [336700-danger-and-deadlier.json](./336700-danger-and-deadlier.json) |
 | Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
 | Danger City | 279591 | [279591-danger-city.json](./279591-danger-city.json) |
+| Danger Cliff | 235677 | [235677-danger-cliff.json](./235677-danger-cliff.json) |
 | Danger Close! | 76658 | [76658-danger-close.json](./76658-danger-close.json) |
 | Danger Course VR | 124231 | [124231-danger-course-vr.json](./124231-danger-course-vr.json) |
 | Danger Crew | 117623 | [117623-danger-crew.json](./117623-danger-crew.json) |
@@ -1355,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead of the Brain 1 & 2 | 80189 | [80189-dead-of-the-brain-1-and-2.json](./80189-dead-of-the-brain-1-and-2.json) |
 | Dead of the Brain 2 | 66361 | [66361-dead-of-the-brain-2.json](./66361-dead-of-the-brain-2.json) |
+| Dead of the Sea | 235708 | [235708-dead-of-the-sea.json](./235708-dead-of-the-sea.json) |
 | Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
 | Dead or Alive | 317067 | [317067-dead-or-alive.json](./317067-dead-or-alive.json) |
