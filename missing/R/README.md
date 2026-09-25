@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rec Room | 32617 | [32617-rec-room.json](./32617-rec-room.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | Recalcitrant | 326273 | [326273-recalcitrant.json](./326273-recalcitrant.json) |
+| Recalhorn | 257330 | [257330-recalhorn.json](./257330-recalhorn.json) |
 | Recall | 154397 | [154397-recall.json](./154397-recall.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
 | Recesses | 317409 | [317409-recesses.json](./317409-recesses.json) |
@@ -3842,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Company: Radioactive Revenant Pack | 406770 | [406770-rogue-company-radioactive-revenant-pack.json](./406770-rogue-company-radioactive-revenant-pack.json) |
 | Rogue Company: Season Three Starter Pack | 406821 | [406821-rogue-company-season-three-starter-pack.json](./406821-rogue-company-season-three-starter-pack.json) |
 | Rogue Company: Season Two Starter Pack | 406822 | [406822-rogue-company-season-two-starter-pack.json](./406822-rogue-company-season-two-starter-pack.json) |
+| Rogue Company: ViVi Starter Pack | 257356 | [257356-rogue-company-vivi-starter-pack.json](./257356-rogue-company-vivi-starter-pack.json) |
 | Rogue Continuum | 23481 | [23481-rogue-continuum.json](./23481-rogue-continuum.json) |
 | Rogue Contracts: Syndicate | 26696 | [26696-rogue-contracts-syndicate.json](./26696-rogue-contracts-syndicate.json) |
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
@@ -4586,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruby Journey | 337734 | [337734-ruby-journey.json](./337734-ruby-journey.json) |
 | Ruby Rose: Ace Attorney | 303243 | [303243-ruby-rose-ace-attorney.json](./303243-ruby-rose-ace-attorney.json) |
 | Ruby Square: logical puzzle game | 96741 | [96741-ruby-square-logical-puzzle-game.json](./96741-ruby-square-logical-puzzle-game.json) |
+| Ruby: Huntress of Vale | 257333 | [257333-ruby-huntress-of-vale.json](./257333-ruby-huntress-of-vale.json) |
 | Ruby's Land | 298052 | [298052-rubys-land.json](./298052-rubys-land.json) |
 | Ruby’s Realms | 360746 | [360746-ruby-s-realms.json](./360746-ruby-s-realms.json) |
 | Ruby's Rebalanced Halo CE Campaign | 142276 | [142276-rubys-rebalanced-halo-ce-campaign.json](./142276-rubys-rebalanced-halo-ce-campaign.json) |
