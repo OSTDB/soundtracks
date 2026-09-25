@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galidor: Defenders of the Outer Dimension | 316808 | [316808-galidor-defenders-of-the-outer-dimension.json](./316808-galidor-defenders-of-the-outer-dimension.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
 | Galix: NewHorizons | 304695 | [304695-galix-newhorizons.json](./304695-galix-newhorizons.json) |
+| Gall Force - Eternal Story | 230225 | [230225-gall-force-eternal-story.json](./230225-gall-force-eternal-story.json) |
 | Gall Force: Sousei no Jokyoku | 107627 | [107627-gall-force-sousei-no-jokyoku.json](./107627-gall-force-sousei-no-jokyoku.json) |
 | Gallag | 232392 | [232392-gallag.json](./232392-gallag.json) |
 | Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
@@ -680,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganso!! Yancha-maru | 186733 | [186733-ganso-yancha-maru.json](./186733-ganso-yancha-maru.json) |
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
+| Gao Gao! 1st: Radical Sequence | 230229 | [230229-gao-gao-1st-radical-sequence.json](./230229-gao-gao-1st-radical-sequence.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
 | Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
@@ -699,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Truck: Bulky Trash Pick Up | 97289 | [97289-garbage-truck-bulky-trash-pick-up.json](./97289-garbage-truck-bulky-trash-pick-up.json) |
 | Garbageman | 276217 | [276217-garbageman.json](./276217-garbageman.json) |
 | Garden | 185675 | [185675-garden.json](./185675-garden.json) |
+| Garden | 230201 | [230201-garden.json](./230201-garden.json) |
 | Garden & Bird | 346084 | [346084-garden-and-bird.json](./346084-garden-and-bird.json) |
 | Garden Affairs | 214058 | [214058-garden-affairs.json](./214058-garden-affairs.json) |
 | Garden Bots | 395900 | [395900-garden-bots.json](./395900-garden-bots.json) |
@@ -1748,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girder & Hearts: Reel Romance | 364500 | [364500-girder-and-hearts-reel-romance.json](./364500-girder-and-hearts-reel-romance.json) |
 | Giresun | 293704 | [293704-giresun.json](./293704-giresun.json) |
 | Giri-Jump Star Rush | 411134 | [411134-giri-jump-star-rush.json](./411134-giri-jump-star-rush.json) |
+| Girigiri Telephone Call | 230232 | [230232-girigiri-telephone-call.json](./230232-girigiri-telephone-call.json) |
 | Girl & Gem Magic | 367022 | [367022-girl-and-gem-magic.json](./367022-girl-and-gem-magic.json) |
 | Girl & Scarecrow | 404331 | [404331-girl-and-scarecrow.json](./404331-girl-and-scarecrow.json) |
 | Girl Abducted | 334654 | [334654-girl-abducted.json](./334654-girl-abducted.json) |
@@ -3222,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Gunner | 280289 | [280289-grave-gunner.json](./280289-grave-gunner.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
+| Grave Spirit | 230215 | [230215-grave-spirit.json](./230215-grave-spirit.json) |
 | Grave Yardage | 94545 | [94545-grave-yardage.json](./94545-grave-yardage.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
