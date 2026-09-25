@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Champ | 388958 | [388958-party-champ.json](./388958-party-champ.json) |
 | Party Chaos | 213446 | [213446-party-chaos.json](./213446-party-chaos.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
+| Party Demon | 238997 | [238997-party-demon.json](./238997-party-demon.json) |
 | Party Doodles | 241338 | [241338-party-doodles.json](./241338-party-doodles.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
 | Party Friends | 279111 | [279111-party-friends.json](./279111-party-friends.json) |
@@ -2698,14 +2699,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Garfield Pinball | 239031 | [239031-pinball-fx-garfield-pinball.json](./239031-pinball-fx-garfield-pinball.json) |
 | Pinball FX: Gearbox Pinball | 239030 | [239030-pinball-fx-gearbox-pinball.json](./239030-pinball-fx-gearbox-pinball.json) |
 | Pinball FX: Goat Simulator Pinball | 316243 | [316243-pinball-fx-goat-simulator-pinball.json](./316243-pinball-fx-goat-simulator-pinball.json) |
+| Pinball FX: Marvel Pinball Collection 1 | 239027 | [239027-pinball-fx-marvel-pinball-collection-1.json](./239027-pinball-fx-marvel-pinball-collection-1.json) |
 | Pinball FX: Nightmare Mansion | 395547 | [395547-pinball-fx-nightmare-mansion.json](./395547-pinball-fx-nightmare-mansion.json) |
 | Pinball FX: Peanuts' Snoopy Pinball | 239029 | [239029-pinball-fx-peanuts-snoopy-pinball.json](./239029-pinball-fx-peanuts-snoopy-pinball.json) |
 | Pinball FX: Rocky and Bullwinkle | 395546 | [395546-pinball-fx-rocky-and-bullwinkle.json](./395546-pinball-fx-rocky-and-bullwinkle.json) |
+| Pinball FX: Secrets and Shadows Pack | 239028 | [239028-pinball-fx-secrets-and-shadows-pack.json](./239028-pinball-fx-secrets-and-shadows-pack.json) |
+| Pinball FX: Star Wars Pinball - Thrill of the Hunt | 239024 | [239024-pinball-fx-star-wars-pinball-thrill-of-the-hunt.json](./239024-pinball-fx-star-wars-pinball-thrill-of-the-hunt.json) |
+| Pinball FX: Star Wars Pinball Collection 1 | 239026 | [239026-pinball-fx-star-wars-pinball-collection-1.json](./239026-pinball-fx-star-wars-pinball-collection-1.json) |
+| Pinball FX: Star Wars Pinball Collection 2 | 239025 | [239025-pinball-fx-star-wars-pinball-collection-2.json](./239025-pinball-fx-star-wars-pinball-collection-2.json) |
 | Pinball FX: Street Fighter II Tribute | 395551 | [395551-pinball-fx-street-fighter-ii-tribute.json](./395551-pinball-fx-street-fighter-ii-tribute.json) |
 | Pinball FX: System Shock Pinball | 287178 | [287178-pinball-fx-system-shock-pinball.json](./287178-pinball-fx-system-shock-pinball.json) |
+| Pinball FX: The Machine - Bride of Pin Bot️ | 239023 | [239023-pinball-fx-the-machine-bride-of-pin-bot.json](./239023-pinball-fx-the-machine-bride-of-pin-bot.json) |
 | Pinball FX: The Princess Bride Pinball | 316244 | [316244-pinball-fx-the-princess-bride-pinball.json](./316244-pinball-fx-the-princess-bride-pinball.json) |
+| Pinball FX: Universal Classics Pinball | 239022 | [239022-pinball-fx-universal-classics-pinball.json](./239022-pinball-fx-universal-classics-pinball.json) |
 | Pinball FX: Williams Pinball - Star Trek: The Next Generation | 261330 | [261330-pinball-fx-williams-pinball-star-trek-the-next-generation.json](./261330-pinball-fx-williams-pinball-star-trek-the-next-generation.json) |
+| Pinball FX: Williams Pinball - Swords of Fury | 239019 | [239019-pinball-fx-williams-pinball-swords-of-fury.json](./239019-pinball-fx-williams-pinball-swords-of-fury.json) |
+| Pinball FX: Williams Pinball - The Addams Family | 239018 | [239018-pinball-fx-williams-pinball-the-addams-family.json](./239018-pinball-fx-williams-pinball-the-addams-family.json) |
+| Pinball FX: Williams Pinball - World Cup Soccer | 239017 | [239017-pinball-fx-williams-pinball-world-cup-soccer.json](./239017-pinball-fx-williams-pinball-world-cup-soccer.json) |
+| Pinball FX: Williams Pinball Collection 1 | 239021 | [239021-pinball-fx-williams-pinball-collection-1.json](./239021-pinball-fx-williams-pinball-collection-1.json) |
+| Pinball FX: Williams Pinball Collection 2 | 239020 | [239020-pinball-fx-williams-pinball-collection-2.json](./239020-pinball-fx-williams-pinball-collection-2.json) |
 | Pinball FX: Williams Pinball Volume 7 | 271828 | [271828-pinball-fx-williams-pinball-volume-7.json](./271828-pinball-fx-williams-pinball-volume-7.json) |
+| Pinball FX: World War Z Pinball | 239016 | [239016-pinball-fx-world-war-z-pinball.json](./239016-pinball-fx-world-war-z-pinball.json) |
+| Pinball FX: Zen Originals Collection 1 | 239015 | [239015-pinball-fx-zen-originals-collection-1.json](./239015-pinball-fx-zen-originals-collection-1.json) |
 | Pinball FX2 | 79328 | [79328-pinball-fx2.json](./79328-pinball-fx2.json) |
 | Pinball FX2: Mars Table | 20544 | [20544-pinball-fx2-mars-table.json](./20544-pinball-fx2-mars-table.json) |
 | Pinball FX2: Marvel Pinball | 86004 | [86004-pinball-fx2-marvel-pinball.json](./86004-pinball-fx2-marvel-pinball.json) |
@@ -6480,6 +6495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Toilet Simulator | 340591 | [340591-public-toilet-simulator.json](./340591-public-toilet-simulator.json) |
 | Public Transport Simulator 2 | 333737 | [333737-public-transport-simulator-2.json](./333737-public-transport-simulator-2.json) |
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
+| Pucca Puzzle Adventure | 239003 | [239003-pucca-puzzle-adventure.json](./239003-pucca-puzzle-adventure.json) |
 | Pucca's Restaurant | 65476 | [65476-puccas-restaurant.json](./65476-puccas-restaurant.json) |
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
 | Puchi Novel: Kongi No Rokugatsu | 222299 | [222299-puchi-novel-kongi-no-rokugatsu.json](./222299-puchi-novel-kongi-no-rokugatsu.json) |
