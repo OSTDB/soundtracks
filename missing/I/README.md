@@ -2490,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Jura | 167395 | [167395-isle-of-jura.json](./167395-isle-of-jura.json) |
 | Isle of Jura Fishing Trip | 242055 | [242055-isle-of-jura-fishing-trip.json](./242055-isle-of-jura-fishing-trip.json) |
 | Isle of Jura Fishing Trip: Complete Edition | 268564 | [268564-isle-of-jura-fishing-trip-complete-edition.json](./268564-isle-of-jura-fishing-trip-complete-edition.json) |
+| Isle of Jura Fishing Trip: Definitive Edition | 263552 | [263552-isle-of-jura-fishing-trip-definitive-edition.json](./263552-isle-of-jura-fishing-trip-definitive-edition.json) |
 | Isle of Jura Fishing Trip: Ultimate Edition | 251689 | [251689-isle-of-jura-fishing-trip-ultimate-edition.json](./251689-isle-of-jura-fishing-trip-ultimate-edition.json) |
 | Isle of Lament | 375990 | [375990-isle-of-lament.json](./375990-isle-of-lament.json) |
 | Isle of Rein | 207397 | [207397-isle-of-rein.json](./207397-isle-of-rein.json) |
