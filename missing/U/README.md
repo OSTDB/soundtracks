@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld | 343436 | [343436-underworld.json](./343436-underworld.json) |
 | Underworld | 349298 | [349298-underworld.json](./349298-underworld.json) |
 | Underworld Capital Incident | 146232 | [146232-underworld-capital-incident.json](./146232-underworld-capital-incident.json) |
+| Underworld Defense | 259515 | [259515-underworld-defense.json](./259515-underworld-defense.json) |
 | Underworld Dreams | 127209 | [127209-underworld-dreams.json](./127209-underworld-dreams.json) |
 | Underworld Dreams: The False King | 192360 | [192360-underworld-dreams-the-false-king.json](./192360-underworld-dreams-the-false-king.json) |
 | Underworld Explorers | 336592 | [336592-underworld-explorers.json](./336592-underworld-explorers.json) |
