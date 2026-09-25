@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
 | Nightmare Knock | 237518 | [237518-nightmare-knock.json](./237518-nightmare-knock.json) |
 | Nightmare Labyrinth | 274037 | [274037-nightmare-labyrinth.json](./274037-nightmare-labyrinth.json) |
+| Nightmare Manor | 257893 | [257893-nightmare-manor.json](./257893-nightmare-manor.json) |
 | Nightmare Maze | 13743 | [13743-nightmare-maze.json](./13743-nightmare-maze.json) |
 | Nightmare Mines | 358858 | [358858-nightmare-mines.json](./358858-nightmare-mines.json) |
 | Nightmare Ned | 51225 | [51225-nightmare-ned.json](./51225-nightmare-ned.json) |
