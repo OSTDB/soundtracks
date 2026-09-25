@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpoons & Balls | 57083 | [57083-harpoons-and-balls.json](./57083-harpoons-and-balls.json) |
 | Harpy | 412265 | [412265-harpy.json](./412265-harpy.json) |
 | Harpy Monster Bird Simulator 3D | 88802 | [88802-harpy-monster-bird-simulator-3d.json](./88802-harpy-monster-bird-simulator-3d.json) |
+| Harpy Raiders | 248024 | [248024-harpy-raiders.json](./248024-harpy-raiders.json) |
 | Harpy's Curse | 332393 | [332393-harpys-curse.json](./332393-harpys-curse.json) |
 | Harrier Attack! | 13004 | [13004-harrier-attack.json](./13004-harrier-attack.json) |
 | Harrow | 265698 | [265698-harrow.json](./265698-harrow.json) |
@@ -2191,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here and There Along the Echo | 74392 | [74392-here-and-there-along-the-echo.json](./74392-here-and-there-along-the-echo.json) |
 | Here Be Dragons | 110355 | [110355-here-be-dragons.json](./110355-here-be-dragons.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
+| Here There Be Bears | 247993 | [247993-here-there-be-bears.json](./247993-here-there-be-bears.json) |
 | Here They Lie | 19572 | [19572-here-they-lie.json](./19572-here-they-lie.json) |
 | Hereafter | 287147 | [287147-hereafter.json](./287147-hereafter.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
@@ -4651,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger Lane | 403687 | [403687-hunger-lane.json](./403687-hunger-lane.json) |
 | Hunger of The Elder Slime | 180846 | [180846-hunger-of-the-elder-slime.json](./180846-hunger-of-the-elder-slime.json) |
 | Hungrities | 386695 | [386695-hungrities.json](./386695-hungrities.json) |
+| Hungry Adventurer | 248013 | [248013-hungry-adventurer.json](./248013-hungry-adventurer.json) |
 | Hungry Animals | 196675 | [196675-hungry-animals.json](./196675-hungry-animals.json) |
 | Hungry Cat | 387690 | [387690-hungry-cat.json](./387690-hungry-cat.json) |
 | Hungry Cat Nonogram | 207862 | [207862-hungry-cat-nonogram.json](./207862-hungry-cat-nonogram.json) |
