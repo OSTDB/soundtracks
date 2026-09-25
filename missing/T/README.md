@@ -5574,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightmare Inside | 194653 | [194653-the-nightmare-inside.json](./194653-the-nightmare-inside.json) |
 | The Nightmare Of Arrival Chapter 1 | 298561 | [298561-the-nightmare-of-arrival-chapter-1.json](./298561-the-nightmare-of-arrival-chapter-1.json) |
 | The Nightmare of Pandemic: Kyle's Story | 339801 | [339801-the-nightmare-of-pandemic-kyles-story.json](./339801-the-nightmare-of-pandemic-kyles-story.json) |
+| The Nightmare: Serial Killers | 262321 | [262321-the-nightmare-serial-killers.json](./262321-the-nightmare-serial-killers.json) |
 | The Nights on Arcade | 267073 | [267073-the-nights-on-arcade.json](./267073-the-nights-on-arcade.json) |
 | The Nightshift Code | 16076 | [16076-the-nightshift-code.json](./16076-the-nightshift-code.json) |
 | The Nightwatch | 289977 | [289977-the-nightwatch.json](./289977-the-nightwatch.json) |
@@ -8914,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Only Knows | 208411 | [208411-time-only-knows.json](./208411-time-only-knows.json) |
 | Time Out Sports: Baseball | 57936 | [57936-time-out-sports-baseball.json](./57936-time-out-sports-baseball.json) |
 | Time Over | 368658 | [368658-time-over.json](./368658-time-over.json) |
+| Time Parallax: The Burial Vault | 262291 | [262291-time-parallax-the-burial-vault.json](./262291-time-parallax-the-burial-vault.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
 | Time Raiders | 252232 | [252232-time-raiders.json](./252232-time-raiders.json) |
@@ -11161,6 +11163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Milton Valley Railroad | 306107 | [306107-trainz-plus-milton-valley-railroad.json](./306107-trainz-plus-milton-valley-railroad.json) |
 | Trainz Plus: Mine & Field railway | 205559 | [205559-trainz-plus-mine-and-field-railway.json](./205559-trainz-plus-mine-and-field-railway.json) |
 | Trainz Plus: Model Trainz - Freemont Mills | 306103 | [306103-trainz-plus-model-trainz-freemont-mills.json](./306103-trainz-plus-model-trainz-freemont-mills.json) |
+| Trainz Plus: Model Trainz - UZ-Gbox | 262332 | [262332-trainz-plus-model-trainz-uz-gbox.json](./262332-trainz-plus-model-trainz-uz-gbox.json) |
 | Trainz Plus: NR Class Locomotive - JBR Indian Pacific Pack | 284916 | [284916-trainz-plus-nr-class-locomotive-jbr-indian-pacific-pack.json](./284916-trainz-plus-nr-class-locomotive-jbr-indian-pacific-pack.json) |
 | Trainz Plus: NS SD60E - 6963 GoRail | 205562 | [205562-trainz-plus-ns-sd60e-6963-gorail.json](./205562-trainz-plus-ns-sd60e-6963-gorail.json) |
 | Trainz Plus: Port Saturn | 288212 | [288212-trainz-plus-port-saturn.json](./288212-trainz-plus-port-saturn.json) |
@@ -11233,6 +11236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: LMS/NSR Wagon Pack 1 | 285516 | [285516-trainz-railroad-simulator-2019-lms-nsr-wagon-pack-1.json](./285516-trainz-railroad-simulator-2019-lms-nsr-wagon-pack-1.json) |
 | Trainz Railroad Simulator 2019: Mine & Field railway | 190712 | [190712-trainz-railroad-simulator-2019-mine-and-field-railway.json](./190712-trainz-railroad-simulator-2019-mine-and-field-railway.json) |
 | Trainz Railroad Simulator 2019: Model Trainz - New South Wales Region | 190709 | [190709-trainz-railroad-simulator-2019-model-trainz-new-south-wales-region.json](./190709-trainz-railroad-simulator-2019-model-trainz-new-south-wales-region.json) |
+| Trainz Railroad Simulator 2019: Model Trainz - UZ-Gbox | 262334 | [262334-trainz-railroad-simulator-2019-model-trainz-uz-gbox.json](./262334-trainz-railroad-simulator-2019-model-trainz-uz-gbox.json) |
 | Trainz Railroad Simulator 2019: Newcastle Shunter | 153273 | [153273-trainz-railroad-simulator-2019-newcastle-shunter.json](./153273-trainz-railroad-simulator-2019-newcastle-shunter.json) |
 | Trainz Railroad Simulator 2019: NR Class Locomotive - JBR Indian Pacific Pack | 284915 | [284915-trainz-railroad-simulator-2019-nr-class-locomotive-jbr-indian-pacific-pack.json](./284915-trainz-railroad-simulator-2019-nr-class-locomotive-jbr-indian-pacific-pack.json) |
 | Trainz Railroad Simulator 2019: NR Class Locomotive - National Rail Mega Pack | 256376 | [256376-trainz-railroad-simulator-2019-nr-class-locomotive-national-rail-mega-pack.json](./256376-trainz-railroad-simulator-2019-nr-class-locomotive-national-rail-mega-pack.json) |
