@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobia | 202320 | [202320-phobia.json](./202320-phobia.json) |
 | Phobia | 205114 | [205114-phobia.json](./205114-phobia.json) |
 | Phobia 1.5 | 159179 | [159179-phobia-1-5.json](./159179-phobia-1-5.json) |
+| Phobia Exposure VR | 260619 | [260619-phobia-exposure-vr.json](./260619-phobia-exposure-vr.json) |
 | PhoboPhobia | 306479 | [306479-phobophobia.json](./306479-phobophobia.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
@@ -2649,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
 | Pinball Deluxe | 260802 | [260802-pinball-deluxe.json](./260802-pinball-deluxe.json) |
+| Pinball Dreams | 260726 | [260726-pinball-dreams.json](./260726-pinball-dreams.json) |
 | Pinball Duel | 66642 | [66642-pinball-duel.json](./66642-pinball-duel.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
 | Pinball Fantasies Deluxe | 78624 | [78624-pinball-fantasies-deluxe.json](./78624-pinball-fantasies-deluxe.json) |
@@ -3480,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Stronghold 2 | 103609 | [103609-planet-stronghold-2.json](./103609-planet-stronghold-2.json) |
 | Planet Surf: The Last Wave | 158672 | [158672-planet-surf-the-last-wave.json](./158672-planet-surf-the-last-wave.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
+| Planet Valley | 260647 | [260647-planet-valley.json](./260647-planet-valley.json) |
 | Planet Wars | 207855 | [207855-planet-wars.json](./207855-planet-wars.json) |
 | Planet Waves | 177001 | [177001-planet-waves.json](./177001-planet-waves.json) |
 | Planet X: Space Shooter VR | 104609 | [104609-planet-x-space-shooter-vr.json](./104609-planet-x-space-shooter-vr.json) |
@@ -4469,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Bridge 2 | 132002 | [132002-poly-bridge-2.json](./132002-poly-bridge-2.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
 | Poly City : Vengeance | 114423 | [114423-poly-city-vengeance.json](./114423-poly-city-vengeance.json) |
+| Poly Ego | 260729 | [260729-poly-ego.json](./260729-poly-ego.json) |
 | Poly Frenzy | 373217 | [373217-poly-frenzy.json](./373217-poly-frenzy.json) |
 | Poly Gangs | 159724 | [159724-poly-gangs.json](./159724-poly-gangs.json) |
 | Poly Jigsaw Puzzle | 105780 | [105780-poly-jigsaw-puzzle.json](./105780-poly-jigsaw-puzzle.json) |
