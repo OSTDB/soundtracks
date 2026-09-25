@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.T. | 151689 | [151689-w-t.json](./151689-w-t.json) |
 | W2000_CHAN_>W<.exe | 383932 | [383932-w2000-chan-w-exe.json](./383932-w2000-chan-w-exe.json) |
 | W4RR-i/o-RS | 75910 | [75910-w4rr-i-o-rs.json](./75910-w4rr-i-o-rs.json) |
+| Wa ga Ryuu wo Miyo: Pride of the Dragon Peace | 227795 | [227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json](./227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json) |
 | Waba | 104821 | [104821-waba.json](./104821-waba.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
 | Wabisabi | 127786 | [127786-wabisabi.json](./127786-wabisabi.json) |
@@ -821,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warshift 2 | 388957 | [388957-warshift-2.json](./388957-warshift-2.json) |
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
+| Warship Legend | 227813 | [227813-warship-legend.json](./227813-warship-legend.json) |
 | WarShip War Navy Fleet Combat | 255043 | [255043-warship-war-navy-fleet-combat.json](./255043-warship-war-navy-fleet-combat.json) |
 | Warships 3D | 114158 | [114158-warships-3d.json](./114158-warships-3d.json) |
 | Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
@@ -2264,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winged | 307689 | [307689-winged.json](./307689-winged.json) |
 | Winged Sakura: Mindy's Arc 2 | 111049 | [111049-winged-sakura-mindys-arc-2.json](./111049-winged-sakura-mindys-arc-2.json) |
 | Winged Warrior III: The Nova Knight | 365274 | [365274-winged-warrior-iii-the-nova-knight.json](./365274-winged-warrior-iii-the-nova-knight.json) |
+| Winging It | 227786 | [227786-winging-it.json](./227786-winging-it.json) |
 | Winglancer | 68966 | [68966-winglancer.json](./68966-winglancer.json) |
 | Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
 | Winglet | 299172 | [299172-winglet.json](./299172-winglet.json) |
@@ -3064,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
 | Wordsock Classic | 253431 | [253431-wordsock-classic.json](./253431-wordsock-classic.json) |
 | Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
+| WordSpiral | 227777 | [227777-wordspiral.json](./227777-wordspiral.json) |
 | Wordsplash! | 28814 | [28814-wordsplash.json](./28814-wordsplash.json) |
 | Wordsweeper by Powgi | 121643 | [121643-wordsweeper-by-powgi.json](./121643-wordsweeper-by-powgi.json) |
 | WordTrip: Word Swipe Puzzles | 98795 | [98795-wordtrip-word-swipe-puzzles.json](./98795-wordtrip-word-swipe-puzzles.json) |
