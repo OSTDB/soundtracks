@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Fortune | 360676 | [360676-cards-of-fortune.json](./360676-cards-of-fortune.json) |
 | Cards of Knight | 110149 | [110149-cards-of-knight.json](./110149-cards-of-knight.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
+| Cards of the Realm | 246916 | [246916-cards-of-the-realm.json](./246916-cards-of-the-realm.json) |
 | Cards Survivors | 246487 | [246487-cards-survivors.json](./246487-cards-survivors.json) |
 | Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
 | Cards, Universe & Everything | 248154 | [248154-cards-universe-and-everything.json](./248154-cards-universe-and-everything.json) |
@@ -970,11 +971,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carlton | 83477 | [83477-carlton.json](./83477-carlton.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
+| Carmageddon | 246895 | [246895-carmageddon.json](./246895-carmageddon.json) |
 | Carmageddon | 626 | [626-carmageddon.json](./626-carmageddon.json) |
 | Carmageddon Max Pack | 93899 | [93899-carmageddon-max-pack.json](./93899-carmageddon-max-pack.json) |
+| Carmageddon TV | 246897 | [246897-carmageddon-tv.json](./246897-carmageddon-tv.json) |
 | Carmageddon: Crashers | 36505 | [36505-carmageddon-crashers.json](./36505-carmageddon-crashers.json) |
 | Carmageddon: Max Damage | 18075 | [18075-carmageddon-max-damage.json](./18075-carmageddon-max-damage.json) |
 | Carmageddon: Splat Pack | 2403 | [2403-carmageddon-splat-pack.json](./2403-carmageddon-splat-pack.json) |
+| Carmageddon: TDR 2000 | 246896 | [246896-carmageddon-tdr-2000.json](./246896-carmageddon-tdr-2000.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carmen Sandiego: 40th Anniversary Edition | 400999 | [400999-carmen-sandiego-40th-anniversary-edition.json](./400999-carmen-sandiego-40th-anniversary-edition.json) |
 | Carmen Sandiego: Junior Detective Edition | 73783 | [73783-carmen-sandiego-junior-detective-edition.json](./73783-carmen-sandiego-junior-detective-edition.json) |
@@ -4088,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush: Ultimate Guys - Complete Edition | 232998 | [232998-clumsy-rush-ultimate-guys-complete-edition.json](./232998-clumsy-rush-ultimate-guys-complete-edition.json) |
 | Clumsy Rush: Ultimate Guys - Decorations Pack 12 | 251665 | [251665-clumsy-rush-ultimate-guys-decorations-pack-12.json](./251665-clumsy-rush-ultimate-guys-decorations-pack-12.json) |
 | Clumsy Rush: Ultimate Guys - Extended Edition | 238064 | [238064-clumsy-rush-ultimate-guys-extended-edition.json](./238064-clumsy-rush-ultimate-guys-extended-edition.json) |
+| Clumsy Rush: Ultimate Guys - GOTY Edition | 246878 | [246878-clumsy-rush-ultimate-guys-goty-edition.json](./246878-clumsy-rush-ultimate-guys-goty-edition.json) |
 | Clumsy Rush: Ultimate Guys - Platinum Edition | 241399 | [241399-clumsy-rush-ultimate-guys-platinum-edition.json](./241399-clumsy-rush-ultimate-guys-platinum-edition.json) |
 | Clumsy Rush: Ultimate Guys - Special Edition | 223571 | [223571-clumsy-rush-ultimate-guys-special-edition.json](./223571-clumsy-rush-ultimate-guys-special-edition.json) |
 | Clumsy Rush: Ultimate Guys - Superb Edition | 271504 | [271504-clumsy-rush-ultimate-guys-superb-edition.json](./271504-clumsy-rush-ultimate-guys-superb-edition.json) |
@@ -7429,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb | 165351 | [165351-cult-of-the-lamb.json](./165351-cult-of-the-lamb.json) |
 | Cult of the Lamb: Deluxe Edition | 222943 | [222943-cult-of-the-lamb-deluxe-edition.json](./222943-cult-of-the-lamb-deluxe-edition.json) |
 | Cult of the Lamb: Heretic Edition | 250654 | [250654-cult-of-the-lamb-heretic-edition.json](./250654-cult-of-the-lamb-heretic-edition.json) |
+| Cult of the Lamb: Heretic Pack | 246922 | [246922-cult-of-the-lamb-heretic-pack.json](./246922-cult-of-the-lamb-heretic-pack.json) |
 | Cult of the Lamb: Pilgrim Pack | 312627 | [312627-cult-of-the-lamb-pilgrim-pack.json](./312627-cult-of-the-lamb-pilgrim-pack.json) |
 | Cult of the Lamb: Relics of the Old Faith | 246406 | [246406-cult-of-the-lamb-relics-of-the-old-faith.json](./246406-cult-of-the-lamb-relics-of-the-old-faith.json) |
 | Cult of the Lamb: The One Who Waits | 408806 | [408806-cult-of-the-lamb-the-one-who-waits.json](./408806-cult-of-the-lamb-the-one-who-waits.json) |
@@ -7771,6 +7777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Lab | 379029 | [379029-cyber-lab.json](./379029-cyber-lab.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
+| Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
