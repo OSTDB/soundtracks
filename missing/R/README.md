@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Madrid Club Football 2005 | 267898 | [267898-real-madrid-club-football-2005.json](./267898-real-madrid-club-football-2005.json) |
 | Real Mahjong Adventure Umi he: Summer Waltz | 293150 | [293150-real-mahjong-adventure-umi-he-summer-waltz.json](./293150-real-mahjong-adventure-umi-he-summer-waltz.json) |
 | Real Miami Street Gangsters Crime Mafia Glory Lord | 101586 | [101586-real-miami-street-gangsters-crime-mafia-glory-lord.json](./101586-real-miami-street-gangsters-crime-mafia-glory-lord.json) |
+| Real Monster Truck Parking | 243068 | [243068-real-monster-truck-parking.json](./243068-real-monster-truck-parking.json) |
 | Real Mother Simulator | 105783 | [105783-real-mother-simulator.json](./105783-real-mother-simulator.json) |
 | Real Motion Fishing: Hooked! Again | 67289 | [67289-real-motion-fishing-hooked-again.json](./67289-real-motion-fishing-hooked-again.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
@@ -1577,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Lightning | 57630 | [57630-red-lightning.json](./57630-red-lightning.json) |
 | Red Line | 272888 | [272888-red-line.json](./272888-red-line.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
+| Red Man Follows | 243056 | [243056-red-man-follows.json](./243056-red-man-follows.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red Max | 49561 | [49561-red-max.json](./49561-red-max.json) |
 | Red Meat Radiator | 396575 | [396575-red-meat-radiator.json](./396575-red-meat-radiator.json) |
@@ -3165,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Warlords | 155475 | [155475-rise-of-warlords.json](./155475-rise-of-warlords.json) |
 | Rise Out | 373027 | [373027-rise-out.json](./373027-rise-out.json) |
 | Rise to Glory | 92469 | [92469-rise-to-glory.json](./92469-rise-to-glory.json) |
+| Rise to Surface | 243092 | [243092-rise-to-surface.json](./243092-rise-to-surface.json) |
 | Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
 | RiseExplosion | 302433 | [302433-riseexplosion.json](./302433-riseexplosion.json) |
 | Risen | 2444 | [2444-risen.json](./2444-risen.json) |
@@ -3756,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Science | 232417 | [232417-rocket-science.json](./232417-rocket-science.json) |
 | Rocket Shooting | 403001 | [403001-rocket-shooting.json](./403001-rocket-shooting.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
+| Rocket Space Ship Frontier | 243091 | [243091-rocket-space-ship-frontier.json](./243091-rocket-space-ship-frontier.json) |
 | Rocket Spin Orbit Glide | 369128 | [369128-rocket-spin-orbit-glide.json](./369128-rocket-spin-orbit-glide.json) |
 | Rocket Valet! Galaxy Landing Service | 212818 | [212818-rocket-valet-galaxy-landing-service.json](./212818-rocket-valet-galaxy-landing-service.json) |
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
