@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red World Fan Fork | 398440 | [398440-red-world-fan-fork.json](./398440-red-world-fan-fork.json) |
 | Red Wrecker | 71204 | [71204-red-wrecker.json](./71204-red-wrecker.json) |
 | Red Yet Capers: Math vs Mayhem | 193420 | [193420-red-yet-capers-math-vs-mayhem.json](./193420-red-yet-capers-math-vs-mayhem.json) |
+| Red Zero | 269542 | [269542-red-zero.json](./269542-red-zero.json) |
 | Red-Handed Robin | 179691 | [179691-red-handed-robin.json](./179691-red-handed-robin.json) |
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
 | Red: Pride of Eden | 193951 | [193951-red-pride-of-eden.json](./193951-red-pride-of-eden.json) |
