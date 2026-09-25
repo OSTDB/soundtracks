@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War in the Pacific | 27643 | [27643-war-in-the-pacific.json](./27643-war-in-the-pacific.json) |
 | War In Zone | 408053 | [408053-war-in-zone.json](./408053-war-in-zone.json) |
 | War Inc InfantryZone | 125841 | [125841-war-inc-infantryzone.json](./125841-war-inc-infantryzone.json) |
+| War is Hare | 274523 | [274523-war-is-hare.json](./274523-war-is-hare.json) |
 | War is Heck Collection | 53883 | [53883-war-is-heck-collection.json](./53883-war-is-heck-collection.json) |
 | War Islands | 133376 | [133376-war-islands.json](./133376-war-islands.json) |
 | War Lords | 323323 | [323323-war-lords.json](./323323-war-lords.json) |
@@ -1371,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whacky Ball | 243712 | [243712-whacky-ball.json](./243712-whacky-ball.json) |
 | Whacky Park | 216796 | [216796-whacky-park.json](./216796-whacky-park.json) |
 | Whale Eater | 183981 | [183981-whale-eater.json](./183981-whale-eater.json) |
+| Whale Game Online | 274529 | [274529-whale-game-online.json](./274529-whale-game-online.json) |
 | Whale Left: Part 1 | 367942 | [367942-whale-left-part-1.json](./367942-whale-left-part-1.json) |
 | Whale Rock Games: Immersive Puzzles Bundle | 249804 | [249804-whale-rock-games-immersive-puzzles-bundle.json](./249804-whale-rock-games-immersive-puzzles-bundle.json) |
 | Whale Rock: All Games Bundle | 249802 | [249802-whale-rock-all-games-bundle.json](./249802-whale-rock-all-games-bundle.json) |
@@ -3602,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII Eiyuu Retsuden: Saikyou no Tora - Kurt Knispel | 91407 | [91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json](./91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json) |
 | WWII Simulator 3D | 303093 | [303093-wwii-simulator-3d.json](./303093-wwii-simulator-3d.json) |
 | WWII Squad Level Land Battles ssp | 295540 | [295540-wwii-squad-level-land-battles-ssp.json](./295540-wwii-squad-level-land-battles-ssp.json) |
+| WWII Tanks Battle: World War 2 Heroes Troopers Machines Sim | 274520 | [274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json](./274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json) |
 | WWII Tanks: Battlefield | 195634 | [195634-wwii-tanks-battlefield.json](./195634-wwii-tanks-battlefield.json) |
 | WWII: Battle Over Europe | 144311 | [144311-wwii-battle-over-europe.json](./144311-wwii-battle-over-europe.json) |
 | WWII: Battle Over the Pacific | 9391 | [9391-wwii-battle-over-the-pacific.json](./9391-wwii-battle-over-the-pacific.json) |
