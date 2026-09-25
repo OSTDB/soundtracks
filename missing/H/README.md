@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Tap Wonder | 138178 | [138178-hatsune-miku-tap-wonder.json](./138178-hatsune-miku-tap-wonder.json) |
 | Hatsune Miku: VR Future Live 2nd Stage | 120801 | [120801-hatsune-miku-vr-future-live-2nd-stage.json](./120801-hatsune-miku-vr-future-live-2nd-stage.json) |
 | Hatsune Miku: VR Future Live 3rd Stage | 120802 | [120802-hatsune-miku-vr-future-live-3rd-stage.json](./120802-hatsune-miku-vr-future-live-3rd-stage.json) |
+| Hatsune no Naisho!! | 247480 | [247480-hatsune-no-naisho.json](./247480-hatsune-no-naisho.json) |
 | Hatsuyuki Sakura: White Graduation | 259616 | [259616-hatsuyuki-sakura-white-graduation.json](./259616-hatsuyuki-sakura-white-graduation.json) |
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
