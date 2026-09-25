@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Directive | 267476 | [267476-deep-space-directive.json](./267476-deep-space-directive.json) |
 | Deep Space Exodus | 384511 | [384511-deep-space-exodus.json](./384511-deep-space-exodus.json) |
 | Deep Space Reflections | 116398 | [116398-deep-space-reflections.json](./116398-deep-space-reflections.json) |
+| Deep Space Scoundrel | 241936 | [241936-deep-space-scoundrel.json](./241936-deep-space-scoundrel.json) |
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
 | Deep Space Waifu: DLC | 281478 | [281478-deep-space-waifu-dlc.json](./281478-deep-space-waifu-dlc.json) |
 | Deep Space: Lost Battleship | 200142 | [200142-deep-space-lost-battleship.json](./200142-deep-space-lost-battleship.json) |
@@ -6609,6 +6610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuckWorld Smart Adventures | 327959 | [327959-duckworld-smart-adventures.json](./327959-duckworld-smart-adventures.json) |
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
+| Ducky's Delivery Service | 241902 | [241902-duckys-delivery-service.json](./241902-duckys-delivery-service.json) |
 | DUD Detective Ulysses Day | 379049 | [379049-dud-detective-ulysses-day.json](./379049-dud-detective-ulysses-day.json) |
 | Dude Cops | 107195 | [107195-dude-cops.json](./107195-dude-cops.json) |
 | Dude My House Is Haunted | 362354 | [362354-dude-my-house-is-haunted.json](./362354-dude-my-house-is-haunted.json) |
