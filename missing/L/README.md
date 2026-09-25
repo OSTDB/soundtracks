@@ -3232,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
 | Lost Inca Prophecy 2: The Hollow Island | 273343 | [273343-lost-inca-prophecy-2-the-hollow-island.json](./273343-lost-inca-prophecy-2-the-hollow-island.json) |
+| Lost Industry 2 | 228344 | [228344-lost-industry-2.json](./228344-lost-industry-2.json) |
 | Lost Inside: Act 1 | 291751 | [291751-lost-inside-act-1.json](./291751-lost-inside-act-1.json) |
 | Lost Island | 288366 | [288366-lost-island.json](./288366-lost-island.json) |
 | Lost Island | 350508 | [350508-lost-island.json](./350508-lost-island.json) |
