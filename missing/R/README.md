@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimWorld: Console Edition - Digital Deluxe | 211246 | [211246-rimworld-console-edition-digital-deluxe.json](./211246-rimworld-console-edition-digital-deluxe.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
 | RimWorld: P-Music | 370333 | [370333-rimworld-p-music.json](./370333-rimworld-p-music.json) |
+| Rin ga Utau, Mirai no Neiro | 228351 | [228351-rin-ga-utau-mirai-no-neiro.json](./228351-rin-ga-utau-mirai-no-neiro.json) |
 | Ring | 11308 | [11308-ring.json](./11308-ring.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
@@ -4078,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollance: Adventure Balls | 224106 | [224106-rollance-adventure-balls.json](./224106-rollance-adventure-balls.json) |
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
+| Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
 | Roller Angels | 84847 | [84847-roller-angels.json](./84847-roller-angels.json) |
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
 | Roller Champions | 119158 | [119158-roller-champions.json](./119158-roller-champions.json) |
