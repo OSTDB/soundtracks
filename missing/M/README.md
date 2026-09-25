@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
 | Masked Wolf: Astronaut Tiles Hop Beat | 182442 | [182442-masked-wolf-astronaut-tiles-hop-beat.json](./182442-masked-wolf-astronaut-tiles-hop-beat.json) |
 | Maskerade: The Deadpan Cry | 304100 | [304100-maskerade-the-deadpan-cry.json](./304100-maskerade-the-deadpan-cry.json) |
+| Maskim Xul | 256870 | [256870-maskim-xul.json](./256870-maskim-xul.json) |
 | Maskless | 135267 | [135267-maskless.json](./135267-maskless.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
 | Masochisia | 13189 | [13189-masochisia.json](./13189-masochisia.json) |
@@ -6386,6 +6387,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
 | More or Less | 261256 | [261256-more-or-less.json](./261256-more-or-less.json) |
 | More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
+| More Popcorn! | 256791 | [256791-more-popcorn.json](./256791-more-popcorn.json) |
+| More Sundaes! | 256790 | [256790-more-sundaes.json](./256790-more-sundaes.json) |
 | More Sushi! | 366433 | [366433-more-sushi.json](./366433-more-sushi.json) |
 | More Than Human | 278531 | [278531-more-than-human.json](./278531-more-than-human.json) |
 | More Than Words | 361720 | [361720-more-than-words.json](./361720-more-than-words.json) |
