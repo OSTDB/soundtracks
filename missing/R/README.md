@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
 | Remember the Flowers | 181297 | [181297-remember-the-flowers.json](./181297-remember-the-flowers.json) |
+| Remember to Remember | 249736 | [249736-remember-to-remember.json](./249736-remember-to-remember.json) |
 | Remember, Remember | 36495 | [36495-remember-remember.json](./36495-remember-remember.json) |
 | Remembering Emily | 348865 | [348865-remembering-emily.json](./348865-remembering-emily.json) |
 | Remembering Which Buttons Take However Long to Press | 57713 | [57713-remembering-which-buttons-take-however-long-to-press.json](./57713-remembering-which-buttons-take-however-long-to-press.json) |
@@ -3532,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot City | 47287 | [47287-robot-city.json](./47287-robot-city.json) |
 | Robot Clash Run | 233113 | [233113-robot-clash-run.json](./233113-robot-clash-run.json) |
 | Robot Dinosaurs That Shoot Beams When They Roar | 378445 | [378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json](./378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json) |
+| Robot Dir | 249768 | [249768-robot-dir.json](./249768-robot-dir.json) |
 | Robot Female Hero 2 | 120939 | [120939-robot-female-hero-2.json](./120939-robot-female-hero-2.json) |
 | Robot Fighter: Epic Battles | 378407 | [378407-robot-fighter-epic-battles.json](./378407-robot-fighter-epic-battles.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
