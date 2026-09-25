@@ -1808,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
 | Terra Nil | 152424 | [152424-terra-nil.json](./152424-terra-nil.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
+| Terra Omega | 238975 | [238975-terra-omega.json](./238975-terra-omega.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
 | Terracards | 258426 | [258426-terracards.json](./258426-terracards.json) |
@@ -5039,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Mini Quest | 275620 | [275620-the-legend-of-zelda-the-mini-quest.json](./275620-the-legend-of-zelda-the-mini-quest.json) |
 | The Legend of Zelda: The Missing Link | 136392 | [136392-the-legend-of-zelda-the-missing-link.json](./136392-the-legend-of-zelda-the-missing-link.json) |
 | The Legend of Zelda: The Shadowgazer | 323364 | [323364-the-legend-of-zelda-the-shadowgazer.json](./323364-the-legend-of-zelda-the-shadowgazer.json) |
+| The Legend of Zelda: The Wind Waker - Limited Edition | 239007 | [239007-the-legend-of-zelda-the-wind-waker-limited-edition.json](./239007-the-legend-of-zelda-the-wind-waker-limited-edition.json) |
 | The Legend of Zelda: The Wind Waker HD Randomizer | 332219 | [332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json](./332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json) |
 | The Legend of Zelda: The Wind Waker Multiplayer | 210653 | [210653-the-legend-of-zelda-the-wind-waker-multiplayer.json](./210653-the-legend-of-zelda-the-wind-waker-multiplayer.json) |
 | The Legend of Zelda: Third Quest | 150078 | [150078-the-legend-of-zelda-third-quest.json](./150078-the-legend-of-zelda-third-quest.json) |
@@ -6369,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
 | The Settlers: Kingdoms of Anteria | 7440 | [7440-the-settlers-kingdoms-of-anteria.json](./7440-the-settlers-kingdoms-of-anteria.json) |
 | The Settlers: New Allies - Deluxe Edition | 216233 | [216233-the-settlers-new-allies-deluxe-edition.json](./216233-the-settlers-new-allies-deluxe-edition.json) |
+| The Settlers: New Allies - Deluxe Pack | 239011 | [239011-the-settlers-new-allies-deluxe-pack.json](./239011-the-settlers-new-allies-deluxe-pack.json) |
 | The Settlers: Rise of an Empire - History Edition | 114448 | [114448-the-settlers-rise-of-an-empire-history-edition.json](./114448-the-settlers-rise-of-an-empire-history-edition.json) |
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
