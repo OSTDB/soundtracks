@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dejection: An Ode | 57901 | [57901-dejection-an-ode.json](./57901-dejection-an-ode.json) |
 | Deka Voice | 64928 | [64928-deka-voice.json](./64928-deka-voice.json) |
 | DekaBlox Arena | 104001 | [104001-dekablox-arena.json](./104001-dekablox-arena.json) |
+| DekaPari | 252075 | [252075-dekapari.json](./252075-dekapari.json) |
 | Dekaron | 60258 | [60258-dekaron.json](./60258-dekaron.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
 | Dekoboko Densetsu: Hashiru Wagamanma | 145674 | [145674-dekoboko-densetsu-hashiru-wagamanma.json](./145674-dekoboko-densetsu-hashiru-wagamanma.json) |
@@ -6595,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
 | Duilius: The Ancient Duel | 294152 | [294152-duilius-the-ancient-duel.json](./294152-duilius-the-ancient-duel.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
+| Duke | 252099 | [252099-duke.json](./252099-duke.json) |
 | Duke 12:12 | 308332 | [308332-duke-12-12.json](./308332-duke-12-12.json) |
 | Duke 3:16 | 308330 | [308330-duke-3-16.json](./308330-duke-3-16.json) |
 | Duke 6:8 | 308331 | [308331-duke-6-8.json](./308331-duke-6-8.json) |
@@ -7235,4 +7237,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopia RPG | 376132 | [376132-dystopia-rpg.json](./376132-dystopia-rpg.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
+| DZ & Riggy vs. the Worlds II | 252079 | [252079-dz-and-riggy-vs-the-worlds-ii.json](./252079-dz-and-riggy-vs-the-worlds-ii.json) |
 | Dziedzic: A Book of Unanswered Questions | 299735 | [299735-dziedzic-a-book-of-unanswered-questions.json](./299735-dziedzic-a-book-of-unanswered-questions.json) |
