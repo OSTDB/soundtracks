@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Carter: Warlord of Mars | 172715 | [172715-john-carter-warlord-of-mars.json](./172715-john-carter-warlord-of-mars.json) |
 | John Cena’s Sexy High School Adventure | 250376 | [250376-john-cena-s-sexy-high-school-adventure.json](./250376-john-cena-s-sexy-high-school-adventure.json) |
 | John Christian 2 | 195141 | [195141-john-christian-2.json](./195141-john-christian-2.json) |
+| John Christian 3.0 | 274458 | [274458-john-christian-3-0.json](./274458-john-christian-3-0.json) |
 | John Deere American Farmer: Deluxe Edition | 210132 | [210132-john-deere-american-farmer-deluxe-edition.json](./210132-john-deere-american-farmer-deluxe-edition.json) |
 | John Deere: American Builder Deluxe | 79589 | [79589-john-deere-american-builder-deluxe.json](./79589-john-deere-american-builder-deluxe.json) |
 | John Deere: Busy Days in Deerfield Valley | 210131 | [210131-john-deere-busy-days-in-deerfield-valley.json](./210131-john-deere-busy-days-in-deerfield-valley.json) |
@@ -991,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of Johann: Castle Crusade | 409805 | [409805-journey-of-johann-castle-crusade.json](./409805-journey-of-johann-castle-crusade.json) |
 | Journey of Reincarnation | 303598 | [303598-journey-of-reincarnation.json](./303598-journey-of-reincarnation.json) |
 | Journey of the Broken Circle | 136502 | [136502-journey-of-the-broken-circle.json](./136502-journey-of-the-broken-circle.json) |
+| Journey of the Forgotten | 274460 | [274460-journey-of-the-forgotten.json](./274460-journey-of-the-forgotten.json) |
 | Journey of the Sword | 72348 | [72348-journey-of-the-sword.json](./72348-journey-of-the-sword.json) |
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
 | Journey Record | 265961 | [265961-journey-record.json](./265961-journey-record.json) |
