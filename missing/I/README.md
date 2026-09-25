@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Here, I Won't Disappear. I Am Here, I Won't... | 329547 | [329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json](./329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json) |
 | I Am Immortal Here | 337826 | [337826-i-am-immortal-here.json](./337826-i-am-immortal-here.json) |
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
+| I am Jesus Christ: Christ's Revenge | 240732 | [240732-i-am-jesus-christ-christs-revenge.json](./240732-i-am-jesus-christ-christs-revenge.json) |
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
 | I Am Level | 267956 | [267956-i-am-level.json](./267956-i-am-level.json) |
 | I am Machine | 371877 | [371877-i-am-machine.json](./371877-i-am-machine.json) |
