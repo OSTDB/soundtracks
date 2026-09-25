@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear: Inheritance | 20907 | [20907-layers-of-fear-inheritance.json](./20907-layers-of-fear-inheritance.json) |
 | Layers of Fear: Solitude | 125167 | [125167-layers-of-fear-solitude.json](./125167-layers-of-fear-solitude.json) |
 | Layers of the Machine | 119794 | [119794-layers-of-the-machine.json](./119794-layers-of-the-machine.json) |
+| Layla: The Iris Missions | 239599 | [239599-layla-the-iris-missions.json](./239599-layla-the-iris-missions.json) |
 | Layover Lovers | 270204 | [270204-layover-lovers.json](./270204-layover-lovers.json) |
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
@@ -1748,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
 | Life is Feudal: Arden | 321560 | [321560-life-is-feudal-arden.json](./321560-life-is-feudal-arden.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
+| Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
 | Life is Strange Collection | 361759 | [361759-life-is-strange-collection.json](./361759-life-is-strange-collection.json) |
 | Life Is Strange: Arcadia Bay Collection | 213355 | [213355-life-is-strange-arcadia-bay-collection.json](./213355-life-is-strange-arcadia-bay-collection.json) |
@@ -3946,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
 | Lyca | 332032 | [332032-lyca.json](./332032-lyca.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
+| Lycanthorn III | 239592 | [239592-lycanthorn-iii.json](./239592-lycanthorn-iii.json) |
 | Lycoris;Lastwords | 319732 | [319732-lycoris-lastwords.json](./319732-lycoris-lastwords.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
