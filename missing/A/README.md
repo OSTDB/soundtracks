@@ -3691,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Workers Simulator | 362437 | [362437-ant-workers-simulator.json](./362437-ant-workers-simulator.json) |
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
+| Antarctic Tales Enhanced Edition | 268511 | [268511-antarctic-tales-enhanced-edition.json](./268511-antarctic-tales-enhanced-edition.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
 | Antediluvian | 271251 | [271251-antediluvian.json](./271251-antediluvian.json) |
@@ -5472,6 +5473,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asthenia | 381637 | [381637-asthenia.json](./381637-asthenia.json) |
 | Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
 | Astoaria | 226227 | [226227-astoaria.json](./226227-astoaria.json) |
+| Aston Villa Club Football | 267891 | [267891-aston-villa-club-football.json](./267891-aston-villa-club-football.json) |
+| Aston Villa Club Football 2005 | 267895 | [267895-aston-villa-club-football-2005.json](./267895-aston-villa-club-football-2005.json) |
 | Astonia 3 | 57661 | [57661-astonia-3.json](./57661-astonia-3.json) |
 | Astonishia VS | 61577 | [61577-astonishia-vs.json](./61577-astonishia-vs.json) |
 | Astonishing Baseball 20 | 133470 | [133470-astonishing-baseball-20.json](./133470-astonishing-baseball-20.json) |
