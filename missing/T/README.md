@@ -9580,6 +9580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
 | Tom Thumb | 206766 | [206766-tom-thumb.json](./206766-tom-thumb.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
+| Tomahawk Missile | 277897 | [277897-tomahawk-missile.json](./277897-tomahawk-missile.json) |
 | Tomarc the Barbarian | 23840 | [23840-tomarc-the-barbarian.json](./23840-tomarc-the-barbarian.json) |
 | Tomato Dealer | 396579 | [396579-tomato-dealer.json](./396579-tomato-dealer.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
@@ -10472,6 +10473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
 | Towers Saga | 391719 | [391719-towers-saga.json](./391719-towers-saga.json) |
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
+| Towers Watch | 277916 | [277916-towers-watch.json](./277916-towers-watch.json) |
 | ToWhere? | 387006 | [387006-towhere.json](./387006-towhere.json) |
 | Towing Race | 239045 | [239045-towing-race.json](./239045-towing-race.json) |
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
