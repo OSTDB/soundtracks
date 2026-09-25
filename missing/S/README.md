@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger | 241503 | [241503-scavenger.json](./241503-scavenger.json) |
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
+| Scavenger Hunt: Italy | 257327 | [257327-scavenger-hunt-italy.json](./257327-scavenger-hunt-italy.json) |
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
 | Scavenger T.O.M | 365179 | [365179-scavenger-t-o-m.json](./365179-scavenger-t-o-m.json) |
 | Scavenger VR | 277837 | [277837-scavenger-vr.json](./277837-scavenger-vr.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sign Craft: Simulator | 273426 | [273426-sign-craft-simulator.json](./273426-sign-craft-simulator.json) |
 | Sign It | 413186 | [413186-sign-it.json](./413186-sign-it.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
+| Sign of Torment | 257348 | [257348-sign-of-torment.json](./257348-sign-of-torment.json) |
 | Sign Off | 364705 | [364705-sign-off.json](./364705-sign-off.json) |
 | Sign: Broken Kether | 406269 | [406269-sign-broken-kether.json](./406269-sign-broken-kether.json) |
 | Signal | 171482 | [171482-signal.json](./171482-signal.json) |
@@ -8071,6 +8073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spear of Destiny: The Final Journey | 177043 | [177043-spear-of-destiny-the-final-journey.json](./177043-spear-of-destiny-the-final-journey.json) |
 | Spear of Destiny: The Kaiseki - Director's Cut | 228098 | [228098-spear-of-destiny-the-kaiseki-directors-cut.json](./228098-spear-of-destiny-the-kaiseki-directors-cut.json) |
 | Spearain | 320301 | [320301-spearain.json](./320301-spearain.json) |
+| Speard | 257322 | [257322-speard.json](./257322-speard.json) |
 | Spearfishing | 51191 | [51191-spearfishing.json](./51191-spearfishing.json) |
 | SpearHeads | 248722 | [248722-spearheads.json](./248722-spearheads.json) |
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
@@ -11046,6 +11049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 2 | 203318 | [203318-streets-of-rage-2.json](./203318-streets-of-rage-2.json) |
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
+| Streets of Rage 2X | 257340 | [257340-streets-of-rage-2x.json](./257340-streets-of-rage-2x.json) |
 | Streets of Rage 4 | 107262 | [107262-streets-of-rage-4.json](./107262-streets-of-rage-4.json) |
 | Streets of Rage Zombies | 272336 | [272336-streets-of-rage-zombies.json](./272336-streets-of-rage-zombies.json) |
 | Streets of Rage: Revolution | 279632 | [279632-streets-of-rage-revolution.json](./279632-streets-of-rage-revolution.json) |
