@@ -3602,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
 | Ano Koro, Sobo wa Erokatta: Mukashi ni Modotte, Baa-chan ni Ecchi na Okaeshi o | 108870 | [108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json](./108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json) |
 | Ano ne DS | 130388 | [130388-ano-ne-ds.json](./130388-ano-ne-ds.json) |
+| Ano, Subarashii wo Mou Ichido: Saisouban HD | 251530 | [251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json](./251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json) |
 | Anodos | 211398 | [211398-anodos.json](./211398-anodos.json) |
 | Anodyne 2: Return to Dust | 104890 | [104890-anodyne-2-return-to-dust.json](./104890-anodyne-2-return-to-dust.json) |
 | Anodyne Mobile | 108454 | [108454-anodyne-mobile.json](./108454-anodyne-mobile.json) |
@@ -4307,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Tank Battalion | 290419 | [290419-arcade-archives-tank-battalion.json](./290419-arcade-archives-tank-battalion.json) |
 | Arcade Archives: Tank Force | 232461 | [232461-arcade-archives-tank-force.json](./232461-arcade-archives-tank-force.json) |
 | Arcade Archives: Tecmo Stackers | 313224 | [313224-arcade-archives-tecmo-stackers.json](./313224-arcade-archives-tecmo-stackers.json) |
+| Arcade Archives: Tetris - The Absolute: The Grand Master 2 Plus | 251538 | [251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json](./251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json) |
 | Arcade Archives: The Astyanax | 146827 | [146827-arcade-archives-the-astyanax.json](./146827-arcade-archives-the-astyanax.json) |
 | Arcade Archives: The Final Round | 312019 | [312019-arcade-archives-the-final-round.json](./312019-arcade-archives-the-final-round.json) |
 | Arcade Archives: The Genji and the Heike Clans | 175819 | [175819-arcade-archives-the-genji-and-the-heike-clans.json](./175819-arcade-archives-the-genji-and-the-heike-clans.json) |
@@ -5021,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Art Master 2 | 227374 | [227374-art-master-2.json](./227374-art-master-2.json) |
+| Art na Esagashi Adventure | 251529 | [251529-art-na-esagashi-adventure.json](./251529-art-na-esagashi-adventure.json) |
 | Art of Balance Touch! | 47654 | [47654-art-of-balance-touch.json](./47654-art-of-balance-touch.json) |
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
