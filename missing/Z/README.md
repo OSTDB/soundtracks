@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeal | 74746 | [74746-zeal.json](./74746-zeal.json) |
 | Zebra | 342171 | [342171-zebra.json](./342171-zebra.json) |
 | Zebra Evolution | 206734 | [206734-zebra-evolution.json](./206734-zebra-evolution.json) |
+| Zebra Logic Master | 238995 | [238995-zebra-logic-master.json](./238995-zebra-logic-master.json) |
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
