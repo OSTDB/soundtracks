@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
 | K'nife Fight | 137455 | [137455-knife-fight.json](./137455-knife-fight.json) |
 | K11: Kommissare im Einsatz | 268183 | [268183-k11-kommissare-im-einsatz.json](./268183-k11-kommissare-im-einsatz.json) |
+| K2 Story | 245800 | [245800-k2-story.json](./245800-k2-story.json) |
 | K2: Digital Edition | 274560 | [274560-k2-digital-edition.json](./274560-k2-digital-edition.json) |
 | K37-D | 130966 | [130966-k37-d.json](./130966-k37-d.json) |
 | Ka-52 Team Alligator | 78646 | [78646-ka-52-team-alligator.json](./78646-ka-52-team-alligator.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaite Shabette Hajimeyou! Monster Farm DS | 98248 | [98248-kaite-shabette-hajimeyou-monster-farm-ds.json](./98248-kaite-shabette-hajimeyou-monster-farm-ds.json) |
 | Kaitei Daisensou | 40215 | [40215-kaitei-daisensou.json](./40215-kaitei-daisensou.json) |
 | Kaitei Takara Sagashi | 40214 | [40214-kaitei-takara-sagashi.json](./40214-kaitei-takara-sagashi.json) |
+| Kaiten Sushi VR | 245809 | [245809-kaiten-sushi-vr.json](./245809-kaiten-sushi-vr.json) |
 | Kaitou Apricot Portable | 56775 | [56775-kaitou-apricot-portable.json](./56775-kaitou-apricot-portable.json) |
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
 | Kaitou Rousseau | 214573 | [214573-kaitou-rousseau.json](./214573-kaitou-rousseau.json) |
@@ -2035,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konpeki no Kantai 2 Advance | 91759 | [91759-konpeki-no-kantai-2-advance.json](./91759-konpeki-no-kantai-2-advance.json) |
 | Konpeki no Kantai 2 Perfect | 91761 | [91761-konpeki-no-kantai-2-perfect.json](./91761-konpeki-no-kantai-2-perfect.json) |
 | Konrad's Kittens | 31830 | [31830-konrads-kittens.json](./31830-konrads-kittens.json) |
+| Kook | 245829 | [245829-kook.json](./245829-kook.json) |
 | Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
 | Kool-Aid Man | 5676 | [5676-kool-aid-man.json](./5676-kool-aid-man.json) |
 | Koopa CD | 233599 | [233599-koopa-cd.json](./233599-koopa-cd.json) |
