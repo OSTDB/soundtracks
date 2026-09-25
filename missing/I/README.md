@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Realms | 261771 | [261771-infinite-realms.json](./261771-infinite-realms.json) |
 | Infinite Rebirth | 337673 | [337673-infinite-rebirth.json](./337673-infinite-rebirth.json) |
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
+| Infinite Roads | 245261 | [245261-infinite-roads.json](./245261-infinite-roads.json) |
 | Infinite Robotics | 279000 | [279000-infinite-robotics.json](./279000-infinite-robotics.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
 | Infinite Shooter | 33103 | [33103-infinite-shooter.json](./33103-infinite-shooter.json) |
