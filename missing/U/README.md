@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
 | UCraft | 85462 | [85462-ucraft.json](./85462-ucraft.json) |
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
+| UD Cave | 252695 | [252695-ud-cave.json](./252695-ud-cave.json) |
 | Ud Rēa | 390128 | [390128-ud-rea.json](./390128-ud-rea.json) |
 | UDAA | 329940 | [329940-udaa.json](./329940-udaa.json) |
 | Udderly Tickets | 66689 | [66689-udderly-tickets.json](./66689-udderly-tickets.json) |
