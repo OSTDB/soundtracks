@@ -2415,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch: A Special Delivery | 178071 | [178071-witch-a-special-delivery.json](./178071-witch-a-special-delivery.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
 | Witch's Apocalyptic Journey | 391717 | [391717-witchs-apocalyptic-journey.json](./391717-witchs-apocalyptic-journey.json) |
+| Witch's Garden | 259534 | [259534-witchs-garden.json](./259534-witchs-garden.json) |
 | Witch’s Gaze: The Vanishing Village | 330351 | [330351-witch-s-gaze-the-vanishing-village.json](./330351-witch-s-gaze-the-vanishing-village.json) |
 | Witch's Heart: Bonus Stage | 252721 | [252721-witchs-heart-bonus-stage.json](./252721-witchs-heart-bonus-stage.json) |
 | Witch’s Lewd Curse | 367053 | [367053-witch-s-lewd-curse.json](./367053-witch-s-lewd-curse.json) |
@@ -3329,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: Elnea Kingdom - Modern Yukata Set: Vermilion | 312118 | [312118-worldneverland-elnea-kingdom-modern-yukata-set-vermilion.json](./312118-worldneverland-elnea-kingdom-modern-yukata-set-vermilion.json) |
 | WorldNeverland: Elnea Kingdom - Modern Yukata Set: Violet | 313791 | [313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json](./313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json) |
 | WorldNeverland: Elnea Kingdom - Sugar Donut Fair | 288288 | [288288-worldneverland-elnea-kingdom-sugar-donut-fair.json](./288288-worldneverland-elnea-kingdom-sugar-donut-fair.json) |
+| WorldNeverland: Elnea Kingdom - The Makeover Collection | 259530 | [259530-worldneverland-elnea-kingdom-the-makeover-collection.json](./259530-worldneverland-elnea-kingdom-the-makeover-collection.json) |
 | WorldNeverland: Flower Trimmed Wear Set - Sakura | 294856 | [294856-worldneverland-flower-trimmed-wear-set-sakura.json](./294856-worldneverland-flower-trimmed-wear-set-sakura.json) |
 | WorldNeverland: White Modern Wedding Outfit Set | 298593 | [298593-worldneverland-white-modern-wedding-outfit-set.json](./298593-worldneverland-white-modern-wedding-outfit-set.json) |
 | WorldQuest | 101609 | [101609-worldquest.json](./101609-worldquest.json) |
@@ -3417,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worth Life | 152369 | [152369-worth-life.json](./152369-worth-life.json) |
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
+| Would You Like to Run an Idol Café? 3 | 259531 | [259531-would-you-like-to-run-an-idol-cafe-3.json](./259531-would-you-like-to-run-an-idol-cafe-3.json) |
 | Would You Love Me If I Was a Snake? | 400346 | [400346-would-you-love-me-if-i-was-a-snake.json](./400346-would-you-love-me-if-i-was-a-snake.json) |
 | Would You Rather | 326718 | [326718-would-you-rather.json](./326718-would-you-rather.json) |
 | Would you rather?! | 90677 | [90677-would-you-rather.json](./90677-would-you-rather.json) |
