@@ -893,10 +893,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Nero Action Hero | 72993 | [72993-johnny-nero-action-hero.json](./72993-johnny-nero-action-hero.json) |
 | Johnny Platform Saves Xmas! | 67250 | [67250-johnny-platform-saves-xmas.json](./67250-johnny-platform-saves-xmas.json) |
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
+| Johnny Test's Ultimate Meatloaf Quest | 256872 | [256872-johnny-tests-ultimate-meatloaf-quest.json](./256872-johnny-tests-ultimate-meatloaf-quest.json) |
 | Johnny Trigger: Emerald Edition | 385203 | [385203-johnny-trigger-emerald-edition.json](./385203-johnny-trigger-emerald-edition.json) |
 | Johnny Trigger: Gold Edition | 396919 | [396919-johnny-trigger-gold-edition.json](./396919-johnny-trigger-gold-edition.json) |
+| Johnny Trigger: Hotshot DLC | 256800 | [256800-johnny-trigger-hotshot-dlc.json](./256800-johnny-trigger-hotshot-dlc.json) |
 | Johnny Trigger: Hotshot Edition | 283171 | [283171-johnny-trigger-hotshot-edition.json](./283171-johnny-trigger-hotshot-edition.json) |
 | Johnny Trigger: Hunter Edition | 294826 | [294826-johnny-trigger-hunter-edition.json](./294826-johnny-trigger-hunter-edition.json) |
+| Johnny Trigger: Johnnybee DLC | 256796 | [256796-johnny-trigger-johnnybee-dlc.json](./256796-johnny-trigger-johnnybee-dlc.json) |
 | Johnny Trigger: Johnnybee Edition | 263537 | [263537-johnny-trigger-johnnybee-edition.json](./263537-johnny-trigger-johnnybee-edition.json) |
 | Johnny Turbo's Arcade: Heavy Barrel | 112117 | [112117-johnny-turbos-arcade-heavy-barrel.json](./112117-johnny-turbos-arcade-heavy-barrel.json) |
 | Johnny Turbo's Arcade: Joe and Mac Returns | 146860 | [146860-johnny-turbos-arcade-joe-and-mac-returns.json](./146860-johnny-turbos-arcade-joe-and-mac-returns.json) |
