@@ -6262,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 5 | 16338 | [16338-avernum-5.json](./16338-avernum-5.json) |
 | Aversion | 273360 | [273360-aversion.json](./273360-aversion.json) |
 | Avert Fate | 63245 | [63245-avert-fate.json](./63245-avert-fate.json) |
+| Avert Your Eyes | 263004 | [263004-avert-your-eyes.json](./263004-avert-your-eyes.json) |
 | Avery Cardoza's Casino 2000 | 78694 | [78694-avery-cardozas-casino-2000.json](./78694-avery-cardozas-casino-2000.json) |
 | Aveyond 1: Rhen's Quest | 10010 | [10010-aveyond-1-rhens-quest.json](./10010-aveyond-1-rhens-quest.json) |
 | Aveyond 2: Ean's Quest | 10011 | [10011-aveyond-2-eans-quest.json](./10011-aveyond-2-eans-quest.json) |
