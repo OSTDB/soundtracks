@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paco and the Tumbling Seed Box | 138051 | [138051-paco-and-the-tumbling-seed-box.json](./138051-paco-and-the-tumbling-seed-box.json) |
 | Paco El Hare vs Los Marcianos Siderales | 277926 | [277926-paco-el-hare-vs-los-marcianos-siderales.json](./277926-paco-el-hare-vs-los-marcianos-siderales.json) |
 | Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
+| Pact of Steel | 235724 | [235724-pact-of-steel.json](./235724-pact-of-steel.json) |
 | Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
 | Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
@@ -4703,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool & Snooker Fever: 2 in 1 Bundle - Premium Edition | 395683 | [395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json](./395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json) |
 | Pool 3D | 86900 | [86900-pool-3d.json](./86900-pool-3d.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
+| Pool Ball Battle Royale | 235679 | [235679-pool-ball-battle-royale.json](./235679-pool-ball-battle-royale.json) |
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
 | Pool Club kara no Dasshutsu | 358493 | [358493-pool-club-kara-no-dasshutsu.json](./358493-pool-club-kara-no-dasshutsu.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
@@ -5301,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Park | 62709 | [62709-prehistoric-park.json](./62709-prehistoric-park.json) |
 | Prehistoric Relations | 177922 | [177922-prehistoric-relations.json](./177922-prehistoric-relations.json) |
 | Prehistoric Safari | 109452 | [109452-prehistoric-safari.json](./109452-prehistoric-safari.json) |
+| Prehistoric Warcraft | 235703 | [235703-prehistoric-warcraft.json](./235703-prehistoric-warcraft.json) |
 | Prehistorik | 10717 | [10717-prehistorik.json](./10717-prehistorik.json) |
 | Prehistorik Man | 159266 | [159266-prehistorik-man.json](./159266-prehistorik-man.json) |
 | Prelogate | 36151 | [36151-prelogate.json](./36151-prelogate.json) |
@@ -6607,6 +6610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Farmer | 158177 | [158177-pumpkin-farmer.json](./158177-pumpkin-farmer.json) |
 | Pumpkin Ghost | 272269 | [272269-pumpkin-ghost.json](./272269-pumpkin-ghost.json) |
 | Pumpkin Jam | 269562 | [269562-pumpkin-jam.json](./269562-pumpkin-jam.json) |
+| PumpKin Majo | 235704 | [235704-pumpkin-majo.json](./235704-pumpkin-majo.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
 | Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
