@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Campaigns Jutland | 141670 | [141670-naval-campaigns-jutland.json](./141670-naval-campaigns-jutland.json) |
 | Naval Campaigns Kriegsmarine | 202918 | [202918-naval-campaigns-kriegsmarine.json](./202918-naval-campaigns-kriegsmarine.json) |
 | Naval Campaigns Midway | 141667 | [141667-naval-campaigns-midway.json](./141667-naval-campaigns-midway.json) |
+| Naval Campaigns Spanish-American War | 256771 | [256771-naval-campaigns-spanish-american-war.json](./256771-naval-campaigns-spanish-american-war.json) |
 | Naval Campaigns Tsushima | 141669 | [141669-naval-campaigns-tsushima.json](./141669-naval-campaigns-tsushima.json) |
 | Naval Campaigns Wolfpack | 141666 | [141666-naval-campaigns-wolfpack.json](./141666-naval-campaigns-wolfpack.json) |
 | Naval Creed: Warships | 239921 | [239921-naval-creed-warships.json](./239921-naval-creed-warships.json) |
