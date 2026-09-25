@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
 | Open Starbound | 354644 | [354644-open-starbound.json](./354644-open-starbound.json) |
+| Open the Door: A Short Story About Life | 245264 | [245264-open-the-door-a-short-story-about-life.json](./245264-open-the-door-a-short-story-about-life.json) |
 | Open The Gate: Just A Little | 381672 | [381672-open-the-gate-just-a-little.json](./381672-open-the-gate-just-a-little.json) |
 | Open the Gates! | 149046 | [149046-open-the-gates.json](./149046-open-the-gates.json) |
 | Open Wheel Manager | 117611 | [117611-open-wheel-manager.json](./117611-open-wheel-manager.json) |
