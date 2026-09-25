@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
 | Dark Arcana: The Carnival | 10137 | [10137-dark-arcana-the-carnival.json](./10137-dark-arcana-the-carnival.json) |
+| Dark Army Resurrection | 250328 | [250328-dark-army-resurrection.json](./250328-dark-army-resurrection.json) |
 | Dark Assassin: Trial Chambers | 339363 | [339363-dark-assassin-trial-chambers.json](./339363-dark-assassin-trial-chambers.json) |
 | Dark Astral | 263042 | [263042-dark-astral.json](./263042-dark-astral.json) |
 | Dark Auction | 264359 | [264359-dark-auction.json](./264359-dark-auction.json) |
@@ -3859,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Toy Box | 342649 | [342649-disney-toy-box.json](./342649-disney-toy-box.json) |
 | Disney Tsum Tsum Festival | 115332 | [115332-disney-tsum-tsum-festival.json](./115332-disney-tsum-tsum-festival.json) |
 | Disney Tsum Tsum Land | 125808 | [125808-disney-tsum-tsum-land.json](./125808-disney-tsum-tsum-land.json) |
+| Disney Tsum Tsum Stadium | 250331 | [250331-disney-tsum-tsum-stadium.json](./250331-disney-tsum-tsum-stadium.json) |
 | Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest | 79914 | [79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json](./79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json) |
 | Disney XD Grand Prix | 361336 | [361336-disney-xd-grand-prix.json](./361336-disney-xd-grand-prix.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 2361 | [2361-disneys-102-dalmatians-puppies-to-the-rescue.json](./2361-disneys-102-dalmatians-puppies-to-the-rescue.json) |
@@ -5901,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
 | Dream Celestial Body | 274524 | [274524-dream-celestial-body.json](./274524-dream-celestial-body.json) |
 | Dream Chamber | 27332 | [27332-dream-chamber.json](./27332-dream-chamber.json) |
+| Dream Channel Zero | 250289 | [250289-dream-channel-zero.json](./250289-dream-channel-zero.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
 | Dream Chronicles 2: The Eternal Maze | 50502 | [50502-dream-chronicles-2-the-eternal-maze.json](./50502-dream-chronicles-2-the-eternal-maze.json) |
 | Dream Chronicles: The Book of Air | 50501 | [50501-dream-chronicles-the-book-of-air.json](./50501-dream-chronicles-the-book-of-air.json) |
