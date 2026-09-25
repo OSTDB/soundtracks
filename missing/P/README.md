@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PamPam Kana Students | 390547 | [390547-pampam-kana-students.json](./390547-pampam-kana-students.json) |
 | Pampas & Selene: The Maze of Demons | 261813 | [261813-pampas-and-selene-the-maze-of-demons.json](./261813-pampas-and-selene-the-maze-of-demons.json) |
 | Pan Beats | 311624 | [311624-pan-beats.json](./311624-pan-beats.json) |
+| Pan·Gaia | 244220 | [244220-pan-gaia.json](./244220-pan-gaia.json) |
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
 | Pana der Hejhog | 270217 | [270217-pana-der-hejhog.json](./270217-pana-der-hejhog.json) |
 | Panacle: Back to Wild | 190177 | [190177-panacle-back-to-wild.json](./190177-panacle-back-to-wild.json) |
@@ -5985,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Highrise: Tokyo Towers | 124798 | [124798-project-highrise-tokyo-towers.json](./124798-project-highrise-tokyo-towers.json) |
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
 | Project Homecoming Haven | 300711 | [300711-project-homecoming-haven.json](./300711-project-homecoming-haven.json) |
+| Project Horror Anthology: Project Prequel | 244183 | [244183-project-horror-anthology-project-prequel.json](./244183-project-horror-anthology-project-prequel.json) |
 | Project Hospital | 75855 | [75855-project-hospital.json](./75855-project-hospital.json) |
 | Project Hovercraft | 32181 | [32181-project-hovercraft.json](./32181-project-hovercraft.json) |
 | Project I | 274579 | [274579-project-i.json](./274579-project-i.json) |
