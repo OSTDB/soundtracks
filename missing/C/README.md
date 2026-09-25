@@ -1454,11 +1454,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Hostel | 359070 | [359070-cat-hostel.json](./359070-cat-hostel.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
+| Cat Jigsaw Puzzle Games | 241325 | [241325-cat-jigsaw-puzzle-games.json](./241325-cat-jigsaw-puzzle-games.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 1 | 263200 | [263200-cat-jigsaw-puzzle-games-expansion-pack-1.json](./263200-cat-jigsaw-puzzle-games-expansion-pack-1.json) |
+| Cat Jigsaw Puzzle Games: Expansion Pack 10 | 241324 | [241324-cat-jigsaw-puzzle-games-expansion-pack-10.json](./241324-cat-jigsaw-puzzle-games-expansion-pack-10.json) |
+| Cat Jigsaw Puzzle Games: Expansion Pack 11 | 241323 | [241323-cat-jigsaw-puzzle-games-expansion-pack-11.json](./241323-cat-jigsaw-puzzle-games-expansion-pack-11.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 3 | 263207 | [263207-cat-jigsaw-puzzle-games-expansion-pack-3.json](./263207-cat-jigsaw-puzzle-games-expansion-pack-3.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 4 | 263211 | [263211-cat-jigsaw-puzzle-games-expansion-pack-4.json](./263211-cat-jigsaw-puzzle-games-expansion-pack-4.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 8 | 262945 | [262945-cat-jigsaw-puzzle-games-expansion-pack-8.json](./262945-cat-jigsaw-puzzle-games-expansion-pack-8.json) |
+| Cat Jigsaw Puzzle Games: Expansion Pack 9 | 241322 | [241322-cat-jigsaw-puzzle-games-expansion-pack-9.json](./241322-cat-jigsaw-puzzle-games-expansion-pack-9.json) |
 | Cat Jumper | 175792 | [175792-cat-jumper.json](./175792-cat-jumper.json) |
 | Cat Killer | 249176 | [249176-cat-killer.json](./249176-cat-killer.json) |
 | Cat Lady: The Card Game | 129839 | [129839-cat-lady-the-card-game.json](./129839-cat-lady-the-card-game.json) |
@@ -4646,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Gothic Pack | 354617 | [354617-coloring-pixels-gothic-pack.json](./354617-coloring-pixels-gothic-pack.json) |
 | Coloring Pixels: Halloween 6 Pack | 351620 | [351620-coloring-pixels-halloween-6-pack.json](./351620-coloring-pixels-halloween-6-pack.json) |
 | Coloring Pixels: Isometric 3 Pack | 351618 | [351618-coloring-pixels-isometric-3-pack.json](./351618-coloring-pixels-isometric-3-pack.json) |
+| Coloring Pixels: Japan Pack | 241318 | [241318-coloring-pixels-japan-pack.json](./241318-coloring-pixels-japan-pack.json) |
 | Coloring Pixels: Magic Pack | 259861 | [259861-coloring-pixels-magic-pack.json](./259861-coloring-pixels-magic-pack.json) |
 | Coloring Pixels: Medieval Pack | 277967 | [277967-coloring-pixels-medieval-pack.json](./277967-coloring-pixels-medieval-pack.json) |
 | Coloring Pixels: Microscopic Pack | 327369 | [327369-coloring-pixels-microscopic-pack.json](./327369-coloring-pixels-microscopic-pack.json) |
