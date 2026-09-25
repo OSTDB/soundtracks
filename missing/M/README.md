@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
+| Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
 | MALdle | 372107 | [372107-maldle.json](./372107-maldle.json) |
@@ -2315,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
 | Maumau and the Labyrinth | 330860 | [330860-maumau-and-the-labyrinth.json](./330860-maumau-and-the-labyrinth.json) |
 | Maurice Sendak's Little Bear: Toddler Discovery Adventures | 316781 | [316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json](./316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json) |
+| Maurice: In the Predator's Nest | 227770 | [227770-maurice-in-the-predators-nest.json](./227770-maurice-in-the-predators-nest.json) |
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
 | Mausoleum of the Medusa | 25604 | [25604-mausoleum-of-the-medusa.json](./25604-mausoleum-of-the-medusa.json) |
 | Mave's Castle | 415323 | [415323-maves-castle.json](./415323-maves-castle.json) |
@@ -5498,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMX Hill Dash 2 - Race Offroad | 97262 | [97262-mmx-hill-dash-2-race-offroad.json](./97262-mmx-hill-dash-2-race-offroad.json) |
 | MMX Racing | 224004 | [224004-mmx-racing.json](./224004-mmx-racing.json) |
 | Mnemonic Devices | 177509 | [177509-mnemonic-devices.json](./177509-mnemonic-devices.json) |
+| Mnemophobia: Deadline | 227772 | [227772-mnemophobia-deadline.json](./227772-mnemophobia-deadline.json) |
 | MNOZ: My Nuclear Octopus 2 | 408048 | [408048-mnoz-my-nuclear-octopus-2.json](./408048-mnoz-my-nuclear-octopus-2.json) |
 | Mo the Frog | 111675 | [111675-mo-the-frog.json](./111675-mo-the-frog.json) |
 | Mó Xiān Cǎihóng Qiú | 359473 | [359473-mo-xian-caihong-qiu.json](./359473-mo-xian-caihong-qiu.json) |
@@ -5506,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
 | Moaisland | 298140 | [298140-moaisland.json](./298140-moaisland.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
+| Mob Control | 227808 | [227808-mob-control.json](./227808-mob-control.json) |
 | Mob Control: Champions | 277900 | [277900-mob-control-champions.json](./277900-mob-control-champions.json) |
 | Mob Control: Complete Edition | 283169 | [283169-mob-control-complete-edition.json](./283169-mob-control-complete-edition.json) |
 | Mob Control: Triple Backup | 277899 | [277899-mob-control-triple-backup.json](./277899-mob-control-triple-backup.json) |
@@ -5699,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
 | Mogura de Pon! | 342739 | [342739-mogura-de-pon.json](./342739-mogura-de-pon.json) |
 | Mogutte Nanbo | 366907 | [366907-mogutte-nanbo.json](./366907-mogutte-nanbo.json) |
+| MoGuuRu Dabas | 227819 | [227819-moguuru-dabas.json](./227819-moguuru-dabas.json) |
 | Mohism | 152378 | [152378-mohism.json](./152378-mohism.json) |
 | MoHo | 176877 | [176877-moho.json](./176877-moho.json) |
 | Moi Mei: Hidden Objects | 199655 | [199655-moi-mei-hidden-objects.json](./199655-moi-mei-hidden-objects.json) |
@@ -7765,6 +7770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Devil Lovers: Remake | 247470 | [247470-my-devil-lovers-remake.json](./247470-my-devil-lovers-remake.json) |
 | My Devilish Contract | 279670 | [279670-my-devilish-contract.json](./279670-my-devilish-contract.json) |
 | My Diamond Baby | 301416 | [301416-my-diamond-baby.json](./301416-my-diamond-baby.json) |
+| My Dinner with André | 227785 | [227785-my-dinner-with-andre.json](./227785-my-dinner-with-andre.json) |
 | My Direct Damag 7 Trillion | 318422 | [318422-my-direct-damag-7-trillion.json](./318422-my-direct-damag-7-trillion.json) |
 | My Dog! | 310018 | [310018-my-dog.json](./310018-my-dog.json) |
 | My Dolphin | 67254 | [67254-my-dolphin.json](./67254-my-dolphin.json) |
