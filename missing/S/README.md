@@ -3606,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
+| Shotgun Shenanigans | 279691 | [279691-shotgun-shenanigans.json](./279691-shotgun-shenanigans.json) |
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
 | Shothop | 396417 | [396417-shothop.json](./396417-shothop.json) |
 | Shotz.io | 125848 | [125848-shotz-io.json](./125848-shotz-io.json) |
@@ -4738,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Harrier: Alpha Code | 189044 | [189044-sky-harrier-alpha-code.json](./189044-sky-harrier-alpha-code.json) |
 | Sky Haven | 82463 | [82463-sky-haven.json](./82463-sky-haven.json) |
 | Sky Hex | 261862 | [261862-sky-hex.json](./261862-sky-hex.json) |
+| Sky High Stuntman | 279696 | [279696-sky-high-stuntman.json](./279696-sky-high-stuntman.json) |
 | Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
 | Sky In Flames | 398483 | [398483-sky-in-flames.json](./398483-sky-in-flames.json) |
 | Sky Invaders | 346096 | [346096-sky-invaders.json](./346096-sky-invaders.json) |
@@ -7832,6 +7834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacey Vade | 158153 | [158153-spacey-vade.json](./158153-spacey-vade.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
+| Spades+ | 279708 | [279708-spades.json](./279708-spades.json) |
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
 | Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
 | Spam | 315689 | [315689-spam.json](./315689-spam.json) |
@@ -12813,6 +12816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
 | Super Tact | 60225 | [60225-super-tact.json](./60225-super-tact.json) |
 | Super Takoyaki Battle | 416068 | [416068-super-takoyaki-battle.json](./416068-super-takoyaki-battle.json) |
+| Super Tank | 279692 | [279692-super-tank.json](./279692-super-tank.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tank Battle | 175369 | [175369-super-tank-battle.json](./175369-super-tank-battle.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
