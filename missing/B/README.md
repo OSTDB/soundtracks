@@ -5485,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boyfriend or Cake?? | 364508 | [364508-boyfriend-or-cake.json](./364508-boyfriend-or-cake.json) |
 | Boyfriend's Rescue | 225639 | [225639-boyfriends-rescue.json](./225639-boyfriends-rescue.json) |
+| Boyhood's End | 250286 | [250286-boyhoods-end.json](./250286-boyhoods-end.json) |
 | BoyKisser Clicker | 310600 | [310600-boykisser-clicker.json](./310600-boykisser-clicker.json) |
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
 | Boys Work | 186188 | [186188-boys-work.json](./186188-boys-work.json) |
@@ -6069,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Banners | 192839 | [192839-broken-banners.json](./192839-broken-banners.json) |
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
 | Broken Cavalier | 214052 | [214052-broken-cavalier.json](./214052-broken-cavalier.json) |
+| Broken Colors | 250302 | [250302-broken-colors.json](./250302-broken-colors.json) |
 | Broken Covenant | 282699 | [282699-broken-covenant.json](./282699-broken-covenant.json) |
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
