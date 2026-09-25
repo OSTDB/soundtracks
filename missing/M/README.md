@@ -4832,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Ship Wars | 155468 | [155468-mini-ship-wars.json](./155468-mini-ship-wars.json) |
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
+| Mini Star Survivor | 262902 | [262902-mini-star-survivor.json](./262902-mini-star-survivor.json) |
 | Mini Stasol | 366918 | [366918-mini-stasol.json](./366918-mini-stasol.json) |
 | Mini Subway: Logic on the Metro Line | 209693 | [209693-mini-subway-logic-on-the-metro-line.json](./209693-mini-subway-logic-on-the-metro-line.json) |
 | Mini TD 2: Relax Tower Defense | 305272 | [305272-mini-td-2-relax-tower-defense.json](./305272-mini-td-2-relax-tower-defense.json) |
@@ -7775,6 +7776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
 | My Merry Maybe | 247509 | [247509-my-merry-maybe.json](./247509-my-merry-maybe.json) |
+| My Mine | 262896 | [262896-my-mine.json](./262896-my-mine.json) |
 | My Mistress | 221202 | [221202-my-mistress.json](./221202-my-mistress.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
