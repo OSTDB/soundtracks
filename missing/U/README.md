@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.S.G. A New Beginning | 216332 | [216332-u-s-g-a-new-beginning.json](./216332-u-s-g-a-new-beginning.json) |
 | U.V.S. Nirmana | 400475 | [400475-u-v-s-nirmana.json](./400475-u-v-s-nirmana.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
+| UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
 | UBeat | 91921 | [91921-ubeat.json](./91921-ubeat.json) |
 | Ubel | 195142 | [195142-ubel.json](./195142-ubel.json) |
@@ -420,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra Flora | 386886 | [386886-umbra-flora.json](./386886-umbra-flora.json) |
 | Umbra Halloween | 272240 | [272240-umbra-halloween.json](./272240-umbra-halloween.json) |
 | Umbra Lumen | 337284 | [337284-umbra-lumen.json](./337284-umbra-lumen.json) |
+| Umbra of Fate | 256873 | [256873-umbra-of-fate.json](./256873-umbra-of-fate.json) |
 | Umbra Sepulcri | 215678 | [215678-umbra-sepulcri.json](./215678-umbra-sepulcri.json) |
 | Umbra Survivors | 379956 | [379956-umbra-survivors.json](./379956-umbra-survivors.json) |
 | Umbra: Journey Home | 173300 | [173300-umbra-journey-home.json](./173300-umbra-journey-home.json) |
