@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Regular Pinball Game | 349474 | [349474-a-regular-pinball-game.json](./349474-a-regular-pinball-game.json) |
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
 | A Rite from the Stars: Remaster Edition | 298690 | [298690-a-rite-from-the-stars-remaster-edition.json](./298690-a-rite-from-the-stars-remaster-edition.json) |
+| A Roach In Space | 269058 | [269058-a-roach-in-space.json](./269058-a-roach-in-space.json) |
 | A Road That May Lead Nowhere | 77658 | [77658-a-road-that-may-lead-nowhere.json](./77658-a-road-that-may-lead-nowhere.json) |
 | A Roaming Wildebeest In Spain | 271244 | [271244-a-roaming-wildebeest-in-spain.json](./271244-a-roaming-wildebeest-in-spain.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
@@ -933,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrian Ford in the Tomb of the Moon | 314994 | [314994-adrian-ford-in-the-tomb-of-the-moon.json](./314994-adrian-ford-in-the-tomb-of-the-moon.json) |
 | Adrift | 304673 | [304673-adrift.json](./304673-adrift.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
+| Adrift Program | 269048 | [269048-adrift-program.json](./269048-adrift-program.json) |
 | Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
@@ -4586,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area Zero | 360739 | [360739-area-zero.json](./360739-area-zero.json) |
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
 | aReaker Water | 74068 | [74068-areaker-water.json](./74068-areaker-water.json) |
+| Areas | 269056 | [269056-areas.json](./269056-areas.json) |
 | Areena 4 | 317423 | [317423-areena-4.json](./317423-areena-4.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arena | 14599 | [14599-arena.json](./14599-arena.json) |
