@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warshift 2 | 388957 | [388957-warshift-2.json](./388957-warshift-2.json) |
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
+| WarShip War Navy Fleet Combat | 255043 | [255043-warship-war-navy-fleet-combat.json](./255043-warship-war-navy-fleet-combat.json) |
 | Warships 3D | 114158 | [114158-warships-3d.json](./114158-warships-3d.json) |
 | Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
 | Warshmallows | 132613 | [132613-warshmallows.json](./132613-warshmallows.json) |
@@ -3381,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormi | 269083 | [269083-wormi.json](./269083-wormi.json) |
 | Wormix | 315030 | [315030-wormix.json](./315030-wormix.json) |
 | WormJuice Skateboarding Olympics | 159795 | [159795-wormjuice-skateboarding-olympics.json](./159795-wormjuice-skateboarding-olympics.json) |
+| WorMoon: Awakening | 255042 | [255042-wormoon-awakening.json](./255042-wormoon-awakening.json) |
 | Worms | 409023 | [409023-worms.json](./409023-worms.json) |
 | Worms | 9331 | [9331-worms.json](./9331-worms.json) |
 | Worms | 9332 | [9332-worms.json](./9332-worms.json) |
