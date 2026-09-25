@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
 | Samurai Jack: Way of the Warrior | 338747 | [338747-samurai-jack-way-of-the-warrior.json](./338747-samurai-jack-way-of-the-warrior.json) |
 | Samurai Journey | 165648 | [165648-samurai-journey.json](./165648-samurai-journey.json) |
+| Samurai Kento | 257906 | [257906-samurai-kento.json](./257906-samurai-kento.json) |
 | Samurai Kirby | 134459 | [134459-samurai-kirby.json](./134459-samurai-kirby.json) |
 | Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
 | Samurai Nihon-Ichi | 40415 | [40415-samurai-nihon-ichi.json](./40415-samurai-nihon-ichi.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Pool Party | 385045 | [385045-sex-simulator-pool-party.json](./385045-sex-simulator-pool-party.json) |
 | Sex Simulator: Roman Emperor | 288897 | [288897-sex-simulator-roman-emperor.json](./288897-sex-simulator-roman-emperor.json) |
 | Sex Simulator: The Beach House | 247607 | [247607-sex-simulator-the-beach-house.json](./247607-sex-simulator-the-beach-house.json) |
+| Sex Simulator: Yoga Class | 257884 | [257884-sex-simulator-yoga-class.json](./257884-sex-simulator-yoga-class.json) |
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
@@ -4126,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sillyfun Valley | 158577 | [158577-sillyfun-valley.json](./158577-sillyfun-valley.json) |
 | Silmar | 230258 | [230258-silmar.json](./230258-silmar.json) |
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
+| Silted Prayer | 257904 | [257904-silted-prayer.json](./257904-silted-prayer.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
 | Silver Axe: The Honest Elf | 195129 | [195129-silver-axe-the-honest-elf.json](./195129-silver-axe-the-honest-elf.json) |
@@ -6099,6 +6102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Many Cubes | 31791 | [31791-so-many-cubes.json](./31791-so-many-cubes.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | So Much Stuff 2: Collector's Edition | 290425 | [290425-so-much-stuff-2-collectors-edition.json](./290425-so-much-stuff-2-collectors-edition.json) |
+| So Much Stuff 3: Odds & Ends | 257896 | [257896-so-much-stuff-3-odds-and-ends.json](./257896-so-much-stuff-3-odds-and-ends.json) |
 | So Much Stuff 5: Mix-Knacks | 336631 | [336631-so-much-stuff-5-mix-knacks.json](./336631-so-much-stuff-5-mix-knacks.json) |
 | So Much Stuff: Collector's Edition | 251596 | [251596-so-much-stuff-collectors-edition.json](./251596-so-much-stuff-collectors-edition.json) |
 | So Obscure; | 178534 | [178534-so-obscure.json](./178534-so-obscure.json) |
@@ -8662,6 +8666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Fiction: Friend's Pass | 347331 | [347331-split-fiction-friends-pass.json](./347331-split-fiction-friends-pass.json) |
 | Split Happens | 400899 | [400899-split-happens.json](./400899-split-happens.json) |
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
+| Split Personality Doctor | 257920 | [257920-split-personality-doctor.json](./257920-split-personality-doctor.json) |
 | Split Polarity: The Science Puzzle Arcade Game! | 273408 | [273408-split-polarity-the-science-puzzle-arcade-game.json](./273408-split-polarity-the-science-puzzle-arcade-game.json) |
 | Split Souls | 369634 | [369634-split-souls.json](./369634-split-souls.json) |
 | Split Tactics | 386281 | [386281-split-tactics.json](./386281-split-tactics.json) |
@@ -13134,6 +13139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbike Masters | 43860 | [43860-superbike-masters.json](./43860-superbike-masters.json) |
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
+| Superbot Arena | 257979 | [257979-superbot-arena.json](./257979-superbot-arena.json) |
 | Superbowl | 61912 | [61912-superbowl.json](./61912-superbowl.json) |
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
@@ -13868,6 +13874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword & Poker 2 | 98812 | [98812-sword-and-poker-2.json](./98812-sword-and-poker-2.json) |
 | Sword & Seek | 309847 | [309847-sword-and-seek.json](./309847-sword-and-seek.json) |
 | Sword & Siege Crusades: Book II | 402956 | [402956-sword-and-siege-crusades-book-ii.json](./402956-sword-and-siege-crusades-book-ii.json) |
+| Sword & Spatula | 257892 | [257892-sword-and-spatula.json](./257892-sword-and-spatula.json) |
 | Sword and Expedition: Placing Heroes | 188040 | [188040-sword-and-expedition-placing-heroes.json](./188040-sword-and-expedition-placing-heroes.json) |
 | Sword and Fairy 3 Ex | 369568 | [369568-sword-and-fairy-3-ex.json](./369568-sword-and-fairy-3-ex.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
