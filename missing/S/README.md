@@ -1458,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
+| Scrumlords | 260634 | [260634-scrumlords.json](./260634-scrumlords.json) |
 | Scrunk | 104027 | [104027-scrunk.json](./104027-scrunk.json) |
 | SCS deOrbit | 36050 | [36050-scs-deorbit.json](./36050-scs-deorbit.json) |
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
@@ -3911,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SideLine | 243796 | [243796-sideline.json](./243796-sideline.json) |
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
+| SideQuest: Reanimated | 260641 | [260641-sidequest-reanimated.json](./260641-sidequest-reanimated.json) |
 | Sidereal Defense | 54357 | [54357-sidereal-defense.json](./54357-sidereal-defense.json) |
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
@@ -6342,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier vs Aliens | 54389 | [54389-soldier-vs-aliens.json](./54389-soldier-vs-aliens.json) |
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
 | Soldiers DesireWing | 378437 | [378437-soldiers-desirewing.json](./378437-soldiers-desirewing.json) |
+| Soldiers Never Die | 260707 | [260707-soldiers-never-die.json](./260707-soldiers-never-die.json) |
 | Soldiers of the Universe | 43883 | [43883-soldiers-of-the-universe.json](./43883-soldiers-of-the-universe.json) |
 | Söldner-X 2: Final Prototype | 26937 | [26937-soldner-x-2-final-prototype.json](./26937-soldner-x-2-final-prototype.json) |
 | Söldner-X 2: The Last Chapter | 26938 | [26938-soldner-x-2-the-last-chapter.json](./26938-soldner-x-2-the-last-chapter.json) |
@@ -11171,6 +11174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
+| STSP: Super Titty Space Prison | 260643 | [260643-stsp-super-titty-space-prison.json](./260643-stsp-super-titty-space-prison.json) |
 | Stuart Little 2 | 121606 | [121606-stuart-little-2.json](./121606-stuart-little-2.json) |
 | Stuart Little 2 | 27628 | [27628-stuart-little-2.json](./27628-stuart-little-2.json) |
 | Stuart Little: Big City Adventures | 208356 | [208356-stuart-little-big-city-adventures.json](./208356-stuart-little-big-city-adventures.json) |
@@ -11287,11 +11291,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
 | Submachine 10: The Exit | 260768 | [260768-submachine-10-the-exit.json](./260768-submachine-10-the-exit.json) |
+| Submachine 6: The Edge | 260728 | [260728-submachine-6-the-edge.json](./260728-submachine-6-the-edge.json) |
+| Submachine 7: The Core | 260741 | [260741-submachine-7-the-core.json](./260741-submachine-7-the-core.json) |
 | Submachine 8: The Plan | 260752 | [260752-submachine-8-the-plan.json](./260752-submachine-8-the-plan.json) |
 | Submachine 9: The Temple | 260760 | [260760-submachine-9-the-temple.json](./260760-submachine-9-the-temple.json) |
 | Submachine Extended Version | 259844 | [259844-submachine-extended-version.json](./259844-submachine-extended-version.json) |
 | Submachine Zero: Ancient Adventure | 19295 | [19295-submachine-zero-ancient-adventure.json](./19295-submachine-zero-ancient-adventure.json) |
 | Submachine: 32 Chambers | 19324 | [19324-submachine-32-chambers.json](./19324-submachine-32-chambers.json) |
+| Submachine: 32 Chambers | 260730 | [260730-submachine-32-chambers.json](./260730-submachine-32-chambers.json) |
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
@@ -11899,6 +11906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
+| Super Beasts: Gang up! | 260708 | [260708-super-beasts-gang-up.json](./260708-super-beasts-gang-up.json) |
 | Super Beat 'em up World | 415317 | [415317-super-beat-em-up-world.json](./415317-super-beat-em-up-world.json) |
 | Super Beco World | 267888 | [267888-super-beco-world.json](./267888-super-beco-world.json) |
 | Super Beco World 2 | 267890 | [267890-super-beco-world-2.json](./267890-super-beco-world-2.json) |
