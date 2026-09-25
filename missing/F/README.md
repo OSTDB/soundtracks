@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: New Vegas Remaster | 410463 | [410463-fallout-new-vegas-remaster.json](./410463-fallout-new-vegas-remaster.json) |
 | Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
 | Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
+| Falls and Jumps | 262904 | [262904-falls-and-jumps.json](./262904-falls-and-jumps.json) |
 | Fallsaga | 355127 | [355127-fallsaga.json](./355127-fallsaga.json) |
 | Fallstreak 2: Traum | 364604 | [364604-fallstreak-2-traum.json](./364604-fallstreak-2-traum.json) |
 | Fallstreak: Requiem For My Homeland | 141631 | [141631-fallstreak-requiem-for-my-homeland.json](./141631-fallstreak-requiem-for-my-homeland.json) |
@@ -4409,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Fall | 13716 | [13716-free-fall.json](./13716-free-fall.json) |
 | Free Fall | 267940 | [267940-free-fall.json](./267940-free-fall.json) |
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
+| Free for All | 262920 | [262920-free-for-all.json](./262920-free-for-all.json) |
 | Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
 | Free Hugs Inc. | 178566 | [178566-free-hugs-inc.json](./178566-free-hugs-inc.json) |
 | Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
