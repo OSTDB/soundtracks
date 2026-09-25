@@ -2939,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
+| Pirate Fighting Simulator | 234023 | [234023-pirate-fighting-simulator.json](./234023-pirate-fighting-simulator.json) |
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
 | Pirate Flight | 100601 | [100601-pirate-flight.json](./100601-pirate-flight.json) |
 | Pirate Ghost Ship | 390793 | [390793-pirate-ghost-ship.json](./390793-pirate-ghost-ship.json) |
@@ -4770,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop DS | 326190 | [326190-pop-ds.json](./326190-pop-ds.json) |
 | Pop Float a-way | 414579 | [414579-pop-float-a-way.json](./414579-pop-float-a-way.json) |
 | Pop Frenzy! | 108983 | [108983-pop-frenzy.json](./108983-pop-frenzy.json) |
+| Pop Fruit | 233996 | [233996-pop-fruit.json](./233996-pop-fruit.json) |
 | Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
 | Pop Journey | 220651 | [220651-pop-journey.json](./220651-pop-journey.json) |
 | Pop Logo Quiz | 105862 | [105862-pop-logo-quiz.json](./105862-pop-logo-quiz.json) |
@@ -5411,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
 | Prezzies | 270071 | [270071-prezzies.json](./270071-prezzies.json) |
+| Price for Freedom: Avarice | 234035 | [234035-price-for-freedom-avarice.json](./234035-price-for-freedom-avarice.json) |
 | Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
