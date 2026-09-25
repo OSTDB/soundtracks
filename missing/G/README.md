@@ -1579,6 +1579,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostrunner II: Dragon Pack | 292679 | [292679-ghostrunner-ii-dragon-pack.json](./292679-ghostrunner-ii-dragon-pack.json) |
 | Ghostrunner II: Endless Moto Mode | 371318 | [371318-ghostrunner-ii-endless-moto-mode.json](./371318-ghostrunner-ii-endless-moto-mode.json) |
 | Ghostrunner II: Heat Pack | 322725 | [322725-ghostrunner-ii-heat-pack.json](./322725-ghostrunner-ii-heat-pack.json) |
+| Ghostrunner: Halloween Pack | 237920 | [237920-ghostrunner-halloween-pack.json](./237920-ghostrunner-halloween-pack.json) |
+| Ghostrunner: Jack's Bundle | 237924 | [237924-ghostrunner-jacks-bundle.json](./237924-ghostrunner-jacks-bundle.json) |
+| Ghostrunner: Metal Ox Pack | 237923 | [237923-ghostrunner-metal-ox-pack.json](./237923-ghostrunner-metal-ox-pack.json) |
+| Ghostrunner: Neon Pack | 237922 | [237922-ghostrunner-neon-pack.json](./237922-ghostrunner-neon-pack.json) |
+| Ghostrunner: Winter Pack | 237921 | [237921-ghostrunner-winter-pack.json](./237921-ghostrunner-winter-pack.json) |
 | Ghosts | 11337 | [11337-ghosts.json](./11337-ghosts.json) |
 | Ghosts | 306496 | [306496-ghosts.json](./306496-ghosts.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
@@ -1874,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Smash 64 | 338801 | [338801-glass-smash-64.json](./338801-glass-smash-64.json) |
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
 | Glass Walls | 180667 | [180667-glass-walls.json](./180667-glass-walls.json) |
+| Glass Wings | 238456 | [238456-glass-wings.json](./238456-glass-wings.json) |
 | GlassBox | 195249 | [195249-glassbox.json](./195249-glassbox.json) |
 | Glassbreakers: Champions of Moss | 264018 | [264018-glassbreakers-champions-of-moss.json](./264018-glassbreakers-champions-of-moss.json) |
 | Glasses and Girls | 248930 | [248930-glasses-and-girls.json](./248930-glasses-and-girls.json) |
@@ -3734,9 +3740,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Hit Song + VTuber Pack 5 | 268539 | [268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json](./268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json) |
 | Groove Coaster: Wai Wai Party!!!! - Hololive Pack | 242049 | [242049-groove-coaster-wai-wai-party-hololive-pack.json](./242049-groove-coaster-wai-wai-party-hololive-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Lanota Pack | 237936 | [237936-groove-coaster-wai-wai-party-lanota-pack.json](./237936-groove-coaster-wai-wai-party-lanota-pack.json) |
+| Groove Coaster: Wai Wai Party!!!! - Muse Dash + Misc Pack | 237888 | [237888-groove-coaster-wai-wai-party-muse-dash-misc-pack.json](./237888-groove-coaster-wai-wai-party-muse-dash-misc-pack.json) |
+| Groove Coaster: Wai Wai Party!!!! - Original Pack | 237889 | [237889-groove-coaster-wai-wai-party-original-pack.json](./237889-groove-coaster-wai-wai-party-original-pack.json) |
+| Groove Coaster: Wai Wai Party!!!! - Original Pack 2 | 237890 | [237890-groove-coaster-wai-wai-party-original-pack-2.json](./237890-groove-coaster-wai-wai-party-original-pack-2.json) |
+| Groove Coaster: Wai Wai Party!!!! - Original Pack 3 | 237891 | [237891-groove-coaster-wai-wai-party-original-pack-3.json](./237891-groove-coaster-wai-wai-party-original-pack-3.json) |
+| Groove Coaster: Wai Wai Party!!!! - Original Pack 4: 10th Anniversary | 237892 | [237892-groove-coaster-wai-wai-party-original-pack-4-10th-anniversary.json](./237892-groove-coaster-wai-wai-party-original-pack-4-10th-anniversary.json) |
 | Groove Coaster: Wai Wai Party!!!! - Original Pack 8: Arcade Memorial | 288295 | [288295-groove-coaster-wai-wai-party-original-pack-8-arcade-memorial.json](./288295-groove-coaster-wai-wai-party-original-pack-8-arcade-memorial.json) |
+| Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 1 | 237882 | [237882-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-1.json](./237882-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-1.json) |
+| Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 2 | 237886 | [237886-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-2.json](./237886-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-2.json) |
+| Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 3 | 237883 | [237883-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-3.json](./237883-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-3.json) |
+| Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 4 | 237884 | [237884-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-4.json](./237884-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-4.json) |
+| Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 5 | 237885 | [237885-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-5.json](./237885-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-5.json) |
+| Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 6 | 237887 | [237887-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-6.json](./237887-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-6.json) |
 | Groove Coaster: Wai Wai Party!!!! - Undertale + Deltarune Pack | 283179 | [283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json](./283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json) |
+| Groove Coaster: Wai Wai Party!!!! - Undertale Pack | 237875 | [237875-groove-coaster-wai-wai-party-undertale-pack.json](./237875-groove-coaster-wai-wai-party-undertale-pack.json) |
+| Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 1 | 237876 | [237876-groove-coaster-wai-wai-party-vocaloid-pack-1.json](./237876-groove-coaster-wai-wai-party-vocaloid-pack-1.json) |
+| Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 2 | 237877 | [237877-groove-coaster-wai-wai-party-vocaloid-pack-2.json](./237877-groove-coaster-wai-wai-party-vocaloid-pack-2.json) |
+| Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 3 | 237878 | [237878-groove-coaster-wai-wai-party-vocaloid-pack-3.json](./237878-groove-coaster-wai-wai-party-vocaloid-pack-3.json) |
+| Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 4 | 237879 | [237879-groove-coaster-wai-wai-party-vocaloid-pack-4.json](./237879-groove-coaster-wai-wai-party-vocaloid-pack-4.json) |
+| Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 5 | 237880 | [237880-groove-coaster-wai-wai-party-vocaloid-pack-5.json](./237880-groove-coaster-wai-wai-party-vocaloid-pack-5.json) |
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 9 | 283180 | [283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json](./283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json) |
+| Groove Coaster: Wai Wai Party!!!! - Wacca + Hardcore Tano*c Pack | 237881 | [237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json](./237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json) |
 | Groove Gunner | 112778 | [112778-groove-gunner.json](./112778-groove-gunner.json) |
 | Groove In The Grove | 376712 | [376712-groove-in-the-grove.json](./376712-groove-in-the-grove.json) |
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
@@ -4214,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | Gunlocked 2 | 334208 | [334208-gunlocked-2.json](./334208-gunlocked-2.json) |
+| Gunlocked: The 2nd Gunning | 238464 | [238464-gunlocked-the-2nd-gunning.json](./238464-gunlocked-the-2nd-gunning.json) |
 | Gunlok | 25008 | [25008-gunlok.json](./25008-gunlok.json) |
 | Gunlord X | 108254 | [108254-gunlord-x.json](./108254-gunlord-x.json) |
 | Gunma no Yabou for Nintendo 3DS | 222294 | [222294-gunma-no-yabou-for-nintendo-3ds.json](./222294-gunma-no-yabou-for-nintendo-3ds.json) |
