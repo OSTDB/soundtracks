@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcotics Ninja | 198554 | [198554-narcotics-ninja.json](./198554-narcotics-ninja.json) |
 | Narcotics Police: Black and White | 90625 | [90625-narcotics-police-black-and-white.json](./90625-narcotics-police-black-and-white.json) |
 | Naribikimura | 311114 | [311114-naribikimura.json](./311114-naribikimura.json) |
+| Narita Boy: Collector's Edition | 282052 | [282052-narita-boy-collectors-edition.json](./282052-narita-boy-collectors-edition.json) |
 | NarKarma Engine A | 257661 | [257661-narkarma-engine-a.json](./257661-narkarma-engine-a.json) |
 | Narnok | 396541 | [396541-narnok.json](./396541-narnok.json) |
 | Naroike | 335277 | [335277-naroike.json](./335277-naroike.json) |
