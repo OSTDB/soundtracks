@@ -3299,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Church Era | 118391 | [118391-church-era.json](./118391-church-era.json) |
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
 | Church Simulator | 312878 | [312878-church-simulator.json](./312878-church-simulator.json) |
+| Churchill Solitaire | 234547 | [234547-churchill-solitaire.json](./234547-churchill-solitaire.json) |
 | Churip | 316993 | [316993-churip.json](./316993-churip.json) |
 | Churrasco | 416099 | [416099-churrasco.json](./416099-churrasco.json) |
 | Chushpan | 292552 | [292552-chushpan.json](./292552-chushpan.json) |
@@ -3434,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirque des Animaux | 383080 | [383080-cirque-des-animaux.json](./383080-cirque-des-animaux.json) |
 | Cirque du Flea | 366412 | [366412-cirque-du-flea.json](./366412-cirque-du-flea.json) |
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
+| Citadale Resurrection | 234583 | [234583-citadale-resurrection.json](./234583-citadale-resurrection.json) |
 | Citadale Resurrection: Darkness my Curse | 261867 | [261867-citadale-resurrection-darkness-my-curse.json](./261867-citadale-resurrection-darkness-my-curse.json) |
 | Citadale Resurrection: Prelude to War | 250358 | [250358-citadale-resurrection-prelude-to-war.json](./250358-citadale-resurrection-prelude-to-war.json) |
 | Citadale: Gate of Souls | 56152 | [56152-citadale-gate-of-souls.json](./56152-citadale-gate-of-souls.json) |
