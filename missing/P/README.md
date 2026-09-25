@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
 | Picture Perfect Golf | 316767 | [316767-picture-perfect-golf.json](./316767-picture-perfect-golf.json) |
+| Picture Puzzle | 269636 | [269636-picture-puzzle.json](./269636-picture-puzzle.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
 | Piczle Cross Adventure + PictoQuest: The Cursed Grids | 146140 | [146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json](./146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json) |
