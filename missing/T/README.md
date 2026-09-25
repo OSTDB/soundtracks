@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taboo Village: Romance Card Game | 415953 | [415953-taboo-village-romance-card-game.json](./415953-taboo-village-romance-card-game.json) |
 | Taboo: Official Party Game | 376140 | [376140-taboo-official-party-game.json](./376140-taboo-official-party-game.json) |
 | Tabou Stories: Love Episodes | 311675 | [311675-tabou-stories-love-episodes.json](./311675-tabou-stories-love-episodes.json) |
+| TabTab Apocalypse | 233463 | [233463-tabtab-apocalypse.json](./233463-tabtab-apocalypse.json) |
 | Tabu Oyunu XL - Pro | 105950 | [105950-tabu-oyunu-xl-pro.json](./105950-tabu-oyunu-xl-pro.json) |
 | Tabula | 376545 | [376545-tabula.json](./376545-tabula.json) |
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
@@ -10198,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn Earth | 114803 | [114803-torn-earth.json](./114803-torn-earth.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Torn Tales | 34773 | [34773-torn-tales.json](./34773-torn-tales.json) |
+| Tornado | 233481 | [233481-tornado.json](./233481-tornado.json) |
 | Tornado | 266173 | [266173-tornado.json](./266173-tornado.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
 | Tornado Baseball / Tennis / Handball / Hockey | 93564 | [93564-tornado-baseball-tennis-handball-hockey.json](./93564-tornado-baseball-tennis-handball-hockey.json) |
