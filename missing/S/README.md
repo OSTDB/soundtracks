@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage: The Ultimate Quest for Survival | 69890 | [69890-savage-the-ultimate-quest-for-survival.json](./69890-savage-the-ultimate-quest-for-survival.json) |
 | Savage: Ultimate Boss Fight | 225075 | [225075-savage-ultimate-boss-fight.json](./225075-savage-ultimate-boss-fight.json) |
 | Savanna | 346098 | [346098-savanna.json](./346098-savanna.json) |
+| Savannah Runnah | 243610 | [243610-savannah-runnah.json](./243610-savannah-runnah.json) |
 | Savant: Ascent | 7879 | [7879-savant-ascent.json](./7879-savant-ascent.json) |
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
 | Savant: Ascent Remix | 261364 | [261364-savant-ascent-remix.json](./261364-savant-ascent-remix.json) |
@@ -2992,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharkey's Shootout | 91401 | [91401-sharkeys-shootout.json](./91401-sharkeys-shootout.json) |
 | Sharknado VR: Arcade Edition | 197404 | [197404-sharknado-vr-arcade-edition.json](./197404-sharknado-vr-arcade-edition.json) |
 | Sharknado VR: Eye of the Storm | 110288 | [110288-sharknado-vr-eye-of-the-storm.json](./110288-sharknado-vr-eye-of-the-storm.json) |
+| Sharkphobia | 243653 | [243653-sharkphobia.json](./243653-sharkphobia.json) |
 | Sharks and Minnows | 340956 | [340956-sharks-and-minnows.json](./340956-sharks-and-minnows.json) |
 | SharkSketch | 60576 | [60576-sharksketch.json](./60576-sharksketch.json) |
 | Sharkstorm | 297606 | [297606-sharkstorm.json](./297606-sharkstorm.json) |
@@ -4011,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sig | 103460 | [103460-sig.json](./103460-sig.json) |
 | Sig | 231087 | [231087-sig.json](./231087-sig.json) |
 | SIGame | 285584 | [285584-sigame.json](./285584-sigame.json) |
+| SIght | 243649 | [243649-sight.json](./243649-sight.json) |
 | Sight Blight | 249726 | [249726-sight-blight.json](./249726-sight-blight.json) |
 | Sight's Adventure | 182909 | [182909-sights-adventure.json](./182909-sights-adventure.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
@@ -5255,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
 | Sliders | 80517 | [80517-sliders.json](./80517-sliders.json) |
 | SlideWords | 88207 | [88207-slidewords.json](./88207-slidewords.json) |
+| Slidey Feet | 243635 | [243635-slidey-feet.json](./243635-slidey-feet.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
 | Sliding Puzzle Blue | 107132 | [107132-sliding-puzzle-blue.json](./107132-sliding-puzzle-blue.json) |
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
@@ -6451,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solir | 332529 | [332529-solir.json](./332529-solir.json) |
 | Solitaire | 234167 | [234167-solitaire.json](./234167-solitaire.json) |
+| Solitaire | 243634 | [243634-solitaire.json](./243634-solitaire.json) |
 | Solitaire | 243701 | [243701-solitaire.json](./243701-solitaire.json) |
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
 | Solitaire | 80744 | [80744-solitaire.json](./80744-solitaire.json) |
