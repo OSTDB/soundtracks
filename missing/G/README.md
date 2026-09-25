@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gertrude's Secrets | 73521 | [73521-gertrudes-secrets.json](./73521-gertrudes-secrets.json) |
 | Gerty: Robots In Love | 31638 | [31638-gerty-robots-in-love.json](./31638-gerty-robots-in-love.json) |
 | Gerztron | 78350 | [78350-gerztron.json](./78350-gerztron.json) |
+| Gesshoku | 273346 | [273346-gesshoku.json](./273346-gesshoku.json) |
 | Gessou! Dangun Racer Onsoku Buster: Dangun Tama | 281457 | [281457-gessou-dangun-racer-onsoku-buster-dangun-tama.json](./281457-gessou-dangun-racer-onsoku-buster-dangun-tama.json) |
 | Gestalt_OS | 270657 | [270657-gestalt-os.json](./270657-gestalt-os.json) |
 | Gestalt: The Fifth Day | 275730 | [275730-gestalt-the-fifth-day.json](./275730-gestalt-the-fifth-day.json) |
