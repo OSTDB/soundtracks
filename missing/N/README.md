@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noxcode | 404413 | [404413-noxcode.json](./404413-noxcode.json) |
 | Noxiam: Miserable Sinners | 126407 | [126407-noxiam-miserable-sinners.json](./126407-noxiam-miserable-sinners.json) |
 | Noyah: Corrupted Memories | 164962 | [164962-noyah-corrupted-memories.json](./164962-noyah-corrupted-memories.json) |
+| Nozoku | 238984 | [238984-nozoku.json](./238984-nozoku.json) |
 | Nozomi-chan no Spiritual Card | 405493 | [405493-nozomi-chan-no-spiritual-card.json](./405493-nozomi-chan-no-spiritual-card.json) |
 | Nozomu School Daze | 411649 | [411649-nozomu-school-daze.json](./411649-nozomu-school-daze.json) |
 | NPC Adventure: Post-Jam Edition | 308560 | [308560-npc-adventure-post-jam-edition.json](./308560-npc-adventure-post-jam-edition.json) |
