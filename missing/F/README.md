@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
 | Femme Fatality | 406911 | [406911-femme-fatality.json](./406911-femme-fatality.json) |
 | Fenakkumura Monogatari | 166145 | [166145-fenakkumura-monogatari.json](./166145-fenakkumura-monogatari.json) |
+| Fence | 270169 | [270169-fence.json](./270169-fence.json) |
 | Fencing Champ | 247044 | [247044-fencing-champ.json](./247044-fencing-champ.json) |
 | Fencing Girl | 186863 | [186863-fencing-girl.json](./186863-fencing-girl.json) |
 | Fency Krabby | 185146 | [185146-fency-krabby.json](./185146-fency-krabby.json) |
@@ -3062,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Cloud God Saves the Pilgrims in HD! | 84154 | [84154-floating-cloud-god-saves-the-pilgrims-in-hd.json](./84154-floating-cloud-god-saves-the-pilgrims-in-hd.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
 | Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
+| Floating Girl | 270156 | [270156-floating-girl.json](./270156-floating-girl.json) |
 | Floating Isle Days | 379015 | [379015-floating-isle-days.json](./379015-floating-isle-days.json) |
 | Floating Life 2 | 216788 | [216788-floating-life-2.json](./216788-floating-life-2.json) |
 | Floating Life in Other-World | 156531 | [156531-floating-life-in-other-world.json](./156531-floating-life-in-other-world.json) |
