@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Out | 300017 | [300017-raccoon-out.json](./300017-raccoon-out.json) |
 | Raccoon Packer | 403184 | [403184-raccoon-packer.json](./403184-raccoon-packer.json) |
 | Raccoon Party | 401696 | [401696-raccoon-party.json](./401696-raccoon-party.json) |
+| Raccoon Rascals | 230211 | [230211-raccoon-rascals.json](./230211-raccoon-rascals.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
 | Raccoon Squad | 261860 | [261860-raccoon-squad.json](./261860-raccoon-squad.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
@@ -3402,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Mechalopolis | 413009 | [413009-road-to-mechalopolis.json](./413009-road-to-mechalopolis.json) |
 | Road to Morrow | 172669 | [172669-road-to-morrow.json](./172669-road-to-morrow.json) |
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
+| Road to Scrubville: A Bijuu Mike Fangame | 230254 | [230254-road-to-scrubville-a-bijuu-mike-fangame.json](./230254-road-to-scrubville-a-bijuu-mike-fangame.json) |
 | Road To Siren Hills: Dark Journey | 304112 | [304112-road-to-siren-hills-dark-journey.json](./304112-road-to-siren-hills-dark-journey.json) |
 | Road To Valhalla: Carola | 290537 | [290537-road-to-valhalla-carola.json](./290537-road-to-valhalla-carola.json) |
 | Road to Vegas | 123402 | [123402-road-to-vegas.json](./123402-road-to-vegas.json) |
