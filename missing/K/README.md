@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kromer Kollector | 181875 | [181875-kromer-kollector.json](./181875-kromer-kollector.json) |
 | Kromex | 400850 | [400850-kromex.json](./400850-kromex.json) |
 | Kromlech | 253588 | [253588-kromlech.json](./253588-kromlech.json) |
+| Kronian Titans | 244177 | [244177-kronian-titans.json](./244177-kronian-titans.json) |
 | Kronii is Hungry | 203302 | [203302-kronii-is-hungry.json](./203302-kronii-is-hungry.json) |
 | Kroniki Elevena | 236807 | [236807-kroniki-elevena.json](./236807-kroniki-elevena.json) |
 | Kronolog: The Nazi Paradox | 50481 | [50481-kronolog-the-nazi-paradox.json](./50481-kronolog-the-nazi-paradox.json) |
