@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Abyss | 321336 | [321336-dead-abyss.json](./321336-dead-abyss.json) |
 | Dead Age 1 + 2 Bundle | 154956 | [154956-dead-age-1-2-bundle.json](./154956-dead-age-1-2-bundle.json) |
 | Dead Age 2 | 127098 | [127098-dead-age-2.json](./127098-dead-age-2.json) |
+| Dead Age: Survivors | 238452 | [238452-dead-age-survivors.json](./238452-dead-age-survivors.json) |
 | Dead Ahead | 356286 | [356286-dead-ahead.json](./356286-dead-ahead.json) |
 | Dead Ahead: Zombie Warfare | 56166 | [56166-dead-ahead-zombie-warfare.json](./56166-dead-ahead-zombie-warfare.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
@@ -2741,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate Defence | 115433 | [115433-desperate-defence.json](./115433-desperate-defence.json) |
 | Desperate game | 82050 | [82050-desperate-game.json](./82050-desperate-game.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
+| Desperate Skeleton | 238470 | [238470-desperate-skeleton.json](./238470-desperate-skeleton.json) |
 | Desperate: Vladivostok | 206720 | [206720-desperate-vladivostok.json](./206720-desperate-vladivostok.json) |
 | Desperation | 147415 | [147415-desperation.json](./147415-desperation.json) |
 | Despicable Bear | 86852 | [86852-despicable-bear.json](./86852-despicable-bear.json) |
@@ -3563,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Run DX | 16636 | [16636-dino-run-dx.json](./16636-dino-run-dx.json) |
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
 | Dino Rush | 343481 | [343481-dino-rush.json](./343481-dino-rush.json) |
+| Dino Rush Race | 238400 | [238400-dino-rush-race.json](./238400-dino-rush-race.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
 | Dino Safari: Evolution-U | 100927 | [100927-dino-safari-evolution-u.json](./100927-dino-safari-evolution-u.json) |
 | Dino Shift | 311064 | [311064-dino-shift.json](./311064-dino-shift.json) |
@@ -3712,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Area | 236283 | [236283-disaster-area.json](./236283-disaster-area.json) |
 | Disaster Band | 229138 | [229138-disaster-band.json](./229138-disaster-band.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
+| Disaster Dash | 238399 | [238399-disaster-dash.json](./238399-disaster-dash.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
 | Disaster: Day of Crisis | 4805 | [4805-disaster-day-of-crisis.json](./4805-disaster-day-of-crisis.json) |
@@ -5077,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita no Time Machine Daibouken | 59056 | [59056-doraemon-nobita-no-time-machine-daibouken.json](./59056-doraemon-nobita-no-time-machine-daibouken.json) |
 | Doraemon: Nobita to 3-tsu no Seireiseki | 70797 | [70797-doraemon-nobita-to-3-tsu-no-seireiseki.json](./70797-doraemon-nobita-to-3-tsu-no-seireiseki.json) |
 | Doraemon: Nobita to Fukkatsu no Hoshi | 91772 | [91772-doraemon-nobita-to-fukkatsu-no-hoshi.json](./91772-doraemon-nobita-to-fukkatsu-no-hoshi.json) |
+| Doraemon: Nobita's Resident Evil 2 | 238417 | [238417-doraemon-nobitas-resident-evil-2.json](./238417-doraemon-nobitas-resident-evil-2.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
 | DoraKone | 116849 | [116849-dorakone.json](./116849-dorakone.json) |
 | Dorasyeoda | 278528 | [278528-dorasyeoda.json](./278528-dorasyeoda.json) |
@@ -5249,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doukyuu-sei | 59997 | [59997-doukyuu-sei.json](./59997-doukyuu-sei.json) |
 | Doukyuusei Classmates | 41993 | [41993-doukyuusei-classmates.json](./41993-doukyuusei-classmates.json) |
 | Doula Continent: Awakening Soul | 193929 | [193929-doula-continent-awakening-soul.json](./193929-doula-continent-awakening-soul.json) |
+| Dousoukai wa Koi no Hajimari | 238407 | [238407-dousoukai-wa-koi-no-hajimari.json](./238407-dousoukai-wa-koi-no-hajimari.json) |
 | Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken | 264119 | [264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json](./264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
 | Down | 295887 | [295887-down.json](./295887-down.json) |
@@ -5725,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
 | Dragon Story | 38899 | [38899-dragon-story.json](./38899-dragon-story.json) |
 | Dragon Survival | 373180 | [373180-dragon-survival.json](./373180-dragon-survival.json) |
+| Dragon Survivors | 238430 | [238430-dragon-survivors.json](./238430-dragon-survivors.json) |
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
 | Dragon Tale 5: The Queen's Destiny - Collector's Edition | 417525 | [417525-dragon-tale-5-the-queens-destiny-collectors-edition.json](./417525-dragon-tale-5-the-queens-destiny-collectors-edition.json) |
 | Dragon Tales | 320914 | [320914-dragon-tales.json](./320914-dragon-tales.json) |
@@ -6162,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWorld | 145026 | [145026-dreamworld.json](./145026-dreamworld.json) |
 | Dreamwrought | 387022 | [387022-dreamwrought.json](./387022-dreamwrought.json) |
 | Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
+| Dreamy Days in West Tokyo | 238424 | [238424-dreamy-days-in-west-tokyo.json](./238424-dreamy-days-in-west-tokyo.json) |
 | Dreamy Hill | 345694 | [345694-dreamy-hill.json](./345694-dreamy-hill.json) |
 | Dreamy Idea | 292065 | [292065-dreamy-idea.json](./292065-dreamy-idea.json) |
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
