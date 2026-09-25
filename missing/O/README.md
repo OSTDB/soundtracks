@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night with Clara | 171003 | [171003-one-night-with-clara.json](./171003-one-night-with-clara.json) |
 | One Night With Stalin | 392939 | [392939-one-night-with-stalin.json](./392939-one-night-with-stalin.json) |
 | One Night You're Crazy | 61645 | [61645-one-night-youre-crazy.json](./61645-one-night-youre-crazy.json) |
+| One Night: Burlesque | 265106 | [265106-one-night-burlesque.json](./265106-one-night-burlesque.json) |
 | One Night: Burlesque - Amazing Edition | 313142 | [313142-one-night-burlesque-amazing-edition.json](./313142-one-night-burlesque-amazing-edition.json) |
 | One Night: Burlesque - Complete + | 324446 | [324446-one-night-burlesque-complete.json](./324446-one-night-burlesque-complete.json) |
 | One Night: Burlesque - Extended Edition | 283167 | [283167-one-night-burlesque-extended-edition.json](./283167-one-night-burlesque-extended-edition.json) |
