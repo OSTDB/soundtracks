@@ -163,6 +163,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valis | 262085 | [262085-valis.json](./262085-valis.json) |
 | Valis II | 37608 | [37608-valis-ii.json](./37608-valis-ii.json) |
 | Valis III | 37607 | [37607-valis-iii.json](./37607-valis-iii.json) |
+| Valis IV | 278475 | [278475-valis-iv.json](./278475-valis-iv.json) |
+| Valis: The Fantasm Soldier | 278476 | [278476-valis-the-fantasm-soldier.json](./278476-valis-the-fantasm-soldier.json) |
+| Valis: The Fantasm Soldier | 278478 | [278478-valis-the-fantasm-soldier.json](./278478-valis-the-fantasm-soldier.json) |
 | Valis: The Fantasm Soldier Collection III | 276457 | [276457-valis-the-fantasm-soldier-collection-iii.json](./276457-valis-the-fantasm-soldier-collection-iii.json) |
 | Valist Leznalt | 206377 | [206377-valist-leznalt.json](./206377-valist-leznalt.json) |
 | Valkalim | 192983 | [192983-valkalim.json](./192983-valkalim.json) |
@@ -453,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Party | 85832 | [85832-vegas-party.json](./85832-vegas-party.json) |
 | Vegas Stakes | 38410 | [38410-vegas-stakes.json](./38410-vegas-stakes.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
+| Vege Bubble Shoot | 278490 | [278490-vege-bubble-shoot.json](./278490-vege-bubble-shoot.json) |
 | Vegetable Valley Nightmare | 216303 | [216303-vegetable-valley-nightmare.json](./216303-vegetable-valley-nightmare.json) |
 | Vegetables Deluxe C64 | 135016 | [135016-vegetables-deluxe-c64.json](./135016-vegetables-deluxe-c64.json) |
 | Vegetarian Alliance | 119683 | [119683-vegetarian-alliance.json](./119683-vegetarian-alliance.json) |
@@ -643,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigrowl | 338571 | [338571-vertigrowl.json](./338571-vertigrowl.json) |
 | Verto | 406318 | [406318-verto.json](./406318-verto.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
+| Very Hard Game | 278499 | [278499-very-hard-game.json](./278499-very-hard-game.json) |
 | Very Human Doctor | 416822 | [416822-very-human-doctor.json](./416822-very-human-doctor.json) |
 | Very Iconic Pixels - 80s Quiz | 233738 | [233738-very-iconic-pixels-80s-quiz.json](./233738-very-iconic-pixels-80s-quiz.json) |
 | Very Little Nightmares | 117295 | [117295-very-little-nightmares.json](./117295-very-little-nightmares.json) |
@@ -1562,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRSO: Bare Knuckle Fighting | 274551 | [274551-vrso-bare-knuckle-fighting.json](./274551-vrso-bare-knuckle-fighting.json) |
 | Vrsus Dead | 306080 | [306080-vrsus-dead.json](./306080-vrsus-dead.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
+| Vs Suicide Mouse | 278448 | [278448-vs-suicide-mouse.json](./278448-vs-suicide-mouse.json) |
 | Vs. | 18307 | [18307-vs.json](./18307-vs.json) |
 | Vs. Babel no Tou | 214582 | [214582-vs-babel-no-tou.json](./214582-vs-babel-no-tou.json) |
 | Vs. Battle City | 214575 | [214575-vs-battle-city.json](./214575-vs-battle-city.json) |
