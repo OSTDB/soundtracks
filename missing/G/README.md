@@ -2904,6 +2904,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
 | Grand Prix Championship 2 | 54064 | [54064-grand-prix-championship-2.json](./54064-grand-prix-championship-2.json) |
 | Grand Prix Circuit | 12124 | [12124-grand-prix-circuit.json](./12124-grand-prix-circuit.json) |
+| Grand Prix Circuit | 278443 | [278443-grand-prix-circuit.json](./278443-grand-prix-circuit.json) |
+| Grand Prix Circuit | 278444 | [278444-grand-prix-circuit.json](./278444-grand-prix-circuit.json) |
+| Grand Prix Circuit | 278445 | [278445-grand-prix-circuit.json](./278445-grand-prix-circuit.json) |
+| Grand Prix Circuit | 278446 | [278446-grand-prix-circuit.json](./278446-grand-prix-circuit.json) |
+| Grand Prix Circuit | 278447 | [278447-grand-prix-circuit.json](./278447-grand-prix-circuit.json) |
+| Grand Prix Circuit | 278449 | [278449-grand-prix-circuit.json](./278449-grand-prix-circuit.json) |
 | Grand Prix Evolution | 54063 | [54063-grand-prix-evolution.json](./54063-grand-prix-evolution.json) |
 | Grand Prix Formula One | 314865 | [314865-grand-prix-formula-one.json](./314865-grand-prix-formula-one.json) |
 | Grand Prix Manager | 78019 | [78019-grand-prix-manager.json](./78019-grand-prix-manager.json) |
