@@ -1636,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VTOL VR: AH-94 Attack Helicopter | 319396 | [319396-vtol-vr-ah-94-attack-helicopter.json](./319396-vtol-vr-ah-94-attack-helicopter.json) |
 | Vtoraya Mirovaya: Izdanie Vtoroe | 84277 | [84277-vtoraya-mirovaya-izdanie-vtoroe.json](./84277-vtoraya-mirovaya-izdanie-vtoroe.json) |
 | VTree Beach Volleyball | 100594 | [100594-vtree-beach-volleyball.json](./100594-vtree-beach-volleyball.json) |
+| VTube Studio: VNet Multiplayer Collab | 246921 | [246921-vtube-studio-vnet-multiplayer-collab.json](./246921-vtube-studio-vnet-multiplayer-collab.json) |
 | VTuber Battle: It’s Not About Subscribers! It’s All About Power! | 331888 | [331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json](./331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json) |
 | VTuber Beats | 163862 | [163862-vtuber-beats.json](./163862-vtuber-beats.json) |
 | VTumbler | 319718 | [319718-vtumbler.json](./319718-vtumbler.json) |
