@@ -2556,6 +2556,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normal Golf Game | 355571 | [355571-normal-golf-game.json](./355571-normal-golf-game.json) |
 | Normal Person | 285977 | [285977-normal-person.json](./285977-normal-person.json) |
 | Normal Shmup | 250378 | [250378-normal-shmup.json](./250378-normal-shmup.json) |
+| Normal Super Mario Bros. | 279718 | [279718-normal-super-mario-bros.json](./279718-normal-super-mario-bros.json) |
+| Normal Super Mario Bros. 2 | 279720 | [279720-normal-super-mario-bros-2.json](./279720-normal-super-mario-bros-2.json) |
+| Normal Super Mario Bros. 3 | 279721 | [279721-normal-super-mario-bros-3.json](./279721-normal-super-mario-bros-3.json) |
 | NormalTanks | 66658 | [66658-normaltanks.json](./66658-normaltanks.json) |
 | Norman | 60590 | [60590-norman.json](./60590-norman.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
@@ -2693,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noukk | 197757 | [197757-noukk.json](./197757-noukk.json) |
 | Noumisou Journey | 274557 | [274557-noumisou-journey.json](./274557-noumisou-journey.json) |
 | Nour: Play with Your Food | 138619 | [138619-nour-play-with-your-food.json](./138619-nour-play-with-your-food.json) |
+| Nourish | 279709 | [279709-nourish.json](./279709-nourish.json) |
 | Nous | 142387 | [142387-nous.json](./142387-nous.json) |
 | Nous | 231094 | [231094-nous.json](./231094-nous.json) |
 | Nova 2001 | 38563 | [38563-nova-2001.json](./38563-nova-2001.json) |
