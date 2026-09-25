@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Twisty Dots | 88288 | [88288-impossible-twisty-dots.json](./88288-impossible-twisty-dots.json) |
 | ImpossiBowl | 264150 | [264150-impossibowl.json](./264150-impossibowl.json) |
 | ImpossiBubble | 186823 | [186823-impossibubble.json](./186823-impossibubble.json) |
+| Imposter The Horror | 282045 | [282045-imposter-the-horror.json](./282045-imposter-the-horror.json) |
 | Impostor | 179698 | [179698-impostor.json](./179698-impostor.json) |
 | Impostor but Huggy Wuggy | 270669 | [270669-impostor-but-huggy-wuggy.json](./270669-impostor-but-huggy-wuggy.json) |
 | Impostor Hide Online | 179727 | [179727-impostor-hide-online.json](./179727-impostor-hide-online.json) |
