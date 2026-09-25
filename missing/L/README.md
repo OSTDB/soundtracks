@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 17 | 377062 | [377062-laruaville-17.json](./377062-laruaville-17.json) |
 | Laruaville 2 | 262486 | [262486-laruaville-2.json](./262486-laruaville-2.json) |
 | Laruaville 4 Christmas Match 3 Puzzle | 227874 | [227874-laruaville-4-christmas-match-3-puzzle.json](./227874-laruaville-4-christmas-match-3-puzzle.json) |
+| Laruaville 8 | 270079 | [270079-laruaville-8.json](./270079-laruaville-8.json) |
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
 | Las Gymkhanikas de Uli | 377290 | [377290-las-gymkhanikas-de-uli.json](./377290-las-gymkhanikas-de-uli.json) |
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
@@ -2512,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Lady vs the Cats | 152856 | [152856-lizard-lady-vs-the-cats.json](./152856-lizard-lady-vs-the-cats.json) |
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
 | Lizard Simulator | 406306 | [406306-lizard-simulator.json](./406306-lizard-simulator.json) |
+| Lizard Slayer | 270170 | [270170-lizard-slayer.json](./270170-lizard-slayer.json) |
 | Lizard Slayer | 405618 | [405618-lizard-slayer.json](./405618-lizard-slayer.json) |
 | Lizard Survival Duo | 369728 | [369728-lizard-survival-duo.json](./369728-lizard-survival-duo.json) |
 | Lizard Tower: The Abyss | 283751 | [283751-lizard-tower-the-abyss.json](./283751-lizard-tower-the-abyss.json) |
