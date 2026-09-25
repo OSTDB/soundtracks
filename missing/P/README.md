@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
 | Passion Rift | 369776 | [369776-passion-rift.json](./369776-passion-rift.json) |
 | Passive Hero: Save the World in 100 Days! | 359575 | [359575-passive-hero-save-the-world-in-100-days.json](./359575-passive-hero-save-the-world-in-100-days.json) |
+| Passpartout 2: The Lost Artist - Special Edition | 250284 | [250284-passpartout-2-the-lost-artist-special-edition.json](./250284-passpartout-2-the-lost-artist-special-edition.json) |
 | Passpartout: The One Man Band | 263452 | [263452-passpartout-the-one-man-band.json](./263452-passpartout-the-one-man-band.json) |
 | Passport to Amsterdam | 55850 | [55850-passport-to-amsterdam.json](./55850-passport-to-amsterdam.json) |
 | Passport to Barcelona | 55873 | [55873-passport-to-barcelona.json](./55873-passport-to-barcelona.json) |
@@ -1522,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peek-a-Boo! | 40407 | [40407-peek-a-boo.json](./40407-peek-a-boo.json) |
 | Peek-A-Mimic Christmas Castle | 326261 | [326261-peek-a-mimic-christmas-castle.json](./326261-peek-a-mimic-christmas-castle.json) |
 | Peekaboo Collection - 3 Tales of Horror | 132347 | [132347-peekaboo-collection-3-tales-of-horror.json](./132347-peekaboo-collection-3-tales-of-horror.json) |
+| Peekaboo Lite | 250306 | [250306-peekaboo-lite.json](./250306-peekaboo-lite.json) |
 | Peekazoo | 211284 | [211284-peekazoo.json](./211284-peekazoo.json) |
 | Peeking at the peak | 278387 | [278387-peeking-at-the-peak.json](./278387-peeking-at-the-peak.json) |
 | Peel a Banana | 368557 | [368557-peel-a-banana.json](./368557-peel-a-banana.json) |
@@ -5012,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poverty is a Choice | 106610 | [106610-poverty-is-a-choice.json](./106610-poverty-is-a-choice.json) |
 | Pow 2 | 241074 | [241074-pow-2.json](./241074-pow-2.json) |
 | Pow Pow: Dye it up! | 195728 | [195728-pow-pow-dye-it-up.json](./195728-pow-pow-dye-it-up.json) |
+| Pow Vista | 250335 | [250335-pow-vista.json](./250335-pow-vista.json) |
 | Pow: Horyo | 131376 | [131376-pow-horyo.json](./131376-pow-horyo.json) |
 | Powargrid | 33257 | [33257-powargrid.json](./33257-powargrid.json) |
 | PowBall Deluxe | 412564 | [412564-powball-deluxe.json](./412564-powball-deluxe.json) |
@@ -6764,6 +6767,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
 | Puyo Puyo 2 | 84798 | [84798-puyo-puyo-2.json](./84798-puyo-puyo-2.json) |
+| Puyo Puyo CD | 250339 | [250339-puyo-puyo-cd.json](./250339-puyo-puyo-cd.json) |
+| Puyo Puyo CD Tsuu | 250297 | [250297-puyo-puyo-cd-tsuu.json](./250297-puyo-puyo-cd-tsuu.json) |
 | Puyo Puyo Fever Habanero | 252125 | [252125-puyo-puyo-fever-habanero.json](./252125-puyo-puyo-fever-habanero.json) |
 | Puyo Puyo Fever Rhythm | 252126 | [252126-puyo-puyo-fever-rhythm.json](./252126-puyo-puyo-fever-rhythm.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
