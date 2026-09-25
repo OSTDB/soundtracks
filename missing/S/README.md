@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Girl | 114277 | [114277-seek-girl.json](./114277-seek-girl.json) |
 | Seek Girl: Charming Girl | 171014 | [171014-seek-girl-charming-girl.json](./171014-seek-girl-charming-girl.json) |
 | Seek Magician | 144924 | [144924-seek-magician.json](./144924-seek-magician.json) |
+| Seek the Resources | 246365 | [246365-seek-the-resources.json](./246365-seek-the-resources.json) |
 | Seek Wife | 154402 | [154402-seek-wife.json](./154402-seek-wife.json) |
 | Seekboss | 285513 | [285513-seekboss.json](./285513-seekboss.json) |
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
@@ -5410,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Car Rivals | 230579 | [230579-slot-car-rivals.json](./230579-slot-car-rivals.json) |
 | Slot Gun | 311124 | [311124-slot-gun.json](./311124-slot-gun.json) |
+| Slot Machine | 246380 | [246380-slot-machine.json](./246380-slot-machine.json) |
 | Slot Machine | 325548 | [325548-slot-machine.json](./325548-slot-machine.json) |
 | Slot Machine | 366920 | [366920-slot-machine.json](./366920-slot-machine.json) |
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
@@ -11522,6 +11524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SudoKats | 164995 | [164995-sudokats.json](./164995-sudokats.json) |
 | Sudokku Elite Collection | 58256 | [58256-sudokku-elite-collection.json](./58256-sudokku-elite-collection.json) |
 | Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
+| Sudoku | 246366 | [246366-sudoku.json](./246366-sudoku.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
 | Sudoku | 397667 | [397667-sudoku.json](./397667-sudoku.json) |
 | Sudoku | 86840 | [86840-sudoku.json](./86840-sudoku.json) |
@@ -12794,6 +12797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Morial Arms | 13092 | [13092-super-morial-arms.json](./13092-super-morial-arms.json) |
 | Super Motherload | 20078 | [20078-super-motherload.json](./20078-super-motherload.json) |
 | Super Move Fun | 246421 | [246421-super-move-fun.json](./246421-super-move-fun.json) |
+| Super Move Quest | 246367 | [246367-super-move-quest.json](./246367-super-move-quest.json) |
 | Super Move Quest | 358909 | [358909-super-move-quest.json](./358909-super-move-quest.json) |
 | Super Movie Tycoon | 346616 | [346616-super-movie-tycoon.json](./346616-super-movie-tycoon.json) |
 | Super Mr. Kake | 55480 | [55480-super-mr-kake.json](./55480-super-mr-kake.json) |
