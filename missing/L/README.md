@@ -1905,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
 | Lightning Fighter | 335329 | [335329-lightning-fighter.json](./335329-lightning-fighter.json) |
 | Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
+| Lightning Plan | 246344 | [246344-lightning-plan.json](./246344-lightning-plan.json) |
 | Lightning Returns: Final Fantasy XIII | 2449 | [2449-lightning-returns-final-fantasy-xiii.json](./2449-lightning-returns-final-fantasy-xiii.json) |
 | Lightning: D-Day | 47984 | [47984-lightning-d-day.json](./47984-lightning-d-day.json) |
 | Lighton | 148895 | [148895-lighton.json](./148895-lighton.json) |
