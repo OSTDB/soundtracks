@@ -1807,6 +1807,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baxter's Venture: Director's Cut | 34851 | [34851-baxters-venture-directors-cut.json](./34851-baxters-venture-directors-cut.json) |
 | Bay Route | 39616 | [39616-bay-route.json](./39616-bay-route.json) |
 | Bayala: The Game | 124134 | [124134-bayala-the-game.json](./124134-bayala-the-game.json) |
+| Bayern Munich Club Football | 267885 | [267885-bayern-munich-club-football.json](./267885-bayern-munich-club-football.json) |
+| Bayern Munich Club Football 2005 | 267901 | [267901-bayern-munich-club-football-2005.json](./267901-bayern-munich-club-football-2005.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
 | Bazaar | 19033 | [19033-bazaar.json](./19033-bazaar.json) |
@@ -2624,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond A Steel Sky: Utopia Edition | 170029 | [170029-beyond-a-steel-sky-utopia-edition.json](./170029-beyond-a-steel-sky-utopia-edition.json) |
 | Beyond Arm's Reach | 65784 | [65784-beyond-arms-reach.json](./65784-beyond-arms-reach.json) |
 | Beyond Astra | 319187 | [319187-beyond-astra.json](./319187-beyond-astra.json) |
+| Beyond Beco World | 267886 | [267886-beyond-beco-world.json](./267886-beyond-beco-world.json) |
 | Beyond Border | 317417 | [317417-beyond-border.json](./317417-beyond-border.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
 | Beyond Citadel | 322842 | [322842-beyond-citadel.json](./322842-beyond-citadel.json) |
@@ -3195,7 +3198,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | Birkanoid | 178547 | [178547-birkanoid.json](./178547-birkanoid.json) |
+| Birmingham City Club Football 2005 | 267894 | [267894-birmingham-city-club-football-2005.json](./267894-birmingham-city-club-football-2005.json) |
 | Birmingham's Ghosts: Fear and Loathing | 248675 | [248675-birminghams-ghosts-fear-and-loathing.json](./248675-birminghams-ghosts-fear-and-loathing.json) |
+| Birola World | 267903 | [267903-birola-world.json](./267903-birola-world.json) |
 | Birth of Rome: Alea Jacta Est | 62138 | [62138-birth-of-rome-alea-jacta-est.json](./62138-birth-of-rome-alea-jacta-est.json) |
 | Birth of Shadows | 34490 | [34490-birth-of-shadows.json](./34490-birth-of-shadows.json) |
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
@@ -3464,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Survival: Return to Lumia | 282115 | [282115-black-survival-return-to-lumia.json](./282115-black-survival-return-to-lumia.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
 | Black the Fall | 17555 | [17555-black-the-fall.json](./17555-black-the-fall.json) |
+| Black Touch '96 | 267981 | [267981-black-touch-96.json](./267981-black-touch-96.json) |
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
 | Black Well Devil | 410331 | [410331-black-well-devil.json](./410331-black-well-devil.json) |
@@ -4887,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo's There? | 280317 | [280317-boos-there.json](./280317-boos-there.json) |
 | Boo's Treat | 318551 | [318551-boos-treat.json](./318551-boos-treat.json) |
 | Booble Hentai | 149432 | [149432-booble-hentai.json](./149432-booble-hentai.json) |
+| Boobs | 268499 | [268499-boobs.json](./268499-boobs.json) |
 | Boobs | 344551 | [344551-boobs.json](./344551-boobs.json) |
 | Boobs Hidden Los Angeles | 320329 | [320329-boobs-hidden-los-angeles.json](./320329-boobs-hidden-los-angeles.json) |
 | Boobs on Island | 97179 | [97179-boobs-on-island.json](./97179-boobs-on-island.json) |
@@ -5085,6 +5092,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borrowed Light | 402503 | [402503-borrowed-light.json](./402503-borrowed-light.json) |
 | Borrowed Time | 12259 | [12259-borrowed-time.json](./12259-borrowed-time.json) |
 | Borstal | 33241 | [33241-borstal.json](./33241-borstal.json) |
+| Borussia Dortmund Club Football | 267884 | [267884-borussia-dortmund-club-football.json](./267884-borussia-dortmund-club-football.json) |
+| Borussia Dortmund Club Football 2005 | 267893 | [267893-borussia-dortmund-club-football-2005.json](./267893-borussia-dortmund-club-football-2005.json) |
 | Bosconian in 3-D | 378436 | [378436-bosconian-in-3-d.json](./378436-bosconian-in-3-d.json) |
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
 | Boshi Techou DS with 'Akachan Massage' | 269669 | [269669-boshi-techou-ds-with-akachan-massage.json](./269669-boshi-techou-ds-with-akachan-massage.json) |
