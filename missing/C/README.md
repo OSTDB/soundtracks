@@ -4685,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Weapon | 224084 | [224084-combat-weapon.json](./224084-combat-weapon.json) |
 | Combat Wings | 138170 | [138170-combat-wings.json](./138170-combat-wings.json) |
 | Combat Wings: Battle of Britain | 9800 | [9800-combat-wings-battle-of-britain.json](./9800-combat-wings-battle-of-britain.json) |
+| Combat Zone | 265594 | [265594-combat-zone.json](./265594-combat-zone.json) |
 | Combat Zone | 370794 | [370794-combat-zone.json](./370794-combat-zone.json) |
 | Combatant | 193407 | [193407-combatant.json](./193407-combatant.json) |
 | Combi Pool | 291603 | [291603-combi-pool.json](./291603-combi-pool.json) |
