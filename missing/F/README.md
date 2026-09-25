@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
 | Fearwoods | 388421 | [388421-fearwoods.json](./388421-fearwoods.json) |
 | Feast of the Beast: Unleashed | 381697 | [381697-feast-of-the-beast-unleashed.json](./381697-feast-of-the-beast-unleashed.json) |
+| Feast or Fracture | 274459 | [274459-feast-or-fracture.json](./274459-feast-or-fracture.json) |
 | Feast Your Eyes | 138580 | [138580-feast-your-eyes.json](./138580-feast-your-eyes.json) |
 | Feast: Book One - Family Ties | 137036 | [137036-feast-book-one-family-ties.json](./137036-feast-book-one-family-ties.json) |
 | FeastTower | 277298 | [277298-feasttower.json](./277298-feasttower.json) |
