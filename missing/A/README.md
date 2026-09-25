@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aldriak: The Advent of a New World | 149569 | [149569-aldriak-the-advent-of-a-new-world.json](./149569-aldriak-the-advent-of-a-new-world.json) |
 | Aldro | 247747 | [247747-aldro.json](./247747-aldro.json) |
 | Aldroy: Chapter 1 | 133959 | [133959-aldroy-chapter-1.json](./133959-aldroy-chapter-1.json) |
+| Ale & Aftercare | 262304 | [262304-ale-and-aftercare.json](./262304-ale-and-aftercare.json) |
 | Ale Abbey | 305173 | [305173-ale-abbey.json](./305173-ale-abbey.json) |
 | Alea | 86551 | [86551-alea.json](./86551-alea.json) |
 | Alea Jacta Est: Birth of Rome | 169292 | [169292-alea-jacta-est-birth-of-rome.json](./169292-alea-jacta-est-birth-of-rome.json) |
