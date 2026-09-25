@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
+| Mario in Japan | 275630 | [275630-mario-in-japan.json](./275630-mario-in-japan.json) |
 | Mario In Mushroom Rix Land | 265658 | [265658-mario-in-mushroom-rix-land.json](./265658-mario-in-mushroom-rix-land.json) |
 | Mario In Mushroom Rix Land 2: Gimmicky Island | 265659 | [265659-mario-in-mushroom-rix-land-2-gimmicky-island.json](./265659-mario-in-mushroom-rix-land-2-gimmicky-island.json) |
 | Mario In Mushroom Rix Land 3: Master Thwomps Avenge | 265660 | [265660-mario-in-mushroom-rix-land-3-master-thwomps-avenge.json](./265660-mario-in-mushroom-rix-land-3-master-thwomps-avenge.json) |
@@ -4424,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
 | Mimi's Restaurant helper | 387678 | [387678-mimis-restaurant-helper.json](./387678-mimis-restaurant-helper.json) |
+| Mimic | 275683 | [275683-mimic.json](./275683-mimic.json) |
 | Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
 | Mimic | 359605 | [359605-mimic.json](./359605-mimic.json) |
 | Mimic | 80902 | [80902-mimic.json](./80902-mimic.json) |
@@ -4502,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
 | Mindcell | 166159 | [166159-mindcell.json](./166159-mindcell.json) |
+| Mindcircus | 275644 | [275644-mindcircus.json](./275644-mindcircus.json) |
 | Mindcop | 137044 | [137044-mindcop.json](./137044-mindcop.json) |
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
@@ -6893,6 +6896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Meaty: Treasures of the Deep (Fryer, That Is!) | 320750 | [320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json](./320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json) |
 | Mr. Men & Little Miss: Adventures in Dillydale | 243279 | [243279-mr-men-and-little-miss-adventures-in-dillydale.json](./243279-mr-men-and-little-miss-adventures-in-dillydale.json) |
 | Mr. Men & Little Miss: Mr. Messy and the Missing Sock | 243272 | [243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json](./243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json) |
+| Mr. Mix | 275669 | [275669-mr-mix.json](./275669-mr-mix.json) |
 | Mr. Mix | 276278 | [276278-mr-mix.json](./276278-mr-mix.json) |
 | Mr. Mosquito | 246473 | [246473-mr-mosquito.json](./246473-mr-mosquito.json) |
 | Mr. Mower | 236380 | [236380-mr-mower.json](./236380-mr-mower.json) |
