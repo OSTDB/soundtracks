@@ -3507,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers in a Dangerous Spacetime | 12520 | [12520-lovers-in-a-dangerous-spacetime.json](./12520-lovers-in-a-dangerous-spacetime.json) |
 | Lovers in Playa Rosa | 241374 | [241374-lovers-in-playa-rosa.json](./241374-lovers-in-playa-rosa.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
+| LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
 | Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
 | Loving Zurine | 83222 | [83222-loving-zurine.json](./83222-loving-zurine.json) |
