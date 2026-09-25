@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Pinball Champ Deluxe Pinball Table | 349919 | [349919-zaccaria-pinball-pinball-champ-deluxe-pinball-table.json](./349919-zaccaria-pinball-pinball-champ-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Pool Champion 2018 Table | 156105 | [156105-zaccaria-pinball-pool-champion-2018-table.json](./156105-zaccaria-pinball-pool-champion-2018-table.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
+| Zaccaria Pinball: Remake Table Pack 3 | 237905 | [237905-zaccaria-pinball-remake-table-pack-3.json](./237905-zaccaria-pinball-remake-table-pack-3.json) |
 | Zaccaria Pinball: Shooting the Rapids | 156099 | [156099-zaccaria-pinball-shooting-the-rapids.json](./156099-zaccaria-pinball-shooting-the-rapids.json) |
 | Zaccaria Pinball: Shooting the Rapids - 2016 Table | 344575 | [344575-zaccaria-pinball-shooting-the-rapids-2016-table.json](./344575-zaccaria-pinball-shooting-the-rapids-2016-table.json) |
 | Zaccaria Pinball: Shooting the Rapids Deluxe Pinball Table | 349920 | [349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json](./349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json) |
@@ -729,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Walking: VIP | 95827 | [95827-zombie-walking-vip.json](./95827-zombie-walking-vip.json) |
 | Zombie War | 187378 | [187378-zombie-war.json](./187378-zombie-war.json) |
 | Zombie War | 411138 | [411138-zombie-war.json](./411138-zombie-war.json) |
+| Zombie Warz | 238459 | [238459-zombie-warz.json](./238459-zombie-warz.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
 | Zombie Woods | 283859 | [283859-zombie-woods.json](./283859-zombie-woods.json) |
 | Zombie Zombie | 316091 | [316091-zombie-zombie.json](./316091-zombie-zombie.json) |
