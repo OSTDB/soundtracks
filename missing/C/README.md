@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
 | Candy land | 154401 | [154401-candy-land.json](./154401-candy-land.json) |
 | Candy Land / Chutes & Ladders / Original Memory Game | 91423 | [91423-candy-land-chutes-and-ladders-original-memory-game.json](./91423-candy-land-chutes-and-ladders-original-memory-game.json) |
+| Candy Land Adventure | 261301 | [261301-candy-land-adventure.json](./261301-candy-land-adventure.json) |
 | Candy Land: Sugary Sprint | 384054 | [384054-candy-land-sugary-sprint.json](./384054-candy-land-sugary-sprint.json) |
 | Candy Legend | 105784 | [105784-candy-legend.json](./105784-candy-legend.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
@@ -1038,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Overload | 337099 | [337099-carrot-overload.json](./337099-carrot-overload.json) |
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
 | Carrot Slime 2 | 159125 | [159125-carrot-slime-2.json](./159125-carrot-slime-2.json) |
+| Carrot the Cat | 261314 | [261314-carrot-the-cat.json](./261314-carrot-the-cat.json) |
 | Carrot: Pancakes and Waffles | 201676 | [201676-carrot-pancakes-and-waffles.json](./201676-carrot-pancakes-and-waffles.json) |
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
 | Carrots and Cream | 22414 | [22414-carrots-and-cream.json](./22414-carrots-and-cream.json) |
@@ -3316,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
 | Circolour | 107239 | [107239-circolour.json](./107239-circolour.json) |
 | Circuit Blasters | 221294 | [221294-circuit-blasters.json](./221294-circuit-blasters.json) |
+| Circuit Breaker | 261233 | [261233-circuit-breaker.json](./261233-circuit-breaker.json) |
 | Circuit Breaker | 364570 | [364570-circuit-breaker.json](./364570-circuit-breaker.json) |
 | Circuit City | 188676 | [188676-circuit-city.json](./188676-circuit-city.json) |
 | Circuit Defender | 211197 | [211197-circuit-defender.json](./211197-circuit-defender.json) |
@@ -4172,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: To Jin Yong | 208466 | [208466-code-to-jin-yong.json](./208466-code-to-jin-yong.json) |
 | Code: X | 174798 | [174798-code-x.json](./174798-code-x.json) |
 | Code::Lux | 372092 | [372092-code-lux.json](./372092-code-lux.json) |
+| Code.Zer0 | 261220 | [261220-code-zer0.json](./261220-code-zer0.json) |
 | Code/The Werewolf Party | 120927 | [120927-code-the-werewolf-party.json](./120927-code-the-werewolf-party.json) |
 | Code5erpent | 281998 | [281998-code5erpent.json](./281998-code5erpent.json) |
 | Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
@@ -6363,6 +6367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyKart | 117720 | [117720-crazykart.json](./117720-crazykart.json) |
 | Crazyracing Kartrider | 91272 | [91272-crazyracing-kartrider.json](./91272-crazyracing-kartrider.json) |
 | CrazyTaiji | 390797 | [390797-crazytaiji.json](./390797-crazytaiji.json) |
+| CrazyTV | 261225 | [261225-crazytv.json](./261225-crazytv.json) |
 | Crazzers | 89957 | [89957-crazzers.json](./89957-crazzers.json) |
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
 | Creaks | 110834 | [110834-creaks.json](./110834-creaks.json) |
@@ -6905,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusade in Europe | 25922 | [25922-crusade-in-europe.json](./25922-crusade-in-europe.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
 | Crusade of Destiny | 66721 | [66721-crusade-of-destiny.json](./66721-crusade-of-destiny.json) |
+| Crusade to Die | 261226 | [261226-crusade-to-die.json](./261226-crusade-to-die.json) |
 | Crusader | 262989 | [262989-crusader.json](./262989-crusader.json) |
 | Crusader Kings | 2922 | [2922-crusader-kings.json](./2922-crusader-kings.json) |
 | Crusader Kings Complete | 25415 | [25415-crusader-kings-complete.json](./25415-crusader-kings-complete.json) |
@@ -7603,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Demon Crashers! | 58801 | [58801-cute-demon-crashers.json](./58801-cute-demon-crashers.json) |
 | Cute Diana | 402493 | [402493-cute-diana.json](./402493-cute-diana.json) |
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
+| Cute Fames Adventure | 261214 | [261214-cute-fames-adventure.json](./261214-cute-fames-adventure.json) |
 | Cute Fighter | 201168 | [201168-cute-fighter.json](./201168-cute-fighter.json) |
 | Cute Finders | 381700 | [381700-cute-finders.json](./381700-cute-finders.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
@@ -7840,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg3003 | 261760 | [261760-cyborg3003.json](./261760-cyborg3003.json) |
 | Cybotron | 13835 | [13835-cybotron.json](./13835-cybotron.json) |
 | Cybrid | 154359 | [154359-cybrid.json](./154359-cybrid.json) |
+| Cybrix | 261213 | [261213-cybrix.json](./261213-cybrix.json) |
 | Cybro | 389732 | [389732-cybro.json](./389732-cybro.json) |
 | Cycene | 334851 | [334851-cycene.json](./334851-cycene.json) |
 | Cyclanoid | 57679 | [57679-cyclanoid.json](./57679-cyclanoid.json) |
