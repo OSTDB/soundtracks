@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake Champions | 19530 | [19530-quake-champions.json](./19530-quake-champions.json) |
 | Quake Champions: Classic | 366933 | [366933-quake-champions-classic.json](./366933-quake-champions-classic.json) |
 | Quake Combat+ | 357435 | [357435-quake-combat.json](./357435-quake-combat.json) |
+| Quake Condensed | 271776 | [271776-quake-condensed.json](./271776-quake-condensed.json) |
 | Quake II | 261085 | [261085-quake-ii.json](./261085-quake-ii.json) |
 | Quake II | 332259 | [332259-quake-ii.json](./332259-quake-ii.json) |
 | Quake II: Colossus | 200673 | [200673-quake-ii-colossus.json](./200673-quake-ii-colossus.json) |
