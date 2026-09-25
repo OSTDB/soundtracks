@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Election Year Knockout: Boxing | 264012 | [264012-election-year-knockout-boxing.json](./264012-election-year-knockout-boxing.json) |
 | Electoral Carnage | 350040 | [350040-electoral-carnage.json](./350040-electoral-carnage.json) |
 | Electoral Dynasty | 276246 | [276246-electoral-dynasty.json](./276246-electoral-dynasty.json) |
+| Electra | 229640 | [229640-electra.json](./229640-electra.json) |
 | Electra | 78377 | [78377-electra.json](./78377-electra.json) |
 | Electric Crayon 3.1: At the Zoo | 68970 | [68970-electric-crayon-3-1-at-the-zoo.json](./68970-electric-crayon-3-1-at-the-zoo.json) |
 | Electric Crayon Deluxe: Dinosaurs Are Forever | 71765 | [71765-electric-crayon-deluxe-dinosaurs-are-forever.json](./71765-electric-crayon-deluxe-dinosaurs-are-forever.json) |
