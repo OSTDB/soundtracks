@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obelisk | 130194 | [130194-obelisk.json](./130194-obelisk.json) |
 | Obelus Manor | 374844 | [374844-obelus-manor.json](./374844-obelus-manor.json) |
 | Obenseuer | 111983 | [111983-obenseuer.json](./111983-obenseuer.json) |
+| Oberak | 270146 | [270146-oberak.json](./270146-oberak.json) |
 | Obergenie | 339371 | [339371-obergenie.json](./339371-obergenie.json) |
 | Oberion: Arena Arcana | 381678 | [381678-oberion-arena-arcana.json](./381678-oberion-arena-arcana.json) |
 | Obesity Simulator | 264705 | [264705-obesity-simulator.json](./264705-obesity-simulator.json) |
