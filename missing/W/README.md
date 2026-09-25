@@ -3467,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckin' Raccoon | 371475 | [371475-wreckin-raccoon.json](./371475-wreckin-raccoon.json) |
 | Wrecking Ball | 73514 | [73514-wrecking-ball.json](./73514-wrecking-ball.json) |
 | Wrecking Crew | 41420 | [41420-wrecking-crew.json](./41420-wrecking-crew.json) |
+| Wreckman | 268516 | [268516-wreckman.json](./268516-wreckman.json) |
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
 | Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
 | Wrekless | 304739 | [304739-wrekless.json](./304739-wrekless.json) |
