@@ -4927,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonnie Blob in Shapeville | 323368 | [323368-bonnie-blob-in-shapeville.json](./323368-bonnie-blob-in-shapeville.json) |
 | Bonnie Fell | 329113 | [329113-bonnie-fell.json](./329113-bonnie-fell.json) |
 | Bonnie's Bakery | 219034 | [219034-bonnies-bakery.json](./219034-bonnies-bakery.json) |
+| Bonnie's Bookstore | 248604 | [248604-bonnies-bookstore.json](./248604-bonnies-bookstore.json) |
 | Bonnie's Bookstore | 3757 | [3757-bonnies-bookstore.json](./3757-bonnies-bookstore.json) |
 | Bonsai Calendar | 142859 | [142859-bonsai-calendar.json](./142859-bonsai-calendar.json) |
 | BonVoyage! | 118785 | [118785-bonvoyage.json](./118785-bonvoyage.json) |
@@ -5631,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz Ponyz 2 | 94733 | [94733-bratz-ponyz-2.json](./94733-bratz-ponyz-2.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
+| Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
 | Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
 | Brave Battle Saga the Space Fighter | 45542 | [45542-brave-battle-saga-the-space-fighter.json](./45542-brave-battle-saga-the-space-fighter.json) |
