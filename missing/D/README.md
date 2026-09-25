@@ -2307,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demigod | 9279 | [9279-demigod.json](./9279-demigod.json) |
 | Demigod Idle: Rise of a legend | 265426 | [265426-demigod-idle-rise-of-a-legend.json](./265426-demigod-idle-rise-of-a-legend.json) |
 | Demigod Islands: A Puzzle to Die For | 390620 | [390620-demigod-islands-a-puzzle-to-die-for.json](./390620-demigod-islands-a-puzzle-to-die-for.json) |
+| Demigod Kiugi | 245267 | [245267-demigod-kiugi.json](./245267-demigod-kiugi.json) |
 | Demigods | 34304 | [34304-demigods.json](./34304-demigods.json) |
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dengen Tenshi Taisen Mahjong Shangri-La | 131571 | [131571-dengen-tenshi-taisen-mahjong-shangri-la.json](./131571-dengen-tenshi-taisen-mahjong-shangri-la.json) |
 | Denis Through the Drinking Glass | 73823 | [73823-denis-through-the-drinking-glass.json](./73823-denis-through-the-drinking-glass.json) |
 | Denki Blocks! | 49155 | [49155-denki-blocks.json](./49155-denki-blocks.json) |
+| Dennis Miller: That's Geek to Me | 245252 | [245252-dennis-miller-thats-geek-to-me.json](./245252-dennis-miller-thats-geek-to-me.json) |
 | Dennis Miller: That's News to Me | 39019 | [39019-dennis-miller-thats-news-to-me.json](./39019-dennis-miller-thats-news-to-me.json) |
 | Dennis og Bellini: De forsvundne kaniner | 91450 | [91450-dennis-og-bellini-de-forsvundne-kaniner.json](./91450-dennis-og-bellini-de-forsvundne-kaniner.json) |
 | Dennis og Bellini: Onkel Bellinis hemmeligheder | 91453 | [91453-dennis-og-bellini-onkel-bellinis-hemmeligheder.json](./91453-dennis-og-bellini-onkel-bellinis-hemmeligheder.json) |
@@ -3247,7 +3249,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Gekirin III | 137458 | [137458-die-gekirin-iii.json](./137458-die-gekirin-iii.json) |
 | Die goldene Maske | 141154 | [141154-die-goldene-maske.json](./141154-die-goldene-maske.json) |
 | Die Große Jump & Run-Box | 93971 | [93971-die-gro-e-jump-and-run-box.json](./93971-die-gro-e-jump-and-run-box.json) |
+| Die Hard | 245290 | [245290-die-hard.json](./245290-die-hard.json) |
 | Die Hard | 72331 | [72331-die-hard.json](./72331-die-hard.json) |
+| Die Hard 2: Die Harder | 245291 | [245291-die-hard-2-die-harder.json](./245291-die-hard-2-die-harder.json) |
 | Die Hard 64 | 136862 | [136862-die-hard-64.json](./136862-die-hard-64.json) |
 | Die Hard Arcade | 39527 | [39527-die-hard-arcade.json](./39527-die-hard-arcade.json) |
 | Die Hard Trilogy | 8234 | [8234-die-hard-trilogy.json](./8234-die-hard-trilogy.json) |
@@ -3269,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
 | Die Türme von Hanoi | 93349 | [93349-die-turme-von-hanoi.json](./93349-die-turme-von-hanoi.json) |
 | Die ultimative Brettspiele-Sammlung: Die beliebtesten Brettspiele für die ganze Familie | 337723 | [337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json](./337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json) |
+| Die-Rise | 245277 | [245277-die-rise.json](./245277-die-rise.json) |
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
 | Die, Pablo! | 270119 | [270119-die-pablo.json](./270119-die-pablo.json) |
 | Dieathlon | 410981 | [410981-dieathlon.json](./410981-dieathlon.json) |
@@ -3377,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digit Daze | 101350 | [101350-digit-daze.json](./101350-digit-daze.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
+| Digital Bojangles Saga HD Remaster | 245255 | [245255-digital-bojangles-saga-hd-remaster.json](./245255-digital-bojangles-saga-hd-remaster.json) |
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
 | Digital City | 260209 | [260209-digital-city.json](./260209-digital-city.json) |
@@ -3732,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Bullets | 122371 | [122371-disco-bullets.json](./122371-disco-bullets.json) |
+| Disco Dave | 245257 | [245257-disco-dave.json](./245257-disco-dave.json) |
 | Disco Duck | 366317 | [366317-disco-duck.json](./366317-disco-duck.json) |
 | Disco Elysium | 335434 | [335434-disco-elysium.json](./335434-disco-elysium.json) |
 | Disco Elysium: Game Boy Edition | 140050 | [140050-disco-elysium-game-boy-edition.json](./140050-disco-elysium-game-boy-edition.json) |
