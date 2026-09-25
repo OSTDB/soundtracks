@@ -4696,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Platformers | 193422 | [193422-coloring-pixels-platformers.json](./193422-coloring-pixels-platformers.json) |
 | Coloring Pixels: Realistic 2 Pack | 351623 | [351623-coloring-pixels-realistic-2-pack.json](./351623-coloring-pixels-realistic-2-pack.json) |
 | Coloring Pixels: Retro Pack | 194648 | [194648-coloring-pixels-retro-pack.json](./194648-coloring-pixels-retro-pack.json) |
+| Coloring Pixels: Steampunk Pack | 231329 | [231329-coloring-pixels-steampunk-pack.json](./231329-coloring-pixels-steampunk-pack.json) |
 | Coloring Pixels: Vistas Pack 3 | 305513 | [305513-coloring-pixels-vistas-pack-3.json](./305513-coloring-pixels-vistas-pack-3.json) |
 | Coloring Pixels: Zodiac Pack | 351625 | [351625-coloring-pixels-zodiac-pack.json](./351625-coloring-pixels-zodiac-pack.json) |
 | Coloring Voxels: Advent Pack | 384090 | [384090-coloring-voxels-advent-pack.json](./384090-coloring-voxels-advent-pack.json) |
@@ -8007,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberVerse | 345103 | [345103-cyberverse.json](./345103-cyberverse.json) |
 | CyberVirus | 153842 | [153842-cybervirus.json](./153842-cybervirus.json) |
 | Cybervoid | 339999 | [339999-cybervoid.json](./339999-cybervoid.json) |
+| Cyberwar: Neon City | 231308 | [231308-cyberwar-neon-city.json](./231308-cyberwar-neon-city.json) |
 | Cyberwave | 310571 | [310571-cyberwave.json](./310571-cyberwave.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
