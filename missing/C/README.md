@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargogo | 351260 | [351260-cargogo.json](./351260-cargogo.json) |
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
+| Caribbean Stud | 246378 | [246378-caribbean-stud.json](./246378-caribbean-stud.json) |
 | Caring Critter Bundle | 328565 | [328565-caring-critter-bundle.json](./328565-caring-critter-bundle.json) |
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
@@ -4312,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Counter | 346794 | [346794-coin-counter.json](./346794-coin-counter.json) |
 | Coin Crypt | 14570 | [14570-coin-crypt.json](./14570-coin-crypt.json) |
 | Coin Dash | 149414 | [149414-coin-dash.json](./149414-coin-dash.json) |
+| Coin Digger | 246349 | [246349-coin-digger.json](./246349-coin-digger.json) |
 | Coin Drop | 58196 | [58196-coin-drop.json](./58196-coin-drop.json) |
 | Coin Exchange Craze | 275356 | [275356-coin-exchange-craze.json](./275356-coin-exchange-craze.json) |
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
