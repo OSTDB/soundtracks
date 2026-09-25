@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Fill Up the Hole | 346799 | [346799-fill-up-the-hole.json](./346799-fill-up-the-hole.json) |
 | Fille Fatale Compassion | 388211 | [388211-fille-fatale-compassion.json](./388211-fille-fatale-compassion.json) |
+| Filler | 261210 | [261210-filler.json](./261210-filler.json) |
 | Fillet Fury | 337288 | [337288-fillet-fury.json](./337288-fillet-fury.json) |
 | FillGood | 415266 | [415266-fillgood.json](./415266-fillgood.json) |
 | Filluminate | 401768 | [401768-filluminate.json](./401768-filluminate.json) |
@@ -4895,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
 | Fruit Blade | 268018 | [268018-fruit-blade.json](./268018-fruit-blade.json) |
 | Fruit Bonanza | 195698 | [195698-fruit-bonanza.json](./195698-fruit-bonanza.json) |
+| Fruit Box | 261223 | [261223-fruit-box.json](./261223-fruit-box.json) |
 | Fruit Box Idle | 391746 | [391746-fruit-box-idle.json](./391746-fruit-box-idle.json) |
 | Fruit Candypop | 334755 | [334755-fruit-candypop.json](./334755-fruit-candypop.json) |
 | Fruit Catcher | 397067 | [397067-fruit-catcher.json](./397067-fruit-catcher.json) |
