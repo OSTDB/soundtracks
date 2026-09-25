@@ -1548,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetus in Oil Painting | 279136 | [279136-fetus-in-oil-painting.json](./279136-fetus-in-oil-painting.json) |
 | Feud | 113037 | [113037-feud.json](./113037-feud.json) |
 | Feud | 12094 | [12094-feud.json](./12094-feud.json) |
+| Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Fey | 388975 | [388975-fey.json](./388975-fey.json) |
@@ -1711,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
 | Fight 4 Flight | 98468 | [98468-fight-4-flight.json](./98468-fight-4-flight.json) |
 | Fight Angels | 125977 | [125977-fight-angels.json](./125977-fight-angels.json) |
+| Fight Arena Online | 239628 | [239628-fight-arena-online.json](./239628-fight-arena-online.json) |
 | Fight Ball VR | 120924 | [120924-fight-ball-vr.json](./120924-fight-ball-vr.json) |
 | Fight Bingo | 265185 | [265185-fight-bingo.json](./265185-fight-bingo.json) |
 | Fight Bots | 154361 | [154361-fight-bots.json](./154361-fight-bots.json) |
@@ -4247,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | Foxingdale: The Magical Stones of Kentaroo | 273492 | [273492-foxingdale-the-magical-stones-of-kentaroo.json](./273492-foxingdale-the-magical-stones-of-kentaroo.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
+| FoxTrotte | 239627 | [239627-foxtrotte.json](./239627-foxtrotte.json) |
 | Foxventures | 235763 | [235763-foxventures.json](./235763-foxventures.json) |
 | Foxx Fights Back | 13851 | [13851-foxx-fights-back.json](./13851-foxx-fights-back.json) |
 | Foxy Dumplings | 386440 | [386440-foxy-dumplings.json](./386440-foxy-dumplings.json) |
