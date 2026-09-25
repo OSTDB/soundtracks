@@ -1524,6 +1524,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Jump 2 | 101536 | [101536-helix-jump-2.json](./101536-helix-jump-2.json) |
 | Helix Jump Down | 102106 | [102106-helix-jump-down.json](./102106-helix-jump-down.json) |
 | Helix Jump: Complete Edition | 283173 | [283173-helix-jump-complete-edition.json](./283173-helix-jump-complete-edition.json) |
+| Helix Jump: Letter Madness | 277896 | [277896-helix-jump-letter-madness.json](./277896-helix-jump-letter-madness.json) |
+| Helix Jump: Party Skins | 277898 | [277898-helix-jump-party-skins.json](./277898-helix-jump-party-skins.json) |
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
@@ -1541,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Forest | 411794 | [411794-hell-forest.json](./411794-hell-forest.json) |
 | Hell Forged | 141139 | [141139-hell-forged.json](./141139-hell-forged.json) |
 | Hell Froze Over | 342151 | [342151-hell-froze-over.json](./342151-hell-froze-over.json) |
+| Hell Galaxy | 277918 | [277918-hell-galaxy.json](./277918-hell-galaxy.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
 | Hell Guide | 130852 | [130852-hell-guide.json](./130852-hell-guide.json) |
@@ -2008,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Complete + | 324452 | [324452-hentai-stars-complete.json](./324452-hentai-stars-complete.json) |
 | Hentai Stars: Complete Edition | 288282 | [288282-hentai-stars-complete-edition.json](./288282-hentai-stars-complete-edition.json) |
 | Hentai Stars: Deluxe Edition | 268561 | [268561-hentai-stars-deluxe-edition.json](./268561-hentai-stars-deluxe-edition.json) |
+| Hentai Stars: Extended Edition | 277907 | [277907-hentai-stars-extended-edition.json](./277907-hentai-stars-extended-edition.json) |
 | Hentai Stars: Lonely Kitty Ran | 288299 | [288299-hentai-stars-lonely-kitty-ran.json](./288299-hentai-stars-lonely-kitty-ran.json) |
 | Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
 | Hentai Stars: Shy Fox Ayame | 288293 | [288293-hentai-stars-shy-fox-ayame.json](./288293-hentai-stars-shy-fox-ayame.json) |
@@ -2085,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: Maid Madness | 288915 | [288915-hentai-maid-madness.json](./288915-hentai-maid-madness.json) |
 | Hentai: Make Love Not War 2 | 283269 | [283269-hentai-make-love-not-war-2.json](./283269-hentai-make-love-not-war-2.json) |
 | Hentai: Nazi Girl | 327393 | [327393-hentai-nazi-girl.json](./327393-hentai-nazi-girl.json) |
+| Hentai: Nude Quest | 277922 | [277922-hentai-nude-quest.json](./277922-hentai-nude-quest.json) |
 | Hentai: Royal Quarters | 286543 | [286543-hentai-royal-quarters.json](./286543-hentai-royal-quarters.json) |
 | Hentai: Waifu World | 296950 | [296950-hentai-waifu-world.json](./296950-hentai-waifu-world.json) |
 | Hentaimon | 296946 | [296946-hentaimon.json](./296946-hentaimon.json) |
@@ -3691,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
 | Hooligan Crusoe | 283841 | [283841-hooligan-crusoe.json](./283841-hooligan-crusoe.json) |
+| Hooligan Simulator 2023: You vs. System | 277917 | [277917-hooligan-simulator-2023-you-vs-system.json](./277917-hooligan-simulator-2023-you-vs-system.json) |
 | Hooligan Vasja 2: Journey through time | 95177 | [95177-hooligan-vasja-2-journey-through-time.json](./95177-hooligan-vasja-2-journey-through-time.json) |
 | Hooligan Vasja: Halloween | 41899 | [41899-hooligan-vasja-halloween.json](./41899-hooligan-vasja-halloween.json) |
 | Hooligans: Storm Over Europe | 73846 | [73846-hooligans-storm-over-europe.json](./73846-hooligans-storm-over-europe.json) |
