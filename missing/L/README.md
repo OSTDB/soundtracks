@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Zombies | 302387 | [302387-land-of-zombies.json](./302387-land-of-zombies.json) |
 | Land of Zympaia | 132761 | [132761-land-of-zympaia.json](./132761-land-of-zympaia.json) |
 | Land War | 115639 | [115639-land-war.json](./115639-land-war.json) |
+| Land-io | 254444 | [254444-land-io.json](./254444-land-io.json) |
 | Land, Sea and Air 2! | 70362 | [70362-land-sea-and-air-2.json](./70362-land-sea-and-air-2.json) |
 | Land's End | 12883 | [12883-lands-end.json](./12883-lands-end.json) |
 | Landborne | 250036 | [250036-landborne.json](./250036-landborne.json) |
@@ -1546,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Fall: Swipe Letters | 233105 | [233105-letter-fall-swipe-letters.json](./233105-letter-fall-swipe-letters.json) |
 | Letter Land 2 | 97146 | [97146-letter-land-2.json](./97146-letter-land-2.json) |
 | Letter Lattice | 174190 | [174190-letter-lattice.json](./174190-letter-lattice.json) |
+| Letter League | 254445 | [254445-letter-league.json](./254445-letter-league.json) |
 | Letter Lost | 343275 | [343275-letter-lost.json](./343275-letter-lost.json) |
 | Letter Quest: Grimm's Journey | 17942 | [17942-letter-quest-grimms-journey.json](./17942-letter-quest-grimms-journey.json) |
 | Letter Rooms | 174217 | [174217-letter-rooms.json](./174217-letter-rooms.json) |
@@ -1677,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
 | Libros de Chilam Balam | 188075 | [188075-libros-de-chilam-balam.json](./188075-libros-de-chilam-balam.json) |
 | Libtard: The Satire Game | 138026 | [138026-libtard-the-satire-game.json](./138026-libtard-the-satire-game.json) |
+| Licačka | 254422 | [254422-licacka.json](./254422-licacka.json) |
 | Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
 | Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
 | Lichdom: Battlemage | 7443 | [7443-lichdom-battlemage.json](./7443-lichdom-battlemage.json) |
@@ -2737,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
 | Logix: The Missing Part | 301884 | [301884-logix-the-missing-part.json](./301884-logix-the-missing-part.json) |
 | Logos Panic: Goaisatu | 37942 | [37942-logos-panic-goaisatu.json](./37942-logos-panic-goaisatu.json) |
+| Logos Quiz | 254425 | [254425-logos-quiz.json](./254425-logos-quiz.json) |
 | Lohotronshchik: Crazy Loto | 280887 | [280887-lohotronshchik-crazy-loto.json](./280887-lohotronshchik-crazy-loto.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
@@ -3306,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Archer | 227261 | [227261-love-archer.json](./227261-love-archer.json) |
 | Love at First Sight | 35697 | [35697-love-at-first-sight.json](./35697-love-at-first-sight.json) |
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
+| Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
 | Love Collection 4-in-1 | 404259 | [404259-love-collection-4-in-1.json](./404259-love-collection-4-in-1.json) |
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
