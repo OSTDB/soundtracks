@@ -527,11 +527,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel BEM Hunter Lime | 264644 | [264644-jewel-bem-hunter-lime.json](./264644-jewel-bem-hunter-lime.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Drops 2 - Match three puzzle | 101637 | [101637-jewel-drops-2-match-three-puzzle.json](./101637-jewel-drops-2-match-three-puzzle.json) |
+| Jewel Fever | 246341 | [246341-jewel-fever.json](./246341-jewel-fever.json) |
 | Jewel Fever | 257466 | [257466-jewel-fever.json](./257466-jewel-fever.json) |
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
 | Jewel Link: Atlantic Quest | 401014 | [401014-jewel-link-atlantic-quest.json](./401014-jewel-link-atlantic-quest.json) |
 | Jewel Mania | 360069 | [360069-jewel-mania.json](./360069-jewel-mania.json) |
+| Jewel Master | 246342 | [246342-jewel-master.json](./246342-jewel-master.json) |
 | Jewel Master 3 | 358906 | [358906-jewel-master-3.json](./358906-jewel-master-3.json) |
 | Jewel Master Atlantis 3D | 85205 | [85205-jewel-master-atlantis-3d.json](./85205-jewel-master-atlantis-3d.json) |
 | Jewel Master: Cradle of Egypt | 88756 | [88756-jewel-master-cradle-of-egypt.json](./88756-jewel-master-cradle-of-egypt.json) |
@@ -1177,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Force: Character Pack 7 - Madara Uchiha | 167779 | [167779-jump-force-character-pack-7-madara-uchiha.json](./167779-jump-force-character-pack-7-madara-uchiha.json) |
 | Jump Force: Character Pack 8 - Grimmjow Jaegerjaquez | 167778 | [167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json](./167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json) |
 | Jump Force: Character Pack 9 - Trafalgar Law | 167776 | [167776-jump-force-character-pack-9-trafalgar-law.json](./167776-jump-force-character-pack-9-trafalgar-law.json) |
+| Jump Frog | 246343 | [246343-jump-frog.json](./246343-jump-frog.json) |
 | Jump Greed | 363563 | [363563-jump-greed.json](./363563-jump-greed.json) |
 | Jump Hero II: Jinsei wa Jabuun | 137620 | [137620-jump-hero-ii-jinsei-wa-jabuun.json](./137620-jump-hero-ii-jinsei-wa-jabuun.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
