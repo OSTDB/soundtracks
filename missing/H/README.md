@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hour | 200120 | [200120-haunted-hour.json](./200120-haunted-hour.json) |
 | Haunted House | 25196 | [25196-haunted-house.json](./25196-haunted-house.json) |
 | Haunted House | 258483 | [258483-haunted-house.json](./258483-haunted-house.json) |
+| Haunted House | 276244 | [276244-haunted-house.json](./276244-haunted-house.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted Ice Cream | 375940 | [375940-haunted-ice-cream.json](./375940-haunted-ice-cream.json) |
@@ -4509,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
 | Humble Rumble | 128371 | [128371-humble-rumble.json](./128371-humble-rumble.json) |
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
+| Hume Index | 276218 | [276218-hume-index.json](./276218-hume-index.json) |
 | Hummer Offroad Challenge | 23559 | [23559-hummer-offroad-challenge.json](./23559-hummer-offroad-challenge.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Humpsters | 71220 | [71220-humpsters.json](./71220-humpsters.json) |
@@ -4901,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
 | Hypno's Lullaby | 140537 | [140537-hypnos-lullaby.json](./140537-hypnos-lullaby.json) |
+| Hypnofantasis | 276228 | [276228-hypnofantasis.json](./276228-hypnofantasis.json) |
 | HypnoQuest: Do as you please with MC Power | 82779 | [82779-hypnoquest-do-as-you-please-with-mc-power.json](./82779-hypnoquest-do-as-you-please-with-mc-power.json) |
 | Hypnorynth | 323294 | [323294-hypnorynth.json](./323294-hypnorynth.json) |
 | Hypnosis Card 2 | 296917 | [296917-hypnosis-card-2.json](./296917-hypnosis-card-2.json) |
