@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Metamorphosis Candina | 409768 | [409768-re-metamorphosis-candina.json](./409768-re-metamorphosis-candina.json) |
 | Re:Mobilize Jam 3: Re:Frigerated | 393783 | [393783-re-mobilize-jam-3-re-frigerated.json](./393783-re-mobilize-jam-3-re-frigerated.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
+| Re:Night | 258952 | [258952-re-night.json](./258952-re-night.json) |
 | Re:Ozma | 118162 | [118162-re-ozma.json](./118162-re-ozma.json) |
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
 | Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
@@ -1341,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth | 345525 | [345525-rebirth.json](./345525-rebirth.json) |
 | Rebirth | 78571 | [78571-rebirth.json](./78571-rebirth.json) |
 | Rebirth Fantasy Online | 116306 | [116306-rebirth-fantasy-online.json](./116306-rebirth-fantasy-online.json) |
+| Rebirth Moment | 259032 | [259032-rebirth-moment.json](./259032-rebirth-moment.json) |
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
 | Rebirth of Island | 33348 | [33348-rebirth-of-island.json](./33348-rebirth-of-island.json) |
 | Rebirth of Myths: Dragonborn | 297616 | [297616-rebirth-of-myths-dragonborn.json](./297616-rebirth-of-myths-dragonborn.json) |
@@ -4863,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic: Eternal Sunrise | 244781 | [244781-runic-eternal-sunrise.json](./244781-runic-eternal-sunrise.json) |
 | Runimals | 361309 | [361309-runimals.json](./361309-runimals.json) |
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
+| RunNCrush | 259044 | [259044-runncrush.json](./259044-runncrush.json) |
 | Runner | 172059 | [172059-runner.json](./172059-runner.json) |
 | Runner | 84538 | [84538-runner.json](./84538-runner.json) |
 | Runner Bear | 307074 | [307074-runner-bear.json](./307074-runner-bear.json) |
