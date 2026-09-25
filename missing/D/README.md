@@ -2793,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Kobayashi | 118321 | [118321-detective-kobayashi.json](./118321-detective-kobayashi.json) |
 | Detective Lin: Time Murder Frenzy | 301915 | [301915-detective-lin-time-murder-frenzy.json](./301915-detective-lin-time-murder-frenzy.json) |
 | Detective March Forward: The Missing Will | 132268 | [132268-detective-march-forward-the-missing-will.json](./132268-detective-march-forward-the-missing-will.json) |
+| Detective Masochist 3: The Case of the Naked Truth | 279062 | [279062-detective-masochist-3-the-case-of-the-naked-truth.json](./279062-detective-masochist-3-the-case-of-the-naked-truth.json) |
 | Detective Max: Double Clues | 205234 | [205234-detective-max-double-clues.json](./205234-detective-max-double-clues.json) |
 | Detective Max! | 123053 | [123053-detective-max.json](./123053-detective-max.json) |
 | Detective Mimo | 174197 | [174197-detective-mimo.json](./174197-detective-mimo.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Galaxy Tennis | 144945 | [144945-dino-galaxy-tennis.json](./144945-dino-galaxy-tennis.json) |
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
 | Dino Genesis | 336533 | [336533-dino-genesis.json](./336533-dino-genesis.json) |
+| Dino Get Out! | 279029 | [279029-dino-get-out.json](./279029-dino-get-out.json) |
 | Dino Hex Trap | 412565 | [412565-dino-hex-trap.json](./412565-dino-hex-trap.json) |
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
