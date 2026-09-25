@@ -4946,6 +4946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Fusion! | 384197 | [384197-fruit-fusion.json](./384197-fruit-fusion.json) |
 | Fruit Golf | 34363 | [34363-fruit-golf.json](./34363-fruit-golf.json) |
 | Fruit Hoop 2 | 358311 | [358311-fruit-hoop-2.json](./358311-fruit-hoop-2.json) |
+| Fruit Jammin' | 245807 | [245807-fruit-jammin.json](./245807-fruit-jammin.json) |
 | Fruit Language Opinions | 128637 | [128637-fruit-language-opinions.json](./128637-fruit-language-opinions.json) |
 | Fruit Link Go 3 | 89585 | [89585-fruit-link-go-3.json](./89585-fruit-link-go-3.json) |
 | Fruit Loops | 271999 | [271999-fruit-loops.json](./271999-fruit-loops.json) |
