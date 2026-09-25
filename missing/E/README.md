@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euchre | 131392 | [131392-euchre.json](./131392-euchre.json) |
 | Euchre | 370344 | [370344-euchre.json](./370344-euchre.json) |
 | Euchre | 40729 | [40729-euchre.json](./40729-euchre.json) |
+| Euchre ++ | 240192 | [240192-euchre.json](./240192-euchre.json) |
 | Euchre 3D Pro | 86836 | [86836-euchre-3d-pro.json](./86836-euchre-3d-pro.json) |
 | Euchre by Webfoot | 88323 | [88323-euchre-by-webfoot.json](./88323-euchre-by-webfoot.json) |
 | EUcraft | 398401 | [398401-eucraft.json](./398401-eucraft.json) |
