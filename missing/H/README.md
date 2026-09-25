@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girl Hime | 136426 | [136426-hentai-girl-hime.json](./136426-hentai-girl-hime.json) |
 | Hentai Girl Karen | 136427 | [136427-hentai-girl-karen.json](./136427-hentai-girl-karen.json) |
 | Hentai Girl Linda | 136428 | [136428-hentai-girl-linda.json](./136428-hentai-girl-linda.json) |
+| Hentai Girls | 251548 | [251548-hentai-girls.json](./251548-hentai-girls.json) |
 | Hentai Girls | 294164 | [294164-hentai-girls.json](./294164-hentai-girls.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
@@ -2276,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Everyday Life | 157706 | [157706-heros-everyday-life.json](./157706-heros-everyday-life.json) |
 | Hero's Hand | 335866 | [335866-heros-hand.json](./335866-heros-hand.json) |
 | Hero's Heart | 50485 | [50485-heros-heart.json](./50485-heros-heart.json) |
+| Hero's Hour: Deluxe Edition | 251551 | [251551-heros-hour-deluxe-edition.json](./251551-heros-hour-deluxe-edition.json) |
 | Hero's Ignition | 373743 | [373743-heros-ignition.json](./373743-heros-ignition.json) |
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
@@ -4566,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Farm | 375935 | [375935-human-farm.json](./375935-human-farm.json) |
 | Human Host | 403164 | [403164-human-host.json](./403164-human-host.json) |
 | Human Milk Seller | 291467 | [291467-human-milk-seller.json](./291467-human-milk-seller.json) |
+| Human or Not? | 251534 | [251534-human-or-not.json](./251534-human-or-not.json) |
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
 | Human Parking Simulator | 363063 | [363063-human-parking-simulator.json](./363063-human-parking-simulator.json) |
 | Human Resource | 295319 | [295319-human-resource.json](./295319-human-resource.json) |
