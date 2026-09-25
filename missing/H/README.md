@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Balls 3D: Heavy Attraction | 380701 | [380701-hentai-balls-3d-heavy-attraction.json](./380701-hentai-balls-3d-heavy-attraction.json) |
 | Hentai Balls 3D: Sexy Girls | 390497 | [390497-hentai-balls-3d-sexy-girls.json](./390497-hentai-balls-3d-sexy-girls.json) |
 | Hentai Beach Girls | 167703 | [167703-hentai-beach-girls.json](./167703-hentai-beach-girls.json) |
+| Hentai Beauties | 265618 | [265618-hentai-beauties.json](./265618-hentai-beauties.json) |
 | Hentai beautiful girls 4 | 164427 | [164427-hentai-beautiful-girls-4.json](./164427-hentai-beautiful-girls-4.json) |
 | Hentai Bikini | 387660 | [387660-hentai-bikini.json](./387660-hentai-bikini.json) |
 | Hentai Boy | 149427 | [149427-hentai-boy.json](./149427-hentai-boy.json) |
@@ -1972,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai MagicalGirl | 237403 | [237403-hentai-magicalgirl.json](./237403-hentai-magicalgirl.json) |
 | Hentai Maid Club | 149429 | [149429-hentai-maid-club.json](./149429-hentai-maid-club.json) |
 | Hentai MatureCat | 243162 | [243162-hentai-maturecat.json](./243162-hentai-maturecat.json) |
+| Hentai Maya | 265572 | [265572-hentai-maya.json](./265572-hentai-maya.json) |
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai MineSweeper | 146280 | [146280-hentai-minesweeper.json](./146280-hentai-minesweeper.json) |
@@ -1980,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
 | Hentai Mosaique Neko Waifus | 167807 | [167807-hentai-mosaique-neko-waifus.json](./167807-hentai-mosaique-neko-waifus.json) |
 | Hentai Nana | 296947 | [296947-hentai-nana.json](./296947-hentai-nana.json) |
+| Hentai Neon Nights | 265608 | [265608-hentai-neon-nights.json](./265608-hentai-neon-nights.json) |
 | Hentai no Hero | 110358 | [110358-hentai-no-hero.json](./110358-hentai-no-hero.json) |
 | Hentai Nureta Puzzle College | 161411 | [161411-hentai-nureta-puzzle-college.json](./161411-hentai-nureta-puzzle-college.json) |
 | Hentai Nurse | 296945 | [296945-hentai-nurse.json](./296945-hentai-nurse.json) |
@@ -2342,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Order & Chaos | 39181 | [39181-heroes-of-order-and-chaos.json](./39181-heroes-of-order-and-chaos.json) |
 | Heroes of Paragon | 37394 | [37394-heroes-of-paragon.json](./37394-heroes-of-paragon.json) |
 | Heroes of Rome: Dangerous Roads | 195722 | [195722-heroes-of-rome-dangerous-roads.json](./195722-heroes-of-rome-dangerous-roads.json) |
+| Heroes of Row | 265607 | [265607-heroes-of-row.json](./265607-heroes-of-row.json) |
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
 | Heroes of Solitairea | 294862 | [294862-heroes-of-solitairea.json](./294862-heroes-of-solitairea.json) |
