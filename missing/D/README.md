@@ -5894,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn to Kill | 60512 | [60512-drawn-to-kill.json](./60512-drawn-to-kill.json) |
 | Drawn to Life | 4821 | [4821-drawn-to-life.json](./4821-drawn-to-life.json) |
 | Drawn to Life 64 | 165550 | [165550-drawn-to-life-64.json](./165550-drawn-to-life-64.json) |
+| Drawn to Life: The Next Chapter | 240140 | [240140-drawn-to-life-the-next-chapter.json](./240140-drawn-to-life-the-next-chapter.json) |
 | Drawn to Life: The Next Chapter | 4820 | [4820-drawn-to-life-the-next-chapter.json](./4820-drawn-to-life-the-next-chapter.json) |
 | Drawn to Light | 110305 | [110305-drawn-to-light.json](./110305-drawn-to-light.json) |
 | Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
