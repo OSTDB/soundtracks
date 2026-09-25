@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Many Nobody | 201430 | [201430-one-many-nobody.json](./201430-one-many-nobody.json) |
 | One Military Camp: Biomes | 298097 | [298097-one-military-camp-biomes.json](./298097-one-military-camp-biomes.json) |
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
+| One Military Camp: Multiplayer Mode | 277370 | [277370-one-military-camp-multiplayer-mode.json](./277370-one-military-camp-multiplayer-mode.json) |
 | One Million Stars | 333652 | [333652-one-million-stars.json](./333652-one-million-stars.json) |
 | One minute of death | 112936 | [112936-one-minute-of-death.json](./112936-one-minute-of-death.json) |
 | One Minute To Close | 310005 | [310005-one-minute-to-close.json](./310005-one-minute-to-close.json) |
@@ -1214,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only the Rich May Die | 270940 | [270940-only-the-rich-may-die.json](./270940-only-the-rich-may-die.json) |
 | Only Trump: Up To Presidents! | 341509 | [341509-only-trump-up-to-presidents.json](./341509-only-trump-up-to-presidents.json) |
 | Only Up 2025 | 367590 | [367590-only-up-2025.json](./367590-only-up-2025.json) |
+| Only Up Samarkand | 277328 | [277328-only-up-samarkand.json](./277328-only-up-samarkand.json) |
 | Only Up: Skibidi | 310922 | [310922-only-up-skibidi.json](./310922-only-up-skibidi.json) |
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
 | Only Up? Climb the Tower! | 343245 | [343245-only-up-climb-the-tower.json](./343245-only-up-climb-the-tower.json) |
@@ -1458,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oraxum Trials | 192331 | [192331-oraxum-trials.json](./192331-oraxum-trials.json) |
 | Orb Boy | 180184 | [180184-orb-boy.json](./180184-orb-boy.json) |
 | Orb Flo | 68325 | [68325-orb-flo.json](./68325-orb-flo.json) |
+| Orb in Wonder | 277365 | [277365-orb-in-wonder.json](./277365-orb-in-wonder.json) |
 | Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
 | Orb of Millean | 301440 | [301440-orb-of-millean.json](./301440-orb-of-millean.json) |
 | Orb Of The Watcher | 285969 | [285969-orb-of-the-watcher.json](./285969-orb-of-the-watcher.json) |
@@ -1707,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osterballerei | 92972 | [92972-osterballerei.json](./92972-osterballerei.json) |
 | Osterity | 308276 | [308276-osterity.json](./308276-osterity.json) |
 | Osteya: Adventures | 102096 | [102096-osteya-adventures.json](./102096-osteya-adventures.json) |
+| Ostrich Farm | 277329 | [277329-ostrich-farm.json](./277329-ostrich-farm.json) |
 | Ostron | 78989 | [78989-ostron.json](./78989-ostron.json) |
 | Osu! | 3012 | [3012-osu.json](./3012-osu.json) |
 | Osu!! Karate Bu | 38382 | [38382-osu-karate-bu.json](./38382-osu-karate-bu.json) |
