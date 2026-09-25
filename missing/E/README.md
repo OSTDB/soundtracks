@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EOPN: Test RS | 285549 | [285549-eopn-test-rs.json](./285549-eopn-test-rs.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
+| Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
 | Ephemeral Tale | 127247 | [127247-ephemeral-tale.json](./127247-ephemeral-tale.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
