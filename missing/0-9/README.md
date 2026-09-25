@@ -492,6 +492,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1 Workout | 232565 | [232565-2-in-1-workout.json](./232565-2-in-1-workout.json) |
 | 2 in 1: Hot Wheels Stunt Track Challenge & Hot Wheels World Race | 84193 | [84193-2-in-1-hot-wheels-stunt-track-challenge-and-hot-wheels-world-race.json](./84193-2-in-1-hot-wheels-stunt-track-challenge-and-hot-wheels-world-race.json) |
 | 2 in 1: Monumental Bundle | 208044 | [208044-2-in-1-monumental-bundle.json](./208044-2-in-1-monumental-bundle.json) |
+| 2 in 1: My Little Baby + My Boyfriend | 269533 | [269533-2-in-1-my-little-baby-my-boyfriend.json](./269533-2-in-1-my-little-baby-my-boyfriend.json) |
+| 2 in 1: My Riding Stables + My Riding Stables: Life with Horses | 269534 | [269534-2-in-1-my-riding-stables-my-riding-stables-life-with-horses.json](./269534-2-in-1-my-riding-stables-my-riding-stables-life-with-horses.json) |
 | 2 in 1: Trash Punk & Food Truck Tycoon | 325019 | [325019-2-in-1-trash-punk-and-food-truck-tycoon.json](./325019-2-in-1-trash-punk-and-food-truck-tycoon.json) |
 | 2 in 1: Trash Punk & Moto Rush GT | 328576 | [328576-2-in-1-trash-punk-and-moto-rush-gt.json](./328576-2-in-1-trash-punk-and-moto-rush-gt.json) |
 | 2 in 1: Trash Punk & S.N.I.P.E.R - Hunter Scope | 328577 | [328577-2-in-1-trash-punk-and-s-n-i-p-e-r-hunter-scope.json](./328577-2-in-1-trash-punk-and-s-n-i-p-e-r-hunter-scope.json) |
@@ -526,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20,000 Leagues Under the Sea: Extended Edition | 382906 | [382906-20-000-leagues-under-the-sea-extended-edition.json](./382906-20-000-leagues-under-the-sea-extended-edition.json) |
 | 20.8 Percent | 58476 | [58476-20-8-percent.json](./58476-20-8-percent.json) |
 | 200 Hidden House Cats | 308939 | [308939-200-hidden-house-cats.json](./308939-200-hidden-house-cats.json) |
+| 200 Klassische Bucher | 269539 | [269539-200-klassische-bucher.json](./269539-200-klassische-bucher.json) |
 | 2000:1 - A Space Felony: Or How I Came to Value My Life and Murder Mercilessly | 69515 | [69515-2000-1-a-space-felony-or-how-i-came-to-value-my-life-and-murder-mercilessly.json](./69515-2000-1-a-space-felony-or-how-i-came-to-value-my-life-and-murder-mercilessly.json) |
 | 2001 A Space Oddysey | 377711 | [377711-2001-a-space-oddysey.json](./377711-2001-a-space-oddysey.json) |
 | 2001: A Space Odyssey | 238083 | [238083-2001-a-space-odyssey.json](./238083-2001-a-space-odyssey.json) |
@@ -617,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
 | 2in1: Application Driver and Serial Killer / Sniper | 147818 | [147818-2in1-application-driver-and-serial-killer-sniper.json](./147818-2in1-application-driver-and-serial-killer-sniper.json) |
+| 2in1: Musik fur Kids + Englisch macht Spass | 269532 | [269532-2in1-musik-fur-kids-englisch-macht-spass.json](./269532-2in1-musik-fur-kids-englisch-macht-spass.json) |
 | 2K Games Pack | 319564 | [319564-2k-games-pack.json](./319564-2k-games-pack.json) |
 | 2K Shells | 328033 | [328033-2k-shells.json](./328033-2k-shells.json) |
 | 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
@@ -787,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
 | 3eality | 115470 | [115470-3eality.json](./115470-3eality.json) |
 | 3in1 Adrenalin Pack | 137477 | [137477-3in1-adrenalin-pack.json](./137477-3in1-adrenalin-pack.json) |
+| 3in1: Meine Tierpension + Meine Tierschule + Mein Westernpferd | 269540 | [269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json](./269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json) |
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 2 | 276857 | [276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json](./276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Part 2 | 276858 | [276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json](./276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json) |
@@ -809,10 +814,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 in 1 | 80871 | [80871-4-in-1.json](./80871-4-in-1.json) |
 | 4 in 1 Sports Bundle Vol. 3 | 395222 | [395222-4-in-1-sports-bundle-vol-3.json](./395222-4-in-1-sports-bundle-vol-3.json) |
 | 4 in 1: Hudson | 293738 | [293738-4-in-1-hudson.json](./293738-4-in-1-hudson.json) |
+| 4 in 1: Meine Tierarztpraxis + Meine Tierpension + Mein Gestuet + Mein Pferd | 269535 | [269535-4-in-1-meine-tierarztpraxis-meine-tierpension-mein-gestuet-mein-pferd.json](./269535-4-in-1-meine-tierarztpraxis-meine-tierpension-mein-gestuet-mein-pferd.json) |
 | 4 in 1: Nintendo | 293735 | [293735-4-in-1-nintendo.json](./293735-4-in-1-nintendo.json) |
 | 4 in a Row | 294841 | [294841-4-in-a-row.json](./294841-4-in-a-row.json) |
 | 4 in One: Cave Wonders/Earth Defender/Jaguar Bomber/Soccer Champion | 138731 | [138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json](./138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json) |
 | 4 Kingdoms Supremacy | 297056 | [297056-4-kingdoms-supremacy.json](./297056-4-kingdoms-supremacy.json) |
+| 4 Kyouka Perfect Clear DS: Eigo Onsei Tsuki | 269538 | [269538-4-kyouka-perfect-clear-ds-eigo-onsei-tsuki.json](./269538-4-kyouka-perfect-clear-ds-eigo-onsei-tsuki.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
@@ -886,6 +893,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Star Miami Resort | 338907 | [338907-5-star-miami-resort.json](./338907-5-star-miami-resort.json) |
 | 5 Star Racing | 44820 | [44820-5-star-racing.json](./44820-5-star-racing.json) |
 | 5 Star Rio Resort | 38959 | [38959-5-star-rio-resort.json](./38959-5-star-rio-resort.json) |
+| 5-kyuu kara 1-kyuu Kanzen Taiou Saishin Kako Mondai: Nijishiken Taisaku - Eiken Kanzenban | 269536 | [269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json](./269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json) |
+| 5-Nen Kanji Keisan Nigate Hunter DS | 269537 | [269537-5-nen-kanji-keisan-nigate-hunter-ds.json](./269537-5-nen-kanji-keisan-nigate-hunter-ds.json) |
 | 5-Star Taxi | 415875 | [415875-5-star-taxi.json](./415875-5-star-taxi.json) |
 | 5:48AM | 277038 | [277038-5-48am.json](./277038-5-48am.json) |
 | 50 Cents Please | 367504 | [367504-50-cents-please.json](./367504-50-cents-please.json) |
