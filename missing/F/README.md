@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Female Nation Takeover: josei Kokka Nottori Keikaku - Touzoku no Ore ga Ou ni naru | 260696 | [260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json](./260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json) |
 | Female Swordsman | 360573 | [360573-female-swordsman.json](./360573-female-swordsman.json) |
 | Fembot Jigsaw | 292646 | [292646-fembot-jigsaw.json](./292646-fembot-jigsaw.json) |
+| Femboy Aim Trainer | 266180 | [266180-femboy-aim-trainer.json](./266180-femboy-aim-trainer.json) |
 | Femboy Bangers 2 | 219295 | [219295-femboy-bangers-2.json](./219295-femboy-bangers-2.json) |
 | Femboy Bangers: Pub & Grill | 170495 | [170495-femboy-bangers-pub-and-grill.json](./170495-femboy-bangers-pub-and-grill.json) |
 | Femboy Next Door | 405697 | [405697-femboy-next-door.json](./405697-femboy-next-door.json) |
