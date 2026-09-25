@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V for Victory: Gold-Juno-Sword | 69234 | [69234-v-for-victory-gold-juno-sword.json](./69234-v-for-victory-gold-juno-sword.json) |
 | V for Victory: Market Garden | 70965 | [70965-v-for-victory-market-garden.json](./70965-v-for-victory-market-garden.json) |
 | V Gate | 261790 | [261790-v-gate.json](./261790-v-gate.json) |
+| V is for Vortex | 254474 | [254474-v-is-for-vortex.json](./254474-v-is-for-vortex.json) |
 | V Life | 395536 | [395536-v-life.json](./395536-v-life.json) |
 | V Lights | 216498 | [216498-v-lights.json](./216498-v-lights.json) |
 | V pod''ezde | 116844 | [116844-v-podezde.json](./116844-v-podezde.json) |
