@@ -3690,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Shovel of Hope DX | 305757 | [305757-shovel-knight-shovel-of-hope-dx.json](./305757-shovel-knight-shovel-of-hope-dx.json) |
 | Shovel Knight: Treasure Trove | 26848 | [26848-shovel-knight-treasure-trove.json](./26848-shovel-knight-treasure-trove.json) |
 | Shovelware | 346231 | [346231-shovelware.json](./346231-shovelware.json) |
+| Shovelware Adventure! | 262303 | [262303-shovelware-adventure.json](./262303-shovelware-adventure.json) |
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
 | Show do Milhão | 93008 | [93008-show-do-milhao.json](./93008-show-do-milhao.json) |
 | Show do Milhão Volume 2 | 122333 | [122333-show-do-milhao-volume-2.json](./122333-show-do-milhao-volume-2.json) |
@@ -7350,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundart | 127076 | [127076-soundart.json](./127076-soundart.json) |
 | Soundboxing | 31625 | [31625-soundboxing.json](./31625-soundboxing.json) |
 | Soundbusting | 177996 | [177996-soundbusting.json](./177996-soundbusting.json) |
+| Soundless Mound | 262310 | [262310-soundless-mound.json](./262310-soundless-mound.json) |
 | Soundless: Final Verse | 282694 | [282694-soundless-final-verse.json](./282694-soundless-final-verse.json) |
 | SoundLites | 90594 | [90594-soundlites.json](./90594-soundlites.json) |
 | Sounds of Talent: Kpop Adventure | 116826 | [116826-sounds-of-talent-kpop-adventure.json](./116826-sounds-of-talent-kpop-adventure.json) |
@@ -9119,6 +9121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StableBound | 297004 | [297004-stablebound.json](./297004-stablebound.json) |
 | Stablemasters | 415897 | [415897-stablemasters.json](./415897-stablemasters.json) |
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
+| Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
 | Stack Machines | 232434 | [232434-stack-machines.json](./232434-stack-machines.json) |
 | Stack Order | 388009 | [388009-stack-order.json](./388009-stack-order.json) |
@@ -10207,6 +10210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteelRacer | 250939 | [250939-steelracer.json](./250939-steelracer.json) |
 | Steelrising: Bastille Edition | 205569 | [205569-steelrising-bastille-edition.json](./205569-steelrising-bastille-edition.json) |
 | Steep Slopes | 158167 | [158167-steep-slopes.json](./158167-steep-slopes.json) |
+| Steep Town | 262305 | [262305-steep-town.json](./262305-steep-town.json) |
 | Steep: X Games Pack | 251643 | [251643-steep-x-games-pack.json](./251643-steep-x-games-pack.json) |
 | Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
 | Steezelpunk | 391722 | [391722-steezelpunk.json](./391722-steezelpunk.json) |
