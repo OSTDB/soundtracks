@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Itter: The Strangest Battle of WWII | 169423 | [169423-castle-itter-the-strangest-battle-of-wwii.json](./169423-castle-itter-the-strangest-battle-of-wwii.json) |
 | Castle Karthenfrost | 308385 | [308385-castle-karthenfrost.json](./308385-castle-karthenfrost.json) |
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
+| Castle Master TD | 270165 | [270165-castle-master-td.json](./270165-castle-master-td.json) |
 | Castle of Alchemists | 191808 | [191808-castle-of-alchemists.json](./191808-castle-of-alchemists.json) |
 | Castle of Asleep | 315503 | [315503-castle-of-asleep.json](./315503-castle-of-asleep.json) |
 | Castle of Awa | 104089 | [104089-castle-of-awa.json](./104089-castle-of-awa.json) |
@@ -4470,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
 | ColorCode | 55481 | [55481-colorcode.json](./55481-colorcode.json) |
+| ColorCoordination | 270086 | [270086-colorcoordination.json](./270086-colorcoordination.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
@@ -5972,6 +5974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
+| Cracking the Cryptic: Lines Variety Pack | 270083 | [270083-cracking-the-cryptic-lines-variety-pack.json](./270083-cracking-the-cryptic-lines-variety-pack.json) |
 | Crackout | 48292 | [48292-crackout.json](./48292-crackout.json) |
 | Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
 | Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
