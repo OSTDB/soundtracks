@@ -5481,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
 | Small Soldiers: Globotech Design Lab | 14594 | [14594-small-soldiers-globotech-design-lab.json](./14594-small-soldiers-globotech-design-lab.json) |
 | Small Soldiers: Hand to Hand Combat Game | 245408 | [245408-small-soldiers-hand-to-hand-combat-game.json](./245408-small-soldiers-hand-to-hand-combat-game.json) |
+| Small Super Mario Bros. U Deluxe | 256808 | [256808-small-super-mario-bros-u-deluxe.json](./256808-small-super-mario-bros-u-deluxe.json) |
 | Small Town Detective | 310585 | [310585-small-town-detective.json](./310585-small-town-detective.json) |
 | Small Town Detective in Where are Ray And Cooper | 310586 | [310586-small-town-detective-in-where-are-ray-and-cooper.json](./310586-small-town-detective-in-where-are-ray-and-cooper.json) |
 | Small Town Terrors: Galdor's Bluff | 79248 | [79248-small-town-terrors-galdors-bluff.json](./79248-small-town-terrors-galdors-bluff.json) |
@@ -5717,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 125831 | [125831-snake.json](./125831-snake.json) |
 | Snake | 170467 | [170467-snake.json](./170467-snake.json) |
 | Snake | 186242 | [186242-snake.json](./186242-snake.json) |
+| Snake | 256767 | [256767-snake.json](./256767-snake.json) |
 | Snake | 288267 | [288267-snake.json](./288267-snake.json) |
 | Snake | 294214 | [294214-snake.json](./294214-snake.json) |
 | Snake | 305744 | [305744-snake.json](./305744-snake.json) |
@@ -7179,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry to Bother You | 177399 | [177399-sorry-to-bother-you.json](./177399-sorry-to-bother-you.json) |
 | Sorry We're Closed | 190964 | [190964-sorry-were-closed.json](./190964-sorry-were-closed.json) |
 | Sorry, My King | 397936 | [397936-sorry-my-king.json](./397936-sorry-my-king.json) |
+| Sorry, We Have A Policy | 256765 | [256765-sorry-we-have-a-policy.json](./256765-sorry-we-have-a-policy.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
@@ -8471,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spidle Tridle | 334166 | [334166-spidle-tridle.json](./334166-spidle-tridle.json) |
 | Spielbahn | 266311 | [266311-spielbahn.json](./266311-spielbahn.json) |
 | Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
+| Spies in the Night | 256770 | [256770-spies-in-the-night.json](./256770-spies-in-the-night.json) |
 | Spiiiders | 61596 | [61596-spiiiders.json](./61596-spiiiders.json) |
 | Spike | 70349 | [70349-spike.json](./70349-spike.json) |
 | Spike a Love Story | 391207 | [391207-spike-a-love-story.json](./391207-spike-a-love-story.json) |
@@ -11068,6 +11072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
 | StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
+| Stretch Armstrong: The Breakout | 256871 | [256871-stretch-armstrong-the-breakout.json](./256871-stretch-armstrong-the-breakout.json) |
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
 | Stretch Text: Find Proverb | 266834 | [266834-stretch-text-find-proverb.json](./266834-stretch-text-find-proverb.json) |
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
@@ -12592,6 +12597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
 | Super Mario Treasure World | 368158 | [368158-super-mario-treasure-world.json](./368158-super-mario-treasure-world.json) |
 | Super Mario Turd Collection | 322698 | [322698-super-mario-turd-collection.json](./322698-super-mario-turd-collection.json) |
+| Super Mario Unlimited Deluxe | 256778 | [256778-super-mario-unlimited-deluxe.json](./256778-super-mario-unlimited-deluxe.json) |
 | Super Mario War | 305742 | [305742-super-mario-war.json](./305742-super-mario-war.json) |
 | Super Mario War: Stomp Arena | 323200 | [323200-super-mario-war-stomp-arena.json](./323200-super-mario-war-stomp-arena.json) |
 | Super Mario Wars! | 323752 | [323752-super-mario-wars.json](./323752-super-mario-wars.json) |
@@ -13554,6 +13560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
 | Suspecto | 374193 | [374193-suspecto.json](./374193-suspecto.json) |
+| Suspended in Dusk | 256814 | [256814-suspended-in-dusk.json](./256814-suspended-in-dusk.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspension Railroad Simulator | 85414 | [85414-suspension-railroad-simulator.json](./85414-suspension-railroad-simulator.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
