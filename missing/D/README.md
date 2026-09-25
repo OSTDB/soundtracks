@@ -2369,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
+| Demon Scrolls | 249716 | [249716-demon-scrolls.json](./249716-demon-scrolls.json) |
 | Demon Seed | 218135 | [218135-demon-seed.json](./218135-demon-seed.json) |
 | Demon Siege | 406905 | [406905-demon-siege.json](./406905-demon-siege.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
@@ -3060,10 +3061,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo III: Collector's Edition | 136279 | [136279-diablo-iii-collectors-edition.json](./136279-diablo-iii-collectors-edition.json) |
 | Diablo III: Reaper of Souls - Collector's Edition | 136278 | [136278-diablo-iii-reaper-of-souls-collectors-edition.json](./136278-diablo-iii-reaper-of-souls-collectors-edition.json) |
 | Diablo IV: Dark Pathways Pack | 289474 | [289474-diablo-iv-dark-pathways-pack.json](./289474-diablo-iv-dark-pathways-pack.json) |
+| Diablo IV: Digital Deluxe Edition | 249741 | [249741-diablo-iv-digital-deluxe-edition.json](./249741-diablo-iv-digital-deluxe-edition.json) |
 | Diablo IV: Loot Reborn | 299726 | [299726-diablo-iv-loot-reborn.json](./299726-diablo-iv-loot-reborn.json) |
 | Diablo IV: Lord of Hatred | 381239 | [381239-diablo-iv-lord-of-hatred.json](./381239-diablo-iv-lord-of-hatred.json) |
 | Diablo IV: Season of Divine Intervention | 380541 | [380541-diablo-iv-season-of-divine-intervention.json](./380541-diablo-iv-season-of-divine-intervention.json) |
 | Diablo IV: Sins of the Horadrim | 352222 | [352222-diablo-iv-sins-of-the-horadrim.json](./352222-diablo-iv-sins-of-the-horadrim.json) |
+| Diablo IV: Ultimate Edition | 249742 | [249742-diablo-iv-ultimate-edition.json](./249742-diablo-iv-ultimate-edition.json) |
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
 | Diablo V | 417647 | [417647-diablo-v.json](./417647-diablo-v.json) |
@@ -4235,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Art Attack | 249279 | [249279-doctor-who-art-attack.json](./249279-doctor-who-art-attack.json) |
 | Doctor Who: Black Hole | 249293 | [249293-doctor-who-black-hole.json](./249293-doctor-who-black-hole.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
+| Doctor Who: Defeat Deffry | 249743 | [249743-doctor-who-defeat-deffry.json](./249743-doctor-who-defeat-deffry.json) |
 | Doctor Who: Destiny of the Doctors | 72960 | [72960-doctor-who-destiny-of-the-doctors.json](./72960-doctor-who-destiny-of-the-doctors.json) |
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
 | Doctor Who: Don't Blink | 301932 | [301932-doctor-who-dont-blink.json](./301932-doctor-who-dont-blink.json) |
@@ -5948,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream in the Shell | 317388 | [317388-dream-in-the-shell.json](./317388-dream-in-the-shell.json) |
 | Dream Invader | 220330 | [220330-dream-invader.json](./220330-dream-invader.json) |
 | Dream Island: A Skyward Journey | 281380 | [281380-dream-island-a-skyward-journey.json](./281380-dream-island-a-skyward-journey.json) |
+| Dream Job: Delivery Simulator | 249713 | [249713-dream-job-delivery-simulator.json](./249713-dream-job-delivery-simulator.json) |
 | Dream Knights: The Little Hero | 181372 | [181372-dream-knights-the-little-hero.json](./181372-dream-knights-the-little-hero.json) |
 | Dream Kombat | 229382 | [229382-dream-kombat.json](./229382-dream-kombat.json) |
 | Dream Labyrinth | 181934 | [181934-dream-labyrinth.json](./181934-dream-labyrinth.json) |
