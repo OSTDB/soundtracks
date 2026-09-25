@@ -3251,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Zero | 127176 | [127176-world-war-zero.json](./127176-world-war-zero.json) |
 | World War: Battle of the Bulge | 300827 | [300827-world-war-battle-of-the-bulge.json](./300827-world-war-battle-of-the-bulge.json) |
 | World War: Combat Guardian | 251049 | [251049-world-war-combat-guardian.json](./251049-world-war-combat-guardian.json) |
+| World War: D-Day Part One | 275042 | [275042-world-war-d-day-part-one.json](./275042-world-war-d-day-part-one.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World War: Fury Wave | 316236 | [316236-world-war-fury-wave.json](./316236-world-war-fury-wave.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
@@ -3422,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 5: WRC - eSports Pack 2 | 168740 | [168740-wrc-5-wrc-esports-pack-2.json](./168740-wrc-5-wrc-esports-pack-2.json) |
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
+| WRC Collection | 275038 | [275038-wrc-collection.json](./275038-wrc-collection.json) |
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
 | Wrecked | 391312 | [391312-wrecked.json](./391312-wrecked.json) |
