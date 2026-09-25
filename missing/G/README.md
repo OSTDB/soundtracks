@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gateway to the Kulikovo Field: The Battle of Yepifan | 276204 | [276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json](./276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json) |
+| Gateworlds | 270155 | [270155-gateworlds.json](./270155-gateworlds.json) |
 | Gather CCG | 401543 | [401543-gather-ccg.json](./401543-gather-ccg.json) |
 | Gather the Gems! | 100013 | [100013-gather-the-gems.json](./100013-gather-the-gems.json) |
 | Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
@@ -4037,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam: The 3D Battle | 66113 | [66113-gundam-the-3d-battle.json](./66113-gundam-the-3d-battle.json) |
 | Gundan: The Crowd Shooting | 205241 | [205241-gundan-the-crowd-shooting.json](./205241-gundan-the-crowd-shooting.json) |
 | GundeadliGne | 16233 | [16233-gundeadligne.json](./16233-gundeadligne.json) |
+| GunDeck 100 | 270070 | [270070-gundeck-100.json](./270070-gundeck-100.json) |
 | Gundemonium | 365664 | [365664-gundemonium.json](./365664-gundemonium.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
 | Gundhara: Juudan Arashi | 37336 | [37336-gundhara-juudan-arashi.json](./37336-gundhara-juudan-arashi.json) |
