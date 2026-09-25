@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Phantom | 388256 | [388256-void-phantom.json](./388256-void-phantom.json) |
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
+| Void Rifter XR | 232920 | [232920-void-rifter-xr.json](./232920-void-rifter-xr.json) |
 | Void Runner | 259593 | [259593-void-runner.json](./259593-void-runner.json) |
 | Void Salvage | 388936 | [388936-void-salvage.json](./388936-void-salvage.json) |
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
