@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babies vs. Monsters | 304174 | [304174-babies-vs-monsters.json](./304174-babies-vs-monsters.json) |
 | Babka | 343254 | [343254-babka.json](./343254-babka.json) |
 | Baboon! | 42894 | [42894-baboon.json](./42894-baboon.json) |
+| Babs' Potion Shop | 238449 | [238449-babs-potion-shop.json](./238449-babs-potion-shop.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
@@ -203,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
 | Backpackers Guide to the Universe | 309344 | [309344-backpackers-guide-to-the-universe.json](./309344-backpackers-guide-to-the-universe.json) |
+| Backroom | 238458 | [238458-backroom.json](./238458-backroom.json) |
 | Backrooms | 306424 | [306424-backrooms.json](./306424-backrooms.json) |
 | Backrooms | 379993 | [379993-backrooms.json](./379993-backrooms.json) |
 | Backrooms | 379994 | [379994-backrooms.json](./379994-backrooms.json) |
@@ -1890,6 +1892,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be King | 254142 | [254142-be-king.json](./254142-be-king.json) |
 | Be Like Pac-Man and the Ghostly Adventures | 185672 | [185672-be-like-pac-man-and-the-ghostly-adventures.json](./185672-be-like-pac-man-and-the-ghostly-adventures.json) |
 | Be Lost | 369099 | [369099-be-lost.json](./369099-be-lost.json) |
+| Be My Princess | 238419 | [238419-be-my-princess.json](./238419-be-my-princess.json) |
+| Be My Princess 2 | 238421 | [238421-be-my-princess-2.json](./238421-be-my-princess-2.json) |
+| Be My Princess: Party | 238420 | [238420-be-my-princess-party.json](./238420-be-my-princess-party.json) |
 | Be Nunner | 391051 | [391051-be-nunner.json](./391051-be-nunner.json) |
 | Be Our Guest | 334274 | [334274-be-our-guest.json](./334274-be-our-guest.json) |
 | Be Quiet!: Act One | 170421 | [170421-be-quiet-act-one.json](./170421-be-quiet-act-one.json) |
@@ -2274,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beefy Brad the Muscle Man | 265735 | [265735-beefy-brad-the-muscle-man.json](./265735-beefy-brad-the-muscle-man.json) |
+| Beehive Bedlam | 238469 | [238469-beehive-bedlam.json](./238469-beehive-bedlam.json) |
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
 | Beep | 133952 | [133952-beep.json](./133952-beep.json) |
@@ -3476,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Light Kills | 332444 | [332444-black-light-kills.json](./332444-black-light-kills.json) |
 | Black Light Wave | 329084 | [329084-black-light-wave.json](./329084-black-light-wave.json) |
 | Black Lily Inmortal | 408083 | [408083-black-lily-inmortal.json](./408083-black-lily-inmortal.json) |
+| Black Lily's Tale | 238442 | [238442-black-lilys-tale.json](./238442-black-lilys-tale.json) |
 | Black Lily's Tale | 408134 | [408134-black-lilys-tale.json](./408134-black-lilys-tale.json) |
 | Black Lily's Tale: Famitsu Wedding DX Pack | 408135 | [408135-black-lilys-tale-famitsu-wedding-dx-pack.json](./408135-black-lilys-tale-famitsu-wedding-dx-pack.json) |
 | Black Lotus Motel | 159894 | [159894-black-lotus-motel.json](./159894-black-lotus-motel.json) |
@@ -4492,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Mushrooms | 277036 | [277036-blue-mushrooms.json](./277036-blue-mushrooms.json) |
 | Blue Nebula | 252119 | [252119-blue-nebula.json](./252119-blue-nebula.json) |
 | Blue Oath | 411791 | [411791-blue-oath.json](./411791-blue-oath.json) |
+| Blue Oddities: The Final Chapter | 238429 | [238429-blue-oddities-the-final-chapter.json](./238429-blue-oddities-the-final-chapter.json) |
 | Blue Omen Operation | 76237 | [76237-blue-omen-operation.json](./76237-blue-omen-operation.json) |
 | Blue Portals | 219156 | [219156-blue-portals.json](./219156-blue-portals.json) |
 | Blue Powder Grey Smoke | 362429 | [362429-blue-powder-grey-smoke.json](./362429-blue-powder-grey-smoke.json) |
