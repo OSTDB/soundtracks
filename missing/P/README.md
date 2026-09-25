@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladins: Feathered Fiend Pack | 263482 | [263482-paladins-feathered-fiend-pack.json](./263482-paladins-feathered-fiend-pack.json) |
 | Paladins: Founder's Pack | 104446 | [104446-paladins-founders-pack.json](./104446-paladins-founders-pack.json) |
 | Paladins: Season 4 Champions Bundle | 263484 | [263484-paladins-season-4-champions-bundle.json](./263484-paladins-season-4-champions-bundle.json) |
+| PalaDog HD | 235148 | [235148-paladog-hd.json](./235148-paladog-hd.json) |
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
@@ -4624,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
 | PolyPine | 278973 | [278973-polypine.json](./278973-polypine.json) |
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
+| Polyrhythm Master | 235175 | [235175-polyrhythm-master.json](./235175-polyrhythm-master.json) |
 | Polyroll | 87936 | [87936-polyroll.json](./87936-polyroll.json) |
 | Polyrun | 120960 | [120960-polyrun.json](./120960-polyrun.json) |
 | Polysemy‌ | 326187 | [326187-polysemy.json](./326187-polysemy.json) |
