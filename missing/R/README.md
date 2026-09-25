@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
 | Realms of Exether | 356269 | [356269-realms-of-exether.json](./356269-realms-of-exether.json) |
 | Realms of Flow | 253591 | [253591-realms-of-flow.json](./253591-realms-of-flow.json) |
+| Realms of Madness | 280261 | [280261-realms-of-madness.json](./280261-realms-of-madness.json) |
 | Realms of Pixel | 333553 | [333553-realms-of-pixel.json](./333553-realms-of-pixel.json) |
 | Realms of Reverie | 358855 | [358855-realms-of-reverie.json](./358855-realms-of-reverie.json) |
 | Realms of Supremacy | 102191 | [102191-realms-of-supremacy.json](./102191-realms-of-supremacy.json) |
@@ -3784,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Empire | 75077 | [75077-rogue-empire.json](./75077-rogue-empire.json) |
 | Rogue Fable II | 181247 | [181247-rogue-fable-ii.json](./181247-rogue-fable-ii.json) |
 | Rogue Fable III | 113389 | [113389-rogue-fable-iii.json](./113389-rogue-fable-iii.json) |
+| Rogue Fable IV | 280260 | [280260-rogue-fable-iv.json](./280260-rogue-fable-iv.json) |
 | Rogue Factory | 317996 | [317996-rogue-factory.json](./317996-rogue-factory.json) |
 | Rogue Flight | 318086 | [318086-rogue-flight.json](./318086-rogue-flight.json) |
 | Rogue Fortune | 415285 | [415285-rogue-fortune.json](./415285-rogue-fortune.json) |
@@ -4133,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
 | Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
 | Rookie Boxing | 319776 | [319776-rookie-boxing.json](./319776-rookie-boxing.json) |
+| Rookie Guard and the Queen | 280259 | [280259-rookie-guard-and-the-queen.json](./280259-rookie-guard-and-the-queen.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
 | Room | 291092 | [291092-room.json](./291092-room.json) |
@@ -4410,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Roads 2: The Magic Box | 161401 | [161401-royal-roads-2-the-magic-box.json](./161401-royal-roads-2-the-magic-box.json) |
 | Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
 | Royal Romances: Battle of the Woods - Collector's Edition | 224741 | [224741-royal-romances-battle-of-the-woods-collectors-edition.json](./224741-royal-romances-battle-of-the-woods-collectors-edition.json) |
+| Royal Romances: The Cursed Hearts DLC | 280258 | [280258-royal-romances-the-cursed-hearts-dlc.json](./280258-royal-romances-the-cursed-hearts-dlc.json) |
 | Royal Romances: The Power of Chosen One DLC | 256003 | [256003-royal-romances-the-power-of-chosen-one-dlc.json](./256003-royal-romances-the-power-of-chosen-one-dlc.json) |
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
 | Royal Thumble | 196727 | [196727-royal-thumble.json](./196727-royal-thumble.json) |
