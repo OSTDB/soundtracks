@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Vader MAX | 115432 | [115432-ball-vader-max.json](./115432-ball-vader-max.json) |
 | Ball vs Block | 186185 | [186185-ball-vs-block.json](./186185-ball-vs-block.json) |
 | Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
+| Ball-istic | 258436 | [258436-ball-istic.json](./258436-ball-istic.json) |
 | Ball-it Hell | 302492 | [302492-ball-it-hell.json](./302492-ball-it-hell.json) |
 | Ballad of Angels | 310927 | [310927-ballad-of-angels.json](./310927-ballad-of-angels.json) |
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
@@ -3775,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
 | Blazing Angels: Squadrons of WWII | 3124 | [3124-blazing-angels-squadrons-of-wwii.json](./3124-blazing-angels-squadrons-of-wwii.json) |
+| Blazing Dragon | 258502 | [258502-blazing-dragon.json](./258502-blazing-dragon.json) |
 | Blazing Dragon Slayer · Divine Weapon Awakening | 358508 | [358508-blazing-dragon-slayer-divine-weapon-awakening.json](./358508-blazing-dragon-slayer-divine-weapon-awakening.json) |
 | Blazing Dragons | 45514 | [45514-blazing-dragons.json](./45514-blazing-dragons.json) |
 | Blazing Dynamo | 209493 | [209493-blazing-dynamo.json](./209493-blazing-dynamo.json) |
@@ -4768,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
 | Bombagun | 188112 | [188112-bombagun.json](./188112-bombagun.json) |
 | Bombanana! | 404342 | [404342-bombanana.json](./404342-bombanana.json) |
+| Bombard | 258437 | [258437-bombard.json](./258437-bombard.json) |
 | Bombardiro Crocodilo Mission | 370195 | [370195-bombardiro-crocodilo-mission.json](./370195-bombardiro-crocodilo-mission.json) |
 | Bombardiro Crocodilo Simulator | 349300 | [349300-bombardiro-crocodilo-simulator.json](./349300-bombardiro-crocodilo-simulator.json) |
 | Bombardiro Crocodilo: Italian Brainrot Simulator | 344481 | [344481-bombardiro-crocodilo-italian-brainrot-simulator.json](./344481-bombardiro-crocodilo-italian-brainrot-simulator.json) |
@@ -6222,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BSL Winter Games Challenge | 88283 | [88283-bsl-winter-games-challenge.json](./88283-bsl-winter-games-challenge.json) |
 | BSMP | 394877 | [394877-bsmp.json](./394877-bsmp.json) |
 | BTank | 203898 | [203898-btank.json](./203898-btank.json) |
+| BTD: BTD | 258500 | [258500-btd-btd.json](./258500-btd-btd.json) |
 | BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
@@ -6576,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buluk: Mayan Warfare | 125420 | [125420-buluk-mayan-warfare.json](./125420-buluk-mayan-warfare.json) |
 | Bulwark Evolution: Falconeer Chronicles | 214486 | [214486-bulwark-evolution-falconeer-chronicles.json](./214486-bulwark-evolution-falconeer-chronicles.json) |
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
+| Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
 | Bumbi | 289426 | [289426-bumbi.json](./289426-bumbi.json) |
 | Bumble Brawlers | 330343 | [330343-bumble-brawlers.json](./330343-bumble-brawlers.json) |
 | Bumble Rumble | 346678 | [346678-bumble-rumble.json](./346678-bumble-rumble.json) |
