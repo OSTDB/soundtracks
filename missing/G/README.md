@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game about a soup factory | 68625 | [68625-game-about-a-soup-factory.json](./68625-game-about-a-soup-factory.json) |
 | Game About Games | 162844 | [162844-game-about-games.json](./162844-game-about-games.json) |
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
+| Game After School | 233446 | [233446-game-after-school.json](./233446-game-after-school.json) |
 | Game Box Série Esportes Radicais | 96505 | [96505-game-box-serie-esportes-radicais.json](./96505-game-box-serie-esportes-radicais.json) |
 | Game Boy Camera Memory | 328594 | [328594-game-boy-camera-memory.json](./328594-game-boy-camera-memory.json) |
 | Game Boy Camera: Gold Zelda Edition | 228549 | [228549-game-boy-camera-gold-zelda-edition.json](./228549-game-boy-camera-gold-zelda-edition.json) |
@@ -601,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GamePack 2 | 122308 | [122308-gamepack-2.json](./122308-gamepack-2.json) |
 | GamePigeon | 229787 | [229787-gamepigeon.json](./229787-gamepigeon.json) |
 | Gamer 2 | 124608 | [124608-gamer-2.json](./124608-gamer-2.json) |
+| Gamer Cafe | 233451 | [233451-gamer-cafe.json](./233451-gamer-cafe.json) |
 | Gamer Den | 177928 | [177928-gamer-den.json](./177928-gamer-den.json) |
 | Gamer Girls 2 | 162842 | [162842-gamer-girls-2.json](./162842-gamer-girls-2.json) |
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
@@ -4177,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Strike Ops: WW2 | 196307 | [196307-gun-strike-ops-ww2.json](./196307-gun-strike-ops-ww2.json) |
 | Gun to Colonists | 189173 | [189173-gun-to-colonists.json](./189173-gun-to-colonists.json) |
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
+| Gun vs. Bottles | 233442 | [233442-gun-vs-bottles.json](./233442-gun-vs-bottles.json) |
 | Gun-Running War Dogs | 52774 | [52774-gun-running-war-dogs.json](./52774-gun-running-war-dogs.json) |
 | Gun-Toting Cats | 176358 | [176358-gun-toting-cats.json](./176358-gun-toting-cats.json) |
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
