@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
 | Pakoombo | 201792 | [201792-pakoombo.json](./201792-pakoombo.json) |
 | Pakpok | 181214 | [181214-pakpok.json](./181214-pakpok.json) |
+| Paku Paku | 282047 | [282047-paku-paku.json](./282047-paku-paku.json) |
 | Pal Go | 343831 | [343831-pal-go.json](./343831-pal-go.json) |
 | Pal-Mon | 393801 | [393801-pal-mon.json](./393801-pal-mon.json) |
 | Palace of a Thousand Curses | 328017 | [328017-palace-of-a-thousand-curses.json](./328017-palace-of-a-thousand-curses.json) |
@@ -557,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
+| Panzerkampf | 282075 | [282075-panzerkampf.json](./282075-panzerkampf.json) |
 | Pao Pao Party | 184609 | [184609-pao-pao-party.json](./184609-pao-pao-party.json) |
 | Papa Louie 3: When Sundaes Attack! | 101932 | [101932-papa-louie-3-when-sundaes-attack.json](./101932-papa-louie-3-when-sundaes-attack.json) |
 | Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
@@ -1563,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengicitis The Game | 353324 | [353324-pengicitis-the-game.json](./353324-pengicitis-the-game.json) |
 | Pengin-gin | 385334 | [385334-pengin-gin.json](./385334-pengin-gin.json) |
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
+| Pengo | 282071 | [282071-pengo.json](./282071-pengo.json) |
 | Pengon | 79230 | [79230-pengon.json](./79230-pengon.json) |
 | PengPong | 345506 | [345506-pengpong.json](./345506-pengpong.json) |
 | Pengu | 177520 | [177520-pengu.json](./177520-pengu.json) |
@@ -2928,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitchfork Battles | 244858 | [244858-pitchfork-battles.json](./244858-pitchfork-battles.json) |
 | Pitchside Empire | 414613 | [414613-pitchside-empire.json](./414613-pitchside-empire.json) |
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
+| Pitfall II: The Lost Caverns | 282072 | [282072-pitfall-ii-the-lost-caverns.json](./282072-pitfall-ii-the-lost-caverns.json) |
 | Pitfall II: The Lost Caverns | 6125 | [6125-pitfall-ii-the-lost-caverns.json](./6125-pitfall-ii-the-lost-caverns.json) |
 | Pitfall Planet | 32919 | [32919-pitfall-planet.json](./32919-pitfall-planet.json) |
 | Pitfall Protocol | 304699 | [304699-pitfall-protocol.json](./304699-pitfall-protocol.json) |
@@ -4634,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
 | Popils | 45262 | [45262-popils.json](./45262-popils.json) |
+| Popmoji | 282053 | [282053-popmoji.json](./282053-popmoji.json) |
 | Popmundo | 307602 | [307602-popmundo.json](./307602-popmundo.json) |
 | Popo & Rob | 341561 | [341561-popo-and-rob.json](./341561-popo-and-rob.json) |
 | PoPoLoCrois Monogatari | 63015 | [63015-popolocrois-monogatari.json](./63015-popolocrois-monogatari.json) |
@@ -5841,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project MT | 363567 | [363567-project-mt.json](./363567-project-mt.json) |
 | Project N.E.X.T | 278534 | [278534-project-n-e-x-t.json](./278534-project-n-e-x-t.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
+| Project Nebula | 282074 | [282074-project-nebula.json](./282074-project-nebula.json) |
 | Project Neon | 330134 | [330134-project-neon.json](./330134-project-neon.json) |
 | Project Neos | 406177 | [406177-project-neos.json](./406177-project-neos.json) |
 | Project Neptune | 55097 | [55097-project-neptune.json](./55097-project-neptune.json) |
