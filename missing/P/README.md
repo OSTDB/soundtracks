@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parawhy | 325677 | [325677-parawhy.json](./325677-parawhy.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
+| Parcel Packing Simulator | 263994 | [263994-parcel-packing-simulator.json](./263994-parcel-packing-simulator.json) |
 | Parcel Problems | 239061 | [239061-parcel-problems.json](./239061-parcel-problems.json) |
 | Parcels and Pollen | 177503 | [177503-parcels-and-pollen.json](./177503-parcels-and-pollen.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
@@ -3163,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles World War II Jigsaws Pack: Invasion of Poland | 265245 | [265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json](./265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json) |
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
 | Pixel Puzzles WW2 Jigsaw: Battle of the Bulge | 289463 | [289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json](./289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json) |
+| Pixel Puzzles WW2 Jigsaw: Italian Tanks | 264005 | [264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json](./264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json) |
 | Pixel Puzzles: Illustrations & Anime | 162933 | [162933-pixel-puzzles-illustrations-and-anime.json](./162933-pixel-puzzles-illustrations-and-anime.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Chibi | 241507 | [241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json](./241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dark Sided | 162940 | [162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json](./162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json) |
@@ -4172,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Legends: Arceus | 144054 | [144054-pokemon-legends-arceus.json](./144054-pokemon-legends-arceus.json) |
 | Pokémon Legends: Arceus - Daybreak | 221843 | [221843-pokemon-legends-arceus-daybreak.json](./221843-pokemon-legends-arceus-daybreak.json) |
 | Pokemon Lightning Yellow | 365745 | [365745-pokemon-lightning-yellow.json](./365745-pokemon-lightning-yellow.json) |
+| Pokémon Little Cup Red | 264094 | [264094-pokemon-little-cup-red.json](./264094-pokemon-little-cup-red.json) |
 | Pokémon Lost Silver | 320167 | [320167-pokemon-lost-silver.json](./320167-pokemon-lost-silver.json) |
 | Pokémon Lost World: Echoes of Eternity | 360181 | [360181-pokemon-lost-world-echoes-of-eternity.json](./360181-pokemon-lost-world-echoes-of-eternity.json) |
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
@@ -5822,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Cerberus | 42875 | [42875-project-cerberus.json](./42875-project-cerberus.json) |
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
+| Project Colored Mountains | 264095 | [264095-project-colored-mountains.json](./264095-project-colored-mountains.json) |
 | Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
 | Project Coreward | 275721 | [275721-project-coreward.json](./275721-project-coreward.json) |
 | Project Corner | 407549 | [407549-project-corner.json](./407549-project-corner.json) |
@@ -5899,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
 | Project Jump Scare | 60769 | [60769-project-jump-scare.json](./60769-project-jump-scare.json) |
 | Project Justice | 13096 | [13096-project-justice.json](./13096-project-justice.json) |
+| Project K1 | 264009 | [264009-project-k1.json](./264009-project-k1.json) |
 | Project Kepler: Delivery Included! | 363050 | [363050-project-kepler-delivery-included.json](./363050-project-kepler-delivery-included.json) |
 | Project Kinesis | 301954 | [301954-project-kinesis.json](./301954-project-kinesis.json) |
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
