@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eighteen Gold | 258484 | [258484-eighteen-gold.json](./258484-eighteen-gold.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
 | EightMan | 40976 | [40976-eightman.json](./40976-eightman.json) |
+| Eightrun | 242523 | [242523-eightrun.json](./242523-eightrun.json) |
 | Eights | 354652 | [354652-eights.json](./354652-eights.json) |
 | Eigo wo Taberu Fushigi na Ikimono | 338715 | [338715-eigo-wo-taberu-fushigi-na-ikimono.json](./338715-eigo-wo-taberu-fushigi-na-ikimono.json) |
 | Eijukugo Target 1000 DS | 317397 | [317397-eijukugo-target-1000-ds.json](./317397-eijukugo-target-1000-ds.json) |
