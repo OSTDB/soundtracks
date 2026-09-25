@@ -4979,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
+| Minigame Game | 231333 | [231333-minigame-game.json](./231333-minigame-game.json) |
 | Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
 | Minigame Party VR | 33146 | [33146-minigame-party-vr.json](./33146-minigame-party-vr.json) |
 | MiniGame Show do Milhão | 268040 | [268040-minigame-show-do-milhao.json](./268040-minigame-show-do-milhao.json) |
@@ -7295,6 +7296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicraft | 39187 | [39187-multicraft.json](./39187-multicraft.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
+| Multidimensions and Dreams | 231301 | [231301-multidimensions-and-dreams.json](./231301-multidimensions-and-dreams.json) |
 | MultiEnding Heroes | 345558 | [345558-multiending-heroes.json](./345558-multiending-heroes.json) |
 | Multigun | 345108 | [345108-multigun.json](./345108-multigun.json) |
 | Multilytheus | 186271 | [186271-multilytheus.json](./186271-multilytheus.json) |
