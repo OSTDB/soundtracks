@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
 | DeafBlind | 302434 | [302434-deafblind.json](./302434-deafblind.json) |
+| Deal or No Deal | 233990 | [233990-deal-or-no-deal.json](./233990-deal-or-no-deal.json) |
 | Deal or No Deal: DVD Game | 319737 | [319737-deal-or-no-deal-dvd-game.json](./319737-deal-or-no-deal-dvd-game.json) |
 | Deal or No Deal: Secret Vault Games | 209006 | [209006-deal-or-no-deal-secret-vault-games.json](./209006-deal-or-no-deal-secret-vault-games.json) |
 | Deal or No Deal: The Banker is Back | 70636 | [70636-deal-or-no-deal-the-banker-is-back.json](./70636-deal-or-no-deal-the-banker-is-back.json) |
@@ -4830,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Junior | 192915 | [192915-donkey-kong-junior.json](./192915-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192916 | [192916-donkey-kong-junior.json](./192916-donkey-kong-junior.json) |
 | Donkey Kong Land | 1091 | [1091-donkey-kong-land.json](./1091-donkey-kong-land.json) |
+| Donkey Kong Land 2: Game Boy Color Edition | 234032 | [234032-donkey-kong-land-2-game-boy-color-edition.json](./234032-donkey-kong-land-2-game-boy-color-edition.json) |
 | Donkey Kong Land III | 1095 | [1095-donkey-kong-land-iii.json](./1095-donkey-kong-land-iii.json) |
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
 | Donkey Kong vs. K. Rool Challenge | 307722 | [307722-donkey-kong-vs-k-rool-challenge.json](./307722-donkey-kong-vs-k-rool-challenge.json) |
