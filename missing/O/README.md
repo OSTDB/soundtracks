@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
 | Oraxum Trials | 192331 | [192331-oraxum-trials.json](./192331-oraxum-trials.json) |
 | Orb Boy | 180184 | [180184-orb-boy.json](./180184-orb-boy.json) |
+| Orb Devils | 239606 | [239606-orb-devils.json](./239606-orb-devils.json) |
 | Orb Flo | 68325 | [68325-orb-flo.json](./68325-orb-flo.json) |
 | Orb in Wonder | 277365 | [277365-orb-in-wonder.json](./277365-orb-in-wonder.json) |
 | Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
@@ -1819,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
 | Otonari Koi Sensou! | 194547 | [194547-otonari-koi-sensou.json](./194547-otonari-koi-sensou.json) |
+| Otoranger | 239595 | [239595-otoranger.json](./239595-otoranger.json) |
 | Otosan | 241366 | [241366-otosan.json](./241366-otosan.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
 | Otsuge Uranai nan desu | 69268 | [69268-otsuge-uranai-nan-desu.json](./69268-otsuge-uranai-nan-desu.json) |
