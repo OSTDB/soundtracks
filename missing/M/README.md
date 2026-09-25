@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Pinball Land | 6503 | [6503-mario-pinball-land.json](./6503-mario-pinball-land.json) |
 | Mario Power Tennis | 84700 | [84700-mario-power-tennis.json](./84700-mario-power-tennis.json) |
 | Mario Racing Tournament | 314508 | [314508-mario-racing-tournament.json](./314508-mario-racing-tournament.json) |
+| Mario Rescues Santa Claus | 229618 | [229618-mario-rescues-santa-claus.json](./229618-mario-rescues-santa-claus.json) |
 | Mario Roots | 323894 | [323894-mario-roots.json](./323894-mario-roots.json) |
 | Mario Royale Deluxe | 262665 | [262665-mario-royale-deluxe.json](./262665-mario-royale-deluxe.json) |
 | Mario Sports Complex: Barrel Blast | 231644 | [231644-mario-sports-complex-barrel-blast.json](./231644-mario-sports-complex-barrel-blast.json) |
@@ -3387,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memoria Wake | 348349 | [348349-memoria-wake.json](./348349-memoria-wake.json) |
 | Memorial Pillage | 183462 | [183462-memorial-pillage.json](./183462-memorial-pillage.json) |
+| Memorial Playground | 229650 | [229650-memorial-playground.json](./229650-memorial-playground.json) |
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
 | Memories | 174752 | [174752-memories.json](./174752-memories.json) |
@@ -5672,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
 | Moekasu | 321540 | [321540-moekasu.json](./321540-moekasu.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
+| Moémon Mega FireRed | 229615 | [229615-moemon-mega-firered.json](./229615-moemon-mega-firered.json) |
 | Moeras | 129565 | [129565-moeras.json](./129565-moeras.json) |
 | Moero 7!! Judo Warriors | 59994 | [59994-moero-7-judo-warriors.json](./59994-moero-7-judo-warriors.json) |
 | Moero Chronicle | 36869 | [36869-moero-chronicle.json](./36869-moero-chronicle.json) |
@@ -6397,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonleap 2600 | 413685 | [413685-moonleap-2600.json](./413685-moonleap-2600.json) |
 | Moonless | 244863 | [244863-moonless.json](./244863-moonless.json) |
 | Moonless Moon | 302959 | [302959-moonless-moon.json](./302959-moonless-moon.json) |
+| Moonlight | 229651 | [229651-moonlight.json](./229651-moonlight.json) |
 | Moonlight | 261534 | [261534-moonlight.json](./261534-moonlight.json) |
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
 | Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
