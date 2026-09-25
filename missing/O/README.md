@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean of Battles | 124246 | [124246-ocean-of-battles.json](./124246-ocean-of-battles.json) |
 | Ocean Oi | 183959 | [183959-ocean-oi.json](./183959-ocean-oi.json) |
 | Ocean Otter Climb | 341495 | [341495-ocean-otter-climb.json](./341495-ocean-otter-climb.json) |
+| Ocean Patrol | 249138 | [249138-ocean-patrol.json](./249138-ocean-patrol.json) |
 | Ocean Planet | 301811 | [301811-ocean-planet.json](./301811-ocean-planet.json) |
 | Ocean Playground | 341496 | [341496-ocean-playground.json](./341496-ocean-playground.json) |
 | Ocean Protector | 264104 | [264104-ocean-protector.json](./264104-ocean-protector.json) |
