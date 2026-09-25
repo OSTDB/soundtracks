@@ -3306,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Amidst the Timeless Rift | 284398 | [284398-love-amidst-the-timeless-rift.json](./284398-love-amidst-the-timeless-rift.json) |
 | Love and Betrayal | 195639 | [195639-love-and-betrayal.json](./195639-love-and-betrayal.json) |
 | Love And Death | 414568 | [414568-love-and-death.json](./414568-love-and-death.json) |
+| Love and Demons | 252074 | [252074-love-and-demons.json](./252074-love-and-demons.json) |
 | Love and Formaldehyde | 225266 | [225266-love-and-formaldehyde.json](./225266-love-and-formaldehyde.json) |
 | Love and Guillotines | 195629 | [195629-love-and-guillotines.json](./195629-love-and-guillotines.json) |
 | Love and Hate | 393776 | [393776-love-and-hate.json](./393776-love-and-hate.json) |
