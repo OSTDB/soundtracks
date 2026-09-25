@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
+| Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
 | Acno's Energizer | 326749 | [326749-acnos-energizer.json](./326749-acnos-energizer.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
+| Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
 | Ah Nanjarin | 284418 | [284418-ah-nanjarin.json](./284418-ah-nanjarin.json) |
 | AH-64D Longbow | 592 | [592-ah-64d-longbow.json](./592-ah-64d-longbow.json) |
@@ -1405,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Down Screen | 283888 | [283888-aim-down-screen.json](./283888-aim-down-screen.json) |
 | Aim for the Top! Gunbuster Vol. 1 | 57928 | [57928-aim-for-the-top-gunbuster-vol-1.json](./57928-aim-for-the-top-gunbuster-vol-1.json) |
 | Aim for the Top! Gunbuster vol. 2 | 57927 | [57927-aim-for-the-top-gunbuster-vol-2.json](./57927-aim-for-the-top-gunbuster-vol-2.json) |
+| Aim in Space | 274513 | [274513-aim-in-space.json](./274513-aim-in-space.json) |
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
 | Aim Sex | 297058 | [297058-aim-sex.json](./297058-aim-sex.json) |
 | Aim To Capture | 373618 | [373618-aim-to-capture.json](./373618-aim-to-capture.json) |
@@ -2030,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hominid | 210733 | [210733-alien-hominid.json](./210733-alien-hominid.json) |
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
+| Alien Hominid: The Extra Terrestrial Bundle | 274442 | [274442-alien-hominid-the-extra-terrestrial-bundle.json](./274442-alien-hominid-the-extra-terrestrial-bundle.json) |
 | Alien Hordes | 99390 | [99390-alien-hordes.json](./99390-alien-hordes.json) |
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
@@ -2451,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alquiem | 330857 | [330857-alquiem.json](./330857-alquiem.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alstan | 389734 | [389734-alstan.json](./389734-alstan.json) |
+| Alstroemeria | 274528 | [274528-alstroemeria.json](./274528-alstroemeria.json) |
 | Alt-Frequencies | 115650 | [115650-alt-frequencies.json](./115650-alt-frequencies.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
 | Altair | 38550 | [38550-altair.json](./38550-altair.json) |
@@ -5216,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
 | Assassin Of Spider | 384680 | [384680-assassin-of-spider.json](./384680-assassin-of-spider.json) |
 | Assassin Of Spider 2: 2099 | 404811 | [404811-assassin-of-spider-2-2099.json](./404811-assassin-of-spider-2-2099.json) |
+| Assassin War Sniper Shooting | 274452 | [274452-assassin-war-sniper-shooting.json](./274452-assassin-war-sniper-shooting.json) |
 | Assassin: Special Edition | 14601 | [14601-assassin-special-edition.json](./14601-assassin-special-edition.json) |
 | Assassin's Alliance | 304680 | [304680-assassins-alliance.json](./304680-assassins-alliance.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
@@ -5304,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Squad 2: Men of War Origins | 36398 | [36398-assault-squad-2-men-of-war-origins.json](./36398-assault-squad-2-men-of-war-origins.json) |
 | Assault Suit Leynos | 18655 | [18655-assault-suit-leynos.json](./18655-assault-suit-leynos.json) |
 | Assault Suit Leynos 2: Saturn Tribute | 298102 | [298102-assault-suit-leynos-2-saturn-tribute.json](./298102-assault-suit-leynos-2-saturn-tribute.json) |
+| Assault Wing | 274517 | [274517-assault-wing.json](./274517-assault-wing.json) |
 | AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
 | AssaultTech 1: BattleTech | 66071 | [66071-assaulttech-1-battletech.json](./66071-assaulttech-1-battletech.json) |
 | Asscar | 345573 | [345573-asscar.json](./345573-asscar.json) |
