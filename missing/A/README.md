@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
+| A Mallard's Song | 282087 | [282087-a-mallards-song.json](./282087-a-mallards-song.json) |
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
 | A Mass of Dead | 16924 | [16924-a-mass-of-dead.json](./16924-a-mass-of-dead.json) |
 | A Matter of Caos: Episode 2 | 101990 | [101990-a-matter-of-caos-episode-2.json](./101990-a-matter-of-caos-episode-2.json) |
@@ -454,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
 | A.D.A.M. | 19398 | [19398-a-d-a-m.json](./19398-a-d-a-m.json) |
 | A.E. | 20175 | [20175-a-e.json](./20175-a-e.json) |
+| A.E. | 282086 | [282086-a-e.json](./282086-a-e.json) |
 | A.I am Monster | 26569 | [26569-a-i-am-monster.json](./26569-a-i-am-monster.json) |
 | A.I. An Experience With Artificial Intelligence | 73556 | [73556-a-i-an-experience-with-artificial-intelligence.json](./73556-a-i-an-experience-with-artificial-intelligence.json) |
 | A.I. Invasion | 34855 | [34855-a-i-invasion.json](./34855-a-i-invasion.json) |
@@ -5483,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Boy: The Video Game | 4682 | [4682-astro-boy-the-video-game.json](./4682-astro-boy-the-video-game.json) |
 | Astro Burn | 350037 | [350037-astro-burn.json](./350037-astro-burn.json) |
 | Astro Chase | 12304 | [12304-astro-chase.json](./12304-astro-chase.json) |
+| Astro Chase | 282088 | [282088-astro-chase.json](./282088-astro-chase.json) |
 | Astro Chase 3D | 107639 | [107639-astro-chase-3d.json](./107639-astro-chase-3d.json) |
 | Astro Chef | 289381 | [289381-astro-chef.json](./289381-astro-chef.json) |
 | Astro Combat | 337648 | [337648-astro-combat.json](./337648-astro-combat.json) |
