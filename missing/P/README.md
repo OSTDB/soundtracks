@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil Story - Free Logic Game | 36487 | [36487-pencil-story-free-logic-game.json](./36487-pencil-story-free-logic-game.json) |
 | Pendragon | 132903 | [132903-pendragon.json](./132903-pendragon.json) |
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
+| Penduline Village | 275654 | [275654-penduline-village.json](./275654-penduline-village.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
 | Penelope Syndrome | 341585 | [341585-penelope-syndrome.json](./341585-penelope-syndrome.json) |
 | Penelope's Odyssey | 190700 | [190700-penelopes-odyssey.json](./190700-penelopes-odyssey.json) |
@@ -4427,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyamorous Relationships | 179048 | [179048-polyamorous-relationships.json](./179048-polyamorous-relationships.json) |
 | Polyball | 20348 | [20348-polyball.json](./20348-polyball.json) |
 | Polybius | 24868 | [24868-polybius.json](./24868-polybius.json) |
+| Polybius | 275668 | [275668-polybius.json](./275668-polybius.json) |
 | Polybius Invaders | 173786 | [173786-polybius-invaders.json](./173786-polybius-invaders.json) |
 | Polybius Invaders 2 | 270948 | [270948-polybius-invaders-2.json](./270948-polybius-invaders-2.json) |
 | Polyblicy | 145019 | [145019-polyblicy.json](./145019-polyblicy.json) |
