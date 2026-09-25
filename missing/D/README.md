@@ -3277,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
 | Die, Pablo! | 270119 | [270119-die-pablo.json](./270119-die-pablo.json) |
 | Dieathlon | 410981 | [410981-dieathlon.json](./410981-dieathlon.json) |
+| Diebrary | 244734 | [244734-diebrary.json](./244734-diebrary.json) |
 | Died | 305915 | [305915-died.json](./305915-died.json) |
 | Died of Fear | 44183 | [44183-died-of-fear.json](./44183-died-of-fear.json) |
 | DieFeen | 305161 | [305161-diefeen.json](./305161-diefeen.json) |
@@ -3818,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disintegration | 243254 | [243254-disintegration.json](./243254-disintegration.json) |
 | Disjunction | 112005 | [112005-disjunction.json](./112005-disjunction.json) |
 | Disjunction | 313830 | [313830-disjunction.json](./313830-disjunction.json) |
+| Disk Dashers | 244739 | [244739-disk-dashers.json](./244739-disk-dashers.json) |
 | Disk Jockey Boy | 46220 | [46220-disk-jockey-boy.json](./46220-disk-jockey-boy.json) |
 | Disk NG 1 | 220140 | [220140-disk-ng-1.json](./220140-disk-ng-1.json) |
 | Disk Station #0 | 78958 | [78958-disk-station-0.json](./78958-disk-station-0.json) |
@@ -7265,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
+| Dynopunk: Welcome to Synth-City | 244703 | [244703-dynopunk-welcome-to-synth-city.json](./244703-dynopunk-welcome-to-synth-city.json) |
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
 | Dys4ia | 15850 | [15850-dys4ia.json](./15850-dys4ia.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
