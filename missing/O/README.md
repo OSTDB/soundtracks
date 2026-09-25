@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Love, On Monsters | 413779 | [413779-on-love-on-monsters.json](./413779-on-love-on-monsters.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
 | On My Way Out | 365896 | [365896-on-my-way-out.json](./365896-on-my-way-out.json) |
+| On N Off | 246356 | [246356-on-n-off.json](./246356-on-n-off.json) |
 | On Pixels: A Lights Out Game | 172175 | [172175-on-pixels-a-lights-out-game.json](./172175-on-pixels-a-lights-out-game.json) |
 | On Rusty Trails | 19479 | [19479-on-rusty-trails.json](./19479-on-rusty-trails.json) |
 | On S’en Grille Une? | 386879 | [386879-on-s-en-grille-une.json](./386879-on-s-en-grille-une.json) |
@@ -904,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Day for Revenge | 104020 | [104020-one-day-for-revenge.json](./104020-one-day-for-revenge.json) |
 | One Day in London | 32931 | [32931-one-day-in-london.json](./32931-one-day-in-london.json) |
 | One Day More | 150535 | [150535-one-day-more.json](./150535-one-day-more.json) |
+| One Day of Mr. Potato | 246383 | [246383-one-day-of-mr-potato.json](./246383-one-day-of-mr-potato.json) |
 | One Deck Galaxy | 257458 | [257458-one-deck-galaxy.json](./257458-one-deck-galaxy.json) |
 | One Dimension | 89984 | [89984-one-dimension.json](./89984-one-dimension.json) |
 | One Direction | 263602 | [263602-one-direction.json](./263602-one-direction.json) |
