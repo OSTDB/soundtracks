@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
+| Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
 | Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
 | Car Mechanic Simulator: Pocket Edition | 122871 | [122871-car-mechanic-simulator-pocket-edition.json](./122871-car-mechanic-simulator-pocket-edition.json) |
 | Car Mechanic Simulator: Pocket Edition 2 | 196825 | [196825-car-mechanic-simulator-pocket-edition-2.json](./196825-car-mechanic-simulator-pocket-edition-2.json) |
@@ -1163,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
 | Cassette Five | 153853 | [153853-cassette-five.json](./153853-cassette-five.json) |
 | Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
+| Cassiel | 276262 | [276262-cassiel.json](./276262-cassiel.json) |
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
 | Cast 'n' Blast | 318564 | [318564-cast-n-blast.json](./318564-cast-n-blast.json) |
 | Cast Away: The Oddysee | 311061 | [311061-cast-away-the-oddysee.json](./311061-cast-away-the-oddysee.json) |
@@ -2190,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotix CD | 332455 | [332455-chaotix-cd.json](./332455-chaotix-cd.json) |
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Chapatriste | 307622 | [307622-chapatriste.json](./307622-chapatriste.json) |
+| Chaperone | 276220 | [276220-chaperone.json](./276220-chaperone.json) |
 | Chapter Wars: Expansion Pack | 286541 | [286541-chapter-wars-expansion-pack.json](./286541-chapter-wars-expansion-pack.json) |
 | Chaqs | 223504 | [223504-chaqs.json](./223504-chaqs.json) |
 | Char's Ennui | 384774 | [384774-chars-ennui.json](./384774-chars-ennui.json) |
@@ -2723,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
+| Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
 | Chinese Juggler | 13830 | [13830-chinese-juggler.json](./13830-chinese-juggler.json) |
 | Chinese Karate | 15885 | [15885-chinese-karate.json](./15885-chinese-karate.json) |
@@ -3273,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle of Nature | 327982 | [327982-circle-of-nature.json](./327982-circle-of-nature.json) |
 | Circle of Orion | 257930 | [257930-circle-of-orion.json](./257930-circle-of-orion.json) |
 | Circle of Sumo: Online Rumble! | 126661 | [126661-circle-of-sumo-online-rumble.json](./126661-circle-of-sumo-online-rumble.json) |
+| Circle of Swords | 276242 | [276242-circle-of-swords.json](./276242-circle-of-swords.json) |
 | Circle Pong | 289388 | [289388-circle-pong.json](./289388-circle-pong.json) |
 | Circle the Dot | 39200 | [39200-circle-the-dot.json](./39200-circle-the-dot.json) |
 | Circle the Fish | 214168 | [214168-circle-the-fish.json](./214168-circle-the-fish.json) |
@@ -4529,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Microscopic Pack | 327369 | [327369-coloring-pixels-microscopic-pack.json](./327369-coloring-pixels-microscopic-pack.json) |
 | Coloring Pixels: Mythology 2 Pack | 201705 | [201705-coloring-pixels-mythology-2-pack.json](./201705-coloring-pixels-mythology-2-pack.json) |
 | Coloring Pixels: Natural Wonders | 393616 | [393616-coloring-pixels-natural-wonders.json](./393616-coloring-pixels-natural-wonders.json) |
+| Coloring Pixels: Onion Pack | 276232 | [276232-coloring-pixels-onion-pack.json](./276232-coloring-pixels-onion-pack.json) |
 | Coloring Pixels: Pastels Pack | 351624 | [351624-coloring-pixels-pastels-pack.json](./351624-coloring-pixels-pastels-pack.json) |
 | Coloring Pixels: Pets Pack | 305514 | [305514-coloring-pixels-pets-pack.json](./305514-coloring-pixels-pets-pack.json) |
 | Coloring Pixels: Pirates Pack | 252239 | [252239-coloring-pixels-pirates-pack.json](./252239-coloring-pixels-pirates-pack.json) |
@@ -4853,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
 | Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
 | Compilation I Tom Clancy's Ghost Recon: Advanced Warfighter 2 + Tom Clancy's EndWar | 84163 | [84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json](./84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json) |
+| Complete | 276261 | [276261-complete.json](./276261-complete.json) |
 | Complete Costume Collection | 52833 | [52833-complete-costume-collection.json](./52833-complete-costume-collection.json) |
 | Complete it - Jigsaw Puzzles with Beautiful Images | 90396 | [90396-complete-it-jigsaw-puzzles-with-beautiful-images.json](./90396-complete-it-jigsaw-puzzles-with-beautiful-images.json) |
 | Complete Me | 108834 | [108834-complete-me.json](./108834-complete-me.json) |
@@ -6463,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimes of Passion II | 313796 | [313796-crimes-of-passion-ii.json](./313796-crimes-of-passion-ii.json) |
 | Crimes of Passion: The Proposal | 313797 | [313797-crimes-of-passion-the-proposal.json](./313797-crimes-of-passion-the-proposal.json) |
 | Crimes: Open Cases | 299858 | [299858-crimes-open-cases.json](./299858-crimes-open-cases.json) |
+| CrimeSceneCleaners | 276258 | [276258-crimescenecleaners.json](./276258-crimescenecleaners.json) |
 | Criminal Archives: Alphabetic Murders | 417708 | [417708-criminal-archives-alphabetic-murders.json](./417708-criminal-archives-alphabetic-murders.json) |
 | Criminal Archives: Alphabetic Murders - Collector's Edition | 247497 | [247497-criminal-archives-alphabetic-murders-collectors-edition.json](./247497-criminal-archives-alphabetic-murders-collectors-edition.json) |
 | Criminal Archives: Alphabetic Murders DLC | 248289 | [248289-criminal-archives-alphabetic-murders-dlc.json](./248289-criminal-archives-alphabetic-murders-dlc.json) |
@@ -7725,6 +7733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberRoom | 339358 | [339358-cyberroom.json](./339358-cyberroom.json) |
 | Cyberrrevolution | 180211 | [180211-cyberrrevolution.json](./180211-cyberrrevolution.json) |
 | Cyberrunner | 212337 | [212337-cyberrunner.json](./212337-cyberrunner.json) |
+| CyberRush | 276215 | [276215-cyberrush.json](./276215-cyberrush.json) |
 | Cyberscape | 235201 | [235201-cyberscape.json](./235201-cyberscape.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersecurity Ethics Scavenger Hunt | 257397 | [257397-cybersecurity-ethics-scavenger-hunt.json](./257397-cybersecurity-ethics-scavenger-hunt.json) |
