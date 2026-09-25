@@ -1823,7 +1823,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ero Condo: Remastered | 343882 | [343882-ero-condo-remastered.json](./343882-ero-condo-remastered.json) |
 | Ero Date | 107822 | [107822-ero-date.json](./107822-ero-date.json) |
 | Ero Zemi: Ecchi ni Yaru-ki ni ABC | 194579 | [194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json](./194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json) |
+| Eroblast: Passion Edition | 262322 | [262322-eroblast-passion-edition.json](./262322-eroblast-passion-edition.json) |
 | Eroblast: Playful Edition | 259572 | [259572-eroblast-playful-edition.json](./259572-eroblast-playful-edition.json) |
+| Eroblast: Spicy Edition | 262329 | [262329-eroblast-spicy-edition.json](./262329-eroblast-spicy-edition.json) |
 | Erobos Heaven | 247514 | [247514-erobos-heaven.json](./247514-erobos-heaven.json) |
 | Erocism | 302445 | [302445-erocism.json](./302445-erocism.json) |
 | Eroge Academy | 277957 | [277957-eroge-academy.json](./277957-eroge-academy.json) |
