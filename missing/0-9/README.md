@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Deep Space | 83269 | [83269-3-deep-space.json](./83269-3-deep-space.json) |
 | 3 Foot Ninja | 241472 | [241472-3-foot-ninja.json](./241472-3-foot-ninja.json) |
 | 3 Games in 1: Tak and the Power of Juju / SpongeBob SquarePants: SuperSponge / Rugrats: I Gotta Go Party | 82098 | [82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json](./82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json) |
+| 3 Hit Blunders Bundle | 254418 | [254418-3-hit-blunders-bundle.json](./254418-3-hit-blunders-bundle.json) |
 | 3 in 1 College & Pro Football | 418709 | [418709-3-in-1-college-and-pro-football.json](./418709-3-in-1-college-and-pro-football.json) |
 | 3 in 1: Multiplayer Bundle | 223566 | [223566-3-in-1-multiplayer-bundle.json](./223566-3-in-1-multiplayer-bundle.json) |
 | 3 In Three | 86059 | [86059-3-in-three.json](./86059-3-in-three.json) |
