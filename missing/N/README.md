@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
 | New Quest: Don't Get Bored! | 178943 | [178943-new-quest-dont-get-bored.json](./178943-new-quest-dont-get-bored.json) |
+| New Rally-X Arrangement | 178411 | [178411-new-rally-x-arrangement.json](./178411-new-rally-x-arrangement.json) |
 | New Revolution | 188398 | [188398-new-revolution.json](./188398-new-revolution.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
 | New Roots | 203853 | [203853-new-roots.json](./203853-new-roots.json) |
@@ -2337,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
 | Njuma | 287740 | [287740-njuma.json](./287740-njuma.json) |
+| Nl | 178434 | [178434-nl.json](./178434-nl.json) |
 | NLdle | 342051 | [342051-nldle.json](./342051-nldle.json) |
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
 | NMDC | 199584 | [199584-nmdc.json](./199584-nmdc.json) |
