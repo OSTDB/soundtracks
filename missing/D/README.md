@@ -1347,6 +1347,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead in Your TrackZ | 358913 | [358913-dead-in-your-trackz.json](./358913-dead-in-your-trackz.json) |
 | Dead Inside | 377576 | [377576-dead-inside.json](./377576-dead-inside.json) |
 | Dead Invaders: Modern War 3D | 216164 | [216164-dead-invaders-modern-war-3d.json](./216164-dead-invaders-modern-war-3d.json) |
+| Dead Island 2: Deluxe Edition | 214473 | [214473-dead-island-2-deluxe-edition.json](./214473-dead-island-2-deluxe-edition.json) |
+| Dead Island 2: Gold Edition | 214472 | [214472-dead-island-2-gold-edition.json](./214472-dead-island-2-gold-edition.json) |
 | Dead Island 2: SoLA | 298542 | [298542-dead-island-2-sola.json](./298542-dead-island-2-sola.json) |
 | Dead Island 2: Ultimate Edition | 320310 | [320310-dead-island-2-ultimate-edition.json](./320310-dead-island-2-ultimate-edition.json) |
 | Dead Island: Bloodbath Arena | 22932 | [22932-dead-island-bloodbath-arena.json](./22932-dead-island-bloodbath-arena.json) |
@@ -3927,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley | 198506 | [198506-disney-dreamlight-valley.json](./198506-disney-dreamlight-valley.json) |
 | Disney Dreamlight Valley: Arcade Edition | 357417 | [357417-disney-dreamlight-valley-arcade-edition.json](./357417-disney-dreamlight-valley-arcade-edition.json) |
 | Disney Dreamlight Valley: Cozy Edition | 270205 | [270205-disney-dreamlight-valley-cozy-edition.json](./270205-disney-dreamlight-valley-cozy-edition.json) |
+| Disney Dreamlight Valley: Deluxe Edition | 214448 | [214448-disney-dreamlight-valley-deluxe-edition.json](./214448-disney-dreamlight-valley-deluxe-edition.json) |
 | Disney Dreamlight Valley: Emotional Rescue | 362263 | [362263-disney-dreamlight-valley-emotional-rescue.json](./362263-disney-dreamlight-valley-emotional-rescue.json) |
 | Disney Dreamlight Valley: Enchanted Adventure | 266853 | [266853-disney-dreamlight-valley-enchanted-adventure.json](./266853-disney-dreamlight-valley-enchanted-adventure.json) |
 | Disney Dreamlight Valley: Missions in Uncharted Space | 228430 | [228430-disney-dreamlight-valley-missions-in-uncharted-space.json](./228430-disney-dreamlight-valley-missions-in-uncharted-space.json) |
@@ -3934,6 +3937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Scar's Kingdom | 222272 | [222272-disney-dreamlight-valley-scars-kingdom.json](./222272-disney-dreamlight-valley-scars-kingdom.json) |
 | Disney Dreamlight Valley: The Winter Ball | 381099 | [381099-disney-dreamlight-valley-the-winter-ball.json](./381099-disney-dreamlight-valley-the-winter-ball.json) |
 | Disney Dreamlight Valley: Thrills & Frills | 300014 | [300014-disney-dreamlight-valley-thrills-and-frills.json](./300014-disney-dreamlight-valley-thrills-and-frills.json) |
+| Disney Dreamlight Valley: Ultimate Edition | 214449 | [214449-disney-dreamlight-valley-ultimate-edition.json](./214449-disney-dreamlight-valley-ultimate-edition.json) |
 | Disney Dreamlight Valley: Whispers of the Wind | 397675 | [397675-disney-dreamlight-valley-whispers-of-the-wind.json](./397675-disney-dreamlight-valley-whispers-of-the-wind.json) |
 | Disney Dreamlight Valley: Wonderland Whimsy | 341581 | [341581-disney-dreamlight-valley-wonderland-whimsy.json](./341581-disney-dreamlight-valley-wonderland-whimsy.json) |
 | Disney DVD Game World: Disney Dogs Edition | 228445 | [228445-disney-dvd-game-world-disney-dogs-edition.json](./228445-disney-dvd-game-world-disney-dogs-edition.json) |
