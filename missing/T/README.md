@@ -11970,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
+| Treasure Hunt | 208892 | [208892-treasure-hunt.json](./208892-treasure-hunt.json) |
 | Treasure Hunt | 246370 | [246370-treasure-hunt.json](./246370-treasure-hunt.json) |
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
 | Treasure Hunt Girl | 270114 | [270114-treasure-hunt-girl.json](./270114-treasure-hunt-girl.json) |
