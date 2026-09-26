@@ -3334,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer | 12893 | [12893-world-soccer.json](./12893-world-soccer.json) |
 | World Soccer | 13087 | [13087-world-soccer.json](./13087-world-soccer.json) |
 | World Soccer Challenge | 255739 | [255739-world-soccer-challenge.json](./255739-world-soccer-challenge.json) |
+| World Soccer Cup 2022 | 221691 | [221691-world-soccer-cup-2022.json](./221691-world-soccer-cup-2022.json) |
 | World Soccer Finals | 38560 | [38560-world-soccer-finals.json](./38560-world-soccer-finals.json) |
 | World Soccer Kid | 196827 | [196827-world-soccer-kid.json](./196827-world-soccer-kid.json) |
 | World Soccer Strikers '91 | 139423 | [139423-world-soccer-strikers-91.json](./139423-world-soccer-strikers-91.json) |
