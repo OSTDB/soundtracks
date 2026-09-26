@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluua | 235698 | [235698-gluua.json](./235698-gluua.json) |
 | Glyde the Dragon | 217234 | [217234-glyde-the-dragon.json](./217234-glyde-the-dragon.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
+| Glyph | 208294 | [208294-glyph.json](./208294-glyph.json) |
 | Glyph | 243075 | [243075-glyph.json](./243075-glyph.json) |
 | Glyph | 388223 | [388223-glyph.json](./388223-glyph.json) |
 | Glyph Chess | 384226 | [384226-glyph-chess.json](./384226-glyph-chess.json) |
@@ -3490,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Hill Zone 2.5D | 332550 | [332550-green-hill-zone-2-5d.json](./332550-green-hill-zone-2-5d.json) |
 | Green House | 93380 | [93380-green-house.json](./93380-green-house.json) |
 | Green Inferno | 410929 | [410929-green-inferno.json](./410929-green-inferno.json) |
+| Green Lantern | 208319 | [208319-green-lantern.json](./208319-green-lantern.json) |
 | Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
 | Green Lantern: Rise of the Manhunters | 4896 | [4896-green-lantern-rise-of-the-manhunters.json](./4896-green-lantern-rise-of-the-manhunters.json) |
 | Green Lava Studios Volume 2 | 195092 | [195092-green-lava-studios-volume-2.json](./195092-green-lava-studios-volume-2.json) |
