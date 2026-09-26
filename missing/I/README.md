@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I was here | 68681 | [68681-i-was-here.json](./68681-i-was-here.json) |
 | I Was Here | 179047 | [179047-i-was-here.json](./179047-i-was-here.json) |
 | I Was in the War | 242822 | [242822-i-was-in-the-war.json](./242822-i-was-in-the-war.json) |
+| I Was Lost | 203245 | [203245-i-was-lost.json](./203245-i-was-lost.json) |
 | I Was Wrong | 207499 | [207499-i-was-wrong.json](./207499-i-was-wrong.json) |
 | I Will Be Your Eyes | 126649 | [126649-i-will-be-your-eyes.json](./126649-i-will-be-your-eyes.json) |
 | I Will Become a Swordsman | 284343 | [284343-i-will-become-a-swordsman.json](./284343-i-will-become-a-swordsman.json) |
@@ -2288,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invitation to Fear | 188611 | [188611-invitation-to-fear.json](./188611-invitation-to-fear.json) |
 | Inviyya | 182924 | [182924-inviyya.json](./182924-inviyya.json) |
 | Invizimals | 2994 | [2994-invizimals.json](./2994-invizimals.json) |
+| Invizimals: Hidden Challenges | 203233 | [203233-invizimals-hidden-challenges.json](./203233-invizimals-hidden-challenges.json) |
 | Invizimals: The Alliance | 23417 | [23417-invizimals-the-alliance.json](./23417-invizimals-the-alliance.json) |
 | Invizimals: The Lost Kingdom | 23357 | [23357-invizimals-the-lost-kingdom.json](./23357-invizimals-the-lost-kingdom.json) |
 | Invizimals: The Lost Tribes | 3001 | [3001-invizimals-the-lost-tribes.json](./3001-invizimals-the-lost-tribes.json) |
