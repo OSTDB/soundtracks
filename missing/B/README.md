@@ -4691,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardquest: Tales of Liria | 244207 | [244207-boardquest-tales-of-liria.json](./244207-boardquest-tales-of-liria.json) |
 | Boardroom Alpha | 324688 | [324688-boardroom-alpha.json](./324688-boardroom-alpha.json) |
 | Boardwalk Arcade 2 | 292144 | [292144-boardwalk-arcade-2.json](./292144-boardwalk-arcade-2.json) |
+| Boardwalk Memories | 191565 | [191565-boardwalk-memories.json](./191565-boardwalk-memories.json) |
 | Boardwalk Sea Ball | 366410 | [366410-boardwalk-sea-ball.json](./366410-boardwalk-sea-ball.json) |
 | Boat Adventure | 99635 | [99635-boat-adventure.json](./99635-boat-adventure.json) |
 | Boat Crew | 167803 | [167803-boat-crew.json](./167803-boat-crew.json) |
