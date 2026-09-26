@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
+| A Bird's Tale | 207242 | [207242-a-birds-tale.json](./207242-a-birds-tale.json) |
 | A Bit of Tactics | 221112 | [221112-a-bit-of-tactics.json](./221112-a-bit-of-tactics.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
@@ -943,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addition and Subtraction 1 | 42191 | [42191-addition-and-subtraction-1.json](./42191-addition-and-subtraction-1.json) |
 | Addition and Subtraction 2 | 42193 | [42193-addition-and-subtraction-2.json](./42193-addition-and-subtraction-2.json) |
 | Addition and Subtraction 3 | 42192 | [42192-addition-and-subtraction-3.json](./42192-addition-and-subtraction-3.json) |
+| Addled | 207288 | [207288-addled.json](./207288-addled.json) |
 | Address1 | 265648 | [265648-address1.json](./265648-address1.json) |
 | Addy: Do You Speak English? | 269541 | [269541-addy-do-you-speak-english.json](./269541-addy-do-you-speak-english.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
@@ -2695,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alvo | 75119 | [75119-alvo.json](./75119-alvo.json) |
 | Alwa's Awakening | 10681 | [10681-alwas-awakening.json](./10681-alwas-awakening.json) |
 | Alwa's Awakening & Cathedral | 214532 | [214532-alwas-awakening-and-cathedral.json](./214532-alwas-awakening-and-cathedral.json) |
+| Alwa's Awakening: The 8-Bit Edition | 207274 | [207274-alwas-awakening-the-8-bit-edition.json](./207274-alwas-awakening-the-8-bit-edition.json) |
 | Alwa's Collection | 171547 | [171547-alwas-collection.json](./171547-alwas-collection.json) |
 | Alwa's Legacy + Alwa's Awakening | 288311 | [288311-alwas-legacy-alwas-awakening.json](./288311-alwas-legacy-alwas-awakening.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
@@ -6524,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender - The Burning Earth | 210253 | [210253-avatar-the-last-airbender-the-burning-earth.json](./210253-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar's Demise | 263488 | [263488-avatars-demise.json](./263488-avatars-demise.json) |
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
+| Avava | 207287 | [207287-avava.json](./207287-avava.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
 | Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
 | Avem888 | 105751 | [105751-avem888.json](./105751-avem888.json) |
