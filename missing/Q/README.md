@@ -201,6 +201,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Threshold | 344962 | [344962-quantum-threshold.json](./344962-quantum-threshold.json) |
 | Quantum Tripper: Math | 267084 | [267084-quantum-tripper-math.json](./267084-quantum-tripper-math.json) |
 | Quantum Tripper: Max | 296520 | [296520-quantum-tripper-max.json](./296520-quantum-tripper-max.json) |
+| Quantum Tripper: Voyager | 221679 | [221679-quantum-tripper-voyager.json](./221679-quantum-tripper-voyager.json) |
+| Quantum Tripper: Wetwash | 221680 | [221680-quantum-tripper-wetwash.json](./221680-quantum-tripper-wetwash.json) |
 | Quantum Void | 288758 | [288758-quantum-void.json](./288758-quantum-void.json) |
 | Quantum Witch | 323165 | [323165-quantum-witch.json](./323165-quantum-witch.json) |
 | Quantum Wizard | 44182 | [44182-quantum-wizard.json](./44182-quantum-wizard.json) |
