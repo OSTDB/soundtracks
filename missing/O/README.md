@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Hannah | 199589 | [199589-otherworld-legends-hannah.json](./199589-otherworld-legends-hannah.json) |
 | Otherworld Legends: Skin - The Unreturning | 361892 | [361892-otherworld-legends-skin-the-unreturning.json](./361892-otherworld-legends-skin-the-unreturning.json) |
 | Otherworld Legends: Uliana | 226705 | [226705-otherworld-legends-uliana.json](./226705-otherworld-legends-uliana.json) |
+| Otherworldly Stars | 179513 | [179513-otherworldly-stars.json](./179513-otherworldly-stars.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otisdub Tag Plus | 417651 | [417651-otisdub-tag-plus.json](./417651-otisdub-tag-plus.json) |
 | Otogi: Myth of Demons | 5975 | [5975-otogi-myth-of-demons.json](./5975-otogi-myth-of-demons.json) |
