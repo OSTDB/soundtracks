@@ -2807,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biathlon 2008 | 70651 | [70651-biathlon-2008.json](./70651-biathlon-2008.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
+| Bibi & Tina: Die große Schnitzeljagd | 216188 | [216188-bibi-and-tina-die-gro-e-schnitzeljagd.json](./216188-bibi-and-tina-die-gro-e-schnitzeljagd.json) |
 | Bibi & Tina: Jump & Ride | 148356 | [148356-bibi-and-tina-jump-and-ride.json](./148356-bibi-and-tina-jump-and-ride.json) |
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
 | Bibi Blocksberg: Big Broom Race 4 | 375406 | [375406-bibi-blocksberg-big-broom-race-4.json](./375406-bibi-blocksberg-big-broom-race-4.json) |
