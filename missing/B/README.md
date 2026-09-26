@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Market Bowling | 57643 | [57643-black-market-bowling.json](./57643-black-market-bowling.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
+| Black Mesa: Blue Shift | 196017 | [196017-black-mesa-blue-shift.json](./196017-black-mesa-blue-shift.json) |
 | Black Mesa: Classic | 283761 | [283761-black-mesa-classic.json](./283761-black-mesa-classic.json) |
 | Black Mirror: Thronglets | 339816 | [339816-black-mirror-thronglets.json](./339816-black-mirror-thronglets.json) |
 | Black Mist | 51515 | [51515-black-mist.json](./51515-black-mist.json) |
@@ -4536,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
 | Blox | 18322 | [18322-blox.json](./18322-blox.json) |
 | Blox 3D | 100146 | [100146-blox-3d.json](./100146-blox-3d.json) |
+| Blox 3D World | 196053 | [196053-blox-3d-world.json](./196053-blox-3d-world.json) |
 | BloxAR | 357299 | [357299-bloxar.json](./357299-bloxar.json) |
 | Bloxeed | 38586 | [38586-bloxeed.json](./38586-bloxeed.json) |
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
@@ -5141,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm | 316279 | [316279-bookworm.json](./316279-bookworm.json) |
 | Bookworm | 8325 | [8325-bookworm.json](./8325-bookworm.json) |
 | Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
+| Bookworm Wordy Wonder Bundle | 196003 | [196003-bookworm-wordy-wonder-bundle.json](./196003-bookworm-wordy-wonder-bundle.json) |
 | Bookyman | 229061 | [229061-bookyman.json](./229061-bookyman.json) |
 | Bool Capture | 347881 | [347881-bool-capture.json](./347881-bool-capture.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
