@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T00:48:00.975Z",
-  "total_missing": 123376,
+  "generated_at": "2026-09-26T01:02:49.013Z",
+  "total_missing": 123426,
   "games": [
     {
       "igdb_id": 176875,
@@ -69563,6 +69563,11 @@
       "file": "missing/B/362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json"
     },
     {
+      "igdb_id": 225009,
+      "game_name": "Bridge to Another World: Cursed Clouds - Collector's Edition",
+      "file": "missing/B/225009-bridge-to-another-world-cursed-clouds-collectors-edition.json"
+    },
+    {
       "igdb_id": 327367,
       "game_name": "Bridge to Another World: Escape From Oz",
       "file": "missing/B/327367-bridge-to-another-world-escape-from-oz.json"
@@ -136323,6 +136328,31 @@
       "file": "missing/D/366929-djmax-respect-v-arcaea-pack.json"
     },
     {
+      "igdb_id": 225049,
+      "game_name": "DJMax Respect V: Black Square Pack",
+      "file": "missing/D/225049-djmax-respect-v-black-square-pack.json"
+    },
+    {
+      "igdb_id": 225047,
+      "game_name": "DJMax Respect V: Chunithm Pack",
+      "file": "missing/D/225047-djmax-respect-v-chunithm-pack.json"
+    },
+    {
+      "igdb_id": 225044,
+      "game_name": "DJMax Respect V: Clazziquai Edition Pack",
+      "file": "missing/D/225044-djmax-respect-v-clazziquai-edition-pack.json"
+    },
+    {
+      "igdb_id": 225056,
+      "game_name": "DJMax Respect V: Cytus Pack",
+      "file": "missing/D/225056-djmax-respect-v-cytus-pack.json"
+    },
+    {
+      "igdb_id": 225048,
+      "game_name": "DJMax Respect V: Deemo Pack",
+      "file": "missing/D/225048-djmax-respect-v-deemo-pack.json"
+    },
+    {
       "igdb_id": 225060,
       "game_name": "DJMax Respect V: Emotional Sense Pack",
       "file": "missing/D/225060-djmax-respect-v-emotional-sense-pack.json"
@@ -136353,14 +136383,59 @@
       "file": "missing/D/265635-djmax-respect-v-maplestory-pack.json"
     },
     {
+      "igdb_id": 225052,
+      "game_name": "DJMax Respect V: Muse Dash Pack",
+      "file": "missing/D/225052-djmax-respect-v-muse-dash-pack.json"
+    },
+    {
+      "igdb_id": 225054,
+      "game_name": "DJMax Respect V: Nexon Pack",
+      "file": "missing/D/225054-djmax-respect-v-nexon-pack.json"
+    },
+    {
+      "igdb_id": 225050,
+      "game_name": "DJMax Respect V: Portable 3 Pack",
+      "file": "missing/D/225050-djmax-respect-v-portable-3-pack.json"
+    },
+    {
+      "igdb_id": 225053,
+      "game_name": "DJMax Respect V: Technika 2 Pack",
+      "file": "missing/D/225053-djmax-respect-v-technika-2-pack.json"
+    },
+    {
+      "igdb_id": 225046,
+      "game_name": "DJMax Respect V: Technika 3 Pack",
+      "file": "missing/D/225046-djmax-respect-v-technika-3-pack.json"
+    },
+    {
       "igdb_id": 225058,
       "game_name": "DJMax Respect V: Technika Pack",
       "file": "missing/D/225058-djmax-respect-v-technika-pack.json"
     },
     {
+      "igdb_id": 225051,
+      "game_name": "DJMax Respect V: Technika Tune & Q Pack",
+      "file": "missing/D/225051-djmax-respect-v-technika-tune-and-q-pack.json"
+    },
+    {
+      "igdb_id": 225045,
+      "game_name": "DJMax Respect V: Trilogy Pack",
+      "file": "missing/D/225045-djmax-respect-v-trilogy-pack.json"
+    },
+    {
+      "igdb_id": 225055,
+      "game_name": "DJMax Respect V: V Extension II Pack",
+      "file": "missing/D/225055-djmax-respect-v-v-extension-ii-pack.json"
+    },
+    {
       "igdb_id": 226691,
       "game_name": "DJMax Respect V: V Extension III Pack",
       "file": "missing/D/226691-djmax-respect-v-v-extension-iii-pack.json"
+    },
+    {
+      "igdb_id": 225057,
+      "game_name": "DJMax Respect V: V Extension Pack",
+      "file": "missing/D/225057-djmax-respect-v-v-extension-pack.json"
     },
     {
       "igdb_id": 307059,
@@ -206358,6 +206433,11 @@
       "file": "missing/G/278133-gloomy-island.json"
     },
     {
+      "igdb_id": 225010,
+      "game_name": "Gloomy Tales: Horrific Show - Collector's Edition",
+      "file": "missing/G/225010-gloomy-tales-horrific-show-collectors-edition.json"
+    },
+    {
       "igdb_id": 140995,
       "game_name": "Gloomy Toons",
       "file": "missing/G/140995-gloomy-toons.json"
@@ -220103,6 +220183,11 @@
       "file": "missing/H/362849-halloween-stories-inspirations-spark-collectors-edition.json"
     },
     {
+      "igdb_id": 225011,
+      "game_name": "Halloween Stories: Mark on the Bone - Collector's Edition",
+      "file": "missing/H/225011-halloween-stories-mark-on-the-bone-collectors-edition.json"
+    },
+    {
       "igdb_id": 416609,
       "game_name": "Halloween Stories: The Death Card",
       "file": "missing/H/416609-halloween-stories-the-death-card.json"
@@ -223181,6 +223266,11 @@
       "igdb_id": 28843,
       "game_name": "Harvest Moon: Light of Hope",
       "file": "missing/H/28843-harvest-moon-light-of-hope.json"
+    },
+    {
+      "igdb_id": 225043,
+      "game_name": "Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack",
+      "file": "missing/H/225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json"
     },
     {
       "igdb_id": 3386,
@@ -324653,9 +324743,29 @@
       "file": "missing/M/74567-misao-definitive-edition.json"
     },
     {
+      "igdb_id": 225040,
+      "game_name": "Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Asha Edition",
+      "file": "missing/M/225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json"
+    },
+    {
       "igdb_id": 232996,
       "game_name": "Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Clara Edition",
       "file": "missing/M/232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json"
+    },
+    {
+      "igdb_id": 225042,
+      "game_name": "Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Janice Edition",
+      "file": "missing/M/225042-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-janice-edition.json"
+    },
+    {
+      "igdb_id": 225041,
+      "game_name": "Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Kuraara Edition",
+      "file": "missing/M/225041-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-kuraara-edition.json"
+    },
+    {
+      "igdb_id": 225039,
+      "game_name": "Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Satsuki Edition",
+      "file": "missing/M/225039-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-satsuki-edition.json"
     },
     {
       "igdb_id": 294130,
@@ -426548,6 +426658,46 @@
       "file": "missing/R/2697-rocksmith.json"
     },
     {
+      "igdb_id": 225021,
+      "game_name": "Rocksmith 2014 Edition: Remastered - 3 Doors Down: Song Pack II",
+      "file": "missing/R/225021-rocksmith-2014-edition-remastered-3-doors-down-song-pack-ii.json"
+    },
+    {
+      "igdb_id": 225016,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Alice in Chains: Song Pack II",
+      "file": "missing/R/225016-rocksmith-2014-edition-remastered-alice-in-chains-song-pack-ii.json"
+    },
+    {
+      "igdb_id": 225012,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Amon Amarth: Song Pack",
+      "file": "missing/R/225012-rocksmith-2014-edition-remastered-amon-amarth-song-pack.json"
+    },
+    {
+      "igdb_id": 225015,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Arena Rock: Song Pack",
+      "file": "missing/R/225015-rocksmith-2014-edition-remastered-arena-rock-song-pack.json"
+    },
+    {
+      "igdb_id": 225034,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Avril Lavigne: Song Pack",
+      "file": "missing/R/225034-rocksmith-2014-edition-remastered-avril-lavigne-song-pack.json"
+    },
+    {
+      "igdb_id": 225029,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Bob Marley & The Wailers: Song Pack",
+      "file": "missing/R/225029-rocksmith-2014-edition-remastered-bob-marley-and-the-wailers-song-pack.json"
+    },
+    {
+      "igdb_id": 225014,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Classic Riff: Song Pack",
+      "file": "missing/R/225014-rocksmith-2014-edition-remastered-classic-riff-song-pack.json"
+    },
+    {
+      "igdb_id": 225013,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Coldplay: Song Pack",
+      "file": "missing/R/225013-rocksmith-2014-edition-remastered-coldplay-song-pack.json"
+    },
+    {
       "igdb_id": 227199,
       "game_name": "Rocksmith 2014 Edition: Remastered - Faith No More: Song Pack",
       "file": "missing/R/227199-rocksmith-2014-edition-remastered-faith-no-more-song-pack.json"
@@ -426573,6 +426723,21 @@
       "file": "missing/R/227203-rocksmith-2014-edition-remastered-good-charlotte-song-pack.json"
     },
     {
+      "igdb_id": 225038,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Grateful Dead: Song Pack",
+      "file": "missing/R/225038-rocksmith-2014-edition-remastered-grateful-dead-song-pack.json"
+    },
+    {
+      "igdb_id": 225032,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Green Day: Song Pack II",
+      "file": "missing/R/225032-rocksmith-2014-edition-remastered-green-day-song-pack-ii.json"
+    },
+    {
+      "igdb_id": 225027,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Green Day: Song Pack III",
+      "file": "missing/R/225027-rocksmith-2014-edition-remastered-green-day-song-pack-iii.json"
+    },
+    {
       "igdb_id": 227204,
       "game_name": "Rocksmith 2014 Edition: Remastered - Iron Maiden: Song Pack",
       "file": "missing/R/227204-rocksmith-2014-edition-remastered-iron-maiden-song-pack.json"
@@ -426588,9 +426753,89 @@
       "file": "missing/R/227207-rocksmith-2014-edition-remastered-jimi-hendrix-song-pack-i-ii-iii-iv.json"
     },
     {
+      "igdb_id": 225017,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Johnny Cash: Song Pack I",
+      "file": "missing/R/225017-rocksmith-2014-edition-remastered-johnny-cash-song-pack-i.json"
+    },
+    {
+      "igdb_id": 225030,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Johnny Cash: Song Pack II",
+      "file": "missing/R/225030-rocksmith-2014-edition-remastered-johnny-cash-song-pack-ii.json"
+    },
+    {
       "igdb_id": 227206,
       "game_name": "Rocksmith 2014 Edition: Remastered - Linkin Park: Song Pack",
       "file": "missing/R/227206-rocksmith-2014-edition-remastered-linkin-park-song-pack.json"
+    },
+    {
+      "igdb_id": 225033,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Live: Song Pack",
+      "file": "missing/R/225033-rocksmith-2014-edition-remastered-live-song-pack.json"
+    },
+    {
+      "igdb_id": 225019,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Mix Tape Song Pack",
+      "file": "missing/R/225019-rocksmith-2014-edition-remastered-mix-tape-song-pack.json"
+    },
+    {
+      "igdb_id": 225028,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Paramore: Song Pack",
+      "file": "missing/R/225028-rocksmith-2014-edition-remastered-paramore-song-pack.json"
+    },
+    {
+      "igdb_id": 225036,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Skater Rock: Song Pack",
+      "file": "missing/R/225036-rocksmith-2014-edition-remastered-skater-rock-song-pack.json"
+    },
+    {
+      "igdb_id": 225018,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Skid Row: Song Pack",
+      "file": "missing/R/225018-rocksmith-2014-edition-remastered-skid-row-song-pack.json"
+    },
+    {
+      "igdb_id": 225035,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Steve Miller Band: Song Pack",
+      "file": "missing/R/225035-rocksmith-2014-edition-remastered-steve-miller-band-song-pack.json"
+    },
+    {
+      "igdb_id": 225020,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Stevie Ray Vaughan & Double Trouble: Song Pack",
+      "file": "missing/R/225020-rocksmith-2014-edition-remastered-stevie-ray-vaughan-and-double-trouble-song-pack.json"
+    },
+    {
+      "igdb_id": 225023,
+      "game_name": "Rocksmith 2014 Edition: Remastered - The Pretenders: Song Pack",
+      "file": "missing/R/225023-rocksmith-2014-edition-remastered-the-pretenders-song-pack.json"
+    },
+    {
+      "igdb_id": 225022,
+      "game_name": "Rocksmith 2014 Edition: Remastered - U2: Song Pack",
+      "file": "missing/R/225022-rocksmith-2014-edition-remastered-u2-song-pack.json"
+    },
+    {
+      "igdb_id": 225037,
+      "game_name": "Rocksmith 2014 Edition: Remastered - UBI30: 1986 Song Pack",
+      "file": "missing/R/225037-rocksmith-2014-edition-remastered-ubi30-1986-song-pack.json"
+    },
+    {
+      "igdb_id": 225031,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Yes: Song Pack",
+      "file": "missing/R/225031-rocksmith-2014-edition-remastered-yes-song-pack.json"
+    },
+    {
+      "igdb_id": 225026,
+      "game_name": "Rocksmith 2014 Edition: Remastered – blink-182: Song Pack II",
+      "file": "missing/R/225026-rocksmith-2014-edition-remastered-blink-182-song-pack-ii.json"
+    },
+    {
+      "igdb_id": 225025,
+      "game_name": "Rocksmith 2014 Edition: Remastered – Johnny Cash: Song Pack I-II",
+      "file": "missing/R/225025-rocksmith-2014-edition-remastered-johnny-cash-song-pack-i-ii.json"
+    },
+    {
+      "igdb_id": 225024,
+      "game_name": "Rocksmith 2014 Edition: Remastered – Trans-Siberian Orchestra: Song Pack",
+      "file": "missing/R/225024-rocksmith-2014-edition-remastered-trans-siberian-orchestra-song-pack.json"
     },
     {
       "igdb_id": 226937,
@@ -575191,6 +575436,11 @@
       "igdb_id": 367451,
       "game_name": "Unfair Flips",
       "file": "missing/U/367451-unfair-flips.json"
+    },
+    {
+      "igdb_id": 225008,
+      "game_name": "Unfair Mario",
+      "file": "missing/U/225008-unfair-mario.json"
     },
     {
       "igdb_id": 267672,
