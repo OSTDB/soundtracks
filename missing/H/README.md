@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer time! | 178089 | [178089-hammer-time.json](./178089-hammer-time.json) |
 | Hammer vs. Evil D. in Soulfire | 201166 | [201166-hammer-vs-evil-d-in-soulfire.json](./201166-hammer-vs-evil-d-in-soulfire.json) |
 | Hammerfight | 9666 | [9666-hammerfight.json](./9666-hammerfight.json) |
+| Hammerground | 190966 | [190966-hammerground.json](./190966-hammerground.json) |
 | Hammerhead | 406308 | [406308-hammerhead.json](./406308-hammerhead.json) |
 | HammerHelm | 47136 | [47136-hammerhelm.json](./47136-hammerhelm.json) |
 | Hammerin' Harry 2: Dan the Red Strikes Back - Collector's Edition | 306987 | [306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json](./306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json) |
@@ -1135,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven: Call of the King | 19090 | [19090-haven-call-of-the-king.json](./19090-haven-call-of-the-king.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
 | Haven: The Leader | 298292 | [298292-haven-the-leader.json](./298292-haven-the-leader.json) |
+| Haven's Embers | 190970 | [190970-havens-embers.json](./190970-havens-embers.json) |
 | Havenhold | 204445 | [204445-havenhold.json](./204445-havenhold.json) |
 | Havenview | 219814 | [219814-havenview.json](./219814-havenview.json) |
 | Havoc | 13873 | [13873-havoc.json](./13873-havoc.json) |
@@ -1884,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help | 30931 | [30931-help.json](./30931-help.json) |
 | Help Bipboop | 275330 | [275330-help-bipboop.json](./275330-help-bipboop.json) |
 | Help Center | 402401 | [402401-help-center.json](./402401-help-center.json) |
+| Help Club | 190991 | [190991-help-club.json](./190991-help-club.json) |
 | Help Furby Dodge the Balls | 365776 | [365776-help-furby-dodge-the-balls.json](./365776-help-furby-dodge-the-balls.json) |
 | Help Hurt Hopp | 148934 | [148934-help-hurt-hopp.json](./148934-help-hurt-hopp.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
@@ -3610,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloExpo20XX | 401775 | [401775-holoexpo20xx.json](./401775-holoexpo20xx.json) |
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
+| Hologram | 190961 | [190961-hologram.json](./190961-hologram.json) |
 | Hologram | 307095 | [307095-hologram.json](./307095-hologram.json) |
 | Hololive All-Stars Battle Tiles | 379575 | [379575-hololive-all-stars-battle-tiles.json](./379575-hololive-all-stars-battle-tiles.json) |
 | Hololive Dreams | 384205 | [384205-hololive-dreams.json](./384205-hololive-dreams.json) |
