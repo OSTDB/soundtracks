@@ -397,7 +397,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naturalist Stories | 156146 | [156146-naturalist-stories.json](./156146-naturalist-stories.json) |
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
 | Nature | 236548 | [236548-nature.json](./236548-nature.json) |
+| Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 1 | 215634 | [215634-nature-and-wildlife-jigsaw-puzzle-expansion-pack-1.json](./215634-nature-and-wildlife-jigsaw-puzzle-expansion-pack-1.json) |
+| Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 2 | 215633 | [215633-nature-and-wildlife-jigsaw-puzzle-expansion-pack-2.json](./215633-nature-and-wildlife-jigsaw-puzzle-expansion-pack-2.json) |
+| Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 3 | 215632 | [215632-nature-and-wildlife-jigsaw-puzzle-expansion-pack-3.json](./215632-nature-and-wildlife-jigsaw-puzzle-expansion-pack-3.json) |
+| Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 4 | 215631 | [215631-nature-and-wildlife-jigsaw-puzzle-expansion-pack-4.json](./215631-nature-and-wildlife-jigsaw-puzzle-expansion-pack-4.json) |
+| Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 5 | 215630 | [215630-nature-and-wildlife-jigsaw-puzzle-expansion-pack-5.json](./215630-nature-and-wildlife-jigsaw-puzzle-expansion-pack-5.json) |
 | Nature Atelier | 368520 | [368520-nature-atelier.json](./368520-nature-atelier.json) |
+| Nature Escapes | 215635 | [215635-nature-escapes.json](./215635-nature-escapes.json) |
 | Nature Escapes 2 | 235182 | [235182-nature-escapes-2.json](./235182-nature-escapes-2.json) |
 | Nature Escapes 5: Collector's Edition | 385087 | [385087-nature-escapes-5-collectors-edition.json](./385087-nature-escapes-5-collectors-edition.json) |
 | Nature Minds | 380681 | [380681-nature-minds.json](./380681-nature-minds.json) |
@@ -1078,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoQuest II | 229026 | [229026-neoquest-ii.json](./229026-neoquest-ii.json) |
 | Neospace | 230945 | [230945-neospace.json](./230945-neospace.json) |
 | NeoSprint | 295286 | [295286-neosprint.json](./295286-neosprint.json) |
+| Neotag League | 215629 | [215629-neotag-league.json](./215629-neotag-league.json) |
 | Neoteria | 61111 | [61111-neoteria.json](./61111-neoteria.json) |
 | NeoTrap | 184112 | [184112-neotrap.json](./184112-neotrap.json) |
 | Neoverse | 113750 | [113750-neoverse.json](./113750-neoverse.json) |
@@ -2061,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~ | 119562 | [119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json](./119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
+| Ninja Hagakure | 215621 | [215621-ninja-hagakure.json](./215621-ninja-hagakure.json) |
 | Ninja Hands | 266254 | [266254-ninja-hands.json](./266254-ninja-hands.json) |
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
 | Ninja Hero Revenge | 102728 | [102728-ninja-hero-revenge.json](./102728-ninja-hero-revenge.json) |
@@ -2400,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
 | No, Human | 93503 | [93503-no-human.json](./93503-no-human.json) |
+| No: Worse | 215625 | [215625-no-worse.json](./215625-no-worse.json) |
 | No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
 | No1Left | 34283 | [34283-no1left.json](./34283-no1left.json) |
 | Noa Noa! | 115029 | [115029-noa-noa.json](./115029-noa-noa.json) |
@@ -2648,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora: Forest Nights | 298654 | [298654-nora-forest-nights.json](./298654-nora-forest-nights.json) |
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
+| Noracam's Slider Challenge | 215622 | [215622-noracams-slider-challenge.json](./215622-noracams-slider-challenge.json) |
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
 | Norah's Song | 298655 | [298655-norahs-song.json](./298655-norahs-song.json) |
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
@@ -2790,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notch: The Innocent LunA - Eclipsed SinnerS | 17877 | [17877-notch-the-innocent-luna-eclipsed-sinners.json](./17877-notch-the-innocent-luna-eclipsed-sinners.json) |
 | Note to Self | 70376 | [70376-note-to-self.json](./70376-note-to-self.json) |
 | NoteBlaster | 260766 | [260766-noteblaster.json](./260766-noteblaster.json) |
+| Notebook Entries Vol.1 | 215623 | [215623-notebook-entries-vol-1.json](./215623-notebook-entries-vol-1.json) |
 | Notebook Ninja Fights | 144751 | [144751-notebook-ninja-fights.json](./144751-notebook-ninja-fights.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
@@ -2838,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
 | Nova Roma | 252867 | [252867-nova-roma.json](./252867-nova-roma.json) |
 | Nova Slash: Unparalleled Power | 195608 | [195608-nova-slash-unparalleled-power.json](./195608-nova-slash-unparalleled-power.json) |
+| Nova Squadron | 215624 | [215624-nova-squadron.json](./215624-nova-squadron.json) |
 | Nova Strike | 259027 | [259027-nova-strike.json](./259027-nova-strike.json) |
 | Nova Survivors | 372542 | [372542-nova-survivors.json](./372542-nova-survivors.json) |
 | Nova Urbana | 222859 | [222859-nova-urbana.json](./222859-nova-urbana.json) |
@@ -3074,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
+| Nutty Motorcars | 215626 | [215626-nutty-motorcars.json](./215626-nutty-motorcars.json) |
 | Nutty Noon | 240329 | [240329-nutty-noon.json](./240329-nutty-noon.json) |
 | Nutz Revenge | 302942 | [302942-nutz-revenge.json](./302942-nutz-revenge.json) |
 | Nuvoid | 25906 | [25906-nuvoid.json](./25906-nuvoid.json) |
