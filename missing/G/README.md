@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galshell 2 | 224500 | [224500-galshell-2.json](./224500-galshell-2.json) |
 | Galumb | 414573 | [414573-galumb.json](./414573-galumb.json) |
 | Galvanic Bride | 260183 | [260183-galvanic-bride.json](./260183-galvanic-bride.json) |
+| Galvanica | 176280 | [176280-galvanica.json](./176280-galvanica.json) |
 | Galvanized | 280302 | [280302-galvanized.json](./280302-galvanized.json) |
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Galves Adventure | 230310 | [230310-galves-adventure.json](./230310-galves-adventure.json) |
@@ -2271,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Detective Supah Star | 115453 | [115453-goat-detective-supah-star.json](./115453-goat-detective-supah-star.json) |
 | Goat Herd and the Gods | 169889 | [169889-goat-herd-and-the-gods.json](./169889-goat-herd-and-the-gods.json) |
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
+| Goat on Boat | 176284 | [176284-goat-on-boat.json](./176284-goat-on-boat.json) |
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
 | Goat Simulator 3: Goat in a Box Edition | 212874 | [212874-goat-simulator-3-goat-in-a-box-edition.json](./212874-goat-simulator-3-goat-in-a-box-edition.json) |
 | Goat Simulator 3: Multiversal Traveler's Edition | 306488 | [306488-goat-simulator-3-multiversal-travelers-edition.json](./306488-goat-simulator-3-multiversal-travelers-edition.json) |
