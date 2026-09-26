@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Season | 381614 | [381614-red-season.json](./381614-red-season.json) |
 | Red Series | 270665 | [270665-red-series.json](./270665-red-series.json) |
 | Red Siren: Space Defense | 111541 | [111541-red-siren-space-defense.json](./111541-red-siren-space-defense.json) |
+| Red Slash | 176266 | [176266-red-slash.json](./176266-red-slash.json) |
 | Red Snow | 287771 | [287771-red-snow.json](./287771-red-snow.json) |
 | Red Soil | 379372 | [379372-red-soil.json](./379372-red-soil.json) |
 | Red Solstice 2: Survivors - Condatis Group | 193437 | [193437-red-solstice-2-survivors-condatis-group.json](./193437-red-solstice-2-survivors-condatis-group.json) |
