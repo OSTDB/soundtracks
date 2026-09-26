@@ -6320,7 +6320,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Stellar Girls | 337827 | [337827-project-stellar-girls.json](./337827-project-stellar-girls.json) |
 | Project: Summer Ice - Bowling: Online | 221975 | [221975-project-summer-ice-bowling-online.json](./221975-project-summer-ice-bowling-online.json) |
 | Project: Summer Ice - Bowling: Story Five - Mark Version | 229168 | [229168-project-summer-ice-bowling-story-five-mark-version.json](./229168-project-summer-ice-bowling-story-five-mark-version.json) |
+| Project: Summer Ice - Bowling: Story Five - Pammy Version | 215066 | [215066-project-summer-ice-bowling-story-five-pammy-version.json](./215066-project-summer-ice-bowling-story-five-pammy-version.json) |
 | Project: Summer Ice - Bowling: Story Four - Jane Version | 215106 | [215106-project-summer-ice-bowling-story-four-jane-version.json](./215106-project-summer-ice-bowling-story-four-jane-version.json) |
+| Project: Summer Ice - Bowling: Story Four - Pammy Version | 215064 | [215064-project-summer-ice-bowling-story-four-pammy-version.json](./215064-project-summer-ice-bowling-story-four-pammy-version.json) |
 | Project: Summer Ice - Bowling: Story One - Jane Version | 215359 | [215359-project-summer-ice-bowling-story-one-jane-version.json](./215359-project-summer-ice-bowling-story-one-jane-version.json) |
 | Project: Summer Ice - Bowling: Story One - Mark Version | 215125 | [215125-project-summer-ice-bowling-story-one-mark-version.json](./215125-project-summer-ice-bowling-story-one-mark-version.json) |
 | Project: Summer Ice - Bowling: Story Six - Pammy Version | 226311 | [226311-project-summer-ice-bowling-story-six-pammy-version.json](./226311-project-summer-ice-bowling-story-six-pammy-version.json) |
@@ -6895,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PushBoy - a Sokoban style puzzle game | 91332 | [91332-pushboy-a-sokoban-style-puzzle-game.json](./91332-pushboy-a-sokoban-style-puzzle-game.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
+| Pushing Crates | 215037 | [215037-pushing-crates.json](./215037-pushing-crates.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
 | Pushmo World | 19925 | [19925-pushmo-world.json](./19925-pushmo-world.json) |
 | Pushover | 11627 | [11627-pushover.json](./11627-pushover.json) |
@@ -7155,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
+| Puzzles & Survival | 215091 | [215091-puzzles-and-survival.json](./215091-puzzles-and-survival.json) |
 | Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
 | Puzzles for Smart: Birds | 110978 | [110978-puzzles-for-smart-birds.json](./110978-puzzles-for-smart-birds.json) |
 | Puzzles for smart: Cats | 104017 | [104017-puzzles-for-smart-cats.json](./104017-puzzles-for-smart-cats.json) |
