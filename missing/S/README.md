@@ -13869,6 +13869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspension Railroad Simulator | 85414 | [85414-suspension-railroad-simulator.json](./85414-suspension-railroad-simulator.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
+| Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
 | Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
 | Susume! Kaizoku: Be Pirates! | 200661 | [200661-susume-kaizoku-be-pirates.json](./200661-susume-kaizoku-be-pirates.json) |
@@ -13928,6 +13929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swampstar | 201178 | [201178-swampstar.json](./201178-swampstar.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
 | Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
+| Swap | 219556 | [219556-swap.json](./219556-swap.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
@@ -13952,6 +13954,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Sweeper | 351604 | [351604-swarm-sweeper.json](./351604-swarm-sweeper.json) |
 | Swarm the City | 152391 | [152391-swarm-the-city.json](./152391-swarm-the-city.json) |
 | Swarm Universe | 34334 | [34334-swarm-universe.json](./34334-swarm-universe.json) |
+| Swarmcade | 219558 | [219558-swarmcade.json](./219558-swarmcade.json) |
+| Swarmed: Nuts & Bolts | 219559 | [219559-swarmed-nuts-and-bolts.json](./219559-swarmed-nuts-and-bolts.json) |
 | Swarming Planet | 146099 | [146099-swarming-planet.json](./146099-swarming-planet.json) |
 | Swarmlake | 86468 | [86468-swarmlake.json](./86468-swarmlake.json) |
 | Swarmrider Omega | 67901 | [67901-swarmrider-omega.json](./67901-swarmrider-omega.json) |
@@ -14107,6 +14111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweets Inc | 290531 | [290531-sweets-inc.json](./290531-sweets-inc.json) |
 | Sweets Swap Classic | 175821 | [175821-sweets-swap-classic.json](./175821-sweets-swap-classic.json) |
 | Sweets' Devil | 398596 | [398596-sweets-devil.json](./398596-sweets-devil.json) |
+| Sweety Kitty | 219560 | [219560-sweety-kitty.json](./219560-sweety-kitty.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
 | Sweety Sweets | 259024 | [259024-sweety-sweets.json](./259024-sweety-sweets.json) |
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
@@ -14121,6 +14126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
 | Swimmer Away | 347354 | [347354-swimmer-away.json](./347354-swimmer-away.json) |
 | Swimming Dynasty | 258024 | [258024-swimming-dynasty.json](./258024-swimming-dynasty.json) |
+| Swimming Pool Cleaner | 219561 | [219561-swimming-pool-cleaner.json](./219561-swimming-pool-cleaner.json) |
 | Swimpossible! | 366238 | [366238-swimpossible.json](./366238-swimpossible.json) |
 | Swimsanity! | 63572 | [63572-swimsanity.json](./63572-swimsanity.json) |
 | Swindler | 51170 | [51170-swindler.json](./51170-swindler.json) |
@@ -14519,6 +14525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Override | 277604 | [277604-system-override.json](./277604-system-override.json) |
 | System Purge | 182381 | [182381-system-purge.json](./182381-system-purge.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
+| System Restore | 219562 | [219562-system-restore.json](./219562-system-restore.json) |
 | System Shock: Enhanced Edition | 12987 | [12987-system-shock-enhanced-edition.json](./12987-system-shock-enhanced-edition.json) |
 | System Shock: Rewired | 353370 | [353370-system-shock-rewired.json](./353370-system-shock-rewired.json) |
 | System Syzygy | 252684 | [252684-system-syzygy.json](./252684-system-syzygy.json) |
