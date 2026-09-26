@@ -2031,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetjis | 361756 | [361756-tetjis.json](./361756-tetjis.json) |
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
 | Tetr.io: Season 2 | 363973 | [363973-tetr-io-season-2.json](./363973-tetr-io-season-2.json) |
+| Tetra Dungeon | 184391 | [184391-tetra-dungeon.json](./184391-tetra-dungeon.json) |
 | Tetra Dungeon | 403790 | [403790-tetra-dungeon.json](./403790-tetra-dungeon.json) |
 | Tetra for Nintendo Switch: International Edition | 187462 | [187462-tetra-for-nintendo-switch-international-edition.json](./187462-tetra-for-nintendo-switch-international-edition.json) |
 | Tetra Form | 382454 | [382454-tetra-form.json](./382454-tetra-form.json) |
@@ -9508,6 +9509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tincan HD | 333079 | [333079-tincan-hd.json](./333079-tincan-hd.json) |
 | Tincan! Escape | 85444 | [85444-tincan-escape.json](./85444-tincan-escape.json) |
 | Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
+| Tinicraft | 184381 | [184381-tinicraft.json](./184381-tinicraft.json) |
 | Tinier Me | 327215 | [327215-tinier-me.json](./327215-tinier-me.json) |
 | Tink: The Last Fairy | 289946 | [289946-tink-the-last-fairy.json](./289946-tink-the-last-fairy.json) |
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
