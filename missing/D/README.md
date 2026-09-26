@@ -2917,6 +2917,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | DeTails | 355129 | [355129-details.json](./355129-details.json) |
 | Detained: Too Good for School | 152148 | [152148-detained-too-good-for-school.json](./152148-detained-too-good-for-school.json) |
+| Detana!! TwinBee | 202103 | [202103-detana-twinbee.json](./202103-detana-twinbee.json) |
+| Detana!! TwinBee | 202104 | [202104-detana-twinbee.json](./202104-detana-twinbee.json) |
 | DeTechtive 2112 | 295333 | [295333-detechtive-2112.json](./295333-detechtive-2112.json) |
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
@@ -4025,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Aladdin | 8118 | [8118-disneys-aladdin.json](./8118-disneys-aladdin.json) |
 | Disney's American Dragon Jake Long: Rise of the Huntsclan! | 49410 | [49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json](./49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json) |
 | Disney's Animated Storybook: 101 Dalmatians | 204394 | [204394-disneys-animated-storybook-101-dalmatians.json](./204394-disneys-animated-storybook-101-dalmatians.json) |
+| Disney's Animated Storybook: The Hunchback of Notre Dame | 202148 | [202148-disneys-animated-storybook-the-hunchback-of-notre-dame.json](./202148-disneys-animated-storybook-the-hunchback-of-notre-dame.json) |
 | Disney's Animated Storybook: The Lion King | 214616 | [214616-disneys-animated-storybook-the-lion-king.json](./214616-disneys-animated-storybook-the-lion-king.json) |
 | Disney's Animated Storybook: Toy Story | 239203 | [239203-disneys-animated-storybook-toy-story.json](./239203-disneys-animated-storybook-toy-story.json) |
 | Disney's Arcade Frenzy | 120809 | [120809-disneys-arcade-frenzy.json](./120809-disneys-arcade-frenzy.json) |
@@ -5087,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II: Companions Pack by NB001 | 202832 | [202832-doom-ii-companions-pack-by-nb001.json](./202832-doom-ii-companions-pack-by-nb001.json) |
 | Doom II: Compendium | 202837 | [202837-doom-ii-compendium.json](./202837-doom-ii-compendium.json) |
 | Doom II: Deltarune Companions - Susie and Ralsei | 202833 | [202833-doom-ii-deltarune-companions-susie-and-ralsei.json](./202833-doom-ii-deltarune-companions-susie-and-ralsei.json) |
+| Doom II: Hell on Earth | 202120 | [202120-doom-ii-hell-on-earth.json](./202120-doom-ii-hell-on-earth.json) |
 | Doom II: Japanese Community Project | 140048 | [140048-doom-ii-japanese-community-project.json](./140048-doom-ii-japanese-community-project.json) |
 | Doom II: Onna Shinkan Companion | 202835 | [202835-doom-ii-onna-shinkan-companion.json](./202835-doom-ii-onna-shinkan-companion.json) |
 | Doom II: The Sentinel's Lexicon | 202838 | [202838-doom-ii-the-sentinels-lexicon.json](./202838-doom-ii-the-sentinels-lexicon.json) |
@@ -5215,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Super Star Adventures | 7974 | [7974-dora-the-explorer-super-star-adventures.json](./7974-dora-the-explorer-super-star-adventures.json) |
 | Dora the Explorer: Twins' Day | 275577 | [275577-dora-the-explorer-twins-day.json](./275577-dora-the-explorer-twins-day.json) |
 | Dora's Ballet Adventures | 209122 | [209122-doras-ballet-adventures.json](./209122-doras-ballet-adventures.json) |
+| Dora's Big Birthday Adventure | 202095 | [202095-doras-big-birthday-adventure.json](./202095-doras-big-birthday-adventure.json) |
 | Dora's Cooking Club | 47964 | [47964-doras-cooking-club.json](./47964-doras-cooking-club.json) |
 | Dora's World Adventure! | 220085 | [220085-doras-world-adventure.json](./220085-doras-world-adventure.json) |
 | Dorabase: Dramatic Stadium | 91771 | [91771-dorabase-dramatic-stadium.json](./91771-dorabase-dramatic-stadium.json) |
@@ -5509,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Panda & Toto's Treehouse | 61050 | [61050-dr-panda-and-totos-treehouse.json](./61050-dr-panda-and-totos-treehouse.json) |
 | Dr. Panda Restaurant 2 | 344927 | [344927-dr-panda-restaurant-2.json](./344927-dr-panda-restaurant-2.json) |
 | Dr. Panda's Restaurant | 87345 | [87345-dr-pandas-restaurant.json](./87345-dr-pandas-restaurant.json) |
+| Dr. Panic | 202125 | [202125-dr-panic.json](./202125-dr-panic.json) |
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
 | Dr. Parking 4 | 345600 | [345600-dr-parking-4.json](./345600-dr-parking-4.json) |
 | Dr. Plague | 338915 | [338915-dr-plague.json](./338915-dr-plague.json) |
