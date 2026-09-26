@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Beetle Bottle Battle | 183016 | [183016-little-beetle-bottle-battle.json](./183016-little-beetle-bottle-battle.json) |
 | Little Betty: Gold Rush | 372997 | [372997-little-betty-gold-rush.json](./372997-little-betty-gold-rush.json) |
 | Little Big Adventure: Twinsen's Quest | 241954 | [241954-little-big-adventure-twinsens-quest.json](./241954-little-big-adventure-twinsens-quest.json) |
+| Little Big Eater | 180624 | [180624-little-big-eater.json](./180624-little-big-eater.json) |
 | Little Big Horn | 226409 | [226409-little-big-horn.json](./226409-little-big-horn.json) |
 | Little Big Monsters | 149945 | [149945-little-big-monsters.json](./149945-little-big-monsters.json) |
 | Little Big Robots | 231931 | [231931-little-big-robots.json](./231931-little-big-robots.json) |
