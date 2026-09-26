@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah Montana: DVD Game | 228444 | [228444-hannah-montana-dvd-game.json](./228444-hannah-montana-dvd-game.json) |
 | Hannah Montana: One in a Million | 220093 | [220093-hannah-montana-one-in-a-million.json](./220093-hannah-montana-one-in-a-million.json) |
 | Hannah Montana: Pop Star Exclusive | 79855 | [79855-hannah-montana-pop-star-exclusive.json](./79855-hannah-montana-pop-star-exclusive.json) |
+| Hannah Montana: Pop Tour | 221686 | [221686-hannah-montana-pop-tour.json](./221686-hannah-montana-pop-tour.json) |
 | Hannibal | 405536 | [405536-hannibal.json](./405536-hannibal.json) |
 | Hannibal: Rome and Carthage in the Second Punic War | 129583 | [129583-hannibal-rome-and-carthage-in-the-second-punic-war.json](./129583-hannibal-rome-and-carthage-in-the-second-punic-war.json) |
 | Hanno | 289870 | [289870-hanno.json](./289870-hanno.json) |
@@ -2589,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexis | 291582 | [291582-hexis.json](./291582-hexis.json) |
 | HexLab | 97090 | [97090-hexlab.json](./97090-hexlab.json) |
+| HexLand: Rise of Blue | 221678 | [221678-hexland-rise-of-blue.json](./221678-hexland-rise-of-blue.json) |
 | Hexle | 271821 | [271821-hexle.json](./271821-hexle.json) |
 | HexLogic - Quilts | 106381 | [106381-hexlogic-quilts.json](./106381-hexlogic-quilts.json) |
 | HexoCity | 291590 | [291590-hexocity.json](./291590-hexocity.json) |
