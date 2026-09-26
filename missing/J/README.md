@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior Classic Games | 338790 | [338790-junior-classic-games.json](./338790-junior-classic-games.json) |
 | Junior Classic Games 3D | 122193 | [122193-junior-classic-games-3d.json](./122193-junior-classic-games-3d.json) |
 | Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
+| Junior League: Sports - Soccer | 187245 | [187245-junior-league-sports-soccer.json](./187245-junior-league-sports-soccer.json) |
 | Junior Mystery Quest | 78609 | [78609-junior-mystery-quest.json](./78609-junior-mystery-quest.json) |
 | Junior's Revenge | 78039 | [78039-juniors-revenge.json](./78039-juniors-revenge.json) |
 | Juniper: A Scrapbooking Adventure | 386722 | [386722-juniper-a-scrapbooking-adventure.json](./386722-juniper-a-scrapbooking-adventure.json) |
