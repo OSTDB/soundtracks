@@ -2968,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | Exo-tical | 334866 | [334866-exo-tical.json](./334866-exo-tical.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
+| ExoColony: Planet Survival | 226715 | [226715-exocolony-planet-survival.json](./226715-exocolony-planet-survival.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
 | Exodemon | 27740 | [27740-exodemon.json](./27740-exodemon.json) |
 | Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
@@ -3090,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosive Odds | 345473 | [345473-explosive-odds.json](./345473-explosive-odds.json) |
 | Explosive Racing | 44854 | [44854-explosive-racing.json](./44854-explosive-racing.json) |
 | Explosive Shooting Star Beetle | 311809 | [311809-explosive-shooting-star-beetle.json](./311809-explosive-shooting-star-beetle.json) |
+| Explosive Track | 226672 | [226672-explosive-track.json](./226672-explosive-track.json) |
 | Expo 2020 | 174900 | [174900-expo-2020.json](./174900-expo-2020.json) |
 | Exposed Livestream | 360184 | [360184-exposed-livestream.json](./360184-exposed-livestream.json) |
 | Exposed Reality | 70375 | [70375-exposed-reality.json](./70375-exposed-reality.json) |
