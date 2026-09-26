@@ -3154,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Demolish | 220066 | [220066-pixel-demolish.json](./220066-pixel-demolish.json) |
 | Pixel Descent | 264587 | [264587-pixel-descent.json](./264587-pixel-descent.json) |
 | Pixel Drawing | 335442 | [335442-pixel-drawing.json](./335442-pixel-drawing.json) |
+| Pixel drawing block | 216208 | [216208-pixel-drawing-block.json](./216208-pixel-drawing-block.json) |
 | Pixel Drifters | 234320 | [234320-pixel-drifters.json](./234320-pixel-drifters.json) |
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
 | Pixel Dungeon | 9795 | [9795-pixel-dungeon.json](./9795-pixel-dungeon.json) |
