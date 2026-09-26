@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pa-nap | 257072 | [257072-pa-nap.json](./257072-pa-nap.json) |
 | PABG: Player Anime Battlegrounds | 393107 | [393107-pabg-player-anime-battlegrounds.json](./393107-pabg-player-anime-battlegrounds.json) |
 | Pablo Let's Go Bar | 169433 | [169433-pablo-lets-go-bar.json](./169433-pablo-lets-go-bar.json) |
+| Pac 'n Roll Remix | 203270 | [203270-pac-n-roll-remix.json](./203270-pac-n-roll-remix.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Adventures 3D | 105307 | [105307-pac-adventures-3d.json](./105307-pac-adventures-3d.json) |
 | Pac Girl | 25146 | [25146-pac-girl.json](./25146-pac-girl.json) |
@@ -127,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Mania | 284474 | [284474-pac-mania.json](./284474-pac-mania.json) |
 | Pac-Mania | 299838 | [299838-pac-mania.json](./299838-pac-mania.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
+| Pac-Motos | 203273 | [203273-pac-motos.json](./203273-pac-motos.json) |
 | Pac-Panic | 46572 | [46572-pac-panic.json](./46572-pac-panic.json) |
 | Pac-Snec | 393131 | [393131-pac-snec.json](./393131-pac-snec.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
@@ -3012,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipkin | 315712 | [315712-pipkin.json](./315712-pipkin.json) |
 | Pipler | 57701 | [57701-pipler.json](./57701-pipler.json) |
 | Pipo Park | 141225 | [141225-pipo-park.json](./141225-pipo-park.json) |
+| Pipoclub | 203254 | [203254-pipoclub.json](./203254-pipoclub.json) |
 | Pippa and Your Phantasmal Problem | 322567 | [322567-pippa-and-your-phantasmal-problem.json](./322567-pippa-and-your-phantasmal-problem.json) |
 | Pippa Funnell 4: Secrets of the Ranch | 320930 | [320930-pippa-funnell-4-secrets-of-the-ranch.json](./320930-pippa-funnell-4-secrets-of-the-ranch.json) |
 | Pippa Funnell: The Stud Farm Inheritance | 64115 | [64115-pippa-funnell-the-stud-farm-inheritance.json](./64115-pippa-funnell-the-stud-farm-inheritance.json) |
@@ -4378,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Season of Light | 215759 | [215759-pokemon-go-season-of-light.json](./215759-pokemon-go-season-of-light.json) |
 | Pokémon Go: Season of Mischief | 218487 | [218487-pokemon-go-season-of-mischief.json](./218487-pokemon-go-season-of-mischief.json) |
 | Pokémon Goita | 377713 | [377713-pokemon-goita.json](./377713-pokemon-goita.json) |
+| Pokémon Gold and Silver 97: Reforged | 203224 | [203224-pokemon-gold-and-silver-97-reforged.json](./203224-pokemon-gold-and-silver-97-reforged.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
