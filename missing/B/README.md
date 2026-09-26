@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle Leet | 265727 | [265727-battle-leet.json](./265727-battle-leet.json) |
 | Battle Legends | 144805 | [144805-battle-legends.json](./144805-battle-legends.json) |
+| Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
@@ -2630,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Bout Boxing | 38543 | [38543-best-bout-boxing.json](./38543-best-bout-boxing.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
 | Best Election Simulator In Russia! | 217253 | [217253-best-election-simulator-in-russia.json](./217253-best-election-simulator-in-russia.json) |
+| Best Eleven: Champions Club | 196596 | [196596-best-eleven-champions-club.json](./196596-best-eleven-champions-club.json) |
 | Best Fiends Forever | 57363 | [57363-best-fiends-forever.json](./57363-best-fiends-forever.json) |
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
 | Best Garden | 135238 | [135238-best-garden.json](./135238-best-garden.json) |
@@ -4841,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Natsuyasumi 3: Kitaguni-hen - Chiisana Boku no Dai Sougen | 7379 | [7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json](./7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json) |
 | Boku no Saiai no | 322009 | [322009-boku-no-saiai-no.json](./322009-boku-no-saiai-no.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
+| Boku no Tsuri Monogatari | 196563 | [196563-boku-no-tsuri-monogatari.json](./196563-boku-no-tsuri-monogatari.json) |
 | Boku to Joi no Shinsatsu Nisshi [Nurse Enjoy Pack] | 146110 | [146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json](./146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json) |
 | Boku to Joi no Shinsatsu Nisshi: Premium Edition | 146113 | [146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json](./146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json) |
 | Boku to Kare no Kiken na Doukyo Seikatsu | 203875 | [203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json](./203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json) |
@@ -5608,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing | 78619 | [78619-boxing.json](./78619-boxing.json) |
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
+| Boxing Fighting Def Jam NY | 196582 | [196582-boxing-fighting-def-jam-ny.json](./196582-boxing-fighting-def-jam-ny.json) |
 | Boxing Go | 293112 | [293112-boxing-go.json](./293112-boxing-go.json) |
 | Boxing Gym Story | 174339 | [174339-boxing-gym-story.json](./174339-boxing-gym-story.json) |
 | Boxing Legends of the Ring | 38366 | [38366-boxing-legends-of-the-ring.json](./38366-boxing-legends-of-the-ring.json) |
@@ -6334,6 +6338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers: A Tale of Two Sons Remake | 279612 | [279612-brothers-a-tale-of-two-sons-remake.json](./279612-brothers-a-tale-of-two-sons-remake.json) |
 | Brothers: Clash of Fighters | 252152 | [252152-brothers-clash-of-fighters.json](./252152-brothers-clash-of-fighters.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
+| Brown Dust & Puzzle | 196553 | [196553-brown-dust-and-puzzle.json](./196553-brown-dust-and-puzzle.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
 | Brownie's Adventure | 264671 | [264671-brownies-adventure.json](./264671-brownies-adventure.json) |
 | Brownie's Adventure 2 | 294151 | [294151-brownies-adventure-2.json](./294151-brownies-adventure-2.json) |
