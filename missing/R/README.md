@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Quest: The Worst Game | 81254 | [81254-rage-quest-the-worst-game.json](./81254-rage-quest-the-worst-game.json) |
 | Rage Quit | 239165 | [239165-rage-quit.json](./239165-rage-quit.json) |
 | Rage Quit Bundle | 289373 | [289373-rage-quit-bundle.json](./289373-rage-quit-bundle.json) |
+| Rage Rabbit | 207756 | [207756-rage-rabbit.json](./207756-rage-rabbit.json) |
 | Rage Racer | 18698 | [18698-rage-racer.json](./18698-rage-racer.json) |
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
 | Rage Room | 81093 | [81093-rage-room.json](./81093-rage-room.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock the Rim | 379545 | [379545-rock-the-rim.json](./379545-rock-the-rim.json) |
 | Rock Tris | 229064 | [229064-rock-tris.json](./229064-rock-tris.json) |
 | Rock UFO | 267331 | [267331-rock-ufo.json](./267331-rock-ufo.json) |
+| Rock Wrecker | 207780 | [207780-rock-wrecker.json](./207780-rock-wrecker.json) |
 | Rock-n-Rogue A Boo Bunny Plague Adventure | 33605 | [33605-rock-n-rogue-a-boo-bunny-plague-adventure.json](./33605-rock-n-rogue-a-boo-bunny-plague-adventure.json) |
 | Rock, Ken, Bo | 28807 | [28807-rock-ken-bo.json](./28807-rock-ken-bo.json) |
 | Rock, Paper, Scissors Simulator | 127238 | [127238-rock-paper-scissors-simulator.json](./127238-rock-paper-scissors-simulator.json) |
