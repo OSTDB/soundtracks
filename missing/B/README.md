@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Football 2006 | 72974 | [72974-backyard-football-2006.json](./72974-backyard-football-2006.json) |
 | Backyard Hockey ‘02 | 377817 | [377817-backyard-hockey-02.json](./377817-backyard-hockey-02.json) |
 | Backyard Hockey 2005 | 46638 | [46638-backyard-hockey-2005.json](./46638-backyard-hockey-2005.json) |
+| BackYard Hoops | 213336 | [213336-backyard-hoops.json](./213336-backyard-hoops.json) |
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
 | Backyard Skateboarding | 248633 | [248633-backyard-skateboarding.json](./248633-backyard-skateboarding.json) |
@@ -3488,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Death | 65753 | [65753-black-death.json](./65753-black-death.json) |
 | Black Desert Mobile | 54701 | [54701-black-desert-mobile.json](./54701-black-desert-mobile.json) |
 | Black Desert: Traveler Edition | 150142 | [150142-black-desert-traveler-edition.json](./150142-black-desert-traveler-edition.json) |
+| Black Diamond | 213352 | [213352-black-diamond.json](./213352-black-diamond.json) |
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
 | Black Dragon | 38590 | [38590-black-dragon.json](./38590-black-dragon.json) |
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
@@ -5373,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Tales | 133867 | [133867-bounce-tales.json](./133867-bounce-tales.json) |
 | Bounce Tales 64 | 135264 | [135264-bounce-tales-64.json](./135264-bounce-tales-64.json) |
 | Bounce Time! | 233240 | [233240-bounce-time.json](./233240-bounce-time.json) |
+| Bounce your Bullets! | 213310 | [213310-bounce-your-bullets.json](./213310-bounce-your-bullets.json) |
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
 | Bounce'n'Pounce | 377827 | [377827-bouncenpounce.json](./377827-bouncenpounce.json) |
 | Bounce95 | 382460 | [382460-bounce95.json](./382460-bounce95.json) |
@@ -5911,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Tower | 394878 | [394878-break-the-tower.json](./394878-break-the-tower.json) |
 | Break the Web | 130196 | [130196-break-the-web.json](./130196-break-the-web.json) |
 | Break through 50 | 148468 | [148468-break-through-50.json](./148468-break-through-50.json) |
+| Break Thru the Wall | 213344 | [213344-break-thru-the-wall.json](./213344-break-thru-the-wall.json) |
 | Break Time: The National Pool Tour | 48103 | [48103-break-time-the-national-pool-tour.json](./48103-break-time-the-national-pool-tour.json) |
 | Break Time! | 29813 | [29813-break-time.json](./29813-break-time.json) |
 | Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
