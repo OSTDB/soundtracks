@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
 | Find the Gnome | 96682 | [96682-find-the-gnome.json](./96682-find-the-gnome.json) |
 | Find the Gnome 2 | 197270 | [197270-find-the-gnome-2.json](./197270-find-the-gnome-2.json) |
+| Find the Key | 224532 | [224532-find-the-key.json](./224532-find-the-key.json) |
 | Find the light | 216473 | [216473-find-the-light.json](./216473-find-the-light.json) |
 | Find the Murderer 2 | 192454 | [192454-find-the-murderer-2.json](./192454-find-the-murderer-2.json) |
 | Find the Murderer 3 | 236364 | [236364-find-the-murderer-3.json](./236364-find-the-murderer-3.json) |
@@ -4631,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' vs. LSE | 314509 | [314509-friday-night-funkin-vs-lse.json](./314509-friday-night-funkin-vs-lse.json) |
 | Friday Night Funkin' vs. NFT | 325104 | [325104-friday-night-funkin-vs-nft.json](./325104-friday-night-funkin-vs-nft.json) |
 | Friday Night Funkin': Banbuds vs. Reggie the Rat | 202337 | [202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json](./202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json) |
+| Friday Night Funkin': CG5 Edition | 224523 | [224523-friday-night-funkin-cg5-edition.json](./224523-friday-night-funkin-cg5-edition.json) |
 | Friday Night Funkin': Hotline 024 | 201320 | [201320-friday-night-funkin-hotline-024.json](./201320-friday-night-funkin-hotline-024.json) |
 | Friday Night Funkin': Idol | 269294 | [269294-friday-night-funkin-idol.json](./269294-friday-night-funkin-idol.json) |
 | Friday Night Funkin': Mario's Madness | 202414 | [202414-friday-night-funkin-marios-madness.json](./202414-friday-night-funkin-marios-madness.json) |
