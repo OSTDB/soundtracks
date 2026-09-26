@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiver Dick's Epic Book of Fairy Fails | 119697 | [119697-quiver-dicks-epic-book-of-fairy-fails.json](./119697-quiver-dicks-epic-book-of-fairy-fails.json) |
 | Quiver Dick's Terrible Tale for Terrible Parents to Read to Their Equally Terrible Children | 110949 | [110949-quiver-dicks-terrible-tale-for-terrible-parents-to-read-to-their-equally-terrible-children.json](./110949-quiver-dicks-terrible-tale-for-terrible-parents-to-read-to-their-equally-terrible-children.json) |
 | QuiVr Vanguard | 111696 | [111696-quivr-vanguard.json](./111696-quivr-vanguard.json) |
+| Quixzel Rush Halloween Party | 180048 | [180048-quixzel-rush-halloween-party.json](./180048-quixzel-rush-halloween-party.json) |
 | Quiz & Learn: Animals | 366216 | [366216-quiz-and-learn-animals.json](./366216-quiz-and-learn-animals.json) |
 | Quiz Aa! Megami-sama: Tatakau Tsubasa to Tomoni | 131572 | [131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json](./131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json) |
 | Quiz Caravan Cult Q | 97683 | [97683-quiz-caravan-cult-q.json](./97683-quiz-caravan-cult-q.json) |
