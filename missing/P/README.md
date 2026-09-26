@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
 | Paradise Delight | 379547 | [379547-paradise-delight.json](./379547-paradise-delight.json) |
 | Paradise Falls | 392417 | [392417-paradise-falls.json](./392417-paradise-falls.json) |
+| Paradise Homeland | 217242 | [217242-paradise-homeland.json](./217242-paradise-homeland.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
 | Paradise Island Driver | 201257 | [201257-paradise-island-driver.json](./201257-paradise-island-driver.json) |
 | Paradise Island: Exotic | 344008 | [344008-paradise-island-exotic.json](./344008-paradise-island-exotic.json) |
