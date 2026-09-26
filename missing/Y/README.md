@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Feel Normal. | 293655 | [293655-you-feel-normal.json](./293655-you-feel-normal.json) |
 | You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
 | You get Eaten by a Cute Milf | 229200 | [229200-you-get-eaten-by-a-cute-milf.json](./229200-you-get-eaten-by-a-cute-milf.json) |
+| You Go Golf | 181688 | [181688-you-go-golf.json](./181688-you-go-golf.json) |
 | You Got Crabs | 276817 | [276817-you-got-crabs.json](./276817-you-got-crabs.json) |
 | Yóu Guō Jīngmèng | 407317 | [407317-you-guo-jingmeng.json](./407317-you-guo-jingmeng.json) |
 | You Had a Bad Dream | 405593 | [405593-you-had-a-bad-dream.json](./405593-you-had-a-bad-dream.json) |
