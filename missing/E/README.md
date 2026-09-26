@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elasto Mania | 9103 | [9103-elasto-mania.json](./9103-elasto-mania.json) |
 | Elasto Mania: Remastered | 187473 | [187473-elasto-mania-remastered.json](./187473-elasto-mania-remastered.json) |
 | Elastrix | 36087 | [36087-elastrix.json](./36087-elastrix.json) |
+| Elation for the Wonder Box 6000 | 225567 | [225567-elation-for-the-wonder-box-6000.json](./225567-elation-for-the-wonder-box-6000.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
 | Elden Gunfire 2 | 293187 | [293187-elden-gunfire-2.json](./293187-elden-gunfire-2.json) |
@@ -1160,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerging Tactical | 278421 | [278421-emerging-tactical.json](./278421-emerging-tactical.json) |
 | Emetic Skimmer | 55185 | [55185-emetic-skimmer.json](./55185-emetic-skimmer.json) |
 | Emi-chan no Moero Yakyuuken | 41373 | [41373-emi-chan-no-moero-yakyuuken.json](./41373-emi-chan-no-moero-yakyuuken.json) |
+| Emi: New Beginning | 225600 | [225600-emi-new-beginning.json](./225600-emi-new-beginning.json) |
 | Emi's Country Store and Farm | 218582 | [218582-emis-country-store-and-farm.json](./218582-emis-country-store-and-farm.json) |
 | Emily Enough: Imprisoned | 71474 | [71474-emily-enough-imprisoned.json](./71474-emily-enough-imprisoned.json) |
 | Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
@@ -2444,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Renault Trucks E-Tech T | 311995 | [311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json](./311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json) |
 | Euro Truck Simulator 2: Road to the Black Sea | 118305 | [118305-euro-truck-simulator-2-road-to-the-black-sea.json](./118305-euro-truck-simulator-2-road-to-the-black-sea.json) |
 | Euro Truck Simulator 2: Soul of Anatolia | 398433 | [398433-euro-truck-simulator-2-soul-of-anatolia.json](./398433-euro-truck-simulator-2-soul-of-anatolia.json) |
+| Euro Truck Simulator 2: Street Art Paint Jobs Pack | 225577 | [225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json](./225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json) |
 | Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
 | Eurobi Racing | 112940 | [112940-eurobi-racing.json](./112940-eurobi-racing.json) |
 | EuroCops | 62984 | [62984-eurocops.json](./62984-eurocops.json) |
