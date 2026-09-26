@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled: The flower game | 181899 | [181899-untitled-the-flower-game.json](./181899-untitled-the-flower-game.json) |
 | Unto Deepest Depths | 317989 | [317989-unto-deepest-depths.json](./317989-unto-deepest-depths.json) |
 | Unto the Aurora | 344999 | [344999-unto-the-aurora.json](./344999-unto-the-aurora.json) |
+| Untold | 184415 | [184415-untold.json](./184415-untold.json) |
 | Untold Chronicles: The Harvest | 374829 | [374829-untold-chronicles-the-harvest.json](./374829-untold-chronicles-the-harvest.json) |
 | Untold Legends: Brotherhood of the Blade | 22508 | [22508-untold-legends-brotherhood-of-the-blade.json](./22508-untold-legends-brotherhood-of-the-blade.json) |
 | Untold Legends: The Warrior's Code | 23006 | [23006-untold-legends-the-warriors-code.json](./23006-untold-legends-the-warriors-code.json) |
