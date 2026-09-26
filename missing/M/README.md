@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | Maeldor: Enhanced Edition | 235687 | [235687-maeldor-enhanced-edition.json](./235687-maeldor-enhanced-edition.json) |
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
+| Maelstrom | 207802 | [207802-maelstrom.json](./207802-maelstrom.json) |
 | Maelstrom: The Battle for Earth Begins | 10134 | [10134-maelstrom-the-battle-for-earth-begins.json](./10134-maelstrom-the-battle-for-earth-begins.json) |
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
 | Maerl Bay | 248578 | [248578-maerl-bay.json](./248578-maerl-bay.json) |
@@ -7308,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Welder's Pinball Defence | 278146 | [278146-mr-welders-pinball-defence.json](./278146-mr-welders-pinball-defence.json) |
 | Mr.Wise | 236844 | [236844-mr-wise.json](./236844-mr-wise.json) |
 | MRC: Multi-Racing Championship | 3544 | [3544-mrc-multi-racing-championship.json](./3544-mrc-multi-racing-championship.json) |
+| MrFox | 207770 | [207770-mrfox.json](./207770-mrfox.json) |
 | MRG: Matando Robôs Gigantes - O Jogo | 346776 | [346776-mrg-matando-robos-gigantes-o-jogo.json](./346776-mrg-matando-robos-gigantes-o-jogo.json) |
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
 | Mrs. Fantastic's Freaky Figurine Shop | 166702 | [166702-mrs-fantastics-freaky-figurine-shop.json](./166702-mrs-fantastics-freaky-figurine-shop.json) |
