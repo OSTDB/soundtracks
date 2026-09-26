@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scientific Shutdown | 156123 | [156123-scientific-shutdown.json](./156123-scientific-shutdown.json) |
 | Scientific Terms Extreme | 107125 | [107125-scientific-terms-extreme.json](./107125-scientific-terms-extreme.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
+| Scientist Slaughterhouse | 221665 | [221665-scientist-slaughterhouse.json](./221665-scientist-slaughterhouse.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
@@ -6224,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Mack Dual Pack | 397797 | [397797-snowrunner-mack-dual-pack.json](./397797-snowrunner-mack-dual-pack.json) |
 | SnowRunner: Mercedes-Benz Trucks Dual Pack 1 | 397801 | [397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json](./397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json) |
 | SnowRunner: Pathfinders Vinyl Wrap Pack | 397799 | [397799-snowrunner-pathfinders-vinyl-wrap-pack.json](./397799-snowrunner-pathfinders-vinyl-wrap-pack.json) |
+| SnowRunner: Rezvani Hercules | 221694 | [221694-snowrunner-rezvani-hercules.json](./221694-snowrunner-rezvani-hercules.json) |
 | SnowRunner: Rezvani Tank | 361882 | [361882-snowrunner-rezvani-tank.json](./361882-snowrunner-rezvani-tank.json) |
 | SnowRunner: Save the Day Vinyl Wrap Pack | 230830 | [230830-snowrunner-save-the-day-vinyl-wrap-pack.json](./230830-snowrunner-save-the-day-vinyl-wrap-pack.json) |
 | SnowRunner: Season 1 - Search & Recover | 145485 | [145485-snowrunner-season-1-search-and-recover.json](./145485-snowrunner-season-1-search-and-recover.json) |
@@ -13057,6 +13059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinkie World 3 | 231498 | [231498-super-pinkie-world-3.json](./231498-super-pinkie-world-3.json) |
 | Super Pitfall | 48233 | [48233-super-pitfall.json](./48233-super-pitfall.json) |
 | Super Pitfall: 30th Anniversary Edition | 48864 | [48864-super-pitfall-30th-anniversary-edition.json](./48864-super-pitfall-30th-anniversary-edition.json) |
+| Super Pixel Kid | 221706 | [221706-super-pixel-kid.json](./221706-super-pixel-kid.json) |
 | Super Pixel Racers | 111185 | [111185-super-pixel-racers.json](./111185-super-pixel-racers.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
