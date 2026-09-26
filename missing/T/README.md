@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap-A-Zombie | 149448 | [149448-tap-a-zombie.json](./149448-tap-a-zombie.json) |
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
 | Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
+| Tap! Tap! Faraway Kingdom | 199936 | [199936-tap-tap-faraway-kingdom.json](./199936-tap-tap-faraway-kingdom.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
 | Tape Art | 384207 | [384207-tape-art.json](./384207-tape-art.json) |
 | Tape Recovery Simulator 96K | 152110 | [152110-tape-recovery-simulator-96k.json](./152110-tape-recovery-simulator-96k.json) |
@@ -8205,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This War of Mine: Stories - The Last Broadcast | 111646 | [111646-this-war-of-mine-stories-the-last-broadcast.json](./111646-this-war-of-mine-stories-the-last-broadcast.json) |
 | This War of Mine: War Child Charity | 76239 | [76239-this-war-of-mine-war-child-charity.json](./76239-this-war-of-mine-war-child-charity.json) |
 | This was Once a Place of Honour | 239199 | [239199-this-was-once-a-place-of-honour.json](./239199-this-was-once-a-place-of-honour.json) |
+| This Way!! | 199943 | [199943-this-way.json](./199943-this-way.json) |
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
@@ -9448,6 +9450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Heroes | 22317 | [22317-tiny-heroes.json](./22317-tiny-heroes.json) |
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny House Simulator | 318617 | [318617-tiny-house-simulator.json](./318617-tiny-house-simulator.json) |
+| Tiny Hunters | 199939 | [199939-tiny-hunters.json](./199939-tiny-hunters.json) |
 | Tiny industry | 415275 | [415275-tiny-industry.json](./415275-tiny-industry.json) |
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
@@ -12181,6 +12184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenches 2 | 23926 | [23926-trenches-2.json](./23926-trenches-2.json) |
 | Trenches Generals | 85521 | [85521-trenches-generals.json](./85521-trenches-generals.json) |
 | Trenches II | 197763 | [197763-trenches-ii.json](./197763-trenches-ii.json) |
+| Trenches of Europe 2 | 199945 | [199945-trenches-of-europe-2.json](./199945-trenches-of-europe-2.json) |
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
 | Trends | 113479 | [113479-trends.json](./113479-trends.json) |
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
@@ -12901,6 +12905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunguska: The Visitation - Way of The Hunter | 227863 | [227863-tunguska-the-visitation-way-of-the-hunter.json](./227863-tunguska-the-visitation-way-of-the-hunter.json) |
 | Tunics! | 243617 | [243617-tunics.json](./243617-tunics.json) |
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
+| Tuning Club Online | 199946 | [199946-tuning-club-online.json](./199946-tuning-club-online.json) |
 | Tunnel 19 | 358865 | [358865-tunnel-19.json](./358865-tunnel-19.json) |
 | Tunnel Assault | 298627 | [298627-tunnel-assault.json](./298627-tunnel-assault.json) |
 | Tunnel Ball 3D | 257362 | [257362-tunnel-ball-3d.json](./257362-tunnel-ball-3d.json) |
