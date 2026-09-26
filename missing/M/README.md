@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
 | Mario Heardle | 203820 | [203820-mario-heardle.json](./203820-mario-heardle.json) |
 | Mario Heardle 2 | 203821 | [203821-mario-heardle-2.json](./203821-mario-heardle-2.json) |
+| Mario In Clock Town | 198250 | [198250-mario-in-clock-town.json](./198250-mario-in-clock-town.json) |
 | Mario in Japan | 275630 | [275630-mario-in-japan.json](./275630-mario-in-japan.json) |
 | Mario In Mushroom Rix Land | 265658 | [265658-mario-in-mushroom-rix-land.json](./265658-mario-in-mushroom-rix-land.json) |
 | Mario In Mushroom Rix Land 2: Gimmicky Island | 265659 | [265659-mario-in-mushroom-rix-land-2-gimmicky-island.json](./265659-mario-in-mushroom-rix-land-2-gimmicky-island.json) |
@@ -3427,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Membrillo Hid My Socks | 402527 | [402527-membrillo-hid-my-socks.json](./402527-membrillo-hid-my-socks.json) |
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
 | Meme Challenge: Dank Memes | 224000 | [224000-meme-challenge-dank-memes.json](./224000-meme-challenge-dank-memes.json) |
+| Meme Lordz | 198239 | [198239-meme-lordz.json](./198239-meme-lordz.json) |
 | Meme Quiz | 243128 | [243128-meme-quiz.json](./243128-meme-quiz.json) |
 | Meme Wars | 366827 | [366827-meme-wars.json](./366827-meme-wars.json) |
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
