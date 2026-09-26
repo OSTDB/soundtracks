@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Nomads | 369094 | [369094-underground-nomads.json](./369094-underground-nomads.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
 | Underground Security Inc | 367984 | [367984-underground-security-inc.json](./367984-underground-security-inc.json) |
+| Underground Sheriff | 223386 | [223386-underground-sheriff.json](./223386-underground-sheriff.json) |
 | Underground Station | 313227 | [313227-underground-station.json](./313227-underground-station.json) |
 | Underground Waifus TCG | 273365 | [273365-underground-waifus-tcg.json](./273365-underground-waifus-tcg.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
@@ -1128,7 +1129,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
 | Unroaded | 115440 | [115440-unroaded.json](./115440-unroaded.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
+| Unrush | 223420 | [223420-unrush.json](./223420-unrush.json) |
 | Unsafe Express | 173282 | [173282-unsafe-express.json](./173282-unsafe-express.json) |
+| Unscripted | 223383 | [223383-unscripted.json](./223383-unscripted.json) |
 | Unseasonable Flowering | 399221 | [399221-unseasonable-flowering.json](./399221-unseasonable-flowering.json) |
 | Unshaded | 167783 | [167783-unshaded.json](./167783-unshaded.json) |
 | Unshaken | 217405 | [217405-unshaken.json](./217405-unshaken.json) |
