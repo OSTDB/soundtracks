@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids' WB Turkey Day Food Fling | 313270 | [313270-kids-wb-turkey-day-food-fling.json](./313270-kids-wb-turkey-day-food-fling.json) |
 | Kidsongs: Musical Mystery | 197865 | [197865-kidsongs-musical-mystery.json](./197865-kidsongs-musical-mystery.json) |
 | Kidz | 105088 | [105088-kidz.json](./105088-kidz.json) |
+| Kidz Bop Dance Party! | 208325 | [208325-kidz-bop-dance-party.json](./208325-kidz-bop-dance-party.json) |
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
 | Kigurumi Kombat | 74757 | [74757-kigurumi-kombat.json](./74757-kigurumi-kombat.json) |
 | Kiipluu | 360602 | [360602-kiipluu.json](./360602-kiipluu.json) |
