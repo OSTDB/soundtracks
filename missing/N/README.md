@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nautus | 414355 | [414355-nautus.json](./414355-nautus.json) |
 | Nav's Endless Nightmare | 182537 | [182537-navs-endless-nightmare.json](./182537-navs-endless-nightmare.json) |
 | Naval Action: Rotterdam | 249722 | [249722-naval-action-rotterdam.json](./249722-naval-action-rotterdam.json) |
+| Naval Battle Online | 224533 | [224533-naval-battle-online.json](./224533-naval-battle-online.json) |
 | Naval Battles Simulator | 130705 | [130705-naval-battles-simulator.json](./130705-naval-battles-simulator.json) |
 | Naval Campaigns Guadalcanal | 141668 | [141668-naval-campaigns-guadalcanal.json](./141668-naval-campaigns-guadalcanal.json) |
 | Naval Campaigns Jutland | 141670 | [141670-naval-campaigns-jutland.json](./141670-naval-campaigns-jutland.json) |
@@ -2698,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | Nose | 152145 | [152145-nose.json](./152145-nose.json) |
+| Nose | 224501 | [224501-nose.json](./224501-nose.json) |
 | Nose | 287230 | [287230-nose.json](./287230-nose.json) |
 | Nose Bleed | 227915 | [227915-nose-bleed.json](./227915-nose-bleed.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
