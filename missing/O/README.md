@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Objects: Lumina Camera HD | 106645 | [106645-ominous-objects-lumina-camera-hd.json](./106645-ominous-objects-lumina-camera-hd.json) |
 | Ominous Objects: Phantom Reflection HD | 102793 | [102793-ominous-objects-phantom-reflection-hd.json](./102793-ominous-objects-phantom-reflection-hd.json) |
 | Ominous Obscurity | 285544 | [285544-ominous-obscurity.json](./285544-ominous-obscurity.json) |
+| Ominous Paths | 206649 | [206649-ominous-paths.json](./206649-ominous-paths.json) |
 | Ominous Presence | 252725 | [252725-ominous-presence.json](./252725-ominous-presence.json) |
 | Ominous Recall | 317382 | [317382-ominous-recall.json](./317382-ominous-recall.json) |
 | Ominous Tales: The Forsaken Isle - Collector's Edition | 283839 | [283839-ominous-tales-the-forsaken-isle-collectors-edition.json](./283839-ominous-tales-the-forsaken-isle-collectors-edition.json) |
