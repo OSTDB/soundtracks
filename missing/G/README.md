@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
 | Gobbo Goes Adventures | 251834 | [251834-gobbo-goes-adventures.json](./251834-gobbo-goes-adventures.json) |
 | Gobbo's Gambit | 253952 | [253952-gobbos-gambit.json](./253952-gobbos-gambit.json) |
+| Gobby McGobblenutz Presents: The Art of the Dad Joke - Chapter 1 | 193179 | [193179-gobby-mcgobblenutz-presents-the-art-of-the-dad-joke-chapter-1.json](./193179-gobby-mcgobblenutz-presents-the-art-of-the-dad-joke-chapter-1.json) |
 | Gobelinus: The Cursed Deck | 391718 | [391718-gobelinus-the-cursed-deck.json](./391718-gobelinus-the-cursed-deck.json) |
 | Gobernators: Parodia Política Peruana | 90570 | [90570-gobernators-parodia-politica-peruana.json](./90570-gobernators-parodia-politica-peruana.json) |
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
@@ -2577,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Idol Investigations: The Sins of New Wells | 333390 | [333390-golden-idol-investigations-the-sins-of-new-wells.json](./333390-golden-idol-investigations-the-sins-of-new-wells.json) |
 | Golden Idol Mysteries: DLC Bundle | 268569 | [268569-golden-idol-mysteries-dlc-bundle.json](./268569-golden-idol-mysteries-dlc-bundle.json) |
 | Golden Idol Mysteries: The Lemurian Vampire | 264300 | [264300-golden-idol-mysteries-the-lemurian-vampire.json](./264300-golden-idol-mysteries-the-lemurian-vampire.json) |
+| Golden Jetpackman | 193210 | [193210-golden-jetpackman.json](./193210-golden-jetpackman.json) |
 | Golden Key | 111490 | [111490-golden-key.json](./111490-golden-key.json) |
 | Golden Kingdom VR | 333963 | [333963-golden-kingdom-vr.json](./333963-golden-kingdom-vr.json) |
 | Golden Knight | 331661 | [331661-golden-knight.json](./331661-golden-knight.json) |
