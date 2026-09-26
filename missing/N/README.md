@@ -2519,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noelle's Forest Adventure | 280817 | [280817-noelles-forest-adventure.json](./280817-noelles-forest-adventure.json) |
 | Noema | 403695 | [403695-noema.json](./403695-noema.json) |
 | Noematica: Digital Dollhouse | 409772 | [409772-noematica-digital-dollhouse.json](./409772-noematica-digital-dollhouse.json) |
+| Noesis | 220611 | [220611-noesis.json](./220611-noesis.json) |
 | Nofland Story | 220304 | [220304-nofland-story.json](./220304-nofland-story.json) |
 | NoFlash | 367023 | [367023-noflash.json](./367023-noflash.json) |
 | Nofrills Solitaire | 169875 | [169875-nofrills-solitaire.json](./169875-nofrills-solitaire.json) |
@@ -3010,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numberline | 29724 | [29724-numberline.json](./29724-numberline.json) |
 | Numberline 2 | 43517 | [43517-numberline-2.json](./43517-numberline-2.json) |
 | Numberline 3 | 106580 | [106580-numberline-3.json](./106580-numberline-3.json) |
+| Numbers & Letters | 220612 | [220612-numbers-and-letters.json](./220612-numbers-and-letters.json) |
 | Numbers & Nodes | 329017 | [329017-numbers-and-nodes.json](./329017-numbers-and-nodes.json) |
 | Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
 | Numbershark 5 | 286602 | [286602-numbershark-5.json](./286602-numbershark-5.json) |
