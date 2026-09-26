@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
 | Knights: Spiral Islands | 66098 | [66098-knights-spiral-islands.json](./66098-knights-spiral-islands.json) |
+| Knighty | 216719 | [216719-knighty.json](./216719-knighty.json) |
 | Knighty Knight | 261320 | [261320-knighty-knight.json](./261320-knighty-knight.json) |
 | Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
@@ -2230,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kriegsspiel: 7 Years' War | 388760 | [388760-kriegsspiel-7-years-war.json](./388760-kriegsspiel-7-years-war.json) |
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
 | Krimson Patrol | 409032 | [409032-krimson-patrol.json](./409032-krimson-patrol.json) |
+| Kring | 216755 | [216755-kring.json](./216755-kring.json) |
 | Kriophobia | 50164 | [50164-kriophobia.json](./50164-kriophobia.json) |
 | Krispain Hero VR: Roguelite Dungeon Shooter Simulator | 282144 | [282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json](./282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
@@ -2261,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krzyżacy: The Knights of the Cross - Shining Stars | 289320 | [289320-krzyzacy-the-knights-of-the-cross-shining-stars.json](./289320-krzyzacy-the-knights-of-the-cross-shining-stars.json) |
 | KSame | 64431 | [64431-ksame.json](./64431-ksame.json) |
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
+| Ku Gyoku Den | 216761 | [216761-ku-gyoku-den.json](./216761-ku-gyoku-den.json) |
 | Ku: Shroud of the Morrigan | 16936 | [16936-ku-shroud-of-the-morrigan.json](./16936-ku-shroud-of-the-morrigan.json) |
 | Kuafu Chases the Sun | 367611 | [367611-kuafu-chases-the-sun.json](./367611-kuafu-chases-the-sun.json) |
 | Kuàilè Xiǎojī | 130953 | [130953-kuaile-xiaoji.json](./130953-kuaile-xiaoji.json) |
