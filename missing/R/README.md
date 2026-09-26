@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
 | R Place Guesser | 198339 | [198339-r-place-guesser.json](./198339-r-place-guesser.json) |
 | R-Ack | 260101 | [260101-r-ack.json](./260101-r-ack.json) |
+| R-Beta | 225617 | [225617-r-beta.json](./225617-r-beta.json) |
 | R-Coil | 68792 | [68792-r-coil.json](./68792-r-coil.json) |
 | R-Draw | 108857 | [108857-r-draw.json](./108857-r-draw.json) |
 | R-Naught | 151016 | [151016-r-naught.json](./151016-r-naught.json) |
@@ -1184,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Estate Tycoon | 207375 | [207375-real-estate-tycoon.json](./207375-real-estate-tycoon.json) |
 | Real Estate Tycoon | 89224 | [89224-real-estate-tycoon.json](./89224-real-estate-tycoon.json) |
 | Real Farm | 227480 | [227480-real-farm.json](./227480-real-farm.json) |
+| Real Farm: Potato Pack | 225571 | [225571-real-farm-potato-pack.json](./225571-real-farm-potato-pack.json) |
 | Real Farm: Premium Edition | 155097 | [155097-real-farm-premium-edition.json](./155097-real-farm-premium-edition.json) |
 | Real Fast Race - Furious Sports | 96006 | [96006-real-fast-race-furious-sports.json](./96006-real-fast-race-furious-sports.json) |
 | Real Fighter | 267951 | [267951-real-fighter.json](./267951-real-fighter.json) |
@@ -2278,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Survival Unit | 352832 | [352832-resident-evil-survival-unit.json](./352832-resident-evil-survival-unit.json) |
 | Resident Evil: Survivor Redux | 313129 | [313129-resident-evil-survivor-redux.json](./313129-resident-evil-survivor-redux.json) |
 | Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
+| Resident Evil: Uprising | 225578 | [225578-resident-evil-uprising.json](./225578-resident-evil-uprising.json) |
 | Resident Fear 3: Ascension | 365758 | [365758-resident-fear-3-ascension.json](./365758-resident-fear-3-ascension.json) |
 | Resident Fear: Redistribution | 264102 | [264102-resident-fear-redistribution.json](./264102-resident-fear-redistribution.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
