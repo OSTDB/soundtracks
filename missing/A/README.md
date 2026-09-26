@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bad Clicker | 337787 | [337787-a-bad-clicker.json](./337787-a-bad-clicker.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
+| A Beautiful Ride to Carlisle | 184911 | [184911-a-beautiful-ride-to-carlisle.json](./184911-a-beautiful-ride-to-carlisle.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
 | A Bird's Tale | 207242 | [207242-a-birds-tale.json](./207242-a-birds-tale.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Furry Tale: A night in Havena | 312673 | [312673-a-furry-tale-a-night-in-havena.json](./312673-a-furry-tale-a-night-in-havena.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
 | A G-G-Ghost! | 311656 | [311656-a-g-g-ghost.json](./311656-a-g-g-ghost.json) |
+| A Game About Ants | 184916 | [184916-a-game-about-ants.json](./184916-a-game-about-ants.json) |
 | A Game About Bouncing DVD | 406321 | [406321-a-game-about-bouncing-dvd.json](./406321-a-game-about-bouncing-dvd.json) |
 | A Game About Chopping Trees | 403786 | [403786-a-game-about-chopping-trees.json](./403786-a-game-about-chopping-trees.json) |
 | A Game About Dodging Balls | 389708 | [389708-a-game-about-dodging-balls.json](./389708-a-game-about-dodging-balls.json) |
@@ -1116,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Elysia | 219702 | [219702-adventure-of-elysia.json](./219702-adventure-of-elysia.json) |
 | Adventure of Great Wolf | 118813 | [118813-adventure-of-great-wolf.json](./118813-adventure-of-great-wolf.json) |
+| Adventure of Mak | 184910 | [184910-adventure-of-mak.json](./184910-adventure-of-mak.json) |
 | Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
