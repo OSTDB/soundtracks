@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T12:33:27.251Z",
-  "total_missing": 125726,
+  "generated_at": "2026-09-26T12:48:01.105Z",
+  "total_missing": 125776,
   "games": [
     {
       "igdb_id": 176875,
@@ -74088,6 +74088,11 @@
       "file": "missing/B/265396-bump-and-run-racing.json"
     },
     {
+      "igdb_id": 198822,
+      "game_name": "Bump Battle Royale",
+      "file": "missing/B/198822-bump-battle-royale.json"
+    },
+    {
       "igdb_id": 95182,
       "game_name": "Bump Bump Bump",
       "file": "missing/B/95182-bump-bump-bump.json"
@@ -137658,6 +137663,11 @@
       "file": "missing/D/10625-disneys-tarzan-untamed.json"
     },
     {
+      "igdb_id": 198801,
+      "game_name": "Disney's The Lion King",
+      "file": "missing/D/198801-disneys-the-lion-king.json"
+    },
+    {
       "igdb_id": 204572,
       "game_name": "Disney's The Lion King",
       "file": "missing/D/204572-disneys-the-lion-king.json"
@@ -137666,6 +137676,21 @@
       "igdb_id": 45228,
       "game_name": "Disney's The Lion King: Simba's Mighty Adventure",
       "file": "missing/D/45228-disneys-the-lion-king-simbas-mighty-adventure.json"
+    },
+    {
+      "igdb_id": 198802,
+      "game_name": "Disney's The Little Mermaid",
+      "file": "missing/D/198802-disneys-the-little-mermaid.json"
+    },
+    {
+      "igdb_id": 198803,
+      "game_name": "Disney's The Little Mermaid",
+      "file": "missing/D/198803-disneys-the-little-mermaid.json"
+    },
+    {
+      "igdb_id": 198804,
+      "game_name": "Disney's The Little Mermaid",
+      "file": "missing/D/198804-disneys-the-little-mermaid.json"
     },
     {
       "igdb_id": 217836,
@@ -270093,6 +270118,11 @@
       "file": "missing/J/15543-jurassic-park.json"
     },
     {
+      "igdb_id": 198788,
+      "game_name": "Jurassic Park",
+      "file": "missing/J/198788-jurassic-park.json"
+    },
+    {
       "igdb_id": 25880,
       "game_name": "Jurassic Park",
       "file": "missing/J/25880-jurassic-park.json"
@@ -270106,6 +270136,11 @@
       "igdb_id": 74091,
       "game_name": "Jurassic Park III: Dino Defender",
       "file": "missing/J/74091-jurassic-park-iii-dino-defender.json"
+    },
+    {
+      "igdb_id": 198789,
+      "game_name": "Jurassic Park III: T-Rex Jaw Chomping Action Game",
+      "file": "missing/J/198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json"
     },
     {
       "igdb_id": 279640,
@@ -271201,6 +271236,11 @@
       "igdb_id": 172030,
       "game_name": "Kaboom!",
       "file": "missing/K/172030-kaboom.json"
+    },
+    {
+      "igdb_id": 198790,
+      "game_name": "Kaboom!",
+      "file": "missing/K/198790-kaboom.json"
     },
     {
       "igdb_id": 37971,
@@ -273138,6 +273178,11 @@
       "file": "missing/K/67969-karnn-age.json"
     },
     {
+      "igdb_id": 198791,
+      "game_name": "Karnov",
+      "file": "missing/K/198791-karnov.json"
+    },
+    {
       "igdb_id": 288188,
       "game_name": "Karnov",
       "file": "missing/K/288188-karnov.json"
@@ -275001,6 +275046,11 @@
       "igdb_id": 12311,
       "game_name": "Keystone Kapers",
       "file": "missing/K/12311-keystone-kapers.json"
+    },
+    {
+      "igdb_id": 198792,
+      "game_name": "Keystone Kapers",
+      "file": "missing/K/198792-keystone-kapers.json"
     },
     {
       "igdb_id": 226428,
@@ -276998,6 +277048,16 @@
       "file": "missing/K/18763-king-kong.json"
     },
     {
+      "igdb_id": 198793,
+      "game_name": "King Kong",
+      "file": "missing/K/198793-king-kong.json"
+    },
+    {
+      "igdb_id": 198794,
+      "game_name": "King Kong",
+      "file": "missing/K/198794-king-kong.json"
+    },
+    {
       "igdb_id": 48690,
       "game_name": "King Kong 2: Ikari no Megaton Punch",
       "file": "missing/K/48690-king-kong-2-ikari-no-megaton-punch.json"
@@ -278071,6 +278131,11 @@
       "igdb_id": 147307,
       "game_name": "Kings of Paradise",
       "file": "missing/K/147307-kings-of-paradise.json"
+    },
+    {
+      "igdb_id": 198795,
+      "game_name": "Kings of the Beach",
+      "file": "missing/K/198795-kings-of-the-beach.json"
     },
     {
       "igdb_id": 344914,
@@ -284756,6 +284821,11 @@
       "igdb_id": 122370,
       "game_name": "Lama Drama FPS",
       "file": "missing/L/122370-lama-drama-fps.json"
+    },
+    {
+      "igdb_id": 198796,
+      "game_name": "Lamb Chop & Friends",
+      "file": "missing/L/198796-lamb-chop-and-friends.json"
     },
     {
       "igdb_id": 323553,
@@ -298568,6 +298638,11 @@
       "file": "missing/L/3979-looney-tunes-back-in-action.json"
     },
     {
+      "igdb_id": 198805,
+      "game_name": "Looney Tunes: Bugs Bunny",
+      "file": "missing/L/198805-looney-tunes-bugs-bunny.json"
+    },
+    {
       "igdb_id": 49870,
       "game_name": "Looney Tunes: Carrot Crazy",
       "file": "missing/L/49870-looney-tunes-carrot-crazy.json"
@@ -302418,6 +302493,11 @@
       "file": "missing/L/359413-lucky-lawn-mower.json"
     },
     {
+      "igdb_id": 198806,
+      "game_name": "Lucky Luke",
+      "file": "missing/L/198806-lucky-luke.json"
+    },
+    {
       "igdb_id": 197849,
       "game_name": "Lucky Luke Shoot & Hit",
       "file": "missing/L/197849-lucky-luke-shoot-and-hit.json"
@@ -305083,6 +305163,11 @@
       "file": "missing/M/22324-madcoaster.json"
     },
     {
+      "igdb_id": 198807,
+      "game_name": "Madden 95",
+      "file": "missing/M/198807-madden-95.json"
+    },
+    {
       "igdb_id": 178024,
       "game_name": "Madden genesis",
       "file": "missing/M/178024-madden-genesis.json"
@@ -306501,6 +306586,11 @@
       "igdb_id": 12835,
       "game_name": "Magic Johnson's Basketball",
       "file": "missing/M/12835-magic-johnsons-basketball.json"
+    },
+    {
+      "igdb_id": 198808,
+      "game_name": "Magic Johnson's Basketball",
+      "file": "missing/M/198808-magic-johnsons-basketball.json"
     },
     {
       "igdb_id": 257459,
@@ -310741,6 +310831,11 @@
       "igdb_id": 58221,
       "game_name": "Marble Machine",
       "file": "missing/M/58221-marble-machine.json"
+    },
+    {
+      "igdb_id": 198810,
+      "game_name": "Marble Madness",
+      "file": "missing/M/198810-marble-madness.json"
     },
     {
       "igdb_id": 301853,
@@ -316933,6 +317028,11 @@
       "file": "missing/M/50581-mc-groovz-dance-craze.json"
     },
     {
+      "igdb_id": 198811,
+      "game_name": "MC Hammer: U Can't Touch This",
+      "file": "missing/M/198811-mc-hammer-u-cant-touch-this.json"
+    },
+    {
       "igdb_id": 75188,
       "game_name": "MC Lars 2: Brotherhood",
       "file": "missing/M/75188-mc-lars-2-brotherhood.json"
@@ -318918,6 +319018,11 @@
       "file": "missing/M/167160-mega-man-11-collectors-package.json"
     },
     {
+      "igdb_id": 198812,
+      "game_name": "Mega Man 2",
+      "file": "missing/M/198812-mega-man-2.json"
+    },
+    {
       "igdb_id": 206149,
       "game_name": "Mega Man 2 Lite",
       "file": "missing/M/206149-mega-man-2-lite.json"
@@ -318936,6 +319041,11 @@
       "igdb_id": 1725,
       "game_name": "Mega Man 2: The Power Fighters",
       "file": "missing/M/1725-mega-man-2-the-power-fighters.json"
+    },
+    {
+      "igdb_id": 198813,
+      "game_name": "Mega Man 3",
+      "file": "missing/M/198813-mega-man-3.json"
     },
     {
       "igdb_id": 110814,
@@ -324803,6 +324913,11 @@
       "file": "missing/M/262508-michael-jacksons-moonwalker.json"
     },
     {
+      "igdb_id": 198814,
+      "game_name": "Michael Jordan in Flight",
+      "file": "missing/M/198814-michael-jordan-in-flight.json"
+    },
+    {
       "igdb_id": 69585,
       "game_name": "Michael Jordan in Flight",
       "file": "missing/M/69585-michael-jordan-in-flight.json"
@@ -324863,6 +324978,16 @@
       "file": "missing/M/64660-michinoku-hitou-koimonogatari-kai.json"
     },
     {
+      "igdb_id": 198815,
+      "game_name": "Mickey & Friends",
+      "file": "missing/M/198815-mickey-and-friends.json"
+    },
+    {
+      "igdb_id": 198816,
+      "game_name": "Mickey & Friends",
+      "file": "missing/M/198816-mickey-and-friends.json"
+    },
+    {
       "igdb_id": 256371,
       "game_name": "Mickey Mania 2",
       "file": "missing/M/256371-mickey-mania-2.json"
@@ -324881,6 +325006,11 @@
       "igdb_id": 153449,
       "game_name": "Mickey Mouse",
       "file": "missing/M/153449-mickey-mouse.json"
+    },
+    {
+      "igdb_id": 198817,
+      "game_name": "Mickey Mouse",
+      "file": "missing/M/198817-mickey-mouse.json"
     },
     {
       "igdb_id": 78680,
@@ -326513,6 +326643,11 @@
       "file": "missing/M/155469-mighty-chameleon-brothers.json"
     },
     {
+      "igdb_id": 198818,
+      "game_name": "Mighty Ducks",
+      "file": "missing/M/198818-mighty-ducks.json"
+    },
+    {
       "igdb_id": 44522,
       "game_name": "Mighty Flip Champs! DX",
       "file": "missing/M/44522-mighty-flip-champs-dx.json"
@@ -326606,6 +326741,11 @@
       "igdb_id": 218431,
       "game_name": "Mighty Morphin Power Rangers Game Watch",
       "file": "missing/M/218431-mighty-morphin-power-rangers-game-watch.json"
+    },
+    {
+      "igdb_id": 198819,
+      "game_name": "Mighty Morphin Power Rangers: Alpha 5 Where Are You?",
+      "file": "missing/M/198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json"
     },
     {
       "igdb_id": 305016,
@@ -327311,6 +327451,11 @@
       "igdb_id": 401099,
       "game_name": "Millionaire Obby",
       "file": "missing/M/401099-millionaire-obby.json"
+    },
+    {
+      "igdb_id": 198820,
+      "game_name": "Millipede",
+      "file": "missing/M/198820-millipede.json"
     },
     {
       "igdb_id": 351633,
@@ -328656,6 +328801,11 @@
       "igdb_id": 416659,
       "game_name": "Miner 2019er",
       "file": "missing/M/416659-miner-2019er.json"
+    },
+    {
+      "igdb_id": 198821,
+      "game_name": "Miner 2049er",
+      "file": "missing/M/198821-miner-2049er.json"
     },
     {
       "igdb_id": 293746,
@@ -336608,6 +336758,11 @@
       "file": "missing/M/12314-moon-patrol.json"
     },
     {
+      "igdb_id": 198824,
+      "game_name": "Moon Patrol",
+      "file": "missing/M/198824-moon-patrol.json"
+    },
+    {
       "igdb_id": 280784,
       "game_name": "Moon Patrol",
       "file": "missing/M/280784-moon-patrol.json"
@@ -337618,6 +337773,21 @@
       "file": "missing/M/370153-morph-space.json"
     },
     {
+      "igdb_id": 198825,
+      "game_name": "Morphatrons Alien",
+      "file": "missing/M/198825-morphatrons-alien.json"
+    },
+    {
+      "igdb_id": 198826,
+      "game_name": "Morphatrons Arachnid",
+      "file": "missing/M/198826-morphatrons-arachnid.json"
+    },
+    {
+      "igdb_id": 198827,
+      "game_name": "Morphatrons Raptor",
+      "file": "missing/M/198827-morphatrons-raptor.json"
+    },
+    {
       "igdb_id": 191899,
       "game_name": "Morphcat Games Collection 1",
       "file": "missing/M/191899-morphcat-games-collection-1.json"
@@ -337776,6 +337946,11 @@
       "igdb_id": 295006,
       "game_name": "Mortal Hire",
       "file": "missing/M/295006-mortal-hire.json"
+    },
+    {
+      "igdb_id": 198828,
+      "game_name": "Mortal Kombat",
+      "file": "missing/M/198828-mortal-kombat.json"
     },
     {
       "igdb_id": 220096,
@@ -338056,6 +338231,11 @@
       "igdb_id": 305553,
       "game_name": "Mortal Kombat Mobile",
       "file": "missing/M/305553-mortal-kombat-mobile.json"
+    },
+    {
+      "igdb_id": 198829,
+      "game_name": "Mortal Kombat Mythologies: Sub-Zero",
+      "file": "missing/M/198829-mortal-kombat-mythologies-sub-zero.json"
     },
     {
       "igdb_id": 199010,
@@ -340343,6 +340523,11 @@
       "file": "missing/M/16852-mr-bree.json"
     },
     {
+      "igdb_id": 198831,
+      "game_name": "Mr. Bullfrog",
+      "file": "missing/M/198831-mr-bullfrog.json"
+    },
+    {
       "igdb_id": 122353,
       "game_name": "Mr. Catfish's Singles Retreat Event Extravaganza!!!",
       "file": "missing/M/122353-mr-catfishs-singles-retreat-event-extravaganza.json"
@@ -340633,6 +340818,11 @@
       "file": "missing/M/218446-mr-potato-head.json"
     },
     {
+      "igdb_id": 198830,
+      "game_name": "Mr. Potato Head & Mrs. Potato Head",
+      "file": "missing/M/198830-mr-potato-head-and-mrs-potato-head.json"
+    },
+    {
       "igdb_id": 243389,
       "game_name": "Mr. Potato Head Activity Pack",
       "file": "missing/M/243389-mr-potato-head-activity-pack.json"
@@ -340921,6 +341111,11 @@
       "igdb_id": 209155,
       "game_name": "Ms. Pac Person",
       "file": "missing/M/209155-ms-pac-person.json"
+    },
+    {
+      "igdb_id": 198832,
+      "game_name": "Ms. Pac-Man",
+      "file": "missing/M/198832-ms-pac-man.json"
     },
     {
       "igdb_id": 213870,
@@ -348208,6 +348403,16 @@
       "file": "missing/N/326960-name-that-sonic-tune.json"
     },
     {
+      "igdb_id": 198833,
+      "game_name": "Name That Tune",
+      "file": "missing/N/198833-name-that-tune.json"
+    },
+    {
+      "igdb_id": 198834,
+      "game_name": "Name That Tune: Pop Hits from the 60's-90's",
+      "file": "missing/N/198834-name-that-tune-pop-hits-from-the-60s-90s.json"
+    },
+    {
       "igdb_id": 22838,
       "game_name": "Name This Game",
       "file": "missing/N/22838-name-this-game.json"
@@ -350406,6 +350611,11 @@
       "igdb_id": 23446,
       "game_name": "NBA Inside Drive 2002",
       "file": "missing/N/23446-nba-inside-drive-2002.json"
+    },
+    {
+      "igdb_id": 198835,
+      "game_name": "NBA Jam",
+      "file": "missing/N/198835-nba-jam.json"
     },
     {
       "igdb_id": 88923,
@@ -355188,6 +355398,11 @@
       "file": "missing/N/175899-nfl-football.json"
     },
     {
+      "igdb_id": 198836,
+      "game_name": "NFL Football",
+      "file": "missing/N/198836-nfl-football.json"
+    },
+    {
       "igdb_id": 78936,
       "game_name": "NFL Football",
       "file": "missing/N/78936-nfl-football.json"
@@ -357983,6 +358198,16 @@
       "file": "missing/N/175905-ninja-gaiden.json"
     },
     {
+      "igdb_id": 198837,
+      "game_name": "Ninja Gaiden",
+      "file": "missing/N/198837-ninja-gaiden.json"
+    },
+    {
+      "igdb_id": 198839,
+      "game_name": "Ninja Gaiden",
+      "file": "missing/N/198839-ninja-gaiden.json"
+    },
+    {
       "igdb_id": 239925,
       "game_name": "Ninja Gaiden",
       "file": "missing/N/239925-ninja-gaiden.json"
@@ -358001,6 +358226,11 @@
       "igdb_id": 269572,
       "game_name": "Ninja Gaiden 3DS",
       "file": "missing/N/269572-ninja-gaiden-3ds.json"
+    },
+    {
+      "igdb_id": 198838,
+      "game_name": "Ninja Gaiden II",
+      "file": "missing/N/198838-ninja-gaiden-ii.json"
     },
     {
       "igdb_id": 240143,
@@ -358391,6 +358621,11 @@
       "igdb_id": 102726,
       "game_name": "Ninja Trip",
       "file": "missing/N/102726-ninja-trip.json"
+    },
+    {
+      "igdb_id": 198840,
+      "game_name": "Ninja Turtles: The Next Mutation",
+      "file": "missing/N/198840-ninja-turtles-the-next-mutation.json"
     },
     {
       "igdb_id": 44391,
@@ -367848,6 +368083,11 @@
       "file": "missing/O/181383-onanigan.json"
     },
     {
+      "igdb_id": 198841,
+      "game_name": "Onc' Picsou",
+      "file": "missing/O/198841-onc-picsou.json"
+    },
+    {
       "igdb_id": 276185,
       "game_name": "OnCall",
       "file": "missing/O/276185-oncall.json"
@@ -375923,6 +376163,11 @@
       "file": "missing/P/79229-pac-maine.json"
     },
     {
+      "igdb_id": 198842,
+      "game_name": "Pac-Man",
+      "file": "missing/P/198842-pac-man.json"
+    },
+    {
       "igdb_id": 204387,
       "game_name": "Pac-Man",
       "file": "missing/P/204387-pac-man.json"
@@ -379186,6 +379431,11 @@
       "igdb_id": 21849,
       "game_name": "Paperbound",
       "file": "missing/P/21849-paperbound.json"
+    },
+    {
+      "igdb_id": 198844,
+      "game_name": "Paperboy",
+      "file": "missing/P/198844-paperboy.json"
     },
     {
       "igdb_id": 256079,
