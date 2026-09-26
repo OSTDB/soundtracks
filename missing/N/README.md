@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanobots | 33325 | [33325-nanobots.json](./33325-nanobots.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoDeath | 305939 | [305939-nanodeath.json](./305939-nanodeath.json) |
+| Nanoha Taiken 2nd Chu | 213908 | [213908-nanoha-taiken-2nd-chu.json](./213908-nanoha-taiken-2nd-chu.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanoka Project | 226763 | [226763-nanoka-project.json](./226763-nanoka-project.json) |
 | Nanokin | 118189 | [118189-nanokin.json](./118189-nanokin.json) |
@@ -2045,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Flip | 300856 | [300856-ninja-flip.json](./300856-ninja-flip.json) |
 | Ninja Frog | 93523 | [93523-ninja-frog.json](./93523-ninja-frog.json) |
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
+| Ninja Fun | 213897 | [213897-ninja-fun.json](./213897-ninja-fun.json) |
 | Ninja Fuzzgrawth | 228384 | [228384-ninja-fuzzgrawth.json](./228384-ninja-fuzzgrawth.json) |
 | Ninja Gaiden | 175905 | [175905-ninja-gaiden.json](./175905-ninja-gaiden.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
