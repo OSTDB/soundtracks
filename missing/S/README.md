@@ -9733,6 +9733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Bridge Crew: The Next Generation Bundle | 118846 | [118846-star-trek-bridge-crew-the-next-generation-bundle.json](./118846-star-trek-bridge-crew-the-next-generation-bundle.json) |
 | Star Trek Catan | 24191 | [24191-star-trek-catan.json](./24191-star-trek-catan.json) |
 | Star Trek First Contact | 362902 | [362902-star-trek-first-contact.json](./362902-star-trek-first-contact.json) |
+| Star Trek II: The Wrath of Khan | 218425 | [218425-star-trek-ii-the-wrath-of-khan.json](./218425-star-trek-ii-the-wrath-of-khan.json) |
 | Star Trek III | 69258 | [69258-star-trek-iii.json](./69258-star-trek-iii.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
 | Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
@@ -12413,6 +12414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars | 38320 | [38320-super-famicom-wars.json](./38320-super-famicom-wars.json) |
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
+| Super Famista | 218386 | [218386-super-famista.json](./218386-super-famista.json) |
 | Super Fancy Pants Adventure | 51485 | [51485-super-fancy-pants-adventure.json](./51485-super-fancy-pants-adventure.json) |
 | Super Fangame Maker | 322607 | [322607-super-fangame-maker.json](./322607-super-fangame-maker.json) |
 | Super Farm | 43290 | [43290-super-farm.json](./43290-super-farm.json) |
