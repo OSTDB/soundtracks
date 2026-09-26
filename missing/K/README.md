@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
 | King's League II | 113688 | [113688-kings-league-ii.json](./113688-kings-league-ii.json) |
 | King's Mug | 393138 | [393138-kings-mug.json](./393138-kings-mug.json) |
+| King's Path Solitaire | 201053 | [201053-kings-path-solitaire.json](./201053-kings-path-solitaire.json) |
 | King's Quest 4+5+6 | 154935 | [154935-kings-quest-4-5-6.json](./154935-kings-quest-4-5-6.json) |
 | King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
@@ -1720,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa 2: Lunatea's Veil | 9709 | [9709-klonoa-2-lunateas-veil.json](./9709-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
 | Klonoa Phantasy Reverie Series | 191405 | [191405-klonoa-phantasy-reverie-series.json](./191405-klonoa-phantasy-reverie-series.json) |
+| Klonoa Phantasy Reverie Series: Special Edition | 201032 | [201032-klonoa-phantasy-reverie-series-special-edition.json](./201032-klonoa-phantasy-reverie-series-special-edition.json) |
 | Klonoa: Door to Phantomile | 270725 | [270725-klonoa-door-to-phantomile.json](./270725-klonoa-door-to-phantomile.json) |
 | Klonoa: Empire of Dreams | 6492 | [6492-klonoa-empire-of-dreams.json](./6492-klonoa-empire-of-dreams.json) |
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
@@ -2068,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kong: Survivor Instinct | 314136 | [314136-kong-survivor-instinct.json](./314136-kong-survivor-instinct.json) |
 | Kong: The 8th Wonder of the World | 49397 | [49397-kong-the-8th-wonder-of-the-world.json](./49397-kong-the-8th-wonder-of-the-world.json) |
 | Kong: The Animated Series | 49333 | [49333-kong-the-animated-series.json](./49333-kong-the-animated-series.json) |
+| Kongeer | 201006 | [201006-kongeer.json](./201006-kongeer.json) |
 | Kongfu | 246465 | [246465-kongfu.json](./246465-kongfu.json) |
 | Kongo Kong | 62983 | [62983-kongo-kong.json](./62983-kongo-kong.json) |
 | KongQuest | 216172 | [216172-kongquest.json](./216172-kongquest.json) |
