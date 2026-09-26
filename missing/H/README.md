@@ -3532,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday in Europe: Wonders of Germany - Collector's Edition | 340477 | [340477-holiday-in-europe-wonders-of-germany-collectors-edition.json](./340477-holiday-in-europe-wonders-of-germany-collectors-edition.json) |
 | Holiday Jigsaw Valentines Day | 54087 | [54087-holiday-jigsaw-valentines-day.json](./54087-holiday-jigsaw-valentines-day.json) |
 | Holiday Jigsaw: Christmas 2 | 215684 | [215684-holiday-jigsaw-christmas-2.json](./215684-holiday-jigsaw-christmas-2.json) |
+| Holiday Jigsaw: Thanksgiving Day | 192169 | [192169-holiday-jigsaw-thanksgiving-day.json](./192169-holiday-jigsaw-thanksgiving-day.json) |
 | Holiday Jigsaw: Thanksgiving Day 3 | 215683 | [215683-holiday-jigsaw-thanksgiving-day-3.json](./215683-holiday-jigsaw-thanksgiving-day-3.json) |
 | Holiday Lemmings | 92819 | [92819-holiday-lemmings.json](./92819-holiday-lemmings.json) |
 | Holiday Maker | 74396 | [74396-holiday-maker.json](./74396-holiday-maker.json) |
