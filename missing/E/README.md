@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elette Fragments | 126657 | [126657-elette-fragments.json](./126657-elette-fragments.json) |
 | Eleusis | 16666 | [16666-eleusis.json](./16666-eleusis.json) |
 | Elevate | 312715 | [312715-elevate.json](./312715-elevate.json) |
+| Elevatium: Puzzle of Atlantis | 185436 | [185436-elevatium-puzzle-of-atlantis.json](./185436-elevatium-puzzle-of-atlantis.json) |
 | Elevator | 390275 | [390275-elevator.json](./390275-elevator.json) |
 | Elevator Action | 276516 | [276516-elevator-action.json](./276516-elevator-action.json) |
 | Elevator Action | 51241 | [51241-elevator-action.json](./51241-elevator-action.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Adventure: The Lost Castle | 344553 | [344553-elf-adventure-the-lost-castle.json](./344553-elf-adventure-the-lost-castle.json) |
 | Elf Bowling 6: Air Biscuits | 71801 | [71801-elf-bowling-6-air-biscuits.json](./71801-elf-bowling-6-air-biscuits.json) |
 | Elf Bowling: Collector's Edition | 61343 | [61343-elf-bowling-collectors-edition.json](./61343-elf-bowling-collectors-edition.json) |
+| Elf Cat Jeff | 185425 | [185425-elf-cat-jeff.json](./185425-elf-cat-jeff.json) |
 | Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
 | Elf Girl Pinball | 212891 | [212891-elf-girl-pinball.json](./212891-elf-girl-pinball.json) |
 | Elf Manor | 126422 | [126422-elf-manor.json](./126422-elf-manor.json) |
@@ -2575,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eva | 272354 | [272354-eva.json](./272354-eva.json) |
 | Eva Dawn | 150111 | [150111-eva-dawn.json](./150111-eva-dawn.json) |
 | Eva Reynes | 116841 | [116841-eva-reynes.json](./116841-eva-reynes.json) |
+| Eva Reynes: Redemption | 185407 | [185407-eva-reynes-redemption.json](./185407-eva-reynes-redemption.json) |
 | Evacuation | 182454 | [182454-evacuation.json](./182454-evacuation.json) |
 | Evacuation Combat | 156682 | [156682-evacuation-combat.json](./156682-evacuation-combat.json) |
 | Evacuation Zone: Tampere | 342759 | [342759-evacuation-zone-tampere.json](./342759-evacuation-zone-tampere.json) |
