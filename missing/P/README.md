@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Black Pit | 159343 | [159343-paper-mario-black-pit.json](./159343-paper-mario-black-pit.json) |
 | Paper Mario: Dark Star Edition | 266504 | [266504-paper-mario-dark-star-edition.json](./266504-paper-mario-dark-star-edition.json) |
 | Paper Mario: Great Star Offensive | 338742 | [338742-paper-mario-great-star-offensive.json](./338742-paper-mario-great-star-offensive.json) |
+| Paper Mario: Master Quest | 187873 | [187873-paper-mario-master-quest.json](./187873-paper-mario-master-quest.json) |
 | Paper Mario: Mystical Mission | 357432 | [357432-paper-mario-mystical-mission.json](./357432-paper-mario-mystical-mission.json) |
 | Paper Mario: Star Nova | 358284 | [358284-paper-mario-star-nova.json](./358284-paper-mario-star-nova.json) |
 | Paper Mario: Sticker Star | 3350 | [3350-paper-mario-sticker-star.json](./3350-paper-mario-sticker-star.json) |
@@ -3104,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Twist | 415971 | [415971-pirate-twist.json](./415971-pirate-twist.json) |
 | Pirate's Den Renovator | 211185 | [211185-pirates-den-renovator.json](./211185-pirates-den-renovator.json) |
 | Pirate's Dual | 390236 | [390236-pirates-dual.json](./390236-pirates-dual.json) |
+| Pirate's Gold | 187867 | [187867-pirates-gold.json](./187867-pirates-gold.json) |
 | Pirate's Solitaire | 195715 | [195715-pirates-solitaire.json](./195715-pirates-solitaire.json) |
 | Pirated Code | 179612 | [179612-pirated-code.json](./179612-pirated-code.json) |
 | Pirated Code: Admin Edition | 212187 | [212187-pirated-code-admin-edition.json](./212187-pirated-code-admin-edition.json) |
@@ -6258,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Kepler: Delivery Included! | 363050 | [363050-project-kepler-delivery-included.json](./363050-project-kepler-delivery-included.json) |
 | Project Kinesis | 301954 | [301954-project-kinesis.json](./301954-project-kinesis.json) |
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
+| Project Kolo | 187817 | [187817-project-kolo.json](./187817-project-kolo.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
 | Project Lazarus | 205275 | [205275-project-lazarus.json](./205275-project-lazarus.json) |
