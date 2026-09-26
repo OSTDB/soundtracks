@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | R Body Adventure | 272388 | [272388-r-body-adventure.json](./272388-r-body-adventure.json) |
 | R for Revenge | 400364 | [400364-r-for-revenge.json](./400364-r-for-revenge.json) |
+| R is for Rachel | 197134 | [197134-r-is-for-rachel.json](./197134-r-is-for-rachel.json) |
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
 | R Place Guesser | 198339 | [198339-r-place-guesser.json](./198339-r-place-guesser.json) |
 | R-Ack | 260101 | [260101-r-ack.json](./260101-r-ack.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Tycoon II: The Second Century | 71480 | [71480-railroad-tycoon-ii-the-second-century.json](./71480-railroad-tycoon-ii-the-second-century.json) |
 | Railroad X | 16663 | [16663-railroad-x.json](./16663-railroad-x.json) |
 | Railroad X: Trans Europ Express VT 11.5 | 171026 | [171026-railroad-x-trans-europ-express-vt-11-5.json](./171026-railroad-x-trans-europ-express-vt-11-5.json) |
+| Railroader | 197113 | [197113-railroader.json](./197113-railroader.json) |
 | Railroads Online: Explorer DLC | 332801 | [332801-railroads-online-explorer-dlc.json](./332801-railroads-online-explorer-dlc.json) |
 | Railroads Online: Extended Edition | 331852 | [331852-railroads-online-extended-edition.json](./331852-railroads-online-extended-edition.json) |
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
@@ -3077,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
 | Right Way | 157047 | [157047-right-way.json](./157047-right-way.json) |
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
+| Rightfully, Beary Arms | 197126 | [197126-rightfully-beary-arms.json](./197126-rightfully-beary-arms.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
 | Rigid Force Redux | 134368 | [134368-rigid-force-redux.json](./134368-rigid-force-redux.json) |
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
@@ -3734,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robzawar | 295395 | [295395-robzawar.json](./295395-robzawar.json) |
 | Roc 'N Rope | 25727 | [25727-roc-n-rope.json](./25727-roc-n-rope.json) |
 | Rocco | 78015 | [78015-rocco.json](./78015-rocco.json) |
+| Rocco's Inferno | 197147 | [197147-roccos-inferno.json](./197147-roccos-inferno.json) |
 | Roch Island | 270695 | [270695-roch-island.json](./270695-roch-island.json) |
 | Roch Series | 270664 | [270664-roch-series.json](./270664-roch-series.json) |
 | Rocha's Golem | 156627 | [156627-rochas-golem.json](./156627-rochas-golem.json) |
@@ -4057,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
 | Rogue Dungeon | 188515 | [188515-rogue-dungeon.json](./188515-rogue-dungeon.json) |
 | Rogue Dungeons | 138581 | [138581-rogue-dungeons.json](./138581-rogue-dungeons.json) |
+| Rogue Earth | 197136 | [197136-rogue-earth.json](./197136-rogue-earth.json) |
 | Rogue Empire | 75077 | [75077-rogue-empire.json](./75077-rogue-empire.json) |
 | Rogue Fable II | 181247 | [181247-rogue-fable-ii.json](./181247-rogue-fable-ii.json) |
 | Rogue Fable III | 113389 | [113389-rogue-fable-iii.json](./113389-rogue-fable-iii.json) |
