@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
 | Matchpoint: Tennis Championships - Legends Edition | 199628 | [199628-matchpoint-tennis-championships-legends-edition.json](./199628-matchpoint-tennis-championships-legends-edition.json) |
 | Matchpoop | 265122 | [265122-matchpoop.json](./265122-matchpoop.json) |
+| MatchR: Now Hiring | 217247 | [217247-matchr-now-hiring.json](./217247-matchr-now-hiring.json) |
 | Matchstick: Cosmic Flame | 333554 | [333554-matchstick-cosmic-flame.json](./333554-matchstick-cosmic-flame.json) |
 | Matchsticks | 252146 | [252146-matchsticks.json](./252146-matchsticks.json) |
 | Matchsticks: Coffee Break Club | 169459 | [169459-matchsticks-coffee-break-club.json](./169459-matchsticks-coffee-break-club.json) |
@@ -2423,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
+| Mayhem | 217254 | [217254-mayhem.json](./217254-mayhem.json) |
 | Mayhem | 7066 | [7066-mayhem.json](./7066-mayhem.json) |
 | Mayhem | 80875 | [80875-mayhem.json](./80875-mayhem.json) |
 | Mayhem 1500 | 269126 | [269126-mayhem-1500.json](./269126-mayhem-1500.json) |
@@ -2464,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Action | 94006 | [94006-maze-action.json](./94006-maze-action.json) |
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
+| Maze City: A Cyberpunk Lost and Found Centre | 217241 | [217241-maze-city-a-cyberpunk-lost-and-found-centre.json](./217241-maze-city-a-cyberpunk-lost-and-found-centre.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
