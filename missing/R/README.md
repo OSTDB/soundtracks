@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rento Fortune: Dice Configurator | 298335 | [298335-rento-fortune-dice-configurator.json](./298335-rento-fortune-dice-configurator.json) |
 | RentoFortune | 187545 | [187545-rentofortune.json](./187545-rentofortune.json) |
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
+| Reouija Sleepover | 214436 | [214436-reouija-sleepover.json](./214436-reouija-sleepover.json) |
 | Repair Plane | 303790 | [303790-repair-plane.json](./303790-repair-plane.json) |
 | Repair Shop | 181317 | [181317-repair-shop.json](./181317-repair-shop.json) |
 | Repair This! | 260385 | [260385-repair-this.json](./260385-repair-this.json) |
@@ -4500,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
 | Rotate It! | 68934 | [68934-rotate-it.json](./68934-rotate-it.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
+| RotatePDF: A Corporate Tale | 214446 | [214446-rotatepdf-a-corporate-tale.json](./214446-rotatepdf-a-corporate-tale.json) |
 | Rotatex | 118778 | [118778-rotatex.json](./118778-rotatex.json) |
 | Rotating Bones | 188010 | [188010-rotating-bones.json](./188010-rotating-bones.json) |
 | Rotating Roads | 307761 | [307761-rotating-roads.json](./307761-rotating-roads.json) |
