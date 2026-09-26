@@ -5278,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustle | 181346 | [181346-rustle.json](./181346-rustle.json) |
 | Rustled Pete | 212822 | [212822-rustled-pete.json](./212822-rustled-pete.json) |
 | Rustler | 99302 | [99302-rustler.json](./99302-rustler.json) |
+| Rustler: Vinci | 193205 | [193205-rustler-vinci.json](./193205-rustler-vinci.json) |
 | Rustling Leaves | 249781 | [249781-rustling-leaves.json](./249781-rustling-leaves.json) |
 | Rustmourne | 406184 | [406184-rustmourne.json](./406184-rustmourne.json) |
 | RustNaut | 348308 | [348308-rustnaut.json](./348308-rustnaut.json) |
