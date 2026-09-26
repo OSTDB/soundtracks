@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Streets | 12827 | [12827-wild-streets.json](./12827-wild-streets.json) |
 | Wild Superman | 116819 | [116819-wild-superman.json](./116819-wild-superman.json) |
 | Wild Tactics | 304746 | [304746-wild-tactics.json](./304746-wild-tactics.json) |
+| Wild Tamer: Next Age | 220061 | [220061-wild-tamer-next-age.json](./220061-wild-tamer-next-age.json) |
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
 | Wild Terra 2: New Lands - Cultist Pack | 378307 | [378307-wild-terra-2-new-lands-cultist-pack.json](./378307-wild-terra-2-new-lands-cultist-pack.json) |
 | Wild Terrain | 386423 | [386423-wild-terrain.json](./386423-wild-terrain.json) |
