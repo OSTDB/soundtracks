@@ -2255,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | changeType() | 201128 | [201128-changetype.json](./201128-changetype.json) |
 | Channel 64 | 395048 | [395048-channel-64.json](./395048-channel-64.json) |
 | Channel 7 | 240313 | [240313-channel-7.json](./240313-channel-7.json) |
+| Channel 83 | 185440 | [185440-channel-83.json](./185440-channel-83.json) |
 | Channel Surfing | 356111 | [356111-channel-surfing.json](./356111-channel-surfing.json) |
 | Chant | 125948 | [125948-chant.json](./125948-chant.json) |
 | Chant Wizard | 391309 | [391309-chant-wizard.json](./391309-chant-wizard.json) |
