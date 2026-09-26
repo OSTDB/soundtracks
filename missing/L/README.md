@@ -3102,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lose Your Marbles | 362334 | [362334-lose-your-marbles.json](./362334-lose-your-marbles.json) |
 | Lose Your Marbles | 70330 | [70330-lose-your-marbles.json](./70330-lose-your-marbles.json) |
 | Lose/Lose | 201150 | [201150-lose-lose.json](./201150-lose-lose.json) |
+| Lose95 | 227216 | [227216-lose95.json](./227216-lose95.json) |
 | Loser Reborn | 122179 | [122179-loser-reborn.json](./122179-loser-reborn.json) |
 | Loser Simulator | 305835 | [305835-loser-simulator.json](./305835-loser-simulator.json) |
 | Losing Control | 179061 | [179061-losing-control.json](./179061-losing-control.json) |
