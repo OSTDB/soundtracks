@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vocal Warrior | 58491 | [58491-vocal-warrior.json](./58491-vocal-warrior.json) |
 | Vocaluxe | 50878 | [50878-vocaluxe.json](./50878-vocaluxe.json) |
 | Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
+| Vogue | 183884 | [183884-vogue.json](./183884-vogue.json) |
 | Vohenn | 387538 | [387538-vohenn.json](./387538-vohenn.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
 | Voice in the Abyss | 283735 | [283735-voice-in-the-abyss.json](./283735-voice-in-the-abyss.json) |
@@ -1321,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Fighters | 403667 | [403667-void-fighters.json](./403667-void-fighters.json) |
 | Void Game | 394338 | [394338-void-game.json](./394338-void-game.json) |
 | Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
+| Void Inc. | 183895 | [183895-void-inc.json](./183895-void-inc.json) |
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
 | Void Inspector | 415891 | [415891-void-inspector.json](./415891-void-inspector.json) |
 | Void Invaders | 18213 | [18213-void-invaders.json](./18213-void-invaders.json) |
