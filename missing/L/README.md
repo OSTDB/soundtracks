@@ -4061,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurn 2 Shell | 308391 | [308391-lurn-2-shell.json](./308391-lurn-2-shell.json) |
 | Lurruna: The Island of Towering Automatons | 397952 | [397952-lurruna-the-island-of-towering-automatons.json](./397952-lurruna-the-island-of-towering-automatons.json) |
 | LUS: Last Unit Standing | 247983 | [247983-lus-last-unit-standing.json](./247983-lus-last-unit-standing.json) |
+| Lushfoil Photography Sim | 189934 | [189934-lushfoil-photography-sim.json](./189934-lushfoil-photography-sim.json) |
 | Lushfoil Photography Sim VR | 360776 | [360776-lushfoil-photography-sim-vr.json](./360776-lushfoil-photography-sim-vr.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lusófona Games Collection 2025 | 406292 | [406292-lusofona-games-collection-2025.json](./406292-lusofona-games-collection-2025.json) |
