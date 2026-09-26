@@ -5296,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misfits | 296984 | [296984-misfits.json](./296984-misfits.json) |
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
 | Misfortune | 323937 | [323937-misfortune.json](./323937-misfortune.json) |
+| Misfortune Advance | 203222 | [203222-misfortune-advance.json](./203222-misfortune-advance.json) |
 | Misgiven | 258040 | [258040-misgiven.json](./258040-misgiven.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
 | Miside Reality | 335963 | [335963-miside-reality.json](./335963-miside-reality.json) |
@@ -5486,6 +5487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitoza | 144270 | [144270-mitoza.json](./144270-mitoza.json) |
 | Mitrasphere | 146911 | [146911-mitrasphere.json](./146911-mitrasphere.json) |
 | MITS: Monsters in the Shadows | 198376 | [198376-mits-monsters-in-the-shadows.json](./198376-mits-monsters-in-the-shadows.json) |
+| Mitsu x Mitsu Drops: Love x Love Honey Life | 203262 | [203262-mitsu-x-mitsu-drops-love-x-love-honey-life.json](./203262-mitsu-x-mitsu-drops-love-x-love-honey-life.json) |
 | Mitsubachi Gakuen | 107646 | [107646-mitsubachi-gakuen.json](./107646-mitsubachi-gakuen.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
 | Mitsume ga Tooru | 202919 | [202919-mitsume-ga-tooru.json](./202919-mitsume-ga-tooru.json) |
@@ -6556,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moons That Belong | 318066 | [318066-moons-that-belong.json](./318066-moons-that-belong.json) |
+| Moonscape | 203252 | [203252-moonscape.json](./203252-moonscape.json) |
 | Moonscars | 194507 | [194507-moonscars.json](./194507-moonscars.json) |
 | Moonshine | 144799 | [144799-moonshine.json](./144799-moonshine.json) |
 | Moonshine and I: Sansevieria | 178525 | [178525-moonshine-and-i-sansevieria.json](./178525-moonshine-and-i-sansevieria.json) |
