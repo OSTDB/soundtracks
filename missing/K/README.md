@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor 2: Deluxe Edition | 53242 | [53242-killing-floor-2-deluxe-edition.json](./53242-killing-floor-2-deluxe-edition.json) |
 | Killing Floor 2: Digital Deluxe Edition | 53241 | [53241-killing-floor-2-digital-deluxe-edition.json](./53241-killing-floor-2-digital-deluxe-edition.json) |
 | Killing Floor 2: Horzine Diver Outfit Bundle | 332025 | [332025-killing-floor-2-horzine-diver-outfit-bundle.json](./332025-killing-floor-2-horzine-diver-outfit-bundle.json) |
+| Killing Floor 2: Ultimate Edition | 205000 | [205000-killing-floor-2-ultimate-edition.json](./205000-killing-floor-2-ultimate-edition.json) |
 | Killing Floor III: Deluxe Edition | 336131 | [336131-killing-floor-iii-deluxe-edition.json](./336131-killing-floor-iii-deluxe-edition.json) |
 | Killing Floor III: Elite Nightfall Edition | 336153 | [336153-killing-floor-iii-elite-nightfall-edition.json](./336153-killing-floor-iii-elite-nightfall-edition.json) |
 | Killing Floor III: Operation Breakout | 380411 | [380411-killing-floor-iii-operation-breakout.json](./380411-killing-floor-iii-operation-breakout.json) |
