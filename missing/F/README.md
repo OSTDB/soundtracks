@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fliese | 234044 | [234044-fliese.json](./234044-fliese.json) |
 | Fliggles Rescue Adventure | 259557 | [259557-fliggles-rescue-adventure.json](./259557-fliggles-rescue-adventure.json) |
 | Flight 74 | 152730 | [152730-flight-74.json](./152730-flight-74.json) |
+| Flight 787: Advanced | 197630 | [197630-flight-787-advanced.json](./197630-flight-787-advanced.json) |
 | Flight Academy | 62999 | [62999-flight-academy.json](./62999-flight-academy.json) |
 | Flight Catastrophe | 149532 | [149532-flight-catastrophe.json](./149532-flight-catastrophe.json) |
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
@@ -3380,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy's Adventure | 381026 | [381026-fluffys-adventure.json](./381026-fluffys-adventure.json) |
 | Flugrettung: Die Simulation | 334884 | [334884-flugrettung-die-simulation.json](./334884-flugrettung-die-simulation.json) |
 | Fluid | 94223 | [94223-fluid.json](./94223-fluid.json) |
+| Fluid SE | 197645 | [197645-fluid-se.json](./197645-fluid-se.json) |
 | Fluidity | 21169 | [21169-fluidity.json](./21169-fluidity.json) |
 | Fluidity: Spin Cycle | 20088 | [20088-fluidity-spin-cycle.json](./20088-fluidity-spin-cycle.json) |
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
@@ -3689,11 +3691,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Life 2025 | 325576 | [325576-football-life-2025.json](./325576-football-life-2025.json) |
 | Football Life Simulator | 326426 | [326426-football-life-simulator.json](./326426-football-life-simulator.json) |
 | Football Maestro | 261531 | [261531-football-maestro.json](./261531-football-maestro.json) |
+| Football Management RPG | 197679 | [197679-football-management-rpg.json](./197679-football-management-rpg.json) |
 | Football Manager | 198244 | [198244-football-manager.json](./198244-football-manager.json) |
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
 | Football Manager 2013 | 8974 | [8974-football-manager-2013.json](./8974-football-manager-2013.json) |
 | Football Manager 2017 | 24481 | [24481-football-manager-2017.json](./24481-football-manager-2017.json) |
 | Football Manager 2020 | 122080 | [122080-football-manager-2020.json](./122080-football-manager-2020.json) |
+| Football Manager 2020 Mobile | 197656 | [197656-football-manager-2020-mobile.json](./197656-football-manager-2020-mobile.json) |
 | Football Manager 2021 Touch | 139257 | [139257-football-manager-2021-touch.json](./139257-football-manager-2021-touch.json) |
 | Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
@@ -4384,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | Foxy's Coin Hunt | 235301 | [235301-foxys-coin-hunt.json](./235301-foxys-coin-hunt.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
+| FPAH: Foul Play Air Hockey | 197653 | [197653-fpah-foul-play-air-hockey.json](./197653-fpah-foul-play-air-hockey.json) |
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
 | FPS Hero | 386284 | [386284-fps-hero.json](./386284-fps-hero.json) |
 | FPS Infinite | 334154 | [334154-fps-infinite.json](./334154-fps-infinite.json) |
