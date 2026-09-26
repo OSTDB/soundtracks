@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanokin | 118189 | [118189-nanokin.json](./118189-nanokin.json) |
 | NanoLab Fighter | 246978 | [246978-nanolab-fighter.json](./246978-nanolab-fighter.json) |
 | Nanoloop | 93994 | [93994-nanoloop.json](./93994-nanoloop.json) |
+| NanoMachina | 188915 | [188915-nanomachina.json](./188915-nanomachina.json) |
 | Nanopesos | 125256 | [125256-nanopesos.json](./125256-nanopesos.json) |
 | Nanopineapple 2018 | 315618 | [315618-nanopineapple-2018.json](./315618-nanopineapple-2018.json) |
 | Nanos | 90597 | [90597-nanos.json](./90597-nanos.json) |
