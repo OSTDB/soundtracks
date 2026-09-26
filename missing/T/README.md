@@ -2611,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Better Place | 229707 | [229707-the-better-place.json](./229707-the-better-place.json) |
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
 | The Beziér Game | 138840 | [138840-the-bezier-game.json](./138840-the-bezier-game.json) |
+| The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
 | The Big Bang Theory Game | 325084 | [325084-the-big-bang-theory-game.json](./325084-the-big-bang-theory-game.json) |
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
 | The Big Con | 121767 | [121767-the-big-con.json](./121767-the-big-con.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Butcher | 203534 | [203534-the-butcher.json](./203534-the-butcher.json) |
 | The Butterfly Dreams | 319021 | [319021-the-butterfly-dreams.json](./319021-the-butterfly-dreams.json) |
 | The Button Be | 213629 | [213629-the-button-be.json](./213629-the-button-be.json) |
+| The Button Be: Daylight | 225589 | [225589-the-button-be-daylight.json](./225589-the-button-be-daylight.json) |
 | The Button Be: Fields | 217542 | [217542-the-button-be-fields.json](./217542-the-button-be-fields.json) |
 | The Button Be: Unexpected | 217543 | [217543-the-button-be-unexpected.json](./217543-the-button-be-unexpected.json) |
 | The Button by Elendow | 238612 | [238612-the-button-by-elendow.json](./238612-the-button-by-elendow.json) |
@@ -3170,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
 | The Curse of Rabenstein | 231520 | [231520-the-curse-of-rabenstein.json](./231520-the-curse-of-rabenstein.json) |
 | The Curse of Stuzhiy | 413876 | [413876-the-curse-of-stuzhiy.json](./413876-the-curse-of-stuzhiy.json) |
+| The Curse of Tencond | 225576 | [225576-the-curse-of-tencond.json](./225576-the-curse-of-tencond.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
 | The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
 | The Curse of Trasmoz | 135307 | [135307-the-curse-of-trasmoz.json](./135307-the-curse-of-trasmoz.json) |
@@ -3843,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: Bedrock Jackpot | 396443 | [396443-the-flintstones-bedrock-jackpot.json](./396443-the-flintstones-bedrock-jackpot.json) |
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
 | The Flintstones: Dino - Lost in Bedrock | 71541 | [71541-the-flintstones-dino-lost-in-bedrock.json](./71541-the-flintstones-dino-lost-in-bedrock.json) |
+| The Flintstones: Dino to the Rescue | 225618 | [225618-the-flintstones-dino-to-the-rescue.json](./225618-the-flintstones-dino-to-the-rescue.json) |
 | The Flintstones: The Movie | 146331 | [146331-the-flintstones-the-movie.json](./146331-the-flintstones-the-movie.json) |
 | The Flintstones: The Treasure of Sierra Madrock | 8450 | [8450-the-flintstones-the-treasure-of-sierra-madrock.json](./8450-the-flintstones-the-treasure-of-sierra-madrock.json) |
 | The Floor is [Blank] | 157140 | [157140-the-floor-is-blank.json](./157140-the-floor-is-blank.json) |
@@ -4412,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Van Helsing: Extended Edition | 27680 | [27680-the-incredible-adventures-of-van-helsing-extended-edition.json](./27680-the-incredible-adventures-of-van-helsing-extended-edition.json) |
 | The Incredible Adventures of Van Helsing: The Complete Trilogy | 115460 | [115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json](./115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json) |
 | The Incredible Coneman | 262418 | [262418-the-incredible-coneman.json](./262418-the-incredible-coneman.json) |
+| The Incredible Hulk | 225619 | [225619-the-incredible-hulk.json](./225619-the-incredible-hulk.json) |
 | The Incredible Hulk | 94829 | [94829-the-incredible-hulk.json](./94829-the-incredible-hulk.json) |
 | The Incredible Hulk: The Pantheon Saga | 45512 | [45512-the-incredible-hulk-the-pantheon-saga.json](./45512-the-incredible-hulk-the-pantheon-saga.json) |
 | The Incredible Machine | 4243 | [4243-the-incredible-machine.json](./4243-the-incredible-machine.json) |
@@ -5488,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Messenger | 44838 | [44838-the-messenger.json](./44838-the-messenger.json) |
 | The Messenger: Picnic Panic Bundle | 237906 | [237906-the-messenger-picnic-panic-bundle.json](./237906-the-messenger-picnic-panic-bundle.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
+| The Metronomicon: Slay the Dance Floor - The End Records Challenge Pack | 225580 | [225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json](./225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json) |
 | The Miami Horror | 176347 | [176347-the-miami-horror.json](./176347-the-miami-horror.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
 | The Midnight Bakery | 135875 | [135875-the-midnight-bakery.json](./135875-the-midnight-bakery.json) |
@@ -10422,6 +10428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
 | Touch de Zuno DS | 58164 | [58164-touch-de-zuno-ds.json](./58164-touch-de-zuno-ds.json) |
 | Touch Fish | 348258 | [348258-touch-fish.json](./348258-touch-fish.json) |
+| Touch Me | 225597 | [225597-touch-me.json](./225597-touch-me.json) |
 | Touch Me | 400211 | [400211-touch-me.json](./400211-touch-me.json) |
 | Touch Melbourne | 167705 | [167705-touch-melbourne.json](./167705-touch-melbourne.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
@@ -12602,6 +12609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
 | Tune My Car: Tuning Studio & Mechanic Simulator 2026 | 409562 | [409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json](./409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json) |
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
+| Tuned to Your Heart | 225562 | [225562-tuned-to-your-heart.json](./225562-tuned-to-your-heart.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
 | Tung Tung Sahur: Obby Challenge | 384784 | [384784-tung-tung-sahur-obby-challenge.json](./384784-tung-tung-sahur-obby-challenge.json) |
 | Tung Tung Together: Online Deathrun Party | 390634 | [390634-tung-tung-together-online-deathrun-party.json](./390634-tung-tung-together-online-deathrun-party.json) |
