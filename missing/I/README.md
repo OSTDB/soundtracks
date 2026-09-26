@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
+| Incubus: A ghost-hunters tale | 221683 | [221683-incubus-a-ghost-hunters-tale.json](./221683-incubus-a-ghost-hunters-tale.json) |
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
 | Indeep | 55503 | [55503-indeep.json](./55503-indeep.json) |
