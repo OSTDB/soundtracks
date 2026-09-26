@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
 | Lab Escape! | 299450 | [299450-lab-escape.json](./299450-lab-escape.json) |
+| Lab Inspect | 226141 | [226141-lab-inspect.json](./226141-lab-inspect.json) |
 | Lab Rat | 94244 | [94244-lab-rat.json](./94244-lab-rat.json) |
 | Lab Rat Escape | 323541 | [323541-lab-rat-escape.json](./323541-lab-rat-escape.json) |
 | Lab Runner: X | 126437 | [126437-lab-runner-x.json](./126437-lab-runner-x.json) |
@@ -2091,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
 | Limoria | 327343 | [327343-limoria.json](./327343-limoria.json) |
 | Limp Mode | 414575 | [414575-limp-mode.json](./414575-limp-mode.json) |
+| Lims | 226166 | [226166-lims.json](./226166-lims.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
@@ -2907,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look At Me | 285564 | [285564-look-at-me.json](./285564-look-at-me.json) |
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
 | Look Find Find | 219671 | [219671-look-find-find.json](./219671-look-find-find.json) |
+| Look for Danger | 226138 | [226138-look-for-danger.json](./226138-look-for-danger.json) |
 | Look for Louis | 106383 | [106383-look-for-louis.json](./106383-look-for-louis.json) |
 | Look Inside | 291523 | [291523-look-inside.json](./291523-look-inside.json) |
 | Look Outside | 328140 | [328140-look-outside.json](./328140-look-outside.json) |
@@ -3008,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootbox Lyfe | 118586 | [118586-lootbox-lyfe.json](./118586-lootbox-lyfe.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | Lootcraft | 126418 | [126418-lootcraft.json](./126418-lootcraft.json) |
+| Lootem | 226181 | [226181-lootem.json](./226181-lootem.json) |
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
 | Lootist | 316735 | [316735-lootist.json](./316735-lootist.json) |
 | LootLite | 144919 | [144919-lootlite.json](./144919-lootlite.json) |
@@ -3324,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
 | Lost Wage Rampage | 108989 | [108989-lost-wage-rampage.json](./108989-lost-wage-rampage.json) |
 | Lost Wiki: Kozlovka | 374721 | [374721-lost-wiki-kozlovka.json](./374721-lost-wiki-kozlovka.json) |
+| Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
 | Lostade | 377694 | [377694-lostade.json](./377694-lostade.json) |
 | Losted Mind | 348256 | [348256-losted-mind.json](./348256-losted-mind.json) |
@@ -3713,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
 | Lucy Gorbalm Is Missing | 393163 | [393163-lucy-gorbalm-is-missing.json](./393163-lucy-gorbalm-is-missing.json) |
 | Lucy Half Lucid | 408169 | [408169-lucy-half-lucid.json](./408169-lucy-half-lucid.json) |
+| Lucy's Heaven | 226176 | [226176-lucys-heaven.json](./226176-lucys-heaven.json) |
 | Lucy's Journey | 258735 | [258735-lucys-journey.json](./258735-lucys-journey.json) |
 | Lucy's World | 229001 | [229001-lucys-world.json](./229001-lucys-world.json) |
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
