@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega One | 55016 | [55016-omega-one.json](./55016-omega-one.json) |
 | Omega Orb | 13744 | [13744-omega-orb.json](./13744-omega-orb.json) |
 | Omega Pattern | 28908 | [28908-omega-pattern.json](./28908-omega-pattern.json) |
+| Omega Pilot | 199364 | [199364-omega-pilot.json](./199364-omega-pilot.json) |
 | Omega Protocol | 374633 | [374633-omega-protocol.json](./374633-omega-protocol.json) |
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
 | Omega Racers | 122185 | [122185-omega-racers.json](./122185-omega-racers.json) |
