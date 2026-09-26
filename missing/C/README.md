@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleClysmic | 179153 | [179153-castleclysmic.json](./179153-castleclysmic.json) |
 | CastleDefense: RaiseArcher | 239141 | [239141-castledefense-raisearcher.json](./239141-castledefense-raisearcher.json) |
 | Castlehold | 144146 | [144146-castlehold.json](./144146-castlehold.json) |
+| CastleOfDuck | 193722 | [193722-castleofduck.json](./193722-castleofduck.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
 | Castlepoint | 189036 | [189036-castlepoint.json](./189036-castlepoint.json) |
 | Castlequest | 330925 | [330925-castlequest.json](./330925-castlequest.json) |
@@ -3635,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Dolorosa | 348319 | [348319-city-of-dolorosa.json](./348319-city-of-dolorosa.json) |
 | City of Dusk | 246951 | [246951-city-of-dusk.json](./246951-city-of-dusk.json) |
 | City of Fools | 35520 | [35520-city-of-fools.json](./35520-city-of-fools.json) |
+| City of Gangsters: Criminal Record | 193747 | [193747-city-of-gangsters-criminal-record.json](./193747-city-of-gangsters-criminal-record.json) |
 | City of Gangsters: Deluxe Edition | 173783 | [173783-city-of-gangsters-deluxe-edition.json](./173783-city-of-gangsters-deluxe-edition.json) |
 | City of Gangsters: Shadow Government | 203928 | [203928-city-of-gangsters-shadow-government.json](./203928-city-of-gangsters-shadow-government.json) |
 | City of God I: Prison Empire - Outrage | 170431 | [170431-city-of-god-i-prison-empire-outrage.json](./170431-city-of-god-i-prison-empire-outrage.json) |
@@ -3968,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
 | Click Tycoon | 125196 | [125196-click-tycoon.json](./125196-click-tycoon.json) |
 | Click Your Crush! | 154363 | [154363-click-your-crush.json](./154363-click-your-crush.json) |
+| Click Your Poison: Infected | 193717 | [193717-click-your-poison-infected.json](./193717-click-your-poison-infected.json) |
 | Click-Her | 385310 | [385310-click-her.json](./385310-click-her.json) |
 | Click: Commute Control | 199036 | [199036-click-commute-control.json](./199036-click-commute-control.json) |
 | Click: Control Your Game | 199037 | [199037-click-control-your-game.json](./199037-click-control-your-game.json) |
@@ -4151,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloudNovel Breakdown!! | 397227 | [397227-cloudnovel-breakdown.json](./397227-cloudnovel-breakdown.json) |
 | Cloudpaws | 403694 | [403694-cloudpaws.json](./403694-cloudpaws.json) |
 | Cloudpunk | 111837 | [111837-cloudpunk.json](./111837-cloudpunk.json) |
+| Cloudpunk: Ultimate Edition | 193737 | [193737-cloudpunk-ultimate-edition.json](./193737-cloudpunk-ultimate-edition.json) |
 | Clouds & Sheep | 255732 | [255732-clouds-and-sheep.json](./255732-clouds-and-sheep.json) |
 | Clouds Ahoy! | 235863 | [235863-clouds-ahoy.json](./235863-clouds-ahoy.json) |
 | Clouds Kingdom 3 | 71501 | [71501-clouds-kingdom-3.json](./71501-clouds-kingdom-3.json) |
@@ -6722,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Slots | 395241 | [395241-creepy-slots.json](./395241-creepy-slots.json) |
 | Creepy Support | 345029 | [345029-creepy-support.json](./345029-creepy-support.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
+| Creepy Tale Bundle | 193739 | [193739-creepy-tale-bundle.json](./193739-creepy-tale-bundle.json) |
 | Creepy Waves FM: Bugs Fixer | 322724 | [322724-creepy-waves-fm-bugs-fixer.json](./322724-creepy-waves-fm-bugs-fixer.json) |
 | CreepyDates | 408876 | [408876-creepydates.json](./408876-creepydates.json) |
 | Creepypasta Land | 130346 | [130346-creepypasta-land.json](./130346-creepypasta-land.json) |
