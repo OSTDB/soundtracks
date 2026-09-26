@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redacted by the Sadistic Princess from Another World?! | 402250 | [402250-redacted-by-the-sadistic-princess-from-another-world.json](./402250-redacted-by-the-sadistic-princess-from-another-world.json) |
 | Redacted: Genome | 287196 | [287196-redacted-genome.json](./287196-redacted-genome.json) |
 | Redactem | 27470 | [27470-redactem.json](./27470-redactem.json) |
+| Redaction | 223399 | [223399-redaction.json](./223399-redaction.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
 | RedBull Car Park Drift | 120349 | [120349-redbull-car-park-drift.json](./120349-redbull-car-park-drift.json) |
 | RedCard 2003 | 46027 | [46027-redcard-2003.json](./46027-redcard-2003.json) |
@@ -2833,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
+| Ricochet Rodeo | 223419 | [223419-ricochet-rodeo.json](./223419-ricochet-rodeo.json) |
 | Ricochet Xtreme | 70421 | [70421-ricochet-xtreme.json](./70421-ricochet-xtreme.json) |
 | Riddim Ribbon | 66040 | [66040-riddim-ribbon.json](./66040-riddim-ribbon.json) |
 | Riddle Diario | 109063 | [109063-riddle-diario.json](./109063-riddle-diario.json) |
@@ -3406,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Riot Combat Racing | 344930 | [344930-road-riot-combat-racing.json](./344930-road-riot-combat-racing.json) |
 | Road Runner | 282628 | [282628-road-runner.json](./282628-road-runner.json) |
 | Road Spirits | 41998 | [41998-road-spirits.json](./41998-road-spirits.json) |
+| Road Stones | 223409 | [223409-road-stones.json](./223409-road-stones.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
 | Road to Empress II | 403017 | [403017-road-to-empress-ii.json](./403017-road-to-empress-ii.json) |
@@ -3751,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Fruit | 144778 | [144778-rocket-fruit.json](./144778-rocket-fruit.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rocket Horizon | 256928 | [256928-rocket-horizon.json](./256928-rocket-horizon.json) |
+| Rocket Inc | 223426 | [223426-rocket-inc.json](./223426-rocket-inc.json) |
 | Rocket Jockey | 50137 | [50137-rocket-jockey.json](./50137-rocket-jockey.json) |
 | Rocket Joust | 174183 | [174183-rocket-joust.json](./174183-rocket-joust.json) |
 | Rocket Jump | 378406 | [378406-rocket-jump.json](./378406-rocket-jump.json) |
