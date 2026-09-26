@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
 | Namco Logic | 343342 | [343342-namco-logic.json](./343342-namco-logic.json) |
 | Namco Museum | 131507 | [131507-namco-museum.json](./131507-namco-museum.json) |
+| Namco Museum 50th Anniversary | 202112 | [202112-namco-museum-50th-anniversary.json](./202112-namco-museum-50th-anniversary.json) |
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
 | Namco Museum Collection 1 | 130689 | [130689-namco-museum-collection-1.json](./130689-namco-museum-collection-1.json) |
 | Namco Museum Collection 2 | 130690 | [130690-namco-museum-collection-2.json](./130690-namco-museum-collection-2.json) |
@@ -303,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
 | Narvas | 164895 | [164895-narvas.json](./164895-narvas.json) |
 | Narwhal Heist | 116164 | [116164-narwhal-heist.json](./116164-narwhal-heist.json) |
+| NASB: Nitro | 202153 | [202153-nasb-nitro.json](./202153-nasb-nitro.json) |
 | NASCAR '15 | 44560 | [44560-nascar-15.json](./44560-nascar-15.json) |
 | Nascar 06 Mobile | 210106 | [210106-nascar-06-mobile.json](./210106-nascar-06-mobile.json) |
 | NASCAR 08 | 7103 | [7103-nascar-08.json](./7103-nascar-08.json) |
@@ -1641,6 +1643,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons Nitro | 7981 | [7981-nicktoons-nitro.json](./7981-nicktoons-nitro.json) |
 | Nicktoons Racing | 248732 | [248732-nicktoons-racing.json](./248732-nicktoons-racing.json) |
 | Nicktoons Racing | 248733 | [248733-nicktoons-racing.json](./248733-nicktoons-racing.json) |
+| Nicktoons Unite! | 202110 | [202110-nicktoons-unite.json](./202110-nicktoons-unite.json) |
+| Nicktoons Unite! | 202111 | [202111-nicktoons-unite.json](./202111-nicktoons-unite.json) |
 | Nicktoons: Attack of the Toybots | 2774 | [2774-nicktoons-attack-of-the-toybots.json](./2774-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Movin' | 7982 | [7982-nicktoons-movin.json](./7982-nicktoons-movin.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
