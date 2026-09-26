@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madison | 164243 | [164243-madison.json](./164243-madison.json) |
 | Madison VR | 252791 | [252791-madison-vr.json](./252791-madison-vr.json) |
 | Madison: Possessed Edition | 198392 | [198392-madison-possessed-edition.json](./198392-madison-possessed-edition.json) |
+| Madlad Friend Sim | 179496 | [179496-madlad-friend-sim.json](./179496-madlad-friend-sim.json) |
 | Madland | 121598 | [121598-madland.json](./121598-madland.json) |
 | Madman | 272280 | [272280-madman.json](./272280-madman.json) |
 | Madman's Dice | 374801 | [374801-madmans-dice.json](./374801-madmans-dice.json) |
@@ -4759,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimpi | 20353 | [20353-mimpi.json](./20353-mimpi.json) |
 | Mimpi Hidden Objects | 242561 | [242561-mimpi-hidden-objects.json](./242561-mimpi-hidden-objects.json) |
 | Mimpi Volleyball | 257468 | [257468-mimpi-volleyball.json](./257468-mimpi-volleyball.json) |
+| Mimsy & Friends! | 179520 | [179520-mimsy-and-friends.json](./179520-mimsy-and-friends.json) |
 | Mina | 373622 | [373622-mina.json](./373622-mina.json) |
 | Mina & Michi | 152408 | [152408-mina-and-michi.json](./152408-mina-and-michi.json) |
 | Mina the Hollower GBC Demake | 305750 | [305750-mina-the-hollower-gbc-demake.json](./305750-mina-the-hollower-gbc-demake.json) |
@@ -6130,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeys & Typewriters! | 319798 | [319798-monkeys-and-typewriters.json](./319798-monkeys-and-typewriters.json) |
 | Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monkeys With Guns | 177414 | [177414-monkeys-with-guns.json](./177414-monkeys-with-guns.json) |
+| Monkeys!! | 179506 | [179506-monkeys.json](./179506-monkeys.json) |
 | Monkeyshines | 41566 | [41566-monkeyshines.json](./41566-monkeyshines.json) |
 | Monkeytype | 137456 | [137456-monkeytype.json](./137456-monkeytype.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
@@ -6372,6 +6375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker III: Hikari no Majutsushi | 37922 | [37922-monster-maker-iii-hikari-no-majutsushi.json](./37922-monster-maker-iii-hikari-no-majutsushi.json) |
 | Monster Maker Kids | 37921 | [37921-monster-maker-kids.json](./37921-monster-maker-kids.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
+| Monster Match | 179504 | [179504-monster-match.json](./179504-monster-match.json) |
 | Monster Maulers | 39541 | [39541-monster-maulers.json](./39541-monster-maulers.json) |
 | Monster Mayhem | 351608 | [351608-monster-mayhem.json](./351608-monster-mayhem.json) |
 | Monster Medic | 18236 | [18236-monster-medic.json](./18236-monster-medic.json) |
@@ -7455,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
 | Mr. Woodpecker | 298648 | [298648-mr-woodpecker.json](./298648-mr-woodpecker.json) |
+| Mr. Yeti's Fast Food | 179495 | [179495-mr-yetis-fast-food.json](./179495-mr-yetis-fast-food.json) |
 | Mr. Zippy is Watching | 401090 | [401090-mr-zippy-is-watching.json](./401090-mr-zippy-is-watching.json) |
 | Mr.Addon in Sulpicius Gallus M | 187384 | [187384-mr-addon-in-sulpicius-gallus-m.json](./187384-mr-addon-in-sulpicius-gallus-m.json) |
 | Mr.Jezko | 86579 | [86579-mr-jezko.json](./86579-mr-jezko.json) |
@@ -8095,6 +8100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Farm | 107900 | [107900-my-farm.json](./107900-my-farm.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My Favorite Dream Girls | 401695 | [401695-my-favorite-dream-girls.json](./401695-my-favorite-dream-girls.json) |
+| My Favorite Match | 179510 | [179510-my-favorite-match.json](./179510-my-favorite-match.json) |
 | My Favorite Monster | 261305 | [261305-my-favorite-monster.json](./261305-my-favorite-monster.json) |
 | My Favourite T-Shirt | 398540 | [398540-my-favourite-t-shirt.json](./398540-my-favourite-t-shirt.json) |
 | My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
