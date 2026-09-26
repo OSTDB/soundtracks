@@ -7041,6 +7041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
 | Songs of Steel: Hispania | 277369 | [277369-songs-of-steel-hispania.json](./277369-songs-of-steel-hispania.json) |
 | Songs of the Chalice | 224668 | [224668-songs-of-the-chalice.json](./224668-songs-of-the-chalice.json) |
+| Songs of the Mystics | 175218 | [175218-songs-of-the-mystics.json](./175218-songs-of-the-mystics.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
@@ -10303,6 +10304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter | 364088 | [364088-starfighter.json](./364088-starfighter.json) |
 | Starfighter | 55881 | [55881-starfighter.json](./55881-starfighter.json) |
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
+| Starfighter Galaxy Defender VR | 175209 | [175209-starfighter-galaxy-defender-vr.json](./175209-starfighter-galaxy-defender-vr.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
 | Starflower Inc. | 348788 | [348788-starflower-inc.json](./348788-starflower-inc.json) |
 | StarForce: 2193 | 34475 | [34475-starforce-2193.json](./34475-starforce-2193.json) |
@@ -10648,6 +10650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Statues | 26519 | [26519-statues.json](./26519-statues.json) |
 | Status | 327418 | [327418-status.json](./327418-status.json) |
 | StaudSoft's Synthetic World | 35899 | [35899-staudsofts-synthetic-world.json](./35899-staudsofts-synthetic-world.json) |
+| Staunch Defense | 175186 | [175186-staunch-defense.json](./175186-staunch-defense.json) |
 | Staxel | 37294 | [37294-staxel.json](./37294-staxel.json) |
 | Staxter | 186167 | [186167-staxter.json](./186167-staxter.json) |
 | Stay | 348238 | [348238-stay.json](./348238-stay.json) |
@@ -10790,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
 | Steel Revolt | 353476 | [353476-steel-revolt.json](./353476-steel-revolt.json) |
 | Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
+| Steel Runner | 175179 | [175179-steel-runner.json](./175179-steel-runner.json) |
 | Steel Sand Mars Chronicles: Survival Simulator | 294834 | [294834-steel-sand-mars-chronicles-survival-simulator.json](./294834-steel-sand-mars-chronicles-survival-simulator.json) |
 | Steel Shell | 192809 | [192809-steel-shell.json](./192809-steel-shell.json) |
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
@@ -11504,6 +11508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
 | Strect | 413725 | [413725-strect.json](./413725-strect.json) |
 | Street & Girls | 382285 | [382285-street-and-girls.json](./382285-street-and-girls.json) |
+| Street Air Hockey | 175185 | [175185-street-air-hockey.json](./175185-street-air-hockey.json) |
 | Street Artist Simulator | 211270 | [211270-street-artist-simulator.json](./211270-street-artist-simulator.json) |
 | Street Basket Challenge | 236833 | [236833-street-basket-challenge.json](./236833-street-basket-challenge.json) |
 | Street Basketball Superstars | 227371 | [227371-street-basketball-superstars.json](./227371-street-basketball-superstars.json) |
@@ -11611,6 +11616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Level: Android Edition | 100752 | [100752-street-level-android-edition.json](./100752-street-level-android-edition.json) |
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
+| Street Masters | 175196 | [175196-street-masters.json](./175196-street-masters.json) |
 | Street of the Cats | 293631 | [293631-street-of-the-cats.json](./293631-street-of-the-cats.json) |
 | Street Outlaws 2: Winner Takes All | 162246 | [162246-street-outlaws-2-winner-takes-all.json](./162246-street-outlaws-2-winner-takes-all.json) |
 | Street Outlaws 2: Winner Takes All - Blazing Freedom Bundle | 226698 | [226698-street-outlaws-2-winner-takes-all-blazing-freedom-bundle.json](./226698-street-outlaws-2-winner-takes-all-blazing-freedom-bundle.json) |
