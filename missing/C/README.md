@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
 | Car For Sale Simulator 2023: PickUp & SUV | 359608 | [359608-car-for-sale-simulator-2023-pickup-and-suv.json](./359608-car-for-sale-simulator-2023-pickup-and-suv.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
+| Car Game | 176820 | [176820-car-game.json](./176820-car-game.json) |
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
 | Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
 | Car Heist Simulator: Thief Mechanic | 328564 | [328564-car-heist-simulator-thief-mechanic.json](./328564-car-heist-simulator-thief-mechanic.json) |
@@ -8295,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle Chaser H-5 | 231369 | [231369-cycle-chaser-h-5.json](./231369-cycle-chaser-h-5.json) |
 | Cycle Idle RPG | 272253 | [272253-cycle-idle-rpg.json](./272253-cycle-idle-rpg.json) |
 | Cycle of Eternity: Space Anomaly | 90686 | [90686-cycle-of-eternity-space-anomaly.json](./90686-cycle-of-eternity-space-anomaly.json) |
+| Cycle of Pawmerce | 176803 | [176803-cycle-of-pawmerce.json](./176803-cycle-of-pawmerce.json) |
 | Cycle of Steel | 339360 | [339360-cycle-of-steel.json](./339360-cycle-of-steel.json) |
 | Cycle of the Moon | 216757 | [216757-cycle-of-the-moon.json](./216757-cycle-of-the-moon.json) |
 | Cycle Warriors | 39828 | [39828-cycle-warriors.json](./39828-cycle-warriors.json) |
