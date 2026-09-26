@@ -281,6 +281,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
 | Call of Duty: Vanguard | 165067 | [165067-call-of-duty-vanguard.json](./165067-call-of-duty-vanguard.json) |
 | Call of Duty: Vanguard - Season Four | 205058 | [205058-call-of-duty-vanguard-season-four.json](./205058-call-of-duty-vanguard-season-four.json) |
+| Call of Duty: Vanguard - Season One | 202688 | [202688-call-of-duty-vanguard-season-one.json](./202688-call-of-duty-vanguard-season-one.json) |
+| Call of Duty: Vanguard - Season Three | 202690 | [202690-call-of-duty-vanguard-season-three.json](./202690-call-of-duty-vanguard-season-three.json) |
+| Call of Duty: Vanguard - Season Two | 202689 | [202689-call-of-duty-vanguard-season-two.json](./202689-call-of-duty-vanguard-season-two.json) |
 | Call of Duty: Warchest | 240503 | [240503-call-of-duty-warchest.json](./240503-call-of-duty-warchest.json) |
 | Call of Duty: Warzone | 131800 | [131800-call-of-duty-warzone.json](./131800-call-of-duty-warzone.json) |
 | Call of Duty: Warzone - Combat Pack: Shogun | 305852 | [305852-call-of-duty-warzone-combat-pack-shogun.json](./305852-call-of-duty-warzone-combat-pack-shogun.json) |
@@ -479,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
 | Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
+| Candy Eaters Tournament | 202660 | [202660-candy-eaters-tournament.json](./202660-candy-eaters-tournament.json) |
 | Candy Factory TD | 307694 | [307694-candy-factory-td.json](./307694-candy-factory-td.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
@@ -2307,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChaosTower | 120326 | [120326-chaostower.json](./120326-chaostower.json) |
 | ChaosWorld | 221183 | [221183-chaosworld.json](./221183-chaosworld.json) |
 | Chaotic Airport Construction Manager | 149608 | [149608-chaotic-airport-construction-manager.json](./149608-chaotic-airport-construction-manager.json) |
+| Chaotic Loop | 202650 | [202650-chaotic-loop.json](./202650-chaotic-loop.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
 | Chaotic: Shadow Warriors | 197894 | [197894-chaotic-shadow-warriors.json](./197894-chaotic-shadow-warriors.json) |
@@ -2455,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese Dreams New Moon | 326738 | [326738-cheese-dreams-new-moon.json](./326738-cheese-dreams-new-moon.json) |
+| Cheese Game | 202651 | [202651-cheese-game.json](./202651-cheese-game.json) |
 | Cheese is the Reason | 343889 | [343889-cheese-is-the-reason.json](./343889-cheese-is-the-reason.json) |
 | Cheese Killer | 159743 | [159743-cheese-killer.json](./159743-cheese-killer.json) |
 | Cheese Maze | 97691 | [97691-cheese-maze.json](./97691-cheese-maze.json) |
@@ -2608,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
 | Chess+ | 102828 | [102828-chess.json](./102828-chess.json) |
 | Chess88 | 92998 | [92998-chess88.json](./92998-chess88.json) |
+| Chessarama | 202691 | [202691-chessarama.json](./202691-chessarama.json) |
 | Chessaria: The Tactical Adventure | 55247 | [55247-chessaria-the-tactical-adventure.json](./55247-chessaria-the-tactical-adventure.json) |
 | ChessBlaze | 337281 | [337281-chessblaze.json](./337281-chessblaze.json) |
 | Chesscake | 132626 | [132626-chesscake.json](./132626-chesscake.json) |
@@ -2707,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Defender | 166616 | [166616-chicken-defender.json](./166616-chicken-defender.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
 | Chicken Done | 273374 | [273374-chicken-done.json](./273374-chicken-done.json) |
+| Chicken Fall | 202648 | [202648-chicken-fall.json](./202648-chicken-fall.json) |
 | Chicken Fight | 238625 | [238625-chicken-fight.json](./238625-chicken-fight.json) |
 | Chicken Flight | 354426 | [354426-chicken-flight.json](./354426-chicken-flight.json) |
 | Chicken Fraction | 94687 | [94687-chicken-fraction.json](./94687-chicken-fraction.json) |
@@ -3819,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Solitaire | 88321 | [88321-classic-solitaire.json](./88321-classic-solitaire.json) |
 | Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
 | Classic Sudoku | 206973 | [206973-classic-sudoku.json](./206973-classic-sudoku.json) |
+| Classic Train Simulator | 202684 | [202684-classic-train-simulator.json](./202684-classic-train-simulator.json) |
 | Classic Trivia | 87062 | [87062-classic-trivia.json](./87062-classic-trivia.json) |
 | Classic Us | 393463 | [393463-classic-us.json](./393463-classic-us.json) |
 | Classic Words Plus | 101589 | [101589-classic-words-plus.json](./101589-classic-words-plus.json) |
@@ -5702,6 +5711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
 | Corewave Defenders | 382292 | [382292-corewave-defenders.json](./382292-corewave-defenders.json) |
 | Corg of the Dead | 133383 | [133383-corg-of-the-dead.json](./133383-corg-of-the-dead.json) |
+| Corgi | 202671 | [202671-corgi.json](./202671-corgi.json) |
 | Corgi in the Box | 273372 | [273372-corgi-in-the-box.json](./273372-corgi-in-the-box.json) |
 | Corgi Memory | 62694 | [62694-corgi-memory.json](./62694-corgi-memory.json) |
 | Corgi Simulator | 128588 | [128588-corgi-simulator.json](./128588-corgi-simulator.json) |
