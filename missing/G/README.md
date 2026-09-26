@@ -3343,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Angels Part 3: Payback | 229360 | [229360-gravity-angels-part-3-payback.json](./229360-gravity-angels-part-3-payback.json) |
 | Gravity Angels Part 4: Death Force | 229361 | [229361-gravity-angels-part-4-death-force.json](./229361-gravity-angels-part-4-death-force.json) |
 | Gravity Backpack | 278134 | [278134-gravity-backpack.json](./278134-gravity-backpack.json) |
+| Gravity Bandits | 213348 | [213348-gravity-bandits.json](./213348-gravity-bandits.json) |
 | Gravity Biker | 391325 | [391325-gravity-biker.json](./391325-gravity-biker.json) |
 | Gravity Blast | 231946 | [231946-gravity-blast.json](./231946-gravity-blast.json) |
 | Gravity Block | 164511 | [164511-gravity-block.json](./164511-gravity-block.json) |
@@ -3602,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griddle | 373739 | [373739-griddle.json](./373739-griddle.json) |
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
 | Griddlers Plus | 227824 | [227824-griddlers-plus.json](./227824-griddlers-plus.json) |
+| Griddy | 213318 | [213318-griddy.json](./213318-griddy.json) |
 | GridEnergy | 416665 | [416665-gridenergy.json](./416665-gridenergy.json) |
 | Gridfall | 373119 | [373119-gridfall.json](./373119-gridfall.json) |
 | Gridfire | 84226 | [84226-gridfire.json](./84226-gridfire.json) |
