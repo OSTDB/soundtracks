@@ -3089,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry Triple Pack | 218404 | [218404-devil-may-cry-triple-pack.json](./218404-devil-may-cry-triple-pack.json) |
 | Devil Ninja Fight: Kungfu combat | 255058 | [255058-devil-ninja-fight-kungfu-combat.json](./255058-devil-ninja-fight-kungfu-combat.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
+| Devil Should Die | 190950 | [190950-devil-should-die.json](./190950-devil-should-die.json) |
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
@@ -5530,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Fruit | 133789 | [133789-dr-fruit.json](./133789-dr-fruit.json) |
 | Dr. Jekyll and Mr. Hyde | 7961 | [7961-dr-jekyll-and-mr-hyde.json](./7961-dr-jekyll-and-mr-hyde.json) |
 | Dr. Kamasutra 2 | 336027 | [336027-dr-kamasutra-2.json](./336027-dr-kamasutra-2.json) |
+| Dr. Kobushi's Labyrinthine Laboratory | 190976 | [190976-dr-kobushis-labyrinthine-laboratory.json](./190976-dr-kobushis-labyrinthine-laboratory.json) |
 | Dr. Kyanta | 372649 | [372649-dr-kyanta.json](./372649-dr-kyanta.json) |
 | Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist | 14872 | [14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json](./14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json) |
 | Dr. Lunatic Supreme With Steam | 264664 | [264664-dr-lunatic-supreme-with-steam.json](./264664-dr-lunatic-supreme-with-steam.json) |
@@ -7523,6 +7525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
 | Dynami Tracer | 2981 | [2981-dynami-tracer.json](./2981-dynami-tracer.json) |
 | Dynamic | 226170 | [226170-dynamic.json](./226170-dynamic.json) |
+| Dynamic Arms VR | 190968 | [190968-dynamic-arms-vr.json](./190968-dynamic-arms-vr.json) |
 | Dynamic Chord feat. Apple-Polisher | 142447 | [142447-dynamic-chord-feat-apple-polisher.json](./142447-dynamic-chord-feat-apple-polisher.json) |
 | Dynamic Chord feat. Kyohso | 142446 | [142446-dynamic-chord-feat-kyohso.json](./142446-dynamic-chord-feat-kyohso.json) |
 | Dynamic Chord feat. Liar-S | 142445 | [142445-dynamic-chord-feat-liar-s.json](./142445-dynamic-chord-feat-liar-s.json) |
