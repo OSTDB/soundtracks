@@ -450,17 +450,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: Adornment | 191795 | [191795-fallen-london-adornment.json](./191795-fallen-london-adornment.json) |
 | Fallen London: Borrowed Glory | 191734 | [191734-fallen-london-borrowed-glory.json](./191734-fallen-london-borrowed-glory.json) |
 | Fallen London: Cricket, Anyone? | 191715 | [191715-fallen-london-cricket-anyone.json](./191715-fallen-london-cricket-anyone.json) |
+| Fallen London: Cut With Moonlight | 191539 | [191539-fallen-london-cut-with-moonlight.json](./191539-fallen-london-cut-with-moonlight.json) |
 | Fallen London: Damp Martyrs | 191791 | [191791-fallen-london-damp-martyrs.json](./191791-fallen-london-damp-martyrs.json) |
 | Fallen London: Daylight | 191711 | [191711-fallen-london-daylight.json](./191711-fallen-london-daylight.json) |
+| Fallen London: Discernment | 191540 | [191540-fallen-london-discernment.json](./191540-fallen-london-discernment.json) |
 | Fallen London: Factory of Favours | 191700 | [191700-fallen-london-factory-of-favours.json](./191700-fallen-london-factory-of-favours.json) |
 | Fallen London: Fine Dining | 191732 | [191732-fallen-london-fine-dining.json](./191732-fallen-london-fine-dining.json) |
+| Fallen London: Five Minutes to Midday | 191585 | [191585-fallen-london-five-minutes-to-midday.json](./191585-fallen-london-five-minutes-to-midday.json) |
+| Fallen London: Flint | 191541 | [191541-fallen-london-flint.json](./191541-fallen-london-flint.json) |
 | Fallen London: For a Dream of Innocence | 191785 | [191785-fallen-london-for-a-dream-of-innocence.json](./191785-fallen-london-for-a-dream-of-innocence.json) |
 | Fallen London: For All the Saints Who From Their Labours Rest | 191707 | [191707-fallen-london-for-all-the-saints-who-from-their-labours-rest.json](./191707-fallen-london-for-all-the-saints-who-from-their-labours-rest.json) |
 | Fallen London: Go Tell the King of Cats | 191736 | [191736-fallen-london-go-tell-the-king-of-cats.json](./191736-fallen-london-go-tell-the-king-of-cats.json) |
+| Fallen London: Hojotoho! | 191598 | [191598-fallen-london-hojotoho.json](./191598-fallen-london-hojotoho.json) |
 | Fallen London: Inheritance | 217799 | [217799-fallen-london-inheritance.json](./217799-fallen-london-inheritance.json) |
 | Fallen London: Leviathan | 191786 | [191786-fallen-london-leviathan.json](./191786-fallen-london-leviathan.json) |
+| Fallen London: Lost in Reflections | 191537 | [191537-fallen-london-lost-in-reflections.json](./191537-fallen-london-lost-in-reflections.json) |
 | Fallen London: My Kingdom for a Pig | 191720 | [191720-fallen-london-my-kingdom-for-a-pig.json](./191720-fallen-london-my-kingdom-for-a-pig.json) |
 | Fallen London: Noises from Upstairs | 191716 | [191716-fallen-london-noises-from-upstairs.json](./191716-fallen-london-noises-from-upstairs.json) |
+| Fallen London: Our Lady of Pyres | 191589 | [191589-fallen-london-our-lady-of-pyres.json](./191589-fallen-london-our-lady-of-pyres.json) |
 | Fallen London: Por Una Cabeza | 191731 | [191731-fallen-london-por-una-cabeza.json](./191731-fallen-london-por-una-cabeza.json) |
 | Fallen London: Required Repairs | 191706 | [191706-fallen-london-required-repairs.json](./191706-fallen-london-required-repairs.json) |
 | Fallen London: Reunion | 191787 | [191787-fallen-london-reunion.json](./191787-fallen-london-reunion.json) |
@@ -468,33 +475,48 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: Shades of Yesterday | 191735 | [191735-fallen-london-shades-of-yesterday.json](./191735-fallen-london-shades-of-yesterday.json) |
 | Fallen London: Stolen Stanzas | 233592 | [233592-fallen-london-stolen-stanzas.json](./233592-fallen-london-stolen-stanzas.json) |
 | Fallen London: Tauroktonos | 191717 | [191717-fallen-london-tauroktonos.json](./191717-fallen-london-tauroktonos.json) |
+| Fallen London: The Art of Murder | 191542 | [191542-fallen-london-the-art-of-murder.json](./191542-fallen-london-the-art-of-murder.json) |
 | Fallen London: The Ballad of Johnny Croak | 191750 | [191750-fallen-london-the-ballad-of-johnny-croak.json](./191750-fallen-london-the-ballad-of-johnny-croak.json) |
 | Fallen London: The Blemmigan Affair | 191865 | [191865-fallen-london-the-blemmigan-affair.json](./191865-fallen-london-the-blemmigan-affair.json) |
 | Fallen London: The Bones of London | 191704 | [191704-fallen-london-the-bones-of-london.json](./191704-fallen-london-the-bones-of-london.json) |
 | Fallen London: The Brass Grail | 191882 | [191882-fallen-london-the-brass-grail.json](./191882-fallen-london-the-brass-grail.json) |
+| Fallen London: The Calendar Code | 191587 | [191587-fallen-london-the-calendar-code.json](./191587-fallen-london-the-calendar-code.json) |
+| Fallen London: The Century Exhibition | 191594 | [191594-fallen-london-the-century-exhibition.json](./191594-fallen-london-the-century-exhibition.json) |
+| Fallen London: The Chimney Pot Wars | 191586 | [191586-fallen-london-the-chimney-pot-wars.json](./191586-fallen-london-the-chimney-pot-wars.json) |
+| Fallen London: The Clay Man's Arm | 191596 | [191596-fallen-london-the-clay-mans-arm.json](./191596-fallen-london-the-clay-mans-arm.json) |
 | Fallen London: The Committee | 191730 | [191730-fallen-london-the-committee.json](./191730-fallen-london-the-committee.json) |
 | Fallen London: The Crocodile Who Would Be King | 191793 | [191793-fallen-london-the-crocodile-who-would-be-king.json](./191793-fallen-london-the-crocodile-who-would-be-king.json) |
 | Fallen London: The Dilettante's Debut | 191752 | [191752-fallen-london-the-dilettantes-debut.json](./191752-fallen-london-the-dilettantes-debut.json) |
 | Fallen London: The Exile's Chalice | 221853 | [221853-fallen-london-the-exiles-chalice.json](./221853-fallen-london-the-exiles-chalice.json) |
 | Fallen London: The Fair Unknown | 191783 | [191783-fallen-london-the-fair-unknown.json](./191783-fallen-london-the-fair-unknown.json) |
+| Fallen London: The Final Curtain | 191591 | [191591-fallen-london-the-final-curtain.json](./191591-fallen-london-the-final-curtain.json) |
+| Fallen London: The Frequently Deceased | 191555 | [191555-fallen-london-the-frequently-deceased.json](./191555-fallen-london-the-frequently-deceased.json) |
 | Fallen London: The Garden Embassy | 191719 | [191719-fallen-london-the-garden-embassy.json](./191719-fallen-london-the-garden-embassy.json) |
+| Fallen London: The Heart, the Devil and the Zee | 191597 | [191597-fallen-london-the-heart-the-devil-and-the-zee.json](./191597-fallen-london-the-heart-the-devil-and-the-zee.json) |
 | Fallen London: The Heretic of Hollow Street | 191728 | [191728-fallen-london-the-heretic-of-hollow-street.json](./191728-fallen-london-the-heretic-of-hollow-street.json) |
 | Fallen London: The House of Silk and Flame | 191794 | [191794-fallen-london-the-house-of-silk-and-flame.json](./191794-fallen-london-the-house-of-silk-and-flame.json) |
+| Fallen London: The Last Dog Society | 191538 | [191538-fallen-london-the-last-dog-society.json](./191538-fallen-london-the-last-dog-society.json) |
 | Fallen London: The Magician's Dream | 191709 | [191709-fallen-london-the-magicians-dream.json](./191709-fallen-london-the-magicians-dream.json) |
 | Fallen London: The Marriage of Feducci | 191869 | [191869-fallen-london-the-marriage-of-feducci.json](./191869-fallen-london-the-marriage-of-feducci.json) |
 | Fallen London: The Murgatroyd Formula | 191702 | [191702-fallen-london-the-murgatroyd-formula.json](./191702-fallen-london-the-murgatroyd-formula.json) |
 | Fallen London: The Mushroom's Dream | 233591 | [233591-fallen-london-the-mushrooms-dream.json](./233591-fallen-london-the-mushrooms-dream.json) |
+| Fallen London: The Pentecost Predicament | 191557 | [191557-fallen-london-the-pentecost-predicament.json](./191557-fallen-london-the-pentecost-predicament.json) |
+| Fallen London: The Persona Engine | 191592 | [191592-fallen-london-the-persona-engine.json](./191592-fallen-london-the-persona-engine.json) |
 | Fallen London: The Price of Loss | 191712 | [191712-fallen-london-the-price-of-loss.json](./191712-fallen-london-the-price-of-loss.json) |
 | Fallen London: The Pursuit of Moths | 191701 | [191701-fallen-london-the-pursuit-of-moths.json](./191701-fallen-london-the-pursuit-of-moths.json) |
 | Fallen London: The Queen of the Elephants | 199619 | [199619-fallen-london-the-queen-of-the-elephants.json](./199619-fallen-london-the-queen-of-the-elephants.json) |
 | Fallen London: The Rat-Catcher | 191703 | [191703-fallen-london-the-rat-catcher.json](./191703-fallen-london-the-rat-catcher.json) |
+| Fallen London: The Seven-Day Reign | 191556 | [191556-fallen-london-the-seven-day-reign.json](./191556-fallen-london-the-seven-day-reign.json) |
 | Fallen London: The Shallows | 191721 | [191721-fallen-london-the-shallows.json](./191721-fallen-london-the-shallows.json) |
 | Fallen London: The Stag and the Shark | 191718 | [191718-fallen-london-the-stag-and-the-shark.json](./191718-fallen-london-the-stag-and-the-shark.json) |
 | Fallen London: The Tempest | 191789 | [191789-fallen-london-the-tempest.json](./191789-fallen-london-the-tempest.json) |
 | Fallen London: The Thing That Came in from the Fog | 191784 | [191784-fallen-london-the-thing-that-came-in-from-the-fog.json](./191784-fallen-london-the-thing-that-came-in-from-the-fog.json) |
+| Fallen London: The Twelve-Fifteen from Moloch Street | 191593 | [191593-fallen-london-the-twelve-fifteen-from-moloch-street.json](./191593-fallen-london-the-twelve-fifteen-from-moloch-street.json) |
+| Fallen London: The Waltz That Moved the World | 191543 | [191543-fallen-london-the-waltz-that-moved-the-world.json](./191543-fallen-london-the-waltz-that-moved-the-world.json) |
 | Fallen London: Totentanz | 196007 | [196007-fallen-london-totentanz.json](./196007-fallen-london-totentanz.json) |
 | Fallen London: Upwards! | 191912 | [191912-fallen-london-upwards.json](./191912-fallen-london-upwards.json) |
 | Fallen London: We Absolutely Meant to Go to Zee | 191788 | [191788-fallen-london-we-absolutely-meant-to-go-to-zee.json](./191788-fallen-london-we-absolutely-meant-to-go-to-zee.json) |
+| Fallen London: Where You and I Must Go | 191588 | [191588-fallen-london-where-you-and-i-must-go.json](./191588-fallen-london-where-you-and-i-must-go.json) |
 | Fallen London: Written in the Glim | 191705 | [191705-fallen-london-written-in-the-glim.json](./191705-fallen-london-written-in-the-glim.json) |
 | Fallen Overlord | 272922 | [272922-fallen-overlord.json](./272922-fallen-overlord.json) |
 | Fallen Priestess: My Sister's Demonic Bloodline | 385846 | [385846-fallen-priestess-my-sisters-demonic-bloodline.json](./385846-fallen-priestess-my-sisters-demonic-bloodline.json) |
