@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T07:33:11.510Z",
-  "total_missing": 124726,
+  "generated_at": "2026-09-26T07:47:56.467Z",
+  "total_missing": 124776,
   "games": [
     {
       "igdb_id": 176875,
@@ -17721,6 +17721,11 @@
       "igdb_id": 124630,
       "game_name": "All of Our Friends Are Dead",
       "file": "missing/A/124630-all-of-our-friends-are-dead.json"
+    },
+    {
+      "igdb_id": 209978,
+      "game_name": "All of Touhou Mystia's Izakaya",
+      "file": "missing/A/209978-all-of-touhou-mystias-izakaya.json"
     },
     {
       "igdb_id": 313877,
@@ -126481,6 +126486,11 @@
       "igdb_id": 270354,
       "game_name": "Deep Rock Galactic: Rogue Core",
       "file": "missing/D/270354-deep-rock-galactic-rogue-core.json"
+    },
+    {
+      "igdb_id": 209974,
+      "game_name": "Deep Rock Galactic: Season 2 - Rival Escalation",
+      "file": "missing/D/209974-deep-rock-galactic-season-2-rival-escalation.json"
     },
     {
       "igdb_id": 251542,
@@ -262163,6 +262173,11 @@
       "file": "missing/J/20549-janes-hotel.json"
     },
     {
+      "igdb_id": 210009,
+      "game_name": "Jane's Hotel",
+      "file": "missing/J/210009-janes-hotel.json"
+    },
+    {
       "igdb_id": 121629,
       "game_name": "Janga",
       "file": "missing/J/121629-janga.json"
@@ -263313,6 +263328,11 @@
       "file": "missing/J/34903-jet-racing-extreme.json"
     },
     {
+      "igdb_id": 209997,
+      "game_name": "Jet Riders",
+      "file": "missing/J/209997-jet-riders.json"
+    },
+    {
       "igdb_id": 58172,
       "game_name": "Jet Run: City Defender",
       "file": "missing/J/58172-jet-run-city-defender.json"
@@ -263608,6 +263628,11 @@
       "file": "missing/J/264644-jewel-bem-hunter-lime.json"
     },
     {
+      "igdb_id": 209996,
+      "game_name": "Jewel Craft",
+      "file": "missing/J/209996-jewel-craft.json"
+    },
+    {
       "igdb_id": 233434,
       "game_name": "Jewel Crush",
       "file": "missing/J/233434-jewel-crush.json"
@@ -263616,6 +263641,11 @@
       "igdb_id": 215396,
       "game_name": "Jewel Diamonds",
       "file": "missing/J/215396-jewel-diamonds.json"
+    },
+    {
+      "igdb_id": 209995,
+      "game_name": "Jewel Drop!",
+      "file": "missing/J/209995-jewel-drop.json"
     },
     {
       "igdb_id": 101637,
@@ -263808,6 +263838,11 @@
       "file": "missing/J/21279-jewel-quest-expeditions.json"
     },
     {
+      "igdb_id": 209994,
+      "game_name": "Jewel Quest: Heritage",
+      "file": "missing/J/209994-jewel-quest-heritage.json"
+    },
+    {
       "igdb_id": 376577,
       "game_name": "Jewel Quest: Match 3 Adventure",
       "file": "missing/J/376577-jewel-quest-match-3-adventure.json"
@@ -263881,6 +263916,11 @@
       "igdb_id": 108512,
       "game_name": "Jewels Mania Adventure Star",
       "file": "missing/J/108512-jewels-mania-adventure-star.json"
+    },
+    {
+      "igdb_id": 209986,
+      "game_name": "Jewels of Sinai",
+      "file": "missing/J/209986-jewels-of-sinai.json"
     },
     {
       "igdb_id": 130308,
@@ -264006,6 +264046,16 @@
       "igdb_id": 254449,
       "game_name": "Jieitai World",
       "file": "missing/J/254449-jieitai-world.json"
+    },
+    {
+      "igdb_id": 209987,
+      "game_name": "Jig-a-Pix Pets",
+      "file": "missing/J/209987-jig-a-pix-pets.json"
+    },
+    {
+      "igdb_id": 209988,
+      "game_name": "Jig-a-Pix Wonderful World",
+      "file": "missing/J/209988-jig-a-pix-wonderful-world.json"
     },
     {
       "igdb_id": 404203,
@@ -264811,6 +264861,11 @@
       "igdb_id": 40845,
       "game_name": "Jimmy Connors Tennis",
       "file": "missing/J/40845-jimmy-connors-tennis.json"
+    },
+    {
+      "igdb_id": 209993,
+      "game_name": "Jimmy Houston's Bass Tournament U.S.A. 97",
+      "file": "missing/J/209993-jimmy-houstons-bass-tournament-u-s-a-97.json"
     },
     {
       "igdb_id": 390649,
@@ -265898,6 +265953,11 @@
       "file": "missing/J/273667-jonines.json"
     },
     {
+      "igdb_id": 210006,
+      "game_name": "Jonny Moseley: Mad Trix",
+      "file": "missing/J/210006-jonny-moseley-mad-trix.json"
+    },
+    {
       "igdb_id": 49336,
       "game_name": "Jonny Moseley: Mad Trix",
       "file": "missing/J/49336-jonny-moseley-mad-trix.json"
@@ -266796,6 +266856,11 @@
       "igdb_id": 23829,
       "game_name": "Jumala",
       "file": "missing/J/23829-jumala.json"
+    },
+    {
+      "igdb_id": 210003,
+      "game_name": "Jumanji: A Jungle Adventure Game Pack",
+      "file": "missing/J/210003-jumanji-a-jungle-adventure-game-pack.json"
     },
     {
       "igdb_id": 234013,
@@ -267871,6 +267936,11 @@
       "igdb_id": 23270,
       "game_name": "Junior Brain Trainer",
       "file": "missing/J/23270-junior-brain-trainer.json"
+    },
+    {
+      "igdb_id": 210004,
+      "game_name": "Junior Brain Trainer 2",
+      "file": "missing/J/210004-junior-brain-trainer-2.json"
     },
     {
       "igdb_id": 338790,
@@ -379418,6 +379488,11 @@
       "file": "missing/P/358850-patterns-of-the-oak.json"
     },
     {
+      "igdb_id": 210016,
+      "game_name": "Patton: Armored Assault",
+      "file": "missing/P/210016-patton-armored-assault.json"
+    },
+    {
       "igdb_id": 362927,
       "game_name": "Pau E Pedra",
       "file": "missing/P/362927-pau-e-pedra.json"
@@ -379681,6 +379756,11 @@
       "igdb_id": 47977,
       "game_name": "Paws & Claws Pet Vet: Australian Adventures",
       "file": "missing/P/47977-paws-and-claws-pet-vet-australian-adventures.json"
+    },
+    {
+      "igdb_id": 210015,
+      "game_name": "Paws & Claws Regal Resort",
+      "file": "missing/P/210015-paws-and-claws-regal-resort.json"
     },
     {
       "igdb_id": 29197,
@@ -380088,6 +380168,11 @@
       "file": "missing/P/266897-payday-3-silver-edition.json"
     },
     {
+      "igdb_id": 210013,
+      "game_name": "Payday Freecell",
+      "file": "missing/P/210013-payday-freecell.json"
+    },
+    {
       "igdb_id": 395847,
       "game_name": "Payday: Aces High",
       "file": "missing/P/395847-payday-aces-high.json"
@@ -380123,6 +380208,11 @@
       "file": "missing/P/341588-paymoneywubby-the-game.json"
     },
     {
+      "igdb_id": 210012,
+      "game_name": "Payne Stewart Golf",
+      "file": "missing/P/210012-payne-stewart-golf.json"
+    },
+    {
       "igdb_id": 309336,
       "game_name": "Payout: Shop Simulator",
       "file": "missing/P/309336-payout-shop-simulator.json"
@@ -380156,6 +380246,11 @@
       "igdb_id": 416842,
       "game_name": "PBA Pro Bowling 2027",
       "file": "missing/P/416842-pba-pro-bowling-2027.json"
+    },
+    {
+      "igdb_id": 210011,
+      "game_name": "PBA Tour Bowling II",
+      "file": "missing/P/210011-pba-tour-bowling-ii.json"
     },
     {
       "igdb_id": 325280,
@@ -380661,6 +380756,11 @@
       "igdb_id": 391192,
       "game_name": "Pecky Clicker",
       "file": "missing/P/391192-pecky-clicker.json"
+    },
+    {
+      "igdb_id": 210008,
+      "game_name": "Pecos Bill",
+      "file": "missing/P/210008-pecos-bill.json"
     },
     {
       "igdb_id": 186731,
@@ -381933,6 +382033,11 @@
       "file": "missing/P/385719-perfect-pachinko.json"
     },
     {
+      "igdb_id": 210005,
+      "game_name": "Perfect Pair Solitaire",
+      "file": "missing/P/210005-perfect-pair-solitaire.json"
+    },
+    {
       "igdb_id": 301350,
       "game_name": "Perfect Performer: The Yellow Monkey",
       "file": "missing/P/301350-perfect-performer-the-yellow-monkey.json"
@@ -383183,6 +383288,11 @@
       "file": "missing/P/97334-petworld-animal-shelter.json"
     },
     {
+      "igdb_id": 210002,
+      "game_name": "Petz Bunnyz Bunch",
+      "file": "missing/P/210002-petz-bunnyz-bunch.json"
+    },
+    {
       "igdb_id": 42888,
       "game_name": "Petz Dogz Family",
       "file": "missing/P/42888-petz-dogz-family.json"
@@ -383196,6 +383306,31 @@
       "igdb_id": 47962,
       "game_name": "Petz Fantasy: Sunshine Magic",
       "file": "missing/P/47962-petz-fantasy-sunshine-magic.json"
+    },
+    {
+      "igdb_id": 210000,
+      "game_name": "Petz Hamsterz Bunch",
+      "file": "missing/P/210000-petz-hamsterz-bunch.json"
+    },
+    {
+      "igdb_id": 209999,
+      "game_name": "Petz Horseshoe Ranch",
+      "file": "missing/P/209999-petz-horseshoe-ranch.json"
+    },
+    {
+      "igdb_id": 209998,
+      "game_name": "Petz Horsez Family",
+      "file": "missing/P/209998-petz-horsez-family.json"
+    },
+    {
+      "igdb_id": 209990,
+      "game_name": "Petz Puppyz and Kittenz",
+      "file": "missing/P/209990-petz-puppyz-and-kittenz.json"
+    },
+    {
+      "igdb_id": 209989,
+      "game_name": "Petz Vet",
+      "file": "missing/P/209989-petz-vet.json"
     },
     {
       "igdb_id": 23770,
@@ -383283,6 +383418,21 @@
       "file": "missing/P/70960-pga-championship-golf-2000-titanium-edition.json"
     },
     {
+      "igdb_id": 209985,
+      "game_name": "PGA Championship Golf Collecter's Edition",
+      "file": "missing/P/209985-pga-championship-golf-collecters-edition.json"
+    },
+    {
+      "igdb_id": 209984,
+      "game_name": "PGA European Tour",
+      "file": "missing/P/209984-pga-european-tour.json"
+    },
+    {
+      "igdb_id": 209983,
+      "game_name": "PGA European Tour Golf",
+      "file": "missing/P/209983-pga-european-tour-golf.json"
+    },
+    {
       "igdb_id": 221421,
       "game_name": "PGA Tour 2K23: Tiger Woods Edition",
       "file": "missing/P/221421-pga-tour-2k23-tiger-woods-edition.json"
@@ -383293,6 +383443,16 @@
       "file": "missing/P/328079-pga-tour-2k25.json"
     },
     {
+      "igdb_id": 209982,
+      "game_name": "PGA Tour 96 TPC at Sawgrass Championship Course",
+      "file": "missing/P/209982-pga-tour-96-tpc-at-sawgrass-championship-course.json"
+    },
+    {
+      "igdb_id": 209981,
+      "game_name": "PGA Tour 96: Wentworth",
+      "file": "missing/P/209981-pga-tour-96-wentworth.json"
+    },
+    {
       "igdb_id": 94530,
       "game_name": "PGA Tour Golf 486",
       "file": "missing/P/94530-pga-tour-golf-486.json"
@@ -383301,6 +383461,11 @@
       "igdb_id": 206170,
       "game_name": "PGA Tour Golf: The Monterey Courses",
       "file": "missing/P/206170-pga-tour-golf-the-monterey-courses.json"
+    },
+    {
+      "igdb_id": 209980,
+      "game_name": "PGA Tour Pro: Classic Courses Volume 1",
+      "file": "missing/P/209980-pga-tour-pro-classic-courses-volume-1.json"
     },
     {
       "igdb_id": 207521,
@@ -383798,6 +383963,11 @@
       "file": "missing/P/7510-pharaoh.json"
     },
     {
+      "igdb_id": 209969,
+      "game_name": "Pharaoh ISO",
+      "file": "missing/P/209969-pharaoh-iso.json"
+    },
+    {
       "igdb_id": 20102,
       "game_name": "Pharaoh Rebirth+",
       "file": "missing/P/20102-pharaoh-rebirth.json"
@@ -384013,6 +384183,11 @@
       "file": "missing/P/187520-phlegethon.json"
     },
     {
+      "igdb_id": 209971,
+      "game_name": "Phlinx to Go",
+      "file": "missing/P/209971-phlinx-to-go.json"
+    },
+    {
       "igdb_id": 223132,
       "game_name": "Phmlspd",
       "file": "missing/P/223132-phmlspd.json"
@@ -384106,6 +384281,11 @@
       "igdb_id": 275718,
       "game_name": "Phoenix 2",
       "file": "missing/P/275718-phoenix-2.json"
+    },
+    {
+      "igdb_id": 209970,
+      "game_name": "Phoenix Assault",
+      "file": "missing/P/209970-phoenix-assault.json"
     },
     {
       "igdb_id": 322588,
@@ -384436,6 +384616,11 @@
       "igdb_id": 153403,
       "game_name": "PhotoWorld",
       "file": "missing/P/153403-photoworld.json"
+    },
+    {
+      "igdb_id": 209966,
+      "game_name": "PhotoWorld",
+      "file": "missing/P/209966-photoworld.json"
     },
     {
       "igdb_id": 229804,
@@ -384998,6 +385183,11 @@
       "file": "missing/P/287189-picker-bot-42.json"
     },
     {
+      "igdb_id": 209967,
+      "game_name": "Pickers: Adventures in Rust",
+      "file": "missing/P/209967-pickers-adventures-in-rust.json"
+    },
+    {
       "igdb_id": 262345,
       "game_name": "Picket Fences",
       "file": "missing/P/262345-picket-fences.json"
@@ -385413,9 +385603,19 @@
       "file": "missing/P/316767-picture-perfect-golf.json"
     },
     {
+      "igdb_id": 209965,
+      "game_name": "Picture Perfect: Hair Salon",
+      "file": "missing/P/209965-picture-perfect-hair-salon.json"
+    },
+    {
       "igdb_id": 269636,
       "game_name": "Picture Puzzle",
       "file": "missing/P/269636-picture-puzzle.json"
+    },
+    {
+      "igdb_id": 209964,
+      "game_name": "Picture Puzzle Collection: The Dutch Masters",
+      "file": "missing/P/209964-picture-puzzle-collection-the-dutch-masters.json"
     },
     {
       "igdb_id": 59969,
@@ -385456,6 +385656,11 @@
       "igdb_id": 298346,
       "game_name": "Pie in the Sky",
       "file": "missing/P/298346-pie-in-the-sky.json"
+    },
+    {
+      "igdb_id": 209963,
+      "game_name": "Pie Jackers",
+      "file": "missing/P/209963-pie-jackers.json"
     },
     {
       "igdb_id": 392248,
@@ -390781,6 +390986,11 @@
       "igdb_id": 394893,
       "game_name": "Planet Flipper",
       "file": "missing/P/394893-planet-flipper.json"
+    },
+    {
+      "igdb_id": 209972,
+      "game_name": "Planet G",
+      "file": "missing/P/209972-planet-g.json"
     },
     {
       "igdb_id": 72972,
@@ -460858,6 +461068,11 @@
       "file": "missing/S/38301-simulation-pro-yakyuu.json"
     },
     {
+      "igdb_id": 209973,
+      "game_name": "Simulation RPG Tsukuuru",
+      "file": "missing/S/209973-simulation-rpg-tsukuuru.json"
+    },
+    {
       "igdb_id": 295545,
       "game_name": "Simulation Training Room: Massacre",
       "file": "missing/S/295545-simulation-training-room-massacre.json"
@@ -481843,6 +482058,11 @@
       "file": "missing/S/142254-spider-man-shattered-dimensions.json"
     },
     {
+      "igdb_id": 209975,
+      "game_name": "Spider-Man: Shattered Dimensions",
+      "file": "missing/S/209975-spider-man-shattered-dimensions.json"
+    },
+    {
       "igdb_id": 66383,
       "game_name": "Spider-Man: The Sinister Six",
       "file": "missing/S/66383-spider-man-the-sinister-six.json"
@@ -481856,6 +482076,16 @@
       "igdb_id": 188550,
       "game_name": "Spider-Man: Ultimate Power",
       "file": "missing/S/188550-spider-man-ultimate-power.json"
+    },
+    {
+      "igdb_id": 209976,
+      "game_name": "Spider-Man: Web of Shadows",
+      "file": "missing/S/209976-spider-man-web-of-shadows.json"
+    },
+    {
+      "igdb_id": 209977,
+      "game_name": "Spider-Man: Web of Shadows",
+      "file": "missing/S/209977-spider-man-web-of-shadows.json"
     },
     {
       "igdb_id": 220110,
@@ -488196,6 +488426,11 @@
       "igdb_id": 89677,
       "game_name": "Starcaster",
       "file": "missing/S/89677-starcaster.json"
+    },
+    {
+      "igdb_id": 209962,
+      "game_name": "StarCat Major",
+      "file": "missing/S/209962-starcat-major.json"
     },
     {
       "igdb_id": 228094,
@@ -534253,6 +534488,11 @@
       "file": "missing/T/9517-the-journeyman-project.json"
     },
     {
+      "igdb_id": 210007,
+      "game_name": "The Journeyman Project: Pegasus Prime",
+      "file": "missing/T/210007-the-journeyman-project-pegasus-prime.json"
+    },
+    {
       "igdb_id": 79931,
       "game_name": "The Journeyman Project: Turbo!",
       "file": "missing/T/79931-the-journeyman-project-turbo.json"
@@ -564266,6 +564506,11 @@
       "igdb_id": 212243,
       "game_name": "Touhou Genso Maroku W: The Devil of Decline - Shikigami Additional Contents",
       "file": "missing/T/212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json"
+    },
+    {
+      "igdb_id": 209968,
+      "game_name": "Touhou Genso Wanderer Lotus Labyrinth R: Complete Edition",
+      "file": "missing/T/209968-touhou-genso-wanderer-lotus-labyrinth-r-complete-edition.json"
     },
     {
       "igdb_id": 86645,
@@ -599351,6 +599596,11 @@
       "igdb_id": 323517,
       "game_name": "Weaveborn Heroes",
       "file": "missing/W/323517-weaveborn-heroes.json"
+    },
+    {
+      "igdb_id": 209979,
+      "game_name": "Weaver",
+      "file": "missing/W/209979-weaver.json"
     },
     {
       "igdb_id": 107678,
