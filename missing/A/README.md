@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
 | A Super Mario Bros X. Level Collection | 346780 | [346780-a-super-mario-bros-x-level-collection.json](./346780-a-super-mario-bros-x-level-collection.json) |
 | A Super Mario Bros. X Thing: Prelude To The Stupid! | 270709 | [270709-a-super-mario-bros-x-thing-prelude-to-the-stupid.json](./270709-a-super-mario-bros-x-thing-prelude-to-the-stupid.json) |
+| A Tag Knight | 196575 | [196575-a-tag-knight.json](./196575-a-tag-knight.json) |
 | A Tale About Flowers | 188501 | [188501-a-tale-about-flowers.json](./188501-a-tale-about-flowers.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
 | A Tale for Anna | 151043 | [151043-a-tale-for-anna.json](./151043-a-tale-for-anna.json) |
@@ -980,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adlib | 112303 | [112303-adlib.json](./112303-adlib.json) |
 | Admeowture | 195118 | [195118-admeowture.json](./195118-admeowture.json) |
 | Admin | 179622 | [179622-admin.json](./179622-admin.json) |
+| Administrators | 196569 | [196569-administrators.json](./196569-administrators.json) |
 | Admiral: Battle for Uranium | 261859 | [261859-admiral-battle-for-uranium.json](./261859-admiral-battle-for-uranium.json) |
 | Admirals of Ophiuchus | 379559 | [379559-admirals-of-ophiuchus.json](./379559-admirals-of-ophiuchus.json) |
 | Adolfish | 185014 | [185014-adolfish.json](./185014-adolfish.json) |
@@ -3404,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Battalion | 330191 | [330191-angry-battalion.json](./330191-angry-battalion.json) |
 | Angry Birds | 2035 | [2035-angry-birds.json](./2035-angry-birds.json) |
 | Angry Birds Action! | 19274 | [19274-angry-birds-action.json](./19274-angry-birds-action.json) |
+| Angry Birds AR: Isle of Pigs | 196589 | [196589-angry-birds-ar-isle-of-pigs.json](./196589-angry-birds-ar-isle-of-pigs.json) |
 | Angry Birds Block Quest | 321375 | [321375-angry-birds-block-quest.json](./321375-angry-birds-block-quest.json) |
 | Angry Birds Boom! | 386241 | [386241-angry-birds-boom.json](./386241-angry-birds-boom.json) |
 | Angry Birds Bounce | 347237 | [347237-angry-birds-bounce.json](./347237-angry-birds-bounce.json) |
