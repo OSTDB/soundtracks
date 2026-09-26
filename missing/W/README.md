@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Is This Sorcery | 328451 | [328451-what-is-this-sorcery.json](./328451-what-is-this-sorcery.json) |
 | What Lies Beneath | 269684 | [269684-what-lies-beneath.json](./269684-what-lies-beneath.json) |
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
+| What Lies in the Multiverse: Deluxe Edition | 193736 | [193736-what-lies-in-the-multiverse-deluxe-edition.json](./193736-what-lies-in-the-multiverse-deluxe-edition.json) |
 | What Lies Under | 235699 | [235699-what-lies-under.json](./235699-what-lies-under.json) |
 | What Lives Below | 143490 | [143490-what-lives-below.json](./143490-what-lives-below.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
@@ -3282,9 +3283,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Reinvention | 267430 | [267430-world-of-reinvention.json](./267430-world-of-reinvention.json) |
 | World of relish | 127251 | [127251-world-of-relish.json](./127251-world-of-relish.json) |
 | World of Retailing | 193472 | [193472-world-of-retailing.json](./193472-world-of-retailing.json) |
+| World of Robots | 193757 | [193757-world-of-robots.json](./193757-world-of-robots.json) |
 | World of Rune | 263057 | [263057-world-of-rune.json](./263057-world-of-rune.json) |
 | World of Sea Battle | 59962 | [59962-world-of-sea-battle.json](./59962-world-of-sea-battle.json) |
 | World of Shells | 329653 | [329653-world-of-shells.json](./329653-world-of-shells.json) |
+| World of Simulators Bundle | 193762 | [193762-world-of-simulators-bundle.json](./193762-world-of-simulators-bundle.json) |
 | World of Slavic Glasses | 327363 | [327363-world-of-slavic-glasses.json](./327363-world-of-slavic-glasses.json) |
 | World of Slime | 415114 | [415114-world-of-slime.json](./415114-world-of-slime.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
