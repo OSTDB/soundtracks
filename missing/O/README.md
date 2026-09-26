@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Surface Takeover | 344365 | [344365-operation-surface-takeover.json](./344365-operation-surface-takeover.json) |
 | Operation: Thunder | 91403 | [91403-operation-thunder.json](./91403-operation-thunder.json) |
 | Operation: Vietnam | 20760 | [20760-operation-vietnam.json](./20760-operation-vietnam.json) |
+| Operator | 220613 | [220613-operator.json](./220613-operator.json) |
 | Operator | 226706 | [226706-operator.json](./226706-operator.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Operator: Drones | 257894 | [257894-operator-drones.json](./257894-operator-drones.json) |
@@ -1610,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order Automatica | 213444 | [213444-order-automatica.json](./213444-order-automatica.json) |
 | Order matters | 26486 | [26486-order-matters.json](./26486-order-matters.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
+| Order of Battle: Allies Victorious | 220614 | [220614-order-of-battle-allies-victorious.json](./220614-order-of-battle-allies-victorious.json) |
 | Order of Battle: Blitzkrieg | 118966 | [118966-order-of-battle-blitzkrieg.json](./118966-order-of-battle-blitzkrieg.json) |
 | Order of Battle: Burma Road | 118968 | [118968-order-of-battle-burma-road.json](./118968-order-of-battle-burma-road.json) |
 | Order of Battle: Endsieg | 118971 | [118971-order-of-battle-endsieg.json](./118971-order-of-battle-endsieg.json) |
@@ -1751,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar der Ballonfahrer taucht unter | 86031 | [86031-oscar-der-ballonfahrer-taucht-unter.json](./86031-oscar-der-ballonfahrer-taucht-unter.json) |
 | Oscar Mike VR | 30810 | [30810-oscar-mike-vr.json](./30810-oscar-mike-vr.json) |
 | Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
+| Oscar Wilde Card | 220615 | [220615-oscar-wilde-card.json](./220615-oscar-wilde-card.json) |
 | Oscar's World Tour | 65749 | [65749-oscars-world-tour.json](./65749-oscars-world-tour.json) |
 | Oscillation | 262313 | [262313-oscillation.json](./262313-oscillation.json) |
 | Oscillatron: Alien Frequency | 96118 | [96118-oscillatron-alien-frequency.json](./96118-oscillatron-alien-frequency.json) |
@@ -2002,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 9 | 21340 | [21340-out-of-the-park-baseball-9.json](./21340-out-of-the-park-baseball-9.json) |
 | Out of the Shelter | 156701 | [156701-out-of-the-shelter.json](./156701-out-of-the-shelter.json) |
 | Out of the Sun | 64916 | [64916-out-of-the-sun.json](./64916-out-of-the-sun.json) |
+| Out of the Woods | 220616 | [220616-out-of-the-woods.json](./220616-out-of-the-woods.json) |
 | Out of This World | 343451 | [343451-out-of-this-world.json](./343451-out-of-this-world.json) |
 | Out of Time | 356712 | [356712-out-of-time.json](./356712-out-of-time.json) |
 | Out of Time | 388932 | [388932-out-of-time.json](./388932-out-of-time.json) |
@@ -2154,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outracer | 51575 | [51575-outracer.json](./51575-outracer.json) |
 | Outrage | 33144 | [33144-outrage.json](./33144-outrage.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
+| Outranked | 220617 | [220617-outranked.json](./220617-outranked.json) |
 | Outriders: Complete Edition | 286513 | [286513-outriders-complete-edition.json](./286513-outriders-complete-edition.json) |
 | Outright | 149086 | [149086-outright.json](./149086-outright.json) |
 | OutRoad Fury | 304663 | [304663-outroad-fury.json](./304663-outroad-fury.json) |
@@ -2226,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Radio | 369086 | [369086-over-the-radio.json](./369086-over-the-radio.json) |
 | Over the Top: The World Arm Wrestling Championship | 94563 | [94563-over-the-top-the-world-arm-wrestling-championship.json](./94563-over-the-top-the-world-arm-wrestling-championship.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
+| Over-Run | 220618 | [220618-over-run.json](./220618-over-run.json) |
 | Overage: Child of Chaos | 203306 | [203306-overage-child-of-chaos.json](./203306-overage-child-of-chaos.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
 | OverBlood 2 | 20000 | [20000-overblood-2.json](./20000-overblood-2.json) |
