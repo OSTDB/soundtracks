@@ -3145,4 +3145,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NYT Games | 280218 | [280218-nyt-games.json](./280218-nyt-games.json) |
 | Nyx | 98804 | [98804-nyx.json](./98804-nyx.json) |
 | Nyx Legacy | 387508 | [387508-nyx-legacy.json](./387508-nyx-legacy.json) |
+| Nyyo | 210569 | [210569-nyyo.json](./210569-nyyo.json) |
 | NYZD | 291442 | [291442-nyzd.json](./291442-nyzd.json) |
