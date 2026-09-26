@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
 | Rainbow High: Runway Rush | 249255 | [249255-rainbow-high-runway-rush.json](./249255-rainbow-high-runway-rush.json) |
+| Rainbow Hills | 216742 | [216742-rainbow-hills.json](./216742-rainbow-hills.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
 | Rainbow Islands | 194445 | [194445-rainbow-islands.json](./194445-rainbow-islands.json) |
 | Rainbow Islands | 194448 | [194448-rainbow-islands.json](./194448-rainbow-islands.json) |
@@ -1149,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Player One: Oasis | 99013 | [99013-ready-player-one-oasis.json](./99013-ready-player-one-oasis.json) |
 | Ready Set Dress! | 182936 | [182936-ready-set-dress.json](./182936-ready-set-dress.json) |
 | Ready Set Golf | 235351 | [235351-ready-set-golf.json](./235351-ready-set-golf.json) |
+| Ready Set Sumo! | 216758 | [216758-ready-set-sumo.json](./216758-ready-set-sumo.json) |
 | Ready Steady Play | 61073 | [61073-ready-steady-play.json](./61073-ready-steady-play.json) |
 | Ready, Set, Plumb! | 306352 | [306352-ready-set-plumb.json](./306352-ready-set-plumb.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
@@ -4345,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
 | Rooftop | 229706 | [229706-rooftop.json](./229706-rooftop.json) |
 | Rooftop Cop | 35696 | [35696-rooftop-cop.json](./35696-rooftop-cop.json) |
+| Rooftop Postgirl | 216756 | [216756-rooftop-postgirl.json](./216756-rooftop-postgirl.json) |
 | Rooftop Rascal: The Alien Cat | 393933 | [393933-rooftop-rascal-the-alien-cat.json](./393933-rooftop-rascal-the-alien-cat.json) |
 | Rooftop Rascal: The Claus Cat | 328386 | [328386-rooftop-rascal-the-claus-cat.json](./328386-rooftop-rascal-the-claus-cat.json) |
 | Rooftop Rascal: The Glitch Cat | 324996 | [324996-rooftop-rascal-the-glitch-cat.json](./324996-rooftop-rascal-the-glitch-cat.json) |
