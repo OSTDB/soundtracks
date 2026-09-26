@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
 | New Roots | 203853 | [203853-new-roots.json](./203853-new-roots.json) |
 | New Rule: The Game is... | 234581 | [234581-new-rule-the-game-is.json](./234581-new-rule-the-game-is.json) |
+| New Scuffed Bhop Simulation 2026: Goty Edition | 192170 | [192170-new-scuffed-bhop-simulation-2026-goty-edition.json](./192170-new-scuffed-bhop-simulation-2026-goty-edition.json) |
 | New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
 | New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
 | New Star Soccer | 7682 | [7682-new-star-soccer.json](./7682-new-star-soccer.json) |
