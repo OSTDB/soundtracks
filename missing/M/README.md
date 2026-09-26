@@ -5377,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misplaced | 300034 | [300034-misplaced.json](./300034-misplaced.json) |
 | Misplaced | 413185 | [413185-misplaced.json](./413185-misplaced.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
+| Miss Agatha's Palace | 187199 | [187199-miss-agathas-palace.json](./187199-miss-agathas-palace.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
 | Miss Clue: Formula for Danger | 200655 | [200655-miss-clue-formula-for-danger.json](./200655-miss-clue-formula-for-danger.json) |
 | Miss Detective's Undercover | 202817 | [202817-miss-detectives-undercover.json](./202817-miss-detectives-undercover.json) |
@@ -6370,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Parlor | 375858 | [375858-monster-parlor.json](./375858-monster-parlor.json) |
 | Monster partner | 61619 | [61619-monster-partner.json](./61619-monster-partner.json) |
 | Monster Party | 48165 | [48165-monster-party.json](./48165-monster-party.json) |
+| Monster Path | 187226 | [187226-monster-path.json](./187226-monster-path.json) |
 | Monster Pet Shop | 242787 | [242787-monster-pet-shop.json](./242787-monster-pet-shop.json) |
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
 | Monster Poolside Sumo | 263468 | [263468-monster-poolside-sumo.json](./263468-monster-poolside-sumo.json) |
