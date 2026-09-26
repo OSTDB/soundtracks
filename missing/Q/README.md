@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Majik Adventure | 171539 | [171539-quick-majik-adventure.json](./171539-quick-majik-adventure.json) |
 | Quick Move | 246362 | [246362-quick-move.json](./246362-quick-move.json) |
 | Quick Quack | 201136 | [201136-quick-quack.json](./201136-quick-quack.json) |
+| Quick Revolver | 180588 | [180588-quick-revolver.json](./180588-quick-revolver.json) |
 | Quick Scrap | 185111 | [185111-quick-scrap.json](./185111-quick-scrap.json) |
 | Quick Thief | 250351 | [250351-quick-thief.json](./250351-quick-thief.json) |
 | Quick Tower Defence Ultimate | 212745 | [212745-quick-tower-defence-ultimate.json](./212745-quick-tower-defence-ultimate.json) |
