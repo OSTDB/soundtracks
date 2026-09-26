@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapper's bad dream | 32185 | [32185-sappers-bad-dream.json](./32185-sappers-bad-dream.json) |
 | Sapphic Space | 257950 | [257950-sapphic-space.json](./257950-sapphic-space.json) |
 | Sapphire City Part 3 | 319172 | [319172-sapphire-city-part-3.json](./319172-sapphire-city-part-3.json) |
+| Sapphire Lung | 181685 | [181685-sapphire-lung.json](./181685-sapphire-lung.json) |
 | Sapphire Moon: Forever Memories | 215669 | [215669-sapphire-moon-forever-memories.json](./215669-sapphire-moon-forever-memories.json) |
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
@@ -3382,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift II | 291005 | [291005-shift-ii.json](./291005-shift-ii.json) |
 | Shift Legacy Collection | 298092 | [298092-shift-legacy-collection.json](./298092-shift-legacy-collection.json) |
 | Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
+| Shift Stack | 181695 | [181695-shift-stack.json](./181695-shift-stack.json) |
 | Shift'n Slay | 319738 | [319738-shiftn-slay.json](./319738-shiftn-slay.json) |
 | Shifted | 238978 | [238978-shifted.json](./238978-shifted.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
@@ -5053,6 +5055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull and Bones: Season 1 - Raging Tides | 303240 | [303240-skull-and-bones-season-1-raging-tides.json](./303240-skull-and-bones-season-1-raging-tides.json) |
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
+| Skull Golf: Creation in Decay | 181714 | [181714-skull-golf-creation-in-decay.json](./181714-skull-golf-creation-in-decay.json) |
 | Skull Island: Rise of Kong | 257674 | [257674-skull-island-rise-of-kong.json](./257674-skull-island-rise-of-kong.json) |
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
 | Skull Jones | 259664 | [259664-skull-jones.json](./259664-skull-jones.json) |
@@ -6539,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
+| Socks | 181679 | [181679-socks.json](./181679-socks.json) |
 | Socks & Pants | 357300 | [357300-socks-and-pants.json](./357300-socks-and-pants.json) |
 | Socks! | 389699 | [389699-socks.json](./389699-socks.json) |
 | SOCOM II: U.S. Navy SEALs | 8240 | [8240-socom-ii-u-s-navy-seals.json](./8240-socom-ii-u-s-navy-seals.json) |
@@ -8734,6 +8738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcasting 301: Spring Break | 62143 | [62143-spellcasting-301-spring-break.json](./62143-spellcasting-301-spring-break.json) |
 | Spellcasting Collection | 115708 | [115708-spellcasting-collection.json](./115708-spellcasting-collection.json) |
 | Spellcats: Auto Card Tactics | 236288 | [236288-spellcats-auto-card-tactics.json](./236288-spellcats-auto-card-tactics.json) |
+| Spellchain | 181672 | [181672-spellchain.json](./181672-spellchain.json) |
 | Spellchanted 2D Hidden Object Puzzle Adveture Tile-Matching | 321548 | [321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json](./321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json) |
 | Spelldash | 197149 | [197149-spelldash.json](./197149-spelldash.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
@@ -12304,6 +12309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner Rises | 308904 | [308904-summoner-rises.json](./308904-summoner-rises.json) |
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
+| Summoner's Handbook | 181696 | [181696-summoners-handbook.json](./181696-summoners-handbook.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
 | Summoners Era: Arena of Heroes | 193888 | [193888-summoners-era-arena-of-heroes.json](./193888-summoners-era-arena-of-heroes.json) |
 | Summoners War: Chronicles - Adventure Starter Package | 274988 | [274988-summoners-war-chronicles-adventure-starter-package.json](./274988-summoners-war-chronicles-adventure-starter-package.json) |
@@ -13962,6 +13968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surf Adventure | 246496 | [246496-surf-adventure.json](./246496-surf-adventure.json) |
 | Surf Club | 141656 | [141656-surf-club.json](./141656-surf-club.json) |
+| Surf Ninjas | 181670 | [181670-surf-ninjas.json](./181670-surf-ninjas.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
 | Surface Breaker | 383954 | [383954-surface-breaker.json](./383954-surface-breaker.json) |
