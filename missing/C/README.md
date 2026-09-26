@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candice DeBebe's Incredibly Trick Lifestyle | 33246 | [33246-candice-debebes-incredibly-trick-lifestyle.json](./33246-candice-debebes-incredibly-trick-lifestyle.json) |
 | Candice DeBebe's Scandalous Secrets | 110931 | [110931-candice-debebes-scandalous-secrets.json](./110931-candice-debebes-scandalous-secrets.json) |
 | Candice DeBebe's Tantalising Tricks | 223396 | [223396-candice-debebes-tantalising-tricks.json](./223396-candice-debebes-tantalising-tricks.json) |
+| Candied Carols | 177343 | [177343-candied-carols.json](./177343-candied-carols.json) |
 | Candied Violets | 178527 | [178527-candied-violets.json](./178527-candied-violets.json) |
 | Candivity: Deep Mines DLC | 324431 | [324431-candivity-deep-mines-dlc.json](./324431-candivity-deep-mines-dlc.json) |
 | Candivity: Outer Space DLC | 324432 | [324432-candivity-outer-space-dlc.json](./324432-candivity-outer-space-dlc.json) |
@@ -5425,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiracy Crew | 312152 | [312152-conspiracy-crew.json](./312152-conspiracy-crew.json) |
 | Constance | 258950 | [258950-constance.json](./258950-constance.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
+| Constancia | 177326 | [177326-constancia.json](./177326-constancia.json) |
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
 | Constantine | 5787 | [5787-constantine.json](./5787-constantine.json) |
 | Constellar | 380082 | [380082-constellar.json](./380082-constellar.json) |
