@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack And Slash Fury: Sorcerer Armor | 334522 | [334522-hack-and-slash-fury-sorcerer-armor.json](./334522-hack-and-slash-fury-sorcerer-armor.json) |
 | Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
 | Hack FPS | 151715 | [151715-hack-fps.json](./151715-hack-fps.json) |
+| Hack FPS: Anniversary Edition | 205015 | [205015-hack-fps-anniversary-edition.json](./205015-hack-fps-anniversary-edition.json) |
 | Hack Grid | 169852 | [169852-hack-grid.json](./169852-hack-grid.json) |
 | Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
@@ -2695,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Animals Find : Detective Neko | 289343 | [289343-hidden-animals-find-detective-neko.json](./289343-hidden-animals-find-detective-neko.json) |
 | Hidden Anime Girls | 369666 | [369666-hidden-anime-girls.json](./369666-hidden-anime-girls.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
+| Hidden Battle Top-Down 3D | 205004 | [205004-hidden-battle-top-down-3d.json](./205004-hidden-battle-top-down-3d.json) |
 | Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition | 320320 | [320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json](./320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
