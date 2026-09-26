@@ -843,6 +843,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Survivors: Little Angels | 298032 | [298032-maid-survivors-little-angels.json](./298032-maid-survivors-little-angels.json) |
 | Maid-Sama Cafe: Anime Boys Services in Cute Outfits | 396434 | [396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json](./396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json) |
 | Maid-Sama Cafe: Anime Girls Services in Cute Outfits | 396913 | [396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json](./396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json) |
+| Maid-san Crisis: The Elegant Region Power | 210562 | [210562-maid-san-crisis-the-elegant-region-power.json](./210562-maid-san-crisis-the-elegant-region-power.json) |
+| Maid-san Slayer: The Soul Of Elegant Skill | 210584 | [210584-maid-san-slayer-the-soul-of-elegant-skill.json](./210584-maid-san-slayer-the-soul-of-elegant-skill.json) |
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
 | Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
@@ -1489,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 64 Deluxe | 254601 | [254601-mario-kart-64-deluxe.json](./254601-mario-kart-64-deluxe.json) |
 | Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
 | Mario Kart 64 ITEM BLAST | 374679 | [374679-mario-kart-64-item-blast.json](./374679-mario-kart-64-item-blast.json) |
+| Mario Kart 64 Randomizer | 210604 | [210604-mario-kart-64-randomizer.json](./210604-mario-kart-64-randomizer.json) |
 | Mario Kart 64: Amped Up - Version 3 | 358307 | [358307-mario-kart-64-amped-up-version-3.json](./358307-mario-kart-64-amped-up-version-3.json) |
 | Mario Kart 64: Hooting Time | 248303 | [248303-mario-kart-64-hooting-time.json](./248303-mario-kart-64-hooting-time.json) |
 | Mario Kart 64: Mega Mushroom Blast | 266208 | [266208-mario-kart-64-mega-mushroom-blast.json](./266208-mario-kart-64-mega-mushroom-blast.json) |
@@ -7900,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Eerie Lair | 373749 | [373749-my-eerie-lair.json](./373749-my-eerie-lair.json) |
 | My Eggduck | 403183 | [403183-my-eggduck.json](./403183-my-eggduck.json) |
 | My Eggs | 255999 | [255999-my-eggs.json](./255999-my-eggs.json) |
+| My Elemental Girlfriend | 210612 | [210612-my-elemental-girlfriend.json](./210612-my-elemental-girlfriend.json) |
 | My Emma :) | 86977 | [86977-my-emma.json](./86977-my-emma.json) |
 | My Empire | 149590 | [149590-my-empire.json](./149590-my-empire.json) |
 | My English Coach: Para Hispanoparlantes | 82064 | [82064-my-english-coach-para-hispanoparlantes.json](./82064-my-english-coach-para-hispanoparlantes.json) |
@@ -7969,6 +7973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Golf Game featuring Ernie Els | 206772 | [206772-my-golf-game-featuring-ernie-els.json](./206772-my-golf-game-featuring-ernie-els.json) |
 | My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
 | My Group Members Suck!! | 417572 | [417572-my-group-members-suck.json](./417572-my-group-members-suck.json) |
+| My Gyaru Girlfriend | 210609 | [210609-my-gyaru-girlfriend.json](./210609-my-gyaru-girlfriend.json) |
 | My Gym: Fitness Studio Manager | 233473 | [233473-my-gym-fitness-studio-manager.json](./233473-my-gym-fitness-studio-manager.json) |
 | My Happy Place | 229774 | [229774-my-happy-place.json](./229774-my-happy-place.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
