@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails Football | 362899 | [362899-tails-football.json](./362899-tails-football.json) |
 | Tails in Sonic the Hedgehog | 198529 | [198529-tails-in-sonic-the-hedgehog.json](./198529-tails-in-sonic-the-hedgehog.json) |
 | Tails no Flying Get | 261253 | [261253-tails-no-flying-get.json](./261253-tails-no-flying-get.json) |
+| Tails Noir Preludes | 215067 | [215067-tails-noir-preludes.json](./215067-tails-noir-preludes.json) |
 | Tails of Glimmervale | 289867 | [289867-tails-of-glimmervale.json](./289867-tails-of-glimmervale.json) |
 | Tails of Iron | 116422 | [116422-tails-of-iron.json](./116422-tails-of-iron.json) |
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tak: The Great Juju Challenge | 210255 | [210255-tak-the-great-juju-challenge.json](./210255-tak-the-great-juju-challenge.json) |
 | Takahashi Meijin no Bouken-jima IV | 84868 | [84868-takahashi-meijin-no-bouken-jima-iv.json](./84868-takahashi-meijin-no-bouken-jima-iv.json) |
 | Takahashi Meijin no Bug-tte Honey | 48662 | [48662-takahashi-meijin-no-bug-tte-honey.json](./48662-takahashi-meijin-no-bug-tte-honey.json) |
+| Takahashi Naoko no Marathon Shiyouyo | 215056 | [215056-takahashi-naoko-no-marathon-shiyouyo.json](./215056-takahashi-naoko-no-marathon-shiyouyo.json) |
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
 | Takanaria | 113495 | [113495-takanaria.json](./113495-takanaria.json) |
 | Takara Cards | 194401 | [194401-takara-cards.json](./194401-takara-cards.json) |
@@ -2392,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Animal Detectives | 206190 | [206190-the-animal-detectives.json](./206190-the-animal-detectives.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
 | The Annual Ghost Town Pumpkin Festival | 141145 | [141145-the-annual-ghost-town-pumpkin-festival.json](./141145-the-annual-ghost-town-pumpkin-festival.json) |
+| The Anointed: David Saves Keilah | 215030 | [215030-the-anointed-david-saves-keilah.json](./215030-the-anointed-david-saves-keilah.json) |
 | The Anomaly | 271300 | [271300-the-anomaly.json](./271300-the-anomaly.json) |
 | The Anomaly 2: Water | 271301 | [271301-the-anomaly-2-water.json](./271301-the-anomaly-2-water.json) |
 | The Anomaly 3: Tower | 280893 | [280893-the-anomaly-3-tower.json](./280893-the-anomaly-3-tower.json) |
@@ -4868,6 +4871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Complete | 340213 | [340213-the-last-of-us-complete.json](./340213-the-last-of-us-complete.json) |
 | The Last of Us Complete: Collector's Edition | 340226 | [340226-the-last-of-us-complete-collectors-edition.json](./340226-the-last-of-us-complete-collectors-edition.json) |
 | The Last of Us Online | 386719 | [386719-the-last-of-us-online.json](./386719-the-last-of-us-online.json) |
+| The Last of Us Part I: Firefly Edition | 215089 | [215089-the-last-of-us-part-i-firefly-edition.json](./215089-the-last-of-us-part-i-firefly-edition.json) |
 | The Last of Us Part II Remastered: W.L.F. Edition | 279776 | [279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json](./279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
 | The Last of Us: Between The Years | 305372 | [305372-the-last-of-us-between-the-years.json](./305372-the-last-of-us-between-the-years.json) |
@@ -5858,6 +5862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
 | The Other Order | 384793 | [384793-the-other-order.json](./384793-the-other-order.json) |
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
+| The Other Side | 215087 | [215087-the-other-side.json](./215087-the-other-side.json) |
 | The Other Side | 286264 | [286264-the-other-side.json](./286264-the-other-side.json) |
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
@@ -8444,6 +8449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
 | Tides of the Endless | 345037 | [345037-tides-of-the-endless.json](./345037-tides-of-the-endless.json) |
+| Tides of Time | 215096 | [215096-tides-of-time.json](./215096-tides-of-time.json) |
 | Tides of Time: The Board Game | 175284 | [175284-tides-of-time-the-board-game.json](./175284-tides-of-time-the-board-game.json) |
 | Tides of Tomorrow | 305036 | [305036-tides-of-tomorrow.json](./305036-tides-of-tomorrow.json) |
 | Tides of Tomorrow: Delta Agent Pack | 399091 | [399091-tides-of-tomorrow-delta-agent-pack.json](./399091-tides-of-tomorrow-delta-agent-pack.json) |
@@ -9107,6 +9113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberborn | 126381 | [126381-timberborn.json](./126381-timberborn.json) |
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
 | Timberholt | 388253 | [388253-timberholt.json](./388253-timberholt.json) |
+| Timberjack | 215063 | [215063-timberjack.json](./215063-timberjack.json) |
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
