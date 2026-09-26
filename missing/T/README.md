@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasokare Hotel Re:newal | 260090 | [260090-tasokare-hotel-re-newal.json](./260090-tasokare-hotel-re-newal.json) |
 | Tasokare Hotel: Tsubomi | 408273 | [408273-tasokare-hotel-tsubomi.json](./408273-tasokare-hotel-tsubomi.json) |
 | Tasomachi: Behind the Twilight | 121481 | [121481-tasomachi-behind-the-twilight.json](./121481-tasomachi-behind-the-twilight.json) |
+| Taste of Seduction | 212198 | [212198-taste-of-seduction.json](./212198-taste-of-seduction.json) |
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
 | Taste of War | 232929 | [232929-taste-of-war.json](./232929-taste-of-war.json) |
 | Tasty Defense | 236246 | [236246-tasty-defense.json](./236246-tasty-defense.json) |
@@ -6472,6 +6473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
+| The Sentinel Remake | 212230 | [212230-the-sentinel-remake.json](./212230-the-sentinel-remake.json) |
 | The Sentinels | 395897 | [395897-the-sentinels.json](./395897-the-sentinels.json) |
 | The Sequence | 33425 | [33425-the-sequence.json](./33425-the-sequence.json) |
 | The Serf's Tale | 72640 | [72640-the-serfs-tale.json](./72640-the-serfs-tale.json) |
@@ -11412,6 +11414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Rudolfsbahn: Bruck an der Mur - Selzthal & Knittelfeld | 293693 | [293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json](./293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json) |
 | Train Simulator: Stevens Pass Scenario Pack 02 | 306072 | [306072-train-simulator-stevens-pass-scenario-pack-02.json](./306072-train-simulator-stevens-pass-scenario-pack-02.json) |
 | Train Simulator: UK Military Wagon Pack | 162338 | [162338-train-simulator-uk-military-wagon-pack.json](./162338-train-simulator-uk-military-wagon-pack.json) |
+| Train Simulator: Union Pacific Heavy Challenger Steam Loco | 212227 | [212227-train-simulator-union-pacific-heavy-challenger-steam-loco.json](./212227-train-simulator-union-pacific-heavy-challenger-steam-loco.json) |
 | Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
 | Train Station: Rail Transport | 243085 | [243085-train-station-rail-transport.json](./243085-train-station-rail-transport.json) |
@@ -12419,6 +12422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver Go | 320383 | [320383-truck-driver-go.json](./320383-truck-driver-go.json) |
 | Truck Driver: French Paint Jobs | 241067 | [241067-truck-driver-french-paint-jobs.json](./241067-truck-driver-french-paint-jobs.json) |
 | Truck Driver: German Paint Jobs | 241068 | [241068-truck-driver-german-paint-jobs.json](./241068-truck-driver-german-paint-jobs.json) |
+| Truck Driver: Heading North | 212231 | [212231-truck-driver-heading-north.json](./212231-truck-driver-heading-north.json) |
 | Truck Driver: Hidden Places & Damage System | 164879 | [164879-truck-driver-hidden-places-and-damage-system.json](./164879-truck-driver-hidden-places-and-damage-system.json) |
 | Truck Driver: The American Dream - Freedom to Roam | 281428 | [281428-truck-driver-the-american-dream-freedom-to-roam.json](./281428-truck-driver-the-american-dream-freedom-to-roam.json) |
 | Truck Driver: UK Paint Jobs | 241069 | [241069-truck-driver-uk-paint-jobs.json](./241069-truck-driver-uk-paint-jobs.json) |
@@ -12501,6 +12505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
 | Trulon | 197766 | [197766-trulon.json](./197766-trulon.json) |
 | Trulon: The Shadow Engine | 20344 | [20344-trulon-the-shadow-engine.json](./20344-trulon-the-shadow-engine.json) |
+| TruLove | 212186 | [212186-trulove.json](./212186-trulove.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
 | Trump Boy II | 334278 | [334278-trump-boy-ii.json](./334278-trump-boy-ii.json) |
 | Trump Cards | 383616 | [383616-trump-cards.json](./383616-trump-cards.json) |
@@ -12595,6 +12600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Sps 466 Wagon | 254417 | [254417-ts-marketplace-sps-466-wagon.json](./254417-ts-marketplace-sps-466-wagon.json) |
 | TS Marketplace: Tehachapi Pass Scenario Pack 01 | 227230 | [227230-ts-marketplace-tehachapi-pass-scenario-pack-01.json](./227230-ts-marketplace-tehachapi-pass-scenario-pack-01.json) |
 | TS Online Mobile | 130745 | [130745-ts-online-mobile.json](./130745-ts-online-mobile.json) |
+| TS!Underswap | 212220 | [212220-ts-underswap.json](./212220-ts-underswap.json) |
 | TSA Frisky VR | 89964 | [89964-tsa-frisky-vr.json](./89964-tsa-frisky-vr.json) |
 | Tsan-shadow Ninja | 351724 | [351724-tsan-shadow-ninja.json](./351724-tsan-shadow-ninja.json) |
 | Tschess | 137470 | [137470-tschess.json](./137470-tschess.json) |
