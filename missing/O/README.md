@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
 | Office Racer | 213045 | [213045-office-racer.json](./213045-office-racer.json) |
 | Office Rivals | 332266 | [332266-office-rivals.json](./332266-office-rivals.json) |
+| Office Romance | 215090 | [215090-office-romance.json](./215090-office-romance.json) |
 | Office Run: Halloween Run | 221182 | [221182-office-run-halloween-run.json](./221182-office-run-halloween-run.json) |
 | Office Secrets | 238409 | [238409-office-secrets.json](./238409-office-secrets.json) |
 | Office Sex | 365717 | [365717-office-sex.json](./365717-office-sex.json) |
@@ -1244,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Animals | 374151 | [374151-only-animals.json](./374151-only-animals.json) |
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
 | Only Ban! | 258699 | [258699-only-ban.json](./258699-only-ban.json) |
+| Only Cassette Coloring! | 215059 | [215059-only-cassette-coloring.json](./215059-only-cassette-coloring.json) |
 | Only Climb: Better Together | 257316 | [257316-only-climb-better-together.json](./257316-only-climb-better-together.json) |
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
 | Only Cum! | 259282 | [259282-only-cum.json](./259282-only-cum.json) |
@@ -1658,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ORE x TRACTOR | 401823 | [401823-ore-x-tractor.json](./401823-ore-x-tractor.json) |
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
 | Oreblaze | 338732 | [338732-oreblaze.json](./338732-oreblaze.json) |
+| Orebody: Binder's Tale | 215028 | [215028-orebody-binders-tale.json](./215028-orebody-binders-tale.json) |
 | Orebound | 316787 | [316787-orebound.json](./316787-orebound.json) |
 | OreMania | 389097 | [389097-oremania.json](./389097-oremania.json) |
 | Orendale | 317995 | [317995-orendale.json](./317995-orendale.json) |
@@ -1921,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Field Trip Adventure | 298582 | [298582-our-field-trip-adventure.json](./298582-our-field-trip-adventure.json) |
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Great Revolution! | 180133 | [180133-our-great-revolution.json](./180133-our-great-revolution.json) |
+| Our Lady of Sorrow | 215035 | [215035-our-lady-of-sorrow.json](./215035-our-lady-of-sorrow.json) |
 | Our Last Dayz | 249711 | [249711-our-last-dayz.json](./249711-our-last-dayz.json) |
 | Our Life on Water | 276186 | [276186-our-life-on-water.json](./276186-our-life-on-water.json) |
 | Our Life: Beginnings & Always | 122028 | [122028-our-life-beginnings-and-always.json](./122028-our-life-beginnings-and-always.json) |
