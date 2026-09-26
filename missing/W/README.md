@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargroove | 27441 | [27441-wargroove.json](./27441-wargroove.json) |
 | Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
 | WarGround | 114441 | [114441-warground.json](./114441-warground.json) |
+| Warhall | 182239 | [182239-warhall.json](./182239-warhall.json) |
 | Warhalla | 100589 | [100589-warhalla.json](./100589-warhalla.json) |
 | Warhammer 40,000: Armageddon | 17609 | [17609-warhammer-40-000-armageddon.json](./17609-warhammer-40-000-armageddon.json) |
 | Warhammer 40,000: Armageddon - Angels of Death | 53889 | [53889-warhammer-40-000-armageddon-angels-of-death.json](./53889-warhammer-40-000-armageddon-angels-of-death.json) |
@@ -1923,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
 | Who Do You Want to Date? Professional Girls Collection | 288902 | [288902-who-do-you-want-to-date-professional-girls-collection.json](./288902-who-do-you-want-to-date-professional-girls-collection.json) |
+| Who Has the Biggest Brain? | 182214 | [182214-who-has-the-biggest-brain.json](./182214-who-has-the-biggest-brain.json) |
 | Who I Am | 386415 | [386415-who-i-am.json](./386415-who-i-am.json) |
 | Who I See | 236810 | [236810-who-i-see.json](./236810-who-i-see.json) |
 | Who is Awesome | 128355 | [128355-who-is-awesome.json](./128355-who-is-awesome.json) |
