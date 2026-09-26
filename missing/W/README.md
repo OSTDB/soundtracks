@@ -2475,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
 | Wire Throne | 312545 | [312545-wire-throne.json](./312545-wire-throne.json) |
+| Wire Wood Daughters | 184908 | [184908-wire-wood-daughters.json](./184908-wire-wood-daughters.json) |
 | Wireball | 121721 | [121721-wireball.json](./121721-wireball.json) |
 | Wired | 105334 | [105334-wired.json](./105334-wired.json) |
 | Wired | 307616 | [307616-wired.json](./307616-wired.json) |
