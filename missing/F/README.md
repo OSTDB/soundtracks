@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fan Zhuan 21 Ke | 277316 | [277316-fan-zhuan-21-ke.json](./277316-fan-zhuan-21-ke.json) |
 | Fan'cie Veer! (Fish Are Nasty, Cake Is Excellent Vektor Evading Emblazed Rapture) | 105375 | [105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json](./105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json) |
 | Fanatica | 204555 | [204555-fanatica.json](./204555-fanatica.json) |
+| Fanatical Basketball | 175725 | [175725-fanatical-basketball.json](./175725-fanatical-basketball.json) |
 | FanaticBlader | 115699 | [115699-fanaticblader.json](./115699-fanaticblader.json) |
 | Fanbots | 183980 | [183980-fanbots.json](./183980-fanbots.json) |
 | Fanciful Diamonds | 359398 | [359398-fanciful-diamonds.json](./359398-fanciful-diamonds.json) |
@@ -1871,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Bomber | 12589 | [12589-fighter-bomber.json](./12589-fighter-bomber.json) |
 | Fighter on the Path of Glory | 293204 | [293204-fighter-on-the-path-of-glory.json](./293204-fighter-on-the-path-of-glory.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
+| Fighter Pilot: HeavyFire | 175699 | [175699-fighter-pilot-heavyfire.json](./175699-fighter-pilot-heavyfire.json) |
 | Fighter Wing | 73784 | [73784-fighter-wing.json](./73784-fighter-wing.json) |
 | Fighter Within | 4787 | [4787-fighter-within.json](./4787-fighter-within.json) |
 | Fighter X Fighter | 211947 | [211947-fighter-x-fighter.json](./211947-fighter-x-fighter.json) |
@@ -2134,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Rites | 405685 | [405685-final-rites.json](./405685-final-rites.json) |
 | Final Round | 398954 | [398954-final-round.json](./398954-final-round.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
+| Final Shot | 175704 | [175704-final-shot.json](./175704-final-shot.json) |
 | Final Shot | 177554 | [177554-final-shot.json](./177554-final-shot.json) |
 | Final Sim | 116109 | [116109-final-sim.json](./116109-final-sim.json) |
 | Final Slam 2 | 8868 | [8868-final-slam-2.json](./8868-final-slam-2.json) |
@@ -2852,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Frickbear's 3 | 341540 | [341540-five-nights-at-frickbears-3.json](./341540-five-nights-at-frickbears-3.json) |
 | Five Nights at Frickbears 2 | 395010 | [395010-five-nights-at-frickbears-2.json](./395010-five-nights-at-frickbears-2.json) |
 | Five Nights at Friedrich's | 381852 | [381852-five-nights-at-friedrichs.json](./381852-five-nights-at-friedrichs.json) |
+| Five Nights At Ghost House | 175737 | [175737-five-nights-at-ghost-house.json](./175737-five-nights-at-ghost-house.json) |
 | Five Nights at Haunted House | 281468 | [281468-five-nights-at-haunted-house.json](./281468-five-nights-at-haunted-house.json) |
 | Five Nights at Jaygi's: Into Dreams... | 322379 | [322379-five-nights-at-jaygis-into-dreams.json](./322379-five-nights-at-jaygis-into-dreams.json) |
 | Five Nights at Kyle's 2 | 179724 | [179724-five-nights-at-kyles-2.json](./179724-five-nights-at-kyles-2.json) |
@@ -5398,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
 | Fun Home | 374298 | [374298-fun-home.json](./374298-fun-home.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
+| Fun Kid Racing Magic Forest | 175720 | [175720-fun-kid-racing-magic-forest.json](./175720-fun-kid-racing-magic-forest.json) |
 | Fun Pack | 319790 | [319790-fun-pack.json](./319790-fun-pack.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
 | Fun Quest | 195702 | [195702-fun-quest.json](./195702-fun-quest.json) |
