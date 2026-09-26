@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
 | Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
 | Fast Cars Small Islands | 284912 | [284912-fast-cars-small-islands.json](./284912-fast-cars-small-islands.json) |
+| Fast Delivery | 192672 | [192672-fast-delivery.json](./192672-fast-delivery.json) |
 | Fast Diamonds | 260770 | [260770-fast-diamonds.json](./260770-fast-diamonds.json) |
 | Fast Drive: Extreme Race & Drift | 88002 | [88002-fast-drive-extreme-race-and-drift.json](./88002-fast-drive-extreme-race-and-drift.json) |
 | Fast Euro Train Driver Sim | 213387 | [213387-fast-euro-train-driver-sim.json](./213387-fast-euro-train-driver-sim.json) |
@@ -3900,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Liberation | 149558 | [149558-forest-liberation.json](./149558-forest-liberation.json) |
 | Forest Life | 234019 | [234019-forest-life.json](./234019-forest-life.json) |
 | Forest Mage | 120815 | [120815-forest-mage.json](./120815-forest-mage.json) |
+| Forest Mystery | 192704 | [192704-forest-mystery.json](./192704-forest-mystery.json) |
 | Forest Ninja | 181774 | [181774-forest-ninja.json](./181774-forest-ninja.json) |
 | Forest of Death Masks | 385583 | [385583-forest-of-death-masks.json](./385583-forest-of-death-masks.json) |
 | Forest of Deceit | 248904 | [248904-forest-of-deceit.json](./248904-forest-of-deceit.json) |
