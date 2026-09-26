@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapso | 126618 | [126618-lapso.json](./126618-lapso.json) |
 | Laptick | 56741 | [56741-laptick.json](./56741-laptick.json) |
 | Laptick 2 | 56742 | [56742-laptick-2.json](./56742-laptick-2.json) |
+| Laptop Tycoon | 186603 | [186603-laptop-tycoon.json](./186603-laptop-tycoon.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
 | Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
@@ -716,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
 | Lavalads | 402268 | [402268-lavalads.json](./402268-lavalads.json) |
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
+| Lavender | 186625 | [186625-lavender.json](./186625-lavender.json) |
 | Lavender Field | 347353 | [347353-lavender-field.json](./347353-lavender-field.json) |
 | Lavender Laboratories | 184050 | [184050-lavender-laboratories.json](./184050-lavender-laboratories.json) |
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
@@ -3020,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking For Cats In a Badly Drawn Forest: Extra Content | 292678 | [292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json](./292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json) |
 | Looking For Healer | 63003 | [63003-looking-for-healer.json](./63003-looking-for-healer.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
+| Looking Glass | 186605 | [186605-looking-glass.json](./186605-looking-glass.json) |
 | Looking Up | 391322 | [391322-looking-up.json](./391322-looking-up.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
 | Loom | 267418 | [267418-loom.json](./267418-loom.json) |
