@@ -4074,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken | 196138 | [196138-forsaken.json](./196138-forsaken.json) |
 | Forsaken | 322700 | [322700-forsaken.json](./322700-forsaken.json) |
 | Forsaken | 718 | [718-forsaken.json](./718-forsaken.json) |
+| Forsaken Champions | 201552 | [201552-forsaken-champions.json](./201552-forsaken-champions.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Denizen | 395004 | [395004-forsaken-denizen.json](./395004-forsaken-denizen.json) |
 | Forsaken Frontiers | 288820 | [288820-forsaken-frontiers.json](./288820-forsaken-frontiers.json) |
@@ -5443,12 +5444,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Futa | 239340 | [239340-furry-futa.json](./239340-furry-futa.json) |
 | Furry Futanari: 3 in 1 | 367042 | [367042-furry-futanari-3-in-1.json](./367042-furry-futanari-3-in-1.json) |
 | Furry Girlfriend Simulator | 367038 | [367038-furry-girlfriend-simulator.json](./367038-furry-girlfriend-simulator.json) |
+| Furry Hentai Isekai | 201587 | [201587-furry-hentai-isekai.json](./201587-furry-hentai-isekai.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
 | Furry Hitler | 205664 | [205664-furry-hitler.json](./205664-furry-hitler.json) |
 | Furry Killer | 226143 | [226143-furry-killer.json](./226143-furry-killer.json) |
 | Furry Love & Sex | 221197 | [221197-furry-love-and-sex.json](./221197-furry-love-and-sex.json) |
 | Furry Love 2 | 165026 | [165026-furry-love-2.json](./165026-furry-love-2.json) |
 | Furry Meow | 224241 | [224241-furry-meow.json](./224241-furry-meow.json) |
+| Furry Nights | 201585 | [201585-furry-nights.json](./201585-furry-nights.json) |
 | Furry OwO | 236936 | [236936-furry-owo.json](./236936-furry-owo.json) |
 | Furry Pet Dog Yiff Hentai | 209022 | [209022-furry-pet-dog-yiff-hentai.json](./209022-furry-pet-dog-yiff-hentai.json) |
 | Furry Pride | 148570 | [148570-furry-pride.json](./148570-furry-pride.json) |
@@ -5553,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Jigsaw Puzzle | 212728 | [212728-futanari-jigsaw-puzzle.json](./212728-futanari-jigsaw-puzzle.json) |
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
 | Futanari Sex Adventures: Episode 2 | 311582 | [311582-futanari-sex-adventures-episode-2.json](./311582-futanari-sex-adventures-episode-2.json) |
+| Futanari Sex: BDSM Room | 201564 | [201564-futanari-sex-bdsm-room.json](./201564-futanari-sex-bdsm-room.json) |
 | Futanari Sex: Naughty Massage | 203847 | [203847-futanari-sex-naughty-massage.json](./203847-futanari-sex-naughty-massage.json) |
 | Futanari Sex: Naughty Visit | 368124 | [368124-futanari-sex-naughty-visit.json](./368124-futanari-sex-naughty-visit.json) |
 | Futanari Sex: Office Whores | 368123 | [368123-futanari-sex-office-whores.json](./368123-futanari-sex-office-whores.json) |
