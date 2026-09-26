@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
+| Gallery Fake | 197660 | [197660-gallery-fake.json](./197660-gallery-fake.json) |
 | Gallery Hero | 110301 | [110301-gallery-hero.json](./110301-gallery-hero.json) |
 | Gallery One | 184002 | [184002-gallery-one.json](./184002-gallery-one.json) |
 | Gallery Theft | 348312 | [348312-gallery-theft.json](./348312-gallery-theft.json) |
@@ -489,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Builder | 119578 | [119578-game-builder.json](./119578-game-builder.json) |
 | Game Builder Garage | 146762 | [146762-game-builder-garage.json](./146762-game-builder-garage.json) |
 | Game Cafe Escape | 261881 | [261881-game-cafe-escape.json](./261881-game-cafe-escape.json) |
+| Game Center Club | 197636 | [197636-game-center-club.json](./197636-game-center-club.json) |
 | Game Chinese | 105949 | [105949-game-chinese.json](./105949-game-chinese.json) |
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
 | Game Collector | 266792 | [266792-game-collector.json](./266792-game-collector.json) |
