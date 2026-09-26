@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Ramble | 102587 | [102587-ramble.json](./102587-ramble.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
+| Rambling with my friend | 183367 | [183367-rambling-with-my-friend.json](./183367-rambling-with-my-friend.json) |
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
 | Rambo | 48210 | [48210-rambo.json](./48210-rambo.json) |
 | Rambo: First Blood Part II | 12963 | [12963-rambo-first-blood-part-ii.json](./12963-rambo-first-blood-part-ii.json) |
@@ -1772,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redfoot Bluefoot Dancing | 41965 | [41965-redfoot-bluefoot-dancing.json](./41965-redfoot-bluefoot-dancing.json) |
 | Redial:Conundrum | 273444 | [273444-redial-conundrum.json](./273444-redial-conundrum.json) |
 | Redie | 25954 | [25954-redie.json](./25954-redie.json) |
+| Rediscovering Earth | 183374 | [183374-rediscovering-earth.json](./183374-rediscovering-earth.json) |
 | Reditum | 148898 | [148898-reditum.json](./148898-reditum.json) |
 | Reditus: Ashes of Heremus | 230535 | [230535-reditus-ashes-of-heremus.json](./230535-reditus-ashes-of-heremus.json) |
 | Redjack: Revenge of the Brethren | 18297 | [18297-redjack-revenge-of-the-brethren.json](./18297-redjack-revenge-of-the-brethren.json) |
