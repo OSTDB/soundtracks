@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Baggage Simulator | 372497 | [372497-airport-baggage-simulator.json](./372497-airport-baggage-simulator.json) |
 | Airport Boss | 297230 | [297230-airport-boss.json](./297230-airport-boss.json) |
 | Airport CEO | 52524 | [52524-airport-ceo.json](./52524-airport-ceo.json) |
+| Airport CEO: Business Class Edition | 202127 | [202127-airport-ceo-business-class-edition.json](./202127-airport-ceo-business-class-edition.json) |
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
 | Airport Control 27 | 398961 | [398961-airport-control-27.json](./398961-airport-control-27.json) |
 | Airport Control Simulator | 9960 | [9960-airport-control-simulator.json](./9960-airport-control-simulator.json) |
@@ -3240,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Swarm | 410345 | [410345-ancient-swarm.json](./410345-ancient-swarm.json) |
 | Ancient TD | 363062 | [363062-ancient-td.json](./363062-ancient-td.json) |
 | Ancient Tribe | 84886 | [84886-ancient-tribe.json](./84886-ancient-tribe.json) |
+| Ancient TriPeaks | 202099 | [202099-ancient-tripeaks.json](./202099-ancient-tripeaks.json) |
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
 | Ancient Warlords: Aequilibrium | 102219 | [102219-ancient-warlords-aequilibrium.json](./102219-ancient-warlords-aequilibrium.json) |
 | Ancient Warriors | 283901 | [283901-ancient-warriors.json](./283901-ancient-warriors.json) |
@@ -6111,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
 | Athamuff | 370303 | [370303-athamuff.json](./370303-athamuff.json) |
+| Athanasia | 202129 | [202129-athanasia.json](./202129-athanasia.json) |
 | Athar: Echoes of Time | 387657 | [387657-athar-echoes-of-time.json](./387657-athar-echoes-of-time.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena | 9052 | [9052-athena.json](./9052-athena.json) |
@@ -6550,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
 | Avatar: Frontiers of Pandora - Sky Rider Starter Pack | 332042 | [332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json](./332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json) |
 | Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
+| Avatar: The Last Airbender | 202100 | [202100-avatar-the-last-airbender.json](./202100-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender | 210487 | [210487-avatar-the-last-airbender.json](./210487-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender - Book 1 Challenges | 220068 | [220068-avatar-the-last-airbender-book-1-challenges.json](./220068-avatar-the-last-airbender-book-1-challenges.json) |
 | Avatar: The Last Airbender - Earth Rumble | 406777 | [406777-avatar-the-last-airbender-earth-rumble.json](./406777-avatar-the-last-airbender-earth-rumble.json) |
