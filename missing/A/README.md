@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Spider to A Fly | 280336 | [280336-a-spider-to-a-fly.json](./280336-a-spider-to-a-fly.json) |
 | A Spooky Item Game | 363043 | [363043-a-spooky-item-game.json](./363043-a-spooky-item-game.json) |
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
+| A Steak Temple Panic | 202652 | [202652-a-steak-temple-panic.json](./202652-a-steak-temple-panic.json) |
 | A Steamboat Willie | 282679 | [282679-a-steamboat-willie.json](./282679-a-steamboat-willie.json) |
 | A Step From Insanity | 260220 | [260220-a-step-from-insanity.json](./260220-a-step-from-insanity.json) |
 | A Step Into Darkness | 29815 | [29815-a-step-into-darkness.json](./29815-a-step-into-darkness.json) |
@@ -1959,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemica | 369739 | [369739-alchemica.json](./369739-alchemica.json) |
 | Alchemica: A Romance of Three Dimensions | 183963 | [183963-alchemica-a-romance-of-three-dimensions.json](./183963-alchemica-a-romance-of-three-dimensions.json) |
 | Alchemical Inc. | 190141 | [190141-alchemical-inc.json](./190141-alchemical-inc.json) |
+| Alchemist | 202678 | [202678-alchemist.json](./202678-alchemist.json) |
 | Alchemist | 304130 | [304130-alchemist.json](./304130-alchemist.json) |
 | Alchemist Adventure | 137444 | [137444-alchemist-adventure.json](./137444-alchemist-adventure.json) |
 | Alchemist Chronicles | 405574 | [405574-alchemist-chronicles.json](./405574-alchemist-chronicles.json) |
@@ -2047,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex's Journey to the Grave | 319226 | [319226-alexs-journey-to-the-grave.json](./319226-alexs-journey-to-the-grave.json) |
 | Alex's Sketchbook World | 359618 | [359618-alexs-sketchbook-world.json](./359618-alexs-sketchbook-world.json) |
 | Alexander | 9359 | [9359-alexander.json](./9359-alexander.json) |
+| Alexander: Heroes of the Conquest | 202679 | [202679-alexander-heroes-of-the-conquest.json](./202679-alexander-heroes-of-the-conquest.json) |
 | Alexandra Fortune: Mystery of the Lunar Archipelago | 177047 | [177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json](./177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json) |
 | Alexandria IV | 221143 | [221143-alexandria-iv.json](./221143-alexandria-iv.json) |
 | AlexCity 1: Bank Heist | 272009 | [272009-alexcity-1-bank-heist.json](./272009-alexcity-1-bank-heist.json) |
@@ -2146,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Magical Mahjong | 205118 | [205118-alices-magical-mahjong.json](./205118-alices-magical-mahjong.json) |
 | Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
 | Alice's Space Adventure | 57910 | [57910-alices-space-adventure.json](./57910-alices-space-adventure.json) |
+| Alice's Spiritual Judge | 202677 | [202677-alices-spiritual-judge.json](./202677-alices-spiritual-judge.json) |
 | Alice's Warped Wonderland | 145633 | [145633-alices-warped-wonderland.json](./145633-alices-warped-wonderland.json) |
 | Alice's Warped Wonderland: Recollection | 214444 | [214444-alices-warped-wonderland-recollection.json](./214444-alices-warped-wonderland-recollection.json) |
 | Alice's Wonderland 2: Stolen Souls - Collector's Edition | 337267 | [337267-alices-wonderland-2-stolen-souls-collectors-edition.json](./337267-alices-wonderland-2-stolen-souls-collectors-edition.json) |
@@ -4235,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
 | AQRA Tenses: Learn English | 237280 | [237280-aqra-tenses-learn-english.json](./237280-aqra-tenses-learn-english.json) |
+| AQtion | 202662 | [202662-aqtion.json](./202662-aqtion.json) |
 | Aqua 1 | 273132 | [273132-aqua-1.json](./273132-aqua-1.json) |
 | Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
@@ -4529,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Asylum | 276711 | [276711-arcade-asylum.json](./276711-arcade-asylum.json) |
 | Arcade Audience | 417501 | [417501-arcade-audience.json](./417501-arcade-audience.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
+| Arcade Blast | 202699 | [202699-arcade-blast.json](./202699-arcade-blast.json) |
 | Arcade Boss Simulator | 345567 | [345567-arcade-boss-simulator.json](./345567-arcade-boss-simulator.json) |
 | Arcade Bowling | 67310 | [67310-arcade-bowling.json](./67310-arcade-bowling.json) |
 | Arcade Boy | 152873 | [152873-arcade-boy.json](./152873-arcade-boy.json) |
@@ -4593,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade ZX Collection: Tetris | 304193 | [304193-arcade-zx-collection-tetris.json](./304193-arcade-zx-collection-tetris.json) |
 | Arcade's Greatest Hits: The Atari Collection 2 | 43925 | [43925-arcades-greatest-hits-the-atari-collection-2.json](./43925-arcades-greatest-hits-the-atari-collection-2.json) |
 | Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
+| Arcadia | 202654 | [202654-arcadia.json](./202654-arcadia.json) |
 | Arcadia | 236852 | [236852-arcadia.json](./236852-arcadia.json) |
 | Arcadia Demade | 256826 | [256826-arcadia-demade.json](./256826-arcadia-demade.json) |
 | Arcadia Fallen | 126568 | [126568-arcadia-fallen.json](./126568-arcadia-fallen.json) |
