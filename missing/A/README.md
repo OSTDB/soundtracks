@@ -2985,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amigo pancho | 19498 | [19498-amigo-pancho.json](./19498-amigo-pancho.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Amigo: Kebab Simulator | 243141 | [243141-amigo-kebab-simulator.json](./243141-amigo-kebab-simulator.json) |
+| Amiha's Nightmare Castle | 212756 | [212756-amihas-nightmare-castle.json](./212756-amihas-nightmare-castle.json) |
 | Amihailu in Dreamland | 32219 | [32219-amihailu-in-dreamland.json](./32219-amihailu-in-dreamland.json) |
 | Amikin Village | 341128 | [341128-amikin-village.json](./341128-amikin-village.json) |
 | Amillusion | 202238 | [202238-amillusion.json](./202238-amillusion.json) |
@@ -4783,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
 | Are You Kidding Me? | 324922 | [324922-are-you-kidding-me.json](./324922-are-you-kidding-me.json) |
 | Are You Ok? | 179054 | [179054-are-you-ok.json](./179054-are-you-ok.json) |
+| Are You Smarter Than a 5th Grader? | 212767 | [212767-are-you-smarter-than-a-5th-grader.json](./212767-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than A 5th Grader? | 220072 | [220072-are-you-smarter-than-a-5th-grader.json](./220072-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
 | Are You Smarter than a 5th Grader?: Extra Credit | 234304 | [234304-are-you-smarter-than-a-5th-grader-extra-credit.json](./234304-are-you-smarter-than-a-5th-grader-extra-credit.json) |
@@ -5434,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashihara no Anima | 401842 | [401842-ashihara-no-anima.json](./401842-ashihara-no-anima.json) |
 | Ashina: The Red Witch | 132762 | [132762-ashina-the-red-witch.json](./132762-ashina-the-red-witch.json) |
 | Ashita no Joe | 39578 | [39578-ashita-no-joe.json](./39578-ashita-no-joe.json) |
+| Ashkeep | 212748 | [212748-ashkeep.json](./212748-ashkeep.json) |
 | Ashland | 124216 | [124216-ashland.json](./124216-ashland.json) |
 | Ashland Dossier | 126569 | [126569-ashland-dossier.json](./126569-ashland-dossier.json) |
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
