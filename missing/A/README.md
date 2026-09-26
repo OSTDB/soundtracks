@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Lestoria | 282624 | [282624-adventures-in-lestoria.json](./282624-adventures-in-lestoria.json) |
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
 | Adventures in Odyssey! The Sword of the Spirit | 66066 | [66066-adventures-in-odyssey-the-sword-of-the-spirit.json](./66066-adventures-in-odyssey-the-sword-of-the-spirit.json) |
+| Adventures in the Dimension of Insidual Cruelitude. | 218996 | [218996-adventures-in-the-dimension-of-insidual-cruelitude.json](./218996-adventures-in-the-dimension-of-insidual-cruelitude.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
@@ -4346,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ark Area | 121425 | [121425-arcade-archives-ark-area.json](./121425-arcade-archives-ark-area.json) |
 | Arcade Archives: Armadillo Racing | 411152 | [411152-arcade-archives-armadillo-racing.json](./411152-arcade-archives-armadillo-racing.json) |
 | Arcade Archives: Armed F | 99546 | [99546-arcade-archives-armed-f.json](./99546-arcade-archives-armed-f.json) |
+| Arcade Archives: Assault | 218969 | [218969-arcade-archives-assault.json](./218969-arcade-archives-assault.json) |
 | Arcade Archives: Atomic Robo-Kid | 121428 | [121428-arcade-archives-atomic-robo-kid.json](./121428-arcade-archives-atomic-robo-kid.json) |
 | Arcade Archives: Bells & Whistles | 129192 | [129192-arcade-archives-bells-and-whistles.json](./129192-arcade-archives-bells-and-whistles.json) |
 | Arcade Archives: Ben Bero Beh | 144801 | [144801-arcade-archives-ben-bero-beh.json](./144801-arcade-archives-ben-bero-beh.json) |
@@ -5476,7 +5478,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin War Sniper Shooting | 274452 | [274452-assassin-war-sniper-shooting.json](./274452-assassin-war-sniper-shooting.json) |
 | Assassin: Special Edition | 14601 | [14601-assassin-special-edition.json](./14601-assassin-special-edition.json) |
 | Assassin's Alliance | 304680 | [304680-assassins-alliance.json](./304680-assassins-alliance.json) |
+| Assassin's Creed American History Pack | 219000 | [219000-assassins-creed-american-history-pack.json](./219000-assassins-creed-american-history-pack.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
+| Assassin's Creed Ezio Auditore Pack | 219007 | [219007-assassins-creed-ezio-auditore-pack.json](./219007-assassins-creed-ezio-auditore-pack.json) |
 | Assassin's Creed Identity | 17028 | [17028-assassins-creed-identity.json](./17028-assassins-creed-identity.json) |
 | Assassin's Creed II Game of the Year Edition + Assassin's Creed | 353891 | [353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json](./353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json) |
 | Assassin's Creed II: Black Edition | 308958 | [308958-assassins-creed-ii-black-edition.json](./308958-assassins-creed-ii-black-edition.json) |
@@ -5492,11 +5496,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Mirage & Assassin's Creed Valhalla Bundle | 271474 | [271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json](./271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json) |
 | Assassin's Creed Mirage Master Assassin Upgrade Bundle 2 | 360574 | [360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json](./360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json) |
 | Assassin’s Creed Mirage: Celestial Pack | 409030 | [409030-assassin-s-creed-mirage-celestial-pack.json](./409030-assassin-s-creed-mirage-celestial-pack.json) |
+| Assassin's Creed Mirage: Collector's Case | 218997 | [218997-assassins-creed-mirage-collectors-case.json](./218997-assassins-creed-mirage-collectors-case.json) |
 | Assassin's Creed Mirage: Deluxe Pack | 271290 | [271290-assassins-creed-mirage-deluxe-pack.json](./271290-assassins-creed-mirage-deluxe-pack.json) |
 | Assassin's Creed Mirage: Desert Scorpion Pack | 409031 | [409031-assassins-creed-mirage-desert-scorpion-pack.json](./409031-assassins-creed-mirage-desert-scorpion-pack.json) |
 | Assassin's Creed Mirage: Fire Demon Pack | 271291 | [271291-assassins-creed-mirage-fire-demon-pack.json](./271291-assassins-creed-mirage-fire-demon-pack.json) |
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
 | Assassin's Creed Mirage: Master Assassin Upgrade Bundle 1 | 360572 | [360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json](./360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json) |
+| Assassin's Creed Mythology Pack | 218994 | [218994-assassins-creed-mythology-pack.json](./218994-assassins-creed-mythology-pack.json) |
 | Assassin's Creed Odyssey: Legacy of the First Blade | 112732 | [112732-assassins-creed-odyssey-legacy-of-the-first-blade.json](./112732-assassins-creed-odyssey-legacy-of-the-first-blade.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis | 113098 | [113098-assassins-creed-odyssey-the-fate-of-atlantis.json](./113098-assassins-creed-odyssey-the-fate-of-atlantis.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 3: Judgment of Atlantis | 124163 | [124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json](./124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json) |
@@ -5506,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
 | Assassin's Creed Revelations: The Ancestors Character Pack | 167241 | [167241-assassins-creed-revelations-the-ancestors-character-pack.json](./167241-assassins-creed-revelations-the-ancestors-character-pack.json) |
 | Assassin's Creed Revelations: The Lost Archive | 8217 | [8217-assassins-creed-revelations-the-lost-archive.json](./8217-assassins-creed-revelations-the-lost-archive.json) |
+| Assassin's Creed Rogue: Deluxe Edition | 218995 | [218995-assassins-creed-rogue-deluxe-edition.json](./218995-assassins-creed-rogue-deluxe-edition.json) |
 | Assassin’s Creed Rogue: Templar Legacy Pack | 151547 | [151547-assassin-s-creed-rogue-templar-legacy-pack.json](./151547-assassin-s-creed-rogue-templar-legacy-pack.json) |
 | Assassin's Creed Rogue: Time Saver - Activities Pack | 151550 | [151550-assassins-creed-rogue-time-saver-activities-pack.json](./151550-assassins-creed-rogue-time-saver-activities-pack.json) |
 | Assassin’s Creed Rogue: Time Saver - Collectibles Pack | 151546 | [151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json](./151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json) |
@@ -5532,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Freedom Cry | 3775 | [3775-assassins-creed-freedom-cry.json](./3775-assassins-creed-freedom-cry.json) |
 | Assassin's Creed: Liberation HD | 20864 | [20864-assassins-creed-liberation-hd.json](./20864-assassins-creed-liberation-hd.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
+| Assassin's Creed: Modern Revolutions Pack | 219003 | [219003-assassins-creed-modern-revolutions-pack.json](./219003-assassins-creed-modern-revolutions-pack.json) |
 | Assassin's Creed: Odyssey - Cloud Version | 109463 | [109463-assassins-creed-odyssey-cloud-version.json](./109463-assassins-creed-odyssey-cloud-version.json) |
 | Assassin's Creed: Odyssey - Deluxe Edition | 24811 | [24811-assassins-creed-odyssey-deluxe-edition.json](./24811-assassins-creed-odyssey-deluxe-edition.json) |
 | Assassin's Creed: Odyssey - Gold Edition | 23648 | [23648-assassins-creed-odyssey-gold-edition.json](./23648-assassins-creed-odyssey-gold-edition.json) |
