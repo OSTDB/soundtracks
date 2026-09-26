@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault of Terror | 356661 | [356661-vault-of-terror.json](./356661-vault-of-terror.json) |
 | Vaulted Valor | 374805 | [374805-vaulted-valor.json](./374805-vaulted-valor.json) |
 | Vaulting Over It | 350538 | [350538-vaulting-over-it.json](./350538-vaulting-over-it.json) |
+| Vavala | 188412 | [188412-vavala.json](./188412-vavala.json) |
 | Vavio | 181923 | [181923-vavio.json](./181923-vavio.json) |
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
 | Vazial Saga XX | 166633 | [166633-vazial-saga-xx.json](./166633-vazial-saga-xx.json) |
