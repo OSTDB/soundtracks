@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null.Process | 358844 | [358844-null-process.json](./358844-null-process.json) |
 | Nullis | 391314 | [391314-nullis.json](./391314-nullis.json) |
 | Nullptr | 158234 | [158234-nullptr.json](./158234-nullptr.json) |
+| Nüllptr | 181675 | [181675-nullptr.json](./181675-nullptr.json) |
 | Nullschwert | 258419 | [258419-nullschwert.json](./258419-nullschwert.json) |
 | Nullspace | 336736 | [336736-nullspace.json](./336736-nullspace.json) |
 | NullStar | 144360 | [144360-nullstar.json](./144360-nullstar.json) |
