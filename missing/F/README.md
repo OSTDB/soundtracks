@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
 | Fat Dude Simulator | 117567 | [117567-fat-dude-simulator.json](./117567-fat-dude-simulator.json) |
 | Fat Hobo: Hobocop Saves Christmas | 410970 | [410970-fat-hobo-hobocop-saves-christmas.json](./410970-fat-hobo-hobocop-saves-christmas.json) |
+| Fat Kevin | 179494 | [179494-fat-kevin.json](./179494-fat-kevin.json) |
 | Fat Man Fights | 158720 | [158720-fat-man-fights.json](./158720-fat-man-fights.json) |
 | Fat Man Sam | 13712 | [13712-fat-man-sam.json](./13712-fat-man-sam.json) |
 | Fat Princess | 19820 | [19820-fat-princess.json](./19820-fat-princess.json) |
@@ -1828,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
 | Fight For Your Resurrection VR | 255147 | [255147-fight-for-your-resurrection-vr.json](./255147-fight-for-your-resurrection-vr.json) |
 | Fight In Hole | 211248 | [211248-fight-in-hole.json](./211248-fight-in-hole.json) |
+| Fight in the Mind | 179478 | [179478-fight-in-the-mind.json](./179478-fight-in-the-mind.json) |
 | Fight Legends | 316068 | [316068-fight-legends.json](./316068-fight-legends.json) |
 | Fight Life: Vanguard | 318193 | [318193-fight-life-vanguard.json](./318193-fight-life-vanguard.json) |
 | Fight Like a Chicken | 386244 | [386244-fight-like-a-chicken.json](./386244-fight-like-a-chicken.json) |
