@@ -1996,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue: Devour and Evolve | 334299 | [334299-deep-blue-devour-and-evolve.json](./334299-deep-blue-devour-and-evolve.json) |
 | Deep Chalk Dive | 123613 | [123613-deep-chalk-dive.json](./123613-deep-chalk-dive.json) |
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
+| Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
 | Deep Dark Fight | 81702 | [81702-deep-dark-fight.json](./81702-deep-dark-fight.json) |
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
 | Deep Dark Space | 282012 | [282012-deep-dark-space.json](./282012-deep-dark-space.json) |
@@ -4255,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
 | Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
+| Divilethion | 176299 | [176299-divilethion.json](./176299-divilethion.json) |
 | Divilixa | 149456 | [149456-divilixa.json](./149456-divilixa.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
 | Divine Ascent | 29179 | [29179-divine-ascent.json](./29179-divine-ascent.json) |
