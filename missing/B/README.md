@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BangBang PewPew | 193484 | [193484-bangbang-pewpew.json](./193484-bangbang-pewpew.json) |
 | BangBangShooting | 151141 | [151141-bangbangshooting.json](./151141-bangbangshooting.json) |
 | Bangers Unlimited 2 | 107006 | [107006-bangers-unlimited-2.json](./107006-bangers-unlimited-2.json) |
+| Bangkok Story: A Stray Dog | 216760 | [216760-bangkok-story-a-stray-dog.json](./216760-bangkok-story-a-stray-dog.json) |
 | Bangungot | 217862 | [217862-bangungot.json](./217862-bangungot.json) |
 | Bangy: Adventures in Egypt | 179135 | [179135-bangy-adventures-in-egypt.json](./179135-bangy-adventures-in-egypt.json) |
 | BanHammer | 286506 | [286506-banhammer.json](./286506-banhammer.json) |
@@ -4168,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks | 371455 | [371455-blocks.json](./371455-blocks.json) |
 | Blocks and Ropes | 224092 | [224092-blocks-and-ropes.json](./224092-blocks-and-ropes.json) |
 | Blocks Mania | 66385 | [66385-blocks-mania.json](./66385-blocks-mania.json) |
+| Blocks of Nature | 216754 | [216754-blocks-of-nature.json](./216754-blocks-of-nature.json) |
 | Blocks Racing | 255060 | [255060-blocks-racing.json](./255060-blocks-racing.json) |
 | Blocks Stacking | 153352 | [153352-blocks-stacking.json](./153352-blocks-stacking.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
@@ -4377,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlooDooMoon Survivor | 265181 | [265181-bloodoomoon-survivor.json](./265181-bloodoomoon-survivor.json) |
 | BloodPact | 60218 | [60218-bloodpact.json](./60218-bloodpact.json) |
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
+| Bloodpire | 216744 | [216744-bloodpire.json](./216744-bloodpire.json) |
 | Bloodplague Lockdown | 373721 | [373721-bloodplague-lockdown.json](./373721-bloodplague-lockdown.json) |
 | BloodRayne 2 | 1016 | [1016-bloodrayne-2.json](./1016-bloodrayne-2.json) |
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
