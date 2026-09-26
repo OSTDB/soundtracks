@@ -2600,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha-Nighthawk | 222841 | [222841-alpha-nighthawk.json](./222841-alpha-nighthawk.json) |
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
+| Alphabet Express | 206656 | [206656-alphabet-express.json](./206656-alphabet-express.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
 | Alphabet Park Adventure | 100121 | [100121-alphabet-park-adventure.json](./100121-alphabet-park-adventure.json) |
 | Alphabet Solitaire Z | 89859 | [89859-alphabet-solitaire-z.json](./89859-alphabet-solitaire-z.json) |
