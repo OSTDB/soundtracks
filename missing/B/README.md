@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrel Blast | 172186 | [172186-barrel-blast.json](./172186-barrel-blast.json) |
 | Barrel Boot Camp | 100571 | [100571-barrel-boot-camp.json](./100571-barrel-boot-camp.json) |
 | Barrel Full of Monkeys | 223496 | [223496-barrel-full-of-monkeys.json](./223496-barrel-full-of-monkeys.json) |
+| Barrel of DNA | 175220 | [175220-barrel-of-dna.json](./175220-barrel-of-dna.json) |
 | Barrel Rescue | 7438 | [7438-barrel-rescue.json](./7438-barrel-rescue.json) |
 | Barrel River 2 | 196809 | [196809-barrel-river-2.json](./196809-barrel-river-2.json) |
 | Barrel Roll | 135056 | [135056-barrel-roll.json](./135056-barrel-roll.json) |
@@ -1992,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Rules | 81784 | [81784-beach-rules.json](./81784-beach-rules.json) |
 | Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
+| Beach Volleyball 2016 | 175203 | [175203-beach-volleyball-2016.json](./175203-beach-volleyball-2016.json) |
 | Beach Volleyball Girl Shizuku 3 - Sekai Taikai-hen | 292081 | [292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json](./292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
 | Beach-Head II | 13389 | [13389-beach-head-ii.json](./13389-beach-head-ii.json) |
@@ -2338,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | Beecarbonize | 240874 | [240874-beecarbonize.json](./240874-beecarbonize.json) |
 | BeeCells | 90386 | [90386-beecells.json](./90386-beecells.json) |
+| BeeCells HD | 175180 | [175180-beecells-hd.json](./175180-beecells-hd.json) |
 | BeeCells XL | 90393 | [90393-beecells-xl.json](./90393-beecells-xl.json) |
 | Beeder's Big Adventure | 417526 | [417526-beeders-big-adventure.json](./417526-beeders-big-adventure.json) |
 | Beef Street | 343425 | [343425-beef-street.json](./343425-beef-street.json) |
@@ -4946,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
 | Bomb Bowling 2 | 124189 | [124189-bomb-bowling-2.json](./124189-bomb-bowling-2.json) |
 | Bomb Cat | 300776 | [300776-bomb-cat.json](./300776-bomb-cat.json) |
+| Bomb Club | 175194 | [175194-bomb-club.json](./175194-bomb-club.json) |
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
@@ -5203,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookyman | 229061 | [229061-bookyman.json](./229061-bookyman.json) |
 | Bool Capture | 347881 | [347881-bool-capture.json](./347881-bool-capture.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
+| Boolitaire | 175193 | [175193-boolitaire.json](./175193-boolitaire.json) |
 | Booly | 12406 | [12406-booly.json](./12406-booly.json) |
 | Boom | 172043 | [172043-boom.json](./172043-boom.json) |
 | Boom | 240146 | [240146-boom.json](./240146-boom.json) |
