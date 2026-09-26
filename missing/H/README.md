@@ -4347,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Giant | 292 | [292-hotel-giant.json](./292-hotel-giant.json) |
 | Hotel Giant Bundle | 193738 | [193738-hotel-giant-bundle.json](./193738-hotel-giant-bundle.json) |
 | Hotel Giant: Edition 2012 | 53200 | [53200-hotel-giant-edition-2012.json](./53200-hotel-giant-edition-2012.json) |
+| Hotel Hermes | 187832 | [187832-hotel-hermes.json](./187832-hotel-hermes.json) |
 | Hotel Hideaway | 380123 | [380123-hotel-hideaway.json](./380123-hotel-hideaway.json) |
 | Hotel Hysteria! | 316261 | [316261-hotel-hysteria.json](./316261-hotel-hysteria.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
@@ -4806,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Chances | 171585 | [171585-hundred-chances.json](./171585-hundred-chances.json) |
 | Hundred Days | 120720 | [120720-hundred-days.json](./120720-hundred-days.json) |
 | Hundred Days: Grape Lab | 167181 | [167181-hundred-days-grape-lab.json](./167181-hundred-days-grape-lab.json) |
+| Hundred Days: Napa Valley | 187853 | [187853-hundred-days-napa-valley.json](./187853-hundred-days-napa-valley.json) |
 | Hundred Fires: Episode 2 | 412547 | [412547-hundred-fires-episode-2.json](./412547-hundred-fires-episode-2.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hundred Nights: DIFU | 395236 | [395236-hundred-nights-difu.json](./395236-hundred-nights-difu.json) |
