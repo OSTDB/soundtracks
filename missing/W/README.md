@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weihnachtsquiz | 98946 | [98946-weihnachtsquiz.json](./98946-weihnachtsquiz.json) |
 | Weinende Rose | 140584 | [140584-weinende-rose.json](./140584-weinende-rose.json) |
 | Weird Al's Great Adventure | 55933 | [55933-weird-als-great-adventure.json](./55933-weird-als-great-adventure.json) |
+| Weird Cinema | 189936 | [189936-weird-cinema.json](./189936-weird-cinema.json) |
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
 | Weird Comic Art | 374278 | [374278-weird-comic-art.json](./374278-weird-comic-art.json) |
 | Weird Comic Art: The Athletic & Museum | 374280 | [374280-weird-comic-art-the-athletic-and-museum.json](./374280-weird-comic-art-the-athletic-and-museum.json) |
