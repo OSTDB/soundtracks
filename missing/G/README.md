@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genting Party | 393123 | [393123-genting-party.json](./393123-genting-party.json) |
 | Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
 | Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
+| Gently Down the Marsh | 184913 | [184913-gently-down-the-marsh.json](./184913-gently-down-the-marsh.json) |
 | Gentoo Rescue | 291516 | [291516-gentoo-rescue.json](./291516-gentoo-rescue.json) |
 | Genzai: Serialization | 223428 | [223428-genzai-serialization.json](./223428-genzai-serialization.json) |
 | Geo | 31785 | [31785-geo.json](./31785-geo.json) |
@@ -1314,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometric Shapes 1: Circleboy | 322584 | [322584-geometric-shapes-1-circleboy.json](./322584-geometric-shapes-1-circleboy.json) |
 | Geometric Sniper | 133424 | [133424-geometric-sniper.json](./133424-geometric-sniper.json) |
 | Geometric Sniper Z | 163944 | [163944-geometric-sniper-z.json](./163944-geometric-sniper-z.json) |
+| GeometricMadness | 184897 | [184897-geometricmadness.json](./184897-geometricmadness.json) |
 | Geometrix | 159728 | [159728-geometrix.json](./159728-geometrix.json) |
 | Geometry Arena | 152133 | [152133-geometry-arena.json](./152133-geometry-arena.json) |
 | Geometry Boxer | 98768 | [98768-geometry-boxer.json](./98768-geometry-boxer.json) |
