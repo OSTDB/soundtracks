@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacrosse Shot | 61041 | [61041-lacrosse-shot.json](./61041-lacrosse-shot.json) |
 | Lacuna Draft | 220592 | [220592-lacuna-draft.json](./220592-lacuna-draft.json) |
 | Lacuna: Save the World Edition | 159699 | [159699-lacuna-save-the-world-edition.json](./159699-lacuna-save-the-world-edition.json) |
+| Lacura | 182809 | [182809-lacura.json](./182809-lacura.json) |
 | Lacus Opportunitas | 347149 | [347149-lacus-opportunitas.json](./347149-lacus-opportunitas.json) |
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
 | Ladder it Up! | 304640 | [304640-ladder-it-up.json](./304640-ladder-it-up.json) |
@@ -1729,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LFS S6 Quest | 323732 | [323732-lfs-s6-quest.json](./323732-lfs-s6-quest.json) |
 | LGBT Battlegrounds | 103633 | [103633-lgbt-battlegrounds.json](./103633-lgbt-battlegrounds.json) |
 | LGBT Color by Number for Adults | 165035 | [165035-lgbt-color-by-number-for-adults.json](./165035-lgbt-color-by-number-for-adults.json) |
+| LGBT+ Flags | 182840 | [182840-lgbt-flags.json](./182840-lgbt-flags.json) |
 | Lgnorant girl doll | 114994 | [114994-lgnorant-girl-doll.json](./114994-lgnorant-girl-doll.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
 | Lǐ Shì Qírén Yì Wén Lù | 367402 | [367402-li-shi-qiren-yi-wen-lu.json](./367402-li-shi-qiren-yi-wen-lu.json) |
