@@ -1539,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Edge | 52250 | [52250-deadly-edge.json](./52250-deadly-edge.json) |
 | Deadly Flare | 192879 | [192879-deadly-flare.json](./192879-deadly-flare.json) |
 | Deadly Footprints | 295791 | [295791-deadly-footprints.json](./295791-deadly-footprints.json) |
+| Deadly Harvest | 221107 | [221107-deadly-harvest.json](./221107-deadly-harvest.json) |
 | Deadly Heart Gambit | 316784 | [316784-deadly-heart-gambit.json](./316784-deadly-heart-gambit.json) |
 | Deadly Honor | 356287 | [356287-deadly-honor.json](./356287-deadly-honor.json) |
 | Deadly Infestation | 190157 | [190157-deadly-infestation.json](./190157-deadly-infestation.json) |
@@ -2351,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
 | Demiurge Sacrifice | 380691 | [380691-demiurge-sacrifice.json](./380691-demiurge-sacrifice.json) |
+| Demiurges | 221110 | [221110-demiurges.json](./221110-demiurges.json) |
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
@@ -3432,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon: Heroic Battle Spirit | 332590 | [332590-digimon-heroic-battle-spirit.json](./332590-digimon-heroic-battle-spirit.json) |
 | Digit & Dash | 60255 | [60255-digit-and-dash.json](./60255-digit-and-dash.json) |
 | Digit Daze | 101350 | [101350-digit-daze.json](./101350-digit-daze.json) |
+| Digit Factory | 221128 | [221128-digit-factory.json](./221128-digit-factory.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
 | Digital Bojangles Saga HD Remaster | 245255 | [245255-digital-bojangles-saga-hd-remaster.json](./245255-digital-bojangles-saga-hd-remaster.json) |
@@ -5917,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonScriber | 179575 | [179575-dragonscriber.json](./179575-dragonscriber.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | Dragonsphere | 2487 | [2487-dragonsphere.json](./2487-dragonsphere.json) |
+| Dragonspire | 221139 | [221139-dragonspire.json](./221139-dragonspire.json) |
 | Dragonstomper | 18568 | [18568-dragonstomper.json](./18568-dragonstomper.json) |
 | Dragonstone: Kingdoms | 255056 | [255056-dragonstone-kingdoms.json](./255056-dragonstone-kingdoms.json) |
 | DragonSwings | 184636 | [184636-dragonswings.json](./184636-dragonswings.json) |
@@ -6024,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
 | Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
 | DreadHaven: The Last Colony | 336597 | [336597-dreadhaven-the-last-colony.json](./336597-dreadhaven-the-last-colony.json) |
+| Dreadhunter | 221117 | [221117-dreadhunter.json](./221117-dreadhunter.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
