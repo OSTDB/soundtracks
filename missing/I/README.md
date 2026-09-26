@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
+| I Want to be Popular! | 183902 | [183902-i-want-to-be-popular.json](./183902-i-want-to-be-popular.json) |
 | I Want to Believe | 319728 | [319728-i-want-to-believe.json](./319728-i-want-to-believe.json) |
 | I Want to Drive That Van | 357315 | [357315-i-want-to-drive-that-van.json](./357315-i-want-to-drive-that-van.json) |
 | I Want to Go for a Walk | 341020 | [341020-i-want-to-go-for-a-walk.json](./341020-i-want-to-go-for-a-walk.json) |
@@ -1365,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Darling Bundle Vol 2 | 147790 | [147790-indie-darling-bundle-vol-2.json](./147790-indie-darling-bundle-vol-2.json) |
 | Indie Darling Bundle Vol. 1 | 146693 | [146693-indie-darling-bundle-vol-1.json](./146693-indie-darling-bundle-vol-1.json) |
 | Indie Darling Bundle Vol.3 | 117528 | [117528-indie-darling-bundle-vol-3.json](./117528-indie-darling-bundle-vol-3.json) |
+| Indie Dev Story | 183878 | [183878-indie-dev-story.json](./183878-indie-dev-story.json) |
 | Indie Dream | 118975 | [118975-indie-dream.json](./118975-indie-dream.json) |
 | Indie Essentials: Walking Simulators 2 | 332028 | [332028-indie-essentials-walking-simulators-2.json](./332028-indie-essentials-walking-simulators-2.json) |
 | Indie Game Sim | 26552 | [26552-indie-game-sim.json](./26552-indie-game-sim.json) |
