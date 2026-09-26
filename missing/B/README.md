@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
 | Banban Isle Rangers | 405584 | [405584-banban-isle-rangers.json](./405584-banban-isle-rangers.json) |
 | Banchou Tactics | 202786 | [202786-banchou-tactics.json](./202786-banchou-tactics.json) |
+| Banco Imobiliário 2000 | 187876 | [187876-banco-imobiliario-2000.json](./187876-banco-imobiliario-2000.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
 | Band Mates | 386414 | [386414-band-mates.json](./386414-band-mates.json) |
 | Band of Brothers | 148924 | [148924-band-of-brothers.json](./148924-band-of-brothers.json) |
