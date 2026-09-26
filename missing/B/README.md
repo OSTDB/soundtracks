@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode World Senyou Card: Yumetaro & Ohagi (Gimmick) | 329741 | [329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json](./329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json) |
 | Bard to the Future | 36094 | [36094-bard-to-the-future.json](./36094-bard-to-the-future.json) |
 | Bard's Gold: Complete Edition | 214520 | [214520-bards-gold-complete-edition.json](./214520-bards-gold-complete-edition.json) |
+| Bard's Lesson | 184419 | [184419-bards-lesson.json](./184419-bards-lesson.json) |
 | Barda | 345592 | [345592-barda.json](./345592-barda.json) |
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
 | Bardcard | 214479 | [214479-bardcard.json](./214479-bardcard.json) |
@@ -2818,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
 | Beyond The Walls | 303548 | [303548-beyond-the-walls.json](./303548-beyond-the-walls.json) |
 | Beyond These Stars | 239002 | [239002-beyond-these-stars.json](./239002-beyond-these-stars.json) |
+| Beyond Truth | 184372 | [184372-beyond-truth.json](./184372-beyond-truth.json) |
 | Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
 | Beyond Yardwork Simulator | 397238 | [397238-beyond-yardwork-simulator.json](./397238-beyond-yardwork-simulator.json) |
 | Beyond Ynth HDX | 103880 | [103880-beyond-ynth-hdx.json](./103880-beyond-ynth-hdx.json) |
@@ -4161,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
+| Block Pushing Puzzle Game But You Can Time Travel | 184371 | [184371-block-pushing-puzzle-game-but-you-can-time-travel.json](./184371-block-pushing-puzzle-game-but-you-can-time-travel.json) |
 | Block Puzzle | 231879 | [231879-block-puzzle.json](./231879-block-puzzle.json) |
 | Block Puzzle | 248639 | [248639-block-puzzle.json](./248639-block-puzzle.json) |
 | Block Puzzle | 318053 | [318053-block-puzzle.json](./318053-block-puzzle.json) |
@@ -4224,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockMill | 249266 | [249266-blockmill.json](./249266-blockmill.json) |
 | Blocknator | 194993 | [194993-blocknator.json](./194993-blocknator.json) |
 | Blockor.io | 56443 | [56443-blockor-io.json](./56443-blockor-io.json) |
+| Blockour | 184382 | [184382-blockour.json](./184382-blockour.json) |
 | Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blocks | 113503 | [113503-blocks.json](./113503-blocks.json) |
@@ -5864,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Path | 48002 | [48002-brave-path.json](./48002-brave-path.json) |
 | Brave Prove | 91891 | [91891-brave-prove.json](./91891-brave-prove.json) |
 | Brave Quest | 296378 | [296378-brave-quest.json](./296378-brave-quest.json) |
+| Brave Rabbit's Adventure in the Underworld | 184404 | [184404-brave-rabbits-adventure-in-the-underworld.json](./184404-brave-rabbits-adventure-in-the-underworld.json) |
 | Brave Shot 2 | 286666 | [286666-brave-shot-2.json](./286666-brave-shot-2.json) |
 | Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
 | Brave Story: New Traveler | 14607 | [14607-brave-story-new-traveler.json](./14607-brave-story-new-traveler.json) |
@@ -6436,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutic | 280228 | [280228-brutic.json](./280228-brutic.json) |
 | Brutus | 178041 | [178041-brutus.json](./178041-brutus.json) |
 | Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
+| Bruxa | 184377 | [184377-bruxa.json](./184377-bruxa.json) |
 | Bruxa Luna | 280859 | [280859-bruxa-luna.json](./280859-bruxa-luna.json) |
 | Bruxólico | 251700 | [251700-bruxolico.json](./251700-bruxolico.json) |
 | BrVR: Backrooms Virtual Reality | 199583 | [199583-brvr-backrooms-virtual-reality.json](./199583-brvr-backrooms-virtual-reality.json) |
@@ -7272,6 +7278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | Buzz!: The Pop Quiz | 21360 | [21360-buzz-the-pop-quiz.json](./21360-buzz-the-pop-quiz.json) |
 | Buzzsaw | 60760 | [60760-buzzsaw.json](./60760-buzzsaw.json) |
+| Buzzsaw Cat | 184407 | [184407-buzzsaw-cat.json](./184407-buzzsaw-cat.json) |
 | Buzzy's World Tour | 336545 | [336545-buzzys-world-tour.json](./336545-buzzys-world-tour.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
 | Bvoid | 91079 | [91079-bvoid.json](./91079-bvoid.json) |
