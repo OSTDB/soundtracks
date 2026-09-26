@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uruz: Return of the Er Kishi | 122162 | [122162-uruz-return-of-the-er-kishi.json](./122162-uruz-return-of-the-er-kishi.json) |
 | Us & Them | 17118 | [17118-us-and-them.json](./17118-us-and-them.json) |
 | US AAF Mustang | 39857 | [39857-us-aaf-mustang.json](./39857-us-aaf-mustang.json) |
+| US Bus Simulator 2020 | 188372 | [188372-us-bus-simulator-2020.json](./188372-us-bus-simulator-2020.json) |
 | US Coin | 86702 | [86702-us-coin.json](./86702-us-coin.json) |
 | US Conflict: Tank Battles | 410368 | [410368-us-conflict-tank-battles.json](./410368-us-conflict-tank-battles.json) |
 | US Police ATV Quad Bike Plane Transport Game | 100964 | [100964-us-police-atv-quad-bike-plane-transport-game.json](./100964-us-police-atv-quad-bike-plane-transport-game.json) |
