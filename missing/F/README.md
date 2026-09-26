@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faderhead's Fist Full of Fuck You 2.0 | 97688 | [97688-faderheads-fist-full-of-fuck-you-2-0.json](./97688-faderheads-fist-full-of-fuck-you-2-0.json) |
 | Fadin's Vacation in the Parallel Kingdom | 299740 | [299740-fadins-vacation-in-the-parallel-kingdom.json](./299740-fadins-vacation-in-the-parallel-kingdom.json) |
 | Fading Afternoon | 166734 | [166734-fading-afternoon.json](./166734-fading-afternoon.json) |
+| Fading City | 188378 | [188378-fading-city.json](./188378-fading-city.json) |
 | Fading Earth | 260704 | [260704-fading-earth.json](./260704-fading-earth.json) |
 | Fading Echo | 347887 | [347887-fading-echo.json](./347887-fading-echo.json) |
 | Fading Echoes | 291213 | [291213-fading-echoes.json](./291213-fading-echoes.json) |
@@ -785,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Beauties: Selene Level Pack | 312106 | [312106-fantasy-beauties-selene-level-pack.json](./312106-fantasy-beauties-selene-level-pack.json) |
 | Fantasy Beauties: Sigrún Level Pack | 312107 | [312107-fantasy-beauties-sigrun-level-pack.json](./312107-fantasy-beauties-sigrun-level-pack.json) |
 | Fantasy Blacksmith Simulator | 410333 | [410333-fantasy-blacksmith-simulator.json](./410333-fantasy-blacksmith-simulator.json) |
+| Fantasy Blade | 188393 | [188393-fantasy-blade.json](./188393-fantasy-blade.json) |
 | Fantasy Brothel Manager | 359037 | [359037-fantasy-brothel-manager.json](./359037-fantasy-brothel-manager.json) |
 | Fantasy Burger | 354537 | [354537-fantasy-burger.json](./354537-fantasy-burger.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
@@ -1723,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fierce Dragon Godzilla: Metropolis Destruction!! | 75885 | [75885-fierce-dragon-godzilla-metropolis-destruction.json](./75885-fierce-dragon-godzilla-metropolis-destruction.json) |
 | Fierce Tales: Feline Sight | 123637 | [123637-fierce-tales-feline-sight.json](./123637-fierce-tales-feline-sight.json) |
 | Fierce Tales: Feline Sight - Collector's Edition | 88198 | [88198-fierce-tales-feline-sight-collectors-edition.json](./88198-fierce-tales-feline-sight-collectors-edition.json) |
+| Fierce Tide | 188405 | [188405-fierce-tide.json](./188405-fierce-tide.json) |
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
 | Fiete Match | 175273 | [175273-fiete-match.json](./175273-fiete-match.json) |
 | Fiets-Together | 395014 | [395014-fiets-together.json](./395014-fiets-together.json) |
@@ -4578,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
+| Fraxinus Decay | 188373 | [188373-fraxinus-decay.json](./188373-fraxinus-decay.json) |
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
 | Fray | 381038 | [381038-fray.json](./381038-fray.json) |
 | Fray: Reloaded Edition | 16364 | [16364-fray-reloaded-edition.json](./16364-fray-reloaded-edition.json) |
