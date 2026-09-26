@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Gelato | 353995 | [353995-neko-gelato.json](./353995-neko-gelato.json) |
 | Neko Girls | 368109 | [368109-neko-girls.json](./368109-neko-girls.json) |
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
+| Neko Journey | 190462 | [190462-neko-journey.json](./190462-neko-journey.json) |
 | Neko Michi | 385601 | [385601-neko-michi.json](./385601-neko-michi.json) |
 | Neko Miko Kaibyo Shioki No Emaki | 406901 | [406901-neko-miko-kaibyo-shioki-no-emaki.json](./406901-neko-miko-kaibyo-shioki-no-emaki.json) |
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
@@ -1033,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
 | Neon Impact | 233464 | [233464-neon-impact.json](./233464-neon-impact.json) |
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
+| Neon Knights: Humanity Erased | 190484 | [190484-neon-knights-humanity-erased.json](./190484-neon-knights-humanity-erased.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
 | Neon Little Soul | 258562 | [258562-neon-little-soul.json](./258562-neon-little-soul.json) |
 | Neon Magic: Witch Shop | 245939 | [245939-neon-magic-witch-shop.json](./245939-neon-magic-witch-shop.json) |
