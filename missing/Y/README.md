@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume no Tamakura | 370778 | [370778-yume-no-tamakura.json](./370778-yume-no-tamakura.json) |
 | Yume Oukoku to Nemureru 100-nin no Ouji-sama | 109062 | [109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json](./109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json) |
 | Yume Penguin Monogatari | 48596 | [48596-yume-penguin-monogatari.json](./48596-yume-penguin-monogatari.json) |
+| Yume Petto | 226677 | [226677-yume-petto.json](./226677-yume-petto.json) |
 | Yume Puzzle | 367953 | [367953-yume-puzzle.json](./367953-yume-puzzle.json) |
 | Yume Shikki | 201848 | [201848-yume-shikki.json](./201848-yume-shikki.json) |
 | Yume Shoko | 202351 | [202351-yume-shoko.json](./202351-yume-shoko.json) |
