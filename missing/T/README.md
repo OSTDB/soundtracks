@@ -4107,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Geology Game | 88055 | [88055-the-geology-game.json](./88055-the-geology-game.json) |
 | The Geometric Golfer | 244994 | [244994-the-geometric-golfer.json](./244994-the-geometric-golfer.json) |
 | The Gerbil Experiment | 244223 | [244223-the-gerbil-experiment.json](./244223-the-gerbil-experiment.json) |
+| The Get Up | 185441 | [185441-the-get-up.json](./185441-the-get-up.json) |
 | The Getaway 3 | 79609 | [79609-the-getaway-3.json](./79609-the-getaway-3.json) |
 | The Getaway: Black Monday | 8238 | [8238-the-getaway-black-monday.json](./8238-the-getaway-black-monday.json) |
 | The Getaway: High Speed II | 48998 | [48998-the-getaway-high-speed-ii.json](./48998-the-getaway-high-speed-ii.json) |
@@ -5663,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mindwarp | 206169 | [206169-the-mindwarp.json](./206169-the-mindwarp.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
 | The Mine | 360736 | [360736-the-mine.json](./360736-the-mine.json) |
+| The Miner Digs | 185413 | [185413-the-miner-digs.json](./185413-the-miner-digs.json) |
 | The Miners | 31215 | [31215-the-miners.json](./31215-the-miners.json) |
 | The Mines of White Label | 289982 | [289982-the-mines-of-white-label.json](./289982-the-mines-of-white-label.json) |
 | The Minesweeper | 406322 | [406322-the-minesweeper.json](./406322-the-minesweeper.json) |
@@ -6395,6 +6397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rift | 116300 | [116300-the-rift.json](./116300-the-rift.json) |
 | The Rift | 343276 | [343276-the-rift.json](./343276-the-rift.json) |
 | The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
+| The Right Side of Town | 185408 | [185408-the-right-side-of-town.json](./185408-the-right-side-of-town.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
 | The Rings of Powder: The Weird World of the Elves | 285469 | [285469-the-rings-of-powder-the-weird-world-of-the-elves.json](./285469-the-rings-of-powder-the-weird-world-of-the-elves.json) |
 | The Ripper | 282726 | [282726-the-ripper.json](./282726-the-ripper.json) |
@@ -6650,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow's Terror | 257907 | [257907-the-shadows-terror.json](./257907-the-shadows-terror.json) |
 | The Shadows Lengthen | 190481 | [190481-the-shadows-lengthen.json](./190481-the-shadows-lengthen.json) |
 | The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
+| The Shadows That Linger | 185409 | [185409-the-shadows-that-linger.json](./185409-the-shadows-that-linger.json) |
 | The Shadows That Run Alongside Our Car | 77595 | [77595-the-shadows-that-run-alongside-our-car.json](./77595-the-shadows-that-run-alongside-our-car.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
 | The Shaft | 232555 | [232555-the-shaft.json](./232555-the-shaft.json) |
@@ -7761,6 +7765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Werewolf of Kitakyushu -Beast- | 83478 | [83478-the-werewolf-of-kitakyushu-beast.json](./83478-the-werewolf-of-kitakyushu-beast.json) |
 | The West | 23639 | [23639-the-west.json](./23639-the-west.json) |
 | The Western Hunter | 44210 | [44210-the-western-hunter.json](./44210-the-western-hunter.json) |
+| The Wheel | 185439 | [185439-the-wheel.json](./185439-the-wheel.json) |
 | The Wheel of Fortune | 182396 | [182396-the-wheel-of-fortune.json](./182396-the-wheel-of-fortune.json) |
 | The Whims of the Gods | 300785 | [300785-the-whims-of-the-gods.json](./300785-the-whims-of-the-gods.json) |
 | The Whisker Watch | 368049 | [368049-the-whisker-watch.json](./368049-the-whisker-watch.json) |
