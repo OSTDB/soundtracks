@@ -3852,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Us | 393463 | [393463-classic-us.json](./393463-classic-us.json) |
 | Classic Words Plus | 101589 | [101589-classic-words-plus.json](./101589-classic-words-plus.json) |
 | Classical Jukebox | 175933 | [175933-classical-jukebox.json](./175933-classical-jukebox.json) |
+| Classified Stories: Color Out of Space | 190951 | [190951-classified-stories-color-out-of-space.json](./190951-classified-stories-color-out-of-space.json) |
 | Classified Stories: The Tome of Myrkah | 109725 | [109725-classified-stories-the-tome-of-myrkah.json](./109725-classified-stories-the-tome-of-myrkah.json) |
 | Classified: Death in the Alley | 253991 | [253991-classified-death-in-the-alley.json](./253991-classified-death-in-the-alley.json) |
 | Classified: France '44 - Agent | 309658 | [309658-classified-france-44-agent.json](./309658-classified-france-44-agent.json) |
@@ -4568,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collector | 130936 | [130936-collector.json](./130936-collector.json) |
 | Collector D | 299822 | [299822-collector-d.json](./299822-collector-d.json) |
 | Collector D Bangai-hen | 299823 | [299823-collector-d-bangai-hen.json](./299823-collector-d-bangai-hen.json) |
+| Collector Thief | 190971 | [190971-collector-thief.json](./190971-collector-thief.json) |
 | Collector: 10 Lives Challenge | 370313 | [370313-collector-10-lives-challenge.json](./370313-collector-10-lives-challenge.json) |
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
 | Collector's Edition: 251 Awesome Games! | 110319 | [110319-collectors-edition-251-awesome-games.json](./110319-collectors-edition-251-awesome-games.json) |
@@ -7408,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
 | Crystal Storm | 235194 | [235194-crystal-storm.json](./235194-crystal-storm.json) |
+| Crystal Story: Dawn of Dusk | 190972 | [190972-crystal-story-dawn-of-dusk.json](./190972-crystal-story-dawn-of-dusk.json) |
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Vale: Dino Escape | 387662 | [387662-crystal-vale-dino-escape.json](./387662-crystal-vale-dino-escape.json) |
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
@@ -8228,6 +8231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cynostone | 252248 | [252248-cynostone.json](./252248-cynostone.json) |
+| Cynthia: Hidden in the Moonshadow | 190984 | [190984-cynthia-hidden-in-the-moonshadow.json](./190984-cynthia-hidden-in-the-moonshadow.json) |
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #1 | 313787 | [313787-cynthia-hidden-in-the-moonshadow-accessory-pack-1.json](./313787-cynthia-hidden-in-the-moonshadow-accessory-pack-1.json) |
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #2 | 313788 | [313788-cynthia-hidden-in-the-moonshadow-accessory-pack-2.json](./313788-cynthia-hidden-in-the-moonshadow-accessory-pack-2.json) |
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #3 | 313789 | [313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json](./313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json) |
