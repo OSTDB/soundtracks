@@ -4427,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
 | SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
 | SimCity | 1274 | [1274-simcity.json](./1274-simcity.json) |
+| SimCity | 180002 | [180002-simcity.json](./180002-simcity.json) |
 | SimCity | 208990 | [208990-simcity.json](./208990-simcity.json) |
 | SimCity 2000 | 330 | [330-simcity-2000.json](./330-simcity-2000.json) |
 | SimCity 2000 Urban Renewal Kit | 130907 | [130907-simcity-2000-urban-renewal-kit.json](./130907-simcity-2000-urban-renewal-kit.json) |
@@ -6301,6 +6302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Angel | 264127 | [264127-snow-angel.json](./264127-snow-angel.json) |
 | Snow Ash | 325064 | [325064-snow-ash.json](./325064-snow-ash.json) |
 | Snow Ash Land | 112347 | [112347-snow-ash-land.json](./112347-snow-ash-land.json) |
+| Snow Ash Land | 180040 | [180040-snow-ash-land.json](./180040-snow-ash-land.json) |
 | Snow Battle Princess Sayuki | 191180 | [191180-snow-battle-princess-sayuki.json](./191180-snow-battle-princess-sayuki.json) |
 | Snow Beast Chess | 355203 | [355203-snow-beast-chess.json](./355203-snow-beast-chess.json) |
 | Snow Blocks 2 | 272929 | [272929-snow-blocks-2.json](./272929-snow-blocks-2.json) |
@@ -6558,6 +6560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOCOM II: U.S. Navy SEALs | 8240 | [8240-socom-ii-u-s-navy-seals.json](./8240-socom-ii-u-s-navy-seals.json) |
 | Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
+| Socxel | 180049 | [180049-socxel.json](./180049-socxel.json) |
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
 | Soda Dungeon | 27685 | [27685-soda-dungeon.json](./27685-soda-dungeon.json) |
 | Soda Dungeon 2 | 122712 | [122712-soda-dungeon-2.json](./122712-soda-dungeon-2.json) |
@@ -7764,6 +7767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
+| Soulsland | 180014 | [180014-soulsland.json](./180014-soulsland.json) |
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
 | Soulslinger | 223041 | [223041-soulslinger.json](./223041-soulslinger.json) |
 | Soulslinger: Envoy of Death | 259147 | [259147-soulslinger-envoy-of-death.json](./259147-soulslinger-envoy-of-death.json) |
@@ -8121,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jammers | 27651 | [27651-space-jammers.json](./27651-space-jammers.json) |
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
+| Space Junk Rage | 180041 | [180041-space-junk-rage.json](./180041-space-junk-rage.json) |
 | Space Junk Scavenger | 305197 | [305197-space-junk-scavenger.json](./305197-space-junk-scavenger.json) |
 | Space Junk Seekers | 277889 | [277889-space-junk-seekers.json](./277889-space-junk-seekers.json) |
 | Space Junkies | 37080 | [37080-space-junkies.json](./37080-space-junkies.json) |
@@ -9529,6 +9534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
 | Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
 | Square Deal: The Game of Two Dimensional Poker | 7815 | [7815-square-deal-the-game-of-two-dimensional-poker.json](./7815-square-deal-the-game-of-two-dimensional-poker.json) |
+| Square Dungeon | 180019 | [180019-square-dungeon.json](./180019-square-dungeon.json) |
 | Square Dungeon 2 | 260180 | [260180-square-dungeon-2.json](./260180-square-dungeon-2.json) |
 | Square Enix Masterpieces: Tomb Raider Bundle | 286664 | [286664-square-enix-masterpieces-tomb-raider-bundle.json](./286664-square-enix-masterpieces-tomb-raider-bundle.json) |
 | Square Fall | 401811 | [401811-square-fall.json](./401811-square-fall.json) |
@@ -10308,6 +10314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Idol: Colorful Top Stage! | 194586 | [194586-starlight-idol-colorful-top-stage.json](./194586-starlight-idol-colorful-top-stage.json) |
 | Starlight Inception | 16662 | [16662-starlight-inception.json](./16662-starlight-inception.json) |
 | Starlight Mining Company | 372998 | [372998-starlight-mining-company.json](./372998-starlight-mining-company.json) |
+| StarLight Terminus | 180047 | [180047-starlight-terminus.json](./180047-starlight-terminus.json) |
 | Starlight Vega | 35041 | [35041-starlight-vega.json](./35041-starlight-vega.json) |
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
@@ -10784,6 +10791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
 | Steezelpunk | 391722 | [391722-steezelpunk.json](./391722-steezelpunk.json) |
 | Stefanos Sizzilin Pizza Pie | 103481 | [103481-stefanos-sizzilin-pizza-pie.json](./103481-stefanos-sizzilin-pizza-pie.json) |
+| Stefanos Sizzlin Pizza Pie | 180042 | [180042-stefanos-sizzlin-pizza-pie.json](./180042-stefanos-sizzlin-pizza-pie.json) |
 | Stegosaurs | 185028 | [185028-stegosaurs.json](./185028-stegosaurs.json) |
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
@@ -11128,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
 | Stone Wheel | 246426 | [246426-stone-wheel.json](./246426-stone-wheel.json) |
 | Stone Wheel 2: Bee Legend | 235139 | [235139-stone-wheel-2-bee-legend.json](./235139-stone-wheel-2-bee-legend.json) |
+| StoneBack | 180032 | [180032-stoneback.json](./180032-stoneback.json) |
 | Stonebound | 378924 | [378924-stonebound.json](./378924-stonebound.json) |
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
 | Stonefly | 144171 | [144171-stonefly.json](./144171-stonefly.json) |
