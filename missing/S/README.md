@@ -8627,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Riders: Battle for Arachna | 316801 | [316801-spider-riders-battle-for-arachna.json](./316801-spider-riders-battle-for-arachna.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
+| Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
 | Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
 | Spider Tanks | 175785 | [175785-spider-tanks.json](./175785-spider-tanks.json) |
@@ -9142,6 +9143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint 4 | 61312 | [61312-sprint-4.json](./61312-sprint-4.json) |
 | Sprint 8 | 61311 | [61311-sprint-8.json](./61311-sprint-8.json) |
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
+| Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprite Sequence Volume 1 | 180129 | [180129-sprite-sequence-volume-1.json](./180129-sprite-sequence-volume-1.json) |
 | Sprite Wars | 297006 | [297006-sprite-wars.json](./297006-sprite-wars.json) |
@@ -13968,6 +13970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
 | SWAT | 307058 | [307058-swat.json](./307058-swat.json) |
 | SWAT 3: Close Quarters Battle | 313 | [313-swat-3-close-quarters-battle.json](./313-swat-3-close-quarters-battle.json) |
+| SWAT 4: Elite Force | 217800 | [217800-swat-4-elite-force.json](./217800-swat-4-elite-force.json) |
 | SWAT Commander | 319967 | [319967-swat-commander.json](./319967-swat-commander.json) |
 | SWAT Elite Troops | 76202 | [76202-swat-elite-troops.json](./76202-swat-elite-troops.json) |
 | SWAT Force | 76201 | [76201-swat-force.json](./76201-swat-force.json) |
