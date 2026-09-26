@@ -2437,8 +2437,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Flood | 181322 | [181322-sewer-flood.json](./181322-sewer-flood.json) |
 | Sewer Jam 2 | 271196 | [271196-sewer-jam-2.json](./271196-sewer-jam-2.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
+| Sex Adventures: Cuckold Gym | 226151 | [226151-sex-adventures-cuckold-gym.json](./226151-sex-adventures-cuckold-gym.json) |
 | Sex Adventures: Futanari Doctor | 286529 | [286529-sex-adventures-futanari-doctor.json](./286529-sex-adventures-futanari-doctor.json) |
 | Sex Adventures: GangBang Surprise | 219598 | [219598-sex-adventures-gangbang-surprise.json](./219598-sex-adventures-gangbang-surprise.json) |
+| Sex Adventures: Kinky Bondage | 226145 | [226145-sex-adventures-kinky-bondage.json](./226145-sex-adventures-kinky-bondage.json) |
 | Sex Adventures: Mile High Club | 286528 | [286528-sex-adventures-mile-high-club.json](./286528-sex-adventures-mile-high-club.json) |
 | Sex Adventures: Modeling Audition | 219599 | [219599-sex-adventures-modeling-audition.json](./219599-sex-adventures-modeling-audition.json) |
 | Sex Adventures: Swingers Gym | 212800 | [212800-sex-adventures-swingers-gym.json](./212800-sex-adventures-swingers-gym.json) |
@@ -2511,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Story: Ruby and Hunter - Episode 2 | 253851 | [253851-sex-story-ruby-and-hunter-episode-2.json](./253851-sex-story-ruby-and-hunter-episode-2.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
 | Sex Survivals | 253852 | [253852-sex-survivals.json](./253852-sex-survivals.json) |
+| Sex Teacher | 226140 | [226140-sex-teacher.json](./226140-sex-teacher.json) |
 | Sex Therapy | 384223 | [384223-sex-therapy.json](./384223-sex-therapy.json) |
 | Sex Twice Hentai | 319170 | [319170-sex-twice-hentai.json](./319170-sex-twice-hentai.json) |
 | Sex Vixens From Space | 72378 | [72378-sex-vixens-from-space.json](./72378-sex-vixens-from-space.json) |
@@ -2531,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexual Girl | 367626 | [367626-sexual-girl.json](./367626-sexual-girl.json) |
 | Sexual Nudity | 140575 | [140575-sexual-nudity.json](./140575-sexual-nudity.json) |
 | Sexual Slave Ayaka | 82840 | [82840-sexual-slave-ayaka.json](./82840-sexual-slave-ayaka.json) |
+| Sexual Summer | 226182 | [226182-sexual-summer.json](./226182-sexual-summer.json) |
 | Sexuality with Girlfriends: Laler & Reese | 375977 | [375977-sexuality-with-girlfriends-laler-and-reese.json](./375977-sexuality-with-girlfriends-laler-and-reese.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
 | Sexy Beach | 22419 | [22419-sexy-beach.json](./22419-sexy-beach.json) |
@@ -3797,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Treasure Trove | 26848 | [26848-shovel-knight-treasure-trove.json](./26848-shovel-knight-treasure-trove.json) |
 | Shovelware | 346231 | [346231-shovelware.json](./346231-shovelware.json) |
 | Shovelware Adventure! | 262303 | [262303-shovelware-adventure.json](./262303-shovelware-adventure.json) |
+| Show Ball: Tiger Life | 226142 | [226142-show-ball-tiger-life.json](./226142-show-ball-tiger-life.json) |
 | Show da Copa com Estádio 97 | 255668 | [255668-show-da-copa-com-estadio-97.json](./255668-show-da-copa-com-estadio-97.json) |
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
 | Show do Milhão | 93008 | [93008-show-do-milhao.json](./93008-show-do-milhao.json) |
@@ -14208,6 +14213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
+| Sword&Magic | 226153 | [226153-sword-and-magic.json](./226153-sword-and-magic.json) |
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
