@@ -3909,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
 | Ants in Space! | 248031 | [248031-ants-in-space.json](./248031-ants-in-space.json) |
+| Ants of Duty | 226169 | [226169-ants-of-duty.json](./226169-ants-of-duty.json) |
 | Ants Took My Eyeball | 211273 | [211273-ants-took-my-eyeball.json](./211273-ants-took-my-eyeball.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
 | Antuel's Lament | 315621 | [315621-antuels-lament.json](./315621-antuels-lament.json) |
@@ -6475,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
 | Aviation Hurricane Storm | 102227 | [102227-aviation-hurricane-storm.json](./102227-aviation-hurricane-storm.json) |
 | Aviator Arcade II | 182926 | [182926-aviator-arcade-ii.json](./182926-aviator-arcade-ii.json) |
+| Aviator: Air Combat | 226161 | [226161-aviator-air-combat.json](./226161-aviator-air-combat.json) |
 | Aviators VR | 280343 | [280343-aviators-vr.json](./280343-aviators-vr.json) |
 | Aviatrix | 279044 | [279044-aviatrix.json](./279044-aviatrix.json) |
 | AVICI | 348242 | [348242-avici.json](./348242-avici.json) |
