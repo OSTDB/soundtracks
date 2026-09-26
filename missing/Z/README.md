@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
 | Z.O.N.A Project X | 234584 | [234584-z-o-n-a-project-x.json](./234584-z-o-n-a-project-x.json) |
 | Z.O.N.A Project X VR | 216803 | [216803-z-o-n-a-project-x-vr.json](./216803-z-o-n-a-project-x-vr.json) |
+| Z.O.N.A: Shadow of Limansk Redux | 199903 | [199903-z-o-n-a-shadow-of-limansk-redux.json](./199903-z-o-n-a-shadow-of-limansk-redux.json) |
 | Z'code | 30782 | [30782-zcode.json](./30782-zcode.json) |
 | Z0mb1es on teh ph0ne | 77995 | [77995-z0mb1es-on-teh-ph0ne.json](./77995-z0mb1es-on-teh-ph0ne.json) |
 | Z55z | 86563 | [86563-z55z.json](./86563-z55z.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Animals ~ Touch, Look, Listen | 89706 | [89706-zoo-animals-touch-look-listen.json](./89706-zoo-animals-touch-look-listen.json) |
 | Zoo Chess | 213403 | [213403-zoo-chess.json](./213403-zoo-chess.json) |
 | Zoo Clues | 397781 | [397781-zoo-clues.json](./397781-zoo-clues.json) |
+| Zoo Dentist: Extended Edition | 199932 | [199932-zoo-dentist-extended-edition.json](./199932-zoo-dentist-extended-edition.json) |
 | Zoo Disc Golf | 59039 | [59039-zoo-disc-golf.json](./59039-zoo-disc-golf.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zoo Keeper 3D | 222337 | [222337-zoo-keeper-3d.json](./222337-zoo-keeper-3d.json) |
