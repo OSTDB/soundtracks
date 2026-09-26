@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Defense | 127943 | [127943-base-defense.json](./127943-base-defense.json) |
 | Base Defense | 380002 | [380002-base-defense.json](./380002-base-defense.json) |
 | Base Defense VR | 167804 | [167804-base-defense-vr.json](./167804-base-defense-vr.json) |
+| Base Defense! | 208909 | [208909-base-defense.json](./208909-base-defense.json) |
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
 | Base Jumping | 323839 | [323839-base-jumping.json](./323839-base-jumping.json) |
 | Base Raid | 31808 | [31808-base-raid.json](./31808-base-raid.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bask: The Alchemist Frog | 338195 | [338195-bask-the-alchemist-frog.json](./338195-bask-the-alchemist-frog.json) |
 | Baskerville | 272355 | [272355-baskerville.json](./272355-baskerville.json) |
 | Basket Ball 3D ShootOut | 91150 | [91150-basket-ball-3d-shootout.json](./91150-basket-ball-3d-shootout.json) |
+| Basket Battle | 208910 | [208910-basket-battle.json](./208910-basket-battle.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
 | Basket Legends | 188017 | [188017-basket-legends.json](./188017-basket-legends.json) |
 | Basket Zombie | 282137 | [282137-basket-zombie.json](./282137-basket-zombie.json) |
@@ -6507,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
 | Bucket Balls | 103201 | [103201-bucket-balls.json](./103201-bucket-balls.json) |
 | Bucket Brawl: Ahlman Edition | 253354 | [253354-bucket-brawl-ahlman-edition.json](./253354-bucket-brawl-ahlman-edition.json) |
+| Bucket Crusher | 208911 | [208911-bucket-crusher.json](./208911-bucket-crusher.json) |
 | Bucket Crusher: Around The World | 287160 | [287160-bucket-crusher-around-the-world.json](./287160-bucket-crusher-around-the-world.json) |
 | Bucket Crusher: Complete Edition | 290440 | [290440-bucket-crusher-complete-edition.json](./290440-bucket-crusher-complete-edition.json) |
 | Bucket Crusher: Cool Kidz | 287162 | [287162-bucket-crusher-cool-kidz.json](./287162-bucket-crusher-cool-kidz.json) |
