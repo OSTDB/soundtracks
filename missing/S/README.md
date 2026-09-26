@@ -886,7 +886,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satomi Hakkenden Murasamemaru no Ki | 220575 | [220575-satomi-hakkenden-murasamemaru-no-ki.json](./220575-satomi-hakkenden-murasamemaru-no-ki.json) |
 | Satori | 285571 | [285571-satori.json](./285571-satori.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
+| Satori no Atelier | 210610 | [210610-satori-no-atelier.json](./210610-satori-no-atelier.json) |
+| Satori no Atelier 2: Alice vs. Ikari no Death Danmaku Settai | 210613 | [210613-satori-no-atelier-2-alice-vs-ikari-no-death-danmaku-settai.json](./210613-satori-no-atelier-2-alice-vs-ikari-no-death-danmaku-settai.json) |
 | Satori's Atelier 1+2 | 210664 | [210664-satoris-atelier-1-2.json](./210664-satoris-atelier-1-2.json) |
+| Satori's Dungeon Kingdom 2: The Heart Of Masked Memory | 210591 | [210591-satoris-dungeon-kingdom-2-the-heart-of-masked-memory.json](./210591-satoris-dungeon-kingdom-2-the-heart-of-masked-memory.json) |
 | Satoru Gojo Backshot Simulator | 320904 | [320904-satoru-gojo-backshot-simulator.json](./320904-satoru-gojo-backshot-simulator.json) |
 | Satsui no Kaisou: Power Soft Satsujin Jiken | 48859 | [48859-satsui-no-kaisou-power-soft-satsujin-jiken.json](./48859-satsui-no-kaisou-power-soft-satsujin-jiken.json) |
 | Saturated Outer Space | 116836 | [116836-saturated-outer-space.json](./116836-saturated-outer-space.json) |
@@ -911,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saucy Boy Adventures | 210095 | [210095-saucy-boy-adventures.json](./210095-saucy-boy-adventures.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
 | Sauna | 178039 | [178039-sauna.json](./178039-sauna.json) |
+| Sauna 2000 | 210586 | [210586-sauna-2000.json](./210586-sauna-2000.json) |
 | Sauna Mario World | 338838 | [338838-sauna-mario-world.json](./338838-sauna-mario-world.json) |
 | Sauna Mario World 2 | 338836 | [338836-sauna-mario-world-2.json](./338836-sauna-mario-world-2.json) |
 | Saunageddon | 348837 | [348837-saunageddon.json](./348837-saunageddon.json) |
@@ -7920,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders: Carabiner Edition | 225630 | [225630-space-invaders-carabiner-edition.json](./225630-space-invaders-carabiner-edition.json) |
 | Space Invaders: Invincible Collection | 119406 | [119406-space-invaders-invincible-collection.json](./119406-space-invaders-invincible-collection.json) |
 | Space Invaders: Invincible Collection - Special Edition | 141665 | [141665-space-invaders-invincible-collection-special-edition.json](./141665-space-invaders-invincible-collection-special-edition.json) |
+| Space Invaders: The Original Game | 210577 | [210577-space-invaders-the-original-game.json](./210577-space-invaders-the-original-game.json) |
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
 | Space Invasion | 279067 | [279067-space-invasion.json](./279067-space-invasion.json) |
 | Space Invasion | 293713 | [293713-space-invasion.json](./293713-space-invasion.json) |
@@ -12776,6 +12781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64x4 | 315007 | [315007-super-mario-64x4.json](./315007-super-mario-64x4.json) |
 | Super Mario 74 | 132842 | [132842-super-mario-74.json](./132842-super-mario-74.json) |
 | Super Mario 74: Extreme Edition | 132843 | [132843-super-mario-74-extreme-edition.json](./132843-super-mario-74-extreme-edition.json) |
+| Super Mario 74: Ten Years After | 210599 | [210599-super-mario-74-ten-years-after.json](./210599-super-mario-74-ten-years-after.json) |
 | Super Mario 74: The Twelve Year Comet | 272810 | [272810-super-mario-74-the-twelve-year-comet.json](./272810-super-mario-74-the-twelve-year-comet.json) |
 | Super Mario Advance 4: Card e+ - 1UP Kinoko ga 3UP Moon ni Kawaru | 296051 | [296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json](./296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json) |
 | Super Mario Advance 4: Card e+ - Luigi Power Up! | 296052 | [296052-super-mario-advance-4-card-e-luigi-power-up.json](./296052-super-mario-advance-4-card-e-luigi-power-up.json) |
@@ -12806,6 +12812,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario and the Marvel Adventure | 135178 | [135178-super-mario-and-the-marvel-adventure.json](./135178-super-mario-and-the-marvel-adventure.json) |
 | Super Mario and the Monstrous Manor | 280824 | [280824-super-mario-and-the-monstrous-manor.json](./280824-super-mario-and-the-monstrous-manor.json) |
 | Super Mario and the Space Base | 356293 | [356293-super-mario-and-the-space-base.json](./356293-super-mario-and-the-space-base.json) |
+| Super Mario Apocalypse | 210596 | [210596-super-mario-apocalypse.json](./210596-super-mario-apocalypse.json) |
+| Super Mario Apocalypse | 210597 | [210597-super-mario-apocalypse.json](./210597-super-mario-apocalypse.json) |
 | Super Mario Bomber | 369660 | [369660-super-mario-bomber.json](./369660-super-mario-bomber.json) |
 | Super Mario brasileiro | 267931 | [267931-super-mario-brasileiro.json](./267931-super-mario-brasileiro.json) |
 | Super Mario Bratarsi | 323361 | [323361-super-mario-bratarsi.json](./323361-super-mario-bratarsi.json) |
