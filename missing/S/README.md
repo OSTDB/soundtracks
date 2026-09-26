@@ -5158,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skystead Ranch | 258560 | [258560-skystead-ranch.json](./258560-skystead-ranch.json) |
 | Skytail | 380571 | [380571-skytail.json](./380571-skytail.json) |
 | SkyTemple Randomizer | 342172 | [342172-skytemple-randomizer.json](./342172-skytemple-randomizer.json) |
+| SkyTrip America | 208916 | [208916-skytrip-america.json](./208916-skytrip-america.json) |
 | Skyts | 279042 | [279042-skyts.json](./279042-skyts.json) |
 | Skyvern | 350422 | [350422-skyvern.json](./350422-skyvern.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
@@ -5495,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slingo 15th Anniversary Edition | 208976 | [208976-slingo-15th-anniversary-edition.json](./208976-slingo-15th-anniversary-edition.json) |
 | Slingo Adventure | 234185 | [234185-slingo-adventure.json](./234185-slingo-adventure.json) |
+| Slingo Deluxe Bundle | 208921 | [208921-slingo-deluxe-bundle.json](./208921-slingo-deluxe-bundle.json) |
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
 | Slingoween | 338940 | [338940-slingoween.json](./338940-slingoween.json) |
 | Slingshot | 60577 | [60577-slingshot.json](./60577-slingshot.json) |
@@ -5519,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slippery Richard!: He's Taller Than My Husband | 225100 | [225100-slippery-richard-hes-taller-than-my-husband.json](./225100-slippery-richard-hes-taller-than-my-husband.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
 | Slippery Sid | 255769 | [255769-slippery-sid.json](./255769-slippery-sid.json) |
+| Slippery Words | 208925 | [208925-slippery-words.json](./208925-slippery-words.json) |
 | Slippy Santa | 185515 | [185515-slippy-santa.json](./185515-slippy-santa.json) |
 | Slippy Slug | 34671 | [34671-slippy-slug.json](./34671-slippy-slug.json) |
 | Slippy the Frog | 258027 | [258027-slippy-the-frog.json](./258027-slippy-the-frog.json) |
@@ -6253,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman Mo | 333154 | [333154-snowman-mo.json](./333154-snowman-mo.json) |
 | Snowman Saves Christmas | 169853 | [169853-snowman-saves-christmas.json](./169853-snowman-saves-christmas.json) |
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
+| Snowmobile Racing | 208902 | [208902-snowmobile-racing.json](./208902-snowmobile-racing.json) |
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
 | SnowRunner + Expeditions: A MudRunner Game Bundle | 398397 | [398397-snowrunner-expeditions-a-mudrunner-game-bundle.json](./398397-snowrunner-expeditions-a-mudrunner-game-bundle.json) |
 | SnowRunner: 3-Year Anniversary Edition | 230833 | [230833-snowrunner-3-year-anniversary-edition.json](./230833-snowrunner-3-year-anniversary-edition.json) |
@@ -6414,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
 | Soda Dungeon | 27685 | [27685-soda-dungeon.json](./27685-soda-dungeon.json) |
 | Soda Dungeon 2 | 122712 | [122712-soda-dungeon-2.json](./122712-soda-dungeon-2.json) |
+| Soda Pipes | 208900 | [208900-soda-pipes.json](./208900-soda-pipes.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
 | Soda-Powered Penguin | 216734 | [216734-soda-powered-penguin.json](./216734-soda-powered-penguin.json) |
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
@@ -6594,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
+| Solid Ice | 208882 | [208882-solid-ice.json](./208882-solid-ice.json) |
 | Solid Lancer | 248584 | [248584-solid-lancer.json](./248584-solid-lancer.json) |
 | Solid Void Art Nonograms | 378770 | [378770-solid-void-art-nonograms.json](./378770-solid-void-art-nonograms.json) |
 | Solid Void: Nature Puzzles | 333738 | [333738-solid-void-nature-puzzles.json](./333738-solid-void-nature-puzzles.json) |
