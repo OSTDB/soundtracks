@@ -2207,7 +2207,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Guys: Firefighters Simulator | 407347 | [407347-rescue-guys-firefighters-simulator.json](./407347-rescue-guys-firefighters-simulator.json) |
 | Rescue Heli RH407 | 345006 | [345006-rescue-heli-rh407.json](./345006-rescue-heli-rh407.json) |
 | Rescue Heroes: Fire Frenzy | 49948 | [49948-rescue-heroes-fire-frenzy.json](./49948-rescue-heroes-fire-frenzy.json) |
+| Rescue Heroes: Lava Landslide | 209433 | [209433-rescue-heroes-lava-landslide.json](./209433-rescue-heroes-lava-landslide.json) |
+| Rescue Heroes: Mission Select | 209434 | [209434-rescue-heroes-mission-select.json](./209434-rescue-heroes-mission-select.json) |
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
+| Rescue Heroes: Tremor Trouble | 209432 | [209432-rescue-heroes-tremor-trouble.json](./209432-rescue-heroes-tremor-trouble.json) |
 | Rescue HQ: The Tycoon - Coastguard | 155039 | [155039-rescue-hq-the-tycoon-coastguard.json](./155039-rescue-hq-the-tycoon-coastguard.json) |
 | Rescue Mael! | 185105 | [185105-rescue-mael.json](./185105-rescue-mael.json) |
 | Rescue Mary: Manor Renovation | 227949 | [227949-rescue-mary-manor-renovation.json](./227949-rescue-mary-manor-renovation.json) |
