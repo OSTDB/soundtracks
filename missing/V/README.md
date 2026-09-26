@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaccine Delivery Simulator | 164883 | [164883-vaccine-delivery-simulator.json](./164883-vaccine-delivery-simulator.json) |
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
 | Vaccine Rebirth | 236842 | [236842-vaccine-rebirth.json](./236842-vaccine-rebirth.json) |
+| Vacoo: The Adventure in Garbage City | 223413 | [223413-vacoo-the-adventure-in-garbage-city.json](./223413-vacoo-the-adventure-in-garbage-city.json) |
 | Vacuum Ball | 192820 | [192820-vacuum-ball.json](./192820-vacuum-ball.json) |
 | Vacuum Cleaner Robot Simulator: Pile Sos Edition | 369591 | [369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json](./369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json) |
 | Vacuum Pilot | 160254 | [160254-vacuum-pilot.json](./160254-vacuum-pilot.json) |
