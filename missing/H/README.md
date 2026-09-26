@@ -3621,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hologram | 307095 | [307095-hologram.json](./307095-hologram.json) |
 | Hololive All-Stars Battle Tiles | 379575 | [379575-hololive-all-stars-battle-tiles.json](./379575-hololive-all-stars-battle-tiles.json) |
 | Hololive Dreams | 384205 | [384205-hololive-dreams.json](./384205-hololive-dreams.json) |
+| Hololive Error | 186622 | [186622-hololive-error.json](./186622-hololive-error.json) |
 | Hololive Gorogoro Mountain | 348243 | [348243-hololive-gorogoro-mountain.json](./348243-hololive-gorogoro-mountain.json) |
 | Hololive GoroGoro Mountain DX | 384189 | [384189-hololive-gorogoro-mountain-dx.json](./384189-hololive-gorogoro-mountain-dx.json) |
 | Hololive Horror | 210581 | [210581-hololive-horror.json](./210581-hololive-horror.json) |
