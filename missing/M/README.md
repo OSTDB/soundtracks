@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macross: Last Frontier | 65467 | [65467-macross-last-frontier.json](./65467-macross-last-frontier.json) |
 | Macross: Shooting Insight | 230620 | [230620-macross-shooting-insight.json](./230620-macross-shooting-insight.json) |
 | Macross: Space Fight | 385323 | [385323-macross-space-fight.json](./385323-macross-space-fight.json) |
+| Macs World | 193714 | [193714-macs-world.json](./193714-macs-world.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
 | Mad Blocker Arcade | 65744 | [65744-mad-blocker-arcade.json](./65744-mad-blocker-arcade.json) |
@@ -6354,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Pet Shop | 242787 | [242787-monster-pet-shop.json](./242787-monster-pet-shop.json) |
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
 | Monster Poolside Sumo | 263468 | [263468-monster-poolside-sumo.json](./263468-monster-poolside-sumo.json) |
+| Monster Pow | 193720 | [193720-monster-pow.json](./193720-monster-pow.json) |
 | Monster Prom | 69483 | [69483-monster-prom.json](./69483-monster-prom.json) |
 | Monster Prom 2: Monster Camp | 122195 | [122195-monster-prom-2-monster-camp.json](./122195-monster-prom-2-monster-camp.json) |
 | Monster Prom 2: Monster Camp Outfit Pack - Thirst and Sensibility | 230815 | [230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json](./230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json) |
@@ -6593,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
 | Moonlight Cow: Guardian of the Night | 386229 | [386229-moonlight-cow-guardian-of-the-night.json](./386229-moonlight-cow-guardian-of-the-night.json) |
 | Moonlight Cradle | 404334 | [404334-moonlight-cradle.json](./404334-moonlight-cradle.json) |
+| Moonlight Express: Fortnight | 193726 | [193726-moonlight-express-fortnight.json](./193726-moonlight-express-fortnight.json) |
 | Moonlight Frog Inn | 320346 | [320346-moonlight-frog-inn.json](./320346-moonlight-frog-inn.json) |
 | Moonlight Knight | 252665 | [252665-moonlight-knight.json](./252665-moonlight-knight.json) |
 | Moonlight Lovers | 186764 | [186764-moonlight-lovers.json](./186764-moonlight-lovers.json) |
