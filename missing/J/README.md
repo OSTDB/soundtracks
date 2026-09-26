@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond Jr. | 217971 | [217971-james-bond-jr.json](./217971-james-bond-jr.json) |
 | James Bond Jr. | 217972 | [217972-james-bond-jr.json](./217972-james-bond-jr.json) |
 | James Bonk | 110285 | [110285-james-bonk.json](./110285-james-bonk.json) |
+| James Cameron's Avatar: The Game | 200999 | [200999-james-camerons-avatar-the-game.json](./200999-james-camerons-avatar-the-game.json) |
 | James Clavell's Shogun | 15473 | [15473-james-clavells-shogun.json](./15473-james-clavells-shogun.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
@@ -669,9 +670,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Beautiful Sceneries in Japan | 238221 | [238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json](./238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json) |
 | Jigsaw Masterpieces: Beautiful Towns Around the World | 238223 | [238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json](./238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json) |
 | Jigsaw Masterpieces: Juicy Fruits | 238230 | [238230-jigsaw-masterpieces-juicy-fruits.json](./238230-jigsaw-masterpieces-juicy-fruits.json) |
+| Jigsaw Masterpieces: Landscapes with Flags of the World - Asia vol.1 | 201024 | [201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json](./201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json) |
 | Jigsaw Masterpieces: Okinawa - Paradise in Japan | 238231 | [238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json](./238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json) |
+| Jigsaw Masterpieces: Scenes with Horses | 201023 | [201023-jigsaw-masterpieces-scenes-with-horses.json](./201023-jigsaw-masterpieces-scenes-with-horses.json) |
 | Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
 | Jigsaw Masterpieces: View from the Sky | 237912 | [237912-jigsaw-masterpieces-view-from-the-sky.json](./237912-jigsaw-masterpieces-view-from-the-sky.json) |
+| Jigsaw Masterpieces: World's Most Scenic Train Trips | 201025 | [201025-jigsaw-masterpieces-worlds-most-scenic-train-trips.json](./201025-jigsaw-masterpieces-worlds-most-scenic-train-trips.json) |
 | Jigsaw Pets | 283274 | [283274-jigsaw-pets.json](./283274-jigsaw-pets.json) |
 | JigSaw Preschool Puzzles | 97145 | [97145-jigsaw-preschool-puzzles.json](./97145-jigsaw-preschool-puzzles.json) |
 | Jigsaw Puzzle | 357883 | [357883-jigsaw-puzzle.json](./357883-jigsaw-puzzle.json) |
@@ -1530,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 3: XL Edition | 36448 | [36448-just-cause-3-xl-edition.json](./36448-just-cause-3-xl-edition.json) |
 | Just Cause 4 | 103261 | [103261-just-cause-4.json](./103261-just-cause-4.json) |
 | Just Cause 4: Dare Devils of Destruction | 117492 | [117492-just-cause-4-dare-devils-of-destruction.json](./117492-just-cause-4-dare-devils-of-destruction.json) |
+| Just Cause 4: Day One Edition | 201031 | [201031-just-cause-4-day-one-edition.json](./201031-just-cause-4-day-one-edition.json) |
 | Just Cause Collection | 53245 | [53245-just-cause-collection.json](./53245-just-cause-collection.json) |
 | Just Cause Collection Bundle | 384104 | [384104-just-cause-collection-bundle.json](./384104-just-cause-collection-bundle.json) |
 | Just Climb | 286011 | [286011-just-climb.json](./286011-just-climb.json) |
