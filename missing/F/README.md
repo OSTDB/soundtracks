@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face | 87958 | [87958-face.json](./87958-face.json) |
 | Face 2 Face | 299730 | [299730-face-2-face.json](./299730-face-2-face.json) |
 | Face Down | 227968 | [227968-face-down.json](./227968-face-down.json) |
+| Face Golf | 181703 | [181703-face-golf.json](./181703-face-golf.json) |
 | Face Love: Face Designer | 334861 | [334861-face-love-face-designer.json](./334861-face-love-face-designer.json) |
 | Face of the Killer | 289410 | [289410-face-of-the-killer.json](./289410-face-of-the-killer.json) |
 | Face The Abyss | 340049 | [340049-face-the-abyss.json](./340049-face-the-abyss.json) |
@@ -3321,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
 | Floors | 309374 | [309374-floors.json](./309374-floors.json) |
 | FLOP | 342168 | [342168-flop.json](./342168-flop.json) |
+| Flop to the Top | 181712 | [181712-flop-to-the-top.json](./181712-flop-to-the-top.json) |
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
 | Floppy Disks from Hell | 236946 | [236946-floppy-disks-from-hell.json](./236946-floppy-disks-from-hell.json) |
@@ -5242,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits-mura no Doubutsu-tachi | 49572 | [49572-fruits-mura-no-doubutsu-tachi.json](./49572-fruits-mura-no-doubutsu-tachi.json) |
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
+| Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
 | Frutakia | 299776 | [299776-frutakia.json](./299776-frutakia.json) |
 | Frutiger Aero | 354488 | [354488-frutiger-aero.json](./354488-frutiger-aero.json) |
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
@@ -5751,4 +5754,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Racer | 380682 | [380682-fx-racer.json](./380682-fx-racer.json) |
 | Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
 | Fyrardien | 384525 | [384525-fyrardien.json](./384525-fyrardien.json) |
+| Fyz and Now in Olympic Games of Tartarus | 181694 | [181694-fyz-and-now-in-olympic-games-of-tartarus.json](./181694-fyz-and-now-in-olympic-games-of-tartarus.json) |
 | FZDDR | 406700 | [406700-fzddr.json](./406700-fzddr.json) |
