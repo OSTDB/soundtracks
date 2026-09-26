@@ -1943,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Switch Simulator | 317591 | [317591-light-switch-simulator.json](./317591-light-switch-simulator.json) |
 | Light the Backrooms | 232441 | [232441-light-the-backrooms.json](./232441-light-the-backrooms.json) |
 | Light the Candles in Hell | 340920 | [340920-light-the-candles-in-hell.json](./340920-light-the-candles-in-hell.json) |
+| Light the Lamp Hockey | 197120 | [197120-light-the-lamp-hockey.json](./197120-light-the-lamp-hockey.json) |
 | Light the Way | 114238 | [114238-light-the-way.json](./114238-light-the-way.json) |
 | Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
 | Light the Way: 10th Anniversary | 232403 | [232403-light-the-way-10th-anniversary.json](./232403-light-the-way-10th-anniversary.json) |
@@ -2058,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Johnny Goes Home | 258213 | [258213-lil-johnny-goes-home.json](./258213-lil-johnny-goes-home.json) |
 | Lil Jump 2 | 253024 | [253024-lil-jump-2.json](./253024-lil-jump-2.json) |
 | Lil Pump Piano Tiles | 95867 | [95867-lil-pump-piano-tiles.json](./95867-lil-pump-piano-tiles.json) |
+| Lil Splody: Look Out Below! | 197144 | [197144-lil-splody-look-out-below.json](./197144-lil-splody-look-out-below.json) |
 | Lil Spoops | 236021 | [236021-lil-spoops.json](./236021-lil-spoops.json) |
 | Lil Wayne Slots: Slot Machines | 323154 | [323154-lil-wayne-slots-slot-machines.json](./323154-lil-wayne-slots-slot-machines.json) |
 | Lil' Airport | 301267 | [301267-lil-airport.json](./301267-lil-airport.json) |
