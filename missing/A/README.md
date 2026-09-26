@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Murder of Crows | 261846 | [261846-a-murder-of-crows.json](./261846-a-murder-of-crows.json) |
+| A Musical Story: Digital Deluxe Edition | 193735 | [193735-a-musical-story-digital-deluxe-edition.json](./193735-a-musical-story-digital-deluxe-edition.json) |
 | A Mystic Journey With: Aria | 392957 | [392957-a-mystic-journey-with-aria.json](./392957-a-mystic-journey-with-aria.json) |
 | A Mystic Journey With: Nova | 392947 | [392947-a-mystic-journey-with-nova.json](./392947-a-mystic-journey-with-nova.json) |
 | A Mystic Journey With: Terra | 392951 | [392951-a-mystic-journey-with-terra.json](./392951-a-mystic-journey-with-terra.json) |
