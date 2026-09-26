@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Clash | 283847 | [283847-fantasy-clash.json](./283847-fantasy-clash.json) |
 | Fantasy Clash | 54738 | [54738-fantasy-clash.json](./54738-fantasy-clash.json) |
 | Fantasy Clicker of Cute Cocoa | 197748 | [197748-fantasy-clicker-of-cute-cocoa.json](./197748-fantasy-clicker-of-cute-cocoa.json) |
+| Fantasy Climber: Fun Adventure | 213322 | [213322-fantasy-climber-fun-adventure.json](./213322-fantasy-climber-fun-adventure.json) |
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
 | Fantasy Earth: Zero | 51192 | [51192-fantasy-earth-zero.json](./51192-fantasy-earth-zero.json) |
@@ -3301,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowerhorn Aquarium | 255748 | [255748-flowerhorn-aquarium.json](./255748-flowerhorn-aquarium.json) |
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
+| Flowers Bundle | 213328 | [213328-flowers-bundle.json](./213328-flowers-bundle.json) |
 | Flowers for You | 330895 | [330895-flowers-for-you.json](./330895-flowers-for-you.json) |
 | Flowers in Bloom | 146906 | [146906-flowers-in-bloom.json](./146906-flowers-in-bloom.json) |
 | Flowers of Asphodel | 300379 | [300379-flowers-of-asphodel.json](./300379-flowers-of-asphodel.json) |
@@ -5056,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Bonanza | 195698 | [195698-fruit-bonanza.json](./195698-fruit-bonanza.json) |
 | Fruit Box | 261223 | [261223-fruit-box.json](./261223-fruit-box.json) |
 | Fruit Box Idle | 391746 | [391746-fruit-box-idle.json](./391746-fruit-box-idle.json) |
+| Fruit Bump | 213354 | [213354-fruit-bump.json](./213354-fruit-bump.json) |
 | Fruit Candypop | 334755 | [334755-fruit-candypop.json](./334755-fruit-candypop.json) |
 | Fruit Catcher | 397067 | [397067-fruit-catcher.json](./397067-fruit-catcher.json) |
 | Fruit Clicker | 150646 | [150646-fruit-clicker.json](./150646-fruit-clicker.json) |
