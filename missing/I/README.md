@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icy Tower Classic | 18096 | [18096-icy-tower-classic.json](./18096-icy-tower-classic.json) |
 | ICY: Frostbite Edition | 52095 | [52095-icy-frostbite-edition.json](./52095-icy-frostbite-edition.json) |
 | iD | 172035 | [172035-id.json](./172035-id.json) |
+| id Action Pack Vol. 3 | 222855 | [222855-id-action-pack-vol-3.json](./222855-id-action-pack-vol-3.json) |
 | ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
 | iDate Reborn | 384190 | [384190-idate-reborn.json](./384190-idate-reborn.json) |
 | Idea | 204951 | [204951-idea.json](./204951-idea.json) |
