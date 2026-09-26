@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
 | No Signal Escape Room | 413624 | [413624-no-signal-escape-room.json](./413624-no-signal-escape-room.json) |
+| No Skirt Convenience Shop | 212193 | [212193-no-skirt-convenience-shop.json](./212193-no-skirt-convenience-shop.json) |
 | No Sleep for Sole | 267362 | [267362-no-sleep-for-sole.json](./267362-no-sleep-for-sole.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
 | No Stars No Problem | 323279 | [323279-no-stars-no-problem.json](./323279-no-stars-no-problem.json) |
