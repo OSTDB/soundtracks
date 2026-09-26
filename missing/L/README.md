@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakeside | 269563 | [269563-lakeside.json](./269563-lakeside.json) |
 | Lakeside Has No Lake!! | 355614 | [355614-lakeside-has-no-lake.json](./355614-lakeside-has-no-lake.json) |
 | Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
+| Lakitu's Great Adventure | 217842 | [217842-lakitus-great-adventure.json](./217842-lakitus-great-adventure.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
@@ -2146,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineal Distancing | 299769 | [299769-lineal-distancing.json](./299769-lineal-distancing.json) |
 | Lineality | 286600 | [286600-lineality.json](./286600-lineality.json) |
 | Linear Calamity | 293676 | [293676-linear-calamity.json](./293676-linear-calamity.json) |
+| Linear Doom | 217795 | [217795-linear-doom.json](./217795-linear-doom.json) |
 | Linear S | 349331 | [349331-linear-s.json](./349331-linear-s.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
 | Linecook | 179198 | [179198-linecook.json](./179198-linecook.json) |
@@ -3676,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
 | Lucifer's Kingdom | 72097 | [72097-lucifers-kingdom.json](./72097-lucifers-kingdom.json) |
 | Luciform | 130208 | [130208-luciform.json](./130208-luciform.json) |
+| Lucinda | 217821 | [217821-lucinda.json](./217821-lucinda.json) |
 | Lucinda Green's Equestrian Challenge | 43254 | [43254-lucinda-greens-equestrian-challenge.json](./43254-lucinda-greens-equestrian-challenge.json) |
 | Lucipurr | 346603 | [346603-lucipurr.json](./346603-lucipurr.json) |
 | Lucius II | 17329 | [17329-lucius-ii.json](./17329-lucius-ii.json) |
@@ -3823,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumberjack Simulator: Made in Alaska 2026 | 390501 | [390501-lumberjack-simulator-made-in-alaska-2026.json](./390501-lumberjack-simulator-made-in-alaska-2026.json) |
 | Lumbermill | 122427 | [122427-lumbermill.json](./122427-lumbermill.json) |
 | LumberQwaxes | 154013 | [154013-lumberqwaxes.json](./154013-lumberqwaxes.json) |
+| LumberReborn | 217822 | [217822-lumberreborn.json](./217822-lumberreborn.json) |
 | Lumboo | 397093 | [397093-lumboo.json](./397093-lumboo.json) |
 | Lumeera and the Glow Reefs | 406803 | [406803-lumeera-and-the-glow-reefs.json](./406803-lumeera-and-the-glow-reefs.json) |
 | Lumen | 292608 | [292608-lumen.json](./292608-lumen.json) |
