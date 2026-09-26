@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Hurt Hopp | 148934 | [148934-help-hurt-hopp.json](./148934-help-hurt-hopp.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
 | Help Me Escape! The Puzzle Maker's Office | 108438 | [108438-help-me-escape-the-puzzle-makers-office.json](./108438-help-me-escape-the-puzzle-makers-office.json) |
+| Help Me Jack: Save the Dogs | 175731 | [175731-help-me-jack-save-the-dogs.json](./175731-help-me-jack-save-the-dogs.json) |
 | Help Me Now | 133221 | [133221-help-me-now.json](./133221-help-me-now.json) |
 | Help me please | 155977 | [155977-help-me-please.json](./155977-help-me-please.json) |
 | Help Me! | 154003 | [154003-help-me.json](./154003-help-me.json) |
@@ -4979,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters' Moon | 214032 | [214032-hunters-moon.json](./214032-hunters-moon.json) |
 | HunterX | 196262 | [196262-hunterx.json](./196262-hunterx.json) |
 | HunterX: Code Name T | 277836 | [277836-hunterx-code-name-t.json](./277836-hunterx-code-name-t.json) |
+| HunterxHunter | 175695 | [175695-hunterxhunter.json](./175695-hunterxhunter.json) |
 | Huntfeast | 147431 | [147431-huntfeast.json](./147431-huntfeast.json) |
 | Huntin' Adventure | 210054 | [210054-huntin-adventure.json](./210054-huntin-adventure.json) |
 | Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
