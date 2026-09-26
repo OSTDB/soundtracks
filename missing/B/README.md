@@ -4653,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
 | BMX Simulator | 11973 | [11973-bmx-simulator.json](./11973-bmx-simulator.json) |
 | BMX Simulator II: Dirt Biking | 47220 | [47220-bmx-simulator-ii-dirt-biking.json](./47220-bmx-simulator-ii-dirt-biking.json) |
+| BMX Streets | 197669 | [197669-bmx-streets.json](./197669-bmx-streets.json) |
 | BMX Trick Racer | 49313 | [49313-bmx-trick-racer.json](./49313-bmx-trick-racer.json) |
 | BMX XXX | 3826 | [3826-bmx-xxx.json](./3826-bmx-xxx.json) |
 | BMX: The Game | 138610 | [138610-bmx-the-game.json](./138610-bmx-the-game.json) |
@@ -5628,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxworld | 287649 | [287649-boxworld.json](./287649-boxworld.json) |
 | Boxy Trial | 122334 | [122334-boxy-trial.json](./122334-boxy-trial.json) |
 | Boxzum | 84283 | [84283-boxzum.json](./84283-boxzum.json) |
+| Boy and the Seagull | 197649 | [197649-boy-and-the-seagull.json](./197649-boy-and-the-seagull.json) |
 | Boy Beats World | 127337 | [127337-boy-beats-world.json](./127337-boy-beats-world.json) |
 | Boy Goes to Space | 128584 | [128584-boy-goes-to-space.json](./128584-boy-goes-to-space.json) |
 | Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
@@ -5842,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravo Air Race | 18250 | [18250-bravo-air-race.json](./18250-bravo-air-race.json) |
 | Bravo Music: Christmas Edition | 86009 | [86009-bravo-music-christmas-edition.json](./86009-bravo-music-christmas-edition.json) |
 | Bravo Romeo Delta | 14344 | [14344-bravo-romeo-delta.json](./14344-bravo-romeo-delta.json) |
+| Bravo Soccer | 197628 | [197628-bravo-soccer.json](./197628-bravo-soccer.json) |
 | Bravo Team | 37143 | [37143-bravo-team.json](./37143-bravo-team.json) |
 | Bravo, Gaspar! | 399163 | [399163-bravo-gaspar.json](./399163-bravo-gaspar.json) |
 | Bravo! | 362438 | [362438-bravo.json](./362438-bravo.json) |
