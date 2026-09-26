@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veteran Combat | 35710 | [35710-veteran-combat.json](./35710-veteran-combat.json) |
 | Veterum | 211815 | [211815-veterum.json](./211815-veterum.json) |
 | Vetica | 94192 | [94192-vetica.json](./94192-vetica.json) |
+| Vetrex | 194988 | [194988-vetrex.json](./194988-vetrex.json) |
 | VEV: Viva Ex Vivo - VR Edition | 187513 | [187513-vev-viva-ex-vivo-vr-edition.json](./187513-vev-viva-ex-vivo-vr-edition.json) |
 | Vex | 32236 | [32236-vex.json](./32236-vex.json) |
 | Vex | 402253 | [402253-vex.json](./402253-vex.json) |
@@ -1478,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxelgram 2 | 335067 | [335067-voxelgram-2.json](./335067-voxelgram-2.json) |
 | Voxella | 186249 | [186249-voxella.json](./186249-voxella.json) |
 | VoxelMaker | 85481 | [85481-voxelmaker.json](./85481-voxelmaker.json) |
+| VoxelMancy | 194942 | [194942-voxelmancy.json](./194942-voxelmancy.json) |
 | Voxels.Place | 398436 | [398436-voxels-place.json](./398436-voxels-place.json) |
 | VoxelScaper | 272879 | [272879-voxelscaper.json](./272879-voxelscaper.json) |
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
