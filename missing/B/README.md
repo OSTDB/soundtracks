@@ -3209,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioFury | 277426 | [277426-biofury.json](./277426-biofury.json) |
 | BioFusion | 258546 | [258546-biofusion.json](./258546-biofusion.json) |
 | BioGloom | 207835 | [207835-biogloom.json](./207835-biogloom.json) |
+| Biohazard | 178438 | [178438-biohazard.json](./178438-biohazard.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
 | Biohazard RE: 2 - Z Version | 218542 | [218542-biohazard-re-2-z-version.json](./218542-biohazard-re-2-z-version.json) |
@@ -3497,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
+| Black Baby Classic | 178461 | [178461-black-baby-classic.json](./178461-black-baby-classic.json) |
 | Black Baron | 118530 | [118530-black-baron.json](./118530-black-baron.json) |
 | Black Bart | 101367 | [101367-black-bart.json](./101367-black-bart.json) |
 | Black Bass with Blue Marlin | 43881 | [43881-black-bass-with-blue-marlin.json](./43881-black-bass-with-blue-marlin.json) |
