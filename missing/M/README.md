@@ -5350,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirealle | 352390 | [352390-mirealle.json](./352390-mirealle.json) |
 | Mireille and Amrita, the Forest of Illusions | 188512 | [188512-mireille-and-amrita-the-forest-of-illusions.json](./188512-mireille-and-amrita-the-forest-of-illusions.json) |
 | Mirelaine | 360065 | [360065-mirelaine.json](./360065-mirelaine.json) |
+| Miriam: The Escape | 175703 | [175703-miriam-the-escape.json](./175703-miriam-the-escape.json) |
 | Mirk | 179584 | [179584-mirk.json](./179584-mirk.json) |
 | Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
 | Miro | 291051 | [291051-miro.json](./291051-miro.json) |
@@ -6358,6 +6359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D | 227516 | [227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json](./227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json) |
 | Monster in the Dark: Remaster | 195275 | [195275-monster-in-the-dark-remaster.json](./195275-monster-in-the-dark-remaster.json) |
 | Monster Island | 295237 | [295237-monster-island.json](./295237-monster-island.json) |
+| Monster Island HD | 175739 | [175739-monster-island-hd.json](./175739-monster-island-hd.json) |
 | Monster Jam Game | 260194 | [260194-monster-jam-game.json](./260194-monster-jam-game.json) |
 | Monster Jam Showdown: Bad News Travels Fast | 339291 | [339291-monster-jam-showdown-bad-news-travels-fast.json](./339291-monster-jam-showdown-bad-news-travels-fast.json) |
 | Monster Jam Showdown: Big Air Edition | 308808 | [308808-monster-jam-showdown-big-air-edition.json](./308808-monster-jam-showdown-big-air-edition.json) |
