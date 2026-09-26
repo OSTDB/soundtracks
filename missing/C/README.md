@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission | 214544 | [214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json](./214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Ultimate Edition | 268552 | [268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json](./268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json) |
 | Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
+| Captain Velvet Meteor: The Jump+ Dimensions | 194946 | [194946-captain-velvet-meteor-the-jump-dimensions.json](./194946-captain-velvet-meteor-the-jump-dimensions.json) |
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
 | Captain Whiskers: Incremental Seas | 386443 | [386443-captain-whiskers-incremental-seas.json](./386443-captain-whiskers-incremental-seas.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
 | Cataclysm | 308268 | [308268-cataclysm.json](./308268-cataclysm.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
+| Cataclysm: Bright Nights | 194968 | [194968-cataclysm-bright-nights.json](./194968-cataclysm-bright-nights.json) |
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
 | Catacomb Abyss 3D | 11044 | [11044-catacomb-abyss-3d.json](./11044-catacomb-abyss-3d.json) |
 | Catacomb Explorers | 30766 | [30766-catacomb-explorers.json](./30766-catacomb-explorers.json) |
@@ -2008,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic FC Club Football 2005 | 267902 | [267902-celtic-fc-club-football-2005.json](./267902-celtic-fc-club-football-2005.json) |
 | Celtic Football Coach | 138212 | [138212-celtic-football-coach.json](./138212-celtic-football-coach.json) |
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
+| Cemantle & Pedantle | 194956 | [194956-cemantle-and-pedantle.json](./194956-cemantle-and-pedantle.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
@@ -3332,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuǎngguān Yóuxì | 406094 | [406094-chuangguan-youxi.json](./406094-chuangguan-youxi.json) |
 | Chuánqí Shìjiè zhī Zhàng Jiàn Tiānyá H5 | 156638 | [156638-chuanqi-shijie-zhi-zhang-jian-tianya-h5.json](./156638-chuanqi-shijie-zhi-zhang-jian-tianya-h5.json) |
 | Chubby & Flubby | 176471 | [176471-chubby-and-flubby.json](./176471-chubby-and-flubby.json) |
+| Chubby Cat | 194984 | [194984-chubby-cat.json](./194984-chubby-cat.json) |
 | Chubby Cat 2 | 231050 | [231050-chubby-cat-2.json](./231050-chubby-cat-2.json) |
 | Chubby Cherub | 48031 | [48031-chubby-cherub.json](./48031-chubby-cherub.json) |
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
@@ -4003,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
 | Clifford the Big Red Dog: Learning Activities | 255656 | [255656-clifford-the-big-red-dog-learning-activities.json](./255656-clifford-the-big-red-dog-learning-activities.json) |
 | Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
+| Clik Flip | 194964 | [194964-clik-flip.json](./194964-clik-flip.json) |
 | Clim Snail | 379017 | [379017-clim-snail.json](./379017-clim-snail.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
 | Climb | 362343 | [362343-climb.json](./362343-climb.json) |
