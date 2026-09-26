@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
 | T3 - Take the Turn | 109728 | [109728-t3-take-the-turn.json](./109728-t3-take-the-turn.json) |
 | T3D: Genesis | 213357 | [213357-t3d-genesis.json](./213357-t3d-genesis.json) |
+| T90 Tank Battle Simulator in VR | 193186 | [193186-t90-tank-battle-simulator-in-vr.json](./193186-t90-tank-battle-simulator-in-vr.json) |
 | Ta ga Tame ni Oni wa Naku | 163357 | [163357-ta-ga-tame-ni-oni-wa-naku.json](./163357-ta-ga-tame-ni-oni-wa-naku.json) |
 | Taaltris | 94699 | [94699-taaltris.json](./94699-taaltris.json) |
 | Tab + Notch | 401091 | [401091-tab-notch.json](./401091-tab-notch.json) |
@@ -4299,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
 | The Haunted House: Dark Island | 392259 | [392259-the-haunted-house-dark-island.json](./392259-the-haunted-house-dark-island.json) |
 | The Haunted Song | 229056 | [229056-the-haunted-song.json](./229056-the-haunted-song.json) |
+| The Haunted: Hells Reach - The Island | 193226 | [193226-the-haunted-hells-reach-the-island.json](./193226-the-haunted-hells-reach-the-island.json) |
 | The Haunting of Billy | 33471 | [33471-the-haunting-of-billy.json](./33471-the-haunting-of-billy.json) |
 | The Haunting of Braidwood Manor | 313813 | [313813-the-haunting-of-braidwood-manor.json](./313813-the-haunting-of-braidwood-manor.json) |
 | The Haunting of Joni Evers | 290008 | [290008-the-haunting-of-joni-evers.json](./290008-the-haunting-of-joni-evers.json) |
@@ -8132,6 +8134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Puzzle: Pranks | 313515 | [313515-thief-puzzle-pranks.json](./313515-thief-puzzle-pranks.json) |
 | Thief Puzzle: Tricks | 313514 | [313514-thief-puzzle-tricks.json](./313514-thief-puzzle-tricks.json) |
 | Thief Simulator | 61616 | [61616-thief-simulator.json](./61616-thief-simulator.json) |
+| Thief Simulator: Luxury Houses | 193192 | [193192-thief-simulator-luxury-houses.json](./193192-thief-simulator-luxury-houses.json) |
 | Thief Simulator: Mastermind Edition | 362344 | [362344-thief-simulator-mastermind-edition.json](./362344-thief-simulator-mastermind-edition.json) |
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
 | Thief: Master Thief Edition | 53797 | [53797-thief-master-thief-edition.json](./53797-thief-master-thief-edition.json) |
@@ -10092,6 +10095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Color: ASMR Maze Escape | 245374 | [245374-tomb-color-asmr-maze-escape.json](./245374-tomb-color-asmr-maze-escape.json) |
 | Tomb Guard VR | 28874 | [28874-tomb-guard-vr.json](./28874-tomb-guard-vr.json) |
 | Tomb Joe | 29874 | [29874-tomb-joe.json](./29874-tomb-joe.json) |
+| Tomb Keeper Mansion Deluxe Pinball | 193215 | [193215-tomb-keeper-mansion-deluxe-pinball.json](./193215-tomb-keeper-mansion-deluxe-pinball.json) |
 | Tomb Nightmares | 302929 | [302929-tomb-nightmares.json](./302929-tomb-nightmares.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb of Horror | 356664 | [356664-tomb-of-horror.json](./356664-tomb-of-horror.json) |
@@ -11248,6 +11252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
 | Trailer Trashers | 130157 | [130157-trailer-trashers.json](./130157-trailer-trashers.json) |
+| Trailmakers: High Seas Expansion | 193221 | [193221-trailmakers-high-seas-expansion.json](./193221-trailmakers-high-seas-expansion.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
 | Trailmappers | 211233 | [211233-trailmappers.json](./211233-trailmappers.json) |
 | Trailmarks | 391079 | [391079-trailmarks.json](./391079-trailmarks.json) |
