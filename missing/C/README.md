@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
 | Call of Duty: Ghosts - Gold Edition | 100000 | [100000-call-of-duty-ghosts-gold-edition.json](./100000-call-of-duty-ghosts-gold-edition.json) |
+| Call of Duty: Global Operations | 196597 | [196597-call-of-duty-global-operations.json](./196597-call-of-duty-global-operations.json) |
 | Call of Duty: Infinite Warfare - Absolution | 44149 | [44149-call-of-duty-infinite-warfare-absolution.json](./44149-call-of-duty-infinite-warfare-absolution.json) |
 | Call of Duty: Infinite Warfare - Continuum | 28063 | [28063-call-of-duty-infinite-warfare-continuum.json](./28063-call-of-duty-infinite-warfare-continuum.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
