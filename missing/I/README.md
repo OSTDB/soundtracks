@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
 | In Hazy Clouds | 212761 | [212761-in-hazy-clouds.json](./212761-in-hazy-clouds.json) |
 | In Her Head | 276846 | [276846-in-her-head.json](./276846-in-her-head.json) |
+| In Hindsight | 179503 | [179503-in-hindsight.json](./179503-in-hindsight.json) |
 | In Hope Voiden | 350022 | [350022-in-hope-voiden.json](./350022-in-hope-voiden.json) |
 | In Light | 68278 | [68278-in-light.json](./68278-in-light.json) |
 | In Memoriam | 303586 | [303586-in-memoriam.json](./303586-in-memoriam.json) |
@@ -1824,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
 | Innyume | 223033 | [223033-innyume.json](./223033-innyume.json) |
+| Inokan | 179525 | [179525-inokan.json](./179525-inokan.json) |
 | InoLab Trials | 320326 | [320326-inolab-trials.json](./320326-inolab-trials.json) |
 | Inops | 114177 | [114177-inops.json](./114177-inops.json) |
 | Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
@@ -2090,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Simulator | 98241 | [98241-internet-simulator.json](./98241-internet-simulator.json) |
 | Internet Survivor Survivors | 413626 | [413626-internet-survivor-survivors.json](./413626-internet-survivor-survivors.json) |
 | Internity | 295883 | [295883-internity.json](./295883-internity.json) |
+| Internship Adventure | 179526 | [179526-internship-adventure.json](./179526-internship-adventure.json) |
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | Interplay Collection 2 | 130687 | [130687-interplay-collection-2.json](./130687-interplay-collection-2.json) |
 | Interplay Klondike Solitaire | 308359 | [308359-interplay-klondike-solitaire.json](./308359-interplay-klondike-solitaire.json) |
