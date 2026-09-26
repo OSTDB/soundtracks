@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrablaze | 68710 | [68710-quadrablaze.json](./68710-quadrablaze.json) |
 | QuadraDigger | 59952 | [59952-quadradigger.json](./59952-quadradigger.json) |
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
+| Quadratank | 225595 | [225595-quadratank.json](./225595-quadratank.json) |
 | Quadratic Puzzle 1 | 369202 | [369202-quadratic-puzzle-1.json](./369202-quadratic-puzzle-1.json) |
 | Quadratic Puzzle 2 | 374306 | [374306-quadratic-puzzle-2.json](./374306-quadratic-puzzle-2.json) |
 | Quadratic Puzzle 5 | 207376 | [207376-quadratic-puzzle-5.json](./207376-quadratic-puzzle-5.json) |
