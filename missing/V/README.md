@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vie: Itsuka no Natsu no Hi. | 131377 | [131377-vie-itsuka-no-natsu-no-hi.json](./131377-vie-itsuka-no-natsu-no-hi.json) |
 | Vier op een rij | 92991 | [92991-vier-op-een-rij.json](./92991-vier-op-een-rij.json) |
 | Vietcong | 101613 | [101613-vietcong.json](./101613-vietcong.json) |
+| VietDoom | 196013 | [196013-vietdoom.json](./196013-vietdoom.json) |
 | Vietnam '65 | 36116 | [36116-vietnam-65.json](./36116-vietnam-65.json) |
 | Vietnam 2: Special Assignment | 73247 | [73247-vietnam-2-special-assignment.json](./73247-vietnam-2-special-assignment.json) |
 | Vietnam War Platoon | 214746 | [214746-vietnam-war-platoon.json](./214746-vietnam-war-platoon.json) |
@@ -1557,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Pianist | 152878 | [152878-vr-pianist.json](./152878-vr-pianist.json) |
 | VR PingPong Sweetie | 384518 | [384518-vr-pingpong-sweetie.json](./384518-vr-pingpong-sweetie.json) |
 | VR Plane Crash | 156676 | [156676-vr-plane-crash.json](./156676-vr-plane-crash.json) |
+| VR Pong | 196035 | [196035-vr-pong.json](./196035-vr-pong.json) |
 | VR Prison Showdown：rookie Guard Rumble | 364063 | [364063-vr-prison-showdown-rookie-guard-rumble.json](./364063-vr-prison-showdown-rookie-guard-rumble.json) |
 | VR Rescue of Girls | 160253 | [160253-vr-rescue-of-girls.json](./160253-vr-rescue-of-girls.json) |
 | VR Retro Snake on Girls | 163292 | [163292-vr-retro-snake-on-girls.json](./163292-vr-retro-snake-on-girls.json) |
