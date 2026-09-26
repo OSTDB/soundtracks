@@ -3745,6 +3745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
 | Football Tournament | 164882 | [164882-football-tournament.json](./164882-football-tournament.json) |
 | Football, Tactics & Glory 2 | 258555 | [258555-football-tactics-and-glory-2.json](./258555-football-tactics-and-glory-2.json) |
+| Football, Tactics & Glory: Manager's Journey | 192149 | [192149-football-tactics-and-glory-managers-journey.json](./192149-football-tactics-and-glory-managers-journey.json) |
 | Football: Breakthrough Gaming Arcade | 145489 | [145489-football-breakthrough-gaming-arcade.json](./145489-football-breakthrough-gaming-arcade.json) |
 | Football: The Hardest Job | 123574 | [123574-football-the-hardest-job.json](./123574-football-the-hardest-job.json) |
 | Footballer of the Year | 41005 | [41005-footballer-of-the-year.json](./41005-footballer-of-the-year.json) |
