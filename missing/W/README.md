@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wands Alliances | 204345 | [204345-wands-alliances.json](./204345-wands-alliances.json) |
 | Wang Nukem | 308371 | [308371-wang-nukem.json](./308371-wang-nukem.json) |
 | Wangan Dead Heat + Real Arrange | 213942 | [213942-wangan-dead-heat-real-arrange.json](./213942-wangan-dead-heat-real-arrange.json) |
+| Wangan Dorifto | 199917 | [199917-wangan-dorifto.json](./199917-wangan-dorifto.json) |
 | Wangan Midnight | 268764 | [268764-wangan-midnight.json](./268764-wangan-midnight.json) |
 | Wangan Midnight Maximum Tune 3 | 68044 | [68044-wangan-midnight-maximum-tune-3.json](./68044-wangan-midnight-maximum-tune-3.json) |
 | Wangan Midnight Maximum Tune 3DX | 315268 | [315268-wangan-midnight-maximum-tune-3dx.json](./315268-wangan-midnight-maximum-tune-3dx.json) |
@@ -3617,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
 | WRC Collection | 275038 | [275038-wrc-collection.json](./275038-wrc-collection.json) |
+| WRC Collection Vol. 2 | 199929 | [199929-wrc-collection-vol-2.json](./199929-wrc-collection-vol-2.json) |
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
