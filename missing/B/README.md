@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Shark | 267342 | [267342-baby-shark.json](./267342-baby-shark.json) |
 | Baby Shark Run Away | 229621 | [229621-baby-shark-run-away.json](./229621-baby-shark-run-away.json) |
 | Baby Shark RUN! | 104467 | [104467-baby-shark-run.json](./104467-baby-shark-run.json) |
+| Baby Shark: ABC Phonics | 207236 | [207236-baby-shark-abc-phonics.json](./207236-baby-shark-abc-phonics.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
 | Baby Wild Katzen | 269655 | [269655-baby-wild-katzen.json](./269655-baby-wild-katzen.json) |
@@ -4075,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Arena | 148928 | [148928-block-arena.json](./148928-block-arena.json) |
 | Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
+| Block Blitz | 207280 | [207280-block-blitz.json](./207280-block-blitz.json) |
 | Block Bot: Puzzle Journey | 312158 | [312158-block-bot-puzzle-journey.json](./312158-block-bot-puzzle-journey.json) |
 | Block Bounce | 368489 | [368489-block-bounce.json](./368489-block-bounce.json) |
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
@@ -4186,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks of Nature | 216754 | [216754-blocks-of-nature.json](./216754-blocks-of-nature.json) |
 | Blocks Racing | 255060 | [255060-blocks-racing.json](./255060-blocks-racing.json) |
 | Blocks Stacking | 153352 | [153352-blocks-stacking.json](./153352-blocks-stacking.json) |
+| Blocks! | 207281 | [207281-blocks.json](./207281-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
 | BlockShot Champion | 56783 | [56783-blockshot-champion.json](./56783-blockshot-champion.json) |
@@ -5621,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Br Br Patapim | 351091 | [351091-br-br-patapim.json](./351091-br-br-patapim.json) |
 | BR Logic Pack | 369233 | [369233-br-logic-pack.json](./369233-br-logic-pack.json) |
 | BR1: Infinite | 194433 | [194433-br1-infinite.json](./194433-br1-infinite.json) |
+| Braaains! | 207284 | [207284-braaains.json](./207284-braaains.json) |
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
 | Bracket City | 341031 | [341031-bracket-city.json](./341031-bracket-city.json) |
@@ -5989,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
 | Breath of Fire III | 18055 | [18055-breath-of-fire-iii.json](./18055-breath-of-fire-iii.json) |
+| Breath of Fire III | 207256 | [207256-breath-of-fire-iii.json](./207256-breath-of-fire-iii.json) |
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
 | Breath of Light | 100615 | [100615-breath-of-light.json](./100615-breath-of-light.json) |
 | Breath of Spirits | 152736 | [152736-breath-of-spirits.json](./152736-breath-of-spirits.json) |
@@ -7168,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By Sword & Road | 394371 | [394371-by-sword-and-road.json](./394371-by-sword-and-road.json) |
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
 | By the Numbers | 413892 | [413892-by-the-numbers.json](./413892-by-the-numbers.json) |
+| By the Pier | 207290 | [207290-by-the-pier.json](./207290-by-the-pier.json) |
 | Byakko: Shijin Butai Enrenki | 342755 | [342755-byakko-shijin-butai-enrenki.json](./342755-byakko-shijin-butai-enrenki.json) |
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
 | Byakuya Museum | 249723 | [249723-byakuya-museum.json](./249723-byakuya-museum.json) |
