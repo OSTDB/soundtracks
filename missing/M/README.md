@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maledictor | 296969 | [296969-maledictor.json](./296969-maledictor.json) |
 | Maledictum | 382295 | [382295-maledictum.json](./382295-maledictum.json) |
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
+| Malek | 226710 | [226710-malek.json](./226710-malek.json) |
 | Malevolence | 115635 | [115635-malevolence.json](./115635-malevolence.json) |
 | Malevolence: The Sword of Ahkranox | 16908 | [16908-malevolence-the-sword-of-ahkranox.json](./16908-malevolence-the-sword-of-ahkranox.json) |
 | Malfortune | 105382 | [105382-malfortune.json](./105382-malfortune.json) |
@@ -2570,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meanings: Hidden in Plain Sight | 317346 | [317346-meanings-hidden-in-plain-sight.json](./317346-meanings-hidden-in-plain-sight.json) |
 | Meanwhile | 22329 | [22329-meanwhile.json](./22329-meanwhile.json) |
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
+| Mearth II | 226722 | [226722-mearth-ii.json](./226722-mearth-ii.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
 | Meat | 377302 | [377302-meat.json](./377302-meat.json) |
 | Meat | 383500 | [383500-meat.json](./383500-meat.json) |
@@ -4434,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
 | Migux | 138040 | [138040-migux.json](./138040-migux.json) |
 | Miharu: Alto Another Story | 403814 | [403814-miharu-alto-another-story.json](./403814-miharu-alto-another-story.json) |
+| Mihirha's Legacy | 226721 | [226721-mihirhas-legacy.json](./226721-mihirhas-legacy.json) |
 | Míhún Chē | 247447 | [247447-mihun-che.json](./247447-mihun-che.json) |
 | Miimi to Taata no Waiwai Oekaki Doubutsuen | 293148 | [293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json](./293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json) |
 | Miitopia | 143620 | [143620-miitopia.json](./143620-miitopia.json) |
@@ -4621,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Blox | 44203 | [44203-mind-blox.json](./44203-mind-blox.json) |
 | Mind Control | 25965 | [25965-mind-control.json](./25965-mind-control.json) |
 | Mind Control: Bloody Renaissance | 253910 | [253910-mind-control-bloody-renaissance.json](./253910-mind-control-bloody-renaissance.json) |
+| Mind Corridors: Paroniria | 226679 | [226679-mind-corridors-paroniria.json](./226679-mind-corridors-paroniria.json) |
 | Mind Detective Psychology Test | 409539 | [409539-mind-detective-psychology-test.json](./409539-mind-detective-psychology-test.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
 | Mind Echoes: Remnants of the Past | 416705 | [416705-mind-echoes-remnants-of-the-past.json](./416705-mind-echoes-remnants-of-the-past.json) |
@@ -7355,6 +7359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiwinia: Survival of the Flattest | 21273 | [21273-multiwinia-survival-of-the-flattest.json](./21273-multiwinia-survival-of-the-flattest.json) |
 | MultiWords | 265750 | [265750-multiwords.json](./265750-multiwords.json) |
 | Multiworlds | 377850 | [377850-multiworlds.json](./377850-multiworlds.json) |
+| Muma Rope | 226678 | [226678-muma-rope.json](./226678-muma-rope.json) |
 | Mumba IV: Egypt Jewels | 156636 | [156636-mumba-iv-egypt-jewels.json](./156636-mumba-iv-egypt-jewels.json) |
 | Mumbo Shuffle | 398547 | [398547-mumbo-shuffle.json](./398547-mumbo-shuffle.json) |
 | Mummification | 243063 | [243063-mummification.json](./243063-mummification.json) |
@@ -7596,11 +7601,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Football League 2 | 296351 | [296351-mutant-football-league-2.json](./296351-mutant-football-league-2.json) |
 | Mutant Football League: Brawltimore Razors | 154931 | [154931-mutant-football-league-brawltimore-razors.json](./154931-mutant-football-league-brawltimore-razors.json) |
 | Mutant Football League: Complete Bundle | 271469 | [271469-mutant-football-league-complete-bundle.json](./271469-mutant-football-league-complete-bundle.json) |
+| Mutant Football League: Diami Krakens | 226704 | [226704-mutant-football-league-diami-krakens.json](./226704-mutant-football-league-diami-krakens.json) |
 | Mutant Football League: Dynasty Edition - Purple Oil Pack | 154927 | [154927-mutant-football-league-dynasty-edition-purple-oil-pack.json](./154927-mutant-football-league-dynasty-edition-purple-oil-pack.json) |
 | Mutant Football League: Dynasty Edition DLC Pack | 118973 | [118973-mutant-football-league-dynasty-edition-dlc-pack.json](./118973-mutant-football-league-dynasty-edition-dlc-pack.json) |
 | Mutant Football League: Gnashville Lycans | 154929 | [154929-mutant-football-league-gnashville-lycans.json](./154929-mutant-football-league-gnashville-lycans.json) |
 | Mutant Football League: LA Power Pack | 154926 | [154926-mutant-football-league-la-power-pack.json](./154926-mutant-football-league-la-power-pack.json) |
 | Mutant Football League: Sin Fransicko Forty Nightmares | 154928 | [154928-mutant-football-league-sin-fransicko-forty-nightmares.json](./154928-mutant-football-league-sin-fransicko-forty-nightmares.json) |
+| Mutant Football League: Sinsonasty Mangles | 226695 | [226695-mutant-football-league-sinsonasty-mangles.json](./226695-mutant-football-league-sinsonasty-mangles.json) |
 | Mutant Football League: Snuffalo Thrills | 154930 | [154930-mutant-football-league-snuffalo-thrills.json](./154930-mutant-football-league-snuffalo-thrills.json) |
 | Mutant Football League: Terror Bay Mutantneers | 154932 | [154932-mutant-football-league-terror-bay-mutantneers.json](./154932-mutant-football-league-terror-bay-mutantneers.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
