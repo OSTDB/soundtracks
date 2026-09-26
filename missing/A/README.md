@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Knight's Quest | 109984 | [109984-a-knights-quest.json](./109984-a-knights-quest.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Koopa's Revenge 2 | 307669 | [307669-a-koopas-revenge-2.json](./307669-a-koopas-revenge-2.json) |
+| A Lab of One's Own | 177848 | [177848-a-lab-of-ones-own.json](./177848-a-lab-of-ones-own.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Legend of Wisdom | 232962 | [232962-a-legend-of-wisdom.json](./232962-a-legend-of-wisdom.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
@@ -334,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Promise Best Left Unkept | 235844 | [235844-a-promise-best-left-unkept.json](./235844-a-promise-best-left-unkept.json) |
 | A Promise Best Left Unkept: Aya Edition | 385835 | [385835-a-promise-best-left-unkept-aya-edition.json](./385835-a-promise-best-left-unkept-aya-edition.json) |
 | A Quick Death | 41973 | [41973-a-quick-death.json](./41973-a-quick-death.json) |
+| A Quick Journey to the Edge and Back | 177844 | [177844-a-quick-journey-to-the-edge-and-back.json](./177844-a-quick-journey-to-the-edge-and-back.json) |
 | A Quick One Before Azathoth Devours Fodrian | 271299 | [271299-a-quick-one-before-azathoth-devours-fodrian.json](./271299-a-quick-one-before-azathoth-devours-fodrian.json) |
 | A Rally of Trust | 337698 | [337698-a-rally-of-trust.json](./337698-a-rally-of-trust.json) |
 | A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
@@ -363,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sexy Tour With Riley | 379550 | [379550-a-sexy-tour-with-riley.json](./379550-a-sexy-tour-with-riley.json) |
 | A Sexy Tour With Stella | 368573 | [368573-a-sexy-tour-with-stella.json](./368573-a-sexy-tour-with-stella.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
+| A Shiver in Time | 177853 | [177853-a-shiver-in-time.json](./177853-a-shiver-in-time.json) |
 | A Shlong Adventure | 372122 | [372122-a-shlong-adventure.json](./372122-a-shlong-adventure.json) |
 | A Shooty Bit | 32977 | [32977-a-shooty-bit.json](./32977-a-shooty-bit.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
@@ -436,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout to El Dorado | 295241 | [295241-a-turnabout-to-el-dorado.json](./295241-a-turnabout-to-el-dorado.json) |
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
+| A Twisted Place | 177828 | [177828-a-twisted-place.json](./177828-a-twisted-place.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Verdant Hue | 32234 | [32234-a-verdant-hue.json](./32234-a-verdant-hue.json) |
@@ -3169,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Amazing Wizard | 169313 | [169313-an-amazing-wizard.json](./169313-an-amazing-wizard.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
+| An antidepressant | 177843 | [177843-an-antidepressant.json](./177843-an-antidepressant.json) |
 | An Aquatic Pokemon Tale | 323758 | [323758-an-aquatic-pokemon-tale.json](./323758-an-aquatic-pokemon-tale.json) |
 | An Archers Fate | 304635 | [304635-an-archers-fate.json](./304635-an-archers-fate.json) |
 | An Architect's Adventure | 211403 | [211403-an-architects-adventure.json](./211403-an-architects-adventure.json) |
@@ -4862,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
 | Archon: Initiator | 339920 | [339920-archon-initiator.json](./339920-archon-initiator.json) |
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
+| Archtower | 177859 | [177859-archtower.json](./177859-archtower.json) |
 | Archvale | 152168 | [152168-archvale.json](./152168-archvale.json) |
 | Archwar: Heroes and Demons | 227250 | [227250-archwar-heroes-and-demons.json](./227250-archwar-heroes-and-demons.json) |
 | Archwizard | 327408 | [327408-archwizard.json](./327408-archwizard.json) |
