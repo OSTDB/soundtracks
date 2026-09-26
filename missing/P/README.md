@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picnic | 22817 | [22817-picnic.json](./22817-picnic.json) |
 | Picnic Girls | 376760 | [376760-picnic-girls.json](./376760-picnic-girls.json) |
 | Picnic Paranoia | 18560 | [18560-picnic-paranoia.json](./18560-picnic-paranoia.json) |
+| Picnic Penguin | 202142 | [202142-picnic-penguin.json](./202142-picnic-penguin.json) |
 | Picnic Syndrome | 341578 | [341578-picnic-syndrome.json](./341578-picnic-syndrome.json) |
 | Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
 | Pico de Pon | 279771 | [279771-pico-de-pon.json](./279771-pico-de-pon.json) |
