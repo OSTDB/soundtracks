@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.L: Search of Light | 154380 | [154380-s-o-l-search-of-light.json](./154380-s-o-l-search-of-light.json) |
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
 | S.O.N.A.R.: Submarine Operators Not Actually Ready | 410320 | [410320-s-o-n-a-r-submarine-operators-not-actually-ready.json](./410320-s-o-n-a-r-submarine-operators-not-actually-ready.json) |
+| S.O.V. | 176785 | [176785-s-o-v.json](./176785-s-o-v.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
 | S.R.D. Mission | 40418 | [40418-s-r-d-mission.json](./40418-s-r-d-mission.json) |
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
@@ -1958,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Zero | 35783 | [35783-sector-zero.json](./35783-sector-zero.json) |
 | SectorA23 | 182552 | [182552-sectora23.json](./182552-sectora23.json) |
 | Sectron | 401629 | [401629-sectron.json](./401629-sectron.json) |
+| Secure | 176815 | [176815-secure.json](./176815-secure.json) |
 | Security 51 | 386228 | [386228-security-51.json](./386228-security-51.json) |
 | Security Booth: Director's Cut | 205075 | [205075-security-booth-directors-cut.json](./205075-security-booth-directors-cut.json) |
 | Security Guard Sex: Episode 3 | 312000 | [312000-security-guard-sex-episode-3.json](./312000-security-guard-sex-episode-3.json) |
@@ -2187,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sellsword | 405535 | [405535-sellsword.json](./405535-sellsword.json) |
 | Selsoviet | 411699 | [411699-selsoviet.json](./411699-selsoviet.json) |
 | Selve | 369109 | [369109-selve.json](./369109-selve.json) |
+| Sem % | 176816 | [176816-sem.json](./176816-sem.json) |
 | Semantica: Semantic game | 231905 | [231905-semantica-semantic-game.json](./231905-semantica-semantic-game.json) |
 | Semantics | 388255 | [388255-semantics.json](./388255-semantics.json) |
 | Semblance | 55173 | [55173-semblance.json](./55173-semblance.json) |
@@ -2969,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady's Stone Smash | 63567 | [63567-shadys-stone-smash.json](./63567-shadys-stone-smash.json) |
 | Shafted | 211692 | [211692-shafted.json](./211692-shafted.json) |
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
+| Shagster Online 2 | 176812 | [176812-shagster-online-2.json](./176812-shagster-online-2.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
 | Shakadou-san no Jun'ai Road | 182226 | [182226-shakadou-san-no-junai-road.json](./182226-shakadou-san-no-junai-road.json) |
 | Shake | 383508 | [383508-shake.json](./383508-shake.json) |
@@ -4850,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Now, Forever and Ever | 237290 | [237290-six-now-forever-and-ever.json](./237290-six-now-forever-and-ever.json) |
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
 | Six Seals | 384533 | [384533-six-seals.json](./384533-six-seals.json) |
+| Six Shots | 176796 | [176796-six-shots.json](./176796-six-shots.json) |
 | Six Sided Sanctuary | 128390 | [128390-six-sided-sanctuary.json](./128390-six-sided-sanctuary.json) |
 | Six Sides of the World Enhanced | 147980 | [147980-six-sides-of-the-world-enhanced.json](./147980-six-sides-of-the-world-enhanced.json) |
 | Six textures | 271297 | [271297-six-textures.json](./271297-six-textures.json) |
@@ -4939,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleskeleskelter | 234560 | [234560-skeleskeleskelter.json](./234560-skeleskeleskelter.json) |
 | Skelet_666 | 306380 | [306380-skelet-666.json](./306380-skelet-666.json) |
 | Skeletal Avenger | 136435 | [136435-skeletal-avenger.json](./136435-skeletal-avenger.json) |
+| Skeletal Dos Dreams | 176781 | [176781-skeletal-dos-dreams.json](./176781-skeletal-dos-dreams.json) |
 | Skeletal Skism | 186315 | [186315-skeletal-skism.json](./186315-skeletal-skism.json) |
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
 | Skeleton Attack: Nightmare Awaken | 216739 | [216739-skeleton-attack-nightmare-awaken.json](./216739-skeleton-attack-nightmare-awaken.json) |
@@ -5335,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash & Roll | 186299 | [186299-slash-and-roll.json](./186299-slash-and-roll.json) |
 | Slash and Fuck | 82893 | [82893-slash-and-fuck.json](./82893-slash-and-fuck.json) |
 | Slash Arena: Online | 51943 | [51943-slash-arena-online.json](./51943-slash-arena-online.json) |
+| Slash Em | 176825 | [176825-slash-em.json](./176825-slash-em.json) |
 | Slash It Ultimate | 44285 | [44285-slash-it-ultimate.json](./44285-slash-it-ultimate.json) |
 | Slash Mr. M | 181152 | [181152-slash-mr-m.json](./181152-slash-mr-m.json) |
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
