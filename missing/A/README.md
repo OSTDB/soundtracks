@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Link: Connect Near Me | 290465 | [290465-airport-link-connect-near-me.json](./290465-airport-link-connect-near-me.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
 | Airport Mania: First Flight HD | 175282 | [175282-airport-mania-first-flight-hd.json](./175282-airport-mania-first-flight-hd.json) |
+| Airport Master | 208904 | [208904-airport-master.json](./208904-airport-master.json) |
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
 | Airport Run | 268016 | [268016-airport-run.json](./268016-airport-run.json) |
 | Airport Scanner | 91172 | [91172-airport-scanner.json](./91172-airport-scanner.json) |
@@ -4515,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Gamer Classic | 202792 | [202792-arcade-gamer-classic.json](./202792-arcade-gamer-classic.json) |
 | Arcade Gamer Classic | 202793 | [202793-arcade-gamer-classic.json](./202793-arcade-gamer-classic.json) |
 | Arcade Hero | 358920 | [358920-arcade-hero.json](./358920-arcade-hero.json) |
+| Arcade Hole | 208907 | [208907-arcade-hole.json](./208907-arcade-hole.json) |
 | Arcade Horse Racing | 206137 | [206137-arcade-horse-racing.json](./206137-arcade-horse-racing.json) |
 | Arcade LA Deadzone | 106545 | [106545-arcade-la-deadzone.json](./106545-arcade-la-deadzone.json) |
 | Arcade Land | 99543 | [99543-arcade-land.json](./99543-arcade-land.json) |
@@ -6614,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening Automata | 174766 | [174766-awakening-automata.json](./174766-awakening-automata.json) |
 | Awakening of Celestial | 101385 | [101385-awakening-of-celestial.json](./101385-awakening-of-celestial.json) |
 | Awakening of Dragon | 110177 | [110177-awakening-of-dragon.json](./110177-awakening-of-dragon.json) |
+| Awakening of Dragon | 208908 | [208908-awakening-of-dragon.json](./208908-awakening-of-dragon.json) |
 | Awakening of Heroes | 61561 | [61561-awakening-of-heroes.json](./61561-awakening-of-heroes.json) |
 | Awakening Sarah | 255727 | [255727-awakening-sarah.json](./255727-awakening-sarah.json) |
 | Awakening the Light | 158553 | [158553-awakening-the-light.json](./158553-awakening-the-light.json) |
