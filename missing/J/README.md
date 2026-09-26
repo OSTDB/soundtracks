@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyville 2 | 305751 | [305751-joyville-2.json](./305751-joyville-2.json) |
 | JPDE: Sonata of Fire | 178042 | [178042-jpde-sonata-of-fire.json](./178042-jpde-sonata-of-fire.json) |
 | JQ: chemistry | 96633 | [96633-jq-chemistry.json](./96633-jq-chemistry.json) |
+| JR East Train Simulator | 215093 | [215093-jr-east-train-simulator.json](./215093-jr-east-train-simulator.json) |
 | JR EAST Train Simulator: Keiyo Line (Soga to Tokyo) E233-5000 Series | 254786 | [254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json](./254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json) |
 | JR East Train Simulator: Koumi Line (Kobuchizawa to Komoro) Kiha E200 series | 289465 | [289465-jr-east-train-simulator-koumi-line-kobuchizawa-to-komoro-kiha-e200-series.json](./289465-jr-east-train-simulator-koumi-line-kobuchizawa-to-komoro-kiha-e200-series.json) |
 | JR East Train Simulator: Oito Line - Matsumoto to Minami-Otari: 211 Series | 226693 | [226693-jr-east-train-simulator-oito-line-matsumoto-to-minami-otari-211-series.json](./226693-jr-east-train-simulator-oito-line-matsumoto-to-minami-otari-211-series.json) |
