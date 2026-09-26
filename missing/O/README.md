@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh No! UFO! | 386730 | [386730-oh-no-ufo.json](./386730-oh-no-ufo.json) |
 | Oh Noes!!1 | 91896 | [91896-oh-noes-1.json](./91896-oh-noes-1.json) |
 | Oh Ship! | 399593 | [399593-oh-ship.json](./399593-oh-ship.json) |
+| Oh Shit Boulder | 211691 | [211691-oh-shit-boulder.json](./211691-oh-shit-boulder.json) |
 | Oh the Humanity! | 311481 | [311481-oh-the-humanity.json](./311481-oh-the-humanity.json) |
 | Oh to be a ghost bringing a scarf to my beloved | 307696 | [307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json](./307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json) |
 | Oh, Bugger! | 347679 | [347679-oh-bugger.json](./347679-oh-bugger.json) |
@@ -943,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Drone | 236251 | [236251-one-drone.json](./236251-one-drone.json) |
 | One Drop | 284396 | [284396-one-drop.json](./284396-one-drop.json) |
 | One Dumb Wizard | 402970 | [402970-one-dumb-wizard.json](./402970-one-dumb-wizard.json) |
+| One Eleven | 211694 | [211694-one-eleven.json](./211694-one-eleven.json) |
 | One Epic Game | 52641 | [52641-one-epic-game.json](./52641-one-epic-game.json) |
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Final Chaos | 34286 | [34286-one-final-chaos.json](./34286-one-final-chaos.json) |
@@ -2065,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Palladium Collection | 196278 | [196278-outbreak-palladium-collection.json](./196278-outbreak-palladium-collection.json) |
 | Outbreak: Phantasmagoria Collection | 331428 | [331428-outbreak-phantasmagoria-collection.json](./331428-outbreak-phantasmagoria-collection.json) |
 | Outbreak: Platinum Collection | 205578 | [205578-outbreak-platinum-collection.json](./205578-outbreak-platinum-collection.json) |
+| Outbreak: Shades of Horror | 211659 | [211659-outbreak-shades-of-horror.json](./211659-outbreak-shades-of-horror.json) |
 | Outbreak: Shades of Horror Chromatic Split Anachronistic Collection | 331427 | [331427-outbreak-shades-of-horror-chromatic-split-anachronistic-collection.json](./331427-outbreak-shades-of-horror-chromatic-split-anachronistic-collection.json) |
 | Outbreak: Shades of Horror Chromatic Split Anthology Collection | 331426 | [331426-outbreak-shades-of-horror-chromatic-split-anthology-collection.json](./331426-outbreak-shades-of-horror-chromatic-split-anthology-collection.json) |
 | Outbreak: Shades of Horror Chromatic Split Apocalyptic Collection | 331425 | [331425-outbreak-shades-of-horror-chromatic-split-apocalyptic-collection.json](./331425-outbreak-shades-of-horror-chromatic-split-apocalyptic-collection.json) |
