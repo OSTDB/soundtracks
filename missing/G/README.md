@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost For Hire | 295310 | [295310-ghost-for-hire.json](./295310-ghost-for-hire.json) |
 | Ghost Grab 3000 | 116547 | [116547-ghost-grab-3000.json](./116547-ghost-grab-3000.json) |
+| Ghost Grimoire | 178949 | [178949-ghost-grimoire.json](./178949-ghost-grimoire.json) |
 | Ghost Guns | 122175 | [122175-ghost-guns.json](./122175-ghost-guns.json) |
 | Ghost Hand | 264672 | [264672-ghost-hand.json](./264672-ghost-hand.json) |
 | Ghost Hospital | 111741 | [111741-ghost-hospital.json](./111741-ghost-hospital.json) |
